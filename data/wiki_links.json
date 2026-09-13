@@ -7811,6 +7811,10 @@
     "title": "Beneficial State Bank",
     "url": "/wiki/entities/beneficialstatebank/"
   },
+  "BenefitSharingDecisionControl": {
+    "title": "分利共治与谋略独断 / Benefit Sharing With Decision Control",
+    "url": "/wiki/concepts/benefitsharingdecisioncontrol/"
+  },
   "BenevolentCommandExecutionGap": {
     "title": "Benevolent Command Execution Gap / 仁厚指挥执行缺口",
     "url": "/wiki/concepts/benevolentcommandexecutiongap/"
@@ -36631,6 +36635,10 @@
     "title": "刘表 / Liu Biao",
     "url": "/wiki/entities/liubiao/"
   },
+  "LiuBijiangWesternHan": {
+    "title": "刘碧江 / Liu Bijiang (Western Han)",
+    "url": "/wiki/entities/liubijiangwesternhan/"
+  },
   "LiuBinyan": {
     "title": "刘彬晏 / Liu Binyan",
     "url": "/wiki/entities/liubinyan/"
@@ -36654,6 +36662,10 @@
   "LiuChangLiangKing": {
     "title": "梁王刘畅 / Liu Chang (King of Liang)",
     "url": "/wiki/entities/liuchangliangking/"
+  },
+  "LiuChangleWesternHan": {
+    "title": "刘长乐 / Liu Changle (Western Han)",
+    "url": "/wiki/entities/liuchanglewesternhan/"
   },
   "LiuChenEmergencyDoctor": {
     "title": "刘臣 / Liu Chen (Emergency Physician)",
@@ -75954,6 +75966,10 @@
   "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z": {
     "title": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事",
     "url": "/wiki/sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z/"
+  },
+  "zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6": {
+    "title": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6/"
   },
   "zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a": {
     "title": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？",

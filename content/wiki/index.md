@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？](sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a.md) — 芮淇讲透资治通鉴 episode linking Fukushima discharge, Hiroshima, Nagasaki, and Chernobyl into a nuclear-risk memory and externalization argument.
+- [《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！](sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6.md) — 芮淇讲透资治通鉴 episode on Huo Guang's early Han Zhao regency, Lu-family caution, royal-kin appointments, and benefit sharing with decision control.
 - [《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事](sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z.md) — 芮淇讲透资治通鉴 episode on Jun Buyi's mother shaping his judicial ethic, Jin Midi's cautious sickbed enfeoffment, and family education as public character formation.
 - [《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？](sources/zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf.md) — 芮淇讲透资治通鉴 episode using northern-Myanmar fear as a hook for Burma's First Anglo-Burmese War miscalculation, Treaty of Yandabo shock, and decline from regional military power.
 - [《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？](sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep.md) — 芮淇讲透资治通鉴 episode on 85 BCE Han relief, post-Han-Wudi Xiongnu poverty, broken succession promises, forged commands, scapegoating, and early Xiongnu internal fracture.
@@ -2453,6 +2454,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [侯史吴 / Hou Shiwu (Western Han)](entities/HouShiWuWesternHan.md) — shelterer of Sang Qian whose self-surrender becomes the test case for Huo Guang's stricter rebellion-adjacent legal classification.
 - [王平 / Wang Ping (Western Han)](entities/WangPingWesternHan.md) — Tingwei punished after his narrow amnesty reading of the Hou Shiwu case is recast as indulgence of rebellion.
 - [徐仁 / Xu Ren (Western Han)](entities/XuRenWesternHan.md) — Shaofu and Tian Qianqiu's son-in-law whose Hou Shiwu judgment leads to imprisonment and suicide.
+- [刘碧江 / Liu Bijiang (Western Han)](entities/LiuBijiangWesternHan.md) — Western Han royal-kin appointee used by Huo Guang to signal inclusive regency benefit sharing.
+- [刘长乐 / Liu Changle (Western Han)](entities/LiuChangleWesternHan.md) — Western Han royal-kin appointee whose Guanglu Dafu office helps show Huo Guang's early royal-clan inclusion.
 - [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant in the anti-Huo conspiracy whose coalition misreading, imperial rebuke, and suicide frame Sang Hongyang's final case.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
@@ -12481,6 +12484,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [Nuclear Disaster Memory](concepts/NuclearDisasterMemory.md) — Frame connecting Hiroshima, Nagasaki, Fukushima, and Chernobyl as remembered nuclear harms with different temporal profiles.
 - [Nuclear Risk Externalization](concepts/NuclearRiskExternalization.md) — Pattern where nuclear accident aftermath is framed as shifted onto wider publics, ecosystems, or future generations.
+- [分利共治与谋略独断 / Benefit Sharing With Decision Control](concepts/BenefitSharingDecisionControl.md) — Court-politics method where a power broker shares offices and benefits to shrink opposition while keeping sensitive strategy concentrated.
 - [Colonial Power Miscalculation / 殖民强权误判](concepts/ColonialPowerMiscalculation.md) — Strategic-error pattern where inherited regional-power confidence misreads an industrial-colonial opponent's capacity and escalation threshold.
 - [Northern Myanmar Scam Compound Risk / 缅北诈骗园区风险](concepts/NorthernMyanmarScamCompoundRisk.md) — Myanmar-specific scam-compound risk where social engineering, captivity, violence, trafficking claims, and borderland weak governance overlap.
 - [High-Salary Exit Scam Trap / 高薪出境骗局](concepts/HighSalaryExitScamTrap.md) — Recruitment pattern where high pay or acquaintances lure victims across borders before coercion becomes visible.

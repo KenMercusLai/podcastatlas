@@ -10116,6 +10116,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/beneficialstatebank/"
     },
+    "BenefitSharingDecisionControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！ [FmmYOv0ecQYkQ37ZKphi40O52bc6].md",
+          "key": "zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/benefitsharingdecisioncontrol/"
+    },
     "BenevolentSpeechPractice": {
       "episode_count": 1,
       "show_count": 1,
@@ -29961,9 +29977,9 @@
       "url": "/wiki/entities/emperorzhangofhan/"
     },
     "EmperorZhaoOfHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -30006,6 +30022,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！ [FmmYOv0ecQYkQ37ZKphi40O52bc6].md",
+          "key": "zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6/"
         }
       ],
       "updated": "2026-09-14",
@@ -49406,9 +49429,9 @@
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -49528,6 +49551,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！ [FmmYOv0ecQYkQ37ZKphi40O52bc6].md",
+          "key": "zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6/"
         }
       ],
       "updated": "2026-09-14",
@@ -60314,6 +60344,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liubiao/"
     },
+    "LiuBijiangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！ [FmmYOv0ecQYkQ37ZKphi40O52bc6].md",
+          "key": "zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/liubijiangwesternhan/"
+    },
     "LiuCangDongpingKing": {
       "episode_count": 6,
       "show_count": 1,
@@ -60396,6 +60442,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/liuchangliangking/"
+    },
+    "LiuChangleWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！ [FmmYOv0ecQYkQ37ZKphi40O52bc6].md",
+          "key": "zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/liuchanglewesternhan/"
     },
     "LiuChenEmergencyDoctor": {
       "episode_count": 1,

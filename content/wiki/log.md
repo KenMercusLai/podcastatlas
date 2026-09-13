@@ -19403,6 +19403,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-14] ingest | 《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！
+
+Added source `zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6`; created `BenefitSharingDecisionControl`, `LiuBijiangWesternHan`, and `LiuChangleWesternHan`; updated `HuoGuangWesternHan` and `EmperorZhaoOfHan` with the Shiyuan 2 inspection layer, Huo Guang's formalized early regency, royal-kin inclusion, and benefit sharing with decision control. No settled contradiction found; Liu Bijiang, Liu Changle, the five envoys, the Lu-family comparison, and the quoted Zeng Guofan aphorism remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？
 
 Added source `zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui`; created `RewardedDenunciationFiscalEnforcement`; updated `HanWudi`, `StateCommercialMonopolyExtraction`, and `HeavyAgricultureLightCommercePolicy` with Han Wudi's profitable-goods monopoly, 算缗 assessment, 告缗 informant rewards, merchant insecurity, and the Wang Anshi-era anti-merchant comparison. No settled contradiction found; exact law, enforcement scope, commodity list, regional variation, and quantitative commercial decline remain source-scoped.
@@ -19450,6 +19454,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

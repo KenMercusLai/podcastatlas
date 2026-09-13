@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7376
+wiki_total_pages: 7377
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "ByteDanceGrowthSystem"
     title: "ByteDance Growth System"
     url: "/wiki/concepts/bytedancegrowthsystem/"
+  - key: "BenefitSharingDecisionControl"
+    title: "分利共治与谋略独断 / Benefit Sharing With Decision Control"
+    url: "/wiki/concepts/benefitsharingdecisioncontrol/"
   - key: "BreachOfSurrenderTrust"
     title: "受降失信 / Breach of Surrender Trust"
     url: "/wiki/concepts/breachofsurrendertrust/"
