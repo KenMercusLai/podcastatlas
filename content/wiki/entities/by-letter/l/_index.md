@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9983
+wiki_total_pages: 9985
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1343,6 +1343,9 @@ wiki_pages:
   - key: "LiuYiPingyuanWangLateHan"
     title: "平原王刘裔 / Liu Yi (Pingyuan Wang, late Han)"
     url: "/wiki/entities/liuyipingyuanwanglatehan/"
+  - key: "LiuQuGuangchuanKingWesternHan"
+    title: "广川王刘去 / Liu Qu, Guangchuan King (Western Han)"
+    url: "/wiki/entities/liuquguangchuankingwesternhan/"
   - key: "LiuJingGuanglingKingEasternHan"
     title: "广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)"
     url: "/wiki/entities/liujingguanglingkingeasternhan/"
@@ -1793,6 +1796,9 @@ wiki_pages:
   - key: "LihuaSpeechTherapist"
     title: "梨花医生 / Lihua Speech Therapist"
     url: "/wiki/entities/lihuaspeechtherapist/"
+  - key: "LiuYanshouChuKingWesternHan"
+    title: "楚王刘延寿 / Liu Yanshou, Chu King (Western Han)"
+    url: "/wiki/entities/liuyanshouchukingwesternhan/"
   - key: "LouJing"
     title: "楼敬 / Lou Jing"
     url: "/wiki/entities/loujing/"

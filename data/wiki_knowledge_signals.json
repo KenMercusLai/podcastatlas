@@ -59588,6 +59588,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liuqingqingheking/"
     },
+    "LiuQuGuangchuanKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年! [lqw0BTlWI4Ogmx94vNq7FoyeplNv].md",
+          "key": "zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/liuquguangchuankingwesternhan/"
+    },
     "LiuShangEasternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -60214,9 +60230,9 @@
       "url": "/wiki/entities/liuxiu/"
     },
     "LiuXuGuanglingKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子 [ltdQuDGPMGkulrHhXKzvJSvgjlo5].md",
@@ -60224,6 +60240,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年! [lqw0BTlWI4Ogmx94vNq7FoyeplNv].md",
+          "key": "zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv/"
         }
       ],
       "updated": "2026-09-13",
@@ -60508,6 +60531,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/liuyangzhendingkingeasternhan/"
+    },
+    "LiuYanshouChuKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年! [lqw0BTlWI4Ogmx94vNq7FoyeplNv].md",
+          "key": "zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/liuyanshouchukingwesternhan/"
     },
     "LiuYeDongpingQueenWesternHan": {
       "episode_count": 1,
@@ -84192,9 +84231,9 @@
       "url": "/wiki/concepts/royalkinpowerwithdrawal/"
     },
     "RoyalKinTreasonLawBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》738丨他拼死保全大汉气节，为何惨遭蒙冤？ [lrvC1F6FV2h66Q0PLeCIHmfMDVxU].md",
@@ -84209,9 +84248,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》684丨真定王刘杨为什么背叛光武帝刘秀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年! [lqw0BTlWI4Ogmx94vNq7FoyeplNv].md",
+          "key": "zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/royalkintreasonlawboundary/"
     },
     "RoyalKinshipScandalAdjudication": {
@@ -96997,9 +97043,9 @@
       "url": "/wiki/entities/tomorton/"
     },
     "TombDesecrationPoliticalViolence": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？ [loKpt93MUc8kasvN44VgsjKI8boM].md",
@@ -97028,9 +97074,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年! [lqw0BTlWI4Ogmx94vNq7FoyeplNv].md",
+          "key": "zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TommyRobinson": {
@@ -110320,9 +110373,9 @@
       "url": "/wiki/entities/yuchunorthernxiongnu/"
     },
     "YuDingguoWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -110344,6 +110397,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年! [lqw0BTlWI4Ogmx94vNq7FoyeplNv].md",
+          "key": "zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv/"
         }
       ],
       "updated": "2026-09-13",

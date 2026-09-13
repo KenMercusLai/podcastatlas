@@ -6,14 +6,17 @@ tags: [royal-family, treason, law, governance, eastern-han]
 sources:
   - zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu
   - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv
+last_updated: 2026-09-13
 ---
 
 ## Definition
 
-宗室谋逆法度边界 / royal kin treason law boundary is the court-governance principle that imperial kinship can affect procedure, mercy, and succession settlement, but cannot turn prophecy-backed claim-making, rebellion risk, or curse-linked treason suspicion into the emperor's private family matter.
+宗室谋逆法度边界 / royal kin treason law boundary is the court-governance principle that imperial kinship can affect procedure, mercy, containment, and succession settlement, but cannot turn prophecy-backed claim-making, rebellion risk, or curse-linked treason suspicion into the emperor's private family matter.
 
 ## Current Synthesis
+
+Hanji 417 adds a Western Han containment version before the two Eastern Han cases. [[LiuYanshouChuKingWesternHan|楚王刘延寿]] tries to use [[LiuXuGuanglingKingWesternHan|广陵王刘须]] as a more plausible claimant because Liu Xu is closer to the imperial line. Once the plot is reported, Liu Yanshou kills himself, but [[EmperorXuanOfHan|汉宣帝]] gives Liu Xu gold and valuables rather than immediately punishing him. The case shows kinship and claimant value creating a managed response even when private treason contact has been identified.
 
 Hanji 684 adds an early Guangwu version through [[LiuYangZhendingKingEasternHan|Liu Yang, Zhending King]]. Liu Yang manufactures a chen-style claim around an unusual neck growth, refuses ordinary summons, and is killed after [[GengChunEasternHan|Geng Chun]] draws him into a meeting. The aftermath qualifies the severity: Liu Xiu later considers the case short of actual rebellion and lets Liu Yang's son inherit Zhending. Kinship does not save the claimant, but it shapes the post-suppression settlement.
 
@@ -26,6 +29,7 @@ The concept is not modern equality before law. It preserves a court-centered dis
 ## Key Claims
 
 - Imperial brotherhood or sonship can alter procedure without cancelling public legal judgment.
+- Royal-kin treason suspicion can produce containment and reassurance before full punishment when the implicated prince remains politically sensitive.
 - Royal status can shape aftermath, as Liu Yang's son inherits Zhending after the threat is removed.
 - Treason suspicion is politically different from ordinary fief misconduct because it threatens the dynastic order itself.
 - Prophecy-backed claim-making can activate the boundary before open military rebellion occurs.
@@ -34,6 +38,8 @@ The concept is not modern equality before law. It preserves a court-centered dis
 
 ## Evidence
 
+- Western Han containment: [[zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv|Hanji 417]] says Liu Yanshou recruits Liu Xu because Liu Xu's closer descent from Han Wudi makes him a stronger claimant.
+- Exposure and split outcome: [[zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv|Hanji 417]] says Zhao Changnian reports the plan, Liu Yanshou kills himself, and Xuan responds to Liu Xu with gifts rather than immediate punishment.
 - Early preemption: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Yang manufactures a chen-text claim, refuses summons, and is killed by Geng Chun after a controlled meeting.
 - Succession mercy: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Xiu later treats the case as short of actual rebellion and lets Liu Yang's son Liu De succeed to Zhending.
 - Initial leniency: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Mingdi restricts Liu Jing's fief governance after the first report but still lets him receive fief income.
@@ -43,16 +49,18 @@ The concept is not modern equality before law. It preserves a court-centered dis
 
 ## Counterevidence & Qualifications
 
-The sources show both legal boundary and kinship discretion. Liu Xiu kills Liu Yang before open rebellion but preserves the fief line; Mingdi initially avoids harsher punishment, and Fan Tiao's answer still treats Liu Jing's full-brother status as procedurally sensitive. The concept should therefore not be generalized into impersonal rule of law. It names the narrower point that mandate threat and treason cannot be fully privatized by family feeling.
+The sources show both legal boundary and kinship discretion. Xuan rewards Liu Xu after an implicated plot even while Liu Yanshou dies; Liu Xiu kills Liu Yang before open rebellion but preserves the fief line; Mingdi initially avoids harsher punishment, and Fan Tiao's answer still treats Liu Jing's full-brother status as procedurally sensitive. The concept should therefore not be generalized into impersonal rule of law. It names the narrower point that mandate threat and treason cannot be fully privatized by family feeling, even though royal status can strongly shape timing, degree, and aftermath.
 
 ## What Changed
 
-- Added Hanji 684 as the early Liu Yang case where prophecy-backed royal-kin threat is killed while succession is preserved.
-- Reframed the concept to include pre-open-rebellion mandate disturbance as well as later curse-linked treason suspicion.
-- Preserved Hanji 738 as the stricter Liu Jing/Fan Tiao legal-argument layer.
+- Added Hanji 417 as a Western Han containment case where Liu Yanshou dies but Liu Xu is reassured after implicated contact.
+- Expanded the concept from suppression and succession settlement to include pre-punishment containment through gifts and reassurance.
+- Preserved the Eastern Han Liu Yang and Liu Jing cases as the stronger preemption and public-law argument layers.
 
 ## Related Concepts
 
+- [[LiuYanshouChuKingWesternHan|楚王刘延寿]] - Western Han conspirator whose failed plan exposes the succession-use of a closer royal claimant.
+- [[LiuXuGuanglingKingWesternHan|广陵王刘须]] - implicated prince whose treatment shows containment rather than immediate punishment.
 - [[LiuYangZhendingKingEasternHan|真定王刘杨]] - earlier Guangwu case where royal-kin threat is killed before open rebellion but the fief line continues.
 - [[GengChunEasternHan|耿纯]] - commander who carries out the Liu Yang suppression inside this boundary.
 - [[LiuJingGuanglingKingEasternHan|广陵王刘荆]] - source case where royal kinship and treason suspicion collide.

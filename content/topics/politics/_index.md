@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2492
+topic_total_pages: 2493
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6227,6 +6227,9 @@ topic_entities:
   - key: "QianlongEmperor"
     title: "乾隆 / Qianlong Emperor"
     url: "/wiki/entities/qianlongemperor/"
+  - key: "YuDingguoWesternHan"
+    title: "于定国 / Yu Dingguo"
+    url: "/wiki/entities/yudingguowesternhan/"
   - key: "RenTingEasternHan"
     title: "任廷 / Ren Ting (Eastern Han)"
     url: "/wiki/entities/rentingeasternhan/"
