@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？](sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r.md) — 芮淇讲透资治通鉴 episode on Liu Xiangfu's recalled Wusun heqin mission, Hexi/Western Regions strategy against Xiongnu, and Emperor Xuan's low-official salary increase as partial anti-corruption policy.
 - [《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？](sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's ritual education, grassroots local network, strict-kind subordinate management, and closed-door self-reproach handling of a brothers' land dispute.
 - [《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？](sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's sincere but morally coercive dispute handling, his loyal-victim family entry into office, and Woyanqudi Chanyu's purge-driven Xiongnu fragmentation.
 - [《资治通鉴·汉纪》447｜肆意杀囚，西汉酷吏严延年如何自取灭亡？](sources/zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l.md) — 芮淇讲透资治通鉴 episode on Yan Yannian's legal technique, mass executions, "屠伯" reputation, and Huang Ba's humane Yingchuan contrast before Hanji 448's downfall.
@@ -2348,6 +2349,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [刘相夫 / Princess Liu Xiangfu](entities/LiuXiangfuPrincessWesternHan.md) — Western Han heqin princess recalled from Dunhuang after Wusun succession changes the intended marriage.
 - [Medallia](entities/Medallia.md) — Customer-experience SaaS company used by All-In as a debt-backed software fragility case.
 - [Thoma Bravo](entities/ThomaBravo.md) — Software-focused private-equity firm discussed through the Medallia debt case.
 - [Southern Poverty Law Center](entities/SouthernPovertyLawCenter.md) — Nonprofit discussed through source-scoped indictment allegations and informant-accountability questions.
@@ -13320,7 +13322,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Motive-Based False-Accusation Defense / 动机反证式辩诬](concepts/MotiveBasedFalseAccusationDefense.md) — Reputation-defense pattern where a hard-to-disprove accusation is answered through motive, expected benefit, values, and behavioral plausibility rather than endless self-proof.
 - [宫廷宠幸自持 / Palace Favor Self-Restraint](concepts/PalaceFavorSelfRestraint.md) — Palace-favor pattern where intimate access is disciplined through ritual refusal, corrective counsel, non-jealous recommendation, and bounded rivalry.
 - [Disaster Omen Crisis Redirection / 灾异压力转移](concepts/DisasterOmenCrisisRedirection.md) — Crisis-management pattern where disaster-as-omen pressure is redirected into administrative correction, symbolic title repair, or scapegoat sacrifice.
-- [官吏俸禄不足抽取风险 / Official Salary Extraction Risk](concepts/OfficialSalaryExtractionRisk.md) — Governance pattern where salary cuts and emergency fiscal stress save public funds immediately but can push underpaid officials toward bribery, fees, coercion, or hidden local extraction.
+- [官吏俸禄不足抽取风险 / Official Salary Extraction Risk](concepts/OfficialSalaryExtractionRisk.md) — Governance pattern where low, cut, delayed, or unreliable official pay can push officials toward extraction, while salary increases may partly reduce that incentive.
 - [Frontier Official Abuse Rebellion Spiral / 边吏侵害引发反叛螺旋](concepts/FrontierOfficialAbuseRebellionSpiral.md) — Frontier failure mode where official abuse, communication gaps, coercive pursuit, destructive handling, and panic convert local harm or conscription fear into expanding rebellion and state cost.
 - [Palace Marriage Family Mobility / 后宫婚姻式家族跃迁](concepts/PalaceMarriageFamilyMobility.md) — Family strategy where a daughter's palace selection, imperial favor, and empress title convert household preparation into outer-relative status.
 - [宫廷艺伎宠幸跃迁 / Palace Performer Favor Mobility](concepts/PalacePerformerFavorMobility.md) — Court-mobility pattern where elite household placement, performance skill, beauty, and intermediary timing convert into imperial favor and palace rank.
@@ -13342,7 +13344,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [边郡恢复治理 / Frontier Commandery Restoration](concepts/FrontierCommanderyRestoration.md) — Strategy of restoring abandoned frontier commanderies when recognition, protection, return migration, wall repair, grain support, geography, logistics, settlement, and defense make abandonment more dangerous than repair.
 - [边疆资源整合治理 / Frontier Resource Integration](concepts/FrontierResourceIntegration.md) — Frontier-governance strategy tying failed surrender, residence pressure, local land, fishery, salt, migration, tuntian, and administrative restoration into state control.
 - [公主婚姻权力失衡 / Princess Marriage Power Asymmetry](concepts/PrincessMarriagePowerAsymmetry.md) — Royal-marriage pattern where princess rank and court proximity turn private conflict into asymmetric household and punishment risk.
-- [Heqin Princess Succession Entrapment / 和亲公主继承困局](concepts/HeqinPrincessSuccessionEntrapment.md) — Frontier-marriage pattern where a heqin princess remains trapped inside local succession, remarriage custom, factional conflict, and violence after the original alliance changes.
+- [Heqin Princess Succession Entrapment / 和亲公主继承困局](concepts/HeqinPrincessSuccessionEntrapment.md) — Frontier-marriage pattern where succession change can trap an embedded heqin princess, with Liu Xiangfu's recall as a prevention contrast.
 - [屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma](concepts/TuntianProximitySecurityDilemma.md) — Frontier pattern where military-agricultural settlement placed too close to neighboring groups creates fear and defensive alliance behavior.
 - [王国相整肃 / Royal Fief Discipline](concepts/RoyalFiefDiscipline.md) — Governance pattern where a kingdom minister forces a royal fief back under public law, ritual hierarchy, and administrative order.
 - [Agentic System-of-Record Moat](concepts/AgenticSystemOfRecordMoat.md) — AI-era enterprise software defense where agents need trusted context, permissions, workflows, and auditable state from systems of record.

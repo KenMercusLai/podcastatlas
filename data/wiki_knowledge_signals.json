@@ -43734,9 +43734,9 @@
       "url": "/wiki/entities/henryvplay/"
     },
     "HeqinPrincessSuccessionEntrapment": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
@@ -43751,6 +43751,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？ [lqvcsgEp3FSJTru13s694Vqkr08R].md",
+          "key": "zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
         }
       ],
       "updated": "2026-09-13",
@@ -58755,6 +58762,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/liuxiang/"
     },
+    "LiuXiangfuPrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？ [lqvcsgEp3FSJTru13s694Vqkr08R].md",
+          "key": "zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/liuxiangfuprincesswesternhan/"
+    },
     "LiuXiaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -70068,9 +70091,9 @@
       "url": "/wiki/concepts/officialmourningdutyconflict/"
     },
     "OfficialSalaryExtractionRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》783丨人性潜规则：你的价值决定一切 [lq5qBkI6CrhIEAFbV7G5kc07uNQe].md",
@@ -70092,9 +70115,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》650丨古代老祖宗也会被扣绩效工资？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？ [lqvcsgEp3FSJTru13s694Vqkr08R].md",
+          "key": "zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/officialsalaryextractionrisk/"
     },
     "OfflinePlatformSafetyBoundary": {
@@ -103413,9 +103443,9 @@
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
     "Wusun": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
@@ -103451,6 +103481,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？ [lqvcsgEp3FSJTru13s694Vqkr08R].md",
+          "key": "zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
         }
       ],
       "updated": "2026-09-13",

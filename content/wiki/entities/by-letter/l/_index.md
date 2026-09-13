@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9922
+wiki_total_pages: 9923
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1112,6 +1112,9 @@ wiki_pages:
   - key: "LiuYing"
     title: "刘盈 / Liu Ying"
     url: "/wiki/entities/liuying/"
+  - key: "LiuXiangfuPrincessWesternHan"
+    title: "刘相夫 / Princess Liu Xiangfu"
+    url: "/wiki/entities/liuxiangfuprincesswesternhan/"
   - key: "LiuJuLateHan"
     title: "刘矩 / Liu Ju (late Han)"
     url: "/wiki/entities/liujulatehan/"

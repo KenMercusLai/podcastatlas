@@ -18763,3 +18763,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？
+
+Added source note plus Liu Xiangfu. Key claims: Western Han recalls Liu Xiangfu from Dunhuang after Wusun succession changes the intended heqin bargain, and Emperor Xuan's low-official salary increase treats pay insufficiency as a corruption incentive rather than only a moral problem.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
