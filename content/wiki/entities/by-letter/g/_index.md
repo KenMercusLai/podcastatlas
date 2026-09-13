@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9926
+wiki_total_pages: 9929
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "GaiXunLateHan"
     title: "盖勋 / Gai Xun (late Han)"
     url: "/wiki/entities/gaixunlatehan/"
+  - key: "GaiKuanraoWesternHan"
+    title: "盖宽饶 / Gai Kuanrao (Western Han)"
+    url: "/wiki/entities/gaikuanraowesternhan/"
   - key: "GaiYanEasternHan"
     title: "盖延 / Gai Yan (Eastern Han)"
     url: "/wiki/entities/gaiyaneasternhan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7267
+wiki_total_pages: 7268
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2294,6 +2294,9 @@ wiki_pages:
   - key: "CoreStandingGroundPreservation"
     title: "立身之本保全 / Core Standing-Ground Preservation"
     url: "/wiki/concepts/corestandinggroundpreservation/"
+  - key: "ClassicalAllusionPoliticalRecoding"
+    title: "经典典故政治改写 / Classical Allusion Political Recoding"
+    url: "/wiki/concepts/classicalallusionpoliticalrecoding/"
   - key: "ClassicsBasedNamingGovernance"
     title: "经典据依式改名治理 / Classics-Based Naming Governance"
     url: "/wiki/concepts/classicsbasednaminggovernance/"

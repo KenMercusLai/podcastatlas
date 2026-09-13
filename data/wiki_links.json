@@ -12819,6 +12819,10 @@
     "title": "Classic Revoicing From New Position / 新位置重述经典",
     "url": "/wiki/concepts/classicrevoicingfromnewposition/"
   },
+  "ClassicalAllusionPoliticalRecoding": {
+    "title": "经典典故政治改写 / Classical Allusion Political Recoding",
+    "url": "/wiki/concepts/classicalallusionpoliticalrecoding/"
+  },
   "ClassicalAllusionPoliticalRiskReading": {
     "title": "典故化政治风险识读 / Classical Allusion Political Risk Reading",
     "url": "/wiki/concepts/classicalallusionpoliticalriskreading/"
@@ -23790,6 +23794,10 @@
   "GadiEisenkot": {
     "title": "Gadi Eisenkot",
     "url": "/wiki/entities/gadieisenkot/"
+  },
+  "GaiKuanraoWesternHan": {
+    "title": "盖宽饶 / Gai Kuanrao (Western Han)",
+    "url": "/wiki/entities/gaikuanraowesternhan/"
   },
   "GaiXunLateHan": {
     "title": "盖勋 / Gai Xun (late Han)",
@@ -54675,6 +54683,10 @@
     "title": "Silent SQL Failure",
     "url": "/wiki/concepts/silentsqlfailure/"
   },
+  "SiliXiaoweiWesternHan": {
+    "title": "司隶校尉 / Sili Xiaowei (Western Han)",
+    "url": "/wiki/entities/silixiaoweiwesternhan/"
+  },
   "SiliconCarbonGovernance": {
     "title": "Silicon Carbon Governance",
     "url": "/wiki/concepts/siliconcarbongovernance/"
@@ -69195,6 +69207,10 @@
     "title": "郑昌 / Zheng Chang (Han King)",
     "url": "/wiki/entities/zhengchanghanking/"
   },
+  "ZhengChangRemonstratorWesternHan": {
+    "title": "郑昌 / Zheng Chang (Western Han remonstrator)",
+    "url": "/wiki/entities/zhengchangremonstratorwesternhan/"
+  },
   "ZhengChenggong": {
     "title": "Zheng Chenggong / 郑成功",
     "url": "/wiki/entities/zhengchenggong/"
@@ -74998,6 +75014,10 @@
   "zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3": {
     "title": "《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！",
     "url": "/wiki/sources/zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3/"
+  },
+  "zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0": {
+    "title": "《资治通鉴·汉纪》441｜盖宽饶被汉宣帝逼死，背后的职场真相太讽刺!",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0/"
   },
   "zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd": {
     "title": "《资治通鉴·汉纪》442｜高段位职场人必读！揭秘古代帝王术",

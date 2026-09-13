@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9926
+wiki_total_pages: 9929
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1583,6 +1583,9 @@ wiki_pages:
   - key: "ZhengChangHanKing"
     title: "郑昌 / Zheng Chang (Han King)"
     url: "/wiki/entities/zhengchanghanking/"
+  - key: "ZhengChangRemonstratorWesternHan"
+    title: "郑昌 / Zheng Chang (Western Han remonstrator)"
+    url: "/wiki/entities/zhengchangremonstratorwesternhan/"
   - key: "ZhengPengWesternHan"
     title: "郑朋 / Zheng Peng (Western Han)"
     url: "/wiki/entities/zhengpengwesternhan/"

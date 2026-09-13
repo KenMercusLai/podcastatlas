@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！](sources/zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's cautious Qiang policy, 河湟屯田, infrastructure-led pacification, surrender results, and Zhu Yi's clean-official memory.
+- [《资治通鉴·汉纪》441｜盖宽饶被汉宣帝逼死，背后的职场真相太讽刺!](sources/zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0.md) — 芮淇讲透资治通鉴 episode on Gai Kuanrao's fatal remonstrance, Zheng Chang's failed defense, classical-allusion recoding, and the preface to why rulers use "lesser people."
 - [《资治通鉴·汉纪》442｜高段位职场人必读！揭秘古代帝王术](sources/zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd.md) — 芮淇讲透资治通鉴 episode on why rulers and bosses use morally compromised agents for dirty work, blame absorption, private needs, and stage-specific usefulness.
 - [《资治通鉴·汉纪》443｜霍去病没搞定的匈奴，赵充国怎么搞定的？](sources/zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's deterrent border standoff, Xiongnu succession fracture, Rizhu Wang's defection, Zheng Ji, and the Western Regions Protectorate.
 - [663. Britain in the 70s: The Brexit That Never Was (Part 2)](sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377.md) — The Rest Is History episode on Harold Wilson, the 1975 European Community referendum, Labour's Europe split, Tony Benn's No campaign, and inflation-era crisis politics.
@@ -2354,6 +2355,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [盖宽饶 / Gai Kuanrao (Western Han)](entities/GaiKuanraoWesternHan.md) — Western Han sili xiaowei whose critical memorial is recoded as abdication talk, making him a direct Emperor Xuan execution-overreach case.
+- [郑昌 / Zheng Chang (Western Han remonstrator)](entities/ZhengChangRemonstratorWesternHan.md) — Western Han remonstrance official who defends Gai Kuanrao as loyal but cannot stop the punishment process.
+- [司隶校尉 / Sili Xiaowei (Western Han)](entities/SiliXiaoweiWesternHan.md) — Western Han capital-area supervisory office that explains Gai Kuanrao's oversight power and enemy exposure.
 - [刘相夫 / Princess Liu Xiangfu](entities/LiuXiangfuPrincessWesternHan.md) — Western Han heqin princess recalled from Dunhuang after Wusun succession changes the intended marriage.
 - [Medallia](entities/Medallia.md) — Customer-experience SaaS company used by All-In as a debt-backed software fragility case.
 - [Thoma Bravo](entities/ThomaBravo.md) — Software-focused private-equity firm discussed through the Medallia debt case.
@@ -12284,6 +12288,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [经典典故政治改写 / Classical Allusion Political Recoding](concepts/ClassicalAllusionPoliticalRecoding.md) — Court-politics pattern where a classical or moral reference is reinterpreted as a direct threat to the ruler.
 - [脏活委托式君术 / Dirty-Work Delegation Statecraft](concepts/DirtyWorkDelegationStatecraft.md) — Court and workplace power pattern where rulers use disposable agents for coercive, gray-zone, flattering, or blame-bearing tasks they cannot openly own.
 - [AI Coding Vertical Integration](concepts/AICodingVerticalIntegration.md) — Strategy of combining AI coding interface, enterprise workflow, training data, model capability, and compute supply.
 - [Enterprise Agent Control Layer](concepts/EnterpriseAgentControlLayer.md) — Enterprise environment for coordinating many AI agents, model choices, permissions, tasks, and review loops.

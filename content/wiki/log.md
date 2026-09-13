@@ -18811,3 +18811,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》441｜盖宽饶被汉宣帝逼死，背后的职场真相太讽刺!
+
+Added source note plus Gai Kuanrao, Zheng Chang, Sili Xiaowei, and Classical Allusion Political Recoding. Key claims: Gai's critical memorial was recoded as abdication talk despite Zheng Chang's defense, extending Emperor Xuan's execution-overreach profile and setting up the next episode's dirty-work delegation theory.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
