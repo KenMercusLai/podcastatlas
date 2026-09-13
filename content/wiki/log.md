@@ -19233,6 +19233,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？
 
 Added source `zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1`; created `JunBuyiWesternHan`, `LiuJuCrownPrinceWesternHan`, `ChengFangsuiWesternHan`, `ClaimantImpostorCrisisHandling`, and `WuguIncidentWesternHan`; updated `EmperorZhaoOfHan` with the false-Liu-Ju claimant crisis before the later forged-memorial and anti-Huo conspiracy layers. No settled contradiction found; the full Wugu affair, Liu Ju's complete biography, Jun Buyi's full career, and Cheng Fangsui's legal record remain source-scoped.
@@ -19303,6 +19304,7 @@ Added source `zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanji
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 
 ## [2026-09-14] lint | Wiki health check
 
@@ -19417,6 +19419,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？
+
+Added source `zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep`; updated `Xiongnu` and `XiongnuSuccessionFragmentation` with the 85 BCE layer of Han relief, Xiongnu war exhaustion, broken succession promise, consort-family violence, forged command, scapegoating, and ritual withdrawal. No settled contradiction found; unstable Xiongnu names and office titles remain source-scoped.
 
 ## [2026-09-14] lint | Wiki health check
 

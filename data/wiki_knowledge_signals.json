@@ -110193,9 +110193,9 @@
       "url": "/wiki/entities/xinyelatehan/"
     },
     "Xiongnu": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -110329,15 +110329,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
           "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？ [lgBGAD_aQgcibJ_SINI7VJeTzvep].md",
+          "key": "zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/xiongnu/"
     },
     "XiongnuSuccessionFragmentation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼 [lo39-Mygg6xxo8cwCYvPQzCPZhRm].md",
@@ -110373,9 +110380,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》443｜霍去病没搞定的匈奴，赵充国怎么搞定的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？ [lgBGAD_aQgcibJ_SINI7VJeTzvep].md",
+          "key": "zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/xiongnusuccessionfragmentation/"
     },
     "XiuliChanyu": {

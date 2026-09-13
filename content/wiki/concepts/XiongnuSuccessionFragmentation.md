@@ -9,16 +9,17 @@ sources:
   - zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr
   - zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin
   - zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz
-last_updated: 2026-09-13
+  - zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep
+last_updated: 2026-09-14
 ---
 
 ## Definition
 
-匈奴式继承碎裂 / Xiongnu succession fragmentation is the pattern in which a steppe polity's central title or branch authority breaks apart when coercive appointment, purges, suspicion, killing, lineage claims, and opportunistic imitation make central command lose recognition.
+匈奴式继承碎裂 / Xiongnu succession fragmentation is the pattern in which a steppe polity's central title, succession promise, ritual center, or branch authority breaks apart when coercive appointment, purges, suspicion, killing, forged command, lineage claims, and opportunistic imitation make central command lose recognition.
 
 ## Current Synthesis
 
-Before the five-chanyu crisis, the pattern already appears as consort-backed enthronement, coercive appointment, branch non-recognition, defection, and terror-rule collapse. [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] shows the opening rupture: after a chanyu dies following a failed border pressure campaign against Zhao Chongguo, Zhuanqu Yanzhi and her brother help put Right Worthy King Tuqitang on the throne before wider elite consultation. The new chanyu purges opponents and removes the former chanyu's kin, Jihoushan flees, and Rizhu Wang Xianxianshan's older succession grievance turns into defection to Han. Hanji 446 continues that pattern: Woyanqudi Chanyu seizes power, kills the former Left Worthy King, installs his beloved son and full brother in the left and right worthy-king positions, and purges opponents and relatives of the previous chanyu. Jihoushan flees, Wuchanmu resents the chanyu after ignored advice and further killings, and Aoxian nobles refuse to accept the chanyu's young son as their king. [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|Hanji 448]] then adds the next step: Woyanqudi's accumulated cruelty leaves troops unwilling to stand and relatives unwilling to help when Huhanye challenges him. The result is not yet the later five-chanyu multiplication, but it shows central succession control failing when purges, imposed appointments, and fear outrun recognition.
+Before the five-chanyu crisis, the pattern already appears as broken succession promise, consort-backed enthronement, forged command, scapegoating, ritual withdrawal, coercive appointment, branch non-recognition, defection, and terror-rule collapse. [[zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep|Hanji 395-1]] adds the earliest current layer: after Han Wudi-era pressure weakens Xiongnu resources, Hulugu Chanyu's succession promise is bent, a senior yanzhi has a popular relative killed, Wei Lu and the main consort allegedly forge the dying chanyu's command, and later blame is redirected onto Lutu Wang despite his role as informer. The Left Worthy King and Right Guli King then withdraw to their own territories and stop attending the Longcheng sacrifice, showing fracture before the supreme title multiplies. [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] shows the next major rupture: after a chanyu dies following a failed border pressure campaign against Zhao Chongguo, Zhuanqu Yanzhi and her brother help put Right Worthy King Tuqitang on the throne before wider elite consultation. The new chanyu purges opponents and removes the former chanyu's kin, Jihoushan flees, and Rizhu Wang Xianxianshan's older succession grievance turns into defection to Han. Hanji 446 continues that pattern: Woyanqudi Chanyu seizes power, kills the former Left Worthy King, installs his beloved son and full brother in the left and right worthy-king positions, and purges opponents and relatives of the previous chanyu. Jihoushan flees, Wuchanmu resents the chanyu after ignored advice and further killings, and Aoxian nobles refuse to accept the chanyu's young son as their king. [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|Hanji 448]] then adds the next step: Woyanqudi's accumulated cruelty leaves troops unwilling to stand and relatives unwilling to help when Huhanye challenges him. The result is not yet the later five-chanyu multiplication, but it shows central succession control failing when purges, imposed appointments, and fear outrun recognition.
 
 [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|Hanji 449]] grounds the mature concept in the 57 BCE Xiongnu crisis. Tuqi Chanyu's killing of the Right Worthy King after a false accusation does not restore order; it broadcasts insecurity. Hujie Wang flees and proclaims himself chanyu, then You'aojian Wang and Wuji Duwei imitate the move, producing five simultaneous chanyus around Tuqi, Huhanye, Hujie, Cheli, and Wuji.
 
@@ -30,7 +31,7 @@ Fragmentation can contract without stabilizing. In the next phase, Huhanye defea
 
 ## Key Claims
 
-- Succession fragmentation accelerates when central killing is seen as fearful and arbitrary, and it can export internal conflict to Han through elite defection before rival chanyu titles multiply.
+- Succession fragmentation accelerates when central killing, forged command, or scapegoating is seen as fearful and arbitrary, and it can export internal conflict to Han through attempted submission or elite defection before rival chanyu titles multiply.
 - Coercive appointment can begin fragmentation even before rival chanyu titles appear, because branch elites may refuse to recognize an imposed ruler.
 - Self-proclamation can become imitative: one claimant's move lowers the threshold for other actors to seize the title.
 - Lineage legitimacy remains important even after fragmentation, because coalition partners still need a credible claimant around whom to regroup.
@@ -41,6 +42,11 @@ Fragmentation can contract without stabilizing. In the next phase, Huhanye defea
 ## Evidence
 
 Coercive appointment and branch breakaway:
+- [[zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep|Hanji 395-1]] says late-Han-Wudi pressure leaves Xiongnu poor and makes restored heqin desirable, setting a weak-resource background for elite conflict.
+- [[zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep|Hanji 395-1]] says Hulugu Chanyu does not fully honor the earlier succession arrangement, while a senior yanzhi has a popular Left Grand Commandant killed and creates lasting resentment.
+- [[zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep|Hanji 395-1]] says Wei Lu and the main consort conceal Hulugu Chanyu's death and forge a command to install a young son rather than the named brother.
+- [[zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep|Hanji 395-1]] says a failed plan to submit to Han is exposed after Lutu Wang reports it, then blame is redirected onto Lutu Wang even though the accusation is implausible.
+- [[zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep|Hanji 395-1]] says the Left Worthy King and Right Guli King stop attending the Longcheng sacrifice, making ritual withdrawal the visible sign of political fracture.
 - [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] says Zhuanqu Yanzhi and her brother raise Right Worthy King Tuqitang before the wider Xiongnu elite has completed succession consultation.
 - [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] says the new chanyu kills or removes former opponents and replaces the previous chanyu's kin with his own children and relatives.
 - [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] says Jihoushan flees to Wuchanmu for safety after losing the succession.
@@ -72,20 +78,19 @@ Re-fragmentation after consolidation:
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in compact podcast sources and should not yet be treated as a full model of all Xiongnu succession. It does not settle the exact genealogy of every claimant, the military geography of the campaigns, or whether Han's restraint was always superior to attack. Hanji 443 supplies the defection prehistory around Tuqitang, Zhuanqu Yanzhi, Jihoushan, Wuchanmu, and Rizhu Wang Xianxianshan, but keeps the full office map source-scoped. Hanji 446 supplies source-scoped names and branch details around Woyanqudi Chanyu, Jihoushan, Wuchanmu, and Aoxian, but not a full institutional map. Hanji 448 adds Woyanqudi's collapse and Huhanye's first successful challenge, but keeps Guxi Wang, Wuchanmu, Doulongqi, Tuqi Chanyu, and detailed Xiongnu offices source-scoped. Hanji 449 uses "five chanyus" as a narrative label for a phase of civil war, not as proof that all five claims had equal institutional depth. Hanji 452 adds the contraction and renewed three-chanyu pattern, but not a complete institutional account of why each later claim succeeded or failed.
+This concept is currently grounded in compact podcast sources and should not yet be treated as a full model of all Xiongnu succession. It does not settle the exact genealogy of every claimant, the military geography of the campaigns, or whether Han's restraint was always superior to attack. Hanji 395-1 supplies an 85 BCE prehistory around Hulugu Chanyu, Wei Lu, yanzhi politics, Lutu Wang, Yuguli Wang, and the Longcheng sacrifice, but keeps names, office mapping, and transcript variants source-scoped. Hanji 443 supplies the defection prehistory around Tuqitang, Zhuanqu Yanzhi, Jihoushan, Wuchanmu, and Rizhu Wang Xianxianshan, but keeps the full office map source-scoped. Hanji 446 supplies source-scoped names and branch details around Woyanqudi Chanyu, Jihoushan, Wuchanmu, and Aoxian, but not a full institutional map. Hanji 448 adds Woyanqudi's collapse and Huhanye's first successful challenge, but keeps Guxi Wang, Wuchanmu, Doulongqi, Tuqi Chanyu, and detailed Xiongnu offices source-scoped. Hanji 449 uses "five chanyus" as a narrative label for a phase of civil war, not as proof that all five claims had equal institutional depth. Hanji 452 adds the contraction and renewed three-chanyu pattern, but not a complete institutional account of why each later claim succeeded or failed.
 
 ## What Changed
 
-- Added Hanji 443's upstream defection layer: consort-backed enthronement, purge politics, Jihoushan's flight, and Rizhu Wang's submission to Han.
-- Preserved Hanji 448's bridge from Woyanqudi's cruelty to troop abandonment, Huhanye's challenge, and Woyanqudi's suicide.
-- Preserved Hanji 446's upstream layer: coercive appointment, purge politics, and Aoxian non-recognition before the later five-chanyu title multiplication.
-- Preserved Hanji 452's evidence that the five-chanyu crisis contracts under Huhanye and then re-fragments into new eastern and western chanyu claims.
-- Preserved the original concept from Hanji 449's five-chanyu crisis and Xiao Wangzhi's anti-attack advice.
+- Added Hanji 395-1's 85 BCE prehistory: broken succession promise, consort-family killing, forged command, implausible scapegoating, attempted submission to Han, and Longcheng-sacrifice withdrawal before rival chanyu titles multiply.
+- Preserved Hanji 443's upstream defection layer, Hanji 446's coercive appointment layer, and Hanji 448's bridge from Woyanqudi's cruelty to Huhanye's challenge.
+- Preserved Hanji 449's five-chanyu crisis, Xiao Wangzhi's anti-attack advice, and Hanji 452's contraction-then-refragmentation evidence.
 
 ## Related Concepts
 
 - [[AutocraticSuccession|Autocratic Succession]] - broader succession problem in personalized systems, while this concept isolates a title-multiplication case.
 - [[SuccessionNonDesignationRisk|未定继承人风险]] - related because unclear or contested succession lets rivals prepare competing legitimacy claims.
+- [[ForgedEdictSuccessionCoup|伪诏式继承政变]] - related because forged or concealed commands can convert a succession preference into imposed authority.
 - [[KinshipLegitimacyDiplomacy|亲属名分外交]] - related because lineage remains usable even after military defeat and title fragmentation.
 - [[GuestRiteSubmissionDiplomacy|宾礼式臣服外交]] - downstream strategy that turns Xiongnu weakness into status-managed submission.
 - [[StrategicConcessionDiplomacy|战略让步外交]] - related because restraint can be chosen to produce future leverage rather than immediate conquest.

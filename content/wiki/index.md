@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？](sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep.md) — 芮淇讲透资治通鉴 episode on 85 BCE Han relief, post-Han-Wudi Xiongnu poverty, broken succession promises, forged commands, scapegoating, and early Xiongnu internal fracture.
 - [《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！](sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb.md) — 芮淇讲透资治通鉴 episode linking Anglo-Burmese collapse, northern Myanmar scam compounds, high-salary exit traps, trafficking violence warnings, and geopolitical deterrence claims.
 - [《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？](sources/zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr.md) — 芮淇讲透资治通鉴 episode on six-year-old Shangguan Shi's palace entry, Huo Guang's refusal, Ding Wairen's princess access, and the early Shangguan-Huo rupture.
 - [《资治通鉴·汉纪》395-2｜三人背后的人性故事](sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp.md) — 芮淇讲透资治通鉴 short episode on Sartre's 《禁闭》, "他人就是地狱," damaged relations, external judgment dependence, and freedom through changed behavior.
