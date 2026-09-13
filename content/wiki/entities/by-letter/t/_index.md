@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9988
+wiki_total_pages: 9997
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "TacoBell"
     title: "Taco Bell"
     url: "/wiki/entities/tacobell/"
+  - key: "TairaClan"
+    title: "Taira Clan"
+    url: "/wiki/entities/tairaclan/"
   - key: "Taiwan"
     title: "Taiwan"
     url: "/wiki/entities/taiwan/"
@@ -428,6 +431,9 @@ wiki_pages:
   - key: "TheSocialRadars"
     title: "The Social Radars"
     url: "/wiki/entities/thesocialradars/"
+  - key: "TheTaleOfTheHeike"
+    title: "The Tale of the Heike"
+    url: "/wiki/entities/thetaleoftheheike/"
   - key: "TimeMachine"
     title: "The Time Machine / 《时间机器》"
     url: "/wiki/entities/timemachine/"
@@ -728,6 +734,9 @@ wiki_pages:
   - key: "TommyWood"
     title: "Tommy Wood"
     url: "/wiki/entities/tommywood/"
+  - key: "TomoeGozen"
+    title: "Tomoe Gozen"
+    url: "/wiki/entities/tomoegozen/"
   - key: "TomorrowToday"
     title: "Tomorrow Today"
     url: "/wiki/entities/tomorrowtoday/"

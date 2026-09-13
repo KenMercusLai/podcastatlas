@@ -1187,6 +1187,10 @@
     "title": "66.鱼翅与花椒：聊吃的我可就不困了",
     "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
   },
+  "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375": {
+    "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+    "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+  },
   "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730": {
     "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
     "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
@@ -7850,6 +7854,10 @@
   "BenjaminTodd": {
     "title": "Benjamin Todd",
     "url": "/wiki/entities/benjamintodd/"
+  },
+  "Benkei": {
+    "title": "Benkei",
+    "url": "/wiki/entities/benkei/"
   },
   "BennettHypothesis": {
     "title": "Bennett Hypothesis",
@@ -15574,6 +15582,10 @@
   "DanMoriarty": {
     "title": "Dan Moriarty",
     "url": "/wiki/entities/danmoriarty/"
+  },
+  "DanNoUraBattle": {
+    "title": "Dan-no-ura Battle",
+    "url": "/wiki/concepts/dannourabattle/"
   },
   "DanPashman": {
     "title": "Dan Pashman",
@@ -24571,6 +24583,10 @@
     "title": "Genome Language Models",
     "url": "/wiki/concepts/genomelanguagemodels/"
   },
+  "GenpeiWar": {
+    "title": "Genpei War",
+    "url": "/wiki/concepts/genpeiwar/"
+  },
   "GenreLiteraryLegitimacy": {
     "title": "Genre Literary Legitimacy / 类型文学正名",
     "url": "/wiki/concepts/genreliterarylegitimacy/"
@@ -25002,6 +25018,10 @@
   "GoPro": {
     "title": "GoPro",
     "url": "/wiki/entities/gopro/"
+  },
+  "GoShirakawa": {
+    "title": "Go-Shirakawa",
+    "url": "/wiki/entities/goshirakawa/"
   },
   "GoalBasedClientProfiling": {
     "title": "Goal-Based Client Profiling / 目标导向客户画像",
@@ -33323,6 +33343,10 @@
     "title": "Kalshi",
     "url": "/wiki/entities/kalshi/"
   },
+  "KamakuraShogunateFormation": {
+    "title": "Kamakura Shogunate Formation",
+    "url": "/wiki/concepts/kamakurashogunateformation/"
+  },
   "KamalaHarris": {
     "title": "Kamala Harris",
     "url": "/wiki/entities/kamalaharris/"
@@ -33887,6 +33911,10 @@
     "title": "Kirsten Korosek",
     "url": "/wiki/entities/kirstenkorosek/"
   },
+  "KisoYoshinaka": {
+    "title": "Kiso Yoshinaka",
+    "url": "/wiki/entities/kisoyoshinaka/"
+  },
   "Kissmetrics": {
     "title": "Kissmetrics",
     "url": "/wiki/entities/kissmetrics/"
@@ -34202,6 +34230,10 @@
   "KulvirTaggar": {
     "title": "Kulvir Taggar",
     "url": "/wiki/entities/kulvirtaggar/"
+  },
+  "KumagaiAndAtsumori": {
+    "title": "Kumagai and Atsumori",
+    "url": "/wiki/concepts/kumagaiandatsumori/"
   },
   "Kumamoto": {
     "title": "Kumamoto / 熊本",
@@ -40875,6 +40907,18 @@
     "title": "南硫磺岛 / Minami Ioto",
     "url": "/wiki/entities/minamiioto/"
   },
+  "MinamotoClan": {
+    "title": "Minamoto Clan",
+    "url": "/wiki/entities/minamotoclan/"
+  },
+  "MinamotoNoYoritomo": {
+    "title": "Minamoto no Yoritomo",
+    "url": "/wiki/entities/minamotonoyoritomo/"
+  },
+  "MinamotoNoYoshitsune": {
+    "title": "Minamoto no Yoshitsune",
+    "url": "/wiki/entities/minamotonoyoshitsune/"
+  },
   "MindBodyUnion": {
     "title": "Mind-Body Union",
     "url": "/wiki/concepts/mindbodyunion/"
@@ -44354,6 +44398,10 @@
   "OnlineVideoCopyrightRegime": {
     "title": "Online Video Copyright Regime",
     "url": "/wiki/concepts/onlinevideocopyrightregime/"
+  },
+  "OnnaMusha": {
+    "title": "Onna-musha",
+    "url": "/wiki/concepts/onnamusha/"
   },
   "OonaONeill": {
     "title": "Oona O'Neill / 乌娜",
@@ -52807,6 +52855,14 @@
     "title": "Samuel Moyn",
     "url": "/wiki/entities/samuelmoyn/"
   },
+  "SamuraiLegendAndPoliticalMemory": {
+    "title": "Samurai Legend and Political Memory",
+    "url": "/wiki/concepts/samurailegendandpoliticalmemory/"
+  },
+  "SamuraiRule": {
+    "title": "Samurai Rule",
+    "url": "/wiki/concepts/samurairule/"
+  },
   "SamuraiWilliam": {
     "title": "《武士威廉》",
     "url": "/wiki/entities/samuraiwilliam/"
@@ -58531,6 +58587,10 @@
     "title": "宋太丘社 / Taiqiu She",
     "url": "/wiki/entities/taiqiushe/"
   },
+  "TairaClan": {
+    "title": "Taira Clan",
+    "url": "/wiki/entities/tairaclan/"
+  },
   "Taishan": {
     "title": "泰山 / Taishan",
     "url": "/wiki/entities/taishan/"
@@ -59827,6 +59887,10 @@
     "title": "《猪倌》 / The Swineherd",
     "url": "/wiki/entities/theswineherd/"
   },
+  "TheTaleOfTheHeike": {
+    "title": "The Tale of the Heike",
+    "url": "/wiki/entities/thetaleoftheheike/"
+  },
   "TheTroubles": {
     "title": "The Troubles",
     "url": "/wiki/entities/thetroubles/"
@@ -60678,6 +60742,10 @@
   "TommyWood": {
     "title": "Tommy Wood",
     "url": "/wiki/entities/tommywood/"
+  },
+  "TomoeGozen": {
+    "title": "Tomoe Gozen",
+    "url": "/wiki/entities/tomoegozen/"
   },
   "TomorrowToday": {
     "title": "Tomorrow Today",

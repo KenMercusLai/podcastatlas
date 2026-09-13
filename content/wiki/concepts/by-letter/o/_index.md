@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7316
+wiki_total_pages: 7323
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -272,6 +272,9 @@ wiki_pages:
   - key: "OnlineVideoCopyrightRegime"
     title: "Online Video Copyright Regime"
     url: "/wiki/concepts/onlinevideocopyrightregime/"
+  - key: "OnnaMusha"
+    title: "Onna-musha"
+    url: "/wiki/concepts/onnamusha/"
   - key: "OpaqueHiringMarket"
     title: "Opaque Hiring Market / 不透明招聘市场"
     url: "/wiki/concepts/opaquehiringmarket/"

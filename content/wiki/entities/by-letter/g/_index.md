@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9988
+wiki_total_pages: 9997
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "GnaeusPompeiusStrabo"
     title: "Gnaeus Pompeius Strabo / 格奈乌斯·庞培乌斯·斯特拉波"
     url: "/wiki/entities/gnaeuspompeiusstrabo/"
+  - key: "GoShirakawa"
+    title: "Go-Shirakawa"
+    url: "/wiki/entities/goshirakawa/"
   - key: "GOAT"
     title: "GOAT"
     url: "/wiki/entities/goat/"

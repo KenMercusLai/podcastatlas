@@ -19050,6 +19050,10 @@ Added source note plus Judicial Abuse Rebellion Trigger, and updated Zheng Ji an
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 661. Dawn of the Samurai: The Shogun Triumphant (Part 4)
+
+Added source note plus new Genpei War, Kamakura shogunate, samurai memory, onna-musha, Dan-no-ura, Kumagai/Atsumori, Minamoto, Taira, Tomoe, Yoshitsune, Yoritomo, Kiso, Go-Shirakawa, Benkei, and Heike pages. Key claims: Yoshitsune wins the war militarily, Yoritomo wins the peace politically, and The Tale of the Heike turns historically grounded civil-war events into the legendary memory culture of samurai rule.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！
 
 Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended Judicial Abuse Rebellion Trigger. Key claims: Han Xuan strips Huo-linked relatives and in-laws of real military command while preserving formal titles; Zhang Anshi becomes the replacement command center for palace, gate, and northern-army forces; and Lu Wenshu's memorial treats harsh judicial incentives and torture-made confessions as threats to restoration.
@@ -19125,6 +19129,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | Essentials: Understand & Improve Memory Using Science-Based Tools
 
 Added source note plus Post-Learning Arousal Tagging, and updated Memory Consolidation Windows and Epinephrine Alertness Toolkit. Key claims: memory is selective perception shaped by repetition, attention, and state; acute adrenaline or norepinephrine late in learning or roughly 5-15 minutes afterward may tag selected material for stronger retention; and sleep, naps, non-sleep deep rest, exercise, visual framing, and meditation remain bounded support tools rather than universal medical or learning prescriptions.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

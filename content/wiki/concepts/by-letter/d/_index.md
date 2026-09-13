@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7316
+wiki_total_pages: 7323
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "DairyCategoryPremiumization"
     title: "Dairy Category Premiumization / 乳制品品类升级"
     url: "/wiki/concepts/dairycategorypremiumization/"
+  - key: "DanNoUraBattle"
+    title: "Dan-no-ura Battle"
+    url: "/wiki/concepts/dannourabattle/"
   - key: "DangerousAllyInvitationRisk"
     title: "Dangerous Ally Invitation Risk / 引强援反噬风险"
     url: "/wiki/concepts/dangerousallyinvitationrisk/"

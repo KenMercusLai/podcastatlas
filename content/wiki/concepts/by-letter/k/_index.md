@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 7316
+wiki_total_pages: 7323
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "KShapedConsumerSpending"
     title: "K-Shaped Consumer Spending"
     url: "/wiki/concepts/kshapedconsumerspending/"
+  - key: "KamakuraShogunateFormation"
+    title: "Kamakura Shogunate Formation"
+    url: "/wiki/concepts/kamakurashogunateformation/"
   - key: "Kaolin"
     title: "Kaolin / 高岭土"
     url: "/wiki/concepts/kaolin/"
@@ -101,6 +104,9 @@ wiki_pages:
   - key: "KRASOncologyTarget"
     title: "KRAS Oncology Target"
     url: "/wiki/concepts/krasoncologytarget/"
+  - key: "KumagaiAndAtsumori"
+    title: "Kumagai and Atsumori"
+    url: "/wiki/concepts/kumagaiandatsumori/"
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"

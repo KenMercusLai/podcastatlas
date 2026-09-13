@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7316
+wiki_total_pages: 7323
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -95,6 +95,12 @@ wiki_pages:
   - key: "SaltPermitLicenseCrisis"
     title: "Salt Permit License Crisis"
     url: "/wiki/concepts/saltpermitlicensecrisis/"
+  - key: "SamuraiLegendAndPoliticalMemory"
+    title: "Samurai Legend and Political Memory"
+    url: "/wiki/concepts/samurailegendandpoliticalmemory/"
+  - key: "SamuraiRule"
+    title: "Samurai Rule"
+    url: "/wiki/concepts/samurairule/"
   - key: "SanctionsEvasionCryptoPayments"
     title: "Sanctions Evasion Crypto Payments"
     url: "/wiki/concepts/sanctionsevasioncryptopayments/"

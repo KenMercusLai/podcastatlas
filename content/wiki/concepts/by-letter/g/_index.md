@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7316
+wiki_total_pages: 7323
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "GenomeLanguageModels"
     title: "Genome Language Models"
     url: "/wiki/concepts/genomelanguagemodels/"
+  - key: "GenpeiWar"
+    title: "Genpei War"
+    url: "/wiki/concepts/genpeiwar/"
   - key: "GenreLiteraryLegitimacy"
     title: "Genre Literary Legitimacy / 类型文学正名"
     url: "/wiki/concepts/genreliterarylegitimacy/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [661. Dawn of the Samurai: The Shogun Triumphant (Part 4)](sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375.md) — The Rest Is History episode on Tomoe, Yoshitsune's destruction of the Taira, Dan-no-ura, Yoritomo's political consolidation, and the birth of Kamakura samurai rule.
 - [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.
 - [《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？](sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng's public cost-based criticism of Han Wudi's ritual honor, Huang Ba's refusal to join impeachment, and their prison Shangshu study.
 - [《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇](sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p.md) — 芮淇讲透资治通鉴 episode on Xieyou Princess's early Wusun marriage, her aid letter to Han, Chang Hui's Wusun mission, and Feng Liao's emergence as a Western Regions intermediary.
@@ -12385,7 +12386,24 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The White-Haired Girl](entities/TheWhiteHairedGirl.md) — Revolutionary opera central to Guo Lanying's artistic and political identity in the source.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
+- [Benkei](entities/Benkei.md) — legendary warrior monk whose final-stand memory reinforces Yoshitsune's tragic heroic afterlife.
+- [Go-Shirakawa](entities/GoShirakawa.md) — cloistered emperor whose legitimacy value shapes the Genpei War power struggle and Yoritomo's settlement.
+- [Kiso Yoshinaka](entities/KisoYoshinaka.md) — Minamoto rival whose fall with Tomoe and Imai becomes a Heike memory of loyalty, fame, and stylized death.
+- [Minamoto Clan](entities/MinamotoClan.md) — victorious Genpei War warrior clan whose internal rivalries lead into Kamakura shogunate formation.
+- [Minamoto no Yoritomo](entities/MinamotoNoYoritomo.md) — political victor who turns Genpei War victory into Kamakura-centered samurai government.
+- [Minamoto no Yoshitsune](entities/MinamotoNoYoshitsune.md) — brilliant Minamoto commander whose Taira victories make him legendary and politically dangerous.
+- [Taira Clan](entities/TairaClan.md) — defeated Genpei War clan whose naval collapse and Dan-no-ura deaths become central samurai memory.
+- [The Tale of the Heike](entities/TheTaleOfTheHeike.md) — literary memory source preserving the Genpei War as vivid samurai legend and political transition.
+- [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
+
 ## Concepts
+- [Dan-no-ura Battle](concepts/DanNoUraBattle.md) — 1185 naval battle that destroys Taira power and turns military victory into mass-death memory.
+- [Genpei War](concepts/GenpeiWar.md) — Minamoto-Taira civil war whose final phase produces both samurai legend and Kamakura warrior government.
+- [Kamakura Shogunate Formation](concepts/KamakuraShogunateFormation.md) — Yoritomo's conversion of Genpei War victory into a Kamakura-based military government.
+- [Kumagai and Atsumori](concepts/KumagaiAndAtsumori.md) — Heike battlefield episode where killing a young Taira aristocrat becomes samurai grief and status memory.
+- [Onna-musha](concepts/OnnaMusha.md) — female-warrior category in samurai culture, developed through Tomoe and broader martial evidence.
+- [Samurai Legend and Political Memory](concepts/SamuraiLegendAndPoliticalMemory.md) — pattern where battlefield conduct, poetic narration, and later samurai identity reinforce one another.
+- [Samurai Rule](concepts/SamuraiRule.md) — warrior-governing order that emerges from Yoritomo's Kamakura settlement after the Genpei War.
 - [Deception As Patron Trust Collapse / 欺瞒式靠山信任崩塌](concepts/DeceptionAsPatronTrustCollapse.md) — pattern where a subordinate's lie to a protector turns a manageable offense into a fatal trust-system breach.
 - [Demographic Innovation Capacity / 人口创新能力](concepts/DemographicInnovationCapacity.md) — Liang Jianzhang's frame that young-cohort size, fertility, markets, and education pressure shape long-run innovation capacity.
 - [赞颂作为政治记忆 / Praise as Political Memory](concepts/PraiseAsPoliticalMemory.md) — Court-rhetoric pattern where praise frames a ruler's words or acts as worthy of circulation, imitation, and later historical memory.

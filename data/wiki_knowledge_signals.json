@@ -10053,6 +10053,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/benjaminlay/"
     },
+    "Benkei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/benkei/"
+    },
     "BernieSanders": {
       "episode_count": 2,
       "show_count": 2,
@@ -21622,6 +21638,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/dandriver/"
+    },
+    "DanNoUraBattle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/dannourabattle/"
     },
     "DanPashman": {
       "episode_count": 1,
@@ -39355,6 +39387,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/genomelanguagemodels/"
     },
+    "GenpeiWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/genpeiwar/"
+    },
     "GentleAnxietySupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -39961,6 +40009,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/gopro/"
+    },
+    "GoShirakawa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/goshirakawa/"
     },
     "GoalDisengagementAndReengagement": {
       "episode_count": 1,
@@ -53819,6 +53883,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/kaiserwilhelmii/"
     },
+    "KamakuraShogunateFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/kamakurashogunateformation/"
+    },
     "KandakeQueens": {
       "episode_count": 1,
       "show_count": 1,
@@ -54561,6 +54641,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/kirklandellis/"
     },
+    "KisoYoshinaka": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/kisoyoshinaka/"
+    },
     "KitcheeSC": {
       "episode_count": 1,
       "show_count": 1,
@@ -55201,6 +55297,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/kulawand/"
+    },
+    "KumagaiAndAtsumori": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/kumagaiandatsumori/"
     },
     "KunyangBattle": {
       "episode_count": 4,
@@ -67384,6 +67496,54 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/minkaneasternhan/"
     },
+    "MinamotoClan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/minamotoclan/"
+    },
+    "MinamotoNoYoritomo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/minamotonoyoritomo/"
+    },
+    "MinamotoNoYoshitsune": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/minamotonoyoshitsune/"
+    },
     "MindBodyUnion": {
       "episode_count": 3,
       "show_count": 3,
@@ -72391,6 +72551,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/onlineageverification/"
+    },
+    "OnnaMusha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/onnamusha/"
     },
     "OpenAIComputeStrategy": {
       "episode_count": 2,
@@ -85251,6 +85427,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/samueljohnson/"
     },
+    "SamuraiLegendAndPoliticalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/samurailegendandpoliticalmemory/"
+    },
+    "SamuraiRule": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/samurairule/"
+    },
     "SanWuHuan": {
       "episode_count": 12,
       "show_count": 2,
@@ -94415,6 +94623,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/taipingjing/"
     },
+    "TairaClan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/tairaclan/"
+    },
     "Taishan": {
       "episode_count": 3,
       "show_count": 1,
@@ -96183,6 +96407,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/thesaaspodcast/"
     },
+    "TheTaleOfTheHeike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/thetaleoftheheike/"
+    },
     "TheTroubles": {
       "episode_count": 4,
       "show_count": 1,
@@ -97454,6 +97694,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/tommywood/"
+    },
+    "TomoeGozen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7837412375 [GLT7837412375].md",
+          "key": "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375",
+          "show": "The Rest Is History",
+          "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
+          "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
       "episode_count": 3,

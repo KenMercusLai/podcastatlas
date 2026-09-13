@@ -1811,6 +1811,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730": [
     {
       "key": "history",
@@ -29565,6 +29572,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "GoShirakawa": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "GoalBasedClientProfiling": [
@@ -58940,6 +58954,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SamuraiLegendAndPoliticalMemory": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SamuraiWilliam": [
     {
       "key": "history",
@@ -67515,6 +67536,13 @@
     }
   ],
   "TheSwineherd": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheTaleOfTheHeike": [
     {
       "key": "culture",
       "label": "Culture",

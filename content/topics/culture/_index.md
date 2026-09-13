@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2694
+topic_total_pages: 2696
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2143,6 +2143,9 @@ topic_concepts:
   - key: "SafetyProductCredibility"
     title: "Safety Product Credibility"
     url: "/wiki/concepts/safetyproductcredibility/"
+  - key: "SamuraiLegendAndPoliticalMemory"
+    title: "Samurai Legend and Political Memory"
+    url: "/wiki/concepts/samurailegendandpoliticalmemory/"
   - key: "SatiricalGroupPortrait"
     title: "Satirical Group Portrait"
     url: "/wiki/concepts/satiricalgroupportrait/"
@@ -4997,6 +5000,9 @@ topic_entities:
   - key: "TheSocialRadars"
     title: "The Social Radars"
     url: "/wiki/entities/thesocialradars/"
+  - key: "TheTaleOfTheHeike"
+    title: "The Tale of the Heike"
+    url: "/wiki/entities/thetaleoftheheike/"
   - key: "TimeMachine"
     title: "The Time Machine / 《时间机器》"
     url: "/wiki/entities/timemachine/"

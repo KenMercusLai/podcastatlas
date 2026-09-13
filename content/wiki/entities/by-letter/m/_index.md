@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9988
+wiki_total_pages: 9997
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -968,6 +968,15 @@ wiki_pages:
   - key: "MinKao"
     title: "Min Kao / 高明环"
     url: "/wiki/entities/minkao/"
+  - key: "MinamotoClan"
+    title: "Minamoto Clan"
+    url: "/wiki/entities/minamotoclan/"
+  - key: "MinamotoNoYoritomo"
+    title: "Minamoto no Yoritomo"
+    url: "/wiki/entities/minamotonoyoritomo/"
+  - key: "MinamotoNoYoshitsune"
+    title: "Minamoto no Yoshitsune"
+    url: "/wiki/entities/minamotonoyoshitsune/"
   - key: "MindEmulationFoundation"
     title: "Mind Emulation Foundation"
     url: "/wiki/entities/mindemulationfoundation/"

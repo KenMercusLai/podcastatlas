@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2493
+topic_total_pages: 2494
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4838,6 +4838,9 @@ topic_entities:
   - key: "GnaeusOctaviusRomanConsul"
     title: "Gnaeus Octavius / 格奈乌斯·屋大维"
     url: "/wiki/entities/gnaeusoctaviusromanconsul/"
+  - key: "GoShirakawa"
+    title: "Go-Shirakawa"
+    url: "/wiki/entities/goshirakawa/"
   - key: "GracelandBaskaran"
     title: "Graceland Baskaran"
     url: "/wiki/entities/gracelandbaskaran/"
