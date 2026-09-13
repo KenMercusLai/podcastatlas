@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7357
+wiki_total_pages: 7359
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1052,6 +1052,9 @@ wiki_pages:
   - key: "PowerBasedAllianceRepricing"
     title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
     url: "/wiki/concepts/powerbasedalliancerepricing/"
+  - key: "PowerDominatedWealthInsecurity"
+    title: "Power-Dominated Wealth Insecurity / 权力笼罩下的财富不安全"
+    url: "/wiki/concepts/powerdominatedwealthinsecurity/"
   - key: "PowerStructureTargeting"
     title: "Power-Structure Targeting / 权力结构定向求援"
     url: "/wiki/concepts/powerstructuretargeting/"

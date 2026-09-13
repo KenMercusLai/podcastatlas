@@ -44852,9 +44852,9 @@
       "url": "/wiki/concepts/healthspanthreedomains/"
     },
     "HeavyAgricultureLightCommercePolicy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
@@ -44869,6 +44869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》400-2｜一代穷世代穷，难道穷人就该代代穷？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快 [liWmIsETJnLVfzarfmzpQq4-wDsQ].md",
+          "key": "zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq/"
         }
       ],
       "updated": "2026-09-14",
@@ -67515,6 +67522,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/mentalizingprojection/"
     },
+    "MerchantExchangeInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快 [liWmIsETJnLVfzarfmzpQq4-wDsQ].md",
+          "key": "zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/merchantexchangeinfrastructure/"
+    },
     "Merck": {
       "episode_count": 6,
       "show_count": 5,
@@ -78840,6 +78863,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/powerdidacticcommunication/"
+    },
+    "PowerDominatedWealthInsecurity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快 [liWmIsETJnLVfzarfmzpQq4-wDsQ].md",
+          "key": "zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/powerdominatedwealthinsecurity/"
     },
     "PowerMonopolyBackfire": {
       "episode_count": 1,

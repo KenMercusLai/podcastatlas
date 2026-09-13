@@ -19213,6 +19213,9 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-14] ingest | 《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快
+
+Added source `zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq`; created `MerchantExchangeInfrastructure` and `PowerDominatedWealthInsecurity`; updated `HeavyAgricultureLightCommercePolicy` with the episode's merchant-function and wealth-security critique. No settled contradiction found; GDP, Macartney, and broad divergence claims remain source-scoped.
 
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的
 
@@ -19336,6 +19339,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断
 
 Added source `dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf`; created `Zibianliang`, `WangQianZibianliang`, `EmbodiedRobotDataTradeoff`, `GeneralModelRobotBoundary`, and `RobotDeploymentSuccessEconomics`; updated `SuduTechnology`, `HanZheng`, `AntLingbo`, `ShenYujun`, `PokeRobotics`, and `XuHuazhe` with the four-company debate on simulation, real sensor data, Astra boundaries, layered architecture, complex contact, and deployment economics. No settled contradiction found; route disagreements remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

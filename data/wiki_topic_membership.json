@@ -44954,6 +44954,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MerchantExchangeInfrastructure": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Mercor": [
     {
       "key": "technology",
@@ -53326,6 +53333,13 @@
     }
   ],
   "PowerCenterProximityAdvantage": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PowerDominatedWealthInsecurity": [
     {
       "key": "politics",
       "label": "Politics",
@@ -85229,6 +85243,13 @@
     }
   ],
   "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq": [
     {
       "key": "history",
       "label": "History",

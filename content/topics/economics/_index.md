@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2031
+topic_total_pages: 2032
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1885,6 +1885,9 @@ topic_concepts:
   - key: "MenuCosts"
     title: "Menu Costs"
     url: "/wiki/concepts/menucosts/"
+  - key: "MerchantExchangeInfrastructure"
+    title: "Merchant Exchange Infrastructure / 商人交换基础设施"
+    url: "/wiki/concepts/merchantexchangeinfrastructure/"
   - key: "MeritExcellenceIntelligence"
     title: "Merit, Excellence, and Intelligence"
     url: "/wiki/concepts/meritexcellenceintelligence/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2506
+topic_total_pages: 2507
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2545,6 +2545,9 @@ topic_concepts:
   - key: "PowerBasedAllianceRepricing"
     title: "Power-Based Alliance Repricing / 实力重估式阵营转向"
     url: "/wiki/concepts/powerbasedalliancerepricing/"
+  - key: "PowerDominatedWealthInsecurity"
+    title: "Power-Dominated Wealth Insecurity / 权力笼罩下的财富不安全"
+    url: "/wiki/concepts/powerdominatedwealthinsecurity/"
   - key: "PowerViolenceDistinction"
     title: "Power-Violence Distinction / 权力与暴力区分"
     url: "/wiki/concepts/powerviolencedistinction/"

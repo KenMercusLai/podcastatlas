@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7357
+wiki_total_pages: 7359
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "MenuCosts"
     title: "Menu Costs"
     url: "/wiki/concepts/menucosts/"
+  - key: "MerchantExchangeInfrastructure"
+    title: "Merchant Exchange Infrastructure / 商人交换基础设施"
+    url: "/wiki/concepts/merchantexchangeinfrastructure/"
   - key: "MerchantToIndustrialCityUpgrade"
     title: "Merchant To Industrial City Upgrade"
     url: "/wiki/concepts/merchanttoindustrialcityupgrade/"

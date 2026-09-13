@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1856
+topic_total_pages: 1857
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -5265,6 +5265,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr"
     title: "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的"
     url: "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+  - key: "zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq"
+    title: "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快"
+    url: "/wiki/sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq/"
   - key: "zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5"
     title: "《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？"
     url: "/wiki/sources/zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5/"
