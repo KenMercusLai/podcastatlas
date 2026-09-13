@@ -18867,3 +18867,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-13] ingest | 《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！
+
+Added source note for Hanji 437 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao uses slow pursuit and trust-building release to avoid turning Qiang flight into desperate resistance; he rejects self-protective obedience when an attack order would harm state interests; and his屯田 memorial turns frontier security into local grain, timber, bridges, irrigation, posts, and guarded farming.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

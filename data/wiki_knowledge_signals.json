@@ -36085,9 +36085,9 @@
       "url": "/wiki/concepts/frontierconscriptionbackfire/"
     },
     "FrontierDefensivePatience": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
@@ -36102,6 +36102,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争",
           "url": "/wiki/sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！ [lkLL2DzmkhIzuX3TGkz5oZaKt5DR].md",
+          "key": "zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr/"
         }
       ],
       "updated": "2026-09-13",
@@ -36295,9 +36302,9 @@
       "url": "/wiki/concepts/frontierrecognitioncredibilitytradeoff/"
     },
     "FrontierResourceIntegration": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》773丨东汉美女政治家邓绥，如何逆袭成皇后？ [lsmM5ngThJ368GuuMM2xbwC3veA5].md",
@@ -36319,6 +36326,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！ [lkLL2DzmkhIzuX3TGkz5oZaKt5DR].md",
+          "key": "zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr/"
         }
       ],
       "updated": "2026-09-13",
@@ -111387,9 +111401,9 @@
       "url": "/wiki/entities/zhaochonglatehan/"
     },
     "ZhaoChongguoWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -111432,6 +111446,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！ [lkLL2DzmkhIzuX3TGkz5oZaKt5DR].md",
+          "key": "zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr/"
         }
       ],
       "updated": "2026-09-13",

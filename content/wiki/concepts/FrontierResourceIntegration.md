@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5
   - zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae
   - zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3
+  - zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr
 last_updated: 2026-09-13
 ---
 
@@ -16,7 +17,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-The current synthesis now has an earlier Western Han case and a later Eastern Han policy formulation. [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] shows [[ZhaoChongguoWesternHan|赵充国]] applying the pattern in the 河湟 Qiang field: he refuses a low-yield attack, keeps troops for屯田 and pacification, opens land, repairs roads, builds more than seventy bridges, adds relay posts, and waits for surrender to become self-reinforcing. The policy is resource integration because the military answer becomes local production, movement capacity, and social settlement rather than only pursuit.
+The current synthesis now has an earlier Western Han case and a later Eastern Han policy formulation. [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|Hanji 437]] shows [[ZhaoChongguoWesternHan|赵充国]] formulating the 河湟 answer as a concrete operating plan: withdraw cavalry, hold key points with infantry, use pre-cut timber for villages, posts, irrigation, and more than seventy bridges, assign spring farmland to soldiers, guard the farms with cavalry, and move harvest grain to Jincheng. [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] then shows the same pattern as accepted policy: Zhao refuses a low-yield attack, keeps troops for屯田 and pacification, opens land, repairs roads, adds relay posts, and waits for surrender to become self-reinforcing. The policy is resource integration because the military answer becomes local production, movement capacity, and social settlement rather than only pursuit.
 
 Hanji 772 supplies the current Eastern Han prelude. [[MiTangQiangLeader|Mi Tang]]'s surrender, refusal to return, renewed rebellion, defeat, relocation, and remnant collapse show that frontier control is not secured by accepting submission alone. The episode then introduces [[CaoFengLateHan|Cao Feng]]'s Qinghai/Huangshui recommendation, making the policy problem one of food, residence, local resources, and state presence.
 
@@ -26,16 +27,18 @@ The proposed answer combines several state tools. Cao recommends garrison farmin
 
 ## Key Claims
 
-- Frontier rebellion can be strengthened by local resource autonomy, mobility, and subsistence pressure, not only by military organization; Western Hanji 439 shows Zhao Chongguo pairing non-attack with屯田, roads, bridges, relay stations, and surrender management.
+- Frontier rebellion can be strengthened by local resource autonomy, mobility, and subsistence pressure, not only by military organization; Western Hanji 437 and Hanji 439 show Zhao Chongguo pairing non-attack with屯田, roads, bridges, relay stations, guarded farming, and surrender management.
 - Failed surrender and relocation can expose resource and residence problems that battlefield victory does not solve.
 - Fertile land, salt, fishery, and food production are strategic assets when a frontier group can convert them into durable autonomy.
-- Garrison farming and infrastructure reduce supply distance and isolation while making settlement, military logistics, roads, bridges, and relay stations reinforce each other.
+- Garrison farming and infrastructure reduce supply distance and isolation while making settlement, military logistics, roads, bridges, irrigation, guard posts, and relay stations reinforce each other.
 - Migration and intermarriage are political tools when the state is trying to alter local alignment and identity over time.
 - Resource administration matters because leaving agriculture and salt outside state control can let frontier power accumulate independently.
 - The strategy can fail or remain incomplete when later rebellion or implementation limits outrun the original design.
 
 ## Evidence
 
+- Western Han operating plan: [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|Hanji 437]] says Zhao Chongguo proposes withdrawing cavalry and leaving 10,281 soldiers to hold key places rather than launching a broad attack.
+- Timber, bridges, fields, and grain: [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|Hanji 437]] says Zhao plans to use pre-cut timber for villages, posts, irrigation, and more than seventy bridges, give soldiers thirty mu each for spring farming, guard the farms with cavalry, and move harvest grain to Jincheng.
 - Western Han operational case: [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says Zhao Chongguo leaves more than ten thousand troops in the 河湟 field for屯田 and Qiang pacification instead of pursuing an uncertain decisive attack.
 - Infrastructure and settlement: [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says the program opens Huangshui land, repairs roads, builds more than seventy bridges, and creates relay stations and guard posts between Jincheng and the 河湟 area.
 - Surrender effect: [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says large numbers later surrender to Zhao and already-submitted Qiang become willing to help recruit remaining escapees.
@@ -49,11 +52,12 @@ The proposed answer combines several state tools. Cao recommends garrison farmin
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in one Western Han case and two adjacent Eastern Han source notes from the same podcast sequence. It should not be generalized into a claim that屯田, infrastructure, migration, or state resource control always stabilizes frontiers. Hanji 439 is success-framed but compressed and management-oriented; its construction and surrender figures remain source-scoped. The Eastern Han episodes supply the major qualification: Mi Tang's surrender fails before the policy package, and later acceptance and initial implementation do not prevent renewed Qiang rebellion, so the concept names a strategy and diagnostic frame rather than a guaranteed durable solution.
+This concept is grounded in one Western Han case across two source notes and two adjacent Eastern Han source notes from the same podcast sequence. It should not be generalized into a claim that屯田, infrastructure, migration, or state resource control always stabilizes frontiers. Hanji 437 and Hanji 439 are success-framed but compressed and management-oriented; their construction, troop, land, and surrender figures remain source-scoped. The Eastern Han episodes supply the major qualification: Mi Tang's surrender fails before the policy package, and later acceptance and initial implementation do not prevent renewed Qiang rebellion, so the concept names a strategy and diagnostic frame rather than a guaranteed durable solution.
 
 ## What Changed
 
-- Added Hanji 439 as an earlier Western Han operational case where Zhao Chongguo combines屯田, infrastructure, pacification, and surrender management.
+- Added Hanji 437 as the detailed Western Han operating-plan layer for Zhao Chongguo's屯田, bridges, irrigation, guarded farming, and Jincheng grain accumulation.
+- Preserved Hanji 439 as the accepted Western Han operational case where Zhao Chongguo combines屯田, infrastructure, pacification, and surrender management.
 - Broadened the concept from Eastern Han resource-control policy to a wider frontier-governance pattern covering production, mobility, settlement, and state presence.
 - Preserved Hanji 772 as the failure-and-prelude layer before Cao Feng's fuller Hanji 773 memorial.
 - Reframed resource integration as a response to failed submission, residence, and subsistence management as well as to autonomous salt, fishery, and land resources.

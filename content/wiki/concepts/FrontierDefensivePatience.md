@@ -6,6 +6,7 @@ tags: [military-strategy, frontier, defense, deception, warring-states]
 sources:
   - zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh
   - zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt
+  - zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr
 last_updated: 2026-09-13
 ---
 
@@ -17,7 +18,7 @@ Frontier defensive patience / 边境防御耐心 is the command pattern where a 
 
 The foundational version comes through [[LiMu|李牧]]'s command against [[Xiongnu|匈奴]]. Li Mu refuses the raiders' preferred fight: when Xiongnu enter, people, livestock, and stores withdraw into fortified positions, and unauthorized pursuit is punished. The method looks weak because it produces no visible victories, but it preserves population, animals, supplies, and soldiers while training troops, rewarding them, gathering intelligence, and teaching the enemy to expect no attack. Patience becomes active once Li Mu opens the frontier as bait, feigns retreat, sacrifices a small party, and draws the Xiongnu main force into encirclement.
 
-A Western Han Qiang version appears through [[ZhaoChongguoWesternHan|赵充国]]. Zhao's patience is not built around later bait and encirclement. It is a refusal to let a July attack, heavy logistics, and the wrong target give the Qiang side a better fight. He argues that Han should wait, defend actively, train and organize, punish the Xianling Qiang as principal culprit, and keep coerced groups detachable instead of pushing them closer to Xianling.
+A Western Han Qiang version appears through [[ZhaoChongguoWesternHan|赵充国]]. Zhao's patience is not built around later bait and encirclement. It is a refusal to let a July attack, heavy logistics, and the wrong target give the Qiang side a better fight. He argues that Han should wait, defend actively, train and organize, punish the Xianling Qiang as principal culprit, and keep coerced groups detachable instead of pushing them closer to Xianling. Hanji 437 adds the field-pressure version of the same discipline: Zhao slows pursuit when Xianling Qiang are fleeing, because over-pressing desperate fugitives can convert flight into a death fight; he also refuses repeated challenges while waiting for hunger, surrender, and settlement mechanisms to do more work than attack.
 
 The current synthesis therefore treats defensive patience as a frontier command skill rather than simple inaction. It can set up a decisive battlefield, as with Li Mu, or prevent a bad battle from solidifying the enemy coalition, as with Zhao Chongguo.
 
@@ -27,6 +28,7 @@ The current synthesis therefore treats defensive patience as a frontier command 
 - Defensive patience requires discipline over one's own troops and superiors, because unauthorized courage or premature orders can give the enemy contact, captives, supply targets, or allies.
 - Reputation damage and court suspicion are part of the cost; the commander must make delay legible as preparation rather than fear.
 - The final action must be prepared before the opportunity is taken; patience without a planned strike, separation, or settlement path becomes mere passivity.
+- Pursuit restraint can be part of defensive patience when enemy flight, family burdens, river crossings, or panic make excessive pressure strategically counterproductive.
 - Frontier defensive patience depends on local autonomy, supply control, intelligence, soldier morale, and target selection, not only on walls or forts.
 
 ## Evidence
@@ -36,15 +38,18 @@ The current synthesis therefore treats defensive patience as a frontier command 
 - Timed bait and strike: [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh|Qinji 105]] says Li Mu later exposes people and livestock, feigns retreat, lets a small party be captured, and draws the Xiongnu main force into encirclement.
 - Anti-premature attack: [[zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt|Hanji 436]] says Zhao Chongguo rejects Xin Wuxian's July offensive by calculating grain loads, pack capacity, terrain, enemy timing, and supply-line risk.
 - Coalition-aware patience: [[zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt|Hanji 436]] says Zhao warns that attacking allied Qiang groups first would let Xianling Qiang rescue them and harden the coalition.
+- Pursuit restraint: [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|Hanji 437]] says Zhao orders slow pursuit after Xianling Qiang abandon wagons, livestock, families, and children, because cornered fugitives may turn and fight.
+- Waiting under provocation: [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|Hanji 437]] says Zhao refuses to go out despite Qiang challenges and instead relies on enemy exhaustion, surrender, and屯田 settlement.
 
 ## Counterevidence & Qualifications
 
-The pattern should not excuse permanent avoidance. Qinji 105 works because Li Mu eventually turns preparation into a decisive battle. Hanji 436 works because Zhao's refusal is tied to an alternative plan: punish the principal rebel, reassure coerced groups, and wait for enemy movement on better terms. Both sources are podcast summaries; troop counts, casualty figures, exact Qiang branch identities, and date conversions remain source-scoped.
+The pattern should not excuse permanent avoidance. Qinji 105 works because Li Mu eventually turns preparation into a decisive battle. Hanji 436 and Hanji 437 work because Zhao's refusal is tied to an alternative plan: punish the principal rebel, reassure coerced groups, avoid hardening a coalition, and build屯田 settlement capacity. These sources are podcast summaries; troop counts, casualty figures, exact Qiang branch identities, date conversions, and construction details remain source-scoped.
 
 ## What Changed
 
 - Migrated the page to the synthesis-v1 schema.
-- Added Hanji 436's Zhao Chongguo case as a coalition-aware version of frontier defensive patience.
+- Added Hanji 437's pursuit-restraint and waiting-under-provocation layer to Zhao Chongguo's case.
+- Preserved Hanji 436's Zhao Chongguo case as a coalition-aware version of frontier defensive patience.
 - Preserved Qinji 105's Li Mu case as the foundational bait-and-encirclement version.
 
 ## Related Concepts
