@@ -7,16 +7,17 @@ sources:
   - zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq
   - zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak
   - zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl
+  - zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-张安世 / Zhang Anshi enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as the cautious Western Han official who tries to reduce rewards attached to [[ZhangHeWesternHan|张贺]] and [[ZhangPengzuWesternHan|张彭祖]]. [[zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak|Hanji 432]] expands him into a representative [[QilinPavilionMeritHonors|麒麟阁功臣荣典]] figure, while [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] supplies the detailed court-behavior case: he survives imperial favor through low credit visibility, no private favors, and family de-concentration.
+张安世 / Zhang Anshi enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as the cautious Western Han official who tries to reduce rewards attached to [[ZhangHeWesternHan|张贺]] and [[ZhangPengzuWesternHan|张彭祖]]. [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] adds an earlier version of the same caution: Zhang Anshi blocks Zhang He's wish to marry a granddaughter to Liu Bingyi, then later joins [[HuoGuangWesternHan|霍光]] in the formal accession petition. [[zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak|Hanji 432]] expands him into a representative [[QilinPavilionMeritHonors|麒麟阁功臣荣典]] figure.
 
 ## Current Profile
 
-The current profile has three linked restraint layers. Hanji 430 uses Zhang Anshi as the practical opposite of reward appetite. Even when [[EmperorXuanOfHan|汉宣帝]] insists the reward is for Zhang He's old kindness rather than for Zhang Anshi, Zhang Anshi asks that the scale of tomb guards and honor be reduced. The host reads that restraint through [[RewardFitnessRisk|德位不配风险]]: accepting honor beyond merit can create danger.
+The current profile has four linked restraint layers. Hanji 410-1 shows Zhang Anshi refusing to let Zhang He overread Liu Bingyi's future: the young man is receiving support but remains politically marginal, so a Zhang-family marriage would expose the family to an unbalanced bet. Hanji 430 then uses Zhang Anshi as the practical opposite of reward appetite. Even when [[EmperorXuanOfHan|汉宣帝]] insists the reward is for Zhang He's old kindness rather than for Zhang Anshi, Zhang Anshi asks that the scale of tomb guards and honor be reduced. The host reads that restraint through [[RewardFitnessRisk|德位不配风险]].
 
 Hanji 431 places that restraint inside daily court practice. Zhang worries that father and son have both been ennobled and tries to resign surplus revenue; after Huo-family power collapses, he also fears that his granddaughter's Huo marriage will draw implication. Xuan pardons the granddaughter, but Zhang still treats excessive favor as a danger. He privately advises Xuan on major decisions, then hides his involvement by sick leave or feigned surprise after edicts are issued. He recommends talent but refuses gifts and thanks from the appointee, and he asks that [[ZhangYanshouWesternHan|张延寿]] be sent outward to prevent Zhang-family visibility from becoming too concentrated.
 
@@ -24,7 +25,7 @@ Hanji 432 broadens that restraint from one reward scene into a career style. The
 
 ## Key Characteristics
 
-- Senior Western Han figure tied to Zhang He's family reward branch and later remembered as a Qilin Pavilion meritorious minister.
+- Senior Western Han figure tied to Zhang He's family reward branch, cautious pre-accession marriage restraint, Liu Bingyi's enthronement, and later Qilin Pavilion memory.
 - Attempts to reduce excessive-seeming honor rather than maximize family gain.
 - Embodies a career-long low-profile style: cautious, few-spoken, generous, and careful not to expose excessive ambition or hidden influence.
 - Combines survival restraint with practical ability, illustrated by the lost-books memory story.
@@ -35,6 +36,8 @@ Hanji 432 broadens that restraint from one reward scene into a career style. The
 ## Evidence
 
 Reward restraint:
+- [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] says Zhang Anshi objects when Zhang He wants to marry his granddaughter to Liu Bingyi, arguing that Liu already receiving imperial clothing and food as a commoner is enough.
+- [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] says Zhang Anshi later joins Huo Guang and the other ministers in petitioning the empress dowager to install Liu Bingyi.
 - [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan discusses Zhang He's old kindness with Zhang Anshi.
 - [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Zhang Anshi asks to reduce Zhang He's tomb-guard households, even down to three.
 - [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan distinguishes gratitude to Zhang He from favor to Zhang Anshi.
@@ -58,16 +61,17 @@ Family-positioning risk:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430, Hanji 431, and Hanji 432. It does not reconstruct Zhang Anshi's full biography, complete offices, full Huo-family purge role, or broader family politics. Hanji 431's workplace-wisdom reading and Hanji 432's "善因厚德" character evaluation are preserved as host synthesis rather than complete historical proof of motive or causality.
+This page is source-scoped to Hanji 410-1, Hanji 430, Hanji 431, and Hanji 432. It does not reconstruct Zhang Anshi's full biography, complete offices, full Huo-family purge role, or broader family politics. Hanji 431's workplace-wisdom reading and Hanji 432's "善因厚德" character evaluation are preserved as host synthesis rather than complete historical proof of motive or causality.
 
 ## What Changed
 
-- Added Hanji 431's concrete court-behavior layer: hidden advice without public credit, no private favors from recommendations, fear after Huo-family collapse, and Zhang Yanshou's outward appointment as family visibility management.
+- Added Hanji 410-1's earlier caution-and-accession layer: Zhang Anshi blocks Zhang He's risky marriage plan but later joins the formal installation petition.
 
 ## Relationships
 
 - [[EmperorXuanOfHan]] - ruler whose reward Zhang Anshi tries to moderate and whose consolidation Zhang later supports.
 - [[ZhangHeWesternHan]] - old benefactor whose posthumous honor creates the reward issue.
+- [[HuoGuangWesternHan]] - regent with whom Zhang Anshi joins the accession petition.
 - [[ZhangPengzuWesternHan]] - family member and adopted heir involved in the reward branch.
 - [[ZhangTangWesternHan]] - father whose fate supplies a remembered warning about dangerous ruler proximity.
 - [[ZhangYanshouWesternHan]] - son whose outward appointment illustrates family de-concentration.

@@ -6,12 +6,13 @@ tags: [person, western-han, officials, punishment, governance]
 sources:
   - zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin
   - zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l
+  - zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-严延年 / Yan Yannian enters the wiki through [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|Hanji 448]] as a Western Han cruel official whose governing skill is inseparable from fear. [[zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l|Hanji 447]] now supplies the setup: before the fatal accusation, Yan is already known for legal skill, secret judgment writing, concentrated winter executions, and the "屠伯" reputation.
+严延年 / Yan Yannian enters the wiki through [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|Hanji 448]] as a Western Han cruel official whose governing skill is inseparable from fear. [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] adds an earlier and different role: as shi yushi, Yan impeaches [[HuoGuangWesternHan|霍光]] immediately after [[EmperorXuanOfHan|汉宣帝]]'s accession for unauthorized deposition and installation.
 
 ## Current Profile
 
@@ -26,6 +27,7 @@ The episode makes Yan's mother a moral witness. She sees his killing-based reput
 ## Key Characteristics
 
 - Western Han official identified with the "cruel official" tradition and remembered for severe punishments and mass executions.
+- Earlier censor who publicly challenges Huo Guang's regent-led deposition and installation authority.
 - Legally skilled local administrator who can punish powerful offenders but turns difficult-to-challenge rulings toward intimidation.
 - Administrator whose harshness makes even favored subordinates feel unsafe.
 - Rival contrast to Huang Ba's humane Yingchuan governance and omen-backed local success.
@@ -35,6 +37,7 @@ The episode makes Yan's mother a moral witness. She sees his killing-based reput
 ## Evidence
 
 Cruel-official profile:
+- [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] says Yan Yannian impeaches Huo Guang for擅自废立君上 and that other officials privately respect his courage.
 - [[zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l|Hanji 447]] says Yan personally writes judgments, keeps even close officials from knowing his intent in advance, and makes technically difficult-to-challenge cases.
 - [[zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l|Hanji 447]] says winter prisoner concentration and mass executions in Henan give him the "屠伯" reputation.
 - [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|Hanji 448]] calls Yan Yannian a "屠伯" and says he often sentenced people to death.
@@ -59,16 +62,18 @@ Maternal warning:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 447 and Hanji 448. It does not reconstruct Yan Yannian's whole career, the original legal text of the ten accusations, the exact evidentiary threshold for the resentment charge, or the full list of his punishments. Hanji 447's claim that Yan punishes豪强 who injure the weak prevents a flat caricature: his legal ability and public-order role are real in the source. The institutional mechanism preserved here is narrower than retribution language: cruel governance made subordinates afraid enough to expose him and made Xuan unwilling to promote or protect him.
+This page is source-scoped to Hanji 410-1, Hanji 447, and Hanji 448. It does not reconstruct Yan Yannian's whole career, the original legal text of the ten accusations, the exact evidentiary threshold for the resentment charge, or the full list of his punishments. Hanji 410-1's impeachment shows courage against regent power, while Hanji 447's claim that Yan punishes豪强 who injure the weak prevents a flat caricature of his later harshness.
 
 ## What Changed
 
 - Added Hanji 447's setup: legal skill, secret rulings, mass executions, Huang Ba contrast, and resentment before the downfall.
+- Added Hanji 410-1's early censorial challenge to Huo Guang's废立 authority.
 - Preserved Hanji 448's end-state synthesis around internal fear, disaster neglect, maternal warning, and public execution.
 
 ## Relationships
 
 - [[EmperorXuanOfHan|汉宣帝]] - ruler who cancels Yan's expected promotion and later orders investigation after the self-killing accusation.
+- [[HuoGuangWesternHan|霍光]] - regent whose accession authority Yan challenges.
 - [[HuangBaWesternHan|黄霸]] - local-governance contrast whose humane Yingchuan success exposes the limits of Yan's fear-based rule.
 - [[TerrorRuleBackfire|恐怖治理反噬]] - concept illustrated by Yan's conversion of subordinate fear into fatal exposure.
 - [[PoliticalExecutionOverreach|政治诛杀过度]] - contrast because Yan's case is presented as deserved punishment rather than a proportionality blemish like Han Yanshou or Yang Yun.

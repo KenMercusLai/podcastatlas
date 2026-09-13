@@ -18566,6 +18566,10 @@ Added source note plus Chang Hui. Key claims: Xieyou Princess's early Wusun marr
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》410-1｜狱中长大的汉宣帝刘病己，如何成就霸业？
+
+Added source note for the Liu Bingyi accession bridge and updated Zhang He, Xu Guanghan, Zhang Anshi, Du Yannian, Bing Ji, Huo Guang, and Yan Yannian. Key claims: Zhang He's education and marriage brokerage make Liu Bingyi's pre-accession support network concrete; Bing Ji and Du Yannian move him into Huo Guang's successor-selection field; and Yan Yannian's impeachment preserves the controversy around regent-led废立 authority.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！
 
 Added source `zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug`; updated `LiuHeHaihunHou` and `HuoGuangWesternHan` with the inner deposition procedure: ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, guarded control of Liu He, and the indictment's ritual-legitimacy logic. No settled contradiction found; the listed offenses remain source-scoped accusation logic rather than independent proof.
@@ -19145,6 +19149,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | Essentials: Understand & Improve Memory Using Science-Based Tools
 
 Added source note plus Post-Learning Arousal Tagging, and updated Memory Consolidation Windows and Epinephrine Alertness Toolkit. Key claims: memory is selective perception shaped by repetition, attention, and state; acute adrenaline or norepinephrine late in learning or roughly 5-15 minutes afterward may tag selected material for stronger retention; and sleep, naps, non-sleep deep rest, exercise, visual framing, and meditation remain bounded support tools rather than universal medical or learning prescriptions.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
