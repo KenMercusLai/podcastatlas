@@ -19254,6 +19254,14 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》400-2｜一代穷世代穷，难道穷人就该代代穷？
+
+Added source `zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym`; created `ZhuYuanzhang` and `StatusCodedEverydayRegulation`; updated `MingDynasty`, `HouseholdOccupationControl`, `RitualizedSocialBoundary`, `HeavyAgricultureLightCommercePolicy`, and `HanWudi` with the episode's contrast between Han Wudi's talent-channel opening and Zhu Yuanzhang's Ming household, occupational, clothing, housing, vessel, footwear, and hairstyle regulation. No settled contradiction found; exact Ming legal chronology, enforcement practice, and the institutional-history precision of the 察举 account remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

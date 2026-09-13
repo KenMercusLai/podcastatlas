@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7346
+wiki_total_pages: 7347
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2132,6 +2132,9 @@ wiki_pages:
   - key: "SymbolicStatusDowngradeBackfire"
     title: "象征性名分降格反噬 / Symbolic Status Downgrade Backfire"
     url: "/wiki/concepts/symbolicstatusdowngradebackfire/"
+  - key: "StatusCodedEverydayRegulation"
+    title: "身份编码式日常管制 / Status-Coded Everyday Regulation"
+    url: "/wiki/concepts/statuscodedeverydayregulation/"
   - key: "StatusFilteredSocialInvestment"
     title: "身份过滤式社交投资 / Status-Filtered Social Investment"
     url: "/wiki/concepts/statusfilteredsocialinvestment/"

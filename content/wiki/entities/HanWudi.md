@@ -11,7 +11,8 @@ sources:
   - 87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997
   - zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym
+last_updated: 2026-09-14
 knowledge_schema: synthesis-v1
 ---
 
@@ -31,6 +32,8 @@ The court-advice and fiscal-religious profile remains separate but related. [[zi
 
 Other layers make Han Wudi a calendar and moral-expenditure marker. [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] treats him as the ruler who fixed the Xia calendar's first day of the first month as 元旦. [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] uses him as [[SimaGuang|司马光]]'s later negative afterexample in the [[WeiyangPalace|未央宫]] discussion, where palace expansion exhausts the people.
 
+Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of class fixation, Han Wudi appears as a ruler who needed talent beyond outer-relative and hereditary channels. The source says he used ability-oriented selection and local recommendation to elevate people outside entrenched official lineages, making him a partial counterexample to complete status closure even though the page's broader evidence still emphasizes the costs and dangers of his rule.
+
 ## Key Characteristics
 
 - Wealth-backed offensive ruler whose anti-Xiongnu campaigns and Western Regions-Hexi program are treated as possible only after Western Han accumulation, but costly enough to require later reassessment.
@@ -38,7 +41,7 @@ Other layers make Han Wudi a calendar and moral-expenditure marker. [[zizhi-tong
 - Source-scoped case of spring war timing used to attack future population and livestock capacity.
 - Ruler whose preferences create advice risk for ministers trying to preserve agency inside impossible priority demands.
 - Imperial religious consumer whose fangshu patronage becomes fiscal, political, and succession danger.
-- Calendar-standardization anchor for Yuan Dan festival layering and political legitimacy.
+- Calendar-standardization anchor for Yuan Dan festival layering, political legitimacy, and source-scoped talent-channel opening beyond hereditary office families.
 - Negative fiscal-moral example in later critique of palace grandeur and untimely expenditure.
 
 ## Evidence
@@ -50,17 +53,18 @@ Other layers make Han Wudi a calendar and moral-expenditure marker. [[zizhi-tong
 - Advice-risk environment: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] uses Gongsun Hong's framing of Xiongnu and southwest priorities to show how a minister survives strong imperial preference without flat opposition.
 - Fangshu and Wugu danger: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] treats Han Wudi's immortality search and late-life curse panic as connected cases of hidden-cause authority becoming fiscal and political violence.
 - Calendar and palace critique: [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] makes Han Wudi a calendar-standardization anchor, while [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] preserves Sima Guang's critique of later palace expansion under him.
+- Talent-channel opening: [[zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym|Hanji 400-2]] says Han Wudi used ability-oriented selection and local recommendation to recruit figures outside hereditary official families.
 
 ## Qualifications
 
-This page remains a bounded wiki profile rather than a complete biography of Han Wudi. Hanji 841's reproductive-attrition interpretation is morally severe and source-scoped; it should not be treated as the whole explanation for Han-Xiongnu war. Hanji 723's Ban Gu layer likewise does not deny the strategic rationale of Western Regions expansion; it adds the cost and timing qualification that later makes Liu Xiu's restraint legible. Episode 87's fangshu and Wugu material comes from a different podcast source and should be read as a thematic branch, not as evidence for every military decision.
+This page remains a bounded wiki profile rather than a complete biography of Han Wudi. Hanji 841's reproductive-attrition interpretation is morally severe and source-scoped; it should not be treated as the whole explanation for Han-Xiongnu war. Hanji 723's Ban Gu layer likewise does not deny the strategic rationale of Western Regions expansion; it adds the cost and timing qualification that later makes Liu Xiu's restraint legible. Episode 87's fangshu and Wugu material comes from a different podcast source and should be read as a thematic branch, not as evidence for every military decision. Hanji 400-2's claim about talent selection and 察举 is recorded as the episode's comparative account, not as a full institutional history of Western Han appointment systems.
 
 ## What Changed
 
 - Migrated the legacy page into the synthesis-v1 entity schema.
 - Added Hanji 841's spring anti-Xiongnu reproductive and livestock attrition reading.
 - Added Hanji 723's Ban Gu comparison of Western Regions strategy, fiscal extraction, and Luntai self-criticism.
-- Integrated the military, advice-risk, calendar, palace, fangshu, and Wugu branches into one current profile.
+- Integrated the military, advice-risk, calendar, palace, fangshu, Wugu, and talent-selection branches into one current profile.
 - Preserved the older source order exactly before appending the new source slug.
 
 ## Relationships
@@ -80,3 +84,4 @@ This page remains a bounded wiki profile rather than a complete biography of Han
 - [[WuguPoliticalPanic|巫蛊之乱]] - late-life panic branch tied to hidden-cause accusations and succession violence.
 - [[YuanDanFestivalLayering|元旦节日层累]] - calendar and festival layer anchored by Han Wudi's calendar standardization.
 - [[WesternHanDynasty|西汉]] - dynastic setting for the resource, calendar, palace, and frontier-war branches.
+- [[OfficialSelectionChannelCompetition|选官通道竞争]] - later appointment-channel frame related to Hanji 400-2's contrast between hereditary closure and recommended talent.
