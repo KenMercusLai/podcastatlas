@@ -23288,6 +23288,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EmergencyFrontierDiscretion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmergencyWarningInfrastructure": [
     {
       "key": "technology",

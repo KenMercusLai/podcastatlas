@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7298
+wiki_total_pages: 7299
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
+  - key: "EmergencyFrontierDiscretion"
+    title: "临机边疆裁量 / Emergency Frontier Discretion"
+    url: "/wiki/concepts/emergencyfrontierdiscretion/"
   - key: "ExcavatedTextLexicalCorrection"
     title: "出土文献词义校正 / Excavated Text Lexical Correction"
     url: "/wiki/concepts/excavatedtextlexicalcorrection/"

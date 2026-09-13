@@ -27947,6 +27947,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/emergencycashassistance/"
     },
+    "EmergencyFrontierDiscretion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/emergencyfrontierdiscretion/"
+    },
     "EmergentInnovationStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -28899,9 +28915,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28993,6 +29009,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
         }
       ],
       "updated": "2026-09-13",
@@ -32960,9 +32983,9 @@
       "url": "/wiki/entities/fengchanlatehan/"
     },
     "FengFengshiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
@@ -32977,9 +33000,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/fengfengshiwesternhan/"
     },
     "FengGunLateHan": {
@@ -43465,9 +43495,9 @@
       "url": "/wiki/concepts/haremfiscaldiscipline/"
     },
     "HaremSuccessionRiskControl": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -43482,9 +43512,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
     "HaroldGodwinson": {
@@ -79544,9 +79581,9 @@
       "url": "/wiki/entities/qinshuiprincesseasternhan/"
     },
     "QiongchengTaihouWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
@@ -79554,9 +79591,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》540丨太后的葬礼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/qiongchengtaihouwesternhan/"
     },
     "QiuXiangLateHan": {
@@ -86060,6 +86104,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/shachekingdomlatehan/"
+    },
+    "ShacheKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/shachekingdomwesternhan/"
     },
     "ShaileshChitnis": {
       "episode_count": 2,
@@ -97881,9 +97941,9 @@
       "url": "/wiki/entities/ultabeauty/"
     },
     "UnauthorizedFrontierCommandIntervention": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？ [lk2zT5C3ONvUi9A4PPBowsHY66Tg].md",
@@ -97905,9 +97965,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
           "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？ [loxXI2QYNBrbMfQgOKos30sYPsxP].md",
+          "key": "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
     },
     "UnauthorizedPracticeOfLawAIBoundary": {
