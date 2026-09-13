@@ -26567,6 +26567,10 @@
     "title": "Emperor Cheng of Han / 汉成帝",
     "url": "/wiki/entities/hanchengdi/"
   },
+  "HanCommercialWealthAspiration": {
+    "title": "汉代商业财富愿望 / Han Commercial Wealth Aspiration",
+    "url": "/wiki/concepts/hancommercialwealthaspiration/"
+  },
   "HanDang": {
     "title": "韩当 / Han Dang",
     "url": "/wiki/entities/handang/"
@@ -29322,6 +29326,10 @@
   "HuoXuLateHan": {
     "title": "霍谞 / Huo Xu (late Han)",
     "url": "/wiki/entities/huoxulatehan/"
+  },
+  "HuozhiLiezhuanWealthEthic": {
+    "title": "《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic",
+    "url": "/wiki/concepts/huozhiliezhuanwealthethic/"
   },
   "Hupu": {
     "title": "虎扑 / Hupu",
@@ -35194,6 +35202,10 @@
   "LegitimacyWindowSeizure": {
     "title": "Legitimacy Window Seizure / 合法性窗口抢占",
     "url": "/wiki/concepts/legitimacywindowseizure/"
+  },
+  "LegitimateProfitBoundary": {
+    "title": "正当逐利边界 / Legitimate Profit Boundary",
+    "url": "/wiki/concepts/legitimateprofitboundary/"
   },
   "Lego": {
     "title": "Lego / 乐高",
@@ -51523,6 +51535,10 @@
     "title": "日光派对播客联盟",
     "url": "/wiki/entities/riguangpaidui/"
   },
+  "RiliBaqianwanBeltHook": {
+    "title": "“日利八千万”鲤鱼形铜带钩 / Rili Baqianwan Belt Hook",
+    "url": "/wiki/entities/rilibaqianwanbelthook/"
+  },
   "Ring": {
     "title": "Ring",
     "url": "/wiki/entities/ring/"
@@ -65739,6 +65755,10 @@
     "title": "无诸 / Wuzhu (Minyue king)",
     "url": "/wiki/entities/wuzhuminyueking/"
   },
+  "WuzhuPurchasingPowerFrame": {
+    "title": "五铢钱购买力框架 / Wuzhu Purchasing Power Frame",
+    "url": "/wiki/concepts/wuzhupurchasingpowerframe/"
+  },
   "WuzhuiHorse": {
     "title": "乌骓马 / Wuzhui Horse",
     "url": "/wiki/entities/wuzhuihorse/"
@@ -75554,6 +75574,10 @@
   "zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux": {
     "title": "《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！",
     "url": "/wiki/sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux/"
+  },
+  "zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5": {
+    "title": "《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5/"
   },
   "zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype": {
     "title": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！",

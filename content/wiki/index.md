@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！](sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug.md) — 芮淇讲透资治通鉴 episode on Huo Guang's procedurally staged deposition of Liu He through ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, and ritual-legitimacy indictment.
 - [《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！](sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux.md) — 芮淇讲透资治通鉴 episode bridging Huo Guang's deposition of Liu He with Liu Bingyi's prison survival under Bing Ji before his future accession as Han Xuan.
+- [《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？](sources/zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5.md) — 芮淇讲透资治通鉴 episode on the “日利八千万” belt hook, five-zhu purchasing-power imagination, and Sima Qian's Huozhi Liezhuan ethic of legitimate profit-seeking.
 - [《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！](sources/zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype.md) — 芮淇讲透资治通鉴 episode on early Han Xuan surviving under Huo Guang's regency shadow through the old-sword empress signal, delayed Xu-family honor, refusal of premature returned authority, ritual boundary management, and Huang Ba's lenient-law contrast.
 - [661. Dawn of the Samurai: The Shogun Triumphant (Part 4)](sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375.md) — The Rest Is History episode on Tomoe, Yoshitsune's destruction of the Taira, Dan-no-ura, Yoritomo's political consolidation, and the birth of Kamakura samurai rule.
 - [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.
@@ -2398,6 +2399,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [“日利八千万”鲤鱼形铜带钩 / Rili Baqianwan Belt Hook](entities/RiliBaqianwanBeltHook.md) — Guizhou-excavated fish-shaped bronze belt hook used by Hanji 410-2 to read visible Han wealth aspiration and merchant-culture imagination.
 - [王式 / Wang Shi (Changyi Teacher)](entities/WangShiChangyiTeacher.md) — Liu He's teacher whose Shi jing instruction becomes evidence of fulfilled admonition duty after the Changyi deposition.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
@@ -12401,6 +12403,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [汉代商业财富愿望 / Han Commercial Wealth Aspiration](concepts/HanCommercialWealthAspiration.md) — artifact-centered frame for open, visible, high-ceiling Han wealth desire around “日利八千万” and auspicious income phrases.
+- [五铢钱购买力框架 / Wuzhu Purchasing Power Frame](concepts/WuzhuPurchasingPowerFrame.md) — interpretive conversion of “八千万” into five-zhu coins and rough grain-buying scale rather than a strict price-index claim.
+- [《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic](concepts/HuozhiLiezhuanWealthEthic.md) — Sima Qian-centered reading of wealth desire, diligent earning, merchant contribution, and moral boundaries.
+- [正当逐利边界 / Legitimate Profit Boundary](concepts/LegitimateProfitBoundary.md) — commercial-ethics line that accepts profit through labor and intelligence while rejecting harm to government order or ordinary people.
 - [Regent-Shadow Accession Survival / 权臣阴影下的即位生存](concepts/RegentShadowAccessionSurvival.md) — Early-ruler survival pattern where formal enthronement precedes practical power, requiring indirect signaling, waiting, and ritual boundary management under an overmighty regent.
 - [Dan-no-ura Battle](concepts/DanNoUraBattle.md) — 1185 naval battle that destroys Taira power and turns military victory into mass-death memory.
 - [Genpei War](concepts/GenpeiWar.md) — Minamoto-Taira civil war whose final phase produces both samurai legend and Kamakura warrior government.

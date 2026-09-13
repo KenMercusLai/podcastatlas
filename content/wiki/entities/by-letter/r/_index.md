@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9998
+wiki_total_pages: 9999
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "Ryo"
     title: "Ryo"
     url: "/wiki/entities/ryo/"
+  - key: "RiliBaqianwanBeltHook"
+    title: "“日利八千万”鲤鱼形铜带钩 / Rili Baqianwan Belt Hook"
+    url: "/wiki/entities/rilibaqianwanbelthook/"
   - key: "RomanceOfTheThreeKingdoms"
     title: "《三国演义》 / Romance of the Three Kingdoms"
     url: "/wiki/entities/romanceofthethreekingdoms/"

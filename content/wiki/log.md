@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？
+
+Added source `zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5`; created `RiliBaqianwanBeltHook`, `HanCommercialWealthAspiration`, `WuzhuPurchasingPowerFrame`, `HuozhiLiezhuanWealthEthic`, and `LegitimateProfitBoundary`. Key claims: the belt hook inscription materializes open wealth aspiration, the five-zhu conversion is illustrative rather than precise, and the episode reads Sima Qian's Huozhi Liezhuan as defending productive, bounded profit-seeking. No settled contradiction found.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！
 
 Added source `zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype`; created `RegentShadowAccessionSurvival`; updated `XuPingjunWesternHan` with the old-sword empress-elevation layer and `XuGuanghanWesternHan` with the Huo-blocked early honor layer. No settled contradiction found; the old-sword reading, Huo Guang's returned-power gesture, and Xuan's inner calculation remain source-scoped.
@@ -19141,6 +19145,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | Essentials: Understand & Improve Memory Using Science-Based Tools
 
 Added source note plus Post-Learning Arousal Tagging, and updated Memory Consolidation Windows and Epinephrine Alertness Toolkit. Key claims: memory is selective perception shaped by repetition, attention, and state; acute adrenaline or norepinephrine late in learning or roughly 5-15 minutes afterward may tag selected material for stronger retention; and sleep, naps, non-sleep deep rest, exercise, visual framing, and meditation remain bounded support tools rather than universal medical or learning prescriptions.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

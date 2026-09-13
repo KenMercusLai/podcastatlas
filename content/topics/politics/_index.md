@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2494
+topic_total_pages: 2495
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3931,6 +3931,9 @@ topic_concepts:
   - key: "TransEurasianMigrationCascade"
     title: "欧亚迁徙连锁 / Trans-Eurasian Migration Cascade"
     url: "/wiki/concepts/transeurasianmigrationcascade/"
+  - key: "LegitimateProfitBoundary"
+    title: "正当逐利边界 / Legitimate Profit Boundary"
+    url: "/wiki/concepts/legitimateprofitboundary/"
   - key: "PublicArmoryPrivateFavorBoundary"
     title: "武库公器私赏边界 / Public Armory Private Favor Boundary"
     url: "/wiki/concepts/publicarmoryprivatefavorboundary/"

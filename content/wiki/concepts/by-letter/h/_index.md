@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7324
+wiki_total_pages: 7328
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -743,6 +743,9 @@ wiki_pages:
   - key: "HyperscalerAIGatekeeping"
     title: "Hyperscaler AI Gatekeeping"
     url: "/wiki/concepts/hyperscaleraigatekeeping/"
+  - key: "HuozhiLiezhuanWealthEthic"
+    title: "《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic"
+    url: "/wiki/concepts/huozhiliezhuanwealthethic/"
   - key: "HumanTraffickingFamilyTrauma"
     title: "人口拐卖家庭创伤 / Human Trafficking Family Trauma"
     url: "/wiki/concepts/humantraffickingfamilytrauma/"
@@ -797,6 +800,9 @@ wiki_pages:
   - key: "HonkakuMystery"
     title: "本格推理 / Honkaku Mystery"
     url: "/wiki/concepts/honkakumystery/"
+  - key: "HanCommercialWealthAspiration"
+    title: "汉代商业财富愿望 / Han Commercial Wealth Aspiration"
+    url: "/wiki/concepts/hancommercialwealthaspiration/"
   - key: "HanTraffickingLawDeterrence"
     title: "汉代拐卖惩治 / Han Trafficking Law Deterrence"
     url: "/wiki/concepts/hantraffickinglawdeterrence/"
