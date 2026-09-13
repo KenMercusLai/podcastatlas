@@ -3,18 +3,29 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-12
-as_of_overview_commit: 948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7
-input_digest: 0a4b474098f0d8531e3ae15f23c42df559f29ddfb16fa1ff401239fda3b151d2
+last_updated: 2026-09-13
+as_of_overview_commit: 38e696904610b4f6cae1fe77ffb88d93bdee2b99
+input_digest: 6dc4157d102714349a99e8efe4f9d6494b920017eea5e25063f2694b400b2078
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 487 adds a bounded historical workplace analogy: Jing Fang's apparent local appointment becomes exposure when it removes him from decision-maker proximity and reporting protection. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication.
 
 ## Cross-source Findings
+
+### Hanji 445 Schools Ritual And Grassroots Network As Local Institution
+
+[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] enters work-and-society as a bounded historical institution case: [[HanYanshouWesternHan]] makes schools, ritual training, local worthies, and grassroots monitors into an education-and-network system, while [[MoralPressureAdjudication]] qualifies the harmony as potentially pressure-driven.
+
+**Evidence:** [[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti]], [[HanYanshouWesternHan]], [[MoralPressureAdjudication]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.
+- The original legal merits of the brothers land dispute and exact grassroots offices remain source-scoped.
 
 ### Hierarchy Advice Needs Channel Protection And Consistent Conduct
 

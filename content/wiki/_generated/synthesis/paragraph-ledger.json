@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d7d6232543135eff8598b142a537357b45323a7f7ae08aa3667969d64028aa03",
       "d6672e69f8e8d8fe52557b35f8c79e22079b9cb42b52b1c72071c0e1a9cf1ef6",
       "4aa2133b5eae87e53b2004dc853fcf9afb2bea0445d3e74a785fdbf0c749012a",
       "9d6372895427c4963d44e56cda4e1aa55cbe0de8e67e9d65d5e2d6970db86e5e",
@@ -616,11 +617,31 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 614
+    "paragraph_count": 615
   },
-  "overview_commit": "e4e0bf08ea03ce9b46186fc3ba885e724de9ddd8",
-  "overview_digest": "a1bcf1112d9f58afd694b824a2562e99ac4a072d1de8768e57346bfa4c7bb7b4",
+  "overview_commit": "38e696904610b4f6cae1fe77ffb88d93bdee2b99",
+  "overview_digest": "f4c8f1d9d1ca056a39836236b7f429af804c4455983cfe50a219092ffe488ace",
   "paragraphs": [
+    {
+      "id": "d7d6232543135eff8598b142a537357b45323a7f7ae08aa3667969d64028aa03",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode that adds the positive administrative mechanics behind [[HanYanshouWesternHan|韩延寿]] before the already-ingested Hanji 446 critique. It extends [[MoralPressureAdjudication|道德压力式审案]] by showing the favorable case first: ritual education, local worthies, schools, grassroots monitors, strict-kind subordinate management, and closed-door self-reproach turn a brothers' land dispute into layered self-blame and reconciliation. Its core synthesis is that Han's method could create real local order and public trust while also preparing the procedural risk later named by Hanji 446: when an official's moral posture ends litigation, reconciliation may be hard to distinguish from shame pressure or complaint-channel suppression. No settled contradiction is recorded; the dispute's original legal merits, exact grassroots offices, and full local-administration record remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "HanYanshouWesternHan",
+        "MoralPressureAdjudication",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti"
+      ]
+    },
     {
       "id": "d6672e69f8e8d8fe52557b35f8c79e22079b9cb42b52b1c72071c0e1a9cf1ef6",
       "primary_topic": "governance-and-institutions",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？](sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's ritual education, grassroots local network, strict-kind subordinate management, and closed-door self-reproach handling of a brothers' land dispute.
 - [《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？](sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's sincere but morally coercive dispute handling, his loyal-victim family entry into office, and Woyanqudi Chanyu's purge-driven Xiongnu fragmentation.
 - [SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525.md) — All-In episode on a reported SpaceX-Cursor-xAI coding deal, SaaS debt fragility, Apple succession, SPLC indictment allegations, and a picloram early-onset colorectal cancer signal.
 - [《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼](sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm.md) — 芮淇讲透资治通鉴 episode on the 57 BCE Xiongnu five-chanyu crisis, Xiao Wangzhi's advice against opportunistic war, and Han Xuan's choice of mourning, aid, and legitimacy-minded restraint.

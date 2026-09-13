@@ -3,18 +3,29 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-12
-as_of_overview_commit: 948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7
-input_digest: 3745ec685719357c73defdda72ce9af15c8dc027f2fa863f1bb89e5b504f5606
+last_updated: 2026-09-13
+as_of_overview_commit: 38e696904610b4f6cae1fe77ffb88d93bdee2b99
+input_digest: 27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 487 adds the prelude to Jing Fang's death case: before the later private-speech leak and accusation, Shi Xian first isolates Jing Fang from Emperor Yuan by moving him out of the capital and cutting the return-reporting channel. Hanji 496 adds a Western Han pre-reward dispute: poverty memory is separated from corruption excuse, and Chen Tang/Gan Yanshou merit is judged only after procedural and property faults are named. Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
+Hanji 445 adds the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
 
 ## Cross-source Findings
+
+### Hanji 445 Han Yanshou Moral Local Governance Precedes Critique
+
+[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] adds the favorable governance layer behind [[HanYanshouWesternHan]]: ritual education, grassroots monitoring, and closed-door self-reproach create local order, while [[MoralPressureAdjudication]] marks the procedural ambiguity when moral posture ends litigation before legal merits are clear.
+
+**Evidence:** [[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti]], [[HanYanshouWesternHan]], [[MoralPressureAdjudication]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.
+- The original legal merits of the brothers land dispute and exact grassroots offices remain source-scoped.
 
 ### Hanji 487 Jingfang Access Loss Precedes Death Case
 

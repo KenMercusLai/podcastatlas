@@ -2,6 +2,22 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hanji-445-han-yanshou-moral-local-governance-precedes-critique",
+      "qualifications": [
+        "The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.",
+        "The original legal merits of the brothers land dispute and exact grassroots offices remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] adds the favorable governance layer behind [[HanYanshouWesternHan]]: ritual education, grassroots monitoring, and closed-door self-reproach create local order, while [[MoralPressureAdjudication]] marks the procedural ambiguity when moral posture ends litigation before legal merits are clear.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti",
+        "HanYanshouWesternHan",
+        "MoralPressureAdjudication",
+        "RuiqiJiangtouZizhiTongjian"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-487-jingfang-access-loss-precedes-death-case",
       "qualifications": [
         "The modern workplace analogy, Ren Liang and Yao Ping details, Wei Commandery procedure, and full memorial wording remain source-scoped.",
@@ -420,7 +436,7 @@
       ]
     }
   ],
-  "input_digest": "849c6800ea6601c4981448e3dd3cd4ae5a70d614caae167562ea260ad9a01ea7",
-  "summary": "Hanji 487 adds the prelude to Jing Fang's death case: before the later private-speech leak and accusation, Shi Xian first isolates Jing Fang from Emperor Yuan by moving him out of the capital and cutting the return-reporting channel. Hanji 496 adds a Western Han pre-reward dispute: poverty memory is separated from corruption excuse, and Chen Tang/Gan Yanshou merit is judged only after procedural and property faults are named. Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.",
+  "input_digest": "27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34",
+  "summary": "Hanji 445 adds the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.",
   "topic_id": "history-and-geopolitics"
 }

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-13
-as_of_overview_commit: e0a2d2688480b151d04635b6618c6e1a6f6502f8
-summary: "Across domains, durable outcomes depend on grounded evidence, institutional fit, protected channels, operational routines, and human judgment more than labels or capability alone."
-episode_count: 2324
-source_count: 2324
-paragraph_count: 614
+as_of_overview_commit: 38e696904610b4f6cae1fe77ffb88d93bdee2b99
+summary: "Durable outcomes depend on evidence, institutional fit, protected channels, routines, and human judgment more than labels or capability alone."
+episode_count: 2338
+source_count: 2338
+paragraph_count: 615
 topic_count: 8
 ---
 
@@ -29,42 +29,42 @@ topic_count: 8
 
 ### AI and Technology
 
-AI sources converge on a practical pattern: model capability becomes valuable when it is embedded in workflows, interfaces, verification loops, permissions, product economics, distribution, grounded data, physical infrastructure, and evidence from real users.
+AI value depends on embedding model capability in workflows, permissions, verification loops, data/control stacks, infrastructure, distribution, and human responsibility rather than isolated chat capability.
 
 - [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p|Episode 153]] adds a staged AI-industrialization frame: [[AIIndustrializationThreeStages]] treats tokenized model access as infrastructure, [[AgentEntryPoint]] treats the next layer as agent discovery and invocation, and [[ModelCompaniesAsAIInfrastructure]] qualifies [[ModelAsOperatingSystem]] and [[FrontierModelDuopoly]] by separating AI-cloud providers from future native application winners; [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], and [[StrategicGeneration]] make outcome feedback, task-centered work, and contrarian strategy part of AI capability capture. Evidence: [[153-he-zengming-liao-chanye-shiguan-canku-de-zhenxiang-hui-xiaowang-de-gongsi-youxiu-budengyu-zhuoyue-oai-anth-dagailv-bushi-yuansheng-shidai-da-yingjia-luzvhptdkotbkvr-shfrkvvuim2p]], [[ZengMing]], [[AIIndustrializationThreeStages]], [[ModelCompaniesAsAIInfrastructure]], [[AgentEntryPoint]], [[ModelAsOperatingSystem]], [[FrontierModelDuopoly]], [[IntelligenceFlywheel]], [[TaskBasedAINativeOrganization]], [[StrategicGeneration]], [[OpenAI]], [[Anthropic]].
 - [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1|Vol. 173]] adds an operational AI-competition layer: [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash|GLM 5.3 Flash]], [[SelfBuiltAgentWorkflow]], and [[ModelHubAcquisitionRisk]] show users and providers shifting from pure model capability contests toward predictable quotas, cheap-task routing, custom harnesses, and infrastructure control across chips, data centers, and model hubs. Evidence: [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1]], [[AIQuotaTrustErosion]], [[ModelRoutingCostControl]], [[GLM53Flash]], [[SelfBuiltAgentWorkflow]], [[ModelHubAcquisitionRisk]], [[FengyanFengyu]].
 
 ### Business and Markets
 
-Business and markets sources show that value survives when demand, distribution, payment proof, operating capacity, supply-chain fit, metric integrity, channel proof, and risk discipline are visible rather than merely narrated.
+Business value survives when demand, distribution, payment proof, operating capacity, supply-chain fit, metric integrity, channel proof, and risk discipline are visible rather than merely narrated.
 
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].
 - [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now frame Venezuela oil reopening as a market test of capital, technology, legitimacy, and enforceable property rights at once: [[PDVSA]] underinvestment and heavy-oil needs make foreign capacity useful, while [[OilReopeningBacklash]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[JoseAngelPereira|José Ángel Pereira]]'s Citgo imprisonment, and the source-scoped [[NorthAmericanBlueEnergyPartners]] concession make contract credibility, authority, and executive safety part of the investment case. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[JoseAngelPereira]], [[OilReopeningBacklash]], [[NorthAmericanBlueEnergyPartners]], [[PDVSA]], [[Citgo]], [[Chevron]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[PoliticalResourceCurse]].
 
 ### Culture and Media
 
-Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translations, heritage routes, and adaptations decide what becomes legible, durable, intimate, cautious, or playable.
+Culture and media sources treat form as infrastructure: books, podcasts, exhibitions, games, platforms, heritage routes, and adaptations decide what becomes legible, durable, intimate, or playable.
 
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them. Evidence: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], [[PhysicalBookDesignTradeoff]].
 - Podcast value repeatedly comes from long-form, situated conversation rather than short attention loops: [[BowuzhiPodcast]], [[TianzhenButianzhen]], [[ChizaoGengxin]], [[CultureLimited]], and [[PodcastAsAsynchronousMedia]] preserve slow explanation, intimacy, portable listening, and cross-domain interpretation. Evidence: [[BowuzhiPodcast]], [[TianzhenButianzhen]], [[ChizaoGengxin]], [[CultureLimited]], [[PodcastAsAsynchronousMedia]].
 
 ### Governance and Institutions
 
-Governance sources frame formal structure as only part of political order: succession, legitimacy, factional discipline, ritual authority, appointment quality, administrative information flow, and protected access repeatedly determine outcomes.
+Governance sources show formal structure working only when paired with succession order, legitimacy, appointment quality, ritual authority, information flow, protected access, and enforceable accountability.
 
 - [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems. Evidence: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]].
 - [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] adds a late-Western-Han governance claim that [[AppointmentQualityAsStateCapacity|appointment quality]] sometimes requires fault tolerance: [[WangJiaWesternHan|王嘉]] argues that useful officials with small or past faults can be restored when [[LocalOfficialTenureStability|local tenure stability]], prestige, and crisis response matter more than purity, while [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] preserves the accountability risk. Evidence: [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs]], [[AppointmentQualityAsStateCapacity]], [[WangJiaWesternHan]], [[LocalOfficialTenureStability]], [[MeritShieldedAccountability]].
 
 ### History and Geopolitics
 
-History and geopolitics sources connect state capacity, legitimacy, geography, war, diplomacy, alliances, and court access, showing that titles and moral claims matter only when paired with material control and timing.
+History and geopolitics sources connect state capacity, legitimacy, geography, war, diplomacy, alliances, and court access, showing that title and moral claim need material control and timing.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
 
 ### Psychology and Personal Development
 
-Psychology and personal-development sources emphasize embodied regulation, relational safety, calibrated action, careful self-narration, and boundaries that turn distress into workable information rather than defective identity.
+Psychology and personal-development sources emphasize embodied regulation, relational safety, calibrated action, careful self-narration, and boundaries that turn distress into workable information.
 
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
 - [[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof. Evidence: [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]].
@@ -78,7 +78,7 @@ Science, health, and climate sources converge on boundary-aware public literacy:
 
 ### Work, Education, and Society
 
-Work, education, and society sources show that public life depends on routines, role boundaries, trust, incentives, protected access, active learning, and human judgment rather than labels or tools alone.
+Work, education, and society sources show that practical routines, role boundaries, trust, incentives, protected access, context, and human judgment make tools and institutions usable.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

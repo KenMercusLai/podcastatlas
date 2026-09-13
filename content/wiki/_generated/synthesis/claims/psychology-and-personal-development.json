@@ -2,6 +2,22 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hanji-445-self-reproach-cascades-shame-and-responsibility",
+      "qualifications": [
+        "The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.",
+        "The original legal merits of the brothers land dispute and exact grassroots offices remain source-scoped."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] is a historical moral-psychology case: [[HanYanshouWesternHan]] uses self-reproach to cascade responsibility through officials, clans, and litigants, while [[MoralPressureAdjudication]] keeps the shame effect qualified because reconciliation may also reflect fear or lost complaint access.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti",
+        "HanYanshouWesternHan",
+        "MoralPressureAdjudication",
+        "RuiqiJiangtouZizhiTongjian"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "poverty-memory-diverges-between-corruption-excuse-and-responsibility",
       "qualifications": [
         "This is a source-scoped moral-psychology claim from one historical podcast episode, not a criminology model.",
@@ -1633,8 +1649,8 @@
       ]
     }
   ],
-  "input_digest": "e03233de437543065211aa8be64aa14942efe5300638f31fb39b4b40714302d2",
-  "summary": "Hanji 496 adds a moral-psychology boundary around poverty memory: deprivation can shape fear and desire but does not excuse public corruption, because the same memory can also become empathy and responsibility. Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The Luo Yonghao/Sixiao Comedy flaw panel adds a source-scoped boundary case: ADHD and compulsive-order labels can make flaws socially narratable, but diagnosis, medication, family pressure, and safety claims remain outside comedy evidence. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness. Hanji 590 enters only as a secondary historical judgment case: Yang Xiong's memorial treats restraint as proactive risk recognition, so the psychology relevance is bounded to advice uptake and prevention-before-rupture judgment rather than clinical or self-help guidance. The Seven Learnings paragraph enters this topic only narrowly as founder judgment under uncertainty: founder-led sales, customer trust, and learning from a failed first upload are business-psychology edges rather than clinical or self-help evidence.",
+  "input_digest": "88bebc06bcb42df08cd6beebcf0f7220df921bc918f1375eba9d9c9b79c9e8a6",
+  "summary": "Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

@@ -42483,9 +42483,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYanshouWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁! [lo20q2_KdbmSw2ZFhehOAnCEo2OA].md",
@@ -42507,6 +42507,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？ [lks2YCPyQ-Gl591D8yp-WOSfZ8TI].md",
+          "key": "zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti/"
         }
       ],
       "updated": "2026-09-13",
@@ -66738,9 +66745,9 @@
       "url": "/wiki/concepts/moralpresencewithoutoffice/"
     },
     "MoralPressureAdjudication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？ [liAJVWsIMqt0nbvcN-3RkGBMTjkR].md",
@@ -66748,6 +66755,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？ [lks2YCPyQ-Gl591D8yp-WOSfZ8TI].md",
+          "key": "zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti/"
         }
       ],
       "updated": "2026-09-13",
