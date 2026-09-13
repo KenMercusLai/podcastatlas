@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词](sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c.md) — 这病说来话长 episode with Cui Jiabin and Nan Jihe on push-pull intimacy, shame, high-context miscommunication, Korean give-up-generation pressure, and translating one's own fear and needs.
 - [《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！](sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug.md) — 芮淇讲透资治通鉴 episode on Huo Guang's procedurally staged deposition of Liu He through ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, and ritual-legitimacy indictment.
 - [《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！](sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux.md) — 芮淇讲透资治通鉴 episode bridging Huo Guang's deposition of Liu He with Liu Bingyi's prison survival under Bing Ji before his future accession as Han Xuan.
 - [《资治通鉴·汉纪》410-1｜狱中长大的汉宣帝刘病己，如何成就霸业？](sources/zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle.md) — 芮淇讲透资治通鉴 episode on Liu Bingyi's post-prison care, Zhang He's education and marriage brokerage, Bing Ji and Du Yannian's recommendation, Huo Guang's accession procedure, and Yan Yannian's challenge to regent-led deposition.
@@ -2400,6 +2401,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
+- [《爱情怎么翻译》 / Love Translation K-Drama](entities/LoveTranslationKDrama.md) — Korean-drama hook used by VOL.202 to discuss translation as a metaphor for unspoken need, push-pull intimacy, and self-knowledge.
 - [“日利八千万”鲤鱼形铜带钩 / Rili Baqianwan Belt Hook](entities/RiliBaqianwanBeltHook.md) — Guizhou-excavated fish-shaped bronze belt hook used by Hanji 410-2 to read visible Han wealth aspiration and merchant-culture imagination.
 - [王式 / Wang Shi (Changyi Teacher)](entities/WangShiChangyiTeacher.md) — Liu He's teacher whose Shi jing instruction becomes evidence of fulfilled admonition duty after the Changyi deposition.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
@@ -12404,6 +12407,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Push-Pull Intimacy Communication / 推开式亲密求助](concepts/PushPullIntimacyCommunication.md) — Relationship pattern where apparent rejection or withdrawal may conceal need, hurt, shame, or a plea for support.
+- [Self-Translation In Intimacy / 亲密关系中的自我翻译](concepts/SelfTranslationInIntimacy.md) — Practice of noticing and expressing one's own fear, shame, control, hurt, desire, and need rather than only decoding the partner.
+- [High-Context Intimacy Miscommunication / 高语境亲密误沟通](concepts/HighContextIntimacyMiscommunication.md) — Intimacy failure mode where indirect speech makes the partner responsible for guessing the speaker's actual need.
+- [Relationship Feedback Loop / 亲密关系反馈闭环](concepts/RelationshipFeedbackLoop.md) — Expression-response-observation-adjustment cycle that lets relationship communication become visible and repairable.
+- [Korean Give-Up Generation Pressure / 韩国三抛五抛压力](concepts/KoreanGiveUpGenerationPressure.md) — Source-scoped frame for Korean youth pressure where dating, marriage, childbirth, housing, leisure, or connection are given up under social strain.
+- [Rescuer Mindset In Intimacy / 亲密关系拯救者心态](concepts/RescuerMindsetInIntimacy.md) — Pattern where saving or over-providing in intimacy can become exhausting, controlling, or space-erasing.
 - [汉代商业财富愿望 / Han Commercial Wealth Aspiration](concepts/HanCommercialWealthAspiration.md) — artifact-centered frame for open, visible, high-ceiling Han wealth desire around “日利八千万” and auspicious income phrases.
 - [五铢钱购买力框架 / Wuzhu Purchasing Power Frame](concepts/WuzhuPurchasingPowerFrame.md) — interpretive conversion of “八千万” into five-zhu coins and rough grain-buying scale rather than a strict price-index claim.
 - [《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic](concepts/HuozhiLiezhuanWealthEthic.md) — Sima Qian-centered reading of wealth desire, diligent earning, merchant contribution, and moral boundaries.

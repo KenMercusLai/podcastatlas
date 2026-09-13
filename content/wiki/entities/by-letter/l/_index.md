@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9999
+wiki_total_pages: 10001
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "LastChanceToSee"
     title: "《消逝世界漫游指南》 / Last Chance to See"
     url: "/wiki/entities/lastchancetosee/"
+  - key: "LoveTranslationKDrama"
+    title: "《爱情怎么翻译》 / Love Translation K-Drama"
+    url: "/wiki/entities/lovetranslationkdrama/"
   - key: "LiShui"
     title: "《理水》"
     url: "/wiki/entities/lishui/"

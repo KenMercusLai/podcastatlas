@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7328
+wiki_total_pages: 7334
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1817,6 +1817,9 @@ wiki_pages:
   - key: "PurposeDrivenBusiness"
     title: "Purpose Driven Business"
     url: "/wiki/concepts/purposedrivenbusiness/"
+  - key: "PushPullIntimacyCommunication"
+    title: "Push-Pull Intimacy Communication / 推开式亲密求助"
+    url: "/wiki/concepts/pushpullintimacycommunication/"
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"

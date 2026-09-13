@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7328
+wiki_total_pages: 7334
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "HighBetaScienceFunding"
     title: "High-Beta Science Funding"
     url: "/wiki/concepts/highbetasciencefunding/"
+  - key: "HighContextIntimacyMiscommunication"
+    title: "High-Context Intimacy Miscommunication / 高语境亲密误沟通"
+    url: "/wiki/concepts/highcontextintimacymiscommunication/"
   - key: "HighCostMedicalExpenseBenefit"
     title: "High-Cost Medical Expense Benefit / 高额疗养制度"
     url: "/wiki/concepts/highcostmedicalexpensebenefit/"

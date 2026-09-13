@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 7328
+wiki_total_pages: 7334
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "KoreanCultureLedConsumerMarketing"
     title: "Korean Culture Led Consumer Marketing"
     url: "/wiki/concepts/koreancultureledconsumermarketing/"
+  - key: "KoreanGiveUpGenerationPressure"
+    title: "Korean Give-Up Generation Pressure / 韩国三抛五抛压力"
+    url: "/wiki/concepts/koreangiveupgenerationpressure/"
   - key: "KRASOncologyTarget"
     title: "KRAS Oncology Target"
     url: "/wiki/concepts/krasoncologytarget/"

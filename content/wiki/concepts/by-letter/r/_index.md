@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7328
+wiki_total_pages: 7334
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "RelationalIsolationControl"
     title: "Relational Isolation Control / 关系孤立控制"
     url: "/wiki/concepts/relationalisolationcontrol/"
+  - key: "RelationshipFeedbackLoop"
+    title: "Relationship Feedback Loop / 亲密关系反馈闭环"
+    url: "/wiki/concepts/relationshipfeedbackloop/"
   - key: "RelationshipFourHorsemen"
     title: "Relationship Four Horsemen / 关系四骑士"
     url: "/wiki/concepts/relationshipfourhorsemen/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "RescueReciprocityCommandTrust"
     title: "Rescue Reciprocity Command Trust / 救援互惠式统帅信任"
     url: "/wiki/concepts/rescuereciprocitycommandtrust/"
+  - key: "RescuerMindsetInIntimacy"
+    title: "Rescuer Mindset In Intimacy / 亲密关系拯救者心态"
+    url: "/wiki/concepts/rescuermindsetinintimacy/"
   - key: "ResearchChemicalLoophole"
     title: "Research Chemical Loophole"
     url: "/wiki/concepts/researchchemicalloophole/"

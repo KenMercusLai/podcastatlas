@@ -3345,14 +3345,14 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-08",
       "latest_episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
-      "source_note_count": 27,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 28,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "technology",
@@ -3379,6 +3379,13 @@
           "key": "YaMengDoctor",
           "title": "亚萌 / Ya Meng",
           "url": "/wiki/entities/yamengdoctor/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "NanJiHe",
+          "title": "南基贺 / Nan Jihe",
+          "url": "/wiki/entities/nanjihe/",
           "kind": "person",
           "episode_count": 2
         },
@@ -3414,13 +3421,6 @@
           "key": "ZhaoDoctorUrology",
           "title": "赵医生 / Doctor Zhao (Urology)",
           "url": "/wiki/entities/zhaodoctorurology/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "MaHaoning",
-          "title": "马浩宁 / Ma Haoning",
-          "url": "/wiki/entities/mahaoning/",
           "kind": "person",
           "episode_count": 2
         }

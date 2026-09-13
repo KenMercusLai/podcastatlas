@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7328
+wiki_total_pages: 7334
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"

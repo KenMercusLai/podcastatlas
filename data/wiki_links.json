@@ -15047,6 +15047,10 @@
     "title": "Cuban Dual Economic Strategy",
     "url": "/wiki/concepts/cubandualeconomicstrategy/"
   },
+  "CuiJiabin": {
+    "title": "崔嘉宾 / Cui Jiabin",
+    "url": "/wiki/entities/cuijiabin/"
+  },
   "CuiJian": {
     "title": "崔健 / Cui Jian",
     "url": "/wiki/entities/cuijian/"
@@ -27747,6 +27751,10 @@
     "title": "High-Beta Science Funding",
     "url": "/wiki/concepts/highbetasciencefunding/"
   },
+  "HighContextIntimacyMiscommunication": {
+    "title": "High-Context Intimacy Miscommunication / 高语境亲密误沟通",
+    "url": "/wiki/concepts/highcontextintimacymiscommunication/"
+  },
   "HighCostMedicalExpenseBenefit": {
     "title": "High-Cost Medical Expense Benefit / 高额疗养制度",
     "url": "/wiki/concepts/highcostmedicalexpensebenefit/"
@@ -34135,6 +34143,10 @@
     "title": "Korean Culture Led Consumer Marketing",
     "url": "/wiki/concepts/koreancultureledconsumermarketing/"
   },
+  "KoreanGiveUpGenerationPressure": {
+    "title": "Korean Give-Up Generation Pressure / 韩国三抛五抛压力",
+    "url": "/wiki/concepts/koreangiveupgenerationpressure/"
+  },
   "KoshioKaihei": {
     "title": "小塩海平 / 小盐海平",
     "url": "/wiki/entities/koshiokaihei/"
@@ -37598,6 +37610,10 @@
   "LoveRescueTrap": {
     "title": "Love Rescue Trap / 以爱拯救陷阱",
     "url": "/wiki/concepts/loverescuetrap/"
+  },
+  "LoveTranslationKDrama": {
+    "title": "《爱情怎么翻译》 / Love Translation K-Drama",
+    "url": "/wiki/entities/lovetranslationkdrama/"
   },
   "LowAltitudeRegulatoryRisk": {
     "title": "Low-Altitude Regulatory Risk",
@@ -49059,6 +49075,10 @@
     "title": "Purpose Driven Business",
     "url": "/wiki/concepts/purposedrivenbusiness/"
   },
+  "PushPullIntimacyCommunication": {
+    "title": "Push-Pull Intimacy Communication / 推开式亲密求助",
+    "url": "/wiki/concepts/pushpullintimacycommunication/"
+  },
   "Putian": {
     "title": "Putian / 莆田",
     "url": "/wiki/entities/putian/"
@@ -50731,6 +50751,10 @@
     "title": "Relational Isolation Control / 关系孤立控制",
     "url": "/wiki/concepts/relationalisolationcontrol/"
   },
+  "RelationshipFeedbackLoop": {
+    "title": "Relationship Feedback Loop / 亲密关系反馈闭环",
+    "url": "/wiki/concepts/relationshipfeedbackloop/"
+  },
   "RelationshipFourHorsemen": {
     "title": "Relationship Four Horsemen / 关系四骑士",
     "url": "/wiki/concepts/relationshipfourhorsemen/"
@@ -51018,6 +51042,10 @@
   "RescueReciprocityCommandTrust": {
     "title": "Rescue Reciprocity Command Trust / 救援互惠式统帅信任",
     "url": "/wiki/concepts/rescuereciprocitycommandtrust/"
+  },
+  "RescuerMindsetInIntimacy": {
+    "title": "Rescuer Mindset In Intimacy / 亲密关系拯救者心态",
+    "url": "/wiki/concepts/rescuermindsetinintimacy/"
   },
   "ResearchChemicalLoophole": {
     "title": "Research Chemical Loophole",
@@ -53738,6 +53766,10 @@
   "SelfTestingMemoryPractice": {
     "title": "Self-Testing Memory Practice",
     "url": "/wiki/concepts/selftestingmemorypractice/"
+  },
+  "SelfTranslationInIntimacy": {
+    "title": "Self-Translation In Intimacy / 亲密关系中的自我翻译",
+    "url": "/wiki/concepts/selftranslationinintimacy/"
   },
   "SelfUnderstandingAsVitality": {
     "title": "Self-Understanding As Vitality / 看清自己带来的生命力",
@@ -74486,6 +74518,10 @@
   "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1": {
     "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
     "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+  },
+  "vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c": {
+    "title": "VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词",
+    "url": "/wiki/sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c/"
   },
   "vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih": {
     "title": "VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书",
