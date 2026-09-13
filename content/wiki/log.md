@@ -18776,6 +18776,14 @@ Ran lint. See lint-report.md for details.
 
 Added source note plus Erich Jarvis, Vocal Learning Evolution, Speech Motor Circuit Evolution, Critical-Period Language Learning, Music Affective Communication, and Reading Silent Speech. Key claims: spoken language is better framed as learned vocal-motor and auditory circuitry than as a separate language module, while stuttering, reading, writing, singing, and multilingual learning depend on coordinated sensory-motor systems with source-scoped clinical and practical boundaries.
 
+## [2026-09-13] ingest | 663. Britain in the 70s: The Brexit That Never Was (Part 2)
+
+Added source note plus British EC Referendum 1975 and Fawlty Towers. Key claims: Wilson used the 1975 referendum to manage Labour's Europe split, Yes won as a status-quo choice during economic crisis rather than mass Euro-enthusiasm, and the referendum deferred rather than solved the inflation, sterling, and public-finance crisis that led toward the IMF drama.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

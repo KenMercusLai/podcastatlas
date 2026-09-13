@@ -11471,9 +11471,9 @@
       "url": "/wiki/concepts/breathfulpresence/"
     },
     "Brexit": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Keep qualms and carry on： a decade after Brexit [6a3a53028a3c8822ab345d4b].md",
@@ -11488,6 +11488,13 @@
           "show": "声东击西",
           "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
           "url": "/wiki/sources/396-tuoyou-shinian-dang-jingji-chengbuqi-shenfen-xushi-yingguo-haisheng-shenme-92f097c7-3ae4-4a2b-87d0-e23b518b590a/"
+        },
+        {
+          "episode_file": "GLT2237203377 [GLT2237203377].md",
+          "key": "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377",
+          "show": "The Rest Is History",
+          "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
+          "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
         }
       ],
       "updated": "2026-09-08",
@@ -11556,9 +11563,9 @@
       "url": "/wiki/concepts/briggsvmullen/"
     },
     "Britain1976IMFCrisis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -11573,6 +11580,13 @@
           "show": "The Rest Is History",
           "title": "664. Britain in the 70s: Scandal in Downing Street (Part 3)",
           "url": "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"
+        },
+        {
+          "episode_file": "GLT2237203377 [GLT2237203377].md",
+          "key": "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377",
+          "show": "The Rest Is History",
+          "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
+          "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
         }
       ],
       "updated": "2026-09-13",
@@ -11607,6 +11621,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/britisharmy/"
+    },
+    "BritishECReferendum1975": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2237203377 [GLT2237203377].md",
+          "key": "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377",
+          "show": "The Rest Is History",
+          "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
+          "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/britishecreferendum1975/"
     },
     "BritishMediaExclusionOnlineAmplification": {
       "episode_count": 1,
@@ -32154,6 +32184,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/fatherlinnortheastmission/"
     },
+    "FawltyTowers": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2237203377 [GLT2237203377].md",
+          "key": "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377",
+          "show": "The Rest Is History",
+          "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
+          "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/fawltytowers/"
+    },
     "FearDrivenGroupViolence": {
       "episode_count": 1,
       "show_count": 1,
@@ -43026,9 +43072,9 @@
       "url": "/wiki/entities/haroldgodwinson/"
     },
     "HaroldWilson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2308408988 [GLT2308408988].md",
@@ -43043,6 +43089,13 @@
           "show": "The Rest Is History",
           "title": "664. Britain in the 70s: Scandal in Downing Street (Part 3)",
           "url": "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"
+        },
+        {
+          "episode_file": "GLT2237203377 [GLT2237203377].md",
+          "key": "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377",
+          "show": "The Rest Is History",
+          "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
+          "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
         }
       ],
       "updated": "2026-09-13",
@@ -95482,9 +95535,9 @@
       "url": "/wiki/entities/tonyacrcloud/"
     },
     "TonyBenn": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -95492,6 +95545,13 @@
           "show": "The Rest Is History",
           "title": "665. Britain in the 70s: The Bailout from Hell (Part 4)",
           "url": "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
+        },
+        {
+          "episode_file": "GLT2237203377 [GLT2237203377].md",
+          "key": "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377",
+          "show": "The Rest Is History",
+          "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
+          "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
         }
       ],
       "updated": "2026-09-12",

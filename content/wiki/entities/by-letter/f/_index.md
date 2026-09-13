@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9924
+wiki_total_pages: 9925
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "Fast16"
     title: "Fast 16"
     url: "/wiki/entities/fast16/"
+  - key: "FawltyTowers"
+    title: "Fawlty Towers"
+    url: "/wiki/entities/fawltytowers/"
   - key: "FeatherlessAI"
     title: "Featherless AI"
     url: "/wiki/entities/featherlessai/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [663. Britain in the 70s: The Brexit That Never Was (Part 2)](sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377.md) — The Rest Is History episode on Harold Wilson, the 1975 European Community referendum, Labour's Europe split, Tony Benn's No campaign, and inflation-era crisis politics.
 - [《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？](sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r.md) — 芮淇讲透资治通鉴 episode on Liu Xiangfu's recalled Wusun heqin mission, Hexi/Western Regions strategy against Xiongnu, and Emperor Xuan's low-official salary increase as partial anti-corruption policy.
 - [《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？](sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's ritual education, grassroots local network, strict-kind subordinate management, and closed-door self-reproach handling of a brothers' land dispute.
 - [《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？](sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's sincere but morally coercive dispute handling, his loyal-victim family entry into office, and Woyanqudi Chanyu's purge-driven Xiongnu fragmentation.
@@ -2392,7 +2393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
 - [Denis Healey](entities/DenisHealey.md) — British chancellor who shifted toward cuts as sterling, borrowing, and inflation pressure mounted in 1975-1976.
-- [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
+- [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with 1975 anti-EC democratic sovereignty and the alternative economic strategy during Britain's 1976 IMF crisis.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
 - [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
 - [王接 / Wang Jie (Western Han)](entities/WangJieWesternHan.md) — Western Han official appointed Da Sima and Cheqi Jiangjun after the Yongguang 1 disaster-era senior resignations.
@@ -5019,7 +5020,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gerry Fitt](entities/GerryFitt.md) — Civil-rights political figure beaten and arrested during the banned Derry march.
 - [John Hume](entities/JohnHume.md) — Civil-rights leader who later supported British troop deployment as protection during the 1969 crisis.
 - [Bernadette Devlin](entities/BernadetteDevlin.md) — People's Democracy activist and young Westminster MP tied to Burntollet and radical civil-rights politics.
-- [Harold Wilson](entities/HaroldWilson.md) — British prime minister shown across Northern Ireland intervention and the exhausted final months before his 1976 resignation.
+- [Harold Wilson](entities/HaroldWilson.md) — British prime minister shown across Northern Ireland intervention, the 1975 EC referendum, and the exhausted final months before his 1976 resignation.
 - [Jim Callaghan](entities/JimCallaghan.md) — British Labour crisis manager who moved from Northern Ireland intervention to inheriting Wilson's sterling and IMF crisis.
 - [William Craig](entities/WilliamCraig.md) — Northern Ireland home affairs minister who banned the Derry civil-rights march and warned concessions could provoke loyalists.
 - [James Chichester-Clark](entities/JamesChichesterClark.md) — O'Neill's successor who inherited the crisis and requested troops for Derry.
@@ -12025,6 +12026,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ericsson](entities/Ericsson.md) — Telecom equipment and handset company discussed through early China networks, GSM infrastructure, supply-chain response, and Sony Ericsson.
 - [Eric Ries](entities/EricRies.md) — Lean Startup author and Incorruptible author discussing validated learning, AI-era product economics, financial gravity, and founder governance.
 - [European Union](entities/EuropeanUnion.md) — European political and market context for Brexit, language fragmentation, AI translation, regulation, startup constraints, and market-access friction.
+- [Fawlty Towers](entities/FawltyTowers.md) — British sitcom used as a cultural shorthand for mid-1970s national exhaustion, class tension, war memory, and political frustration.
 - [Federal Reserve](entities/FederalReserve.md) — U.S. central bank discussed through rate-cut expectations, policy lag, yield-curve inversion, market interpretation of easing, Greenspan reputation, Project 2025 critique, and Powell-era independence pressure.
 - [Lael Brainard](entities/LaelBrainard.md) — Former Fed governor and Powell vice chair used by Planet Money to explain how the Fed defended its mandate under Trump pressure.
 - [William McChesney Martin](entities/WilliamMcChesneyMartin.md) — Fed chair used as the positive historical precedent for resisting presidential pressure from Lyndon B. Johnson.
@@ -12321,7 +12323,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [California Homelessness Enforcement Treatment](concepts/CaliforniaHomelessnessEnforcementTreatment.md) — Hilton's statewide homelessness frame combining encampment enforcement, addiction treatment, mental-health capacity, sober-service rules, and jail fallback.
 - [有勇无谋决策风险 / Reckless Courage Decision Risk](concepts/RecklessCourageDecisionRisk.md) — Failure mode where willingness to face danger outruns planning, timing, and realistic task completion.
 - [引强援反噬风险 / Dangerous Ally Invitation Risk](concepts/DangerousAllyInvitationRisk.md) — Alliance risk where inviting a powerful outsider against one enemy imports a larger uncontrollable threat.
-- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, inflation, IMF, austerity, Labour factionalism, and cabinet crisis treated as a British economic-governance turning point.
+- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, inflation, public borrowing, IMF, austerity, Labour factionalism, and cabinet crisis treated as a British economic-governance turning point.
+- [British EC Referendum 1975](concepts/BritishECReferendum1975.md) — Britain's first national referendum, framed as Wilson's Labour-management device and a crisis-status-quo vote to remain in the European Community.
 - [Postwar Keynesian Retreat](concepts/PostwarKeynesianRetreat.md) — Political move away from the assumption that governments could simply spend their way out of recession.
 - [Siege Economy Strategy](concepts/SiegeEconomyStrategy.md) — Labour-left crisis strategy built around controls, protectionism, nationalisation, and pressure on allies.
 - [Cabinet Exhaustion Management](concepts/CabinetExhaustionManagement.md) — Crisis-leadership pattern where repeated cabinet argument is used to exhaust alternatives before a decision.
@@ -18668,7 +18671,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Handset-Chip Co-Design](concepts/HandsetChipCoDesign.md) — Cooperation pattern where terminal scenarios are translated into chip architecture, NPU, bandwidth, power, and thermal decisions years ahead.
 - [Foldable Phone Productivity](concepts/FoldablePhoneProductivity.md) — Foldable-phone value test where larger screens must enable multitasking, documents, meetings, and AI-assisted work rather than only bigger viewing.
 - [Edge-Cloud AI Boundary](concepts/EdgeCloudAIBoundary.md) — Practical split between terminal-side sensing, memory, privacy, and low-latency work versus cloud-side heavy reasoning and generation.
-- [Brexit](concepts/Brexit.md) — United Kingdom departure from the European Union, framed as a cumulative political, economic, immigration, regulatory, and strategic rupture.
+- [Brexit](concepts/Brexit.md) — United Kingdom departure from the European Union, framed as a cumulative political, economic, immigration, regulatory, strategic, and historically rooted rupture.
 - [Brexit Economic Friction](concepts/BrexitEconomicFriction.md) — Cumulative trade, GDP, finance, professional-qualification, and investment drag rather than a single immediate Brexit crash.
 - [Brexit Regulatory Dividend](concepts/BrexitRegulatoryDividend.md) — Hoped-for post-EU policy freedom that produced narrow flexibility but not the broad Singapore-on-Thames deregulation payoff.
 - [Post-Brexit Immigration Politics](concepts/PostBrexitImmigrationPolitics.md) — Tension between take-back-control migration rhetoric and later non-EU migration growth under Britain's post-Brexit system.

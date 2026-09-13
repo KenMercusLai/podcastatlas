@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2683
+topic_total_pages: 2684
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3557,6 +3557,9 @@ topic_entities:
   - key: "ExMachinaFilm"
     title: "Ex Machina / 《机械姬》"
     url: "/wiki/entities/exmachinafilm/"
+  - key: "FawltyTowers"
+    title: "Fawlty Towers"
+    url: "/wiki/entities/fawltytowers/"
   - key: "FedeAlvarez"
     title: "Fede Alvarez / Fede Álvarez"
     url: "/wiki/entities/fedealvarez/"

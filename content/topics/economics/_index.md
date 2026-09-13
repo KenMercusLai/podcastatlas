@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2023
+topic_total_pages: 2024
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5415,6 +5415,9 @@ topic_sources:
   - key: "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353"
     title: "61.自从拥有经济学的思维方式，人生都变简单了！"
     url: "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"
+  - key: "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377"
+    title: "663. Britain in the 70s: The Brexit That Never Was (Part 2)"
+    url: "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
   - key: "664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865"
     title: "664. Britain in the 70s: Scandal in Downing Street (Part 3)"
     url: "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"

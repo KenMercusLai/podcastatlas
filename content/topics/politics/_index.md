@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2464
+topic_total_pages: 2466
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -442,6 +442,9 @@ topic_concepts:
   - key: "Britain1976IMFCrisis"
     title: "Britain 1976 IMF Crisis"
     url: "/wiki/concepts/britain1976imfcrisis/"
+  - key: "BritishECReferendum1975"
+    title: "British EC Referendum 1975"
+    url: "/wiki/concepts/britishecreferendum1975/"
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
@@ -6591,6 +6594,9 @@ topic_sources:
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"
+  - key: "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377"
+    title: "663. Britain in the 70s: The Brexit That Never Was (Part 2)"
+    url: "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
   - key: "664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865"
     title: "664. Britain in the 70s: Scandal in Downing Street (Part 3)"
     url: "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"

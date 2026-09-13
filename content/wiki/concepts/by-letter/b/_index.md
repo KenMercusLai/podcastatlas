@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7265
+wiki_total_pages: 7266
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "Britain1976IMFCrisis"
     title: "Britain 1976 IMF Crisis"
     url: "/wiki/concepts/britain1976imfcrisis/"
+  - key: "BritishECReferendum1975"
+    title: "British EC Referendum 1975"
+    url: "/wiki/concepts/britishecreferendum1975/"
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
