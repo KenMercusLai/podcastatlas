@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9973
+wiki_total_pages: 9977
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "FinallySomethingGood"
     title: "Finally Something Good"
     url: "/wiki/entities/finallysomethinggood/"
+  - key: "FinalSpark"
+    title: "FinalSpark"
+    url: "/wiki/entities/finalspark/"
   - key: "FinancialTimes"
     title: "Financial Times"
     url: "/wiki/entities/financialtimes/"
@@ -524,6 +527,9 @@ wiki_pages:
   - key: "FrauEva"
     title: "Frau Eva / 夏娃夫人"
     url: "/wiki/entities/fraueva/"
+  - key: "FredJordan"
+    title: "Fred Jordan"
+    url: "/wiki/entities/fredjordan/"
   - key: "FredWertheimer"
     title: "Fred Wertheimer"
     url: "/wiki/entities/fredwertheimer/"

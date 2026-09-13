@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7301
+wiki_total_pages: 7306
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -290,6 +290,12 @@ wiki_pages:
   - key: "BioOilCarbonRemoval"
     title: "Bio-Oil Carbon Removal"
     url: "/wiki/concepts/biooilcarbonremoval/"
+  - key: "BiocomputingAIHardware"
+    title: "Biocomputing AI Hardware"
+    url: "/wiki/concepts/biocomputingaihardware/"
+  - key: "BiocomputingEthics"
+    title: "Biocomputing Ethics"
+    url: "/wiki/concepts/biocomputingethics/"
   - key: "BiodegradableAmazonPlastics"
     title: "Biodegradable Amazon Plastics"
     url: "/wiki/concepts/biodegradableamazonplastics/"
@@ -308,6 +314,9 @@ wiki_pages:
   - key: "BiologicalHarnessEngineering"
     title: "Biological Harness Engineering"
     url: "/wiki/concepts/biologicalharnessengineering/"
+  - key: "BiologicalProcessorEnergyEfficiency"
+    title: "Biological Processor Energy Efficiency"
+    url: "/wiki/concepts/biologicalprocessorenergyefficiency/"
   - key: "BiomedicalDeepLearning"
     title: "Biomedical Deep Learning"
     url: "/wiki/concepts/biomedicaldeeplearning/"

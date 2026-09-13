@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2025
+topic_total_pages: 2027
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3695,6 +3695,9 @@ topic_entities:
   - key: "FrancescoDelGiocondo"
     title: "Francesco del Giocondo"
     url: "/wiki/entities/francescodelgiocondo/"
+  - key: "FredJordan"
+    title: "Fred Jordan"
+    url: "/wiki/entities/fredjordan/"
   - key: "FredWilson"
     title: "Fred Wilson"
     url: "/wiki/entities/fredwilson/"
@@ -4154,6 +4157,9 @@ topic_entities:
   - key: "MarkSpitznagel"
     title: "Mark Spitznagel"
     url: "/wiki/entities/markspitznagel/"
+  - key: "MartinKutter"
+    title: "Martin Kutter"
+    url: "/wiki/entities/martinkutter/"
   - key: "MartyGruenberg"
     title: "Marty Gruenberg"
     url: "/wiki/entities/martygruenberg/"

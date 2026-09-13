@@ -8199,6 +8199,14 @@
     "title": "BioTech To BioPharm Transition",
     "url": "/wiki/concepts/biotechtobiopharmtransition/"
   },
+  "BiocomputingAIHardware": {
+    "title": "Biocomputing AI Hardware",
+    "url": "/wiki/concepts/biocomputingaihardware/"
+  },
+  "BiocomputingEthics": {
+    "title": "Biocomputing Ethics",
+    "url": "/wiki/concepts/biocomputingethics/"
+  },
   "BiodegradableAmazonPlastics": {
     "title": "Biodegradable Amazon Plastics",
     "url": "/wiki/concepts/biodegradableamazonplastics/"
@@ -8222,6 +8230,10 @@
   "BiologicalHarnessEngineering": {
     "title": "Biological Harness Engineering",
     "url": "/wiki/concepts/biologicalharnessengineering/"
+  },
+  "BiologicalProcessorEnergyEfficiency": {
+    "title": "Biological Processor Energy Efficiency",
+    "url": "/wiki/concepts/biologicalprocessorenergyefficiency/"
   },
   "BiomedicalDeepLearning": {
     "title": "Biomedical Deep Learning",
@@ -21867,6 +21879,10 @@
     "title": "Fin-de-Siecle Vienna Crisis Reading",
     "url": "/wiki/concepts/findesiecleviennacrisisreading/"
   },
+  "FinalSpark": {
+    "title": "FinalSpark",
+    "url": "/wiki/entities/finalspark/"
+  },
   "FinaleDesserts": {
     "title": "Finale Desserts",
     "url": "/wiki/entities/finaledesserts/"
@@ -23122,6 +23138,10 @@
   "FrauEva": {
     "title": "Frau Eva / 夏娃夫人",
     "url": "/wiki/entities/fraueva/"
+  },
+  "FredJordan": {
+    "title": "Fred Jordan",
+    "url": "/wiki/entities/fredjordan/"
   },
   "FredWertheimer": {
     "title": "Fred Wertheimer",
@@ -35159,6 +35179,10 @@
     "title": "Lemuel Gulliver / 格列佛",
     "url": "/wiki/entities/lemuelgulliver/"
   },
+  "LenaCurtis": {
+    "title": "Lena Curtis",
+    "url": "/wiki/entities/lenacurtis/"
+  },
   "LendingHome": {
     "title": "LendingHome",
     "url": "/wiki/entities/lendinghome/"
@@ -36930,6 +36954,10 @@
   "LivestreamPersonaLabor": {
     "title": "Livestream Persona Labor / 直播人设劳动",
     "url": "/wiki/concepts/livestreampersonalabor/"
+  },
+  "LivingNeuronComputing": {
+    "title": "Living Neuron Computing",
+    "url": "/wiki/concepts/livingneuroncomputing/"
   },
   "Livora": {
     "title": "Livora",
@@ -39238,6 +39266,10 @@
   "MartinHeidegger": {
     "title": "Martin Heidegger / 马丁·海德格尔",
     "url": "/wiki/entities/martinheidegger/"
+  },
+  "MartinKutter": {
+    "title": "Martin Kutter",
+    "url": "/wiki/entities/martinkutter/"
   },
   "MartinLau": {
     "title": "Martin Lau / 刘炽平",
@@ -42710,6 +42742,10 @@
   "NeuralProcessingUnits": {
     "title": "Neural Processing Units",
     "url": "/wiki/concepts/neuralprocessingunits/"
+  },
+  "NeuroPlatformRemoteAccess": {
+    "title": "Neuro Platform Remote Access",
+    "url": "/wiki/concepts/neuroplatformremoteaccess/"
   },
   "NeuroShake": {
     "title": "NeuroShake",
@@ -71538,6 +71574,10 @@
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+  },
+  "ep-37-neurons-future-of-ai-processing": {
+    "title": "EP 37: Neurons: Future of AI Processing",
+    "url": "/wiki/sources/ep-37-neurons-future-of-ai-processing/"
   },
   "ep-38-the-local-ai-stack-nobody-talks-about-but-should": {
     "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",

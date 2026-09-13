@@ -18542,6 +18542,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | EP 37: Neurons: Future of AI Processing
+
+Added source note for Data Science With Sam EP37 with Lena Curtis of FinalSpark. Created pages for Lena Curtis, FinalSpark, Fred Jordan, Martin Kutter, Biocomputing AI Hardware, Living Neuron Computing, Neuro Platform Remote Access, Biological Processor Energy Efficiency, and Biocomputing Ethics. Key claims: living neurons are framed as processors rather than power sources; FinalSpark's remote neuro platform makes neural cultures shared research infrastructure; biological processors may reduce AI energy and cost for suitable workloads, but encoding, learning, maintenance, regulation, and public acceptance remain unresolved. No direct contradiction found.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？
 
 Added source note for Hanji 424 and updated the Huo-family purge, Huo Guang, and Emperor Xuan pages. Created Huo Xian, Huo Chengjun, Shangguan Taihou, Western Han Xu Fu, and political risk prevention pages. Key claims: Huo collapse combines household misconduct, palace and succession danger, a failed coup plan, Xuan's accumulated fear of Huo power, and the prevention-versus-firefighting lesson of Xu Fu's overlooked warning.
@@ -18982,6 +18986,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？
 
 Added source note plus Zhao Guanghan, Yin Wenggui, and Clean Official Power Boundary. Key claims: clean reputation and anti-corruption force do not excuse private retaliation through public authority; Zhao's escalation from Su Xian to Rong Xu to Wei Xiang shows information power becoming revenge; and Yin Wenggui supplies a stricter but more orderly contrast.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7301
+wiki_total_pages: 7306
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "NeuralProcessingUnits"
     title: "Neural Processing Units"
     url: "/wiki/concepts/neuralprocessingunits/"
+  - key: "NeuroPlatformRemoteAccess"
+    title: "Neuro Platform Remote Access"
+    url: "/wiki/concepts/neuroplatformremoteaccess/"
   - key: "NeurodegenerativeRiskLevers"
     title: "Neurodegenerative Risk Levers"
     url: "/wiki/concepts/neurodegenerativerisklevers/"

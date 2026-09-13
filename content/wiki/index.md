@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 37: Neurons: Future of AI Processing](sources/ep-37-neurons-future-of-ai-processing.md) — Data Science With Sam episode with Lena Curtis of FinalSpark on living human neurons as AI processors, remote neuro-platform access, biological processor energy efficiency, and biocomputing ethics.
 - [《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？](sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p.md) — 芮淇讲透资治通鉴 episode on the Huo family's post-Huo-Guang collapse, Huo Xian's household overreach, the failed coup plan, Huo Chengjun's deposition, Xu Fu's prevention warning, and Xuan's "芒刺在背" fear.
 - [《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？](sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu.md) — 芮淇讲透资治通鉴 episode on Sima Guang's split judgment of the Huo family purge, Emperor Xuan's delayed and excessive response, and Gong Sui's livelihood-first pacification of Bohai.
 - [《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？](sources/zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f.md) — 芮淇讲透资治通鉴 episode on Zhao Guanghan's clean-official reputation, retaliatory abuse of power, attack on Wei Xiang, mass petitioning, and Yin Wenggui's stricter but more orderly contrast.
@@ -2376,6 +2377,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Lena Curtis](entities/LenaCurtis.md) — Neuroscientist and FinalSpark strategic advisor explaining living-neuron processors in Data Science With Sam EP37.
+- [FinalSpark](entities/FinalSpark.md) — Swiss biocomputing startup offering remote access to living human neuron cultures for information-processing research.
+- [Fred Jordan](entities/FredJordan.md) — FinalSpark co-founder named in EP37's origin story for biological AI processors.
+- [Martin Kutter](entities/MartinKutter.md) — FinalSpark co-founder named in EP37's origin story for biological AI processors.
 - [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
 - [霍显 / Huo Xian (Western Han)](entities/HuoXianWesternHan.md) — Huo Guang's wife whose misconduct, palace access, and succession threat help drive the Huo-family collapse.
@@ -12353,6 +12358,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Biocomputing AI Hardware](concepts/BiocomputingAIHardware.md) — AI-hardware frame for using living neural systems as specialized processors rather than biological power sources.
+- [Living Neuron Computing](concepts/LivingNeuronComputing.md) — Technical concept for stimulating, reading, and interpreting living neural cultures as dynamic information-processing systems.
+- [Neuro Platform Remote Access](concepts/NeuroPlatformRemoteAccess.md) — Research-infrastructure model where remote users code experiments against living neurons maintained in a lab.
+- [Biological Processor Energy Efficiency](concepts/BiologicalProcessorEnergyEfficiency.md) — Thesis that living neural processors may reduce AI energy and cost for suitable workloads.
+- [Biocomputing Ethics](concepts/BiocomputingEthics.md) — Ethical and regulatory boundary around using living human neurons inside machines and remote research platforms.
 - [Huo Family Purge After Huo Guang](concepts/HuoFamilyPurgeAfterHuoGuang.md) — court-politics pattern where overextended regency-family power turns merit into suspicion, conspiracy risk, and excessive collective punishment.
 - [政治风险预防 / Political Risk Prevention](concepts/PoliticalRiskPrevention.md) — Court-governance pattern where early warnings and restraint are valued before elite risk becomes rebellion or emergency cleanup.
 - [Livelihood-First Pacification](concepts/LivelihoodFirstPacification.md) — governance pattern where officials repair hunger and production before treating disorder as enemy suppression.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7301
+wiki_total_pages: 7306
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "LivestreamPersonaLabor"
     title: "Livestream Persona Labor / 直播人设劳动"
     url: "/wiki/concepts/livestreampersonalabor/"
+  - key: "LivingNeuronComputing"
+    title: "Living Neuron Computing"
+    url: "/wiki/concepts/livingneuroncomputing/"
   - key: "LLMStatisticalBoundary"
     title: "LLM Statistical Boundary"
     url: "/wiki/concepts/llmstatisticalboundary/"

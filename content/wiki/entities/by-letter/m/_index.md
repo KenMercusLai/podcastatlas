@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9973
+wiki_total_pages: 9977
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "MartinHeidegger"
     title: "Martin Heidegger / 马丁·海德格尔"
     url: "/wiki/entities/martinheidegger/"
+  - key: "MartinKutter"
+    title: "Martin Kutter"
+    url: "/wiki/entities/martinkutter/"
   - key: "MartinLau"
     title: "Martin Lau / 刘炽平"
     url: "/wiki/entities/martinlau/"
