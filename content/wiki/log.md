@@ -18530,6 +18530,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》438｜据理力争！西汉老将赵充国的高情商管理
+
+Added source note for Hanji 438 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao answers Emperor Xuan's timeline pressure with an enemy-collapse diagnosis, twelve advantages for 河湟屯田, cavalry-cost and risk-control logic, and a management-facing model of data-backed upward disagreement.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？
 
 Added source note plus Zhao Chongguo and Qiang official-abuse synthesis updates. Key claims: Yi Qu Anguo's unauthorized handling and killing of Qiang leaders escalated the crisis, while Zhao's mature command began with terrain-first planning, disciplined caution, troop care, and selective-punishment messaging to split the Qiang coalition.
@@ -18870,6 +18874,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！
 
 Added source note for Hanji 437 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao uses slow pursuit and trust-building release to avoid turning Qiang flight into desperate resistance; he rejects self-protective obedience when an attack order would harm state interests; and his屯田 memorial turns frontier security into local grain, timber, bridges, irrigation, posts, and guarded farming.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
