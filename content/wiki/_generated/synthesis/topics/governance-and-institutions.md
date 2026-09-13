@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-13
-as_of_overview_commit: 76b24138e492966e9c0633abd078c41618da22fb
-input_digest: 19904415c18814da8f6bc53b1c842f7b0af903832389fc51936cfe9371423c78
+as_of_overview_commit: 2f360149a69c00ace2b4cc5552418ff640133b5a
+input_digest: f78310479784bb2500183772b85b12b414512946a50f6e3443756aae4dc3fa63
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, and protected access repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang's kaogong reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own, while later disposal can restore legitimacy.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu own attempt to regain office turns dismissal into deeper investigation, Empress Xu death, and Zhai Fangjin promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own. Liang Jianzhang adds a modern policy-platform case where Ctrip governance and fertility policy both require looking beneath surface labels to operating infrastructure and incentive design.
 
 ## Cross-source Findings
 
@@ -2200,3 +2200,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The claim is source-scoped to one Hanji 557 summary and does not reconstruct the complete legal dossier against Chunyu Zhang.
 - Wang Mang's inner motive, Wang Li's degree of knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
 - The source supports case expansion and role-exit failure, not a general rule that every demotion can safely become a purge.
+
+### Platform And Fertility Governance Depend On Operating Infrastructure
+
+[[liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp]] adds a modern governance case where [[Ctrip]] and [[FertilitySubsidyLimits]] both turn on operating infrastructure: travel-platform power comes from service process, mobile transition, global supply, live inventory, support, and transaction data, while population policy requires childcare, education-cost reduction, gender support, and family-friendly institutions rather than small cash signals alone.
+
+**Evidence:** [[liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp]], [[Ctrip]], [[FertilitySubsidyLimits]], [[AITravelPlanning]], [[DemographicInnovationCapacity]], [[EastAsianEducationCostPressure]], [[LiangJianzhang]]
+
+**Qualifications:**
+
+- The claim is source-scoped to Liang Jianzhang interview and the current wiki synthesis; company experiment results, fertility-cost estimates, and policy efficacy are not independently verified here.
+- The governance analogy connects platform operations and policy package design without implying that antitrust governance and fertility policy share the same institutions or remedies.

@@ -18546,6 +18546,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”
+
+Added source note plus Demographic Innovation Capacity, and updated Liang Jianzhang, Ctrip, AI Travel Planning, and Fertility Subsidy Limits. Key claims: Liang's profile links Ctrip operating discipline with population-policy advocacy; reliable travel AI depends on live inventory, prices, geography, preferences, and transaction data; and fertility support needs a broader package than small cash payments if it is meant to protect future innovation capacity.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!
 
 Added source note plus Liu Qu and Liu Yanshou pages, and extended Liu Xu, Yu Dingguo, Royal Kin Treason Law Boundary, and Tomb-Desecration Political Violence. Key claims: Liu Qu's grave-robbing is framed as royal appetite and desecration rather than need; Liu Yanshou tries to borrow Liu Xu's closer succession legitimacy and dies after exposure; Xuan contains Liu Xu with gifts; and Yu Dingguo's tingwei style supplies the judicial-restraint counterpoint.
@@ -19041,6 +19045,10 @@ Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么
 
 Added source note and updated Xuan-era synthesis. Key claims: Han Xuan's early consolidation used disaster inquiry, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair to loosen Huo-family control before the later open purge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

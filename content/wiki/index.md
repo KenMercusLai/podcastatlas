@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”](sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp.md) — 罗永浩的十字路口 interview with Liang Jianzhang on Ctrip's founding, mobile recovery, hybrid work, internationalization, population policy, demographic innovation capacity, and AI travel planning.
 - [《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？](sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng and Huang Ba's prison study, Han Xuan's earthquake amnesty and talent reassessment, and praise as a way to place the ruler's words into historical memory.
 - [《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!](sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv.md) — 芮淇讲透资治通鉴 episode on Liu Qu's tomb-robbing and cruelty, Liu Yanshou's failed attempt to recruit Liu Xu, Xuan's containment response, and Yu Dingguo's cautious tingwei justice.
 - [《资治通鉴·汉纪》415｜西汉赵广汉如何打击“乡霸村霸”黑恶势力](sources/zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur.md) — 芮淇讲透资治通鉴 episode on Zhao Guanghan's early Yingchuan anti-haoqiang campaign, anonymous reporting, Jingzhao information network, and the Huo Chengjun/Xu Pingjun palace contrast.
@@ -12376,6 +12377,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Demographic Innovation Capacity / 人口创新能力](concepts/DemographicInnovationCapacity.md) — Liang Jianzhang's frame that young-cohort size, fertility, markets, and education pressure shape long-run innovation capacity.
 - [赞颂作为政治记忆 / Praise as Political Memory](concepts/PraiseAsPoliticalMemory.md) — Court-rhetoric pattern where praise frames a ruler's words or acts as worthy of circulation, imitation, and later historical memory.
 - [司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger](concepts/JudicialAbuseRebellionTrigger.md) — Mechanism where law becomes torture, false accusation, and official manipulation, collapsing ordinary people's lawful options into endurance or resistance.
 - [尚德缓刑式刑政修复 / Shangde Huanxing Penal Reform](concepts/ShangdeHuanxingPenalReform.md) — Penal-governance repair frame where political restoration requires cautious, humane punishment against torture and official self-protection incentives.

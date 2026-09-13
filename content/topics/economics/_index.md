@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2027
+topic_total_pages: 2028
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -835,6 +835,9 @@ topic_concepts:
   - key: "DemandSupplyChainControlFrame"
     title: "Demand-Supply Chain Control Frame / 需求-供应链控制框架"
     url: "/wiki/concepts/demandsupplychaincontrolframe/"
+  - key: "DemographicInnovationCapacity"
+    title: "Demographic Innovation Capacity / 人口创新能力"
+    url: "/wiki/concepts/demographicinnovationcapacity/"
   - key: "DepositGuaranteeCrisisResponse"
     title: "Deposit Guarantee Crisis Response"
     url: "/wiki/concepts/depositguaranteecrisisresponse/"

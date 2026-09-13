@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c8dcfd0ba16b7c475222dfe0f4d254eab4e60ce04e6bf5e9c98db741bf735a1f",
       "e7d72f8c2db326bd8855d56d59b603dd3f40f08275eaa0ffd959f6f08a9f2f7d",
       "d7d6232543135eff8598b142a537357b45323a7f7ae08aa3667969d64028aa03",
       "d6672e69f8e8d8fe52557b35f8c79e22079b9cb42b52b1c72071c0e1a9cf1ef6",
@@ -618,11 +619,35 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 616
+    "paragraph_count": 617
   },
-  "overview_commit": "9bcd5cb5d3d12806ec0282cb191cd145f1305e20",
-  "overview_digest": "c035670fb7a296bb42bede6ea4b935308a7ee122437acac5041bf224d8b8c3f5",
+  "overview_commit": "2f360149a69c00ace2b4cc5552418ff640133b5a",
+  "overview_digest": "eb7eefd57e6035daee2bbeb08b12f9c9a1b8ec8aee1e104535f7ce7f9b2bcb2a",
   "paragraphs": [
+    {
+      "id": "c8dcfd0ba16b7c475222dfe0f4d254eab4e60ce04e6bf5e9c98db741bf735a1f",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp]], a [[LuoyonghaosCrossroads|罗永浩的十字路口]] interview with [[LiangJianzhang]] on [[Ctrip]], population policy, and AI. It adds [[DemographicInnovationCapacity]], while extending [[Ctrip]], [[AITravelPlanning]], [[FertilitySubsidyLimits]], and [[EastAsianEducationCostPressure]]. Its core synthesis is that Ctrip's durable advantage and governance risk both come from operating infrastructure: service process detail, mobile transition, global supply, live inventory, support, and transaction data. Liang's population argument adds a longer horizon: low fertility is framed not only as pensions or labor supply but as a future innovation-capacity problem, and small subsidies are treated as symbolic unless paired with childcare, education-cost reduction, gender support, and family-friendly institutions. No settled contradiction is recorded; company experiment results, fertility-cost estimates, and policy efficacy remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "governance-and-institutions": 3,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AITravelPlanning",
+        "Ctrip",
+        "DemographicInnovationCapacity",
+        "EastAsianEducationCostPressure",
+        "FertilitySubsidyLimits",
+        "LiangJianzhang",
+        "LuoyonghaosCrossroads",
+        "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp"
+      ]
+    },
     {
       "id": "e7d72f8c2db326bd8855d56d59b603dd3f40f08275eaa0ffd959f6f08a9f2f7d",
       "primary_topic": "governance-and-institutions",

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2983
+topic_total_pages: 2984
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8886,6 +8886,9 @@ topic_sources:
   - key: "tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77"
     title: "探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」｜ S10E10"
     url: "/wiki/sources/tanfang-hacker-house-guigu-nianqingren-zhengzai-banjin-ai-chuangye-sushe-s10e10-f0870843-fd16-49f5-8f24-80281f9fff77/"
+  - key: "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp"
+    title: "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”"
+    url: "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
   - key: "xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195"
     title: "星巴克回应「蜜雪冰城代工」等传闻，李宁否认与姆巴佩签约"
     url: "/wiki/sources/xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195/"

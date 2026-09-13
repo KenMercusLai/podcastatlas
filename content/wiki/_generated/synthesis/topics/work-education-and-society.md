@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-13
-as_of_overview_commit: 76b24138e492966e9c0633abd078c41618da22fb
-input_digest: 24011bafa1d387defc6e48aef14cb0160adf6740945de3c079966110fa277d3a
+as_of_overview_commit: 2f360149a69c00ace2b4cc5552418ff640133b5a
+input_digest: e58515b294b452b4f8ea983b61f3659c5f5fdfde9d8af285370537de3291c0bb
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.
 
 ## Cross-source Findings
 
@@ -813,3 +813,14 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - The source is a live comedy-panel conversation, not labor-policy, creator-economy, reputation-management, legal, or platform-governance research.
 - The page treats creator lateness, review disputes, online attack, and public rebuttal as source-scoped anecdotes rather than general rules for audiences or creators.
+
+### Demographic Innovation Capacity Links Family Policy To Work Education Future
+
+[[liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp]] adds a work-education-and-society claim through [[DemographicInnovationCapacity]]: low fertility is framed not only as pensions or labor supply but as a future talent, market, and innovation problem, while [[EastAsianEducationCostPressure]], [[FertilitySubsidyLimits]], and [[AITravelPlanning]] show education burden, family policy, and AI pressure shaping young people work, study, entrepreneurship, and family-formation window.
+
+**Evidence:** [[liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp]], [[DemographicInnovationCapacity]], [[EastAsianEducationCostPressure]], [[FertilitySubsidyLimits]], [[AITravelPlanning]], [[LiangJianzhang]], [[Ctrip]]
+
+**Qualifications:**
+
+- This is source-scoped to Liang Jianzhang interview and should not be treated as settled empirical proof of the fertility-innovation causal effect.
+- AI job displacement, fertility costs, and policy efficacy claims remain source-reported and need broader evidence before becoming general rules.

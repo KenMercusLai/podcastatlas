@@ -3168,6 +3168,36 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aitrainingcopyrightdispute/"
     },
+    "AITravelPlanning": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "It’s not easy being Green： Zack Polanski [6a82d1a0ff328abd84724cf0].md",
+          "key": "its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0",
+          "show": "Economist Podcasts",
+          "title": "It’s not easy being Green: Zack Polanski",
+          "url": "/wiki/sources/its-not-easy-being-green-zack-polanski-6a82d1a0ff328abd84724cf0/"
+        },
+        {
+          "episode_file": "EP91 订房订票定江山，携程51亿为傲慢买单 [lovHfkZ4RkLv1iK_uQYESwRdf3uw].md",
+          "key": "ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw",
+          "show": "一劳永逸",
+          "title": "EP91 订房订票定江山，携程51亿为傲慢买单",
+          "url": "/wiki/sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw/"
+        },
+        {
+          "episode_file": "ljPurcSyivJkwJyAK_3kt3zly_fP [ljPurcSyivJkwJyAK_3kt3zly_fP].md",
+          "key": "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp",
+          "show": "罗永浩的十字路口",
+          "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
+          "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/aitravelplanning/"
+    },
     "AIUXDesignValueCompression": {
       "episode_count": 1,
       "show_count": 1,
@@ -20778,6 +20808,43 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/cryptopaymentpracticalitygap/"
     },
+    "Ctrip": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "困在系统里的酒店，你不知道的携程垄断练成史 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [困在系统里的酒店，你不知道的携程垄断练成史-1].md",
+          "key": "kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun",
+          "show": "科技乱炖",
+          "title": "困在系统里的酒店，你不知道的携程垄断练成史",
+          "url": "/wiki/sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun/"
+        },
+        {
+          "episode_file": "140.酒店集团为什么都热衷于打造会员和积分体系？｜ 串台远行者与碎冰匠 [lj_XA3WXzJOG6_8Zm9nfAkH6UleW].md",
+          "key": "140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew",
+          "show": "起朱楼宴宾客",
+          "title": "140.酒店集团为什么都热衷于打造会员和积分体系？| 串台远行者与碎冰匠",
+          "url": "/wiki/sources/140-jiudian-jituan-weishenme-dou-rezhongyu-dazao-huiyuan-he-jifen-tixi-chuantai-yuanxingzhe-yu-suibingjiang-lj-xa3wxzjog6-8zm9nfakh6ulew/"
+        },
+        {
+          "episode_file": "EP91 订房订票定江山，携程51亿为傲慢买单 [lovHfkZ4RkLv1iK_uQYESwRdf3uw].md",
+          "key": "ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw",
+          "show": "一劳永逸",
+          "title": "EP91 订房订票定江山，携程51亿为傲慢买单",
+          "url": "/wiki/sources/ep91-dingfang-dingpiao-dingjiangshan-xiecheng-51-yi-wei-aoman-maidan-lovhfkz4rklv1ik-uqyeswrdf3uw/"
+        },
+        {
+          "episode_file": "ljPurcSyivJkwJyAK_3kt3zly_fP [ljPurcSyivJkwJyAK_3kt3zly_fP].md",
+          "key": "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp",
+          "show": "罗永浩的十字路口",
+          "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
+          "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/ctrip/"
+    },
     "CuiQiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -23094,6 +23161,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/democraticsocialistsofamerica/"
+    },
+    "DemographicInnovationCapacity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljPurcSyivJkwJyAK_3kt3zly_fP [ljPurcSyivJkwJyAK_3kt3zly_fP].md",
+          "key": "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp",
+          "show": "罗永浩的十字路口",
+          "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
+          "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/demographicinnovationcapacity/"
     },
     "DengBiaoEasternHan": {
       "episode_count": 1,
@@ -33778,6 +33861,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/fertilityenergyavailability/"
+    },
+    "FertilitySubsidyLimits": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽” [loWze7hAOmxBmQRrajpL51DVvXe7].md",
+          "key": "137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7",
+          "show": "起朱楼宴宾客",
+          "title": "137.亲历日本生育补贴：国家帮我养娃，归来仍是“吞金兽”",
+          "url": "/wiki/sources/137-qinli-riben-shengyu-butie-guojia-bang-wo-yangwa-guilai-reng-shi-tunjinshou-lowze7haomxbmqrrajpl51dvvxe7/"
+        },
+        {
+          "episode_file": "ljPurcSyivJkwJyAK_3kt3zly_fP [ljPurcSyivJkwJyAK_3kt3zly_fP].md",
+          "key": "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp",
+          "show": "罗永浩的十字路口",
+          "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
+          "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/fertilitysubsidylimits/"
     },
     "FeudalHomageSovereigntyConflict": {
       "episode_count": 1,
@@ -57662,6 +57768,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangjilatehan/"
+    },
+    "LiangJianzhang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "困在系统里的酒店，你不知道的携程垄断练成史 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [困在系统里的酒店，你不知道的携程垄断练成史-1].md",
+          "key": "kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun",
+          "show": "科技乱炖",
+          "title": "困在系统里的酒店，你不知道的携程垄断练成史",
+          "url": "/wiki/sources/kunzai-xitong-li-de-jiudian-ni-buzhidao-de-xiecheng-longduan-lianchengshi-keji-luandun/"
+        },
+        {
+          "episode_file": "ljPurcSyivJkwJyAK_3kt3zly_fP [ljPurcSyivJkwJyAK_3kt3zly_fP].md",
+          "key": "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp",
+          "show": "罗永浩的十字路口",
+          "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
+          "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/liangjianzhang/"
     },
     "LiangJinLateHan": {
       "episode_count": 3,
