@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7377
+wiki_total_pages: 7379
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "PerformativeEnforcementAccountability"
     title: "Performative Enforcement Accountability"
     url: "/wiki/concepts/performativeenforcementaccountability/"
+  - key: "PeriaqueductalGray"
+    title: "Periaqueductal Gray"
+    url: "/wiki/concepts/periaqueductalgray/"
   - key: "PerimenopauseBrainMetabolism"
     title: "Perimenopause Brain Metabolism"
     url: "/wiki/concepts/perimenopausebrainmetabolism/"

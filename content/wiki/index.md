@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson](sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944.md) — Huberman Lab Essentials episode with David Anderson on emotions as internal states, VMH aggression and fear hierarchy, mating-circuit crosstalk, PAG routing, tachykinins, social isolation, and vagal brain-body signaling.
 - [《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？](sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a.md) — 芮淇讲透资治通鉴 episode linking Fukushima discharge, Hiroshima, Nagasaki, and Chernobyl into a nuclear-risk memory and externalization argument.
 - [《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！](sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6.md) — 芮淇讲透资治通鉴 episode on Huo Guang's early Han Zhao regency, Lu-family caution, royal-kin appointments, and benefit sharing with decision control.
 - [《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事](sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z.md) — 芮淇讲透资治通鉴 episode on Jun Buyi's mother shaping his judicial ethic, Jin Midi's cautious sickbed enfeoffment, and family education as public character formation.
@@ -12482,6 +12483,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Periaqueductal Gray](concepts/PeriaqueductalGray.md) — Disambiguated brain-region page for PAG as a downstream routing hub for innate behavior, posture, and pain modulation.
+- [Social Isolation Tachykinin](concepts/SocialIsolationTachykinin.md) — Animal-model concept linking social isolation, tachykinin-family neuropeptides, aggression, fear, and anxiety-like behavior.
 - [Nuclear Disaster Memory](concepts/NuclearDisasterMemory.md) — Frame connecting Hiroshima, Nagasaki, Fukushima, and Chernobyl as remembered nuclear harms with different temporal profiles.
 - [Nuclear Risk Externalization](concepts/NuclearRiskExternalization.md) — Pattern where nuclear accident aftermath is framed as shifted onto wider publics, ecosystems, or future generations.
 - [分利共治与谋略独断 / Benefit Sharing With Decision Control](concepts/BenefitSharingDecisionControl.md) — Court-politics method where a power broker shares offices and benefits to shrink opposition while keeping sensitive strategy concentrated.

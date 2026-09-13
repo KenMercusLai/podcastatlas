@@ -4676,9 +4676,9 @@
       "url": "/wiki/concepts/agenticsystemofrecordmoat/"
     },
     "AggressionCircuitBiology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -4686,9 +4686,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/aggressioncircuitbiology/"
     },
     "AggressionPressureReduction": {
@@ -11481,9 +11488,9 @@
       "url": "/wiki/concepts/boxingasembodiedagency/"
     },
     "BrainBodyEmotionMapping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -11491,9 +11498,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/brainbodyemotionmapping/"
     },
     "BrainHQ": {
@@ -22836,9 +22850,9 @@
       "url": "/wiki/entities/davemccormick/"
     },
     "DavidAnderson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -22853,9 +22867,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/davidanderson/"
     },
     "DavidBrancaccio": {
@@ -28933,9 +28954,9 @@
       "url": "/wiki/concepts/emotionalstabilityassocialnorm/"
     },
     "EmotionsAsFunctionalControlStates": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -28943,9 +28964,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/emotionsasfunctionalcontrolstates/"
     },
     "EmperorAnOfHan": {
@@ -47163,9 +47191,9 @@
       "url": "/wiki/entities/horatiogates/"
     },
     "HormoneContextAggression": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -47173,9 +47201,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/hormonecontextaggression/"
     },
     "HorsehideBurialResolve": {
@@ -77175,6 +77210,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
+    "PeriaqueductalGray": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/periaqueductalgray/"
+    },
     "PerimenopauseBrainMetabolism": {
       "episode_count": 2,
       "show_count": 1,
@@ -92269,6 +92327,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/socialhistorycaseframing/"
     },
+    "SocialIsolationTachykinin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/socialisolationtachykinin/"
+    },
     "SocialJetlag": {
       "episode_count": 1,
       "show_count": 1,
@@ -102878,9 +102952,9 @@
       "url": "/wiki/concepts/venousthromboembolismtriage/"
     },
     "VentromedialHypothalamus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -102888,9 +102962,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Controlling Aggression",
           "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        },
+        {
+          "episode_file": "SCIM8499505944 [SCIM8499505944].md",
+          "key": "essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
+          "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/ventromedialhypothalamus/"
     },
     "VernacularFemaleReligiousWriting": {

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson
+
+Added source `essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944`; created `PeriaqueductalGray` and `SocialIsolationTachykinin`; updated `DavidAnderson`, `VentromedialHypothalamus`, `AggressionCircuitBiology`, `HormoneContextAggression`, `EmotionsAsFunctionalControlStates`, `BrainBodyEmotionMapping`, `index`, and `overview`. No settled contradiction found; VMH, PAG, tachykinin, vagus, drug-blockade, mating-circuit, and animal-model claims remain source-scoped public neuroscience rather than individualized psychiatric treatment, hormone intervention, or violence-risk guidance.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？
 
 Added source `zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf`; created `ColonialPowerMiscalculation`; updated `Myanmar` with Burma's prior regional strength, First Anglo-Burmese War miscalculation, and Treaty of Yandabo sovereignty-shock frame. No settled contradiction found; the war interpretation and causal bridge to later Myanmar instability remain source-scoped.
@@ -19454,6 +19458,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
