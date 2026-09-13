@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞
+
+Added source `zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4`; created `HereditaryOfficePrivilege`; updated `ZhangChangWesternHan`, `WangJiWesternHan`, and `RootCauseRemonstrance` with Zhang Chang's eyebrow-painting and anti-fangshi remonstrance layer plus Wang Ji's Shenjue 1 root-cause memorial. No settled contradiction found; the childhood-injury anecdote, exact memorial wording, fangshi policy, and Xu/史/Wang outer-relative consequences remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！
 
 Added source page for Hanji 439: Zhao Chongguo's cautious Qiang-frontier policy, court persuasion, refusal of low-yield attack, 河湟屯田, infrastructure building, and surrender results, with Zhu Yi's clean-official memory as the closing civil-service contrast. Created Zhu Yi; updated Zhao Chongguo and frontier resource integration. No settled contradiction found; exact campaign counts, construction details, and the Tongxiang place note remain source-scoped.
@@ -18827,6 +18831,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the Hanji 440 backfill episode.
 - Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

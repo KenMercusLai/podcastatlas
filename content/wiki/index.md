@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞](sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4.md) — 芮淇讲透资治通鉴 episode on Zhang Chang's eyebrow-painting anecdote, anti-fangshi remonstrance, and Wang Ji's root-cause memorial on ritual order, frugality, personnel selection, and 任子令.
 - [EP 38: The Local AI Stack Nobody Talks About (But Should)](sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should.md) — Data Science With Sam episode with Trent Rossiter on local AI privacy/governance drivers, VRAM and unified-memory hardware choice, Ollama/LM Studio/vLLM tradeoffs, and safe local-agent setup.
 - [《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！](sources/zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's cautious Qiang policy, 河湟屯田, infrastructure-led pacification, surrender results, and Zhu Yi's clean-official memory.
 - [《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？](sources/zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's post-Qiang-campaign truth-telling, Xin-family retaliation, Xin Tang's abusive Protector-of-Qiang tenure, Zhao Ang's prison death, and Zhao-family Hehuang rootedness.
@@ -2404,7 +2405,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [严延年 / Yan Yannian (Western Han)](entities/YanYannianWesternHan.md) — Western Han cruel official whose harsh rule, locust-disaster neglect, subordinate accusation, maternal warning, and execution illustrate terror-rule backfire.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
-- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose strong anti-bandit ability is complicated by his anger-driven execution of Xu Shun and later teacher-suitability doubts.
+- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose private eyebrow-painting anecdote and anti-fangshi remonstrance sit beside later anger-driven punishment and teacher-suitability doubts.
 - [徐顺 / Xu Shun (Western Han)](entities/XuShunWesternHan.md) — Zhang Chang subordinate whose "five-day Jingzhao" remark triggers a fatal punishment and idiom-origin case.
 - [蔡康永 / Cai Kangyong](entities/CaiKangyong.md) — Host, writer, and Kangxi Laile figure whose interview adds aging, grief, AI-era creativity, and death-facing practice.
 - [CalDOGE](entities/CalDOGE.md) — Steve Hilton's campaign-branded California government-efficiency project for spending audits and waste claims.
@@ -2503,7 +2504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yokkaichi Pollution Incident / 四日市公害事件](entities/YokkaichiPollutionIncident.md) — Announced environmental public-health case in 日谈物语 E02, currently source-limited to the title and "no killer" setup.
 - [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official who supports Jia Juanzhi's Zhuya-abandonment proposal and later exits through disaster-accountability resignation.
 - [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
-- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose Liu He advice record and Han Yuandi-era summons anchor both Wang Jun's family reputation and "贡禹弹冠".
+- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose Liu He advice record, Shenjue 1 root-cause memorial, and Han Yuandi-era summons anchor both Wang Jun's family reputation and "贡禹弹冠".
 - [王骏 / Wang Jun (Western Han)](entities/WangJunWesternHan.md) — Jingzhao Yin appointed by Han Chengdi and framed through practical office reputation and Wang Ji's remonstrance tradition.
 - [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
 - [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.
@@ -13400,6 +13401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Public Agricultural Research Commercialization](concepts/PublicAgriculturalResearchCommercialization.md) - University research path that turns public breeding work into licensed, branded, and farmer-facing crop products.
 - [Commodity Trap Escape](concepts/CommodityTrapEscape.md) - Strategy of escaping interchangeable price competition through differentiation, quality, branding, or protected supply.
 - [根源诊断式进谏 / Root-Cause Remonstrance](concepts/RootCauseRemonstrance.md) — Pattern where advice redirects ritual or surface responses toward the concrete political causes that must be repaired.
+- [任子式官职特权 / Hereditary Office Privilege](concepts/HereditaryOfficePrivilege.md) — Western Han personnel risk where official households convert kinship sponsorship into officeholding without demonstrated administrative fitness.
 - [谶纬证据批判 / Chenwei Evidentiary Critique](concepts/ChenweiEvidentiaryCritique.md) — Pattern where prophetic or apocryphal texts are challenged through classical authority, chronology, internal coherence, catalog evidence, and court-risk constraints.
 - [守拙式临事决断 / Shouzhuo Decisive Restraint](concepts/ShouzhuoDecisiveRestraint.md) — Pattern where restrained, non-showy conduct preserves judgment until a high-risk moment requires a firm boundary and verifiable authority.
 - [Anonymous Slander Retaliation / 匿名诬告式报复](concepts/AnonymousSlanderRetaliation.md) — Pattern where injured palace or office interests use anonymous accusation to recode correction or cleanup as private factional ambition.

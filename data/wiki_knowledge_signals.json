@@ -44022,6 +44022,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/herbertsimon/"
     },
+    "HereditaryOfficePrivilege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞 [ligbHsgFYMVJlhPVIEqHpbkpVQk4].md",
+          "key": "zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/hereditaryofficeprivilege/"
+    },
     "HeroMemoryPoliticalCredibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -82892,9 +82908,9 @@
       "url": "/wiki/concepts/rootcausepacification/"
     },
     "RootCauseRemonstrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单 [lva3Y4hGU7Kn1Z4jMHy6jN4-oyVC].md",
@@ -82902,9 +82918,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》816丨想要“拿下”你的领导，其实很简单",
           "url": "/wiki/sources/zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞 [ligbHsgFYMVJlhPVIEqHpbkpVQk4].md",
+          "key": "zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/rootcauseremonstrance/"
     },
     "RotatorCuffExternalRotation": {
@@ -99559,9 +99582,9 @@
       "url": "/wiki/entities/wanghuoxinprince/"
     },
     "WangJiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -99576,6 +99599,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事",
           "url": "/wiki/sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞 [ligbHsgFYMVJlhPVIEqHpbkpVQk4].md",
+          "key": "zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4/"
         }
       ],
       "updated": "2026-09-13",
@@ -109928,9 +109958,9 @@
       "url": "/wiki/entities/zhangchangnanyanglatehan/"
     },
     "ZhangChangWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
@@ -109952,6 +109982,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞 [ligbHsgFYMVJlhPVIEqHpbkpVQk4].md",
+          "key": "zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4/"
         }
       ],
       "updated": "2026-09-13",
