@@ -8,23 +8,24 @@ sources:
   - zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t
   - zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4
   - zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad
+  - zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs
 last_updated: 2026-09-14
 ---
 
 ## Overview
 
-王吉 / Wang Ji enters the wiki through [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] as [[WangJunWesternHan|王骏]]'s father and a Western Han official remembered for remonstrating during Liu He's brief reign. [[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] now supplies that early remonstrance directly: after [[LiuHeHaihunHou|刘贺]] receives the succession summons, Wang Ji tells him to mourn, avoid issuing commands, and rely respectfully on [[HuoGuangWesternHan|霍光]]. [[zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t|Hanji 466]] adds an earlier Chuyuan 1 / 48 BCE layer: [[HanYuandi|汉元帝]] summons Wang Ji and [[GongYuWesternHan|贡禹]] as upright classicists, Wang Ji dies en route, and his summons becomes the signal behind the "贡禹弹冠" idiom. [[zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4|Hanji 434]] supplies the substantive Shenjue 1 remonstrance layer: Wang Ji tells [[EmperorXuanOfHan|汉宣帝]] that favors such as amnesty and tax relief cannot substitute for ritual order, frugality, worthy selection, and reform of hereditary office privilege.
+王吉 / Wang Ji enters the wiki through [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] as [[WangJunWesternHan|王骏]]'s father and a Western Han official remembered for remonstrating during Liu He's brief reign. [[zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs|Hanji 405-1]] adds Wang Ji's earlier Changyi advice: he urges [[LiuHeHaihunHou|刘贺]] to study classics under good teachers, cultivate body and mind, and think about how his conduct appears to the imperial center. [[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] then supplies the accession remonstrance directly: after Liu He receives the succession summons, Wang Ji tells him to mourn, avoid issuing commands, and rely respectfully on [[HuoGuangWesternHan|霍光]]. [[zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t|Hanji 466]] adds an earlier Chuyuan 1 / 48 BCE layer: [[HanYuandi|汉元帝]] summons Wang Ji and [[GongYuWesternHan|贡禹]] as upright classicists, Wang Ji dies en route, and his summons becomes the signal behind the "贡禹弹冠" idiom. [[zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4|Hanji 434]] supplies the substantive Shenjue 1 remonstrance layer: Wang Ji tells [[EmperorXuanOfHan|汉宣帝]] that favors such as amnesty and tax relief cannot substitute for ritual order, frugality, worthy selection, and reform of hereditary office privilege.
 
 ## Current Profile
 
-The source set uses Wang Ji as a family-reputation precedent, a peer-network signal, a succession adviser, and a root-cause reform voice. Hanji 406 shows the early advice that later sources summarize: Wang Ji recognizes Liu He's temperament and tries to make the accession survivable by converting sudden elevation into mourning restraint, command restraint, and deference to Huo Guang. During Liu He's twenty-seven-day reign, many officials are punished after Liu He is deposed by Huo Guang. Wang Ji and the langzhongling are spared because they had repeatedly remonstrated. Hanji 524 therefore treats Wang Ji as a family precedent for direct speech under a reckless ruler. Hanji 434 shows what that directness can look like under a stronger emperor: Wang Ji praises Xuan's capacity but argues that popular favors only produce immediate gratitude unless the court reforms social practice and officeholding at the root.
+The source set uses Wang Ji as a family-reputation precedent, a peer-network signal, a succession adviser, and a root-cause reform voice. Hanji 405-1 and Hanji 406 show why later sources remember him as a remonstrant under Liu He: before the summons, he tries to move the Changyi king from hunting and play toward classics, bodily discipline, and politically legible conduct; after the summons, he tries to make accession survivable by converting sudden elevation into mourning restraint, command restraint, and deference to Huo Guang. During Liu He's twenty-seven-day reign, many officials are punished after Liu He is deposed by Huo Guang. Wang Ji and the langzhongling are spared because they had repeatedly remonstrated. Hanji 524 therefore treats Wang Ji as a family precedent for direct speech under a reckless ruler. Hanji 434 shows what that directness can look like under a stronger emperor: Wang Ji praises Xuan's capacity but argues that popular favors only produce immediate gratitude unless the court reforms social practice and officeholding at the root.
 
 His Shenjue 1 program is wide rather than single-issue. He asks for ritual order adapted from ancient norms, better executors close to the throne, restraint in marriage costs, clothing and carriage display, selection by worth rather than family sponsorship, and generous private gifts without important offices for the ruler's intimates. Hanji 466 then adds that his reputation is not merely retrospective: when Yuan summons Wang Ji and Gong Yu, Gong Yu reads Wang Ji's recall as evidence that their shared scholarly and moral orientation may again be usable in court.
 
 ## Key Characteristics
 
 - Western Han official and father of [[WangJunWesternHan|王骏]].
-- Remembered for repeated remonstrance to Liu He, including direct accession advice to mourn, avoid commands, and defer to Huo Guang.
+- Remembered for repeated remonstrance to Liu He, including pre-accession classics-and-conduct advice and direct accession advice to mourn, avoid commands, and defer to Huo Guang.
 - Spared after Liu He's deposition because his advice record distinguishes him from punished Changyi followers.
 - Summoned by Han Yuandi in Chuyuan 1 together with Gong Yu because of classics learning and upright conduct.
 - Shenjue 1 remonstrator who distinguishes short-term imperial favors from durable governance.
@@ -32,6 +33,11 @@ His Shenjue 1 program is wide rather than single-issue. He asks for ritual order
 - Dies on the way to court, leaving Gong Yu as the one who reaches Yuan's service.
 
 ## Evidence
+
+Pre-accession conduct remonstrance:
+- [[zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs|Hanji 405-1]] says Wang Ji criticizes Liu He for preferring hunting and amusement over classics study.
+- [[zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs|Hanji 405-1]] says Wang Ji urges Liu He to study under good teachers, discuss earlier ruler models, and use movement and breathing practice to cultivate body and mind.
+- [[zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs|Hanji 405-1]] says Liu He briefly acknowledges the criticism and rewards Wang Ji, but soon returns to indulgent habits.
 
 Liu He accession advice:
 - [[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] says Wang Ji advises Liu He to follow a mourning model, avoid issuing commands, and defer to Huo Guang after receiving the succession summons.
@@ -54,11 +60,12 @@ Yuan-era summons and Gong Yu connection:
 
 ## Qualifications
 
-This page is source-scoped to Wang Ji's direct Liu He accession advice in Hanji 406, his summarized remonstrance role in Hanji 524, his Shenjue 1 memorial in Hanji 434, and his Yuan-era summons and Gong Yu connection in Hanji 466. It does not yet synthesize his full career, writings, exact route to court, illness or death details, or other political positions. Hanji 434 gives the current wiki's richest account of his policy thought, but it remains a podcast summary rather than the full original memorial.
+This page is source-scoped to Wang Ji's Liu He remonstrance in Hanji 405-1 and Hanji 406, his summarized remonstrance role in Hanji 524, his Shenjue 1 memorial in Hanji 434, and his Yuan-era summons and Gong Yu connection in Hanji 466. It does not yet synthesize his full career, writings, exact route to court, illness or death details, or other political positions. Hanji 434 gives the current wiki's richest account of his policy thought, but it remains a podcast summary rather than the full original memorial.
 
 ## What Changed
 
-- Added Hanji 406's direct Liu He advice: mourning posture, command restraint, reliance on Huo Guang, and early diagnosis of accession risk.
+- Added Hanji 405-1's pre-accession Liu He advice: classics study, conduct discipline, body-mind cultivation, and the problem that Liu He can recognize criticism without sustaining reform.
+- Preserved Hanji 406's direct Liu He advice: mourning posture, command restraint, reliance on Huo Guang, and early diagnosis of accession risk.
 - Preserved Hanji 434's Shenjue 1 memorial: favors versus governance roots, ritual order, frugality, personnel reform, and Xuan's nonresponse.
 - Preserved Hanji 466's Yuan-era summons and "贡禹弹冠" connection to Gong Yu.
 

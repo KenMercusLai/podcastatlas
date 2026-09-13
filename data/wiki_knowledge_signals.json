@@ -3562,9 +3562,9 @@
       "url": "/wiki/concepts/accessionkinshipcontainment/"
     },
     "AccessionMourningLegibility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？ [lgs9uY4ohCD50v9qeirVSdo2x3Ad].md",
@@ -3572,6 +3572,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏候刘贺到底多荒唐？ [ljolL1pLL7OVr4LnYUzCYYKxGBgs].md",
+          "key": "zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs/"
         }
       ],
       "updated": "2026-09-14",
@@ -40243,9 +40250,9 @@
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongSuiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -40253,9 +40260,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏候刘贺到底多荒唐？ [ljolL1pLL7OVr4LnYUzCYYKxGBgs].md",
+          "key": "zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/gongsuiwesternhan/"
     },
     "GongYuWesternHan": {
@@ -59589,9 +59603,9 @@
       "url": "/wiki/entities/liuguilatehan/"
     },
     "LiuHeHaihunHou": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -59627,6 +59641,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏候刘贺到底多荒唐？ [ljolL1pLL7OVr4LnYUzCYYKxGBgs].md",
+          "key": "zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs/"
         }
       ],
       "updated": "2026-09-14",
@@ -101946,9 +101967,9 @@
       "url": "/wiki/entities/wanghuoxinprince/"
     },
     "WangJiWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -101977,6 +101998,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏候刘贺到底多荒唐？ [ljolL1pLL7OVr4LnYUzCYYKxGBgs].md",
+          "key": "zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs/"
         }
       ],
       "updated": "2026-09-14",

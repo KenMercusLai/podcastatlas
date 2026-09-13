@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [succession, ritual, mourning, court-politics, western-han]
 sources:
   - zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad
+  - zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs
 last_updated: 2026-09-14
 ---
 
@@ -14,7 +15,7 @@ Accession mourning legibility / 继位守丧可读性 is the pattern where a suc
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] grounds the concept through [[LiuHeHaihunHou|刘贺]]'s rushed accession after Han Zhaodi's death. The problem is not only private insincerity. Liu He receives the throne through a mourning setting, so visible delight, concealed sexual indulgence, uncontrolled orders, and failure to cry at the city gate all make his claim look ritually unreadable.
+[[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] grounds the concept through [[LiuHeHaihunHou|刘贺]]'s rushed accession after Han Zhaodi's death. [[zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs|Hanji 405-1]] adds why the later mourning failure is predictable: before the summons, Liu He already resists classics discipline, ritual restraint, and adviser-guided companion reform. The problem is therefore not only private insincerity at the capital gate. Liu He receives the throne through a mourning setting, so visible delight, concealed sexual indulgence, uncontrolled orders, and failure to cry all make his claim look ritually unreadable.
 
 Wang Ji and the langzhongling understand the same risk from different angles. [[WangJiWesternHan|王吉]] advises Liu He to follow the model of restrained mourning, avoid issuing commands, and rely on [[HuoGuangWesternHan|霍光]]. The langzhongling translates the immediate ceremony: on reaching the capital, Liu He should cry because the role itself requires grief. Liu He's eventual loud crying therefore looks like a tactical performance to secure the throne, not a sign that he has internalized the ritual order.
 
@@ -24,6 +25,7 @@ The concept is narrower than general [[LiAsPoliticalOrder|礼制政治秩序]]. 
 
 - Accession through a deceased ruler's funeral makes grief a public qualification, not only a private feeling.
 - Mourning conduct can reveal whether a candidate understands role restraint before he begins to command.
+- Earlier conduct discipline can make later mourning legibility more or less credible once succession arrives.
 - Visible joy, pleasure-seeking, and hidden impropriety during the mourning journey can damage legitimacy before formal enthronement.
 - Advisers may treat emotional performance as politically necessary even when they doubt the candidate's sincerity.
 - The pattern connects ritual form to power transfer: the new ruler must show continuity with the dead ruler before acting as sovereign.
@@ -31,6 +33,7 @@ The concept is narrower than general [[LiAsPoliticalOrder|礼制政治秩序]]. 
 ## Evidence
 
 Public grief as accession qualification:
+- [[zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs|Hanji 405-1]] says Wang Ji and Gong Sui already try to make Liu He study, restrain himself, and avoid sycophants before the succession summons.
 - [[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] says Wang Ji advises Liu He to follow a mourning model, avoid issuing commands, and defer to Huo Guang after receiving the succession summons.
 - [[zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad|Hanji 406]] says the langzhongling reminds Liu He that someone coming to mourn should cry when seeing the capital gate.
 
@@ -43,11 +46,12 @@ Tactical performance:
 
 ## Counterevidence & Qualifications
 
-The current evidence is one Western Han episode and should not be generalized into a complete typology of imperial mourning. The source does not prove Liu He's inner feelings directly; it preserves outward conduct and the host's reading that his grief was instrumental. Later Hanji 407-409 sources show how this unreadable accession posture becomes part of a larger deposition case, but this concept stays focused on the initial mourning-performance threshold.
+The current evidence is two Western Han episodes and should not be generalized into a complete typology of imperial mourning. The sources do not prove Liu He's inner feelings directly; they preserve outward conduct, adviser concern, and the host's reading that his grief was instrumental. Later Hanji 407-409 sources show how this unreadable accession posture becomes part of a larger deposition case, but this concept stays focused on the initial mourning-performance threshold.
 
 ## What Changed
 
-- Created the concept from Hanji 406's account of Liu He's accession journey, Wang Ji's advice, and the langzhongling's gate-and-palace mourning reminders.
+- Added Hanji 405-1's pre-summons discipline layer, making Hanji 406's accession mourning failure less abrupt.
+- Preserved Hanji 406's account of Liu He's accession journey, Wang Ji's advice, and the langzhongling's gate-and-palace mourning reminders.
 
 ## Related Concepts
 
