@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7373
+wiki_total_pages: 7374
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "ColonialLoyaltyRupture"
     title: "Colonial Loyalty Rupture"
     url: "/wiki/concepts/colonialloyaltyrupture/"
+  - key: "ColonialPowerMiscalculation"
+    title: "Colonial Power Miscalculation / 殖民强权误判"
+    url: "/wiki/concepts/colonialpowermiscalculation/"
   - key: "ColonialTemporalDiscipline"
     title: "Colonial Temporal Discipline"
     url: "/wiki/concepts/colonialtemporaldiscipline/"

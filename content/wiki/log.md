@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？
+
+Added source `zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf`; created `ColonialPowerMiscalculation`; updated `Myanmar` with Burma's prior regional strength, First Anglo-Burmese War miscalculation, and Treaty of Yandabo sovereignty-shock frame. No settled contradiction found; the war interpretation and causal bridge to later Myanmar instability remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！
 
 Added source `zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb`; created `NorthernMyanmarScamCompoundRisk`, `HighSalaryExitScamTrap`, `CrossBorderCrimeSanctuary`, and `GeopoliticalCriminalDeterrence`; migrated and updated `Myanmar` with the episode's Anglo-Burmese history and northern border crime frame. No settled contradiction found; violent compound details, organ-trafficking references, and U.S.-deterrence claims remain source-scoped.
@@ -19427,6 +19431,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？
 
 Added source `zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep`; updated `Xiongnu` and `XiongnuSuccessionFragmentation` with the 85 BCE layer of Han relief, Xiongnu war exhaustion, broken succession promise, consort-family violence, forged command, scapegoating, and ritual withdrawal. No settled contradiction found; unstable Xiongnu names and office titles remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

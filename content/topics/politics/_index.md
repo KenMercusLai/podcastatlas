@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2510
+topic_total_pages: 2511
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -664,6 +664,9 @@ topic_concepts:
   - key: "CollegeProgramEarningsAccountability"
     title: "College Program Earnings Accountability"
     url: "/wiki/concepts/collegeprogramearningsaccountability/"
+  - key: "ColonialPowerMiscalculation"
+    title: "Colonial Power Miscalculation / 殖民强权误判"
+    url: "/wiki/concepts/colonialpowermiscalculation/"
   - key: "ColorAsIdentityDisruption"
     title: "Color As Identity Disruption"
     url: "/wiki/concepts/colorasidentitydisruption/"

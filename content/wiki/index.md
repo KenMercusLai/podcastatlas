@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？](sources/zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf.md) — 芮淇讲透资治通鉴 episode using northern-Myanmar fear as a hook for Burma's First Anglo-Burmese War miscalculation, Treaty of Yandabo shock, and decline from regional military power.
 - [《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？](sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep.md) — 芮淇讲透资治通鉴 episode on 85 BCE Han relief, post-Han-Wudi Xiongnu poverty, broken succession promises, forged commands, scapegoating, and early Xiongnu internal fracture.
 - [《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！](sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb.md) — 芮淇讲透资治通鉴 episode linking Anglo-Burmese collapse, northern Myanmar scam compounds, high-salary exit traps, trafficking violence warnings, and geopolitical deterrence claims.
 - [《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？](sources/zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr.md) — 芮淇讲透资治通鉴 episode on six-year-old Shangguan Shi's palace entry, Huo Guang's refusal, Ding Wairen's princess access, and the early Shangguan-Huo rupture.
@@ -12471,6 +12472,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Colonial Power Miscalculation / 殖民强权误判](concepts/ColonialPowerMiscalculation.md) — Strategic-error pattern where inherited regional-power confidence misreads an industrial-colonial opponent's capacity and escalation threshold.
 - [Northern Myanmar Scam Compound Risk / 缅北诈骗园区风险](concepts/NorthernMyanmarScamCompoundRisk.md) — Myanmar-specific scam-compound risk where social engineering, captivity, violence, trafficking claims, and borderland weak governance overlap.
 - [High-Salary Exit Scam Trap / 高薪出境骗局](concepts/HighSalaryExitScamTrap.md) — Recruitment pattern where high pay or acquaintances lure victims across borders before coercion becomes visible.
 - [Cross-Border Crime Sanctuary / 跨境犯罪庇护地](concepts/CrossBorderCrimeSanctuary.md) — Borderland governance pattern where fragmented authority, terrain, and jurisdictional friction help organized crime cluster.
