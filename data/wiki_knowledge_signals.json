@@ -12481,6 +12481,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
+    "CaiJing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
+          "key": "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/caijing/"
+    },
     "CaiKangyong": {
       "episode_count": 1,
       "show_count": 1,
@@ -72268,6 +72284,50 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/northernrising/"
     },
+    "NorthernSong": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP252 《太平年》之外的五代十国，什么样？ [lnxM7tfS3zmVE3erm9qlBehLeFKh].md",
+          "key": "ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh",
+          "show": "Talk三联",
+          "title": "EP252 《太平年》之外的五代十国，什么样？",
+          "url": "/wiki/sources/ep252-taipingnian-zhiwai-de-wudai-shiguo-shenme-yang-lnxm7tfs3zmve3erm9qlbehlefkh/"
+        },
+        {
+          "episode_file": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下） [958158115].md",
+          "key": "170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115",
+          "show": "蜜獾吃书",
+          "title": "170.宋太祖之死：烛影斧声，阴谋论中的人性谜团（下）",
+          "url": "/wiki/sources/170-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-xia-958158115/"
+        },
+        {
+          "episode_file": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上） [957052909].md",
+          "key": "169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909",
+          "show": "蜜獾吃书",
+          "title": "169.宋太祖之死：烛影斧声，阴谋论中的人性谜团（上）",
+          "url": "/wiki/sources/169-songtaizu-zhisi-zhuying-fusheng-yinmoulun-zhong-de-renxing-mituan-shang-957052909/"
+        },
+        {
+          "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
+          "key": "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645",
+          "show": "蜜獾吃书",
+          "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
+          "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
+          "key": "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/northernsong/"
+    },
     "NorthernXiongnuLateHan": {
       "episode_count": 14,
       "show_count": 1,
@@ -92903,6 +92963,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/startupembassy/"
     },
+    "StateCommercialMonopolyExtraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
+          "key": "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/statecommercialmonopolyextraction/"
+    },
     "StateDependentSelfControl": {
       "episode_count": 1,
       "show_count": 1,
@@ -102682,6 +102758,108 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wanganxinprince/"
+    },
+    "WangAnshi": {
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判 [ljXxLOK4uh_aJJIRmoLYBOdlSpV9].md",
+          "key": "zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》112-3｜韩非与姚贾论战，秦王当裁判",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？ [lmD0owe3RQ_FAPOnBwZhkAiGpRiN].md",
+          "key": "zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》63丨 德高望重孟尝君是伪君子？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》26丨孟子来了！ [ln4twWp2frMR_xpUMu0RQG_2GPyn].md",
+          "key": "zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》26丨孟子来了！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
+          "key": "zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut/"
+        },
+        {
+          "episode_file": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气 [940236576].md",
+          "key": "164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576",
+          "show": "蜜獾吃书",
+          "title": "164.古文的力量：请收下这份千年未变的深情、洞见和勇气",
+          "url": "/wiki/sources/164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576/"
+        },
+        {
+          "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
+          "key": "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645",
+          "show": "蜜獾吃书",
+          "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
+          "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
+          "key": "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/wanganshi/"
+    },
+    "WangAnshiReforms": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》26丨孟子来了！ [ln4twWp2frMR_xpUMu0RQG_2GPyn].md",
+          "key": "zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》26丨孟子来了！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
+          "key": "zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut/"
+        },
+        {
+          "episode_file": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜 [741072645].md",
+          "key": "105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645",
+          "show": "蜜獾吃书",
+          "title": "105.苏东坡：一腔豪迈之气，一肚皮不合时宜",
+          "url": "/wiki/sources/105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
+          "key": "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/wanganshireforms/"
     },
     "WangBaEasternHan": {
       "episode_count": 1,

@@ -1,40 +1,67 @@
 ---
 title: "王安石 / Wang Anshi"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [official, reformer, song-dynasty, china]
-sources: [zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa, zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin, zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn, zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut, 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576, 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]
-last_updated: 2026-08-21
+sources:
+  - zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9
+  - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa
+  - zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin
+  - zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn
+  - zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut
+  - 164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576
+  - 105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645
+  - zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr
+last_updated: 2026-09-14
 ---
 
 # 王安石 / Wang Anshi
 
-[[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]] adds a prose-reading version through [[YouBaochanShanJi|《游褒禅山记》]]. The episode does not settle the full historical verdict on Wang Anshi; it uses the text to ask whether a failed political life can still preserve [[SubjectivityThroughFailure]] when the person has genuinely "尽吾志" under the limits of power.
+## Overview
 
-Wang Anshi is the reformer and political counterweight to [[SuShi|苏轼]] in [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645]]. The episode introduces him as a talented, severe, personally unyielding official whose governing project responded to real [[NorthernSong|北宋]] fiscal and security problems.
+王安石 / Wang Anshi is a [[NorthernSong|北宋]] reformer, writer, and later interpretive touchstone. Across the wiki he appears as a severe reforming official, a classical-prose voice of "尽吾志," a reader of ancient talent and danger, and a political shadow over [[SimaGuang|司马光]]'s historical judgments.
 
-The source's critique is less that reform was unnecessary than that reform could become harsh implementation. [[WangAnshiReforms|王安石变法]] measures such as the Green Sprouts policy are presented through the opposition charge of "与民争利", while the episode also stresses that later old-party retaliation did not make Su Shi automatically loyal to the old faction. Wang Anshi therefore belongs to the episode's [[SongFactionalPolitics]] and [[ConscienceOverFaction]] frames.
+## Current Profile
 
-[[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut]] adds Wang Anshi as a later political shadow over [[ShangYang|公孙鞅 / 商鞅]] reception. The host argues that in [[SimaGuang|司马光]]'s time, writing about whether Shang Yang was hated by the people or by displaced elites could sound like taking a position on Wang Anshi's reform politics. This makes Wang Anshi part of the episode's [[TextualVariantPoliticalStakes|史书异文政治重量]] branch rather than a direct ancient-history actor.
+The central profile is double. [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645|Su Dongpo 105]] presents Wang Anshi as a talented and unyielding official responding to real fiscal and security pressure, while also showing how [[WangAnshiReforms|王安石变法]] could become harsh and extractive in practice. [[zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr|Hanji 396-4]] intensifies the critique by treating market-exchange and Green Sprouts policies as state commercial and credit monopolies that enriched the court while hurting merchants and ordinary people.
 
-[[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] adds Wang Anshi to [[MenciusSongReception|宋代孟子接受史]]. The episode says Wang Anshi loved [[Mengzi|孟子 / Mencius]] and helped raise his status, which makes Mencius's renyi-benefit language part of the same Song political-intellectual field as reform debate.
+Other sources make Wang Anshi more than a reform-policy label. A prose-reading episode uses [[YouBaochanShanJi|《游褒禅山记》]] to frame failed ideals and subjectivity through effort. Zhouji reception episodes use him as a later reader or political context: he criticizes [[Mengchangjun|孟尝君 / 田文]]'s chicken-crow and dog-theft retainers, contrasts official-risk readings with Li Bai's heroic admiration, elevates Mencius in Song reception, and stands behind Sima Guang's anti-Legalist and anti-reform interpretive environment.
 
-[[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin]] adds Wang Anshi as a later critic of [[Mengchangjun|孟尝君 / 田文]]. The episode uses his short critique of Mengchangjun's "chicken-crow and dog-theft" retainers to argue that a patron famous for many guests may still lack true talent judgment. In this source, Wang Anshi supplies the core distinction behind [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]]: tactical rescue skill is not the same as statecraft-level talent.
+## Key Characteristics
 
-[[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] adds Wang Anshi as a later reader of the [[FanJu|范雎]] and [[WeiQiWarringStates|魏齐]] branch. The episode contrasts him with [[LiBai|李白]]: Li Bai sees heroic friendship in [[YuQing|虞卿]]'s abandonment of office, while Wang Anshi sees how high office can suddenly turn into fatal exposure.
+- Reforming official whose program is tied to serious Northern Song fiscal and security pressure.
+- Politically severe figure whose reforms can be read as public-minded statecraft or coercive extraction depending on source focus.
+- Classical-prose writer whose "尽吾志" posture supports a dignity-through-failed-effort reading.
+- Later critic of indiscriminate retainer patronage and high-office risk in Warring States reception.
+- Key pole in Song intellectual politics around Mencius, benefit, reform, and Sima Guang's historical judgment.
+- Hanji 396-4 adds a sharper role as the starting point of a fiscal-market extraction narrative later continued through Cai Jing.
 
-The same source also uses Wang Anshi's own career path to contrast violent Warring States mobility with later institutional mobility. Wang Anshi can become chancellor through the mature Northern Song examination order, so his page now also touches [[ImperialExaminationOpportunityEquality|科举与机会平等]] rather than only reform politics.
+## Evidence
 
-[[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Wang Anshi as background to the host's source-scoped reading of [[SimaGuang|司马光]]'s [[HanFei|韩非]] judgment. The episode argues that Sima Guang's anti-Legalist and anti-reform Song context, including opposition to Wang Anshi, shaped his harsher treatment of Han Fei in [[ZizhiTongjian|《资治通鉴》]]. This page records that as the episode's interpretive claim, not as an independently settled causal fact.
+- Reform motive and implementation harm: [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645|Su Dongpo 105]] places Wang Anshi against fiscal and security pressures while stressing coercive implementation and "与民争利" criticism.
+- State commercial extraction: [[zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr|Hanji 396-4]] connects Wang Anshi's reforms to official commerce, credit monopoly, treasury revenue, and social harm.
+- Failed-ideal subjectivity: [[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576|Guwen 164]] reads [[YouBaochanShanJi|《游褒禅山记》]] as preserving subjectivity through "尽吾志" despite political failure.
+- Talent critique: [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin|Zhouji 63]] uses Wang Anshi's Mengchangjun critique to distinguish broad patronage from true talent selection.
+- Official-risk reception: [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95-4]] contrasts Wang Anshi's danger-conscious reading with Li Bai's heroic friendship lens.
+- Song reception politics: [[zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut|Zhouji 24]], [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn|Zhouji 26]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] make him part of later arguments over Shang Yang, Mencius, Han Fei, reform, and Legalist statecraft.
 
-## Connections
-- [[SuShi|苏轼 / 苏东坡]] - principal literary-official opponent in the source.
-- [[OuyangXiu|欧阳修]] - senior figure who had recognized both talents.
-- [[WangAnshiReforms|王安石变法]] and [[SongFactionalPolitics|宋代党争]] - main policy and faction context.
-- [[SongShenzong|宋神宗]] - emperor associated with the reform program.
-- [[SimaGuang|司马光]] - old-party counterpole later criticized by Su Shi as well.
-- [[YouBaochanShanJi|《游褒禅山记》]] and [[SubjectivityThroughFailure]] - episode 164's prose-reading and failed-ideal extension.
-- [[ShangYang|公孙鞅 / 商鞅]] and [[TextualVariantPoliticalStakes|史书异文政治重量]] - Zhouji 24's Song-political projection onto an ancient reformer.
-- [[Mengzi|孟子 / Mencius]], [[YiMeng|《疑孟》]], and [[MenciusSongReception|宋代孟子接受史]] - Zhouji 26 reception-history extension.
-- [[Mengchangjun|孟尝君 / 田文]], [[WarringStatesRetainerPatronage|战国养士]], and [[JimingGoudaoTalentCritique|鸡鸣狗盗式人才批评]] - Zhouji 63 retainer-quality critique.
-- [[FanJu|范雎]], [[WeiQiWarringStates|魏齐]], [[YuQing|虞卿]], [[LiBai|李白]], and [[ImperialExaminationOpportunityEquality|科举与机会平等]] - Zhouji 95 part 4 official-risk reading and examination-mobility contrast.
-- [[HanFei|韩非]], [[SimaGuang|司马光]], [[ZizhiTongjian|《资治通鉴》]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - source-scoped claim that anti-reform Song politics shapes Han Fei reception.
+## Qualifications
+
+The page preserves conflicting emphases. Some sources use Wang Anshi as a serious reformer and writer with enduring moral force; Hanji 396-4 presents a much harsher fiscal-market indictment. The current synthesis does not settle whether Wang Anshi personally "caused" Northern Song collapse; it records that claim as the source's strong interpretive frame.
+
+## What Changed
+
+- Migrated the page to synthesis-v1 while preserving the existing source order.
+- Added Hanji 396-4's direct critique of Wang Anshi's market-exchange and Green Sprouts policies.
+- Added the link from Wang Anshi's reform logic to Cai Jing and late Northern Song extraction.
+- Rebalanced the profile around multiple roles: reformer, writer, reception figure, and fiscal-market controversy.
+
+## Relationships
+
+- [[WangAnshiReforms|王安石变法]] - central policy field associated with him.
+- [[NorthernSong|北宋]] - dynasty whose fiscal and security problems frame his reforms.
+- [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]] - Hanji 396-4's mechanism for the harmful side of his reforms.
+- [[CaiJing|蔡京]] - later official the source treats as continuing the extractive new-law line.
+- [[SongFactionalPolitics|宋代党争]] - political arena in which support, opposition, and rollback form.
+- [[YouBaochanShanJi|《游褒禅山记》]] - prose text used to interpret his failed-ideal subjectivity.
+- [[SimaGuang|司马光]] - old-party counterpole and historian whose judgments are read through anti-Wang-Anshi politics.

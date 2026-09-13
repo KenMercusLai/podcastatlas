@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2030
+topic_total_pages: 2031
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3004,6 +3004,9 @@ topic_concepts:
   - key: "LuxuryStatusSignalEfficiency"
     title: "奢侈品身份信号效率 / Luxury Status Signal Efficiency"
     url: "/wiki/concepts/luxurystatussignalefficiency/"
+  - key: "StateCommercialMonopolyExtraction"
+    title: "官营商业垄断式汲取 / State Commercial Monopoly Extraction"
+    url: "/wiki/concepts/statecommercialmonopolyextraction/"
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"

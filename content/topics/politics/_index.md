@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2505
+topic_total_pages: 2506
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3793,6 +3793,9 @@ topic_concepts:
   - key: "ImperialClassicsConsensusBuilding"
     title: "官方经学定议 / Imperial Classics Consensus Building"
     url: "/wiki/concepts/imperialclassicsconsensusbuilding/"
+  - key: "StateCommercialMonopolyExtraction"
+    title: "官营商业垄断式汲取 / State Commercial Monopoly Extraction"
+    url: "/wiki/concepts/statecommercialmonopolyextraction/"
   - key: "EffectMeasuredPersonnelSelection"
     title: "实效考察式用人 / Effect-Measured Personnel Selection"
     url: "/wiki/concepts/effectmeasuredpersonnelselection/"

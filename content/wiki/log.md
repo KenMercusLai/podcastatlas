@@ -19214,6 +19214,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的
+
+Added source `zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr`; created `CaiJing` and `StateCommercialMonopolyExtraction`; updated `WangAnshi`, `WangAnshiReforms`, and `NorthernSong` with the episode's fiscal-market critique of the Wang Anshi reforms, official commercial monopoly, Green Sprouts credit monopoly, Cai Jing continuation, and Northern Song collapse framing. No settled contradiction found; the collapse claim remains source-scoped rather than a complete causal account.
+
 ## [2026-09-14] ingest | EP87《稀缺》：如何设计一个让自己变聪明的系统
 
 Added source `ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv`; created `ScarcityMindset`, `TunnelingTax`, `MentalBandwidth`, `SystemDesignOverWillpower`, and `TimeAndPaydayLoanTrap`; updated `ZongHengSiHai` and `QueueingTheorySlack` with the episode's scarcity-psychology, bandwidth, slack, defaults, fire-drill, and future-borrowing synthesis. No settled contradiction found; experimental details and quantitative claims remain source-scoped.
@@ -19332,6 +19336,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断
 
 Added source `dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf`; created `Zibianliang`, `WangQianZibianliang`, `EmbodiedRobotDataTradeoff`, `GeneralModelRobotBoundary`, and `RobotDeploymentSuccessEconomics`; updated `SuduTechnology`, `HanZheng`, `AntLingbo`, `ShenYujun`, `PokeRobotics`, and `XuHuazhe` with the four-company debate on simulation, real sensor data, Astra boundaries, layered architecture, complex contact, and deployment economics. No settled contradiction found; route disagreements remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
