@@ -2,26 +2,46 @@
 title: "Poke Robotics"
 type: entity
 tags: [company, robotics, embodied-ai, startup]
-sources: [166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]
-last_updated: 2026-07-09
+sources:
+  - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
+  - dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf
+last_updated: 2026-09-14
+knowledge_schema: synthesis-v1
 ---
 
 # Poke Robotics
 
-Poke Robotics, or 破壳机器人, is the robotics startup founded by [[XuHuazhe]] and discussed in [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]]. Xu says he started the company after leaving [[Xinghaitu]] because he wanted to pursue ideas that may require his own leadership and route conviction.
+## Overview
+Poke Robotics, or 破壳机器人, is the robotics startup founded by [[XuHuazhe]] and discussed in [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] and [[dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf]]. The company is tracked as a household/general-service robotics route aimed at [[PhysicalAGI]] rather than a narrow industrial machine.
 
-The company's stated direction is general household robotics rather than a narrow industrial machine. Xu frames the long-term target as [[PhysicalAGI]], with a first stage focused on building a robot body, training AI models, and defining the household product together.
+## Current Profile
+Poke's current profile combines a household-robot [[PhysicalAGI]] thesis with a specific capability boundary around complex contact. Xu credits Astra-style general models with semantic and spatial strength, but treats complex physical contact, reliable manipulation, and deployment economics as the remaining hard problems that a robotics company must solve.
 
-## Key Points
-- The first product direction is a home robot, with a wheeled dual-arm form likely to enter before a fully bipedal humanoid.
-- Xu says the team should rely on the robotics ecosystem for many components rather than vertically integrating every camera, motor, or coil.
-- The company places "extreme" focus at the top of its culture because Xu believes organizational attention is limited.
-- Early product boundaries exclude high-risk direct body-care tasks such as feeding, baby handling, massage, or turning people over.
-- The company needs 2C hardware engineers, top AI researchers, and product people who can define a new consumer robot category.
+## Key Characteristics
+- Pursues general household robotics as a route toward [[PhysicalAGI]].
+- Treats active use and repeated value as more meaningful than shipments or demos.
+- Uses product safety boundaries to exclude high-risk direct body-care tasks in early stages.
+- Sees general models as useful for semantic and spatial reasoning but limited on complex physical contact.
+- Distinguishes short-term post-training deployments from the longer ambition of foundation-model-style general robotics.
 
-## Connections
-- [[XuHuazhe]] — founder.
-- [[PhysicalAGI]], [[AINativeRobotics]], and [[UnifiedRobotModels]] — technical route.
-- [[HomeServiceRobots]], [[ConsumerRoboticsFullStack]], and [[HouseholdRobotDataFlywheel]] — product and deployment context.
-- [[RobotActiveUseMetrics]] — usage standard Xu prefers over shipments or demos.
-- [[Xinghaitu]] — Xu's previous company context.
+## Evidence
+- Founding evidence: [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] says Xu founded Poke Robotics after leaving [[Xinghaitu]] to pursue general household robots.
+- Product evidence: [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] frames the first stage as building the body, models, and product definition together, likely through a wheeled dual-arm form before full bipedal humanoids.
+- Safety evidence: [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] says early products should avoid feeding, infant handling, massage, and turning people over.
+- Astra evidence: [[dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf]] records Poke testing Astra and finding strong semantic/spatial generalization but weaker complex physical contact.
+- Commercialization evidence: [[dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf]] records Xu separating post-training deployments by deployment hours and site replication from the longer foundation-model success-rate climb.
+
+## Qualifications
+Poke's household and Physical AGI route is still a founder thesis, not established customer-scale proof. The Astra test discussion is useful but source-scoped; it does not settle general-model capability across standardized robotics tasks.
+
+## What Changed
+- Converted the page to the synthesis-v1 entity schema.
+- Added Poke's Astra-response evidence and complex-contact boundary.
+- Added the distinction between short-term post-training deployments and long-term general robot models.
+
+## Relationships
+- [[XuHuazhe]] - founder.
+- [[PhysicalAGI]], [[AINativeRobotics]], and [[UnifiedRobotModels]] - technical route.
+- [[HomeServiceRobots]], [[ConsumerRoboticsFullStack]], and [[HouseholdRobotDataFlywheel]] - product and deployment context.
+- [[GeneralModelRobotBoundary]] - Astra-triggered boundary around semantic/spatial versus physical-contact capability.
+- [[RobotDeploymentSuccessEconomics]] - commercialization standard Poke helps define in the new source.

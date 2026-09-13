@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7347
+wiki_total_pages: 7350
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "EmbodiedRobotDataParadigms"
     title: "Embodied Robot Data Paradigms"
     url: "/wiki/concepts/embodiedrobotdataparadigms/"
+  - key: "EmbodiedRobotDataTradeoff"
+    title: "Embodied Robot Data Tradeoff"
+    url: "/wiki/concepts/embodiedrobotdatatradeoff/"
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"

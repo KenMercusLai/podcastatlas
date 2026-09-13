@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断](sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf.md) — 十字路口Crossing four-company embodied-AI debate on simulation versus real data, Astra-era general model boundaries, layered robot systems, commercialization economics, and physical production upside.
 - [“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年](sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs.md) — 罗永浩的十字路口 and 无聊斋 live crossover on everyday fear, social embarrassment, medical vulnerability, AI hallucination, AI career anxiety, cross-model verification, and AI companionship.
 - [《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？](sources/zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj.md) — 芮淇讲透资治通鉴 episode on late Han Wudi displacement, the Luntai turn, Du Yannian's advice to Huo Guang, and the limited Salt and Iron Conference settlement.
 - [《资治通鉴·汉纪》399｜汉武帝托孤大臣生死内斗！目标：干掉霍光！](sources/zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5.md) — 芮淇讲透资治通鉴 episode on the forged Yan king memorial against Huo Guang, Han Zhao's timing-and-motive reasoning, and ruler discernment against court slander.
@@ -2418,6 +2419,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [自变量 / Zibianliang](entities/Zibianliang.md) — Embodied-intelligence company represented by Wang Qian through a data, validation, and customer-payment route.
+- [王前 / Wang Qian](entities/WangQianZibianliang.md) — Zibianliang speaker arguing that robot intelligence depends on data, validation infrastructure, and sustained customer payment.
 - [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
 - [眭弘 / Sui Hong (Western Han)](entities/SuiHongWesternHan.md) — scholar-official whose omen reading becomes an abdication memorial under Han Zhao.
 - [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — cautious chancellor whose silence and failed Xu Ren protection effort highlight Huo Guang's regency dominance under Han Zhao.
@@ -12447,6 +12450,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.
+- [General Model Robot Boundary](concepts/GeneralModelRobotBoundary.md) — Boundary between general foundation-model semantic/spatial gains and robot-specific continuous sensing, contact, and physical execution.
+- [Robot Deployment Success Economics](concepts/RobotDeploymentSuccessEconomics.md) — Commercial test combining high success rate, fast deployment, ROI, low adaptation cost, and sustained customer payment.
 - [汉武帝晚年流民危机 / Late Han Wudi Displacement Crisis](concepts/LateHanWudiDisplacementCrisis.md) — Western Han crisis pattern linking late Wudi war, luxury, and extraction to mass displacement, rebellion pressure, Luntai self-criticism, and Han Zhao recovery policy.
 - [盐铁会议 / Salt and Iron Conference](concepts/SaltAndIronConference.md) — Han Zhao-era fiscal and court-political debate over salt, iron, junshu, and liquor monopoly after the late Han Wudi crisis.
 - [Social Embarrassment Fear](concepts/SocialEmbarrassmentFear.md) — anticipatory fear of being misread, exposed, judged, or trapped in awkward social obligation.

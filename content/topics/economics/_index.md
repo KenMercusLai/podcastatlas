@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2029
+topic_total_pages: 2030
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2422,6 +2422,9 @@ topic_concepts:
   - key: "RobotCommercializationNegativeFeedbackLoop"
     title: "Robot Commercialization Negative Feedback Loop"
     url: "/wiki/concepts/robotcommercializationnegativefeedbackloop/"
+  - key: "RobotDeploymentSuccessEconomics"
+    title: "Robot Deployment Success Economics"
+    url: "/wiki/concepts/robotdeploymentsuccesseconomics/"
   - key: "RoboticsRevenuePullForward"
     title: "Robotics Revenue Pull-Forward"
     url: "/wiki/concepts/roboticsrevenuepullforward/"

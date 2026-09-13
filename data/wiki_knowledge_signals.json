@@ -6536,6 +6536,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/anonymousslanderretaliation/"
     },
+    "AntLingbo": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
+          "key": "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+          "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+        },
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/antlingbo/"
+    },
     "AntaSports": {
       "episode_count": 4,
       "show_count": 4,
@@ -28418,6 +28441,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/embodiedintelligencevehiclepath/"
     },
+    "EmbodiedRobotDataTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/embodiedrobotdatatradeoff/"
+    },
     "EmbodiedTrainingAgainstFear": {
       "episode_count": 1,
       "show_count": 1,
@@ -39188,6 +39227,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/generalgrowthproperties/"
     },
+    "GeneralModelRobotBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/generalmodelrobotboundary/"
+    },
     "GenerationalEconomicTiming": {
       "episode_count": 1,
       "show_count": 1,
@@ -44035,6 +44090,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/hanyuandi/"
+    },
+    "HanZheng": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/hanzheng/"
     },
     "HanZhongLiaodongLateHan": {
       "episode_count": 1,
@@ -77444,6 +77522,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/poeticcausality/"
     },
+    "PokeRobotics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "许华哲再次具身创业：不想错过最大的西瓜 (1) [166-1].md",
+          "key": "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1",
+          "show": "晚点聊 LateTalk",
+          "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
+          "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
+        },
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/pokerobotics/"
+    },
     "PolicyBoundAgenticLendingSupport": {
       "episode_count": 2,
       "show_count": 2,
@@ -85099,6 +85200,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotcontroldatascarcity/"
     },
+    "RobotDeploymentSuccessEconomics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/robotdeploymentsuccesseconomics/"
+    },
     "RobotEvaluationProblem": {
       "episode_count": 2,
       "show_count": 2,
@@ -89150,6 +89267,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/shenyuefde/"
+    },
+    "ShenYujun": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
+          "key": "147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥",
+          "url": "/wiki/sources/147-he-mayi-lingbo-shenyujun-liao-jiqiren-yuansheng-jichu-moxing-danao-he-benti-de-guanxi-yuxunlian-yu-shuju-scale-up-laoshi-tangxiaoou-luxtyuafi-2onim15fw6lpypo2ga/"
+        },
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/shenyujun/"
     },
     "ShendiQiang": {
       "episode_count": 2,
@@ -94238,6 +94378,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/suddenwealthrepovertyrisk/"
+    },
+    "SuduTechnology": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E244｜端到端vs上下分层：机器人路径之争，正在转向？ [fc9a3737-81a9-49cf-a7d6-530c77df836e].md",
+          "key": "e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e",
+          "show": "硅谷101",
+          "title": "E244｜端到端vs上下分层：机器人路径之争，正在转向？",
+          "url": "/wiki/sources/e244-duan-dao-duan-vs-shangxia-fenceng-jiqiren-lujing-zhizheng-zhengzai-zhuanxiang-fc9a3737-81a9-49cf-a7d6-530c77df836e/"
+        },
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/sudutechnology/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,
@@ -103754,6 +103917,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/wangpingwesternhan/"
     },
+    "WangQianZibianliang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/wangqianzibianliang/"
+    },
     "WangQingBuHeShiYi": {
       "episode_count": 1,
       "show_count": 1,
@@ -109432,6 +109611,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuhuanglatehan/"
+    },
+    "XuHuazhe": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开 [lplNqS9I0z2b64zp9zF2h6EkhXjr].md",
+          "key": "132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开",
+          "url": "/wiki/sources/132-dui-xinghaitu-chuangshiren-gaojiyang-de-3-xiaoshi-fangtan/"
+        },
+        {
+          "episode_file": "许华哲再次具身创业：不想错过最大的西瓜 (1) [166-1].md",
+          "key": "166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1",
+          "show": "晚点聊 LateTalk",
+          "title": "166: 许华哲再次具身创业：不想错过最大的西瓜",
+          "url": "/wiki/sources/166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1/"
+        },
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/xuhuazhe/"
     },
     "XuJiayin": {
       "episode_count": 3,
@@ -118030,6 +118239,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zimieasternhan/"
+    },
+    "Zibianliang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断 [ls6W3MRJJRECuQG33yC3LBDmDZPf].md",
+          "key": "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf",
+          "show": "十字路口Crossing",
+          "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+          "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
       "episode_count": 1,

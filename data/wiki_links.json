@@ -19363,6 +19363,10 @@
     "title": "Embodied Robot Data Paradigms",
     "url": "/wiki/concepts/embodiedrobotdataparadigms/"
   },
+  "EmbodiedRobotDataTradeoff": {
+    "title": "Embodied Robot Data Tradeoff",
+    "url": "/wiki/concepts/embodiedrobotdatatradeoff/"
+  },
   "EmbodiedTaste": {
     "title": "Embodied Taste",
     "url": "/wiki/concepts/embodiedtaste/"
@@ -24466,6 +24470,10 @@
   "GeneralMills": {
     "title": "General Mills",
     "url": "/wiki/entities/generalmills/"
+  },
+  "GeneralModelRobotBoundary": {
+    "title": "General Model Robot Boundary",
+    "url": "/wiki/concepts/generalmodelrobotboundary/"
   },
   "GeneralMotors": {
     "title": "General Motors",
@@ -51947,6 +51955,10 @@
     "title": "Robot Demo Authenticity",
     "url": "/wiki/concepts/robotdemoauthenticity/"
   },
+  "RobotDeploymentSuccessEconomics": {
+    "title": "Robot Deployment Success Economics",
+    "url": "/wiki/concepts/robotdeploymentsuccesseconomics/"
+  },
   "RobotEvaluationProblem": {
     "title": "Robot Evaluation Problem",
     "url": "/wiki/concepts/robotevaluationproblem/"
@@ -63723,6 +63735,10 @@
     "title": "王婆 / Wang Po",
     "url": "/wiki/entities/wangpo/"
   },
+  "WangQianZibianliang": {
+    "title": "王前 / Wang Qian",
+    "url": "/wiki/entities/wangqianzibianliang/"
+  },
   "WangQingBuHeShiYi": {
     "title": "王磬 / Wang Qing",
     "url": "/wiki/entities/wangqingbuheshiyi/"
@@ -70767,6 +70783,10 @@
     "title": "《自卑与超越》",
     "url": "/wiki/entities/zibeiyuchaoyue/"
   },
+  "Zibianliang": {
+    "title": "自变量 / Zibianliang",
+    "url": "/wiki/entities/zibianliang/"
+  },
   "Zigong": {
     "title": "子贡 / Zigong / Duanmu Ci",
     "url": "/wiki/entities/zigong/"
@@ -71614,6 +71634,10 @@
   "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52": {
     "title": "当机器人学会认路，物理世界才真正接上了 AI",
     "url": "/wiki/sources/dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52/"
+  },
+  "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf": {
+    "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
+    "url": "/wiki/sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf/"
   },
   "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian": {
     "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",

@@ -23349,6 +23349,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EmbodiedRobotDataTradeoff": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EmbodiedTaste": [
     {
       "key": "technology",
@@ -28940,6 +28947,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "GeneralModelRobotBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Generalist": [
@@ -57966,6 +57980,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobotDeploymentSuccessEconomics": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "RobotEvaluationProblem": [
     {
       "key": "technology",
@@ -71794,6 +71820,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WangQianZibianliang": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "WangShangWesternHan": [
     {
       "key": "history",
@@ -77985,6 +78018,13 @@
       "url": "/topics/science/"
     }
   ],
+  "Zibianliang": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Zisi": [
     {
       "key": "history",
@@ -79270,6 +79310,13 @@
     }
   ],
   "dang-jiqiren-xuehui-renlu-wuli-shijie-cai-zhenzheng-jieshangle-ai-658f592c4a52": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf": [
     {
       "key": "technology",
       "label": "Technology",

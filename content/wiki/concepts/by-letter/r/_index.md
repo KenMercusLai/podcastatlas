@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7347
+wiki_total_pages: 7350
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "RobotDemoAuthenticity"
     title: "Robot Demo Authenticity"
     url: "/wiki/concepts/robotdemoauthenticity/"
+  - key: "RobotDeploymentSuccessEconomics"
+    title: "Robot Deployment Success Economics"
+    url: "/wiki/concepts/robotdeploymentsuccesseconomics/"
   - key: "RobotEvaluationProblem"
     title: "Robot Evaluation Problem"
     url: "/wiki/concepts/robotevaluationproblem/"

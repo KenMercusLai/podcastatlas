@@ -19321,3 +19321,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-14] ingest | 当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断
+
+Added source `dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf`; created `Zibianliang`, `WangQianZibianliang`, `EmbodiedRobotDataTradeoff`, `GeneralModelRobotBoundary`, and `RobotDeploymentSuccessEconomics`; updated `SuduTechnology`, `HanZheng`, `AntLingbo`, `ShenYujun`, `PokeRobotics`, and `XuHuazhe` with the four-company debate on simulation, real sensor data, Astra boundaries, layered architecture, complex contact, and deployment economics. No settled contradiction found; route disagreements remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
