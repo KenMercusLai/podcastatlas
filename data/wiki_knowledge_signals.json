@@ -93415,6 +93415,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/terminalvaluenarrative/"
     },
+    "TerrorRuleBackfire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你 [lknSLTb-JkKXuW1V8gFA-f3VwOIN].md",
+          "key": "zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/terrorrulebackfire/"
+    },
     "TeutonesAndCimbri": {
       "episode_count": 2,
       "show_count": 1,
@@ -104948,9 +104964,9 @@
       "url": "/wiki/entities/xiongnu/"
     },
     "XiongnuSuccessionFragmentation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼 [lo39-Mygg6xxo8cwCYvPQzCPZhRm].md",
@@ -104972,6 +104988,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你 [lknSLTb-JkKXuW1V8gFA-f3VwOIN].md",
+          "key": "zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin/"
         }
       ],
       "updated": "2026-09-13",
@@ -106312,6 +106335,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/yanxuwesternhan/"
+    },
+    "YanYannianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你 [lknSLTb-JkKXuW1V8gFA-f3VwOIN].md",
+          "key": "zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/yanyannianwesternhan/"
     },
     "YanYouXinGeneral": {
       "episode_count": 4,

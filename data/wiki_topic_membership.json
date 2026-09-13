@@ -66331,6 +66331,13 @@
       "url": "/topics/history/"
     }
   ],
+  "TerrorRuleBackfire": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TerryMeilunMeihuan": [
     {
       "key": "politics",
@@ -74572,6 +74579,13 @@
     }
   ],
   "YanXiangCheshiLateHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "YanYannianWesternHan": [
     {
       "key": "politics",
       "label": "Politics",
@@ -84250,6 +84264,13 @@
     }
   ],
   "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin": [
     {
       "key": "politics",
       "label": "Politics",

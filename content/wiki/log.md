@@ -18747,3 +18747,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你
+
+Added source note plus Yan Yannian and Terror Rule Backfire. Key claims: Yan Yannian's cruel-official style made subordinates fear him enough to expose him, while Woyanqudi Chanyu's killing-based rule left troops and kin unwilling to defend him against Huhanye's challenge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

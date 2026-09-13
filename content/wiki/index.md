@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？](sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's ritual education, grassroots local network, strict-kind subordinate management, and closed-door self-reproach handling of a brothers' land dispute.
 - [《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？](sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's sincere but morally coercive dispute handling, his loyal-victim family entry into office, and Woyanqudi Chanyu's purge-driven Xiongnu fragmentation.
+- [《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你](sources/zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin.md) — 芮淇讲透资治通鉴 episode on Yan Yannian's cruel-official downfall, terror-rule backfire, and Woyanqudi Chanyu's collapse into Huhanye's Xiongnu challenge.
 - [SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525.md) — All-In episode on a reported SpaceX-Cursor-xAI coding deal, SaaS debt fragility, Apple succession, SPLC indictment allegations, and a picloram early-onset colorectal cancer signal.
 - [《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼](sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm.md) — 芮淇讲透资治通鉴 episode on the 57 BCE Xiongnu five-chanyu crisis, Xiao Wangzhi's advice against opportunistic war, and Han Xuan's choice of mourning, aid, and legitimacy-minded restraint.
 - [《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜](sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's death, Xiao Wangzhi's accusation, public affection for a capable local official, and the post-Huo-Guang political-security reading behind the case.
@@ -2374,6 +2375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [范仲淹 / Fan Zhongyan](entities/FanZhongyan.md) — Song official-conscience contrast in Hanji 467.
 - [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
 - [韩延寿 / Han Yanshou (Western Han)](entities/HanYanshouWesternHan.md) — Western Han local-governance official whose sincere moral governance, complaint-channel risks, real old-account exposure, public affection, and Xiao Wangzhi-shaped death case complicate his "good official" reputation.
+- [严延年 / Yan Yannian (Western Han)](entities/YanYannianWesternHan.md) — Western Han cruel official whose harsh rule, locust-disaster neglect, subordinate accusation, maternal warning, and execution illustrate terror-rule backfire.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
 - [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose strong anti-bandit ability is complicated by his anger-driven execution of Xu Shun and later teacher-suitability doubts.
@@ -19530,5 +19532,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Counterterrorism Powers Repurposing](concepts/CounterterrorismPowersRepurposing.md) — Risk that terrorism-law tools are applied to new criminal, political, or domestic targets.
 - [Revolutionary Opera Cultural Memory](concepts/RevolutionaryOperaCulturalMemory.md) — How revolutionary performance and songs preserve political memory through artistic biography.
 - [People's Artist State Honor](concepts/PeopleArtistStateHonor.md) — State-honor frame for turning a performer into an official cultural symbol.
+- [恐怖治理反噬 / Terror Rule Backfire](concepts/TerrorRuleBackfire.md) — Governance pattern where killing and fear produce apparent obedience while storing accusation, desertion, and collapse in crisis.
 
 ## Syntheses

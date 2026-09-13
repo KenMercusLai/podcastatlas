@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7259
+wiki_total_pages: 7260
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -863,6 +863,9 @@ wiki_pages:
   - key: "TuntianProximitySecurityDilemma"
     title: "屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma"
     url: "/wiki/concepts/tuntianproximitysecuritydilemma/"
+  - key: "TerrorRuleBackfire"
+    title: "恐怖治理反噬 / Terror Rule Backfire"
+    url: "/wiki/concepts/terrorrulebackfire/"
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
