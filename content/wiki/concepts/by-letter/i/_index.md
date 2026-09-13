@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7273
+wiki_total_pages: 7280
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "IrreversibleDefectionBinding"
     title: "Irreversible Defection Binding / 断路式策反绑定"
     url: "/wiki/concepts/irreversibledefectionbinding/"
+  - key: "IrritableBowelSyndromeDiagnosticBoundary"
+    title: "Irritable Bowel Syndrome Diagnostic Boundary"
+    url: "/wiki/concepts/irritablebowelsyndromediagnosticboundary/"
   - key: "IslamistDemocraticTrustProblem"
     title: "Islamist Democratic Trust Problem"
     url: "/wiki/concepts/islamistdemocratictrustproblem/"

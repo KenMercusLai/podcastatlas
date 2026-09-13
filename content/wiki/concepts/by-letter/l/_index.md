@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7273
+wiki_total_pages: 7280
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "LinguisticRelativity"
     title: "Linguistic Relativity"
     url: "/wiki/concepts/linguisticrelativity/"
+  - key: "LiquidBiopsyScreeningBoundary"
+    title: "Liquid Biopsy Screening Boundary"
+    url: "/wiki/concepts/liquidbiopsyscreeningboundary/"
   - key: "LiquidSugarRisk"
     title: "Liquid Sugar Risk / 液体糖风险"
     url: "/wiki/concepts/liquidsugarrisk/"

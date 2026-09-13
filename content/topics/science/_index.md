@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1060
+topic_total_pages: 1061
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -937,6 +937,9 @@ topic_concepts:
   - key: "LimestoneLoopCarbonCapture"
     title: "Limestone Loop Carbon Capture"
     url: "/wiki/concepts/limestoneloopcarboncapture/"
+  - key: "LiquidBiopsyScreeningBoundary"
+    title: "Liquid Biopsy Screening Boundary"
+    url: "/wiki/concepts/liquidbiopsyscreeningboundary/"
   - key: "LithiumIronPhosphateBatteries"
     title: "Lithium Iron Phosphate Batteries"
     url: "/wiki/concepts/lithiumironphosphatebatteries/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7273
+wiki_total_pages: 7280
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "BourdieuCapitalForms"
     title: "Bourdieu Capital Forms / 布迪厄资本形式"
     url: "/wiki/concepts/bourdieucapitalforms/"
+  - key: "BowelSymptomTriage"
+    title: "Bowel Symptom Triage"
+    url: "/wiki/concepts/bowelsymptomtriage/"
   - key: "BoxingAsEmbodiedAgency"
     title: "Boxing As Embodied Agency"
     url: "/wiki/concepts/boxingasembodiedagency/"

@@ -18882,3 +18882,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书
+
+Added source note plus Ding Kefeng, bowel symptom triage, IBS diagnostic boundary, coffee laxative myth, colorectal cancer screening, colon polyp risk stratification, liquid biopsy screening boundary, and function-preserving colorectal surgery. Key claims: ordinary bowel symptoms should be routed by persistence and warning signs rather than panic, tumor markers and immature liquid-biopsy tools cannot replace validated screening and colonoscopy, and colorectal surgery increasingly balances cure with function and quality of life.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

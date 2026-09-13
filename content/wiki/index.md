@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书](sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih.md) — 这病说来话长 episode with Ding Kefeng on bowel-symptom triage, colorectal-cancer screening, colonoscopy, polyp risk stratification, liquid-biopsy boundaries, and function-preserving colorectal surgery.
 - [《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？](sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's late-life Qiang campaign origin, Yi Qu Anguo's frontier mismanagement, cautious reconnaissance, troop care, and coalition-splitting amnesty policy.
 - [《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争](sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo rejecting Xin Wuxian's July Qiang attack plan through logistics, target selection, defensive patience, and coalition-fracture reasoning.
 - [《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！](sources/zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's slow pursuit, trust-building release of Qiang submitters, refusal of a premature attack order, and屯田 infrastructure memorial as a management lesson.
@@ -2363,6 +2364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Ding Kefeng / 丁克峰](entities/DingKefeng.md) — Colorectal-surgery professor featured in the bowel-health and colorectal-cancer screening episode.
 - [Trent Rossiter](entities/TrentRossiter.md) — Local-AI practitioner and Logic Data Solutions consultant explaining memory-first hardware, framework choice, and agent isolation in Data Science With Sam EP38.
 - [Logic Data Solutions](entities/LogicDataSolutions.md) — Consulting-company context for Trent Rossiter's local-AI and data-platform practice.
 - [Ollama](entities/Ollama.md) — Convenience-first local model runner positioned in EP38 as an easy entry into local AI.
@@ -12309,6 +12311,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Bowel Symptom Triage](concepts/BowelSymptomTriage.md) — Boundary for interpreting diarrhea, constipation, bleeding, mucus, stool color, and bowel-habit changes without panic or dismissal.
+- [Irritable Bowel Syndrome Diagnostic Boundary](concepts/IrritableBowelSyndromeDiagnosticBoundary.md) — Caution that IBS-style functional labels should follow exclusion of organic disease.
+- [Coffee Laxative Myth](concepts/CoffeeLaxativeMyth.md) — Boundary around treating iced Americano or coffee as a reliable constipation solution.
+- [Colorectal Cancer Screening](concepts/ColorectalCancerScreening.md) — Stool-test, colonoscopy, tumor-marker, age-risk, and polyp-removal framework for colorectal cancer prevention.
+- [Colon Polyp Risk Stratification](concepts/ColonPolypRiskStratification.md) — Risk-tier frame for colorectal polyps by pathology, size, dysplasia, and follow-up interval.
+- [Liquid Biopsy Screening Boundary](concepts/LiquidBiopsyScreeningBoundary.md) — Evidence boundary for blood, stool, biomarker, and AI-assisted cancer-screening tools.
+- [Function-Preserving Colorectal Surgery](concepts/FunctionPreservingColorectalSurgery.md) — Surgical frame balancing oncologic safety with bowel, nerve, sphincter, valve, and quality-of-life preservation.
 - [Local AI Hardware Selection](concepts/LocalAIHardwareSelection.md) — Memory-first decision frame for local AI hardware covering VRAM/unified memory, throughput, accelerator stacks, and practical ownership constraints.
 - [Local AI Framework Stack](concepts/LocalAIFrameworkStack.md) — Layered local AI tool stack spanning model runners, serving engines, knowledge bases, workflow builders, and agent interfaces.
 - [经典典故政治改写 / Classical Allusion Political Recoding](concepts/ClassicalAllusionPoliticalRecoding.md) — Court-politics pattern where a classical or moral reference is reinterpreted as a direct threat to the ruler.

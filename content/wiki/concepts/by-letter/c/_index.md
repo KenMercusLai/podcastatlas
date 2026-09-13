@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7273
+wiki_total_pages: 7280
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1037,6 +1037,9 @@ wiki_pages:
   - key: "CoffeeFarmerIncomeMechanics"
     title: "Coffee Farmer Income Mechanics / 咖啡农户收入机制"
     url: "/wiki/concepts/coffeefarmerincomemechanics/"
+  - key: "CoffeeLaxativeMyth"
+    title: "Coffee Laxative Myth"
+    url: "/wiki/concepts/coffeelaxativemyth/"
   - key: "CoffeeProcessingTechnologyBoundary"
     title: "Coffee Processing Technology Boundary / 咖啡处理技术边界"
     url: "/wiki/concepts/coffeeprocessingtechnologyboundary/"
@@ -1124,6 +1127,9 @@ wiki_pages:
   - key: "ColocationDataCenter"
     title: "Colocation Data Center"
     url: "/wiki/concepts/colocationdatacenter/"
+  - key: "ColonPolypRiskStratification"
+    title: "Colon Polyp Risk Stratification"
+    url: "/wiki/concepts/colonpolypriskstratification/"
   - key: "ColonialLoyaltyRupture"
     title: "Colonial Loyalty Rupture"
     url: "/wiki/concepts/colonialloyaltyrupture/"
@@ -1133,6 +1139,9 @@ wiki_pages:
   - key: "ColorAsIdentityDisruption"
     title: "Color As Identity Disruption"
     url: "/wiki/concepts/colorasidentitydisruption/"
+  - key: "ColorectalCancerScreening"
+    title: "Colorectal Cancer Screening"
+    url: "/wiki/concepts/colorectalcancerscreening/"
   - key: "ComfortLedFootwearDemand"
     title: "Comfort-Led Footwear Demand"
     url: "/wiki/concepts/comfortledfootweardemand/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9942
+wiki_total_pages: 9943
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -536,6 +536,9 @@ wiki_pages:
   - key: "DinTaiFung"
     title: "Din Tai Fung / 鼎泰丰"
     url: "/wiki/entities/dintaifung/"
+  - key: "DingKefeng"
+    title: "Ding Kefeng / 丁克峰"
+    url: "/wiki/entities/dingkefeng/"
   - key: "DingShumiao"
     title: "Ding Shumiao / 丁书苗"
     url: "/wiki/entities/dingshumiao/"
