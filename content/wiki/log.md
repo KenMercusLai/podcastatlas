@@ -18543,6 +18543,10 @@ Ran lint. See lint-report.md for details.
 
 Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, Langflow, Goose, AnythingLLM, NVIDIA DGX Spark, AMD, ROCm, Apple Metal, NeMoClaw, Local AI Hardware Selection, and Local AI Framework Stack. Key claims: local AI is justified by privacy, governance, cost, and control only when hardware memory, framework compatibility, and agent-isolation constraints are handled explicitly.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇
+
+Added source note plus Chang Hui. Key claims: Xieyou Princess's early Wusun marriage to Wengguimi makes her an active Han-Wusun communication channel before later succession crisis; Xiongnu pressure grows from Wusun court rivalry as well as frontier strategy; Chang Hui's mission and the 72 BCE Han-Wusun strike connect Xieyou's appeal to Xiongnu weakening; and Feng Liao's later diplomatic authority begins in her language skill, Wusun marriage tie, and local reputation. Updated Xieyou Princess, Feng Liao, Wusun, and Heqin Princess Succession Entrapment. No settled contradiction found; Wengguimi, Yuanguimi, the unnamed Xiongnu princess, Wusun genealogy, casualty figures, and the full campaign sequence remain source-scoped.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19090,6 +19094,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？
 
 Added source note plus Chunyu Yan, and updated Xu Pingjun, Huo Xian, Huo Chengjun, and Huo Family Purge After Huo Guang. Key claims: Huo Xian's desire to install Huo Chengjun makes Xu Pingjun the obstacle; Chunyu Yan's palace medical access and job-seeking vulnerability make her the poisoning channel; and the later Huo-family fear arc now has a direct hidden-crime origin before Huo Guang's death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

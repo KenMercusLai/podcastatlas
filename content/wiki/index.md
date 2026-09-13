@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇](sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p.md) — 芮淇讲透资治通鉴 episode on Xieyou Princess's early Wusun marriage, her aid letter to Han, Chang Hui's Wusun mission, and Feng Liao's emergence as a Western Regions intermediary.
 - [《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？](sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa.md) — 芮淇讲透资治通鉴 short episode on Huo Xian recruiting palace physician Chunyu Yan to poison Xu Pingjun during childbirth so Huo Chengjun can become empress.
 - [《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？](sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q.md) — 芮淇讲透资治通鉴 episode on Huo Guang suppressing the investigation after Huo Xian confesses Xu Pingjun's poisoning, plus Wusun-Chang Hui's major strike against Xiongnu.
 - [携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”](sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp.md) — 罗永浩的十字路口 interview with Liang Jianzhang on Ctrip's founding, mobile recovery, hybrid work, internationalization, population policy, demographic innovation capacity, and AI travel planning.
@@ -2390,6 +2391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
 - [Ming Dynasty / 明朝](entities/MingDynasty.md) — Dynasty used by Hanji 422-2 as the institutionalized tribute-economy case around贡物 pricing,回赐, hosted reception, and tribute access conflict.
 - [Qing Dynasty / 清朝](entities/QingDynasty.md) — Dynasty used by Hanji 422-2 as the treaty-era case where inherited tribute hierarchy collides with resident-envoy diplomacy.
 - [Xianfeng Emperor / 咸丰帝](entities/XianfengEmperor.md) — Qing ruler whose resistance to resident foreign envoys grounds the wiki's tributary status diplomatic rigidity concept.

@@ -14068,6 +14068,43 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chandrama/"
     },
+    "ChangHuiWesternHan": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇 [ltmT4Y60EUSm8A_MwtHnFG5cys6p].md",
+          "key": "zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？ [lnAEv5R0uxO0XNwHqUOYl7f_tf8Q].md",
+          "key": "zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？ [lqvcsgEp3FSJTru13s694Vqkr08R].md",
+          "key": "zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/changhuiwesternhan/"
+    },
     "ChangXiLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -33347,9 +33384,9 @@
       "url": "/wiki/entities/fenglianglatehan/"
     },
     "FengLiaoWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？ [lqBLZdg7SDKZln4vXHTNNye92292].md",
@@ -33364,6 +33401,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇 [ltmT4Y60EUSm8A_MwtHnFG5cys6p].md",
+          "key": "zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p/"
         }
       ],
       "updated": "2026-09-13",
@@ -44587,9 +44631,9 @@
       "url": "/wiki/entities/henryvplay/"
     },
     "HeqinPrincessSuccessionEntrapment": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
@@ -44611,6 +44655,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇 [ltmT4Y60EUSm8A_MwtHnFG5cys6p].md",
+          "key": "zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p/"
         }
       ],
       "updated": "2026-09-13",
@@ -105676,9 +105727,9 @@
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
     "Wusun": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
@@ -105728,6 +105779,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇 [ltmT4Y60EUSm8A_MwtHnFG5cys6p].md",
+          "key": "zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p/"
         }
       ],
       "updated": "2026-09-13",
@@ -106790,9 +106848,9 @@
       "url": "/wiki/entities/xieyinmelody/"
     },
     "XieyouPrincessWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
@@ -106814,6 +106872,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇 [ltmT4Y60EUSm8A_MwtHnFG5cys6p].md",
+          "key": "zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p/"
         }
       ],
       "updated": "2026-09-13",

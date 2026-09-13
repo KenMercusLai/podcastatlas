@@ -7,16 +7,17 @@ sources:
   - zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv
   - zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292
   - zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq
+  - zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-解忧公主 / Princess Xieyou enters the wiki as a Western Han heqin figure whose Wusun marriage position becomes a frontier-succession trap. [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] presents her first as the wife of Wusun king Wengguimi, then as a coerced remarriage partner of [[NimiWusun|狂王泥靡]] after Wusun nobles bypass her son Yuanguimi. [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] adds the aftermath: she is rescued from Chigu City, suffers interrogation and humiliation by Zhang Weng, and sees the crisis settled through [[FengLiaoWesternHan|冯嫽]]'s mission rather than through her own marriage position. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] adds her old-age return to Chang'an, where [[EmperorXuanOfHan|汉宣帝]] receives her with princess-level protocol.
+解忧公主 / Princess Xieyou enters the wiki as a Western Han heqin figure whose Wusun marriage first strengthens Han-Wusun alignment and later becomes a frontier-succession trap. [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] adds the earlier layer: after Liu Xijun's death, Xieyou marries Wusun king Wengguimi, becomes a trusted communication channel to Han, and helps trigger the aid sequence that brings [[ChangHuiWesternHan|常惠]] to Wusun. [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] presents the later trap, where she becomes a coerced remarriage partner of [[NimiWusun|狂王泥靡]] after Wusun nobles bypass her son Yuanguimi. [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] adds the aftermath: she is rescued from Chigu City, suffers interrogation and humiliation by Zhang Weng, and sees the crisis settled through [[FengLiaoWesternHan|冯嫽]]'s mission rather than through her own marriage position. [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] adds her old-age return to Chang'an, where [[EmperorXuanOfHan|汉宣帝]] receives her with princess-level protocol.
 
 ## Current Profile
 
-The episode uses Xieyou's case to show how frontier marriage diplomacy can outlive the initial alliance and turn against the woman carrying it. Her earlier marriage to Wengguimi is described as affectionate, but after his death local succession rules and elite preference install Nimi instead of her son. Wusun custom then requires Xieyou to marry Nimi, even though the episode stresses a mother-son status frame and a large age and dignity shock.
+The source set now shows two phases. In the first, Xieyou's marriage to Wengguimi is politically productive: Wengguimi favors her, Han-Wusun relations draw closer, and her letter to Han becomes a key channel when Xiongnu and Cheshi pressure Wusun. In the second, that same embedded position becomes dangerous. After Wengguimi's death, local succession rules and elite preference install Nimi instead of her son. Wusun custom then requires Xieyou to marry Nimi, even though the episode stresses a mother-son status frame and a large age and dignity shock.
 
 The relationship becomes violent and political at once. Nimi is described as unstable and abusive toward Xieyou, while Wusun subjects also become disappointed in his rule. Xieyou therefore works with Han envoys and dissatisfied Wusun forces to arrange a banquet assassination. The attack wounds Nimi but fails to kill him, and the episode ends with Xieyou and the Han envoys trapped at Chigu City after Nimi's son Xishenshou surrounds them.
 
@@ -26,7 +27,7 @@ Hanji 463 supplies the later relief layer. After years in Wusun, Xieyou petition
 
 ## Key Characteristics
 
-- Western Han princess embedded in Wusun through heqin marriage.
+- Western Han princess embedded in Wusun through heqin marriage, first as alliance channel and later as succession-risk bearer.
 - Her son Yuanguimi's failed succession makes her marriage position politically weaker.
 - Subject to Wusun remarriage custom after Wengguimi's death.
 - Experiences Nimi's violence as both household abuse and political humiliation.
@@ -36,6 +37,8 @@ Hanji 463 supplies the later relief layer. After years in Wusun, Xieyou petition
 
 ## Evidence
 
+- Early heqin mission: [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] says Han Wudi sends Xieyou to Wusun after Liu Xijun's death to preserve the alliance.
+- Wengguimi marriage and communication role: [[zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p|Hanji 413-1]] says Xieyou marries Wengguimi, bears children, and writes to Han for aid when Wusun is attacked.
 - Heqin and first marriage: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says Xieyou was married to Wengguimi and initially had an affectionate relationship with him.
 - Succession exclusion: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says her son Yuanguimi does not inherit after Wengguimi's death.
 - Coerced remarriage: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says Wusun custom leads Xieyou to marry Nimi.
@@ -50,11 +53,12 @@ Hanji 463 supplies the later relief layer. After years in Wusun, Xieyou petition
 
 ## Qualifications
 
-This page is bounded to compact podcast notes. Xieyou's full biography, age chronology, children, earlier and later Wusun diplomacy, and the exact Han court authorization level for the assassination remain source-scoped. Hanji 461 resolves the Chigu City siege and Zhang Weng incident in the podcast narrative but does not settle every envoy's legal responsibility. Hanji 463 adds her return and death notice but not a full account of her final years in Chang'an.
+This page is bounded to compact podcast notes. Xieyou's full biography, age chronology, children, earlier and later Wusun diplomacy, Wengguimi and Yuanguimi's full genealogy, and the exact Han court authorization level for the assassination remain source-scoped. Hanji 413-1 gives the early alliance and aid-letter layer but does not settle the complete campaign chain from appeal to the 72 BCE strike. Hanji 461 resolves the Chigu City siege and Zhang Weng incident in the podcast narrative but does not settle every envoy's legal responsibility. Hanji 463 adds her return and death notice but not a full account of her final years in Chang'an.
 
 ## What Changed
 
-- Created the page from Hanji 460's Wusun branch.
+- Added Hanji 413-1's earlier alliance layer: Wengguimi marriage, aid letter, Chang Hui mission context, and Feng Liao's origin network.
+- Preserved Hanji 460's Wusun branch.
 - Added Hanji 461's aftermath: rescue from Chigu City, Zhang Weng's humiliation, Xieyou's secret complaint, and Xuan's execution of Zhang Weng.
 - Added Hanji 463's old-age return to Han and linked Feng Liao's later Wusun mission as continuity rather than a new marriage crisis.
 
@@ -69,3 +73,4 @@ This page is bounded to compact podcast notes. Xieyou's full biography, age chro
 - [[EmperorXuanOfHan|汉宣帝]] - Han ruler in whose reign the episode's Wusun and Xiongnu events are situated.
 - [[FengLiaoWesternHan|冯嫽]] - Wusun-network diplomat whose later return continues Han stabilization after Xieyou's return.
 - [[ZhengJiWesternHan|郑吉]] - Western Regions official whose cavalry relief ends the Chigu City siege.
+- [[ChangHuiWesternHan|常惠]] - envoy whose Wusun mission connects Xieyou's appeal with Han-Wusun military coordination.
