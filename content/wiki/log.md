@@ -18518,6 +18518,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》443｜霍去病没搞定的匈奴，赵充国怎么搞定的？
+
+Added source `zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz`; updated Zhao Chongguo, Zheng Ji, Western Regions Protectorate, and Xiongnu Succession Fragmentation with the deterrent standoff, Xiongnu succession rupture, Rizhu Wang defection, and protectorate-origin layer. No settled contradiction found; the "搞定匈奴" reading remains source-scoped strategic interpretation rather than literal elimination of later Xiongnu pressure.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》442｜高段位职场人必读！揭秘古代帝王术
 
 Added source note plus Dirty-Work Delegation Statecraft. Key claims: rulers and bosses may use morally compromised agents for dirty work, private service, operational control, and blame absorption; those agents can be valuable during a stage and disposable once accumulated resentment or legitimacy cost rises.
@@ -18783,6 +18787,10 @@ Added source note plus Erich Jarvis, Vocal Learning Evolution, Speech Motor Circ
 ## [2026-09-13] ingest | 663. Britain in the 70s: The Brexit That Never Was (Part 2)
 
 Added source note plus British EC Referendum 1975 and Fawlty Towers. Key claims: Wilson used the 1975 referendum to manage Labour's Europe split, Yes won as a status-quo choice during economic crisis rather than mass Euro-enthusiasm, and the referendum deferred rather than solved the inflation, sterling, and public-finance crisis that led toward the IMF drama.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

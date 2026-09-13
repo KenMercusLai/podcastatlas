@@ -7,14 +7,17 @@ sources:
   - zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq
   - zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9
   - zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz
+last_updated: 2026-09-13
 ---
 
 ## Overview
 
-The Western Regions Protectorate is synthesized as the Han and Xin frontier institution that made oasis-polity relations politically legible, but only when central authority could supply credible protection, command, and officials capable of local judgment. [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] uses it to explain Western Han management of [[JingjueKingdom|精绝国]], [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] adds a Xin-period failure layer through [[LiChongXinProtector|李崇]], [[WangJunXinGeneral|王骏]], [[GuoQingXinGeneral|郭清]], and [[YanqiKingdomXin|焉耆国]], and [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] adds the administrative-success layer through [[DuanHuizongWesternHan|段会宗]].
+The Western Regions Protectorate is synthesized as the Han and Xin frontier institution that made oasis-polity relations politically legible, but only when central authority could supply credible protection, command, and officials capable of local judgment. [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] adds its origin layer through [[ZhengJiWesternHan|郑吉]]'s reception of a major Xiongnu defector after [[ZhaoChongguoWesternHan|赵充国]]'s deterrent standoff. [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] uses it to explain Western Han management of [[JingjueKingdom|精绝国]], [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] adds the administrative-success layer through [[DuanHuizongWesternHan|段会宗]], and [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] adds a Xin-period failure layer through [[LiChongXinProtector|李崇]], [[WangJunXinGeneral|王骏]], [[GuoQingXinGeneral|郭清]], and [[YanqiKingdomXin|焉耆国]].
 
 ## Current Profile
+
+Hanji 443 gives the office an origin story. After Zhao Chongguo's border pressure and Xiongnu succession rupture, Rizhu Wang Xianxianshan approaches Zheng Ji, defects with his following, and is brought to Chang'an. The court then grants Zheng authority over Cheshi-western Western Regions routes and names the role duhu. The protectorate therefore appears as a way to turn military deterrence and elite defection into standing supervision over Wusun, Kangju, and the many smaller Western Regions polities.
 
 Hanji 689-3 places the protectorate at Luntai and describes it as the Western Han mechanism for governing the Western Regions. Its importance lies in the contrast between Western Han capacity to project protection and later moments when Jingjue and other oasis states were exposed to Xiongnu, Qiang, and regional-polity pressure after that protection weakened.
 
@@ -25,7 +28,7 @@ Hanji 652 adds a Xin-period negative case. Wang Mang sends Li Chong as Western R
 The Xin source then treats Li Chong as a residual institutional link. After Wang Jun's force is destroyed, Li Chong gathers remnants and holds at [[QiuciKingdom|龟兹]]; after Wang Mang's regime falls and Li Chong dies, the episode says the Western Regions break contact with ancient China. The protectorate therefore becomes a capacity test: title and mission do not suffice when regional trust, field command, central backing, and official competence fail.
 
 ## Key Characteristics
-- The protectorate is presented as the central Han office for managing Western Regions polities.
+- The protectorate is presented as the central Han office for managing Western Regions polities, with its origin layer tied to Zheng Ji's conversion of Xiongnu defection into continuous regional authority.
 - Its Luntai location anchors Han authority inside the region rather than only at the inner frontier.
 - It makes diplomatic objects and symbolic messaging legible because Han authority is active in the region.
 - Its day-to-day work involves keeping peace among many Western Regions polities before crises become visible.
@@ -34,6 +37,9 @@ The Xin source then treats Li Chong as a residual institutional link. After Wang
 - Under Xin, the office becomes fragile when coercive expedition behavior destroys local cooperation.
 
 ## Evidence
+- Origin through defection: [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] says Zheng Ji's reception of Rizhu Wang Xianxianshan leads to Zheng supervising Cheshi-western Western Regions routes as duhu.
+- Regional scope: [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] says affairs from Wusun and Kangju to the thirty-six smaller states are handled through the protectorate, with reporting, pacification, and punitive options.
+- Xiongnu displacement: [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] says Xiongnu no longer dares contend for the Western Regions in the same way and cancels its local Tongpu Duwei post.
 - Institutional role: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] says the Western Han established the Western Regions Protectorate at Luntai to govern the Western Regions.
 - Political setting: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] ties Jingjue's reliable Western Han position to Han protection and regional governance.
 - Diplomatic-symbolic frame: [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] interprets the brocade as a possible post-campaign gift or warning to Western Regions rulers.
@@ -48,11 +54,12 @@ The Xin source then treats Li Chong as a residual institutional link. After Wang
 
 ## Qualifications
 
-This page still does not synthesize every Eastern Han Western Regions episode elsewhere in the wiki. Hanji 689-3 supports the Western Han institutional and Jingjue-protection layer, Hanji 524 supports the Duan Huizong administrative-competence layer, and Hanji 652 supports the Xin mission-failure and Li Chong remnant layer. Exact bureaucratic continuity between Western Han, Xin, and Eastern Han; Duan's full office chronology; Li Chong's full office history; and the mechanics of later contact loss remain source-scoped.
+This page still does not synthesize every Eastern Han Western Regions episode elsewhere in the wiki. Hanji 443 supports the origin and Zheng Ji defection layer; Hanji 689-3 supports the Western Han institutional and Jingjue-protection layer; Hanji 524 supports the Duan Huizong administrative-competence layer; and Hanji 652 supports the Xin mission-failure and Li Chong remnant layer. Exact bureaucratic continuity between Western Han, Xin, and Eastern Han; Zheng Ji's full appointment chronology; Duan's full office chronology; Li Chong's full office history; and the mechanics of later contact loss remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 524's Duan Huizong layer, making day-to-day peacekeeping and official competence explicit.
+- Added Hanji 443's origin layer: Zheng Ji's reception of Rizhu Wang and the conversion of Xiongnu fracture into Western Regions protectorate authority.
+- Preserved Hanji 524's Duan Huizong layer, making day-to-day peacekeeping and official competence explicit.
 - Preserved Hanji 652 as the Xin-period failure layer in which protectorate title survives but credible regional control collapses.
 
 ## Relationships
@@ -60,6 +67,7 @@ This page still does not synthesize every Eastern Han Western Regions episode el
 - [[FiveStarsOutOfTheEastBrocade]] - possible diplomatic object made legible by Han regional authority.
 - [[NiyaSite]] - archaeological site preserving evidence from the protectorate's Western Regions world.
 - [[ZhaoChongguoWesternHan]] - military actor whose campaign context informs the brocade's expanded phrase.
+- [[ZhengJiWesternHan|郑吉]] - first protectorate figure in Hanji 443's defection-and-institutionalization sequence.
 - [[EmperorXuanOfHan]] - ruler whose reign supplies the omen-command setting.
 - [[CapacityBoundFrontierCommitment]] - concept explaining why later restoration of protectorate-style management can fail.
 - [[StrategicFrontierAbandonment]] - related pattern where withdrawal from frontier commitments creates vulnerability.
