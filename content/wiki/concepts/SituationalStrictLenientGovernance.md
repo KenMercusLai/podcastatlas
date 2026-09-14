@@ -4,6 +4,7 @@ type: concept
 tags: [governance, statecraft, late-han, law, political-thought]
 sources:
   - zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b
+  - zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0
 last_updated: 2026-08-28
 knowledge_schema: synthesis-v1
 ---
@@ -18,6 +19,8 @@ The concept enters the wiki through [[zizhi-tongjian-hanji-837-weiren-chushi-wei
 
 The current synthesis has two sides. When order is decayed and powerful actors evade consequences, strict enforcement may function as medicine that restores accountability. When society is peaceful or already overburdened by harsh statutes, moral teaching and lenient repair may be the better nourishment. Sima Guang's qualification is central: Han law was already severe, so the late-Han failure was not simply insufficient cruelty but weak enforcement against privileged people and a ruler class unable to correct them.
 
+A Western Han succession example shows the same principle from the opposite angle. [[LiuJuCrownPrinceWesternHan|刘据]]'s leniency is not framed as inherently wrong: [[HanWudi|汉武帝]] reportedly sees him as a humane stabilizer for the post-expansion order. The risk comes from mismatch and audience: severe-law officials resent the crown prince's lighter punishments, while [[EmpressWeiZifuWesternHan|卫子夫]] fears that mercy against Wudi's harsh administrative climate will be read as disobedience. The source therefore reinforces that strictness and leniency are political tools whose effect depends on institutional moment, ruler judgment, and surrounding incentives.
+
 ## Key Claims
 
 - Strictness and leniency are not permanent moral identities; they are tools whose value depends on condition and target.
@@ -26,6 +29,7 @@ The current synthesis has two sides. When order is decayed and powerful actors e
 - Leniency and moral teaching remain necessary where order is stable or where excessive punishment has become part of the problem.
 - Mechanical imitation of ancient models is dangerous when it ignores time, person, institutional capacity, and enforcement reality.
 - The concept does not authorize domination: Sima Guang's qualification keeps severity subordinate to proportional, temporary correction.
+- Leniency can be a valid succession-stabilizing style, but it becomes politically exposed when harsh-law officials control the evaluation environment.
 
 ## Evidence
 
@@ -34,14 +38,16 @@ The current synthesis has two sides. When order is decayed and powerful actors e
 - Medicine and nourishment: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] compares punishment and law to strong medicine for disorder and moral teaching to nourishing food for peace.
 - Enforcement qualification: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] includes Sima Guang's warning that late-Han legal harshness already existed, while enforcement against powerful actors was weak.
 - Balance rule: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] closes by saying laxity should be corrected with strictness and oppressive strictness should be repaired with leniency.
+- Succession-stabilizing leniency: [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Han Wudi sees Liu Ju's humane steadiness as suitable for settling the realm after Wudi's own harsher expansionary work.
+- Evaluation mismatch: [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Liu Ju's lighter case handling pleases commoners but angers severe-law officials, making leniency a court-politics liability.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one podcast source's treatment of Cui Shi and Sima Guang. It should not be used as a general claim that harsh punishment is good; the same source says Han law was already severe and that the relevant failure was elite impunity and weak enforcement. It also should not collapse into generic moderation, because the episode's point is diagnostic fit, not always choosing a middle quantity of punishment.
+The concept is grounded in two podcast sources with different emphases. Hanji 837 treats Cui Shi and Sima Guang as a political-theory frame; Hanji 384-2 adds a Liu Ju example but does not prove that leniency alone would have solved late-Wudi succession politics. The concept should not be used as a general claim that harsh punishment is good; Hanji 837 says Han law was already severe and that the relevant failure was elite impunity and weak enforcement. It also should not collapse into generic moderation, because the point is diagnostic fit, not always choosing a middle quantity of punishment.
 
 ## What Changed
 
-- Created the concept from Hanji 837's Zhenglun discussion, medicine-and-food metaphor, and Sima Guang qualification.
+- Added Hanji 384-2's Liu Ju branch, where leniency is potentially stabilizing but politically exposed inside a harsh-law evaluation environment.
 
 ## Related Concepts
 
@@ -49,5 +55,6 @@ The concept is currently grounded in one podcast source's treatment of Cui Shi a
 - [[BoundarylessKindnessTrap|无边界善良陷阱]] - personal self-governance analogue where softness and strictness require boundary and proportion.
 - [[LegalistRulerTechnique|法家君术]] - adjacent strict-enforcement tradition that this concept treats as conditional rather than absolute.
 - [[ConfucianIdealGovernance|儒家理想治理]] - moral-order counterpart reserved for circumstances where teaching and leniency can work.
+- [[LiuJuCrownPrinceWesternHan|卫太子刘据]] - Western Han heir whose lenient style becomes a succession and court-feedback exposure.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - disorder condition in which silence, failed orders, and elite impunity make correction harder.
 - [[MeritBasedRewardPunishment|因功赏罚]] - enforcement-credibility branch where rewards and punishments must remain matched to conduct.

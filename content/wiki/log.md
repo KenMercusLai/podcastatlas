@@ -19316,6 +19316,10 @@ Added source `zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-ren
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》384-2｜有多善良就有多惨？揭秘被嫌弃的太子刘据
+
+Added source `zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0`; updated `LiuJuCrownPrinceWesternHan`, `EmpressWeiZifuWesternHan`, `SuWenWesternHan`, `WuguIncidentWesternHan`, `SlanderSuspicionFeedbackCollapse`, and `SituationalStrictLenientGovernance` with Liu Ju's recognized-heir and delegated-governance baseline, strict-versus-lenient friction, Wei Zifu's pre-crisis anxiety, and Su Wen/Chang Rong's pre-Wugu slander channel. No settled contradiction found; Chang Rong, Wang Bi, complete palace-office mechanics, and primary-source historiographical debate remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》385-2｜“巫蛊之祸”最大的幕后黑手，居然是他！
 
 Ingested source note and updated Wugu-related synthesis pages for Jiang Chong's manufactured-evidence and palace-search stage.
@@ -19703,6 +19707,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
