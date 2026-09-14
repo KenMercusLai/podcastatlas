@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！
+
+Added source note for Hanji 388-2. Key claims: Gongsun Yong and Hu Qian's failed plot weaponizes fear of绣衣使者 authority but is stopped by local verification;绣衣使者 function as emperor-direct special investigators whose prestige can be both useful and dangerous; Tian Qianqiu's memorial gives Han Wudi a path to acknowledge Liu Ju's grievance after Wugu review, leading to punishment of Jiang Chong and Su Wen and mourning-building remorse. Added Gongsun Yong, Tian Guangming, Wei Buhai, and Xiuyi Envoy Imperial Surveillance; updated Han Wudi, Liu Ju, Wugu Incident, Jiang Chong, Su Wen, and Tian Qianqiu. No settled contradiction found.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！
 
 Added source note for Hanji 388-4. Key claims: Sichuan functions as a compact case of war, famine, epidemic, and population devastation; Ming imperial-clan stipends show hereditary royal-household growth as a fiscal burden; the episode's China-Europe comparison links unified imperial war scale with the social openness of emperor-claim imagination. Added Zhang Xianzhong, Jingcheng Wang, Sichuan War Devastation, Imperial Clan Fiscal Burden, Unified Empire War Scale, and Emperor Dream Claim Openness; updated Sichuan and Ming Dynasty. No settled contradictions found.
@@ -19615,6 +19619,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

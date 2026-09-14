@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2530
+topic_total_pages: 2531
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4108,6 +4108,9 @@ topic_concepts:
   - key: "RulerScalePathDependence"
     title: "统治者尺度错配型路径依赖 / Ruler-Scale Path Dependence"
     url: "/wiki/concepts/rulerscalepathdependence/"
+  - key: "XiuyiEnvoyImperialSurveillance"
+    title: "绣衣使者皇权监察 / Xiuyi Envoy Imperial Surveillance"
+    url: "/wiki/concepts/xiuyienvoyimperialsurveillance/"
   - key: "SuccessionAuthorityConsolidation"
     title: "继位权威整合 / Succession Authority Consolidation"
     url: "/wiki/concepts/successionauthorityconsolidation/"

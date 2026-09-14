@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！](sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73.md) — 芮淇讲透资治通鉴 episode on the Gongsun Yong imposture-rebellion,绣衣使者 imperial surveillance, and Han Wudi's remorse after the Wugu case against Crown Prince Liu Ju.
 - [《资治通鉴·汉纪》388-3｜中国古代王朝更迭时，人口死亡有多夸张？](sources/zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g.md) — 芮淇讲透资治通鉴 short episode on dynastic-transition population loss, Han Wudi's costly wars, and Ge Jianxiong-style caution around reading household registers as death totals.
 - [《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！](sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu.md) — 芮淇讲透资治通鉴 short episode on Sichuan war devastation, Zhang Xianzhong, Ming imperial-clan stipend burdens, and the "emperor dream" explanation for large-scale dynastic war.
 - [《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？](sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50.md) — 芮淇讲透资治通鉴 episode on Han Wudi's late remorse, dismissal of ineffective fangshi, Tian Qianqiu's sudden chancellorship, and the prelude to the Luntai policy turn.
@@ -2459,6 +2460,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [公孙勇 / Gongsun Yong (Western Han)](entities/GongsunYongWesternHan.md) — Failed rebel in Hanji 388-2 who tries to exploit绣衣使者 prestige.
+- [田广明 / Tian Guangming (Western Han)](entities/TianGuangmingWesternHan.md) — Local official in Hanji 388-2 who detects Hu Qian's false official identity.
+- [魏不害 / Wei Buhai (Western Han)](entities/WeiBuhaiWesternHan.md) — Small local official in Hanji 388-2 who exposes Gongsun Yong's绣衣 imposture.
 - [葛剑雄 / Ge Jianxiong](entities/GeJianxiong.md) — historian cited for population-history correction of ancient Chinese demographic records.
 - [《中国人口史》 / Zhongguo Renkoushi](entities/ZhongguoRenkoushi.md) — population-history work cited for correcting raw household-register figures.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
@@ -12546,6 +12550,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [绣衣使者皇权监察 / Xiuyi Envoy Imperial Surveillance](concepts/XiuyiEnvoyImperialSurveillance.md) — Hanji 388-2 concept for emperor-direct special investigators, coercive prestige, and the risk of special authority in local imposture and Wugu politics.
 - [户口数字解读谨慎 / Historical Population Registration Caution](concepts/HistoricalPopulationRegistrationCaution.md) — method for reading official household and population records as administrative evidence rather than direct mortality counts.
 - [王朝更替人口损耗 / Dynastic Population Loss](concepts/DynasticPopulationLoss.md) — cross-dynastic frame for war, regime change, displacement, and registration collapse as mass civilian demographic cost.
 - [四川战乱人口毁伤 / Sichuan War Devastation](concepts/SichuanWarDevastation.md) — Hanji 388-4 frame for Sichuan as a repeated war, famine, epidemic, and population-collapse case.

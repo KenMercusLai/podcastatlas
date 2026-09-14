@@ -41718,6 +41718,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/gongsunxulatehan/"
     },
+    "GongsunYongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/gongsunyongwesternhan/"
+    },
     "GongsunZan": {
       "episode_count": 14,
       "show_count": 1,
@@ -44513,9 +44529,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 2,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -44621,6 +44637,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
         }
       ],
       "updated": "2026-09-14",
@@ -54135,9 +54158,9 @@
       "url": "/wiki/entities/jianlangeasternhan/"
     },
     "JiangChongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人 [lhsva8ZJ7N7MfY6U4VYFHRWMbwZG].md",
@@ -54145,6 +54168,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
         }
       ],
       "updated": "2026-09-14",
@@ -61822,9 +61852,9 @@
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuCrownPrinceWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -61839,6 +61869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
         }
       ],
       "updated": "2026-09-14",
@@ -96735,9 +96772,9 @@
       "url": "/wiki/entities/sumaoeasternhan/"
     },
     "SuWenWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人 [lhsva8ZJ7N7MfY6U4VYFHRWMbwZG].md",
@@ -96745,6 +96782,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
         }
       ],
       "updated": "2026-09-14",
@@ -101309,6 +101353,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/tiangoushiyueculturalresponse/"
     },
+    "TianGuangmingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/tianguangmingwesternhan/"
+    },
     "TianKaiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -101379,9 +101439,9 @@
       "url": "/wiki/entities/tianminglatehan/"
     },
     "TianQianqiuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？ [liKbkdewndPP8vzRiDM6iYmlCB50].md",
@@ -101410,6 +101470,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
         }
       ],
       "updated": "2026-09-14",
@@ -108191,6 +108258,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/weibiaoeasternhan/"
     },
+    "WeiBuhaiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/weibuhaiwesternhan/"
+    },
     "WeiGuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -110441,9 +110524,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -110465,6 +110548,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
         }
       ],
       "updated": "2026-09-14",
@@ -112572,6 +112662,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xiulichanyu/"
+    },
+    "XiuyiEnvoyImperialSurveillance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
+          "key": "zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/xiuyienvoyimperialsurveillance/"
     },
     "XiziRanLateHan": {
       "episode_count": 1,

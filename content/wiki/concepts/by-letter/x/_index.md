@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 7411
+wiki_total_pages: 7412
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "XipingStoneClassics"
     title: "熹平石经 / Xiping Stone Classics"
     url: "/wiki/concepts/xipingstoneclassics/"
+  - key: "XiuyiEnvoyImperialSurveillance"
+    title: "绣衣使者皇权监察 / Xiuyi Envoy Imperial Surveillance"
+    url: "/wiki/concepts/xiuyienvoyimperialsurveillance/"
   - key: "XingshiqingStrategicAssessment"
     title: "行势情战略评估 / Xingshiqing Strategic Assessment"
     url: "/wiki/concepts/xingshiqingstrategicassessment/"
