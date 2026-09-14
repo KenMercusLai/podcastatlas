@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课](sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z.md) — 这病说来话长 episode with 汪惠英 on allergy as immune imbalance, spring triggers, dust mites, pets, medication boundaries, pregnancy, biologics, and chronic management.
 - [《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀](sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's command-legitimacy collapse, Chang'an fighting, Tian Ren's leniency, Bao Shengzhi's suicide, and Empress Wei Zifu's suicide after Liu Ju's defeat.
 - [《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！](sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's post-Wugu flight, Linghu Mao's risky memorial, Han Wudi's partial awakening without public pardon, and the Hu County exposure before Hanji 387-2.
 - [《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！](sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's surrounded-flight suicide, two imperial grandsons' deaths, Sima Guang's Bowang guest-education critique, and Liu Bingyi's survival through Bing Ji.
@@ -2465,6 +2466,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [汪惠英 / Wang Huiying](entities/WangHuiyingAllergyDoctor.md) — Source-scoped allergy and clinical immunology physician guest explaining immune imbalance, triggers, medication boundaries, and chronic allergy management.
+- [浙江大学医学院附属儿童医院 / Zhejiang University Children's Hospital](entities/ZhejiangUniversityChildrensHospital.md) — Hospital affiliation named for 汪惠英 in the VOL.201 allergy episode.
 - [令胡茂 / Linghu Mao (Western Han)](entities/LinghuMaoWesternHan.md) — Low-ranking elder whose risky memorial reframes Liu Ju's Wugu flight as fear-driven self-protection.
 - [卫子夫 / Empress Wei Zifu (Western Han)](entities/EmpressWeiZifuWesternHan.md) — Western Han empress whose suicide marks the Wugu household catastrophe before Liu Ju's final flight.
 - [公孙勇 / Gongsun Yong (Western Han)](entities/GongsunYongWesternHan.md) — Failed rebel in Hanji 388-2 who tries to exploit绣衣使者 prestige.
@@ -12569,6 +12572,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Allergy Immune Imbalance / 过敏免疫失衡](concepts/AllergyImmuneImbalance.md) — Clinical frame that allergy is failed immune tolerance rather than simply strong immunity.
+- [Allergy Exposure Environment Management / 过敏暴露环境管理](concepts/AllergyExposureEnvironmentManagement.md) — Practical allergy exposure-control frame for cities, humidity, dust mites, pets, textiles, ventilation, and household cleaning.
+- [Allergy Medication Boundary / 过敏用药边界](concepts/AllergyMedicationBoundary.md) — Medication-literacy boundary for antihistamines, nasal steroids, pregnancy treatment, eye allergy, and biologics.
+- [Allergy Chronic Management / 过敏慢病管理](concepts/AllergyChronicManagement.md) — Long-term management frame for recurrent allergy, asthma, dermatitis, pregnancy cases, and quality-of-life burden.
 - [绣衣使者皇权监察 / Xiuyi Envoy Imperial Surveillance](concepts/XiuyiEnvoyImperialSurveillance.md) — Hanji 388-2 concept for emperor-direct special investigators, coercive prestige, and the risk of special authority in local imposture and Wugu politics.
 - [户口数字解读谨慎 / Historical Population Registration Caution](concepts/HistoricalPopulationRegistrationCaution.md) — method for reading official household and population records as administrative evidence rather than direct mortality counts.
 - [王朝更替人口损耗 / Dynastic Population Loss](concepts/DynasticPopulationLoss.md) — cross-dynastic frame for war, regime change, displacement, and registration collapse as mass civilian demographic cost.

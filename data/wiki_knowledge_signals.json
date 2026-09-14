@@ -5539,6 +5539,93 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/allennewell/"
     },
+    "AllergyAsImmuneResponse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器… [728113059].md",
+          "key": "97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059",
+          "show": "蜜獾吃书",
+          "title": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器…",
+          "url": "/wiki/sources/97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059/"
+        },
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/allergyasimmuneresponse/"
+    },
+    "AllergyChronicManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/allergychronicmanagement/"
+    },
+    "AllergyExposureEnvironmentManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/allergyexposureenvironmentmanagement/"
+    },
+    "AllergyImmuneImbalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/allergyimmuneimbalance/"
+    },
+    "AllergyMedicationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/allergymedicationboundary/"
+    },
     "AlphaFold": {
       "episode_count": 4,
       "show_count": 4,
@@ -106634,6 +106721,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/wanghuanlatehan/"
     },
+    "WangHuiyingAllergyDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/wanghuiyingallergydoctor/"
+    },
     "WangHuoXinPrince": {
       "episode_count": 1,
       "show_count": 1,
@@ -119960,6 +120063,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
+    },
+    "ZhejiangUniversityChildrensHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
+          "key": "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z",
+          "show": "这病说来话长",
+          "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+          "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/zhejianguniversitychildrenshospital/"
     },
     "ZhejiangUniversitySecondAffiliatedHospital": {
       "episode_count": 1,

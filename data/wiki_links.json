@@ -4731,6 +4731,22 @@
     "title": "Allergy As Immune Response",
     "url": "/wiki/concepts/allergyasimmuneresponse/"
   },
+  "AllergyChronicManagement": {
+    "title": "Allergy Chronic Management / 过敏慢病管理",
+    "url": "/wiki/concepts/allergychronicmanagement/"
+  },
+  "AllergyExposureEnvironmentManagement": {
+    "title": "Allergy Exposure Environment Management / 过敏暴露环境管理",
+    "url": "/wiki/concepts/allergyexposureenvironmentmanagement/"
+  },
+  "AllergyImmuneImbalance": {
+    "title": "Allergy Immune Imbalance / 过敏免疫失衡",
+    "url": "/wiki/concepts/allergyimmuneimbalance/"
+  },
+  "AllergyMedicationBoundary": {
+    "title": "Allergy Medication Boundary / 过敏用药边界",
+    "url": "/wiki/concepts/allergymedicationboundary/"
+  },
   "AllergySourceControl": {
     "title": "Allergy Source Control",
     "url": "/wiki/concepts/allergysourcecontrol/"
@@ -64071,6 +64087,10 @@
     "title": "王黄 / Wang Huang",
     "url": "/wiki/entities/wanghuang/"
   },
+  "WangHuiyingAllergyDoctor": {
+    "title": "汪惠英 / Wang Huiying",
+    "url": "/wiki/entities/wanghuiyingallergydoctor/"
+  },
   "WangHuoXinPrince": {
     "title": "Wang Huo / 王获 (Xin prince)",
     "url": "/wiki/entities/wanghuoxinprince/"
@@ -70443,6 +70463,10 @@
     "title": "Zhejiang University / 浙江大学",
     "url": "/wiki/entities/zhejianguniversity/"
   },
+  "ZhejiangUniversityChildrensHospital": {
+    "title": "浙江大学医学院附属儿童医院 / Zhejiang University Children's Hospital",
+    "url": "/wiki/entities/zhejianguniversitychildrenshospital/"
+  },
   "ZhejiangUniversitySecondAffiliatedHospital": {
     "title": "Zhejiang University School of Medicine Second Affiliated Hospital / 浙江大学医学院附属第二医院",
     "url": "/wiki/entities/zhejianguniversitysecondaffiliatedhospital/"
@@ -75290,6 +75314,10 @@
   "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1": {
     "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
     "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+  },
+  "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z": {
+    "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
+    "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
   },
   "vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c": {
     "title": "VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词",

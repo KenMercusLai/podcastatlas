@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7416
+wiki_total_pages: 7420
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1586,6 +1586,18 @@ wiki_pages:
   - key: "AllergyAsImmuneResponse"
     title: "Allergy As Immune Response"
     url: "/wiki/concepts/allergyasimmuneresponse/"
+  - key: "AllergyChronicManagement"
+    title: "Allergy Chronic Management / 过敏慢病管理"
+    url: "/wiki/concepts/allergychronicmanagement/"
+  - key: "AllergyExposureEnvironmentManagement"
+    title: "Allergy Exposure Environment Management / 过敏暴露环境管理"
+    url: "/wiki/concepts/allergyexposureenvironmentmanagement/"
+  - key: "AllergyImmuneImbalance"
+    title: "Allergy Immune Imbalance / 过敏免疫失衡"
+    url: "/wiki/concepts/allergyimmuneimbalance/"
+  - key: "AllergyMedicationBoundary"
+    title: "Allergy Medication Boundary / 过敏用药边界"
+    url: "/wiki/concepts/allergymedicationboundary/"
   - key: "AllergySourceControl"
     title: "Allergy Source Control"
     url: "/wiki/concepts/allergysourcecontrol/"

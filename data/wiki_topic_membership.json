@@ -7373,6 +7373,34 @@
       "url": "/topics/science/"
     }
   ],
+  "AllergyChronicManagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "AllergyExposureEnvironmentManagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "AllergyImmuneImbalance": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "AllergyMedicationBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AlliedEconomicBlocAgainstChina": [
     {
       "key": "politics",

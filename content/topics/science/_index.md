@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1096
+topic_total_pages: 1100
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -85,6 +85,18 @@ topic_concepts:
   - key: "AllergyAsImmuneResponse"
     title: "Allergy As Immune Response"
     url: "/wiki/concepts/allergyasimmuneresponse/"
+  - key: "AllergyChronicManagement"
+    title: "Allergy Chronic Management / 过敏慢病管理"
+    url: "/wiki/concepts/allergychronicmanagement/"
+  - key: "AllergyExposureEnvironmentManagement"
+    title: "Allergy Exposure Environment Management / 过敏暴露环境管理"
+    url: "/wiki/concepts/allergyexposureenvironmentmanagement/"
+  - key: "AllergyImmuneImbalance"
+    title: "Allergy Immune Imbalance / 过敏免疫失衡"
+    url: "/wiki/concepts/allergyimmuneimbalance/"
+  - key: "AllergyMedicationBoundary"
+    title: "Allergy Medication Boundary / 过敏用药边界"
+    url: "/wiki/concepts/allergymedicationboundary/"
   - key: "AmygdalaFearDissociation"
     title: "Amygdala Fear Dissociation"
     url: "/wiki/concepts/amygdalafeardissociation/"

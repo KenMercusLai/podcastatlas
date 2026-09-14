@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10099
+wiki_total_pages: 10101
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1049,6 +1049,9 @@ wiki_pages:
   - key: "WinsEntertainment"
     title: "永盛 / Win's Entertainment"
     url: "/wiki/entities/winsentertainment/"
+  - key: "WangHuiyingAllergyDoctor"
+    title: "汪惠英 / Wang Huiying"
+    url: "/wiki/entities/wanghuiyingallergydoctor/"
   - key: "WoteShoes"
     title: "沃特鞋企 / Wote Shoes"
     url: "/wiki/entities/woteshoes/"

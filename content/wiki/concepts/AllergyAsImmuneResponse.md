@@ -2,27 +2,48 @@
 title: "Allergy As Immune Response"
 type: concept
 tags: [medicine, immunology, allergy, public-health]
-sources: [97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]
-last_updated: 2026-07-18
+sources:
+  - 97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059
+  - vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z
+last_updated: 2026-09-14
+knowledge_schema: synthesis-v1
 ---
 
 # Allergy As Immune Response
 
-Allergy as immune response is [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]]'s medical boundary for interpreting hay fever. The episode argues that pollen allergy is not simply weak constitution, moral fragility, or a defect to be erased; it is an immune reaction to environmental substances that become harmful because of the body's response.
+## Definition
+Allergy as immune response is the medical-literacy frame that allergic disease comes from the body's response to environmental substances, not from moral fragility, weak character, or ordinary irritability.
 
-This frame matters because it changes the policy imagination. If allergy is immune response, then the problem is not solved only by killing plants, sterilizing environments, or shaming symptoms. It requires medical relief, exposure management, source-control judgment, and humility about what eradication might do to immune-system tradeoffs.
+## Current Synthesis
+The wiki now has two complementary allergy frames. [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] treats hay fever historically, showing how pollen allergy became legible through plants, class, medicine, urbanization, domestic technology, and public-environment management. [[vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z]] makes the clinical version explicit: allergy is not strong immunity, but [[AllergyImmuneImbalance|immune imbalance]] and failed tolerance toward otherwise harmless substances.
+
+Together, the sources argue against both dismissal and simple eradication. Allergy can require symptom relief, exposure management, environmental source control, and chronic medical management, but the response must respect immune-system tradeoffs, ecological tradeoffs, individual triggers, medication boundaries, and quality-of-life burden.
 
 ## Key Claims
-- Allergy should not be reduced to weakness or "矫情".
-- Harmless external substances can become harmful through an individual's immune reaction.
-- Historical treatments failed partly because physicians treated hay fever as nerves, infection, or vague irritation before immune mechanisms were understood.
-- Desensitization and allergen-specific treatment are difficult because triggers vary across people and plant species.
-- Attempts to eliminate all allergic disease need caution because immune response is also protective.
+- Allergy should not be reduced to weakness, moral fragility, "矫情", or simple overreaction.
+- Harmless external substances can become harmful through an individual's immune response and loss of tolerance.
+- Historical hay-fever recognition required linking symptoms, seasonality, pollen, exposure, and immune interpretation.
+- Clinical management must distinguish immune imbalance, environmental exposure, medication indication, and chronic disease burden.
+- Source-control and avoidance strategies matter, but they can fail or backfire when ecology, household exposure, or new triggers are ignored.
+- Attempts to eliminate all allergic disease need caution because immune responses also have protective and regulatory functions.
 
-## Connections
-- [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] - source episode.
-- [[HayFeverEnvironmentalHistory]] - disease-history context.
-- [[AllergySourceControl]] - environmental management branch.
-- [[MedicalRiskManagement]] - treatment uncertainty and professional-boundary frame.
-- [[GenderedMedicalization]] - adjacent caution about converting bodily suffering into dismissive social labels.
-- [[AirPurifier]] - avoidance and exposure-control infrastructure.
+## Evidence
+- Historical immune interpretation: [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] shows hay fever moving from vague seasonal suffering and class-coded illness toward pollen exposure and immune response.
+- Clinical immune-imbalance correction: [[vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z]] has [[WangHuiyingAllergyDoctor|汪惠英]] explain that allergy is not immune strength but loss of immune balance and tolerance.
+- Management implications: [[97-huafen-zheng-yu-renlei-cong-niandeteren-aqiu-dao-kongqi-jinghuaqi-728113059]] emphasizes environmental management, air purification, and ecological caution, while [[vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z]] adds medication, pregnancy, pets, dust mites, asthma, dermatitis, stress, sleep, and long-term care.
+
+## Counterevidence & Qualifications
+The two sources are public educational podcast notes, not full clinical guidelines. They do not specify diagnostic criteria, dosing, immunotherapy protocols, biologic indications, anaphylaxis response, or quantified exposure-control effects. Claims about hygiene, COVID-era infection, hormones, stress, and lifestyle remain source-scoped contributors rather than universal causes.
+
+## What Changed
+- VOL.201 adds a contemporary clinical explanation of allergy as immune imbalance rather than only a historical pollen-allergy interpretation.
+- The page now separates environmental source control from medication and chronic-management boundaries.
+
+## Related Concepts
+- [[AllergyImmuneImbalance]] - clinical mechanism sharpening the immune-response frame.
+- [[HayFeverEnvironmentalHistory]] - environmental-history context for pollen allergy.
+- [[AllergySourceControl]] - public-environment management branch.
+- [[AllergyExposureEnvironmentManagement]] - household, city, pet, humidity, and dust-mite exposure branch.
+- [[AllergyMedicationBoundary]] - treatment and medication-risk boundary connected to immune-response management.
+- [[AllergyChronicManagement]] - long-term care frame for recurrent or severe allergic disease.
+- [[MedicalRiskManagement]] - broader treatment uncertainty and professional-boundary frame.

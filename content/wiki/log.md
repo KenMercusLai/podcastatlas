@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课
+
+Added source `vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z`; created `WangHuiyingAllergyDoctor`, `ZhejiangUniversityChildrensHospital`, `AllergyImmuneImbalance`, `AllergyExposureEnvironmentManagement`, `AllergyMedicationBoundary`, and `AllergyChronicManagement`; updated `AllergyAsImmuneResponse` with the episode's clinical immune-imbalance, trigger ecology, medication, pregnancy, biologic-treatment, and chronic-management boundaries. No settled contradiction found; treatment details remain source-scoped public medical education.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！
 
 Added source `zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku`; created `LinghuMaoWesternHan` and `EmpressWeiZifuWesternHan`; updated `LiuJuCrownPrinceWesternHan`, `WuguIncidentWesternHan`, overview, and index with Liu Ju's post-Wugu flight, court silence, Linghu Mao's risky memorial, Han Wudi's partial awakening without public pardon, and the Hu County exposure before Hanji 387-2. No settled contradiction found; Linghu Mao's memorial text, Hu County arrest mechanics, the complete punishment list, and full Wei Zifu biography remain source-scoped.
@@ -19675,6 +19679,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

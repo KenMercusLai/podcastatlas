@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10099
+wiki_total_pages: 10101
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "ZhuozeBattle"
     title: "浊泽之战 / Battle of Zhuoze"
     url: "/wiki/entities/zhuozebattle/"
+  - key: "ZhejiangUniversityChildrensHospital"
+    title: "浙江大学医学院附属儿童医院 / Zhejiang University Children's Hospital"
+    url: "/wiki/entities/zhejianguniversitychildrenshospital/"
   - key: "ZhuoChi"
     title: "淖齿 / 卓齿 / Zhuo Chi"
     url: "/wiki/entities/zhuochi/"
