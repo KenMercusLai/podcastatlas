@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10115
+wiki_total_pages: 10117
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "WuQiongLateHan"
     title: "伍琼 / Wu Qiong (late Han)"
     url: "/wiki/entities/wuqionglatehan/"
+  - key: "WeiKangWesternHan"
+    title: "卫伉 / Wei Kang (Western Han)"
+    url: "/wiki/entities/weikangwesternhan/"
   - key: "WeyYuanjun"
     title: "卫元君 / Lord Yuan of Wey"
     url: "/wiki/entities/weyyuanjun/"

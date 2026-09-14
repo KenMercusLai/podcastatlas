@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！](sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z.md) — 芮淇讲透资治通鉴 short episode on the early Wugu purge of Gongsun He, Wei Kang, and Wei-family support around Crown Prince Liu Ju before the later open crisis.
 - [658. Dawn of the Samurai: The Shadow of the Sword (Part 1)](sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498.md) — The Rest Is History episode on samurai origins, Bushido's modern reinvention, Heian provincial warrior formation, Minamoto/Taira surname prestige, and Taira no Masakado's rebellion.
 - [Home Depot](sources/home-depot-1.md) — Acquired episode on Home Depot's founding, warehouse home-improvement model, supplier financing, service culture, Nardelli/Blake leadership contrast, logistics moat, pro-contractor strategy, and long-term compounding.
 - [Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner](sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733.md) — Huberman Lab episode with Dacher Keltner on awe as measurable emotion, awe walks, moral beauty, embodied collective awe, embarrassment, teasing, psychedelics, community life, and digital-design limits.
@@ -2470,6 +2471,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — Western Han chancellor whose Wugu-case destruction removes a Wei-family support pillar around Crown Prince Liu Ju.
+- [卫伉 / Wei Kang (Western Han)](entities/WeiKangWesternHan.md) — Wei Qing's son and Changping marquis, treated by Hanji 384-1 as a military-capable support casualty in the Wugu prelude.
 - [Ghost of Tsushima](entities/GhostOfTsushima.md) — Video game used by The Rest Is History as a modern gateway into samurai image, honor, and myth-history tension.
 - [Taira no Masakado](entities/TairaNoMasakado.md) — 10th-century Kanto rebel used as an early warning case for imperial-descended provincial warrior power.
 - [Dacher Keltner](entities/DacherKeltner.md) — UC Berkeley emotion scientist and Greater Good Science Center co-director explaining awe, embarrassment, teasing, moral beauty, community, psychedelics, and embodied connection in the Huberman Lab source.

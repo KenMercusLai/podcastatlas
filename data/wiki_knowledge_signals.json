@@ -42180,6 +42180,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gongfuxiong/"
     },
+    "GongsunHeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
+          "key": "zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/gongsunhewesternhan/"
+    },
     "GongsunHongLangyaWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -45171,9 +45187,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 2,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -45286,6 +45302,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
+          "key": "zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
         }
       ],
       "updated": "2026-09-14",
@@ -62643,9 +62666,9 @@
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuCrownPrinceWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -62688,6 +62711,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
+          "key": "zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
         }
       ],
       "updated": "2026-09-14",
@@ -109510,6 +109540,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/weijilatehan/"
     },
+    "WeiKangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
+          "key": "zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/weikangwesternhan/"
+    },
     "WeiLvXiongnu": {
       "episode_count": 1,
       "show_count": 1,
@@ -109592,9 +109638,9 @@
       "url": "/wiki/entities/weiqiansanlian/"
     },
     "WeiQingHanGeneral": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？ [lpoopYY7KAEfeEwej1wLF5gE2T17].md",
@@ -109602,9 +109648,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1065丨职场生存的顶级哲学：学荀彧、贾诩or郭子仪？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1065-zhichang-shengcun-de-dingji-zhexue-xue-xunyu-jiaxu-or-guoziyi-lpoopyy7kaefeewej1wlf5ge2t17/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
+          "key": "zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/weiqinghangeneral/"
     },
     "WeiTengLateHan": {
@@ -111712,9 +111765,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -111764,6 +111817,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀",
           "url": "/wiki/sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
+          "key": "zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
         }
       ],
       "updated": "2026-09-14",
