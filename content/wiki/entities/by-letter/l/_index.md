@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10075
+wiki_total_pages: 10078
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "LiZuoChe"
     title: "李左车 / Li Zuoche"
     url: "/wiki/entities/lizuoche/"
+  - key: "LiGuangliWesternHan"
+    title: "李广利 / Li Guangli (Western Han)"
+    url: "/wiki/entities/liguangliwesternhan/"
   - key: "LiYanshouWesternHan"
     title: "李延寿 / Li Yanshou (Western Han)"
     url: "/wiki/entities/liyanshouwesternhan/"

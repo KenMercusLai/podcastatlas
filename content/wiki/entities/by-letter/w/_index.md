@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10075
+wiki_total_pages: 10078
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1499,6 +1499,9 @@ wiki_pages:
   - key: "WeiZhengTang"
     title: "魏征 / Wei Zheng (Tang)"
     url: "/wiki/entities/weizhengtang/"
+  - key: "WeiLvXiongnu"
+    title: "魏律 / Wei Lü (Xiongnu-aligned)"
+    url: "/wiki/entities/weilvxiongnu/"
   - key: "WeiCheng"
     title: "魏成 / Wei Cheng"
     url: "/wiki/entities/weicheng/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10075
+wiki_total_pages: 10078
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "ZhaoYoumiuWang"
     title: "赵迁 / 赵幽缪王 / Zhao Youmiu Wang"
     url: "/wiki/entities/zhaoyoumiuwang/"
+  - key: "ZhaoGuoWesternHan"
+    title: "赵过 / Zhao Guo (Western Han)"
+    url: "/wiki/entities/zhaoguowesternhan/"
   - key: "ZhaoDaoxiangwang"
     title: "赵道襄王 / King Daoxiang of Zhao"
     url: "/wiki/entities/zhaodaoxiangwang/"

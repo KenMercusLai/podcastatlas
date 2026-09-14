@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1869
+topic_total_pages: 1870
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -5286,6 +5286,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1"
+    title: "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王"
+    url: "/wiki/sources/zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1/"
   - key: "zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa"
     title: "《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？"
     url: "/wiki/sources/zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa/"

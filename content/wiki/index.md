@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王](sources/zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1.md) — 芮淇讲透资治通鉴 episode on Han Wudi's Luntai self-criticism edict, Li Guangli's failed Xiongnu expedition, rejection of renewed frontier burdens, and turn toward agriculture and recovery.
 - [《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！](sources/zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt.md) — 芮淇讲透资治通鉴 short episode on Buddhist 止语/少语, verbal precepts, retreat silence, avoiding gossip and judgment, and speech restraint as self-cultivation.
 - [在科技时代，重新理解我们的爱、工作与生活](sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu.md) — 不合时宜 interview with Wang Xiaowei on technology philosophy, AI intimacy, work fatigue, psychiatricized language, AI governance, judgment infrastructure, and returning to daily life.
 - [《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？](sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m.md) — 芮淇讲透资治通鉴 episode on Ma Heluo's attempted assassination of Han Wudi, Jin Midi's close-protection rescue, and Jin's loyalty, filial discipline, and palace-boundary severity.
@@ -2455,6 +2456,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose failed Xiongnu expedition and later sacrificial death frame Han Wudi's Luntai self-criticism in Hanji 389-2.
+- [赵过 / Zhao Guo (Western Han)](entities/ZhaoGuoWesternHan.md) — Agricultural official used by Hanji 389-2 to show post-Luntai recovery policy through farming technique, tools, and practical livelihood talent.
+- [魏律 / Wei Lu (Xiongnu-aligned)](entities/WeiLvXiongnu.md) — Xiongnu-aligned figure who uses jealousy and shamanic ritual speech to bring about Li Guangli's death in Hanji 389-2.
 - [Joe Biden](entities/JoeBiden.md) — Source-scoped Democratic national-politics reference in the Josh Shapiro All-In interview.
 - [Tim Walz](entities/TimWalz.md) — Source-scoped Democratic running-mate reference in the Josh Shapiro All-In interview.
 - [王小伟 / Wang Xiaowei](entities/WangXiaowei.md) — Renmin University philosophy professor and AI governance researcher interviewed by 不合时宜 on technology philosophy, AI intimacy, judgment, and ordinary life.
@@ -12535,6 +12539,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [轮台罪己诏政策转向 / Luntai Self-Criticism Policy Turn](concepts/LuntaiSelfCriticismPolicyTurn.md) — Western Han pattern where Han Wudi's Luntai self-blame rejects renewed frontier burdens and redirects policy toward agriculture, horse recovery, and popular rest.
 - [AI Judgment Infrastructure / AI判断基础设施](concepts/AIJudgmentInfrastructure.md) — Large models becoming routine advice and value-framing infrastructure for family, relationship, educational, and moral judgment.
 - [Life Time Versus Machine Time / 生命时间与机器时间](concepts/LifeTimeVsMachineTime.md) — AI-era tension between human rhythms of body, rest, waiting, conversation, and machine-paced continuous output loops.
 - [Psychiatric Everyday Language / 日常话语的精神病学化](concepts/PsychiatricEverydayLanguage.md) — Spread of clinical mental-health vocabulary into everyday self-description and relationship interpretation, with both stigma-reducing and label-closing effects.

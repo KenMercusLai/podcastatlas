@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10075
+wiki_total_pages: 10078
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"

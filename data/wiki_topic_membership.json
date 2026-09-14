@@ -77520,6 +77520,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhaoGuoWesternHan": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ZhaoHang": [
     {
       "key": "technology",
@@ -85628,6 +85635,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa": [
