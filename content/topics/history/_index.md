@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1876
+topic_total_pages: 1881
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1492,6 +1492,9 @@ topic_concepts:
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"
+  - key: "HistoricalPopulationRegistrationCaution"
+    title: "户口数字解读谨慎 / Historical Population Registration Caution"
+    url: "/wiki/concepts/historicalpopulationregistrationcaution/"
   - key: "LawEnforcementAgainstElitePrivilege"
     title: "执法碰撞权贵特权 / Law Enforcement Against Elite Privilege"
     url: "/wiki/concepts/lawenforcementagainsteliteprivilege/"
@@ -1549,6 +1552,9 @@ topic_concepts:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
+  - key: "DynasticPopulationLoss"
+    title: "王朝更替人口损耗 / Dynastic Population Loss"
+    url: "/wiki/concepts/dynasticpopulationloss/"
   - key: "EmperorDreamClaimOpenness"
     title: "皇帝梦与帝位开放想象 / Emperor Dream Claim Openness"
     url: "/wiki/concepts/emperordreamclaimopenness/"
@@ -2120,6 +2126,9 @@ topic_entities:
   - key: "DongguanHanji"
     title: "《东观汉记》 / Dongguan Hanji"
     url: "/wiki/entities/dongguanhanji/"
+  - key: "ZhongguoRenkoushi"
+    title: "《中国人口史》 / Zhongguo Renkoushi"
+    url: "/wiki/entities/zhongguorenkoushi/"
   - key: "ErNianLuLing"
     title: "《二年律令》 / Er Nian Lu Ling"
     url: "/wiki/entities/ernianluling/"
@@ -3824,6 +3833,9 @@ topic_entities:
   - key: "XiaoXianWesternHan"
     title: "萧贤 / Xiao Xian (Western Han)"
     url: "/wiki/entities/xiaoxianwesternhan/"
+  - key: "GeJianxiong"
+    title: "葛剑雄 / Ge Jianxiong"
+    url: "/wiki/entities/gejianxiong/"
   - key: "DongGongXincheng"
     title: "董公 / Dong Gong (Xincheng)"
     url: "/wiki/entities/donggongxincheng/"
@@ -5298,6 +5310,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g"
+    title: "《资治通鉴·汉纪》388-3｜中国古代王朝更迭时，人口死亡有多夸张？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g/"
   - key: "zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu"
     title: "《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！"
     url: "/wiki/sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10080
+wiki_total_pages: 10082
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "ZhonghuaXieshi"
     title: "《中华蟹史》"
     url: "/wiki/entities/zhonghuaxieshi/"
+  - key: "ZhongguoRenkoushi"
+    title: "《中国人口史》 / Zhongguo Renkoushi"
+    url: "/wiki/entities/zhongguorenkoushi/"
   - key: "ZhenglunYuShuofu"
     title: "《争论与说服》 / How Minds Change"
     url: "/wiki/entities/zhenglunyushuofu/"

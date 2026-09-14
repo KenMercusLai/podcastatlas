@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [statecraft, legitimacy, historical-memory, western-han, remonstrance]
 sources:
   - zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi
-last_updated: 2026-09-13
+  - zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g
+last_updated: 2026-09-14
 ---
 
 ## Definition
@@ -16,7 +17,9 @@ last_updated: 2026-09-13
 
 [[zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi|Hanji 412-2]] creates the concept through [[XiahouShengWesternHan|夏侯胜]]'s court opposition to sacrificial music for [[HanWudi|汉武帝]]. The meeting is supposed to ratify [[EmperorXuanOfHan|汉宣帝]]'s praise of Wudi and support Xuan's succession legitimacy, but Xiahou insists that Wudi's conquests be weighed against dead soldiers, depleted wealth, luxury, displaced commoners, famine, and social breakdown.
 
-The concept is useful because it separates achievement from unquestioned glorification. Xiahou does not deny expansion or military success; his intervention says those successes are incomplete evidence when the polity that paid for them suffered deeply. In this source, cost accounting is also risky speech: it challenges not only an earlier emperor's memory but the current ruler's chosen legitimacy narrative.
+[[zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g|Hanji 388-3]] extends the accounting from court ritual to population history. It uses Han Wudi's war frequency and late risky expeditions as an entry point, then widens the frame to [[DynasticPopulationLoss|王朝更替人口损耗]] across Chinese history. The concept is useful because it separates achievement from unquestioned glorification: expansion, unification, and imperial grandeur remain incomplete evidence when the society that paid for them absorbed mass death, displacement, fiscal extraction, and registration collapse.
+
+In these sources, cost accounting is also politically and methodologically disciplined. Hanji 412-2 shows the political danger of challenging official praise; Hanji 388-3 adds that the costs should be counted carefully, because household records cannot be read as direct mortality totals without [[HistoricalPopulationRegistrationCaution|户口数字解读谨慎]].
 
 ## Key Claims
 
@@ -24,6 +27,7 @@ The concept is useful because it separates achievement from unquestioned glorifi
 - Acknowledging achievement before naming costs can make criticism more precise, but it does not make the criticism safe in a legitimacy-charged court.
 - Ritual honor and official memory can conceal cost if they are designed only to praise.
 - Cost accounting becomes remonstrance when it interrupts a ruler's attempt to convert dynastic memory into present legitimacy.
+- Demographic cost accounting needs methodological caution: population-register collapse may combine death, displacement, concealment, category exclusion, and state-capacity loss.
 
 ## Evidence
 
@@ -36,12 +40,17 @@ Ritual praise challenged:
 Legitimacy risk:
 - [[zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi|Hanji 412-2]] says officials impeach Xiahou and implicate Huang Ba after the speech, showing that cost accounting can be treated as disloyalty when it hits dynastic memory.
 
+Demographic cost layer:
+- [[zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g|Hanji 388-3]] uses Han Wudi and repeated dynastic population drops to argue that ordinary people's suffering must be counted behind imperial accomplishment.
+- [[zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g|Hanji 388-3]] also cautions that official population troughs require correction before being translated into death totals.
+
 ## Counterevidence & Qualifications
 
-This concept currently rests on one source note and should not be generalized into a full evaluation of Han Wudi's reign. The episode preserves Xiahou Sheng's critique and the host's reading of its political force; it does not produce a complete military, fiscal, demographic, or ritual history. The concept also does not imply that conquest has no value, only that achievement claims are incomplete without the costs that made them possible.
+This concept still should not be generalized into a complete evaluation of Han Wudi's reign or of every Chinese dynastic transition. Hanji 412-2 preserves Xiahou Sheng's critique and the host's reading of its political force; Hanji 388-3 supplies a compact population-history overview rather than a full demographic model. The concept also does not imply that conquest or unification has no value, only that achievement claims are incomplete without the costs that made them possible.
 
 ## What Changed
 
+- Added Hanji 388-3's demographic layer: population loss and registry caution now sit alongside fiscal, military, and ritual-memory costs.
 - Created this concept from Hanji 412-2 to capture Xiahou Sheng's cost-based challenge to Han Wudi's official praise.
 
 ## Related Concepts
@@ -50,3 +59,5 @@ This concept currently rests on one source note and should not be generalized in
 - [[ReceptiveRemonstranceGovernance]] - adjacent governance pattern because cost accounting only improves rule when the ruler can preserve and use corrective speech.
 - [[FrontierStrategyCostTypology]] - related strategic version because both concepts judge visible military achievement against cost and capacity.
 - [[CourtFeedbackCollapse]] - failure contrast because punishing cost-accounting speech can teach officials to preserve praise and suppress correction.
+- [[DynasticPopulationLoss|王朝更替人口损耗]] - demographic version of the cost-accounting frame.
+- [[HistoricalPopulationRegistrationCaution|户口数字解读谨慎]] - method constraint for counting population loss responsibly.

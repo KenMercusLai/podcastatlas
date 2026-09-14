@@ -19280,6 +19280,10 @@ Added source `shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821`
 
 Added source `zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg`; created `JiangChongWesternHan` and `SuWenWesternHan`; updated `LadyGouyiWesternHan`, `LiuJuCrownPrinceWesternHan`, `HanWudi`, `EmperorZhaoOfHan`, `WuguIncidentWesternHan`, `HaremSuccessionRiskControl`, and `MaternalStatusSuccessionLeverage`. No settled contradiction found; Lady Gouyi's alleged hidden role in Liu Ju's destruction remains source-scoped.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》388-3｜中国古代王朝更迭时，人口死亡有多夸张？
+
+Added source `zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g`; created `GeJianxiong`, `ZhongguoRenkoushi`, `HistoricalPopulationRegistrationCaution`, and `DynasticPopulationLoss`; updated `ImperialAchievementCostAccounting` and `LateHanPopulationCollapse` with demographic cost accounting and corrected-registry caution. No settled contradiction found; cross-dynastic loss totals, regional figures, and causal shares among death, migration, concealment, famine, epidemic, and registration failure remain source-scoped.
+
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19611,6 +19615,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

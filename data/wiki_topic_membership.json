@@ -22360,6 +22360,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DynasticPopulationLoss": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "EAB": [
     {
       "key": "culture",
@@ -28912,6 +28919,13 @@
       "url": "/topics/history/"
     }
   ],
+  "GeJianxiong": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "GeckoRobotics": [
     {
       "key": "technology",
@@ -32719,6 +32733,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HistoricalPopulationRegistrationCaution": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HistoricalPrecedentCrisisPlanning": [
@@ -78017,6 +78038,18 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhongguoRenkoushi": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ZhonghuaXieshi": [
     {
       "key": "culture",
@@ -85663,6 +85696,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu": [

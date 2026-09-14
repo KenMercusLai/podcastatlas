@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7409
+wiki_total_pages: 7411
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "HouseholdTroupeStatusBoundary"
     title: "家班身份边界 / Household Troupe Status Boundary"
     url: "/wiki/concepts/householdtroupestatusboundary/"
+  - key: "HistoricalPopulationRegistrationCaution"
+    title: "户口数字解读谨慎 / Historical Population Registration Caution"
+    url: "/wiki/concepts/historicalpopulationregistrationcaution/"
   - key: "HistoricalComplexityAgainstLabels"
     title: "拒绝历史人物标签 / Historical Complexity Against Labels"
     url: "/wiki/concepts/historicalcomplexityagainstlabels/"

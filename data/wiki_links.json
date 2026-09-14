@@ -18583,6 +18583,10 @@
     "title": "Dynastic Memory Severance / 王朝记忆切割",
     "url": "/wiki/concepts/dynasticmemoryseverance/"
   },
+  "DynasticPopulationLoss": {
+    "title": "王朝更替人口损耗 / Dynastic Population Loss",
+    "url": "/wiki/concepts/dynasticpopulationloss/"
+  },
   "DynasticScandalSuppression": {
     "title": "Dynastic Scandal Suppression",
     "url": "/wiki/concepts/dynasticscandalsuppression/"
@@ -24443,6 +24447,10 @@
     "title": "Ge Hong / 葛洪",
     "url": "/wiki/entities/gehong/"
   },
+  "GeJianxiong": {
+    "title": "葛剑雄 / Ge Jianxiong",
+    "url": "/wiki/entities/gejianxiong/"
+  },
   "GeXunLateHan": {
     "title": "葛勋 / Ge Xun (late Han)",
     "url": "/wiki/entities/gexunlatehan/"
@@ -28126,6 +28134,10 @@
   "HistoricalMemoryContest": {
     "title": "Historical Memory Contest",
     "url": "/wiki/concepts/historicalmemorycontest/"
+  },
+  "HistoricalPopulationRegistrationCaution": {
+    "title": "户口数字解读谨慎 / Historical Population Registration Caution",
+    "url": "/wiki/concepts/historicalpopulationregistrationcaution/"
   },
   "HistoricalPrecedentCrisisPlanning": {
     "title": "历史先例式危机规划 / Historical Precedent Crisis Planning",
@@ -70647,6 +70659,10 @@
     "title": "中地郡 / Zhongdi Commandery",
     "url": "/wiki/entities/zhongdicommandery/"
   },
+  "ZhongguoRenkoushi": {
+    "title": "《中国人口史》 / Zhongguo Renkoushi",
+    "url": "/wiki/entities/zhongguorenkoushi/"
+  },
   "ZhonghuaXieshi": {
     "title": "《中华蟹史》",
     "url": "/wiki/entities/zhonghuaxieshi/"
@@ -76274,6 +76290,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g": {
+    "title": "《资治通鉴·汉纪》388-3｜中国古代王朝更迭时，人口死亡有多夸张？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g/"
   },
   "zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu": {
     "title": "《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！",
