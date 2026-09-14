@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7388
+wiki_total_pages: 7403
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "ServiceBrandStandardization"
     title: "Service Brand Standardization"
     url: "/wiki/concepts/servicebrandstandardization/"
+  - key: "ServiceDeliveryDemocraticTrust"
+    title: "Service Delivery Democratic Trust"
+    url: "/wiki/concepts/servicedeliverydemocratictrust/"
   - key: "ServiceMarketplaceQualityControl"
     title: "Service Marketplace Quality Control"
     url: "/wiki/concepts/servicemarketplacequalitycontrol/"

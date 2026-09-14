@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10059
+wiki_total_pages: 10075
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "MaDong"
     title: "马东 / Ma Dong"
     url: "/wiki/entities/madong/"
+  - key: "MaHeluoWesternHan"
+    title: "马何罗 / Ma Heluo (Western Han)"
+    url: "/wiki/entities/maheluowesternhan/"
   - key: "MaYuanyiLateHan"
     title: "马元义 / Ma Yuanyi (late Han)"
     url: "/wiki/entities/mayuanyilatehan/"
@@ -1712,6 +1715,9 @@ wiki_pages:
   - key: "MaHaoning"
     title: "马浩宁 / Ma Haoning"
     url: "/wiki/entities/mahaoning/"
+  - key: "MaWangye"
+    title: "马王爷 / Ma Wangye"
+    url: "/wiki/entities/mawangye/"
   - key: "MaXiangLateHan"
     title: "马相 / Ma Xiang (late Han)"
     url: "/wiki/entities/maxianglatehan/"
@@ -1730,6 +1736,9 @@ wiki_pages:
   - key: "MaXianLateHan"
     title: "马贤 / Ma Xian (late Han)"
     url: "/wiki/entities/maxianlatehan/"
+  - key: "MaTongWesternHan"
+    title: "马通 / Ma Tong (Western Han)"
+    url: "/wiki/entities/matongwesternhan/"
   - key: "Mayi"
     title: "马邑 / Mayi"
     url: "/wiki/entities/mayi/"

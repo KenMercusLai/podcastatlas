@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7388
+wiki_total_pages: 7403
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "PalaceMarriageFamilyMobility"
     title: "Palace Marriage Family Mobility / 后宫婚姻式家族跃迁"
     url: "/wiki/concepts/palacemarriagefamilymobility/"
+  - key: "PalaceProximityVigilance"
+    title: "Palace Proximity Vigilance / 近侍警觉"
+    url: "/wiki/concepts/palaceproximityvigilance/"
   - key: "PalaceScandalPowerConsolidation"
     title: "Palace Scandal Power Consolidation / 宫廷丑闻式收权"
     url: "/wiki/concepts/palacescandalpowerconsolidation/"
@@ -302,6 +305,9 @@ wiki_pages:
   - key: "PennsylvaniaAIInfrastructureBoom"
     title: "Pennsylvania AI Infrastructure Boom"
     url: "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
+  - key: "PennsylvaniaExecutionGovernance"
+    title: "Pennsylvania Execution Governance"
+    url: "/wiki/concepts/pennsylvaniaexecutiongovernance/"
   - key: "PennyStockBoilerRoomFraud"
     title: "Penny Stock Boiler Room Fraud"
     url: "/wiki/concepts/pennystockboilerroomfraud/"
@@ -1607,6 +1613,9 @@ wiki_pages:
   - key: "PsychedelicOrdinaryFreedom"
     title: "Psychedelic Ordinary Freedom"
     url: "/wiki/concepts/psychedelicordinaryfreedom/"
+  - key: "PsychiatricEverydayLanguage"
+    title: "Psychiatric Everyday Language / 日常话语的精神病学化"
+    url: "/wiki/concepts/psychiatriceverydaylanguage/"
   - key: "PsychiatricFunctionalDiagnosis"
     title: "Psychiatric Functional Diagnosis / 精神科功能受损诊断"
     url: "/wiki/concepts/psychiatricfunctionaldiagnosis/"

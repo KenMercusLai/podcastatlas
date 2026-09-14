@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1868
+topic_total_pages: 1869
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -5286,6 +5286,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa"
+    title: "《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa/"
   - key: "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds"
     title: "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！"
     url: "/wiki/sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds/"

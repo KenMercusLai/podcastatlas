@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7388
+wiki_total_pages: 7403
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -989,6 +989,9 @@ wiki_pages:
   - key: "AIJournalismTrust"
     title: "AI Journalism Trust"
     url: "/wiki/concepts/aijournalismtrust/"
+  - key: "AIJudgmentInfrastructure"
+    title: "AI Judgment Infrastructure / AI判断基础设施"
+    url: "/wiki/concepts/aijudgmentinfrastructure/"
   - key: "AIKnowledgeCollapse"
     title: "AI Knowledge Collapse / AI知识塌缩"
     url: "/wiki/concepts/aiknowledgecollapse/"
@@ -1820,6 +1823,9 @@ wiki_pages:
   - key: "AntimicrobialResistance"
     title: "Antimicrobial Resistance"
     url: "/wiki/concepts/antimicrobialresistance/"
+  - key: "AntisemitismIsraelCriticismBoundary"
+    title: "Antisemitism Israel Criticism Boundary"
+    url: "/wiki/concepts/antisemitismisraelcriticismboundary/"
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"
@@ -1940,6 +1946,9 @@ wiki_pages:
   - key: "AristocraticPoliticalAsylum"
     title: "Aristocratic Political Asylum / 贵族政治避难"
     url: "/wiki/concepts/aristocraticpoliticalasylum/"
+  - key: "AristocraticSpiritConsumptionBoundary"
+    title: "Aristocratic Spirit Consumption Boundary / 贵族精神消费边界"
+    url: "/wiki/concepts/aristocraticspiritconsumptionboundary/"
   - key: "ArmedProtestZoneSecurity"
     title: "Armed Protest-Zone Security"
     url: "/wiki/concepts/armedprotestzonesecurity/"

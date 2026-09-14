@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10059
+wiki_total_pages: 10075
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "Fable5"
     title: "Fable 5"
     url: "/wiki/entities/fable5/"
+  - key: "Fabletics"
+    title: "Fabletics"
+    url: "/wiki/entities/fabletics/"
   - key: "FaceSiliconValley101"
     title: "Face (硅谷101)"
     url: "/wiki/entities/facesiliconvalley101/"
@@ -68,6 +71,9 @@ wiki_pages:
   - key: "FanMin"
     title: "Fan Min"
     url: "/wiki/entities/fanmin/"
+  - key: "Fanatics"
+    title: "Fanatics"
+    url: "/wiki/entities/fanatics/"
   - key: "FangtaiGroup"
     title: "Fangtai / 方太"
     url: "/wiki/entities/fangtaigroup/"

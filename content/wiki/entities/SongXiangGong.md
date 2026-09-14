@@ -5,6 +5,7 @@ tags: [person, ruler, spring-and-autumn, song-state]
 sources:
   - 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773
   - zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds
+  - zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa
 last_updated: 2026-09-14
 knowledge_schema: synthesis-v1
 ---
@@ -12,27 +13,35 @@ knowledge_schema: synthesis-v1
 # 宋襄公
 
 ## Overview
-宋襄公 is the wiki's main figure for later disputes over whether Spring-Autumn battle etiquette should be read as foolishness, noble restraint, or fragile rule-conscious warfare.
+宋襄公 is the wiki's main figure for disputes over whether Spring-Autumn battle etiquette should be read as foolishness, noble restraint, or fragile rule-conscious warfare.
 
 ## Current Profile
 The existing [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] source uses Song Xiang Gong as a shorthand example for rule-conscious warfare in the [[SpringAndAutumnPeriod|春秋时期]]. That episode keeps the rules ambivalent: they can make violence legible as contest, but they can also be exploited once opponents no longer share the same assumptions.
+
+[[zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa|Hanji 391-3]] sets up the dispute by separating noble spirit from luxury consumption and then returning to the Battle of Hongshui. The host presents Song Xiang Gong's refusal to attack Chu troops while they were crossing the river or before they had formed ranks as the case that produced both the later "蠢猪式仁义" label and a possible aristocratic-ethics reading.
 
 [[zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds]] reads him more affirmatively. The episode says modern ridicule often misses the aristocratic war ethic behind not taking advantage of an unready opponent. In this reading, Song Xiang Gong's conduct at Hongshui expresses promise-keeping, trust, and noble spirit, even if it fails as modern strategic calculation.
 
 ## Key Characteristics
 - Rule-conscious warfare example: sources use Song Xiang Gong to show that battle could be governed by shared status codes and timing rules.
 - Misread by later audiences: both sources note that modern or later readers often laugh at his ritual fairness.
+- Consumer-boundary contrast: Hanji 391-3 uses him after rejecting luxury display as a substitute for noble spirit.
 - Positive noble-spirit case: Hanji 391-4 treats his conduct as evidence that ancient China once had aristocratic spirit.
 - Fragile-rule case: Episode 109 keeps open the problem that rule-bound warfare can become vulnerable once opponents game the rules.
 
 ## Evidence
 Rule-conscious warfare example:
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773|Episode 109]] uses Song Xiang Gong as a ruler case inside [[SpringAutumnWarfareRitual]].
+- [[zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa|Hanji 391-3]] retells his refusal to strike before Chu had crossed the river and formed ranks.
 - [[zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds|Hanji 391-4]] says his behavior makes sense when placed inside Spring-Autumn aristocratic war etiquette.
 
 Misread by later audiences:
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773|Episode 109]] notes that later readers laugh at his excessive ritual fairness.
+- [[zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa|Hanji 391-3]] foregrounds the "蠢猪式仁义" label before asking what noble spirit should mean.
 - [[zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds|Hanji 391-4]] says modern textbooks and common views tend to treat him as foolish because the aristocratic tradition has long been interrupted.
+
+Consumer-boundary contrast:
+- [[zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa|Hanji 391-3]] contrasts his rule-following case with villas, luxury cars, watches, first-class travel, golf, and nightlife as insufficient signs of noble spirit.
 
 Positive noble-spirit case:
 - [[zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds|Hanji 391-4]] explicitly uses Song Xiang Gong to answer the claim that China lacked noble spirit.
@@ -45,6 +54,7 @@ This page does not attempt a complete biography of Song Xiang Gong or settle the
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
+- Added Hanji 391-3's setup of Song Xiang Gong as a disputed case after separating noble spirit from luxury display.
 - Added Hanji 391-4's more affirmative reading of Song Xiang Gong as evidence for Chinese aristocratic spirit.
 - Preserved Episode 109's more ambivalent point that rule-conscious warfare can become exploitable.
 
@@ -52,5 +62,6 @@ This page does not attempt a complete biography of Song Xiang Gong or settle the
 - [[SpringAutumnWarfareRitual]] - main concept where Song Xiang Gong functions as a rule-conscious battle example.
 - [[SpringAndAutumnPeriod|春秋时期]] - historical setting for the sources' interpretation.
 - [[SportsAsHistoricalReadingFrame]] - playful fair-play comparison used by Episode 109.
+- [[AristocraticSpiritConsumptionBoundary|贵族精神消费边界]] - consumer-status distinction that frames Hanji 391-3's use of Song Xiang Gong.
 - [[AristocraticDeathDignity|贵族式临终尊严]] - adjacent noble-spirit concept from Hanji 391-4.
 - [[ZuoZhuan|《左传》]] - broader classical story field attached to the earlier source.

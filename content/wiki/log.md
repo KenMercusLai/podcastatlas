@@ -6,6 +6,14 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？
+
+Added source `tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166`; created `CollegiateLicensingCompany`, `NationalCollegiateAthleticAssociation`, `Fanatics`, `Fabletics`, `HomeFieldApparel`, `HypenVice`, `CollegeLogoLicensingMerchandise`, `CollegeSportsFandomDemand`, `LogoSwapMerchandiseStandardization`, and `CampusCulturalCreativeCommercialization`. Core synthesis: U.S. university logo merchandise scales through licensing intermediaries, NCAA-driven fandom, and standardized apparel bases, while demand remains concentrated around sports-power schools. No settled contradiction found; market-size, fan-count, sales, and China cultural-creative comparison claims remain source-scoped.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？
+
+Added source page for the 芮淇讲透资治通鉴 short episode on noble spirit versus luxury display and Song Xiang Gong's Battle of Hongshui dilemma. Created `AristocraticSpiritConsumptionBoundary`; updated `SongXiangGong`, `SpringAutumnWarfareRitual`, overview, and index. No direct contradiction found; the source is transcript-limited and works as the setup for Hanji 391-4's more affirmative noble-spirit conclusion.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！
 
 Added source page for the 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn aristocratic war etiquette, Zilu fixing his cap before death, and noble spirit in Chinese culture. Created pages for Zilu and Aristocratic Death Dignity; migrated and updated Song Xiang Gong and Spring-Autumn Warfare Ritual to `synthesis-v1`; updated overview and index. No direct contradiction found; the episode's European chivalry and French Revolutionary comparisons are kept as source-scoped analogies rather than full institutional equivalence.
@@ -2204,6 +2212,12 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 在科技时代，重新理解我们的爱、工作与生活
+
+Added source `zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu`; created `WangXiaowei`, `ReEnteringLifeTechEraBook`, `TechnologyPhilosophy`, `AIJudgmentInfrastructure`, `LifeTimeVsMachineTime`, and `PsychiatricEverydayLanguage`; updated `BuHeShiYi`, `AICompanionAuthenticityBoundary`, and `RelationshipTechnologyEthics` with Wang Xiaowei's technology-philosophy frame for AI intimacy, work rhythm, model-mediated judgment, and returning to ordinary life. No settled contradiction found; the source remains a public philosophical conversation rather than empirical evidence about AI companion outcomes, model effects, or education policy.
+
+Post-ingest validation also repaired two pre-existing broken Shapiro-source links by adding source-scoped `JoeBiden` and `TimWalz` entity pages.
 
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？
 
@@ -19254,9 +19268,21 @@ Ran lint. See lint-report.md for details.
 
 Added source `shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821`; created `ProfessionalServicesBillableHour`; updated `LegalServicesAIEconomics`, `ShangyeJiushiZheyang`, `index.md`, and `overview.md` with the billable-hour history, professional-services pricing, fixed-fee alternatives, utilization incentives, and AI pressure on hourly legal work. No settled contradiction found; the Smith origin story, Boston Legal Aid Society metrics, and unnamed 2026 survey remain source-scoped.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人
+
+Added source `zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg`; created `JiangChongWesternHan` and `SuWenWesternHan`; updated `LadyGouyiWesternHan`, `LiuJuCrownPrinceWesternHan`, `HanWudi`, `EmperorZhaoOfHan`, `WuguIncidentWesternHan`, `HaremSuccessionRiskControl`, and `MaternalStatusSuccessionLeverage`. No settled contradiction found; Lady Gouyi's alleged hidden role in Liu Ju's destruction remains source-scoped.
+
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？
+
+Added source `zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m`; created `MaHeluoWesternHan`, `MaTongWesternHan`, and `PalaceProximityVigilance`; updated `JinMidiWesternHan` and `WuguIncidentWesternHan` with the Lingguang Palace assassination attempt, Jin Midi's close-protection rescue, and the Ma-family Wugu-aftershock branch. No settled contradiction found; Ma-family prosecution details, Lingguang Palace geography, and Jin Midi motive claims remain source-scoped.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”
+
+Added source `zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm`; updated `HuoGuangWesternHan`, `HanWudi`, `EmperorZhaoOfHan`, `JinMidiWesternHan`, `ShangguanJieWesternHan`, and `SangHongyangWesternHan` with the Han Wudi sickbed succession and entrusted-minister origin layer. No settled contradiction found; the exact legal form of the testamentary arrangement and ASR name variants remain source-scoped.
 
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？
 
@@ -19530,6 +19556,45 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-14] ingest | Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740`; created `JoshShapiro`, `PennsylvaniaExecutionGovernance`, `ServiceDeliveryDemocraticTrust`, `ExecutiveWarPowersBreakdown`, `UndefinedWarObjectives`, and `AntisemitismIsraelCriticismBoundary`; updated `Pennsylvania` with Shapiro's state-execution, permitting, public-safety, and workforce-development frame. No settled contradiction found; Pennsylvania performance figures, Medicaid-loss claims, price increases, gas prices, corruption examples, and Iran-war casualty framing remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
+
+Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
 
 ## [2026-09-14] lint | Wiki health check
 

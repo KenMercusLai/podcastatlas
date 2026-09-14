@@ -2375,6 +2375,10 @@
     "title": "AI Journalism Trust",
     "url": "/wiki/concepts/aijournalismtrust/"
   },
+  "AIJudgmentInfrastructure": {
+    "title": "AI Judgment Infrastructure / AI判断基础设施",
+    "url": "/wiki/concepts/aijudgmentinfrastructure/"
+  },
   "AIKnowledgeCollapse": {
     "title": "AI Knowledge Collapse / AI知识塌缩",
     "url": "/wiki/concepts/aiknowledgecollapse/"
@@ -5655,6 +5659,10 @@
     "title": "Antimicrobial Resistance",
     "url": "/wiki/concepts/antimicrobialresistance/"
   },
+  "AntisemitismIsraelCriticismBoundary": {
+    "title": "Antisemitism Israel Criticism Boundary",
+    "url": "/wiki/concepts/antisemitismisraelcriticismboundary/"
+  },
   "AntitrustChill": {
     "title": "Antitrust Chill",
     "url": "/wiki/concepts/antitrustchill/"
@@ -6038,6 +6046,10 @@
   "AristocraticPoliticalAsylum": {
     "title": "Aristocratic Political Asylum / 贵族政治避难",
     "url": "/wiki/concepts/aristocraticpoliticalasylum/"
+  },
+  "AristocraticSpiritConsumptionBoundary": {
+    "title": "Aristocratic Spirit Consumption Boundary / 贵族精神消费边界",
+    "url": "/wiki/concepts/aristocraticspiritconsumptionboundary/"
   },
   "Aristotle": {
     "title": "Aristotle / 亚里士多德",
@@ -9919,6 +9931,10 @@
     "title": "Campus Conservative Media Network",
     "url": "/wiki/concepts/campusconservativemedianetwork/"
   },
+  "CampusCulturalCreativeCommercialization": {
+    "title": "Campus Cultural-Creative Commercialization / 高校文创商业化",
+    "url": "/wiki/concepts/campusculturalcreativecommercialization/"
+  },
   "CampusNightClimbing": {
     "title": "Campus Night Climbing",
     "url": "/wiki/concepts/campusnightclimbing/"
@@ -13471,6 +13487,10 @@
     "title": "College Career Preparation",
     "url": "/wiki/concepts/collegecareerpreparation/"
   },
+  "CollegeLogoLicensingMerchandise": {
+    "title": "College Logo Licensing Merchandise / 大学校名校徽授权商品",
+    "url": "/wiki/concepts/collegelogolicensingmerchandise/"
+  },
   "CollegeMajorChoice": {
     "title": "College Major Choice",
     "url": "/wiki/concepts/collegemajorchoice/"
@@ -13478,6 +13498,14 @@
   "CollegeProgramEarningsAccountability": {
     "title": "College Program Earnings Accountability",
     "url": "/wiki/concepts/collegeprogramearningsaccountability/"
+  },
+  "CollegeSportsFandomDemand": {
+    "title": "College Sports Fandom Demand / 大学体育球迷需求",
+    "url": "/wiki/concepts/collegesportsfandomdemand/"
+  },
+  "CollegiateLicensingCompany": {
+    "title": "Collegiate Licensing Company / CLC",
+    "url": "/wiki/entities/collegiatelicensingcompany/"
   },
   "ColocationDataCenter": {
     "title": "Colocation Data Center",
@@ -20539,6 +20567,10 @@
     "title": "Executive Power Precedent",
     "url": "/wiki/concepts/executivepowerprecedent/"
   },
+  "ExecutiveWarPowersBreakdown": {
+    "title": "Executive War Powers Breakdown",
+    "url": "/wiki/concepts/executivewarpowersbreakdown/"
+  },
   "ExecutorCharacterAdviceRisk": {
     "title": "Executor Character Advice Risk",
     "url": "/wiki/concepts/executorcharacteradvicerisk/"
@@ -20838,6 +20870,10 @@
   "Fable5": {
     "title": "Fable 5",
     "url": "/wiki/entities/fable5/"
+  },
+  "Fabletics": {
+    "title": "Fabletics",
+    "url": "/wiki/entities/fabletics/"
   },
   "FaceProjectGovernance": {
     "title": "Face-Project Governance / 面子工程式治理",
@@ -21186,6 +21222,10 @@
   "FanZhunLateHan": {
     "title": "樊准 / Fan Zhun (late Han)",
     "url": "/wiki/entities/fanzhunlatehan/"
+  },
+  "Fanatics": {
+    "title": "Fanatics",
+    "url": "/wiki/entities/fanatics/"
   },
   "FangKecheng": {
     "title": "方可诚",
@@ -28167,6 +28207,10 @@
     "title": "Home Depot",
     "url": "/wiki/entities/homedepot/"
   },
+  "HomeFieldApparel": {
+    "title": "Home Field Apparel",
+    "url": "/wiki/entities/homefieldapparel/"
+  },
   "HomeInns": {
     "title": "Home Inns",
     "url": "/wiki/entities/homeinns/"
@@ -29542,6 +29586,10 @@
   "HydropowerConcentrationRisk": {
     "title": "Hydropower Concentration Risk",
     "url": "/wiki/concepts/hydropowerconcentrationrisk/"
+  },
+  "HypenVice": {
+    "title": "Hypen Vice",
+    "url": "/wiki/entities/hypenvice/"
   },
   "HyperAgent": {
     "title": "Hyper Agent",
@@ -32151,6 +32199,10 @@
     "title": "江城 / Jiang Cheng (Fund Manager)",
     "url": "/wiki/entities/jiangchengfundmanager/"
   },
+  "JiangChongWesternHan": {
+    "title": "江充 / Jiang Chong (Western Han)",
+    "url": "/wiki/entities/jiangchongwesternhan/"
+  },
   "JiangChun": {
     "title": "Jiang Chun / 江春",
     "url": "/wiki/entities/jiangchun/"
@@ -32691,6 +32743,10 @@
     "title": "Jody Deming",
     "url": "/wiki/entities/jodydeming/"
   },
+  "JoeBiden": {
+    "title": "Joe Biden",
+    "url": "/wiki/entities/joebiden/"
+  },
   "JoeGebbia": {
     "title": "Joe Gebbia",
     "url": "/wiki/entities/joegebbia/"
@@ -33114,6 +33170,10 @@
   "JoshSchaeffer": {
     "title": "Josh Schaeffer",
     "url": "/wiki/entities/joshschaeffer/"
+  },
+  "JoshShapiro": {
+    "title": "Josh Shapiro",
+    "url": "/wiki/entities/joshshapiro/"
   },
   "JoshSpencer": {
     "title": "Josh Spencer",
@@ -36323,6 +36383,10 @@
     "title": "Life Settlement Pricing Opacity",
     "url": "/wiki/concepts/lifesettlementpricingopacity/"
   },
+  "LifeTimeVsMachineTime": {
+    "title": "Life Time Versus Machine Time / 生命时间与机器时间",
+    "url": "/wiki/concepts/lifetimevsmachinetime/"
+  },
   "LifelongSexEducation": {
     "title": "Lifelong Sex Education / 终身性教育",
     "url": "/wiki/concepts/lifelongsexeducation/"
@@ -37483,6 +37547,10 @@
     "title": "Logistics Workflow Automation",
     "url": "/wiki/concepts/logisticsworkflowautomation/"
   },
+  "LogoSwapMerchandiseStandardization": {
+    "title": "Logo-Swap Merchandise Standardization / 标识替换式商品标准化",
+    "url": "/wiki/concepts/logoswapmerchandisestandardization/"
+  },
   "LoisWeber": {
     "title": "Lois Weber / 洛伊斯·韦伯",
     "url": "/wiki/entities/loisweber/"
@@ -38575,6 +38643,10 @@
     "title": "马浩宁 / Ma Haoning",
     "url": "/wiki/entities/mahaoning/"
   },
+  "MaHeluoWesternHan": {
+    "title": "马何罗 / Ma Heluo (Western Han)",
+    "url": "/wiki/entities/maheluowesternhan/"
+  },
   "MaJianrong": {
     "title": "Ma Jianrong / 马建荣",
     "url": "/wiki/entities/majianrong/"
@@ -38607,9 +38679,17 @@
     "title": "马腾 / Ma Teng",
     "url": "/wiki/entities/mateng/"
   },
+  "MaTongWesternHan": {
+    "title": "马通 / Ma Tong (Western Han)",
+    "url": "/wiki/entities/matongwesternhan/"
+  },
   "MaWangDengji": {
     "title": "《马王登基》",
     "url": "/wiki/entities/mawangdengji/"
+  },
+  "MaWangye": {
+    "title": "马王爷 / Ma Wangye",
+    "url": "/wiki/entities/mawangye/"
   },
   "MaWuEasternHan": {
     "title": "马武 / Ma Wu (Eastern Han)",
@@ -42735,6 +42815,10 @@
     "title": "National City Bank / 国民城市银行",
     "url": "/wiki/entities/nationalcitybank/"
   },
+  "NationalCollegiateAthleticAssociation": {
+    "title": "National Collegiate Athletic Association / NCAA",
+    "url": "/wiki/entities/nationalcollegiateathleticassociation/"
+  },
   "NationalCommitteeForAdministrationOfGaza": {
     "title": "National Committee for Administration of Gaza",
     "url": "/wiki/entities/nationalcommitteeforadministrationofgaza/"
@@ -45599,6 +45683,10 @@
     "title": "宫廷近身权力 / Palace Proximity Power",
     "url": "/wiki/concepts/palaceproximitypower/"
   },
+  "PalaceProximityVigilance": {
+    "title": "Palace Proximity Vigilance / 近侍警觉",
+    "url": "/wiki/concepts/palaceproximityvigilance/"
+  },
   "PalaceScandalPowerConsolidation": {
     "title": "Palace Scandal Power Consolidation / 宫廷丑闻式收权",
     "url": "/wiki/concepts/palacescandalpowerconsolidation/"
@@ -46366,6 +46454,10 @@
   "PennsylvaniaAIInfrastructureBoom": {
     "title": "Pennsylvania AI Infrastructure Boom",
     "url": "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
+  },
+  "PennsylvaniaExecutionGovernance": {
+    "title": "Pennsylvania Execution Governance",
+    "url": "/wiki/concepts/pennsylvaniaexecutiongovernance/"
   },
   "PennyStockBoilerRoomFraud": {
     "title": "Penny Stock Boiler Room Fraud",
@@ -48987,6 +49079,10 @@
     "title": "Psychedelic Ordinary Freedom",
     "url": "/wiki/concepts/psychedelicordinaryfreedom/"
   },
+  "PsychiatricEverydayLanguage": {
+    "title": "Psychiatric Everyday Language / 日常话语的精神病学化",
+    "url": "/wiki/concepts/psychiatriceverydaylanguage/"
+  },
   "PsychiatricFunctionalDiagnosis": {
     "title": "Psychiatric Functional Diagnosis / 精神科功能受损诊断",
     "url": "/wiki/concepts/psychiatricfunctionaldiagnosis/"
@@ -50546,6 +50642,10 @@
   "RazorUSA": {
     "title": "Razor USA",
     "url": "/wiki/entities/razorusa/"
+  },
+  "ReEnteringLifeTechEraBook": {
+    "title": "《重新回到生活：科技时代的工作、情绪、爱情和死亡》",
+    "url": "/wiki/entities/reenteringlifetecherabook/"
   },
   "ReactNative": {
     "title": "React Native",
@@ -54262,6 +54362,10 @@
   "ServiceBrandStandardization": {
     "title": "Service Brand Standardization",
     "url": "/wiki/concepts/servicebrandstandardization/"
+  },
+  "ServiceDeliveryDemocraticTrust": {
+    "title": "Service Delivery Democratic Trust",
+    "url": "/wiki/concepts/servicedeliverydemocratictrust/"
   },
   "ServiceLedRetailMoat": {
     "title": "Service-Led Retail Moat",
@@ -58011,6 +58115,10 @@
     "title": "Su Tinghao / 苏廷昊",
     "url": "/wiki/entities/sutinghao/"
   },
+  "SuWenWesternHan": {
+    "title": "苏文 / Su Wen (Western Han)",
+    "url": "/wiki/entities/suwenwesternhan/"
+  },
   "SuWuWesternHan": {
     "title": "苏武 / Su Wu (Western Han)",
     "url": "/wiki/entities/suwuwesternhan/"
@@ -59679,6 +59787,10 @@
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
   },
+  "TechnologyPhilosophy": {
+    "title": "Technology Philosophy / 技术哲学",
+    "url": "/wiki/concepts/technologyphilosophy/"
+  },
   "TechnologyProfitLag": {
     "title": "Technology Profit Lag",
     "url": "/wiki/concepts/technologyprofitlag/"
@@ -60958,6 +61070,10 @@
   "TimUrban": {
     "title": "Tim Urban",
     "url": "/wiki/entities/timurban/"
+  },
+  "TimWalz": {
+    "title": "Tim Walz",
+    "url": "/wiki/entities/timwalz/"
   },
   "TimeAndPaydayLoanTrap": {
     "title": "Time and Payday Loan Trap / 时间与短贷陷阱",
@@ -62390,6 +62506,10 @@
   "UncertaintyToleranceResilience": {
     "title": "Uncertainty Tolerance Resilience",
     "url": "/wiki/concepts/uncertaintytoleranceresilience/"
+  },
+  "UndefinedWarObjectives": {
+    "title": "Undefined War Objectives",
+    "url": "/wiki/concepts/undefinedwarobjectives/"
   },
   "UndergraduateArtFieldwork": {
     "title": "Undergraduate Art Fieldwork / 本科艺术田野",
@@ -64122,6 +64242,10 @@
   "WangXiaoshu": {
     "title": "王小叔",
     "url": "/wiki/entities/wangxiaoshu/"
+  },
+  "WangXiaowei": {
+    "title": "王小伟 / Wang Xiaowei",
+    "url": "/wiki/entities/wangxiaowei/"
   },
   "WangXing": {
     "title": "王兴 / Wang Xing",
@@ -71535,6 +71659,10 @@
     "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
   },
+  "all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740": {
+    "title": "Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740/"
+  },
   "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640": {
     "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640/"
@@ -74815,6 +74943,10 @@
     "title": "Founder Mode: Sajith Wickramasekara, Founder & CEO, Benchling",
     "url": "/wiki/sources/tsr-ycoffsite-sajith-v2final-audio-tsr-ycoffsite-sajith-v2final-audio/"
   },
+  "tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166": {
+    "title": "图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？",
+    "url": "/wiki/sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166/"
+  },
   "tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655": {
     "title": "【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光",
     "url": "/wiki/sources/tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655/"
@@ -75398,6 +75530,10 @@
   "zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062": {
     "title": "在非洲卖快餐，为什么肯德基比麦当劳更吃得开？",
     "url": "/wiki/sources/zai-feizhou-mai-kuaican-weishenme-kendeji-bi-maidanglao-geng-chidekai-1010601062/"
+  },
+  "zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu": {
+    "title": "在科技时代，重新理解我们的爱、工作与生活",
+    "url": "/wiki/sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu/"
   },
   "zai-wuhui-zhuizong-mianqian-zhuatewu-suan-shenme-jiantan-fengxiaogang-de-yansu-yimian-gkwriw4oefk6bnp1eqsshjxf": {
     "title": "在《无悔追踪》面前，《抓特务》算什么？兼谈冯小刚的严肃一面",
@@ -76094,6 +76230,26 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m": {
+    "title": "《资治通鉴·汉纪》390-1｜西汉第一大案，金日磾如何救了汉武帝性命？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m/"
+  },
+  "zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt": {
+    "title": "《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt/"
+  },
+  "zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg": {
+    "title": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg/"
+  },
+  "zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm": {
+    "title": "《资治通鉴·汉纪》391-2｜揭秘汉武帝死前任命的“托孤大臣”",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm/"
+  },
+  "zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa": {
+    "title": "《资治通鉴·汉纪》391-3｜宋襄公究竟是贵族精神的典范？还是蠢猪式仁义？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-391-3-songxianggong-jiujing-shi-guizu-jingshen-de-dianfan-haishi-chunzhu-shi-renyi-ls1asgu-xacg0udwbphhhkbjqzoa/"
   },
   "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds": {
     "title": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！",

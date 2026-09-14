@@ -149,8 +149,8 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Kills Everybody or Doomer Psyop？ OpenAI’s Math Breakthrough, Nike’s $200B Collapse [42880265].md",
-      "source_note_count": 57,
-      "topic_matched_source_note_count": 53,
+      "source_note_count": 58,
+      "topic_matched_source_note_count": 54,
       "topics": [
         {
           "key": "technology",
@@ -168,7 +168,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "science",
@@ -1365,9 +1365,16 @@
       "earliest_episode_date": "2026-08-28",
       "latest_episode_date": "2026-09-14",
       "latest_episode_file": "ljJRm6_OvwduOUAecvyMKBeyUvuq [ljJRm6_OvwduOUAecvyMKBeyUvuq].md",
-      "source_note_count": 3,
-      "topic_matched_source_note_count": 0,
-      "topics": [],
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 1,
+      "topics": [
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
+        }
+      ],
       "entities": [],
       "start_here_episode_files": [
         "ljJRm6_OvwduOUAecvyMKBeyUvuq [ljJRm6_OvwduOUAecvyMKBeyUvuq].md",
@@ -1860,7 +1867,7 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-09-13",
       "latest_episode_file": "图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？ [1014464166].md",
-      "source_note_count": 31,
+      "source_note_count": 32,
       "topic_matched_source_note_count": 19,
       "topics": [
         {
@@ -2957,14 +2964,14 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 1018,
-      "topic_matched_source_note_count": 372,
+      "source_note_count": 1023,
+      "topic_matched_source_note_count": 373,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 290
+          "source_note_count": 291
         },
         {
           "key": "politics",

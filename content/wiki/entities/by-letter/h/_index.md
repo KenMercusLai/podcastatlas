@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10059
+wiki_total_pages: 10075
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "HomeDepot"
     title: "Home Depot"
     url: "/wiki/entities/homedepot/"
+  - key: "HomeFieldApparel"
+    title: "Home Field Apparel"
+    url: "/wiki/entities/homefieldapparel/"
   - key: "HomeInns"
     title: "Home Inns"
     url: "/wiki/entities/homeinns/"
@@ -758,6 +761,9 @@ wiki_pages:
   - key: "HyattHotels"
     title: "Hyatt Hotels"
     url: "/wiki/entities/hyatthotels/"
+  - key: "HypenVice"
+    title: "Hypen Vice"
+    url: "/wiki/entities/hypenvice/"
   - key: "HyperAgent"
     title: "Hyper Agent"
     url: "/wiki/entities/hyperagent/"

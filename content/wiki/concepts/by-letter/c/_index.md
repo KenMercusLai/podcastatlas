@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7388
+wiki_total_pages: 7403
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "CampusConservativeMediaNetwork"
     title: "Campus Conservative Media Network"
     url: "/wiki/concepts/campusconservativemedianetwork/"
+  - key: "CampusCulturalCreativeCommercialization"
+    title: "Campus Cultural-Creative Commercialization / 高校文创商业化"
+    url: "/wiki/concepts/campusculturalcreativecommercialization/"
   - key: "CampusNightClimbing"
     title: "Campus Night Climbing"
     url: "/wiki/concepts/campusnightclimbing/"
@@ -1121,12 +1124,18 @@ wiki_pages:
   - key: "CollegeCareerPreparation"
     title: "College Career Preparation"
     url: "/wiki/concepts/collegecareerpreparation/"
+  - key: "CollegeLogoLicensingMerchandise"
+    title: "College Logo Licensing Merchandise / 大学校名校徽授权商品"
+    url: "/wiki/concepts/collegelogolicensingmerchandise/"
   - key: "CollegeMajorChoice"
     title: "College Major Choice"
     url: "/wiki/concepts/collegemajorchoice/"
   - key: "CollegeProgramEarningsAccountability"
     title: "College Program Earnings Accountability"
     url: "/wiki/concepts/collegeprogramearningsaccountability/"
+  - key: "CollegeSportsFandomDemand"
+    title: "College Sports Fandom Demand / 大学体育球迷需求"
+    url: "/wiki/concepts/collegesportsfandomdemand/"
   - key: "ColocationDataCenter"
     title: "Colocation Data Center"
     url: "/wiki/concepts/colocationdatacenter/"

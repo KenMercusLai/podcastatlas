@@ -15,13 +15,15 @@ sources:
   - zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui
   - zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9
   - zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa
+  - zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm
+  - zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg
 last_updated: 2026-09-14
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Emperor Wu of Han / 汉武帝 is a Western Han ruler whose current wiki profile spans frontier war, Western Regions expansion, commercial and fiscal extraction, court advice risk, calendar standardization, imperial grandeur, fangshu consumption, the Wugu panic, imperial ideology, and severe law against close kin. Hanji 392-1 now adds the royal-family legal test: Wudi refuses to spare [[ZhaoPingjunWesternHan|赵平君]], even though Zhao is both nephew and son-in-law and [[LongluePrincessWesternHan|隆虑公主]] had paid for future leniency.
+Emperor Wu of Han / 汉武帝 is a Western Han ruler whose current wiki profile spans frontier war, Western Regions expansion, commercial and fiscal extraction, court advice risk, calendar standardization, imperial grandeur, fangshu consumption, the Wugu panic, imperial ideology, severe law against close kin, and final succession design. Hanji 391-1 and Hanji 391-2 now sharpen the deathbed transition layer: Wudi kills [[LadyGouyiWesternHan|钩弋夫人]] before making young [[EmperorZhaoOfHan|刘弗陵]] crown prince, then entrusts him to [[HuoGuangWesternHan|霍光]] and other sickbed ministers.
 
 ## Current Profile
 
@@ -43,6 +45,8 @@ Hanji 392-4 adds the ideological architecture branch. The episode argues that Ha
 
 Hanji 392-1 adds the kinship-law branch. [[LongluePrincessWesternHan|隆虑公主]]'s deathbed payment and plea give Wudi a private reason to exempt [[ZhaoPingjunWesternHan|赵平君]], but Zhao's killing of an attendant makes the case public. Wudi weeps over his sister's request yet says ancestral law cannot be broken for private affection; [[DongfangShuo|东方朔]] then praises the decision as punishment that does not distinguish bone-and-flesh kin.
 
+Hanji 391-1 and Hanji 391-2 add the final-transfer branch. Hanji 391-1 explains the precondition: Wudi kills Lady Gouyi before Liu Fuling's accession, publicly citing the danger of a young ruler and strong mother and source-scopedly linking her to Liu Ju's destruction. Hanji 391-2 then shows the formal transfer: in 87 BCE, as illness worsens, Wudi names Liu Fuling heir and gives Huo Guang a Zhou Gong-like assisting role. The same source names Jin Midi, Shangguan Jie, and Sang Hongyang in the entrusted-minister field, making Wudi's last act less a simple heir designation than an attempt to pair a child successor with both maternal-risk removal and a carefully selected regency structure.
+
 ## Key Characteristics
 
 - Wealth-backed offensive ruler whose anti-Xiongnu campaigns and Western Regions-Hexi program end the heqin-dominant phase but are costly enough to require later reassessment.
@@ -51,7 +55,7 @@ Hanji 392-1 adds the kinship-law branch. [[LongluePrincessWesternHan|隆虑公�
 - Ruler whose preferences create advice risk for ministers trying to preserve agency inside impossible priority demands.
 - Imperial religious consumer whose fangshu patronage becomes fiscal, political, and succession danger.
 - Calendar-standardization and talent-channel anchor for Yuan Dan festival layering, political legitimacy, and source-scoped official selection beyond hereditary office families.
-- Ideological state-builder and negative fiscal-moral example whose Confucian turn is read by Hanji 392-4 as "outer Confucian, inner Legalist" renovation of Qin-style imperial structure, while Hanji 392-1 shows law overriding sibling and marital kinship.
+- Ideological state-builder and negative fiscal-moral example whose Confucian turn is read by Hanji 392-4 as "outer Confucian, inner Legalist" renovation of Qin-style imperial structure, while Hanji 392-1 shows law overriding sibling and marital kinship and Hanji 391-1/391-2 show a final child-heir succession design built around mother-risk removal and entrusted ministers.
 
 ## Evidence
 
@@ -66,17 +70,20 @@ Hanji 392-1 adds the kinship-law branch. [[LongluePrincessWesternHan|隆虑公�
 - Talent-channel opening: [[zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym|Hanji 400-2]] says Han Wudi used ability-oriented selection and local recommendation to recruit figures outside hereditary official families.
 - Ideological renovation: [[zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9|Hanji 392-4]] reads Han Wudi's "独尊儒术" as a Confucian moral surface over a Legalist imperial structure, mediated by Dong Zhongshu's Heaven-response theory.
 - Kinship-law severity: [[zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa|Hanji 392-1]] says Han Wudi approves Zhao Pingjun's execution despite Longlü Princess's paid plea, because ancestral law and public legitimacy must not yield to private family affection.
+- Mother-risk removal: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says Han Wudi kills Lady Gouyi before making Liu Fuling heir, publicly explaining that child rulers and strong mothers can disorder the realm.
+- Hidden Wugu explanation: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] source-scopedly claims Lady Gouyi helped frame Liu Ju, while Han Wudi suppresses that reason to protect Liu Fuling's legitimacy.
+- Final succession design: [[zizhi-tongjian-hanji-391-2-jiemi-hanwudi-siqian-renming-de-tuogu-dachen-fnit0yqfd43fqfhyyzuwm_b932dm|Hanji 391-2]] says Han Wudi names Liu Fuling crown prince, asks Huo Guang to assist like Zhou Gong, and has Huo Guang, Jin Midi, Shangguan Jie, and Sang Hongyang receive sickbed responsibility for the young ruler.
 
 ## Qualifications
 
-This page remains a bounded wiki profile rather than a complete biography of Han Wudi. Hanji 841's reproductive-attrition interpretation is morally severe and source-scoped; it should not be treated as the whole explanation for Han-Xiongnu war. Hanji 723's Ban Gu layer likewise does not deny the strategic rationale of Western Regions expansion; it adds the cost and timing qualification that later makes Liu Xiu's restraint legible. Hanji 396-3 gives a compact anti-merchant and anti-monopoly reading, not a complete institutional history of 算缗, 告缗, salt, iron, liquor, tea, currency, or regional enforcement. Hanji 392-4 gives a compact "外儒内法" ideological reading, not a full textual history of Dong Zhongshu, early Confucianism, Han Fei, or official Han Confucianism. Hanji 392-1 gives a morally admiring account of Wudi's legal severity, but it does not by itself settle how consistently royal kin were punished across the reign. Episode 87's fangshu and Wugu material comes from a different podcast source and should be read as a thematic branch, not as evidence for every military decision. Hanji 400-2's claim about talent selection and 察举 is recorded as the episode's comparative account, not as a full institutional history of Western Han appointment systems.
+This page remains a bounded wiki profile rather than a complete biography of Han Wudi. Hanji 841's reproductive-attrition interpretation is morally severe and source-scoped; it should not be treated as the whole explanation for Han-Xiongnu war. Hanji 723's Ban Gu layer likewise does not deny the strategic rationale of Western Regions expansion; it adds the cost and timing qualification that later makes Liu Xiu's restraint legible. Hanji 396-3 gives a compact anti-merchant and anti-monopoly reading, not a complete institutional history of 算缗, 告缗, salt, iron, liquor, tea, currency, or regional enforcement. Hanji 392-4 gives a compact "外儒内法" ideological reading, not a full textual history of Dong Zhongshu, early Confucianism, Han Fei, or official Han Confucianism. Hanji 392-1 gives a morally admiring account of Wudi's legal severity, but it does not by itself settle how consistently royal kin were punished across the reign. Hanji 391-1 adds the Lady Gouyi killing and hidden-Wugu interpretation, but the claim that she was the true mover behind Liu Ju's destruction remains source-scoped. Hanji 391-2 adds the final regency arrangement, not a full study of the testamentary edict or every entrusted minister's later faction. Episode 87's fangshu and Wugu material comes from a different podcast source and should be read as a thematic branch, not as evidence for every military decision. Hanji 400-2's claim about talent selection and 察举 is recorded as the episode's comparative account, not as a full institutional history of Western Han appointment systems.
 
 ## What Changed
 
 - Added Hanji 841's spring anti-Xiongnu reproductive and livestock attrition reading and Hanji 723's Ban Gu comparison of Western Regions strategy, fiscal extraction, and Luntai self-criticism.
 - Added Hanji 396-3's commercial-extraction layer around monopoly, 算缗, and 告缗.
 - Added Hanji 392-4's official-Confucianism and "外儒内法" ideological layer.
-- Added Hanji 392-1's kinship-law severity case through Zhao Pingjun and Longlü Princess.
+- Added Hanji 391-1 and Hanji 391-2's final succession design around Lady Gouyi's death, Liu Fuling, Huo Guang, and the entrusted-minister structure.
 - Integrated the military, advice-risk, calendar, palace, fangshu, Wugu, talent-selection, commerce, ideology, and family-law branches into one current profile.
 
 ## Relationships
@@ -106,3 +113,8 @@ This page remains a bounded wiki profile rather than a complete biography of Han
 - [[ZhaoPingjunWesternHan|赵平君]] - nephew and son-in-law whose execution adds the kinship-law severity branch.
 - [[LongluePrincessWesternHan|隆虑公主]] - sister whose deathbed plea creates the source's private-affection pressure.
 - [[RuleOverKinshipPower|法度压过亲缘特权]] - governance frame for Wudi refusing to let royal kinship override ancestral law.
+- [[HuoGuangWesternHan]] - trusted minister to whom Wudi assigns a Zhou Gong-like regency role for Liu Fuling.
+- [[EmperorZhaoOfHan]] - youngest son chosen as heir in Wudi's final succession arrangement.
+- [[LadyGouyiWesternHan]] - Liu Fuling's mother, killed before accession under Hanji 391-1's public mother-risk rationale and source-scoped hidden-Wugu explanation.
+- [[MaternalStatusSuccessionLeverage]] - inverted by the "son rises, mother dies" logic in Hanji 391-1.
+- [[HaremSuccessionRiskControl]] - concept for the lethal pre-accession management of mother-regent risk.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7388
+wiki_total_pages: 7403
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "ExecutivePowerPrecedent"
     title: "Executive Power Precedent"
     url: "/wiki/concepts/executivepowerprecedent/"
+  - key: "ExecutiveWarPowersBreakdown"
+    title: "Executive War Powers Breakdown"
+    url: "/wiki/concepts/executivewarpowersbreakdown/"
   - key: "ExecutorCharacterAdviceRisk"
     title: "Executor Character Advice Risk"
     url: "/wiki/concepts/executorcharacteradvicerisk/"

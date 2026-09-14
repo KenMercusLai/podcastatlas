@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10059
+wiki_total_pages: 10075
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "ColleenKirk"
     title: "Colleen Kirk"
     url: "/wiki/entities/colleenkirk/"
+  - key: "CollegiateLicensingCompany"
+    title: "Collegiate Licensing Company / CLC"
+    url: "/wiki/entities/collegiatelicensingcompany/"
   - key: "Colombia"
     title: "Colombia"
     url: "/wiki/entities/colombia/"

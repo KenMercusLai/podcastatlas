@@ -6,19 +6,20 @@ sources:
   - manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez
   - cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b
   - women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up
+  - zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-08
+last_updated: 2026-09-14
 ---
 
 # 不合时宜 / Bu He Shi Yi
 
 ## Overview
-不合时宜 / Bu He Shi Yi is the Chinese podcast represented in this wiki by care-series episodes on dementia, family caregiving, autism, disability, aging, appointed guardianship, and public support systems.
+不合时宜 / Bu He Shi Yi is the Chinese podcast represented in this wiki by care-series episodes on dementia, family caregiving, autism, disability, aging, appointed guardianship, public support systems, and one technology-philosophy episode on AI-era life.
 
 ## Current Profile
-The current wiki profile is source-scoped to three care-series episodes. One episode interviews [[TangYongSociologist|唐勇]] about dementia care and moves aging-related disability from private family anxiety into a public-care question involving [[CareSocialization]], [[ElderCareStateCapacity]], [[DementiaCaregiverBurden]], and [[ChinaLongTermCareInsurance]]. A second has [[WangQingBuHeShiYi|王磬]] and 若涵 interview [[XuYueAutismScholar|许悦]] about autism, the [[XiaoMeiGeneEditingCase]], disability rights, intervention, and support systems. The latest uses [[FrontWave2Documentary|《前浪2》]] and [[FanShiguang|范世广]]'s documentary method to examine older-adult life through [[AppointedGuardianshipAgingPlanning]], [[ElderIntimacyCareAutonomy]], and [[OlderAdultStereotypeResistance]].
+The current wiki profile is source-scoped to three care-series episodes plus one AI-era life conversation. One episode interviews [[TangYongSociologist|唐勇]] about dementia care and moves aging-related disability from private family anxiety into a public-care question involving [[CareSocialization]], [[ElderCareStateCapacity]], [[DementiaCaregiverBurden]], and [[ChinaLongTermCareInsurance]]. A second has [[WangQingBuHeShiYi|王磬]] and 若涵 interview [[XuYueAutismScholar|许悦]] about autism, the [[XiaoMeiGeneEditingCase]], disability rights, intervention, and support systems. A third uses [[FrontWave2Documentary|《前浪2》]] and [[FanShiguang|范世广]]'s documentary method to examine older-adult life through [[AppointedGuardianshipAgingPlanning]], [[ElderIntimacyCareAutonomy]], and [[OlderAdultStereotypeResistance]]. The latest interviews [[WangXiaowei|王小伟]] about [[ReEnteringLifeTechEraBook|《重新回到生活：科技时代的工作、情绪、爱情和死亡》]], extending the show profile into [[TechnologyPhilosophy]], AI intimacy, work meaning, emotion language, and [[AIJudgmentInfrastructure]].
 
-Together, the show profile now reads as a public-issue interview format that uses concrete family care and aging cases to ask when society shifts burdens onto individuals and when institutions, language, law, media representation, and professional systems must share responsibility.
+Together, the show profile now reads as a public-issue interview format that uses concrete family care, aging, disability, and technology cases to ask when society shifts burdens onto individuals and when institutions, language, law, media representation, professional systems, and technical infrastructures must share responsibility.
 
 ## Key Characteristics
 - Public-issue interview format that combines macro data, academic expertise, lived family pressure, and concrete care cases.
@@ -27,6 +28,7 @@ Together, the show profile now reads as a public-issue interview format that use
 - Keeps the cared-for person visible as a subject whose dignity, preferences, future, and support needs matter.
 - Treats law, media representation, and public language as part of care infrastructure when families and institutions shape vulnerable lives.
 - Uses cross-system examples from China, Japan, the Netherlands, the United States, and community organizations without presenting any model as fully solved.
+- Extends care and public-language concerns into AI-era life by asking how technology reshapes intimacy, judgment, work time, and ordinary support networks.
 
 ## Evidence
 - Dementia-care scope - [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] introduces the show through a conversation with Tang Yong about China aging, dementia, family caregivers, Shenzhen services, and overseas dementia-care examples.
@@ -35,13 +37,14 @@ Together, the show profile now reads as a public-issue interview format that use
 - Subject and dignity frame - both [[manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez]] and [[cong-jiyin-bianji-nvtong-zhisi-shuoqi-zibizheng-bushi-xuyao-bei-xiufu-de-cuowu-lg7dofyeqv-7noq9w74oh6hsyk4b]] resist reducing care recipients to diagnoses, burdens, or objects of family sacrifice.
 - Aging and guardianship scope - [[women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up]] extends the care-series profile through 《前浪2》, appointed guardianship, solitary elders, non-kin care, late-life companionship, elder scams, and Shanghai local practice.
 - Media representation and specificity - [[women-ruhe-laoqu-cong-qianlang2-kuijian-zhongguo-laonian-shenghuo-de-zhenshi-tujing-lkybur9dgim4vxxyjuq1eav4i-up]] adds documentary restraint and anti-stereotype aging representation as part of seeing care recipients as concrete subjects.
+- AI-era life scope - [[zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu]] extends the show's represented range from care systems into technology philosophy, AI companionship, work fatigue, psychiatricized everyday language, and model-mediated judgment.
 
 ## Qualifications
-The wiki still represents the show through a narrow care-series slice. Its broader editorial identity, full host roster, political range, audience, and non-care topics remain outside the current evidence.
+The wiki still represents the show through a narrow slice: three care-system episodes and one technology-philosophy conversation. Its broader editorial identity, full host roster, political range, audience, and many non-care topics remain outside the current evidence.
 
 ## What Changed
-- Added the 《前浪2》 aging-documentary episode to the show's care-series profile.
-- Expanded the show profile from dementia, autism, and disability support into appointed guardianship, elder intimacy, documentary ethics, and anti-ageist representation.
+- Added the Wang Xiaowei AI-era life conversation to the show's represented range.
+- Expanded the show profile from care and aging into technology philosophy, AI companionship, model-mediated judgment, and ordinary-life resistance to optimization.
 
 ## Relationships
 - [[TangYongSociologist]] - dementia-care guest in the represented source set.
@@ -53,4 +56,8 @@ The wiki still represents the show through a narrow care-series slice. Its broad
 - [[FrontWave2Documentary]] - documentary anchor for the aging and guardianship episode.
 - [[AppointedGuardianshipAgingPlanning]] - legal-planning concept developed through the latest episode.
 - [[DocumentaryEthicalRestraint]] - media-ethics concept developed through the latest episode.
+- [[WangXiaowei]] - technology-philosophy guest in the latest represented source.
+- [[ReEnteringLifeTechEraBook]] - book anchor for the latest represented source.
+- [[TechnologyPhilosophy]] - AI-era life-world frame developed through the latest represented source.
+- [[AIJudgmentInfrastructure]] - model-mediated judgment concept developed through the latest represented source.
 - [[Xiaoyuzhou]] - platform context from the source metadata.

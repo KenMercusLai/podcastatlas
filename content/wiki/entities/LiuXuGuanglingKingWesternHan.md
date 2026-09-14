@@ -2,37 +2,40 @@
 title: "广陵王刘须 / Liu Xu, Guangling King (Western Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [western-han, royal-kin, treason, witchcraft]
+tags: [western-han, royal-kin, treason, witchcraft, succession]
 sources:
   - zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5
   - zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv
   - zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs
+  - zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt
 last_updated: 2026-09-14
 ---
 
 ## Overview
 
-广陵王刘须 / Liu Xu, Guangling King enters the wiki through [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] as [[HanWudi|汉武帝]]'s fourth son and the first Guangling king. That episode uses him as a royal-kin cautionary figure: he wants imperial power but lacks the courage for direct contention, repeatedly shifts desire into witchcraft curses, and finally destroys himself after the curse network is exposed under [[EmperorXuanOfHan|汉宣帝]]. [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] adds the earlier succession-selection layer after [[EmperorZhaoOfHan|汉昭帝刘弗陵]] dies childless: Liu Xu has strong bloodline plausibility, but [[HuoGuangWesternHan|霍光]] rejects him because an adult, forceful prince would be hard to control. [[zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv|Hanji 417]] adds a later political exposure layer in which [[LiuYanshouChuKingWesternHan|楚王刘延寿]] tries to recruit Liu Xu into a succession plot, but Xuan responds with reassurance and gifts rather than immediate punishment.
+广陵王刘须 / Liu Xu, Guangling King enters the wiki through [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] as [[HanWudi|汉武帝]]'s fourth son and the first Guangling king. That episode uses him as a royal-kin cautionary figure: he wants imperial power but lacks the courage for direct contention, repeatedly shifts desire into witchcraft curses, and finally destroys himself after the curse network is exposed under [[EmperorXuanOfHan|汉宣帝]]. [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] now adds the earlier late-Wudi exclusion layer: Liu Xu is already presented as behaviorally unfit before [[EmperorZhaoOfHan|刘弗陵]] is selected. [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] adds the later succession-selection layer after Han Zhao dies childless: Liu Xu has strong bloodline plausibility, but [[HuoGuangWesternHan|霍光]] rejects him because an adult, forceful prince would be hard to control. [[zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv|Hanji 417]] adds a later political exposure layer in which [[LiuYanshouChuKingWesternHan|楚王刘延寿]] tries to recruit Liu Xu into a succession plot, but Xuan responds with reassurance and gifts rather than immediate punishment.
 
 ## Current Profile
 
-The source set portrays Liu Xu as physically imposing but politically unstable. Han Wudi is said to judge him unfit for succession because indulgence, lawlessness, and a fondness for fighting beasts would quickly damage the state. Hanji 404 shows that this did not make him irrelevant after Han Zhao's death: ministers could regard him as a bloodline-appropriate candidate, but Huo Guang prefers not to elevate a strong adult prince who might endanger the regent and his family. After being left aside, Liu Xu still covets the throne but avoids open action, unlike the episode's contrast with the Yan-king style of direct claim.
+The source set portrays Liu Xu as physically imposing, succession-plausible, and politically unstable. Hanji 390-2 and Hanji 456-1 agree that Han Wudi sees him as unfit before the late-Wudi succession settlement: his conduct violates court expectations, and his pleasure-seeking includes watching beasts fight to the death. Hanji 404 shows that this did not make him irrelevant after Han Zhao's death. Ministers could regard him as a bloodline-appropriate candidate, but Huo Guang prefers not to elevate a strong adult prince who might endanger the regent and his family. After being left aside, Liu Xu still covets the throne but avoids open action, unlike the Yan-king style of direct claim.
 
 Hanji 417 supplies the first visible implicated-treason scare. Liu Yanshou wants a claimant with closer imperial descent, sends a message to Liu Xu, and dies by suicide after the plan is reported. Xuan confirms Liu Xu's private contact with Liu Yanshou but chooses containment through gifts. Hanji 456-1 then makes Liu Xu's recurring method [[RoyalWitchcraftSuccessionDelusion|royal-kin witchcraft succession delusion]]. He employs the Chu witch Li Nuxu to curse Liu Fuling; when Liu Fuling dies, Liu Xu reads coincidence as efficacy. Liu He's short reign and removal then reinforces the same belief. Against Xuan, Liu Xu is first spared after an implicated-treason scare, but after his son Liu Bao is punished and his own territory is cut, resentment revives the curse pattern. The final investigation leads him to poison witches and more than twenty palace women, destroy ritual objects, and commit suicide when capture becomes unavoidable.
 
 ## Key Characteristics
 
 - Western Han royal kinsman and first Guangling king whose princely status keeps him close enough to succession politics to be considered, rejected, and later imagined as a claimant.
-- Physically strong and pleasure-seeking figure whom the episode presents as politically unfit in Han Wudi's eyes.
+- Physically strong and pleasure-seeking figure whom the sources present as politically unfit in Han Wudi's eyes.
+- Early excluded prince whose improper conduct makes seniority insufficient before Liu Fuling's selection.
+- Adult royal alternative whom Huo Guang later rejects as too hard to control after Han Zhao dies without a son.
 - Ambitious but fearful prince who prefers secret ritual harm to open rebellion or institutional claim-making.
 - Politically useful claimant for more distant royal kin because his descent from Han Wudi makes him more plausible than Liu Yanshou.
-- Superstitious political actor who mistakes Liu Fuling's death and Liu He's deposition as proof that curses decide succession.
-- Resentful royal household head whose son's crimes, loss of title, and territorial削夺 revive hostility toward Xuan.
 - Final exposed offender who turns evidence suppression into mass poisoning and then suicide.
 
 ## Evidence
 
 Succession status and unfitness:
+- [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] says Liu Xu is Liu Dan's younger brother, violates court norms, lives indulgently, and likes watching beasts fight to the death.
+- [[zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt|Hanji 390-2]] uses Liu Dan and Liu Xu together to explain why Han Wudi does not simply choose an older surviving son as crown prince.
 - [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] says Liu Xu is considered after Han Zhao dies childless because he is a surviving son of Han Wudi.
 - [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] says Huo Guang rejects Liu Xu because he is adult, forceful, and hard to control.
 - [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu is Han Wudi's fourth son and first Guangling king.
@@ -55,20 +58,20 @@ Final collapse:
 
 ## Qualifications
 
-This page remains bounded to compact podcast sources. It does not reconstruct Liu Xu's full genealogy, all legal proceedings, the exact court debate after Han Zhao's death, the exact textual names behind Li Nuxu, Liu Bao's complete case record, or the full chronology of Liu Xu's fief. Hanji 404, Hanji 417, and Hanji 456-1 emphasize different parts of one long exposure: succession plausibility, later treason contact, and curse-driven collapse. The episodes' interpretation of Liu Xu's psychology is preserved as source-backed reading, not independent diagnosis.
+This page remains bounded to compact podcast sources. It does not reconstruct Liu Xu's full genealogy, all legal proceedings, the exact court debate after Han Zhao's death, the exact textual names behind Li Nuxu, Liu Bao's complete case record, or the full chronology of Liu Xu's fief. Hanji 390-2, Hanji 404, Hanji 417, and Hanji 456-1 emphasize different parts of one long exposure: late-Wudi exclusion, succession plausibility, later treason contact, and curse-driven collapse. The episodes' interpretation of Liu Xu's psychology is preserved as source-backed reading, not independent diagnosis.
 
 ## What Changed
 
-- Added Hanji 404's earlier rejection layer: Liu Xu was succession-plausible after Han Zhao died, but Huo Guang avoided him as too adult and difficult to control.
-- Preserved Hanji 417's Liu Yanshou plot layer, clarifying why Liu Xu's closer imperial descent made him a useful claimant and why Xuan first chose containment.
+- Added Hanji 390-2's late-Wudi exclusion layer, showing Liu Xu as already ruled out before Liu Fuling's selection because conduct and political fitness outweighed seniority.
+- Preserved Hanji 404's later rejection layer: Liu Xu was succession-plausible after Han Zhao died, but Huo Guang avoided him as too adult and difficult to control.
 
 ## Relationships
 
 - [[HanWudi]] - father whose succession judgment frames Liu Xu as unfit.
-- [[EmperorZhaoOfHan]] - predecessor whose childless death brings Liu Xu into the successor-choice field.
+- [[EmperorZhaoOfHan]] - successor chosen over Liu Xu and later predecessor whose childless death brings Liu Xu back into the successor-choice field.
 - [[HuoGuangWesternHan]] - regent who rejects Liu Xu as too difficult to control.
+- [[LiuDanYanKingWesternHan]] - older brother and parallel excluded royal claimant in the late-Wudi source.
 - [[EmperorXuanOfHan]] - ruler who first spares Liu Xu and later presides over the exposed curse case.
 - [[LiuYanshouChuKingWesternHan|楚王刘延寿]] - distant royal-kin conspirator who tries to recruit Liu Xu as the plausible claimant.
 - [[RoyalWitchcraftSuccessionDelusion]] - core pattern connecting Liu Xu's ambition, fear, superstition, and self-destruction.
 - [[RoyalKinTreasonLawBoundary]] - broader legal-political boundary around royal-kin treason suspicion and containment.
-- [[WesternHanDynasty]] - dynastic setting where royal-kin succession anxiety and legal punishment intersect.

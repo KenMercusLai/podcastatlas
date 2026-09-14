@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe
   - zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp
   - zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs
+  - zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg
 last_updated: 2026-09-14
 ---
 
 ## Definition
 
-Harem succession risk control / 后宫继承风险控制 is the attempt to manage ruler desire, consort hierarchy, sexual access, and childbearing as public political risks before they produce jealousy, rival heirs, succession vacuum, or factional disorder.
+Harem succession risk control / 后宫继承风险控制 is the attempt to manage ruler desire, consort hierarchy, sexual access, childbearing, and maternal power as public political risks before they produce jealousy, rival heirs, succession vacuum, mother-regent dominance, or factional disorder.
 
 ## Current Synthesis
 
@@ -27,6 +28,8 @@ The Yuan-era warning version also does not require a numerical harem rule. In [[
 
 Hanji 404 adds the coercive regent-centered variant. [[HuoGuangWesternHan|霍光]]'s intervention in [[EmperorZhaoOfHan|汉昭帝刘弗陵]]'s harem is not a ministerial proposal for orderly limits; it is the use of regent power to favor [[ShangguanTaihouWesternHan|上官皇后]]'s childbearing prospects and prevent other women from producing a rival heir. The source treats this as politically consequential even while rejecting the stronger claim that Huo directly murdered Han Zhao.
 
+Hanji 391-1 adds an earlier and more lethal pre-accession variant. [[HanWudi|汉武帝]] kills [[LadyGouyiWesternHan|钩弋夫人]] before making her son [[EmperorZhaoOfHan|刘弗陵]] heir. The public rationale is not sexual access or heir production but the future risk of a young ruler with a young strong mother; the source uses [[LuZhi|吕雉]] as the warning precedent. This makes harem succession control capable of operating before accession by eliminating a mother whose status would otherwise rise with the child heir.
+
 ## Key Claims
 
 - Ruler sexuality becomes a state problem when childbearing, palace hierarchy, sexual access, and heir recognition depend on it.
@@ -35,7 +38,7 @@ Hanji 404 adds the coercive regent-centered variant. [[HuoGuangWesternHan|霍光
 - Even without a formal rule proposal, ministers can frame consort favor and household intimacy as succession-risk management.
 - Early timing matters: regulation is easier before favorites, jealousies, and succession expectations become entrenched.
 - Consort hierarchy can generate rival stability arguments rather than one obvious heir answer.
-- Control can be protective, advisory, or coercive; the same succession-risk logic can preserve an heir, limit a ruler, or serve a regent's family interest.
+- Control can be protective, advisory, coercive, or lethal; the same succession-risk logic can preserve an heir, limit a ruler, serve a regent's family interest, or remove the heir's mother before accession.
 
 ## Evidence
 
@@ -46,17 +49,20 @@ Hanji 404 adds the coercive regent-centered variant. [[HuoGuangWesternHan|霍光
 - Foster-mother safety: [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says Wang shi's lack of favor keeps her safe and suited to raising Liu Shi without threatening him.
 - Coercive harem access: [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] says Huo Guang restricts Han Zhao's access to women so Shangguan Huanghou has no rival mother of an heir.
 - Succession vacuum: [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] says Han Zhao dies without a son, forcing succession selection among other Han Wudi descendants.
+- Mother-regent prevention: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says Han Wudi kills Lady Gouyi before Liu Fuling's accession because a weak young ruler and strong mother could destabilize the realm.
+- Precedent logic: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] uses Lu Zhi's power as the warning case behind the public explanation.
 - Rank legibility: [[zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe|Hanji 484]] says Kuang Heng warns Yuan to distinguish empress and consorts,嫡 and庶 sons, old and new attachments, and high and low rank.
 - Intimacy exposure: [[zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe|Hanji 484]] says the ruler's meals, pleasures, and closeness can be watched and exploited by bad actors.
 - Xiongnu comparative case: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] says Huhanye chooses Diaotao Mogao and arranges future transfer to Qiemo Che to stabilize the Xiongnu succession.
 
 ## Counterevidence & Qualifications
 
-Hanji 504 does not prove the nine-wives proposal was institutionally feasible in Han law; the dowager rejects it precisely because Han precedent is lacking. The source also does not show whether Huhanye's planned transfer succeeded in the long run. Hanji 427 gives a successful selection logic but not the full Wang empress biography, inner palace procedure, or every motive behind Xuan's choice. Hanji 484 does not show a completed heir change or a formal palace rule; it adds a warning about favor and rank legibility. Hanji 404 adds a coercive case, but it does not prove that harem restriction alone caused Han Zhao's childlessness or death. This concept should not absorb every harem, marriage, or favorite case: it names cases where consort access is explicitly tied to heir production, rank order, and political stability.
+Hanji 504 does not prove the nine-wives proposal was institutionally feasible in Han law; the dowager rejects it precisely because Han precedent is lacking. The source also does not show whether Huhanye's planned transfer succeeded in the long run. Hanji 427 gives a successful selection logic but not the full Wang empress biography, inner palace procedure, or every motive behind Xuan's choice. Hanji 484 does not show a completed heir change or a formal palace rule; it adds a warning about favor and rank legibility. Hanji 404 adds a coercive case, but it does not prove that harem restriction alone caused Han Zhao's childlessness or death. Hanji 391-1 adds an extreme case whose hidden-guilt claim about Lady Gouyi remains source-scoped; the public mother-regent rationale is still useful for the concept, but the episode does not settle the full historiography of Gouyi's death. This concept should not absorb every harem, marriage, or favorite case: it names cases where consort access, maternal status, or harem hierarchy is explicitly tied to heir production, rank order, and political stability.
 
 ## What Changed
 
-- Added Hanji 404's coercive regent-centered harem-access case, distinguishing it from advisory restraint and low-threat empress selection.
+- Added Hanji 391-1's lethal pre-accession mother-regent prevention case around Lady Gouyi.
+- Preserved Hanji 404's coercive regent-centered harem-access case, distinguishing it from advisory restraint and low-threat empress selection.
 - Preserved Hanji 427's Xuan-era low-threat empress selection as a non-numerical harem-succession control case.
 - Preserved Hanji 484's Yuan-era rank-legibility warning as a later non-numerical harem-succession control case.
 
@@ -65,6 +71,7 @@ Hanji 504 does not prove the nine-wives proposal was institutionally feasible in
 - [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - downstream blame pattern when harem and heir problems are interpreted through disaster signs.
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]] - adjacent risk when affection changes heir preference.
 - [[SuccessionNonDesignationRisk|未定继承人风险]] - adjacent risk when no accepted heir or process is clear.
+- [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - upstream mother-son status mechanism that Hanji 391-1 inverts by making the heir's mother dangerous.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - related frontier-marriage field around Xiongnu-Han household diplomacy.
 - [[PalaceFavorSelfRestraint|宫廷宠幸自持]] - contrast because Ban Jieyu manages favor through personal restraint rather than formal harem-number regulation.
 - [[QiongchengTaihouWesternHan|邛成太后]] - empress selected because childlessness and low favor made her safer for an established heir.

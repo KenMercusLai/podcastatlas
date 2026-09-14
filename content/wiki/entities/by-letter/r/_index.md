@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10059
+wiki_total_pages: 10075
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "RedCliffFu"
     title: "《赤壁赋》 / Red Cliff Fu"
     url: "/wiki/entities/redclifffu/"
+  - key: "ReEnteringLifeTechEraBook"
+    title: "《重新回到生活：科技时代的工作、情绪、爱情和死亡》"
+    url: "/wiki/entities/reenteringlifetecherabook/"
   - key: "RedCrownedCrane"
     title: "丹顶鹤 / Red-crowned Crane"
     url: "/wiki/entities/redcrownedcrane/"

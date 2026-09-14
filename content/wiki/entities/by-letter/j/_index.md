@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10059
+wiki_total_pages: 10075
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "JodyDeming"
     title: "Jody Deming"
     url: "/wiki/entities/jodydeming/"
+  - key: "JoeBiden"
+    title: "Joe Biden"
+    url: "/wiki/entities/joebiden/"
   - key: "JoeGebbia"
     title: "Joe Gebbia"
     url: "/wiki/entities/joegebbia/"
@@ -809,6 +812,9 @@ wiki_pages:
   - key: "JoshSchaeffer"
     title: "Josh Schaeffer"
     url: "/wiki/entities/joshschaeffer/"
+  - key: "JoshShapiro"
+    title: "Josh Shapiro"
+    url: "/wiki/entities/joshshapiro/"
   - key: "JoshSpencer"
     title: "Josh Spencer"
     url: "/wiki/entities/joshspencer/"
@@ -1151,6 +1157,9 @@ wiki_pages:
   - key: "JiangJingLateHan"
     title: "江京 / Jiang Jing (late Han)"
     url: "/wiki/entities/jiangjinglatehan/"
+  - key: "JiangChongWesternHan"
+    title: "江充 / Jiang Chong (Western Han)"
+    url: "/wiki/entities/jiangchongwesternhan/"
   - key: "JiangChengFundManager"
     title: "江城 / Jiang Cheng (Fund Manager)"
     url: "/wiki/entities/jiangchengfundmanager/"

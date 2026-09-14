@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7388
+wiki_total_pages: 7403
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "LifeSettlementPricingOpacity"
     title: "Life Settlement Pricing Opacity"
     url: "/wiki/concepts/lifesettlementpricingopacity/"
+  - key: "LifeTimeVsMachineTime"
+    title: "Life Time Versus Machine Time / 生命时间与机器时间"
+    url: "/wiki/concepts/lifetimevsmachinetime/"
   - key: "LifelongSexEducation"
     title: "Lifelong Sex Education / 终身性教育"
     url: "/wiki/concepts/lifelongsexeducation/"
@@ -581,6 +584,9 @@ wiki_pages:
   - key: "LogisticsWorkflowAutomation"
     title: "Logistics Workflow Automation"
     url: "/wiki/concepts/logisticsworkflowautomation/"
+  - key: "LogoSwapMerchandiseStandardization"
+    title: "Logo-Swap Merchandise Standardization / 标识替换式商品标准化"
+    url: "/wiki/concepts/logoswapmerchandisestandardization/"
   - key: "LongContentTimeTail"
     title: "Long Content Time Tail / 长内容时间长尾"
     url: "/wiki/concepts/longcontenttimetail/"
