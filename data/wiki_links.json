@@ -903,6 +903,10 @@
     "title": "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy",
     "url": "/wiki/sources/272-cong-feishu-jizuo-dao-agent-youxian-doubao-gongzuo-all-in-one-jinzhui-workbuddy-lqmfcnfkkhoxt440qy26vwpnvswp/"
   },
+  "273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3": {
+    "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
+    "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+  },
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
@@ -2007,6 +2011,10 @@
     "title": "AI Data Readiness",
     "url": "/wiki/concepts/aidatareadiness/"
   },
+  "AIDatabaseContextLayer": {
+    "title": "AI Database Context Layer / AI数据库上下文层",
+    "url": "/wiki/concepts/aidatabasecontextlayer/"
+  },
   "AIDeepfakeParodyBoundary": {
     "title": "AI Deepfake Parody Boundary",
     "url": "/wiki/concepts/aideepfakeparodyboundary/"
@@ -2254,6 +2262,10 @@
   "AIHardwareTradeSecretDispute": {
     "title": "AI Hardware Trade Secret Dispute",
     "url": "/wiki/concepts/aihardwaretradesecretdispute/"
+  },
+  "AIHealthAgent": {
+    "title": "AI Health Agent / AI健康智能体",
+    "url": "/wiki/concepts/aihealthagent/"
   },
   "AIHealthManagement": {
     "title": "AI Health Management",
@@ -4671,6 +4683,14 @@
     "title": "Alienated Male Violence",
     "url": "/wiki/concepts/alienatedmaleviolence/"
   },
+  "Alipay": {
+    "title": "支付宝 / Alipay",
+    "url": "/wiki/entities/alipay/"
+  },
+  "AlipayTapNetwork": {
+    "title": "支付宝碰一下 / Alipay Tap Network",
+    "url": "/wiki/entities/alipaytapnetwork/"
+  },
   "AliyunBailian": {
     "title": "Aliyun Bailian",
     "url": "/wiki/entities/aliyunbailian/"
@@ -5539,6 +5559,14 @@
     "title": "Answer Engine Optimization",
     "url": "/wiki/concepts/answerengineoptimization/"
   },
+  "AntAbao": {
+    "title": "阿宝 / Ant Abao",
+    "url": "/wiki/entities/antabao/"
+  },
+  "AntAfu": {
+    "title": "阿福 / Ant Afu",
+    "url": "/wiki/entities/antafu/"
+  },
   "AntFortune": {
     "title": "蚂蚁财富 / Ant Fortune",
     "url": "/wiki/entities/antfortune/"
@@ -5546,6 +5574,10 @@
   "AntGroup": {
     "title": "蚂蚁集团 / Ant Group",
     "url": "/wiki/entities/antgroup/"
+  },
+  "AntInternational": {
+    "title": "蚂蚁国际 / Ant International",
+    "url": "/wiki/entities/antinternational/"
   },
   "AntLingbo": {
     "title": "蚂蚁灵波 / Ant Lingbo",
@@ -9362,6 +9394,10 @@
   "Bump": {
     "title": "Bump",
     "url": "/wiki/entities/bump/"
+  },
+  "BundConference": {
+    "title": "外滩大会 / Bund Conference",
+    "url": "/wiki/entities/bundconference/"
   },
   "BundnisSahraWagenknecht": {
     "title": "Bündnis Sahra Wagenknecht / BSW",
@@ -17090,6 +17126,10 @@
   "DigitalAgriculture": {
     "title": "Digital Agriculture",
     "url": "/wiki/concepts/digitalagriculture/"
+  },
+  "DigitalAnt": {
+    "title": "蚂蚁数科 / Digital Ant",
+    "url": "/wiki/entities/digitalant/"
   },
   "DigitalBedrock": {
     "title": "Digital Bedrock",
@@ -44307,6 +44347,10 @@
     "title": "Ocean Alkalinity Enhancement",
     "url": "/wiki/concepts/oceanalkalinityenhancement/"
   },
+  "OceanBase": {
+    "title": "OceanBase",
+    "url": "/wiki/entities/oceanbase/"
+  },
   "OceanEngine": {
     "title": "Ocean Engine",
     "url": "/wiki/entities/oceanengine/"
@@ -44466,6 +44510,10 @@
   "OfflineAIImplementation": {
     "title": "Offline AI Implementation",
     "url": "/wiki/concepts/offlineaiimplementation/"
+  },
+  "OfflineAgentNetwork": {
+    "title": "Offline Agent Network / 线下智能体网络",
+    "url": "/wiki/concepts/offlineagentnetwork/"
   },
   "OfflineBackupRecoveryDrills": {
     "title": "Offline Backup Recovery Drills",
@@ -46702,6 +46750,10 @@
   "PersonalKnowledgeEcology": {
     "title": "Personal Knowledge Ecology",
     "url": "/wiki/concepts/personalknowledgeecology/"
+  },
+  "PersonalLifeAgent": {
+    "title": "Personal Life Agent / 个人生活智能体",
+    "url": "/wiki/concepts/personallifeagent/"
   },
   "PersonalPensionAccount": {
     "title": "Personal Pension Account / 个人养老金账户",

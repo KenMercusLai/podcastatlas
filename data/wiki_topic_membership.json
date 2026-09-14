@@ -1399,6 +1399,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": [
     {
       "key": "culture",
@@ -3396,6 +3403,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIDatabaseContextLayer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIDeepfakeParodyBoundary": [
     {
       "key": "technology",
@@ -3925,6 +3939,13 @@
     }
   ],
   "AIHardwareTradeSecretDispute": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AIHealthAgent": [
     {
       "key": "technology",
       "label": "Technology",
@@ -8380,6 +8401,20 @@
       "url": "/topics/technology/"
     }
   ],
+  "AntAbao": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AntAfu": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AntGroup": [
     {
       "key": "technology",
@@ -12811,6 +12846,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BundConference": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "BureauOfLaborStatistics": [
@@ -20888,6 +20930,13 @@
     }
   ],
   "DigitalAgriculture": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "DigitalAnt": [
     {
       "key": "technology",
       "label": "Technology",
@@ -49239,6 +49288,13 @@
       "url": "/topics/science/"
     }
   ],
+  "OceanBase": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "OceanHeatMonitoring": [
     {
       "key": "science",
@@ -51910,6 +51966,13 @@
     }
   ],
   "PersonalInfrastructureCostAccounting": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "PersonalLifeAgent": [
     {
       "key": "technology",
       "label": "Technology",

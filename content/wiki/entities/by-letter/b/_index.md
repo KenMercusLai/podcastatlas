@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10085
+wiki_total_pages: 10093
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "BianHe"
     title: "卞和 / Bian He"
     url: "/wiki/entities/bianhe/"
+  - key: "BundConference"
+    title: "外滩大会 / Bund Conference"
+    url: "/wiki/entities/bundconference/"
   - key: "BenHe"
     title: "奔鹤 / Ben He"
     url: "/wiki/entities/benhe/"

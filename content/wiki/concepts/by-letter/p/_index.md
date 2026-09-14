@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7412
+wiki_total_pages: 7416
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "PersonalKnowledgeEcology"
     title: "Personal Knowledge Ecology"
     url: "/wiki/concepts/personalknowledgeecology/"
+  - key: "PersonalLifeAgent"
+    title: "Personal Life Agent / 个人生活智能体"
+    url: "/wiki/concepts/personallifeagent/"
   - key: "PersonalPensionAccount"
     title: "Personal Pension Account / 个人养老金账户"
     url: "/wiki/concepts/personalpensionaccount/"

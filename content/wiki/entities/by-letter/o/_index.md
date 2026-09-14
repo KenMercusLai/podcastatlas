@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 10085
+wiki_total_pages: 10093
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "OceanMemoryProject"
     title: "Ocean Memory Project"
     url: "/wiki/entities/oceanmemoryproject/"
+  - key: "OceanBase"
+    title: "OceanBase"
+    url: "/wiki/entities/oceanbase/"
   - key: "OctavianAugustus"
     title: "Octavian / Augustus / 屋大维"
     url: "/wiki/entities/octavianaugustus/"

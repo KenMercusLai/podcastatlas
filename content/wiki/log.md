@@ -19655,3 +19655,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
+
+Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

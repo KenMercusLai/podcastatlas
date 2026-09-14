@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7412
+wiki_total_pages: 7416
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "AIDataCenterPrivateCreditFinancing"
     title: "AI Data-Center Private Credit Financing"
     url: "/wiki/concepts/aidatacenterprivatecreditfinancing/"
+  - key: "AIDatabaseContextLayer"
+    title: "AI Database Context Layer / AI数据库上下文层"
+    url: "/wiki/concepts/aidatabasecontextlayer/"
   - key: "AIDeepfakeParodyBoundary"
     title: "AI Deepfake Parody Boundary"
     url: "/wiki/concepts/aideepfakeparodyboundary/"
@@ -899,6 +902,9 @@ wiki_pages:
   - key: "AIHardwareTradeSecretDispute"
     title: "AI Hardware Trade Secret Dispute"
     url: "/wiki/concepts/aihardwaretradesecretdispute/"
+  - key: "AIHealthAgent"
+    title: "AI Health Agent / AI健康智能体"
+    url: "/wiki/concepts/aihealthagent/"
   - key: "AIHealthManagement"
     title: "AI Health Management"
     url: "/wiki/concepts/aihealthmanagement/"

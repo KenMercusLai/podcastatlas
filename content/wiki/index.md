@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [273.逛完外滩大会，发现蚂蚁找到了新位置](sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3.md) — 乱翻书 episode using the Bund Conference to reframe Ant Group around Alipay personal agents, 阿福 health, AI payment, 碰一下, OceanBase, Digital Ant, Lingbo, and Ant International.
 - [《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！](sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73.md) — 芮淇讲透资治通鉴 episode on the Gongsun Yong imposture-rebellion,绣衣使者 imperial surveillance, and Han Wudi's remorse after the Wugu case against Crown Prince Liu Ju.
 - [《资治通鉴·汉纪》388-3｜中国古代王朝更迭时，人口死亡有多夸张？](sources/zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g.md) — 芮淇讲透资治通鉴 short episode on dynastic-transition population loss, Han Wudi's costly wars, and Ge Jianxiong-style caution around reading household registers as death totals.
 - [《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！](sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu.md) — 芮淇讲透资治通鉴 short episode on Sichuan war devastation, Zhang Xianzhong, Ming imperial-clan stipend burdens, and the "emperor dream" explanation for large-scale dynastic war.
@@ -9044,8 +9045,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴淑冰 / Wu Shubing](entities/WuShubing.md) — Talk三联 host framing EP268's gold discussion and EP249's Minnan ritual conversation through Fujian hometown knowledge.
 - [莫晨 / Mo Chen](entities/MoChen.md) — EP268 participant adding family-memory and long-term-practice examples to the household gold discussion.
 - [蚂蚁财富 / Ant Fortune](entities/AntFortune.md) — Wealth-management platform context for EP268's online gold accumulation, recurring purchases, virtual grams, and redemption loop.
+- [支付宝 / Alipay](entities/Alipay.md) — Ant app and service network used as the base for 阿宝, 阿福, AI payment, orders, mini-programs, and offline touchpoints.
+- [阿宝 / Ant Abao](entities/AntAbao.md) — Alipay personal life agent turning daily intent into service discovery and fulfillment.
+- [阿福 / Ant Afu](entities/AntAfu.md) — Ant health-agent product tied to medical access, Haodf assets, village-doctor assistance, and longitudinal health records.
+- [支付宝碰一下 / Alipay Tap Network](entities/AlipayTapNetwork.md) — Offline Alipay touchpoint network that can support merchant agents and outcome-based local operations.
+- [OceanBase](entities/OceanBase.md) — Ant-origin distributed database business reframed as AI database context infrastructure.
+- [蚂蚁数科 / Digital Ant](entities/DigitalAnt.md) — Ant enterprise-technology branch tracked as an independently valued AI-era technology asset.
+- [蚂蚁国际 / Ant International](entities/AntInternational.md) — Ant global wallet, cross-border payment, and risk-control network through Alipay+ and WorldFirst/万里汇.
+- [外滩大会 / Bund Conference](entities/BundConference.md) — Applied AI and fintech event used by Luanfanshu to observe Ant Group's repositioning.
 - [蚂蚁灵波 / Ant Lingbo](entities/AntLingbo.md) — Ant Group-incubated robot-brain company in episode 147, building embodied-native foundation models across robot bodies.
-- [蚂蚁集团 / Ant Group](entities/AntGroup.md) — Parent organization behind Ant Lingbo's physical-world AI and embodied-intelligence exploration.
+- [蚂蚁集团 / Ant Group](entities/AntGroup.md) — Ant company now tracked across Alipay agents, health, AI payment, OceanBase, Digital Ant, Ant International, and Lingbo.
 - [沈宇军 / Shen Yujun](entities/ShenYujun.md) — Ant Lingbo chief scientist arguing for sensor/spatial/video/action-native robot foundation models and embodied data scale-up.
 - [汤晓鸥 / Tang Xiao'ou](entities/TangXiaoou.md) — Shen Yujun's CUHK teacher and SenseTime-linked computer-vision lineage figure in episode 147.
 - [香港中文大学 / Chinese University of Hong Kong](entities/ChineseUniversityOfHongKong.md) — Research setting for Shen Yujun's doctoral work in Tang Xiao'ou's team.
@@ -19075,6 +19084,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Database Cloud Service Commercialization](concepts/DatabaseCloudServiceCommercialization.md) — Open-source database monetization route where managed cloud service sells operational reliability without undermining community trust.
 - [Founder-Led Software Globalization](concepts/FounderLedSoftwareGlobalization.md) — Globalization pattern where founders move presence, language, documentation, hiring, sales, and organization into the target software market.
 - [AI Data Memory Infrastructure](concepts/AIDataMemoryInfrastructure.md) — Agent-era infrastructure layer for enterprise or personal context, shared memory, governed data access, and database/tool interfaces.
+- [AI Database Context Layer / AI数据库上下文层](concepts/AIDatabaseContextLayer.md) — Database infrastructure pattern where records, documents, vectors, permissions, and workloads become agent-usable context.
 - [AI File Management](concepts/AIFileManagement.md) — Phone-side AI organization of files, screenshots, meetings, chat attachments, calendars, and task context without manual folder maintenance.
 - [Smartphone AI Hub](concepts/SmartphoneAIHub.md) — Thesis that phones remain the central AI-era entry point because they combine sensors, display, interaction, local compute, context, cloud access, and services.
 - [Mobile AI Workstation](concepts/MobileAIWorkstation.md) — Phone and foldable workbench pattern where AI context, files, meetings, app groups, and agents organize tasks rather than only launching apps.
@@ -19496,6 +19506,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Agentic Software](concepts/AgenticSoftware.md) — Software designed around agents interpreting goals, selecting capabilities, and generating or reshaping work surfaces.
 - [Agentic Commerce](concepts/AgenticCommerce.md) — Shopping and payment workflows where agents or assistants can select, buy, pay, and connect to service fulfillment under explicit user permission boundaries.
 - [Agent Payment Infrastructure / 智能体支付基础设施](concepts/AgentPaymentInfrastructure.md) — Authorization, payment, liability, merchant/service readiness, and settlement layer that lets agents spend, buy data, or complete transactions under bounded authority.
+- [Personal Life Agent / 个人生活智能体](concepts/PersonalLifeAgent.md) — Consumer agent pattern for turning daily-life intent into service discovery, booking, purchasing, payment, and follow-through.
+- [AI Health Agent / AI健康智能体](concepts/AIHealthAgent.md) — Health-service agent layer combining medical information, personal health data, triage, routing, records, and trusted escalation.
+- [Offline Agent Network / 线下智能体网络](concepts/OfflineAgentNetwork.md) — Physical-world network of payments, merchant devices, touchpoints, offers, and store agents that creates offline context for AI.
 - [Agent Spend Controls / 智能体消费控制](concepts/AgentSpendControls.md) — Budgets, mandates, limits, and audit trails governing how agents spend money or task budget while acting for a user.
 - [Atomic Capability Services](concepts/AtomicCapabilityServices.md) — SaaS decomposition pattern where reliable product abilities become agent-callable and recombinable atoms.
 - [AI Communication Ability](concepts/AICommunicationAbility.md) — Clear expression, listening, prompting, and task framing as core skills for working through agents.

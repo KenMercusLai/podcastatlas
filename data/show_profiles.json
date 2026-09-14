@@ -1411,14 +1411,14 @@
       "earliest_episode_date": "2026-03-31",
       "latest_episode_date": "2026-09-14",
       "latest_episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
-      "source_note_count": 13,
-      "topic_matched_source_note_count": 6,
+      "source_note_count": 14,
+      "topic_matched_source_note_count": 7,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 4
+          "source_note_count": 5
         },
         {
           "key": "history",
@@ -1492,10 +1492,10 @@
         }
       ],
       "start_here_episode_files": [
-        "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md",
+        "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
         "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
         "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？ [lg3T77R6ajM31WcSdV1zE6C8hHj0].md",
-        "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md"
+        "272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy [lqMFcNfKKHOXt440QY26VwPNVsWp].md"
       ]
     },
     "内核恐慌": {

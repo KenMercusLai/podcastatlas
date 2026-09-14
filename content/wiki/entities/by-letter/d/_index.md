@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10085
+wiki_total_pages: 10093
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "DongZhongLateHan"
     title: "董重 / Dong Zhong (late Han)"
     url: "/wiki/entities/dongzhonglatehan/"
+  - key: "DigitalAnt"
+    title: "蚂蚁数科 / Digital Ant"
+    url: "/wiki/entities/digitalant/"
   - key: "DuBaoTeleread"
     title: "读报teleread / 独报"
     url: "/wiki/entities/dubaoteleread/"

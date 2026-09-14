@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7412
+wiki_total_pages: 7416
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "OfficialSupervisionCivilianKilns"
     title: "Official Supervision, Civilian Kilns / 官监民烧"
     url: "/wiki/concepts/officialsupervisionciviliankilns/"
+  - key: "OfflineAgentNetwork"
+    title: "Offline Agent Network / 线下智能体网络"
+    url: "/wiki/concepts/offlineagentnetwork/"
   - key: "OfflineAIImplementation"
     title: "Offline AI Implementation"
     url: "/wiki/concepts/offlineaiimplementation/"
