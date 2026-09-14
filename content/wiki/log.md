@@ -19280,6 +19280,10 @@ Added source `zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？
+
+Added source `zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50`; updated `TianQianqiuWesternHan`, `HanWudi`, and `LuntaiSelfCriticismPolicyTurn` with Han Wudi's late anti-fangshi disillusionment, Tian Qianqiu's promotion logic, and the prelude to the Luntai recovery turn. No settled contradiction found; Tian's full biography, Wudi's exact wording, fangshi identities, and the full Luntai edict remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王
 
 Added source `zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1`; created `LuntaiSelfCriticismPolicyTurn`, `LiGuangliWesternHan`, `ZhaoGuoWesternHan`, and `WeiLvXiongnu`; updated `ImperialSelfCriticismEdict` with Han Wudi's Western Han Luntai branch. No settled contradiction found; the transcript's "周承文" name, exact edict wording, Li Guangli chronology, Wei Lü's ritual manipulation, and Zhao Guo's agricultural methods remain source-scoped.
@@ -19603,6 +19607,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

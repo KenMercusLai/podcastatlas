@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-14
-as_of_overview_commit: 204c3f8c31138a67bdf97638efc791598e118393
-input_digest: 9fb4769549b9b30b6d2c82718cf23424b5b99cb41f1f4e0a206518ef1a3f0903
+as_of_overview_commit: 4bd98a9080c5ea8c952423914a3ca47ab476c1eb
+input_digest: ea1bb65f5379828beba261601b29f5be5953a943e20fd9594cc8ad66955374b9
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. Hanji 401 adds an early Western Han regency case where Huo Guang's appointment control, petition review, and punishment of Sui Hong's omen-based abdication memorial show that legitimacy policing can be as central as ordinary administration. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. Hanji 389-1 adds a late-Wudi correction prelude: dismissing ineffective fangshi and rejecting immortality claims becomes a concrete administrative stop to waste before the broader Luntai frontier and relief turn. Hanji 401 adds an early Western Han regency case where Huo Guang's appointment control, petition review, and punishment of Sui Hong's omen-based abdication memorial show that legitimacy policing can be as central as ordinary administration. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own.
 
 ## Cross-source Findings
 
@@ -2223,3 +2223,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The claim is bounded to Hanji 401 and does not verify the anomaly reports as supernatural events.
 - Sui Hong's complete memorial, the legal procedure, and the exact identity of the Gongsun sign remain source-scoped.
 - The case adds an early abdication-language boundary and should not be flattened into ordinary omen remonstrance.
+
+### Hanji 389 1 Anti Fangshi Correction Precedes Luntai Turn
+
+[[zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50|Hanji 389-1]] adds a late-Wudi governance prelude: [[TianQianqiuWesternHan]] gives [[HanWudi]] a concrete way to stop waste by dismissing ineffective fangshi, so [[LuntaiSelfCriticismPolicyTurn]] begins as administrative correction and popular-relief signaling before the fuller frontier-agriculture program in Hanji 389-2.
+
+**Evidence:** [[zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50]], [[TianQianqiuWesternHan]], [[HanWudi]], [[LuntaiSelfCriticismPolicyTurn]], [[zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- This claim is grounded in one podcast episode and its linked synthesis pages; the complete Luntai edict and Tian Qianqiu's full biography remain source-scoped.
+- The episode frames Tian's promotion as a fit between timely remonstrance and Han Wudi's late mood, not as proof of broad prior administrative merit.

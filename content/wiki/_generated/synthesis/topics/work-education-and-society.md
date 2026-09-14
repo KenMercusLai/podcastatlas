@@ -4,15 +4,15 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-14
-as_of_overview_commit: efd3a7de9c4c23f26d780ce5e299913a2f7d9c09
-input_digest: f1ca58a16c1544580f4e9de05620cbbf1454151d236eb0de993d61559b7478b3
+as_of_overview_commit: 4bd98a9080c5ea8c952423914a3ca47ab476c1eb
+input_digest: 1330bb16855e049f30aae238b3887a731fd9a6fb2250e4494c1ae654601c58ce
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.
 
 ## Cross-source Findings
 
@@ -836,3 +836,14 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - This is a source-scoped historical and family-education interpretation, not a general parenting, judicial-training, workplace, or career rule.
 - The source's maternal framing should not be generalized into mothers alone bearing value-formation responsibility.
 - Jun Buyi's full career, Jin Midi's complete lineage, funeral protocol, and motive claims remain outside this bounded source.
+
+### Hanji 389 1 Timely Remonstrance Becomes Role Fit
+
+[[zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50|Hanji 389-1]] enters work-and-society as a narrow hierarchy case: [[TianQianqiuWesternHan]] advances rapidly because his anti-fangshi remonstrance gives [[HanWudi]] a usable role for policy retreat, making appointment fit depend on timing, ruler mood, and institutional need rather than visible prior achievement alone.
+
+**Evidence:** [[zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50]], [[TianQianqiuWesternHan]], [[HanWudi]], [[LuntaiSelfCriticismPolicyTurn]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- This is a secondary hierarchy and role-fit analogy from a Western Han historical podcast, not modern career advice.
+- The episode itself emphasizes Tian Qianqiu's lack of obvious prior merit, so the claim is about timing and fit rather than general talent evaluation.

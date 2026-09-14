@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？](sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50.md) — 芮淇讲透资治通鉴 episode on Han Wudi's late remorse, dismissal of ineffective fangshi, Tian Qianqiu's sudden chancellorship, and the prelude to the Luntai policy turn.
 - [《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王](sources/zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1.md) — 芮淇讲透资治通鉴 episode on Han Wudi's Luntai self-criticism edict, Li Guangli's failed Xiongnu expedition, rejection of renewed frontier burdens, and turn toward agriculture and recovery.
 - [《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！](sources/zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt.md) — 芮淇讲透资治通鉴 short episode on Buddhist 止语/少语, verbal precepts, retreat silence, avoiding gossip and judgment, and speech restraint as self-cultivation.
 - [在科技时代，重新理解我们的爱、工作与生活](sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu.md) — 不合时宜 interview with Wang Xiaowei on technology philosophy, AI intimacy, work fatigue, psychiatricized language, AI governance, judgment infrastructure, and returning to daily life.
@@ -2498,7 +2499,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王前 / Wang Qian](entities/WangQianZibianliang.md) — Zibianliang speaker arguing that robot intelligence depends on data, validation infrastructure, and sustained customer payment.
 - [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
 - [眭弘 / Sui Hong (Western Han)](entities/SuiHongWesternHan.md) — scholar-official whose omen reading becomes an abdication memorial under Han Zhao.
-- [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — cautious chancellor whose silence and failed Xu Ren protection effort highlight Huo Guang's regency dominance under Han Zhao.
+- [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — Western Han official whose anti-fangshi advice helps explain his rapid rise under Han Wudi before his cautious chancellorship under Huo Guang's regency dominance.
 - [桑弘羊 / Sang Hongyang (Western Han)](entities/SangHongyangWesternHan.md) — Han Wudi-era fiscal minister whose anti-Huo rebellion involvement leads to execution and household destruction under Huo Guang.
 - [桑迁 / Sang Qian (Western Han)](entities/SangQianWesternHan.md) — Sang Hongyang's fugitive son whose sheltering by Hou Shiwu drives the amnesty and harboring case.
 - [侯史吴 / Hou Shiwu (Western Han)](entities/HouShiWuWesternHan.md) — shelterer of Sang Qian whose self-surrender becomes the test case for Huo Guang's stricter rebellion-adjacent legal classification.
@@ -7950,7 +7951,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes final mother-risk succession design, calendar standardization, fangshu and Wugu danger, palace-exhaustion critique, anti-Xiongnu warfare, and fiscal extraction.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes late anti-fangshi disillusionment, final mother-risk succession design, calendar standardization, Wugu danger, anti-Xiongnu warfare, and fiscal extraction.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
@@ -12539,7 +12540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
-- [轮台罪己诏政策转向 / Luntai Self-Criticism Policy Turn](concepts/LuntaiSelfCriticismPolicyTurn.md) — Western Han pattern where Han Wudi's Luntai self-blame rejects renewed frontier burdens and redirects policy toward agriculture, horse recovery, and popular rest.
+- [轮台罪己诏政策转向 / Luntai Self-Criticism Policy Turn](concepts/LuntaiSelfCriticismPolicyTurn.md) — Western Han pattern where Han Wudi's late remorse rejects fangshi waste and renewed frontier burdens, then redirects policy toward agriculture, horse recovery, and popular rest.
 - [AI Judgment Infrastructure / AI判断基础设施](concepts/AIJudgmentInfrastructure.md) — Large models becoming routine advice and value-framing infrastructure for family, relationship, educational, and moral judgment.
 - [Life Time Versus Machine Time / 生命时间与机器时间](concepts/LifeTimeVsMachineTime.md) — AI-era tension between human rhythms of body, rest, waiting, conversation, and machine-paced continuous output loops.
 - [Psychiatric Everyday Language / 日常话语的精神病学化](concepts/PsychiatricEverydayLanguage.md) — Spread of clinical mental-health vocabulary into everyday self-description and relationship interpretation, with both stigma-reducing and label-closing effects.

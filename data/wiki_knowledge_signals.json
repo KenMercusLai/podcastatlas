@@ -44465,9 +44465,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 2,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -44566,6 +44566,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人",
           "url": "/wiki/sources/zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？ [liKbkdewndPP8vzRiDM6iYmlCB50].md",
+          "key": "zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50/"
         }
       ],
       "updated": "2026-09-14",
@@ -65386,10 +65393,17 @@
       "url": "/wiki/concepts/lumbarneutralposition/"
     },
     "LuntaiSelfCriticismPolicyTurn": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？ [liKbkdewndPP8vzRiDM6iYmlCB50].md",
+          "key": "zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王 [lvNAmm5Dza3S9AO8OfCsHHIYnsU1].md",
           "key": "zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1",
@@ -101179,10 +101193,17 @@
       "url": "/wiki/entities/tianminglatehan/"
     },
     "TianQianqiuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？ [liKbkdewndPP8vzRiDM6iYmlCB50].md",
+          "key": "zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
           "key": "zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8",
