@@ -19316,6 +19316,10 @@ Added source `zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-ren
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》385-2｜“巫蛊之祸”最大的幕后黑手，居然是他！
+
+Ingested source note and updated Wugu-related synthesis pages for Jiang Chong's manufactured-evidence and palace-search stage.
+
 ## [2026-09-14] ingest | The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095`; created `TreyStephens`, `ShyamSankar`, `ArsenalOne`, `FactoryBasedDeterrence`, `DefenseIndustrialBaseReindustrialization`, and `DefenseMonopsonyInnovation`; updated `Anduril`, `Palantir`, `DefenseTechStartupProcurement`, `PrivateCapitalDefensePrime`, and `HumanAuthorizedAutonomousWeapons` with the episode's new-prime, field-validation, factory-based deterrence, modular production, autonomy-accountability, and procurement-monopsony branches. No settled contradiction found; valuation, contract, drone-gap, shipbuilding, munitions-days, generic API, and oversight claims remain source-scoped.
@@ -19699,6 +19703,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

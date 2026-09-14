@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！](sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z.md) — 芮淇讲透资治通鉴 short episode on the early Wugu purge of Gongsun He, Wei Kang, and Wei-family support around Crown Prince Liu Ju before the later open crisis.
+- [《资治通鉴·汉纪》385-2｜“巫蛊之祸”最大的幕后黑手，居然是他！](sources/zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte.md) — 芮淇讲透资治通鉴 short episode on Jiang Chong's manufactured-evidence, torture, palace-search, and Shi De advice stage before Liu Ju's open Wugu crisis.
 - [658. Dawn of the Samurai: The Shadow of the Sword (Part 1)](sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498.md) — The Rest Is History episode on samurai origins, Bushido's modern reinvention, Heian provincial warrior formation, Minamoto/Taira surname prestige, and Taira no Masakado's rebellion.
 - [Home Depot](sources/home-depot-1.md) — Acquired episode on Home Depot's founding, warehouse home-improvement model, supplier financing, service culture, Nardelli/Blake leadership contrast, logistics moat, pro-contractor strategy, and long-term compounding.
 - [Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner](sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733.md) — Huberman Lab episode with Dacher Keltner on awe as measurable emotion, awe walks, moral beauty, embodied collective awe, embarrassment, teasing, psychedelics, community life, and digital-design limits.
@@ -2532,6 +2533,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
 - [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose Wugu frame-up and presumed death make later impersonation politically explosive.
 - [江充 / Jiang Chong (Western Han)](entities/JiangChongWesternHan.md) — visible Wugu accusation actor whom Hanji 391-1 distinguishes from its source-scoped Lady Gouyi hidden-mover explanation.
+- [石德 / Shi De (Western Han)](entities/ShiDeWesternHan.md) — Crown-prince tutor whose Fusu-warning advice frames Liu Ju's no-clear-exit choice during Jiang Chong's palace search.
 - [苏文 / Su Wen (Western Han)](entities/SuWenWesternHan.md) — visible Wugu accusation actor paired with Jiang Chong in Hanji 391-1's source-scoped explanation of Liu Ju's destruction.
 - [自变量 / Zibianliang](entities/Zibianliang.md) — Embodied-intelligence company represented by Wang Qian through a data, validation, and customer-payment route.
 - [王前 / Wang Qian](entities/WangQianZibianliang.md) — Zibianliang speaker arguing that robot intelligence depends on data, validation infrastructure, and sustained customer payment.
@@ -12654,7 +12656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Geopolitical Criminal Deterrence / 地缘犯罪威慑](concepts/GeopoliticalCriminalDeterrence.md) — Source-scoped theory that criminal groups price victim nationality by expected state retaliation and local influence.
 - [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Succession crisis pattern where a royal identity claim must be contained before verification paralysis becomes disorder.
 - [Palace Proximity Vigilance / 近侍警觉](concepts/PalaceProximityVigilance.md) — Close-servant security pattern where quiet observation, threshold access, and boundary discipline protect a ruler from hidden palace danger.
-- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Late-Wudi succession trauma used for Lady Gouyi's source-scoped hidden-guilt branch, Ma-family purge aftershock, and the later false Liu Ju return crisis.
+- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Late-Wudi succession trauma spanning support-network purge, manufactured evidence, command collapse, remorse, Ma-family aftershock, and the later false Liu Ju return crisis.
 - [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.
 - [General Model Robot Boundary](concepts/GeneralModelRobotBoundary.md) — Boundary between general foundation-model semantic/spatial gains and robot-specific continuous sensing, contact, and physical execution.
 - [Robot Deployment Success Economics](concepts/RobotDeploymentSuccessEconomics.md) — Commercial test combining high success rate, fast deployment, ROI, low adaptation cost, and sustained customer payment.
