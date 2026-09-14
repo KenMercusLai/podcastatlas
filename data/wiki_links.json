@@ -19635,6 +19635,10 @@
     "title": "汉冲帝 / Emperor Chong of Han",
     "url": "/wiki/entities/emperorchongofhan/"
   },
+  "EmperorDreamClaimOpenness": {
+    "title": "皇帝梦与帝位开放想象 / Emperor Dream Claim Openness",
+    "url": "/wiki/concepts/emperordreamclaimopenness/"
+  },
   "EmperorHeOfHan": {
     "title": "汉和帝 / Emperor He of Han",
     "url": "/wiki/entities/emperorheofhan/"
@@ -29899,6 +29903,10 @@
     "title": "Imperial Burial Legitimacy / 帝后合葬名分",
     "url": "/wiki/concepts/imperialburiallegitimacy/"
   },
+  "ImperialClanFiscalBurden": {
+    "title": "皇族宗藩财政负担 / Imperial Clan Fiscal Burden",
+    "url": "/wiki/concepts/imperialclanfiscalburden/"
+  },
   "ImperialClassicsConsensusBuilding": {
     "title": "官方经学定议 / Imperial Classics Consensus Building",
     "url": "/wiki/concepts/imperialclassicsconsensusbuilding/"
@@ -32586,6 +32594,10 @@
   "JingangJing": {
     "title": "《金刚经》 / Diamond Sutra",
     "url": "/wiki/entities/jingangjing/"
+  },
+  "JingchengWangMing": {
+    "title": "敬城王 / Jingcheng Wang",
+    "url": "/wiki/entities/jingchengwangming/"
   },
   "Jingdezhen": {
     "title": "Jingdezhen / 景德镇",
@@ -55503,6 +55515,10 @@
     "title": "川蜀征服后反抗 / Sichuan Post-Conquest Resistance",
     "url": "/wiki/concepts/sichuanpostconquestresistance/"
   },
+  "SichuanWarDevastation": {
+    "title": "四川战乱人口毁伤 / Sichuan War Devastation",
+    "url": "/wiki/concepts/sichuanwardevastation/"
+  },
   "SiddharthaHesse": {
     "title": "《悉达多》 / Siddhartha",
     "url": "/wiki/entities/siddharthahesse/"
@@ -62586,6 +62602,10 @@
   "UnifiedAdPlatform": {
     "title": "Unified Ad Platform",
     "url": "/wiki/concepts/unifiedadplatform/"
+  },
+  "UnifiedEmpireWarScale": {
+    "title": "大一统战争破坏范围 / Unified Empire War Scale",
+    "url": "/wiki/concepts/unifiedempirewarscale/"
   },
   "UnifiedRobotModels": {
     "title": "Unified Robot Models",
@@ -69747,6 +69767,10 @@
     "title": "Zhang Xiangrong / 张向荣",
     "url": "/wiki/entities/zhangxiangrong/"
   },
+  "ZhangXianzhong": {
+    "title": "张献忠 / Zhang Xianzhong",
+    "url": "/wiki/entities/zhangxianzhong/"
+  },
   "ZhangXiaojunCommercialInterviews": {
     "title": "张小珺Jùn｜商业访谈录",
     "url": "/wiki/entities/zhangxiaojuncommercialinterviews/"
@@ -76250,6 +76274,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu": {
+    "title": "《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu/"
   },
   "zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50": {
     "title": "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？",

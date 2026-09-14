@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7405
+wiki_total_pages: 7409
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "EmpressSelectionRitualLegitimacy"
     title: "皇后册立礼法合法性 / Empress Selection Ritual Legitimacy"
     url: "/wiki/concepts/empressselectionrituallegitimacy/"
+  - key: "EmperorDreamClaimOpenness"
+    title: "皇帝梦与帝位开放想象 / Emperor Dream Claim Openness"
+    url: "/wiki/concepts/emperordreamclaimopenness/"
   - key: "EthicalTriageUnderScarcity"
     title: "稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity"
     url: "/wiki/concepts/ethicaltriageunderscarcity/"

@@ -23617,6 +23617,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmperorDreamClaimOpenness": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "EmperorMingOfHan": [
     {
       "key": "politics",
@@ -61852,6 +61859,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SichuanWarDevastation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "SiddharthaHesse": [
     {
       "key": "culture",
@@ -70628,6 +70642,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "UnifiedEmpireWarScale": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "UnifiedRobotModels": [
     {
       "key": "technology",
@@ -77251,6 +77272,13 @@
     }
   ],
   "ZhangXiangrong": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ZhangXianzhong": [
     {
       "key": "history",
       "label": "History",
@@ -85635,6 +85663,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50": [

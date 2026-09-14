@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！
+
+Added source note for Hanji 388-4. Key claims: Sichuan functions as a compact case of war, famine, epidemic, and population devastation; Ming imperial-clan stipends show hereditary royal-household growth as a fiscal burden; the episode's China-Europe comparison links unified imperial war scale with the social openness of emperor-claim imagination. Added Zhang Xianzhong, Jingcheng Wang, Sichuan War Devastation, Imperial Clan Fiscal Burden, Unified Empire War Scale, and Emperor Dream Claim Openness; updated Sichuan and Ming Dynasty. No settled contradictions found.
+
 ## [2026-09-14] ingest | 图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？
 
 Added source `tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166`; created `CollegiateLicensingCompany`, `NationalCollegiateAthleticAssociation`, `Fanatics`, `Fabletics`, `HomeFieldApparel`, `HypenVice`, `CollegeLogoLicensingMerchandise`, `CollegeSportsFandomDemand`, `LogoSwapMerchandiseStandardization`, and `CampusCulturalCreativeCommercialization`. Core synthesis: U.S. university logo merchandise scales through licensing intermediaries, NCAA-driven fandom, and standardized apparel bases, while demand remains concentrated around sports-power schools. No settled contradiction found; market-size, fan-count, sales, and China cultural-creative comparison claims remain source-scoped.
@@ -19607,6 +19611,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

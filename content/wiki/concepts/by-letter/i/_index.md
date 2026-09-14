@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7405
+wiki_total_pages: 7409
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -893,6 +893,9 @@ wiki_pages:
   - key: "ImperialBirthMotherRecognition"
     title: "皇帝生母名分追认 / Imperial Birth-Mother Recognition"
     url: "/wiki/concepts/imperialbirthmotherrecognition/"
+  - key: "ImperialClanFiscalBurden"
+    title: "皇族宗藩财政负担 / Imperial Clan Fiscal Burden"
+    url: "/wiki/concepts/imperialclanfiscalburden/"
   - key: "ImperialAbdicationLanguageBoundary"
     title: "禅让话语边界 / Imperial Abdication Language Boundary"
     url: "/wiki/concepts/imperialabdicationlanguageboundary/"

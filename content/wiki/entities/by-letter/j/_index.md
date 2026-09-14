@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10078
+wiki_total_pages: 10080
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "JieliChangjiang"
     title: "接力长江 / Jieli Changjiang"
     url: "/wiki/entities/jielichangjiang/"
+  - key: "JingchengWangMing"
+    title: "敬城王 / Jingcheng Wang"
+    url: "/wiki/entities/jingchengwangming/"
   - key: "JapaneseBushWarbler"
     title: "日本树莺 / Japanese Bush Warbler"
     url: "/wiki/entities/japanesebushwarbler/"

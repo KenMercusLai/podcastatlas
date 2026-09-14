@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7405
+wiki_total_pages: 7409
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2012,6 +2012,9 @@ wiki_pages:
   - key: "SameSurnameKingEnfeoffment"
     title: "同姓王分封 / Same-Surname King Enfeoffment"
     url: "/wiki/concepts/samesurnamekingenfeoffment/"
+  - key: "SichuanWarDevastation"
+    title: "四川战乱人口毁伤 / Sichuan War Devastation"
+    url: "/wiki/concepts/sichuanwardevastation/"
   - key: "SituationalPoliticalPivot"
     title: "因事立道式政治转身 / Situational Political Pivot"
     url: "/wiki/concepts/situationalpoliticalpivot/"

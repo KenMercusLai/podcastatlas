@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1871
+topic_total_pages: 1876
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1435,6 +1435,9 @@ topic_concepts:
   - key: "TangPoetryCulturalGeography"
     title: "唐诗文化地理 / Tang Poetry Cultural Geography"
     url: "/wiki/concepts/tangpoetryculturalgeography/"
+  - key: "SichuanWarDevastation"
+    title: "四川战乱人口毁伤 / Sichuan War Devastation"
+    url: "/wiki/concepts/sichuanwardevastation/"
   - key: "SituationalPoliticalPivot"
     title: "因事立道式政治转身 / Situational Political Pivot"
     url: "/wiki/concepts/situationalpoliticalpivot/"
@@ -1444,6 +1447,9 @@ topic_concepts:
   - key: "YouxiaSuppressionUnderUnification"
     title: "大一统下的游侠压制 / Youxia Suppression Under Unification"
     url: "/wiki/concepts/youxiasuppressionunderunification/"
+  - key: "UnifiedEmpireWarScale"
+    title: "大一统战争破坏范围 / Unified Empire War Scale"
+    url: "/wiki/concepts/unifiedempirewarscale/"
   - key: "TianxiaChina"
     title: "天下中国 / Tianxia China"
     url: "/wiki/concepts/tianxiachina/"
@@ -1543,6 +1549,9 @@ topic_concepts:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
+  - key: "EmperorDreamClaimOpenness"
+    title: "皇帝梦与帝位开放想象 / Emperor Dream Claim Openness"
+    url: "/wiki/concepts/emperordreamclaimopenness/"
   - key: "MythicBiographySourceCaution"
     title: "神话化身世的史料边界 / Mythic Biography Source Caution"
     url: "/wiki/concepts/mythicbiographysourcecaution/"
@@ -3029,6 +3038,9 @@ topic_entities:
   - key: "ZhangMengWesternHan"
     title: "张猛 / 张萌 / Zhang Meng (Western Han)"
     url: "/wiki/entities/zhangmengwesternhan/"
+  - key: "ZhangXianzhong"
+    title: "张献忠 / Zhang Xianzhong"
+    url: "/wiki/entities/zhangxianzhong/"
   - key: "ZhangEr"
     title: "张耳 / Zhang Er"
     url: "/wiki/entities/zhanger/"
@@ -5286,6 +5298,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu"
+    title: "《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu/"
   - key: "zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50"
     title: "《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？"
     url: "/wiki/sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50/"

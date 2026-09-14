@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》388-4｜揭秘古代最惨的省：它曾死了90%百姓！](sources/zizhi-tongjian-hanji-388-4-jiemi-gudai-zuican-de-sheng-ta-ceng-si-le-90-baixing-luivvup1twdt6t6dgow9xnfwirbu.md) — 芮淇讲透资治通鉴 short episode on Sichuan war devastation, Zhang Xianzhong, Ming imperial-clan stipend burdens, and the "emperor dream" explanation for large-scale dynastic war.
 - [《资治通鉴·汉纪》389-1｜历史解密：田千秋凭什么可以当丞相？](sources/zizhi-tongjian-hanji-389-1-lishi-jiemi-tianqianqiu-pingshenme-keyi-dang-chengxiang-likbkdewndpp8vzridm6iymlcb50.md) — 芮淇讲透资治通鉴 episode on Han Wudi's late remorse, dismissal of ineffective fangshi, Tian Qianqiu's sudden chancellorship, and the prelude to the Luntai policy turn.
 - [《资治通鉴·汉纪》389-2｜历史揭秘：谁是写“检讨书”最多的王](sources/zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1.md) — 芮淇讲透资治通鉴 episode on Han Wudi's Luntai self-criticism edict, Li Guangli's failed Xiongnu expedition, rejection of renewed frontier burdens, and turn toward agriculture and recovery.
 - [《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！](sources/zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt.md) — 芮淇讲透资治通鉴 short episode on Buddhist 止语/少语, verbal precepts, retreat silence, avoiding gossip and judgment, and speech restraint as self-cultivation.
@@ -2457,6 +2458,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
+- [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
 - [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose failed Xiongnu expedition and later sacrificial death frame Han Wudi's Luntai self-criticism in Hanji 389-2.
 - [赵过 / Zhao Guo (Western Han)](entities/ZhaoGuoWesternHan.md) — Agricultural official used by Hanji 389-2 to show post-Luntai recovery policy through farming technique, tools, and practical livelihood talent.
 - [魏律 / Wei Lu (Xiongnu-aligned)](entities/WeiLvXiongnu.md) — Xiongnu-aligned figure who uses jealousy and shamanic ritual speech to bring about Li Guangli's death in Hanji 389-2.
@@ -12540,6 +12543,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [四川战乱人口毁伤 / Sichuan War Devastation](concepts/SichuanWarDevastation.md) — Hanji 388-4 frame for Sichuan as a repeated war, famine, epidemic, and population-collapse case.
+- [皇族宗藩财政负担 / Imperial Clan Fiscal Burden](concepts/ImperialClanFiscalBurden.md) — Pattern where expanding hereditary royal kin turn tax-funded stipends into provincial fiscal pressure.
+- [大一统战争破坏范围 / Unified Empire War Scale](concepts/UnifiedEmpireWarScale.md) — Comparative idea that fighting for a unified realm can widen regime-change war damage.
+- [皇帝梦与帝位开放想象 / Emperor Dream Claim Openness](concepts/EmperorDreamClaimOpenness.md) — Hanji 388-4 concept for imagining imperial rule as reachable beyond fixed noble birth.
 - [轮台罪己诏政策转向 / Luntai Self-Criticism Policy Turn](concepts/LuntaiSelfCriticismPolicyTurn.md) — Western Han pattern where Han Wudi's late remorse rejects fangshi waste and renewed frontier burdens, then redirects policy toward agriculture, horse recovery, and popular rest.
 - [AI Judgment Infrastructure / AI判断基础设施](concepts/AIJudgmentInfrastructure.md) — Large models becoming routine advice and value-framing infrastructure for family, relationship, educational, and moral judgment.
 - [Life Time Versus Machine Time / 生命时间与机器时间](concepts/LifeTimeVsMachineTime.md) — AI-era tension between human rhythms of body, rest, waiting, conversation, and machine-paced continuous output loops.
