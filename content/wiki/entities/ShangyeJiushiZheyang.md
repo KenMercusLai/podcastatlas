@@ -2,82 +2,70 @@
 title: "商业就是这样"
 type: entity
 tags: [podcast, media, business]
-sources: [shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335, vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155, lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937, vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835, shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014, vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119, vol-268-liang-ge-lao-si-lai-si-1003563933, vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145, vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591, vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244, jiufan-zhongting-mifeng-jingjixue-956460448, shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352, shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969, vol-263-lang-de-youhuo-998128018, shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076, vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191, vol-264-ba-shijiebei-zuowei-fangfa-999416048, chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]
-last_updated: 2026-08-26
+sources:
+  - shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335
+  - vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155
+  - lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937
+  - vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835
+  - shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014
+  - vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119
+  - vol-268-liang-ge-lao-si-lai-si-1003563933
+  - vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145
+  - vol-266-yi-ci-xing-gao-dong-etf-1002344828
+  - vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591
+  - vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244
+  - jiufan-zhongting-mifeng-jingjixue-956460448
+  - shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352
+  - shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969
+  - vol-263-lang-de-youhuo-998128018
+  - shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076
+  - vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191
+  - vol-264-ba-shijiebei-zuowei-fangfa-999416048
+  - chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066
+  - shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821
+last_updated: 2026-09-14
+knowledge_schema: synthesis-v1
 ---
 
 # 商业就是这样
 
-[[shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335]] adds the show's fitness-event moat branch. The episode uses [[HYROX]] to separate copyable competition rules from a defensible event business built through [[TrademarkBasedEventProtection]], [[FitnessRaceStandardization]], [[ParticipationDataMoat]], [[AuthorizedFitnessTrainingNetwork]], sponsors, gyms, and fast race execution.
+## Overview
+商业就是这样 is a Chinese business podcast that turns ordinary commercial mechanisms, company histories, city observations, consumer products, sports economics, finance, infrastructure, and service pricing into grounded explainers.
 
-[[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] adds the show's beauty-packaging and sustainability branch. The episode uses [[LOreal|L'Oreal / 欧莱雅]]'s refillable products to show that a seemingly simple consumer-goods improvement depends on package engineering, repeat-use durability, channel display, online search, price incentives, and non-heavy sustainability communication.
+## Current Profile
+The show's recurring method is to use one visible object or event as an entry point into a wider system: HYROX into event moats, Adidas into operating repair, L'Oreal refills into packaging adoption, 大食代 into food-court economics, air-ticket add-ons into regulated fee design, ETFs into market plumbing, and billable hours into professional-services pricing. The corpus shows the program favoring mechanism over hype. It often separates what looks like a simple consumer-facing price, brand, queue, rule, or fee from the supply chain, governance, contract, infrastructure, and incentive system underneath.
 
-商业就是这样 is the podcast context for [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]], a fifth-anniversary listener-submission episode about local commercial phenomena and five-year personal changes. In this source, the show is less a single-company analysis program than a collector of grounded business observations: shops, transit rules, restaurant queues, platform rules, tourism flows, local brands, overseas services, and listener life changes become material for understanding commerce.
+## Key Characteristics
+- Uses compact business cases to expose hidden mechanisms behind familiar products, prices, fees, and formats.
+- Treats commerce as system design: rules, contracts, channels, infrastructure, location, rights, and incentives shape outcomes as much as demand.
+- Moves comfortably across consumer brands, restaurants, sports, finance, aviation, city industry, agriculture, media, AI infrastructure, and professional services.
+- Often distinguishes defensible operating systems from copyable surface formats, such as HYROX rules, conveyor-belt sushi, food courts, or refill SKUs.
+- Connects AI to real business constraints rather than treating it as only software: cooling, data centers, media ownership, legal pricing, and service labor all become part of the AI-era commercial map.
+- Keeps many figures and market claims source-scoped when the episode relies on podcast reporting, listener submissions, or cited but not fully documented industry data.
 
-The episode's distinctive contribution to the wiki is its distributed method. Instead of relying on one guest or one case, [[ShangyeJiushiZheyang]] uses listener submissions across cities to turn ordinary encounters into [[CityCommercialObservation]]. That makes the show a bridge between the wiki's existing platform and retail pages, including [[LocalLifePlatformDependency]], [[RetailSiteSelection]], [[ExperientialRetail]], [[Xiaohongshu]], [[Douyin]], and [[TikTok]].
+## Evidence
+- Hidden price and fee mechanisms: [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] separates China's civil aviation development fund from fuel surcharges, while [[shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821]] explains billable hours as pricing proxy, client ledger, and internal utilization system.
+- Consumer and retail operating systems: [[vol-263-lang-de-youhuo-998128018]] links Sushiro's China traction to supply localization and standardization; [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] explains food courts as second-landlord infrastructure; [[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] shows refills needing packaging durability, discount logic, and channel visibility.
+- Sports as governance, lifestyle, and cost allocation: [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]], [[vol-264-ba-shijiebei-zuowei-fangfa-999416048]], and [[vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145]] read the World Cup through FIFA power, platform rights, sponsors, host-city budgets, and fan costs; [[shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335]] adds event-brand and participation-data moats.
+- Business-history risk cases: [[vol-268-liang-ge-lao-si-lai-si-1003563933]] uses Rolls-Royce and RB211 to show fixed-price engineering risk; [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] uses the Hongkong Land-Dairy Farm takeover to connect media campaigning, share mechanics, hot money, and crash psychology.
+- Finance, commodity, and agricultural plumbing: [[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] explains ETF creation-redemption and leveraged-product risk; [[jiufan-zhongting-mifeng-jingjixue-956460448]] turns pollination into contract economics; [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] follows anchoveta and fishmeal through aquaculture feed and seafood prices.
+- City, industrial, and strategic infrastructure: [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] uses listener submissions as a distributed map of local commerce; [[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] reads Shiyan through auto-city path dependence; [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] makes data-center cooling visible as AI infrastructure.
+- Capital, ownership, and media power: [[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] follows Oracle wealth into Skydance, Paramount, AI infrastructure, U.S. TikTok, political access, and media-independence risk; [[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]] shows the opposite end of sports investment where formal ownership fails to secure operational control.
+- Brand and turnaround diagnosis: [[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] shows how inventory, DTC retreat, dealer repair, retro products, China localization, and running-shoe R&D can create an operating repair without proving a full brand reversal.
 
-[[jiufan-zhongting-mifeng-jingjixue-956460448]] adds a more industry-analytic side of the show. The episode uses bees to move from economic thought experiments to agricultural contracts, showing how [[ExternalityInternalization]] can happen through [[PollinationServiceMarket]] prices while [[HoneyQualityStandards]] and [[BeeColonyCollapse]] mark the product-quality and biological-risk limits around the business.
+## Qualifications
+The show page synthesizes source notes rather than independently verifying every number. Several episodes rely on market data, regulatory formulas, listener submissions, corporate claims, survey references, or narrative inference that should remain source-scoped. Its business-explainer style is strong at mapping mechanisms but can leave industry comparisons underdeveloped when an episode is deliberately short, as in the billable-hour and airfare-fee entries.
 
-[[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] adds the show's sports-business side. It uses [[FIFA]], [[FIFAWorldCup]], [[GianniInfantino]], and [[UEFA]] to connect [[WorldCupExpansion]], [[GlobalSportsGovernance]], [[SportsEventTicketing]], [[SportsMediaRights]], and [[LeagueStakeholderAlignment]].
+## What Changed
+- Migrated the page to the synthesis-v1 entity schema.
+- Added 商业小样49 as the show's professional-services pricing and AI-labor-economics branch.
+- Compressed the prior source-by-source list into grouped evidence while preserving the complete source inventory.
 
-[[vol-263-lang-de-youhuo-998128018]] adds the show's restaurant-chain side. The episode uses [[Sushiro]] to explain why [[ConveyorBeltSushi]] is gaining traction in China through [[RestaurantSupplyChainLocalization]], [[ChainRestaurantStandardization]], mall-site strategy, and localized food-safety trust rather than through queue hype alone.
-
-[[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] adds the show's AI-infrastructure side. The episode treats data-center cooling, pumps, water systems, and prefabricated cooling stations as hidden commercial infrastructure behind AI services, connecting [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] to the wiki's broader [[AIComputeContinuity]] thread.
-
-[[vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191]] adds the show's lower-tier football investment failure case. [[LiXiang]] recounts buying into [[JumillaCF]] with [[TangHui]] to develop Chinese players abroad, then discovering that [[FootballClubAsCommunityAsset]], [[FootballClubControlRisk]], [[FootballContractEnforcementRisk]], [[YouthFootballDevelopmentSystem]], and the collapse of [[ChinesePlayerOverseasArbitrage]] made the asset far less investable than it looked.
-
-[[vol-264-ba-shijiebei-zuowei-fangfa-999416048]] adds the show's World Cup marketing lens. It treats the same 2026 tournament not as a governance or investment case, but as a way to read Chinese media-rights buyers, platform growth pressure, [[Adidas]] offline activation, multinational localization, Chinese sponsor globalization, and jersey-led lifestyle consumption.
-
-[[vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591]] adds the show's U.S. technology-media-politics lens. The episode uses [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[Paramount]], [[WarnerBrosDiscovery]], [[StargateAIInfrastructure]], and [[USTikTok|U.S. TikTok]] to ask how enterprise software wealth can become media ownership and [[PoliticalRegulatoryLeverage]].
-
-[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds the show's financial-product explainer side. The episode uses [[ExchangeTradedFund|ETFs]] to connect [[PassiveInvesting]], [[ETFCreationRedemption|creation-redemption]], institutional tax economics, low-fee scale, and the [[ETF7709HK|7709.HK]] [[SingleStockLeveragedETF|single-stock leveraged ETF]] case, showing how a useful liquidity invention can mutate into path-dependent risk.
-
-[[vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145]] adds the show's live-sports cost-accounting side through a crossover with [[YingyanShijian|鹰眼时间]]. The episode uses [[TeteFei|特特飞]]'s World Cup trip to connect host-city budgets, local sponsorship, fan festivals, official resale, and ordinary spectator spending into one [[WorldCupHostCityEconomics]] branch.
-
-[[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] adds the show's hidden-food-commodity side. It uses [[PeruvianAnchoveta|anchoveta]], [[Peru]], [[FishmealSupplyChain|fishmeal]], [[ElNino]], and [[AquacultureFeedDependency]] to show how a small marine input can move through feed formulas, salmon and shrimp production, sushi-chain sourcing, and consumer seafood prices.
-
-[[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] adds the show's hidden-airfare-fee side. It uses the [[CivilAviationDevelopmentFund|civil aviation development fund]] and [[AviationFuelSurcharge|aviation fuel surcharge]] to separate government-fund aviation infrastructure finance from airline fuel-cost recovery, extending [[CommodityPriceExposure]], [[PriceElasticity]], and [[AirlineUnbundling]] with a China civil-aviation pricing case.
-
-[[chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066]] adds the show's city-industrial branch through [[ChengshiJiushiZheyang|城市就是这样]]. The episode uses [[Shiyan]], [[SecondAutomobileWorks|二汽]], and [[DongfengMotor|东风汽车]] to move from ordinary [[CityCommercialObservation]] into [[AutomobileCityPathDependence]], [[ThirdFrontConstruction]], [[EnterpriseRunSociety]], and the survival of a [[CommercialVehicleIndustrialBase]] after headquarters and passenger-car attention moved toward [[Wuhan]].
-
-[[vol-268-liang-ge-lao-si-lai-si-1003563933]] adds the show's industrial-history and aviation-risk branch. It starts from the double-R logo on aircraft engines, then uses [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[LockheedCorporation]], and the [[LockheedL1011TriStar|L-1011 TriStar]] to connect engineering ambition, fixed-price contracts, state rescue, luxury-brand separation, and overseas bribery into one business-history case.
-
-[[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] adds the show's Hong Kong financial-history branch. It uses the [[HongkongLandDairyFarmTakeover|置地饮牛奶]] case to connect [[HongkongLand|香港置地]], [[DairyFarmInternational|牛奶公司]], [[JardineMatheson|怡和]], newspaper tender campaigning, stock split confusion, four-exchange fragmentation, the [[HangSengIndex|恒生指数]], and [[HongKongDollarHotMoneyCycle|港元热钱]] into a concrete account of the [[HongKong1973StockMarketCrash|1973年香港股灾]].
-
-[[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] adds the show's mall-foodservice and commercial-real-estate branch. It uses [[FoodRepublic|大食代]], [[HawkerCentre|Singapore hawker centres]], [[GuoMingzhong|郭明忠]], [[FoodJunction]], and [[BreadTalk]] to show how a food-court operator once solved China's [[CommercialRealEstateFoodserviceGap|mall foodservice gap]] as a [[FoodCourtSecondLandlord|second landlord]], then lost fit as [[ShoppingCenterRestaurantization|shopping centers became more restaurantized]], chain brands improved, and supermarkets, platforms, and scene-led markets took over parts of the same demand.
-
-[[vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155]] adds the show's sportswear-turnaround branch. It uses [[Adidas]] to connect [[SportswearInventoryCycle|inventory cycles]], Greater China recovery, [[Yeezy]] impairment, dealer relationship repair, [[RetroProductRevival|retro-product revival]], R&D spending, and share-price expectation into one "失意大公司" method reflection.
-
-## Connections
-- [[vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244]] — fifth-anniversary source page.
-- [[lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937]] - refillable beauty packaging, channel visibility, and sustainability-marketing source page.
-- [[vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835]] - 大食代, food-court second-landlord economics, and mall-foodservice transition source page.
-- [[vol-268-liang-ge-lao-si-lai-si-1003563933]] - Rolls-Royce, RB211, Lockheed TriStar, nationalization, and bribery source page.
-- [[vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119]] - Hongkong Land, Dairy Farm, Jardine, and the 1973 Hong Kong crash source page.
-- [[jiufan-zhongting-mifeng-jingjixue-956460448]] — bee-economics source page.
-- [[shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969]] — FIFA World Cup expansion and football governance source page.
-- [[vol-263-lang-de-youhuo-998128018]] — Sushiro and conveyor-belt sushi source page.
-- [[shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076]] — AI data-center cooling and thermal-management source page.
-- [[shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352]] — fishmeal, El Nino, and aquaculture-feed source page.
-- [[shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014]] - civil aviation development fund, aviation fuel surcharge, and airfare pass-through source page.
-- [[CityCommercialObservation]] — main method surfaced by the source.
-- [[TourismTrafficMismatch]] — one recurring city-commerce pattern in listener submissions.
-- [[LocalLifePlatformDependency]], [[RetailSiteSelection]], and [[ExperientialRetail]] — existing wiki concepts extended by the show.
-- [[ExternalityInternalization]], [[PollinationServiceMarket]], [[HoneyQualityStandards]], and [[BeeColonyCollapse]] — agriculture and economic-theory concepts added by the bee episode.
-- [[WorldCupExpansion]], [[GlobalSportsGovernance]], and [[SportsEventTicketing]] — sports-business concepts added by the FIFA episode.
-- [[Sushiro]], [[ConveyorBeltSushi]], [[RestaurantSupplyChainLocalization]], and [[ChainRestaurantStandardization]] — restaurant-chain concepts added by the sushi episode.
-- [[DataCenterThermalManagement]], [[Grundfos]], and [[HenanSmartSupercomputingCenter]] — AI-infrastructure cooling concepts and cases added by the AI server episode.
-- [[FishmealSupplyChain]], [[AquacultureFeedDependency]], [[ClimateFoodPriceTransmission]], and [[FisheriesResourceManagement]] — hidden food-commodity and fisheries branch added by 商业小样45.
-- [[CivilAviationDevelopmentFund]], [[AviationFuelSurcharge]], [[AviationFuelCostPassThrough]], and [[CommodityPriceExposure]] - hidden airfare-fee and fuel-cost branch added by 商业小样46.
-- [[ChengshiJiushiZheyang]], [[Shiyan]], [[DongfengMotor]], [[AutomobileCityPathDependence]], [[CommercialVehicleIndustrialBase]], and [[EnterpriseRunSociety]] - city-industrial branch added by 城市就是这样21.
-- [[LiXiang]], [[TangHui]], [[JumillaCF]], [[ChinesePlayerOverseasArbitrage]], [[FootballClubAsCommunityAsset]], and [[FootballClubControlRisk]] — lower-tier football investment case added by Vol.262.
-- [[ChinaCentralTelevision]], [[Migu]], [[Xiaohongshu]], [[Adidas]], [[Hisense]], [[Lenovo]], [[SportsRightsGrowthEngine]], [[OfflineBrandActivation]], [[GlobalSportsSponsorship]], and [[SportsLifestyleConsumption]] — World Cup marketing branch added by Vol.264.
-- [[LarryEllison]], [[DavidEllison]], [[Oracle]], [[Skydance]], [[PoliticalRegulatoryLeverage]], and [[MediaOwnershipIndependenceRisk]] - U.S. technology, media, and politics branch added by Vol.265.
-- [[ExchangeTradedFund]], [[ETFCreationRedemption]], [[ETF7709HK|7709.HK]], [[LeveragedETFHedgingFeedback]], and [[CrossMarketLeveragedETFExecutionRisk]] - ETF mechanics and risk branch added by Vol.266.
-- [[YingyanShijian|鹰眼时间]], [[TeteFei|特特飞]], [[WorldCupHostCityEconomics]], [[HostCitySupporterSponsorship]], [[FanFestivalCommercialization]], and [[OfficialSportsTicketResale]] - World Cup host-city and fan-cost branch added by Vol.267.
-- [[RollsRoyce|Rolls-Royce]], [[RollsRoyceRB211|RB211]], [[LockheedL1011TriStar|L-1011 TriStar]], [[FixedPriceEngineeringRisk]], [[AirframeEngineLockIn]], [[IndustrialCapabilityBailout]], and [[LockheedBriberyScandal]] - aviation-engine crisis and corruption branch added by Vol.268.
-- [[HongkongLandDairyFarmTakeover]], [[HongKong1973StockMarketCrash]], [[TenderOfferMediaCampaign]], [[BonusShareSplitMisreading]], [[FourExchangeHongKongMarketFragmentation]], and [[HongKongDollarHotMoneyCycle]] - Hong Kong takeover and crash branch added by Vol.269.
-- [[RefillableBeautyPackaging]], [[RefillAdoptionFriction]], [[ReusablePackagingDurability]], and [[SustainablePackagingMarketing]] - beauty-packaging branch added by 绿点小样.
-- [[Adidas]], [[BjornGulden|Bjørn Gulden / 古尔登]], [[Yeezy]], [[AdidasSamba|Samba]], [[SportswearInventoryCycle]], and [[RetroProductRevival]] - Adidas turnaround branch added by Vol.271.
-- [[HYROX]], [[MassParticipationSportsEventMoat]], [[ParticipationDataMoat]], [[TrademarkBasedEventProtection]], and [[AuthorizedFitnessTrainingNetwork]] - fitness-event moat branch added by 商业小样47.
-- [[PodcastAsAsynchronousMedia]] — adjacent media concept; the anniversary format records listener memory across years.
+## Relationships
+- [[ProfessionalServicesBillableHour]] - new pricing mechanism branch added by 商业小样49.
+- [[LegalServicesAIEconomics]] - adjacent AI-era legal pricing and labor-economics branch.
+- [[CityCommercialObservation]] - listener-and-city method visible in the anniversary and city series episodes.
+- [[ConsumerBrandMoat]] - recurring brand/operations lens across Adidas, L'Oreal, HYROX, Sushiro, and World Cup lifestyle consumption.
+- [[SportsEntertainmentFlywheel]] - sports-business lens spanning FIFA, World Cup rights, live-event costs, HYROX, and football-club investment.
+- [[AIComputeContinuity]] - AI infrastructure branch extended by data-center cooling and technology-media ownership episodes.
+- [[BusinessMoat]] - strategy frame repeatedly tested against copyable formats, operating systems, distribution, participation data, and brand trust.

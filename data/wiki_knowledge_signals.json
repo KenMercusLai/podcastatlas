@@ -3589,6 +3589,38 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/abudbakri/"
     },
+    "Abyssinia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/abyssinia/"
+    },
+    "AbyssinianExpedition1868": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/abyssinianexpedition1868/"
+    },
     "AccessionKinshipContainment": {
       "episode_count": 1,
       "show_count": 1,
@@ -7364,6 +7396,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/aristionathens/"
+    },
+    "AristocraticDeathDignity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！ [lvI4AtPKuS7-diuAzKGASK92TsdS].md",
+          "key": "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/aristocraticdeathdignity/"
     },
     "ArmedFollowerIntegrationCost": {
       "episode_count": 1,
@@ -14934,6 +14982,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/chenjianyuanshuretainer/"
+    },
+    "ChenJiaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/chenjiaowesternhan/"
     },
     "ChenJunEasternHan": {
       "episode_count": 2,
@@ -24925,6 +24989,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/diplomaticcostriskaccounting/"
     },
+    "DiplomaticNeglectEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/diplomaticneglectescalation/"
+    },
     "DiplomaticPersonaAsStrategicAsset": {
       "episode_count": 1,
       "show_count": 1,
@@ -25773,6 +25853,29 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/dongzhongshu/"
+    },
+    "DongfangShuo": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人 [lnHc_LSJ53gY-YqMWqobNw5Y37g9].md",
+          "key": "zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/dongfangshuo/"
     },
     "DongguanHanji": {
       "episode_count": 1,
@@ -27788,6 +27891,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/earlychinesebuddhismcourttransmission/"
+    },
+    "EarlyConfucianResistancePolitics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "30.孟子：战国愤青的赤子之心 [592494138].md",
+          "key": "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138",
+          "show": "蜜獾吃书",
+          "title": "30.孟子：战国愤青的赤子之心",
+          "url": "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/earlyconfucianresistancepolitics/"
     },
     "EarlyRestorationCoalitionIntegration": {
       "episode_count": 2,
@@ -43892,6 +44018,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/hanhenglatehan/"
     },
+    "HanJingdi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯 [lgU1FR1ZRZMC0O72WtBpxMAJb7s_].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇2 女相师因看命能力被刘邦封侯",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-2-nvxiangshi-yin-kanming-nengli-bei-liubang-fenghou-lgu1fr1zrzmc0o72wtbpxmajb7s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/hanjingdi/"
+    },
     "HanLengEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -44098,9 +44247,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -44178,6 +44327,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
         }
       ],
       "updated": "2026-09-14",
@@ -47280,6 +47436,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/hormonecontextaggression/"
     },
+    "HormuzdRassam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/hormuzdrassam/"
+    },
     "HorsehideBurialResolve": {
       "episode_count": 2,
       "show_count": 1,
@@ -47357,6 +47529,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/hostagebackeddependencytrap/"
+    },
+    "HostageMissionDependencyTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/hostagemissiondependencytrap/"
     },
     "HostageRansomDeterrence": {
       "episode_count": 2,
@@ -48257,6 +48445,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/huangqionglatehan/"
+    },
+    "HuangShengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/huangshengwesternhan/"
     },
     "HuangXianLateHan": {
       "episode_count": 1,
@@ -49416,6 +49620,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/humanoidrobotcommercialization/"
+    },
+    "HumorousRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人 [lnHc_LSJ53gY-YqMWqobNw5Y37g9].md",
+          "key": "zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/humorousremonstrance/"
     },
     "HundredSchoolsSynthesis": {
       "episode_count": 1,
@@ -57924,9 +58144,9 @@
       "url": "/wiki/concepts/legaljudgmentbeforeimperialgrace/"
     },
     "LegalServicesAIEconomics": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Trillion-Dollar Industries AI Is Disrupting： Voice, Law & the End of the Billable Hour [42064555].md",
@@ -57934,9 +58154,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour-42064555/"
+        },
+        {
+          "episode_file": "商业小样49 ｜ 为什么律师按小时收费？ [1014489821].md",
+          "key": "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821",
+          "show": "商业就是这样",
+          "title": "商业小样49 | 为什么律师按小时收费？",
+          "url": "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/legalservicesaieconomics/"
     },
     "LegitimacyAnxietyAdministrativeParalysis": {
@@ -63554,6 +63781,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/longhuaairport/"
     },
+    "LongluePrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/longlueprincesswesternhan/"
+    },
     "LongshanEastWestCorridor": {
       "episode_count": 1,
       "show_count": 1,
@@ -66265,6 +66508,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/madisonhemings/"
     },
+    "Magdala": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/magdala/"
+    },
     "MaintainYourBrainTrial": {
       "episode_count": 1,
       "show_count": 1,
@@ -67909,6 +68168,64 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/memphis/"
+    },
+    "MencianPeopleBasedLegitimacy": {
+      "episode_count": 7,
+      "show_count": 2,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己 [lrqxfZIR4BQXt0v3cCvfEf8FaaDE].md",
+          "key": "zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》919丨想活得好？先踢开善良的自己",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》78丨齐国命运竟被城管给救了？ [lpt3rEyR6ok8G2LhCxrND5qcTYUg].md",
+          "key": "zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》78丨齐国命运竟被城管给救了？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？ [logxEgNQeXGC7z-lOdw6TR6_8F28].md",
+          "key": "zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》72丨什么样的人 才是忠贞之士？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶 [lhy14PbF9ThcfdIAulCmf8DWcEF8].md",
+          "key": "zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》49丨孟子曰：我教你治国 你却把我当花瓶",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？ [lo3cOk7cfwZrXEsp-I8miZ1fc1db].md",
+          "key": "zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》45｜以史为鉴，君王到底该不该杀人成性？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db/"
+        },
+        {
+          "episode_file": "30.孟子：战国愤青的赤子之心 [592494138].md",
+          "key": "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138",
+          "show": "蜜獾吃书",
+          "title": "30.孟子：战国愤青的赤子之心",
+          "url": "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/mencianpeoplebasedlegitimacy/"
     },
     "MengMinLateHan": {
       "episode_count": 1,
@@ -75238,9 +75555,9 @@
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
     },
     "OuterConfucianInnerLegalistGovernance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘 [lltiV3cnk5X03HOh184K_lZl9YQ9].md",
@@ -75248,6 +75565,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
         }
       ],
       "updated": "2026-09-14",
@@ -76450,6 +76774,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/parentalexpectationshame/"
+    },
+    "ParentalIndulgenceBlindness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/parentalindulgenceblindness/"
     },
     "ParentalProjectionControl": {
       "episode_count": 1,
@@ -81035,6 +81375,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/productionvibecoding/"
     },
+    "ProfessionalServicesBillableHour": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "商业小样49 ｜ 为什么律师按小时收费？ [1014489821].md",
+          "key": "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821",
+          "show": "商业就是这样",
+          "title": "商业小样49 | 为什么律师按小时收费？",
+          "url": "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/professionalservicesbillablehour/"
+    },
     "ProgrammedLoveAuthenticity": {
       "episode_count": 1,
       "show_count": 1,
@@ -82986,6 +83342,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/queennjinga/"
+    },
+    "QueenVictoria": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/queenvictoria/"
     },
     "QueerSafetyRetreat": {
       "episode_count": 1,
@@ -87171,9 +87543,9 @@
       "url": "/wiki/entities/rugbyworldcup1995/"
     },
     "RuleOverKinshipPower": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
@@ -87195,6 +87567,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》721丨他杀家奴，骂公主，为何反被赏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
         }
       ],
       "updated": "2026-08-31",
@@ -90065,6 +90444,155 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/shangshutaiimperialaccess/"
+    },
+    "ShangyeJiushiZheyang": {
+      "episode_count": 20,
+      "show_count": 1,
+      "source_note_count": 20,
+      "sources": [
+        {
+          "episode_file": "商业小样47 ｜ “健身做题家”的新欢HYROX，到底有什么护城河？ [1008179335].md",
+          "key": "shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335",
+          "show": "商业就是这样",
+          "title": "商业小样47 | “健身做题家”的新欢HYROX，到底有什么护城河？",
+          "url": "/wiki/sources/shangye-xiaoyang-47-jianshen-zuotijia-de-xinhuan-hyrox-daodi-you-shenme-huchenghe-1008179335/"
+        },
+        {
+          "episode_file": "Vol.271 阿迪达斯如何触底反弹？ [1007333155].md",
+          "key": "vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155",
+          "show": "商业就是这样",
+          "title": "Vol.271 阿迪达斯如何触底反弹？",
+          "url": "/wiki/sources/vol-271-a-di-da-si-ruhe-chudi-fantan-1007333155/"
+        },
+        {
+          "episode_file": "绿点小样 ｜ 要推广替换芯，得把美妆重做一遍 [1006757937].md",
+          "key": "lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937",
+          "show": "商业就是这样",
+          "title": "绿点小样 | 要推广替换芯，得把美妆重做一遍",
+          "url": "/wiki/sources/lvdian-xiaoyang-yao-tuiguang-tihuanxin-de-ba-meizhuang-chongzuo-yibian-1006757937/"
+        },
+        {
+          "episode_file": "Vol.270 大食代留在了它的时代 [1006063835].md",
+          "key": "vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835",
+          "show": "商业就是这样",
+          "title": "Vol.270 大食代留在了它的时代",
+          "url": "/wiki/sources/vol-270-da-shi-dai-liu-zai-le-ta-de-shi-dai-1006063835/"
+        },
+        {
+          "episode_file": "商业小样46 ｜ 买机票时，为什么总要多交两笔钱？ [1005487014].md",
+          "key": "shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014",
+          "show": "商业就是这样",
+          "title": "商业小样46 | 买机票时，为什么总要多交两笔钱？",
+          "url": "/wiki/sources/shangye-xiaoyang-46-mai-jipiao-shi-weishenme-zongyao-duojiao-liang-bi-qian-1005487014/"
+        },
+        {
+          "episode_file": "Vol.269 小历史 ｜ “不要怕，是技术性调整” [1004793119].md",
+          "key": "vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119",
+          "show": "商业就是这样",
+          "title": "Vol.269 小历史 | “不要怕，是技术性调整”",
+          "url": "/wiki/sources/vol-269-xiao-lishi-bu-yao-pa-shi-jishu-xing-tiaozheng-1004793119/"
+        },
+        {
+          "episode_file": "Vol.268 两个劳斯莱斯 [1003563933].md",
+          "key": "vol-268-liang-ge-lao-si-lai-si-1003563933",
+          "show": "商业就是这样",
+          "title": "Vol.268 两个劳斯莱斯",
+          "url": "/wiki/sources/vol-268-liang-ge-lao-si-lai-si-1003563933/"
+        },
+        {
+          "episode_file": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间 [1002986145].md",
+          "key": "vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145",
+          "show": "商业就是这样",
+          "title": "Vol.267 如何现场看世界杯并大亏一笔 feat.鹰眼时间",
+          "url": "/wiki/sources/vol-267-ruhe-xianchang-kan-shijiebei-bing-da-kui-yi-bi-feat-yingyan-shijian-1002986145/"
+        },
+        {
+          "episode_file": "Vol.266 一次性搞懂ETF [1002344828].md",
+          "key": "vol-266-yi-ci-xing-gao-dong-etf-1002344828",
+          "show": "商业就是这样",
+          "title": "Vol.266 一次性搞懂ETF",
+          "url": "/wiki/sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828/"
+        },
+        {
+          "episode_file": "Vol.265 跨越50年的美国版本之子 [1001004591].md",
+          "key": "vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591",
+          "show": "商业就是这样",
+          "title": "Vol.265 跨越50年的美国版本之子",
+          "url": "/wiki/sources/vol-265-kuayue-50-nian-de-meiguo-banben-zhizi-1001004591/"
+        },
+        {
+          "episode_file": "Vol.245 五周年，你身边的商业就是这样 [955751244].md",
+          "key": "vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244",
+          "show": "商业就是这样",
+          "title": "Vol.245 五周年，你身边的商业就是这样",
+          "url": "/wiki/sources/vol-245-wu-zhounian-ni-shenbian-de-shangye-jiushi-zheyang-955751244/"
+        },
+        {
+          "episode_file": "【旧番重听】蜜蜂经济学 [956460448].md",
+          "key": "jiufan-zhongting-mifeng-jingjixue-956460448",
+          "show": "商业就是这样",
+          "title": "【旧番重听】蜜蜂经济学",
+          "url": "/wiki/sources/jiufan-zhongting-mifeng-jingjixue-956460448/"
+        },
+        {
+          "episode_file": "商业小样45 ｜ 厄尔尼诺越大，鱼越贵 [1000164352].md",
+          "key": "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352",
+          "show": "商业就是这样",
+          "title": "商业小样45 | 厄尔尼诺越大，鱼越贵",
+          "url": "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+        },
+        {
+          "episode_file": "商业小样44 ｜ 世界杯扩军与FIFA的权力斗争 [993354969].md",
+          "key": "shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969",
+          "show": "商业就是这样",
+          "title": "商业小样44 | 世界杯扩军与FIFA的权力斗争",
+          "url": "/wiki/sources/shangye-xiaoyang-44-shijiebei-kuojun-yu-fifa-de-quanli-douzheng-993354969/"
+        },
+        {
+          "episode_file": "Vol.263 郎的诱惑 [998128018].md",
+          "key": "vol-263-lang-de-youhuo-998128018",
+          "show": "商业就是这样",
+          "title": "Vol.263 郎的诱惑",
+          "url": "/wiki/sources/vol-263-lang-de-youhuo-998128018/"
+        },
+        {
+          "episode_file": "商业小样43 ｜ AI时代，谁在给服务器“降温” [992085076].md",
+          "key": "shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076",
+          "show": "商业就是这样",
+          "title": "商业小样43 | AI时代，谁在给服务器“降温”",
+          "url": "/wiki/sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076/"
+        },
+        {
+          "episode_file": "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险 [992614191].md",
+          "key": "vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191",
+          "show": "商业就是这样",
+          "title": "Vol.262 去西班牙买足球俱乐部，一场荒诞的商业冒险",
+          "url": "/wiki/sources/vol-262-qu-xibanya-mai-zuqiu-julebu-yichang-huangdan-de-shangye-maoxian-992614191/"
+        },
+        {
+          "episode_file": "Vol.264 把世界杯作为方法 [999416048].md",
+          "key": "vol-264-ba-shijiebei-zuowei-fangfa-999416048",
+          "show": "商业就是这样",
+          "title": "Vol.264 把世界杯作为方法",
+          "url": "/wiki/sources/vol-264-ba-shijiebei-zuowei-fangfa-999416048/"
+        },
+        {
+          "episode_file": "城市就是这样21｜ 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市 [1001770066].md",
+          "key": "chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066",
+          "show": "商业就是这样",
+          "title": "城市就是这样21 | 十堰：一座因汽车而起、又不甘被汽车“抛下”的城市",
+          "url": "/wiki/sources/chengshi-jiushi-zheyang-21-shiyan-yizuo-yin-qiche-erqi-you-bugan-bei-qiche-paoxia-de-chengshi-1001770066/"
+        },
+        {
+          "episode_file": "商业小样49 ｜ 为什么律师按小时收费？ [1014489821].md",
+          "key": "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821",
+          "show": "商业就是这样",
+          "title": "商业小样49 | 为什么律师按小时收费？",
+          "url": "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/shangyejiushizheyang/"
     },
     "ShanshanKingdomLateHan": {
       "episode_count": 3,
@@ -93027,6 +93555,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/songle/"
     },
+    "SongXiangGong": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "109.闲聊左传之春秋运动会！ [747508773].md",
+          "key": "109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773",
+          "show": "蜜獾吃书",
+          "title": "109.闲聊左传之春秋运动会！",
+          "url": "/wiki/sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！ [lvI4AtPKuS7-diuAzKGASK92TsdS].md",
+          "key": "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/songxianggong/"
+    },
     "SongYiEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -93894,6 +94445,36 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/springautumnintentadjudication/"
+    },
+    "SpringAutumnWarfareRitual": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "109.闲聊左传之春秋运动会！ [747508773].md",
+          "key": "109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773",
+          "show": "蜜獾吃书",
+          "title": "109.闲聊左传之春秋运动会！",
+          "url": "/wiki/sources/109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》07丨两起刺杀（1） [lvkp-jU7PF5z5CZ3tHoJv3S2Fkyx].md",
+          "key": "zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》07丨两起刺杀（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-07-liangqi-cisha-1-lvkp-ju7pf5z5cz3thojv3s2fkyx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！ [lvI4AtPKuS7-diuAzKGASK92TsdS].md",
+          "key": "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/springautumnwarfareritual/"
     },
     "Springboks": {
       "episode_count": 1,
@@ -97849,6 +98430,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/tangwenbin/"
     },
+    "TangWuRevolutionLegitimacyTaboo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/tangwurevolutionlegitimacytaboo/"
+    },
     "TangXuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -98573,6 +99170,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/tengyanlatehan/"
+    },
+    "TeodrosII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/teodrosii/"
     },
     "TerminalMandateSelfDeception": {
       "episode_count": 2,
@@ -113641,6 +114254,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/yizongwesternhan/"
     },
+    "YianPrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/yianprincesswesternhan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -114638,6 +115267,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuanchanglatehan/"
+    },
+    "YuanGusheng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？ [lgrCpYV1Mf14axsQ6hNqxaymrpu0].md",
+          "key": "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/yuangusheng/"
     },
     "YuanHongChenliuLateHan": {
       "episode_count": 1,
@@ -117402,6 +118047,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/zhaolina/"
     },
+    "ZhaoPingjunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？ [lhey4uTgX3NJqEA-SUIqoHJyBrpa].md",
+          "key": "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/zhaopingjunwesternhan/"
+    },
     "ZhaoQiLateHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -119900,6 +120561,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zihandoctor/"
+    },
+    "Zilu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！ [lvI4AtPKuS7-diuAzKGASK92TsdS].md",
+          "key": "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/zilu/"
     },
     "Ziwudao": {
       "episode_count": 1,

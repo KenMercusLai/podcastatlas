@@ -1387,6 +1387,10 @@
     "title": "704. Roman Civil War: Master of the Republic (Part 4)",
     "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
   },
+  "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296": {
+    "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+    "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -3174,6 +3178,14 @@
   "AbusePaymentInfrastructure": {
     "title": "Abuse Payment Infrastructure",
     "url": "/wiki/concepts/abusepaymentinfrastructure/"
+  },
+  "Abyssinia": {
+    "title": "Abyssinia / Ethiopia",
+    "url": "/wiki/entities/abyssinia/"
+  },
+  "AbyssinianExpedition1868": {
+    "title": "Abyssinian Expedition of 1868",
+    "url": "/wiki/entities/abyssinianexpedition1868/"
   },
   "AcFun": {
     "title": "AcFun / A站",
@@ -6010,6 +6022,10 @@
   "AristionAthens": {
     "title": "Aristion of Athens / 雅典的阿里斯提昂",
     "url": "/wiki/entities/aristionathens/"
+  },
+  "AristocraticDeathDignity": {
+    "title": "Aristocratic Death Dignity / 贵族式临终尊严",
+    "url": "/wiki/concepts/aristocraticdeathdignity/"
   },
   "AristocraticFriendshipStateConflict": {
     "title": "Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突",
@@ -11326,6 +11342,10 @@
   "ChenJianYuanShuRetainer": {
     "title": "陈简 / Chen Jian (Yuan Shu retainer)",
     "url": "/wiki/entities/chenjianyuanshuretainer/"
+  },
+  "ChenJiaoWesternHan": {
+    "title": "陈蟜 / 陈娇",
+    "url": "/wiki/entities/chenjiaowesternhan/"
   },
   "ChenJingchu": {
     "title": "Chen Jingchu",
@@ -17271,6 +17291,10 @@
     "title": "外交成本风险核算 / Diplomatic Cost-Risk Accounting",
     "url": "/wiki/concepts/diplomaticcostriskaccounting/"
   },
+  "DiplomaticNeglectEscalation": {
+    "title": "Diplomatic Neglect Escalation",
+    "url": "/wiki/concepts/diplomaticneglectescalation/"
+  },
   "DiplomaticPersonaAsStrategicAsset": {
     "title": "Diplomatic Persona as Strategic Asset",
     "url": "/wiki/concepts/diplomaticpersonaasstrategicasset/"
@@ -17818,6 +17842,10 @@
   "DongchengChuHan": {
     "title": "东城 / Dongcheng (Chu-Han)",
     "url": "/wiki/entities/dongchengchuhan/"
+  },
+  "DongfangShuo": {
+    "title": "东方朔 / Dongfang Shuo",
+    "url": "/wiki/entities/dongfangshuo/"
   },
   "DongfengMotor": {
     "title": "Dongfeng Motor / 东风汽车",
@@ -28455,6 +28483,10 @@
     "title": "Hormone Context Aggression",
     "url": "/wiki/concepts/hormonecontextaggression/"
   },
+  "HormuzdRassam": {
+    "title": "Hormuzd Rassam",
+    "url": "/wiki/entities/hormuzdrassam/"
+  },
   "HorrorHumorWeirdFiction": {
     "title": "Horror-Humor Weird Fiction",
     "url": "/wiki/concepts/horrorhumorweirdfiction/"
@@ -28522,6 +28554,10 @@
   "HostageDiplomacyRupture": {
     "title": "Hostage Diplomacy Rupture / 质子外交破裂",
     "url": "/wiki/concepts/hostagediplomacyrupture/"
+  },
+  "HostageMissionDependencyTrap": {
+    "title": "Hostage Mission Dependency Trap",
+    "url": "/wiki/concepts/hostagemissiondependencytrap/"
   },
   "HostageRansomDeterrence": {
     "title": "Hostage-Ransom Deterrence / 劫质禁赎威慑",
@@ -28975,6 +29011,10 @@
     "title": "黄琼 / Huang Qiong (late Han)",
     "url": "/wiki/entities/huangqionglatehan/"
   },
+  "HuangShengWesternHan": {
+    "title": "黄生 / Huang Sheng (Western Han)",
+    "url": "/wiki/entities/huangshengwesternhan/"
+  },
   "HuangShengchun": {
     "title": "黄圣淳 / Shengchun Huang",
     "url": "/wiki/entities/huangshengchun/"
@@ -29406,6 +29446,10 @@
   "HumorousConservationWriting": {
     "title": "Humorous Conservation Writing",
     "url": "/wiki/concepts/humorousconservationwriting/"
+  },
+  "HumorousRemonstrance": {
+    "title": "滑稽讽谏 / Humorous Remonstrance",
+    "url": "/wiki/concepts/humorousremonstrance/"
   },
   "HumphreyAppleby": {
     "title": "Humphrey Appleby / 汉弗瑞",
@@ -37579,6 +37623,10 @@
     "title": "Longhua Airport / 龙华机场",
     "url": "/wiki/entities/longhuaairport/"
   },
+  "LongluePrincessWesternHan": {
+    "title": "隆虑公主 / Longlü Princess",
+    "url": "/wiki/entities/longlueprincesswesternhan/"
+  },
   "Longma": {
     "title": "Longma / 龙马",
     "url": "/wiki/entities/longma/"
@@ -38714,6 +38762,10 @@
   "MagazineReadingEcology": {
     "title": "Magazine Reading Ecology / 杂志阅读生态",
     "url": "/wiki/concepts/magazinereadingecology/"
+  },
+  "Magdala": {
+    "title": "Magdala",
+    "url": "/wiki/entities/magdala/"
   },
   "MagellanicPenguin": {
     "title": "Magellanic Penguin / 麦哲伦企鹅",
@@ -45739,6 +45791,10 @@
     "title": "父母期望羞耻化 / Parental Expectation Shame",
     "url": "/wiki/concepts/parentalexpectationshame/"
   },
+  "ParentalIndulgenceBlindness": {
+    "title": "溺爱不明 / Parental Indulgence Blindness",
+    "url": "/wiki/concepts/parentalindulgenceblindness/"
+  },
   "ParentalJudgmentOutsourcing": {
     "title": "Parental Judgment Outsourcing",
     "url": "/wiki/concepts/parentaljudgmentoutsourcing/"
@@ -48639,6 +48695,10 @@
     "title": "Professional Dignity Beyond Patient Identity",
     "url": "/wiki/concepts/professionaldignitybeyondpatientidentity/"
   },
+  "ProfessionalServicesBillableHour": {
+    "title": "Professional Services Billable Hour",
+    "url": "/wiki/concepts/professionalservicesbillablehour/"
+  },
   "ProfessionalToolBranding": {
     "title": "Professional Tool Branding",
     "url": "/wiki/concepts/professionaltoolbranding/"
@@ -50094,6 +50154,10 @@
   "QueenOfHearts": {
     "title": "Queen of Hearts / 红心王后",
     "url": "/wiki/entities/queenofhearts/"
+  },
+  "QueenVictoria": {
+    "title": "Queen Victoria",
+    "url": "/wiki/entities/queenvictoria/"
   },
   "QueerSafetyRetreat": {
     "title": "Queer Safety Retreat / 少数群体安全退让",
@@ -59219,6 +59283,10 @@
     "title": "唐文斌 / Tang Wenbin",
     "url": "/wiki/entities/tangwenbin/"
   },
+  "TangWuRevolutionLegitimacyTaboo": {
+    "title": "Tang-Wu Revolution Legitimacy Taboo / 汤武革命合法性禁区",
+    "url": "/wiki/concepts/tangwurevolutionlegitimacytaboo/"
+  },
   "TangXiaoou": {
     "title": "汤晓鸥 / Tang Xiao'ou",
     "url": "/wiki/entities/tangxiaoou/"
@@ -59794,6 +59862,10 @@
   "TensorFlow": {
     "title": "TensorFlow",
     "url": "/wiki/entities/tensorflow/"
+  },
+  "TeodrosII": {
+    "title": "Teodros II",
+    "url": "/wiki/entities/teodrosii/"
   },
   "TerenceONeill": {
     "title": "Terence O'Neill",
@@ -68003,6 +68075,10 @@
     "title": "义纵 / Yi Zong (Western Han)",
     "url": "/wiki/entities/yizongwesternhan/"
   },
+  "YianPrincessWesternHan": {
+    "title": "夷安公主 / Yian Princess",
+    "url": "/wiki/entities/yianprincesswesternhan/"
+  },
   "Yibin": {
     "title": "Yibin / 宜宾",
     "url": "/wiki/entities/yibin/"
@@ -68610,6 +68686,10 @@
   "YuanFangHYROX": {
     "title": "袁放 / Yuan Fang (HYROX)",
     "url": "/wiki/entities/yuanfanghyrox/"
+  },
+  "YuanGusheng": {
+    "title": "袁固生 / Yuan Gusheng",
+    "url": "/wiki/entities/yuangusheng/"
   },
   "YuanHongChenliuLateHan": {
     "title": "袁闳 / Yuan Hong (Chenliu, late Han)",
@@ -69927,6 +70007,10 @@
     "title": "昭平 / Zhao Ping (Rebel)",
     "url": "/wiki/entities/zhaopingrebel/"
   },
+  "ZhaoPingjunWesternHan": {
+    "title": "赵平君 / Zhao Pingjun",
+    "url": "/wiki/entities/zhaopingjunwesternhan/"
+  },
   "ZhaoPu": {
     "title": "赵普 / Zhao Pu",
     "url": "/wiki/entities/zhaopu/"
@@ -71006,6 +71090,10 @@
   "Zili": {
     "title": "自立",
     "url": "/wiki/entities/zili/"
+  },
+  "Zilu": {
+    "title": "子路 / Zilu / Zhong You",
+    "url": "/wiki/entities/zilu/"
   },
   "ZincPopcornBuckets": {
     "title": "Zinc (popcorn-bucket design)",
@@ -73583,6 +73671,10 @@
     "title": "商业小样48 | 不要在财报中创造指标",
     "url": "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"
   },
+  "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821": {
+    "title": "商业小样49 | 为什么律师按小时收费？",
+    "url": "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+  },
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
     "url": "/wiki/sources/shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud/"
@@ -76002,6 +76094,22 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds": {
+    "title": "《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds/"
+  },
+  "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa": {
+    "title": "《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa/"
+  },
+  "zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9": {
+    "title": "《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9/"
+  },
+  "zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0": {
+    "title": "《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0/"
   },
   "zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9": {
     "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",

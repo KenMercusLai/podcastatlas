@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7381
+wiki_total_pages: 7388
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1448,6 +1448,9 @@ wiki_pages:
   - key: "ProfessionalDignityBeyondPatientIdentity"
     title: "Professional Dignity Beyond Patient Identity"
     url: "/wiki/concepts/professionaldignitybeyondpatientidentity/"
+  - key: "ProfessionalServicesBillableHour"
+    title: "Professional Services Billable Hour"
+    url: "/wiki/concepts/professionalservicesbillablehour/"
   - key: "ProfessionalToolBranding"
     title: "Professional Tool Branding"
     url: "/wiki/concepts/professionaltoolbranding/"
@@ -1958,6 +1961,9 @@ wiki_pages:
   - key: "PreventiveFrontierGovernance"
     title: "治未病式边疆治理 / Preventive Frontier Governance"
     url: "/wiki/concepts/preventivefrontiergovernance/"
+  - key: "ParentalIndulgenceBlindness"
+    title: "溺爱不明 / Parental Indulgence Blindness"
+    url: "/wiki/concepts/parentalindulgenceblindness/"
   - key: "PaternalLocalOfficeEthic"
     title: "父母官式地方官伦理 / Paternal Local Office Ethic"
     url: "/wiki/concepts/paternallocalofficeethic/"

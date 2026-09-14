@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "MAGA"
     title: "MAGA / Make America Great Again"
     url: "/wiki/entities/maga/"
+  - key: "Magdala"
+    title: "Magdala"
+    url: "/wiki/entities/magdala/"
   - key: "MagellanicPenguin"
     title: "Magellanic Penguin / 麦哲伦企鹅"
     url: "/wiki/entities/magellanicpenguin/"

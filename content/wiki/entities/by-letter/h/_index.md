@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -599,6 +599,9 @@ wiki_pages:
   - key: "Hormel"
     title: "Hormel"
     url: "/wiki/entities/hormel/"
+  - key: "HormuzdRassam"
+    title: "Hormuzd Rassam"
+    url: "/wiki/entities/hormuzdrassam/"
   - key: "Horse"
     title: "Horse / 马"
     url: "/wiki/entities/horse/"
@@ -1478,6 +1481,9 @@ wiki_pages:
   - key: "HuangQiongLateHan"
     title: "黄琼 / Huang Qiong (late Han)"
     url: "/wiki/entities/huangqionglatehan/"
+  - key: "HuangShengWesternHan"
+    title: "黄生 / Huang Sheng (Western Han)"
+    url: "/wiki/entities/huangshengwesternhan/"
   - key: "HuangGai"
     title: "黄盖 / Huang Gai"
     url: "/wiki/entities/huanggai/"

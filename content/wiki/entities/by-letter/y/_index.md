@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "YuTheGreat"
     title: "大禹 / Yu the Great"
     url: "/wiki/entities/yuthegreat/"
+  - key: "YianPrincessWesternHan"
+    title: "夷安公主 / Yian Princess"
+    url: "/wiki/entities/yianprincesswesternhan/"
   - key: "YaoGuangLateHan"
     title: "姚光 / Yao Guang (late Han)"
     url: "/wiki/entities/yaoguanglatehan/"
@@ -866,6 +869,9 @@ wiki_pages:
   - key: "YuanShengChuHan"
     title: "袁先生 / Yuan Sheng (Chu-Han)"
     url: "/wiki/entities/yuanshengchuhan/"
+  - key: "YuanGusheng"
+    title: "袁固生 / Yuan Gusheng"
+    url: "/wiki/entities/yuangusheng/"
   - key: "YuanAnEasternHan"
     title: "袁安 / Yuan An (Eastern Han)"
     url: "/wiki/entities/yuananeasternhan/"

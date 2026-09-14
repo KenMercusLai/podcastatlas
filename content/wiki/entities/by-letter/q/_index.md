@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "QueenOfHearts"
     title: "Queen of Hearts / 红心王后"
     url: "/wiki/entities/queenofhearts/"
+  - key: "QueenVictoria"
+    title: "Queen Victoria"
+    url: "/wiki/entities/queenvictoria/"
   - key: "QuickFax"
     title: "QuickFax"
     url: "/wiki/entities/quickfax/"

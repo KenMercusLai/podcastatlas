@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7381
+wiki_total_pages: 7388
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "TangStrangeTaleRepaymentEthics"
     title: "Tang Strange-Tale Repayment Ethics"
     url: "/wiki/concepts/tangstrangetalerepaymentethics/"
+  - key: "TangWuRevolutionLegitimacyTaboo"
+    title: "Tang-Wu Revolution Legitimacy Taboo / 汤武革命合法性禁区"
+    url: "/wiki/concepts/tangwurevolutionlegitimacytaboo/"
   - key: "TankaEverydayExpression"
     title: "Tanka As Everyday Expression"
     url: "/wiki/concepts/tankaeverydayexpression/"

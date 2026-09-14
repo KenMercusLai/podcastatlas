@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！
+
+Added source page for the 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn aristocratic war etiquette, Zilu fixing his cap before death, and noble spirit in Chinese culture. Created pages for Zilu and Aristocratic Death Dignity; migrated and updated Song Xiang Gong and Spring-Autumn Warfare Ritual to `synthesis-v1`; updated overview and index. No direct contradiction found; the episode's European chivalry and French Revolutionary comparisons are kept as source-scoped analogies rather than full institutional equivalence.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘
 
 Added source `zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9`; created `OuterConfucianInnerLegalistGovernance`; updated `DongZhongshu`, `HanWudi`, and `ConfucianLegalistGovernanceBalance` with the episode's Dong Zhongshu-centered "外儒内法" reading. No settled contradiction found; claims about original Confucianism, Han Fei, "三纲," and two-millennium political continuity remain source-scoped.
@@ -2200,6 +2204,10 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？
+
+Added source `zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0`; created `YuanGusheng`, `HuangShengWesternHan`, and `TangWuRevolutionLegitimacyTaboo`; updated early Confucian resistance, Mencian people-based legitimacy, outer-Confucian inner-Legalist governance, and Han Jingdi with the Tang-Wu debate and Han founding self-reference problem. No settled contradiction found; the "法先王/法今王" contrast and post-debate scholarly taboo remain source-scoped.
 
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？
 
@@ -19242,9 +19250,25 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 商业小样49 | 为什么律师按小时收费？
+
+Added source `shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821`; created `ProfessionalServicesBillableHour`; updated `LegalServicesAIEconomics`, `ShangyeJiushiZheyang`, `index.md`, and `overview.md` with the billable-hour history, professional-services pricing, fixed-fee alternatives, utilization incentives, and AI pressure on hourly legal work. No settled contradiction found; the Smith origin story, Boston Legal Aid Society metrics, and unnamed 2026 survey remain source-scoped.
+
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？
+
+Added source. Key claims: Han Wudi refuses to let Longlü Princess's paid plea exempt Zhao Pingjun from execution; the case extends law-over-kinship governance, creates the parental indulgence blindness concept, and adds Dongfang Shuo's praise of punishment that does not spare kin.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人
+
+Added source `zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9`; created `DongfangShuo` and `HumorousRemonstrance` for the episode's comic-corrective opening; connected the source to Han Wudi's Ban Gu/Sima Guang evaluation contrast and the early Han Zhao-Huo Guang regency transition. No settled contradiction found; the fangshi anecdote, Peng Zu logic, seal-scare details, Jibei king case, and Xiongnu notice remain source-scoped.
+
+## [2026-09-14] ingest | 705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)
+
+Added source `705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296`; created Abyssinian Expedition, Teodros II, Abyssinia, Magdala, Queen Victoria, Hormuzd Rassam, Diplomatic Neglect Escalation, and Hostage Mission Dependency Trap pages. No settled contradiction found; Teodros's motives, mental state, later Magdala campaign, and restitution after the storming remain source-scoped.
 
 ## [2026-09-14] ingest | 659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)
 
@@ -19466,6 +19490,30 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "Zigong"
     title: "子贡 / Zigong / Duanmu Ci"
     url: "/wiki/entities/zigong/"
+  - key: "Zilu"
+    title: "子路 / Zilu / Zhong You"
+    url: "/wiki/entities/zilu/"
   - key: "ZiyangZheng"
     title: "子阳 / Ziyang of Zheng"
     url: "/wiki/entities/ziyangzheng/"
@@ -1367,6 +1370,9 @@ wiki_pages:
   - key: "ZhaoQiLateHan"
     title: "赵岐 / Zhao Qi (late Han)"
     url: "/wiki/entities/zhaoqilatehan/"
+  - key: "ZhaoPingjunWesternHan"
+    title: "赵平君 / Zhao Pingjun"
+    url: "/wiki/entities/zhaopingjunwesternhan/"
   - key: "ZhaoGuanghanWesternHan"
     title: "赵广汉 / Zhao Guanghan (Western Han)"
     url: "/wiki/entities/zhaoguanghanwesternhan/"

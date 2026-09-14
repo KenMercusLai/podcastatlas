@@ -1,45 +1,75 @@
 ---
 title: "Mencian People-Based Legitimacy / 孟子的民本合法性"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [political-theory, legitimacy, confucianism, china]
-sources: [zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade, zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug, zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28, zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8, zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade
+  - zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug
+  - zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28
+  - zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8
+  - zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db
+  - 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138
+  - zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0
+last_updated: 2026-09-14
 ---
 
-# Mencian People-Based Legitimacy / 孟子的民本合法性
+## Definition
 
-[[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] adds the garden-access version of Mencian legitimacy. The episode uses the [[MenciusText|Mencius]] contrast between [[ZhouWenwang|King Wen of Zhou]] and [[QiXuanWang|King Xuan of Qi]] to argue that a ruler's pleasure project is judged by public use and livelihood impact, not by the ruler's citation of precedent. [[EmperorLingOfHan|Emperor Ling]]'s garden project fails because it takes fields and drives residents away.
+Mencian People-Based Legitimacy / 孟子的民本合法性 is the doctrine cluster in which ruler legitimacy is tested through people's welfare, acceptance, and seeing/hearing rather than through ruler possession, private pleasure, conquest speed, or empty Heaven language.
 
-Mencian people-based legitimacy is [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]]'s synthesis of "民贵君轻," "暴君非君," and "天视自我民视，天听自我民听." The episode argues that [[Mengzi|孟子 / Mencius]] makes the people the decisive test of rule: the ruler does not privately own the realm, and Heaven's approval is legible through the people's response.
+## Current Synthesis
 
-The source presents this as a strong indigenous Chinese resource for thinking about dignity, accountability, and limits on monarchy. When [[QiXuanWang|齐宣王]] asks whether killing tyrants Jie and Zhou was regicide, Mencius's answer that he has heard of killing the "one fellow" Zhou, not murdering a ruler, becomes the episode's most radical example.
+The current source set makes people-based legitimacy both moral doctrine and practical governance test. "民贵君轻," "暴君非君," and "天视自我民视，天听自我民听" converge into a people-first account of legitimate rule: [[Mengzi|孟子 / Mencius]] treats the people as the decisive test, so Heaven's approval is legible through public response rather than private dynastic possession.
 
-[[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] adds the constructive side of the same legitimacy frame through [[WeiXiangwang|魏襄王]]. Mencius says the ruler who can unify the realm is the one who does not love killing, because people suffering under violence will move toward humane rule. The episode turns that into [[NonKillingUnification|不爱杀人者能一之]] and tests it against [[SongJunYan|宋康王 / 宋君偃]]'s failure to retain popular support.
+The Zhouji and Hanji applications turn that doctrine into repeatable tests. A ruler who does not love killing can attract people under violent conditions; a conqueror must repair life rather than merely seize territory; an occupier must discipline troops, reduce burdens, and handle final holdouts without destroying governability; and a ruler's pleasure project must be judged by public access and livelihood cost rather than classical citation.
 
-[[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] applies the same people-based test to conquest. [[QiXuanWang|齐宣王]] treats the fast seizure of [[YanState|燕国]] as possible Heaven-backed success, but [[Mengzi|孟子 / Mencius]] says legitimacy depends on whether Yan's people are actually relieved and protected. The episode therefore makes post-conquest conduct, not only anti-tyrant rhetoric, part of the concept.
-
-[[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] adds a reverse case after [[YanState|燕国]] conquers most of [[QiState|齐国]]. [[LeYi|乐毅]]'s forces are described as forbidding plunder, honoring hidden worthies, reducing taxes, removing harsh laws, and restoring old good policies. The case does not erase the coercion shown in [[WangZhu|王蠋]]'s death, but it does show the occupation-repair checklist the wiki can compare against Qi's earlier failed rule in Yan.
-
-[[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] adds the siege-side logic of the same occupation test. Le Yi delays force against [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] because storming the last cities may make already captured Qi people fear Yan rule again. The source therefore turns people-based legitimacy into an operational military constraint: an occupier may need restraint at the frontier to keep the interior governable.
+The dynastic self-reference problem is the newest current qualification. [[YuanGusheng|袁固生]] uses people-based mandate logic to defend Tang's replacement of Jie, but his question about [[LiuBang|刘邦]] replacing Qin shows why the logic is explosive inside an established dynasty. The same idea that justifies a founder can make later rulers vulnerable to judgment.
 
 ## Key Claims
-- Hanji 919 adds that the Mencian test for ruler pleasure depends on people's access and livelihood, not the prestige of classical language.
-- The people are more important than the ruler in the hierarchy of political value.
-- A tyrant who destroys renyi loses the moral status of ruler.
-- Heaven's will is not treated as private dynastic property; it is read through the people's seeing and hearing.
-- The concept overlaps with [[MandateOfHeavenLegitimacy]] but emphasizes popular response more than omens or sacred dynastic signs.
-- Conquest cannot claim the people's mandate if the occupying force kills, imprisons, plunders, and refuses corrective governance.
-- Conquest has a positive repair test as well: discipline, tax relief, protection of property, and restoration of tolerable law are practical signs that the conqueror is seeking governability rather than only spoils.
-- The final holdouts can shape the legitimacy of the entire occupation because their treatment becomes evidence for or against the conqueror's promises.
 
-## Connections
-- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]], [[SharedPleasureGovernanceTest|与民同乐治理检验]], [[EmperorLingOfHan|汉灵帝]], [[YangCiLateHan|杨赐]], [[ZhouWenwang|周文王]], and [[QiXuanWang|齐宣王]] - garden-access application of the people-based test.
-- [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[QiXuanWang|齐宣王]] - core source material.
-- [[WeiXiangwang|魏襄王]], [[NonKillingUnification|不爱杀人者能一之]], and [[SongJunYan|宋康王 / 宋君偃]] - Zhouji 45 non-killing and failed violent-rule extension.
-- [[YanState|燕国]], [[ShangTang|商汤]], [[MencianBenevolentGovernment|孟子仁政]], and [[CorrectableLeadershipError|犯错能改的领导力]] - Zhouji 49 conquest and repair extension.
-- [[LeYi|乐毅]], [[QiState|齐国]], [[WangZhu|王蠋]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - Zhouji 72 post-conquest repair and coercion boundary.
-- [[JuWarringStates|莒城]], [[JimoWarringStates|即墨]], and [[OccupationPacificationStrategy|占领区怀柔治理]] - Zhouji 78 final-holdout restraint and people-support calculation.
-- [[EarlyConfucianResistancePolitics]] - broader resistance frame.
-- [[MencianBenevolentGovernment]] and [[ConstantPropertyConstantHeart]] - welfare basis for legitimacy.
-- [[MandateOfHeavenLegitimacy]] and [[DynasticLegitimacyBackfire]] - adjacent wiki legitimacy concepts.
-- [[ConfucianIdealGovernance]] - later imperial contrast.
+- The people are more important than the ruler in the hierarchy of political value.
+- A tyrant who destroys renyi can lose the moral status of ruler.
+- Heaven's will is read through people's seeing, hearing, welfare, and acceptance, not only through omens or ruler claims.
+- Conquest cannot claim the people's mandate if it kills, imprisons, plunders, and refuses corrective governance.
+- Occupation has a positive repair test: discipline, tax relief, property protection, and tolerable law make rule more governable.
+- Ruler pleasure is legitimate only when public access and livelihood effects survive the test.
+- People-based mandate logic can become a dynastic taboo because it justifies past founding rupture and threatens future rulers.
+
+## Evidence
+
+Core doctrine and tyrant delegitimation:
+- [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] links "民贵君轻," "暴君非君," and Heaven's seeing/hearing through the people into a people-first theory of legitimate rule.
+
+Non-killing and popular movement:
+- [[zizhi-tongjian-zhouji-45-yi-shi-wei-jian-junwang-daodi-gai-bu-gai-sharen-chengxing-lo3cok7cfwzrxesp-i8miz1fc1db]] uses Mencius's answer to [[WeiXiangwang|魏襄王]] to argue that durable unification belongs to the ruler who does not love killing; it tests the point against [[SongJunYan|宋康王 / 宋君偃]] and the Liu Bang/Xiang Yu contrast.
+
+Conquest and occupation repair:
+- [[zizhi-tongjian-zhouji-49-mengzi-yue-wo-jiao-ni-zhiguo-ni-que-ba-wo-dang-huaping-lhy14pbf9thcfdiaulcmf8dwcef8]] says [[QiXuanWang|齐宣王]] cannot treat quick victory over [[YanState|燕国]] as Heaven's will unless Yan's people are relieved and protected.
+- [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28]] presents [[LeYi|乐毅]]'s post-conquest discipline, tax relief, and policy restoration as occupation repair.
+- [[zizhi-tongjian-zhouji-78-qiguo-mingyun-jing-bei-chengguan-gei-jiule-lpt3reyr6ok8g2lhcxrnd5qctyug]] says Le Yi avoids storming [[JuWarringStates|莒城]] and [[JimoWarringStates|即墨]] quickly because treatment of holdouts affects already-conquered people's trust.
+
+Pleasure and livelihood:
+- [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] uses the Mencian garden contrast to argue that a ruler's pleasure project is judged by public use and livelihood impact, not by prestige citations.
+
+Dynastic self-reference:
+- [[zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0|Hanji 392-3]] shows Yuan Gusheng using the same people-based mandate logic to defend Tang-Wu revolution, then applying the question to Liu Bang's replacement of Qin.
+
+## Counterevidence & Qualifications
+
+The concept overlaps with [[MandateOfHeavenLegitimacy]] but emphasizes popular response more than omens, sacred signs, or ritual recognition. Several source cases remain interpretive podcast readings of classical passages rather than full textual history. The occupation cases also show coercive limits: Le Yi's repair strategy does not erase violence, conquest, or Wang Zhu's coercive loyalty dilemma.
+
+## What Changed
+
+- Added Hanji 392-3's Tang-Wu debate as a dynastic self-reference case showing why people-based mandate logic can become politically taboo.
+- Converted the page to the synthesis-v1 schema while preserving the existing source order.
+
+## Related Concepts
+
+- [[EarlyConfucianResistancePolitics]] - broader frame: people-based legitimacy is the sharpest legitimacy branch inside early Confucian resistance language.
+- [[TangWuRevolutionLegitimacyTaboo]] - political boundary: makes the self-reference danger of anti-tyrant doctrine explicit.
+- [[MandateOfHeavenLegitimacy]] - overlapping frame: Heaven's approval is interpreted through popular welfare and response.
+- [[MencianBenevolentGovernment]] - practical governance: welfare and care are the positive side of legitimacy.
+- [[OccupationPacificationStrategy]] - military-political application: conquest must become tolerable rule.
+- [[SharedPleasureGovernanceTest]] - ruler-pleasure application: public access and livelihood judge elite projects.
+- [[DynasticLegitimacyBackfire]] - downstream risk: founding stories can return as arguments against later rule.

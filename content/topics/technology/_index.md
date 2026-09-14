@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2994
+topic_total_pages: 2996
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3250,6 +3250,9 @@ topic_concepts:
   - key: "ProductiveBubbleSpillovers"
     title: "Productive Bubble Spillovers"
     url: "/wiki/concepts/productivebubblespillovers/"
+  - key: "ProfessionalServicesBillableHour"
+    title: "Professional Services Billable Hour"
+    url: "/wiki/concepts/professionalservicesbillablehour/"
   - key: "ProgrammableMatter"
     title: "Programmable Matter"
     url: "/wiki/concepts/programmablematter/"
@@ -8835,6 +8838,9 @@ topic_sources:
   - key: "shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076"
     title: "商业小样43 | AI时代，谁在给服务器“降温”"
     url: "/wiki/sources/shangye-xiaoyang-43-ai-shidai-shui-zai-gei-fuwuqi-jiangwen-992085076/"
+  - key: "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821"
+    title: "商业小样49 | 为什么律师按小时收费？"
+    url: "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
   - key: "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f"
     title: "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23"
     url: "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"

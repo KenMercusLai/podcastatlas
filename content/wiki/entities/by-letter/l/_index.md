@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -2000,6 +2000,9 @@ wiki_pages:
   - key: "LinChangQiang"
     title: "陵昌 / 林昌 / Lin Chang (Qiang)"
     url: "/wiki/entities/linchangqiang/"
+  - key: "LongluePrincessWesternHan"
+    title: "隆虑公主 / Longlü Princess"
+    url: "/wiki/entities/longlueprincesswesternhan/"
   - key: "LinglingCommanderyLateHan"
     title: "零陵郡 / Lingling Commandery (late Han)"
     url: "/wiki/entities/linglingcommanderylatehan/"

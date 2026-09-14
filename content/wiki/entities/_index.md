@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -119,6 +119,12 @@ wiki_pages:
   - key: "AbudBakri"
     title: "Abud Bakri"
     url: "/wiki/entities/abudbakri/"
+  - key: "Abyssinia"
+    title: "Abyssinia / Ethiopia"
+    url: "/wiki/entities/abyssinia/"
+  - key: "AbyssinianExpedition1868"
+    title: "Abyssinian Expedition of 1868"
+    url: "/wiki/entities/abyssinianexpedition1868/"
   - key: "Accel"
     title: "Accel"
     url: "/wiki/entities/accel/"

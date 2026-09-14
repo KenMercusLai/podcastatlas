@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10045
+wiki_total_pages: 10059
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "TensorFlow"
     title: "TensorFlow"
     url: "/wiki/entities/tensorflow/"
+  - key: "TeodrosII"
+    title: "Teodros II"
+    url: "/wiki/entities/teodrosii/"
   - key: "TerenceONeill"
     title: "Terence O'Neill"
     url: "/wiki/entities/terenceoneill/"

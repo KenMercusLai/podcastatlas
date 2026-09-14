@@ -2207,6 +2207,13 @@
       "url": "/topics/history/"
     }
   ],
+  "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": [
     {
       "key": "history",
@@ -5643,6 +5650,20 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Abyssinia": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "AbyssinianExpedition1868": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AcademicAIResearchRole": [
@@ -21068,6 +21089,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DiplomaticNeglectEscalation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DiplomaticPersonaAsStrategicAsset": [
     {
       "key": "politics",
@@ -33199,6 +33227,18 @@
       "url": "/topics/science/"
     }
   ],
+  "HormuzdRassam": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HorrorHumorWeirdFiction": [
     {
       "key": "culture",
@@ -33276,6 +33316,13 @@
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "HostageMissionDependencyTrap": [
     {
       "key": "politics",
       "label": "Politics",
@@ -50825,6 +50872,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ParentalIndulgenceBlindness": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ParentalJudgmentOutsourcing": [
     {
       "key": "technology",
@@ -54340,6 +54394,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ProfessionalServicesBillableHour": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ProfessionalWearableMoat": [
@@ -77430,6 +77496,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhaoPingjunWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ZhaoQiLateHan": [
     {
       "key": "politics",
@@ -82095,6 +82168,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": [
     {
       "key": "technology",
@@ -85421,6 +85506,27 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp": [

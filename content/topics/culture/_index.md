@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2702
+topic_total_pages: 2703
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2842,6 +2842,9 @@ topic_concepts:
   - key: "QingLiteraryInquisition"
     title: "清代文字狱 / Qing Literary Inquisition"
     url: "/wiki/concepts/qingliteraryinquisition/"
+  - key: "ParentalIndulgenceBlindness"
+    title: "溺爱不明 / Parental Indulgence Blindness"
+    url: "/wiki/concepts/parentalindulgenceblindness/"
   - key: "XipingStoneClassics"
     title: "熹平石经 / Xiping Stone Classics"
     url: "/wiki/concepts/xipingstoneclassics/"

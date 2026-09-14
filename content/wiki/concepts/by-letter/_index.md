@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7381
+wiki_total_pages: 7388
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1928,6 +1928,9 @@ wiki_pages:
   - key: "ArchivePreservationBias"
     title: "Archive Preservation Bias / 档案保存偏差"
     url: "/wiki/concepts/archivepreservationbias/"
+  - key: "AristocraticDeathDignity"
+    title: "Aristocratic Death Dignity / 贵族式临终尊严"
+    url: "/wiki/concepts/aristocraticdeathdignity/"
   - key: "AristocraticFriendshipStateConflict"
     title: "Aristocratic Friendship vs State Order / 贵族义气与国家秩序冲突"
     url: "/wiki/concepts/aristocraticfriendshipstateconflict/"

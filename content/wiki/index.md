@@ -6,6 +6,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》391-4｜中国没有贵族精神？别看不起我们的文化！](sources/zizhi-tongjian-hanji-391-4-zhongguo-meiyou-guizu-jingshen-bie-kanbuqi-womende-wenhua-lvi4atpkus7-diuazkgask92tsds.md) — 芮淇讲透资治通鉴 short episode on Song Xiang Gong, Spring-Autumn war etiquette, Zilu fixing his cap before death, and Chinese aristocratic spirit.
+- [《资治通鉴·汉纪》392-1｜汉武帝收了妹妹的钱，为何仍要杀死亲外甥？](sources/zizhi-tongjian-hanji-392-1-hanwudi-shoule-meimei-de-qian-weihe-reng-yao-shasi-qinwaisheng-lhey4utgx3njqea-suiqohjybrpa.md) — 芮淇讲透资治通鉴 episode on Han Wudi executing Zhao Pingjun despite Longlü Princess's paid plea, turning kinship-law conflict into a family-education warning and Dongfang Shuo praise scene.
+- [《资治通鉴·汉纪》392-2｜相声界祖师爷东方朔，是个怎样的奇人](sources/zizhi-tongjian-hanji-392-2-xiangshengjie-zushiye-dongfangshuo-shi-ge-zenyang-de-qiren-lnhc_lsj53gy-yqmwqobnw5y37g9.md) — 芮淇讲透资治通鉴 episode on Dongfang Shuo's comic remonstrance, Ban Gu and Sima Guang's split Han Wudi evaluations, and Han Zhao's early regency under Huo Guang.
+- [《资治通鉴·汉纪》392-3｜到底怎么做才是一个好帝王？](sources/zizhi-tongjian-hanji-392-3-daodi-zenme-zuo-caishi-yige-hao-diwang-lgrcpyv1mf14axsq6hnqxaymrpu0.md) — 芮淇讲透资治通鉴 episode on early Confucian resistance politics, Legalist-leaning ruler protection, Yuan Gusheng and Huang Sheng's Tang-Wu revolution debate, and Han founding legitimacy becoming a scholarly taboo.
+- [705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)](sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296.md) — The Rest Is History episode on Teodros II, Abyssinia, neglected British correspondence, hostage-taking at Magdala, Rassam's failed rescue mission, and the road to the 1868 expedition.
+- [商业小样49 | 为什么律师按小时收费？](sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821.md) — 商业就是这样 short episode on billable hours as professional-services pricing, law-firm utilization, fixed-fee alternatives, and AI pressure on hourly legal work.
 - [《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘](sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9.md) — 芮淇讲透资治通鉴 episode on Han Wudi's "独尊儒术," Dong Zhongshu's remade official Confucianism, Heaven-response ideology, and outer-Confucian inner-Legalist imperial rule.
 - [Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson](sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944.md) — Huberman Lab Essentials episode with David Anderson on emotions as internal states, VMH aggression and fear hierarchy, mating-circuit crosstalk, PAG routing, tachykinins, social isolation, and vagal brain-body signaling.
 - [《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？](sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a.md) — 芮淇讲透资治通鉴 episode linking Fukushima discharge, Hiroshima, Nagasaki, and Chernobyl into a nuclear-risk memory and externalization argument.
@@ -2440,6 +2446,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [子路 / Zilu / Zhong You](entities/Zilu.md) — Confucius disciple used in Hanji 391-4 as a death-facing ritual dignity example.
+- [赵平君 / Zhao Pingjun](entities/ZhaoPingjunWesternHan.md) — Western Han royal relative whose execution despite close kinship extends the law-over-kinship pattern.
+- [隆虑公主 / Longlü Princess](entities/LongluePrincessWesternHan.md) — Han Wudi's sister whose protective payment for Zhao Pingjun frames the episode's law-versus-affection dilemma.
+- [陈蟜 / 陈娇](entities/ChenJiaoWesternHan.md) — Western Han royal-affinal figure used as family background for Zhao Pingjun's upbringing and legal case.
+- [夷安公主 / Yian Princess](entities/YianPrincessWesternHan.md) — Han Wudi's daughter whose marriage to Zhao Pingjun intensifies the kinship pressure around his execution.
+- [东方朔 / Dongfang Shuo](entities/DongfangShuo.md) — Western Han wit whose fangshi story grounds humorous remonstrance through absurd extrapolation.
+- [袁固生 / Yuan Gusheng](entities/YuanGusheng.md) — Western Han Confucian disputant whose defense of Tang-Wu revolution exposes the self-reference problem in Han founding legitimacy.
+- [黄生 / Huang Sheng (Western Han)](entities/HuangShengWesternHan.md) — Huang-Lao-side disputant who defends fixed ruler-minister hierarchy against Yuan Gusheng's people-based mandate argument.
+- [Abyssinian Expedition of 1868](entities/AbyssinianExpedition1868.md) — British hostage-rescue campaign opened through Teodros II, Magdala, failed diplomacy, and Victorian imperial calculation.
+- [Teodros II](entities/TeodrosII.md) — Abyssinian emperor whose modernizing ambitions and hostage-taking lead toward the 1868 British expedition.
+- [Abyssinia / Ethiopia](entities/Abyssinia.md) — Ancient Christian kingdom and nineteenth-century setting for Teodros II, Magdala, and the Abyssinian Expedition branch.
+- [Magdala](entities/Magdala.md) — Mountain citadel where Teodros II holds European hostages before the British expedition.
+- [Queen Victoria](entities/QueenVictoria.md) — British monarch whose delayed reply to Teodros II becomes a symbolic trigger in the Abyssinian hostage crisis.
+- [Hormuzd Rassam](entities/HormuzdRassam.md) — Assyrian-born British political agent sent to carry Victoria's reply before becoming a hostage himself.
 - [Fukushima Daiichi Nuclear Power Plant](entities/FukushimaDaiichiNuclearPowerPlant.md) — Japan nuclear-accident and wastewater-discharge case used by Hanji 394-3 to frame nuclear risk externalization.
 - [Hiroshima Atomic Bombing](entities/HiroshimaAtomicBombing.md) — Nuclear-weapons memory case used by Hanji 394-3 to illustrate sudden nuclear destruction.
 - [Nagasaki Atomic Bombing](entities/NagasakiAtomicBombing.md) — Second atomic-bombing memory case in Hanji 394-3's nuclear-disaster sequence.
@@ -12490,6 +12510,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Aristocratic Death Dignity / 贵族式临终尊严](concepts/AristocraticDeathDignity.md) — Dignity pattern where bodily composure, ritual form, and courtesy at the edge of death express noble spirit.
+- [溺爱不明 / Parental Indulgence Blindness](concepts/ParentalIndulgenceBlindness.md) — Parenting and family-education pattern where love blinds caregivers to faults and turns protection into exemption from limits.
+- [滑稽讽谏 / Humorous Remonstrance](concepts/HumorousRemonstrance.md) — Corrective speech that uses wit, comic reversal, and absurd extrapolation to expose flattery or false logic near power.
+- [Tang-Wu Revolution Legitimacy Taboo / 汤武革命合法性禁区](concepts/TangWuRevolutionLegitimacyTaboo.md) — Political boundary where anti-tyrant revolution legitimates a dynasty's founding but threatens later rulers if treated as repeatable doctrine.
+- [Diplomatic Neglect Escalation](concepts/DiplomaticNeglectEscalation.md) — Pattern where an ignored diplomatic response becomes a crisis amplifier because recognition and status are at stake.
+- [Hostage Mission Dependency Trap](concepts/HostageMissionDependencyTrap.md) — Crisis pattern where rescue envoys and support missions become additional hostage leverage.
 - [Outer Confucian Inner Legalist Governance / 外儒内法式帝国治理](concepts/OuterConfucianInnerLegalistGovernance.md) — Concept for imperial rule that uses Confucian moral language and Heaven-response ideology as the surface over Legalist hierarchy and centralized control.
 - [Periaqueductal Gray](concepts/PeriaqueductalGray.md) — Disambiguated brain-region page for PAG as a downstream routing hub for innate behavior, posture, and pain modulation.
 - [Social Isolation Tachykinin](concepts/SocialIsolationTachykinin.md) — Animal-model concept linking social isolation, tachykinin-family neuropeptides, aggression, fear, and anxiety-like behavior.
@@ -14413,7 +14439,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
-- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
+- [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal-core, royal-household, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, with Hanji 968 Mao Jie/Qingzhou prehistory and Hanji 1008 Zao Zhi/Ren Jun formal implementation.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
 - [弱势名分安抚 / Weak-Position Pacification](concepts/WeakPositionPacification.md) — Pattern where weak formal appointment becomes real order through reassurance, status grants, livelihood repair, and delayed defense.
@@ -19782,6 +19808,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pre-Product Selling](concepts/PreProductSelling.md) — Selling-first validation pattern using conversations, LOIs, trials, prototypes, and customer sacrifices before full production use exists.
 - [Proactive Agents](concepts/ProactiveAgents.md) — Agents that use context and memory to help before the user fully specifies a task, while still requiring permission and review design.
 - [Product Led Willingness To Pay](concepts/ProductLedWillingnessToPay.md) — Claim that users pay when product value is clear, differentiated, stable, trustworthy, communicated in a concrete user scenario, and matched with a market willing to pay.
+- [Professional Services Billable Hour](concepts/ProfessionalServicesBillableHour.md) — Pricing and management mechanism using recorded expert time as a proxy for uncertain professional value, now pressured by AI.
 - [Promotion Expectation Management](concepts/PromotionExpectationManagement.md) — Making advancement goals, evidence, timing, and manager sponsorship explicit before formal review windows.
 - [Purpose Driven Business](concepts/PurposeDrivenBusiness.md) — Mission-led company-building where social or environmental purpose must still improve customer value and business performance.
 - [Pyramiding](concepts/Pyramiding.md) — Position-sizing rule that adds smaller increments only after an existing trade is profitable and trend-confirmed.
