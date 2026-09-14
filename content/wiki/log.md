@@ -19660,9 +19660,17 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！
+
+Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h`; updated `LiuJuCrownPrinceWesternHan`, `WuguIncidentWesternHan`, and `CrownPrinceTutorPublicInterest` with Liu Ju's surrounded-flight suicide, household-casualty layer, Liu Bingyi survival hook, and Sima Guang's Bowang guest-education critique. No settled contradiction found; Li Shou, Zhang Fuchang, Liu Jin, Wang Wengxu, Linghu Mao, and the full Wugu legal record remain source-scoped.
+
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！](sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's surrounded-flight suicide, two imperial grandsons' deaths, Sima Guang's Bowang guest-education critique, and Liu Bingyi's survival through Bing Ji.
 - [《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？](sources/zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb.md) — 芮淇讲透资治通鉴 episode on Li Guangli's 90 BCE Xiongnu campaign, Liu Quli succession plotting around Liu Bo, family arrests, army mistrust, surrender, and Han Wudi's extermination of the Li family.
 - [273.逛完外滩大会，发现蚂蚁找到了新位置](sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3.md) — 乱翻书 episode using the Bund Conference to reframe Ant Group around Alipay personal agents, 阿福 health, AI payment, 碰一下, OceanBase, Digital Ant, Lingbo, and Ant International.
 - [《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！](sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73.md) — 芮淇讲透资治通鉴 episode on the Gongsun Yong imposture-rebellion,绣衣使者 imperial surveillance, and Han Wudi's remorse after the Wugu case against Crown Prince Liu Ju.

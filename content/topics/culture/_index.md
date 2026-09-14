@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2709
+topic_total_pages: 2710
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7992,6 +7992,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h"
+    title: "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
   - key: "zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp"
     title: "《资治通鉴·汉纪》395-2｜三人背后的人性故事"
     url: "/wiki/sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp/"

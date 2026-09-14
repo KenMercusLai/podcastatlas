@@ -21568,9 +21568,9 @@
       "url": "/wiki/entities/crownprincerudolf/"
     },
     "CrownPrinceTutorPublicInterest": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -21585,9 +21585,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！ [FqN_YfiYAM5dURgRLFlOSLJAho1h].md",
+          "key": "zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/crownprincetutorpublicinterest/"
     },
     "CrownPrinceVoluntaryWithdrawal": {
@@ -62072,9 +62079,9 @@
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuCrownPrinceWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -62096,6 +62103,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！ [FqN_YfiYAM5dURgRLFlOSLJAho1h].md",
+          "key": "zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
         }
       ],
       "updated": "2026-09-14",
@@ -110824,9 +110838,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -110855,6 +110869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！ [FqN_YfiYAM5dURgRLFlOSLJAho1h].md",
+          "key": "zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
         }
       ],
       "updated": "2026-09-14",

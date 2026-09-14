@@ -8,16 +8,17 @@ sources:
   - zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg
   - zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m
   - zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73
+  - zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h
 last_updated: 2026-09-14
 ---
 
 ## Definition
 
-The Wugu Incident / 巫蛊之祸 is the late [[HanWudi|汉武帝]] succession trauma in which [[LiuJuCrownPrinceWesternHan|卫太子刘据]] is destroyed and later presumed dead. In the current wiki it matters in four bounded ways: Hanji 388-2 gives the remorse-and-punishment aftermath, Hanji 391-1 uses it to explain the source-scoped hidden charge against [[LadyGouyiWesternHan|钩弋夫人]], Hanji 390-1 shows the purge of [[JiangChongWesternHan|江充]]'s side making [[MaHeluoWesternHan|马何罗]] and [[MaTongWesternHan|马通]] fear implication, and Hanji 396-2 uses its aftermath to explain why a later false Liu Ju return claim becomes politically explosive.
+The Wugu Incident / 巫蛊之祸 is the late [[HanWudi|汉武帝]] succession trauma in which [[LiuJuCrownPrinceWesternHan|卫太子刘据]] is destroyed and later presumed dead. In the current wiki it matters in five bounded ways: Hanji 387-2 gives Liu Ju's death scene, household destruction, and [[EmperorXuanOfHan|刘病已]] survival hook; Hanji 388-2 gives the remorse-and-punishment aftermath; Hanji 391-1 uses it to explain the source-scoped hidden charge against [[LadyGouyiWesternHan|钩弋夫人]]; Hanji 390-1 shows the purge of [[JiangChongWesternHan|江充]]'s side making [[MaHeluoWesternHan|马何罗]] and [[MaTongWesternHan|马通]] fear implication; and Hanji 396-2 uses its aftermath to explain why a later false Liu Ju return claim becomes politically explosive.
 
 ## Current Synthesis
 
-The current wiki evidence remains narrow but now has a remorse, hidden-guilt, immediate-aftershock, and later-memory branch. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says a later review finds many accusations false and allows Han Wudi to see Liu Ju as driven into fear by Jiang Chong. Tian Qianqiu's memorial reframes the crown prince's action as a father-son matter, after which Wudi punishes Jiang Chong's family, burns [[SuWenWesternHan|苏文]], pursues anti-Liu-Ju attackers, and builds 思子宫 and 归来望思之台. [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] then says Han Wudi later investigates Liu Ju's death and, in the host's interpretation, discovers that Lady Gouyi helped Jiang Chong and Su Wen frame the crown prince. The source treats this as the hidden reason for Lady Gouyi's death but also says Han Wudi does not publicize it because her son [[EmperorZhaoOfHan|刘弗陵]] is the intended successor.
+The current wiki evidence remains narrow but now has a death-and-survival, remorse, hidden-guilt, immediate-aftershock, and later-memory branch. [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] says the Wugu crisis ends for Liu Ju with surrounded flight, suicide, the killing of two imperial grandsons, wider household destruction in Chang'an, and the survival of infant Liu Bingyi through [[BingJiWesternHan|丙吉]]'s protection. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says a later review finds many accusations false and allows Han Wudi to see Liu Ju as driven into fear by Jiang Chong. Tian Qianqiu's memorial reframes the crown prince's action as a father-son matter, after which Wudi punishes Jiang Chong's family, burns [[SuWenWesternHan|苏文]], pursues anti-Liu-Ju attackers, and builds 思子宫 and 归来望思之台. [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] then says Han Wudi later investigates Liu Ju's death and, in the host's interpretation, discovers that Lady Gouyi helped Jiang Chong and Su Wen frame the crown prince. The source treats this as the hidden reason for Lady Gouyi's death but also says Han Wudi does not publicize it because her son [[EmperorZhaoOfHan|刘弗陵]] is the intended successor.
 
 The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]]. Ma Heluo's friendship with Jiang Chong and Ma Tong's reward for fighting Liu Ju had once aligned the brothers with Han Wudi's anti-Liu-Ju response. When Wudi later punishes Jiang Chong's family and associates, that prior alignment becomes a liability, and fear of implication helps push the brothers toward rebellion and attempted assassination.
 
@@ -25,7 +26,7 @@ The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan
 
 ## Key Claims
 
-- The Wugu Incident functions in the current source as a succession-memory background rather than a fully narrated event.
+- The Wugu Incident functions as a succession-memory background whose terminal death-and-survival layer now includes Liu Ju's suicide, family killings, and Liu Bingyi's preservation.
 - Hanji 388-2 makes Wudi's remorse operational: review, Tian Qianqiu's memorial, punishment of Wugu actors, and mourning architecture.
 - Hanji 391-1 source-scopedly treats Lady Gouyi as a hidden participant behind Jiang Chong and Su Wen in Liu Ju's destruction.
 - Han Wudi's alleged concealment of Lady Gouyi's charge shows the incident continuing to shape the legitimacy of Liu Fuling's succession.
@@ -36,6 +37,7 @@ The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan
 ## Evidence
 
 - Remorse and punishment: [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says review of the case reveals many false accusations, Wudi accepts Tian Qianqiu's memorial, and Wudi punishes Jiang Chong, Su Wen, and other anti-Liu-Ju actors.
+- Death scene and surviving line: [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] says Liu Ju hangs himself after being surrounded, two sons die with him, other close family members are killed in Chang'an, and Liu Bingyi survives through Bing Ji's protection.
 - Mourning memory: [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says Wudi builds 思子宫 and 归来望思之台 after recognizing Liu Ju's innocence.
 - Hidden-guilt branch: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says the host regards Lady Gouyi, not only Jiang Chong or Su Wen, as the true behind-the-scenes actor in Liu Ju's frame-up.
 - Succession-legitimacy concealment: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says Han Wudi does not publicize this alleged guilt because Liu Fuling is already the chosen successor.
@@ -46,11 +48,12 @@ The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan
 
 ## Counterevidence & Qualifications
 
-This page should not be treated as a complete account of the Wugu Incident. Hanji 388-2 supplies a compact remorse-and-punishment account, not a full case dossier or primary-source comparison. Hanji 391-1's Lady Gouyi claim is source-scoped and not upgraded here into settled historiography. Hanji 390-1 uses Wugu aftermath to explain Ma Heluo's plot; it does not reconstruct the full Wugu prosecution or prove every participant's legal exposure. Hanji 396-2 does not reconstruct causes, accusations, participants, deaths, legal procedure, or historiographical debate; it only uses the aftermath to explain the false-Liu-Ju crisis under Han Zhao.
+This page should not be treated as a complete account of the Wugu Incident. Hanji 387-2 supplies a compact death-scene and Liu Bingyi survival hook, not the full prosecution or household genealogy. Hanji 388-2 supplies a compact remorse-and-punishment account, not a full case dossier or primary-source comparison. Hanji 391-1's Lady Gouyi claim is source-scoped and not upgraded here into settled historiography. Hanji 390-1 uses Wugu aftermath to explain Ma Heluo's plot; it does not reconstruct the full Wugu prosecution or prove every participant's legal exposure. Hanji 396-2 does not reconstruct causes, accusations, participants, deaths, legal procedure, or historiographical debate; it only uses the aftermath to explain the false-Liu-Ju crisis under Han Zhao.
 
 ## What Changed
 
 - Added Hanji 388-2's remorse branch: case review, Tian Qianqiu's father-son memorial, punishment of Jiang Chong and Su Wen, and mourning structures for Liu Ju.
+- Added Hanji 387-2's terminal branch: Liu Ju's suicide, family casualties, and Liu Bingyi's survival through Bing Ji.
 - Added Hanji 390-1's Ma-family aftershock branch, where fear after the Jiang Chong purge helps produce the Lingguang Palace assassination attempt.
 - Preserved Hanji 391-1's hidden-guilt and succession-legitimacy concealment branch and Hanji 396-2's false-return crisis branch.
 
@@ -61,5 +64,7 @@ This page should not be treated as a complete account of the Wugu Incident. Hanj
 - [[MaHeluoWesternHan]] - Wugu-aftershock conspirator who fears implication and attempts to kill Han Wudi.
 - [[MaTongWesternHan]] - Ma brother whose earlier anti-Liu-Ju service becomes later exposure.
 - [[EmperorZhaoOfHan]] - successor whose legitimacy explains why the source says Lady Gouyi's alleged guilt is concealed.
+- [[EmperorXuanOfHan]] - surviving Liu Ju-line infant whose later accession is foreshadowed by Hanji 387-2.
+- [[BingJiWesternHan]] - protector whose prison intervention preserves Liu Bingyi after the Wugu household catastrophe.
 - [[HeirSupportThreatPerception]] - adjacent succession-risk frame around heirs and alternative claimants.
 - [[SuccessionAuthorityConsolidation]] - broader authority-stabilization frame for early-rule stress.
