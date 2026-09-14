@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10093
+wiki_total_pages: 10097
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1799,6 +1799,9 @@ wiki_pages:
   - key: "StephenChow"
     title: "周星驰 / Stephen Chow"
     url: "/wiki/entities/stephenchow/"
+  - key: "ShangqiuChengWesternHan"
+    title: "商丘成 / Shangqiu Cheng (Western Han)"
+    url: "/wiki/entities/shangqiuchengwesternhan/"
   - key: "ShangyeJiushiZheyang"
     title: "商业就是这样"
     url: "/wiki/entities/shangyejiushizheyang/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？](sources/zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb.md) — 芮淇讲透资治通鉴 episode on Li Guangli's 90 BCE Xiongnu campaign, Liu Quli succession plotting around Liu Bo, family arrests, army mistrust, surrender, and Han Wudi's extermination of the Li family.
 - [273.逛完外滩大会，发现蚂蚁找到了新位置](sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3.md) — 乱翻书 episode using the Bund Conference to reframe Ant Group around Alipay personal agents, 阿福 health, AI payment, 碰一下, OceanBase, Digital Ant, Lingbo, and Ant International.
 - [《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！](sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73.md) — 芮淇讲透资治通鉴 episode on the Gongsun Yong imposture-rebellion,绣衣使者 imperial surveillance, and Han Wudi's remorse after the Wugu case against Crown Prince Liu Ju.
 - [《资治通鉴·汉纪》388-3｜中国古代王朝更迭时，人口死亡有多夸张？](sources/zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-renkou-siwang-you-duo-kuazhang-lonybpkpq4enzzquazcyjtfnxu9g.md) — 芮淇讲透资治通鉴 short episode on dynastic-transition population loss, Han Wudi's costly wars, and Ge Jianxiong-style caution around reading household registers as death totals.
@@ -2469,6 +2470,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
 - [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose failed Xiongnu expedition and later sacrificial death frame Han Wudi's Luntai self-criticism in Hanji 389-2.
+- [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor whose in-law succession alignment with Li Guangli around Liu Bo turns into a treason execution in Hanji 388-1.
+- [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi son and Lady Li's child whose possible crown-prince elevation anchors Li Guangli and Liu Quli's succession-risk branch.
+- [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
+- [商丘成 / Shangqiu Cheng (Western Han)](entities/ShangqiuChengWesternHan.md) — Secondary commander in Han Wudi's 90 BCE anti-Xiongnu expedition whose Xihe route fails to find the enemy.
 - [赵过 / Zhao Guo (Western Han)](entities/ZhaoGuoWesternHan.md) — Agricultural official used by Hanji 389-2 to show post-Luntai recovery policy through farming technique, tools, and practical livelihood talent.
 - [魏律 / Wei Lu (Xiongnu-aligned)](entities/WeiLvXiongnu.md) — Xiongnu-aligned figure who uses jealousy and shamanic ritual speech to bring about Li Guangli's death in Hanji 389-2.
 - [Joe Biden](entities/JoeBiden.md) — Source-scoped Democratic national-politics reference in the Josh Shapiro All-In interview.

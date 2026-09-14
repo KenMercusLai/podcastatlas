@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10093
+wiki_total_pages: 10097
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "LiuShangEasternHan"
     title: "刘尚 / Liu Shang (Eastern Han)"
     url: "/wiki/entities/liushangeasternhan/"
+  - key: "LiuQuliWesternHan"
+    title: "刘屈氂 / Liu Quli (Western Han)"
+    url: "/wiki/entities/liuquliwesternhan/"
   - key: "LiuDaiLateHan"
     title: "刘岱 / Liu Dai (late Han)"
     url: "/wiki/entities/liudailatehan/"
@@ -1394,6 +1397,9 @@ wiki_pages:
   - key: "LazyBearSports"
     title: "懒熊体育 / LazyBear Sports"
     url: "/wiki/entities/lazybearsports/"
+  - key: "LiuBoChangyiKingWesternHan"
+    title: "昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)"
+    url: "/wiki/entities/liubochangyikingwesternhan/"
   - key: "LiuXuanGengshiEmperor"
     title: "更始帝刘玄 / Liu Xuan (Gengshi Emperor)"
     url: "/wiki/entities/liuxuangengshiemperor/"
@@ -1472,6 +1478,9 @@ wiki_pages:
   - key: "LiTaitaiLihun"
     title: "李太太（《离婚》） / Mrs. Li"
     url: "/wiki/entities/litaitailihun/"
+  - key: "LadyLiWesternHan"
+    title: "李夫人 / Lady Li (Western Han)"
+    url: "/wiki/entities/ladyliwesternhan/"
   - key: "LiCunxu"
     title: "李存勖 / Li Cunxu"
     url: "/wiki/entities/licunxu/"
