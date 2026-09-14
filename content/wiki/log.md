@@ -19304,6 +19304,10 @@ Added source `zizhi-tongjian-hanji-388-3-zhongguo-gudai-wangchao-gengdie-shi-ren
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095`; created `TreyStephens`, `ShyamSankar`, `ArsenalOne`, `FactoryBasedDeterrence`, `DefenseIndustrialBaseReindustrialization`, and `DefenseMonopsonyInnovation`; updated `Anduril`, `Palantir`, `DefenseTechStartupProcurement`, `PrivateCapitalDefensePrime`, and `HumanAuthorizedAutonomousWeapons` with the episode's new-prime, field-validation, factory-based deterrence, modular production, autonomy-accountability, and procurement-monopsony branches. No settled contradiction found; valuation, contract, drone-gap, shipbuilding, munitions-days, generic API, and oversight claims remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀
 
 Added source `zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl`; updated `LiuJuCrownPrinceWesternHan`, `EmpressWeiZifuWesternHan`, and `WuguIncidentWesternHan` with Liu Ju's command-legitimacy collapse, Chang'an fighting, Tian Ren and Bao Shengzhi's punished mitigation, and Wei Zifu's suicide after the order to collect her empress seal. No settled contradiction found; Ren An, Tian Ren, Bao Shengzhi, Liu Quli, military units, and the full legal meaning of seal collection remain source-scoped.
@@ -19679,6 +19683,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

@@ -20330,6 +20330,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DefenseMonopsonyInnovation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "DefenseRoboticsMaintenance": [
     {
       "key": "technology",
@@ -61924,6 +61931,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ShyamSankar": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Shybird": [
     {
       "key": "economics",
@@ -69812,6 +69826,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "TreyStephens": [
     {
       "key": "economics",
       "label": "Economics",
@@ -79389,6 +79410,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War](sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095.md) — All-In interview with Trey Stephens and Shyam Sankar on Palantir, Anduril, drones, autonomy, factory-based deterrence, defense procurement, and U.S. reindustrialization.
 - [VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课](sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z.md) — 这病说来话长 episode with 汪惠英 on allergy as immune imbalance, spring triggers, dust mites, pets, medication boundaries, pregnancy, biologics, and chronic management.
 - [《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀](sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's command-legitimacy collapse, Chang'an fighting, Tian Ren's leniency, Bao Shengzhi's suicide, and Empress Wei Zifu's suicide after Liu Ju's defeat.
 - [《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！](sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's post-Wugu flight, Linghu Mao's risky memorial, Han Wudi's partial awakening without public pardon, and the Hu County exposure before Hanji 387-2.
@@ -2466,6 +2467,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Arsenal One](entities/ArsenalOne.md) — Anduril's Columbus, Ohio modular factory campus used as a concrete factory-based deterrence and defense reindustrialization case.
+- [Shyam Sankar](entities/ShyamSankar.md) — Palantir executive linking field-validated defense software, procurement monopsony, factory-based deterrence, and auditability claims.
+- [Trey Stephens](entities/TreyStephens.md) — Anduril executive and Founders Fund partner connecting Palantir lessons, private R&D, attritable systems, and new-prime defense manufacturing.
 - [汪惠英 / Wang Huiying](entities/WangHuiyingAllergyDoctor.md) — Source-scoped allergy and clinical immunology physician guest explaining immune imbalance, triggers, medication boundaries, and chronic allergy management.
 - [浙江大学医学院附属儿童医院 / Zhejiang University Children's Hospital](entities/ZhejiangUniversityChildrensHospital.md) — Hospital affiliation named for 汪惠英 in the VOL.201 allergy episode.
 - [令胡茂 / Linghu Mao (Western Han)](entities/LinghuMaoWesternHan.md) — Low-ranking elder whose risky memorial reframes Liu Ju's Wugu flight as fear-driven self-protection.
@@ -12572,6 +12576,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Defense Industrial Base Reindustrialization](concepts/DefenseIndustrialBaseReindustrialization.md) — Rebuilding defense-relevant factories, suppliers, skills, and component ecosystems so military capability can be replenished at scale.
+- [Defense Monopsony Innovation](concepts/DefenseMonopsonyInnovation.md) — Pattern where a dominant state buyer shapes defense innovation, pushing startups toward field validation, private R&D, and product-first workarounds.
+- [Factory-Based Deterrence](concepts/FactoryBasedDeterrence.md) — Deterrence frame where adversaries judge not only stockpiles but the visible ability to replenish and mass-produce systems during conflict.
 - [Allergy Immune Imbalance / 过敏免疫失衡](concepts/AllergyImmuneImbalance.md) — Clinical frame that allergy is failed immune tolerance rather than simply strong immunity.
 - [Allergy Exposure Environment Management / 过敏暴露环境管理](concepts/AllergyExposureEnvironmentManagement.md) — Practical allergy exposure-control frame for cities, humidity, dust mites, pets, textiles, ventilation, and household cleaning.
 - [Allergy Medication Boundary / 过敏用药边界](concepts/AllergyMedicationBoundary.md) — Medication-literacy boundary for antihistamines, nasal steroids, pregnancy treatment, eye allergy, and biologics.

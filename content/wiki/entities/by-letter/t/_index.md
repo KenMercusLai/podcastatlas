@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10101
+wiki_total_pages: 10104
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "TrevorBlackwell"
     title: "Trevor Blackwell"
     url: "/wiki/entities/trevorblackwell/"
+  - key: "TreyStephens"
+    title: "Trey Stephens"
+    url: "/wiki/entities/treystephens/"
   - key: "TriciaMcLaughlin"
     title: "Tricia McLaughlin"
     url: "/wiki/entities/triciamclaughlin/"

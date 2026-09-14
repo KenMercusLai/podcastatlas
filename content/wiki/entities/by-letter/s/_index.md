@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10101
+wiki_total_pages: 10104
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "ShyalpaRinpoche"
     title: "Shyalpa Rinpoche"
     url: "/wiki/entities/shyalparinpoche/"
+  - key: "ShyamSankar"
+    title: "Shyam Sankar"
+    url: "/wiki/entities/shyamsankar/"
   - key: "Shybird"
     title: "Shybird"
     url: "/wiki/entities/shybird/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3012
+topic_total_pages: 3014
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6659,6 +6659,9 @@ topic_entities:
   - key: "Shodan"
     title: "Shodan"
     url: "/wiki/entities/shodan/"
+  - key: "ShyamSankar"
+    title: "Shyam Sankar"
+    url: "/wiki/entities/shyamsankar/"
   - key: "SiemensEDA"
     title: "Siemens EDA / 西门子EDA"
     url: "/wiki/entities/siemenseda/"
@@ -8643,6 +8646,9 @@ topic_sources:
   - key: "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128"
     title: "The challenges of integrating ads in AI search engines"
     url: "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095"
+    title: "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
   - key: "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4"
     title: "The Elon game: Musk's vision of the future"
     url: "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"

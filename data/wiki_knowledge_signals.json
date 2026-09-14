@@ -6443,6 +6443,43 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/androgensupportsupplementboundary/"
     },
+    "Anduril": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside the Private Stock Market Boom： SpaceX, Anthropic, OpenAI & the Rise of Secondaries [41564170].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Future of Everything： What CEOs of Circle, CrowdStrike & More See Coming in 2026 [39870920].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Future of Everything: What CEOs of Circle, CrowdStrike & More See Coming in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920/"
+        },
+        {
+          "episode_file": "tech_20260320_0320_MP_TECH_pod_128 [tech_20260320_0320_MP_TECH_pod_128].md",
+          "key": "tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery",
+          "url": "/wiki/sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/anduril/"
+    },
     "AndyBurnham": {
       "episode_count": 7,
       "show_count": 1,
@@ -7726,6 +7763,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/armedfollowerintegrationcost/"
+    },
+    "ArsenalOne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/arsenalone/"
     },
     "ArtAfterViolenceMemory": {
       "episode_count": 1,
@@ -23840,6 +23893,75 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/defectiveinventorydemandsignal/"
     },
+    "DefenseIndustrialBaseReindustrialization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/defenseindustrialbasereindustrialization/"
+    },
+    "DefenseMonopsonyInnovation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/defensemonopsonyinnovation/"
+    },
+    "DefenseTechStartupProcurement": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Saronic Founders： Autonomous Warships, China’s 230X Advantage & Swarms of Robot Ships [42334230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230/"
+        },
+        {
+          "episode_file": "tech_20251223_1223_MP_TECH_pod_128 [tech_20251223_1223_MP_TECH_pod_128].md",
+          "key": "tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Big Tech leaders aligned themselves with White House politics this year",
+          "url": "/wiki/sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260320_0320_MP_TECH_pod_128 [tech_20260320_0320_MP_TECH_pod_128].md",
+          "key": "tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Gecko's $71M contract with U.S. Navy, BuzzFeed doubts its business viability, and Amazon offers faster delivery",
+          "url": "/wiki/sources/tech-20260320-0320-mp-tech-pod-128-tech-20260320-0320-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/defensetechstartupprocurement/"
+    },
     "Dehong": {
       "episode_count": 1,
       "show_count": 1,
@@ -33440,6 +33562,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/facetofacecreativeexchange/"
+    },
+    "FactoryBasedDeterrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/factorybaseddeterrence/"
     },
     "FafaDeBelem": {
       "episode_count": 1,
@@ -49838,6 +49976,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/hulanstandup/"
+    },
+    "HumanAuthorizedAutonomousWeapons": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Saronic Founders： Autonomous Warships, China’s 230X Advantage & Swarms of Robot Ships [42334230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/humanauthorizedautonomousweapons/"
     },
     "HumanCenteredAIAugmentation": {
       "episode_count": 1,
@@ -77544,9 +77705,9 @@
       "url": "/wiki/concepts/palaceproximityvigilance/"
     },
     "Palantir": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 8,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Loeb： The Lost Art of Short Selling, and Why Stock Picking is Back [41552605].md",
@@ -77638,9 +77799,16 @@
           "show": "Planet Money",
           "title": "Love in the time of Palantir",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/palantir/"
     },
     "PalantirDatingEvent": {
@@ -82128,6 +82296,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/privacyact1974/"
+    },
+    "PrivateCapitalDefensePrime": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Saronic Founders： Autonomous Warships, China’s 230X Advantage & Swarms of Robot Ships [42334230].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships-42334230/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/privatecapitaldefenseprime/"
     },
     "PrivateEquityAITransformation": {
       "episode_count": 4,
@@ -93310,6 +93501,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/shyalparinpoche/"
     },
+    "ShyamSankar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/shyamsankar/"
+    },
     "Sichuan": {
       "episode_count": 4,
       "show_count": 3,
@@ -103238,6 +103445,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/trentrossiter/"
+    },
+    "TreyStephens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Companies Changing Warfare Forever： Palantir & Anduril Execs on Drones, AI & the Future of War [40743095].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/treystephens/"
     },
     "TrialSizeProduct": {
       "episode_count": 4,

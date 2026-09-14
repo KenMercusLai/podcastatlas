@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7420
+wiki_total_pages: 7423
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -299,6 +299,12 @@ wiki_pages:
   - key: "DefenseAISupplyChainRisk"
     title: "Defense AI Supply Chain Risk"
     url: "/wiki/concepts/defenseaisupplychainrisk/"
+  - key: "DefenseIndustrialBaseReindustrialization"
+    title: "Defense Industrial Base Reindustrialization"
+    url: "/wiki/concepts/defenseindustrialbasereindustrialization/"
+  - key: "DefenseMonopsonyInnovation"
+    title: "Defense Monopsony Innovation"
+    url: "/wiki/concepts/defensemonopsonyinnovation/"
   - key: "DefenseRoboticsMaintenance"
     title: "Defense Robotics Maintenance"
     url: "/wiki/concepts/defenseroboticsmaintenance/"

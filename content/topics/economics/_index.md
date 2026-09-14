@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2039
+topic_total_pages: 2041
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -814,6 +814,9 @@ topic_concepts:
   - key: "DeepTechProductFocus"
     title: "Deep-Tech Product Focus"
     url: "/wiki/concepts/deeptechproductfocus/"
+  - key: "DefenseMonopsonyInnovation"
+    title: "Defense Monopsony Innovation"
+    url: "/wiki/concepts/defensemonopsonyinnovation/"
   - key: "DefenseTechStartupProcurement"
     title: "Defense Tech Startup Procurement"
     url: "/wiki/concepts/defensetechstartupprocurement/"
@@ -4847,6 +4850,9 @@ topic_entities:
   - key: "TrevorBlackwell"
     title: "Trevor Blackwell"
     url: "/wiki/entities/trevorblackwell/"
+  - key: "TreyStephens"
+    title: "Trey Stephens"
+    url: "/wiki/entities/treystephens/"
   - key: "Triplebyte"
     title: "Triplebyte"
     url: "/wiki/entities/triplebyte/"

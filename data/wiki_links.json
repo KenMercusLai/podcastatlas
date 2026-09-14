@@ -6151,6 +6151,10 @@
     "title": "Arsenal FC",
     "url": "/wiki/entities/arsenalfc/"
   },
+  "ArsenalOne": {
+    "title": "Arsenal One",
+    "url": "/wiki/entities/arsenalone/"
+  },
   "ArseneWenger": {
     "title": "Arsene Wenger / 温格",
     "url": "/wiki/entities/arsenewenger/"
@@ -16559,6 +16563,14 @@
     "title": "Defense AI Supply Chain Risk",
     "url": "/wiki/concepts/defenseaisupplychainrisk/"
   },
+  "DefenseIndustrialBaseReindustrialization": {
+    "title": "Defense Industrial Base Reindustrialization",
+    "url": "/wiki/concepts/defenseindustrialbasereindustrialization/"
+  },
+  "DefenseMonopsonyInnovation": {
+    "title": "Defense Monopsony Innovation",
+    "url": "/wiki/concepts/defensemonopsonyinnovation/"
+  },
   "DefenseRoboticsMaintenance": {
     "title": "Defense Robotics Maintenance",
     "url": "/wiki/concepts/defenseroboticsmaintenance/"
@@ -20986,6 +20998,10 @@
   "FactionalAlignmentExitCapital": {
     "title": "派系站队退出资本 / Factional Alignment Exit Capital",
     "url": "/wiki/concepts/factionalalignmentexitcapital/"
+  },
+  "FactoryBasedDeterrence": {
+    "title": "Factory-Based Deterrence",
+    "url": "/wiki/concepts/factorybaseddeterrence/"
   },
   "FactoryDisciplineAndSensoryNumbing": {
     "title": "Factory Discipline And Sensory Numbing / 工厂规训与感知麻木",
@@ -55599,6 +55615,10 @@
     "title": "Shyalpa Rinpoche",
     "url": "/wiki/entities/shyalparinpoche/"
   },
+  "ShyamSankar": {
+    "title": "Shyam Sankar",
+    "url": "/wiki/entities/shyamsankar/"
+  },
   "Shybird": {
     "title": "Shybird",
     "url": "/wiki/entities/shybird/"
@@ -61950,6 +61970,10 @@
   "TrevorBlackwell": {
     "title": "Trevor Blackwell",
     "url": "/wiki/entities/trevorblackwell/"
+  },
+  "TreyStephens": {
+    "title": "Trey Stephens",
+    "url": "/wiki/entities/treystephens/"
   },
   "TrialByOrdeal": {
     "title": "Trial By Ordeal / 神裁法",
@@ -71914,6 +71938,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680": {
     "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095": {
+    "title": "The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence-42209480": {
     "title": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",

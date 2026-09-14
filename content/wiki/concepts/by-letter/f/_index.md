@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7420
+wiki_total_pages: 7423
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "FactorySecondGeneration"
     title: "Factory Second Generation / 厂二代"
     url: "/wiki/concepts/factorysecondgeneration/"
+  - key: "FactoryBasedDeterrence"
+    title: "Factory-Based Deterrence"
+    url: "/wiki/concepts/factorybaseddeterrence/"
   - key: "FactorySecondGenerationPersonalIP"
     title: "Factory-Second-Generation Personal IP / 厂二代个人IP"
     url: "/wiki/concepts/factorysecondgenerationpersonalip/"
