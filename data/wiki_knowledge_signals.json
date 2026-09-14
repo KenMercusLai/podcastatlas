@@ -31318,9 +31318,9 @@
       "url": "/wiki/entities/empressweitang/"
     },
     "EmpressWeiZifuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！ [loDLSF5WTqTvoeJJHe4aPec7TrKU].md",
@@ -31328,6 +31328,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀 [lrvdFIB62oCZCyE7LoQss4-Prkgl].md",
+          "key": "zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl/"
         }
       ],
       "updated": "2026-09-14",
@@ -62111,9 +62118,9 @@
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuCrownPrinceWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -62149,6 +62156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀 [lrvdFIB62oCZCyE7LoQss4-Prkgl].md",
+          "key": "zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl/"
         }
       ],
       "updated": "2026-09-14",
@@ -110877,9 +110891,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -110922,6 +110936,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀 [lrvdFIB62oCZCyE7LoQss4-Prkgl].md",
+          "key": "zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl/"
         }
       ],
       "updated": "2026-09-14",

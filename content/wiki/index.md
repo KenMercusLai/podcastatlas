@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀](sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's command-legitimacy collapse, Chang'an fighting, Tian Ren's leniency, Bao Shengzhi's suicide, and Empress Wei Zifu's suicide after Liu Ju's defeat.
 - [《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！](sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's post-Wugu flight, Linghu Mao's risky memorial, Han Wudi's partial awakening without public pardon, and the Hu County exposure before Hanji 387-2.
 - [《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！](sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's surrounded-flight suicide, two imperial grandsons' deaths, Sima Guang's Bowang guest-education critique, and Liu Bingyi's survival through Bing Ji.
 - [《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？](sources/zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb.md) — 芮淇讲透资治通鉴 episode on Li Guangli's 90 BCE Xiongnu campaign, Liu Quli succession plotting around Liu Bo, family arrests, army mistrust, surrender, and Han Wudi's extermination of the Li family.
