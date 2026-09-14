@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7429
+wiki_total_pages: 7434
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "RetailPrivateMarketAccess"
     title: "Retail Private-Market Access"
     url: "/wiki/concepts/retailprivatemarketaccess/"
+  - key: "RetailServiceCulture"
+    title: "Retail Service Culture"
+    url: "/wiki/concepts/retailserviceculture/"
   - key: "RetailShareholderTenderMobilization"
     title: "Retail Shareholder Tender Mobilization / 散户要约动员"
     url: "/wiki/concepts/retailshareholdertendermobilization/"

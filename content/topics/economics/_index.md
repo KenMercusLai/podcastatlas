@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2041
+topic_total_pages: 2043
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2707,6 +2707,9 @@ topic_concepts:
   - key: "SupplierFinancing"
     title: "Supplier Financing"
     url: "/wiki/concepts/supplierfinancing/"
+  - key: "SupplierFinancedInventory"
+    title: "Supplier-Financed Inventory"
+    url: "/wiki/concepts/supplierfinancedinventory/"
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
@@ -4076,6 +4079,9 @@ topic_entities:
   - key: "KellyRodriques"
     title: "Kelly Rodriques"
     url: "/wiki/entities/kellyrodriques/"
+  - key: "KenLangone"
+    title: "Ken Langone"
+    url: "/wiki/entities/kenlangone/"
   - key: "KenjiYamamoto"
     title: "Kenji Yamamoto"
     url: "/wiki/entities/kenjiyamamoto/"

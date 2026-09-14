@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2711
+topic_total_pages: 2712
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2110,6 +2110,9 @@ topic_concepts:
   - key: "RestrainedEmotionInClassicalWriting"
     title: "Restrained Emotion In Classical Writing / 古典文本中的克制情感"
     url: "/wiki/concepts/restrainedemotioninclassicalwriting/"
+  - key: "RetailServiceCulture"
+    title: "Retail Service Culture"
+    url: "/wiki/concepts/retailserviceculture/"
   - key: "RevolutionaryMartyrdomImageMaking"
     title: "Revolutionary Martyrdom Image-Making / 革命殉道图像制造"
     url: "/wiki/concepts/revolutionarymartyrdomimagemaking/"

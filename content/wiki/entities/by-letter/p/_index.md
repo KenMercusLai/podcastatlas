@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10106
+wiki_total_pages: 10113
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "PassionCapital"
     title: "Passion Capital"
     url: "/wiki/entities/passioncapital/"
+  - key: "PatFarah"
+    title: "Pat Farah"
+    url: "/wiki/entities/patfarah/"
   - key: "PatGelsinger"
     title: "Pat Gelsinger"
     url: "/wiki/entities/patgelsinger/"

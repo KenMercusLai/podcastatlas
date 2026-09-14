@@ -6199,6 +6199,10 @@
     "title": "Artemis Accords",
     "url": "/wiki/entities/artemisaccords/"
   },
+  "ArthurBlank": {
+    "title": "Arthur Blank",
+    "url": "/wiki/entities/arthurblank/"
+  },
   "ArthurBurns": {
     "title": "Arthur Burns",
     "url": "/wiki/entities/arthurburns/"
@@ -8698,6 +8702,10 @@
   "BobLewis": {
     "title": "Bob Lewis",
     "url": "/wiki/entities/boblewis/"
+  },
+  "BobNardelli": {
+    "title": "Bob Nardelli",
+    "url": "/wiki/entities/bobnardelli/"
   },
   "BobSternfels": {
     "title": "Bob Sternfels",
@@ -23363,6 +23371,10 @@
     "title": "Francois Truffaut / 特吕弗",
     "url": "/wiki/entities/francoistruffaut/"
   },
+  "FrankBlake": {
+    "title": "Frank Blake",
+    "url": "/wiki/entities/frankblake/"
+  },
   "FrankCantone": {
     "title": "Frank Cantone",
     "url": "/wiki/entities/frankcantone/"
@@ -28334,6 +28346,10 @@
   "HomeFieldApparel": {
     "title": "Home Field Apparel",
     "url": "/wiki/entities/homefieldapparel/"
+  },
+  "HomeImprovementWarehouseModel": {
+    "title": "Home Improvement Warehouse Model",
+    "url": "/wiki/concepts/homeimprovementwarehousemodel/"
   },
   "HomeInns": {
     "title": "Home Inns",
@@ -34011,6 +34027,10 @@
     "title": "Ken Follett",
     "url": "/wiki/entities/kenfollett/"
   },
+  "KenLangone": {
+    "title": "Ken Langone",
+    "url": "/wiki/entities/kenlangone/"
+  },
   "KenOno": {
     "title": "Ken Ono",
     "url": "/wiki/entities/kenono/"
@@ -38146,6 +38166,10 @@
   "LowStatusSyndrome": {
     "title": "Low-Status Syndrome / 低地位综合症",
     "url": "/wiki/concepts/lowstatussyndrome/"
+  },
+  "Lowes": {
+    "title": "Lowe's",
+    "url": "/wiki/entities/lowes/"
   },
   "LoyalMinisterExitEthic": {
     "title": "Loyal Minister Exit Ethic / 忠臣去国的退场伦理",
@@ -46227,6 +46251,10 @@
     "title": "Pastoral Mission-Subversion Ambiguity",
     "url": "/wiki/concepts/pastoralmissionsubversionambiguity/"
   },
+  "PatFarah": {
+    "title": "Pat Farah",
+    "url": "/wiki/entities/patfarah/"
+  },
   "PatGelsinger": {
     "title": "Pat Gelsinger",
     "url": "/wiki/entities/patgelsinger/"
@@ -48790,6 +48818,10 @@
   "PriyaRathod": {
     "title": "Priya Rathod",
     "url": "/wiki/entities/priyarathod/"
+  },
+  "ProContractorRetailStrategy": {
+    "title": "Pro Contractor Retail Strategy",
+    "url": "/wiki/concepts/procontractorretailstrategy/"
   },
   "ProPublica": {
     "title": "ProPublica",
@@ -51823,6 +51855,10 @@
     "title": "Retail Private-Market Access",
     "url": "/wiki/concepts/retailprivatemarketaccess/"
   },
+  "RetailServiceCulture": {
+    "title": "Retail Service Culture",
+    "url": "/wiki/concepts/retailserviceculture/"
+  },
   "RetailShareholderTenderMobilization": {
     "title": "Retail Shareholder Tender Mobilization / 散户要约动员",
     "url": "/wiki/concepts/retailshareholdertendermobilization/"
@@ -53214,6 +53250,10 @@
   "SRORegulatoryErasure": {
     "title": "SRO Regulatory Erasure",
     "url": "/wiki/concepts/sroregulatoryerasure/"
+  },
+  "SRSDistribution": {
+    "title": "SRS Distribution",
+    "url": "/wiki/entities/srsdistribution/"
   },
   "STARRRestaurants": {
     "title": "STARR Restaurants",
@@ -56955,6 +56995,10 @@
     "title": "Specialty Retail Beachhead",
     "url": "/wiki/concepts/specialtyretailbeachhead/"
   },
+  "SpecialtyRetailLogistics": {
+    "title": "Specialty Retail Logistics",
+    "url": "/wiki/concepts/specialtyretaillogistics/"
+  },
   "SpectralEvidence": {
     "title": "Spectral Evidence / 幽灵证据",
     "url": "/wiki/concepts/spectralevidence/"
@@ -58826,6 +58870,10 @@
   "SupplierConcentrationCrisis": {
     "title": "Supplier Concentration Crisis",
     "url": "/wiki/concepts/supplierconcentrationcrisis/"
+  },
+  "SupplierFinancedInventory": {
+    "title": "Supplier-Financed Inventory",
+    "url": "/wiki/concepts/supplierfinancedinventory/"
   },
   "SupplierFinancing": {
     "title": "Supplier Financing",
@@ -73322,6 +73370,10 @@
   "he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months": {
     "title": "He demoted his SaaS to sell a service and 4x'd revenue in 12 months",
     "url": "/wiki/sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months/"
+  },
+  "home-depot-1": {
+    "title": "Home Depot",
+    "url": "/wiki/sources/home-depot-1/"
   },
   "how-black-hair-care-grew-black-power": {
     "title": "How Black hair care grew Black power",

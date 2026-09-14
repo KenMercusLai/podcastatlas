@@ -19640,6 +19640,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | Home Depot
+
+Added source `home-depot-1`; created `ArthurBlank`, `KenLangone`, `PatFarah`, `BobNardelli`, `FrankBlake`, `Lowes`, `SRSDistribution`, `HomeImprovementWarehouseModel`, `RetailServiceCulture`, `SupplierFinancedInventory`, `SpecialtyRetailLogistics`, and `ProContractorRetailStrategy`; updated `HomeDepot` and `BernieMarcus` from Costco comparison stubs into synthesis-schema pages. No settled contradiction found; labor experience, customer research, exact market-share figures, and post-SRS integration outcomes remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
@@ -19687,6 +19691,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7429
+wiki_total_pages: 7434
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"
+  - key: "HomeImprovementWarehouseModel"
+    title: "Home Improvement Warehouse Model"
+    url: "/wiki/concepts/homeimprovementwarehousemodel/"
   - key: "HomeRouterSecurityLifecycle"
     title: "Home Router Security Lifecycle"
     url: "/wiki/concepts/homeroutersecuritylifecycle/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10106
+wiki_total_pages: 10113
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1247,6 +1247,9 @@ wiki_pages:
   - key: "ArthurResidencyFounder"
     title: "Arthur (The Residency founder)"
     url: "/wiki/entities/arthurresidencyfounder/"
+  - key: "ArthurBlank"
+    title: "Arthur Blank"
+    url: "/wiki/entities/arthurblank/"
   - key: "ArthurBurns"
     title: "Arthur Burns"
     url: "/wiki/entities/arthurburns/"

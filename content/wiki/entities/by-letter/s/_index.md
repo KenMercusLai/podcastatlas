@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10106
+wiki_total_pages: 10113
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "SriNarayanan"
     title: "Sri Narayanan"
     url: "/wiki/entities/srinarayanan/"
+  - key: "SRSDistribution"
+    title: "SRS Distribution"
+    url: "/wiki/entities/srsdistribution/"
   - key: "StBartholomewsDayMassacre"
     title: "St Bartholomew's Day Massacre"
     url: "/wiki/entities/stbartholomewsdaymassacre/"

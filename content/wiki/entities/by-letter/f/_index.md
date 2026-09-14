@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10106
+wiki_total_pages: 10113
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "FrankLifeSettlementSeller"
     title: "Frank (life-settlement seller)"
     url: "/wiki/entities/franklifesettlementseller/"
+  - key: "FrankBlake"
+    title: "Frank Blake"
+    url: "/wiki/entities/frankblake/"
   - key: "FrankCantone"
     title: "Frank Cantone"
     url: "/wiki/entities/frankcantone/"

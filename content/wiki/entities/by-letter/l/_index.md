@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10106
+wiki_total_pages: 10113
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "LowCountries"
     title: "Low Countries"
     url: "/wiki/entities/lowcountries/"
+  - key: "Lowes"
+    title: "Lowe's"
+    url: "/wiki/entities/lowes/"
   - key: "LSDyna"
     title: "LS-Dyna"
     url: "/wiki/entities/lsdyna/"

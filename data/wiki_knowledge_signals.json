@@ -7828,6 +7828,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/artreproductionandcirculation/"
     },
+    "ArthurBlank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/arthurblank/"
+    },
     "ArtificialEmotionalIntelligence": {
       "episode_count": 1,
       "show_count": 1,
@@ -10710,6 +10726,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/benkei/"
     },
+    "BernieMarcus": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Costco ｜ Acquired (1) [costco-1].md",
+          "key": "costco-1",
+          "show": "Acquired",
+          "title": "Costco",
+          "url": "/wiki/sources/costco-1/"
+        },
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/berniemarcus/"
+    },
     "BernieSanders": {
       "episode_count": 2,
       "show_count": 2,
@@ -11502,6 +11541,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/boronglatehan/"
+    },
+    "BobNardelli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/bobnardelli/"
     },
     "BodilyResolution": {
       "episode_count": 1,
@@ -37840,6 +37895,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/francoispienaar/"
     },
+    "FrankBlake": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/frankblake/"
+    },
     "FrankSmith": {
       "episode_count": 1,
       "show_count": 1,
@@ -47575,6 +47646,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/holidaypeaktravelplanning/"
     },
+    "HomeDepot": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Costco ｜ Acquired (1) [costco-1].md",
+          "key": "costco-1",
+          "show": "Acquired",
+          "title": "Costco",
+          "url": "/wiki/sources/costco-1/"
+        },
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/homedepot/"
+    },
     "HomeFieldApparel": {
       "episode_count": 1,
       "show_count": 1,
@@ -47590,6 +47684,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/homefieldapparel/"
+    },
+    "HomeImprovementWarehouseModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/homeimprovementwarehousemodel/"
     },
     "HomeServiceRobots": {
       "episode_count": 5,
@@ -56758,6 +56868,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/kencato/"
     },
+    "KenLangone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/kenlangone/"
+    },
     "KenjiYamamoto": {
       "episode_count": 1,
       "show_count": 1,
@@ -65433,6 +65559,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/lowgimarketingtrap/"
+    },
+    "Lowes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/lowes/"
     },
     "LoyalRebellion": {
       "episode_count": 1,
@@ -78506,6 +78648,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/passiontrapcareeradvice/"
     },
+    "PatFarah": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/patfarah/"
+    },
     "PatGelsinger": {
       "episode_count": 1,
       "show_count": 1,
@@ -82588,6 +82746,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/privateretainernetworkrisk/"
+    },
+    "ProContractorRetailStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/procontractorretailstrategy/"
     },
     "ProactiveAgents": {
       "episode_count": 10,
@@ -87368,6 +87542,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/retailpricingoptimization/"
     },
+    "RetailServiceCulture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/retailserviceculture/"
+    },
     "RetainerRevengeMobilization": {
       "episode_count": 2,
       "show_count": 1,
@@ -89332,6 +89522,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/shein/"
+    },
+    "SRSDistribution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/srsdistribution/"
     },
     "STPMarketingFramework": {
       "episode_count": 1,
@@ -95721,6 +95927,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/spatialcomputing/"
     },
+    "SpecialtyRetailLogistics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/specialtyretaillogistics/"
+    },
     "SpeechActRitual": {
       "episode_count": 1,
       "show_count": 1,
@@ -98941,6 +99163,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/supiregime/"
+    },
+    "SupplierFinancedInventory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home Depot ｜ Acquired (1) [home-depot-1].md",
+          "key": "home-depot-1",
+          "show": "Acquired",
+          "title": "Home Depot",
+          "url": "/wiki/sources/home-depot-1/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/supplierfinancedinventory/"
     },
     "SupplierFinancing": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7429
+wiki_total_pages: 7434
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1346,6 +1346,9 @@ wiki_pages:
   - key: "PrivateeringPlausibleDeniability"
     title: "Privateering Plausible Deniability"
     url: "/wiki/concepts/privateeringplausibledeniability/"
+  - key: "ProContractorRetailStrategy"
+    title: "Pro Contractor Retail Strategy"
+    url: "/wiki/concepts/procontractorretailstrategy/"
   - key: "ProactiveAdviserInitiative"
     title: "Proactive Adviser Initiative / 主动补位式谋臣"
     url: "/wiki/concepts/proactiveadviserinitiative/"

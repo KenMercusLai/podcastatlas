@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Home Depot](sources/home-depot-1.md) — Acquired episode on Home Depot's founding, warehouse home-improvement model, supplier financing, service culture, Nardelli/Blake leadership contrast, logistics moat, pro-contractor strategy, and long-term compounding.
 - [Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner](sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733.md) — Huberman Lab episode with Dacher Keltner on awe as measurable emotion, awe walks, moral beauty, embodied collective awe, embarrassment, teasing, psychedelics, community life, and digital-design limits.
 - [The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War](sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095.md) — All-In interview with Trey Stephens and Shyam Sankar on Palantir, Anduril, drones, autonomy, factory-based deterrence, defense procurement, and U.S. reindustrialization.
 - [VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课](sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z.md) — 这病说来话长 episode with 汪惠英 on allergy as immune imbalance, spring triggers, dust mites, pets, medication boundaries, pregnancy, biologics, and chronic management.
@@ -8462,6 +8463,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sam's Club](entities/SamsClub.md) — Walmart warehouse-club chain used as Costco's direct format competitor.
 - [Home Depot](entities/HomeDepot.md) — Home-improvement retailer connected through Bernie Marcus's study of Price Club and Costco inventory comparisons.
 - [Bernie Marcus](entities/BernieMarcus.md) — Home Depot cofounder cited as another retailer influenced by Price Club's warehouse model.
+- [Arthur Blank](entities/ArthurBlank.md) — Home Depot cofounder and finance/operations partner in the founding and succession story.
+- [Ken Langone](entities/KenLangone.md) — Home Depot financier, cofounder figure, governance actor, and long-term shareholder.
+- [Pat Farah](entities/PatFarah.md) — Home Depot merchandising cofounder whose warehouse home-improvement instincts shaped the early store experience.
+- [Bob Nardelli](entities/BobNardelli.md) — Home Depot CEO whose GE-style operational discipline is framed as damaging the company's service culture.
+- [Frank Blake](entities/FrankBlake.md) — Home Depot CEO credited with restoring culture, slowing store growth, and building productivity and logistics.
+- [Lowe's](entities/Lowes.md) — Home-improvement competitor that copied the warehouse format while emphasizing a more pleasant consumer experience.
+- [SRS Distribution](entities/SRSDistribution.md) — Pro-contractor distribution company acquired by Home Depot to extend job-site delivery and trade-customer reach.
 - [Costco Logistics](entities/CostcoLogistics.md) — Costco logistics capability for big and bulky e-commerce categories.
 - [Costco Next](entities/CostcoNext.md) — Partner-commerce program that gives Costco members discounts without full marketplace imitation.
 - [Hamilton Helmer](entities/HamiltonHelmer.md) — Strategy thinker whose Seven Powers framework Acquired applies to Costco.
@@ -12579,6 +12587,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Home Improvement Warehouse Model](concepts/HomeImprovementWarehouseModel.md) — Retail format combining warehouse economics, broad project assortment, low prices, and expert home-improvement service.
+- [Retail Service Culture](concepts/RetailServiceCulture.md) — Operating culture where knowledgeable associates and customer education become part of a specialty retailer's moat.
+- [Supplier-Financed Inventory](concepts/SupplierFinancedInventory.md) — Working-capital pattern where supplier payment terms and fast turns help fund retail inventory.
+- [Specialty Retail Logistics](concepts/SpecialtyRetailLogistics.md) — Category-specific logistics capability that fits bulky, urgent, project-linked retail better than general fulfillment.
+- [Pro Contractor Retail Strategy](concepts/ProContractorRetailStrategy.md) — Home-improvement retail strategy built around professional trades, bulk purchasing, job-site delivery, and specialized distribution.
 - [Awe Emotion](concepts/AweEmotion.md) — Keltner-Huberman frame for awe as a measurable, attention-widening, self-transcending social emotion.
 - [Awe Walks](concepts/AweWalks.md) — Slow, attention-widening walks used to cultivate awe by shifting from close details to larger patterns and vistas.
 - [Moral Beauty Awe](concepts/MoralBeautyAwe.md) — Awe arising from courage, kindness, justice, integrity, and whole-person moral or expressive presence.
