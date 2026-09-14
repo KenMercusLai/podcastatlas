@@ -4359,9 +4359,9 @@
       "url": "/wiki/concepts/adventureuncertaintyreframing/"
     },
     "AdversitySilenceDiscipline": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》912丨秘密到底该不该说出口？ [lhSgiPxwC17PaHc-R6Jl7xDyrS2A].md",
@@ -4390,9 +4390,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！ [Fvy3oX9ntjjsAQB00wX9M-ToOWvT].md",
+          "key": "zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/adversitysilencediscipline/"
     },
     "AdviceFramingUnderHierarchy": {
@@ -12260,6 +12267,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/buyanglatehan/"
+    },
+    "BuddhistSpeechRestraint": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？ [lnObbkp6mJ4xyB9jEuqSiUQogcT-].md",
+          "key": "zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》892丨修止语，古人有什么捷径？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！ [Fvy3oX9ntjjsAQB00wX9M-ToOWvT].md",
+          "key": "zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-389-3-guaibude-fomen-rang-zhiyu-yuanlai-you-zheme-duo-fubao-fvy3ox9ntjjsaqb00wx9m-toowvt/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/buddhistspeechrestraint/"
     },
     "BudgetedFrontierSuppression": {
       "episode_count": 5,

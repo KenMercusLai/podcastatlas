@@ -2213,6 +2213,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！
+
+Added source. Key claims: Buddhist "止语/少语" restrains false, divisive, harsh, frivolous, and judgmental speech; retreat silence is presented as training; repeated restraint is said to turn speech toward praise, kindness, and source-scoped "功德语." Updated [[BuddhistSpeechRestraint]] and [[AdversitySilenceDiscipline]].
+
 ## [2026-09-14] ingest | 在科技时代，重新理解我们的爱、工作与生活
 
 Added source `zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu`; created `WangXiaowei`, `ReEnteringLifeTechEraBook`, `TechnologyPhilosophy`, `AIJudgmentInfrastructure`, `LifeTimeVsMachineTime`, and `PsychiatricEverydayLanguage`; updated `BuHeShiYi`, `AICompanionAuthenticityBoundary`, and `RelationshipTechnologyEthics` with Wang Xiaowei's technology-philosophy frame for AI intimacy, work rhythm, model-mediated judgment, and returning to ordinary life. No settled contradiction found; the source remains a public philosophical conversation rather than empirical evidence about AI companion outcomes, model effects, or education policy.
@@ -19595,6 +19599,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》390-2｜是神是鬼？金日磾真长了三只眼睛？
 
 Added source `zizhi-tongjian-hanji-390-2-shi-shen-shi-gui-jinridi-zhen-zhangle-san-zhi-yanjing-ljk1eueoe8tclfoajkat5y1igqwt`; created `MaWangye`; updated `JinMidiWesternHan`, `LiuDanYanKingWesternHan`, and `LiuXuGuanglingKingWesternHan` with Jin Midi's trust-and-vigilance folklore layer and the late-Wudi succession exclusion of Liu Dan and Liu Xu. No settled contradiction found; Ma Wangye origins, the Ma Heluo incident, and Liu Fuling paternity rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

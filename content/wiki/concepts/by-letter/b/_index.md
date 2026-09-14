@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7403
+wiki_total_pages: 7404
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "ByteDanceGrowthSystem"
     title: "ByteDance Growth System"
     url: "/wiki/concepts/bytedancegrowthsystem/"
+  - key: "BuddhistSpeechRestraint"
+    title: "佛门止语修行 / Buddhist Speech Restraint"
+    url: "/wiki/concepts/buddhistspeechrestraint/"
   - key: "BenefitSharingDecisionControl"
     title: "分利共治与谋略独断 / Benefit Sharing With Decision Control"
     url: "/wiki/concepts/benefitsharingdecisioncontrol/"
