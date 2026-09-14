@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7423
+wiki_total_pages: 7429
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "ElonComputePlatform"
     title: "Elon Compute Platform"
     url: "/wiki/concepts/eloncomputeplatform/"
+  - key: "EmbarrassmentTrustSignal"
+    title: "Embarrassment Trust Signal"
+    url: "/wiki/concepts/embarrassmenttrustsignal/"
   - key: "EmbeddedForeignReporting"
     title: "Embedded Foreign Reporting"
     url: "/wiki/concepts/embeddedforeignreporting/"
@@ -281,6 +284,9 @@ wiki_pages:
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"
+  - key: "EmbodiedCollectiveAwe"
+    title: "Embodied Collective Awe"
+    url: "/wiki/concepts/embodiedcollectiveawe/"
   - key: "EmbodiedDataPyramid"
     title: "Embodied Data Pyramid"
     url: "/wiki/concepts/embodieddatapyramid/"

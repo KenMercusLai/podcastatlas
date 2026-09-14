@@ -6,6 +6,7 @@ knowledge_schema: synthesis-v1
 sources:
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
   - 351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym
+  - cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733
 last_updated: 2026-09-08
 ---
 
@@ -17,7 +18,7 @@ Social media design regulation is a policy approach that targets how platforms s
 ## Current Synthesis
 The wiki's current branch treats design regulation as an alternative to two incomplete options: unrestricted platform control over children's attention environments and government content censorship. [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] grounds the product-design side through litigation around addictive feeds, notifications, stranger messages, and recommendation systems. [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] adds the civil-liberties boundary: the policy target should be platform manipulation of children, not state judgment about what citizens may say.
 
-The concept sits between [[AddictiveInteractionDesign]], [[SocialMediaProductLiability]], and [[SocialMediaAgeBans]]. It asks whether law can place responsibility on companies for product architecture while preserving open access to public information and lawful speech. The strongest current synthesis is that design regulation is useful precisely because it changes the regulated object from user expression to platform systems: default messaging, nighttime alerts, infinite scroll, algorithmic targeting, and engagement loops.
+A less legal but still design-relevant lens asks whether online systems support or degrade embodied social connection, eye contact, synchrony, shared time, and awe. The concept sits between [[AddictiveInteractionDesign]], [[SocialMediaProductLiability]], and [[SocialMediaAgeBans]]. It asks whether law and product design can place responsibility on companies for architecture while preserving open access to public information and lawful speech. The strongest current synthesis is that design regulation is useful precisely because it changes the regulated object from user expression to platform systems: default messaging, nighttime alerts, infinite scroll, algorithmic targeting, engagement loops, asynchronous rage-baiting, and loss of shared embodied context.
 
 ## Key Claims
 - Design regulation shifts attention from individual pieces of content to platform architecture and behavioral defaults.
@@ -26,18 +27,21 @@ The concept sits between [[AddictiveInteractionDesign]], [[SocialMediaProductLia
 - The boundary is not perfectly clean because recommendation systems can blend content selection with design choices.
 - Responsibility should fall primarily on platforms when the harmful mechanism is engineered into the product.
 - A credible policy design needs civil-liberties limits so child protection does not become generalized content control.
+- A human-centered design test should also ask whether platforms preserve or undermine eye contact, synchrony, shared experience, and awe-supporting social contexts.
 
 ## Evidence
 - Product-design liability branch: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] describes U.S. litigation moving from harmful-content claims toward defective product design, including infinite scroll, personalized feeds, notifications, stranger direct messages, and engagement optimization.
 - Civil-liberties boundary: [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] distinguishes design regulation from content regulation and says the state should not decide which viewpoints are harmful.
 - Child-specific design harms: [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] names nighttime notifications, stranger messaging, infinite scrolling, algorithmic recommendation, red-dot alerts, and social anxiety loops as design targets.
+- Embodied-connection design critique: [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] says Keltner and Huberman worry that asynchronous digital life can degrade eye contact, embodied interaction, shared music and moviegoing, and awe while producing rage-baiting, numbing, and siloing.
 
 ## Counterevidence & Qualifications
-The content-design boundary can blur when a rule blocks recommendations of self-harm, violent, or sexual content to children, because the intervention concerns both algorithmic structure and content categories. Design regulation also does not eliminate the need to decide which platforms, ages, interfaces, and enforcement mechanisms are covered.
+The content-design boundary can blur when a rule blocks recommendations of self-harm, violent, or sexual content to children, because the intervention concerns both algorithmic structure and content categories. Design regulation also does not eliminate the need to decide which platforms, ages, interfaces, and enforcement mechanisms are covered. The awe-and-embodiment critique is normative and source-scoped: it identifies a design direction, not a ready statutory test.
 
 ## What Changed
 - Created the concept to hold the design-versus-content regulation distinction.
 - Linked existing product-liability evidence to the newer civil-liberties framing.
+- Added Keltner and Huberman's embodied-connection critique as a design-quality lens beyond child-safety litigation.
 
 ## Related Concepts
 - [[AddictiveInteractionDesign]] - design mechanics that can keep users engaged beyond reflective intention.
@@ -46,3 +50,5 @@ The content-design boundary can blur when a rule blocks recommendations of self-
 - [[OnlineAgeVerification]] - enforcement mechanism for access rules, separate from design constraints.
 - [[SocialMediaAgeGateSpeechBurden]] - civil-liberties risk that design-focused policy tries to avoid.
 - [[PlatformDataRegulation]] - data-governance layer implicated by behavior-shaping platform systems.
+- [[EmbodiedCollectiveAwe]] - social-experience lens for judging whether technology supports or displaces shared embodied connection.
+- [[SocializingDecline]] - civic context for why digital design affects offline social life.

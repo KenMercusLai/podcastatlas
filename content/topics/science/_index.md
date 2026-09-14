@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1100
+topic_total_pages: 1103
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -151,6 +151,9 @@ topic_concepts:
   - key: "AvailabilityHeuristic"
     title: "Availability Heuristic"
     url: "/wiki/concepts/availabilityheuristic/"
+  - key: "AweEmotion"
+    title: "Awe Emotion"
+    url: "/wiki/concepts/aweemotion/"
   - key: "BasicResearchBreakthroughLatency"
     title: "Basic Research Breakthrough Latency"
     url: "/wiki/concepts/basicresearchbreakthroughlatency/"
@@ -517,6 +520,9 @@ topic_concepts:
   - key: "ElectricTherapySpeculation"
     title: "Electric Therapy Speculation / 电疗法想象"
     url: "/wiki/concepts/electrictherapyspeculation/"
+  - key: "EmbarrassmentTrustSignal"
+    title: "Embarrassment Trust Signal"
+    url: "/wiki/concepts/embarrassmenttrustsignal/"
   - key: "EmbodiedAnxietyRegulation"
     title: "Embodied Anxiety Regulation / 身体化焦虑调节"
     url: "/wiki/concepts/embodiedanxietyregulation/"
@@ -3024,6 +3030,9 @@ topic_sources:
   - key: "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk"
     title: "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness"
     url: "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+  - key: "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733"
+    title: "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner"
+    url: "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
   - key: "data-ai-and-scientific-research-a-coffee-chat"
     title: "Data, AI, and Scientific Research: A Coffee Chat"
     url: "/wiki/sources/data-ai-and-scientific-research-a-coffee-chat/"

@@ -5255,6 +5255,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/alancastel/"
     },
+    "AlanCowen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/alancowen/"
+    },
     "Alberta": {
       "episode_count": 2,
       "show_count": 1,
@@ -9187,6 +9203,38 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/awarenessmeditationstorydropping/"
+    },
+    "AweEmotion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/aweemotion/"
+    },
+    "AweWalks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/awewalks/"
     },
     "Aweil": {
       "episode_count": 1,
@@ -22449,6 +22497,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/dabaniuteacher/"
     },
+    "DacherKeltner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/dacherkeltner/"
+    },
     "Dahomey": {
       "episode_count": 1,
       "show_count": 1,
@@ -29306,6 +29370,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/eloncomputeplatform/"
     },
+    "EmbarrassmentTrustSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/embarrassmenttrustsignal/"
+    },
     "EmbeddedForeignReporting": {
       "episode_count": 1,
       "show_count": 1,
@@ -29360,6 +29440,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/embodiedanxietyregulation/"
+    },
+    "EmbodiedCollectiveAwe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/embodiedcollectiveawe/"
     },
     "EmbodiedDataPyramid": {
       "episode_count": 6,
@@ -29686,9 +29782,9 @@
       "url": "/wiki/concepts/emotionalstabilityassocialnorm/"
     },
     "EmotionsAsFunctionalControlStates": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -29703,6 +29799,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
+        },
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
         }
       ],
       "updated": "2026-09-14",
@@ -71825,6 +71928,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/monticello/"
     },
+    "MoralBeautyAwe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/moralbeautyawe/"
+    },
     "MoralDesertPoliticalOutcomeGap": {
       "episode_count": 3,
       "show_count": 1,
@@ -94704,9 +94823,9 @@
       "url": "/wiki/concepts/socialmediacostofcapital/"
     },
     "SocialMediaDesignRegulation": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
@@ -94721,6 +94840,13 @@
           "show": "独树不成林",
           "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
           "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        },
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
         }
       ],
       "updated": "2026-09-08",
@@ -94882,6 +95008,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/socialwar/"
+    },
+    "SocializingDecline": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Burning questions： a more fire-prone world [6a687ea64207b2a60119df8b].md",
+          "key": "burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b",
+          "show": "Economist Podcasts",
+          "title": "Burning questions: a more fire-prone world",
+          "url": "/wiki/sources/burning-questions-a-more-fire-prone-world-6a687ea64207b2a60119df8b/"
+        },
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/socializingdecline/"
     },
     "SocratesFootballer": {
       "episode_count": 1,
@@ -100333,6 +100482,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/teamagentmemory/"
+    },
+    "TeasingBelongingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6985403733 [SCIM6985403733].md",
+          "key": "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733",
+          "show": "Huberman Lab",
+          "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+          "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/teasingbelongingboundary/"
     },
     "TechBubbleConditions": {
       "episode_count": 3,

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2710
+topic_total_pages: 2711
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -952,6 +952,9 @@ topic_concepts:
   - key: "EmbodiedActingImprovisation"
     title: "Embodied Acting Improvisation / 具身表演即兴"
     url: "/wiki/concepts/embodiedactingimprovisation/"
+  - key: "EmbodiedCollectiveAwe"
+    title: "Embodied Collective Awe"
+    url: "/wiki/concepts/embodiedcollectiveawe/"
   - key: "EmbodiedTaste"
     title: "Embodied Taste"
     url: "/wiki/concepts/embodiedtaste/"

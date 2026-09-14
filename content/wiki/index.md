@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner](sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733.md) — Huberman Lab episode with Dacher Keltner on awe as measurable emotion, awe walks, moral beauty, embodied collective awe, embarrassment, teasing, psychedelics, community life, and digital-design limits.
 - [The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War](sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095.md) — All-In interview with Trey Stephens and Shyam Sankar on Palantir, Anduril, drones, autonomy, factory-based deterrence, defense procurement, and U.S. reindustrialization.
 - [VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课](sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z.md) — 这病说来话长 episode with 汪惠英 on allergy as immune imbalance, spring triggers, dust mites, pets, medication boundaries, pregnancy, biologics, and chronic management.
 - [《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀](sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's command-legitimacy collapse, Chang'an fighting, Tian Ren's leniency, Bao Shengzhi's suicide, and Empress Wei Zifu's suicide after Liu Ju's defeat.
@@ -2467,6 +2468,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Dacher Keltner](entities/DacherKeltner.md) — UC Berkeley emotion scientist and Greater Good Science Center co-director explaining awe, embarrassment, teasing, moral beauty, community, psychedelics, and embodied connection in the Huberman Lab source.
+- [Alan Cowen](entities/AlanCowen.md) — Computational emotion researcher cited by Keltner for large-scale cross-cultural expression analysis that broadens emotion taxonomy beyond the classical six-expression frame.
 - [Arsenal One](entities/ArsenalOne.md) — Anduril's Columbus, Ohio modular factory campus used as a concrete factory-based deterrence and defense reindustrialization case.
 - [Shyam Sankar](entities/ShyamSankar.md) — Palantir executive linking field-validated defense software, procurement monopsony, factory-based deterrence, and auditability claims.
 - [Trey Stephens](entities/TreyStephens.md) — Anduril executive and Founders Fund partner connecting Palantir lessons, private R&D, attritable systems, and new-prime defense manufacturing.
@@ -12576,6 +12579,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Awe Emotion](concepts/AweEmotion.md) — Keltner-Huberman frame for awe as a measurable, attention-widening, self-transcending social emotion.
+- [Awe Walks](concepts/AweWalks.md) — Slow, attention-widening walks used to cultivate awe by shifting from close details to larger patterns and vistas.
+- [Moral Beauty Awe](concepts/MoralBeautyAwe.md) — Awe arising from courage, kindness, justice, integrity, and whole-person moral or expressive presence.
+- [Embodied Collective Awe](concepts/EmbodiedCollectiveAwe.md) — Shared bodily awe in music, sport, chanting, dance, campfires, saunas, museums, and other synchronized communal settings.
+- [Embarrassment Trust Signal](concepts/EmbarrassmentTrustSignal.md) — Keltner's social-emotion claim that visible embarrassment can signal norm awareness and support trust or reinclusion.
+- [Teasing Belonging Boundary](concepts/TeasingBelongingBoundary.md) — Distinction between affiliative teasing that preserves belonging and harmful teasing that humiliates or excludes.
 - [Defense Industrial Base Reindustrialization](concepts/DefenseIndustrialBaseReindustrialization.md) — Rebuilding defense-relevant factories, suppliers, skills, and component ecosystems so military capability can be replenished at scale.
 - [Defense Monopsony Innovation](concepts/DefenseMonopsonyInnovation.md) — Pattern where a dominant state buyer shapes defense innovation, pushing startups toward field validation, private R&D, and product-first workarounds.
 - [Factory-Based Deterrence](concepts/FactoryBasedDeterrence.md) — Deterrence frame where adversaries judge not only stockpiles but the visible ability to replenish and mass-produce systems during conflict.

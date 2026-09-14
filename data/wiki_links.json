@@ -4283,6 +4283,10 @@
     "title": "Alan Castel",
     "url": "/wiki/entities/alancastel/"
   },
+  "AlanCowen": {
+    "title": "Alan Cowen",
+    "url": "/wiki/entities/alancowen/"
+  },
   "AlanGreenspan": {
     "title": "Alan Greenspan",
     "url": "/wiki/entities/alangreenspan/"
@@ -6890,6 +6894,14 @@
   "AwarenessMeditationStoryDropping": {
     "title": "Awareness Meditation Story Dropping",
     "url": "/wiki/concepts/awarenessmeditationstorydropping/"
+  },
+  "AweEmotion": {
+    "title": "Awe Emotion",
+    "url": "/wiki/concepts/aweemotion/"
+  },
+  "AweWalks": {
+    "title": "Awe Walks",
+    "url": "/wiki/concepts/awewalks/"
   },
   "Aweil": {
     "title": "Aweil / 阿维尔",
@@ -15563,6 +15575,10 @@
     "title": "大白牛老师 / Daba Niu Teacher",
     "url": "/wiki/entities/dabaniuteacher/"
   },
+  "DacherKeltner": {
+    "title": "Dacher Keltner",
+    "url": "/wiki/entities/dacherkeltner/"
+  },
   "Daewoo": {
     "title": "Daewoo",
     "url": "/wiki/entities/daewoo/"
@@ -19467,6 +19483,10 @@
     "title": "Elys",
     "url": "/wiki/entities/elys/"
   },
+  "EmbarrassmentTrustSignal": {
+    "title": "Embarrassment Trust Signal",
+    "url": "/wiki/concepts/embarrassmenttrustsignal/"
+  },
   "EmbeddedForeignReporting": {
     "title": "Embedded Foreign Reporting",
     "url": "/wiki/concepts/embeddedforeignreporting/"
@@ -19498,6 +19518,10 @@
   "EmbodiedCarbonBuildingCode": {
     "title": "Embodied Carbon Building Code",
     "url": "/wiki/concepts/embodiedcarbonbuildingcode/"
+  },
+  "EmbodiedCollectiveAwe": {
+    "title": "Embodied Collective Awe",
+    "url": "/wiki/concepts/embodiedcollectiveawe/"
   },
   "EmbodiedDataPyramid": {
     "title": "Embodied Data Pyramid",
@@ -42103,6 +42127,10 @@
     "title": "Moore Threads / 摩尔线程",
     "url": "/wiki/entities/moorethreads/"
   },
+  "MoralBeautyAwe": {
+    "title": "Moral Beauty Awe",
+    "url": "/wiki/concepts/moralbeautyawe/"
+  },
   "MoralCostOfEffectiveRescue": {
     "title": "Moral Cost of Effective Rescue / 成事的道德代价",
     "url": "/wiki/concepts/moralcostofeffectiverescue/"
@@ -59851,6 +59879,10 @@
     "title": "Team Marketing",
     "url": "/wiki/entities/teammarketing/"
   },
+  "TeasingBelongingBoundary": {
+    "title": "Teasing Belonging Boundary",
+    "url": "/wiki/concepts/teasingbelongingboundary/"
+  },
   "TechBubbleConditions": {
     "title": "Tech Bubble Conditions",
     "url": "/wiki/concepts/techbubbleconditions/"
@@ -72234,6 +72266,10 @@
   "costco-1": {
     "title": "Costco",
     "url": "/wiki/sources/costco-1/"
+  },
+  "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733": {
+    "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
+    "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
   },
   "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1": {
     "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",

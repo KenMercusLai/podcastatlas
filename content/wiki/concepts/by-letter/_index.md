@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7423
+wiki_total_pages: 7429
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2354,6 +2354,12 @@ wiki_pages:
   - key: "AwarenessMeditationStoryDropping"
     title: "Awareness Meditation Story Dropping"
     url: "/wiki/concepts/awarenessmeditationstorydropping/"
+  - key: "AweEmotion"
+    title: "Awe Emotion"
+    url: "/wiki/concepts/aweemotion/"
+  - key: "AweWalks"
+    title: "Awe Walks"
+    url: "/wiki/concepts/awewalks/"
   - key: "AxialAgeCivilizationalAwakening"
     title: "Axial Age Civilizational Awakening / 轴心时代文明觉醒"
     url: "/wiki/concepts/axialagecivilizationalawakening/"

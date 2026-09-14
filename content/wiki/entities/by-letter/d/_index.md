@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10104
+wiki_total_pages: 10106
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "DaVinciSurgicalSystem"
     title: "Da Vinci Surgical System"
     url: "/wiki/entities/davincisurgicalsystem/"
+  - key: "DacherKeltner"
+    title: "Dacher Keltner"
+    url: "/wiki/entities/dacherkeltner/"
   - key: "Daewoo"
     title: "Daewoo"
     url: "/wiki/entities/daewoo/"

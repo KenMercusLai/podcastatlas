@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7423
+wiki_total_pages: 7429
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "TeamAgentMemory"
     title: "Team Agent Memory"
     url: "/wiki/concepts/teamagentmemory/"
+  - key: "TeasingBelongingBoundary"
+    title: "Teasing Belonging Boundary"
+    url: "/wiki/concepts/teasingbelongingboundary/"
   - key: "TechBubbleConditions"
     title: "Tech Bubble Conditions"
     url: "/wiki/concepts/techbubbleconditions/"
