@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7434
+wiki_total_pages: 7436
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "HefeiIndustrialInvestmentModel"
     title: "Hefei Industrial Investment Model / 合肥模式"
     url: "/wiki/concepts/hefeiindustrialinvestmentmodel/"
+  - key: "HeianProvincialWarriorFormation"
+    title: "Heian Provincial Warrior Formation"
+    url: "/wiki/concepts/heianprovincialwarriorformation/"
   - key: "HeirSupportThreatPerception"
     title: "Heir / Claimant Support Threat Perception / 储君与宗室候选人威胁感"
     url: "/wiki/concepts/heirsupportthreatperception/"

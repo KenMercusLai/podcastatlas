@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 658. Dawn of the Samurai: The Shadow of the Sword (Part 1)
+
+Added source `658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498`; created `TairaNoMasakado`, `GhostOfTsushima`, `BushidoInventedTradition`, and `HeianProvincialWarriorFormation`; updated `TairaClan`, `MinamotoClan`, `SamuraiLegendAndPoliticalMemory`, and `SamuraiRule` with the origin layer around Heian provincial warriors, Minamoto/Taira ex-imperial surname prestige, modern Bushido codification, and Masakado's Kanto rebellion. No settled contradiction found; supernatural Masakado legends, exact warrior motives, and broad Bushido historiography remain source-scoped.
+
 ## [2026-09-14] ingest | Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner
 
 Added source `cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733`; created `DacherKeltner`, `AlanCowen`, `AweEmotion`, `AweWalks`, `MoralBeautyAwe`, `EmbodiedCollectiveAwe`, `EmbarrassmentTrustSignal`, and `TeasingBelongingBoundary`; updated `EmotionsAsFunctionalControlStates`, `SocialMediaDesignRegulation`, and `SocializingDecline` with Keltner's awe, embodied connection, digital-design, embarrassment, teasing, and community-repair branches. No settled contradiction found; health, long COVID, community life expectancy, psychedelic, and microdosing claims remain source-scoped.
@@ -19691,6 +19695,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

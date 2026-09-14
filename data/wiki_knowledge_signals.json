@@ -12924,6 +12924,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/bushezheshuo/"
     },
+    "BushidoInventedTradition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/bushidoinventedtradition/"
+    },
     "BusinessEliteRuleHongKong": {
       "episode_count": 1,
       "show_count": 1,
@@ -41545,6 +41561,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/ghezo/"
     },
+    "GhostOfTsushima": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/ghostoftsushima/"
+    },
     "Gibraltar": {
       "episode_count": 1,
       "show_count": 1,
@@ -46389,6 +46421,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/hefeilatehan/"
+    },
+    "HeianProvincialWarriorFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/heianprovincialwarriorformation/"
     },
     "HeiligenkreuzAbbey": {
       "episode_count": 1,
@@ -70975,9 +71023,9 @@
       "url": "/wiki/entities/minkaneasternhan/"
     },
     "MinamotoClan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -70999,6 +71047,13 @@
           "show": "The Rest Is History",
           "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
           "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        },
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
         }
       ],
       "updated": "2026-09-14",
@@ -89903,9 +89958,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SamuraiLegendAndPoliticalMemory": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -89927,15 +89982,22 @@
           "show": "The Rest Is History",
           "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
           "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        },
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
         }
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/samurailegendandpoliticalmemory/"
     },
     "SamuraiRule": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -89950,6 +90012,13 @@
           "show": "The Rest Is History",
           "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
           "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        },
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
         }
       ],
       "updated": "2026-09-13",
@@ -99897,9 +99966,9 @@
       "url": "/wiki/entities/taipingjing/"
     },
     "TairaClan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -99921,6 +99990,13 @@
           "show": "The Rest Is History",
           "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
           "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        },
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
         }
       ],
       "updated": "2026-09-14",
@@ -99941,6 +100017,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/tairanokiyomori/"
+    },
+    "TairaNoMasakado": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7378881498 [GLT7378881498].md",
+          "key": "658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498",
+          "show": "The Rest Is History",
+          "title": "658. Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+          "url": "/wiki/sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/tairanomasakado/"
     },
     "Taishan": {
       "episode_count": 3,

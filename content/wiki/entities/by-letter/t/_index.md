@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10113
+wiki_total_pages: 10115
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "TairaNoKiyomori"
     title: "Taira no Kiyomori"
     url: "/wiki/entities/tairanokiyomori/"
+  - key: "TairaNoMasakado"
+    title: "Taira no Masakado"
+    url: "/wiki/entities/tairanomasakado/"
   - key: "Taiwan"
     title: "Taiwan"
     url: "/wiki/entities/taiwan/"

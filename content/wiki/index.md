@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [658. Dawn of the Samurai: The Shadow of the Sword (Part 1)](sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498.md) — The Rest Is History episode on samurai origins, Bushido's modern reinvention, Heian provincial warrior formation, Minamoto/Taira surname prestige, and Taira no Masakado's rebellion.
 - [Home Depot](sources/home-depot-1.md) — Acquired episode on Home Depot's founding, warehouse home-improvement model, supplier financing, service culture, Nardelli/Blake leadership contrast, logistics moat, pro-contractor strategy, and long-term compounding.
 - [Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner](sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733.md) — Huberman Lab episode with Dacher Keltner on awe as measurable emotion, awe walks, moral beauty, embodied collective awe, embarrassment, teasing, psychedelics, community life, and digital-design limits.
 - [The Companies Changing Warfare Forever: Palantir & Anduril Execs on Drones, AI & the Future of War](sources/all-in-with-chamath-jason-sacks-friedberg-the-companies-changing-warfare-forever-palantir-and-anduril-execs-on-drones-ai-and-the-future-of-war-40743095.md) — All-In interview with Trey Stephens and Shyam Sankar on Palantir, Anduril, drones, autonomy, factory-based deterrence, defense procurement, and U.S. reindustrialization.
@@ -2469,6 +2470,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Ghost of Tsushima](entities/GhostOfTsushima.md) — Video game used by The Rest Is History as a modern gateway into samurai image, honor, and myth-history tension.
+- [Taira no Masakado](entities/TairaNoMasakado.md) — 10th-century Kanto rebel used as an early warning case for imperial-descended provincial warrior power.
 - [Dacher Keltner](entities/DacherKeltner.md) — UC Berkeley emotion scientist and Greater Good Science Center co-director explaining awe, embarrassment, teasing, moral beauty, community, psychedelics, and embodied connection in the Huberman Lab source.
 - [Alan Cowen](entities/AlanCowen.md) — Computational emotion researcher cited by Keltner for large-scale cross-cultural expression analysis that broadens emotion taxonomy beyond the classical six-expression frame.
 - [Arsenal One](entities/ArsenalOne.md) — Anduril's Columbus, Ohio modular factory campus used as a concrete factory-based deterrence and defense reindustrialization case.
@@ -12587,6 +12590,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Bushido as Invented Tradition](concepts/BushidoInventedTradition.md) — Frame separating modern formal Bushido codification from older medieval samurai honor, shame, service, and reputation ideals.
+- [Heian Provincial Warrior Formation](concepts/HeianProvincialWarriorFormation.md) — Origin process linking weak conscription, geography, frontier force, court patronage, and ex-imperial surnames to early samurai power.
 - [Home Improvement Warehouse Model](concepts/HomeImprovementWarehouseModel.md) — Retail format combining warehouse economics, broad project assortment, low prices, and expert home-improvement service.
 - [Retail Service Culture](concepts/RetailServiceCulture.md) — Operating culture where knowledgeable associates and customer education become part of a specialty retailer's moat.
 - [Supplier-Financed Inventory](concepts/SupplierFinancedInventory.md) — Working-capital pattern where supplier payment terms and fast turns help fund retail inventory.
