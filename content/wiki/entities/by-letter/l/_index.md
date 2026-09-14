@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10097
+wiki_total_pages: 10099
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "Luanfanshu"
     title: "乱翻书"
     url: "/wiki/entities/luanfanshu/"
+  - key: "LinghuMaoWesternHan"
+    title: "令胡茂 / Linghu Mao (Western Han)"
+    url: "/wiki/entities/linghumaowesternhan/"
   - key: "LingZhengLateHan"
     title: "伶征 / Ling Zheng (late Han)"
     url: "/wiki/entities/lingzhenglatehan/"

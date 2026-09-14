@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！](sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's post-Wugu flight, Linghu Mao's risky memorial, Han Wudi's partial awakening without public pardon, and the Hu County exposure before Hanji 387-2.
 - [《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！](sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's surrounded-flight suicide, two imperial grandsons' deaths, Sima Guang's Bowang guest-education critique, and Liu Bingyi's survival through Bing Ji.
 - [《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？](sources/zizhi-tongjian-hanji-388-1-shaqi-shazi-zhihou-hanwudi-weihe-zumie-dajiuzi-liguangli-lkkwpivpwqpeg5kd7azu-wmdqmgb.md) — 芮淇讲透资治通鉴 episode on Li Guangli's 90 BCE Xiongnu campaign, Liu Quli succession plotting around Liu Bo, family arrests, army mistrust, surrender, and Han Wudi's extermination of the Li family.
 - [273.逛完外滩大会，发现蚂蚁找到了新位置](sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3.md) — 乱翻书 episode using the Bund Conference to reframe Ant Group around Alipay personal agents, 阿福 health, AI payment, 碰一下, OceanBase, Digital Ant, Lingbo, and Ant International.
@@ -2463,6 +2464,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [令胡茂 / Linghu Mao (Western Han)](entities/LinghuMaoWesternHan.md) — Low-ranking elder whose risky memorial reframes Liu Ju's Wugu flight as fear-driven self-protection.
+- [卫子夫 / Empress Wei Zifu (Western Han)](entities/EmpressWeiZifuWesternHan.md) — Western Han empress whose suicide marks the Wugu household catastrophe before Liu Ju's final flight.
 - [公孙勇 / Gongsun Yong (Western Han)](entities/GongsunYongWesternHan.md) — Failed rebel in Hanji 388-2 who tries to exploit绣衣使者 prestige.
 - [田广明 / Tian Guangming (Western Han)](entities/TianGuangmingWesternHan.md) — Local official in Hanji 388-2 who detects Hu Qian's false official identity.
 - [魏不害 / Wei Buhai (Western Han)](entities/WeiBuhaiWesternHan.md) — Small local official in Hanji 388-2 who exposes Gongsun Yong's绣衣 imposture.

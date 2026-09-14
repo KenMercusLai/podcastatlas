@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！
+
+Added source `zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku`; created `LinghuMaoWesternHan` and `EmpressWeiZifuWesternHan`; updated `LiuJuCrownPrinceWesternHan`, `WuguIncidentWesternHan`, overview, and index with Liu Ju's post-Wugu flight, court silence, Linghu Mao's risky memorial, Han Wudi's partial awakening without public pardon, and the Hu County exposure before Hanji 387-2. No settled contradiction found; Linghu Mao's memorial text, Hu County arrest mechanics, the complete punishment list, and full Wei Zifu biography remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》388-1｜杀妻杀子之后，汉武帝为何族灭大舅子李广利？
 
 Added source note for Hanji 388-1. Key claims: Li Guangli's surrender is explained through the collision of the 90 BCE anti-Xiongnu campaign, succession alignment with Liu Quli around Liu Bo, arrest of Li's family, officer suspicion, battlefield traps, and fear of returning to Han; the source complements Hanji 389-2 by supplying the family-political prequel to the failed expedition and later Luntai reckoning. Created Liu Quli, Liu Bo, Lady Li, and Shangqiu Cheng; updated Li Guangli. No settled contradiction found.
@@ -19667,6 +19671,10 @@ Added source `zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-l
 ## [2026-09-14] ingest | 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 Added source `273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3`; created `Alipay`, `AntAbao`, `AntAfu`, `AlipayTapNetwork`, `OceanBase`, `DigitalAnt`, `AntInternational`, `BundConference`, `PersonalLifeAgent`, `AIHealthAgent`, `OfflineAgentNetwork`, and `AIDatabaseContextLayer`; updated `AntGroup`, `AntLingbo`, and `AgentPaymentInfrastructure` with Ant's Bund Conference repositioning around personal agents, health, AI payment, offline touchpoints, database context, embodied intelligence, and global wallet networks. No settled contradiction found; investment amounts, financing figures, valuation ranges, touchpoint counts, wallet counts, WorldFirst transaction volume, and CEO-priority claims remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

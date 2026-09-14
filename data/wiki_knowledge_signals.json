@@ -31317,6 +31317,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/empressweitang/"
     },
+    "EmpressWeiZifuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！ [loDLSF5WTqTvoeJJHe4aPec7TrKU].md",
+          "key": "zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/empressweizifuwesternhan/"
+    },
     "EmpressXiaomuXin": {
       "episode_count": 2,
       "show_count": 1,
@@ -61064,6 +61080,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/lineageruledurability/"
     },
+    "LinghuMaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！ [loDLSF5WTqTvoeJJHe4aPec7TrKU].md",
+          "key": "zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/linghumaowesternhan/"
+    },
     "LinglingMyFirstHalfLife": {
       "episode_count": 1,
       "show_count": 1,
@@ -62079,9 +62111,9 @@
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuCrownPrinceWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -62110,6 +62142,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！ [loDLSF5WTqTvoeJJHe4aPec7TrKU].md",
+          "key": "zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
         }
       ],
       "updated": "2026-09-14",
@@ -110838,9 +110877,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -110876,6 +110915,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！ [loDLSF5WTqTvoeJJHe4aPec7TrKU].md",
+          "key": "zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》387-1｜太子刘据逃亡后，惨！惨！惨！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku/"
         }
       ],
       "updated": "2026-09-14",

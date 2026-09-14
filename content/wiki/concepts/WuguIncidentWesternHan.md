@@ -9,16 +9,17 @@ sources:
   - zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m
   - zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73
   - zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h
+  - zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku
 last_updated: 2026-09-14
 ---
 
 ## Definition
 
-The Wugu Incident / 巫蛊之祸 is the late [[HanWudi|汉武帝]] succession trauma in which [[LiuJuCrownPrinceWesternHan|卫太子刘据]] is destroyed and later presumed dead. In the current wiki it matters in five bounded ways: Hanji 387-2 gives Liu Ju's death scene, household destruction, and [[EmperorXuanOfHan|刘病已]] survival hook; Hanji 388-2 gives the remorse-and-punishment aftermath; Hanji 391-1 uses it to explain the source-scoped hidden charge against [[LadyGouyiWesternHan|钩弋夫人]]; Hanji 390-1 shows the purge of [[JiangChongWesternHan|江充]]'s side making [[MaHeluoWesternHan|马何罗]] and [[MaTongWesternHan|马通]] fear implication; and Hanji 396-2 uses its aftermath to explain why a later false Liu Ju return claim becomes politically explosive.
+The Wugu Incident / 巫蛊之祸 is the late [[HanWudi|汉武帝]] succession trauma in which [[LiuJuCrownPrinceWesternHan|卫太子刘据]] is destroyed and later presumed dead. In the current wiki it matters in six bounded ways: Hanji 387-1 gives the flight, court-silence, [[LinghuMaoWesternHan|令胡茂]] remonstrance, and failed-pardon bridge; Hanji 387-2 gives Liu Ju's death scene, household destruction, and [[EmperorXuanOfHan|刘病已]] survival hook; Hanji 388-2 gives the remorse-and-punishment aftermath; Hanji 391-1 uses it to explain the source-scoped hidden charge against [[LadyGouyiWesternHan|钩弋夫人]]; Hanji 390-1 shows the purge of [[JiangChongWesternHan|江充]]'s side making [[MaHeluoWesternHan|马何罗]] and [[MaTongWesternHan|马通]] fear implication; and Hanji 396-2 uses its aftermath to explain why a later false Liu Ju return claim becomes politically explosive.
 
 ## Current Synthesis
 
-The current wiki evidence remains narrow but now has a death-and-survival, remorse, hidden-guilt, immediate-aftershock, and later-memory branch. [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] says the Wugu crisis ends for Liu Ju with surrounded flight, suicide, the killing of two imperial grandsons, wider household destruction in Chang'an, and the survival of infant Liu Bingyi through [[BingJiWesternHan|丙吉]]'s protection. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says a later review finds many accusations false and allows Han Wudi to see Liu Ju as driven into fear by Jiang Chong. Tian Qianqiu's memorial reframes the crown prince's action as a father-son matter, after which Wudi punishes Jiang Chong's family, burns [[SuWenWesternHan|苏文]], pursues anti-Liu-Ju attackers, and builds 思子宫 and 归来望思之台. [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] then says Han Wudi later investigates Liu Ju's death and, in the host's interpretation, discovers that Lady Gouyi helped Jiang Chong and Su Wen frame the crown prince. The source treats this as the hidden reason for Lady Gouyi's death but also says Han Wudi does not publicize it because her son [[EmperorZhaoOfHan|刘弗陵]] is the intended successor.
+The current wiki evidence remains narrow but now has a flight-and-remonstrance, death-and-survival, remorse, hidden-guilt, immediate-aftershock, and later-memory branch. [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] says that after [[EmpressWeiZifuWesternHan|卫子夫]]'s suicide, Wudi continues punishing Liu Ju's associates while frightened officials stay silent despite believing Liu Ju has been wronged. Linghu Mao's memorial reframes Liu Ju's action as fear-driven self-protection after Jiang Chong's persecution, and Wudi is moved without publicly pardoning the fugitive crown prince. [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] then says the crisis ends for Liu Ju with surrounded flight, suicide, the killing of two imperial grandsons, wider household destruction in Chang'an, and the survival of infant Liu Bingyi through [[BingJiWesternHan|丙吉]]'s protection. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says a later review finds many accusations false and allows Han Wudi to see Liu Ju as driven into fear by Jiang Chong. Tian Qianqiu's memorial reframes the crown prince's action as a father-son matter, after which Wudi punishes Jiang Chong's family, burns [[SuWenWesternHan|苏文]], pursues anti-Liu-Ju attackers, and builds 思子宫 and 归来望思之台. [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] then says Han Wudi later investigates Liu Ju's death and, in the host's interpretation, discovers that Lady Gouyi helped Jiang Chong and Su Wen frame the crown prince. The source treats this as the hidden reason for Lady Gouyi's death but also says Han Wudi does not publicize it because her son [[EmperorZhaoOfHan|刘弗陵]] is the intended successor.
 
 The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan-diyi-da-an-jinridi-ruhe-jiu-le-hanwudi-xingming-ls4snv189gvasy6yke7aw0kwhz8m|Hanji 390-1]]. Ma Heluo's friendship with Jiang Chong and Ma Tong's reward for fighting Liu Ju had once aligned the brothers with Han Wudi's anti-Liu-Ju response. When Wudi later punishes Jiang Chong's family and associates, that prior alignment becomes a liability, and fear of implication helps push the brothers toward rebellion and attempted assassination.
 
@@ -26,17 +27,19 @@ The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan
 
 ## Key Claims
 
-- The Wugu Incident functions as a succession-memory background whose terminal death-and-survival layer now includes Liu Ju's suicide, family killings, and Liu Bingyi's preservation.
+- The Wugu Incident functions as a succession-memory background whose terminal layers now include Liu Ju's flight, failed rescue possibility, suicide, family killings, and Liu Bingyi's preservation.
+- Court silence and low-rank remonstrance matter: Hanji 387-1 treats Linghu Mao's memorial as an early route toward recognizing Liu Ju's grievance before the later Tian Qianqiu settlement.
 - Hanji 388-2 makes Wudi's remorse operational: review, Tian Qianqiu's memorial, punishment of Wugu actors, and mourning architecture.
 - Hanji 391-1 source-scopedly treats Lady Gouyi as a hidden participant behind Jiang Chong and Su Wen in Liu Ju's destruction.
 - Han Wudi's alleged concealment of Lady Gouyi's charge shows the incident continuing to shape the legitimacy of Liu Fuling's succession.
 - The purge aftermath can turn earlier anti-Liu-Ju service into later danger, as shown by Ma Heluo and Ma Tong's fear of implication.
-- Liu Ju's presumed death after the incident is necessary for understanding why the later "return" claim creates shock.
-- The incident leaves enough unresolved emotional and political charge that resemblance can briefly paralyze officials, while Jun Buyi's response depends on treating Liu Ju's post-incident status as politically disabled even if physical survival were possible.
+- Liu Ju's presumed death and unresolved emotional charge explain why the later "return" claim creates shock, briefly paralyzes officials, and forces Jun Buyi to prioritize dynastic order over physical-identity uncertainty.
 
 ## Evidence
 
 - Remorse and punishment: [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says review of the case reveals many false accusations, Wudi accepts Tian Qianqiu's memorial, and Wudi punishes Jiang Chong, Su Wen, and other anti-Liu-Ju actors.
+- Flight and remonstrance: [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] says officials believe Liu Ju is wronged but stay silent, while Linghu Mao argues that Liu Ju acted from fear after Jiang Chong blocked direct appeal to Wudi.
+- Failed public rescue: [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] says Wudi is moved by Linghu Mao's memorial but does not publicly pardon Liu Ju because the armed conflict's consequences are too large.
 - Death scene and surviving line: [[zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h|Hanji 387-2]] says Liu Ju hangs himself after being surrounded, two sons die with him, other close family members are killed in Chang'an, and Liu Bingyi survives through Bing Ji's protection.
 - Mourning memory: [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says Wudi builds 思子宫 and 归来望思之台 after recognizing Liu Ju's innocence.
 - Hidden-guilt branch: [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says the host regards Lady Gouyi, not only Jiang Chong or Su Wen, as the true behind-the-scenes actor in Liu Ju's frame-up.
@@ -48,10 +51,11 @@ The immediate political aftershock appears in [[zizhi-tongjian-hanji-390-1-xihan
 
 ## Counterevidence & Qualifications
 
-This page should not be treated as a complete account of the Wugu Incident. Hanji 387-2 supplies a compact death-scene and Liu Bingyi survival hook, not the full prosecution or household genealogy. Hanji 388-2 supplies a compact remorse-and-punishment account, not a full case dossier or primary-source comparison. Hanji 391-1's Lady Gouyi claim is source-scoped and not upgraded here into settled historiography. Hanji 390-1 uses Wugu aftermath to explain Ma Heluo's plot; it does not reconstruct the full Wugu prosecution or prove every participant's legal exposure. Hanji 396-2 does not reconstruct causes, accusations, participants, deaths, legal procedure, or historiographical debate; it only uses the aftermath to explain the false-Liu-Ju crisis under Han Zhao.
+This page should not be treated as a complete account of the Wugu Incident. Hanji 387-1 supplies a compact flight-and-remonstrance bridge, not Linghu Mao's full memorial text, Hu County local mechanics, or a full list of punished associates. Hanji 387-2 supplies a compact death-scene and Liu Bingyi survival hook, not the full prosecution or household genealogy. Hanji 388-2 supplies a compact remorse-and-punishment account, not a full case dossier or primary-source comparison. Hanji 391-1's Lady Gouyi claim is source-scoped and not upgraded here into settled historiography. Hanji 390-1 uses Wugu aftermath to explain Ma Heluo's plot; it does not reconstruct the full Wugu prosecution or prove every participant's legal exposure. Hanji 396-2 does not reconstruct causes, accusations, participants, deaths, legal procedure, or historiographical debate; it only uses the aftermath to explain the false-Liu-Ju crisis under Han Zhao.
 
 ## What Changed
 
+- Added Hanji 387-1's flight-and-remonstrance branch: court silence, Linghu Mao's defense, Wudi's partial awakening, and no public pardon.
 - Added Hanji 388-2's remorse branch: case review, Tian Qianqiu's father-son memorial, punishment of Jiang Chong and Su Wen, and mourning structures for Liu Ju.
 - Added Hanji 387-2's terminal branch: Liu Ju's suicide, family casualties, and Liu Bingyi's survival through Bing Ji.
 - Added Hanji 390-1's Ma-family aftershock branch, where fear after the Jiang Chong purge helps produce the Lingguang Palace assassination attempt.
@@ -60,6 +64,8 @@ This page should not be treated as a complete account of the Wugu Incident. Hanj
 ## Related Concepts
 
 - [[ClaimantImpostorCrisisHandling]] - downstream crisis pattern created by the later false-Liu-Ju claim.
+- [[LinghuMaoWesternHan]] - early remonstrance actor who reframes Liu Ju's conduct before the later remorse settlement.
+- [[EmpressWeiZifuWesternHan]] - empress whose suicide marks the household catastrophe that does not halt punishments.
 - [[LadyGouyiWesternHan]] - harem figure whose source-scoped alleged involvement gives Hanji 391-1 its hidden explanation for her death.
 - [[MaHeluoWesternHan]] - Wugu-aftershock conspirator who fears implication and attempts to kill Han Wudi.
 - [[MaTongWesternHan]] - Ma brother whose earlier anti-Liu-Ju service becomes later exposure.
