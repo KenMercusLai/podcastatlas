@@ -19918,3 +19918,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-15] ingest | 《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝
+
+Added source note for Hanji 381-1. Key claims: Han Wudi's unusually long life is made politically concrete through Western Han emperor comparison and Xiongnu chanyu turnover; Du Zhou's 95 BCE death transitions the censorial office to Bao Shengzhi; Bai Gong's Baiqu proposal turns late-Wudi state capacity toward irrigation and ordinary agricultural benefit. No settled contradiction found; chanyu name forms, lifespan average, canal route, and acreage figures remain source-scoped.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

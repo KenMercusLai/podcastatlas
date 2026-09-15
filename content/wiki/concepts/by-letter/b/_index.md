@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7470
+wiki_total_pages: 7472
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "BianquHydraulicGovernance"
     title: "汴渠水利治理 / Bianqu Hydraulic Governance"
     url: "/wiki/concepts/bianquhydraulicgovernance/"
+  - key: "BaiquIrrigationProject"
+    title: "白渠 / Baiqu Irrigation Project"
+    url: "/wiki/concepts/baiquirrigationproject/"
   - key: "BanditToArmyDiscipline"
     title: "盗匪成军纪律化 / Bandit-to-Army Discipline"
     url: "/wiki/concepts/bandittoarmydiscipline/"

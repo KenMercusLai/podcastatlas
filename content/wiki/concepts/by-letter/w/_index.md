@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 7470
+wiki_total_pages: 7472
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "WangdaoVsBadao"
     title: "王道 versus 霸道 / Kingly Way Over Hegemony"
     url: "/wiki/concepts/wangdaovsbadao/"
+  - key: "WesternHanImperialLongevityComparison"
+    title: "西汉帝王寿命比较 / Western Han Imperial Longevity Comparison"
+    url: "/wiki/concepts/westernhanimperiallongevitycomparison/"
   - key: "WeiZexiIncident"
     title: "魏则西事件"
     url: "/wiki/concepts/weizexiincident/"

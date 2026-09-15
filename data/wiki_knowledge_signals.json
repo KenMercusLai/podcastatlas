@@ -9587,6 +9587,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/baimarelieflatehan/"
     },
+    "BaiquIrrigationProject": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝 [lrreREr9sCcoHLNHy9kiDSQjjNek].md",
+          "key": "zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/baiquirrigationproject/"
+    },
     "BalletSneakerHybrid": {
       "episode_count": 1,
       "show_count": 1,
@@ -10142,9 +10158,9 @@
       "url": "/wiki/entities/baojuneasternhan/"
     },
     "BaoShengzhiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀 [lrvdFIB62oCZCyE7LoQss4-Prkgl].md",
@@ -10159,6 +10175,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝 [lrreREr9sCcoHLNHy9kiDSQjjNek].md",
+          "key": "zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek/"
         }
       ],
       "updated": "2026-09-15",
@@ -28196,9 +28219,9 @@
       "url": "/wiki/entities/duzhonglatehan/"
     },
     "DuZhouWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
@@ -28206,9 +28229,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝 [lrreREr9sCcoHLNHy9kiDSQjjNek].md",
+          "key": "zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/duzhouwesternhan/"
     },
     "DuanGongchengLateHan": {
@@ -111812,6 +111842,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/westernfrontfirstworldwar/"
+    },
+    "WesternHanImperialLongevityComparison": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝 [lrreREr9sCcoHLNHy9kiDSQjjNek].md",
+          "key": "zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/westernhanimperiallongevitycomparison/"
     },
     "WesternHanLimitLandAndSlaves": {
       "episode_count": 1,

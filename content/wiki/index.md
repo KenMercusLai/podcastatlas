@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝](sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek.md) — 芮淇讲透资治通鉴 short episode on Han Wudi's Western Han longevity, Xiongnu chanyu turnover, Du Zhou's 95 BCE death, Bao Shengzhi's appointment, and Baiqu irrigation.
 - [《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”](sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf.md) — 芮淇讲透资治通鉴 short episode on Bao Shengzhi's direct envoy authority, Jun Buyi's moderation counsel, Wang He's life-saving leniency, and an early failed Han-aligned attack on Cheshi.
 - [《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？](sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89.md) — 芮淇讲透资治通鉴 short episode on Li Ling's family reputation, infantry defeat, surrender to Xiongnu, late-Han-Wudi war finance, and the tragedy later enlarged by blame transfer and family destruction.
 - [SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755.md) — All-In episode on SpaceX's reported IPO, lunar industrialization, large IPO capital absorption, Iran-war fertilizer and energy shocks, and quantum risk to Bitcoin and encryption.
@@ -12652,6 +12653,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [西汉帝王寿命比较 / Western Han Imperial Longevity Comparison](concepts/WesternHanImperialLongevityComparison.md) — Hanji 381-1 frame treating Han Wudi's lifespan as a political time horizon across Western Han emperors and Xiongnu chanyu turnover.
+- [白渠 / Baiqu Irrigation Project](concepts/BaiquIrrigationProject.md) — 95 BCE late-Han-Wudi irrigation project proposed by Bai Gong to bring Jing River water into Wei-region farmland.
 - [Lunar Industrialization](concepts/LunarIndustrialization.md) — Moon-as-industrial-frontier thesis linking cheap launch, robotics, lunar materials, and mass-driver speculation.
 - [IPO Capital Absorption](concepts/IPOCapitalAbsorption.md) — public-market liquidity frame for whether large listings and insider sellers can be absorbed without broken offering prices.
 - [Fertilizer Supply-Chain Shock](concepts/FertilizerSupplyChainShock.md) — energy and chokepoint risk frame for fertilizer availability, farmer input costs, and food-system resilience.
