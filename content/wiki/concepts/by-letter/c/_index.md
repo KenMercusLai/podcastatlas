@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7454
+wiki_total_pages: 7460
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "CommercializedReligiousAdaptation"
     title: "Commercialized Religious Adaptation"
     url: "/wiki/concepts/commercializedreligiousadaptation/"
+  - key: "CommitmentBiasPublicPromise"
+    title: "Commitment Bias Public Promise"
+    url: "/wiki/concepts/commitmentbiaspublicpromise/"
   - key: "CommodityPriceExposure"
     title: "Commodity Price Exposure"
     url: "/wiki/concepts/commoditypriceexposure/"

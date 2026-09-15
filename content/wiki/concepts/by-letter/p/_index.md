@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7454
+wiki_total_pages: 7460
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "PracticalSugarControl"
     title: "Practical Sugar Control / 快乐控糖"
     url: "/wiki/concepts/practicalsugarcontrol/"
+  - key: "PracticeBeforeFeeling"
+    title: "Practice Before Feeling"
+    url: "/wiki/concepts/practicebeforefeeling/"
   - key: "PragmaticImmigrationCompromise"
     title: "Pragmatic Immigration Compromise"
     url: "/wiki/concepts/pragmaticimmigrationcompromise/"

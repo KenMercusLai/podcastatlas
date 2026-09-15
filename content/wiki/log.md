@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-15] ingest | The Art of True Happiness | Dr. Arthur Brooks
+
+Added source `the-art-of-true-happiness-dr-arthur-brooks-scim2290485637`; created `ArthurBrooks`, `HappinessMacronutrients`, `EnjoymentVsPleasure`, `MoralAspirationPractice`, `CommitmentBiasPublicPromise`, `HappinessIdols`, and `PracticeBeforeFeeling`. Core synthesis: Brooks frames happiness as enjoyment, satisfaction, and meaning rather than comfort or constant positivity; pleasure needs people, memory, and moral aspiration to become enjoyment; satisfaction depends on struggle; and meaning depends on love, service, faith, practice, and resistance to money, power, pleasure, and honor as ultimate idols. No settled contradiction found; religious, Vedic, hemispheric, and self-assessment claims remain source-scoped.
+
 ## [2026-09-15] ingest | Strait and narrowing: the Houthis' striking advance
 
 Added source `strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7`; migrated and updated `Houthis`; created `HouthiMaritimeChokepointLeverage`, `AntiHouthiCoalitionFragmentation`, `TrumpCoalitionFragmentation`, and `HollywoodNepotismNetworkAdvantage`. Core synthesis: Houthi coastal gains around Bab al-Mandab matter because opponent fragmentation turns a local battlefield move into Red Sea, Saudi pipeline, oil-route, and Iran-war leverage; the episode also adds voter-level Trump coalition erosion and a Hollywood network-advantage frame for nepotism. No settled contradiction found.
@@ -19791,6 +19795,10 @@ Added source `salt-020260914-archive-keats-podcast`; created pages for Jonathan 
 ## [2026-09-15] ingest | 图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博
 
 Added source `tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463`; created entity pages for Dior, Jonathan Anderson, LVMH, Wang Yibo, Shiseido, CPB, Haitian, Amoy, Sunwoda Power, and CALB; created concepts for celebrity-led market entry, luxury cultural partnership, battery supplier diversification, AI short-drama supply glut, condiment outbound acquisition, private-label lookalike risk, and packaged ice-cream demand pressure. No settled contradiction found; legal claims, settlement details, store counts, market shares, futures prices, and payout figures remain source-scoped.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

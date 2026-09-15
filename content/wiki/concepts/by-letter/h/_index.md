@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7454
+wiki_total_pages: 7460
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -71,6 +71,12 @@ wiki_pages:
   - key: "HanziTransdialectalFunction"
     title: "Hanzi Transdialectal Function"
     url: "/wiki/concepts/hanzitransdialectalfunction/"
+  - key: "HappinessIdols"
+    title: "Happiness Idols"
+    url: "/wiki/concepts/happinessidols/"
+  - key: "HappinessMacronutrients"
+    title: "Happiness Macronutrients"
+    url: "/wiki/concepts/happinessmacronutrients/"
   - key: "HappinessBasedDeescalation"
     title: "Happiness-Based De-escalation / 幸福者退让原则"
     url: "/wiki/concepts/happinessbaseddeescalation/"

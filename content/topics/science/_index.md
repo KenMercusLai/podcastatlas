@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1104
+topic_total_pages: 1108
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -562,6 +562,9 @@ topic_concepts:
   - key: "EnforceableCommunityBenefits"
     title: "Enforceable Community Benefits"
     url: "/wiki/concepts/enforceablecommunitybenefits/"
+  - key: "EnjoymentVsPleasure"
+    title: "Enjoyment Vs Pleasure"
+    url: "/wiki/concepts/enjoymentvspleasure/"
   - key: "EnvironmentOverWillpower"
     title: "Environment Over Willpower"
     url: "/wiki/concepts/environmentoverwillpower/"
@@ -805,6 +808,9 @@ topic_concepts:
   - key: "HantavirusPulmonarySyndromeEscalation"
     title: "Hantavirus Pulmonary Syndrome Escalation"
     url: "/wiki/concepts/hantaviruspulmonarysyndromeescalation/"
+  - key: "HappinessMacronutrients"
+    title: "Happiness Macronutrients"
+    url: "/wiki/concepts/happinessmacronutrients/"
   - key: "HayFeverEnvironmentalHistory"
     title: "Hay Fever Environmental History"
     url: "/wiki/concepts/hayfeverenvironmentalhistory/"
@@ -2042,6 +2048,9 @@ topic_entities:
   - key: "ArtemisAccords"
     title: "Artemis Accords"
     url: "/wiki/entities/artemisaccords/"
+  - key: "ArthurBrooks"
+    title: "Arthur Brooks"
+    url: "/wiki/entities/arthurbrooks/"
   - key: "AugustBier"
     title: "August Bier / 奥古斯特·比尔"
     url: "/wiki/entities/augustbier/"
@@ -3228,6 +3237,9 @@ topic_sources:
   - key: "tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128"
     title: "The 'biohacking' trend that has tech workers experimenting on themselves"
     url: "/wiki/sources/tech-20260119-0119-mp-tech-pod-128-tech-20260119-0119-mp-tech-pod-128/"
+  - key: "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637"
+    title: "The Art of True Happiness | Dr. Arthur Brooks"
+    url: "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
   - key: "the-continent-nobody-owns-everyone-benefits-from-summer-school"
     title: "The continent nobody owns & everyone benefits from (Summer School)"
     url: "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"

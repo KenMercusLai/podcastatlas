@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7454
+wiki_total_pages: 7460
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "MOPDPostTraining"
     title: "MOPD Post-Training"
     url: "/wiki/concepts/mopdposttraining/"
+  - key: "MoralAspirationPractice"
+    title: "Moral Aspiration Practice"
+    url: "/wiki/concepts/moralaspirationpractice/"
   - key: "MoralBeautyAwe"
     title: "Moral Beauty Awe"
     url: "/wiki/concepts/moralbeautyawe/"

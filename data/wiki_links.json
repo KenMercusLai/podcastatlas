@@ -6227,6 +6227,10 @@
     "title": "Arthur Blank",
     "url": "/wiki/entities/arthurblank/"
   },
+  "ArthurBrooks": {
+    "title": "Arthur Brooks",
+    "url": "/wiki/entities/arthurbrooks/"
+  },
   "ArthurBurns": {
     "title": "Arthur Burns",
     "url": "/wiki/entities/arthurburns/"
@@ -13775,6 +13779,10 @@
     "title": "Commercialized Religious Adaptation",
     "url": "/wiki/concepts/commercializedreligiousadaptation/"
   },
+  "CommitmentBiasPublicPromise": {
+    "title": "Commitment Bias Public Promise",
+    "url": "/wiki/concepts/commitmentbiaspublicpromise/"
+  },
   "CommodityFuturesTradingCommission": {
     "title": "Commodity Futures Trading Commission",
     "url": "/wiki/entities/commodityfuturestradingcommission/"
@@ -20070,6 +20078,10 @@
   "EnglishHeritage": {
     "title": "English Heritage",
     "url": "/wiki/entities/englishheritage/"
+  },
+  "EnjoymentVsPleasure": {
+    "title": "Enjoyment Vs Pleasure",
+    "url": "/wiki/concepts/enjoymentvspleasure/"
   },
   "Enkidu": {
     "title": "Enkidu / 恩启都",
@@ -27334,6 +27346,14 @@
   "HappinessBasedDeescalation": {
     "title": "Happiness-Based De-escalation / 幸福者退让原则",
     "url": "/wiki/concepts/happinessbaseddeescalation/"
+  },
+  "HappinessIdols": {
+    "title": "Happiness Idols",
+    "url": "/wiki/concepts/happinessidols/"
+  },
+  "HappinessMacronutrients": {
+    "title": "Happiness Macronutrients",
+    "url": "/wiki/concepts/happinessmacronutrients/"
   },
   "HappyFamilyOrganics": {
     "title": "Happy Family Organics",
@@ -42267,6 +42287,10 @@
     "title": "Moore Threads / 摩尔线程",
     "url": "/wiki/entities/moorethreads/"
   },
+  "MoralAspirationPractice": {
+    "title": "Moral Aspiration Practice",
+    "url": "/wiki/concepts/moralaspirationpractice/"
+  },
   "MoralBeautyAwe": {
     "title": "Moral Beauty Awe",
     "url": "/wiki/concepts/moralbeautyawe/"
@@ -48434,6 +48458,10 @@
   "PracticalSugarControl": {
     "title": "Practical Sugar Control / 快乐控糖",
     "url": "/wiki/concepts/practicalsugarcontrol/"
+  },
+  "PracticeBeforeFeeling": {
+    "title": "Practice Before Feeling",
+    "url": "/wiki/concepts/practicebeforefeeling/"
   },
   "PradmeshPatil": {
     "title": "Pradmesh Patil",
@@ -75086,6 +75114,10 @@
   "the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad": {
     "title": "The 250-year experiment: America's birthday",
     "url": "/wiki/sources/the-250-year-experiment-americas-birthday-6a477d9aecd123914320b4ad/"
+  },
+  "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637": {
+    "title": "The Art of True Happiness | Dr. Arthur Brooks",
+    "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
   },
   "the-business-of-heated-rivalry": {
     "title": "The Business of Heated Rivalry",

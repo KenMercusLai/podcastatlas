@@ -7936,6 +7936,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/arthurblank/"
     },
+    "ArthurBrooks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/arthurbrooks/"
+    },
     "ArtificialEmotionalIntelligence": {
       "episode_count": 1,
       "show_count": 1,
@@ -19569,6 +19585,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/commercializedreligiousadaptation/"
+    },
+    "CommitmentBiasPublicPromise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/commitmentbiaspublicpromise/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -32283,6 +32315,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/englishdefenceleague/"
+    },
+    "EnjoymentVsPleasure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/enjoymentvspleasure/"
     },
     "EnochSontonga": {
       "episode_count": 1,
@@ -46211,6 +46259,38 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/happinessbaseddeescalation/"
+    },
+    "HappinessIdols": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/happinessidols/"
+    },
+    "HappinessMacronutrients": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/happinessmacronutrients/"
     },
     "HappyMondayClub": {
       "episode_count": 1,
@@ -72688,6 +72768,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/monticello/"
     },
+    "MoralAspirationPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/moralaspirationpractice/"
+    },
     "MoralBeautyAwe": {
       "episode_count": 1,
       "show_count": 1,
@@ -82552,6 +82648,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/practicalsugarcontrol/"
+    },
+    "PracticeBeforeFeeling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2290485637 [SCIM2290485637].md",
+          "key": "the-art-of-true-happiness-dr-arthur-brooks-scim2290485637",
+          "show": "Huberman Lab",
+          "title": "The Art of True Happiness | Dr. Arthur Brooks",
+          "url": "/wiki/sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/practicebeforefeeling/"
     },
     "PradmeshPatil": {
       "episode_count": 1,

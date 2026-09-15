@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Art of True Happiness | Dr. Arthur Brooks](sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637.md) — Huberman Lab episode with Arthur Brooks on happiness as enjoyment, satisfaction, and meaning; pleasure versus enjoyment; struggle-based satisfaction; idols; faith; service; and practice before feeling.
 - [Strait and narrowing: the Houthis' striking advance](sources/strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7.md) — The Intelligence episode on Houthi coastal gains, Saudi and oil-route pressure, Trump voter-coalition erosion, and Hollywood nepotism.
 - [What might our tax system look like in the age of AI?](sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio and Ryan Abbott on AI labor substitution, payroll-tax asymmetry, labor-tax revenue exposure, and possible replacement tax bases.
 - [(From the archive) Jonathon Keats: Envisioning Deep Time](sources/salt-020260914-archive-keats-podcast.md) — Long Now archive episode with Jonathan Keats on public experimental philosophy, century and millennium cameras, deep-time mental prostheses, and the 5,000-year bristlecone calendar.
@@ -2480,6 +2481,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Arthur Brooks](entities/ArthurBrooks.md) — Huberman Lab guest presenting happiness as practiced enjoyment, satisfaction, meaning, love, service, faith, and resistance to status idols.
 - [Ryan Abbott](entities/RyanAbbott.md) — Legal and technology expert whose Marketplace Tech appearance frames AI payroll-tax neutrality and the tax advantage of machine work over human employment.
 - [Jonathan Keats](entities/JonathanKeats.md) — Artist and experimental philosopher whose Long Now archive talk turns thought experiments, long-duration cameras, and bristlecone calendars into public deep-time practice.
 - [Centuries of the Bristlecone](entities/CenturiesOfTheBristlecone.md) — Jonathan Keats's proposed 5,000-year bristlecone-pine calendar for ecological timekeeping.
@@ -12618,6 +12620,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Commitment Bias Public Promise](concepts/CommitmentBiasPublicPromise.md) — Brooks' use of public vows and declarations as support for staying aligned with long-term values through difficulty.
+- [Enjoyment Vs Pleasure](concepts/EnjoymentVsPleasure.md) — Brooks' distinction between bare pleasure and enjoyment shaped by people, memory, conscious management, and moral aspiration.
+- [Happiness Idols](concepts/HappinessIdols.md) — Brooks' diagnostic for money, power, pleasure, and honor as worldly rewards that become harmful when treated as ultimate ends.
+- [Happiness Macronutrients](concepts/HappinessMacronutrients.md) — Brooks' three-part happiness model of enjoyment, satisfaction, and meaning.
+- [Moral Aspiration Practice](concepts/MoralAspirationPractice.md) — Choosing actions that fit the person one wants to become even when they are uncomfortable.
+- [Practice Before Feeling](concepts/PracticeBeforeFeeling.md) — Brooks' claim that repeated committed action can precede and sustain belief or feeling.
 - [Houthi Maritime Chokepoint Leverage](concepts/HouthiMaritimeChokepointLeverage.md) — How Houthi coastal advances can create Red Sea, pipeline, oil-market, and diplomacy leverage.
 - [Anti-Houthi Coalition Fragmentation](concepts/AntiHouthiCoalitionFragmentation.md) — Yemen-war concept for how divided anti-Houthi forces and sponsor splits enable battlefield losses.
 - [Trump Coalition Fragmentation](concepts/TrumpCoalitionFragmentation.md) — Voter-level erosion of Trump's 2024 coalition through tariffs, inflation, war dissatisfaction, and turnout uncertainty.

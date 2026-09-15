@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7454
+wiki_total_pages: 7460
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "EngineeringState"
     title: "Engineering State"
     url: "/wiki/concepts/engineeringstate/"
+  - key: "EnjoymentVsPleasure"
+    title: "Enjoyment Vs Pleasure"
+    url: "/wiki/concepts/enjoymentvspleasure/"
   - key: "EnterpriseAgentControlLayer"
     title: "Enterprise Agent Control Layer"
     url: "/wiki/concepts/enterpriseagentcontrollayer/"
