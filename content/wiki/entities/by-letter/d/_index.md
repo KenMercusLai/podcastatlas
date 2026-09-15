@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10120
+wiki_total_pages: 10130
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "Dionysus"
     title: "Dionysus / 狄俄尼索斯"
     url: "/wiki/entities/dionysus/"
+  - key: "Dior"
+    title: "Dior"
+    url: "/wiki/entities/dior/"
   - key: "Dipsig"
     title: "Dipsig"
     url: "/wiki/entities/dipsig/"

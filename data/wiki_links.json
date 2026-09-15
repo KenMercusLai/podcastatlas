@@ -2751,6 +2751,10 @@
     "title": "AI Short Drama Overseas Localization",
     "url": "/wiki/concepts/aishortdramaoverseaslocalization/"
   },
+  "AIShortDramaSupplyGlut": {
+    "title": "AI Short Drama Supply Glut / AI短剧供给过剩",
+    "url": "/wiki/concepts/aishortdramasupplyglut/"
+  },
   "AIShortcutRisk": {
     "title": "AI Shortcut Risk",
     "url": "/wiki/concepts/aishortcutrisk/"
@@ -5078,6 +5082,10 @@
   "Amon": {
     "title": "阿蒙 / Amon",
     "url": "/wiki/entities/amon/"
+  },
+  "AmoyFood": {
+    "title": "Amoy Food / 淘大",
+    "url": "/wiki/entities/amoyfood/"
   },
   "Amplitude": {
     "title": "Amplitude",
@@ -7579,6 +7587,10 @@
     "title": "Battery Recycling Loop",
     "url": "/wiki/concepts/batteryrecyclingloop/"
   },
+  "BatterySupplierDiversification": {
+    "title": "Battery Supplier Diversification / 动力电池供应商多元化",
+    "url": "/wiki/concepts/batterysupplierdiversification/"
+  },
   "BatterySwapInfrastructure": {
     "title": "Battery Swap Infrastructure / 换电体系",
     "url": "/wiki/concepts/batteryswapinfrastructure/"
@@ -9591,6 +9603,10 @@
     "title": "CAA",
     "url": "/wiki/entities/caa/"
   },
+  "CALB": {
+    "title": "CALB / 中创新航",
+    "url": "/wiki/entities/calb/"
+  },
   "CAPERatioValuationSignal": {
     "title": "CAPE Ratio Valuation Signal",
     "url": "/wiki/concepts/caperatiovaluationsignal/"
@@ -10802,6 +10818,10 @@
   "CelebratorySummonsEntrapment": {
     "title": "Celebratory Summons Entrapment / 报捷祝贺式诱捕",
     "url": "/wiki/concepts/celebratorysummonsentrapment/"
+  },
+  "CelebrityLedMarketEntry": {
+    "title": "Celebrity-Led Market Entry / 明星带动市场进入",
+    "url": "/wiki/concepts/celebrityledmarketentry/"
   },
   "CelestialOmenPoliticalResponsibility": {
     "title": "Celestial Omen Political Responsibility / 天象政治责任",
@@ -13099,6 +13119,10 @@
     "title": "Clay, New York",
     "url": "/wiki/entities/claynewyork/"
   },
+  "CleDePeauBeaute": {
+    "title": "CPB / Clé de Peau Beauté",
+    "url": "/wiki/entities/cledepeaubeaute/"
+  },
   "CleanBreakDivorceModel": {
     "title": "Clean Break Divorce Model",
     "url": "/wiki/concepts/cleanbreakdivorcemodel/"
@@ -13978,6 +14002,10 @@
   "CondeNast": {
     "title": "Conde Nast",
     "url": "/wiki/entities/condenast/"
+  },
+  "CondimentOutboundAcquisition": {
+    "title": "Condiment Outbound Acquisition / 调味品出海收购",
+    "url": "/wiki/concepts/condimentoutboundacquisition/"
   },
   "ConfessionalInvasionConspiracy": {
     "title": "Confessional Invasion Conspiracy",
@@ -17418,6 +17446,10 @@
   "Dionysus": {
     "title": "Dionysus / 狄俄尼索斯",
     "url": "/wiki/entities/dionysus/"
+  },
+  "Dior": {
+    "title": "Dior",
+    "url": "/wiki/entities/dior/"
   },
   "DiplomaticCostRiskAccounting": {
     "title": "外交成本风险核算 / Diplomatic Cost-Risk Accounting",
@@ -26775,6 +26807,10 @@
     "title": "Haircare Skincare-ization / 护发护肤化",
     "url": "/wiki/concepts/haircareskincareization/"
   },
+  "HaitianFlavoring": {
+    "title": "Haitian Flavoring / 海天味业",
+    "url": "/wiki/entities/haitianflavoring/"
+  },
   "HakanFidan": {
     "title": "Hakan Fidan",
     "url": "/wiki/entities/hakanfidan/"
@@ -33203,6 +33239,10 @@
     "title": "Jonah Conn",
     "url": "/wiki/entities/jonahconn/"
   },
+  "JonathanAnderson": {
+    "title": "Jonathan Anderson",
+    "url": "/wiki/entities/jonathananderson/"
+  },
   "JonathanBousenthal": {
     "title": "Jonathan Bousenthal",
     "url": "/wiki/entities/jonathanbousenthal/"
@@ -34822,6 +34862,10 @@
   "LTVBasedGrowthBudgeting": {
     "title": "LTV-Based Growth Budgeting",
     "url": "/wiki/concepts/ltvbasedgrowthbudgeting/"
+  },
+  "LVMH": {
+    "title": "LVMH",
+    "url": "/wiki/entities/lvmh/"
   },
   "LaborMarketCounterforces": {
     "title": "Labor Market Counterforces",
@@ -38654,6 +38698,10 @@
   "LuxuryConsumptionEconomicCirculation": {
     "title": "Luxury Consumption As Economic Circulation / 奢侈消费的经济循环",
     "url": "/wiki/concepts/luxuryconsumptioneconomiccirculation/"
+  },
+  "LuxuryCulturalPartnership": {
+    "title": "Luxury Cultural Partnership / 奢侈品牌文化合作",
+    "url": "/wiki/concepts/luxuryculturalpartnership/"
   },
   "LuxuryResaleAuthentication": {
     "title": "Luxury Resale Authentication",
@@ -45779,6 +45827,10 @@
     "title": "Pacing the Frontier",
     "url": "/wiki/concepts/pacingthefrontier/"
   },
+  "PackagedIceCreamDemandPressure": {
+    "title": "Packaged Ice-Cream Demand Pressure / 包装雪糕需求压力",
+    "url": "/wiki/concepts/packagedicecreamdemandpressure/"
+  },
   "PackagedWaterPriceWar": {
     "title": "Packaged Water Price War",
     "url": "/wiki/concepts/packagedwaterpricewar/"
@@ -48806,6 +48858,10 @@
   "PrivateLabelBrandRisk": {
     "title": "Private Label Brand Risk",
     "url": "/wiki/concepts/privatelabelbrandrisk/"
+  },
+  "PrivateLabelLookalikeRisk": {
+    "title": "Private-Label Lookalike Risk / 自有品牌近似包装风险",
+    "url": "/wiki/concepts/privatelabellookalikerisk/"
   },
   "PrivateLetterPoliticalWeaponization": {
     "title": "私人书信政治武器化 / Private Letter Political Weaponization",
@@ -55487,6 +55543,10 @@
     "title": "《小白》 / Shiro",
     "url": "/wiki/entities/shiroakutagawa/"
   },
+  "Shiseido": {
+    "title": "Shiseido / 资生堂",
+    "url": "/wiki/entities/shiseido/"
+  },
   "ShishosetsuAutobiographicalReading": {
     "title": "私小说式自传阅读 / Shishosetsu Autobiographical Reading",
     "url": "/wiki/concepts/shishosetsuautobiographicalreading/"
@@ -58818,6 +58878,10 @@
   "SunoSpark": {
     "title": "Suno Spark",
     "url": "/wiki/entities/sunospark/"
+  },
+  "SunwodaPower": {
+    "title": "Sunwoda Power / 欣旺达动力",
+    "url": "/wiki/entities/sunwodapower/"
   },
   "SunziBingfa": {
     "title": "《孙子兵法》 / The Art of War",
@@ -64586,6 +64650,10 @@
   "WangYiXinGeneral": {
     "title": "王邑 / Wang Yi (Xin general)",
     "url": "/wiki/entities/wangyixingeneral/"
+  },
+  "WangYibo": {
+    "title": "Wang Yibo / 王一博",
+    "url": "/wiki/entities/wangyibo/"
   },
   "WangYinWesternHan": {
     "title": "Wang Yin / 王音 (Western Han)",
@@ -75286,6 +75354,10 @@
   "tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166": {
     "title": "图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？",
     "url": "/wiki/sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166/"
+  },
+  "tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463": {
+    "title": "图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博",
+    "url": "/wiki/sources/tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463/"
   },
   "tuokouxiu-de-xiaojia-fuyou-zhishang-keneng-hui-fei-yingzhe-tianguang-927160655": {
     "title": "【脱口秀的小佳】蜉蝣直上：可能会飞，迎着天光",

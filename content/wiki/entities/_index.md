@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10120
+wiki_total_pages: 10130
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "AmnestyInternational"
     title: "Amnesty International"
     url: "/wiki/entities/amnestyinternational/"
+  - key: "AmoyFood"
+    title: "Amoy Food / 淘大"
+    url: "/wiki/entities/amoyfood/"
   - key: "Amplitude"
     title: "Amplitude"
     url: "/wiki/entities/amplitude/"

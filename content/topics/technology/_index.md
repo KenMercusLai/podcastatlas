@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3016
+topic_total_pages: 3017
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -832,6 +832,9 @@ topic_concepts:
   - key: "AIShortDramaOverseasLocalization"
     title: "AI Short Drama Overseas Localization"
     url: "/wiki/concepts/aishortdramaoverseaslocalization/"
+  - key: "AIShortDramaSupplyGlut"
+    title: "AI Short Drama Supply Glut / AI短剧供给过剩"
+    url: "/wiki/concepts/aishortdramasupplyglut/"
   - key: "AIShortcutRisk"
     title: "AI Shortcut Risk"
     url: "/wiki/concepts/aishortcutrisk/"

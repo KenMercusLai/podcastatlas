@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7438
+wiki_total_pages: 7445
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "LuxuryConsumptionEconomicCirculation"
     title: "Luxury Consumption As Economic Circulation / 奢侈消费的经济循环"
     url: "/wiki/concepts/luxuryconsumptioneconomiccirculation/"
+  - key: "LuxuryCulturalPartnership"
+    title: "Luxury Cultural Partnership / 奢侈品牌文化合作"
+    url: "/wiki/concepts/luxuryculturalpartnership/"
   - key: "LuxuryResaleAuthentication"
     title: "Luxury Resale Authentication"
     url: "/wiki/concepts/luxuryresaleauthentication/"

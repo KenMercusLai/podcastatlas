@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10120
+wiki_total_pages: 10130
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "LuxsharePrecision"
     title: "Luxshare Precision"
     url: "/wiki/entities/luxshareprecision/"
+  - key: "LVMH"
+    title: "LVMH"
+    url: "/wiki/entities/lvmh/"
   - key: "LyndonBJohnson"
     title: "Lyndon B. Johnson"
     url: "/wiki/entities/lyndonbjohnson/"

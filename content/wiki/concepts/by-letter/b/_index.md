@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7438
+wiki_total_pages: 7445
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "BatteryRecyclingLoop"
     title: "Battery Recycling Loop"
     url: "/wiki/concepts/batteryrecyclingloop/"
+  - key: "BatterySupplierDiversification"
+    title: "Battery Supplier Diversification / 动力电池供应商多元化"
+    url: "/wiki/concepts/batterysupplierdiversification/"
   - key: "BatterySwapInfrastructure"
     title: "Battery Swap Infrastructure / 换电体系"
     url: "/wiki/concepts/batteryswapinfrastructure/"

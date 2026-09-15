@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10120
+wiki_total_pages: 10130
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "CaitlinTalbot"
     title: "Caitlin Talbot"
     url: "/wiki/entities/caitlintalbot/"
+  - key: "CALB"
+    title: "CALB / 中创新航"
+    url: "/wiki/entities/calb/"
   - key: "CalculatingEmpires"
     title: "Calculating Empires"
     url: "/wiki/entities/calculatingempires/"
@@ -1181,6 +1184,9 @@ wiki_pages:
   - key: "CPGroup"
     title: "CP Group / 正大集团"
     url: "/wiki/entities/cpgroup/"
+  - key: "CleDePeauBeaute"
+    title: "CPB / Clé de Peau Beauté"
+    url: "/wiki/entities/cledepeaubeaute/"
   - key: "CPEYuanfeng"
     title: "CPE 源峰"
     url: "/wiki/entities/cpeyuanfeng/"

@@ -19767,3 +19767,11 @@ Added source note for a 文化有限 discussion of 刘天昭's 《无人观看�
 ## [2026-09-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-15] ingest | 图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博
+
+Added source `tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463`; created entity pages for Dior, Jonathan Anderson, LVMH, Wang Yibo, Shiseido, CPB, Haitian, Amoy, Sunwoda Power, and CALB; created concepts for celebrity-led market entry, luxury cultural partnership, battery supplier diversification, AI short-drama supply glut, condiment outbound acquisition, private-label lookalike risk, and packaged ice-cream demand pressure. No settled contradiction found; legal claims, settlement details, store counts, market shares, futures prices, and payout figures remain source-scoped.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

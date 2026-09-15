@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博](sources/tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463.md) — 声动早咖啡 roundup on Alo's celebrity-led China push, Dior/A24 cultural partnership, battery supplier diversification, AI short-drama oversupply, Haitian buying Amoy, Aldi lookalike risk, and packaged ice-cream pressure.
 - [Vol.352 无人观看：自我差异性极大，外部相似性极强的我们](sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj.md) — 文化有限 episode on Liu Tianzhao's Unwatched, AI-era selfhood, urban middle-class fatigue, spectacle society, and limited watching.
 - [《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！](sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z.md) — 芮淇讲透资治通鉴 short episode on the early Wugu purge of Gongsun He, Wei Kang, and Wei-family support around Crown Prince Liu Ju before the later open crisis.
 - [《资治通鉴·汉纪》384-2｜有多善良就有多惨？揭秘被嫌弃的太子刘据](sources/zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's humane temperament, delegated governing role, Han Wudi's guarded recognition, and pre-Wugu slander by Su Wen and Chang Rong.
@@ -2474,6 +2475,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Amoy Food / 淘大](entities/AmoyFood.md) — Hong Kong-linked condiment and frozen-food brand acquired by Haitian as an overseas channel and localization asset.
+- [CALB / 中创新航](entities/CALB.md) — Battery supplier named in Xiaomi's non-CATL cooperation and supplier-diversification branch.
+- [CPB / Clé de Peau Beauté](entities/CleDePeauBeaute.md) — Shiseido high-end beauty brand used as the reference point in Aldi's alleged private-label lookalike dispute.
+- [Dior](entities/Dior.md) — Luxury fashion house using an A24 partnership as a cultural-relevance strategy under weaker aspirational demand.
+- [Haitian Flavoring / 海天味业](entities/HaitianFlavoring.md) — Chinese condiment leader acquiring Amoy to support overseas revenue and channel expansion.
+- [Jonathan Anderson](entities/JonathanAnderson.md) — Dior creative director associated with the source's A24 cultural-partnership strategy.
+- [LVMH](entities/LVMH.md) — Luxury group context for Dior's cultural partnership and aspirational-consumer pressure.
+- [Shiseido / 资生堂](entities/Shiseido.md) — Beauty company suing Aldi over alleged unfair competition around private-label cosmetic packaging.
+- [Sunwoda Power / 欣旺达动力](entities/SunwodaPower.md) — Battery supplier receiving Li Auto investment and Xiaomi cooperation in the non-CATL sourcing branch.
+- [Wang Yibo / 王一博](entities/WangYibo.md) — Celebrity ambassador in Alo Yoga's China-market entry strategy.
 - [刘天昭 / Liu Tianzhao](entities/LiuTianzhao.md) — Author of Unwatched, discussed by Culture Limited as a writer of contemporary urban interiority.
 - [《无人观看》 / Unwatched](entities/UnwatchedNovel.md) — Liu Tianzhao novel read by Culture Limited through AI-era selfhood, middle-aged fatigue, and social visibility.
 - [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — Western Han chancellor whose Wugu-case destruction removes a Wei-family support pillar around Crown Prince Liu Ju.
@@ -12599,6 +12610,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [AI Short Drama Supply Glut / AI短剧供给过剩](concepts/AIShortDramaSupplyGlut.md) — Market condition where cheap AI short-drama production creates output saturation, payout compression, and profitability pressure.
+- [Battery Supplier Diversification / 动力电池供应商多元化](concepts/BatterySupplierDiversification.md) — Automaker strategy of using non-dominant battery suppliers to reduce cost and strengthen bargaining power.
+- [Celebrity-Led Market Entry / 明星带动市场进入](concepts/CelebrityLedMarketEntry.md) — Go-to-market pattern where celebrity visibility and social imagery support a brand's local channel rollout.
+- [Condiment Outbound Acquisition / 调味品出海收购](concepts/CondimentOutboundAcquisition.md) — Strategy of acquiring overseas condiment brands and channels instead of relying only on home-market exports.
+- [Luxury Cultural Partnership / 奢侈品牌文化合作](concepts/LuxuryCulturalPartnership.md) — Luxury-brand strategy of borrowing film or cultural relevance when fashion attention and aspirational demand weaken.
+- [Packaged Ice-Cream Demand Pressure / 包装雪糕需求压力](concepts/PackagedIceCreamDemandPressure.md) — Decline pressure on factory-packaged ice cream from health concerns, beverages, fresh-made formats, and price-band shifts.
+- [Private-Label Lookalike Risk / 自有品牌近似包装风险](concepts/PrivateLabelLookalikeRisk.md) — Legal and trust risk when retailer-owned products resemble mature brand packaging too closely.
 - [有限观看 / Limited Watching](concepts/LimitedWatching.md) — Boundary concept between the need to be seen by trusted others and the need to remain outside public performance.
 - [景观中介的自我 / Spectacle-Mediated Selfhood](concepts/SpectacleMediatedSelfhood.md) — Selfhood shaped through images, rankings, commodities, platform feedback, and watchability standards.
 - [Bushido as Invented Tradition](concepts/BushidoInventedTradition.md) — Frame separating modern formal Bushido codification from older medieval samurai honor, shame, service, and reputation ideals.

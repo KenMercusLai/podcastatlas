@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7438
+wiki_total_pages: 7445
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "CelebratorySummonsEntrapment"
     title: "Celebratory Summons Entrapment / 报捷祝贺式诱捕"
     url: "/wiki/concepts/celebratorysummonsentrapment/"
+  - key: "CelebrityLedMarketEntry"
+    title: "Celebrity-Led Market Entry / 明星带动市场进入"
+    url: "/wiki/concepts/celebrityledmarketentry/"
   - key: "CelestialOmenPoliticalResponsibility"
     title: "Celestial Omen Political Responsibility / 天象政治责任"
     url: "/wiki/concepts/celestialomenpoliticalresponsibility/"
@@ -1370,6 +1373,9 @@ wiki_pages:
   - key: "ConcussionActiveRecovery"
     title: "Concussion Active Recovery"
     url: "/wiki/concepts/concussionactiverecovery/"
+  - key: "CondimentOutboundAcquisition"
+    title: "Condiment Outbound Acquisition / 调味品出海收购"
+    url: "/wiki/concepts/condimentoutboundacquisition/"
   - key: "ConfessionalInvasionConspiracy"
     title: "Confessional Invasion Conspiracy"
     url: "/wiki/concepts/confessionalinvasionconspiracy/"

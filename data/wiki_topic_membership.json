@@ -5058,6 +5058,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "AIShortDramaSupplyGlut": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIShortcutRisk": [
     {
       "key": "technology",

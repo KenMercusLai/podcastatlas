@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7438
+wiki_total_pages: 7445
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "PacingTheFrontier"
     title: "Pacing the Frontier"
     url: "/wiki/concepts/pacingthefrontier/"
+  - key: "PackagedIceCreamDemandPressure"
+    title: "Packaged Ice-Cream Demand Pressure / 包装雪糕需求压力"
+    url: "/wiki/concepts/packagedicecreamdemandpressure/"
   - key: "PackagedWaterPriceWar"
     title: "Packaged Water Price War"
     url: "/wiki/concepts/packagedwaterpricewar/"
@@ -1337,6 +1340,9 @@ wiki_pages:
   - key: "PrivateCompanySecondaries"
     title: "Private-Company Secondaries"
     url: "/wiki/concepts/privatecompanysecondaries/"
+  - key: "PrivateLabelLookalikeRisk"
+    title: "Private-Label Lookalike Risk / 自有品牌近似包装风险"
+    url: "/wiki/concepts/privatelabellookalikerisk/"
   - key: "PrivateMarketBubbleOpacity"
     title: "Private-Market Bubble Opacity"
     url: "/wiki/concepts/privatemarketbubbleopacity/"

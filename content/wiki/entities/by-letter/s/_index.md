@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10120
+wiki_total_pages: 10130
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "ShireenTippett"
     title: "Shireen Tippett"
     url: "/wiki/entities/shireentippett/"
+  - key: "Shiseido"
+    title: "Shiseido / 资生堂"
+    url: "/wiki/entities/shiseido/"
   - key: "ShivonZilis"
     title: "Shivon Zilis"
     url: "/wiki/entities/shivonzilis/"
@@ -1430,6 +1433,9 @@ wiki_pages:
   - key: "SunoSpark"
     title: "Suno Spark"
     url: "/wiki/entities/sunospark/"
+  - key: "SunwodaPower"
+    title: "Sunwoda Power / 欣旺达动力"
+    url: "/wiki/entities/sunwodapower/"
   - key: "SuperBowl"
     title: "Super Bowl"
     url: "/wiki/entities/superbowl/"
