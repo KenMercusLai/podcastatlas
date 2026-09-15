@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10130
+wiki_total_pages: 10132
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "CentralBankOfChina"
     title: "Central Bank of China"
     url: "/wiki/entities/centralbankofchina/"
+  - key: "CenturiesOfTheBristlecone"
+    title: "Centuries of the Bristlecone"
+    url: "/wiki/entities/centuriesofthebristlecone/"
   - key: "CenturiumCapital"
     title: "Centurium Capital / 大钲资本"
     url: "/wiki/entities/centuriumcapital/"

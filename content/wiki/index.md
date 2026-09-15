@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [(From the archive) Jonathon Keats: Envisioning Deep Time](sources/salt-020260914-archive-keats-podcast.md) — Long Now archive episode with Jonathan Keats on public experimental philosophy, century and millennium cameras, deep-time mental prostheses, and the 5,000-year bristlecone calendar.
 - [Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)](sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490.md) — All-In interview with Jensen Huang on AI doomerism, engineering-first safety, recursive self-improvement, open models, Trump on data centers, Nvidia's infrastructure strategy, neoclouds, autonomy, biology, and domain-specific superintelligence.
 - [182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境](sources/182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8.md) — 起朱楼宴宾客 episode with David Weng and Ricky on Q3 2026 markets, high U.S. funding costs, AI capex prisoner dilemmas, China weak-demand repair, gold/A-share/dividend positioning, and defensive allocation.
 - [图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博](sources/tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463.md) — 声动早咖啡 roundup on Alo's celebrity-led China push, Dior/A24 cultural partnership, battery supplier diversification, AI short-drama oversupply, Haitian buying Amoy, Aldi lookalike risk, and packaged ice-cream pressure.
@@ -2477,6 +2478,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Jonathan Keats](entities/JonathanKeats.md) — Artist and experimental philosopher whose Long Now archive talk turns thought experiments, long-duration cameras, and bristlecone calendars into public deep-time practice.
+- [Centuries of the Bristlecone](entities/CenturiesOfTheBristlecone.md) — Jonathan Keats's proposed 5,000-year bristlecone-pine calendar for ecological timekeeping.
 - [Amoy Food / 淘大](entities/AmoyFood.md) — Hong Kong-linked condiment and frozen-food brand acquired by Haitian as an overseas channel and localization asset.
 - [CALB / 中创新航](entities/CALB.md) — Battery supplier named in Xiaomi's non-CATL cooperation and supplier-diversification branch.
 - [CPB / Clé de Peau Beauté](entities/CleDePeauBeaute.md) — Shiseido high-end beauty brand used as the reference point in Aldi's alleged private-label lookalike dispute.
@@ -12612,6 +12615,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Public Experimental Philosophy](concepts/PublicExperimentalPhilosophy.md) — Practice of carrying thought experiments into public situations, artifacts, and participatory experiments.
+- [Deep-Time Mental Prosthesis](concepts/DeepTimeMentalProsthesis.md) — Long-duration objects and rituals that extend human imagination toward century-scale and millennial accountability.
+- [Ecological Timekeeping](concepts/EcologicalTimekeeping.md) — Use of living or environmental processes as timekeepers, making growth and climate part of calendar authority.
 - [Domain-Specific Superintelligence](concepts/DomainSpecificSuperintelligence.md) — Huang's bounded-capability frame where AI can exceed humans in domains such as driving or protein work without becoming a general all-purpose system.
 - [AI Short Drama Supply Glut / AI短剧供给过剩](concepts/AIShortDramaSupplyGlut.md) — Market condition where cheap AI short-drama production creates output saturation, payout compression, and profitability pressure.
 - [Battery Supplier Diversification / 动力电池供应商多元化](concepts/BatterySupplierDiversification.md) — Automaker strategy of using non-dominant battery suppliers to reduce cost and strengthen bargaining power.

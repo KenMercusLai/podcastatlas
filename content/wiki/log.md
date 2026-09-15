@@ -19776,9 +19776,17 @@ Added source `182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanw
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-15] ingest | (From the archive) Jonathon Keats: Envisioning Deep Time
+
+Added source `salt-020260914-archive-keats-podcast`; created pages for Jonathan Keats, Centuries of the Bristlecone, public experimental philosophy, deep-time mental prosthesis, and ecological timekeeping. Migrated and updated Long Now with the Keats archive branch. No settled contradiction found; project feasibility, calendar implementation, institutional support boundaries, and long-duration camera survival remain source-scoped.
+
 ## [2026-09-15] ingest | 图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博
 
 Added source `tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463`; created entity pages for Dior, Jonathan Anderson, LVMH, Wang Yibo, Shiseido, CPB, Haitian, Amoy, Sunwoda Power, and CALB; created concepts for celebrity-led market entry, luxury cultural partnership, battery supplier diversification, AI short-drama supply glut, condiment outbound acquisition, private-label lookalike risk, and packaged ice-cream demand pressure. No settled contradiction found; legal claims, settlement details, store counts, market shares, futures prices, and payout figures remain source-scoped.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

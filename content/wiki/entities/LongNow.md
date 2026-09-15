@@ -2,42 +2,70 @@
 title: "Long Now"
 type: entity
 tags: [organization, long-termism, governance, science]
-sources: [kate-crawford-mapping-empires, bayo-akomolafe-the-untimely-cenyca-k7ry, indy-johar-civilizational-optioneering-tyeyt7r-zfu, stefan-sagmeister-finally-something-good-yqqxftsvema, melody-jue-ocean-memory-wxagwid1oeg, eric-ries-incorruptible-by-design-wrgromn5peq, claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]
-last_updated: 2026-07-10
+sources:
+  - kate-crawford-mapping-empires
+  - bayo-akomolafe-the-untimely-cenyca-k7ry
+  - indy-johar-civilizational-optioneering-tyeyt7r-zfu
+  - stefan-sagmeister-finally-something-good-yqqxftsvema
+  - melody-jue-ocean-memory-wxagwid1oeg
+  - eric-ries-incorruptible-by-design-wrgromn5peq
+  - claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk
+  - salt-020260914-archive-keats-podcast
+last_updated: 2026-09-15
+knowledge_schema: synthesis-v1
 ---
 
 # Long Now
 
-Long Now is the host context for [[kate-crawford-mapping-empires]], where [[KateCrawford]] presents AI as [[AIMetabolicInfrastructure]] and historical empire; for [[bayo-akomolafe-the-untimely-cenyca-k7ry]], where [[BayoAkomolafe]] presents [[TheUntimely]] as a critique of modern time; for [[indy-johar-civilizational-optioneering-tyeyt7r-zfu]], where [[IndyJohar]] presents a talk on civilizational optioneering; for [[stefan-sagmeister-finally-something-good-yqqxftsvema]], where [[StefanSagmeister]] presents a talk on [[InformedOptimism]] and progress communication; for [[melody-jue-ocean-memory-wxagwid1oeg]], where [[MelodyJue]] presents [[OceanMemory]] as an ocean-humanities and multispecies memory question; for [[eric-ries-incorruptible-by-design-wrgromn5peq]], where [[EricRies]] presents [[Incorruptible]] as a governance-design argument; and for [[claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]], where [[NinaMiolane]] presents a geometric neuroscience route to a [[MathematicalTheoryOfIntelligence]]. Together, the sources frame long-term thinking as an AI-materiality problem, a temporal-politics problem, a civilizational-coordination problem, an attention problem, a problem of sensing nonhuman futures, an institutional-design problem, and a scientific problem of how minds and machines can be understood.
+## Overview
+Long Now is the host and institutional context for a cluster of sources about long-term thinking across AI materiality, temporal politics, planetary coordination, progress communication, ocean memory, governance design, consciousness science, and deep-time art.
 
-The Crawford source adds the material and imperial side of AI-era long-term thinking. [[CalculatingEmpires]], [[AISlop]], [[ModelCollapse]], [[PublicInterestAI]], [[DataCenterBacklash]], [[DataCenterThermalManagement]], [[CriticalMineralsGeopolitics]], and [[JevonsParadoxInAI]] turn AI from a pure capability story into a question about representation, extraction, infrastructure, ecological cost, and democratic agency.
+## Current Profile
+Across the bounded source set, Long Now is less a single doctrine than a venue for practices that make long horizons thinkable. The organization hosts critiques of AI infrastructure and empire, challenges to modern clock discipline, planetary optionality arguments, designed optimism, oceanic memory, mission-protecting governance, neural geometry, and [[JonathanKeats]]'s public experimental philosophy. The current synthesis is that Long Now's strongest wiki role is not only "thinking far ahead"; it is assembling tools that make distant consequences visible through institutions, art, data, science, ecology, and public conversation.
 
-The Akomolafe source adds the time-discipline and decolonial side of long-term thinking. [[ModernTimeDiscipline]], [[YorubaTwinCosmology]], [[ColonialTemporalDiscipline]], [[FugitiveTemporality]], [[AutisticTime]], [[Ancestrality]], and [[AttentionAsWeather]] question whether countdowns, progress stories, and alternative temporalities still leave modernity's logic of mastery intact.
+## Key Characteristics
+- Long Now frames long-term thinking as material and political, not only philosophical.
+- It hosts temporal critiques that question whether longer clocks can still reproduce modern mastery.
+- It treats long horizons as a communication and perception problem that needs design, beauty, and participatory form.
+- It links environmental memory and ecological systems to human responsibility across time.
+- It treats governance and ownership design as part of keeping organizations accountable across decades.
+- It extends long-term thinking into science by asking how brains, intelligence, and consciousness can be measured without simple threshold claims.
+- It supports public experiments and artifacts that help people imagine century-scale and millennial accountability.
 
-The talk challenges a preservation-only version of long-termism. Instead, it asks what should be maintained so that a self-aware planet retains many possible futures. That makes [[PlanetarySelfAwareness]] a bridge between the wiki's space, AI, governance, and ecology themes rather than only a time-horizon institution.
+## Evidence
+### Material and Political Horizons
+- [[kate-crawford-mapping-empires]] grounds [[AIMetabolicInfrastructure]], [[AISlop]], [[ModelCollapse]], [[CriticalMineralsGeopolitics]], and [[PublicInterestAI]], making AI a question of extraction, representation, infrastructure, ecological cost, and democratic agency.
+- [[indy-johar-civilizational-optioneering-tyeyt7r-zfu]] develops [[CivilizationalOptionality]], [[PlanetarySelfAwareness]], [[FoundationalEconomies]], [[Existutions]], [[OutcomeAccelerators]], and [[BioregionalResilience]], shifting preservation toward expanded planetary futures.
 
-The Sagmeister source adds the communication side of the same time-horizon problem. If [[ShortTermNewsBias]] makes the world feel worse than long-run indicators support, then [[ProgressDataVisualization]], [[BeautyInCommunication]], and [[ParticipatoryExhibitions]] become tools for helping people perceive durable change without denying present risks.
+### Temporal Critique and Perception
+- [[bayo-akomolafe-the-untimely-cenyca-k7ry]] frames [[ModernTimeDiscipline]], [[TheUntimely]], [[FugitiveTemporality]], [[AutisticTime]], and [[AttentionAsWeather]], warning that longer horizons or alternative clocks can still preserve mastery.
+- [[stefan-sagmeister-finally-something-good-yqqxftsvema]] links [[InformedOptimism]], [[ProgressDataVisualization]], [[BeautyInCommunication]], and [[ParticipatoryExhibitions]], making slow improvement visible without denying present risk.
+- [[salt-020260914-archive-keats-podcast]] introduces [[DeepTimeMentalProsthesis]], arguing that century and millennium artifacts can make future viewers psychologically present before any final output exists.
 
-The Jue source adds the oceanic and multispecies side of long-term thinking. [[OceanMemory]], [[MilieuSpecificAnalysis]], [[Chemosensation]], [[EcologicalMemory]], [[MultispeciesArchives]], and [[OceanAcidification]] ask how seawater, organisms, chemical gradients, sensory worlds, archives, and environmental damage carry past conditions into future life.
+### Ecological and Multispecies Time
+- [[melody-jue-ocean-memory-wxagwid1oeg]] develops [[OceanMemory]], [[MilieuSpecificAnalysis]], [[Chemosensation]], [[EcologicalMemory]], [[MultispeciesArchives]], and [[OceanAcidification]], asking how seawater, organisms, and chemical gradients carry past conditions into future life.
+- [[salt-020260914-archive-keats-podcast]] introduces [[CenturiesOfTheBristlecone]] and [[EcologicalTimekeeping]], using a bristlecone pine's growth as a proposed 5,000-year calendar.
 
-The Ries source adds the corporate-governance side of long-term thinking. [[FinancialGravity]], [[HumanFlourishingProfit]], [[StewardOwnership]], [[TrustAsBusinessAsset]], [[PrivateRegulatoryPower]], and [[AIAlignmentGovernance]] ask how companies can remain accountable when capital, markets, boards, customers, and AI power push them away from their founding mission.
+### Governance and Scientific Models
+- [[eric-ries-incorruptible-by-design-wrgromn5peq]] links [[FinancialGravity]], [[HumanFlourishingProfit]], [[StewardOwnership]], [[TrustAsBusinessAsset]], [[PrivateRegulatoryPower]], and [[AIAlignmentGovernance]], asking how companies resist mission drift and extraction.
+- [[claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk]] develops [[NeuralGeometry]], [[PopulationCoding]], [[SpatialNavigationTorus]], [[FourierSpatialEncoding]], [[ConsciousnessMeasurement]], and [[MathematicalTheoryOfIntelligence]], connecting Long Now to measurable theories of brains and AI.
 
-The Miolane source adds the neuroscience and AI-interpretability side of long-term thinking. [[NeuralGeometry]], [[PopulationCoding]], [[SpatialNavigationTorus]], [[FourierSpatialEncoding]], and [[ConsciousnessMeasurement]] ask whether intelligence can be explained through shared geometric principles across brains and machines without reducing consciousness to a simple threshold claim.
+## Qualifications
+The Long Now branch contains productive tension rather than a unified answer. [[BayoAkomolafe]] cautions that long, deep, indigenous, or spiritual time can still reproduce control. [[StefanSagmeister]] argues for long-run progress evidence while keeping present danger visible. [[JonathanKeats]] offers symbolic and participatory artifacts rather than policy mechanisms. These tensions are complementary in the wiki, but they should not be flattened into one theory of long-termism.
 
-## Connections
-- [[KateCrawford]], [[RebeccaLendl]], [[KevinKelly]], and [[CalculatingEmpires]] — speaker, host, Q&A interlocutor, and mapping project in the AI materiality source.
-- [[IndyJohar]] and [[DarkMatterLabs]] — speaker and organizational context.
-- [[BayoAkomolafe]], [[OrlandBishop]], [[Eshu]], and [[GreatDismalSwamp]] — speaker, named interlocutor, mythic figure, and fugitive place in the untimely source branch.
-- [[StefanSagmeister]], [[RebeccaLendl]], [[LisaKSolomon]], and [[FinallySomethingGood]] — design-and-progress source branch.
-- [[MelodyJue]] and [[OceanMemoryProject]] — ocean-humanities and art-science source branch.
-- [[EricRies]] and [[Incorruptible]] — institutional-design and mission-governance source branch.
-- [[NinaMiolane]] and [[ClaireIsabelWebb]] — speaker and interviewer for the neural-geometry and consciousness source branch.
-- [[CivilizationalOptionality]] — source's proposed object of preservation.
-- [[TheUntimely]], [[ModernTimeDiscipline]], [[YorubaTwinCosmology]], [[ColonialTemporalDiscipline]], [[FugitiveTemporality]], [[AutisticTime]], [[Ancestrality]], and [[AttentionAsWeather]] — temporal-politics implications of long-term thinking.
-- [[SystemicDegenerativeVolatility]] — condition that makes ordinary long-term planning harder.
-- [[FoundationalEconomies]], [[Existutions]], and [[OutcomeAccelerators]] — institutional implications of the talk.
-- [[InformedOptimism]], [[OptimismGap]], and [[ShortTermNewsBias]] — attention and perception implications of long-term thinking.
-- [[OceanMemory]], [[MilieuSpecificAnalysis]], [[Chemosensation]], [[EcologicalMemory]], [[MultispeciesArchives]], and [[OceanAcidification]] — oceanic memory and sensory implications of long-term thinking.
-- [[FinancialGravity]], [[HumanFlourishingProfit]], [[StewardOwnership]], [[TrustAsBusinessAsset]], [[PrivateRegulatoryPower]], and [[AIAlignmentGovernance]] — company-governance implications of long-term thinking.
-- [[MathematicalTheoryOfIntelligence]], [[NeuralGeometry]], [[PopulationCoding]], [[SpatialNavigationTorus]], [[FourierSpatialEncoding]], and [[ConsciousnessMeasurement]] — neuroscience and AI-interpretability implications of long-term thinking.
-- [[AIMetabolicInfrastructure]], [[AISlop]], [[ModelCollapse]], and [[PublicInterestAI]] — AI materiality, media, training-data, and public-governance implications added by Crawford.
+## What Changed
+- Migrated Long Now to the `synthesis-v1` schema using the complete bounded source set.
+- Added Keats's archive talk as the branch's art-and-public-philosophy route into deep time.
+- Added bristlecone-based ecological timekeeping and long-duration cameras as new evidence for making future accountability concrete.
+
+## Relationships
+- [[KateCrawford]] - connects Long Now to AI materiality, empire, and public-interest AI.
+- [[BayoAkomolafe]] - connects Long Now to critique of clock discipline and fugitive temporality.
+- [[IndyJohar]] - connects Long Now to civilizational optionality and planetary coordination.
+- [[StefanSagmeister]] - connects Long Now to progress communication and informed optimism.
+- [[MelodyJue]] - connects Long Now to ocean memory and multispecies archives.
+- [[EricRies]] - connects Long Now to governance design and mission protection.
+- [[NinaMiolane]] - connects Long Now to neural geometry and mathematical theories of intelligence.
+- [[JonathanKeats]] - connects Long Now to public experimental philosophy and deep-time artifacts.
+- [[DeepTimeMentalProsthesis]] - art-object method for imagining future accountability.
+- [[EcologicalTimekeeping]] - living-system calendar frame added by the bristlecone project.

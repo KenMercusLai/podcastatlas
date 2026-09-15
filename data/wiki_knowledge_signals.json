@@ -14909,6 +14909,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/cenovusenergy/"
     },
+    "CenturiesOfTheBristlecone": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+          "key": "salt-020260914-archive-keats-podcast",
+          "show": "Long Now",
+          "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
+          "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/centuriesofthebristlecone/"
+    },
     "CesarMillan": {
       "episode_count": 1,
       "show_count": 1,
@@ -24106,6 +24122,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/deepbrainstimulationpsychiatry/"
     },
+    "DeepTimeMentalProsthesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+          "key": "salt-020260914-archive-keats-podcast",
+          "show": "Long Now",
+          "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
+          "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/deeptimementalprosthesis/"
+    },
     "DeepZ": {
       "episode_count": 2,
       "show_count": 1,
@@ -28870,6 +28902,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/echomind/"
+    },
+    "EcologicalTimekeeping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+          "key": "salt-020260914-archive-keats-podcast",
+          "show": "Long Now",
+          "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
+          "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/ecologicaltimekeeping/"
     },
     "EconomicUpswingUrbanDramaMemory": {
       "episode_count": 1,
@@ -56282,6 +56330,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/jonathanhurst/"
     },
+    "JonathanKeats": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+          "key": "salt-020260914-archive-keats-podcast",
+          "show": "Long Now",
+          "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
+          "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/jonathankeats/"
+    },
     "JoseAngelPereira": {
       "episode_count": 1,
       "show_count": 1,
@@ -65375,6 +65439,71 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/longcontenttimetail/"
+    },
+    "LongNow": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "02025-crawford-podcast-v3 [02025-crawford-podcast-v3].md",
+          "key": "kate-crawford-mapping-empires",
+          "show": "Long Now",
+          "title": "Kate Crawford: Mapping Empires",
+          "url": "/wiki/sources/kate-crawford-mapping-empires/"
+        },
+        {
+          "episode_file": "02026-akomolafe-podcast-v3 [02026-akomolafe-podcast-v3].md",
+          "key": "bayo-akomolafe-the-untimely-cenyca-k7ry",
+          "show": "Long Now",
+          "title": "Bayo Akomolafe: The Untimely",
+          "url": "/wiki/sources/bayo-akomolafe-the-untimely-cenyca-k7ry/"
+        },
+        {
+          "episode_file": "02026-johar-podcast-v2 [02026-johar-podcast-v2].md",
+          "key": "indy-johar-civilizational-optioneering-tyeyt7r-zfu",
+          "show": "Long Now",
+          "title": "Indy Johar: Civilizational Optioneering",
+          "url": "/wiki/sources/indy-johar-civilizational-optioneering-tyeyt7r-zfu/"
+        },
+        {
+          "episode_file": "02026-sagmeister-podcast-v2 [02026-sagmeister-podcast-v2].md",
+          "key": "stefan-sagmeister-finally-something-good-yqqxftsvema",
+          "show": "Long Now",
+          "title": "Stefan Sagmeister: Finally, something good.",
+          "url": "/wiki/sources/stefan-sagmeister-finally-something-good-yqqxftsvema/"
+        },
+        {
+          "episode_file": "02026-jue-podcast-v2 [02026-jue-podcast-v2].md",
+          "key": "melody-jue-ocean-memory-wxagwid1oeg",
+          "show": "Long Now",
+          "title": "Melody Jue: Ocean Memory",
+          "url": "/wiki/sources/melody-jue-ocean-memory-wxagwid1oeg/"
+        },
+        {
+          "episode_file": "02026-ries-podcast-v2 [02026-ries-podcast-v2].md",
+          "key": "eric-ries-incorruptible-by-design-wrgromn5peq",
+          "show": "Long Now",
+          "title": "Eric Ries: Incorruptible by Design",
+          "url": "/wiki/sources/eric-ries-incorruptible-by-design-wrgromn5peq/"
+        },
+        {
+          "episode_file": "02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md",
+          "key": "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk",
+          "show": "Long Now",
+          "title": "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness",
+          "url": "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+        },
+        {
+          "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+          "key": "salt-020260914-archive-keats-podcast",
+          "show": "Long Now",
+          "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
+          "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/longnow/"
     },
     "LongRunUrbanSafetyTrend": {
       "episode_count": 2,
@@ -84163,6 +84292,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/publicexerciseemergencypreparedness/"
+    },
+    "PublicExperimentalPhilosophy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+          "key": "salt-020260914-archive-keats-podcast",
+          "show": "Long Now",
+          "title": "(From the archive) Jonathon Keats: Envisioning Deep Time",
+          "url": "/wiki/sources/salt-020260914-archive-keats-podcast/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/publicexperimentalphilosophy/"
     },
     "PublicExpressionAgainstTrolls": {
       "episode_count": 1,

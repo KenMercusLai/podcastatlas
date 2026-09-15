@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7446
+wiki_total_pages: 7449
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "EcologicalMemory"
     title: "Ecological Memory"
     url: "/wiki/concepts/ecologicalmemory/"
+  - key: "EcologicalTimekeeping"
+    title: "Ecological Timekeeping"
+    url: "/wiki/concepts/ecologicaltimekeeping/"
   - key: "EcommerceFulfillmentComplexity"
     title: "Ecommerce Fulfillment Complexity"
     url: "/wiki/concepts/ecommercefulfillmentcomplexity/"

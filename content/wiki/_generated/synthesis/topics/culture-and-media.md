@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-09-09
-as_of_overview_commit: 9941494294ea2128454364abc51e4e289e1fd534
-input_digest: aad886c9984c5a7851b8461623a615bc1698a7c67f1f52158561c8995d1d120c
+last_updated: 2026-09-14
+as_of_overview_commit: 3ec115e29900df214ed29e94f8d958cf56a6938a
+input_digest: 97392d05324d6ef6c482d14b1c5e7b774e95306375f00d32b717e354d1efaab0
 ---
 
 # Culture and Media
 
 ## Current State
 
-Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, and heritage routes do not merely carry content; they decide what becomes legible, intimate, durable, cautious, or playable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, youth-demographic generalization, and technical capability claims. Episode 227 adds a precautionary-culture layer: platform evidence, digital memory, individualized risk, and weakened second-chance confidence can become cultural form, not just private anxiety. EP86 adds a media-form case for long explanatory podcasts: management frameworks become durable listening material when a show uses structure, examples, and personal translation to make abstract operations concepts legible.
+Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, and public deep-time artifacts do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, youth-demographic generalization, technical capability claims, and whether symbolic artifacts change behavior. Episode 227 adds a precautionary-culture layer; EP86 adds long explanatory podcasts as framework media; the Keats Long Now archive adds century cameras and ecological calendars as cultural tools for imagining future accountability.
 
 ## Cross-source Findings
 
@@ -118,3 +118,14 @@ Place-based culture becomes legible through routes that join sites, memory, and 
 
 - The claim is about media form and explanatory translation, not proof that the episode's advice works for all listeners.
 - The productivity multiplier and company examples remain source-scoped framing.
+
+### Public Artifacts Extend Temporal Imagination
+
+[[salt-020260914-archive-keats-podcast|The Keats Long Now archive]] extends form-as-infrastructure into deep time: [[PublicExperimentalPhilosophy]], [[DeepTimeMentalProsthesis]], [[CenturiesOfTheBristlecone]], and [[EcologicalTimekeeping]] show how public artifacts, hidden future images, and living calendars can make future viewers and ecological time psychologically present.
+
+**Evidence:** [[salt-020260914-archive-keats-podcast]], [[JonathanKeats]], [[LongNow]], [[PublicExperimentalPhilosophy]], [[DeepTimeMentalProsthesis]], [[CenturiesOfTheBristlecone]], [[EcologicalTimekeeping]]
+
+**Qualifications:**
+
+- Keats's Long Now source is strongest as art and public philosophy; it does not prove behavior change, policy impact, or long-duration artifact survival.
+- Calendar implementation, camera preservation, and institutionalization risks remain source-scoped.

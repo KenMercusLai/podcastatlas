@@ -619,12 +619,13 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108",
       "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa",
-      "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92"
+      "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
+      "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 619
+    "paragraph_count": 620
   },
-  "overview_commit": "1d48482e844f187cd76c325b99fd107598852bd5",
-  "overview_digest": "ec2ab9f4dc29521a165fc90e30af50c600e8d565ba13129a88c228db6f35c5bd",
+  "overview_commit": "3ec115e29900df214ed29e94f8d958cf56a6938a",
+  "overview_digest": "ceb922e56d5cbd2d42aae3f927cf75e0d1843f14968b2c5e87f366232fe9120b",
   "paragraphs": [
     {
       "id": "64502fc2058a342f0df07ccc9424afebe57ef6bfc29fab1c4d9d461fb4b755bc",
@@ -18897,6 +18898,24 @@
         "ParentalEmbodiedModeling",
         "RuiqiJiangtouZizhiTongjian",
         "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z"
+      ]
+    },
+    {
+      "id": "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [],
+      "text": "The latest addition is [[salt-020260914-archive-keats-podcast|(From the archive) Jonathon Keats: Envisioning Deep Time]], a [[LongNow]] archive episode with [[JonathanKeats]] on [[PublicExperimentalPhilosophy]], [[DeepTimeMentalProsthesis]], and [[CenturiesOfTheBristlecone]]. It adds [[JonathanKeats]], [[CenturiesOfTheBristlecone]], [[PublicExperimentalPhilosophy]], [[DeepTimeMentalProsthesis]], and [[EcologicalTimekeeping]], while extending [[LongNow]] with an art-and-public-philosophy route into deep time. Its core synthesis is that long-term imagination can be built through public artifacts and rituals: century and millennium cameras, hidden future images, and a bristlecone-based calendar make future viewers and ecological time psychologically present before any final output exists. No settled contradiction is recorded; project feasibility, camera survival, calendar implementation, and institutionalization risks remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 2
+      },
+      "wikilinks": [
+        "CenturiesOfTheBristlecone",
+        "DeepTimeMentalProsthesis",
+        "EcologicalTimekeeping",
+        "JonathanKeats",
+        "LongNow",
+        "PublicExperimentalPhilosophy",
+        "salt-020260914-archive-keats-podcast"
       ]
     }
   ],

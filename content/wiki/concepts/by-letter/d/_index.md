@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7446
+wiki_total_pages: 7449
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "DeepTechProductFocus"
     title: "Deep-Tech Product Focus"
     url: "/wiki/concepts/deeptechproductfocus/"
+  - key: "DeepTimeMentalProsthesis"
+    title: "Deep-Time Mental Prosthesis"
+    url: "/wiki/concepts/deeptimementalprosthesis/"
   - key: "DeepMindAcquisitionChoice"
     title: "DeepMind Acquisition Choice"
     url: "/wiki/concepts/deepmindacquisitionchoice/"

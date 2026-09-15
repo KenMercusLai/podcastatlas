@@ -541,8 +541,8 @@
       "earliest_episode_date": "2025-12-11",
       "latest_episode_date": "2026-09-14",
       "latest_episode_file": "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
-      "source_note_count": 7,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 8,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "technology",
@@ -557,16 +557,16 @@
           "source_note_count": 2
         },
         {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 2
+        },
+        {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
           "source_note_count": 2
-        },
-        {
-          "key": "culture",
-          "label": "Culture",
-          "url": "/topics/culture/",
-          "source_note_count": 1
         }
       ],
       "entities": [
@@ -575,7 +575,7 @@
           "title": "Long Now",
           "url": "/wiki/entities/longnow/",
           "kind": "organization",
-          "episode_count": 7
+          "episode_count": 8
         },
         {
           "key": "RebeccaLendl",
@@ -588,8 +588,8 @@
       "start_here_episode_files": [
         "02026-webb-miolane-podcast-v2 [02026-webb-miolane-podcast-v2].md",
         "02026-ries-podcast-v2 [02026-ries-podcast-v2].md",
-        "02026-sagmeister-podcast-v2 [02026-sagmeister-podcast-v2].md",
-        "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md"
+        "salt-020260914-archive-keats-podcast [salt-020260914-archive-keats-podcast].md",
+        "Claire Isabel Webb & Nina Miolane ｜ The Geometry of Consciousness [IUlBwKinaTk].md"
       ]
     },
     "Marketplace Tech": {
