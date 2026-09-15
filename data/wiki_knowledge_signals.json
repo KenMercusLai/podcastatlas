@@ -22153,9 +22153,9 @@
       "url": "/wiki/concepts/cultureledlabororganizing/"
     },
     "CultureLimited": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "sp.06 串台｜ 和李乌鸦＆超哥high聊：做读书博主的“守墓心得” [819825708].md",
@@ -22184,9 +22184,16 @@
           "show": "文化有限",
           "title": "Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主",
           "url": "/wiki/sources/vol-351-yingwang-21shiji-de-huangdao-gushi-haineng-zenme-kai-naodong-1983-nuojiang-dezhu-gkwriueodap1a3taaattkgol/"
+        },
+        {
+          "episode_file": "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
+          "key": "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj",
+          "show": "文化有限",
+          "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
+          "url": "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/culturelimited/"
     },
     "CultureReviewTvReportFormat": {
@@ -61578,6 +61585,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/liminalsleeptransitionpractice/"
     },
+    "LimitedWatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
+          "key": "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj",
+          "show": "文化有限",
+          "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
+          "url": "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/limitedwatching/"
+    },
     "LinChangQiang": {
       "episode_count": 2,
       "show_count": 1,
@@ -63391,6 +63414,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liutaolatehan/"
+    },
+    "LiuTianzhao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
+          "key": "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj",
+          "show": "文化有限",
+          "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
+          "url": "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/liutianzhao/"
     },
     "LiuWeiNanjunRebelLateHan": {
       "episode_count": 1,
@@ -96100,6 +96139,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/specialtyretaillogistics/"
     },
+    "SpectacleMediatedSelfhood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
+          "key": "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj",
+          "show": "文化有限",
+          "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
+          "url": "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/spectaclemediatedselfhood/"
+    },
     "SpeechActRitual": {
       "episode_count": 1,
       "show_count": 1,
@@ -105523,6 +105578,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/untimelyextravagance/"
+    },
+    "UnwatchedNovel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
+          "key": "vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj",
+          "show": "文化有限",
+          "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
+          "url": "/wiki/sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/unwatchednovel/"
     },
     "Uplane": {
       "episode_count": 1,

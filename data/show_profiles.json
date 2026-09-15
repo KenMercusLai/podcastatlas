@@ -2164,14 +2164,20 @@
       "earliest_episode_date": "2026-08-24",
       "latest_episode_date": "2026-09-14",
       "latest_episode_file": "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
-      "source_note_count": 3,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 4,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 3
+          "source_note_count": 4
+        },
+        {
+          "key": "technology",
+          "label": "Technology",
+          "url": "/topics/technology/",
+          "source_note_count": 1
         },
         {
           "key": "science",
@@ -2182,9 +2188,9 @@
       ],
       "entities": [],
       "start_here_episode_files": [
-        "GKwRIUEOdAp1A3TAAATTKgOL [GKwRIUEOdAp1A3TAAATTKgOL].md",
-        "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
         "GKwRIJIOfXaxAq8boATXOoHJ [GKwRIJIOfXaxAq8boATXOoHJ].md",
+        "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
+        "GKwRIUEOdAp1A3TAAATTKgOL [GKwRIUEOdAp1A3TAAATTKgOL].md",
         "GKwRIDoOapxPAz2h0wTPhrfr [GKwRIDoOapxPAz2h0wTPhrfr].md"
       ]
     },

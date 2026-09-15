@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7436
+wiki_total_pages: 7438
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "SpringAutumnIntentAdjudication"
     title: "春秋决狱式意图裁判 / Spring-Autumn Intent Adjudication"
     url: "/wiki/concepts/springautumnintentadjudication/"
+  - key: "SpectacleMediatedSelfhood"
+    title: "景观中介的自我 / Spectacle-Mediated Selfhood"
+    url: "/wiki/concepts/spectaclemediatedselfhood/"
   - key: "SuppressedRootCauseReporting"
     title: "根因上报压制 / Suppressed Root-Cause Reporting"
     url: "/wiki/concepts/suppressedrootcausereporting/"

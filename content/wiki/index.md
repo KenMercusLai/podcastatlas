@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.352 无人观看：自我差异性极大，外部相似性极强的我们](sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj.md) — 文化有限 episode on Liu Tianzhao's Unwatched, AI-era selfhood, urban middle-class fatigue, spectacle society, and limited watching.
 - [《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！](sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z.md) — 芮淇讲透资治通鉴 short episode on the early Wugu purge of Gongsun He, Wei Kang, and Wei-family support around Crown Prince Liu Ju before the later open crisis.
 - [《资治通鉴·汉纪》384-2｜有多善良就有多惨？揭秘被嫌弃的太子刘据](sources/zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's humane temperament, delegated governing role, Han Wudi's guarded recognition, and pre-Wugu slander by Su Wen and Chang Rong.
 - [《资治通鉴·汉纪》385-2｜“巫蛊之祸”最大的幕后黑手，居然是他！](sources/zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte.md) — 芮淇讲透资治通鉴 short episode on Jiang Chong's manufactured-evidence, torture, palace-search, and Shi De advice stage before Liu Ju's open Wugu crisis.
@@ -2473,6 +2474,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [刘天昭 / Liu Tianzhao](entities/LiuTianzhao.md) — Author of Unwatched, discussed by Culture Limited as a writer of contemporary urban interiority.
+- [《无人观看》 / Unwatched](entities/UnwatchedNovel.md) — Liu Tianzhao novel read by Culture Limited through AI-era selfhood, middle-aged fatigue, and social visibility.
 - [公孙贺 / Gongsun He (Western Han)](entities/GongsunHeWesternHan.md) — Western Han chancellor whose Wugu-case destruction removes a Wei-family support pillar around Crown Prince Liu Ju.
 - [卫伉 / Wei Kang (Western Han)](entities/WeiKangWesternHan.md) — Wei Qing's son and Changping marquis, treated by Hanji 384-1 as a military-capable support casualty in the Wugu prelude.
 - [Ghost of Tsushima](entities/GhostOfTsushima.md) — Video game used by The Rest Is History as a modern gateway into samurai image, honor, and myth-history tension.
@@ -12596,6 +12599,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [有限观看 / Limited Watching](concepts/LimitedWatching.md) — Boundary concept between the need to be seen by trusted others and the need to remain outside public performance.
+- [景观中介的自我 / Spectacle-Mediated Selfhood](concepts/SpectacleMediatedSelfhood.md) — Selfhood shaped through images, rankings, commodities, platform feedback, and watchability standards.
 - [Bushido as Invented Tradition](concepts/BushidoInventedTradition.md) — Frame separating modern formal Bushido codification from older medieval samurai honor, shame, service, and reputation ideals.
 - [Heian Provincial Warrior Formation](concepts/HeianProvincialWarriorFormation.md) — Origin process linking weak conscription, geography, frontier force, court patronage, and ex-imperial surnames to early samurai power.
 - [Home Improvement Warehouse Model](concepts/HomeImprovementWarehouseModel.md) — Retail format combining warehouse economics, broad project assortment, low prices, and expert home-improvement service.

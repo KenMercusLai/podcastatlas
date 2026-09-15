@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 10118
+wiki_total_pages: 10120
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "UreyVirtualIdol"
     title: "Yuri / 尤栗 / 优瑞"
     url: "/wiki/entities/ureyvirtualidol/"
+  - key: "UnwatchedNovel"
+    title: "《无人观看》 / Unwatched"
+    url: "/wiki/entities/unwatchednovel/"
   - key: "UglyFrogGame"
     title: "丑蛙 / Ugly Frog game"
     url: "/wiki/entities/uglyfroggame/"
