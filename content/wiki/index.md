@@ -19,6 +19,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！](sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z.md) — 芮淇讲透资治通鉴 short episode on the early Wugu purge of Gongsun He, Wei Kang, and Wei-family support around Crown Prince Liu Ju before the later open crisis.
 - [《资治通鉴·汉纪》384-2｜有多善良就有多惨？揭秘被嫌弃的太子刘据](sources/zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's humane temperament, delegated governing role, Han Wudi's guarded recognition, and pre-Wugu slander by Su Wen and Chang Rong.
 - [《资治通鉴·汉纪》385-2｜“巫蛊之祸”最大的幕后黑手，居然是他！](sources/zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte.md) — 芮淇讲透资治通鉴 short episode on Jiang Chong's manufactured-evidence, torture, palace-search, and Shi De advice stage before Liu Ju's open Wugu crisis.
+- [《资治通鉴·汉纪》386-1｜汉武帝时期，仁慈的太子刘据为何造反](sources/zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon.md) — 芮淇讲透资治通鉴 short episode on Liu Ju's blocked appeal, killing of Jiang Chong, Wei Zifu's mobilized palace resources, Su Wen's report, and Han Wudi's turn to suppression.
 - [658. Dawn of the Samurai: The Shadow of the Sword (Part 1)](sources/658-dawn-of-the-samurai-the-shadow-of-the-sword-part-1-glt7378881498.md) — The Rest Is History episode on samurai origins, Bushido's modern reinvention, Heian provincial warrior formation, Minamoto/Taira surname prestige, and Taira no Masakado's rebellion.
 - [Home Depot](sources/home-depot-1.md) — Acquired episode on Home Depot's founding, warehouse home-improvement model, supplier financing, service culture, Nardelli/Blake leadership contrast, logistics moat, pro-contractor strategy, and long-term compounding.
 - [Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner](sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733.md) — Huberman Lab episode with Dacher Keltner on awe as measurable emotion, awe walks, moral beauty, embodied collective awe, embarrassment, teasing, psychedelics, community life, and digital-design limits.
@@ -2515,7 +2516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汪惠英 / Wang Huiying](entities/WangHuiyingAllergyDoctor.md) — Source-scoped allergy and clinical immunology physician guest explaining immune imbalance, triggers, medication boundaries, and chronic allergy management.
 - [浙江大学医学院附属儿童医院 / Zhejiang University Children's Hospital](entities/ZhejiangUniversityChildrensHospital.md) — Hospital affiliation named for 汪惠英 in the VOL.201 allergy episode.
 - [令胡茂 / Linghu Mao (Western Han)](entities/LinghuMaoWesternHan.md) — Low-ranking elder whose risky memorial reframes Liu Ju's Wugu flight as fear-driven self-protection.
-- [卫子夫 / Empress Wei Zifu (Western Han)](entities/EmpressWeiZifuWesternHan.md) — Western Han empress whose suicide marks the Wugu household catastrophe before Liu Ju's final flight.
+- [卫子夫 / Empress Wei Zifu (Western Han)](entities/EmpressWeiZifuWesternHan.md) — Western Han empress whose Wugu role now spans pre-crisis anxiety, palace-resource support for Liu Ju, and suicide after defeat.
 - [公孙勇 / Gongsun Yong (Western Han)](entities/GongsunYongWesternHan.md) — Failed rebel in Hanji 388-2 who tries to exploit绣衣使者 prestige.
 - [田广明 / Tian Guangming (Western Han)](entities/TianGuangmingWesternHan.md) — Local official in Hanji 388-2 who detects Hu Qian's false official identity.
 - [魏不害 / Wei Buhai (Western Han)](entities/WeiBuhaiWesternHan.md) — Small local official in Hanji 388-2 who exposes Gongsun Yong's绣衣 imposture.
@@ -2524,7 +2525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张献忠 / Zhang Xianzhong](entities/ZhangXianzhong.md) — Late-Ming figure used by Hanji 388-4 as one named actor in Sichuan war-devastation memory.
 - [敬城王 / Jingcheng Wang](entities/JingchengWangMing.md) — Ming royal-family example for imperial-clan population expansion and tax-funded stipend burden.
 - [李广利 / Li Guangli (Western Han)](entities/LiGuangliWesternHan.md) — Western Han general whose failed Xiongnu expedition and later sacrificial death frame Han Wudi's Luntai self-criticism in Hanji 389-2.
-- [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor whose in-law succession alignment with Li Guangli around Liu Bo turns into a treason execution in Hanji 388-1.
+- [刘屈氂 / Liu Quli (Western Han)](entities/LiuQuliWesternHan.md) — Late Western Han chancellor ordered to suppress Liu Ju in the Wugu crisis before later in-law succession plotting with Li Guangli around Liu Bo destroys him.
 - [昌邑王刘髆 / Liu Bo, King of Changyi (Western Han)](entities/LiuBoChangyiKingWesternHan.md) — Han Wudi son and Lady Li's child whose possible crown-prince elevation anchors Li Guangli and Liu Quli's succession-risk branch.
 - [李夫人 / Lady Li (Western Han)](entities/LadyLiWesternHan.md) — Han Wudi consort, Li Guangli's sister, and Liu Bo's mother in Hanji 388-1's succession-risk chain.
 - [商丘成 / Shangqiu Cheng (Western Han)](entities/ShangqiuChengWesternHan.md) — Secondary commander in Han Wudi's 90 BCE anti-Xiongnu expedition whose Xihe route fails to find the enemy.
@@ -2563,9 +2564,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
 - [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose Wugu frame-up and presumed death make later impersonation politically explosive.
-- [江充 / Jiang Chong (Western Han)](entities/JiangChongWesternHan.md) — visible Wugu accusation actor whom Hanji 391-1 distinguishes from its source-scoped Lady Gouyi hidden-mover explanation.
-- [石德 / Shi De (Western Han)](entities/ShiDeWesternHan.md) — Crown-prince tutor whose Fusu-warning advice frames Liu Ju's no-clear-exit choice during Jiang Chong's palace search.
-- [苏文 / Su Wen (Western Han)](entities/SuWenWesternHan.md) — visible Wugu accusation actor paired with Jiang Chong in Hanji 391-1's source-scoped explanation of Liu Ju's destruction.
+- [江充 / Jiang Chong (Western Han)](entities/JiangChongWesternHan.md) — visible Wugu accusation actor whose palace-control and staged-evidence role ends with Liu Ju's forged-command arrest and execution of him.
+- [石德 / Shi De (Western Han)](entities/ShiDeWesternHan.md) — Crown-prince tutor whose Fusu-warning advice becomes Liu Ju's reluctant path after direct appeal to Han Wudi is blocked.
+- [苏文 / Su Wen (Western Han)](entities/SuWenWesternHan.md) — visible Wugu accusation actor whose early slander and later report help move Liu Ju from palace exposure into rebellion framing.
 - [自变量 / Zibianliang](entities/Zibianliang.md) — Embodied-intelligence company represented by Wang Qian through a data, validation, and customer-payment route.
 - [王前 / Wang Qian](entities/WangQianZibianliang.md) — Zibianliang speaker arguing that robot intelligence depends on data, validation infrastructure, and sustained customer payment.
 - [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
@@ -8023,7 +8024,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小林亮一 / Kobayashi Ryoichi](entities/KobayashiRyoichi.md) — Coach who recognizes 惠子's professional potential and teaches defense after her painful second fight.
 - [和田幸子 / Wada Sachiko](entities/WadaSachiko.md) — Language/hearing-classroom teacher who gives 惠子 a low-pressure refuge during ordinary-school crisis.
 - [Qin Shi Huang / 秦始皇](entities/QinShiHuang.md) — Qin ruler whose branch connects Lao Ai aftermath, guest-expulsion reversal, Handan revenge, conquest politics, Wang Jian's Chu command, and later imperial fangshu anxieties.
-- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes late anti-fangshi disillusionment, final mother-risk succession design, calendar standardization, Wugu danger, anti-Xiongnu warfare, and fiscal extraction.
+- [Emperor Wu of Han / 汉武帝](entities/HanWudi.md) — Western Han emperor whose profile now includes Wugu support-network destruction, report-driven suppression, late remorse, anti-fangshi disillusionment, final succession design, anti-Xiongnu warfare, and fiscal extraction.
 - [Liu An / 刘安](entities/LiuAn.md) — Western Han prince whose fangshu interest appears through textual compilation, Huainanzi, technical lore, and later immortalization legend.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.

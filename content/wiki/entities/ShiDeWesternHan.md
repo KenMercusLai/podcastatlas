@@ -5,16 +5,17 @@ knowledge_schema: synthesis-v1
 tags: [western-han, crown-prince, wugu-incident, court-politics]
 sources:
   - zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon
+last_updated: 2026-09-15
 ---
 
 ## Overview
 
-石德 / Shi De enters the wiki through [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] as [[LiuJuCrownPrinceWesternHan|卫太子刘据]]'s tutor during the palace-search stage of the [[WuguIncidentWesternHan|巫蛊之祸]]. His role is narrow but important: when [[JiangChongWesternHan|江充]] claims to find incriminating objects in Liu Ju's palace and [[HanWudi|汉武帝]] is unreachable at Ganquan, Shi De argues that waiting may let malicious ministers destroy the heir.
+石德 / Shi De enters the wiki through [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] as [[LiuJuCrownPrinceWesternHan|卫太子刘据]]'s tutor during the palace-search stage of the [[WuguIncidentWesternHan|巫蛊之祸]]. His role is narrow but important: when [[JiangChongWesternHan|江充]] claims to find incriminating objects in Liu Ju's palace and [[HanWudi|汉武帝]] is unreachable at Ganquan, Shi De argues that waiting may let malicious ministers destroy the heir. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] adds that Liu Ju at first resists this advice, then follows it only after direct appeal fails.
 
 ## Current Profile
 
-The source presents Shi De as a crisis adviser rather than a fully biographed official. He fears that Liu Ju's tutor household will be destroyed if Jiang Chong's accusation succeeds, but his advice is not only self-protection. By invoking the precedent of Fusu, he gives Liu Ju a political diagnosis: a crown prince cut off from the ruler may face forged or manipulated authority before he can prove innocence. Shi De therefore recommends using a forged command and tally to arrest Jiang Chong's group, investigate the plot, and then report to Wudi.
+The sources present Shi De as a crisis adviser rather than a fully biographed official. He fears that Liu Ju's tutor household will be destroyed if Jiang Chong's accusation succeeds, but his advice is not only self-protection. By invoking the precedent of Fusu, he gives Liu Ju a political diagnosis: a crown prince cut off from the ruler may face forged or manipulated authority before he can prove innocence. Shi De therefore recommends using a forged command and tally to arrest Jiang Chong's group, investigate the plot, and then report to Wudi. Hanji 386-1 matters because it shows the advice was not instant rebellion: Liu Ju first seeks father-son clarification, and Shi De's path becomes actionable only after access to Wudi is blocked.
 
 ## Key Characteristics
 
@@ -22,6 +23,7 @@ The source presents Shi De as a crisis adviser rather than a fully biographed of
 - Crisis adviser who treats Jiang Chong's accusation as a likely trap rather than ordinary legal evidence.
 - Actor who invokes Fusu's precedent to warn that unreachable imperial authority can be manipulated against an heir.
 - Proponent of preemptive arrest of Jiang Chong's group before Liu Ju is formally destroyed.
+- Adviser whose proposal becomes the actual escalation path only after Liu Ju cannot reach Wudi.
 - Source-scoped figure whose broader career is not developed by the episode.
 
 ## Evidence
@@ -33,14 +35,16 @@ Trapped-heir advice:
 Fusu precedent:
 - [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] says Shi De warns Liu Ju that Han Wudi's condition is unclear and that the prince should remember Fusu's fate.
 - [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] says Liu Ju hesitates because he does not want to issue a false edict or kill ministers without authorization.
+- [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] says Liu Ju initially judges Shi De's proposal improper and wants to go to Wudi to plead and explain.
+- [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] says Liu Ju eventually follows the advice after Jiang Chong's palace control prevents that direct appeal.
 
 ## Qualifications
 
-This page is bounded to Hanji 385-2. It does not reconstruct Shi De's full career, official title variants, primary-source wording, or later fate. The episode's spelling and summary are normalized to the established Liu Ju Wugu sequence.
+This page is bounded to Hanji 385-2 and Hanji 386-1. It does not reconstruct Shi De's full career, official title variants, primary-source wording, or later fate. The episodes' spelling and summaries are normalized to the established Liu Ju Wugu sequence.
 
 ## What Changed
 
-- Created the page from Hanji 385-2 to capture the tutor-advice and Fusu-precedent stage before Liu Ju's open conflict.
+- Added Hanji 386-1's hesitation-and-follow-through layer: Liu Ju first rejects Shi De's advice as improper, then follows it after direct appeal to Wudi is blocked.
 
 ## Relationships
 

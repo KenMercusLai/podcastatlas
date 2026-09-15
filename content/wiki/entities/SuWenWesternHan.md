@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg
   - zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73
   - zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0
-last_updated: 2026-09-14
+  - zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon
+last_updated: 2026-09-15
 ---
 
 ## Overview
 
-苏文 / Su Wen enters the wiki through [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] as a named front-line actor in the [[WuguIncidentWesternHan|巫蛊之祸]] accusation field against [[LiuJuCrownPrinceWesternHan|卫太子刘据]]. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] adds the punishment branch: after [[HanWudi|汉武帝]] recognizes Liu Ju's grievance, Su Wen is burned at Heng Bridge. [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] now adds an earlier pre-Wugu slander stage, where Su Wen reports that Liu Ju behaved improperly during a late palace visit to [[EmpressWeiZifuWesternHan|卫子夫]].
+苏文 / Su Wen enters the wiki through [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] as a named front-line actor in the [[WuguIncidentWesternHan|巫蛊之祸]] accusation field against [[LiuJuCrownPrinceWesternHan|卫太子刘据]]. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] adds his immediate escalation role: after escaping Liu Ju's arrest, Su Wen reaches [[HanWudi|汉武帝]] and reports that the crown prince has rebelled, though Wudi initially still reads Liu Ju as frightened and angry at [[JiangChongWesternHan|江充]]. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] adds the punishment branch: after Wudi recognizes Liu Ju's grievance, Su Wen is burned at Heng Bridge. [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] adds an earlier pre-Wugu slander stage, where Su Wen reports that Liu Ju behaved improperly during a late palace visit to [[EmpressWeiZifuWesternHan|卫子夫]].
 
 ## Current Profile
 
@@ -22,7 +23,7 @@ The sources give Su Wen only a narrow but now earlier-anchored role. Hanji 384-2
 
 - Western Han palace/court actor named in the episode's account of the Wugu affair.
 - Early palace-access slanderer whose report about Liu Ju's late visit to Wei Zifu tests Han Wudi's perception of the heir before the Wugu case.
-- Paired with Jiang Chong as a visible participant in the alleged frame-up of Liu Ju.
+- Paired with Jiang Chong as a visible participant in the alleged frame-up of Liu Ju and as the survivor whose report helps the rebellion frame reach Wudi.
 - Punished in Hanji 388-2 after Han Wudi accepts Liu Ju's grievance.
 - Source-scoped actor whose full biography is not developed by this episode.
 
@@ -31,16 +32,19 @@ The sources give Su Wen only a narrow but now earlier-anchored role. Hanji 384-2
 - [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Su Wen reports that Liu Ju stayed late with Wei Zifu and implies sexual misconduct in the palace.
 - [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Liu Ju refuses Wei Zifu's suggestion to ask Wudi to kill Su Wen, trusting that Wudi will not believe petty slander.
 - [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] says Su Wen was among the front-line actors in the plot against Liu Ju.
+- [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] says Su Wen escapes Liu Ju's arrest and reports at Ganquan that the crown prince has rebelled.
+- [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] says Wudi initially interprets Liu Ju as frightened and hostile to Jiang Chong rather than as settledly treasonous.
 - [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] distinguishes Su Wen and Jiang Chong from the host's claimed hidden mover, Lady Gouyi.
 - [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] says Han Wudi later has Su Wen burned at Heng Bridge.
 
 ## Qualifications
 
-This page is bounded to Hanji 391-1, Hanji 388-2, and Hanji 384-2. It does not reconstruct Su Wen's full biography, office, textual variants, primary-source record, Chang Rong and Wang Bi's full roles, or complete responsibility in the Wugu affair.
+This page is bounded to Hanji 391-1, Hanji 388-2, Hanji 384-2, and Hanji 386-1. It does not reconstruct Su Wen's full biography, office, textual variants, primary-source record, Chang Rong and Wang Bi's full roles, or complete responsibility in the Wugu affair.
 
 ## What Changed
 
 - Added Hanji 384-2's pre-Wugu palace-slander branch, making Su Wen visible before the formal Wugu frame-up and later punishment.
+- Added Hanji 386-1's escalation report: Su Wen escapes arrest and carries the rebellion accusation to Wudi before the decisive messenger report.
 
 ## Relationships
 
