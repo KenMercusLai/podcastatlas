@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl
   - zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0
   - zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon
+  - zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs
 last_updated: 2026-09-15
 ---
 
 ## Overview
 
-卫子夫 / Empress Wei Zifu enters the wiki through [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] as the empress whose suicide marks the depth of the [[WuguIncidentWesternHan|巫蛊之祸]] catastrophe before [[LiuJuCrownPrinceWesternHan|卫太子刘据]]'s final flight and death. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] adds her active escalation role before that death: after Liu Ju kills [[JiangChongWesternHan|江充]], Wei Zifu supports him and gives access to palace vehicles, weapons, and guards. [[zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl|Hanji 386-2]] supplies the immediate sequence after defeat: Han Wudi sends officials to collect Wei Zifu's empress seal, but she has already killed herself before the envoys arrive. [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] adds the earlier anxiety layer: as imperial favor declines, Wei Zifu fears Liu Ju's lenient handling of cases and the palace slander around him will make the heir vulnerable.
+卫子夫 / Empress Wei Zifu enters the wiki through [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] as the empress whose suicide marks the depth of the [[WuguIncidentWesternHan|巫蛊之祸]] catastrophe before [[LiuJuCrownPrinceWesternHan|卫太子刘据]]'s final flight and death. [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] adds that she is part of [[JiangChongWesternHan|江充]]'s preexisting conflict field with Liu Ju, making Jiang Chong fear future retaliation if Liu Ju succeeds. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] adds her active escalation role before that death: after Liu Ju kills Jiang Chong, Wei Zifu supports him and gives access to palace vehicles, weapons, and guards. [[zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl|Hanji 386-2]] supplies the immediate sequence after defeat: Han Wudi sends officials to collect Wei Zifu's empress seal, but she has already killed herself before the envoys arrive. [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] adds the earlier anxiety layer: as imperial favor declines, Wei Zifu fears Liu Ju's lenient handling of cases and the palace slander around him will make the heir vulnerable.
 
 ## Current Profile
 
@@ -23,7 +24,7 @@ The sources do not provide Wei Zifu's full biography. Hanji 384-2 shows her befo
 
 - Western Han empress named in the Wugu aftermath.
 - Mother/household-side marker for Liu Ju's destroyed succession branch.
-- Politically anxious palace actor who recognizes Su Wen's slander and Liu Ju's leniency as exposure risks before the open Wugu crisis.
+- Politically anxious palace actor who recognizes Su Wen's slander and Liu Ju's leniency as exposure risks, and who is named in Jiang Chong's prior-conflict field before the open Wugu crisis.
 - Operational supporter who lets Liu Ju use palace vehicles, weapons, and guards after he kills Jiang Chong.
 - Suicide victim whose death follows Liu Ju's defeat and Wudi's order to collect her empress seal.
 - Figure whose death does not halt Han Wudi's continuing punishments.
@@ -41,18 +42,19 @@ Succession context:
 - [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Wei Zifu and Liu Ju feel insecure as Han Wudi's favor declines.
 - [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Wei Zifu warns Liu Ju not to keep lightening punishments against Wudi's severe-law style.
 - [[zizhi-tongjian-hanji-384-2-you-duo-shanliang-jiu-you-duo-can-jiemi-bei-xianqi-de-taizi-liuju-lsu-7qabf34o5xza0axewim1quf0|Hanji 384-2]] says Wei Zifu hates Su Wen's slander and urges Liu Ju to report him to Wudi, but Liu Ju refuses because he trusts Wudi's discernment.
+- [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] says Jiang Chong has prior conflict with Wei Zifu and Liu Ju and fears their future revenge.
 - [[zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl|Hanji 386-2]] links her suicide to Liu Ju's battlefield defeat and the loss of empress status.
 - [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] says Wei Zifu supports Liu Ju after he explains the plan and lets him use palace vehicles, weapons, and guards.
 - [[zizhi-tongjian-hanji-387-1-taizi-liuju-taowang-hou-can-can-can-lodlsf5wtqtvoejjhe4apec7trku|Hanji 387-1]] links her death to Liu Ju's flight, court fear, and the broader late-Wudi father-son tragedy.
 
 ## Qualifications
 
-This page is bounded to Hanji 387-1, Hanji 386-2, Hanji 384-2, and Hanji 386-1. It does not reconstruct Wei Zifu's full life, family background, marriage, political position, death record variants, seal-collection legal procedure, Su Wen's complete biography, or later historiography. Hanji 386-1 supplies a compact resource-support scene, not a full account of palace command structure.
+This page is bounded to Hanji 387-1, Hanji 386-2, Hanji 384-2, Hanji 386-1, and Hanji 385-1. It does not reconstruct Wei Zifu's full life, family background, marriage, political position, death record variants, seal-collection legal procedure, Su Wen's complete biography, Jiang Chong's full prior conflict with her household, or later historiography. Hanji 386-1 supplies a compact resource-support scene, not a full account of palace command structure.
 
 ## What Changed
 
 - Added Hanji 384-2's earlier anxiety layer: declining favor, concern over Liu Ju's leniency, and recognition of Su Wen's slander as a real palace danger.
-- Added Hanji 386-1's active support layer: Wei Zifu authorizes palace vehicles, weapons, and guards after Liu Ju kills Jiang Chong.
+- Added Hanji 385-1's Jiang Chong prior-conflict layer and Hanji 386-1's active support layer: Wei Zifu is part of the feared future revenge field, then authorizes palace vehicles, weapons, and guards after Liu Ju kills Jiang Chong.
 - Preserved Hanji 386-2's immediate suicide sequence and Hanji 387-1's post-suicide punishment frame.
 
 ## Relationships

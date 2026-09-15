@@ -8,21 +8,22 @@ sources:
   - zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73
   - zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte
   - zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon
+  - zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs
 last_updated: 2026-09-15
 ---
 
 ## Overview
 
-江充 / Jiang Chong enters the wiki through [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] as a front-line actor in the [[WuguIncidentWesternHan|巫蛊之祸]] accusation field against [[LiuJuCrownPrinceWesternHan|卫太子刘据]]. [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] supplies the operational layer: Jiang Chong allegedly manufactures physical evidence, coerces confessions, expands denunciation, and uses [[HanWudi|汉武帝]]'s illness and suspicion to search the palace and accuse Liu Ju. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] adds the escalation endpoint: Jiang Chong's control of palace access blocks Liu Ju's direct appeal and Liu Ju executes him after arresting him under a forged imperial command. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] adds his institutional role as a famous [[XiuyiEnvoyImperialSurveillance|绣衣使者]] figure and records Wudi's later destruction of his family after recognizing Liu Ju's grievance.
+江充 / Jiang Chong enters the wiki through [[zizhi-tongjian-hanji-391-1-wei-le-li-taizi-hanwudi-weihe-xian-sha-chongfei-gouyi-furen-lhsva8zj7n7mfy6u4vyfhrwmbwzg|Hanji 391-1]] as a front-line actor in the [[WuguIncidentWesternHan|巫蛊之祸]] accusation field against [[LiuJuCrownPrinceWesternHan|卫太子刘据]]. [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] adds the motive-and-mandate layer: Jiang Chong has prior conflict with Liu Ju and [[EmpressWeiZifuWesternHan|卫子夫]], fears future retaliation if Liu Ju succeeds, and uses [[HanWudi|汉武帝]]'s wugu anxiety to gain full investigative authority. [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] supplies the operational layer: Jiang Chong allegedly manufactures physical evidence, coerces confessions, expands denunciation, and uses Wudi's illness and suspicion to search the palace and accuse Liu Ju. [[zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon|Hanji 386-1]] adds the escalation endpoint: Jiang Chong's control of palace access blocks Liu Ju's direct appeal and Liu Ju executes him after arresting him under a forged imperial command. [[zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73|Hanji 388-2]] adds his institutional role as a famous [[XiuyiEnvoyImperialSurveillance|绣衣使者]] figure and records Wudi's later destruction of his family after recognizing Liu Ju's grievance.
 
 ## Current Profile
 
-The sources do not give Jiang Chong a full biography. Their narrow claim is that he helped frame Liu Ju and, through special investigative authority, pushed the crown prince into a desperate position. Hanji 385-2 makes that pressure concrete: the Wugu prosecution is described as staged blood, buried wooden figures, Hu shaman performance, torture, mutual denunciation, and a palace search that reaches the Eastern Palace. Hanji 391-1 says the host does not treat Jiang Chong as the true ultimate mover, because [[LadyGouyiWesternHan|钩弋夫人]] is presented source-scopedly as a hidden figure behind him. Hanji 388-2 adds the punishment branch: once Wudi accepts Liu Ju's grievance, Jiang Chong's family becomes the object of retroactive punishment.
+The sources do not give Jiang Chong a full biography. Their narrow claim is that he helped frame Liu Ju and, through special investigative authority, pushed the crown prince into a desperate position. Hanji 385-1 now shows why that authority was available: palace wugu accusations had already produced mass killing, Wudi was ill and suspicious, and Jiang Chong could turn fear of hidden harm into a personal survival move against a future ruler he feared. Hanji 385-2 makes the later pressure concrete: the Wugu prosecution is described as staged blood, buried wooden figures, Hu shaman performance, torture, mutual denunciation, and a palace search that reaches the Eastern Palace. Hanji 391-1 says the host does not treat Jiang Chong as the true ultimate mover, because [[LadyGouyiWesternHan|钩弋夫人]] is presented source-scopedly as a hidden figure behind him. Hanji 388-2 adds the punishment branch: once Wudi accepts Liu Ju's grievance, Jiang Chong's family becomes the object of retroactive punishment.
 
 ## Key Characteristics
 
 - Western Han court figure named in the episode's account of the Wugu affair.
-- Visible accuser/operator in the alleged frame-up of Liu Ju, now shown through staged evidence, coerced confession, and palace search.
+- Visible accuser/operator in the alleged frame-up of Liu Ju, now shown through prior conflict, future-retaliation fear, investigative mandate, staged evidence, coerced confession, and palace search.
 - Famous绣衣 figure whose special investigative status helps explain the pressure around the Wugu case.
 - Actor who turns Wudi's illness and suspicion into permission for searches reaching Wei Zifu and Liu Ju's quarters.
 - Immediate trigger figure whose control of palace access and accusation pressure leads Liu Ju to arrest and kill him.
@@ -32,6 +33,8 @@ The sources do not give Jiang Chong a full biography. Their narrow claim is that
 ## Evidence
 
 Frame-up operation:
+- [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] says Jiang Chong has prior conflict with Liu Ju and Wei Zifu and fears revenge if Liu Ju becomes emperor after Wudi's death.
+- [[zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs|Hanji 385-1]] says Jiang Chong uses Wudi's wugu fear to claim someone is harming the emperor and receives full authority to investigate.
 - [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] says Jiang Chong uses Hu shamans, staged blood, buried figures, and torture to produce Wugu evidence and confessions.
 - [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] says coerced confessions expand the case from individuals to families, villages, and a broader climate of denunciation.
 - [[zizhi-tongjian-hanji-385-2-wugu-zhi-huo-zui-da-de-muhou-heishou-juran-shi-ta-lstnjhb3l6atr-syl4_dhlsgqgte|Hanji 385-2]] says Jiang Chong uses Wudi's belief in palace "gu qi" to search the palace and finally claim evidence in Liu Ju's Eastern Palace.
@@ -48,11 +51,11 @@ Punishment aftermath:
 
 ## Qualifications
 
-This page is bounded to Hanji 391-1, Hanji 388-2, Hanji 385-2, and Hanji 386-1. It does not reconstruct Jiang Chong's full biography, offices, prior conflict with Liu Ju, primary-source record, or full responsibility for the Wugu affair. Hanji 385-2's staged-evidence and torture account is recorded as this source's narrative of the case mechanics; Hanji 386-1 gives the compact arrest-and-execution bridge, not the full legal procedure.
+This page is bounded to Hanji 391-1, Hanji 388-2, Hanji 385-2, Hanji 386-1, and Hanji 385-1. It does not reconstruct Jiang Chong's full biography, offices, full primary-source record, or full responsibility for the Wugu affair. Hanji 385-1 supplies the prior-conflict and investigative-mandate setup, not a complete biography. Hanji 385-2's staged-evidence and torture account is recorded as this source's narrative of the case mechanics; Hanji 386-1 gives the compact arrest-and-execution bridge, not the full legal procedure.
 
 ## What Changed
 
-- Added Hanji 385-2's manufactured-evidence, torture, denunciation, palace-search, and Eastern Palace accusation layer to the existing front-line actor profile.
+- Added Hanji 385-1's motive-and-mandate layer and Hanji 385-2's manufactured-evidence, torture, denunciation, palace-search, and Eastern Palace accusation layer to the existing front-line actor profile.
 - Added Hanji 386-1's blocked-access and execution layer: Jiang Chong prevents direct appeal and is killed by Liu Ju after a forged-command arrest.
 - Preserved Hanji 388-2's绣衣 authority and post-remorse punishment layer and Hanji 391-1's distinction between visible actor and alleged hidden mover.
 
