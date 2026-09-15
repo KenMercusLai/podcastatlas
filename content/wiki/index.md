@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What might our tax system look like in the age of AI?](sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio and Ryan Abbott on AI labor substitution, payroll-tax asymmetry, labor-tax revenue exposure, and possible replacement tax bases.
 - [(From the archive) Jonathon Keats: Envisioning Deep Time](sources/salt-020260914-archive-keats-podcast.md) — Long Now archive episode with Jonathan Keats on public experimental philosophy, century and millennium cameras, deep-time mental prostheses, and the 5,000-year bristlecone calendar.
 - [Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)](sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490.md) — All-In interview with Jensen Huang on AI doomerism, engineering-first safety, recursive self-improvement, open models, Trump on data centers, Nvidia's infrastructure strategy, neoclouds, autonomy, biology, and domain-specific superintelligence.
 - [182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境](sources/182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8.md) — 起朱楼宴宾客 episode with David Weng and Ricky on Q3 2026 markets, high U.S. funding costs, AI capex prisoner dilemmas, China weak-demand repair, gold/A-share/dividend positioning, and defensive allocation.
@@ -2478,6 +2479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Ryan Abbott](entities/RyanAbbott.md) — Legal and technology expert whose Marketplace Tech appearance frames AI payroll-tax neutrality and the tax advantage of machine work over human employment.
 - [Jonathan Keats](entities/JonathanKeats.md) — Artist and experimental philosopher whose Long Now archive talk turns thought experiments, long-duration cameras, and bristlecone calendars into public deep-time practice.
 - [Centuries of the Bristlecone](entities/CenturiesOfTheBristlecone.md) — Jonathan Keats's proposed 5,000-year bristlecone-pine calendar for ecological timekeeping.
 - [Amoy Food / 淘大](entities/AmoyFood.md) — Hong Kong-linked condiment and frozen-food brand acquired by Haitian as an overseas channel and localization asset.
@@ -13523,6 +13525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sleep Spindle Schema Formation](concepts/SleepSpindleSchemaFormation.md) — Stage-two/REM rhythm frame linking spindles and P-waves to hippocampal-cortical transfer, schema integration, insight, and creative association.
 - [REM Emotional Memory Separation](concepts/REMEmotionalMemorySeparation.md) — REM-sleep frame where low norepinephrine may help memories retain facts while losing overwhelming autonomic charge, with PTSD and clinical-care limits.
 - [Labor Tax Base AI Erosion](concepts/LaborTaxBaseAIErosion.md) — Public-finance risk that AI substitution reduces taxable labor income before replacement tax bases are ready.
+- [AI Payroll Tax Neutrality](concepts/AIPayrollTaxNeutrality.md) — Tax-design idea that payroll rules should not favor AI systems over human workers doing comparable work.
 - [Technological Innovation Local Fiscal Shock](concepts/TechnologicalInnovationLocalFiscalShock.md) — Pattern where a consumer-benefiting technology removes a local industrial job base and municipal tax revenue.
 - [AI Profit Tax Substitution](concepts/AIProfitTaxSubstitution.md) — Policy response that replaces lost labor-tax revenue by taxing corporate profits created or enlarged by AI automation.
 - [AI Profitability Uncertainty](concepts/AIProfitabilityUncertainty.md) — Risk that AI capability and investment may not translate into durable profits for companies, taxes, or public equity funds.

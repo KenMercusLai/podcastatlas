@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7449
+wiki_total_pages: 7450
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1112,6 +1112,9 @@ wiki_pages:
   - key: "AIParentingAdvice"
     title: "AI Parenting Advice"
     url: "/wiki/concepts/aiparentingadvice/"
+  - key: "AIPayrollTaxNeutrality"
+    title: "AI Payroll Tax Neutrality"
+    url: "/wiki/concepts/aipayrolltaxneutrality/"
   - key: "AIPCMemoryDemand"
     title: "AI PC Memory Demand"
     url: "/wiki/concepts/aipcmemorydemand/"

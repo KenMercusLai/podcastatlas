@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2531
+topic_total_pages: 2532
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5762,6 +5762,9 @@ topic_entities:
   - key: "Russia"
     title: "Russia"
     url: "/wiki/entities/russia/"
+  - key: "RyanAbbott"
+    title: "Ryan Abbott"
+    url: "/wiki/entities/ryanabbott/"
   - key: "SabinaNong"
     title: "Sabina Nong"
     url: "/wiki/entities/sabinanong/"

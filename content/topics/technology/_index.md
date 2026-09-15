@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3020
+topic_total_pages: 3023
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -712,6 +712,9 @@ topic_concepts:
   - key: "AIParentingAdvice"
     title: "AI Parenting Advice"
     url: "/wiki/concepts/aiparentingadvice/"
+  - key: "AIPayrollTaxNeutrality"
+    title: "AI Payroll Tax Neutrality"
+    url: "/wiki/concepts/aipayrolltaxneutrality/"
   - key: "AIPCMemoryDemand"
     title: "AI PC Memory Demand"
     url: "/wiki/concepts/aipcmemorydemand/"
@@ -6536,6 +6539,9 @@ topic_entities:
   - key: "RWKV"
     title: "RWKV"
     url: "/wiki/entities/rwkv/"
+  - key: "RyanAbbott"
+    title: "Ryan Abbott"
+    url: "/wiki/entities/ryanabbott/"
   - key: "RyanSocialRobot"
     title: "Ryan Social Robot"
     url: "/wiki/entities/ryansocialrobot/"
@@ -8796,6 +8802,9 @@ topic_sources:
   - key: "tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128"
     title: "What if the AI boom never turns a profit?"
     url: "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+  - key: "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128"
+    title: "What might our tax system look like in the age of AI?"
+    url: "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
   - key: "tech-20260910-tech-pod-128-tech-20260910-tech-pod-128"
     title: "What's so concerning about the Hugging Face hack?"
     url: "/wiki/sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128/"

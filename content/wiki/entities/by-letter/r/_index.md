@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10132
+wiki_total_pages: 10133
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "RWKV"
     title: "RWKV"
     url: "/wiki/entities/rwkv/"
+  - key: "RyanAbbott"
+    title: "Ryan Abbott"
+    url: "/wiki/entities/ryanabbott/"
   - key: "RyanCohen"
     title: "Ryan Cohen"
     url: "/wiki/entities/ryancohen/"

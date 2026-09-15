@@ -4671,6 +4671,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIPayrollTaxNeutrality": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIPersonaLabeling": [
     {
       "key": "technology",
@@ -59237,6 +59244,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "RyanAbbott": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RyanPetersen": [
     {
       "key": "economics",
@@ -84012,6 +84031,13 @@
     }
   ],
   "tech-20260910-tech-pod-128-tech-20260910-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",

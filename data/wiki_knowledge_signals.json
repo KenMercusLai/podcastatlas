@@ -776,9 +776,9 @@
       "url": "/wiki/concepts/aiauthorshippresence/"
     },
     "AIAutomationRedistribution": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260803_0803_MP_TECH_pod_128 [tech_20260803_0803_MP_TECH_pod_128].md",
@@ -807,9 +807,16 @@
           "show": "Marketplace Tech",
           "title": "What if the AI boom never turns a profit?",
           "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-15",
       "url": "/wiki/concepts/aiautomationredistribution/"
     },
     "AIBenchmarkGaming": {
@@ -2814,6 +2821,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/aioverwriterate/"
     },
+    "AIPayrollTaxNeutrality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/aipayrolltaxneutrality/"
+    },
     "AIPrivateMarketConcentration": {
       "episode_count": 1,
       "show_count": 1,
@@ -2861,9 +2884,9 @@
       "url": "/wiki/concepts/aiprofessionaldatasecurity/"
     },
     "AIProfitTaxSubstitution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
@@ -2871,9 +2894,16 @@
           "show": "Marketplace Tech",
           "title": "What if the AI boom never turns a profit?",
           "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-15",
       "url": "/wiki/concepts/aiprofittaxsubstitution/"
     },
     "AIProfitabilityUncertainty": {
@@ -23703,9 +23733,9 @@
       "url": "/wiki/entities/davidanderson/"
     },
     "DavidBrancaccio": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260112_0112_MP_TECH_pod_128 [tech_20260112_0112_MP_TECH_pod_128].md",
@@ -23720,9 +23750,16 @@
           "show": "Marketplace Tech",
           "title": "What if the AI boom never turns a profit?",
           "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/davidbrancaccio/"
     },
     "DavidBreshears": {
@@ -58669,9 +58706,9 @@
       "url": "/wiki/entities/lvmh/"
     },
     "LaborTaxBaseAIErosion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260903_0903_MP_TECH_pod_128 [tech_20260903_0903_MP_TECH_pod_128].md",
@@ -58679,9 +58716,16 @@
           "show": "Marketplace Tech",
           "title": "What if the AI boom never turns a profit?",
           "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-15",
       "url": "/wiki/concepts/labortaxbaseaierosion/"
     },
     "Lacoste": {
@@ -90035,6 +90079,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/ruziying/"
     },
+    "RyanAbbott": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/ryanabbott/"
+    },
     "RyanSocialRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -103734,9 +103794,9 @@
       "url": "/wiki/concepts/tokenrevenuebuybackmodel/"
     },
     "TokenTaxOnAI": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists： Evictions = Violence？ [42209480].md",
@@ -103751,9 +103811,16 @@
           "show": "Marketplace Tech",
           "title": "What if the AI boom never turns a profit?",
           "url": "/wiki/sources/tech-20260903-0903-mp-tech-pod-128-tech-20260903-0903-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+          "key": "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "What might our tax system look like in the age of AI?",
+          "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-15",
       "url": "/wiki/concepts/tokentaxonai/"
     },
     "Tokyo": {
