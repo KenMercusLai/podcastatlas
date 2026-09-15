@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-15] ingest | Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490`; created `DomainSpecificSuperintelligence`; updated `AIDoomerism` and `AIIndustrySelfRegulation` with Huang's engineering-first safety critique, plural-auditor oversight model, open-model defense, Trump data-center political economy, and narrow-superintelligence framing. No settled contradiction found; AGI/superintelligence definitions and anti-doomer claims remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！
 
 Added source `zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z`; created `GongsunHeWesternHan` and `WeiKangWesternHan`; updated Wugu, Liu Ju, Wei Qing, and Han Wudi pages with the pre-open-conflict support-network purge around Gongsun He, Wei Kang, Wei Zifu, and Crown Prince Liu Ju. No settled contradiction found; exact legal dossiers and succession intent remain source-scoped.
@@ -19775,6 +19779,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博
 
 Added source `tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463`; created entity pages for Dior, Jonathan Anderson, LVMH, Wang Yibo, Shiseido, CPB, Haitian, Amoy, Sunwoda Power, and CALB; created concepts for celebrity-led market entry, luxury cultural partnership, battery supplier diversification, AI short-drama supply glut, condiment outbound acquisition, private-label lookalike risk, and packaged ice-cream demand pressure. No settled contradiction found; legal claims, settlement details, store counts, market shares, futures prices, and payout figures remain source-scoped.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

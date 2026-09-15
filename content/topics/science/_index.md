@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1103
+topic_total_pages: 1104
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -457,6 +457,9 @@ topic_concepts:
   - key: "DiscoveryModel"
     title: "Discovery Model"
     url: "/wiki/concepts/discoverymodel/"
+  - key: "DomainSpecificSuperintelligence"
+    title: "Domain-Specific Superintelligence"
+    url: "/wiki/concepts/domainspecificsuperintelligence/"
   - key: "DopamineBaselineMaintenance"
     title: "Dopamine Baseline Maintenance"
     url: "/wiki/concepts/dopaminebaselinemaintenance/"
