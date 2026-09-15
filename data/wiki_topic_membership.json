@@ -26191,6 +26191,13 @@
       "url": "/topics/science/"
     }
   ],
+  "FertilizerSupplyChainShock": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FeudalHomageSovereigntyConflict": [
     {
       "key": "history",
@@ -34731,6 +34738,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "IPOCapitalAbsorption": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "IPOwnership": [
     {
       "key": "culture",
@@ -43126,6 +43140,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "LunarIndustrialization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "LunarNuclearPower": [
@@ -56358,6 +56384,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "QuantumCryptographicMigration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Quark": [
@@ -79581,6 +79614,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150": [

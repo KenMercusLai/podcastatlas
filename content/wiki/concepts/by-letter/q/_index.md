@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 7466
+wiki_total_pages: 7470
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "QuantityChangeQualityChange"
     title: "Quantity Change to Quality Change / 量变引发质变"
     url: "/wiki/concepts/quantitychangequalitychange/"
+  - key: "QuantumCryptographicMigration"
+    title: "Quantum Cryptographic Migration"
+    url: "/wiki/concepts/quantumcryptographicmigration/"
   - key: "QuantumEntanglementFateMetaphor"
     title: "Quantum Entanglement Fate Metaphor / 量子纠缠命运隐喻"
     url: "/wiki/concepts/quantumentanglementfatemetaphor/"

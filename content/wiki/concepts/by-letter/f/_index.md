@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7466
+wiki_total_pages: 7470
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "FertilitySubsidyLimits"
     title: "Fertility Subsidy Limits / 生育补贴边界"
     url: "/wiki/concepts/fertilitysubsidylimits/"
+  - key: "FertilizerSupplyChainShock"
+    title: "Fertilizer Supply-Chain Shock"
+    url: "/wiki/concepts/fertilizersupplychainshock/"
   - key: "FestivalFoodMaterialHistory"
     title: "Festival Food Material History"
     url: "/wiki/concepts/festivalfoodmaterialhistory/"

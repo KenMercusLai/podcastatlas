@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1108
+topic_total_pages: 1110
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1000,6 +1000,9 @@ topic_concepts:
   - key: "LowStatusSyndrome"
     title: "Low-Status Syndrome / 低地位综合症"
     url: "/wiki/concepts/lowstatussyndrome/"
+  - key: "LunarIndustrialization"
+    title: "Lunar Industrialization"
+    url: "/wiki/concepts/lunarindustrialization/"
   - key: "LunarNuclearPower"
     title: "Lunar Nuclear Power"
     url: "/wiki/concepts/lunarnuclearpower/"
@@ -3231,6 +3234,9 @@ topic_sources:
   - key: "sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778"
     title: "sp.02 我有自己的宇宙：如何在混沌中做个清醒的行动派"
     url: "/wiki/sources/sp-02-wo-you-ziji-de-yuzhou-ruhe-zai-hundun-zhong-zuo-ge-qingxing-de-xingdongpai-748593778/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755"
+    title: "SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755/"
   - key: "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760"
     title: "Taking the shine off: albedo and global temperatures"
     url: "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"

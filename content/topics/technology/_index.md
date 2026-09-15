@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3025
+topic_total_pages: 3027
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2656,6 +2656,9 @@ topic_concepts:
   - key: "LPDDR6"
     title: "LPDDR6"
     url: "/wiki/concepts/lpddr6/"
+  - key: "LunarIndustrialization"
+    title: "Lunar Industrialization"
+    url: "/wiki/concepts/lunarindustrialization/"
   - key: "LunarNuclearPower"
     title: "Lunar Nuclear Power"
     url: "/wiki/concepts/lunarnuclearpower/"
@@ -3334,6 +3337,9 @@ topic_concepts:
   - key: "QuantitativeDataMoat"
     title: "Quantitative Data Moat"
     url: "/wiki/concepts/quantitativedatamoat/"
+  - key: "QuantumCryptographicMigration"
+    title: "Quantum Cryptographic Migration"
+    url: "/wiki/concepts/quantumcryptographicmigration/"
   - key: "QuietAIAdoptionDeparture"
     title: "Quiet AI Adoption Departure"
     url: "/wiki/concepts/quietaiadoptiondeparture/"

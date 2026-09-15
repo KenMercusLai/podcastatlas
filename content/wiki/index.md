@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755.md) — All-In episode on SpaceX's reported IPO, lunar industrialization, large IPO capital absorption, Iran-war fertilizer and energy shocks, and quantum risk to Bitcoin and encryption.
 - [《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生](sources/zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy.md) — 芮淇讲透资治通鉴 short episode on Nuo Ji's movement across Liu Fei, Liu Jian, and Liu Pengzu, the failed Zhao succession of Liu Naozi, and desire as a governance-fitness test.
 - [《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生](sources/zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t.md) — 芮淇讲透资治通鉴 episode on Lady Gouyi's discovery legend, Liu Fuling's fourteen-month birth story, the "尧母门" succession signal, and its Wugu background risk.
 - [《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？](sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto.md) — 芮淇讲透资治通鉴 short episode on Jiang Chong's Zhao conflict, accusation against Zhao heir Liu Dan, Xiuyi inspection role, and Chi Road grievance with Crown Prince Liu Ju.
@@ -12643,6 +12644,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Lunar Industrialization](concepts/LunarIndustrialization.md) — Moon-as-industrial-frontier thesis linking cheap launch, robotics, lunar materials, and mass-driver speculation.
+- [IPO Capital Absorption](concepts/IPOCapitalAbsorption.md) — public-market liquidity frame for whether large listings and insider sellers can be absorbed without broken offering prices.
+- [Fertilizer Supply-Chain Shock](concepts/FertilizerSupplyChainShock.md) — energy and chokepoint risk frame for fertilizer availability, farmer input costs, and food-system resilience.
+- [Quantum Cryptographic Migration](concepts/QuantumCryptographicMigration.md) — migration challenge for Bitcoin, crypto systems, and internet encryption under practical quantum-computing risk.
 - [Princely Consort Dependency / 诸侯妃妾依附风险](concepts/PrincelyConsortDependency.md) — risk that consort security and child prospects depend on changing princely household power rather than durable personal agency.
 - [Desire Governance Fitness / 欲望治理适任性](concepts/DesireGovernanceFitness.md) — succession and leadership principle that excessive desire makes a candidate unsafe to govern others.
 - [Mission Constrained Product Development](concepts/MissionConstrainedProductDevelopment.md) — Product-development pattern where purpose becomes concrete user, safety, ingredient, or performance constraints.

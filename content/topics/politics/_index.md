@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2537
+topic_total_pages: 2538
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1234,6 +1234,9 @@ topic_concepts:
   - key: "FemaleRevengeAndPoliticalOrder"
     title: "Female Revenge And Political Order"
     url: "/wiki/concepts/femalerevengeandpoliticalorder/"
+  - key: "FertilizerSupplyChainShock"
+    title: "Fertilizer Supply-Chain Shock"
+    url: "/wiki/concepts/fertilizersupplychainshock/"
   - key: "FeudalHomageSovereigntyConflict"
     title: "Feudal Homage Sovereignty Conflict"
     url: "/wiki/concepts/feudalhomagesovereigntyconflict/"

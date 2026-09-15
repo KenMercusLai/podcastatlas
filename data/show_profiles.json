@@ -149,8 +149,8 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-15",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
-      "source_note_count": 61,
-      "topic_matched_source_note_count": 57,
+      "source_note_count": 62,
+      "topic_matched_source_note_count": 58,
       "topics": [
         {
           "key": "technology",
@@ -174,7 +174,7 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 6
+          "source_note_count": 7
         }
       ],
       "entities": [

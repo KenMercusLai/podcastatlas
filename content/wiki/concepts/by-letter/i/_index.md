@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7466
+wiki_total_pages: 7470
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "IPControlledGenerativeModels"
     title: "IP-Controlled Generative Models"
     url: "/wiki/concepts/ipcontrolledgenerativemodels/"
+  - key: "IPOCapitalAbsorption"
+    title: "IPO Capital Absorption"
+    url: "/wiki/concepts/ipocapitalabsorption/"
   - key: "IranHorizontalEscalation"
     title: "Iran Horizontal Escalation / 伊朗横向升级"
     url: "/wiki/concepts/iranhorizontalescalation/"

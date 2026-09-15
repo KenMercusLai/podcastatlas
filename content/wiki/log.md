@@ -19788,6 +19788,10 @@ Added source `182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanw
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-15] ingest | SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity
+
+Added source note for All-In's SpaceX IPO, Iran-war fallout, quantum Bitcoin risk, and space-opportunity episode. Key claims: SpaceX is framed as a platform for lunar and space-economy infrastructure; a wave of SpaceX/OpenAI/Anthropic-scale IPOs may run into capital absorption and secondary-liquidity pressure; Iran-war shock can transmit through energy, fertilizer, helium, and food systems; practical quantum progress could force Bitcoin, crypto, and internet encryption into difficult migration.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生
 
 Added source `zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy`; created Nuo Ji, Liu Fei Jiangdu King, Liu Jian Jiangdu King, Liu Naozi, Liu Chang Wushi Marquis, Princely Consort Dependency, and Desire Governance Fitness pages; updated Liu Pengzu with the later Nuo Ji and Zhao succession branch. No settled contradiction found; Nuo Ji's inner life, Jiangdu/Zhao succession procedure, Liu Jian's rebellion case, tomb-object interpretation, and Liu Naozi/Liu Chang character judgments remain source-scoped.
@@ -19870,6 +19874,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

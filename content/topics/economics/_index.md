@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2045
+topic_total_pages: 2046
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1672,6 +1672,9 @@ topic_concepts:
   - key: "InvestorToOperatorLearning"
     title: "Investor-to-Operator Learning / 投资人到经营者的一线学习"
     url: "/wiki/concepts/investortooperatorlearning/"
+  - key: "IPOCapitalAbsorption"
+    title: "IPO Capital Absorption"
+    url: "/wiki/concepts/ipocapitalabsorption/"
   - key: "IranPostwarEconomicRelief"
     title: "Iran Postwar Economic Relief"
     url: "/wiki/concepts/iranpostwareconomicrelief/"
