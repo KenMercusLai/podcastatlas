@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10141
+wiki_total_pages: 10143
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1958,6 +1958,12 @@ wiki_pages:
   - key: "LaiJingping"
     title: "赖靖平 / Lai Jingping"
     url: "/wiki/entities/laijingping/"
+  - key: "LiuDanZhaoPrinceWesternHan"
+    title: "赵太子刘丹 / Liu Dan, Zhao Crown Prince (Western Han)"
+    url: "/wiki/entities/liudanzhaoprincewesternhan/"
+  - key: "LiuPengzuZhaoKingWesternHan"
+    title: "赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)"
+    url: "/wiki/entities/liupengzuzhaokingwesternhan/"
   - key: "LuWenshuWesternHan"
     title: "路温舒 / Lu Wenshu (Western Han)"
     url: "/wiki/entities/luwenshuwesternhan/"

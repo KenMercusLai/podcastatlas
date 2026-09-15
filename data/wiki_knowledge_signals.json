@@ -55500,9 +55500,9 @@
       "url": "/wiki/entities/jianlangeasternhan/"
     },
     "JiangChongWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》391-1｜为了立太子，汉武帝为何先杀宠妃钩弋夫人 [lhsva8ZJ7N7MfY6U4VYFHRWMbwZG].md",
@@ -55538,6 +55538,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
+          "key": "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
         }
       ],
       "updated": "2026-09-15",
@@ -63010,6 +63017,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/liudanyankingwesternhan/"
     },
+    "LiuDanZhaoPrinceWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
+          "key": "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/liudanzhaoprincewesternhan/"
+    },
     "LiuDuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -63396,9 +63419,9 @@
       "url": "/wiki/entities/liujingguanglingkingeasternhan/"
     },
     "LiuJuCrownPrinceWesternHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -63483,6 +63506,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
+          "key": "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
         }
       ],
       "updated": "2026-09-15",
@@ -63754,6 +63784,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/liumubeihaiking/"
+    },
+    "LiuPengzuZhaoKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
+          "key": "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/liupengzuzhaokingwesternhan/"
     },
     "LiuPenziEasternHan": {
       "episode_count": 5,
@@ -112997,9 +113043,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -113098,6 +113144,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
+          "key": "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
         }
       ],
       "updated": "2026-09-15",
@@ -115214,9 +115267,9 @@
       "url": "/wiki/entities/xiulichanyu/"
     },
     "XiuyiEnvoyImperialSurveillance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
@@ -115224,9 +115277,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-388-2-yin-chanyan-cuosha-taizi-hanwudi-wannian-zuidade-huihen-lm9e_lrbbcc7a6kf22hbid04_u73/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？ [loi-6-s1Z2okMSkqvbFwryZ-QJTO].md",
+          "key": "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "url": "/wiki/concepts/xiuyienvoyimperialsurveillance/"
     },
     "XiziRanLateHan": {
