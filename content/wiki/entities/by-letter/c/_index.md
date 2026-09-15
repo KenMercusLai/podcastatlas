@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10134
+wiki_total_pages: 10138
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -749,6 +749,9 @@ wiki_pages:
   - key: "ChristianToya"
     title: "Christian Toya"
     url: "/wiki/entities/christiantoya/"
+  - key: "ChristieLamond"
+    title: "Christie Lamond"
+    url: "/wiki/entities/christielamond/"
   - key: "Christies"
     title: "Christie's"
     url: "/wiki/entities/christies/"
@@ -860,6 +863,9 @@ wiki_pages:
   - key: "ClaireIsabelWebb"
     title: "Claire Isabel Webb"
     url: "/wiki/entities/claireisabelwebb/"
+  - key: "Clarisonic"
+    title: "Clarisonic"
+    url: "/wiki/entities/clarisonic/"
   - key: "ClarkCreo"
     title: "Clark (Creo)"
     url: "/wiki/entities/clarkcreo/"

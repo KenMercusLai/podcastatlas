@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7460
+wiki_total_pages: 7464
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "LeagueStakeholderAlignment"
     title: "League Stakeholder Alignment"
     url: "/wiki/concepts/leaguestakeholderalignment/"
+  - key: "LeanConsumerBrandOperations"
+    title: "Lean Consumer Brand Operations"
+    url: "/wiki/concepts/leanconsumerbrandoperations/"
   - key: "LeanStartupFeedbackLoop"
     title: "Lean Startup Feedback Loop"
     url: "/wiki/concepts/leanstartupfeedbackloop/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7460
+wiki_total_pages: 7464
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "DirectAirCapture"
     title: "Direct Air Capture"
     url: "/wiki/concepts/directaircapture/"
+  - key: "DirectCustomerFeedbackLoop"
+    title: "Direct Customer Feedback Loop"
+    url: "/wiki/concepts/directcustomerfeedbackloop/"
   - key: "DirectEntrepreneurGrants"
     title: "Direct Entrepreneur Grants"
     url: "/wiki/concepts/directentrepreneurgrants/"

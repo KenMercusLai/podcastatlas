@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Thrive Causemetics: Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission](sources/thrive-causemetics-karissa-bodnar-how-150-a-day-in-sales-turned-into-a-150-million-beauty-business-with-a-mission-be72ee5e-a5fd-4554-bd4d-fda64909e6f6.md) — How I Built This episode on Karissa Bodnar, Thrive Causemetics, mission-constrained beauty products, DTC breakout, formulation control, lean operations, and founder control.
 - [The Art of True Happiness | Dr. Arthur Brooks](sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637.md) — Huberman Lab episode with Arthur Brooks on happiness as enjoyment, satisfaction, and meaning; pleasure versus enjoyment; struggle-based satisfaction; idols; faith; service; and practice before feeling.
 - [Strait and narrowing: the Houthis' striking advance](sources/strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7.md) — The Intelligence episode on Houthi coastal gains, Saudi and oil-route pressure, Trump voter-coalition erosion, and Hollywood nepotism.
 - [What might our tax system look like in the age of AI?](sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio and Ryan Abbott on AI labor substitution, payroll-tax asymmetry, labor-tax revenue exposure, and possible replacement tax bases.
@@ -2481,6 +2482,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Karissa Bodnar](entities/KarissaBodnar.md) — Founder of Thrive Causemetics whose episode links personal loss, beauty product development, DTC feedback, lean operations, and founder control.
+- [Thrive Causemetics](entities/ThriveCausemetics.md) — Mission-driven beauty company built around product performance, giving, formulation control, and direct customer feedback.
+- [Christie Lamond](entities/ChristieLamond.md) — Karissa Bodnar's friend whose cancer experience and death shaped the mission behind Thrive Causemetics.
+- [Clarisonic](entities/Clarisonic.md) — Beauty-device company that served as Karissa Bodnar's pre-founder product-development training ground before and after L'Oreal acquired it.
 - [Arthur Brooks](entities/ArthurBrooks.md) — Huberman Lab guest presenting happiness as practiced enjoyment, satisfaction, meaning, love, service, faith, and resistance to status idols.
 - [Ryan Abbott](entities/RyanAbbott.md) — Legal and technology expert whose Marketplace Tech appearance frames AI payroll-tax neutrality and the tax advantage of machine work over human employment.
 - [Jonathan Keats](entities/JonathanKeats.md) — Artist and experimental philosopher whose Long Now archive talk turns thought experiments, long-duration cameras, and bristlecone calendars into public deep-time practice.
@@ -12620,6 +12625,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Mission Constrained Product Development](concepts/MissionConstrainedProductDevelopment.md) — Product-development pattern where purpose becomes concrete user, safety, ingredient, or performance constraints.
+- [Beauty Formulation Control](concepts/BeautyFormulationControl.md) — Beauty-brand moat from owned formulas, chemistry capability, supplier exclusivity, and contracts rather than factory ownership alone.
+- [Direct Customer Feedback Loop](concepts/DirectCustomerFeedbackLoop.md) — Learning system from direct customer comments, sales changes, support issues, and product requests.
+- [Lean Consumer Brand Operations](concepts/LeanConsumerBrandOperations.md) — Consumer-product operating discipline around scarce cash, small teams, customer service, product development, and product-by-product growth.
 - [Commitment Bias Public Promise](concepts/CommitmentBiasPublicPromise.md) — Brooks' use of public vows and declarations as support for staying aligned with long-term values through difficulty.
 - [Enjoyment Vs Pleasure](concepts/EnjoymentVsPleasure.md) — Brooks' distinction between bare pleasure and enjoyment shaped by people, memory, conscious management, and moral aspiration.
 - [Happiness Idols](concepts/HappinessIdols.md) — Brooks' diagnostic for money, power, pleasure, and honor as worldly rewards that become harmful when treated as ultimate ends.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10134
+wiki_total_pages: 10138
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "ThreeMileIslandAccident"
     title: "Three Mile Island Accident"
     url: "/wiki/entities/threemileislandaccident/"
+  - key: "ThriveCausemetics"
+    title: "Thrive Causemetics"
+    url: "/wiki/entities/thrivecausemetics/"
   - key: "ThriveMarket"
     title: "Thrive Market"
     url: "/wiki/entities/thrivemarket/"

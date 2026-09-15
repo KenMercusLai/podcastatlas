@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10134
+wiki_total_pages: 10138
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "KarimaSharifAli"
     title: "Karima Sharif-Ali"
     url: "/wiki/entities/karimasharifali/"
+  - key: "KarissaBodnar"
+    title: "Karissa Bodnar"
+    url: "/wiki/entities/karissabodnar/"
   - key: "KarlDrais"
     title: "Karl Drais / 卡尔·德莱斯"
     url: "/wiki/entities/karldrais/"
