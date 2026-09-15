@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-15] ingest | 《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？
+
+Added source `zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi`; updated `WuguIncidentWesternHan`, `WuguPoliticalPanic`, and `GongsunHeWesternHan` with the early Wugu opening frame around Han Wudi's late-life fear, the 92 BCE Jianzhang Palace armed-man scare and Chang'an lockdown, and Gongsun He as Liu Ju's important remaining Wei-family support. No settled contradiction found; Wudi's psychology, the full security case, and later Wugu prosecution details remain source-scoped.
+
 ## [2026-09-15] ingest | The Art of True Happiness | Dr. Arthur Brooks
 
 Added source `the-art-of-true-happiness-dr-arthur-brooks-scim2290485637`; created `ArthurBrooks`, `HappinessMacronutrients`, `EnjoymentVsPleasure`, `MoralAspirationPractice`, `CommitmentBiasPublicPromise`, `HappinessIdols`, and `PracticeBeforeFeeling`. Core synthesis: Brooks frames happiness as enjoyment, satisfaction, and meaning rather than comfort or constant positivity; pleasure needs people, memory, and moral aspiration to become enjoyment; satisfaction depends on struggle; and meaning depends on love, service, faith, practice, and resistance to money, power, pleasure, and honor as ultimate idols. No settled contradiction found; religious, Vedic, hemispheric, and self-assessment claims remain source-scoped.
@@ -19866,6 +19870,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

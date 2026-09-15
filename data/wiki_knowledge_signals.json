@@ -42626,9 +42626,9 @@
       "url": "/wiki/entities/gongfuxiong/"
     },
     "GongsunHeWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
@@ -42643,6 +42643,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？ [lq4bHUT-IbaRqQR1yfDQTqTi2dBI].md",
+          "key": "zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi/"
         }
       ],
       "updated": "2026-09-15",
@@ -113162,9 +113169,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -113270,15 +113277,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？ [lq4bHUT-IbaRqQR1yfDQTqTi2dBI].md",
+          "key": "zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi/"
         }
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/wuguincidentwesternhan/"
     },
     "WuguPoliticalPanic": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸 [lkFbrwTGsJmA85BZugqONZK3Hy4g].md",
@@ -113314,6 +113328,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？ [lq4bHUT-IbaRqQR1yfDQTqTi2dBI].md",
+          "key": "zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi/"
         }
       ],
       "updated": "2026-09-15",
