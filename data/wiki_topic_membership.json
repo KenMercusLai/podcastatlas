@@ -8575,6 +8575,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AntiHouthiCoalitionFragmentation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AntiLyricism": [
     {
       "key": "culture",
@@ -33771,6 +33778,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HouthiMaritimeChokepointLeverage": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Houthis": [
@@ -70101,6 +70115,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "TrumpCoalitionFragmentation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TrumpMediaAndTechnologyGroup": [
     {
       "key": "politics",
@@ -83007,6 +83028,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f": [

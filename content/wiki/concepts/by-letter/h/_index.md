@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7450
+wiki_total_pages: 7454
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "HolidayPeakTravelPlanning"
     title: "Holiday Peak Travel Planning"
     url: "/wiki/concepts/holidaypeaktravelplanning/"
+  - key: "HollywoodNepotismNetworkAdvantage"
+    title: "Hollywood Nepotism Network Advantage"
+    url: "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"
@@ -611,6 +614,9 @@ wiki_pages:
   - key: "HousingWealthAffordabilityTension"
     title: "Housing Wealth Affordability Tension"
     url: "/wiki/concepts/housingwealthaffordabilitytension/"
+  - key: "HouthiMaritimeChokepointLeverage"
+    title: "Houthi Maritime Chokepoint Leverage"
+    url: "/wiki/concepts/houthimaritimechokepointleverage/"
   - key: "HPSScienceEducation"
     title: "HPS Science Education / 科学史哲社会科学教育"
     url: "/wiki/concepts/hpsscienceeducation/"

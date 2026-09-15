@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7450
+wiki_total_pages: 7454
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "TrumpAccounts"
     title: "Trump Accounts"
     url: "/wiki/concepts/trumpaccounts/"
+  - key: "TrumpCoalitionFragmentation"
+    title: "Trump Coalition Fragmentation"
+    url: "/wiki/concepts/trumpcoalitionfragmentation/"
   - key: "TrumpSupporterInterpretiveLoop"
     title: "Trump Supporter Interpretive Loop"
     url: "/wiki/concepts/trumpsupporterinterpretiveloop/"

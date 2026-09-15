@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2532
+topic_total_pages: 2536
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -259,6 +259,9 @@ topic_concepts:
   - key: "AntiHeroicResistanceNarrative"
     title: "Anti-Heroic Resistance Narrative"
     url: "/wiki/concepts/antiheroicresistancenarrative/"
+  - key: "AntiHouthiCoalitionFragmentation"
+    title: "Anti-Houthi Coalition Fragmentation"
+    url: "/wiki/concepts/antihouthicoalitionfragmentation/"
   - key: "AntitrustChill"
     title: "Antitrust Chill"
     url: "/wiki/concepts/antitrustchill/"
@@ -1564,6 +1567,9 @@ topic_concepts:
   - key: "HousingRestrictionBackfire"
     title: "Housing Restriction Backfire"
     url: "/wiki/concepts/housingrestrictionbackfire/"
+  - key: "HouthiMaritimeChokepointLeverage"
+    title: "Houthi Maritime Chokepoint Leverage"
+    url: "/wiki/concepts/houthimaritimechokepointleverage/"
   - key: "HuaweiNoCarManufacturingBoundary"
     title: "Huawei No-Car Manufacturing Boundary / 华为不造车边界"
     url: "/wiki/concepts/huaweinocarmanufacturingboundary/"
@@ -3397,6 +3403,9 @@ topic_concepts:
   - key: "TrumpAccounts"
     title: "Trump Accounts"
     url: "/wiki/concepts/trumpaccounts/"
+  - key: "TrumpCoalitionFragmentation"
+    title: "Trump Coalition Fragmentation"
+    url: "/wiki/concepts/trumpcoalitionfragmentation/"
   - key: "TrumpSupporterInterpretiveLoop"
     title: "Trump Supporter Interpretive Loop"
     url: "/wiki/concepts/trumpsupporterinterpretiveloop/"
@@ -7083,6 +7092,9 @@ topic_sources:
   - key: "stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5"
     title: "Stock options: how to hedge an AI bubble"
     url: "/wiki/sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5/"
+  - key: "strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7"
+    title: "Strait and narrowing: the Houthis' striking advance"
+    url: "/wiki/sources/strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7/"
   - key: "strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f"
     title: "Strait and narrowing: the Iran deal crumbles"
     url: "/wiki/sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f/"

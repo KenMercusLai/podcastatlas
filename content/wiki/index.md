@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Strait and narrowing: the Houthis' striking advance](sources/strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7.md) — The Intelligence episode on Houthi coastal gains, Saudi and oil-route pressure, Trump voter-coalition erosion, and Hollywood nepotism.
 - [What might our tax system look like in the age of AI?](sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128.md) — Marketplace Tech episode with David Brancaccio and Ryan Abbott on AI labor substitution, payroll-tax asymmetry, labor-tax revenue exposure, and possible replacement tax bases.
 - [(From the archive) Jonathon Keats: Envisioning Deep Time](sources/salt-020260914-archive-keats-podcast.md) — Long Now archive episode with Jonathan Keats on public experimental philosophy, century and millennium cameras, deep-time mental prostheses, and the 5,000-year bristlecone calendar.
 - [Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)](sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490.md) — All-In interview with Jensen Huang on AI doomerism, engineering-first safety, recursive self-improvement, open models, Trump on data centers, Nvidia's infrastructure strategy, neoclouds, autonomy, biology, and domain-specific superintelligence.
@@ -12617,6 +12618,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Houthi Maritime Chokepoint Leverage](concepts/HouthiMaritimeChokepointLeverage.md) — How Houthi coastal advances can create Red Sea, pipeline, oil-market, and diplomacy leverage.
+- [Anti-Houthi Coalition Fragmentation](concepts/AntiHouthiCoalitionFragmentation.md) — Yemen-war concept for how divided anti-Houthi forces and sponsor splits enable battlefield losses.
+- [Trump Coalition Fragmentation](concepts/TrumpCoalitionFragmentation.md) — Voter-level erosion of Trump's 2024 coalition through tariffs, inflation, war dissatisfaction, and turnout uncertainty.
+- [Hollywood Nepotism Network Advantage](concepts/HollywoodNepotismNetworkAdvantage.md) — Entertainment-industry concept for inherited access, marketing value, and network advantage among nepo babies.
 - [Public Experimental Philosophy](concepts/PublicExperimentalPhilosophy.md) — Practice of carrying thought experiments into public situations, artifacts, and participatory experiments.
 - [Deep-Time Mental Prosthesis](concepts/DeepTimeMentalProsthesis.md) — Long-duration objects and rituals that extend human imagination toward century-scale and millennial accountability.
 - [Ecological Timekeeping](concepts/EcologicalTimekeeping.md) — Use of living or environmental processes as timekeepers, making growth and climate part of calendar authority.

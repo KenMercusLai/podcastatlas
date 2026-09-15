@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-14",
       "latest_episode_file": "Strait and narrowing： the Houthis’ striking advance [6aa7c25aff74edfd002ca6c7].md",
-      "source_note_count": 73,
-      "topic_matched_source_note_count": 69,
+      "source_note_count": 74,
+      "topic_matched_source_note_count": 70,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 52
+          "source_note_count": 53
         },
         {
           "key": "technology",
@@ -410,10 +410,10 @@
         }
       ],
       "start_here_episode_files": [
-        "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+        "Strait and narrowing： the Houthis’ striking advance [6aa7c25aff74edfd002ca6c7].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
-        "Strait and narrowing： the Houthis’ striking advance [6aa7c25aff74edfd002ca6c7].md"
+        "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md"
       ]
     },
     "How I Built This with Guy Raz": {
