@@ -19784,6 +19784,10 @@ Added source `182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanw
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-15] ingest | 《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？
+
+Added source note for Hanji 383-2. Key claims: Gongsun Jingsheng's taipu-era North Army fund embezzlement pushes Gongsun He into a capture-for-pardon bargain; Zhu Anshi's retaliatory accusation turns the case into adultery and wugu charges; Han Wudi's illness and fear of curse harm make the accusation lethal before the broader Wugu support-network purge.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》386-1｜汉武帝时期，仁慈的太子刘据为何造反
 
 Added source `zizhi-tongjian-hanji-386-1-hanwudi-shiqi-renci-de-taizi-liuju-weihe-zaofan-lkpwtth8485nbqcg18pvwzzxvmon`; updated Liu Ju, Empress Wei Zifu, Jiang Chong, Su Wen, Shi De, Liu Quli, Han Wudi, and the Wugu Incident with the blocked-appeal, Jiang Chong execution, palace-resource mobilization, messenger-report, and suppression-order bridge between Hanji 385-2 and Hanji 386-2. No settled contradiction found; Han Shuo, Zhang Gan, the unnamed messenger, exact date wording, troop details, and full legal procedure remain source-scoped.
@@ -19850,6 +19854,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

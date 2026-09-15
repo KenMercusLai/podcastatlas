@@ -42603,9 +42603,9 @@
       "url": "/wiki/entities/gongfuxiong/"
     },
     "GongsunHeWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！ [lp_RWQPmccvlAOChibSpViKhb96z].md",
@@ -42613,9 +42613,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？ [lt1yHOCYMjTgwJB7537YotBWoikZ].md",
+          "key": "zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/gongsunhewesternhan/"
     },
     "GongsunHongLangyaWesternHan": {
@@ -42633,6 +42640,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/gongsunhonglangyawesternhan/"
+    },
+    "GongsunJingshengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？ [lt1yHOCYMjTgwJB7537YotBWoikZ].md",
+          "key": "zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/gongsunjingshengwesternhan/"
     },
     "GongsunKangLateHan": {
       "episode_count": 1,
@@ -112946,9 +112969,9 @@
       "url": "/wiki/entities/wuducommanderylatehan/"
     },
     "WuguIncidentWesternHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -113033,6 +113056,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-385-1-hanchao-diyi-yuanan-wugu-zhi-huo-shi-ruhe-fasheng-de-fvrg0w8fnhlcslizo-yuujgdnbbs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？ [lt1yHOCYMjTgwJB7537YotBWoikZ].md",
+          "key": "zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz/"
         }
       ],
       "updated": "2026-09-15",
@@ -123433,6 +123463,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhouzhanglatehan/"
+    },
+    "ZhuAnshiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？ [lt1yHOCYMjTgwJB7537YotBWoikZ].md",
+          "key": "zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/zhuanshiwesternhan/"
     },
     "ZhuBajie": {
       "episode_count": 3,
