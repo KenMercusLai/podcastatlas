@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7ddff9ef3f6a2618c779bb79ac7834649c46f29ed6890360c7b02ddebe4e9533",
       "64502fc2058a342f0df07ccc9424afebe57ef6bfc29fab1c4d9d461fb4b755bc",
       "e7d72f8c2db326bd8855d56d59b603dd3f40f08275eaa0ffd959f6f08a9f2f7d",
       "d7d6232543135eff8598b142a537357b45323a7f7ae08aa3667969d64028aa03",
@@ -622,11 +623,34 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 620
+    "paragraph_count": 621
   },
-  "overview_commit": "0a4de72041edc7310bc1514c60f70e0f47a10bf9",
-  "overview_digest": "623011f40969e148134a7d1c21d536ff87173c26ad36b05e7fbd6e633bc309a3",
+  "overview_commit": "d8bdfff053a38f7747aba73e8247015e916b0911",
+  "overview_digest": "c08b9c4e58c7996589740cbcec031db093c2c4c32f68d475ed32abcde97f4aea",
   "paragraphs": [
+    {
+      "id": "7ddff9ef3f6a2618c779bb79ac7834649c46f29ed6890360c7b02ddebe4e9533",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger]], an [[AllIn|All-In]] interview with [[GwenShotwell|Gwynne Shotwell]] and [[ElonMusk|Elon Musk]]. It adds [[Terafab]] and extends [[FrontierModelPeerReview]], [[Starship]], and [[SpaceBasedAIInfrastructure]] by tying SpaceX operating culture, Starlink direct-to-cell expansion, AI compute satellites, pre-release rival-lab safety testing, Starship catch-and-refly milestones, and secure chip supply into one Musk ecosystem update. Its core synthesis is that [[SpaceX]] is presented as both an execution culture and an infrastructure stack: launch, satellites, compute, chips, and frontier-model safety are treated as connected operating problems rather than separate product lines. No settled contradiction is recorded; Starship timing, Terafab schedules, Starlink penetration, direct-to-cell spectrum use, and SpaceX compute-rental claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AllIn",
+        "ElonMusk",
+        "FrontierModelPeerReview",
+        "GwenShotwell",
+        "SpaceBasedAIInfrastructure",
+        "SpaceX",
+        "Starship",
+        "Terafab",
+        "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702"
+      ]
+    },
     {
       "id": "64502fc2058a342f0df07ccc9424afebe57ef6bfc29fab1c4d9d461fb4b755bc",
       "primary_topic": "governance-and-institutions",

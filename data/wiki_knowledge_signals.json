@@ -38879,6 +38879,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/frontiermodelduopoly/"
     },
+    "FrontierModelPeerReview": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/concepts/frontiermodelpeerreview/"
+    },
     "FrontierModelVerifiedAccess": {
       "episode_count": 1,
       "show_count": 1,
@@ -44660,6 +44683,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/guoziyi/"
+    },
+    "GwenShotwell": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/gwenshotwell/"
     },
     "HYROX": {
       "episode_count": 3,
@@ -96806,9 +96852,9 @@
       "url": "/wiki/entities/soweto/"
     },
     "SpaceBasedAIInfrastructure": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 5,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "tech_20260807_0807_MP_TECH_pod_128 [tech_20260807_0807_MP_TECH_pod_128].md",
@@ -96872,9 +96918,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-15",
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpatialComputing": {
@@ -97544,6 +97597,64 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/starspangledbanner/"
+    },
+    "Starship": {
+      "episode_count": 7,
+      "show_count": 6,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "tech_20260206_0206_MP_TECH_pod_128 [tech_20260206_0206_MP_TECH_pod_128].md",
+          "key": "tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - SpaceX and xAI merge, Nvidia and OpenAI's funding relationship and U.S. TikTok's rough start",
+          "url": "/wiki/sources/tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+          "key": "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+          "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
+        },
+        {
+          "episode_file": "如何「兜住」一颗火箭？｜ S10E21 [b66fdf0f-d428-4f0c-8412-b0c7581132d0].md",
+          "key": "ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0",
+          "show": "What's Next｜科技早知道",
+          "title": "如何「兜住」一颗火箭？｜ S10E21",
+          "url": "/wiki/sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-AndyLapsa-v1-Audio [TSR-YCOffsite-AndyLapsa-v1-Audio].md",
+          "key": "tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space",
+          "url": "/wiki/sources/tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio/"
+        },
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/starship/"
     },
     "StartupEmbassy": {
       "episode_count": 1,
@@ -102193,6 +102304,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/teodrosii/"
+    },
+    "Terafab": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/terafab/"
     },
     "TerminalMandateSelfDeception": {
       "episode_count": 2,

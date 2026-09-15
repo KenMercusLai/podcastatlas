@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3023
+topic_total_pages: 3025
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5331,7 +5331,7 @@ topic_entities:
     title: "Gumroad"
     url: "/wiki/entities/gumroad/"
   - key: "GwenShotwell"
-    title: "Gwen Shotwell"
+    title: "Gwynne Shotwell"
     url: "/wiki/entities/gwenshotwell/"
   - key: "H3C"
     title: "H3C / 华三"
@@ -6896,6 +6896,9 @@ topic_entities:
   - key: "TensorFlow"
     title: "TensorFlow"
     url: "/wiki/entities/tensorflow/"
+  - key: "Terafab"
+    title: "Terafab"
+    url: "/wiki/entities/terafab/"
   - key: "Tesla"
     title: "Tesla"
     url: "/wiki/entities/tesla/"
@@ -8217,6 +8220,9 @@ topic_sources:
   - key: "e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh"
     title: "E46 我们从未看见彼此"
     url: "/wiki/sources/e46-women-congwei-kanjian-bici-lmliksaiwxakmjbn-p2voaaoenxh/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702"
+    title: "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285"
     title: "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"

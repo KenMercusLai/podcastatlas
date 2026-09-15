@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-15",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
-      "source_note_count": 60,
-      "topic_matched_source_note_count": 56,
+      "source_note_count": 61,
+      "topic_matched_source_note_count": 57,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 44
+          "source_note_count": 45
         },
         {
           "key": "economics",
@@ -236,7 +236,7 @@
         }
       ],
       "start_here_episode_files": [
-        "All-In with Chamath, Jason, Sacks & Friedberg - Jensen Huang： The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump) [42903490].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md"

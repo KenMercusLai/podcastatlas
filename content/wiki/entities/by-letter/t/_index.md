@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10138
+wiki_total_pages: 10139
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "TeodrosII"
     title: "Teodros II"
     url: "/wiki/entities/teodrosii/"
+  - key: "Terafab"
+    title: "Terafab"
+    url: "/wiki/entities/terafab/"
   - key: "TerenceONeill"
     title: "Terence O'Neill"
     url: "/wiki/entities/terenceoneill/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger](sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702.md) — All-In interview with Gwynne Shotwell and Elon Musk on SpaceX operating culture, Starlink direct-to-cell, orbital AI compute, frontier model peer review, Starship reusability milestones, Terafab chip supply, and Tesla-SpaceX collaboration.
 - [Thrive Causemetics: Karissa Bodnar. How $150 a Day in Sales Turned into a $150 Million Beauty Business with a Mission](sources/thrive-causemetics-karissa-bodnar-how-150-a-day-in-sales-turned-into-a-150-million-beauty-business-with-a-mission-be72ee5e-a5fd-4554-bd4d-fda64909e6f6.md) — How I Built This episode on Karissa Bodnar, Thrive Causemetics, mission-constrained beauty products, DTC breakout, formulation control, lean operations, and founder control.
 - [The Art of True Happiness | Dr. Arthur Brooks](sources/the-art-of-true-happiness-dr-arthur-brooks-scim2290485637.md) — Huberman Lab episode with Arthur Brooks on happiness as enjoyment, satisfaction, and meaning; pleasure versus enjoyment; struggle-based satisfaction; idols; faith; service; and practice before feeling.
 - [Strait and narrowing: the Houthis' striking advance](sources/strait-and-narrowing-the-houthis-striking-advance-6aa7c25aff74edfd002ca6c7.md) — The Intelligence episode on Houthi coastal gains, Saudi and oil-route pressure, Trump voter-coalition erosion, and Hollywood nepotism.
@@ -6597,7 +6598,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in All-In episodes on secondaries, AI IPO disclosure, enterprise token ROI, and Trump accounts.
 - [Michael Dell](entities/MichaelDell.md) — Technology founder and philanthropic donor named by Brad Gerstner in the Trump accounts discussion.
 - [Susan Dell](entities/SusanDell.md) — Philanthropic donor named with Michael Dell in the Trump accounts discussion.
-- [Gwen Shotwell](entities/GwenShotwell.md) — SpaceX executive named by Brad Gerstner as contributing SpaceX shares to the Trump accounts effort.
+- [Gwynne Shotwell](entities/GwenShotwell.md) — SpaceX president and COO whose All-In interview links early sales, NASA contracts, customer focus, Starlink, orbital compute, and Terafab execution.
+- [Terafab](entities/Terafab.md) — Tesla/SpaceX chip-manufacturing initiative framed by Elon Musk as a Taiwan-risk hedge and AI-scaling supply constraint.
 - [Vlad Tenev](entities/VladTenev.md) — Robinhood co-founder and Trump accounts execution-team participant named in the All-In source.
 - [ElevenLabs](entities/ElevenLabs.md) — AI audio company used in the episode as an application-layer example for specialized models and model fungibility.
 - [Gavin Baker](entities/GavinBaker.md) — Atreides Management investor voice connecting public-market discipline, HBM/DRAM bottlenecks, Chinese open-weight model routing, and AI IPO mechanics.

@@ -2,32 +2,57 @@
 title: "Starship"
 type: entity
 tags: [spacecraft, spacex, launch, mars]
-sources: [tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128, 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou, ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0, tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio, e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793, all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]
-last_updated: 2026-08-25
+knowledge_schema: synthesis-v1
+sources:
+  - tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128
+  - 145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou
+  - ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0
+  - tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio
+  - e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793
+  - all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555
+  - all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702
+last_updated: 2026-09-15
 ---
 
 # Starship
 
-[[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] adds Starship as the near-term deployment lever for V3 [[Starlink]] satellites. The hosts treat recent flight-test progress, heat-shield work, and launch cadence as the mechanism that could translate [[SpaceX]] rocket iteration into much higher satellite bandwidth and a stronger public-market infrastructure story.
+## Overview
+Starship is [[SpaceX]]'s next-generation launch and spacecraft system, framed across the wiki as the scale jump after [[Falcon9]] for Mars transport, high-cadence satellite deployment, full reusability, and possible [[SpaceBasedAIInfrastructure]].
 
-Starship is the next-generation SpaceX launch and spacecraft system discussed in [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]]. [[LouisHong]] says the underlying idea was already forming around 2012 because [[Falcon9]] and earlier vehicles could not satisfy the company's long-term Mars and large-scale space ambitions.
+## Current Profile
+The Starship synthesis is still conditional: sources treat it as the vehicle that could change launch cost and cadence, but also as the bottleneck on several SpaceX narratives. Earlier sources tied Starship to Mars, V3 [[Starlink]], xAI/SpaceX bundling, rocket-recovery architecture, and orbital compute economics. The newest All-In source adds [[ElonMusk]]'s near-term milestone claim that flight 14 would precede a possible ship-catch attempt on flight 15, with full ship-plus-booster reflight possible by late 2026 or more likely early 2027 if tests go well.
 
-In the source, Starship is the planned scale jump after Falcon 9. [[Falcon9]] made reuse and repeated launch operations credible, while Starship is framed as an attempt to lower cost per kilogram further, carry far more mass or people, and make [[SpaceEconomyInfrastructure]] more expansive.
+## Key Characteristics
+- Successor platform to Falcon 9, intended to carry much more mass and eventually support full and rapid reusability.
+- Central dependency for SpaceX's Mars ambitions and large-scale [[SpaceEconomyInfrastructure]] scenarios.
+- Deployment lever for next-generation Starlink capacity and possible AI compute satellites.
+- Technical gate for orbital compute economics because launch price, cadence, payload mass, and reflight turnaround determine whether large orbital systems are feasible.
+- Recovery architecture differs from Falcon 9 by concentrating more ambition and risk in tower catch and rapid pad-side reuse.
+- Still source-scoped on exact launch-cost, catch, and reflight timelines.
 
-[[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] adds a near-term skepticism layer. The episode says Musk connected the [[SpaceX]] and [[XAI|xAI]] deal to space-based data centers, but [[PareshDave]] says one investor viewed those data centers as dependent on Starship becoming successful; the source also notes that Starship had launched about a dozen times, had only a couple of successes, and still had launch-cost estimates above $100 million.
+## Evidence
+- Scale jump and Mars role: [[145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou]] says Starship was forming around 2012 because Falcon 9 and earlier vehicles could not satisfy SpaceX's long-term Mars and large-scale space ambitions.
+- Full-reuse benchmark: [[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] treats Starship as the outside benchmark for full reusability while preserving that the source's 2025 account had not yet seen it reach that state.
+- Recovery-route tradeoff: [[ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]] contrasts Starship's tower-catch route with Falcon 9 landing legs and [[LongMarch10B]] sea-net recovery.
+- Orbital-compute scaling: [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] models a 1GW orbital-compute target as roughly a 100-Starship-launch problem under its stated 100kW-unit assumptions.
+- xAI and SpaceX conditionality: [[tech-20260206-0206-mp-tech-pod-128-tech-20260206-0206-mp-tech-pod-128]] says space-based data centers in the xAI/SpaceX story depend on Starship becoming successful.
+- Starlink capacity: [[all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555]] treats Starship-enabled V3 satellite deployment as key to future Starlink capacity.
+- New milestone claim: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]] says Musk expects flight 14 to be the last before a ship-catch attempt, names flight 15 as the possible catch attempt, and says full rapid reflight could happen by late 2026 or more likely early 2027 if tests go well.
 
-[[ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0]] adds Starship as the tower-catch comparison in [[RocketRecoveryRouteChoice]]. The episode treats its "chopsticks" route as a high-cadence ambition that avoids landing legs, but also concentrates risk in the tower, hovering/alignment control, and launch-site infrastructure.
+## Qualifications
+Starship remains a high-consequence engineering program rather than a settled infrastructure layer. The source set contains optimistic claims about rapid reusability, launch-cost improvement, orbital compute, and Mars transport, but those claims depend on demonstrated ship catch, refurbishment, reflight, payload deployment, manufacturing cadence, and operational reliability. The newest flight timing is preserved as Musk's source-scoped forecast, not as a verified schedule.
 
-[[tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio]] adds Starship as the benchmark for full reusability that [[Stoke|Stoke Space]] watches from outside. [[AndyLapsa]] says Starship is intended to be fully reusable, but in the source's 2025-09-29 account it had not yet reached that state, preserving the broader [[SecondStageReuseConstraint]] problem.
+## What Changed
+- Added Musk's All-In source-scoped forecast for flight 14, a possible flight 15 ship catch, and late-2026 to early-2027 full reflight.
+- Connected Starship more explicitly to AI compute satellites and the latest SpaceX orbital-infrastructure plan.
+- Migrated the page into the synthesis-first entity schema.
 
-[[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] adds Starship as the scaling assumption behind [[OrbitalDataCenterEconomics]]. [[LouisHong]] estimates that one Starship launch could carry around 100 100kW orbital compute units, making a 1GW target roughly a 100-launch problem if recovery, cadence, and satellite production improve enough. [[LiuBinyan]] accepts that the launch-count side may be possible while doubting that the resulting data center is economically necessary.
-
-## Connections
-- [[Starlink]], [[SpaceX]], [[AIComputePriceRisk]], and [[AIInfrastructureDebtFinancing]] - August 8 All-In branch where Starship enables V3 satellite deployment and supports the public-market growth story.
-- [[SpaceX]] and [[ElonMusk]] — company and leader behind the source's Starship framing.
-- [[Falcon9]] — prior reusable-launch platform and production stepping stone.
-- [[RocketRecoveryRouteChoice]], [[SeaNetRocketRecovery]], and [[LongMarch10B]] — recovery-architecture comparison added by S10E21.
-- [[ReusableRocketEconomics]] and [[SecondStageReuseConstraint]] — economic logic Starship aims to extend by making upper-stage reuse practical.
-- [[SpaceEconomyInfrastructure]] and [[SpaceBasedAIInfrastructure]] — downstream applications that become more plausible if Starship lowers launch cost.
-- [[OrbitalDataCenterEconomics]], [[Starbase]], and [[MoonMarsStrategySplit]] - E239's compute-scaling and destination-strategy branch.
-- [[XAI|xAI]], [[Grok]], and [[AIIPOValuation]] — AI and capital-market context added by Marketplace Tech.
+## Relationships
+- [[SpaceX]] - developer and operator of Starship.
+- [[ElonMusk]] - leader giving the newest flight and reusability forecast.
+- [[GwenShotwell|Gwynne Shotwell]] - executive connecting Starship to self-obsolescence, Mars transport, and SpaceX operations.
+- [[Falcon9]] - reusable predecessor whose economics Starship is meant to extend.
+- [[Starlink]] - satellite network whose next capacity layer depends partly on Starship deployment.
+- [[ReusableRocketEconomics]] - economic logic Starship aims to deepen through full reuse.
+- [[SecondStageReuseConstraint]] - bottleneck Starship tries to solve by reusing the ship as well as the booster.
+- [[SpaceBasedAIInfrastructure]] - downstream orbital-compute scenario enabled only if Starship economics and cadence improve.

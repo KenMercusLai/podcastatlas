@@ -2259,7 +2259,7 @@ topic_entities:
     title: "Gustave Le Bon / 古斯塔夫·勒庞"
     url: "/wiki/entities/gustavelebon/"
   - key: "GwenShotwell"
-    title: "Gwen Shotwell"
+    title: "Gwynne Shotwell"
     url: "/wiki/entities/gwenshotwell/"
   - key: "HealthyBaby"
     title: "Healthy Baby"
