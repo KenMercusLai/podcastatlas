@@ -17043,6 +17043,10 @@
     "title": "Desire-Driven Command Exposure / 私欲驱动的统帅暴露",
     "url": "/wiki/concepts/desiredrivencommandexposure/"
   },
+  "DesireGovernanceFitness": {
+    "title": "Desire Governance Fitness / 欲望治理适任性",
+    "url": "/wiki/concepts/desiregovernancefitness/"
+  },
   "Desktop3DPrintingEconomy": {
     "title": "Desktop 3D Printing Economy",
     "url": "/wiki/concepts/desktop3dprintingeconomy/"
@@ -37103,6 +37107,10 @@
     "title": "梁王刘畅 / Liu Chang (King of Liang)",
     "url": "/wiki/entities/liuchangliangking/"
   },
+  "LiuChangWushiHouWesternHan": {
+    "title": "武始侯刘昌 / Liu Chang, Wushi Marquis (Western Han)",
+    "url": "/wiki/entities/liuchangwushihouwesternhan/"
+  },
   "LiuChangleWesternHan": {
     "title": "刘长乐 / Liu Changle (Western Han)",
     "url": "/wiki/entities/liuchanglewesternhan/"
@@ -37167,6 +37175,10 @@
     "title": "刘飞",
     "url": "/wiki/entities/liufei/"
   },
+  "LiuFeiJiangduKingWesternHan": {
+    "title": "江都王刘非 / Liu Fei, Jiangdu King (Western Han)",
+    "url": "/wiki/entities/liufeijiangdukingwesternhan/"
+  },
   "LiuFeiQiKing": {
     "title": "刘肥 / Liu Fei (Qi king)",
     "url": "/wiki/entities/liufeiqiking/"
@@ -37226,6 +37238,10 @@
   "LiuJiaShuailiHou": {
     "title": "刘嘉 / Liu Jia, Shuaili Hou",
     "url": "/wiki/entities/liujiashuailihou/"
+  },
+  "LiuJianJiangduKingWesternHan": {
+    "title": "江都王刘建 / Liu Jian, Jiangdu King (Western Han)",
+    "url": "/wiki/entities/liujianjiangdukingwesternhan/"
   },
   "LiuJiao": {
     "title": "刘交 / Liu Jiao",
@@ -37310,6 +37326,10 @@
   "LiuNaLateHan": {
     "title": "刘纳 / Liu Na (late Han)",
     "url": "/wiki/entities/liunalatehan/"
+  },
+  "LiuNaoziWesternHan": {
+    "title": "刘淖子 / Liu Naozi (Western Han)",
+    "url": "/wiki/entities/liunaoziwesternhan/"
   },
   "LiuPengzuZhaoKingWesternHan": {
     "title": "赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)",
@@ -44443,6 +44463,10 @@
     "title": "Number 10 North",
     "url": "/wiki/entities/number10north/"
   },
+  "NuoJiWesternHan": {
+    "title": "淖姬 / Nuo Ji (Western Han)",
+    "url": "/wiki/entities/nuojiwesternhan/"
+  },
   "NushiShijie": {
     "title": "《女子世界》",
     "url": "/wiki/entities/nushishijie/"
@@ -48814,6 +48838,10 @@
   "PrinceShenWei": {
     "title": "太子申 / Prince Shen of Wei",
     "url": "/wiki/entities/princeshenwei/"
+  },
+  "PrincelyConsortDependency": {
+    "title": "Princely Consort Dependency / 诸侯妃妾依附风险",
+    "url": "/wiki/concepts/princelyconsortdependency/"
   },
   "PrincesInTheTower": {
     "title": "Princes in the Tower / 塔中王子案",
@@ -76818,6 +76846,10 @@
   "zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto": {
     "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
+  },
+  "zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy": {
+    "title": "《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy/"
   },
   "zizhi-tongjian-hanji-383-2-chengxiang-gongsunhe-shi-ruhe-bei-erzi-kengsi-de-lt1yhocymjtgwjb7537yotbwoikz": {
     "title": "《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7464
+wiki_total_pages: 7466
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "DesirableDifficulty"
     title: "Desirable Difficulty"
     url: "/wiki/concepts/desirabledifficulty/"
+  - key: "DesireGovernanceFitness"
+    title: "Desire Governance Fitness / 欲望治理适任性"
+    url: "/wiki/concepts/desiregovernancefitness/"
   - key: "DesireCapacityFit"
     title: "Desire-Capacity Fit / 欲望与能力匹配"
     url: "/wiki/concepts/desirecapacityfit/"

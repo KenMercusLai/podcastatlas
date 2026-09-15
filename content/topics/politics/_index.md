@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2536
+topic_total_pages: 2537
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -925,6 +925,9 @@ topic_concepts:
   - key: "DemocraticTransitionElection"
     title: "Democratic Transition Election"
     url: "/wiki/concepts/democratictransitionelection/"
+  - key: "DesireGovernanceFitness"
+    title: "Desire Governance Fitness / 欲望治理适任性"
+    url: "/wiki/concepts/desiregovernancefitness/"
   - key: "DeterministicLegalAIControls"
     title: "Deterministic Legal AI Controls"
     url: "/wiki/concepts/deterministiclegalaicontrols/"

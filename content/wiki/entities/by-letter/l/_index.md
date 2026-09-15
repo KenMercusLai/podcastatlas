@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10143
+wiki_total_pages: 10148
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "LiuYangyang"
     title: "刘洋洋 / Liu Yangyang"
     url: "/wiki/entities/liuyangyang/"
+  - key: "LiuNaoziWesternHan"
+    title: "刘淖子 / Liu Naozi (Western Han)"
+    url: "/wiki/entities/liunaoziwesternhan/"
   - key: "LiuBiWuKing"
     title: "刘濞 / Liu Bi (King of Wu)"
     url: "/wiki/entities/liubiwuking/"
@@ -1853,9 +1856,18 @@ wiki_pages:
   - key: "LouHuan"
     title: "楼缓 / Lou Huan"
     url: "/wiki/entities/louhuan/"
+  - key: "LiuChangWushiHouWesternHan"
+    title: "武始侯刘昌 / Liu Chang, Wushi Marquis (Western Han)"
+    url: "/wiki/entities/liuchangwushihouwesternhan/"
   - key: "LiuJiaHanzhongKingEasternHan"
     title: "汉中王刘嘉 / Liu Jia, Hanzhong King (Eastern Han)"
     url: "/wiki/entities/liujiahanzhongkingeasternhan/"
+  - key: "LiuJianJiangduKingWesternHan"
+    title: "江都王刘建 / Liu Jian, Jiangdu King (Western Han)"
+    url: "/wiki/entities/liujianjiangdukingwesternhan/"
+  - key: "LiuFeiJiangduKingWesternHan"
+    title: "江都王刘非 / Liu Fei, Jiangdu King (Western Han)"
+    url: "/wiki/entities/liufeijiangdukingwesternhan/"
   - key: "LiuFuPeiKingEasternHan"
     title: "沛王刘辅 / Liu Fu, Pei King (Eastern Han)"
     url: "/wiki/entities/liufupeikingeasternhan/"

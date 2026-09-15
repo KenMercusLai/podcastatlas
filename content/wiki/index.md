@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生](sources/zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy.md) — 芮淇讲透资治通鉴 short episode on Nuo Ji's movement across Liu Fei, Liu Jian, and Liu Pengzu, the failed Zhao succession of Liu Naozi, and desire as a governance-fitness test.
 - [《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生](sources/zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t.md) — 芮淇讲透资治通鉴 episode on Lady Gouyi's discovery legend, Liu Fuling's fourteen-month birth story, the "尧母门" succession signal, and its Wugu background risk.
 - [《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？](sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto.md) — 芮淇讲透资治通鉴 short episode on Jiang Chong's Zhao conflict, accusation against Zhao heir Liu Dan, Xiuyi inspection role, and Chi Road grievance with Crown Prince Liu Ju.
 - [Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger](sources/all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702.md) — All-In interview with Gwynne Shotwell and Elon Musk on SpaceX operating culture, Starlink direct-to-cell, orbital AI compute, frontier model peer review, Starship reusability milestones, Terafab chip supply, and Tesla-SpaceX collaboration.
@@ -2488,6 +2489,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [淖姬 / Nuo Ji (Western Han)](entities/NuoJiWesternHan.md) — Western Han consort whose movement across Liu Fei, Liu Jian, and Liu Pengzu shows princely-household dependency and succession exposure.
+- [江都王刘非 / Liu Fei, Jiangdu King (Western Han)](entities/LiuFeiJiangduKingWesternHan.md) — Western Han Jiangdu king whose heroic image, attachment to Nuo Ji, and early death frame her later vulnerability.
+- [江都王刘建 / Liu Jian, Jiangdu King (Western Han)](entities/LiuJianJiangduKingWesternHan.md) — Liu Fei's Jiangdu successor who seizes Nuo Ji and later dies after a rebellion accusation.
+- [刘淖子 / Liu Naozi (Western Han)](entities/LiuNaoziWesternHan.md) — Nuo Ji and Liu Pengzu's son whose "too many desires" reputation blocks his Zhao succession.
+- [武始侯刘昌 / Liu Chang, Wushi Marquis (Western Han)](entities/LiuChangWushiHouWesternHan.md) — low-risk Zhao successor chosen by Han Wudi after Liu Naozi is rejected.
 - [Karissa Bodnar](entities/KarissaBodnar.md) — Founder of Thrive Causemetics whose episode links personal loss, beauty product development, DTC feedback, lean operations, and founder control.
 - [Thrive Causemetics](entities/ThriveCausemetics.md) — Mission-driven beauty company built around product performance, giving, formulation control, and direct customer feedback.
 - [Christie Lamond](entities/ChristieLamond.md) — Karissa Bodnar's friend whose cancer experience and death shaped the mission behind Thrive Causemetics.
@@ -12636,6 +12642,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Princely Consort Dependency / 诸侯妃妾依附风险](concepts/PrincelyConsortDependency.md) — risk that consort security and child prospects depend on changing princely household power rather than durable personal agency.
+- [Desire Governance Fitness / 欲望治理适任性](concepts/DesireGovernanceFitness.md) — succession and leadership principle that excessive desire makes a candidate unsafe to govern others.
 - [Mission Constrained Product Development](concepts/MissionConstrainedProductDevelopment.md) — Product-development pattern where purpose becomes concrete user, safety, ingredient, or performance constraints.
 - [Beauty Formulation Control](concepts/BeautyFormulationControl.md) — Beauty-brand moat from owned formulas, chemistry capability, supplier exclusivity, and contracts rather than factory ownership alone.
 - [Direct Customer Feedback Loop](concepts/DirectCustomerFeedbackLoop.md) — Learning system from direct customer comments, sales changes, support issues, and product requests.

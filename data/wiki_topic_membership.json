@@ -20825,6 +20825,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DesireGovernanceFitness": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Desktop3DPrintingEconomy": [
     {
       "key": "technology",

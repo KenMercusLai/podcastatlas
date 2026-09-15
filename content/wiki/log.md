@@ -19784,6 +19784,10 @@ Added source `182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanw
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-15] ingest | 《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生
+
+Added source `zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy`; created Nuo Ji, Liu Fei Jiangdu King, Liu Jian Jiangdu King, Liu Naozi, Liu Chang Wushi Marquis, Princely Consort Dependency, and Desire Governance Fitness pages; updated Liu Pengzu with the later Nuo Ji and Zhao succession branch. No settled contradiction found; Nuo Ji's inner life, Jiangdu/Zhao succession procedure, Liu Jian's rebellion case, tomb-object interpretation, and Liu Naozi/Liu Chang character judgments remain source-scoped.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？
 
 Added source `zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto`; created `LiuDanZhaoPrinceWesternHan` and `LiuPengzuZhaoKingWesternHan`; updated `JiangChongWesternHan`, `LiuJuCrownPrinceWesternHan`, `WuguIncidentWesternHan`, `XiuyiEnvoyImperialSurveillance`, `index`, and `overview` with Jiang Chong's Zhao conflict, accusation against Liu Dan, emperor-direct inspection role, and Chi Road grievance with Liu Ju. No settled contradiction found; Liu Dan's scandal, Liu Pengzu's plea, Jiang Chong's office sequence, Chi Road law, and Taishi/Zhenghe chronology remain source-scoped.
@@ -19862,6 +19866,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

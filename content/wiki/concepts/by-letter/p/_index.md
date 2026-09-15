@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7464
+wiki_total_pages: 7466
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1259,6 +1259,9 @@ wiki_pages:
   - key: "PrimingAndStereotypeMemory"
     title: "Priming And Stereotype Memory / 启动效应与刻板印象记忆"
     url: "/wiki/concepts/primingandstereotypememory/"
+  - key: "PrincelyConsortDependency"
+    title: "Princely Consort Dependency / 诸侯妃妾依附风险"
+    url: "/wiki/concepts/princelyconsortdependency/"
   - key: "PrincipledDisobedience"
     title: "Principled Disobedience / 原则性不服从"
     url: "/wiki/concepts/principleddisobedience/"

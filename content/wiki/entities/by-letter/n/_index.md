@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10143
+wiki_total_pages: 10148
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "NumagamiRenji"
     title: "沼上蓮次 / Numagami Renji"
     url: "/wiki/entities/numagamirenji/"
+  - key: "NuoJiWesternHan"
+    title: "淖姬 / Nuo Ji (Western Han)"
+    url: "/wiki/entities/nuojiwesternhan/"
   - key: "NiuSengru"
     title: "牛僧儒"
     url: "/wiki/entities/niusengru/"
