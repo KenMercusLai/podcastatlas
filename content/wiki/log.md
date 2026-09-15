@@ -19784,6 +19784,10 @@ Added source `182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanw
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-15] ingest | 《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生
+
+Added source note for Hanji 381-2. Key claims: Lady Gouyi's discovery legend and Liu Fuling's fourteen-month birth story give the later child emperor an auspicious aura; Han Wudi's "尧母门" naming publicly elevates Liu Fuling while Liu Ju remains crown prince; Sima Guang's criticism frames the gesture as a dangerous succession signal that can invite court actors to infer hidden imperial intent before the Wugu crisis.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》383-2｜丞相公孙贺是如何被儿子坑死的？
 
 Added source note for Hanji 383-2. Key claims: Gongsun Jingsheng's taipu-era North Army fund embezzlement pushes Gongsun He into a capture-for-pardon bargain; Zhu Anshi's retaliatory accusation turns the case into adultery and wugu charges; Han Wudi's illness and fear of curse harm make the accusation lethal before the broader Wugu support-network purge.
@@ -19854,6 +19858,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 
