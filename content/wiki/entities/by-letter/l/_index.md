@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10148
+wiki_total_pages: 10153
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1532,6 +1532,9 @@ wiki_pages:
   - key: "LiZuoChe"
     title: "李左车 / Li Zuoche"
     url: "/wiki/entities/lizuoche/"
+  - key: "LiGuangHanGeneral"
+    title: "李广 / Li Guang (Western Han general)"
+    url: "/wiki/entities/liguanghangeneral/"
   - key: "LiGuangliWesternHan"
     title: "李广利 / Li Guangli (Western Han)"
     url: "/wiki/entities/liguangliwesternhan/"
@@ -1643,6 +1646,9 @@ wiki_pages:
   - key: "LiJiHistorian"
     title: "李纪 / Li Ji (historian)"
     url: "/wiki/entities/lijihistorian/"
+  - key: "LiXuWesternHan"
+    title: "李绪 / Li Xu (Western Han)"
+    url: "/wiki/entities/lixuwesternhan/"
   - key: "LiWeiSanlian"
     title: "李维 / Li Wei (Sanlian)"
     url: "/wiki/entities/liweisanlian/"
@@ -1976,6 +1982,9 @@ wiki_pages:
   - key: "LiuPengzuZhaoKingWesternHan"
     title: "赵敬肃王刘彭祖 / Liu Pengzu, Zhao King (Western Han)"
     url: "/wiki/entities/liupengzuzhaokingwesternhan/"
+  - key: "LuBodeWesternHan"
+    title: "路博德 / Lu Bode (Western Han)"
+    url: "/wiki/entities/lubodewesternhan/"
   - key: "LuWenshuWesternHan"
     title: "路温舒 / Lu Wenshu (Western Han)"
     url: "/wiki/entities/luwenshuwesternhan/"

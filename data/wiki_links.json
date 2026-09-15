@@ -25563,6 +25563,10 @@
     "title": "公叔 / Gongshu (Wei chancellor)",
     "url": "/wiki/entities/gongshuweichancellor/"
   },
+  "GongsunAoWesternHan": {
+    "title": "公孙敖 / Gongsun Ao (Western Han)",
+    "url": "/wiki/entities/gongsunaowesternhan/"
+  },
   "GongsunCao": {
     "title": "公孙操 / Gongsun Cao",
     "url": "/wiki/entities/gongsuncao/"
@@ -27094,6 +27098,10 @@
   "HanShu": {
     "title": "Han Shu / 《汉书》",
     "url": "/wiki/entities/hanshu/"
+  },
+  "HanShuoWesternHan": {
+    "title": "韩说 / Han Shuo (Western Han)",
+    "url": "/wiki/entities/hanshuowesternhan/"
   },
   "HanSong": {
     "title": "Han Song / 韩松",
@@ -36075,6 +36083,10 @@
     "title": "李固 / Li Gu (late Han)",
     "url": "/wiki/entities/ligulatehan/"
   },
+  "LiGuangHanGeneral": {
+    "title": "李广 / Li Guang (Western Han general)",
+    "url": "/wiki/entities/liguanghangeneral/"
+  },
   "LiGuangliWesternHan": {
     "title": "李广利 / Li Guangli (Western Han)",
     "url": "/wiki/entities/liguangliwesternhan/"
@@ -36374,6 +36386,10 @@
   "LiXu": {
     "title": "李煦 / Li Xu",
     "url": "/wiki/entities/lixu/"
+  },
+  "LiXuWesternHan": {
+    "title": "李绪 / Li Xu (Western Han)",
+    "url": "/wiki/entities/lixuwesternhan/"
   },
   "LiXueqin": {
     "title": "李雪琴 / Li Xueqin",
@@ -38390,6 +38406,10 @@
   "LoyaltyCollateralDilemma": {
     "title": "Loyalty-Collateral Dilemma / 忠义牵连困境",
     "url": "/wiki/concepts/loyaltycollateraldilemma/"
+  },
+  "LuBodeWesternHan": {
+    "title": "路博德 / Lu Bode (Western Han)",
+    "url": "/wiki/entities/lubodewesternhan/"
   },
   "LuBuwei": {
     "title": "吕不韦 / Lu Buwei",
@@ -76858,6 +76878,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89": {
+    "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
   },
   "zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t": {
     "title": "《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生",

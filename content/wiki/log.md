@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-15] ingest | 《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？
+
+Added source `zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89`; created `LiGuangHanGeneral`, `LuBodeWesternHan`, `HanShuoWesternHan`, `GongsunAoWesternHan`, and `LiXuWesternHan`; updated `LiLingWesternHan` with Li Guang family reputation, active frontier service, isolated infantry defeat, surrender to Xiongnu, Li Xu blame-transfer preview, and family destruction as the missing origin layer before Hanji 398's Su Wu persuasion scene. No settled contradiction found; Junji Mountain tactics, the betrayer, Li Xu's full event, and legal procedure remain source-scoped.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》383-1｜汉代最大悲剧，“巫蛊之祸”是如何发生的？
 
 Added source `zizhi-tongjian-hanji-383-1-handai-zuidade-beiju-wugu-zhi-huo-shi-ruhe-fasheng-de-lq4bhut-ibarqqr1yfdqtqti2dbi`; updated `WuguIncidentWesternHan`, `WuguPoliticalPanic`, and `GongsunHeWesternHan` with the early Wugu opening frame around Han Wudi's late-life fear, the 92 BCE Jianzhang Palace armed-man scare and Chang'an lockdown, and Gongsun He as Liu Ju's important remaining Wei-family support. No settled contradiction found; Wudi's psychology, the full security case, and later Wugu prosecution details remain source-scoped.
@@ -19874,6 +19878,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

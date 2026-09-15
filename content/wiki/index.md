@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？](sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89.md) — 芮淇讲透资治通鉴 short episode on Li Ling's family reputation, infantry defeat, surrender to Xiongnu, late-Han-Wudi war finance, and the tragedy later enlarged by blame transfer and family destruction.
 - [SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-ipo-iran-war-fallout-quantum-bitcoin-hack-the-space-opportunity-40728755.md) — All-In episode on SpaceX's reported IPO, lunar industrialization, large IPO capital absorption, Iran-war fertilizer and energy shocks, and quantum risk to Bitcoin and encryption.
 - [《资治通鉴·汉纪》382-2｜一生做过三位诸侯妃子，古代超美淖姬的悲情人生](sources/zizhi-tongjian-hanji-382-2-yisheng-zuoguo-sanwei-zhuhou-feizi-gudai-chaomei-nuoji-de-beiqing-rensheng-lt06-as48q9qlpt_-dfdx_jsidjy.md) — 芮淇讲透资治通鉴 short episode on Nuo Ji's movement across Liu Fei, Liu Jian, and Liu Pengzu, the failed Zhao succession of Liu Naozi, and desire as a governance-fitness test.
 - [《资治通鉴·汉纪》381-2｜怀胎14个月产子，揭秘钩弋夫人的传奇人生](sources/zizhi-tongjian-hanji-381-2-huaitai-14geyue-chanzi-jiemi-gouyi-furen-de-chuanqi-rensheng-lvfj365_foqcmyintojfl7pj4f2t.md) — 芮淇讲透资治通鉴 episode on Lady Gouyi's discovery legend, Liu Fuling's fourteen-month birth story, the "尧母门" succession signal, and its Wugu background risk.
@@ -2605,7 +2606,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
 - [苏武 / Su Wu (Western Han)](entities/SuWuWesternHan.md) — Western Han envoy whose Xiongnu exile, staff-holding refusal, mourning, and return define Hanji 398's loyalty case.
-- [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Surrendered former Han officer whose failed persuasion of Su Wu becomes Hanji 398's tragic contrast.
+- [李广 / Li Guang (Western Han general)](entities/LiGuangHanGeneral.md) — Famous Western Han general whose family reputation frames Li Ling's surrender tragedy in Hanji 380-1.
+- [李陵 / Li Ling (Western Han)](entities/LiLingWesternHan.md) — Surrendered former Han officer whose Li Guang lineage, infantry defeat, family destruction, and later failed persuasion of Su Wu make him a tragic contrast rather than a flat defector.
+- [路博德 / Lu Bode (Western Han)](entities/LuBodeWesternHan.md) — Qiangnu Duwei assigned to join Li Guangli's anti-Xiongnu expedition in Hanji 380-1.
+- [韩说 / Han Shuo (Western Han)](entities/HanShuoWesternHan.md) — Youji General whose Wuyuan infantry force returns without achievement in Hanji 380-1's anti-Xiongnu campaign.
+- [公孙敖 / Gongsun Ao (Western Han)](entities/GongsunAoWesternHan.md) — Yinwu General defeated by the Xiongnu Left Worthy King during Hanji 380-1's campaign context.
+- [李绪 / Li Xu (Western Han)](entities/LiXuWesternHan.md) — Source-scoped blame-transfer figure tied to Li Ling's later family-destruction tragedy.
 - [Ming Dynasty / 明朝](entities/MingDynasty.md) — Dynasty used by Hanji 422-2 as the institutionalized tribute-economy case around贡物 pricing,回赐, hosted reception, and tribute access conflict.
 - [朱元璋 / Zhu Yuanzhang](entities/ZhuYuanzhang.md) — Founding Ming ruler used by Hanji 400-2 to show household, occupation, clothing, and everyday object rules as social-order statecraft.
 - [Qing Dynasty / 清朝](entities/QingDynasty.md) — Dynasty used by Hanji 422-2 as the treaty-era case where inherited tribute hierarchy collides with resident-envoy diplomacy.

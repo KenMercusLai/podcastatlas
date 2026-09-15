@@ -42641,6 +42641,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gongfuxiong/"
     },
+    "GongsunAoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
+          "key": "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/gongsunaowesternhan/"
+    },
     "GongsunHeWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -45676,6 +45692,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/hanshu/"
+    },
+    "HanShuoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
+          "key": "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/hanshuowesternhan/"
     },
     "HanSongLateHan": {
       "episode_count": 2,
@@ -60880,6 +60912,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/ligulatehan/"
     },
+    "LiGuangHanGeneral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
+          "key": "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/liguanghangeneral/"
+    },
     "LiGuangliWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -61000,9 +61048,9 @@
       "url": "/wiki/entities/lijunrongfootballhistorian/"
     },
     "LiLingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
@@ -61010,9 +61058,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
           "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
+          "key": "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/lilingwesternhan/"
     },
     "LiLongjiTang": {
@@ -61308,6 +61363,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/lixielatehan/"
+    },
+    "LiXuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
+          "key": "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/lixuwesternhan/"
     },
     "LiXunFloodControlWesternHan": {
       "episode_count": 1,
@@ -66768,6 +66839,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/loyaltycollateraldilemma/"
+    },
+    "LuBodeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？ [ls70JNzyBC7Z3of-TPFBDWb9Ns89].md",
+          "key": "zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/lubodewesternhan/"
     },
     "LuDapeng": {
       "episode_count": 2,
