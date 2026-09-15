@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境](sources/182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8.md) — 起朱楼宴宾客 episode with David Weng and Ricky on Q3 2026 markets, high U.S. funding costs, AI capex prisoner dilemmas, China weak-demand repair, gold/A-share/dividend positioning, and defensive allocation.
 - [图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博](sources/tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463.md) — 声动早咖啡 roundup on Alo's celebrity-led China push, Dior/A24 cultural partnership, battery supplier diversification, AI short-drama oversupply, Haitian buying Amoy, Aldi lookalike risk, and packaged ice-cream pressure.
 - [Vol.352 无人观看：自我差异性极大，外部相似性极强的我们](sources/vol-352-wuren-guankan-ziwo-chayixing-jida-waibu-xiangsixing-jiqiang-de-women-gkwrijiofxaxaq8boatxoohj.md) — 文化有限 episode on Liu Tianzhao's Unwatched, AI-era selfhood, urban middle-class fatigue, spectacle society, and limited watching.
 - [《资治通鉴·汉纪》384-1｜翻脸无情，汉武帝摧毁卫青家族！](sources/zizhi-tongjian-hanji-384-1-fanlian-wuqing-hanwudi-cuihui-weiqing-jiazu-lp-rwqpmccvlaochibspvikhb96z.md) — 芮淇讲透资治通鉴 short episode on the early Wugu purge of Gongsun He, Wei Kang, and Wei-family support around Crown Prince Liu Ju before the later open crisis.

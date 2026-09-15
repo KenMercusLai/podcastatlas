@@ -2,11 +2,13 @@
 title: "Ricky"
 type: entity
 tags: [person, investing, podcast, field-report]
-sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc]
-last_updated: 2026-08-07
+sources: [172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2, 161-quanqiu-hongguan-he-ziben-shichang-2026-yijidu-fupan-yu-zhanwang-lgzjnsgkur1mcrmkqqxsvxhzb0bm, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx, vol-106-dibai-zhende-biandi-shi-huangjin-lpxchutxf7yomjdfykwzvvnmbaq8, 133-quanqiu-hongguan-he-ziben-shichang-2025-nianzhong-pandian-zhongguo-de-sange-wencha-he-meiguo-de-sange-yuqicha-lhj-qcswiuqskvzn-f693vti6xsc, 182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8]
+last_updated: 2026-09-15
 ---
 
 # Ricky
+
+In [[182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8]], Ricky gives the third-quarter 2026 update. He describes markets as "exhausted adjustment," becomes more cautious on U.S. technology because AI commercialization and financing have entered a validation window, stays comparatively constructive on A shares for a possible fourth-quarter rebound, and emphasizes gold, long-duration Chinese bonds, dividend assets, and defensive posture after any rebound.
 
 In [[172-quanqiu-hongguan-he-ziben-shichang-2026-banniandu-fupan-yu-zhanwang-ai-xushi-de-xiayibu-lvj6l-tweuld-gvkpqurqpm4gpt2]], Ricky gives the half-year 2026 update from his [[SiriInvestment|Siri 投资]] role. He treats April hyperscaler capex as the turn that re-lit global AI equities, but says the next stage is more tactical: avoid overheated core AI names, watch trading volume and U.S. capex, keep some technology exposure, and look for peripheral or time-lagged opportunities around China domestic substitution, [[Huawei]], and [[DeepSeek]].
 

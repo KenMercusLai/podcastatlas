@@ -19764,6 +19764,10 @@ Ran lint. See lint-report.md for details.
 
 Added source note for a 文化有限 discussion of 刘天昭's 《无人观看》. Created pages for the author, novel, 有限观看, and 景观中介的自我; updated 文化有限 to include the episode's AI-era selfhood and spectacle-society branch.
 
+## [2026-09-15] ingest | 182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境
+
+Added source `182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8`; updated macro, AI-financing, China-demand, Bessent/Treasury, defensive-dividend, gold, and Ricky/Qizhulou context pages with the Q3 2026 "multiple prisoners' dilemmas" frame. No settled contradiction found; market levels, internal capital-flow estimates, AI revenue timing, midterm-election probabilities, and policy-priority claims remain source-scoped.
+
 ## [2026-09-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19771,6 +19775,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博
 
 Added source `tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463`; created entity pages for Dior, Jonathan Anderson, LVMH, Wang Yibo, Shiseido, CPB, Haitian, Amoy, Sunwoda Power, and CALB; created concepts for celebrity-led market entry, luxury cultural partnership, battery supplier diversification, AI short-drama supply glut, condiment outbound acquisition, private-label lookalike risk, and packaged ice-cream demand pressure. No settled contradiction found; legal claims, settlement details, store counts, market shares, futures prices, and payout figures remain source-scoped.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 

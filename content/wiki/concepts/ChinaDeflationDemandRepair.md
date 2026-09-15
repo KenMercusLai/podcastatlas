@@ -2,11 +2,13 @@
 title: "China Deflation Demand Repair / 中国通缩的需求侧修复"
 type: concept
 tags: [china, deflation, demand, macro]
-sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d]
-last_updated: 2026-08-17
+sources: [jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe, 153-quanqiu-hongguan-he-ziben-shichang-2026-zhanwang-da-nian-zhihou-reng-shi-da-nian-lupeqjdszon-wp5zdq06w3ustw2d, 182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8]
+last_updated: 2026-09-15
 ---
 
 # China Deflation Demand Repair / 中国通缩的需求侧修复
+
+[[182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8]] adds the low-rate/low-borrowing-willingness version. The episode contrasts the United States, where money is expensive but AI investment remains forceful, with China, where borrowing costs are lower but households, firms, and local governments still hesitate because property wealth effects, employment anxiety, income uncertainty, and weak opportunity confidence suppress demand.
 
 [[jifa-dongwu-jingshen-chuangzao-gengduo-jihui-lndyfdmtgo-9l5cr8oy82t1xnlfe]] adds [[ZhouLuohua|周洛华]]'s opportunity-loss version. The source argues that deflation should not be read only as price decline, central-bank balance-sheet contraction, or insufficient monetary policy; it is also the disappearance of believable opportunities, visible in entrepreneurs not investing, young people choosing safer exams, households saving defensively, and trade surpluses expanding because domestic opportunity looks weak.
 
@@ -21,6 +23,7 @@ The concept complements [[ChinaSupplySideClearing]] rather than rejecting it. Su
 - Demand repair links consumption, employment, public services, and wealth effects rather than only product supply.
 - The equity implication is conditional: markets need evidence that policy support is moving from valuation repair to orders, prices, and earnings.
 - Zhou's 面基 source adds that repairing deflation requires restoring opportunity and [[AnimalSpiritsOpportunityActivation|animal spirits]], not only lowering financing cost or increasing money supply.
+- Episode 182 adds a priority qualification: fiscal demand support remains the most direct repair tool in Ricky's view, but markets may have stopped expecting a consumption-first push because security, livelihood floors, and U.S.-China technology competition can outrank reflation.
 
 ## Connections
 - [[AnimalSpiritsOpportunityActivation]], [[RiskCostSeparation]], and [[OpportunityGeneratingDecentralization]] - 面基 opportunity-loss extension.
@@ -28,3 +31,4 @@ The concept complements [[ChinaSupplySideClearing]] rather than rejecting it. Su
 - [[CentralBalanceSheetDemandSupport]], [[LaborShareConsumptionRebalancing]], and [[HouseholdBalanceSheetRepair]] - demand and household-confidence mechanisms.
 - [[ChinaEquityRealEconomyGap]], [[AShareValuationIndicators]], and [[AHShare2025Barbell]] - market confirmation branch.
 - [[ChinaPolicyEasingPivot]] and [[ChinaFiscalExpansionChannels]] - policy environment around demand repair.
+- [[ChinaMacroTemperatureGaps]], [[ChinaEquityStructuralSelection]], and [[ChinaExcessSavingsReallocation]] - episode 182's lived-experience split, technology-equity, and capital-reallocation branch.
