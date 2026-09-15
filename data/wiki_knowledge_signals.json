@@ -10141,6 +10141,29 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/baojuneasternhan/"
     },
+    "BaoShengzhiWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀 [lrvdFIB62oCZCyE7LoQss4-Prkgl].md",
+          "key": "zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》386-2｜帝王无情！皇后卫子夫被迫自杀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-386-2-diwang-wuqing-huanghou-weizifu-beipo-zisha-lrvdfib62oczcy7loqss4-prkgl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者” [lj7nAddQh_ZcDvoliO3u7BJvvOtf].md",
+          "key": "zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
+        }
+      ],
+      "updated": "2026-09-15",
+      "url": "/wiki/entities/baoshengzhiwesternhan/"
+    },
     "BaoSi": {
       "episode_count": 1,
       "show_count": 1,
@@ -16603,9 +16626,9 @@
       "url": "/wiki/entities/cheshihoukingdomxin/"
     },
     "CheshiKingdomWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
@@ -16620,9 +16643,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者” [lj7nAddQh_ZcDvoliO3u7BJvvOtf].md",
+          "key": "zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChestPainEmergencyEscalation": {
@@ -57243,9 +57273,9 @@
       "url": "/wiki/entities/jumikingdomlatehan/"
     },
     "JunBuyiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -57260,9 +57290,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事",
           "url": "/wiki/sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者” [lj7nAddQh_ZcDvoliO3u7BJvvOtf].md",
+          "key": "zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/junbuyiwesternhan/"
     },
     "KFC": {
@@ -108922,9 +108959,9 @@
       "url": "/wiki/entities/wanghaoshuscholar/"
     },
     "WangHeWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？ [lqBLZdg7SDKZln4vXHTNNye92292].md",
@@ -108932,9 +108969,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者” [lj7nAddQh_ZcDvoliO3u7BJvvOtf].md",
+          "key": "zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-15",
       "url": "/wiki/entities/wanghewesternhan/"
     },
     "WangHongEasternHan": {
@@ -115558,9 +115602,9 @@
       "url": "/wiki/entities/xiulichanyu/"
     },
     "XiuyiEnvoyImperialSurveillance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》388-2｜因谗言错杀太子，汉武帝晚年最大的悔恨！ [lm9E_LrBbCC7a6kF22hBIDo4_U73].md",
@@ -115575,6 +115619,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》382-1｜霸占庶母，汉武帝侄子刘丹有多荒堂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-382-1-bazhan-shumu-hanwudi-zhizi-liudan-you-duo-huangtang-loi-6-s1z2okmskqvbfwryz-qjto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者” [lj7nAddQh_ZcDvoliO3u7BJvvOtf].md",
+          "key": "zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf/"
         }
       ],
       "updated": "2026-09-15",

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-15] ingest | 《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”
+
+Added source `zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf`; created `BaoShengzhiWesternHan`; updated `JunBuyiWesternHan`, `WangHeWesternHan`, `XiuyiEnvoyImperialSurveillance`, `CheshiKingdomWesternHan`, overview, and index. Core synthesis: Han Wudi's direct-envoy system joins extraordinary coercive authority with a political demand for punitive obedience; Jun Buyi's moderation counsel and Wang He's bloodless Wei Commandery pacification show that effective governance could still be punished when it failed to display killing as imperial will. No settled contradiction found; transcript names 郡布夷 and 王赫 are normalized to 隽不疑 and 王贺, while Bao's exact title powers, Wang He's legal case, and Kailing marquis/Loulan-Cheshi details remain source-scoped.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？
 
 Added source `zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89`; created `LiGuangHanGeneral`, `LuBodeWesternHan`, `HanShuoWesternHan`, `GongsunAoWesternHan`, and `LiXuWesternHan`; updated `LiLingWesternHan` with Li Guang family reputation, active frontier service, isolated infantry defeat, surrender to Xiongnu, Li Xu blame-transfer preview, and family destruction as the missing origin layer before Hanji 398's Su Wu persuasion scene. No settled contradiction found; Junji Mountain tactics, the betrayer, Li Xu's full event, and legal procedure remain source-scoped.
@@ -19878,6 +19882,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》385-1｜汉朝第一冤案，“巫蛊之祸”是如何发生的？
 
 Added source note for Hanji 385-1. Key claims: wugu belief and palace mutual accusation created a lethal accusation field; Han Wudi's illness, dream fear, and suspicion made him receptive to hidden-harm claims; Jiang Chong's prior conflict with Liu Ju and Wei Zifu gave him motive to seek investigative authority before the manufactured-evidence stage in Hanji 385-2.
+
+## [2026-09-15] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-15] lint | Wiki health check
 
