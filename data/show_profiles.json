@@ -2618,10 +2618,10 @@
       ]
     },
     "硅谷101": {
-      "episode_count": 26,
+      "episode_count": 27,
       "earliest_episode_date": "2026-02-14",
-      "latest_episode_date": "2026-08-27",
-      "latest_episode_file": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破 [73a69583-98ee-43d6-a892-3e7c93012dd9].md",
+      "latest_episode_date": "2026-09-16",
+      "latest_episode_file": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学 [786d63c4-d46c-4ff3-80f8-fc895b2a57f0].md",
       "source_note_count": 26,
       "topic_matched_source_note_count": 22,
       "topics": [
