@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7502
+wiki_total_pages: 7509
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "TactileComfortConsumption"
     title: "Tactile Comfort Consumption / 触感安慰消费"
     url: "/wiki/concepts/tactilecomfortconsumption/"
+  - key: "TactileDataStagingChoice"
+    title: "Tactile Data Staging / 触觉数据暂缓采集"
+    url: "/wiki/concepts/tactiledatastagingchoice/"
   - key: "TactileSensing"
     title: "Tactile Sensing"
     url: "/wiki/concepts/tactilesensing/"

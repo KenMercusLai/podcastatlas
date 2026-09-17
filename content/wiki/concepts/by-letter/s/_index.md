@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7502
+wiki_total_pages: 7509
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "SlownessAsModernityCritique"
     title: "Slowness As Modernity Critique / 作为现代性批判的慢"
     url: "/wiki/concepts/slownessasmodernitycritique/"
+  - key: "SmallBrainActionLayer"
+    title: "Small Brain Action Layer / 小脑（Action Policy）"
+    url: "/wiki/concepts/smallbrainactionlayer/"
   - key: "SmallBusinessFinancingGap"
     title: "Small Business Financing Gap"
     url: "/wiki/concepts/smallbusinessfinancinggap/"

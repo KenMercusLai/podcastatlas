@@ -19958,3 +19958,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-17] ingest | 于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家
+
+Added source `yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr`; created entity pages for 深普智能 / Shenpu Intelligence and 王家伟 / Wang Jiawei; created concept pages for the Action Policy / small brain, the embodied capability framework, embodied context and memory, the robot Agentic OS, UMI-style glove data collection, robot scaling power-law caution, and tactile data staging; extended the general-model robot boundary, robot evaluation problem, egocentric robot data, and ChatGPT 6/Astra pages with the new evidence; updated `index.md`, `overview.md`, and the downstream synthesis artifacts. Core synthesis: Astra's robot-arm demonstration shows general capability spilling into grasping and task planning, but the source draws the boundary at real-time reaction and controllability, so a lower action policy or small brain still has to keep the body stable while the upper brain plans; Shenpu Intelligence answers with a full-stack route built from an adaptability/steerability/context framework, a three-horizon context model, a System 1/System 2 Agentic OS and harness, six-camera UMI-style glove data with over-95% trajectory replay, a staged no-tactile-yet choice, and a power-law-not-scaling-law caution, while the same interview reinforces the robot evaluation problem and the annotation-and-training cost objection to million-hour egocentric data. No settled contradiction found; the model architecture, training cost, success rates, commercialization details, the 深普智能/Simple AI name link, the end-of-year release plan, the 90%-plus data-usability figure, and the 80% three-year family-robot estimate remain source-scoped.
+
+## [2026-09-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

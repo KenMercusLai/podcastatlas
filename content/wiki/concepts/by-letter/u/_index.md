@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 7502
+wiki_total_pages: 7509
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "UltraLowCostCarrierModel"
     title: "Ultra-Low-Cost Carrier Model"
     url: "/wiki/concepts/ultralowcostcarriermodel/"
+  - key: "UMIGloveDataCollection"
+    title: "UMI-Style Glove Data Collection / 手套式数据采集"
+    url: "/wiki/concepts/umiglovedatacollection/"
   - key: "UnauthorizedPracticeOfLawAIBoundary"
     title: "Unauthorized Practice Of Law AI Boundary"
     url: "/wiki/concepts/unauthorizedpracticeoflawaiboundary/"

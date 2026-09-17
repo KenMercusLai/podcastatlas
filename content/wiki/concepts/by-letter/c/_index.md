@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7502
+wiki_total_pages: 7509
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"

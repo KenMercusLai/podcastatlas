@@ -19703,6 +19703,10 @@
     "title": "Embodied Anxiety Regulation / 身体化焦虑调节",
     "url": "/wiki/concepts/embodiedanxietyregulation/"
   },
+  "EmbodiedCapabilityFramework": {
+    "title": "Embodied Capability Framework / 具身智能三项能力",
+    "url": "/wiki/concepts/embodiedcapabilityframework/"
+  },
   "EmbodiedCarbonBuildingCode": {
     "title": "Embodied Carbon Building Code",
     "url": "/wiki/concepts/embodiedcarbonbuildingcode/"
@@ -19710,6 +19714,10 @@
   "EmbodiedCollectiveAwe": {
     "title": "Embodied Collective Awe",
     "url": "/wiki/concepts/embodiedcollectiveawe/"
+  },
+  "EmbodiedContextMemory": {
+    "title": "Embodied Context & Memory / 具身上下文与记忆",
+    "url": "/wiki/concepts/embodiedcontextmemory/"
   },
   "EmbodiedDataPyramid": {
     "title": "Embodied Data Pyramid",
@@ -52911,6 +52919,10 @@
     "title": "Robot Active Use Metrics",
     "url": "/wiki/concepts/robotactiveusemetrics/"
   },
+  "RobotAgenticOS": {
+    "title": "Robot Agentic OS / 具身智能体操作系统",
+    "url": "/wiki/concepts/robotagenticos/"
+  },
   "RobotAsAService": {
     "title": "Robot as a Service",
     "url": "/wiki/concepts/robotasaservice/"
@@ -52986,6 +52998,10 @@
   "RobotResponseLatency": {
     "title": "Robot Response Latency",
     "url": "/wiki/concepts/robotresponselatency/"
+  },
+  "RobotScalingClaimCaution": {
+    "title": "Robot Scaling Claim Caution / 幂律现象与 scaling law 谨慎",
+    "url": "/wiki/concepts/robotscalingclaimcaution/"
   },
   "RobotSovereigntyAndDataTrust": {
     "title": "Robot Sovereignty and Data Trust",
@@ -55695,6 +55711,10 @@
     "title": "神龙政变 / Shenlong Coup",
     "url": "/wiki/concepts/shenlongcoup/"
   },
+  "ShenpuIntelligence": {
+    "title": "深普智能 / Shenpu Intelligence",
+    "url": "/wiki/entities/shenpuintelligence/"
+  },
   "ShentinglingBattle": {
     "title": "神亭岭之战 / Shentingling Battle",
     "url": "/wiki/entities/shentinglingbattle/"
@@ -56658,6 +56678,10 @@
   "SlownessAsModernityCritique": {
     "title": "Slowness As Modernity Critique / 作为现代性批判的慢",
     "url": "/wiki/concepts/slownessasmodernitycritique/"
+  },
+  "SmallBrainActionLayer": {
+    "title": "Small Brain Action Layer / 小脑（Action Policy）",
+    "url": "/wiki/concepts/smallbrainactionlayer/"
   },
   "SmallBusinessFinancingGap": {
     "title": "Small Business Financing Gap",
@@ -59814,6 +59838,10 @@
   "TactileComfortConsumption": {
     "title": "Tactile Comfort Consumption / 触感安慰消费",
     "url": "/wiki/concepts/tactilecomfortconsumption/"
+  },
+  "TactileDataStagingChoice": {
+    "title": "Tactile Data Staging / 触觉数据暂缓采集",
+    "url": "/wiki/concepts/tactiledatastagingchoice/"
   },
   "TactileSensing": {
     "title": "Tactile Sensing",
@@ -63015,6 +63043,10 @@
     "title": "UK Online Safety Act",
     "url": "/wiki/entities/ukonlinesafetyact/"
   },
+  "UMIGloveDataCollection": {
+    "title": "UMI-Style Glove Data Collection / 手套式数据采集",
+    "url": "/wiki/concepts/umiglovedatacollection/"
+  },
   "UNFI": {
     "title": "UNFI",
     "url": "/wiki/entities/unfi/"
@@ -64774,6 +64806,10 @@
   "WangJianQin": {
     "title": "王翦 / Wang Jian (Qin)",
     "url": "/wiki/entities/wangjianqin/"
+  },
+  "WangJiawei": {
+    "title": "王家伟 / Wang Jiawei",
+    "url": "/wiki/entities/wangjiawei/"
   },
   "WangJieWesternHan": {
     "title": "王接 / Wang Jie (Western Han)",
@@ -76442,6 +76478,10 @@
   "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631": {
     "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
     "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+  },
+  "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr": {
+    "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
+    "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
   },
   "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b": {
     "title": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26",

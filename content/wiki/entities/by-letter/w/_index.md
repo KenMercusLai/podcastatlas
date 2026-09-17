@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10184
+wiki_total_pages: 10186
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1181,6 +1181,9 @@ wiki_pages:
   - key: "WangJiaShuScholar"
     title: "王家 / Wang Jia (Shu Scholar)"
     url: "/wiki/entities/wangjiashuscholar/"
+  - key: "WangJiawei"
+    title: "王家伟 / Wang Jiawei"
+    url: "/wiki/entities/wangjiawei/"
   - key: "WangMiLateHan"
     title: "王密 / Wang Mi (late Han)"
     url: "/wiki/entities/wangmilatehan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7502
+wiki_total_pages: 7509
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "RobotActiveUseMetrics"
     title: "Robot Active Use Metrics"
     url: "/wiki/concepts/robotactiveusemetrics/"
+  - key: "RobotAgenticOS"
+    title: "Robot Agentic OS / 具身智能体操作系统"
+    url: "/wiki/concepts/robotagenticos/"
   - key: "RobotAsAService"
     title: "Robot as a Service"
     url: "/wiki/concepts/robotasaservice/"
@@ -833,6 +836,9 @@ wiki_pages:
   - key: "RobotResponseLatency"
     title: "Robot Response Latency"
     url: "/wiki/concepts/robotresponselatency/"
+  - key: "RobotScalingClaimCaution"
+    title: "Robot Scaling Claim Caution / 幂律现象与 scaling law 谨慎"
+    url: "/wiki/concepts/robotscalingclaimcaution/"
   - key: "RobotSovereigntyAndDataTrust"
     title: "Robot Sovereignty and Data Trust"
     url: "/wiki/concepts/robotsovereigntyanddatatrust/"

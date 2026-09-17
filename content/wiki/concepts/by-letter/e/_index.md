@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7502
+wiki_total_pages: 7509
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -284,12 +284,18 @@ wiki_pages:
   - key: "EmbodiedAnxietyRegulation"
     title: "Embodied Anxiety Regulation / 身体化焦虑调节"
     url: "/wiki/concepts/embodiedanxietyregulation/"
+  - key: "EmbodiedCapabilityFramework"
+    title: "Embodied Capability Framework / 具身智能三项能力"
+    url: "/wiki/concepts/embodiedcapabilityframework/"
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"
   - key: "EmbodiedCollectiveAwe"
     title: "Embodied Collective Awe"
     url: "/wiki/concepts/embodiedcollectiveawe/"
+  - key: "EmbodiedContextMemory"
+    title: "Embodied Context & Memory / 具身上下文与记忆"
+    url: "/wiki/concepts/embodiedcontextmemory/"
   - key: "EmbodiedDataPyramid"
     title: "Embodied Data Pyramid"
     url: "/wiki/concepts/embodieddatapyramid/"

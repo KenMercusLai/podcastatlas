@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2056
+topic_total_pages: 2057
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -6135,6 +6135,9 @@ topic_sources:
   - key: "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu"
     title: "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波"
     url: "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+  - key: "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr"
+    title: "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家"
+    url: "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
   - key: "bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun"
     title: "别在国内卷了，去美国看看只要产品好就有人付费的市场"
     url: "/wiki/sources/bie-zai-guonei-juan-le-qu-meiguo-kankan-zhiyao-chanpin-hao-jiu-you-ren-fufei-de-shichang-keji-luandun/"

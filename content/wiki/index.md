@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家](sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr.md) — 十字路口Crossing interview with Shenpu Intelligence chief scientist Wang Jiawei on the brain/action-policy split, a three-axis embodied capability framework, UMI-style six-camera glove data collection, a System 1/System 2 Agentic OS, benchmark problems, and the stated home-robot goal.
 - [Vol.275 澳洲保健品是怎么火起来的？](sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861.md) — 商业就是这样 episode on how Australia's supplement industry grew out of self-care traditions, contract manufacturing, listed-track regulation, marketing-led brands like Swisse and Blackmores, and the daigou and bonded-warehouse channels that built Chinese demand.
 - [图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏](sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412.md) — 声动早咖啡 roundup on Ctrip's penalty-driven quarter, ByteDance's AI-heavy half, Apple's Emmy lead, the Seres-Huawei AITO reset, BYD's European local production, Waymo's Tokyo robotaxi plan, Meta's camera-free glasses, NikeSkims in China, and Luxihe's executive hires.
 - [706. Queen Victoria's Revenge: Storming the Citadel (Part 2)](sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568.md) — The Rest Is History episode on Napier's 1868 march to Magdala, industrial firepower against Theodros II, the released hostages, the looted citadel, and the leaderless Abyssinia left behind.
@@ -2499,6 +2500,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [深普智能 / Shenpu Intelligence](entities/ShenpuIntelligence.md) — Home-facing general embodied-intelligence company whose chief scientist describes full-stack data, action-model, Agentic OS, and evaluation work.
+- [王家伟 / Wang Jiawei](entities/WangJiawei.md) — 24-year-old chief scientist of 深普智能, with a USTC youth-class and Microsoft Research Asia doctoral background plus DeepSeek and ByteDance Seed internships.
 - [Blackmores / 澳佳宝](entities/Blackmores.md) — Australian supplement brand the source uses to show naturopathic practice converting into a mainstream industrial product.
 - [ByHealth / 汤臣倍健](entities/ByHealth.md) — Chinese supplement company cited for a 42% selling-expense ratio while revenue and profit growth lagged marketing spend.
 - [H&H Group / 合生元·健合集团](entities/HAndHGroup.md) — Chinese consumer-health group that acquired Swisse in 2015 and kept the brand's Australian identity.
@@ -12688,6 +12691,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Small Brain Action Layer / 小脑（Action Policy）](concepts/SmallBrainActionLayer.md) — Lower real-time control layer that keeps a robot stable and responsive below the reasoning brain, motivated by the gap between demonstration video and disturbance recovery.
+- [Embodied Capability Framework / 具身智能三项能力](concepts/EmbodiedCapabilityFramework.md) — Shenpu Intelligence's internal definition of embodied intelligence through adaptability, steerability, and context understanding.
+- [Embodied Context & Memory / 具身上下文与记忆](concepts/EmbodiedContextMemory.md) — Short, medium, and long-horizon context a robot must carry, including sub-second causal chains and place-and-person memory under real-time latency limits.
+- [Robot Agentic OS / 具身智能体操作系统](concepts/RobotAgenticOS.md) — Embodied agent stack that joins speech recognition, task decomposition, tool calls, and low-level interfaces with System 1 execution and System 2 planning.
+- [Robot Scaling Claim Caution / 幂律现象与 scaling law 谨慎](concepts/RobotScalingClaimCaution.md) — Distinction between observed power-law-like robot improvement and a validated scaling law, plus the controlled-data conditions behind the claim.
+- [Tactile Data Staging / 触觉数据暂缓采集](concepts/TactileDataStagingChoice.md) — Deliberate delay in scaling tactile collection because sensor formats have not converged and an early hardware bet can strand data.
+- [UMI-Style Glove Data Collection / 手套式数据采集](concepts/UMIGloveDataCollection.md) — Body-free manipulation-data method using a six-view glove with camera localization, microsecond synchronization, and trajectory replay validation.
 - [Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统](concepts/AustralianNonTraditionalMedicineTradition.md) — Self-medication, compounding pharmacists, naturopathy, and health-food retail as the cultural soil under Australia's supplement industry.
 - [Australian Therapeutic Goods Regulation / 澳洲保健品监管](concepts/AustralianTherapeuticGoodsRegulation.md) — Drug-style Australian framework in which most supplements are self-assessed listed goods and efficacy review is largely absent.
 - [Bonded Warehouse Cross-Border Import / 保税仓跨境电商](concepts/BondedWarehouseCrossBorderImport.md) — 2015 policy window in which platforms stocked domestic bonded warehouses and sold supplements as personal-use items that skipped ordinary import registration.

@@ -23655,6 +23655,13 @@
       "url": "/topics/science/"
     }
   ],
+  "EmbodiedCapabilityFramework": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EmbodiedCarbonBuildingCode": [
     {
       "key": "politics",
@@ -23672,6 +23679,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EmbodiedContextMemory": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "EmbodiedDataPyramid": [
@@ -58689,6 +58703,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobotAgenticOS": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RobotAsAService": [
     {
       "key": "technology",
@@ -58826,6 +58847,13 @@
     }
   ],
   "RobotResponseLatency": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "RobotScalingClaimCaution": [
     {
       "key": "technology",
       "label": "Technology",
@@ -61799,6 +61827,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ShenpuIntelligence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ShenwanLingxinFund": [
     {
       "key": "economics",
@@ -62893,6 +62928,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SmallBrainActionLayer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "SmallBusinessFinancingGap": [
@@ -66714,6 +66756,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "TactileDataStagingChoice": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "TactileSensing": [
@@ -70845,6 +70894,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "UMIGloveDataCollection": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "UPI": [
     {
       "key": "technology",
@@ -72673,6 +72729,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "WangJiawei": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "WangJiping": [
@@ -85824,6 +85887,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "yushu-shangshi-baozhang-dan-renxing-jiqiren-de-qian-daodi-cong-nali-zhuan-s10e26-4a50d4a3-a6ff-4c89-b754-367b73ce924b": [

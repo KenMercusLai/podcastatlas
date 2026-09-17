@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6760924b20e1a526c0276aed161e659504401b4d10dbc055a95632682f3b2665",
       "221fb8c5aacdcd83887469e595d1b790a7b149815ed3721d41755784e85ae711",
       "e47c7bb11e6454b816a38a07c601664671983a23d53efc4772ba5cfe4ca5d544",
       "218acc007f390e3a27bb4c028b1108b79f5508874fd6e8a81feae12bc9257278",
@@ -628,11 +629,43 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 626
+    "paragraph_count": 627
   },
-  "overview_commit": "32f8a4aa15a77ca40d8f1d87660e61e7ab945fa5",
-  "overview_digest": "d6cfe7ec4bff09b89a09fef1acb5707af2fea3c8e41c2a9381ed7170aa35d154",
+  "overview_commit": "a0e041342375df26d27223a362b530d1a4cec0b9",
+  "overview_digest": "86ed6d9ee84781d6ebe38db934eb5827fb90574bed0f8fb674512960a3cba4d6",
   "paragraphs": [
+    {
+      "id": "6760924b20e1a526c0276aed161e659504401b4d10dbc055a95632682f3b2665",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr|于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家]], a [[ShizilukouCrossing]] interview with [[WangJiawei|王家伟]], the 24-year-old chief scientist of [[ShenpuIntelligence|深普智能]]. It adds [[ShenpuIntelligence]], [[WangJiawei]], [[SmallBrainActionLayer]], [[EmbodiedCapabilityFramework]], [[EmbodiedContextMemory]], [[RobotAgenticOS]], [[UMIGloveDataCollection]], [[RobotScalingClaimCaution]], and [[TactileDataStagingChoice]], while extending [[ChatGPT6Astra]], [[GeneralModelRobotBoundary]], [[RobotEvaluationProblem]], [[EgocentricRobotData]], [[DeepSeek]], [[MicrosoftResearchAsia]], and [[ByteDance]]. Its core synthesis is that embodied intelligence is not one general model: [[ChatGPT6Astra]]'s robot-arm demonstration shows that general capability can spill into grasping and task planning, but the source draws the [[GeneralModelRobotBoundary|boundary]] at real-time reaction and controllability, so a lower [[SmallBrainActionLayer|小脑 or action layer]] still has to keep the body stable and responsive while an upper brain plans. [[ShenpuIntelligence]] answers with a full-stack route: an [[EmbodiedCapabilityFramework|adaptability, steerability, and context-understanding framework]] drives data and model choices; an [[EmbodiedContextMemory|short, medium, and long-horizon context model]] handles sub-second causality and place memory under latency pressure; a [[RobotAgenticOS|System 1/System 2 Agentic OS and harness]] schedules execution; [[UMIGloveDataCollection|six-camera UMI-style glove collection]] with over-95% trajectory replay supplies the data, with open-sourced hours, a staged [[TactileDataStagingChoice|no-tactile-yet]] choice, and a [[RobotScalingClaimCaution|caution that the scale evidence reaches 幂律现象 without a validated scaling claim]] about how far the scale evidence goes. The source also reinforces the [[RobotEvaluationProblem|robot evaluation problem]] and the cost side of [[EgocentricRobotData]]: simulation-heavy benchmarks can be gamed, real-machine tests are hard to reproduce, a company may have to evaluate itself across difficulty and generalization while disclosing zero-shot versus few-shot data use, and million-hour egocentric data can be cheap to film but expensive to annotate and train. No settled contradiction is recorded; the model architecture, training cost, success rates, commercialization details, the 深普智能/Simple AI name link, the end-of-year release plan, the 90%-plus data-usability figure, and the 80% three-year family-robot estimate remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ByteDance",
+        "ChatGPT6Astra",
+        "DeepSeek",
+        "EgocentricRobotData",
+        "EmbodiedCapabilityFramework",
+        "EmbodiedContextMemory",
+        "GeneralModelRobotBoundary",
+        "MicrosoftResearchAsia",
+        "RobotAgenticOS",
+        "RobotEvaluationProblem",
+        "RobotScalingClaimCaution",
+        "ShenpuIntelligence",
+        "ShizilukouCrossing",
+        "SmallBrainActionLayer",
+        "TactileDataStagingChoice",
+        "UMIGloveDataCollection",
+        "WangJiawei",
+        "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr"
+      ]
+    },
     {
       "id": "221fb8c5aacdcd83887469e595d1b790a7b149815ed3721d41755784e85ae711",
       "primary_topic": "business-and-markets",
