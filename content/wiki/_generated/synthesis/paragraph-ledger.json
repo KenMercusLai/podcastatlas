@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7232911cfed0fcb23c48bdfb24ab2d135e053bc0d82808f974bee35079377380",
       "6760924b20e1a526c0276aed161e659504401b4d10dbc055a95632682f3b2665",
       "221fb8c5aacdcd83887469e595d1b790a7b149815ed3721d41755784e85ae711",
       "e47c7bb11e6454b816a38a07c601664671983a23d53efc4772ba5cfe4ca5d544",
@@ -629,11 +630,40 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 627
+    "paragraph_count": 628
   },
-  "overview_commit": "a0e041342375df26d27223a362b530d1a4cec0b9",
-  "overview_digest": "86ed6d9ee84781d6ebe38db934eb5827fb90574bed0f8fb674512960a3cba4d6",
+  "overview_commit": "038fff69beca4f3881a93ec74854d8f879348626",
+  "overview_digest": "d9da56e50c6a933a95524fa44e11c3f9dfe1d68e4b9638491825cd416f00c2da",
   "paragraphs": [
+    {
+      "id": "7232911cfed0fcb23c48bdfb24ab2d135e053bc0d82808f974bee35079377380",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924|Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin]], a [[HubermanLab]] Essentials episode with [[AndyGalpin]] on measuring health and fitness rather than guessing at them. It adds [[NinePhysiologicalAdaptations]] as a nine-part taxonomy, [[FitnessAssessmentTestingWeek]] as the roughly annual testing protocol, [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], [[PowerAndSpeedAssessment]], and [[FitnessPerformanceAnchors]], while extending [[MuscleAsLongevityInfrastructure]], [[ExercisePillarsForLongevity]], and [[ExerciseMedicalAestheticBoundary]]. Its core synthesis is that fitness assessment works as a diagnostic checklist: each adaptation gets a gold-standard method and a cheap substitute, the numbers are explicitly body-size, modality, and technique dependent, and the goal is to clear severe performance anchors rather than be optimal in all nine areas. No settled contradiction is recorded; the episode's thresholds, formulas, and maximal-effort tests remain source-scoped practical benchmarks rather than clinical norms, and it defers speed, strength, and hypertrophy programming to a later conversation.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "AerobicCapacityFieldTesting",
+        "AndyGalpin",
+        "ExerciseMedicalAestheticBoundary",
+        "ExercisePillarsForLongevity",
+        "FatFreeMassIndex",
+        "FitnessAssessmentTestingWeek",
+        "FitnessPerformanceAnchors",
+        "HeartRateRecoveryCapacity",
+        "HubermanLab",
+        "LocalMuscularEnduranceBenchmarks",
+        "LongDurationEnduranceStandard",
+        "MovementScreenScoring",
+        "MuscleAsLongevityInfrastructure",
+        "NinePhysiologicalAdaptations",
+        "PowerAndSpeedAssessment",
+        "StrengthBenchmarkTesting",
+        "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
+      ]
+    },
     {
       "id": "6760924b20e1a526c0276aed161e659504401b4d10dbc055a95632682f3b2665",
       "primary_topic": "ai-and-technology",

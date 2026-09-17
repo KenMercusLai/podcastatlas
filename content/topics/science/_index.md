@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1112
+topic_total_pages: 1116
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -658,6 +658,9 @@ topic_concepts:
   - key: "FashionSupplyChainExternality"
     title: "Fashion Supply Chain Externality"
     url: "/wiki/concepts/fashionsupplychainexternality/"
+  - key: "FatFreeMassIndex"
+    title: "Fat-Free Mass Index / 去脂体重指数"
+    url: "/wiki/concepts/fatfreemassindex/"
   - key: "FawnResponse"
     title: "Fawn Response"
     url: "/wiki/concepts/fawnresponse/"
@@ -691,6 +694,9 @@ topic_concepts:
   - key: "FishmealSupplyChain"
     title: "Fishmeal Supply Chain"
     url: "/wiki/concepts/fishmealsupplychain/"
+  - key: "FitnessPerformanceAnchors"
+    title: "Fitness Performance Anchors / 体能短板锚点"
+    url: "/wiki/concepts/fitnessperformanceanchors/"
   - key: "FlatulenceAsHealthSignal"
     title: "Flatulence As Health Signal / 排气作为健康信号"
     url: "/wiki/concepts/flatulenceashealthsignal/"
@@ -2021,6 +2027,9 @@ topic_entities:
   - key: "AndrewHuberman"
     title: "Andrew Huberman"
     url: "/wiki/entities/andrewhuberman/"
+  - key: "AndyGalpin"
+    title: "Andy Galpin"
+    url: "/wiki/entities/andygalpin/"
   - key: "AnnWroe"
     title: "Ann Wroe"
     url: "/wiki/entities/annwroe/"
@@ -3123,6 +3132,9 @@ topic_sources:
   - key: "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352"
     title: "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi"
     url: "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+  - key: "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
+    title: "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin"
+    url: "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
   - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
     title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
     url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"

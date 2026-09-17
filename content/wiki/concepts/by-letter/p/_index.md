@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "PovertyTrapModernization"
     title: "Poverty-Trap Modernization / 贫困陷阱与现代化"
     url: "/wiki/concepts/povertytrapmodernization/"
+  - key: "PowerAndSpeedAssessment"
+    title: "Power and Speed Assessment / 爆发与速度测试"
+    url: "/wiki/concepts/powerandspeedassessment/"
   - key: "PowerBatteryIndustryChain"
     title: "Power Battery Industry Chain"
     url: "/wiki/concepts/powerbatteryindustrychain/"

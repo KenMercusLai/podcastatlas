@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "HealthspanThreeDomains"
     title: "Healthspan Three Domains"
     url: "/wiki/concepts/healthspanthreedomains/"
+  - key: "HeartRateRecoveryCapacity"
+    title: "Heart Rate Recovery Capacity / 心率恢复能力"
+    url: "/wiki/concepts/heartraterecoverycapacity/"
   - key: "HeartFieldEthics"
     title: "Heart-Field Ethics / 心田处世伦理"
     url: "/wiki/concepts/heartfieldethics/"

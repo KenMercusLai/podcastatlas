@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924.md) — Huberman Lab Essentials episode with Dr. Andy Galpin on the nine physiological adaptations, gold-standard versus do-it-yourself fitness tests, FFMI and heart-rate recovery benchmarks, and the annual testing week.
 - [于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家](sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr.md) — 十字路口Crossing interview with Shenpu Intelligence chief scientist Wang Jiawei on the brain/action-policy split, a three-axis embodied capability framework, UMI-style six-camera glove data collection, a System 1/System 2 Agentic OS, benchmark problems, and the stated home-robot goal.
 - [Vol.275 澳洲保健品是怎么火起来的？](sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861.md) — 商业就是这样 episode on how Australia's supplement industry grew out of self-care traditions, contract manufacturing, listed-track regulation, marketing-led brands like Swisse and Blackmores, and the daigou and bonded-warehouse channels that built Chinese demand.
 - [图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏](sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412.md) — 声动早咖啡 roundup on Ctrip's penalty-driven quarter, ByteDance's AI-heavy half, Apple's Emmy lead, the Seres-Huawei AITO reset, BYD's European local production, Waymo's Tokyo robotaxi plan, Meta's camera-free glasses, NikeSkims in China, and Luxihe's executive hires.
@@ -2500,6 +2501,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist and Huberman Lab guest whose Essentials episode supplies the nine-adaptation fitness assessment framework, benchmark thresholds, and annual testing-week protocol.
 - [深普智能 / Shenpu Intelligence](entities/ShenpuIntelligence.md) — Home-facing general embodied-intelligence company whose chief scientist describes full-stack data, action-model, Agentic OS, and evaluation work.
 - [王家伟 / Wang Jiawei](entities/WangJiawei.md) — 24-year-old chief scientist of 深普智能, with a USTC youth-class and Microsoft Research Asia doctoral background plus DeepSeek and ByteDance Seed internships.
 - [Blackmores / 澳佳宝](entities/Blackmores.md) — Australian supplement brand the source uses to show naturopathic practice converting into a mainstream industrial product.
@@ -12691,6 +12693,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Nine Physiological Adaptations / 九大生理适应能力](concepts/NinePhysiologicalAdaptations.md) — Episode's assessment taxonomy of skill, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long-duration endurance.
+- [Fitness Assessment Testing Week / 年度体能测试周](concepts/FitnessAssessmentTestingWeek.md) — Annual battery that runs the nine tests across about three days, with non-fatiguing measures first and maximal tests last.
+- [Movement Screen Scoring / 动作筛查评分](concepts/MovementScreenScoring.md) — Joint-by-joint technique screen recorded frontally and from the side and scored 0, 1, or 3 as a gate before maximal strength testing.
+- [Strength Benchmark Testing / 力量基准测试](concepts/StrengthBenchmarkTesting.md) — Grip, dead-hang, leg-extension, and goblet-hold standards used as accessible proxies for maximum force.
+- [Local Muscular Endurance Benchmarks / 局部肌耐力基准](concepts/LocalMuscularEnduranceBenchmarks.md) — Plank, side-plank, push-up, and 75%-load repetition standards for local repetition capacity.
+- [Fat-Free Mass Index / 去脂体重指数](concepts/FatFreeMassIndex.md) — Height-adjusted muscle-mass measure used as a health floor, with roughly 20 for men and 18 for women as targets and severe detriment below 17 and 15.
+- [Heart Rate Recovery Capacity / 心率恢复能力](concepts/HeartRateRecoveryCapacity.md) — Practical anaerobic-capacity metric based on how quickly heart rate falls after maximal effort, at about half a beat per second.
+- [Aerobic Capacity Field Testing / 有氧能力场地测试](concepts/AerobicCapacityFieldTesting.md) — Cooper 12-minute test and submaximal one-mile walk estimate VO2 max outside the lab, with about 35 for men and 30 for women as minimums.
+- [Long-Duration Endurance Standard / 长时间耐力标准](concepts/LongDurationEnduranceStandard.md) — Deliberately unstructured test of unbroken submaximal work for more than 20 minutes, ideally at a non-walking pace with nasal breathing.
+- [Power and Speed Assessment / 爆发与速度测试](concepts/PowerAndSpeedAssessment.md) — Standing broad jump against the jump-your-height benchmark for power, with pure speed testing reserved for high-performance sport.
+- [Fitness Performance Anchors / 体能短板锚点](concepts/FitnessPerformanceAnchors.md) — Priority rule that severe capacity deficits are cleared first and only the capacities a person cares about are then optimized.
 - [Small Brain Action Layer / 小脑（Action Policy）](concepts/SmallBrainActionLayer.md) — Lower real-time control layer that keeps a robot stable and responsive below the reasoning brain, motivated by the gap between demonstration video and disturbance recovery.
 - [Embodied Capability Framework / 具身智能三项能力](concepts/EmbodiedCapabilityFramework.md) — Shenpu Intelligence's internal definition of embodied intelligence through adaptability, steerability, and context understanding.
 - [Embodied Context & Memory / 具身上下文与记忆](concepts/EmbodiedContextMemory.md) — Short, medium, and long-horizon context a robot must carry, including sub-second causal chains and place-and-person memory under real-time latency limits.

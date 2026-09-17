@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1682,6 +1682,9 @@ wiki_pages:
   - key: "StreetJianghuSociety"
     title: "Street Jianghu Society"
     url: "/wiki/concepts/streetjianghusociety/"
+  - key: "StrengthBenchmarkTesting"
+    title: "Strength Benchmark Testing / 力量基准测试"
+    url: "/wiki/concepts/strengthbenchmarktesting/"
   - key: "StrengthTrainingJointProtection"
     title: "Strength Training for Joint Protection / 保护关节的力量训练"
     url: "/wiki/concepts/strengthtrainingjointprotection/"

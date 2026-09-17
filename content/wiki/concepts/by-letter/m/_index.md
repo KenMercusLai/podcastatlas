@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "MovementPracticeAsAwareness"
     title: "Movement Practice as Awareness"
     url: "/wiki/concepts/movementpracticeasawareness/"
+  - key: "MovementScreenScoring"
+    title: "Movement Screen Scoring / 动作筛查评分"
+    url: "/wiki/concepts/movementscreenscoring/"
   - key: "MSPChannelDistribution"
     title: "MSP Channel Distribution"
     url: "/wiki/concepts/mspchanneldistribution/"

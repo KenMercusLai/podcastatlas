@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -278,6 +278,9 @@ wiki_pages:
   - key: "AdvisorRoleBoundary"
     title: "Advisor Role Boundary / 谋士越位"
     url: "/wiki/concepts/advisorroleboundary/"
+  - key: "AerobicCapacityFieldTesting"
+    title: "Aerobic Capacity Field Testing / 有氧能力场地测试"
+    url: "/wiki/concepts/aerobiccapacityfieldtesting/"
   - key: "AerosolCoolingMasking"
     title: "Aerosol Cooling Masking"
     url: "/wiki/concepts/aerosolcoolingmasking/"

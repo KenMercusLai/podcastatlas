@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "FatLeagueEconomics"
     title: "Fat League Economics"
     url: "/wiki/concepts/fatleagueeconomics/"
+  - key: "FatFreeMassIndex"
+    title: "Fat-Free Mass Index / 去脂体重指数"
+    url: "/wiki/concepts/fatfreemassindex/"
   - key: "FatTailRisk"
     title: "Fat-Tail Risk"
     url: "/wiki/concepts/fattailrisk/"
@@ -515,6 +518,12 @@ wiki_pages:
   - key: "FissionGrowth"
     title: "Fission Growth"
     url: "/wiki/concepts/fissiongrowth/"
+  - key: "FitnessAssessmentTestingWeek"
+    title: "Fitness Assessment Testing Week / 年度体能测试周"
+    url: "/wiki/concepts/fitnessassessmenttestingweek/"
+  - key: "FitnessPerformanceAnchors"
+    title: "Fitness Performance Anchors / 体能短板锚点"
+    url: "/wiki/concepts/fitnessperformanceanchors/"
   - key: "FitnessRaceStandardization"
     title: "Fitness Race Standardization"
     url: "/wiki/concepts/fitnessracestandardization/"

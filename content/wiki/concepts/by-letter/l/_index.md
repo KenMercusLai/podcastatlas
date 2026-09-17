@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "LocalMarketProof"
     title: "Local Market Proof"
     url: "/wiki/concepts/localmarketproof/"
+  - key: "LocalMuscularEnduranceBenchmarks"
+    title: "Local Muscular Endurance Benchmarks / 局部肌耐力基准"
+    url: "/wiki/concepts/localmuscularendurancebenchmarks/"
   - key: "LocalNewsAutomationTradeoff"
     title: "Local News Automation Tradeoff"
     url: "/wiki/concepts/localnewsautomationtradeoff/"
@@ -608,6 +611,9 @@ wiki_pages:
   - key: "LongDistanceTradeFriction"
     title: "Long-Distance Trade Friction"
     url: "/wiki/concepts/longdistancetradefriction/"
+  - key: "LongDurationEnduranceStandard"
+    title: "Long-Duration Endurance Standard / 长时间耐力标准"
+    url: "/wiki/concepts/longdurationendurancestandard/"
   - key: "LongFormConversation"
     title: "Long-Form Conversation"
     url: "/wiki/concepts/longformconversation/"

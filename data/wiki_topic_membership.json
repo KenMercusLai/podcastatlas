@@ -8250,6 +8250,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AndyGalpin": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AndyGrove": [
     {
       "key": "technology",
@@ -25790,6 +25797,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FatFreeMassIndex": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FatLeagueEconomics": [
     {
       "key": "economics",
@@ -26859,6 +26873,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FitnessPerformanceAnchors": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FitnessRaceStandardization": [
@@ -81814,6 +81835,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929": [

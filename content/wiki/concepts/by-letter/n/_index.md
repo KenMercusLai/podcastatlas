@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7509
+wiki_total_pages: 7520
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "NikeBrandDrift"
     title: "Nike Brand Drift"
     url: "/wiki/concepts/nikebranddrift/"
+  - key: "NinePhysiologicalAdaptations"
+    title: "Nine Physiological Adaptations / 九大生理适应能力"
+    url: "/wiki/concepts/ninephysiologicaladaptations/"
   - key: "NinePurpleFireLuckActionFrame"
     title: "Nine Purple Fire Luck Action Frame / 九紫离火运行动框架"
     url: "/wiki/concepts/ninepurplefireluckactionframe/"
