@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3b6f76a5a9af36a74afc7bc3a236bd01aefb77c3e3df73a5f8b34e9ebbd152af",
       "b7fd8e9c8abc57d2f1849ed8ac1d08d4dc8fac7ff44d294ec7aeaa3b847f8074",
       "7ddff9ef3f6a2618c779bb79ac7834649c46f29ed6890360c7b02ddebe4e9533",
       "64502fc2058a342f0df07ccc9424afebe57ef6bfc29fab1c4d9d461fb4b755bc",
@@ -624,11 +625,48 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 622
+    "paragraph_count": 623
   },
-  "overview_commit": "e0b77ccda09bdeff6a599c42e4eb9be2ae3f803c",
-  "overview_digest": "3fcc9da6eabe18912885e91c4f488573f7ee6fc98e8a2fa8a78c0bf76af3b75e",
+  "overview_commit": "38cdb45082300547b26325b5f14d481a0f41a1e0",
+  "overview_digest": "b3624140dcf457d23d903ece6364792a1c775e1f7df83d8307540a5e63e55c12",
   "paragraphs": [
+    {
+      "id": "3b6f76a5a9af36a74afc7bc3a236bd01aefb77c3e3df73a5f8b34e9ebbd152af",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6|Advice Line with Michelle Wahler of Beyond Yoga]], a [[HowIBuiltThis]] Advice Line episode where [[GuyRaz]] and [[MichelleWahler]] advise [[KariAngoff]] of [[ElectiveStudyAbroad]], the founder of [[GraceAnnUpholstery]], and [[AngelRaymer]] of [[SacredPawsSoapCompany]]. It adds [[MichelleWahler]], [[BeyondYoga]], [[JodyGruberBrufsky]], [[QuinceHill]], [[Levis]], [[KariAngoff]], [[ElectiveStudyAbroad]], [[GraceAnnUpholstery]], [[AngelRaymer]], and [[SacredPawsSoapCompany]] along with [[SustainableBusinessOverScale]], [[PreCallQualification]], [[PeerGroupExperienceSelling]], [[SecondFirstImpression]], [[DeliveryBufferDiscipline]], and [[OfflineStoryOnlineTrust]], while extending [[FounderControl]], [[StoryLedConsumerBranding]], [[CustomerReactivation]], [[TrustAsBusinessAsset]], and [[CapacityMatchedGrowth]]. Its core synthesis is that founder control and sustainable scale are legitimate goals, and that early businesses convert better when they qualify prospects before the sales call, sell the peer group rather than the itinerary, repair client relationships with demonstrated process change, quote delivery with a buffer, and make the website carry story, trust, and product together. No settled contradiction is recorded; the roughly $400 million acquisition, the $6,200 average course price, the $50,000 workshop revenue, and the $35-38 kit price remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 6,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "AngelRaymer",
+        "BeyondYoga",
+        "CapacityMatchedGrowth",
+        "CustomerReactivation",
+        "DeliveryBufferDiscipline",
+        "ElectiveStudyAbroad",
+        "FounderControl",
+        "GraceAnnUpholstery",
+        "GuyRaz",
+        "HowIBuiltThis",
+        "JodyGruberBrufsky",
+        "KariAngoff",
+        "Levis",
+        "MichelleWahler",
+        "OfflineStoryOnlineTrust",
+        "PeerGroupExperienceSelling",
+        "PreCallQualification",
+        "QuinceHill",
+        "SacredPawsSoapCompany",
+        "SecondFirstImpression",
+        "StoryLedConsumerBranding",
+        "SustainableBusinessOverScale",
+        "TrustAsBusinessAsset",
+        "advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6"
+      ]
+    },
     {
       "id": "b7fd8e9c8abc57d2f1849ed8ac1d08d4dc8fac7ff44d294ec7aeaa3b847f8074",
       "primary_topic": "business-and-markets",

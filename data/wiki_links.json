@@ -5399,6 +5399,10 @@
     "title": "《暗眼小僧》 / Angan Kozo",
     "url": "/wiki/entities/angankozo/"
   },
+  "AngelRaymer": {
+    "title": "Angel Raymer",
+    "url": "/wiki/entities/angelraymer/"
+  },
   "AngelReese": {
     "title": "Angel Reese",
     "url": "/wiki/entities/angelreese/"
@@ -8162,6 +8166,10 @@
   "BeyondHomeTextile": {
     "title": "Beyond Home Textile / 博洋家纺",
     "url": "/wiki/entities/beyondhometextile/"
+  },
+  "BeyondYoga": {
+    "title": "Beyond Yoga",
+    "url": "/wiki/entities/beyondyoga/"
   },
   "BezalelSmotrich": {
     "title": "Bezalel Smotrich",
@@ -16783,6 +16791,10 @@
     "title": "Delicious",
     "url": "/wiki/entities/delicious/"
   },
+  "DeliveryBufferDiscipline": {
+    "title": "Delivery Buffer Discipline",
+    "url": "/wiki/concepts/deliverybufferdiscipline/"
+  },
   "DellTechnologies": {
     "title": "Dell Technologies",
     "url": "/wiki/entities/delltechnologies/"
@@ -19438,6 +19450,10 @@
   "ElectionInformationOperations": {
     "title": "Election Information Operations",
     "url": "/wiki/concepts/electioninformationoperations/"
+  },
+  "ElectiveStudyAbroad": {
+    "title": "Elective Study Abroad",
+    "url": "/wiki/entities/electivestudyabroad/"
   },
   "ElectoralIneligibilityPenalty": {
     "title": "Electoral Ineligibility Penalty",
@@ -25930,6 +25946,10 @@
   "Gracchi": {
     "title": "The Gracchi / 格拉古兄弟",
     "url": "/wiki/entities/gracchi/"
+  },
+  "GraceAnnUpholstery": {
+    "title": "Grace Ann Upholstery",
+    "url": "/wiki/entities/graceannupholstery/"
   },
   "GraceDebtLoyaltyPressure": {
     "title": "恩赏负债式忠诚压力 / Grace-Debt Loyalty Pressure",
@@ -33059,6 +33079,10 @@
     "title": "Jody Deming",
     "url": "/wiki/entities/jodydeming/"
   },
+  "JodyGruberBrufsky": {
+    "title": "Jody Gruber-Brufsky",
+    "url": "/wiki/entities/jodygruberbrufsky/"
+  },
   "JoeBiden": {
     "title": "Joe Biden",
     "url": "/wiki/entities/joebiden/"
@@ -34014,6 +34038,10 @@
   "Karhide": {
     "title": "卡海德 / Karhide",
     "url": "/wiki/entities/karhide/"
+  },
+  "KariAngoff": {
+    "title": "Kari Angoff",
+    "url": "/wiki/entities/kariangoff/"
   },
   "KarimaSharifAli": {
     "title": "Karima Sharif-Ali",
@@ -35966,6 +35994,10 @@
   "LeviCase": {
     "title": "Levi Case",
     "url": "/wiki/entities/levicase/"
+  },
+  "Levis": {
+    "title": "Levi's",
+    "url": "/wiki/entities/levis/"
   },
   "LewisAndClarkExpedition": {
     "title": "Lewis and Clark Expedition",
@@ -41359,6 +41391,10 @@
     "title": "Michelle Hanlon",
     "url": "/wiki/entities/michellehanlon/"
   },
+  "MichelleWahler": {
+    "title": "Michelle Wahler",
+    "url": "/wiki/entities/michellewahler/"
+  },
   "Michigan": {
     "title": "Michigan",
     "url": "/wiki/entities/michigan/"
@@ -44887,6 +44923,10 @@
     "title": "Offline Platform Safety Boundary / 线下平台安全边界",
     "url": "/wiki/concepts/offlineplatformsafetyboundary/"
   },
+  "OfflineStoryOnlineTrust": {
+    "title": "Offline Story Online Trust",
+    "url": "/wiki/concepts/offlinestoryonlinetrust/"
+  },
   "Ofo": {
     "title": "OFO / 小黄车",
     "url": "/wiki/entities/ofo/"
@@ -46795,6 +46835,10 @@
     "title": "Pedro Sanchez",
     "url": "/wiki/entities/pedrosanchez/"
   },
+  "PeerGroupExperienceSelling": {
+    "title": "Peer Group Experience Selling",
+    "url": "/wiki/concepts/peergroupexperienceselling/"
+  },
   "PeerToPeerMarketplaceTrust": {
     "title": "Peer-to-Peer Marketplace Trust",
     "url": "/wiki/concepts/peertopeermarketplacetrust/"
@@ -48598,6 +48642,10 @@
   "PraiseAsPoliticalMemory": {
     "title": "赞颂作为政治记忆 / Praise as Political Memory",
     "url": "/wiki/concepts/praiseaspoliticalmemory/"
+  },
+  "PreCallQualification": {
+    "title": "Pre-Call Qualification",
+    "url": "/wiki/concepts/precallqualification/"
   },
   "PreCommercialSportsCommunity": {
     "title": "Pre-Commercial Sports Community / 商业化前小众运动社群",
@@ -50758,6 +50806,10 @@
   "QuietCreditSelfProtection": {
     "title": "不显功式自保 / Quiet Credit Self-Protection",
     "url": "/wiki/concepts/quietcreditselfprotection/"
+  },
+  "QuinceHill": {
+    "title": "Quince Hill",
+    "url": "/wiki/entities/quincehill/"
   },
   "QuintusCaeciliusMetellusNumidicus": {
     "title": "Quintus Caecilius Metellus Numidicus / 梅特鲁斯",
@@ -53591,6 +53643,10 @@
     "title": "Sacrament Donation Model",
     "url": "/wiki/concepts/sacramentdonationmodel/"
   },
+  "SacredPawsSoapCompany": {
+    "title": "Sacred Paws Soap Company",
+    "url": "/wiki/entities/sacredpawssoapcompany/"
+  },
   "SacrificingOthersEthics": {
     "title": "Sacrificing Others Ethics",
     "url": "/wiki/concepts/sacrificingothersethics/"
@@ -54446,6 +54502,10 @@
   "SecondDayMoneyEvolution": {
     "title": "《第二天金钱进化论》 / Second-Day Money Evolution",
     "url": "/wiki/entities/seconddaymoneyevolution/"
+  },
+  "SecondFirstImpression": {
+    "title": "Second First Impression",
+    "url": "/wiki/concepts/secondfirstimpression/"
   },
   "SecondGenerationBusinessEntryRoutes": {
     "title": "Second-Generation Business Entry Routes / 二代接班切入路径",
@@ -59298,6 +59358,10 @@
   "SuspicionTriggeredCommandMutiny": {
     "title": "Suspicion-Triggered Command Mutiny / 猜疑触发的部下倒戈",
     "url": "/wiki/concepts/suspiciontriggeredcommandmutiny/"
+  },
+  "SustainableBusinessOverScale": {
+    "title": "Sustainable Business Over Scale",
+    "url": "/wiki/concepts/sustainablebusinessoverscale/"
   },
   "SustainableConstructionCarbonTradeoff": {
     "title": "Sustainable Construction Carbon Tradeoff",
@@ -72078,6 +72142,10 @@
   "advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062": {
     "title": "Advice Line with Kip Tindell of The Container Store",
     "url": "/wiki/sources/advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062/"
+  },
+  "advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6": {
+    "title": "Advice Line with Michelle Wahler of Beyond Yoga",
+    "url": "/wiki/sources/advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6/"
   },
   "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5": {
     "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",

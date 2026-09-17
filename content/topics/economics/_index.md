@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2050
+topic_total_pages: 2052
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2731,6 +2731,9 @@ topic_concepts:
   - key: "SupplyContractionRebound"
     title: "Supply Contraction Rebound / 供给出清反弹"
     url: "/wiki/concepts/supplycontractionrebound/"
+  - key: "SustainableBusinessOverScale"
+    title: "Sustainable Business Over Scale"
+    url: "/wiki/concepts/sustainablebusinessoverscale/"
   - key: "SwingProducerRole"
     title: "Swing Producer Role"
     url: "/wiki/concepts/swingproducerrole/"
@@ -4454,6 +4457,9 @@ topic_entities:
   - key: "Quebec"
     title: "Quebec"
     url: "/wiki/entities/quebec/"
+  - key: "QuinceHill"
+    title: "Quince Hill"
+    url: "/wiki/entities/quincehill/"
   - key: "RafaelParker"
     title: "Rafael Parker"
     url: "/wiki/entities/rafaelparker/"

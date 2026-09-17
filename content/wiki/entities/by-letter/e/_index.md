@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "EldenRing"
     title: "Elden Ring / 艾尔登法环"
     url: "/wiki/entities/eldenring/"
+  - key: "ElectiveStudyAbroad"
+    title: "Elective Study Abroad"
+    url: "/wiki/entities/electivestudyabroad/"
   - key: "ElectricAir"
     title: "Electric Air"
     url: "/wiki/entities/electricair/"

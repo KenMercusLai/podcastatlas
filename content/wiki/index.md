@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Michelle Wahler of Beyond Yoga](sources/advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6.md) — How I Built This Advice Line episode with Michelle Wahler on the bootstrapped Beyond Yoga build, optional fundraising, pre-call qualification, peer-group selling, second first impressions, delivery buffers, and online storytelling for offline brands.
 - [Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem](sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597.md) — All-In solo market check with Brad Gerstner on an earnings-driven rally, semiconductors carrying 70% of the Nasdaq's return, lab revenue versus capex, gigawatt and rate risks, and no-leverage positioning.
 - [《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝](sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek.md) — 芮淇讲透资治通鉴 short episode on Han Wudi's Western Han longevity, Xiongnu chanyu turnover, Du Zhou's 95 BCE death, Bao Shengzhi's appointment, and Baiqu irrigation.
 - [《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”](sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf.md) — 芮淇讲透资治通鉴 short episode on Bao Shengzhi's direct envoy authority, Jun Buyi's moderation counsel, Wang He's life-saving leniency, and an early failed Han-aligned attack on Cheshi.
@@ -2495,6 +2496,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Michelle Wahler](entities/MichelleWahler.md) — Beyond Yoga co-founder and former CEO whose Advice Line episode argues against default fundraising and toward founder-defined, sustainable businesses.
+- [Beyond Yoga](entities/BeyondYoga.md) — Women's yoga apparel brand built slowly through wholesalers, studios, and department stores before a 2021 Levi's acquisition.
+- [Jody Gruber-Brufsky](entities/JodyGruberBrufsky.md) — Co-founder of Beyond Yoga alongside Michelle Wahler.
+- [Quince Hill](entities/QuinceHill.md) — Michelle Wahler's post-exit platform for investing in and mentoring founders.
+- [Levi's](entities/Levis.md) — Apparel company that acquired Beyond Yoga in 2021 in the Advice Line episode's account.
+- [Kari Angoff](entities/KariAngoff.md) — Elective Study Abroad founder whose adult study-abroad funnel converts interest poorly despite strong demand signals.
+- [Elective Study Abroad](entities/ElectiveStudyAbroad.md) — Adult study-abroad business selling place-linked, ten-person seminar weeks that need experience framing and qualification.
+- [Grace Ann Upholstery](entities/GraceAnnUpholstery.md) — Nashville custom upholstery workshop used as the episode's service-recovery, capacity, and delivery-buffer case.
+- [Angel Raymer](entities/AngelRaymer.md) — Sacred Paws Soap Company founder whose gemstone self-care kits sell well in person but not online.
+- [Sacred Paws Soap Company](entities/SacredPawsSoapCompany.md) — Gemstone-soap self-care kit business used as the episode's offline-story-to-online-trust case.
 - [淖姬 / Nuo Ji (Western Han)](entities/NuoJiWesternHan.md) — Western Han consort whose movement across Liu Fei, Liu Jian, and Liu Pengzu shows princely-household dependency and succession exposure.
 - [江都王刘非 / Liu Fei, Jiangdu King (Western Han)](entities/LiuFeiJiangduKingWesternHan.md) — Western Han Jiangdu king whose heroic image, attachment to Nuo Ji, and early death frame her later vulnerability.
 - [江都王刘建 / Liu Jian, Jiangdu King (Western Han)](entities/LiuJianJiangduKingWesternHan.md) — Liu Fei's Jiangdu successor who seizes Nuo Ji and later dies after a rebellion accusation.
@@ -12654,6 +12665,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Sustainable Business Over Scale](concepts/SustainableBusinessOverScale.md) — Position that a small business which pays the founder and preserves their freedom is a complete outcome, and that raising capital is an optional choice rather than a stage requirement.
+- [Pre-Call Qualification](concepts/PreCallQualification.md) — Sales-funnel practice of screening prospects on time, money, and identity commitments before booking a call, trading lead volume for fit.
+- [Peer Group Experience Selling](concepts/PeerGroupExperienceSelling.md) — Selling the cohort itself as the core value of a high-ticket small-group experience rather than the itinerary alone.
+- [Second First Impression](concepts/SecondFirstImpression.md) — Restarting a failed client relationship by fixing the process first, apologising briefly, and earning a small new test with proof.
+- [Delivery Buffer Discipline](concepts/DeliveryBufferDiscipline.md) — Measuring real work time and quoting with deliberate slack so early delivery becomes a reliability signal for intermediary customers.
+- [Offline Story Online Trust](concepts/OfflineStoryOnlineTrust.md) — Ecommerce rule that a page for a skin-contact product has to carry story, trust, and product at once when in-person emotion does not transfer.
 - [AI Offtake Revenue Gap](concepts/AIOfftakeRevenueGap.md) — All-In frame for the distance between committed AI infrastructure capex and the model-lab and application revenue needed to pay for it.
 - [Semiconductor Index Concentration](concepts/SemiconductorIndexConcentration.md) — Industry-level index risk where the chip complex supplies about 70% of the Nasdaq's return and the index inherits the AI capex cycle.
 - [AI Productivity Margin Expansion](concepts/AIProductivityMarginExpansion.md) — Earnings-side AI thesis that margin expansion from flat-headcount growth, not mass layoffs, has to be the pay-off on AI capex.

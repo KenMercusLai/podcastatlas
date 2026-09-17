@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "SaborAMexicoSalsas"
     title: "Sabor a Mexico Salsas"
     url: "/wiki/entities/saboramexicosalsas/"
+  - key: "SacredPawsSoapCompany"
+    title: "Sacred Paws Soap Company"
+    url: "/wiki/entities/sacredpawssoapcompany/"
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"

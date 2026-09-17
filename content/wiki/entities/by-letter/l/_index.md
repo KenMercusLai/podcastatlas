@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "LeviCase"
     title: "Levi Case"
     url: "/wiki/entities/levicase/"
+  - key: "Levis"
+    title: "Levi's"
+    url: "/wiki/entities/levis/"
   - key: "LewisAndClarkExpedition"
     title: "Lewis and Clark Expedition"
     url: "/wiki/entities/lewisandclarkexpedition/"

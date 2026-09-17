@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "QuickStone"
     title: "QuickStone"
     url: "/wiki/entities/quickstone/"
+  - key: "QuinceHill"
+    title: "Quince Hill"
+    url: "/wiki/entities/quincehill/"
   - key: "QuintusCaeciliusMetellusNumidicus"
     title: "Quintus Caecilius Metellus Numidicus / 梅特鲁斯"
     url: "/wiki/entities/quintuscaeciliusmetellusnumidicus/"

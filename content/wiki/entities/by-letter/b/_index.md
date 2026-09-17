@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "BeyondHomeTextile"
     title: "Beyond Home Textile / 博洋家纺"
     url: "/wiki/entities/beyondhometextile/"
+  - key: "BeyondYoga"
+    title: "Beyond Yoga"
+    url: "/wiki/entities/beyondyoga/"
   - key: "BezalelSmotrich"
     title: "Bezalel Smotrich"
     url: "/wiki/entities/bezalelsmotrich/"

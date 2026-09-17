@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2718
+topic_total_pages: 2720
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3548,6 +3548,9 @@ topic_entities:
   - key: "EileenVanDerVelden"
     title: "Eileen van der Velden"
     url: "/wiki/entities/eileenvandervelden/"
+  - key: "ElectiveStudyAbroad"
+    title: "Elective Study Abroad"
+    url: "/wiki/entities/electivestudyabroad/"
   - key: "ElectronicArts"
     title: "Electronic Arts"
     url: "/wiki/entities/electronicarts/"
@@ -4037,6 +4040,9 @@ topic_entities:
   - key: "KaraSwisher"
     title: "Kara Swisher"
     url: "/wiki/entities/karaswisher/"
+  - key: "KariAngoff"
+    title: "Kari Angoff"
+    url: "/wiki/entities/kariangoff/"
   - key: "KarimaSharifAli"
     title: "Karima Sharif-Ali"
     url: "/wiki/entities/karimasharifali/"

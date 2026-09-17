@@ -19930,3 +19930,7 @@ Added source note for Hanji 381-1. Key claims: Han Wudi's unusually long life is
 ## [2026-09-15] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-17] ingest | Advice Line with Michelle Wahler of Beyond Yoga
+
+Added source note for the How I Built This Advice Line episode where Guy Raz and Michelle Wahler advise Elective Study Abroad, Grace Ann Upholstery, and Sacred Paws Soap Company. Key claims: Wahler argues founders need not raise capital or start with an exit plan, and treats a small sustainable business as a legitimate outcome; Kari Angoff's adult study-abroad funnel needs qualification before the sales call and a peer-group offer rather than more urgency; the Nashville upholstery founder can rebuild early designer relationships only after fixing the process, and should quote delivery with buffer so early completion becomes a signal; Angel Raymer's gemstone self-care kits sell on emotion in person but need the website to carry story, trust, and product together. Created entity pages for Michelle Wahler, Beyond Yoga, Jody Gruber-Brufsky, Quince Hill, Levi's, Kari Angoff, Elective Study Abroad, Grace Ann Upholstery, Angel Raymer, and Sacred Paws Soap Company, plus concept pages for sustainable business over scale, pre-call qualification, peer-group experience selling, second first impression, delivery buffer discipline, and offline story online trust. No settled contradiction found; the roughly $400M acquisition, $6,200 average course price, $50,000 workshop revenue, and $35-38 kit price remain source-scoped.

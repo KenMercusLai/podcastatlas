@@ -23359,6 +23359,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ElectiveStudyAbroad": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ElectoralIneligibilityPenalty": [
     {
       "key": "politics",
@@ -39033,6 +39040,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "KariAngoff": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "KarimaSharifAli": [
@@ -56495,6 +56509,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "QuinceHill": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "QuizParty": [
     {
       "key": "technology",
@@ -66151,6 +66172,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SustainableBusinessOverScale": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "SustainableConstructionCarbonTradeoff": [

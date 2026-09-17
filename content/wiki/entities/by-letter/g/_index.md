@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "GPU"
     title: "GPU"
     url: "/wiki/entities/gpu/"
+  - key: "GraceAnnUpholstery"
+    title: "Grace Ann Upholstery"
+    url: "/wiki/entities/graceannupholstery/"
   - key: "GracelandBaskaran"
     title: "Graceland Baskaran"
     url: "/wiki/entities/gracelandbaskaran/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7475
+wiki_total_pages: 7481
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "OfflinePlatformSafetyBoundary"
     title: "Offline Platform Safety Boundary / 线下平台安全边界"
     url: "/wiki/concepts/offlineplatformsafetyboundary/"
+  - key: "OfflineStoryOnlineTrust"
+    title: "Offline Story Online Trust"
+    url: "/wiki/concepts/offlinestoryonlinetrust/"
   - key: "OilCompanyEnclave"
     title: "Oil Company Enclave"
     url: "/wiki/concepts/oilcompanyenclave/"

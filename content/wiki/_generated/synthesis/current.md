@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-17
-as_of_overview_commit: e0b77ccda09bdeff6a599c42e4eb9be2ae3f803c
+as_of_overview_commit: 38cdb45082300547b26325b5f14d481a0f41a1e0
 summary: "The wiki maps AI, institutions, markets, culture, health, history, and work through bounded claims about infrastructure, evidence, trust, and who ultimately pays for the buildout."
-episode_count: 2487
-source_count: 2487
-paragraph_count: 622
+episode_count: 2488
+source_count: 2488
+paragraph_count: 623
 topic_count: 8
 ---
 
@@ -23,6 +23,7 @@ topic_count: 8
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence.
 - [[how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664|The Rutter Huberman Lab episode]] adds a cell-level metabolism branch: [[CellularMetabolismMosaic]] treats whole-body metabolism as many specialized cellular programs, while [[MitochondrialEnergyAllocation]], [[MitochondrialPyruvateCarrier]], [[LactateMetabolicShuttle]], [[CancerMetabolicReprogramming]], and [[ReactiveOxygenSpeciesMetabolicStress]] connect pyruvate routing, lactate fuel use, MPC1/MPC2, cancer growth allocation, and excess-energy ROS damage to [[MedicalRiskManagement]] rather than simple calorie slogans or patient-facing protocols.
+- [[advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6|The Michelle Wahler Advice Line episode]] has [[MichelleWahler]] argue that founders do not have to raise capital or start with an exit plan, that investors make the exit the focus and redirect the company, and that a small business which pays the founder and preserves their freedom is a legitimate outcome, with [[SustainableBusinessOverScale]] and [[FounderControl]] as the core frame.
 
 ## Synthesis by Domain
 
@@ -35,7 +36,7 @@ AI value is increasingly constrained by workflow integration, verification, infr
 
 ### Business and Markets
 
-Business sources emphasize proof over narrative: durable companies need customer value, financing discipline, data or distribution advantages, and clear operating evidence, while AI and private-market stories remain sensitive to capital structure, demand quality, and liquidity timing. The Gerstner market check adds a public-market version in which an earnings-driven rally, a contracting multiple, semiconductor index concentration, and an offtake-versus-capex gap decide whether the AI trade still works.
+Business sources emphasize proof over narrative: durable companies need customer value, financing discipline, data or distribution advantages, and clear operating evidence, while AI and private-market stories remain sensitive to capital structure, demand quality, and liquidity timing. The Gerstner market check adds a public-market version in which an earnings-driven rally, a contracting multiple, semiconductor index concentration, and an offtake-versus-capex gap decide whether the AI trade still works. The Wahler Advice Line source adds a founder-control branch in which optional fundraising, pre-call qualification, peer-group selling, service repair, delivery buffers, and online story-trust decide whether small consumer and service businesses convert.
 
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7475
+wiki_total_pages: 7481
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -290,6 +290,9 @@ wiki_pages:
   - key: "PediatricLanguageDelayEarlyIntervention"
     title: "Pediatric Language Delay Early Intervention"
     url: "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
+  - key: "PeerGroupExperienceSelling"
+    title: "Peer Group Experience Selling"
+    url: "/wiki/concepts/peergroupexperienceselling/"
   - key: "PeerToPeerMarketplaceTrust"
     title: "Peer-to-Peer Marketplace Trust"
     url: "/wiki/concepts/peertopeermarketplacetrust/"
@@ -1091,6 +1094,9 @@ wiki_pages:
   - key: "PragmaticReligiousToleration"
     title: "Pragmatic Religious Toleration"
     url: "/wiki/concepts/pragmaticreligioustoleration/"
+  - key: "PreCallQualification"
+    title: "Pre-Call Qualification"
+    url: "/wiki/concepts/precallqualification/"
   - key: "PreCommercialSportsCommunity"
     title: "Pre-Commercial Sports Community / 商业化前小众运动社群"
     url: "/wiki/concepts/precommercialsportscommunity/"

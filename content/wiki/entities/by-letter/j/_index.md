@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10154
+wiki_total_pages: 10164
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "JodyDeming"
     title: "Jody Deming"
     url: "/wiki/entities/jodydeming/"
+  - key: "JodyGruberBrufsky"
+    title: "Jody Gruber-Brufsky"
+    url: "/wiki/entities/jodygruberbrufsky/"
   - key: "JoeBiden"
     title: "Joe Biden"
     url: "/wiki/entities/joebiden/"
