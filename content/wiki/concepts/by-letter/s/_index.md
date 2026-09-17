@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7493
+wiki_total_pages: 7502
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1862,15 +1862,24 @@ wiki_pages:
   - key: "SupplementBrandConsolidation"
     title: "Supplement Brand Consolidation"
     url: "/wiki/concepts/supplementbrandconsolidation/"
+  - key: "SupplementContractManufacturing"
+    title: "Supplement Contract Manufacturing / 保健品代工体系"
+    url: "/wiki/concepts/supplementcontractmanufacturing/"
   - key: "SupplementLabelAccuracy"
     title: "Supplement Label Accuracy"
     url: "/wiki/concepts/supplementlabelaccuracy/"
+  - key: "SupplementMarketingIntensity"
+    title: "Supplement Marketing Intensity / 保健品营销强度"
+    url: "/wiki/concepts/supplementmarketingintensity/"
   - key: "SupplementPlaceboEffect"
     title: "Supplement Placebo Effect"
     url: "/wiki/concepts/supplementplaceboeffect/"
   - key: "SupplementStructureFunctionClaims"
     title: "Supplement Structure Function Claims"
     url: "/wiki/concepts/supplementstructurefunctionclaims/"
+  - key: "SupplementsGoodManufacturingPractice"
+    title: "Supplements Good Manufacturing Practice / 保健品GMP"
+    url: "/wiki/concepts/supplementsgoodmanufacturingpractice/"
   - key: "SupplierConcentrationCrisis"
     title: "Supplier Concentration Crisis"
     url: "/wiki/concepts/supplierconcentrationcrisis/"

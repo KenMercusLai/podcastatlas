@@ -19947,6 +19947,14 @@ Added source note for the second half of the The Rest Is History Abyssinian sequ
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-17] ingest | Vol.275 澳洲保健品是怎么火起来的？
+
+Added source `vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861`; created entity pages for Swisse, Blackmores, the Therapeutic Goods Administration, Pan Pharmaceuticals, H&H Group / 合生元·健合集团, and ByHealth / 汤臣倍健; created concept pages for Australian therapeutic goods regulation, the Australian non-traditional medicine tradition, supplement contract manufacturing, gendered supplement segmentation, supplement marketing intensity, the daigou channel, bonded-warehouse cross-border import, supplements GMP, and constructed category trust; migrated `DietarySupplementRegulation` and `SupplementStructureFunctionClaims` to synthesis-v1 with an Australian comparison and refreshed `Australia` and `FunctionalFoodRegulatoryIdentity`; updated `index.md`, `overview.md`, and the downstream synthesis artifacts. Core synthesis: Australia's supplement reputation was assembled from real ingredients - colonial self-care and pharmacy compounding, naturopathy and health-food retail, a purpose-built contract-manufacturing sector, and a drug-style regulator that assigns most supplements to a self-assessed listed track with no pre-market efficacy review - then amplified by marketing-led brands such as Swisse and Blackmores and by Chinese channels running first through daigou and then through 2015 bonded-warehouse retail, so manufacturing and claim vocabulary are supervised while efficacy is asserted by the brand and verified by nobody, and 合生元's acquisition of Swisse shows the belief outliving the ownership change. No settled contradiction found; transcript names 斯维斯/思维师, 澳家宝/Black Moss, 和声园, and 建和集团 are normalized to Swisse, Blackmores, 合生元, and 健合集团, and company, market, tariff, and financial figures remain source-scoped.
+
+## [2026-09-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10178
+wiki_total_pages: 10184
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "Theranos"
     title: "Theranos"
     url: "/wiki/entities/theranos/"
+  - key: "TherapeuticGoodsAdministration"
+    title: "Therapeutic Goods Administration / TGA"
+    url: "/wiki/entities/therapeuticgoodsadministration/"
   - key: "TherapeuticInnovationCenter"
     title: "Therapeutic Innovation Center"
     url: "/wiki/entities/therapeuticinnovationcenter/"

@@ -1053,9 +1053,40 @@
         "MedicalDiagnosticReasoning",
         "DoctorPatientCommunication"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "supplement-oversight-separates-manufacturing-assurance-from-efficacy-proof",
+      "qualifications": [
+        "Track thresholds, the 98% listed share, and the complementary-medicine count are episode figures requiring verification against TGA guidance.",
+        "Australia enforces ingredient eligibility, claim wording, and manufacturing more visibly than the U.S. framework described here, so the shared property is the efficacy gap rather than an identical regime."
+      ],
+      "statement": "Australian supplement oversight reinforces the wiki's existing finding that regulation can assure process without proving benefit: [[SupplementsGoodManufacturingPractice|GMP]] guarantees description accuracy, batch consistency, traceability, and recall, and the listed [[AustralianTherapeuticGoodsRegulation|AUSTL track]] bounds ingredients and claim vocabulary, while efficacy remains the brand's assertion, matching the [[DietarySupplementRegulation|U.S. pattern]] recorded here.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861",
+        "SupplementsGoodManufacturingPractice",
+        "AustralianTherapeuticGoodsRegulation",
+        "TherapeuticGoodsAdministration",
+        "DietarySupplementRegulation"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "health-ingredients-migrate-to-food-categories-when-registration-is-harder",
+      "qualifications": [
+        "The migration is described through examples rather than measured category data.",
+        "Using a food category is not inherently an evasion; the source points at a registration-gap incentive rather than proving intent."
+      ],
+      "statement": "Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and milk tea because the [[FunctionalFoodRegulatoryIdentity|food route]] is easier than health-food registration, and new permitted function descriptions such as bone-and-joint health can create immediate product demand.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861",
+        "FunctionalFoodRegulatoryIdentity"
+      ]
     }
   ],
-  "input_digest": "4da245d68bdd54d06f45f23b5d32aea020950b4f93842d87e5d728e08dad1128",
-  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, and qualified care matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise and flexibility, first aid, autism and gene-editing ethics, and now grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, and science-policy capacity.",
+  "input_digest": "7466fc2ab3bfea2264b5dda9e72ebfdc563bc6013f8f7202714595c4815490b8",
+  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, and qualified care matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise and flexibility, first aid, autism and gene-editing ethics, and now grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, and science-policy capacity. The Australian supplement case adds a process-versus-benefit separation to the health branch: [[SupplementsGoodManufacturingPractice|GMP]] and the listed [[AustralianTherapeuticGoodsRegulation|AUSTL track]] supervise manufacture, ingredient eligibility, claim wording, and post-market sampling while efficacy stays the brand's assertion, and collagen or probiotic ingredients move into ordinary foods, drinks, and cosmetics when the [[FunctionalFoodRegulatoryIdentity|health-product route]] is harder.",
   "topic_id": "science-health-and-climate"
 }

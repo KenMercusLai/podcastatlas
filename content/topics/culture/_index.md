@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2724
+topic_total_pages: 2725
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -370,6 +370,9 @@ topic_concepts:
   - key: "AudienceBackedRetailPitch"
     title: "Audience-Backed Retail Pitch"
     url: "/wiki/concepts/audiencebackedretailpitch/"
+  - key: "AustralianNonTraditionalMedicineTradition"
+    title: "Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统"
+    url: "/wiki/concepts/australiannontraditionalmedicinetradition/"
   - key: "AuteurTheory"
     title: "Auteur Theory"
     url: "/wiki/concepts/auteurtheory/"

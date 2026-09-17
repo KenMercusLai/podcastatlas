@@ -1647,10 +1647,27 @@
         "SevenLearnings",
         "PaidPilotValueProof"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "category-trust-can-be-constructed-from-plausible-facts-and-distribution",
+      "qualifications": [
+        "The episode reconstructs the inference chain interpretively and offers no consumer research on how widely the belief is held.",
+        "Origin-country signals are not meaningless: the source says the tradition, industry, and regulator behind the reputation are real."
+      ],
+      "statement": "[[ConstructedCategoryTrust]] frames consumer conviction as an inference chain rather than a verified fact - supplements sold in Australian pharmacies, therefore strict regulation, therefore effective products, therefore national competence - which [[SupplementMarketingIntensity]] and the [[DaigouChannel]] followed by [[BondedWarehouseCrossBorderImport|bonded-warehouse]] retail converted into buying behaviour.",
+      "status": "supported",
+      "supporting_wikilinks": [
+        "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861",
+        "ConstructedCategoryTrust",
+        "SupplementMarketingIntensity",
+        "DaigouChannel",
+        "BondedWarehouseCrossBorderImport"
+      ]
     }
   ],
-  "input_digest": "88bebc06bcb42df08cd6beebcf0f7220df921bc918f1375eba9d9c9b79c9e8a6",
-  "summary": "Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation.",
+  "input_digest": "6e78b64155a0ebfd321b0fcb219ea4b666757c0e97bed051b8ec42eb88792fcf",
+  "summary": "Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The same supplement source adds a belief-formation case through [[ConstructedCategoryTrust]]: pharmacy presence, assumed strict regulation, assumed effectiveness, and assumed national competence chain into an obvious conclusion, so the domain gains a reminder that trust can be manufactured from plausible facts plus a strong distribution mechanism instead of being tested against outcomes.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

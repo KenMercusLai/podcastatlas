@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "221fb8c5aacdcd83887469e595d1b790a7b149815ed3721d41755784e85ae711",
       "e47c7bb11e6454b816a38a07c601664671983a23d53efc4772ba5cfe4ca5d544",
       "218acc007f390e3a27bb4c028b1108b79f5508874fd6e8a81feae12bc9257278",
       "3b6f76a5a9af36a74afc7bc3a236bd01aefb77c3e3df73a5f8b34e9ebbd152af",
@@ -627,11 +628,49 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 625
+    "paragraph_count": 626
   },
-  "overview_commit": "e43ce000434cf92f357757d5447e7ba5188ccfc3",
-  "overview_digest": "883c4ef841b52dc8766b5174c4732d0d1f6cf12ae654b55e0ff2924bf77bcba8",
+  "overview_commit": "32f8a4aa15a77ca40d8f1d87660e61e7ab945fa5",
+  "overview_digest": "d6cfe7ec4bff09b89a09fef1acb5707af2fea3c8e41c2a9381ed7170aa35d154",
   "paragraphs": [
+    {
+      "id": "221fb8c5aacdcd83887469e595d1b790a7b149815ed3721d41755784e85ae711",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861|Vol.275 澳洲保健品是怎么火起来的？]], a [[ShangyeJiushiZheyang|商业就是这样]] episode on why Chinese consumers treat Australian supplements as a trusted category. It adds [[Swisse]], [[Blackmores]], [[TherapeuticGoodsAdministration]], [[PanPharmaceuticals]], [[HAndHGroup]], [[ByHealth]], [[AustralianTherapeuticGoodsRegulation]], [[AustralianNonTraditionalMedicineTradition]], [[SupplementContractManufacturing]], [[GenderedSupplementSegmentation]], [[SupplementMarketingIntensity]], [[DaigouChannel]], [[BondedWarehouseCrossBorderImport]], [[SupplementsGoodManufacturingPractice]], and [[ConstructedCategoryTrust]], while extending [[Australia]], [[DietarySupplementRegulation]], [[SupplementStructureFunctionClaims]], and [[FunctionalFoodRegulatoryIdentity]]. Its core synthesis is that the category's reputation was assembled from real ingredients - a colonial self-care and naturopathy tradition, compounding pharmacists, a purpose-built contract-manufacturing sector, and a drug-style regulator that assigns most supplements to a self-assessed listed track - and then amplified by marketing-led brands and Chinese cross-border channels that ran first through daigou and then through 2015 bonded-warehouse retail, so manufacturing quality and claim vocabulary are genuinely supervised while efficacy is asserted by the brand and verified by no one, and 合生元's acquisition of Swisse shows the belief itself outliving the ownership change. No settled contradiction is recorded; the roughly 70% contract-manufacturing concentration, the roughly 10,000 complementary medicines and 98% listed share, Swisse's revenue, ambassador count, advertisement count, marketing spend, market shares, the roughly AUD 1.7 billion deal size, the 3-10% and roughly 20% tariff estimates, and 汤臣倍健's 42% selling-expense ratio remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "Australia",
+        "AustralianNonTraditionalMedicineTradition",
+        "AustralianTherapeuticGoodsRegulation",
+        "Blackmores",
+        "BondedWarehouseCrossBorderImport",
+        "ByHealth",
+        "ConstructedCategoryTrust",
+        "DaigouChannel",
+        "DietarySupplementRegulation",
+        "FunctionalFoodRegulatoryIdentity",
+        "GenderedSupplementSegmentation",
+        "HAndHGroup",
+        "PanPharmaceuticals",
+        "ShangyeJiushiZheyang",
+        "SupplementContractManufacturing",
+        "SupplementMarketingIntensity",
+        "SupplementStructureFunctionClaims",
+        "SupplementsGoodManufacturingPractice",
+        "Swisse",
+        "TherapeuticGoodsAdministration",
+        "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861"
+      ]
+    },
     {
       "id": "e47c7bb11e6454b816a38a07c601664671983a23d53efc4772ba5cfe4ca5d544",
       "primary_topic": "business-and-markets",

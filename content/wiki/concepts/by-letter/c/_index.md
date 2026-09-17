@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7493
+wiki_total_pages: 7502
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1496,6 +1496,9 @@ wiki_pages:
   - key: "ConstraintDrivenProductDiscipline"
     title: "Constraint-Driven Product Discipline"
     url: "/wiki/concepts/constraintdrivenproductdiscipline/"
+  - key: "ConstructedCategoryTrust"
+    title: "Constructed Category Trust / 被建构的品类信任"
+    url: "/wiki/concepts/constructedcategorytrust/"
   - key: "ConstructionBlueprintVersionControl"
     title: "Construction Blueprint Version Control"
     url: "/wiki/concepts/constructionblueprintversioncontrol/"

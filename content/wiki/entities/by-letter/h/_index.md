@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10178
+wiki_total_pages: 10184
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "Huaxizi"
     title: "Florasis / 花西子"
     url: "/wiki/entities/huaxizi/"
+  - key: "HAndHGroup"
+    title: "H&H Group / 合生元·健合集团"
+    url: "/wiki/entities/handhgroup/"
   - key: "HEB"
     title: "H-E-B"
     url: "/wiki/entities/heb/"

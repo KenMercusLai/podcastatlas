@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10178
+wiki_total_pages: 10184
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "BlackBerry"
     title: "BlackBerry"
     url: "/wiki/entities/blackberry/"
+  - key: "Blackmores"
+    title: "Blackmores / 澳佳宝"
+    url: "/wiki/entities/blackmores/"
   - key: "BLACKPINK"
     title: "BLACKPINK"
     url: "/wiki/entities/blackpink/"
@@ -887,6 +890,9 @@ wiki_pages:
   - key: "BYD"
     title: "BYD"
     url: "/wiki/entities/byd/"
+  - key: "ByHealth"
+    title: "ByHealth / 汤臣倍健"
+    url: "/wiki/entities/byhealth/"
   - key: "ByteDance"
     title: "ByteDance"
     url: "/wiki/entities/bytedance/"

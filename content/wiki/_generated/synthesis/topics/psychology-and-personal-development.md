@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-13
-as_of_overview_commit: 38e696904610b4f6cae1fe77ffb88d93bdee2b99
-input_digest: 88bebc06bcb42df08cd6beebcf0f7220df921bc918f1375eba9d9c9b79c9e8a6
+last_updated: 2026-09-17
+as_of_overview_commit: 32f8a4aa15a77ca40d8f1d87660e61e7ab945fa5
+input_digest: 6e78b64155a0ebfd321b0fcb219ea4b666757c0e97bed051b8ec42eb88792fcf
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation.
+Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The same supplement source adds a belief-formation case through [[ConstructedCategoryTrust]]: pharmacy presence, assumed strict regulation, assumed effectiveness, and assumed national competence chain into an obvious conclusion, so the domain gains a reminder that trust can be manufactured from plausible facts plus a strong distribution mechanism instead of being tested against outcomes.
 
 ## Cross-source Findings
 
@@ -942,3 +942,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - This is not clinical, therapeutic, or general personal-development evidence.
 - The founder-judgment reading should remain secondary to the episode's business and technology claims.
+
+### Category Trust Can Be Constructed From Plausible Facts And Distribution
+
+[[ConstructedCategoryTrust]] frames consumer conviction as an inference chain rather than a verified fact - supplements sold in Australian pharmacies, therefore strict regulation, therefore effective products, therefore national competence - which [[SupplementMarketingIntensity]] and the [[DaigouChannel]] followed by [[BondedWarehouseCrossBorderImport|bonded-warehouse]] retail converted into buying behaviour.
+
+**Evidence:** [[vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861]], [[ConstructedCategoryTrust]], [[SupplementMarketingIntensity]], [[DaigouChannel]], [[BondedWarehouseCrossBorderImport]]
+
+**Qualifications:**
+
+- The episode reconstructs the inference chain interpretively and offers no consumer research on how widely the belief is held.
+- Origin-country signals are not meaningless: the source says the tradition, industry, and regulator behind the reputation are real.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.275 澳洲保健品是怎么火起来的？](sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861.md) — 商业就是这样 episode on how Australia's supplement industry grew out of self-care traditions, contract manufacturing, listed-track regulation, marketing-led brands like Swisse and Blackmores, and the daigou and bonded-warehouse channels that built Chinese demand.
 - [图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏](sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412.md) — 声动早咖啡 roundup on Ctrip's penalty-driven quarter, ByteDance's AI-heavy half, Apple's Emmy lead, the Seres-Huawei AITO reset, BYD's European local production, Waymo's Tokyo robotaxi plan, Meta's camera-free glasses, NikeSkims in China, and Luxihe's executive hires.
 - [706. Queen Victoria's Revenge: Storming the Citadel (Part 2)](sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568.md) — The Rest Is History episode on Napier's 1868 march to Magdala, industrial firepower against Theodros II, the released hostages, the looted citadel, and the leaderless Abyssinia left behind.
 - [Advice Line with Michelle Wahler of Beyond Yoga](sources/advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6.md) — How I Built This Advice Line episode with Michelle Wahler on the bootstrapped Beyond Yoga build, optional fundraising, pre-call qualification, peer-group selling, second first impressions, delivery buffers, and online storytelling for offline brands.
@@ -2498,6 +2499,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Blackmores / 澳佳宝](entities/Blackmores.md) — Australian supplement brand the source uses to show naturopathic practice converting into a mainstream industrial product.
+- [ByHealth / 汤臣倍健](entities/ByHealth.md) — Chinese supplement company cited for a 42% selling-expense ratio while revenue and profit growth lagged marketing spend.
+- [H&H Group / 合生元·健合集团](entities/HAndHGroup.md) — Chinese consumer-health group that acquired Swisse in 2015 and kept the brand's Australian identity.
+- [Pan Pharmaceuticals](entities/PanPharmaceuticals.md) — Australian supplement contract manufacturer founded in 1974 and reported to have produced about 70% of national vitamin, mineral, and herbal output by around 2003.
+- [Swisse / 斯维斯](entities/Swisse.md) — Marketing-led Australian supplement brand, acquired by 合生元 in 2015, whose Chinese demand first appeared through daigou.
+- [Therapeutic Goods Administration / TGA](entities/TherapeuticGoodsAdministration.md) — Australian regulator that assigns AUST numbers and splits supplements between self-assessed listed and pre-market-assessed registered tracks.
 - [Apple TV+](entities/AppleTVPlus.md) — Apple's subscription streaming service used as the source's awards-leadership-versus-audience-scale case.
 - [Emmy Awards](entities/EmmyAwards.md) — U.S. television awards used to track which funders still back prestige production and how much output remains.
 - [Kim Kardashian](entities/KimKardashian.md) — Celebrity founder of Skims whose personal visibility is treated as consumer-brand attention infrastructure.
@@ -12681,6 +12688,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统](concepts/AustralianNonTraditionalMedicineTradition.md) — Self-medication, compounding pharmacists, naturopathy, and health-food retail as the cultural soil under Australia's supplement industry.
+- [Australian Therapeutic Goods Regulation / 澳洲保健品监管](concepts/AustralianTherapeuticGoodsRegulation.md) — Drug-style Australian framework in which most supplements are self-assessed listed goods and efficacy review is largely absent.
+- [Bonded Warehouse Cross-Border Import / 保税仓跨境电商](concepts/BondedWarehouseCrossBorderImport.md) — 2015 policy window in which platforms stocked domestic bonded warehouses and sold supplements as personal-use items that skipped ordinary import registration.
+- [Constructed Category Trust / 被建构的品类信任](concepts/ConstructedCategoryTrust.md) — Reputation that becomes common sense through plausible facts, successful brand stories, and a strong distribution push rather than verified product performance.
+- [Daigou Channel / 代购渠道](concepts/DaigouChannel.md) — Informal overseas purchasing by students, migrants, and resellers that proved Chinese demand and built category awareness before formal cross-border retail.
+- [Gendered Supplement Segmentation / 性别细分保健品](concepts/GenderedSupplementSegmentation.md) — Splitting a standard multivitamin into women's, men's, and life-stage variants so an industrial product feels individually targeted.
+- [Supplement Contract Manufacturing / 保健品代工体系](concepts/SupplementContractManufacturing.md) — CMO-to-CDMO outsourcing layer that lets supplement brands supply a concept while factories handle dosage forms, testing, and registration.
+- [Supplement Marketing Intensity / 保健品营销强度](concepts/SupplementMarketingIntensity.md) — Pattern in which selling expense rather than formulation or evidence becomes the supplement category's main competitive weapon.
+- [Supplements Good Manufacturing Practice / 保健品GMP](concepts/SupplementsGoodManufacturingPractice.md) — Production standard that assures description accuracy, batch consistency, traceability, and recall without certifying that a product works.
 - [AI Investment Margin Drag / AI投入拖累利润](concepts/AIInvestmentMarginDrag.md) — Pattern where AI spending grows faster than the revenue it produces, so profit falls while revenue rises.
 - [Camera-Free Smart Glasses / 无摄像头智能眼镜](concepts/CameraFreeSmartGlasses.md) — Wearable design that keeps voice assistant interaction through microphones while removing the camera and its bystander-capture surface.
 - [Chain Executive Import / 餐饮高管引入](concepts/ChainExecutiveImport.md) — Consumer chains hiring managers and marketers from large restaurant groups to install professional operating systems during a category reshuffle.

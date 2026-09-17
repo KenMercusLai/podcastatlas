@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10178
+wiki_total_pages: 10184
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1508,6 +1508,9 @@ wiki_pages:
   - key: "SwireGroup"
     title: "Swire Group / 太古集团"
     url: "/wiki/entities/swiregroup/"
+  - key: "Swisse"
+    title: "Swisse / 斯维斯"
+    url: "/wiki/entities/swisse/"
   - key: "Switzerland"
     title: "Switzerland"
     url: "/wiki/entities/switzerland/"

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1110
+topic_total_pages: 1112
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -148,6 +148,12 @@ topic_concepts:
   - key: "AssistedReproductionDecisionLiteracy"
     title: "Assisted Reproduction Decision Literacy"
     url: "/wiki/concepts/assistedreproductiondecisionliteracy/"
+  - key: "AustralianNonTraditionalMedicineTradition"
+    title: "Australian Non-Traditional Medicine Tradition / 澳洲非传统医疗传统"
+    url: "/wiki/concepts/australiannontraditionalmedicinetradition/"
+  - key: "AustralianTherapeuticGoodsRegulation"
+    title: "Australian Therapeutic Goods Regulation / 澳洲保健品监管"
+    url: "/wiki/concepts/australiantherapeuticgoodsregulation/"
   - key: "AvailabilityHeuristic"
     title: "Availability Heuristic"
     url: "/wiki/concepts/availabilityheuristic/"
