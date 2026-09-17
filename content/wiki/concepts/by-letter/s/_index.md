@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7472
+wiki_total_pages: 7475
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "Semiconductor3DStacking"
     title: "Semiconductor 3D Stacking"
     url: "/wiki/concepts/semiconductor3dstacking/"
+  - key: "SemiconductorIndexConcentration"
+    title: "Semiconductor Index Concentration"
+    url: "/wiki/concepts/semiconductorindexconcentration/"
   - key: "SemiconductorPrecisionCleaning"
     title: "Semiconductor Precision Cleaning"
     url: "/wiki/concepts/semiconductorprecisioncleaning/"

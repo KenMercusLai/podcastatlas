@@ -4617,6 +4617,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIOfftakeRevenueGap": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AIOperationsRole": [
     {
       "key": "technology",
@@ -4769,6 +4781,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AIProductivityMarginExpansion": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "AIProductivityRatchet": [
@@ -60901,6 +60925,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "SemiconductorIndexConcentration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SemiconductorPrecisionCleaning": [
     {
       "key": "technology",
@@ -79247,6 +79283,18 @@
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597": [
     {
       "key": "technology",
       "label": "Technology",

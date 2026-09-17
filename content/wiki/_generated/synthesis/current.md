@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-09-15
-as_of_overview_commit: d8bdfff053a38f7747aba73e8247015e916b0911
-summary: "The wiki maps AI, institutions, markets, culture, health, history, and work through bounded claims about infrastructure, trust, evidence, and operational constraints."
-episode_count: 2475
-source_count: 2475
-paragraph_count: 621
+last_updated: 2026-09-17
+as_of_overview_commit: e0b77ccda09bdeff6a599c42e4eb9be2ae3f803c
+summary: "The wiki maps AI, institutions, markets, culture, health, history, and work through bounded claims about infrastructure, evidence, trust, and who ultimately pays for the buildout."
+episode_count: 2487
+source_count: 2487
+paragraph_count: 622
 topic_count: 8
 ---
 
@@ -16,6 +16,7 @@ topic_count: 8
 
 ## Executive Summary
 
+- [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis.
 - AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale.
@@ -34,10 +35,10 @@ AI value is increasingly constrained by workflow integration, verification, infr
 
 ### Business and Markets
 
-Business sources emphasize proof over narrative: durable companies need customer value, financing discipline, data or distribution advantages, and clear operating evidence, while AI and private-market stories remain sensitive to capital structure, demand quality, and liquidity timing.
+Business sources emphasize proof over narrative: durable companies need customer value, financing discipline, data or distribution advantages, and clear operating evidence, while AI and private-market stories remain sensitive to capital structure, demand quality, and liquidity timing. The Gerstner market check adds a public-market version in which an earnings-driven rally, a contracting multiple, semiconductor index concentration, and an offtake-versus-capex gap decide whether the AI trade still works.
 
+- [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].
-- [[trump-drinks-venezuelas-milkshake]] and [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] now frame Venezuela oil reopening as a market test of capital, technology, legitimacy, and enforceable property rights at once: [[PDVSA]] underinvestment and heavy-oil needs make foreign capacity useful, while [[OilReopeningBacklash]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[JoseAngelPereira|José Ángel Pereira]]'s Citgo imprisonment, and the source-scoped [[NorthAmericanBlueEnergyPartners]] concession make contract credibility, authority, and executive safety part of the investment case. Evidence: [[trump-drinks-venezuelas-milkshake]], [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]], [[Venezuela]], [[JoseAngelPereira]], [[OilReopeningBacklash]], [[NorthAmericanBlueEnergyPartners]], [[PDVSA]], [[Citgo]], [[Chevron]], [[OilConcessionBargaining]], [[OilRevenueDependence]], [[PoliticalResourceCurse]].
 
 ### Culture and Media
 

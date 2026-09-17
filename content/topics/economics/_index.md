@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2046
+topic_total_pages: 2050
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -169,12 +169,18 @@ topic_concepts:
   - key: "AILaborSubstitutionValuationBoundary"
     title: "AI Labor Substitution Valuation Boundary / AI劳动力替代估值边界"
     url: "/wiki/concepts/ailaborsubstitutionvaluationboundary/"
+  - key: "AIOfftakeRevenueGap"
+    title: "AI Offtake Revenue Gap"
+    url: "/wiki/concepts/aiofftakerevenuegap/"
   - key: "AIPlatformEcosystemDiffusion"
     title: "AI Platform Ecosystem Diffusion"
     url: "/wiki/concepts/aiplatformecosystemdiffusion/"
   - key: "AIPortfolioLeverageLiquidation"
     title: "AI Portfolio Leverage Liquidation"
     url: "/wiki/concepts/aiportfolioleverageliquidation/"
+  - key: "AIProductivityMarginExpansion"
+    title: "AI Productivity Margin Expansion"
+    url: "/wiki/concepts/aiproductivitymarginexpansion/"
   - key: "AIRecruitingSourcing"
     title: "AI Recruiting Sourcing"
     url: "/wiki/concepts/airecruitingsourcing/"
@@ -2500,6 +2506,9 @@ topic_concepts:
   - key: "SellSideResearchIncentives"
     title: "Sell-Side Research Incentives"
     url: "/wiki/concepts/sellsideresearchincentives/"
+  - key: "SemiconductorIndexConcentration"
+    title: "Semiconductor Index Concentration"
+    url: "/wiki/concepts/semiconductorindexconcentration/"
   - key: "ShanghaiForeignBanks"
     title: "Shanghai Foreign Banks"
     url: "/wiki/concepts/shanghaiforeignbanks/"
@@ -5544,6 +5553,9 @@ topic_sources:
   - key: "tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio"
     title: "Blake Scholl, Founder & CEO of Boom Supersonic"
     url: "/wiki/sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597"
+    title: "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597/"
   - key: "socialradarspod-brianarmstrong-final"
     title: "Brian Armstrong on Coinbase's Origin, Crypto Regulation, FTX, and Founder Resilience"
     url: "/wiki/sources/socialradarspod-brianarmstrong-final/"

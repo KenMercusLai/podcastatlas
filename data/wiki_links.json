@@ -2551,6 +2551,10 @@
     "title": "AI Offshoring Labor Resilience",
     "url": "/wiki/concepts/aioffshoringlaborresilience/"
   },
+  "AIOfftakeRevenueGap": {
+    "title": "AI Offtake Revenue Gap",
+    "url": "/wiki/concepts/aiofftakerevenuegap/"
+  },
   "AIOperationsRole": {
     "title": "AI Operations Role",
     "url": "/wiki/concepts/aioperationsrole/"
@@ -2618,6 +2622,10 @@
   "AIProductFragmentation": {
     "title": "AI Product Fragmentation",
     "url": "/wiki/concepts/aiproductfragmentation/"
+  },
+  "AIProductivityMarginExpansion": {
+    "title": "AI Productivity Margin Expansion",
+    "url": "/wiki/concepts/aiproductivitymarginexpansion/"
   },
   "AIProductivityRatchet": {
     "title": "AI Productivity Ratchet / AI 生产率棘轮",
@@ -54711,6 +54719,10 @@
     "title": "Semiconductor 3D Stacking",
     "url": "/wiki/concepts/semiconductor3dstacking/"
   },
+  "SemiconductorIndexConcentration": {
+    "title": "Semiconductor Index Concentration",
+    "url": "/wiki/concepts/semiconductorindexconcentration/"
+  },
   "SemiconductorPrecisionCleaning": {
     "title": "Semiconductor Precision Cleaning",
     "url": "/wiki/concepts/semiconductorprecisioncleaning/"
@@ -72190,6 +72202,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010": {
     "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597": {
+    "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165": {
     "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7472
+wiki_total_pages: 7475
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "AIOffshoringLaborResilience"
     title: "AI Offshoring Labor Resilience"
     url: "/wiki/concepts/aioffshoringlaborresilience/"
+  - key: "AIOfftakeRevenueGap"
+    title: "AI Offtake Revenue Gap"
+    url: "/wiki/concepts/aiofftakerevenuegap/"
   - key: "AIOperationsRole"
     title: "AI Operations Role"
     url: "/wiki/concepts/aioperationsrole/"
@@ -1145,6 +1148,9 @@ wiki_pages:
   - key: "AIProductFragmentation"
     title: "AI Product Fragmentation"
     url: "/wiki/concepts/aiproductfragmentation/"
+  - key: "AIProductivityMarginExpansion"
+    title: "AI Productivity Margin Expansion"
+    url: "/wiki/concepts/aiproductivitymarginexpansion/"
   - key: "AIProductivityRatchet"
     title: "AI Productivity Ratchet / AI 生产率棘轮"
     url: "/wiki/concepts/aiproductivityratchet/"

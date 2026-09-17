@@ -149,20 +149,20 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Brad Gerstner： No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem [42936597].md",
-      "source_note_count": 62,
-      "topic_matched_source_note_count": 58,
+      "source_note_count": 63,
+      "topic_matched_source_note_count": 59,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 45
+          "source_note_count": 46
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 23
+          "source_note_count": 24
         },
         {
           "key": "politics",
@@ -228,18 +228,18 @@
           "episode_count": 5
         },
         {
-          "key": "DemocraticSocialistsOfAmerica",
-          "title": "Democratic Socialists of America",
-          "url": "/wiki/entities/democraticsocialistsofamerica/",
-          "kind": "organization",
+          "key": "BradGerstner",
+          "title": "Brad Gerstner",
+          "url": "/wiki/entities/bradgerstner/",
+          "kind": "person",
           "episode_count": 4
         }
       ],
       "start_here_episode_files": [
-        "All-In with Chamath, Jason, Sacks & Friedberg - Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX⧸Tesla Merger [42906702].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Brad Gerstner： No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem [42936597].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md"
+        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md"
       ]
     },
     "Anyway.FM 设计杂谈": {

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3027
+topic_total_pages: 3031
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -694,6 +694,9 @@ topic_concepts:
   - key: "AIOffshoringLaborResilience"
     title: "AI Offshoring Labor Resilience"
     url: "/wiki/concepts/aioffshoringlaborresilience/"
+  - key: "AIOfftakeRevenueGap"
+    title: "AI Offtake Revenue Gap"
+    url: "/wiki/concepts/aiofftakerevenuegap/"
   - key: "AIOperationsRole"
     title: "AI Operations Role"
     url: "/wiki/concepts/aioperationsrole/"
@@ -745,6 +748,9 @@ topic_concepts:
   - key: "AIProductFragmentation"
     title: "AI Product Fragmentation"
     url: "/wiki/concepts/aiproductfragmentation/"
+  - key: "AIProductivityMarginExpansion"
+    title: "AI Productivity Margin Expansion"
+    url: "/wiki/concepts/aiproductivitymarginexpansion/"
   - key: "AIProductivityRatchet"
     title: "AI Productivity Ratchet / AI 生产率棘轮"
     url: "/wiki/concepts/aiproductivityratchet/"
@@ -3598,6 +3604,9 @@ topic_concepts:
   - key: "Semiconductor3DStacking"
     title: "Semiconductor 3D Stacking"
     url: "/wiki/concepts/semiconductor3dstacking/"
+  - key: "SemiconductorIndexConcentration"
+    title: "Semiconductor Index Concentration"
+    url: "/wiki/concepts/semiconductorindexconcentration/"
   - key: "SemiconductorPrecisionCleaning"
     title: "Semiconductor Precision Cleaning"
     url: "/wiki/concepts/semiconductorprecisioncleaning/"
@@ -8037,6 +8046,9 @@ topic_sources:
   - key: "bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf"
     title: "Bots on the ground: China leads humanoid race"
     url: "/wiki/sources/bots-on-the-ground-china-leads-humanoid-race-6a91564cee851f3f31239bbf/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597"
+    title: "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597/"
   - key: "tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128"
     title: "Brands are racing to show up in AI search"
     url: "/wiki/sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128/"

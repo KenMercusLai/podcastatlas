@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem](sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597.md) — All-In solo market check with Brad Gerstner on an earnings-driven rally, semiconductors carrying 70% of the Nasdaq's return, lab revenue versus capex, gigawatt and rate risks, and no-leverage positioning.
 - [《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝](sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek.md) — 芮淇讲透资治通鉴 short episode on Han Wudi's Western Han longevity, Xiongnu chanyu turnover, Du Zhou's 95 BCE death, Bao Shengzhi's appointment, and Baiqu irrigation.
 - [《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”](sources/zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf.md) — 芮淇讲透资治通鉴 short episode on Bao Shengzhi's direct envoy authority, Jun Buyi's moderation counsel, Wang He's life-saving leniency, and an early failed Han-aligned attack on Cheshi.
 - [《资治通鉴·汉纪》380-1｜李陵投降匈奴，如何演变成更大的悲剧？](sources/zizhi-tongjian-hanji-380-1-liling-touxiang-xiongnu-ruhe-yanbian-cheng-gengdade-beiju-ls70jnzybc7z3of-tpfbdwb9ns89.md) — 芮淇讲透资治通鉴 short episode on Li Ling's family reputation, infantry defeat, surrender to Xiongnu, late-Han-Wudi war finance, and the tragedy later enlarged by blame transfer and family destruction.
@@ -6621,7 +6622,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Palo Alto Networks](entities/PaloAltoNetworks.md) — Cybersecurity company used by Nikesh Arora to ground Mythos testing, AI vulnerability discovery, security data expansion, and agent-era identity needs.
 - [Mythos AI Security Test](entities/MythosAISecurityTest.md) — Source-scoped Palo Alto Networks test of AI-assisted vulnerability discovery, kept separate from earlier Methos/Glasswing/Glassfin naming until reconciled.
 - [Change Healthcare](entities/ChangeHealthcare.md) — Healthcare cyber-disruption example used by Nikesh Arora to show how weak ordinary systems can create broad economic impact.
-- [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in All-In episodes on secondaries, AI IPO disclosure, enterprise token ROI, and Trump accounts.
+- [Brad Gerstner](entities/BradGerstner.md) — Altimeter Capital investor voice in All-In episodes on private-market secondaries, AI IPO disclosure, compute channel conflict, the offtake-versus-capex market check, and Trump accounts.
 - [Michael Dell](entities/MichaelDell.md) — Technology founder and philanthropic donor named by Brad Gerstner in the Trump accounts discussion.
 - [Susan Dell](entities/SusanDell.md) — Philanthropic donor named with Michael Dell in the Trump accounts discussion.
 - [Gwynne Shotwell](entities/GwenShotwell.md) — SpaceX president and COO whose All-In interview links early sales, NASA contracts, customer focus, Starlink, orbital compute, and Terafab execution.
@@ -12653,6 +12654,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [AI Offtake Revenue Gap](concepts/AIOfftakeRevenueGap.md) — All-In frame for the distance between committed AI infrastructure capex and the model-lab and application revenue needed to pay for it.
+- [Semiconductor Index Concentration](concepts/SemiconductorIndexConcentration.md) — Industry-level index risk where the chip complex supplies about 70% of the Nasdaq's return and the index inherits the AI capex cycle.
+- [AI Productivity Margin Expansion](concepts/AIProductivityMarginExpansion.md) — Earnings-side AI thesis that margin expansion from flat-headcount growth, not mass layoffs, has to be the pay-off on AI capex.
 - [西汉帝王寿命比较 / Western Han Imperial Longevity Comparison](concepts/WesternHanImperialLongevityComparison.md) — Hanji 381-1 frame treating Han Wudi's lifespan as a political time horizon across Western Han emperors and Xiongnu chanyu turnover.
 - [白渠 / Baiqu Irrigation Project](concepts/BaiquIrrigationProject.md) — 95 BCE late-Han-Wudi irrigation project proposed by Bai Gong to bring Jing River water into Wei-region farmland.
 - [Lunar Industrialization](concepts/LunarIndustrialization.md) — Moon-as-industrial-frontier thesis linking cheap launch, robotics, lunar materials, and mass-driver speculation.
