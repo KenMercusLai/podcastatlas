@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10164
+wiki_total_pages: 10171
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "FlashInvaders"
     title: "Flash Invaders"
     url: "/wiki/entities/flashinvaders/"
+  - key: "FlashmanOnTheMarch"
+    title: "Flashman on the March"
+    url: "/wiki/entities/flashmanonthemarch/"
   - key: "Flexcoat"
     title: "Flexcoat"
     url: "/wiki/entities/flexcoat/"

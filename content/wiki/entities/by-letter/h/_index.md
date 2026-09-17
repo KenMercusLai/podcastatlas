@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10164
+wiki_total_pages: 10171
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "HenryMintzberg"
     title: "Henry Mintzberg"
     url: "/wiki/entities/henrymintzberg/"
+  - key: "HenryMortonStanley"
+    title: "Henry Morton Stanley"
+    url: "/wiki/entities/henrymortonstanley/"
   - key: "HenryOfNavarre"
     title: "Henry of Navarre"
     url: "/wiki/entities/henryofnavarre/"

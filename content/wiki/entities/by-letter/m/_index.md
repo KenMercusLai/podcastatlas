@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10164
+wiki_total_pages: 10171
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "MariaLeopoldina"
     title: "Maria Leopoldina"
     url: "/wiki/entities/marialeopoldina/"
+  - key: "MariaTheresaTaler"
+    title: "Maria Theresa Taler"
+    url: "/wiki/entities/mariatheresataler/"
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"
@@ -710,6 +713,9 @@ wiki_pages:
   - key: "Memphis"
     title: "Memphis / 孟菲斯"
     url: "/wiki/entities/memphis/"
+  - key: "MenelikII"
+    title: "Menelik II"
+    url: "/wiki/entities/menelikii/"
   - key: "MengFanqing"
     title: "Meng Fanqing / 孟繁青"
     url: "/wiki/entities/mengfanqing/"

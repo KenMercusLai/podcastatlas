@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1882
+topic_total_pages: 1883
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4698,6 +4698,9 @@ topic_sources:
   - key: "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296"
     title: "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)"
     url: "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+  - key: "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568"
+    title: "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)"
+    url: "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
   - key: "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384"
     title: "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事"
     url: "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"

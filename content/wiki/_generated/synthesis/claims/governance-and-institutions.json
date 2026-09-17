@@ -4789,9 +4789,30 @@
         "zizhi-tongjian-hanji-389-2-lishi-jiemi-shui-shi-xie-jiantaoshu-zuiduo-de-wang-lvnamm5dza3s9ao8ofcshhiynsu1",
         "RuiqiJiangtouZizhiTongjian"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "imperial-cabinet-fuses-hostage-rescue-with-vindication-and-cost-shifting",
+      "qualifications": [
+        "The prestige-first reading of the cabinet is the hosts' interpretation rather than a documented cabinet minute, and humanitarian concern for the hostages remains part of the case the source presents.",
+        "The roughly £10 million final cost, the Indian cost-sharing arrangement, the penny on income tax and the casualty figures are source-scoped.",
+        "The case comes from a narrative-history podcast episode about a Victorian campaign, so its institutional lesson should not be generalized to modern crisis decision-making without other sources."
+      ],
+      "statement": "[[706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568|The 1868 Abyssinian campaign episode]] gives a governance case for [[ImperialPrestigeVindication]]: on 19 August 1867 Lord Derby's cabinet decides that Europeans held at [[Magdala]] cannot be tolerated, fears humiliation before Britain's Indian and South Arabian subjects, shifts the cost onto India and a penny of income tax, and sets a narrow [[AbyssinianExpedition1868|expedition]] whose stated aim is to release the hostages and vindicate the honour of [[QueenVictoria|the Queen]] rather than to occupy [[Abyssinia]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+        "ImperialPrestigeVindication",
+        "Magdala",
+        "AbyssinianExpedition1868",
+        "QueenVictoria",
+        "Abyssinia",
+        "PunitiveExpeditionPowerVacuum",
+        "RobertNapier"
+      ]
     }
   ],
   "input_digest": "9fb4769549b9b30b6d2c82718cf23424b5b99cb41f1f4e0a206518ef1a3f0903",
-  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. Hanji 389-1 adds a late-Wudi correction prelude: dismissing ineffective fangshi and rejecting immortality claims becomes a concrete administrative stop to waste before the broader Luntai frontier and relief turn. Hanji 401 adds an early Western Han regency case where Huo Guang's appointment control, petition review, and punishment of Sui Hong's omen-based abdication memorial show that legitimacy policing can be as central as ordinary administration. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own.",
+  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. The Abyssinian campaign source adds an imperial-cabinet case: Derby's government decides in August 1867 that Europeans held at Magdala cannot be tolerated, treats credibility before Indian and South Arabian subjects as a decisive consideration, shifts costs onto India and a penny of income tax, and funds a narrow expedition whose stated aim is release and vindication rather than occupation. Hanji 389-1 adds a late-Wudi correction prelude: dismissing ineffective fangshi and rejecting immortality claims becomes a concrete administrative stop to waste before the broader Luntai frontier and relief turn. Hanji 401 adds an early Western Han regency case where Huo Guang's appointment control, petition review, and punishment of Sui Hong's omen-based abdication memorial show that legitimacy policing can be as central as ordinary administration. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own.",
   "topic_id": "governance-and-institutions"
 }

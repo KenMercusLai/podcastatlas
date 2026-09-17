@@ -434,9 +434,51 @@
         "zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d",
         "zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "abyssinian-1868-campaign-completed-by-firepower-plunder-and-withdrawal",
+      "qualifications": [
+        "The casualty figures, the roughly £10 million cost, the 20,000-talers-a-week mint output and the 44 elephants are the episode's figures rather than audited totals.",
+        "The account is British and European in perspective; Ethiopian experience appears mainly through Theodros II's later memory and the single Menelik II and Adwa reference.",
+        "Part 2 completes the landing, march, assault, hostage release, death, plunder and withdrawal that Part 1 deferred, so the two episodes should be read as one branch."
+      ],
+      "statement": "[[706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568|The Abyssinian campaign episode]] completes the [[AbyssinianExpedition1868|expedition of 1868]]: [[RobertNapier|Napier]] buys passage and weekly supplies from [[RasKassa|Ras Kassa]], lands 13,000 soldiers with 20 miles of railway track and 44 elephants, pays in [[MariaTheresaTaler|Maria Theresa talers]], breaks [[TeodrosII|Theodros II]]'s charge with continuous breech-loading fire at [[Magdala]], then loots and auctions the citadel and withdraws with the hostages while leaving [[Abyssinia]] leaderless until [[MenelikII]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+        "AbyssinianExpedition1868",
+        "RobertNapier",
+        "RasKassa",
+        "MariaTheresaTaler",
+        "TeodrosII",
+        "Magdala",
+        "Abyssinia",
+        "MenelikII"
+      ]
+    },
+    {
+      "global_candidate": false,
+      "id": "abyssinian-campaign-pairs-prestige-motive-with-power-vacuum",
+      "qualifications": [
+        "The prestige-first reading of the cabinet is the hosts' interpretation rather than a documented cabinet minute.",
+        "The twenty-year Abyssinian collapse and the counterfactual that correspondence could have prevented the war are the source's compressed synthesis, not settled historiography."
+      ],
+      "statement": "The same campaign supplies a motive-and-consequence pair for the topic: [[ImperialPrestigeVindication]] explains why a hostage rescue becomes a roughly £10 million operation staged as [[ImperialLogisticalSpectacle]], while [[PunitiveExpeditionPowerVacuum]] records the Abyssinian collapse that followed, with [[IndustrialFirepowerAsymmetry]] and [[ImperialSpoilsAuction]] marking the battle and the plunder in between.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+        "ImperialPrestigeVindication",
+        "ImperialLogisticalSpectacle",
+        "PunitiveExpeditionPowerVacuum",
+        "IndustrialFirepowerAsymmetry",
+        "ImperialSpoilsAuction",
+        "AbyssinianExpedition1868",
+        "Abyssinia"
+      ]
     }
   ],
   "input_digest": "27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34",
-  "summary": "Hanji 445 adds the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.",
+  "summary": "The newest layer in this topic is the completed 1868 Abyssinian campaign: Derby's cabinet treats a chained consul and missionaries as a test of imperial credibility, [[RobertNapier|Napier]] buys passage and weekly supplies from [[RasKassa|Ras Kassa]], lands 13,000 soldiers with 20 miles of railway track and 44 elephants, pays in Maria Theresa talers, breaks [[TeodrosII|Theodros II]]'s charge with continuous breech-loading fire at [[Magdala]], loots and auctions the citadel, and withdraws with the hostages while leaving [[Abyssinia]] leaderless for about twenty years. Hanji 445 otherwise still supplies the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.",
   "topic_id": "history-and-geopolitics"
 }

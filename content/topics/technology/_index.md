@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3031
+topic_total_pages: 3033
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2371,6 +2371,9 @@ topic_concepts:
   - key: "ImmigrationDetentionExpansion"
     title: "Immigration Detention Expansion"
     url: "/wiki/concepts/immigrationdetentionexpansion/"
+  - key: "ImperialLogisticalSpectacle"
+    title: "Imperial Logistical Spectacle"
+    url: "/wiki/concepts/imperiallogisticalspectacle/"
   - key: "InHouseBankingSoftware"
     title: "In-House Banking Software"
     url: "/wiki/concepts/inhousebankingsoftware/"
@@ -2389,6 +2392,9 @@ topic_concepts:
   - key: "IndustrialControlSystemCyberRisk"
     title: "Industrial Control System Cyber Risk"
     url: "/wiki/concepts/industrialcontrolsystemcyberrisk/"
+  - key: "IndustrialFirepowerAsymmetry"
+    title: "Industrial Firepower Asymmetry"
+    url: "/wiki/concepts/industrialfirepowerasymmetry/"
   - key: "IndustrialInspectionRobotics"
     title: "Industrial Inspection Robotics"
     url: "/wiki/concepts/industrialinspectionrobotics/"

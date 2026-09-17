@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2052
+topic_total_pages: 2053
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4199,6 +4199,9 @@ topic_entities:
   - key: "MaoHonghui"
     title: "Mao Honghui / 毛红汇"
     url: "/wiki/entities/maohonghui/"
+  - key: "MariaTheresaTaler"
+    title: "Maria Theresa Taler"
+    url: "/wiki/entities/mariatheresataler/"
   - key: "MarkAndreessen"
     title: "Mark Andreessen"
     url: "/wiki/entities/markandreessen/"

@@ -1403,6 +1403,10 @@
     "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
     "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
   },
+  "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568": {
+    "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+    "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+  },
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": {
     "title": "71.美妆帝国蝴蝶牌：言情小说家的国货创业往事",
     "url": "/wiki/sources/71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384/"
@@ -11230,6 +11234,10 @@
   "CharlesDarwin": {
     "title": "Charles Darwin / 查尔斯·达尔文",
     "url": "/wiki/entities/charlesdarwin/"
+  },
+  "CharlesDuncanCameron": {
+    "title": "Charles Duncan Cameron",
+    "url": "/wiki/entities/charlesduncancameron/"
   },
   "CharlesEMitchell": {
     "title": "Charles E. Mitchell / 查理·米切尔",
@@ -22631,6 +22639,10 @@
     "title": "Flash Invaders",
     "url": "/wiki/entities/flashinvaders/"
   },
+  "FlashmanOnTheMarch": {
+    "title": "Flashman on the March",
+    "url": "/wiki/entities/flashmanonthemarch/"
+  },
   "FlatRateAIInferencePricing": {
     "title": "Flat-Rate AI Inference Pricing",
     "url": "/wiki/concepts/flatrateaiinferencepricing/"
@@ -28023,6 +28035,10 @@
     "title": "Henry Mintzberg",
     "url": "/wiki/entities/henrymintzberg/"
   },
+  "HenryMortonStanley": {
+    "title": "Henry Morton Stanley",
+    "url": "/wiki/entities/henrymortonstanley/"
+  },
   "HenryOfNavarre": {
     "title": "Henry of Navarre",
     "url": "/wiki/entities/henryofnavarre/"
@@ -30303,6 +30319,10 @@
     "title": "Imperial Local-God Conflict / 皇权与地方神冲突",
     "url": "/wiki/concepts/imperiallocalgodconflict/"
   },
+  "ImperialLogisticalSpectacle": {
+    "title": "Imperial Logistical Spectacle",
+    "url": "/wiki/concepts/imperiallogisticalspectacle/"
+  },
   "ImperialMarriageInspection": {
     "title": "Imperial Marriage Inspection / 皇室婚前身体检视",
     "url": "/wiki/concepts/imperialmarriageinspection/"
@@ -30322,6 +30342,10 @@
   "ImperialPreferenceSpeechRisk": {
     "title": "帝王偏好下的表达风险 / Imperial Preference Speech Risk",
     "url": "/wiki/concepts/imperialpreferencespeechrisk/"
+  },
+  "ImperialPrestigeVindication": {
+    "title": "Imperial Prestige Vindication",
+    "url": "/wiki/concepts/imperialprestigevindication/"
   },
   "ImperialPrivateDesireGovernanceRisk": {
     "title": "帝王私欲治理风险 / Imperial Private Desire Governance Risk",
@@ -30346,6 +30370,10 @@
   "ImperialSelfCriticismEdict": {
     "title": "帝王自责诏 / Imperial Self-Criticism Edict",
     "url": "/wiki/concepts/imperialselfcriticismedict/"
+  },
+  "ImperialSpoilsAuction": {
+    "title": "Imperial Spoils Auction",
+    "url": "/wiki/concepts/imperialspoilsauction/"
   },
   "ImperialSymbolicStandardization": {
     "title": "Imperial Symbolic Standardization / 帝国符号标准化",
@@ -30594,6 +30622,10 @@
   "IndustrialControlSystemCyberRisk": {
     "title": "Industrial Control System Cyber Risk",
     "url": "/wiki/concepts/industrialcontrolsystemcyberrisk/"
+  },
+  "IndustrialFirepowerAsymmetry": {
+    "title": "Industrial Firepower Asymmetry",
+    "url": "/wiki/concepts/industrialfirepowerasymmetry/"
   },
   "IndustrialGradeFilmModels": {
     "title": "Industrial-Grade Film Models",
@@ -39859,6 +39891,10 @@
     "title": "Maria / 玛利亚（圣乔治学校）",
     "url": "/wiki/entities/mariastgeorges/"
   },
+  "MariaTheresaTaler": {
+    "title": "Maria Theresa Taler",
+    "url": "/wiki/entities/mariatheresataler/"
+  },
   "MarieLouiseVonFranz": {
     "title": "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹",
     "url": "/wiki/entities/marielouisevonfranz/"
@@ -40910,6 +40946,10 @@
   "MenciusText": {
     "title": "《孟子》 / Mencius",
     "url": "/wiki/entities/menciustext/"
+  },
+  "MenelikII": {
+    "title": "Menelik II",
+    "url": "/wiki/entities/menelikii/"
   },
   "MengAo": {
     "title": "蒙敖 / Meng Ao",
@@ -49951,6 +49991,10 @@
     "title": "Punitive Currency Enforcement Backfire / 惩罚性货币执法反噬",
     "url": "/wiki/concepts/punitivecurrencyenforcementbackfire/"
   },
+  "PunitiveExpeditionPowerVacuum": {
+    "title": "Punitive Expedition Power Vacuum",
+    "url": "/wiki/concepts/punitiveexpeditionpowervacuum/"
+  },
   "PunitiveHairRemovalHumiliation": {
     "title": "髡刑式身份羞辱 / Punitive Hair-Removal Humiliation",
     "url": "/wiki/concepts/punitivehairremovalhumiliation/"
@@ -51102,6 +51146,10 @@
   "RareEarthProcessingBottleneck": {
     "title": "Rare Earth Processing Bottleneck",
     "url": "/wiki/concepts/rareearthprocessingbottleneck/"
+  },
+  "RasKassa": {
+    "title": "Ras Kassa",
+    "url": "/wiki/entities/raskassa/"
   },
   "RashomonAkutagawa": {
     "title": "《罗生门》 / Rashomon",
@@ -52730,6 +52778,10 @@
   "RobertMorris": {
     "title": "Robert Morris",
     "url": "/wiki/entities/robertmorris/"
+  },
+  "RobertNapier": {
+    "title": "Robert Napier",
+    "url": "/wiki/entities/robertnapier/"
   },
   "RobertPersons": {
     "title": "Robert Persons",

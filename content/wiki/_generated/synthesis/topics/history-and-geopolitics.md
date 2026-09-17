@@ -3,16 +3,16 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-13
-as_of_overview_commit: 38e696904610b4f6cae1fe77ffb88d93bdee2b99
-input_digest: 27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34
+last_updated: 2026-09-17
+as_of_overview_commit: e780e4ee66d6ff7c31f8fb9620c9e277251b9eea
+input_digest: 00487b0efda2d3ba0fead068956077501697f64211016b9bfcd2c4909d5ad92b
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 445 adds the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
+The newest layer in this topic is the completed 1868 Abyssinian campaign: Derby's cabinet treats a chained consul and missionaries as a test of imperial credibility, [[RobertNapier|Napier]] buys passage and weekly supplies from [[RasKassa|Ras Kassa]], lands 13,000 soldiers with 20 miles of railway track and 44 elephants, pays in Maria Theresa talers, breaks [[TeodrosII|Theodros II]]'s charge with continuous breech-loading fire at [[Magdala]], loots and auctions the citadel, and withdraws with the hostages while leaving [[Abyssinia]] leaderless for about twenty years. Hanji 445 otherwise still supplies the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
 
 ## Cross-source Findings
 
@@ -259,3 +259,26 @@ Public and national memory often turns messy causality into cleaner origin stori
 
 - This is source-scoped to Yang Xiong's memorial as presented in Hanji 590, not a full theory of Western Han frontier policy.
 - The chanyu's inner intention, the exact reception budget, and the counterfactual Xiongnu reaction remain source-scoped.
+
+### Abyssinian 1868 Campaign Completed By Firepower Plunder And Withdrawal
+
+[[706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568|The Abyssinian campaign episode]] completes the [[AbyssinianExpedition1868|expedition of 1868]]: [[RobertNapier|Napier]] buys passage and weekly supplies from [[RasKassa|Ras Kassa]], lands 13,000 soldiers with 20 miles of railway track and 44 elephants, pays in [[MariaTheresaTaler|Maria Theresa talers]], breaks [[TeodrosII|Theodros II]]'s charge with continuous breech-loading fire at [[Magdala]], then loots and auctions the citadel and withdraws with the hostages while leaving [[Abyssinia]] leaderless until [[MenelikII]].
+
+**Evidence:** [[706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568]], [[AbyssinianExpedition1868]], [[RobertNapier]], [[RasKassa]], [[MariaTheresaTaler]], [[TeodrosII]], [[Magdala]], [[Abyssinia]], [[MenelikII]]
+
+**Qualifications:**
+
+- The casualty figures, the roughly £10 million cost, the 20,000-talers-a-week mint output and the 44 elephants are the episode's figures rather than audited totals.
+- The account is British and European in perspective; Ethiopian experience appears mainly through Theodros II's later memory and the single Menelik II and Adwa reference.
+- Part 2 completes the landing, march, assault, hostage release, death, plunder and withdrawal that Part 1 deferred, so the two episodes should be read as one branch.
+
+### Abyssinian Campaign Pairs Prestige Motive With Power Vacuum
+
+The same campaign supplies a motive-and-consequence pair for the topic: [[ImperialPrestigeVindication]] explains why a hostage rescue becomes a roughly £10 million operation staged as [[ImperialLogisticalSpectacle]], while [[PunitiveExpeditionPowerVacuum]] records the Abyssinian collapse that followed, with [[IndustrialFirepowerAsymmetry]] and [[ImperialSpoilsAuction]] marking the battle and the plunder in between.
+
+**Evidence:** [[706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568]], [[ImperialPrestigeVindication]], [[ImperialLogisticalSpectacle]], [[PunitiveExpeditionPowerVacuum]], [[IndustrialFirepowerAsymmetry]], [[ImperialSpoilsAuction]], [[AbyssinianExpedition1868]], [[Abyssinia]]
+
+**Qualifications:**
+
+- The prestige-first reading of the cabinet is the hosts' interpretation rather than a documented cabinet minute.
+- The twenty-year Abyssinian collapse and the counterfactual that correspondence could have prevented the war are the source's compressed synthesis, not settled historiography.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10164
+wiki_total_pages: 10171
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "RapidSupportForces"
     title: "Rapid Support Forces"
     url: "/wiki/entities/rapidsupportforces/"
+  - key: "RasKassa"
+    title: "Ras Kassa"
+    url: "/wiki/entities/raskassa/"
   - key: "RatingsCom"
     title: "Ratings.com"
     url: "/wiki/entities/ratingscom/"
@@ -455,6 +458,9 @@ wiki_pages:
   - key: "RobertMorris"
     title: "Robert Morris"
     url: "/wiki/entities/robertmorris/"
+  - key: "RobertNapier"
+    title: "Robert Napier"
+    url: "/wiki/entities/robertnapier/"
   - key: "RobertPersons"
     title: "Robert Persons"
     url: "/wiki/entities/robertpersons/"

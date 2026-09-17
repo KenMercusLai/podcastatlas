@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "218acc007f390e3a27bb4c028b1108b79f5508874fd6e8a81feae12bc9257278",
       "3b6f76a5a9af36a74afc7bc3a236bd01aefb77c3e3df73a5f8b34e9ebbd152af",
       "b7fd8e9c8abc57d2f1849ed8ac1d08d4dc8fac7ff44d294ec7aeaa3b847f8074",
       "7ddff9ef3f6a2618c779bb79ac7834649c46f29ed6890360c7b02ddebe4e9533",
@@ -625,11 +626,49 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 623
+    "paragraph_count": 624
   },
-  "overview_commit": "38cdb45082300547b26325b5f14d481a0f41a1e0",
-  "overview_digest": "b3624140dcf457d23d903ece6364792a1c775e1f7df83d8307540a5e63e55c12",
+  "overview_commit": "e780e4ee66d6ff7c31f8fb9620c9e277251b9eea",
+  "overview_digest": "9900478ff08dd2f2d54261f5efc73a3519013f3587de98821c4ae29bd50999fb",
   "paragraphs": [
+    {
+      "id": "218acc007f390e3a27bb4c028b1108b79f5508874fd6e8a81feae12bc9257278",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568|706. Queen Victoria's Revenge: Storming the Citadel (Part 2)]], a [[TheRestIsHistory]] episode completing the [[AbyssinianExpedition1868|Abyssinian Expedition of 1868]] branch that [[705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296|Part 1]] left at the cabinet's decision for war. It adds [[RobertNapier]], [[RasKassa]], [[HenryMortonStanley]], [[CharlesDuncanCameron]], [[MenelikII]], [[MariaTheresaTaler]], and [[FlashmanOnTheMarch]] along with [[ImperialPrestigeVindication]], [[ImperialLogisticalSpectacle]], [[IndustrialFirepowerAsymmetry]], [[ImperialSpoilsAuction]], and [[PunitiveExpeditionPowerVacuum]], while extending [[TeodrosII]], [[Magdala]], [[Abyssinia]], [[QueenVictoria]], [[HormuzdRassam]], [[AbyssinianExpedition1868]], [[DiplomaticNeglectEscalation]], and [[HostageMissionDependencyTrap]]. Its core synthesis is that the 1868 campaign fused hostage rescue with imperial credibility: Napier bought passage and weekly supplies from Ras Kassa, landed 13,000 soldiers, 20 miles of railway track and 44 elephants at Anersley Bay, paid with Maria Theresa talers minted 20,000 a week in Vienna, broke Theodros's charge with continuous breech-loading fire at a cost of two British dead against just under 1,000 Abyssinian dead, then looted and auctioned Magdala and took the emperor's suicide with Queen Victoria's gift pistol as the end of the affair, withdrawing with the released hostages while leaving Abyssinia leaderless for about twenty years. No settled contradiction is recorded; Part 2 completes the landing, march, assault, hostage release, death, plunder and withdrawal that Part 1 deferred, while casualty figures, the roughly £10 million cost, the twenty-year chaos, Theodros's mental state, and the prestige-first reading of the cabinet remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+        "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+        "Abyssinia",
+        "AbyssinianExpedition1868",
+        "CharlesDuncanCameron",
+        "DiplomaticNeglectEscalation",
+        "FlashmanOnTheMarch",
+        "HenryMortonStanley",
+        "HormuzdRassam",
+        "HostageMissionDependencyTrap",
+        "ImperialLogisticalSpectacle",
+        "ImperialPrestigeVindication",
+        "ImperialSpoilsAuction",
+        "IndustrialFirepowerAsymmetry",
+        "Magdala",
+        "MariaTheresaTaler",
+        "MenelikII",
+        "PunitiveExpeditionPowerVacuum",
+        "QueenVictoria",
+        "RasKassa",
+        "RobertNapier",
+        "TeodrosII",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "3b6f76a5a9af36a74afc7bc3a236bd01aefb77c3e3df73a5f8b34e9ebbd152af",
       "primary_topic": "business-and-markets",

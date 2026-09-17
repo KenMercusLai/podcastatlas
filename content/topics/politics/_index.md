@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2538
+topic_total_pages: 2542
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1648,6 +1648,9 @@ topic_concepts:
   - key: "ImperialPetitionOffenseRisk"
     title: "Imperial Petition Offense Risk / 申冤上书冒犯风险"
     url: "/wiki/concepts/imperialpetitionoffenserisk/"
+  - key: "ImperialPrestigeVindication"
+    title: "Imperial Prestige Vindication"
+    url: "/wiki/concepts/imperialprestigevindication/"
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"
@@ -2788,6 +2791,9 @@ topic_concepts:
   - key: "PunishmentTheoryTradeoff"
     title: "Punishment Theory Tradeoff"
     url: "/wiki/concepts/punishmenttheorytradeoff/"
+  - key: "PunitiveExpeditionPowerVacuum"
+    title: "Punitive Expedition Power Vacuum"
+    url: "/wiki/concepts/punitiveexpeditionpowervacuum/"
   - key: "PunitiveInspectionLoyaltyTrap"
     title: "Punitive Inspection Loyalty Trap / 苛察忠诚陷阱"
     url: "/wiki/concepts/punitiveinspectionloyaltytrap/"
@@ -4544,6 +4550,9 @@ topic_entities:
   - key: "CesareBorgia"
     title: "Cesare Borgia / 凯撒·波吉亚"
     url: "/wiki/entities/cesareborgia/"
+  - key: "CharlesDuncanCameron"
+    title: "Charles Duncan Cameron"
+    url: "/wiki/entities/charlesduncancameron/"
   - key: "CharlesHaughey"
     title: "Charles Haughey"
     url: "/wiki/entities/charleshaughey/"
@@ -5699,6 +5708,9 @@ topic_entities:
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"
+  - key: "RasKassa"
+    title: "Ras Kassa"
+    url: "/wiki/entities/raskassa/"
   - key: "RaulCastro"
     title: "Raul Castro"
     url: "/wiki/entities/raulcastro/"

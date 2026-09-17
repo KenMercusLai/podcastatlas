@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10164
+wiki_total_pages: 10171
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "CharlesDarwin"
     title: "Charles Darwin / 查尔斯·达尔文"
     url: "/wiki/entities/charlesdarwin/"
+  - key: "CharlesDuncanCameron"
+    title: "Charles Duncan Cameron"
+    url: "/wiki/entities/charlesduncancameron/"
   - key: "CharlesEMitchell"
     title: "Charles E. Mitchell / 查理·米切尔"
     url: "/wiki/entities/charlesemitchell/"

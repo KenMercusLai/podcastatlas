@@ -3737,9 +3737,9 @@
       "url": "/wiki/entities/abudbakri/"
     },
     "Abyssinia": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -3747,15 +3747,22 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/entities/abyssinia/"
     },
     "AbyssinianExpedition1868": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -3763,9 +3770,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/entities/abyssinianexpedition1868/"
     },
     "AccessionKinshipContainment": {
@@ -15490,6 +15504,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/characterreadingdelegationtrust/"
     },
+    "CharlesDuncanCameron": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/charlesduncancameron/"
+    },
     "ChaseAndrews": {
       "episode_count": 1,
       "show_count": 1,
@@ -26178,9 +26215,9 @@
       "url": "/wiki/concepts/diplomaticcostriskaccounting/"
     },
     "DiplomaticNeglectEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -26188,9 +26225,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/concepts/diplomaticneglectescalation/"
     },
     "DiplomaticPersonaAsStrategicAsset": {
@@ -37002,6 +37046,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/fixedcampsiegeengineering/"
     },
+    "FlashmanOnTheMarch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/flashmanonthemarch/"
+    },
     "FlexibilityNeuralSafetyGating": {
       "episode_count": 1,
       "show_count": 1,
@@ -47639,6 +47699,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/henrymintzberg/"
     },
+    "HenryMortonStanley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/henrymortonstanley/"
+    },
     "HenryTheNavigator": {
       "episode_count": 1,
       "show_count": 1,
@@ -49346,9 +49422,9 @@
       "url": "/wiki/concepts/hormonecontextaggression/"
     },
     "HormuzdRassam": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -49356,9 +49432,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/entities/hormuzdrassam/"
     },
     "HorsehideBurialResolve": {
@@ -49440,9 +49523,9 @@
       "url": "/wiki/concepts/hostagebackeddependencytrap/"
     },
     "HostageMissionDependencyTrap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -49450,9 +49533,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/concepts/hostagemissiondependencytrap/"
     },
     "HostageRansomDeterrence": {
@@ -52863,6 +52953,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/imperialfunerarypreservation/"
     },
+    "ImperialLogisticalSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/concepts/imperiallogisticalspectacle/"
+    },
     "ImperialMarriageInspection": {
       "episode_count": 1,
       "show_count": 1,
@@ -52942,6 +53048,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/imperialpreferencespeechrisk/"
+    },
+    "ImperialPrestigeVindication": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/concepts/imperialprestigevindication/"
     },
     "ImperialPrivateDesireGovernanceRisk": {
       "episode_count": 6,
@@ -53046,6 +53175,29 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/imperialselfcriticismedict/"
+    },
+    "ImperialSpoilsAuction": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT8608697296 [GLT8608697296].md",
+          "key": "705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296",
+          "show": "The Rest Is History",
+          "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
+          "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/concepts/imperialspoilsauction/"
     },
     "ImperialTeacherHonorRitual": {
       "episode_count": 1,
@@ -53326,6 +53478,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/industrialairoifilter/"
+    },
+    "IndustrialFirepowerAsymmetry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/concepts/industrialfirepowerasymmetry/"
     },
     "IndustrialInspectionRobotics": {
       "episode_count": 2,
@@ -69462,9 +69630,9 @@
       "url": "/wiki/entities/madisonhemings/"
     },
     "Magdala": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -69472,9 +69640,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/entities/magdala/"
     },
     "MaintainYourBrainTrial": {
@@ -70040,6 +70215,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/marialeopoldina/"
+    },
+    "MariaTheresaTaler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/mariatheresataler/"
     },
     "MarkCarney": {
       "episode_count": 2,
@@ -71186,6 +71377,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/mencianpeoplebasedlegitimacy/"
+    },
+    "MenelikII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/menelikii/"
     },
     "MengMinLateHan": {
       "episode_count": 1,
@@ -85813,6 +86020,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/punitivecurrencyenforcementbackfire/"
     },
+    "PunitiveExpeditionPowerVacuum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/concepts/punitiveexpeditionpowervacuum/"
+    },
     "PunitiveHairRemovalHumiliation": {
       "episode_count": 1,
       "show_count": 1,
@@ -86723,9 +86946,9 @@
       "url": "/wiki/entities/queennjinga/"
     },
     "QueenVictoria": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -86733,9 +86956,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/entities/queenvictoria/"
     },
     "QueerSafetyRetreat": {
@@ -87227,6 +87457,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/rareearthpermanentmagnetmanufacturing/"
+    },
+    "RasKassa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/raskassa/"
     },
     "RayBanSmartGlasses": {
       "episode_count": 5,
@@ -90132,6 +90378,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/robertmacfarlane/"
+    },
+    "RobertNapier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        }
+      ],
+      "updated": "2026-09-17",
+      "url": "/wiki/entities/robertnapier/"
     },
     "RobertoRidolfi": {
       "episode_count": 1,
@@ -103149,9 +103411,9 @@
       "url": "/wiki/entities/tengyanlatehan/"
     },
     "TeodrosII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8608697296 [GLT8608697296].md",
@@ -103159,9 +103421,16 @@
           "show": "The Rest Is History",
           "title": "705. Queen Victoria's Revenge: The Mad Emperor of Abyssinia (Part 1)",
           "url": "/wiki/sources/705-queen-victorias-revenge-the-mad-emperor-of-abyssinia-part-1-glt8608697296/"
+        },
+        {
+          "episode_file": "GLT3285474568 [GLT3285474568].md",
+          "key": "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568",
+          "show": "The Rest Is History",
+          "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
+          "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-17",
       "url": "/wiki/entities/teodrosii/"
     },
     "Terafab": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [706. Queen Victoria's Revenge: Storming the Citadel (Part 2)](sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568.md) — The Rest Is History episode on Napier's 1868 march to Magdala, industrial firepower against Theodros II, the released hostages, the looted citadel, and the leaderless Abyssinia left behind.
 - [Advice Line with Michelle Wahler of Beyond Yoga](sources/advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6.md) — How I Built This Advice Line episode with Michelle Wahler on the bootstrapped Beyond Yoga build, optional fundraising, pre-call qualification, peer-group selling, second first impressions, delivery buffers, and online storytelling for offline brands.
 - [Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem](sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597.md) — All-In solo market check with Brad Gerstner on an earnings-driven rally, semiconductors carrying 70% of the Nasdaq's return, lab revenue versus capex, gigawatt and rate risks, and no-leverage positioning.
 - [《资治通鉴·汉纪》381-1｜汉武帝如何成为西汉最长寿的皇帝](sources/zizhi-tongjian-hanji-381-1-hanwudi-ruhe-chengwei-xihan-zuichangshou-de-huangdi-lrrerer9sccohlnhy9kidsqjjnek.md) — 芮淇讲透资治通鉴 short episode on Han Wudi's Western Han longevity, Xiongnu chanyu turnover, Du Zhou's 95 BCE death, Bao Shengzhi's appointment, and Baiqu irrigation.
@@ -2496,6 +2497,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Robert Napier](entities/RobertNapier.md) — Royal Engineers commander of the 1868 Abyssinian expedition, presented as a methodical logistician who bought passage and supplies, avoided a second battle and won imperial honours.
+- [Ras Kassa](entities/RasKassa.md) — Tigray ruler and Theodros II's rival whose passage, weekly supplies and shared interest made the British march to Magdala possible.
+- [Henry Morton Stanley](entities/HenryMortonStanley.md) — Correspondent travelling with the 1868 expedition, named in the source for the suspicious silence before the Battle of Magdala.
+- [Charles Duncan Cameron](entities/CharlesDuncanCameron.md) — British consul whose imprisonment by Theodros II turns a correspondence dispute into a hostage crisis, and whose release closes it.
+- [Menelik II](entities/MenelikII.md) — Ethiopian emperor who ends the post-Magdala collapse by beating an Italian army at Adwa in 1896.
+- [Maria Theresa Taler](entities/MariaTheresaTaler.md) — Austrian silver coin that served as the expedition's money and remained in East African circulation into the 1950s.
+- [Flashman on the March](entities/FlashmanOnTheMarch.md) — George MacDonald Fraser's novel used as the episode's opening hook while its invented narrator is kept out of the historical record.
 - [Michelle Wahler](entities/MichelleWahler.md) — Beyond Yoga co-founder and former CEO whose Advice Line episode argues against default fundraising and toward founder-defined, sustainable businesses.
 - [Beyond Yoga](entities/BeyondYoga.md) — Women's yoga apparel brand built slowly through wholesalers, studios, and department stores before a 2021 Levi's acquisition.
 - [Jody Gruber-Brufsky](entities/JodyGruberBrufsky.md) — Co-founder of Beyond Yoga alongside Michelle Wahler.
@@ -12665,6 +12673,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Imperial Prestige Vindication](concepts/ImperialPrestigeVindication.md) — Pattern where a state accepts the cost of war to protect imperial credibility in front of subject peoples and rival powers.
+- [Imperial Logistical Spectacle](concepts/ImperialLogisticalSpectacle.md) — Deliberately staged transport, communication and supply capability used as both sustainment and demonstration of imperial power.
+- [Industrial Firepower Asymmetry](concepts/IndustrialFirepowerAsymmetry.md) — Battle pattern where continuous, reliable industrial fire removes the mechanical pause a charging enemy depends on.
+- [Imperial Spoils Auction](concepts/ImperialSpoilsAuction.md) — Pattern where the plunder of a captured place is normalised through ceremony, distribution rules and an auction.
+- [Punitive Expedition Power Vacuum](concepts/PunitiveExpeditionPowerVacuum.md) — Pattern where a limited-aims expedition removes a ruler, achieves its stated objective and leaves prolonged political collapse behind.
 - [Sustainable Business Over Scale](concepts/SustainableBusinessOverScale.md) — Position that a small business which pays the founder and preserves their freedom is a complete outcome, and that raising capital is an optional choice rather than a stage requirement.
 - [Pre-Call Qualification](concepts/PreCallQualification.md) — Sales-funnel practice of screening prospects on time, money, and identity commitments before booking a call, trading lead volume for fit.
 - [Peer Group Experience Selling](concepts/PeerGroupExperienceSelling.md) — Selling the cohort itself as the core value of a high-ticket small-group experience rather than the itinerary alone.

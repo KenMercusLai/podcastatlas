@@ -2240,6 +2240,13 @@
       "url": "/topics/history/"
     }
   ],
+  "706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": [
     {
       "key": "history",
@@ -14489,6 +14496,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CharlesDuncanCameron": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CharlesEMitchell": [
@@ -26825,6 +26839,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FlashmanOnTheMarch": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FlatRateAIInferencePricing": [
     {
       "key": "technology",
@@ -35136,6 +35157,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImperialLogisticalSpectacle": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ImperialNameTaboo": [
     {
       "key": "history",
@@ -35144,6 +35172,13 @@
     }
   ],
   "ImperialPetitionOffenseRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ImperialPrestigeVindication": [
     {
       "key": "politics",
       "label": "Politics",
@@ -35442,6 +35477,13 @@
     }
   ],
   "IndustrialControlSystemCyberRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "IndustrialFirepowerAsymmetry": [
     {
       "key": "technology",
       "label": "Technology",
@@ -44178,6 +44220,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MariaTheresaTaler": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "MarieLouiseVonFranz": [
@@ -55607,6 +55656,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PunitiveExpeditionPowerVacuum": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PunitiveInspectionLoyaltyTrap": [
     {
       "key": "politics",
@@ -56839,6 +56895,13 @@
     }
   ],
   "RareEarthProcessingBottleneck": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "RasKassa": [
     {
       "key": "politics",
       "label": "Politics",
