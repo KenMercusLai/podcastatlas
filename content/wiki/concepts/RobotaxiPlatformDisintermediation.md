@@ -4,8 +4,9 @@ type: concept
 tags: [autonomous-driving, mobility, platforms, strategy]
 sources:
   - kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166
+  - tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-04
+last_updated: 2026-09-17
 ---
 
 # Robotaxi Platform Disintermediation / 自动驾驶出租车平台去中介化
@@ -20,6 +21,8 @@ The episode adds a sharper platform-risk version to the robotaxi branch. [[Uber]
 
 The concept does not assume full disintermediation is inevitable. It records a strategic tension: platforms may still supply demand aggregation, routing, payments, city operations, and hybrid human-driver coverage, but autonomous suppliers may gain leverage as their own service footprint expands.
 
+The Tokyo plan shows a third route beside direct operation and platform partnership. [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] says [[Waymo]] will enter Japan with [[NihonKotsu|日本交通]] and the GO app, with fares benchmarked to existing Tokyo taxi prices and the incumbent operator running maintenance, management, and operations. In that structure the intermediary being preserved is the local taxi operator rather than a global ride-hailing platform, and the autonomy supplier's leverage is limited by local operational, pricing, and regulatory convention.
+
 ## Key Claims
 
 - Robotaxis can improve ride-hailing economics by reducing driver dependence.
@@ -27,22 +30,26 @@ The concept does not assume full disintermediation is inevitable. It records a s
 - [[Waymo]] is the source's central example because it can both work through Uber in some cities and bypass Uber in others.
 - [[Tesla]] and other robotaxi entrants add pressure by creating alternative autonomous supply paths.
 - The risk is about bargaining power and customer interface, not only about vehicle autonomy.
+- Incumbent taxi partnerships preserve a local intermediary layer, which changes where the bargaining power sits without removing it.
 
 ## Evidence
 
 - **Waymo dual path:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] says Waymo provides service through Uber in Austin and Atlanta while also entering more markets independently.
 - **Uber restructuring context:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] ties Uber's layoffs and focus language to pressure from higher-growth businesses and autonomous competitors.
 - **Strategic ambiguity:** [[kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166]] says robotaxis may lower driver-related costs for Uber services while also weakening Uber's role as an intermediary platform.
+- **Incumbent-partnership contrast:** [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] describes a Tokyo service where Waymo supplies autonomy while Nihon Kotsu keeps vehicle maintenance, management, operations, and taxi-referenced pricing.
 
 ## Counterevidence & Qualifications
 
 - The source does not prove that autonomous suppliers can replace Uber's full marketplace, payments, support, and city-operations role.
 - Hybrid rollout may preserve platform value while robotaxi supply remains limited or locally regulated.
 - Market-exit and layoff claims are source-scoped and should not be treated as a complete explanation of Uber's restructuring.
+- The Tokyo case is a plan rather than an operating service, and incumbent control may slow scaling as easily as it protects the local operator layer.
 
 ## What Changed
 
 - Initial synthesis created robotaxi platform disintermediation as the mobility-platform risk introduced by this episode.
+- Added the incumbent-operator partnership variant from the planned Tokyo robotaxi service.
 
 ## Related Concepts
 
@@ -51,3 +58,5 @@ The concept does not assume full disintermediation is inevitable. It records a s
 - [[PlatformIntermediationTax]] - adjacent platform-power frame around who controls customer access and fees.
 - [[Uber]] - ride-hailing platform facing the source's disintermediation tension.
 - [[Waymo]] - autonomous supplier whose dual partner/direct route grounds the concept.
+- [[NihonKotsu]] - incumbent Tokyo taxi operator holding the operational layer in the planned service.
+- [[RobotaxiIncumbentTaxiPartnership]] - market-entry model that keeps an incumbent intermediary in place.

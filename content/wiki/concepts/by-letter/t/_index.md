@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7486
+wiki_total_pages: 7493
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "TariffRevenueFiscalSubstitution"
     title: "Tariff Revenue Fiscal Substitution"
     url: "/wiki/concepts/tariffrevenuefiscalsubstitution/"
+  - key: "TariffDrivenOverseasLocalProduction"
+    title: "Tariff-Driven Overseas Local Production / 关税驱动的海外本地生产"
+    url: "/wiki/concepts/tariffdrivenoverseaslocalproduction/"
   - key: "TaskAsAService"
     title: "Task As A Service"
     url: "/wiki/concepts/taskasaservice/"

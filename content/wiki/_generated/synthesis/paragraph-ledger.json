@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e47c7bb11e6454b816a38a07c601664671983a23d53efc4772ba5cfe4ca5d544",
       "218acc007f390e3a27bb4c028b1108b79f5508874fd6e8a81feae12bc9257278",
       "3b6f76a5a9af36a74afc7bc3a236bd01aefb77c3e3df73a5f8b34e9ebbd152af",
       "b7fd8e9c8abc57d2f1849ed8ac1d08d4dc8fac7ff44d294ec7aeaa3b847f8074",
@@ -626,11 +627,51 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 624
+    "paragraph_count": 625
   },
-  "overview_commit": "e780e4ee66d6ff7c31f8fb9620c9e277251b9eea",
-  "overview_digest": "9900478ff08dd2f2d54261f5efc73a3519013f3587de98821c4ae29bd50999fb",
+  "overview_commit": "e43ce000434cf92f357757d5447e7ba5188ccfc3",
+  "overview_digest": "883c4ef841b52dc8766b5174c4732d0d1f6cf12ae654b55e0ff2924bf77bcba8",
   "paragraphs": [
+    {
+      "id": "e47c7bb11e6454b816a38a07c601664671983a23d53efc4772ba5cfe4ca5d544",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412|图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏]], a [[ShengdongZaokafei|声动早咖啡]] business-news roundup dated to 17 September 2026. It adds [[AppleTVPlus]], [[EmmyAwards]], [[Skims]], [[NikeSkims]], [[KimKardashian]], [[Luxihe]], [[NihonKotsu]], [[CameraFreeSmartGlasses]], [[StreamingAwardLeadership]], [[TariffDrivenOverseasLocalProduction]], [[RobotaxiIncumbentTaxiPartnership]], [[AIInvestmentMarginDrag]], [[ChainExecutiveImport]], and [[WomenSportswearSegmentStratification]], while extending [[Ctrip]], [[CtripAntitrustPenalty]], [[ByteDance]], [[AITO]], [[BYD]], [[Waymo]], [[Meta]], [[Nike]], [[RobotaxiPlatformDisintermediation]], [[SmartGlassesBystanderPrivacy]], and [[SportswearExperienceSpace]]. Its core synthesis is that growth-stage companies were trading profit for investment, control, or privacy headroom in this cycle: Ctrip's antitrust penalty turned a growing quarter into a loss while international revenue kept rising, ByteDance's revenue grew while AI spending cut profit, Apple led the Emmy field through counter-cyclical content spending without matching Netflix's watch share, Seres took back AITO's product, brand, and channel decisions from Huawei, BYD answered European tariff pressure with local production and a raised overseas target, Waymo planned Tokyo entry through an incumbent taxi operator, Meta prepared a camera-free voice model beside its camera glasses, NikeSkims opened a temporary Shanghai space, and Luxihe imported restaurant executives to rebuild its store model. No settled contradiction is recorded; award counts, watch-share data, penalty and earnings figures, overseas sales targets, store counts, and executive moves remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 5,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AIInvestmentMarginDrag",
+        "AITO",
+        "AppleTVPlus",
+        "BYD",
+        "ByteDance",
+        "CameraFreeSmartGlasses",
+        "ChainExecutiveImport",
+        "Ctrip",
+        "CtripAntitrustPenalty",
+        "EmmyAwards",
+        "KimKardashian",
+        "Luxihe",
+        "Meta",
+        "NihonKotsu",
+        "Nike",
+        "NikeSkims",
+        "RobotaxiIncumbentTaxiPartnership",
+        "RobotaxiPlatformDisintermediation",
+        "ShengdongZaokafei",
+        "Skims",
+        "SmartGlassesBystanderPrivacy",
+        "SportswearExperienceSpace",
+        "StreamingAwardLeadership",
+        "TariffDrivenOverseasLocalProduction",
+        "Waymo",
+        "WomenSportswearSegmentStratification",
+        "tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412"
+      ]
+    },
     {
       "id": "218acc007f390e3a27bb4c028b1108b79f5508874fd6e8a81feae12bc9257278",
       "primary_topic": "governance-and-institutions",

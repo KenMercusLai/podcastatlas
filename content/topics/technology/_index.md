@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3033
+topic_total_pages: 3036
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -580,6 +580,9 @@ topic_concepts:
   - key: "AIInterviewing"
     title: "AI Interviewing"
     url: "/wiki/concepts/aiinterviewing/"
+  - key: "AIInvestmentMarginDrag"
+    title: "AI Investment Margin Drag / AI投入拖累利润"
+    url: "/wiki/concepts/aiinvestmentmargindrag/"
   - key: "AIInvestmentMetrics"
     title: "AI Investment Metrics"
     url: "/wiki/concepts/aiinvestmentmetrics/"
@@ -1249,6 +1252,9 @@ topic_concepts:
   - key: "CalculationIntegrityAttack"
     title: "Calculation Integrity Attack"
     url: "/wiki/concepts/calculationintegrityattack/"
+  - key: "CameraFreeSmartGlasses"
+    title: "Camera-Free Smart Glasses / 无摄像头智能眼镜"
+    url: "/wiki/concepts/camerafreesmartglasses/"
   - key: "CanadianOilSandsBoom"
     title: "Canadian Oil Sands Boom"
     url: "/wiki/concepts/canadianoilsandsboom/"
@@ -8952,6 +8958,9 @@ topic_sources:
   - key: "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f"
     title: "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23"
     url: "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+  - key: "tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412"
+    title: "图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏"
+    url: "/wiki/sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412/"
   - key: "zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu"
     title: "在科技时代，重新理解我们的爱、工作与生活"
     url: "/wiki/sources/zai-keji-shidai-zhongxin-lijie-womende-ai-gongzuo-yu-shenghuo-ljjrm6-ovwduouaecvymkbeyuvuqu/"

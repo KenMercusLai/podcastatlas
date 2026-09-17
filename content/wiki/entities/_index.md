@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10171
+wiki_total_pages: 10178
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "AppleSearchAds"
     title: "Apple Search Ads"
     url: "/wiki/entities/applesearchads/"
+  - key: "AppleTVPlus"
+    title: "Apple TV+"
+    url: "/wiki/entities/appletvplus/"
   - key: "AppleWatch"
     title: "Apple Watch"
     url: "/wiki/entities/applewatch/"

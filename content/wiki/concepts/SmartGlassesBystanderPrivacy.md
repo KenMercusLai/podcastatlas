@@ -6,8 +6,9 @@ sources:
   - ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4
   - tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128
   - tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128
+  - tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-26
+last_updated: 2026-09-17
 ---
 
 # Smart Glasses Bystander Privacy
@@ -22,6 +23,8 @@ The core privacy issue is asymmetry. The wearer receives hands-free capture, vis
 
 The newest smart-glasses source makes the issue more social and less abstract. A cooking-class user warned people she was recording, then later found that the first-person view still captured strangers and visibly changed the room's atmosphere. That example shows why smart glasses can feel more intrusive than a phone: the device is always at eye level, looks like ordinary eyewear, and makes it harder for bystanders to tell when capture is happening.
 
+The opposite response now comes from inside the same company. [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] reports that [[Meta]] plans an autumn launch of glasses with six microphones and no camera at all, aimed at voice interaction with [[MetaAI]] and the [[MetaMuseModels|Muse]] agent. Read against the indicator problem, the camera-free design treats bystander capture as something to remove rather than to warn about, though it leaves microphone capture and platform data practices untouched.
+
 ## Key Claims
 
 - Bystander privacy is created by the split between wearer benefit and surrounding-person exposure.
@@ -30,6 +33,7 @@ The newest smart-glasses source makes the issue more social and less abstract. A
 - Smart glasses become more privacy-sensitive as they become more fashionable and less visibly gadget-like.
 - The platform's data practices matter separately from whether a bystander notices a recording cue.
 - Social stigma, including "creep glasses" language, can become a product-fit constraint.
+- A maker can partially design the problem out by shipping a camera-free variant, which lowers capture risk while removing visual-context value.
 
 ## Evidence
 
@@ -38,6 +42,7 @@ The newest smart-glasses source makes the issue more social and less abstract. A
 - **Social ambiguity of ordinary eyewear:** [[ep253-baohuo-de-ai-haowu-daodi-shi-zhenxiang-haishi-zhishangshui-lgt0cdkotgnzjl0mu2tx41p9fw-4]] and [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] both stress that smart glasses look like ordinary glasses, making notice harder as adoption improves.
 - **Privacy as commercial constraint:** [[tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128]] says the "creep glasses" association can hurt appeal, especially when users have to reassure others that they are not invading privacy.
 - **Platform data boundary:** [[tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128]] keeps [[Meta]] data collection separate from recording-light notice.
+- **Camera-free variant:** [[tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412]] reports a planned camera-free Meta model with six microphones, voice interaction through Meta AI and Muse, and a prior software update that disables the camera when the recording indicator is tampered with.
 
 ## Counterevidence & Qualifications
 
@@ -45,12 +50,14 @@ The newest smart-glasses source makes the issue more social and less abstract. A
 - Hands-free capture has plausible legitimate use cases in travel, cooking, gardening, sport, and accessibility-adjacent contexts.
 - Consent law varies by location, but the wiki treats legal permission and social comfort as distinct thresholds.
 - Avoiding cameras entirely can reduce one privacy risk while weakening the visual context that makes glasses useful.
+- The camera-free model is reported as a plan, and microphone capture, always-on assistance, and platform data practices remain outside what removing a camera resolves.
 
 ## What Changed
 
 - The page was migrated to `synthesis-v1` and reorganized around wearer-bystander asymmetry.
 - A concrete cooking-class example was added to show how warning people can still fail in shared space.
 - The concept now treats privacy stigma as a product-fit constraint, not only an ethics issue.
+- Added a camera-free design variant that reduces bystander capture rather than mitigating it with indicators.
 
 ## Related Concepts
 
@@ -59,3 +66,4 @@ The newest smart-glasses source makes the issue more social and less abstract. A
 - [[ConsumerCameraSurveillance]] - adjacent camera-network privacy frame.
 - [[ConsentBasedRecording]] - proposed mitigation that remains hard in live social settings.
 - [[WearableAIAssistant]] - device category where bystander exposure becomes recurring.
+- [[CameraFreeSmartGlasses]] - design variant that removes the camera to shrink the bystander-capture surface.

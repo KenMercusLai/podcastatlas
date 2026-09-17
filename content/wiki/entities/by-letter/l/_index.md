@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10171
+wiki_total_pages: 10178
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "Luxeed"
     title: "Luxeed / 智界"
     url: "/wiki/entities/luxeed/"
+  - key: "Luxihe"
+    title: "Luxihe / 泸溪河"
+    url: "/wiki/entities/luxihe/"
   - key: "LuxsharePrecision"
     title: "Luxshare Precision"
     url: "/wiki/entities/luxshareprecision/"

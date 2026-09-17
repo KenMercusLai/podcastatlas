@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7486
+wiki_total_pages: 7493
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "AIInterviewing"
     title: "AI Interviewing"
     url: "/wiki/concepts/aiinterviewing/"
+  - key: "AIInvestmentMarginDrag"
+    title: "AI Investment Margin Drag / AI投入拖累利润"
+    url: "/wiki/concepts/aiinvestmentmargindrag/"
   - key: "AIInvestmentMetrics"
     title: "AI Investment Metrics"
     url: "/wiki/concepts/aiinvestmentmetrics/"

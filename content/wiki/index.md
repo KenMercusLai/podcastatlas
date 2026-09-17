@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏](sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412.md) — 声动早咖啡 roundup on Ctrip's penalty-driven quarter, ByteDance's AI-heavy half, Apple's Emmy lead, the Seres-Huawei AITO reset, BYD's European local production, Waymo's Tokyo robotaxi plan, Meta's camera-free glasses, NikeSkims in China, and Luxihe's executive hires.
 - [706. Queen Victoria's Revenge: Storming the Citadel (Part 2)](sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568.md) — The Rest Is History episode on Napier's 1868 march to Magdala, industrial firepower against Theodros II, the released hostages, the looted citadel, and the leaderless Abyssinia left behind.
 - [Advice Line with Michelle Wahler of Beyond Yoga](sources/advice-line-with-michelle-wahler-of-beyond-yoga-c2626aae-0d71-4025-842f-3b854ccc3ca6.md) — How I Built This Advice Line episode with Michelle Wahler on the bootstrapped Beyond Yoga build, optional fundraising, pre-call qualification, peer-group selling, second first impressions, delivery buffers, and online storytelling for offline brands.
 - [Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem](sources/all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597.md) — All-In solo market check with Brad Gerstner on an earnings-driven rally, semiconductors carrying 70% of the Nasdaq's return, lab revenue versus capex, gigawatt and rate risks, and no-leverage positioning.
@@ -2497,6 +2498,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Apple TV+](entities/AppleTVPlus.md) — Apple's subscription streaming service used as the source's awards-leadership-versus-audience-scale case.
+- [Emmy Awards](entities/EmmyAwards.md) — U.S. television awards used to track which funders still back prestige production and how much output remains.
+- [Kim Kardashian](entities/KimKardashian.md) — Celebrity founder of Skims whose personal visibility is treated as consumer-brand attention infrastructure.
+- [Luxihe / 泸溪河](entities/Luxihe.md) — Chinese bakery chain professionalizing management and testing a new store model as the category reshuffles.
+- [Nihon Kotsu / 日本交通](entities/NihonKotsu.md) — Tokyo taxi operator partnering with Waymo on the planned commercial robotaxi service while keeping fleet operations.
+- [NikeSkims](entities/NikeSkims.md) — Nike and Skims women's sportswear sub-brand whose first China entry is a temporary Shanghai offline space.
+- [Skims](entities/Skims.md) — Kim Kardashian's bodywear brand spanning shapewear, loungewear, and a Nike sportswear sub-brand.
 - [Robert Napier](entities/RobertNapier.md) — Royal Engineers commander of the 1868 Abyssinian expedition, presented as a methodical logistician who bought passage and supplies, avoided a second battle and won imperial honours.
 - [Ras Kassa](entities/RasKassa.md) — Tigray ruler and Theodros II's rival whose passage, weekly supplies and shared interest made the British march to Magdala possible.
 - [Henry Morton Stanley](entities/HenryMortonStanley.md) — Correspondent travelling with the 1868 expedition, named in the source for the suspicious silence before the Battle of Magdala.
@@ -12673,6 +12681,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [AI Investment Margin Drag / AI投入拖累利润](concepts/AIInvestmentMarginDrag.md) — Pattern where AI spending grows faster than the revenue it produces, so profit falls while revenue rises.
+- [Camera-Free Smart Glasses / 无摄像头智能眼镜](concepts/CameraFreeSmartGlasses.md) — Wearable design that keeps voice assistant interaction through microphones while removing the camera and its bystander-capture surface.
+- [Chain Executive Import / 餐饮高管引入](concepts/ChainExecutiveImport.md) — Consumer chains hiring managers and marketers from large restaurant groups to install professional operating systems during a category reshuffle.
+- [Robotaxi Incumbent Taxi Partnership / 自动驾驶与出租车企业合作](concepts/RobotaxiIncumbentTaxiPartnership.md) — Market-entry model where an autonomous-driving company supplies the technology while an established local taxi operator keeps fleet management, pricing convention, and service operations.
+- [Streaming Award Leadership / 流媒体奖项领先](concepts/StreamingAwardLeadership.md) — Pattern where counter-cyclical content spending lets a newer streaming funder overtake established prestige programmers at television awards without matching their audience share.
+- [Tariff-Driven Overseas Local Production / 关税驱动的海外本地生产](concepts/TariffDrivenOverseasLocalProduction.md) — Trade barriers, not only demand or cost, pushing an exporter to build factories, local supply, and logistics inside the destination market.
+- [Women's Sportswear Segment Stratification / 女性运动服饰细分分层](concepts/WomenSportswearSegmentStratification.md) — Division of women's sportswear into finer price, style, occasion, and identity segments that new labels enter through a specific position.
 - [Imperial Prestige Vindication](concepts/ImperialPrestigeVindication.md) — Pattern where a state accepts the cost of war to protect imperial credibility in front of subject peoples and rival powers.
 - [Imperial Logistical Spectacle](concepts/ImperialLogisticalSpectacle.md) — Deliberately staged transport, communication and supply capability used as both sustainment and demonstration of imperial power.
 - [Industrial Firepower Asymmetry](concepts/IndustrialFirepowerAsymmetry.md) — Battle pattern where continuous, reliable industrial fire removes the mechanical pause a charging enemy depends on.

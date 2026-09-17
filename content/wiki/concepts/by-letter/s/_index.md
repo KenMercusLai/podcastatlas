@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7486
+wiki_total_pages: 7493
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1658,6 +1658,9 @@ wiki_pages:
   - key: "StreamingAuthorBrand"
     title: "Streaming Author Brand"
     url: "/wiki/concepts/streamingauthorbrand/"
+  - key: "StreamingAwardLeadership"
+    title: "Streaming Award Leadership / 流媒体奖项领先"
+    url: "/wiki/concepts/streamingawardleadership/"
   - key: "StreamingConsolidation"
     title: "Streaming Consolidation"
     url: "/wiki/concepts/streamingconsolidation/"

@@ -2379,6 +2379,10 @@
     "title": "AI Interviewing",
     "url": "/wiki/concepts/aiinterviewing/"
   },
+  "AIInvestmentMarginDrag": {
+    "title": "AI Investment Margin Drag / AI投入拖累利润",
+    "url": "/wiki/concepts/aiinvestmentmargindrag/"
+  },
   "AIInvestmentMetrics": {
     "title": "AI Investment Metrics",
     "url": "/wiki/concepts/aiinvestmentmetrics/"
@@ -5978,6 +5982,10 @@
   "AppleSupplyChainResponsibility": {
     "title": "Apple Supply Chain Responsibility",
     "url": "/wiki/concepts/applesupplychainresponsibility/"
+  },
+  "AppleTVPlus": {
+    "title": "Apple TV+",
+    "url": "/wiki/entities/appletvplus/"
   },
   "AppleWatch": {
     "title": "Apple Watch",
@@ -10043,6 +10051,10 @@
     "title": "Cambridge Plaza",
     "url": "/wiki/entities/cambridgeplaza/"
   },
+  "CameraFreeSmartGlasses": {
+    "title": "Camera-Free Smart Glasses / 无摄像头智能眼镜",
+    "url": "/wiki/concepts/camerafreesmartglasses/"
+  },
   "CameraJet": {
     "title": "CameraJet",
     "url": "/wiki/entities/camerajet/"
@@ -11038,6 +11050,10 @@
   "ChaiWu": {
     "title": "柴武 / Chai Wu",
     "url": "/wiki/entities/chaiwu/"
+  },
+  "ChainExecutiveImport": {
+    "title": "Chain Executive Import / 餐饮高管引入",
+    "url": "/wiki/concepts/chainexecutiveimport/"
   },
   "ChainRestaurantStandardization": {
     "title": "Chain Restaurant Standardization",
@@ -19774,6 +19790,10 @@
   "EmmettShear": {
     "title": "Emmett Shear",
     "url": "/wiki/entities/emmettshear/"
+  },
+  "EmmyAwards": {
+    "title": "Emmy Awards",
+    "url": "/wiki/entities/emmyawards/"
   },
   "EmoRevivalIdentityCulture": {
     "title": "Emo Revival Identity Culture",
@@ -34439,6 +34459,10 @@
     "title": "Kim Jong Un",
     "url": "/wiki/entities/kimjongun/"
   },
+  "KimKardashian": {
+    "title": "Kim Kardashian",
+    "url": "/wiki/entities/kimkardashian/"
+  },
   "KimPhilby": {
     "title": "Kim Philby / 金·菲尔比",
     "url": "/wiki/entities/kimphilby/"
@@ -38906,6 +38930,10 @@
   "Luxeed": {
     "title": "Luxeed / 智界",
     "url": "/wiki/entities/luxeed/"
+  },
+  "Luxihe": {
+    "title": "Luxihe / 泸溪河",
+    "url": "/wiki/entities/luxihe/"
   },
   "Luxixi": {
     "title": "鲁西西 / Luxixi",
@@ -44059,6 +44087,10 @@
     "title": "Nighttime Economy Governance",
     "url": "/wiki/concepts/nighttimeeconomygovernance/"
   },
+  "NihonKotsu": {
+    "title": "Nihon Kotsu / 日本交通",
+    "url": "/wiki/entities/nihonkotsu/"
+  },
   "NihongDianbo": {
     "title": "霓虹电波 / Nihong Dianbo",
     "url": "/wiki/entities/nihongdianbo/"
@@ -44070,6 +44102,10 @@
   "NikeBrandDrift": {
     "title": "Nike Brand Drift",
     "url": "/wiki/concepts/nikebranddrift/"
+  },
+  "NikeSkims": {
+    "title": "NikeSkims",
+    "url": "/wiki/entities/nikeskims/"
   },
   "NikeVaporfly": {
     "title": "Nike Vaporfly",
@@ -52935,6 +52971,10 @@
     "title": "Robotaxi Hybrid Deployment",
     "url": "/wiki/concepts/robotaxihybriddeployment/"
   },
+  "RobotaxiIncumbentTaxiPartnership": {
+    "title": "Robotaxi Incumbent Taxi Partnership / 自动驾驶与出租车企业合作",
+    "url": "/wiki/concepts/robotaxiincumbenttaxipartnership/"
+  },
   "RobotaxiLocalAcceptance": {
     "title": "Robotaxi Local Acceptance",
     "url": "/wiki/concepts/robotaxilocalacceptance/"
@@ -56455,6 +56495,10 @@
     "title": "Skimpflation",
     "url": "/wiki/concepts/skimpflation/"
   },
+  "Skims": {
+    "title": "Skims",
+    "url": "/wiki/entities/skims/"
+  },
   "Skydance": {
     "title": "Skydance",
     "url": "/wiki/entities/skydance/"
@@ -58567,6 +58611,10 @@
     "title": "Streaming Author Brand",
     "url": "/wiki/concepts/streamingauthorbrand/"
   },
+  "StreamingAwardLeadership": {
+    "title": "Streaming Award Leadership / 流媒体奖项领先",
+    "url": "/wiki/concepts/streamingawardleadership/"
+  },
   "StreamingConsolidation": {
     "title": "Streaming Consolidation",
     "url": "/wiki/concepts/streamingconsolidation/"
@@ -60186,6 +60234,10 @@
   "TariffConsumerPricePassThrough": {
     "title": "Tariff Consumer Price Pass-Through",
     "url": "/wiki/concepts/tariffconsumerpricepassthrough/"
+  },
+  "TariffDrivenOverseasLocalProduction": {
+    "title": "Tariff-Driven Overseas Local Production / 关税驱动的海外本地生产",
+    "url": "/wiki/concepts/tariffdrivenoverseaslocalproduction/"
   },
   "TariffExemptionPressureValve": {
     "title": "Tariff Exemption Pressure Valve",
@@ -66426,6 +66478,10 @@
   "WomenOwnedClinicCapitalGap": {
     "title": "Women-Owned Clinic Capital Gap",
     "url": "/wiki/concepts/womenownedcliniccapitalgap/"
+  },
+  "WomenSportswearSegmentStratification": {
+    "title": "Women's Sportswear Segment Stratification / 女性运动服饰细分分层",
+    "url": "/wiki/concepts/womensportswearsegmentstratification/"
   },
   "WomenWorkplaceProgressStall": {
     "title": "Women Workplace Progress Stall",
@@ -75730,6 +75786,10 @@
   "tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166": {
     "title": "图拉斯｜把校徽印上卫衣 T 恤，美国大学如何把授权校名做成一门生意？",
     "url": "/wiki/sources/tulasi-ba-xiaohui-yinshang-weiyi-t-xu-meiguo-daxue-ruhe-ba-shouquan-xiaoming-zuocheng-yimen-shengyi-1014464166/"
+  },
+  "tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412": {
+    "title": "图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏",
+    "url": "/wiki/sources/tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412/"
   },
   "tulasi-zishengtang-qisu-pingjia-shangchao-aoleqi-alo-qianyue-wangyibo-1014854463": {
     "title": "图拉斯｜资生堂起诉平价商超奥乐齐，Alo 签约王一博",

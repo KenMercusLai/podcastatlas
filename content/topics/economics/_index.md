@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2053
+topic_total_pages: 2055
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -157,6 +157,9 @@ topic_concepts:
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  - key: "AIInvestmentMarginDrag"
+    title: "AI Investment Margin Drag / AI投入拖累利润"
+    url: "/wiki/concepts/aiinvestmentmargindrag/"
   - key: "AIInvestmentMetrics"
     title: "AI Investment Metrics"
     url: "/wiki/concepts/aiinvestmentmetrics/"
@@ -2770,6 +2773,9 @@ topic_concepts:
   - key: "TariffRefundUncertainty"
     title: "Tariff Refund Uncertainty"
     url: "/wiki/concepts/tariffrefunduncertainty/"
+  - key: "TariffDrivenOverseasLocalProduction"
+    title: "Tariff-Driven Overseas Local Production / 关税驱动的海外本地生产"
+    url: "/wiki/concepts/tariffdrivenoverseaslocalproduction/"
   - key: "TaxBaseOverResourceMonopoly"
     title: "Tax Base Over Resource Monopoly / 税基优先于资源独占"
     url: "/wiki/concepts/taxbaseoverresourcemonopoly/"

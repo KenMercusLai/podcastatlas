@@ -2269,6 +2269,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-17] ingest | 图拉斯｜苹果成今年艾美奖的最大赢家，携程二季度由盈转亏
+
+Added source `tulasi-pingguo-cheng-jinnian-aimeijiang-de-zuida-yingjia-xiecheng-erjidu-youying-zhuankui-1015756412`; created entity pages for Apple TV+, the Emmy Awards, Kim Kardashian, Skims, NikeSkims, Luxihe / 泸溪河, and Nihon Kotsu / 日本交通; created concept pages for AI investment margin drag, camera-free smart glasses, chain executive import, robotaxi incumbent taxi partnership, streaming award leadership, tariff-driven overseas local production, and women's sportswear segment stratification; migrated `CtripAntitrustPenalty` to synthesis-v1 and refreshed `Ctrip`, `RobotaxiPlatformDisintermediation`, `SmartGlassesBystanderPrivacy`, and `SportswearExperienceSpace`; updated `index.md`, `overview.md`, and the downstream synthesis artifacts. Core synthesis: growth-stage companies traded profit for investment, control, or privacy headroom, as Ctrip's antitrust penalty turned a growing quarter into a loss, ByteDance's revenue rose while AI spending cut profit, Apple led the Emmy field through counter-cyclical content spending without matching Netflix's watch share, Seres took back AITO's product, brand, and channel decisions, BYD answered tariff pressure with European local production, Waymo entered Tokyo through an incumbent taxi operator, Meta split its wearable line into camera and camera-free models, NikeSkims opened a temporary Shanghai space, and Luxihe imported restaurant executives to rebuild its store model. No settled contradiction found; award counts, watch-share data, penalty and earnings figures, overseas sales targets, store counts, and executive moves remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》389-3｜怪不得佛门让“止语”，原来有这么多福报！
 
 Added source. Key claims: Buddhist "止语/少语" restrains false, divisive, harsh, frivolous, and judgmental speech; retreat silence is presented as training; repeated restraint is said to turn speech toward praise, kindness, and source-scoped "功德语." Updated [[BuddhistSpeechRestraint]] and [[AdversitySilenceDiscipline]].
@@ -19938,6 +19942,10 @@ Added source note for the How I Built This Advice Line episode where Guy Raz and
 ## [2026-09-17] ingest | 706. Queen Victoria's Revenge: Storming the Citadel (Part 2)
 
 Added source note for the second half of the The Rest Is History Abyssinian sequence, covering the 19 August 1867 cabinet decision, Robert Napier's command, the Anersley Bay landing, the engineered march to Magdala, the Ras Kassa supply bargain, the Battle of Magdala, the release of Hormuzd Rassam and the other hostages, the death of Theodros II with Queen Victoria's gift pistol, the looting and auction of the citadel, and the withdrawal that left Abyssinia leaderless for about twenty years. Created entity pages for Robert Napier, Ras Kassa, Henry Morton Stanley, Charles Duncan Cameron, Menelik II, the Maria Theresa taler, and Flashman on the March, plus concept pages for imperial prestige vindication, imperial logistical spectacle, industrial firepower asymmetry, imperial spoils auction, and punitive expedition power vacuum. Extended Teodros II, Magdala, Abyssinia, Queen Victoria, Hormuzd Rassam, the Abyssinian Expedition of 1868, diplomatic neglect escalation, and the hostage mission dependency trap. No settled contradiction found; Part 2 completes the arc Part 1 deferred, while casualty figures, the roughly £10M cost, the twenty-year chaos, and the prestige-first reading of the cabinet remain source-scoped.
+
+## [2026-09-17] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-17] lint | Wiki health check
 

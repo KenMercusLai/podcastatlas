@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 7486
+wiki_total_pages: 7493
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "WomensSportsBusinessGrowth"
     title: "Women's Sports Business Growth"
     url: "/wiki/concepts/womenssportsbusinessgrowth/"
+  - key: "WomenSportswearSegmentStratification"
+    title: "Women's Sportswear Segment Stratification / 女性运动服饰细分分层"
+    url: "/wiki/concepts/womensportswearsegmentstratification/"
   - key: "WomenOrientedMelodramaDemand"
     title: "Women-Oriented Melodrama Demand / 女性向通俗情节需求"
     url: "/wiki/concepts/womenorientedmelodramademand/"
