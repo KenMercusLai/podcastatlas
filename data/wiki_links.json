@@ -18023,6 +18023,14 @@
     "title": "Dominique Baker",
     "url": "/wiki/entities/dominiquebaker/"
   },
+  "DominosPizza": {
+    "title": "Domino's Pizza",
+    "url": "/wiki/entities/dominospizza/"
+  },
+  "DominosPizzaTracker": {
+    "title": "Domino's Pizza Tracker",
+    "url": "/wiki/entities/dominospizzatracker/"
+  },
   "DonBrash": {
     "title": "Don Brash",
     "url": "/wiki/entities/donbrash/"
@@ -35183,6 +35191,10 @@
     "title": "LVMH",
     "url": "/wiki/entities/lvmh/"
   },
+  "LaborIllusion": {
+    "title": "Labor Illusion",
+    "url": "/wiki/concepts/laborillusion/"
+  },
   "LaborMarketCounterforces": {
     "title": "Labor Market Counterforces",
     "url": "/wiki/concepts/labormarketcounterforces/"
@@ -49583,6 +49595,10 @@
     "title": "Progress Tracking Self-Assessment",
     "url": "/wiki/concepts/progresstrackingselfassessment/"
   },
+  "ProgressVisibilityDesign": {
+    "title": "Progress Visibility Design",
+    "url": "/wiki/concepts/progressvisibilitydesign/"
+  },
   "ProgressionFreeVsOverallSurvival": {
     "title": "Progression-Free vs Overall Survival",
     "url": "/wiki/concepts/progressionfreevsoverallsurvival/"
@@ -56303,6 +56319,10 @@
     "title": "叔孙无忌 / Shusun Wuji (late Han)",
     "url": "/wiki/entities/shusunwujilatehan/"
   },
+  "ShuyaGong": {
+    "title": "Shuya Gong",
+    "url": "/wiki/entities/shuyagong/"
+  },
   "ShyalpaRinpoche": {
     "title": "Shyalpa Rinpoche",
     "url": "/wiki/entities/shyalparinpoche/"
@@ -59810,6 +59830,10 @@
   "SyntheticPerformers": {
     "title": "Synthetic Performers",
     "url": "/wiki/concepts/syntheticperformers/"
+  },
+  "SyntheticProgressIndicators": {
+    "title": "Synthetic Progress Indicators",
+    "url": "/wiki/concepts/syntheticprogressindicators/"
   },
   "SyntheticRiskTransfer": {
     "title": "Synthetic Risk Transfer / SRT",
@@ -75718,6 +75742,10 @@
   "the-continent-nobody-owns-everyone-benefits-from-summer-school": {
     "title": "The continent nobody owns & everyone benefits from (Summer School)",
     "url": "/wiki/sources/the-continent-nobody-owns-everyone-benefits-from-summer-school/"
+  },
+  "the-dominos-pizza-tracker-theory-of-everything": {
+    "title": "The Domino's Pizza Tracker Theory of Everything",
+    "url": "/wiki/sources/the-dominos-pizza-tracker-theory-of-everything/"
   },
   "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4": {
     "title": "The Elon game: Musk's vision of the future",

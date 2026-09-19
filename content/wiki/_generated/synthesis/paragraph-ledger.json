@@ -630,12 +630,13 @@
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108",
       "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa",
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
-      "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
+      "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
+      "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c"
     ],
-    "paragraph_count": 630
+    "paragraph_count": 631
   },
-  "overview_commit": "b35f24c7a6aef305d56f9b4577ca3c28cfc7be32",
-  "overview_digest": "be7ca368714cb746a45bb82901ae4d10d18d63a0616ddfb2177db8f8eb3b6604",
+  "overview_commit": "4f3c60ff4e5eec4a588f1e0551e42a57e21bae0e",
+  "overview_digest": "133d0bf1e8406b24bd22cc98e2bf77c5d225ae21290b679e55406fd7bf8e7d4c",
   "paragraphs": [
     {
       "id": "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
@@ -19239,6 +19240,28 @@
         "LongNow",
         "PublicExperimentalPhilosophy",
         "salt-020260914-archive-keats-podcast"
+      ]
+    },
+    {
+      "id": "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[the-dominos-pizza-tracker-theory-of-everything|The Domino's Pizza Tracker Theory of Everything]], a [[PlanetMoney]] episode on how [[DominosPizza|Domino's]] replaced a dangerous speed guarantee with customer-facing process visibility. It adds [[DominosPizza]], [[DominosPizzaTracker]], [[ShuyaGong]], [[ProgressVisibilityDesign]], [[LaborIllusion]], and [[SyntheticProgressIndicators]]. Its core synthesis is that waiting depends on uncertainty and perceived control as well as clock time: credible operational milestones can make invisible work legible, increase perceived value, and make an unchanged wait feel shorter, but fixed animations, artificial delays, unstable estimates, or cosmetic stages become manipulative when they imply work or certainty the system does not possess. No settled contradiction is recorded; the hosts' single-store test found the tracker mostly accurate on consequential events while qualifying employee attribution, fixed oven timing, and the quality-check stage, and the banking, TurboTax, and Uber examples do not establish industry-wide prevalence.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "DominosPizza",
+        "DominosPizzaTracker",
+        "LaborIllusion",
+        "PlanetMoney",
+        "ProgressVisibilityDesign",
+        "ShuyaGong",
+        "SyntheticProgressIndicators",
+        "the-dominos-pizza-tracker-theory-of-everything"
       ]
     }
   ],

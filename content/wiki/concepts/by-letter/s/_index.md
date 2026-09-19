@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7528
+wiki_total_pages: 7531
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1994,6 +1994,9 @@ wiki_pages:
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"
+  - key: "SyntheticProgressIndicators"
+    title: "Synthetic Progress Indicators"
+    url: "/wiki/concepts/syntheticprogressindicators/"
   - key: "SyntheticRiskTransfer"
     title: "Synthetic Risk Transfer / SRT"
     url: "/wiki/concepts/syntheticrisktransfer/"

@@ -1494,10 +1494,29 @@
         "LuntaiSelfCriticismPolicyTurn",
         "RuiqiJiangtouZizhiTongjian"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "digital-waiting-design-needs-truthful-state-visibility",
+      "qualifications": [
+        "This is a bounded user-experience and service-work claim, not evidence that progress trackers generally improve worker conditions or service quality.",
+        "The single Domino's observation found consequential events mostly accurate while qualifying employee attribution, fixed oven timing, and the quality-check stage.",
+        "Examples from banking, TurboTax, and Uber remain illustrative and source-scoped."
+      ],
+      "statement": "[[the-dominos-pizza-tracker-theory-of-everything|The Domino's Pizza Tracker episode]] enters work-and-society through the design of digital waiting: [[ShuyaGong]], [[ProgressVisibilityDesign]], and [[LaborIllusion]] show how visible milestones restore some of the reassurance of watching work happen, while [[SyntheticProgressIndicators]] show why worker names, quality checks, animations, delays, and estimates need a defensible relationship to actual service state.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "the-dominos-pizza-tracker-theory-of-everything",
+        "ShuyaGong",
+        "ProgressVisibilityDesign",
+        "LaborIllusion",
+        "SyntheticProgressIndicators",
+        "DominosPizzaTracker"
+      ]
     }
   ],
   "input_digest": "e58515b294b452b4f8ea983b61f3659c5f5fdfde9d8af285370537de3291c0bb",
-  "summary": "Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.",
+  "summary": "Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation. The latest evidence adds that digital service work also includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

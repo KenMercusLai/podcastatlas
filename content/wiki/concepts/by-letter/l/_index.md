@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7528
+wiki_total_pages: 7531
 wiki_pages:
+  - key: "LaborIllusion"
+    title: "Labor Illusion"
+    url: "/wiki/concepts/laborillusion/"
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
     url: "/wiki/concepts/labormarketcounterforces/"

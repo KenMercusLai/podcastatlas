@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10204
+wiki_total_pages: 10207
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -635,6 +635,12 @@ wiki_pages:
   - key: "DominiqueBaker"
     title: "Dominique Baker"
     url: "/wiki/entities/dominiquebaker/"
+  - key: "DominosPizza"
+    title: "Domino's Pizza"
+    url: "/wiki/entities/dominospizza/"
+  - key: "DominosPizzaTracker"
+    title: "Domino's Pizza Tracker"
+    url: "/wiki/entities/dominospizzatracker/"
   - key: "DonBrash"
     title: "Don Brash"
     url: "/wiki/entities/donbrash/"

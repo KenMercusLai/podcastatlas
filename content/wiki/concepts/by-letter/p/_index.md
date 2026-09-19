@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7528
+wiki_total_pages: 7531
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "ProgressTrackingSelfAssessment"
     title: "Progress Tracking Self-Assessment"
     url: "/wiki/concepts/progresstrackingselfassessment/"
+  - key: "ProgressVisibilityDesign"
+    title: "Progress Visibility Design"
+    url: "/wiki/concepts/progressvisibilitydesign/"
   - key: "ProgressionFreeVsOverallSurvival"
     title: "Progression-Free vs Overall Survival"
     url: "/wiki/concepts/progressionfreevsoverallsurvival/"

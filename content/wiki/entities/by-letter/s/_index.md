@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10204
+wiki_total_pages: 10207
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "Shunde"
     title: "Shunde / 顺德"
     url: "/wiki/entities/shunde/"
+  - key: "ShuyaGong"
+    title: "Shuya Gong"
+    url: "/wiki/entities/shuyagong/"
   - key: "ShyalpaRinpoche"
     title: "Shyalpa Rinpoche"
     url: "/wiki/entities/shyalparinpoche/"

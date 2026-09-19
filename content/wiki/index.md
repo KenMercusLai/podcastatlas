@@ -2509,7 +2509,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？](sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr.md) — Red Cliffs episode on Huang Gai's fire attack, Cao Cao's retreat and defensive line, and his post-defeat attempt to reallocate cause and credit.
 - [《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？](sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv.md) — Red Cliffs prelude and retreat episode on Cao Cao's readiness misjudgment, disease and river-war constraints, linked ships, Huang Gai's fire plan, and the Huarong mobility crisis.
 
+- [The Domino's Pizza Tracker Theory of Everything](sources/the-dominos-pizza-tracker-theory-of-everything.md) — Planet Money episode on Domino's shift from a dangerous speed guarantee to operational progress visibility, labor illusion, and the manipulation boundary of synthetic status displays.
+
 ## Entities
+- [Domino's Pizza](entities/DominosPizza.md) — Restaurant and delivery company that turned internal order telemetry into a customer-facing progress experience.
+- [Domino's Pizza Tracker](entities/DominosPizzaTracker.md) — Staged order-status product that made invisible pizza-production and delivery work legible to customers.
+- [Shuya Gong](entities/ShuyaGong.md) — Designer who uses the Pizza Tracker to explain reassurance, visible work, and manufactured digital waiting.
 - [习凿齿 / Xi Zaochi](entities/XiZaochi.md) — Eastern Jin historian whose critique frames Cao Cao's post-Red-Cliffs arrogance as an amplifier of strategic and personnel loss.
 - [张松 / Zhang Song (Late Han)](entities/ZhangSongLateHan.md) — Liu Zhang emissary whose cold reception by Cao Cao precedes Yizhou's pivot toward Liu Bei.
 - [袭肃 / Xi Su (Late Han)](entities/XiSuLateHan.md) — Surrendering commander allowed to retain his troops after Lyu Meng argues for trust-based incorporation.
@@ -12720,6 +12725,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river campaign where disease, readiness, terrain, linked ships, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
 
 ## Concepts
+- [Progress Visibility Design](concepts/ProgressVisibilityDesign.md) — Translation of hidden service work into credible milestones that reduce uncertainty during a wait.
+- [Labor Illusion](concepts/LaborIllusion.md) — Increase in perceived value or appreciation when customers can see evidence of work performed for them.
+- [Synthetic Progress Indicators](concepts/SyntheticProgressIndicators.md) — Stages, delays, or estimates that imply more measured work or certainty than the underlying system supports.
 - [Post-Defeat Narrative Counterattack / 败后叙事反击](concepts/PostDefeatNarrativeCounterattack.md) — Reallocating the causes, agency, and credit of a loss to limit political damage and amplify tensions among the victors.
 - [Earned Reward Refusal / 有功辞赏](concepts/EarnedRewardRefusal.md) — Tension between a contributor's principled refusal of deserved reward and an organization's need to keep merit recognition credible.
 - [Catastrophic Failure Root-Cause Investigation](concepts/CatastrophicFailureRootCauseInvestigation.md) — Independent, overlapping inquiry into technical and institutional causes before corrective and preventive action.

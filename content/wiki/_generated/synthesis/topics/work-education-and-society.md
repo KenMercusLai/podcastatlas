@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-14
-as_of_overview_commit: 4bd98a9080c5ea8c952423914a3ca47ab476c1eb
-input_digest: 1330bb16855e049f30aae238b3887a731fd9a6fb2250e4494c1ae654601c58ce
+last_updated: 2026-09-19
+as_of_overview_commit: 4f3c60ff4e5eec4a588f1e0551e42a57e21bae0e
+input_digest: e25a06958cac1a0ea7ad07cc0ff707945b5442f5344981ec563f90d7b53a2faa
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation. The latest evidence adds that digital service work also includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust.
 
 ## Cross-source Findings
 
@@ -847,3 +847,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - This is a secondary hierarchy and role-fit analogy from a Western Han historical podcast, not modern career advice.
 - The episode itself emphasizes Tian Qianqiu's lack of obvious prior merit, so the claim is about timing and fit rather than general talent evaluation.
+
+### Digital Waiting Design Needs Truthful State Visibility
+
+[[the-dominos-pizza-tracker-theory-of-everything|The Domino's Pizza Tracker episode]] enters work-and-society through the design of digital waiting: [[ShuyaGong]], [[ProgressVisibilityDesign]], and [[LaborIllusion]] show how visible milestones restore some of the reassurance of watching work happen, while [[SyntheticProgressIndicators]] show why worker names, quality checks, animations, delays, and estimates need a defensible relationship to actual service state.
+
+**Evidence:** [[the-dominos-pizza-tracker-theory-of-everything]], [[ShuyaGong]], [[ProgressVisibilityDesign]], [[LaborIllusion]], [[SyntheticProgressIndicators]], [[DominosPizzaTracker]]
+
+**Qualifications:**
+
+- This is a bounded user-experience and service-work claim, not evidence that progress trackers generally improve worker conditions or service quality.
+- The single Domino's observation found consequential events mostly accurate while qualifying employee attribution, fixed oven timing, and the quality-check stage.
+- Examples from banking, TurboTax, and Uber remain illustrative and source-scoped.

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-19
-as_of_overview_commit: 969936d700cc8dc066f27b31f7649fe5927319fe
+as_of_overview_commit: 4f3c60ff4e5eec4a588f1e0551e42a57e21bae0e
 summary: "Podcast Atlas maps how claims become grounded systems: durable value depends on evidence, workflows, trust, practical capacity, causal inquiry, and explicit boundaries."
-episode_count: 2496
-source_count: 2496
-paragraph_count: 630
+episode_count: 2502
+source_count: 2502
+paragraph_count: 631
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ AI value depends less on isolated model capability than on workflow integration,
 
 ### Business and Markets
 
-Business value becomes durable when demand, distribution, payment proof, operating capacity, supply-chain fit, legibility, trust, and downside discipline reinforce one another.
+Business value becomes durable when demand, distribution, payment proof, operating capacity, supply-chain fit, legibility, trust, and downside discipline reinforce one another; customer-facing progress only adds value while its displayed state remains credibly grounded.
 
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].
@@ -78,7 +78,7 @@ Reliable science and health reasoning requires mechanisms, measurement, evidence
 
 ### Work, Education, and Society
 
-Work, learning, and social capacity depend on routines, role clarity, trust, feedback, incentives, protected access, human judgment, and intergenerational investment.
+Work, learning, and social capacity depend on routines, role clarity, trust, feedback, incentives, protected access, human judgment, intergenerational investment, and truthful representations of service work.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

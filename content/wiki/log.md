@@ -20042,3 +20042,11 @@ Added source `2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | The Domino's Pizza Tracker Theory of Everything
+
+Added source `the-dominos-pizza-tracker-theory-of-everything`; created `DominosPizza`, `DominosPizzaTracker`, `ShuyaGong`, `ProgressVisibilityDesign`, `LaborIllusion`, and `SyntheticProgressIndicators`; and updated `index.md` and `overview.md`. Core synthesis: Domino's repurposed operational order telemetry into a customer-facing route through the wait, showing that credible milestones can reduce uncertainty and increase perceived value without changing elapsed time, while synthetic stages, artificial delay, or strategic estimates become manipulative when they imply work or certainty the system does not possess. No settled contradiction found; the single-store test found consequential events mostly accurate while qualifying employee attribution, fixed oven timing, and the quality-check stage, and the banking, TurboTax, and Uber examples remain illustrative rather than industry-wide evidence.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
