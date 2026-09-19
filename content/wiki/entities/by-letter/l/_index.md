@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10239
+wiki_total_pages: 10243
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "LadyWuSunJian"
     title: "吴夫人 / Lady Wu (Sun Jian)"
     url: "/wiki/entities/ladywusunjian/"
+  - key: "LouGuiLateHan"
+    title: "娄圭 / Lou Gui (Late Han)"
+    url: "/wiki/entities/louguilatehan/"
   - key: "LouChang"
     title: "娄昌 / Lou Chang"
     url: "/wiki/entities/louchang/"

@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-20
-as_of_overview_commit: e5c7f6b4a0b124f2f49bed5e581c1ac6d863301f
-input_digest: 7086da4fee10b91cada469af06b2418e96d15ca54dda5e772b12d950dc91ac40
+as_of_overview_commit: bc6128fbdb91d357e4f71da4e1e46f2efec20f8b
+input_digest: 72f0cd3d67c474435b15a7969b0232bb9e855031215625d090b4457456166641
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Hanji 1098 adds the complementary weak-actor mechanism: Liu Bei converts repeated dependence, Xinye dormancy, reputation, and adviser planning into portable organizational capacity. Across these cases, institutional judgment must distinguish visible evidence from inferred motive, formal designation from publicly contested authority, and borrowed platforms from the capacity an actor can retain after leaving them.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Hanji 1098 adds the complementary weak-actor mechanism: Liu Bei converts repeated dependence, Xinye dormancy, reputation, and adviser planning into portable organizational capacity. Hanji 1092 adds the succession boundary between them: elite dependence shapes a weak ruler's surrender incentives, a costly token makes submission credible, and private wealth remains unsafe without autonomy from ruler power. Across these cases, institutional judgment must distinguish visible evidence from inferred motive, formal designation from publicly contested authority, costly commitment from certainty, and borrowed platforms or wealth from protected independent capacity.
 
 ## Cross-source Findings
 
@@ -2292,3 +2292,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 - The claim is source-scoped to one popular-history episode and its modern job-hopping and startup analogy.
 - The six-patron sequence compresses offices, refuge, alliances, and later conquest into one frame, while the seven-year duration and six-thousand-plus force estimate require primary-source verification.
 - Reputation and benevolence can support followership, but the episode does not prove a single motive for every follower or civilian.
+
+### Jingzhou Surrender Joins Role Asymmetry Costly Signaling And Power Exposure
+
+[[zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs|Hanji 1092]] adds a late-Han governance case where [[LiuCongLateHan|Liu Cong]]'s elite-managed accession and [[FuXunLateHan|Fu Xun]]'s no-win protector analysis expose [[RoleAsymmetricSurrenderIncentives]], [[LouGuiLateHan|Lou Gui]] reads an imperial tally through [[SurrenderTokenCredibility]], and Lou Gui's later denunciation and death show [[PowerDominatedWealthInsecurity]] when private fortune lacks protected autonomy against concentrated ruler power.
+
+**Evidence:** [[zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs]], [[LiuCongLateHan]], [[FuXunLateHan]], [[RoleAsymmetricSurrenderIncentives]], [[LouGuiLateHan]], [[SurrenderTokenCredibility]], [[PowerDominatedWealthInsecurity]], [[ZhangYunLateHan]], [[XiShouLateHan]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one popular-history episode and does not independently verify exact dialogue, the tally's legal form, the seven-commandery outcome, elite private motives, or the formal mode of Lou Gui's execution.
+- Fu Xun's forecast about Liu Bei after victory is counterfactual, while Lou Gui's wealth source and Cao Cao's alleged prior murderous intent are not established.
+- A costly surrender token updates credibility but does not guarantee compliance by every official, garrison, or local elite.

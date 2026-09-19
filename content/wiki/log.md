@@ -20214,3 +20214,11 @@ Added source `zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-y
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？
+
+Added source `zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs`; created `LouGuiLateHan`, `ZhangYunLateHan`, `FuXunLateHan`, `XiShouLateHan`, and `SurrenderTokenCredibility`; updated `LiuCongLateHan`, `RoleAsymmetricSurrenderIncentives`, `PowerDominatedWealthInsecurity`, `index.md`, and `overview.md`. Core synthesis: Liu Cong's surrender follows an elite-managed succession and a no-win dependence on Liu Bei, while the returned imperial tally supplies costly evidence of genuine capitulation; Lou Gui's later execution illustrates how wealth without protected autonomy remains exposed to denunciation and ruler suspicion. No settled contradiction found; Lou Gui's wealth source, Cao Cao's alleged prior intent, exact dialogue, elite motives, commandery count, and the formal mode of execution remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

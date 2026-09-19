@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
       "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
       "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
       "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
@@ -646,11 +647,33 @@
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0"
     ],
-    "paragraph_count": 644
+    "paragraph_count": 645
   },
-  "overview_commit": "e38183497b404b3e7593b177016a51cd8607edf9",
-  "overview_digest": "42fc314b8294afb0fa82a052573055d1111652349698c52c2fd25bebf0b81815",
+  "overview_commit": "bc6128fbdb91d357e4f71da4e1e46f2efec20f8b",
+  "overview_digest": "ff1e969c6facd08489200cc4ba84069b8673649aacb42a4928c2b69b5cb6d8e8",
   "paragraphs": [
+    {
+      "id": "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs|《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the succession-and-surrender layer before Hanji 1093. It adds [[LouGuiLateHan|娄圭]], [[ZhangYunLateHan|张允]], [[FuXunLateHan|傅巽]], [[XiShouLateHan|习授]], and [[SurrenderTokenCredibility|降服凭证式可信度]], while extending [[LiuCongLateHan|刘琮]], [[RoleAsymmetricSurrenderIncentives|身份不对称的投降激励]], and [[PowerDominatedWealthInsecurity|权力笼罩下的财富不安全]]. Its core synthesis is that Jingzhou's transfer combines elite-managed succession, a young ruler's asymmetric dependence, and a costly political token, while Lou Gui's later fate shows that exceptional wealth without protected autonomy cannot shield ambiguous speech from denunciation and ruler suspicion. No settled contradiction is recorded; Lou Gui's wealth source, Cao Cao's alleged prior intent, exact dialogue, elite motives, commandery count, and the formal mode of execution remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "FuXunLateHan",
+        "LiuCongLateHan",
+        "LouGuiLateHan",
+        "PowerDominatedWealthInsecurity",
+        "RoleAsymmetricSurrenderIncentives",
+        "RuiqiJiangtouZizhiTongjian",
+        "SurrenderTokenCredibility",
+        "XiShouLateHan",
+        "ZhangYunLateHan",
+        "zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs"
+      ]
+    },
     {
       "id": "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
       "primary_topic": "history-and-geopolitics",

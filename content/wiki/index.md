@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？](sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs.md) — 刘琮在荆州士族推动下降曹、娄圭以符节判断真降，以及财富与猜忌交织下的死亡。
 - [《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？](sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o.md) — 荆州百姓以刘备仁德与曹操屠城声誉比较风险，十余万人追随又成为撤退负担和可见政治资本的长坂坡前因。
 - [《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？](sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk.md) — 长坂坡溃败中张飞断桥、赵云救刘禅，以及刘备经汉津会师、夏口重组兵力的战场与恢复链条。
 - [《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？](sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3.md) — 长坂坡惨败后的信念叙事、曹操接收荆州官员，以及文聘以旧主忠义获得江夏重任的政权转换案例。
@@ -2533,8 +2534,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [娄圭 / Lou Gui (Late Han)](entities/LouGuiLateHan.md) — 以符节判断刘琮真降、富于曹操却缺乏相应势力，后因歧义言论遭告发处死的曹营谋士。
+- [张允 / Zhang Yun (Late Han)](entities/ZhangYunLateHan.md) — 与蔡瑁共同阻止刘琦探视刘表、支持刘琮继位的荆州官员。
+- [傅巽 / Fu Xun (Late Han)](entities/FuXunLateHan.md) — 以刘备胜败皆不能保全刘琮的两难分析推动荆州降曹的官员。
+- [习授 / Xi Shou (Late Han)](entities/XiShouLateHan.md) — 将娄圭歧义感慨解读为讥讽并向曹操告发的同僚。
 - [文聘 / Wen Ping](entities/WenPing.md) — 荆州易主后因故主之义迟到请罪，却被曹操视为可信并保留兵权、委任江夏的将领。
-- [刘琮 / Liu Cong (late Han)](entities/LiuCongLateHan.md) — 刘表继承人，其降曹使荆州领土与官员网络进入曹操的朝廷秩序。
+- [刘琮 / Liu Cong (late Han)](entities/LiuCongLateHan.md) — 在荆州士族主导的继承危机中上位并降曹，使领土与官员网络进入曹操秩序的年轻继承人。
 - [Dina Powell McCormick](entities/DinaPowellMcCormick.md) — Meta president and vice chairwoman presenting the company's community, workforce, safety, product, and AI-distribution case.
 - [America's Workforce Academy](entities/AmericasWorkforceAcademy.md) — Paid five-week skilled-trades program combining credentials, wage replacement, and a reported Meta-site job guarantee.
 - [Richland Parish, Louisiana](entities/RichlandParish.md) — Supportive data-center host case built around reported construction-period taxes, teacher bonuses, resource terms, and operator-funded grid costs.
@@ -12778,6 +12783,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Surrender-Token Credibility / 降服凭证式可信度](concepts/SurrenderTokenCredibility.md) — 通过交出稀缺政治凭证削弱自身继续独立行动的能力，从而让投降比口头承诺更可信。
 - [Civilian Followership as Political Capital / 百姓追随型政治资本](concepts/CivilianFollowershipPoliticalCapital.md) — 百姓基于安全判断主动追随时，同一群体既构成军事后勤负担，也成为可见的信任与合法性资产。
 - [Post-Defeat Force Reconstitution / 败后兵力重组](concepts/PostDefeatForceReconstitution.md) — 通过改道、后卫掩护、分兵会合、盟军增援与新基地选择，把溃散组织重新变为可用力量。
 - [Portable Political Capital / 可携带政治资本](concepts/PortablePoliticalCapital.md) — 依托强者平台获得的职位、人脉、声望与追随者，如何在失去原有据点后仍保留组织价值。
@@ -12785,7 +12791,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [联盟不确定性下的退路预留 / Alliance Contingency Hedging](concepts/AllianceContingencyHedging.md) — 在探索合作的同时，针对伙伴崩溃或失去能力预设退出方案的策略。
 - [Face-Preserving Alliance Persuasion / 保全体面的结盟说服](concepts/FacePreservingAlliancePersuasion.md) — 通过伙伴价值对比、平等合作话术和私人信任桥梁，让弱势方接受必要联盟。
 - [Longzhong Plan / 隆中对](concepts/LongzhongPlan.md) — 诸葛亮为刘备构想的战略框架，本源在此聚焦联合孙权与夺取荆州的次序调整。
-- [Role-Asymmetric Surrender Incentives / 身份不对称的投降激励](concepts/RoleAsymmetricSurrenderIncentives.md) — Different capitulation payoffs for portable officials and the ruler whose authority, freedom, and safety the victor must neutralize.
+- [Role-Asymmetric Surrender Incentives / 身份不对称的投降激励](concepts/RoleAsymmetricSurrenderIncentives.md) — 投降结果随身份而异，也包括弱主依赖强援时、强援胜败两端都可能削弱弱主自主权的风险。
 - [制度性退场升级 / Institutional Exit Escalation](concepts/InstitutionalExitEscalation.md) — Distinguishes imposed dismissal, preventive resignation, and an independent-base break.
 - [Verifiable Intent / 可验证意图](concepts/VerifiableIntent.md) — Durable semantic record of what a user authorized an agent to accomplish and under which constraints.
 - [Agent Trust Calibration / 智能体信任校准](concepts/AgentTrustCalibration.md) — Progressive delegation matched to demonstrated capability, bounded risk, traceability, and remedies.

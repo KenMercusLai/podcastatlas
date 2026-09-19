@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 10239
+wiki_total_pages: 10243
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "XiZaochi"
     title: "习凿齿 / Xi Zaochi"
     url: "/wiki/entities/xizaochi/"
+  - key: "XiShouLateHan"
+    title: "习授 / Xi Shou (Late Han)"
+    url: "/wiki/entities/xishoulatehan/"
   - key: "XiuliChanyu"
     title: "休利 / Xiuli Chanyu"
     url: "/wiki/entities/xiulichanyu/"

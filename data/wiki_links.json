@@ -24135,6 +24135,10 @@
     "title": "傅燮 / Fu Xie",
     "url": "/wiki/entities/fuxie/"
   },
+  "FuXunLateHan": {
+    "title": "傅巽 / Fu Xun (Late Han)",
+    "url": "/wiki/entities/fuxunlatehan/"
+  },
   "FuYanWesternHan": {
     "title": "傅晏 / Fu Yan (Western Han)",
     "url": "/wiki/entities/fuyanwesternhan/"
@@ -38582,6 +38586,10 @@
   "LouChang": {
     "title": "娄昌 / Lou Chang",
     "url": "/wiki/entities/louchang/"
+  },
+  "LouGuiLateHan": {
+    "title": "娄圭 / Lou Gui (Late Han)",
+    "url": "/wiki/entities/louguilatehan/"
   },
   "LouHuWesternHan": {
     "title": "Lou Hu (Western Han) / 楼护",
@@ -59815,6 +59823,10 @@
     "title": "Surrender as Civilian-Protection Tradeoff / 献城保民权衡",
     "url": "/wiki/concepts/surrenderascivilianprotectiontradeoff/"
   },
+  "SurrenderTokenCredibility": {
+    "title": "Surrender-Token Credibility / 降服凭证式可信度",
+    "url": "/wiki/concepts/surrendertokencredibility/"
+  },
   "SurrenderTrustBreakdown": {
     "title": "归降信任崩塌 / Surrender Trust Breakdown",
     "url": "/wiki/concepts/surrendertrustbreakdown/"
@@ -67675,6 +67687,10 @@
     "title": "Xi Jinping",
     "url": "/wiki/entities/xijinping/"
   },
+  "XiShouLateHan": {
+    "title": "习授 / Xi Shou (Late Han)",
+    "url": "/wiki/entities/xishoulatehan/"
+  },
   "XiSongFengyun": {
     "title": "西宋风云",
     "url": "/wiki/entities/xisongfengyun/"
@@ -71118,6 +71134,10 @@
   "ZhangYueguang": {
     "title": "张月光",
     "url": "/wiki/entities/zhangyueguang/"
+  },
+  "ZhangYunLateHan": {
+    "title": "张允 / Zhang Yun (Late Han)",
+    "url": "/wiki/entities/zhangyunlatehan/"
   },
   "ZhangZhangLateHan": {
     "title": "张璋 / Zhang Zhang (late Han)",
@@ -77314,6 +77334,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs": {
+    "title": "《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs/"
   },
   "zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o": {
     "title": "《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？",
