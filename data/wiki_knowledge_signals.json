@@ -15154,9 +15154,9 @@
       "url": "/wiki/entities/caocao/"
     },
     "CaoChunLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？ [llebQJK-Dz18AJvgcjkUt7-QhA1o].md",
@@ -15164,6 +15164,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
         }
       ],
       "updated": "2026-09-06",
@@ -16502,9 +16509,9 @@
       "url": "/wiki/entities/changxilatehan/"
     },
     "ChangbanBattle": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？ [llNEV7PZbRaOGD00u0H7i7BA65eq].md",
@@ -16519,6 +16526,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
         }
       ],
       "updated": "2026-09-20",
@@ -66039,6 +66053,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/liucangdongpingking/"
     },
+    "LiuChan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/liuchan/"
+    },
     "LiuChangDuxiangHouEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -67164,9 +67194,9 @@
       "url": "/wiki/entities/liupingeasternhan/"
     },
     "LiuQiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -67174,6 +67204,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
         }
       ],
       "updated": "2026-09-19",
@@ -86421,6 +86458,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/postbrexitstrategicidentity/"
+    },
+    "PostDefeatForceReconstitution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/postdefeatforcereconstitution/"
     },
     "PostDefeatNarrativeCounterattack": {
       "episode_count": 1,
@@ -125712,6 +125765,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhangfangwesternhan/"
     },
+    "ZhangFei": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
+          "key": "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好 [liVpg3zH7LsqFFGca2POMIQNlvYd].md",
+          "key": "zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/zhangfei/"
+    },
     "ZhangFengZhuoEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -127601,9 +127684,9 @@
       "url": "/wiki/entities/zhaoyanlatehan/"
     },
     "ZhaoYun": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -127611,6 +127694,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？ [ltYMDohev05PMxHWCDME9D2jYMzk].md",
+          "key": "zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
         }
       ],
       "updated": "2026-09-19",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10238
+wiki_total_pages: 10239
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "LiuYouLateHan"
     title: "刘祐 / Liu You (late Han)"
     url: "/wiki/entities/liuyoulatehan/"
+  - key: "LiuChan"
+    title: "刘禅 / Liu Chan"
+    url: "/wiki/entities/liuchan/"
   - key: "LiuYanLiuXiuBrother"
     title: "刘縯 / Liu Yan (Liu Xiu's brother)"
     url: "/wiki/entities/liuyanliuxiubrother/"

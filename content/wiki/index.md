@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？](sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk.md) — 长坂坡溃败中张飞断桥、赵云救刘禅，以及刘备经汉津会师、夏口重组兵力的战场与恢复链条。
 - [《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？](sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3.md) — 长坂坡惨败后的信念叙事、曹操接收荆州官员，以及文聘以旧主忠义获得江夏重任的政权转换案例。
 - [Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future](sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275.md) — All-In interview on Richland Parish's data-center bargain, paid skilled-trades training, Meta's child-safety defense, smart glasses, and open-model strategy.
 - [《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？](sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn.md) — 诸葛亮以战降二选一、尊严激将、兵力核算、曹军弱点与三分前景说服孙权转向抗曹联盟。
@@ -2546,7 +2547,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [程普 / Cheng Pu (late Han)](entities/ChengPuLateHan.md) — Jiangdong commander paired with Zhou Yu from the initial anti-Cao deployment into the Jiangling front.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
-- [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 使刘备失去稳固去处并催生孙刘联盟提案的败局背景。
+- [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 曹军追击造成刘备集团崩散，又经汉津会师、夏口重组通向孙刘联盟的208年战役。
 - [马超 / Ma Chao](entities/MaChao.md) — Guanzhong coalition figure whose Weinan defeat is framed through the gap between military concentration and political cohesion.
 - [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
@@ -2564,7 +2565,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张松 / Zhang Song (Late Han)](entities/ZhangSongLateHan.md) — Liu Zhang emissary whose cold reception by Cao Cao precedes Yizhou's pivot toward Liu Bei.
 - [袭肃 / Xi Su (Late Han)](entities/XiSuLateHan.md) — Surrendering commander allowed to retain his troops after Lyu Meng argues for trust-based incorporation.
 - [刘琦 / Liu Qi (Late Han)](entities/LiuQiLateHan.md) — Liu Biao heir whose Jingzhou-inspector title gives Liu Bei's southern expansion a legitimacy channel.
-- [赵云 / Zhao Yun](entities/ZhaoYun.md) — Liu Bei officer appointed in Guiyang during post-Red-Cliffs territorial consolidation.
+- [赵云 / Zhao Yun](entities/ZhaoYun.md) — 在长坂坡救回刘禅、战后又受命治理桂阳的刘备部将。
+- [刘禅 / Liu Chan](entities/LiuChan.md) — 长坂坡溃败中由赵云救回的刘备幼子。
 - [凌统 / Ling Tong](entities/LingTong.md) — Wu officer trusted to hold the rear while Zhou Yu and Lyu Meng relieve Gan Ning.
 - [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Difficult northern approach proposed by Tian Chou for Cao Cao's surprise movement against Wuhuan.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
@@ -5972,7 +5974,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张绣 / Zhang Xiu](entities/ZhangXiu.md) — Late Han commander who inherits Zhang Ji's troops, turns the first Cao Cao surrender into the Wancheng disaster, remains dangerous around Anzhong, then submits again before Guandu through Jia Xu's advice.
 - [典韦 / Dian Wei](entities/DianWei.md) — Cao Cao guard whose drunken disarming and final defense anchor Qinji 131-2's Wancheng example.
 - [曹昂 / Cao Ang](entities/CaoAng.md) — Cao Cao's son whose death marks the familial cost of the Wancheng drinking-and-security disaster.
-- [张飞 / Zhang Fei](entities/ZhangFei.md) — Three Kingdoms figure used as the compact example of drunkenly losing Xuzhou and harming Liu Bei's base.
+- [张飞 / Zhang Fei](entities/ZhangFei.md) — 既有下邳失守的指挥失败，也有长坂坡断桥掩护刘备撤退的后卫行动。
 - [刘备 / Liu Bei](entities/LiuBei.md) — Three Kingdoms leader whose branch includes Zhang Fei's Xuzhou loss, Hanji 1008 rescue through Lü Bu's mediation, flight from Lü Bu to Cao Cao in Hanji 1009, and later anti-Yuan-Shu legitimacy pressure.
 - [博望坡之战 / Bowang Slope Battle (Late Han)](entities/BowangSlopeBattleLateHan.md) — Liu Bei's burned-camp lure against Xiahou Dun, with Li Dian reading the ambush signs and the episode contrasting historical attribution with Romance memory.
 - [李渊 / Li Yuan (Tang)](entities/LiYuanTang.md) — Future Tang founder whose Jinyang-palace drinking exposure is framed as a rebellion trigger, disambiguated from Warring States Li Yuan.
@@ -12775,6 +12777,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Post-Defeat Force Reconstitution / 败后兵力重组](concepts/PostDefeatForceReconstitution.md) — 通过改道、后卫掩护、分兵会合、盟军增援与新基地选择，把溃散组织重新变为可用力量。
 - [Portable Political Capital / 可携带政治资本](concepts/PortablePoliticalCapital.md) — 依托强者平台获得的职位、人脉、声望与追随者，如何在失去原有据点后仍保留组织价值。
 - [Kinship-Backed Early-Career Capital / 宗族托举式早期资本](concepts/KinshipBackedEarlyCareerCapital.md) — 家族资助先转化为教育、同学与声望网络，再与外部资金共同形成早期行动能力。
 - [联盟不确定性下的退路预留 / Alliance Contingency Hedging](concepts/AllianceContingencyHedging.md) — 在探索合作的同时，针对伙伴崩溃或失去能力预设退出方案的策略。

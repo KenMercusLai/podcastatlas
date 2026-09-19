@@ -20198,3 +20198,11 @@ Added source `zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jian
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？
+
+Added source `zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk`; created `LiuChan` and `PostDefeatForceReconstitution`; migrated and updated `ZhangFei`; updated `ZhaoYun`, `ChangbanBattle`, `CaoChunLateHan`, `LiuQiLateHan`, `index.md`, and `overview.md`. Core synthesis: Changban is both a battlefield collapse and a recovery chain in which rear-guard protection, family rescue, route change, force reunion, allied reinforcement, and the Xiakou base turn scattered survival into renewed capacity before Red Cliffs. No settled contradiction found; Romance amplification, the Copper Bird Terrace rumor, exact totals, distances, cavalry losses, dialogue, rescue details, and command chronology remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
