@@ -1,34 +1,53 @@
 ---
 title: "曹嵩 / Cao Song"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, late-han, three-kingdoms, cao-family]
-sources: [zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2, zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc, zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh, zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy, zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2
+  - zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc
+  - zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh
+  - zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy
+  - zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku
+  - zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz
+last_updated: 2026-09-20
 ---
 
-# 曹嵩 / Cao Song
+## Overview
+曹嵩 / Cao Song is tracked as [[CaoTengLateHan|曹腾]]'s adopted son, [[CaoCao|曹操]]'s father, a short-serving late-Han grand commandant, and the victim whose disputed killing triggers Cao Cao's Xuzhou revenge campaign. His family position transmits both exceptional court access and the eunuch-line stigma that Cao Cao later works to recode.
 
-[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] gives Cao Song the earliest Cao-family access role currently attached to this page. The episode says [[CaoTengLateHan|曹腾]] adopted Cao Song, originally from the Xiahou side, and that Cao Song's attachment to the eunuch household helped make [[CaoCao|曹操]]'s nineteen-year-old Xiaolian recommendation and court entry possible; the earlier genealogy point remains source-scoped.
+## Current Profile
+Cao Song's attachment to Cao Teng's household makes Cao Cao's early recommendation and office entry easier, although the family's genealogy before the adoption remains source-disputed. Cao Song later enters the Three Excellencies as grand commandant amid rapid late-Han office turnover and is removed in 188 CE.
 
-[[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] backfills Cao Song before his court-office and death markers. The episode identifies him as [[CaoCao|曹操]]'s father and the adopted son of [[CaoTengLateHan|曹腾]], while preserving the source-level uncertainty over the Cao family's earlier genealogy.
+His death has the largest downstream consequence in the current evidence. One textual line attributes the killing directly to [[TaoQianLateHan|陶谦]], while another emphasizes [[ZhangKaiAssassin|张闿]]'s robbery during an escort mission. Both routes end in Cao Cao's attack on Xuzhou and the [[XuzhouMassacreLateHan|徐州屠杀]], so responsibility must remain contested even though the political effect is clear.
 
-The same source uses Cao Song in a family-education anecdote: Cao Cao's uncle repeatedly complains about Cao Cao's youthful behavior, Cao Cao fakes a stroke-like attack when the uncle approaches, and Cao Song later distrusts the uncle's reports. The page keeps that character explanation source-scoped, but the family-background point matters for Cao Cao's later need to offset a eunuch-family label.
+Hanji 1103 strengthens Cao Song's early enabling role but does not resolve whether he financed Cao Cao's first recruitment at [[Chenliu|陈留]]; the episode deliberately leaves that question for its sequel.
 
-[[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] gives Cao Song the appointment side of his 187-188 court-office marker. After [[CuiLieLateHan|崔烈]] is removed as taiwei in November 187, Cao Song is appointed taiwei, before Hanji 939 records his removal in April 188.
+## Key Characteristics
+- Adopted son of Cao Teng and transmitter of a powerful eunuch-household connection.
+- Father whose position helps Cao Cao gain early access to court office.
+- Late-Han grand commandant whose brief tenure sits inside rapid top-office turnover.
+- Figure whose family line gives Cao Cao both privilege and reputational vulnerability.
+- Murder victim whose disputed death becomes the immediate trigger for Cao Cao's Xuzhou campaign.
 
-[[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] gives Cao Song an earlier court-office marker before the later death branch. In April 188, the episode says he is removed as taiwei amid court struggle; the host explicitly identifies him as [[CaoCao|曹操]]'s father, making the notice a prelude rather than a full Cao-family narrative.
+## Evidence
+- Family access: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], and [[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz|Hanji 1103]] connect Cao Song's adoption and status to Cao Cao's early entry.
+- High office: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] records his appointment as grand commandant, while [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] records his removal.
+- Death and aftermath: [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] preserves competing attributions and links the killing to the Xuzhou campaign.
 
-[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] introduces Cao Song as [[CaoCao|曹操]]'s father and the central victim in [[CaoSongMurder|曹嵩遇害]]. In the episode, he has been avoiding disorder in Langya and is moving toward [[YanzhouLateHan|兖州]] after Cao Cao asks [[YingShaoLateHan|应劭]] to receive him.
+## Qualifications
+The source set does not settle Cao Song's ancestry before adoption, the full route to his high office, or the exact responsibility for his death. Hanji 1103 calls him exceptionally wealthy but only asks whether he supplied Cao Cao's first military capital; that financing claim remains unresolved and is not treated as fact.
 
-The source makes Cao Song's death a contested attribution problem. [[Sanguozhi|《三国志》]] is presented as blaming [[TaoQianLateHan|陶谦]] directly, while [[HouHanshu|《后汉书》]] is presented as blaming [[ZhangKaiAssassin|张闿]]'s greed during an escort mission. In both versions, Cao Song's death becomes the trigger for [[CaoCao|曹操]]'s attack on [[Xuzhou|徐州]] and the later [[XuzhouMassacreLateHan|徐州屠杀]].
+## What Changed
+- Migrated the page to synthesis-v1 while preserving its five-source inventory.
+- Added Hanji 1103's stronger account of Cao Song as an enabling family-access node.
+- Kept the proposed Chenliu financing role explicitly unresolved.
 
-## Connections
-- [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[CaoTengLateHan|曹腾]], [[CaoCao|曹操]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - family-backed Xiaolian and first-entry route.
-- [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], [[CaoTengLateHan|曹腾]], [[CaoCao|曹操]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - family-background stigma and source-scoped youth anecdote.
-- [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]], [[CuiLieLateHan|崔烈]], and [[CourtOfficeCapture|朝廷开府任官失序]] - appointment as taiwei after Cui Lie's removal.
-- [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] - earlier taiwei dismissal marker.
-- [[CaoCao|曹操]] - son whose revenge campaign follows the killing.
-- [[CaoDeLateHan|曹德]] - younger family member killed with him.
-- [[YingShaoLateHan|应劭]] - official ordered to receive him.
-- [[TaoQianLateHan|陶谦]] and [[ZhangKaiAssassin|张闿]] - competing responsibility attributions in the source.
-- [[CaoSongMurder|曹嵩遇害]], [[BanditAssassinationAttribution|盗贼行刺归因]], and [[TextualVariantPoliticalStakes|史书异文政治重量]] - event and source-critical frames.
+## Relationships
+- [[CaoTengLateHan]] - adoptive father whose palace standing shapes Cao Song's family position.
+- [[CaoCao]] - son whose early access and later revenge politics are tied to Cao Song.
+- [[CaoSongMurder]] - event page for the disputed killing and its consequences.
+- [[TaoQianLateHan]] - political actor blamed in one textual attribution.
+- [[ZhangKaiAssassin]] - escort commander blamed through the robbery attribution.
+- [[OfficialSelectionChannelCompetition]] - explains how family standing can make a formal recommendation route actionable.
+- [[TextualVariantPoliticalStakes]] - frames why competing death accounts should remain visible.

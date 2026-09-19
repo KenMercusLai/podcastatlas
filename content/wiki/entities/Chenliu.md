@@ -1,31 +1,52 @@
 ---
 title: "陈留 / Chenliu"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [place, qin, chu-han, logistics, surrender, late-han]
-sources: [zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo, zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj, zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd, zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo
+  - zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj
+  - zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd
+  - zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o
+  - zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz
+last_updated: 2026-09-20
 ---
 
-# 陈留 / Chenliu
+## Overview
+陈留 / Chenliu is a central-plains route and supply hub that appears in two major political beginnings: [[LiuBang|刘邦]] uses its grain, weapons, and recruits for the westward anti-Qin campaign, while [[CaoCao|曹操]] uses its distance from Dong Zhuo-controlled Luoyang, commercial circulation, and [[ZhangMiaoLateHan|张邈]]'s protection as an early independent base.
 
-陈留 / Chenliu enters the wiki through [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] as the strategic hub [[LiShiqi|郦食其]] tells [[LiuBang|刘邦]] to take before moving deeper toward Qin. The episode stresses its route value and stored grain, weapons, and manpower rather than treating it as a minor stop.
+## Current Profile
+In the Chu-Han branch, [[LiShiqi|郦食其]] identifies Chenliu as a better intermediate objective than a direct attack on Qin's core. After coercive seizure, Liu Bang distributes stored resources, remains for months, and expands his army, making Chenliu a logistical bridge rather than a minor stop.
 
-Li Shiqi first tries to persuade Chenliu's local head to surrender through personal familiarity. When that fails, he kills the local head at night and gives Liu Bang an opening. Liu Bang then uses the severed-head display to induce the city to open, turning Chenliu into a hard case of [[PoliticalSurrenderCascade|招降示范级联]] mixed with coercion and betrayal.
+In the late-Han branch, Chenliu is a political environment as well as a place. Zhang Miao's control gives shelter to displaced actors such as [[HanFuLateHan|韩馥]] but cannot guarantee psychological safety. The same local base later gives Zhang Miao independent room within Cao Cao's Yanzhou field. Hanji 1103 backfills the earlier positive side: after Cao Cao leaves [[DongZhuo|董卓]], Zhang Miao's friendship and Chenliu's commercial and geographic advantages help turn flight into mobilization.
 
-After entering Chenliu, Liu Bang distributes stored weapons and grain, stays for nearly three months, and recruits tens of thousands of soldiers. The city therefore marks the logistical bridge between his earlier smaller rebel line and his more credible westward campaign under [[HuaiwangAgreement|怀王之约]].
+## Key Characteristics
+- Central-plains transport and commercial hub with unusually high route value.
+- Storage and recruitment base capable of converting a small force into a larger campaign organization.
+- Political refuge whose safety depends on the local patron and wider alliance field.
+- Independent local base that can protect a rising actor while also giving its holder leverage.
+- Repeated bridge between institutional exit and renewed military-political action.
 
-[[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] adds a late-Han use. [[ZhangMiaoLateHan|张邈]], [[BianRangLateHan|边让]], and [[GaoRouLateHan|高柔]] are all tied to Chenliu in the source, making the place part of the local elite field behind [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis rather than only a Chu-Han logistics hub.
+## Evidence
+- Chu-Han logistics: [[zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o|Qinji 136]] presents Chenliu's grain, weapons, route position, and recruits as the foundation for Liu Bang's next stage.
+- Late-Han refuge: [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] places Han Fu in Zhang Miao's Chenliu orbit but shows that refuge without trust does not restore safety.
+- Local elite and strategy field: [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] ties [[MaoJie|毛玠]] to Chenliu, while [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] shows Zhang Miao's base as a source of independent calculation.
+- Cao Cao's launch environment: [[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz|Hanji 1103]] makes Chenliu's distance, commerce, and Zhang Miao's protection the conditions that make Cao Cao's 189 CE exit actionable.
 
-[[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] adds an earlier late-Han refuge use through [[HanFuLateHan|韩馥]]. After losing [[JizhouLateHan|冀州]], Han Fu goes to Zhang Miao's Chenliu orbit, but the place does not become a secure exile. Yuan Shao's envoy whispering with Zhang Miao becomes the ambiguous signal that triggers Han Fu's final panic.
+## Qualifications
+The source set uses “Chenliu” at several scales, including city, commandery, and political orbit; this page does not force every reference into a single administrative unit. Qinji 136's seizure includes coercion and betrayal, so its logistical success should not be mistaken for peaceful incorporation. Hanji 1103 leaves Cao Cao's initial financing unresolved even while identifying Chenliu's enabling conditions.
 
-[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] adds [[MaoJie|毛玠]] as another Chenliu-linked late-Han actor. In this source, Mao Jie gives Cao Cao the paired legitimacy and logistics strategy that connects "奉天子以令不臣" with farming and military supply.
+## What Changed
+- Migrated the page to synthesis-v1 while preserving its four-source inventory.
+- Added Chenliu's role as the outside option that converts Cao Cao's flight from Dong Zhuo into an independent start.
+- Unified the Liu Bang and Cao Cao cases around route, storage, recruitment, and patronage without treating them as identical.
 
-## Connections
-- [[LiShiqi|郦食其]] - adviser and insider whose strategy makes Chenliu the next target.
-- [[LiuBang|刘邦]] - commander who gains supplies, weapons, and recruits there.
-- [[LiShang|郦商]] - Li Shiqi's brother, appointed after the Chenliu success.
-- [[PoliticalSurrenderCascade|招降示范级联]] and [[LowStatusStrategicPersuasion|低位者战略说服]] - mechanisms around the city.
-- [[GuanzhongRegion|关中]] and [[HuaiwangAgreement|怀王之约]] - larger westward objective for which Chenliu becomes a preparation base.
-- [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[ZhangMiaoLateHan|张邈]], [[BianRangLateHan|边让]], [[GaoRouLateHan|高柔]], and [[LocalEliteSecurityPanic|地方士族安全恐慌]] - late-Han local elite cluster.
-- [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[HanFuLateHan|韩馥]], [[YuanShao|袁绍]], and [[PostPowerSafetyCollapse|失势后的安全崩塌]] - late-Han refuge that fails to restore safety.
-- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]], [[MaoJie|毛玠]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[TuntianSystem|屯田制]] - late-Han adviser and strategy branch.
+## Relationships
+- [[LiuBang]] - uses Chenliu's supplies and recruits to scale his westward campaign.
+- [[LiShiqi]] - identifies and opens the Chenliu opportunity for Liu Bang.
+- [[CaoCao]] - uses Chenliu as an early mobilization environment after leaving Dong Zhuo.
+- [[ZhangMiaoLateHan]] - local patron whose friendship protects Cao Cao and whose base later supports independent calculation.
+- [[MaoJie]] - Chenliu-linked adviser who later joins legitimacy and logistics in Cao Cao's strategy.
+- [[PoliticalSurrenderCascade]] - captures the coercive surrender mechanism in Liu Bang's seizure.
+- [[InstitutionalExitEscalation]] - explains Chenliu's role as an outside option after Cao Cao's final court break.
+- [[TransitHubCommanderyControl]] - broader strategic value of controlling route and supply nodes.

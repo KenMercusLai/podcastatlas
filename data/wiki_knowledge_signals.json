@@ -14697,6 +14697,393 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/caobaoeasternhan/"
     },
+    "CaoCao": {
+      "episode_count": 54,
+      "show_count": 1,
+      "source_note_count": 54,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？ [lh-tBOhgO96qw8bJqu3x1Yp6CZV5].md",
+          "key": "zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
+          "key": "zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕 [lhjf_aguJuIgLqCHUMtFf3tfTxg1].md",
+          "key": "zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
+          "key": "zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势” [lssMABZoKU4uE28irdmfn0-d_0DC].md",
+          "key": "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝 [liU-FqIz9pI7U6ClTrn-cJmjz__r].md",
+          "key": "zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴 [lp7OmIak9MPCIGrJ4F1NUMmFwnTr].md",
+          "key": "zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑 [lu8-U78yqvvWWarsZ8DlevvZChXr].md",
+          "key": "zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》954丨人性本善，还是人性本恶？ [lkurZ9DBb25jrJyL5C_rRahdA39h].md",
+          "key": "zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》954丨人性本善，还是人性本恶？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？ [lmor1tXQpm88ITT4INCalusconJr].md",
+          "key": "zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》960丨曹魏顶级智囊荀彧，为何“弃袁投曹”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！ [lo2_eDzFFU0v9iXoabC06rX_OqoQ].md",
+          "key": "zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》964丨别骄傲！别骄傲！别骄傲！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
+          "key": "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
+          "key": "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？ [lgAZc9DEWFaYb8QnknCFkfa12YeT].md",
+          "key": "zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》973丨长平观之战：生死之敌战后竟重归于好？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-973-changpingguan-zhizhan-shengsi-zhidi-zhanhou-jing-chonggui-yuhao-lgazc9dewfayb8qnkncfkfa12yet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
+          "key": "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
+          "key": "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？ [lhgD8vSvUAf5oi9aEfh0wxABmzwV].md",
+          "key": "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？ [luU58a2Ww11g_rADh_5g4l7FCIS_].md",
+          "key": "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史 [lggGw3vmoNu-3WvzaBvg943v5QcG].md",
+          "key": "zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂 [lvLvu057-tnz3hAL6oodHyDvZvbd].md",
+          "key": "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决 [loFQ0pQ8N9rRFVFtTUNAHiSY0AvE].md",
+          "key": "zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人 [lkOycygmjnlTuVPQ-6wjv-lS61s6].md",
+          "key": "zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？ [lgPA-m6h6BvHyinTNUj6zTOpUi76].md",
+          "key": "zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》996丨乱世臧洪：讲义气的人，下场最憋屈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？ [lln2lIBlQ_kYjRSvITnBH7cspBAX].md",
+          "key": "zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？ [li8Tz30Elca7BnIpEI6DfQDxMMEu].md",
+          "key": "zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢 [llyA3C2-pEfUjWXdXEfvQXWjIZJo].md",
+          "key": "zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭 [llC7Q-LoennXw26v3u5cbhiTIKW1].md",
+          "key": "zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？ [lrRGA-flmX5aJnhU1c42x7kOoE94].md",
+          "key": "zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？ [lpQnerE2cWcrngggyEzd-BsQAHx4].md",
+          "key": "zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？ [lup_p-Inz1sdlhpnAGgqjP0EAvAr].md",
+          "key": "zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？ [ls8wvh9OX-pCjmt0z8w82OpBhA-k].md",
+          "key": "zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？ [llm0DS4krKPTjdtB71hBUsnPZbDc].md",
+          "key": "zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
+          "key": "zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事 [llvRUCIhUV2bUvp1-lISZ4uSBPrh].md",
+          "key": "zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？ [lv_HyVPRG73k8W8JsPXJosqWMc69].md",
+          "key": "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？ [liM0JEMKWYjCESJ2nvSr3jNdhxFK].md",
+          "key": "zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择 [ltUckdCxpYxK-XmzP8Rt_2gJfZcs].md",
+          "key": "zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事 [lhcVtm8FOBuzjfYO9UirDCgX2pLq].md",
+          "key": "zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？ [lqCcdHrJMeRO-gT7vSAQ2eJuHHw8].md",
+          "key": "zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生 [ll2fma7wuPP5gcZudySFEtt5Lhio].md",
+          "key": "zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
+          "key": "zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好 [liVpg3zH7LsqFFGca2POMIQNlvYd].md",
+          "key": "zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》131-2｜盘点皇帝们酒后小癖好",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-131-2-pandian-huangdimen-jiuhou-xiaopihao-livpg3zh7lsqffgca2pomiqnlvyd/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？ [lse6QmQqHOyQDZQJl4qFUViOeIW0].md",
+          "key": "zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》80丨诸葛亮的偶像 到底有多厉害？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
+          "key": "zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？ [lq_e-tE21mWhCz7oMEyXcEm1bRkZ].md",
+          "key": "zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/caocao/"
+    },
     "CaoChunLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -14921,10 +15308,61 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/caoshaolatehan/"
     },
-    "CaoTengLateHan": {
-      "episode_count": 4,
+    "CaoSong": {
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
+          "key": "zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势” [lssMABZoKU4uE28irdmfn0-d_0DC].md",
+          "key": "zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
+          "key": "zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹 [ljh3HdhssIGMv78BuEo_HpRfQwKU].md",
+          "key": "zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？ [lq_e-tE21mWhCz7oMEyXcEm1bRkZ].md",
+          "key": "zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/caosong/"
+    },
+    "CaoTengLateHan": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -14953,9 +15391,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》827丨一句话引发的帝王之死",
           "url": "/wiki/sources/zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？ [lq_e-tE21mWhCz7oMEyXcEm1bRkZ].md",
+          "key": "zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/caotenglatehan/"
     },
     "CaoWeiLuoyonghaoColleague": {
@@ -17232,6 +17677,50 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/chengdurongcheng/"
+    },
+    "Chenliu": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
+          "key": "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
+          "key": "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿 [lpLgZWZahEpwX9P7kRFc4x0cNz4O].md",
+          "key": "zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》136｜“美女洗脚”刘邦也好这口儿",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-136-meinv-xijiao-liubang-ye-hao-zhe-kouer-lplgzwzahepwx9p7krfc4x0cnz4o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？ [lq_e-tE21mWhCz7oMEyXcEm1bRkZ].md",
+          "key": "zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/chenliu/"
     },
     "ChenweiEvidentiaryCritique": {
       "episode_count": 2,
@@ -55039,6 +55528,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/instinctpersonalai/"
+    },
+    "InstitutionalExitEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？ [lq_e-tE21mWhCz7oMEyXcEm1bRkZ].md",
+          "key": "zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/institutionalexitescalation/"
     },
     "InstitutionalLoyaltyOverPersonalLoyalty": {
       "episode_count": 2,

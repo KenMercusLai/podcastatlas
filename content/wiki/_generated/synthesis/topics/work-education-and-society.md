@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-19
-as_of_overview_commit: 4f3c60ff4e5eec4a588f1e0551e42a57e21bae0e
-input_digest: e25a06958cac1a0ea7ad07cc0ff707945b5442f5344981ec563f90d7b53a2faa
+last_updated: 2026-09-20
+as_of_overview_commit: 230b3c0f54f4a7ab8844dfd829d85f3162d65910
+input_digest: b56a04b4e42a49a660e32d7c9561635fc9f254acca75b74236cff6c7e6d229f5
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation. The latest evidence adds that digital service work also includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation. The latest evidence adds that digital service work also includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust. Hanji 1103 adds that elite access and career danger can coexist: imposed dismissal, preventive resignation, and independent exit differ, and the last requires a credible outside option built from relationships, geography, and resources.
 
 ## Cross-source Findings
 
@@ -859,3 +859,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - This is a bounded user-experience and service-work claim, not evidence that progress trackers generally improve worker conditions or service quality.
 - The single Domino's observation found consequential events mostly accurate while qualifying employee attribution, fixed oven timing, and the quality-check stage.
 - Examples from banking, TurboTax, and Uber remain illustrative and source-scoped.
+
+### Late Han Exit Needs Access And Outside Options
+
+[[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz|Hanji 1103]] adds a bounded late-Han career and institutional-exit case: [[CaoCao]] benefits from [[CaoTengLateHan]] and [[CaoSong]] family access yet still faces dismissal and retaliation risk, while [[InstitutionalExitEscalation]] distinguishes imposed removal, preventive resignation, and a final break made actionable by [[ZhangMiaoLateHan]] and [[Chenliu]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz]], [[CaoCao]], [[CaoTengLateHan]], [[CaoSong]], [[InstitutionalExitEscalation]], [[ZhangMiaoLateHan]], [[Chenliu]]
+
+**Qualifications:**
+
+- This is a bounded historical institution and career analogy, not modern employment, legal, or career advice.
+- The motive for the Jinan resignation, simplified appointment mechanics, and Cao Song financing question remain source-scoped.
+- Family privilege enabled entry but did not by itself make later exits safe or prove a long-planned break from the Han court.

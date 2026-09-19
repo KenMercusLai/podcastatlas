@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7552
+wiki_total_pages: 7553
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "InstitutionalLoyaltyOverPersonalLoyalty"
     title: "制度忠诚胜于个人依附 / Institutional Loyalty Over Personal Loyalty"
     url: "/wiki/concepts/institutionalloyaltyoverpersonalloyalty/"
+  - key: "InstitutionalExitEscalation"
+    title: "制度性退场升级 / Institutional Exit Escalation"
+    url: "/wiki/concepts/institutionalexitescalation/"
   - key: "InstitutionalMemoryConcealment"
     title: "制度记忆隐匿保存 / Institutional Memory Concealment"
     url: "/wiki/concepts/institutionalmemoryconcealment/"

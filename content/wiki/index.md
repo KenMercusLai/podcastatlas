@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？](sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz.md) — 曹操从家族支持下入仕、两次回谯与陈留起盘的早期仕途重构。
 - [《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？](sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3.md) — 芮淇讲透资治通鉴 retrospective on Cao Cao's legitimacy, talent and屯田 foundations, Weinan and Hanzhong turns, Guan Yu's death, and the household memory behind 分香卖履.
 - [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87.md) — 硅谷101 roundtable on verifiable intent, KYA, bounded authorization, secure execution, A2A norms, and consumer recourse before agent transactions can scale.
 - [一場物理意義上的男女對立：重慶時代峰峻事件](sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian.md) — 端闻 reconstructs a Chongqing fan conflict through missing footage, gendered scrutiny, and rival uses of shared political language.
@@ -12748,6 +12749,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [制度性退场升级 / Institutional Exit Escalation](concepts/InstitutionalExitEscalation.md) — Distinguishes imposed dismissal, preventive resignation, and an independent-base break.
 - [Verifiable Intent / 可验证意图](concepts/VerifiableIntent.md) — Durable semantic record of what a user authorized an agent to accomplish and under which constraints.
 - [Agent Trust Calibration / 智能体信任校准](concepts/AgentTrustCalibration.md) — Progressive delegation matched to demonstrated capability, bounded risk, traceability, and remedies.
 - [A2A Transaction Norms / 智能体间交易规范](concepts/A2ATransactionNorms.md) — Identity, authority, behavior, settlement, and recourse rules for machine-mediated commerce.

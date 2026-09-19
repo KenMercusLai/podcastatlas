@@ -20107,6 +20107,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？
+
+Added source `zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz`; created `InstitutionalExitEscalation`; migrated and updated `CaoCao`, `CaoSong`, and `Chenliu`; and updated `CaoTengLateHan`, `index.md`, and `overview.md`. Core synthesis: Cao Cao's first return to Qiao was an imposed dismissal by association, his second is interpreted as preventive resignation under eunuch and local-elite retaliation risk, and his final break from Dong Zhuo became viable through Zhang Miao's protection and Chenliu's geography and resources. No settled contradiction found; Jinan motive, simplified appointment mechanics, and Cao Song's possible financing of the first army remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？
 
 Added source `zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3`; created `WeinanBattleLateHan` and `MaChao`; updated `GuanYu` and `XiahouYuan`; migrated and updated `CaoAng`, `LadyDingCaoCao`, and `FenxiangMailu`; and updated `index.md` and `overview.md`. Core synthesis: Cao Cao's long rise joined emperor-backed legitimacy, talent conversion, agricultural logistics, and command judgment, while late reversals and final household instructions reveal both strategic limits and unresolved family memory. No settled contradiction found; battlefield dialogue, the Zhou Wenwang analogy's intent, words to Guan Yu's head, final statements, burial symbolism, and modern economic-independence framing remain source-scoped.

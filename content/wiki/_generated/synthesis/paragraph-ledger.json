@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
       "2b816089923cf7090afa1e95d309fdadaa4240a8e8d2fb3f7f0d39c892a7ab90",
       "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
       "b937559d5b38aed7b982eb5171a40f4b3806a8084d1eb013d581995f76f0fa84",
@@ -638,11 +639,32 @@
       "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68"
     ],
-    "paragraph_count": 636
+    "paragraph_count": 637
   },
-  "overview_commit": "49a3b6daf4b7c62803e6469f8297c6846f9e8a07",
-  "overview_digest": "3bdbb4932b60625bdfe2ffbc676bcf80e577d202235db42a69bb93b633bc653e",
+  "overview_commit": "230b3c0f54f4a7ab8844dfd829d85f3162d65910",
+  "overview_digest": "c90bf286019da2ad589dcfcaf1631b66ff29464806953865dc1d40cf3de7b395",
   "paragraphs": [
+    {
+      "id": "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz|《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode reconstructing [[CaoCao|曹操]]'s early path from Cao-family court access through two returns to Qiao and the 189 CE launch environment at [[Chenliu|陈留]]. It creates [[InstitutionalExitEscalation|制度性退场升级]], migrates Cao Cao, [[CaoSong|曹嵩]], and Chenliu to synthesis-v1, and extends [[CaoTengLateHan|曹腾]]. Its core synthesis is that family privilege and career danger coexist: Cao Cao's first return follows dismissal by association, the second is interpreted as preventive resignation under retaliation risk, and the final break from [[DongZhuo|董卓]] becomes actionable only through [[ZhangMiaoLateHan|张邈]]'s protection and Chenliu's geography and resources. No settled contradiction is recorded; the Jinan motive, simplified appointment mechanics, and Cao Song financing question remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaoSong",
+        "CaoTengLateHan",
+        "Chenliu",
+        "DongZhuo",
+        "InstitutionalExitEscalation",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhangMiaoLateHan",
+        "zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz"
+      ]
+    },
     {
       "id": "2b816089923cf7090afa1e95d309fdadaa4240a8e8d2fb3f7f0d39c892a7ab90",
       "primary_topic": "governance-and-institutions",
