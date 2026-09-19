@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3047
+topic_total_pages: 3048
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2686,6 +2686,9 @@ topic_concepts:
   - key: "LunarNuclearPower"
     title: "Lunar Nuclear Power"
     url: "/wiki/concepts/lunarnuclearpower/"
+  - key: "LunarSouthPoleOperationalScarcity"
+    title: "Lunar South Pole Operational Scarcity"
+    url: "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
     url: "/wiki/concepts/maasinfrastructure/"

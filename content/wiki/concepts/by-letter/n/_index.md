@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7531
+wiki_total_pages: 7535
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "NASACareerPathways"
     title: "NASA Career Pathways"
     url: "/wiki/concepts/nasacareerpathways/"
+  - key: "NASAMissionConcentration"
+    title: "NASA Mission Concentration"
+    url: "/wiki/concepts/nasamissionconcentration/"
   - key: "NationalAnthemPoliticalPlasticity"
     title: "National Anthem Political Plasticity"
     url: "/wiki/concepts/nationalanthempoliticalplasticity/"
@@ -419,6 +422,9 @@ wiki_pages:
   - key: "NuclearWinter"
     title: "Nuclear Winter"
     url: "/wiki/concepts/nuclearwinter/"
+  - key: "NuclearElectricSpaceflight"
+    title: "Nuclear-Electric Spaceflight"
+    url: "/wiki/concepts/nuclearelectricspaceflight/"
   - key: "NudifyAppEcosystem"
     title: "Nudify App Ecosystem"
     url: "/wiki/concepts/nudifyappecosystem/"

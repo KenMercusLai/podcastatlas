@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Jared Isaacman: A New Era for NASA and American Space Exploration](sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838.md) — All-In interview presenting Isaacman's focused NASA agenda around Artemis, incremental lunar presence, South Pole operations, nuclear-electric propulsion, commercial procurement, and competition with China.
 - [2026秋季篇E03 尊严死？！日本医生被判杀人事件](sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4.md) — 日谈物语 opening on a 2005 Japanese doctor's murder conviction, end-of-life classification, disclosure duties, overtreatment, and patient autonomy, with the case facts unresolved because only three minutes are transcribed.
 - [《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！](sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt.md) — 芮淇讲透资治通鉴 episode on Wu's post-Red-Cliffs relief and surrender incorporation, Liu Bei's southern Jingzhou fiscal base, Zhang Song's Yizhou alliance pivot, and Xi Zaochi's qualified critique of Cao Cao's success-induced arrogance.
 - [《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？](sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb.md) — 芮淇讲透资治通鉴 episode on Tian Chou's Lulong Road contribution, fourfold refusal of Cao Cao's enfeoffment, Xiahou Dun's failed persuasion, and the yilang compromise.
@@ -2512,6 +2513,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Domino's Pizza Tracker Theory of Everything](sources/the-dominos-pizza-tracker-theory-of-everything.md) — Planet Money episode on Domino's shift from a dangerous speed guarantee to operational progress visibility, labor illusion, and the manipulation boundary of synthetic status displays.
 
 ## Entities
+- [Jared Isaacman](entities/JaredIsaacman.md) — Space-policy leader advocating a concentrated NASA portfolio, a lunar proving ground, and a public-private frontier capability boundary.
 - [Domino's Pizza](entities/DominosPizza.md) — Restaurant and delivery company that turned internal order telemetry into a customer-facing progress experience.
 - [Domino's Pizza Tracker](entities/DominosPizzaTracker.md) — Staged order-status product that made invisible pizza-production and delivery work legible to customers.
 - [Shuya Gong](entities/ShuyaGong.md) — Designer who uses the Pizza Tracker to explain reassurance, visible work, and manufactured digital waiting.
@@ -12725,6 +12727,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river campaign where disease, readiness, terrain, linked ships, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
 
 ## Concepts
+- [NASA Mission Concentration](concepts/NASAMissionConcentration.md) — Proposal to focus NASA's budget and technical ownership on fewer consequential frontier missions.
+- [Frontier Agency-Commercial Boundary](concepts/FrontierAgencyCommercialBoundary.md) — Dynamic division between mature services bought from industry and frontier capabilities retained by a public technical agency.
+- [Nuclear-Electric Spaceflight](concepts/NuclearElectricSpaceflight.md) — Reactor-powered high-efficiency propulsion architecture proposed for Mars reconnaissance, outer-planet science, and later crew transport.
+- [Lunar South Pole Operational Scarcity](concepts/LunarSouthPoleOperationalScarcity.md) — Overlap constraint among suspected ice, illumination, terrain, communications, and safe landing operations near the lunar South Pole.
 - [Progress Visibility Design](concepts/ProgressVisibilityDesign.md) — Translation of hidden service work into credible milestones that reduce uncertainty during a wait.
 - [Labor Illusion](concepts/LaborIllusion.md) — Increase in perceived value or appreciation when customers can see evidence of work performed for them.
 - [Synthetic Progress Indicators](concepts/SyntheticProgressIndicators.md) — Stages, delays, or estimates that imply more measured work or certainty than the underlying system supports.

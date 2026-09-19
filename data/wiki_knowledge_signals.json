@@ -8076,6 +8076,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/artreproductionandcirculation/"
     },
+    "Artemis2": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260211_0211_MP_TECH_pod_128 [tech_20260211_0211_MP_TECH_pod_128].md",
+          "key": "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is the moon (and its resources) up for grabs?",
+          "url": "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/artemis2/"
+    },
     "ArthurBlank": {
       "episode_count": 1,
       "show_count": 1,
@@ -39684,6 +39714,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/frontieraiipodisclosurerisk/"
     },
+    "FrontierAgencyCommercialBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/frontieragencycommercialboundary/"
+    },
     "FrontierCommandCollapse": {
       "episode_count": 3,
       "show_count": 1,
@@ -56151,6 +56197,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/japanaidsbloodproductsincident/"
     },
+    "JaredIsaacman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/jaredisaacman/"
+    },
     "JaredRutter": {
       "episode_count": 1,
       "show_count": 1,
@@ -68987,6 +69049,45 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/lunarindustrialization/"
     },
+    "LunarNuclearPower": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260211_0211_MP_TECH_pod_128 [tech_20260211_0211_MP_TECH_pod_128].md",
+          "key": "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is the moon (and its resources) up for grabs?",
+          "url": "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/lunarnuclearpower/"
+    },
+    "LunarSouthPoleOperationalScarcity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
+    },
     "LuntaiSelfCriticismPolicyTurn": {
       "episode_count": 2,
       "show_count": 1,
@@ -74823,6 +74924,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/monticello/"
     },
+    "MoonMarsStrategySplit": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/moonmarsstrategysplit/"
+    },
     "MoralAspirationPractice": {
       "episode_count": 1,
       "show_count": 1,
@@ -75605,6 +75729,108 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/mythicbiographysourcecaution/"
+    },
+    "NASA": {
+      "episode_count": 11,
+      "show_count": 9,
+      "source_note_count": 11,
+      "sources": [
+        {
+          "episode_file": "761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128 [761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83834b].md",
+          "key": "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa",
+          "show": "Data Science With Sam",
+          "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",
+          "url": "/wiki/sources/ep-4-a-i-talk-with-a-rocket-scientist-from-nasa/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332 [default.mp3_ywr3ahjkcgo_4052bf0e61c266842c6603a37e5736ab_35762332].md",
+          "key": "older-workers-arent-retiring-should-they-be-forced-to",
+          "show": "Planet Money",
+          "title": "Older workers aren't retiring. Should they be forced to?",
+          "url": "/wiki/sources/older-workers-arent-retiring-should-they-be-forced-to/"
+        },
+        {
+          "episode_file": "Taking the shine off： albedo and global temperatures [6a730fdaca067b295bab9760].md",
+          "key": "taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760",
+          "show": "Economist Podcasts",
+          "title": "Taking the shine off: albedo and global temperatures",
+          "url": "/wiki/sources/taking-the-shine-off-albedo-and-global-temperatures-6a730fdaca067b295bab9760/"
+        },
+        {
+          "episode_file": "sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想 [543901074].md",
+          "key": "sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074",
+          "show": "蜜獾吃书",
+          "title": "sp.01 宇宙：卡尔·萨根的星辰大海和人类梦想",
+          "url": "/wiki/sources/sp-01-yuzhou-kaer-sagen-de-xingchen-dahai-he-renlei-mengxiang-543901074/"
+        },
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "129.如何成为真正的不完美主义者，浑身是劲儿！ [799220151].md",
+          "key": "129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151",
+          "show": "蜜獾吃书",
+          "title": "129.如何成为真正的不完美主义者，浑身是劲儿！",
+          "url": "/wiki/sources/129-ruhe-chengwei-zhenzheng-de-buwanmei-zhuyizhe-hunshen-shi-jiner-799220151/"
+        },
+        {
+          "episode_file": "TSR-S5-BlakeScholl-v3-FinalAudio [TSR-S5-BlakeScholl-v3-FinalAudio].md",
+          "key": "tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio",
+          "show": "The Social Radars",
+          "title": "Blake Scholl, Founder & CEO of Boom Supersonic",
+          "url": "/wiki/sources/tsr-s5-blakescholl-v3-finalaudio-tsr-s5-blakescholl-v3-finalaudio/"
+        },
+        {
+          "episode_file": "tech_20260211_0211_MP_TECH_pod_128 [tech_20260211_0211_MP_TECH_pod_128].md",
+          "key": "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is the moon (and its resources) up for grabs?",
+          "url": "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？ [lua5jan_xOpZ99VwXmLshdTC-gSp].md",
+          "key": "145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
+          "url": "/wiki/sources/145-koushu-spacex-kaifashi-he-qiangaoguan-honglide-liao-masike-yongrenguan-zuida-ipo-taikong-yu-ai-renlei-wenming-kuozhang-qianzou/"
+        },
+        {
+          "episode_file": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？ [259291f5-2715-4dde-bcfe-b5beb4df5793].md",
+          "key": "e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793",
+          "show": "硅谷101",
+          "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+          "url": "/wiki/sources/e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/nasa/"
+    },
+    "NASAMissionConcentration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/nasamissionconcentration/"
     },
     "NATO": {
       "episode_count": 4,
@@ -77980,6 +78206,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/nucleardisastermemory/"
+    },
+    "NuclearElectricSpaceflight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/nuclearelectricspaceflight/"
     },
     "NuclearRiskExternalization": {
       "episode_count": 1,

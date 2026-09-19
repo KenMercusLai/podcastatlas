@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7531
+wiki_total_pages: 7535
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "FrontPackConversionEducation"
     title: "Front-Pack Conversion Education"
     url: "/wiki/concepts/frontpackconversioneducation/"
+  - key: "FrontierAgencyCommercialBoundary"
+    title: "Frontier Agency-Commercial Boundary"
+    url: "/wiki/concepts/frontieragencycommercialboundary/"
   - key: "FrontierAIComputeMonitoring"
     title: "Frontier AI Compute Monitoring"
     url: "/wiki/concepts/frontieraicomputemonitoring/"

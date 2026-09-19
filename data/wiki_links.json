@@ -23895,6 +23895,10 @@
     "title": "Frontier AI IPO Disclosure Risk",
     "url": "/wiki/concepts/frontieraiipodisclosurerisk/"
   },
+  "FrontierAgencyCommercialBoundary": {
+    "title": "Frontier Agency-Commercial Boundary",
+    "url": "/wiki/concepts/frontieragencycommercialboundary/"
+  },
   "FrontierAuxiliarySupplyFailure": {
     "title": "Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵",
     "url": "/wiki/concepts/frontierauxiliarysupplyfailure/"
@@ -32275,6 +32279,10 @@
     "title": "Jared Friedman",
     "url": "/wiki/entities/jaredfriedman/"
   },
+  "JaredIsaacman": {
+    "title": "Jared Isaacman",
+    "url": "/wiki/entities/jaredisaacman/"
+  },
   "JaredKushner": {
     "title": "Jared Kushner",
     "url": "/wiki/entities/jaredkushner/"
@@ -38983,6 +38991,10 @@
     "title": "Lunar Resource Governance",
     "url": "/wiki/concepts/lunarresourcegovernance/"
   },
+  "LunarSouthPoleOperationalScarcity": {
+    "title": "Lunar South Pole Operational Scarcity",
+    "url": "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
+  },
   "LunchMeetVHS": {
     "title": "LunchMeet VHS",
     "url": "/wiki/entities/lunchmeetvhs/"
@@ -43211,6 +43223,10 @@
     "title": "NASA Career Pathways",
     "url": "/wiki/concepts/nasacareerpathways/"
   },
+  "NASAMissionConcentration": {
+    "title": "NASA Mission Concentration",
+    "url": "/wiki/concepts/nasamissionconcentration/"
+  },
   "NATO": {
     "title": "NATO",
     "url": "/wiki/entities/nato/"
@@ -44734,6 +44750,10 @@
   "NuclearDisasterMemory": {
     "title": "Nuclear Disaster Memory",
     "url": "/wiki/concepts/nucleardisastermemory/"
+  },
+  "NuclearElectricSpaceflight": {
+    "title": "Nuclear-Electric Spaceflight",
+    "url": "/wiki/concepts/nuclearelectricspaceflight/"
   },
   "NuclearRiskExternalization": {
     "title": "Nuclear Risk Externalization",
@@ -72734,6 +72754,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170": {
     "title": "Inside the Private Stock Market Boom: SpaceX, Anthropic, OpenAI & the Rise of Secondaries",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-the-private-stock-market-boom-spacex-anthropic-openai-the-rise-of-secondaries-41564170/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838": {
+    "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490": {
     "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",

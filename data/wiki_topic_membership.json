@@ -28237,6 +28237,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FrontierAgencyCommercialBoundary": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FrontierCommandCollapse": [
     {
       "key": "politics",
@@ -43385,6 +43392,18 @@
       "url": "/topics/science/"
     }
   ],
+  "LunarSouthPoleOperationalScarcity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LunchMeetVHS": [
     {
       "key": "culture",
@@ -49442,6 +49461,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NuclearElectricSpaceflight": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NuclearRiskExternalization": [
@@ -79826,6 +79852,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490": [

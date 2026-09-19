@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7531
+wiki_total_pages: 7535
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -794,6 +794,9 @@ wiki_pages:
   - key: "LunarResourceGovernance"
     title: "Lunar Resource Governance"
     url: "/wiki/concepts/lunarresourcegovernance/"
+  - key: "LunarSouthPoleOperationalScarcity"
+    title: "Lunar South Pole Operational Scarcity"
+    url: "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
   - key: "LureEnemyOutOfPosition"
     title: "Lure Enemy Out of Position / 诱敌离位"
     url: "/wiki/concepts/lureenemyoutofposition/"

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2057
+topic_total_pages: 2058
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1291,6 +1291,9 @@ topic_concepts:
   - key: "FreedomOfNavigationTradeOrder"
     title: "Freedom of Navigation Trade Order"
     url: "/wiki/concepts/freedomofnavigationtradeorder/"
+  - key: "FrontierAgencyCommercialBoundary"
+    title: "Frontier Agency-Commercial Boundary"
+    url: "/wiki/concepts/frontieragencycommercialboundary/"
   - key: "FrontierModelInflectionPivot"
     title: "Frontier Model Inflection Pivot"
     url: "/wiki/concepts/frontiermodelinflectionpivot/"

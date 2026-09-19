@@ -149,8 +149,8 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-19",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
-      "source_note_count": 65,
-      "topic_matched_source_note_count": 59,
+      "source_note_count": 66,
+      "topic_matched_source_note_count": 60,
       "topics": [
         {
           "key": "technology",
@@ -174,7 +174,7 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 7
+          "source_note_count": 8
         }
       ],
       "entities": [
@@ -238,7 +238,7 @@
       "start_here_episode_files": [
         "All-In with Chamath, Jason, Sacks & Friedberg - Brad Gerstner： No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem [42936597].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
-        "All-In with Chamath, Jason, Sacks & Friedberg - Eric Weinstein： The State of American Science, Breakthrough Coverups, and the Danger of Physics [42568645].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md"
       ]
     },

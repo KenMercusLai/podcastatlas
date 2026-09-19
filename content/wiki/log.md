@@ -20050,3 +20050,11 @@ Added source `the-dominos-pizza-tracker-theory-of-everything`; created `DominosP
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | Jared Isaacman: A New Era for NASA and American Space Exploration
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838`; created `JaredIsaacman`, `NASAMissionConcentration`, `FrontierAgencyCommercialBoundary`, `NuclearElectricSpaceflight`, and `LunarSouthPoleOperationalScarcity`; updated `NASA`, `Artemis2`, `LunarNuclearPower`, `MoonMarsStrategySplit`, `index.md`, and `overview.md`. Core synthesis: Isaacman's strategy separates mature commercial services from public frontier engineering and treats incremental lunar operations, nuclear systems, and Mars preparation as one focused NASA portfolio. No settled contradiction found; the aggressive 2027-2028 program dates and named vehicle, reactor, rover, helicopter, cadence, and geopolitical claims remain source-scoped, while program cancellation, cost, safety, legal, and concentration risks remain unresolved.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1118
+topic_total_pages: 1121
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1021,6 +1021,9 @@ topic_concepts:
   - key: "LunarResourceGovernance"
     title: "Lunar Resource Governance"
     url: "/wiki/concepts/lunarresourcegovernance/"
+  - key: "LunarSouthPoleOperationalScarcity"
+    title: "Lunar South Pole Operational Scarcity"
+    url: "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
   - key: "MachineGamblingAddiction"
     title: "Machine Gambling Addiction"
     url: "/wiki/concepts/machinegamblingaddiction/"
@@ -1204,6 +1207,9 @@ topic_concepts:
   - key: "NuclearWinter"
     title: "Nuclear Winter"
     url: "/wiki/concepts/nuclearwinter/"
+  - key: "NuclearElectricSpaceflight"
+    title: "Nuclear-Electric Spaceflight"
+    url: "/wiki/concepts/nuclearelectricspaceflight/"
   - key: "ObservationBeforeInference"
     title: "Observation Before Inference"
     url: "/wiki/concepts/observationbeforeinference/"
@@ -3225,6 +3231,9 @@ topic_sources:
   - key: "tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128"
     title: "Is the moon (and its resources) up for grabs?"
     url: "/wiki/sources/tech-20260211-0211-mp-tech-pod-128-tech-20260211-0211-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838"
+    title: "Jared Isaacman: A New Era for NASA and American Space Exploration"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838/"
   - key: "leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288"
     title: "Leverage Dopamine to Overcome Procrastination & Optimize Effort"
     url: "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"

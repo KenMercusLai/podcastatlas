@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10207
+wiki_total_pages: 10208
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "JaredFriedman"
     title: "Jared Friedman"
     url: "/wiki/entities/jaredfriedman/"
+  - key: "JaredIsaacman"
+    title: "Jared Isaacman"
+    url: "/wiki/entities/jaredisaacman/"
   - key: "JaredKushner"
     title: "Jared Kushner"
     url: "/wiki/entities/jaredkushner/"
