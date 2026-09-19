@@ -641,12 +641,13 @@
       "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
       "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
-      "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73"
+      "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
+      "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0"
     ],
-    "paragraph_count": 641
+    "paragraph_count": 642
   },
-  "overview_commit": "7facc7cf79be10f1af5261775c1a860b6fe89654",
-  "overview_digest": "e37b5fd0526f7b6aedd2e9044ea2a3011b5c3d090a3bc4ead0409fe3067795eb",
+  "overview_commit": "e5c7f6b4a0b124f2f49bed5e581c1ac6d863301f",
+  "overview_digest": "7787b1d6e335f643760469ca82734fdca9bdb106eaed2df210d6057669ca260d",
   "paragraphs": [
     {
       "id": "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
@@ -19500,6 +19501,27 @@
         "WeiZiLateHan",
         "XiahouDun",
         "zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny"
+      ]
+    },
+    {
+      "id": "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k|《资治通鉴·汉纪》1098丨刘备的跳槽秘籍：带着资源，越跳越值钱！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode bridging Liu Bei's early resource formation in Hanji 1097 and Lu Su's post-Changban alliance pitch in Hanji 1099. It adds [[PortablePoliticalCapital|可携带政治资本]], while extending [[LiuBei|刘备]], [[LuSu|鲁肃]], [[XinyeLateHan|新野]], [[ActivePoliticalDormancy|主动蛰伏式政治积累]], and [[LongzhongPlan|隆中对]]. Its core synthesis is that Liu Bei's repeated dependencies are valuable when borrowed office, troops, relationships, reputation, and followers become capacity that survives the loss of a platform; Xinye is presented as the longest low-profile conversion interval, and the Longzhong Plan turns broad restoration ambition into a territorial, legitimacy, and alliance path before Liu Biao's death and Changban collapse create the opening for Lu Su. No settled contradiction is recorded; the modern job-hopping analogy compresses unequal political relationships, while the patron count, Xinye duration and force total, benevolence-conversion claim, dialogue, and inner motives remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ActivePoliticalDormancy",
+        "LiuBei",
+        "LongzhongPlan",
+        "LuSu",
+        "PortablePoliticalCapital",
+        "RuiqiJiangtouZizhiTongjian",
+        "XinyeLateHan",
+        "zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k"
       ]
     }
   ],

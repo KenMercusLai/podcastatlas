@@ -4868,9 +4868,29 @@
         "LadyDingCaoCao",
         "FenxiangMailu"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "late-han-portable-capital-converts-dependency-into-capacity",
+      "qualifications": [
+        "The claim is source-scoped to one popular-history episode and its modern job-hopping and startup analogy.",
+        "The six-patron sequence compresses offices, refuge, alliances, and later conquest into one frame, while the seven-year duration and six-thousand-plus force estimate require primary-source verification.",
+        "Reputation and benevolence can support followership, but the episode does not prove a single motive for every follower or civilian."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k|Hanji 1098]] adds a late-Han governance mechanism in which [[LiuBei|Liu Bei]] converts repeated dependency into [[PortablePoliticalCapital]]: borrowed office, troops, relationships, reputation, and followers can survive the loss of a platform, [[XinyeLateHan|Xinye]] and [[ActivePoliticalDormancy]] provide protected accumulation time, and [[LongzhongPlan]] turns broad ambition into a territorial, legitimacy, and alliance path before [[LuSu]] opens the next coalition option.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k",
+        "LiuBei",
+        "PortablePoliticalCapital",
+        "XinyeLateHan",
+        "ActivePoliticalDormancy",
+        "LongzhongPlan",
+        "LuSu"
+      ]
     }
   ],
-  "input_digest": "1f176607a80e974a2e8e0d84ab19e11b39ca242565c5b6f4c119ab14cf9d7d00",
-  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Across both cases, institutional judgment must distinguish visible evidence from inferred motive and formal designation from publicly contested authority.",
+  "input_digest": "7086da4fee10b91cada469af06b2418e96d15ca54dda5e772b12d950dc91ac40",
+  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Hanji 1098 adds the complementary weak-actor mechanism: Liu Bei converts repeated dependence, Xinye dormancy, reputation, and adviser planning into portable organizational capacity. Across these cases, institutional judgment must distinguish visible evidence from inferred motive, formal designation from publicly contested authority, and borrowed platforms from the capacity an actor can retain after leaving them.",
   "topic_id": "governance-and-institutions"
 }

@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-20
-as_of_overview_commit: 49a3b6daf4b7c62803e6469f8297c6846f9e8a07
-input_digest: 1f176607a80e974a2e8e0d84ab19e11b39ca242565c5b6f4c119ab14cf9d7d00
+as_of_overview_commit: e5c7f6b4a0b124f2f49bed5e581c1ac6d863301f
+input_digest: 7086da4fee10b91cada469af06b2418e96d15ca54dda5e772b12d950dc91ac40
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Across both cases, institutional judgment must distinguish visible evidence from inferred motive and formal designation from publicly contested authority.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Hanji 1098 adds the complementary weak-actor mechanism: Liu Bei converts repeated dependence, Xinye dormancy, reputation, and adviser planning into portable organizational capacity. Across these cases, institutional judgment must distinguish visible evidence from inferred motive, formal designation from publicly contested authority, and borrowed platforms from the capacity an actor can retain after leaving them.
 
 ## Cross-source Findings
 
@@ -2280,3 +2280,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The episode is a compressed retrospective rather than a complete chronology of Cao Cao's career.
 - Battlefield dialogue, final words, Guan Yu burial symbolism, and modern economic-independence language remain source-scoped interpretations.
+
+### Late Han Portable Capital Converts Dependency Into Capacity
+
+[[zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k|Hanji 1098]] adds a late-Han governance mechanism in which [[LiuBei|Liu Bei]] converts repeated dependency into [[PortablePoliticalCapital]]: borrowed office, troops, relationships, reputation, and followers can survive the loss of a platform, [[XinyeLateHan|Xinye]] and [[ActivePoliticalDormancy]] provide protected accumulation time, and [[LongzhongPlan]] turns broad ambition into a territorial, legitimacy, and alliance path before [[LuSu]] opens the next coalition option.
+
+**Evidence:** [[zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k]], [[LiuBei]], [[PortablePoliticalCapital]], [[XinyeLateHan]], [[ActivePoliticalDormancy]], [[LongzhongPlan]], [[LuSu]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one popular-history episode and its modern job-hopping and startup analogy.
+- The six-patron sequence compresses offices, refuge, alliances, and later conquest into one frame, while the seven-year duration and six-thousand-plus force estimate require primary-source verification.
+- Reputation and benevolence can support followership, but the episode does not prove a single motive for every follower or civilian.

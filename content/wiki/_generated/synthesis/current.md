@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-20
-as_of_overview_commit: 7facc7cf79be10f1af5261775c1a860b6fe89654
+as_of_overview_commit: e5c7f6b4a0b124f2f49bed5e581c1ac6d863301f
 summary: "Podcast Atlas synthesizes evidence across technology, markets, culture, governance, history, psychology, health, work, and education with explicit qualifications."
-episode_count: 2517
-source_count: 2517
-paragraph_count: 641
+episode_count: 2518
+source_count: 2518
+paragraph_count: 642
 topic_count: 8
 ---
 
@@ -50,7 +50,7 @@ Cultural form is infrastructure: medium, material, audience practice, provenance
 
 ### Governance and Institutions
 
-Institutional capacity depends on legitimacy, appointments, information channels, enforceable boundaries, exit options, and publicly inspectable evidence, not formal structure alone.
+Institutional capacity depends on legitimacy, appointments, information channels, enforceable boundaries, exit options, and publicly inspectable evidence; Hanji 1098 adds that weak actors can also turn borrowed platforms into portable capacity.
 
 - [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence. Evidence: [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], [[CourtTransitionBlameManagement]].
 - [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems. Evidence: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]].
@@ -78,7 +78,7 @@ Reliable guidance depends on mechanism, measurement, escalation thresholds, qual
 
 ### Work, Education, and Society
 
-Learning and institutions depend on effortful practice, trusted roles, feedback, routines, and human judgment; Hanji 1097 adds that family support, school networks, and outside finance can compound into early-career capacity without guaranteeing success.
+Learning and institutions depend on effortful practice, trusted roles, feedback, routines, intergenerational support, and human judgment rather than labels alone.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

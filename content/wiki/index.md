@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！](sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg.md) — 刘备从童年贫困、宗族资助求学到卢植门下同学网络与商人启动资金的早期能力形成。
+- [《资治通鉴·汉纪》1098丨刘备的跳槽秘籍：带着资源，越跳越值钱！](sources/zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k.md) — 刘备将反复依附转化为可携带政治资本，在新野蛰伏积累，再由《隆中对》把志向转成路径。
 - [《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？](sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn.md) — 刘表治下士人的避祸选择与鲁肃借吊丧探查荆州、联络刘备并为江东保留退路的赤壁战前布局。
 - [《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？](sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq.md) — 长坂坡兵败后，鲁肃以实力对比、平等合作话术和诸葛瑾关系桥梁推动刘备转向孙权联盟。
 - [《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？](sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv.md) — 曹操“会猎”威胁下，张昭以名分与水军劝降，鲁肃则揭示臣子与主公投降后果的不对称。
@@ -12766,6 +12767,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Portable Political Capital / 可携带政治资本](concepts/PortablePoliticalCapital.md) — 依托强者平台获得的职位、人脉、声望与追随者，如何在失去原有据点后仍保留组织价值。
 - [Kinship-Backed Early-Career Capital / 宗族托举式早期资本](concepts/KinshipBackedEarlyCareerCapital.md) — 家族资助先转化为教育、同学与声望网络，再与外部资金共同形成早期行动能力。
 - [联盟不确定性下的退路预留 / Alliance Contingency Hedging](concepts/AllianceContingencyHedging.md) — 在探索合作的同时，针对伙伴崩溃或失去能力预设退出方案的策略。
 - [Face-Preserving Alliance Persuasion / 保全体面的结盟说服](concepts/FacePreservingAlliancePersuasion.md) — 通过伙伴价值对比、平等合作话术和私人信任桥梁，让弱势方接受必要联盟。

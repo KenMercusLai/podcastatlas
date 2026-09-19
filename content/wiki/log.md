@@ -20166,3 +20166,11 @@ Added source `zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-d
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1098丨刘备的跳槽秘籍：带着资源，越跳越值钱！
+
+Added source `zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k`; created `PortablePoliticalCapital`; updated `LiuBei`, `LuSu`, `XinyeLateHan`, `LongzhongPlan`, `ActivePoliticalDormancy`, and `index.md`. Core synthesis: the episode interprets Liu Bei's repeated dependencies as cumulative conversion of borrowed platforms into portable reputation, relationships, followers, and judgment; treats Xinye as the longest low-profile accumulation interval; and presents the Longzhong Plan as the shift from broad ambition to an operational territorial and alliance path before Changban collapse and Lu Su's arrival. No settled contradiction found; the job-hopping analogy compresses unequal political relationships, while the patron count, Xinye duration and force total, benevolence-conversion claim, dialogue, and inner motives remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
