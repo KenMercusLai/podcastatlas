@@ -20018,3 +20018,19 @@ Added source `zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yali
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？
+
+Added source `zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr`; created `RedCliffsBattle` and `PostDefeatNarrativeCounterattack`; updated `ZhouYuLateHan`, `CaoRen`, and `XuHuangCaoGeneral`; and updated `index.md` and `overview.md`. Core synthesis: after Huang Gai's fire attack and Zhou Yu's follow-on assault force Cao Cao's retreat, Cao Cao combines materiel denial and a Jiangling-Fancheng defensive line with a message emphasizing disease and self-burning, trying to deny Zhou Yu reputational ownership and amplify the Sun-Liu dispute over Jingzhou. No settled contradiction found; disease, fire, and deliberate ship destruction can coexist, while Cao Cao's certainty illusion, the letter's effect, Jiangling intention, Guo Jia counterfactual, and private grief remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？
+
+Added source `zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv`; created `HuarongRoadLateHan`; migrated and updated `HuangGai`; updated `RedCliffsBattle` and `PostSuccessArrogance`; normalized Hanji 1107's Huang Gai links to the existing `HuangGai` identity; and updated `index.md`. Core synthesis: Red Cliffs emerges from interacting command, readiness, disease, terrain, river-war adaptation, linked-ship, deception, fire, and alliance factors, while recent victory makes Cao Cao treat nominal advantage as operational certainty. No settled contradiction found; exact Huarong counts and road-building details, private dialogue, Jia Xu's surrender counterfactual, and pride as the explanation for accepting Huang Gai's message remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

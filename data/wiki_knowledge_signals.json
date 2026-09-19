@@ -14565,9 +14565,9 @@
       "url": "/wiki/entities/caojielatehan/"
     },
     "CaoRen": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
@@ -14589,6 +14589,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
+          "key": "zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
         }
       ],
       "updated": "2026-09-19",
@@ -51103,6 +51110,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/huangfudonghailatehan/"
     },
+    "HuangGai": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈 [lrIVPk7COL2l7K-S4dqZXXP2KQp1].md",
+          "key": "zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？ [lpsjmdPL6-2bD1qtDa-eGVx0zaWv].md",
+          "key": "zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/huanggai/"
+    },
     "HuangQiongLateHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -51457,6 +51487,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/huangzhikingdom/"
+    },
+    "HuarongRoadLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？ [lpsjmdPL6-2bD1qtDa-eGVx0zaWv].md",
+          "key": "zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/huarongroadlatehan/"
     },
     "HuaweiAscend950DT": {
       "episode_count": 1,
@@ -84149,6 +84195,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/postbrexitstrategicidentity/"
     },
+    "PostDefeatNarrativeCounterattack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
+          "key": "zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/postdefeatnarrativecounterattack/"
+    },
     "PostDisasterTruthAndResponsibility": {
       "episode_count": 2,
       "show_count": 2,
@@ -84265,9 +84327,9 @@
       "url": "/wiki/concepts/postrestorationmeritthreat/"
     },
     "PostSuccessArrogance": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
@@ -84303,6 +84365,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？ [lpsjmdPL6-2bD1qtDa-eGVx0zaWv].md",
+          "key": "zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv/"
         }
       ],
       "updated": "2026-09-19",
@@ -89042,6 +89111,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
+    },
+    "RedCliffsBattle": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
+          "key": "zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？ [lpsjmdPL6-2bD1qtDa-eGVx0zaWv].md",
+          "key": "zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/redcliffsbattle/"
     },
     "Reddit": {
       "episode_count": 8,
@@ -117914,9 +118006,9 @@
       "url": "/wiki/entities/xuguanghanwesternhan/"
     },
     "XuHuangCaoGeneral": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数 [lt3SeWXvTPYtrufREx8b0s0p0hJu].md",
@@ -117931,9 +118023,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
+          "key": "zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/xuhuangcaogeneral/"
     },
     "XuHuangLateHan": {
@@ -125958,9 +126057,9 @@
       "url": "/wiki/entities/zhouyouwang/"
     },
     "ZhouYuLateHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -126024,6 +126123,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
+          "key": "zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
         }
       ],
       "updated": "2026-09-19",

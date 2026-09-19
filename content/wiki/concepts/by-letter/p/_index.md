@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7527
+wiki_total_pages: 7528
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "PostConquestDisarmament"
     title: "Post-Conquest Disarmament / 统一后收兵器"
     url: "/wiki/concepts/postconquestdisarmament/"
+  - key: "PostDefeatNarrativeCounterattack"
+    title: "Post-Defeat Narrative Counterattack / 败后叙事反击"
+    url: "/wiki/concepts/postdefeatnarrativecounterattack/"
   - key: "PostDisasterPredationMisread"
     title: "Post-Disaster Predation Misread / 灾后趁虚误判"
     url: "/wiki/concepts/postdisasterpredationmisread/"

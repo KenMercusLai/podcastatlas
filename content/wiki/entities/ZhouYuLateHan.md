@@ -13,6 +13,7 @@ sources:
   - zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d
   - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
   - zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc
+  - zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr
 last_updated: 2026-09-19
 ---
 
@@ -26,7 +27,7 @@ The current synthesis presents Zhou Yu as an elite local ally who turns personal
 
 Hanji 1058 adds a diplomatic-strategic layer after the initial transition. Cao Cao demands that Sun Quan send a younger brother or son to court service. Zhou Yu argues that Jiangdong's six commanderies, soldiers, grain, wealthy land, and stable population let Sun Quan refuse, and that sending a hostage would bind Sun Quan to Cao Cao's commands. [[LadyWuSunJian|吴夫人]] endorses Zhou Yu's analysis and tells Sun Quan to honor him like an elder brother, giving Zhou Yu a household-authorized advisory role as well as a military one.
 
-Hanji 1108 extends the profile into the post-Red-Cliffs campaign. Zhou Yu and Cheng Pu confront [[CaoRen|曹仁]] and [[XuHuangCaoGeneral|徐晃]] around Jiangling. Zhou Yu accepts [[GanNing|甘宁]]'s proposal to seize [[YilingLateHan|夷陵]] with a selected force, allowing subordinate terrain knowledge and initiative to open a forward pressure point rather than relying only on direct mass assault.
+Hanji 1107-1108 extend the profile through the [[RedCliffsBattle|赤壁之战]] and into the post-battle campaign. Hanji 1107 credits [[HuangGai|黄盖]]'s feigned-surrender fire attack and Zhou Yu's follow-on assault with forcing Cao Cao's retreat, then records Cao Cao's attempt to minimize Zhou Yu's fame in a message to Sun Quan. Hanji 1108 places Zhou Yu and Cheng Pu opposite [[CaoRen|曹仁]] and [[XuHuangCaoGeneral|徐晃]] around Jiangling, where Zhou Yu accepts [[GanNing|甘宁]]'s proposal to seize [[YilingLateHan|夷陵]] with a selected force.
 
 ## Key Characteristics
 - Serves as a chronological bridge from the Sun Jian generation into the later Sun-Ce Jiangdong branch.
@@ -35,7 +36,7 @@ Hanji 1108 extends the profile into the post-Red-Cliffs campaign. Zhou Yu and Ch
 - Rejects Yuan Shu's camp and attaches more formally to Sun Ce as Yuan Shu's imperial project fails.
 - Participates in the Wan City operation, making earlier support visible as active campaign command.
 - Returns from Baqiu with troops after Sun Ce's death and remains in Wu Commandery as a military stabilizer for Sun Quan.
-- Advises Sun Quan on autonomy, then commands around Jiangling and permits Gan Ning's Yiling initiative.
+- Advises Sun Quan on autonomy, receives battlefield credit at Red Cliffs, and continues pressure through Jiangling and Gan Ning's Yiling initiative.
 
 ## Evidence
 - Birth marker: [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] records Zhou Yu's 175 CE birth as son of Luoyang county magistrate Zhou Yi.
@@ -47,14 +48,15 @@ Hanji 1108 extends the profile into the post-Red-Cliffs campaign. Zhou Yu and Ch
 - Hostage-refusal counsel: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] has Zhou Yu tell Sun Quan not to send a brother or son as hostage because Jiangdong has enough material base and because hostage service would bind Sun Quan to Cao Cao.
 - Title caution: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] warns that [[LuFan|吕范]]'s early `都督` role and Zhou Yu's later reputation should not be conflated with a later `大都督` office.
 - Corridor command and subordinate initiative: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] places Zhou Yu opposite Cao Ren at Jiangling and has him accept Gan Ning's Yiling proposal.
+- Fire-attack credit and reputational contest: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] credits Huang Gai's approach and Zhou Yu's follow-on attack, then records Cao Cao's attempt to attribute retreat to disease and self-burning while calling Zhou Yu's fame undeserved.
 
 ## Qualifications
-This page remains bounded to the listed sources and is not a full synthesis of Zhou Yu's Red Cliffs or later Eastern Wu career. Hanji 1108 gives the post-battle Jiangling setting but not a full account of troop strength or hierarchy. The hostage refusal remains collective, and the Yiling success depends on Gan Ning's local knowledge and execution rather than Zhou Yu alone.
+This page remains bounded to the listed sources and is not a complete Zhou Yu biography or military history. Hanji 1107's fire, wind, casualty, and credit details come from one popular-history account; disease and deliberate destruction during retreat can coexist with enemy action. Hanji 1108 gives the post-battle Jiangling setting but not a full account of troop strength or hierarchy. The hostage refusal remains collective, and the Yiling success depends on Gan Ning's local knowledge and execution rather than Zhou Yu alone.
 
 ## What Changed
-- Added post-Red-Cliffs Jiangling command as the first later campaign layer in the bounded profile.
-- Added Zhou Yu's acceptance of Gan Ning's Yiling initiative.
-- Preserved the earlier support, succession, hostage-refusal, and title-caution layers.
+- Added Hanji 1107's Red Cliffs fire-attack and follow-on assault layer.
+- Added Cao Cao's post-defeat attempt to minimize Zhou Yu's credit.
+- Connected battlefield victory to the already recorded Jiangling and Yiling continuation.
 
 ## Relationships
 - [[SunCe|孙策]] - ally whose Jiangdong rise Zhou Yu materially supports and later campaigns beside.
@@ -68,8 +70,11 @@ This page remains bounded to the listed sources and is not a full synthesis of Z
 - [[WanChengLujiang|皖城]] - campaign target Zhou Yu helps Sun Ce capture.
 - [[LuFan|吕范]] - office-title comparator used to avoid retrojecting later Wu titles.
 - [[CaoCao|曹操]] - outside power whose hostage demand Zhou Yu advises Sun Quan to refuse.
+- [[RedCliffsBattle|赤壁之战]] - victory in which Zhou Yu receives operational credit and becomes the target of Cao Cao's counter-narrative.
+- [[HuangGai|黄盖]] - commander whose feigned surrender enables the fire attack Zhou Yu follows.
 - [[JianglingLateHan|江陵]] - strongpoint Zhou Yu pressures after Red Cliffs.
 - [[GanNing|甘宁]] - subordinate whose Yiling proposal Zhou Yu accepts.
 - [[YilingLateHan|夷陵]] - forward position opened during the campaign.
 - [[HostageBackedDependencyTrap|家属质押式依附陷阱]] - dependency pattern Zhou Yu identifies and helps Sun Quan avoid.
 - [[CommandContinuityDamageControl|统帅连续性危机处置]] - crisis pattern Zhou Yu supports through armed presence and officeholding.
+- [[PostDefeatNarrativeCounterattack|败后叙事反击]] - reputational mechanism used to deny Zhou Yu ownership of the victory.

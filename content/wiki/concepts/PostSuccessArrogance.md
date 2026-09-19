@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q
   - zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4
   - zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt
+  - zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-19
 ---
@@ -20,7 +21,7 @@ Post-success arrogance / 得势后的骄傲 is the failure pattern where victory
 ## Current Synthesis
 The bounded evidence runs from the Dong Zhuo aftermath through Yuan-family collapse and the post-Red-Cliffs realignment. [[WangYunLateHan|王允]] turns victory into reputation anxiety, historian suppression, and failed safety design for armed remnants; [[LiuDaiLateHan|刘岱]] lets status override material defense; and [[LyuBu|吕布]] converts genuine merit into socially corrosive display.
 
-At regime scale, [[YuanShu|袁术]]'s luxury and imperial performance separate status from exhausted resources, while [[YuanShao|袁绍]]'s northern success weakens his responsiveness to strategic warning before Guandu. Hanji 1109 adds [[XiZaochi|习凿齿]]'s judgment of [[CaoCao|曹操]]: post-Jingzhou confidence allegedly shapes both Red Cliffs misjudgment and the cold reception of [[ZhangSongLateHan|张松]], allowing military defeat and personnel rejection to compound into rival consolidation.
+At regime scale, [[YuanShu|袁术]]'s luxury and imperial performance separate status from exhausted resources, while [[YuanShao|袁绍]]'s northern success weakens his responsiveness to strategic warning before Guandu. Hanji 1106 makes [[CaoCao|曹操]]'s Red Cliffs risk compression concrete: successive victories make possession of Jingzhou, troop count, and an immediate campaign feel more decisive than epidemic disease, river-war adaptation, terrain, and [[JiaXu|贾诩]]'s consolidation-first warning. Hanji 1109 then adds [[XiZaochi|习凿齿]]'s retrospective judgment and the cold reception of [[ZhangSongLateHan|张松]], allowing military defeat and personnel rejection to compound into rival consolidation.
 
 The current judgment is therefore conditional, not monocausal. Success changes the information environment and can make warning, restraint, and respect feel unnecessary; arrogance becomes politically decisive when it interacts with logistics, geography, rival agency, institutional weakness, and recoverable alliance opportunities.
 
@@ -29,6 +30,7 @@ The current judgment is therefore conditional, not monocausal. Success changes t
 - Reputation control becomes destructive when a victor fears criticism more than institutional repair.
 - Status confidence can hide material weakness, including food limits, exhausted troops, and exposed geography.
 - Merit or force becomes corrosive when converted into entitlement, boasting, title ambition, or refusal to hear constraint.
+- Recent victory can compress perceived uncertainty, making nominal strength look equivalent to operational readiness.
 - Arrogance can close talent and alliance channels even after battlefield advantage has already weakened.
 - The concept identifies an amplifying distortion, not a complete explanation for complex political outcomes.
 
@@ -36,15 +38,16 @@ The current judgment is therefore conditional, not monocausal. Success changes t
 - Reputation panic and remnant-force failure: [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]], [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], and [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] connect Wang Yun's treatment of Cai Yong and Liangzhou remnants to post-victory overconfidence and broken safety design.
 - Status over material analysis: [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] has Liu Dai reject Bao Xin's defensive advice and frames Lyu Bu's repeated merit display as relationally corrosive.
 - Regime collapse and prewar overconfidence: [[zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4|Hanji 1033]] shows Yuan Shu's unsupported luxury and Yuan Shao discounting strategic warning after northern victory.
+- Operational-readiness blindness: [[zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv|Hanji 1106]] contrasts Cao Cao's immediate-war certainty with Jia Xu's warning and with disease, terrain, water-war, and force-adaptation constraints before Red Cliffs.
 - Lost reception channel after military reversal: [[zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt|Hanji 1109]] links Cao Cao's treatment of Zhang Song to Yizhou's pivot toward Liu Bei and preserves Xi Zaochi's harsher retrospective judgment.
 
 ## Counterevidence & Qualifications
-The concept should not flatten every defeat into personality. Every bounded source also contains material and institutional causes: food, exhausted soldiers, captured title systems, refugee pressure, command division, terrain, fiscal bases, and rival initiative. Hanji 1109 especially overstates causation if read literally: Cao Cao's conduct may amplify a lost opportunity, but it does not alone create the Three Kingdoms balance. The Huang Ming business analogy and the precise scale of his reported reversal are source-scoped illustrations, not independent validation.
+The concept should not flatten every defeat into personality. Every bounded source also contains material and institutional causes: food, exhausted soldiers, captured title systems, refugee pressure, command division, terrain, fiscal bases, disease, troop adaptation, and rival initiative. Hanji 1106's “certainty illusion” is the host's interpretive frame; it does not prove that pride alone caused Cao Cao to accept Huang Gai's message or lose Red Cliffs. Hanji 1109 especially overstates causation if read literally: Cao Cao's conduct may amplify a lost opportunity, but it does not alone create the Three Kingdoms balance. The Huang Ming business analogy and the precise scale of his reported reversal are source-scoped illustrations, not independent validation.
 
 ## What Changed
-- Added Xi Zaochi's post-Red-Cliffs critique of Cao Cao and Zhang Song's failed reception.
-- Extended the concept from ignored warning and resource blindness into lost recruitment and alliance channels.
-- Made the non-monocausal boundary explicit: arrogance amplifies other strategic conditions rather than replacing them.
+- Added Cao Cao's pre-Red-Cliffs compression of disease, terrain, and force-adaptation risk.
+- Distinguished nominal advantage from operational readiness after a run of victories.
+- Connected Jia Xu's rejected consolidation advice to the later Xi Zaochi critique without making pride monocausal.
 
 ## Related Concepts
 - [[RationalHumility]] - humility is the corrective discipline that keeps advantage from becoming certainty.
