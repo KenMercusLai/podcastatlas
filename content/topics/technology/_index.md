@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3048
+topic_total_pages: 3049
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1348,6 +1348,9 @@ topic_concepts:
   - key: "CivilAviationDevelopmentFund"
     title: "Civil Aviation Development Fund / 民航发展基金"
     url: "/wiki/concepts/civilaviationdevelopmentfund/"
+  - key: "CivilianInfrastructureAirCampaign"
+    title: "Civilian Infrastructure Air Campaign"
+    url: "/wiki/concepts/civilianinfrastructureaircampaign/"
   - key: "ClinicalTrialContinuity"
     title: "Clinical Trial Continuity"
     url: "/wiki/concepts/clinicaltrialcontinuity/"

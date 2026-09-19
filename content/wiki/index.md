@@ -2512,6 +2512,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？](sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv.md) — Red Cliffs prelude and retreat episode on Cao Cao's readiness misjudgment, disease and river-war constraints, linked ships, Huang Gai's fire plan, and the Huarong mobility crisis.
 
 - [The Domino's Pizza Tracker Theory of Everything](sources/the-dominos-pizza-tracker-theory-of-everything.md) — Planet Money episode on Domino's shift from a dangerous speed guarantee to operational progress visibility, labor illusion, and the manipulation boundary of synthetic status displays.
+- [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
 
 ## Entities
 - [Jared Isaacman](entities/JaredIsaacman.md) — Space-policy leader advocating a concentrated NASA portfolio, a lunar proving ground, and a public-private frontier capability boundary.
@@ -12726,6 +12727,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river campaign where disease, readiness, terrain, linked ships, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
+- [Alex Turner (Economist defence editor)](entities/AlexTurnerEconomist.md) — Economist defense editor connecting Russia's long-range strike advantage to Ukrainian infrastructure, production, and social endurance.
+- [Nemesis Drone Unit](entities/NemesisDroneUnit.md) — Ukrainian battalion combining intelligence, planning, and long-range quadcopter operations behind the front.
+- [Campari](entities/Campari.md) — Drinks company using draft Aperol spritz to contest beer-dominated venues during weaker alcohol demand.
+- [Gloria Steinem](entities/GloriaSteinem.md) — American journalist and feminist organizer who moved from undercover reporting and newsroom exclusion to co-founding Ms. magazine.
+- [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
 - [Device-Origin Photo Authentication](concepts/DeviceOriginPhotoAuthentication.md) — Capture-time signing and protected reference images that verify a bounded device-origin claim without treating every unauthenticated photo as fake.
@@ -20265,5 +20271,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [恐怖治理反噬 / Terror Rule Backfire](concepts/TerrorRuleBackfire.md) — Governance pattern where killing and fear produce apparent obedience while storing accusation, desertion, and collapse in crisis.
 
 - [Unexpected-Approach Fortress Assault / 意外进路式要塞突袭](concepts/UnexpectedApproachFortressAssault.md) — Using selected troops and a presumed-impossible route to convert local penetration into defensive shock.
+- [Civilian Infrastructure Air Campaign](concepts/CivilianInfrastructureAirCampaign.md) — Sustained drone-and-missile pressure on utilities, transport, commerce, and population centers to weaken economic and social endurance behind the front.
+- [Ukrainian Defense-Industrial Scaling](concepts/UkrainianDefenseIndustrialScaling.md) — Turning Ukrainian weapon prototypes into production volume through direct procurement, finance, engineering help, and selective technology transfer.
+- [Alcohol Demand Reset](concepts/AlcoholDemandReset.md) — Structural adjustment as consumers drink less and beverage companies compete across alcohol-free, packaged, venue, and mood-oriented formats.
+- [Premium Ready-to-Drink Alcohol](concepts/PremiumReadyToDrinkAlcohol.md) — Canned and pre-mixed cocktails positioned through adult, less-sweet, premium cues rather than older alcopop associations.
+- [Feminist Media Institution-Building](concepts/FeministMediaInstitutionBuilding.md) — Converting excluded experience, testimony, editorial control, and organizing into durable media institutions.
 
 ## Syntheses

@@ -6986,6 +6986,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AlcoholDemandReset": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Aldhani": [
     {
       "key": "culture",
@@ -16283,6 +16290,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "CivilianInfrastructureAirCampaign": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "CivilizationBarbarismFrame": [
@@ -26153,6 +26167,13 @@
     }
   ],
   "FeministFairyTaleRewriting": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "FeministMediaInstitutionBuilding": [
     {
       "key": "culture",
       "label": "Culture",
@@ -47370,6 +47391,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MsMagazine": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "MuhammadAtalla": [
@@ -80700,6 +80728,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop": [

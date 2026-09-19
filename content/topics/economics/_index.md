@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2058
+topic_total_pages: 2059
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -223,6 +223,9 @@ topic_concepts:
   - key: "AirCargoValueDensity"
     title: "Air Cargo Value Density / 航空货运价值密度"
     url: "/wiki/concepts/aircargovaluedensity/"
+  - key: "AlcoholDemandReset"
+    title: "Alcohol Demand Reset"
+    url: "/wiki/concepts/alcoholdemandreset/"
   - key: "AlgorithmicDispersedKnowledge"
     title: "Algorithmic Dispersed Knowledge / 算法分散知识聚合"
     url: "/wiki/concepts/algorithmicdispersedknowledge/"

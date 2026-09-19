@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-18",
       "latest_episode_file": "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
-      "source_note_count": 74,
-      "topic_matched_source_note_count": 70,
+      "source_note_count": 75,
+      "topic_matched_source_note_count": 71,
       "topics": [
         {
           "key": "politics",
@@ -342,7 +342,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 24
+          "source_note_count": 25
         },
         {
           "key": "science",
@@ -412,8 +412,8 @@
       "start_here_episode_files": [
         "Strait and narrowing： the Houthis’ striking advance [6aa7c25aff74edfd002ca6c7].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
-        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
-        "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md"
+        "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
+        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md"
       ]
     },
     "How I Built This with Guy Raz": {

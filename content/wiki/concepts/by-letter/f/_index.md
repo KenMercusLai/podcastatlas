@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7536
+wiki_total_pages: 7541
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "FeministFairyTaleRewriting"
     title: "Feminist Fairy-Tale Rewriting / 女性主义童话改写"
     url: "/wiki/concepts/feministfairytalerewriting/"
+  - key: "FeministMediaInstitutionBuilding"
+    title: "Feminist Media Institution-Building"
+    url: "/wiki/concepts/feministmediainstitutionbuilding/"
   - key: "FengShuiVitalEnergyTheory"
     title: "Feng Shui Vital-Energy Theory / 风水生气论"
     url: "/wiki/concepts/fengshuivitalenergytheory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10208
+wiki_total_pages: 10213
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "GlobeTheatre"
     title: "Globe Theatre / 环球剧院"
     url: "/wiki/entities/globetheatre/"
+  - key: "GloriaSteinem"
+    title: "Gloria Steinem"
+    url: "/wiki/entities/gloriasteinem/"
   - key: "Gmail"
     title: "Gmail"
     url: "/wiki/entities/gmail/"

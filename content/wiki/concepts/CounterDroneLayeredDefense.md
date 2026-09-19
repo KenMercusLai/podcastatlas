@@ -2,25 +2,47 @@
 title: "Counter-Drone Layered Defense"
 type: concept
 tags: [warfare, defense, drones, resilience]
-sources: [tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]
-last_updated: 2026-07-12
+sources:
+  - tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128
+  - drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e
+last_updated: 2026-09-19
+knowledge_schema: synthesis-v1
 ---
 
 # Counter-Drone Layered Defense
 
-Counter-drone layered defense is the use of multiple defensive methods, ranges, and cost tiers against drones rather than relying on one expensive interceptor or one electronic countermeasure. [[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] adds the concept through [[StaceyPettijohn]]'s point that there is no stable endpoint where defenders can declare all drone threats solved.
+## Definition
+Counter-drone layered defense is the coordinated use of sensors, classification, electronic warfare, guns or short-range systems, interceptor aircraft, and higher-end missiles across distinct threat and cost tiers.
 
-The source describes a moving contest. Cheap commercial drones may be jammed by disrupting control links, but attackers can adapt with better antennas or fiber optic control. Armed one-way drones and decoys then require classification, short-range defense, and cost discipline so defenders do not waste high-end systems on low-end targets.
+## Current Synthesis
+No single layer remains decisive because attackers adapt. [[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] shows why jamming, classification, and cheaper physical defenses must protect scarce strategic interceptors. [[drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e]] adds jet-powered [[Shahed136|Shahed-style drones]], which require faster small interceptors while ballistic missiles still demand Patriot-class or European alternatives.
 
 ## Key Claims
-- Jamming can work against some commercial drones, but attackers can adapt the control link.
-- Physical interception, electronic warfare, sensors, classification, and command decisions need to operate as layers.
-- Short-range, lower-cost defenses are important because expensive strategic air-defense missiles are often mismatched against cheap drones.
-- Layered defense must expect continuing attacker adaptation rather than a final solved state.
+- Electronic disruption works only against systems whose control or navigation links remain vulnerable.
+- Decoys and mixed salvos make sensing, classification, and triage part of the defense itself.
+- Lower-cost physical layers are essential when attackers can produce large volumes of cheap drones.
+- Faster jet drones can force a new interceptor layer between legacy counter-drone systems and expensive missile defense.
+- Ballistic-missile defense remains a separate, slower, and more technically demanding scaling problem.
+- Layered defense is an adaptive production contest, not a one-time technical solution.
 
-## Connections
-- [[DroneDefenseEconomics]] - cost discipline behind layered defense.
-- [[LowCostDroneWarfare]] and [[CommercialOffTheShelfWeaponization]] - threat pattern and adaptation source.
-- [[DroneDecoyEconomics]] - decoys that complicate classification and engagement choices.
-- [[Shahed136]], [[Iran]], [[Russia]], [[Ukraine]], and [[Israel]] - main military context in the source.
+## Evidence
+### Electronic and cost-tier layering
+- [[tech-20260319-0319-mp-tech-pod-128-tech-20260319-0319-mp-tech-pod-128]] explains jamming limits, fiber-optic and antenna adaptation, decoy classification, and the mismatch between cheap drones and expensive long-range missiles.
 
+### Fast-interceptor and ballistic-defense layers
+- [[drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e]] says Ukraine has four or five fast-interceptor prototypes for jet-powered drones but may need years to field a domestic ballistic-missile-defense alternative.
+
+## Counterevidence & Qualifications
+- Prototype availability does not establish reliable mass production or combat effectiveness.
+- The sources do not specify one universal architecture; terrain, threat mix, industrial capacity, and available allies change the appropriate layers.
+
+## What Changed
+- Added a fast jet-interceptor layer for newer Shahed variants.
+- Separated near-term counter-drone scaling from the longer ballistic-defense challenge.
+
+## Related Concepts
+- [[DroneDefenseEconomics]] - cost discipline governing engagement choices.
+- [[LowCostDroneWarfare]] - volume and adaptation pressure the layers answer.
+- [[DroneDecoyEconomics]] - false-target pressure on sensing and magazines.
+- [[UkrainianDefenseIndustrialScaling]] - production route for expanding interceptor supply.
+- [[AirDefenseSaturation]] - combined-salvo condition that can overwhelm the full stack.

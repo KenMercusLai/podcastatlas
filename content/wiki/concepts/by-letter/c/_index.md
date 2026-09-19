@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7536
+wiki_total_pages: 7541
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "CivilWarThreatRhetoric"
     title: "Civil-War Threat Rhetoric"
     url: "/wiki/concepts/civilwarthreatrhetoric/"
+  - key: "CivilianInfrastructureAirCampaign"
+    title: "Civilian Infrastructure Air Campaign"
+    url: "/wiki/concepts/civilianinfrastructureaircampaign/"
   - key: "CivilizationAsDeception"
     title: "Civilization As Deception"
     url: "/wiki/concepts/civilizationasdeception/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10208
+wiki_total_pages: 10213
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "MrGameShowFlorida"
     title: "Mr. Game Show Florida"
     url: "/wiki/entities/mrgameshowflorida/"
+  - key: "MsMagazine"
+    title: "Ms. Magazine"
+    url: "/wiki/entities/msmagazine/"
   - key: "MtGox"
     title: "Mt. Gox"
     url: "/wiki/entities/mtgox/"

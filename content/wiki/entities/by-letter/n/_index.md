@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10208
+wiki_total_pages: 10213
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "NelsonMandela"
     title: "Nelson Mandela"
     url: "/wiki/entities/nelsonmandela/"
+  - key: "NemesisDroneUnit"
+    title: "Nemesis Drone Unit"
+    url: "/wiki/entities/nemesisdroneunit/"
   - key: "NeMoCloud"
     title: "NeMo Cloud"
     url: "/wiki/entities/nemocloud/"

@@ -4387,6 +4387,10 @@
     "title": "Alcohol as Power Catalyst / 酒作为权力催化剂",
     "url": "/wiki/concepts/alcoholaspowercatalyst/"
   },
+  "AlcoholDemandReset": {
+    "title": "Alcohol Demand Reset",
+    "url": "/wiki/concepts/alcoholdemandreset/"
+  },
   "Aldhani": {
     "title": "Aldhani",
     "url": "/wiki/entities/aldhani/"
@@ -4470,6 +4474,10 @@
   "AlexTheatre": {
     "title": "Alex Theatre",
     "url": "/wiki/entities/alextheatre/"
+  },
+  "AlexTurnerEconomist": {
+    "title": "Alex Turner (Economist defence editor)",
+    "url": "/wiki/entities/alexturnereconomist/"
   },
   "AlexZhu": {
     "title": "Alex Zhu",
@@ -10127,6 +10135,10 @@
     "title": "Campaign Spending Arms Race",
     "url": "/wiki/concepts/campaignspendingarmsrace/"
   },
+  "Campari": {
+    "title": "Campari",
+    "url": "/wiki/entities/campari/"
+  },
   "CampbellLaw": {
     "title": "Campbell's Law",
     "url": "/wiki/concepts/campbelllaw/"
@@ -13082,6 +13094,10 @@
   "CivilWarThreatRhetoric": {
     "title": "Civil-War Threat Rhetoric",
     "url": "/wiki/concepts/civilwarthreatrhetoric/"
+  },
+  "CivilianInfrastructureAirCampaign": {
+    "title": "Civilian Infrastructure Air Campaign",
+    "url": "/wiki/concepts/civilianinfrastructureaircampaign/"
   },
   "CivilizationAsDeception": {
     "title": "Civilization As Deception",
@@ -22031,6 +22047,10 @@
     "title": "Feminist Fairy-Tale Rewriting / 女性主义童话改写",
     "url": "/wiki/concepts/feministfairytalerewriting/"
   },
+  "FeministMediaInstitutionBuilding": {
+    "title": "Feminist Media Institution-Building",
+    "url": "/wiki/concepts/feministmediainstitutionbuilding/"
+  },
   "FenJingyuan": {
     "title": "焚景源",
     "url": "/wiki/entities/fenjingyuan/"
@@ -25546,6 +25566,10 @@
   "GlobeTheatre": {
     "title": "Globe Theatre / 环球剧院",
     "url": "/wiki/entities/globetheatre/"
+  },
+  "GloriaSteinem": {
+    "title": "Gloria Steinem",
+    "url": "/wiki/entities/gloriasteinem/"
   },
   "GluteMediusPelvicControl": {
     "title": "Glute Medius Pelvic Control",
@@ -42927,6 +42951,10 @@
     "title": "Mr. Game Show Florida",
     "url": "/wiki/entities/mrgameshowflorida/"
   },
+  "MsMagazine": {
+    "title": "Ms. Magazine",
+    "url": "/wiki/entities/msmagazine/"
+  },
   "MtGox": {
     "title": "Mt. Gox",
     "url": "/wiki/entities/mtgox/"
@@ -43818,6 +43846,10 @@
   "NelsonMandela": {
     "title": "Nelson Mandela",
     "url": "/wiki/entities/nelsonmandela/"
+  },
+  "NemesisDroneUnit": {
+    "title": "Nemesis Drone Unit",
+    "url": "/wiki/entities/nemesisdroneunit/"
   },
   "NeoCloud": {
     "title": "Neo Cloud",
@@ -49062,6 +49094,10 @@
   "PremiumHaircareMarket": {
     "title": "Premium Haircare Market / 高端洗护市场",
     "url": "/wiki/concepts/premiumhaircaremarket/"
+  },
+  "PremiumReadyToDrinkAlcohol": {
+    "title": "Premium Ready-to-Drink Alcohol",
+    "url": "/wiki/concepts/premiumreadytodrinkalcohol/"
   },
   "PreoperativeAnesthesiaAssessment": {
     "title": "Preoperative Anesthesia Assessment / 术前麻醉评估",
@@ -63431,6 +63467,10 @@
     "title": "Ukraine Military Command Reform",
     "url": "/wiki/concepts/ukrainemilitarycommandreform/"
   },
+  "UkrainianDefenseIndustrialScaling": {
+    "title": "Ukrainian Defense-Industrial Scaling",
+    "url": "/wiki/concepts/ukrainiandefenseindustrialscaling/"
+  },
   "UlrichBeck": {
     "title": "Ulrich Beck / 乌尔里希·贝克",
     "url": "/wiki/entities/ulrichbeck/"
@@ -73270,6 +73310,10 @@
   "dont-hate-the-replicator-hate-the-game": {
     "title": "Don't hate the replicator, hate the game",
     "url": "/wiki/sources/dont-hate-the-replicator-hate-the-game/"
+  },
+  "drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e": {
+    "title": "Drone truth: Russia has the upper hand",
+    "url": "/wiki/sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e/"
   },
   "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop": {
     "title": "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！",

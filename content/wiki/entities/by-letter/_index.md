@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10208
+wiki_total_pages: 10213
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "AlexTheatre"
     title: "Alex Theatre"
     url: "/wiki/entities/alextheatre/"
+  - key: "AlexTurnerEconomist"
+    title: "Alex Turner (Economist defence editor)"
+    url: "/wiki/entities/alexturnereconomist/"
   - key: "AlexZhu"
     title: "Alex Zhu"
     url: "/wiki/entities/alexzhu/"

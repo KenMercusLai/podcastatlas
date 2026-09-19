@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7536
+wiki_total_pages: 7541
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1526,6 +1526,9 @@ wiki_pages:
   - key: "AlcoholAsPowerCatalyst"
     title: "Alcohol as Power Catalyst / 酒作为权力催化剂"
     url: "/wiki/concepts/alcoholaspowercatalyst/"
+  - key: "AlcoholDemandReset"
+    title: "Alcohol Demand Reset"
+    url: "/wiki/concepts/alcoholdemandreset/"
   - key: "AlgorithmAversion"
     title: "Algorithm Aversion"
     url: "/wiki/concepts/algorithmaversion/"
