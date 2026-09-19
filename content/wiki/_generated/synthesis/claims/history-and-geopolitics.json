@@ -476,9 +476,29 @@
         "AbyssinianExpedition1868",
         "Abyssinia"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "tian-chou-earned-reward-refusal-reconciles-motive-and-incentive",
+      "qualifications": [
+        "The four-order count, five-hundred-household fief, yilang-as-adviser analogy, move to Ye, age at death, and management-incentive framing remain source-scoped to a short popular-history episode.",
+        "The claim distinguishes refusal of an earned award from rejection of an unearned or illegitimate title."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb|Hanji 1110]] links [[LulongRoadLateHan|Lulong Road]] expertise to an earned but refused marquisate: [[CaoCao|Cao Cao]] treats visible reward as system credibility, while [[TianChou|Tian Chou]] protects a service-first motive, and the yilang appointment changes recognition form after repeated pressure fails.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb",
+        "TianChou",
+        "CaoCao",
+        "LulongRoadLateHan",
+        "EarnedRewardRefusal",
+        "MeritBasedRewardPunishment",
+        "XiahouDun",
+        "Wuhuan"
+      ]
     }
   ],
   "input_digest": "27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34",
-  "summary": "The newest layer in this topic is the completed 1868 Abyssinian campaign: Derby's cabinet treats a chained consul and missionaries as a test of imperial credibility, [[RobertNapier|Napier]] buys passage and weekly supplies from [[RasKassa|Ras Kassa]], lands 13,000 soldiers with 20 miles of railway track and 44 elephants, pays in Maria Theresa talers, breaks [[TeodrosII|Theodros II]]'s charge with continuous breech-loading fire at [[Magdala]], loots and auctions the citadel, and withdraws with the hostages while leaving [[Abyssinia]] leaderless for about twenty years. Hanji 445 otherwise still supplies the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.",
+  "summary": "Hanji 1110 adds a late-Han reward-and-route layer: [[TianChou|Tian Chou]] turns local knowledge of [[LulongRoadLateHan|Lulong Road]] into Wuhuan-campaign value, then refuses repeated enfeoffment because service motive and public reward signaling point in different directions; the yilang compromise changes the reward form rather than denying the merit. The completed 1868 Abyssinian campaign remains the newest large comparative arc, while the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.",
   "topic_id": "history-and-geopolitics"
 }

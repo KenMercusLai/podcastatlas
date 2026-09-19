@@ -19990,3 +19990,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-fo
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？
+
+Added source `zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb`; created `LulongRoadLateHan` and `EarnedRewardRefusal`; migrated and updated `TianChou` with the Lulong Road contribution, repeated marquisate refusal, and yilang compromise; normalized the display name from “田筹” to “田畴”; and updated `index.md` and `overview.md`. Core synthesis: Tian Chou's refusal does not deny his merit but protects a service-first identity, while Cao Cao's insistence reflects the institutional need to make contribution visibly consequential; changing the reward form resolves the conflict more effectively than repeating the original offer. No settled contradiction found; the four-order count, fief size, management-incentive interpretation, yilang analogy, move to Ye, and age at death remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

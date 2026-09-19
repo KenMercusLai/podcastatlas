@@ -3,16 +3,16 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-17
-as_of_overview_commit: e780e4ee66d6ff7c31f8fb9620c9e277251b9eea
-input_digest: 00487b0efda2d3ba0fead068956077501697f64211016b9bfcd2c4909d5ad92b
+last_updated: 2026-09-19
+as_of_overview_commit: 969936d700cc8dc066f27b31f7649fe5927319fe
+input_digest: ef86889994aa9bf9f548eda2cf45744abe5b7e2e1f9b0fec6c8c1e59a19d1e45
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The newest layer in this topic is the completed 1868 Abyssinian campaign: Derby's cabinet treats a chained consul and missionaries as a test of imperial credibility, [[RobertNapier|Napier]] buys passage and weekly supplies from [[RasKassa|Ras Kassa]], lands 13,000 soldiers with 20 miles of railway track and 44 elephants, pays in Maria Theresa talers, breaks [[TeodrosII|Theodros II]]'s charge with continuous breech-loading fire at [[Magdala]], loots and auctions the citadel, and withdraws with the hostages while leaving [[Abyssinia]] leaderless for about twenty years. Hanji 445 otherwise still supplies the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
+Hanji 1110 adds a late-Han reward-and-route layer: [[TianChou|Tian Chou]] turns local knowledge of [[LulongRoadLateHan|Lulong Road]] into Wuhuan-campaign value, then refuses repeated enfeoffment because service motive and public reward signaling point in different directions; the yilang compromise changes the reward form rather than denying the merit. The completed 1868 Abyssinian campaign remains the newest large comparative arc, while the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.
 
 ## Cross-source Findings
 
@@ -282,3 +282,14 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 
 - The prestige-first reading of the cabinet is the hosts' interpretation rather than a documented cabinet minute.
 - The twenty-year Abyssinian collapse and the counterfactual that correspondence could have prevented the war are the source's compressed synthesis, not settled historiography.
+
+### Tian Chou Earned Reward Refusal Reconciles Motive And Incentive
+
+[[zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb|Hanji 1110]] links [[LulongRoadLateHan|Lulong Road]] expertise to an earned but refused marquisate: [[CaoCao|Cao Cao]] treats visible reward as system credibility, while [[TianChou|Tian Chou]] protects a service-first motive, and the yilang appointment changes recognition form after repeated pressure fails.
+
+**Evidence:** [[zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb]], [[TianChou]], [[CaoCao]], [[LulongRoadLateHan]], [[EarnedRewardRefusal]], [[MeritBasedRewardPunishment]], [[XiahouDun]], [[Wuhuan]]
+
+**Qualifications:**
+
+- The four-order count, five-hundred-household fief, yilang-as-adviser analogy, move to Ye, age at death, and management-incentive framing remain source-scoped to a short popular-history episode.
+- The claim distinguishes refusal of an earned award from rejection of an unearned or illegitimate title.

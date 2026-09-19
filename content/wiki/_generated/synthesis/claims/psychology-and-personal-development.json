@@ -1664,10 +1664,28 @@
         "DaigouChannel",
         "BondedWarehouseCrossBorderImport"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "tian-chou-earned-reward-refusal-separates-service-from-status",
+      "qualifications": [
+        "This is a historical narrative about motive, status, and self-command, not a universal psychological law or clinical finding.",
+        "The inner motive and modern incentive framing remain source-scoped interpretations."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb|Hanji 1110]] adds a historical self-command case through [[EarnedRewardRefusal|earned reward refusal]]: [[TianChou|Tian Chou]] distinguishes willingness to contribute from willingness to accept status, and failed persuasion by [[XiahouDun|Xiahou Dun]] shows that repeated recognition can become coercive when it conflicts with a service-first identity.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb",
+        "EarnedRewardRefusal",
+        "TianChou",
+        "XiahouDun",
+        "CaoCao",
+        "MeritBasedRewardPunishment"
+      ]
     }
   ],
   "input_digest": "6e78b64155a0ebfd321b0fcb219ea4b666757c0e97bed051b8ec42eb88792fcf",
-  "summary": "Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The same supplement source adds a belief-formation case through [[ConstructedCategoryTrust]]: pharmacy presence, assumed strict regulation, assumed effectiveness, and assumed national competence chain into an obvious conclusion, so the domain gains a reminder that trust can be manufactured from plausible facts plus a strong distribution mechanism instead of being tested against outcomes.",
+  "summary": "Hanji 1110 adds a historical motivation-and-boundary case: [[TianChou|Tian Chou]] accepts danger, work, and responsibility but refuses a deserved marquisate because acceptance would recast service as title-seeking, while the institutional incentive concern shows why an individual boundary can still create an organizational problem. Psychology and personal-development sources otherwise continue to converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation, with historical cases kept source-scoped rather than treated as clinical laws.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

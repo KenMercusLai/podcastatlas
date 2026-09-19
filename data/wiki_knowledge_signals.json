@@ -29647,6 +29647,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/earlyrestorationcoalitionintegration/"
     },
+    "EarnedRewardRefusal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？ [ln8ZkBLsgq3zi7kRRHGjPnB4MoKb].md",
+          "key": "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/earnedrewardrefusal/"
+    },
     "EarthObservationAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -68645,6 +68661,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lulinglatehan/"
     },
+    "LulongRoadLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？ [ln8ZkBLsgq3zi7kRRHGjPnB4MoKb].md",
+          "key": "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/lulongroadlatehan/"
+    },
     "LumbarDiscHerniation": {
       "episode_count": 1,
       "show_count": 1,
@@ -105794,6 +105826,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/thulesociety/"
+    },
+    "TianChou": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真 [lvawRCAnDBh628RcKukOSGArH7v2].md",
+          "key": "zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？ [ln8ZkBLsgq3zi7kRRHGjPnB4MoKb].md",
+          "key": "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/tianchou/"
     },
     "TianFengLateHan": {
       "episode_count": 6,

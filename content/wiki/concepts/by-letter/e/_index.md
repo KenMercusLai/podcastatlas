@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7525
+wiki_total_pages: 7526
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "EarnedOptimism"
     title: "Earned Optimism / 走出来的乐天"
     url: "/wiki/concepts/earnedoptimism/"
+  - key: "EarnedRewardRefusal"
+    title: "Earned Reward Refusal / 有功辞赏"
+    url: "/wiki/concepts/earnedrewardrefusal/"
   - key: "EarningsExpectationGap"
     title: "Earnings Expectation Gap"
     url: "/wiki/concepts/earningsexpectationgap/"

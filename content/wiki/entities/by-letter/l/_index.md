@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10192
+wiki_total_pages: 10193
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1292,6 +1292,9 @@ wiki_pages:
   - key: "LuFangEasternHan"
     title: "卢芳 / Lu Fang (Eastern Han)"
     url: "/wiki/entities/lufangeasternhan/"
+  - key: "LulongRoadLateHan"
+    title: "卢龙道 / Lulong Road (Late Han)"
+    url: "/wiki/entities/lulongroadlatehan/"
   - key: "LiuJuCrownPrinceWesternHan"
     title: "卫太子刘据 / Liu Ju, Crown Prince of Western Han"
     url: "/wiki/entities/liujucrownprincewesternhan/"

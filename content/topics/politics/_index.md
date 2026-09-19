@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2548
+topic_total_pages: 2549
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1030,6 +1030,9 @@ topic_concepts:
   - key: "EarlyWarringStatesInterstateWar"
     title: "Early Warring States Interstate War / 战国早期诸侯混战"
     url: "/wiki/concepts/earlywarringstatesinterstatewar/"
+  - key: "EarnedRewardRefusal"
+    title: "Earned Reward Refusal / 有功辞赏"
+    url: "/wiki/concepts/earnedrewardrefusal/"
   - key: "EastWestEmperorDiplomaticProbe"
     title: "East-West Emperor Diplomatic Probe / 东西二帝试探"
     url: "/wiki/concepts/eastwestemperordiplomaticprobe/"

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-19
-as_of_overview_commit: af64ab61324e865d7b70b86d802bd42cd6b97ebd
+as_of_overview_commit: 969936d700cc8dc066f27b31f7649fe5927319fe
 summary: "Podcast Atlas maps how claims become grounded systems: durable value depends on evidence, workflows, trust, practical capacity, causal inquiry, and explicit boundaries."
-episode_count: 2495
-source_count: 2495
-paragraph_count: 629
+episode_count: 2496
+source_count: 2496
+paragraph_count: 630
 topic_count: 8
 ---
 
@@ -57,14 +57,14 @@ Institutions work through state capacity, legitimacy, information flow, implemen
 
 ### History and Geopolitics
 
-Historical power repeatedly follows routes, logistics, material control, legitimacy, military organization, diplomatic access, and the capacity to convert victory into order.
+Historical power follows routes, logistics, material control, legitimacy, and the capacity to convert victory and contribution into durable order; Tian Chou adds a case where changing reward form reconciles public merit signaling with principled refusal.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
 
 ### Psychology and Personal Development
 
-Personal change is grounded in embodied regulation, relational safety, calibrated action, self-understanding, support, and clear limits around clinical interpretation.
+Personal change is grounded in embodied regulation, relational safety, calibrated action, self-understanding, and clear boundaries; Tian Chou adds a source-scoped case separating willingness to serve from willingness to accept status.
 
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
 - [[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof. Evidence: [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]].

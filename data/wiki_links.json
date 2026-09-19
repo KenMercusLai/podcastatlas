@@ -19071,6 +19071,10 @@
     "title": "Earned Optimism / 走出来的乐天",
     "url": "/wiki/concepts/earnedoptimism/"
   },
+  "EarnedRewardRefusal": {
+    "title": "Earned Reward Refusal / 有功辞赏",
+    "url": "/wiki/concepts/earnedrewardrefusal/"
+  },
   "EarningsExpectationGap": {
     "title": "Earnings Expectation Gap",
     "url": "/wiki/concepts/earningsexpectationgap/"
@@ -38914,6 +38918,10 @@
   "LulingLateHan": {
     "title": "庐陵 / Luling (late Han)",
     "url": "/wiki/entities/lulinglatehan/"
+  },
+  "LulongRoadLateHan": {
+    "title": "卢龙道 / Lulong Road (Late Han)",
+    "url": "/wiki/entities/lulongroadlatehan/"
   },
   "Lululemon": {
     "title": "Lululemon",
@@ -61700,7 +61708,7 @@
     "url": "/wiki/entities/tianchang/"
   },
   "TianChou": {
-    "title": "田筹 / Tian Chou",
+    "title": "田畴 / Tian Chou",
     "url": "/wiki/entities/tianchou/"
   },
   "TianDan": {
@@ -76942,6 +76950,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb": {
+    "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
   },
   "zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo": {
     "title": "《资治通鉴·汉纪》139｜“他”再次影响“汉朝”",

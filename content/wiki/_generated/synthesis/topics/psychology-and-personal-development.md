@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-17
-as_of_overview_commit: 32f8a4aa15a77ca40d8f1d87660e61e7ab945fa5
-input_digest: 6e78b64155a0ebfd321b0fcb219ea4b666757c0e97bed051b8ec42eb88792fcf
+last_updated: 2026-09-19
+as_of_overview_commit: 969936d700cc8dc066f27b31f7649fe5927319fe
+input_digest: 0b7ed14b2fb3620d56e18685c99b8e9aae12d01ccd265c1d3046c3b545447bcb
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The same supplement source adds a belief-formation case through [[ConstructedCategoryTrust]]: pharmacy presence, assumed strict regulation, assumed effectiveness, and assumed national competence chain into an obvious conclusion, so the domain gains a reminder that trust can be manufactured from plausible facts plus a strong distribution mechanism instead of being tested against outcomes.
+Hanji 1110 adds a historical motivation-and-boundary case: [[TianChou|Tian Chou]] accepts danger, work, and responsibility but refuses a deserved marquisate because acceptance would recast service as title-seeking, while the institutional incentive concern shows why an individual boundary can still create an organizational problem. Psychology and personal-development sources otherwise continue to converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation, with historical cases kept source-scoped rather than treated as clinical laws.
 
 ## Cross-source Findings
 
@@ -953,3 +953,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - The episode reconstructs the inference chain interpretively and offers no consumer research on how widely the belief is held.
 - Origin-country signals are not meaningless: the source says the tradition, industry, and regulator behind the reputation are real.
+
+### Tian Chou Earned Reward Refusal Separates Service From Status
+
+[[zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb|Hanji 1110]] adds a historical self-command case through [[EarnedRewardRefusal|earned reward refusal]]: [[TianChou|Tian Chou]] distinguishes willingness to contribute from willingness to accept status, and failed persuasion by [[XiahouDun|Xiahou Dun]] shows that repeated recognition can become coercive when it conflicts with a service-first identity.
+
+**Evidence:** [[zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb]], [[EarnedRewardRefusal]], [[TianChou]], [[XiahouDun]], [[CaoCao]], [[MeritBasedRewardPunishment]]
+
+**Qualifications:**
+
+- This is a historical narrative about motive, status, and self-command, not a universal psychological law or clinical finding.
+- The inner motive and modern incentive framing remain source-scoped interpretations.

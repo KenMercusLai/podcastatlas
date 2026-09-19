@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？](sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb.md) — 芮淇讲透资治通鉴 episode on Tian Chou's Lulong Road contribution, fourfold refusal of Cao Cao's enfeoffment, Xiahou Dun's failed persuasion, and the yilang compromise.
 - [Bill Gurley: Searching for Feynman](sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628.md) — All-In presentation comparing catastrophic-failure investigations with the unresolved origin of COVID-19 through CAPA, independent inquiry, conflicts of interest, scientific politicization, and explicit uncertainty between spillover and laboratory-accident hypotheses.
 - [Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media](sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328.md) — All-In interview on Nick Shirley's audience-funded fraud investigations, California high-speed rail cost and delivery claims, AB 2624, platform distribution, security risk, and the distinction between criminal fraud and legally structured waste.
 - [Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924.md) — Huberman Lab Essentials episode with Dr. Andy Galpin on the nine physiological adaptations, gold-standard versus do-it-yourself fitness tests, FFMI and heart-rate recovery benchmarks, and the annual testing week.
@@ -2503,6 +2504,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Difficult northern approach proposed by Tian Chou for Cao Cao's surprise movement against Wuhuan.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
 - [Kiyoshi Kurokawa](entities/KiyoshiKurokawa.md) — Fukushima commission leader used as a model for conflict-free membership, public-safety focus, authority, and transparent findings.
 - [DRASTIC](entities/DRASTIC.md) — Decentralized COVID-origin research collective praised in the source for scientific sharing and surfacing the DEFUSE proposal.
@@ -5245,7 +5247,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
 - [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority whose supply dispute with Gongsun Zan precedes the failed humane attack, execution, and anti-Gongsun legitimacy backlash.
 - [张岐 / Zhang Qi (Late Han)](entities/ZhangQiLateHan.md) — Former Lelang administrator sent by Yuan Shao and Han Fu to offer Liu Yu the imperial title in Hanji 954.
-- [田筹 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist who carries a covert memorial to Emperor Xian, rebukes Gongsun Zan, and builds a legal frontier settlement in Xu Wu Mountain.
+- [田畴 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist, Xu Wu Mountain order-builder, Lulong Road guide, and principled refuser of Cao Cao's repeated enfeoffment.
 - [段迅 / Duan Xun (Late Han)](entities/DuanXunLateHan.md) — Court envoy whose edict for Liu Yu and Gongsun Zan is overwhelmed by Gongsun Zan's coercive accusation and execution scene.
 - [居庸关 / Juyong Pass](entities/JuyongPass.md) — Youzhou pass used as Liu Yu's failed refuge and Tian Chou's frontier route toward the Han court.
 - [右北平 / Youbeiping Commandery](entities/YoubeipingCommandery.md) — Frontier commandery associated with Tian Chou's local credibility and Youzhou route setting.
@@ -12700,6 +12702,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Earned Reward Refusal / 有功辞赏](concepts/EarnedRewardRefusal.md) — Tension between a contributor's principled refusal of deserved reward and an organization's need to keep merit recognition credible.
 - [Catastrophic Failure Root-Cause Investigation](concepts/CatastrophicFailureRootCauseInvestigation.md) — Independent, overlapping inquiry into technical and institutional causes before corrective and preventive action.
 - [CAPA / Corrective and Preventive Action](concepts/CAPACorrectivePreventiveAction.md) — Failure-response sequence of detection, investigation, root-cause confirmation, correction, and prevention.
 - [Investigation Conflict of Interest](concepts/InvestigationConflictOfInterest.md) — Risk that actors connected to a disputed activity become gatekeepers of the inquiry into whether it contributed to failure.
