@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c921e7bd30f62220c46d4b45adb2bf9184bb4eb5a80d451261180c1997b0605a",
       "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
       "2b816089923cf7090afa1e95d309fdadaa4240a8e8d2fb3f7f0d39c892a7ab90",
       "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
@@ -640,11 +641,36 @@
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73"
     ],
-    "paragraph_count": 638
+    "paragraph_count": 639
   },
-  "overview_commit": "0efd5739dc53b8c53c0bd6d6eba0a80b3c4ddebf",
-  "overview_digest": "01d0fb809c55a92a8f5d786067c0e17d03041b27faf8f51a9fb2de5465b430fa",
+  "overview_commit": "a8660d98f3c9b752b021a67925e056efe3833699",
+  "overview_digest": "120ec061bb3a34152c10c6fc240d9ce7738a0f05b76c285cdebf6d8140e10af2",
   "paragraphs": [
+    {
+      "id": "c921e7bd30f62220c46d4b45adb2bf9184bb4eb5a80d451261180c1997b0605a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the alliance-opening layer after [[ChangbanBattle|长坂坡之战]] and before the later Red Cliffs surrender debate. It adds [[ZhugeJin|诸葛瑾]], [[WuJuLateHan|吴巨]], [[ChangbanBattle|长坂坡之战]], [[FacePreservingAlliancePersuasion|保全体面的结盟说服]], and [[LongzhongPlan|隆中对]], while extending [[LiuBei|刘备]], [[LuSu|鲁肃]], [[SunQuan|孙权]], and [[ZhugeLiang|诸葛亮]]. Its core synthesis is that Lu Su makes a necessary dependency acceptable by contrasting Sun Quan's capacity with Wu Ju's weak refuge, describing coalition as common enterprise, and using Zhuge Jin's relationship as a trust bridge; the episode further reads the move as an alliance-first revision of the Longzhong sequence. No settled contradiction is recorded; participants' inner reactions, precise rhetorical intent, Wu Ju's capacity, the original Longzhong ordering, and the disconnected mother-money typology remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "ChangbanBattle",
+        "FacePreservingAlliancePersuasion",
+        "LiuBei",
+        "LongzhongPlan",
+        "LuSu",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunQuan",
+        "WuJuLateHan",
+        "ZhugeJin",
+        "ZhugeLiang",
+        "zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq"
+      ]
+    },
     {
       "id": "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
       "primary_topic": "work-education-and-society",

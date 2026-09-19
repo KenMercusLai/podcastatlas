@@ -20134,3 +20134,11 @@ Added source `zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？
+
+Added source `zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq`; created `ZhugeJin`, `WuJuLateHan`, `ChangbanBattle`, `FacePreservingAlliancePersuasion`, and `LongzhongPlan`; migrated and updated `LiuBei` and `ZhugeLiang`; updated `LuSu`, `SunQuan`, `index.md`, and `overview.md`. Core synthesis: after Changban, Lu Su redirects Liu Bei from the weak Wu Ju fallback toward Sun Quan by combining capacity contrast, equal-partnership language, and Zhuge Jin's relationship bridge, while the episode interprets the move as an alliance-first revision of the Longzhong sequence. No settled contradiction found; inner reactions, precise rhetorical intent, Wu Ju's capacity, Longzhong ordering, and the disconnected mother-money typology remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

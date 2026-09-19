@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？](sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq.md) — 长坂坡兵败后，鲁肃以实力对比、平等合作话术和诸葛瑾关系桥梁推动刘备转向孙权联盟。
 - [《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？](sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv.md) — 曹操“会猎”威胁下，张昭以名分与水军劝降，鲁肃则揭示臣子与主公投降后果的不对称。
 - [《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？](sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz.md) — 曹操从家族支持下入仕、两次回谯与陈留起盘的早期仕途重构。
 - [《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？](sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny.md) — 曹操以陈留庇护、宗族兵源、屯田供给和跨阵营人才吸附建立早期组织能力的回顾。
@@ -2523,6 +2524,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
+- [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
+- [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 使刘备失去稳固去处并催生孙刘联盟提案的败局背景。
 - [马超 / Ma Chao](entities/MaChao.md) — Guanzhong coalition figure whose Weinan defeat is framed through the gap between military concentration and political cohesion.
 - [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
@@ -12751,6 +12755,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Face-Preserving Alliance Persuasion / 保全体面的结盟说服](concepts/FacePreservingAlliancePersuasion.md) — 通过伙伴价值对比、平等合作话术和私人信任桥梁，让弱势方接受必要联盟。
+- [Longzhong Plan / 隆中对](concepts/LongzhongPlan.md) — 诸葛亮为刘备构想的战略框架，本源在此聚焦联合孙权与夺取荆州的次序调整。
 - [Role-Asymmetric Surrender Incentives / 身份不对称的投降激励](concepts/RoleAsymmetricSurrenderIncentives.md) — Different capitulation payoffs for portable officials and the ruler whose independent authority must be neutralized.
 - [制度性退场升级 / Institutional Exit Escalation](concepts/InstitutionalExitEscalation.md) — Distinguishes imposed dismissal, preventive resignation, and an independent-base break.
 - [Verifiable Intent / 可验证意图](concepts/VerifiableIntent.md) — Durable semantic record of what a user authorized an agent to accomplish and under which constraints.

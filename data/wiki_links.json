@@ -11183,6 +11183,10 @@
     "title": "Chang'an Town / 长安镇",
     "url": "/wiki/entities/changantown/"
   },
+  "ChangbanBattle": {
+    "title": "长坂坡之战 / Battle of Changban",
+    "url": "/wiki/entities/changbanbattle/"
+  },
   "ChangdehaokanNengDangFanChiMa": {
     "title": "《长得好看能当饭吃吗》",
     "url": "/wiki/entities/changdehaokannengdangfanchima/"
@@ -21266,6 +21270,10 @@
   "Fabletics": {
     "title": "Fabletics",
     "url": "/wiki/entities/fabletics/"
+  },
+  "FacePreservingAlliancePersuasion": {
+    "title": "Face-Preserving Alliance Persuasion / 保全体面的结盟说服",
+    "url": "/wiki/concepts/facepreservingalliancepersuasion/"
   },
   "FaceProjectGovernance": {
     "title": "Face-Project Governance / 面子工程式治理",
@@ -38430,6 +38438,10 @@
   "LongyuanPower": {
     "title": "Longyuan Power / 龙源电力",
     "url": "/wiki/entities/longyuanpower/"
+  },
+  "LongzhongPlan": {
+    "title": "Longzhong Plan / 隆中对",
+    "url": "/wiki/concepts/longzhongplan/"
   },
   "LookalikePublisherOutreach": {
     "title": "Lookalike Publisher Outreach",
@@ -67151,6 +67163,10 @@
     "title": "吴敬梓",
     "url": "/wiki/entities/wujingzi/"
   },
+  "WuJuLateHan": {
+    "title": "吴巨 / Wu Ju (late Han)",
+    "url": "/wiki/entities/wujulatehan/"
+  },
   "WuJunIndieGameCreator": {
     "title": "巫君 / Wu Jun (indie game creator)",
     "url": "/wiki/entities/wujunindiegamecreator/"
@@ -72319,6 +72335,10 @@
     "title": "诸葛丰 / Zhuge Feng (Western Han)",
     "url": "/wiki/entities/zhugefengwesternhan/"
   },
+  "ZhugeJin": {
+    "title": "诸葛瑾 / Zhuge Jin",
+    "url": "/wiki/entities/zhugejin/"
+  },
   "ZhugeLiang": {
     "title": "诸葛亮 / Zhuge Liang",
     "url": "/wiki/entities/zhugeliang/"
@@ -77214,6 +77234,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq": {
+    "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq/"
   },
   "zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv": {
     "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",

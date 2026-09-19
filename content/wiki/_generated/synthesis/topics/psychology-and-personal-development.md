@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-19
-as_of_overview_commit: 969936d700cc8dc066f27b31f7649fe5927319fe
-input_digest: 0b7ed14b2fb3620d56e18685c99b8e9aae12d01ccd265c1d3046c3b545447bcb
+last_updated: 2026-09-20
+as_of_overview_commit: a8660d98f3c9b752b021a67925e056efe3833699
+input_digest: dc1c92b7ad2e6c3f121aa601298c091e3eb7d60be05b8d66795ef89d652a5494
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Hanji 1110 adds a historical motivation-and-boundary case: [[TianChou|Tian Chou]] accepts danger, work, and responsibility but refuses a deserved marquisate because acceptance would recast service as title-seeking, while the institutional incentive concern shows why an individual boundary can still create an organizational problem. Psychology and personal-development sources otherwise continue to converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation, with historical cases kept source-scoped rather than treated as clinical laws.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1099 adds a boundary case: its disconnected mother-money typology remains unverified public advice, while Lu Su's historical alliance pitch illustrates status-sensitive reframing without becoming a clinical law. Tian Chou's reward refusal remains a historical motivation-and-boundary case, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
 
 ## Cross-source Findings
 
@@ -964,3 +964,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - This is a historical narrative about motive, status, and self-command, not a universal psychological law or clinical finding.
 - The inner motive and modern incentive framing remain source-scoped interpretations.
+
+### Hanji 1099 Mother Money Typology Remains Source Scoped
+
+[[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|Hanji 1099]] enters personal development only with strict limits: its disconnected mother-money typology is not established psychological or financial evidence, while [[FacePreservingAlliancePersuasion]] is a historical illustration of status-sensitive reframing rather than a clinical rule.
+
+**Evidence:** [[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq]], [[FacePreservingAlliancePersuasion]]
+
+**Qualifications:**
+
+- The episode supplies no clinical evidence for treating complaint, avoidance, or control by a mother as a general cause of adult money behavior.
+- The opening segment is disconnected from the historical narrative and may be promotional material.

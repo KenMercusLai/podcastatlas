@@ -12,74 +12,55 @@ sources:
   - zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg
   - zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r
   - zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv
+  - zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq
 last_updated: 2026-09-20
 ---
 
 # 孙权 / Sun Quan
 
 ## Overview
-孙权 / Sun Quan is the younger Sun-family heir who turns from background family marker into a working Jiangdong successor after [[SunCe|孙策]]'s fatal wound. The current wiki profile covers his family base, mourning-period recognition, senior-adviser support, personnel judgment, internal threat suppression, refusal of [[CaoCao|曹操]]'s hostage-backed demand, county-level pacification, and the 208 CE surrender crisis in which [[LuSu|鲁肃]] makes Sun Quan's role-specific exposure explicit.
+孙权 / Sun Quan is the Sun-family successor who turns a fragile Jiangdong inheritance into an autonomous regional regime and, by Hanji 1099, becomes the stronger partner around whom a post-Changban coalition can form.
 
 ## Current Profile
-Sun Quan enters the source base as part of the [[SunJianLateHan|孙坚]] and [[LadyWuSunJian|吴夫人]] family trajectory, then becomes explicit successor when Sun Ce transfers the seal. Hanji 1045 shows the dangerous first moment: Sun Quan is grieving and afraid, and [[ZhangZhaoLateHan|张昭]] plus [[ZhouYuLateHan|周瑜]] must make his authority visible to the camps.
+Sun Quan begins inside the Sun Jian-Lady Wu family and resource network, then becomes explicit successor when [[SunCe|孙策]] transfers the seal. The first transition is collective rather than self-sufficient: [[ZhangZhaoLateHan|张昭]] turns grief into visible camp authority, [[ZhouYuLateHan|周瑜]] returns to support the center, [[ZhangHongLateHan|张纮]] discourages Cao Cao from attacking during mourning, and [[LadyWuSunJian|吴夫人]] helps authorize the new order.
 
-Hanji 1052 fills the layer between deathbed designation and later cleanup. [[ZhangHongLateHan|张纮]] prevents Cao Cao from attacking during Sun Quan's mourning and helps turn the moment into formal recommendation. Lady Wu entrusts Zhang Hong and Zhang Zhao with assisting the under-19 successor, [[DongXiLateHan|董袭]] reassures her that Jiangdong's geography and followers can hold, and Sun Quan shows early personnel judgment by trusting Zhang Hong despite court-appointment concerns and valuing [[LuSu|鲁肃]] despite Zhang Zhao's criticism.
+The successor gradually exercises independent judgment. He values [[LuSu|鲁肃]] despite criticism, promotes [[LyuMeng|吕蒙]] after inspecting troop quality, accepts [[LuoTong|骆统]]'s talent counsel, suppresses Sun Fu and Li Shu, and responds to Shanyue pressure by embedding commanders in counties and using He Qi's pacification to rebuild administration and extract troops. He also refuses Cao Cao's hostage demand after Zhou Yu and Lady Wu argue that Jiangdong has enough territory, grain, people, and force to preserve autonomy.
 
-Hanji 1058 adds an external autonomy test soon after this succession layer. Cao Cao demands that Sun Quan send a younger brother or son to court service, which the episode treats as a hostage demand. Sun Quan hesitates, consults Lady Wu and Zhou Yu, and accepts Zhou Yu's advice not to send a hostage because Jiangdong's six commanderies, troops, grain, and local stability make immediate subordination unnecessary. Lady Wu's endorsement turns the refusal into a household-authorized decision and tells Sun Quan to treat Zhou Yu like an elder brother.
-
-Hanji 1053 adds the next layer of independent rulership. Sun Quan inspects inherited commanders, promotes [[LyuMeng|吕蒙]] after seeing disciplined troops, and accepts [[LuoTong|骆统]]'s advice on honoring and observing worthies. The same episode also shows the hard side of consolidation: [[SunFuLateHan|孙辅]] secretly asks Cao Cao to intervene, and [[LiShuLateHan|李术]] turns [[LujiangCommandery|庐江]] into a resistance and defector-shelter point. Sun Quan answers by isolating Sun Fu and by attacking Li Shu after first cutting off Cao-side rescue.
-
-Hanji 1061 moves Sun Quan from succession housekeeping into Jiangdong field consolidation. He attacks [[HuangZu|黄祖]] westward and wins on the water, but Shanyue rebellion behind him forces withdrawal before the city falls. Sun Quan then sends officers into vulnerable counties, including [[LuFan|吕范]], [[TaishiCi|太史慈]], [[HuangGai|黄盖]], [[HanDang|韩当]], and Lyu Meng, while [[HeQiLateHan|贺齐]] suppresses larger Jian'an, Hanxing, and Nanping rebellions, rebuilds county seats, and extracts usable troops.
-
-Hanji 1101 adds the later crisis after Cao Cao takes Jingzhou and sends the “会猎” threat. [[ZhangZhaoLateHan|张昭]] argues that court legitimacy, Jingzhou's fleet, and the weakened exclusivity of the Yangtze barrier make resistance untenable. Lu Su privately identifies the decision's unequal stakes: ministers may survive and serve a new ruler, but Sun Quan's independent authority makes his dignity, freedom, and life specifically vulnerable. The episode ends before Sun Quan's decision, so this source establishes the reframing rather than the full Red Cliffs choice.
+Hanji 1099 supplies the external consequence of that consolidation. Lu Su can present Sun Quan to defeated [[LiuBei|刘备]] as a partner with six commanderies, troops, supplies, and a talent base, rather than merely another refuge. Hanji 1101 then tests the same autonomy under direct coercion: Zhang Zhao argues for surrender after Cao Cao takes Jingzhou, while Lu Su warns that Sun Quan's ruler status makes capitulation uniquely dangerous.
 
 ## Key Characteristics
-- Belongs to the Sun Jian-Lady Wu family trajectory that links Qiantang Wu resources to later Jiangdong rule.
-- Receives Sun Ce's seal after the assassination wound and initially needs senior advisers to turn grief into visible public authority.
-- Gains breathing room when Zhang Hong converts Cao Cao's attack impulse into recognition politics during the mourning period.
-- Relies on Lady Wu, Zhang Hong, Zhang Zhao, Dong Xi, and Zhou Yu for the social, civil, and military legibility of succession.
-- Preserves Jiangdong autonomy by accepting Zhou Yu and Lady Wu's advice to refuse Cao Cao's hostage demand.
-- Keeps independent personnel judgment when he trusts Zhang Hong and Lu Su despite doubts or criticism from senior figures.
-- Treats kinship, inherited office, military geography, and nominal group interest as insufficient guides; internal defectors, local resistance, and role-specific surrender risk all require independent judgment.
+- Inherits authority through a civil-military-family support structure rather than through designation alone.
+- Develops independent personnel judgment and can retain advisers whom senior figures criticize.
+- Preserves autonomy by refusing hostage-backed dependency on Cao Cao.
+- Consolidates rule through internal discipline, county pacification, administration, and military extraction.
+- Accumulates enough regional capacity to become the stronger partner in the Sun-Liu alliance opening.
+- Faces role-specific surrender risk because a ruler cannot carry office and autonomy into a new master's regime as easily as a minister can.
+- Combines consultative decision-making with coercive campaigns that carry civilian-harm qualifications.
 
 ## Evidence
-- Family origin and leverage environment: [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] introduces Sun Quan as one of Sun Jian and Lady Wu's sons, and [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] places his generation inside Cao Cao's recognition and court-service leverage environment around Sun Ce.
-- Successor designation and first stabilization: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] has Sun Ce hand the seal and ribbon to Sun Quan, compare their respective strengths, and then shows Zhang Zhao and Zhou Yu stabilizing the transition.
-- Mourning-period protection and recognition: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] has Zhang Hong persuade Cao Cao not to attack during Sun Quan's mourning; Cao instead recommends Sun Quan as 讨虏将军 and Kuaiji administrator.
-- Early support structure and personnel judgment: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] shows Lady Wu entrusting Zhang Hong and Zhang Zhao, Dong Xi reassuring her, Sun Quan trusting Zhang Hong, and Sun Quan valuing Lu Su after Zhou Yu's recommendation.
-- Hostage refusal and autonomy: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] shows Sun Quan deciding not to send a brother or son after Zhou Yu argues that doing so would bind Jiangdong to Cao Cao's commands and after Lady Wu endorses Zhou Yu.
-- Personnel recognition and advice intake: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] shows Sun Quan valuing Lu Su despite Zhang Zhao's criticism, promoting Lyu Meng after troop inspection, and accepting Luo Tong's advice on observing and honoring talent.
-- Internal threat suppression: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] records Sun Fu's secret appeal to Cao Cao, Sun Quan's punishment of Sun Fu's intimates, the breakup of Sun Fu's army, and the later Li Shu campaign at Lujiang.
-- Local pacification and administrative embedding: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] shows Sun Quan forced off the Huang Zu attack by Shanyue rebellion, then assigning officers to counties and sending He Qi to suppress major county uprisings, rebuild seats, and select troops.
-- Role-specific surrender exposure: [[zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv|Hanji 1101]] contrasts Zhang Zhao's regime-level capitulation case with Lu Su's warning that Sun Quan cannot assume the same post-surrender safety as his ministers.
+- Family and court-leverage setting: [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] places Sun Quan in the Sun-Jian/Lady-Wu resource trajectory; [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] places his generation inside Cao Cao's title and court-service leverage.
+- Succession and recognition: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] records the seal transfer and camp stabilization; [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] adds Zhang Hong's protection, formal recognition, and Lu Su's recommendation.
+- Autonomy and personnel judgment: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] shows the hostage refusal; [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] shows talent recognition and suppression of internal threats.
+- Territorial embedding: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] shows a failed Huang Zu attack followed by Shanyue pacification, county reconstruction, and troop selection.
+- Alliance value: [[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|Hanji 1099]] presents Sun Quan's territory, force, supplies, and talent concentration as the reason Liu Bei should choose Jiangdong over Wu Ju.
+- Surrender exposure: [[zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv|Hanji 1101]] contrasts Zhang Zhao's capitulation case with Lu Su's warning about the ruler's unique downside.
 
 ## Qualifications
-Sun Quan's early strength should not be flattened into a mature-ruler profile. Hanji 1045 still shows him dependent on Zhang Zhao and Zhou Yu during the first succession shock, while Hanji 1052 emphasizes that external restraint and senior support were necessary before his authority became durable. Hanji 1058 strengthens the autonomy claim but keeps it collective: Zhou Yu's analysis and Lady Wu's endorsement make the refusal politically possible. Hanji 1053 keeps coercion and civilian harm visible, especially in the Li Shu campaign, and Hanji 1061 shows that Jiangdong was not yet internally secure. Hanji 1101 is transcript-bounded: it ends before Lu Su completes his argument or Sun Quan decides, while Cao Cao's troop count and the host's claims about advisers' motives remain unverified within the episode.
+Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison rather than an independent audit of capacity, and Hanji 1101 ends before the final Red Cliffs decision.
 
 ## What Changed
-- Added the 208 CE surrender crisis as a later test of the autonomy built in the succession, hostage-refusal, and pacification stages.
-- Distinguished the ministers' possible post-surrender careers from Sun Quan's ruler-specific exposure.
-- Qualified Zhang Zhao's earlier stabilizing role with his later military and legitimacy case for capitulation.
-- Preserved the incomplete-transcript boundary instead of projecting the full Red Cliffs decision into this source.
+- Added Sun Quan's role as the stronger coalition partner proposed to Liu Bei after Changban.
+- Connected early succession consolidation and hostage refusal to the later ability to attract an external ally.
+- Preserved the distinction between alliance value in Hanji 1099 and ruler-specific surrender exposure in Hanji 1101.
 
 ## Relationships
-- [[SunJianLateHan|孙坚]] - father whose rise opens the Sun-family trajectory.
-- [[LadyWuSunJian|吴夫人]] - mother whose clan support, adviser entrustment, and Zhou Yu endorsement shape Sun Quan's early rule.
-- [[SunCe|孙策]] - elder brother who designates Sun Quan after the fatal wound.
-- [[SunYiLateHan|孙翊]] - brother named with Sun Quan in Cao Cao's court-service summons environment.
-- [[CaoCao|曹操]] - outside power whose recognition, attack restraint, and hostage demand shape Sun Quan's vulnerability.
-- [[ZhangHongLateHan|张纮]] - adviser whose mediation protects Sun Quan during mourning and whose loyalty Sun Quan continues to trust.
-- [[ZhangZhaoLateHan|张昭]] - senior adviser who makes Sun Quan's authority visible and later critiques Lu Su.
-- [[ZhouYuLateHan|周瑜]] - military ally and elder-brother adviser who argues against sending Cao Cao a hostage.
-- [[DongXiLateHan|董袭]] - officer whose reassurance to Lady Wu makes follower confidence visible.
-- [[LuSu|鲁肃]] - talent whom Sun Quan values despite Zhang Zhao's negative judgment.
-- [[RoleAsymmetricSurrenderIncentives|身份不对称的投降激励]] - framework clarifying why Sun Quan's surrender calculus differs from that of ministers who may change masters.
-- [[LyuMeng|吕蒙]] - commander whose disciplined troops make him visible to Sun Quan.
-- [[LuoTong|骆统]] - adviser whose talent-contact counsel Sun Quan accepts.
-- [[SunFuLateHan|孙辅]] - Sun-family insider whose secret Cao-side message tests Sun Quan's internal discipline.
-- [[LiShuLateHan|李术]] - Lujiang appointee whose resistance becomes Sun Quan's first authority-establishing campaign.
-- [[HuangZu|黄祖]] - western target whose city survives Sun Quan's attack when Shanyue rebellion disrupts the rear.
-- [[Shanyue|山越]] - local-resistance environment that forces Sun Quan into county-level pacification.
-- [[HeQiLateHan|贺齐]] - officer whose pacification campaign turns local rebellion suppression into troops and reconstructed administration.
-- [[HostageBackedDependencyTrap|家属质押式依附陷阱]] - strategic trap Sun Quan avoids by refusing Cao Cao's demand.
-- [[SuccessionAuthorityConsolidation|继位权威整合]] - concept summarizing Sun Quan's transition from supported successor to active consolidator.
+- [[SunCe|孙策]] - elder brother who designates Sun Quan and leaves a still-fragile regional base.
+- [[LadyWuSunJian|吴夫人]] - mother whose support and adviser endorsement stabilize early rule.
+- [[ZhangZhaoLateHan|张昭]] - senior adviser who stabilizes succession and later argues for surrender.
+- [[ZhouYuLateHan|周瑜]] - military supporter and anti-hostage adviser.
+- [[LuSu|鲁肃]] - strategist who both recruits Liu Bei toward Sun Quan and warns Sun Quan against capitulation.
+- [[LiuBei|刘备]] - weakened regional actor redirected into alliance with Jiangdong.
+- [[CaoCao|曹操]] - external power whose recognition, hostage demand, Jingzhou conquest, and threat test Sun Quan's autonomy.
+- [[SuccessionAuthorityConsolidation|继位权威整合]] - process that turns designation into usable rule.
+- [[FacePreservingAlliancePersuasion|保全体面的结盟说服]] - method through which Sun Quan's capacity is offered to Liu Bei.
+- [[RoleAsymmetricSurrenderIncentives|身份不对称的投降激励]] - framework explaining Sun Quan's unique capitulation risk.

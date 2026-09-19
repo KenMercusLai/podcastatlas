@@ -1682,10 +1682,24 @@
         "CaoCao",
         "MeritBasedRewardPunishment"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "hanji-1099-mother-money-typology-remains-source-scoped",
+      "qualifications": [
+        "The episode supplies no clinical evidence for treating complaint, avoidance, or control by a mother as a general cause of adult money behavior.",
+        "The opening segment is disconnected from the historical narrative and may be promotional material."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|Hanji 1099]] enters personal development only with strict limits: its disconnected mother-money typology is not established psychological or financial evidence, while [[FacePreservingAlliancePersuasion]] is a historical illustration of status-sensitive reframing rather than a clinical rule.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq",
+        "FacePreservingAlliancePersuasion"
+      ]
     }
   ],
   "input_digest": "6e78b64155a0ebfd321b0fcb219ea4b666757c0e97bed051b8ec42eb88792fcf",
-  "summary": "Hanji 1110 adds a historical motivation-and-boundary case: [[TianChou|Tian Chou]] accepts danger, work, and responsibility but refuses a deserved marquisate because acceptance would recast service as title-seeking, while the institutional incentive concern shows why an individual boundary can still create an organizational problem. Psychology and personal-development sources otherwise continue to converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation, with historical cases kept source-scoped rather than treated as clinical laws.",
+  "summary": "Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1099 adds a boundary case: its disconnected mother-money typology remains unverified public advice, while Lu Su's historical alliance pitch illustrates status-sensitive reframing without becoming a clinical law. Tian Chou's reward refusal remains a historical motivation-and-boundary case, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

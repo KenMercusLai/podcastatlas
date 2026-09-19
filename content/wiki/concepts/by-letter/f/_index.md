@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7554
+wiki_total_pages: 7556
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
     url: "/wiki/concepts/fourftraumaresponse/"
+  - key: "FacePreservingAlliancePersuasion"
+    title: "Face-Preserving Alliance Persuasion / 保全体面的结盟说服"
+    url: "/wiki/concepts/facepreservingalliancepersuasion/"
   - key: "FaceProjectGovernance"
     title: "Face-Project Governance / 面子工程式治理"
     url: "/wiki/concepts/faceprojectgovernance/"

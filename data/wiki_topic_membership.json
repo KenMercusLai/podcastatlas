@@ -25488,6 +25488,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FacePreservingAlliancePersuasion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FaceProjectGovernance": [
     {
       "key": "politics",

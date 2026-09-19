@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: b644879ecad1f59be4cafaf20b986e491cc7da13
-input_digest: dd0425d720acc8ec85957ef87271ff00771135d57b132bb9cb10609fae002caf
+as_of_overview_commit: a8660d98f3c9b752b021a67925e056efe3833699
+input_digest: 0b32ba1c68b71930b91f14e8c609c9d64c32a8c110a2b49423d5692d720d1e57
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, and reciprocal credibility to usable state capacity. Hanji 1104 adds Cao Cao's early formation layer: Chenliu shelter, Wei Zi's private backing, kin-organized manpower, agricultural logistics, and group-scale recruitment precede the late-career power-and-limits synthesis in Hanji 1105. The topic retains Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific numbers and motives kept qualified.
+The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, and coalition sequencing to usable state capacity. Hanji 1099 adds the post-Changban alliance opening: Lu Su combines material comparison, face-preserving partnership language, and Zhuge Jin's relationship bridge to move Liu Bei toward Sun Quan, while the Longzhong sequence adapts by placing alliance before territorial control. The topic retains Cao Cao's formation and late-career layers, Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific motives and numbers kept qualified.
 
 ## Cross-source Findings
 
@@ -316,3 +316,14 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 - The episode is a compressed retrospective and does not provide the texts or dates of Cao Cao's three talent summonses.
 - The 192 CE Qingzhou phase is treated as strategic and demographic prehistory, while formal Xudu implementation remains grounded in the 196 CE account.
 - Direct-financing, troop, population, office-price, and group-transfer numbers remain source-scoped.
+
+### Hanji 1099 Alliance Persuasion Reorders Longzhong Sequence
+
+[[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|Hanji 1099]] adds the post-[[ChangbanBattle|Changban]] alliance opening: [[LuSu|Lu Su]] makes cooperation with [[SunQuan|Sun Quan]] acceptable to [[LiuBei|Liu Bei]] through [[FacePreservingAlliancePersuasion]], invokes [[ZhugeJin|Zhuge Jin]] as a relationship bridge, and source-scopedly reframes the [[LongzhongPlan|Longzhong Plan]] around alliance before territorial control.
+
+**Evidence:** [[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq]], [[ChangbanBattle]], [[LuSu]], [[SunQuan]], [[LiuBei]], [[FacePreservingAlliancePersuasion]], [[ZhugeJin]], [[LongzhongPlan]]
+
+**Qualifications:**
+
+- The source is a popular-history episode and its claims about inner reactions, exact rhetorical intent, Wu Ju's capacity, and the original Longzhong sequence remain source-scoped.
+- The episode establishes the alliance opening, not the complete negotiation or later coalition settlement.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7554
+wiki_total_pages: 7556
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "LongwaveRadio"
     title: "Longwave Radio"
     url: "/wiki/concepts/longwaveradio/"
+  - key: "LongzhongPlan"
+    title: "Longzhong Plan / 隆中对"
+    url: "/wiki/concepts/longzhongplan/"
   - key: "LookalikePublisherOutreach"
     title: "Lookalike Publisher Outreach"
     url: "/wiki/concepts/lookalikepublisheroutreach/"

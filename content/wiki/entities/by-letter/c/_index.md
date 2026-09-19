@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10222
+wiki_total_pages: 10225
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "ChanglePalace"
     title: "长乐宫 / Changle Palace"
     url: "/wiki/entities/changlepalace/"
+  - key: "ChangbanBattle"
+    title: "长坂坡之战 / Battle of Changban"
+    url: "/wiki/entities/changbanbattle/"
   - key: "ChangAnHanCapital"
     title: "长安 / Chang'an (Han capital)"
     url: "/wiki/entities/changanhancapital/"
