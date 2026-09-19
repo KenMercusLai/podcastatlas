@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10226
+wiki_total_pages: 10230
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "PeiWenzhong"
     title: "裴文中"
     url: "/wiki/entities/peiwenzhong/"
+  - key: "PeiQianLateHan"
+    title: "裴潜 / Pei Qian (late Han)"
+    url: "/wiki/entities/peiqianlatehan/"
   - key: "PeiZunEasternHan"
     title: "裴遵 / Pei Zun (Eastern Han)"
     url: "/wiki/entities/peizuneasternhan/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9b2c946b8cf38a2e8254b40480ce676da5009edd5b1bcdb590838196a600bf12",
       "c921e7bd30f62220c46d4b45adb2bf9184bb4eb5a80d451261180c1997b0605a",
       "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
       "2b816089923cf7090afa1e95d309fdadaa4240a8e8d2fb3f7f0d39c892a7ab90",
@@ -641,11 +642,37 @@
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73"
     ],
-    "paragraph_count": 639
+    "paragraph_count": 640
   },
-  "overview_commit": "b7ab3c97941dc97c44f86cbdfbcd06f016271e75",
-  "overview_digest": "950fccd1bc8799f0718a53c657303adc19641d44024305be4d9047a32777efe9",
+  "overview_commit": "99e0df785ac1db12623202f118f49d3f22447582",
+  "overview_digest": "e5afd7c684445ca49eba09bfa2782527b471edf78e0775a9279eb8be8a4347ba",
   "paragraphs": [
+    {
+      "id": "9b2c946b8cf38a2e8254b40480ce676da5009edd5b1bcdb590838196a600bf12",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn|《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode linking [[LiuBiao|刘表]]-era scholar survival with the exploratory diplomacy before [[RedCliffsBattle|赤壁之战]]. It adds [[LiuWangzhiLateHan|刘望之]], [[HanJiLateHan|韩暨]], [[PeiQianLateHan|裴潜]], [[SimaZhiCaoOfficialLateHan|司马芝]], and [[AllianceContingencyHedging|联盟不确定性下的退路预留]], while extending [[HeKui|何夔]], [[StrategicPatronExitJudgment|主公前途与安全退出判断]], [[LuSu|鲁肃]], [[SunQuan|孙权]], and the Red Cliffs campaign. Its core synthesis is that political survival depends on usable exit distance, while coalition formation can begin as hedged exploration: Lu Su's mourning mission tests Jingzhou partners and anti-Cao cooperation even as Sun Quan allegedly preserves a fallback if Liu Bei collapses. No settled contradiction is recorded; “何恰/韩记/裴浅/韩肃/陆素” and “冀州” are normalized as transcript errors, while the exact fallback wording, the meaning of “献表,” and the host's universal claim about alliance cynicism remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AllianceContingencyHedging",
+        "HanJiLateHan",
+        "HeKui",
+        "LiuBiao",
+        "LiuWangzhiLateHan",
+        "LuSu",
+        "PeiQianLateHan",
+        "RedCliffsBattle",
+        "RuiqiJiangtouZizhiTongjian",
+        "SimaZhiCaoOfficialLateHan",
+        "StrategicPatronExitJudgment",
+        "SunQuan",
+        "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn"
+      ]
+    },
     {
       "id": "c921e7bd30f62220c46d4b45adb2bf9184bb4eb5a80d451261180c1997b0605a",
       "primary_topic": "history-and-geopolitics",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2554
+topic_total_pages: 2555
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -4165,6 +4165,9 @@ topic_concepts:
   - key: "KaogongfaReformBacklash"
     title: "考功法改革反噬 / Kaogongfa Reform Backlash"
     url: "/wiki/concepts/kaogongfareformbacklash/"
+  - key: "AllianceContingencyHedging"
+    title: "联盟不确定性下的退路预留 / Alliance Contingency Hedging"
+    url: "/wiki/concepts/alliancecontingencyhedging/"
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"

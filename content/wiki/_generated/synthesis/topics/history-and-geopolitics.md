@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: a8660d98f3c9b752b021a67925e056efe3833699
-input_digest: 0b32ba1c68b71930b91f14e8c609c9d64c32a8c110a2b49423d5692d720d1e57
+as_of_overview_commit: 99e0df785ac1db12623202f118f49d3f22447582
+input_digest: c58ef29ab71728b97e8b46521ca78cb1f5164bbee5bffbaea3705fc18c22d214
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, and coalition sequencing to usable state capacity. Hanji 1099 adds the post-Changban alliance opening: Lu Su combines material comparison, face-preserving partnership language, and Zhuge Jin's relationship bridge to move Liu Bei toward Sun Quan, while the Longzhong sequence adapts by placing alliance before territorial control. The topic retains Cao Cao's formation and late-career layers, Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific motives and numbers kept qualified.
+The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, and coalition sequencing to usable state capacity. Hanji 1096 adds that safe political exit depends on effective distance and coercive reach, while coalition formation can begin as hedged exploration rather than unconditional commitment; Hanji 1099 then carries that Red Cliffs prehistory into direct, face-preserving alliance brokerage. The topic retains Cao Cao's formation and late-career layers, Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific motives and numbers kept qualified.
 
 ## Cross-source Findings
 
@@ -327,3 +327,14 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 
 - The source is a popular-history episode and its claims about inner reactions, exact rhetorical intent, Wu Ju's capacity, and the original Longzhong sequence remain source-scoped.
 - The episode establishes the alliance opening, not the complete negotiation or later coalition settlement.
+
+### Hanji 1096 Exit Distance And Alliance Contingency
+
+[[zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn|Hanji 1096]] links [[StrategicPatronExitJudgment|patron-exit judgment]] to coalition prehistory: [[HeKui|He Kui]], [[LiuWangzhiLateHan|Liu Wangzhi]], [[HanJiLateHan|Han Ji]], and [[PeiQianLateHan|Pei Qian]] show that resignation, concealment, and geographic distance do not provide equal safety under [[LiuBiao|Liu Biao]], while [[LuSu|Lu Su]] and [[SunQuan|Sun Quan]] make pre-[[RedCliffsBattle|Red Cliffs]] diplomacy an instance of [[AllianceContingencyHedging|alliance contingency hedging]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn]], [[StrategicPatronExitJudgment]], [[HeKui]], [[LiuWangzhiLateHan]], [[HanJiLateHan]], [[PeiQianLateHan]], [[LiuBiao]], [[LuSu]], [[SunQuan]], [[RedCliffsBattle]], [[AllianceContingencyHedging]]
+
+**Qualifications:**
+
+- The source is a short popular-history episode whose transcript names and Jingzhou geography require normalization.
+- The exact fallback wording, whether 献表 means surrender, and the host's general claim that alliances contain only calculation remain source-scoped.

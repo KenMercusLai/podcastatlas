@@ -20150,3 +20150,11 @@ Added source `zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-c
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？
+
+Added source `zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn`; created `LiuWangzhiLateHan`, `HanJiLateHan`, `PeiQianLateHan`, `SimaZhiCaoOfficialLateHan`, and `AllianceContingencyHedging`; updated `HeKui`, `StrategicPatronExitJudgment`, `LuSu`, `SunQuan`, `RedCliffsBattle`, `index.md`, and `overview.md`. Core synthesis: Liu Biao-era scholars show that resignation, concealment, geographic distance, and later re-entry produce different survival outcomes, while Lu Su's mourning mission combines intelligence gathering and coalition exploration with an alleged fallback if Liu Bei collapses. No settled contradiction found; transcript names and the Jingzhou/Jizhou slip are normalized cautiously, while the exact fallback wording, the meaning of “献表,” and the host's generalization about alliance calculation remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

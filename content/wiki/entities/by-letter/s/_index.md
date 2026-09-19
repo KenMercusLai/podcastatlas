@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10226
+wiki_total_pages: 10230
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "SimaRangju"
     title: "司马穰苴 / Sima Rangju"
     url: "/wiki/entities/simarangju/"
+  - key: "SimaZhiCaoOfficialLateHan"
+    title: "司马芝 / Sima Zhi (Cao official, late Han)"
+    url: "/wiki/entities/simazhicaoofficiallatehan/"
   - key: "SimaZhen"
     title: "司马贞 / Sima Zhen"
     url: "/wiki/entities/simazhen/"

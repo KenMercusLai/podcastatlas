@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7556
+wiki_total_pages: 7557
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2447,6 +2447,9 @@ wiki_pages:
   - key: "AccessionKinshipContainment"
     title: "继位亲族安抚与隔离 / Accession Kinship Containment"
     url: "/wiki/concepts/accessionkinshipcontainment/"
+  - key: "AllianceContingencyHedging"
+    title: "联盟不确定性下的退路预留 / Alliance Contingency Hedging"
+    url: "/wiki/concepts/alliancecontingencyhedging/"
   - key: "ActionBackedAntiCorruptionPersuasion"
     title: "行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion"
     url: "/wiki/concepts/actionbackedanticorruptionpersuasion/"

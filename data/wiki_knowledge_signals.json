@@ -5918,6 +5918,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/allergymedicationboundary/"
     },
+    "AllianceContingencyHedging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/alliancecontingencyhedging/"
+    },
     "AlphaFold": {
       "episode_count": 4,
       "show_count": 4,
@@ -47551,6 +47567,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/hanhenglatehan/"
     },
+    "HanJiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/hanjilatehan/"
+    },
     "HanJingdi": {
       "episode_count": 2,
       "show_count": 1,
@@ -48825,9 +48857,9 @@
       "url": "/wiki/entities/hehan/"
     },
     "HeKui": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？ [lhwR9hFMANr_zkTLEUfy3kvl38u0].md",
@@ -48842,9 +48874,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/hekui/"
     },
     "HeQiLateHan": {
@@ -67026,6 +67065,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/liutianzhao/"
     },
+    "LiuWangzhiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/liuwangzhilatehan/"
+    },
     "LiuWeiNanjunRebelLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -69672,9 +69727,9 @@
       "url": "/wiki/entities/lupieasternhan/"
     },
     "LuSu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -69710,6 +69765,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
         }
       ],
       "updated": "2026-09-20",
@@ -83389,6 +83451,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/peergroupexperienceselling/"
     },
+    "PeiQianLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/peiqianlatehan/"
+    },
     "PeiZunEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -90822,9 +90900,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RedCliffsBattle": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
@@ -90846,9 +90924,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/redcliffsbattle/"
     },
     "Reddit": {
@@ -99241,6 +99326,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/simaxiangru/"
     },
+    "SimaZhiCaoOfficialLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/simazhicaoofficiallatehan/"
+    },
     "SimonLordOfTheFlies": {
       "episode_count": 1,
       "show_count": 1,
@@ -102938,9 +103039,9 @@
       "url": "/wiki/concepts/strategicgeneration/"
     },
     "StrategicPatronExitJudgment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？ [lh5ItbQQqD54APJ7uoGyXV4BF3wM].md",
@@ -102948,9 +103049,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/strategicpatronexitjudgment/"
     },
     "StreamingAwardLeadership": {
@@ -104363,9 +104471,9 @@
       "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -104436,6 +104544,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？ [liCxjG9IqlWbxA23LuXboPAQeqyn].md",
+          "key": "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
         }
       ],
       "updated": "2026-09-20",

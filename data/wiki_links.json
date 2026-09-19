@@ -4815,6 +4815,10 @@
     "title": "Allergy Source Control",
     "url": "/wiki/concepts/allergysourcecontrol/"
   },
+  "AllianceContingencyHedging": {
+    "title": "联盟不确定性下的退路预留 / Alliance Contingency Hedging",
+    "url": "/wiki/concepts/alliancecontingencyhedging/"
+  },
   "AlliedEconomicBlocAgainstChina": {
     "title": "Allied Economic Bloc Against China",
     "url": "/wiki/concepts/alliedeconomicblocagainstchina/"
@@ -27267,6 +27271,10 @@
     "title": "Han Inherits Qin System / 汉承秦制",
     "url": "/wiki/concepts/haninheritsqinsystem/"
   },
+  "HanJiLateHan": {
+    "title": "韩暨 / Han Ji (late Han)",
+    "url": "/wiki/entities/hanjilatehan/"
+  },
   "HanJingdi": {
     "title": "汉景帝 / Emperor Jing of Han",
     "url": "/wiki/entities/hanjingdi/"
@@ -37751,6 +37759,10 @@
     "title": "刘鯈 / Liu Tiao (late Han)",
     "url": "/wiki/entities/liutiaolatehan/"
   },
+  "LiuWangzhiLateHan": {
+    "title": "刘望之 / Liu Wangzhi (late Han)",
+    "url": "/wiki/entities/liuwangzhilatehan/"
+  },
   "LiuWeiNanjunRebelLateHan": {
     "title": "刘伟 / Liu Wei (Nanjun rebel, late Han)",
     "url": "/wiki/entities/liuweinanjunrebellatehan/"
@@ -47215,6 +47227,10 @@
     "title": "裴寂 / Pei Ji",
     "url": "/wiki/entities/peiji/"
   },
+  "PeiQianLateHan": {
+    "title": "裴潜 / Pei Qian (late Han)",
+    "url": "/wiki/entities/peiqianlatehan/"
+  },
   "PeiWenzhong": {
     "title": "裴文中",
     "url": "/wiki/entities/peiwenzhong/"
@@ -56646,6 +56662,10 @@
   "SimaZhen": {
     "title": "司马贞 / Sima Zhen",
     "url": "/wiki/entities/simazhen/"
+  },
+  "SimaZhiCaoOfficialLateHan": {
+    "title": "司马芝 / Sima Zhi (Cao official, late Han)",
+    "url": "/wiki/entities/simazhicaoofficiallatehan/"
   },
   "SimaZhiLateHan": {
     "title": "司马直 / Sima Zhi (late Han)",
@@ -77238,6 +77258,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn": {
+    "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
   },
   "zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq": {
     "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",
