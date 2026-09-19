@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7547
+wiki_total_pages: 7552
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "PremiumHaircareMarket"
     title: "Premium Haircare Market / 高端洗护市场"
     url: "/wiki/concepts/premiumhaircaremarket/"
+  - key: "PremiumIngredientHaloMarketing"
+    title: "Premium Ingredient Halo Marketing / 高端食材光环营销"
+    url: "/wiki/concepts/premiumingredienthalomarketing/"
   - key: "PremiumReadyToDrinkAlcohol"
     title: "Premium Ready-to-Drink Alcohol"
     url: "/wiki/concepts/premiumreadytodrinkalcohol/"

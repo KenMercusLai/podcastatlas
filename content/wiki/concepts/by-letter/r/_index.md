@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7547
+wiki_total_pages: 7552
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "RetailDisplayAsBrandSurface"
     title: "Retail Display As Brand Surface"
     url: "/wiki/concepts/retaildisplayasbrandsurface/"
+  - key: "RetailHitTemplateDiffusion"
+    title: "Retail Hit Template Diffusion / 零售爆款模板扩散"
+    url: "/wiki/concepts/retailhittemplatediffusion/"
   - key: "RetailIncrementality"
     title: "Retail Incrementality"
     url: "/wiki/concepts/retailincrementality/"

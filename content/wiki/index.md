@@ -2516,6 +2516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [The Domino's Pizza Tracker Theory of Everything](sources/the-dominos-pizza-tracker-theory-of-everything.md) — Planet Money episode on Domino's shift from a dangerous speed guarantee to operational progress visibility, labor illusion, and the manipulation boundary of synthetic status displays.
 - [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
+- [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
@@ -20292,5 +20293,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alcohol Demand Reset](concepts/AlcoholDemandReset.md) — Structural adjustment as consumers drink less and beverage companies compete across alcohol-free, packaged, venue, and mood-oriented formats.
 - [Premium Ready-to-Drink Alcohol](concepts/PremiumReadyToDrinkAlcohol.md) — Canned and pre-mixed cocktails positioned through adult, less-sweet, premium cues rather than older alcopop associations.
 - [Feminist Media Institution-Building](concepts/FeministMediaInstitutionBuilding.md) — Converting excluded experience, testimony, editorial control, and organizing into durable media institutions.
+- [Black Truffle Mass-Marketization / 黑松露大众化](concepts/BlackTruffleMassMarketization.md) — How natural supply, industrial flavor, premium meaning, and retail imitation moved black truffle into mass packaged foods.
+- [Synthetic Flavor Scalability / 合成风味可规模化](concepts/SyntheticFlavorScalability.md) — Reproducing a scarce ingredient's sensory identity through stable oils, powders, seasonings, extracts, or manufactured aroma systems.
+- [Premium Ingredient Halo Marketing / 高端食材光环营销](concepts/PremiumIngredientHaloMarketing.md) — Using an ingredient's inherited scarcity and status to elevate ordinary consumer products.
+- [Retail Hit Template Diffusion / 零售爆款模板扩散](concepts/RetailHitTemplateDiffusion.md) — Influential retail success reducing demand uncertainty and triggering cross-brand or cross-category imitation.
+- [Ingredient-Flavor Label Transparency / 食材与风味标签透明度](concepts/IngredientFlavorLabelTransparency.md) — Consumer-information boundary between named-ingredient content and flavor delivered through compound systems.
 
 ## Syntheses

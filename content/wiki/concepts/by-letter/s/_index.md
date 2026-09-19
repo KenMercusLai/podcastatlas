@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7547
+wiki_total_pages: 7552
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1994,6 +1994,9 @@ wiki_pages:
   - key: "SyntheticBiologyScreeningSafeguards"
     title: "Synthetic Biology Screening Safeguards"
     url: "/wiki/concepts/syntheticbiologyscreeningsafeguards/"
+  - key: "SyntheticFlavorScalability"
+    title: "Synthetic Flavor Scalability / 合成风味可规模化"
+    url: "/wiki/concepts/syntheticflavorscalability/"
   - key: "SyntheticPerformers"
     title: "Synthetic Performers"
     url: "/wiki/concepts/syntheticperformers/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7547
+wiki_total_pages: 7552
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "BlackTravelInfrastructure"
     title: "Black Travel Infrastructure"
     url: "/wiki/concepts/blacktravelinfrastructure/"
+  - key: "BlackTruffleMassMarketization"
+    title: "Black Truffle Mass-Marketization / 黑松露大众化"
+    url: "/wiki/concepts/blacktrufflemassmarketization/"
   - key: "BlanketTariffLimit"
     title: "Blanket Tariff Limit"
     url: "/wiki/concepts/blankettarifflimit/"

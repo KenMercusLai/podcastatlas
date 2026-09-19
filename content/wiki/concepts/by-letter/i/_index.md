@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7547
+wiki_total_pages: 7552
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "IngredientReformulationStrategy"
     title: "Ingredient Reformulation Strategy"
     url: "/wiki/concepts/ingredientreformulationstrategy/"
+  - key: "IngredientFlavorLabelTransparency"
+    title: "Ingredient-Flavor Label Transparency / 食材与风味标签透明度"
+    url: "/wiki/concepts/ingredientflavorlabeltransparency/"
   - key: "InhalationPoisonPublicSafety"
     title: "Inhalation Poison Public Safety"
     url: "/wiki/concepts/inhalationpoisonpublicsafety/"

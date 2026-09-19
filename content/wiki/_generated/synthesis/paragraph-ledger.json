@@ -634,12 +634,13 @@
       "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
       "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
       "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
-      "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978"
+      "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
+      "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68"
     ],
-    "paragraph_count": 634
+    "paragraph_count": 635
   },
-  "overview_commit": "966f06dcd858c3b6d4b36511de3efbe6b85fe9ef",
-  "overview_digest": "be960a4b196573ea62aaf9f6d76fdbca3b14f2e68bcbe272beb472e3fc22c585",
+  "overview_commit": "0b0d71db2e03a0f812e7818c099dce24b1f3a999",
+  "overview_digest": "f0835392c25346ae82c8a96f43728d4c33799a1c33701efbef795a7c9d0e8b39",
   "paragraphs": [
     {
       "id": "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
@@ -19333,6 +19334,24 @@
         "SharedPoliticalLegitimacyVocabulary",
         "ShidaiFengjun",
         "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian"
+      ]
+    },
+    {
+      "id": "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497|图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？]], a [[ShengdongZaokafei|声动早咖啡]] listener-question episode on [[BlackTruffleMassMarketization|black-truffle mass-marketization]]. It adds [[BlackTruffleMassMarketization]], [[SyntheticFlavorScalability]], [[PremiumIngredientHaloMarketing]], [[RetailHitTemplateDiffusion]], and [[IngredientFlavorLabelTransparency]], while migrating and updating [[ShengdongZaokafei|声动早咖啡]]. Its core synthesis is that black truffle became ubiquitous through four interacting mechanisms rather than a simple collapse in fresh-truffle price: larger and cheaper Chinese supply, stable oils and manufactured flavor systems, an inherited premium halo that fits savory and fatty products, and Sam's Club-style retail validation that competitors copied. No settled contradiction is recorded; French and Chinese price and supply comparisons, launch-growth and repurchase figures, and the 0.023% natural-truffle example remain source-scoped, while the episode's main qualification is that a front-of-pack ingredient name does not reveal whether the formula uses substantial natural truffle, a tiny amount plus amplification, or mainly truffle-flavored seasoning.",
+      "topic_scores": {
+        "business-and-markets": 1
+      },
+      "wikilinks": [
+        "BlackTruffleMassMarketization",
+        "IngredientFlavorLabelTransparency",
+        "PremiumIngredientHaloMarketing",
+        "RetailHitTemplateDiffusion",
+        "ShengdongZaokafei",
+        "SyntheticFlavorScalability",
+        "tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497"
       ]
     }
   ],
