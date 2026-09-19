@@ -6260,6 +6260,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/americanrightbritainwarningnarrative/"
     },
+    "AmericasWorkforceAcademy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/americasworkforceacademy/"
+    },
     "AmnestyCannotSubstituteGovernance": {
       "episode_count": 1,
       "show_count": 1,
@@ -22978,6 +22994,29 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/coze/"
     },
+    "CraftLaborBottleneck": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Dreyfus： America’s Critical Minerals Crisis is Here [41594225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/craftlaborbottleneck/"
+    },
     "CreatineMonohydrateEvidence": {
       "episode_count": 1,
       "show_count": 1,
@@ -25010,10 +25049,103 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/datacenterairpermitparticipation/"
     },
+    "DataCenterBacklash": {
+      "episode_count": 12,
+      "show_count": 5,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
+          "key": "146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu",
+          "show": "起朱楼宴宾客",
+          "title": "146.美国经济这么差，美股还能继续涨吗 | 串台《美轮美换》",
+          "url": "/wiki/sources/146-meiguo-jingji-zheme-cha-meigu-hai-neng-jixu-zhang-ma-chuantai-meilun-meihuan-lrshkxgofprel-e-7lkiqu-en8gu/"
+        },
+        {
+          "episode_file": "tech_20260423_MP_TECH_pod_128 [tech_20260423_MP_TECH_pod_128].md",
+          "key": "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Anti-AI data center sentiment is becoming a political issue",
+          "url": "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251219_1219_MP_TECH_pod_128 [tech_20251219_1219_MP_TECH_pod_128].md",
+          "key": "tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Micron''s big earnings, Oracle''s data center woes and \"slop\" is Merriam-Webster''s word of the year",
+          "url": "/wiki/sources/tech-20251219-1219-mp-tech-pod-128-tech-20251219-1219-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20251216_1216_MP_TECH_pod_128 [tech_20251216_1216_MP_TECH_pod_128].md",
+          "key": "tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How states are competing in the data center gold rush",
+          "url": "/wiki/sources/tech-20251216-1216-mp-tech-pod-128-tech-20251216-1216-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Fear-jerker： America’s AI backlash [6a3cf783d760508ebaecd9fd].md",
+          "key": "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd",
+          "show": "Economist Podcasts",
+          "title": "Fear-jerker: America's AI backlash",
+          "url": "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+        },
+        {
+          "episode_file": "02025-crawford-podcast-v3 [02025-crawford-podcast-v3].md",
+          "key": "kate-crawford-mapping-empires",
+          "show": "Long Now",
+          "title": "Kate Crawford: Mapping Empires",
+          "url": "/wiki/sources/kate-crawford-mapping-empires/"
+        },
+        {
+          "episode_file": "tech_20251211_1211_MP_TECH_pod_128 [tech_20251211_1211_MP_TECH_pod_128].md",
+          "key": "the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers",
+          "show": "Marketplace Tech",
+          "title": "The little-known regulatory bodies that can make or break AI data centers",
+          "url": "/wiki/sources/the-little-known-regulatory-bodies-that-can-make-or-break-ai-data-centers/"
+        },
+        {
+          "episode_file": "tech_20260717_0717_MP_TECH_pod_128 [tech_20260717_0717_MP_TECH_pod_128].md",
+          "key": "tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The Apple vs. OpenAI legal showdown",
+          "url": "/wiki/sources/tech-20260717-0717-mp-tech-pod-128-tech-20260717-0717-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/datacenterbacklash/"
+    },
     "DataCenterCommunityConsent": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "146.美国经济这么差，美股还能继续涨吗 ｜ 串台《美轮美换》 [lrShkXgoFPrEl_E-7lKIqU_eN8GU].md",
@@ -25042,9 +25174,16 @@
           "show": "Marketplace Tech",
           "title": "Meta's landmark social media settlement",
           "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/datacentercommunityconsent/"
     },
     "DataCenterOnsitePower": {
@@ -27454,6 +27593,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/dignitybasedpersuasion/"
+    },
+    "DinaPowellMcCormick": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/dinapowellmccormick/"
     },
     "DingHongEasternHan": {
       "episode_count": 2,
@@ -90465,9 +90620,9 @@
       "url": "/wiki/entities/raskassa/"
     },
     "RayBanSmartGlasses": {
-      "episode_count": 5,
-      "show_count": 1,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "tech_20260109_0109_MP_TECH_pod_128 [tech_20260109_0109_MP_TECH_pod_128].md",
@@ -90503,9 +90658,16 @@
           "show": "Marketplace Tech",
           "title": "Can Meta Finally Make Smart Glasses Cool?",
           "url": "/wiki/sources/tech-20260826-0826-mp-tech-pod-128-tech-20260826-0826-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/raybansmartglasses/"
     },
     "RayNeo": {
@@ -92958,6 +93120,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/richardiiiplay/"
+    },
+    "RichlandParish": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/richlandparish/"
     },
     "RickKnudtson": {
       "episode_count": 1,

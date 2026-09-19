@@ -20182,3 +20182,11 @@ Added source `zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zh
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275`; created `DinaPowellMcCormick`, `AmericasWorkforceAcademy`, and `RichlandParish`; migrated and updated `DataCenterBacklash` and `CraftLaborBottleneck`; updated `DataCenterCommunityConsent` and `RayBanSmartGlasses`; and updated `index.md`. Core synthesis: Richland Parish supplies a positive but company-mediated data-center compact, paid training plus job certainty addresses one skilled-trades entry barrier, and practical smart-glasses accessibility uses coexist with unresolved adoption and privacy limits. No settled contradiction found; fiscal, water, utility, workforce, child-safety, foreign-amplification, and open-model claims remain source-attributed.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

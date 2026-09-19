@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10233
+wiki_total_pages: 10236
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -767,6 +767,9 @@ wiki_pages:
   - key: "AmericaFirstPolicyInstitute"
     title: "America First Policy Institute"
     url: "/wiki/entities/americafirstpolicyinstitute/"
+  - key: "AmericasWorkforceAcademy"
+    title: "America's Workforce Academy"
+    url: "/wiki/entities/americasworkforceacademy/"
   - key: "AmericanAcademyOfActuaries"
     title: "American Academy of Actuaries"
     url: "/wiki/entities/americanacademyofactuaries/"

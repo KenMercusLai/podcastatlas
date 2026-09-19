@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3055
+topic_total_pages: 3057
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5033,6 +5033,9 @@ topic_entities:
   - key: "Dimensity9500"
     title: "Dimensity 9500"
     url: "/wiki/entities/dimensity9500/"
+  - key: "DinaPowellMcCormick"
+    title: "Dina Powell McCormick"
+    url: "/wiki/entities/dinapowellmccormick/"
   - key: "DingTalk"
     title: "DingTalk"
     url: "/wiki/entities/dingtalk/"
@@ -8586,6 +8589,9 @@ topic_sources:
   - key: "tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128"
     title: "Meta's big bet on superintelligence"
     url: "/wiki/sources/tech-20260219-0219-mp-tech-pod-128-tech-20260219-0219-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275"
+    title: "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275/"
   - key: "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128"
     title: "Meta's landmark social media settlement"
     url: "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
