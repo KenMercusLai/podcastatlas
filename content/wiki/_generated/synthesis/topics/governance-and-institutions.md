@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-19
-as_of_overview_commit: 59b6d589f4f38241c04db077124154414644d0b0
-input_digest: cc2052cb8d129317e77c318a7ece9bc1e769357fe4742f05a19e1a635b3077be
+last_updated: 2026-09-20
+as_of_overview_commit: 49a3b6daf4b7c62803e6469f8297c6846f9e8a07
+input_digest: 1f176607a80e974a2e8e0d84ab19e11b39ca242565c5b6f4c119ab14cf9d7d00
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. The Chongqing Shidai Fengjun episode adds a contested-public-event case: incomplete footage limits factual confidence, gendered framing allocates scrutiny unevenly, and opposing groups draw on the same patriotic, moral, people-centered, and state-approved vocabulary to claim legitimacy. This extends the topic's recurring warning that institutional judgment must distinguish visible evidence from inferred motive and formal designation from publicly contested authority.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1105 adds a late-Han synthesis in which Cao Cao joins emperor-backed legitimacy, talent conversion, agricultural logistics, and command, while strategic reversals and household loss expose the limits of accumulated power. The Chongqing Shidai Fengjun episode adds a contested-public-event case in which incomplete footage limits factual confidence and shared official vocabulary supports rival legitimacy claims. Across both cases, institutional judgment must distinguish visible evidence from inferred motive and formal designation from publicly contested authority.
 
 ## Cross-source Findings
 
@@ -2269,3 +2269,14 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The episode cannot establish the full event chronology, a unified male organization, participant motives, platform deletion mechanisms, or official intent.
 - Shared official vocabulary can be used sincerely and does not by itself prove coordination, manipulation, or bad faith.
+
+### Cao Cao Power Joins Legitimacy People Production Command
+
+[[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] presents [[CaoCao|Cao Cao]]'s power as a combination of emperor-backed legitimacy, talent conversion, [[TuntianSystem|agricultural logistics]], and command, while [[Hanzhong]], [[GuanYu]], [[CaoAng]], [[LadyDingCaoCao]], and [[FenxiangMailu]] keep strategic limits and unresolved household loss visible.
+
+**Evidence:** [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3]], [[CaoCao]], [[TuntianSystem]], [[Hanzhong]], [[GuanYu]], [[CaoAng]], [[LadyDingCaoCao]], [[FenxiangMailu]]
+
+**Qualifications:**
+
+- The episode is a compressed retrospective rather than a complete chronology of Cao Cao's career.
+- Battlefield dialogue, final words, Guan Yu burial symbolism, and modern economic-independence language remain source-scoped interpretations.

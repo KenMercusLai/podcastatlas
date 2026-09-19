@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？](sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3.md) — 芮淇讲透资治通鉴 retrospective on Cao Cao's legitimacy, talent and屯田 foundations, Weinan and Hanzhong turns, Guan Yu's death, and the household memory behind 分香卖履.
 - [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87.md) — 硅谷101 roundtable on verifiable intent, KYA, bounded authorization, secure execution, A2A norms, and consumer recourse before agent transactions can scale.
 - [一場物理意義上的男女對立：重慶時代峰峻事件](sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian.md) — 端闻 reconstructs a Chongqing fan conflict through missing footage, gendered scrutiny, and rival uses of shared political language.
 - [Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30](sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547.md) — What's Next episode on Snap Specs, integrated spatial-computing glasses, engineering progress, product-readiness limits, and the display-versus-camera AI-wearable choice.
@@ -2519,6 +2520,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [马超 / Ma Chao](entities/MaChao.md) — Guanzhong coalition figure whose Weinan defeat is framed through the gap between military concentration and political cohesion.
+- [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
 - [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
 - [Yong Lambert](entities/YongLambert.md) — Mastercard product executive discussing verifiable intent, KYA, recourse, and machine credentials.

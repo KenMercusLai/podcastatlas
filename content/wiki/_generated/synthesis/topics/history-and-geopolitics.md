@@ -3,16 +3,16 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-19
-as_of_overview_commit: 969936d700cc8dc066f27b31f7649fe5927319fe
-input_digest: ef86889994aa9bf9f548eda2cf45744abe5b7e2e1f9b0fec6c8c1e59a19d1e45
+last_updated: 2026-09-20
+as_of_overview_commit: 49a3b6daf4b7c62803e6469f8297c6846f9e8a07
+input_digest: 66fd8357b55a0c021de214c0ad77fda9e4bf25e3ec487450c190b2844a870c77
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 1110 adds a late-Han reward-and-route layer: [[TianChou|Tian Chou]] turns local knowledge of [[LulongRoadLateHan|Lulong Road]] into Wuhuan-campaign value, then refuses repeated enfeoffment because service motive and public reward signaling point in different directions; the yilang compromise changes the reward form rather than denying the merit. The completed 1868 Abyssinian campaign remains the newest large comparative arc, while the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.
+Hanji 1105 adds a late-Han power-and-limits layer: Cao Cao's emperor-backed legitimacy, talent conversion, agricultural logistics, and command support the Weinan victory, while Hanzhong, Guan Yu's northern campaign, Xiahou Yuan's death, and unresolved household loss expose strategic and personal limits. Hanji 1110 retains the related reward-and-route layer in which [[TianChou|Tian Chou]] converts [[LulongRoadLateHan|Lulong Road]] knowledge into campaign value but resists enfeoffment until recognition changes form. The completed 1868 Abyssinian campaign remains the newest large comparative arc, and the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.
 
 ## Cross-source Findings
 
@@ -293,3 +293,14 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 
 - The four-order count, five-hundred-household fief, yilang-as-adviser analogy, move to Ye, age at death, and management-incentive framing remain source-scoped to a short popular-history episode.
 - The claim distinguishes refusal of an earned award from rejection of an unearned or illegitimate title.
+
+### Hanji 1105 Cao Cao Late Career Power And Limits
+
+[[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] compresses [[CaoCao|Cao Cao]]'s late-Han trajectory from [[WeinanBattleLateHan|the Weinan victory]] through the [[Hanzhong]] reversal and [[GuanYu|Guan Yu]]'s northern-campaign endpoint, showing that military advantage depended on legitimacy, people, and production but did not remove strategic or household limits around [[XiahouYuan]], [[CaoAng]], [[LadyDingCaoCao]], and [[FenxiangMailu]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3]], [[CaoCao]], [[WeinanBattleLateHan]], [[Hanzhong]], [[GuanYu]], [[XiahouYuan]], [[CaoAng]], [[LadyDingCaoCao]], [[FenxiangMailu]]
+
+**Qualifications:**
+
+- The episode is a compressed retrospective rather than a complete chronology of Cao Cao's career.
+- Battlefield dialogue, final words, Guan Yu burial symbolism, and modern economic-independence language remain source-scoped interpretations.

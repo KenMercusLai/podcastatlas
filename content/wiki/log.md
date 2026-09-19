@@ -20106,3 +20106,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？
+
+Added source `zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3`; created `WeinanBattleLateHan` and `MaChao`; updated `GuanYu` and `XiahouYuan`; migrated and updated `CaoAng`, `LadyDingCaoCao`, and `FenxiangMailu`; and updated `index.md` and `overview.md`. Core synthesis: Cao Cao's long rise joined emperor-backed legitimacy, talent conversion, agricultural logistics, and command judgment, while late reversals and final household instructions reveal both strategic limits and unresolved family memory. No settled contradiction found; battlefield dialogue, the Zhou Wenwang analogy's intent, words to Guan Yu's head, final statements, burial symbolism, and modern economic-independence framing remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

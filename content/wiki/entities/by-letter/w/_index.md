@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10220
+wiki_total_pages: 10222
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "WenXuEasternHan"
     title: "温序 / Wen Xu (Eastern Han)"
     url: "/wiki/entities/wenxueasternhan/"
+  - key: "WeinanBattleLateHan"
+    title: "渭南之战 / Battle of Weinan (Late Han)"
+    url: "/wiki/entities/weinanbattlelatehan/"
   - key: "WeishuiBattle"
     title: "潍水之战 / Battle of Weishui"
     url: "/wiki/entities/weishuibattle/"

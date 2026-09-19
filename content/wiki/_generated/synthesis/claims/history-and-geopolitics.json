@@ -496,9 +496,30 @@
         "XiahouDun",
         "Wuhuan"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "hanji-1105-cao-cao-late-career-power-and-limits",
+      "qualifications": [
+        "The episode is a compressed retrospective rather than a complete chronology of Cao Cao's career.",
+        "Battlefield dialogue, final words, Guan Yu burial symbolism, and modern economic-independence language remain source-scoped interpretations."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|Hanji 1105]] compresses [[CaoCao|Cao Cao]]'s late-Han trajectory from [[WeinanBattleLateHan|the Weinan victory]] through the [[Hanzhong]] reversal and [[GuanYu|Guan Yu]]'s northern-campaign endpoint, showing that military advantage depended on legitimacy, people, and production but did not remove strategic or household limits around [[XiahouYuan]], [[CaoAng]], [[LadyDingCaoCao]], and [[FenxiangMailu]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3",
+        "CaoCao",
+        "WeinanBattleLateHan",
+        "Hanzhong",
+        "GuanYu",
+        "XiahouYuan",
+        "CaoAng",
+        "LadyDingCaoCao",
+        "FenxiangMailu"
+      ]
     }
   ],
-  "input_digest": "27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34",
-  "summary": "Hanji 1110 adds a late-Han reward-and-route layer: [[TianChou|Tian Chou]] turns local knowledge of [[LulongRoadLateHan|Lulong Road]] into Wuhuan-campaign value, then refuses repeated enfeoffment because service motive and public reward signaling point in different directions; the yilang compromise changes the reward form rather than denying the merit. The completed 1868 Abyssinian campaign remains the newest large comparative arc, while the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.",
+  "input_digest": "66fd8357b55a0c021de214c0ad77fda9e4bf25e3ec487450c190b2844a870c77",
+  "summary": "Hanji 1105 adds a late-Han power-and-limits layer: Cao Cao's emperor-backed legitimacy, talent conversion, agricultural logistics, and command support the Weinan victory, while Hanzhong, Guan Yu's northern campaign, Xiahou Yuan's death, and unresolved household loss expose strategic and personal limits. Hanji 1110 retains the related reward-and-route layer in which [[TianChou|Tian Chou]] converts [[LulongRoadLateHan|Lulong Road]] knowledge into campaign value but resists enfeoffment until recognition changes form. The completed 1868 Abyssinian campaign remains the newest large comparative arc, and the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.",
   "topic_id": "history-and-geopolitics"
 }

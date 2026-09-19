@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "2b816089923cf7090afa1e95d309fdadaa4240a8e8d2fb3f7f0d39c892a7ab90",
       "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
       "b937559d5b38aed7b982eb5171a40f4b3806a8084d1eb013d581995f76f0fa84",
       "7232911cfed0fcb23c48bdfb24ab2d135e053bc0d82808f974bee35079377380",
@@ -637,11 +638,37 @@
       "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68"
     ],
-    "paragraph_count": 635
+    "paragraph_count": 636
   },
-  "overview_commit": "0b0d71db2e03a0f812e7818c099dce24b1f3a999",
-  "overview_digest": "f0835392c25346ae82c8a96f43728d4c33799a1c33701efbef795a7c9d0e8b39",
+  "overview_commit": "49a3b6daf4b7c62803e6469f8297c6846f9e8a07",
+  "overview_digest": "3bdbb4932b60625bdfe2ffbc676bcf80e577d202235db42a69bb93b633bc653e",
   "paragraphs": [
+    {
+      "id": "2b816089923cf7090afa1e95d309fdadaa4240a8e8d2fb3f7f0d39c892a7ab90",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3|《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] retrospective connecting [[CaoCao|曹操]]'s emperor-backed legitimacy, talent attraction, and [[TuntianSystem|屯田制]] with [[WeinanBattleLateHan|渭南之战]], the [[Hanzhong|汉中]] reversal, [[GuanYu|关羽]]'s northern-campaign endpoint, and the household memory behind [[FenxiangMailu|分香卖履]]. It creates the Weinan battle page and extends [[XiahouYuan|夏侯渊]], Guan Yu, [[CaoAng|曹昂]], [[LadyDingCaoCao|丁夫人]], and Fenxiang Mailu. Its core synthesis is that Cao Cao's power joined legitimacy, people, production, and command, while his late-life portrait remained marked by strategic limits and unresolved family loss. No settled contradiction is recorded; battlefield dialogue, final words, Guan Yu burial symbolism, and modern economic-independence language remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaoAng",
+        "CaoCao",
+        "FenxiangMailu",
+        "GuanYu",
+        "Hanzhong",
+        "LadyDingCaoCao",
+        "RuiqiJiangtouZizhiTongjian",
+        "TuntianSystem",
+        "WeinanBattleLateHan",
+        "XiahouYuan",
+        "zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3"
+      ]
+    },
     {
       "id": "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
       "primary_topic": "history-and-geopolitics",
