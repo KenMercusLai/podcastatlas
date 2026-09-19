@@ -20126,3 +20126,11 @@ Added source `zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duosha
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？
+
+Added source `zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv`; created `RoleAsymmetricSurrenderIncentives`; updated `SunQuan`, `LuSu`, `ZhangZhaoLateHan`, `index.md`, and `overview.md`. Core synthesis: Cao Cao's post-Jingzhou threat creates a genuine legitimacy and naval asymmetry, but Lu Su reveals that surrender does not distribute risk evenly—ministers may change masters while Sun Quan's independent authority makes his own status, freedom, and life specifically vulnerable. No settled contradiction found; the transcript's “公元2008年” is normalized to 208 CE, while the force total, private motives, and modern financing language remain source-scoped, and the episode ends before Lu Su's complete answer or Sun Quan's decision.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

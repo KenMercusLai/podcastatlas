@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7553
+wiki_total_pages: 7554
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "RoleAttachmentPowerExit"
     title: "Role Attachment and Power Exit / 权力角色依附与退场"
     url: "/wiki/concepts/roleattachmentpowerexit/"
+  - key: "RoleAsymmetricSurrenderIncentives"
+    title: "Role-Asymmetric Surrender Incentives / 身份不对称的投降激励"
+    url: "/wiki/concepts/roleasymmetricsurrenderincentives/"
   - key: "RoleLifeCollapse"
     title: "Role-Life Collapse"
     url: "/wiki/concepts/rolelifecollapse/"

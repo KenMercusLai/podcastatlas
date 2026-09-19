@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？](sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv.md) — 曹操“会猎”威胁下，张昭以名分与水军劝降，鲁肃则揭示臣子与主公投降后果的不对称。
 - [《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？](sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz.md) — 曹操从家族支持下入仕、两次回谯与陈留起盘的早期仕途重构。
 - [《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？](sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny.md) — 曹操以陈留庇护、宗族兵源、屯田供给和跨阵营人才吸附建立早期组织能力的回顾。
 - [《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？](sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3.md) — 芮淇讲透资治通鉴 retrospective on Cao Cao's legitimacy, talent and屯田 foundations, Weinan and Hanzhong turns, Guan Yu's death, and the household memory behind 分香卖履.
@@ -4753,7 +4754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高览 / Gao Lan (late Han)](entities/GaoLanLateHan.md) — Yuan Shao general paired with Zhang He in the post-Wuchao defection to Cao Cao.
 - [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
-- [鲁肃 / Lu Su](entities/LuSu.md) — Future Eastern Wu adviser whose profile runs from leaving Yuan Shu with Zhou Yu to presenting Sun Quan with the Ta Shang Ce two-part Yangtze strategy.
+- [鲁肃 / Lu Su](entities/LuSu.md) — Eastern Wu adviser whose profile runs from leaving Yuan Shu and proposing the Ta Shang Ce to reframing Sun Quan's surrender risk.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that supports resistance and later forces Sun Quan into county-level pacification through officers and He Qi.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son later murdered in the Danyang coup, prompting Lady Xu's staged revenge against Gui Lan and Dai Yuan.
 - [徐夫人 / Lady Xu (Sun Yi)](entities/LadyXuSunYi.md) — Sun Yi's wife who uses mourning delay, staged remarriage, and loyalist coordination to avenge his murder; distinct from the Jing Ke dagger-maker Xu Furen.
@@ -5205,7 +5206,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife who bridges Jiangdong resources, restrains Sun Ce, stabilizes Sun Quan's succession, and endorses Zhou Yu's anti-hostage counsel.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
-- [孙权 / Sun Quan](entities/SunQuan.md) — Sun Jian and Lady Wu's son whose profile moves from protected young successor into autonomy-preserving, talent-aware ruler, internal threat suppressor, and Jiangdong pacifier.
+- [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor whose profile moves through autonomy, consolidation, pacification, and the role-asymmetric 208 CE surrender crisis.
 - [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Wu commander whose disciplined troops, protection of Xi Su's command, and Gan Ning relief plan connect personnel judgment with operations.
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
@@ -5249,7 +5250,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Yizhou talent-loss case who later appears as a calm Eastern Wu commander holding under siege until relief arrives.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
-- [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong adviser entrusted by Sun Ce, made a public stabilizer for Sun Quan, and later shown as a senior critic of Lu Su.
+- [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong administrator and succession stabilizer who later argues for surrender from legitimacy, naval, and geographic asymmetry.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
 - [秦松 / Qin Song (Late Han)](entities/QinSongLateHan.md) — Sun Ce adviser named among the decision participants in Hanji 994's Jiangdong bench.
 - [陈端 / Chen Duan (Late Han)](entities/ChenDuanLateHan.md) — Sun Ce adviser named with Qin Song in Hanji 994 as part of the expanding Jiangdong deliberation group.
@@ -12750,6 +12751,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Role-Asymmetric Surrender Incentives / 身份不对称的投降激励](concepts/RoleAsymmetricSurrenderIncentives.md) — Different capitulation payoffs for portable officials and the ruler whose independent authority must be neutralized.
 - [制度性退场升级 / Institutional Exit Escalation](concepts/InstitutionalExitEscalation.md) — Distinguishes imposed dismissal, preventive resignation, and an independent-base break.
 - [Verifiable Intent / 可验证意图](concepts/VerifiableIntent.md) — Durable semantic record of what a user authorized an agent to accomplish and under which constraints.
 - [Agent Trust Calibration / 智能体信任校准](concepts/AgentTrustCalibration.md) — Progressive delegation matched to demonstrated capability, bounded risk, traceability, and remedies.

@@ -69494,9 +69494,9 @@
       "url": "/wiki/entities/lupieasternhan/"
     },
     "LuSu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -69511,9 +69511,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？ [lo1cDNJB5iLjOU-1ojzxSO10EQcV].md",
+          "key": "zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/lusu/"
     },
     "LuWenshuWesternHan": {
@@ -93423,6 +93430,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/rogermortimer/"
     },
+    "RoleAsymmetricSurrenderIncentives": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？ [lo1cDNJB5iLjOU-1ojzxSO10EQcV].md",
+          "key": "zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/roleasymmetricsurrenderincentives/"
+    },
     "RoleAttachmentPowerExit": {
       "episode_count": 2,
       "show_count": 1,
@@ -104097,9 +104120,9 @@
       "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -104149,9 +104172,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？ [lo1cDNJB5iLjOU-1ojzxSO10EQcV].md",
+          "key": "zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/sunquan/"
     },
     "SunShaoLateHan": {
@@ -125806,9 +125836,9 @@
       "url": "/wiki/entities/zhangyuwesternhan/"
     },
     "ZhangZhaoLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
@@ -125830,9 +125860,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1052丨三国重臣张纮，竟玩弄曹操于股掌？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？ [lo1cDNJB5iLjOU-1ojzxSO10EQcV].md",
+          "key": "zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/zhangzhaolatehan/"
     },
     "ZhangZhongWesternHan": {
