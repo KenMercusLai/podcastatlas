@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b937559d5b38aed7b982eb5171a40f4b3806a8084d1eb013d581995f76f0fa84",
       "7232911cfed0fcb23c48bdfb24ab2d135e053bc0d82808f974bee35079377380",
       "6760924b20e1a526c0276aed161e659504401b4d10dbc055a95632682f3b2665",
       "221fb8c5aacdcd83887469e595d1b790a7b149815ed3721d41755784e85ae711",
@@ -630,11 +631,36 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd"
     ],
-    "paragraph_count": 628
+    "paragraph_count": 629
   },
-  "overview_commit": "671926215374a2c17b3133087822e85a8298c419",
-  "overview_digest": "d9da56e50c6a933a95524fa44e11c3f9dfe1d68e4b9638491825cd416f00c2da",
+  "overview_commit": "af64ab61324e865d7b70b86d802bd42cd6b97ebd",
+  "overview_digest": "f7744478be52cd9b770acf8644f06974497b375c96724c5f25dba036fd02c55b",
   "paragraphs": [
+    {
+      "id": "b937559d5b38aed7b982eb5171a40f4b3806a8084d1eb013d581995f76f0fa84",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley: Searching for Feynman]], an [[AllIn|All-In]] presentation comparing the unresolved origin of COVID-19 with Surfside, Boeing 737 Max, Katrina, Fukushima, and Challenger investigations. It adds [[RichardFeynman]], [[KiyoshiKurokawa]], [[DRASTIC]], [[CatastrophicFailureRootCauseInvestigation]], [[CAPACorrectivePreventiveAction]], [[InvestigationConflictOfInterest]], and [[COVIDOriginsInvestigationUncertainty]], while extending [[BillGurley]], [[AnthonyFauci]], and [[ScienceTrustPoliticization]]. Its core synthesis is that high-consequence prevention requires independent access to evidence, confirmation of technical and institutional root causes, and explicit conflict safeguards; the COVID-origin application remains unresolved because Gurley argues for scrutiny of a possible laboratory accident but declines to choose between it and animal spillover. No settled contradiction is recorded; blocker allegations, DEFUSE interpretation, early-case and animal-testing claims, institutional resistance, and cost estimates remain source-scoped in an advocacy presentation that does not include detailed responses from criticized scientists or institutions.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "AllIn",
+        "AnthonyFauci",
+        "BillGurley",
+        "CAPACorrectivePreventiveAction",
+        "COVIDOriginsInvestigationUncertainty",
+        "CatastrophicFailureRootCauseInvestigation",
+        "DRASTIC",
+        "InvestigationConflictOfInterest",
+        "KiyoshiKurokawa",
+        "RichardFeynman",
+        "ScienceTrustPoliticization",
+        "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628"
+      ]
+    },
     {
       "id": "7232911cfed0fcb23c48bdfb24ab2d135e053bc0d82808f974bee35079377380",
       "primary_topic": "science-health-and-climate",

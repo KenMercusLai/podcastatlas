@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-09-17
-as_of_overview_commit: 671926215374a2c17b3133087822e85a8298c419
-summary: "Podcast Atlas maps how broad claims become grounded systems: durable value depends on workflows, incentives, evidence, trust, practical capacity, and explicit boundaries."
-episode_count: 2494
-source_count: 2494
-paragraph_count: 628
+last_updated: 2026-09-19
+as_of_overview_commit: af64ab61324e865d7b70b86d802bd42cd6b97ebd
+summary: "Podcast Atlas maps how claims become grounded systems: durable value depends on evidence, workflows, trust, practical capacity, causal inquiry, and explicit boundaries."
+episode_count: 2495
+source_count: 2495
+paragraph_count: 629
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - State capacity appears as enforceable controls over appointments, territory, households, standards, symbols, and punishment, but [[PowerExitTrap|exit traps]] and backlash show that control does not automatically create social support.
 - Strategic routes become political infrastructure when control over cables, straits, ports, enclave crossings, or mountain corridors changes what states, markets, migrants, and armies can do.
 - [[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], and [[CompetenceStatusMentalHealthBlindSpot]] add an agency-and-vulnerability branch: [[AndyStumpf]] frames self-command as moving attention from concern to influence, rehearsing small harder choices through [[DisciplineOverMotivation]], treating [[Drownproof]] and wingsuit survival as weaker evidence than mastery under [[ExtremeEnvironmentRiskManagement]], and keeping pain, isolation, relationship repair, and the cost of success discussable through [[ActionAfterAdversity]], [[OutdoorFlowState]], and [[KnowingEnough]].
-- [[MissedDiagnosisRisk]] is mitigated less by maximal testing than by [[DiagnosticSafetyNetting]]: [[MedicalDiagnosticReasoning]], [[DoctorPatientCommunication]], and [[SecondOpinionStrategy]] keep first-visit uncertainty active through suspected diagnoses, unexcluded dangers, return or emergency triggers, report tracking, and qualified second opinions.
+- [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them.
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context.
 
 ## Synthesis by Domain
@@ -57,7 +57,7 @@ Institutions work through state capacity, legitimacy, information flow, implemen
 
 ### History and Geopolitics
 
-Historical power repeatedly follows routes, logistics, material control, legitimacy, military organization, diplomatic access, and the institutional capacity to convert victory into order.
+Historical power repeatedly follows routes, logistics, material control, legitimacy, military organization, diplomatic access, and the capacity to convert victory into order.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
@@ -71,10 +71,10 @@ Personal change is grounded in embodied regulation, relational safety, calibrate
 
 ### Science, Health, and Climate
 
-Reliable science and health reasoning requires mechanisms, measurement, evidence strength, escalation thresholds, safety-netting, and explicit clinical or ecological boundaries.
+Reliable science and health reasoning requires mechanisms, measurement, evidence strength, causal inquiry, escalation thresholds, safety-netting, and explicit clinical or ecological boundaries.
 
+- [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628]], [[AllIn]], [[BillGurley]], [[RichardFeynman]], [[KiyoshiKurokawa]], [[DRASTIC]], [[CatastrophicFailureRootCauseInvestigation]], [[CAPACorrectivePreventiveAction]], [[InvestigationConflictOfInterest]], [[COVIDOriginsInvestigationUncertainty]], [[AnthonyFauci]], [[ScienceTrustPoliticization]].
 - [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924|The Galpin Huberman Lab Essentials episode]] adds a fitness self-assessment branch: [[NinePhysiologicalAdaptations]] splits exercise goals into appearance and functionality and lists skill, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long duration, each paired with a laboratory or specialist method and a cheap substitute such as [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], and [[PowerAndSpeedAssessment]], all sequenced by [[FitnessAssessmentTestingWeek]] and prioritized by [[FitnessPerformanceAnchors]] so that severe deficits are cleared before a person optimizes the capacities they care about. Evidence: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]], [[HubermanLab]], [[AndyGalpin]], [[NinePhysiologicalAdaptations]], [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], [[PowerAndSpeedAssessment]], [[FitnessAssessmentTestingWeek]], [[FitnessPerformanceAnchors]].
-- The same episode gives the health side of body composition a numeric floor: [[FatFreeMassIndex]] targets of roughly 20 for men and 18 for women are treated as the health-relevant zone, above 24 to 25 for a man as a lot of muscle, and men below 17 or women below 15 as severe physiological detriment, while the aesthetic portion of hypertrophy stays a personal choice and [[ExerciseMedicalAestheticBoundary]] keeps appearance goals separate from the non-optional amount of muscle that [[MuscleAsLongevityInfrastructure]] and [[ExercisePillarsForLongevity]] treat as health-relevant. Evidence: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]], [[FatFreeMassIndex]], [[ExerciseMedicalAestheticBoundary]], [[MuscleAsLongevityInfrastructure]], [[ExercisePillarsForLongevity]], [[NinePhysiologicalAdaptations]].
 
 ### Work, Education, and Society
 

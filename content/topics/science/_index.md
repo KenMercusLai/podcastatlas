@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1116
+topic_total_pages: 1117
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2558,6 +2558,9 @@ topic_entities:
   - key: "RichardDawkins"
     title: "Richard Dawkins / 理查德·道金斯"
     url: "/wiki/entities/richarddawkins/"
+  - key: "RichardFeynman"
+    title: "Richard Feynman"
+    url: "/wiki/entities/richardfeynman/"
   - key: "RichardNisbett"
     title: "Richard Nisbett / 理查德·尼斯贝特"
     url: "/wiki/entities/richardnisbett/"

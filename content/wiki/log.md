@@ -19982,3 +19982,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-go
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | Bill Gurley: Searching for Feynman
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628`; created `RichardFeynman`, `KiyoshiKurokawa`, `DRASTIC`, `CatastrophicFailureRootCauseInvestigation`, `CAPACorrectivePreventiveAction`, `InvestigationConflictOfInterest`, and `COVIDOriginsInvestigationUncertainty`; migrated and updated `BillGurley`; and updated `AnthonyFauci` and `ScienceTrustPoliticization`. Core synthesis: Gurley uses CAPA and five disaster comparisons to argue that prevention requires independent root-cause investigation and conflict safeguards, but explicitly declines to choose between animal spillover and a laboratory accident. No settled contradiction found; allegations about blockers, research conflicts, DEFUSE, private-public inconsistency, early cases, animal testing, institutional resistance, and pandemic costs remain source-scoped because the episode is an advocacy presentation without detailed responses from the criticized scientists or institutions.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

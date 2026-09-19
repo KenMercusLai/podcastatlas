@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7521
+wiki_total_pages: 7525
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
+  - key: "CAPACorrectivePreventiveAction"
+    title: "CAPA / Corrective and Preventive Action"
+    url: "/wiki/concepts/capacorrectivepreventiveaction/"
   - key: "CapabilityGapSelfDiagnosis"
     title: "Capability Gap Self-Diagnosis"
     url: "/wiki/concepts/capabilitygapselfdiagnosis/"
@@ -302,6 +305,9 @@ wiki_pages:
   - key: "CatastrophicAILiability"
     title: "Catastrophic AI Liability"
     url: "/wiki/concepts/catastrophicailiability/"
+  - key: "CatastrophicFailureRootCauseInvestigation"
+    title: "Catastrophic Failure Root-Cause Investigation"
+    url: "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
   - key: "CategoryCreation"
     title: "Category Creation"
     url: "/wiki/concepts/categorycreation/"
@@ -1775,6 +1781,9 @@ wiki_pages:
   - key: "CovertPoliticalTechnology"
     title: "Covert Political Technology / 阴谋式政治技术"
     url: "/wiki/concepts/covertpoliticaltechnology/"
+  - key: "COVIDOriginsInvestigationUncertainty"
+    title: "COVID Origins Investigation Uncertainty"
+    url: "/wiki/concepts/covidoriginsinvestigationuncertainty/"
   - key: "CPGDistribution"
     title: "CPG Distribution"
     url: "/wiki/concepts/cpgdistribution/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2547
+topic_total_pages: 2548
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1768,6 +1768,9 @@ topic_concepts:
   - key: "IntimateFrontierPacification"
     title: "Intimate Frontier Pacification / 亲密关系式边患安抚"
     url: "/wiki/concepts/intimatefrontierpacification/"
+  - key: "InvestigationConflictOfInterest"
+    title: "Investigation Conflict of Interest"
+    url: "/wiki/concepts/investigationconflictofinterest/"
   - key: "InvestmentAdviserFiduciaryDuty"
     title: "Investment Adviser Fiduciary Duty / 投资顾问信义义务"
     url: "/wiki/concepts/investmentadviserfiduciaryduty/"

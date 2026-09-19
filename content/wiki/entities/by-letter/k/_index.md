@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10189
+wiki_total_pages: 10192
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "Kissmetrics"
     title: "Kissmetrics"
     url: "/wiki/entities/kissmetrics/"
+  - key: "KiyoshiKurokawa"
+    title: "Kiyoshi Kurokawa"
+    url: "/wiki/entities/kiyoshikurokawa/"
   - key: "KiyosumiShirakawa"
     title: "Kiyosumi-Shirakawa / 清澄白河"
     url: "/wiki/entities/kiyosumishirakawa/"

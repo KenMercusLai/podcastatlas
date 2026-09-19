@@ -7226,9 +7226,9 @@
       "url": "/wiki/entities/antarctica/"
     },
     "AnthonyFauci": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -7243,9 +7243,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/anthonyfauci/"
     },
     "AnthropicMonopolyThesis": {
@@ -11350,6 +11357,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/billackman/"
     },
+    "BillGurley": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Brave New whirl： Turkey’s opposition overhaul [6a69c7766043035f89eb097f].md",
+          "key": "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f",
+          "show": "Economist Podcasts",
+          "title": "Brave New whirl: Turkey's opposition overhaul",
+          "url": "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/billgurley/"
+    },
     "Binance": {
       "episode_count": 1,
       "show_count": 1,
@@ -13447,6 +13477,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/calb/"
     },
+    "CAPACorrectivePreventiveAction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/capacorrectivepreventiveaction/"
+    },
     "CElegansModelOrganism": {
       "episode_count": 1,
       "show_count": 1,
@@ -13501,6 +13547,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/codis/"
+    },
+    "COVIDOriginsInvestigationUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
     },
     "CPRAEDResponseBoundary": {
       "episode_count": 1,
@@ -15160,6 +15222,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/caseyhalpern/"
+    },
+    "CatastrophicFailureRootCauseInvestigation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
     },
     "CathayPacific": {
       "episode_count": 1,
@@ -23189,6 +23267,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/dcfvaluationasnarrative/"
+    },
+    "DRASTIC": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/drastic/"
     },
     "DSCRLoans": {
       "episode_count": 1,
@@ -54814,6 +54908,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/inventorycycle/"
     },
+    "InvestigationConflictOfInterest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/investigationconflictofinterest/"
+    },
     "InvestmentAvoidanceTrauma": {
       "episode_count": 1,
       "show_count": 1,
@@ -59170,6 +59280,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/kitcheesc/"
+    },
+    "KiyoshiKurokawa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/kiyoshikurokawa/"
     },
     "KleosHeroicGlory": {
       "episode_count": 1,
@@ -90560,6 +90686,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/rhodebeauty/"
     },
+    "RichardFeynman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/richardfeynman/"
+    },
     "RichardIII": {
       "episode_count": 2,
       "show_count": 2,
@@ -93453,9 +93595,9 @@
       "url": "/wiki/concepts/sciencetalentpipeline/"
     },
     "ScienceTrustPoliticization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Michael Kratsios： Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China [42543770].md",
@@ -93470,9 +93612,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Bill Gurley： Searching for Feynman [42956628].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Bill Gurley: Searching for Feynman",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/sciencetrustpoliticization/"
     },
     "ScientificPrecariat": {

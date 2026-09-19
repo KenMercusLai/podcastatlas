@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7521
+wiki_total_pages: 7525
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "InventoryHeavyConsumerBrandFinancing"
     title: "Inventory-Heavy Consumer Brand Financing"
     url: "/wiki/concepts/inventoryheavyconsumerbrandfinancing/"
+  - key: "InvestigationConflictOfInterest"
+    title: "Investigation Conflict of Interest"
+    url: "/wiki/concepts/investigationconflictofinterest/"
   - key: "InvestmentAdviserFiduciaryDuty"
     title: "Investment Adviser Fiduciary Duty / 投资顾问信义义务"
     url: "/wiki/concepts/investmentadviserfiduciaryduty/"

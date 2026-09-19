@@ -36520,6 +36520,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "InvestigationConflictOfInterest": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "InvestmentABC": [
     {
       "key": "economics",
@@ -58288,6 +58295,13 @@
     }
   ],
   "RichardDawkins": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "RichardFeynman": [
     {
       "key": "science",
       "label": "Science",

@@ -9691,6 +9691,10 @@
     "title": "CALB / 中创新航",
     "url": "/wiki/entities/calb/"
   },
+  "CAPACorrectivePreventiveAction": {
+    "title": "CAPA / Corrective and Preventive Action",
+    "url": "/wiki/concepts/capacorrectivepreventiveaction/"
+  },
   "CAPERatioValuationSignal": {
     "title": "CAPE Ratio Valuation Signal",
     "url": "/wiki/concepts/caperatiovaluationsignal/"
@@ -9778,6 +9782,10 @@
   "COSMOPlat": {
     "title": "COSMOPlat / 卡奥斯",
     "url": "/wiki/entities/cosmoplat/"
+  },
+  "COVIDOriginsInvestigationUncertainty": {
+    "title": "COVID Origins Investigation Uncertainty",
+    "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
   },
   "COWZ": {
     "title": "COWZ",
@@ -10834,6 +10842,10 @@
   "CatastrophicAILiability": {
     "title": "Catastrophic AI Liability",
     "url": "/wiki/concepts/catastrophicailiability/"
+  },
+  "CatastrophicFailureRootCauseInvestigation": {
+    "title": "Catastrophic Failure Root-Cause Investigation",
+    "url": "/wiki/concepts/catastrophicfailurerootcauseinvestigation/"
   },
   "CategoryCreation": {
     "title": "Category Creation",
@@ -15694,6 +15706,10 @@
   "DPCDRGPaymentReform": {
     "title": "DPC/DRG Payment Reform",
     "url": "/wiki/concepts/dpcdrgpaymentreform/"
+  },
+  "DRASTIC": {
+    "title": "DRASTIC",
+    "url": "/wiki/entities/drastic/"
   },
   "DSCRLoans": {
     "title": "DSCR Loans",
@@ -31427,6 +31443,10 @@
     "title": "Inventory Write-Down Risk",
     "url": "/wiki/concepts/inventorywritedownrisk/"
   },
+  "InvestigationConflictOfInterest": {
+    "title": "Investigation Conflict of Interest",
+    "url": "/wiki/concepts/investigationconflictofinterest/"
+  },
   "InvestigationDrivenRebellionEscalation": {
     "title": "调查推动式反叛升级 / Investigation-Driven Rebellion Escalation",
     "url": "/wiki/concepts/investigationdrivenrebellionescalation/"
@@ -34666,6 +34686,10 @@
   "KitschAsWasteDenial": {
     "title": "Kitsch As Waste Denial / 媚俗作为排泄否认",
     "url": "/wiki/concepts/kitschaswastedenial/"
+  },
+  "KiyoshiKurokawa": {
+    "title": "Kiyoshi Kurokawa",
+    "url": "/wiki/entities/kiyoshikurokawa/"
   },
   "KiyosumiShirakawa": {
     "title": "Kiyosumi-Shirakawa / 清澄白河",
@@ -52590,6 +52614,10 @@
   "RichardDorson": {
     "title": "Richard Dorson / 理查德·多尔森",
     "url": "/wiki/entities/richarddorson/"
+  },
+  "RichardFeynman": {
+    "title": "Richard Feynman",
+    "url": "/wiki/entities/richardfeynman/"
   },
   "RichardIII": {
     "title": "Richard III / 理查三世",
@@ -72530,6 +72558,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240": {
     "title": "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628": {
+    "title": "Bill Gurley: Searching for Feynman",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-bill-maris-how-google-could-crush-ai-competitors-why-small-funds-win-and-ais-atari-stage-41586010": {
     "title": "Bill Maris: How Google Could Crush AI Competitors, Why Small Funds Win, and AI's Atari Stage",
