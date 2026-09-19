@@ -20142,3 +20142,11 @@ Added source `zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshan
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？
+
+Added source `zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz`; created `ChengPuLateHan`; updated `SunQuan`, `LuSu`, `ZhouYuLateHan`, `ZhangZhaoLateHan`, `RedCliffsBattle`, and `RoleAsymmetricSurrenderIncentives`; migrated and updated `SpecialistDelegationLeadership`; and updated `index.md` and `overview.md`. Core synthesis: Lu Su completes the adviser-versus-ruler surrender comparison, Zhou Yu separates Cao Cao's claimed strength from campaign-ready force through legitimacy and operational analysis, and Sun Quan turns resistance into a role-divided deployment with retained reinforcement responsibility. No settled contradiction found; force totals, exact dialogue, surrender advocates' private motives, and modern leadership analogies remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

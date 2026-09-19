@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d
   - zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg
   - zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv
+  - zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz
 last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
@@ -21,16 +22,16 @@ Zhang Zhao anchors two related functions in the wiki. Under Sun Ce, he supplies 
 
 Hanji 1052 adds another early-transition layer. [[LadyWuSunJian|吴夫人]] entrusts Zhang Zhao and [[ZhangHongLateHan|张纮]] with assisting the under-19 Sun Quan, while [[DongXiLateHan|董袭]] separately reassures her that the generals and officials can hold Jiangdong. The same episode also shows Zhang Zhao criticizing [[LuSu|鲁肃]], with Sun Quan choosing not to let that senior negative judgment decide Lu Su's value.
 
-Hanji 1101 places Zhang Zhao in a later and more severe threat environment. After Cao Cao takes [[Jingzhou|荆州]] and sends the “会猎” letter, Zhang Zhao argues that resistance would lack a defensible public name against the court and that Jingzhou's surrendered fleet has weakened Jiangdong's exclusive use of the Yangtze barrier. His surrender position is therefore a coherent regime-preservation judgment in the source, even though Lu Su exposes how it may underweight Sun Quan's distinct fate as ruler.
+Hanji 1101 places Zhang Zhao in a later and more severe threat environment. After Cao Cao takes [[Jingzhou|荆州]] and sends the “会猎” letter, Zhang Zhao argues that resistance would lack a defensible public name against the court and that Jingzhou's surrendered fleet has weakened Jiangdong's exclusive use of the Yangtze barrier. His surrender position is therefore a coherent regime-preservation judgment in the source, even though Lu Su exposes how it may underweight Sun Quan's distinct fate as ruler. Hanji 1102 records Sun Quan's rejection of this advice after Lu Su and Zhou Yu intervene; it strengthens the outcome evidence but does not add independent support for the host's claim that family self-interest caused Zhang Zhao's position.
 
 ## Key Characteristics
 - Zhang Zhao's appointment as 长史 makes him one of Sun Ce's central administrative supports.
-- Sun Ce's willingness to entrust civil and military affairs to him indicates an unusually high-trust ruler-adviser pairing.
 - Praise from northern 士大夫 becomes politically useful because Sun Ce accepts Zhang Zhao's reputation rather than treating it as rivalry.
 - In the succession crisis, Zhang Zhao responds to Sun Quan's grief with discipline rather than consolation alone.
 - Lady Wu explicitly entrusts him, with Zhang Hong, to assist Sun Quan after Sun Ce's death.
 - His seniority includes conservative caution, visible when he criticizes Lu Su before Sun Quan preserves room for his own judgment.
 - Under Cao Cao's 208 CE pressure, he converts court legitimacy, naval acquisition, and geographic change into a concrete case for surrender.
+- His surrender case loses the policy contest once Lu Su and Zhou Yu separate ruler-level risk from Cao Cao's headline military intimidation.
 
 ## Evidence
 - Administrative trust: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] presents Zhang Zhao as Sun Ce's 长史 and a trusted administrator across civil and military affairs.
@@ -40,15 +41,15 @@ Hanji 1101 places Zhang Zhao in a later and more severe threat environment. Afte
 - Entrusted senior adviser: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says Lady Wu entrusts Zhang Hong and Zhang Zhao with assisting young Sun Quan after Sun Ce's death.
 - Conservative evaluation: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] records Zhang Zhao's criticism of Lu Su and Sun Quan's choice to continue valuing Lu Su.
 - Capitulation case: [[zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv|Hanji 1101]] has Zhang Zhao argue that Cao Cao's court-backed name, Jingzhou fleet, and access to both sides of the Yangtze make resistance strategically and politically dangerous.
+- Decision outcome: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] shows Sun Quan close the surrender debate after hearing the counterarguments, while preserving Zhang Zhao's stated case as distinct from inferred private motive.
 
 ## Qualifications
-The current synthesis emphasizes Zhang Zhao's role in Sun Ce-era administration and early Sun Quan succession. Hanji 1052 adds caution in talent evaluation, while Hanji 1101 adds surrender advocacy under a materially changed threat. Neither should be overread as proof of cowardice, disloyalty, or a complete account of his later Eastern Wu disputes. The episode's claim that fear or family interest explains his position is interpretation; his stated military and legitimacy reasoning is better grounded than his private motive.
+The current synthesis emphasizes Zhang Zhao's role in Sun Ce-era administration and early Sun Quan succession. Hanji 1052 adds caution in talent evaluation, while Hanji 1101-1102 add surrender advocacy and its rejection under a materially changed threat. Neither should be overread as proof of cowardice, disloyalty, or a complete account of his later Eastern Wu disputes. The host's claim that fear or concern for wife and children explains his position is interpretation; his stated military and legitimacy reasoning is better grounded than his private motive.
 
 ## What Changed
-- Added Zhang Zhao's 208 CE surrender argument as a later extension of his conservative regime-preservation role.
-- Grounded that argument in court legitimacy, Jingzhou naval capacity, and changed Yangtze geography.
-- Distinguished his stated strategic case from the host's inferred fear and family motives.
-- Qualified the earlier succession-stabilizer profile without treating the two roles as contradictory.
+- The surrender argument now has a recorded decision outcome: Sun Quan rejects it and mobilizes for resistance.
+- Lu Su's ruler-risk argument and Zhou Yu's military decomposition now explain why Zhang Zhao's regime-level case did not prevail.
+- The distinction between Zhang Zhao's stated reasoning and the host's inferred family motive is strengthened.
 
 ## Relationships
 - [[SunCe|孙策]] - ruler who appoints, trusts, and does not envy Zhang Zhao.

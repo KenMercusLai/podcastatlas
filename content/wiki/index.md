@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？](sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq.md) — 长坂坡兵败后，鲁肃以实力对比、平等合作话术和诸葛瑾关系桥梁推动刘备转向孙权联盟。
 - [《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？](sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv.md) — 曹操“会猎”威胁下，张昭以名分与水军劝降，鲁肃则揭示臣子与主公投降后果的不对称。
+- [《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？](sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz.md) — 鲁肃补全君臣投降后果对比，周瑜拆解曹军威慑，孙权由拒降转入分工部署。
 - [《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？](sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz.md) — 曹操从家族支持下入仕、两次回谯与陈留起盘的早期仕途重构。
 - [《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？](sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny.md) — 曹操以陈留庇护、宗族兵源、屯田供给和跨阵营人才吸附建立早期组织能力的回顾。
 - [《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？](sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3.md) — 芮淇讲透资治通鉴 retrospective on Cao Cao's legitimacy, talent and屯田 foundations, Weinan and Hanzhong turns, Guan Yu's death, and the household memory behind 分香卖履.
@@ -2524,6 +2525,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [程普 / Cheng Pu (late Han)](entities/ChengPuLateHan.md) — Jiangdong commander paired with Zhou Yu from the initial anti-Cao deployment into the Jiangling front.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
 - [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 使刘备失去稳固去处并催生孙刘联盟提案的败局背景。
@@ -4758,7 +4760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高览 / Gao Lan (late Han)](entities/GaoLanLateHan.md) — Yuan Shao general paired with Zhang He in the post-Wuchao defection to Cao Cao.
 - [杨阜 / Yang Fu (late Han)](entities/YangFuLateHan.md) — Liangzhou/Guanzhong official whose pre-Guandu assessment favors Cao Cao over Yuan Shao on decisiveness, law, army strength, and talent use.
 - [魏觊 / Wei Ji (late Han)](entities/WeiJiLateHan.md) — Hedong official whose Guanzhong plan uses salt revenue, farming tools, oxen, and Sili Xiaowei presence to settle refugees and limit local generals before Guandu.
-- [鲁肃 / Lu Su](entities/LuSu.md) — Eastern Wu adviser whose profile runs from leaving Yuan Shu and proposing the Ta Shang Ce to reframing Sun Quan's surrender risk.
+- [鲁肃 / Lu Su](entities/LuSu.md) — Eastern Wu adviser who links alliance brokerage and ruler-risk diagnosis to the recall of military expertise and forward planning.
 - [山越 / Shanyue](entities/Shanyue.md) — Mountain-based Jiangdong local-force field that supports resistance and later forces Sun Quan into county-level pacification through officers and He Qi.
 - [孙翊 / Sun Yi (late Han)](entities/SunYiLateHan.md) — Sun-family son later murdered in the Danyang coup, prompting Lady Xu's staged revenge against Gui Lan and Dai Yuan.
 - [徐夫人 / Lady Xu (Sun Yi)](entities/LadyXuSunYi.md) — Sun Yi's wife who uses mourning delay, staged remarriage, and loyalist coordination to avenge his murder; distinct from the Jing Ke dagger-maker Xu Furen.
@@ -5210,7 +5212,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife who bridges Jiangdong resources, restrains Sun Ce, stabilizes Sun Quan's succession, and endorses Zhou Yu's anti-hostage counsel.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
-- [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor whose profile moves through autonomy, consolidation, pacification, and the role-asymmetric 208 CE surrender crisis.
+- [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through consolidation to a resourced, specialist-led anti-Cao commitment.
 - [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Wu commander whose disciplined troops, protection of Xi Su's command, and Gan Ning relief plan connect personnel judgment with operations.
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
@@ -5254,12 +5256,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
 - [甘宁 / Gan Ning](entities/GanNing.md) — Yizhou talent-loss case who later appears as a calm Eastern Wu commander holding under siege until relief arrives.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
-- [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong administrator and succession stabilizer who later argues for surrender from legitimacy, naval, and geographic asymmetry.
+- [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong administrator and succession stabilizer whose later surrender case is coherent but rejected after Lu Su and Zhou Yu reframe the crisis.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
 - [秦松 / Qin Song (Late Han)](entities/QinSongLateHan.md) — Sun Ce adviser named among the decision participants in Hanji 994's Jiangdong bench.
 - [陈端 / Chen Duan (Late Han)](entities/ChenDuanLateHan.md) — Sun Ce adviser named with Qin Song in Hanji 994 as part of the expanding Jiangdong deliberation group.
 - [陆逊 / Lu Xun (Eastern Wu)](entities/LuXunDongWu.md) — Later Wu commander invoked in Hanji 994 to distinguish later grand-commander offices from Lu Fan's early disciplinary `都督`.
-- [周瑜 / Zhou Yu](entities/ZhouYuLateHan.md) — Sun Ce ally whose profile runs from material Jiangdong support and Wan City command to Sun Quan transition stabilizer and anti-hostage adviser.
+- [周瑜 / Zhou Yu](entities/ZhouYuLateHan.md) — Sun Ce ally and Sun Quan commander who joins material support and succession stabilization to pre-Red-Cliffs campaign analysis and command.
 - [颜回 / Yan Hui](entities/YanHui.md) — Confucius disciple whose "无伐善，无施劳" line is used in Hanji 994 as anti-boasting and anti-jealousy self-cultivation.
 - [笮融 / Ze Rong](entities/ZeRong.md) — Late-Han Xuzhou figure who turns grain and Buddhist display into a following, then repeatedly kills hosts and benefactors.
 - [刘繇 / Liu Yao (late Han)](entities/LiuYaoLateHan.md) — Han-recognized official whose Yuzhang refuge route and posthumous followers create Sun Ce's Taishi Ci trust mission.
@@ -12747,7 +12749,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian commander used in the episode's Sogdian Rock tactical comparison.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
-- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river campaign where disease, readiness, terrain, linked ships, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
+- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
 - [Alex Turner (Economist defence editor)](entities/AlexTurnerEconomist.md) — Economist defense editor connecting Russia's long-range strike advantage to Ukrainian infrastructure, production, and social endurance.
 - [Nemesis Drone Unit](entities/NemesisDroneUnit.md) — Ukrainian battalion combining intelligence, planning, and long-range quadcopter operations behind the front.
 - [Campari](entities/Campari.md) — Drinks company using draft Aperol spritz to contest beer-dominated venues during weaker alcohol demand.
@@ -12757,7 +12759,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [Face-Preserving Alliance Persuasion / 保全体面的结盟说服](concepts/FacePreservingAlliancePersuasion.md) — 通过伙伴价值对比、平等合作话术和私人信任桥梁，让弱势方接受必要联盟。
 - [Longzhong Plan / 隆中对](concepts/LongzhongPlan.md) — 诸葛亮为刘备构想的战略框架，本源在此聚焦联合孙权与夺取荆州的次序调整。
-- [Role-Asymmetric Surrender Incentives / 身份不对称的投降激励](concepts/RoleAsymmetricSurrenderIncentives.md) — Different capitulation payoffs for portable officials and the ruler whose independent authority must be neutralized.
+- [Role-Asymmetric Surrender Incentives / 身份不对称的投降激励](concepts/RoleAsymmetricSurrenderIncentives.md) — Different capitulation payoffs for portable officials and the ruler whose authority, freedom, and safety the victor must neutralize.
 - [制度性退场升级 / Institutional Exit Escalation](concepts/InstitutionalExitEscalation.md) — Distinguishes imposed dismissal, preventive resignation, and an independent-base break.
 - [Verifiable Intent / 可验证意图](concepts/VerifiableIntent.md) — Durable semantic record of what a user authorized an agent to accomplish and under which constraints.
 - [Agent Trust Calibration / 智能体信任校准](concepts/AgentTrustCalibration.md) — Progressive delegation matched to demonstrated capability, bounded risk, traceability, and remedies.
@@ -14893,7 +14895,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [边疆册封信用权衡 / Frontier Recognition Credibility Tradeoff](concepts/FrontierRecognitionCredibilityTradeoff.md) — Eastern Han frontier pattern where rejecting, rewarding, wording, trading, visiting, ritualizing, or recognizing one frontier actor can protect or damage prior commitments, neighboring relations, hierarchy, and public finances.
 - [Recognition-Backed Frontier Diplomacy / 册封威慑式边疆外交](concepts/RecognitionBackedFrontierDiplomacy.md) — Pattern where formal title recognition and credible alternatives make submission or restored vassal rule safer than frontier resistance or outside alignment.
 - [战后复员安民 / Postwar Return and Veteran Relief](concepts/PostwarReturnAndVeteranRelief.md) — Liu Bang's early Han policy of returning displaced people, restoring property, restraining local officials, and supporting or exempting demobilized soldiers.
-- [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Liu Bang's South Palace explanation that he won by recognizing and using Zhang Liang, Xiao He, and Han Xin rather than matching their specialist abilities.
+- [专才分工式领导力 / Specialist Delegation Leadership](concepts/SpecialistDelegationLeadership.md) — Leadership that integrates distinct advisers, commanders, resources, and accountability rather than requiring one person to embody every specialty.
 - [敌意封国安置 / Hostile-Territory Royal Containment](concepts/HostileTerritoryRoyalContainment.md) — Han Xin's relocation from Qi to Chu as both royal reward and exposure to a politically hostile jurisdiction, with personal-security adaptation.
 - [Tactical Self-Vindication Trap / 战术自证陷阱](concepts/TacticalSelfVindicationTrap.md) — Hanji 168 part 2 pattern where Xiang Yu proves tactical courage at Dongcheng while avoiding strategic and political self-correction.
 - [Four-Sided Chu Songs / 四面楚歌](concepts/FourSidedChuSongs.md) — Hanji 168 morale-collapse mechanism where surrounding Chu songs make Xiang Yu experience battlefield encirclement as homeland and people-support collapse.

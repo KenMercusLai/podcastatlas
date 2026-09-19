@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1884
+topic_total_pages: 1883
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1330,9 +1330,6 @@ topic_concepts:
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"
-  - key: "SpecialistDelegationLeadership"
-    title: "专才分工式领导力 / Specialist Delegation Leadership"
-    url: "/wiki/concepts/specialistdelegationleadership/"
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"

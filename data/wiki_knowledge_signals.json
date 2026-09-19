@@ -17595,6 +17595,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chengjinlatehan/"
     },
+    "ChengPuLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/chengpulatehan/"
+    },
     "ChengYanliang": {
       "episode_count": 4,
       "show_count": 1,
@@ -69649,9 +69672,9 @@
       "url": "/wiki/entities/lupieasternhan/"
     },
     "LuSu": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -69680,6 +69703,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
         }
       ],
       "updated": "2026-09-20",
@@ -90792,9 +90822,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RedCliffsBattle": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
@@ -90809,6 +90839,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1106丨曹操在华容道经历了怎样的绝望？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
         }
       ],
       "updated": "2026-09-19",
@@ -93593,9 +93630,9 @@
       "url": "/wiki/entities/rogermortimer/"
     },
     "RoleAsymmetricSurrenderIncentives": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？ [lo1cDNJB5iLjOU-1ojzxSO10EQcV].md",
@@ -93603,6 +93640,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
         }
       ],
       "updated": "2026-09-20",
@@ -101269,6 +101313,43 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/spatialcomputing/"
     },
+    "SpecialistDelegationLeadership": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2） [luet7GqKakO8Idt9o3Ccqq7CGpBt].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-2-luet7gqkako8idt9o3ccqq7cgpbt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1） [lnZzVPIeQtgaTMVGogZ3MSyHS60u].md",
+          "key": "zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2） [lqq8qhRamfziI5O5IcEsd_UaGWKC].md",
+          "key": "zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/specialistdelegationleadership/"
+    },
     "SpecialtyRetailLogistics": {
       "episode_count": 1,
       "show_count": 1,
@@ -104282,9 +104363,9 @@
       "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -104348,6 +104429,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
         }
       ],
       "updated": "2026-09-20",
@@ -126021,9 +126109,9 @@
       "url": "/wiki/entities/zhangyuwesternhan/"
     },
     "ZhangZhaoLateHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
@@ -126052,6 +126140,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
         }
       ],
       "updated": "2026-09-20",
@@ -128301,9 +128396,9 @@
       "url": "/wiki/entities/zhouyouwang/"
     },
     "ZhouYuLateHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -128374,6 +128469,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？ [lh0fWHkQ9G9imfm1ESBlOlh5gzjz].md",
+          "key": "zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1102丨鲁肃一句话戳醒孙权，投降曹操的后果有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz/"
         }
       ],
       "updated": "2026-09-19",
