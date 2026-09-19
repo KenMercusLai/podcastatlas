@@ -20206,3 +20206,11 @@ Added source `zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-r
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？
+
+Added source `zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o`; created `CivilianFollowershipPoliticalCapital`; updated `ChangbanBattle`, `index.md`, and `overview.md`. Core synthesis: Jingzhou civilians' southward movement is read as comparative safety choice, immediate logistical burden, and visible political capital, while Guan Yu's flotilla and Jiangling's supplies explain the objective behind Cao Cao's rapid pursuit. No settled contradiction found; Liu Bei's private motive remains unresolved, and reported civilian, cart, ship, pace, distance, cargo, dialogue, and age details remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2556
+topic_total_pages: 2557
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -616,6 +616,9 @@ topic_concepts:
   - key: "CivilWarThreatRhetoric"
     title: "Civil-War Threat Rhetoric"
     url: "/wiki/concepts/civilwarthreatrhetoric/"
+  - key: "CivilianFollowershipPoliticalCapital"
+    title: "Civilian Followership as Political Capital / 百姓追随型政治资本"
+    url: "/wiki/concepts/civilianfollowershippoliticalcapital/"
   - key: "CivilizationalOptionality"
     title: "Civilizational Optionality"
     url: "/wiki/concepts/civilizationaloptionality/"

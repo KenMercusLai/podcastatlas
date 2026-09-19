@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？](sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o.md) — 荆州百姓以刘备仁德与曹操屠城声誉比较风险，十余万人追随又成为撤退负担和可见政治资本的长坂坡前因。
 - [《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？](sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk.md) — 长坂坡溃败中张飞断桥、赵云救刘禅，以及刘备经汉津会师、夏口重组兵力的战场与恢复链条。
 - [《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？](sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3.md) — 长坂坡惨败后的信念叙事、曹操接收荆州官员，以及文聘以旧主忠义获得江夏重任的政权转换案例。
 - [Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future](sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275.md) — All-In interview on Richland Parish's data-center bargain, paid skilled-trades training, Meta's child-safety defense, smart glasses, and open-model strategy.
@@ -2547,7 +2548,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [程普 / Cheng Pu (late Han)](entities/ChengPuLateHan.md) — Jiangdong commander paired with Zhou Yu from the initial anti-Cao deployment into the Jiangling front.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
-- [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 曹军追击造成刘备集团崩散，又经汉津会师、夏口重组通向孙刘联盟的208年战役。
+- [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 百姓追随造成的慢速南撤被曹军追上，刘备集团崩散后又经汉津会师、夏口重组通向孙刘联盟的208年战役。
 - [马超 / Ma Chao](entities/MaChao.md) — Guanzhong coalition figure whose Weinan defeat is framed through the gap between military concentration and political cohesion.
 - [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
@@ -12777,6 +12778,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Civilian Followership as Political Capital / 百姓追随型政治资本](concepts/CivilianFollowershipPoliticalCapital.md) — 百姓基于安全判断主动追随时，同一群体既构成军事后勤负担，也成为可见的信任与合法性资产。
 - [Post-Defeat Force Reconstitution / 败后兵力重组](concepts/PostDefeatForceReconstitution.md) — 通过改道、后卫掩护、分兵会合、盟军增援与新基地选择，把溃散组织重新变为可用力量。
 - [Portable Political Capital / 可携带政治资本](concepts/PortablePoliticalCapital.md) — 依托强者平台获得的职位、人脉、声望与追随者，如何在失去原有据点后仍保留组织价值。
 - [Kinship-Backed Early-Career Capital / 宗族托举式早期资本](concepts/KinshipBackedEarlyCareerCapital.md) — 家族资助先转化为教育、同学与声望网络，再与外部资金共同形成早期行动能力。

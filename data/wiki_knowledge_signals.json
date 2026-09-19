@@ -16509,9 +16509,9 @@
       "url": "/wiki/entities/changxilatehan/"
     },
     "ChangbanBattle": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？ [llNEV7PZbRaOGD00u0H7i7BA65eq].md",
@@ -16533,6 +16533,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？ [lhNMYFjgxy8LmIOghBsFwoqUzg-o].md",
+          "key": "zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o/"
         }
       ],
       "updated": "2026-09-20",
@@ -19826,6 +19833,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/civilwarthreatrhetoric/"
+    },
+    "CivilianFollowershipPoliticalCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？ [lhNMYFjgxy8LmIOghBsFwoqUzg-o].md",
+          "key": "zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/civilianfollowershippoliticalcapital/"
     },
     "CivilianInfrastructureAirCampaign": {
       "episode_count": 1,
