@@ -20074,3 +20074,11 @@ Added source `drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e`; c
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30
+
+Added source `snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547`; created `SnapSpecs`; migrated and updated `Snap` and `TransitionalAIHardware`; and updated `AIGlassesProductFit`, `AIGlassesComputingPlatform`, `SpatialComputing`, and `WearableOpticalDisplayFriction`. Core synthesis: Specs proves that integrated spatial-computing glasses are technically possible without proving all-day consumer fit; lighter camera/audio assistants and heavier optical spatial tools should be judged as separate product classes, and task-specific guidance may mature before phone replacement. No settled contradiction found; specifications, launch impressions, battery life, ecosystem depth, sales, and the ten-to-twenty-year forecast remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

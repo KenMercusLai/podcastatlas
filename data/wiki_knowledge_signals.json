@@ -2002,9 +2002,9 @@
       "url": "/wiki/concepts/aigeneratedproofgovernance/"
     },
     "AIGlassesComputingPlatform": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
@@ -2012,15 +2012,22 @@
           "show": "三五环",
           "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
           "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        },
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/aiglassescomputingplatform/"
     },
     "AIGlassesProductFit": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP253 爆火的AI好物，到底是“真香”还是智商税？ [lgT0cDKoTgNZjl0MU2tx41P9fW_4].md",
@@ -2042,9 +2049,16 @@
           "show": "三五环",
           "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
           "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        },
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/aiglassesproductfit/"
     },
     "AIGuidedLearningGuardrails": {
@@ -98726,6 +98740,59 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/smartisan/"
     },
+    "Snap": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260422_0422_MP_TECH_pod_128 [tech_20260422_0422_MP_TECH_pod_128].md",
+          "key": "tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "When do tech companies need to be consistently profitable?",
+          "url": "/wiki/sources/tech-20260422-0422-mp-tech-pod-128-tech-20260422-0422-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260205_0205_MP_TECH_pod_128 [tech_20260205_0205_MP_TECH_pod_128].md",
+          "key": "tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Is social media addictive? And are social media companies liable?",
+          "url": "/wiki/sources/tech-20260205-0205-mp-tech-pod-128-tech-20260205-0205-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/snap/"
+    },
+    "SnapSpecs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/snapspecs/"
+    },
     "SnobberyAsValueRanking": {
       "episode_count": 1,
       "show_count": 1,
@@ -99918,9 +99985,9 @@
       "url": "/wiki/concepts/spacebasedaiinfrastructure/"
     },
     "SpatialComputing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
@@ -99928,9 +99995,16 @@
           "show": "三五环",
           "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
           "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        },
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/spatialcomputing/"
     },
     "SpecialtyRetailLogistics": {
@@ -108039,6 +108113,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/transithubcommanderycontrol/"
     },
+    "TransitionalAIHardware": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Why AI will dwarf every tech revolution before it： robots, manufacturing, AR glasses from CES 2026 [39655790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790/"
+        },
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/transitionalaihardware/"
+    },
     "TransportRouteBurdenRelief": {
       "episode_count": 1,
       "show_count": 1,
@@ -113795,9 +113892,9 @@
       "url": "/wiki/concepts/wearablehealthinsight/"
     },
     "WearableOpticalDisplayFriction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoN6uwMAooZSQSet9vd [GKwRIDoN6uwMAooZSQSet9vd].md",
@@ -113805,9 +113902,16 @@
           "show": "三五环",
           "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
           "url": "/wiki/sources/no-221-leiniao-ceo-xinjishu-yuelaiyueduo-women-weishenme-hai-xuyao-yifu-zhineng-yanjing-gkwridon6uwmaoosszqset9vd/"
+        },
+        {
+          "episode_file": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30 [f98c4370-6653-4af3-9a43-386bf0ea0547].md",
+          "key": "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547",
+          "show": "What's Next｜科技早知道",
+          "title": "Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30",
+          "url": "/wiki/sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/wearableopticaldisplayfriction/"
     },
     "WebOS": {

@@ -632,12 +632,13 @@
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
       "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
-      "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42"
+      "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
+      "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235"
     ],
-    "paragraph_count": 632
+    "paragraph_count": 633
   },
-  "overview_commit": "b5c1b63367e1a9b58ace9da77278c4929597485f",
-  "overview_digest": "6d10e3ceaf6e3bb174985665a336979fdb0f8efc87745c932e58c7d44f28f2de",
+  "overview_commit": "2d896ad50597284df0b9e2a21eaf3693ca265cb1",
+  "overview_digest": "6f8e09686504f60ec22f3f2563615ac661b4f5a95b1003d18545c92be0bd0db6",
   "paragraphs": [
     {
       "id": "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
@@ -19286,6 +19287,28 @@
         "FlockSafety",
         "MarketplaceTech",
         "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547|Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30]], a [[WhatsNextKejiZaozhidao|What's Next｜科技早知道]] episode evaluating [[SnapSpecs|Snap Specs]] as an integrated but transitional spatial-computing product. It updates [[Snap]], [[AIGlassesProductFit]], [[AIGlassesComputingPlatform]], [[SpatialComputing]], [[WearableOpticalDisplayFriction]], and [[TransitionalAIHardware]] by separating technical feasibility from consumer readiness: optical display, tracking, gestures, AI, an operating system, creator tooling, and phone-independent networking can coexist in glasses while roughly 132-136 gram weight, a $2,195 pre-tax price, four hours of stated battery life, interaction limits, and an unfocused demo portfolio still prevent a clear all-day mass-market case. Its core synthesis is that lighter camera-and-audio assistants and fuller optical spatial tools should be judged as different product classes, with assembly, repair, training, guidance, and shared AR potentially maturing before phone replacement. No settled contradiction is recorded; specifications, launch impressions, sustained battery and comfort, third-party ecosystem depth, sales, and the ten-to-twenty-year forecast remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AIGlassesComputingPlatform",
+        "AIGlassesProductFit",
+        "Snap",
+        "SnapSpecs",
+        "SpatialComputing",
+        "TransitionalAIHardware",
+        "WearableOpticalDisplayFriction",
+        "WhatsNextKejiZaozhidao",
+        "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547"
       ]
     }
   ],

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30](sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547.md) — What's Next episode on Snap Specs, integrated spatial-computing glasses, engineering progress, product-readiness limits, and the display-versus-camera AI-wearable choice.
 - [Trump rejects AI's "effective altruism" movement](sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128.md) — Marketplace Tech episode linking contested AI-slowdown politics, Flock license-plate-reader misuse and security concerns, and Apple's device-origin photo authentication.
 - [Jared Isaacman: A New Era for NASA and American Space Exploration](sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838.md) — All-In interview presenting Isaacman's focused NASA agenda around Artemis, incremental lunar presence, South Pole operations, nuclear-electric propulsion, commercial procurement, and competition with China.
 - [2026秋季篇E03 尊严死？！日本医生被判杀人事件](sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4.md) — 日谈物语 opening on a 2005 Japanese doctor's murder conviction, end-of-life classification, disclosure duties, overtreatment, and patient autonomy, with the case facts unresolved because only three minutes are transcribed.
@@ -2515,6 +2516,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
 
 ## Entities
+- [Snap Specs](entities/SnapSpecs.md) — Snap's integrated optical spatial-computing glasses, technically ambitious but not yet proven as an all-day mass-market product.
 - [Jared Isaacman](entities/JaredIsaacman.md) — Space-policy leader advocating a concentrated NASA portfolio, a lunar proving ground, and a public-private frontier capability boundary.
 - [Domino's Pizza](entities/DominosPizza.md) — Restaurant and delivery company that turned internal order telemetry into a customer-facing progress experience.
 - [Domino's Pizza Tracker](entities/DominosPizzaTracker.md) — Staged order-status product that made invisible pizza-production and delivery work legible to customers.
