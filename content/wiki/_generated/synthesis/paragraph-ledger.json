@@ -637,12 +637,13 @@
       "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
       "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
       "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
-      "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68"
+      "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
+      "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73"
     ],
-    "paragraph_count": 637
+    "paragraph_count": 638
   },
-  "overview_commit": "230b3c0f54f4a7ab8844dfd829d85f3162d65910",
-  "overview_digest": "c90bf286019da2ad589dcfcaf1631b66ff29464806953865dc1d40cf3de7b395",
+  "overview_commit": "b644879ecad1f59be4cafaf20b986e491cc7da13",
+  "overview_digest": "91294052cc412bb7024b2b0b97cc024a399d5f326f111aa5735b5c6619c66fcb",
   "paragraphs": [
     {
       "id": "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
@@ -19401,6 +19402,29 @@
         "ShengdongZaokafei",
         "SyntheticFlavorScalability",
         "tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497"
+      ]
+    },
+    {
+      "id": "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny|《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] retrospective on [[CaoCao|曹操]]'s early capacity formation. It extends [[WeiZiLateHan|卫兹]], [[CaoSong|曹嵩]], [[Chenliu|陈留]], [[CaoHong|曹洪]], [[XiahouDun|夏侯惇]], [[CaoRen|曹仁]], [[LiDian|李典]], and [[TuntianSystem|屯田制]]. Its core synthesis is that Cao Cao's first organization joined Zhang Miao's political shelter, Wei Zi's private backing, kin-based organized manpower, agricultural logistics, and recruitment able to transfer whole adviser, clan, and military networks rather than isolated individuals. No settled contradiction is recorded; the 192 CE Qingzhou phase is separated from the 196 CE formal Xudu implementation, while direct-financing, troop, population, office-price, and talent-edict details remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "CaoCao",
+        "CaoHong",
+        "CaoRen",
+        "CaoSong",
+        "Chenliu",
+        "LiDian",
+        "RuiqiJiangtouZizhiTongjian",
+        "TuntianSystem",
+        "WeiZiLateHan",
+        "XiahouDun",
+        "zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny"
       ]
     }
   ],

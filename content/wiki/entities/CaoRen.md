@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm
   - zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc
   - zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr
+  - zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny
 last_updated: 2026-09-19
 knowledge_schema: synthesis-v1
 ---
@@ -14,15 +15,16 @@ knowledge_schema: synthesis-v1
 # 曹仁 / Cao Ren
 
 ## Overview
-曹仁 / Cao Ren is a trusted Cao-clan commander whose profile spans Cao Cao's post-Yanzhou personnel architecture, a counterstrike against Liu Bei, and responsibility for Jiangling after Red Cliffs.
+曹仁 / Cao Ren is a trusted Cao-clan commander whose profile spans kin-organized entry into Cao Cao's early force, post-Yanzhou personnel architecture, a counterstrike against Liu Bei, and responsibility for Jiangling after Red Cliffs.
 
 ## Current Profile
-Hanji 974 uses Cao Ren as evidence that [[CaoCao|曹操]] keeps decisive force near clan figures such as Cao Ren and [[XiahouDun|夏侯惇]] after the [[YanzhouLateHan|兖州]] betrayal. Hanji 1047 makes that trust operational: Cao Ren judges that [[LiuBei|刘备]] cannot control newly assigned Yuan-side troops, defeats him with cavalry, and recovers counties around [[RunanCommanderyLateHan|汝南]].
+Hanji 1104 backfills the basis of that trust by presenting Cao Ren as joining Cao Cao with more than a thousand young followers, an organized contribution rather than a solitary appointment. Hanji 974 uses Cao Ren as evidence that [[CaoCao|曹操]] later keeps decisive force near clan figures such as Cao Ren and [[XiahouDun|夏侯惇]] after the [[YanzhouLateHan|兖州]] betrayal. Hanji 1047 makes that trust operational: Cao Ren judges that [[LiuBei|刘备]] cannot control newly assigned Yuan-side troops, defeats him with cavalry, and recovers counties around [[RunanCommanderyLateHan|汝南]].
 
 Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao Cao leaves Cao Ren at [[JianglingLateHan|江陵]] with [[XuHuangCaoGeneral|徐晃]] supporting the wider line from 樊城; Hanji 1108 then emphasizes how Jiangling's loss would damage Cao-side military reach, political influence, economic access, and counterattack options. [[GanNing|甘宁]]'s seizure of [[YilingLateHan|夷陵]] turns that responsibility into a flank crisis.
 
 ## Key Characteristics
 - Trusted clan commander used to secure core military power.
+- Early contributor of an organized youth following to Cao Cao's force.
 - Combines loyalty value with tactical judgment.
 - Reads unstable enemy command as a cavalry opening.
 - Receives responsibility for the Jiangling corridor after Red Cliffs.
@@ -31,17 +33,18 @@ Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao
 
 ## Evidence
 - Clan-command role: [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]] pairs Cao Ren with Xiahou Dun in Cao Cao's tightened military core.
+- Organized entry: [[zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny|Hanji 1104]] says Cao Ren brings more than a thousand young followers into Cao Cao's early army.
 - Counterstrike: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] has him diagnose Liu Bei's control weakness and recover rebel counties.
 - Corridor command and flank pressure: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] places Cao Ren and Xu Huang at Jiangling and connects Gan Ning's Yiling seizure to their defensive problem.
 - Immediate defensive assignment: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] has Cao Cao leave Cao Ren at Jiangling after retreating from Red Cliffs.
 
 ## Qualifications
-This is not a full biography. Hanji 974 is retrospective, Hanji 1047 gives one offensive operation, and Hanji 1107-1108 emphasize Jiangling's strategic burden more than Cao Ren's detailed actions. The counterattack continues in compressed form into Hanji 1109.
+This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, and Hanji 1107-1108 emphasize Jiangling's strategic burden more than Cao Ren's detailed actions. The reported size and composition of Cao Ren's first following require narrower verification, and the counterattack continues in compressed form into Hanji 1109.
 
 ## What Changed
-- Added Hanji 1107's immediate post-retreat assignment at Jiangling.
-- Clarified the Jiangling-Fancheng line before the Yiling flank crisis.
-- Preserved the earlier clan-trust and mobile-counterattack profile.
+- Added Cao Ren's reported organized following at the start of Cao Cao's mobilization.
+- Connected early kin-based force formation to later clan-command trust.
+- Kept the follower count and compressed chronology source-scoped.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler relying on Cao Ren as clan military capacity.

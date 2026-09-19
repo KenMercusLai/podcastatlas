@@ -10,6 +10,7 @@ sources:
   - zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy
   - zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku
   - zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz
+  - zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny
 last_updated: 2026-09-20
 ---
 
@@ -21,7 +22,7 @@ Cao Song's attachment to Cao Teng's household makes Cao Cao's early recommendati
 
 His death has the largest downstream consequence in the current evidence. One textual line attributes the killing directly to [[TaoQianLateHan|陶谦]], while another emphasizes [[ZhangKaiAssassin|张闿]]'s robbery during an escort mission. Both routes end in Cao Cao's attack on Xuzhou and the [[XuzhouMassacreLateHan|徐州屠杀]], so responsibility must remain contested even though the political effect is clear.
 
-Hanji 1103 strengthens Cao Song's early enabling role but does not resolve whether he financed Cao Cao's first recruitment at [[Chenliu|陈留]]; the episode deliberately leaves that question for its sequel.
+Hanji 1103 strengthens Cao Song's early enabling role but leaves open whether he financed Cao Cao's first recruitment at [[Chenliu|陈留]]. Hanji 1104 answers within its own narrative that he did not provide direct cash: Cao Cao instead drew on the political and marriage network accumulated by his father, while [[WeiZiLateHan|卫兹]] and Cao-Xiahou relatives supplied immediate money, resources, and organized manpower. This sharpens the distinction between inherited access and startup finance without independently settling Cao Song's full contribution.
 
 ## Key Characteristics
 - Adopted son of Cao Teng and transmitter of a powerful eunuch-household connection.
@@ -29,19 +30,21 @@ Hanji 1103 strengthens Cao Song's early enabling role but does not resolve wheth
 - Late-Han grand commandant whose brief tenure sits inside rapid top-office turnover.
 - Figure whose family line gives Cao Cao both privilege and reputational vulnerability.
 - Murder victim whose disputed death becomes the immediate trigger for Cao Cao's Xuzhou campaign.
+- Wealthy father presented as an indirect network enabler rather than the direct financier of Cao Cao's first army.
 
 ## Evidence
 - Family access: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], and [[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz|Hanji 1103]] connect Cao Song's adoption and status to Cao Cao's early entry.
 - High office: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] records his appointment as grand commandant, while [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy|Hanji 939]] records his removal.
 - Death and aftermath: [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] preserves competing attributions and links the killing to the Xuzhou campaign.
+- Indirect support: [[zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny|Hanji 1104]] denies a direct cash transfer while attributing enabling political and marriage connections to Cao Song's accumulated position.
 
 ## Qualifications
-The source set does not settle Cao Song's ancestry before adoption, the full route to his high office, or the exact responsibility for his death. Hanji 1103 calls him exceptionally wealthy but only asks whether he supplied Cao Cao's first military capital; that financing claim remains unresolved and is not treated as fact.
+The source set does not settle Cao Song's ancestry before adoption, the full route to his high office, or the exact responsibility for his death. Hanji 1104's denial of direct financing is the sequel's answer to Hanji 1103, but the episode does not show its documentary basis. Its one-hundred-million-cash office-price claim and comparison with annual state revenue also require primary-text verification.
 
 ## What Changed
-- Migrated the page to synthesis-v1 while preserving its five-source inventory.
-- Added Hanji 1103's stronger account of Cao Song as an enabling family-access node.
-- Kept the proposed Chenliu financing role explicitly unresolved.
+- Distinguished Cao Song's inherited network contribution from the direct resources attributed to Wei Zi and Cao-Xiahou followers.
+- Recorded Hanji 1104's no-direct-cash claim while keeping it source-scoped.
+- Added explicit caution around the episode's wealth and state-revenue comparison.
 
 ## Relationships
 - [[CaoTengLateHan]] - adoptive father whose palace standing shapes Cao Song's family position.

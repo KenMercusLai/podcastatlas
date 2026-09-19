@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？](sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz.md) — 曹操从家族支持下入仕、两次回谯与陈留起盘的早期仕途重构。
+- [《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？](sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny.md) — 曹操以陈留庇护、宗族兵源、屯田供给和跨阵营人才吸附建立早期组织能力的回顾。
 - [《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？](sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3.md) — 芮淇讲透资治通鉴 retrospective on Cao Cao's legitimacy, talent and屯田 foundations, Weinan and Hanzhong turns, Guan Yu's death, and the household memory behind 分香卖履.
 - [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87.md) — 硅谷101 roundtable on verifiable intent, KYA, bounded authorization, secure execution, A2A norms, and consumer recourse before agent transactions can scale.
 - [一場物理意義上的男女對立：重慶時代峰峻事件](sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian.md) — 端闻 reconstructs a Chongqing fan conflict through missing footage, gendered scrutiny, and rival uses of shared political language.
@@ -4983,7 +4984,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [曹寅 / Cao Yin (late Han)](entities/CaoYinLateHan.md) — Wuling administrator who forges a court-envoy order to push Sun Jian against Wang Rui after Wang Rui threatens him.
 - [张咨 / Zhang Zi (late Han)](entities/ZhangZiLateHan.md) — Nanyang administrator whom Sun Jian kills after a grain refusal, making supply coercion part of Sun Jian's pre-Yuan-Shu rise.
 - [蒯良 / Kuai Liang](entities/KuaiLiang.md) — Jingzhou adviser who gives Liu Biao the people-support and renyi half of the initial consolidation plan.
-- [魏兹 / Wei Zi (late Han)](entities/WeiZiLateHan.md) — Zhang Miao officer who supports Cao Cao's first westward anti-Dong-Zhuo attack before the Bianshui defeat.
+- [魏兹 / Wei Zi (late Han)](entities/WeiZiLateHan.md) — Early Cao Cao backer who contributes private resources and manpower before dying in the Bianshui campaign.
 - [汴水之战 / Bianshui Battle (late Han)](entities/BianshuiBattleLateHan.md) — Cao Cao's early anti-Dong-Zhuo defeat by Xu Rong, remembered here for Cao Hong's rescue and Cao's later coalition critique.
 - [酸枣大营 / Suanzao Camp](entities/SuanzaoCamp.md) — anti-Dong-Zhuo coalition camp whose inaction and grain failure expose the limits of shared-enemy mobilization.
 - [襄阳 / Xiangyang (late Han)](entities/XiangyangLateHan.md) — Liu Biao's Jingzhou administrative base after the initial consolidation in Hanji 953.
@@ -5141,7 +5142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — Chenliu observer who predicts that Cao Cao's ambition and Zhang Miao's local base will eventually destabilize their friendship.
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
 - [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
-- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose wiki role now spans post-Yanzhou trusted military control and Cao Ren's cavalry counterstrike against Liu Bei before Guandu.
+- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose role spans an organized early following, post-Yanzhou trusted command, the Runan counterstrike, and Jiangling defense.
 - [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
 - [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
@@ -5165,8 +5166,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [靳允 / Jin Yun (Late Han)](entities/JinYunLateHan.md) — Fan County magistrate persuaded by Cheng Yu to hold for Cao Cao despite family hostage pressure from Lü Bu.
 - [范仪 / Fan Yi (Late Han)](entities/FanYiLateHan.md) — Lü Bu-side entrant killed by Jin Yun's ambush at Fan County during the Yanzhou crisis.
 - [范县 / Fan County (Late Han)](entities/FanCountyLateHan.md) — Remaining Cao-side Yanzhou county preserved when Jin Yun kills Fan Yi after Cheng Yu's persuasion.
-- [夏侯惇 / Xiahou Dun](entities/XiahouDun.md) — Cao-side commander whose profile combines early force rebuilding, Yanzhou rear stabilization, caution around Xun Yu, and a Bowang pursuit failure after ignoring Li Dian's ambush warning.
-- [李典 / Li Dian](entities/LiDian.md) — Cao-side officer who correctly reads Liu Bei's burned-camp withdrawal at Bowang as an ambush signal and rescues Xiahou Dun.
+- [夏侯惇 / Xiahou Dun](entities/XiahouDun.md) — Cao-side commander whose profile combines a self-supported early following, Yanzhou stabilization, practical caution, and a Bowang pursuit failure.
+- [李典 / Li Dian](entities/LiDian.md) — Cao-side officer whose profile combines group-scale recruitment, correct reading of the Bowang lure, and Xiahou Dun's rescue.
 - [夏侯渊 / Xiahou Yuan](entities/XiahouYuan.md) — Cao-side commander sent with Zhang Liao to besiege Chang Xi in Donghai.
 - [许众 / Xu Zhong (Jin commentator)](entities/XuZhongJin.md) — Later commentator whose criticism of Jin Yun frames the Fan County case as a filial-duty and loyalty dilemma.
 - [仓亭津 / Cangting Ford (Late Han)](entities/CangtingFordLateHan.md) — Yellow River crossing where Cheng Yu blocks Chen Gong's advance toward Dong'e and Cao Cao's remaining Yanzhou base.
@@ -5632,7 +5633,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李通 / Li Tong (late Han)](entities/LiTongLateHan.md) — Cao-aligned military actor whose profile now combines law-over-kinship enforcement, refusal of Yuan Shao's commission, and the Yang'an cotton-silk levy dilemma.
 - [汝南郡 / Runan Commandery (late Han)](entities/RunanCommanderyLateHan.md) — Pre-Guandu local allegiance field where Yellow Turban remnants answer Yuan Shao and pressure Cao-aligned Li Tong.
 - [刘辟 / Liu Pi (Runan late Han)](entities/LiuPiRunanLateHan.md) — Runan Yellow Turban remnant whose Yuan Shao-aligned recruitment pressure tests Li Tong's Cao allegiance.
-- [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family kinsman whose lawbreaking clients create the Man Chong enforcement case and the law-over-kinship governance signal.
+- [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family resource contributor and battlefield rescuer whose later client network tests law over kinship.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao-side official whose profile joins Chang'an appointment persuasion, Xun Yu's talent chain, Guanzhong stabilization, and the Pingyang defeat of Guo Yuan.
 - [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader whose profile moves from Liangzhou rebel formation and Guanzhong conflict into Fu Gan-framed cooperation with Zhong Yao against Guo Yuan.
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
@@ -5643,7 +5644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
 - [毛玠 / Mao Jie](entities/MaoJie.md) — Cao Cao adviser whose Hanji 968 strategy pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
-- [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's father, whose disputed killing triggers the Xuzhou revenge branch in Hanji 971.
+- [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's wealthy father and network enabler whose disputed killing later triggers the Xuzhou revenge branch.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
 - [应劭 / Ying Shao (Late Han)](entities/YingShaoLateHan.md) — Taishan official ordered to receive Cao Song, then fleeing after the killing.
 - [曹嵩遇害 / Cao Song Murder](entities/CaoSongMurder.md) — 193 CE disputed killing preserved through competing Tao Qian and Zhang Kai responsibility traditions.
@@ -5915,7 +5916,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵成 / Zhao Cheng (Qin)](entities/ZhaoChengQin.md) — Zhao Gao's younger brother and later 郎中令, disambiguated from the Warring States Zhao Cheng and tied to the coup against Hu Hai.
 - [张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips](entities/ZhangjiashanHanmuZhujian.md) — Excavated Qin-Han evidence used in Qinji 138 to correct "宦人/宦籍" and "隐官" vocabulary around Zhao Gao.
 - [睡虎地秦简 / Shuihudi Qin Slips](entities/ShuihudiQinJian.md) — Excavated Qin legal-administrative material used to support reading "隐官" as status/workplace rather than castration.
-- [陈留 / Chenliu](entities/Chenliu.md) — Qinji 136 route hub where Li Shiqi's risky inside action gives Liu Bang grain, weapons, recruits, and a stronger westward base.
+- [陈留 / Chenliu](entities/Chenliu.md) — Route-and-resource hub that supports both Liu Bang's westward expansion and Cao Cao's first independent mobilization.
 - [皖城 / Wan City (Lujiang)](entities/WanChengLujiang.md) — Liu Xun's Lujiang rear base captured by Sun Ce and Zhou Yu after the Shangliao lure.
 - [宛县 / Wan County](entities/WanCounty.md) — Nanyang commandery center whose branches include Liu Bang's rewarded surrender-pacification, Zhang Xiu's post-Zhang-Ji stationing, and Cao Cao/Zhang Xiu's Wancheng disaster.
 - [陈恢 / Chen Hui (Nanyang)](entities/ChenHuiNanyang.md) — Nanyang retainer who persuades Liu Bang to accept Wan's surrender by appealing to his Guanzhong deadline under the Huaiwang agreement.
@@ -14829,7 +14830,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
 - [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
 - [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal-core, royal-household, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
-- [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, with Hanji 968 Mao Jie/Qingzhou prehistory and Hanji 1008 Zao Zhi/Ren Jun formal implementation.
+- [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, distinguishing 192 CE Qingzhou population conversion from 196 CE Xudu institutional implementation.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
 - [弱势名分安抚 / Weak-Position Pacification](concepts/WeakPositionPacification.md) — Pattern where weak formal appointment becomes real order through reassurance, status grants, livelihood repair, and delayed defense.
 - [Grain Leverage Alliance Betrayal / 粮食诱导式同盟背叛](concepts/GrainLeverageAllianceBetrayal.md) — Hanji 999 pattern where Yuan Shu's promised grain lets Lü Bu seize Xiapi from Liu Bei, showing scarcity as an alliance-switching lever.

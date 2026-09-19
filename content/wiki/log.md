@@ -20118,3 +20118,11 @@ Added source `zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-d
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？
+
+Added source `zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny`; migrated and updated `WeiZiLateHan`, `CaoHong`, and `TuntianSystem`; updated `CaoSong`, `Chenliu`, `XiahouDun`, `CaoRen`, and `LiDian`; and updated `index.md`. Core synthesis: Cao Cao's early capacity came from Chenliu political shelter, Wei Zi's private backing, organized kin followings, and later agricultural logistics, while talent recruitment could transfer whole adviser, clan, and military networks rather than isolated individuals. No settled contradiction found; the 192-versus-196屯田 chronology is separated into strategic prehistory and formal implementation, and the financing, troop, population, office-price, and talent-edict claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

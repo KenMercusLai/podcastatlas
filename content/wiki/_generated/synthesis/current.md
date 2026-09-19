@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-20
-as_of_overview_commit: 230b3c0f54f4a7ab8844dfd829d85f3162d65910
+as_of_overview_commit: b644879ecad1f59be4cafaf20b986e491cc7da13
 summary: "Podcast Atlas synthesizes evidence across technology, markets, culture, governance, history, psychology, health, work, and education with explicit qualifications."
-episode_count: 2511
-source_count: 2511
-paragraph_count: 637
+episode_count: 2512
+source_count: 2512
+paragraph_count: 638
 topic_count: 8
 ---
 
@@ -57,7 +57,7 @@ Political order depends on more than formal rules: legitimacy, appointments, inf
 
 ### History and Geopolitics
 
-Historical outcomes emerge from the interaction of legitimacy with logistics, geography, coalition structure, military organization, and timing. Han, Roman, borderland, and strategic-route cases repeatedly qualify heroic or title-centered explanations: formal claims become effective only when backed by material capacity and enforceable alliances. Source criticism remains essential where later narratives compress complex campaigns into moralized stories.
+Historical outcomes emerge from the interaction of legitimacy with logistics, geography, coalition structure, military organization, and timing. Hanji 1104 adds that early Cao-side capacity joined political shelter, private backing, kin-organized manpower, agricultural production, and network-scale recruitment before battlefield success could become durable power. Han, Roman, borderland, and strategic-route cases continue to qualify heroic or title-centered explanations, with source criticism required where later narratives compress chronology, numbers, and motive.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].

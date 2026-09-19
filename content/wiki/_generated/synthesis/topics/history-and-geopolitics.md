@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: 49a3b6daf4b7c62803e6469f8297c6846f9e8a07
-input_digest: 66fd8357b55a0c021de214c0ad77fda9e4bf25e3ec487450c190b2844a870c77
+as_of_overview_commit: b644879ecad1f59be4cafaf20b986e491cc7da13
+input_digest: dd0425d720acc8ec85957ef87271ff00771135d57b132bb9cb10609fae002caf
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 1105 adds a late-Han power-and-limits layer: Cao Cao's emperor-backed legitimacy, talent conversion, agricultural logistics, and command support the Weinan victory, while Hanzhong, Guan Yu's northern campaign, Xiahou Yuan's death, and unresolved household loss expose strategic and personal limits. Hanji 1110 retains the related reward-and-route layer in which [[TianChou|Tian Chou]] converts [[LulongRoadLateHan|Lulong Road]] knowledge into campaign value but resists enfeoffment until recognition changes form. The completed 1868 Abyssinian campaign remains the newest large comparative arc, and the domain continues to connect state capacity, legitimacy, strategic routes, war, diplomacy, and court access.
+The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, and reciprocal credibility to usable state capacity. Hanji 1104 adds Cao Cao's early formation layer: Chenliu shelter, Wei Zi's private backing, kin-organized manpower, agricultural logistics, and group-scale recruitment precede the late-career power-and-limits synthesis in Hanji 1105. The topic retains Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific numbers and motives kept qualified.
 
 ## Cross-source Findings
 
@@ -304,3 +304,15 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 
 - The episode is a compressed retrospective rather than a complete chronology of Cao Cao's career.
 - Battlefield dialogue, final words, Guan Yu burial symbolism, and modern economic-independence language remain source-scoped interpretations.
+
+### Hanji 1104 Cao Cao Capacity Combines Shelter Kin Logistics And Talent
+
+[[zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny|Hanji 1104]] adds an early [[CaoCao|Cao Cao]] capacity layer in which [[Chenliu]] shelter, [[WeiZiLateHan|Wei Zi]]'s private backing, kin-organized manpower, [[TuntianSystem|agricultural logistics]], and recruitment of whole adviser and military networks combine before battlefield success becomes durable power.
+
+**Evidence:** [[zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny]], [[CaoCao]], [[Chenliu]], [[WeiZiLateHan]], [[TuntianSystem]], [[CaoHong]], [[XiahouDun]], [[CaoRen]], [[LiDian]]
+
+**Qualifications:**
+
+- The episode is a compressed retrospective and does not provide the texts or dates of Cao Cao's three talent summonses.
+- The 192 CE Qingzhou phase is treated as strategic and demographic prehistory, while formal Xudu implementation remains grounded in the 196 CE account.
+- Direct-financing, troop, population, office-price, and group-transfer numbers remain source-scoped.
