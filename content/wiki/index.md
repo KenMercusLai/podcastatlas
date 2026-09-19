@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一場物理意義上的男女對立：重慶時代峰峻事件](sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian.md) — 端闻 reconstructs a Chongqing fan conflict through missing footage, gendered scrutiny, and rival uses of shared political language.
 - [Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30](sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547.md) — What's Next episode on Snap Specs, integrated spatial-computing glasses, engineering progress, product-readiness limits, and the display-versus-camera AI-wearable choice.
 - [Trump rejects AI's "effective altruism" movement](sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128.md) — Marketplace Tech episode linking contested AI-slowdown politics, Flock license-plate-reader misuse and security concerns, and Apple's device-origin photo authentication.
 - [Jared Isaacman: A New Era for NASA and American Space Exploration](sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838.md) — All-In interview presenting Isaacman's focused NASA agenda around Artemis, incremental lunar presence, South Pole operations, nuclear-electric propulsion, commercial procurement, and competition with China.
@@ -2516,6 +2517,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
 
 ## Entities
+- [时代峰峻 / Shidai Fengjun](entities/ShidaiFengjun.md) — Chinese trainee-idol company whose Chongqing premises became the site and symbol of a gendered fan conflict.
 - [Snap Specs](entities/SnapSpecs.md) — Snap's integrated optical spatial-computing glasses, technically ambitious but not yet proven as an all-day mass-market product.
 - [Jared Isaacman](entities/JaredIsaacman.md) — Space-policy leader advocating a concentrated NASA portfolio, a lunar proving ground, and a public-private frontier capability boundary.
 - [Domino's Pizza](entities/DominosPizza.md) — Restaurant and delivery company that turned internal order telemetry into a customer-facing progress experience.
@@ -12736,6 +12738,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Fragmented Video Event Reconstruction / 碎片影像事件重构](concepts/FragmentedVideoEventReconstruction.md) — Inferring public events from incomplete clips after provenance, chronology, and original posts become unavailable.
+- [Gendered Fandom Delegitimation / 性别化追星贬抑](concepts/GenderedFandomDelegitimation.md) — Asymmetry that treats women-dominated fandom as irrational while granting male antagonism more civic legitimacy.
+- [Shared Political Legitimacy Vocabulary / 共享政治正当性词汇](concepts/SharedPoliticalLegitimacyVocabulary.md) — Common patriotic and official-value language that opposing groups reuse to authorize cultural conflict.
 - [Device-Origin Photo Authentication](concepts/DeviceOriginPhotoAuthentication.md) — Capture-time signing and protected reference images that verify a bounded device-origin claim without treating every unauthenticated photo as fake.
 - [NASA Mission Concentration](concepts/NASAMissionConcentration.md) — Proposal to focus NASA's budget and technical ownership on fewer consequential frontier missions.
 - [Frontier Agency-Commercial Boundary](concepts/FrontierAgencyCommercialBoundary.md) — Dynamic division between mature services bought from industry and frontier capabilities retained by a public technical agency.

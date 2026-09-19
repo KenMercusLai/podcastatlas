@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7541
+wiki_total_pages: 7544
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "FragmentedCeasefireEnforcement"
     title: "Fragmented Ceasefire Enforcement"
     url: "/wiki/concepts/fragmentedceasefireenforcement/"
+  - key: "FragmentedVideoEventReconstruction"
+    title: "Fragmented Video Event Reconstruction / 碎片影像事件重构"
+    url: "/wiki/concepts/fragmentedvideoeventreconstruction/"
   - key: "FragranceProductStorytelling"
     title: "Fragrance Product Storytelling / 香气产品叙事"
     url: "/wiki/concepts/fragranceproductstorytelling/"

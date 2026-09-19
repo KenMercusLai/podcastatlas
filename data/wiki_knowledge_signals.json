@@ -29355,9 +29355,9 @@
       "url": "/wiki/entities/duanzhiqiang/"
     },
     "DuanwenNewsPodcast": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
@@ -29379,9 +29379,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "「人人喊打」的八哥，與台灣的「外來物種」難題",
           "url": "/wiki/sources/wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42/"
+        },
+        {
+          "episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
+          "key": "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "一場物理意義上的男女對立：重慶時代峰峻事件",
+          "url": "/wiki/sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
     "Dubai": {
@@ -39156,6 +39163,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/foxconnindustrialinternet/"
     },
+    "FragmentedVideoEventReconstruction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
+          "key": "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "一場物理意義上的男女對立：重慶時代峰峻事件",
+          "url": "/wiki/sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/fragmentedvideoeventreconstruction/"
+    },
     "FragranceProductStorytelling": {
       "episode_count": 4,
       "show_count": 3,
@@ -42222,6 +42245,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/genderedconsortscapegoating/"
+    },
+    "GenderedFandomDelegitimation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
+          "key": "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "一場物理意義上的男女對立：重慶時代峰峻事件",
+          "url": "/wiki/sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/genderedfandomdelegitimation/"
     },
     "GenderedOfficeHierarchy": {
       "episode_count": 1,
@@ -96474,6 +96513,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/sharedpaintechnologyboundary/"
     },
+    "SharedPoliticalLegitimacyVocabulary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
+          "key": "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "一場物理意義上的男女對立：重慶時代峰峻事件",
+          "url": "/wiki/sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/sharedpoliticallegitimacyvocabulary/"
+    },
     "SharedRelationshipNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -97388,6 +97443,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/shiyanlatehan/"
+    },
+    "ShidaiFengjun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
+          "key": "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "一場物理意義上的男女對立：重慶時代峰峻事件",
+          "url": "/wiki/sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/shidaifengjun/"
     },
     "ShinglesVaccineDementiaSignal": {
       "episode_count": 2,

@@ -20082,3 +20082,11 @@ Added source `snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 一場物理意義上的男女對立：重慶時代峰峻事件
+
+Added source `yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian`; created `ShidaiFengjun`, `FragmentedVideoEventReconstruction`, `GenderedFandomDelegitimation`, and `SharedPoliticalLegitimacyVocabulary`; and updated `DuanwenNewsPodcast`, `index.md`, and `overview.md`. Core synthesis: disappearing primary footage and selective clips produced opposed police-bias narratives, gendered framing placed more explanatory burden on female fans than male mobilization, and both camps borrowed legitimacy from overlapping official-value language. No settled contradiction found; chronology, organization, deletion mechanisms, participant motives, and official intent remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

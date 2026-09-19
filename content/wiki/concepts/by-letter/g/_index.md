@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7541
+wiki_total_pages: 7544
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "GenderedFamilyBusinessRoles"
     title: "Gendered Family-Business Roles / 性别化家族企业分工"
     url: "/wiki/concepts/genderedfamilybusinessroles/"
+  - key: "GenderedFandomDelegitimation"
+    title: "Gendered Fandom Delegitimation / 性别化追星贬抑"
+    url: "/wiki/concepts/genderedfandomdelegitimation/"
   - key: "GenderedFashionSafetyBlame"
     title: "Gendered Fashion Safety Blame"
     url: "/wiki/concepts/genderedfashionsafetyblame/"

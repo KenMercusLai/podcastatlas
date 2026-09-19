@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10214
+wiki_total_pages: 10215
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2111,6 +2111,9 @@ wiki_pages:
   - key: "ShiAidong"
     title: "施爱东 / Shi Aidong"
     url: "/wiki/entities/shiaidong/"
+  - key: "ShidaiFengjun"
+    title: "时代峰峻 / Shidai Fengjun"
+    url: "/wiki/entities/shidaifengjun/"
   - key: "ShiLei"
     title: "时雷 / Shi Lei"
     url: "/wiki/entities/shilei/"

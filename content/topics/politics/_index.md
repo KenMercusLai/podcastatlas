@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2551
+topic_total_pages: 2552
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3070,6 +3070,9 @@ topic_concepts:
   - key: "SharedPleasureGovernanceTest"
     title: "Shared Pleasure Governance Test / 与民同乐治理检验"
     url: "/wiki/concepts/sharedpleasuregovernancetest/"
+  - key: "SharedPoliticalLegitimacyVocabulary"
+    title: "Shared Political Legitimacy Vocabulary / 共享政治正当性词汇"
+    url: "/wiki/concepts/sharedpoliticallegitimacyvocabulary/"
   - key: "ShareholderPrimacy"
     title: "Shareholder Primacy"
     url: "/wiki/concepts/shareholderprimacy/"

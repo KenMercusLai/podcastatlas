@@ -2885,14 +2885,20 @@
       "earliest_episode_date": "2026-09-02",
       "latest_episode_date": "2026-09-18",
       "latest_episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
-      "source_note_count": 4,
-      "topic_matched_source_note_count": 2,
+      "source_note_count": 5,
+      "topic_matched_source_note_count": 3,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
           "source_note_count": 2
+        },
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 1
         }
       ],
       "entities": [],

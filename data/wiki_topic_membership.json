@@ -27881,6 +27881,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FragmentedVideoEventReconstruction": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "FragranceSupplyChainMoat": [
     {
       "key": "science",
@@ -29387,6 +29394,13 @@
     }
   ],
   "GenderedFairyTalePunishment": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "GenderedFandomDelegitimation": [
     {
       "key": "culture",
       "label": "Culture",
@@ -61741,6 +61755,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SharedPoliticalLegitimacyVocabulary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SharedRelationshipNarrative": [
     {
       "key": "science",
@@ -85921,6 +85942,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "yi-fen-laizi-bingchuang-shang-de-xiangguan-shudan-598284093": [

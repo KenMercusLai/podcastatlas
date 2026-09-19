@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7541
+wiki_total_pages: 7544
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "SharedPleasureGovernanceTest"
     title: "Shared Pleasure Governance Test / 与民同乐治理检验"
     url: "/wiki/concepts/sharedpleasuregovernancetest/"
+  - key: "SharedPoliticalLegitimacyVocabulary"
+    title: "Shared Political Legitimacy Vocabulary / 共享政治正当性词汇"
+    url: "/wiki/concepts/sharedpoliticallegitimacyvocabulary/"
   - key: "SharedRelationshipNarrative"
     title: "Shared Relationship Narrative"
     url: "/wiki/concepts/sharedrelationshipnarrative/"

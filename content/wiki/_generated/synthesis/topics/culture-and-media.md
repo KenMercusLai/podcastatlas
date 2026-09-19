@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-09-14
-as_of_overview_commit: 3ec115e29900df214ed29e94f8d958cf56a6938a
-input_digest: 97392d05324d6ef6c482d14b1c5e7b774e95306375f00d32b717e354d1efaab0
+last_updated: 2026-09-19
+as_of_overview_commit: 59b6d589f4f38241c04db077124154414644d0b0
+input_digest: 112b8e3af68fa0d52500ddb6f9f6d7f71ad337ef87d5d51c8ac37230e168388a
 ---
 
 # Culture and Media
 
 ## Current State
 
-Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, and public deep-time artifacts do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, youth-demographic generalization, technical capability claims, and whether symbolic artifacts change behavior. Episode 227 adds a precautionary-culture layer; EP86 adds long explanatory podcasts as framework media; the Keats Long Now archive adds century cameras and ecological calendars as cultural tools for imagining future accountability.
+Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public deep-time artifacts, and fragmented video do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, authoritative, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, demographic generalization, technical capability, symbolic behavior change, and incomplete event reconstruction. The Chongqing Shidai Fengjun episode adds a contested-event layer in which disappearing originals, selective clips, gendered scrutiny, and shared legitimacy language shape public meaning without resolving chronology or organization.
 
 ## Cross-source Findings
 
@@ -129,3 +129,14 @@ Place-based culture becomes legible through routes that join sites, memory, and 
 
 - Keats's Long Now source is strongest as art and public philosophy; it does not prove behavior change, policy impact, or long-duration artifact survival.
 - Calendar implementation, camera preservation, and institutionalization risks remain source-scoped.
+
+### Fragmented Video And Gendered Fandom Frame Public Conflict
+
+[[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian|The Chongqing Shidai Fengjun episode]] adds a contested-event media case: [[FragmentedVideoEventReconstruction]] and [[HostileMediaEffect]] show how disappearing originals and selective clips support incompatible police-bias narratives, while [[GenderedFandomDelegitimation]] and [[SharedPoliticalLegitimacyVocabulary]] show that media framing distributes scrutiny and public respectability unevenly across gendered groups.
+
+**Evidence:** [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian]], [[FragmentedVideoEventReconstruction]], [[HostileMediaEffect]], [[GenderedFandomDelegitimation]], [[SharedPoliticalLegitimacyVocabulary]], [[ShidaiFengjun]], [[DuanwenNewsPodcast]]
+
+**Qualifications:**
+
+- The source cannot establish a complete chronology, a coordinated male organization, platform deletion mechanisms, participant motives, or official intent.
+- The claim does not treat every clip as false or exempt fan behavior and entertainment companies from criticism.

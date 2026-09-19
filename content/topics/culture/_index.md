@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2728
+topic_total_pages: 2731
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1147,6 +1147,9 @@ topic_concepts:
   - key: "FourthPersonNarrative"
     title: "Fourth-Person Narrative"
     url: "/wiki/concepts/fourthpersonnarrative/"
+  - key: "FragmentedVideoEventReconstruction"
+    title: "Fragmented Video Event Reconstruction / 碎片影像事件重构"
+    url: "/wiki/concepts/fragmentedvideoeventreconstruction/"
   - key: "FrankensteinComplexAI"
     title: "Frankenstein Complex in AI Cinema / AI电影中的弗兰肯斯坦情结"
     url: "/wiki/concepts/frankensteincomplexai/"
@@ -1174,6 +1177,9 @@ topic_concepts:
   - key: "GenderedFairyTalePunishment"
     title: "Gendered Fairy-Tale Punishment / 童话中的性别化惩罚"
     url: "/wiki/concepts/genderedfairytalepunishment/"
+  - key: "GenderedFandomDelegitimation"
+    title: "Gendered Fandom Delegitimation / 性别化追星贬抑"
+    url: "/wiki/concepts/genderedfandomdelegitimation/"
   - key: "GenderedFashionSafetyBlame"
     title: "Gendered Fashion Safety Blame"
     url: "/wiki/concepts/genderedfashionsafetyblame/"
@@ -8118,6 +8124,9 @@ topic_sources:
   - key: "xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770"
     title: "【闲聊】想送赵露思一本短歌集--编辑推书,无所不用其极！"
     url: "/wiki/sources/xianliao-xiang-song-zhao-lusi-yi-ben-duan-ge-ji-bianji-tuishu-wu-suo-bu-yong-qi-ji-905512770/"
+  - key: "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian"
+    title: "一場物理意義上的男女對立：重慶時代峰峻事件"
+    url: "/wiki/sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian/"
   - key: "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156"
     title: "三联串台｜神赐给人葡萄，世界微醺了"
     url: "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"

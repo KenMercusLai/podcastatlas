@@ -633,12 +633,13 @@
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
       "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
       "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
-      "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235"
+      "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
+      "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978"
     ],
-    "paragraph_count": 633
+    "paragraph_count": 634
   },
-  "overview_commit": "2d896ad50597284df0b9e2a21eaf3693ca265cb1",
-  "overview_digest": "6f8e09686504f60ec22f3f2563615ac661b4f5a95b1003d18545c92be0bd0db6",
+  "overview_commit": "59b6d589f4f38241c04db077124154414644d0b0",
+  "overview_digest": "79fe482bf0676f05edacb7175f04da94467c60e14c905d21cacb243ba61fa25e",
   "paragraphs": [
     {
       "id": "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
@@ -19309,6 +19310,29 @@
         "WearableOpticalDisplayFriction",
         "WhatsNextKejiZaozhidao",
         "snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547"
+      ]
+    },
+    {
+      "id": "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest addition is [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian|一場物理意義上的男女對立：重慶時代峰峻事件]], a [[DuanwenNewsPodcast|端闻 / 端传媒新闻播客]] reconstruction of the August 17 confrontation outside [[ShidaiFengjun|时代峰峻]]'s Chongqing premises. It adds [[ShidaiFengjun]], [[FragmentedVideoEventReconstruction]], [[GenderedFandomDelegitimation]], and [[SharedPoliticalLegitimacyVocabulary]], while connecting [[HostileMediaEffect]], [[AlgorithmicMediaLiteracy]], and [[InternetMoralTrial]]. Its core synthesis is that disappearing original footage and selective clips let opposing communities build incompatible police-bias narratives; female fandom then receives more explanatory and disciplinary scrutiny than male mobilization, even as both camps seek authority through overlapping patriotic, moral, people-centered, and state-approved language. No settled contradiction is recorded; event chronology, male organization, platform deletion mechanisms, participant motives, and official intent remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 2,
+        "governance-and-institutions": 3
+      },
+      "wikilinks": [
+        "AlgorithmicMediaLiteracy",
+        "DuanwenNewsPodcast",
+        "FragmentedVideoEventReconstruction",
+        "GenderedFandomDelegitimation",
+        "HostileMediaEffect",
+        "InternetMoralTrial",
+        "SharedPoliticalLegitimacyVocabulary",
+        "ShidaiFengjun",
+        "yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian"
       ]
     }
   ],
