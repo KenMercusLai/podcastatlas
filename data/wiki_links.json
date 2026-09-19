@@ -34739,6 +34739,10 @@
     "title": "Kino Loy",
     "url": "/wiki/entities/kinoloy/"
   },
+  "KinshipBackedEarlyCareerCapital": {
+    "title": "Kinship-Backed Early-Career Capital / 宗族托举式早期资本",
+    "url": "/wiki/concepts/kinshipbackedearlycareercapital/"
+  },
   "KinshipBasedTownshipEnterpriseFinance": {
     "title": "Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资",
     "url": "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
@@ -37930,6 +37934,10 @@
   "LiuYuLateHan": {
     "title": "刘虞 / Liu Yu (Late Han)",
     "url": "/wiki/entities/liuyulatehan/"
+  },
+  "LiuYuanqiLateHan": {
+    "title": "刘元起 / Liu Yuanqi (late Han)",
+    "url": "/wiki/entities/liuyuanqilatehan/"
   },
   "LiuYuanziWesternHan": {
     "title": "刘原子 / Liu Yuanzi (Western Han)",
@@ -59167,6 +59175,10 @@
     "title": "苏轼 / Su Shi / Su Dongpo",
     "url": "/wiki/entities/sushi/"
   },
+  "SuShuangLateHan": {
+    "title": "苏双 / Su Shuang (late Han)",
+    "url": "/wiki/entities/sushuanglatehan/"
+  },
   "SuTaitaiGaodiaoLihunle": {
     "title": "苏太太高调离婚了 / Su Taitai Gaodiao Lihunle",
     "url": "/wiki/entities/sutaitaigaodiaolihunle/"
@@ -70903,6 +70915,10 @@
     "title": "张诗平 / 张诗坪 / Zhang Shiping",
     "url": "/wiki/entities/zhangshiping/"
   },
+  "ZhangShipingLateHan": {
+    "title": "张世平 / Zhang Shiping (late Han merchant)",
+    "url": "/wiki/entities/zhangshipinglatehan/"
+  },
   "ZhangShuguangRailway": {
     "title": "Zhang Shuguang / 张曙光",
     "url": "/wiki/entities/zhangshuguangrailway/"
@@ -77262,6 +77278,10 @@
   "zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn": {
     "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+  },
+  "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg": {
+    "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
   },
   "zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq": {
     "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",

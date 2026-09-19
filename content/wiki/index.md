@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！](sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg.md) — 刘备从童年贫困、宗族资助求学到卢植门下同学网络与商人启动资金的早期能力形成。
 - [《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？](sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn.md) — 刘表治下士人的避祸选择与鲁肃借吊丧探查荆州、联络刘备并为江东保留退路的赤壁战前布局。
 - [《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？](sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq.md) — 长坂坡兵败后，鲁肃以实力对比、平等合作话术和诸葛瑾关系桥梁推动刘备转向孙权联盟。
 - [《资治通鉴·汉纪》1101丨同为割据诸侯，孙权凭啥敢跟曹操叫板？](sources/zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv.md) — 曹操“会猎”威胁下，张昭以名分与水军劝降，鲁肃则揭示臣子与主公投降后果的不对称。
@@ -2526,6 +2527,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [刘元起 / Liu Yuanqi (late Han)](entities/LiuYuanqiLateHan.md) — 在刘备贫困时期持续资助其求学与成长的宗族早期支持者。
+- [张世平 / Zhang Shiping (late Han merchant)](entities/ZhangShipingLateHan.md) — 与苏双共同为刘备早期聚众提供资金的汉末商人，已与现代学者张诗平消歧。
+- [苏双 / Su Shuang (late Han)](entities/SuShuangLateHan.md) — 与张世平共同支持刘备早期组织形成的汉末商人。
 - [刘望之 / Liu Wangzhi (late Han)](entities/LiuWangzhiLateHan.md) — 辞官却未离开刘表权力范围、最终被捕杀的荆州士人，显示辞职不等于安全退出。
 - [韩暨 / Han Ji (late Han)](entities/HanJiLateHan.md) — 先后避袁术、刘表征辟却被迫出仕，荆州易主后进入曹操体系的南阳人物。
 - [裴潜 / Pei Qian (late Han)](entities/PeiQianLateHan.md) — 判断刘表志大才疏后南走长沙、后来进入曹操行政体系的河东士人。
@@ -12762,6 +12766,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Kinship-Backed Early-Career Capital / 宗族托举式早期资本](concepts/KinshipBackedEarlyCareerCapital.md) — 家族资助先转化为教育、同学与声望网络，再与外部资金共同形成早期行动能力。
 - [联盟不确定性下的退路预留 / Alliance Contingency Hedging](concepts/AllianceContingencyHedging.md) — 在探索合作的同时，针对伙伴崩溃或失去能力预设退出方案的策略。
 - [Face-Preserving Alliance Persuasion / 保全体面的结盟说服](concepts/FacePreservingAlliancePersuasion.md) — 通过伙伴价值对比、平等合作话术和私人信任桥梁，让弱势方接受必要联盟。
 - [Longzhong Plan / 隆中对](concepts/LongzhongPlan.md) — 诸葛亮为刘备构想的战略框架，本源在此聚焦联合孙权与夺取荆州的次序调整。

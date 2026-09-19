@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2732
+topic_total_pages: 2734
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1453,6 +1453,9 @@ topic_concepts:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
     url: "/wiki/concepts/k12computerscienceaccess/"
+  - key: "KinshipBackedEarlyCareerCapital"
+    title: "Kinship-Backed Early-Career Capital / 宗族托举式早期资本"
+    url: "/wiki/concepts/kinshipbackedearlycareercapital/"
   - key: "KitschAsWasteDenial"
     title: "Kitsch As Waste Denial / 媚俗作为排泄否认"
     url: "/wiki/concepts/kitschaswastedenial/"
@@ -8055,6 +8058,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg"
+    title: "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
   - key: "zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h"
     title: "《资治通鉴·汉纪》387-2｜汉武帝一生难抹的污点：太子刘据之死！"
     url: "/wiki/sources/zizhi-tongjian-hanji-387-2-hanwudi-yisheng-nanmo-de-wudian-taizi-liuju-zhisi-fqn_yfiyam5durgrlflosljaho1h/"

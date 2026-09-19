@@ -20158,3 +20158,11 @@ Added source `zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anz
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！
+
+Added source `zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg`; created `LiuYuanqiLateHan`, `ZhangShipingLateHan`, `SuShuangLateHan`, and `KinshipBackedEarlyCareerCapital`; updated `LiuBei`, `LuZhiLateHan`, `GongsunZan`, `index.md`, and `overview.md`. Core synthesis: Liu Bei's early rise is presented as a cumulative chain from household endurance and clan-funded education through Lu Zhi's school and Gongsun Zan's peer tie to merchant-backed follower formation, rather than as solitary self-making. No settled contradiction found; the source's stated age at the Zhang Chun campaign conflicts with its own birth-year chronology, while Liu Hong's death, omen material, body measurements, and psychological explanations remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10230
+wiki_total_pages: 10233
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "LiuWeiNanjunRebelLateHan"
     title: "刘伟 / Liu Wei (Nanjun rebel, late Han)"
     url: "/wiki/entities/liuweinanjunrebellatehan/"
+  - key: "LiuYuanqiLateHan"
+    title: "刘元起 / Liu Yuanqi (late Han)"
+    url: "/wiki/entities/liuyuanqilatehan/"
   - key: "LiuXianLateHan"
     title: "刘先 / Liu Xian (late Han)"
     url: "/wiki/entities/liuxianlatehan/"

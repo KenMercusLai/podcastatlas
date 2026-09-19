@@ -10,17 +10,18 @@ sources:
   - zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5
   - zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk
   - zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii
-last_updated: 2026-08-27
+  - zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg
+last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-卢植 / Lu Zhi (late Han) is a scholar-official, teacher, commander, and repeated remonstrance figure whose page now begins before his Yellow Turban and Dong Zhuo crisis branches. [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] presents him as an early moral adviser to [[DouWuLateHan|窦武]], warning that accession reward detached from personal merit can turn public prestige into future danger.
+卢植 / Lu Zhi (late Han) is a scholar-official, teacher, commander, and repeated remonstrance figure whose authority spans elite education, institutional advice, military command, and resistance to court coercion. Hanji 1097 sharpens his teaching role by showing how entry to his school depended on family resources as well as student promise.
 
 ## Current Profile
 
-Lu Zhi's current profile is built around disciplined judgment under pressure. Hanji 882 gives the earliest branch: before Dou Wu's failed anti-eunuch crisis, Lu Zhi tells him that choosing [[EmperorLingOfHan|汉灵帝]] as successor was based on genealogy and public recommendation, not Dou's sole achievement, so Dou should decline excessive title reward and preserve humility. The same episode supports Lu Zhi's authority by presenting him as a strict scholar trained under Ma Rong, unmoved by distractions, later withdrawn from official summons, and eventually a teacher of young [[LiuBei|刘备]].
+Lu Zhi's current profile is built around disciplined judgment under pressure. Hanji 882 gives the earliest branch: before Dou Wu's failed anti-eunuch crisis, Lu Zhi tells him that choosing [[EmperorLingOfHan|汉灵帝]] as successor was based on genealogy and public recommendation, not Dou's sole achievement, so Dou should decline excessive title reward and preserve humility. The same episode supports Lu Zhi's authority by presenting him as a strict scholar trained under Ma Rong, unmoved by distractions, later withdrawn from official summons, and eventually a teacher of young [[LiuBei|刘备]]. Hanji 1097 adds that Liu Bei studies with Lu Zhi alongside [[GongsunZan|公孙瓒]] only after clan support overcomes the cost barrier, making Lu Zhi's school a scarce network resource as well as a site of moral instruction.
 
 That early warning anticipates Lu Zhi's later pattern. In 178 CE he submits an institutional memorial on Party Prohibition prisoners, Song-family burial, official tenure, and appointment standards, but Emperor Ling ignores it. In 184 CE he commands against the [[YellowTurbansLateHan|Yellow Turbans]] and approaches victory at Guangzong, yet refuses inspection bribery and is recalled after [[ZuoFengLateHan|左丰]] reframes siege preparation as idleness.
 
@@ -39,6 +40,7 @@ The final crisis branches show the same boundary role under more dangerous court
 
 - Accession reward warning: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] says Lu Zhi tells Dou Wu not to treat Emperor Ling's genealogy-based succession as his own exceptional merit and urges him to decline excessive rewards.
 - Scholar discipline and teaching authority: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] presents Lu Zhi as a disciplined student under Ma Rong, later reclusive teacher, and future instructor of young Liu Bei; [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] independently places [[GongsunZan|公孙瓒]] and Liu Bei under Lu Zhi's instruction in 176 CE.
+- Education access and modeling: [[zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg|Hanji 1097]] presents Lu Zhi as Liu Bei's first major teacher and stresses that family sponsorship makes this elite educational network accessible.
 - Institutional remonstrance: [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] says Lu Zhi memorializes on innocent Party Prohibition prisoners, Empress Song's family burial, stable terms for governors and inspectors, and appointment standards against private lobbying.
 - Command and inspection vulnerability: [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] says Lu Zhi defeats Zhang Jiao's force and surrounds Guangzong, but refuses to gift Zuo Feng and is recalled in a prison cart after Zuo Feng's report.
 - Warning against external troop invitation: [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] says Lu Zhi warns He Jin that Dong Zhuo's entry into the capital will certainly produce disorder.
@@ -56,6 +58,7 @@ The final crisis branches show the same boundary role under more dangerous court
 - Added Hanji 882 as Lu Zhi's earliest current branch, before his 176 teacher role, 178 memorial, 184 command, and 189 remonstrance scenes.
 - Reframed Lu Zhi's core profile around status-boundary judgment: his warning to Dou Wu treats excessive reward as both moral and political danger.
 - Converted the page from episodic notes with a Connections section into the structured entity schema.
+- Added the family-financed access layer around Liu Bei's study and Lu Zhi's role as teacher-model.
 
 ## Relationships
 
@@ -71,3 +74,4 @@ The final crisis branches show the same boundary role under more dangerous court
 - [[CoercedImperialReplacement|胁迫式废立]] - late crisis concept sharpened by Lu Zhi's deposition remonstrance.
 - [[MeritBasedRewardPunishment|因功赏罚]] - reward-legitimacy concept sharpened by Lu Zhi's warning to Dou Wu.
 - [[UnearnedRewardRefusal|非道所得不居]] - adjacent concept for refusing status not grounded in rightful merit.
+- [[KinshipBackedEarlyCareerCapital|宗族托举式早期资本]] - explains how a poor student's family resources can unlock Lu Zhi's educational network.

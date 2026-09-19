@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10230
+wiki_total_pages: 10233
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "ZhangChou"
     title: "张丑 / Zhang Chou"
     url: "/wiki/entities/zhangchou/"
+  - key: "ZhangShipingLateHan"
+    title: "张世平 / Zhang Shiping (late Han merchant)"
+    url: "/wiki/entities/zhangshipinglatehan/"
   - key: "ZhangFengZhuoEasternHan"
     title: "张丰 / Zhang Feng (Zhuo Commandery, Eastern Han)"
     url: "/wiki/entities/zhangfengzhuoeasternhan/"

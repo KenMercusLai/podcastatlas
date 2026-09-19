@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
       "9b2c946b8cf38a2e8254b40480ce676da5009edd5b1bcdb590838196a600bf12",
       "c921e7bd30f62220c46d4b45adb2bf9184bb4eb5a80d451261180c1997b0605a",
       "8b7350e92314a7bbc09e55465d504ae1054d867b98a26f2c9aa82f757ad0b0f4",
@@ -642,11 +643,32 @@
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73"
     ],
-    "paragraph_count": 640
+    "paragraph_count": 641
   },
-  "overview_commit": "99e0df785ac1db12623202f118f49d3f22447582",
-  "overview_digest": "e5afd7c684445ca49eba09bfa2782527b471edf78e0775a9279eb8be8a4347ba",
+  "overview_commit": "7facc7cf79be10f1af5261775c1a860b6fe89654",
+  "overview_digest": "e37b5fd0526f7b6aedd2e9044ea2a3011b5c3d090a3bc4ead0409fe3067795eb",
   "paragraphs": [
+    {
+      "id": "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg|《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode extending [[LiuBei|刘备]] backward from elite study to childhood poverty, household labor, family-funded access to [[LuZhiLateHan|卢植]], friendship with [[GongsunZan|公孙瓒]], sustained support from [[LiuYuanqiLateHan|刘元起]], and merchant backing from [[ZhangShipingLateHan|张世平]] and [[SuShuangLateHan|苏双]]. It adds [[KinshipBackedEarlyCareerCapital|宗族托举式早期资本]]. Its core synthesis is that Liu Bei's rise is not solitary self-making: family support lowers the education barrier, school creates teacher and peer ties, and merchant money later helps convert portable reputation into an initial following. No settled contradiction is recorded, but the stated age at the Zhang Chun campaign conflicts with the episode's own birth-year chronology; Liu Hong's death, omen material, body measurements, and psychological explanations remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 5
+      },
+      "wikilinks": [
+        "GongsunZan",
+        "KinshipBackedEarlyCareerCapital",
+        "LiuBei",
+        "LiuYuanqiLateHan",
+        "LuZhiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuShuangLateHan",
+        "ZhangShipingLateHan",
+        "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg"
+      ]
+    },
     {
       "id": "9b2c946b8cf38a2e8254b40480ce676da5009edd5b1bcdb590838196a600bf12",
       "primary_topic": "history-and-geopolitics",

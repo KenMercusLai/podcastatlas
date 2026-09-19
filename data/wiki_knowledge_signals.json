@@ -44924,9 +44924,9 @@
       "url": "/wiki/entities/gongsunyongwesternhan/"
     },
     "GongsunZan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
@@ -45025,9 +45025,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/gongsunzan/"
     },
     "GoodDeathPoliticalSurvival": {
@@ -60522,6 +60529,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/kinderhymne/"
     },
+    "KinshipBackedEarlyCareerCapital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/kinshipbackedearlycareercapital/"
+    },
     "KinshipBasedTownshipEnterpriseFinance": {
       "episode_count": 1,
       "show_count": 1,
@@ -65317,9 +65340,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBei": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
@@ -65418,6 +65441,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
         }
       ],
       "updated": "2026-09-20",
@@ -68179,6 +68209,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuyuastrologerlatehan/"
     },
+    "LiuYuanqiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/liuyuanqilatehan/"
+    },
     "LiuYuanziWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -69984,9 +70030,9 @@
       "url": "/wiki/entities/luzhi/"
     },
     "LuZhiLateHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
@@ -70036,9 +70082,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》882丨风光太盛，注定不得好死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/luzhilatehan/"
     },
     "LucasStartupEmbassyResident": {
@@ -103447,6 +103500,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/sumaoeasternhan/"
     },
+    "SuShuangLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/sushuanglatehan/"
+    },
     "SuWenWesternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -125870,6 +125939,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/zhangshiping/"
+    },
+    "ZhangShipingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！ [llHlpnOYMxxF7y7_rKHtJB1jkkEg].md",
+          "key": "zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/zhangshipinglatehan/"
     },
     "ZhangShuoLateHan": {
       "episode_count": 1,
