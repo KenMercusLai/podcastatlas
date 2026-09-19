@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？](sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq.md) — 刘琦以“上屋抽梯”逼问诸葛亮后出镇江夏，将继承危机中的退让转成保命、保兵与后续联盟价值。
 - [《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？](sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs.md) — 刘琮在荆州士族推动下降曹、娄圭以符节判断真降，以及财富与猜忌交织下的死亡。
 - [《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？](sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o.md) — 荆州百姓以刘备仁德与曹操屠城声誉比较风险，十余万人追随又成为撤退负担和可见政治资本的长坂坡前因。
 - [《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？](sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk.md) — 长坂坡溃败中张飞断桥、赵云救刘禅，以及刘备经汉津会师、夏口重组兵力的战场与恢复链条。
@@ -2534,6 +2535,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [江夏郡 / Jiangxia Commandery (Late Han)](entities/JiangxiaCommanderyLateHan.md) — 黄祖死后由刘琦出镇的荆州东部要地，使继承危机中的离开同时保留兵力与战略价值。
 - [娄圭 / Lou Gui (Late Han)](entities/LouGuiLateHan.md) — 以符节判断刘琮真降、富于曹操却缺乏相应势力，后因歧义言论遭告发处死的曹营谋士。
 - [张允 / Zhang Yun (Late Han)](entities/ZhangYunLateHan.md) — 与蔡瑁共同阻止刘琦探视刘表、支持刘琮继位的荆州官员。
 - [傅巽 / Fu Xun (Late Han)](entities/FuXunLateHan.md) — 以刘备胜败皆不能保全刘琮的两难分析推动荆州降曹的官员。
@@ -12783,6 +12785,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [外镇避祸式生存 / Peripheral Command Exit Strategy](concepts/PeripheralCommandExitStrategy.md) — 暴露于继承斗争的内部人以外镇拉开距离，同时保留兵权、地盘、名义或结盟价值的生存策略。
 - [Surrender-Token Credibility / 降服凭证式可信度](concepts/SurrenderTokenCredibility.md) — 通过交出稀缺政治凭证削弱自身继续独立行动的能力，从而让投降比口头承诺更可信。
 - [Civilian Followership as Political Capital / 百姓追随型政治资本](concepts/CivilianFollowershipPoliticalCapital.md) — 百姓基于安全判断主动追随时，同一群体既构成军事后勤负担，也成为可见的信任与合法性资产。
 - [Post-Defeat Force Reconstitution / 败后兵力重组](concepts/PostDefeatForceReconstitution.md) — 通过改道、后卫掩护、分兵会合、盟军增援与新基地选择，把溃散组织重新变为可用力量。

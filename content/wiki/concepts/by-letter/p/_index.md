@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7562
+wiki_total_pages: 7563
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1934,6 +1934,9 @@ wiki_pages:
   - key: "PartnershipBoundaryRisk"
     title: "合伙关系边界风险 / Partnership Boundary Risk"
     url: "/wiki/concepts/partnershipboundaryrisk/"
+  - key: "PeripheralCommandExitStrategy"
+    title: "外镇避祸式生存 / Peripheral Command Exit Strategy"
+    url: "/wiki/concepts/peripheralcommandexitstrategy/"
   - key: "PatronageLossSelfProtection"
     title: "失去靠山后的低调自保 / Patronage-Loss Self-Protection"
     url: "/wiki/concepts/patronagelossselfprotection/"

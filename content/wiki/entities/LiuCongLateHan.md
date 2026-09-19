@@ -6,6 +6,7 @@ tags: [person, late-han, jingzhou, ruler, surrender]
 sources:
   - zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3
   - zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs
+  - zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq
 last_updated: 2026-09-20
 ---
 
@@ -15,12 +16,13 @@ last_updated: 2026-09-20
 刘琮 / Liu Cong (late Han) is [[LiuBiao|刘表]]'s young successor in [[Jingzhou|荆州]] whose elite-backed accession and surrender to [[CaoCao|曹操]] transfer the province and its personnel network into Cao's court-centered order.
 
 ## Current Profile
-Hanji 1092 supplies the decision layer. [[CaiMao|蔡瑁]] and [[ZhangYunLateHan|张允]] block [[LiuQiLateHan|刘琦]] from the dying Liu Biao and help install Liu Cong, whose youth, weak personal base, and dependence on Jingzhou elites limit his freedom of action. [[FuXunLateHan|傅巽]] argues that reliance on [[LiuBei|刘备]] cannot preserve him: defeat loses Jingzhou, while victory makes Liu Bei too strong to remain subordinate. Liu Cong sends an imperial tally to Cao Cao, which [[LouGuiLateHan|娄圭]] interprets as credible surrender evidence.
+Hanji 1091 supplies the household prehistory. The episode places Liu Cong inside the family and military network around [[CaiMao|蔡瑁]], while elder brother [[LiuQiLateHan|刘琦]] lacks comparable backing and seeks safety in Jiangxia. Hanji 1092 then supplies the decision layer. Cai Mao and [[ZhangYunLateHan|张允]] block Liu Qi from the dying Liu Biao and help install Liu Cong, whose youth, weak personal base, and dependence on Jingzhou elites limit his freedom of action. [[FuXunLateHan|傅巽]] argues that reliance on [[LiuBei|刘备]] cannot preserve him: defeat loses Jingzhou, while victory makes Liu Bei too strong to remain subordinate. Liu Cong sends an imperial tally to Cao Cao, which [[LouGuiLateHan|娄圭]] interprets as credible surrender evidence.
 
 Hanji 1095 then supplies the incorporation layer. Cao Cao appoints Liu Cong Qingzhou inspector and grants him marquis rank, making surrender legible as absorption rather than simple dispossession. Han Song is freed, former Jingzhou officials receive appointments, and Wen Ping's delayed arrival is judged through loyalty rather than automatic rebellion.
 
 ## Key Characteristics
 - Young successor installed after an elite-managed succession crisis.
+- Benefits from a household and military support network stronger than Liu Qi's.
 - Rules with limited independent force and heavy reliance on Jingzhou elite families.
 - Accepts surrender after advisers frame reliance on Liu Bei as dangerous under both victory and defeat.
 - Transfers an imperial tally that the Cao camp reads as a costly submission signal.
@@ -29,17 +31,19 @@ Hanji 1095 then supplies the incorporation layer. Cao Cao appoints Liu Cong Qing
 
 ## Evidence
 - Succession constraint: [[zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs|Hanji 1092]] places Liu Cong's accession inside Cai Mao and Zhang Yun's exclusion of Liu Qi and the influence of the Jingzhou elite coalition.
+- Household advantage: [[zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq|Hanji 1091]] contrasts Liu Cong's Cai-network backing with Liu Qi's lack of maternal and military support.
 - Surrender calculus: [[zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs|Hanji 1092]] gives Fu Xun's argument that Liu Bei cannot safely preserve Liu Cong under either defeat or victory.
 - Credibility signal: [[zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs|Hanji 1092]] says Liu Cong sends the imperial tally that Lou Gui reads as proof against false surrender.
 - Post-surrender status: [[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3|Hanji 1095]] says Cao Cao appoints Liu Cong Qingzhou inspector and enfeoffs him as a marquis.
 - Regime transfer: [[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3|Hanji 1095]] places the release and appointment of Jingzhou officials immediately after Liu Cong's submission.
 
 ## Qualifications
-The sources present Liu Cong as constrained by youth and elite dependence but do not settle his exact age, personal preference, the relative influence of individual advisers, or the full legal mechanics of succession and surrender. The tally, Qingzhou appointment, marquis rank, dialogue, and later career remain episode-presented details requiring primary-source verification.
+The sources present Liu Cong as constrained by youth and elite dependence but do not settle his exact age, maternity, personal preference, the relative influence of individual advisers, or the full legal mechanics of succession and surrender. The kinship account, tally, Qingzhou appointment, marquis rank, dialogue, and later career remain episode-presented details requiring primary-source verification.
 
 ## What Changed
 - Added Hanji 1092's succession crisis, elite constraints, surrender calculus, and tally signal.
 - Joined the surrender decision to Hanji 1095's post-submission incorporation outcome.
+- Added Hanji 1091's pre-accession family-network advantage and Liu Qi's resulting exit.
 
 ## Relationships
 - [[LiuBiao|刘表]] - father and predecessor in Jingzhou.
@@ -51,3 +55,4 @@ The sources present Liu Cong as constrained by youth and elite dependence but do
 - [[SurrenderTokenCredibility|降服凭证式可信度]] - mechanism through which his delivered tally is read as credible submission.
 - [[WenPing|文聘]] - former Jingzhou commander whose delayed submission tests the new regime's handling of old loyalty.
 - [[HanSongLateHan|韩嵩]] - imprisoned adviser released after the regime change.
+- [[PeripheralCommandExitStrategy|外镇避祸式生存]] - rival-heir exit produced by the support imbalance around Liu Cong.

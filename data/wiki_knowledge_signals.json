@@ -14018,9 +14018,9 @@
       "url": "/wiki/entities/cailunlatehan/"
     },
     "CaiMao": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？ [lo58hZFo-Qv0SOaUOGTgFrKOurrd].md",
@@ -14042,6 +14042,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
         }
       ],
       "updated": "2026-09-20",
@@ -52830,9 +52837,9 @@
       "url": "/wiki/entities/huangziyimanufacturingreporter/"
     },
     "HuangZu": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人 [ltRzPchWDfcyp4NTmUm9Giu-5mVa].md",
@@ -52861,6 +52868,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
         }
       ],
       "updated": "2026-09-05",
@@ -58553,6 +58567,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/jianglinglatehan/"
+    },
+    "JiangxiaCommanderyLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/jiangxiacommanderylatehan/"
     },
     "JiaoChuLateHan": {
       "episode_count": 1,
@@ -66235,9 +66265,9 @@
       "url": "/wiki/entities/liuchonglatehanminister/"
     },
     "LiuCongLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？ [lmFlbj9kShNMGsZTDgHNqJ2fOAv3].md",
@@ -66252,6 +66282,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
         }
       ],
       "updated": "2026-09-20",
@@ -67240,9 +67277,9 @@
       "url": "/wiki/entities/liupingeasternhan/"
     },
     "LiuQiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
@@ -67257,9 +67294,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1094丨长坂坡之战，张飞和赵云如何在战场封神？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1094-changbanpo-zhizhan-zhangfei-he-zhaoyun-ruhe-zai-zhanchang-fengshen-ltymdohev05pmxhwcdme9d2jymzk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/liuqilatehan/"
     },
     "LiuQiangDonghaiKing": {
@@ -84499,6 +84543,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/perioperativecircadianrecovery/"
+    },
+    "PeripheralCommandExitStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/peripheralcommandexitstrategy/"
     },
     "PeripheralInnovationField": {
       "episode_count": 1,
@@ -130107,9 +130167,9 @@
       "url": "/wiki/entities/zhugejin/"
     },
     "ZhugeLiang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -130152,6 +130212,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？ [lj2TfBi8qD3dxTa8eHh8A0kT7qpq].md",
+          "key": "zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq/"
         }
       ],
       "updated": "2026-09-20",

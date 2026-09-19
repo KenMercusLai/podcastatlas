@@ -20222,3 +20222,11 @@ Added source `zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-b
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？
+
+Added source `zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq`; created `JiangxiaCommanderyLateHan` and `PeripheralCommandExitStrategy`; updated `LiuQiLateHan`, `ZhugeLiang`, `CaiMao`, `LiuCongLateHan`, and `HuangZu`; and updated `index.md` and `overview.md`. Core synthesis: Liu Qi's move to Jiangxia turns retreat from a hostile succession center into capacity-preserving survival, while Zhuge Liang's indirect historical analogy separates immediate life-saving counsel from the host's stronger hidden Liu Bei-strategy claim. No settled contradiction found; household genealogy, naval control, exact dialogue, the fifty-five local-leader count, and centralized-management claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

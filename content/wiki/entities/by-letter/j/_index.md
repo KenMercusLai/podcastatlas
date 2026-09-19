@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10243
+wiki_total_pages: 10244
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "JiangChengFundManager"
     title: "江城 / Jiang Cheng (Fund Manager)"
     url: "/wiki/entities/jiangchengfundmanager/"
+  - key: "JiangxiaCommanderyLateHan"
+    title: "江夏郡 / Jiangxia Commandery (Late Han)"
+    url: "/wiki/entities/jiangxiacommanderylatehan/"
   - key: "JiangningWeavingBureau"
     title: "江宁织造 / Jiangning Weaving Bureau"
     url: "/wiki/entities/jiangningweavingbureau/"
