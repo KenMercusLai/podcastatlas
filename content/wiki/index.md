@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？](sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn.md) — 诸葛亮以战降二选一、尊严激将、兵力核算、曹军弱点与三分前景说服孙权转向抗曹联盟。
 - [《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！](sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg.md) — 刘备从童年贫困、宗族资助求学到卢植门下同学网络与商人启动资金的早期能力形成。
 - [《资治通鉴·汉纪》1098丨刘备的跳槽秘籍：带着资源，越跳越值钱！](sources/zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k.md) — 刘备将反复依附转化为可携带政治资本，在新野蛰伏积累，再由《隆中对》把志向转成路径。
 - [《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？](sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn.md) — 刘表治下士人的避祸选择与鲁肃借吊丧探查荆州、联络刘备并为江东保留退路的赤壁战前布局。
@@ -5222,7 +5223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife who bridges Jiangdong resources, restrains Sun Ce, stabilizes Sun Quan's succession, and endorses Zhou Yu's anti-hostage counsel.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
-- [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through consolidation to a resourced, specialist-led anti-Cao commitment.
+- [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through hedged coalition testing and adversarial questioning to a resourced anti-Cao commitment.
 - [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Wu commander whose disciplined troops, protection of Xi Su's command, and Gan Ning relief plan connect personnel judgment with operations.
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
@@ -6307,7 +6308,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
-- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Later strategist framed by Hanji 976 as Liu Bei's state-system builder, by Hanji 977 as a moral-pressure case, and elsewhere as a reception marker for Le Yi.
+- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Liu Bei strategist framed as a state-system builder, morally ambiguous adviser, and direct advocate for the pre-Red-Cliffs coalition.
 - [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned restoration general whose Jimo victory, post-restoration suspicion, and Di campaign hesitation show the cost of high merit under a fearful ruler.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
 - [燕武成王 / King Wucheng of Yan](entities/YanWuchengwang.md) — Yan ruler installed after Gongsun Cao kills Yan Huiwang amid Yan's post-Qi-collapse weakness.
@@ -12759,7 +12760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian commander used in the episode's Sogdian Rock tactical comparison.
 - [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
 - [华容道 / Huarong Road (Late Han)](entities/HuarongRoadLateHan.md) — Marshy post-Red-Cliffs retreat route where rain, illness, wounded troops, animals, and pursuit pressure create a mobility crisis.
-- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
+- [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han campaign whose coalition persuasion, resistance decision, readiness constraints, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
 - [Alex Turner (Economist defence editor)](entities/AlexTurnerEconomist.md) — Economist defense editor connecting Russia's long-range strike advantage to Ukrainian infrastructure, production, and social endurance.
 - [Nemesis Drone Unit](entities/NemesisDroneUnit.md) — Ukrainian battalion combining intelligence, planning, and long-range quadcopter operations behind the front.
 - [Campari](entities/Campari.md) — Drinks company using draft Aperol spritz to contest beer-dominated venues during weaker alcohol demand.
@@ -15328,7 +15329,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strategic Concession Diplomacy / 欲擒故纵式让利外交](concepts/StrategicConcessionDiplomacy.md) — Qin pattern of returning smaller assets or targeted concessions to fracture pressure and extract larger strategic advantage.
 - [Unverified Territorial Promise Trap / 未验地先断交陷阱](concepts/UnverifiedTerritorialPromiseTrap.md) — Zhang Yi's 313 BCE tactic of making Chu break with Qi before Qin delivered the promised Shangyu land.
 - [前倨后恭 / Qianju Hougong Reversal](concepts/QianjuHougongReversal.md) — Status-reversal pattern from Su Qin's homecoming, where rank and money transform family behavior from neglect into fearful deference.
-- [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Su Qin's pattern of turning anti-Qin strategy into a face-and-dignity choice for rulers.
+- [Dignity-Based Persuasion / 尊严激将式说服](concepts/DignityBasedPersuasion.md) — Status-sensitive persuasion that makes submission identity-costly, then joins the provocation to material risk and benefit analysis.
 - [Warring States Military Transformation / 战国军事形态转变](concepts/WarringStatesMilitaryTransformation.md) — Military-history frame for infantry scale, cavalry transition, command sequencing, large encirclement, mobile shock, and mass-war cost.
 - [Warring States Urban Prosperity / 战国城市繁荣](concepts/WarringStatesUrbanProsperity.md) — Linzi-based concept connecting population, entertainment, urban density, and civic confidence to state capacity.
 - [揣摩 / Chuaimo Technique](concepts/ChuaimoTechnique.md) — Su Qin's persuader method combining situation reading with insight into the listener's motives and fears, extended by audience-specific dignity appeals.

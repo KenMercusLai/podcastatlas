@@ -4,17 +4,28 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-20
-as_of_overview_commit: a8660d98f3c9b752b021a67925e056efe3833699
-input_digest: dc1c92b7ad2e6c3f121aa601298c091e3eb7d60be05b8d66795ef89d652a5494
+as_of_overview_commit: dcdf3263b481d378e55617c16fdec3ac03b169fb
+input_digest: 112926a2c62f4bca006ce2d3cbc0d5c65cef4ad1f49b98cdfb2eee34625d3bcd
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1099 adds a boundary case: its disconnected mother-money typology remains unverified public advice, while Lu Su's historical alliance pitch illustrates status-sensitive reframing without becoming a clinical law. Tian Chou's reward refusal remains a historical motivation-and-boundary case, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Red Cliffs negotiation adds a bounded historical persuasion case: dignity and identity pressure can activate a choice, but practical evidence about capacity, risk, and benefit remains necessary, and the pattern is not a clinical law. Tian Chou's reward refusal and Hanji 1099's disconnected mother-money typology remain source-scoped boundary cases, while mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
 
 ## Cross-source Findings
+
+### Hanji 1100 Dignity Persuasion Is Historical Not Clinical
+
+[[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn|Hanji 1100]] enters psychology and personal development only as a bounded historical persuasion case: [[DignityBasedPersuasion]] shows [[ZhugeLiang|Zhuge Liang]] making surrender costly to [[SunQuan|Sun Quan]]'s ruler identity, but the episode also shows that status provocation needs practical claims about capacity, risk, and benefit before it can support action.
+
+**Evidence:** [[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn]], [[DignityBasedPersuasion]], [[ZhugeLiang]], [[SunQuan]], [[RedCliffsBattle]]
+
+**Qualifications:**
+
+- This is a historical persuasion case rather than clinical psychology evidence or general advice for interpersonal conflict.
+- Exact dialogue, emotional effects, force totals, and the staged sequence remain source-scoped to the popular-history episode.
 
 ### Hanji 445 Self Reproach Cascades Shame And Responsibility
 

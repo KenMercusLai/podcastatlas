@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2555
+topic_total_pages: 2556
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -7437,6 +7437,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft"
     title: "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？"
     url: "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+  - key: "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn"
+    title: "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
   - key: "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3"
     title: "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）"
     url: "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3/"

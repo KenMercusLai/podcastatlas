@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
       "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
       "9b2c946b8cf38a2e8254b40480ce676da5009edd5b1bcdb590838196a600bf12",
       "c921e7bd30f62220c46d4b45adb2bf9184bb4eb5a80d451261180c1997b0605a",
@@ -644,11 +645,31 @@
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0"
     ],
-    "paragraph_count": 642
+    "paragraph_count": 643
   },
-  "overview_commit": "e5c7f6b4a0b124f2f49bed5e581c1ac6d863301f",
-  "overview_digest": "7787b1d6e335f643760469ca82734fdca9bdb106eaed2df210d6057669ca260d",
+  "overview_commit": "dcdf3263b481d378e55617c16fdec3ac03b169fb",
+  "overview_digest": "0182c1859e29bda0e0c6ee115c54ea447ed3b2866ada34e595145567d77cf740",
   "paragraphs": [
+    {
+      "id": "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn|《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the direct negotiation between Lu Su's alliance opening and the later Jiangdong surrender debate. It extends [[ZhugeLiang|诸葛亮]], [[SunQuan|孙权]], [[RedCliffsBattle|赤壁之战]], and [[DignityBasedPersuasion|尊严激将式说服]]. Its core synthesis is that an honor challenge can open a decision but cannot finish it: Zhuge Liang narrows the alternatives to resistance or surrender, makes capitulation costly to Sun Quan's ruler identity, then answers the capacity objection through Liu-side forces, Cao-side fatigue, water-war weakness, uncertain Jingzhou loyalty, and a tripartite postwar prospect. No settled contradiction is recorded; exact dialogue, emotions, force totals, the four-step neatness, and the host's universal claim that alliances are mutual use remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "DignityBasedPersuasion",
+        "RedCliffsBattle",
+        "RuiqiJiangtouZizhiTongjian",
+        "SunQuan",
+        "ZhugeLiang",
+        "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn"
+      ]
+    },
     {
       "id": "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
       "primary_topic": "work-education-and-society",

@@ -27418,6 +27418,43 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/digitalsovereignty/"
     },
+    "DignityBasedPersuasion": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（3） [lj-cR4Vg4e1qdfJs6yez85_3ZUiV].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（3）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》96丨毛遂自荐（2） [ltLOBDUjY_hdipIMFDuPVWod2ECh].md",
+          "key": "zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》96丨毛遂自荐（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-96-maosui-zijian-2-ltlobdujy-hdipimfdupvwod2ech/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦 [lgFkk45Yq1c0YBLequ-d1T7mol3_].md",
+          "key": "zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》32丨“史上首位联合国秘书长”苏秦",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-32-shishang-shouwei-lianheguo-mishuzhang-suqin-lgfkk45yq1c0yblequ-d1t7mol3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？ [lm0fOjShbaktSkmYd3hYU-TQ4MnN].md",
+          "key": "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/dignitybasedpersuasion/"
+    },
     "DingHongEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -90997,9 +91034,9 @@
       "url": "/wiki/concepts/recurrencefreesurvivalendpoint/"
     },
     "RedCliffsBattle": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1107丨曹操写信抹黑周瑜，这招离间计有多狠？ [lq_9istNFzY56ZJEjUUr2G9YEfhr].md",
@@ -91028,6 +91065,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？ [lm0fOjShbaktSkmYd3hYU-TQ4MnN].md",
+          "key": "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
         }
       ],
       "updated": "2026-09-20",
@@ -104584,9 +104628,9 @@
       "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -104664,6 +104708,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1096丨赤壁之战前，各方势力如何暗中博弈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？ [lm0fOjShbaktSkmYd3hYU-TQ4MnN].md",
+          "key": "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
         }
       ],
       "updated": "2026-09-20",
@@ -129449,9 +129500,9 @@
       "url": "/wiki/entities/zhugejin/"
     },
     "ZhugeLiang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
@@ -129487,6 +129538,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1099丨刘备快破产时，如何逆袭攀上孙权？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？ [lm0fOjShbaktSkmYd3hYU-TQ4MnN].md",
+          "key": "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn/"
         }
       ],
       "updated": "2026-09-20",

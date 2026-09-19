@@ -2,6 +2,24 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hanji-1100-dignity-and-capacity-close-coalition-case",
+      "qualifications": [
+        "The episode is a popular-history reconstruction, so exact dialogue, emotional reactions, force totals, and the neat four-part sequence remain source-scoped.",
+        "The claim that alliances are only mutual use is host interpretation and does not establish that trust, legitimacy, or obligation were irrelevant."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn|Hanji 1100]] fills the direct pre-[[RedCliffsBattle|Red Cliffs]] negotiation: [[ZhugeLiang|Zhuge Liang]] uses [[DignityBasedPersuasion|dignity-based persuasion]] to make surrender identity-costly for [[SunQuan|Sun Quan]], then supports resistance with claims about coalition capacity, Cao-side fatigue, poor water-war adaptation, uncertain Jingzhou loyalty, and a tripartite postwar benefit.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn",
+        "RedCliffsBattle",
+        "ZhugeLiang",
+        "DignityBasedPersuasion",
+        "SunQuan",
+        "RuiqiJiangtouZizhiTongjian"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-445-han-yanshou-moral-local-governance-precedes-critique",
       "qualifications": [
         "The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.",
@@ -584,7 +602,7 @@
       ]
     }
   ],
-  "input_digest": "c58ef29ab71728b97e8b46521ca78cb1f5164bbee5bffbaea3705fc18c22d214",
-  "summary": "The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, and coalition sequencing to usable state capacity. Hanji 1096 adds that safe political exit depends on effective distance and coercive reach, while coalition formation can begin as hedged exploration rather than unconditional commitment; Hanji 1099 then carries that Red Cliffs prehistory into direct, face-preserving alliance brokerage. The topic retains Cao Cao's formation and late-career layers, Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific motives and numbers kept qualified.",
+  "input_digest": "3cd9098ce1296eb8bb1949730ea06d75337e7a0bf8e0b07c7ea82f637c811cd9",
+  "summary": "The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, and coalition sequencing to usable state capacity. The Red Cliffs prehistory now runs from hedged exploration through face-preserving brokerage to Zhuge Liang's direct dignity-and-capacity case for resistance; emotional pressure opens the choice, while force, adaptation, cohesion, and projected benefit make coalition action plausible. The topic retains Cao Cao's formation and late-career layers, Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific motives and numbers kept qualified.",
   "topic_id": "history-and-geopolitics"
 }

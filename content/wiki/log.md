@@ -20174,3 +20174,11 @@ Added source `zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？
+
+Added source `zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn`; updated `ZhugeLiang`, `SunQuan`, `RedCliffsBattle`, and `DignityBasedPersuasion`; and updated `index.md` and `overview.md`. Core synthesis: Zhuge Liang's anti-Cao pitch joins a forced resistance-or-surrender choice and dignity provocation to coalition-force accounting, Cao-side operational weaknesses, and a tripartite postwar benefit. No settled contradiction found; exact dialogue, emotional reactions, force totals, the tidy persuasion sequence, and the host's universal alliance claim remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

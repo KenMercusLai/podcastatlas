@@ -15,6 +15,7 @@ sources:
   - zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq
   - zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz
   - zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn
+  - zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn
 last_updated: 2026-09-20
 ---
 
@@ -30,7 +31,7 @@ The successor gradually exercises independent judgment. He values [[LuSu|鲁肃]
 
 Hanji 1099 supplies the external consequence of that consolidation. Lu Su can present Sun Quan to defeated [[LiuBei|刘备]] as a partner with six commanderies, troops, supplies, and a talent base, rather than merely another refuge. Hanji 1101 then tests the same autonomy under direct coercion: Zhang Zhao argues for surrender after Cao Cao takes Jingzhou, while Lu Su warns that Sun Quan's ruler status makes capitulation uniquely dangerous. [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] completes the decision: Sun Quan accepts the role-asymmetry argument, recalls Zhou Yu, hears a political and operational case against Cao Cao's intimidation, closes further surrender debate, and turns judgment into a resourced deployment.
 
-Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su to use mourning as cover for intelligence gathering and coalition exploration after Liu Biao's death, while allegedly retaining a fallback at Xu if Liu Bei collapses. The later resistance decision is therefore a movement from hedged exploration toward resource-backed commitment, not evidence that the coalition began with unconditional trust.
+Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su to use mourning as cover for intelligence gathering and coalition exploration after Liu Biao's death, while allegedly retaining a fallback at Xu if Liu Bei collapses. Hanji 1100 places Zhuge Liang's direct pitch inside the transition: Sun Quan is provoked toward resistance but still tests whether the defeated Liu side can contribute and whether Cao Cao is operationally vulnerable. The later commitment is therefore a movement from hedged exploration through adversarial questioning to resource-backed action, not evidence that the coalition began with unconditional trust.
 
 ## Key Characteristics
 - Inherits authority through a civil-military-family support structure rather than through designation alone.
@@ -50,15 +51,15 @@ Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su
 - Surrender exposure: [[zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv|Hanji 1101]] contrasts Zhang Zhao's capitulation case with Lu Su's warning about the ruler's unique downside.
 - Resistance commitment: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] shows Sun Quan combine Lu Su's stakeholder-risk distinction with Zhou Yu's campaign analysis, then assign an initial force to Zhou Yu and [[ChengPuLateHan|程普]] while promising further support.
 - Hedged exploration: [[zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn|Hanji 1096]] has Sun Quan authorize Lu Su's Jingzhou mission while retaining an episode-presented fallback if Liu Bei disintegrates.
+- Coalition interrogation: [[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn|Hanji 1100]] shows Sun Quan respond to Zhuge Liang's dignity challenge by asking what a recently defeated Liu Bei can actually contribute.
 
 ## Qualifications
-Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; and Hanji 1102's dialogue, troop numbers, motives, and table-cutting scene remain episode-bounded.
+Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; and Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded.
 
 ## What Changed
-- The surrender crisis now ends in an explicit resistance decision rather than at Lu Su's unfinished warning.
-- Sun Quan's consultative style is qualified by his ability to close debate and accept ultimate reinforcement risk.
-- His autonomy profile now connects stakeholder-risk analysis to concrete field delegation and resource commitment.
-- Added the earlier hedged-exploration stage before the Sun-Liu coalition's later commitment.
+- Added the intermediate negotiation stage between hedged exploration and the later surrender debate.
+- Clarified that Sun Quan does not merely react to an honor challenge; he asks for evidence of partner capacity and enemy weakness.
+- Preserved the later distinction between rhetorical movement toward resistance and actual resource commitment.
 
 ## Relationships
 - [[SunCe|孙策]] - elder brother who designates Sun Quan and leaves a still-fragile regional base.
@@ -73,3 +74,4 @@ Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zh
 - [[FacePreservingAlliancePersuasion|保全体面的结盟说服]] - method through which Sun Quan's capacity is offered to Liu Bei.
 - [[RoleAsymmetricSurrenderIncentives|身份不对称的投降激励]] - framework explaining Sun Quan's unique capitulation risk.
 - [[AllianceContingencyHedging|联盟不确定性下的退路预留]] - early option-preserving approach while Lu Su tests Jingzhou partners.
+- [[DignityBasedPersuasion|尊严激将式说服]] - Zhuge Liang's attempt to make surrender incompatible with Sun Quan's ruler identity.
