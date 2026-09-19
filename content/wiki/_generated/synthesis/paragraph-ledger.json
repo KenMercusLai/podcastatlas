@@ -631,12 +631,13 @@
       "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa",
       "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
-      "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c"
+      "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
+      "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42"
     ],
-    "paragraph_count": 631
+    "paragraph_count": 632
   },
-  "overview_commit": "e0cb76cde5d3e634af340cb9a7048b101e05a888",
-  "overview_digest": "911c76c0c79f59f4d0589b0c49fdaefcb0107b18b56a45c8eee3f4a7ffec651b",
+  "overview_commit": "77c512d9b709ae612f5607fb34a2422055f0d9ae",
+  "overview_digest": "b275403d886939646697fe9a869524edf032796260ff035fc05bafac3a82a9ee",
   "paragraphs": [
     {
       "id": "2a1c08eeff0a1024407c41e83d78f805ab0385df5ab2208c11bbc1776f24de3d",
@@ -19262,6 +19263,29 @@
         "ShuyaGong",
         "SyntheticProgressIndicators",
         "the-dominos-pizza-tracker-theory-of-everything"
+      ]
+    },
+    {
+      "id": "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128|Trump rejects AI's \"effective altruism\" movement]], a [[MarketplaceTech]] episode connecting contested AI-slowdown politics, [[FlockSafety|Flock Safety]] license-plate-reader oversight, and [[Apple]]'s photo-authentication system. It adds [[DeviceOriginPhotoAuthentication]], while extending [[AdvancedAIDevelopmentPause]], [[AutomaticLicensePlateReader]], and [[FlockSafety|Flock Safety]]. Its core synthesis is that technology trust requires bounded, enforceable controls rather than company assurances alone: AI safety rules must retain public and competitive legitimacy, plate-reader governance must combine purpose limits with auditing and device security, and capture-time photo provenance can verify a positive device-origin claim without treating every unauthenticated image as fake. The Flock evidence creates unresolved tension with the company's earlier governance defense through alleged officer misuse and weak key protection; company motives, legislative prospects and bill details, vulnerability scope, manufacturing origin, and Apple's untested implementation remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 3,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdvancedAIDevelopmentPause",
+        "Apple",
+        "AutomaticLicensePlateReader",
+        "DeviceOriginPhotoAuthentication",
+        "FlockSafety",
+        "MarketplaceTech",
+        "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
       ]
     }
   ],

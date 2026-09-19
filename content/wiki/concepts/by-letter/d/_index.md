@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7535
+wiki_total_pages: 7536
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "DeviceFormFactorFragmentation"
     title: "Device Form Factor Fragmentation"
     url: "/wiki/concepts/deviceformfactorfragmentation/"
+  - key: "DeviceOriginPhotoAuthentication"
+    title: "Device-Origin Photo Authentication"
+    url: "/wiki/concepts/deviceoriginphotoauthentication/"
   - key: "DevolutionAsGoverningProject"
     title: "Devolution As Governing Project"
     url: "/wiki/concepts/devolutionasgoverningproject/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2550
+topic_total_pages: 2551
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -7197,6 +7197,9 @@ topic_sources:
   - key: "trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7"
     title: "Trailer: Tocqueville Road Trip"
     url: "/wiki/sources/trailer-tocqueville-road-trip-6a31598d780d0f7579b04fb7/"
+  - key: "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128"
+    title: "Trump rejects AI's \"effective altruism\" movement"
+    url: "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
   - key: "tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128"
     title: "U.S. regulators eye rules for prediction markets"
     url: "/wiki/sources/tech-20260324-0324-mp-tech-pod-128-tech-20260324-0324-mp-tech-pod-128/"

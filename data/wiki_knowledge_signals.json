@@ -4405,9 +4405,9 @@
       "url": "/wiki/concepts/advancenewstradingexperiment/"
     },
     "AdvancedAIDevelopmentPause": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
@@ -4422,9 +4422,16 @@
           "show": "Marketplace Tech",
           "title": "AI safety concerns grow as insiders issue urgent warnings",
           "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260918_MP_TECH_pod_128 [tech_20260918_MP_TECH_pod_128].md",
+          "key": "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump rejects AI's \"effective altruism\" movement",
+          "url": "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/advancedaidevelopmentpause/"
     },
     "AdvancedAgricultureInnovation": {
@@ -9421,6 +9428,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/automatedperformancemarketing/"
+    },
+    "AutomaticLicensePlateReader": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Flock CEO Garrett Langley on Controversy, \"Surveillance State\" Claims, and Privacy vs Safety",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-flock-ceo-garrett-langley-on-controversy-surveillance-state-claims-and-privacy-vs-safety-42470485/"
+        },
+        {
+          "episode_file": "tech_20260918_MP_TECH_pod_128 [tech_20260918_MP_TECH_pod_128].md",
+          "key": "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump rejects AI's \"effective altruism\" movement",
+          "url": "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/automaticlicenseplatereader/"
     },
     "AutomotiveOvercapacityRestructuring": {
       "episode_count": 1,
@@ -26207,6 +26237,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/deviceformfactorfragmentation/"
     },
+    "DeviceOriginPhotoAuthentication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260918_MP_TECH_pod_128 [tech_20260918_MP_TECH_pod_128].md",
+          "key": "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump rejects AI's \"effective altruism\" movement",
+          "url": "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/deviceoriginphotoauthentication/"
+    },
     "DiabeticRetinopathyScreening": {
       "episode_count": 1,
       "show_count": 1,
@@ -37788,9 +37834,9 @@
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
     "FlockSafety": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Flock CEO Garrett Langley on Controversy, “Surveillance State” Claims, and Privacy vs Safety [42470485].md",
@@ -37826,9 +37872,16 @@
           "show": "Marketplace Tech",
           "title": "Ring Moves to Make Its Video Footage More Private",
           "url": "/wiki/sources/tech-20260901-0901-mp-tech-pod-128-tech-20260901-0901-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260918_MP_TECH_pod_128 [tech_20260918_MP_TECH_pod_128].md",
+          "key": "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trump rejects AI's \"effective altruism\" movement",
+          "url": "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/flocksafety/"
     },
     "FloodplainRetreatGovernance": {

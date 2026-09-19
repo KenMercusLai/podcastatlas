@@ -20058,3 +20058,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | Trump rejects AI's "effective altruism" movement
+
+Added source `tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128`; created `DeviceOriginPhotoAuthentication`; and updated `FlockSafety`, `AutomaticLicensePlateReader`, `AdvancedAIDevelopmentPause`, and `index.md`. Core synthesis: technology trust requires public legitimacy and bounded controls across three domains—competition-aware AI governance, enforceable and secure license-plate-reader oversight, and positive device-origin authentication that does not classify every unauthenticated image as fake. The new Flock reporting sharpens tension with the company's earlier governance defense through alleged officer misuse and weak device key protection, but no settled contradiction is recorded; company motives, legislative prospects and bill details, vulnerability scope, manufacturing origin, and Apple's untested implementation remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

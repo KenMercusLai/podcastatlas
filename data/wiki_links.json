@@ -17235,6 +17235,10 @@
     "title": "Device Form Factor Fragmentation",
     "url": "/wiki/concepts/deviceformfactorfragmentation/"
   },
+  "DeviceOriginPhotoAuthentication": {
+    "title": "Device-Origin Photo Authentication",
+    "url": "/wiki/concepts/deviceoriginphotoauthentication/"
+  },
   "Devin": {
     "title": "Devin",
     "url": "/wiki/entities/devin/"
@@ -75742,6 +75746,10 @@
   "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128": {
     "title": "What might our tax system look like in the age of AI?",
     "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+  },
+  "tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128": {
+    "title": "Trump rejects AI's \"effective altruism\" movement",
+    "url": "/wiki/sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128/"
   },
   "tengxun-ali-zijie-zhengduo-dagongren-hulianwang-dachang-weihe-jiti-jiama-ai-bangong-1008598460": {
     "title": "腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？",

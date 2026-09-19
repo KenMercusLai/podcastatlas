@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Trump rejects AI's "effective altruism" movement](sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128.md) — Marketplace Tech episode linking contested AI-slowdown politics, Flock license-plate-reader misuse and security concerns, and Apple's device-origin photo authentication.
 - [Jared Isaacman: A New Era for NASA and American Space Exploration](sources/all-in-with-chamath-jason-sacks-friedberg-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-42953838.md) — All-In interview presenting Isaacman's focused NASA agenda around Artemis, incremental lunar presence, South Pole operations, nuclear-electric propulsion, commercial procurement, and competition with China.
 - [2026秋季篇E03 尊严死？！日本医生被判杀人事件](sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4.md) — 日谈物语 opening on a 2005 Japanese doctor's murder conviction, end-of-life classification, disclosure duties, overtreatment, and patient autonomy, with the case facts unresolved because only three minutes are transcribed.
 - [《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！](sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt.md) — 芮淇讲透资治通鉴 episode on Wu's post-Red-Cliffs relief and surrender incorporation, Liu Bei's southern Jingzhou fiscal base, Zhang Song's Yizhou alliance pivot, and Xi Zaochi's qualified critique of Cao Cao's success-induced arrogance.
@@ -12727,6 +12728,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赤壁之战 / Battle of Red Cliffs](entities/RedCliffsBattle.md) — Late-Han river campaign where disease, readiness, terrain, linked ships, deception, fire, retreat, and disputed credit reshape the Jingzhou contest.
 
 ## Concepts
+- [Device-Origin Photo Authentication](concepts/DeviceOriginPhotoAuthentication.md) — Capture-time signing and protected reference images that verify a bounded device-origin claim without treating every unauthenticated photo as fake.
 - [NASA Mission Concentration](concepts/NASAMissionConcentration.md) — Proposal to focus NASA's budget and technical ownership on fewer consequential frontier missions.
 - [Frontier Agency-Commercial Boundary](concepts/FrontierAgencyCommercialBoundary.md) — Dynamic division between mature services bought from industry and frontier capabilities retained by a public technical agency.
 - [Nuclear-Electric Spaceflight](concepts/NuclearElectricSpaceflight.md) — Reactor-powered high-efficiency propulsion architecture proposed for Mars reconnaissance, outer-planet science, and later crew transport.
