@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10236
+wiki_total_pages: 10238
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "LiuQiLateHan"
     title: "刘琦 / Liu Qi (Late Han)"
     url: "/wiki/entities/liuqilatehan/"
+  - key: "LiuCongLateHan"
+    title: "刘琮 / Liu Cong (late Han)"
+    url: "/wiki/entities/liuconglatehan/"
   - key: "LiuYuAstrologerLateHan"
     title: "刘瑜 / Liu Yu (late Han astrologer)"
     url: "/wiki/entities/liuyuastrologerlatehan/"

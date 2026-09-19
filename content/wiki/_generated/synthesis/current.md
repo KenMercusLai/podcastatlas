@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-20
-as_of_overview_commit: dcdf3263b481d378e55617c16fdec3ac03b169fb
-summary: "Across domains, durable value depends on evidence, operational capacity, trusted relationships, and explicit boundaries."
-episode_count: 2519
-source_count: 2519
-paragraph_count: 643
+as_of_overview_commit: 7e149b8be5f166af509b7d1ea275395edbab53be
+summary: "Durable value across the wiki depends on evidence, operational capacity, trusted relationships, explicit boundaries, and the ability to convert change into usable systems."
+episode_count: 2521
+source_count: 2521
+paragraph_count: 644
 topic_count: 8
 ---
 
@@ -50,14 +50,14 @@ Cultural form acts as infrastructure: medium, material, audience practice, prove
 
 ### Governance and Institutions
 
-Authority depends on rules plus control of appointments, information, symbols, blame, public purpose, and the capacity retained beyond borrowed platforms.
+Authority depends on rules plus control of appointments, information, symbols, blame, public purpose, and capacity retained beyond borrowed platforms.
 
 - [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence. Evidence: [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], [[CourtTransitionBlameManagement]].
 - [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems. Evidence: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]].
 
 ### History and Geopolitics
 
-Usable state capacity joins legitimacy, routes, logistics, organization, credibility, and coalition sequencing; Red Cliffs adds dignity plus capacity testing.
+Usable state capacity joins legitimacy, routes, logistics, organization, credibility, coalition sequencing, and post-conquest personnel transfer.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].

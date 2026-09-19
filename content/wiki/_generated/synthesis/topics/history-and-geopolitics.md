@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: dcdf3263b481d378e55617c16fdec3ac03b169fb
-input_digest: 3cd9098ce1296eb8bb1949730ea06d75337e7a0bf8e0b07c7ea82f637c811cd9
+as_of_overview_commit: 7e149b8be5f166af509b7d1ea275395edbab53be
+input_digest: 3b6c682f3ddf43a5b58035cccdec824c7c44a7326301d96d47e2528ac4680ee5
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, and coalition sequencing to usable state capacity. The Red Cliffs prehistory now runs from hedged exploration through face-preserving brokerage to Zhuge Liang's direct dignity-and-capacity case for resistance; emotional pressure opens the choice, while force, adaptation, cohesion, and projected benefit make coalition action plausible. The topic retains Cao Cao's formation and late-career layers, Tian Chou's reward-refusal case, the completed 1868 Abyssinian campaign, and wider comparative claims about borderlands, infrastructure, memory, and institutional breakdown, with source-specific motives and numbers kept qualified.
+The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, and post-conquest personnel transfer to usable state capacity. The Red Cliffs prehistory now includes the Changban collapse and Cao Cao's Jingzhou settlement before hedged exploration, face-preserving brokerage, and Zhuge Liang's dignity-and-capacity case for resistance. Wen Ping adds a qualified pattern in which loyalty to a defeated order becomes evidence for trusted reuse, while wider claims about borderlands, infrastructure, memory, institutional breakdown, and source-specific motives remain bounded.
 
 ## Cross-source Findings
+
+### Hanji 1095 Jingzhou Transfer Reclassifies Loyalty As Capacity
+
+[[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3|Hanji 1095]] links the post-[[ChangbanBattle|Changban]] collapse to Cao Cao's [[Jingzhou|Jingzhou]] settlement: [[LiuCongLateHan|Liu Cong]]'s surrender triggers rapid official incorporation, while [[WenPing|Wen Ping]] turns grief for the old regime into evidence for [[FormerEnemyLoyaltyReframing|loyalty reframing]] and retained frontier command under [[CapturedOpponentTalentIncorporation|captured-opponent talent incorporation]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3]], [[ChangbanBattle]], [[Jingzhou]], [[LiuCongLateHan]], [[WenPing]], [[FormerEnemyLoyaltyReframing]], [[CapturedOpponentTalentIncorporation]]
+
+**Qualifications:**
+
+- The episode is a popular-history reconstruction, so Liu Bei's inner belief, family-loss sequence, exact offices, ages, distances, dialogue, and Wen Ping chronology remain source-scoped.
+- Wen Ping's old-regime grief can support Cao Cao's judgment without proving that prior loyalty always predicts reliable future service.
 
 ### Hanji 1100 Dignity And Capacity Close Coalition Case
 

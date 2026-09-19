@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
       "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
       "6e1cc6533aabbacf9400b4d7cb2ff07b994515b2f2b2db3fbd2dd998278346b7",
       "9b2c946b8cf38a2e8254b40480ce676da5009edd5b1bcdb590838196a600bf12",
@@ -645,11 +646,37 @@
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0"
     ],
-    "paragraph_count": 643
+    "paragraph_count": 644
   },
-  "overview_commit": "79905a2e08fb158decdaa570c8cd18038211c40a",
-  "overview_digest": "0182c1859e29bda0e0c6ee115c54ea447ed3b2866ada34e595145567d77cf740",
+  "overview_commit": "7e149b8be5f166af509b7d1ea275395edbab53be",
+  "overview_digest": "509d5589d337cd607068d72955c9b9359d052bf3b232d99287938dd47793c5dc",
   "paragraphs": [
+    {
+      "id": "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3|《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode filling the transition from [[ChangbanBattle|长坂坡之战]] to Cao Cao's Jingzhou settlement before Hanji 1096. It adds [[LiuCongLateHan|刘琮]] and [[WenPing|文聘]], while extending [[HanSongLateHan|韩嵩]], [[KuaiYue|蒯越]], [[LiuXianLateHan|刘先]], [[DengXiLateHan|邓羲]], [[CaiMao|蔡瑁]], [[Jingzhou|荆州]], [[JianglingLateHan|江陵]], [[CapturedOpponentTalentIncorporation|降敌任用式立威]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]]. Its core synthesis is that regime change is also personnel re-sorting: Cao Cao reduces surrender costs through titles, converts imprisoned or sidelined Jingzhou officials into court capacity, and reads Wen Ping's grief for the old order as evidence for trusted frontier command. No settled contradiction is recorded; the motivational claims about Liu Bei's inner belief, family-loss sequence, titles, ages, distances, exact dialogue, and Wen Ping chronology remain source-scoped pending primary-source verification.",
+      "topic_scores": {
+        "history-and-geopolitics": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaiMao",
+        "CapturedOpponentTalentIncorporation",
+        "ChangbanBattle",
+        "DengXiLateHan",
+        "FormerEnemyLoyaltyReframing",
+        "HanSongLateHan",
+        "JianglingLateHan",
+        "Jingzhou",
+        "KuaiYue",
+        "LiuCongLateHan",
+        "LiuXianLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "WenPing",
+        "zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3"
+      ]
+    },
     {
       "id": "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
       "primary_topic": "history-and-geopolitics",

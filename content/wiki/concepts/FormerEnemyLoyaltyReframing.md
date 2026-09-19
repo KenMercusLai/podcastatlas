@@ -2,63 +2,55 @@
 title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [statecraft, loyalty, chu-han, eastern-han, founding]
+tags: [statecraft, loyalty, founding, regime-change]
 sources:
   - zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk
   - zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy
   - zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3
+last_updated: 2026-09-20
 ---
 
 ## Definition
 
-旧敌忠义重释 / former enemy loyalty reframing is the founding-order move by which a victor decides whether service to a defeated enemy should be punished as hostility, praised as loyalty, or rejected as disloyal dereliction under a new regime.
+旧敌忠义重释 / former enemy loyalty reframing is the regime-change move by which service to a defeated order is judged as honorable duty, punishable hostility, or disloyal dereliction—and then used to define norms for the new order.
 
 ## Current Synthesis
 
-Hanji 170 part 1 builds the positive model around [[JiBu|Ji Bu]]. A defeated officer's attacks on [[LiuBang|Liu Bang]] can be read as personal offense, but [[ZhuJiaLu|Zhu Jia]] persuades through [[XiahouYing|Xiahou Ying]] that the same conduct can be read as loyalty to [[XiangYu|Xiang Yu]]. Publicly pardoning and rewarding Ji Bu lets the new Han order claim that it honors loyalty even when that loyalty previously opposed it.
+The Chu-Han pair establishes the positive and negative boundaries. [[JiBu|季布]]'s attacks on [[LiuBang|刘邦]] are reclassified as loyal service to [[XiangYu|项羽]], making pardon and appointment evidence that the new Han honors duty. [[DingGong|丁公]], by contrast, is executed because conduct helpful to Liu Bang can be framed as betrayal of his assigned old-lord role.
 
-Hanji 170 part 2 adds the negative boundary through [[DingGong|Ding Gong]]. Ding Gong had helped Liu Bang by sparing him at Pengcheng, but Liu Bang later executes him as disloyal to Xiang Yu. The concept therefore does not mean all useful former enemies are forgiven. It requires the victor to distinguish loyal service to an old lord from conduct that can be framed as private betrayal of assigned duty.
+Hanji 684 adds the Eastern Han restoration variant. [[BaoYongEasternHan|鲍永]] and [[FengYanEasternHan|冯衍]] mourn Liu Xuan, disperse followers, and surrender without force-backed bargaining. Their old loyalty is morally legible, but later reuse still differs according to new-regime utility.
 
-Hanji 684 adds an Eastern Han restoration version through [[BaoYongEasternHan|Bao Yong]] and [[FengYanEasternHan|Feng Yan]]. After Liu Xuan is killed, they mourn the old ruler, release people, seal insignia, disperse followers, and surrender to Liu Xiu without force-backed bargaining. Bao Yong explicitly says he would be ashamed to use old-lord troops for private wealth and rank, then invokes Liu Bang's treatment of Ji Bu and Ding Gong to reassure Feng Yan.
-
-The Eastern Han case adds a sharper incorporation limit. Liu Xiu praises Bao Yong publicly but is privately dissatisfied, and later outcomes diverge: Bao Yong is reused through military merit while Feng Yan is gradually marginalized. Former-enemy loyalty can become a usable virtue, but the new ruler still evaluates force, service, and future utility.
+Hanji 1095 adds a late-Han military-administrator case. [[WenPing|文聘]] delays appearing after Jingzhou's surrender and weeps over his failure to preserve the old regime. [[CaoCao|曹操]] reads that grief as proof of a reliable loyal character, preserves his command, and appoints him to Jiangxia. Here the victor does not merely tolerate old loyalty; he treats it as predictive evidence for future service.
 
 ## Key Claims
-
-- A founder can reduce resistance by separating former enemy duty from personal enmity.
-- Publicly rewarding a former enemy signals that the new order honors loyalty even when loyalty once opposed it.
-- The move is pragmatic as well as moral because talented fugitives can otherwise hide or strengthen outside enemies.
-- The boundary case is dereliction: conduct useful to the victor may still be punished if framed as betrayal of the old lord.
-- Eastern Han evidence shows that morally legible surrender is not enough by itself; new-regime usefulness still matters.
-- The concept belongs to [[BattlefieldVictoryToFoundingOrder|battlefield victory to founding order]] because victory must be translated into norms for defeated personnel.
+- A victor can separate duty to a former ruler from personal hostility toward the new ruler.
+- Publicly honoring old loyalty signals that the new order values stable obligation.
+- Conduct useful to the victor may still be punished if it reveals dereliction toward the old office.
+- Morally legible surrender does not guarantee reuse; future utility and control still matter.
+- Old loyalty can be treated as evidence of future reliability, but that inference remains risky and contextual.
+- The pattern helps translate victory into personnel norms for a successor regime.
 
 ## Evidence
-
-- Positive reclassification: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] says Zhu Jia and Xiahou Ying persuade Liu Bang to see Ji Bu's attacks as loyal service to Xiang Yu rather than personal unforgivable hostility.
-- Strategic absorption: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] frames pardon as preventing capable former enemies from fleeing or strengthening outside powers.
-- Negative boundary: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] says Liu Bang executes Ding Gong because sparing him at Pengcheng can be read as disloyalty to Xiang Yu.
-- Old-ruler surrender posture: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong and Feng Yan mourn Liu Xuan, release people, seal insignia, disperse followers, and then surrender.
-- Ji Bu and Ding Gong as active precedent: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong reassures Feng Yan by citing Liu Bang's reward of Ji Bu and execution of Ding Gong.
-- Incorporation limit: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Xiu praises Bao Yong outwardly but is privately dissatisfied, while Bao Yong later gains use through military merit and Feng Yan is marginalized.
+- Positive reclassification: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] says Ji Bu's hostile service is reframed as loyalty to Xiang Yu.
+- Negative boundary: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] says Ding Gong is executed for failing his old-lord duty.
+- Surrender posture and incorporation limit: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] contrasts Bao Yong and Feng Yan after they surrender without troops.
+- Loyalty as future evidence: [[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3|Hanji 1095]] says Cao Cao praises Wen Ping's grief for the old regime and appoints him to Jiangxia.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that victors consistently reward old loyalty. Ding Gong is punished, and Feng Yan's marginalization shows that moral legibility can still fail to become political incorporation. It also differs from ordinary pardon: clemency stops punishment, while loyalty reframing turns prior hostile conduct into a virtue usable by the new order.
+Victors do not consistently reward old loyalty: Ding Gong is punished and Feng Yan is marginalized. Wen Ping's later record can support Cao Cao's judgment without proving that grief or delay always predicts reliable service. The concept differs from ordinary clemency because it changes the moral classification of prior conduct, and from [[CapturedOpponentTalentIncorporation|降敌任用式立威]], which focuses on converting usable capacity.
 
 ## What Changed
-
-- Added Hanji 684 as the Bao Yong/Feng Yan Eastern Han restoration case.
-- Converted the page to synthesis-v1 and separated evidence from related links.
-- Reframed the concept to include incorporation limits after morally legible surrender.
+- Added Wen Ping as a case where old loyalty becomes predictive evidence for trusted command.
+- Extended the concept from founding dynasties to a late-Han provincial regime transfer.
+- Kept utility and control as limits on moral reclassification.
 
 ## Related Concepts
-
-- [[JiBu|季布]] - positive Chu-Han case where former enemy service is reclassified as loyalty.
-- [[DingGong|丁公]] - negative Chu-Han boundary where helpful conduct is punished as old-lord dereliction.
-- [[BaoYongEasternHan|鲍永]] - Eastern Han surrenderer whose old loyalty becomes usable after later military merit.
-- [[FengYanEasternHan|冯衍]] - Eastern Han surrenderer whose old loyalty remains morally legible but politically marginal.
-- [[LiuBang|刘邦]] - founder whose judgments create the Ji Bu/Ding Gong precedent.
-- [[LiuXiu|光武帝刘秀]] - restoration founder whose response to Bao Yong and Feng Yan tests the precedent.
-- [[PardonAsStatePower|赦免作为国家权力]] - adjacent sovereign-clemency frame that differs from virtue reclassification.
-- [[RetainerReciprocityEthic|士为知己者死]] - adjacent loyalty ethic centered on the retainer's obligation rather than the victor's reinterpretation.
+- [[CapturedOpponentTalentIncorporation|降敌任用式立威]] - capacity-conversion pattern often enabled by loyalty reframing.
+- [[PardonAsStatePower|赦免作为国家权力]] - adjacent clemency frame without necessary virtue reclassification.
+- [[RetainerReciprocityEthic|士为知己者死]] - retainer-side obligation underlying old-lord service.
+- [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - broader translation of victory into institutional norms.
+- [[WenPing|文聘]] - late-Han case of loyal grief becoming evidence for reuse.
+- [[JiBu|季布]] - positive Chu-Han case.
+- [[DingGong|丁公]] - negative boundary case.

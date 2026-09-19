@@ -1,31 +1,60 @@
 ---
 title: "荆州 / Jingzhou"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [place, province, late-han, three-kingdoms, china]
-sources: [zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r, zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd, zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva, zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj]
-last_updated: 2026-08-26
+sources:
+  - zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon
+  - zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r
+  - zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd
+  - zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva
+  - zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj
+  - zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3
+last_updated: 2026-09-20
 ---
 
 # 荆州 / Jingzhou
 
-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] gives Jingzhou its Liu Biao founding moment in the wiki. [[LiuBiao|刘表]] arrives with formal authority but weak direct capacity, while local clan heads possess troops and regional influence. [[KuaiLiang|蒯良]] supplies a people-support justification, [[KuaiYue|蒯越]] supplies an elite-removal and force-absorption plan, and the move to [[XiangyangLateHan|襄阳]] converts the province from a nominal appointment into a defensible base.
+## Overview
+荆州 / Jingzhou is a late-Han provincial base whose value lies in population, refuge, elite networks, and the middle-Yangtze corridor, but whose internal fissures make territorial possession different from integrated control.
 
-[[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] adds Jingzhou before the later Liu Biao evaluation branch. The source compares Jingzhou with [[YangzhouLateHan|扬州]] and [[YizhouLateHan|益州]] as a Yangtze-line strategic base, then identifies [[JianglingLateHan|江陵]] as the pivot: upstream movement can threaten Yizhou, while downstream movement can threaten Yangzhou. This makes Jingzhou a corridor-control problem before the later page develops [[LiuBiao|刘表]]'s defensive local governance.
+## Current Profile
+Hanji 953 and 1010 show [[LiuBiao|刘表]] turning weak formal authority into practical rule through [[KuaiLiang|蒯良]]'s people-support argument, [[KuaiYue|蒯越]]'s local-force absorption plan, the alliance with [[CaiMao|蔡瑁]], and a move toward [[XiangyangLateHan|襄阳]]. Relative peace attracts displaced scholars, yet suspicion and limited decisiveness constrain wider expansion.
 
-[[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] later develops 荆州 / Jingzhou as [[LiuBiao|刘表]]'s regional base. The episode says Liu Biao had entered Yicheng, worked with [[KuaiYue|蒯越]] and [[CaiMao|蔡瑁]], suppressed local armed clans, and established broad control over northern Jingzhou while [[NanyangCommandery|南阳郡]] remained contested by larger late-Han forces.
+Hanji 969 makes [[JianglingLateHan|江陵]] the corridor pivot between [[YangzhouLateHan|扬州]] and [[YizhouLateHan|益州]]. Hanji 1027 then shows the province's structural weakness: southern commanderies can detach through local networks and outside patronage, while Hanji 1011 exposes a court circle capable of converting elite offense into delegated removal.
 
-The same source makes Jingzhou a refuge and a strategic ceiling. Liu Biao's administration keeps the region comparatively peaceful, treats commoners and scholar-officials well, and attracts many displaced scholars, but [[JiaXu|贾诩]] judges that Liu Biao's suspicion and poor disorder-era decisiveness prevent him from turning local stability into a wider conquest project.
+Hanji 1095 supplies the transfer endpoint. [[LiuCongLateHan|刘琮]] surrenders, Cao Cao absorbs officials through titles and rank, Han Song is released, and Wen Ping's old loyalty is converted into Jiangxia command. Jingzhou changes hands not only through territorial submission but through accelerated personnel re-sorting.
 
-[[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] turns Jingzhou from a stable refuge into a fractured strategic field before [[GuanduCampaign|官渡]]. [[LiuBiao|刘表]]'s [[XiangyangLateHan|襄阳]] center still protects Jianghan, but [[SouthernJingzhouLateHan|荆南]] commanderies such as [[ChangshaCommanderyLateHan|长沙郡]], [[LinglingCommanderyLateHan|零陵郡]], and [[GuiyangCommanderyLateHan|桂阳郡]] can attach to [[CaoCao|曹操]] through [[ZhangXianLateHan|张献]] and [[HuanJieLateHan|桓阶]]. The source uses that breakaway to show why defensive control over Jingzhou is not the same as integrated province-wide initiative.
+## Key Characteristics
+- Strategic middle-Yangtze province linking downstream Yangzhou and upstream Yizhou.
+- Consolidated under Liu Biao through popular attachment, elite alliance, coercion, and troop absorption.
+- Refuge for displaced scholars and source of capable officials.
+- Internally divided between the Xiangyang center and southern commandery networks.
+- Vulnerable when defensive local stability substitutes for decisive wider alignment.
+- Transferred to Cao Cao through Liu Cong's surrender and rapid elite incorporation.
 
-[[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] then shows the darker side of the same court circle. [[MiHengLateHan|祢衡]] arrives after [[CaoCao|曹操]] sends him to Liu Biao, offends local elites such as Kuai Yue and Cai Mao, and is eventually passed onward to [[HuangZu|黄祖]].
+## Evidence
+- Founding consolidation: [[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] joins benevolent attachment to removal and absorption of armed local elites.
+- Corridor geography: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] identifies Jiangling as the Yizhou-Yangzhou pivot.
+- Governance and refuge: [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] presents local stability alongside Liu Biao's strategic ceiling.
+- Elite pressure: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] shows Mi Heng's transfer through an offended local court circle.
+- Provincial fissure: [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] traces southern commandery defection and outside alignment.
+- Regime transfer: [[zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3|Hanji 1095]] details Liu Cong's submission and Cao Cao's absorption of Jingzhou personnel.
 
-## Connections
-- [[KuaiLiang|蒯良]], [[KuaiYue|蒯越]], and [[XiangyangLateHan|襄阳]] - founding consolidation pattern in Hanji 953.
-- [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]], [[YangzhouLateHan|扬州]], [[YizhouLateHan|益州]], [[JianglingLateHan|江陵]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]] - Yangtze corridor comparison and strategic pivot branch.
-- [[LiuBiao|刘表]] - regional governor whose rule defines this source's Jingzhou branch.
-- [[KuaiYue|蒯越]] and [[CaiMao|蔡瑁]] - local elite allies and court-circle figures.
-- [[NanyangCommandery|南阳郡]], [[Rangcheng|穰城]], [[ZhangJiLateHan|张济]], and [[ZhangXiu|张绣]] - contested northern Jingzhou and troop-absorption branch.
-- [[SouthernJingzhouLateHan|荆南]], [[ChangshaCommanderyLateHan|长沙郡]], [[LinglingCommanderyLateHan|零陵郡]], [[GuiyangCommanderyLateHan|桂阳郡]], [[ZhangXianLateHan|张献]], and [[HuanJieLateHan|桓阶]] - Hanji 1027 southern fissure before Guandu.
-- [[MourningFramedMilitaryAbsorption|丧礼化收编]] and [[DefensiveLocalGovernance|保境安民式守成治理]] - concepts opened through Liu Biao's handling of Jingzhou.
-- [[MiHengLateHan|祢衡]] and [[HuangZu|黄祖]] - Hanji 1011 guest-transfer branch from Liu Biao's circle.
+## Qualifications
+The page synthesizes popular-history episodes rather than a complete administrative or campaign history. Province-wide labels can hide major subregional differences, and the exact offices, troop strengths, and motives in the surrender settlement require primary-source verification.
+
+## What Changed
+- Migrated the page to synthesis-v1 from its complete prior source inventory.
+- Added the 208 CE surrender and personnel-transfer endpoint.
+- Reframed territorial conquest as a rapid re-sorting of local officials and commanders.
+
+## Relationships
+- [[LiuBiao|刘表]] - governor who constructs the long-lived regional base.
+- [[LiuCongLateHan|刘琮]] - successor whose surrender transfers the province.
+- [[CaoCao|曹操]] - conqueror who absorbs the provincial elite network.
+- [[JianglingLateHan|江陵]] - corridor pivot concentrating strategic value.
+- [[XiangyangLateHan|襄阳]] - northern administrative center.
+- [[SouthernJingzhouLateHan|荆南]] - subregion whose fissures limit integrated control.
+- [[DefensiveLocalGovernance|保境安民式守成治理]] - strength and strategic ceiling of Liu Biao's rule.
+- [[RiverCorridorStrategicBase|长江走廊战略根据地]] - geography explaining the province's wider value.

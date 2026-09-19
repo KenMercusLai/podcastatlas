@@ -20190,3 +20190,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccorm
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？
+
+Added source `zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3`; created `LiuCongLateHan` and `WenPing`; migrated or updated `ChangbanBattle`, `HanSongLateHan`, `KuaiYue`, `CaiMao`, `LiuXianLateHan`, `DengXiLateHan`, `Jingzhou`, `JianglingLateHan`, `CapturedOpponentTalentIncorporation`, and `FormerEnemyLoyaltyReframing`; and updated `index.md` and `overview.md`. Core synthesis: the episode joins Liu Bei's post-Changban belief narrative to Cao Cao's rapid reconstruction of the Jingzhou personnel order, with Wen Ping's old-regime grief becoming evidence for retained command and Jiangxia appointment. No settled contradiction found; Liu Bei's inner state and family-loss sequence, titles, ages, distances, exact dialogue, and Wen Ping chronology remain source-scoped pending primary-source verification.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

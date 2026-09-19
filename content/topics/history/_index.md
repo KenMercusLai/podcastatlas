@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1883
+topic_total_pages: 1882
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1513,9 +1513,6 @@ topic_concepts:
   - key: "HostileTerritoryRoyalContainment"
     title: "敌意封国安置 / Hostile-Territory Royal Containment"
     url: "/wiki/concepts/hostileterritoryroyalcontainment/"
-  - key: "FormerEnemyLoyaltyReframing"
-    title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
-    url: "/wiki/concepts/formerenemyloyaltyreframing/"
   - key: "EarlyEunuchTerminologyMisreading"
     title: "早期宦官词义误读 / Early Eunuch Terminology Misreading"
     url: "/wiki/concepts/earlyeunuchterminologymisreading/"

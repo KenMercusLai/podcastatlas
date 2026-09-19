@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？](sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3.md) — 长坂坡惨败后的信念叙事、曹操接收荆州官员，以及文聘以旧主忠义获得江夏重任的政权转换案例。
 - [Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future](sources/all-in-with-chamath-jason-sacks-friedberg-metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future-42943275.md) — All-In interview on Richland Parish's data-center bargain, paid skilled-trades training, Meta's child-safety defense, smart glasses, and open-model strategy.
 - [《资治通鉴·汉纪》1100丨赤壁之战前的惊险谈判：诸葛亮如何把死局盘活？](sources/zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn.md) — 诸葛亮以战降二选一、尊严激将、兵力核算、曹军弱点与三分前景说服孙权转向抗曹联盟。
 - [《资治通鉴·汉纪》1097丨从贩履少年到刘皇叔，他的逆袭比你想的更狠！](sources/zizhi-tongjian-hanji-1097-cong-fanlu-shaonian-dao-liuhuangshu-ta-de-nixi-bi-ni-xiang-de-geng-hen-llhlpnoymxxf7y7_rkhtjb1jkkeg.md) — 刘备从童年贫困、宗族资助求学到卢植门下同学网络与商人启动资金的早期能力形成。
@@ -2530,6 +2531,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
 ## Entities
+- [文聘 / Wen Ping](entities/WenPing.md) — 荆州易主后因故主之义迟到请罪，却被曹操视为可信并保留兵权、委任江夏的将领。
+- [刘琮 / Liu Cong (late Han)](entities/LiuCongLateHan.md) — 刘表继承人，其降曹使荆州领土与官员网络进入曹操的朝廷秩序。
 - [Dina Powell McCormick](entities/DinaPowellMcCormick.md) — Meta president and vice chairwoman presenting the company's community, workforce, safety, product, and AI-distribution case.
 - [America's Workforce Academy](entities/AmericasWorkforceAcademy.md) — Paid five-week skilled-trades program combining credentials, wage replacement, and a reported Meta-site job guarantee.
 - [Richland Parish, Louisiana](entities/RichlandParish.md) — Supportive data-center host case built around reported construction-period taxes, teacher bonuses, resource terms, and operator-funded grid costs.
