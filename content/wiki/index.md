@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media](sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328.md) — All-In interview on Nick Shirley's audience-funded fraud investigations, California high-speed rail cost and delivery claims, AB 2624, platform distribution, security risk, and the distinction between criminal fraud and legally structured waste.
 - [Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin](sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924.md) — Huberman Lab Essentials episode with Dr. Andy Galpin on the nine physiological adaptations, gold-standard versus do-it-yourself fitness tests, FFMI and heart-rate recovery benchmarks, and the annual testing week.
 - [于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家](sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr.md) — 十字路口Crossing interview with Shenpu Intelligence chief scientist Wang Jiawei on the brain/action-policy split, a three-axis embodied capability framework, UMI-style six-camera glove data collection, a System 1/System 2 Agentic OS, benchmark problems, and the stated home-robot goal.
 - [Vol.275 澳洲保健品是怎么火起来的？](sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861.md) — 商业就是这样 episode on how Australia's supplement industry grew out of self-care traditions, contract manufacturing, listed-track regulation, marketing-led brands like Swisse and Blackmores, and the daigou and bonded-warehouse channels that built Chinese demand.
@@ -2501,6 +2502,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Nick Shirley](entities/NickShirley.md) — Independent creator presented by All-In as an audience-funded investigator using tips, field reporting, confrontation, and platform distribution to expose alleged fraud and public waste.
+- [California High-Speed Rail](entities/CaliforniaHighSpeedRail.md) — State passenger-rail megaproject used by the Nick Shirley episode to examine cost escalation, delivery delay, land conflict, contractor incentives, and political accountability.
 - [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist and Huberman Lab guest whose Essentials episode supplies the nine-adaptation fitness assessment framework, benchmark thresholds, and annual testing-week protocol.
 - [深普智能 / Shenpu Intelligence](entities/ShenpuIntelligence.md) — Home-facing general embodied-intelligence company whose chief scientist describes full-stack data, action-model, Agentic OS, and evaluation work.
 - [王家伟 / Wang Jiawei](entities/WangJiawei.md) — 24-year-old chief scientist of 深普智能, with a USTC youth-class and Microsoft Research Asia doctoral background plus DeepSeek and ByteDance Seed internships.
@@ -12693,6 +12696,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Legalized Government Waste](concepts/LegalizedGovernmentWaste.md) — Public-spending pattern where contracts and procedures authorize payments that may still reward delay, nonperformance, or continuation without credible delivery.
 - [Nine Physiological Adaptations / 九大生理适应能力](concepts/NinePhysiologicalAdaptations.md) — Episode's assessment taxonomy of skill, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long-duration endurance.
 - [Fitness Assessment Testing Week / 年度体能测试周](concepts/FitnessAssessmentTestingWeek.md) — Annual battery that runs the nine tests across about three days, with non-fatiguing measures first and maximal tests last.
 - [Movement Screen Scoring / 动作筛查评分](concepts/MovementScreenScoring.md) — Joint-by-joint technique screen recorded frontally and from the side and scored 0, 1, or 3 as a gate before maximal strength testing.

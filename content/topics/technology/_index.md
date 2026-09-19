@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3046
+topic_total_pages: 3047
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4712,6 +4712,9 @@ topic_entities:
   - key: "CalculatingEmpires"
     title: "Calculating Empires"
     url: "/wiki/entities/calculatingempires/"
+  - key: "CaliforniaHighSpeedRail"
+    title: "California High-Speed Rail"
+    url: "/wiki/entities/californiahighspeedrail/"
   - key: "Cambricon"
     title: "Cambricon / 寒武纪"
     url: "/wiki/entities/cambricon/"

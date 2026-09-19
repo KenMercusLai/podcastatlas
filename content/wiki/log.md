@@ -19974,3 +19974,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-17] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328`; created entity pages for Nick Shirley and California High-Speed Rail, created the Legalized Government Waste concept, and migrated Citizen Journalism Accountability to synthesis-v1 with the episode's tip-driven reporting, platform distribution, funding, verification, security, and attention-incentive evidence. The source's rail, Minnesota, welfare-fraud, and political-impact claims remain source-scoped. Official California bill text materially qualifies the episode's AB 2624 shorthand: the enacted provisions require specified threatening or imminent-harm-inciting intent, do not categorically bar publication after a demand letter, and become operative October 1, 2027.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

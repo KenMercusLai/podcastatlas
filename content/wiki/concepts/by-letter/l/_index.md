@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7520
+wiki_total_pages: 7521
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "LegalistMachiavelliComparison"
     title: "Legalist-Machiavelli Comparison"
     url: "/wiki/concepts/legalistmachiavellicomparison/"
+  - key: "LegalizedGovernmentWaste"
+    title: "Legalized Government Waste"
+    url: "/wiki/concepts/legalizedgovernmentwaste/"
   - key: "LegendAsSocialHistory"
     title: "Legend As Social History"
     url: "/wiki/concepts/legendassocialhistory/"

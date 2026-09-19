@@ -13816,6 +13816,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/californiafiscalfragility/"
     },
+    "CaliforniaHighSpeedRail": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nick Shirley： Exposing Government Fraud, Suing California & Taking on the Media [42945328].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/californiahighspeedrail/"
+    },
     "CaliforniaHomelessnessEnforcementTreatment": {
       "episode_count": 1,
       "show_count": 1,
@@ -18579,6 +18595,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/citgo/"
+    },
+    "CitizenJournalismAccountability": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nick Shirley： Exposing Government Fraud, Suing California & Taking on the Media [42945328].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/citizenjournalismaccountability/"
     },
     "CityPlacePremium": {
       "episode_count": 1,
@@ -61180,6 +61219,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/legalservicesaieconomics/"
     },
+    "LegalizedGovernmentWaste": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nick Shirley： Exposing Government Fraud, Suing California & Taking on the Media [42945328].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/legalizedgovernmentwaste/"
+    },
     "LegitimacyAnxietyAdministrativeParalysis": {
       "episode_count": 1,
       "show_count": 1,
@@ -76303,6 +76358,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/nickepley/"
+    },
+    "NickShirley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nick Shirley： Exposing Government Fraud, Suing California & Taking on the Media [42945328].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/nickshirley/"
     },
     "NicolasMaduro": {
       "episode_count": 4,
