@@ -20034,3 +20034,11 @@ Added source `zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 2026秋季篇E03 尊严死？！日本医生被判杀人事件
+
+Added source `2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4`; updated `NittanWuyu` with the third autumn installment's individual-case and medical-ethics direction; and migrated and updated `AssistedDeathConceptBoundary` and `AssistedDeathClinicalResponsibility` with the episode's non-euthanasia classification warning, disclosure and information-rights questions, overtreatment theme, and legal-versus-ethical tension. No settled contradiction found. Because the available transcript contains only the opening three minutes, the defendant's identity, medical act, patient history, judicial reasoning, and final ethical conclusion remain unresolved, and no case identity merge was made.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

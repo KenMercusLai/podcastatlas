@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2549
+topic_total_pages: 2550
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6786,6 +6786,9 @@ topic_sources:
   - key: "zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1"
     title: "179: 蒸馏风暴：一场无人公开谈论的技术竞赛"
     url: "/wiki/sources/zhengliu-fengbao-yichang-wuren-gongkai-tanlun-de-jishu-jingsai-1-179-1/"
+  - key: "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4"
+    title: "2026秋季篇E03 尊严死？！日本医生被判杀人事件"
+    url: "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
   - key: "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0"
     title: "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？"
     url: "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"

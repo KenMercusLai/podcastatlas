@@ -8299,6 +8299,52 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/assetallocationactionguide/"
     },
+    "AssistedDeathClinicalResponsibility": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "FlOp0zzKUTDJvbJ11ZpAcz62ijJ4 [FlOp0zzKUTDJvbJ11ZpAcz62ijJ4].md",
+          "key": "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4",
+          "show": "日谈物语",
+          "title": "2026秋季篇E03 尊严死？！日本医生被判杀人事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/assisteddeathclinicalresponsibility/"
+    },
+    "AssistedDeathConceptBoundary": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
+          "key": "119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087",
+          "show": "蜜獾吃书",
+          "title": "119.安乐死现场：正因生命如此珍贵",
+          "url": "/wiki/sources/119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087/"
+        },
+        {
+          "episode_file": "FlOp0zzKUTDJvbJ11ZpAcz62ijJ4 [FlOp0zzKUTDJvbJ11ZpAcz62ijJ4].md",
+          "key": "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4",
+          "show": "日谈物语",
+          "title": "2026秋季篇E03 尊严死？！日本医生被判杀人事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/assisteddeathconceptboundary/"
+    },
     "AssistedDrivingTrustFormation": {
       "episode_count": 1,
       "show_count": 1,
@@ -77106,9 +77152,9 @@
       "url": "/wiki/entities/ningbozhoushanport/"
     },
     "NittanWuyu": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -77123,9 +77169,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
           "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
+        },
+        {
+          "episode_file": "FlOp0zzKUTDJvbJ11ZpAcz62ijJ4 [FlOp0zzKUTDJvbJ11ZpAcz62ijJ4].md",
+          "key": "2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4",
+          "show": "日谈物语",
+          "title": "2026秋季篇E03 尊严死？！日本医生被判杀人事件",
+          "url": "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/nittanwuyu/"
     },
     "NiuTechnologies": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E03 尊严死？！日本医生被判杀人事件](sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4.md) — 日谈物语 opening on a 2005 Japanese doctor's murder conviction, end-of-life classification, disclosure duties, overtreatment, and patient autonomy, with the case facts unresolved because only three minutes are transcribed.
 - [《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！](sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt.md) — 芮淇讲透资治通鉴 episode on Wu's post-Red-Cliffs relief and surrender incorporation, Liu Bei's southern Jingzhou fiscal base, Zhang Song's Yizhou alliance pivot, and Xi Zaochi's qualified critique of Cao Cao's success-induced arrogance.
 - [《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？](sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb.md) — 芮淇讲透资治通鉴 episode on Tian Chou's Lulong Road contribution, fourfold refusal of Cao Cao's enfeoffment, Xiahou Dun's failed persuasion, and the yilang compromise.
 - [Bill Gurley: Searching for Feynman](sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628.md) — All-In presentation comparing catastrophic-failure investigations with the unresolved origin of COVID-19 through CAPA, independent inquiry, conflicts of interest, scientific politicization, and explicit uncertainty between spillover and laboratory-accident hypotheses.
@@ -3523,7 +3524,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mavis](entities/MavisDuanReporter.md) — Reporter who frames Hong Kong's 旺旺 response as both animal solidarity and a test of changed public-action space.
 - [Mak Chi-ho / 麦志豪](entities/MakChiHoAnimalAdvocate.md) — Hong Kong animal-welfare advocate comparing earlier mainland-facing campaigns with the cautious 2026 旺旺 response.
 - [Hong Kong SPCA / 香港爱护动物协会](entities/HongKongSPCA.md) — Mainstream Hong Kong animal-protection body discussed through its statement and cruelty-footage takedown controversy.
-- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose autumn opener frames cases as social-history reflection on groups, eras, and present uncertainty.
+- [日谈物语 / Nittan Wuyu](entities/NittanWuyu.md) — Podcast show whose 2026 autumn sequence uses individual cases to connect public health, environmental harm, medical ethics, and present uncertainty.
 - [淼叔 / Miao Shu](entities/MiaoShuNittanWuyu.md) — 日谈物语 host who carries the transition from seasonal conversation into social-history framing in the current source.
 - [小伙子 / Xiao Huozi](entities/XiaoHuoziNittanWuyu.md) — 日谈物语 co-host who reinforces the source's rapid-social-change and listener-facing setup.
 - [Japan AIDS Blood Products Incident / 日本艾滋血液药剂事件](entities/JapanAIDSBloodProductsIncident.md) — Announced public-health topic in the 日谈物语 autumn opener, currently source-limited to the title and hemophilia entry setup.
