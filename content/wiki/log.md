@@ -20010,3 +20010,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-19] lint | Wiki content-quality check
 
 Ran lint after health and identity validation passed across 20,223 wiki pages. Deterministic checks found one orphan (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes versus 20,223 current pages, so their finding of one fragile bridge and no hub stubs or isolated communities is advisory until the graph is rebuilt. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to the provider-unqualified default `claude-3-5-sonnet-latest`; a bounded in-session review of recent contradiction sections and the flagged pages found source-qualified tensions but no new hard contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-09-19] ingest | 《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？
+
+Added source `zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc`; created `YilingLateHan`, `AlexanderTheGreat`, `SogdianRock`, and `UnexpectedApproachFortressAssault`; updated `GanNing`, `ZhouYuLateHan`, `CaoRen`, and `JianglingLateHan`. Core synthesis: Jiangling's military, fiscal, political, and corridor value makes Gan Ning's Yiling seizure strategically meaningful, while the Sogdian Rock comparison isolates how selected troops, terrain-specific movement, surprise, and psychological shock can bypass a fortress's strongest frontage. No settled contradiction found; special-forces language, 解烦兵 genealogy, exact counts, and the Roxana sequence remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -2504,6 +2504,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
+- [《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？](sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc.md) — Post-Red-Cliffs Jiangling and Yiling episode comparing Gan Ning's surprise seizure with Alexander's Sogdian Rock ascent.
+
 ## Entities
 - [习凿齿 / Xi Zaochi](entities/XiZaochi.md) — Eastern Jin historian whose critique frames Cao Cao's post-Red-Cliffs arrogance as an amplifier of strategic and personnel loss.
 - [张松 / Zhang Song (Late Han)](entities/ZhangSongLateHan.md) — Liu Zhang emissary whose cold reception by Cao Cao precedes Yizhou's pivot toward Liu Bei.
@@ -12708,6 +12710,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Tale of the Heike](entities/TheTaleOfTheHeike.md) — literary memory source preserving the Genpei War as vivid samurai legend and political transition.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
+- [夷陵 / Yiling (Late Han)](entities/YilingLateHan.md) — Mountain-and-river forward position seized by Gan Ning during the post-Red-Cliffs Jiangling campaign.
+- [Alexander the Great / 亚历山大大帝](entities/AlexanderTheGreat.md) — Macedonian commander used in the episode's Sogdian Rock tactical comparison.
+- [Sogdian Rock / 粟特岩堡](entities/SogdianRock.md) — Cliff fortress whose unexpected night ascent becomes a comparison for the Yiling operation.
+
 ## Concepts
 - [Earned Reward Refusal / 有功辞赏](concepts/EarnedRewardRefusal.md) — Tension between a contributor's principled refusal of deserved reward and an organization's need to keep merit recognition credible.
 - [Catastrophic Failure Root-Cause Investigation](concepts/CatastrophicFailureRootCauseInvestigation.md) — Independent, overlapping inquiry into technical and institutional causes before corrective and preventive action.
@@ -20235,5 +20241,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revolutionary Opera Cultural Memory](concepts/RevolutionaryOperaCulturalMemory.md) — How revolutionary performance and songs preserve political memory through artistic biography.
 - [People's Artist State Honor](concepts/PeopleArtistStateHonor.md) — State-honor frame for turning a performer into an official cultural symbol.
 - [恐怖治理反噬 / Terror Rule Backfire](concepts/TerrorRuleBackfire.md) — Governance pattern where killing and fear produce apparent obedience while storing accusation, desertion, and collapse in crisis.
+
+- [Unexpected-Approach Fortress Assault / 意外进路式要塞突袭](concepts/UnexpectedApproachFortressAssault.md) — Using selected troops and a presumed-impossible route to convert local penetration into defensive shock.
 
 ## Syntheses

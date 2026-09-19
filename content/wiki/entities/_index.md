@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10199
+wiki_total_pages: 10202
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "AlexanderPushkin"
     title: "Alexander Pushkin / 普希金"
     url: "/wiki/entities/alexanderpushkin/"
+  - key: "AlexanderTheGreat"
+    title: "Alexander the Great / 亚历山大大帝"
+    url: "/wiki/entities/alexanderthegreat/"
   - key: "AlexandrWang"
     title: "Alexandr Wang"
     url: "/wiki/entities/alexandrwang/"

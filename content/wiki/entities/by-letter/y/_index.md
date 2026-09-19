@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10199
+wiki_total_pages: 10202
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "YianPrincessWesternHan"
     title: "夷安公主 / Yian Princess"
     url: "/wiki/entities/yianprincesswesternhan/"
+  - key: "YilingLateHan"
+    title: "夷陵 / Yiling (Late Han)"
+    url: "/wiki/entities/yilinglatehan/"
   - key: "YaoGuangLateHan"
     title: "姚光 / Yao Guang (late Han)"
     url: "/wiki/entities/yaoguanglatehan/"

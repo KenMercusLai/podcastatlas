@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 7526
+wiki_total_pages: 7527
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "UnemploymentStigma"
     title: "Unemployment Stigma / 失业污名"
     url: "/wiki/concepts/unemploymentstigma/"
+  - key: "UnexpectedApproachFortressAssault"
+    title: "Unexpected-Approach Fortress Assault / 意外进路式要塞突袭"
+    url: "/wiki/concepts/unexpectedapproachfortressassault/"
   - key: "UnfawningBoundaryPractice"
     title: "Unfawning Boundary Practice"
     url: "/wiki/concepts/unfawningboundarypractice/"

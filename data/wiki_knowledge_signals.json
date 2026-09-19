@@ -5542,6 +5542,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/alexanderluria/"
     },
+    "AlexanderTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/alexanderthegreat/"
+    },
     "AlexandraSuichBass": {
       "episode_count": 2,
       "show_count": 1,
@@ -14549,9 +14565,9 @@
       "url": "/wiki/entities/caojielatehan/"
     },
     "CaoRen": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
@@ -14566,9 +14582,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1047丨官渡大战在即，刘备为何紧急逃离袁绍？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/caoren/"
     },
     "CaoShaoLateHan": {
@@ -41259,9 +41282,9 @@
       "url": "/wiki/concepts/gamespiritorganization/"
     },
     "GanNing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
@@ -41283,6 +41306,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
         }
       ],
       "updated": "2026-09-19",
@@ -56878,6 +56908,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/jianghuvirtualkinship/"
+    },
+    "JianglingLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
+          "key": "zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/jianglinglatehan/"
     },
     "JiaoChuLateHan": {
       "episode_count": 1,
@@ -98474,6 +98527,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/softbudgetfootballclubs/"
     },
+    "SogdianRock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/sogdianrock/"
+    },
     "SoloAIRPGs": {
       "episode_count": 1,
       "show_count": 1,
@@ -108463,6 +108532,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/unearnedrewardrefusal/"
+    },
+    "UnexpectedApproachFortressAssault": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/unexpectedapproachfortressassault/"
     },
     "UnicornEconomy": {
       "episode_count": 1,
@@ -120382,6 +120467,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/yijingfortress/"
     },
+    "YilingLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/yilinglatehan/"
+    },
     "YinChengPrincess": {
       "episode_count": 1,
       "show_count": 1,
@@ -125857,9 +125958,9 @@
       "url": "/wiki/entities/zhouyouwang/"
     },
     "ZhouYuLateHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -125916,9 +126017,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？ [lia4aZQ39jA4pT6YFpJGgjl-g3Vc].md",
+          "key": "zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1108丨甘宁奇袭夷陵，战术竟和亚历山大撞车？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/zhouyulatehan/"
     },
     "ZhouYuLuoyangEasternHan": {

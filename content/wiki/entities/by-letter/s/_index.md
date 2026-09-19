@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10199
+wiki_total_pages: 10202
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "Softmax"
     title: "Softmax"
     url: "/wiki/entities/softmax/"
+  - key: "SogdianRock"
+    title: "Sogdian Rock / 粟特岩堡"
+    url: "/wiki/entities/sogdianrock/"
   - key: "SolPrice"
     title: "Sol Price"
     url: "/wiki/entities/solprice/"

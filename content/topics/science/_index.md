@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1117
+topic_total_pages: 1118
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1879,6 +1879,9 @@ topic_concepts:
   - key: "TunnelingTax"
     title: "Tunneling Tax / 管窥税"
     url: "/wiki/concepts/tunnelingtax/"
+  - key: "UnexpectedApproachFortressAssault"
+    title: "Unexpected-Approach Fortress Assault / 意外进路式要塞突袭"
+    url: "/wiki/concepts/unexpectedapproachfortressassault/"
   - key: "UrgeDespiteRiskCircuit"
     title: "Urge Despite Risk Circuit"
     url: "/wiki/concepts/urgedespiteriskcircuit/"
