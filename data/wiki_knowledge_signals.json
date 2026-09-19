@@ -132,6 +132,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/a24/"
     },
+    "A2ATransactionNorms": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/a2atransactionnorms/"
+    },
     "ABOTNavigation": {
       "episode_count": 1,
       "show_count": 1,
@@ -4835,9 +4851,9 @@
       "url": "/wiki/concepts/agentenvironmentisolation/"
     },
     "AgentPaymentInfrastructure": {
-      "episode_count": 4,
-      "show_count": 4,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 5,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿 [lr4TVDrq25bY7FUGoqkqoJW6VWDk].md",
@@ -4866,9 +4882,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/agentpaymentinfrastructure/"
     },
     "AgentReadableWeb": {
@@ -4886,6 +4909,45 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/agentreadableweb/"
+    },
+    "AgentSpendControls": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "可以给你的 Agent 发一点零花钱了 ｜ S10E22 [9a652c19-ceb3-46c2-87b4-bca36e684311].md",
+          "key": "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311",
+          "show": "What's Next｜科技早知道",
+          "title": "可以给你的 Agent 发一点零花钱了｜ S10E22",
+          "url": "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
+        },
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/agentspendcontrols/"
+    },
+    "AgentTrustCalibration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/agenttrustcalibration/"
     },
     "AgenticCharacterSubjectivity": {
       "episode_count": 1,
@@ -5699,9 +5761,9 @@
       "url": "/wiki/entities/alicefullwood/"
     },
     "Alipay": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -5709,9 +5771,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/alipay/"
     },
     "AlipayTapNetwork": {
@@ -7141,9 +7210,9 @@
       "url": "/wiki/entities/antafu/"
     },
     "AntGroup": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥 [luXTyuAfi_2ONiM15fW6Lpypo2GA].md",
@@ -7158,9 +7227,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/antgroup/"
     },
     "AntInternational": {
@@ -13431,9 +13507,9 @@
       "url": "/wiki/concepts/bullwhipeffectinformationamplification/"
     },
     "BundConference": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -13441,9 +13517,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/bundconference/"
     },
     "BundnisSahraWagenknecht": {
@@ -47264,6 +47347,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/hanxinsitueasternhan/"
     },
+    "HanXinyi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/hanxinyi/"
+    },
     "HanXiongnuHeqinPolicy": {
       "episode_count": 7,
       "show_count": 1,
@@ -50276,6 +50375,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hongkongspca/"
+    },
+    "HongjunSiliconValley101": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/hongjunsiliconvalley101/"
     },
     "HongmengZhixing": {
       "episode_count": 2,
@@ -83024,6 +83139,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/personalrisktrustsignal/"
     },
+    "PeteLau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/petelau/"
+    },
     "PeteNitzsche": {
       "episode_count": 1,
       "show_count": 1,
@@ -110521,6 +110652,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/ventromedialhypothalamus/"
     },
+    "VerifiableIntent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/concepts/verifiableintent/"
+    },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,
       "show_count": 1,
@@ -121874,6 +122021,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/yokkaichipollutionincident/"
     },
+    "YongLambert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/yonglambert/"
+    },
     "Yongkang": {
       "episode_count": 1,
       "show_count": 1,
@@ -126737,6 +126900,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhoujinglatehan/"
+    },
+    "ZhouJingren": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
+          "key": "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87",
+          "show": "硅谷101",
+          "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+          "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/zhoujingren/"
     },
     "ZhouJintao": {
       "episode_count": 2,

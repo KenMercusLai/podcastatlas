@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10215
+wiki_total_pages: 10220
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "Hema"
     title: "盒马 / Hema"
     url: "/wiki/entities/hema/"
+  - key: "HongjunSiliconValley101"
+    title: "红君 / Hongjun (硅谷101)"
+    url: "/wiki/entities/hongjunsiliconvalley101/"
   - key: "Hongguo"
     title: "红果"
     url: "/wiki/entities/hongguo/"
@@ -1367,6 +1370,9 @@ wiki_pages:
   - key: "HanWenhou"
     title: "韩文侯 / Marquis Wen of Han"
     url: "/wiki/entities/hanwenhou/"
+  - key: "HanXinyi"
+    title: "韩新毅 / Han Xinyi"
+    url: "/wiki/entities/hanxinyi/"
   - key: "HanZhaohou"
     title: "韩昭侯 / Marquis Zhao of Han"
     url: "/wiki/entities/hanzhaohou/"

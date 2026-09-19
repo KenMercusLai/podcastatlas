@@ -2465,6 +2465,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "A2ATransactionNorms": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ABC": [
     {
       "key": "culture",
@@ -31972,6 +31979,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HanXinyi": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HanXiongnuHeqinPolicy": [
     {
       "key": "politics",
@@ -33593,6 +33607,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "HongjunSiliconValley101": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HongkongLandDairyFarmTakeover": [
@@ -52534,6 +52560,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PeteLau": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "PeteRozelle": [
@@ -77178,6 +77211,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "YongLambert": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "YongchengQin": [
     {
       "key": "history",
@@ -78954,6 +78994,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ZhouJingren": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ZhouKanWesternHan": [
@@ -85781,6 +85828,13 @@
     }
   ],
   "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87": [
     {
       "key": "technology",
       "label": "Technology",

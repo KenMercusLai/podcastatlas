@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87.md) — 硅谷101 roundtable on verifiable intent, KYA, bounded authorization, secure execution, A2A norms, and consumer recourse before agent transactions can scale.
 - [一場物理意義上的男女對立：重慶時代峰峻事件](sources/yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian.md) — 端闻 reconstructs a Chongqing fan conflict through missing footage, gendered scrutiny, and rival uses of shared political language.
 - [Snap 做了十年眼镜，终于等到它的时代了吗？｜ S10E30](sources/snap-zuole-shinian-yanjing-zhongyu-dengdao-ta-de-shidai-le-ma-s10e30-f98c4370-6653-4af3-9a43-386bf0ea0547.md) — What's Next episode on Snap Specs, integrated spatial-computing glasses, engineering progress, product-readiness limits, and the display-versus-camera AI-wearable choice.
 - [Trump rejects AI's "effective altruism" movement](sources/tech-20260918-mp-tech-pod-128-tech-20260918-mp-tech-pod-128.md) — Marketplace Tech episode linking contested AI-slowdown politics, Flock license-plate-reader misuse and security concerns, and Apple's device-origin photo authentication.
@@ -2517,6 +2518,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
 
 ## Entities
+- [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
+- [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
+- [Yong Lambert](entities/YongLambert.md) — Mastercard product executive discussing verifiable intent, KYA, recourse, and machine credentials.
+- [刘作虎 / Pete Lau](entities/PeteLau.md) — OPPO product executive framing phones as intent entry points and separating capability trust from risk trust.
+- [周靖人 / Jingren Zhou](entities/ZhouJingren.md) — Alibaba chief scientist emphasizing context, clarification, strong constraints, sandboxes, and harness execution.
 - [时代峰峻 / Shidai Fengjun](entities/ShidaiFengjun.md) — Chinese trainee-idol company whose Chongqing premises became the site and symbol of a gendered fan conflict.
 - [Snap Specs](entities/SnapSpecs.md) — Snap's integrated optical spatial-computing glasses, technically ambitious but not yet proven as an all-day mass-market product.
 - [Jared Isaacman](entities/JaredIsaacman.md) — Space-policy leader advocating a concentrated NASA portfolio, a lunar proving ground, and a public-private frontier capability boundary.
@@ -12738,6 +12744,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
 
 ## Concepts
+- [Verifiable Intent / 可验证意图](concepts/VerifiableIntent.md) — Durable semantic record of what a user authorized an agent to accomplish and under which constraints.
+- [Agent Trust Calibration / 智能体信任校准](concepts/AgentTrustCalibration.md) — Progressive delegation matched to demonstrated capability, bounded risk, traceability, and remedies.
+- [A2A Transaction Norms / 智能体间交易规范](concepts/A2ATransactionNorms.md) — Identity, authority, behavior, settlement, and recourse rules for machine-mediated commerce.
 - [Fragmented Video Event Reconstruction / 碎片影像事件重构](concepts/FragmentedVideoEventReconstruction.md) — Inferring public events from incomplete clips after provenance, chronology, and original posts become unavailable.
 - [Gendered Fandom Delegitimation / 性别化追星贬抑](concepts/GenderedFandomDelegitimation.md) — Asymmetry that treats women-dominated fandom as irrational while granting male antagonism more civic legitimacy.
 - [Shared Political Legitimacy Vocabulary / 共享政治正当性词汇](concepts/SharedPoliticalLegitimacyVocabulary.md) — Common patriotic and official-value language that opposing groups reuse to authorize cultural conflict.

@@ -1547,6 +1547,10 @@
     "title": "A24",
     "url": "/wiki/entities/a24/"
   },
+  "A2ATransactionNorms": {
+    "title": "A2A Transaction Norms / 智能体间交易规范",
+    "url": "/wiki/concepts/a2atransactionnorms/"
+  },
   "A7A5": {
     "title": "A7A5",
     "url": "/wiki/entities/a7a5/"
@@ -4054,6 +4058,10 @@
   "AgentTrajectoryDistillation": {
     "title": "Agent Trajectory Distillation",
     "url": "/wiki/concepts/agenttrajectorydistillation/"
+  },
+  "AgentTrustCalibration": {
+    "title": "Agent Trust Calibration / 智能体信任校准",
+    "url": "/wiki/concepts/agenttrustcalibration/"
   },
   "AgentWorkforceRedesign": {
     "title": "Agent Workforce Redesign",
@@ -27371,6 +27379,10 @@
     "title": "韩歆 / Han Xin (Eastern Han Situ)",
     "url": "/wiki/entities/hanxinsitueasternhan/"
   },
+  "HanXinyi": {
+    "title": "韩新毅 / Han Xinyi",
+    "url": "/wiki/entities/hanxinyi/"
+  },
   "HanXiongnuHeqinPolicy": {
     "title": "Han-Xiongnu Heqin Policy / 汉匈和亲政策",
     "url": "/wiki/concepts/hanxiongnuheqinpolicy/"
@@ -28946,6 +28958,10 @@
   "Hongguo": {
     "title": "红果",
     "url": "/wiki/entities/hongguo/"
+  },
+  "HongjunSiliconValley101": {
+    "title": "红君 / Hongjun (硅谷101)",
+    "url": "/wiki/entities/hongjunsiliconvalley101/"
   },
   "HongkongLand": {
     "title": "Hongkong Land / 香港置地",
@@ -47543,6 +47559,10 @@
     "title": "Pete Koomen",
     "url": "/wiki/entities/petekoomen/"
   },
+  "PeteLau": {
+    "title": "刘作虎 / Pete Lau",
+    "url": "/wiki/entities/petelau/"
+  },
   "PeteNitzsche": {
     "title": "Pete Nitzsche",
     "url": "/wiki/entities/petenitzsche/"
@@ -64263,6 +64283,10 @@
     "title": "Vera Kundera / 薇拉·昆德拉",
     "url": "/wiki/entities/verakundera/"
   },
+  "VerifiableIntent": {
+    "title": "Verifiable Intent / 可验证意图",
+    "url": "/wiki/concepts/verifiableintent/"
+  },
   "Verizon": {
     "title": "Verizon",
     "url": "/wiki/entities/verizon/"
@@ -69603,6 +69627,10 @@
     "title": "雍齿 / Yong Chi",
     "url": "/wiki/entities/yongchi/"
   },
+  "YongLambert": {
+    "title": "Yong Lambert",
+    "url": "/wiki/entities/yonglambert/"
+  },
   "YongchengQin": {
     "title": "雍城 / Yongcheng (Qin)",
     "url": "/wiki/entities/yongchengqin/"
@@ -71862,6 +71890,10 @@
   "ZhouJingLateHan": {
     "title": "周景 / Zhou Jing (late Han)",
     "url": "/wiki/entities/zhoujinglatehan/"
+  },
+  "ZhouJingren": {
+    "title": "周靖人 / Jingren Zhou",
+    "url": "/wiki/entities/zhoujingren/"
   },
   "ZhouJintao": {
     "title": "周金涛",
@@ -76594,6 +76626,10 @@
   "waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590": {
     "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
     "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+  },
+  "waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87": {
+    "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+    "url": "/wiki/sources/waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87/"
   },
   "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744": {
     "title": "Wake-up haul: an Ozempic moment for the brain",

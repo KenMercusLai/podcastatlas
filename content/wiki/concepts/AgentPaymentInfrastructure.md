@@ -7,8 +7,9 @@ sources:
   - keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311
   - ba044533d184-ba044533d184
   - 273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3
+  - waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-14
+last_updated: 2026-09-19
 ---
 
 # Agent Payment Infrastructure / 智能体支付基础设施
@@ -25,16 +26,18 @@ The enterprise-finance branch makes the infrastructure broader. Agent-callable f
 
 Payment rails remain plural. Card networks and fiat systems carry established consumer protection and dispute processes; stablecoins or machine-speed settlement may fit small or B2B transactions; platform-specific rails such as [[AntGroup|Alipay]] can matter in domestic ecosystems. The common requirement is that the payment layer must preserve intent, traceability, revocation, and accountability as agents become action intermediaries.
 
-The Ant source sharpens the domestic super-app version. [[Alipay]]'s AI payment thesis emphasizes delegated but controllable authorization: visible process, traceable result, limits, anti-fraud, refunds, and responsibility when an agent searches, decides, orders, pays, and follows through. That makes AI payment a continuation of Alipay's escrow-style trust history rather than only a new checkout protocol.
+The Ant sources sharpen the domestic super-app version. [[Alipay]]'s AI payment thesis emphasizes delegated but controllable authorization: visible process, traceable result, limits, anti-fraud, refunds, and responsibility when an agent searches, decides, orders, pays, and follows through. The roundtable extends this into a full trust chain: authenticate the user, establish agent identity and capability, preserve [[VerifiableIntent]], enforce strong constraints in a secure harness, trace execution, and provide recourse.
+
+Agent-to-agent commerce adds another boundary. A machine actor may need a permissioned credential rather than an ordinary consumer card or wallet account, while the organization behind it needs policy, working-capital, and liability rules. Whether settlement uses cards, fiat accounts, stablecoins, or a blockchain-based rail remains open; [[A2ATransactionNorms]] and accountable authority are more fundamental than any single substrate.
 
 ## Key Claims
-- Agent payment is a trust-and-accountability system, not only a checkout feature.
-- Spending authority should be represented as a scoped mandate with amount, category, duration, merchant, and reauthorization boundaries.
+- Agent payment is a trust-and-accountability system whose scoped mandate covers amount, category, duration, merchant, and reauthorization boundaries.
 - Consumer shopping and autonomous task-resource purchases need different user experience and liability rules.
-- Merchant and service adoption depends on [[AgentFacingInterfaces]] for catalog, order, data, payment, status, refund, and support operations.
+- Merchant and service adoption depends on authorized, abuse-resistant [[AgentFacingInterfaces]] for catalog, order, data, payment, status, refund, and support operations.
 - Business-finance use cases require stronger policy, accounting, reconciliation, and audit integration than ordinary consumer checkout.
-- Paid agent access to data or APIs needs authorization and anti-abuse controls so discovery does not become uncontrolled extraction.
 - Domestic super-app rails can turn existing payment trust, merchant relationships, and offline touchpoints into agent-payment infrastructure.
+- Trustworthy transactions need a semantic evidence layer that preserves user intent across agent interpretation, merchant action, payment, and disputes.
+- A2A commerce may need permissioned machine credentials and organizational authority rather than direct reuse of consumer accounts.
 
 ## Evidence
 - Mandate and one-time payment evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] describes [[Clink]] and a [[Visa]] demo that converts user intent, price limits, and category context into a checked payment capability.
@@ -45,6 +48,8 @@ The Ant source sharpens the domestic super-app version. [[Alipay]]'s AI payment 
 - Rail and ecosystem evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] discusses card networks, stablecoins, and merchant onboarding, while [[ba044533d184-ba044533d184]] names [[Stripe]], [[PayPal]], and [[AntGroup|Alipay]] as actors around agent-payment protocols.
 - Domestic-super-app evidence: [[273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3]] says Alipay's AI payment emphasizes controllable authorization, visible process, traceable results, and an ACP-style commercial trust protocol.
 - Offline-payment evidence: [[273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3]] links 碰一下 touchpoints and merchant agents to a possible offline base for agent-mediated payment and fulfillment.
+- Trust-chain evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] combines user authentication, KYA, agent capability assessment, verifiable intent, sandboxed execution, audit, anti-fraud, and recourse.
+- A2A evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] raises permissioned machine credentials, enterprise authority, working capital, and machine-speed settlement as requirements beyond consumer checkout.
 
 ## Counterevidence & Qualifications
 - The sources describe direction and early infrastructure patterns, not settled consumer adoption or standardized liability law.
@@ -53,12 +58,13 @@ The Ant source sharpens the domestic super-app version. [[Alipay]]'s AI payment 
 - Closed ecosystems may resist agent payment if it weakens traffic ownership, ads, ranking, or app-based conversion control.
 - Paid data access still needs licensing, rate limits, and abuse prevention; a successful payment does not make all downstream reuse legitimate.
 - Alipay's source-scoped position does not settle whether other Chinese platforms, merchants, regulators, or consumers will accept the same trust protocol.
+- The roundtable's adoption, timeline, KYA-standard, and blockchain claims are proposals or source-attributed forecasts, not proof of interoperable deployment.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` using the full prior source set before adding the new episode.
-- Expanded the concept from consumer checkout toward paid data, API, and protocolized service calls by agents.
-- Sharpened the distinction between public agent-readable discovery and protected paid access.
-- Added Alipay's controllable AI-payment and offline-touchpoint version of agent payment.
+- Added verifiable intent as the semantic evidence connecting authorization to outcome and dispute handling.
+- Added KYA and capability assessment to the identity layer.
+- Extended payment infrastructure from human-delegated checkout toward permissioned A2A credentials and organizational authority.
+- Made secure harness execution and credible recourse explicit parts of transaction trust.
 
 ## Related Concepts
 - [[AgenticCommerce]] - consumer shopping and booking workflow where agents may spend on behalf of users.
@@ -70,3 +76,6 @@ The Ant source sharpens the domestic super-app version. [[Alipay]]'s AI payment 
 - [[AIContentLicensing]] - monetization and permission context when agents retrieve or summarize content.
 - [[Alipay]] - domestic super-app rail extending payment trust into agent transactions.
 - [[AlipayTapNetwork]] - offline touchpoint network that may host merchant-side agent payment and fulfillment.
+- [[VerifiableIntent]] - durable semantic mandate used to test whether execution matched authorization.
+- [[AgentTrustCalibration]] - progressive confidence in capability, bounded risk, and remedies.
+- [[A2ATransactionNorms]] - inter-agent identity, authority, behavior, settlement, and recourse rules.

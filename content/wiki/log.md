@@ -20090,3 +20090,11 @@ Added source `yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-s
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建
+
+Added source `waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87`; created `HongjunSiliconValley101`, `HanXinyi`, `YongLambert`, `PeteLau`, `ZhouJingren`, `VerifiableIntent`, `AgentTrustCalibration`, and `A2ATransactionNorms`; updated `AgentPaymentInfrastructure`, `AgentSpendControls`, `AntGroup`, `Alipay`, `BundConference`, `index.md`, and `overview.md`. Core synthesis: agent transactions require authenticated principals and agents, bounded authorization, preserved intent, secure harness execution, traceability, capability assessment, dispute evidence, and credible recourse before delegated amounts and A2A commerce can scale. No settled contradiction found; adoption, growth, timing, KYA-standard, blockchain, and translated-remark claims remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

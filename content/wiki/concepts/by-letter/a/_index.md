@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7544
+wiki_total_pages: 7547
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "AHShare2025Barbell"
     title: "A/H Share 2025 Barbell"
     url: "/wiki/concepts/ahshare2025barbell/"
+  - key: "A2ATransactionNorms"
+    title: "A2A Transaction Norms / 智能体间交易规范"
+    url: "/wiki/concepts/a2atransactionnorms/"
   - key: "AbleistCurePressure"
     title: "Ableist Cure Pressure / 健全中心主义治愈压力"
     url: "/wiki/concepts/ableistcurepressure/"
@@ -410,6 +413,9 @@ wiki_pages:
   - key: "AgentTrajectoryDistillation"
     title: "Agent Trajectory Distillation"
     url: "/wiki/concepts/agenttrajectorydistillation/"
+  - key: "AgentTrustCalibration"
+    title: "Agent Trust Calibration / 智能体信任校准"
+    url: "/wiki/concepts/agenttrustcalibration/"
   - key: "AgentWorkforceRedesign"
     title: "Agent Workforce Redesign"
     url: "/wiki/concepts/agentworkforceredesign/"

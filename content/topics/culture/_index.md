@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2731
+topic_total_pages: 2732
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7019,6 +7019,9 @@ topic_entities:
   - key: "FenmoTeam"
     title: "粉墨 / Fenmo"
     url: "/wiki/entities/fenmoteam/"
+  - key: "HongjunSiliconValley101"
+    title: "红君 / Hongjun (硅谷101)"
+    url: "/wiki/entities/hongjunsiliconvalley101/"
   - key: "JiYun"
     title: "纪昀 / Ji Yun"
     url: "/wiki/entities/jiyun/"

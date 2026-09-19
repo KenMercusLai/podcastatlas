@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10215
+wiki_total_pages: 10220
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "PianHeXianbei"
     title: "偏和 / Pian He (Xianbei leader)"
     url: "/wiki/entities/pianhexianbei/"
+  - key: "PeteLau"
+    title: "刘作虎 / Pete Lau"
+    url: "/wiki/entities/petelau/"
   - key: "PrincipleTech"
     title: "原则科技"
     url: "/wiki/entities/principletech/"

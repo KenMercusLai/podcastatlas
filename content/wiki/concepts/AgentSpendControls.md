@@ -2,30 +2,54 @@
 title: "Agent Spend Controls / 智能体消费控制"
 type: concept
 tags: [agents, payments, governance, security]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]
-last_updated: 2026-08-07
+sources:
+  - keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311
+  - waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-19
 ---
 
 # Agent Spend Controls / 智能体消费控制
 
-Agent spend controls / 智能体消费控制 are the limits, mandates, audit trails, and confirmation rules that govern how an agent may spend money or budget while acting for a user. [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds the concept through [[PatrickWu]]'s [[Clink]] examples and [[GaoNing]]'s distinction between product-linked recharge and giving a personal agent broader task budget.
+## Definition
+Agent spend controls / 智能体消费控制 are the monetary limits, eligible uses, time windows, credentials, confirmations, audit evidence, and reauthorization rules that bound how an agent spends for a user or organization.
 
-The source treats spend controls as a practical extension of [[AgentPermissionBoundaries]]. Without them, a useful long-running agent has to stop every time it needs tokens, API access, paid data, or a service call. With overbroad access, it can burn budget, leak credentials, buy the wrong product, or leave responsibility ambiguous. The control problem is therefore to keep the agent moving while preserving user intent and later traceability.
+## Current Synthesis
+Spend controls translate general [[AgentPermissionBoundaries]] into payment authority. A useful agent needs enough budget autonomy to complete shopping, booking, token, API, data, or service tasks without asking at every step, but a stored card or broad wallet login makes scope and responsibility ambiguous.
 
-Controls can include spending ceilings, eligible merchant or service categories, product constraints, time windows, per-task budgets, one-time payment credentials, separate accounts, recharge limits, and explicit reauthorization when the situation changes. In [[AgentPaymentInfrastructure]], these controls become part of the payment transaction rather than only a UX preference.
+The current synthesis is a graduated mandate: specify an amount ceiling, product or service category, merchant constraints, time window, task purpose, substitution rules, and conditions requiring renewed consent. Pair that mandate with a one-time or otherwise scoped credential, agent identity, execution trace, and dispute evidence.
+
+Trust should determine breadth rather than disappear after one approval. Low-risk recurring tasks can receive standing limits, while high-value, regulated, identity-sensitive, or materially changed purchases require explicit confirmation. The user's willingness to raise the maximum delegated amount is evidence of [[AgentTrustCalibration]], not proof that all purchases should become autonomous.
 
 ## Key Claims
-- A useful agent needs enough budget autonomy to complete long tasks, but spending must remain bounded and attributable.
-- Small limits can make experimentation psychologically safer, as in the source's example of cautious one-dollar agent recharge.
-- Separate budgets, API keys, and accounts help identify whether unexpected spending came from theft, stale permissions, or runaway task execution.
-- Physical commerce needs stricter controls than many digital services because substitutions, delivery, address, refund, and merchant-quality issues are harder to standardize.
-- Repeated low-value purchases create an authorization-cadence problem: asking every time is too slow, but standing permission needs clear scope.
-- Spend controls are strongest when tied to [[AgentIdentityAndAuthentication]] and auditable payment records, not only to model prompts.
-- Fiat and stablecoin implementations need different control assumptions because reversibility, dispute handling, and custody differ.
+- Budget autonomy should be sufficient for task completion but narrower than the user's underlying payment account.
+- Amount, category, merchant, duration, purpose, and substitution constraints should travel with the payment mandate.
+- Repeated low-value purchases need standing permission with revocation and review, while high-risk purchases need renewed confirmation.
+- Separate accounts, one-time credentials, and audit records improve attribution when spending is wrong or compromised.
+- Spend limits work best when tied to authenticated principals, known agents, [[VerifiableIntent]], and enforceable execution controls.
+- Compensation and dispute handling affect how much users will rationally delegate.
 
-## Connections
-- [[AgentPaymentInfrastructure]] — broader payment layer where spend controls are implemented.
-- [[AgentPermissionBoundaries]] and [[AgentIdentityAndAuthentication]] — governance and attribution frame.
-- [[Clink]], [[PatrickWu]], [[GaoNing]], and [[Visa]] — source actors and demo context.
-- [[AgenticEconomy]], [[AISkills]], and [[AIInferenceCostStructure]] — reasons agents may need small autonomous purchases.
-- [[PaymentClearingNetwork]], [[Stablecoins]], [[VirtualAssetAMLRisk]], and [[EarlyFintechFraudControls]] — payment-risk context.
+## Evidence
+- Mandate evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] describes price, category, user-intent, merchant, and one-time-payment constraints for agent purchases.
+- Self-spend evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] distinguishes consumer shopping from small budgets for tokens, APIs, reports, images, and other task resources.
+- Strong-constraint evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] says an initial 100-yuan limit must not be displaced by later task content.
+- Delegation evidence: [[waitan-dahui-xianxia-yuanzhuo-gan-ba-qianbao-jiaogei-ai-ma-liaoliao-agent-jiaoyi-baofa-qianye-de-xinren-jijian-78ec2d74-0ad7-4c6f-9764-728eec0e6e87]] uses the maximum amount a user would delegate as a concrete test of authorization, safety, and recourse confidence.
+
+## Counterevidence & Qualifications
+- Monetary ceilings do not prevent wrong-product selection, biased recommendations, privacy leakage, or prohibited non-financial actions.
+- Confirmation on every purchase creates approval fatigue; standing permission creates stale-authority risk.
+- Fiat, card, wallet, and stablecoin systems differ in reversibility, custody, fraud controls, and legal recourse.
+- The sources provide design patterns rather than validated universal thresholds for safe delegation.
+
+## What Changed
+- Migrated the page to `synthesis-v1` from the complete prior source set.
+- Added stable strong constraints, progressive delegated amounts, and recourse as parts of spend control.
+- Linked monetary authority explicitly to verifiable intent and trust calibration.
+
+## Related Concepts
+- [[AgentPaymentInfrastructure]] - payment and dispute layer implementing spending mandates.
+- [[AgentPermissionBoundaries]] - broader authority model within which monetary limits sit.
+- [[AgentIdentityAndAuthentication]] - attribution of the principal and acting agent.
+- [[VerifiableIntent]] - semantic task and constraint record carried with payment authority.
+- [[AgentTrustCalibration]] - basis for increasing or narrowing delegated limits over time.
+- [[Stablecoins]] - settlement route with different reversibility and custody assumptions.
