@@ -41258,6 +41258,36 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/gamespiritorganization/"
     },
+    "GanNing": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
+          "key": "zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈 [lrIVPk7COL2l7K-S4dqZXXP2KQp1].md",
+          "key": "zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/ganning/"
+    },
     "GanYanshouWesternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -63618,6 +63648,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/lineageruledurability/"
     },
+    "LingTong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/lingtong/"
+    },
     "LinghuMaoWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -65201,6 +65247,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/liupingeasternhan/"
     },
+    "LiuQiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/liuqilatehan/"
+    },
     "LiuQiangDonghaiKing": {
       "episode_count": 6,
       "show_count": 1,
@@ -66646,9 +66708,9 @@
       "url": "/wiki/entities/liuyundongpingkingwesternhan/"
     },
     "LiuZhang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？ [lroaiHMPNRElmFcUGym9zx2H2dHQ].md",
@@ -66677,9 +66739,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/liuzhang/"
     },
     "LiuZhengHejianKing": {
@@ -69416,9 +69485,9 @@
       "url": "/wiki/entities/lyukuanglatehan/"
     },
     "LyuMeng": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管 [lq9hy25XONjZHJ1sFIsvauu3bwMI].md",
@@ -69426,9 +69495,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-19",
       "url": "/wiki/entities/lyumeng/"
     },
     "LyuMengzheng": {
@@ -84136,9 +84212,9 @@
       "url": "/wiki/concepts/postrestorationmeritthreat/"
     },
     "PostSuccessArrogance": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
@@ -84167,9 +84243,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-19",
       "url": "/wiki/concepts/postsuccessarrogance/"
     },
     "PostUsurpationLegitimacyConsolidation": {
@@ -115968,6 +116051,38 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/xiguangeasternhan/"
     },
+    "XiSuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/xisulatehan/"
+    },
+    "XiZaochi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/xizaochi/"
+    },
     "XiaFangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -123148,6 +123263,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangshuolatehan/"
     },
+    "ZhangSongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/zhangsonglatehan/"
+    },
     "ZhangSongXinPetitioner": {
       "episode_count": 1,
       "show_count": 1,
@@ -124250,6 +124381,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhaoyanlatehan/"
+    },
+    "ZhaoYun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！ [luKll8jB60NX2BRhWhSW7GfRD-Kt].md",
+          "key": "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
+        }
+      ],
+      "updated": "2026-09-19",
+      "url": "/wiki/entities/zhaoyun/"
     },
     "ZhaogeCountyLateHan": {
       "episode_count": 1,

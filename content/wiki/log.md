@@ -19998,3 +19998,15 @@ Added source `zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si
 ## [2026-09-19] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-19] ingest | 《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！
+
+Added source `zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt`; created `XiZaochi`, `ZhangSongLateHan`, `XiSuLateHan`, `LiuQiLateHan`, `ZhaoYun`, and `LingTong`; updated `LyuMeng`, `GanNing`, `LiuZhang`, and `PostSuccessArrogance`; and updated `index.md` and `overview.md`. Core synthesis: the post-Red-Cliffs order rewards actors who convert battlefield change into trusted incorporation, protected rear areas, territorial legitimacy, administration, and revenue, while Cao Cao's cold reception of Zhang Song compounds military reversal by closing a possible Yizhou alignment channel. No settled contradiction found; Xi Zaochi's pride-caused-tripartition judgment is preserved but qualified by military, geographic, fiscal, and multi-actor causes, and the siege scene, horse count, Zhang Song characterization, and Huang Ming figures remain source-scoped.
+
+## [2026-09-19] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-19] lint | Wiki content-quality check
+
+Ran lint after health and identity validation passed across 20,223 wiki pages. Deterministic checks found one orphan (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-09-02 with 16,930 nodes versus 20,223 current pages, so their finding of one fragile bridge and no hub stubs or isolated communities is advisory until the graph is rebuilt. Semantic lint via LiteLLM failed because `LLM_MODEL` resolved to the provider-unqualified default `claude-3-5-sonnet-latest`; a bounded in-session review of recent contradiction sections and the flagged pages found source-qualified tensions but no new hard contradiction. Report returned in-session; `wiki/lint-report.md` was not saved.

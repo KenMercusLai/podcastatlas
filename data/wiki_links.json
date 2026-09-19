@@ -37095,6 +37095,10 @@
     "title": "Lineage Rules and Elite Durability / 家规型士族延续",
     "url": "/wiki/concepts/lineageruledurability/"
   },
+  "LingTong": {
+    "title": "凌统 / Ling Tong",
+    "url": "/wiki/entities/lingtong/"
+  },
   "LingZhengLateHan": {
     "title": "伶征 / Ling Zheng (late Han)",
     "url": "/wiki/entities/lingzhenglatehan/"
@@ -37578,6 +37582,10 @@
   "LiuPingEasternHan": {
     "title": "刘平 / Liu Ping (Eastern Han official)",
     "url": "/wiki/entities/liupingeasternhan/"
+  },
+  "LiuQiLateHan": {
+    "title": "刘琦 / Liu Qi (Late Han)",
+    "url": "/wiki/entities/liuqilatehan/"
   },
   "LiuQiangDonghaiKing": {
     "title": "东海恭王刘强 / Liu Qiang, Donghai King",
@@ -67387,6 +67395,14 @@
     "title": "西宋风云",
     "url": "/wiki/entities/xisongfengyun/"
   },
+  "XiSuLateHan": {
+    "title": "袭肃 / Xi Su (Late Han)",
+    "url": "/wiki/entities/xisulatehan/"
+  },
+  "XiZaochi": {
+    "title": "习凿齿 / Xi Zaochi",
+    "url": "/wiki/entities/xizaochi/"
+  },
   "XiaFangLateHan": {
     "title": "夏方 / Xia Fang (late Han)",
     "url": "/wiki/entities/xiafanglatehan/"
@@ -70651,6 +70667,10 @@
     "title": "张硕 / Zhang Shuo (late Han)",
     "url": "/wiki/entities/zhangshuolatehan/"
   },
+  "ZhangSongLateHan": {
+    "title": "张松 / Zhang Song (Late Han)",
+    "url": "/wiki/entities/zhangsonglatehan/"
+  },
   "ZhangSongXinPetitioner": {
     "title": "张竦 / Zhang Song, Xin petitioner",
     "url": "/wiki/entities/zhangsongxinpetitioner/"
@@ -71226,6 +71246,10 @@
   "ZhaoYuanren": {
     "title": "赵元任",
     "url": "/wiki/entities/zhaoyuanren/"
+  },
+  "ZhaoYun": {
+    "title": "赵云 / Zhao Yun",
+    "url": "/wiki/entities/zhaoyun/"
   },
   "ZhaoZhang": {
     "title": "赵章 / Zhao Zhang",
@@ -76950,6 +76974,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt": {
+    "title": "《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt/"
   },
   "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb": {
     "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",

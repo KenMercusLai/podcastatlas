@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1109丨习凿齿怒批曹操：多年基业毁于一旦！](sources/zizhi-tongjian-hanji-1109-xizaochi-nu-pi-caocao-duonian-jiye-hui-yu-yidan-lukll8jb60nx2brhwhsw7gfrd-kt.md) — 芮淇讲透资治通鉴 episode on Wu's post-Red-Cliffs relief and surrender incorporation, Liu Bei's southern Jingzhou fiscal base, Zhang Song's Yizhou alliance pivot, and Xi Zaochi's qualified critique of Cao Cao's success-induced arrogance.
 - [《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？](sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb.md) — 芮淇讲透资治通鉴 episode on Tian Chou's Lulong Road contribution, fourfold refusal of Cao Cao's enfeoffment, Xiahou Dun's failed persuasion, and the yilang compromise.
 - [Bill Gurley: Searching for Feynman](sources/all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628.md) — All-In presentation comparing catastrophic-failure investigations with the unresolved origin of COVID-19 through CAPA, independent inquiry, conflicts of interest, scientific politicization, and explicit uncertainty between spillover and laboratory-accident hypotheses.
 - [Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media](sources/all-in-with-chamath-jason-sacks-friedberg-nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media-42945328.md) — All-In interview on Nick Shirley's audience-funded fraud investigations, California high-speed rail cost and delivery claims, AB 2624, platform distribution, security risk, and the distinction between criminal fraud and legally structured waste.
@@ -2504,6 +2505,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [习凿齿 / Xi Zaochi](entities/XiZaochi.md) — Eastern Jin historian whose critique frames Cao Cao's post-Red-Cliffs arrogance as an amplifier of strategic and personnel loss.
+- [张松 / Zhang Song (Late Han)](entities/ZhangSongLateHan.md) — Liu Zhang emissary whose cold reception by Cao Cao precedes Yizhou's pivot toward Liu Bei.
+- [袭肃 / Xi Su (Late Han)](entities/XiSuLateHan.md) — Surrendering commander allowed to retain his troops after Lyu Meng argues for trust-based incorporation.
+- [刘琦 / Liu Qi (Late Han)](entities/LiuQiLateHan.md) — Liu Biao heir whose Jingzhou-inspector title gives Liu Bei's southern expansion a legitimacy channel.
+- [赵云 / Zhao Yun](entities/ZhaoYun.md) — Liu Bei officer appointed in Guiyang during post-Red-Cliffs territorial consolidation.
+- [凌统 / Ling Tong](entities/LingTong.md) — Wu officer trusted to hold the rear while Zhou Yu and Lyu Meng relieve Gan Ning.
 - [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Difficult northern approach proposed by Tian Chou for Cao Cao's surprise movement against Wuhuan.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
 - [Kiyoshi Kurokawa](entities/KiyoshiKurokawa.md) — Fukushima commission leader used as a model for conflict-free membership, public-safety focus, authority, and transparent findings.
@@ -5156,7 +5163,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郭大 / Guo Da (late Han)](entities/GuoDaLateHan.md) — Baibo leader named in Hanji 939's Yellow Turban remnant resurgence.
 - [刘延 / Liu Yan (Dong Commandery)](entities/LiuYanDongCommandery.md) — Dong Commandery administrator attacked by Yan Liang at White Horse and rescued by Cao Cao before Guandu.
 - [刘焉 / Liu Yan (late Han)](entities/LiuYanLateHan.md) — Yi Province powerholder whose failed Guanzhong intervention and death set up Liu Zhang's succession.
-- [刘璋 / Liu Zhang](entities/LiuZhang.md) — Liu Yan's successor in Yi Province, framed by inherited autonomy, Zhang Lu's break, Dongzhou-local resentment, Pang Xi suspicion, and Cheng Ji's rewarded loyalty signal.
+- [刘璋 / Liu Zhang](entities/LiuZhang.md) — Yi Province successor whose inherited fragmentation now extends into Zhang Song's post-Cao alliance pivot toward Liu Bei.
 - [益州 / Yizhou (Late Han)](entities/YizhouLateHan.md) — Late-Han province where Liu Yan's Dongzhou troops and local elites create an inherited cleavage for Liu Zhang.
 - [庞羲 / Pang Xi (late Han)](entities/PangXiLateHan.md) — Liu Yan associate and Ba-region defender whose private Cong recruitment, Baxi force, local ties, and Liu Xun marriage link make him useful and suspect under Liu Zhang.
 - [程畿 / Cheng Ji (late Han)](entities/ChengJiLateHan.md) — Yi Province official who refuses Pang Xi's self-protective mobilization and becomes the loyal-duty case in Hanji 1055.
@@ -5169,7 +5176,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
 - [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
 - [孙权 / Sun Quan](entities/SunQuan.md) — Sun Jian and Lady Wu's son whose profile moves from protected young successor into autonomy-preserving, talent-aware ruler, internal threat suppressor, and Jiangdong pacifier.
-- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Sun Quan subordinate whose early profile comes from inspected troop discipline and promotion after Sun Quan reviews inherited commanders.
+- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Wu commander whose disciplined troops, protection of Xi Su's command, and Gan Ning relief plan connect personnel judgment with operations.
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
@@ -5210,7 +5217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Veteran rider named with Han Dang in Sun Ce's Shentingling retinue.
 - [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose correct counsel spans emperor-welcome, pre-Guandu recovery, White Horse/Yanjin warnings, and a captured-loyalist ending after Wuchao.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
-- [甘宁 / Gan Ning](entities/GanNing.md) — Liu Biao-side military talent invoked by Hanji 993 as a comparator for distrusted or underused ability.
+- [甘宁 / Gan Ning](entities/GanNing.md) — Yizhou talent-loss case who later appears as a calm Eastern Wu commander holding under siege until relief arrives.
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong adviser entrusted by Sun Ce, made a public stabilizer for Sun Quan, and later shown as a senior critic of Lu Su.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
@@ -14585,7 +14592,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Command Trust Collapse / 胁迫式军令信任崩塌](concepts/CoercedCommandTrustCollapse.md) — Hanji 666 pattern where hostage pressure, visible under-reward, oaths, and regime collapse fail to produce reliable military loyalty.
 - [Terminal Mandate Self-Deception / 末路天命自我催眠](concepts/TerminalMandateSelfDeception.md) — Collapse-stage legitimacy failure where a defeated ruler clings to ritual, divination, and Heaven's mandate after practical order has failed.
 - [Public Corpse Humiliation / 公开尸体羞辱](concepts/PublicCorpseHumiliation.md) — After-death violence and public spectacle used to intimidate survivors, insult enemies, or mark reversal, now including Wang Mang's rebel corpse piles and later head display.
-- [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Hanji 964-965 pattern where victory, office, status, or merit makes leaders less able to hear advice, preserve proportion, or protect relationships.
+- [Post-Success Arrogance / 得势后的骄傲](concepts/PostSuccessArrogance.md) — Pattern where advantage distorts feedback, material judgment, relationships, and talent or alliance channels without replacing structural causes.
 - [Resource-Asymmetry Attrition / 资源不对称消耗战](concepts/ResourceAsymmetryAttrition.md) — Strategy pattern linking Bao Xin's hungry-raider exhaustion logic with Tian Feng and Ju Shou's pre-Guandu plans to turn Yuan Shao's larger base into time pressure.
 - [Strategic Patron Exit Judgment / 主公前途与安全退出判断](concepts/StrategicPatronExitJudgment.md) — Pattern where a dependent actor leaves a still-powerful patron because the patron's judgment, personnel treatment, and future safety look worse than a controlled exit.
 - [Fixed-Camp Siege Engineering / 营垒攻防工程](concepts/FixedCampSiegeEngineering.md) — Pattern where opposing field camps harden into towers, counter-artillery, tunnels, trenches, and supply pressure.

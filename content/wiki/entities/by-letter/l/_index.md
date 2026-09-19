@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10193
+wiki_total_pages: 10199
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "LiangzhouWarlordClique"
     title: "凉州系军阀 / Liangzhou Warlord Clique"
     url: "/wiki/entities/liangzhouwarlordclique/"
+  - key: "LingTong"
+    title: "凌统 / Ling Tong"
+    url: "/wiki/entities/lingtong/"
   - key: "LiuDong"
     title: "刘东"
     url: "/wiki/entities/liudong/"
@@ -1133,6 +1136,9 @@ wiki_pages:
   - key: "LiuMengLateHan"
     title: "刘猛 / Liu Meng (late Han)"
     url: "/wiki/entities/liumenglatehan/"
+  - key: "LiuQiLateHan"
+    title: "刘琦 / Liu Qi (Late Han)"
+    url: "/wiki/entities/liuqilatehan/"
   - key: "LiuYuAstrologerLateHan"
     title: "刘瑜 / Liu Yu (late Han astrologer)"
     url: "/wiki/entities/liuyuastrologerlatehan/"

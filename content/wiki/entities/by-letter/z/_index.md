@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10193
+wiki_total_pages: 10199
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "ZhangYangLateHan"
     title: "张杨 / Zhang Yang (late Han)"
     url: "/wiki/entities/zhangyanglatehan/"
+  - key: "ZhangSongLateHan"
+    title: "张松 / Zhang Song (Late Han)"
+    url: "/wiki/entities/zhangsonglatehan/"
   - key: "ZhangLiangYellowTurban"
     title: "张梁 / Zhang Liang (Yellow Turban)"
     url: "/wiki/entities/zhangliangyellowturban/"
@@ -1313,6 +1316,9 @@ wiki_pages:
   - key: "ZhaoLina"
     title: "赵丽娜 / Zhao Lina"
     url: "/wiki/entities/zhaolina/"
+  - key: "ZhaoYun"
+    title: "赵云 / Zhao Yun"
+    url: "/wiki/entities/zhaoyun/"
   - key: "ZhaoBolu"
     title: "赵伯鲁 / Zhao Bolu"
     url: "/wiki/entities/zhaobolu/"

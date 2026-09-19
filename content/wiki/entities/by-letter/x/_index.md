@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 10193
+wiki_total_pages: 10199
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "XiayangChuHan"
     title: "下阳 / Xiayang (Chu-Han)"
     url: "/wiki/entities/xiayangchuhan/"
+  - key: "XiZaochi"
+    title: "习凿齿 / Xi Zaochi"
+    url: "/wiki/entities/xizaochi/"
   - key: "XiuliChanyu"
     title: "休利 / Xiuli Chanyu"
     url: "/wiki/entities/xiulichanyu/"
@@ -584,6 +587,9 @@ wiki_pages:
   - key: "Xiren"
     title: "袭人 / Xiren"
     url: "/wiki/entities/xiren/"
+  - key: "XiSuLateHan"
+    title: "袭肃 / Xi Su (Late Han)"
+    url: "/wiki/entities/xisulatehan/"
   - key: "XiangchengQin"
     title: "襄城 / Xiangcheng (Qin)"
     url: "/wiki/entities/xiangchengqin/"

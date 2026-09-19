@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1883
+topic_total_pages: 1884
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2381,6 +2381,9 @@ topic_entities:
   - key: "LeJian"
     title: "乐间 / Le Jian"
     url: "/wiki/entities/lejian/"
+  - key: "XiZaochi"
+    title: "习凿齿 / Xi Zaochi"
+    url: "/wiki/entities/xizaochi/"
   - key: "TwentyFourHistories"
     title: "二十四史 / Twenty-Four Histories"
     url: "/wiki/entities/twentyfourhistories/"
