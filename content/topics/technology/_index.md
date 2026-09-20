@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3081
+topic_total_pages: 3082
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8781,6 +8781,9 @@ topic_sources:
   - key: "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final"
     title: "Ron Conway on National Semiconductor, Altos, and Early Angel Investing"
     url: "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617"
+    title: "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230"
     title: "Senators John Fetterman and Dave McCormick: Bipartisanship, Money in DC, Datacenters, Graham Platner"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-senators-john-fetterman-and-dave-mccormick-bipartisanship-money-in-dc-datacenters-graham-platner-41603230/"

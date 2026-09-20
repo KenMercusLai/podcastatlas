@@ -2982,6 +2982,36 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/aipayrolltaxneutrality/"
     },
+    "AIPlatformEcosystemDiffusion": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/aiplatformecosystemdiffusion/"
+    },
     "AIPrivateMarketConcentration": {
       "episode_count": 1,
       "show_count": 1,
@@ -4539,9 +4569,9 @@
       "url": "/wiki/concepts/advancenewstradingexperiment/"
     },
     "AdvancedAIDevelopmentPause": {
-      "episode_count": 4,
-      "show_count": 2,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
@@ -4570,6 +4600,13 @@
           "show": "Economist Podcasts",
           "title": "The End of the World Is AI? An Existential Threat",
           "url": "/wiki/sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
         }
       ],
       "updated": "2026-09-20",
@@ -5004,9 +5041,9 @@
       "url": "/wiki/concepts/agententrypoint/"
     },
     "AgentEnvironmentIsolation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "详解Kimi K3：强到冲击Anthropic估值的模型什么样？ (1) [177-1].md",
@@ -5021,9 +5058,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/agentenvironmentisolation/"
     },
     "AgentPaymentInfrastructure": {
@@ -16111,6 +16155,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/caozonglatehan/"
+    },
+    "CapabilityOverhang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09 [073d7ee7-7bac-4958-b45a-083cc2f866e6].md",
+          "key": "google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6",
+          "show": "What's Next｜科技早知道",
+          "title": "Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09",
+          "url": "/wiki/sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/capabilityoverhang/"
     },
     "CapacityBackedDiplomaticHierarchy": {
       "episode_count": 2,
@@ -77745,6 +77812,176 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/microntechnology/"
     },
+    "Microsoft": {
+      "episode_count": 23,
+      "show_count": 12,
+      "source_note_count": 23,
+      "sources": [
+        {
+          "episode_file": "tech_20260820_TECH_pod_128 [tech_20260820_TECH_pod_128].md",
+          "key": "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why the Trump administration plans to boost funding for subsea cables",
+          "url": "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "AA65A060D65530808855564AD78269~8584434_2026-08-10-210034-8787-0-0-10.128 [AA65A060D65530808855564AD78269~8584434_2026-08-10-210034-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83862c].md",
+          "key": "ep-11-growing-technology-footprints-in-insurance-sector",
+          "show": "Data Science With Sam",
+          "title": "EP 11: Growing Technology Footprints in Insurance Sector",
+          "url": "/wiki/sources/ep-11-growing-technology-footprints-in-insurance-sector/"
+        },
+        {
+          "episode_file": "tech_20260804_0803_MP_TECH_pod_128 [tech_20260804_0803_MP_TECH_pod_128].md",
+          "key": "tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "China's soft power play in the global AI arms race",
+          "url": "/wiki/sources/tech-20260804-0803-mp-tech-pod-128-tech-20260804-0803-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
+          "key": "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta and Microsoft report different AI earnings",
+          "url": "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_c2fd254b4766f56729e42b13659ee5ab_33371321 [default.mp3_ywr3ahjkcgo_c2fd254b4766f56729e42b13659ee5ab_33371321].md",
+          "key": "betty-boop-excel-olympics-penny-isms-our-2026-valentines",
+          "show": "Planet Money",
+          "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",
+          "url": "/wiki/sources/betty-boop-excel-olympics-penny-isms-our-2026-valentines/"
+        },
+        {
+          "episode_file": "tech_20260713_TECH_pod_128 [tech_20260713_TECH_pod_128].md",
+          "key": "tech-20260713-tech-pod-128-tech-20260713-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The high cost of vacuuming carbon from the sky",
+          "url": "/wiki/sources/tech-20260713-tech-pod-128-tech-20260713-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260113_0113_MP_TECH_pod_128 [tech_20260113_0113_MP_TECH_pod_128].md",
+          "key": "tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI is eating up the world's computing memory",
+          "url": "/wiki/sources/tech-20260113-0113-mp-tech-pod-128-tech-20260113-0113-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S5-DavidKirtley-v2-Audio [TSR-S5-DavidKirtley-v2-Audio].md",
+          "key": "tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio",
+          "show": "The Social Radars",
+          "title": "David Kirtley, Founder & CEO of Helion Energy",
+          "url": "/wiki/sources/tsr-s5-davidkirtley-v2-audio-tsr-s5-davidkirtley-v2-audio/"
+        },
+        {
+          "episode_file": "TSR-S4-DrewHouston-v5 [TSR-S4-DrewHouston-v5].md",
+          "key": "tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5",
+          "show": "The Social Radars",
+          "title": "Drew Houston on Dropbox: Origin, Survival, and Reinvention",
+          "url": "/wiki/sources/tsr-s4-drewhouston-v5-tsr-s4-drewhouston-v5/"
+        },
+        {
+          "episode_file": "TSR-S4-SamAltman-v4 [TSR-S4-SamAltman-v4].md",
+          "key": "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4",
+          "show": "The Social Radars",
+          "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
+          "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+        },
+        {
+          "episode_file": "TSR-S3-YinWu-v2 [TSR-S3-YinWu-v2].md",
+          "key": "tsr-s3-yinwu-v2-tsr-s3-yinwu-v2",
+          "show": "The Social Radars",
+          "title": "Yin Wu on Pulley, Equity, and Founder Resilience",
+          "url": "/wiki/sources/tsr-s3-yinwu-v2-tsr-s3-yinwu-v2/"
+        },
+        {
+          "episode_file": "TSR-S3-RonConwayEp1-v4Final [TSR-S3-RonConwayEp1-v4Final].md",
+          "key": "tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final",
+          "show": "The Social Radars",
+          "title": "Ron Conway on National Semiconductor, Altos, and Early Angel Investing",
+          "url": "/wiki/sources/tsr-s3-ronconwayep1-v4final-tsr-s3-ronconwayep1-v4final/"
+        },
+        {
+          "episode_file": "SocialRadarsPod-GarryTan-Final [SocialRadarsPod-GarryTan-Final].md",
+          "key": "socialradarspod-garrytan-final",
+          "show": "The Social Radars",
+          "title": "Garry Tan on Returning to Y Combinator",
+          "url": "/wiki/sources/socialradarspod-garrytan-final/"
+        },
+        {
+          "episode_file": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率 [lgZ718uN4sJVgXqbydFIKyXZ0hcJ].md",
+          "key": "ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj",
+          "show": "一劳永逸",
+          "title": "EP39 风满楼下集：全球衰退慢慢逼近，严防死守步步为营！漫聊下半年美股、美债、汇率",
+          "url": "/wiki/sources/ep39-feng-man-lou-xiaji-quanqiu-shuaitui-manman-bijin-yanfang-sishou-bubu-weiying-manliao-xiabannian-meigu-meizhai-huilv-lgz718un4sjvgxqbydfikyxz0hcj/"
+        },
+        {
+          "episode_file": "No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 ｜ 中国互联网故事23 [998056376].md",
+          "key": "no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23",
+          "url": "/wiki/sources/no-208-zhongguo-shouji-jianghu-shang-motuoluola-nuojiya-he-ailixin-de-zhushen-huanghun-zhongguo-hulianwang-gushi-23-998056376/"
+        },
+        {
+          "episode_file": "Vol. 167 Token 如流水，Agent 似朝阳 (1) [6653-1].md",
+          "key": "vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1",
+          "show": "枫言枫语",
+          "title": "Vol. 167 Token 如流水，Agent 似朝阳",
+          "url": "/wiki/sources/vol-167-token-ru-liushui-agent-si-chaoyang-1-6653-1/"
+        },
+        {
+          "episode_file": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people [limyZCH9lA0bBwE8y9GEOfgQARGL].md",
+          "key": "e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl",
+          "show": "面基",
+          "title": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people",
+          "url": "/wiki/sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl/"
+        },
+        {
+          "episode_file": "Stock options： how to hedge an AI bubble [698efe7e7301331f1f674bd5].md",
+          "key": "stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5",
+          "show": "Economist Podcasts",
+          "title": "Stock options: how to hedge an AI bubble",
+          "url": "/wiki/sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5/"
+        },
+        {
+          "episode_file": "E42 孟岩对话韦青：沉默的主角 [lip25o2Kub9DkNPjHfgC4lz_76W0].md",
+          "key": "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0",
+          "show": "无人知晓",
+          "title": "E42 孟岩对话韦青：沉默的主角",
+          "url": "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/microsoft/"
+    },
     "MidMarketDataTalentGap": {
       "episode_count": 1,
       "show_count": 1,
@@ -78874,6 +79111,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/modeldistillation/"
+    },
+    "ModelFungibility": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/modelfungibility/"
     },
     "ModelHubAcquisitionRisk": {
       "episode_count": 1,
@@ -99024,6 +99284,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/saturnbird/"
+    },
+    "SatyaNadella": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Microsoft CEO Satya Nadella on AI’s Business Revolution： What Happens to SaaS, OpenAI, and Microsoft？ ｜ LIVE from Davos [39818140].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI [42912617].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/satyanadella/"
     },
     "SaudiArabia": {
       "episode_count": 5,

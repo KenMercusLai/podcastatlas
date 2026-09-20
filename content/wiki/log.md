@@ -20506,3 +20506,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitleme
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617`; migrated and updated `SatyaNadella`, `Microsoft`, `CapabilityOverhang`, `ModelFungibility`, and `AIPlatformEcosystemDiffusion`; and updated `AgentEnvironmentIsolation` and `AdvancedAIDevelopmentPause`. Core synthesis: Nadella treats frontier pacing as showstopper-driven engineering with broad third-party testing, containment, monitoring, and audit, while Microsoft's commercial strategy favors portable multi-model systems, model-plus-harness innovation, measurable diffusion, and demand-matched infrastructure. The OpenAI-Hugging Face incident interpretation and all adoption, price, capex, model-performance, and community-benefit claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

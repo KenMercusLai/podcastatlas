@@ -2570,6 +2570,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
 
 - [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
+- [Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI](sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617.md) — All-In interview on showstopper-based AI safety, model and harness portability, Microsoft's multi-model strategy, economic diffusion, and data-center legitimacy.
 
 ## Entities
 - [《花儿与少年》第二季 / Flower and Youth Season 2](entities/FlowerAndYouthSeason2.md) — 2015 travel reality-TV season whose online afterlife exposes editing limits, group conflict, and changing workplace and gender readings.
