@@ -20670,3 +20670,11 @@ Added source `565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt12237
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊
+
+Added source `vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy`; created `DaLunDingHypertensionGuest`, `XiaoLeiHypertensionGuest`, `HypertensionLongTermManagement`, `HomeBloodPressureMeasurement`, `AntihypertensiveMedicationAdherence`, and `HypertensionTargetOrganDamage`; and updated `Atang`, `ZheBingShuoLaiHuaChang`, overview, and index. Core synthesis: asymptomatic young-adult hypertension needs confirmed control, reliable home technique, continuous clinician-guided treatment, follow-up, feasible lifestyle support, and attention to cumulative multi-organ risk. No settled contradiction found; the guest-name spelling discrepancy, clinical thresholds, drug effects, missed-dose handling, device technique, complication mechanisms, and individual targets remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

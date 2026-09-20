@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10345
+wiki_total_pages: 10347
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "DaYiCultureLimited"
     title: "大一（文化有限）"
     url: "/wiki/entities/dayiculturelimited/"
+  - key: "DaLunDingHypertensionGuest"
+    title: "大伦丁老师 / 大仑丁 (hypertension guest)"
+    url: "/wiki/entities/dalundinghypertensionguest/"
   - key: "DavidWeng"
     title: "大卫翁 / David Weng"
     url: "/wiki/entities/davidweng/"

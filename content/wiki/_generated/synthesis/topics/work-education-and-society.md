@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-21
-as_of_overview_commit: dd0a74fe87d86c35ff3f17050426615cfabeeeed
-input_digest: 52d608b921d7f645b5598cacb82b3e9c7a87a202643b9de64c7a1e2759defd4a
+as_of_overview_commit: b829c0e5315b98d9dba6506850fea9ae9c150794
+input_digest: 26feb5e3b523d417bd94c55e2f6e92ab51e699b1b752b52f191c34dccc46dab0
 ---
 
 # Work, Education, and Society
@@ -942,3 +942,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - The source offers public clinical framing, not a workplace accommodation rule, diagnostic instrument, or individualized medical recommendation.
 - EEG biomarkers and altered-state treatment mechanisms remain emerging or source-scoped.
+
+### Hypertension Control Needs Routines Monitoring And Care Boundaries
+
+[[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy|VOL.162]] adds a work-and-society health boundary through [[HypertensionLongTermManagement]]: normalized job stress and irregular schedules can obscure risk, while [[HomeBloodPressureMeasurement]], [[AntihypertensiveMedicationAdherence]], clinical follow-up, and [[HypertensionTargetOrganDamage]] make control a sustained routine rather than a symptom or one-prescription judgment.
+
+**Evidence:** [[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy]], [[HypertensionLongTermManagement]], [[HomeBloodPressureMeasurement]], [[AntihypertensiveMedicationAdherence]], [[HypertensionTargetOrganDamage]]
+
+**Qualifications:**
+
+- The episode is public health education, not individualized hypertension, medication, or device advice.
+- Blood-pressure thresholds, treatment targets, medication changes, device selection, and complication assessment require clinical context and follow-up.
+- The patient case is self-reported, and the medical educator's name appears with variant characters in the source title and body.

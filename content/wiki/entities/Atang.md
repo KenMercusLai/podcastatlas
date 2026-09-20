@@ -19,6 +19,7 @@ sources:
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
   - vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn
   - vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc
+  - vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -26,7 +27,7 @@ knowledge_schema: synthesis-v1
 # 阿汤 / A Tang
 
 ## Overview
-阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, lifestyle health, tobacco and vaping risk, smoking cessation, pediatric myopia control, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
+阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, lifestyle health, hypertension management, tobacco and vaping risk, smoking cessation, pediatric myopia control, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
 
 ## Current Profile
 Across the current source set, 阿汤's role is to turn expert knowledge into concrete listener-facing questions. In clinical and health-literacy episodes, he asks how ordinary patients should understand uncertain first visits, imaging reports, second opinions, surgery thresholds, speech-language development, adult aphasia, dysarthria, weight-loss interventions, sugar claims, supplement claims, functional-food categories, headphone habits, tinnitus, sudden hearing symptoms, online neuroscience labels, mosquito repellent claims, insect-bite aftercare, exercise injury prevention, exercise-as-medical-aesthetics claims, first-aid decisions, and clinical music therapy without converting public discussion into self-treatment.
@@ -51,6 +52,8 @@ VOL.164 adds a tobacco-control branch. 阿汤 turns electronic-cigarette flavors
 
 VOL.163 adds a pediatric ophthalmology branch. 阿汤 starts from the common frustration that prescriptions keep increasing after a child receives glasses, then asks the source-scoped guest 毛毛 to separate cure claims from [[PediatricMyopiaControl|progression control]], basic near-work and outdoor habits from product choice, [[OrthokeratologyMyopiaControl|orthokeratology]] from permanent correction, and [[CycloplegicRefraction|cycloplegic refraction]] from a casual “dilation” label.
 
+VOL.162 adds a hypertension-management branch. 阿汤 starts from [[XiaoLeiHypertensionGuest|小磊]]'s asymptomatic diagnosis, weekend dosing uncertainty, inconsistent measurement, takeout diet, and belief that he does not feel stressed, then asks [[DaLunDingHypertensionGuest|大伦丁老师]] to connect normalized work tension, [[HomeBloodPressureMeasurement|measurement technique]], [[AntihypertensiveMedicationAdherence|medication continuity]], follow-up, lifestyle support, and [[HypertensionTargetOrganDamage|multi-organ risk]].
+
 The same hosting pattern extends into mental-health and workplace pressure. In the workplace-bullying episode, he uses audience extensions of [[TrueEducationKDrama|《铁拳教育》/《真教育》]] into "铁拳职场" to ask how adults should understand PUA, suppression, humiliation, hidden exclusion, and self-doubt at work. His contribution remains framing: he surfaces the everyday fear, prompts specialist distinctions from [[NanJiHe|南基贺]], and turns the dramatic "iron fist" into nonviolent [[PsychologicalBoundaryProtection|psychological boundary protection]].
 
 ## Key Characteristics
@@ -73,16 +76,17 @@ The same hosting pattern extends into mental-health and workplace pressure. In t
 - First-aid and emergency framing: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] has him turn World First Aid Day into questions about chest-pain escalation, CPR/AED thresholds, AED safety fears, 120 information, seizures, Heimlich-style choking response, self-medication, sports injury, wounds, burns, and simple emergency-kit preparation.
 - Tobacco-risk and cessation framing: [[vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn]] has him move from harmless-vaping assumptions and public exposure into youth prevention, quit dates, cessation clinics, nicotine-replacement boundaries, and relapse recovery.
 - Myopia-control framing: [[vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc|VOL.163]] has him move from increasing prescriptions, screen use, and parent anxiety into outdoor time, near-work breaks, axial length, orthokeratology, defocus spectacles, atropine, and accurate first refraction.
+- Hypertension-management framing: [[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy|VOL.162]] has him turn an asymptomatic younger patient's discovery, dosing gaps, monitoring uncertainty, bedtime project rumination, and food context into questions about confirmed control, stable treatment, home technique, follow-up, lifestyle change, and organ risk.
 - Workplace-pressure framing: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] has him connect the drama hook to workplace PUA, bullying, humiliation, exclusion, and the psychological "iron fist" of boundaries, evidence, expression, and complaint.
 - Bite-prevention and aftercare framing: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has him help turn mosquito attraction, repellent products, allergic itch, antihistamines, steroids, tick handling, chigger fever risk, and household source control into ordinary listener questions.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, ophthalmology, myopia-control, diabetes, obesity, medication, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
+The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
 
 ## What Changed
-- VOL.163 adds pediatric myopia prevention, progression control, refraction, orthokeratology, defocus lenses, and atropine questions to 阿汤's recorded host role.
-- The profile now distinguishes clearer vision, slower progression, and cure claims within his recurring public medical-literacy boundary work.
-- The guest identity and clinical thresholds remain source-scoped rather than becoming independent biography or treatment advice.
+- VOL.162 adds asymptomatic young-adult hypertension, home measurement, medication continuity, follow-up, and target-organ risk to 阿汤's recorded host role.
+- The profile now includes his use of a patient's normalized work stress and weekend dosing routine to make chronic-disease control concrete.
+- Guest identities, thresholds, drug instructions, and individual risk remain source-scoped rather than becoming diagnosis or treatment advice.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as host.
@@ -162,3 +166,9 @@ The wiki has no independent biographical evidence for 阿汤 beyond these episod
 - [[PediatricMyopiaControl]] - progression-control frame he prompts through parent-facing questions.
 - [[OrthokeratologyMyopiaControl]] - overnight lens mechanism and fitting boundary he asks the guest to explain.
 - [[CycloplegicRefraction]] - accommodation and first-prescription assessment boundary he helps make concrete.
+- [[DaLunDingHypertensionGuest]] - source-scoped hypertension educator he hosts in VOL.162.
+- [[XiaoLeiHypertensionGuest]] - source-scoped young patient whose case he explores in VOL.162.
+- [[HypertensionLongTermManagement]] - detection, treatment, monitoring, follow-up, and lifestyle frame he prompts.
+- [[HomeBloodPressureMeasurement]] - home-device and technique boundary he asks the guest to explain.
+- [[AntihypertensiveMedicationAdherence]] - medication-continuity boundary he makes concrete through weekend dosing questions.
+- [[HypertensionTargetOrganDamage]] - multi-organ risk frame he asks the guest to explain.

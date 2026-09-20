@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7666
+wiki_total_pages: 7670
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "HoloAssets"
     title: "Holo Assets"
     url: "/wiki/concepts/holoassets/"
+  - key: "HomeBloodPressureMeasurement"
+    title: "Home Blood Pressure Measurement / 家庭血压测量"
+    url: "/wiki/concepts/homebloodpressuremeasurement/"
   - key: "HomeImprovementWarehouseModel"
     title: "Home Improvement Warehouse Model"
     url: "/wiki/concepts/homeimprovementwarehousemodel/"
@@ -788,6 +791,12 @@ wiki_pages:
   - key: "HyperscalerAIGatekeeping"
     title: "Hyperscaler AI Gatekeeping"
     url: "/wiki/concepts/hyperscaleraigatekeeping/"
+  - key: "HypertensionLongTermManagement"
+    title: "Hypertension Long-Term Management / 高血压长期管理"
+    url: "/wiki/concepts/hypertensionlongtermmanagement/"
+  - key: "HypertensionTargetOrganDamage"
+    title: "Hypertension Target-Organ Damage / 高血压靶器官损害"
+    url: "/wiki/concepts/hypertensiontargetorgandamage/"
   - key: "HuozhiLiezhuanWealthEthic"
     title: "《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic"
     url: "/wiki/concepts/huozhiliezhuanwealthethic/"

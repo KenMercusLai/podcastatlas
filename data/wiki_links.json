@@ -5863,6 +5863,10 @@
     "title": "Antihero Misreading",
     "url": "/wiki/concepts/antiheromisreading/"
   },
+  "AntihypertensiveMedicationAdherence": {
+    "title": "Antihypertensive Medication Adherence / 降压药依从性",
+    "url": "/wiki/concepts/antihypertensivemedicationadherence/"
+  },
   "AntimicrobialResistance": {
     "title": "Antimicrobial Resistance",
     "url": "/wiki/concepts/antimicrobialresistance/"
@@ -16002,6 +16006,10 @@
   "DaLaoshiCultureLimited": {
     "title": "大老师（文化有限）",
     "url": "/wiki/entities/dalaoshiculturelimited/"
+  },
+  "DaLunDingHypertensionGuest": {
+    "title": "大伦丁老师 / 大仑丁 (hypertension guest)",
+    "url": "/wiki/entities/dalundinghypertensionguest/"
   },
   "DaLuobo": {
     "title": "呆萝卜 / Da Luobo",
@@ -29119,6 +29127,10 @@
     "title": "Holo Assets",
     "url": "/wiki/concepts/holoassets/"
   },
+  "HomeBloodPressureMeasurement": {
+    "title": "Home Blood Pressure Measurement / 家庭血压测量",
+    "url": "/wiki/concepts/homebloodpressuremeasurement/"
+  },
   "HomeDepot": {
     "title": "Home Depot",
     "url": "/wiki/entities/homedepot/"
@@ -30554,6 +30566,14 @@
   "HyperscalerAIGatekeeping": {
     "title": "Hyperscaler AI Gatekeeping",
     "url": "/wiki/concepts/hyperscaleraigatekeeping/"
+  },
+  "HypertensionLongTermManagement": {
+    "title": "Hypertension Long-Term Management / 高血压长期管理",
+    "url": "/wiki/concepts/hypertensionlongtermmanagement/"
+  },
+  "HypertensionTargetOrganDamage": {
+    "title": "Hypertension Target-Organ Damage / 高血压靶器官损害",
+    "url": "/wiki/concepts/hypertensiontargetorgandamage/"
   },
   "IBM": {
     "title": "IBM",
@@ -68751,6 +68771,10 @@
     "title": "肖磊",
     "url": "/wiki/entities/xiaolei/"
   },
+  "XiaoLeiHypertensionGuest": {
+    "title": "小磊 (hypertension guest)",
+    "url": "/wiki/entities/xiaoleihypertensionguest/"
+  },
   "XiaoMan": {
     "title": "小满",
     "url": "/wiki/entities/xiaoman/"
@@ -77482,6 +77506,10 @@
   "vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1": {
     "title": "Vol. 161 从开发自己的 OpenClaw 聊起",
     "url": "/wiki/sources/vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1/"
+  },
+  "vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy": {
+    "title": "VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊",
+    "url": "/wiki/sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy/"
   },
   "vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1": {
     "title": "Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊](sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy.md) — 这病说来话长 episode on asymptomatic young-adult hypertension, home measurement, medication continuity, follow-up, lifestyle support, and multi-organ complication risk.
 - [565. The Great Northern War: Revenge of the Cossacks (Part 2)](sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243.md) — The Rest Is History episode on Russia's supply-denial campaign, Lesnaya, Mazepa's defection, Baturin's destruction, winter attrition, and Charles XII's approach to Poltava.
 - [Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631.md) — Huberman Lab Essentials episode on psychiatric measurement limits, stigma, circuit understanding, stimulation precision, ADHD diagnosis boundaries, psychedelics, MDMA, trauma, and therapeutic learning.
 - [566. The Great Northern War: Slaughter on the Steppes (Part 3)](sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587.md) — The Rest Is History episode on Poltava's command breakdown, Sweden's imperial decline, Russia's Baltic ascent, and the war's continuation to Nystad.
@@ -2593,6 +2594,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [大伦丁老师 / 大仑丁 (hypertension guest)](entities/DaLunDingHypertensionGuest.md) — Source-scoped medical guest explaining hypertension monitoring, medication continuity, complications, and lifestyle support.
+- [小磊 (hypertension guest)](entities/XiaoLeiHypertensionGuest.md) — Source-scoped young patient whose asymptomatic diagnosis, dosing questions, and normalized work stress anchor VOL.162.
 - [Ivan Mazepa / 伊万·马泽帕](entities/IvanMazepa.md) — Cossack hetman whose attempt to preserve autonomy through alliance with Charles XII collapses after Baturin's destruction.
 - [Cossack Hetmanate / 哥萨克酋长国](entities/CossackHetmanate.md) — Frontier military polity whose constrained autonomy and divided allegiance are exposed by Mazepa's defection.
 - [Battle of Lesnaya / 列斯纳亚战役](entities/BattleOfLesnaya.md) — 1708 logistical turning point where Russia destroys Lewenhaupt's delayed Swedish relief column and supplies.
@@ -12947,6 +12950,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Hypertension Long-Term Management / 高血压长期管理](concepts/HypertensionLongTermManagement.md) — Continuing cycle of detection, treatment, monitoring, follow-up, organ-risk assessment, and feasible lifestyle support.
+- [Home Blood Pressure Measurement / 家庭血压测量](concepts/HomeBloodPressureMeasurement.md) — Standardized out-of-clinic monitoring using an appropriate device, cuff, posture, rest period, and repeat schedule.
+- [Antihypertensive Medication Adherence / 降压药依从性](concepts/AntihypertensiveMedicationAdherence.md) — Consistent clinician-guided dosing, response monitoring, adverse-effect review, and avoidance of unilateral stopping.
+- [Hypertension Target-Organ Damage / 高血压靶器官损害](concepts/HypertensionTargetOrganDamage.md) — Cumulative brain, eye, heart, kidney, peripheral-artery, and aortic injury associated with sustained or unstable high blood pressure.
 - [Psychiatry Measurement Gap](concepts/PsychiatryMeasurementGap.md) — Mismatch between physically grounded mental illness and routine assessment that still relies heavily on interviews, behavior, scales, and functional evidence.
 - [Selective Neural Stimulation Precision](concepts/SelectiveNeuralStimulationPrecision.md) — Requirement to control the relevant cell type, projection, circuit, and activity pattern rather than broadly stimulating nearby excitable tissue.
 - [Psychiatric Stigma and Treatment Delay](concepts/PsychiatricStigmaTreatmentDelay.md) — Pathway by which shame and handle-it-alone beliefs postpone care and can allow distress or impairment to deepen.

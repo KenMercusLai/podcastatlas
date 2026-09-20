@@ -27,6 +27,7 @@ sources:
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
   - vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn
   - vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc
+  - vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -69,6 +70,8 @@ VOL.222 adds a dedicated first-aid and emergency-care branch through [[LiuChenEm
 
 VOL.164 adds a tobacco-control and cessation branch through [[LiDoctorSmokingCessation|黎医生]]. The episode links [[ElectronicCigaretteRisk]], [[SecondhandThirdhandSmokeExposure]], [[YouthTobaccoInitiationPrevention]], and [[SmokingCessationSupport]] while keeping comparative product risk, medication, nicotine replacement, clinical cases, and cessation timelines source-scoped.
 
+VOL.162 adds a dedicated hypertension branch through [[DaLunDingHypertensionGuest|大伦丁老师]] and [[XiaoLeiHypertensionGuest|小磊]]. The episode turns an asymptomatic younger-adult diagnosis into [[HypertensionLongTermManagement]] by joining ambulatory confirmation, [[HomeBloodPressureMeasurement]], [[AntihypertensiveMedicationAdherence]], follow-up, normalized work stress, sleep, food and activity patterns, and [[HypertensionTargetOrganDamage]] while keeping thresholds and individual treatment source-scoped.
+
 ## Key Characteristics
 - Uses specialist guests to explain medical, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
@@ -90,17 +93,18 @@ VOL.164 adds a tobacco-control and cessation branch through [[LiDoctorSmokingCes
 - Sports medicine, aesthetics, and movement safety: [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy]] turns long sitting, weekend exercise, running, swimming, cycling, tennis, HYROX, braces, tape, stretching, joint popping, knee valgus, and elderly fall prevention into load-management and escalation-boundary questions; [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] adds exercise-as-aesthetic-medicine, cardiovascular screening, overtraining, supplements, sleep, injuries, and BLS/AED readiness.
 - First aid and emergency care: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] turns chest pain, palpitations, collapse, unconsciousness, abnormal breathing, CPR/AED, AED prompts, seizures, Heimlich-style choking response, sports trauma, wounds, burns, medication stacking, 120 information, and simple emergency-kit preparation into judgment, task-distribution, training, and qualified-care boundaries.
 - Tobacco control and cessation: [[vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn]] connects vaping risk, second- and third-hand exposure, youth first-use prevention, quit dates, cessation clinics, medication boundaries, and relapse recovery.
+- Hypertension and chronic care: [[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy]] connects asymptomatic screening, ambulatory confirmation, home technique, continuous medication, follow-up, stress and sleep, diet, movement, and multi-organ complication risk.
 - Lifestyle and consumer literacy: [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]], [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], and [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] turn weight, injections, CGM, carbohydrates, sugar, labels, sweeteners, supplements, functional-food identity, electrolyte drinks, fish oil, and meal replacements into bounded behavior and medical-risk questions.
 - Internet medical vocabulary: [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] rejects single-region or casual psychiatric explanations while preserving clinical escalation thresholds for persistent or worsening behavior change.
 - Workplace and education psychology: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] uses school-authority drama to explain parent projection, workplace bullying, psychological boundaries, evidence preservation, complaint channels, and professional support.
 
 ## Qualifications
-The page is based only on twenty-four ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on twenty-five ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.163 extends ophthalmology from disease screening and surgical boundaries into pediatric myopia prevention and progression control.
-- The show profile now distinguishes behavior, measurement, optical defocus, medication, and accurate refraction without presenting any as a cure.
-- The source's nickname-only guest identity, product comparisons, control estimates, drug choices, and thresholds remain qualified and source-scoped.
+- VOL.162 adds hypertension as a chronic-care branch spanning detection, verified control, medication continuity, home measurement, follow-up, and lifestyle support.
+- The show profile now makes symptom absence and normalized work stress part of its recurring medical-literacy boundary work.
+- Guest-name spelling, clinical thresholds, drug instructions, device technique, and complication risk remain qualified and source-scoped.
 
 ## Relationships
 - [[Atang]] - recurring host voice in the ingested episodes.
@@ -216,3 +220,9 @@ The page is based only on twenty-four ingested episode notes. It should not be t
 - [[PediatricMyopiaControl]] - childhood prevention and progression-control frame developed by the show.
 - [[OrthokeratologyMyopiaControl]] - temporary corneal-reshaping and peripheral-defocus frame developed by the show.
 - [[CycloplegicRefraction]] - accommodation-relaxation and first-prescription accuracy frame developed by the show.
+- [[DaLunDingHypertensionGuest]] - source-scoped medical guest in the hypertension episode.
+- [[XiaoLeiHypertensionGuest]] - source-scoped young patient in the hypertension episode.
+- [[HypertensionLongTermManagement]] - chronic-care framework developed through the hypertension episode.
+- [[HomeBloodPressureMeasurement]] - home-device and measurement-technique frame developed by the show.
+- [[AntihypertensiveMedicationAdherence]] - medication-continuity frame developed by the show.
+- [[HypertensionTargetOrganDamage]] - multi-organ complication-risk frame developed by the show.

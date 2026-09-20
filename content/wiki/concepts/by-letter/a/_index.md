@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7666
+wiki_total_pages: 7670
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1886,6 +1886,9 @@ wiki_pages:
   - key: "AntiheroMisreading"
     title: "Antihero Misreading"
     url: "/wiki/concepts/antiheromisreading/"
+  - key: "AntihypertensiveMedicationAdherence"
+    title: "Antihypertensive Medication Adherence / 降压药依从性"
+    url: "/wiki/concepts/antihypertensivemedicationadherence/"
   - key: "AntimicrobialResistance"
     title: "Antimicrobial Resistance"
     url: "/wiki/concepts/antimicrobialresistance/"
