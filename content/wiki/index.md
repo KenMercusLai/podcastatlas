@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1075丨揭秘被《三国志》掩盖的亲密关系谋杀案](sources/zizhi-tongjian-hanji-1075-jiemi-bei-sanguozhi-yangai-de-qinmi-guanxi-moushaan-lnqfxk6r8h0nr6ytjfquosw_xvcq.md) — 以邯郸商与张猛从亲密旧友到权力冲突和谋杀的戏剧化叙事，讨论信任、兵权、资源与关系边界，并保留其年代和史料疑点。
 - [《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中](sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv.md) — 昌豨反复叛降后向旧友于禁投降，却因围后降者不赦的军令被处死；并串联庞淯哭邯郸商、废八王国与曹操备战乌桓。
 - [《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？](sources/zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk.md) — 曹操远征乌桓前，郭嘉以乌桓无备和刘表不敢放权给刘备为依据主张出兵，又以弃辎重急行换取突袭速度。
 - [《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究](sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle.md) — 田畴以卢龙古道绕开雨阻与乌桓正面防线，曹操用“秋冬再进军”的路旁木板掩护真实机动。
@@ -2561,7 +2562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [庞淯 / Pang Yu (late Han)](entities/PangYuLateHan.md) — 辞官赴武威哭祭邯郸商、怀刃求报并因公开忠义获张猛赦免的酒泉官员。
-- [张猛 / Zhang Meng (late Han)](entities/ZhangMengLateHan.md) — 杀邯郸商并禁丧，却因声誉约束而放过庞淯的武威人物。
+- [张猛 / Zhang Meng (late Han)](entities/ZhangMengLateHan.md) — 杀邯郸商并禁丧、后因声誉约束放过庞淯；Hanji 1075另给出有年代冲突的旧友反目演绎。
 - [徐庶 / Xu Shu (late Han)](entities/XuShuLateHan.md) — 向刘备举荐诸葛亮并坚持应由刘备亲自拜访的荆州人才引荐者。
 - [陶侃 / Tao Kan](entities/TaoKan.md) — 以运甓自励抵抗闲散和安逸侵蚀、在当前来源中作为长期准备寓言的东晋将领。
 - [庞德公 / Pang Degong (late Han)](entities/PangDegongLateHan.md) — 以士林评价使诸葛亮、庞统的潜在能力获得社会可见性的荆州名士。
@@ -5274,7 +5275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [东阿 / Dong'e (Late Han)](entities/DongALateHan.md) — Yanzhou city defended by Zao Zhi and Cheng Yu during Cao Cao's 194 CE base crisis.
 - [鄄城 / Juancheng (Late Han)](entities/JuanchengLateHan.md) — Yanzhou stronghold and missed Lü Bu target in Cao Cao's assessment of the 194 CE crisis.
 - [侯汶 / Hou Wen (late Han)](entities/HouWenLateHan.md) — Attendant censor accused by Emperor Xian's gruel test of diverting Chang'an famine relief grain.
-- [邯郸商 / Handan Shang (late Han)](entities/HandanShangLateHan.md) — Chenliu official appointed as Yongzhou inspector when the Hexi four commanderies are split from Liangzhou.
+- [邯郸商 / Handan Shang (late Han)](entities/HandanShangLateHan.md) — 受任雍州刺史后被张猛所杀；节目对二人旧谊与冲突的细节和年代存在明显限定。
 - [雍州 / Yongzhou (Late Han)](entities/YongzhouLateHan.md) — Late-Han province created from the Hexi four commanderies because distance and disorder made Liangzhou administration impractical.
 - [河西四郡 / Hexi Four Commanderies (Late Han)](entities/HexiFourCommanderiesLateHan.md) — Dunhuang, Jiuquan, Zhangye, and Wuwei as a 123 CE Western Regions buffer dependency and later separate-Yongzhou administration problem.
 - [濮阳之战 / Puyang Battle (Late Han)](entities/PuyangBattleLateHan.md) — Late-Han Yanzhou battle where Cao Cao enters Puyang through a false local-insider signal, survives through Dian Wei and verbal misdirection, then faces attrition pressure against Lü Bu.

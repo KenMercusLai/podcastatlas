@@ -20410,3 +20410,11 @@ Added the Jian'an 11 source note linking Pang Yu's mourning of Handan Shang, Cha
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1075丨揭秘被《三国志》掩盖的亲密关系谋杀案
+
+Added source `zizhi-tongjian-hanji-1075-jiemi-bei-sanguozhi-yangai-de-qinmi-guanxi-moushaan-lnqfxk6r8h0nr6ytjfquosw_xvcq`; updated `HandanShangLateHan`, `ZhangMengLateHan`, and `PartnershipBoundaryRisk` with the episode's alleged friendship, delegated-force, grain-control, information-control, and murder-prequel framing. Recorded a direct 204-versus-206 chronology conflict with Hanji 1076 and kept the Taixue friendship, private army, bridge ambush, dialogue, ritual objects, private motives, and death scene source-scoped rather than settled biography.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
