@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7680
+wiki_total_pages: 7683
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1226,6 +1226,9 @@ wiki_pages:
   - key: "PremiumEverydayBrandTension"
     title: "Premium-Everyday Brand Tension"
     url: "/wiki/concepts/premiumeverydaybrandtension/"
+  - key: "PrenuptialAgreementAsRelationshipDesign"
+    title: "Prenuptial Agreement As Relationship Design"
+    url: "/wiki/concepts/prenuptialagreementasrelationshipdesign/"
   - key: "PreoperativeAnesthesiaAssessment"
     title: "Preoperative Anesthesia Assessment / 术前麻醉评估"
     url: "/wiki/concepts/preoperativeanesthesiaassessment/"
@@ -1274,6 +1277,9 @@ wiki_pages:
   - key: "PreventiveHealthScreening"
     title: "Preventive Health Screening"
     url: "/wiki/concepts/preventivehealthscreening/"
+  - key: "PreventiveRelationshipMaintenance"
+    title: "Preventive Relationship Maintenance"
+    url: "/wiki/concepts/preventiverelationshipmaintenance/"
   - key: "PriceElasticity"
     title: "Price Elasticity / 价格弹性"
     url: "/wiki/concepts/priceelasticity/"

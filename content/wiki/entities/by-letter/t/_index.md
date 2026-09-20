@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10354
+wiki_total_pages: 10356
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "TrumpOrganization"
     title: "Trump Organization"
     url: "/wiki/entities/trumporganization/"
+  - key: "TrustedPrenup"
+    title: "TrustedPrenup"
+    url: "/wiki/entities/trustedprenup/"
   - key: "TruthAPI"
     title: "Truth API"
     url: "/wiki/entities/truthapi/"

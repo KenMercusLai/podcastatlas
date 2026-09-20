@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "SCIM5641095924 [SCIM5641095924].md",
-      "source_note_count": 58,
+      "source_note_count": 59,
       "topic_matched_source_note_count": 46,
       "topics": [
         {
@@ -512,7 +512,7 @@
           "title": "Andrew Huberman",
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
-          "episode_count": 31
+          "episode_count": 32
         },
         {
           "key": "DavidAnderson",

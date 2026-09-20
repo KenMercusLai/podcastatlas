@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7680
+wiki_total_pages: 7683
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "MarriageAllianceWarExposure"
     title: "Marriage Alliance War Exposure / 联姻同盟战场暴露"
     url: "/wiki/concepts/marriagealliancewarexposure/"
+  - key: "MarriageDefaultContract"
+    title: "Marriage Default Contract"
+    url: "/wiki/concepts/marriagedefaultcontract/"
   - key: "MarriageDiplomacyAsStrategicOption"
     title: "Marriage Diplomacy as Strategic Option"
     url: "/wiki/concepts/marriagediplomacyasstrategicoption/"

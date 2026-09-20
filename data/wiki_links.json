@@ -32643,6 +32643,10 @@
     "title": "James Meade",
     "url": "/wiki/entities/jamesmeade/"
   },
+  "JamesSexton": {
+    "title": "James Sexton",
+    "url": "/wiki/entities/jamessexton/"
+  },
   "JamesSteinberg": {
     "title": "James Steinberg",
     "url": "/wiki/entities/jamessteinberg/"
@@ -40994,6 +40998,10 @@
   "MarriageAllianceWarExposure": {
     "title": "Marriage Alliance War Exposure / 联姻同盟战场暴露",
     "url": "/wiki/concepts/marriagealliancewarexposure/"
+  },
+  "MarriageDefaultContract": {
+    "title": "Marriage Default Contract",
+    "url": "/wiki/concepts/marriagedefaultcontract/"
   },
   "MarriageDiplomacyAsStrategicOption": {
     "title": "Marriage Diplomacy as Strategic Option",
@@ -49895,6 +49903,10 @@
     "title": "Premium Ready-to-Drink Alcohol",
     "url": "/wiki/concepts/premiumreadytodrinkalcohol/"
   },
+  "PrenuptialAgreementAsRelationshipDesign": {
+    "title": "Prenuptial Agreement As Relationship Design",
+    "url": "/wiki/concepts/prenuptialagreementasrelationshipdesign/"
+  },
   "PreoperativeAnesthesiaAssessment": {
     "title": "Preoperative Anesthesia Assessment / 术前麻醉评估",
     "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
@@ -49982,6 +49994,10 @@
   "PreventiveHealthScreening": {
     "title": "Preventive Health Screening",
     "url": "/wiki/concepts/preventivehealthscreening/"
+  },
+  "PreventiveRelationshipMaintenance": {
+    "title": "Preventive Relationship Maintenance",
+    "url": "/wiki/concepts/preventiverelationshipmaintenance/"
   },
   "Priam": {
     "title": "Priam",
@@ -64015,6 +64031,10 @@
     "title": "Trusted Network Geopolitics",
     "url": "/wiki/concepts/trustednetworkgeopolitics/"
   },
+  "TrustedPrenup": {
+    "title": "TrustedPrenup",
+    "url": "/wiki/entities/trustedprenup/"
+  },
   "TruthAPI": {
     "title": "Truth API",
     "url": "/wiki/entities/truthapi/"
@@ -74366,6 +74386,10 @@
   "continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e": {
     "title": "Continental Rift: NATO's Tense Summit",
     "url": "/wiki/sources/continental-rift-natos-tense-summit-6a4cc6b0c4772b27e88e898e/"
+  },
+  "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218": {
+    "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+    "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
   },
   "control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803": {
     "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",

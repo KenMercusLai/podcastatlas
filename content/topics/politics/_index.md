@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2593
+topic_total_pages: 2594
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2059,6 +2059,9 @@ topic_concepts:
   - key: "MarriageAllianceWarExposure"
     title: "Marriage Alliance War Exposure / 联姻同盟战场暴露"
     url: "/wiki/concepts/marriagealliancewarexposure/"
+  - key: "MarriageDefaultContract"
+    title: "Marriage Default Contract"
+    url: "/wiki/concepts/marriagedefaultcontract/"
   - key: "MarriageDiplomacyAsStrategicOption"
     title: "Marriage Diplomacy as Strategic Option"
     url: "/wiki/concepts/marriagediplomacyasstrategicoption/"

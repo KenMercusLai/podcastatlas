@@ -20718,3 +20718,11 @@ Added source `vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-das
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Contracts of Love & Money That Make or Break Relationships | James Sexton
+
+Added source `contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218`; created `JamesSexton`, `TrustedPrenup`, `MarriageDefaultContract`, `PrenuptialAgreementAsRelationshipDesign`, and `PreventiveRelationshipMaintenance`; and updated `AndrewHuberman`, `HubermanLab`, `RelationshipFeedbackLoop`, `RelationshipNeedDiversification`, `VulnerabilityAsLoveSource`, overview, and index. Core synthesis: marriage already creates legal defaults, so explicit planning can turn money, caregiving, safety, sex, change, and conflict into discussable expectations before crisis, while recurring check-ins and small acts maintain connection. No settled contradiction found; divorce-rate, infidelity, gender, prenup-client, and enforceability claims remain source-scoped or jurisdiction-dependent.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

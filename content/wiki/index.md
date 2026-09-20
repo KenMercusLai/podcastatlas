@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Contracts of Love & Money That Make or Break Relationships | James Sexton](sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218.md) — Huberman Lab interview on prenups as relationship design, marriage defaults, preventive check-ins, vulnerability, and source-scoped divorce observations.
 - [563. Peter the Great: Bloodbath in the Kremlin (Part 2)](sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819.md) — The Rest Is History episode on the Great Embassy, practical Western learning, coercive cultural reform, the Streltsy purge, and Peter's pivot toward war with Sweden.
 - [Essentials: How Hearing & Balance Enhance Focus & Learning](sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510.md) — Huberman Lab Essentials episode on auditory transduction, sound localization, selective listening, binaural beats, low-level white noise, visual-vestibular integration, dynamic balance, and learning-state claims.
 - [564. The Great Northern War: The Battle of the Baltic (Part 1)](sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070.md) — The Rest Is History episode on Sweden's Baltic dominance, Narva, Peter's military rebuilding, Saint Petersburg, Augustus's defeat, and Charles XII's decision to invade Russia.
@@ -2600,6 +2601,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
 ## Entities
+- [James Sexton](entities/JamesSexton.md) — Family-law attorney reframing prenups, divorce practice, and recurring relationship maintenance as preventive clarity.
+- [TrustedPrenup](entities/TrustedPrenup.md) — Source-scoped prenup service discussed as an access and affordability effort.
 - [Great Embassy / 大使团出访](entities/GreatEmbassy.md) — Peter the Great's 1697-1698 diplomatic, recruitment, and hands-on technical learning mission through Europe.
 - [Streltsy / 射击军](entities/Streltsy.md) — Old Russian infantry institution whose 1698 revolt became the basis for torture, executions, and abolition under Peter.
 - [Battle of Narva / 纳尔瓦战役](entities/BattleOfNarva.md) — 1700 Swedish victory whose scale feeds Charles XII's overconfidence and Peter the Great's reform urgency.
@@ -12963,6 +12966,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Marriage Default Contract](concepts/MarriageDefaultContract.md) — Frame that marriage creates state-supplied legal and economic rules even without private negotiation.
+- [Prenuptial Agreement As Relationship Design](concepts/PrenuptialAgreementAsRelationshipDesign.md) — Prenup negotiation as purpose, disclosure, safety, and expectation design before crisis.
+- [Preventive Relationship Maintenance](concepts/PreventiveRelationshipMaintenance.md) — Recurring conversations and small acts that address change before resentment hardens.
 - [Coercive Westernization](concepts/CoerciveWesternization.md) — Selective foreign borrowing imposed through centralized cultural, administrative, and punitive power without political liberalization.
 - [Sound-Based State Regulation](concepts/SoundBasedStateRegulation.md) — Conditional use of binaural beats or low-level background noise to influence relaxation, pain, alertness, focus, or learning-relevant states.
 - [Selective Auditory Attention](concepts/SelectiveAuditoryAttention.md) — Effortful extraction of one sound stream or feature from competing audio using localization cues and targeted listening.

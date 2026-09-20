@@ -6930,9 +6930,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 31,
+      "episode_count": 32,
       "show_count": 1,
-      "source_note_count": 31,
+      "source_note_count": 32,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7150,6 +7150,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
           "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        },
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
         }
       ],
       "updated": "2026-09-21",
@@ -56166,9 +56173,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 31,
+      "episode_count": 32,
       "show_count": 1,
-      "source_note_count": 31,
+      "source_note_count": 32,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -56386,6 +56393,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
           "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        },
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
         }
       ],
       "updated": "2026-09-21",
@@ -60986,6 +61000,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/jamesmarriott/"
+    },
+    "JamesSexton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/jamessexton/"
     },
     "JamesSteinberg": {
       "episode_count": 1,
@@ -77402,6 +77432,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/marriagealliancewarexposure/"
     },
+    "MarriageDefaultContract": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/marriagedefaultcontract/"
+    },
     "MarshmallowTestContext": {
       "episode_count": 1,
       "show_count": 1,
@@ -92480,6 +92526,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/premiumreadytodrinkalcohol/"
     },
+    "PrenuptialAgreementAsRelationshipDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/prenuptialagreementasrelationshipdesign/"
+    },
     "PreoperativeAnesthesiaAssessment": {
       "episode_count": 1,
       "show_count": 1,
@@ -92698,6 +92760,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/preventivehealthscreening/"
+    },
+    "PreventiveRelationshipMaintenance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/preventiverelationshipmaintenance/"
     },
     "PrimaryExtremismPressure": {
       "episode_count": 1,
@@ -97215,9 +97293,9 @@
       "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
     },
     "RelationshipFeedbackLoop": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvfiPUWpqWuwinGQPHFCorngy21c [lvfiPUWpqWuwinGQPHFCorngy21c].md",
@@ -97225,9 +97303,16 @@
           "show": "这病说来话长",
           "title": "VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词",
           "url": "/wiki/sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c/"
+        },
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/relationshipfeedbackloop/"
     },
     "RelationshipFourHorsemen": {
@@ -97247,9 +97332,9 @@
       "url": "/wiki/concepts/relationshipfourhorsemen/"
     },
     "RelationshipNeedDiversification": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
@@ -97271,9 +97356,16 @@
           "show": "Huberman Lab",
           "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
           "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        },
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/relationshipneeddiversification/"
     },
     "RelationshipSelectionAgency": {
@@ -117011,6 +117103,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/trustedeunuchpowerformation/"
     },
+    "TrustedPrenup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/trustedprenup/"
+    },
     "TruthSeekingDebateNorm": {
       "episode_count": 2,
       "show_count": 1,
@@ -119724,9 +119832,9 @@
       "url": "/wiki/concepts/voluntaryaisafetycommitments/"
     },
     "VulnerabilityAsLoveSource": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltoECVLtSlYfJFLqAnu2lVO7yqqG [ltoECVLtSlYfJFLqAnu2lVO7yqqG].md",
@@ -119741,9 +119849,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
           "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        },
+        {
+          "episode_file": "SCIM2050136218 [SCIM2050136218].md",
+          "key": "contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218",
+          "show": "Huberman Lab",
+          "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
+          "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/vulnerabilityaslovesource/"
     },
     "WIPLimitPersonalProductivity": {

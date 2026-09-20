@@ -45177,6 +45177,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MarriageDefaultContract": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MarriageDiplomacyAsStrategicOption": [
     {
       "key": "politics",
