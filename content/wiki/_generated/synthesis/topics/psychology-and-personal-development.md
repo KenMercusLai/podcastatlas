@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-20
-as_of_overview_commit: 539307352e93e6371b0413efa7c4079b167a21f7
-input_digest: 1e55e5fe1ba60087a2b2a5273cf1942b9a03f97639ed14d5e7fc2e85dbbd4e54
+as_of_overview_commit: 525c9a462c3898b7cd0c85c4585c7b367127ae2c
+input_digest: aa1a4969b99828e45e8d5c83d55338520284201b442aa832dcff8631273c62a9
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1090 adds a bounded historical warning about moral labeling: character judgments can be shaped by political power, biographical counterevidence, family consequences, and public memory, so they should not be detached from evidence and context. Historical typologies and motive claims remain source-scoped boundary cases, while mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1090 adds a bounded historical warning about moral labeling: character judgments can be shaped by political power, biographical counterevidence, family consequences, and public memory, so they should not be detached from evidence and context. Historical typologies and motive claims remain source-scoped boundary cases, while mental-health, diagnostic, and crisis claims stay bounded to professional judgment. Hanji 1081 adds a bounded judgment lesson: grief for lost talent and regret over missed opportunity may illuminate decision psychology, but retrospective confidence should not be converted into certainty about an unobservable alternative history.
 
 ## Cross-source Findings
 
@@ -998,3 +998,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - This is a historical narrative about reputation and power, not a clinical model of personality or family attachment.
 - Counter-biographical anecdotes qualify a moral label but do not establish the authenticity or falsity of every attributed saying.
 - Exact motives, dialogue, and demeanor remain source-scoped.
+
+### Counterfactual Confidence Needs Causal Restraint
+
+[[zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u|Hanji 1081]] enters personal-development synthesis only as a judgment boundary: [[GuoJia|Guo Jia]]'s loss and [[LiuBiao|Liu Biao]]'s delayed regret illustrate capability dependence and missed-decision hindsight, while claims about preventing [[RedCliffsBattle|Red Cliffs]] cannot become psychological certainty about an unobserved history.
+
+**Evidence:** [[zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u]], [[GuoJia]], [[LiuBiao]], [[RedCliffsBattle]]
+
+**Qualifications:**
+
+- This is historical narrative and modern commentary, not clinical or experimental psychology evidence.
+- The 15/85 management statistic is unattributed in the episode and remains source-scoped.
+- Retrospective coherence cannot establish what a deceased adviser would have done.

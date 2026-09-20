@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-20
-as_of_overview_commit: 2c853c500824df5c6b1bd8004a8f36ef71530f7f
-input_digest: 3b0e72f30eb9744f8c4924250b41d049b6904e879bd8a484031f22265e5d4ccc
+as_of_overview_commit: 525c9a462c3898b7cd0c85c4585c7b367127ae2c
+input_digest: fbed9deed9cb765380f75e7bdbb4b11c04869ff53d66d45a9f916b49f2d353c0
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity. The newest AI-insurance branch adds private governance through policy wording and underwriting: coverage, exclusions, testing, and premium incentives allocate responsibility, but thin loss data and unsettled legal boundaries require validation and regulatory scrutiny.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform evidence, public language, and policy packages repeatedly determine outcomes. Historical and modern cases show that authority depends not only on rules but also on who controls appointments, information channels, acceptable symbols, blame, and the framing of public purpose. Hanji 1090 adds a prosecution case in which political challenge is converted into a defensible death sentence by bundling security, association, hierarchy, and private-morality accusations; biographical counterevidence qualifies the moral label, household execution reveals punishment expansion, and surviving mourning shows the limits of reputational control. Across the corpus, institutional judgment must distinguish visible evidence from inferred motive, formal procedure from power interest, costly commitment from certainty, and borrowed platforms, wealth, or reputation from protected independent capacity. The newest AI-insurance branch adds private governance through policy wording and underwriting: coverage, exclusions, testing, and premium incentives allocate responsibility, but thin loss data and unsettled legal boundaries require validation and regulatory scrutiny. Hanji 1081 adds capability continuity to adviser-system governance: a specialist's death matters when a regime cannot preserve or replace the function, while later defeat does not prove a single-person cause.
 
 ## Cross-source Findings
 
@@ -2339,3 +2339,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 - The episode does not establish settled liability doctrine, approved exclusion language, independent test calibration, or actual claims outcomes.
 - Insurance can allocate financial risk without resolving safety, accountability, or reputational harm.
+
+### Adviser Loss Exposes Capability Continuity Risk
+
+[[zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u|Hanji 1081]] extends [[AdviserStateArchitecture]] through [[GuoJia|Guo Jia]]'s death: losing a specialist adviser creates a governance risk when judgment cannot be distributed or replaced, but [[RedCliffsBattle|Red Cliffs]] does not establish that one missing person caused later strategic failure.
+
+**Evidence:** [[zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u]], [[AdviserStateArchitecture]], [[GuoJia]], [[RedCliffsBattle]]
+
+**Qualifications:**
+
+- The episode's claims that Guo Jia would have detected every Red Cliffs deception and prevented tripartite division are untestable counterfactuals.
+- Disease, naval capacity, logistics, alliance formation, and command conditions remain independent structural factors.
+- Exact dialogue, timing, and the 15/85 management statistic remain source-scoped.

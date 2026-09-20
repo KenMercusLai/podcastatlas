@@ -20107,6 +20107,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃
+
+Added source `zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u`; updated `GuoJia`; updated and migrated `CuiZhouping` and `AdviserStateArchitecture`; updated `index.md` and `overview.md`. Core synthesis: losing Guo Jia raises a capability-continuity problem inside Cao Cao's adviser system, but does not prove that one survivor would have prevented Red Cliffs or the tripartite order. No settled contradiction found; the Red Cliffs counterfactual, exact dialogue and timing, burial details, location conclusion, and management statistic remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1082丨诸葛亮一段话点破乱世风云，太敢说了
 
 Added source `zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh`; created `XuShuLateHan`; updated `LiuBei`, `ZhugeLiang`, `SimaHuiLateHan`, `LongzhongPlan`, `TaShangCeBipartiteStrategy`, `index.md`, and `overview.md`. Core synthesis: repeated recommendation and patron deference turn local reputation into strategic access, while the Longzhong Plan joins opponent choice, alliance, territorial sequence, frontier accommodation, domestic administration, talent, and Han-restoration legitimacy; Lu Su's earlier diagnosis and Zhuge Liang's later formula are preserved as different political scripts. No settled contradiction found; exact dialogue, visit count, private beliefs, the “strategic double helix,” and veteran-jealousy claims remain source-scoped.
@@ -20354,6 +20358,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？
 
 Added source `zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3`; created `StrategicExclusionAndFocus` and `TaoKan`; updated `LiuBei`, `ZhugeLiang`, `LongzhongPlan`, `PangTong`, `SimaHuiLateHan`, `PangDegongLateHan`, `EliteEndorsementReputationMaking`, and `index.md`. Core synthesis: strong execution does not create a durable position without a strategy that excludes premature fights, concentrates scarce resources on a base and coalition path, and adapts sequence when conditions change. No settled contradiction found; “no prior strategy” is narrowed to absence of an integrated territorial program, while founder-adviser suspicion, factional explanations of Guan Yu's death, exact dialogue, motives, and the “近日不错” textual claim remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-20] lint | Wiki health check
 

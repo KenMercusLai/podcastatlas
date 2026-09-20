@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "385c78dc0929bf5ef2bc0931f79b99ea687c25357745e98a5d9d820e32256298",
       "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
       "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
       "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
@@ -652,11 +653,37 @@
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 650
+    "paragraph_count": 651
   },
-  "overview_commit": "411412ae31a5994a4b05bc0c92e556920dc83464",
-  "overview_digest": "c39f0b6fb9281f9fb0c530db1af714b7f6d8000cfcfb2cc09548ddca92c26002",
+  "overview_commit": "525c9a462c3898b7cd0c85c4585c7b367127ae2c",
+  "overview_digest": "8495f19726f43ff2374a8deea40fa97e95e02453316005f816fe22146e375b99",
   "paragraphs": [
+    {
+      "id": "385c78dc0929bf5ef2bc0931f79b99ea687c25357745e98a5d9d820e32256298",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u|《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode linking [[GuoJia|郭嘉]]'s death after the Wuhuan campaign to a narrower organizational question about lost judgment capacity. It extends [[GuoJia|郭嘉]], [[CuiZhouping|崔州平]], and [[AdviserStateArchitecture|谋士政权架构]], while connecting [[TianChou|田畴]]'s refusal, [[LiuBiao|刘表]]'s missed attack window, [[LadyWuSunJian|吴夫人]]'s deathbed entrustment, and the pre-[[LongzhongPlan|隆中对]] friendship network. Its core synthesis is that losing a specialist adviser matters when a system cannot preserve or replace that person's judgment function; this does not establish that Guo Jia would have prevented [[RedCliffsBattle|赤壁之战]] or the later tripartite order. No settled contradiction is recorded; Red Cliffs predictions, causal claims about three-way division, exact dialogue, timing, burial details, the Xiangyang-Nanyang conclusion, and the 15/85 management statistic remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AdviserStateArchitecture",
+        "CuiZhouping",
+        "GuoJia",
+        "LadyWuSunJian",
+        "LiuBiao",
+        "LongzhongPlan",
+        "RedCliffsBattle",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianChou",
+        "zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u"
+      ]
+    },
     {
       "id": "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
       "primary_topic": "governance-and-institutions",

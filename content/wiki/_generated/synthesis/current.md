@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-20
-as_of_overview_commit: 78e312c45a7026f9bbb12584e48ef44e30677aa8
+as_of_overview_commit: 525c9a462c3898b7cd0c85c4585c7b367127ae2c
 summary: "Podcast Atlas maps how ideas become lived systems across technology, markets, institutions, culture, history, health, psychology, work, and education."
-episode_count: 2536
-source_count: 2536
-paragraph_count: 650
+episode_count: 2543
+source_count: 2543
+paragraph_count: 651
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - [[all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305|July 18 All-In]] adds an AI governance-and-infrastructure bundle: [[DemisHassabis]]'s [[FINRA]]-modeled standards body makes [[AIIndustrySelfRegulation]] conditional on avoiding [[AIRegulatoryCaptureRisk]], while [[HyperscaleDataCenterMoratorium]], [[DataCenterOnsitePower]], [[AIProfessionalDataSecurity]], [[EnterpriseAIROIAudit]], [[PrivateEquityAITransformation]], and [[AlternativePaymentStackConsolidation]] show that AI competition is governed through release rules, energy siting, data control, spend discipline, and payments infrastructure as much as model capability.
 - Strategic routes become political infrastructure when control over cables, straits, ports, enclave crossings, or mountain corridors changes what states, markets, migrants, and armies can do.
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools.
-- [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] and [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504|the Duanwen follow-up]] jointly frame [[HimalayanGlacialFloodRisk]] in the [[HinduKushHimalaya]] as physical, infrastructural, and institutional risk: [[HydropowerConcentrationRisk]] amplifies correlated damage, [[CrossBorderDisasterEarlyWarning]] determines whether upstream monitoring becomes evacuation time, and [[DisasterVictimIdentificationAndBodyAbsentMourning]], [[ClimateAidRetrenchment]], and [[LossAndDamageClimateFinance]] show recovery continuing through identification, grief, delivery, and funding systems.
+- [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -50,21 +50,21 @@ Cultural form is interpretive infrastructure: media, objects, provenance, and au
 
 ### Governance and Institutions
 
-Institutions work through evidence, information channels, incentives, legitimacy, feedback, implementation capacity, and enforceable limits rather than formal text alone.
+Institutions work through evidence, information channels, incentives, legitimacy, feedback, implementation capacity, enforceable limits, and continuity of critical judgment functions.
 
 - [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence. Evidence: [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], [[CourtTransitionBlameManagement]].
 - [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems. Evidence: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]].
 
 ### History and Geopolitics
 
-Historical outcomes repeatedly turn on legitimacy, strategic routes, logistics, coalition sequencing, organization, and control of information and reputation.
+Historical outcomes repeatedly turn on legitimacy, strategic routes, logistics, coalition sequencing, organization, and control of information and reputation; counterfactual causal claims remain bounded.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].
 
 ### Psychology and Personal Development
 
-Psychological development depends on embodied regulation, relational safety, calibrated action, careful self-interpretation, and professional-care boundaries.
+Psychological development depends on embodied regulation, relational safety, calibrated action, careful self-interpretation, causal restraint, and professional-care boundaries.
 
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
 - [[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof. Evidence: [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]].
@@ -78,7 +78,7 @@ Science, health, and climate literacy require mechanism, measurement, escalation
 
 ### Work, Education, and Society
 
-Work, learning, and social capacity depend on active practice, role clarity, trust, incentives, protected access, human judgment, and durable care institutions.
+Work and learning improve when active practice, feedback, context, social support, trusted tools, and accountable human judgment reinforce one another.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

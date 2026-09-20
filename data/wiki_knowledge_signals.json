@@ -4755,6 +4755,71 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/adviceframingunderhierarchy/"
     },
+    "AdviserStateArchitecture": {
+      "episode_count": 8,
+      "show_count": 1,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
+          "key": "zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？ [lnKHah144822mC4AA9bNeZKLGvOO].md",
+          "key": "zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒 [ljdLt6kIU8tg0Qws_jlYEJ_YhGXr].md",
+          "key": "zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》961丨内黄之战：曹操初露锋芒",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋 [lg4QfKDGw_stIxRebHJDoshil6YJ].md",
+          "key": "zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
+          "key": "zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
+          "key": "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？ [ljGPbosQ-9XIoWpgaEyossmgSt6x].md",
+          "key": "zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃 [lj1SVJC8nUh7VDaWYPetJqa1h88U].md",
+          "key": "zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/adviserstatearchitecture/"
+    },
     "Aeolus": {
       "episode_count": 1,
       "show_count": 1,
@@ -24408,6 +24473,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cuiyuanlatehan/"
+    },
+    "CuiZhouping": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？ [ltaR8hVDKqCt8oizm3k22Z38B1v8].md",
+          "key": "zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃 [lj1SVJC8nUh7VDaWYPetJqa1h88U].md",
+          "key": "zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/cuizhouping/"
     },
     "CultivatedImperialCapacity": {
       "episode_count": 1,
@@ -47421,9 +47509,9 @@
       "url": "/wiki/entities/guojieasternhan/"
     },
     "GuoJia": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -47480,9 +47568,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃 [lj1SVJC8nUh7VDaWYPetJqa1h88U].md",
+          "key": "zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/guojia/"
     },
     "GuoLanying": {
