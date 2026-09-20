@@ -6,7 +6,8 @@ sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
   - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
-last_updated: 2026-09-12
+  - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,10 +25,12 @@ The 三五环 crossover adds a lived-productivity version. [[LiuFei|刘飞]] des
 
 The Talk三联 social-jetlag episode adds a simpler public-health cutoff: after lunch, strong tea and coffee should be reduced when the goal is circadian repair. Its point is not that caffeine is always bad, but that wakefulness support can hide rather than fix the timing conflict created by late work, dim days, and bright nights.
 
+The daily-tools episode reinforces the 90-120 minute morning delay within a worked example of wake-time tracking, hydration, light, walking, focused work, and exercise. It explains the practice through adenosine-receptor blockade and a possible reduction in early or late afternoon crashes, but does not establish that the delay is necessary or beneficial for every caffeine user.
+
 ## Key Claims
 - Caffeine is optional and strongly dependent on individual tolerance.
 - The source frames caffeine as an adenosine antagonist that can reduce sleepiness.
-- Delaying caffeine 90-120 minutes after waking may reduce afternoon caffeine need for many people.
+- Delaying caffeine 90-120 minutes after waking may reduce afternoon caffeine need for many people, but it is a testable routine option rather than a universal requirement.
 - Late-day caffeine can impair sleep quality even when a person can still fall asleep.
 - The source recommends limiting caffeine after 4 p.m., with a low late-day ceiling when sleep is the goal.
 - Caffeine timing belongs inside the whole sleep-wake timing system, alongside light, temperature, movement, food, social rhythm, and consistency.
@@ -41,6 +44,7 @@ The Talk三联 social-jetlag episode adds a simpler public-health cutoff: after 
 - Work-pressure case - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] describes high coffee reliance during internet-company sleep disruption.
 - Sleep-quality boundary - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says caffeine may not prevent sleep onset but can still reduce sleep quality after falling asleep.
 - Social-jetlag repair - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] recommends less strong tea and coffee after lunch as part of a broader rhythm-reset routine.
+- Worked morning routine - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] repeats the 90-120 minute delay and relates it to adenosine blockade and afternoon-crash avoidance.
 
 ## Counterevidence & Qualifications
 The sources do not settle a universal caffeine dose, cutoff time, genetic metabolizer adjustment, pregnancy guideline, anxiety boundary, cardiovascular boundary, medication interaction, or withdrawal protocol. People with sleep disorders, panic symptoms, heart conditions, pregnancy, medication interactions, or occupational demands need individualized guidance.
@@ -49,6 +53,7 @@ The sources do not settle a universal caffeine dose, cutoff time, genetic metabo
 - Created a caffeine-specific sleep concept that distinguishes daytime alertness support from late-day sleep pressure disruption.
 - Added the 三五环 work-pressure and sleep-quality examples.
 - Added Talk三联's afternoon caffeine caution inside a social-jetlag repair frame.
+- Reinforced the delayed-caffeine option through the daily-tools episode while keeping its crash-prevention claim source-scoped.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit where caffeine is one cue.

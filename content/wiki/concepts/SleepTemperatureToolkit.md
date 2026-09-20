@@ -5,7 +5,8 @@ tags: [sleep, temperature, circadian-rhythm, health]
 sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
-last_updated: 2026-09-07
+  - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,12 +20,14 @@ The current evidence treats temperature as a parallel control system to light. I
 
 The 三五环 crossover adds a product-mediated version through [[EightSleep|8Sleep]]. The hosts describe a dynamic bed-temperature curve: cooler entry into sleep, lower temperature during deep sleep, more stable temperature during REM, and warming toward wake-up. This does not prove the product's clinical effect, but it sharpens the concept by showing why sleep temperature is a timing and stage-matching problem rather than a single fixed thermostat setting.
 
+The daily-tools episode reinforces the evening half of the toolkit. It describes sleep onset and maintenance as requiring a body-temperature drop, uses hot bathing, showering, or sauna as ways to accelerate later cooling, and adds a simple overnight behavior: exposing the hands, feet, or face when too warm. The exact one-to-three-degree claim and vascular mechanism remain source-scoped.
+
 ## Key Claims
 - Body temperature naturally rises after waking, and the source treats that rise as part of becoming alert.
 - Short cold exposure in the morning can increase adrenaline and later raise core body temperature.
 - Morning movement or exercise can support wakefulness by raising body temperature.
 - Evening heat exposure can help sleep when it produces compensatory cooling afterward.
-- A cool or cold sleep environment is presented as helpful, with the source giving a rough room-temperature reduction target.
+- A cool or cold sleep environment is presented as helpful, with the source giving a rough room-temperature reduction target and suggesting exposure of the hands, feet, or face when overheated.
 - Late-night cold showers may be counterproductive if they increase temperature and alertness.
 - Dynamic bed temperature is presented as useful when it gradually changes with sleep stages and warms toward wake-up, but the product effect remains source-scoped.
 
@@ -35,13 +38,15 @@ The 三五环 crossover adds a product-mediated version through [[EightSleep|8Sl
 - Timing boundary - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] warns that cold showers late at night are likely poorly timed because they can raise core temperature.
 - Dynamic temperature - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] describes 8Sleep's bed temperature as cooling for sleep onset/deep sleep, stabilizing REM, and warming toward wake-up.
 - Product mechanism - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] contrasts dynamic bed-surface temperature with fixed air conditioning, fans, and ordinary cooling blankets.
+- Overnight cooling - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] links hot bathing or sauna to later cooling and suggests exposing hands, feet, or face when overheated in bed.
 
 ## Counterevidence & Qualifications
-The sources do not give a universal bedroom temperature, cold-exposure protocol, sauna protocol, cardiovascular safety screen, product-efficacy proof, or insomnia treatment. Heat and cold exposure can be unsafe or counterproductive depending on medical status, medications, pregnancy, age, heat tolerance, blood pressure, and sleep disorder context. The 8Sleep claims are product-experience and source-scoped.
+The sources do not give a universal bedroom temperature, body-temperature-drop target, cold-exposure protocol, sauna protocol, cardiovascular safety screen, product-efficacy proof, or insomnia treatment. Heat and cold exposure can be unsafe or counterproductive depending on medical status, medications, pregnancy, age, heat tolerance, blood pressure, and sleep disorder context. The vascular-cooling mechanism and 8Sleep claims are source-scoped.
 
 ## What Changed
 - Created a temperature-specific sleep concept distinguishing morning arousal from evening cooling.
 - Added the 8Sleep crossover's dynamic bed-temperature and sleep-stage matching layer.
+- Added the daily-tools episode's overnight heat-loss behavior and strengthened the heat-then-cool sequence.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent daily timing toolkit.

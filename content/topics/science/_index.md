@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1132
+topic_total_pages: 1133
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3174,6 +3174,9 @@ topic_sources:
   - key: "essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831"
     title: "Essentials: Improve Flexibility with Research-Supported Stretching Protocols"
     url: "/wiki/sources/essentials-improve-flexibility-with-research-supported-stretching-protocols-scim2453607831/"
+  - key: "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382"
+    title: "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools"
+    url: "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
   - key: "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263"
     title: "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams"
     url: "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"

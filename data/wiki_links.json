@@ -16055,6 +16055,10 @@
     "title": "Daiichi Sankyo / 第一三共",
     "url": "/wiki/entities/daiichisankyo/"
   },
+  "DailyCircadianPerformanceRoutine": {
+    "title": "Daily Circadian Performance Routine",
+    "url": "/wiki/concepts/dailycircadianperformanceroutine/"
+  },
   "DailyHarvest": {
     "title": "Daily Harvest",
     "url": "/wiki/entities/dailyharvest/"
@@ -64347,6 +64351,10 @@
     "title": "Ultra Wave",
     "url": "/wiki/entities/ultrawave/"
   },
+  "UltradianDeepWorkBlock": {
+    "title": "Ultradian Deep Work Block",
+    "url": "/wiki/concepts/ultradiandeepworkblock/"
+  },
   "UmbertoEco": {
     "title": "翁贝托·艾柯 / Umberto Eco",
     "url": "/wiki/entities/umbertoeco/"
@@ -75074,6 +75082,10 @@
   "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065": {
     "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
     "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+  },
+  "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382": {
+    "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+    "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
   },
   "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263": {
     "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",

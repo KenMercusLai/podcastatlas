@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools](sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382.md) — Huberman Lab Essentials episode organizing morning light, delayed caffeine, protected work, exercise, meals, afternoon light, cooling, and sleep into one adaptable day.
 - [568. Hannibal: Rome's Greatest Enemy (Part 1)](sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410.md) — The Rest Is History episode on Carthaginian recovery in Spain, Hamilcar and Hasdrubal's foundations, Hannibal's formation, Saguntum, and the outbreak of the Second Punic War.
 - [Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo](sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705.md) — Huberman Lab episode with Melissa Ilardo on gene-environment interaction, standing variation, breath-hold diving adaptation, genetic determinism, and gene-editing ethics.
 - [VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟](sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn.md) — 这病说来话长 episode on vaping risk, second- and third-hand exposure, youth initiation prevention, cessation clinics, medication boundaries, and relapse recovery.
@@ -4540,8 +4541,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for episodes on nutrition, mental health, motivation, attention neuroscience, creativity, emotion science, hormone health, AI, neuromodulators, dopamine/procrastination tools, immunology, leadership, health Q&A, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, AI-supported education redesign, relationship science, flexibility, agency/risk, sleep-wake timing, stress biology, and sugar-craving metabolism.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host framing guest discussions, solo Essentials episodes, and listener Q&A on nutrition, motivation, attention, emotion, AI, hormone health, neuromodulators, dopamine/procrastination tools, immunology, leadership, health routines, meditation, adult learning, psychiatry, dog psychology, movement practice, body composition, education redesign, relationship science, flexibility, agency/risk, sleep-wake timing, stress biology, and sugar-craving metabolism.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sleep-wake timing, circadian performance, focused work, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological mechanisms with adaptable routines, circadian performance, focused work, health decisions, and explicit safety boundaries.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
 - [Drownproof](entities/Drownproof.md) — Andy Stumpf book discussed as a practical source for agency, adversity, discipline, vulnerability, and success-boundary tools.
@@ -12927,6 +12928,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Daily Circadian Performance Routine](concepts/DailyCircadianPerformanceRoutine.md) — Whole-day sequencing frame coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and sleep.
+- [Ultradian Deep Work Block](concepts/UltradianDeepWorkBlock.md) — Protected roughly 90-minute work interval with distraction control, alert workspace design, and flexible personal timing.
 - [Barcid Spanish Power Base / 巴卡家族西班牙权力基地](concepts/BarcidSpanishPowerBase.md) — Iberian resource, recruitment, administrative, and loyalty system inherited by Hannibal.
 - [Saguntum War Trigger / 萨贡托战争触发机制](concepts/SaguntumWarTrigger.md) — Escalation from overlapping sphere and alliance claims to siege, surrender demand, and open war.
 - [Gene-Environment Interaction](concepts/GeneEnvironmentInteraction.md) — Multi-timescale framework separating gene expression, training, development, inherited variation, and selection.

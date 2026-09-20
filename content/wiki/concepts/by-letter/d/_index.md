@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7653
+wiki_total_pages: 7655
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "DaigouChannel"
     title: "Daigou Channel / 代购渠道"
     url: "/wiki/concepts/daigouchannel/"
+  - key: "DailyCircadianPerformanceRoutine"
+    title: "Daily Circadian Performance Routine"
+    url: "/wiki/concepts/dailycircadianperformanceroutine/"
   - key: "DailyLeverageReset"
     title: "Daily Leverage Reset"
     url: "/wiki/concepts/dailyleveragereset/"

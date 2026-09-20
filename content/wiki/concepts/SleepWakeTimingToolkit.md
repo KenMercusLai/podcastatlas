@@ -7,7 +7,8 @@ sources:
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
   - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
-last_updated: 2026-09-12
+  - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,8 +26,10 @@ The 三五环 crossover adds a Chinese consumer-health version of the same hiera
 
 The Talk三联 social-jetlag episode adds the institutional layer. Timing cues are not chosen in isolation: school starts, late work, indoor light, nighttime screens, meal timing, bowel routines, and late exercise can force social time away from biological time. This strengthens the toolkit's practical hierarchy while warning that sleep advice can become another KPI if trackers or strict routines override body signals.
 
+The daily-tools episode extends the toolkit from sleep preparation into daytime performance. It sequences morning walking and light, delayed caffeine, one protected work bout, exercise, meals, post-meal movement, afternoon light, dinner, heat-driven cooling, and a cool room. This reinforces the whole-day model while making personal fit explicit: effective existing work times and unavoidable schedules take precedence over copying the host's clock.
+
 ## Key Claims
-- Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior.
+- Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior, with work, exercise, meals, and post-meal movement included alongside light, caffeine, temperature, and darkness.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
 - Light, temperature, caffeine, food, movement, naps, exercise, and social timing can either reinforce or disrupt sleep-wake timing, including during jet lag, shift work, or unusually early wake-ups.
 - Evening darkness, reduced overhead light, calming routines, and a cool sleep environment protect the sleep side of the cycle.
@@ -44,16 +47,16 @@ The Talk三联 social-jetlag episode adds the institutional layer. Timing cues a
 - Rhythm and daytime function - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] prioritizes stable sleep rhythm and uses daytime energy as a sleep-quality signal.
 - Product automation - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] describes 8Sleep automating temperature and wake timing after learning the user's sleep habits.
 - Social timing conflict - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] adds [[SocialJetlag|社会时差]] through workday/rest-day drift, adolescent school starts, indoor light, nighttime screens, food timing, bowel timing, and late-night exercise.
+- Daytime sequencing - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] connects walking, focused work, exercise, meals, afternoon light, dinner, cooling, and sleep as [[DailyCircadianPerformanceRoutine|one adaptable daily sequence]].
 
 ## Counterevidence & Qualifications
-The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, social-jetlag, and travel claims remain source-scoped.
+The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, social-jetlag, meal-timing, optic-flow, and travel claims remain source-scoped.
 
 ## What Changed
-- Added Gina Poe's sleep-stage timing layer to the existing 24-hour cue toolkit.
-- Clarified that consistency matters because the night contains different physiological windows, not only because routines are behaviorally convenient.
-- Qualified bedtime advice for stably shifted circadian rhythms.
-- Added the 三五环 crossover's rhythm-first, morning-light, daytime-energy, and automated sleep-environment examples.
-- Added Talk三联's social-jetlag layer linking sleep timing to school, work, light environment, meals, bowel routines, late exercise, and tracker over-management.
+- Added the daily-tools episode's work, exercise, meal, post-meal movement, and cooling sequence.
+- Clarified that the 24-hour toolkit can support daytime performance as well as sleep.
+- Preserved personal schedule fit over copying one host routine.
+- Retained the stage-architecture, consumer sleep-tech, and social-jetlag layers from earlier sources.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.

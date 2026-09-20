@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools
+
+Added source `essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382`; created `DailyCircadianPerformanceRoutine` and `UltradianDeepWorkBlock`; and updated `AndrewHuberman`, `HubermanLab`, `MorningLightCircadianAnchoring`, `SleepWakeTimingToolkit`, `CaffeineAdenosineSleepTiming`, `TemperatureMinimumClockShifting`, `SleepTemperatureToolkit`, and `SleepSupplementBoundary`. Core synthesis: daily performance and sleep form one timing system coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and darkness, while personal function takes precedence over copying one host routine. No settled contradiction found; optic-flow, fasting, ultradian, meal, exercise-ratio, cytokine, EPA, serotonin, cooling, and supplement-dose claims remain source-scoped.
+
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 ## [2026-09-21] ingest | PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血
@@ -20614,6 +20618,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 568. Hannibal: Rome's Greatest Enemy (Part 1)
 
 Added source `568-hannibal-romes-greatest-enemy-part-1-glt7606824410`; created `HamilcarBarca`, `HasdrubalTheHandsome`, `Carthage`, `NewCarthage`, `Saguntum`, `BarcidSpanishPowerBase`, and `SaguntumWarTrigger`; and updated `HannibalBarca`, overview, and index. Core synthesis: Carthage's postwar recovery builds an Iberian resource and command system that Hannibal inherits, while Saguntum converts overlapping sphere and alliance claims into open war through siege, delayed intervention, sack, and a surrender demand. No settled contradiction found; the oath, treaty interpretation, exact figures, atrocity details, speeches, motives, and degree of Barcid independence remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

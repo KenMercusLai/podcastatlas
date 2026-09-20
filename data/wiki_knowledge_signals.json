@@ -6930,9 +6930,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 1,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7136,9 +7136,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewPalmer": {
@@ -14687,9 +14694,9 @@
       "url": "/wiki/concepts/cabinetexhaustionmanagement/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -14711,9 +14718,16 @@
           "show": "Talk三联",
           "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
           "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaiJing": {
@@ -25989,6 +26003,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/daigouchannel/"
+    },
+    "DailyCircadianPerformanceRoutine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/dailycircadianperformanceroutine/"
     },
     "DairyCategoryPremiumization": {
       "episode_count": 1,
@@ -55642,9 +55672,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 1,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -55848,9 +55878,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HudecShanghaiArchitect": {
@@ -80755,9 +80792,9 @@
       "url": "/wiki/concepts/moralslanderreframing/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -80779,9 +80816,16 @@
           "show": "Talk三联",
           "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
           "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -105154,9 +105198,9 @@
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -105164,15 +105208,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -105187,15 +105238,22 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -105224,9 +105282,16 @@
           "show": "Talk三联",
           "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
           "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "Slicy": {
@@ -112577,9 +112642,9 @@
       "url": "/wiki/entities/televisionbroadcastslimited/"
     },
     "TemperatureMinimumClockShifting": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -112587,9 +112652,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/temperatureminimumclockshifting/"
     },
     "TemporaryFamilyHealing": {
@@ -116686,6 +116758,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/ultabeauty/"
+    },
+    "UltradianDeepWorkBlock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5427393382 [SCIM5427393382].md",
+          "key": "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382",
+          "show": "Huberman Lab",
+          "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
+          "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/ultradiandeepworkblock/"
     },
     "UnauthorizedFrontierCommandIntervention": {
       "episode_count": 4,
