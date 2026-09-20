@@ -4,8 +4,9 @@ type: concept
 tags: [concussion, brain-injury, recovery, medicine]
 sources:
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
+  - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-28
+last_updated: 2026-09-21
 ---
 
 # Concussion Active Recovery
@@ -18,6 +19,8 @@ Wood treats significant head injury as a medical-evaluation problem first. Scans
 
 The practical recovery path is staged. Low-level aerobic activity comes first when tolerated, followed by skill-specific work, full training, and return to play only when risk of another head injury is managed. Persistent symptoms may call for physical therapy, vestibular therapy, ocular-motor training, eye tracking, or virtual/augmented-reality approaches.
 
+The smell-and-taste Essentials episode adds olfactory injury as a narrower monitoring branch: head impact can shear olfactory fibers at the cribriform plate, and smell recovery may provide one useful but incomplete recovery signal alongside balance, cognition, sleep, and other clinical measures.
+
 ## Key Claims
 - Significant head injury should receive appropriate medical evaluation and scans when needed.
 - Hyperthermia, alcohol, very sugary refined carbohydrates, and possibly acute caffeine are treated as avoidable strain after concussion.
@@ -25,6 +28,7 @@ The practical recovery path is staged. Low-level aerobic activity comes first wh
 - Return to activity should start as soon as tolerated without risking another head injury.
 - Progression should stay below the symptom-worsening threshold before moving to sport- or skill-specific work.
 - Creatine, magnesium, omega-3s, melatonin, branched-chain amino acids, choline, Boswellia, and Enzogenol are discussed as possible supports, not definitive cures.
+- Smell loss can follow traumatic damage to olfactory fibers, but smell recovery is only one component of neurological recovery.
 
 ## Evidence
 - Evaluation priority - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] says significant head injury should receive appropriate medical evaluation and scans when needed.
@@ -32,12 +36,13 @@ The practical recovery path is staged. Low-level aerobic activity comes first wh
 - Active progression - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] says return to activity now starts as tolerated, beginning with low-level aerobic work below symptom-worsening threshold.
 - Rehabilitation options - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] mentions vestibular therapy, ocular-motor work, eye tracking, physical therapy, and virtual or augmented reality for persistent symptoms.
 - Supplement caution - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] discusses creatine, magnesium, omega-3s, melatonin, branched-chain amino acids, choline, Boswellia, and Enzogenol as evidence-dependent possibilities.
+- Olfactory marker - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] describes cribriform-plate fiber injury and treats smell recovery as an incomplete indicator alongside balance, cognition, and sleep.
 
 ## Counterevidence & Qualifications
-This page is not concussion medical advice. The source explicitly puts significant head injury inside medical evaluation, and the supplement discussion is not presented as a definitive protocol or substitute for clinical care.
+This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements nor smell training are presented as definitive protocols or substitutes for clinical care. Improvement in smell alone does not establish readiness to return to risky activity.
 
 ## What Changed
-- Created the concept for Wood's concussion evaluation, metabolic-strain, supplement-caution, and staged activity-recovery frame.
+- Added olfactory-fiber injury and smell recovery as a limited monitoring branch rather than a stand-alone clearance measure.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - clinical safety boundary for head injury and supplements.
@@ -46,3 +51,4 @@ This page is not concussion medical advice. The source explicitly puts significa
 - [[ExerciseSpecificBrainAdaptation]] - activity branch used in staged return.
 - [[SustainableHealthOptimization]] - broader routine frame that should yield to acute medical context.
 - [[Neuroplasticity]] - recovery and adaptation mechanism that should not be forced past safety limits.
+- [[OlfactoryTraining]] - smell-recovery practice discussed as promising but not definitive after injury.

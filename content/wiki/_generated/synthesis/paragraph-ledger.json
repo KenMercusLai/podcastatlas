@@ -673,12 +673,13 @@
       "629aab64da366ba5cc20419e9037b6bf5d77abe32d266168f1c31e099e11ca14",
       "7bf9209f512d940138b95867fd9f7733a6ac8ac6233cd470744b92dd1b6b56ce",
       "aae77a229da98888d63f9d41142d5b1dedb2975dc51cdc1140d730bfb8e365c2",
-      "865069f3a3017d1669bdcce326b5528c5335e05b6679baf6e82771aba81fb9b5"
+      "865069f3a3017d1669bdcce326b5528c5335e05b6679baf6e82771aba81fb9b5",
+      "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d"
     ],
-    "paragraph_count": 673
+    "paragraph_count": 674
   },
-  "overview_commit": "76926743e0dc391aa3586cb950f39655ca30b874",
-  "overview_digest": "ea383ae5cf5ed08322a23a4fa77ffd8a0471c501a8f2d3826b9cc5b9ff94ff75",
+  "overview_commit": "3a61c937b219f5be665631dda8501fa0b4d020f3",
+  "overview_digest": "5d365cd5429fd598e777f23c5191851db55f04d67a87c1cbdc20cd81aa4f9f01",
   "paragraphs": [
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -20278,6 +20279,31 @@
         "Streltsy",
         "TheRestIsHistory",
         "VasilyGolitsyn"
+      ]
+    },
+    {
+      "id": "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826|Essentials: How Smell, Taste & Pheromones Shape Behavior]], a [[HubermanLab]] solo episode in which [[AndrewHuberman]] links olfactory anatomy, respiratory phase, gustation, and interpersonal chemical cues. It adds [[HumanChemicalSignaling]], [[InhalationArousalLearning]], and [[TasteNutrientHazardDetection]], while extending [[Chemosensation]], [[OlfactoryTraining]], and [[ConcussionActiveRecovery]]. Its core synthesis is that smell and taste are action-guiding chemical interfaces and that human-produced chemicals can influence physiology without proving a canonical human pheromone system. No settled contradiction is recorded; nasal-breathing learning effects, peppermint attention, olfactory-neurogenesis supports, fat taste, smell recovery after injury, menstrual synchrony, the human vomeronasal organ, and handshake sampling remain source-scoped, while animal pheromone effects are not generalized to humans and ammonia exposure carries tissue and eye risk.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "Chemosensation",
+        "ConcussionActiveRecovery",
+        "HubermanLab",
+        "HumanChemicalSignaling",
+        "InhalationArousalLearning",
+        "OlfactoryTraining",
+        "TasteNutrientHazardDetection",
+        "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826"
       ]
     }
   ],

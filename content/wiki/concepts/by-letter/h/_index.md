@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7683
+wiki_total_pages: 7686
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "HumanCapitalInflationHedge"
     title: "Human Capital Inflation Hedge"
     url: "/wiki/concepts/humancapitalinflationhedge/"
+  - key: "HumanChemicalSignaling"
+    title: "Human Chemical Signaling"
+    url: "/wiki/concepts/humanchemicalsignaling/"
   - key: "HumanCommunityDataLicensing"
     title: "Human Community Data Licensing"
     url: "/wiki/concepts/humancommunitydatalicensing/"

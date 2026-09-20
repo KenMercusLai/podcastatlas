@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Smell, Taste & Pheromones Shape Behavior](sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826.md) — Huberman Lab Essentials episode on olfactory pathways, inhalation-linked arousal, smell training, gustatory nutrient and hazard detection, and the boundary between human chemical signaling and established pheromones.
 - [562. Peter the Great: The Rise of Russia (Part 1)](sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202.md) — The Rest Is History episode on the 1682 succession violence, Sophia's regency, Peter's practical and maritime formation, and his 1689 rise to effective power.
 - [Contracts of Love & Money That Make or Break Relationships | James Sexton](sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218.md) — Huberman Lab interview on prenups as relationship design, marriage defaults, preventive check-ins, vulnerability, and source-scoped divorce observations.
 - [563. Peter the Great: Bloodbath in the Kremlin (Part 2)](sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819.md) — The Rest Is History episode on the Great Embassy, practical Western learning, coercive cultural reform, the Streltsy purge, and Peter's pivot toward war with Sweden.
@@ -4583,8 +4584,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sleep-wake timing, circadian performance, focused work, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological mechanisms with adaptable routines, circadian performance, focused work, health decisions, and explicit safety boundaries.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sensory biology, sleep-wake timing, circadian performance, focused work, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological and sensory mechanisms with adaptable routines, focused work, health decisions, and explicit safety boundaries.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
 - [Drownproof](entities/Drownproof.md) — Andy Stumpf book discussed as a practical source for agency, adversity, discipline, vulnerability, and success-boundary tools.
@@ -12970,6 +12971,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Human Chemical Signaling](concepts/HumanChemicalSignaling.md) — Chemicals from tears, skin, sweat, breath, or contact can affect others without establishing a canonical human pheromone system.
+- [Inhalation, Arousal, and Learning](concepts/InhalationArousalLearning.md) — Source-scoped account of respiratory phase, nasal breathing, alertness, attention, learning, and irritant safety.
+- [Taste as Nutrient and Hazard Detection](concepts/TasteNutrientHazardDetection.md) — Gustation as front-line chemical sampling for energy, electrolytes, toxins, spoilage, amino acids, and possible fat sensing.
 - [Marriage Default Contract](concepts/MarriageDefaultContract.md) — Frame that marriage creates state-supplied legal and economic rules even without private negotiation.
 - [Prenuptial Agreement As Relationship Design](concepts/PrenuptialAgreementAsRelationshipDesign.md) — Prenup negotiation as purpose, disclosure, safety, and expectation design before crisis.
 - [Preventive Relationship Maintenance](concepts/PreventiveRelationshipMaintenance.md) — Recurring conversations and small acts that address change before resentment hardens.
@@ -19953,7 +19957,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trust As Business Asset](concepts/TrustAsBusinessAsset.md) — Idea that trustworthy mission-driven companies create valuable trust that financial gravity can try to capture.
 - [Ocean Memory](concepts/OceanMemory.md) — Ocean-humanities frame treating seawater, ice, organisms, archives, chemistry, trauma, and cultural loss as ways the past is carried forward.
 - [Milieu-Specific Analysis](concepts/MilieuSpecificAnalysis.md) — Method asking how concepts built on land change underwater through pressure, buoyancy, orientation, saturation, smell, and sound.
-- [Chemosensation](concepts/Chemosensation.md) — Chemical sensing through smell and taste, used to rethink underwater memory, nonhuman perception, pollution, and acidification.
+- [Chemosensation](concepts/Chemosensation.md) — Chemical sensing across human smell, taste, social cues, underwater memory, nonhuman perception, pollution, and acidification.
 - [Ecological Memory](concepts/EcologicalMemory.md) — Pattern where past environmental exposure shapes present capacity and future response in organisms and systems.
 - [Multispecies Archives](concepts/MultispeciesArchives.md) — Archive frame distributed across humans, seawater, microbes, coral, abalone, whale songs, wreckage, rocks, and sediments.
 - [Ocean Acidification](concepts/OceanAcidification.md) — Climate-linked seawater chemistry change treated as both shell-building harm and sensory or memory disruption.

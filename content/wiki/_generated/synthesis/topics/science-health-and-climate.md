@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-21
-as_of_overview_commit: 38c7e75b1208545276a0291299e20c1fb0feda9d
-input_digest: 5fc8683034864c1b03f13f0b7afe08576201ff70de2f39e17e0ea246ffc410f6
+as_of_overview_commit: 3a61c937b219f5be665631dda8501fa0b4d020f3
+input_digest: 90121f47f650c1b39e1cc49ff83b72dedc701ba784cddc3259106a0101cc70c0
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof. The Nepal follow-up deepens the climate branch by joining hazard mechanics to warning time, repeated displacement, victim identification, ritual loss, hydropower exposure, and delayed loss-and-damage finance. Comedy remains a nonclinical boundary case for creative feedback rather than clinical evidence. The Gardner nutrition source adds that diet findings require strong comparators, replacement context, adherence, and endpoint discipline: mostly-plant quality, protein adequacy, ultra-processed-food pragmatism, and fermented-food microbiome signals should not be flattened into one universal prescription.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof. The Nepal follow-up deepens the climate branch by joining hazard mechanics to warning time, repeated displacement, victim identification, ritual loss, hydropower exposure, and delayed loss-and-damage finance. Comedy remains a nonclinical boundary case for creative feedback rather than clinical evidence. The Gardner nutrition source adds that diet findings require strong comparators, replacement context, adherence, and endpoint discipline: mostly-plant quality, protein adequacy, ultra-processed-food pragmatism, and fermented-food microbiome signals should not be flattened into one universal prescription. The newest chemosensation source links nasal odor capture, respiratory-phase arousal, taste-based nutrient and hazard sampling, smell recovery after injury, and interpersonal chemical effects while preserving uncertainty around performance effects, fat taste, and human pheromones.
 
 ## Cross-source Findings
 
@@ -617,3 +617,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The interview summarizes multiple studies but does not replace their complete protocols, statistical analyses, replication records, or individualized clinical guidance.
 - Protein targets, ultra-processed-food classifications, raw-milk and gluten claims, environmental judgments, and diet-trial outcomes depend on population, comparator, replacement, adherence, and endpoint.
 - The fermented-food trial was small; its inflammatory-marker and fiber-subgroup findings were secondary or exploratory and do not establish long-term clinical benefit.
+
+### Chemosensation Links Sensing State And Social Signals
+
+[[Chemosensation]] now spans olfactory pathways, [[TasteNutrientHazardDetection]], [[InhalationArousalLearning]], [[OlfactoryTraining]], and [[HumanChemicalSignaling]]: smell and taste guide approach or avoidance, breathing may modulate alertness, and human chemicals may affect physiology without establishing a canonical pheromone system.
+
+**Evidence:** [[Chemosensation]], [[TasteNutrientHazardDetection]], [[InhalationArousalLearning]], [[OlfactoryTraining]], [[HumanChemicalSignaling]], [[ConcussionActiveRecovery]], [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]]
+
+**Qualifications:**
+
+- Nasal-breathing learning effects, peppermint attention, olfactory-neurogenesis supports, fat taste, and smell recovery after injury remain source-scoped.
+- Smell recovery is only one possible head-injury indicator and does not replace clinical evaluation, balance, cognition, sleep assessment, or staged recovery.
+- Animal pheromone effects are not evidence that the same pathways or outcomes operate in humans.

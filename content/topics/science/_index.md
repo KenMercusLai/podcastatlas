@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1141
+topic_total_pages: 1143
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -283,6 +283,9 @@ topic_concepts:
   - key: "CausalDeterminism"
     title: "Causal Determinism / 因果决定论"
     url: "/wiki/concepts/causaldeterminism/"
+  - key: "Chemosensation"
+    title: "Chemosensation"
+    url: "/wiki/concepts/chemosensation/"
   - key: "ChestPainEmergencyEscalation"
     title: "Chest Pain Emergency Escalation / 胸痛急症升级"
     url: "/wiki/concepts/chestpainemergencyescalation/"
@@ -3183,6 +3186,9 @@ topic_sources:
   - key: "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510"
     title: "Essentials: How Hearing & Balance Enhance Focus & Learning"
     url: "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+  - key: "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826"
+    title: "Essentials: How Smell, Taste & Pheromones Shape Behavior"
+    url: "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
   - key: "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
     title: "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin"
     url: "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"

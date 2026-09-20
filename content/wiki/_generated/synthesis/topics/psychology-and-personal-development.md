@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-21
-as_of_overview_commit: 38c7e75b1208545276a0291299e20c1fb0feda9d
-input_digest: e9048e0b939463143e5b6c9cc8700a6126fb4be9ab67a5a4fe4ef211deb6bbb8
+as_of_overview_commit: 3a61c937b219f5be665631dda8501fa0b4d020f3
+input_digest: 11fb0178a9b7553d38b5862387c1ea594108394496ec99c07c2e5d2038889a4e
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription. The smell-and-taste Essentials episode adds a narrow state-regulation boundary: breathing phase and odor cues may affect arousal or attention, but stronger activation is not automatically safer or more effective, and human pheromone interpretations remain unsettled.
 
 ## Cross-source Findings
 
@@ -1045,3 +1045,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - The episode is nutrition research and public education, not individualized medical, eating-disorder, athletic, or weight-management advice.
 - Personal improvement after a dietary change does not by itself identify one universal mechanism or prove that the same pattern fits others.
 - Protein targets, raw-milk and gluten responses, and microbiome findings remain population-, comparator-, outcome-, and source-dependent.
+
+### Chemosensory State Tools Need Evidence And Safety Boundaries
+
+[[InhalationArousalLearning]] and [[HumanChemicalSignaling]] add that breathing phase and chemical cues may influence alertness, learning, or social physiology, while [[OlfactoryTraining]] and [[Chemosensation]] keep these effects distinct from universal performance tools or proof of human pheromones.
+
+**Evidence:** [[InhalationArousalLearning]], [[HumanChemicalSignaling]], [[OlfactoryTraining]], [[Chemosensation]], [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]]
+
+**Qualifications:**
+
+- The condensed source does not provide full study methods, sample sizes, effect magnitudes, or replication status.
+- Ammonia-linked arousal carries olfactory-tissue and eye risk, and stronger arousal should not be treated as a general learning benefit.
+- Animal pheromone effects, menstrual synchrony, the human vomeronasal organ, and handshake sampling should not be generalized beyond the source's stated uncertainty.

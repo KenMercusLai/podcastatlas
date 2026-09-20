@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7683
+wiki_total_pages: 7686
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "InhalationPoisonPublicSafety"
     title: "Inhalation Poison Public Safety"
     url: "/wiki/concepts/inhalationpoisonpublicsafety/"
+  - key: "InhalationArousalLearning"
+    title: "Inhalation, Arousal, and Learning"
+    url: "/wiki/concepts/inhalationarousallearning/"
   - key: "InnovativeDrugCommercialInsuranceCatalog"
     title: "Innovative Drug Commercial Insurance Catalog"
     url: "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"

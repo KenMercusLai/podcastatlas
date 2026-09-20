@@ -6930,9 +6930,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 1,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7157,6 +7157,13 @@
           "show": "Huberman Lab",
           "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
           "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        },
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
         }
       ],
       "updated": "2026-09-21",
@@ -18047,6 +18054,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cheerchanyu/"
     },
+    "Chemosensation": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "02026-jue-podcast-v2 [02026-jue-podcast-v2].md",
+          "key": "melody-jue-ocean-memory-wxagwid1oeg",
+          "show": "Long Now",
+          "title": "Melody Jue: Ocean Memory",
+          "url": "/wiki/sources/melody-jue-ocean-memory-wxagwid1oeg/"
+        },
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/chemosensation/"
+    },
     "ChenAnni": {
       "episode_count": 1,
       "show_count": 1,
@@ -23085,9 +23115,9 @@
       "url": "/wiki/concepts/concerninfluencesorting/"
     },
     "ConcussionActiveRecovery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -23095,9 +23125,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/concussionactiverecovery/"
     },
     "CondimentOutboundAcquisition": {
@@ -56173,9 +56210,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 1,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -56400,6 +56437,13 @@
           "show": "Huberman Lab",
           "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
           "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        },
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
         }
       ],
       "updated": "2026-09-21",
@@ -56676,6 +56720,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/humancenteredaieducation/"
+    },
+    "HumanChemicalSignaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/humanchemicalsignaling/"
     },
     "HumanCommunityDataLicensing": {
       "episode_count": 1,
@@ -59181,6 +59241,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/ingredientflavorlabeltransparency/"
+    },
+    "InhalationArousalLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/inhalationarousallearning/"
     },
     "InnerDemonSymbolicReading": {
       "episode_count": 2,
@@ -85749,9 +85825,9 @@
       "url": "/wiki/concepts/olderadultstereotyperesistance/"
     },
     "OlfactoryTraining": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -85759,9 +85835,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/olfactorytraining/"
     },
     "Olipop": {
@@ -113356,6 +113439,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/tastefirstcpgpositioning/"
+    },
+    "TasteNutrientHazardDetection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3853502826 [SCIM3853502826].md",
+          "key": "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
+          "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/tastenutrienthazarddetection/"
     },
     "TateWalker": {
       "episode_count": 1,

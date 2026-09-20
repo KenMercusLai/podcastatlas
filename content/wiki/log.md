@@ -20734,3 +20734,11 @@ Added source `562-peter-the-great-the-rise-of-russia-part-1-glt5535116202`; crea
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Essentials: How Smell, Taste & Pheromones Shape Behavior
+
+Added source `essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826`; created `HumanChemicalSignaling`, `InhalationArousalLearning`, and `TasteNutrientHazardDetection`; and updated `AndrewHuberman`, `HubermanLab`, `Chemosensation`, `OlfactoryTraining`, `ConcussionActiveRecovery`, overview, index, and downstream synthesis. Core synthesis: smell and taste are action-guiding chemical interfaces, inhalation may shape alertness and learning, and human-produced chemicals can influence physiology without establishing a canonical human pheromone system. No settled contradiction found; breathing, peppermint, neurogenesis, fat-taste, smell-recovery, menstrual-synchrony, vomeronasal-organ, and handshake-sampling claims remain source-scoped, and animal pheromone effects are not generalized to humans.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

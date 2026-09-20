@@ -14988,6 +14988,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Chemosensation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ChenAnni": [
     {
       "key": "technology",
@@ -82792,6 +82799,13 @@
     }
   ],
   "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826": [
     {
       "key": "science",
       "label": "Science",
