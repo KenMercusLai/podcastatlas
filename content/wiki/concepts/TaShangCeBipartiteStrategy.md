@@ -4,7 +4,8 @@ type: concept
 tags: [strategy, late-han, three-kingdoms, jiangdong, yangtze]
 sources:
   - zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh
+last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The concept is source-bounded to [[LuSu|鲁肃]]'s first strategic audience with
 
 Hanji 1052 frames this as a two-part天下 strategy that precedes [[ZhugeLiang|诸葛亮]]'s later three-part logic. The page preserves that as an early strategic imagination, not as a final historical map, because the source itself notes that later Red Cliffs and three-kingdom outcomes qualify the plan.
 
+Hanji 1082 makes the comparison explicit. It treats Lu Su's “汉室不可复兴” as the earlier hard diagnosis and Zhuge Liang's later “汉室可兴” as a mobilizing legitimacy script for [[LiuBei|刘备]]. Both strategies begin from dynastic breakdown, but they assign different political value to restoration language and organize different regional coalitions around that judgment.
+
 ## Key Claims
 - The strategy begins by replacing Han-restoration rhetoric with a diagnosis of power reality.
 - Jiangdong is treated as the necessary base, not merely as a refuge.
@@ -25,18 +28,21 @@ Hanji 1052 frames this as a two-part天下 strategy that precedes [[ZhugeLiang|�
 - Huang Zu and Liu Biao define the proposed southern-central targets that would let Sun Quan control the river line.
 - The plan tests Sun Quan's talent judgment because he values Lu Su's advice despite Zhang Zhao's criticism.
 - Later three-kingdom outcomes qualify the two-part ambition without erasing its strategic importance.
+- Its contrast with the [[LongzhongPlan|隆中对]] separates a shared diagnosis of breakdown from different public legitimacy programs.
 
 ## Evidence
 - Strategic premise: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] reports Lu Su saying that Han restoration is not practical and Cao Cao cannot be quickly destroyed.
 - Jiangdong base: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] has Lu Su tell Sun Quan to keep Jiangdong secure and wait on changes in the wider situation.
 - Yangtze expansion: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] names Huang Zu, Liu Biao, and Yangtze control as the staged path from regional base to larger ambition.
 - Sun Quan talent judgment: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says Sun Quan continues to value and reward Lu Su even after Zhang Zhao criticizes him.
+- Later comparison: [[zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh|Hanji 1082]] places Lu Su's diagnosis beside Zhuge Liang's later formula and calls the two plans a strategic pair behind the tripartite field.
 
 ## Counterevidence & Qualifications
-The strategy is not the same as the later three-kingdom settlement. The source explicitly treats it as an earlier two-part plan and says later events, especially Red Cliffs and the emergence of a three-part order, change the practical map. It also does not prove that Lu Su alone created Eastern Wu strategy; Zhou Yu's recommendation and Sun Quan's reception remain part of the evidence.
+The strategy is not the same as the later three-kingdom settlement. Hanji 1052 treats it as an earlier two-part plan and says later events, especially Red Cliffs and the emergence of a three-part order, change the practical map. Hanji 1082's “seven-year time difference” and “strategic double helix” are host metaphors, and its contrast does not prove Lu Su and Zhuge Liang held the private beliefs attributed to them. Nor does the source set prove that Lu Su alone created Eastern Wu strategy; Zhou Yu's recommendation and Sun Quan's reception remain part of the evidence.
 
 ## What Changed
 - Created the concept from Hanji 1052's presentation of Lu Su's bed-side strategy.
+- Added the qualified comparison with the Longzhong Plan's different use of Han-restoration language.
 
 ## Related Concepts
 - [[RiverCorridorStrategicBase|河流走廊战略根据地]] - geographic complement because Lu Su's plan turns Yangtze control into the route from Jiangdong survival to larger ambition.
@@ -45,3 +51,4 @@ The strategy is not the same as the later three-kingdom settlement. The source e
 - [[TalentAsStateTreasure|以贤臣为宝]] - talent-use relationship because Sun Quan's acceptance of Lu Su shows strategic counsel becoming regime capacity.
 - [[CharacterReadingDelegationTrust|识人授权信任]] - personnel relationship because Sun Quan must read Lu Su against Zhang Zhao's negative evaluation.
 - [[SuccessionAuthorityConsolidation|继位权威整合]] - succession relationship because the plan gives the young successor an outward strategic program while internal authority is still forming.
+- [[LongzhongPlan|隆中对]] - contrast because the later plan retains Han restoration as political legitimacy while organizing a tripartite coalition path.

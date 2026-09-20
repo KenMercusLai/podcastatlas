@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1082丨诸葛亮一段话点破乱世风云，太敢说了](sources/zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh.md) — 司马徽、徐庶举荐与三顾茅庐通向隆中对，并把兴汉合法性、孙刘结盟、荆益根据地和内外治理合成长期战略。
 - [《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？](sources/zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3.md) — 刘备早期的执行力与根据地困境、隆中对的战略排除和聚焦，以及襄阳识人网络与陶侃自律故事。
 - [The End of the World Is AI? An Existential Threat](sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b.md) — The Intelligence on uncertain AI extinction risk, the OpenAI-Hugging Face incident, coordination and slowdown, the oral turn in politics, reading decline, and India's changing cheese market.
 - [尼泊爾特大洪災現場：一場沒有遺體的葬禮](sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504.md) — 端聞 follow-up on Nepal's August 2026 flood, body-absent funerals, DNA identification, repeated displacement, cross-border warning failure, hydropower damage, and loss-and-damage finance.
@@ -2552,6 +2553,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
 
 ## Entities
+- [徐庶 / Xu Shu (late Han)](entities/XuShuLateHan.md) — 向刘备举荐诸葛亮并坚持应由刘备亲自拜访的荆州人才引荐者。
 - [陶侃 / Tao Kan](entities/TaoKan.md) — 以运甓自励抵抗闲散和安逸侵蚀、在当前来源中作为长期准备寓言的东晋将领。
 - [庞德公 / Pang Degong (late Han)](entities/PangDegongLateHan.md) — 以士林评价使诸葛亮、庞统的潜在能力获得社会可见性的荆州名士。
 - [司马徽 / Sima Hui (late Han)](entities/SimaHuiLateHan.md) — 以“卧龙、凤雏”推荐把荆州本地声誉传递给刘备的人才评价者。

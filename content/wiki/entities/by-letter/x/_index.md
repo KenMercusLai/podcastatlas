@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 10288
+wiki_total_pages: 10289
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "XuGuanghanWesternHan"
     title: "徐广汉 / Xu Guanghan (Western Han)"
     url: "/wiki/entities/xuguanghanwesternhan/"
+  - key: "XuShuLateHan"
+    title: "徐庶 / Xu Shu (late Han)"
+    url: "/wiki/entities/xushulatehan/"
   - key: "XuBeihong"
     title: "徐悲鸿 / Xu Beihong"
     url: "/wiki/entities/xubeihong/"
