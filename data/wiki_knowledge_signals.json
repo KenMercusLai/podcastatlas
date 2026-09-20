@@ -6930,9 +6930,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 30,
+      "episode_count": 31,
       "show_count": 1,
-      "source_note_count": 30,
+      "source_note_count": 31,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7143,6 +7143,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "SCIM1135697510 [SCIM1135697510].md",
+          "key": "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
+          "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
         }
       ],
       "updated": "2026-09-21",
@@ -56083,9 +56090,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 30,
+      "episode_count": 31,
       "show_count": 1,
-      "source_note_count": 30,
+      "source_note_count": 31,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -56296,6 +56303,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "SCIM1135697510 [SCIM1135697510].md",
+          "key": "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
+          "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
         }
       ],
       "updated": "2026-09-21",
@@ -102192,6 +102206,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/selectiveanthemcanonization/"
     },
+    "SelectiveAuditoryAttention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1135697510 [SCIM1135697510].md",
+          "key": "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
+          "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/selectiveauditoryattention/"
+    },
     "SelectiveNeuralStimulationPrecision": {
       "episode_count": 1,
       "show_count": 1,
@@ -107283,6 +107313,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/sophiezhang/"
+    },
+    "SoundBasedStateRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1135697510 [SCIM1135697510].md",
+          "key": "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
+          "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/soundbasedstateregulation/"
     },
     "SouthAfrica": {
       "episode_count": 4,
@@ -118892,6 +118938,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
+    },
+    "VestibularLearningActivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1135697510 [SCIM1135697510].md",
+          "key": "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hearing & Balance Enhance Focus & Learning",
+          "url": "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/vestibularlearningactivation/"
     },
     "VeterinaryMedicalMisinformation": {
       "episode_count": 1,

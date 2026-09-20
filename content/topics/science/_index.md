@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1137
+topic_total_pages: 1141
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1615,6 +1615,9 @@ topic_concepts:
   - key: "SeizureFirstAidBoundary"
     title: "Seizure First-Aid Boundary / 抽搐急救边界"
     url: "/wiki/concepts/seizurefirstaidboundary/"
+  - key: "SelectiveAuditoryAttention"
+    title: "Selective Auditory Attention"
+    url: "/wiki/concepts/selectiveauditoryattention/"
   - key: "SelectiveNeuralStimulationPrecision"
     title: "Selective Neural Stimulation Precision"
     url: "/wiki/concepts/selectiveneuralstimulationprecision/"
@@ -1729,6 +1732,9 @@ topic_concepts:
   - key: "SolarGeoengineering"
     title: "Solar Geoengineering"
     url: "/wiki/concepts/solargeoengineering/"
+  - key: "SoundBasedStateRegulation"
+    title: "Sound-Based State Regulation"
+    url: "/wiki/concepts/soundbasedstateregulation/"
   - key: "SpaceBasedAIInfrastructure"
     title: "Space Based AI Infrastructure"
     url: "/wiki/concepts/spacebasedaiinfrastructure/"
@@ -1915,6 +1921,9 @@ topic_concepts:
   - key: "VaccineScheduleTrustRebuilding"
     title: "Vaccine Schedule Trust Rebuilding"
     url: "/wiki/concepts/vaccinescheduletrustrebuilding/"
+  - key: "VestibularLearningActivation"
+    title: "Vestibular Learning Activation"
+    url: "/wiki/concepts/vestibularlearningactivation/"
   - key: "VirtualCellWorldModel"
     title: "Virtual Cell World Model"
     url: "/wiki/concepts/virtualcellworldmodel/"
@@ -3171,6 +3180,9 @@ topic_sources:
   - key: "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352"
     title: "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi"
     url: "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+  - key: "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510"
+    title: "Essentials: How Hearing & Balance Enhance Focus & Learning"
+    url: "/wiki/sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510/"
   - key: "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
     title: "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin"
     url: "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"

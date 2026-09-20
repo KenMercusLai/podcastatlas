@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How Hearing & Balance Enhance Focus & Learning](sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510.md) — Huberman Lab Essentials episode on auditory transduction, sound localization, selective listening, binaural beats, low-level white noise, visual-vestibular integration, dynamic balance, and learning-state claims.
 - [564. The Great Northern War: The Battle of the Baltic (Part 1)](sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070.md) — The Rest Is History episode on Sweden's Baltic dominance, Narva, Peter's military rebuilding, Saint Petersburg, Augustus's defeat, and Charles XII's decision to invade Russia.
 - [How Different Diets Impact Your Health | Dr. Christopher Gardner](sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616.md) — Huberman Lab interview on diet-pattern evidence, trial equipoise, whole-food mostly-plant eating, ultra-processed-food pragmatism, protein requirements, and fermented-food response.
 - [VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊](sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy.md) — 这病说来话长 episode on asymptomatic young-adult hypertension, home measurement, medication continuity, follow-up, lifestyle support, and multi-organ complication risk.
@@ -12957,6 +12958,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Sound-Based State Regulation](concepts/SoundBasedStateRegulation.md) — Conditional use of binaural beats or low-level background noise to influence relaxation, pain, alertness, focus, or learning-relevant states.
+- [Selective Auditory Attention](concepts/SelectiveAuditoryAttention.md) — Effortful extraction of one sound stream or feature from competing audio using localization cues and targeted listening.
+- [Vestibular Learning Activation](concepts/VestibularLearningActivation.md) — Visual-vestibular balance framework separating movement-skill training from tentative mood and post-movement learning claims.
 - [Defeat-Driven Military Reform](concepts/DefeatDrivenMilitaryReform.md) — Conversion of battlefield failure into diagnosis, mobilization, training, production, and institutional adaptation.
 - [Diet Trial Equipoise](concepts/DietTrialEquipoise.md) — Nutrition-trial principle requiring strong feasible comparators, prespecified outcomes, protected analysis, and transparent interpretation.
 - [Whole-Food Mostly-Plant Pattern](concepts/WholeFoodMostlyPlantPattern.md) — Plant-forward diet-quality direction that allows animal foods and prioritizes taste, adherence, access, and replacement context.

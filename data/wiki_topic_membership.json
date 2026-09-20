@@ -61648,6 +61648,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SelectiveAuditoryAttention": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SelectiveMotionSmoothing": [
     {
       "key": "technology",
@@ -64313,6 +64320,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SoundBasedStateRegulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SouthAfrica": [
@@ -72862,6 +72876,13 @@
     }
   ],
   "Vesta": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "VestibularLearningActivation": [
     {
       "key": "science",
       "label": "Science",
@@ -82717,6 +82738,13 @@
     }
   ],
   "essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-how-hearing-balance-enhance-focus-learning-scim1135697510": [
     {
       "key": "science",
       "label": "Science",

@@ -20690,3 +20690,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 564. The Great Northern War: The Battle of the Baltic (Part 1)
 
 Added source `564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070`; created `BattleOfNarva`, `SaintPetersburg`, `CatherineI`, `AugustusTheStrong`, and `DefeatDrivenMilitaryReform`; and updated `CharlesXII`, `GreatNorthernWar`, `SwedishEmpire`, `PeterTheGreat`, `RussianEmpire`, `ModernizingAutocracy`, and index. Core synthesis: Narva is both the peak of Sweden's opening military advantage and the diagnostic shock behind Russia's rebuilding, while Charles's pursuit of Augustus gives Peter time to secure the Neva and found Saint Petersburg before the Swedish march on Moscow. No settled contradiction found; figures, dialogue, personal motives, Catherine's early biography, construction mortality, and direct reform causality remain source-scoped.
+
+## [2026-09-21] ingest | Essentials: How Hearing & Balance Enhance Focus & Learning
+
+Added source `essentials-how-hearing-balance-enhance-focus-learning-scim1135697510`; created `SoundBasedStateRegulation`, `SelectiveAuditoryAttention`, and `VestibularLearningActivation`; and updated `AndrewHuberman`, `HubermanLab`, overview, and index. Core synthesis: auditory localization and selective listening can improve encoding conditions, while binaural beats, low-level adult white noise, and safe dynamic balance practice are conditional state tools rather than universal learning protocols. No settled contradiction found; anxiety, pain, dopamine, infant tonotopic-map, mood, and post-movement learning claims remain source-scoped because the condensed episode omits study sizes, effect magnitudes, and full methods.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

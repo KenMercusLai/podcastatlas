@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7675
+wiki_total_pages: 7678
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "SelectiveAnthemCanonization"
     title: "Selective Anthem Canonization"
     url: "/wiki/concepts/selectiveanthemcanonization/"
+  - key: "SelectiveAuditoryAttention"
+    title: "Selective Auditory Attention"
+    url: "/wiki/concepts/selectiveauditoryattention/"
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"
@@ -1094,6 +1097,9 @@ wiki_pages:
   - key: "SongYuanMaritimeTradeCenter"
     title: "Song-Yuan Maritime Trade Center"
     url: "/wiki/concepts/songyuanmaritimetradecenter/"
+  - key: "SoundBasedStateRegulation"
+    title: "Sound-Based State Regulation"
+    url: "/wiki/concepts/soundbasedstateregulation/"
   - key: "SouthAfricanWhiteMigrantLabor"
     title: "South African White Migrant Labor"
     url: "/wiki/concepts/southafricanwhitemigrantlabor/"

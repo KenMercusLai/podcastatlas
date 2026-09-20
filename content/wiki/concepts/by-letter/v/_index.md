@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7675
+wiki_total_pages: 7678
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "VerticalWorkflowAI"
     title: "Vertical Workflow AI"
     url: "/wiki/concepts/verticalworkflowai/"
+  - key: "VestibularLearningActivation"
+    title: "Vestibular Learning Activation"
+    url: "/wiki/concepts/vestibularlearningactivation/"
   - key: "VeteranMeritCliqueSupervision"
     title: "Veteran Merit-Clique Supervision / 功臣旧将监督"
     url: "/wiki/concepts/veteranmeritcliquesupervision/"
