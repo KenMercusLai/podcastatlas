@@ -15871,6 +15871,10 @@
     "title": "Cycle Worldview / 周期世界观",
     "url": "/wiki/concepts/cycleworldview/"
   },
+  "CycloplegicRefraction": {
+    "title": "Cycloplegic Refraction / 睫状肌麻痹验光",
+    "url": "/wiki/concepts/cycloplegicrefraction/"
+  },
   "Cyclospora": {
     "title": "Cyclospora",
     "url": "/wiki/entities/cyclospora/"
@@ -46607,6 +46611,10 @@
     "title": "Ornithological Fieldwork",
     "url": "/wiki/concepts/ornithologicalfieldwork/"
   },
+  "OrthokeratologyMyopiaControl": {
+    "title": "Orthokeratology Myopia Control / 角膜塑形镜近视控制",
+    "url": "/wiki/concepts/orthokeratologymyopiacontrol/"
+  },
   "OrvilleNelson": {
     "title": "Orville Nelson",
     "url": "/wiki/entities/orvillenelson/"
@@ -47750,6 +47758,10 @@
   "PediatricLanguageDelayEarlyIntervention": {
     "title": "Pediatric Language Delay Early Intervention",
     "url": "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
+  },
+  "PediatricMyopiaControl": {
+    "title": "Pediatric Myopia Control / 儿童青少年近视防控",
+    "url": "/wiki/concepts/pediatricmyopiacontrol/"
   },
   "PedroSanchez": {
     "title": "Pedro Sanchez",
@@ -77382,6 +77394,10 @@
   "vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1": {
     "title": "Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春",
     "url": "/wiki/sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1/"
+  },
+  "vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc": {
+    "title": "VOL.163近视的人那么多，我该怎么办？眼科主任支招！成人/儿童的近视防控手段",
+    "url": "/wiki/sources/vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc/"
   },
   "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1": {
     "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",

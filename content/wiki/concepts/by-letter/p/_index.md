@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7656
+wiki_total_pages: 7659
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "PediatricLanguageDelayEarlyIntervention"
     title: "Pediatric Language Delay Early Intervention"
     url: "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
+  - key: "PediatricMyopiaControl"
+    title: "Pediatric Myopia Control / 儿童青少年近视防控"
+    url: "/wiki/concepts/pediatricmyopiacontrol/"
   - key: "PeerGroupExperienceSelling"
     title: "Peer Group Experience Selling"
     url: "/wiki/concepts/peergroupexperienceselling/"

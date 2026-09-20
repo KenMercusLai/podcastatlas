@@ -20634,3 +20634,11 @@ Added source `567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658`;
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.163近视的人那么多，我该怎么办？眼科主任支招！成人/儿童的近视防控手段
+
+Added source `vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc`; created `PediatricMyopiaControl`, `OrthokeratologyMyopiaControl`, and `CycloplegicRefraction`; and updated `MyopiaSurgeryRiskBoundary`, `Atang`, `ZheBingShuoLaiHuaChang`, overview, and index. Core synthesis: established true myopia is controlled rather than cured; behavior is the foundation, measurements need longitudinal interpretation, and optical or medication options require individualized fitting and follow-up. No settled contradiction found; the nickname-only guest identity is not merged with Mao Chunjie, and clinical thresholds and effect estimates remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

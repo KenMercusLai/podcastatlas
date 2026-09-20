@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7656
+wiki_total_pages: 7659
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "OrnithologicalFieldwork"
     title: "Ornithological Fieldwork"
     url: "/wiki/concepts/ornithologicalfieldwork/"
+  - key: "OrthokeratologyMyopiaControl"
+    title: "Orthokeratology Myopia Control / 角膜塑形镜近视控制"
+    url: "/wiki/concepts/orthokeratologymyopiacontrol/"
   - key: "OSLevelContext"
     title: "OS-Level Context"
     url: "/wiki/concepts/oslevelcontext/"
