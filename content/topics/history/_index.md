@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1883
+topic_total_pages: 1882
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -82,9 +82,6 @@ topic_concepts:
   - key: "BattlefieldEncirclementLogistics"
     title: "Battlefield Encirclement Logistics / 战场围困与断粮"
     url: "/wiki/concepts/battlefieldencirclementlogistics/"
-  - key: "BattlefieldInformationControl"
-    title: "Battlefield Information Control / 战场信息控制"
-    url: "/wiki/concepts/battlefieldinformationcontrol/"
   - key: "BelleEpoque"
     title: "Belle Epoque / 美好年代"
     url: "/wiki/concepts/belleepoque/"

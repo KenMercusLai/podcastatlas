@@ -11174,6 +11174,155 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
+    "BattlefieldInformationControl": {
+      "episode_count": 20,
+      "show_count": 1,
+      "source_note_count": 20,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
+          "key": "zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路 [lvR-24L6J8f6zvpFCMqgkNMgywa1].md",
+          "key": "zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
+          "key": "zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？ [lhgD8vSvUAf5oi9aEfh0wxABmzwV].md",
+          "key": "zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史 [lggGw3vmoNu-3WvzaBvg943v5QcG].md",
+          "key": "zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂 [lvLvu057-tnz3hAL6oodHyDvZvbd].md",
+          "key": "zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》986丨天欲其亡，必先令其狂",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决 [loFQ0pQ8N9rRFVFtTUNAHiSY0AvE].md",
+          "key": "zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线 [ljDmXF6beJ8Ju0GmVM9cp48GY0ON].md",
+          "key": "zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的 [lhE_-LMb1zrziPBOnGg02gmNmB4l].md",
+          "key": "zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭 [lhs6miq2aA3AvnnY_pRxTVKfxGvY].md",
+          "key": "zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1） [loiz8Ge_a39tMIGAjoOL2SPZrI5i].md",
+          "key": "zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2） [li2c9d04JPEpY4t0MqUWJt__bLi4].md",
+          "key": "zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1） [ltkz7bwQgkcQEssdfbN9Unf5E05l].md",
+          "key": "zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人” [ls5NvUnmhAKVefd2OXn4ZDyOoB4L].md",
+          "key": "zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2） [lqY1Uu29XBFiPo9E0KQ6ObkL3oAY].md",
+          "key": "zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？ [lsYw3EItcNZfEXL1L6vfh2Gbtaoy].md",
+          "key": "zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》117-2｜学着点！秦朝武将竟然如此高情商？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-117-2-xuezhedian-qinchao-wujiang-jingran-ruci-gaoqingshang-lsyw3eitcnzfexl1l6vfh2gbtaoy/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2） [lvqcTraZN8ddKCNP-lhSPZzMZMns].md",
+          "key": "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（2）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-2-lvqctrazn8ddkcnp-lhspzzmzmns/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1） [loXyybm3NJrTnUDydAfWzu9JP9jz].md",
+          "key": "zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》94丨杀神白起，长平之战中的“草包”名将？（1）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-94-shashen-baiqi-changping-zhi-zhan-zhong-de-caobao-mingjiang-1-loxyybm3njrtnudydafwzu9jp9jz/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！ [loPPR83sDq5hHESmQihCKwmHPl2h].md",
+          "key": "zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》87丨“狭路相逢勇者胜”终于找到出处了！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-87-xialu-xiangfeng-yongzhe-sheng-zhongyu-zhaodao-chuchu-le-loppr83sdq5hhesmqihckwmhpl2h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究 [lvmyIKhf0LgEkiPW_ZIEBCW29zLE].md",
+          "key": "zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/battlefieldinformationcontrol/"
+    },
     "Bayer": {
       "episode_count": 1,
       "show_count": 1,
@@ -72151,9 +72300,9 @@
       "url": "/wiki/entities/lulinglatehan/"
     },
     "LulongRoadLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？ [ln8ZkBLsgq3zi7kRRHGjPnB4MoKb].md",
@@ -72161,9 +72310,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究 [lvmyIKhf0LgEkiPW_ZIEBCW29zLE].md",
+          "key": "zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/lulongroadlatehan/"
     },
     "LumbarDiscHerniation": {
@@ -111069,9 +111225,9 @@
       "url": "/wiki/entities/thulesociety/"
     },
     "TianChou": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真 [lvawRCAnDBh628RcKukOSGArH7v2].md",
@@ -111086,9 +111242,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究 [lvmyIKhf0LgEkiPW_ZIEBCW29zLE].md",
+          "key": "zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/tianchou/"
     },
     "TianFengLateHan": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究](sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle.md) — 田畴以卢龙古道绕开雨阻与乌桓正面防线，曹操用“秋冬再进军”的路旁木板掩护真实机动。
 - [《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力](sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x.md) — 曹操在乌桓凯旋后奖励曾反对出征者，以侥幸成功不等于稳健决策来保护未来谏言，并与袁绍杀田丰形成对照。
 - [《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃](sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u.md) — 郭嘉之死与曹操谋略能力损失、田畴辞封、刘表错失北伐窗口，以及崔州平和诸葛亮的荆州交游。
 - [《资治通鉴·汉纪》1082丨诸葛亮一段话点破乱世风云，太敢说了](sources/zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh.md) — 司马徽、徐庶举荐与三顾茅庐通向隆中对，并把兴汉合法性、孙刘结盟、荆益根据地和内外治理合成长期战略。
@@ -2635,7 +2636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [赵云 / Zhao Yun](entities/ZhaoYun.md) — 在长坂坡救回刘禅、战后又受命治理桂阳的刘备部将。
 - [刘禅 / Liu Chan](entities/LiuChan.md) — 长坂坡溃败中由赵云救回的刘备幼子。
 - [凌统 / Ling Tong](entities/LingTong.md) — 东吴将领，先参与突破沔口水障，后在甘宁血仇未解时仍承担掩护救援的留守任务。
-- [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Difficult northern approach proposed by Tian Chou for Cao Cao's surprise movement against Wuhuan.
+- [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Long-disused northern approach reopened for Cao Cao's concealed movement behind the Wuhuan front.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
 - [Kiyoshi Kurokawa](entities/KiyoshiKurokawa.md) — Fukushima commission leader used as a model for conflict-free membership, public-safety focus, authority, and transparent findings.
 - [DRASTIC](entities/DRASTIC.md) — Decentralized COVID-origin research collective praised in the source for scientific sharing and surfacing the DEFUSE proposal.
@@ -5378,7 +5379,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [成龙 / Cheng Long (Late Han)](entities/ChengLongLateHan.md) — Zang Hong's同乡 admirer who remonstrates against Yuan Shao and chooses death with Zang Hong.
 - [刘虞 / Liu Yu (Late Han)](entities/LiuYuLateHan.md) — Youzhou authority whose supply dispute with Gongsun Zan precedes the failed humane attack, execution, and anti-Gongsun legitimacy backlash.
 - [张岐 / Zhang Qi (Late Han)](entities/ZhangQiLateHan.md) — Former Lelang administrator sent by Yuan Shao and Han Fu to offer Liu Yu the imperial title in Hanji 954.
-- [田畴 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist, Xu Wu Mountain order-builder, Lulong Road guide, and principled refuser of Cao Cao's repeated enfeoffment.
+- [田畴 / Tian Chou](entities/TianChou.md) — Liu Yu loyalist, Xu Wu Mountain order-builder, Lulong Road strategist, and principled refuser of Cao Cao's repeated enfeoffment.
 - [段迅 / Duan Xun (Late Han)](entities/DuanXunLateHan.md) — Court envoy whose edict for Liu Yu and Gongsun Zan is overwhelmed by Gongsun Zan's coercive accusation and execution scene.
 - [居庸关 / Juyong Pass](entities/JuyongPass.md) — Youzhou pass used as Liu Yu's failed refuge and Tian Chou's frontier route toward the Han court.
 - [右北平 / Youbeiping Commandery](entities/YoubeipingCommandery.md) — Frontier commandery associated with Tian Chou's local credibility and Youzhou route setting.
@@ -15324,7 +15325,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Private Fief Expansion Through State War / 以国战扩私邑](concepts/PrivateFiefExpansionThroughStateWar.md) — pattern where a minister redirects state war toward expansion of a private fief.
 - [Private Punishment Without Procedure / 无程序私刑](concepts/PrivatePunishmentWithoutProcedure.md) — failure mode where elite suspicion turns into punitive violence without investigation or adjudication.
 - [Two Rats Courage Maxim / 两鼠斗穴勇者胜](concepts/TwoRatsCourageMaxim.md) — Zhao She's narrow-route maxim behind "狭路相逢勇者胜," treated as disciplined operational courage rather than reckless aggression.
-- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern in which commanders shape what enemies see before decisive movement, from Zhao She and Bai Qi to Xiang Yu's hidden Pengcheng return.
+- [Battlefield Information Control / 战场信息控制](concepts/BattlefieldInformationControl.md) — Command pattern joining controlled observation, plausible false signals, and concealed capability to shape enemy decisions.
 - [High-Ground Timing Advantage / 制高点时机优势](concepts/HighGroundTimingAdvantage.md) — Tactical principle where reaching decisive terrain first, as Xu Li advises at Eyu, converts timing into battlefield advantage.
 - [Elite Fiscal-Law Compliance / 贵族税法同遵](concepts/EliteFiscalLawCompliance.md) — State-capacity pattern where tax and law must bind elite households, not only ordinary subjects, if public authority is to hold.
 - [Interest Reframing Persuasion / 利益重构式说服](concepts/InterestReframingPersuasion.md) — Persuasion pattern where a request or defection is translated into the target's own risk, legitimacy, and material-interest map.

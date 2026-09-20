@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究
+
+Added source `zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle`; updated `TianChou`, `LulongRoadLateHan`, and `BattlefieldInformationControl`, including migration of the information-control page to `synthesis-v1`. Core synthesis: Tian Chou's local knowledge turns the disused Lulong Road into a hidden rear approach, while Cao Cao's plausible autumn-or-winter notice makes the visible withdrawal confirm the wrong model of the campaign. No settled contradiction found; the unidentified U.S. manual, unsupported 47% statistic, opponent-psychology reconstruction, exact distances, road age, engineering scale, and dialogue remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利
 
 Added source `zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv`; created `BailangMountainLateHan` and `SupuyanLateHan`; updated `GongsunKangLateHan`, `YuanXiLateHan`, `TadunLateHan`, and `PressureReleaseInfightingStrategy`. Core synthesis: Cao Cao's withdrawal after White Wolf Mountain removes the common-enemy pressure binding Gongsun Kang to the Yuan refugees, so Liaodong self-preservation produces the killings without a Cao-side invasion. No settled contradiction found; the 207 CE date and names are normalized cautiously, while force totals, the claim that White Wolf Mountain itself pacified Liaodong, banquet details, dialogue, motives, and literary scene-setting remain source-scoped.
@@ -20366,6 +20370,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？
 
 Added source `zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3`; created `StrategicExclusionAndFocus` and `TaoKan`; updated `LiuBei`, `ZhugeLiang`, `LongzhongPlan`, `PangTong`, `SimaHuiLateHan`, `PangDegongLateHan`, `EliteEndorsementReputationMaking`, and `index.md`. Core synthesis: strong execution does not create a durable position without a strategy that excludes premature fights, concentrates scarce resources on a base and coalition path, and adapts sequence when conditions change. No settled contradiction found; “no prior strategy” is narrowed to absence of an integrated territorial program, while founder-adviser suspicion, factional explanations of Guan Yu's death, exact dialogue, motives, and the “近日不错” textual claim remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-20] lint | Wiki health check
 
