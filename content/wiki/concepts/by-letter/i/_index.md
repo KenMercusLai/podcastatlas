@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7625
+wiki_total_pages: 7630
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -815,9 +815,18 @@ wiki_pages:
   - key: "IrritableBowelSyndromeDiagnosticBoundary"
     title: "Irritable Bowel Syndrome Diagnostic Boundary"
     url: "/wiki/concepts/irritablebowelsyndromediagnosticboundary/"
+  - key: "IslamIslamismConflation"
+    title: "Islam-Islamism Conflation"
+    url: "/wiki/concepts/islamislamismconflation/"
+  - key: "Islamism"
+    title: "Islamism"
+    url: "/wiki/concepts/islamism/"
   - key: "IslamistDemocraticTrustProblem"
     title: "Islamist Democratic Trust Problem"
     url: "/wiki/concepts/islamistdemocratictrustproblem/"
+  - key: "IslamistEntryism"
+    title: "Islamist Entryism"
+    url: "/wiki/concepts/islamistentryism/"
   - key: "IslandAdventureInversion"
     title: "Island Adventure Inversion / 荒岛冒险反写"
     url: "/wiki/concepts/islandadventureinversion/"

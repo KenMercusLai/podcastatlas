@@ -7095,6 +7095,29 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/andrewhuberman/"
     },
+    "AndrewPalmer": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/andrewpalmer/"
+    },
     "AndrogenInterventionClinicalBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -21197,6 +21220,50 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/coatue/"
     },
+    "CocaCola": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "155.美貌能当饭吃吗？想赚钱该做点啥？拮据时应避免什么行为？经济学思维有什么用？ [920167210].md",
+          "key": "155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210",
+          "show": "蜜獾吃书",
+          "title": "155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？",
+          "url": "/wiki/sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210/"
+        },
+        {
+          "episode_file": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器 [lmB62L64uOjzsq1uVRr0Tj81Tg1p].md",
+          "key": "ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p",
+          "show": "一劳永逸",
+          "title": "EP90 从美加墨世界杯看懂期权—华尔街的终极武器",
+          "url": "/wiki/sources/ep90-cong-meijiamo-shijiebei-kan-dong-qiquan-huaerjie-de-zhongji-wuqi-lmb62l64uojzsq1uvrr0tj81tg1p/"
+        },
+        {
+          "episode_file": "EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？ [lh4q7VpcFqOYNSSW23DBwcerkN7i].md",
+          "key": "ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i",
+          "show": "一劳永逸",
+          "title": "EP80 与查理·芒格的跨时空对话：当眼睛失明时，我们看见什么？",
+          "url": "/wiki/sources/ep80-yu-chali-mangge-de-kuashikong-duihua-dang-yanjing-shiming-shi-women-kanjian-shenme-lh4q7vpcfqoynssw23dbwcerkn7i/"
+        },
+        {
+          "episode_file": "95.都市传说：猎奇故事和我们内心深处的焦虑 [723831611].md",
+          "key": "95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611",
+          "show": "蜜獾吃书",
+          "title": "95.都市传说：猎奇故事和我们内心深处的焦虑",
+          "url": "/wiki/sources/95-dushi-chuanshuo-lieqi-gushi-he-women-neixin-shenchu-de-jiaolv-723831611/"
+        },
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/cocacola/"
+    },
     "Codex": {
       "episode_count": 17,
       "show_count": 7,
@@ -23634,6 +23701,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/coronaryarterycalciummidlifescreening/"
+    },
+    "CorporateTrainingComplianceRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/corporatetrainingcomplianceritual/"
     },
     "CorrectiveAdviceNonconversion": {
       "episode_count": 4,
@@ -58391,6 +58474,43 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/internalcapacitybeforewar/"
     },
+    "InternalRevenueService": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-TylerShultzPart2-v3 [TSR-S4-TylerShultzPart2-v3].md",
+          "key": "tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3",
+          "show": "The Social Radars",
+          "title": "Tyler Shultz, Theranos Whistleblower (Part 2)",
+          "url": "/wiki/sources/tsr-s4-tylershultzpart2-v3-tsr-s4-tylershultzpart2-v3/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7639444f1dd62f757e58d34a4ce5f532_28685445 [default.mp3_ywr3ahjkcgo_7639444f1dd62f757e58d34a4ce5f532_28685445].md",
+          "key": "the-leaked-tapes-that-show-how-the-rich-avoid-taxes",
+          "show": "Planet Money",
+          "title": "The leaked tapes that show how the rich avoid taxes",
+          "url": "/wiki/sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes/"
+        },
+        {
+          "episode_file": "一人公司的另一种可能：AI 负责经营，人类负责热爱 ｜ 英文访谈 S10E14 [33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7].md",
+          "key": "yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7",
+          "show": "What's Next｜科技早知道",
+          "title": "一人公司的另一种可能：AI 负责经营，人类负责热爱｜英文访谈 S10E14",
+          "url": "/wiki/sources/yi-ren-gongsi-de-lingyizhong-keneng-ai-fuze-jingying-renlei-fuze-reai-yingwen-fangtan-s10e14-33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7/"
+        },
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/internalrevenueservice/"
+    },
     "InternalSafetyResearchExposure": {
       "episode_count": 2,
       "show_count": 2,
@@ -59266,6 +59386,54 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/isabellaoffrance/"
+    },
+    "IslamIslamismConflation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/islamislamismconflation/"
+    },
+    "Islamism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/islamism/"
+    },
+    "IslamistEntryism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/islamistentryism/"
     },
     "IslandAdventureInversion": {
       "episode_count": 1,
@@ -90929,6 +91097,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
     },
+    "PreventProgramme": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/preventprogramme/"
+    },
     "PreventiveFloodGovernance": {
       "episode_count": 2,
       "show_count": 1,
@@ -103035,6 +103219,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/shinglesvaccinedementiasignal/"
     },
+    "ShiraAviona": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/shiraaviona/"
+    },
     "ShiraOvide": {
       "episode_count": 1,
       "show_count": 1,
@@ -105372,6 +105572,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/songtsam/"
+    },
+    "SonnyLoughran": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/sonnyloughran/"
     },
     "SoobinKim": {
       "episode_count": 1,
@@ -111087,6 +111303,36 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/tatewalker/"
     },
+    "TaxEnforcementCapacity": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？ [lmmmfz4Ii__Hx7TrbXV2rCPKllCQ].md",
+          "key": "zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》86丨历史上靠收租的将军竟然是他？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-86-lishishang-kao-shouzu-de-jiangjun-jingran-shi-ta-lmmmfz4ii-hx7trbxv2rcpkllcq/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7639444f1dd62f757e58d34a4ce5f532_28685445 [default.mp3_ywr3ahjkcgo_7639444f1dd62f757e58d34a4ce5f532_28685445].md",
+          "key": "the-leaked-tapes-that-show-how-the-rich-avoid-taxes",
+          "show": "Planet Money",
+          "title": "The leaked tapes that show how the rich avoid taxes",
+          "url": "/wiki/sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes/"
+        },
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/taxenforcementcapacity/"
+    },
     "TaxationStabilityTradeoff": {
       "episode_count": 2,
       "show_count": 1,
@@ -114274,6 +114520,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/transcranialmagneticstimulationfordepression/"
+    },
+    "TransferPricing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Islamism in Britain： what is the threat？ [6aa9164ffca3d5c77b4b383a].md",
+          "key": "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a",
+          "show": "Economist Podcasts",
+          "title": "Islamism in Britain: what is the threat?",
+          "url": "/wiki/sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/transferpricing/"
     },
     "TransitHubCommanderyControl": {
       "episode_count": 3,

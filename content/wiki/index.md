@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Islamism in Britain: what is the threat?](sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a.md) — The Intelligence on distinguishing Islam from Islamism, non-violent entryism, PREVENT, the Coca-Cola transfer-pricing case, IRS capacity, and ineffective corporate training.
 - [PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血](sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho.md) — 这病说来话长 interview with veterinary oncologist Yang Xiaodan on feline stress disease, veterinary cancer diagnosis and treatment, comparative medicine, screening, and misinformation.
 - [Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029.md) — Tomorrow Today interview on institutional government innovation, open data, policy leverage, shared logistics, procurement, global AI governance, and infrastructure sovereignty.
 - [JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms](sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207.md) — All-In interview with JD Vance on border and manufacturing policy, Iran and inflation, deficits, electricity, AI cyber governance, H-1B restrictions, benefit fraud, alliances, and the midterms.
@@ -2576,6 +2577,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Sonny Loughran](entities/SonnyLoughran.md) — Economist Britain correspondent distinguishing Islam from Islamism and violent extremism from non-violent institutional influence.
+- [Shira Aviona](entities/ShiraAviona.md) — Economist U.S. business correspondent explaining transfer pricing and the Coca-Cola tax dispute.
+- [PREVENT Programme](entities/PreventProgramme.md) — British counter-radicalisation and safeguarding programme caught between discrimination concerns and possible under-reporting.
 - [杨晓丹 / Yang Xiaodan](entities/YangXiaodan.md) — Veterinary oncologist and public educator represented through small-animal cancer care, comparative medicine, and evidence boundaries.
 - [CoCom / 巴黎统筹委员会](entities/CoCom.md) — Cold War export-control coalition used to examine incentive-dependent enforcement and modern AI-control analogies.
 - [Wassenaar Arrangement / 瓦森纳安排](entities/WassenaarArrangement.md) — Post-Cold War multilateral framework for conventional-arms and dual-use export coordination.
@@ -5482,7 +5486,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Madhya Pradesh](entities/MadhyaPradesh.md) — BJP-ruled Indian state listed as having passed a uniform civil-code version.
 - [Khurshid Ahmed](entities/KhurshidAhmed.md) — Uttarakhand Muslim social activist whose objection grounds the source's personal-law conflict.
 - [Indian Muslims](entities/IndianMuslims.md) — Minority community most directly affected by the source's uniform civil-code and personal-law debate.
-- [Andrew Palmer](entities/AndrewPalmer.md) — The Intelligence voice introducing the Bartleby workplace-advice satire segment.
+- [Andrew Palmer](entities/AndrewPalmer.md) — The Intelligence management voice using satire to examine workplace advice and completion-first corporate training.
 - [Bartleby Column](entities/BartlebyColumn.md) — Economist management-satire format used to turn public controversies into workplace advice.
 - [Whatnot](entities/Whatnot.md) — Live-shopping marketplace that fits Western demand around collectibles, fast auctions, card breaks, and room-level rewards.
 - [Geely Automobile / 吉利汽车](entities/GeelyAutomobile.md) — Chinese automaker whose source-scoped governance update links Li Shufu, An Conghui, and Zeekr integration.
@@ -10937,7 +10941,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sahil Lavingia](entities/SahilLavingia.md) — Gumroad founder used to ground AI-era OPC in sales, support, trust, automation, and public-service software tradeoffs.
 - [Gumroad](entities/Gumroad.md) — Creator-commerce company case for a VC-to-minimalist transition, small-team automation, AI support, and creator-tool go-to-market.
 - [Patreon](entities/Patreon.md) — Creator-platform counterpoint to Gumroad where sales, story, audience fit, and supporter models matter alongside software.
-- [Internal Revenue Service](entities/InternalRevenueService.md) — U.S. tax agency used in the episode to frame public-service digitalization and government service constraints.
+- [Internal Revenue Service](entities/InternalRevenueService.md) — U.S. tax agency represented through public-service delivery, whistleblowing channels, shelter enforcement, and multinational litigation.
 - [Department of Government Efficiency](entities/DepartmentOfGovernmentEfficiency.md) — Government-efficiency context in the Sahil Lavingia interview, linked to IRS public-service software work.
 - [老舍 / Lao She](entities/LaoShe.md) — Chinese writer presented by 蜜獾吃书 as a humane satirist of etiquette failure, medical scams, family power, workplace renqing, controlled humor, and ordinary-life suffocation.
 - [《离婚》 / Divorce](entities/LihunNovel.md) — Lao She novel read by 蜜獾吃书 as a comic but claustrophobic Beiping office-and-marriage world.
@@ -12438,7 +12442,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charlie Munger](entities/CharlieMunger.md) — Investor reference for inversion, irreversible-error avoidance, business-quality judgment, and the value of intangible consumer trust.
 - [See's Candies](entities/SeesCandies.md) — Candy company used as the Munger/Buffett case for gift trust, pricing power, and the shift from cigar-butt investing to great businesses.
 - [American Express](entities/AmericanExpress.md) — Payments and travel-services company used as a crisis case for testing whether customer and merchant trust survived scandal.
-- [Coca-Cola](entities/CocaCola.md) — Consumer beverage company used as a long-duration habit and brand-memory case in the Munger/Buffett investment discussion.
+- [Coca-Cola](entities/CocaCola.md) — Global beverage company represented through consumer habit, investing, rumor, marginal pricing, and a major transfer-pricing dispute.
 - [Futu Securities](entities/FutuSecurities.md) — Cross-border brokerage platform discussed through Chinese-language UX, community investing, mainland solicitation, and regulatory cleanup.
 - [Tiger Brokers](entities/TigerBrokers.md) — Overseas brokerage platform discussed through mainland investor onboarding, marketing, and the funding-route problem behind account access.
 - [Longbridge](entities/Longbridge.md) — Brokerage platform named in EP89 as part of the cross-border brokerage cleanup affecting overseas securities access.
@@ -12895,6 +12899,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Islamism](concepts/Islamism.md) — Political ideology seeking to organize government or public life around claimed Islamic principles, distinct from Islam and Muslim identity.
+- [Islam-Islamism Conflation](concepts/IslamIslamismConflation.md) — Dual category error that can stigmatize Muslims while granting organized Islamists unearned representative authority.
+- [Islamist Entryism](concepts/IslamistEntryism.md) — Non-violent strategy of seeking disproportionate institutional influence while obscuring harder ideological commitments.
+- [Transfer Pricing](concepts/TransferPricing.md) — Necessary intra-group pricing mechanism that can become a disputed channel for allocating profit and intangible value across jurisdictions.
+- [Corporate Training Compliance Ritual](concepts/CorporateTrainingComplianceRitual.md) — Completion-first workplace learning that proves attendance without reliably producing understanding or changed behavior.
 - [Veterinary Oncology / 兽医肿瘤学](concepts/VeterinaryOncology.md) — Companion-animal cancer diagnosis, staging, treatment, and quality-of-life decisions under species and evidence constraints.
 - [Comparative Medicine / 比较医学](concepts/ComparativeMedicine.md) — Translation of mechanisms and techniques across human and animal medicine without assuming species equivalence.
 - [Feline Stress-Related Urinary Disease / 猫应激相关泌尿疾病](concepts/FelineStressRelatedUrinaryDisease.md) — Context linking feline stress and household environment to urinary signs while preserving diagnostic and emergency boundaries.
@@ -18345,7 +18354,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tax Treaty Arbitrage](concepts/TaxTreatyArbitrage.md) — Use of treaty mismatches or ambiguity to reduce tax liability across jurisdictions.
 - [Economic Substance Doctrine](concepts/EconomicSubstanceDoctrine.md) — Tax-law test asking whether a transaction has meaningful non-tax economic purpose.
 - [Tax Shelter Disclosure Regulation](concepts/TaxShelterDisclosureRegulation.md) — Rule mechanism requiring shelter users and advisers to identify themselves for enforcement.
-- [Tax Enforcement Capacity](concepts/TaxEnforcementCapacity.md) — State-capacity problem of detecting, disclosing, and challenging complex tax shelters despite resource and political constraints.
+- [Tax Enforcement Capacity](concepts/TaxEnforcementCapacity.md) — State capacity to identify, investigate, litigate, and collect contested obligations despite elite resistance and resource asymmetry.
 - [Middle-Income Trap](concepts/MiddleIncomeTrap.md) — Development problem where countries become too expensive for low-wage manufacturing before they can innovate like rich economies.
 - [Subsidized Assembly Industrialization](concepts/SubsidizedAssemblyIndustrialization.md) — Factory-growth pattern where incentives attract assembly work without local control of high-value components or technology.
 - [Industrial Subsidy Dependence](concepts/IndustrialSubsidyDependence.md) — Fragility created when an industrial hub remains viable only because public incentives keep firms there.

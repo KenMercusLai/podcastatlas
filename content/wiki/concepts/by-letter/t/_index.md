@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7625
+wiki_total_pages: 7630
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "TranscranialMagneticStimulationForDepression"
     title: "Transcranial Magnetic Stimulation for Depression"
     url: "/wiki/concepts/transcranialmagneticstimulationfordepression/"
+  - key: "TransferPricing"
+    title: "Transfer Pricing"
+    url: "/wiki/concepts/transferpricing/"
   - key: "TransformationAsExit"
     title: "Transformation As Exit"
     url: "/wiki/concepts/transformationasexit/"

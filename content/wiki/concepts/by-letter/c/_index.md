@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7625
+wiki_total_pages: 7630
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "CorporateTheologyCapitalControl"
     title: "Corporate Theology And Capital Control"
     url: "/wiki/concepts/corporatetheologycapitalcontrol/"
+  - key: "CorporateTrainingComplianceRitual"
+    title: "Corporate Training Compliance Ritual"
+    url: "/wiki/concepts/corporatetrainingcomplianceritual/"
   - key: "CorporateOwnedStartupConstraints"
     title: "Corporate-Owned Startup Constraints"
     url: "/wiki/concepts/corporateownedstartupconstraints/"

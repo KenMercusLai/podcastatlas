@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cee5b1a692af57169aac182b2228d5b36891ce6389d4dd9048a9d1283a1e55b3",
       "5fd72b6d7c69ca284ca77734b9887c0c4136d8e9cd9a6b9ede0734805c8dd581",
       "965468c395e89043dd3fefacc1ab9b84c0ba9d9eecec98abee0f9c27748fddda",
       "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
@@ -659,11 +660,38 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 657
+    "paragraph_count": 658
   },
-  "overview_commit": "509deaeab384b1003bf6530115e6ec789a7e10db",
-  "overview_digest": "218672b7069d6384230c11e4e5990f760c7a673a98cd6991c98610a3631afa57",
+  "overview_commit": "9a233485fb1fe33ce16748996f1a2cee26898077",
+  "overview_digest": "963fe6c3145b4cb3997dee992736d759f0da35668386e7fa9ccd1966d9aaa728",
   "paragraphs": [
+    {
+      "id": "cee5b1a692af57169aac182b2228d5b36891ce6389d4dd9048a9d1283a1e55b3",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|Islamism in Britain: what is the threat?]], a [[TheIntelligence]] episode separating Islam from [[Islamism]], non-violent ideological influence from jihadist violence, and criticism of political claims from anti-Muslim hostility. It adds [[SonnyLoughran]], [[ShiraAviona]], [[PreventProgramme]], [[Islamism]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[TransferPricing]], and [[CorporateTrainingComplianceRitual]], while extending [[AndrewPalmer]], [[CocaCola]], [[InternalRevenueService]], and [[TaxEnforcementCapacity]]. Its core synthesis is that category clarity is necessary both to reject collective suspicion of Muslims and to contest coercive or anti-pluralist organizing; the Coca-Cola dispute makes multinational tax enforcement a problem of intangible valuation, litigation endurance, and resource asymmetry; and completion-first training can document compliance without producing durable learning. No settled contradiction is recorded; polling, representation, PREVENT, MI5, Sharia-council, litigation, and monetary claims remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewPalmer",
+        "CocaCola",
+        "CorporateTrainingComplianceRitual",
+        "InternalRevenueService",
+        "IslamIslamismConflation",
+        "Islamism",
+        "IslamistEntryism",
+        "PreventProgramme",
+        "ShiraAviona",
+        "SonnyLoughran",
+        "TaxEnforcementCapacity",
+        "TheIntelligence",
+        "TransferPricing",
+        "islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a"
+      ]
+    },
     {
       "id": "5fd72b6d7c69ca284ca77734b9887c0c4136d8e9cd9a6b9ede0734805c8dd581",
       "primary_topic": "ai-and-technology",

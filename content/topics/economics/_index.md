@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2070
+topic_total_pages: 2071
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4700,6 +4700,9 @@ topic_entities:
   - key: "SherrodBrown"
     title: "Sherrod Brown"
     url: "/wiki/entities/sherrodbrown/"
+  - key: "ShiraAviona"
+    title: "Shira Aviona"
+    url: "/wiki/entities/shiraaviona/"
   - key: "Shybird"
     title: "Shybird"
     url: "/wiki/entities/shybird/"

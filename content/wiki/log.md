@@ -20538,3 +20538,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Islamism in Britain: what is the threat?
+
+Added source `islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a`; created `SonnyLoughran`, `ShiraAviona`, `PreventProgramme`, `Islamism`, `IslamIslamismConflation`, `IslamistEntryism`, `TransferPricing`, and `CorporateTrainingComplianceRitual`; and migrated and updated `AndrewPalmer`, `CocaCola`, `InternalRevenueService`, and `TaxEnforcementCapacity`. Core synthesis: distinguishing Islam from Islamism is necessary both to oppose anti-Muslim bigotry and to identify non-violent ideological influence without treating ordinary Muslim participation as entryism; the Coca-Cola dispute shows how intangible value, litigation duration, and resource asymmetry shape transfer-pricing enforcement; and completion-first corporate training can satisfy compliance without producing durable learning. No settled contradiction found; polling, representation, PREVENT, MI5, Sharia-council, litigation, and monetary claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

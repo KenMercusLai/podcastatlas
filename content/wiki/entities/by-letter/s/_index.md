@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10310
+wiki_total_pages: 10313
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "ShimazakiToson"
     title: "Shimazaki Toson / 岛崎藤村"
     url: "/wiki/entities/shimazakitoson/"
+  - key: "ShiraAviona"
+    title: "Shira Aviona"
+    url: "/wiki/entities/shiraaviona/"
   - key: "ShiraAviono"
     title: "Shira Aviono"
     url: "/wiki/entities/shiraaviono/"
@@ -938,6 +941,9 @@ wiki_pages:
   - key: "Songtsam"
     title: "Songtsam / 松赞"
     url: "/wiki/entities/songtsam/"
+  - key: "SonnyLoughran"
+    title: "Sonny Loughran"
+    url: "/wiki/entities/sonnyloughran/"
   - key: "Sony"
     title: "Sony"
     url: "/wiki/entities/sony/"

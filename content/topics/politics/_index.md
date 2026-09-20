@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2580
+topic_total_pages: 2584
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1816,9 +1816,18 @@ topic_concepts:
   - key: "IrreversibleDefectionBinding"
     title: "Irreversible Defection Binding / 断路式策反绑定"
     url: "/wiki/concepts/irreversibledefectionbinding/"
+  - key: "IslamIslamismConflation"
+    title: "Islam-Islamism Conflation"
+    url: "/wiki/concepts/islamislamismconflation/"
+  - key: "Islamism"
+    title: "Islamism"
+    url: "/wiki/concepts/islamism/"
   - key: "IslamistDemocraticTrustProblem"
     title: "Islamist Democratic Trust Problem"
     url: "/wiki/concepts/islamistdemocratictrustproblem/"
+  - key: "IslamistEntryism"
+    title: "Islamist Entryism"
+    url: "/wiki/concepts/islamistentryism/"
   - key: "IsraeliElection2026"
     title: "Israeli Election 2026"
     url: "/wiki/concepts/israelielection2026/"
@@ -5972,6 +5981,9 @@ topic_entities:
   - key: "SocratesFootballer"
     title: "Socrates (Footballer)"
     url: "/wiki/entities/socratesfootballer/"
+  - key: "SonnyLoughran"
+    title: "Sonny Loughran"
+    url: "/wiki/entities/sonnyloughran/"
   - key: "SophiePedder"
     title: "Sophie Pedder"
     url: "/wiki/entities/sophiepedder/"

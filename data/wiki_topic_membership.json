@@ -37281,7 +37281,28 @@
       "url": "/topics/culture/"
     }
   ],
+  "IslamIslamismConflation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "Islamism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "IslamistDemocraticTrustProblem": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "IslamistEntryism": [
     {
       "key": "politics",
       "label": "Politics",
@@ -62623,6 +62644,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ShiraAviona": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ShiraOvide": [
     {
       "key": "technology",
@@ -64023,6 +64051,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SonnyLoughran": [
     {
       "key": "politics",
       "label": "Politics",

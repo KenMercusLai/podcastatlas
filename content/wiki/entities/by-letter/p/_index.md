@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10310
+wiki_total_pages: 10313
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "Prevagen"
     title: "Prevagen"
     url: "/wiki/entities/prevagen/"
+  - key: "PreventProgramme"
+    title: "PREVENT Programme"
+    url: "/wiki/entities/preventprogramme/"
   - key: "Priam"
     title: "Priam"
     url: "/wiki/entities/priam/"
