@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7598
+wiki_total_pages: 7599
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -782,6 +782,9 @@ wiki_pages:
   - key: "HuozhiLiezhuanWealthEthic"
     title: "《货殖列传》财富伦理 / Huozhi Liezhuan Wealth Ethic"
     url: "/wiki/concepts/huozhiliezhuanwealthethic/"
+  - key: "HereditarySuccessionCapabilityDecay"
+    title: "世袭继承能力衰减 / Hereditary Succession Capability Decay"
+    url: "/wiki/concepts/hereditarysuccessioncapabilitydecay/"
   - key: "HumanTraffickingFamilyTrauma"
     title: "人口拐卖家庭创伤 / Human Trafficking Family Trauma"
     url: "/wiki/concepts/humantraffickingfamilytrauma/"

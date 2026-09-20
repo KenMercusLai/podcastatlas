@@ -2,60 +2,57 @@
 title: "乱局善终 / Good Death Political Survival"
 type: concept
 knowledge_schema: synthesis-v1
-tags: [political-survival, court-politics, ethics, western-han]
+tags: [political-survival, court-politics, ethics, western-han, late-han]
 sources:
   - zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru
   - zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi
+last_updated: 2026-09-20
 ---
 
 ## Definition
 
-Good death political survival is the court-survival pattern where a high-status actor avoids factional ruin, refuses status that can no longer be carried well, keeps reputation and body intact, and dies naturally with ritual dignity rather than through purge, panic, suicide, or posthumous humiliation.
+Good death political survival is the pattern where a high-status actor reaches life's end without factional ruin or reputational collapse by combining principled nonalignment, calibrated entry and exit, clean service, and refusal of status that has become dangerous or cannot be carried well.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] creates the current case through [[FuXiWesternHan|傅喜]]. Fu Xi belongs to the Fu family, but his earlier refusal to follow [[FuTaihouWesternHan|傅太后]]'s political line lets [[WangZhengjun|王政君]] distinguish him from the Fu/Ding faction after [[WangMang|王莽]] returns to power.
+The current synthesis has three complementary routes to a good political end. The factional-purge route appears through [[FuXiWesternHan|傅喜]]: his earlier refusal to follow [[FuTaihouWesternHan|傅太后]] separates him from the Fu/Ding network after [[WangMang|王莽]] returns to power. Recall and honor do not remove risk, so his fear of sudden favor, return to his fief, and old-age death make caution after restoration part of the pattern. [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] grounds this route.
 
-The episode's key judgment is that survival is not measured only by rank. Fu Xi is recalled and made tejin, but he responds with fear because he understands that sudden favor in a purge environment can be as dangerous as disgrace. His later return to his fief and old-age death let the host connect him to "善终" in the Five Blessings frame.
+The deathbed-restraint route appears through [[PingDangWesternHan|平当]]. He refuses to force himself to receive a marquisate while gravely ill, treating refusal as better protection for descendants and reputation than a final status claim. This form is grounded in [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]].
 
-[[PingDangWesternHan|平当]] supplies a second shape of the same pattern. He is not escaping a purge; he is dying while occupying high office. His refusal to force himself to receive a full marquisate turns "good end" from survival after danger into disciplined refusal before death: he protects his descendants by not adding a final title claim that would look greedy or irresponsible.
-
-The concept is therefore not a general praise of longevity, wealth, or visible honor. The Honglou Meng comparison in Hanji 604 and Ping Dang's refusal in Hanji 582 make the distinction explicit: wealth, long life, public ceremony, and hereditary benefit can still fail to be a good end if the closing scene is defined by ruin, coercion, or reputation-damaging greed.
+The long-career route appears through [[ChangLinLateHan|常林]]. He rejects Yuan Shao, waits for a more stable Cao-side entry, builds a clean administrative reputation, and remains outside the later power struggle in the account preserved by [[zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi|Hanji 1074]]. Across the three routes, good death concerns the sequence of affiliation, service, and withdrawal—not longevity or low visibility alone.
 
 ## Key Claims
 
-- A good political end requires more than surviving the immediate purge; it requires leaving danger without reputational destruction.
-- Earlier factional nonalignment can become the evidence that separates a person from a collapsing kin network.
-- Restored rank is ambiguous in a purge environment because it increases exposure and expectation.
-- Fear after promotion can be prudent judgment rather than weakness.
-- Refusing a final honor can protect descendants better than accepting it when office capacity and bodily condition no longer support the title.
-- Longevity, wealth, and funeral display do not by themselves equal "善终" if the person dies inside disaster or humiliation.
+- A good political end requires preserving body, reputation, and descendants rather than merely surviving one immediate threat.
+- Earlier nonalignment can distinguish a person from a collapsing family or patron network.
+- Entry timing matters because choosing when and under whom to serve shapes later exposure.
+- Restored rank and final honors are ambiguous when they increase danger or exceed bodily and political capacity.
+- Clean administration can preserve reputation, but the sources do not prove that virtue alone guarantees safety.
+- Timely withdrawal or nonparticipation reduces exposure when court or regime conflict becomes existential.
 
 ## Evidence
 
-- Nonalignment precondition: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi refused to follow Fu Taihou's views and was driven back to his fief rather than change.
-- Distinction from family purge: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Wang Zhengjun praises Fu Xi while Fu and Ding family officeholders are removed and displaced.
-- Fear after restoration: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi is worried and afraid after being recalled and honored.
-- Good-end marker: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi later returns to his fief and dies old.
-- Five Blessings frame: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] explains "善终" through the Five Blessings and contrasts it with Honglou Meng figures whose wealth or longevity does not produce a good end.
-- Deathbed title refusal: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] says Ping Dang refuses to force himself to accept a marquis seal while gravely ill.
-- Descendant-protection logic: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] says Ping Dang treats refusal, not acceptance, as the better way to protect descendants and reputation.
+- Principled nonalignment and purge survival: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi's earlier refusal separates him from the Fu/Ding faction during cleanup.
+- Caution after restoration: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] links Fu Xi's fear after recall, return to his fief, and old-age death to “善终.”
+- Deathbed title refusal: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] says Ping Dang refuses a marquis seal rather than risk office, family reputation, and descendants for one last honor.
+- Delayed entry: [[zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi|Hanji 1074]] says Chang Lin refuses Yuan Shao and enters office only after Cao Cao has secured Hebei.
+- Clean service and later nonparticipation: [[zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi|Hanji 1074]] connects Chang Lin's administrative reputation and distance from the 249 CE struggle to longevity and a good end.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in two episodes and their host interpretations. It should not be treated as a complete ancient Chinese ethics theory of death. Hanji 604 supports Fu Xi as a political-survival example, but the Honglou Meng comparisons are interpretive analogies rather than independent historical evidence. Hanji 582 supports Ping Dang's refusal of the marquisate, but not a full biography or a general rule that all deathbed honors are improper.
+The concept is grounded in three podcast episodes and their host interpretations, not a complete ancient Chinese ethics theory of death. Fu Xi and Ping Dang support specific patterns of nonalignment and refusal. Chang Lin adds delayed entry and clean service, but many of that episode's biographical details lack direct citations, and the title's Sima Yi kneeling claim is not narrated. These cases do not show that caution or integrity always prevents political violence, nor that all survival choices are morally admirable.
 
 ## What Changed
 
-- Added Hanji 582's Ping Dang case, extending "good end" from post-purge survival to refusal of one last status claim before death.
-- Preserved Hanji 604's Fu Xi "善终" discussion and Five Blessings frame.
+- Added Chang Lin's delayed-entry, clean-service, and later nonparticipation case.
+- Broadened the concept from purge survival and deathbed restraint to the full affiliation-service-withdrawal sequence.
 
 ## Related Concepts
 
-- [[HighStatusCautionSelfProtection|高位谨慎自保]] - survival discipline directly shown by Fu Xi's fear after promotion.
-- [[PingDangWesternHan|平当]] - source case where refusing a final marquisate protects reputation and descendants.
-- [[FuXiWesternHan|傅喜]] - source case where nonalignment, fear after restoration, and withdrawal support a good end.
-- [[PostPowerSafetyCollapse|失势后的安全崩塌]] - contrast pattern where loss of office destroys safety rather than enabling a good end.
-- [[PoliticalSurvivalFirst|政治生存优先]] - broader survival frame that good-end survival narrows to final outcome.
-- [[PowerExitTrap|权力退场困境]] - adjacent exit-risk pattern when office withdrawal itself can become dangerous.
+- [[ChangLinLateHan|常林]] - late-Han case of delayed alignment, clean administration, and nonparticipation in a later power struggle.
+- [[PingDangWesternHan|平当]] - case where refusing a final marquisate protects reputation and descendants.
+- [[FuXiWesternHan|傅喜]] - case where nonalignment, fear after restoration, and withdrawal support a good end.
+- [[HighStatusCautionSelfProtection|高位谨慎自保]] - survival discipline visible after promotion or restoration.
+- [[PoliticalSurvivalFirst|政治生存优先]] - broader survival frame that this concept narrows to final outcome and reputation.
+- [[PowerExitTrap|权力退场困境]] - contrast pattern where withdrawal itself becomes dangerous.

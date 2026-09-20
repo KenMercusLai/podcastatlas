@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？](sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi.md) — 以常林的择主、清廉与避争讨论乱世善终，并以仲长统对高干的直谏和《昌言》批判连接识人、世袭能力衰减与治乱循环。
 - [《资治通鉴·汉纪》1075丨揭秘被《三国志》掩盖的亲密关系谋杀案](sources/zizhi-tongjian-hanji-1075-jiemi-bei-sanguozhi-yangai-de-qinmi-guanxi-moushaan-lnqfxk6r8h0nr6ytjfquosw_xvcq.md) — 以邯郸商与张猛从亲密旧友到权力冲突和谋杀的戏剧化叙事，讨论信任、兵权、资源与关系边界，并保留其年代和史料疑点。
 - [《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中](sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv.md) — 昌豨反复叛降后向旧友于禁投降，却因围后降者不赦的军令被处死；并串联庞淯哭邯郸商、废八王国与曹操备战乌桓。
 - [《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？](sources/zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk.md) — 曹操远征乌桓前，郭嘉以乌桓无备和刘表不敢放权给刘备为依据主张出兵，又以弃辎重急行换取突袭速度。
@@ -2561,6 +2562,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
 
 ## Entities
+- [常林 / Chang Lin (late Han)](entities/ChangLinLateHan.md) — 拒袁绍、待曹操定河北后出仕，并以清廉、谨慎和避开后期权争获得善终评价的汉末曹魏官员。
 - [庞淯 / Pang Yu (late Han)](entities/PangYuLateHan.md) — 辞官赴武威哭祭邯郸商、怀刃求报并因公开忠义获张猛赦免的酒泉官员。
 - [张猛 / Zhang Meng (late Han)](entities/ZhangMengLateHan.md) — 杀邯郸商并禁丧、后因声誉约束放过庞淯；Hanji 1075另给出有年代冲突的旧友反目演绎。
 - [徐庶 / Xu Shu (late Han)](entities/XuShuLateHan.md) — 向刘备举荐诸葛亮并坚持应由刘备亲自拜访的荆州人才引荐者。
@@ -4198,7 +4200,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汉殇帝 / Emperor Shang of Han](entities/EmperorShangOfHan.md) — Infant Eastern Han emperor Liu Long whose brief reign creates the succession bridge from Emperor He's death and Empress Dowager Deng's regency to Liu Hu's prepared accession as Emperor An.
 - [和熹邓皇后 / Empress Dowager Deng (late Han)](entities/EmpressDowagerDengLateHan.md) — An-era regent whose record now begins with Empress Yin's threat, harem self-restraint, childhood learning, natal-family restraint, female education, and literary-material patronage before succession crisis, frontier pressure, family-power risk, transfer risk, and contested memory.
 - [周章 / Zhou Zhang (late Han)](entities/ZhouZhangLateHan.md) — Eastern Han official whose failed 106 CE anti-regency coup targets Empress Dowager Deng, Deng-family relatives, Zheng Zhong, and Cai Lun before ending in suicide.
-- [仲长统 / Zhongchang Tong (late Han)](entities/ZhongchangTongLateHan.md) — Late Eastern Han political critic whose `Changyan` diagnosis links Three Excellencies hollowness, Shangshu-centered power, inner-court patronage, and frontier disorder.
+- [仲长统 / Zhongchang Tong (late Han)](entities/ZhongchangTongLateHan.md) — 直谏高干后及时离开、经荀彧推荐入曹操幕府，并以《昌言》批判权责错位、世袭衰减与精英汲取的东汉思想家。
 - [樊准 / Fan Zhun (late Han)](entities/FanZhunLateHan.md) — Early Deng-regency adviser whose education and relief memorials push scholar recruitment, doctor selection, spending cuts, disaster envoys, relocation, and public-field release.
 - [邓鸿 / Deng Hong (late Han)](entities/DengHongLateHan.md) — Deng-family scholar-official whose death becomes a restrained posthumous honor case under Empress Dowager Deng.
 - [武都郡 / Wudu Commandery (late Han)](entities/WuduCommanderyLateHan.md) — Late-Han frontier commandery where Yu Xu is sent as taishou and preserves the position through route deception and Chiting defense.
@@ -5089,7 +5091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [酸枣大营 / Suanzao Camp](entities/SuanzaoCamp.md) — anti-Dong-Zhuo coalition camp whose inaction and grain failure expose the limits of shared-enemy mobilization.
 - [襄阳 / Xiangyang (late Han)](entities/XiangyangLateHan.md) — Liu Biao's Jingzhou administrative base after the initial consolidation in Hanji 953.
 - [新野 / Xinye (late Han)](entities/XinyeLateHan.md) — Northern Jingzhou post where Liu Biao stations Liu Bei after defeat, functioning as both refuge and frontline buffer.
-- [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — Yuan Shao's nephew sent with Han Fu insiders to pressure Han Fu into yielding Jizhou.
+- [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — 从袁氏冀州施压者转为并州叛乱者，又因拒绝仲长统关于志大少谋和识人不足的批评而呈现反馈失灵。
 - [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Yuan-side adviser who moves from Jizhou insider persuasion and Yuan Tan factional provocation to family-victim grievance when Ye falls.
 - [耿武 / Geng Wu (late Han)](entities/GengWuLateHan.md) — Han Fu subordinate who argues against yielding Jizhou and dies trying to block Yuan Shao.
 - [闵纯 / Min Chun (late Han)](entities/MinChunLateHan.md) — Han Fu subordinate who resists the Jizhou transfer and is killed at Yuan Shao's entry.
@@ -12862,6 +12864,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏仆延 / Supuyan (late Han)](entities/SupuyanLateHan.md) — Wuhuan leader tied to Yuan Shao's frontier settlement and later killed with the Yuan brothers in Liaodong.
 
 ## Concepts
+- [世袭继承能力衰减 / Hereditary Succession Capability Decay](concepts/HereditarySuccessionCapabilityDecay.md) — 世袭能传位置却不能保证传递治理能力，特权隔离又可能把精英欲望转成劳役、重税与政权衰败。
 - [Command Law Over Personal Ties / 军令高于私交](concepts/CommandLawOverPersonalTies.md) — 于禁在昌豨围后投降时以既定军令压过旧友情分的规则执行模式。
 - [战略排除与聚焦 / Strategic Exclusion and Focus](concepts/StrategicExclusionAndFocus.md) — 通过明确不做什么，把稀缺资源集中到相互强化的根据地、伙伴结构与长期目标上，同时允许执行顺序随条件调整。
 - [Oral Turn in Political Communication](concepts/OralTurnPoliticalCommunication.md) — Shift toward repetition, live response, epithets, vivid examples, and concrete symbols in mass political persuasion.
@@ -14090,7 +14093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [封爵继承公共责任 / Title Succession Public Duty](concepts/TitleSuccessionPublicDuty.md) — Governance ethic treating inherited state-conferred title as public responsibility rather than private preference.
 - [外戚重职任命制衡 / Outer-Relative Office Contest](concepts/OuterRelativeOfficeContest.md) — Succession-crisis appointment pattern where ministers try to block outer-relative monopoly through balancing candidates, but senior dowager authority can defeat the attempt.
 - [宴席座次名分政治 / Banquet Seating Status Politics](concepts/BanquetSeatingStatusPolitics.md) — Court-ritual mechanism where banquet seating makes contested rank visible and can trigger factional or personnel consequences.
-- [乱局善终 / Good Death Political Survival](concepts/GoodDeathPoliticalSurvival.md) — Court-survival pattern where earlier nonalignment, caution after restored rank, and timely withdrawal produce a good end rather than purge or humiliation.
+- [乱局善终 / Good Death Political Survival](concepts/GoodDeathPoliticalSurvival.md) — 以不依附、择时入仕、清廉履职和及时退避共同保存生命、名誉与后代的政治生存模式。
 - [Modular AI Data Centers](concepts/ModularAIDataCenters.md) — Prefabricated AI compute infrastructure deployed near available power, cooling, gas, or industrial sites for faster distributed inference capacity.
 - [先胜后战式兵法 / Advantage-First Combat Doctrine](concepts/AdvantageFirstCombatDoctrine.md) — Strategy pattern where commanders create information, timing, morale, or political advantage before fighting instead of treating battle as a gamble.
 - [自污式政治自保 / Self-Deprecating Political Survival](concepts/SelfDeprecatingPoliticalSurvival.md) — Survival tactic where a vulnerable high-status actor lowers perceived virtue, ability, or ambition to reduce court suspicion.

@@ -11219,6 +11219,10 @@
     "title": "常惠 / Chang Hui (Western Han)",
     "url": "/wiki/entities/changhuiwesternhan/"
   },
+  "ChangLinLateHan": {
+    "title": "常林 / Chang Lin (late Han)",
+    "url": "/wiki/entities/changlinlatehan/"
+  },
   "ChangXiLateHan": {
     "title": "昌豨 / Chang Xi (late Han)",
     "url": "/wiki/entities/changxilatehan/"
@@ -28430,6 +28434,10 @@
   "HereditaryOfficePrivilege": {
     "title": "任子式官职特权 / Hereditary Office Privilege",
     "url": "/wiki/concepts/hereditaryofficeprivilege/"
+  },
+  "HereditarySuccessionCapabilityDecay": {
+    "title": "世袭继承能力衰减 / Hereditary Succession Capability Decay",
+    "url": "/wiki/concepts/hereditarysuccessioncapabilitydecay/"
   },
   "HeritageFoundation": {
     "title": "Heritage Foundation",
@@ -77710,6 +77718,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi": {
+    "title": "《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi/"
   },
   "zizhi-tongjian-hanji-1075-jiemi-bei-sanguozhi-yangai-de-qinmi-guanxi-moushaan-lnqfxk6r8h0nr6ytjfquosw_xvcq": {
     "title": "《资治通鉴·汉纪》1075丨揭秘被《三国志》掩盖的亲密关系谋杀案",

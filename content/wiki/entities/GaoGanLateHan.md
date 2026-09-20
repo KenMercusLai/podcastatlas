@@ -2,52 +2,58 @@
 title: "高干 / Gao Gan (late Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, late-han, yuan-shao, jizhou]
+tags: [person, late-han, yuan-shao, jizhou, bingzhou]
 sources:
   - zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf
   - zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o
-last_updated: 2026-09-06
+  - zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi
+last_updated: 2026-09-20
 ---
 
-# 高干 / Gao Gan (late Han)
-
 ## Overview
-高干 / Gao Gan (late Han) is a Yuan-family actor whose current wiki profile begins as [[YuanShao|袁绍]]'s nephew in the Jizhou pressure-and-persuasion mission and now extends to renewed rebellion from [[BingzhouLateHan|并州]] after [[CaoCao|曹操]]'s Hebei victories. The two bounded sources show him first as family-backed acquisition pressure and later as a surviving regional threat.
+
+高干 / Gao Gan is a Yuan-family actor whose current profile moves from family-backed pressure in the transfer of Jizhou to Bingzhou rebellion against Cao Cao, now qualified by Zhongchang Tong's warning that ambition, judgment, and talent recognition were badly misaligned.
 
 ## Current Profile
-Hanji 956 introduces Gao Gan inside Yuan Shao's takeover of [[JizhouLateHan|冀州]]. He travels with [[XinPingLateHan|辛评]], [[XunChenLateHan|荀谌]], and [[GuoTu|郭图]] in the persuasion mission sent to [[HanFuLateHan|韩馥]]. His value there is not independent advice; he marks Yuan Shao's family stake in turning pressure on Han Fu into surrender.
 
-Hanji 1070 moves Gao Gan from acquisition-side family pressure to post-Yuan resistance. While Cao Cao is campaigning against Wuhuan and Youzhou rebels, Gao Gan again rebels from Bingzhou, seizes the Shangdang administrator, and guards the Huguan route. Cao Cao responds by sending 乐进 and [[LiDian|李典]] against him. The same source links Gao Gan's rebellion to Hedong suspicion, because [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] are said to be using [[WangYiHedongLateHan|王邑]]'s retention request while secretly connecting with Gao Gan.
+Gao Gan's current profile combines family-backed acquisition, regional rebellion, and failed corrective feedback. As [[YuanShao|袁绍]]'s nephew, he joins the mission that pressures [[HanFuLateHan|韩馥]] to surrender [[JizhouLateHan|冀州]], making the Yuan family's stake visible inside a persuasion campaign backed by external pressure. This opening role is grounded in [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]].
+
+His later role is active resistance from [[BingzhouLateHan|并州]]. While [[CaoCao|曹操]] is occupied with Wuhuan and Youzhou disturbances, Gao Gan seizes the Shangdang administrator and holds the Huguan route, with suspicious Hedong local-elite activity extending the threat beyond one fortified passage. [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] supplies this rebellion-and-route layer.
+
+The profile is qualified by [[ZhongchangTongLateHan|仲长统]]'s warning that Gao Gan's aspirations exceed his judgment and that liking worthy people does not mean he can identify them. Gao Gan's hostile response makes the scene a feedback failure rather than independent proof of every trait, but it helps explain why an ostensibly talent-seeking powerholder loses a useful critic. The warning and response are reported by [[zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi|Hanji 1074]].
 
 ## Key Characteristics
+
 - Yuan Shao nephew and family-stake marker in the Jizhou transfer mission.
-- Participant in the pressure-and-persuasion field that makes Han Fu yield Jizhou.
-- Later Bingzhou-side rebel after Cao Cao's northern battlefield advantage.
-- Uses timing while Cao Cao is occupied with Wuhuan and Youzhou disturbances.
-- Connected to the Hedong local elite-risk branch through Wei Gu and Fan Xian.
+- Participant in the pressure field that makes Han Fu yield Jizhou.
+- Later Bingzhou rebel exploiting Cao Cao's northern campaign commitments.
+- Controls the Shangdang-Huguan route and connects to Hedong elite-risk concerns.
+- Portrayed by Zhongchang Tong as highly ambitious but deficient in judgment.
+- Likes worthy people in the source's account but cannot accept or accurately use corrective talent.
 
 ## Evidence
-- Jizhou persuasion mission: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] names Gao Gan with Xin Ping, Xun Chen, and Guo Tu in the mission that pushes Han Fu toward surrender.
-- Yuan-family stake: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] identifies Gao Gan as Yuan Shao's nephew, making him a family-linked pressure actor.
-- Renewed rebellion: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Gao Gan hears Cao Cao is campaigning against Wuhuan, rebels again, seizes the Shangdang administrator, and holds Huguan.
-- Cao-side response: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Cao Cao sends Yue Jin and Li Dian to attack Gao Gan.
-- Hedong local connection: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Wei Gu and Fan Xian are secretly connected with Gao Gan while pressing Wang Yi's retention.
+
+- Jizhou mission: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] names Gao Gan with Xin Ping, Xun Chen, and Guo Tu in the mission pressing Han Fu toward surrender.
+- Yuan-family stake: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] identifies Gao Gan as Yuan Shao's nephew.
+- Renewed rebellion and route control: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Gao Gan rebels while Cao Cao is campaigning, seizes the Shangdang administrator, and guards Huguan.
+- Cao-side and Hedong response: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] names the forces sent against Gao Gan and the local actors secretly connected to him.
+- Character and feedback diagnosis: [[zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi|Hanji 1074]] reports Zhongchang Tong's warning and Gao Gan's inability to receive it.
 
 ## Qualifications
-The current profile is bounded to Hanji 956 and Hanji 1070. It does not include a complete account of Gao Gan's intervening Bingzhou tenure or final defeat. Hanji 1070 calls the action a renewed rebellion, so earlier rebellion layers may need to be added when their source notes are ingested or linked.
+
+The current profile remains incomplete between the Jizhou transfer and final Bingzhou defeat. Hanji 1070 calls the action a renewed rebellion without supplying all earlier revolt layers. Hanji 1074's personality judgment and exact dialogue come through a short host retelling; they illuminate a feedback failure but do not independently prove Gao Gan's whole character or establish that rejecting Zhongchang Tong caused his death.
 
 ## What Changed
-- Migrated the page from legacy notes to the `synthesis-v1` entity contract.
-- Added Hanji 1070's renewed Bingzhou rebellion, Huguan route control, and Cao-side response.
-- Added Gao Gan's connection to the Hedong local elite-risk branch through Wei Gu and Fan Xian.
+
+- Added Zhongchang Tong's warning about Gao Gan's ambition, judgment, and talent recognition.
+- Added Gao Gan's rejection of correction as a feedback-failure qualification to his later rebellion profile.
 
 ## Relationships
-- [[YuanShao|袁绍]] - uncle and original political center for Gao Gan's Jizhou mission.
-- [[HanFuLateHan|韩馥]] and [[JizhouLateHan|冀州]] - target and prize of the initial pressure-and-persuasion mission.
-- [[XinPingLateHan|辛评]], [[XunChenLateHan|荀谌]], and [[GuoTu|郭图]] - paired mission actors in Hanji 956.
-- [[BingzhouLateHan|并州]] - later regional base for Gao Gan's renewed rebellion.
-- [[Shangdang|上党]] - administrator and route field affected by Gao Gan's revolt.
-- [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] - Hedong actors linked to Gao Gan in Hanji 1070.
-- [[WangYiHedongLateHan|王邑]] - administrator whose retention request becomes part of the Gao Gan-linked suspicion layer.
-- [[PsychologicalSurrenderTrap|心理迫降陷阱]] - concept captured by the Jizhou transfer mission.
-- [[TransitHubCommanderyControl|交通枢纽郡控制]] - concept for the Hedong control problem sharpened by Gao Gan's rebellion.
+
+- [[YuanShao|袁绍]] - uncle and original political center for Gao Gan's Jizhou role.
+- [[HanFuLateHan|韩馥]] and [[JizhouLateHan|冀州]] - target and prize of the initial pressure mission.
+- [[BingzhouLateHan|并州]] and [[Shangdang|上党]] - later rebellion base and route field.
+- [[ZhongchangTongLateHan|仲长统]] - critic whose warning Gao Gan rejects.
+- [[CourtFeedbackCollapse|君臣反馈失灵]] - concept that captures the cost of soliciting talent while rejecting correction.
+- [[PsychologicalSurrenderTrap|心理迫降陷阱]] - concept embodied by the earlier Jizhou transfer mission.
+- [[TransitHubCommanderyControl|交通枢纽郡控制]] - route-control problem sharpened by Gao Gan's rebellion.
