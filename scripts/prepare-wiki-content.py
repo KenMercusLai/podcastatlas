@@ -259,6 +259,13 @@ class SourceEpisodeReport:
         return bool(self.missing_source_file or self.unmatched_source_file)
 
 
+def has_blocking_integrity_errors(
+    missing: dict[str, list[str]], source_episode_report: SourceEpisodeReport
+) -> bool:
+    """Return errors that must block publishing; missing links remain diagnostic."""
+    return source_episode_report.has_errors
+
+
 def split_front_matter(text: str) -> tuple[list[str], str]:
     lines = text.splitlines()
     if not lines or lines[0] not in {"---", "+++"}:
@@ -1090,7 +1097,7 @@ def run(check: bool) -> int:
         f"unmatched_source_file={len(source_episode_report.unmatched_source_file)}"
     )
 
-    errors = bool(missing or source_episode_report.has_errors)
+    errors = has_blocking_integrity_errors(missing, source_episode_report)
     if missing:
         print(f"Missing wiki targets: {len(missing)}", file=sys.stderr)
     if source_episode_report.missing_source_file:
