@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10325
+wiki_total_pages: 10326
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -2180,6 +2180,9 @@ wiki_pages:
   - key: "LuMaoshou"
     title: "鹿毛寿 / Lu Maoshou"
     url: "/wiki/entities/lumaoshou/"
+  - key: "LiDoctorSmokingCessation"
+    title: "黎医生 / Li Doctor (respiratory and smoking cessation)"
+    url: "/wiki/entities/lidoctorsmokingcessation/"
   - key: "LiyangYellowRiverLateHan"
     title: "黎阳 / Liyang (Yellow River, late Han)"
     url: "/wiki/entities/liyangyellowriverlatehan/"

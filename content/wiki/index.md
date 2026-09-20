@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟](sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn.md) — 这病说来话长 episode on vaping risk, second- and third-hand exposure, youth initiation prevention, cessation clinics, medication boundaries, and relapse recovery.
 - [569. Hannibal: Elephants Cross the Alps (Part 2)](sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633.md) — The Rest Is History episode on Hannibal's land-invasion logic, Gallic diplomacy, Rhone crossing, Alpine ambushes, propaganda, attrition, and route uncertainty.
 - [Essentials: Machines, Creativity & Love | Dr. Lex Fridman](sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065.md) — Huberman Lab Essentials conversation on AI learning, data-engine feedback, alignment, supervised driving, robot companionship, shared memory, and grief for Homer and Costello.
 - [570. Hannibal: The Invasion of Italy (Part 3)](sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067.md) — The Rest Is History episode on Hannibal's Alpine gamble, Trebia and Trasimene victories, alliance strategy, operational deception, and Fabius's time-buying response.
@@ -2583,6 +2584,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [黎医生 / Li Doctor (respiratory and smoking cessation)](entities/LiDoctorSmokingCessation.md) — Source-scoped respiratory guest explaining vaping harms, environmental smoke exposure, and supported smoking cessation.
 - [Costello (Andrew Huberman's dog)](entities/CostelloDog.md) — Huberman's companion dog whose decline, remembered character, and public bond ground the episode's account of care and grief.
 - [Homer (Lex Fridman's dog)](entities/HomerLexFridmanDog.md) — Fridman's Newfoundland companion whose shared life, cancer, euthanasia, and death ground the episode's attachment framework.
 - [Hannibal Barca / 汉尼拔](entities/HannibalBarca.md) — Carthaginian commander whose Italian campaign joins initiative, alliance politics, deception, and encirclement against Rome's deeper manpower.
@@ -12917,6 +12919,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Electronic Cigarette Risk / 电子烟风险](concepts/ElectronicCigaretteRisk.md) — Vaping-risk frame separating lack of combustion from lack of nicotine, aerosol, airway, cardiovascular, and dependence risk.
+- [Secondhand and Thirdhand Smoke Exposure / 二手烟与三手烟暴露](concepts/SecondhandThirdhandSmokeExposure.md) — Shared-air and persistent-residue exposure across households and public spaces.
+- [Smoking Cessation Support / 戒烟支持](concepts/SmokingCessationSupport.md) — Quit-date, behavioral, clinical, medication-boundary, follow-up, and relapse-recovery framework.
+- [Youth Tobacco Initiation Prevention / 青少年烟草初始预防](concepts/YouthTobaccoInitiationPrevention.md) — First-use prevention across flavors, packaging, peers, families, retail access, and media normalization.
 - [Hannibal's Alpine Crossing / 汉尼拔翻越阿尔卑斯山](concepts/HannibalAlpineCrossing.md) — Costly 218 BC land campaign combining strategic asymmetry, diplomacy, logistics, intelligence, propaganda, attrition, and coalition politics.
 - [Hannibalic Operational Deception / 汉尼拔式战役欺骗](concepts/HannibalicOperationalDeception.md) — Strategy pattern joining opponent incentives, credible lures, logistics, terrain, concealment, and political effects.
 - [Fabian Strategy / 费边战略](concepts/FabianStrategy.md) — Delay-and-shadow strategy that converts Roman manpower, training time, and allied resilience into future capacity.

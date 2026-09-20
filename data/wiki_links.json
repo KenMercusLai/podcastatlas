@@ -19851,6 +19851,10 @@
     "title": "Electronic Arts",
     "url": "/wiki/entities/electronicarts/"
   },
+  "ElectronicCigaretteRisk": {
+    "title": "Electronic Cigarette Risk / 电子烟风险",
+    "url": "/wiki/concepts/electroniccigaretterisk/"
+  },
   "ElectronicDesignAutomation": {
     "title": "Electronic Design Automation",
     "url": "/wiki/concepts/electronicdesignautomation/"
@@ -36762,6 +36766,10 @@
   "LiDian": {
     "title": "李典 / Li Dian",
     "url": "/wiki/entities/lidian/"
+  },
+  "LiDoctorSmokingCessation": {
+    "title": "黎医生 / Li Doctor (respiratory and smoking cessation)",
+    "url": "/wiki/entities/lidoctorsmokingcessation/"
   },
   "LiDuLateHan": {
     "title": "李笃 / Li Du (late Han)",
@@ -55535,6 +55543,10 @@
     "title": "Secondhand Game Economy",
     "url": "/wiki/concepts/secondhandgameeconomy/"
   },
+  "SecondhandThirdhandSmokeExposure": {
+    "title": "Secondhand and Thirdhand Smoke Exposure / 二手烟与三手烟暴露",
+    "url": "/wiki/concepts/secondhandthirdhandsmokeexposure/"
+  },
   "Secoo": {
     "title": "寺库 / Secoo",
     "url": "/wiki/entities/secoo/"
@@ -57662,6 +57674,10 @@
   "SmithVMaryland": {
     "title": "Smith v. Maryland",
     "url": "/wiki/concepts/smithvmaryland/"
+  },
+  "SmokingCessationSupport": {
+    "title": "Smoking Cessation Support / 戒烟支持",
+    "url": "/wiki/concepts/smokingcessationsupport/"
   },
   "Snake": {
     "title": "Snake / 蛇",
@@ -70575,6 +70591,10 @@
     "title": "Youth Soccer Access Inequality",
     "url": "/wiki/concepts/youthsocceraccessinequality/"
   },
+  "YouthTobaccoInitiationPrevention": {
+    "title": "Youth Tobacco Initiation Prevention / 青少年烟草初始预防",
+    "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
+  },
   "YouxiaSuppressionUnderUnification": {
     "title": "大一统下的游侠压制 / Youxia Suppression Under Unification",
     "url": "/wiki/concepts/youxiasuppressionunderunification/"
@@ -77282,6 +77302,10 @@
   "vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1": {
     "title": "Vol. 164 从苹果聊到软件未来：Agentic Software 真的要来了？",
     "url": "/wiki/sources/vol-164-cong-pingguo-liaodao-ruanjian-weilai-agentic-software-zhende-yaolaile-1-6639-1/"
+  },
+  "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn": {
+    "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+    "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
   },
   "vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1": {
     "title": "Vol. 165 做客声东击西：「龙虾」和 vibe coding 正如何改变我们的思维",

@@ -20594,3 +20594,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟
+
+Added source `vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn`; created `LiDoctorSmokingCessation`, `ElectronicCigaretteRisk`, `SecondhandThirdhandSmokeExposure`, `YouthTobaccoInitiationPrevention`, and `SmokingCessationSupport`; and updated `Atang`, `ZheBingShuoLaiHuaChang`, overview, and index. Core synthesis: lack of combustion does not make vaping harmless, environmental exposure extends beyond visible smoke, and quitting works best as a supported process with behavioral preparation, qualified care, and recovery after lapses. No settled contradiction found; comparative risks, case details, chemical concentrations, medication mechanisms, regulatory wording, and cessation timelines remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

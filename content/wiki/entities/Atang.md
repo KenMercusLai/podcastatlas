@@ -17,14 +17,15 @@ sources:
   - vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd
   - vol-35-kangfu-yixueke-dui-guiren-yuchi-de-wujie-hui-danwu-ertong-yanyu-de-fazhan-lnmoqgfmshs-zzt1gxkutv06w8aj
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
-last_updated: 2026-09-09
+  - vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
 # 阿汤 / A Tang
 
 ## Overview
-阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, lifestyle health, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
+阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, lifestyle health, tobacco and vaping risk, smoking cessation, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
 
 ## Current Profile
 Across the current source set, 阿汤's role is to turn expert knowledge into concrete listener-facing questions. In clinical and health-literacy episodes, he asks how ordinary patients should understand uncertain first visits, imaging reports, second opinions, surgery thresholds, speech-language development, adult aphasia, dysarthria, weight-loss interventions, sugar claims, supplement claims, functional-food categories, headphone habits, tinnitus, sudden hearing symptoms, online neuroscience labels, mosquito repellent claims, insect-bite aftercare, exercise injury prevention, exercise-as-medical-aesthetics claims, first-aid decisions, and clinical music therapy without converting public discussion into self-treatment.
@@ -44,6 +45,8 @@ VOL.211 adds an earlier exercise-safety branch to his host profile. 阿汤 start
 VOL.212 adds a strongly embodied branch to his host profile. 阿汤 starts from his own gym routine, running, cycling, tennis, knee popping, and ordinary-worker schedule constraints, then asks sports-medicine doctors how listeners can exercise safely when they sit for work, train only on weekends, worry about knees, or consider braces, tape, stretching, swimming, running, and HYROX.
 
 VOL.222 adds a dedicated first-aid branch. 阿汤 starts from public confusion about late-night palpitations, chest pain, AED fears, CPR judgment, collapse, seizures, Heimlich-style response, sports injuries, wounds, burns, self-medication, and home emergency supplies, then asks [[LiuChenEmergencyDoctor|刘臣]] and [[ZhuTengjiao|祝腾娇]] to separate judgment, 120 calling, simple protection, AED prompts, and hospital routing from folk remedies or overconfident intervention.
+
+VOL.164 adds a tobacco-control branch. 阿汤 turns electronic-cigarette flavors, public vaping, second- and third-hand smoke, youth first-use settings, reduction-versus-cessation, nicotine patches, cessation clinics, and relapse myths into practical questions for [[LiDoctorSmokingCessation|黎医生]], while keeping product risk, medication, and treatment inside public-education boundaries.
 
 The same hosting pattern extends into mental-health and workplace pressure. In the workplace-bullying episode, he uses audience extensions of [[TrueEducationKDrama|《铁拳教育》/《真教育》]] into "铁拳职场" to ask how adults should understand PUA, suppression, humiliation, hidden exclusion, and self-doubt at work. His contribution remains framing: he surfaces the everyday fear, prompts specialist distinctions from [[NanJiHe|南基贺]], and turns the dramatic "iron fist" into nonviolent [[PsychologicalBoundaryProtection|psychological boundary protection]].
 
@@ -65,6 +68,7 @@ The same hosting pattern extends into mental-health and workplace pressure. In t
 - Internet-language boundary framing: [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] has him turn prefrontal-cortex jokes, ADHD labels, impulse, hunger, tiredness, and context switching into questions about what is normal, learned, state-dependent, or clinically concerning.
 - Exercise-safety framing: [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy]] has him use gym frequency, running, cycling posture, tennis cramps, HYROX curiosity, braces, stretching, and knee popping to prompt practical sports-medicine distinctions; [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] adds late workouts, heart-rate monitoring, overtraining, equipment safety, facial trauma, and BLS/AED scenarios.
 - First-aid and emergency framing: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] has him turn World First Aid Day into questions about chest-pain escalation, CPR/AED thresholds, AED safety fears, 120 information, seizures, Heimlich-style choking response, self-medication, sports injury, wounds, burns, and simple emergency-kit preparation.
+- Tobacco-risk and cessation framing: [[vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn]] has him move from harmless-vaping assumptions and public exposure into youth prevention, quit dates, cessation clinics, nicotine-replacement boundaries, and relapse recovery.
 - Workplace-pressure framing: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] has him connect the drama hook to workplace PUA, bullying, humiliation, exclusion, and the psychological "iron fist" of boundaries, evidence, expression, and complaint.
 - Bite-prevention and aftercare framing: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has him help turn mosquito attraction, repellent products, allergic itch, antihistamines, steroids, tick handling, chigger fever risk, and household source control into ordinary listener questions.
 
@@ -72,9 +76,9 @@ The same hosting pattern extends into mental-health and workplace pressure. In t
 The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, diabetes, obesity, medication, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
 
 ## What Changed
-- VOL.222 adds first-aid triage, 120 calling, CPR/AED judgment, seizure response, medication stacking, sports injury, wound, and burn scenarios to 阿汤's recorded host role.
-- The profile now treats emergency response as another branch of his recurring boundary-setting work between ordinary worry, internet shorthand, and professional care.
-- The page keeps his first-aid questions source-scoped rather than treating them as biographical evidence beyond the episode.
+- VOL.164 adds tobacco, vaping, environmental-smoke exposure, youth-initiation prevention, and smoking-cessation questions to 阿汤's recorded host role.
+- The profile now includes relapse recovery and cessation-clinic routing within his recurring public medical-literacy boundary work.
+- The guest and clinical claims remain source-scoped rather than becoming independent biography or treatment advice.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as host.
@@ -106,6 +110,11 @@ The wiki has no independent biographical evidence for 阿汤 beyond these episod
 - [[AcuteWoundBurnFirstAid]] - wound and burn first-aid boundary he prompts.
 - [[MedicationSelfCombinationRisk]] - self-medication and overlapping-drug risk he asks about.
 - [[SeizureFirstAidBoundary]] - convulsion-response boundary he helps make concrete.
+- [[LiDoctorSmokingCessation]] - respiratory and cessation guest he hosts in VOL.164.
+- [[ElectronicCigaretteRisk]] - vaping-risk misconception he asks the guest to unpack.
+- [[SecondhandThirdhandSmokeExposure]] - environmental-exposure frame he makes concrete through household and public examples.
+- [[YouthTobaccoInitiationPrevention]] - first-use prevention frame he develops through peer, family, retail, and media examples.
+- [[SmokingCessationSupport]] - quit-date, clinic, medication, and relapse-recovery frame he prompts.
 - [[StrengthTrainingJointProtection]] - joint-protection topic he prompts through questions about knees, hips, and muscles.
 - [[ExerciseAssistiveGearBoundary]] - support-device boundary he raises through braces, tape, and exoskeleton questions.
 - [[StretchingMobilitySafety]] - mobility and recovery topic he raises through stretching examples.

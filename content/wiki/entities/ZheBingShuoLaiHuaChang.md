@@ -25,14 +25,15 @@ sources:
   - vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y
   - vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
-last_updated: 2026-09-09
+  - vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
 # 这病说来话长 / Zhe Bing Shuo Lai Hua Chang
 
 ## Overview
-这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, nutrition, supplement, neuroscience, female and male urology, anesthesiology, otolaryngology, ophthalmology, musculoskeletal, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, speech-language and swallowing rehabilitation, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
+这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, tobacco-control, smoking-cessation, nutrition, supplement, neuroscience, female and male urology, anesthesiology, otolaryngology, ophthalmology, musculoskeletal, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, speech-language and swallowing rehabilitation, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
 
 ## Current Profile
 The show's current wiki profile is practical rather than encyclopedic. Its clinical branch covers individualized cancer vaccines, lumbar-disc care, missed-diagnosis uncertainty, female and male urological health, anesthesiology and perioperative safety, preoperative anesthesia assessment, otolaryngology and headphone/hearing safety, ophthalmology and eye-disease screening, speech-language and swallowing rehabilitation for dysphagia, pediatric language delay, articulation, adult aphasia, and dysarthria, insect-bite dermatology, sports-medicine exercise safety, cardiovascular exercise boundaries, first-aid triage, emergency response, and [[ClinicalMusicTherapy|clinical music therapy]]. In each case, specialist explanation is tied to indication, symptoms, follow-up, clinical validation, patient burden, exposure or activity history, assessment, and qualified care rather than headline certainty.
@@ -63,6 +64,8 @@ VOL.211 adds a preceding exercise-aesthetics and cardiovascular safety branch. [
 
 VOL.222 adds a dedicated first-aid and emergency-care branch through [[LiuChenEmergencyDoctor|刘臣]] and [[ZhuTengjiao|祝腾娇]] from [[PekingUniversityThirdHospital|北医三院]]. The episode turns World First Aid Day into [[FirstAidTriageAndEscalation]]: chest pain, palpitations, collapse, CPR/AED, AED safety fears, seizures, Heimlich-style response, sports injuries, wounds, burns, medication stacking, 120 call information, and simple emergency-kit preparation are treated as judgment-and-routing problems rather than folk technique lists.
 
+VOL.164 adds a tobacco-control and cessation branch through [[LiDoctorSmokingCessation|黎医生]]. The episode links [[ElectronicCigaretteRisk]], [[SecondhandThirdhandSmokeExposure]], [[YouthTobaccoInitiationPrevention]], and [[SmokingCessationSupport]] while keeping comparative product risk, medication, nicotine replacement, clinical cases, and cessation timelines source-scoped.
+
 ## Key Characteristics
 - Uses specialist guests to explain medical, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
@@ -83,17 +86,18 @@ VOL.222 adds a dedicated first-aid and emergency-care branch through [[LiuChenEm
 - Dermatology prevention and escalation: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] turns mosquito repellents, bite itch, antihistamines, steroids, caterpillar and rove-beetle dermatitis, tick handling, chigger fever risk, and household standing water into a practical prevention-and-care map.
 - Sports medicine, aesthetics, and movement safety: [[vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy]] turns long sitting, weekend exercise, running, swimming, cycling, tennis, HYROX, braces, tape, stretching, joint popping, knee valgus, and elderly fall prevention into load-management and escalation-boundary questions; [[vol-211-yue-yundong-yue-kualian-zhengxing-yisheng-yu-xinxueguan-yisheng-de-jianshen-qumei-zhinan-lsp1xlzq1iapc-qale-mzutigv0u]] adds exercise-as-aesthetic-medicine, cardiovascular screening, overtraining, supplements, sleep, injuries, and BLS/AED readiness.
 - First aid and emergency care: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] turns chest pain, palpitations, collapse, unconsciousness, abnormal breathing, CPR/AED, AED prompts, seizures, Heimlich-style choking response, sports trauma, wounds, burns, medication stacking, 120 information, and simple emergency-kit preparation into judgment, task-distribution, training, and qualified-care boundaries.
+- Tobacco control and cessation: [[vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn]] connects vaping risk, second- and third-hand exposure, youth first-use prevention, quit dates, cessation clinics, medication boundaries, and relapse recovery.
 - Lifestyle and consumer literacy: [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]], [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], and [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] turn weight, injections, CGM, carbohydrates, sugar, labels, sweeteners, supplements, functional-food identity, electrolyte drinks, fish oil, and meal replacements into bounded behavior and medical-risk questions.
 - Internet medical vocabulary: [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] rejects single-region or casual psychiatric explanations while preserving clinical escalation thresholds for persistent or worsening behavior change.
 - Workplace and education psychology: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] uses school-authority drama to explain parent projection, workplace bullying, psychological boundaries, evidence preservation, complaint channels, and professional support.
 
 ## Qualifications
-The page is based only on twenty-two ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on twenty-three ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.222 adds first-aid and emergency care as a dedicated branch rather than only a subtopic inside exercise safety.
-- The show profile now treats 120 calling, CPR/AED, AED prompt-following, chest-pain escalation, seizure protection, wound and burn response, and medication self-combination as medical-literacy boundary problems.
-- The synthesis now distinguishes practical bystander action from folk remedies, wrong-condition interventions, and technique use without formal training.
+- VOL.164 adds tobacco control and smoking cessation as a dedicated medical-literacy branch.
+- The show profile now includes electronic-cigarette risk, environmental smoke exposure, youth first-use prevention, and supported relapse recovery.
+- The synthesis keeps product comparisons, medication, nicotine replacement, and clinical timelines within qualified-care boundaries.
 
 ## Relationships
 - [[Atang]] - recurring host voice in the ingested episodes.
@@ -201,3 +205,8 @@ The page is based only on twenty-two ingested episode notes. It should not be tr
 - [[PsychologicalBoundaryProtection]] - response concept developed through the workplace-bullying episode.
 - [[ParentalProjectionControl]] - family and school-control branch from the drama discussion.
 - [[MedicalRiskManagement]] - safety frame that shapes the show's disclaimers and clinical boundaries.
+- [[LiDoctorSmokingCessation]] - respiratory and smoking-cessation guest in VOL.164.
+- [[ElectronicCigaretteRisk]] - vaping-risk frame explained by the show.
+- [[SecondhandThirdhandSmokeExposure]] - environmental-smoke frame explained by the show.
+- [[YouthTobaccoInitiationPrevention]] - first-use prevention frame developed by the show.
+- [[SmokingCessationSupport]] - behavior, clinical-support, and relapse-recovery frame developed by the show.

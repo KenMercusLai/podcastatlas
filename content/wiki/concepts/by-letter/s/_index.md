@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7642
+wiki_total_pages: 7646
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "SecondaryOralityInAIEra"
     title: "Secondary Orality In AI Era / AI 时代的次生口语文化"
     url: "/wiki/concepts/secondaryoralityinaiera/"
+  - key: "SecondhandThirdhandSmokeExposure"
+    title: "Secondhand and Thirdhand Smoke Exposure / 二手烟与三手烟暴露"
+    url: "/wiki/concepts/secondhandthirdhandsmokeexposure/"
   - key: "SecondhandGameEconomy"
     title: "Secondhand Game Economy"
     url: "/wiki/concepts/secondhandgameeconomy/"
@@ -914,6 +917,9 @@ wiki_pages:
   - key: "SmithVMaryland"
     title: "Smith v. Maryland"
     url: "/wiki/concepts/smithvmaryland/"
+  - key: "SmokingCessationSupport"
+    title: "Smoking Cessation Support / 戒烟支持"
+    url: "/wiki/concepts/smokingcessationsupport/"
   - key: "SMTSolver"
     title: "SMT Solver"
     url: "/wiki/concepts/smtsolver/"

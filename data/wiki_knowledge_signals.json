@@ -9000,9 +9000,9 @@
       "url": "/wiki/concepts/associativeknowledgesystems/"
     },
     "Atang": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -9101,9 +9101,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/atang/"
     },
     "Athena": {
@@ -33063,6 +33070,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
+    },
+    "ElectronicCigaretteRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/electroniccigaretterisk/"
     },
     "ElevenLabs": {
       "episode_count": 2,
@@ -66653,6 +66676,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/lidian/"
+    },
+    "LiDoctorSmokingCessation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/lidoctorsmokingcessation/"
     },
     "LiDuLateHan": {
       "episode_count": 1,
@@ -100945,6 +100984,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/secondaryoralityinaiera/"
     },
+    "SecondhandThirdhandSmokeExposure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/secondhandthirdhandsmokeexposure/"
+    },
     "SecrecyDrivenAdministrativeBottleneck": {
       "episode_count": 1,
       "show_count": 1,
@@ -105277,6 +105332,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/smartphoneaihub/"
+    },
+    "SmokingCessationSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/smokingcessationsupport/"
     },
     "Snap": {
       "episode_count": 4,
@@ -129583,6 +129654,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/youthprecautionaryculture/"
     },
+    "YouthTobaccoInitiationPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
+    },
     "YuChengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -133355,9 +133442,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -133512,9 +133599,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
+          "key": "vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn",
+          "show": "这病说来话长",
+          "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
+          "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhejiangUniversityChildrensHospital": {
