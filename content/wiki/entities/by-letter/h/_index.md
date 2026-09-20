@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10294
+wiki_total_pages: 10296
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "HorikiNoLongerHuman"
     title: "堀木 / Horiki"
     url: "/wiki/entities/horikinolongerhuman/"
+  - key: "HuguanLateHan"
+    title: "壶关 / Huguan (Late Han)"
+    url: "/wiki/entities/huguanlatehan/"
   - key: "Haodf"
     title: "好大夫在线"
     url: "/wiki/entities/haodf/"

@@ -20423,6 +20423,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi`; created `ChangLinLateHan` and `HereditarySuccessionCapabilityDecay`; updated `ZhongchangTongLateHan`, `GaoGanLateHan`, and `GoodDeathPoliticalSurvival`. Core synthesis: Chang Lin's delayed alignment, clean administration, and nonparticipation widen “good death” into an affiliation-service-withdrawal sequence, while Zhongchang Tong's Gao Gan warning and `Changyan` framing connect failed corrective feedback with hereditary capability mismatch, elite insulation, extraction, and political decline. The title's repeated Sima Yi kneeling claim is absent from the supplied body, so it remains unestablished alongside other uncited career details and dialogue.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？
+
+Added source `zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di`; created `LiangXiLateHan`, `HuguanLateHan`, and `LayeredLocalEliteDemobilization`; updated `GaoGanLateHan`, `CaoRen`, `BingzhouLateHan`, `TerrorRuleBackfire`, and `OfficeBasedLocalEliteIncorporation`. Core synthesis: Cao Cao's extermination threat removed Huguan's incentive to surrender until Cao Ren secured its withdrawal, while Liang Xi consolidated Bingzhou by sequentially separating local leaders, fighters, families, and home networks. No settled contradiction found; exact totals, modern salary conversion, proto-jiedushi comparison, hostage intent, motives, and the closing mystery-person preview remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

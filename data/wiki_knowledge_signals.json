@@ -12176,6 +12176,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/bingzhongluo/"
     },
+    "BingzhouLateHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？ [lgFUp6tYV85zHvnMZf6XleSMBlCj].md",
+          "key": "zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/bingzhoulatehan/"
+    },
     "BioNTech": {
       "episode_count": 1,
       "show_count": 1,
@@ -15790,9 +15820,9 @@
       "url": "/wiki/entities/caojielatehan/"
     },
     "CaoRen": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
@@ -15828,9 +15858,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1104丨曹操颁布求贤令，吸引了多少顶级人才？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/caoren/"
     },
     "CaoShaoLateHan": {
@@ -43984,9 +44021,9 @@
       "url": "/wiki/entities/gaofubo/"
     },
     "GaoGanLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -44008,6 +44045,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
         }
       ],
       "updated": "2026-09-20",
@@ -54547,6 +54591,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/hugochavez/"
     },
+    "HuguanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/huguanlatehan/"
+    },
     "HuhanyeChanyuBi": {
       "episode_count": 1,
       "show_count": 1,
@@ -64256,6 +64316,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/layeredjianghusocialfields/"
     },
+    "LayeredLocalEliteDemobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/layeredlocalelitedemobilization/"
+    },
     "LayneNorton": {
       "episode_count": 1,
       "show_count": 1,
@@ -66532,6 +66608,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/liangtongeasternhan/"
+    },
+    "LiangXiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/liangxilatehan/"
     },
     "LiangXiangWesternHan": {
       "episode_count": 1,
@@ -82427,9 +82519,9 @@
       "url": "/wiki/concepts/officeagentharnessdesign/"
     },
     "OfficeBasedLocalEliteIncorporation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！ [lm9_0R8mnWCrpqUKMSMOxWndZwY0].md",
@@ -82437,9 +82529,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/officebasedlocaleliteincorporation/"
     },
     "OfficeBasedRebelIncorporation": {
@@ -110205,9 +110304,9 @@
       "url": "/wiki/concepts/terminalvaluenarrative/"
     },
     "TerrorRuleBackfire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你 [lknSLTb-JkKXuW1V8gFA-f3VwOIN].md",
@@ -110222,9 +110321,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》447｜肆意杀囚，西汉酷吏严延年如何自取灭亡？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
+          "key": "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/terrorrulebackfire/"
     },
     "TeutonesAndCimbri": {

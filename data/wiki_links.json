@@ -29967,6 +29967,10 @@
     "title": "Hugo Mann",
     "url": "/wiki/entities/hugomann/"
   },
+  "HuguanLateHan": {
+    "title": "壶关 / Huguan (Late Han)",
+    "url": "/wiki/entities/huguanlatehan/"
+  },
   "HuhanyeChanyuBi": {
     "title": "呼韩邪单于比 / Huhanye Chanyu Bi",
     "url": "/wiki/entities/huhanyechanyubi/"
@@ -36031,6 +36035,10 @@
     "title": "Layered Jianghu Social Fields",
     "url": "/wiki/concepts/layeredjianghusocialfields/"
   },
+  "LayeredLocalEliteDemobilization": {
+    "title": "分层式地方武力拆解 / Layered Local Elite Demobilization",
+    "url": "/wiki/concepts/layeredlocalelitedemobilization/"
+  },
   "LayeredRobotArchitecture": {
     "title": "Layered Robot Architecture",
     "url": "/wiki/concepts/layeredrobotarchitecture/"
@@ -37078,6 +37086,10 @@
   "LiangTongEasternHan": {
     "title": "梁统 / Liang Tong (Eastern Han)",
     "url": "/wiki/entities/liangtongeasternhan/"
+  },
+  "LiangXiLateHan": {
+    "title": "梁习 / Liang Xi (late Han)",
+    "url": "/wiki/entities/liangxilatehan/"
   },
   "LiangXiangWesternHan": {
     "title": "梁相 / Liang Xiang (Western Han)",
@@ -77718,6 +77730,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di": {
+    "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
   },
   "zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi": {
     "title": "《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？",

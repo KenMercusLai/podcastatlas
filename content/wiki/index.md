@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？](sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di.md) — 曹操的屠城威胁如何反向强化壶关抵抗、高干败亡，以及梁习用授官、分兵、迁家属和武力整合并州。
 - [《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？](sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi.md) — 以常林的择主、清廉与避争讨论乱世善终，并以仲长统对高干的直谏和《昌言》批判连接识人、世袭能力衰减与治乱循环。
 - [《资治通鉴·汉纪》1075丨揭秘被《三国志》掩盖的亲密关系谋杀案](sources/zizhi-tongjian-hanji-1075-jiemi-bei-sanguozhi-yangai-de-qinmi-guanxi-moushaan-lnqfxk6r8h0nr6ytjfquosw_xvcq.md) — 以邯郸商与张猛从亲密旧友到权力冲突和谋杀的戏剧化叙事，讨论信任、兵权、资源与关系边界，并保留其年代和史料疑点。
 - [《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中](sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv.md) — 昌豨反复叛降后向旧友于禁投降，却因围后降者不赦的军令被处死；并串联庞淯哭邯郸商、废八王国与曹操备战乌桓。
@@ -5091,7 +5092,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [酸枣大营 / Suanzao Camp](entities/SuanzaoCamp.md) — anti-Dong-Zhuo coalition camp whose inaction and grain failure expose the limits of shared-enemy mobilization.
 - [襄阳 / Xiangyang (late Han)](entities/XiangyangLateHan.md) — Liu Biao's Jingzhou administrative base after the initial consolidation in Hanji 953.
 - [新野 / Xinye (late Han)](entities/XinyeLateHan.md) — Northern Jingzhou post where Liu Biao stations Liu Bei after defeat, functioning as both refuge and frontline buffer.
-- [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — 从袁氏冀州施压者转为并州叛乱者，又因拒绝仲长统关于志大少谋和识人不足的批评而呈现反馈失灵。
+- [高干 / Gao Gan (late Han)](entities/GaoGanLateHan.md) — 从袁氏冀州施压者转为并州叛乱者，最终在壶关失守、求援失败后被杀，并因拒绝仲长统批评而呈现反馈失灵。
 - [辛评 / Xin Ping (late Han)](entities/XinPingLateHan.md) — Yuan-side adviser who moves from Jizhou insider persuasion and Yuan Tan factional provocation to family-victim grievance when Ye falls.
 - [耿武 / Geng Wu (late Han)](entities/GengWuLateHan.md) — Han Fu subordinate who argues against yielding Jizhou and dies trying to block Yuan Shao.
 - [闵纯 / Min Chun (late Han)](entities/MinChunLateHan.md) — Han Fu subordinate who resists the Jizhou transfer and is killed at Yuan Shao's entry.
@@ -5244,7 +5245,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高柔 / Gao Rou (Late Han)](entities/GaoRouLateHan.md) — Chenliu observer who predicts that Cao Cao's ambition and Zhang Miao's local base will eventually destabilize their friendship.
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
 - [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
-- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose role spans an organized early following, post-Yanzhou trusted command, the Runan counterstrike, and Jiangling defense.
+- [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose role spans an organized early following, Huguan surrender-incentive advice, the Runan counterstrike, and Jiangling defense.
 - [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
 - [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
@@ -5286,7 +5287,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李进 / Li Jin (late Han)](entities/LiJinLateHan.md) — Local Yanzhou figure who defeats Lü Bu at Chengshi after the Puyang attrition phase.
 - [乘氏县 / Chengshi County (Late Han)](entities/ChengshiCountyLateHan.md) — County where Li Jin defeats Lü Bu after the Puyang withdrawal.
 - [程昱 / Cheng Yu](entities/ChengYu.md) — Cao Cao adviser whose profile spans adviser-platform synthesis, Yanzhou base defense, Yuan Shao dependency refusal, and low-force Juancheng defense before Guandu.
-- [并州 / Bingzhou (Late Han)](entities/BingzhouLateHan.md) — Northern late-Han province first marked here by Hanji 898's Xianbei attack and later by Zhang Yi's killing under Tuge Hu pressure.
+- [并州 / Bingzhou (Late Han)](entities/BingzhouLateHan.md) — Northern frontier province moving from exposed late-Han administration to Gao Gan's rebellion and Liang Xi's coercive consolidation.
 - [董扶 / Dong Fu (late Han)](entities/DongFuLateHan.md) — Shizhong whose Yizhou prophecy redirects Liu Yan's provincial destination choice.
 - [张懿 / Zhang Yi (late Han)](entities/ZhangYiLateHan.md) — Bingzhou inspector killed by the Tuge Hu in Hanji 939.
 - [屠各胡 / Tuge Hu](entities/TugeHu.md) — Frontier group tied to Zhang Yi's killing and the Southern Xiongnu revolt in Hanji 939.
@@ -12863,6 +12864,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [白狼山 / White Wolf Mountain (late Han)](entities/BailangMountainLateHan.md) — 207 CE battle setting linking Cao Cao's Wuhuan victory to the Yuan brothers' flight toward Liaodong.
 - [苏仆延 / Supuyan (late Han)](entities/SupuyanLateHan.md) — Wuhuan leader tied to Yuan Shao's frontier settlement and later killed with the Yuan brothers in Liaodong.
 
+- [梁习 / Liang Xi (late Han)](entities/LiangXiLateHan.md) — Cao-side Bingzhou administrator who combines strongman appointments, troop dispersal, family relocation, force, and scholar recommendation.
+- [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
+
 ## Concepts
 - [世袭继承能力衰减 / Hereditary Succession Capability Decay](concepts/HereditarySuccessionCapabilityDecay.md) — 世袭能传位置却不能保证传递治理能力，特权隔离又可能把精英欲望转成劳役、重税与政权衰败。
 - [Command Law Over Personal Ties / 军令高于私交](concepts/CommandLawOverPersonalTies.md) — 于禁在昌豨围后投降时以既定军令压过旧友情分的规则执行模式。
@@ -14737,7 +14741,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [帝王私库进奉盘剥 / Imperial Private Treasury Extraction](concepts/ImperialPrivateTreasuryExtraction.md) — Late-Han pattern where Emperor Ling's Xidi office-sale proceeds and palace-market/private-store logic convert public authority and local supply into extra extraction.
 - [修宫钱转嫁盘剥 / Palace Construction Fee Extraction](concepts/PalaceConstructionFeeExtraction.md) — Late-Han pattern where palace-construction and office-entry charges move through eunuch and appointment channels until local officials push the cost onto the people.
 - [授官式招安 / Office-Based Rebel Incorporation](concepts/OfficeBasedRebelIncorporation.md) — Late-Han pattern where office and title convert an armed rebel network into delegated or subordinate order when suppression is costly.
-- [授官式地方豪强整合 / Office-Based Local Elite Incorporation](concepts/OfficeBasedLocalEliteIncorporation.md) — Western Han local-governance pattern where office, bounded responsibility, rewards, and punishment fold strongmen into state order.
+- [授官式地方豪强整合 / Office-Based Local Elite Incorporation](concepts/OfficeBasedLocalEliteIncorporation.md) — Pattern where office turns strongmen into accountable agents or separates leaders from local capacity before wider coercive consolidation.
 - [山地根据地战略余地 / Mountain Base Strategic Optionality](concepts/MountainBaseStrategicOptionality.md) — Strategy pattern where a hard-to-clear mountain base preserves bargaining room by keeping an armed actor costly to eliminate and useful to incorporate.
 - [官威伪装渗透 / Authority Disguise Infiltration](concepts/AuthorityDisguiseInfiltration.md) — Deception pattern where an operative passes a hostile perimeter by performing recognized command authority.
 - [买官名节损耗 / Office-Sale Legitimacy Damage](concepts/OfficeSaleLegitimacyDamage.md) — Pattern where Xidi public office pricing, purchased high office, or fee-burdened appointments damage institutional credibility, officeholder reputation, or both.
@@ -20441,7 +20445,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Counterterrorism Powers Repurposing](concepts/CounterterrorismPowersRepurposing.md) — Risk that terrorism-law tools are applied to new criminal, political, or domestic targets.
 - [Revolutionary Opera Cultural Memory](concepts/RevolutionaryOperaCulturalMemory.md) — How revolutionary performance and songs preserve political memory through artistic biography.
 - [People's Artist State Honor](concepts/PeopleArtistStateHonor.md) — State-honor frame for turning a performer into an official cultural symbol.
-- [恐怖治理反噬 / Terror Rule Backfire](concepts/TerrorRuleBackfire.md) — Governance pattern where killing and fear produce apparent obedience while storing accusation, desertion, and collapse in crisis.
+- [恐怖治理反噬 / Terror Rule Backfire](concepts/TerrorRuleBackfire.md) — Pattern where killing and fear store internal abandonment or eliminate an enemy's incentive to surrender.
 
 - [Unexpected-Approach Fortress Assault / 意外进路式要塞突袭](concepts/UnexpectedApproachFortressAssault.md) — Using selected troops and a presumed-impossible route to convert local penetration into defensive shock.
 - [Civilian Infrastructure Air Campaign](concepts/CivilianInfrastructureAirCampaign.md) — Sustained drone-and-missile pressure on utilities, transport, commerce, and population centers to weaken economic and social endurance behind the front.
@@ -20465,5 +20469,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Okinawa Base Politics](concepts/OkinawaBasePolitics.md) — Conflict among alliance strategy, unequal local military burdens, historical memory, consent, and economic priorities in Okinawa.
 - [Climate-Altered Summer](concepts/ClimateAlteredSummer.md) — Warming-driven reshaping of calendars, travel, hazards, outdoor life, and seasonal culture.
 - [Incentive-Compatible AI Safety](concepts/IncentiveCompatibleAISafety.md) — AI-safety design principle aligning accountable conduct, cross-border participation, and feasible burdens for differently resourced actors.
+
+- [分层式地方武力拆解 / Layered Local Elite Demobilization](concepts/LayeredLocalEliteDemobilization.md) — Sequential separation of local leaders, fighters, families, and home networks through office, dispersal, relocation, and force.
 
 ## Syntheses

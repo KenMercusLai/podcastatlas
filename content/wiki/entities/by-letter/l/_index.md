@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10294
+wiki_total_pages: 10296
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1811,6 +1811,9 @@ wiki_pages:
   - key: "LiangBuyiLateHan"
     title: "梁不疑 / Liang Buyi (late Han)"
     url: "/wiki/entities/liangbuyilatehan/"
+  - key: "LiangXiLateHan"
+    title: "梁习 / Liang Xi (late Han)"
+    url: "/wiki/entities/liangxilatehan/"
   - key: "LiangJiLateHan"
     title: "梁冀 / Liang Ji (late Han)"
     url: "/wiki/entities/liangjilatehan/"

@@ -40905,6 +40905,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LayeredLocalEliteDemobilization": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LayeredRobotArchitecture": [
     {
       "key": "technology",

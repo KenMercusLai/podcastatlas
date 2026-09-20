@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7599
+wiki_total_pages: 7600
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "LyuBuFactionalBalance"
     title: "Lü Bu Factional Balance / 吕布集团派系平衡"
     url: "/wiki/concepts/lyubufactionalbalance/"
+  - key: "LayeredLocalEliteDemobilization"
+    title: "分层式地方武力拆解 / Layered Local Elite Demobilization"
+    url: "/wiki/concepts/layeredlocalelitedemobilization/"
   - key: "LegitimacyNarrativeAttack"
     title: "名分合法性叙事攻击 / Legitimacy Narrative Attack"
     url: "/wiki/concepts/legitimacynarrativeattack/"

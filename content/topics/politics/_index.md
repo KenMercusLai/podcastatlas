@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2571
+topic_total_pages: 2572
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3775,6 +3775,9 @@ topic_concepts:
   - key: "InternalCapacityBeforeWar"
     title: "内政承受力先于用兵 / Internal Capacity Before War"
     url: "/wiki/concepts/internalcapacitybeforewar/"
+  - key: "LayeredLocalEliteDemobilization"
+    title: "分层式地方武力拆解 / Layered Local Elite Demobilization"
+    url: "/wiki/concepts/layeredlocalelitedemobilization/"
   - key: "PenalSeverityExecutionTradeoff"
     title: "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff"
     url: "/wiki/concepts/penalseverityexecutiontradeoff/"
