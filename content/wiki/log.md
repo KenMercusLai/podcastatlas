@@ -20626,3 +20626,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 567. The Great Northern War: Murder in Moscow (Part 4)
+
+Added source `567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658`; created `TsarevichAlexei` and `ModernizingAutocracy`; and updated `PeterTheGreat`, `RussianEmpire`, `DynasticHeirRoleEntrapment`, overview, and index. Core synthesis: Peter's war-driven reforms, Saint Petersburg, industry, administration, science, and ranked service strengthened state capacity and autocratic durability together, while Alexei's forced return, purge, torture, and death expose the family and human violence inside that achievement. No settled contradiction found; conspiracy, torture, death-cause, motive, court-anecdote, reform-effectiveness, and legacy claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

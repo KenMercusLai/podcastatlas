@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7655
+wiki_total_pages: 7656
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -923,6 +923,9 @@ wiki_pages:
   - key: "ModernizationAsCompoundGrowth"
     title: "Modernization As Compound Growth / 复合增长式现代化"
     url: "/wiki/concepts/modernizationascompoundgrowth/"
+  - key: "ModernizingAutocracy"
+    title: "Modernizing Autocracy"
+    url: "/wiki/concepts/modernizingautocracy/"
   - key: "ModifiableDementiaRiskFactors"
     title: "Modifiable Dementia Risk Factors"
     url: "/wiki/concepts/modifiabledementiariskfactors/"

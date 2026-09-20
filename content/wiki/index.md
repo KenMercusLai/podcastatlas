@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [567. The Great Northern War: Murder in Moscow (Part 4)](sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658.md) — The Rest Is History episode on Peter the Great's modernizing autocracy, grotesque court, Tsarevich Alexei's flight and death, and the durability of Russia's reformed state.
 - [Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools](sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382.md) — Huberman Lab Essentials episode organizing morning light, delayed caffeine, protected work, exercise, meals, afternoon light, cooling, and sleep into one adaptable day.
 - [568. Hannibal: Rome's Greatest Enemy (Part 1)](sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410.md) — The Rest Is History episode on Carthaginian recovery in Spain, Hamilcar and Hasdrubal's foundations, Hannibal's formation, Saguntum, and the outbreak of the Second Punic War.
 - [Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo](sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705.md) — Huberman Lab episode with Melissa Ilardo on gene-environment interaction, standing variation, breath-hold diving adaptation, genetic determinism, and gene-editing ethics.
@@ -2587,6 +2588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
 - [Carthage / 迦太基](entities/Carthage.md) — North African maritime polity that rebuilds through Iberia after the First Punic War and enters war over Saguntum.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander who founds the Barcid Spanish power base inherited by Hannibal.
 - [Hasdrubal the Handsome / 美男子哈斯德鲁巴](entities/HasdrubalTheHandsome.md) — Hamilcar's successor who consolidates Iberia, founds New Carthage, and negotiates the Ebro agreement.
@@ -9664,8 +9666,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kenneth Bianchi](entities/KennethBianchi.md) — Hillside Strangler case figure used by episode 121 to discuss feigned mental illness and forensic psychology in court.
 - [James Brussel](entities/JamesBrussel.md) — Psychiatrist used by episode 121 to discuss criminal profiling as a useful but bounded investigative inference.
 - [Vitus Bering / 维图斯·白令](entities/VitusBering.md) — Danish-born Russian naval officer whose Kamchatka and Great Northern expeditions open the source's North Pacific exploration branch.
-- [Peter the Great / 彼得大帝](entities/PeterTheGreat.md) — Russian ruler whose sea-power modernization and route ambitions frame the Bering expeditions.
-- [Russian Empire / 俄罗斯帝国](entities/RussianEmpire.md) — Historical state context for the Bering expeditions, Siberian logistics, maritime ambition, and North Pacific expansion.
+- [Peter the Great / 彼得大帝](entities/PeterTheGreat.md) — Russian ruler whose maritime, administrative, and scientific reforms strengthened both state capacity and autocratic coercion.
+- [Russian Empire / 俄罗斯帝国](entities/RussianEmpire.md) — State transformed through Baltic war, centralized reform, Siberian logistics, maritime ambition, and coercive expansion.
 - [First Kamchatka Expedition / 第一次勘察加探险](entities/FirstKamchatkaExpedition.md) — Bering-led expedition that crossed Siberia, built ships at Okhotsk, and tested the Asia-America separation question.
 - [Great Northern Expedition / 大北方探险](entities/GreatNorthernExpedition.md) — Expanded second Bering expedition combining navigation, science, settlement, Japanese-route exploration, and imperial infrastructure.
 - [Georg Wilhelm Steller / 乔治·威廉·斯特勒](entities/GeorgWilhelmSteller.md) — Naturalist and doctor whose plant, animal, and scurvy observations become crucial during the Bering Island survival episode.
@@ -12928,6 +12930,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Modernizing Autocracy](concepts/ModernizingAutocracy.md) — Top-down reform that expands institutional and technical capacity while preserving or strengthening centralized coercion.
 - [Daily Circadian Performance Routine](concepts/DailyCircadianPerformanceRoutine.md) — Whole-day sequencing frame coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and sleep.
 - [Ultradian Deep Work Block](concepts/UltradianDeepWorkBlock.md) — Protected roughly 90-minute work interval with distraction control, alert workspace design, and flexible personal timing.
 - [Barcid Spanish Power Base / 巴卡家族西班牙权力基地](concepts/BarcidSpanishPowerBase.md) — Iberian resource, recruitment, administrative, and loyalty system inherited by Hannibal.
@@ -14421,7 +14424,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [帝王私欲治理风险 / Imperial Private Desire Governance Risk](concepts/ImperialPrivateDesireGovernanceRisk.md) — Pattern where a ruler's appetite, affection, companionship, or prestige desire becomes a public governance problem through resource burden, reward distortion, or access capture.
 - [进言不纳后的抽身 / Counsel Exit After Nonresponse](concepts/CounselExitAfterNonresponse.md) — Political-survival pattern where an adviser withdraws after counsel has been delivered, ignored, and made risky to repeat.
 - [Austro-Hungarian Dual Monarchy](concepts/AustroHungarianDualMonarchy.md) — 1867 compromise preserving Habsburg rule while formalizing budget, army, tariff, minority-rights, and nationalities tensions.
-- [Dynastic Heir Role Entrapment](concepts/DynasticHeirRoleEntrapment.md) — Pattern where heir status creates symbolic burden, harsh formation, arranged marriage, blocked agency, and political frustration before succession.
+- [Dynastic Heir Role Entrapment](concepts/DynasticHeirRoleEntrapment.md) — Pattern where symbolic burden, coercive formation, marriage, blocked agency, and unbelievable exits trap an heir before succession.
 - [Multimodal Adult Neuroplasticity](concepts/MultimodalAdultNeuroplasticity.md) — Adult learning frame where novel, difficult, meaningful activities combine cognition, movement, feedback, social context, and mistakes.
 - [Flow-Clutch Learning Distinction](concepts/FlowClutchLearningDistinction.md) — Learning and performance-state boundary separating effortless-feeling flow from effortful clutch states and error-rich practice.
 - [Exercise-Specific Brain Adaptation](concepts/ExerciseSpecificBrainAdaptation.md) — Brain-health exercise frame distinguishing acute arousal, aerobic/HIIT hippocampal effects, resistance-training white-matter effects, and recovery boundaries.

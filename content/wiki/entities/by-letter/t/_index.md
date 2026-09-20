@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10332
+wiki_total_pages: 10333
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "TsaiEngMeng"
     title: "Tsai Eng-meng / 蔡衍明"
     url: "/wiki/entities/tsaiengmeng/"
+  - key: "TsarevichAlexei"
+    title: "Tsarevich Alexei / 阿列克谢皇太子"
+    url: "/wiki/entities/tsarevichalexei/"
   - key: "Tsathoggua"
     title: "Tsathoggua / 萨托古雅"
     url: "/wiki/entities/tsathoggua/"

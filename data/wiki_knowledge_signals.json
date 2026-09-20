@@ -32238,9 +32238,9 @@
       "url": "/wiki/concepts/dynasticheirlossshock/"
     },
     "DynasticHeirRoleEntrapment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6194086702 [GLT6194086702].md",
@@ -32248,9 +32248,16 @@
           "show": "The Rest Is History",
           "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
           "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        },
+        {
+          "episode_file": "GLT4718660658 [GLT4718660658].md",
+          "key": "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658",
+          "show": "The Rest Is History",
+          "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
+          "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/dynasticheirroleentrapment/"
     },
     "DynasticMemoryReportingRitual": {
@@ -80449,6 +80456,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/modernistheritagerecognitiongap/"
     },
+    "ModernizingAutocracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4718660658 [GLT4718660658].md",
+          "key": "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658",
+          "show": "The Rest Is History",
+          "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
+          "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/modernizingautocracy/"
+    },
     "ModifiableDementiaRiskFactors": {
       "episode_count": 2,
       "show_count": 2,
@@ -88977,6 +89000,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/peterfankhauser/"
+    },
+    "PeterTheGreat": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
+          "key": "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218",
+          "show": "蜜獾吃书",
+          "title": "120.蓝狐岛：伟大事业中的雄心与现实",
+          "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+        },
+        {
+          "episode_file": "GLT4718660658 [GLT4718660658].md",
+          "key": "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658",
+          "show": "The Rest Is History",
+          "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
+          "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/peterthegreat/"
     },
     "PetitionRewardLoyaltySignal": {
       "episode_count": 1,
@@ -99558,6 +99604,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/russellwilder/"
+    },
+    "RussianEmpire": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
+          "key": "120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218",
+          "show": "蜜獾吃书",
+          "title": "120.蓝狐岛：伟大事业中的雄心与现实",
+          "url": "/wiki/sources/120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218/"
+        },
+        {
+          "episode_file": "GLT4718660658 [GLT4718660658].md",
+          "key": "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658",
+          "show": "The Rest Is History",
+          "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
+          "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/russianempire/"
     },
     "RutgersUniversity": {
       "episode_count": 1,
@@ -116063,6 +116132,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/tsaiengmeng/"
+    },
+    "TsarevichAlexei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4718660658 [GLT4718660658].md",
+          "key": "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658",
+          "show": "The Rest Is History",
+          "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
+          "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/tsarevichalexei/"
     },
     "TudorSuccessionCrisis": {
       "episode_count": 4,
