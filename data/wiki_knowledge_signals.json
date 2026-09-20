@@ -25500,6 +25500,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/dandriver/"
     },
+    "DanEgan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/danegan/"
+    },
     "DanNoUraBattle": {
       "episode_count": 1,
       "show_count": 1,
@@ -43804,6 +43820,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gallipolicampaign/"
     },
+    "GamblingFrictionRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/gamblingfrictionregulation/"
+    },
     "GameSpiritOrganization": {
       "episode_count": 1,
       "show_count": 1,
@@ -50660,6 +50692,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/heartraterecoverycapacity/"
+    },
+    "HeatherTuke": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/heathertuke/"
     },
     "HeavyAgricultureLightCommercePolicy": {
       "episode_count": 4,
@@ -67407,6 +67455,43 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/liquidsugarrisk/"
     },
+    "LiquidityDrivenVolatilityCascade": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs： SLOW DOWN AI, Mamdani's Grocery Stores [42282790].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores-42282790/"
+        },
+        {
+          "episode_file": "155.如何理解黄金的史诗级波动 [lp3lcda5ZskIV_dcEZcUGF2q93VI].md",
+          "key": "155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi",
+          "show": "起朱楼宴宾客",
+          "title": "155.如何理解黄金的史诗级波动",
+          "url": "/wiki/sources/155-ruhe-lijie-huangjin-de-shishiji-bodong-lp3lcda5zskiv-dcezcugf2q93vi/"
+        },
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/liquiditydrivenvolatilitycascade/"
+    },
     "LisaGherardini": {
       "episode_count": 1,
       "show_count": 1,
@@ -75003,6 +75088,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/margaretthatcher/"
     },
+    "MarginTradingForcedSelling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/margintradingforcedselling/"
+    },
     "MariaCurie": {
       "episode_count": 7,
       "show_count": 1,
@@ -75572,6 +75673,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/maternalstatussuccessionleverage/"
+    },
+    "MattBallColorado": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/mattballcolorado/"
     },
     "MausoleumCountyEliteRelocation": {
       "episode_count": 1,
@@ -102507,6 +102624,36 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/singleauthorinstitutionalcodification/"
     },
+    "SingleStockLeveragedETF": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Vol.266 一次性搞懂ETF [1002344828].md",
+          "key": "vol-266-yi-ci-xing-gao-dong-etf-1002344828",
+          "show": "商业就是这样",
+          "title": "Vol.266 一次性搞懂ETF",
+          "url": "/wiki/sources/vol-266-yi-ci-xing-gao-dong-etf-1002344828/"
+        },
+        {
+          "episode_file": "vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂 [luSAGciTDOZVzm8WaUsvecVI-qmB].md",
+          "key": "vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb",
+          "show": "起朱楼宴宾客",
+          "title": "vol.121.从昙花一现的分级基金到风头正劲的杠杆ETF：永远不要低估人性的疯狂",
+          "url": "/wiki/sources/vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/singlestockleveragedetf/"
+    },
     "Sirens": {
       "episode_count": 1,
       "show_count": 1,
@@ -104815,6 +104962,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/sportasreconciliationritual/"
+    },
+    "SportsBettingAsInvestment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/sportsbettingasinvestment/"
     },
     "SportsCapitalCannotBuyLegitimacy": {
       "episode_count": 1,
@@ -110648,6 +110811,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/theendofreadingishere/"
     },
+    "TheIndicator": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
+          "key": "indicators-of-2025-and-what-to-watch-in-2026",
+          "show": "Planet Money",
+          "title": "Indicators of 2025 and What to Watch in 2026",
+          "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/theindicator/"
+    },
     "TheNewDarkAges": {
       "episode_count": 1,
       "show_count": 1,
@@ -114946,6 +115132,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/urgedespiteriskcircuit/"
     },
+    "UrienTimmer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/urientimmer/"
+    },
     "UrinaryTractInfectionBehaviorBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -118754,6 +118956,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/watersystemcyberresilience/"
+    },
+    "WaylonWong": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
+          "key": "indicators-of-2025-and-what-to-watch-in-2026",
+          "show": "Planet Money",
+          "title": "Indicators of 2025 and What to Watch in 2026",
+          "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
+          "key": "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737",
+          "show": "Planet Money",
+          "title": "How investing is getting riskier (Two Indicators)",
+          "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/waylonwong/"
     },
     "WeakAuthorityLeadership": {
       "episode_count": 1,

@@ -2,28 +2,53 @@
 title: "Single-Stock Leveraged ETF / 个股杠杆 ETF"
 type: concept
 tags: [investing, etf, leverage, stocks]
-sources: [vol-266-yi-ci-xing-gao-dong-etf-1002344828, vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]
-last_updated: 2026-08-07
+sources:
+  - vol-266-yi-ci-xing-gao-dong-etf-1002344828
+  - vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb
+  - default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737
+last_updated: 2026-09-20
+knowledge_schema: synthesis-v1
 ---
 
 # Single-Stock Leveraged ETF / 个股杠杆 ETF
 
-Single-stock leveraged ETF enters the wiki through [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] as the newer and more volatile form of retail-accessible leverage. Unlike broad-index leveraged ETFs, these products target daily leveraged exposure to one company such as [[Nvidia]].
+## Definition
+A single-stock leveraged ETF targets a multiple of one company's daily return, concentrating leverage, path dependence, and product-flow effects in an already volatile underlying security.
 
-The source uses [[NVDL]] to show why the category can be more dangerous than index leverage. A single stock's higher volatility increases [[VolatilityDecay|volatility decay]], and investor excitement around a hot name can create market-price premium risk on top of the product's daily-reset mechanics.
-
-[[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds [[ETF7709HK|7709.HK]] as a Hong Kong-listed [[SKHynix|SK Hynix]] case. The episode extends the category from Nvidia-linked products into cross-border semiconductor access, where [[CrossMarketLeveragedETFExecutionRisk|trading-hour mismatch]] and dealer hedging can feed back into the underlying stock.
+## Current Synthesis
+The complete evidence set moves from product mechanics to market feedback. [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] establishes daily reset, volatility decay, premium risk, and the [[NVDL]] case. [[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] adds [[ETF7709HK|7709.HK]], where swap hedging and mismatched Hong Kong-Korea trading hours can transmit fund flows into [[SKHynix|SK Hynix]]. [[default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737]] adds the unwind: South Korean approval and retail demand are followed by forced selling during a sharp memory-stock decline even as the underlying business story remains strong.
 
 ## Key Claims
-- Single-stock leveraged ETFs are daily tools, not promises of two-times or three-times cumulative stock returns.
-- A volatile underlying stock increases path-dependence and compounding drag.
-- Popular single names can invite demand-driven premium, making late buyers vulnerable even before the underlying collapses.
-- The product may convert stock fandom into leveraged trading without enough risk literacy.
-- Vol.266 adds that single-stock leveraged ETFs can also transmit product flows back into the underlying through swap hedging and cross-market execution windows.
+- The leverage target applies to a day, not the investor's full holding period.
+- Single-stock volatility makes path dependence and compounding drag more severe than in broad indexes.
+- Demand can create secondary-market premium and crowded-position risk beyond the stock's fundamentals.
+- Swap hedging and cross-market execution can feed product flows back into the underlying share.
+- Strong company fundamentals do not protect a leveraged holder from a margin or liquidity unwind.
 
-## Connections
-- [[NVDL]] and [[Nvidia]] - main source case.
-- [[LeveragedETF]], [[DailyLeverageReset]], and [[VolatilityDecay]] - core product mechanics.
-- [[ChineseStructuredFund]] and [[StructuredFundDownwardConversion]] - source's historical comparison around retail leverage and premium collapse.
-- [[BehavioralInvestingBiases]] and [[LeveragedProductSuitability]] - investor-behavior and suitability context.
-- [[ETF7709HK|7709.HK]], [[SKHynix|SK Hynix]], [[LeveragedETFHedgingFeedback]], and [[CrossMarketLeveragedETFExecutionRisk]] - Vol.266's Korean memory-stock case.
+## Evidence
+### Daily-reset and concentration mechanics
+- [[vol-121-cong-tanhua-yixian-de-fenji-jijin-dao-fengtou-zhengjing-de-ganggan-etf-yongyuan-buyao-digu-renxing-de-fengkuang-lusagcitdozvzm8wausvecvi-qmb]] uses [[NVDL]] to show how one volatile stock increases compounding drag and premium risk.
+
+### Cross-market hedging feedback
+- [[vol-266-yi-ci-xing-gao-dong-etf-1002344828]] uses [[ETF7709HK|7709.HK]] to connect swap hedging, non-overlapping trading hours, and limited derivatives capacity to underlying-share volatility.
+
+### Forced-selling outcome
+- [[default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737]] reports a South Korean leverage unwind around [[SKHynix|SK Hynix]] and [[Samsung]], with many retail accounts liquidated despite continued semiconductor demand.
+
+## Counterevidence & Qualifications
+- Leveraged ETFs can serve a bounded tactical purpose for investors who understand daily targets, sizing, financing, and exit rules.
+- The sources do not isolate how much of the Korean decline came from single-stock ETFs versus ordinary margin debt, broader market selling, or other derivatives.
+- Product-flow and liquidation totals remain source-attributed rather than independently verified here.
+
+## What Changed
+- Added the South Korean forced-selling outcome to the prior mechanics and hedging evidence.
+- Clarified that good underlying fundamentals do not remove path and financing risk.
+- Migrated the page to the synthesis-first concept structure.
+
+## Related Concepts
+- [[LeveragedETF]] - broader daily-leverage product category.
+- [[DailyLeverageReset]] - mechanism defining the product's daily rather than cumulative target.
+- [[VolatilityDecay]] - compounding effect intensified by a volatile single stock.
+- [[MarginTradingForcedSelling]] - account-level liquidation mechanism exposed by the Korean case.
+- [[LiquidityDrivenVolatilityCascade]] - market-wide feedback loop that crowded leveraged products can intensify.
+- [[LeveragedProductSuitability]] - investor-fit boundary for tactical leverage tools.

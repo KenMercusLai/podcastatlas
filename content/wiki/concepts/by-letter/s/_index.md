@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7601
+wiki_total_pages: 7604
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1208,6 +1208,9 @@ wiki_pages:
   - key: "SportsAsHistoricalReadingFrame"
     title: "Sports As Historical Reading Frame"
     url: "/wiki/concepts/sportsashistoricalreadingframe/"
+  - key: "SportsBettingAsInvestment"
+    title: "Sports Betting as Investment"
+    url: "/wiki/concepts/sportsbettingasinvestment/"
   - key: "SportsBettingEngagement"
     title: "Sports Betting Engagement"
     url: "/wiki/concepts/sportsbettingengagement/"

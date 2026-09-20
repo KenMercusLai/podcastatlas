@@ -19687,6 +19687,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DanEgan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "DanMoriarty": [
     {
       "key": "culture",
@@ -29141,6 +29148,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GamblingFrictionRegulation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GamePreservation": [
     {
       "key": "culture",
@@ -32631,6 +32645,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HeatherTuke": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "HeavyAgricultureLightCommercePolicy": [
@@ -44599,6 +44620,13 @@
     }
   ],
   "MarginOfSafety": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "MarginTradingForcedSelling": [
     {
       "key": "economics",
       "label": "Economics",
@@ -64446,6 +64474,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SportsBettingAsInvestment": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SportsBettingEngagement": [
     {
       "key": "culture",
@@ -72148,6 +72183,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "UrienTimmer": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "UseStrengthsOverFaults": [
@@ -81028,6 +81070,18 @@
     }
   ],
   "default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515-default-mp3-ywr3ahjkcgo-8eb9e254581eaa220d9428df389214d5-27844515": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
     {
       "key": "politics",
       "label": "Politics",

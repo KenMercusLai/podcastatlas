@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-20
-as_of_overview_commit: 8891ee46762e5e12f34ed4501ef64cc6fa1a8e5c
+as_of_overview_commit: 1e9adfbf9e1517217cec673205a7626742e6527f
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2547
-source_count: 2547
-paragraph_count: 652
+episode_count: 2554
+source_count: 2554
+paragraph_count: 653
 topic_count: 8
 ---
 
@@ -36,7 +36,7 @@ Technology creates durable value when compute, energy, data, interfaces, workflo
 
 ### Business and Markets
 
-Business value survives when paid demand, distribution, delivery capacity, capital discipline, market legibility, and risk-adjusted economics remain visible.
+Business value and household financial safety depend on visible demand, delivery capacity, capital discipline, market legibility, and controls on leverage and gambling-like risk.
 
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale. Evidence: [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee]], [[BoggBag]], [[KimVaccarella]], [[DefectiveInventoryDemandSignal]], [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], [[FounderRestartAfterFailure]], [[HardwareInventoryRisk]], [[InventoryHeavyConsumerBrandFinancing]], [[WholesaleAsMarketing]], [[FastProductValidation]], [[StartupGovernance]], [[ConsumerBrandMoat]].

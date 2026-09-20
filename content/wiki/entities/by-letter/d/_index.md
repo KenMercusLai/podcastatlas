@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10296
+wiki_total_pages: 10300
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "DanDriver"
     title: "Dan Driver"
     url: "/wiki/entities/dandriver/"
+  - key: "DanEgan"
+    title: "Dan Egan"
+    url: "/wiki/entities/danegan/"
   - key: "DanLevine"
     title: "Dan Levine"
     url: "/wiki/entities/danlevine/"

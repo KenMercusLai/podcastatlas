@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7601
+wiki_total_pages: 7604
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "MarginOfSafety"
     title: "Margin Of Safety"
     url: "/wiki/concepts/marginofsafety/"
+  - key: "MarginTradingForcedSelling"
+    title: "Margin Trading Forced Selling"
+    url: "/wiki/concepts/margintradingforcedselling/"
   - key: "MarginalAnalysis"
     title: "Marginal Analysis"
     url: "/wiki/concepts/marginalanalysis/"

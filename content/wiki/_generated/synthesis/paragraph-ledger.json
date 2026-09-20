@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "319056ea04d09ca68758b7405efbdec39c7ad98a69307c8d3dbd9fb6e11775ba",
       "a4e3e81f63f74a55437a930c2b8d9da76076303e1afc6eb02a386620bacbed42",
       "385c78dc0929bf5ef2bc0931f79b99ea687c25357745e98a5d9d820e32256298",
       "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
@@ -654,11 +655,36 @@
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 652
+    "paragraph_count": 653
   },
-  "overview_commit": "3ff2390f449642424880ab50d3e2c1c94d7938dc",
-  "overview_digest": "bbfd2f720b7a100b207dfa51cff61d622a7d740b674bd7f9e8a3b25329e171b3",
+  "overview_commit": "1e9adfbf9e1517217cec673205a7626742e6527f",
+  "overview_digest": "64f0bf91c617c18f4b86fc21be26ca740ae15ff04f4a86a5f184f9e4fce07599",
   "paragraphs": [
+    {
+      "id": "319056ea04d09ca68758b7405efbdec39c7ad98a69307c8d3dbd9fb6e11775ba",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The latest addition is [[default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737|How investing is getting riskier (Two Indicators)]], a [[PlanetMoney]] crossover with [[TheIndicator]] joining retail leverage and sports betting under one household-risk frame. It adds [[MarginTradingForcedSelling]], [[SportsBettingAsInvestment]], [[GamblingFrictionRegulation]], [[HeatherTuke]], [[UrienTimmer]], [[DanEgan]], and [[MattBallColorado|Matt Ball]], while extending [[WaylonWong]], [[TheIndicator]], [[SingleStockLeveragedETF]], and [[LiquidityDrivenVolatilityCascade]]. Its core synthesis is that a valid long-run thesis cannot protect a borrower from short-run collateral liquidation, while promotions, overconfidence, and economic anxiety can make sportsbook wagering look like an accelerated investment path; Colorado's payment and messaging friction is therefore recorded as an untested intervention rather than proven harm reduction. No settled contradiction is recorded, and the episode's U.S. margin figures, Korean liquidation totals, Gen Z survey shares, and constituent stories remain source-attributed.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "DanEgan",
+        "GamblingFrictionRegulation",
+        "HeatherTuke",
+        "LiquidityDrivenVolatilityCascade",
+        "MarginTradingForcedSelling",
+        "MattBallColorado",
+        "PlanetMoney",
+        "SingleStockLeveragedETF",
+        "SportsBettingAsInvestment",
+        "TheIndicator",
+        "UrienTimmer",
+        "WaylonWong",
+        "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737"
+      ]
+    },
     {
       "id": "a4e3e81f63f74a55437a930c2b8d9da76076303e1afc6eb02a386620bacbed42",
       "primary_topic": "history-and-geopolitics",

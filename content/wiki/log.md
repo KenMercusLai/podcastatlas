@@ -20450,3 +20450,11 @@ Added source `zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-ming
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | How investing is getting riskier (Two Indicators)
+
+Added the Planet Money/The Indicator source on margin-driven forced selling and sports betting treated as investment. Created `MarginTradingForcedSelling`, `SportsBettingAsInvestment`, `GamblingFrictionRegulation`, `HeatherTuke`, `UrienTimmer`, `DanEgan`, and `MattBallColorado`; updated and migrated `WaylonWong`, `TheIndicator`, `SingleStockLeveragedETF`, and `LiquidityDrivenVolatilityCascade` to `synthesis-v1`. No settled contradiction found; headline leverage figures, Korean liquidation totals, Gen Z survey shares, and Colorado policy effects remain source-attributed or unproven.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

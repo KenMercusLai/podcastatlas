@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 10296
+wiki_total_pages: 10300
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -293,6 +293,9 @@ wiki_pages:
   - key: "UrbanDecay"
     title: "Urban Decay"
     url: "/wiki/entities/urbandecay/"
+  - key: "UrienTimmer"
+    title: "Urien Timmer"
+    url: "/wiki/entities/urientimmer/"
   - key: "UrsulaKLeGuin"
     title: "Ursula K. Le Guin / 厄休拉·勒古恩"
     url: "/wiki/entities/ursulakleguin/"

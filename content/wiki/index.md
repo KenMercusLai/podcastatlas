@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How investing is getting riskier (Two Indicators)](sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737.md) — Planet Money and The Indicator on margin-driven forced selling, South Korean leveraged chip bets, Gen Z sports betting as investment, and Colorado's experimental betting friction.
 - [《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？](sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk.md) — 杜畿单骑入河东，以授权、募兵和轮休降低豪强戒心并拆散其武力网络，为后续守城与地方动员铺路。
 - [《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？](sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu.md) — 杜畿以县级防御、断粮和外援平定河东叛乱，并以宽政、农桑、教育与军备建设经营十六年。
 - [《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？](sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di.md) — 曹操的屠城威胁如何反向强化壶关抵抗、高干败亡，以及梁习用授官、分兵、迁家属和武力整合并州。
@@ -2565,6 +2566,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
 
 ## Entities
+- [Heather Tuke](entities/HeatherTuke.md) — Yale finance professor using India's margin-eligibility divide to explain forced-sale amplification.
+- [Urien Timmer](entities/UrienTimmer.md) — Fidelity strategist distinguishing record leverage from crash timing while warning against leveraged ETFs.
+- [Dan Egan](entities/DanEgan.md) — Behavioral-finance expert connecting sports-betting overconfidence with economic anxiety and expensive learning.
+- [Matt Ball (Colorado legislator)](entities/MattBallColorado.md) — State senator sponsoring experimental payment, deposit, and communication friction for sports betting.
 - [常林 / Chang Lin (late Han)](entities/ChangLinLateHan.md) — 拒袁绍、待曹操定河北后出仕，并以清廉、谨慎和避开后期权争获得善终评价的汉末曹魏官员。
 - [庞淯 / Pang Yu (late Han)](entities/PangYuLateHan.md) — 辞官赴武威哭祭邯郸商、怀刃求报并因公开忠义获张猛赦免的酒泉官员。
 - [张猛 / Zhang Meng (late Han)](entities/ZhangMengLateHan.md) — 杀邯郸商并禁丧、后因声誉约束放过庞淯；Hanji 1075另给出有年代冲突的旧友反目演绎。
@@ -12870,6 +12875,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Margin Trading Forced Selling](concepts/MarginTradingForcedSelling.md) — Feedback loop where falling collateral creates mandatory sales that can amplify a market decline.
+- [Sports Betting as Investment](concepts/SportsBettingAsInvestment.md) — Reframing sportsbook wagers as a high-risk wealth strategy or shortcut to financial goals.
+- [Gambling Friction Regulation](concepts/GamblingFrictionRegulation.md) — Payment, communication, and frequency limits designed to slow loss chasing and repeated deposits.
 - [世袭继承能力衰减 / Hereditary Succession Capability Decay](concepts/HereditarySuccessionCapabilityDecay.md) — 世袭能传位置却不能保证传递治理能力，特权隔离又可能把精英欲望转成劳役、重税与政权衰败。
 - [Command Law Over Personal Ties / 军令高于私交](concepts/CommandLawOverPersonalTies.md) — 于禁在昌豨围后投降时以既定军令压过旧友情分的规则执行模式。
 - [战略排除与聚焦 / Strategic Exclusion and Focus](concepts/StrategicExclusionAndFocus.md) — 通过明确不做什么，把稀缺资源集中到相互强化的根据地、伙伴结构与长期目标上，同时允许执行顺序随条件调整。

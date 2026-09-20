@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10296
+wiki_total_pages: 10300
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "MattAshby"
     title: "Matt Ashby"
     url: "/wiki/entities/mattashby/"
+  - key: "MattBallColorado"
+    title: "Matt Ball (Colorado legislator)"
+    url: "/wiki/entities/mattballcolorado/"
   - key: "MattJacobs"
     title: "Matt Jacobs"
     url: "/wiki/entities/mattjacobs/"

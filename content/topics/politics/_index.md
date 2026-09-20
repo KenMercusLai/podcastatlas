@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2572
+topic_total_pages: 2574
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1423,6 +1423,9 @@ topic_concepts:
   - key: "FutureResidentHousingVoice"
     title: "Future Resident Housing Voice"
     url: "/wiki/concepts/futureresidenthousingvoice/"
+  - key: "GamblingFrictionRegulation"
+    title: "Gambling Friction Regulation"
+    url: "/wiki/concepts/gamblingfrictionregulation/"
   - key: "GamblingAdjacentCommerceDesign"
     title: "Gambling-Adjacent Commerce Design"
     url: "/wiki/concepts/gamblingadjacentcommercedesign/"
@@ -7062,6 +7065,9 @@ topic_sources:
   - key: "tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128"
     title: "How government uses \"surveillance as a service\" to collect data"
     url: "/wiki/sources/tech-20260302-0302-mp-tech-pod-128-tech-20260302-0302-mp-tech-pod-128/"
+  - key: "default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737"
+    title: "How investing is getting riskier (Two Indicators)"
+    url: "/wiki/sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737/"
   - key: "how-much-money-president-trump-and-his-family-have-made"
     title: "How much money President Trump and his family have made"
     url: "/wiki/sources/how-much-money-president-trump-and-his-family-have-made/"
