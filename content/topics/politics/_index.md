@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2574
+topic_total_pages: 2575
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -7092,6 +7092,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955"
     title: "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207"
+    title: "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
   - key: "jerome-powell-and-the-test-of-fed-independence"
     title: "Jerome Powell and the Test of Fed Independence"
     url: "/wiki/sources/jerome-powell-and-the-test-of-fed-independence/"

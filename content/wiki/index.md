@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms](sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207.md) — All-In interview with JD Vance on border and manufacturing policy, Iran and inflation, deficits, electricity, AI cyber governance, H-1B restrictions, benefit fraud, alliances, and the midterms.
 - [史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷](sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j.md) — 史蒂夫说 conversation with Ajiao on patient symbolization, public projection, explanatory limits, relational safety, bodily survival, and de-romanticizing death.
 - [EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？](sources/ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr.md) — 无时差研究所 episode rereading 《花儿与少年》第二季 through incomplete editing, pseudo-consensus, coordination failure, gendered labor visibility, and changing workplace interpretation.
 - [图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？](sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031.md) — 声动早咖啡 episode on Want Want's hero-product dependence, formula and governance constraints, fragmented marketing, and channels that favor old hits over launches.

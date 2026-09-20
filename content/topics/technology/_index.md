@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3080
+topic_total_pages: 3081
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8628,6 +8628,9 @@ topic_sources:
   - key: "tsr-s5-jared-v3final-tsr-s5-jared-v3final"
     title: "Jared Friedman, Partner, Y Combinator; Co-founder, Scribd"
     url: "/wiki/sources/tsr-s5-jared-v3final-tsr-s5-jared-v3final/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207"
+    title: "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490"
     title: "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump-42903490/"

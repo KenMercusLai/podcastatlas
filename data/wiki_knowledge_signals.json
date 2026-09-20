@@ -25163,9 +25163,9 @@
       "url": "/wiki/concepts/customervaluebasedpricing/"
     },
     "CyberCapableModelControls": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Elon’s Anthropic Deal, The Next AI Monopoly？, “FDA for AI” Panic, Trading the AI Boom [41231285].md",
@@ -25173,9 +25173,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms [42921207].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/cybercapablemodelcontrols/"
     },
     "Cyberport": {
@@ -32585,6 +32592,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/electrictwowheelermarketdivergence/"
+    },
+    "ElectricityAffordabilityIndicator": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475 [default.mp3_ywr3ahjkcgo_f17904cb588113b2be001b690b20690e_20012475].md",
+          "key": "indicators-of-2025-and-what-to-watch-in-2026",
+          "show": "Planet Money",
+          "title": "Indicators of 2025 and What to Watch in 2026",
+          "url": "/wiki/sources/indicators-of-2025-and-what-to-watch-in-2026/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms [42921207].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/electricityaffordabilityindicator/"
     },
     "ElectrolyteDrinkUseBoundary": {
       "episode_count": 1,
@@ -47074,6 +47104,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/governmentaipacesetting/"
     },
+    "GovernmentBenefitFraudMatching": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms [42921207].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/governmentbenefitfraudmatching/"
+    },
     "GovernmentDataSiloCollapse": {
       "episode_count": 1,
       "show_count": 1,
@@ -48590,6 +48643,43 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/gwenshotwell/"
+    },
+    "H1BVisaCoalitionFaultLine": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "不熄灯E02 币圈闪崩、美国政府关门、First Brands破产、娃哈哈风波 [lt-ghzGmIRoo9a-ODaIH4xkhsuLu].md",
+          "key": "bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu",
+          "show": "起朱楼宴宾客",
+          "title": "不熄灯 E02：币圈闪崩、美国政府关门、First Brands 破产与娃哈哈风波",
+          "url": "/wiki/sources/bu-xi-deng-e02-bi-quan-shan-beng-mei-guo-zheng-fu-guan-men-first-brands-po-chan-wa-ha-ha-feng-bo-lt-ghzgmiroo9a-odaih4xkhsulu/"
+        },
+        {
+          "episode_file": "tech_20251223_1223_MP_TECH_pod_128 [tech_20251223_1223_MP_TECH_pod_128].md",
+          "key": "tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why Big Tech leaders aligned themselves with White House politics this year",
+          "url": "/wiki/sources/tech-20251223-1223-mp-tech-pod-128-tech-20251223-1223-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Howard Lutnick： How America Can Hit 6% GDP Growth in 2026 [39668255].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-howard-lutnick-how-america-can-hit-6-gdp-growth-in-2026-39668255/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms [42921207].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/h1bvisacoalitionfaultline/"
     },
     "HAndHGroup": {
       "episode_count": 1,
@@ -59178,6 +59268,57 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/jdcom/"
+    },
+    "JDVance": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - All-In's 2026 Predictions [39681260].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "All-In's 2026 Predictions",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-all-ins-2026-predictions-39681260/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"
+        },
+        {
+          "episode_file": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图 [2a529abf-3c14-4ae7-a0a5-fe1340a66c7d].md",
+          "key": "e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d",
+          "show": "硅谷101",
+          "title": "E233｜硅谷右翼的权力网如何形成？聊聊彼得·蒂尔的思想启蒙拼图",
+          "url": "/wiki/sources/e233-guigu-youyi-de-quanli-wang-ruhe-xingcheng-liaoliao-bide-tier-de-sixiang-qimeng-pintu-2a529abf-3c14-4ae7-a0a5-fe1340a66c7d/"
+        },
+        {
+          "episode_file": "Missing peace： will Israel imperil Iran deal？ [6a3bae9fe1238e54b0e886c3].md",
+          "key": "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3",
+          "show": "Economist Podcasts",
+          "title": "Missing Peace: Will Israel Imperil Iran Deal?",
+          "url": "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"
+        },
+        {
+          "episode_file": "vol.113.从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络 [lihNKnC-3oM5EVEXOcB6A6zdwueu].md",
+          "key": "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu",
+          "show": "起朱楼宴宾客",
+          "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
+          "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms [42921207].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/jdvance/"
     },
     "JDWhiteBar": {
       "episode_count": 1,
@@ -114533,9 +114674,9 @@
       "url": "/wiki/concepts/usfastfoodchinaexpansion/"
     },
     "USFiscalDebtSpiralRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -114543,9 +114684,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms [42921207].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
     },
     "USImmigrationAndCustomsEnforcement": {

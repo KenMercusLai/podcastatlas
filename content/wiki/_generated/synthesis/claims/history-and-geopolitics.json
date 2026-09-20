@@ -2,6 +2,20 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "vance-frames-war-and-alliances-through-us-interest",
+      "qualifications": [
+        "The Iran military outcomes, shipping threat, and energy-security necessity are administration claims from a friendly interview rather than independent verification.",
+        "The source does not resolve whether the Iran action is compatible with earlier non-entanglement promises or how disagreement with allies changes policy in practice."
+      ],
+      "statement": "[[all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207|The JD Vance interview]] defends Iran action through shipping and energy security while presenting [[JDVance|Vance]]'s alliance doctrine as cooperation with Israel and NATO only where partners align with independently defined U.S. interests.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207",
+        "JDVance"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-1086-clemency-feud-and-institutional-absorption",
       "qualifications": [
         "This short popular-history episode is not an independent reconstruction of the Huang Zu campaign.",
@@ -699,6 +713,6 @@
     }
   ],
   "input_digest": "cb1a8d9fde7f055a5590eca4db0e52bb5b1a8a09da9973b327d53dcb8d0f9747",
-  "summary": "The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Hanji 1077 adds the decision phase of Cao Cao’s 207 CE Wuhuan expedition: Guo Jia combines enemy complacency and Liu Biao’s reluctance to empower Liu Bei with a deliberate baggage-for-speed tradeoff, while rain and route blockage preserve the campaign’s operational uncertainty. Across the corpus, exact motives, dialogues, totals, demographic claims, and retrospective causal claims remain bounded to their sources rather than treated as settled history.",
+  "summary": "The JD Vance interview adds a source-scoped alliance and war edge: the administration defends Iran action through shipping and energy security while describing Israel and NATO as partners that cannot determine U.S. policy; compatibility with restraint promises and military-outcome claims remains contested. The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Hanji 1077 adds the decision phase of Cao Cao’s 207 CE Wuhuan expedition: Guo Jia combines enemy complacency and Liu Biao’s reluctance to empower Liu Bei with a deliberate baggage-for-speed tradeoff, while rain and route blockage preserve the campaign’s operational uncertainty. Across the corpus, exact motives, dialogues, totals, demographic claims, and retrospective causal claims remain bounded to their sources rather than treated as settled history.",
   "topic_id": "history-and-geopolitics"
 }

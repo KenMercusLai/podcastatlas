@@ -20498,3 +20498,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207`; migrated and updated `JDVance`, `H1BVisaCoalitionFaultLine`, `GovernmentBenefitFraudMatching`, and `ElectricityAffordabilityIndicator`; and updated `CyberCapableModelControls` and `USFiscalDebtSpiralRisk`. Core synthesis: the administration links AI and industrial growth to electricity abundance, narrows H-1B around exceptional contribution and worker-displacement tests, treats benefit enforcement as a federal-state data problem, and pairs targeted cyber controls with defensive access. No settled contradiction found; immigration, manufacturing, war, inflation, electricity, fraud, enrollment, savings, and legal claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

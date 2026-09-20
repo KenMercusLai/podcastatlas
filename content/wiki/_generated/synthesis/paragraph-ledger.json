@@ -654,12 +654,13 @@
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0",
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
-      "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
+      "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
+      "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 654
+    "paragraph_count": 655
   },
-  "overview_commit": "ae48cf9ce39c792a510eadc193de7e398a8e8cf4",
-  "overview_digest": "e39cbe4225bb475e4d9daf700bafd54d59a04b6f806dff00b0b312e7216cd84f",
+  "overview_commit": "70b7094056c37bec65fadac53e9deed6a5cb7352",
+  "overview_digest": "3feebbe52a5d842cf0754e374c57cd3861dc4589e5524d15e8d19d567722e542",
   "paragraphs": [
     {
       "id": "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
@@ -19826,6 +19827,31 @@
         "SmartphoneAIHub",
         "YangYangTelecomResearcher",
         "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4"
+      ]
+    },
+    {
+      "id": "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "ai-and-technology",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207|JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms]], an [[AllIn|All-In]] interview presenting [[JDVance|JD Vance]]'s midterm-era defense of the administration across immigration, reindustrialization, Iran, inflation, deficits, electricity, AI governance, H-1B, benefit fraud, and alliances. It extends [[H1BVisaCoalitionFaultLine]], [[GovernmentBenefitFraudMatching]], [[ElectricityAffordabilityIndicator]], [[CyberCapableModelControls]], and [[USFiscalDebtSpiralRisk]]. Its core synthesis is that the administration connects AI and industrial growth to physical power abundance, narrows skilled immigration around exceptional contribution and worker-displacement tests, treats benefit enforcement as a federal-state data problem, and favors targeted cyber controls with usable defensive access over global model governance. No settled contradiction is recorded; immigration, investment, inflation, military, electricity, fraud, enrollment, savings, and legal-authority claims remain source-scoped, while the interview leaves live disputes over Iran restraint, data-center cost causation, H-1B durability, and benefit-program due process unresolved.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 1,
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "AllIn",
+        "CyberCapableModelControls",
+        "ElectricityAffordabilityIndicator",
+        "GovernmentBenefitFraudMatching",
+        "H1BVisaCoalitionFaultLine",
+        "JDVance",
+        "USFiscalDebtSpiralRisk",
+        "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207"
       ]
     }
   ],
