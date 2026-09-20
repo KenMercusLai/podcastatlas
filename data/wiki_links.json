@@ -9335,6 +9335,10 @@
     "title": "Breakneck",
     "url": "/wiki/entities/breakneck/"
   },
+  "BreathHoldDivingAdaptation": {
+    "title": "Breath-Hold Diving Adaptation",
+    "url": "/wiki/concepts/breathholddivingadaptation/"
+  },
   "BreathfulPresence": {
     "title": "Breathful Presence",
     "url": "/wiki/concepts/breathfulpresence/"
@@ -25267,6 +25271,10 @@
     "title": "Gene-Editing Treatment Ethics / 基因编辑治疗伦理",
     "url": "/wiki/concepts/geneeditingtreatmentethics/"
   },
+  "GeneEnvironmentInteraction": {
+    "title": "Gene-Environment Interaction",
+    "url": "/wiki/concepts/geneenvironmentinteraction/"
+  },
   "GeneExpressionMatrix": {
     "title": "Gene Expression Matrix",
     "url": "/wiki/concepts/geneexpressionmatrix/"
@@ -25370,6 +25378,10 @@
   "GeneticCulpabilityProblem": {
     "title": "Genetic Culpability Problem / 遗传归责问题",
     "url": "/wiki/concepts/geneticculpabilityproblem/"
+  },
+  "GeneticDeterminismMindsetEffects": {
+    "title": "Genetic Determinism and Mindset Effects",
+    "url": "/wiki/concepts/geneticdeterminismmindseteffects/"
   },
   "GeneticLineupPrivacyRisk": {
     "title": "Genetic Lineup Privacy Risk",
@@ -30246,6 +30258,10 @@
   "HumanFlourishingProfit": {
     "title": "Human Flourishing Profit",
     "url": "/wiki/concepts/humanflourishingprofit/"
+  },
+  "HumanGeneEditingEthics": {
+    "title": "Human Gene-Editing Ethics",
+    "url": "/wiki/concepts/humangeneeditingethics/"
   },
   "HumanImperfectionCreativeValue": {
     "title": "Human Imperfection Creative Value / 人类瑕疵的创作价值",
@@ -41582,6 +41598,10 @@
   "MelanieBenish": {
     "title": "Melanie Benish",
     "url": "/wiki/entities/melaniebenish/"
+  },
+  "MelissaIlardo": {
+    "title": "Melissa Ilardo",
+    "url": "/wiki/entities/melissailardo/"
   },
   "MelodyJue": {
     "title": "Melody Jue",
@@ -58827,6 +58847,10 @@
     "title": "Standards-Based Innovation",
     "url": "/wiki/concepts/standardsbasedinnovation/"
   },
+  "StandingGeneticVariation": {
+    "title": "Standing Genetic Variation",
+    "url": "/wiki/concepts/standinggeneticvariation/"
+  },
   "StandupClassPositionEqualization": {
     "title": "Stand-Up Class Position Equalization / 脱口秀中的阶层位置重组",
     "url": "/wiki/concepts/standupclasspositionequalization/"
@@ -73906,6 +73930,10 @@
   "before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets": {
     "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
     "url": "/wiki/sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets/"
+  },
+  "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705": {
+    "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+    "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
   },
   "betty-boop-excel-olympics-penny-isms-our-2026-valentines": {
     "title": "Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines",

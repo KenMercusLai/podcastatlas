@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7646
+wiki_total_pages: 7651
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "GeneEditingTreatmentEthics"
     title: "Gene-Editing Treatment Ethics / 基因编辑治疗伦理"
     url: "/wiki/concepts/geneeditingtreatmentethics/"
+  - key: "GeneEnvironmentInteraction"
+    title: "Gene-Environment Interaction"
+    url: "/wiki/concepts/geneenvironmentinteraction/"
   - key: "GeneralAverage"
     title: "General Average"
     url: "/wiki/concepts/generalaverage/"
@@ -170,6 +173,9 @@ wiki_pages:
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"
+  - key: "GeneticDeterminismMindsetEffects"
+    title: "Genetic Determinism and Mindset Effects"
+    url: "/wiki/concepts/geneticdeterminismmindseteffects/"
   - key: "GeneticLineupPrivacyRisk"
     title: "Genetic Lineup Privacy Risk"
     url: "/wiki/concepts/geneticlineupprivacyrisk/"

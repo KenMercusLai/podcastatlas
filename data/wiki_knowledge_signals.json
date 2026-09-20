@@ -4160,9 +4160,9 @@
       "url": "/wiki/concepts/achaemenidimperialorderideology/"
     },
     "AcquiredTraitInheritanceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1624813352 [SCIM1624813352].md",
@@ -4170,9 +4170,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
           "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        },
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/acquiredtraitinheritanceboundary/"
     },
     "AcquisitionContractLanguage": {
@@ -13852,6 +13859,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/breachofsurrendertrust/"
+    },
+    "BreathHoldDivingAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/breathholddivingadaptation/"
     },
     "BreathfulPresence": {
       "episode_count": 1,
@@ -36411,9 +36434,9 @@
       "url": "/wiki/concepts/epicherohumanlimits/"
     },
     "EpigeneticReprogrammingBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1624813352 [SCIM1624813352].md",
@@ -36421,9 +36444,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi",
           "url": "/wiki/sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352/"
+        },
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
@@ -45302,6 +45332,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/geneeditingtreatmentethics/"
     },
+    "GeneEnvironmentInteraction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/geneenvironmentinteraction/"
+    },
     "GeneralGrowthProperties": {
       "episode_count": 1,
       "show_count": 1,
@@ -45457,6 +45503,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/genesismission/"
+    },
+    "GeneticDeterminismMindsetEffects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/geneticdeterminismmindseteffects/"
     },
     "GeneticLineupPrivacyRisk": {
       "episode_count": 1,
@@ -56039,6 +56101,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/humanextractionposture/"
+    },
+    "HumanGeneEditingEthics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/humangeneeditingethics/"
     },
     "HumanImperfectionCreativeValue": {
       "episode_count": 2,
@@ -77474,6 +77552,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/meifuwesternhan/"
+    },
+    "MelissaIlardo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/melissailardo/"
     },
     "Memex": {
       "episode_count": 1,
@@ -107265,6 +107359,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/sspai/"
+    },
+    "StandingGeneticVariation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2045300705 [SCIM2045300705].md",
+          "key": "behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705",
+          "show": "Huberman Lab",
+          "title": "Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo",
+          "url": "/wiki/sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/standinggeneticvariation/"
     },
     "StandupClassPositionEqualization": {
       "episode_count": 1,

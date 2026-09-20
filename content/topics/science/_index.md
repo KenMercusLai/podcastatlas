@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1131
+topic_total_pages: 1132
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -766,6 +766,9 @@ topic_concepts:
   - key: "GeneExpressionMatrix"
     title: "Gene Expression Matrix"
     url: "/wiki/concepts/geneexpressionmatrix/"
+  - key: "GeneEnvironmentInteraction"
+    title: "Gene-Environment Interaction"
+    url: "/wiki/concepts/geneenvironmentinteraction/"
   - key: "GenerativeBiology"
     title: "Generative Biology"
     url: "/wiki/concepts/generativebiology/"

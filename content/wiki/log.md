@@ -20602,3 +20602,11 @@ Added source `vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo
+
+Added source `behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705`; created `MelissaIlardo`, `GeneEnvironmentInteraction`, `StandingGeneticVariation`, `BreathHoldDivingAdaptation`, `GeneticDeterminismMindsetEffects`, and `HumanGeneEditingEthics`; and updated `AcquiredTraitInheritanceBoundary` and `EpigeneticReprogrammingBoundary`. Core synthesis: gene expression, lifetime training, inherited variation, and selection operate on different timescales, so the Bajo/Bajau and Haenyeo cases join culture, physiology, and population genetics without reducing adaptation to either genes or behavior alone. No settled contradiction found; human trauma and famine inheritance, diving-performance, mindset, CRISPR, and embryo-testing claims remain source-scoped, and breath-hold diving is not a self-testing protocol.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7646
+wiki_total_pages: 7651
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "BrandmauerCordonSanitaire"
     title: "Brandmauer Cordon Sanitaire"
     url: "/wiki/concepts/brandmauercordonsanitaire/"
+  - key: "BreathHoldDivingAdaptation"
+    title: "Breath-Hold Diving Adaptation"
+    url: "/wiki/concepts/breathholddivingadaptation/"
   - key: "BreathfulPresence"
     title: "Breathful Presence"
     url: "/wiki/concepts/breathfulpresence/"
