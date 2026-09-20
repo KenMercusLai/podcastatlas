@@ -663,12 +663,13 @@
       "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0",
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
-      "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
+      "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb",
+      "47ae2228246ab9b5b5e6024a10f36bfae6db8aead8a1f432c52d0c8a26254f2a"
     ],
-    "paragraph_count": 663
+    "paragraph_count": 664
   },
-  "overview_commit": "f8cdedc91ce6460f5d3010aedf15dcb078dc42a1",
-  "overview_digest": "241078c12cbc103667e5ffd80ddd4a06ca2ef38232536ef96eba7fb30e809077",
+  "overview_commit": "bf4eecb15de4dc62c9d19286cc4c3eaae99bdecb",
+  "overview_digest": "a811be447364c5fea8fe199551981c61c899f8f658c73120164e536a04bc2a59",
   "paragraphs": [
     {
       "id": "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
@@ -20038,6 +20039,28 @@
         "JDVance",
         "USFiscalDebtSpiralRisk",
         "all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207"
+      ]
+    },
+    {
+      "id": "47ae2228246ab9b5b5e6024a10f36bfae6db8aead8a1f432c52d0c8a26254f2a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410|568. Hannibal: Rome's Greatest Enemy (Part 1)]], a [[TheRestIsHistory]] episode supplying the missing foundation before the already-ingested Hannibal Parts 2 and 3. It adds [[HamilcarBarca]], [[HasdrubalTheHandsome]], [[Carthage]], [[NewCarthage]], [[Saguntum]], [[BarcidSpanishPowerBase]], and [[SaguntumWarTrigger]], while extending [[HannibalBarca]]. Its core synthesis is that Carthage's defeat and Roman pressure redirect recovery into an Iberian system of mines, land, recruits, cities, and army loyalty that Hannibal inherits; Saguntum then converts overlapping Roman friendship and Carthaginian sphere claims into war through siege, delayed intervention, sack, and an unacceptable surrender demand. No settled contradiction is recorded; the childhood oath, treaty interpretation, exact figures, atrocity details, speeches, motives, and degree of Barcid independence remain source-scoped ancient claims.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+        "BarcidSpanishPowerBase",
+        "Carthage",
+        "HamilcarBarca",
+        "HannibalBarca",
+        "HasdrubalTheHandsome",
+        "NewCarthage",
+        "Saguntum",
+        "SaguntumWarTrigger",
+        "TheRestIsHistory"
       ]
     }
   ],

@@ -1773,6 +1773,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "568-hannibal-romes-greatest-enemy-part-1-glt7606824410": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633": [
     {
       "key": "history",
@@ -60401,6 +60408,20 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "Saguntum": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SaguntumWarTrigger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SahaUllsvig": [

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2589
+topic_total_pages: 2591
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3049,6 +3049,9 @@ topic_concepts:
   - key: "SafetyTradeoffBlindness"
     title: "Safety Tradeoff Blindness"
     url: "/wiki/concepts/safetytradeoffblindness/"
+  - key: "SaguntumWarTrigger"
+    title: "Saguntum War Trigger / 萨贡托战争触发机制"
+    url: "/wiki/concepts/saguntumwartrigger/"
   - key: "SanctionsEvasionCryptoPayments"
     title: "Sanctions Evasion Crypto Payments"
     url: "/wiki/concepts/sanctionsevasioncryptopayments/"
@@ -5897,6 +5900,9 @@ topic_entities:
   - key: "SadiaPekkanen"
     title: "Sadia Pekkanen"
     url: "/wiki/entities/sadiapekkanen/"
+  - key: "Saguntum"
+    title: "Saguntum / 萨贡托"
+    url: "/wiki/entities/saguntum/"
   - key: "SahaUllsvig"
     title: "Saha Ullsvig"
     url: "/wiki/entities/sahaullsvig/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10327
+wiki_total_pages: 10332
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "HamidHosseini"
     title: "Hamid Hosseini"
     url: "/wiki/entities/hamidhosseini/"
+  - key: "HamilcarBarca"
+    title: "Hamilcar Barca / 哈米尔卡·巴卡"
+    url: "/wiki/entities/hamilcarbarca/"
   - key: "HamiltonHelmer"
     title: "Hamilton Helmer"
     url: "/wiki/entities/hamiltonhelmer/"
@@ -224,6 +227,9 @@ wiki_pages:
   - key: "Harvey"
     title: "Harvey"
     url: "/wiki/entities/harvey/"
+  - key: "HasdrubalTheHandsome"
+    title: "Hasdrubal the Handsome / 美男子哈斯德鲁巴"
+    url: "/wiki/entities/hasdrubalthehandsome/"
   - key: "HasekuraTsunenaga"
     title: "Hasekura Tsunenaga / 支仓常长"
     url: "/wiki/entities/hasekuratsunenaga/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [568. Hannibal: Rome's Greatest Enemy (Part 1)](sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410.md) — The Rest Is History episode on Carthaginian recovery in Spain, Hamilcar and Hasdrubal's foundations, Hannibal's formation, Saguntum, and the outbreak of the Second Punic War.
 - [Behaviors That Alter Your Genes to Improve Your Health & Performance | Dr. Melissa Ilardo](sources/behaviors-that-alter-your-genes-to-improve-your-health-performance-dr-melissa-ilardo-scim2045300705.md) — Huberman Lab episode with Melissa Ilardo on gene-environment interaction, standing variation, breath-hold diving adaptation, genetic determinism, and gene-editing ethics.
 - [VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟](sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn.md) — 这病说来话长 episode on vaping risk, second- and third-hand exposure, youth initiation prevention, cessation clinics, medication boundaries, and relapse recovery.
 - [569. Hannibal: Elephants Cross the Alps (Part 2)](sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633.md) — The Rest Is History episode on Hannibal's land-invasion logic, Gallic diplomacy, Rhone crossing, Alpine ambushes, propaganda, attrition, and route uncertainty.
@@ -2585,6 +2586,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Carthage / 迦太基](entities/Carthage.md) — North African maritime polity that rebuilds through Iberia after the First Punic War and enters war over Saguntum.
+- [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander who founds the Barcid Spanish power base inherited by Hannibal.
+- [Hasdrubal the Handsome / 美男子哈斯德鲁巴](entities/HasdrubalTheHandsome.md) — Hamilcar's successor who consolidates Iberia, founds New Carthage, and negotiates the Ebro agreement.
+- [New Carthage / 新迦太基](entities/NewCarthage.md) — Iberian capital and resource-command center of Barcid Spain.
+- [Saguntum / 萨贡托](entities/Saguntum.md) — Iberian city whose disputed alignment and siege trigger the Second Punic War.
 - [Melissa Ilardo](entities/MelissaIlardo.md) — Human-genetics researcher connecting population adaptation, diving physiology, inherited variation, and cultural ecology.
 - [黎医生 / Li Doctor (respiratory and smoking cessation)](entities/LiDoctorSmokingCessation.md) — Source-scoped respiratory guest explaining vaping harms, environmental smoke exposure, and supported smoking cessation.
 - [Costello (Andrew Huberman's dog)](entities/CostelloDog.md) — Huberman's companion dog whose decline, remembered character, and public bond ground the episode's account of care and grief.
@@ -12921,6 +12927,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Barcid Spanish Power Base / 巴卡家族西班牙权力基地](concepts/BarcidSpanishPowerBase.md) — Iberian resource, recruitment, administrative, and loyalty system inherited by Hannibal.
+- [Saguntum War Trigger / 萨贡托战争触发机制](concepts/SaguntumWarTrigger.md) — Escalation from overlapping sphere and alliance claims to siege, surrender demand, and open war.
 - [Gene-Environment Interaction](concepts/GeneEnvironmentInteraction.md) — Multi-timescale framework separating gene expression, training, development, inherited variation, and selection.
 - [Standing Genetic Variation](concepts/StandingGeneticVariation.md) — Pre-existing inherited diversity that can become advantageous after environmental change.
 - [Breath-Hold Diving Adaptation](concepts/BreathHoldDivingAdaptation.md) — Interaction of mammalian dive physiology, training, cultural exposure, and population-level inherited variation.

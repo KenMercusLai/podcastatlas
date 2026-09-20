@@ -20610,3 +20610,11 @@ Added source `behaviors-that-alter-your-genes-to-improve-your-health-performance
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 568. Hannibal: Rome's Greatest Enemy (Part 1)
+
+Added source `568-hannibal-romes-greatest-enemy-part-1-glt7606824410`; created `HamilcarBarca`, `HasdrubalTheHandsome`, `Carthage`, `NewCarthage`, `Saguntum`, `BarcidSpanishPowerBase`, and `SaguntumWarTrigger`; and updated `HannibalBarca`, overview, and index. Core synthesis: Carthage's postwar recovery builds an Iberian resource and command system that Hannibal inherits, while Saguntum converts overlapping sphere and alliance claims into open war through siege, delayed intervention, sack, and a surrender demand. No settled contradiction found; the oath, treaty interpretation, exact figures, atrocity details, speeches, motives, and degree of Barcid independence remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

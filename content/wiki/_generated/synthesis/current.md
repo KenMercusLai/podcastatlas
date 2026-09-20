@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: 0b0cee17089c285b44382664185b47f4a25f8bac
+as_of_overview_commit: bf4eecb15de4dc62c9d19286cc4c3eaae99bdecb
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2571
-source_count: 2571
-paragraph_count: 663
+episode_count: 2574
+source_count: 2574
+paragraph_count: 664
 topic_count: 8
 ---
 
@@ -20,7 +20,7 @@ topic_count: 8
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
-- [[569-hannibal-elephants-cross-the-alps-part-2-glt8313087633|Hannibal Part 2]] and [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067|Part 3]] make [[HannibalAlpineCrossing]] the costly strategic route into Italy's coalition battlefield: [[HannibalBarca]] joins diplomacy, intelligence, logistics, propaganda, and [[HannibalicOperationalDeception]] to gain initiative before Trebia and Trasimene, while [[FabianStrategy]] converts Roman manpower, allied confidence, and training time into endurance.
+- [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410|Hannibal Part 1]] adds the [[BarcidSpanishPowerBase]] and [[SaguntumWarTrigger]] behind Parts 2 and 3: [[HamilcarBarca]], [[HasdrubalTheHandsome]], and [[Carthage]] build the resources and command system [[HannibalBarca]] inherits, disputed commitments around [[Saguntum]] convert rivalry into war, and [[HannibalAlpineCrossing|the Alpine crossing]] then becomes the costly route into Italy's coalition battlefield, where [[HannibalicOperationalDeception]] gains initiative and [[FabianStrategy]] converts deeper Roman capacity into endurance.
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools.
 - [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.

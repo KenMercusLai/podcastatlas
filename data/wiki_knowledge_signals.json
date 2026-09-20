@@ -11273,6 +11273,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/barbertonohio/"
     },
+    "BarcidSpanishPowerBase": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/barcidspanishpowerbase/"
+    },
     "BasicResearchBreakthroughLatency": {
       "episode_count": 1,
       "show_count": 1,
@@ -16878,6 +16894,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/carrierbagnarrative/"
+    },
+    "Carthage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/carthage/"
     },
     "CaseExpansionPoliticalPurge": {
       "episode_count": 3,
@@ -49572,6 +49604,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/halliemiller/"
     },
+    "HamilcarBarca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/hamilcarbarca/"
+    },
     "HamiltonBurrDuel": {
       "episode_count": 1,
       "show_count": 1,
@@ -50998,9 +51046,9 @@
       "url": "/wiki/concepts/hannibalalpinecrossing/"
     },
     "HannibalBarca": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -51015,6 +51063,13 @@
           "show": "The Rest Is History",
           "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
           "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
+        },
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
         }
       ],
       "updated": "2026-09-21",
@@ -51386,6 +51441,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/haroldwilson/"
+    },
+    "HasdrubalTheHandsome": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/hasdrubalthehandsome/"
     },
     "HazelGroveCustoms": {
       "episode_count": 1,
@@ -82390,6 +82461,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/neutralitytointerventionmemory/"
     },
+    "NewCarthage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/newcarthage/"
+    },
     "NewGoldenAgeScienceAgenda": {
       "episode_count": 2,
       "show_count": 1,
@@ -99670,6 +99757,38 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/sageox/"
+    },
+    "Saguntum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/saguntum/"
+    },
+    "SaguntumWarTrigger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7606824410 [GLT7606824410].md",
+          "key": "568-hannibal-romes-greatest-enemy-part-1-glt7606824410",
+          "show": "The Rest Is History",
+          "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+          "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/saguntumwartrigger/"
     },
     "SahanaJayaraman": {
       "episode_count": 1,

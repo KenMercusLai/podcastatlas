@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7651
+wiki_total_pages: 7653
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "BarbudaLandAct"
     title: "Barbuda Land Act"
     url: "/wiki/concepts/barbudalandact/"
+  - key: "BarcidSpanishPowerBase"
+    title: "Barcid Spanish Power Base / 巴卡家族西班牙权力基地"
+    url: "/wiki/concepts/barcidspanishpowerbase/"
   - key: "BarrierRemovalSocialChange"
     title: "Barrier-Removal Social Change"
     url: "/wiki/concepts/barrierremovalsocialchange/"

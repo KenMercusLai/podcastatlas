@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10327
+wiki_total_pages: 10332
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "Carta"
     title: "Carta"
     url: "/wiki/entities/carta/"
+  - key: "Carthage"
+    title: "Carthage / 迦太基"
+    url: "/wiki/entities/carthage/"
   - key: "Cartier"
     title: "Cartier"
     url: "/wiki/entities/cartier/"

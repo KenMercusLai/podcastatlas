@@ -1171,6 +1171,10 @@
     "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
     "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
   },
+  "568-hannibal-romes-greatest-enemy-part-1-glt7606824410": {
+    "title": "568. Hannibal: Rome's Greatest Enemy (Part 1)",
+    "url": "/wiki/sources/568-hannibal-romes-greatest-enemy-part-1-glt7606824410/"
+  },
   "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633": {
     "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
     "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
@@ -7663,6 +7667,10 @@
     "title": "Barcelos",
     "url": "/wiki/entities/barcelos/"
   },
+  "BarcidSpanishPowerBase": {
+    "title": "Barcid Spanish Power Base / 巴卡家族西班牙权力基地",
+    "url": "/wiki/concepts/barcidspanishpowerbase/"
+  },
   "BarcodeHero": {
     "title": "Barcode Hero",
     "url": "/wiki/entities/barcodehero/"
@@ -10898,6 +10906,10 @@
   "CartesianDualism": {
     "title": "Cartesian Dualism",
     "url": "/wiki/concepts/cartesiandualism/"
+  },
+  "Carthage": {
+    "title": "Carthage / 迦太基",
+    "url": "/wiki/entities/carthage/"
   },
   "Cartier": {
     "title": "Cartier",
@@ -27451,6 +27463,10 @@
     "title": "Hamid Hosseini",
     "url": "/wiki/entities/hamidhosseini/"
   },
+  "HamilcarBarca": {
+    "title": "Hamilcar Barca / 哈米尔卡·巴卡",
+    "url": "/wiki/entities/hamilcarbarca/"
+  },
   "HamiltonBurrDuel": {
     "title": "Hamilton-Burr Duel",
     "url": "/wiki/entities/hamiltonburrduel/"
@@ -28054,6 +28070,10 @@
   "Harvey": {
     "title": "Harvey",
     "url": "/wiki/entities/harvey/"
+  },
+  "HasdrubalTheHandsome": {
+    "title": "Hasdrubal the Handsome / 美男子哈斯德鲁巴",
+    "url": "/wiki/entities/hasdrubalthehandsome/"
   },
   "HasekuraTsunenaga": {
     "title": "Hasekura Tsunenaga / 支仓常长",
@@ -44531,6 +44551,10 @@
     "title": "New Balance",
     "url": "/wiki/entities/newbalance/"
   },
+  "NewCarthage": {
+    "title": "New Carthage / 新迦太基",
+    "url": "/wiki/entities/newcarthage/"
+  },
   "NewEngineeringEducation": {
     "title": "New Engineering Education / 新工科教育",
     "url": "/wiki/concepts/newengineeringeducation/"
@@ -54714,6 +54738,14 @@
   "SageOx": {
     "title": "Sage Ox",
     "url": "/wiki/entities/sageox/"
+  },
+  "Saguntum": {
+    "title": "Saguntum / 萨贡托",
+    "url": "/wiki/entities/saguntum/"
+  },
+  "SaguntumWarTrigger": {
+    "title": "Saguntum War Trigger / 萨贡托战争触发机制",
+    "url": "/wiki/concepts/saguntumwartrigger/"
   },
   "SahaUllsvig": {
     "title": "Saha Ullsvig",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7651
+wiki_total_pages: 7653
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "SageAttention"
     title: "SAGE Attention"
     url: "/wiki/concepts/sageattention/"
+  - key: "SaguntumWarTrigger"
+    title: "Saguntum War Trigger / 萨贡托战争触发机制"
+    url: "/wiki/concepts/saguntumwartrigger/"
   - key: "SahmRule"
     title: "Sahm Rule"
     url: "/wiki/concepts/sahmrule/"

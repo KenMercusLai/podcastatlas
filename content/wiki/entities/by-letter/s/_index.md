@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10327
+wiki_total_pages: 10332
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "SageOx"
     title: "Sage Ox"
     url: "/wiki/entities/sageox/"
+  - key: "Saguntum"
+    title: "Saguntum / 萨贡托"
+    url: "/wiki/entities/saguntum/"
   - key: "SahaUllsvig"
     title: "Saha Ullsvig"
     url: "/wiki/entities/sahaullsvig/"
