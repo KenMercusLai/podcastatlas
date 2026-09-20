@@ -11367,6 +11367,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleoflaketrasimene/"
     },
+    "BattleOfLesnaya": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/battleoflesnaya/"
+    },
     "BattleOfLoos": {
       "episode_count": 1,
       "show_count": 1,
@@ -11407,9 +11423,9 @@
       "url": "/wiki/concepts/battleofmarathon/"
     },
     "BattleOfPoltava": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -11417,6 +11433,13 @@
           "show": "The Rest Is History",
           "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
           "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-21",
@@ -11637,6 +11660,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/battlefieldinformationcontrol/"
+    },
+    "Baturin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/baturin/"
     },
     "Bayer": {
       "episode_count": 1,
@@ -17793,9 +17832,9 @@
       "url": "/wiki/entities/charlesduncancameron/"
     },
     "CharlesXII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -17803,6 +17842,13 @@
           "show": "The Rest Is History",
           "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
           "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-21",
@@ -24089,6 +24135,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cosmiccrisp/"
+    },
+    "CossackHetmanate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/cossackhetmanate/"
     },
     "CostelloDog": {
       "episode_count": 1,
@@ -48203,9 +48265,9 @@
       "url": "/wiki/concepts/graymarketpeptides/"
     },
     "GreatNorthernWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -48213,6 +48275,13 @@
           "show": "The Rest Is History",
           "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
           "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-21",
@@ -60359,6 +60428,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/ithaca/"
+    },
+    "IvanMazepa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/ivanmazepa/"
     },
     "JAndTExpress": {
       "episode_count": 1,
@@ -89234,9 +89319,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -89258,6 +89343,13 @@
           "show": "The Rest Is History",
           "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
           "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-21",
@@ -99900,9 +99992,9 @@
       "url": "/wiki/entities/russellwilder/"
     },
     "RussianEmpire": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -99924,6 +100016,13 @@
           "show": "The Rest Is History",
           "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
           "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-21",
@@ -101337,9 +101436,9 @@
       "url": "/wiki/entities/scipioaemilianus/"
     },
     "ScorchedEarthSupplyDenial": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》675丨乱世纷争之中，汉武帝如何崛起？ [lrvxU1q4-ysG4Kfxkf25HSwyGfyO].md",
@@ -101347,6 +101446,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》675丨乱世纷争之中，刘秀如何崛起？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-02",
@@ -111380,9 +111486,9 @@
       "url": "/wiki/entities/svenschulze/"
     },
     "SwedishEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -111390,6 +111496,13 @@
           "show": "The Rest Is History",
           "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
           "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        },
+        {
+          "episode_file": "GLT1223770243 [GLT1223770243].md",
+          "key": "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
+          "show": "The Rest Is History",
+          "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+          "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
         }
       ],
       "updated": "2026-09-21",

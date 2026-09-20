@@ -2,7 +2,7 @@
   "coverage": {
     "assigned_paragraph_ids": [
       "d8c1f73d3d2568b7e5b6f0a1f67173154bbd7865846256ff10f0d08947db4473",
-      "dea995f53949eb4b90a367c60af283a353f672e78ef35dee39256800e83aba15",
+      "0e5614f6e875df304486b078f8f73f712ecdc6d3e2f85ea254b391b06c0804bc",
       "e671956dfa4cdc9dbd7f520e2c50fa0c34d3d6e3f4c6e586a2f4fd6f9aeb5159",
       "62866ce94ce01826990fdd772118ad3f2f7c7b4fd833a5c3a8fa2ebfb6a92eb2",
       "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
@@ -673,8 +673,8 @@
     ],
     "paragraph_count": 669
   },
-  "overview_commit": "dd0a74fe87d86c35ff3f17050426615cfabeeeed",
-  "overview_digest": "a5052581ef7cb4489ab14ec059557c51452438202ba218d7fb6ec62457391753",
+  "overview_commit": "cb04eec3151638cdeb6e2e4894b6c499b428c0e7",
+  "overview_digest": "b04612491a7d982dc4983a9cd0aa10b888868e76fb62a1f332816990346503e9",
   "paragraphs": [
     {
       "id": "d8c1f73d3d2568b7e5b6f0a1f67173154bbd7865846256ff10f0d08947db4473",
@@ -703,21 +703,26 @@
       ]
     },
     {
-      "id": "dea995f53949eb4b90a367c60af283a353f672e78ef35dee39256800e83aba15",
+      "id": "0e5614f6e875df304486b078f8f73f712ecdc6d3e2f85ea254b391b06c0804bc",
       "primary_topic": "history-and-geopolitics",
       "secondary_topics": [],
-      "text": "The newest early-modern-war source, [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|566. The Great Northern War: Slaughter on the Steppes (Part 3)]], backfills the battlefield and geopolitical transition before Part 4. It adds [[CharlesXII]], [[BattleOfPoltava]], [[GreatNorthernWar]], and [[SwedishEmpire]], while extending [[PeterTheGreat]] and [[RussianEmpire]]. Its core synthesis is that Poltava converts accumulated capacity into political realignment: Swedish supply failure, winter attrition, injury, rival commanders, redoubts, and missing artillery fragment an elite army, while Peter's fortified position, cannon, reserves, and reformed infantry turn victory into coalition renewal, Baltic gains, Saint Petersburg's security, and imperial status. No settled contradiction is recorded; troop and casualty totals, dialogue, near-miss stories, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies any frictionless account of Russian ascent.",
+      "text": "The newest early-modern-war sources, [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|565. The Great Northern War: Revenge of the Cossacks (Part 2)]] and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|566. The Great Northern War: Slaughter on the Steppes (Part 3)]], trace the Russian campaign from apparent Swedish momentum through the [[BattleOfPoltava|Battle of Poltava]] and its geopolitical aftermath. They add [[IvanMazepa]], [[CossackHetmanate]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[BattleOfPoltava]], [[GreatNorthernWar]], and [[SwedishEmpire]], while extending [[PeterTheGreat]], [[RussianEmpire]], and [[ScorchedEarthSupplyDenial]]. Their core synthesis is that operational success cannot substitute for a viable supply, manpower, and alliance system: Russian withdrawal and resource denial, Lesnaya, Baturin, winter attrition, absent allies, and Charles's wound progressively remove Swedish options before redoubts, rival commanders, missing artillery, and Peter's reformed army convert defeat into coalition renewal, Baltic gains, Saint Petersburg's security, and imperial status. Mazepa's failed defection also exposes the coercive limits of Cossack autonomy. No settled contradiction is recorded; troop and casualty totals, dialogue, weather superlatives, Mazepa's motives, Baturin's death toll, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies any frictionless account of Russian ascent.",
       "topic_scores": {
-        "governance-and-institutions": 1,
         "history-and-geopolitics": 3
       },
       "wikilinks": [
+        "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
         "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+        "BattleOfLesnaya",
         "BattleOfPoltava",
+        "Baturin",
         "CharlesXII",
+        "CossackHetmanate",
         "GreatNorthernWar",
+        "IvanMazepa",
         "PeterTheGreat",
         "RussianEmpire",
+        "ScorchedEarthSupplyDenial",
         "SwedishEmpire"
       ]
     },

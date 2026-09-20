@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10341
+wiki_total_pages: 10345
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1169,6 +1169,9 @@ wiki_pages:
   - key: "CosmosLab"
     title: "Cosmos Lab"
     url: "/wiki/entities/cosmoslab/"
+  - key: "CossackHetmanate"
+    title: "Cossack Hetmanate / 哥萨克酋长国"
+    url: "/wiki/entities/cossackhetmanate/"
   - key: "Costco"
     title: "Costco"
     url: "/wiki/entities/costco/"

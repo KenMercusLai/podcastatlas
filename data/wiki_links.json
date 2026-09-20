@@ -1171,6 +1171,10 @@
     "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
     "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
   },
+  "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243": {
+    "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
+    "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+  },
   "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587": {
     "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
     "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
@@ -7791,6 +7795,10 @@
     "title": "Battle of Lake Trasimene / 特拉西梅诺湖战役",
     "url": "/wiki/entities/battleoflaketrasimene/"
   },
+  "BattleOfLesnaya": {
+    "title": "Battle of Lesnaya / 列斯纳亚战役",
+    "url": "/wiki/entities/battleoflesnaya/"
+  },
   "BattleOfLoos": {
     "title": "Battle of Loos",
     "url": "/wiki/entities/battleofloos/"
@@ -7834,6 +7842,10 @@
   "BattlefieldVictoryToFoundingOrder": {
     "title": "战场胜利到建国秩序 / Battlefield Victory To Founding Order",
     "url": "/wiki/concepts/battlefieldvictorytofoundingorder/"
+  },
+  "Baturin": {
+    "title": "Baturin / 巴图林",
+    "url": "/wiki/entities/baturin/"
   },
   "Bayer": {
     "title": "Bayer",
@@ -14970,6 +14982,10 @@
   "CosmosLab": {
     "title": "Cosmos Lab",
     "url": "/wiki/entities/cosmoslab/"
+  },
+  "CossackHetmanate": {
+    "title": "Cossack Hetmanate / 哥萨克酋长国",
+    "url": "/wiki/entities/cossackhetmanate/"
   },
   "CostBenefitThinking": {
     "title": "Cost-Benefit Thinking",
@@ -32306,6 +32322,10 @@
   "IvanBrown": {
     "title": "Ivan Brown",
     "url": "/wiki/entities/ivanbrown/"
+  },
+  "IvanMazepa": {
+    "title": "Ivan Mazepa / 伊万·马泽帕",
+    "url": "/wiki/entities/ivanmazepa/"
   },
   "IvoParashkevov": {
     "title": "Ivo Parashkevov",

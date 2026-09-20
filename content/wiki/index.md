@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [565. The Great Northern War: Revenge of the Cossacks (Part 2)](sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243.md) — The Rest Is History episode on Russia's supply-denial campaign, Lesnaya, Mazepa's defection, Baturin's destruction, winter attrition, and Charles XII's approach to Poltava.
 - [Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631.md) — Huberman Lab Essentials episode on psychiatric measurement limits, stigma, circuit understanding, stimulation precision, ADHD diagnosis boundaries, psychedelics, MDMA, trauma, and therapeutic learning.
 - [566. The Great Northern War: Slaughter on the Steppes (Part 3)](sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587.md) — The Rest Is History episode on Poltava's command breakdown, Sweden's imperial decline, Russia's Baltic ascent, and the war's continuation to Nystad.
 - [The Science & Art of Comedy & Creativity | Tom Segura](sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033.md) — Huberman Lab conversation on iterative stand-up craft, involuntary laughter, performer-audience state, vulnerability, and creative renewal.
@@ -2592,12 +2593,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Ivan Mazepa / 伊万·马泽帕](entities/IvanMazepa.md) — Cossack hetman whose attempt to preserve autonomy through alliance with Charles XII collapses after Baturin's destruction.
+- [Cossack Hetmanate / 哥萨克酋长国](entities/CossackHetmanate.md) — Frontier military polity whose constrained autonomy and divided allegiance are exposed by Mazepa's defection.
+- [Battle of Lesnaya / 列斯纳亚战役](entities/BattleOfLesnaya.md) — 1708 logistical turning point where Russia destroys Lewenhaupt's delayed Swedish relief column and supplies.
+- [Baturin / 巴图林](entities/Baturin.md) — Cossack capital and intended Swedish base destroyed in a Russian assault combining supply denial and political deterrence.
 - [Karl Deisseroth](entities/KarlDeisseroth.md) — Psychiatrist and neuroscientist connecting interview-based care to cells, circuits, optogenetics, stimulation technologies, and rigorous hope.
 - [Projections](entities/ProjectionsBook.md) — Deisseroth's book joining psychiatric cases, neuroscience, accessibility, evidential restraint, and qualified optimism.
-- [Charles XII / 卡尔十二世](entities/CharlesXII.md) — Swedish warrior king whose courage and strategic inflexibility carry defeat at Poltava into years of continued war.
-- [Battle of Poltava / 波尔塔瓦战役](entities/BattleOfPoltava.md) — 1709 battle where Swedish coordination fails against Russia's fortified, artillery-backed, reformed army.
-- [Great Northern War / 大北方战争](entities/GreatNorthernWar.md) — 1700-1721 coalition war that shifts Baltic imperial primacy from Sweden toward Russia.
-- [Swedish Empire / 瑞典帝国](entities/SwedishEmpire.md) — Baltic military empire whose field power collapses at Poltava and whose primacy ends at Nystad.
+- [Charles XII / 卡尔十二世](entities/CharlesXII.md) — Swedish warrior king whose tactical confidence survives supply collapse, the failed Ukrainian gamble, Poltava, and years of continued war.
+- [Battle of Poltava / 波尔塔瓦战役](entities/BattleOfPoltava.md) — 1709 battle where accumulated Swedish logistical attrition and command failure meet Russia's fortified, artillery-backed army.
+- [Great Northern War / 大北方战争](entities/GreatNorthernWar.md) — 1700-1721 coalition war linking Swedish invasion, Ukrainian alignment, Poltava, and the transfer of Baltic primacy to Russia.
+- [Swedish Empire / 瑞典帝国](entities/SwedishEmpire.md) — Baltic military empire whose tactical excellence cannot overcome supply, manpower, coalition, and command failures before and after Poltava.
 - [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
@@ -15351,7 +15356,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pre-Qin Surname-Clan Identity / 先秦姓氏身份](concepts/PreQinSurnameClanIdentity.md) — Identity-reading frame for using pre-Qin 姓/氏 distinctions to interpret Changping Jun/Xiong Qi's Chu royal affiliation without flattening names into modern surname logic.
 - [Conquest Commandery Transition / 灭国后的郡县化过渡](concepts/ConquestCommanderyTransition.md) — Qinji 118-2 frame for converting conquered Chu territory into temporary and then subdivided commanderies after battlefield victory.
 - [Fortified Attrition Patience / 坚壁耗敌式耐心](concepts/FortifiedAttritionPatience.md) — Strategy pattern where defended or newly captured positions, rescue timing, logistics, morale, and surrender credibility are used while waiting for enemy fatigue, movement, or submission readiness.
-- [Scorched-Earth Supply Denial / 坚壁清野式断粮](concepts/ScorchedEarthSupplyDenial.md) — Military logistics pattern where light cavalry and fortified local clearing deny plunderable food to a moving enemy until supply failure breaks the force.
+- [Scorched-Earth Supply Denial / 坚壁清野式断粮](concepts/ScorchedEarthSupplyDenial.md) — Logistics pattern ranging from protective clearing and fortification to destructive withdrawal that denies an advancing army food, shelter, routes, and bases.
 - [Chu Three-Households Anti-Qin Memory / 楚虽三户式反秦记忆](concepts/ChuThreeHouseholdsAntiQinMemory.md) — Memory frame where Xiang Yan's defeat is tied to "楚虽三户，亡秦必楚" and later Chu-linked anti-Qin actors.
 - [Hydraulic Siege Warfare / 水攻围城](concepts/HydraulicSiegeWarfare.md) — Siege frame where rivers, moats, and waterworks create wall failure, morale strain, supply isolation, or communication breakdown.
 - [布衣之怒 / Cloth-Clad Anger Persuasion](concepts/ClothCladAngerPersuasion.md) — Tang Ju's scale-shifting counter-threat against Ying Zheng's "天子之怒".

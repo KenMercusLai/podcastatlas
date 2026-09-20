@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10341
+wiki_total_pages: 10345
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "IvanBrown"
     title: "Ivan Brown"
     url: "/wiki/entities/ivanbrown/"
+  - key: "IvanMazepa"
+    title: "Ivan Mazepa / 伊万·马泽帕"
+    url: "/wiki/entities/ivanmazepa/"
   - key: "IvoParashkevov"
     title: "Ivo Parashkevov"
     url: "/wiki/entities/ivoparashkevov/"

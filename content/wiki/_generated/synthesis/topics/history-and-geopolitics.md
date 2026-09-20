@@ -4,29 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-21
-as_of_overview_commit: 67ef9bcf62b395a860342e9813588936e63fcc56
-input_digest: b8f12276db91170c55629ee0c76371b271904793e5222887d34962a22f49e435
+as_of_overview_commit: cb04eec3151638cdeb6e2e4894b6c499b428c0e7
+input_digest: c14ac2a6bff869f421b9dd9a6906bce85aac8865abbbb9d31c0212c3df778a30
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Poltava adds a sharp imperial-transition case: accumulated Swedish attrition and command fragmentation meet Russia's fortified, artillery-backed reformed army, turning battlefield victory into coalition renewal, Baltic gains, and great-power status while the later Ottoman setback limits any frictionless ascent narrative. The Hannibal branch similarly joins logistics, alliance politics, deception, severe attrition, and Fabian endurance, while the Qing mid-dynasty case supplies a slower failure mode in which underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weaken problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than treated as settled history.
+The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. The Great Northern War branch now follows the full pre-Poltava attrition system: Russian withdrawal and resource denial, Lesnaya's destruction of Swedish relief, Baturin's fall, winter, absent allies, injury, and divided command remove Charles XII's options before Russia converts battlefield victory into coalition renewal, Baltic gains, and great-power status; Mazepa's failed defection also exposes the coercive limits of Cossack autonomy. The Hannibal branch similarly joins logistics, alliance politics, deception, severe attrition, and Fabian endurance, while the Qing mid-dynasty case supplies a slower failure mode in which underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weaken problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than treated as settled history.
 
 ## Cross-source Findings
 
 ### Poltava Converts Military Capacity Into Imperial Realignment
 
-[[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|The Poltava episode]] shows [[BattleOfPoltava|Poltava]] converting accumulated capacity into imperial realignment: Swedish logistical attrition and divided command fragment [[CharlesXII|Charles XII]]'s army, while [[PeterTheGreat|Peter the Great]]'s fortified, artillery-backed force turns victory into coalition renewal, the decline of the [[SwedishEmpire]], and the Baltic ascent of the [[RussianEmpire]].
+[[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]] and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show [[BattleOfPoltava|Poltava]] converting accumulated capacity into imperial realignment: Russian resource denial, the [[BattleOfLesnaya|Lesnaya]] supply disaster, [[Baturin]]'s destruction, winter, absent allies, injury, and divided command progressively isolate [[CharlesXII|Charles XII]], while [[PeterTheGreat|Peter the Great]] turns victory into coalition renewal, decline of the [[SwedishEmpire]], and Baltic ascent of the [[RussianEmpire]].
 
-**Evidence:** [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[BattleOfPoltava]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]]
+**Evidence:** [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]]
 
 **Qualifications:**
 
 - Poltava is treated as a decisive hinge rather than a single-cause explanation; the Great Northern War continued until 1721.
+- Mazepa's motives, Cossack alignment, the Baturin death toll, weather superlatives, troop and casualty totals, reported dialogue, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped.
 - Peter's Ottoman setback and temporary surrender of Azov qualify any account of frictionless Russian expansion after 1709.
-- Troop and casualty totals, reported dialogue, battlefield anecdotes, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped.
 
 ### Qing Accumulated Maladies Link Procedure Perception And Reform
 

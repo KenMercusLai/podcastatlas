@@ -20662,3 +20662,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 565. The Great Northern War: Revenge of the Cossacks (Part 2)
+
+Added source `565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243`; created `IvanMazepa`, `CossackHetmanate`, `BattleOfLesnaya`, and `Baturin`; and updated `CharlesXII`, `BattleOfPoltava`, `GreatNorthernWar`, `SwedishEmpire`, `PeterTheGreat`, `RussianEmpire`, `ScorchedEarthSupplyDenial`, overview, index, and downstream synthesis. Core synthesis: Russian withdrawal, resource denial, Lesnaya, and Baturin convert Charles XII's tactical confidence into material isolation before Poltava, while Mazepa's failed defection reveals the coercive limits of Cossack autonomy. No settled contradiction found; figures, dialogue, motives, weather superlatives, the Baturin death toll, and counterfactual judgments remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

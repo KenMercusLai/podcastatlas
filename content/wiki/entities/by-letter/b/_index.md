@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10341
+wiki_total_pages: 10345
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "BattleOfLakeTrasimene"
     title: "Battle of Lake Trasimene / 特拉西梅诺湖战役"
     url: "/wiki/entities/battleoflaketrasimene/"
+  - key: "BattleOfLesnaya"
+    title: "Battle of Lesnaya / 列斯纳亚战役"
+    url: "/wiki/entities/battleoflesnaya/"
   - key: "BattleOfLoos"
     title: "Battle of Loos"
     url: "/wiki/entities/battleofloos/"
@@ -191,6 +194,9 @@ wiki_pages:
   - key: "Battlecode"
     title: "Battlecode"
     url: "/wiki/entities/battlecode/"
+  - key: "Baturin"
+    title: "Baturin / 巴图林"
+    url: "/wiki/entities/baturin/"
   - key: "Bayer"
     title: "Bayer"
     url: "/wiki/entities/bayer/"

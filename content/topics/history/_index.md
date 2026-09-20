@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1889
+topic_total_pages: 1890
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4560,6 +4560,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243"
+    title: "565. The Great Northern War: Revenge of the Cossacks (Part 2)"
+    url: "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
   - key: "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587"
     title: "566. The Great Northern War: Slaughter on the Steppes (Part 3)"
     url: "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
