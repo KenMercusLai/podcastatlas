@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10289
+wiki_total_pages: 10291
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "BaiboArmy"
     title: "白波军 / Baibo Army"
     url: "/wiki/entities/baiboarmy/"
+  - key: "BailangMountainLateHan"
+    title: "白狼山 / White Wolf Mountain (late Han)"
+    url: "/wiki/entities/bailangmountainlatehan/"
   - key: "BaidengEncirclement"
     title: "白登之围 / Baideng Encirclement"
     url: "/wiki/entities/baidengencirclement/"

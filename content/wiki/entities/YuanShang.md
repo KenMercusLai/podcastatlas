@@ -11,7 +11,8 @@ sources:
   - zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r
   - zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet
   - zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc
-last_updated: 2026-09-05
+  - zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv
+last_updated: 2026-09-20
 ---
 
 # 袁尚 / Yuan Shang
@@ -38,6 +39,8 @@ Hanji 1062 follows that exposed-base problem. After Cao Cao deepens the moat and
 
 Hanji 1063 turns the attempted relief into collapse evidence. Yuan Shang comes by the western mountain road rather than the main road, which Cao Cao reads as proof that Yuan Shang is preserving a fallback instead of committing to a death fight. Yuan Shang coordinates with Shen Pei by torch signals and tries to join an inner-outer attack, but Cao blocks Shen Pei's sortie, surrounds Yuan Shang's shifted camp, rejects Yuan Shang's surrender request, and forces him into night flight. Yuan Shang escapes first to Qishan and then to Zhongshan after subordinate defections, while Cao captures his official and personal goods and shows them to Ye's defenders.
 
+Hanji 1079 completes the current flight sequence after the intervening loss of Youzhou and Wuhuan refuge. Following the [[BailangMountainLateHan|White Wolf Mountain]] defeat, Yuan Shang, [[YuanXiLateHan|Yuan Xi]], and [[SupuyanLateHan|Supuyan]] seek protection from [[GongsunKangLateHan|Gongsun Kang]] in Liaodong. [[CaoCao|Cao Cao]] declines immediate pursuit because attack would temporarily align host and refugees. Once Cao withdraws, Gongsun Kang kills the three refugees and sends their heads to Cao Cao, ending Yuan Shang's claim through the host's self-preservation calculation rather than another direct Cao-side assault.
+
 ## Key Characteristics
 - Favored younger son whose claim depends on private preference and factional installation rather than a clear public succession settlement.
 - Successor claimant backed by Shen Pei and Feng Ji before Yuan Tan can return to Ye.
@@ -45,7 +48,7 @@ Hanji 1063 turns the attempted relief into collapse evidence. Yuan Shang comes b
 - Capable of temporary anti-Cao cooperation with Yuan Tan while external pressure is direct.
 - Attempts to widen the anti-Cao field through Guo Yuan, Gao Gan, the Southern Xiongnu, and Ma Teng.
 - Suspicious of Yuan Tan's military requests, treating an anti-Cao pursuit proposal as a possible threat to himself.
-- Target of outside strategic readings: Liu Biao asks him to subordinate rivalry to anti-Cao coalition logic, Xin Pi treats his Ye-defense dilemma as Cao Cao's intervention opening, and Hanji 1061-1063 show the dilemma turning into retreat, defection, exposed city defense, risky messenger contact, failed relief, and flight.
+- Target of outside strategic readings whose Ye dilemma becomes retreat and frontier dependence, ending when his final host kills him after Cao Cao removes the immediate common-enemy pressure.
 
 ## Evidence
 - Private preference and factional installation: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] says Yuan Shao favors Yuan Shang but leaves no public will, after which Shen Pei and Feng Ji install Yuan Shang through a claimed final order.
@@ -61,14 +64,15 @@ Hanji 1063 turns the attempted relief into collapse evidence. Yuan Shang comes b
 - Weak relief commitment: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] has Cao Cao read Yuan Shang's western-mountain route as a fallback-preserving choice rather than main-road death-fight resolve.
 - Failed rescue and flight: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] says Yuan Shang's coordination with Shen Pei fails, he requests surrender, flees overnight, loses subordinates, and runs to Zhongshan.
 - Captured-goods exposure: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] says Cao Cao displays Yuan Shang's captured seals, staff, yellow axe, clothing, and supplies to Ye's defenders.
+- Liaodong endpoint: [[zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv|Hanji 1079]] says Yuan Shang flees the Wuhuan defeat with Yuan Xi and Supuyan, then is killed by Gongsun Kang after Cao Cao refuses immediate pursuit.
 
 ## Qualifications
-This page currently rests on adjacent source notes and should not be treated as a complete biography of Yuan Shang. The episodes emphasize how Yuan Shang functions inside the Yuan-family succession breakdown rather than his full administrative or military career. Hanji 1056 gives the strongest claim that his succession was factionally engineered, while Hanji 1060 gives Xin Pi's interested assessment of Yuan Shang's exhaustion. Hanji 1061-1063 add campaign behavior consistent with that assessment but still filter events through Cao-side opportunity and siege narrative. Hanji 1063's minor names, local placements, and object list remain transcript-scoped.
+This page rests on adjacent podcast notes and should not be treated as a complete biography of Yuan Shang. The episodes emphasize how he functions inside the Yuan-family succession breakdown rather than his full administration. Hanji 1056 gives the strongest claim that his succession was factionally engineered, while Hanji 1060 gives Xin Pi's interested assessment of exhaustion. Hanji 1061-1063 add campaign behavior consistent with that assessment but still filter events through Cao-side opportunity. Hanji 1079's banquet trap, dialogue, motives, and scene detail remain literaryized and source-scoped; its durable addition is the flight, killing, and strategic outcome.
 
 ## What Changed
-- Added the failed-relief layer from Hanji 1063: Yuan Shang's route choice, failed inner-outer coordination, surrender request, night flight, and loss of command goods.
-- Reframed Yuan Shang's Ye problem as a sequence from home-defense dilemma to communication failure to morale proof against his own defenders.
-- Connected Yuan Shang's battlefield behavior to [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]] as a negative example of missing death-fight resolve.
+- Added Yuan Shang's final flight from Wuhuan to Liaodong and his death under Gongsun Kang.
+- Completed the current trajectory from disputed successor through failed relief and frontier dependence to host-driven removal.
+- Extended [[PressureReleaseInfightingStrategy|撤压诱发内斗]] from Yuan Shang's sibling rivalry to his incompatible relationship with a potential host.
 
 ## Relationships
 - [[YuanShao|袁绍]] - father whose non-designation leaves Yuan Shang's claim exposed to rivalry.
@@ -93,3 +97,7 @@ This page currently rests on adjacent source notes and should not be treated as 
 - [[DisorderCollapseExploitation|取乱侮亡]] - Hanji 1060 frame that treats Yuan Shang's exhaustion and Ye dilemma as Cao Cao's opening.
 - [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]] - concept sharpened by Yuan Shang's route revealing fallback rather than true returning-army resolve.
 - [[SpoilsProofDemoralization|战利品实证瓦解士气]] - concept grounded by Cao Cao's use of Yuan Shang's captured goods against Ye's morale.
+- [[YuanXiLateHan|袁熙]] - brother who shares Yuan Shang's final Wuhuan and Liaodong flight.
+- [[GongsunKangLateHan|公孙康]] - Liaodong host who kills Yuan Shang when sheltering him becomes strategically dangerous.
+- [[SupuyanLateHan|苏仆延]] - Wuhuan leader killed with the Yuan brothers.
+- [[BailangMountainLateHan|白狼山之战]] - defeat that removes Wuhuan refuge and forces the Liaodong flight.

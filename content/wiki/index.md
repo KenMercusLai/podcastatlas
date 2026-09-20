@@ -2554,6 +2554,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
 - [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
 
+- [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
+
 ## Entities
 - [徐庶 / Xu Shu (late Han)](entities/XuShuLateHan.md) — 向刘备举荐诸葛亮并坚持应由刘备亲自拜访的荆州人才引荐者。
 - [陶侃 / Tao Kan](entities/TaoKan.md) — 以运甓自励抵抗闲散和安逸侵蚀、在当前来源中作为长期准备寓言的东晋将领。
@@ -12849,6 +12851,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tamaki Denny](entities/TamakiDenny.md) — Outgoing Okinawa governor whose dignity-centered opposition to Henoko lost to economic and base-fatigue priorities.
 - [Henoko](entities/Henoko.md) — Contested Okinawa base-relocation site linking national defense policy to prefectural consent.
 - [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
+
+- [白狼山 / White Wolf Mountain (late Han)](entities/BailangMountainLateHan.md) — 207 CE battle setting linking Cao Cao's Wuhuan victory to the Yuan brothers' flight toward Liaodong.
+- [苏仆延 / Supuyan (late Han)](entities/SupuyanLateHan.md) — Wuhuan leader tied to Yuan Shao's frontier settlement and later killed with the Yuan brothers in Liaodong.
 
 ## Concepts
 - [战略排除与聚焦 / Strategic Exclusion and Focus](concepts/StrategicExclusionAndFocus.md) — 通过明确不做什么，把稀缺资源集中到相互强化的根据地、伙伴结构与长期目标上，同时允许执行顺序随条件调整。

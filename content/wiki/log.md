@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利
+
+Added source `zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv`; created `BailangMountainLateHan` and `SupuyanLateHan`; updated `GongsunKangLateHan`, `YuanXiLateHan`, `TadunLateHan`, and `PressureReleaseInfightingStrategy`. Core synthesis: Cao Cao's withdrawal after White Wolf Mountain removes the common-enemy pressure binding Gongsun Kang to the Yuan refugees, so Liaodong self-preservation produces the killings without a Cao-side invasion. No settled contradiction found; the 207 CE date and names are normalized cautiously, while force totals, the claim that White Wolf Mountain itself pacified Liaodong, banquet details, dialogue, motives, and literary scene-setting remain source-scoped.
+
 ## [2026-09-15] ingest | 《资治通鉴·汉纪》379-2｜揭秘锦衣卫祖宗，神秘的汉朝“绣衣使者”
 
 Added source `zizhi-tongjian-hanji-379-2-jiemi-jinyiwei-zuzong-shenmi-de-hanchao-xiuyi-shizhe-lj7naddqh_zcdvolio3u7bjvvotf`; created `BaoShengzhiWesternHan`; updated `JunBuyiWesternHan`, `WangHeWesternHan`, `XiuyiEnvoyImperialSurveillance`, `CheshiKingdomWesternHan`, overview, and index. Core synthesis: Han Wudi's direct-envoy system joins extraordinary coercive authority with a political demand for punitive obedience; Jun Buyi's moderation counsel and Wang He's bloodless Wei Commandery pacification show that effective governance could still be punished when it failed to display killing as imperial will. No settled contradiction found; transcript names 郡布夷 and 王赫 are normalized to 隽不疑 and 王贺, while Bao's exact title powers, Wang He's legal case, and Kailing marquis/Loulan-Cheshi details remain source-scoped.
@@ -20362,6 +20366,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？
 
 Added source `zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3`; created `StrategicExclusionAndFocus` and `TaoKan`; updated `LiuBei`, `ZhugeLiang`, `LongzhongPlan`, `PangTong`, `SimaHuiLateHan`, `PangDegongLateHan`, `EliteEndorsementReputationMaking`, and `index.md`. Core synthesis: strong execution does not create a durable position without a strategy that excludes premature fights, concentrates scarce resources on a base and coalition path, and adapts sequence when conditions change. No settled contradiction found; “no prior strategy” is narrowed to absence of an integrated territorial program, while founder-adviser suspicion, factional explanations of Guan Yu's death, exact dialogue, motives, and the “近日不错” textual claim remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-20] lint | Wiki health check
 

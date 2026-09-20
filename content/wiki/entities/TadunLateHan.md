@@ -4,17 +4,20 @@ type: entity
 tags: [person, late-han, wuhuan, frontier]
 sources:
   - zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy
+  - zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-09-20
 ---
 
 # 蹋顿 / Tadun (Late Han)
 
 ## Overview
-蹋顿 / Tadun enters the wiki through [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] as the Wuhuan leader who occupies the leadership position after [[QiuLijuLateHan|丘力居]] dies and Louban is still young. The episode ties him to [[YuanShao|袁绍]]'s post-[[GongsunZan|公孙瓒]] northern settlement and to chanyu-seal politics on the frontier.
+蹋顿 / Tadun is the Wuhuan leader who rises after [[QiuLijuLateHan|丘力居]]'s death, supports [[YuanShao|袁绍]]'s northern settlement, and is later killed in [[CaoCao|曹操]]'s White Wolf Mountain campaign.
 
 ## Current Profile
-Tadun currently represents Yuan Shao's need to stabilize the Wuhuan side of the northern rear. He is not only a frontier name in the episode; he is part of the settlement by which Yuan Shao turns victory over Gongsun Zan into a wider Youzhou-Wuhuan arrangement before the Cao-Yuan confrontation.
+Hanji 1032 makes Tadun part of the settlement by which Yuan Shao turns victory over [[GongsunZan|公孙瓒]] into a wider Youzhou-Wuhuan arrangement before the Cao-Yuan confrontation. Yuan Shao favors Tadun and other Wuhuan leaders with chanyu seals, tying frontier recognition to rear security.
+
+Hanji 1079 adds the endpoint of that alignment. Cao Cao's army unexpectedly encounters Wuhuan near [[BailangMountainLateHan|White Wolf Mountain]], reads the formation as disordered, and attacks under [[ZhangLiao|张辽]]'s forward command. Tadun is killed, Wuhuan resistance collapses, and the surviving Yuan-side refugees move toward Liaodong.
 
 ## Key Characteristics
 - Wuhuan leader associated with Qiu Liju's succession after Louban's minority.
@@ -22,17 +25,20 @@ Tadun currently represents Yuan Shao's need to stabilize the Wuhuan side of the 
 - Recipient of a chanyu seal in Yuan Shao's frontier settlement.
 - Paired with Yan Rou as part of the post-Gongsun-Zan management of Wuhuan and Youzhou.
 - Evidence point for rear stabilization before the Guandu horizon.
+- Principal Wuhuan opponent killed at White Wolf Mountain in the current campaign account.
+- His death breaks the refuge field protecting the remaining Yuan-family branch.
 
 ## Evidence
 - Succession setting: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] says Qiu Liju dies, Louban is still young, and Tadun takes the leading position.
 - Yuan-side settlement: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] has Yuan Shao give chanyu seals to Tadun and other Wuhuan leaders under court-facing language.
 - Frontier role: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] places Tadun in the post-Gongsun-Zan rear-security problem that precedes the Guandu campaign.
+- White Wolf Mountain endpoint: [[zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv|Hanji 1079]] says Tadun is killed when Cao Cao attacks the disordered Wuhuan formation.
 
 ## Qualifications
-The current page is limited to Tadun's Hanji 1032 role. It does not yet cover later Cao-Wuhuan conflict, fuller Wuhuan politics, or independent biographical detail outside this episode.
+The page remains bounded to two podcast notes and does not reconstruct fuller Wuhuan politics. Hanji 1079's exact force, casualty, and surrender numbers, equipment conditions, and tactical dialogue remain source-scoped.
 
 ## What Changed
-- Created the page from Hanji 1032 as a Wuhuan frontier actor in Yuan Shao's northern-rear settlement.
+- Added Tadun's death at White Wolf Mountain and connected the earlier Yuan-side settlement to its military collapse.
 
 ## Relationships
 - [[QiuLijuLateHan|丘力居]] - predecessor whose death creates the succession setting.
@@ -42,3 +48,6 @@ The current page is limited to Tadun's Hanji 1032 role. It does not yet cover la
 - [[YanRou|阎柔]] - Youzhou-Wuhuan mediator favored in the same postwar arrangement.
 - [[YouzhouLateHan|幽州]] - regional frontier field in which Tadun matters.
 - [[GuanduCampaign|官渡之战]] - strategic horizon that makes Yuan Shao's rear settlement important.
+- [[BailangMountainLateHan|白狼山之战]] - battle setting where Tadun is killed.
+- [[ZhangLiao|张辽]] - Cao-side forward commander in the episode's attack account.
+- [[SupuyanLateHan|苏仆延]] - fellow Wuhuan leader who survives the battle but is later killed in Liaodong.

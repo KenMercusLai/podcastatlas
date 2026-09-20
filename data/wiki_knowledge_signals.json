@@ -10266,6 +10266,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/baijiaweiji/"
     },
+    "BailangMountainLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/bailangmountainlatehan/"
+    },
     "BaimaReliefLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -45874,9 +45890,9 @@
       "url": "/wiki/entities/gongsunjingshengwesternhan/"
     },
     "GongsunKangLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？ [ll17spcH6X4ZYO61VnO-Oi0lk7fT].md",
@@ -45884,9 +45900,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/gongsunkanglatehan/"
     },
     "GongsunLuWesternHan": {
@@ -89211,9 +89234,9 @@
       "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
     },
     "PressureReleaseInfightingStrategy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -89242,9 +89265,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/pressurereleaseinfightingstrategy/"
     },
     "PrestigeCapacityGap": {
@@ -107664,6 +107694,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/suppressedrootcausereporting/"
     },
+    "SupuyanLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
+          "key": "zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/supuyanlatehan/"
+    },
     "SurrenderAsCivilianProtectionTradeoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -108365,9 +108418,9 @@
       "url": "/wiki/concepts/tactiledatastagingchoice/"
     },
     "TadunLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？ [lmrr3C2F2dAyEctlwNdt4p_KATUy].md",
@@ -108375,9 +108428,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/tadunlatehan/"
     },
     "TaiSuiBelief": {
@@ -126927,9 +126987,9 @@
       "url": "/wiki/entities/yuanlanglatehan/"
     },
     "YuanShang": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？ [lgqS4-A9QGf21wOEH_pPinW4Z9jg].md",
@@ -126979,9 +127039,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/yuanshang/"
     },
     "YuanTan": {
@@ -127057,9 +127124,9 @@
       "url": "/wiki/entities/yuantan/"
     },
     "YuanXiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
@@ -127067,9 +127134,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利 [lvzYzSYtEjOxu_QtH-hHgvEe6LrV].md",
+          "key": "zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/yuanxilatehan/"
     },
     "YuanYinLateHan": {
