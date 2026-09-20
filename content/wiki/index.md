@@ -2572,8 +2572,12 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
 - [Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI](sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617.md) — All-In interview on showstopper-based AI safety, model and harness portability, Microsoft's multi-model strategy, economic diffusion, and data-center legitimacy.
+- [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [CoCom / 巴黎统筹委员会](entities/CoCom.md) — Cold War export-control coalition used to examine incentive-dependent enforcement and modern AI-control analogies.
+- [Wassenaar Arrangement / 瓦森纳安排](entities/WassenaarArrangement.md) — Post-Cold War multilateral framework for conventional-arms and dual-use export coordination.
+- [Toshiba Machine / 东芝机械](entities/ToshibaMachine.md) — Industrial company in the episode's 1980s Soviet machine-tool export-control case.
 - [Natalia Olson](entities/NataliaOlson.md) — Planner and former government innovation adviser linking public-sector modernization, open data, logistics, policy leverage, and global AI governance.
 - [《花儿与少年》第二季 / Flower and Youth Season 2](entities/FlowerAndYouthSeason2.md) — 2015 travel reality-TV season whose online afterlife exposes editing limits, group conflict, and changing workplace and gender readings.
 - [Want Want China / 旺旺食品](entities/WantWantChina.md) — Legacy food and beverage company whose product renewal is constrained by old hero products, centralized decisions, and channel incentives.
@@ -12889,6 +12893,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Export-Control Alliance Durability / 出口管制联盟耐久性](concepts/ExportControlAllianceDurability.md) — Whether a control coalition can survive unequal trade losses, compensation, and contested exceptions.
+- [AI Platform Behavioral Enforcement / AI平台行为式风控](concepts/AIPlatformBehavioralEnforcement.md) — Account-level classification using identity, payment, network, concurrency, and prompt-pattern signals.
+- [Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界](concepts/AIControlNuclearAnalogyLimits.md) — Material and distribution differences between controlling nuclear capability and copyable model weights.
 - [Government Innovation](concepts/GovernmentInnovation.md) — Public-process and institutional-capacity reform that uses business methods without collapsing democratic government into a firm.
 - [Open Data And Transparency](concepts/OpenDataTransparency.md) — Accessible and reusable public information serving accountability, participation, and service infrastructure.
 - [Policy Leverage For System Change](concepts/PolicyLeverageForSystemChange.md) — Use of funding, approval, licensing, disclosure, or purchasing conditions to change entrenched behavior.

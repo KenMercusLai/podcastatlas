@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7618
+wiki_total_pages: 7621
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1145,6 +1145,9 @@ wiki_pages:
   - key: "AIPersonaLabeling"
     title: "AI Persona Labeling"
     url: "/wiki/concepts/aipersonalabeling/"
+  - key: "AIPlatformBehavioralEnforcement"
+    title: "AI Platform Behavioral Enforcement / AI平台行为式风控"
+    url: "/wiki/concepts/aiplatformbehavioralenforcement/"
   - key: "AIPlatformEcosystemDiffusion"
     title: "AI Platform Ecosystem Diffusion"
     url: "/wiki/concepts/aiplatformecosystemdiffusion/"
@@ -2411,6 +2414,9 @@ wiki_pages:
   - key: "AxialAgeCivilizationalAwakening"
     title: "Axial Age Civilizational Awakening / 轴心时代文明觉醒"
     url: "/wiki/concepts/axialagecivilizationalawakening/"
+  - key: "AIControlNuclearAnalogyLimits"
+    title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
+    url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
   - key: "AfterHoursPowerBoundary"
     title: "下班后权力边界 / After-Hours Power Boundary"
     url: "/wiki/concepts/afterhourspowerboundary/"

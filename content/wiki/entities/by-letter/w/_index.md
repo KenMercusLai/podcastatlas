@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10306
+wiki_total_pages: 10309
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "WashingtonPost"
     title: "Washington Post"
     url: "/wiki/entities/washingtonpost/"
+  - key: "WassenaarArrangement"
+    title: "Wassenaar Arrangement / 瓦森纳安排"
+    url: "/wiki/entities/wassenaararrangement/"
   - key: "WaterlooRods"
     title: "Waterloo Rods"
     url: "/wiki/entities/waterloorods/"

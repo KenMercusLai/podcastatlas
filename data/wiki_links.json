@@ -927,6 +927,10 @@
     "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
     "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
   },
+  "2b2e96d8aea7-2b2e96d8aea7": {
+    "title": "Anthropic口中的AI安全，为什么听起来像一场生意保卫战？",
+    "url": "/wiki/sources/2b2e96d8aea7-2b2e96d8aea7/"
+  },
   "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138": {
     "title": "30.孟子：战国愤青的赤子之心",
     "url": "/wiki/sources/30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138/"
@@ -1979,6 +1983,10 @@
     "title": "AI Context Machine / AI 上下文机器",
     "url": "/wiki/concepts/aicontextmachine/"
   },
+  "AIControlNuclearAnalogyLimits": {
+    "title": "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界",
+    "url": "/wiki/concepts/aicontrolnuclearanalogylimits/"
+  },
   "AIConvergence": {
     "title": "AI Convergence",
     "url": "/wiki/concepts/aiconvergence/"
@@ -2626,6 +2634,10 @@
   "AIPersonaLabeling": {
     "title": "AI Persona Labeling",
     "url": "/wiki/concepts/aipersonalabeling/"
+  },
+  "AIPlatformBehavioralEnforcement": {
+    "title": "AI Platform Behavioral Enforcement / AI平台行为式风控",
+    "url": "/wiki/concepts/aiplatformbehavioralenforcement/"
   },
   "AIPlatformEcosystemDiffusion": {
     "title": "AI Platform Ecosystem Diffusion",
@@ -13531,6 +13543,10 @@
     "title": "Club-National Team Boundary Blur",
     "url": "/wiki/concepts/clubnationalteamboundaryblur/"
   },
+  "CoCom": {
+    "title": "CoCom / 巴黎统筹委员会",
+    "url": "/wiki/entities/cocom/"
+  },
   "CoCounsel": {
     "title": "Co-Counsel",
     "url": "/wiki/entities/cocounsel/"
@@ -21234,6 +21250,10 @@
   "ExportAsCapacityAbsorption": {
     "title": "Export As Capacity Absorption / 出口作为产能吸纳",
     "url": "/wiki/concepts/exportascapacityabsorption/"
+  },
+  "ExportControlAllianceDurability": {
+    "title": "Export-Control Alliance Durability / 出口管制联盟耐久性",
+    "url": "/wiki/concepts/exportcontrolalliancedurability/"
   },
   "ExportDiscipline": {
     "title": "Export Discipline",
@@ -63051,6 +63071,10 @@
     "title": "Toshiba",
     "url": "/wiki/entities/toshiba/"
   },
+  "ToshibaMachine": {
+    "title": "Toshiba Machine / 东芝机械",
+    "url": "/wiki/entities/toshibamachine/"
+  },
   "ToshioSuzuki": {
     "title": "Toshio Suzuki / 铃木敏夫",
     "url": "/wiki/entities/toshiosuzuki/"
@@ -66242,6 +66266,10 @@
   "WashingtonPost": {
     "title": "Washington Post",
     "url": "/wiki/entities/washingtonpost/"
+  },
+  "WassenaarArrangement": {
+    "title": "Wassenaar Arrangement / 瓦森纳安排",
+    "url": "/wiki/entities/wassenaararrangement/"
   },
   "Watchmen": {
     "title": "《守望者》 / Watchmen",

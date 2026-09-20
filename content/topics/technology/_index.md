@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3084
+topic_total_pages: 3087
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -736,6 +736,9 @@ topic_concepts:
   - key: "AIPersonaLabeling"
     title: "AI Persona Labeling"
     url: "/wiki/concepts/aipersonalabeling/"
+  - key: "AIPlatformBehavioralEnforcement"
+    title: "AI Platform Behavioral Enforcement / AI平台行为式风控"
+    url: "/wiki/concepts/aiplatformbehavioralenforcement/"
   - key: "AIPlatformEcosystemDiffusion"
     title: "AI Platform Ecosystem Diffusion"
     url: "/wiki/concepts/aiplatformecosystemdiffusion/"
@@ -2635,6 +2638,9 @@ topic_concepts:
   - key: "LifeTimeVsMachineTime"
     title: "Life Time Versus Machine Time / 生命时间与机器时间"
     url: "/wiki/concepts/lifetimevsmachinetime/"
+  - key: "AIControlNuclearAnalogyLimits"
+    title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
+    url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
   - key: "LiveActionFilmUnderAI"
     title: "Live-Action Film Under AI"
     url: "/wiki/concepts/liveactionfilmunderai/"
@@ -8157,6 +8163,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420"
     title: "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-generational-run-openai-panics-ai-moats-meta-loses-lawsuits-40647420/"
+  - key: "2b2e96d8aea7-2b2e96d8aea7"
+    title: "Anthropic口中的AI安全，为什么听起来像一场生意保卫战？"
+    url: "/wiki/sources/2b2e96d8aea7-2b2e96d8aea7/"
   - key: "tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128"
     title: "Anti-AI data center sentiment is becoming a political issue"
     url: "/wiki/sources/tech-20260423-mp-tech-pod-128-tech-20260423-mp-tech-pod-128/"

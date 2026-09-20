@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10306
+wiki_total_pages: 10309
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "CocoaBeach"
     title: "Cocoa Beach"
     url: "/wiki/entities/cocoabeach/"
+  - key: "CoCom"
+    title: "CoCom / 巴黎统筹委员会"
+    url: "/wiki/entities/cocom/"
   - key: "CodePilot"
     title: "Code Pilot"
     url: "/wiki/entities/codepilot/"

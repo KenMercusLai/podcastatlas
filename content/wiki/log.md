@@ -20522,3 +20522,11 @@ Added source `defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-d
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Anthropic口中的AI安全，为什么听起来像一场生意保卫战？
+
+Added source `2b2e96d8aea7-2b2e96d8aea7`; created `CoCom`, `WassenaarArrangement`, `ToshibaMachine`, `ExportControlAllianceDurability`, `AIPlatformBehavioralEnforcement`, and `AIControlNuclearAnalogyLimits`; and updated `AdvancedAIDevelopmentPause`, `LocalAIPrivacyTradeoff`, and `ModelDistillationEvidence`. Core synthesis: export-control coalitions depend on incentive-compatible burden sharing, suspicious account traffic can justify enforcement without proving successful distillation, and copyable model weights limit direct nuclear-nonproliferation analogies. No settled contradiction found; historical details, company motives, classifier behavior, ban anecdotes, and local-model capability remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

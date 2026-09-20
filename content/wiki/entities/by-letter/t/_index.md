@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10306
+wiki_total_pages: 10309
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "Toshiba"
     title: "Toshiba"
     url: "/wiki/entities/toshiba/"
+  - key: "ToshibaMachine"
+    title: "Toshiba Machine / 东芝机械"
+    url: "/wiki/entities/toshibamachine/"
   - key: "ToshioSuzuki"
     title: "Toshio Suzuki / 铃木敏夫"
     url: "/wiki/entities/toshiosuzuki/"

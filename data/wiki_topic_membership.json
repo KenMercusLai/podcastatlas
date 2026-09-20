@@ -1439,6 +1439,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "2b2e96d8aea7-2b2e96d8aea7": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138": [
     {
       "key": "history",
@@ -3320,6 +3327,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIControlNuclearAnalogyLimits": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AIConvergence": [
     {
       "key": "technology",
@@ -4761,6 +4780,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AIPlatformBehavioralEnforcement": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AIPlatformEcosystemDiffusion": [
@@ -25403,6 +25429,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ExportControlAllianceDurability": [
     {
       "key": "politics",
       "label": "Politics",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2578
+topic_total_pages: 2580
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1189,6 +1189,9 @@ topic_concepts:
   - key: "ExportTaxFraudCreditCrisis"
     title: "Export Tax Fraud Credit Crisis"
     url: "/wiki/concepts/exporttaxfraudcreditcrisis/"
+  - key: "ExportControlAllianceDurability"
+    title: "Export-Control Alliance Durability / 出口管制联盟耐久性"
+    url: "/wiki/concepts/exportcontrolalliancedurability/"
   - key: "ExternalPatronDependence"
     title: "External Patron Dependence"
     url: "/wiki/concepts/externalpatrondependence/"
@@ -1951,6 +1954,9 @@ topic_concepts:
   - key: "LightTouchFrontierGovernance"
     title: "Light-Touch Frontier Governance / 宽简边疆治理"
     url: "/wiki/concepts/lighttouchfrontiergovernance/"
+  - key: "AIControlNuclearAnalogyLimits"
+    title: "Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界"
+    url: "/wiki/concepts/aicontrolnuclearanalogylimits/"
   - key: "LineageRuleDurability"
     title: "Lineage Rules and Elite Durability / 家规型士族延续"
     url: "/wiki/concepts/lineageruledurability/"

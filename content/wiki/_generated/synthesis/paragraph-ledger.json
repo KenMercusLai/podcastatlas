@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5fd72b6d7c69ca284ca77734b9887c0c4136d8e9cd9a6b9ede0734805c8dd581",
       "965468c395e89043dd3fefacc1ab9b84c0ba9d9eecec98abee0f9c27748fddda",
       "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
       "319056ea04d09ca68758b7405efbdec39c7ad98a69307c8d3dbd9fb6e11775ba",
@@ -658,11 +659,36 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 656
+    "paragraph_count": 657
   },
-  "overview_commit": "4a3d449e4c2370e4cfac5add985d3181968a9da7",
-  "overview_digest": "856186a020ce82570685ae1c46c5023a7a8be1592fec329d53f5875fb6a35026",
+  "overview_commit": "761744ff711a9aa085a44b5b0eb57194a7dbd309",
+  "overview_digest": "d8b63ea16ad4003f0012d513b0f809651949f8c3be655c0a8d8151d816ef0139",
   "paragraphs": [
+    {
+      "id": "5fd72b6d7c69ca284ca77734b9887c0c4136d8e9cd9a6b9ede0734805c8dd581",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[2b2e96d8aea7-2b2e96d8aea7|Anthropic口中的AI安全，为什么听起来像一场生意保卫战？]], a [[KejiLuandun]] episode connecting [[Anthropic]]'s safety and anti-distillation rhetoric to [[CoCom]], [[WassenaarArrangement]], and the [[ToshibaMachine]] controversy. It adds [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], and [[AIControlNuclearAnalogyLimits]], while extending [[AdvancedAIDevelopmentPause]], [[LocalAIPrivacyTradeoff]], and [[ModelDistillationEvidence]]. Its core synthesis is that export-control coalitions require incentive-compatible burden sharing and credible enforcement, account classifiers can act on suspicious traffic without proving successful distillation, and copyable model weights make nuclear-material analogies weak even when AI risk is real. No settled contradiction is recorded: the episode qualifies pause advocacy through commercial incentives and diffusion but does not disprove safety concern; historical details, Anthropic motives, classifier behavior, ban anecdotes, and local-model capability remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "2b2e96d8aea7-2b2e96d8aea7",
+        "AIControlNuclearAnalogyLimits",
+        "AIPlatformBehavioralEnforcement",
+        "AdvancedAIDevelopmentPause",
+        "Anthropic",
+        "CoCom",
+        "ExportControlAllianceDurability",
+        "KejiLuandun",
+        "LocalAIPrivacyTradeoff",
+        "ModelDistillationEvidence",
+        "ToshibaMachine",
+        "WassenaarArrangement"
+      ]
+    },
     {
       "id": "965468c395e89043dd3fefacc1ab9b84c0ba9d9eecec98abee0f9c27748fddda",
       "primary_topic": "governance-and-institutions",
