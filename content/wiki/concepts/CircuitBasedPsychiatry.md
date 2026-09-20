@@ -5,6 +5,7 @@ tags: [psychiatry, neuroscience, depression, treatment]
 sources:
   - essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263
   - essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622
+  - essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-12
 ---
@@ -21,14 +22,15 @@ The practical importance is that very different treatments may converge on netwo
 
 [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] extends the model from depression and psychedelics into neurosurgical psychiatry. [[CaseyHalpern]] frames severe OCD, binge eating, addiction, obesity, depression, and suicidality as possible circuit problems when urges or impulses override risk awareness. [[DeepBrainStimulationPsychiatry]], [[FocusedUltrasoundNeuromodulation]], and [[IntracranialCircuitMapping]] make the model concrete: treatment depends not only on having a powerful device, but on discovering the relevant target and state signal.
 
+[[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] supplies the underlying precision requirement. [[KarlDeisseroth]] argues that cures require understanding relevant cells, regions, projections, body pathways, and normal activity patterns. Existing treatments can be useful before that map is complete, but broad electrical stimulation and immature biomarkers show why device capability alone cannot substitute for target knowledge.
+
 ## Key Claims
-- Depression is framed as a disabling condition with systemic health consequences, not only low mood.
-- The chemical-imbalance model is qualified because SSRIs can work without proving depression is a simple serotonin deficit.
-- Prefrontal, cingulate, insula, amygdala, vagal, and heart-linked pathways make mood regulation a circuit and body-state problem.
-- TMS and SNT make the circuit model actionable by targeting brain regions and stimulation timing.
-- Psychedelics, MDMA, ketamine, and neuromodulation may share connectivity or plasticity effects, but the evidence strength differs by intervention.
-- Recalibration language can reduce hopelessness only if it stays attached to clinical evidence and supervision.
-- Invasive stimulation, recording, and future non-invasive tools depend on target discovery and should not be treated as established psychiatric shortcuts.
+- Circuit models explain symptoms through networks, timing, connectivity, cell types, projections, and brain-body state rather than one missing chemical.
+- Effective medication, psychotherapy, ECT, or stimulation does not by itself provide a complete mechanism of illness.
+- TMS, SNT, DBS, vagus stimulation, and future selective tools make the model actionable at different levels of precision and invasiveness.
+- Target discovery is the shared bottleneck: a powerful intervention is useful only when the relevant circuit and state signal are known.
+- Psychedelics, MDMA, ketamine, and neuromodulation may alter connectivity, plasticity, or learning, but evidence strength and mechanism differ.
+- Circuit framing must remain attached to clinical evidence, functional assessment, supervision, and uncertainty.
 
 ## Evidence
 - Chemical-imbalance qualification - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] says SSRIs help some people but do not prove a serotonin-deficit cause of depression.
@@ -36,12 +38,15 @@ The practical importance is that very different treatments may converge on netwo
 - Treatment convergence - [[essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263]] links psilocybin, ketamine, and Stanford Neuromodulation Therapy to overlapping connectivity changes.
 - Neurosurgical extension - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] uses DBS, focused ultrasound, stereo-EEG, craving provocation, and machine learning to connect severe symptoms to measurable circuits.
 - Cross-diagnostic compulsion - [[essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622]] links OCD, binge eating, addiction, obesity, depression, and suicidality through urge or impulse states pursued despite risk.
+- Understanding requirement - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] says cure requires identifying relevant cells, regions, connections, projections, and normal activity patterns.
+- Precision limit - [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]] contrasts dose-limited broad electrical stimulation with conditional cell- and projection-specific optogenetic control.
 
 ## Counterevidence & Qualifications
-The sources do not show that all depression, OCD, addiction, obesity, binge eating, or suicidality are one circuit disorder, that medication is obsolete, or that circuit change automatically produces durable recovery. They present treatment-literacy frames and emerging mechanisms, not diagnostic algorithms or individualized treatment guidance.
+The sources do not show that all depression, OCD, addiction, obesity, binge eating, or suicidality are one circuit disorder, that medication is obsolete, or that circuit change automatically produces durable recovery. EEG biomarkers, optogenetic psychiatric treatment, brain-machine interfaces, and several altered-state mechanisms remain emerging or hypothetical rather than routine diagnostic or treatment tools.
 
 ## What Changed
-- Added Halpern's neurosurgical psychiatry branch, extending the concept from TMS and psychedelics to DBS, focused ultrasound, and intracranial mapping.
+- Added Deisseroth's cell-, projection-, and activity-pattern requirements for a genuinely explanatory circuit model.
+- Clarified that target knowledge, not stimulation power alone, is the central precision bottleneck.
 
 ## Related Concepts
 - [[TranscranialMagneticStimulationForDepression]] - direct neuromodulation branch that operationalizes the circuit model.
@@ -53,3 +58,5 @@ The sources do not show that all depression, OCD, addiction, obesity, binge eati
 - [[FocusedUltrasoundNeuromodulation]] - non-invasive neurosurgical tool whose psychiatric use depends on target discovery.
 - [[IntracranialCircuitMapping]] - method for finding human state signals and possible targets.
 - [[UrgeDespiteRiskCircuit]] - cross-diagnostic compulsion and craving pattern.
+- [[PsychiatryMeasurementGap]] - present limit on turning physical circuit models into routine quantitative diagnosis.
+- [[SelectiveNeuralStimulationPrecision]] - requirement for cell- and projection-level targeting rather than broad electrical activation.

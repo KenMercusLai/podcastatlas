@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10339
+wiki_total_pages: 10341
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "ProjectPossible"
     title: "Project Possible"
     url: "/wiki/entities/projectpossible/"
+  - key: "ProjectionsBook"
+    title: "Projections"
+    url: "/wiki/entities/projectionsbook/"
   - key: "Prometheus"
     title: "Prometheus / 普罗米修斯"
     url: "/wiki/entities/prometheus/"

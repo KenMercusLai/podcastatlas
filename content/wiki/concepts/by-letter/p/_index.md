@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7662
+wiki_total_pages: 7666
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1688,6 +1688,12 @@ wiki_pages:
   - key: "PsychiatricProfessionalBoundary"
     title: "Psychiatric Professional Boundary / 精神科医生专业边界"
     url: "/wiki/concepts/psychiatricprofessionalboundary/"
+  - key: "PsychiatricStigmaTreatmentDelay"
+    title: "Psychiatric Stigma and Treatment Delay"
+    url: "/wiki/concepts/psychiatricstigmatreatmentdelay/"
+  - key: "PsychiatryMeasurementGap"
+    title: "Psychiatry Measurement Gap"
+    url: "/wiki/concepts/psychiatrymeasurementgap/"
   - key: "PsychiatryPsychotherapyCollaboration"
     title: "Psychiatry-Psychotherapy Collaboration / 精神科与心理治疗协作"
     url: "/wiki/concepts/psychiatrypsychotherapycollaboration/"

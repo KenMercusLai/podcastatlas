@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1134
+topic_total_pages: 1137
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1615,6 +1615,9 @@ topic_concepts:
   - key: "SeizureFirstAidBoundary"
     title: "Seizure First-Aid Boundary / 抽搐急救边界"
     url: "/wiki/concepts/seizurefirstaidboundary/"
+  - key: "SelectiveNeuralStimulationPrecision"
+    title: "Selective Neural Stimulation Precision"
+    url: "/wiki/concepts/selectiveneuralstimulationprecision/"
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
@@ -2573,6 +2576,9 @@ topic_entities:
   - key: "PrinciplesOfPhilosophy"
     title: "Principles of Philosophy / 《哲学原理》"
     url: "/wiki/entities/principlesofphilosophy/"
+  - key: "ProjectionsBook"
+    title: "Projections"
+    url: "/wiki/entities/projectionsbook/"
   - key: "RalphAdolphs"
     title: "Ralph Adolphs"
     url: "/wiki/entities/ralphadolphs/"
@@ -3213,6 +3219,9 @@ topic_sources:
   - key: "essentials-understanding-controlling-aggression-scim4757138073"
     title: "Essentials: Understanding & Controlling Aggression"
     url: "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+  - key: "essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631"
+    title: "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth"
+    url: "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
   - key: "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982"
     title: "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe"
     url: "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"

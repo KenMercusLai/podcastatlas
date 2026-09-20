@@ -34739,6 +34739,10 @@
     "title": "Karissa Bodnar",
     "url": "/wiki/entities/karissabodnar/"
   },
+  "KarlDeisseroth": {
+    "title": "Karl Deisseroth",
+    "url": "/wiki/entities/karldeisseroth/"
+  },
   "KarlDrais": {
     "title": "Karl Drais / 卡尔·德莱斯",
     "url": "/wiki/entities/karldrais/"
@@ -50423,6 +50427,10 @@
     "title": "Project Possible",
     "url": "/wiki/entities/projectpossible/"
   },
+  "ProjectionsBook": {
+    "title": "Projections",
+    "url": "/wiki/entities/projectionsbook/"
+  },
   "Prometheus": {
     "title": "Prometheus / 普罗米修斯",
     "url": "/wiki/entities/prometheus/"
@@ -50642,6 +50650,14 @@
   "PsychiatricProfessionalBoundary": {
     "title": "Psychiatric Professional Boundary / 精神科医生专业边界",
     "url": "/wiki/concepts/psychiatricprofessionalboundary/"
+  },
+  "PsychiatricStigmaTreatmentDelay": {
+    "title": "Psychiatric Stigma and Treatment Delay",
+    "url": "/wiki/concepts/psychiatricstigmatreatmentdelay/"
+  },
+  "PsychiatryMeasurementGap": {
+    "title": "Psychiatry Measurement Gap",
+    "url": "/wiki/concepts/psychiatrymeasurementgap/"
   },
   "PsychiatryPsychotherapyCollaboration": {
     "title": "Psychiatry-Psychotherapy Collaboration / 精神科与心理治疗协作",
@@ -55770,6 +55786,10 @@
   "SelectiveMotionSmoothing": {
     "title": "Selective Motion Smoothing",
     "url": "/wiki/concepts/selectivemotionsmoothing/"
+  },
+  "SelectiveNeuralStimulationPrecision": {
+    "title": "Selective Neural Stimulation Precision",
+    "url": "/wiki/concepts/selectiveneuralstimulationprecision/"
   },
   "SelectiveThreatNarrativeEditing": {
     "title": "Selective Threat Narrative Editing",
@@ -62434,6 +62454,10 @@
   "TherapeuticMusicalSynchrony": {
     "title": "Therapeutic Musical Synchrony",
     "url": "/wiki/concepts/therapeuticmusicalsynchrony/"
+  },
+  "TherapeuticStateLearning": {
+    "title": "Therapeutic State Learning",
+    "url": "/wiki/concepts/therapeuticstatelearning/"
   },
   "TherapyInsightActionGap": {
     "title": "Therapy Insight-Action Gap / 治疗中的洞察行动落差",
@@ -75198,6 +75222,10 @@
   "essentials-understanding-controlling-aggression-scim4757138073": {
     "title": "Essentials: Understanding & Controlling Aggression",
     "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+  },
+  "essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631": {
+    "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
+    "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
   },
   "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982": {
     "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",

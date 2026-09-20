@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-20
-as_of_overview_commit: 8891ee46762e5e12f34ed4501ef64cc6fa1a8e5c
-input_digest: 8469471b81a86c2ee33c8feaf1ffe3e5838b1ae1b6f95b8016e8cf1e00b80992
+last_updated: 2026-09-21
+as_of_overview_commit: dd0a74fe87d86c35ff3f17050426615cfabeeeed
+input_digest: 93307591bd7e5722343308fee0ed0b42bda76753200cf09122cd4b5c6859eca9
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life.
 
 ## Cross-source Findings
 
@@ -1022,3 +1022,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - This is historical narrative and modern commentary, not clinical or experimental psychology evidence.
 - The source’s risk-investment and prisoner-dilemma language is analogy rather than evidence that the actors used formal models.
 - The incomplete transcript cannot independently establish the route solution or campaign result.
+
+### Mental Health Mechanisms Need Diagnosis And Integration Boundaries
+
+[[PsychiatryMeasurementGap]] and [[TherapeuticStateLearning]] add a personal-development boundary: interview language and functional evidence remain necessary while biomarkers are immature, and an altered experience matters only if learning transfers into ordinary life under [[PsychedelicClinicalSupervisionBoundary]].
+
+**Evidence:** [[PsychiatryMeasurementGap]], [[TherapeuticStateLearning]], [[PsychedelicClinicalSupervisionBoundary]], [[PsychiatricStigmaTreatmentDelay]], [[MDMA]], [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]]
+
+**Qualifications:**
+
+- The episode does not establish a biomarker, psychedelic mechanism, MDMA protocol, or self-treatment route.
+- Help-seeking can be reduced by stigma, but persistence and functional impairment still require individualized professional assessment.

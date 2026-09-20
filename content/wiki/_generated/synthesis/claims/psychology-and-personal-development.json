@@ -1764,10 +1764,28 @@
         "GuoJia",
         "ForcedMarchOperationalRisk"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "mental-health-mechanisms-need-diagnosis-and-integration-boundaries",
+      "qualifications": [
+        "The episode does not establish a biomarker, psychedelic mechanism, MDMA protocol, or self-treatment route.",
+        "Help-seeking can be reduced by stigma, but persistence and functional impairment still require individualized professional assessment."
+      ],
+      "statement": "[[PsychiatryMeasurementGap]] and [[TherapeuticStateLearning]] add a personal-development boundary: interview language and functional evidence remain necessary while biomarkers are immature, and an altered experience matters only if learning transfers into ordinary life under [[PsychedelicClinicalSupervisionBoundary]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "PsychiatryMeasurementGap",
+        "TherapeuticStateLearning",
+        "PsychedelicClinicalSupervisionBoundary",
+        "PsychiatricStigmaTreatmentDelay",
+        "MDMA",
+        "essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631"
+      ]
     }
   ],
-  "input_digest": "8469471b81a86c2ee33c8feaf1ffe3e5838b1ae1b6f95b8016e8cf1e00b80992",
-  "summary": "Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment.",
+  "input_digest": "93307591bd7e5722343308fee0ed0b42bda76753200cf09122cd4b5c6859eca9",
+  "summary": "Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"
 }

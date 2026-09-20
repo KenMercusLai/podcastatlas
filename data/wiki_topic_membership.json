@@ -55706,6 +55706,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "ProjectionsBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Prometheus": [
     {
       "key": "culture",
@@ -61632,6 +61644,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SelectiveNeuralStimulationPrecision": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SelectiveThreatNarrativeEditing": [
@@ -82815,6 +82834,13 @@
     }
   ],
   "essentials-understanding-controlling-aggression-scim4757138073": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631": [
     {
       "key": "science",
       "label": "Science",

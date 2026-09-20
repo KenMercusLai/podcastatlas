@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631.md) — Huberman Lab Essentials episode on psychiatric measurement limits, stigma, circuit understanding, stimulation precision, ADHD diagnosis boundaries, psychedelics, MDMA, trauma, and therapeutic learning.
 - [566. The Great Northern War: Slaughter on the Steppes (Part 3)](sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587.md) — The Rest Is History episode on Poltava's command breakdown, Sweden's imperial decline, Russia's Baltic ascent, and the war's continuation to Nystad.
 - [The Science & Art of Comedy & Creativity | Tom Segura](sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033.md) — Huberman Lab conversation on iterative stand-up craft, involuntary laughter, performer-audience state, vulnerability, and creative renewal.
 - [VOL.163近视的人那么多，我该怎么办？眼科主任支招！成人/儿童的近视防控手段](sources/vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc.md) — 这病说来话长 episode on pediatric myopia control, outdoor and near-work habits, orthokeratology, defocus spectacles, low-dose atropine, and cycloplegic refraction.
@@ -2591,6 +2592,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Karl Deisseroth](entities/KarlDeisseroth.md) — Psychiatrist and neuroscientist connecting interview-based care to cells, circuits, optogenetics, stimulation technologies, and rigorous hope.
+- [Projections](entities/ProjectionsBook.md) — Deisseroth's book joining psychiatric cases, neuroscience, accessibility, evidential restraint, and qualified optimism.
 - [Charles XII / 卡尔十二世](entities/CharlesXII.md) — Swedish warrior king whose courage and strategic inflexibility carry defeat at Poltava into years of continued war.
 - [Battle of Poltava / 波尔塔瓦战役](entities/BattleOfPoltava.md) — 1709 battle where Swedish coordination fails against Russia's fortified, artillery-backed, reformed army.
 - [Great Northern War / 大北方战争](entities/GreatNorthernWar.md) — 1700-1721 coalition war that shifts Baltic imperial primacy from Sweden toward Russia.
@@ -12939,6 +12942,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Psychiatry Measurement Gap](concepts/PsychiatryMeasurementGap.md) — Mismatch between physically grounded mental illness and routine assessment that still relies heavily on interviews, behavior, scales, and functional evidence.
+- [Selective Neural Stimulation Precision](concepts/SelectiveNeuralStimulationPrecision.md) — Requirement to control the relevant cell type, projection, circuit, and activity pattern rather than broadly stimulating nearby excitable tissue.
+- [Psychiatric Stigma and Treatment Delay](concepts/PsychiatricStigmaTreatmentDelay.md) — Pathway by which shame and handle-it-alone beliefs postpone care and can allow distress or impairment to deepen.
+- [Therapeutic State Learning](concepts/TherapeuticStateLearning.md) — Hypothesis that altered or relational experiences matter when their learning transfers into later ordinary life.
 - [Stand-up Comedy Iteration](concepts/StandupComedyIteration.md) — Live process of turning captured premises into working material through testing, revision, sequencing, and retirement.
 - [Comedy as Involuntary Judgment](concepts/ComedyAsInvoluntaryJudgment.md) — Laughter as rapid felt evidence that remains contextual and partly opaque.
 - [Performer-Audience State Coupling](concepts/PerformerAudienceStateCoupling.md) — Reciprocal shaping of performer readiness and audience emotion during live performance.

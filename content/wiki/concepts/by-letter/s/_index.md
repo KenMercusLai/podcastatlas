@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7662
+wiki_total_pages: 7666
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"
+  - key: "SelectiveNeuralStimulationPrecision"
+    title: "Selective Neural Stimulation Precision"
+    url: "/wiki/concepts/selectiveneuralstimulationprecision/"
   - key: "SelectiveThreatNarrativeEditing"
     title: "Selective Threat Narrative Editing"
     url: "/wiki/concepts/selectivethreatnarrativeediting/"

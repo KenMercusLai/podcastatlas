@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth
+
+Added source `essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631`; created `KarlDeisseroth`, `ProjectionsBook`, `PsychiatryMeasurementGap`, `SelectiveNeuralStimulationPrecision`, `PsychiatricStigmaTreatmentDelay`, and `TherapeuticStateLearning`; and updated `CircuitBasedPsychiatry`, `DeepBrainStimulationPsychiatry`, `PsychedelicClinicalSupervisionBoundary`, `MDMA`, overview, and index. Core synthesis: psychiatry's interview-based evidence can coexist with a physical circuit account, but future precision depends on target knowledge, while psychedelic and MDMA learning claims remain supervision-bound hypotheses. No settled contradiction found; EEG biomarkers, optogenetic psychiatric use, brain-machine interfaces, psychedelic mechanisms, and MDMA learning remain emerging or source-scoped.
+
 ## [2026-09-21] ingest | Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools
 
 Added source `essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382`; created `DailyCircadianPerformanceRoutine` and `UltradianDeepWorkBlock`; and updated `AndrewHuberman`, `HubermanLab`, `MorningLightCircadianAnchoring`, `SleepWakeTimingToolkit`, `CaffeineAdenosineSleepTiming`, `TemperatureMinimumClockShifting`, `SleepTemperatureToolkit`, and `SleepSupplementBoundary`. Core synthesis: daily performance and sleep form one timing system coordinating light, movement, caffeine, focused work, exercise, meals, cooling, and darkness, while personal function takes precedence over copying one host routine. No settled contradiction found; optic-flow, fasting, ultradian, meal, exercise-ratio, cytokine, EPA, serotonin, cooling, and supplement-dose claims remain source-scoped.
@@ -20539,10 +20543,6 @@ Added source `2b2e96d8aea7-2b2e96d8aea7`; created `CoCom`, `WassenaarArrangement
 
 Ran lint. See lint-report.md for details.
 
-## [2026-09-21] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-09-21] ingest | Islamism in Britain: what is the threat?
 
 Added source `islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a`; created `SonnyLoughran`, `ShiraAviona`, `PreventProgramme`, `Islamism`, `IslamIslamismConflation`, `IslamistEntryism`, `TransferPricing`, and `CorporateTrainingComplianceRitual`; and migrated and updated `AndrewPalmer`, `CocaCola`, `InternalRevenueService`, and `TaxEnforcementCapacity`. Core synthesis: distinguishing Islam from Islamism is necessary both to oppose anti-Muslim bigotry and to identify non-violent ideological influence without treating ordinary Muslim participation as entryism; the Coca-Cola dispute shows how intangible value, litigation duration, and resource asymmetry shape transfer-pricing enforcement; and completion-first corporate training can satisfy compliance without producing durable learning. No settled contradiction found; polling, representation, PREVENT, MI5, Sharia-council, litigation, and monetary claims remain source-scoped.
@@ -20654,6 +20654,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 566. The Great Northern War: Slaughter on the Steppes (Part 3)
 
 Added source `566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587`; created `CharlesXII`, `BattleOfPoltava`, `GreatNorthernWar`, and `SwedishEmpire`; and updated `PeterTheGreat`, `RussianEmpire`, overview, and index. Core synthesis: accumulated Swedish logistical and command failure met a reformed Russian battle system at Poltava, turning military defeat into coalition reversal, the end of Swedish Baltic primacy, and Russia's great-power ascent. No settled contradiction found; figures, dialogue, battlefield anecdotes, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies a frictionless ascent narrative.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

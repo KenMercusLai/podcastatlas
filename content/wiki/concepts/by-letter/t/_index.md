@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7662
+wiki_total_pages: 7666
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "TherapeuticMusicalSynchrony"
     title: "Therapeutic Musical Synchrony"
     url: "/wiki/concepts/therapeuticmusicalsynchrony/"
+  - key: "TherapeuticStateLearning"
+    title: "Therapeutic State Learning"
+    url: "/wiki/concepts/therapeuticstatelearning/"
   - key: "TherapyInsightActionGap"
     title: "Therapy Insight-Action Gap / 治疗中的洞察行动落差"
     url: "/wiki/concepts/therapyinsightactiongap/"
