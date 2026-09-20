@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7605
+wiki_total_pages: 7608
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "RealityOrientedSocialScienceResearch"
     title: "Reality-Oriented Social Science Research / 现实问题导向的社会科学研究"
     url: "/wiki/concepts/realityorientedsocialscienceresearch/"
+  - key: "RealityTVEditingEvidenceBoundary"
+    title: "Reality-TV Editing Evidence Boundary / 真人秀剪辑证据边界"
+    url: "/wiki/concepts/realitytveditingevidenceboundary/"
   - key: "RebelFounderAlienation"
     title: "Rebel Founder Alienation / 起义首领人心疏离"
     url: "/wiki/concepts/rebelfounderalienation/"

@@ -20482,3 +20482,11 @@ Added source `tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayiku
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？
+
+Added source `ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr`; created `FlowerAndYouthSeason2`, `RealityTVEditingEvidenceBoundary`, `PseudoConsensusTeamFailure`, and `GenderedLaborVisibility`; updated `WushichaYanjiusuo`, overview, and index. Core synthesis: extreme travel conditions, scarce resources, incomplete footage, hidden preferences, responsibility avoidance, and gendered recognition explain the season's conflicts and afterlife more reliably than a single-villain ranking. No settled contradiction found; footage ratio, chronology, labor counts, production decisions, and cast motives remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

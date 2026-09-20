@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10304
+wiki_total_pages: 10305
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "FuhuiQuanshu"
     title: "《福惠全书》"
     url: "/wiki/entities/fuhuiquanshu/"
+  - key: "FlowerAndYouthSeason2"
+    title: "《花儿与少年》第二季 / Flower and Youth Season 2"
+    url: "/wiki/entities/flowerandyouthseason2/"
   - key: "FuyouZhishang"
     title: "《蜉蝣直上》"
     url: "/wiki/entities/fuyouzhishang/"

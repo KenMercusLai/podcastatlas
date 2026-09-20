@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
       "319056ea04d09ca68758b7405efbdec39c7ad98a69307c8d3dbd9fb6e11775ba",
       "a4e3e81f63f74a55437a930c2b8d9da76076303e1afc6eb02a386620bacbed42",
       "385c78dc0929bf5ef2bc0931f79b99ea687c25357745e98a5d9d820e32256298",
@@ -655,11 +656,29 @@
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 653
+    "paragraph_count": 654
   },
-  "overview_commit": "17da05a5ffd9a837457e006b6cd090adabf35b81",
-  "overview_digest": "715ac5da44899cf73a29dd77f40e8be3fb93542552751d4aa25c1078a03b4454",
+  "overview_commit": "bcfd8654b6b2700735c37ea4c1e491d82dee326a",
+  "overview_digest": "b3e91ff5a3a62fadf7bb00b7e86b207c89a41d5923f6dde1a7efc024f4dcb12f",
   "paragraphs": [
+    {
+      "id": "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr|EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？]], a [[WushichaYanjiusuo|无时差研究所]] retrospective on [[FlowerAndYouthSeason2|《花儿与少年》第二季]]. It adds [[RealityTVEditingEvidenceBoundary|真人秀剪辑证据边界]], [[PseudoConsensusTeamFailure|团队伪共识]], and [[GenderedLaborVisibility|性别化劳动可见性]], while extending the show from old-drama adaptation commentary into reality-TV evidence and group coordination. Its core synthesis is that extreme itinerary design, scarce resources, partial footage, undisclosed preferences, responsibility avoidance, and gendered praise explain more than a single-villain ranking, while later workplace rereading can add context without proving hidden motives. No settled contradiction is recorded; the one-twentieth footage ratio, chronology, distances, labor totals, production decisions, and cast psychology remain source-scoped.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "FlowerAndYouthSeason2",
+        "GenderedLaborVisibility",
+        "PseudoConsensusTeamFailure",
+        "RealityTVEditingEvidenceBoundary",
+        "WushichaYanjiusuo",
+        "ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr"
+      ]
+    },
     {
       "id": "319056ea04d09ca68758b7405efbdec39c7ad98a69307c8d3dbd9fb6e11775ba",
       "primary_topic": "business-and-markets",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7605
+wiki_total_pages: 7608
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "GenderedHistoriographicalDesireFraming"
     title: "Gendered Historiographical Desire Framing / 性别化史书欲望叙事"
     url: "/wiki/concepts/genderedhistoriographicaldesireframing/"
+  - key: "GenderedLaborVisibility"
+    title: "Gendered Labor Visibility / 性别化劳动可见性"
+    url: "/wiki/concepts/genderedlaborvisibility/"
   - key: "GenderedLineageRitualOrder"
     title: "Gendered Lineage Ritual Order / 性别化宗族仪式秩序"
     url: "/wiki/concepts/genderedlineageritualorder/"

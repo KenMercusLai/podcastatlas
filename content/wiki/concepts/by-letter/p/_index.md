@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7605
+wiki_total_pages: 7608
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "ProxyConflictSpoilerRisk"
     title: "Proxy Conflict Spoiler Risk"
     url: "/wiki/concepts/proxyconflictspoilerrisk/"
+  - key: "PseudoConsensusTeamFailure"
+    title: "Pseudo-Consensus Team Failure / 团队伪共识"
+    url: "/wiki/concepts/pseudoconsensusteamfailure/"
   - key: "PseudoIndependentWomenNarrative"
     title: "Pseudo-Independent Women Narrative / 伪独立女性叙事"
     url: "/wiki/concepts/pseudoindependentwomennarrative/"
