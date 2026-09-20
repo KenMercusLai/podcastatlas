@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7635
+wiki_total_pages: 7638
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "BehavioralAgeInference"
     title: "Behavioral Age Inference"
     url: "/wiki/concepts/behavioralageinference/"
+  - key: "BehavioralAlignmentPatching"
+    title: "Behavioral Alignment Patching"
+    url: "/wiki/concepts/behavioralalignmentpatching/"
   - key: "BehavioralEvidenceLoyaltyJudgment"
     title: "Behavioral Evidence Loyalty Judgment / 以行动证忠"
     url: "/wiki/concepts/behavioralevidenceloyaltyjudgment/"

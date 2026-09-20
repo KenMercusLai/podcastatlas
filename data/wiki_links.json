@@ -6907,6 +6907,10 @@
     "title": "Automated Ball Strike Challenge System",
     "url": "/wiki/entities/automatedballstrikechallengesystem/"
   },
+  "AutomatedHiringProxyDiscrimination": {
+    "title": "Automated Hiring Proxy Discrimination",
+    "url": "/wiki/concepts/automatedhiringproxydiscrimination/"
+  },
   "AutomatedLifeDelegation": {
     "title": "Automated Life Delegation",
     "url": "/wiki/concepts/automatedlifedelegation/"
@@ -7902,6 +7906,10 @@
   "BehavioralAgeInference": {
     "title": "Behavioral Age Inference",
     "url": "/wiki/concepts/behavioralageinference/"
+  },
+  "BehavioralAlignmentPatching": {
+    "title": "Behavioral Alignment Patching",
+    "url": "/wiki/concepts/behavioralalignmentpatching/"
   },
   "BehavioralEvidenceLoyaltyJudgment": {
     "title": "Behavioral Evidence Loyalty Judgment / 以行动证忠",
@@ -22770,6 +22778,10 @@
   "Financo": {
     "title": "Financo",
     "url": "/wiki/entities/financo/"
+  },
+  "FineTuningExampleSignalAmplification": {
+    "title": "Fine-Tuning Example Signal Amplification",
+    "url": "/wiki/concepts/finetuningexamplesignalamplification/"
   },
   "FiniteGameBiotechCompetition": {
     "title": "Finite-Game Biotech Competition",
@@ -76658,6 +76670,10 @@
   "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128": {
     "title": "What might our tax system look like in the age of AI?",
     "url": "/wiki/sources/tech-20260914-tech-pod-128-tech-20260914-tech-pod-128/"
+  },
+  "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128": {
+    "title": "Why AI models are obsessed with creatures",
+    "url": "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
   },
   "tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128": {
     "title": "AI safety requires action, not promises",

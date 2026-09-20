@@ -20554,3 +20554,11 @@ Added source `501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruh
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Why AI models are obsessed with creatures
+
+Added source `tech-20260915-tech-pod-128-tech-20260915-tech-pod-128`; created `FineTuningExampleSignalAmplification`, `BehavioralAlignmentPatching`, and `AutomatedHiringProxyDiscrimination`; and migrated and updated `JanelleShane` and `AIWeirdnessBlog`. Core synthesis: examples can amplify an incidental personality cue, symptom-level alignment patches can displace rather than remove behavior, and historical hiring decisions can reappear through demographic proxies. No settled contradiction found; the OpenAI and Grok causal accounts, fine-tuning mechanism, and hiring examples remain source-scoped because the episode supplies no complete prompts, datasets, ablations, audits, or provider postmortems.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7635
+wiki_total_pages: 7638
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "FinancialStressCognitiveTax"
     title: "Financial Stress Cognitive Tax"
     url: "/wiki/concepts/financialstresscognitivetax/"
+  - key: "FineTuningExampleSignalAmplification"
+    title: "Fine-Tuning Example Signal Amplification"
+    url: "/wiki/concepts/finetuningexamplesignalamplification/"
   - key: "FiniteGameBiotechCompetition"
     title: "Finite-Game Biotech Competition"
     url: "/wiki/concepts/finitegamebiotechcompetition/"

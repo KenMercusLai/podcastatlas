@@ -3767,6 +3767,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aiwealthhousingscarcity/"
     },
+    "AIWeirdnessBlog": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260806_0806_MP_TECH_pod_128 [tech_20260806_0806_MP_TECH_pod_128].md",
+          "key": "tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI chatbots have linguistic slips when they go off-script",
+          "url": "/wiki/sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260915_TECH_pod_128 [tech_20260915_TECH_pod_128].md",
+          "key": "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why AI models are obsessed with creatures",
+          "url": "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/aiweirdnessblog/"
+    },
     "AMD": {
       "episode_count": 1,
       "show_count": 1,
@@ -9938,6 +9961,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/autoimmunediseasesubtyping/"
     },
+    "AutomatedHiringProxyDiscrimination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260915_TECH_pod_128 [tech_20260915_TECH_pod_128].md",
+          "key": "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why AI models are obsessed with creatures",
+          "url": "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/automatedhiringproxydiscrimination/"
+    },
     "AutomatedPerformanceMarketing": {
       "episode_count": 4,
       "show_count": 4,
@@ -11657,6 +11696,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/bedroomhomestayplatformtrust/"
+    },
+    "BehavioralAlignmentPatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260915_TECH_pod_128 [tech_20260915_TECH_pod_128].md",
+          "key": "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why AI models are obsessed with creatures",
+          "url": "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/behavioralalignmentpatching/"
     },
     "BehavioralEvidenceLoyaltyJudgment": {
       "episode_count": 1,
@@ -40073,6 +40128,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/financialstresscognitivetax/"
     },
+    "FineTuningExampleSignalAmplification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260915_TECH_pod_128 [tech_20260915_TECH_pod_128].md",
+          "key": "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why AI models are obsessed with creatures",
+          "url": "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/finetuningexamplesignalamplification/"
+    },
     "FirstAidTriageAndEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -59996,6 +60067,36 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/janefonda/"
+    },
+    "JanelleShane": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260806_0806_MP_TECH_pod_128 [tech_20260806_0806_MP_TECH_pod_128].md",
+          "key": "tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI chatbots have linguistic slips when they go off-script",
+          "url": "/wiki/sources/tech-20260806-0806-mp-tech-pod-128-tech-20260806-0806-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260722_0722_MP_TECH_pod_128 [tech_20260722_0722_MP_TECH_pod_128].md",
+          "key": "tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Uncanny AI: Why AI bots remember random, sometimes useless information",
+          "url": "/wiki/sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260915_TECH_pod_128 [tech_20260915_TECH_pod_128].md",
+          "key": "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Why AI models are obsessed with creatures",
+          "url": "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/janelleshane/"
     },
     "JapanAIDSBloodProductsIncident": {
       "episode_count": 1,

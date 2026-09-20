@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7635
+wiki_total_pages: 7638
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2324,6 +2324,9 @@ wiki_pages:
   - key: "AutoimmuneDiseaseSubtyping"
     title: "Autoimmune Disease Subtyping"
     url: "/wiki/concepts/autoimmunediseasesubtyping/"
+  - key: "AutomatedHiringProxyDiscrimination"
+    title: "Automated Hiring Proxy Discrimination"
+    url: "/wiki/concepts/automatedhiringproxydiscrimination/"
   - key: "AutomatedLifeDelegation"
     title: "Automated Life Delegation"
     url: "/wiki/concepts/automatedlifedelegation/"

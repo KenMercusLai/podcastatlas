@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "88e48f5b7958b1ffc438421571d2d3c4e877044844b91d38f70d17fb2cc16f0f",
       "bd158c7e61b294cf406d9e8332cee6f207aada9bff6061c3c91a46b17ebbfab7",
       "cee5b1a692af57169aac182b2228d5b36891ce6389d4dd9048a9d1283a1e55b3",
       "5fd72b6d7c69ca284ca77734b9887c0c4136d8e9cd9a6b9ede0734805c8dd581",
@@ -661,11 +662,32 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 659
+    "paragraph_count": 660
   },
-  "overview_commit": "0d76f2aaac68239a20a47fc5d530d4ebbc29dcad",
-  "overview_digest": "004262ca00a1e5caf81d5118cce243c3b4f760a0de360c3283624736fca1188c",
+  "overview_commit": "cfa6a98168e822acf34cb67a0b22288a210d4744",
+  "overview_digest": "c80c25b77bb39c171fbeb1adda360618e5ec76c8b3c30bab0d2760e334d43f8e",
   "paragraphs": [
+    {
+      "id": "88e48f5b7958b1ffc438421571d2d3c4e877044844b91d38f70d17fb2cc16f0f",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The newest AI-behavior source, [[tech-20260915-tech-pod-128-tech-20260915-tech-pod-128|Why AI models are obsessed with creatures]], links [[JanelleShane]]'s goblin example to a broader model-control synthesis. [[FineTuningExampleSignalAmplification]] explains how incidental details in small or reused human-labeled datasets can become stronger cues than the intended personality abstraction; [[BehavioralAlignmentPatching]] explains why a system-prompt fix may suppress the named symptom while creating refusal, displacement, or another side effect; and [[AutomatedHiringProxyDiscrimination]] shows the higher-stakes analogue when historical human bias is reconstructed through names, ZIP codes, or inferred demographics. Together they extend [[AIAlignmentGovernance]] and [[AIModelBiasGovernance]] from identifying undesirable outputs to testing the data, proxy features, regressions, and adjacent behaviors that produced or followed them. The source does not expose the relevant model prompts, datasets, ablations, hiring audits, or provider postmortems, so its causal accounts remain useful but source-scoped hypotheses rather than verified internal explanations.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "AIAlignmentGovernance",
+        "AIModelBiasGovernance",
+        "AutomatedHiringProxyDiscrimination",
+        "BehavioralAlignmentPatching",
+        "FineTuningExampleSignalAmplification",
+        "JanelleShane",
+        "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128"
+      ]
+    },
     {
       "id": "bd158c7e61b294cf406d9e8332cee6f207aada9bff6061c3c91a46b17ebbfab7",
       "primary_topic": "history-and-geopolitics",

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3087
+topic_total_pages: 3091
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1168,6 +1168,9 @@ topic_concepts:
   - key: "AutoFormalization"
     title: "Auto-Formalization"
     url: "/wiki/concepts/autoformalization/"
+  - key: "AutomatedHiringProxyDiscrimination"
+    title: "Automated Hiring Proxy Discrimination"
+    url: "/wiki/concepts/automatedhiringproxydiscrimination/"
   - key: "AutomatedLifeDelegation"
     title: "Automated Life Delegation"
     url: "/wiki/concepts/automatedlifedelegation/"
@@ -1201,6 +1204,9 @@ topic_concepts:
   - key: "BehavioralAgeInference"
     title: "Behavioral Age Inference"
     url: "/wiki/concepts/behavioralageinference/"
+  - key: "BehavioralAlignmentPatching"
+    title: "Behavioral Alignment Patching"
+    url: "/wiki/concepts/behavioralalignmentpatching/"
   - key: "BehavioralSignalProcessing"
     title: "Behavioral Signal Processing"
     url: "/wiki/concepts/behavioralsignalprocessing/"
@@ -2050,6 +2056,9 @@ topic_concepts:
   - key: "FinanceEntryLevelAICompression"
     title: "Finance Entry-Level AI Compression / 金融初级岗位AI压缩"
     url: "/wiki/concepts/financeentrylevelaicompression/"
+  - key: "FineTuningExampleSignalAmplification"
+    title: "Fine-Tuning Example Signal Amplification"
+    url: "/wiki/concepts/finetuningexamplesignalamplification/"
   - key: "FireTechClimateResilience"
     title: "Fire Tech Climate Resilience"
     url: "/wiki/concepts/firetechclimateresilience/"
@@ -8991,6 +9000,9 @@ topic_sources:
   - key: "tech-20260910-tech-pod-128-tech-20260910-tech-pod-128"
     title: "What's so concerning about the Hugging Face hack?"
     url: "/wiki/sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128/"
+  - key: "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128"
+    title: "Why AI models are obsessed with creatures"
+    url: "/wiki/sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790"
     title: "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-why-ai-will-dwarf-every-tech-revolution-before-it-robots-manufacturing-ar-glasses-from-ces-2026-39655790/"

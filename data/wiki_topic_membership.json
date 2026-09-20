@@ -10174,6 +10174,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AutomatedHiringProxyDiscrimination": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AutomatedLifeDelegation": [
     {
       "key": "technology",
@@ -11123,6 +11130,13 @@
     }
   ],
   "BehavioralAgeInference": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "BehavioralAlignmentPatching": [
     {
       "key": "technology",
       "label": "Technology",
@@ -26958,6 +26972,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "FineTuningExampleSignalAmplification": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "FiniteGameBiotechCompetition": [
@@ -85251,6 +85272,13 @@
     }
   ],
   "tech-20260914-tech-pod-128-tech-20260914-tech-pod-128": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "tech-20260915-tech-pod-128-tech-20260915-tech-pod-128": [
     {
       "key": "technology",
       "label": "Technology",

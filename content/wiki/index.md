@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Why AI models are obsessed with creatures](sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128.md) — Marketplace Tech with Janelle Shane on goblin-heavy personality tuning, small-data signal amplification, alignment patching, and hiring proxy discrimination.
 - [501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？](sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o.md) — 忽左忽右访谈孙明，以人口、盐漕河、胥吏、奏折言路与经世人物解释清中叶积弊、治理规范化悖论及王朝周期感知。
 - [Islamism in Britain: what is the threat?](sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a.md) — The Intelligence on distinguishing Islam from Islamism, non-violent entryism, PREVENT, the Coca-Cola transfer-pricing case, IRS capacity, and ineffective corporate training.
 - [PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血](sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho.md) — 这病说来话长 interview with veterinary oncologist Yang Xiaodan on feline stress disease, veterinary cancer diagnosis and treatment, comparative medicine, screening, and misinformation.
@@ -7296,7 +7297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [D-Day](entities/DDay.md) — Military-history event whose preparations used postcards and photos gathered from the British public.
 - [Three Gorges Dam](entities/ThreeGorgesDam.md) — Yangtze infrastructure caveat in the source's river-recovery story because dams interrupt fish movement.
 - [Chinese paddlefish](entities/ChinesePaddlefish.md) — Extinct Yangtze species used by the source to limit optimism about fish biomass recovery.
-- [AI Weirdness Blog](entities/AIWeirdnessBlog.md) — Janelle Shane's AI science-communication project, entering the wiki through Marketplace Tech's episode on chatbot language slips.
+- [AI Weirdness Blog](entities/AIWeirdnessBlog.md) — Janelle Shane's science-communication project connecting visible AI oddities to language boundaries, example amplification, and alignment uncertainty.
 - [Sarah LaFleur](entities/SarahLaFleur.md) — M.M. LaFleur founder and Advice Line advisor reframing Tress London around lifestyle, trust, and neighborhood-first word of mouth.
 - [M.M. LaFleur](entities/MMLaFleur.md) — Apparel brand whose M-Dash content example anchors Sarah LaFleur's advice on editorial customer relationships.
 - [Tony DeRosa](entities/TonyDeRosa.md) — Hearsay Brewing and Theater founder weighing equity partners against hired operators and control-preserving incentives.
@@ -7730,7 +7731,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sydney Brounstone](entities/SydneyBrounstone.md) — Reporter named in the trailer as co-investigating the CHOP shooting and new evidence.
 - [The Seattle Times](entities/TheSeattleTimes.md) — Local journalism partner named in the We Keep Us Safe trailer.
 - [KUOW](entities/KUOW.md) — Seattle public-radio partner named in the We Keep Us Safe trailer.
-- [Janelle Shane](entities/JanelleShane.md) — AI author and explainer describing chatbot memory files, awkward remembered details, and privacy risk on Marketplace Tech.
+- [Janelle Shane](entities/JanelleShane.md) — AI author and explainer connecting chatbot memory, language slips, goblin-heavy tuning, alignment patching, and proxy-bias risk.
 - [Julie Osk](entities/JulieOsk.md) — Osk Advisory technology analyst explaining AI infrastructure bond issuance, free-cash-flow pressure, and ROI risk on Marketplace Tech.
 - [Osk Advisory](entities/OskAdvisory.md) — Advisory firm context for Julie Osk's Marketplace Tech analysis of AI infrastructure debt financing.
 - [Future of Life Institute](entities/FutureOfLifeInstitute.md) — AI safety and policy organization whose semi-annual report card grades major AI labs on safety practices and commitments.
@@ -12905,6 +12906,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Automated Hiring Proxy Discrimination](concepts/AutomatedHiringProxyDiscrimination.md) — Risk that hiring models reconstruct demographic differences through names, ZIP codes, or other correlated features.
+- [Behavioral Alignment Patching](concepts/BehavioralAlignmentPatching.md) — Symptom-level model repair through prompts or post-training that can displace behavior or create new side effects.
+- [Fine-Tuning Example Signal Amplification](concepts/FineTuningExampleSignalAmplification.md) — Failure mode where incidental patterns in small or reused post-training datasets become disproportionately strong cues.
 - [Qing Mid-Dynasty Accumulated Maladies / 清中叶积弊](concepts/QingMidDynastyAccumulatedMaladies.md) — Problems formed during prosperity that harden into routines, interests, and weak reform capacity before open disorder.
 - [Governance Normalization Paradox / 治理规范化悖论](concepts/GovernanceNormalizationParadox.md) — How layered rules and oversight can shift responsibility from solving problems toward procedural compliance.
 - [Administrative Information Conformity / 行政信息圆美化](concepts/AdministrativeInformationConformity.md) — Distortion created when official communication rewards safe, polished alignment over candid operational reporting.

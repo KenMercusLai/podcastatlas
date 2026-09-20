@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: 0d76f2aaac68239a20a47fc5d530d4ebbc29dcad
+as_of_overview_commit: cfa6a98168e822acf34cb67a0b22288a210d4744
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2566
-source_count: 2566
-paragraph_count: 659
+episode_count: 2567
+source_count: 2567
+paragraph_count: 660
 topic_count: 8
 ---
 
@@ -16,7 +16,7 @@ topic_count: 8
 
 ## Executive Summary
 
-- [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete.
+- [[tech-20260915-tech-pod-128-tech-20260915-tech-pod-128|The Marketplace Tech goblin episode]] connects [[FineTuningExampleSignalAmplification]], [[BehavioralAlignmentPatching]], and [[AutomatedHiringProxyDiscrimination]]: model control needs auditing of incidental training signals, regression testing beyond the named symptom, and outcome review for demographic proxies rather than assuming that an explicit instruction or omitted protected attribute resolves the underlying behavior.
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
@@ -29,7 +29,7 @@ topic_count: 8
 
 ### AI and Technology
 
-Technology creates durable value when compute, power, data, interfaces, workflows, permissions, verification, defensive access, and human responsibility mature together; durable controls also need incentive-compatible coalitions and must distinguish physical chokepoints from copyable model weights.
+AI value depends on workflows, infrastructure, verification, and controls that test example signals, behavioral regressions, proxy bias, permissions, and human responsibility.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
@@ -50,14 +50,14 @@ Cultural form is interpretive infrastructure: media, objects, provenance, and au
 
 ### Governance and Institutions
 
-Institutions need category clarity, representative pluralism, evidence, information channels, public-service capacity, accountable openness, enforceable limits, and continuity of judgment; they must oppose collective suspicion without granting organized actors unearned authority.
+Institutions need category clarity, representative pluralism, evidence, accountable openness, enforceable limits, and continuity of judgment.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].
 
 ### History and Geopolitics
 
-Historical outcomes turn on legitimacy, routes, logistics, coalition sequencing, organization, information, and reputation, while the Qing mid-dynasty case shows that underfunded implementation, embedded interests, procedural accretion, and distorted reporting can weaken a state before visible disorder.
+Historical outcomes turn on legitimacy, routes, logistics, coalitions, organization, information, and reputation, including decline hidden inside normal procedure.
 
 - [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o|Episode 501]] adds [[QingMidDynastyAccumulatedMaladies|a mid-Qing case]] in which underfunded implementation, embedded interests, [[GovernanceNormalizationParadox|procedural accretion]], and [[AdministrativeInformationConformity|safe information channels]] weaken problem solving before open disorder, while [[DynasticCyclePerception|different cycle perceptions]] shape reform and [[StatecraftGenerationRelay|personnel preparation]]. Evidence: [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o]], [[QingMidDynastyAccumulatedMaladies]], [[GovernanceNormalizationParadox]], [[AdministrativeInformationConformity]], [[DynasticCyclePerception]], [[StatecraftGenerationRelay]].
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
