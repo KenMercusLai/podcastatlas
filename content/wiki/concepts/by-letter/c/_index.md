@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7621
+wiki_total_pages: 7625
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "ComparativeAdvantage"
     title: "Comparative Advantage"
     url: "/wiki/concepts/comparativeadvantage/"
+  - key: "ComparativeMedicine"
+    title: "Comparative Medicine / 比较医学"
+    url: "/wiki/concepts/comparativemedicine/"
   - key: "CompassionateCuriosity"
     title: "Compassionate Curiosity"
     url: "/wiki/concepts/compassionatecuriosity/"

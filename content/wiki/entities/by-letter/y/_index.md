@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10309
+wiki_total_pages: 10310
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "YangYangTelecomResearcher"
     title: "杨旸 / Yang Yang (Telecommunications Researcher)"
     url: "/wiki/entities/yangyangtelecomresearcher/"
+  - key: "YangXiaodan"
+    title: "杨晓丹 / Yang Xiaodan"
+    url: "/wiki/entities/yangxiaodan/"
   - key: "YangHuiLateHan"
     title: "杨晖 / Yang Hui (late Han)"
     url: "/wiki/entities/yanghuilatehan/"

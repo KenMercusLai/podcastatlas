@@ -22224,9 +22224,9 @@
       "url": "/wiki/concepts/communityledsaasgrowth/"
     },
     "CompanionAnimalHealth": {
-      "episode_count": 6,
-      "show_count": 3,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
@@ -22269,9 +22269,16 @@
           "show": "Huberman Lab",
           "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
           "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        },
+        {
+          "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
+          "key": "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho",
+          "show": "这病说来话长",
+          "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
+          "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/companionanimalhealth/"
     },
     "CompanionRobots": {
@@ -22317,6 +22324,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/companionrobots/"
+    },
+    "ComparativeMedicine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
+          "key": "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho",
+          "show": "这病说来话长",
+          "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
+          "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCuriosity": {
       "episode_count": 1,
@@ -38527,6 +38550,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/feishu/"
+    },
+    "FelineStressRelatedUrinaryDisease": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
+          "key": "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho",
+          "show": "这病说来话长",
+          "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
+          "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/felinestressrelatedurinarydisease/"
     },
     "FelixHoffman": {
       "episode_count": 1,
@@ -116732,6 +116771,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
     },
+    "VeterinaryMedicalMisinformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
+          "key": "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho",
+          "show": "这病说来话长",
+          "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
+          "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/veterinarymedicalmisinformation/"
+    },
+    "VeterinaryOncology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
+          "key": "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho",
+          "show": "这病说来话长",
+          "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
+          "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/veterinaryoncology/"
+    },
     "VibeCoding": {
       "episode_count": 21,
       "show_count": 9,
@@ -127270,6 +127341,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/yangtianzhen/"
+    },
+    "YangXiaodan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
+          "key": "pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho",
+          "show": "这病说来话长",
+          "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
+          "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/yangxiaodan/"
     },
     "YangXingWesternHan": {
       "episode_count": 2,

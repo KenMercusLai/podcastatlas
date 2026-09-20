@@ -17462,6 +17462,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ComparativeMedicine": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CompassionateCuriosity": [
     {
       "key": "science",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7621
+wiki_total_pages: 7625
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "FeedbackRegulationAsSelfAdjustment"
     title: "Feedback Regulation As Self-Adjustment"
     url: "/wiki/concepts/feedbackregulationasselfadjustment/"
+  - key: "FelineStressRelatedUrinaryDisease"
+    title: "Feline Stress-Related Urinary Disease / 猫应激相关泌尿疾病"
+    url: "/wiki/concepts/felinestressrelatedurinarydisease/"
   - key: "FemaleBodyFreedom"
     title: "Female Body Freedom"
     url: "/wiki/concepts/femalebodyfreedom/"

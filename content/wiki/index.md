@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血](sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho.md) — 这病说来话长 interview with veterinary oncologist Yang Xiaodan on feline stress disease, veterinary cancer diagnosis and treatment, comparative medicine, screening, and misinformation.
 - [Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029.md) — Tomorrow Today interview on institutional government innovation, open data, policy leverage, shared logistics, procurement, global AI governance, and infrastructure sovereignty.
 - [JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms](sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207.md) — All-In interview with JD Vance on border and manufacturing policy, Iran and inflation, deficits, electricity, AI cyber governance, H-1B restrictions, benefit fraud, alliances, and the midterms.
 - [史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷](sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j.md) — 史蒂夫说 conversation with Ajiao on patient symbolization, public projection, explanatory limits, relational safety, bodily survival, and de-romanticizing death.
@@ -2575,6 +2576,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [杨晓丹 / Yang Xiaodan](entities/YangXiaodan.md) — Veterinary oncologist and public educator represented through small-animal cancer care, comparative medicine, and evidence boundaries.
 - [CoCom / 巴黎统筹委员会](entities/CoCom.md) — Cold War export-control coalition used to examine incentive-dependent enforcement and modern AI-control analogies.
 - [Wassenaar Arrangement / 瓦森纳安排](entities/WassenaarArrangement.md) — Post-Cold War multilateral framework for conventional-arms and dual-use export coordination.
 - [Toshiba Machine / 东芝机械](entities/ToshibaMachine.md) — Industrial company in the episode's 1980s Soviet machine-tool export-control case.
@@ -12893,6 +12895,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Veterinary Oncology / 兽医肿瘤学](concepts/VeterinaryOncology.md) — Companion-animal cancer diagnosis, staging, treatment, and quality-of-life decisions under species and evidence constraints.
+- [Comparative Medicine / 比较医学](concepts/ComparativeMedicine.md) — Translation of mechanisms and techniques across human and animal medicine without assuming species equivalence.
+- [Feline Stress-Related Urinary Disease / 猫应激相关泌尿疾病](concepts/FelineStressRelatedUrinaryDisease.md) — Context linking feline stress and household environment to urinary signs while preserving diagnostic and emergency boundaries.
+- [Veterinary Medical Misinformation / 兽医医疗错误信息](concepts/VeterinaryMedicalMisinformation.md) — Unsupported or distorted claims that can displace qualified animal diagnosis and treatment.
 - [Export-Control Alliance Durability / 出口管制联盟耐久性](concepts/ExportControlAllianceDurability.md) — Whether a control coalition can survive unequal trade losses, compensation, and contested exceptions.
 - [AI Platform Behavioral Enforcement / AI平台行为式风控](concepts/AIPlatformBehavioralEnforcement.md) — Account-level classification using identity, payment, network, concurrency, and prompt-pattern signals.
 - [Limits of the AI-Nuclear Control Analogy / AI与核管控类比边界](concepts/AIControlNuclearAnalogyLimits.md) — Material and distribution differences between controlling nuclear capability and copyable model weights.

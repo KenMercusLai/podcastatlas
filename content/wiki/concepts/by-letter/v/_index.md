@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7621
+wiki_total_pages: 7625
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -113,6 +113,12 @@ wiki_pages:
   - key: "VeteranMeritCliqueSupervision"
     title: "Veteran Merit-Clique Supervision / 功臣旧将监督"
     url: "/wiki/concepts/veteranmeritcliquesupervision/"
+  - key: "VeterinaryMedicalMisinformation"
+    title: "Veterinary Medical Misinformation / 兽医医疗错误信息"
+    url: "/wiki/concepts/veterinarymedicalmisinformation/"
+  - key: "VeterinaryOncology"
+    title: "Veterinary Oncology / 兽医肿瘤学"
+    url: "/wiki/concepts/veterinaryoncology/"
   - key: "ViaticalSettlement"
     title: "Viatical Settlement"
     url: "/wiki/concepts/viaticalsettlement/"

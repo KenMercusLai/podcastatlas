@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-21] ingest | PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血
+
+Added source `pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho`; created `YangXiaodan`, `VeterinaryOncology`, `ComparativeMedicine`, `FelineStressRelatedUrinaryDisease`, and `VeterinaryMedicalMisinformation`; and updated `CompanionAnimalHealth`, overview, and index. Core synthesis: veterinary cancer care joins pathology, staging, species-specific evidence, treatment burden, caregiver constraints, and quality of life, while household stress and information quality can directly shape animal health decisions. No settled contradiction found; clinical frequencies, seasonal patterns, exposure risks, test performance, professional biography, and case outcomes remain source-scoped, and a possibly mistranscribed mutation notation is not promoted as fact.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究
 
 Added source `zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle`; updated `TianChou`, `LulongRoadLateHan`, and `BattlefieldInformationControl`, including migration of the information-control page to `synthesis-v1`. Core synthesis: Tian Chou's local knowledge turns the disused Lulong Road into a hidden rear approach, while Cao Cao's plausible autumn-or-winter notice makes the visible withdrawal confirm the wrong model of the campaign. No settled contradiction found; the unidentified U.S. manual, unsupported 47% statistic, opponent-psychology reconstruction, exact distances, road age, engineering scale, and dialogue remain source-scoped.
@@ -20526,6 +20530,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | Anthropic口中的AI安全，为什么听起来像一场生意保卫战？
 
 Added source `2b2e96d8aea7-2b2e96d8aea7`; created `CoCom`, `WassenaarArrangement`, `ToshibaMachine`, `ExportControlAllianceDurability`, `AIPlatformBehavioralEnforcement`, and `AIControlNuclearAnalogyLimits`; and updated `AdvancedAIDevelopmentPause`, `LocalAIPrivacyTradeoff`, and `ModelDistillationEvidence`. Core synthesis: export-control coalitions depend on incentive-compatible burden sharing, suspicious account traffic can justify enforcement without proving successful distillation, and copyable model weights limit direct nuclear-nonproliferation analogies. No settled contradiction found; historical details, company motives, classifier behavior, ban anecdotes, and local-model capability remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1127
+topic_total_pages: 1128
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -358,6 +358,9 @@ topic_concepts:
   - key: "CommunityFeeling"
     title: "Community Feeling"
     url: "/wiki/concepts/communityfeeling/"
+  - key: "ComparativeMedicine"
+    title: "Comparative Medicine / 比较医学"
+    url: "/wiki/concepts/comparativemedicine/"
   - key: "CompassionateCuriosity"
     title: "Compassionate Curiosity"
     url: "/wiki/concepts/compassionatecuriosity/"
