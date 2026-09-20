@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2591
+topic_total_pages: 2593
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5018,6 +5018,9 @@ topic_entities:
   - key: "GrahamPlatner"
     title: "Graham Platner"
     url: "/wiki/entities/grahamplatner/"
+  - key: "GreatEmbassy"
+    title: "Great Embassy / 大使团出访"
+    url: "/wiki/entities/greatembassy/"
   - key: "GreatTreasonIncident"
     title: "Great Treason Incident / 大逆事件"
     url: "/wiki/entities/greattreasonincident/"
@@ -6909,6 +6912,9 @@ topic_sources:
   - key: "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o"
     title: "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？"
     url: "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+  - key: "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819"
+    title: "563. Peter the Great: Bloodbath in the Kremlin (Part 2)"
+    url: "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"

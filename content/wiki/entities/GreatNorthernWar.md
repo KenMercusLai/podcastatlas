@@ -6,6 +6,7 @@ sources:
   - 566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587
   - 565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243
   - 564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070
+  - 563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-21
 ---
@@ -18,7 +19,7 @@ The Great Northern War was the 1700-1721 struggle in which Sweden faced a changi
 
 ## Current Profile
 
-The war begins when Denmark, [[AugustusTheStrong|Augustus the Strong]], and Russia attack different parts of Sweden's Baltic system. Charles forces Denmark out and destroys Peter's unfinished army at Narva, but then makes Augustus's punishment and deposition his priority. During the Polish-Saxon campaigns, Peter rebuilds the army, advances through Ingria, and founds [[SaintPetersburg|Saint Petersburg]], turning an early disaster into a durable strategic foothold.
+The diplomatic prehistory begins when [[AugustusTheStrong|Augustus the Strong]] proposes that he and [[PeterTheGreat|Peter the Great]] divide Sweden's Baltic possessions while [[CharlesXII|Charles XII]] is still a teenager. Peter then secures a long truce with the [[OttomanEmpire]], abandons immediate hopes for Black Sea access, and declares war on Sweden in 1700. Denmark, Saxony-Poland, and Russia attack different parts of Sweden's Baltic system; Charles forces Denmark out and destroys Peter's unfinished army at Narva, but then makes Augustus's punishment and deposition his priority. During the Polish-Saxon campaigns, Peter rebuilds the army, advances through Ingria, and founds [[SaintPetersburg|Saint Petersburg]], turning an early disaster into a durable strategic foothold.
 
 Charles's 1707 Russian invasion seeks to depose Peter through decisive victory, but Russian withdrawal and scorched-earth policy deny the battle and supplies Sweden needs. Tactical Swedish victories cannot offset manpower limits, the destruction of Lewenhaupt's relief column at [[BattleOfLesnaya|Lesnaya]], or the growing cost of distance.
 
@@ -38,6 +39,7 @@ The later war spreads through Ottoman diplomacy, northern Germany, Finland, Swed
 
 ## Evidence
 
+- Strategic prehistory: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] links Augustus's partition proposal, Peter's turn from the Ottoman frontier, the 1700 truce, and Russia's declaration of war on Sweden.
 - Origins and early reversal: [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]] connects Baltic access, coalition attack, Denmark, Narva, Augustus's defeat, Russian reform, Saint Petersburg, and the Moscow decision.
 - Coalition and invasion: [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]] follows the Moscow objective, Russian withdrawal, Swedish tactical victories, and growing manpower and supply asymmetry.
 - Logistics and Ukrainian turn: [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]] connects Lesnaya, Mazepa, Baturin, winter, and absent allies to the approach to Poltava.
@@ -47,10 +49,11 @@ The later war spreads through Ottoman diplomacy, northern Germany, Finland, Swed
 
 ## Qualifications
 
-This page rests on three episodes centered on the war's opening, Russian campaign, Poltava, and final arc, not a complete campaign history. Coalition motives, Polish and Ukrainian agency, Ottoman decision-making, civilian losses, territorial details, and counterfactual outcomes require broader evidence. The episodes' treatment of Narva as reform shock and Poltava as great-power hinge should not be reduced to single-cause explanations.
+This page rests on four episodes spanning the diplomatic prehistory, opening, Russian campaign, Poltava, and final arc, not a complete campaign history. Coalition motives, Polish and Ukrainian agency, Ottoman decision-making, civilian losses, territorial details, and counterfactual outcomes require broader evidence. The episodes' treatment of the Ottoman truce as pivot, Narva as reform shock, and Poltava as great-power hinge should not be reduced to single-cause explanations.
 
 ## What Changed
 
+- Added Augustus's anti-Swedish proposal, Peter's Ottoman truce, and the Black Sea-to-Baltic strategic pivot as the war's immediate prehistory.
 - Added the Moscow campaign, Lesnaya supply disaster, Ukrainian alignment, Baturin, and failed alliance support as the road to Poltava.
 - Added the Baltic war aims, anti-Swedish coalition, Narva, Polish-Saxon diversion, Russian recovery, and Saint Petersburg as the conflict's opening causal chain.
 

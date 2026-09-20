@@ -1171,6 +1171,10 @@
     "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
     "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
   },
+  "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819": {
+    "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+    "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+  },
   "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070": {
     "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
     "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
@@ -13802,6 +13806,10 @@
   "CoerciveImplicationCascade": {
     "title": "刑讯攀引扩大 / Coercive Implication Cascade",
     "url": "/wiki/concepts/coerciveimplicationcascade/"
+  },
+  "CoerciveWesternization": {
+    "title": "Coercive Westernization",
+    "url": "/wiki/concepts/coercivewesternization/"
   },
   "Coffee": {
     "title": "Coffee / 咖啡",
@@ -26626,6 +26634,10 @@
   "GreatDismalSwamp": {
     "title": "Great Dismal Swamp",
     "url": "/wiki/entities/greatdismalswamp/"
+  },
+  "GreatEmbassy": {
+    "title": "Great Embassy / 大使团出访",
+    "url": "/wiki/entities/greatembassy/"
   },
   "GreatFilter": {
     "title": "Great Filter",
@@ -59842,6 +59854,10 @@
   "StreetJianghuSociety": {
     "title": "Street Jianghu Society",
     "url": "/wiki/concepts/streetjianghusociety/"
+  },
+  "Streltsy": {
+    "title": "Streltsy / 射击军",
+    "url": "/wiki/entities/streltsy/"
   },
   "StrengthBenchmarkTesting": {
     "title": "Strength Benchmark Testing / 力量基准测试",

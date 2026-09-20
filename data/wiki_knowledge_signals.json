@@ -9504,9 +9504,9 @@
       "url": "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
     },
     "AugustusTheStrong": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2662789070 [GLT2662789070].md",
@@ -9514,6 +9514,13 @@
           "show": "The Rest Is History",
           "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
           "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        },
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
         }
       ],
       "updated": "2026-09-21",
@@ -22058,6 +22065,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/coerciveimplicationcascade/"
+    },
+    "CoerciveWesternization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/coercivewesternization/"
     },
     "CoffeeFarmerIncomeMechanics": {
       "episode_count": 1,
@@ -48429,10 +48452,26 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/graymarketpeptides/"
     },
-    "GreatNorthernWar": {
-      "episode_count": 3,
+    "GreatEmbassy": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/greatembassy/"
+    },
+    "GreatNorthernWar": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -48454,6 +48493,13 @@
           "show": "The Rest Is History",
           "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
           "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        },
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
         }
       ],
       "updated": "2026-09-21",
@@ -80946,9 +80992,9 @@
       "url": "/wiki/concepts/modernistheritagerecognitiongap/"
     },
     "ModernizingAutocracy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4718660658 [GLT4718660658].md",
@@ -80963,6 +81009,13 @@
           "show": "The Rest Is History",
           "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
           "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        },
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
         }
       ],
       "updated": "2026-09-21",
@@ -89553,9 +89606,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -89591,6 +89644,13 @@
           "show": "The Rest Is History",
           "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
           "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        },
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
         }
       ],
       "updated": "2026-09-21",
@@ -109510,6 +109570,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/streetjianghusociety/"
     },
+    "Streltsy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/streltsy/"
+    },
     "StrengthBenchmarkTesting": {
       "episode_count": 1,
       "show_count": 1,
@@ -116938,9 +117014,9 @@
       "url": "/wiki/entities/tsaiengmeng/"
     },
     "TsarevichAlexei": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4718660658 [GLT4718660658].md",
@@ -116948,6 +117024,13 @@
           "show": "The Rest Is History",
           "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
           "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        },
+        {
+          "episode_file": "GLT4388388819 [GLT4388388819].md",
+          "key": "563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819",
+          "show": "The Rest Is History",
+          "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
+          "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
         }
       ],
       "updated": "2026-09-21",

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2740
+topic_total_pages: 2741
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -628,6 +628,9 @@ topic_concepts:
   - key: "ClimateAlteredSummer"
     title: "Climate-Altered Summer"
     url: "/wiki/concepts/climatealteredsummer/"
+  - key: "CoerciveWesternization"
+    title: "Coercive Westernization"
+    url: "/wiki/concepts/coercivewesternization/"
   - key: "CoffeehousePublicSphere"
     title: "Coffeehouse Public Sphere"
     url: "/wiki/concepts/coffeehousepublicsphere/"

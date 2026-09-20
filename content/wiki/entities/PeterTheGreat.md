@@ -8,6 +8,7 @@ sources:
   - 566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587
   - 565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243
   - 564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070
+  - 563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-21
 ---
@@ -16,11 +17,15 @@ last_updated: 2026-09-21
 
 ## Overview
 
-Peter the Great appears across the wiki as the ruler who turned Russian maritime ambition, battlefield humiliation, war pressure, technical learning, and administrative reform into a larger imperial program. Recovery from the [[BattleOfNarva|Battle of Narva]], construction of [[SaintPetersburg|Saint Petersburg]], and victory over [[CharlesXII|Charles XII]] at the [[BattleOfPoltava|Battle of Poltava]] secured the Baltic foundation of that project; his coercive labor, personal cruelty, theatrical humiliation, corruption tolerance, and destruction of [[TsarevichAlexei|his son Alexei]] remain inseparable from it.
+Peter the Great appears across the wiki as the ruler who turned maritime ambition, the [[GreatEmbassy|Great Embassy]], battlefield humiliation, war pressure, technical learning, and administrative reform into a larger imperial program. Recovery from the [[BattleOfNarva|Battle of Narva]], construction of [[SaintPetersburg|Saint Petersburg]], and victory over [[CharlesXII|Charles XII]] at the [[BattleOfPoltava|Battle of Poltava]] secured the Baltic foundation of that project; [[CoerciveWesternization|coercive Westernization]], personal cruelty, theatrical humiliation, corruption tolerance, and destruction of the [[Streltsy]] and [[TsarevichAlexei|his son Alexei]] remain inseparable from it.
 
 ## Current Profile
 
-The Bering source presents Peter as the political origin of Russia's turn toward sea power. His European shipbuilding study, Baltic war, Saint Petersburg construction, and deathbed route instruction connect the western maritime project to [[VitusBering]], [[FirstKamchatkaExpedition]], and later [[RussianNorthPacificExpansion]]. Ambition becomes durable only through the difficult administrative and logistical machinery needed to move people and materials across Siberia.
+The Great Embassy episode supplies the formative prewar layer. Peter's youthful circle combines military experiment, technical play, foreign sociability, religious parody, drinking, and cruelty. Traveling as Peter Mikhailov, he seeks anti-Ottoman allies while working in Dutch and English shipyards, inspecting science, industry, coinage, collections, and government, and recruiting specialists. His admiration for open English political speech stops short of accepting limits on Russian monarchy.
+
+On returning, Peter turns selected foreign practices into [[CoerciveWesternization|visible commands]] over beards, clothing, calendars, coinage, marriage, and elite conduct. He uses the Streltsy revolt to justify torture, public execution, Sophia's final confinement, and abolition of the corps. The encounter with [[AugustusTheStrong|Augustus the Strong]], followed by an Ottoman truce, redirects his strategic attention toward Sweden and the Baltic.
+
+The Bering source carries that maritime program eastward. Peter's European shipbuilding study, Baltic war, Saint Petersburg construction, and deathbed route instruction connect the western maritime project to [[VitusBering]], [[FirstKamchatkaExpedition]], and later [[RussianNorthPacificExpansion]]. Ambition becomes durable only through the difficult administrative and logistical machinery needed to move people and materials across Siberia.
 
 The opening war episode supplies the reform shock. Peter enters the conflict seeking Ingria, Karelia, and reliable Baltic access, but his large, superficially Westernized army collapses at Narva. He answers through [[DefeatDrivenMilitaryReform|conscription, drilling, weapons production, bayonets, and artillery]], while Charles campaigns against [[AugustusTheStrong|Augustus the Strong]]. Captures on the Neva then let Peter found Saint Petersburg, an indispensable port and fortress built through compulsory labor, forced elite residence, severe conditions, and heavy mortality. The same war also brings [[CatherineI|Catherine]] into his household through captivity and elite patronage.
 
@@ -32,16 +37,18 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 
 ## Key Characteristics
 
-- He treats maritime access, war readiness, technical learning, and administrative capacity as one state-building project, adapting after defeat and under invasion through reform, withdrawal, resource denial, operational timing, and rapid coercive retaliation.
-- His curiosity ranges across shipbuilding, science, geography, anatomy, craft, and foreign institutions.
+- He treats maritime access, war readiness, curiosity across shipbuilding, science, geography, anatomy, craft, and foreign institutions, and administrative capacity as one state-building project, adapting after defeat and under invasion through reform, withdrawal, resource denial, operational timing, and rapid coercive retaliation.
 - He uses planned urbanism, service ranking, bureaucracy, industry, and taxation to redirect elite and state behavior from above.
 - His rule remains personalized: useful favorites can survive corruption while enemies and suspected conspirators face exemplary violence.
 - Grotesque spectacle and ritual parody form part of his court culture rather than a side note to governance.
+- He borrows foreign techniques selectively while refusing foreign political limits and making bodily appearance a test of elite obedience.
 - His treatment of Alexei shows reform, family domination, succession fear, and state coercion converging in one case.
 - The institutions associated with his reign outlast his personal command and help preserve Russia's great-power position.
 
 ## Evidence
 
+- Prewar formation and European learning: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] connects Peter's technical curiosity, shipyard work, scientific visits, specialist recruitment, and diplomatic ambitions through the Great Embassy.
+- Coercive return and strategic pivot: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] links beard and clothing rules, calendar and coinage reform, Eudokia's removal, the Streltsy purge, and Augustus's anti-Swedish proposal.
 - Maritime and eastern program: [[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] connects Peter's sea-outlet anxiety, shipbuilding study, Baltic position, Saint Petersburg, and route instruction to the Bering expeditions.
 - Defeat, reform, and Baltic foothold: [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]] connects Narva to military rebuilding and links the Neva conquests, coercive construction of Saint Petersburg, and refusal to surrender the city.
 - Adaptive campaign leadership: [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]] connects Peter's early anxiety to withdrawal, supply denial, exploitation of the gap at Lesnaya, and rapid retaliation at Baturin.
@@ -53,10 +60,11 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 
 ## Qualifications
 
-The five sources are narrative podcasts with different emphases: exploration and extraction, the war's opening and reform shock, invasion and logistics, battlefield and geopolitical change, and court culture with dynastic tragedy. Troop figures, speeches, near-miss anecdotes, diplomatic and personal motives, Catherine's early biography, construction mortality, the scale and purpose of violence at Baturin, exact responsibility for Alexei's death, reform effectiveness, and later uses of Peter remain source-scoped. Modernization here does not mean calm command, uninterrupted victory, full meritocracy, administrative coherence, or political liberalization.
+The six sources are narrative podcasts with different emphases: early rule and European travel, exploration and extraction, the war's opening and reform shock, invasion and logistics, battlefield and geopolitical change, and court culture with dynastic tragedy. Troop figures, speeches, medical speculation, court anecdotes, diplomatic and personal motives, exact Streltsy execution details, Catherine's early biography, construction mortality, the scale and purpose of violence at Baturin, exact responsibility for Alexei's death, reform effectiveness, and later uses of Peter remain source-scoped. Modernization here does not mean calm command, uninterrupted victory, full meritocracy, administrative coherence, or political liberalization.
 
 ## What Changed
 
+- Added the Great Embassy, selective foreign learning, coercive cultural reform, Streltsy destruction, and prewar Baltic pivot as the formative layer of Peter's program.
 - Added Peter's adaptation from early anxiety to withdrawal, supply denial, exploitation of Swedish separation, and rapid response to Mazepa.
 - Connected Lesnaya and Baturin to the material and political isolation of Charles before Poltava.
 - Extended the trajectory backward to Narva, where military humiliation exposes the limits of superficial Westernization and accelerates reform.
@@ -80,3 +88,6 @@ The five sources are narrative podcasts with different emphases: exploration and
 - [[BattleOfNarva]] - formative defeat that intensifies Peter's military and fiscal rebuilding.
 - [[SaintPetersburg]] - port, fortress, and imposed city that materializes his Baltic strategy.
 - [[CatherineI]] - captive transformed into Peter's partner within the war-shaped court system.
+- [[GreatEmbassy]] - diplomatic and technical apprenticeship that precedes Peter's imposed reforms.
+- [[CoerciveWesternization]] - selective borrowing enforced through bodily, cultural, and institutional command.
+- [[Streltsy]] - armed institution whose revolt Peter turns into a purge and abolition.

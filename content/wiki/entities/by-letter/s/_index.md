@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10352
+wiki_total_pages: 10354
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1358,6 +1358,9 @@ wiki_pages:
   - key: "StrattonOakmont"
     title: "Stratton Oakmont"
     url: "/wiki/entities/strattonoakmont/"
+  - key: "Streltsy"
+    title: "Streltsy / 射击军"
+    url: "/wiki/entities/streltsy/"
   - key: "StridingAI"
     title: "Striding AI / 正行创新"
     url: "/wiki/entities/stridingai/"

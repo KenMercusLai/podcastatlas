@@ -20698,3 +20698,15 @@ Added source `essentials-how-hearing-balance-enhance-focus-learning-scim11356975
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 563. Peter the Great: Bloodbath in the Kremlin (Part 2)
+
+Added source `563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819`; created `GreatEmbassy`, `Streltsy`, and `CoerciveWesternization`; and updated `PeterTheGreat`, `AugustusTheStrong`, `GreatNorthernWar`, `TsarevichAlexei`, `ModernizingAutocracy`, index, and downstream synthesis. Core synthesis: Peter's European apprenticeship and selective technical borrowing did not constrain autocracy; on return, visible cultural commands and the Streltsy purge fused reform with coercive consolidation, while Augustus's proposal and the Ottoman truce redirected strategy toward Sweden. No settled contradiction found; dialogue, medical speculation, court anecdotes, execution details, individual motives, and direct reform causality remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

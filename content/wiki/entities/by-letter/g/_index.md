@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10352
+wiki_total_pages: 10354
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "GreatDismalSwamp"
     title: "Great Dismal Swamp"
     url: "/wiki/entities/greatdismalswamp/"
+  - key: "GreatEmbassy"
+    title: "Great Embassy / 大使团出访"
+    url: "/wiki/entities/greatembassy/"
   - key: "GreatHarvestBread"
     title: "Great Harvest Bread"
     url: "/wiki/entities/greatharvestbread/"
