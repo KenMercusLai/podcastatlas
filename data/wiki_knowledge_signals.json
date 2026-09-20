@@ -81513,6 +81513,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/morocco/"
     },
+    "MoscowUprising1682": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535116202 [GLT5535116202].md",
+          "key": "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202",
+          "show": "The Rest Is History",
+          "title": "562. Peter the Great: The Rise of Russia (Part 1)",
+          "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/moscowuprising1682/"
+    },
     "MosquitoBitePrevention": {
       "episode_count": 1,
       "show_count": 1,
@@ -89689,9 +89705,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -89734,6 +89750,13 @@
           "show": "The Rest Is History",
           "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
           "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+        },
+        {
+          "episode_file": "GLT5535116202 [GLT5535116202].md",
+          "key": "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202",
+          "show": "The Rest Is History",
+          "title": "562. Peter the Great: The Rise of Russia (Part 1)",
+          "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
         }
       ],
       "updated": "2026-09-21",
@@ -107487,6 +107510,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/soobinkim/"
     },
+    "SophiaAlekseyevna": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535116202 [GLT5535116202].md",
+          "key": "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202",
+          "show": "The Rest Is History",
+          "title": "562. Peter the Great: The Rise of Russia (Part 1)",
+          "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/sophiaalekseyevna/"
+    },
     "SophieZhang": {
       "episode_count": 1,
       "show_count": 1,
@@ -109700,9 +109739,9 @@
       "url": "/wiki/concepts/streetjianghusociety/"
     },
     "Streltsy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4388388819 [GLT4388388819].md",
@@ -109710,6 +109749,13 @@
           "show": "The Rest Is History",
           "title": "563. Peter the Great: Bloodbath in the Kremlin (Part 2)",
           "url": "/wiki/sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819/"
+        },
+        {
+          "episode_file": "GLT5535116202 [GLT5535116202].md",
+          "key": "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202",
+          "show": "The Rest Is History",
+          "title": "562. Peter the Great: The Rise of Russia (Part 1)",
+          "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
         }
       ],
       "updated": "2026-09-21",
@@ -118991,6 +119037,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/vannevarbush/"
+    },
+    "VasilyGolitsyn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535116202 [GLT5535116202].md",
+          "key": "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202",
+          "show": "The Rest Is History",
+          "title": "562. Peter the Great: The Rise of Russia (Part 1)",
+          "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/vasilygolitsyn/"
     },
     "VectorBorneInfectionEscalation": {
       "episode_count": 1,

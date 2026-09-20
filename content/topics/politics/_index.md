@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2594
+topic_total_pages: 2595
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -6257,6 +6257,9 @@ topic_entities:
   - key: "Vanguard"
     title: "Vanguard"
     url: "/wiki/entities/vanguard/"
+  - key: "VasilyGolitsyn"
+    title: "Vasily Golitsyn / 瓦西里·戈利岑"
+    url: "/wiki/entities/vasilygolitsyn/"
   - key: "VelvetRevolution"
     title: "Velvet Revolution / 天鹅绒革命"
     url: "/wiki/entities/velvetrevolution/"

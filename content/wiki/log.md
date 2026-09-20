@@ -20726,3 +20726,11 @@ Added source `contracts-of-love-money-that-make-or-break-relationships-james-sex
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 562. Peter the Great: The Rise of Russia (Part 1)
+
+Added source `562-peter-the-great-the-rise-of-russia-part-1-glt5535116202`; created `SophiaAlekseyevna`, `VasilyGolitsyn`, and `MoscowUprising1682`; and updated `PeterTheGreat`, `Streltsy`, overview, and index. Core synthesis: the 1682 succession crisis fused genuine Streltsy grievances with dynastic manipulation, Sophia and Golitsyn supplied a pre-Petrine Westernizing regency, and Peter's trauma, mock regiments, technical craft, foreign contacts, and sailing formed the ruler whose coalition prevailed in 1689. No settled contradiction found; trauma causality, rumor responsibility, dialogue, casualty figures, Crimean losses, and reform commitments remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

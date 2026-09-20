@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [562. Peter the Great: The Rise of Russia (Part 1)](sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202.md) — The Rest Is History episode on the 1682 succession violence, Sophia's regency, Peter's practical and maritime formation, and his 1689 rise to effective power.
 - [Contracts of Love & Money That Make or Break Relationships | James Sexton](sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218.md) — Huberman Lab interview on prenups as relationship design, marriage defaults, preventive check-ins, vulnerability, and source-scoped divorce observations.
 - [563. Peter the Great: Bloodbath in the Kremlin (Part 2)](sources/563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819.md) — The Rest Is History episode on the Great Embassy, practical Western learning, coercive cultural reform, the Streltsy purge, and Peter's pivot toward war with Sweden.
 - [Essentials: How Hearing & Balance Enhance Focus & Learning](sources/essentials-how-hearing-balance-enhance-focus-learning-scim1135697510.md) — Huberman Lab Essentials episode on auditory transduction, sound localization, selective listening, binaural beats, low-level white noise, visual-vestibular integration, dynamic balance, and learning-state claims.
@@ -2601,6 +2602,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
 ## Entities
+- [Sophia Alekseyevna / 索菲娅·阿列克谢耶芙娜](entities/SophiaAlekseyevna.md) — Peter's half-sister and regent whose coalition emerged from the 1682 uprising and collapsed in 1689.
+- [Vasily Golitsyn / 瓦西里·戈利岑](entities/VasilyGolitsyn.md) — Sophia's Westernizing chief minister whose diplomacy and failed Crimean campaigns shaped the regency.
+- [Moscow Uprising of 1682 / 1682年莫斯科起义](entities/MoscowUprising1682.md) — Streltsy intervention that remade the Romanov succession and exposed the child Peter to Kremlin violence.
 - [James Sexton](entities/JamesSexton.md) — Family-law attorney reframing prenups, divorce practice, and recurring relationship maintenance as preventive clarity.
 - [TrustedPrenup](entities/TrustedPrenup.md) — Source-scoped prenup service discussed as an access and affordability effort.
 - [Great Embassy / 大使团出访](entities/GreatEmbassy.md) — Peter the Great's 1697-1698 diplomatic, recruitment, and hands-on technical learning mission through Europe.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10356
+wiki_total_pages: 10359
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "Morocco"
     title: "Morocco"
     url: "/wiki/entities/morocco/"
+  - key: "MoscowUprising1682"
+    title: "Moscow Uprising of 1682 / 1682年莫斯科起义"
+    url: "/wiki/entities/moscowuprising1682/"
   - key: "MOSS"
     title: "MOSS"
     url: "/wiki/entities/moss/"

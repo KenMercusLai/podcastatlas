@@ -9,6 +9,7 @@ sources:
   - 565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243
   - 564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070
   - 563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819
+  - 562-peter-the-great-the-rise-of-russia-part-1-glt5535116202
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-21
 ---
@@ -17,9 +18,13 @@ last_updated: 2026-09-21
 
 ## Overview
 
-Peter the Great appears across the wiki as the ruler who turned maritime ambition, the [[GreatEmbassy|Great Embassy]], battlefield humiliation, war pressure, technical learning, and administrative reform into a larger imperial program. Recovery from the [[BattleOfNarva|Battle of Narva]], construction of [[SaintPetersburg|Saint Petersburg]], and victory over [[CharlesXII|Charles XII]] at the [[BattleOfPoltava|Battle of Poltava]] secured the Baltic foundation of that project; [[CoerciveWesternization|coercive Westernization]], personal cruelty, theatrical humiliation, corruption tolerance, and destruction of the [[Streltsy]] and [[TsarevichAlexei|his son Alexei]] remain inseparable from it.
+Peter the Great appears across the wiki as the child ruler formed by the [[MoscowUprising1682|1682 Moscow uprising]] who turned maritime ambition, practical learning, the [[GreatEmbassy|Great Embassy]], battlefield humiliation, war pressure, and administrative reform into a larger imperial program. Recovery from the [[BattleOfNarva|Battle of Narva]], construction of [[SaintPetersburg|Saint Petersburg]], and victory over [[CharlesXII|Charles XII]] at the [[BattleOfPoltava|Battle of Poltava]] secured the Baltic foundation of that project; [[CoerciveWesternization|coercive Westernization]], personal cruelty, theatrical humiliation, corruption tolerance, and destruction of the [[Streltsy]] and [[TsarevichAlexei|his son Alexei]] remain inseparable from it.
 
 ## Current Profile
+
+The childhood episode supplies the dynastic and psychological prehistory. Peter becomes tsar at ten after Fedor III's death, but the Streltsy's violent intervention produces a joint monarchy with Ivan V and places [[SophiaAlekseyevna|Sophia]] in the regency. Peter witnesses killings in the Kremlin and then grows up partly outside the central court, where mock regiments, practical craft, geometry, geography, foreign officers, and an English boat turn technical curiosity into military and maritime identity. The source treats trauma as formative but also shows that Westernizing government already existed under Sophia and [[VasilyGolitsyn|Golitsyn]].
+
+In 1689, failed Crimean campaigns and a mutual coup scare fracture Sophia's coalition. Peter retreats to the Trinity Lavra, foreign officers rally to him, and the Streltsy change sides; Sophia is confined, Golitsyn exiled, and Peter becomes effective master of Russia at seventeen, initially with his mother as regent.
 
 The Great Embassy episode supplies the formative prewar layer. Peter's youthful circle combines military experiment, technical play, foreign sociability, religious parody, drinking, and cruelty. Traveling as Peter Mikhailov, he seeks anti-Ottoman allies while working in Dutch and English shipyards, inspecting science, industry, coinage, collections, and government, and recruiting specialists. His admiration for open English political speech stops short of accepting limits on Russian monarchy.
 
@@ -37,7 +42,7 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 
 ## Key Characteristics
 
-- He treats maritime access, war readiness, curiosity across shipbuilding, science, geography, anatomy, craft, and foreign institutions, and administrative capacity as one state-building project, adapting after defeat and under invasion through reform, withdrawal, resource denial, operational timing, and rapid coercive retaliation.
+- His practical and military identity begins before sole rule through mock regiments, lower-rank learning, foreign technical contacts, and sailing; he later treats maritime access, war readiness, craft, science, foreign institutions, and administration as one adaptive state-building project.
 - He uses planned urbanism, service ranking, bureaucracy, industry, and taxation to redirect elite and state behavior from above.
 - His rule remains personalized: useful favorites can survive corruption while enemies and suspected conspirators face exemplary violence.
 - Grotesque spectacle and ritual parody form part of his court culture rather than a side note to governance.
@@ -47,6 +52,8 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 
 ## Evidence
 
+- Childhood crisis and regency: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]] connects Peter's accession, the Kremlin killings, joint monarchy, and Sophia's rule.
+- Practical formation and seizure of power: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]] links mock regiments, craft, geometry, sailing, and foreign officers to the 1689 collapse of Sophia's coalition.
 - Prewar formation and European learning: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] connects Peter's technical curiosity, shipyard work, scientific visits, specialist recruitment, and diplomatic ambitions through the Great Embassy.
 - Coercive return and strategic pivot: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] links beard and clothing rules, calendar and coinage reform, Eudokia's removal, the Streltsy purge, and Augustus's anti-Swedish proposal.
 - Maritime and eastern program: [[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] connects Peter's sea-outlet anxiety, shipbuilding study, Baltic position, Saint Petersburg, and route instruction to the Bering expeditions.
@@ -60,15 +67,15 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 
 ## Qualifications
 
-The six sources are narrative podcasts with different emphases: early rule and European travel, exploration and extraction, the war's opening and reform shock, invasion and logistics, battlefield and geopolitical change, and court culture with dynastic tragedy. Troop figures, speeches, medical speculation, court anecdotes, diplomatic and personal motives, exact Streltsy execution details, Catherine's early biography, construction mortality, the scale and purpose of violence at Baturin, exact responsibility for Alexei's death, reform effectiveness, and later uses of Peter remain source-scoped. Modernization here does not mean calm command, uninterrupted victory, full meritocracy, administrative coherence, or political liberalization.
+The seven sources are narrative podcasts with different emphases: childhood and succession, early rule and European travel, exploration and extraction, the war's opening and reform shock, invasion and logistics, battlefield and geopolitical change, and court culture with dynastic tragedy. The causal weight of childhood trauma, troop figures, speeches, medical speculation, court anecdotes, diplomatic and personal motives, exact Streltsy execution details, Catherine's early biography, construction mortality, the scale and purpose of violence at Baturin, exact responsibility for Alexei's death, reform effectiveness, and later uses of Peter remain source-scoped. Modernization here does not mean calm command, uninterrupted victory, full meritocracy, administrative coherence, or political liberalization.
 
 ## What Changed
 
+- Added the 1682 succession violence, Sophia's regency, Peter's practical education, and the 1689 transfer of effective power.
 - Added the Great Embassy, selective foreign learning, coercive cultural reform, Streltsy destruction, and prewar Baltic pivot as the formative layer of Peter's program.
 - Added Peter's adaptation from early anxiety to withdrawal, supply denial, exploitation of Swedish separation, and rapid response to Mazepa.
 - Connected Lesnaya and Baturin to the material and political isolation of Charles before Poltava.
 - Extended the trajectory backward to Narva, where military humiliation exposes the limits of superficial Westernization and accelerates reform.
-- Made Saint Petersburg's coercive construction and strategic non-negotiability explicit within Peter's maritime program.
 
 ## Relationships
 
@@ -91,3 +98,6 @@ The six sources are narrative podcasts with different emphases: early rule and E
 - [[GreatEmbassy]] - diplomatic and technical apprenticeship that precedes Peter's imposed reforms.
 - [[CoerciveWesternization]] - selective borrowing enforced through bodily, cultural, and institutional command.
 - [[Streltsy]] - armed institution whose revolt Peter turns into a purge and abolition.
+- [[MoscowUprising1682]] - childhood succession crisis whose violence shaped Peter's political formation.
+- [[SophiaAlekseyevna]] - half-sister and regent displaced when Peter's coalition prevailed in 1689.
+- [[VasilyGolitsyn]] - Sophia's reforming minister whose Crimean failures weakened the regency.
