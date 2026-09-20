@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [566. The Great Northern War: Slaughter on the Steppes (Part 3)](sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587.md) — The Rest Is History episode on Poltava's command breakdown, Sweden's imperial decline, Russia's Baltic ascent, and the war's continuation to Nystad.
 - [The Science & Art of Comedy & Creativity | Tom Segura](sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033.md) — Huberman Lab conversation on iterative stand-up craft, involuntary laughter, performer-audience state, vulnerability, and creative renewal.
 - [VOL.163近视的人那么多，我该怎么办？眼科主任支招！成人/儿童的近视防控手段](sources/vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc.md) — 这病说来话长 episode on pediatric myopia control, outdoor and near-work habits, orthokeratology, defocus spectacles, low-dose atropine, and cycloplegic refraction.
 - [567. The Great Northern War: Murder in Moscow (Part 4)](sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658.md) — The Rest Is History episode on Peter the Great's modernizing autocracy, grotesque court, Tsarevich Alexei's flight and death, and the durability of Russia's reformed state.
@@ -2590,6 +2591,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Charles XII / 卡尔十二世](entities/CharlesXII.md) — Swedish warrior king whose courage and strategic inflexibility carry defeat at Poltava into years of continued war.
+- [Battle of Poltava / 波尔塔瓦战役](entities/BattleOfPoltava.md) — 1709 battle where Swedish coordination fails against Russia's fortified, artillery-backed, reformed army.
+- [Great Northern War / 大北方战争](entities/GreatNorthernWar.md) — 1700-1721 coalition war that shifts Baltic imperial primacy from Sweden toward Russia.
+- [Swedish Empire / 瑞典帝国](entities/SwedishEmpire.md) — Baltic military empire whose field power collapses at Poltava and whose primacy ends at Nystad.
 - [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.

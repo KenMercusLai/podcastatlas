@@ -20650,3 +20650,11 @@ Added source `the-science-art-of-comedy-creativity-tom-segura-scim7538555033`; c
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 566. The Great Northern War: Slaughter on the Steppes (Part 3)
+
+Added source `566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587`; created `CharlesXII`, `BattleOfPoltava`, `GreatNorthernWar`, and `SwedishEmpire`; and updated `PeterTheGreat`, `RussianEmpire`, overview, and index. Core synthesis: accumulated Swedish logistical and command failure met a reformed Russian battle system at Poltava, turning military defeat into coalition reversal, the end of Swedish Baltic primacy, and Russia's great-power ascent. No settled contradiction found; figures, dialogue, battlefield anecdotes, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies a frictionless ascent narrative.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

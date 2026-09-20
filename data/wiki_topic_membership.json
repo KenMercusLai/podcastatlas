@@ -1773,6 +1773,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658": [
     {
       "key": "history",
@@ -67135,6 +67142,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SwedishEmpire": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Sweetwater": [

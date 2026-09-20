@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "dea995f53949eb4b90a367c60af283a353f672e78ef35dee39256800e83aba15",
       "e671956dfa4cdc9dbd7f520e2c50fa0c34d3d6e3f4c6e586a2f4fd6f9aeb5159",
       "62866ce94ce01826990fdd772118ad3f2f7c7b4fd833a5c3a8fa2ebfb6a92eb2",
       "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
@@ -669,11 +670,30 @@
       "47ae2228246ab9b5b5e6024a10f36bfae6db8aead8a1f432c52d0c8a26254f2a",
       "629aab64da366ba5cc20419e9037b6bf5d77abe32d266168f1c31e099e11ca14"
     ],
-    "paragraph_count": 667
+    "paragraph_count": 668
   },
-  "overview_commit": "e7b7c3aa27d89fe81c9866ba004ae1e44cec5563",
-  "overview_digest": "5ded5f943660ff7f7cededcec91e18471b272c5c619e924aff4a1d688b804237",
+  "overview_commit": "67ef9bcf62b395a860342e9813588936e63fcc56",
+  "overview_digest": "123d4f2f6301842150dd7e9fe066665ae7d9ac80dcc9ed2b2c19e753cab1f8f1",
   "paragraphs": [
+    {
+      "id": "dea995f53949eb4b90a367c60af283a353f672e78ef35dee39256800e83aba15",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The newest early-modern-war source, [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|566. The Great Northern War: Slaughter on the Steppes (Part 3)]], backfills the battlefield and geopolitical transition before Part 4. It adds [[CharlesXII]], [[BattleOfPoltava]], [[GreatNorthernWar]], and [[SwedishEmpire]], while extending [[PeterTheGreat]] and [[RussianEmpire]]. Its core synthesis is that Poltava converts accumulated capacity into political realignment: Swedish supply failure, winter attrition, injury, rival commanders, redoubts, and missing artillery fragment an elite army, while Peter's fortified position, cannon, reserves, and reformed infantry turn victory into coalition renewal, Baltic gains, Saint Petersburg's security, and imperial status. No settled contradiction is recorded; troop and casualty totals, dialogue, near-miss stories, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies any frictionless account of Russian ascent.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 3
+      },
+      "wikilinks": [
+        "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+        "BattleOfPoltava",
+        "CharlesXII",
+        "GreatNorthernWar",
+        "PeterTheGreat",
+        "RussianEmpire",
+        "SwedishEmpire"
+      ]
+    },
     {
       "id": "e671956dfa4cdc9dbd7f520e2c50fa0c34d3d6e3f4c6e586a2f4fd6f9aeb5159",
       "primary_topic": "science-health-and-climate",

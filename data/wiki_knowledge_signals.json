@@ -11406,6 +11406,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/battleofmarathon/"
     },
+    "BattleOfPoltava": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679437587 [GLT4679437587].md",
+          "key": "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+          "show": "The Rest Is History",
+          "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+          "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/battleofpoltava/"
+    },
     "BattleOfTrebia": {
       "episode_count": 1,
       "show_count": 1,
@@ -17775,6 +17791,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/charlesduncancameron/"
+    },
+    "CharlesXII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679437587 [GLT4679437587].md",
+          "key": "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+          "show": "The Rest Is History",
+          "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+          "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/charlesxii/"
     },
     "ChaseAndrews": {
       "episode_count": 1,
@@ -48155,6 +48187,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/graymarketpeptides/"
+    },
+    "GreatNorthernWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679437587 [GLT4679437587].md",
+          "key": "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+          "show": "The Rest Is History",
+          "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+          "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/greatnorthernwar/"
     },
     "GreaterBayAreaAirportCluster": {
       "episode_count": 1,
@@ -89149,9 +89197,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -89166,6 +89214,13 @@
           "show": "The Rest Is History",
           "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
           "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        },
+        {
+          "episode_file": "GLT4679437587 [GLT4679437587].md",
+          "key": "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+          "show": "The Rest Is History",
+          "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+          "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
         }
       ],
       "updated": "2026-09-21",
@@ -99753,9 +99808,9 @@
       "url": "/wiki/entities/russellwilder/"
     },
     "RussianEmpire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -99770,6 +99825,13 @@
           "show": "The Rest Is History",
           "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
           "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        },
+        {
+          "episode_file": "GLT4679437587 [GLT4679437587].md",
+          "key": "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+          "show": "The Rest Is History",
+          "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+          "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
         }
       ],
       "updated": "2026-09-21",
@@ -111208,6 +111270,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/svenschulze/"
+    },
+    "SwedishEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4679437587 [GLT4679437587].md",
+          "key": "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+          "show": "The Rest Is History",
+          "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+          "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/swedishempire/"
     },
     "SweetenerUncertainty": {
       "episode_count": 2,

@@ -1171,6 +1171,10 @@
     "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
     "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
   },
+  "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587": {
+    "title": "566. The Great Northern War: Slaughter on the Steppes (Part 3)",
+    "url": "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
+  },
   "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658": {
     "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
     "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
@@ -7795,6 +7799,10 @@
     "title": "Battle of Marathon",
     "url": "/wiki/concepts/battleofmarathon/"
   },
+  "BattleOfPoltava": {
+    "title": "Battle of Poltava / 波尔塔瓦战役",
+    "url": "/wiki/entities/battleofpoltava/"
+  },
   "BattleOfTheBogside": {
     "title": "Battle of the Bogside",
     "url": "/wiki/entities/battleofthebogside/"
@@ -11522,6 +11530,10 @@
   "CharlesSled": {
     "title": "Charles Sled",
     "url": "/wiki/entities/charlessled/"
+  },
+  "CharlesXII": {
+    "title": "Charles XII / 卡尔十二世",
+    "url": "/wiki/entities/charlesxii/"
   },
   "CharlieChaplin": {
     "title": "Charlie Chaplin / 卓别林",
@@ -26570,6 +26582,10 @@
   "GreatNorthernExpedition": {
     "title": "Great Northern Expedition / 大北方探险",
     "url": "/wiki/entities/greatnorthernexpedition/"
+  },
+  "GreatNorthernWar": {
+    "title": "Great Northern War / 大北方战争",
+    "url": "/wiki/entities/greatnorthernwar/"
   },
   "GreatRecoinage": {
     "title": "Great Recoinage / 大重铸",
@@ -60618,6 +60634,10 @@
   "Sweden": {
     "title": "Sweden",
     "url": "/wiki/entities/sweden/"
+  },
+  "SwedishEmpire": {
+    "title": "Swedish Empire / 瑞典帝国",
+    "url": "/wiki/entities/swedishempire/"
   },
   "SweetenerUncertainty": {
     "title": "Sweetener Uncertainty / 代糖不确定性",

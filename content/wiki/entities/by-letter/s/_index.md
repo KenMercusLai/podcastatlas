@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10335
+wiki_total_pages: 10339
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "Sweden"
     title: "Sweden"
     url: "/wiki/entities/sweden/"
+  - key: "SwedishEmpire"
+    title: "Swedish Empire / 瑞典帝国"
+    url: "/wiki/entities/swedishempire/"
   - key: "Sweetwater"
     title: "Sweetwater"
     url: "/wiki/entities/sweetwater/"

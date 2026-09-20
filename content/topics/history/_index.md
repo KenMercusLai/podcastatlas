@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1887
+topic_total_pages: 1889
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1964,6 +1964,9 @@ topic_entities:
   - key: "SunChuanfang"
     title: "Sun Chuanfang / 孙传芳"
     url: "/wiki/entities/sunchuanfang/"
+  - key: "SwedishEmpire"
+    title: "Swedish Empire / 瑞典帝国"
+    url: "/wiki/entities/swedishempire/"
   - key: "TakiAI"
     title: "Taki AI"
     url: "/wiki/entities/takiai/"
@@ -4557,6 +4560,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587"
+    title: "566. The Great Northern War: Slaughter on the Steppes (Part 3)"
+    url: "/wiki/sources/566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587/"
   - key: "567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658"
     title: "567. The Great Northern War: Murder in Moscow (Part 4)"
     url: "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
