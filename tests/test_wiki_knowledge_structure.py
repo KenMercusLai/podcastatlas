@@ -101,6 +101,17 @@ class WikiKnowledgeStructureTest(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "unknown source note source-b"):
                 module.make_knowledge_signals(pages, episodes_dir=episodes)
 
+    def test_missing_wiki_targets_are_reported_without_blocking_generation(self):
+        module = load_script()
+        source_episode_report = module.SourceEpisodeReport(0, 0, (), ())
+
+        self.assertFalse(
+            module.has_blocking_integrity_errors(
+                {"missing-target": ["content/wiki/concepts/Example.md"]},
+                source_episode_report,
+            )
+        )
+
     def test_artifact_verifier_checks_signal_counts_and_complete_source_inventory(self):
         verifier = load_verifier()
         payload = {
