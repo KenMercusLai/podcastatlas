@@ -17252,6 +17252,13 @@
       "url": "/topics/history/"
     }
   ],
+  "CommandLawOverPersonalTies": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CommandSynchronizationFailure": [
     {
       "key": "history",

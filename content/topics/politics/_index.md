@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2569
+topic_total_pages: 2570
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -688,6 +688,9 @@ topic_concepts:
   - key: "ColorAsIdentityDisruption"
     title: "Color As Identity Disruption"
     url: "/wiki/concepts/colorasidentitydisruption/"
+  - key: "CommandLawOverPersonalTies"
+    title: "Command Law Over Personal Ties / 军令高于私交"
+    url: "/wiki/concepts/commandlawoverpersonalties/"
   - key: "CommandSynchronizationFailure"
     title: "Command Synchronization Failure / 军令同步失灵"
     url: "/wiki/concepts/commandsynchronizationfailure/"

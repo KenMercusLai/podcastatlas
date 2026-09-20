@@ -20402,3 +20402,11 @@ Added the decision-phase source note for Cao Cao's 207 CE Wuhuan expedition. Upd
 ## [2026-09-20] lint | Wiki health check
 
 Ran deterministic and graph-aware lint; semantic checks were unavailable because no provider-qualified `LLM_MODEL` and API key were configured. Report was printed but not saved.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中
+
+Added the Jian'an 11 source note linking Pang Yu's mourning of Handan Shang, Chang Xi's final surrender and execution by Yu Jin, abolition-of-kingdoms commentary, and Wuhuan campaign preparations. Created `PangYuLateHan`, disambiguated `ZhangMengLateHan`, and `CommandLawOverPersonalTies`; updated `ChangXiLateHan`, `YuJin`, and `HandanShangLateHan`. No settled contradiction found; the brick inscription, exact force totals, institutional details, dialogue, and psychological motive claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

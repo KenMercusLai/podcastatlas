@@ -17002,9 +17002,9 @@
       "url": "/wiki/entities/changhuiwesternhan/"
     },
     "ChangXiLateHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？ [lrAzZWO4BjSpvWMNkx5HOar1Iq3x].md",
@@ -17019,6 +17019,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1054丨惊叹！曹操、袁绍、刘备的命运转折",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中 [lrUlYiFpHHp2VAO79Ac5HKY7sRzV].md",
+          "key": "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
         }
       ],
       "updated": "2026-08-29",
@@ -21767,6 +21774,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/commanddisciplineauthority/"
+    },
+    "CommandLawOverPersonalTies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中 [lrUlYiFpHHp2VAO79Ac5HKY7sRzV].md",
+          "key": "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/commandlawoverpersonalties/"
     },
     "CommercialFilmAudienceLogic": {
       "episode_count": 2,
@@ -49738,6 +49761,29 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/hanzhongliaodonglatehan/"
+    },
+    "HandanShangLateHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？ [luU58a2Ww11g_rADh_5g4l7FCIS_].md",
+          "key": "zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》979丨遭遇同僚背刺，他如何为曹操力挽狂澜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中 [lrUlYiFpHHp2VAO79Ac5HKY7sRzV].md",
+          "key": "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/handanshanglatehan/"
     },
     "HandsOnAIAnxietyReduction": {
       "episode_count": 2,
@@ -85200,6 +85246,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/pangxilatehan/"
+    },
+    "PangYuLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中 [lrUlYiFpHHp2VAO79Ac5HKY7sRzV].md",
+          "key": "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/pangyulatehan/"
     },
     "ParadoxMachines": {
       "episode_count": 1,
@@ -126862,6 +126924,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/yuhuayingcase/"
     },
+    "YuJin": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？ [lhe6jrPJP3cfbdhvJTdIeziJfnOH].md",
+          "key": "zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？ [lv_HyVPRG73k8W8JsPXJosqWMc69].md",
+          "key": "zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中 [lrUlYiFpHHp2VAO79Ac5HKY7sRzV].md",
+          "key": "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/yujin/"
+    },
     "YuQianMing": {
       "episode_count": 1,
       "show_count": 1,
@@ -128933,6 +129025,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhanglufivepecks/"
+    },
+    "ZhangMengLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中 [lrUlYiFpHHp2VAO79Ac5HKY7sRzV].md",
+          "key": "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/zhangmenglatehan/"
     },
     "ZhangMengWesternHan": {
       "episode_count": 4,

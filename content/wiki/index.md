@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中](sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv.md) — 昌豨反复叛降后向旧友于禁投降，却因围后降者不赦的军令被处死；并串联庞淯哭邯郸商、废八王国与曹操备战乌桓。
 - [《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？](sources/zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk.md) — 曹操远征乌桓前，郭嘉以乌桓无备和刘表不敢放权给刘备为依据主张出兵，又以弃辎重急行换取突袭速度。
 - [《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究](sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle.md) — 田畴以卢龙古道绕开雨阻与乌桓正面防线，曹操用“秋冬再进军”的路旁木板掩护真实机动。
 - [《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力](sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x.md) — 曹操在乌桓凯旋后奖励曾反对出征者，以侥幸成功不等于稳健决策来保护未来谏言，并与袁绍杀田丰形成对照。
@@ -2559,6 +2560,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
 
 ## Entities
+- [庞淯 / Pang Yu (late Han)](entities/PangYuLateHan.md) — 辞官赴武威哭祭邯郸商、怀刃求报并因公开忠义获张猛赦免的酒泉官员。
+- [张猛 / Zhang Meng (late Han)](entities/ZhangMengLateHan.md) — 杀邯郸商并禁丧，却因声誉约束而放过庞淯的武威人物。
 - [徐庶 / Xu Shu (late Han)](entities/XuShuLateHan.md) — 向刘备举荐诸葛亮并坚持应由刘备亲自拜访的荆州人才引荐者。
 - [陶侃 / Tao Kan](entities/TaoKan.md) — 以运甓自励抵抗闲散和安逸侵蚀、在当前来源中作为长期准备寓言的东晋将领。
 - [庞德公 / Pang Degong (late Han)](entities/PangDegongLateHan.md) — 以士林评价使诸葛亮、庞统的潜在能力获得社会可见性的荆州名士。
@@ -12858,6 +12861,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏仆延 / Supuyan (late Han)](entities/SupuyanLateHan.md) — Wuhuan leader tied to Yuan Shao's frontier settlement and later killed with the Yuan brothers in Liaodong.
 
 ## Concepts
+- [Command Law Over Personal Ties / 军令高于私交](concepts/CommandLawOverPersonalTies.md) — 于禁在昌豨围后投降时以既定军令压过旧友情分的规则执行模式。
 - [战略排除与聚焦 / Strategic Exclusion and Focus](concepts/StrategicExclusionAndFocus.md) — 通过明确不做什么，把稀缺资源集中到相互强化的根据地、伙伴结构与长期目标上，同时允许执行顺序随条件调整。
 - [Oral Turn in Political Communication](concepts/OralTurnPoliticalCommunication.md) — Shift toward repetition, live response, epithets, vivid examples, and concrete symbols in mass political persuasion.
 - [Indian Cheese Market Adaptation](concepts/IndianCheeseMarketAdaptation.md) — Religious accommodation, ingredient substitution, mass-market demand, and indigenous revival in India's cheese category.

@@ -13951,6 +13951,10 @@
     "title": "Command Discipline Authority / 军法威严",
     "url": "/wiki/concepts/commanddisciplineauthority/"
   },
+  "CommandLawOverPersonalTies": {
+    "title": "Command Law Over Personal Ties / 军令高于私交",
+    "url": "/wiki/concepts/commandlawoverpersonalties/"
+  },
   "CommandSealTrustRupture": {
     "title": "将印信任破裂 / Command-Seal Trust Rupture",
     "url": "/wiki/concepts/commandsealtrustrupture/"
@@ -46919,6 +46923,10 @@
     "title": "庞羲 / Pang Xi (late Han)",
     "url": "/wiki/entities/pangxilatehan/"
   },
+  "PangYuLateHan": {
+    "title": "庞淯 / Pang Yu (late Han)",
+    "url": "/wiki/entities/pangyulatehan/"
+  },
   "Pangram": {
     "title": "Pangram",
     "url": "/wiki/entities/pangram/"
@@ -71191,6 +71199,10 @@
     "title": "张曼成 / Zhang Mancheng (late Han)",
     "url": "/wiki/entities/zhangmanchenglatehan/"
   },
+  "ZhangMengLateHan": {
+    "title": "张猛 / Zhang Meng (late Han)",
+    "url": "/wiki/entities/zhangmenglatehan/"
+  },
   "ZhangMengWesternHan": {
     "title": "张猛 / 张萌 / Zhang Meng (Western Han)",
     "url": "/wiki/entities/zhangmengwesternhan/"
@@ -77698,6 +77710,10 @@
   "zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o": {
     "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+  },
+  "zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv": {
+    "title": "《资治通鉴·汉纪》1076丨他反叛曹操三次，最终竟死于旧友手中",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1076-ta-fanpan-caocao-sanci-zuizhong-jing-si-yu-jiuyou-shouzhong-lrulyifphhp2vao79ac5hky7srzv/"
   },
   "zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk": {
     "title": "《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？",

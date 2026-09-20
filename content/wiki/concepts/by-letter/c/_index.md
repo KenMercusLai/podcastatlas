@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7597
+wiki_total_pages: 7598
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "CommandDisciplineAuthority"
     title: "Command Discipline Authority / 军法威严"
     url: "/wiki/concepts/commanddisciplineauthority/"
+  - key: "CommandLawOverPersonalTies"
+    title: "Command Law Over Personal Ties / 军令高于私交"
+    url: "/wiki/concepts/commandlawoverpersonalties/"
   - key: "CommandSynchronizationFailure"
     title: "Command Synchronization Failure / 军令同步失灵"
     url: "/wiki/concepts/commandsynchronizationfailure/"
