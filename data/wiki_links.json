@@ -1143,6 +1143,10 @@
     "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
     "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
   },
+  "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o": {
+    "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+    "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+  },
   "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320": {
     "title": "51.厌世？反人类？童话故事？…格列佛游记可深了去了",
     "url": "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"
@@ -3634,6 +3638,10 @@
   "AdministrativeArchiveCapture": {
     "title": "Administrative Archive Capture / 行政档案接管",
     "url": "/wiki/concepts/administrativearchivecapture/"
+  },
+  "AdministrativeInformationConformity": {
+    "title": "Administrative Information Conformity / 行政信息圆美化",
+    "url": "/wiki/concepts/administrativeinformationconformity/"
   },
   "AdministrativeOpacityAsControl": {
     "title": "Administrative Opacity As Control",
@@ -7558,6 +7566,10 @@
   "BaoShengzhiWesternHan": {
     "title": "鲍圣之 / Bao Shengzhi (Western Han)",
     "url": "/wiki/entities/baoshengzhiwesternhan/"
+  },
+  "BaoShichen": {
+    "title": "包世臣 / Bao Shichen",
+    "url": "/wiki/entities/baoshichen/"
   },
   "BaoShuya": {
     "title": "鲍叔牙 / Bao Shuya",
@@ -19067,6 +19079,10 @@
     "title": "Dynastic Claim National Mobilization",
     "url": "/wiki/concepts/dynasticclaimnationalmobilization/"
   },
+  "DynasticCyclePerception": {
+    "title": "Dynastic Cycle Perception / 王朝周期感知",
+    "url": "/wiki/concepts/dynasticcycleperception/"
+  },
   "DynasticHeirLossShock": {
     "title": "Dynastic Heir Loss Shock",
     "url": "/wiki/concepts/dynasticheirlossshock/"
@@ -26307,6 +26323,10 @@
     "title": "Governance-First Legal AI",
     "url": "/wiki/concepts/governancefirstlegalai/"
   },
+  "GovernanceNormalizationParadox": {
+    "title": "Governance Normalization Paradox / 治理规范化悖论",
+    "url": "/wiki/concepts/governancenormalizationparadox/"
+  },
   "GovernmentAIPaceSetting": {
     "title": "Government AI Pace-Setting",
     "url": "/wiki/concepts/governmentaipacesetting/"
@@ -29178,6 +29198,10 @@
   "HongLetong": {
     "title": "Hong Letong / 洪乐潼",
     "url": "/wiki/entities/hongletong/"
+  },
+  "HongLiangji": {
+    "title": "洪亮吉 / Hong Liangji",
+    "url": "/wiki/entities/hongliangji/"
   },
   "HongLouMeng": {
     "title": "《红楼梦》 / Dream of the Red Chamber",
@@ -51343,6 +51367,10 @@
     "title": "清代文字狱 / Qing Literary Inquisition",
     "url": "/wiki/concepts/qingliteraryinquisition/"
   },
+  "QingMidDynastyAccumulatedMaladies": {
+    "title": "Qing Mid-Dynasty Accumulated Maladies / 清中叶积弊",
+    "url": "/wiki/concepts/qingmiddynastyaccumulatedmaladies/"
+  },
   "QingRumorPolitics": {
     "title": "清代谣言政治 / Qing Rumor Politics",
     "url": "/wiki/concepts/qingrumorpolitics/"
@@ -58971,6 +58999,10 @@
     "title": "State Survival vs Kinship and Ministerial Duty / 国存亡与父子君臣义冲突",
     "url": "/wiki/concepts/statesurvivalkinshipdutyconflict/"
   },
+  "StatecraftGenerationRelay": {
+    "title": "Statecraft-to-Revival Generational Relay / 经世—中兴代际接力",
+    "url": "/wiki/concepts/statecraftgenerationrelay/"
+  },
   "StatedRevealedPreferenceGap": {
     "title": "Stated-Revealed Preference Gap",
     "url": "/wiki/concepts/statedrevealedpreferencegap/"
@@ -60043,6 +60075,10 @@
     "title": "孙静 / Sun Jing (late Han)",
     "url": "/wiki/entities/sunjinglatehan/"
   },
+  "SunMingQingHistorian": {
+    "title": "孙明 / Sun Ming (Qing governance scholar)",
+    "url": "/wiki/entities/sunmingqinghistorian/"
+  },
   "SunMyungMoon": {
     "title": "Sun Myung Moon / 文鲜明",
     "url": "/wiki/entities/sunmyungmoon/"
@@ -60986,6 +61022,10 @@
   "TangMiscellanyArchiveValue": {
     "title": "Tang Miscellany Archive Value",
     "url": "/wiki/concepts/tangmiscellanyarchivevalue/"
+  },
+  "TangPengQingThinker": {
+    "title": "汤鹏 / Tang Peng (Qing thinker)",
+    "url": "/wiki/entities/tangpengqingthinker/"
   },
   "TangPoetryCulturalGeography": {
     "title": "唐诗文化地理 / Tang Poetry Cultural Geography",
@@ -66698,6 +66738,10 @@
   "WeiYuLateHan": {
     "title": "魏宇 / Wei Yu (late Han)",
     "url": "/wiki/entities/weiyulatehan/"
+  },
+  "WeiYuanQingThinker": {
+    "title": "魏源 / Wei Yuan (Qing thinker)",
+    "url": "/wiki/entities/weiyuanqingthinker/"
   },
   "WeiZexiIncident": {
     "title": "魏则西事件",

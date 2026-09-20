@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7630
+wiki_total_pages: 7635
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "DynasticClaimNationalMobilization"
     title: "Dynastic Claim National Mobilization"
     url: "/wiki/concepts/dynasticclaimnationalmobilization/"
+  - key: "DynasticCyclePerception"
+    title: "Dynastic Cycle Perception / 王朝周期感知"
+    url: "/wiki/concepts/dynasticcycleperception/"
   - key: "DynasticHeirLossShock"
     title: "Dynastic Heir Loss Shock"
     url: "/wiki/concepts/dynasticheirlossshock/"

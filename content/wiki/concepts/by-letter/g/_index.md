@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7630
+wiki_total_pages: 7635
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "GottmanMethod"
     title: "Gottman Method / 哥特曼方法"
     url: "/wiki/concepts/gottmanmethod/"
+  - key: "GovernanceNormalizationParadox"
+    title: "Governance Normalization Paradox / 治理规范化悖论"
+    url: "/wiki/concepts/governancenormalizationparadox/"
   - key: "GovernanceFirstLegalAI"
     title: "Governance-First Legal AI"
     url: "/wiki/concepts/governancefirstlegalai/"

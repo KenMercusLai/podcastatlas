@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1882
+topic_total_pages: 1883
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -283,6 +283,9 @@ topic_concepts:
   - key: "DynasticClaimNationalMobilization"
     title: "Dynastic Claim National Mobilization"
     url: "/wiki/concepts/dynasticclaimnationalmobilization/"
+  - key: "DynasticCyclePerception"
+    title: "Dynastic Cycle Perception / 王朝周期感知"
+    url: "/wiki/concepts/dynasticcycleperception/"
   - key: "DynasticLegitimacyBackfire"
     title: "Dynastic Legitimacy Backfire / 王朝合法性回旋镖"
     url: "/wiki/concepts/dynasticlegitimacybackfire/"

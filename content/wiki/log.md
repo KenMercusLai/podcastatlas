@@ -20546,3 +20546,11 @@ Added source `islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a`; 
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？
+
+Added source `501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o`; created `SunMingQingHistorian`, `HongLiangji`, `WeiYuanQingThinker`, `BaoShichen`, `TangPengQingThinker`, `QingMidDynastyAccumulatedMaladies`, `GovernanceNormalizationParadox`, `AdministrativeInformationConformity`, `DynasticCyclePerception`, and `StatecraftGenerationRelay`; and updated `GongZizhen`, `ZengGuofan`, and `HuzuoHuyou`. Core synthesis: problems formed during prosperity can harden through underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels before visible disorder, while actors' cycle perceptions shape reform and preparation. No settled contradiction found; quantities, quotations, lineages, prophecies, and exact causal weights remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10313
+wiki_total_pages: 10318
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "TangXiaoou"
     title: "汤晓鸥 / Tang Xiao'ou"
     url: "/wiki/entities/tangxiaoou/"
+  - key: "TangPengQingThinker"
+    title: "汤鹏 / Tang Peng (Qing thinker)"
+    url: "/wiki/entities/tangpengqingthinker/"
   - key: "Taishan"
     title: "泰山 / Taishan"
     url: "/wiki/entities/taishan/"

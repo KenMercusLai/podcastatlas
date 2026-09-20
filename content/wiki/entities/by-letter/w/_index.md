@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10313
+wiki_total_pages: 10318
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1568,6 +1568,9 @@ wiki_pages:
   - key: "WeiWuhou"
     title: "魏武侯 / Marquis Wu of Wei"
     url: "/wiki/entities/weiwuhou/"
+  - key: "WeiYuanQingThinker"
+    title: "魏源 / Wei Yuan (Qing thinker)"
+    url: "/wiki/entities/weiyuanqingthinker/"
   - key: "WeiXi"
     title: "魏熙"
     url: "/wiki/entities/weixi/"

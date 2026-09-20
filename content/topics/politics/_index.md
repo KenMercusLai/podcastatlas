@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2584
+topic_total_pages: 2589
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -31,6 +31,9 @@ topic_concepts:
   - key: "AdministrativeArchiveCapture"
     title: "Administrative Archive Capture / 行政档案接管"
     url: "/wiki/concepts/administrativearchivecapture/"
+  - key: "AdministrativeInformationConformity"
+    title: "Administrative Information Conformity / 行政信息圆美化"
+    url: "/wiki/concepts/administrativeinformationconformity/"
   - key: "AdministrativeRenamingOverreach"
     title: "Administrative Renaming Overreach / 行政改名过度"
     url: "/wiki/concepts/administrativerenamingoverreach/"
@@ -1474,6 +1477,9 @@ topic_concepts:
   - key: "GoodIntentionsPoliticalLimits"
     title: "Good Intentions Political Limits"
     url: "/wiki/concepts/goodintentionspoliticallimits/"
+  - key: "GovernanceNormalizationParadox"
+    title: "Governance Normalization Paradox / 治理规范化悖论"
+    url: "/wiki/concepts/governancenormalizationparadox/"
   - key: "GovernanceFirstLegalAI"
     title: "Governance-First Legal AI"
     url: "/wiki/concepts/governancefirstlegalai/"
@@ -2872,6 +2878,9 @@ topic_concepts:
   - key: "QinFrontierBufferManagement"
     title: "Qin Frontier Buffer Management / 秦国后方边患管理"
     url: "/wiki/concepts/qinfrontierbuffermanagement/"
+  - key: "QingMidDynastyAccumulatedMaladies"
+    title: "Qing Mid-Dynasty Accumulated Maladies / 清中叶积弊"
+    url: "/wiki/concepts/qingmiddynastyaccumulatedmaladies/"
   - key: "QingyiReputationPressure"
     title: "Qingyi Reputation Pressure / 清议声誉压力"
     url: "/wiki/concepts/qingyireputationpressure/"
@@ -6506,6 +6515,9 @@ topic_entities:
   - key: "SunChenghao"
     title: "孙承昊 / Sun Chenghao"
     url: "/wiki/entities/sunchenghao/"
+  - key: "SunMingQingHistorian"
+    title: "孙明 / Sun Ming (Qing governance scholar)"
+    url: "/wiki/entities/sunmingqinghistorian/"
   - key: "MengYunEasternHan"
     title: "孟云 / Meng Yun (Eastern Han)"
     url: "/wiki/entities/mengyuneasternhan/"
@@ -6888,6 +6900,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o"
+    title: "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？"
+    url: "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
   - key: "64-bawangbieji-fengmo-yu-chenghuo-656094350"
     title: "64.霸王别姬：疯魔与成活"
     url: "/wiki/sources/64-bawangbieji-fengmo-yu-chenghuo-656094350/"

@@ -4460,6 +4460,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/adidassamba/"
     },
+    "AdministrativeInformationConformity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/administrativeinformationconformity/"
+    },
     "AdministrativePerformanceFraud": {
       "episode_count": 1,
       "show_count": 1,
@@ -11033,6 +11049,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/baoshengzhiwesternhan/"
+    },
+    "BaoShichen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/baoshichen/"
     },
     "BaoSi": {
       "episode_count": 1,
@@ -31911,6 +31943,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/dynasticclaimnationalmobilization/"
     },
+    "DynasticCyclePerception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/dynasticcycleperception/"
+    },
     "DynasticHeirLossShock": {
       "episode_count": 3,
       "show_count": 2,
@@ -46612,6 +46660,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/gongyuwesternhan/"
     },
+    "GongZizhen": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？ [liDfjb6_NGgubw8VPz5fVNFacRqU].md",
+          "key": "zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》115-2｜秦王大难不死之后干了件你不知道的事？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu/"
+        },
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/gongzizhen/"
+    },
     "GongchengXingWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -47349,6 +47420,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/governancefirstlegalai/"
+    },
+    "GovernanceNormalizationParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/governancenormalizationparadox/"
     },
     "GovernmentAIPaceSetting": {
       "episode_count": 3,
@@ -53418,6 +53505,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/hongkongspca/"
     },
+    "HongLiangji": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/hongliangji/"
+    },
     "HongjunSiliconValley101": {
       "episode_count": 1,
       "show_count": 1,
@@ -56367,9 +56470,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -56405,9 +56508,16 @@
           "show": "忽左忽右",
           "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
           "url": "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+        },
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HydraulicSiegeWarfare": {
@@ -93688,6 +93798,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/qingdynasty/"
     },
+    "QingMidDynastyAccumulatedMaladies": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/qingmiddynastyaccumulatedmaladies/"
+    },
     "QingheKingdomLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -106892,6 +107018,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/statemonopolyburdenremonstrance/"
     },
+    "StatecraftGenerationRelay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/statecraftgenerationrelay/"
+    },
     "StaticStretchingDoseProtocol": {
       "episode_count": 1,
       "show_count": 1,
@@ -109139,6 +109281,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/sunjianxingeneral/"
     },
+    "SunMingQingHistorian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/sunmingqinghistorian/"
+    },
     "SunMyungMoon": {
       "episode_count": 1,
       "show_count": 1,
@@ -110972,6 +111130,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/tangjing/"
+    },
+    "TangPengQingThinker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/tangpengqingthinker/"
     },
     "TangQiangLateHan": {
       "episode_count": 1,
@@ -121165,6 +121339,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/weiyulatehan/"
     },
+    "WeiYuanQingThinker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/weiyuanqingthinker/"
+    },
     "WeiZhaoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -129933,6 +130123,50 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/zaohaowu/"
+    },
+    "ZengGuofan": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》994丨跟着‌东吴重臣吕范，学习职场智慧 [lgQP2vQmh1mSS96gcwmFLP_cCPFU].md",
+          "key": "zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4） [lml7lPd3u9l7ESRYKNMHOAmPGx6v].md",
+          "key": "zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你 [llSPjStkSuy5C-I9mXM53T2R55F7].md",
+          "key": "zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7/"
+        },
+        {
+          "episode_file": "《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运” [lpupSu8FDuWDWBDg8xQ8GjxeGZTu].md",
+          "key": "zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》135｜番外篇3 教你相面：看人小技巧 如何“以貌看透命运”",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu/"
+        },
+        {
+          "episode_file": "lgu0H9kaxmFWZOE1bYxeyQ7png9O [lgu0H9kaxmFWZOE1bYxeyQ7png9O].md",
+          "key": "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o",
+          "show": "忽左忽右",
+          "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
+          "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/zengguofan/"
     },
     "ZengHanXinOfficial": {
       "episode_count": 1,

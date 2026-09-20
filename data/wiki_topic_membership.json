@@ -1733,6 +1733,13 @@
       "url": "/topics/history/"
     }
   ],
+  "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320": [
     {
       "key": "technology",
@@ -6247,6 +6254,13 @@
     }
   ],
   "AdministrativeArchiveCapture": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "AdministrativeInformationConformity": [
     {
       "key": "politics",
       "label": "Politics",
@@ -22811,6 +22825,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DynasticCyclePerception": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DynasticHeirRoleEntrapment": [
     {
       "key": "science",
@@ -30507,13 +30528,6 @@
       "url": "/topics/culture/"
     }
   ],
-  "GongZizhen": [
-    {
-      "key": "culture",
-      "label": "Culture",
-      "url": "/topics/culture/"
-    }
-  ],
   "GongchengXingWesternHan": [
     {
       "key": "history",
@@ -30864,6 +30878,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "GovernanceNormalizationParadox": [
     {
       "key": "politics",
       "label": "Politics",
@@ -56933,6 +56954,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "QingMidDynastyAccumulatedMaladies": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "QingRumorPolitics": [
     {
       "key": "politics",
@@ -66610,6 +66638,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "SunMingQingHistorian": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SunMyungMoon": [

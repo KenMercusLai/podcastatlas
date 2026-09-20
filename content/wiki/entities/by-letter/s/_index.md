@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10313
+wiki_total_pages: 10318
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1922,6 +1922,9 @@ wiki_pages:
   - key: "SunBinFifthZhongRetainerLateHan"
     title: "孙斌 / Sun Bin (Fifth Zhong retainer, late Han)"
     url: "/wiki/entities/sunbinfifthzhongretainerlatehan/"
+  - key: "SunMingQingHistorian"
+    title: "孙明 / Sun Ming (Qing governance scholar)"
+    url: "/wiki/entities/sunmingqinghistorian/"
   - key: "SunQuan"
     title: "孙权 / Sun Quan"
     url: "/wiki/entities/sunquan/"

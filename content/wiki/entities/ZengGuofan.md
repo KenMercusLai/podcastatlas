@@ -1,32 +1,53 @@
 ---
 title: "曾国藩 / Zeng Guofan"
 type: entity
-tags: [qing-history, personnel, leadership, physiognomy, self-cultivation, long-termism]
-sources: [zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7, zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu]
-last_updated: 2026-08-24
+tags: [qing-history, personnel, leadership, physiognomy, self-cultivation, long-termism, statecraft]
+sources:
+  - zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu
+  - zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v
+  - zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7
+  - zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu
+  - 501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o
+last_updated: 2026-09-21
+knowledge_schema: synthesis-v1
 ---
 
 # 曾国藩 / Zeng Guofan
 
-曾国藩 / Zeng Guofan enters this wiki through [[zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu|Qinji 135 番外篇3]] as the reputational center for a traditional person-reading branch. The episode says a physiognomy text circulated under his name, but also notes that the attribution is doubtful; what matters for the source is that Zeng already had a strong reputation for observing and judging people.
+## Overview
+曾国藩 appears across the bounded sources as a reputational anchor for person judgment, a model of long-term self-training and moral practice, an anti-jealousy voice, and a later Qing leader formed through an earlier statecraft network.
 
-The source uses the Qing history image of Zeng to make that reputation concrete: he is described as a stern, heavy presence who could stare silently at visitors, then record and judge their quality after they left. The episode also uses diary maxims attributed to his person-reading practice, moving from facial cues such as eyes, nose, and lips toward language order as evidence of thought order.
+## Current Profile
+The current synthesis keeps these roles separate rather than turning them into one heroic biography. One source associates Zeng's reputation with the doubtfully attributed [[Bingjian|《冰鉴》]] and traditional physiognomy; another uses his slow early progress to illustrate [[LongTermAchievementDiscipline|长期成事纪律]]. Further sources connect him to [[LiaofanSixun|《了凡四训》]] and advice against self-exalting comparison. The new Qing-history source adds a political role: Zeng belongs to a later “revival” generation prepared through Tao Zhu, He Changling, Lin Zexu, kinship, mentorship, and administrative networks, yet he still described fighting inherited “世俗文法” as harder than much of the military conflict.
 
-This page keeps Zeng's role source-scoped. In this ingest he is not mainly a late-Qing military or political biography subject; he is a bridge from legendary physiognomy and [[Bingjian|《冰鉴》]] attribution into [[ShenGuPhysiognomy|神骨相法]] and older personnel-judgment ideas such as [[WenWangGuanrenFa|文王官人法]].
+## Key Characteristics
+- Carries a strong later reputation for observing and judging people, while the 《冰鉴》 attribution remains uncertain.
+- Serves as a case of slow aptitude converted into capacity through repeated, disciplined practice.
+- Is used as a reader of 《了凡四训》 for self-cultivation, official conduct, and family teaching.
+- Anchors advice against jealousy, boasting, and self-righteous comparison.
+- Represents a later Qing leadership generation prepared by earlier statecraft networks.
+- Diagnoses formalism and conformity as persistent enemies even within a claimed revival.
 
-[[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7|Hanji 150 PLUS]] adds a different Zeng Guofan use: not person-reading, but self-training. The episode presents him as slow and unbrilliant in youth, repeatedly frustrated in examinations, and then gradually successful through "笨鸟先飞" and "厚积薄发." Its emphasis is [[LongTermAchievementDiscipline|长期成事纪律]]: patient tending of a goal until ordinary effort compounds into visible achievement.
+## Evidence
+- Person-judgment evidence: [[zizhi-tongjian-qinji-135-fanwaipian-3-jiao-ni-xiangmian-kanren-xiaojiqiao-ruhe-yi-mao-kantou-mingyun-lpupsu8fduwdwbdg8xq8gjxegztu]] uses Zeng's reputation, while explicitly qualifying the authorship and scientific status of traditional physiognomy.
+- Discipline evidence: [[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7]] presents repeated effort, exam setbacks, and cultivation metaphors as a long-term achievement method.
+- Moral-practice evidence: [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v]] uses Zeng as a later reader of 《了凡四训》.
+- Anti-jealousy evidence: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu]] cites his advice against framing oneself as good and another as bad.
+- Statecraft-network evidence: [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o]] connects Zeng to an earlier generation's personnel preparation and his later struggle with formalistic political culture.
 
-The source also uses Zeng's language of hatching eggs, building nests, cultivating trees, and flowing springs to define self-discipline. For this wiki, that keeps Zeng's page from becoming a general hero biography; he is a recurring example of method, first for cautious observation and then for durable self-cultivation.
+## Qualifications
+The page remains source-bounded rather than a complete account of Zeng's military, political, or moral record. The childhood learning story is illustrative rather than verified; physiognomy claims are not modern hiring science; fate claims remain spiritual or philosophical; and the statecraft genealogy and “世俗文法” weighting are reported through the new episode.
 
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] adds Zeng as a reception case for [[LiaofanSixun|《了凡四训》]]. The episode says he treated the text as a guide for修身, official conduct, and family instruction, extending his wiki role from long-term discipline into [[FateChangeThroughVirtuePractice|积善修心式改命]].
+## What Changed
+- Added Zeng's place in the statecraft-to-revival generational relay.
+- Added his source-described struggle against inherited formalism during the later Qing revival.
+- Preserved the distinct personnel judgment, self-discipline, moral-practice, and anti-jealousy branches.
 
-[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] adds Zeng as an anti-jealousy self-cultivation example. The host cites his advice about brotherly conversation: avoid language that frames oneself as right and the other as wrong, or oneself as good and the other as bad. In the episode this supports [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] by treating comparison and self-exaltation as habits to watch in family, workplace, and organizational life.
-
-## Connections
-- [[Bingjian|《冰鉴》]] - attributed text whose authorship the episode treats cautiously.
-- [[ShenGuPhysiognomy|神骨相法]] - method branch tied to his reputation in this source.
-- [[WenWangGuanrenFa|文王官人法]], [[SituationalCharacterTests|五观识人法]], and [[TalentVirtueDistinction|才德之分]] - adjacent personnel-judgment frames.
-- [[PhysiognomyMoralAppearanceFallacy|以貌定德谬误]] and [[ObservationBeforeInference]] - caution against converting appearance-reading anecdotes into proof.
-- [[LongTermAchievementDiscipline|长期成事纪律]], [[LateBloomingTalent|大器晚成式人才显现]], [[VirtuePracticeInternalization|修养内化]], and [[HumanNaturePlasticity|人性可变性]] - Hanji 150 PLUS self-cultivation branch.
-- [[LiaofanSixun|《了凡四训》]], [[YuanLiaofan|袁了凡]], and [[FateChangeThroughVirtuePractice|积善修心式改命]] - Hanji 161 part 4 fate-change reception branch.
-- [[SunCe|孙策]], [[ZhangZhaoLateHan|张昭]], [[YanHui|颜回]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - Hanji 994 anti-jealousy and anti-boasting branch.
+## Relationships
+- [[Bingjian]] - doubtfully attributed text tied to Zeng's person-reading reputation.
+- [[PhysiognomyMoralAppearanceFallacy]] - caution against treating appearance as proof of character.
+- [[LongTermAchievementDiscipline]] - accumulated-practice method for which Zeng is a source example.
+- [[LiaofanSixun]] - moral-practice text the source says influenced his self-cultivation and official conduct.
+- [[SubordinateSuccessNonJealousy]] - anti-jealousy and anti-boasting branch using his advice.
+- [[StatecraftGenerationRelay]] - political-network account linking the earlier statecraft generation to Zeng's cohort.
+- [[QingMidDynastyAccumulatedMaladies]] - inherited institutional condition that continued into the revival period.

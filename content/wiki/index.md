@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？](sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o.md) — 忽左忽右访谈孙明，以人口、盐漕河、胥吏、奏折言路与经世人物解释清中叶积弊、治理规范化悖论及王朝周期感知。
 - [Islamism in Britain: what is the threat?](sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a.md) — The Intelligence on distinguishing Islam from Islamism, non-violent entryism, PREVENT, the Coca-Cola transfer-pricing case, IRS capacity, and ineffective corporate training.
 - [PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血](sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho.md) — 这病说来话长 interview with veterinary oncologist Yang Xiaodan on feline stress disease, veterinary cancer diagnosis and treatment, comparative medicine, screening, and misinformation.
 - [Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029.md) — Tomorrow Today interview on institutional government innovation, open data, policy leverage, shared logistics, procurement, global AI governance, and infrastructure sovereignty.
@@ -2577,6 +2578,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [孙明 / Sun Ming (Qing governance scholar)](entities/SunMingQingHistorian.md) — Peking University scholar connecting Qing local administration, intellectual history, accumulated maladies, and cycle perception.
+- [洪亮吉 / Hong Liangji](entities/HongLiangji.md) — Early Qing population and dynastic-condition thinker in the episode's comparative diagnosis.
+- [魏源 / Wei Yuan (Qing thinker)](entities/WeiYuanQingThinker.md) — Mid-Qing statecraft thinker advocating institutional simplification and reform before collapse.
+- [包世臣 / Bao Shichen](entities/BaoShichen.md) — Practically grounded Qing thinker associated with lower-level conditions and grain-transport administration.
+- [汤鹏 / Tang Peng (Qing thinker)](entities/TangPengQingThinker.md) — Severe mid-Qing diagnostician associated with tracing accumulated problems through 审几 and 审萌.
 - [Sonny Loughran](entities/SonnyLoughran.md) — Economist Britain correspondent distinguishing Islam from Islamism and violent extremism from non-violent institutional influence.
 - [Shira Aviona](entities/ShiraAviona.md) — Economist U.S. business correspondent explaining transfer pricing and the Coca-Cola tax dispute.
 - [PREVENT Programme](entities/PreventProgramme.md) — British counter-radicalisation and safeguarding programme caught between discrimination concerns and possible under-reporting.
@@ -12899,6 +12905,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Qing Mid-Dynasty Accumulated Maladies / 清中叶积弊](concepts/QingMidDynastyAccumulatedMaladies.md) — Problems formed during prosperity that harden into routines, interests, and weak reform capacity before open disorder.
+- [Governance Normalization Paradox / 治理规范化悖论](concepts/GovernanceNormalizationParadox.md) — How layered rules and oversight can shift responsibility from solving problems toward procedural compliance.
+- [Administrative Information Conformity / 行政信息圆美化](concepts/AdministrativeInformationConformity.md) — Distortion created when official communication rewards safe, polished alignment over candid operational reporting.
+- [Dynastic Cycle Perception / 王朝周期感知](concepts/DynasticCyclePerception.md) — How actors locate their own era within flourishing, decline, disorder, reform, or revival and act through that judgment.
+- [Statecraft-to-Revival Generational Relay / 经世—中兴代际接力](concepts/StatecraftGenerationRelay.md) — Transmission of administrative experience and personnel capacity from a statecraft generation to later Qing revival leaders.
 - [Islamism](concepts/Islamism.md) — Political ideology seeking to organize government or public life around claimed Islamic principles, distinct from Islam and Muslim identity.
 - [Islam-Islamism Conflation](concepts/IslamIslamismConflation.md) — Dual category error that can stigmatize Muslims while granting organized Islamists unearned representative authority.
 - [Islamist Entryism](concepts/IslamistEntryism.md) — Non-violent strategy of seeking disproportionate institutional influence while obscuring harder ideological commitments.

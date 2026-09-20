@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 7630
+wiki_total_pages: 7635
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "QinXiaowenwangDeathUncertainty"
     title: "Qin Xiaowen Wang Death Uncertainty / 秦孝文王三日而亡疑案"
     url: "/wiki/concepts/qinxiaowenwangdeathuncertainty/"
+  - key: "QingMidDynastyAccumulatedMaladies"
+    title: "Qing Mid-Dynasty Accumulated Maladies / 清中叶积弊"
+    url: "/wiki/concepts/qingmiddynastyaccumulatedmaladies/"
   - key: "QingbaiPorcelain"
     title: "Qingbai Porcelain / 青白瓷"
     url: "/wiki/concepts/qingbaiporcelain/"

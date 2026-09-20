@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2740
+topic_total_pages: 2739
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7367,9 +7367,6 @@ topic_entities:
   - key: "GongYu"
     title: "龚宇"
     url: "/wiki/entities/gongyu/"
-  - key: "GongZizhen"
-    title: "龚自珍 / Gong Zizhen"
-    url: "/wiki/entities/gongzizhen/"
 topic_sources:
   - key: "398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7"
     title: "#398 一场美国观察漫谈：世界杯红牌、南非白人劳工"

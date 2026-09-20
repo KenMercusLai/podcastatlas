@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7630
+wiki_total_pages: 7635
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "AdministrativeArchiveCapture"
     title: "Administrative Archive Capture / 行政档案接管"
     url: "/wiki/concepts/administrativearchivecapture/"
+  - key: "AdministrativeInformationConformity"
+    title: "Administrative Information Conformity / 行政信息圆美化"
+    url: "/wiki/concepts/administrativeinformationconformity/"
   - key: "AdministrativeOpacityAsControl"
     title: "Administrative Opacity As Control"
     url: "/wiki/concepts/administrativeopacityascontrol/"
