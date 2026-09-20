@@ -15023,9 +15023,9 @@
       "url": "/wiki/entities/caobaoeasternhan/"
     },
     "CaoCao": {
-      "episode_count": 54,
+      "episode_count": 55,
       "show_count": 1,
-      "source_note_count": 54,
+      "source_note_count": 55,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -15404,6 +15404,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力 [li8MlCVfoWP7etkE37yb5Azmq81X].md",
+          "key": "zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x/"
         }
       ],
       "updated": "2026-09-20",
@@ -22521,6 +22528,36 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/constructedcategorytrust/"
+    },
+    "ConstructiveDissent": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "132.争论与说服：我们为什么吵架，怎么才算赢？ [807583318].md",
+          "key": "132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318",
+          "show": "蜜獾吃书",
+          "title": "132.争论与说服：我们为什么吵架，怎么才算赢？",
+          "url": "/wiki/sources/132-zhenglun-yu-shuofu-women-weishenme-chaojia-zenme-cai-suan-ying-807583318/"
+        },
+        {
+          "episode_file": "116.不服从的艺术：分享一些实战方法，还有力量 [764416021].md",
+          "key": "116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021",
+          "show": "蜜獾吃书",
+          "title": "116.不服从的艺术：分享一些实战方法，还有力量",
+          "url": "/wiki/sources/116-bufucong-de-yishu-fenxiang-yixie-shizhan-fangfa-haiyou-liliang-764416021/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力 [li8MlCVfoWP7etkE37yb5Azmq81X].md",
+          "key": "zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/constructivedissent/"
     },
     "ConsumerAIHardwareProductFit": {
       "episode_count": 4,
@@ -110995,9 +111032,9 @@
       "url": "/wiki/entities/tianchou/"
     },
     "TianFengLateHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》975丨兖州之乱：荀彧如何帮曹操守大本营？ [ln0Hh4jroKkWTqSmXMqHdJzCOSdr].md",
@@ -111040,9 +111077,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力 [li8MlCVfoWP7etkE37yb5Azmq81X].md",
+          "key": "zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/tianfenglatehan/"
     },
     "TianGouShiYueCulturalResponse": {

@@ -58,6 +58,7 @@ sources:
   - zizhi-tongjian-zhouji-80-zhugeliang-de-ouxiang-daodi-you-duo-lihai-lse6qmqqhoyqdzqjl4qfuvioeiw0
   - zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut
   - zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz
+  - zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x
 last_updated: 2026-09-20
 ---
 
@@ -69,13 +70,15 @@ Cao Cao enters office young through the combined route of [[CaoTengLateHan|曹�
 
 Once outside the captured capital, Cao Cao repeatedly turns limited openings into systems. [[Chenliu|陈留]], East Commandery, and [[YanzhouLateHan|兖州]] provide successive footholds; [[XunYu|荀彧]], [[ChengYu|程昱]], [[GuoJia|郭嘉]], and other advisers make warning and strategy executable; the Qingzhou surrender, [[TuntianSystem|屯田制]], and court control around [[EmperorXianOfHan|汉献帝]] link population, grain, force, and legitimacy. His recovery from the Yanzhou collapse and destruction of [[LyuBu|吕布]]'s position show the value of root-base discipline, tempo, and differentiated treatment of defeated leaders and usable subordinates.
 
+Hanji 1080 adds a post-victory feedback case after the Wuhuan campaign. Cao Cao reportedly rewards those who had opposed the expedition and calls the success fortunate rather than a normal model, preserving their future willingness to advise. This strengthens the adviser-centered profile while remaining a single case rather than proof of consistent tolerance.
+
 The source set does not support a purely heroic profile. Cao Song's death leads into the [[XuzhouMassacreLateHan|徐州屠杀]] branch; the killing of [[BianRangLateHan|边让]] helps trigger local-elite panic; the Wancheng disaster links sexual desire to command exposure and the deaths of [[DianWei|典韦]] and [[CaoAng|曹昂]]; and cases involving [[MiHengLateHan|祢衡]] and [[YangBiao|杨彪]] show how reputation management and political control could become coercive. Cao Cao's distinctive strength in these sources is therefore adaptive state-building, not moral consistency.
 
 ## Key Characteristics
 - Elite-enabled but self-recoding entrant who converts Cao-family access, public appraisal, and visible anti-eunuch enforcement into usable political standing.
 - Repeated exit-and-reentry actor whose dismissals, resignation, and 189 CE flight progressively widen his independence.
 - Base-and-logistics builder who joins territory, surrendered populations, farming, grain, and military supply.
-- Adviser-centered commander who often changes course when trusted counsel identifies timing, legitimacy, or survival risk.
+- Adviser-centered commander who can act on counsel and, after the Wuhuan victory, protect rejected warnings from outcome-based retaliation.
 - Legitimacy entrepreneur who preserves and later operationalizes the recognized Han emperor's public authority.
 - Selective incorporator who can execute untrustworthy leaders while rewarding surrenderers, advisers, and local elites.
 - Morally and operationally volatile ruler whose revenge, suspicion, prosecution, and private appetites can create civilian catastrophe or strategic exposure.
@@ -84,17 +87,19 @@ The source set does not support a purely heroic profile. Cao Song's death leads 
 - Entry, reputation, and exit: [[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]], [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]], [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]], and [[zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz|Hanji 1103]] connect family access, elite endorsement, high-status enforcement, two returns to Qiao, and the Chenliu break.
 - Base formation and command recovery: [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]], [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]], [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]], and [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] show East Commandery entry, irregular Yanzhou acquisition, near-collapse, and recovery.
 - Adviser and institution building: [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]], [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]], [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]], and [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]] ground talent attraction, adviser architecture, emperor-backed legitimacy, and屯田 logistics.
+- Post-victory dissent protection: [[zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x|Hanji 1080]] says Cao Cao rewards the people who had advised against the Wuhuan campaign and distinguishes fortunate success from a safely repeatable decision.
 - Coercion and moral cost: [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]], [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd|Hanji 974]], [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]], and [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] show revenge violence, local-elite fear, indirect elimination, and desire-driven command exposure.
 - Differentiated settlement: [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]], [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]], and [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] show siege persistence, execution of leaders judged unsafe, incorporation of surrenderers, and court-title management of regional actors.
 
 ## Qualifications
-The page synthesizes podcast source notes rather than offering an exhaustive biography. Several episodes use modern management language or infer inner motives from outcomes; those claims remain source-scoped. Genealogy before Cao Song, the precise legal mechanics of Cao Cao's earliest appointment, the motive for resigning from Jinan, and many reported dialogues are not independently settled here. Hanji 1103 also ends before resolving who financed Cao Cao's first recruitment at Chenliu. Contradictory textual attribution for Cao Song's death remains explicit rather than being flattened into a single culprit.
+The page synthesizes podcast source notes rather than offering an exhaustive biography. Several episodes use modern management language or infer inner motives from outcomes; those claims remain source-scoped. Genealogy before Cao Song, the precise legal mechanics of Cao Cao's earliest appointment, the motive for resigning from Jinan, and many reported dialogues are not independently settled here. Hanji 1103 also ends before resolving who financed Cao Cao's first recruitment at Chenliu. Hanji 1080's exact reward speech, campaign hardship figures, literary mind-reading, and claim that Guo Jia's death divides Cao Cao's career remain source-scoped. Contradictory textual attribution for Cao Song's death remains explicit rather than being flattened into a single culprit.
 
 ## What Changed
 - Replaced the legacy source-by-source accumulation with a synthesis-v1 profile grounded in the preserved 53-source inventory.
 - Added Hanji 1103's distinction between imposed dismissal, preventive resignation, and the final Chenliu break.
 - Made family advantage and repeated career risk simultaneous parts of the early-career judgment.
 - Clarified Chenliu as an outside option enabled by Zhang Miao, geography, and resources rather than by disillusionment alone.
+- Added Hanji 1080's post-Wuhuan reward of prior dissenters as a bounded feedback-protection case.
 
 ## Relationships
 - [[CaoTengLateHan]] - adoptive grandfather whose palace status creates both access and inherited stigma.
@@ -106,4 +111,5 @@ The page synthesizes podcast source notes rather than offering an exhaustive bio
 - [[TuntianSystem]] - production and supply institution central to durable military power.
 - [[InstitutionalExitEscalation]] - describes Cao Cao's progression from dismissal and resignation to independent organization.
 - [[AdviserStateArchitecture]] - captures the distributed counsel system behind many of Cao Cao's reversals and successes.
+- [[ConstructiveDissent]] - explains why rewarding rejected risk warnings can preserve future criticism after victory.
 - [[PowerExitTrap]] - frames the later difficulty of safely relinquishing accumulated power.

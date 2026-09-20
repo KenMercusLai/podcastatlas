@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力](sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x.md) — 曹操在乌桓凯旋后奖励曾反对出征者，以侥幸成功不等于稳健决策来保护未来谏言，并与袁绍杀田丰形成对照。
 - [《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃](sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u.md) — 郭嘉之死与曹操谋略能力损失、田畴辞封、刘表错失北伐窗口，以及崔州平和诸葛亮的荆州交游。
 - [《资治通鉴·汉纪》1082丨诸葛亮一段话点破乱世风云，太敢说了](sources/zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh.md) — 司马徽、徐庶举荐与三顾茅庐通向隆中对，并把兴汉合法性、孙刘结盟、荆益根据地和内外治理合成长期战略。
 - [《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？](sources/zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3.md) — 刘备早期的执行力与根据地困境、隆中对的战略排除和聚焦，以及襄阳识人网络与陶侃自律故事。
