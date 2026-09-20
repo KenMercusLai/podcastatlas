@@ -20710,3 +20710,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」
+
+Added source `vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz`; created `HealthCodedFoodLabelLiteracy`; and updated `YueWanrou`, `DaShiHua`, `FunctionalFoodMarketingClaimSkepticism`, `MealReplacementNutritionBoundary`, and index. Core synthesis: health-coded food claims are selective attributes rather than complete judgments, so ingredient lists, nutrition panels, serving size, total intake, cooking method, use context, sourcing, and individual needs matter more than one prominent label. No settled contradiction found; the nickname-only guest match, nutrition thresholds, dairy comparisons, additive-law claims, supply-chain assurances, metabolism effects, allergy examples, and condition-specific advice remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

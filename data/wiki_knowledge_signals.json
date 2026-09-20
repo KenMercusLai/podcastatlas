@@ -26086,9 +26086,9 @@
       "url": "/wiki/entities/daqin/"
     },
     "DaShiHua": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -26096,9 +26096,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "lkpGv9cWZxOmR-oI5KSe-lPyj-qz [lkpGv9cWZxOmR-oI5KSe-lPyj-qz].md",
+          "key": "vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz",
+          "show": "这病说来话长",
+          "title": "VOL.161为什么你越吃\"健康食品\"反而越胖？ ft.「大食话」",
+          "url": "/wiki/sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/dashihua/"
     },
     "DaVinciSurgicalSystem": {
@@ -44279,9 +44286,9 @@
       "url": "/wiki/concepts/functionalarticulationdisorder/"
     },
     "FunctionalFoodMarketingClaimSkepticism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -44289,9 +44296,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "lkpGv9cWZxOmR-oI5KSe-lPyj-qz [lkpGv9cWZxOmR-oI5KSe-lPyj-qz].md",
+          "key": "vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz",
+          "show": "这病说来话长",
+          "title": "VOL.161为什么你越吃\"健康食品\"反而越胖？ ft.「大食话」",
+          "url": "/wiki/sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/functionalfoodmarketingclaimskepticism/"
     },
     "FunctionalFoodRegulatoryIdentity": {
@@ -52186,6 +52200,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/headphoneusehearingrisk/"
+    },
+    "HealthCodedFoodLabelLiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkpGv9cWZxOmR-oI5KSe-lPyj-qz [lkpGv9cWZxOmR-oI5KSe-lPyj-qz].md",
+          "key": "vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz",
+          "show": "这病说来话长",
+          "title": "VOL.161为什么你越吃\"健康食品\"反而越胖？ ft.「大食话」",
+          "url": "/wiki/sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/healthcodedfoodlabelliteracy/"
     },
     "HealthInsuranceDeathSpiral": {
       "episode_count": 1,
@@ -77945,9 +77975,9 @@
       "url": "/wiki/entities/mcmurdostation/"
     },
     "MealReplacementNutritionBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -77955,9 +77985,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "lkpGv9cWZxOmR-oI5KSe-lPyj-qz [lkpGv9cWZxOmR-oI5KSe-lPyj-qz].md",
+          "key": "vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz",
+          "show": "这病说来话长",
+          "title": "VOL.161为什么你越吃\"健康食品\"反而越胖？ ft.「大食话」",
+          "url": "/wiki/sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/mealreplacementnutritionboundary/"
     },
     "MeaningThroughExperience": {
@@ -131729,9 +131766,9 @@
       "url": "/wiki/entities/yuanzhuremonstrantlatehan/"
     },
     "YueWanrou": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -131739,9 +131776,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "lkpGv9cWZxOmR-oI5KSe-lPyj-qz [lkpGv9cWZxOmR-oI5KSe-lPyj-qz].md",
+          "key": "vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz",
+          "show": "这病说来话长",
+          "title": "VOL.161为什么你越吃\"健康食品\"反而越胖？ ft.「大食话」",
+          "url": "/wiki/sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/yuewanrou/"
     },
     "YueXiaYao": {

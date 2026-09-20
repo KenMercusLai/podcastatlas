@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7679
+wiki_total_pages: 7680
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "HealthInsurerPreventionAccountability"
     title: "Health Insurer Prevention Accountability / 保险者预防责任"
     url: "/wiki/concepts/healthinsurerpreventionaccountability/"
+  - key: "HealthCodedFoodLabelLiteracy"
+    title: "Health-Coded Food Label Literacy / 健康概念食品标签识读"
+    url: "/wiki/concepts/healthcodedfoodlabelliteracy/"
   - key: "HealthcareAIInfrastructure"
     title: "Healthcare AI Infrastructure"
     url: "/wiki/concepts/healthcareaiinfrastructure/"
