@@ -30232,6 +30232,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "GlobalAIGovernanceFramework": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GlobalEntrepreneurshipMonitor": [
     {
       "key": "economics",
@@ -53800,6 +53812,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PolicyLeverageForSystemChange": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PolisarioFront": [
     {
       "key": "politics",
@@ -64146,6 +64165,18 @@
     }
   ],
   "SovereignAIModels": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "SovereignInfrastructureInterdependence": [
     {
       "key": "technology",
       "label": "Technology",

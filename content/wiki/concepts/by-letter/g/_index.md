@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7611
+wiki_total_pages: 7618
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "GlassSteagallAct"
     title: "Glass-Steagall Act / 格拉斯-斯蒂格尔法案"
     url: "/wiki/concepts/glasssteagallact/"
+  - key: "GlobalAIGovernanceFramework"
+    title: "Global AI Governance Framework"
+    url: "/wiki/concepts/globalaigovernanceframework/"
   - key: "GlobalFinancialNetwork"
     title: "Global Financial Network"
     url: "/wiki/concepts/globalfinancialnetwork/"
@@ -359,6 +362,9 @@ wiki_pages:
   - key: "GovernmentEnterpriseProcurement"
     title: "Government Enterprise Procurement"
     url: "/wiki/concepts/governmententerpriseprocurement/"
+  - key: "GovernmentInnovation"
+    title: "Government Innovation"
+    url: "/wiki/concepts/governmentinnovation/"
   - key: "GovernmentShutdownDataBlindness"
     title: "Government Shutdown Data Blindness"
     url: "/wiki/concepts/governmentshutdowndatablindness/"

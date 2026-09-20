@@ -45894,6 +45894,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/giorgiovasari/"
     },
+    "GlobalAIGovernanceFramework": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/globalaigovernanceframework/"
+    },
     "GlobalProductLocalization": {
       "episode_count": 15,
       "show_count": 9,
@@ -47253,6 +47269,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/governmententerpriseprocurement/"
+    },
+    "GovernmentInnovation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/governmentinnovation/"
     },
     "Gracchi": {
       "episode_count": 2,
@@ -64711,6 +64743,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/lastmilecouriercompensation/"
     },
+    "LastMileNetworkConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/lastmilenetworkconsolidation/"
+    },
     "LastMileRobotDelivery": {
       "episode_count": 1,
       "show_count": 1,
@@ -80806,6 +80854,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/narrativereframingaspoliticalattack/"
     },
+    "NataliaOlson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/nataliaolson/"
+    },
     "NatalieCrawford": {
       "episode_count": 1,
       "show_count": 1,
@@ -84411,6 +84475,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/opencrawl/"
+    },
+    "OpenDataTransparency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/opendatatransparency/"
     },
     "OpenSourceAIBanRisk": {
       "episode_count": 2,
@@ -88823,6 +88903,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/policyboundagenticlendingsupport/"
     },
+    "PolicyLeverageForSystemChange": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/policyleverageforsystemchange/"
+    },
     "PoliticalAccentPrestige": {
       "episode_count": 1,
       "show_count": 1,
@@ -92328,6 +92424,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/publicillnesswriting/"
+    },
+    "PublicProcurementAsMarketCatalyst": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/publicprocurementasmarketcatalyst/"
     },
     "PublicReasonPrivateMotive": {
       "episode_count": 1,
@@ -101745,9 +101857,9 @@
       "url": "/wiki/entities/shawbrothersstudio/"
     },
     "ShekharNatarajan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -101769,9 +101881,16 @@
           "show": "Tomorrow, Today",
           "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/shekharnatarajan/"
     },
     "ShellShock": {
@@ -105418,6 +105537,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/southernxiongnu/"
+    },
+    "SovereignInfrastructureInterdependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/sovereigninfrastructureinterdependence/"
     },
     "Soweto": {
       "episode_count": 1,
@@ -113577,9 +113712,9 @@
       "url": "/wiki/entities/tomoegozen/"
     },
     "TomorrowToday": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "128_default_tc [128_default_tc].md",
@@ -113601,9 +113736,16 @@
           "show": "Tomorrow, Today",
           "title": "Karma, Enlightenment & the Wisdom Beyond the Mind | Shyalpa Rinpoche | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914-default-mp3-ywr3ahjkcgo-97450677c47f502770248abb02f35793-163628914/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+          "key": "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029",
+          "show": "Tomorrow, Today",
+          "title": "Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/tomorrowtoday/"
     },
     "TongLiSexEducator": {

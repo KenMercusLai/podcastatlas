@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7611
+wiki_total_pages: 7618
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "OpaqueHiringMarket"
     title: "Opaque Hiring Market / 不透明招聘市场"
     url: "/wiki/concepts/opaquehiringmarket/"
+  - key: "OpenDataTransparency"
+    title: "Open Data And Transparency"
+    url: "/wiki/concepts/opendatatransparency/"
   - key: "OpenExtraterrestrialCivilizationImagination"
     title: "Open Extraterrestrial Civilization Imagination"
     url: "/wiki/concepts/openextraterrestrialcivilizationimagination/"

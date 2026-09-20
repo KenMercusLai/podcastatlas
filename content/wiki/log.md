@@ -20514,3 +20514,11 @@ Added source `all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan
+
+Added source `defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029`; created `NataliaOlson`, `GovernmentInnovation`, `OpenDataTransparency`, `PolicyLeverageForSystemChange`, `PublicProcurementAsMarketCatalyst`, `LastMileNetworkConsolidation`, `GlobalAIGovernanceFramework`, and `SovereignInfrastructureInterdependence`; and updated `ShekharNatarajan` and `TomorrowToday`. Core synthesis: durable public innovation combines internal capacity with transparent data and consequential policy levers, while AI sovereignty and global governance remain constrained by technical interdependence and contested authority. Olson's global-framework position conflicts with JD Vance's source-scoped national-capability position; quantitative, biographical, policy-attribution, and institutional-outcome claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

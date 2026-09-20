@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2575
+topic_total_pages: 2578
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1462,6 +1462,9 @@ topic_concepts:
   - key: "GlassSteagallAct"
     title: "Glass-Steagall Act / 格拉斯-斯蒂格尔法案"
     url: "/wiki/concepts/glasssteagallact/"
+  - key: "GlobalAIGovernanceFramework"
+    title: "Global AI Governance Framework"
+    url: "/wiki/concepts/globalaigovernanceframework/"
   - key: "GlobalSportsGovernance"
     title: "Global Sports Governance"
     url: "/wiki/concepts/globalsportsgovernance/"
@@ -2473,6 +2476,9 @@ topic_concepts:
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
+  - key: "PolicyLeverageForSystemChange"
+    title: "Policy Leverage For System Change"
+    url: "/wiki/concepts/policyleverageforsystemchange/"
   - key: "PolicyBoundAgenticLendingSupport"
     title: "Policy-Bound Agentic Lending Support"
     url: "/wiki/concepts/policyboundagenticlendingsupport/"
@@ -3154,6 +3160,9 @@ topic_concepts:
   - key: "SovereignAIModels"
     title: "Sovereign AI Models / 主权AI模型"
     url: "/wiki/concepts/sovereignaimodels/"
+  - key: "SovereignInfrastructureInterdependence"
+    title: "Sovereign Infrastructure Interdependence"
+    url: "/wiki/concepts/sovereigninfrastructureinterdependence/"
   - key: "SovereignOilFundGovernance"
     title: "Sovereign Oil Fund Governance"
     url: "/wiki/concepts/sovereignoilfundgovernance/"

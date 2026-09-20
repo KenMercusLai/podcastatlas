@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7611
+wiki_total_pages: 7618
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -764,6 +764,9 @@ wiki_pages:
   - key: "PolicyAnnouncementTradingRisk"
     title: "Policy Announcement Trading Risk"
     url: "/wiki/concepts/policyannouncementtradingrisk/"
+  - key: "PolicyLeverageForSystemChange"
+    title: "Policy Leverage For System Change"
+    url: "/wiki/concepts/policyleverageforsystemchange/"
   - key: "PolicyBoundAgenticLendingSupport"
     title: "Policy-Bound Agentic Lending Support"
     url: "/wiki/concepts/policyboundagenticlendingsupport/"
@@ -1808,6 +1811,9 @@ wiki_pages:
   - key: "PublicOpinionLitigationStrategy"
     title: "Public Opinion Litigation Strategy"
     url: "/wiki/concepts/publicopinionlitigationstrategy/"
+  - key: "PublicProcurementAsMarketCatalyst"
+    title: "Public Procurement As Market Catalyst"
+    url: "/wiki/concepts/publicprocurementasmarketcatalyst/"
   - key: "PublicReasonPrivateMotive"
     title: "Public Reason / Private Motive Mismatch / 公开理由与私下动机错位"
     url: "/wiki/concepts/publicreasonprivatemotive/"

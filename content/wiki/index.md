@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan](sources/defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029.md) — Tomorrow Today interview on institutional government innovation, open data, policy leverage, shared logistics, procurement, global AI governance, and infrastructure sovereignty.
 - [JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms](sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207.md) — All-In interview with JD Vance on border and manufacturing policy, Iran and inflation, deficits, electricity, AI cyber governance, H-1B restrictions, benefit fraud, alliances, and the midterms.
 - [史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷](sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j.md) — 史蒂夫说 conversation with Ajiao on patient symbolization, public projection, explanatory limits, relational safety, bodily survival, and de-romanticizing death.
 - [EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？](sources/ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr.md) — 无时差研究所 episode rereading 《花儿与少年》第二季 through incomplete editing, pseudo-consensus, coordination failure, gendered labor visibility, and changing workplace interpretation.
@@ -2573,6 +2574,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI](sources/all-in-with-chamath-jason-sacks-friedberg-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai-42912617.md) — All-In interview on showstopper-based AI safety, model and harness portability, Microsoft's multi-model strategy, economic diffusion, and data-center legitimacy.
 
 ## Entities
+- [Natalia Olson](entities/NataliaOlson.md) — Planner and former government innovation adviser linking public-sector modernization, open data, logistics, policy leverage, and global AI governance.
 - [《花儿与少年》第二季 / Flower and Youth Season 2](entities/FlowerAndYouthSeason2.md) — 2015 travel reality-TV season whose online afterlife exposes editing limits, group conflict, and changing workplace and gender readings.
 - [Want Want China / 旺旺食品](entities/WantWantChina.md) — Legacy food and beverage company whose product renewal is constrained by old hero products, centralized decisions, and channel incentives.
 - [Tsai Eng-meng / 蔡衍明](entities/TsaiEngMeng.md) — Want Want chairman presented as both the architect of its rice-cracker pivot and the center of its current decision system.
@@ -12887,6 +12889,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Government Innovation](concepts/GovernmentInnovation.md) — Public-process and institutional-capacity reform that uses business methods without collapsing democratic government into a firm.
+- [Open Data And Transparency](concepts/OpenDataTransparency.md) — Accessible and reusable public information serving accountability, participation, and service infrastructure.
+- [Policy Leverage For System Change](concepts/PolicyLeverageForSystemChange.md) — Use of funding, approval, licensing, disclosure, or purchasing conditions to change entrenched behavior.
+- [Public Procurement As Market Catalyst](concepts/PublicProcurementAsMarketCatalyst.md) — Government contracts used to create demand, capability, and market access for targeted supplier groups.
+- [Last-Mile Network Consolidation](concepts/LastMileNetworkConsolidation.md) — Shared or coordinated delivery capacity that reduces duplicated routes while raising competition and governance tradeoffs.
+- [Global AI Governance Framework](concepts/GlobalAIGovernanceFramework.md) — International multi-stakeholder oversight proposal for AI capabilities, autonomy, and cross-border effects.
+- [Sovereign Infrastructure Interdependence](concepts/SovereignInfrastructureInterdependence.md) — Tension between control over data and AI systems and continued dependence on foreign cloud, capital, hardware, or software.
 - [Patient Symbolization And Projection / 病人符号化与投射](concepts/PatientSymbolizationProjection.md) — How a publicly visible ill person can be reduced to a patient symbol, moral example, or container for collective fear and hope.
 - [Death Narrative De-Romanticization / 死亡叙事去浪漫化](concepts/DeathNarrativeDeromanticization.md) — Boundary against treating approaching death as pure, clarifying, beautiful, or fully knowable.
 - [Non-Instrumental Relational Safety / 非工具性关系安全](concepts/NonInstrumentalRelationalSafety.md) — Felt permission to remain cared for without being useful, productive, composed, or inspiring.

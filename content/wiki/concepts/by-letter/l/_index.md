@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7611
+wiki_total_pages: 7618
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "LastChanceEcologicalWitnessing"
     title: "Last-Chance Ecological Witnessing"
     url: "/wiki/concepts/lastchanceecologicalwitnessing/"
+  - key: "LastMileNetworkConsolidation"
+    title: "Last-Mile Network Consolidation"
+    url: "/wiki/concepts/lastmilenetworkconsolidation/"
   - key: "LastMileRobotDelivery"
     title: "Last-Mile Robot Delivery"
     url: "/wiki/concepts/lastmilerobotdelivery/"

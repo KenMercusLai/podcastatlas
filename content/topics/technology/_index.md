@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3082
+topic_total_pages: 3084
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2161,6 +2161,9 @@ topic_concepts:
   - key: "GenomeLanguageModels"
     title: "Genome Language Models"
     url: "/wiki/concepts/genomelanguagemodels/"
+  - key: "GlobalAIGovernanceFramework"
+    title: "Global AI Governance Framework"
+    url: "/wiki/concepts/globalaigovernanceframework/"
   - key: "GlobalFinancialNetwork"
     title: "Global Financial Network"
     url: "/wiki/concepts/globalfinancialnetwork/"
@@ -3754,6 +3757,9 @@ topic_concepts:
   - key: "SovereignAIModels"
     title: "Sovereign AI Models / 主权AI模型"
     url: "/wiki/concepts/sovereignaimodels/"
+  - key: "SovereignInfrastructureInterdependence"
+    title: "Sovereign Infrastructure Interdependence"
+    url: "/wiki/concepts/sovereigninfrastructureinterdependence/"
   - key: "SpaceBasedAIInfrastructure"
     title: "Space Based AI Infrastructure"
     url: "/wiki/concepts/spacebasedaiinfrastructure/"

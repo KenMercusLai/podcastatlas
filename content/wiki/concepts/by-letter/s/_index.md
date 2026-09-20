@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7611
+wiki_total_pages: 7618
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "SovereignHousingDevelopment"
     title: "Sovereign Housing Development"
     url: "/wiki/concepts/sovereignhousingdevelopment/"
+  - key: "SovereignInfrastructureInterdependence"
+    title: "Sovereign Infrastructure Interdependence"
+    url: "/wiki/concepts/sovereigninfrastructureinterdependence/"
   - key: "SovereignOilFundGovernance"
     title: "Sovereign Oil Fund Governance"
     url: "/wiki/concepts/sovereignoilfundgovernance/"

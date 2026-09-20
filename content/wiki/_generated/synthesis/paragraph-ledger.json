@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "965468c395e89043dd3fefacc1ab9b84c0ba9d9eecec98abee0f9c27748fddda",
       "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
       "319056ea04d09ca68758b7405efbdec39c7ad98a69307c8d3dbd9fb6e11775ba",
       "a4e3e81f63f74a55437a930c2b8d9da76076303e1afc6eb02a386620bacbed42",
@@ -657,11 +658,39 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 655
+    "paragraph_count": 656
   },
-  "overview_commit": "d6a6ac8a3172815e95800585ae07544714083543",
-  "overview_digest": "3feebbe52a5d842cf0754e374c57cd3861dc4589e5524d15e8d19d567722e542",
+  "overview_commit": "4a3d449e4c2370e4cfac5add985d3181968a9da7",
+  "overview_digest": "856186a020ce82570685ae1c46c5023a7a8be1592fec329d53f5875fb6a35026",
   "paragraphs": [
+    {
+      "id": "965468c395e89043dd3fefacc1ab9b84c0ba9d9eecec98abee0f9c27748fddda",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|Modernizing Government: Open Data, Innovation & the Future of AI with Natalia Olson | Shekhar Natarajan]], a [[TomorrowToday]] interview with [[NataliaOlson]] hosted by [[ShekharNatarajan]]. It adds [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[GlobalAIGovernanceFramework]], and [[SovereignInfrastructureInterdependence]]. Its core synthesis is that durable public innovation combines useful business methods with democratic accountability, career-staff capacity, accessible information, and consequential funding, approval, disclosure, or procurement levers; the same systems lens treats duplicated delivery networks as candidates for shared infrastructure and qualifies sovereign AI ambitions through cloud, capital, and technical dependence. A live contradiction is preserved between Olson's UN-level multi-stakeholder AI framework and [[JDVance]]'s source-scoped preference for national capability and targeted controls. Procurement shares, logistics costs, shipping concentration, institutional results, policy authorship, and biographical details remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 2,
+        "governance-and-institutions": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "GlobalAIGovernanceFramework",
+        "GovernmentInnovation",
+        "JDVance",
+        "LastMileNetworkConsolidation",
+        "NataliaOlson",
+        "OpenDataTransparency",
+        "PolicyLeverageForSystemChange",
+        "PublicProcurementAsMarketCatalyst",
+        "ShekharNatarajan",
+        "SovereignInfrastructureInterdependence",
+        "TomorrowToday",
+        "defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029"
+      ]
+    },
     {
       "id": "74b0833eb51291884a918f1f9e26d972e3ac287a763f2e91c13127f4bda71d8f",
       "primary_topic": "work-education-and-society",
