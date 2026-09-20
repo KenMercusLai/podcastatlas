@@ -20678,3 +20678,11 @@ Added source `vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-n
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | How Different Diets Impact Your Health | Dr. Christopher Gardner
+
+Added source `how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616`; created `ChristopherGardner`, `DietTrialEquipoise`, `WholeFoodMostlyPlantPattern`, `UltraProcessedFoodPragmaticBoundary`, and `FermentedFoodResponsePersonalization`; and updated `ProteinBodyCompositionLever`, overview, and index. Core synthesis: nutrition comparisons should use strong feasible diet patterns and explicit evidence boundaries, while practical guidance favors minimally processed mostly-plant eating without turning veganism, high protein, ultra-processed-food bans, or fermented foods into universal prescriptions. No settled contradiction found; protein targets, raw-milk and gluten claims, diet-trial outcomes, environmental judgments, and exploratory microbiome, inflammatory, epigenetic, and telomere findings remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

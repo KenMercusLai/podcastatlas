@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7670
+wiki_total_pages: 7674
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "FermatsPrincipleOfLeastTime"
     title: "Fermat's Principle of Least Time"
     url: "/wiki/concepts/fermatsprincipleofleasttime/"
+  - key: "FermentedFoodResponsePersonalization"
+    title: "Fermented-Food Response Personalization"
+    url: "/wiki/concepts/fermentedfoodresponsepersonalization/"
   - key: "FertilityEnergyAvailability"
     title: "Fertility Energy Availability"
     url: "/wiki/concepts/fertilityenergyavailability/"

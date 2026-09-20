@@ -20568,6 +20568,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/christielamond/"
     },
+    "ChristopherGardner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3206044616 [SCIM3206044616].md",
+          "key": "how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616",
+          "show": "Huberman Lab",
+          "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
+          "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/christophergardner/"
+    },
     "ChristopherNavarro": {
       "episode_count": 1,
       "show_count": 1,
@@ -29185,6 +29201,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/diestemvansuidafrika/"
+    },
+    "DietTrialEquipoise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3206044616 [SCIM3206044616].md",
+          "key": "how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616",
+          "show": "Huberman Lab",
+          "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
+          "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/diettrialequipoise/"
     },
     "DietarySupplementRegulation": {
       "episode_count": 3,
@@ -40179,6 +40211,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/fenxiangmailu/"
+    },
+    "FermentedFoodResponsePersonalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3206044616 [SCIM3206044616].md",
+          "key": "how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616",
+          "show": "Huberman Lab",
+          "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
+          "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/fermentedfoodresponsepersonalization/"
     },
     "Ferrero": {
       "episode_count": 1,
@@ -93396,9 +93444,9 @@
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
     "ProteinBodyCompositionLever": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -93406,9 +93454,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM3206044616 [SCIM3206044616].md",
+          "key": "how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616",
+          "show": "Huberman Lab",
+          "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
+          "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {
@@ -117425,6 +117480,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/ultabeauty/"
     },
+    "UltraProcessedFoodPragmaticBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3206044616 [SCIM3206044616].md",
+          "key": "how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616",
+          "show": "Huberman Lab",
+          "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
+          "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
+    },
     "UltradianDeepWorkBlock": {
       "episode_count": 1,
       "show_count": 1,
@@ -123442,6 +123513,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/wholeearthcatalog/"
+    },
+    "WholeFoodMostlyPlantPattern": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3206044616 [SCIM3206044616].md",
+          "key": "how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616",
+          "show": "Huberman Lab",
+          "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
+          "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/wholefoodmostlyplantpattern/"
     },
     "WholesaleRetailerAmplification": {
       "episode_count": 1,

@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-21
-as_of_overview_commit: dd0a74fe87d86c35ff3f17050426615cfabeeeed
-input_digest: 93307591bd7e5722343308fee0ed0b42bda76753200cf09122cd4b5c6859eca9
+as_of_overview_commit: 38c7e75b1208545276a0291299e20c1fb0feda9d
+input_digest: e9048e0b939463143e5b6c9cc8700a6126fb4be9ab67a5a4fe4ef211deb6bbb8
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription.
 
 ## Cross-source Findings
 
@@ -1033,3 +1033,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - The episode does not establish a biomarker, psychedelic mechanism, MDMA protocol, or self-treatment route.
 - Help-seeking can be reduced by stigma, but persistence and functional impairment still require individualized professional assessment.
+
+### Diet Choice Needs Adherence And Evidence Boundaries
+
+[[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616|The Gardner interview]] contributes a bounded personal-development lesson: sustainable diet choice depends on taste, adherence, tolerance, goals, and replacement context, while [[DietTrialEquipoise]], [[WholeFoodMostlyPlantPattern]], and [[ProteinBodyCompositionLever]] prevent an individual's preferred label or lived response from becoming a universal prescription.
+
+**Evidence:** [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]], [[ChristopherGardner]], [[DietTrialEquipoise]], [[WholeFoodMostlyPlantPattern]], [[ProteinBodyCompositionLever]]
+
+**Qualifications:**
+
+- The episode is nutrition research and public education, not individualized medical, eating-disorder, athletic, or weight-management advice.
+- Personal improvement after a dietary change does not by itself identify one universal mechanism or prove that the same pattern fits others.
+- Protein targets, raw-milk and gluten responses, and microbiome findings remain population-, comparator-, outcome-, and source-dependent.

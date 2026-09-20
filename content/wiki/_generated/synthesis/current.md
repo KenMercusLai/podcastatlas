@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: cb04eec3151638cdeb6e2e4894b6c499b428c0e7
+as_of_overview_commit: 38c7e75b1208545276a0291299e20c1fb0feda9d
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2581
-source_count: 2581
-paragraph_count: 669
+episode_count: 2583
+source_count: 2583
+paragraph_count: 671
 topic_count: 8
 ---
 
@@ -22,7 +22,7 @@ topic_count: 8
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
 - [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]] and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show [[BattleOfPoltava|Poltava]] converting accumulated capacity into imperial realignment: Russian resource denial, the [[BattleOfLesnaya|Lesnaya]] supply disaster, [[Baturin]]'s destruction, winter, absent allies, injury, and divided command progressively isolate [[CharlesXII|Charles XII]], while [[PeterTheGreat|Peter the Great]] turns victory into coalition renewal, decline of the [[SwedishEmpire]], and Baltic ascent of the [[RussianEmpire]].
 - [[PsychiatryMeasurementGap]] and [[TherapeuticStateLearning]] add a personal-development boundary: interview language and functional evidence remain necessary while biomarkers are immature, and an altered experience matters only if learning transfers into ordinary life under [[PsychedelicClinicalSupervisionBoundary]].
-- [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them.
+- [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616|The Gardner interview]] adds a diet-pattern evidence framework: [[DietTrialEquipoise]] requires strong feasible comparators, [[WholeFoodMostlyPlantPattern]] is a broad quality direction rather than strict vegan identity, [[UltraProcessedFoodPragmaticBoundary]] preserves access and replacement constraints, and [[FermentedFoodResponsePersonalization]] keeps small microbiome signals distinct from universal prescriptions while [[ProteinBodyCompositionLever]] separates adequacy from satiety or performance strategy.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -71,7 +71,7 @@ Psychological development depends on embodied regulation, relational safety, cal
 
 ### Science, Health, and Climate
 
-Science, health, and climate literacy require mechanism, measurement, escalation thresholds, inspectable evidence, causal inquiry, ecology, and explicit care boundaries.
+Science, health, and climate literacy require fair comparators, mechanism, measurement, escalation thresholds, inspectable evidence, causal inquiry, ecology, and explicit care boundaries.
 
 - [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628]], [[AllIn]], [[BillGurley]], [[RichardFeynman]], [[KiyoshiKurokawa]], [[DRASTIC]], [[CatastrophicFailureRootCauseInvestigation]], [[CAPACorrectivePreventiveAction]], [[InvestigationConflictOfInterest]], [[COVIDOriginsInvestigationUncertainty]], [[AnthonyFauci]], [[ScienceTrustPoliticization]].
 - [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924|The Galpin Huberman Lab Essentials episode]] adds a fitness self-assessment branch: [[NinePhysiologicalAdaptations]] splits exercise goals into appearance and functionality and lists skill, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long duration, each paired with a laboratory or specialist method and a cheap substitute such as [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], and [[PowerAndSpeedAssessment]], all sequenced by [[FitnessAssessmentTestingWeek]] and prioritized by [[FitnessPerformanceAnchors]] so that severe deficits are cleared before a person optimizes the capacities they care about. Evidence: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]], [[HubermanLab]], [[AndyGalpin]], [[NinePhysiologicalAdaptations]], [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], [[PowerAndSpeedAssessment]], [[FitnessAssessmentTestingWeek]], [[FitnessPerformanceAnchors]].

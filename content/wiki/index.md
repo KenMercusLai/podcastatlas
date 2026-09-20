@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Different Diets Impact Your Health | Dr. Christopher Gardner](sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616.md) — Huberman Lab interview on diet-pattern evidence, trial equipoise, whole-food mostly-plant eating, ultra-processed-food pragmatism, protein requirements, and fermented-food response.
 - [VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊](sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy.md) — 这病说来话长 episode on asymptomatic young-adult hypertension, home measurement, medication continuity, follow-up, lifestyle support, and multi-organ complication risk.
 - [565. The Great Northern War: Revenge of the Cossacks (Part 2)](sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243.md) — The Rest Is History episode on Russia's supply-denial campaign, Lesnaya, Mazepa's defection, Baturin's destruction, winter attrition, and Charles XII's approach to Poltava.
 - [Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth](sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631.md) — Huberman Lab Essentials episode on psychiatric measurement limits, stigma, circuit understanding, stimulation precision, ADHD diagnosis boundaries, psychedelics, MDMA, trauma, and therapeutic learning.
@@ -2594,6 +2595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Christopher Gardner](entities/ChristopherGardner.md) — Stanford nutrition researcher emphasizing fair diet comparisons, mostly-plant food quality, practical systems change, and explicit evidence limits.
 - [大伦丁老师 / 大仑丁 (hypertension guest)](entities/DaLunDingHypertensionGuest.md) — Source-scoped medical guest explaining hypertension monitoring, medication continuity, complications, and lifestyle support.
 - [小磊 (hypertension guest)](entities/XiaoLeiHypertensionGuest.md) — Source-scoped young patient whose asymptomatic diagnosis, dosing questions, and normalized work stress anchor VOL.162.
 - [Ivan Mazepa / 伊万·马泽帕](entities/IvanMazepa.md) — Cossack hetman whose attempt to preserve autonomy through alliance with Charles XII collapses after Baturin's destruction.
@@ -12950,6 +12952,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Diet Trial Equipoise](concepts/DietTrialEquipoise.md) — Nutrition-trial principle requiring strong feasible comparators, prespecified outcomes, protected analysis, and transparent interpretation.
+- [Whole-Food Mostly-Plant Pattern](concepts/WholeFoodMostlyPlantPattern.md) — Plant-forward diet-quality direction that allows animal foods and prioritizes taste, adherence, access, and replacement context.
+- [Ultra-Processed Food Pragmatic Boundary](concepts/UltraProcessedFoodPragmaticBoundary.md) — Boundary joining critique of engineered packaged-food environments with affordability, classification, reformulation, and replacement constraints.
+- [Fermented-Food Response Personalization](concepts/FermentedFoodResponsePersonalization.md) — Small-trial framework for microbiome and inflammatory response differences across fermented food, fiber, baseline diversity, and endpoints.
 - [Hypertension Long-Term Management / 高血压长期管理](concepts/HypertensionLongTermManagement.md) — Continuing cycle of detection, treatment, monitoring, follow-up, organ-risk assessment, and feasible lifestyle support.
 - [Home Blood Pressure Measurement / 家庭血压测量](concepts/HomeBloodPressureMeasurement.md) — Standardized out-of-clinic monitoring using an appropriate device, cuff, posture, rest period, and repeat schedule.
 - [Antihypertensive Medication Adherence / 降压药依从性](concepts/AntihypertensiveMedicationAdherence.md) — Consistent clinician-guided dosing, response monitoring, adverse-effect review, and avoidance of unilateral stopping.
