@@ -9496,6 +9496,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
     },
+    "AugustusTheStrong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/augustusthestrong/"
+    },
     "AurelStein": {
       "episode_count": 1,
       "show_count": 1,
@@ -11444,6 +11460,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/battleofmarathon/"
+    },
+    "BattleOfNarva": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/battleofnarva/"
     },
     "BattleOfPoltava": {
       "episode_count": 2,
@@ -17120,6 +17152,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/cathaypacific/"
     },
+    "CatherineI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/catherinei/"
+    },
     "CatherineJudge": {
       "episode_count": 1,
       "show_count": 1,
@@ -17855,9 +17903,9 @@
       "url": "/wiki/entities/charlesduncancameron/"
     },
     "CharlesXII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -17872,6 +17920,13 @@
           "show": "The Rest Is History",
           "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
           "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        },
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
         }
       ],
       "updated": "2026-09-21",
@@ -27729,6 +27784,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/deepz/"
+    },
+    "DefeatDrivenMilitaryReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/defeatdrivenmilitaryreform/"
     },
     "DefeatedDowagerLegitimacyManagement": {
       "episode_count": 1,
@@ -48352,9 +48423,9 @@
       "url": "/wiki/concepts/graymarketpeptides/"
     },
     "GreatNorthernWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -48369,6 +48440,13 @@
           "show": "The Rest Is History",
           "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
           "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        },
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
         }
       ],
       "updated": "2026-09-21",
@@ -80854,9 +80932,9 @@
       "url": "/wiki/concepts/modernistheritagerecognitiongap/"
     },
     "ModernizingAutocracy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4718660658 [GLT4718660658].md",
@@ -80864,6 +80942,13 @@
           "show": "The Rest Is History",
           "title": "567. The Great Northern War: Murder in Moscow (Part 4)",
           "url": "/wiki/sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658/"
+        },
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
         }
       ],
       "updated": "2026-09-21",
@@ -89454,9 +89539,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -89485,6 +89570,13 @@
           "show": "The Rest Is History",
           "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
           "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        },
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
         }
       ],
       "updated": "2026-09-21",
@@ -100134,9 +100226,9 @@
       "url": "/wiki/entities/russellwilder/"
     },
     "RussianEmpire": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -100165,6 +100257,13 @@
           "show": "The Rest Is History",
           "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
           "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        },
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
         }
       ],
       "updated": "2026-09-21",
@@ -100460,6 +100559,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/sahanajayaraman/"
+    },
+    "SaintPetersburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/saintpetersburg/"
     },
     "SajitChanna": {
       "episode_count": 1,
@@ -111628,9 +111743,9 @@
       "url": "/wiki/entities/svenschulze/"
     },
     "SwedishEmpire": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4679437587 [GLT4679437587].md",
@@ -111645,6 +111760,13 @@
           "show": "The Rest Is History",
           "title": "565. The Great Northern War: Revenge of the Cossacks (Part 2)",
           "url": "/wiki/sources/565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243/"
+        },
+        {
+          "episode_file": "GLT2662789070 [GLT2662789070].md",
+          "key": "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
+          "show": "The Rest Is History",
+          "title": "564. The Great Northern War: The Battle of the Baltic (Part 1)",
+          "url": "/wiki/sources/564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070/"
         }
       ],
       "updated": "2026-09-21",

@@ -20686,3 +20686,7 @@ Added source `how-different-diets-impact-your-health-dr-christopher-gardner-scim
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 564. The Great Northern War: The Battle of the Baltic (Part 1)
+
+Added source `564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070`; created `BattleOfNarva`, `SaintPetersburg`, `CatherineI`, `AugustusTheStrong`, and `DefeatDrivenMilitaryReform`; and updated `CharlesXII`, `GreatNorthernWar`, `SwedishEmpire`, `PeterTheGreat`, `RussianEmpire`, `ModernizingAutocracy`, and index. Core synthesis: Narva is both the peak of Sweden's opening military advantage and the diagnostic shock behind Russia's rebuilding, while Charles's pursuit of Augustus gives Peter time to secure the Neva and found Saint Petersburg before the Swedish march on Moscow. No settled contradiction found; figures, dialogue, personal motives, Catherine's early biography, construction mortality, and direct reform causality remain source-scoped.

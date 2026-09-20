@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10348
+wiki_total_pages: 10352
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "CatherineGildiner"
     title: "Catherine Gildiner"
     url: "/wiki/entities/catherinegildiner/"
+  - key: "CatherineI"
+    title: "Catherine I / 叶卡捷琳娜一世"
+    url: "/wiki/entities/catherinei/"
   - key: "CatherineJudge"
     title: "Catherine Judge"
     url: "/wiki/entities/catherinejudge/"

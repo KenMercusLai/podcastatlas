@@ -3,7 +3,7 @@
     "assigned_paragraph_ids": [
       "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
       "d8c1f73d3d2568b7e5b6f0a1f67173154bbd7865846256ff10f0d08947db4473",
-      "0e5614f6e875df304486b078f8f73f712ecdc6d3e2f85ea254b391b06c0804bc",
+      "518ed01438c6571447f6d314e6839787702ac725042a21c75aa74b5981c47dfb",
       "e671956dfa4cdc9dbd7f520e2c50fa0c34d3d6e3f4c6e586a2f4fd6f9aeb5159",
       "62866ce94ce01826990fdd772118ad3f2f7c7b4fd833a5c3a8fa2ebfb6a92eb2",
       "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
@@ -675,8 +675,8 @@
     ],
     "paragraph_count": 671
   },
-  "overview_commit": "38c7e75b1208545276a0291299e20c1fb0feda9d",
-  "overview_digest": "3aaed2823e77811544ffa14e067a8d66173150d6ea9979475b063464edd9e8e9",
+  "overview_commit": "bdc6791cc5b911cec8b9606011f41c551b71452c",
+  "overview_digest": "4b065dc2ec2bdfed54883dc32b04809410d8326c01dd99a8c170746530a4b8df",
   "paragraphs": [
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -725,25 +725,33 @@
       ]
     },
     {
-      "id": "0e5614f6e875df304486b078f8f73f712ecdc6d3e2f85ea254b391b06c0804bc",
+      "id": "518ed01438c6571447f6d314e6839787702ac725042a21c75aa74b5981c47dfb",
       "primary_topic": "history-and-geopolitics",
       "secondary_topics": [],
-      "text": "The newest early-modern-war sources, [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|565. The Great Northern War: Revenge of the Cossacks (Part 2)]] and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|566. The Great Northern War: Slaughter on the Steppes (Part 3)]], trace the Russian campaign from apparent Swedish momentum through the [[BattleOfPoltava|Battle of Poltava]] and its geopolitical aftermath. They add [[IvanMazepa]], [[CossackHetmanate]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[BattleOfPoltava]], [[GreatNorthernWar]], and [[SwedishEmpire]], while extending [[PeterTheGreat]], [[RussianEmpire]], and [[ScorchedEarthSupplyDenial]]. Their core synthesis is that operational success cannot substitute for a viable supply, manpower, and alliance system: Russian withdrawal and resource denial, Lesnaya, Baturin, winter attrition, absent allies, and Charles's wound progressively remove Swedish options before redoubts, rival commanders, missing artillery, and Peter's reformed army convert defeat into coalition renewal, Baltic gains, Saint Petersburg's security, and imperial status. Mazepa's failed defection also exposes the coercive limits of Cossack autonomy. No settled contradiction is recorded; troop and casualty totals, dialogue, weather superlatives, Mazepa's motives, Baturin's death toll, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies any frictionless account of Russian ascent.",
+      "text": "The newest early-modern-war sources, [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|564. The Great Northern War: The Battle of the Baltic (Part 1)]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|565. The Great Northern War: Revenge of the Cossacks (Part 2)]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|566. The Great Northern War: Slaughter on the Steppes (Part 3)]], trace the conflict from Sweden's Baltic dominance and Narva through the Russian campaign, [[BattleOfPoltava|Battle of Poltava]], and geopolitical reversal. They add [[BattleOfNarva]], [[SaintPetersburg]], [[CatherineI]], [[AugustusTheStrong]], [[DefeatDrivenMilitaryReform]], [[IvanMazepa]], [[CossackHetmanate]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[BattleOfPoltava]], [[GreatNorthernWar]], and [[SwedishEmpire]], while extending [[PeterTheGreat]], [[RussianEmpire]], [[ModernizingAutocracy]], and [[ScorchedEarthSupplyDenial]]. Their core synthesis is that battlefield outcomes matter through learning and systems: Narva hardens Swedish confidence while driving Russian training, production, mobilization, and Baltic consolidation; Charles's pursuit of Augustus gives Peter time; and later Russian withdrawal, resource denial, Lesnaya, Baturin, winter attrition, absent allies, redoubts, artillery, and reformed infantry convert Swedish operational daring into coalition reversal and imperial transition. No settled contradiction is recorded; figures, dialogue, personal motives, Catherine's early biography, construction mortality, weather superlatives, Baturin's death toll, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped, while Peter's Ottoman setback qualifies any frictionless account of Russian ascent.",
       "topic_scores": {
-        "history-and-geopolitics": 3
+        "history-and-geopolitics": 4,
+        "work-education-and-society": 1
       },
       "wikilinks": [
+        "564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070",
         "565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243",
         "566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587",
+        "AugustusTheStrong",
         "BattleOfLesnaya",
+        "BattleOfNarva",
         "BattleOfPoltava",
         "Baturin",
+        "CatherineI",
         "CharlesXII",
         "CossackHetmanate",
+        "DefeatDrivenMilitaryReform",
         "GreatNorthernWar",
         "IvanMazepa",
+        "ModernizingAutocracy",
         "PeterTheGreat",
         "RussianEmpire",
+        "SaintPetersburg",
         "ScorchedEarthSupplyDenial",
         "SwedishEmpire"
       ]

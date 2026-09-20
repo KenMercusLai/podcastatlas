@@ -5,6 +5,7 @@ tags: [war, baltic, sweden, russia]
 sources:
   - 566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587
   - 565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243
+  - 564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-21
 ---
@@ -13,11 +14,13 @@ last_updated: 2026-09-21
 
 ## Overview
 
-The Great Northern War was the 1700-1721 struggle in which Sweden faced a changing coalition led by Russia, Denmark, and Saxony-Poland. In the episode, the war turns at the [[BattleOfPoltava|Battle of Poltava]] from [[CharlesXII|Charles XII]]'s attempt to break Russia into a prolonged dismantling of the [[SwedishEmpire|Swedish Empire]] and consolidation of the [[RussianEmpire|Russian Empire]] as a Baltic great power.
+The Great Northern War was the 1700-1721 struggle in which Sweden faced a changing coalition led by Russia, Denmark, and Saxony-Poland. The opening [[BattleOfNarva|victory at Narva]] confirms Swedish dominance but drives Russian adaptation; the war then turns at the [[BattleOfPoltava|Battle of Poltava]] from [[CharlesXII|Charles XII]]'s attempt to break Russia into a prolonged dismantling of the [[SwedishEmpire|Swedish Empire]] and consolidation of the [[RussianEmpire|Russian Empire]] as a Baltic great power.
 
 ## Current Profile
 
-The war begins as a test of Sweden's established military dominance against multiple rivals. Charles's 1707 Russian invasion seeks to depose Peter through decisive victory, but Russian withdrawal and scorched-earth policy deny the battle and supplies Sweden needs. Tactical Swedish victories cannot offset manpower limits, the destruction of Lewenhaupt's relief column at [[BattleOfLesnaya|Lesnaya]], or the growing cost of distance.
+The war begins when Denmark, [[AugustusTheStrong|Augustus the Strong]], and Russia attack different parts of Sweden's Baltic system. Charles forces Denmark out and destroys Peter's unfinished army at Narva, but then makes Augustus's punishment and deposition his priority. During the Polish-Saxon campaigns, Peter rebuilds the army, advances through Ingria, and founds [[SaintPetersburg|Saint Petersburg]], turning an early disaster into a durable strategic foothold.
+
+Charles's 1707 Russian invasion seeks to depose Peter through decisive victory, but Russian withdrawal and scorched-earth policy deny the battle and supplies Sweden needs. Tactical Swedish victories cannot offset manpower limits, the destruction of Lewenhaupt's relief column at [[BattleOfLesnaya|Lesnaya]], or the growing cost of distance.
 
 Charles's turn toward Ukraine makes [[IvanMazepa|Mazepa]] and the [[CossackHetmanate|Cossack Hetmanate]] part of the coalition struggle. Russia's rapid destruction of [[Baturin]], combined with a catastrophic winter and absent Tatar and Polish allies, collapses the alternative base. Poltava then destroys the invading field army in 1709 and restores the anti-Swedish coalition, yet Charles's survival and refusal to cede territory keep the conflict open.
 
@@ -26,6 +29,7 @@ The later war spreads through Ottoman diplomacy, northern Germany, Finland, Swed
 ## Key Characteristics
 
 - It is a coalition war whose participants and incentives shift after battlefield signals alter expectations.
+- Early victory and defeat produce opposite learning effects: Swedish confidence hardens while Russian capacity improves.
 - Logistics, winter, fortified positions, state finance, and military reform matter alongside battlefield courage.
 - Ukrainian autonomy politics and imperial retaliation become operational parts of the Swedish-Russian contest.
 - Poltava is decisive without being terminal: the war continues for twelve more years.
@@ -34,6 +38,7 @@ The later war spreads through Ottoman diplomacy, northern Germany, Finland, Swed
 
 ## Evidence
 
+- Origins and early reversal: [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]] connects Baltic access, coalition attack, Denmark, Narva, Augustus's defeat, Russian reform, Saint Petersburg, and the Moscow decision.
 - Coalition and invasion: [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]] follows the Moscow objective, Russian withdrawal, Swedish tactical victories, and growing manpower and supply asymmetry.
 - Logistics and Ukrainian turn: [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]] connects Lesnaya, Mazepa, Baturin, winter, and absent allies to the approach to Poltava.
 - Decisive reversal: [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]] presents Poltava as the destruction of Swedish field power and the signal for Sweden's enemies to renew war.
@@ -42,11 +47,12 @@ The later war spreads through Ottoman diplomacy, northern Germany, Finland, Swed
 
 ## Qualifications
 
-This page rests on two episodes centered on the Russian campaign, Poltava, and the war's final arc, not a complete campaign history. Coalition motives, Polish and Ukrainian agency, Ottoman decision-making, civilian losses, territorial details, and counterfactual outcomes require broader evidence. The episodes' treatment of Poltava as creating Russian great-power status is best read as a hinge claim, not a single-cause explanation.
+This page rests on three episodes centered on the war's opening, Russian campaign, Poltava, and final arc, not a complete campaign history. Coalition motives, Polish and Ukrainian agency, Ottoman decision-making, civilian losses, territorial details, and counterfactual outcomes require broader evidence. The episodes' treatment of Narva as reform shock and Poltava as great-power hinge should not be reduced to single-cause explanations.
 
 ## What Changed
 
 - Added the Moscow campaign, Lesnaya supply disaster, Ukrainian alignment, Baturin, and failed alliance support as the road to Poltava.
+- Added the Baltic war aims, anti-Swedish coalition, Narva, Polish-Saxon diversion, Russian recovery, and Saint Petersburg as the conflict's opening causal chain.
 
 ## Relationships
 
@@ -58,3 +64,5 @@ This page rests on two episodes centered on the Russian campaign, Poltava, and t
 - [[ModernizingAutocracy]] - state-building pattern accelerated by the war's demands in Russia.
 - [[BattleOfLesnaya]] - campaign hinge where Russia destroys Sweden's relief system.
 - [[IvanMazepa]] - Cossack hetman whose defection opens and then fails to secure a Ukrainian alternative for Sweden.
+- [[BattleOfNarva]] - opening Swedish triumph that becomes a catalyst for Russian reform.
+- [[SaintPetersburg]] - territorial and urban gain that makes Baltic access non-negotiable for Peter.

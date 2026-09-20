@@ -4,28 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-21
-as_of_overview_commit: cb04eec3151638cdeb6e2e4894b6c499b428c0e7
-input_digest: c14ac2a6bff869f421b9dd9a6906bce85aac8865abbbb9d31c0212c3df778a30
+as_of_overview_commit: bdc6791cc5b911cec8b9606011f41c551b71452c
+input_digest: 9205344ca935d5539635f4685d16566fad6a8c032c4d24e8977a53ae6764ddc4
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. The Great Northern War branch now follows the full pre-Poltava attrition system: Russian withdrawal and resource denial, Lesnaya's destruction of Swedish relief, Baturin's fall, winter, absent allies, injury, and divided command remove Charles XII's options before Russia converts battlefield victory into coalition renewal, Baltic gains, and great-power status; Mazepa's failed defection also exposes the coercive limits of Cossack autonomy. The Hannibal branch similarly joins logistics, alliance politics, deception, severe attrition, and Fabian endurance, while the Qing mid-dynasty case supplies a slower failure mode in which underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weaken problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than treated as settled history.
+The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. The Great Northern War branch now begins with the divergent lessons of Narva: Swedish victory hardens Charles XII's confidence while Russian defeat drives military reform, coercive mobilization, and Saint Petersburg's Baltic consolidation; later withdrawal, resource denial, Lesnaya, Baturin, winter, absent allies, injury, and divided command remove Swedish options before Poltava converts capacity into coalition renewal and imperial realignment. The Hannibal branch similarly joins logistics, alliance politics, deception, severe attrition, and Fabian endurance, while the Qing mid-dynasty case supplies a slower failure mode in which underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weaken problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than treated as settled history.
 
 ## Cross-source Findings
 
 ### Poltava Converts Military Capacity Into Imperial Realignment
 
-[[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]] and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show [[BattleOfPoltava|Poltava]] converting accumulated capacity into imperial realignment: Russian resource denial, the [[BattleOfLesnaya|Lesnaya]] supply disaster, [[Baturin]]'s destruction, winter, absent allies, injury, and divided command progressively isolate [[CharlesXII|Charles XII]], while [[PeterTheGreat|Peter the Great]] turns victory into coalition renewal, decline of the [[SwedishEmpire]], and Baltic ascent of the [[RussianEmpire]].
+[[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show military outcomes mattering through learning and systems: the [[BattleOfNarva|Narva]] victory hardens [[CharlesXII|Charles XII]]'s confidence while driving [[PeterTheGreat|Peter the Great]]'s reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, the [[BattleOfLesnaya|Lesnaya]] supply disaster, [[Baturin]]'s destruction, winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]].
 
-**Evidence:** [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]]
+**Evidence:** [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[BattleOfNarva]], [[SaintPetersburg]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]]
 
 **Qualifications:**
 
-- Poltava is treated as a decisive hinge rather than a single-cause explanation; the Great Northern War continued until 1721.
-- Mazepa's motives, Cossack alignment, the Baturin death toll, weather superlatives, troop and casualty totals, reported dialogue, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped.
+- Narva is treated as a reform shock and Poltava as a decisive hinge, not as single-cause explanations; the Great Northern War continued until 1721.
+- Catherine's early biography, Saint Petersburg's construction mortality, reform causality, Mazepa's motives, Cossack alignment, the Baturin death toll, weather superlatives, troop and casualty totals, reported dialogue, diplomatic motives, Finnish losses, Charles's death, and counterfactual outcomes remain source-scoped.
 - Peter's Ottoman setback and temporary surrender of Azov qualify any account of frictionless Russian expansion after 1709.
 
 ### Qing Accumulated Maladies Link Procedure Perception And Reform

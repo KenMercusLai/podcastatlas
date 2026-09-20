@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10348
+wiki_total_pages: 10352
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "AugustHeinrichHoffmannVonFallersleben"
     title: "August Heinrich Hoffmann von Fallersleben"
     url: "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
+  - key: "AugustusTheStrong"
+    title: "Augustus the Strong / 强力王奥古斯特"
+    url: "/wiki/entities/augustusthestrong/"
   - key: "AungSanSuuKyi"
     title: "Aung San Suu Kyi"
     url: "/wiki/entities/aungsansuukyi/"
