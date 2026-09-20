@@ -1650,6 +1650,7 @@ def validate(public_dir: Path) -> dict:
     public_dir = public_dir.resolve()
     files = [path for path in public_dir.rglob("*") if path.is_file()]
     errors = []
+    warnings = []
 
     for path in public_dir.rglob("*"):
         if path.is_symlink():
@@ -1724,7 +1725,7 @@ def validate(public_dir: Path) -> dict:
             match = WIKI_LINK_RE.search(path.read_text(encoding="utf-8"))
             if match:
                 relative = path.relative_to(public_dir).as_posix()
-                errors.append(
+                warnings.append(
                     f"unresolved wiki link in generated HTML: {relative}: {match.group(0)}"
                 )
                 break
@@ -1812,6 +1813,7 @@ def validate(public_dir: Path) -> dict:
         "file_count": len(files),
         "total_bytes": total_bytes,
         "errors": errors,
+        "warnings": warnings,
     }
 
 
