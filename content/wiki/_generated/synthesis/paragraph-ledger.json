@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "a4e3e81f63f74a55437a930c2b8d9da76076303e1afc6eb02a386620bacbed42",
       "385c78dc0929bf5ef2bc0931f79b99ea687c25357745e98a5d9d820e32256298",
       "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
       "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
@@ -653,11 +654,33 @@
       "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 651
+    "paragraph_count": 652
   },
-  "overview_commit": "75fbea53ee30bb26fd89f4c027210cc08dcb1ac2",
-  "overview_digest": "4ef0a983ce3fc47c562432b55de8b79e017f092d2ad33437c695bc9950175c30",
+  "overview_commit": "8891ee46762e5e12f34ed4501ef64cc6fa1a8e5c",
+  "overview_digest": "13947d87ca345d480720c02c1ce575e980ed26dc11fb3379c230cde3c6d815b6",
   "paragraphs": [
+    {
+      "id": "a4e3e81f63f74a55437a930c2b8d9da76076303e1afc6eb02a386620bacbed42",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk|《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplying the decision phase before Hanji 1078's route solution and Hanji 1079's [[BailangMountainLateHan|白狼山之战]] outcome. It extends [[GuoJia|郭嘉]] and [[ForcedMarchOperationalRisk|急行军作战风险]]: Guo Jia treats Wuhuan complacency and [[LiuBiao|刘表]]'s fear of empowering [[LiuBei|刘备]] as exploitable conditions, then trades baggage resilience for surprise speed. The rain-blocked road shows that a well-reasoned high-risk choice can still meet severe operational constraints. No settled contradiction is recorded; the demographic framing, Xun Yu motive, formal decision analogies, exact dialogue, and all post-[[TianChou|田畴]] events remain source-scoped because the transcript stops at Tian Chou's appearance.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "BailangMountainLateHan",
+        "ForcedMarchOperationalRisk",
+        "GuoJia",
+        "LiuBei",
+        "LiuBiao",
+        "RuiqiJiangtouZizhiTongjian",
+        "TianChou",
+        "zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk"
+      ]
+    },
     {
       "id": "385c78dc0929bf5ef2bc0931f79b99ea687c25357745e98a5d9d820e32256298",
       "primary_topic": "governance-and-institutions",

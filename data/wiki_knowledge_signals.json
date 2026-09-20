@@ -40295,6 +40295,50 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/forcebackedsurrenderpersuasion/"
     },
+    "ForcedMarchOperationalRisk": {
+      "episode_count": 5,
+      "show_count": 1,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？ [lkwlRcgnT-kxXC2qqZ6z6WKG7e5z].md",
+          "key": "zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！ [ltfkDlIvOmNvuX5xoDH2RlFQf6aC].md",
+          "key": "zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》51丨 楚怀王：秦小儿看舅舅如何灭了你！",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-51-chuhuaiwang-qin-xiao-er-kan-jiujiu-ruhe-mie-le-ni-ltfkdlivomnvux5xodh2rlfqf6ac/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》20丨庞涓死此树下 [ls_8-3JHz5Q1c5Ca11MhdzMZ4wg4].md",
+          "key": "zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》20丨庞涓死此树下",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-20-pangjuan-si-ci-shu-xia-ls-8-3jhz5q1c5ca11mhdzmz4wg4/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》19丨马陵之战 [lhBAPt09X2PtdQx0uoPkP8APBaDA].md",
+          "key": "zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》19丨马陵之战",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？ [lp7DgomH7hIlbTCw0rmwERjGqgsK].md",
+          "key": "zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/forcedmarchoperationalrisk/"
+    },
     "ForeskinHygieneSurgeryBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -47718,9 +47762,9 @@
       "url": "/wiki/entities/guojieasternhan/"
     },
     "GuoJia": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？ [ljJT1t2mK77si6re_-WEW_hPl8qZ].md",
@@ -47784,6 +47828,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？ [lp7DgomH7hIlbTCw0rmwERjGqgsK].md",
+          "key": "zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk/"
         }
       ],
       "updated": "2026-09-20",

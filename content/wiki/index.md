@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？](sources/zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk.md) — 曹操远征乌桓前，郭嘉以乌桓无备和刘表不敢放权给刘备为依据主张出兵，又以弃辎重急行换取突袭速度。
 - [《资治通鉴·汉纪》1078丨曹操靠这招瞒天过海，美军至今在研究](sources/zizhi-tongjian-hanji-1078-caocao-kao-zhe-zhao-mantian-guohai-meijun-zhijin-zai-yanjiu-lvmyikhf0lgekipw_ziebcw29zle.md) — 田畴以卢龙古道绕开雨阻与乌桓正面防线，曹操用“秋冬再进军”的路旁木板掩护真实机动。
 - [《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力](sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x.md) — 曹操在乌桓凯旋后奖励曾反对出征者，以侥幸成功不等于稳健决策来保护未来谏言，并与袁绍杀田丰形成对照。
 - [《资治通鉴·汉纪》1081丨哀哉！曹操痛失最锋利的谋略之刃](sources/zizhi-tongjian-hanji-1081-aizai-caocao-tongshi-zui-fengli-de-moulue-zhi-ren-lj1svjc8nuh7vdawypetjqa1h88u.md) — 郭嘉之死与曹操谋略能力损失、田畴辞封、刘表错失北伐窗口，以及崔州平和诸葛亮的荆州交游。

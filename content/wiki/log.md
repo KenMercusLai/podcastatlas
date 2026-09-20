@@ -20394,3 +20394,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1077丨曹操赌上全部身家，九死一生图个啥？
+
+Added the decision-phase source note for Cao Cao's 207 CE Wuhuan expedition. Updated Guo Jia's profile with his Wuhuan-complacency and Liu Biao incentive analysis, revised Forced-March Operational Risk to distinguish deliberate surprise speed from uncontrolled overextension, and preserved the transcript's stop at Tian Chou's appearance as an explicit evidence boundary.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran deterministic and graph-aware lint; semantic checks were unavailable because no provider-qualified `LLM_MODEL` and API key were configured. Report was printed but not saved.

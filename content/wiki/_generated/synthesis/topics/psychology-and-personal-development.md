@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-20
-as_of_overview_commit: 525c9a462c3898b7cd0c85c4585c7b367127ae2c
-input_digest: aa1a4969b99828e45e8d5c83d55338520284201b442aa832dcff8631273c62a9
+as_of_overview_commit: 8891ee46762e5e12f34ed4501ef64cc6fa1a8e5c
+input_digest: 8469471b81a86c2ee33c8feaf1ffe3e5838b1ae1b6f95b8016e8cf1e00b80992
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1090 adds a bounded historical warning about moral labeling: character judgments can be shaped by political power, biographical counterevidence, family consequences, and public memory, so they should not be detached from evidence and context. Historical typologies and motive claims remain source-scoped boundary cases, while mental-health, diagnostic, and crisis claims stay bounded to professional judgment. Hanji 1081 adds a bounded judgment lesson: grief for lost talent and regret over missed opportunity may illuminate decision psychology, but retrospective confidence should not be converted into certainty about an unobservable alternative history.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
 
 ## Cross-source Findings
 
@@ -1010,3 +1010,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - This is historical narrative and modern commentary, not clinical or experimental psychology evidence.
 - The 15/85 management statistic is unattributed in the episode and remains source-scoped.
 - Retrospective coherence cannot establish what a deceased adviser would have done.
+
+### High Risk Decision Analogy Needs Outcome Restraint
+
+[[zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk|Hanji 1077]] enters personal-development synthesis only as a bounded judgment case: [[GuoJia|Guo Jia]]’s opponent model and [[ForcedMarchOperationalRisk|forced-march risk]] show that a decision can be reasoned yet remain exposed, so later success should not be mistaken for proof that its terrain, supply, and rear-security risks were negligible.
+
+**Evidence:** [[zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk]], [[GuoJia]], [[ForcedMarchOperationalRisk]]
+
+**Qualifications:**
+
+- This is historical narrative and modern commentary, not clinical or experimental psychology evidence.
+- The source’s risk-investment and prisoner-dilemma language is analogy rather than evidence that the actors used formal models.
+- The incomplete transcript cannot independently establish the route solution or campaign result.

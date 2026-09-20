@@ -4,15 +4,15 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: 525c9a462c3898b7cd0c85c4585c7b367127ae2c
-input_digest: 1a9ea1142d94eea7989ec58e79baf8bdd80c3006a4645fa68a86bac81d895b9c
+as_of_overview_commit: 8891ee46762e5e12f34ed4501ef64cc6fa1a8e5c
+input_digest: cb1a8d9fde7f055a5590eca4db0e52bb5b1a8a09da9973b327d53dcb8d0f9747
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Hanji 1090 adds Kong Rong\u0027s 208 CE death as a bounded late-Han case where a political challenge becomes an accusation bundle, punishment reaches young household members, and loyal mourning survives intimidation. Across the corpus, exact motives, dialogues, totals, and retrospective causal claims remain bounded to their sources rather than treated as settled history. Hanji 1081 adds a source-scoped late-Han transition in which Guo Jia's death, Liu Biao's missed opportunity, Tian Chou's refusal, and the emerging Zhuge Liang network are historically adjacent but do not establish a single causal chain to Red Cliffs or tripartite division.
+The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Hanji 1077 adds the decision phase of Cao Cao’s 207 CE Wuhuan expedition: Guo Jia combines enemy complacency and Liu Biao’s reluctance to empower Liu Bei with a deliberate baggage-for-speed tradeoff, while rain and route blockage preserve the campaign’s operational uncertainty. Across the corpus, exact motives, dialogues, totals, demographic claims, and retrospective causal claims remain bounded to their sources rather than treated as settled history.
 
 ## Cross-source Findings
 
@@ -396,3 +396,15 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 - Historical adjacency does not prove that Guo Jia's death caused the later three-way order.
 - The Xiangyang-Nanyang conclusion, burial details, exact timing, and dialogue remain source-scoped.
 - The source's modern management framing is interpretation rather than independent historical evidence.
+
+### Hanji 1077 Wuhuan Surprise Trades Logistics For Tempo
+
+[[zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk|Hanji 1077]] supplies the decision phase before the Wuhuan campaign outcome: [[GuoJia|Guo Jia]] treats Wuhuan complacency and [[LiuBiao|Liu Biao]]’s fear of empowering [[LiuBei|Liu Bei]] as an opening, then accepts [[ForcedMarchOperationalRisk|forced-march operational risk]] by trading baggage resilience for surprise speed.
+
+**Evidence:** [[zizhi-tongjian-hanji-1077-caocao-du-shang-quanbu-shenjia-jiusi-yisheng-tu-ge-sha-lp7dgomh7hilbtcw0rmwerjgqgsk]], [[GuoJia]], [[LiuBiao]], [[LiuBei]], [[ForcedMarchOperationalRisk]]
+
+**Qualifications:**
+
+- The transcript ends at Tian Chou’s appearance and does not independently establish the alternative route or battle result.
+- The demographic framing, Xun Yu motive, exact dialogue, Wuhuan mental state, and formal risk-investment or prisoner-dilemma analogies remain source-scoped.
+- Later victory does not retroactively make the supply, terrain, and exposed-rear risks unreal.
