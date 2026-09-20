@@ -1,47 +1,59 @@
 ---
 title: "Xiaomi"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [company, china, technology, investing, ai]
-sources: [qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395, lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506, zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805, cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1, ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027, mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]
-last_updated: 2026-08-25
+sources:
+  - qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395
+  - lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506
+  - zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805
+  - cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1
+  - ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5
+  - 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf
+  - no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027
+  - mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131
+  - 274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet
+last_updated: 2026-09-20
 ---
 
 # Xiaomi
 
-[[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds Xiaomi as one of the automakers named in a large China recall tied to interior emergency mechanical handle visibility and operation. For Xiaomi's page, the recall extends the company's EV branch from growth and export plans into [[VehicleEmergencyHandleUsability]] and post-sale safety obligations.
+## Overview
+Xiaomi is a Chinese technology company whose current wiki profile spans smartphones, consumer electronics, electric vehicles, operating systems, AI models, robotics, and cross-device ecosystems. Its trajectory begins with [[MIUI]], community participation, direct ecommerce, and low-margin hardware, then broadens into a capital-intensive attempt to control more of the chip-system-model-device stack.
 
-[[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] adds a Q2 2026 earnings and strategy update. The source says Xiaomi's revenue fell 6.1% year over year and net profit fell 43%, partly because AI data-center demand pushed traditional memory prices higher and Xiaomi's broad handset price coverage made it exposed to component inflation. The same source says Xiaomi is putting more capital into cars, AI, and infrastructure, with EV deliveries up nearly 30% year over year and overseas EV sales planned for the second half of 2027.
+## Current Profile
+The source set supports a company in transition rather than a single settled identity. Xiaomi remains exposed to mass-market handset economics, component inflation, and post-sale hardware obligations, while trying to finance a more differentiated high-end route through foldable form factors, long-cycle technical investment, EVs, AI, robotics, and infrastructure. The newest episode interprets premiumization as an organizational forcing function: higher prices are defensible only if product definition, integrated engineering, software, silicon, AI, and ecosystem context create uses that comparable components alone cannot. That is a strategic thesis from interested users, not yet independent proof that the latest product or high-end program has succeeded.
 
-[[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds a robotics-model talent update. The source says former [[ByteDance]] robotics-business lead [[KongTao|Kong Tao]] joined Xiaomi in 2025 to work on robotics foundation models and brought some former ByteDance colleagues, connecting Xiaomi to [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] beyond its existing handset, EV, and large-model branches.
+## Key Characteristics
+- Xiaomi's original handset advantage combined software-first community building, internet distribution, low pricing, and supply-chain execution.
+- Its high-end smartphone route is moving from component selection toward product definition, integrated engineering, foldable software, chips, operating systems, and AI.
+- The company is allocating across phones, EVs, AI, infrastructure, robotics, and a broader device ecosystem rather than remaining a handset-only business.
+- Xiaomi's model work includes agent-oriented post-training, architecture, compute allocation, and organization design through [[LuoFuli]] and [[MemoVR]].
+- Its scale creates exposure to memory shortages, component-cost inflation, safety recalls, demand pressure, and the financing needs of several capital-intensive bets at once.
+- Public-market discussion also treats Xiaomi as a liquid China-technology allocation object, which is distinct from evidence about its operating quality.
 
-Xiaomi appears in [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] as one of the Chinese technology names foreign investors may examine when reallocating toward Hong Kong and China technology assets. The episode groups Xiaomi with [[Alibaba]] and [[Tencent]] as more likely early targets than smaller or policy-sensitive sectors when outside capital moves from underweight to a more neutral China-tech allocation.
+## Evidence
+- Founding and handset-system evidence: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]] traces [[LeiJun]], [[MIUI]], Xiaomi 1, [[Redmi]], ecommerce, community participation, and the [[InternetPhoneModel]].
+- High-end and product-definition evidence: [[274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet]] uses MIX, Xiaomi 10/11, a reported mid-size foldable, chips, operating systems, AI, and phone-car-home integration to argue for a capability-driven premium route.
+- AI and robotics evidence: [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] places [[MemoVR]], [[AgentPostTraining]], [[AgentRL]], compute allocation, and organization design inside Xiaomi; [[zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805]] adds [[KongTao]] and robotics foundation-model recruitment.
+- Supply and financial-pressure evidence: [[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] links Xiaomi to [[ChangXinMemory]] and capacity security; [[lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506]] reports handset component pressure alongside greater EV, AI, infrastructure, and overseas investment.
+- Vehicle and obligation evidence: [[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds the [[RangeExtendedEV]] route, while [[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] adds [[VehicleEmergencyHandleUsability]] and recall obligations.
+- Market-positioning evidence: [[ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5]] uses Xiaomi as a recognizable [[HongKongTechRepricing]] allocation candidate rather than as a standalone operating analysis.
 
-[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds Xiaomi as a large-model organization case through [[LuoFuli]] and [[MemoVR]]. In this source, Xiaomi is not only a public-market China-tech name; it is the setting for an agent-era model team experimenting with [[AgentPostTraining]], [[AgentRL]], [[TrainingComputeAllocation]], [[AgentOptimizedModelArchitecture]], and flat [[AIOrganizationDesign]].
+## Qualifications
+The sources mix company history, business-news summaries, investor discussion, interviews, product commentary, and long-user impressions. Financial figures, product names, launch prices, shipment or opening-frequency claims, executive quotations, export schedules, recalls, and model details remain source-scoped unless independently established elsewhere. The newest episode is favorable to Xiaomi and lacks comparative sales, repair, retention, channel, and profitability evidence; it explains a plausible high-end strategy but does not prove that the strategy or reported foldable has won.
 
-[[cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1]] adds Xiaomi as a handset maker exposed to memory allocation pressure. The source says phone companies such as Xiaomi have invested in [[ChangXinMemory]] partly to secure capacity when AI server demand makes DRAM and NAND supply tighter for consumer devices.
+## What Changed
+- Migrated the company page to `synthesis-v1` using all nine bounded sources.
+- Added Xiaomi's high-end route as a shift from component purchasing toward product definition and integrated technical capability.
+- Connected foldable productivity, AI supervision, and cross-device context to the company's broader chip-system-model strategy.
+- Preserved the distinction between strategic ambition and independent evidence of commercial success.
 
-[[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]] adds Xiaomi's founding handset story. The episode traces [[LeiJun]] from Kingsoft and angel investing into Xiaomi, then treats [[MIUI]], the 1999-yuan Xiaomi 1, [[Redmi]], direct ecommerce, low margins, and community participation as the clearest case of China's [[InternetPhoneModel]].
-
-[[mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131]] adds Xiaomi's vehicle-route side item. The episode says Xiaomi announced Pengcheng-series [[RangeExtendedEV|range-extended EVs]] on July 30, 2026, with [[LeiJun]] positioning the route as large-battery range extension that can behave like pure EV driving in most scenarios while keeping gasoline backup for extremes.
-
-## Source Position
-- Xiaomi is not analyzed as a standalone company in this source.
-- Its role is to represent the large, liquid, recognizable side of [[HongKongTechRepricing]].
-- The source uses Xiaomi to make a flow and allocation point rather than a detailed product or earnings claim.
-- Episode 138 changes the company context: Xiaomi becomes a model-training and organization-design case through [[MemoVR]] and Luo Fuli's team.
-- The What's Next source adds a supply-chain angle: Xiaomi's handset margins and component security become more sensitive when AI infrastructure buyers absorb memory capacity.
-- Episode 210 adds the smartphone-origin angle: Xiaomi first accumulated software users through [[MIUI]], then used online launches, low pricing, and ecosystem expansion to challenge both shanzhai phones and older carrier-channel incumbents.
-- The 声动早咖啡 source adds a vehicle-product angle, treating range extension as a sales and delivery option at a moment when the category's growth was slowing.
-- The later 声动早咖啡 update adds a pressure-and-reallocation angle: handset component inflation and shipment weakness make cars, AI, infrastructure, and overseas EV channels more central to Xiaomi's growth story.
-
-## Connections
-- [[Alibaba]] and [[Tencent]] — peer large Chinese technology names in the episode's foreign-capital discussion.
-- [[HangSengTechIndex]] — index context for the broader China-tech move.
-- [[DeepSeek]] — catalyst for changing the narrative around Chinese technology assets.
-- [[LuoFuli]], [[MemoVR]], [[AgentPostTraining]], and [[AgentRL]] — model-team and agent-training context added by episode 138.
-- [[ChangXinMemory]], [[MemoryChipShortage]], and [[AIHardwareSupplyChainPressure]] — memory-allocation context added by What's Next.
-- [[LeiJun]], [[MIUI]], [[Redmi]], [[InternetPhoneModel]], and [[SmartphoneBrandSupplyChainExecution]] — Xiaomi's phone-history branch added by episode 210.
-- [[RangeExtendedEV]] - EV route side item added by 声动早咖啡.
-- [[KongTao]], [[PhysicalAI]], [[EmbodiedAI]], and [[VisionLanguageActionModels]] - robotics foundation-model branch added by the later 声动早咖啡 source.
-- [[AIHardwareSupplyChainPressure]], [[ChinaPassengerVehicleDemandPressure]], [[ChineseHardwareGlobalization]], and [[GlobalProductLocalization]] - memory-cost pressure and EV-export branch added by the 2026-08-19 声动早咖啡 source.
-- [[VehicleEmergencyHandleUsability]] - EV recall branch added by the 2026-08-25 声动早咖啡 source.
+## Relationships
+- [[LeiJun]] - founder associated with Xiaomi's software-first handset route and later long-cycle capability argument.
+- [[MIUI]] - software and community foundation of Xiaomi's original phone strategy.
+- [[FoldablePhoneProductivity]] - task-value test for the reported high-end foldable route.
+- [[SmartphoneAIHub]] - phone-centered AI and cross-device coordination thesis relevant to Xiaomi's ecosystem.
+- [[MemoVR]] - model family connecting Xiaomi to agent-oriented model training and architecture.
+- [[RangeExtendedEV]] - vehicle route expanding Xiaomi beyond phones.
+- [[AIHardwareSupplyChainPressure]] - component and memory constraint on Xiaomi's broad handset portfolio.

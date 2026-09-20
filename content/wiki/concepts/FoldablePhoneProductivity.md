@@ -9,6 +9,7 @@ sources:
   - 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs
   - no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u
   - tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4
+  - 274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet
 last_updated: 2026-09-20
 ---
 
@@ -18,7 +19,7 @@ last_updated: 2026-09-20
 Foldable phone productivity is the test of whether a foldable phone's open-screen state creates enough repeated task value to justify its weight, cost, durability, software, battery, thermal, camera, and performance tradeoffs.
 
 ## Current Synthesis
-The evidence moves the concept beyond “larger screen equals productivity.” Foldables can reduce laptop or tablet moments for reading, documents, meetings, file review, multitasking, presentations, and AI-supported task organization, but only when the user's existing device mix does not already handle those jobs better. The new communications-history source adds an internal-space and reliability lens: a foldable must allocate scarce volume among hinge, screen, battery, compute, cooling, and camera while remaining light enough for ordinary phone use. A mid-size foldable may offer a credible balance, but the source's bullish forecast is sponsor-adjacent and not independent market evidence.
+The evidence moves the concept beyond “larger screen equals productivity.” Foldables are most credible for recurring medium-complexity tasks: work too dense for a slab phone but too brief to justify opening or carrying a laptop or tablet. Reading annotated contracts, comparing documents, planning travel, monitoring AI work, and confirming agent actions fit this 5-15 minute window, while heavy formatting, complex models, and design work remain PC-favored. Productivity also depends on inner/outer role clarity, effective content area, aspect ratio, software adaptation, and acceptable tradeoffs across hinge, battery, heat, compute, camera, weight, and reliability. Mid-size optimism remains product-adjacent commentary rather than independent usage evidence.
 
 ## Key Claims
 - Bigger screens matter only when the open state improves recurring tasks rather than enlarging the same consumption experience.
@@ -27,6 +28,7 @@ The evidence moves the concept beyond “larger screen equals productivity.” F
 - AI can strengthen the open-screen case through document comparison, file organization, meeting work, parallel apps, and visible multi-agent output.
 - Productivity depends on hardware allocation among hinge, battery, heat, compute, camera, weight, and reliability as well as screen area.
 - Software adaptation and developer confidence determine whether hardware area becomes useful workspace.
+- AI value comes from making process, evidence, output, and authorization visible enough to supervise, not merely from opening more apps.
 
 ## Evidence
 - Premium-tradeoff evidence: [[qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395]] describes a reported foldable iPhone as expensive while losing some flagship features.
@@ -34,14 +36,15 @@ The evidence moves the concept beyond “larger screen equals productivity.” F
 - Workbench evidence: [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] describes app groups, document review, [[AIFileManagement]], meeting assistants, and multi-AI comparison while keeping heavy work on PCs.
 - User-relative evidence: [[no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u]] argues that existing tablets, laptops, or second phones can make the foldable redundant and identifies opening cost, holding posture, durability anxiety, black bars, and ratio mismatch.
 - Physical-allocation evidence: [[tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4]] frames foldables as a balance among screen, hinge, battery, cooling, compute, camera, weight, durability, and internal space.
+- Medium-task and supervision evidence: [[274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet]] identifies annotated documents, comparisons, planning, and AI process/result oversight as reasons to open the device, while separating quick outer-screen actions from high-context inner-screen work.
 
 ## Counterevidence & Qualifications
-The sources are interviews and product commentary rather than independent longitudinal usage research. The newest source is Xiaomi-sponsored and promotes a reported Xiaomi foldable, so its claim that a mid-size format is the likely mainstream compromise requires independent sales, retention, repair, opening-frequency, and application-use evidence. Product specifications and hinge-cycle counts also remain source-scoped.
+The sources are interviews and product commentary rather than independent longitudinal usage research. Two recent sources are Xiaomi-adjacent and promote a reported Xiaomi foldable, so claims that a mid-size format is the likely mainstream compromise require independent sales, retention, repair, opening-frequency, and application-use evidence. Product names, specifications, pricing, hinge-cycle counts, growth claims, and aspect-ratio convergence also remain source-scoped.
 
 ## What Changed
-- Added internal-space allocation and hinge reliability as core productivity preconditions.
-- Qualified the mid-size-foldable forecast because it appears in sponsored product commentary.
-- Preserved the user-relative judgment: no single foldable format is inherently productive.
+- Narrowed the strongest use case to recurring 5-15 minute tasks between slab-phone convenience and PC-level work.
+- Added agent supervision and confirmation as a distinct large-screen value beyond multi-app display.
+- Added inner/outer role division, aspect ratio, and effective content area to the productivity judgment.
 
 ## Related Concepts
 - [[SmartphoneAIHub]] - phone-centered AI thesis that foldables may strengthen through a larger work surface.

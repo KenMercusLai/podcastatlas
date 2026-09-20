@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3075
+topic_total_pages: 3076
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8019,6 +8019,9 @@ topic_sources:
   - key: "273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3"
     title: "273.逛完外滩大会，发现蚂蚁找到了新位置"
     url: "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+  - key: "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet"
+    title: "274.从全面屏到中折叠，小米的高端化这次找对路了吗？"
+    url: "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
   - key: "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128"
     title: "34 days without internet in Iran"
     url: "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"

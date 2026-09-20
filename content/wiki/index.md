@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [274.从全面屏到中折叠，小米的高端化这次找对路了吗？](sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet.md) — 乱翻书以小米中折叠回看高端化，聚焦5–15分钟轻办公、平板比例适配、AI监督界面及芯片—系统—生态能力闭环。
 - [How investing is getting riskier (Two Indicators)](sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737.md) — Planet Money and The Indicator on margin-driven forced selling, South Korean leveraged chip bets, Gen Z sports betting as investment, and Colorado's experimental betting friction.
 - [《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？](sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk.md) — 杜畿单骑入河东，以授权、募兵和轮休降低豪强戒心并拆散其武力网络，为后续守城与地方动员铺路。
 - [《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？](sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu.md) — 杜畿以县级防御、断粮和外援平定河东叛乱，并以宽政、农桑、教育与军备建设经营十六年。

@@ -40202,9 +40202,9 @@
       "url": "/wiki/concepts/focusedultrasoundneuromodulation/"
     },
     "FoldableAppAdaptation": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
@@ -40226,15 +40226,22 @@
           "show": "忽左忽右",
           "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
           "url": "/wiki/sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4/"
+        },
+        {
+          "episode_file": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？ [lkVuNiL7tWHd92DUwCu_1hXkEfET].md",
+          "key": "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet",
+          "show": "乱翻书",
+          "title": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？",
+          "url": "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
         }
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/foldableappadaptation/"
     },
     "FoldablePhoneProductivity": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 5,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
@@ -40270,6 +40277,13 @@
           "show": "忽左忽右",
           "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
           "url": "/wiki/sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4/"
+        },
+        {
+          "episode_file": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？ [lkVuNiL7tWHd92DUwCu_1hXkEfET].md",
+          "key": "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet",
+          "show": "乱翻书",
+          "title": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？",
+          "url": "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
         }
       ],
       "updated": "2026-09-20",
@@ -103380,9 +103394,9 @@
       "url": "/wiki/entities/smartisan/"
     },
     "SmartphoneAIHub": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "tech_20251225_1225_MP_TECH_pod_128 [tech_20251225_1225_MP_TECH_pod_128].md",
@@ -103425,6 +103439,13 @@
           "show": "忽左忽右",
           "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
           "url": "/wiki/sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4/"
+        },
+        {
+          "episode_file": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？ [lkVuNiL7tWHd92DUwCu_1hXkEfET].md",
+          "key": "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet",
+          "show": "乱翻书",
+          "title": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？",
+          "url": "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
         }
       ],
       "updated": "2026-09-20",
@@ -123092,6 +123113,78 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/xiaolongweightmanagementguest/"
+    },
+    "Xiaomi": {
+      "episode_count": 9,
+      "show_count": 6,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
+          "key": "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395",
+          "show": "声动早咖啡",
+          "title": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回",
+          "url": "/wiki/sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395/"
+        },
+        {
+          "episode_file": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿 [1007302506].md",
+          "key": "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506",
+          "show": "声动早咖啡",
+          "title": "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿",
+          "url": "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+        },
+        {
+          "episode_file": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策 [1005631805].md",
+          "key": "zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805",
+          "show": "声动早咖啡",
+          "title": "中国消费者带动拉夫劳伦增长，东航优化机票退改签政策",
+          "url": "/wiki/sources/zhongguo-xiaofeizhe-daidong-lafu-laolun-zengzhang-donghang-youhua-jipiao-tuigaiqian-zhengce-1005631805/"
+        },
+        {
+          "episode_file": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13 [c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1].md",
+          "key": "cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1",
+          "show": "What's Next｜科技早知道",
+          "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？｜ S10E13",
+          "url": "/wiki/sources/cunchu-sanjutou-po-wanyi-shizhi-cunchu-chaoji-zhouqi-heshi-neng-jianding-s10e13-c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1/"
+        },
+        {
+          "episode_file": "EP57 美股动荡，东升西降？这回是走是留 [lmEiHCoQeZY-5JxQDDEOtTydSwZ5].md",
+          "key": "ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5",
+          "show": "一劳永逸",
+          "title": "EP57 美股动荡，东升西降？这回是走是留",
+          "url": "/wiki/sources/ep57-mei-gu-dong-dang-dong-sheng-xi-jiang-zhe-hui-shi-zou-shi-liu-lmeihcoqezy-5jxqddeottydswz5/"
+        },
+        {
+          "episode_file": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权 [lvjthrP5i6nloL64YOJ_JDDRa4WF].md",
+          "key": "138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权",
+          "url": "/wiki/sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf/"
+        },
+        {
+          "episode_file": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 ｜ 中国互联网故事24 [1000932027].md",
+          "key": "no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.210 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24",
+          "url": "/wiki/sources/no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027/"
+        },
+        {
+          "episode_file": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？ [1004213131].md",
+          "key": "mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131",
+          "show": "声动早咖啡",
+          "title": "卖香皂起家的百年花王，为什么成了半导体制造的关键企业？",
+          "url": "/wiki/sources/mai-xiangzao-qijia-de-bainian-huawang-weishenme-chengle-bandaoti-zhizao-de-guanjiang-qiye-1004213131/"
+        },
+        {
+          "episode_file": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？ [lkVuNiL7tWHd92DUwCu_1hXkEfET].md",
+          "key": "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet",
+          "show": "乱翻书",
+          "title": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？",
+          "url": "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/xiaomi/"
     },
     "XiaoweiDuanwenReporter": {
       "episode_count": 1,

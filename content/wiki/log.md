@@ -20458,3 +20458,11 @@ Added the Planet Money/The Indicator source on margin-driven forced selling and 
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 274.从全面屏到中折叠，小米的高端化这次找对路了吗？
+
+Added source `274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet`; migrated and updated `Xiaomi`; updated `FoldablePhoneProductivity`, `FoldableAppAdaptation`, and `SmartphoneAIHub`. Core synthesis: the strongest foldable case is recurring 5–15 minute work between slab-phone convenience and PC-level effort, with a tablet-like ratio lowering adaptation costs and a larger screen making AI process, evidence, output, and authorization visible. No settled contradiction found; product identity, price, ratios, growth, chip, and executive-statement details remain source-scoped, while Xiaomi's high-end strategy remains a plausible capability-building thesis rather than independently proven commercial success.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
