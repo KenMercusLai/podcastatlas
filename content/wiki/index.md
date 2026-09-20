@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Machines, Creativity & Love | Dr. Lex Fridman](sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065.md) — Huberman Lab Essentials conversation on AI learning, data-engine feedback, alignment, supervised driving, robot companionship, shared memory, and grief for Homer and Costello.
 - [570. Hannibal: The Invasion of Italy (Part 3)](sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067.md) — The Rest Is History episode on Hannibal's Alpine gamble, Trebia and Trasimene victories, alliance strategy, operational deception, and Fabius's time-buying response.
 - [Healing From Grief & Loss | Dr. Mary-Frances O'Connor](sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393.md) — Huberman Lab interview on grief as attachment-based learning, continuing bonds, yearning, bodily risk, rumination, and oscillation between loss and restoration.
 - [Why AI models are obsessed with creatures](sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128.md) — Marketplace Tech with Janelle Shane on goblin-heavy personality tuning, small-data signal amplification, alignment patching, and hiring proxy discrimination.
@@ -2581,6 +2582,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Costello (Andrew Huberman's dog)](entities/CostelloDog.md) — Huberman's companion dog whose decline, remembered character, and public bond ground the episode's account of care and grief.
+- [Homer (Lex Fridman's dog)](entities/HomerLexFridmanDog.md) — Fridman's Newfoundland companion whose shared life, cancer, euthanasia, and death ground the episode's attachment framework.
 - [Hannibal Barca / 汉尼拔](entities/HannibalBarca.md) — Carthaginian commander whose Italian campaign joins initiative, alliance politics, deception, and encirclement against Rome's deeper manpower.
 - [Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯](entities/QuintusFabiusMaximus.md) — Roman dictator who shadows Hannibal, avoids pitched battle, and buys time for recruitment and training.
 - [Battle of Trebia / 特雷比亚河战役](entities/BattleOfTrebia.md) — Late-218 BC battle where provocation, cold, a river crossing, wing pressure, and a hidden rear force defeat Rome.
@@ -11796,7 +11799,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《上下半场》 / Shang Xia Banchang](entities/ShangXiaBanchang.md) — Zhao Lina's post-retirement podcast/project for athlete stories, public expression, and reading people through interviews.
 - [中国女足 / China Women's National Football Team](entities/ChinaWomensNationalFootballTeam.md) — National-team context for Zhao Lina's goalkeeper confidence, World Cup visibility, and women's football comparison pressure.
 - [FIFA Women's World Cup](entities/FIFAWomensWorldCup.md) — Women's international football tournament node created from Zhao Lina's 2015 Canada World Cup memory.
-- [Lex Fridman](entities/LexFridman.md) — Long-form interview reference used by Han Yang through John Carmack, Rick Rubin, and Ilya Sutskever examples.
+- [Lex Fridman](entities/LexFridman.md) — Long-form interviewer and AI/robotics researcher connecting learning systems, human-machine relationships, shared time, and grief.
 - [Joe Rogan](entities/JoeRogan.md) — Long-form podcast reference used by Han Yang to show how private interests can develop public meaning.
 - [John Carmack](entities/JohnCarmack.md) — Engineering interview example showing how side topics can reveal values better than narrow technology-media framing.
 - [Rick Rubin](entities/RickRubin.md) — Music and creativity-process figure linking long-form interview detail to felt creative judgment, attention shifts, feedback boundaries, finishing, and meditation.
@@ -19084,7 +19087,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Content Credentials](concepts/ContentCredentials.md) — Media-provenance standard layer for attaching authenticity signals to captured or edited content.
 - [Life Restart Thought Experiment](concepts/LifeRestartThoughtExperiment.md) — Reflective device asking what one would revisit with memory intact, used to reveal unresolved meaning rather than a corrected life plan.
 - [Regret Integration](concepts/RegretIntegration.md) — Process of keeping embarrassment, pain, mistakes, and unfinished goodbyes inside a coherent life story instead of treating them only as errors to erase.
-- [Pet Grief And Care](concepts/PetGriefAndCare.md) — Pattern where animal loss changes later routines, responsibility, and meaning-making.
+- [Pet Grief And Care](concepts/PetGriefAndCare.md) — Companion-animal bonds across practical care, quality-of-life decisions, loss, public mourning, changed routines, and continuing influence.
 - [Mother-Daughter Reconciliation](concepts/MotherDaughterReconciliation.md) — Adult reinterpretation of maternal absence, conflict, expectation, and repair.
 - [Female Self-Possession](concepts/FemaleSelfPossession.md) — Women's Day life-design stance built around self-knowledge, self-directed choice, learning capacity, and love without conventional success scripts.
 - [SOC 2 Audit](concepts/SOC2Audit.md) — Evidence-based software-company trust audit covering security, IT, access, policy, infrastructure, and people-process controls.
@@ -19962,7 +19965,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Data As Education](concepts/DataAsEducation.md) — Frame that AI data includes teaching signals such as tasks, feedback, evaluation, correction, and environments, not only labeled files.
 - [Embodied Data Pyramid](concepts/EmbodiedDataPyramid.md) — Robotics data strategy combining teleoperation, real robot data, simulation, structured 3D, tactile data, human first-person data, and internet video priors.
 - [Robotics Simulation Evaluation](concepts/RoboticsSimulationEvaluation.md) — Simulation-as-evaluation infrastructure for repeatable robot training, testing, feedback, and counterfactual physical tasks.
-- [Data Engine Learning Loop](concepts/DataEngineLearningLoop.md) — Feedback-driven data system that supplies environments, tasks, evaluation, and iterative learning rather than only annotation files.
+- [Data Engine Learning Loop](concepts/DataEngineLearningLoop.md) — Deployment loop that turns edge cases, expert process, environments, evaluation, and failure correction into retraining rather than one-off data delivery.
 - [Data Recipe Co-Creation](concepts/DataRecipeCoCreation.md) — Joint discovery between data companies and model teams of which data mixtures measurably improve models.
 - [Data Pricing In AI](concepts/DataPricingInAI.md) — Pricing frame where data value rises with customization, feedback quality, evaluation value, and embodied trajectory usefulness.
 - [AI Native Product Design](concepts/AINativeProductDesign.md) — Product-design shift from deterministic user-flow design toward model context, open input/output, and mixed product-design-engineering exploration.
@@ -20009,7 +20012,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI How, Human Why Boundary](concepts/AIHowHumanWhyBoundary.md) — AI-era purpose boundary where AI can support execution and data use while humans keep judgment, values, relationships, and the why.
 - [Action Defines Identity](concepts/ActionDefinesIdentity.md) — Life-design claim that repeated choices under real conditions reveal identity more strongly than self-description.
 - [Representation Learning](concepts/RepresentationLearning.md) — Learning useful abstractions from data, treated by Xie Saining as the trunk connecting vision, self-supervision, diffusion, multimodal AI, and world models.
-- [Self-Supervised Learning](concepts/SelfSupervisedLearning.md) — Representation-learning route discussed through pretext tasks, contrastive learning, MoCo, and the limits of treating language models as pure self-supervision.
+- [Self-Supervised Learning](concepts/SelfSupervisedLearning.md) — Representation-learning route that derives targets from data, reduces direct annotation, and remains qualified as an incomplete route to common sense.
 - [Research Taste](concepts/ResearchTaste.md) — Research judgment around baselines, experiment prediction, pivoting, storytelling, and choosing problems that matter.
 - [Problem Definition In Research](concepts/ProblemDefinitionInResearch.md) — Ability to define a tractable and consequential research problem, illustrated by Fei-Fei Li and ImageNet.
 - [Multimodal Intelligence](concepts/MultimodalIntelligence.md) — Route from language-only systems toward visual, spatial, continuous, and predictive world understanding.
@@ -20317,7 +20320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [College Career Preparation](concepts/CollegeCareerPreparation.md) — Goal-dependent undergraduate preparation across GPA, exams, projects, internships, portfolios, AI-era hiring readiness, and useful skill-building.
 - [College Major Choice](concepts/CollegeMajorChoice.md) — Choosing a field of study under AI and labor-market uncertainty without treating hot majors or outlier success stories as guarantees.
 - [Community-Led SaaS Growth](concepts/CommunityLedSaaSGrowth.md) — SaaS growth through practitioner communities, trusted channels, service, and word of mouth.
-- [Companion Robots](concepts/CompanionRobots.md) — Robots designed primarily for emotional coexistence, social presence, relationship-building, and supportive interaction, now including Ryan's elder-care companion case.
+- [Companion Robots](concepts/CompanionRobots.md) — Robots designed for social presence and relationship-building through liveliness, memory, and shared time, with explicit safety, consent, and sentience boundaries.
 - [Compliance Automation](concepts/ComplianceAutomation.md) — Software that helps companies prove and maintain security, privacy, compliance, and trust obligations with less manual work.
 - [Consumer AML Exposure](concepts/ConsumerAMLExposure.md) — Ordinary-user exposure to suspicious fund flows through accounts, withdrawals, recharges, live-streaming rewards, or overseas platforms.
 - [Contact Center AI](concepts/ContactCenterAI.md) — Agent deployment in customer service, complaints, consultation, marketing, membership operations, calls, and messages.

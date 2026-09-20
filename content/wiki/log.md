@@ -20578,3 +20578,11 @@ Added source `570-hannibal-the-invasion-of-italy-part-3-glt2952414067`; created 
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Essentials: Machines, Creativity & Love | Dr. Lex Fridman
+
+Added source `essentials-machines-creativity-love-dr-lex-fridman-scim3392253065`; created `CostelloDog` and disambiguated `HomerLexFridmanDog`; and updated `LexFridman`, `CompanionRobots`, `DataEngineLearningLoop`, `SelfSupervisedLearning`, `PetGriefAndCare`, overview, and index. Core synthesis: AI learning depends on targets, edge cases, feedback, and redeployment, while human attachment to robots may grow through shared time, memory, voice, and imperfection without proving machine sentience; Homer and Costello ground the episode's grief claims in companion-animal care and loss. No settled contradiction found; Tesla responsibility, AI danger, robot rights, machine common sense, emotional attribution, and end-of-life interpretations remain time- and source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

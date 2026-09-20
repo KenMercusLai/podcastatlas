@@ -478,8 +478,8 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "SCIM5641095924 [SCIM5641095924].md",
-      "source_note_count": 51,
-      "topic_matched_source_note_count": 41,
+      "source_note_count": 52,
+      "topic_matched_source_note_count": 42,
       "topics": [
         {
           "key": "science",
@@ -497,7 +497,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "politics",

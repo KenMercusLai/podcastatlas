@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3091
+topic_total_pages: 3093
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5909,6 +5909,9 @@ topic_entities:
   - key: "LeptonAI"
     title: "Lepton AI"
     url: "/wiki/entities/leptonai/"
+  - key: "LexFridman"
+    title: "Lex Fridman"
+    url: "/wiki/entities/lexfridman/"
   - key: "LexisNexis"
     title: "LexisNexis"
     url: "/wiki/entities/lexisnexis/"
@@ -8556,6 +8559,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
     title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
+  - key: "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065"
+    title: "Essentials: Machines, Creativity & Love | Dr. Lex Fridman"
+    url: "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
   - key: "even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9"
     title: "Even-more-maximum pressure: sanctions on Iran"
     url: "/wiki/sources/even-more-maximum-pressure-sanctions-on-iran-6a8d6a9b66c4a1e81a4c86a9/"

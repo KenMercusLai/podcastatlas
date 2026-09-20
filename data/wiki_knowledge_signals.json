@@ -22468,9 +22468,9 @@
       "url": "/wiki/concepts/companionanimalhealth/"
     },
     "CompanionRobots": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "宇树上市暴涨，但人形机器人的钱到底从哪里赚？｜S10E26 [4a50d4a3-a6ff-4c89-b754-367b73ce924b].md",
@@ -22506,9 +22506,16 @@
           "show": "Data Science With Sam",
           "title": "EP 42: When AI Meets Robotics: Building Machines That Care",
           "url": "/wiki/sources/ep-42-when-ai-meets-robotics-building-machines-that-care/"
+        },
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/companionrobots/"
     },
     "ComparativeMedicine": {
@@ -23928,6 +23935,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cosmiccrisp/"
+    },
+    "CostelloDog": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/costellodog/"
     },
     "CounselExitAfterNonresponse": {
       "episode_count": 1,
@@ -26696,6 +26719,36 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/datacenterpowerbottleneck/"
+    },
+    "DataEngineLearningLoop": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "TSR-S4-AlexandrWang-v3 [TSR-S4-AlexandrWang-v3].md",
+          "key": "tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3",
+          "show": "The Social Radars",
+          "title": "Alexandr Wang on Scale and AI Data Infrastructure",
+          "url": "/wiki/sources/tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3/"
+        },
+        {
+          "episode_file": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe [lkInPy65_ZR4cQmK23rmHJ_hhLVQ].md",
+          "key": "134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe",
+          "url": "/wiki/sources/134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe/"
+        },
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/dataenginelearningloop/"
     },
     "DataEngineerAgentSupervision": {
       "episode_count": 1,
@@ -53174,6 +53227,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/homeservicerobots/"
     },
+    "HomerLexFridmanDog": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/homerlexfridmandog/"
+    },
     "HomericAdaptationModernization": {
       "episode_count": 4,
       "show_count": 4,
@@ -66304,6 +66373,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lewisandclarkexpedition/"
+    },
+    "LexFridman": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "汉洋：挖坑、媒介枷锁、好内容、对谈、为什么做蜉蝣天地 [59b766f5-ee1d-4040-a650-a96b7b4b70d5].md",
+          "key": "hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5",
+          "show": "蜉蝣天地 Meanders",
+          "title": "汉洋：为什么做《蜉蝣天地》",
+          "url": "/wiki/sources/hanyang-wakeng-meijie-jiasuo-hao-neirong-duitan-weishenme-zuo-fuyou-tiandi-59b766f5-ee1d-4040-a650-a96b7b4b70d5/"
+        },
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/lexfridman/"
     },
     "LexisNexis": {
       "episode_count": 1,
@@ -88461,6 +88553,50 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/personalrisktrustsignal/"
     },
+    "PetGriefAndCare": {
+      "episode_count": 5,
+      "show_count": 2,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "110.初老的女人：疲惫，温柔，辽阔 [749182278].md",
+          "key": "110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278",
+          "show": "蜜獾吃书",
+          "title": "110.初老的女人：疲惫，温柔，辽阔",
+          "url": "/wiki/sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278/"
+        },
+        {
+          "episode_file": "日谈串台｜ 姐妹聊天会：重启人生也是我最妖娇 [616116425].md",
+          "key": "ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425",
+          "show": "蜜獾吃书",
+          "title": "日谈串台｜姐妹聊天会：重启人生也是我最妖娇",
+          "url": "/wiki/sources/ritan-chuantai-jiemei-liaotianhui-chongqi-rensheng-yeshi-wo-zui-yaojiao-616116425/"
+        },
+        {
+          "episode_file": "56.伴生：世界破破烂烂，小动物缝缝补补 [641299301].md",
+          "key": "56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301",
+          "show": "蜜獾吃书",
+          "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
+          "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
+        },
+        {
+          "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
+          "key": "39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065",
+          "show": "蜜獾吃书",
+          "title": "39.哲学家与狼：在朗格多克永恒的夏天",
+          "url": "/wiki/sources/39-zhexuejia-yu-lang-zai-langgeduoke-yongheng-de-xiatian-611233065/"
+        },
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/petgriefandcare/"
+    },
     "PeteLau": {
       "episode_count": 1,
       "show_count": 1,
@@ -101131,6 +101267,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/selfsimilarityinintimacy/"
+    },
+    "SelfSupervisedLearning": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42 [lqXBPXddXfukbdlAP-NDrFNp-2wn].md",
+          "key": "133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42",
+          "url": "/wiki/sources/133-dui-xie-saining-de-7-xiaoshi-ma-la-song-fangtan-shijie-moxing-taochu-guigu-ami-labs-liangci-jujue-ilya-yang-likun-li-feifei-he-42/"
+        },
+        {
+          "episode_file": "SCIM3392253065 [SCIM3392253065].md",
+          "key": "essentials-machines-creativity-love-dr-lex-fridman-scim3392253065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Machines, Creativity & Love | Dr. Lex Fridman",
+          "url": "/wiki/sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/selfsupervisedlearning/"
     },
     "SelfTestingMemoryPractice": {
       "episode_count": 2,

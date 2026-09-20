@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10323
+wiki_total_pages: 10325
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "Homer"
     title: "Homer"
     url: "/wiki/entities/homer/"
+  - key: "HomerLexFridmanDog"
+    title: "Homer (Lex Fridman's dog)"
+    url: "/wiki/entities/homerlexfridmandog/"
   - key: "HomiKharas"
     title: "Homi Kharas"
     url: "/wiki/entities/homikharas/"

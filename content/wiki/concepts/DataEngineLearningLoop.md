@@ -1,28 +1,50 @@
 ---
 title: "Data Engine Learning Loop"
 type: concept
-tags: [ai, data, feedback]
-sources: [tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3, 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]
-last_updated: 2026-07-11
+tags: [ai, data, feedback, deployment]
+sources:
+  - tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3
+  - 134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe
+  - essentials-machines-creativity-love-dr-lex-fridman-scim3392253065
+last_updated: 2026-09-21
+knowledge_schema: synthesis-v1
 ---
 
 # Data Engine Learning Loop
 
-Data engine learning loop is the episode's contrast with a simple Data Factory. In [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]], [[XieChen]] says [[GuanglunIntelligence]] wants to provide feedback-driven environments and evaluation loops rather than only batches of labeled data.
+## Definition
+A data engine learning loop is a recurring process that deploys a system into tasks or environments, identifies failures and difficult cases, supplies evaluation or correction, retrains the system, and redeploys it rather than treating a labeled dataset as a finished input.
 
-[[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] adds a company-history bridge through [[ScaleAI]]. [[AlexandrWang]] starts from classic labeling and quality-control work, then points toward [[AgentData]], where the useful loop includes human thinking, tool use, constraint checking, and model failure correction while real tasks are performed.
+## Current Synthesis
+The sources trace a move from static annotation toward feedback-bearing environments. [[ScaleAI]] begins with labeling and quality control, then [[AgentData]] expands the unit of data to expert planning, tool use, constraint checking, failure diagnosis, and recovery. [[GuanglunIntelligence]] extends the idea into robotics, where simulated and real environments, task design, evaluation, failed trajectories, human review, and recipe discovery form a loop.
+
+[[essentials-machines-creativity-love-dr-lex-fridman-scim3392253065]] supplies the deployed autonomous-driving version attributed to [[AndrejKarpathy]]: build a system, collect unusual edge cases from real use, retrain, and redeploy. The combined evidence shows that the engine is not merely a growing dataset. Its value depends on finding informative failures, defining success, deciding what feedback means, and verifying that retraining improves behavior without creating new blind spots.
 
 ## Key Claims
-- A Data Factory produces standardized datasets, annotations, and quality-controlled files.
-- A Data Engine supplies environments, tasks, expert or automated feedback, evaluation, failure cases, and iterative recipe learning.
-- In robotics, the loop can include real-to-sim scene construction, simulated teleoperation, automatic exploration, model-assisted labeling, human review, and sim-to-real checking.
-- The long-term version may let AI systems self-improve in defined environments with clear success metrics rather than only learn from externally produced examples.
-- In agent workflows, the loop may include recording how experts plan, gather context, act, inspect failures, and recover when models hallucinate or get stuck.
+- A data factory produces datasets and annotations; a data engine repeatedly converts deployment failures and task feedback into learning.
+- Informative edge cases, corrections, and recovery paths can be more valuable than additional ordinary examples.
+- Agent workflows expand data from inputs and labels to records of planning, tool use, constraint checking, and failure recovery.
+- Robotics loops can combine real robot data, simulation, teleoperation, automated exploration, model-assisted labeling, human review, and sim-to-real evaluation.
+- Clear objectives and evaluation are part of the engine because a system cannot improve meaningfully if success is poorly specified.
+- Deployment scale changes what loops are feasible: vehicle fleets can surface many edge cases, while smaller robot fleets may need simulation-centered substitutes.
 
-## Connections
-- [[DataAsEducation]] — conceptual reason the loop matters.
-- [[RoboticsSimulationEvaluation]] — physical environment and evaluation layer.
-- [[DataRecipeCoCreation]] — customer/model-team process for discovering useful data mixtures.
-- [[ScaleAI]] — Data Factory comparator in the source.
-- [[AlexandrWang]] and [[AgentData]] — Scale-side extension from labeling to agent process data.
-- [[PhysicalWorldDataFlywheel]] — adjacent real-world loop that this concept complements and partially substitutes for when robot fleets are too small.
+## Evidence
+- Deployment-loop evidence: [[essentials-machines-creativity-love-dr-lex-fridman-scim3392253065]] describes the autonomous-driving cycle of deployment, edge-case collection, retraining, and redeployment.
+- Agent-process evidence: [[tsr-s4-alexandrwang-v3-tsr-s4-alexandrwang-v3]] describes [[AgentData]] as records of how people plan, gather context, act, check constraints, and recover when models fail.
+- Environment-and-evaluation evidence: [[134-shuju-de-zongshu-he-xiechen-liao-xinshidai-de-shiyou-lishi-bantu-shuju-jinzita-dingjia-yu-recipe]] argues that a data engine supplies tasks, environments, feedback, evaluation, failure cases, simulation, and iterative recipe learning.
+
+## Counterevidence & Qualifications
+More feedback is not automatically better learning. Selection bias in reported failures, weak objectives, mislabeled edge cases, simulation gaps, distribution shift, and incentives that reward benchmark success can all distort the loop. The autonomous-driving example is explanatory and source-scoped; it does not by itself establish current fleet architecture, safety performance, or autonomy.
+
+## What Changed
+- Added the build-deploy-collect-retrain-redeploy formulation from autonomous driving.
+- Clarified edge-case selection and objective definition as parts of the engine rather than mere data accumulation.
+- Migrated the page to `synthesis-v1` while preserving the prior source order.
+
+## Related Concepts
+- [[DataAsEducation]] - broader view of data as tasks, feedback, and evaluation rather than files alone.
+- [[AgentData]] - process-level records of expert and agent work inside the loop.
+- [[RoboticsSimulationEvaluation]] - environment and measurement layer for physical systems.
+- [[DataRecipeCoCreation]] - joint discovery of which data mixtures improve a particular model.
+- [[PhysicalWorldDataFlywheel]] - adjacent real-world collection loop shaped by deployed hardware scale.
+- [[AutonomousDrivingDataFlywheel]] - vehicle-specific deployment and feedback branch.
