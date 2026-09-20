@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7659
+wiki_total_pages: 7662
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "ColorectalCancerScreening"
     title: "Colorectal Cancer Screening"
     url: "/wiki/concepts/colorectalcancerscreening/"
+  - key: "ComedyAsInvoluntaryJudgment"
+    title: "Comedy as Involuntary Judgment"
+    url: "/wiki/concepts/comedyasinvoluntaryjudgment/"
   - key: "ComfortLedFootwearDemand"
     title: "Comfort-Led Footwear Demand"
     url: "/wiki/concepts/comfortledfootweardemand/"

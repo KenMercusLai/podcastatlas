@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1133
+topic_total_pages: 1134
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3318,6 +3318,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065"
     title: "The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-ipo-comeback-why-tech-giants-are-finally-going-public-all-in-liquidity-ipo-panel-41557065/"
+  - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
+    title: "The Science & Art of Comedy & Creativity | Tom Segura"
+    url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
   - key: "tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958"
     title: "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti"
     url: "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Science & Art of Comedy & Creativity | Tom Segura](sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033.md) — Huberman Lab conversation on iterative stand-up craft, involuntary laughter, performer-audience state, vulnerability, and creative renewal.
 - [VOL.163近视的人那么多，我该怎么办？眼科主任支招！成人/儿童的近视防控手段](sources/vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc.md) — 这病说来话长 episode on pediatric myopia control, outdoor and near-work habits, orthokeratology, defocus spectacles, low-dose atropine, and cycloplegic refraction.
 - [567. The Great Northern War: Murder in Moscow (Part 4)](sources/567-the-great-northern-war-murder-in-moscow-part-4-glt4718660658.md) — The Rest Is History episode on Peter the Great's modernizing autocracy, grotesque court, Tsarevich Alexei's flight and death, and the durability of Russia's reformed state.
 - [Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools](sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382.md) — Huberman Lab Essentials episode organizing morning light, delayed caffeine, protected work, exercise, meals, afternoon light, cooling, and sleep into one adaptable day.
@@ -2589,6 +2590,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
+- [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
 - [Carthage / 迦太基](entities/Carthage.md) — North African maritime polity that rebuilds through Iberia after the First Punic War and enters war over Saguntum.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander who founds the Barcid Spanish power base inherited by Hannibal.
@@ -12931,6 +12934,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Stand-up Comedy Iteration](concepts/StandupComedyIteration.md) — Live process of turning captured premises into working material through testing, revision, sequencing, and retirement.
+- [Comedy as Involuntary Judgment](concepts/ComedyAsInvoluntaryJudgment.md) — Laughter as rapid felt evidence that remains contextual and partly opaque.
+- [Performer-Audience State Coupling](concepts/PerformerAudienceStateCoupling.md) — Reciprocal shaping of performer readiness and audience emotion during live performance.
 - [Pediatric Myopia Control / 儿童青少年近视防控](concepts/PediatricMyopiaControl.md) — Longitudinal framework for slowing myopia onset or progression through behavior, combined measurement, optical control, and medication without cure claims.
 - [Orthokeratology Myopia Control / 角膜塑形镜近视控制](concepts/OrthokeratologyMyopiaControl.md) — Temporary overnight corneal reshaping for daytime clarity and peripheral defocus, bounded by fitting, hygiene, corneal health, and visual quality.
 - [Cycloplegic Refraction / 睫状肌麻痹验光](concepts/CycloplegicRefraction.md) — Refraction after accommodation is relaxed to reduce childhood prescription overmeasurement and distinguish accommodative effects from stable myopia.

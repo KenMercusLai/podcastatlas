@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-20
-as_of_overview_commit: 78e312c45a7026f9bbb12584e48ef44e30677aa8
-input_digest: 954acfa186aef6c679032e2785407bc8d3f59706c0c3a103fdbc3fd04c772b38
+last_updated: 2026-09-21
+as_of_overview_commit: e7b7c3aa27d89fe81c9866ba004ae1e44cec5563
+input_digest: 3f01ce37a01640eac0bde60b02e0040300e8d1e845c88ed1bacfdc62719eea25
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof. The Nepal follow-up deepens the climate branch by joining hazard mechanics to warning time, repeated displacement, victim identification, ritual loss, hydropower exposure, and delayed loss-and-damage finance.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof. The Nepal follow-up deepens the climate branch by joining hazard mechanics to warning time, repeated displacement, victim identification, ritual loss, hydropower exposure, and delayed loss-and-damage finance. The new comedy source adds a nonclinical boundary case: live laughter and performer-audience state can guide creative iteration, but conversational neuroscience, mental-health, cannabis, exercise, and substance-use remarks do not become clinical evidence.
 
 ## Cross-source Findings
 
@@ -593,3 +593,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 
 - The migration is described through examples rather than measured category data.
 - Using a food category is not inherently an evasion; the source points at a registration-gap incentive rather than proving intent.
+
+### Creative Performance Claims Need Evidence Boundaries
+
+[[the-science-art-of-comedy-creativity-tom-segura-scim7538555033]] adds a nonclinical boundary case to the health-and-science topic: [[TomSegura]], [[StandupComedyIteration]], [[ComedyAsInvoluntaryJudgment]], and [[PerformerAudienceStateCoupling]] show live laughter, silence, vulnerability, and room state functioning as creative feedback, while neuroscience, mental-health, cannabis, exercise, and substance-use remarks remain conversational rather than systematic or clinical evidence.
+
+**Evidence:** [[the-science-art-of-comedy-creativity-tom-segura-scim7538555033]], [[TomSegura]], [[HubermanLab]], [[StandupComedyIteration]], [[ComedyAsInvoluntaryJudgment]], [[PerformerAudienceStateCoupling]], [[CreativityAsFeltProcess]], [[EmotionalContagion]]
+
+**Qualifications:**
+
+- The episode is a comedian-host conversation, not a systematic neuroscience, psychology, addiction, exercise, sleep, or substance-use review.
+- Audience laughter and room-state descriptions support a source-scoped creative-performance model but do not isolate causal mechanisms or establish universal humor laws.
+- Cannabis, exercise, insecurity, therapy, trauma, depression, anxiety, and addiction remarks remain personal or general discussion rather than individualized health guidance.

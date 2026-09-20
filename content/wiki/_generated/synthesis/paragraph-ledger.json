@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e671956dfa4cdc9dbd7f520e2c50fa0c34d3d6e3f4c6e586a2f4fd6f9aeb5159",
       "62866ce94ce01826990fdd772118ad3f2f7c7b4fd833a5c3a8fa2ebfb6a92eb2",
       "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
       "0daa41d2db49e352a061dbc1cbdb9c15c8dec24010707da76c7da3aa45e83a07",
@@ -668,11 +669,35 @@
       "47ae2228246ab9b5b5e6024a10f36bfae6db8aead8a1f432c52d0c8a26254f2a",
       "629aab64da366ba5cc20419e9037b6bf5d77abe32d266168f1c31e099e11ca14"
     ],
-    "paragraph_count": 666
+    "paragraph_count": 667
   },
-  "overview_commit": "ee15cacc45acac5a8d45391555cb4eda1750cb15",
-  "overview_digest": "b277f304adc17ba04618d724a703bf36fd79f5ea8e59856e962fdacc8949586c",
+  "overview_commit": "e7b7c3aa27d89fe81c9866ba004ae1e44cec5563",
+  "overview_digest": "5ded5f943660ff7f7cededcec91e18471b272c5c619e924aff4a1d688b804237",
   "paragraphs": [
+    {
+      "id": "e671956dfa4cdc9dbd7f520e2c50fa0c34d3d6e3f4c6e586a2f4fd6f9aeb5159",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest comedy-and-creativity source, [[the-science-art-of-comedy-creativity-tom-segura-scim7538555033|The Science & Art of Comedy & Creativity | Tom Segura]], extends [[HubermanLab]] through [[TomSegura]], [[BadThoughts]], [[StandupComedyIteration]], [[ComedyAsInvoluntaryJudgment]], and [[PerformerAudienceStateCoupling]], while qualifying [[CreativityAsFeltProcess]] and [[EmotionalContagion]]. Its core synthesis is that stand-up is reciprocal creative research: kernels become material through live laughter or silence, room and performer states change one another, vulnerability lets strangers receive a comic worldview, and retiring proven work restores the risk required for renewal. No settled contradiction is recorded; humor theory, neuroscience, mental-health, cannabis, exercise, and substance-use remarks remain conversational or personal rather than systematic evidence or individualized guidance.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BadThoughts",
+        "ComedyAsInvoluntaryJudgment",
+        "CreativityAsFeltProcess",
+        "EmotionalContagion",
+        "HubermanLab",
+        "PerformerAudienceStateCoupling",
+        "StandupComedyIteration",
+        "TomSegura",
+        "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
+      ]
+    },
     {
       "id": "62866ce94ce01826990fdd772118ad3f2f7c7b4fd833a5c3a8fa2ebfb6a92eb2",
       "primary_topic": "work-education-and-society",

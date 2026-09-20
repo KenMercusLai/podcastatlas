@@ -10430,6 +10430,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/babbittcoffee/"
     },
+    "BadThoughts": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/badthoughts/"
+    },
     "BafangElectric": {
       "episode_count": 2,
       "show_count": 2,
@@ -22189,6 +22205,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/colorectalcancerscreening/"
     },
+    "ComedyAsInvoluntaryJudgment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/comedyasinvoluntaryjudgment/"
+    },
     "ComfortLedFootwearDemand": {
       "episode_count": 2,
       "show_count": 1,
@@ -24456,9 +24488,9 @@
       "url": "/wiki/concepts/creativephaseseparation/"
     },
     "CreativityAsFeltProcess": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -24473,6 +24505,13 @@
           "show": "Talk三联",
           "title": "EP281 对话吴镇宇：困在创伤里的我们，决定重新找回自己",
           "url": "/wiki/sources/ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r/"
+        },
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
         }
       ],
       "updated": "2026-08-31",
@@ -33870,6 +33909,36 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
+    },
+    "EmotionalContagion": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
+          "key": "145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647",
+          "show": "蜜獾吃书",
+          "title": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？",
+          "url": "/wiki/sources/145-jidu-yu-bishi-wo-gai-ruhe-duobi-zhe-shuangxiang-de-dujian-882378647/"
+        },
+        {
+          "episode_file": "123.人性实验：当心你自己！ [779479569].md",
+          "key": "123-renxing-shiyan-dangxin-ni-ziji-779479569",
+          "show": "蜜獾吃书",
+          "title": "123.人性实验：当心你自己！",
+          "url": "/wiki/sources/123-renxing-shiyan-dangxin-ni-ziji-779479569/"
+        },
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/emotionalcontagion/"
     },
     "EmotionalFlashbackGrounding": {
       "episode_count": 1,
@@ -88627,6 +88696,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
+    "PerformerAudienceStateCoupling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/performeraudiencestatecoupling/"
+    },
     "PeriaqueductalGray": {
       "episode_count": 2,
       "show_count": 1,
@@ -107707,6 +107792,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/standupclasspositionequalization/"
     },
+    "StandupComedyIteration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/standupcomedyiteration/"
+    },
     "StanfordInstituteForHumanCenteredAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -115113,6 +115214,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/tomorton/"
+    },
+    "TomSegura": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7538555033 [SCIM7538555033].md",
+          "key": "the-science-art-of-comedy-creativity-tom-segura-scim7538555033",
+          "show": "Huberman Lab",
+          "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+          "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/tomsegura/"
     },
     "TombDesecrationPoliticalViolence": {
       "episode_count": 5,

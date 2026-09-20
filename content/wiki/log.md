@@ -20642,3 +20642,11 @@ Added source `vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizha
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | The Science & Art of Comedy & Creativity | Tom Segura
+
+Added source `the-science-art-of-comedy-creativity-tom-segura-scim7538555033`; created `TomSegura`, `BadThoughts`, `StandupComedyIteration`, `ComedyAsInvoluntaryJudgment`, and `PerformerAudienceStateCoupling`; and updated `CreativityAsFeltProcess`, `EmotionalContagion`, overview, and index. Core synthesis: stand-up turns captured kernels into working material through live audience feedback, while performer and crowd states reciprocally shape what can land. No settled contradiction found; humor theory, neuroscience, mental-health, cannabis, exercise, and substance-use remarks remain conversational or personal rather than systematic evidence or individualized guidance.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

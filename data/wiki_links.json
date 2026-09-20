@@ -7267,6 +7267,10 @@
     "title": "Bad Money",
     "url": "/wiki/concepts/badmoney/"
   },
+  "BadThoughts": {
+    "title": "Bad Thoughts",
+    "url": "/wiki/entities/badthoughts/"
+  },
   "BafangElectric": {
     "title": "Bafang Electric / 八方股份",
     "url": "/wiki/entities/bafangelectric/"
@@ -14002,6 +14006,10 @@
   "Comcast": {
     "title": "Comcast",
     "url": "/wiki/entities/comcast/"
+  },
+  "ComedyAsInvoluntaryJudgment": {
+    "title": "Comedy as Involuntary Judgment",
+    "url": "/wiki/concepts/comedyasinvoluntaryjudgment/"
   },
   "ComfortLedFootwearDemand": {
     "title": "Comfort-Led Footwear Demand",
@@ -47963,6 +47971,10 @@
     "title": "Performative Enforcement Accountability",
     "url": "/wiki/concepts/performativeenforcementaccountability/"
   },
+  "PerformerAudienceStateCoupling": {
+    "title": "Performer-Audience State Coupling",
+    "url": "/wiki/concepts/performeraudiencestatecoupling/"
+  },
   "PeriaqueductalGray": {
     "title": "Periaqueductal Gray",
     "url": "/wiki/concepts/periaqueductalgray/"
@@ -58911,6 +58923,10 @@
     "title": "Stand-Up Class Position Equalization / 脱口秀中的阶层位置重组",
     "url": "/wiki/concepts/standupclasspositionequalization/"
   },
+  "StandupComedyIteration": {
+    "title": "Stand-up Comedy Iteration",
+    "url": "/wiki/concepts/standupcomedyiteration/"
+  },
   "StanfordInstituteForHumanCenteredAI": {
     "title": "Stanford Institute for Human-Centered AI",
     "url": "/wiki/entities/stanfordinstituteforhumancenteredai/"
@@ -63142,6 +63158,10 @@
   "TomSass": {
     "title": "Tom Sass",
     "url": "/wiki/entities/tomsass/"
+  },
+  "TomSegura": {
+    "title": "Tom Segura",
+    "url": "/wiki/entities/tomsegura/"
   },
   "TomasHoloneck": {
     "title": "Tomas Holoneck",
@@ -76958,6 +76978,10 @@
   "the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough": {
     "title": "The real horror of 'Alien' and how it explains why we're not paid enough",
     "url": "/wiki/sources/the-real-horror-of-alien-and-how-it-explains-why-were-not-paid-enough/"
+  },
+  "the-science-art-of-comedy-creativity-tom-segura-scim7538555033": {
+    "title": "The Science & Art of Comedy & Creativity | Tom Segura",
+    "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
   },
   "the-secret-meeting-that-launched-opec": {
     "title": "The secret meeting that launched OPEC",
