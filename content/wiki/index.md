@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Healing From Grief & Loss | Dr. Mary-Frances O'Connor](sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393.md) — Huberman Lab interview on grief as attachment-based learning, continuing bonds, yearning, bodily risk, rumination, and oscillation between loss and restoration.
 - [Why AI models are obsessed with creatures](sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128.md) — Marketplace Tech with Janelle Shane on goblin-heavy personality tuning, small-data signal amplification, alignment patching, and hiring proxy discrimination.
 - [501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？](sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o.md) — 忽左忽右访谈孙明，以人口、盐漕河、胥吏、奏折言路与经世人物解释清中叶积弊、治理规范化悖论及王朝周期感知。
 - [Islamism in Britain: what is the threat?](sources/islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a.md) — The Intelligence on distinguishing Islam from Islamism, non-violent entryism, PREVENT, the Coca-Cola transfer-pricing case, IRS capacity, and ineffective corporate training.
@@ -2579,6 +2580,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Mary-Frances O'Connor](entities/MaryFrancesOConnor.md) — Clinical psychologist and grief researcher framing bereavement through attachment, integration, bodily risk, and non-linear adaptation.
 - [孙明 / Sun Ming (Qing governance scholar)](entities/SunMingQingHistorian.md) — Peking University scholar connecting Qing local administration, intellectual history, accumulated maladies, and cycle perception.
 - [洪亮吉 / Hong Liangji](entities/HongLiangji.md) — Early Qing population and dynastic-condition thinker in the episode's comparative diagnosis.
 - [魏源 / Wei Yuan (Qing thinker)](entities/WeiYuanQingThinker.md) — Mid-Qing statecraft thinker advocating institutional simplification and reform before collapse.
@@ -12906,6 +12908,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Dual-Process Bereavement Oscillation](concepts/DualProcessBereavementOscillation.md) — Healthy-grieving model based on flexible movement between loss-oriented experience and restoration-oriented life.
 - [Automated Hiring Proxy Discrimination](concepts/AutomatedHiringProxyDiscrimination.md) — Risk that hiring models reconstruct demographic differences through names, ZIP codes, or other correlated features.
 - [Behavioral Alignment Patching](concepts/BehavioralAlignmentPatching.md) — Symptom-level model repair through prompts or post-training that can displace behavior or create new side effects.
 - [Fine-Tuning Example Signal Amplification](concepts/FineTuningExampleSignalAmplification.md) — Failure mode where incidental patterns in small or reused post-training datasets become disproportionately strong cues.

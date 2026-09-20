@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1128
+topic_total_pages: 1131
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -496,6 +496,9 @@ topic_concepts:
   - key: "DrawdownPsychology"
     title: "Drawdown Psychology"
     url: "/wiki/concepts/drawdownpsychology/"
+  - key: "DualProcessBereavementOscillation"
+    title: "Dual-Process Bereavement Oscillation"
+    url: "/wiki/concepts/dualprocessbereavementoscillation/"
   - key: "DunbarNumber"
     title: "Dunbar Number / 邓巴数"
     url: "/wiki/concepts/dunbarnumber/"
@@ -2435,6 +2438,9 @@ topic_entities:
   - key: "Mars"
     title: "Mars"
     url: "/wiki/entities/mars/"
+  - key: "MaryFrancesOConnor"
+    title: "Mary-Frances O'Connor"
+    url: "/wiki/entities/maryfrancesoconnor/"
   - key: "MasudHusain"
     title: "Masud Husain"
     url: "/wiki/entities/masudhusain/"
@@ -3216,6 +3222,9 @@ topic_sources:
   - key: "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6"
     title: "Gulf-co-operation counsel: what next for the region"
     url: "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"
+  - key: "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393"
+    title: "Healing From Grief & Loss | Dr. Mary-Frances O'Connor"
+    url: "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
   - key: "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128"
     title: "How convergence will define the tech sector in 2026"
     url: "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"

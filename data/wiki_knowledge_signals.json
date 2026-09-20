@@ -31491,6 +31491,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/duzhouwesternhan/"
     },
+    "DualProcessBereavementOscillation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5061041393 [SCIM5061041393].md",
+          "key": "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393",
+          "show": "Huberman Lab",
+          "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
+          "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/dualprocessbereavementoscillation/"
+    },
     "DuanGongchengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -47849,9 +47865,9 @@
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
     "GriefAttachmentRemapping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -47859,15 +47875,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Process of Healing from Grief",
           "url": "/wiki/sources/essentials-the-science-process-of-healing-from-grief-scim9466548315/"
+        },
+        {
+          "episode_file": "SCIM5061041393 [SCIM5061041393].md",
+          "key": "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393",
+          "show": "Huberman Lab",
+          "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
+          "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/griefattachmentremapping/"
     },
     "GriefPhysiologySupport": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -47875,9 +47898,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Process of Healing from Grief",
           "url": "/wiki/sources/essentials-the-science-process-of-healing-from-grief-scim9466548315/"
+        },
+        {
+          "episode_file": "SCIM5061041393 [SCIM5061041393].md",
+          "key": "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393",
+          "show": "Huberman Lab",
+          "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
+          "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/griefphysiologysupport/"
     },
     "Grokbot": {
@@ -76436,6 +76466,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/martyrdomstaging/"
+    },
+    "MaryFrancesOConnor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5061041393 [SCIM5061041393].md",
+          "key": "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393",
+          "show": "Huberman Lab",
+          "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
+          "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/maryfrancesoconnor/"
     },
     "MaryPickersgill": {
       "episode_count": 1,

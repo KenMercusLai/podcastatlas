@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10318
+wiki_total_pages: 10319
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "MaryQueenOfScots"
     title: "Mary, Queen of Scots"
     url: "/wiki/entities/maryqueenofscots/"
+  - key: "MaryFrancesOConnor"
+    title: "Mary-Frances O'Connor"
+    url: "/wiki/entities/maryfrancesoconnor/"
   - key: "MarylandTransportationAuthority"
     title: "Maryland Transportation Authority"
     url: "/wiki/entities/marylandtransportationauthority/"

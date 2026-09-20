@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7638
+wiki_total_pages: 7639
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -929,6 +929,9 @@ wiki_pages:
   - key: "DualPayloadADC"
     title: "Dual-Payload ADC"
     url: "/wiki/concepts/dualpayloadadc/"
+  - key: "DualProcessBereavementOscillation"
+    title: "Dual-Process Bereavement Oscillation"
+    url: "/wiki/concepts/dualprocessbereavementoscillation/"
   - key: "DualSystemVocationalEducation"
     title: "Dual-System Vocational Education / 双元制职业教育"
     url: "/wiki/concepts/dualsystemvocationaleducation/"

@@ -3,18 +3,30 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-20
-as_of_overview_commit: bcfd8654b6b2700735c37ea4c1e491d82dee326a
-input_digest: 460f3547facb3b1378d91720eb9167026054c7befca8312c2242a51a56b0e149
+last_updated: 2026-09-21
+as_of_overview_commit: e6014b54f822add0a89eabbfba98dd7efc2dd0e4
+input_digest: 532b3e1d765b38e9d3ff20970eb8c8e53bcd8eb73ee89678a646633b898a67d1
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people's early-career window shape future talent and family formation. Digital service work includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust. Hanji 1103 adds that elite access and career danger can coexist: imposed dismissal, preventive resignation, and independent exit differ, and the last requires a credible outside option built from relationships, geography, and resources. Hanji 1097 adds an early-career mobility layer: family support can lower education barriers, school can create teacher and peer access, and later merchant finance can convert accumulated reputation into an initial organization. EP387 adds a team-coordination and labor-recognition layer: apparent flexibility can conceal decision-critical preferences, responsibility avoidance can defeat backup, and edited visibility can distribute credit and blame unevenly; raw-footage, chronology, labor-total, and motive claims remain source-scoped.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people's early-career window shape future talent and family formation. Digital service work includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust. Hanji 1103 adds that elite access and career danger can coexist: imposed dismissal, preventive resignation, and independent exit differ, and the last requires a credible outside option built from relationships, geography, and resources. Hanji 1097 adds an early-career mobility layer: family support can lower education barriers, school can create teacher and peer access, and later merchant finance can convert accumulated reputation into an initial organization. EP387 adds a team-coordination and labor-recognition layer: apparent flexibility can conceal decision-critical preferences, responsibility avoidance can defeat backup, and edited visibility can distribute credit and blame unevenly; raw-footage, chronology, labor-total, and motive claims remain source-scoped. O'Connor's grief source adds a public-health and social-capacity boundary: bereavement adaptation preserves continuing bonds, can oscillate between loss and restoration, and may need bodily, social, medical, or professional support; quantified risks and preliminary interventions remain source-scoped.
 
 ## Cross-source Findings
+
+### Grief Adaptation Needs Social And Medical Capacity
+
+[[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393|O'Connor's grief interview]] enters work, education, and society through grief literacy and public capacity: [[GriefAttachmentRemapping]] treats adaptation as learning physical absence without erasing the bond, [[DualProcessBereavementOscillation]] allows loss and restored life to coexist, and [[GriefPhysiologySupport]] makes social support, bodily regulation, medical attention, and professional care part of bereavement rather than private willpower alone.
+
+**Evidence:** [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393]], [[MaryFrancesOConnor]], [[GriefAttachmentRemapping]], [[DualProcessBereavementOscillation]], [[GriefPhysiologySupport]]
+
+**Qualifications:**
+
+- The source is public education rather than individualized bereavement, medical, psychiatric, or suicide-related care.
+- Cardiovascular multipliers, prevalence, neuroimaging, belief-system, and intervention findings remain source-scoped and require their original studies and clinical context.
+- The aspirin work was proof-of-concept rather than a randomized clinical trial and is explicitly not treatment or self-medication advice.
 
 ### Early Career Capital Compounds Family School And Merchant Support
 

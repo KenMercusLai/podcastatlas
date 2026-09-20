@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "7fc44b5df61df786d4a65b47b8da141b7d5130bafbcefb3ef6eebd1f724c15bb",
       "88e48f5b7958b1ffc438421571d2d3c4e877044844b91d38f70d17fb2cc16f0f",
       "bd158c7e61b294cf406d9e8332cee6f207aada9bff6061c3c91a46b17ebbfab7",
       "cee5b1a692af57169aac182b2228d5b36891ce6389d4dd9048a9d1283a1e55b3",
@@ -662,11 +663,27 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 660
+    "paragraph_count": 661
   },
-  "overview_commit": "cfa6a98168e822acf34cb67a0b22288a210d4744",
-  "overview_digest": "c80c25b77bb39c171fbeb1adda360618e5ec76c8b3c30bab0d2760e334d43f8e",
+  "overview_commit": "e6014b54f822add0a89eabbfba98dd7efc2dd0e4",
+  "overview_digest": "652a3ff495e326f84af8653cb3cca59b0aadf812d9420a3f5b4648e2a02609e4",
   "paragraphs": [
+    {
+      "id": "7fc44b5df61df786d4a65b47b8da141b7d5130bafbcefb3ef6eebd1f724c15bb",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The newest grief source, [[healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393|Healing From Grief & Loss | Dr. Mary-Frances O'Connor]], deepens the wiki's attachment-based account of bereavement. [[MaryFrancesOConnor]] distinguishes grief as the present response from grieving as the learning process that reconciles explicit knowledge of death with an attachment system that still expects an enduring person; [[GriefAttachmentRemapping]] therefore means integration and a continuing internal bond, not erasure. [[DualProcessBereavementOscillation]] adds that loss-oriented pain and restoration-oriented joy, action, or new attachment can coexist, while [[GriefPhysiologySupport]] expands to acute cardiovascular strain, blood-pressure reactivity, social support, movement, breathing, relaxation, and professional care. The five stages remain non-prescriptive, and the episode's heart-risk multipliers, prevalence, neuroimaging, belief-system, and intervention findings remain source-scoped; preliminary aspirin work is explicitly not treatment advice.",
+      "topic_scores": {
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "DualProcessBereavementOscillation",
+        "GriefAttachmentRemapping",
+        "GriefPhysiologySupport",
+        "MaryFrancesOConnor",
+        "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393"
+      ]
+    },
     {
       "id": "88e48f5b7958b1ffc438421571d2d3c4e877044844b91d38f70d17fb2cc16f0f",
       "primary_topic": "ai-and-technology",

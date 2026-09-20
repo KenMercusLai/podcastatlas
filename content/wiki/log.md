@@ -20562,3 +20562,11 @@ Added source `tech-20260915-tech-pod-128-tech-20260915-tech-pod-128`; created `F
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Healing From Grief & Loss | Dr. Mary-Frances O'Connor
+
+Added source `healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393`; created `MaryFrancesOConnor` and `DualProcessBereavementOscillation`; and updated `GriefAttachmentRemapping`, `GriefPhysiologySupport`, overview, and index. Core synthesis: grief is an attachment-rooted response and grieving is non-linear learning that integrates physical absence without erasing the bond, while healthy adaptation oscillates between loss and restoration. No settled contradiction found; cardiovascular, prevalence, neuroimaging, belief-system, and intervention claims remain source-scoped, and preliminary aspirin work is not medical advice.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
