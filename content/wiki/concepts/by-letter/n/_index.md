@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7608
+wiki_total_pages: 7611
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "NonInstrumentalLiteraryReading"
     title: "Non-Instrumental Literary Reading"
     url: "/wiki/concepts/noninstrumentalliteraryreading/"
+  - key: "NonInstrumentalRelationalSafety"
+    title: "Non-Instrumental Relational Safety / 非工具性关系安全"
+    url: "/wiki/concepts/noninstrumentalrelationalsafety/"
   - key: "NonInstrumentalUnderstanding"
     title: "Non-Instrumental Understanding"
     url: "/wiki/concepts/noninstrumentalunderstanding/"

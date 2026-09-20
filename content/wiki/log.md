@@ -20115,6 +20115,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷
+
+Added source `shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j`; created `PatientSymbolizationProjection`, `DeathNarrativeDeromanticization`, and `NonInstrumentalRelationalSafety`; migrated and updated `Ajiao`, `PublicIllnessWriting`, and `ProfessionalDignityBeyondPatientIdentity`; and updated `MeaningThroughExperience`, `SteveShiDiFuShuoHost`, and `ShiDiFuShuo`. Core synthesis: public illness testimony can invite symbolic projection, meaning can sustain without fully explaining pain, death does not become pure, and public affection cannot replace non-instrumental relational safety. No settled contradiction found; medical, prognostic, genetic-risk, near-death, self-harm, and psychological claims remain personal and source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力
 
 Added source `zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x`; updated `CaoCao` and `TianFengLateHan`; migrated and updated `ConstructiveDissent`; and updated `index.md` and `overview.md`. Core synthesis: a favorable result does not retroactively prove that a high-risk decision was sound, and Cao Cao's visible reward of prior objectors protects future criticism in contrast with Yuan Shao's punishment of Tian Feng. No settled contradiction found; exact dialogue, march figures, the unidentified loyalist, literary interpretation, and the Guo Jia career-divide claim remain source-scoped.
@@ -20486,6 +20490,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] ingest | EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？
 
 Added source `ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr`; created `FlowerAndYouthSeason2`, `RealityTVEditingEvidenceBoundary`, `PseudoConsensusTeamFailure`, and `GenderedLaborVisibility`; updated `WushichaYanjiusuo`, overview, and index. Core synthesis: extreme travel conditions, scarce resources, incomplete footage, hidden preferences, responsibility avoidance, and gendered recognition explain the season's conflicts and afterlife more reliably than a single-villain ranking. No settled contradiction found; footage ratio, chronology, labor counts, production decisions, and cast motives remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-20] lint | Wiki health check
 

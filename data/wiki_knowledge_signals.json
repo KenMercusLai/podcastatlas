@@ -5588,6 +5588,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/airportroutesubsidyurbanbranding/"
     },
+    "Ajiao": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "184.真实于我有万钧之重 【欢迎侠女阿娇】 [990545010].md",
+          "key": "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010",
+          "show": "蜜獾吃书",
+          "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
+          "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
+        },
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/ajiao/"
+    },
     "AkronOhio": {
       "episode_count": 1,
       "show_count": 1,
@@ -26725,6 +26748,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
+    },
+    "DeathNarrativeDeromanticization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/deathnarrativederomanticization/"
     },
     "DeathNormalizationPractice": {
       "episode_count": 1,
@@ -76147,6 +76186,36 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/mealreplacementnutritionboundary/"
     },
+    "MeaningThroughExperience": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "98.自卑与超越：向前看，前方有希望 [729396507].md",
+          "key": "98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507",
+          "show": "蜜獾吃书",
+          "title": "98.自卑与超越：向前看，前方有希望",
+          "url": "/wiki/sources/98-zibei-yu-chaoyue-xiangqian-kan-qianfang-you-xiwang-729396507/"
+        },
+        {
+          "episode_file": "184.真实于我有万钧之重 【欢迎侠女阿娇】 [990545010].md",
+          "key": "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010",
+          "show": "蜜獾吃书",
+          "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
+          "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
+        },
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/meaningthroughexperience/"
+    },
     "Medallia": {
       "episode_count": 1,
       "show_count": 1,
@@ -82014,6 +82083,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/nondualmindfulness/"
     },
+    "NonInstrumentalRelationalSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/noninstrumentalrelationalsafety/"
+    },
     "NonMarketEnvironmentalValuation": {
       "episode_count": 1,
       "show_count": 1,
@@ -86331,6 +86416,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/patientsm/"
+    },
+    "PatientSymbolizationProjection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/patientsymbolizationprojection/"
     },
     "PatriciaResnick": {
       "episode_count": 1,
@@ -90980,6 +91081,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/productionvibecoding/"
     },
+    "ProfessionalDignityBeyondPatientIdentity": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "184.真实于我有万钧之重 【欢迎侠女阿娇】 [990545010].md",
+          "key": "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010",
+          "show": "蜜獾吃书",
+          "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
+          "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
+        },
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/professionaldignitybeyondpatientidentity/"
+    },
     "ProfessionalServicesBillableHour": {
       "episode_count": 1,
       "show_count": 1,
@@ -91780,6 +91904,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/publichealthinformationtriage/"
+    },
+    "PublicIllnessWriting": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "184.真实于我有万钧之重 【欢迎侠女阿娇】 [990545010].md",
+          "key": "184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010",
+          "show": "蜜獾吃书",
+          "title": "184.真实于我有万钧之重：欢迎侠女阿娇",
+          "url": "/wiki/sources/184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010/"
+        },
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/publicillnesswriting/"
     },
     "PublicReasonPrivateMotive": {
       "episode_count": 1,
@@ -101901,9 +102048,9 @@
       "url": "/wiki/entities/shidewesternhan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -101953,9 +102100,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
           "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        },
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiGaoWesternHan": {
@@ -106021,9 +106175,9 @@
       "url": "/wiki/entities/stevehilton/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -106080,9 +106234,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？",
           "url": "/wiki/sources/shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb/"
+        },
+        {
+          "episode_file": "lvjFqVPu-EtzFtdXKE0DUg5L9f5J [lvjFqVPu-EtzFtdXKE0DUg5L9f5J].md",
+          "key": "shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷",
+          "url": "/wiki/sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/steveshidifushuohost/"
     },
     "SteveYoungMelanomaPatient": {

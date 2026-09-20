@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7608
+wiki_total_pages: 7611
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "PatientDignityInDailyCare"
     title: "Patient Dignity In Daily Care / 日常照护中的患者尊严"
     url: "/wiki/concepts/patientdignityindailycare/"
+  - key: "PatientSymbolizationProjection"
+    title: "Patient Symbolization And Projection / 病人符号化与投射"
+    url: "/wiki/concepts/patientsymbolizationprojection/"
   - key: "PatientDerivedOrganoids"
     title: "Patient-Derived Organoids"
     url: "/wiki/concepts/patientderivedorganoids/"

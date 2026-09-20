@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7608
+wiki_total_pages: 7611
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "DeafEducationBelonging"
     title: "Deaf Education And Belonging"
     url: "/wiki/concepts/deafeducationbelonging/"
+  - key: "DeathNarrativeDeromanticization"
+    title: "Death Narrative De-Romanticization / 死亡叙事去浪漫化"
+    url: "/wiki/concepts/deathnarrativederomanticization/"
   - key: "DeathNormalizationPractice"
     title: "Death Normalization Practice / 死亡日常化练习"
     url: "/wiki/concepts/deathnormalizationpractice/"

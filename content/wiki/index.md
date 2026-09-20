@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说473期 - 阿娇 - 我们遥望着站在火山口的她，感叹风景很酷](sources/shi-di-fu-shuo-473-ajiao-women-yaowang-zhe-zhan-zai-huoshankou-de-ta-gantan-fengjing-hen-ku-lvjfqvpu-etzftdxke0dug5l9f5j.md) — 史蒂夫说 conversation with Ajiao on patient symbolization, public projection, explanatory limits, relational safety, bodily survival, and de-romanticizing death.
 - [EP387-内娱名著《花少2》又又又上热搜｜究竟谁才是终极狼人？](sources/ep387-neiyu-mingzhu-huashao-2-youyouyou-shangresou-jiujing-shui-caishi-zhongji-langren-gkwrirwofzopajzxyatybpqr.md) — 无时差研究所 episode rereading 《花儿与少年》第二季 through incomplete editing, pseudo-consensus, coordination failure, gendered labor visibility, and changing workplace interpretation.
 - [图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？](sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031.md) — 声动早咖啡 episode on Want Want's hero-product dependence, formula and governance constraints, fragmented marketing, and channels that favor old hits over launches.
 - [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0.md) — 硅谷101 episode on decode bandwidth, SRAM/HBM tradeoffs, Groq's static scheduling, Cerebras's wafer-scale route, HanaPino's power-first heterogeneity, and Bill Dally's locality philosophy.
@@ -3575,8 +3576,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [al-Idrisi / 伊德里希](entities/AlIdrisi.md) — Ceuta-born medieval geographer used to show the city's role in Mediterranean knowledge circulation.
 - [John I of Portugal / 若昂一世](entities/JohnIOfPortugal.md) — Aviz monarch under whom Portugal captured Ceuta in 1415.
 - [Henry the Navigator / 恩里克王子](entities/HenryTheNavigator.md) — Portuguese prince associated with the 1415 Ceuta campaign and later expansion memory.
-- [史蒂夫说](entities/ShiDiFuShuo.md) — psychology and relationships podcast/show context for anxiety interviews and counselor-letter episodes on trauma, overthinking, body, and care.
-- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — host who grounds 史蒂夫说 psychology conversations in personal body, shame, family, relationship, and listener-letter examples.
+- [史蒂夫说](entities/ShiDiFuShuo.md) — Psychology and relationships show spanning anxiety, trauma, embodiment, intimacy, philosophy, illness, mortality, and conversations that preserve uncertainty.
+- [Steve (史蒂夫说 host)](entities/SteveShiDiFuShuoHost.md) — Host who connects psychology to body, family, relationship, philosophy, and the limits of explanation and empathy.
 - [赵金昭 / Dr. Claire](entities/ZhaoJinzhao.md) — counseling psychologist and Texas clinical psychologist interviewed about anxiety decomposition and gentle support.
 - [《蝲蛄吟唱的地方》 / Where the Crawdads Sing](entities/WhereTheCrawdadsSing.md) — Delia Owens novel read by Culture Limited as a female-growth, marsh-marginality, nature-writing, mystery, and justice-ambiguity case.
 - [《沼泽深处的女孩》 / Where the Crawdads Sing Film](entities/WhereTheCrawdadsSingFilm.md) — Film adaptation critiqued for prettifying Kya's poverty, compressing childhood, simplifying poetry, and weakening point-of-view coherence.
@@ -10679,7 +10680,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Peter Navarro](entities/PeterNavarro.md) — Trump trade-policy figure used by the episode to explain tariff support through manufacturing, wages, defense industry, and supply-chain security.
 - [William McKinley](entities/WilliamMcKinley.md) — Historical U.S. president used as an analogy for high tariffs, gold-standard discipline, industrial protection, and domestic-market leverage.
 - [Department of Education](entities/DepartmentOfEducation.md) — U.S. federal education agency treated as a central institutional target of Project 2025 and the Republican platform.
-- [阿娇 / 柱子哥](entities/Ajiao.md) — Writer, overseas-work professional, and public cancer narrator who connects rescue action, illness writing, professional dignity, and death-facing public expression.
+- [阿娇 / 柱子哥](entities/Ajiao.md) — Writer, overseas-work professional, rescuer, and public cancer narrator examining dignity, projection, meaning, relational safety, and death.
 - [《我还想看见》](entities/WoHaiXiangKanjian.md) — Ajiao's book discussed as a dated self-record, illness narrative, and broader portrait beyond the anti-cancer blogger label.
 - [哈迪亚营救事件](entities/HadiyaRescueEvent.md) — Emergency rescue thread where QinZong, AnQi, Ajiao, and others coordinated help after Hadiya Haidari's family faced detention and deportation risk in Pakistan.
 - [Pakistan](entities/Pakistan.md) — Displacement, banking, detention, and deportation-risk setting in the Hadiya Haidari publication and rescue thread.
@@ -12884,6 +12885,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Patient Symbolization And Projection / 病人符号化与投射](concepts/PatientSymbolizationProjection.md) — How a publicly visible ill person can be reduced to a patient symbol, moral example, or container for collective fear and hope.
+- [Death Narrative De-Romanticization / 死亡叙事去浪漫化](concepts/DeathNarrativeDeromanticization.md) — Boundary against treating approaching death as pure, clarifying, beautiful, or fully knowable.
+- [Non-Instrumental Relational Safety / 非工具性关系安全](concepts/NonInstrumentalRelationalSafety.md) — Felt permission to remain cared for without being useful, productive, composed, or inspiring.
 - [Reality-TV Editing Evidence Boundary / 真人秀剪辑证据边界](concepts/RealityTVEditingEvidenceBoundary.md) — Limit on personality and motive claims drawn from selected, sequenced, and recirculated reality-TV footage.
 - [Pseudo-Consensus Team Failure / 团队伪共识](concepts/PseudoConsensusTeamFailure.md) — Coordination failure created when public flexibility conceals incompatible preferences and constraints.
 - [Gendered Labor Visibility / 性别化劳动可见性](concepts/GenderedLaborVisibility.md) — Uneven recognition of comparable carrying, driving, planning, care, and repair work through gendered expectations.
@@ -18752,11 +18756,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Supply Chain Sovereignty](concepts/SupplyChainSovereignty.md) — Policy idea that domestic workers, allies, energy supply, and strategic inputs should reduce vulnerable foreign production dependence.
 - [Trade Reciprocity Protectionism](concepts/TradeReciprocityProtectionism.md) — Tariff frame where reciprocal treatment and industrial restoration justify protectionism as fairness rather than only import taxation.
 - [American Protectionist Tradition](concepts/AmericanProtectionistTradition.md) — Historical tariff and industrial-policy lineage linking Hamilton, Carey, McKinley, domestic-market leverage, and Trump-era trade politics.
-- [Public Illness Writing](concepts/PublicIllnessWriting.md) — Ajiao's frame for making illness, bodily decline, hospice, patients, elders, and death publicly speakable without reducing the writer to inspiration.
+- [Public Illness Writing](concepts/PublicIllnessWriting.md) — Making illness and dying speakable while resisting inspirational performance, patient symbolization, and universal-method claims.
 - [Whole-Process Cancer Documentation](concepts/WholeProcessCancerDocumentation.md) — Ajiao's "养成系" ambition to record cancer from diagnosis through recurrence, deterioration, and death, including negative states.
 - [安宁疗护 / Hospice Care](concepts/HospiceCare.md) — End-of-life care and death-quality frame introduced through Ajiao's discussion of late-stage cancer and public illness writing.
-- [Meaning Through Experience](concepts/MeaningThroughExperience.md) — Ajiao's view that life meaning is made through experience, presence, self-narration, and action inside limited time.
-- [Professional Dignity Beyond Patient Identity](concepts/ProfessionalDignityBeyondPatientIdentity.md) — Boundary against evaluating a sick person only through sympathy rather than professional craft, expertise, and judgment.
+- [Meaning Through Experience](concepts/MeaningThroughExperience.md) — Meaning made through experience, action, relationship, and narration while remaining partial, revisable, and unable to justify suffering.
+- [Professional Dignity Beyond Patient Identity](concepts/ProfessionalDignityBeyondPatientIdentity.md) — Boundary against sympathy or sacred deference replacing relevant judgment, accommodation, and ordinary disagreement.
 - [Overseas Identity Reset](concepts/OverseasIdentityReset.md) — Pattern where working abroad lets a person loosen domestic labels and names, while remaining tied to risk and loneliness.
 - [Unprotected Overseas Work](concepts/UnprotectedOverseasWork.md) — Overseas-work pattern where autonomy comes without the representative office, HR, colleagues, or emergency support of a large organization.
 - [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, oral variants, and EP249's Minnan mediumship practice coexist without one standard doctrine.
