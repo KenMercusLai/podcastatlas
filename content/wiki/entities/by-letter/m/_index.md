@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1526,6 +1526,9 @@ wiki_pages:
   - key: "MinshengSecurities"
     title: "民生证券 / Minsheng Securities"
     url: "/wiki/entities/minshengsecurities/"
+  - key: "MianKouLateHan"
+    title: "沔口 / Mian Kou (late Han)"
+    url: "/wiki/entities/miankoulatehan/"
   - key: "MiaoShuNittanWuyu"
     title: "淼叔 / Miao Shu"
     url: "/wiki/entities/miaoshunittanwuyu/"

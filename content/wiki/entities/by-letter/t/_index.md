@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "TalonEnergy"
     title: "Talon Energy"
     url: "/wiki/entities/talonenergy/"
+  - key: "TamakiDenny"
+    title: "Tamaki Denny"
+    url: "/wiki/entities/tamakidenny/"
   - key: "TamaraClay"
     title: "Tamara Clay"
     url: "/wiki/entities/tamaraclay/"
@@ -404,6 +407,9 @@ wiki_pages:
   - key: "TheMomTest"
     title: "The Mom Test"
     url: "/wiki/entities/themomtest/"
+  - key: "TheNewDarkAges"
+    title: "The New Dark Ages"
+    url: "/wiki/entities/thenewdarkages/"
   - key: "TheNightAgent"
     title: "The Night Agent"
     url: "/wiki/entities/thenightagent/"
@@ -1325,6 +1331,9 @@ wiki_pages:
   - key: "TiaozhiKingdom"
     title: "条支国 / Tiaozhi Kingdom"
     url: "/wiki/entities/tiaozhikingdom/"
+  - key: "Tonglu"
+    title: "桐庐"
+    url: "/wiki/entities/tonglu/"
   - key: "TanZi"
     title: "檀子 / Tan Zi"
     url: "/wiki/entities/tanzi/"
@@ -1511,6 +1520,9 @@ wiki_pages:
   - key: "TaoqiuHongLateHan"
     title: "陶丘洪 / Taoqiu Hong (late Han)"
     url: "/wiki/entities/taoqiuhonglatehan/"
+  - key: "TaoKan"
+    title: "陶侃 / Tao Kan"
+    url: "/wiki/entities/taokan/"
   - key: "TaoYuanming"
     title: "陶渊明 / Tao Yuanming"
     url: "/wiki/entities/taoyuanming/"

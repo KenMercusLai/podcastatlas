@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "DisasterSilenceAndShame"
     title: "Disaster Silence And Shame / 灾难后的沉默与羞耻"
     url: "/wiki/concepts/disastersilenceandshame/"
+  - key: "DisasterVictimIdentificationAndBodyAbsentMourning"
+    title: "Disaster Victim Identification and Body-Absent Mourning"
+    url: "/wiki/concepts/disastervictimidentificationandbodyabsentmourning/"
   - key: "DisasterExploitingConquestTiming"
     title: "Disaster-Exploiting Conquest Timing / 趁灾进攻时机"
     url: "/wiki/concepts/disasterexploitingconquesttiming/"
@@ -716,6 +719,9 @@ wiki_pages:
   - key: "DisneyVaultHomeVideoEconomics"
     title: "Disney Vault Home Video Economics"
     url: "/wiki/concepts/disneyvaulthomevideoeconomics/"
+  - key: "DisorderStabilizationByStillness"
+    title: "Disorder Stabilization by Stillness / 以静制乱式识别"
+    url: "/wiki/concepts/disorderstabilizationbystillness/"
   - key: "DisorderCollapseExploitation"
     title: "Disorder-Collapse Exploitation / 取乱侮亡"
     url: "/wiki/concepts/disordercollapseexploitation/"

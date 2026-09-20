@@ -7,13 +7,14 @@ sources:
   - dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79
   - wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42
   - yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian
-last_updated: 2026-09-19
+  - niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504
+last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
 
 ## Overview
-[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, and the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation.
+[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, and the human aftermath of Nepal's August 2026 flood.
 
 ## Current Profile
 Across the current evidence, the show works as reported explanatory journalism rather than commentary-only audio. The 旺旺 episode combines mainland volunteer testimony, animal-law expertise, Hong Kong street interviews, and institutional controversy to connect one cruelty case to [[ChinaAnimalProtectionLawGap]], [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]].
@@ -24,6 +25,8 @@ The Taiwan myna episode adds an environmental-reporting branch. Through [[XuZhen
 
 The Shidai Fengjun episode adds a media-reconstruction and gender-politics branch. It works from disappearing original footage, competing clips, a narrow official notice, and divergent platform narratives to keep chronology and organization claims bounded while analyzing [[FragmentedVideoEventReconstruction]], [[GenderedFandomDelegitimation]], and [[SharedPoliticalLegitimacyVocabulary]].
 
+The Nepal episode adds foreign disaster reporting centered on lived aftermath and institutional linkage. It moves from body-absent funerals and repeated displacement to temporary burial, DNA identification, hydropower damage, failed [[CrossBorderDisasterEarlyWarning]], and [[LossAndDamageClimateFinance]], while explicitly leaving unstable figures and machine-translated names qualified.
+
 ## Key Characteristics
 - The episode is structured as reported journalism with named correspondents and interviewees.
 - Its core method is cross-border comparison between mainland expression constraints and Hong Kong's still-possible but cautious public action.
@@ -31,6 +34,7 @@ The Shidai Fengjun episode adds a media-reconstruction and gender-politics branc
 - It can use a first-person reporter experiment to examine how platforms change news attention and ethical judgment.
 - It can turn a viral animal or environmental controversy into a slower explainer about evidence, classification, and ethical responsibility.
 - It can reconstruct a contested street event while distinguishing visible acts from unproven chronology, organization, and motive.
+- It can connect intimate disaster testimony and ritual loss to warning systems, infrastructure, state capacity, and climate justice.
 
 ## Evidence
 - Reported-source profile: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] names the show in front matter and follows mainland and Hong Kong reporting threads.
@@ -39,12 +43,13 @@ The Shidai Fengjun episode adds a media-reconstruction and gender-politics branc
 - Platform critique: [[dang-xinwen-chengwei-dupan-jizhe-keyi-da-zhuan-yibi-ma-f8800ef95c64ad18f08802b15cd20b79]] moves from trading outcome to binary settlement, user culture, gendered attention, and journalism's relationship to human stories.
 - Environmental explainer method: [[wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42]] moves from one nightjar livestream incident to alien-species definitions, evidence gaps, public hatred, and differentiated management.
 - Contested-event reconstruction: [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian]] compares disappearing originals, partial police footage, platform edits, official framing, and gendered interpretation without claiming a complete chronology.
+- Disaster-reporting method: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] uses named family cases, forensic procedure, infrastructure loss, warning delay, and climate finance to connect individual grief with institutional failure.
 
 ## Qualifications
-The wiki has only four sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode also lacks enough primary footage and testimony to establish a complete event chronology or a coordinated male organization.
+The wiki has only five sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal transcript contains unstable figures, possible translation errors, and little Chinese-side evidence.
 
 ## What Changed
-- Added contested-event reconstruction, gender analysis, and political-language analysis from the Shidai Fengjun episode.
+- Added foreign disaster reporting that connects family testimony and ritual loss to warning, infrastructure, and climate-finance systems.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -62,3 +67,7 @@ The wiki has only four sources on the podcast. Broader claims about the show's o
 - [[FragmentedVideoEventReconstruction]] - media-evidence relationship through disappearing and selectively edited footage.
 - [[GenderedFandomDelegitimation]] - gender-and-fandom analysis relationship.
 - [[SharedPoliticalLegitimacyVocabulary]] - political-discourse analysis relationship.
+- [[Nepal]] - country subject in the Himalayan flood episode.
+- [[CrossBorderDisasterEarlyWarning]] - regional warning-system topic relationship.
+- [[LossAndDamageClimateFinance]] - climate-justice funding topic relationship.
+- [[DisasterVictimIdentificationAndBodyAbsentMourning]] - forensic and ritual aftermath topic relationship.

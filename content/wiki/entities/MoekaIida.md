@@ -2,22 +2,50 @@
 title: "Moeka Iida"
 type: entity
 tags: [person, journalism, japan]
-sources: [elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db, the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7, kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]
-last_updated: 2026-08-26
+sources:
+  - elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db
+  - the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7
+  - kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165
+  - rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd
+last_updated: 2026-09-20
+knowledge_schema: synthesis-v1
 ---
 
 # Moeka Iida
 
-[[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] adds Iida as the reporter on [[Japan]]'s [[EmploymentIceAgeGeneration|employment ice age generation]]. Her segment uses [[TorigoeAtsushi]] to show how graduating into post-bubble hiring freezes can leave [[EntryCohortLaborMarketScarring]] through low pay, irregular work, weaker lifetime earnings, pension exposure, and housing insecurity.
+## Overview
+Moeka Iida is a [[TheIntelligence]] reporter whose Japan coverage connects national policy and social change to household, cohort, housing, and prefectural experience.
 
-Moeka Iida appears in [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] as the contributor explaining [[Japan]]'s post-divorce [[JointCustodyReform]]. The segment uses one mother's experience, weak visitation practice, simple administrative divorce procedures, and changing paternal involvement to show why legal reform arrived after social norms had already begun shifting.
+## Current Profile
+Across four sources, Iida reports on post-divorce custody, stigmatized housing, employment-cohort scarring, and Okinawan base politics. Her work consistently shows formal policy operating through lived norms: legal reform can lag parental expectations, disclosure can coexist with ritual stigma, labor recovery can leave lifetime scars, and national security can conflict with local burden and economic need.
 
-Her analysis frames the reform as a lagging institutional response rather than a simple technical amendment. The law has to operate inside a broader debate over whether parent-child obligations continue after marriage ends, especially in a society shaped by the [[CleanBreakDivorceModel]].
+## Key Characteristics
+- Grounds policy stories in individual or place-based cases.
+- Connects legal and market rules to social norms and material pressure.
+- Treats reform as incomplete when household or institutional practice does not change.
+- Covers both mainland Japanese systems and Okinawa's distinctive historical and security position.
 
-[[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] adds Iida as the reporter on [[JikobukkenIncidentProperty|jiko bukken]], or Japanese incident properties. Her segment uses an apartment where an isolated elderly woman died unnoticed to connect death stigma, Buddhist mourning, housing discounts, [[MatsubaraTanishi]], and [[Kachimodo]] to [[HousingStigmaDiscount]].
+## Evidence
+### Family law and housing norms
+- Source grounding - [[the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7]] uses one mother's experience to explain [[JointCustodyReform]] and the [[CleanBreakDivorceModel]].
+- Source grounding - [[kyiv-brawl-ukraines-top-general-fired-6a609aec4fac21e67f1be165]] connects incident-property discounts to death stigma, ritual, disclosure, and rising living costs.
 
-## Connections
-- [[Japan]] - country and legal context.
-- [[JointCustodyReform]] and [[CleanBreakDivorceModel]] - core concepts in her segment.
-- [[JikobukkenIncidentProperty]], [[HousingStigmaDiscount]], [[MatsubaraTanishi]], and [[Kachimodo]] - incident-property branch added by the Kyiv brawl source.
-- [[TheIntelligence]] - podcast context.
+### Cohort and regional political economy
+- Source grounding - [[elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db]] reports how early-career labor shocks persist through pay, pensions, and housing.
+- Source grounding - [[rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd]] links Okinawa's election to base burdens, failed resistance, poverty, and generational change.
+
+## Qualifications
+- This profile reflects only the reporting represented in the wiki's four source notes.
+- The Okinawa segment preserves mixed local views and does not equate one landslide with unanimous base support.
+
+## What Changed
+- Iida's wiki profile now includes regional security and electoral politics alongside social-policy reporting.
+- Okinawa adds a local-national authority conflict to her recurring focus on rules versus lived outcomes.
+
+## Relationships
+- [[Japan]] - primary national setting of the represented reporting.
+- [[TheIntelligence]] - podcast carrying her reports.
+- [[Okinawa]] - prefectural setting of her 2026 election report.
+- [[EmploymentIceAgeGeneration]] - cohort-level labor scarring covered in an earlier segment.
+- [[JointCustodyReform]] - legal reform whose social implementation she explains.
+- [[JikobukkenIncidentProperty]] - housing category where market discount and cultural stigma interact.

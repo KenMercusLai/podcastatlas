@@ -6,44 +6,41 @@ tags: [software, mobile, product-design, developer-workflow]
 sources:
   - vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1
   - no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u
-last_updated: 2026-09-12
+  - tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4
+last_updated: 2026-09-20
 ---
+
 # Foldable App Adaptation
 
 ## Definition
-Foldable app adaptation is the software and design work needed to make an app behave well across folded, unfolded, inner-screen, outer-screen, and partially folded device states.
+Foldable app adaptation is the software and design work needed to make an app behave usefully across folded, unfolded, inner-screen, outer-screen, rotated, and partially folded device states.
 
 ## Current Synthesis
-Vol. 174 treats [[IPhoneDuo|iPhone Duo]] as a developer burden as much as a consumer product. A foldable phone changes width, posture, tab placement, continuity expectations, and compatibility fallbacks. 三五环 No.233 adds the consumer-side consequence: adaptation is not the same as a genuinely rethought large-screen experience, and China's national apps can decide whether the unfolded device feels like a real small tablet or just a resized phone.
+Foldables convert screen size into a state-management and ecosystem-coordination problem. Apps must preserve continuity while changing width, posture, navigation, information density, and multitasking behavior. Compatibility modes keep software available but can expose black bars or inflated phone layouts. The new source adds a circular adoption constraint: developers wait for device volume before investing, while users discount the hardware when important apps remain unadapted. A major platform entrant can improve coordination, but does not guarantee thoughtful local super-app design.
 
 ## Key Claims
-- Foldables convert screen size into state management: apps must handle inner and outer displays, rotation-like layout changes, and continuity between modes.
-- Platform conventions such as a right-side tab bar can force redesign even after developers have adapted to the previous iOS version.
-- Compatibility modes protect app availability but can make unadapted apps visibly second-class.
-- The adaptation burden depends on tooling disclosure: developers need simulator and documentation access early enough to test real layouts.
-- Platform owners may use limited multitasking or compatibility pressure to encourage native foldable layouts.
-- Reported adaptation percentages can overstate lived quality because filling the screen, splitting panels, and rethinking the task flow are different levels of adaptation.
-- National super-apps can dominate the perceived ecosystem quality in a local market even when the platform owner's tablet ecosystem is mature.
+- Foldable support requires continuity and layout decisions across multiple screen states, not only responsive resizing.
+- Compatibility prevents outright failure but can leave an app visibly and functionally second-class.
+- Filling the screen, splitting columns, and redesigning the task flow are different levels of adaptation quality.
+- Developers need early tools, simulators, documentation, and credible device volume to justify adaptation work.
+- National super-apps can dominate perceived ecosystem quality in a local market.
+- Platform and handset scale can break the developer-user coordination loop, but only if incentives reach high-use applications.
 
 ## Evidence
-- Layout evidence: [[vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1]] says Duo's wide screen and right-side tab bar require revisiting app adaptation.
-- Tooling evidence: [[vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1]] says pre-event documents and simulator did not reveal the Duo form, creating expectations for an Xcode 27.1 simulator.
-- Compatibility evidence: [[vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1]] says unadapted apps may show black bars or iPad-like enlarged iPhone behavior.
-- Platform-pressure evidence: [[vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1]] speculates that Apple may limit multitasking to push developers toward adaptation.
-- Experience-quality evidence: [[no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u]] distinguishes nominal "adaptation" from apps that are actually redesigned for large-screen interaction rather than simply filling space or splitting columns.
-- Local-ecosystem evidence: [[no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u]] says WeChat, Alipay, and other Chinese national apps remain decisive for everyday foldable iPhone experience even if Apple's iPad ecosystem is strong.
+- Layout and tooling evidence: [[vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1]] says a wider layout, side tab bar, compatibility behavior, and simulator timing can force developers to revisit app work.
+- Experience-quality evidence: [[no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u]] distinguishes nominal screen filling from genuinely rethought large-screen interaction and highlights WeChat and Alipay in China.
+- Coordination evidence: [[tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4]] says software studios prioritize high-volume devices and may wait for market scale before supporting a new foldable format.
 
 ## Counterevidence & Qualifications
-The sources are developer and product commentary before long-term ecosystem behavior is visible. Actual APIs, review pressure, user adoption, simulator timing, app-store incentives, Chinese super-app support, and the difference between nominal and high-quality adaptation may soften or intensify the burden.
+The sources are pre- or early-market commentary rather than a measured account of long-term developer behavior. Actual APIs, platform pressure, app-store incentives, device sales, opening frequency, and super-app support may weaken or intensify the coordination problem. The newest source's optimism about a mid-size foldable ecosystem is Xiaomi-sponsored.
 
 ## What Changed
-- Added the consumer-quality distinction between nominal adaptation and real large-screen redesign.
-- Added China-market super-app adaptation as a local ecosystem constraint.
+- Added the two-sided coordination problem between developer investment and device adoption.
+- Qualified ecosystem optimism by preserving sponsorship and scale uncertainty.
 
 ## Related Concepts
-- [[IPhoneDuo]] - device prompting the adaptation problem.
-- [[FoldablePhoneProductivity]] - user-value frame that depends on adapted software.
-- [[DeviceFormFactorFragmentation]] - wider device-shape divergence that increases adaptation pressure.
-- [[Xcode]] - developer environment where simulator support becomes important.
-- [[OSLevelContext]] - platform context that can make layouts and assistant behavior more native.
-- [[AICodingVerification]] - adjacent developer-tooling frame where simulator and compiler feedback support adaptation.
+- [[FoldablePhoneProductivity]] - user value that adapted software must create.
+- [[DeviceFormFactorFragmentation]] - device-shape divergence that increases adaptation pressure.
+- [[SmartphoneOperatingSystemEcosystems]] - platform layer coordinating developers and users.
+- [[MobileTechnologyConvergence]] - broader system in which software maturity can bottleneck hardware value.
+- [[Xcode]] - developer tooling surface highlighted by the iPhone Duo source.

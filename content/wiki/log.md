@@ -20107,6 +20107,14 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1085丨东吴拿下江夏，等于剜了刘表的心？
+
+Added source `zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u`; created `ChenJiuLateHan` and `MianKouLateHan`; updated `HuangZu`, `JiangxiaCommanderyLateHan`, `DongXiLateHan`, `LingTong`, `LyuMeng`, `GanNing`, `RiverCorridorStrategicBase`, `WarAsViolentRedistribution`, `index.md`, and `overview.md`. Core synthesis: Wu's 208 CE victory at Jiangxia combined a river-barrier breach with transfer of population, ships, shipbuilding, trained naval capacity, and corridor access. No settled contradiction found; exact numbers, naval details, shipyard claims, revenge framing, and the Red Cliffs relative-year statement remain source-scoped.
+
+## [2026-09-20] ingest | 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
+
+Added source `tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4`; created `YangYangTelecomResearcher`, `MobileTechnologyConvergence`, `Industrial5GDeploymentConstraint`, `MobileNetworkEnergyTradeoff`, `CellularSatelliteComplementarity`, and `AmbientVoiceAgentInterface`; migrated and updated `GSMStandardization`, `FiveG`, and `SmartphoneAIHub`; updated `FoldablePhoneProductivity`, `FoldableAppAdaptation`, `overview.md`, and `index.md`. Core synthesis: mobile systems become useful only when networks, standards, chips, batteries, spectrum, software ecosystems, form factors, and ownership models align; future interaction may distribute the hub across a phone, body-worn microphone, edge nodes, and cloud services. No settled contradiction found; the microphone endpoint qualifies rather than eliminates the phone-hub thesis, while Xiaomi-sponsored foldable forecasts and quantitative specifications remain source-scoped.
+
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1103丨曹操两次回老家，真是因为官场失意吗？
 
 Added source `zizhi-tongjian-hanji-1103-caocao-liangci-hui-laojia-zhen-shi-yinwei-guanchang-shiyi-ma-lq_e-te21mwhczyomeyxcem1brkz`; created `InstitutionalExitEscalation`; migrated and updated `CaoCao`, `CaoSong`, and `Chenliu`; and updated `CaoTengLateHan`, `index.md`, and `overview.md`. Core synthesis: Cao Cao's first return to Qiao was an imposed dismissal by association, his second is interpreted as preventive resignation under eunuch and local-elite retaliation risk, and his final break from Dong Zhuo became viable through Zhang Miao's protection and Chenliu's geography and resources. No settled contradiction found; Jinan motive, simplified appointment mechanics, and Cao Song's possible financing of the first army remain source-scoped.
@@ -20226,6 +20234,122 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] ingest | 《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？
 
 Added source `zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq`; created `JiangxiaCommanderyLateHan` and `PeripheralCommandExitStrategy`; updated `LiuQiLateHan`, `ZhugeLiang`, `CaiMao`, `LiuCongLateHan`, and `HuangZu`; and updated `index.md` and `overview.md`. Core synthesis: Liu Qi's move to Jiangxia turns retreat from a hostile succession center into capacity-preserving survival, while Zhuge Liang's indirect historical analogy separates immediate life-saving counsel from the host's stronger hidden Liu Bei-strategy claim. No settled contradiction found; household genealogy, naval control, exact dialogue, the fifty-five local-leader count, and centralized-management claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？
+
+Added source `zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj`; created `ZhiXiLateHan`, `LuCuiLateHan`, and `KongRongChildren`; updated `KongRong`, `MoralSlanderReframing`, `FuneraryDefianceUnderPoliticalTerror`, `index.md`, and `overview.md`. Core synthesis: Kong Rong's capital-region challenge is followed by a charge bundle that joins political security, association, hierarchy, and “unfilial” stigma; earlier responsibility-taking and reported mourning qualify the moral label, his children's deaths expose household-level punishment, and Zhi Xi's public mourning preserves reputation under fear. No settled contradiction found; “希律” is normalized to 路粹, while proposal wording, charge text, sayings, children's ages and genders, dialogue, and Cao Cao's motive remain source-scoped.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？
+
+Added source `zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i`; updated `KongRong`, migrated and extended `PrestigeCapacityGap`, and updated `index.md` and `overview.md`. Core synthesis: the liquor-ban retort, campaign mockery, and fabricated King Wu-Daji analogy supply the public-provocation prelude to Hanji 1090, showing that cultural prestige and verbal brilliance do not automatically become calibrated dissent or survival capacity under concentrated coercive power. No settled contradiction found; the awakening frame and arrogance diagnosis remain source interpretations, the 2008 date is corrected to 208 CE, and corrupt transcript names, exact wording, household details, motives, and campaign identity remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？
+
+Added source `zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil`; created `ZhangJiCaoOfficialLateHan`, `LeJinLateHan`, and `DisorderStabilizationByStillness`; updated `ZhangLiao`, `ZhaoYanLateHan`, `MaTeng`, `MaChao`, `LoyaltyCollateralDilemma`, `index.md`, and `overview.md`. Core synthesis: Zhang Liao contains a minority night mutiny by making stillness an identification rule, Zhao Yan coordinates rival commands through delegated authority, and Zhang Ji turns Ma Teng's promised court journey into a public commitment before office, command, and household are separated. No settled contradiction found; transcript names are normalized where context is clear, while quotations, exact numbers, motives, genealogy, office mechanics, institutional-precursor claims, household timing, and the hostage maxim remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint after health and identity validation passed across 20,342 wiki pages. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), one broken source wikilink in `wiki/concepts/MoralSlanderReframing.md`, no missing entity pages, and no sparse pages. Graph-aware checks used the 2026-09-02 snapshot with 16,930 nodes, so their result of no hub stubs, one fragile bridge, and no isolated communities is advisory against the larger current wiki. Semantic lint via LiteLLM failed because the default model lacks a provider prefix; a bounded in-session review of the same 20-page sample found no direct contradictions or clearly stale summaries and flagged corroboration risk for broad single-source concepts. Report returned in-session; `wiki/lint-report.md` was not updated.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？
+
+Added source `zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq`; created `SimaYi` and `SelectionDrivenVirtueSignaling`; updated `CuiYanLateHan` and migrated `MaoJie` to `synthesis-v1`; and updated `index.md` and `overview.md`. Core synthesis: Cui Yan and Mao Jie's selection criteria make visible frugality into a political safety and advancement signal without proving inner virtue, while Sima Yi's claimed illness fails as refusal once Cao Cao threatens arrest. No settled contradiction found; the awakening opening is unrelated framing, while the reform's strategic purpose, elite sincerity, great-clan displacement, later punishments, exact recruitment dialogue, illness truth, motives, Cao Shuang comparison, and *Book of Jin* intent remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？
+
+Added source `zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf`; created `SuFeiLateHan`, `LingCaoLateHan`, `PersonalGuaranteeClemency`, and `ViolenceToInstitutionalLegitimacy`; updated `GanNing`, `LingTong`, `SunQuan`, and `index.md`. Core synthesis: Gan Ning converts remembered aid into a life-backed guarantee that secures Su Fei's pardon, while Sun Quan retains Gan Ning and Ling Tong by prohibiting revenge and separating them; the host also interprets Gan Ning's career as an institutional conversion of irregular force into authorized command. No settled contradiction found; the boxes, dialogue, kowtow injury, feud attempts, exact reassignment, motives, and chancellor-office interpretation remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | #405 从地理边界到思维边界：我们如何被「划界」塑造？
+
+Added source `405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc`; created `SongNianshen`, `RelationalBorder`, `ModernBoundaryHardening`, `ColonialCategoryAfterlife`, `HistoricalInternationalLaw`, and `ProblemLedInterdisciplinarity`; updated `XuTao`, `ShengdongJixi`, `NortheastModernityTestSite`, and `index.md`. Core synthesis: borders remain relational and porous in lived practice even when modern states, documents, property systems, imperial competition, and colonial categories make them more exclusive; inherited law and disciplinary categories should be historicized rather than treated as neutral starting points. No settled contradiction found; the episode qualifies the “empires have frontiers, nation-states have borders” shorthand with early Tumen-Yalu demarcation, while claims about colonial partitions, Rwanda, international law, Russia-NATO relations, and capitalist expansion remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | Rise and shine: Warsh's Fed rate test
+
+Added source `rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd`; created `ArchieHall`, `Okinawa`, `KojaGentar`, `TamakiDenny`, `Henoko`, `OkinawaBasePolitics`, and `ClimateAlteredSummer`; migrated and updated `KevinWarsh`, `CentralBankIndependence`, and `MoekaIida`; and updated `index.md` and `overview.md`. Core synthesis: Warsh's first increase is evidence against mechanical presidential obedience but not proof of a settled doctrine because markets and committee unanimity also constrained him; Okinawa's landslide reprioritized income and delivery over failed Henoko resistance without eliminating mixed base sentiment; and warming is reshaping seasonal calendars, tourism, hazards, and outdoor culture. No settled contradiction found; economic data, election implications, name spelling, and climate projections remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | Insurers race to cover AI errors
+
+Added source `tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128`; created `CorgiAIInsurance`, `Claimy`, `GallagherInsurance`, `Deloitte`, `NicoLacqua`, `InesButemacha`, `JohnFarleyGallagher`, `AILiabilityInsurance`, `AIAgentRiskTesting`, and `AIInsuranceDataScarcity`. Core synthesis: explicit AI coverage and possible traditional-policy exclusions are diverging responses to thin historical loss data, while claim-oriented agent tests can link remediation to lower premiums and turn underwriting into a pre-loss safety incentive. No settled contradiction found; adoption, market-size, policy-language, pricing, regulatory-approval, and claims-performance claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战
+
+Added source `no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748`; created `Tonglu`, `ChinaPost`, `NieTengfei`, `ChenDejun`, `YuWeijiao`, `LaiMeisong`, `WangWeiSF`, `LiJieJAndT`, `STOExpress`, `YTOExpress`, `ZTOExpress`, `YundaExpress`, `JAndTExpress`, `Cainiao`, `TongluExpressCluster`, `PostalMonopolyPrivateExpressLegalization`, `ChinaExpressFranchiseModel`, `ExpressNetworkInfrastructureCentralization`, `PlatformExpressInterdependence`, `EcommerceExpressPriceWar`, `LastMileCourierCompensation`, and `ExpressAntiInvolutionPriceFloor`; and updated `index.md` and `overview.md`. Core synthesis: hometown trust and franchise capital enabled fast national coverage, platform demand and centralized logistics infrastructure made low-cost scale possible, and volume incentives transferred price-war pressure to outlets and couriers until regional cost-floor regulation created a partial pricing reset. No settled contradiction found; origin stories, legal details, transaction values, operating metrics, and 2025-2026 figures remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 尼泊爾特大洪災現場：一場沒有遺體的葬禮
+
+Added source `niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504`; created `CrossBorderDisasterEarlyWarning`, `LossAndDamageClimateFinance`, and `DisasterVictimIdentificationAndBodyAbsentMourning`; updated `DuanwenNewsPodcast`, `Nepal`, `HinduKushHimalaya`, `HimalayanGlacialFloodRisk`, `HydropowerConcentrationRisk`, `ClimateAidRetrenchment`, `index.md`, and `overview.md`. Core synthesis: the flood's long aftermath joins physical hazard to institutional time—upstream warning failed to become downstream evacuation time, incomplete 2015 reconstruction preserved exposure, dispersed remains made identification part of grief care, hydropower concentration widened the economic shock, and climate finance did not arrive in time. No settled contradiction found; the episode extends the September 1 account, while casualty, missing-person, loss, and fund figures remain provisional, names may be mistranslated, and the funding arithmetic is internally inconsistent.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | The End of the World Is AI? An Existential Threat
+
+Added source `the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b`; created `AlexHearn`, `JamesMarriott`, `TheNewDarkAges`, `OralTurnPoliticalCommunication`, and `IndianCheeseMarketAdaptation`; updated `AIDoomerism`, `AIModelSandboxEscape`, `AISafetyCoordination`, `AdvancedAIDevelopmentPause`, `AIIndustrySelfRegulation`, `SecondaryOralityInAIEra`, `ReadingComprehensionFragility`, `WalterOng`, `JacobCoxon`, `EvanHubinger`, `index.md`, and `overview.md`. Core synthesis: uncertain catastrophic risk can justify precaution when operational failures are concrete, but slowdown remains a coordination problem shaped by defection, capability diffusion, and U.S.-China distrust; the oral-culture segment links declining long-form attention to rhetoric optimized for podcasts, clips, repetition, and concrete symbols; and the India segment shows vegetable enzymes enabling market adaptation alongside indigenous-cheese revival. No settled contradiction found; extinction probabilities, incident mechanics, hardware-lag estimates, reading causality, and cheese-market figures remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | AI safety requires action, not promises
+
+Added source `tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128`; created `IncentiveCompatibleAISafety`; updated `AmyWebb`, `PacingTheFrontier`, `VoluntaryAISafetyCommitments`, `AIIndustrySelfRegulation`, `AIRegulatoryCaptureRisk`, `index.md`, and `overview.md`. Core synthesis: AI-safety commitments need accountable action, durable independent review, cross-border incentives, and participation costs that smaller developers can bear; otherwise sincere safety measures can still become an artificial moat. No settled contradiction found; institutional analogies, leader agreement, compliance costs, and policy mechanics remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1084丨诸葛亮凭什么成为三国顶流？这招绝了！
+
+Added source `zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd`; created `PangDegongLateHan` and `SimaHuiLateHan`; updated and migrated `PangTong` and `ZhaoWenLateHan`; updated `ZhugeLiang`, `GanNing`, `EliteEndorsementReputationMaking`, `index.md`, and `overview.md`. Core synthesis: evaluator standing makes prepared talent legible, Zhao Wen's formal recruitment authority collides with Cao Cao's concentrated control, and Gan Ning turns underuse plus direct knowledge of Huang Zu into a specific westward proposal. No settled contradiction found; modern personal-brand analogies, appraisal wording, motives, institutional claims, speech, chronology, and internal-condition details remain source-scoped, while “2010年／囚嫌令” is normalized cautiously to 210 CE and 《求贤令》.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？
+
+Added source `zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3`; created `StrategicExclusionAndFocus` and `TaoKan`; updated `LiuBei`, `ZhugeLiang`, `LongzhongPlan`, `PangTong`, `SimaHuiLateHan`, `PangDegongLateHan`, `EliteEndorsementReputationMaking`, and `index.md`. Core synthesis: strong execution does not create a durable position without a strategy that excludes premature fights, concentrates scarce resources on a base and coalition path, and adapts sequence when conditions change. No settled contradiction found; “no prior strategy” is narrowed to absence of an integrated territorial program, while founder-adviser suspicion, factional explanations of Guan Yu's death, exact dialogue, motives, and the “近日不错” textual claim remain source-scoped.
 
 ## [2026-09-20] lint | Wiki health check
 

@@ -3,18 +3,29 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-09-19
-as_of_overview_commit: 59b6d589f4f38241c04db077124154414644d0b0
-input_digest: 112b8e3af68fa0d52500ddb6f9f6d7f71ad337ef87d5d51c8ac37230e168388a
+last_updated: 2026-09-20
+as_of_overview_commit: 78e312c45a7026f9bbb12584e48ef44e30677aa8
+input_digest: d3f2d39e315686bdf30afe6e05841341a179cbf7cc901a862b7467dfd780df6a
 ---
 
 # Culture and Media
 
 ## Current State
 
-Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public deep-time artifacts, and fragmented video do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, authoritative, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, demographic generalization, technical capability, symbolic behavior change, and incomplete event reconstruction. The Chongqing Shidai Fengjun episode adds a contested-event layer in which disappearing originals, selective clips, gendered scrutiny, and shared legitimacy language shape public meaning without resolving chronology or organization.
+Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public deep-time artifacts, and fragmented video do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, authoritative, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, demographic generalization, technical capability, symbolic behavior change, and incomplete event reconstruction. The Chongqing Shidai Fengjun episode adds a contested-event layer in which disappearing originals, selective clips, gendered scrutiny, and shared legitimacy language shape public meaning without resolving chronology or organization. The Nepal flood follow-up adds a disaster-culture branch in which field reporting connects symbolic funerals and damaged pilgrimage traditions to forensic identification, repeated displacement, and institutional delay without treating provisional figures as settled.
 
 ## Cross-source Findings
+
+### Disaster Reporting Links Ritual Loss To Institutional Time
+
+[[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504|The Nepal flood follow-up]] extends [[DuanwenNewsPodcast]] into foreign disaster reporting: [[DisasterVictimIdentificationAndBodyAbsentMourning]] shows kush-grass funerals, temporary burial, and later DNA matching making ritual practice and forensic procedure part of the same account of loss, while damaged pilgrimage traditions show culture as disaster infrastructure rather than decorative aftermath.
+
+**Evidence:** [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]], [[DuanwenNewsPodcast]], [[DisasterVictimIdentificationAndBodyAbsentMourning]]
+
+**Qualifications:**
+
+- The episode is a journalistic account with provisional figures, possible translated-name errors, and no complete identification or long-term family-outcome record.
+- Symbolic funerals are treated as adaptive mourning practices, not as substitutes that remove the importance of identifying and returning remains.
 
 ### Form Makes Knowledge Legible
 

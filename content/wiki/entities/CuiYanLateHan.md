@@ -5,27 +5,28 @@ tags: [person, late-han, adviser, yuan-shao]
 sources:
   - zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4
   - zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth
+  - zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-06
+last_updated: 2026-09-20
 ---
 
 # 崔琰 / Cui Yan (late Han)
 
 ## Overview
-崔琰 / Cui Yan (late Han) is a late-Han adviser and official whose bounded wiki profile now spans two power centers: he first appears as a cautioning voice in [[YuanShao|袁绍]]'s pre-[[GuanduCampaign|官渡]] field, then reappears after [[CaoCao|曹操]] takes [[JizhouLateHan|冀州]] as a biejia who criticizes Cao for reading the province first as manpower.
+崔琰 / Cui Yan (late Han) is a late-Han adviser and official whose bounded wiki profile spans legitimacy warning, people-first remonstrance, and personnel selection across the [[YuanShao|袁绍]] and [[CaoCao|曹操]] power centers. His severity is repeatedly directed toward public standards, but a later source also previews his death under the ruler whose personnel order he served.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4|Hanji 1033]] identifies Cui Yan as a Qinghe man and Qi commandant who joins [[JuShou|沮授]]'s cautionary side after [[GuoTu|郭图]] and [[ShenPeiLateHan|审配]] have pushed immediate war. Cui Yan's argument is legitimacy-centered: with the emperor in Xudu and public feeling attached there, Yuan Shao should not attack. Yuan Shao ignores this warning because visible force, grain, and family prestige already make victory seem likely.
+Cui Yan's profile is consistent across different power centers: he evaluates political action against public legitimacy and welfare rather than against the ruler's immediate sense of advantage. Under [[YuanShao|袁绍]], he joins [[JuShou|沮授]]'s cautionary side and argues that attacking while the emperor is in Xudu runs against public attachment; Yuan Shao's force, grain, and family prestige make the warning easy to ignore. Under [[CaoCao|曹操]], Cui Yan serves as Jizhou biejia and rebukes Cao for seeing 300,000 potential soldiers before seeing a war-worn population that needs consolation. Cao apologizes, making the scene an example of severe but public-interest-oriented correction rather than self-aggrandizing familiarity. These roles are grounded respectively in [[zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4|Hanji 1033]] and [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]].
 
-[[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]] moves Cui Yan into Cao Cao's post-Ye Jizhou administration. Cao appoints him biejia and remarks that Jizhou can supply 300,000 able-bodied soldiers; Cui Yan rebukes this priority, arguing that the province has just suffered disorder and needs consolation before extraction. Cao apologizes. The source uses the scene to distinguish blunt public-interest remonstrance from reckless status insult: Cui Yan is severe, but his speech is framed as governance correction rather than self-aggrandizing familiarity.
+The same standard-setting tendency later appears in personnel administration. Cui Yan and [[MaoJie|毛玠]] are said to favor substance, modesty, and harmony while rejecting flashy reputation, false display, and faction-building; the resulting official behavior is interpreted as [[SelectionDrivenVirtueSignaling|选官驱动的德行表演]]. Cui Yan's praise also brings [[SimaYi|司马懿]] to Cao Cao's attention. [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] then previews Cui Yan's 216 execution, but its claim that he became a victim of the moral system he enforced remains the host's interpretation rather than a fully developed case.
 
 ## Key Characteristics
-- Source-scoped late-Han adviser or official in Yuan Shao's pre-Guandu debate environment.
-- Adds an independent legitimacy warning after Ju Shou's broader strategic caution.
-- Treats the emperor's presence at Xudu as a public-opinion constraint on Yuan Shao's campaign.
-- Later serves Cao Cao in Jizhou as biejia after the Ye victory.
-- Criticizes conquest-as-conscription thinking by redirecting attention to exhausted civilians.
-- Is ignored by Yuan Shao but answered with apology by Cao Cao, making reception of blunt counsel part of his bounded significance.
+- Warns Yuan Shao that the emperor's presence at Xudu creates a legitimacy and public-opinion constraint.
+- Serves Cao Cao in Jizhou and redirects conquest-as-conscription thinking toward exhausted civilians.
+- Uses severe speech as governance correction rather than public self-aggrandizement in the bounded cases.
+- Jointly applies substantive and moral selection criteria with Mao Jie in the 208 CE source.
+- Praises Sima Yi's intelligence and decisiveness, helping bring him to Cao Cao's attention.
+- Is later executed by Cao Cao, though the cause and full case are not developed by these sources.
 
 ## Evidence
 - Legitimacy warning: [[zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4|Hanji 1033]] says Cui Yan warns Yuan Shao that the emperor is at Xudu and public feeling has attached there.
@@ -33,13 +34,16 @@ last_updated: 2026-09-06
 - Jizhou appointment: [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]] says Cao Cao appoints Cui Yan as biejia after taking Jizhou.
 - People-first remonstrance: [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]] says Cui Yan criticizes Cao Cao for speaking first of 300,000 recruitable men rather than comforting the war-worn people.
 - Cao Cao's apology: [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]] says Cao Cao apologizes after Cui Yan's rebuke.
+- Personnel standard: [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] says Cui Yan and Mao Jie reject flashy reputation and faction-building while favoring substance, modesty, and harmony.
+- Sima Yi recommendation: [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] says Cui Yan's praise reaches Cao Cao before Sima Yi's coerced recruitment.
+- Later fate: [[zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq|Hanji 1087]] dates Cui Yan's execution to 216 CE but compresses the accusation and process.
 
 ## Qualifications
-This page remains narrow. The bounded sources do not build Cui Yan's full biography; Hanji 1064 briefly previews his later execution but the page does not treat that preview as a developed evidence layer. The durable synthesis is that Cui Yan repeatedly appears as a severe corrector whose warnings are tied to legitimacy or public welfare, while reception depends on the ruler's willingness to process uncomfortable speech.
+This page remains narrow. The bounded sources do not build Cui Yan's full biography or adjudicate the charge behind his execution. Hanji 1087's claim that official frugality was broadly performative, that the selection reform displaced great-clan power, and that Cui Yan became a victim of his own moral standard are interpretive and need wider textual corroboration. The durable synthesis is that Cui Yan repeatedly appears as a severe standard-setter whose warnings are tied to legitimacy, public welfare, or personnel conduct, while concentrated power determines how long such correction remains tolerable.
 
 ## What Changed
-- Created the page from Hanji 1033.
-- Added Hanji 1064's Jizhou biejia appointment and people-first remonstrance to Cao Cao.
+- Added the joint selection role with Mao Jie and the behavioral effects attributed to their criteria.
+- Added Cui Yan's praise of Sima Yi and bounded the later-execution preview.
 
 ## Relationships
 - [[YuanShao|袁绍]] - leader who ignores Cui Yan's warning.
@@ -50,3 +54,6 @@ This page remains narrow. The bounded sources do not build Cui Yan's full biogra
 - [[JizhouLateHan|冀州]] - conquered province where Cui Yan redirects Cao Cao from manpower extraction toward civilian consolation.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - governance frame behind Cui Yan's objection to treating Jizhou first as a recruitment base.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - related problem of how correct warnings fail in Yuan Shao's hierarchy.
+- [[MaoJie|毛玠]] - joint official selector in the 208 CE source.
+- [[SimaYi|司马懿]] - younger figure whose ability Cui Yan praises before Cao Cao summons him.
+- [[SelectionDrivenVirtueSignaling|选官驱动的德行表演]] - public behavioral response attributed to the pair's criteria.

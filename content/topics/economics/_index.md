@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2059
+topic_total_pages: 2064
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1558,6 +1558,9 @@ topic_concepts:
   - key: "IndexReentryDiscipline"
     title: "Index Reentry Discipline"
     url: "/wiki/concepts/indexreentrydiscipline/"
+  - key: "IndianCheeseMarketAdaptation"
+    title: "Indian Cheese Market Adaptation"
+    url: "/wiki/concepts/indiancheesemarketadaptation/"
   - key: "IndustryToFinanceCareerPath"
     title: "Industry-To-Finance Career Path / 产业转金融职业路径"
     url: "/wiki/concepts/industrytofinancecareerpath/"
@@ -1816,6 +1819,9 @@ topic_concepts:
   - key: "LongDistanceTradeFriction"
     title: "Long-Distance Trade Friction"
     url: "/wiki/concepts/longdistancetradefriction/"
+  - key: "LossAndDamageClimateFinance"
+    title: "Loss and Damage Climate Finance"
+    url: "/wiki/concepts/lossanddamageclimatefinance/"
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"
@@ -1954,6 +1960,9 @@ topic_concepts:
   - key: "ModelRoutingCostControl"
     title: "Model Routing Cost Control"
     url: "/wiki/concepts/modelroutingcostcontrol/"
+  - key: "ModernBoundaryHardening"
+    title: "Modern Boundary Hardening / 现代边界硬化"
+    url: "/wiki/concepts/modernboundaryhardening/"
   - key: "ModernizationAsCompoundGrowth"
     title: "Modernization As Compound Growth / 复合增长式现代化"
     url: "/wiki/concepts/modernizationascompoundgrowth/"
@@ -3242,6 +3251,9 @@ topic_entities:
   - key: "ArashFerdowsi"
     title: "Arash Ferdowsi"
     url: "/wiki/entities/arashferdowsi/"
+  - key: "ArchieHall"
+    title: "Archie Hall"
+    url: "/wiki/entities/archiehall/"
   - key: "AresManagement"
     title: "Ares Management"
     url: "/wiki/entities/aresmanagement/"
@@ -5925,6 +5937,9 @@ topic_sources:
   - key: "riding-with-the-repo-man-update"
     title: "Riding with the repo man (update)"
     url: "/wiki/sources/riding-with-the-repo-man-update/"
+  - key: "rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd"
+    title: "Rise and shine: Warsh's Fed rate test"
+    url: "/wiki/sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd/"
   - key: "tsr-s4-ronconway-v4-tsr-s4-ronconway-v4"
     title: "Ron Conway on Founder Advocacy, Angel Investing, and the Internet's First Wave"
     url: "/wiki/sources/tsr-s4-ronconway-v4-tsr-s4-ronconway-v4/"

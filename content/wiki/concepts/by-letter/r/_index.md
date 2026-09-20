@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "RejectionTolerancePractice"
     title: "Rejection Tolerance Practice"
     url: "/wiki/concepts/rejectiontolerancepractice/"
+  - key: "RelationalBorder"
+    title: "Relational Border / 关系性边界"
+    url: "/wiki/concepts/relationalborder/"
   - key: "RelationalFateNetwork"
     title: "Relational Fate Network / 关系命运网络"
     url: "/wiki/concepts/relationalfatenetwork/"

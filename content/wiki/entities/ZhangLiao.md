@@ -6,25 +6,29 @@ sources:
   - zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68
   - zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1
   - zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk
-last_updated: 2026-08-29
+  - zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil
+last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
 
 # 张辽 / Zhang Liao
 
 ## Overview
-张辽 / Zhang Liao is a Bingzhou-origin military figure who moves in the wiki from a [[LyuBu|吕布]] faction marker to a Cao-incorporated officer and, in Hanji 1054, a commander who can convert siege pressure into surrender through psychological reading and personal guarantee.
+张辽 / Zhang Liao is a Bingzhou-origin military figure who moves in the wiki from a [[LyuBu|吕布]] faction marker to a Cao-incorporated officer able to read behavior under siege and restore order during internal camp disorder.
 
 ## Current Profile
 Zhang Liao first enters as part of Lü Bu's military-side core alongside [[GaoShun|高顺]], contrasting with [[ChenGongLateHan|陈宫]]'s Yanzhou士族 adviser channel during [[HaoMeng|郝萌]]'s revolt. Hanji 1026 then gives his transition: after [[CaoCao|曹操]] captures [[Xiapi|下邳]] and executes Lü Bu, Zhang Liao leads a surrender and receives appointment as zhonglangjiang.
 
 Hanji 1054 adds an independent command-quality case. Sent with [[XiahouYuan|夏侯渊]] to besiege [[ChangXiLateHan|昌豨]], Zhang Liao notices that Chang Xi keeps looking at him and shoots fewer arrows. He reads the behavior as wavering, uses old acquaintance to lower fear, frames Cao Cao's strength and the benefits of surrender, gives a personal guarantee, and visits Chang Xi's family alone to make the guarantee credible.
 
+Hanji 1088 adds the internal-crisis counterpart. During a night fire and mutiny before a move to Changshe, Zhang Liao judges that the disturbance comes from a minority rather than the whole camp. He orders uninvolved troops to remain still and holds the center with several dozen men, turning movement into an identification signal until the camp settles and the leader is captured. The source connects the unrest to Zhang Liao's recent receipt of [[CaoHong|曹洪]]'s former troops, but that old-versus-new resource explanation remains interpretive.
+
 ## Key Characteristics
 - Bingzhou military-core figure inside Lü Bu's organization before Xiapi.
 - Usable former-enemy capacity whom Cao Cao separates from Lü Bu's fatal unreliability after surrender.
 - Reads battlefield psychology from small behavioral shifts rather than only from force ratios.
 - Combines coercive pressure with old ties, interest framing, and personal trust to secure surrender.
+- Separates a minority mutiny from general panic and uses a simple stillness rule to reduce identification uncertainty.
 - His Hanji 1054 success remains tactically real but politically qualified because Chang Xi later rebels again.
 
 ## Evidence
@@ -32,14 +36,15 @@ Hanji 1054 adds an independent command-quality case. Sent with [[XiahouYuan|夏�
 - Surrender and appointment: [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] says Zhang Liao leads a surrender after Xiapi and is appointed zhonglangjiang, making him part of Cao Cao's selective post-Lü-Bu incorporation.
 - Chang Xi observation: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]] has Zhang Liao infer hesitation from Chang Xi's gaze and reduced shooting during a months-long siege.
 - Persuasion and guarantee: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]] shows Zhang Liao persuading Chang Xi through old ties, Cao Cao's strength, promised survival and office, personal guarantee, and a solo family visit.
+- Night-disorder diagnosis: [[zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil|Hanji 1088]] says Zhang Liao rejects the assumption of general rebellion and orders uninvolved troops to remain still.
+- Stabilization and exposure: [[zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil|Hanji 1088]] has him hold the camp center with several dozen men until order returns and the leader is captured.
 
 ## Qualifications
-The current page still does not narrate Zhang Liao's later famous independent career. Hanji 1054 proves a successful surrender episode, not permanent pacification: the same source says Chang Xi later rebels again and is killed by [[YuJin|于禁]]. The page therefore treats Zhang Liao's persuasion as a real command skill inside a limited incorporation outcome.
+The current page still does not narrate Zhang Liao's later famous independent career. Hanji 1054 proves a successful surrender episode, not permanent pacification: the same source says Chang Xi later rebels again and is killed by [[YuJin|于禁]]. Hanji 1088's tactic likewise proves immediate stabilization, not a settled explanation of the mutiny; the Cao Hong troop-transfer cause, quotations, number of companions, and textual link to the *Art of War* remain source-scoped.
 
 ## What Changed
-- Migrated the compact legacy page to synthesis-v1.
-- Added Hanji 1054 as Zhang Liao's first detailed independent skill case in the wiki.
-- Clarified that the Chang Xi persuasion extends Zhang Liao from military capacity into psychological command and negotiation.
+- Added Hanji 1088's night-mutiny case as an internal command counterpart to the Chang Xi persuasion.
+- Identified diagnosis, movement restriction, visible command presence, and leader exposure as the current tactical sequence.
 
 ## Relationships
 - [[LyuBu|吕布]] - former commander whose military core includes Zhang Liao.
@@ -52,3 +57,5 @@ The current page still does not narrate Zhang Liao's later famous independent ca
 - [[ChangXiLateHan|昌豨]] - target whose wavering Zhang Liao reads and converts into surrender.
 - [[ForceBackedSurrenderPersuasion|武力背书式劝降]] - concept illustrated by Zhang Liao's blend of pressure and persuasion.
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]] - Cao-side pattern that first incorporates Zhang Liao and later attempts to incorporate Chang Xi.
+- [[CaoHong|曹洪]] - former commander of troops whose transfer the source associates with the night mutiny.
+- [[DisorderStabilizationByStillness|以静制乱式识别]] - crisis-control pattern abstracted from the night-camp response.

@@ -16,6 +16,7 @@ sources:
   - zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz
   - zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn
   - zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn
+  - zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf
 last_updated: 2026-09-20
 ---
 
@@ -27,7 +28,7 @@ last_updated: 2026-09-20
 ## Current Profile
 Sun Quan begins inside the Sun Jian-Lady Wu family and resource network, then becomes explicit successor when [[SunCe|孙策]] transfers the seal. The first transition is collective rather than self-sufficient: [[ZhangZhaoLateHan|张昭]] turns grief into visible camp authority, [[ZhouYuLateHan|周瑜]] returns to support the center, [[ZhangHongLateHan|张纮]] discourages Cao Cao from attacking during mourning, and [[LadyWuSunJian|吴夫人]] helps authorize the new order.
 
-The successor gradually exercises independent judgment. He values [[LuSu|鲁肃]] despite criticism, promotes [[LyuMeng|吕蒙]] after inspecting troop quality, accepts [[LuoTong|骆统]]'s talent counsel, suppresses Sun Fu and Li Shu, and responds to Shanyue pressure by embedding commanders in counties and using He Qi's pacification to rebuild administration and extract troops. He also refuses Cao Cao's hostage demand after Zhou Yu and Lady Wu argue that Jiangdong has enough territory, grain, people, and force to preserve autonomy.
+The successor gradually exercises independent judgment. He values [[LuSu|鲁肃]] despite criticism, promotes [[LyuMeng|吕蒙]] after inspecting troop quality, accepts [[LuoTong|骆统]]'s talent counsel, suppresses Sun Fu and Li Shu, and responds to Shanyue pressure by embedding commanders in counties and using He Qi's pacification to rebuild administration and extract troops. Hanji 1086 adds conflict containment after the defeat of Huang Zu: Sun Quan accepts [[GanNing|甘宁]]'s life-backed plea for [[SuFeiLateHan|苏飞]], then preserves both Gan Ning and [[LingTong|凌统]] by forbidding revenge and separating the officers. He also refuses Cao Cao's hostage demand after Zhou Yu and Lady Wu argue that Jiangdong has enough territory, grain, people, and force to preserve autonomy.
 
 Hanji 1099 supplies the external consequence of that consolidation. Lu Su can present Sun Quan to defeated [[LiuBei|刘备]] as a partner with six commanderies, troops, supplies, and a talent base, rather than merely another refuge. Hanji 1101 then tests the same autonomy under direct coercion: Zhang Zhao argues for surrender after Cao Cao takes Jingzhou, while Lu Su warns that Sun Quan's ruler status makes capitulation uniquely dangerous. [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] completes the decision: Sun Quan accepts the role-asymmetry argument, recalls Zhou Yu, hears a political and operational case against Cao Cao's intimidation, closes further surrender debate, and turns judgment into a resourced deployment.
 
@@ -35,7 +36,7 @@ Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su
 
 ## Key Characteristics
 - Inherits authority through a civil-military-family support structure rather than through designation alone.
-- Develops independent personnel judgment and can retain advisers whom senior figures criticize.
+- Develops independent personnel judgment and uses conditional mercy plus separation to retain useful people without pretending that private blood feuds have disappeared.
 - Preserves autonomy by refusing hostage-backed dependency on Cao Cao.
 - Consolidates rule through internal discipline, county pacification, administration, and military extraction.
 - Accumulates enough regional capacity to become the stronger partner in the Sun-Liu alliance opening while preserving options until partner capacity is known.
@@ -47,6 +48,7 @@ Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su
 - Succession and recognition: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] records the seal transfer and camp stabilization; [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] adds Zhang Hong's protection, formal recognition, and Lu Su's recommendation.
 - Autonomy and personnel judgment: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] shows the hostage refusal; [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] shows talent recognition and suppression of internal threats.
 - Territorial embedding: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] shows a failed Huang Zu attack followed by Shanyue pacification, county reconstruction, and troop selection.
+- Clemency and feud containment: [[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf|Hanji 1086]] has Sun Quan spare Su Fei on Gan Ning's guarantee, forbid Ling Tong's revenge, and reduce contact through reassignment.
 - Alliance value: [[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|Hanji 1099]] presents Sun Quan's territory, force, supplies, and talent concentration as the reason Liu Bei should choose Jiangdong over Wu Ju.
 - Surrender exposure: [[zizhi-tongjian-hanji-1101-tongwei-geju-zhuhou-sunquan-pingsha-gan-gen-caocao-jiaoban-lo1cdnjb5iljou-1ojzxso10eqcv|Hanji 1101]] contrasts Zhang Zhao's capitulation case with Lu Su's warning about the ruler's unique downside.
 - Resistance commitment: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] shows Sun Quan combine Lu Su's stakeholder-risk distinction with Zhou Yu's campaign analysis, then assign an initial force to Zhou Yu and [[ChengPuLateHan|程普]] while promising further support.
@@ -54,12 +56,12 @@ Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su
 - Coalition interrogation: [[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn|Hanji 1100]] shows Sun Quan respond to Zhuge Liang's dignity challenge by asking what a recently defeated Liu Bei can actually contribute.
 
 ## Qualifications
-Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; and Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded.
+Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1086's prepared boxes, dialogue, emotional response, pardon mechanics, and exact reassignment remain source-scoped; clemency in one case does not erase the intended execution of Huang Zu or establish a general rule. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; and Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded.
 
 ## What Changed
-- Added the intermediate negotiation stage between hedged exploration and the later surrender debate.
-- Clarified that Sun Quan does not merely react to an honor challenge; he asks for evidence of partner capacity and enemy weakness.
-- Preserved the later distinction between rhetorical movement toward resistance and actual resource commitment.
+- Added Su Fei's conditional pardon as a case of accepting a trusted subordinate's guarantee.
+- Added the Gan Ning-Ling Tong feud as an example of prohibition plus physical separation.
+- Distinguished retention of both officers from proof that their private conflict was reconciled.
 
 ## Relationships
 - [[SunCe|孙策]] - elder brother who designates Sun Quan and leaves a still-fragile regional base.
@@ -70,8 +72,12 @@ Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zh
 - [[ChengPuLateHan|程普]] - field commander sent with Zhou Yu in the initial anti-Cao deployment.
 - [[LiuBei|刘备]] - weakened regional actor redirected into alliance with Jiangdong.
 - [[CaoCao|曹操]] - external power whose recognition, hostage demand, Jingzhou conquest, and threat test Sun Quan's autonomy.
+- [[GanNing|甘宁]] - useful commander whose guarantee Sun Quan accepts and whose inherited feud he contains.
+- [[SuFeiLateHan|苏飞]] - defeated-side figure spared after Gan Ning assumes responsibility.
+- [[LingTong|凌统]] - officer whose revenge claim Sun Quan subordinates to command cohesion.
 - [[SuccessionAuthorityConsolidation|继位权威整合]] - process that turns designation into usable rule.
 - [[FacePreservingAlliancePersuasion|保全体面的结盟说服]] - method through which Sun Quan's capacity is offered to Liu Bei.
 - [[RoleAsymmetricSurrenderIncentives|身份不对称的投降激励]] - framework explaining Sun Quan's unique capitulation risk.
 - [[AllianceContingencyHedging|联盟不确定性下的退路预留]] - early option-preserving approach while Lu Su tests Jingzhou partners.
 - [[DignityBasedPersuasion|尊严激将式说服]] - Zhuge Liang's attempt to make surrender incompatible with Sun Quan's ruler identity.
+- [[PersonalGuaranteeClemency|私人担保式赦免]] - clemency mechanism used in the Su Fei case.

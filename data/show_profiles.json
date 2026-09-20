@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-18",
       "latest_episode_file": "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
-      "source_note_count": 75,
-      "topic_matched_source_note_count": 71,
+      "source_note_count": 77,
+      "topic_matched_source_note_count": 72,
       "topics": [
         {
           "key": "politics",
@@ -348,7 +348,7 @@
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 12
+          "source_note_count": 13
         }
       ],
       "entities": [
@@ -413,7 +413,7 @@
         "Strait and narrowing： the Houthis’ striking advance [6aa7c25aff74edfd002ca6c7].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
-        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md"
+        "Rise and shine： Warsh’s Fed rate test [6aabb60b964bc344092c48cd].md"
       ]
     },
     "How I Built This with Guy Raz": {
@@ -597,20 +597,20 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-09-18",
       "latest_episode_file": "tech_20260918_MP_TECH_pod_128 [tech_20260918_MP_TECH_pod_128].md",
-      "source_note_count": 146,
-      "topic_matched_source_note_count": 114,
+      "source_note_count": 148,
+      "topic_matched_source_note_count": 116,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 92
+          "source_note_count": 94
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 25
+          "source_note_count": 26
         },
         {
           "key": "culture",
@@ -684,7 +684,7 @@
         }
       ],
       "start_here_episode_files": [
-        "tech_20260914_TECH_pod_128 [tech_20260914_TECH_pod_128].md",
+        "tech_20260917_0917_MP_TECH_pod_128 [tech_20260917_0917_MP_TECH_pod_128].md",
         "tech_20260918_MP_TECH_pod_128 [tech_20260918_MP_TECH_pod_128].md",
         "tech_20260904_0904_MP_TECH_pod_128 [tech_20260904_0904_MP_TECH_pod_128].md",
         "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md"
@@ -1612,7 +1612,7 @@
       "earliest_episode_date": "2026-04-25",
       "latest_episode_date": "2026-09-16",
       "latest_episode_file": "No.219 ️ 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战 [1015471748].md",
-      "source_note_count": 22,
+      "source_note_count": 23,
       "topic_matched_source_note_count": 8,
       "topics": [
         {
@@ -1833,7 +1833,7 @@
       "earliest_episode_date": "2026-07-09",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "16a80abc-0826-4ec8-8c94-54ecb79161ef [16a80abc-0826-4ec8-8c94-54ecb79161ef].md",
-      "source_note_count": 9,
+      "source_note_count": 10,
       "topic_matched_source_note_count": 8,
       "topics": [
         {
@@ -2121,7 +2121,7 @@
       "earliest_episode_date": "2026-08-21",
       "latest_episode_date": "2026-09-16",
       "latest_episode_file": "lhbvzA29_24SZQusT-nWtM0Z09_4 [lhbvzA29_24SZQusT-nWtM0Z09_4].md",
-      "source_note_count": 6,
+      "source_note_count": 7,
       "topic_matched_source_note_count": 4,
       "topics": [
         {
@@ -2885,8 +2885,8 @@
       "earliest_episode_date": "2026-09-02",
       "latest_episode_date": "2026-09-18",
       "latest_episode_file": "4c476f91dba2496a5496493efd36a6c2 [4c476f91dba2496a5496493efd36a6c2.mp3？aid=6aaceb968577b7eb50874f76&chid=66b07190af99592b5329f43a&ci=28CB-JFGZhYNnIzf6X02WQPf3ue5sAZhAhfnlYOWdWqRYdwSK8QFNQ==&pf=rss&sv=sphinx@1.280].md",
-      "source_note_count": 5,
-      "topic_matched_source_note_count": 3,
+      "source_note_count": 6,
+      "topic_matched_source_note_count": 4,
       "topics": [
         {
           "key": "politics",
@@ -2898,6 +2898,12 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
+          "source_note_count": 1
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
           "source_note_count": 1
         }
       ],
@@ -2986,7 +2992,7 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-19",
       "latest_episode_file": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？ [ln8ZkBLsgq3zi7kRRHGjPnB4MoKb].md",
-      "source_note_count": 1066,
+      "source_note_count": 1074,
       "topic_matched_source_note_count": 380,
       "topics": [
         {

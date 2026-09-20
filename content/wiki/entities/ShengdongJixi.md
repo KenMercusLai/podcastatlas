@@ -10,7 +10,8 @@ sources:
   - 402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
   - 398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7
-last_updated: 2026-09-08
+  - 405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc
+last_updated: 2026-09-20
 ---
 
 # 声东击西
@@ -27,7 +28,9 @@ The social-media regulation episode supplies a policy-accountability version of 
 
 Episode 398 adds a U.S. public-affairs field-reporting role. [[XuTao|徐涛]] and [[LiuXiaoqian|刘萧千]] connect World Cup rule politics, [[AmericanExceptionalism]], [[DonaldTrump]], white South African workers in [[Mississippi]], and [[WhiteVictimhoodNarrative]] into one conversation about how abstract identity narratives look when reporters observe labor, visas, local race relations, and belonging on the ground.
 
-Across the current sources, 声东击西 functions less as a narrow beat and more as a conversational bridge between specialist systems and everyday experience, whether the system is AI coding, civil aviation, humanitarian food assistance, platform regulation, or U.S. race-and-immigration politics.
+Episode 405 adds a historical-geography version of the same translation work. Xu Tao and [[SongNianshen|宋念申]] move from Xita street memory and Tumen-Yalu border life to [[ModernBoundaryHardening]], colonial categories, international law, political economy, and the boundaries of academic knowledge.
+
+Across the current sources, 声东击西 functions less as a narrow beat and more as a conversational bridge between specialist systems and everyday experience, whether the system is AI coding, civil aviation, humanitarian food assistance, platform regulation, U.S. race-and-immigration politics, or the historical production of borders.
 
 ## Key Characteristics
 - Podcast/show context where Xu Tao hosts cross-domain technical and social conversations.
@@ -36,7 +39,7 @@ Across the current sources, 声东击西 functions less as a narrow beat and mor
 - Humanitarian field-report format in the South Sudan episode, connecting WFP operations with refugee hunger and aid cuts.
 - Platform-governance format in the social-media regulation episode, connecting child-safety law, product design, and public-health analogy.
 - U.S. field-reporting format in the Mississippi episode, connecting sports politics, immigration selectivity, race, and labor vulnerability.
-- Media node for translating complex systems into non-specialist experience and judgment.
+- Historical-geography format connecting local place, ordinary lives, state systems, and global modernity.
 
 ## Evidence
 - AI infrastructure interview: [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] has Xu Tao interview Jia Yangqing about deep-learning history, AI infrastructure, Lepton AI, agent reliability, and human judgment.
@@ -45,15 +48,17 @@ Across the current sources, 声东击西 functions less as a narrow beat and mor
 - Humanitarian field report: [[402-jijiang-zhongduan-de-liangshi-yuanzhu-yige-zhongguoren-zai-nansudan-kandaode-jiee-fa63b0de]] has Xu Tao interview Wang Hongrui about WFP work, South Sudan refugee hunger, aid cuts, and the limits of witnessing.
 - Platform regulation: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] has Xu Tao and Fang Kecheng discuss youth social-media age bans, platform responsibility, internal documents, and the Big Tobacco analogy.
 - U.S. political field reporting: [[398-yi-chang-meiguo-guancha-mantan-shijiebei-hongpai-nanfei-bairen-laogong-b28f7eaa-c801-4d5f-a6e5-35326d335df7]] has Xu Tao and Liu Xiaoqian connect Los Angeles World Cup observation with Mississippi reporting on white South African farm workers.
+- Border history: [[405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc]] connects Xu Tao's Xita visit with Song Nianshen's Tumen-Yalu research and a wider account of identity, colonialism, law, and disciplines.
 
 ## Qualifications
-The current page reflects only ingested episodes. It does not describe the show's full catalog, audience, production history, or editorial positioning outside these source notes. The social-media regulation and Mississippi sources are clearly argued episodes, so their policy judgments should remain source-scoped rather than treated as the show's complete positions on technology regulation, U.S. immigration, or South African politics.
+The current page reflects only ingested episodes. It does not describe the show's full catalog, audience, production history, or editorial positioning outside these source notes. The social-media regulation, Mississippi, and border-history sources are clearly argued episodes, so their judgments should remain source-scoped rather than treated as the show's complete positions on technology regulation, migration, international law, colonialism, or geopolitics.
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
 - Added the South Sudan WFP episode as a humanitarian-aid domain alongside AI-work and aviation-infrastructure conversations.
 - Added the youth social-media regulation episode as a platform-governance domain.
 - Added episode 398 as a U.S. field-reporting and identity-politics domain.
+- Added episode 405 as a border history, modernity, and interdisciplinary-method domain.
 
 ## Relationships
 - [[XuTao]] - host represented across all current 声东击西 sources.
@@ -69,3 +74,5 @@ The current page reflects only ingested episodes. It does not describe the show'
 - [[LiuXiaoqian]] - U.S.-based speaker and field reporter in episode 398.
 - [[SouthAfricanWhiteMigrantLabor]] - Mississippi labor topic foregrounded by episode 398.
 - [[EmbeddedForeignReporting]] - journalism method articulated in the episode's closing reflection.
+- [[SongNianshen]] - historian guest in the border and modernity conversation.
+- [[RelationalBorder]] - central concept developed from Xita and the Tumen-Yalu borderlands.

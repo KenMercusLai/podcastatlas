@@ -7,7 +7,8 @@ sources:
   - tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128
   - the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4
   - tech-20260910-tech-pod-128-tech-20260910-tech-pod-128
-last_updated: 2026-09-10
+  - the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b
+last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,7 +16,7 @@ knowledge_schema: synthesis-v1
 AI safety coordination is the practice or proposal that AI labs, governments, regulators, or international institutions should share information, review risks, and align constraints around frontier AI development before failures become unmanageable.
 
 ## Current Synthesis
-The concept has shifted from private lab-to-lab contact toward public and international coordination. Musk-linked sources emphasize peer review, recurring safety calls, and value-shaping under fast AI progress. Marketplace Tech's July 2026 worker-letter source moves coordination toward government pace-setting, while the September 2026 episode adds a stronger global frame: domestic regulation is insufficient if dangerous frontier AI can be built elsewhere, so incident review and compute monitoring need international legitimacy.
+The concept has shifted from private lab-to-lab contact toward public and international coordination. Musk-linked sources emphasize peer review, recurring safety calls, and value-shaping under fast AI progress. Marketplace Tech moves coordination toward government pace-setting, international legitimacy, incident review, and compute monitoring. The Intelligence adds a game-theory diagnosis: firms can free-ride on others' restraint, capability diffuses beyond a few actors, and U.S.-China military rivalry turns mutual distrust into an acceleration pressure.
 
 ## Key Claims
 - Coordination can share threat information faster than lawmaking, especially around frontier-model security and evaluation failures.
@@ -24,6 +25,7 @@ The concept has shifted from private lab-to-lab contact toward public and intern
 - Government pace-setting becomes relevant when private coordination and voluntary safety commitments are too weak.
 - Global coordination is necessary if frontier AI risk is not confined to one national jurisdiction.
 - Coordination remains incomplete without evidence access, enforcement, and clear authority over development tempo.
+- Free-rider incentives, capability diffusion, and security-dilemma reasoning can defeat coordination even when all parties recognize a shared catastrophic risk.
 
 ## Evidence
 - Lab-contact proposal: [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] presents [[ElonMusk]] arguing that leading AI companies should hold frequent safety and security calls.
@@ -31,13 +33,15 @@ The concept has shifted from private lab-to-lab contact toward public and intern
 - Public-authority escalation: [[tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128]] says AI workers asked governments to help set or control the pace of development.
 - Global coordination: [[tech-20260910-tech-pod-128-tech-20260910-tech-pod-128]] records Soares arguing that a domestic pause does not go far enough and that AI governance requires international diplomacy.
 - Incident trigger: [[the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4]] and [[tech-20260910-tech-pod-128-tech-20260910-tech-pod-128]] both use the OpenAI-Hugging Face incident branch to motivate stronger safety coordination.
+- Game-theory obstacle: [[the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b]] compares AI restraint with climate and arms coordination, emphasizing defection incentives and U.S.-China distrust.
 
 ## Counterevidence & Qualifications
-Coordination can become symbolic if companies share little, governments lack technical expertise, or rivals use safety channels strategically. The sources also differ in emphasis: Musk frames coordination as peer communication and value-shaping, while Soares frames it as public safety, mandatory oversight, and global retreat from building increasingly autonomous systems.
+Coordination can become symbolic if companies share little, governments lack technical expertise, or rivals use safety channels strategically. The sources also differ in emphasis: Musk frames coordination as peer communication and value-shaping, Soares as mandatory oversight and global retreat, and Hearn as a prisoner's-dilemma problem intensified by military competition. The nuclear analogy is suggestive but imperfect because AI capability is more widely reproducible.
 
 ## What Changed
 - Added global diplomacy and compute-monitoring context to a page previously centered on lab calls and worker-government appeals.
 - Clarified the ladder from peer review to government pace-setting to international coordination.
+- Added free-rider, capability-diffusion, and security-dilemma obstacles to durable coordination.
 
 ## Related Concepts
 - [[VoluntaryAISafetyCommitments]] - nonbinding company promises that coordination can strengthen but not replace.

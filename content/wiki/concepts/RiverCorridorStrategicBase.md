@@ -1,32 +1,51 @@
 ---
 title: "River Corridor Strategic Base / 长江走廊战略根据地"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [strategy, geography, late-han, three-kingdoms, state-building]
-sources: [zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq, zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq
+  - zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r
+  - zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u
+last_updated: 2026-09-20
 ---
 
 # River Corridor Strategic Base / 长江走廊战略根据地
 
-River corridor strategic base / 长江走廊战略根据地 enters the wiki through [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] as the episode's way of turning provincial geography into a Three Kingdoms strategy map. The host compares [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], and [[YizhouLateHan|益州]] along the Yangtze and argues that the value of a province depends on river access, economic base, routes, and future expansion options.
+## Definition
+River corridor strategic base / 长江走廊战略根据地 is the strategy of turning connected waterways, junctions, passes, population, production, and defensible positions into durable movement and state capacity rather than treating provincial geography as scenery.
 
-The concept is about base quality rather than geography as scenery. Yangzhou matters because its eastern commanderies become a rich Jiangdong foundation for [[SunCe|孙策]]. Jingzhou matters because [[JianglingLateHan|江陵]] gives both upstream access toward Yizhou and downstream access toward Yangzhou. Yizhou matters as a defensible but more remote western base whose route constraints make it less immediately flexible in the episode's ranking.
+## Current Synthesis
+Hanji 969 compares [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], and [[YizhouLateHan|益州]] as Yangtze-line bases. Their value depends on whether river access, economic resources, routes, and local control can support expansion: Yangzhou provides a rich eastern Jiangdong foundation, Jingzhou supplies central upstream-downstream optionality, and Yizhou trades immediacy for remoteness and defensibility.
 
-This complements [[XingshiqingStrategicAssessment|行势情战略评估]]. A late-Han actor is not only judging personalities or titles; he is judging whether a river corridor can turn appointment, soldiers, grain, and local support into durable state capacity.
-
-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] adds the earlier Yizhou institutional prehistory behind that later geography. [[LiuYanLateHan|刘焉]] does not yet appear as one node in a Yangtze comparison; he appears as a provincial shepherd using [[Hanzhong|汉中]] and [[XieguRoadLateHan|斜谷道]] to make western autonomy practical.
+Hanji 959 supplies an institutional precursor in the west. [[LiuYanLateHan|刘焉]] uses provincial office, [[Hanzhong|汉中]], and [[XieguRoadLateHan|斜谷道]] control to make Yizhou autonomy practical. Hanji 1085 then moves the concept down to operational scale. [[JiangxiaCommanderyLateHan|江夏郡]] matters because [[MianKouLateHan|沔口]] controls a Han-Yangtze junction while the surrounding commandery is presented as a source of population, ships, shipbuilding, and trained naval manpower. A corridor base therefore depends on both passage and the capacity clustered around it.
 
 ## Key Claims
-- Provincial titles are strategic only when they connect to routes, resources, and enforceable local control.
-- Yangtze-line geography explains why late-Han office fights can prefigure later Three Kingdoms base formation.
-- Jingzhou's value comes from corridor optionality: upstream attack, downstream attack, and central river control.
-- Yangzhou's value comes from its richer eastern commanderies and the later Jiangdong base.
-- Yizhou's value is offset by remoteness and route constraints in the episode's comparison.
-- Hanji 959 adds that Yizhou's remoteness can become politically useful when provincial office and pass control are combined.
+- Provincial office becomes strategic only when routes, resources, and enforceable local control align.
+- Yangtze geography helps explain why late-Han commandery and province contests prefigure later state formation.
+- Jingzhou's value comes from central corridor optionality: upstream access, downstream access, and cross-river control.
+- Passes and confluences can convert broad provincial geography into specific operational gates.
+- Population, shipbuilding, naval skill, and supplies make control of a waterway sustainable beyond the first battle.
+- Remoteness can constrain expansion while also helping a provincial ruler create autonomy.
 
-## Connections
-- [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], [[YizhouLateHan|益州]], and [[JianglingLateHan|江陵]] - source geography.
-- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]], [[LiuYanLateHan|刘焉]], [[Hanzhong|汉中]], [[XieguRoadLateHan|斜谷道]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - Yizhou autonomy prehistory before the later river-corridor comparison.
-- [[SunCe|孙策]], [[YuanShu|袁术]], [[LiuBiao|刘表]], and [[CaoCao|曹操]] - actors whose opportunities are read through the corridor.
-- [[MingqiLegitimacy|名器合法性]] and [[TitleRealityRestraint|名实相符式名号节制]] - title-control frames that the geographic reading qualifies.
-- [[XingshiqingStrategicAssessment|行势情战略评估]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - adjacent judgment concepts.
+## Evidence
+- Provincial comparison: [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] compares Yangzhou, Jingzhou, and Yizhou by river access, wealth, route position, and expansion options.
+- Western autonomy prehistory: [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] shows Liu Yan combining Yizhou office with Hanzhong and Xiegu Road control to reduce dependence on the court.
+- Confluence gate: [[zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u|Hanji 1085]] presents Mian Kou as the fixed barrier Wu must break before advancing through Jiangxia.
+- Capacity cluster: [[zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u|Hanji 1085]] treats Jiangxia's people, shipyards, naval training, and forward location as the deeper value of conquest.
+
+## Counterevidence & Qualifications
+The sources offer strategic interpretations, not a complete economic or hydrographic model. Hanji 969's province ranking, Hanji 959's pass-control account, and Hanji 1085's description of the Han-Yangtze confluence, shipyards, naval system, and resource transfer require verification against primary geography and administrative history. Control of one junction also does not guarantee control of an entire river corridor when rear rebellion, rival fleets, local elites, and supply limits remain active.
+
+## What Changed
+- Migrated the concept to synthesis-v1 using its complete prior source set.
+- Added Mian Kou as an operational-scale river-junction case.
+- Added population, shipbuilding, and naval skill as capacity that makes corridor control durable.
+- Qualified chokepoint control as necessary in the episode's campaign logic but not sufficient for whole-corridor dominance.
+
+## Related Concepts
+- [[StrategicPassControl|兵家必争通道控制]] - land-route counterpart showing how location, resources, and transport combine.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - judgment framework for matching terrain and timing to action.
+- [[RootBasePriority|根本根据地优先]] - explains why retaining the capacity behind a route matters as much as winning passage.
+- [[WarAsViolentRedistribution|战争的暴力再分配]] - tracks how conquest transfers the people and material that sustain a corridor base.
+- [[TransportCorridorSeverance|交通线切割]] - opposing mechanism that makes a route unusable by cutting movement or supply.

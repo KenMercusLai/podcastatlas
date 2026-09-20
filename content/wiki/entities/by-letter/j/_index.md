@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "JamesLovelock"
     title: "James Lovelock"
     url: "/wiki/entities/jameslovelock/"
+  - key: "JamesMarriott"
+    title: "James Marriott"
+    url: "/wiki/entities/jamesmarriott/"
   - key: "JamesMeade"
     title: "James Meade"
     url: "/wiki/entities/jamesmeade/"
@@ -599,6 +602,9 @@ wiki_pages:
   - key: "JohnElkann"
     title: "John Elkann"
     url: "/wiki/entities/johnelkann/"
+  - key: "JohnFarleyGallagher"
+    title: "John Farley (Gallagher)"
+    url: "/wiki/entities/johnfarleygallagher/"
   - key: "JohnFasman"
     title: "John Fasman"
     url: "/wiki/entities/johnfasman/"
@@ -1163,6 +1169,9 @@ wiki_pages:
   - key: "JingJu"
     title: "景驹 / Jing Ju"
     url: "/wiki/entities/jingju/"
+  - key: "JAndTExpress"
+    title: "极兔速递"
+    url: "/wiki/entities/jandtexpress/"
   - key: "JiangdongWarringStates"
     title: "江东 / Jiangdong (Warring States)"
     url: "/wiki/entities/jiangdongwarringstates/"

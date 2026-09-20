@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2734
+topic_total_pages: 2737
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -625,6 +625,9 @@ topic_concepts:
   - key: "CleanEditionClassicReading"
     title: "Clean Edition Classic Reading"
     url: "/wiki/concepts/cleaneditionclassicreading/"
+  - key: "ClimateAlteredSummer"
+    title: "Climate-Altered Summer"
+    url: "/wiki/concepts/climatealteredsummer/"
   - key: "CoffeehousePublicSphere"
     title: "Coffeehouse Public Sphere"
     url: "/wiki/concepts/coffeehousepublicsphere/"
@@ -1816,6 +1819,9 @@ topic_concepts:
   - key: "OralMythMagicalRealismSource"
     title: "Oral Myth As Magical Realism Source"
     url: "/wiki/concepts/oralmythmagicalrealismsource/"
+  - key: "OralTurnPoliticalCommunication"
+    title: "Oral Turn in Political Communication"
+    url: "/wiki/concepts/oralturnpoliticalcommunication/"
   - key: "OralFormulaicEpic"
     title: "Oral-Formulaic Epic"
     url: "/wiki/concepts/oralformulaicepic/"
@@ -5054,6 +5060,9 @@ topic_entities:
   - key: "TheMomTest"
     title: "The Mom Test"
     url: "/wiki/entities/themomtest/"
+  - key: "TheNewDarkAges"
+    title: "The New Dark Ages"
+    url: "/wiki/entities/thenewdarkages/"
   - key: "TheOdyssey"
     title: "The Odyssey"
     url: "/wiki/entities/theodyssey/"

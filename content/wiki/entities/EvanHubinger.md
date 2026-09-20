@@ -4,8 +4,9 @@ type: entity
 tags: [ai, ai-safety, anthropic]
 sources:
   - all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265
+  - the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-12
+last_updated: 2026-09-20
 ---
 
 # Evan Hubinger
@@ -14,24 +15,27 @@ last_updated: 2026-09-12
 Evan Hubinger appears in this wiki through the All-In episode as an [[Anthropic]] alignment-safety figure whose public comments made the Coxon controversy more significant for the hosts.
 
 ## Current Profile
-The source says Hubinger leads Alignment Science at Anthropic and publicly stated that AI could kill all humans, putting his own estimate above 10% within the next decade. The hosts treat his endorsement as more legally and commercially important than Coxon's because he remained inside Anthropic and therefore sharpened the company's [[FrontierAIIPODisclosureRisk]].
+The sources say Hubinger holds an Anthropic safety leadership role and publicly assigns a greater-than-10% chance to AI-caused human extinction. All-In emphasizes the legal and commercial tension created by an insider's statement, while The Intelligence treats agreement between a departing researcher and a current safety leader as evidence that alarm is substantially industry-internal.
 
 ## Key Characteristics
 - Anthropic alignment-safety leader in the source's account.
 - Publicly validates a nontrivial AI extinction-risk estimate.
 - Makes the controversy harder for Anthropic to dismiss as only a short-tenured former employee's claim.
 - Connects Anthropic's safety culture to IPO, disclosure, and liability questions.
+- Makes the public warning harder to dismiss as only one former employee's view.
 
 ## Evidence
 - **Role and claim:** [[all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265]] says Hubinger leads Alignment Science at Anthropic and estimated more than 10% AI-kills-all risk within a decade.
 - **Disclosure relevance:** [[all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265]] records Sacks arguing Hubinger's support creates greater legal significance than Coxon's post alone.
 - **Culture conflict:** [[all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265]] says Anthropic may have difficulty rejecting Coxon-like claims if many safety employees agree.
+- **Precautionary significance:** [[the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b]] treats Hubinger's estimate as unusually consequential because the possible loss is total.
 
 ## Qualifications
-This page is based on a single host-mediated source and does not independently verify Hubinger's exact title, statement, probability estimate, or legal implications.
+The page does not independently verify Hubinger's exact title, statement, time horizon, probability estimate, or legal implications. The sources agree on the broad warning but use different descriptions of his Anthropic safety role.
 
 ## What Changed
 - Created the entity from the All-In Anthropic disclosure-risk discussion.
+- Added The Intelligence's precautionary reading of his public estimate.
 
 ## Relationships
 - [[Anthropic]] - employer and organizational context in the source.

@@ -3,16 +3,16 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-19
-as_of_overview_commit: af64ab61324e865d7b70b86d802bd42cd6b97ebd
-input_digest: 23dbc7cd98302ceed129e9273752449ec0afd53b33fc6c571dc99f6ac30f59da
+last_updated: 2026-09-20
+as_of_overview_commit: 78e312c45a7026f9bbb12584e48ef44e30677aa8
+input_digest: 954acfa186aef6c679032e2785407bc8d3f59706c0c3a103fdbc3fd04c772b38
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof. The Nepal follow-up deepens the climate branch by joining hazard mechanics to warning time, repeated displacement, victim identification, ritual loss, hydropower exposure, and delayed loss-and-damage finance.
 
 ## Cross-source Findings
 
@@ -467,15 +467,15 @@ The Eastwick paragraph extends Huberman Lab public-science boundaries into relat
 
 ### Himalayan Glacial Flood Risk Is Climate And Infrastructure Risk
 
-[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] adds a climate-risk branch: [[HimalayanGlacialFloodRisk]] in the [[HinduKushHimalaya]] ties glacier retreat, unstable slopes, and steep river corridors to sudden flood risk, while [[HydropowerConcentrationRisk]] shows energy systems becoming exposed when generation clusters along those corridors. [[ClimateAdaptation]], [[ClimateAidRetrenchment]], [[DisasterResponseStateCapacity]], and [[Nepal]] make resilience depend on monitoring, siting, tunnel design, cross-border warning, rescue capacity, and finance rather than climate attribution alone.
+[[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078|After the flood]] and [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504|the Duanwen follow-up]] jointly frame [[HimalayanGlacialFloodRisk]] in the [[HinduKushHimalaya]] as physical, infrastructural, and institutional risk: [[HydropowerConcentrationRisk]] amplifies correlated damage, [[CrossBorderDisasterEarlyWarning]] determines whether upstream monitoring becomes evacuation time, and [[DisasterVictimIdentificationAndBodyAbsentMourning]], [[ClimateAidRetrenchment]], and [[LossAndDamageClimateFinance]] show recovery continuing through identification, grief, delivery, and funding systems.
 
-**Evidence:** [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078]], [[HimalayanGlacialFloodRisk]], [[HinduKushHimalaya]], [[HydropowerConcentrationRisk]], [[ClimateAdaptation]], [[ClimateAidRetrenchment]], [[DisasterResponseStateCapacity]], [[Nepal]]
+**Evidence:** [[after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078]], [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]], [[HimalayanGlacialFloodRisk]], [[HinduKushHimalaya]], [[HydropowerConcentrationRisk]], [[CrossBorderDisasterEarlyWarning]], [[DisasterVictimIdentificationAndBodyAbsentMourning]], [[ClimateAidRetrenchment]], [[LossAndDamageClimateFinance]], [[Nepal]]
 
 **Qualifications:**
 
-- The claim is grounded in a journalistic episode summary, not a full hydrological hazard model.
-- Casualty, missing-person, hydropower-loss, and recovery-cost figures are a September 1, 2026 rescue snapshot.
-- Hydropower concentration is treated as an exposure amplifier, not as the cause of the avalanche or dam breach.
+- The claim is grounded in two journalistic episode summaries rather than a full hydrological attribution or cross-border incident investigation.
+- Casualty, missing-person, hydropower-loss, recovery-cost, and climate-finance figures remain provisional; the follow-up also contains uncertain translated names and inconsistent fund arithmetic.
+- Hydropower concentration is an exposure amplifier, and the warning evidence identifies a coordination gap without allocating complete cross-border responsibility.
 
 ### Agency And Extreme Risk Claims Need Health Boundaries
 

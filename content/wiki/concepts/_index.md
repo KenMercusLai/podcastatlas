@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "AIAgentOverseasCommercialization"
     title: "AI Agent Overseas Commercialization"
     url: "/wiki/concepts/aiagentoverseascommercialization/"
+  - key: "AIAgentRiskTesting"
+    title: "AI Agent Risk Testing"
+    url: "/wiki/concepts/aiagentrisktesting/"
   - key: "AIAlignmentGovernance"
     title: "AI Alignment Governance"
     url: "/wiki/concepts/aialignmentgovernance/"
@@ -968,6 +971,9 @@ wiki_pages:
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
+  - key: "AIInsuranceDataScarcity"
+    title: "AI Insurance Data Scarcity"
+    url: "/wiki/concepts/aiinsurancedatascarcity/"
   - key: "AIInteractionInternationalization"
     title: "AI Interaction Internationalization"
     url: "/wiki/concepts/aiinteractioninternationalization/"
@@ -1025,6 +1031,9 @@ wiki_pages:
   - key: "AILegalPersonhoodRisk"
     title: "AI Legal Personhood Risk"
     url: "/wiki/concepts/ailegalpersonhoodrisk/"
+  - key: "AILiabilityInsurance"
+    title: "AI Liability Insurance"
+    url: "/wiki/concepts/ailiabilityinsurance/"
   - key: "AILiteracyAgainstWorship"
     title: "AI Literacy Against Worship"
     url: "/wiki/concepts/ailiteracyagainstworship/"
@@ -1661,6 +1670,9 @@ wiki_pages:
   - key: "AmbientAIInterface"
     title: "Ambient AI Interface"
     url: "/wiki/concepts/ambientaiinterface/"
+  - key: "AmbientVoiceAgentInterface"
+    title: "Ambient Voice Agent Interface"
+    url: "/wiki/concepts/ambientvoiceagentinterface/"
   - key: "AmbisexualWorldbuilding"
     title: "Ambisexual Worldbuilding / 双性世界建构"
     url: "/wiki/concepts/ambisexualworldbuilding/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -671,6 +671,9 @@ wiki_pages:
   - key: "LoopMaxxing"
     title: "Loop Maxxing"
     url: "/wiki/concepts/loopmaxxing/"
+  - key: "LossAndDamageClimateFinance"
+    title: "Loss and Damage Climate Finance"
+    url: "/wiki/concepts/lossanddamageclimatefinance/"
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"
@@ -842,6 +845,9 @@ wiki_pages:
   - key: "LoyalRefusalLegitimacySignal"
     title: "忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal"
     url: "/wiki/concepts/loyalrefusallegitimacysignal/"
+  - key: "LastMileCourierCompensation"
+    title: "快递末端派费与劳动压力"
+    url: "/wiki/concepts/lastmilecouriercompensation/"
   - key: "LawEnforcementAgainstElitePrivilege"
     title: "执法碰撞权贵特权 / Law Enforcement Against Elite Privilege"
     url: "/wiki/concepts/lawenforcementagainsteliteprivilege/"

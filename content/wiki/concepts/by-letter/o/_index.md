@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "OilPollutionWildlifeHarm"
     title: "Oil-Pollution Wildlife Harm"
     url: "/wiki/concepts/oilpollutionwildlifeharm/"
+  - key: "OkinawaBasePolitics"
+    title: "Okinawa Base Politics"
+    url: "/wiki/concepts/okinawabasepolitics/"
   - key: "OldBookMateriality"
     title: "Old Book Materiality / 旧书物质性"
     url: "/wiki/concepts/oldbookmateriality/"
@@ -428,6 +431,9 @@ wiki_pages:
   - key: "OralMythMagicalRealismSource"
     title: "Oral Myth As Magical Realism Source"
     url: "/wiki/concepts/oralmythmagicalrealismsource/"
+  - key: "OralTurnPoliticalCommunication"
+    title: "Oral Turn in Political Communication"
+    url: "/wiki/concepts/oralturnpoliticalcommunication/"
   - key: "OralFormulaicEpic"
     title: "Oral-Formulaic Epic"
     url: "/wiki/concepts/oralformulaicepic/"

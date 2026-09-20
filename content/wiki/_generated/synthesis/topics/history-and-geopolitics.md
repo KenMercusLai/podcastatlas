@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-20
-as_of_overview_commit: 7e149b8be5f166af509b7d1ea275395edbab53be
-input_digest: 3b6c682f3ddf43a5b58035cccdec824c7c44a7326301d96d47e2528ac4680ee5
+as_of_overview_commit: 7a09b8667758c4bb22546dc0800e0ca27e199a85
+input_digest: 5a91fe4d9f5de09e8a53d91a2938af0b010fe43510ddfea84ebd1f921b98097a
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, and post-conquest personnel transfer to usable state capacity. The Red Cliffs prehistory now includes the Changban collapse and Cao Cao's Jingzhou settlement before hedged exploration, face-preserving brokerage, and Zhuge Liang's dignity-and-capacity case for resistance. Wen Ping adds a qualified pattern in which loyalty to a defeated order becomes evidence for trusted reuse, while wider claims about borderlands, infrastructure, memory, institutional breakdown, and source-specific motives remain bounded.
+The history-and-geopolitics corpus links legitimacy, strategic routes, court access, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. Hanji 1090 adds Kong Rong\u0027s 208 CE death as a bounded late-Han case where a political challenge becomes an accusation bundle, punishment reaches young household members, and loyal mourning survives intimidation. Across the corpus, exact motives, dialogues, totals, and retrospective causal claims remain bounded to their sources rather than treated as settled history.
 
 ## Cross-source Findings
+
+### Hanji 1086 Clemency Feud And Institutional Absorption
+
+[[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf|Hanji 1086]] adds an earlier [[SunQuan|Sun Quan]]-[[GanNing|Gan Ning]] layer: debt to [[SuFeiLateHan|Su Fei]] produces a life-backed pardon plea, [[LingCaoLateHan|Ling Cao]]'s death leaves [[LingTong|Ling Tong]] with an internal feud, and [[ViolenceToInstitutionalLegitimacy]] describes irregular force becoming authorized command.
+
+**Evidence:** [[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf]], [[SunQuan]], [[GanNing]], [[SuFeiLateHan]], [[LingCaoLateHan]], [[LingTong]], [[ViolenceToInstitutionalLegitimacy]]
+
+**Qualifications:**
+
+- This short popular-history episode is not an independent reconstruction of the Huang Zu campaign.
+- The boxes, dialogue, kowtow injury, revenge attempts, reassignment, and motives remain source-scoped.
+- Violence-to-legitimacy conversion is the host's interpretation, not Gan Ning's proven self-understanding.
 
 ### Hanji 1095 Jingzhou Transfer Reclassifies Loyalty As Capacity
 
@@ -360,3 +372,15 @@ The same campaign supplies a motive-and-consequence pair for the topic: [[Imperi
 
 - The source is a short popular-history episode whose transcript names and Jingzhou geography require normalization.
 - The exact fallback wording, whether 献表 means surrender, and the host's general claim that alliances contain only calculation remain source-scoped.
+
+### Kong Rong Execution Joins Charge Bundling Household Destruction And Memory
+
+[[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]] completes [[KongRong|Kong Rong]]'s 208 CE death branch through [[LuCuiLateHan|Lu Cui]]'s accusation bundle, the execution of [[KongRongChildren|his children]], and [[ZhiXiLateHan|Zhi Xi]]'s public mourning, linking political prosecution, household destruction, and contested historical memory.
+
+**Evidence:** [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj]], [[KongRong]], [[LuCuiLateHan]], [[KongRongChildren]], [[ZhiXiLateHan]], [[MoralSlanderReframing]], [[FuneraryDefianceUnderPoliticalTerror]]
+
+**Qualifications:**
+
+- The episode's proposal wording, exact charges, attributed filial sayings, children's ages and genders, dialogue, and Cao Cao's private motive require primary-source verification.
+- The unfilial accusation conflicts with counter-biographical material but is not thereby proven wholly fabricated.
+- The closing Liu Biao comparison is only a preview and does not establish a full causal account of his later indecision.

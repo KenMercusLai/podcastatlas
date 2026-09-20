@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -911,6 +911,9 @@ wiki_pages:
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
+  - key: "TongluExpressCluster"
+    title: "桐庐快递产业集群"
+    url: "/wiki/concepts/tongluexpresscluster/"
   - key: "TaShangCeBipartiteStrategy"
     title: "榻上策二分天下 / Ta Shang Ce Bipartite Strategy"
     url: "/wiki/concepts/tashangcebipartitestrategy/"

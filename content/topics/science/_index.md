@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1121
+topic_total_pages: 1126
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -325,6 +325,9 @@ topic_concepts:
   - key: "ClimateStartupCommercializationGap"
     title: "Climate Startup Commercialization Gap"
     url: "/wiki/concepts/climatestartupcommercializationgap/"
+  - key: "ClimateAlteredSummer"
+    title: "Climate-Altered Summer"
+    url: "/wiki/concepts/climatealteredsummer/"
   - key: "CoFounderConflict"
     title: "Co-Founder Conflict"
     url: "/wiki/concepts/cofounderconflict/"
@@ -415,6 +418,9 @@ topic_concepts:
   - key: "CriticalPeriodLanguageLearning"
     title: "Critical-Period Language Learning"
     url: "/wiki/concepts/criticalperiodlanguagelearning/"
+  - key: "CrossBorderDisasterEarlyWarning"
+    title: "Cross-Border Disaster Early Warning"
+    url: "/wiki/concepts/crossborderdisasterearlywarning/"
   - key: "CrossDisciplinaryLiteratureSearch"
     title: "Cross-Disciplinary Literature Search"
     url: "/wiki/concepts/crossdisciplinaryliteraturesearch/"
@@ -1003,6 +1009,9 @@ topic_concepts:
   - key: "LockedInSyndromeAssistiveCommunication"
     title: "Locked-In Syndrome Assistive Communication"
     url: "/wiki/concepts/lockedinsyndromeassistivecommunication/"
+  - key: "LossAndDamageClimateFinance"
+    title: "Loss and Damage Climate Finance"
+    url: "/wiki/concepts/lossanddamageclimatefinance/"
   - key: "LossAversion"
     title: "Loss Aversion / 损失厌恶"
     url: "/wiki/concepts/lossaversion/"
@@ -3258,6 +3267,9 @@ topic_sources:
   - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
     title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
     url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+  - key: "rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd"
+    title: "Rise and shine: Warsh's Fed rate test"
+    url: "/wiki/sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd/"
   - key: "science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085"
     title: "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick"
     url: "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
@@ -3369,6 +3381,9 @@ topic_sources:
   - key: "shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352"
     title: "商业小样45 | 厄尔尼诺越大，鱼越贵"
     url: "/wiki/sources/shangye-xiaoyang-45-eerninuo-yueda-yu-yuegui-1000164352/"
+  - key: "niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504"
+    title: "尼泊爾特大洪災現場：一場沒有遺體的葬禮"
+    url: "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
   - key: "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp"
     title: "山上山下皆人间，无事逍遥即神仙"
     url: "/wiki/sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "HengruiPharma"
     title: "Hengrui Pharma / 恒瑞医药"
     url: "/wiki/entities/hengruipharma/"
+  - key: "Henoko"
+    title: "Henoko"
+    url: "/wiki/entities/henoko/"
   - key: "HenriPierreRoche"
     title: "Henri-Pierre Roche / 亨利-皮埃尔·罗什"
     url: "/wiki/entities/henripierreroche/"

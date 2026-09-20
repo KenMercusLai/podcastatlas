@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "Okhotsk"
     title: "Okhotsk / 鄂霍次克"
     url: "/wiki/entities/okhotsk/"
+  - key: "Okinawa"
+    title: "Okinawa"
+    url: "/wiki/entities/okinawa/"
   - key: "OlegGordievsky"
     title: "Oleg Gordievsky / 奥列格·戈尔杰夫斯基"
     url: "/wiki/entities/oleggordievsky/"

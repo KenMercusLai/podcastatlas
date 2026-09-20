@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-20
-as_of_overview_commit: dcdf3263b481d378e55617c16fdec3ac03b169fb
-input_digest: 112926a2c62f4bca006ce2d3cbc0d5c65cef4ad1f49b98cdfb2eee34625d3bcd
+as_of_overview_commit: 539307352e93e6371b0413efa7c4079b167a21f7
+input_digest: 1e55e5fe1ba60087a2b2a5273cf1942b9a03f97639ed14d5e7fc2e85dbbd4e54
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Red Cliffs negotiation adds a bounded historical persuasion case: dignity and identity pressure can activate a choice, but practical evidence about capacity, risk, and benefit remains necessary, and the pattern is not a clinical law. Tian Chou's reward refusal and Hanji 1099's disconnected mother-money typology remain source-scoped boundary cases, while mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Hanji 1090 adds a bounded historical warning about moral labeling: character judgments can be shaped by political power, biographical counterevidence, family consequences, and public memory, so they should not be detached from evidence and context. Historical typologies and motive claims remain source-scoped boundary cases, while mental-health, diagnostic, and crisis claims stay bounded to professional judgment.
 
 ## Cross-source Findings
 
@@ -986,3 +986,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - The episode supplies no clinical evidence for treating complaint, avoidance, or control by a mother as a general cause of adult money behavior.
 - The opening segment is disconnected from the historical narrative and may be promotional material.
+
+### Moral Labels Require Biographical Evidence And Power Context
+
+[[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]] supplies a bounded character-judgment lesson through [[MoralSlanderReframing]]: the unfilial label attached to [[KongRong|Kong Rong]] should be tested against biographical counterevidence, the political interest behind prosecution, the deaths of [[KongRongChildren|his children]], and [[ZhiXiLateHan|Zhi Xi]]'s surviving loyalty rather than treated as a context-free psychological verdict.
+
+**Evidence:** [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj]], [[MoralSlanderReframing]], [[KongRong]], [[KongRongChildren]], [[ZhiXiLateHan]]
+
+**Qualifications:**
+
+- This is a historical narrative about reputation and power, not a clinical model of personality or family attachment.
+- Counter-biographical anecdotes qualify a moral label but do not establish the authenticity or falsity of every attributed saying.
+- Exact motives, dialogue, and demeanor remain source-scoped.

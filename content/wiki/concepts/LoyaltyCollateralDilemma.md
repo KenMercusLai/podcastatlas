@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm
   - zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28
   - zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3
-last_updated: 2026-08-26
+  - zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil
+last_updated: 2026-09-20
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,7 +23,7 @@ Loyalty-collateral dilemma names cases where a morally charged choice around loy
 
 ## Current Synthesis
 
-Across the current evidence, the dilemma is not one fixed rule about choosing loyalty over life. [[WangZhu|王蠋]] faces enemy recruitment backed by threat against his locality; [[WangLingMother|王陵母亲]], [[ZhaoBaoLateHan|赵苞 / 赵包]]'s mother and wife, [[LiuTaigong|刘太公]], and [[JinYunLateHan|靳允]]'s family become hostage or family-pressure cases; [[ZangHong|臧洪]] turns old-superior loyalty into voluntary follower suffering; and the Zhang Jian case turns shelter for a pursued man into lethal danger for hosts.
+Across the current evidence, the dilemma is not one fixed rule about choosing loyalty over life. [[WangZhu|王蠋]] faces enemy recruitment backed by threat against his locality; [[WangLingMother|王陵母亲]], [[ZhaoBaoLateHan|赵苞 / 赵包]]'s mother and wife, [[LiuTaigong|刘太公]], and [[JinYunLateHan|靳允]]'s family become hostage or family-pressure cases; [[ZangHong|臧洪]] turns old-superior loyalty into voluntary follower suffering; and the Zhang Jian case turns shelter for a pursued man into lethal danger for hosts. Hanji 1088 adds delayed collateral: [[MaTeng|马腾]] enters court and his household moves to Ye, but punishment later follows [[MaChao|马超]]'s rising rather than Ma Teng's own reported conduct.
 
 The strongest synthesis is that collateral pressure changes the moral unit. A decision may look heroic from the actor's point of view while becoming destructive for family, hosts, subordinates, civilians, or neighbors. The tradition still honors some extreme sacrifices, but the wiki now keeps both judgments active: sacrifice can defeat coercion or preserve reputation, and it can also reveal that the original loyalty frame has become too costly for people around it.
 
@@ -34,7 +35,7 @@ The strongest synthesis is that collateral pressure changes the moral unit. A de
 - Public duty and kinship can remain unresolved even after tactical success, as Zhao Bao and Jin Yun show.
 - Voluntary attachment can create collateral suffering without direct hostage-taking when followers internalize a leader's loyalty stance.
 - Fugitive shelter extends the pattern from battlefield or enemy coercion into political-persecution hospitality.
-- Later ethical judgment has to preserve both courage and cost rather than turning any one case into a universal rule.
+- Family collateral can remain exposed after an apparent settlement and be punished for another member's later decision.
 
 ## Evidence
 
@@ -42,15 +43,16 @@ The strongest synthesis is that collateral pressure changes the moral unit. A de
 - Disputed officeholder obligation: [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] makes Jin Yun's Fan County choice morally debatable because his captured mother is weighed against a still-unsettled bond to Cao Cao.
 - Voluntary follower collateral: [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] shows Zang Hong allowing followers to leave but watching their loyalty to him become siege starvation and mass death.
 - Fugitive shelter collateral: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] shows [[ZhangJianLateHan|张俭]]'s flight endangering [[KongBaoLateHan|孔褒]], [[KongRong|孔融]], and [[KongRongMother|孔融母]], while [[XiaFuLateHan|夏馥]] and [[DuGenLateHan|杜根]] articulate the counter-duty not to implicate helpers.
+- Delayed household liability: [[zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil|Hanji 1088]] says Ma Teng does not rebel, yet Ma Chao's later rising brings execution on Ma Teng's household after its relocation to Ye.
 
 ## Counterevidence & Qualifications
 
-The concept does not condemn loyalty, refuge, filial duty, or public duty as such. Some cases show sacrifice blocking coercion, and Hanji 895 treats the Kong family's mutual self-offering as genuinely admirable. The qualification is about transfer of cost: once third parties become the pressure point, the moral evaluation must include their danger as evidence, not background noise.
+The concept does not condemn loyalty, refuge, filial duty, or public duty as such. Some cases show sacrifice blocking coercion, and Hanji 895 treats the Kong family's mutual self-offering as genuinely admirable. The qualification is about transfer of cost: once third parties become the pressure point, the moral evaluation must include their danger as evidence, not background noise. Hanji 1088's “hostages are always guilty” maxim is the host's moral compression, not a universal rule; the exact household movement and execution total require broader verification.
 
 ## What Changed
 
-- Hanji 895 adds a fugitive-shelter branch where collateral risk arises from political hospitality rather than hostage-taking or battlefield coercion.
-- The page was migrated from legacy append-style prose into synthesis-v1 while preserving the existing source inventory order.
+- Added Hanji 1088's delayed-liability branch, where apparent settlement does not protect a household from another member's later rebellion.
+- Distinguished the host's paradoxical maxim from the narrower supported claim about transferred punishment.
 
 ## Related Concepts
 
@@ -60,3 +62,4 @@ The concept does not condemn loyalty, refuge, filial duty, or public duty as suc
 - [[RighteousnessOverProfit|义利之辨]] - moral vocabulary often used to justify costly choices.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - wider order problem when local people become political leverage.
 - [[CrisisWithdrawalSelfProtection|危局抽身自保]] - alternative strategy for reducing exposure before others become collateral.
+- [[HostageBackedDependencyTrap|家属质押式依附陷阱]] - coercive political relationship in which family location constrains an actor's autonomy.

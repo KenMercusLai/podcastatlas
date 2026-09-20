@@ -6,6 +6,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1083丨为何刘备早期空有顶级战力，却无立足之地？](sources/zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3.md) — 刘备早期的执行力与根据地困境、隆中对的战略排除和聚焦，以及襄阳识人网络与陶侃自律故事。
+- [The End of the World Is AI? An Existential Threat](sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b.md) — The Intelligence on uncertain AI extinction risk, the OpenAI-Hugging Face incident, coordination and slowdown, the oral turn in politics, reading decline, and India's changing cheese market.
+- [尼泊爾特大洪災現場：一場沒有遺體的葬禮](sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504.md) — 端聞 follow-up on Nepal's August 2026 flood, body-absent funerals, DNA identification, repeated displacement, cross-border warning failure, hydropower damage, and loss-and-damage finance.
+- [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
+- [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
+- [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
+- [《资治通鉴·汉纪》1084丨诸葛亮凭什么成为三国顶流？这招绝了！](sources/zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd.md) — 庞德公、司马徽为诸葛亮与庞统提供名士背书，赵温征辟曹丕后被免，甘宁凭黄祖内部经验向孙权提出西进方案。
+- [《资治通鉴·汉纪》1085丨东吴拿下江夏，等于剜了刘表的心？](sources/zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u.md) — 甘宁建议先取黄祖，董袭、凌统、吕蒙突破沔口水障，东吴攻陷夏口并取得江夏的人口、船舶与长江通道能力。
+- [《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？](sources/zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf.md) — 甘宁以性命为旧恩人苏飞担保，孙权赦免苏飞并隔离甘宁、凌统的血仇，同时把甘宁经历解释为暴力资本的体制化转换。
+- [《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？](sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq.md) — 崔琰、毛玠以选官标准重塑官场可见行为，以及司马懿称病拒召却在抓捕威胁下接受任命的208年人事政治片段。
+- [《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？](sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil.md) — 张辽以静制乱平定夜间军变、赵俨协调于禁乐进，以及张既推动马腾入朝后形成的兵权与家属分置格局。
+- [《资治通鉴·汉纪》1089丨身为孔子二十世孙，孔融如何触怒曹操？](sources/zizhi-tongjian-hanji-1089-shenwei-kongzi-ershishisun-kongrong-ruhe-chunu-caocao-lqz6drrrl4l4schcmtdkg2ofvo6i.md) — 从禁酒辩难、征讨嘲讽到甄氏信件，呈现孔融如何把文化名望与口才转成对曹操政策、家事和合法性的连续公开挑战。
+- [《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？](sources/zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj.md) — 孔融之死中的政治触发、路粹弹劾、“不孝”污名、子女株连与脂习哭尸，呈现政治清除如何借道德指控获得正当性。
 - [《资治通鉴·汉纪》1091丨诸葛亮点化刘琦，背后暗藏什么战略伏笔？](sources/zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq.md) — 刘琦以“上屋抽梯”逼问诸葛亮后出镇江夏，将继承危机中的退让转成保命、保兵与后续联盟价值。
 - [《资治通鉴·汉纪》1092丨富可敌国的娄圭，因一句感慨被曹操赐死？](sources/zizhi-tongjian-hanji-1092-fu-ke-di-guo-de-lougui-yin-yiju-gankai-bei-caocao-cisi-lutwkvmtn_7cv4r5l-mwknmgyjhs.md) — 刘琮在荆州士族推动下降曹、娄圭以符节判断真降，以及财富与猜忌交织下的死亡。
 - [《资治通鉴·汉纪》1093丨为何荆州百姓宁愿逃难也要追随刘备？](sources/zizhi-tongjian-hanji-1093-weihe-jingzhou-baixing-ningyuan-taonan-ye-yao-zhuisui-liubei-lhnmyfjgxy8lmioghbsfwoquzg-o.md) — 荆州百姓以刘备仁德与曹操屠城声誉比较风险，十余万人追随又成为撤退负担和可见政治资本的长坂坡前因。
@@ -2534,8 +2547,48 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drone truth: Russia has the upper hand](sources/drone-truth-russia-has-the-upper-hand-6aad03f98a1508074de8337e.md) — The Intelligence episode on Russia's long-range drone advantage over Ukraine, alcohol-industry responses to falling consumption, and Gloria Steinem's journalism, organizing, and Ms. magazine legacy.
 - [图拉斯｜咖啡豆：月饼薯片都打上「黑松露」标签，高端食材为何变得无处不在？](sources/tulasi-kafeidou-yuebing-shupian-dou-dashang-heisonglu-biaoqian-gaoduan-shicai-weihe-biande-wuchubuzai-1016110497.md) — 声动早咖啡 episode on how Chinese supply, scalable flavor systems, premium signaling, and warehouse-club hit diffusion made black-truffle flavor ubiquitous while creating ingredient-label trust risks.
 
+- [#405 从地理边界到思维边界：我们如何被「划界」塑造？](sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc.md) — 声东击西 conversation with Song Nianshen on relational borders, Northeast Asian mobility, modern identity hardening, colonial inheritance, international law, and disciplinary boundaries.
+- [Rise and shine: Warsh's Fed rate test](sources/rise-and-shine-warshs-fed-rate-test-6aabb60b964bc344092c48cd.md) — The Intelligence episode on Kevin Warsh's first rate increase, Okinawa's pro-Henoko gubernatorial shift, and climate change's reshaping of summer.
+- [AI safety requires action, not promises](sources/tech-20260916-mp-tech-pod-128-tech-20260916-mp-tech-pod-128.md) — Marketplace Tech interview with Amy Webb on frontier-AI pacing, accountability beyond manifestos, startup-accessible safety, incentive design, and distributed agency.
+
 ## Entities
-- [江夏郡 / Jiangxia Commandery (Late Han)](entities/JiangxiaCommanderyLateHan.md) — 黄祖死后由刘琦出镇的荆州东部要地，使继承危机中的离开同时保留兵力与战略价值。
+- [陶侃 / Tao Kan](entities/TaoKan.md) — 以运甓自励抵抗闲散和安逸侵蚀、在当前来源中作为长期准备寓言的东晋将领。
+- [庞德公 / Pang Degong (late Han)](entities/PangDegongLateHan.md) — 以士林评价使诸葛亮、庞统的潜在能力获得社会可见性的荆州名士。
+- [司马徽 / Sima Hui (late Han)](entities/SimaHuiLateHan.md) — 以“卧龙、凤雏”推荐把荆州本地声誉传递给刘备的人才评价者。
+- [Alex Hearn](entities/AlexHearn.md) — Economist AI writer framing extinction risk, operational failures, and slowdown as precaution and coordination problems.
+- [James Marriott](entities/JamesMarriott.md) — Writer using orality-literacy theory to interpret reading decline and smartphone-shaped attention.
+- [The New Dark Ages](entities/TheNewDarkAges.md) — Marriott's polemic on reading decline, smartphones, oral form, and long-text attention.
+- [桐庐](entities/Tonglu.md) — Zhejiang county whose hometown trust network produced several national express carriers and later became a logistics-cluster development strategy.
+- [中国邮政](entities/ChinaPost.md) — universal-service postal system and historical reserved-letter institution in the private-express legalization story.
+- [聂腾飞](entities/NieTengfei.md) — early Hangzhou-Shanghai document-delivery entrepreneur and founder of the business that became 申通.
+- [陈德军](entities/ChenDejun.md) — early Shanghai network builder and later leader of 申通.
+- [喻渭蛟](entities/YuWeijiao.md) — founder of 圆通 and early adopter of the Taobao price-for-volume bargain.
+- [赖梅松](entities/LaiMeisong.md) — founder of 中通 and advocate of scheduled trunk infrastructure before demand fully arrived.
+- [王卫（顺丰）](entities/WangWeiSF.md) — SF founder associated with the shift from franchising to direct operation.
+- [李杰（极兔）](entities/LiJieJAndT.md) — J&T founder who transferred a regional-agent model from Indonesia into China.
+- [申通快递](entities/STOExpress.md) — early Tonglu franchise carrier descended from the 盛彤 document-delivery business.
+- [圆通速递](entities/YTOExpress.md) — major franchise carrier and early Taobao logistics partner.
+- [中通快递](entities/ZTOExpress.md) — infrastructure-led franchise carrier known for trunk routes, hub control, and paid delivery settlement.
+- [韵达快递](entities/YundaExpress.md) — family-split branch of the early Tonglu express network and major ecommerce carrier.
+- [极兔速递](entities/JAndTExpress.md) — Indonesia-founded, capital-backed entrant that accelerated Chinese express consolidation.
+- [菜鸟网络](entities/Cainiao.md) — Alibaba-led logistics data platform associated with electronic waybills and platform-carrier coordination.
+- [杨旸 / Yang Yang (Telecommunications Researcher)](entities/YangYangTelecomResearcher.md) — 移动通信与物联网研究者，连接航空、工业、水利、5G/6G与边缘智能终端实践。
+- [Deloitte](entities/Deloitte.md) — Professional-services firm cited for a source-scoped forecast of the emerging AI-insurance market.
+- [Corgi (AI insurance)](entities/CorgiAIInsurance.md) — Technology-company insurer offering explicit coverage for AI-caused statements, calculations, and outages.
+- [Claimy](entities/Claimy.md) — AI-insurance startup linking adversarial agent tests, remediation, and scores to premiums.
+- [Gallagher](entities/GallagherInsurance.md) — Traditional insurance brokerage perspective on AI policy wording, exclusions, and modeling limits.
+- [Nico Lacqua](entities/NicoLacqua.md) — Corgi chief executive associated with its AI liability product and San Francisco cafe.
+- [Ines Butemacha](entities/InesButemacha.md) — Claimy representative explaining test-linked AI underwriting and premium incentives.
+- [John Farley (Gallagher)](entities/JohnFarleyGallagher.md) — Cyber-risk executive describing insurers' move from silence to scrutiny on AI.
+- [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
+- [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 以关系、行政后盾和沿途公开迎送推动马腾入朝的曹操使者，与张济明确消歧。
+- [乐进 / Le Jin (late Han)](entities/LeJinLateHan.md) — 与于禁分驻要地却需要赵俨居中协调的曹军将领。
+- [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
+- [路粹 / Lu Cui (late Han)](entities/LuCuiLateHan.md) — 孔融案中的正式弹劾者，将政治、交往、言论与名分指控捆绑为死罪案件。
+- [孔融子女 / Kong Rong's children](entities/KongRongChildren.md) — “覆巢之下，安有完卵”场景中的两名未具名幼子女，体现政治追诉向家庭毁灭的扩张。
+- [江夏郡 / Jiangxia Commandery (Late Han)](entities/JiangxiaCommanderyLateHan.md) — 兼具河流门户、人口与水军资源的荆州东部要地，黄祖死后又成为刘琦的外镇生存基地。
+- [沔口 / Mian Kou (late Han)](entities/MianKouLateHan.md) — 江夏战役中以锚定战船封锁、又被董袭与凌统突破的汉水—长江汇流要冲。
+- [陈就 / Chen Jiu (late Han)](entities/ChenJiuLateHan.md) — 黄祖麾下水军都督，在沔口水障被破后迎战并被吕蒙斩杀。
 - [娄圭 / Lou Gui (Late Han)](entities/LouGuiLateHan.md) — 以符节判断刘琮真降、富于曹操却缺乏相应势力，后因歧义言论遭告发处死的曹营谋士。
 - [张允 / Zhang Yun (Late Han)](entities/ZhangYunLateHan.md) — 与蔡瑁共同阻止刘琦探视刘表、支持刘琮继位的荆州官员。
 - [傅巽 / Fu Xun (Late Han)](entities/FuXunLateHan.md) — 以刘备胜败皆不能保全刘琮的两难分析推动荆州降曹的官员。
@@ -2556,7 +2609,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
 - [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 百姓追随造成的慢速南撤被曹军追上，刘备集团崩散后又经汉津会师、夏口重组通向孙刘联盟的208年战役。
-- [马超 / Ma Chao](entities/MaChao.md) — Guanzhong coalition figure whose Weinan defeat is framed through the gap between military concentration and political cohesion.
+- [马超 / Ma Chao](entities/MaChao.md) — 马腾入朝后承接西部兵权、其后起兵并在渭南败于曹操的关中联盟核心人物。
 - [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
 - [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
@@ -2575,7 +2628,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘琦 / Liu Qi (Late Han)](entities/LiuQiLateHan.md) — Liu Biao heir whose Jingzhou-inspector title gives Liu Bei's southern expansion a legitimacy channel.
 - [赵云 / Zhao Yun](entities/ZhaoYun.md) — 在长坂坡救回刘禅、战后又受命治理桂阳的刘备部将。
 - [刘禅 / Liu Chan](entities/LiuChan.md) — 长坂坡溃败中由赵云救回的刘备幼子。
-- [凌统 / Ling Tong](entities/LingTong.md) — Wu officer trusted to hold the rear while Zhou Yu and Lyu Meng relieve Gan Ning.
+- [凌统 / Ling Tong](entities/LingTong.md) — 东吴将领，先参与突破沔口水障，后在甘宁血仇未解时仍承担掩护救援的留守任务。
 - [卢龙道 / Lulong Road (Late Han)](entities/LulongRoadLateHan.md) — Difficult northern approach proposed by Tian Chou for Cao Cao's surprise movement against Wuhuan.
 - [Richard Feynman](entities/RichardFeynman.md) — Challenger investigator used by Bill Gurley as the model of independent, evidence-driven root-cause inquiry.
 - [Kiyoshi Kurokawa](entities/KiyoshiKurokawa.md) — Fukushima commission leader used as a model for conflict-free membership, public-safety focus, authority, and transparent findings.
@@ -3575,7 +3628,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [花园饭店 / Garden Hotel Shanghai](entities/GardenHotelShanghai.md) — Former French Club building used as evidence of Lai An's durable construction and mixed classical/Art Deco design.
 - [盖斯康公寓 / Gascoigne Apartments](entities/GascoigneApartments.md) — Lai An apartment example showing modern form, high-end residential hierarchy, and service circulation.
 - [迈奇公寓 / Majestic Apartments (Shanghai)](entities/MajesticApartmentsShanghai.md) — Lai An apartment example tied to rounded balcony and curved-corner design vocabulary.
-- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers and first-person experiments to examine civic action, platform incentives, and journalism ethics.
+- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers, field reporting, and first-person experiments to connect lived cases with institutional systems.
 - [小薇 / Xiaowei (Duanwen reporter)](entities/XiaoweiDuanwenReporter.md) — Reporter whose simulated Polymarket month tests whether news judgment can become prediction-market edge.
 - [PolySimulator](entities/PolySimulator.md) — Polymarket-linked simulation tool used for virtual prediction-market trading in the Duanwen episode.
 - [Wangwang / 旺旺](entities/WangwangDog.md) — Stray dog whose killing became a public-memory symbol for animal cruelty, legal absence, and cross-border animal-protection solidarity.
@@ -4587,7 +4640,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [陈简 / Chen Jian (Yuan Shu retainer)](entities/ChenJianYuanShuRetainer.md) — Yuan Shu old retainer who refuses to shelter him during the final collapse.
 - [雷波 / Lei Bo (Yuan Shu retainer)](entities/LeiBoYuanShuRetainer.md) — Yuan Shu old retainer whose refusal marks the collapse of Yuan Shu's usable refuge network.
 - [耿包 / Geng Bao (late Han)](entities/GengBaoLateHan.md) — Yuan Shao subordinate whose imperial-title proposal becomes a title-test casualty after official rejection.
-- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — Severe late-Han remonstrator who warns Yuan Shao on Xudu legitimacy and later rebukes Cao Cao's Jizhou conscription priority.
+- [崔琰 / Cui Yan (late Han)](entities/CuiYanLateHan.md) — 从许都合法性警告、冀州民生进谏到与毛玠共同选官，并因赞许司马懿把他带入曹操视野的汉末官员。
 - [徐秋 / Xu Qiu (Guangling late Han)](entities/XuQiuGuanglingLateHan.md) — Former Guangling administrator who returns the Heirloom Imperial Seal to the court after Yuan Shu's death.
 - [Jennifer King](entities/JenniferKing.md) — Stanford HAI privacy researcher explaining California data-broker compliance failures, deletion friction, enforcement limits, and AI data-broker demand.
 - [Stanford Institute for Human-Centered AI](entities/StanfordInstituteForHumanCenteredAI.md) — Stanford policy and research context for Jennifer King's data-broker compliance report.
@@ -4767,7 +4820,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [五溪蛮 / Wuxi Man](entities/WuxiMan.md) — Frontier people Liu Biao courts through Sha Moke after southern Jingzhou pressure grows.
 - [沙摩柯 / Sha Moke](entities/ShaMoke.md) — Wuxi Man leader Liu Biao tries to draw in as a reactive support channel.
 - [王夫之 / Wang Fuzhi](entities/WangFuzhi.md) — Later commentator cited by Hanji 1027 to sharpen the negative judgment of Liu Biao's Jingzhou strategy.
-- [庞统 / Pang Tong](entities/PangTong.md) — Jingzhou talent used source-scopedly as a later consequence of Liu Biao's weak correction/talent channel.
+- [庞统 / Pang Tong](entities/PangTong.md) — 经庞德公、司马徽评价而获得声誉，又体现刘表未能整合荆州人才的谋士。
 - [官渡之战 / Guandu Campaign](entities/GuanduCampaign.md) — Cao Cao-Yuan Shao confrontation spanning prewar setup, White Horse/Yanjin preliminary shocks, Liu Bei's Runan branch, the camp-engineering standoff, the Wuchao logistics strike, and post-victory stabilization.
 - [龚都 / Gong Du (late Han)](entities/GongDuLateHan.md) — Runan rebel leader whom Liu Bei joins after leaving Yuan Shao during the Guandu prelude.
 - [蔡阳 / Cai Yang (late Han)](entities/CaiYangLateHan.md) — Cao-side commander sent against Liu Bei after the Gong Du connection and killed in the Runan branch.
@@ -5239,9 +5292,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [马日磾 / Ma Ridi (late Han)](entities/MaRidiLateHan.md) — Court official, Cai Yong warning voice, and Yuan Shu-humiliated envoy whose returned body triggers a funeral-honor dispute.
 - [吴夫人 / Lady Wu (Sun Jian)](entities/LadyWuSunJian.md) — Sun Jian's Qiantang Wu-clan wife who bridges Jiangdong resources, restrains Sun Ce, stabilizes Sun Quan's succession, and endorses Zhou Yu's anti-hostage counsel.
 - [钱塘吴氏 / Qiantang Wu Clan](entities/QiantangWuClan.md) — Lady Wu's family network linking Qiantang trade, water routes, gentry standing, and Danyang military resources to the Sun household.
-- [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — Sun-family military officer whose reassurance to Lady Wu makes Jiangdong's succession confidence legible after Sun Ce's death.
+- [董袭 / Dong Xi (late Han)](entities/DongXiLateHan.md) — 从孙策死后的军事支持者，发展为江夏战役中砍断沔口缆绳、打开主力通道的突击将领。
 - [孙权 / Sun Quan](entities/SunQuan.md) — Sun-family successor who moves from fragile inheritance through hedged coalition testing and adversarial questioning to a resourced anti-Cao commitment.
-- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — Wu commander whose disciplined troops, protection of Xi Su's command, and Gan Ning relief plan connect personnel judgment with operations.
+- [吕蒙 / Lyu Meng](entities/LyuMeng.md) — 由军容严整获孙权识拔，后在江夏斩陈就，并以降将整合和分兵救援展现判断力的吴将。
 - [骆统 / Luo Tong](entities/LuoTong.md) — Luo Jun's son and Jiangdong adviser whose counsel turns respect, feasts, inquiry, and speech into a talent-observation channel for Sun Quan.
 - [吴郡 / Wu Commandery (late Han)](entities/WuCommanderyLateHan.md) — Late-Han Jiangdong commandery and Sun-family transition center where Zhou Yu remains with Zhang Zhao after Sun Ce's death.
 - [孙贲 / Sun Ben (late Han)](entities/SunBenLateHan.md) — Sun-family actor who links Danyang recruitment infrastructure to Sun Ce's later Yuzhang administration.
@@ -5282,7 +5335,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黄盖 / Huang Gai](entities/HuangGai.md) — Jiangdong veteran who moves from Sun Ce's Shentingling retinue to diagnosing the linked-fleet vulnerability and designing the Red Cliffs fire approach.
 - [沮授 / Ju Shou](entities/JuShou.md) — Yuan Shao adviser whose correct counsel spans emperor-welcome, pre-Guandu recovery, White Horse/Yanjin warnings, and a captured-loyalist ending after Wuchao.
 - [许攸 / Xu You (late Han)](entities/XuYouLateHan.md) — Yuan Shao adviser and Guandu defector whose Wuchao intelligence aids Cao Cao but whose public post-Jizhou credit overreach ends in death.
-- [甘宁 / Gan Ning](entities/GanNing.md) — Yizhou talent-loss case who later appears as a calm Eastern Wu commander holding under siege until relief arrives.
+- [甘宁 / Gan Ning](entities/GanNing.md) — 从益州与荆州人才流失者转为东吴将领，以黄祖内部经验、长江战略建议、旧恩担保、地形判断与临敌镇定见长。
 - [吕范 / Lu Fan](entities/LuFan.md) — Sun Ce follower who volunteers for low-status military-discipline work in Hanji 994, making him a case of operational gap ownership.
 - [张昭 / Zhang Zhao (late Han)](entities/ZhangZhaoLateHan.md) — Jiangdong administrator and succession stabilizer whose later surrender case is coherent but rejected after Lu Su and Zhou Yu reframe the crisis.
 - [张纮 / Zhang Hong (Late Han)](entities/ZhangHongLateHan.md) — Sun-family adviser and court-facing mediator who deters Cao Cao's mourning-period attack impulse and joins Sun Quan's transition bench.
@@ -5627,7 +5680,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [荆州 / Jingzhou](entities/Jingzhou.md) — Late-Han region stabilized by Liu Biao in Hanji 1010, later serving as the Jingzhou elite setting for the Mi Heng transfer branch.
 - [华阴 / Huayin (late Han)](entities/HuayinLateHan.md) — Corridor site where Emperor Xian reaches Duan Wei's supplies and where route control, rumor, and survival politics converge.
 - [杜袭 / Du Xi (late Han)](entities/DuXiLateHan.md) — Yingchuan refugee who warns that Liu Biao's hospitality should not become premature talent exposure or final allegiance.
-- [赵俨 / Zhao Yan (late Han)](entities/ZhaoYanLateHan.md) — Yingchuan refugee turned Cao official whose profile now joins Langling law-over-kinship enforcement with Yang'an fiscal-risk mediation.
+- [赵俨 / Zhao Yan (late Han)](entities/ZhaoYanLateHan.md) — 从朗陵执法、阳安财政风险调解延伸到于禁乐进两军协调的颍川官员。
 - [阳安 / Yang'an (late Han)](entities/YangAnLateHan.md) — Loyal but exposed late-Han locality where Zhao Yan and Li Tong pause cotton-silk collection to preserve stability.
 - [繁钦 / Fan Qin (late Han)](entities/FanQinLateHan.md) — Talented Yingchuan refugee whose visible brilliance before Liu Biao becomes the cautionary side of concealed capability timing.
 - [段煨 / Duan Wei (late Han)](entities/DuanWeiLateHan.md) — Huayin-based late-Han general who resists Yang Ding while feeding Emperor Xian, later serving as Jia Xu's suspicious host before Jia Xu joins Zhang Xiu.
@@ -5670,14 +5723,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘辟 / Liu Pi (Runan late Han)](entities/LiuPiRunanLateHan.md) — Runan Yellow Turban remnant whose Yuan Shao-aligned recruitment pressure tests Li Tong's Cao allegiance.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family resource contributor and battlefield rescuer whose later client network tests law over kinship.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao-side official whose profile joins Chang'an appointment persuasion, Xun Yu's talent chain, Guanzhong stabilization, and the Pingyang defeat of Guo Yuan.
-- [马腾 / Ma Teng](entities/MaTeng.md) — Western military leader whose profile moves from Liangzhou rebel formation and Guanzhong conflict into Fu Gan-framed cooperation with Zhong Yao against Guo Yuan.
+- [马腾 / Ma Teng](entities/MaTeng.md) — 从凉州起兵、关中博弈和曹方合作走向208年入朝、兵权交子与家属迁邺的西部军事领袖。
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
 - [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
 - [庞德 / Pang De](entities/PangDe.md) — Ma Teng-side officer who kills Guo Yuan in the Pingyang campaign and triggers Zhong Yao's kinship-versus-public-duty response.
 - [平阳守战 / Pingyang Defense (Late Han)](entities/PingyangDefenseLateHan.md) — Zhong Yao's Hedong defense where prior reassurance of Ma Teng and a half-crossing strike defeat Guo Yuan and the Southern Xiongnu pressure line.
 - [韩遂 / Han Sui](entities/HanSui.md) — Western military leader whose friendly field conversation with Fan Chou becomes purge evidence in Hanji 984 before the later Zhong Yao stabilization branch.
-- [毛玠 / Mao Jie](entities/MaoJie.md) — Cao Cao adviser whose Hanji 968 strategy pairs "奉天子以令不臣" with farming, stockpiling, and military supply.
+- [毛玠 / Mao Jie](entities/MaoJie.md) — 将“奉天子”与农战后勤结合、又与崔琰共同以德行和务实标准主持选官的曹操谋臣。
 - [公孙瓒 / Gongsun Zan](entities/GongsunZan.md) — Northern warlord whose arc runs from frontier cavalry success through Liu Yu rupture and Yijing isolation to death under Yuan Shao's siege.
 - [曹嵩 / Cao Song](entities/CaoSong.md) — Cao Cao's wealthy father and network enabler whose disputed killing later triggers the Xuzhou revenge branch.
 - [曹德 / Cao De (Late Han)](entities/CaoDeLateHan.md) — Cao Cao's younger brother killed with Cao Song in the source's account.
@@ -5709,7 +5762,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨琦 / Yang Qi (late Han)](entities/YangQiLateHan.md) — Shizhong whose direct Emperor Ling-Huan comparison triggers a Yang Zhen family taunt, and who later urges Emperor Xian to suppress anger under Li Jue.
 - [张苞 / Zhang Bao (late Han)](entities/ZhangBaoLateHan.md) — Li Jue-side zhonglangjiang who colludes with Guo Si, sets fires in Li Jue's camp, and defects after the failed night attack.
 - [朱儁 / Zhu Jun (late Han)](entities/ZhuJunLateHan.md) — Late-Han official whose career now spans 181 Jiaozhi suppression, Yellow Turban campaigns, anti-Dong-Zhuo posture, and later death after Guo Si's ministerial hostage-taking.
-- [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — Situ who writes a dangerous remonstrance to Li Jue after Li Jue refuses imperial mediation and tries to move Emperor Xian.
+- [赵温 / Zhao Wen (late Han)](entities/ZhaoWenLateHan.md) — 先在李傕挟帝时冒险进谏，后因征辟曹丕与曹操的人事控制发生冲突而被免的司徒。
 - [皇甫郦 / Huangfu Li (late Han)](entities/HuangfuLiLateHan.md) — Envoy whose direct warning to Li Jue turns mediation into near-fatal remonstrance in Hanji 986.
 - [王畅 / Wang Chang (Shumao, late Han)](entities/WangChangShumaoLateHan.md) — Late-Han official whose profile spans Nanyang governance reversal, Taixue reputation as 王叔茂, sikong office notice, and later high-office recommendation politics.
 - [张厂 / Zhang Chang (Nanyang, late Han)](entities/ZhangChangNanyangLateHan.md) — Nanyang gongcao whose advice turns Wang Chang away from harsh powerful-household punishment toward humane governance.
@@ -5761,7 +5814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [夏馥 / Xia Fu (late Han)](entities/XiaFuLateHan.md) — Critic of Zhang Jian's collateral flight who hides by disguise, rough labor, and refusal of implicated aid.
 - [杜根 / Du Gen (late Han)](entities/DuGenLateHan.md) — Return-power remonstrant and persecution survivor whose feigned death, fifteen-year concealment, and later memory show non-implicating withdrawal under political danger.
 - [谭嗣同 / Tan Sitong](entities/TanSitong.md) — Qing reformer invoked through a prison-poem allusion pairing Zhang Jian and Du Gen as persecution-memory figures.
-- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose early Zhang Jian sheltering, Xuzhou support, Beihai failure, Mi Heng recommendation, Yuan Shao mission, and Yang Biao challenge show moral courage and prestige-capacity limits.
+- [孔融 / Kong Rong](entities/KongRong.md) — Late-Han scholar-official whose moral courage and cultural prestige coexist with Beihai governing failure, escalating satire of Cao Cao, and a politically constructed death case.
 - [荀彧 / Xun Yu](entities/XunYu.md) — Cao Cao-side official whose welcome-the-emperor argument, adviser recommendation channel, later strategic sequencing, and court-risk interventions shape Cao Cao's early order.
 - [满宠 / Man Chong](entities/ManChong.md) — Severe Cao Cao-side legal official whose Hanji 1006 Cao Hong-client case and Hanji 1020 Yang Biao report both tie enforcement to political trust.
 - [张胜 / Zhang Sheng (Western Han envoy)](entities/ZhangShengWesternHan.md) — Lu Wan envoy persuaded in Xiongnu territory that quick suppression of Chen Xi would endanger Yan, later becoming evidence against Lu Wan.
@@ -6325,7 +6378,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《报燕惠王书》 / Letter in Reply to King Hui of Yan](entities/BaoYanHuiwangShu.md) — Le Yi's restrained reply to Yan Huiwang, using Wu Zixu to explain why he will neither return to danger nor attack Yan from Zhao.
 - [伍子胥 / Wu Zixu](entities/WuZixu.md) — Spring-and-Autumn minister used by Le Yi as a warning about successor-ruler danger after great merit.
 - [乐贤 / Le Xian](entities/LeXian.md) — Le Yi's son who inherits the Changguo Jun title after Yan Huiwang is reassured by Le Yi's reply.
-- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — Liu Bei strategist framed as a state-system builder, morally ambiguous adviser, and direct advocate for the pre-Red-Cliffs coalition.
+- [诸葛亮 / Zhuge Liang](entities/ZhugeLiang.md) — 经荆州名士评价获得早期可见性，后成为刘备的政权架构者与赤壁前联盟倡议者。
 - [田单 / Tian Dan](entities/TianDan.md) — Qi market administrator turned restoration general whose Jimo victory, post-restoration suspicion, and Di campaign hesitation show the cost of high merit under a fearful ruler.
 - [燕惠王 / King Hui of Yan](entities/YanHuiwang.md) — Yan successor whose removal of Le Yi leads to Qi Jie's failure and the collapse of Yan's Qi occupation.
 - [燕武成王 / King Wucheng of Yan](entities/YanWuchengwang.md) — Yan ruler installed after Gongsun Cao kills Yan Huiwang amid Yan's post-Qi-collapse weakness.
@@ -11040,7 +11093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Shodan](entities/Shodan.md) — Internet-connected device search engine used in Marketplace Tech's exposed Flock Safety camera episode.
 - [404 Media](entities/404Media.md) — Technology publication that received Flock Safety's limited-misconfiguration response in the exposed-camera story.
 - [ParkMobile](entities/ParkMobile.md) — Parking-service company named as a breach-data source that could be cross-referenced with exposed license-plate footage.
-- [Amy Webb](entities/AmyWebb.md) — Futurist whose Marketplace Tech interview frames 2026 technology around AI convergence across search, robotics, materials, and biology.
+- [Amy Webb](entities/AmyWebb.md) — Futurist connecting AI convergence forecasting with accountable, incentive-compatible safety governance and startup participation.
 - [BlueJ](entities/BlueJ.md) — Amazon package-handling robotics example used by Marketplace Tech to connect physical AI with warehouse labor automation.
 - [Penn State](entities/PennState.md) — Research institution cited by Marketplace Tech for zero-resistance room-temperature materials inside the programmable-matter forecast.
 - [University of Pittsburgh](entities/UniversityOfPittsburgh.md) — Research institution cited by Marketplace Tech for a self-powered spinal implant example inside the programmable-matter forecast.
@@ -12078,7 +12131,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Japan](entities/Japan.md) — Country context for legal and political sources plus FengTouQuan's product-experience, tourism, neighborhood, theme-park, and Sanrio comparison.
 - [Route 66](entities/Route66.md) — American highway treated as a centenary symbol of migration, car culture, decommissioned infrastructure, Old West performance, and nostalgia tourism.
 - [Nicholas Palam](entities/NicholasPalam.md) — The Intelligence correspondent explaining Khamenei's funeral, Iran's religious-political authority, succession uncertainty, and ceasefire context.
-- [Moeka Iida](entities/MoekaIida.md) — The Intelligence contributor explaining Japan's post-divorce joint-custody reform and changing family norms.
+- [Moeka Iida](entities/MoekaIida.md) — The Intelligence reporter connecting Japanese family law, housing stigma, cohort scarring, and Okinawan base politics to lived experience.
 - [John Fasman](entities/JohnFasman.md) — The Intelligence reporter whose Route 66 road trip grounds nostalgia tourism and whose America-at-250 dispatch frames American cultural exports.
 - [Nicholas Pelham](entities/NicholasPelham.md) — The Intelligence contributor explaining renewed U.S.-Iran strikes, stalled diplomacy, Hormuz pressure, and post-Khamenei hardline politics.
 - [Farah Chia](entities/FarahChia.md) — The Intelligence contributor explaining Asian filial-piety laws and elder-care state-capacity pressure.
@@ -12511,7 +12564,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William McChesney Martin](entities/WilliamMcChesneyMartin.md) — Fed chair used as the positive historical precedent for resisting presidential pressure from Lyndon B. Johnson.
 - [Arthur Burns](entities/ArthurBurns.md) — Fed chair used as the negative Nixon-era cautionary tale about presidential pressure, rate cuts, and inflationary outcomes.
 - [Burton Abrams](entities/BurtonAbrams.md) — Economist comparing Powell with Martin and Burns while explaining inflation bias and central-bank independence.
-- [Kevin Warsh](entities/KevinWarsh.md) — Incoming Trump-nominated Fed chair in the source, used as the next leadership test for Fed independence.
+- [Kevin Warsh](entities/KevinWarsh.md) — Fed chair whose first rate increase tests competing claims about political flexibility, market constraint, and institutional independence.
 - [Lisa Cook](entities/LisaCook.md) — Fed board member whose attempted removal becomes the source's case for the undefined "for cause" standard.
 - [Stephen Miran](entities/StephenMiran.md) — Trump-nominated Fed official whose dissents are used to distinguish policy disagreement from political capture.
 - [United States Congress](entities/UnitedStatesCongress.md) — Legislative guardrail in the Powell episode, tied to Fed mandate, chair confirmation, and possible clarification of for-cause removal.
@@ -12783,8 +12836,41 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Campari](entities/Campari.md) — Drinks company using draft Aperol spritz to contest beer-dominated venues during weaker alcohol demand.
 - [Gloria Steinem](entities/GloriaSteinem.md) — American journalist and feminist organizer who moved from undercover reporting and newsroom exclusion to co-founding Ms. magazine.
 - [Ms. Magazine](entities/MsMagazine.md) — Women-controlled national feminist magazine turning stigmatized private experience into public editorial subject matter.
+- [苏飞 / Su Fei (late Han)](entities/SuFeiLateHan.md) — 黄祖旧部，因早年帮助甘宁而在孙权战后处置中获得甘宁以性命担保的赦免。
+- [凌操 / Ling Cao (late Han)](entities/LingCaoLateHan.md) — 凌统之父，其被甘宁射杀的旧怨成为孙权阵营内部必须压制和隔离的血仇风险。
+
+- [宋念申](entities/SongNianshen.md) — Historian connecting Northeast Asian border life and archives to modernity, colonialism, political economy, and question-led interdisciplinary research.
+- [Okinawa](entities/Okinawa.md) — Strategic Japanese prefecture where concentrated U.S.-base burdens, Ryukyuan history, and economic marginalization shape local politics.
+- [Koja Gentar](entities/KojaGentar.md) — Okinawa governor-elect whose economic campaign and support for Henoko produced a record-vote landslide.
+- [Tamaki Denny](entities/TamakiDenny.md) — Outgoing Okinawa governor whose dignity-centered opposition to Henoko lost to economic and base-fatigue priorities.
+- [Henoko](entities/Henoko.md) — Contested Okinawa base-relocation site linking national defense policy to prefectural consent.
+- [Archie Hall](entities/ArchieHall.md) — Economist economics editor separating the economic, market, and institutional cases for Kevin Warsh's first rate increase.
 
 ## Concepts
+- [战略排除与聚焦 / Strategic Exclusion and Focus](concepts/StrategicExclusionAndFocus.md) — 通过明确不做什么，把稀缺资源集中到相互强化的根据地、伙伴结构与长期目标上，同时允许执行顺序随条件调整。
+- [Oral Turn in Political Communication](concepts/OralTurnPoliticalCommunication.md) — Shift toward repetition, live response, epithets, vivid examples, and concrete symbols in mass political persuasion.
+- [Indian Cheese Market Adaptation](concepts/IndianCheeseMarketAdaptation.md) — Religious accommodation, ingredient substitution, mass-market demand, and indigenous revival in India's cheese category.
+- [Cross-Border Disaster Early Warning](concepts/CrossBorderDisasterEarlyWarning.md) — Monitoring and notification chain needed when hazards form upstream in one jurisdiction and threaten another.
+- [Loss and Damage Climate Finance](concepts/LossAndDamageClimateFinance.md) — International funding for climate harms that mitigation and adaptation cannot fully prevent.
+- [Disaster Victim Identification and Body-Absent Mourning](concepts/DisasterVictimIdentificationAndBodyAbsentMourning.md) — Forensic identification and culturally grounded mourning when victims remain missing or unidentified.
+- [桐庐快递产业集群](concepts/TongluExpressCluster.md) — trust-based founder and operator network later institutionalized as a place-based logistics cluster.
+- [邮政专营与民营快递合法化](concepts/PostalMonopolyPrivateExpressLegalization.md) — transition from reserved-letter conflict to licensed private express operation.
+- [中国快递加盟制](concepts/ChinaExpressFranchiseModel.md) — split between headquarters-controlled brand and trunk systems and locally funded outlets bearing operating risk.
+- [快递网络基础设施收权](concepts/ExpressNetworkInfrastructureCentralization.md) — headquarters control of hubs, routes, settlement, automation, and routing data.
+- [电商平台与快递网络互相依赖](concepts/PlatformExpressInterdependence.md) — reciprocal dependence between platform order/data scale and cheap nationwide fulfillment.
+- [电商快递价格战](concepts/EcommerceExpressPriceWar.md) — volume-, capacity-, and market-share-driven parcel price competition.
+- [快递末端派费与劳动压力](concepts/LastMileCourierCompensation.md) — network settlement and courier pay through which price pressure reaches the last mile.
+- [快递反内卷与区域成本底线](concepts/ExpressAntiInvolutionPriceFloor.md) — regulatory use of regional cost baselines against below-cost competition.
+- [Ambient Voice Agent Interface](concepts/AmbientVoiceAgentInterface.md) — Microphone-centered natural-language endpoint backed by personalized edge and cloud agents.
+- [Cellular-Satellite Complementarity](concepts/CellularSatelliteComplementarity.md) — Coverage model where cellular dominates dense areas and satellites extend remote and emergency service.
+- [Industrial 5G Deployment Constraint](concepts/Industrial5GDeploymentConstraint.md) — Spectrum, ownership, cost, and private-network barriers between industrial 5G capability and adoption.
+- [Mobile Network Energy Tradeoff](concepts/MobileNetworkEnergyTradeoff.md) — Power and coverage costs associated with bandwidth, frequency, site density, and multi-antenna systems.
+- [Mobile Technology Convergence](concepts/MobileTechnologyConvergence.md) — Mobile-device development as joint maturity across networks, chips, batteries, materials, software, and form factor.
+- [AI Liability Insurance](concepts/AILiabilityInsurance.md) — Explicit financial coverage for defined harms caused by AI system outputs or actions.
+- [AI Agent Risk Testing](concepts/AIAgentRiskTesting.md) — Claim-oriented agent testing linked to remediation, retesting, and insurance pricing.
+- [AI Insurance Data Scarcity](concepts/AIInsuranceDataScarcity.md) — Lack of stable historical loss evidence for modeling AI claim frequency and severity.
+- [选官驱动的德行表演 / Selection-Driven Virtue Signaling](concepts/SelectionDrivenVirtueSignaling.md) — 当任官安全和晋升取决于可见德行时，官员集体展示节俭与谦逊，却无法由外表证明内在真诚的激励模式。
+- [Disorder Stabilization by Stillness / 以静制乱式识别](concepts/DisorderStabilizationByStillness.md) — 通过要求未参与者保持静止来降低混乱、识别主动扰乱者的危机指挥模式。
 - [外镇避祸式生存 / Peripheral Command Exit Strategy](concepts/PeripheralCommandExitStrategy.md) — 暴露于继承斗争的内部人以外镇拉开距离，同时保留兵权、地盘、名义或结盟价值的生存策略。
 - [Surrender-Token Credibility / 降服凭证式可信度](concepts/SurrenderTokenCredibility.md) — 通过交出稀缺政治凭证削弱自身继续独立行动的能力，从而让投降比口头承诺更可信。
 - [Civilian Followership as Political Capital / 百姓追随型政治资本](concepts/CivilianFollowershipPoliticalCapital.md) — 百姓基于安全判断主动追随时，同一群体既构成军事后勤负担，也成为可见的信任与合法性资产。
@@ -14435,7 +14521,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [权力欲自律 / Power Desire Self-Restraint](concepts/PowerDesireSelfRestraint.md) — Pattern where holding authority requires restraining the urge to convert access, property pressure, procedure, or proximity into private revenge and maximum personal power.
 - [农本民生优先于币制调整 / Agrarian Livelihood Before Currency Reform](concepts/AgrarianLivelihoodBeforeCurrencyReform.md) — Liu Tao's Hanji 843 poverty-diagnosis pattern where food, cloth, farming damage, official extraction, and rest-for-recovery outrank coin-weight reform.
 - [报复性政治恐怖 / Retaliatory Political Terror](concepts/RetaliatoryPoliticalTerror.md) — Late-Han pattern where Dou Xian and Liang Ji convert public refusal, warning, omission, lawful enforcement, property resistance, mourning, and partial compliance into accusation, death, exile, torture, confiscation, or household liability.
-- [Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命](concepts/FuneraryDefianceUnderPoliticalTerror.md) — Pattern where mourning, guarding, and returning bodies under a mourning ban preserve reputation and expose the limits of intimidation.
+- [Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命](concepts/FuneraryDefianceUnderPoliticalTerror.md) — Mourning, guarding, or recovering politically exposed bodies preserves reputation and tests the practical limits of intimidation.
 - [Death-Facing Responsibility / 赴死式责任承担](concepts/DeathFacingResponsibility.md) — Hanji 888 pattern where actors accept lethal or household risk after political defeat through self-surrender, burial, mourning, or survivor protection.
 - [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
@@ -14552,7 +14638,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [太学 / Taixue](concepts/Taixue.md) — Imperial classical-learning institution whose current synthesis spans pre-imperial Liu Xiu formation, Shun-era decay and repair, Mingjing selection pipeline, student petition field, text-standard site, ritual venue, and incumbent education-to-office channel.
 - [鸿都门学 / Hongdu Menxue](concepts/HongduMenxue.md) — Late-Han court-sponsored literary and artistic channel that Emperor Ling favors against Taixue and great-clan/士人 prestige, turning cultural recognition into appointment-channel competition.
 - [AI Portfolio Leverage Liquidation](concepts/AIPortfolioLeverageLiquidation.md) — Market-risk pattern where a levered AI equity thesis can be forced out by margin mechanics before long-run fundamentals resolve.
-- [Pacing the Frontier](concepts/PacingTheFrontier.md) — Source-scoped frontier-AI governance proposal framed through safety, government pace-setting, regulatory capture risk, and duopoly incentives.
+- [Pacing the Frontier](concepts/PacingTheFrontier.md) — Frontier-AI slowdown proposal tested against self-restraint, international participation, accountability, and incumbent-moat risk.
 - [City-Owned Grocery Politics](concepts/CityOwnedGroceryPolitics.md) — Municipal grocery-store politics where visible affordability benefits compete with thin-margin retail execution and public-budget costs.
 - [Promotion Position Fit / 升职位置匹配](concepts/PromotionPositionFit.md) — Career strategy frame for testing whether a role is visible, solves superior demand, fits trust and risk expectations, and sits with organizational momentum.
 - [党锢亲属牵连缩限 / Party Prohibition Kinship Narrowing](concepts/PartyProhibitionKinshipNarrowing.md) — Late-Han legal repair that narrows party-prohibition collateral punishment by excluding more distant kin.
@@ -14703,7 +14789,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rigid Obedience Crisis Failure / 危机僵化奉诏](concepts/RigidObedienceCrisisFailure.md) — Hanji 966 pattern where formal obedience to a captured command channel destroys practical leverage in a crisis.
 - [Merit Concealment Self-Protection](concepts/MeritConcealmentSelfProtection.md) — Hanji 967 pattern where dangerous public credit is left unclaimed so survival and clan continuity are protected.
 - [Executor Character Advice Risk](concepts/ExecutorCharacterAdviceRisk.md) — Hanji 967 pattern where sound survival advice becomes destructive when violent executors gain coercive power.
-- [River Corridor Strategic Base / 长江走廊战略根据地](concepts/RiverCorridorStrategicBase.md) — Hanji 969 frame for judging Yangzhou, Jingzhou, and Yizhou as route, resource, and state-building bases along the Yangtze.
+- [River Corridor Strategic Base / 长江走廊战略根据地](concepts/RiverCorridorStrategicBase.md) — 以省郡资源、江河通道、关口汇流与地方控制共同衡量长江沿线根据地价值的战略框架。
 - [Courtesy-Covered Elimination / 礼遇包装式清除](concepts/CourtesyCoveredElimination.md) — Pattern where public honor, appointment, or escort protocol conceals a secret removal attempt, as in Yuan Shao's failed strike against Lü Bu.
 - [Benevolent Command Execution Gap / 仁厚指挥执行缺口](concepts/BenevolentCommandExecutionGap.md) — Hanji 972 command-failure pattern where humane restraint is stated but not made executable through discipline, tactics, and siege design.
 - [Local Elite Security Panic / 地方士族安全恐慌](concepts/LocalEliteSecurityPanic.md) — Hanji 974 pattern where a ruler's purge of a prominent critic makes local elites treat rebellion as preemptive self-defense.
@@ -14873,7 +14959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [领导者轻身涉险 / Leader Personal Exposure](concepts/LeaderPersonalExposure.md) — Sun Ce pattern where solo hunting, weak guard preparation, and final fatal separation from guards turn personal freedom into leader-security and succession risk.
 - [Strategic Title Concession / 战略性名位让步](concepts/StrategicTitleConcession.md) — Hanji 1005 Cao Cao/Yuan Shao tactic of yielding visible rank to defer premature conflict while retaining practical room to consolidate.
 - [White Bear Effect / 白熊效应](concepts/WhiteBearEffect.md) — Hanji 1007 psychology frame where thought suppression rebounds, leading the host to recommend redirection, substitution, and sublimation.
-- [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — Hanji 1007 Kong Rong pattern where lineage, literary reputation, and scholarly courtesy do not become military, administrative, or advice-using capacity.
+- [Prestige-Capacity Gap / 名望能力落差](concepts/PrestigeCapacityGap.md) — 孔融案例中血统、文名与道德声望未能转化为治理、纳谏、权力判断或生存校准能力的落差。
 - [Rule Over Kinship Power / 法度压过亲缘特权](concepts/RuleOverKinshipPower.md) — Pattern where visible enforcement against royal-core, royal-household, clan-client, or marriage-side privilege makes public rule stronger than protected private access.
 - [Tuntian System / 屯田制](concepts/TuntianSystem.md) — Cao Cao's agricultural-logistics system, distinguishing 192 CE Qingzhou population conversion from 196 CE Xudu institutional implementation.
 - [Defeated Population Conversion / 降众资源化](concepts/DefeatedPopulationConversion.md) — Hanji 968 pattern where Cao Cao turns surrendered Yellow Turban people into Qingzhou Soldiers, farm labor, and supply capacity.
@@ -14989,7 +15075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [信任型宦官权力形成 / Trusted Eunuch Power Formation](concepts/TrustedEunuchPowerFormation.md) — Eunuch influence formation through competence, affective access, information channels, crisis usefulness, ruler trust, reward restraint, and inner-court consultation.
 - [Worldly Political Cultivation / 入世政治修行](concepts/WorldlyPoliticalCultivation.md) — Hanji 150 part 4 frame for Chen Ping's staying inside dangerous court politics as a form of practice rather than retreat.
 - [Covert Political Technology / 阴谋式政治技术](concepts/CovertPoliticalTechnology.md) — Chen Ping frame for hidden political work through inducement, rumor, information, and enemy-side division.
-- [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Hanji 154 pattern in which Chen Ping and Wei Wuzhi answer a private moral smear by returning Liu Bang to evidence, role, and useful talent.
+- [Moral Slander Reframing / 道德诬陷焦点转移](concepts/MoralSlanderReframing.md) — Defensive return from private scandal to relevant evidence, and the inverse use of moral stigma to make political punishment publicly defensible.
 - [Political Survival First / 安全第一政治生存](concepts/PoliticalSurvivalFirst.md) — Frame for treating self-preservation, leader exposure, host-risk reading, factional non-prosecution, staged alignment, alliance blocking, adviser exit, and timing as political disciplines.
 - [Crisis Withdrawal Self-Protection / 危局抽身自保](concepts/CrisisWithdrawalSelfProtection.md) — Late-Han pattern where actors preserve life and moral autonomy by lowering exposure, guarded speech, feigned death, withdrawal, or avoiding contacts who would become collateral targets.
 - [Fugitive Shelter Collateral Risk / 收留逃亡者的牵连风险](concepts/FugitiveShelterCollateralRisk.md) — Pattern where hiding a politically pursued person can save them but transfer danger to hosts, kin, friends, local officials, and helpers.
@@ -15212,7 +15298,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Surrendered Prisoner Security Dilemma / 杀降安全困境](concepts/SurrenderedPrisonerSecurityDilemma.md) — Post-victory dilemma where keeping surrendered troops preserves manpower but creates guarding, feeding, revolt, and legitimacy risks.
 - [War Cost Tempo Discipline / 战争成本与速决纪律](concepts/WarCostTempoDiscipline.md) — Resource-discipline frame where speed, delay, or nonmilitary victory must be judged against manpower, food, logistics, and campaign endurance.
 - [武装部众整合成本 / Armed Follower Integration Cost](concepts/ArmedFollowerIntegrationCost.md) — Hanji 1037 pattern where followers gained after an armed leader's death become food, discipline, and command costs rather than free strength.
-- [War as Violent Redistribution / 战争的暴力再分配](concepts/WarAsViolentRedistribution.md) — Source-scoped Hanji 1038 frame treating war as forcible transfer of territory, people, resources, and other survival space.
+- [War as Violent Redistribution / 战争的暴力再分配](concepts/WarAsViolentRedistribution.md) — 以庐江和江夏为例，将战争理解为领土、人口、船舶、生产与训练能力的强制转移。
 - [Battlefield Encirclement Logistics / 战场围困与断粮](concepts/BattlefieldEncirclementLogistics.md) — Operational pattern where route cuts, feigned retreat, flank insertion, pursuit pressure, and fieldworks turn movement into supply, retreat, or crowding disaster.
 - [Shield-State Rescue Failure / 屏障国救援失灵](concepts/ShieldStateRescueFailure.md) — Alliance failure mode where states refuse troops or grain to a buffer state whose survival protects them from a common enemy.
 - [Paper War Command Trap / 纸上谈兵式统帅陷阱](concepts/PaperWarCommandTrap.md) — Failure mode where theoretical military fluency and reputation are mistaken for battlefield command competence.
@@ -15288,7 +15374,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Post-Coalition Spoils Imbalance / 联军战后利益失衡](concepts/PostCoalitionSpoilsImbalance.md) — Post-victory payoff problem where Qin treats treasure as inadequate and attacks Wei after the anti-Qi coalition.
 - [Crisis Autonomous Marriage / 患难自主婚姻](concepts/CrisisAutonomousMarriage.md) — Relationship pattern where Tian Fazhang and Jun Wang Hou's private crisis bond precedes restored royal marriage.
 - [Retainer Revenge Mobilization / 臣下复仇动员](concepts/RetainerRevengeMobilization.md) — Pattern where loyalty to a killed ruler or commander becomes organized revenge, from Wang Sun Gu's public pledge to Lady Xu's covert Sun Gao-Fu Ying ambush.
-- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — Pattern where loyalty, duty, refuge, or honor shifts danger onto family, hosts, followers, civilians, or local people.
+- [Loyalty-Collateral Dilemma / 忠义牵连困境](concepts/LoyaltyCollateralDilemma.md) — 忠义、职责、庇护或他人后续行动把风险转嫁给家属、主人、追随者与地方共同体的模式。
 - [Xunzian Wangba Three Paths / 荀子王霸三分法](concepts/XunzianWangbaThreePaths.md) — Xunzi-derived framework where ritual-righteous rule becomes kingly rule, credible trust supports hegemony, and profit-first deception leads toward ruin.
 - [Xing'e Theory / 性恶论](concepts/XingETheory.md) — Source-scoped Xunzi human-nature doctrine used to explain why ritual, law, education, and credible institutions are needed for political order.
 - [Victory Overreach Failure / 数胜必亡式胜利反噬](concepts/VictoryOverreachFailure.md) — Pattern where victory inflates confidence, relaxes discipline, exhausts support, kills corrective feedback, or invites tactical reversal.
@@ -16286,7 +16372,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Safety Ideal Fatal Contradiction](concepts/SafetyIdealFatalContradiction.md) — Pattern where a space organized around protection produces a fatal outcome against someone it claimed to protect.
 - [Chatbot Memory Salience Failure](concepts/ChatbotMemorySalienceFailure.md) — Failure mode where a chatbot remembers a fact but misjudges its importance, sensitivity, timing, or conversational relevance.
 - [AI Lab Safety Report Cards](concepts/AILabSafetyReportCards.md) — External scorecard approach for comparing frontier AI labs' model testing, whistleblower policies, current harms, military posture, and safety commitments.
-- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on specificity, independence, accountability, and resistance to competitive pressure.
+- [Voluntary AI Safety Commitments](concepts/VoluntaryAISafetyCommitments.md) — Nonbinding AI-company safety promises whose credibility depends on observable action, independent access, consequences, and feasible participation.
 - [Unilateral AI Pause Commitments](concepts/UnilateralAIPauseCommitments.md) — Stronger pause pledges that should trigger at dangerous capability thresholds even if competitors keep developing.
 - [Tool AI Human Control](concepts/ToolAIHumanControl.md) — Safety-governance path where AI systems remain tools under human direction rather than treating superintelligence as necessary or inevitable.
 - [Physical Intelligence System Stack](concepts/PhysicalIntelligenceSystemStack.md) — Yao Song's definition of physical intelligence as data, compute, models, software, hardware, scenes, solutions, and remote systems working together.
@@ -19377,14 +19463,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Russian Elite Discontent](concepts/RussianEliteDiscontent.md) — Insider-pressure pattern where sanctioned or threatened Russian elites treat the Ukraine war as a survival and state-direction problem.
 - [Authoritarian War Exit Dilemma](concepts/AuthoritarianWarExitDilemma.md) — Trap where a ruler who started a costly war must choose between escalation and repression or a scaled-back exit that risks looking like defeat.
 - [Index Fund Automatic Exposure](concepts/IndexFundAutomaticExposure.md) — Risk pattern where benchmark inclusion forces passive funds and pensions to hold a company regardless of savers' direct valuation judgment.
-- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle that central-bank policy should resist short-term political pressure while still being judged by later outcomes, removal rules, and dissent.
+- [Central Bank Independence](concepts/CentralBankIndependence.md) — Monetary-governance principle shaped by legal guardrails, credible targets, public reasoning, committee norms, market pressure, and resistance to electoral demands.
 - [Inflation Bias](concepts/InflationBias.md) — Monetary-policy problem where governments pressure central banks toward short-term stimulus and later inflation costs.
 - [For-Cause Removal Standard](concepts/ForCauseRemovalStandard.md) — Legal boundary around when a president may remove a Fed board member, central to the Lisa Cook case in the Powell source.
 - [Iran Postwar Economic Relief](concepts/IranPostwarEconomicRelief.md) — Economic package around blockade relief, sanctions relief, asset unfreezing, and a proposed reconstruction fund after the U.S.-Iran memorandum.
 - [Presidential Memorial Culture](concepts/PresidentialMemorialCulture.md) — Presidential museums, libraries, and centers as memory institutions that can preserve civic history while giving presidents quasi-imperial aura.
 - [AI Backlash Politics](concepts/AIBacklashPolitics.md) — Electoral and regulatory politics formed by public anxiety about AI jobs, children, mental health, data centers, tech power, and speed of change.
-- [AI Regulatory Capture Risk](concepts/AIRegulatoryCaptureRisk.md) — Risk that frontier AI safety rules become incumbent-friendly barriers when leading labs help define standards, thresholds, release procedures, or verified-access gates.
-- [AI Industry Self-Regulation](concepts/AIIndustrySelfRegulation.md) — Debate over voluntary AI standards, ratings, and information-sharing versus quasi-governmental pre-release model checkpoints.
+- [AI Regulatory Capture Risk](concepts/AIRegulatoryCaptureRisk.md) — Risk that AI safety rules become incumbent barriers through self-defined thresholds, disproportionate costs, or closed-lab assumptions.
+- [AI Industry Self-Regulation](concepts/AIIndustrySelfRegulation.md) — Industry-led AI standards and review tested against evaluator plurality, outside enforcement, durability, and startup affordability.
 - [Data Center Backlash](concepts/DataCenterBacklash.md) — Local and political opposition to AI data centers over noise, power demand, bills, cost shifting, environmental burden, and rapid technological change.
 - [Recursive Self-Improvement Regulation Paradox](concepts/RecursiveSelfImprovementRegulationParadox.md) — Governance problem where approval gates may slow compliant AI labs while distributed model-improvement loops continue elsewhere.
 - [Affordability-Driven Socialism](concepts/AffordabilityDrivenSocialism.md) — Political pattern where high housing, healthcare, education, energy, and childcare costs push voters toward state intervention or DSA-style ideas.
@@ -20349,5 +20435,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Premium Ingredient Halo Marketing / 高端食材光环营销](concepts/PremiumIngredientHaloMarketing.md) — Using an ingredient's inherited scarcity and status to elevate ordinary consumer products.
 - [Retail Hit Template Diffusion / 零售爆款模板扩散](concepts/RetailHitTemplateDiffusion.md) — Influential retail success reducing demand uncertainty and triggering cross-brand or cross-category imitation.
 - [Ingredient-Flavor Label Transparency / 食材与风味标签透明度](concepts/IngredientFlavorLabelTransparency.md) — Consumer-information boundary between named-ingredient content and flavor delivered through compound systems.
+- [私人担保式赦免 / Personal-Guarantee Clemency](concepts/PersonalGuaranteeClemency.md) — 可信中介以自身可受追责的承诺承担被赦者风险，使私人信用成为例外宽宥的执行保障。
+- [暴力资本的体制化转换 / Violence-to-Institutional-Legitimacy Conversion](concepts/ViolenceToInstitutionalLegitimacy.md) — 将私人武力、组织与威望转入提供军队、后勤、官位和政治授权的制度平台，同时保留其旧有社会负债。
+
+- [Relational Border / 关系性边界](concepts/RelationalBorder.md) — Border understood as a changing zone of separation, contact, movement, identity, and negotiation rather than only a fixed line.
+- [Modern Boundary Hardening / 现代边界硬化](concepts/ModernBoundaryHardening.md) — Process through which states, markets, and empires make territorial, legal, property, and identity categories more exclusive.
+- [Colonial Category Afterlife / 殖民分类遗产](concepts/ColonialCategoryAfterlife.md) — Persistence of colonial partitions, classifications, institutions, and economic positions after formal decolonization.
+- [Historical International Law / 国际法历史化](concepts/HistoricalInternationalLaw.md) — Method that reconstructs a legal rule's historical problem and power relations before applying it as a present standard.
+- [Problem-Led Interdisciplinarity / 真问题驱动的跨学科](concepts/ProblemLedInterdisciplinarity.md) — Research crossing disciplines because the underlying problem requires it rather than for interdisciplinary branding.
+- [Okinawa Base Politics](concepts/OkinawaBasePolitics.md) — Conflict among alliance strategy, unequal local military burdens, historical memory, consent, and economic priorities in Okinawa.
+- [Climate-Altered Summer](concepts/ClimateAlteredSummer.md) — Warming-driven reshaping of calendars, travel, hazards, outdoor life, and seasonal culture.
+- [Incentive-Compatible AI Safety](concepts/IncentiveCompatibleAISafety.md) — AI-safety design principle aligning accountable conduct, cross-border participation, and feasible burdens for differently resourced actors.
 
 ## Syntheses

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "HistoricalFantasySourceLayering"
     title: "Historical Fantasy Source Layering"
     url: "/wiki/concepts/historicalfantasysourcelayering/"
+  - key: "HistoricalInternationalLaw"
+    title: "Historical International Law / 国际法历史化"
+    url: "/wiki/concepts/historicalinternationallaw/"
   - key: "HistoricalJianghuSpace"
     title: "Historical Jianghu Space"
     url: "/wiki/concepts/historicaljianghuspace/"

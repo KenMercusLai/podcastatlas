@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "IncenseFormulaReconstruction"
     title: "Incense Formula Reconstruction / 古方香复刻"
     url: "/wiki/concepts/incenseformulareconstruction/"
+  - key: "IncentiveCompatibleAISafety"
+    title: "Incentive-Compatible AI Safety"
+    url: "/wiki/concepts/incentivecompatibleaisafety/"
   - key: "IncidentalExposure"
     title: "Incidental Exposure / 偶然暴露"
     url: "/wiki/concepts/incidentalexposure/"
@@ -242,6 +245,9 @@ wiki_pages:
   - key: "IndexReentryDiscipline"
     title: "Index Reentry Discipline"
     url: "/wiki/concepts/indexreentrydiscipline/"
+  - key: "IndianCheeseMarketAdaptation"
+    title: "Indian Cheese Market Adaptation"
+    url: "/wiki/concepts/indiancheesemarketadaptation/"
   - key: "IndianElephantCorridors"
     title: "Indian Elephant Corridors"
     url: "/wiki/concepts/indianelephantcorridors/"
@@ -278,6 +284,9 @@ wiki_pages:
   - key: "IndividualizedRiskResponsibility"
     title: "Individualized Risk Responsibility / 风险责任个体化"
     url: "/wiki/concepts/individualizedriskresponsibility/"
+  - key: "Industrial5GDeploymentConstraint"
+    title: "Industrial 5G Deployment Constraint"
+    url: "/wiki/concepts/industrial5gdeploymentconstraint/"
   - key: "IndustrialAIROIFilter"
     title: "Industrial AI ROI Filter"
     url: "/wiki/concepts/industrialairoifilter/"

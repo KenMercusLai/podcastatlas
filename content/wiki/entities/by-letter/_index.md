@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "AlexGoldmark"
     title: "Alex Goldmark"
     url: "/wiki/entities/alexgoldmark/"
+  - key: "AlexHearn"
+    title: "Alex Hearn"
+    url: "/wiki/entities/alexhearn/"
   - key: "AlexKarp"
     title: "Alex Karp"
     url: "/wiki/entities/alexkarp/"
@@ -1196,6 +1199,9 @@ wiki_pages:
   - key: "ArcherAviation"
     title: "Archer Aviation"
     url: "/wiki/entities/archeraviation/"
+  - key: "ArchieHall"
+    title: "Archie Hall"
+    url: "/wiki/entities/archiehall/"
   - key: "Area51"
     title: "Area 51 / 51区"
     url: "/wiki/entities/area51/"

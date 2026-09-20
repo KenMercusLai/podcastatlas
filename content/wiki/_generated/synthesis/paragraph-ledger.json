@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
       "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
       "7d00fe316522b9c1d877c9350f319e31a7227ed62752586e977fc8ba53593ca7",
       "62345d0f4009399ffb3bfef48e18f96b1d1f1c3d21a39cb536cc772a4d23a8bd",
@@ -119,6 +120,7 @@
       "9287e5576c2878262bd3a7a2580e6ed403fd10750df46953967a60782d2a7e76",
       "7fca9efaffda934b2463110796fbad62c8f352d25e375b24271513ad79b7e93d",
       "ae71dbdd6403a32e10267302cd073825e370d3b319cc3252cdb329bb1e7ce3a3",
+      "34646cc677e178ec72b7fc957163cf9fee15d3004172ca39c26fc2fca7bf4394",
       "fcccba5660d3f18e6fc8133ed6d0035e73063f41c69062b9098ceca724399c84",
       "6902b71eeb8b569ec8dc66b8118010ab7186921134cad8cf1b3f70919826a14a",
       "4fec77c79d5c7333086558aff9374a48a12e48f51976fceebe2421c31ab3f9f6",
@@ -641,17 +643,44 @@
       "61287fbcf7e85b671f759c4e9bb8b794577f35d12cd97276648c11afe21388dd",
       "d147e363b509dc6e1e7b0ab4ae5eac65a8fc586ccade3cf4be71959547d0f23c",
       "fbe4e46194bddca646972cda599c1a49269f2402abee6b6993df2000c9d6fc42",
+      "22ddf6968275a870f4bf0648208ddef9e9562574b7c95264f146ff0a5a1038f9",
       "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
       "386eb1a37d8328e6d404814dd69a30afe7652b25821d4e3342b3ace419608978",
       "df339f42b2ad8a46ae2cf12e2a69c18d634b6e87c82286d4b373068d1a23bb68",
       "c29438b114c3e248f7a0d66b3c7ee79f3dbddcc5637a83930adae18521aeef73",
-      "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0"
+      "c346d7f6ccd39a86f20be06cfb10b13c851d446b8ed53f55db3983c0c49f00d0",
+      "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
+      "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d"
     ],
-    "paragraph_count": 645
+    "paragraph_count": 650
   },
-  "overview_commit": "820446de71e1473c7a21a0a979b8cbc60be0d8e8",
-  "overview_digest": "464d9ad4ddf8b6dff50411b706ad0f751fc16718434303eb6181cad94ca6889b",
+  "overview_commit": "a9df62933d19ea478f65bda5aec679dcedc58df7",
+  "overview_digest": "7b608ff9a7aad8425bba102ccc6c3e124896b0d22ea4b4109f257cfd2f10f45c",
   "paragraphs": [
+    {
+      "id": "42f92cd2964242988646d6fcafb06092155469e6042ff99e51b86b0db1fc6c8a",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|《资治通鉴·汉纪》1090丨他曾冒死藏兄、为母哭血，真是不孝之人吗？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completing [[KongRong|孔融]]'s 208 CE death branch. It adds [[ZhiXiLateHan|脂习]], [[LuCuiLateHan|路粹]], and [[KongRongChildren|孔融子女]], while extending [[MoralSlanderReframing|道德诬陷焦点转移]] and [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]]. Its core synthesis is that a political challenge can be converted into a publicly defensible death case by bundling security, association, hierarchy, and private-morality charges: the “unfilial” label is qualified by Kong Rong's earlier responsibility-taking and reported mourning, his children's deaths expose the household reach of punishment, and Zhi Xi's surviving act of mourning shows that terror can isolate a body without fully controlling reputation. No settled contradiction is recorded; the proposal wording, charge text, sayings, children's details, dialogue, and Cao Cao's motive remain source-scoped, while “希律” is normalized to the received Lu Cui identity.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "FuneraryDefianceUnderPoliticalTerror",
+        "KongRong",
+        "KongRongChildren",
+        "LuCuiLateHan",
+        "MoralSlanderReframing",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhiXiLateHan",
+        "zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj"
+      ]
+    },
     {
       "id": "c37f572ff24992e5653505450d2470090741f203f0fef28645c5d253a7a508f4",
       "primary_topic": "governance-and-institutions",
@@ -4091,6 +4120,32 @@
         "Nepal",
         "TheIntelligence",
         "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
+      ]
+    },
+    {
+      "id": "34646cc677e178ec72b7fc957163cf9fee15d3004172ca39c26fc2fca7bf4394",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "culture-and-media",
+        "science-health-and-climate"
+      ],
+      "text": "[[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504|尼泊爾特大洪災現場：一場沒有遺體的葬禮]] deepens the same August 26 flood through [[DuanwenNewsPodcast|端聞 / 端傳媒新聞播客]] field reporting. It adds [[CrossBorderDisasterEarlyWarning]], [[LossAndDamageClimateFinance]], and [[DisasterVictimIdentificationAndBodyAbsentMourning]], while extending [[Nepal]], [[HinduKushHimalaya]], [[HimalayanGlacialFloodRisk]], [[HydropowerConcentrationRisk]], and [[ClimateAidRetrenchment]]. Its core synthesis is that disaster harm continues through institutional time: failed upstream warning compresses evacuation, incomplete earthquake reconstruction preserves exposure, dispersed remains make identification part of grief care, hydropower damage widens the economic shock, and climate finance can exist without arriving when survivors need it. The source extends rather than overturns the earlier account; casualty, missing-person, loss, translated-name, and fund figures remain provisional, and its funding arithmetic is internally inconsistent.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "ClimateAidRetrenchment",
+        "CrossBorderDisasterEarlyWarning",
+        "DisasterVictimIdentificationAndBodyAbsentMourning",
+        "DuanwenNewsPodcast",
+        "HimalayanGlacialFloodRisk",
+        "HinduKushHimalaya",
+        "HydropowerConcentrationRisk",
+        "LossAndDamageClimateFinance",
+        "Nepal",
+        "niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504"
       ]
     },
     {
@@ -19489,6 +19544,35 @@
       ]
     },
     {
+      "id": "22ddf6968275a870f4bf0648208ddef9e9562574b7c95264f146ff0a5a1038f9",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128|Insurers race to cover AI errors]], a [[MarketplaceTech]] episode on insurance as infrastructure for enterprise AI adoption. It adds [[CorgiAIInsurance|Corgi]], [[Claimy]], [[GallagherInsurance|Gallagher]], [[Deloitte]], [[NicoLacqua]], [[InesButemacha]], [[JohnFarleyGallagher|John Farley]], [[AILiabilityInsurance]], [[AIAgentRiskTesting]], and [[AIInsuranceDataScarcity]]. Its core synthesis is that AI coverage is splitting into explicit specialist products and possible legacy-policy exclusions while sparse loss history makes pricing unstable; Claimy's testing-remediation-premium loop shows how underwriting can also create pre-loss safety incentives. No settled contradiction is recorded; adoption, market-size, policy-language, pricing, regulatory-approval, and claims-performance assertions remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 2,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AIAgentRiskTesting",
+        "AIInsuranceDataScarcity",
+        "AILiabilityInsurance",
+        "Claimy",
+        "CorgiAIInsurance",
+        "Deloitte",
+        "GallagherInsurance",
+        "InesButemacha",
+        "JohnFarleyGallagher",
+        "MarketplaceTech",
+        "NicoLacqua",
+        "tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128"
+      ]
+    },
+    {
       "id": "afc27108680879a0992249e75705ba4dfebfeb13fcca15940335e672c9c1d235",
       "primary_topic": "business-and-markets",
       "secondary_topics": [],
@@ -19593,6 +19677,60 @@
         "RuiqiJiangtouZizhiTongjian",
         "XinyeLateHan",
         "zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k"
+      ]
+    },
+    {
+      "id": "6fc8bbb68bba9ad4f7edebf87eebc994b6f78b2cc2d6ed202ced40421f4ce5fc",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf|《资治通鉴·汉纪》1086丨孙权备好装人头的木盒，为何偏偏放过苏飞？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closing [[SunQuan|孙权]]'s campaign against [[HuangZu|黄祖]] through [[GanNing|甘宁]]'s plea for [[SuFeiLateHan|苏飞]]. It adds [[SuFeiLateHan]], [[LingCaoLateHan]], [[PersonalGuaranteeClemency|私人担保式赦免]], and [[ViolenceToInstitutionalLegitimacy|暴力资本的体制化转换]], while extending [[GanNing]], [[LingTong|凌统]], and [[SunQuan]]. Its core synthesis is that remembered aid becomes politically effective when Gan Ning stakes his own life on Su Fei's conduct, while Sun Quan preserves useful but mutually hostile officers through pardon, prohibition, and separation; the same episode interprets Gan Ning's movement from irregular force to official command as institutional conversion rather than moral purification. No settled contradiction is recorded; the boxes, exact dialogue, kowtow injury, repeated revenge attempts, reassignment, inner motives, and chancellor-office claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "GanNing",
+        "HuangZu",
+        "LingCaoLateHan",
+        "LingTong",
+        "PersonalGuaranteeClemency",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuFeiLateHan",
+        "SunQuan",
+        "ViolenceToInstitutionalLegitimacy",
+        "zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf"
+      ]
+    },
+    {
+      "id": "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets"
+      ],
+      "text": "The latest addition is [[tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4|特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年]], a [[HuzuoHuyou|忽左忽右]] conversation with [[YangYangTelecomResearcher|杨旸]] on mobile communication as the convergence of networks, chips, batteries, materials, software, and industrial design. It adds [[YangYangTelecomResearcher]], [[MobileTechnologyConvergence]], [[Industrial5GDeploymentConstraint]], [[MobileNetworkEnergyTradeoff]], [[CellularSatelliteComplementarity]], and [[AmbientVoiceAgentInterface]], while extending [[GSMStandardization]], [[FiveG|5G]], [[FoldablePhoneProductivity]], [[FoldableAppAdaptation]], and [[SmartphoneAIHub]]. Its core synthesis is that technical capability becomes useful only when standards, terminals, energy, spectrum, business ownership, software ecosystems, and form factor align; the likely future terminal may distribute identity and compute across a phone, body-worn microphone, edge nodes, and cloud services rather than choosing one device. No settled contradiction is recorded; the microphone endpoint qualifies but does not erase the phone-hub thesis, while the Xiaomi-sponsored foldable forecast, product specifications, network counts, frequency examples, hinge durability, historical dates, and 6G timing remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 4,
+        "business-and-markets": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AmbientVoiceAgentInterface",
+        "CellularSatelliteComplementarity",
+        "FiveG",
+        "FoldableAppAdaptation",
+        "FoldablePhoneProductivity",
+        "GSMStandardization",
+        "HuzuoHuyou",
+        "Industrial5GDeploymentConstraint",
+        "MobileNetworkEnergyTradeoff",
+        "MobileTechnologyConvergence",
+        "SmartphoneAIHub",
+        "YangYangTelecomResearcher",
+        "tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4"
       ]
     }
   ],

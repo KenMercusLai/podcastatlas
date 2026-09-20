@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "ZhongouRuibo"
     title: "中欧瑞博 / Zhongou Ruibo"
     url: "/wiki/entities/zhongouruibo/"
+  - key: "ZTOExpress"
+    title: "中通快递"
+    url: "/wiki/entities/ztoexpress/"
   - key: "ZhiJiWang"
     title: "主机网"
     url: "/wiki/entities/zhijiwang/"
@@ -764,6 +767,9 @@ wiki_pages:
   - key: "ZhangBinSportsMedia"
     title: "张斌 / Zhang Bin"
     url: "/wiki/entities/zhangbinsportsmedia/"
+  - key: "ZhangJiCaoOfficialLateHan"
+    title: "张既 / Zhang Ji (Cao official, late Han)"
+    url: "/wiki/entities/zhangjicaoofficiallatehan/"
   - key: "ZhangShi"
     title: "张时 / Zhang Shi"
     url: "/wiki/entities/zhangshi/"
@@ -1280,6 +1286,9 @@ wiki_pages:
   - key: "ZhaiChaoLateHan"
     title: "翟超 / Zhai Chao (late Han)"
     url: "/wiki/entities/zhaichaolatehan/"
+  - key: "ZhiXiLateHan"
+    title: "脂习 / Zhi Xi (late Han)"
+    url: "/wiki/entities/zhixilatehan/"
   - key: "Zhiyanzhai"
     title: "脂砚斋 / Zhiyanzhai"
     url: "/wiki/entities/zhiyanzhai/"

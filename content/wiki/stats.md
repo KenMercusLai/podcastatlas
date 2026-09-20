@@ -11,25 +11,28 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 7563
-- Entities: 10244
-- Sources: 2525
-- Total wiki content pages: 20333
+- Concepts: 7597
+- Entities: 10288
+- Sources: 2541
+- Total wiki content pages: 20427
 
 ## Links
-- Wiki link references: 532219
-- Unique wiki link targets: 20331
-- Missing targets: 0
+- Wiki link references: 533604
+- Unique wiki link targets: 20426
+- Missing targets: 1
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2525
-- Matched episodes: 2525
+- Source pages: 2541
+- Matched episodes: 2541
 - Missing source_file: 0
 - Unmatched source_file: 0
 
-All wiki links resolve to unique public wiki pages.
+## Missing Targets
+
+- `[[zizhi-tongjian-hanji-154-tongyangshi-mianlin-chanhuanghaiyou-ren-nizhankaiqi-buhuoyier-judian]]`
+  - `content/wiki/concepts/MoralSlanderReframing.md`
 
 All wiki source pages resolve to episode pages.

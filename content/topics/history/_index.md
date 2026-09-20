@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1882
+topic_total_pages: 1883
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -466,6 +466,9 @@ topic_concepts:
   - key: "HistoricalFantasySourceLayering"
     title: "Historical Fantasy Source Layering"
     url: "/wiki/concepts/historicalfantasysourcelayering/"
+  - key: "HistoricalInternationalLaw"
+    title: "Historical International Law / 国际法历史化"
+    url: "/wiki/concepts/historicalinternationallaw/"
   - key: "HistoricalJianghuSpace"
     title: "Historical Jianghu Space"
     url: "/wiki/concepts/historicaljianghuspace/"
@@ -706,9 +709,6 @@ topic_concepts:
   - key: "MoralFaceUnderPowerCompetition"
     title: "Moral Face Under Power Competition / 权力竞争中的要脸"
     url: "/wiki/concepts/moralfaceunderpowercompetition/"
-  - key: "MoralSlanderReframing"
-    title: "Moral Slander Reframing / 道德诬陷焦点转移"
-    url: "/wiki/concepts/moralslanderreframing/"
   - key: "MoralizedAntiDeceptionCommand"
     title: "Moralized Anti-Deception Command / 道德化拒诈指挥"
     url: "/wiki/concepts/moralizedantideceptioncommand/"
@@ -877,6 +877,9 @@ topic_concepts:
   - key: "PrivatePunishmentWithoutProcedure"
     title: "Private Punishment Without Procedure / 无程序私刑"
     url: "/wiki/concepts/privatepunishmentwithoutprocedure/"
+  - key: "ProblemLedInterdisciplinarity"
+    title: "Problem-Led Interdisciplinarity / 真问题驱动的跨学科"
+    url: "/wiki/concepts/problemledinterdisciplinarity/"
   - key: "ProfitDrivenArmyLimits"
     title: "Profit-Driven Army Limits / 功利型军队局限"
     url: "/wiki/concepts/profitdrivenarmylimits/"

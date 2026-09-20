@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -974,6 +974,12 @@ wiki_pages:
   - key: "EffectMeasuredPersonnelSelection"
     title: "实效考察式用人 / Effect-Measured Personnel Selection"
     url: "/wiki/concepts/effectmeasuredpersonnelselection/"
+  - key: "ExpressAntiInvolutionPriceFloor"
+    title: "快递反内卷与区域成本底线"
+    url: "/wiki/concepts/expressantiinvolutionpricefloor/"
+  - key: "ExpressNetworkInfrastructureCentralization"
+    title: "快递网络基础设施收权"
+    url: "/wiki/concepts/expressnetworkinfrastructurecentralization/"
   - key: "ExileLoyaltyThroughRitualToken"
     title: "持节守节式流亡忠诚 / Exile Loyalty Through Ritual Token"
     url: "/wiki/concepts/exileloyaltythroughritualtoken/"
@@ -989,6 +995,9 @@ wiki_pages:
   - key: "EarlyEunuchTerminologyMisreading"
     title: "早期宦官词义误读 / Early Eunuch Terminology Misreading"
     url: "/wiki/concepts/earlyeunuchterminologymisreading/"
+  - key: "EcommerceExpressPriceWar"
+    title: "电商快递价格战"
+    url: "/wiki/concepts/ecommerceexpresspricewar/"
   - key: "EmpressSelectionRitualLegitimacy"
     title: "皇后册立礼法合法性 / Empress Selection Ritual Legitimacy"
     url: "/wiki/concepts/empressselectionrituallegitimacy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -800,6 +800,12 @@ wiki_pages:
   - key: "MobileInternetPrehistory"
     title: "Mobile Internet Prehistory"
     url: "/wiki/concepts/mobileinternetprehistory/"
+  - key: "MobileNetworkEnergyTradeoff"
+    title: "Mobile Network Energy Tradeoff"
+    url: "/wiki/concepts/mobilenetworkenergytradeoff/"
+  - key: "MobileTechnologyConvergence"
+    title: "Mobile Technology Convergence"
+    url: "/wiki/concepts/mobiletechnologyconvergence/"
   - key: "MobileWork"
     title: "Mobile Work"
     url: "/wiki/concepts/mobilework/"
@@ -875,6 +881,9 @@ wiki_pages:
   - key: "ModerationAsPoliticalSurvival"
     title: "Moderation As Political Survival / 中庸圆滑政治生存"
     url: "/wiki/concepts/moderationaspoliticalsurvival/"
+  - key: "ModernBoundaryHardening"
+    title: "Modern Boundary Hardening / 现代边界硬化"
+    url: "/wiki/concepts/modernboundaryhardening/"
   - key: "ModernChineseAcademicInstitutionBuilding"
     title: "Modern Chinese Academic Institution Building / 中国现代学术制度建设"
     url: "/wiki/concepts/modernchineseacademicinstitutionbuilding/"

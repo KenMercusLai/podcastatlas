@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "ProblemIndustrialization"
     title: "Problem Industrialization"
     url: "/wiki/concepts/problemindustrialization/"
+  - key: "ProblemLedInterdisciplinarity"
+    title: "Problem-Led Interdisciplinarity / 真问题驱动的跨学科"
+    url: "/wiki/concepts/problemledinterdisciplinarity/"
   - key: "ProceduralizedViolence"
     title: "Proceduralized Violence / 程序化暴力"
     url: "/wiki/concepts/proceduralizedviolence/"
@@ -2033,6 +2036,9 @@ wiki_pages:
   - key: "ParentalExpectationShame"
     title: "父母期望羞耻化 / Parental Expectation Shame"
     url: "/wiki/concepts/parentalexpectationshame/"
+  - key: "PlatformExpressInterdependence"
+    title: "电商平台与快递网络互相依赖"
+    url: "/wiki/concepts/platformexpressinterdependence/"
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
@@ -2042,6 +2048,9 @@ wiki_pages:
   - key: "PrivateRetainerNetworkRisk"
     title: "私人宾客网络风险 / Private Retainer Network Risk"
     url: "/wiki/concepts/privateretainernetworkrisk/"
+  - key: "PersonalGuaranteeClemency"
+    title: "私人担保式赦免 / Personal-Guarantee Clemency"
+    url: "/wiki/concepts/personalguaranteeclemency/"
   - key: "PrivateInterestDisasterNeglect"
     title: "私利优先的灾害搁置 / Private-Interest Disaster Neglect"
     url: "/wiki/concepts/privateinterestdisasterneglect/"
@@ -2066,6 +2075,9 @@ wiki_pages:
   - key: "PosthumousMeritVindication"
     title: "身后功过昭雪 / Posthumous Merit Vindication"
     url: "/wiki/concepts/posthumousmeritvindication/"
+  - key: "PostalMonopolyPrivateExpressLegalization"
+    title: "邮政专营与民营快递合法化"
+    url: "/wiki/concepts/postalmonopolyprivateexpresslegalization/"
   - key: "ProphecyFulfillmentDisplacement"
     title: "预言兑现错位 / Prophecy Fulfillment Displacement"
     url: "/wiki/concepts/prophecyfulfillmentdisplacement/"

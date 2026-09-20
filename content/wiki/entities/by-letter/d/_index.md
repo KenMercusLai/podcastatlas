@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "DellTechnologies"
     title: "Dell Technologies"
     url: "/wiki/entities/delltechnologies/"
+  - key: "Deloitte"
+    title: "Deloitte"
+    url: "/wiki/entities/deloitte/"
   - key: "DeltaAirLines"
     title: "Delta Air Lines"
     url: "/wiki/entities/deltaairlines/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -476,6 +476,12 @@ wiki_pages:
   - key: "YeLuMureka"
     title: "叶律 / Ye Lu"
     url: "/wiki/entities/yelumureka/"
+  - key: "YuWeijiao"
+    title: "喻渭蛟"
+    url: "/wiki/entities/yuweijiao/"
+  - key: "YTOExpress"
+    title: "圆通速递"
+    url: "/wiki/entities/ytoexpress/"
   - key: "YuanjunWarringStates"
     title: "垣郡 / Yuan Commandery"
     url: "/wiki/entities/yuanjunwarringstates/"
@@ -695,6 +701,9 @@ wiki_pages:
   - key: "YangZhengxiuLateHan"
     title: "杨整修 / Yang Zhengxiu (late Han)"
     url: "/wiki/entities/yangzhengxiulatehan/"
+  - key: "YangYangTelecomResearcher"
+    title: "杨旸 / Yang Yang (Telecommunications Researcher)"
+    url: "/wiki/entities/yangyangtelecomresearcher/"
   - key: "YangHuiLateHan"
     title: "杨晖 / Yang Hui (late Han)"
     url: "/wiki/entities/yanghuilatehan/"
@@ -1061,6 +1070,9 @@ wiki_pages:
   - key: "Yubai"
     title: "雨白 / Yubai"
     url: "/wiki/entities/yubai/"
+  - key: "YundaExpress"
+    title: "韵达快递"
+    url: "/wiki/entities/yundaexpress/"
   - key: "YingchuanCommandery"
     title: "颍川郡 / Yingchuan Commandery"
     url: "/wiki/entities/yingchuancommandery/"

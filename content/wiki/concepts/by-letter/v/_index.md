@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7563
+wiki_total_pages: 7597
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -257,6 +257,9 @@ wiki_pages:
   - key: "VernacularFemaleReligiousWriting"
     title: "女性宗教白话书写 / Vernacular Female Religious Writing"
     url: "/wiki/concepts/vernacularfemalereligiouswriting/"
+  - key: "ViolenceToInstitutionalLegitimacy"
+    title: "暴力资本的体制化转换 / Violence-to-Institutional-Legitimacy Conversion"
+    url: "/wiki/concepts/violencetoinstitutionallegitimacy/"
   - key: "VassalHumiliationConspiracy"
     title: "诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy"
     url: "/wiki/concepts/vassalhumiliationconspiracy/"

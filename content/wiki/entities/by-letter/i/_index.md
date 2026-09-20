@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -122,6 +122,9 @@ wiki_pages:
   - key: "INEOS"
     title: "INEOS"
     url: "/wiki/entities/ineos/"
+  - key: "InesButemacha"
+    title: "Ines Butemacha"
+    url: "/wiki/entities/inesbutemacha/"
   - key: "InfinityVentureStudio"
     title: "Infinity Venture Studio"
     url: "/wiki/entities/infinityventurestudio/"

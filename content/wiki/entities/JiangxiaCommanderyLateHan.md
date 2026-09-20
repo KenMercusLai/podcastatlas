@@ -5,40 +5,50 @@ knowledge_schema: synthesis-v1
 tags: [place, commandery, late-han, jingzhou, disambiguation]
 sources:
   - zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq
+  - zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u
 last_updated: 2026-09-20
 ---
 
 # 江夏郡 / Jiangxia Commandery (Late Han)
 
 ## Overview
-江夏郡 / Jiangxia Commandery (Late Han) is the eastern Jingzhou command whose vacancy lets [[LiuQiLateHan|刘琦]] leave a dangerous succession center while retaining territory, troops, and relevance.
+江夏郡 / Jiangxia Commandery (Late Han) is the eastern Jingzhou command whose river position, population, naval capacity, and later vacancy make it both a contested corridor base and [[LiuQiLateHan|刘琦]]'s survival post.
 
 ## Current Profile
-Hanji 1091 introduces Jiangxia as both refuge and strategic position. After [[HuangZu|黄祖]] is killed by [[SunQuan|孙权]], Liu Qi asks [[LiuBiao|刘表]] for the vacant command. The move gives him distance from the pro-[[LiuCongLateHan|刘琮]] household coalition without reducing him to an unprotected exile. The episode then reads the commandery retrospectively as a hinge for Liu Bei's later regrouping and Sun-Liu cooperation, but that hidden-plan claim remains interpretive.
+Hanji 1085 adds the military-economic layer behind Jiangxia's political importance. The episode places [[MianKouLateHan|沔口]] at the Han-Yangtze confluence and describes [[HuangZu|黄祖]] using it to block [[SunQuan|孙权]]'s westward movement. When Wu breaks the ship barrier and takes Xiakou, the gain is presented as the transfer of population, shipbuilding, trained naval manpower, and corridor access, not merely a change of flag.
+
+Hanji 1091 supplies the succession consequence. After Huang Zu's death, Liu Qi asks [[LiuBiao|刘表]] for the vacant command, gaining distance from the pro-[[LiuCongLateHan|刘琮]] household coalition without becoming an unprotected exile. The episode then reads Jiangxia retrospectively as a hinge for Liu Bei's regrouping and Sun-Liu cooperation, while keeping deliberate hidden-plan claims interpretive.
 
 ## Key Characteristics
-- Eastern Jingzhou command associated with Huang Zu before his death.
-- Becomes available after Sun Quan kills Huang Zu in the episode's sequence.
-- Gives Liu Qi geographic distance from the succession struggle.
-- Preserves military and political capacity rather than offering safety through disappearance alone.
-- Later matters to Liu Bei's post-Changban recovery in the surrounding source sequence.
+- Eastern Jingzhou command positioned on a contested Yangtze-Han river corridor.
+- Uses Mian Kou as a defensive gateway against Wu's westward advance in Hanji 1085.
+- Is presented as containing population, shipbuilding capacity, and trained naval manpower usable by the victor.
+- Loses Huang Zu and Xiakou during Sun Quan's 208 CE campaign.
+- Becomes available as an external appointment after Huang Zu's death.
+- Gives Liu Qi distance from the succession struggle while preserving military and political capacity.
 
 ## Evidence
+- Chokepoint and defense: [[zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u|Hanji 1085]] presents Mian Kou as the approach Huang Zu blocks with anchored warships.
+- Resource transfer: [[zizhi-tongjian-hanji-1085-dongwu-naxia-jiangxia-dengyu-wan-le-liubiao-de-xin-lrnhjns-qu0d6tsit3j_re96zk2u|Hanji 1085]] attributes population, shipbuilding, naval-training, and forward-position value to Wu's victory.
 - Command vacancy: [[zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq|Hanji 1091]] says Huang Zu's death creates the opening Liu Qi seeks.
-- Survival value: [[zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq|Hanji 1091]] treats external appointment as Liu Qi's route away from household danger.
-- Strategic value: [[zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq|Hanji 1091]] presents Jiangxia as a Jingzhou hinge relevant to Liu Cong, Liu Bei, and Sun Quan.
+- Survival value: [[zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq|Hanji 1091]] treats external appointment as Liu Qi's route away from household danger without surrendering capacity.
+- Later hinge: [[zizhi-tongjian-hanji-1091-zhugeliang-dianhua-liuqi-beihou-ancang-shenme-zhanlue-fubi-lj2tfbi8qd3dxta8ehh8a0kt7qpq|Hanji 1091]] presents Jiangxia as relevant to Liu Cong, Liu Bei, and Sun Quan after the succession crisis deepens.
 
 ## Qualifications
-The current page is intentionally narrow and source-bounded. The episode does not establish a complete administrative geography, the exact command center, Liu Qi's tenure, or all stages of Huang Zu's defeat. Its claim that Zhuge Liang selected Jiangxia as a preplanned Liu Bei foothold is retrospective interpretation.
+The page remains source-bounded. Exact administrative geography, the relationship among Jiangxia, Xiakou, and Mian Kou, captive totals, the scale and ownership of shipyards, the maturity of the naval-training system, and all stages of Huang Zu's defeat require primary-source verification. Hanji 1091's claim that Zhuge Liang selected Jiangxia as a preplanned Liu Bei foothold is retrospective interpretation.
 
 ## What Changed
-- Created the late-Han commandery page from Hanji 1091's succession-exit and strategic-hinge account.
+- Added Jiangxia's river-chokepoint and military-economic role from Hanji 1085.
+- Connected the 208 CE conquest to the later vacancy used by Liu Qi.
+- Qualified the shipyard, naval-system, and exact geography claims as source-scoped.
 
 ## Relationships
-- [[HuangZu|黄祖]] - prior Jiangxia commander whose death creates the vacancy.
+- [[HuangZu|黄祖]] - prior commander whose defense and death define the transition.
+- [[MianKouLateHan|沔口]] - confluence position used to block the Wu advance.
+- [[SunQuan|孙权]] - external ruler whose victory removes Huang Zu and takes Xiakou.
 - [[LiuQiLateHan|刘琦]] - successor who uses the command as an external survival base.
-- [[LiuBiao|刘表]] - Jingzhou ruler who approves Liu Qi's appointment.
-- [[SunQuan|孙权]] - external ruler whose attack removes Huang Zu.
+- [[LiuBiao|刘表]] - Jingzhou ruler who loses the eastern shield and later approves Liu Qi's appointment.
 - [[LiuBei|刘备]] - later beneficiary of Liu Qi's Jiangxia force and position.
-- [[Jingzhou|荆州]] - province within which Jiangxia becomes a succession and coalition hinge.
+- [[RiverCorridorStrategicBase|长江走廊战略根据地]] - geography framework explaining the commandery's route and resource value.
 - [[PeripheralCommandExitStrategy|外镇避祸式生存]] - strategy that turns geographic removal into protected capacity.
+- [[WarAsViolentRedistribution|战争的暴力再分配]] - material-transfer frame for the 208 CE conquest.

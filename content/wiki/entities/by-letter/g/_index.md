@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "GalileoGalilei"
     title: "Galileo Galilei / 伽利略"
     url: "/wiki/entities/galileogalilei/"
+  - key: "GallagherInsurance"
+    title: "Gallagher"
+    url: "/wiki/entities/gallagherinsurance/"
   - key: "GallipoliCampaign"
     title: "Gallipoli Campaign"
     url: "/wiki/entities/gallipolicampaign/"

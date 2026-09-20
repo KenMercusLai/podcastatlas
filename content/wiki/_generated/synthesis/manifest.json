@@ -1,69 +1,69 @@
 {
   "content_date": "2026-09-20",
   "corpus": {
-    "episode_count": 2525,
-    "source_count": 2525
+    "episode_count": 2541,
+    "source_count": 2541
   },
   "generated": true,
   "global": {
-    "candidate_digest": "9294dd3f13bd7069043196ebecfb72b12dfeb6d231b0b25a42a41216519c0f64",
-    "compacted_at": "2026-09-19T19:16:31.358588Z",
+    "candidate_digest": "481193dcf0f40738c1f4d0c075bb7aae4ab60b489b76bd5ffbd3b2c38d2556ad",
+    "compacted_at": "2026-09-19T23:02:27.666477Z",
     "content_date": "2026-09-20",
     "corpus": {
-      "episode_count": 2524,
-      "source_count": 2524
+      "episode_count": 2536,
+      "source_count": 2536
     },
-    "output_digest": "0c2cba4d95a98e3f22ad7068ac12dd50db04839c029177def13bb3ca3712cecd",
-    "overview_commit": "bc6128fbdb91d357e4f71da4e1e46f2efec20f8b",
-    "overview_digest": "ff1e969c6facd08489200cc4ba84069b8673649aacb42a4928c2b69b5cb6d8e8",
-    "pending_ingests": 1,
+    "output_digest": "0cae3670b8175c6e45ca5842f7fc5b1b77f963cee4c2dd8231dd03901973c4c0",
+    "overview_commit": "78e312c45a7026f9bbb12584e48ef44e30677aa8",
+    "overview_digest": "0fd6ccecfe5fa7ad72a61c9f7062e127bc362898e242d3801cb9eb958e364d44",
+    "pending_ingests": 4,
     "pending_topics": []
   },
-  "overview_commit": "820446de71e1473c7a21a0a979b8cbc60be0d8e8",
-  "overview_digest": "464d9ad4ddf8b6dff50411b706ad0f751fc16718434303eb6181cad94ca6889b",
-  "paragraph_count": 645,
+  "overview_commit": "a9df62933d19ea478f65bda5aec679dcedc58df7",
+  "overview_digest": "7b608ff9a7aad8425bba102ccc6c3e124896b0d22ea4b4109f257cfd2f10f45c",
+  "paragraph_count": 650,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
-      "claim_digest": "cabef16138fb1498c6b584f22178bc3b8a01fc236de7fb66252deade6f7037c6",
-      "input_digest": "db1376cd690a34e41352c98da26054b9dc914f984d925b75be288f398a836078",
-      "output_digest": "20f62a43e479f5cb93c80b9e3c9b3af615b69dbd1d84072931575e7ed45b3193",
+      "claim_digest": "f9c05fb86e89b909ce5a459d78acc4cc36d989fc5a4f43506b3fb028c55346b5",
+      "input_digest": "516c87b33b300838b04fc87db5bd6e17751d3635306a7eb66696fc00280d709c",
+      "output_digest": "ffd66e2cf84ed78f96438e15e7f828ddfab4541d1c70534f9433938ce2ce1332",
       "title": "AI and Technology"
     },
     "business-and-markets": {
-      "claim_digest": "98f6ac7188dff8978426815c8e86a58c84f21a010aab6bd0cf0a482197232e18",
-      "input_digest": "989cd027276afab17e362d3424c3a766700f072ff59e59a8d35d7a8fa1531d98",
-      "output_digest": "f452e709ff61b285f4270a91de9d73e271183301af87ebf2dc9ba533b2730228",
+      "claim_digest": "601d57b54ea7bf0baf73dcca2b998a840c7059bc103155420c1247dfbf29ad5d",
+      "input_digest": "02264b82da4ca812c382561e73d9d3d373ca4097301649a3142d4d8dc551bafa",
+      "output_digest": "cd0e68770788bc3ccb2f4ed38c08cba387b02c8c4b17feed50693c1d9eaf1088",
       "title": "Business and Markets"
     },
     "culture-and-media": {
-      "claim_digest": "7c140bcbcd281ff78a5a4c1332dd26f3f332bfdcd1818bf4a63e5c87e975f7c9",
-      "input_digest": "112b8e3af68fa0d52500ddb6f9f6d7f71ad337ef87d5d51c8ac37230e168388a",
-      "output_digest": "42e86f05bd622d0745fdc047093f92c5f4d6d49bf36c3247b705cce1613b56b6",
+      "claim_digest": "c4bceac18dbff24e1ea3f90fadb544217873c24162de301f0f1222fc589adce7",
+      "input_digest": "d3f2d39e315686bdf30afe6e05841341a179cbf7cc901a862b7467dfd780df6a",
+      "output_digest": "8203fdc8945d9245a37bfff08d260ebaf668890795340996ddab88a3e28db487",
       "title": "Culture and Media"
     },
     "governance-and-institutions": {
-      "claim_digest": "1bb64dd912edc0cb4ae67947b118afe93485f742d063198374340c28ea35a933",
-      "input_digest": "72f0cd3d67c474435b15a7969b0232bb9e855031215625d090b4457456166641",
-      "output_digest": "d7c29a4e359f9175a1fc598fa68f5d5276800556ed1aa5b343ad08958a66dd4e",
+      "claim_digest": "fd03b1000ef2d25221e83117344501d306971a4d24876bd4ea3e954d9874044d",
+      "input_digest": "3b0e72f30eb9744f8c4924250b41d049b6904e879bd8a484031f22265e5d4ccc",
+      "output_digest": "9db7719dd53e6ec3e042de63e2e74140ee15981dccb0cf6caf8107ea292f1eaa",
       "title": "Governance and Institutions"
     },
     "history-and-geopolitics": {
-      "claim_digest": "4d2bafa36f9a0abde1be9980435fb951b6e13550ec6cf98d6121d4d6c1829014",
-      "input_digest": "3b6c682f3ddf43a5b58035cccdec824c7c44a7326301d96d47e2528ac4680ee5",
-      "output_digest": "453f46dfcd73101f9453bf194e068647106c7fc48e91e6af8abe5053c4d57a45",
+      "claim_digest": "012a0640349b3dee6d1acaccf162afea423ae744c4fb72e12f2304d9bcbd7170",
+      "input_digest": "5a91fe4d9f5de09e8a53d91a2938af0b010fe43510ddfea84ebd1f921b98097a",
+      "output_digest": "9f95e57f6bee4e210edda666de48ed9327d57b325b8fea8891c7d0c4d0bd97f4",
       "title": "History and Geopolitics"
     },
     "psychology-and-personal-development": {
-      "claim_digest": "8dff3a268b09ac40143b9c1e09f70df23df4ece49cf8482629d50063c06fcc83",
-      "input_digest": "112926a2c62f4bca006ce2d3cbc0d5c65cef4ad1f49b98cdfb2eee34625d3bcd",
-      "output_digest": "9406b683eb36a4fc9f70be0840887b26d6c178221ccfa5918c606b671736bef9",
+      "claim_digest": "13aeb036669b98b713a5abbe0ae20d9eb12731094cbe9b4e1336905d27c8a399",
+      "input_digest": "1e55e5fe1ba60087a2b2a5273cf1942b9a03f97639ed14d5e7fc2e85dbbd4e54",
+      "output_digest": "b8488169a0c0ef9fdfcdb256b94b46f8c4c614ca378aeba043c8b8ba48740895",
       "title": "Psychology and Personal Development"
     },
     "science-health-and-climate": {
-      "claim_digest": "7306c6f85213698257ef53580515779b503a467d9ce5b001851615c503e900b5",
-      "input_digest": "23dbc7cd98302ceed129e9273752449ec0afd53b33fc6c571dc99f6ac30f59da",
-      "output_digest": "a2d06ca652d6e9bf9ae9a7aeb2e33a121b8eb069e98a887bc94db6bf2c81972e",
+      "claim_digest": "dcb693d06bcc7f219af101889fe69115fb53cd6d43c2364aae5868ace8243f02",
+      "input_digest": "954acfa186aef6c679032e2785407bc8d3f59706c0c3a103fdbc3fd04c772b38",
+      "output_digest": "d8db69c941f79c96b77a0097c9e47c1cfd08c8b80b3cdc4ecbe24fe766092f7e",
       "title": "Science, Health, and Climate"
     },
     "work-education-and-society": {

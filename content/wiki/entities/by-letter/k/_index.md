@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10244
+wiki_total_pages: 10288
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "KofiBrowning"
     title: "Kofi Browning"
     url: "/wiki/entities/kofibrowning/"
+  - key: "KojaGentar"
+    title: "Koja Gentar"
+    url: "/wiki/entities/kojagentar/"
   - key: "Koji"
     title: "Koji"
     url: "/wiki/entities/koji/"
@@ -662,6 +665,9 @@ wiki_pages:
   - key: "KongRong"
     title: "孔融 / Kong Rong"
     url: "/wiki/entities/kongrong/"
+  - key: "KongRongChildren"
+    title: "孔融子女 / Kong Rong's children"
+    url: "/wiki/entities/kongrongchildren/"
   - key: "KongRongMother"
     title: "孔融母 / Kong Rong's mother"
     url: "/wiki/entities/kongrongmother/"
