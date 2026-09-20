@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？](sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk.md) — 杜畿单骑入河东，以授权、募兵和轮休降低豪强戒心并拆散其武力网络，为后续守城与地方动员铺路。
+- [《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？](sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu.md) — 杜畿以县级防御、断粮和外援平定河东叛乱，并以宽政、农桑、教育与军备建设经营十六年。
 - [《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？](sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di.md) — 曹操的屠城威胁如何反向强化壶关抵抗、高干败亡，以及梁习用授官、分兵、迁家属和武力整合并州。
 - [《资治通鉴·汉纪》1074丨权倾朝野的司马懿，为何每次见他都跪拜？](sources/zizhi-tongjian-hanji-1074-quan-qing-chaoye-de-simayi-weihe-meici-jian-ta-dou-guibai-lpiw4ebdo2s5cucfcpmpkrhfnubi.md) — 以常林的择主、清廉与避争讨论乱世善终，并以仲长统对高干的直谏和《昌言》批判连接识人、世袭能力衰减与治乱循环。
 - [《资治通鉴·汉纪》1075丨揭秘被《三国志》掩盖的亲密关系谋杀案](sources/zizhi-tongjian-hanji-1075-jiemi-bei-sanguozhi-yangai-de-qinmi-guanxi-moushaan-lnqfxk6r8h0nr6ytjfquosw_xvcq.md) — 以邯郸商与张猛从亲密旧友到权力冲突和谋杀的戏剧化叙事，讨论信任、兵权、资源与关系边界，并保留其年代和史料疑点。
@@ -2596,7 +2598,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ines Butemacha](entities/InesButemacha.md) — Claimy representative explaining test-linked AI underwriting and premium incentives.
 - [John Farley (Gallagher)](entities/JohnFarleyGallagher.md) — Cyber-risk executive describing insurers' move from silence to scrutiny on AI.
 - [司马懿 / Sima Yi](entities/SimaYi.md) — 以称病拒绝曹操征召、在抓捕威胁下接受任命，并被后世“装病”叙事塑造的汉末人物。
-- [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 以关系、行政后盾和沿途公开迎送推动马腾入朝的曹操使者，与张济明确消歧。
+- [张既 / Zhang Ji (Cao official, late Han)](entities/ZhangJiCaoOfficialLateHan.md) — 先赴关中请求马腾援助河东，后以关系、后勤与公开迎送推动马腾入朝的曹操使者。
 - [乐进 / Le Jin (late Han)](entities/LeJinLateHan.md) — 与于禁分驻要地却需要赵俨居中协调的曹军将领。
 - [脂习 / Zhi Xi (late Han)](entities/ZhiXiLateHan.md) — 孔融故友，生前劝其慎言，死后在政治恐惧中公开哭尸而获曹操赦免。
 - [路粹 / Lu Cui (late Han)](entities/LuCuiLateHan.md) — 孔融案中的正式弹劾者，将政治、交往、言论与名分指控捆绑为死罪案件。
@@ -3670,10 +3672,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [韩恒 / Han Heng (late Han)](entities/HanHengLateHan.md) — Loyal refusal figure who declines Jiao Chu's Cao-side oath and is released.
 - [赵独 / Zhao Du (late Han)](entities/ZhaoDuLateHan.md) — Youzhou rebel suppressed by Cao Cao after the surrender wave.
 - [霍奴 / Huo Nu (late Han)](entities/HuoNuLateHan.md) — Youzhou rebel paired with Zhao Du in killing local officials.
-- [杜畿 / Du Ji (late Han)](entities/DuJiLateHan.md) — Xun Yu-recommended administrator appointed to hold Hedong during western instability.
+- [杜畿 / Du Ji (late Han)](entities/DuJiLateHan.md) — 单骑入河东并拆散豪强武力，以县级防御、断粮和外援守成后长期经营地方的太守。
 - [王邑 / Wang Yi (Hedong administrator)](entities/WangYiHedongLateHan.md) — Outgoing Hedong administrator whose handoff to Du Ji becomes contested.
-- [卫固 / Wei Gu (late Han)](entities/WeiGuLateHan.md) — Hedong local actor whose Wang Yi retention request is linked to Gao Gan.
-- [范先 / Fan Xian (late Han)](entities/FanXianLateHan.md) — Hedong zhonglangjiang paired with Wei Gu in the suspicious Wang Yi retention request.
+- [卫固 / Wei Gu (late Han)](entities/WeiGuLateHan.md) — 从阻止杜畿上任、接受名义授权到联合反叛，最终无法夺营取粮而败亡的河东地方人物。
+- [范先 / Fan Xian (late Han)](entities/FanXianLateHan.md) — 以杀官威慑杜畿、接受名义兵权后参与河东叛乱，个人结局仍未确定的中郎将。
 - [张盛 / Zhang Sheng (late Han)](entities/ZhangShengLateHan.md) — Henei armed actor active around Xiaoshan and Mianchi in the post-Ye instability chain.
 - [张衍 / Zhang Yan (Hedong-Hongnong actor)](entities/ZhangYanHedongLateHan.md) — Hongnong-area actor rising in response to Zhang Sheng, distinct from Black Mountain Zhang Yan.
 - [ChatGPT 6 / Astra](entities/ChatGPT6Astra.md) — Source-scoped OpenAI frontier-model rollout discussed as a near-AGI trigger in the All-In episode.
@@ -5738,7 +5740,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘辟 / Liu Pi (Runan late Han)](entities/LiuPiRunanLateHan.md) — Runan Yellow Turban remnant whose Yuan Shao-aligned recruitment pressure tests Li Tong's Cao allegiance.
 - [曹洪 / Cao Hong](entities/CaoHong.md) — Cao-family resource contributor and battlefield rescuer whose later client network tests law over kinship.
 - [钟繇 / Zhong Yao](entities/ZhongYao.md) — Cao-side official whose profile joins Chang'an appointment persuasion, Xun Yu's talent chain, Guanzhong stabilization, and the Pingyang defeat of Guo Yuan.
-- [马腾 / Ma Teng](entities/MaTeng.md) — 从凉州起兵、关中博弈和曹方合作走向208年入朝、兵权交子与家属迁邺的西部军事领袖。
+- [马腾 / Ma Teng](entities/MaTeng.md) — 从凉州起兵、关中博弈和河东援军合作走向208年入朝、兵权交子与家属迁邺的西部军事领袖。
 - [郭援 / 郭元 / Guo Yuan (Late Han)](entities/GuoYuanLateHan.md) — Yuan-family western commander whose Hedong occupation exposes Jia Kui's local protection before Guo Yuan is defeated at Pingyang.
 - [贾逵 / Jia Kui (late Han)](entities/JiaKuiLateHan.md) — Hedong official whose defense of Jiang County and refusal to serve Guo Yuan draw local protection before Zhu Gongdao rescues him.
 - [祝公道 / Zhu Gongdao (late Han)](entities/ZhuGongdaoLateHan.md) — Figure who secretly rescues Jia Kui from Guo Yuan's confinement in the Hanji 1056 Hedong branch.
@@ -5946,7 +5948,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘贾 / Liu Jia](entities/LiuJia.md) — Han-side figure sent with Lu Wan to support Peng Yue, later made king of early Han Jing after Han Xin's former Chu kingdom is split.
 - [汉中王刘嘉 / Liu Jia, Hanzhong King (Eastern Han)](entities/LiuJiaHanzhongKingEasternHan.md) — Source-scoped Guangwu-era Hanzhong king kept distinct from Liu Jia/刘贾; defeated by Yan Cen, regathers troops, and later defeats Yan Cen near the Sanguan route.
 - [晋阳 / Jinyang](entities/Jinyang.md) — Northern place Han Xin takes after defeating Dai forces, becoming the Taiyuan commandery hinge in Hanji 155-2.
-- [河东郡 / Hedong Commandery](entities/HedongCommandery.md) — Commandery created after Han Xin captures Wei Bao and Han converts West Wei territory into administrative units.
+- [河东郡 / Hedong Commandery](entities/HedongCommandery.md) — 从灭魏郡县化、白波侵扰与献帝避难，到杜畿政治接管和长期治理的黄河交通资源枢纽。
 - [下阳 / Xiayang (Chu-Han)](entities/XiayangChuHan.md) — Actual Yellow River crossing point Han Xin uses to bypass Wei Bao's Puban defense and strike Anyi.
 - [项佗 / Xiang Tuo (Chu-Han)](entities/XiangTuoChuHan.md) — Wei Bao infantry commander whose presence is read as evidence of Chu-side support.
 - [冯敬 / Feng Jing (Chu-Han)](entities/FengJingChuHan.md) — Wei Bao cavalry commander named in Liu Bang and Li Shiqi's pre-campaign assessment.
@@ -6332,7 +6334,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [晋鄙 / Jin Bi](entities/JinBi.md) — Wei commander sent with a rescue army for Zhao but halted at Ye after Qin threatens Wei.
 - [邺城 / Ye (Warring States)](entities/YeWarringStates.md) — Place where Jin Bi's Wei relief army stops, marking the gap between nominal rescue and effective aid to Handan.
 - [毛遂 / Mao Sui](entities/MaoSui.md) — Pingyuanjun retainer whose self-recommendation culminates in a sword-backed Chu-court intervention and hezong oath during the Handan crisis.
-- [荀悦 / Xun Yue](entities/XunYue.md) — Eastern Han historian used by Zhouji 95 part 4 to criticize Yu Qing, Pingyuanjun, and Xinlingjun's friend-protection as dangerous dead-party loyalty.
+- [荀悦 / Xun Yue](entities/XunYue.md) — 以公私忠义边界、行势情战略评估和“名必有实，事必有功”进入叙事的东汉史家思想家。
 - [李白 / Li Bai](entities/LiBai.md) — Tang poet used by Zhouji 95 part 4 as the reception lens that admires Yu Qing's abandoned office and Wei Qi friendship as heroic spirit.
 - [王世贞 / Wang Shizhen](entities/WangShizhen.md) — Later reader invoked by Zhouji 95 part 4 to turn Fan Ju and Wei Qi's feud from immediate moral judgment into historical detachment.
 - [侯嬴 / Hou Ying](entities/HouYing.md) — Xinlingjun adviser whose reputation tests, tiger-tally plan, and timed suicide turn retainer recognition into practical rescue and final侠义 repayment.
@@ -13850,7 +13852,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Urban Wildlife Conflict Management / 城市野生动物冲突治理](concepts/UrbanWildlifeConflictManagement.md) — Governance frame for bans, enforcement, relocation, contraception, hunting, welfare, public health, and design responses to city wildlife conflict.
 - [降人传令式安民 / Surrendered Local Messenger Pacification](concepts/SurrenderedLocalMessengerPacification.md) — Post-capture order tactic where a surrendered but locally trusted intermediary carries the victor's commands to calm a newly taken city.
 - [忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal](concepts/LoyalRefusalLegitimacySignal.md) — Pattern where tolerating a loyal refusal during surrender strengthens the victor's legitimacy image.
-- [交通枢纽郡控制 / Transit-Hub Commandery Control](concepts/TransitHubCommanderyControl.md) — Commandery-control problem where route position, local elites, and nearby rebels make governor selection strategic.
+- [交通枢纽郡控制 / Transit-Hub Commandery Control](concepts/TransitHubCommanderyControl.md) — Route-critical control problem joining governor fit, civilian alignment, local-elite networks, distributed defense, and regional movement.
+- [分布式地方韧性 / Distributed Local Resilience](concepts/DistributedLocalResilience.md) — 先分离敌对武力与中立人口，再以县级防御、粮食拒止、地方信任和民生军备维持区域秩序的能力。
 - [Agent Civilization Narrative](concepts/AgentCivilizationNarrative.md) — Anthropomorphic framing of AI-agent security incidents as emergent agent societies, contested by sandbox and operational-security explanations.
 - [Open-Closed AI Market Structure](concepts/OpenClosedAIMarketStructure.md) — AI competition frame between closed frontier labs, open-weight or open-market alternatives, and cheap commodity-capable models.
 - [AI Wealth Housing Scarcity](concepts/AIWealthHousingScarcity.md) — Dynamic where concentrated AI liquidity events collide with scarce high-end housing supply.
@@ -20470,6 +20473,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Climate-Altered Summer](concepts/ClimateAlteredSummer.md) — Warming-driven reshaping of calendars, travel, hazards, outdoor life, and seasonal culture.
 - [Incentive-Compatible AI Safety](concepts/IncentiveCompatibleAISafety.md) — AI-safety design principle aligning accountable conduct, cross-border participation, and feasible burdens for differently resourced actors.
 
-- [分层式地方武力拆解 / Layered Local Elite Demobilization](concepts/LayeredLocalEliteDemobilization.md) — Sequential separation of local leaders, fighters, families, and home networks through office, dispersal, relocation, and force.
+- [分层式地方武力拆解 / Layered Local Elite Demobilization](concepts/LayeredLocalEliteDemobilization.md) — Sequential separation of local authority, fighters, families, and home networks through office, recruitment rules, dispersal, relocation, or force.
 
 ## Syntheses

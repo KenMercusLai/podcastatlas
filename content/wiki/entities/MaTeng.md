@@ -11,6 +11,7 @@ sources:
   - zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg
   - zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye
   - zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil
+  - zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-20
 ---
@@ -25,6 +26,8 @@ Hanji 938 backfills Ma Teng's 187 CE rise from a low-resource Fufeng soldier wit
 
 Hanji 1015, Hanji 1056, and Hanji 1057 shift Ma Teng into Cao-side rear-stabilization. [[ZhongYao|钟繇]]'s letters and reassurance make Ma Teng less available to Yuan-family western pressure. Hanji 1056 sharpens the contingency: Ma Teng has secretly agreed with [[YuanShang|袁尚]]'s side, but [[FuGan|傅干]], as a subordinate in Ma Teng's circle, reframes the choice around court legitimacy, the danger of waiting between stronger powers, and the risk of joining a Yuan-Shang-[[SouthernXiongnu|Southern Xiongnu]] attack. Ma Teng then sends troops to Zhong Yao's side, and Hanji 1057 shows that cooperation becoming operational through [[PangDe|庞德]]'s role in defeating [[GuoYuanLateHan|郭援 / 郭元]].
 
+Ma Teng's operational cooperation also reaches the Hedong rebellion. After [[DuJiLateHan|杜畿]] contains the coalition internally, [[ZhangJiCaoOfficialLateHan|张既]] is sent west to seek Ma Teng's help; Ma Teng-associated forces then defeat [[ZhangShengLateHan|张盛]]'s side, allowing Cao's local holding action and western alliance management to converge in the same settlement.
+
 Hanji 1088 closes the current arc before Cao Cao's Jingzhou campaign. Cao Cao uses [[ZhangJiCaoOfficialLateHan|张既]] to invite Ma Teng into court as weiwei; when Ma Teng hesitates after agreeing, prearranged provisions and official receptions make reversal publicly costly. Ma Teng enters court, [[MaChao|马超]] retains the western force, and the household later moves to [[YeLateHan|邺城]]. The source reads the arrangement as soft coercion and family collateral, then connects Ma Chao's later rising to the execution of Ma Teng's household despite Ma Teng himself not rebelling.
 
 ## Key Characteristics
@@ -34,7 +37,7 @@ Hanji 1088 closes the current arc before Cao Cao's Jingzhou campaign. Cao Cao us
 - Vulnerable to supply-road, pasture, and title/mediation conflicts with the Li Jue camp.
 - Persuaded by interest and legitimacy framing rather than simply conquered.
 - Hanji 1056 makes his cooperation contingent by showing an initial Yuan-side opening before Fu Gan redirects him.
-- Later cooperation becomes operational against Guo Yuan before Hanji 1088's coercively negotiated court entry uses office, ceremony, logistics, command succession, and family relocation to narrow his autonomy.
+- Later cooperation becomes operational against Guo Yuan and in the Hedong relief sequence before Hanji 1088's coercively negotiated court entry uses office, ceremony, logistics, command succession, and family relocation to narrow his autonomy.
 
 ## Evidence
 - Origin and rebel-coalition formation: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] presents Ma Teng's Fufeng background, claimed Ma Yuan descent, Qiang maternal lineage, military rise under [[GengBiLateHan|耿鄙]], and later joining with Han Sui and Wang Guo.
@@ -44,13 +47,15 @@ Hanji 1088 closes the current arc before Cao Cao's Jingzhou campaign. Cao Cao us
 - Persuaded stabilization role: [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] treats Ma Teng and Han Sui as the strongest western leaders whom Zhong Yao must persuade to keep Yuan Shao from gaining a western route.
 - Yuan-side opening and Fu Gan redirection: [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] says Yuan Shang secretly contacts Ma Teng, but Fu Gan persuades Ma Teng to side with Zhong Yao and attack Guo Yuan instead.
 - Operational cooperation after reassurance: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] says Zhong Yao calms Ma Teng before defeating Guo Yuan and the Southern Xiongnu, with Pang De from Ma Teng's side killing Guo Yuan.
+- Hedong relief cooperation: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] says Zhang Ji seeks Ma Teng's help and Ma Teng-associated forces defeat Zhang Sheng's side after Du Ji's internal defense holds.
 - Court-entry pressure: [[zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil|Hanji 1088]] says Zhang Ji turns Ma Teng's tentative agreement into a public journey through route supplies and formal receptions.
 - Command and family separation: [[zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil|Hanji 1088]] places Ma Teng in court office, Ma Chao over the force, and the wider household in Ye before the later collective punishment.
 
 ## Qualifications
-Ma Teng's alignment is contingent across the sources. Earlier pages show revolt, failed intervention, and unstable coalition behavior; later pages show cooperation under Zhong Yao and Fu Gan before the more restrictive 208 settlement. Hanji 1088's account does not make Ma Teng's consent simply free or simply forced: it combines appointment, personal mediation, logistical capacity, public ceremony, retained son-side command, and household relocation. Exact dialogue, motives, Zhang Ji's family history, troop totals, relocation timing, Ma Teng-Han Sui brotherhood story, and the reported execution of 237 household members remain source-scoped.
+Ma Teng's alignment is contingent across the sources. Earlier pages show revolt, failed intervention, and unstable coalition behavior; later pages show cooperation under Zhong Yao and Fu Gan, the compressed Hedong relief case, and then the more restrictive 208 settlement. Hanji 1072 does not identify the exact contingent, commander, or battle mechanics behind “Ma Teng's side,” while Hanji 1088 does not make Ma Teng's consent simply free or simply forced. Exact dialogue, motives, Zhang Ji's family history, troop totals, relocation timing, Ma Teng-Han Sui brotherhood story, and the reported execution of 237 household members remain source-scoped.
 
 ## What Changed
+- Added Hanji 1072's Ma Teng-associated intervention in the Hedong rebellion.
 - Added Hanji 1088's 208 move from conditional cooperation into court office and command separation.
 - Qualified the settlement as a mix of persuasion, public commitment pressure, and family collateral.
 
@@ -66,6 +71,7 @@ Ma Teng's alignment is contingent across the sources. Earlier pages show revolt,
 - [[GuanzhongRegion|关中]] - strategic region around Ma Teng's later bargaining and threat value.
 - [[YuanShao|袁绍]] and [[YuanShang|袁尚]] - Yuan-family powers for whom Ma Teng could have become a western pressure component.
 - [[GuoYuanLateHan|郭援 / 郭元]] - Yuan Shang-side commander whom Ma Teng's eventual choice helps oppose.
+- [[DuJiLateHan|杜畿]] and [[ZhangShengLateHan|张盛]] - Hedong defender and rebel whose conflict receives Ma Teng-associated outside intervention.
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - concept explaining why Ma Teng's coalitions and alignments are unstable.
 - [[ZhangJiCaoOfficialLateHan|张既]] - intermediary who makes Ma Teng's promised court journey difficult to reverse.
 - [[MaChao|马超]] - son who retains western command and whose later rising triggers household punishment in Hanji 1088's account.

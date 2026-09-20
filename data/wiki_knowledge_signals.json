@@ -29204,6 +29204,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/disorderstabilizationbystillness/"
     },
+    "DistributedLocalResilience": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/distributedlocalresilience/"
+    },
     "DoctorPatientCommunication": {
       "episode_count": 3,
       "show_count": 3,
@@ -30548,9 +30571,9 @@
       "url": "/wiki/entities/dugenlatehan/"
     },
     "DuJiLateHan": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
@@ -30558,9 +30581,23 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/dujilatehan/"
     },
     "DuJigongLateHan": {
@@ -37603,9 +37640,9 @@
       "url": "/wiki/entities/fantiaoeasternhan/"
     },
     "FanXianLateHan": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
@@ -37613,9 +37650,23 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/fanxianlatehan/"
     },
     "FanYingLateHan": {
@@ -50646,6 +50697,57 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/heavyagriculturelightcommercepolicy/"
+    },
+    "HedongCommandery": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲 [lthMvw8iHk96Fuez9vaMlRyzCnGy].md",
+          "key": "zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？ [ltEKG1a_5b5U37AeeKjM3DM2m6kK].md",
+          "key": "zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇 [ltuxzRb-1X5y2CTwo4DrGgxn5sTZ].md",
+          "key": "zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人” [ls5NvUnmhAKVefd2OXn4ZDyOoB4L].md",
+          "key": "zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/hedongcommandery/"
     },
     "HedongPeiClan": {
       "episode_count": 1,
@@ -64317,9 +64419,9 @@
       "url": "/wiki/concepts/layeredjianghusocialfields/"
     },
     "LayeredLocalEliteDemobilization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
@@ -64327,6 +64429,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
         }
       ],
       "updated": "2026-09-20",
@@ -73853,9 +73962,9 @@
       "url": "/wiki/entities/mashiqiuxinrebel/"
     },
     "MaTeng": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -73912,6 +74021,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
         }
       ],
       "updated": "2026-09-20",
@@ -112845,9 +112961,9 @@
       "url": "/wiki/concepts/transcranialmagneticstimulationfordepression/"
     },
     "TransitHubCommanderyControl": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
@@ -112855,9 +112971,23 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/transithubcommanderycontrol/"
     },
     "TransitionalAIHardware": {
@@ -118869,9 +118999,9 @@
       "url": "/wiki/entities/weibuhaiwesternhan/"
     },
     "WeiGuLateHan": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
@@ -118879,9 +119009,23 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？ [lnFo6i2Lx7NMc1mroJFkqiC7zLfK].md",
+          "key": "zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-20",
       "url": "/wiki/entities/weigulatehan/"
     },
     "WeiHuanLateHan": {
@@ -124657,6 +124801,43 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/xunyou/"
     },
+    "XunYue": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2） [lutKaPDiJRGPwfRZ3sAAOwXTk_i2].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？ [lvS9ELvRJP_yPZ63W4CZpuHbSfB-].md",
+          "key": "zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4） [lpHAveRx7GYxNTncAK_-lb5hSrqA].md",
+          "key": "zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》95丨长平之战后秦国为什么没有灭了赵国（4）",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/xunyue/"
+    },
     "YTOExpress": {
       "episode_count": 1,
       "show_count": 1,
@@ -128947,9 +129128,9 @@
       "url": "/wiki/entities/zhanghuanlatehan/"
     },
     "ZhangJiCaoOfficialLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？ [lu8ocNIHZ6aRqLLfCc3uJOK6UJIl].md",
@@ -128957,6 +129138,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？ [ltiuWT7V-RjcjpjpOvQf9ffl88hU].md",
+          "key": "zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu/"
         }
       ],
       "updated": "2026-09-20",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7600
+wiki_total_pages: 7601
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "DefensiveLocalGovernance"
     title: "保境安民式守成治理 / Defensive Local Governance"
     url: "/wiki/concepts/defensivelocalgovernance/"
+  - key: "DistributedLocalResilience"
+    title: "分布式地方韧性 / Distributed Local Resilience"
+    url: "/wiki/concepts/distributedlocalresilience/"
   - key: "DualManuscriptNarration"
     title: "双手稿叙事 / Dual Manuscript Narration"
     url: "/wiki/concepts/dualmanuscriptnarration/"

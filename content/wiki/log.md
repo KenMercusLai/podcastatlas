@@ -20434,3 +20434,19 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1072丨杜畿单骑守河东，竟使百姓愿为他赴死？
+
+Added source `zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu`; created `DistributedLocalResilience`; updated `DuJiLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `HedongCommandery`, `MaTeng`, `ZhangJiCaoOfficialLateHan`, `XunYue`, and `TransitHubCommanderyControl`. Core synthesis: Du Ji survives the Hedong coalition through county defense, local trust, grain denial, and Ma Teng-associated relief, then combines lenient administration, agriculture, schooling, fortification, arms, and training into a durable strategic base. No settled contradiction found; the transcript-uncertain 张琰/张衍 identity, exact military mechanics, force and household totals, resources, quotations, genealogy, and modern governance analogies remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？
+
+Added source `zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk`; updated `DuJiLateHan`, `WeiGuLateHan`, `FanXianLateHan`, `HedongCommandery`, `TransitHubCommanderyControl`, `DistributedLocalResilience`, and `LayeredLocalEliteDemobilization`. Core synthesis: Du Ji avoids a punitive intervention that could turn neutral households into rebels, enters Hedong alone, grants hostile elites visible authority, and uses recruitment design plus rotating leave to disperse their concentrated manpower before county support becomes defensive capacity. No settled contradiction found; the motivational clarity opening, transcript names and places, exact offices and totals, motives, quotations, and the defense outcome beyond the cutoff remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

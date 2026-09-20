@@ -1,27 +1,64 @@
 ---
 title: "荀悦 / Xun Yue"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, historian, eastern-han, chinese-history]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2, zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb, zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2
+  - zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb
+  - zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa
+  - zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu
+last_updated: 2026-09-20
 ---
 
 # 荀悦 / Xun Yue
 
-荀悦 / Xun Yue enters the wiki through [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa]] as the Eastern Han historian whose comment on [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] criticizes their friend-protection behavior.
+## Overview
 
-The episode uses him as the state-order counterweight to heroic friendship. Xun Yue does not deny that these men acted beyond ordinary courage or became famous for it; his concern is that praising such conduct can make [[DeathPartyLoyalty|死党之义与守职奉上]] stronger than obedience to office, ruler, and public duty.
+荀悦 / Xun Yue is an Eastern Han historian and political thinker used across the wiki as a state-order critic of private loyalty, a context-sensitive strategist, and, through *Shenjian*, an advocate of matching reputation to reality and action to results.
 
-His role is therefore reception-historical rather than biographical. He helps the source keep [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] two-sided: noble loyalty can look morally luminous, but a more centralized political order sees the same loyalty as a threat to administrative responsibility.
+## Current Profile
 
-[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds a strategic-method layer to Xun Yue. The episode cites his view that deciding plans and judging victory depends on "行、势、情": broad gains and losses, temporary situation, and whether people's commitments are firm. This makes Xun Yue the source for [[XingshiqingStrategicAssessment|行势情战略评估]], the wiki's frame for why the same tactic can work in one historical setting and fail in another.
+Xun Yue's current profile is built from judgments rather than a full biography. [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95 part 4]] uses his criticism of [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] to mark the public-order risk of placing friend protection and “dead-party” loyalty above ruler, office, parents, and public duty.
 
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] returns Xun Yue to the private-loyalty problem through [[GuanGao|贯高]]. His judgment is stricter than heroic admiration: Guan Gao may have protected [[ZhangAo|张敖]] from false implication, but plotting to kill [[LiuBang|刘邦]] remains a public crime that loyal intention cannot offset.
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] applies the same boundary to [[GuanGao|贯高]]. Guan Gao may protect [[ZhangAo|张敖]] from false implication with exceptional courage and truthfulness, but private loyalty cannot erase the public crime of plotting to kill [[LiuBang|刘邦]].
 
-## Connections
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[GuanGao|贯高]], [[ZhangAo|张敖]], [[LiuBang|刘邦]], and [[PoliticalAssassinationEthics|政治刺杀伦理]] - legal-moral judgment that private loyalty cannot erase regicide conspiracy.
-- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[ZhangLiang|张良]], and [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] - strategic assessment framework built from his comment.
-- [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] - figures whose choices he criticizes in the episode's reception layer.
-- [[WeiQiWarringStates|魏齐]] and [[FanJu|范雎]] - underlying crisis around which the loyalty dispute forms.
-- [[DeathPartyLoyalty|死党之义与守职奉上]] and [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]] - concepts clarified by his critique.
-- [[RetainerReciprocityEthic|士为知己者死]] and [[AristocraticHonorOverLife|贵族名誉高于生命]] - honor codes that his state-order position constrains.
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159 part 2]] supplies Xun Yue's strategic method through “行、势、情”: broad gains and losses, temporary situation, and the firmness of people's commitments. The method explains why restoring six kingdoms or fighting with water at one's back can change meaning when timing, territory, morale, and command conditions change.
+
+Xun Yue's *Shenjian* principle “名必有实，事必有功” demands factual substance behind reputation and results behind action. His practical reach remains limited: as an attendant reader to Emperor Xian, he can formulate political principles but cannot overcome a world in which effective command issues from Cao's camp.
+
+## Key Characteristics
+
+- Eastern Han historian and political thinker represented through later judgments and *Shenjian*.
+- Critic of private loyalty when it overrides office, ruler, law, or public duty.
+- Separates admirable courage and truthfulness from legal innocence.
+- Judges strategy by conduct, situation, and actual commitments rather than copied precedent.
+- Insists that names and reputations be matched by reality and that actions be tested by results.
+- Embodies the limit of counsel when discursive authority is separated from coercive command.
+
+## Evidence
+
+- State-order critique: [[zizhi-tongjian-zhouji-95-changping-zhi-zhan-hou-qinguo-weishenme-meiyou-mie-le-zhaoguo-4-lphaverx7gyxntncak-lb5hsrqa|Zhouji 95 part 4]] uses Xun Yue against aristocratic friend protection and factional loyalty above public office.
+- Legal-moral boundary: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] cites him to argue that Guan Gao's loyal exoneration of Zhang Ao does not cancel regicide conspiracy.
+- Context-sensitive strategy: [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159 part 2]] presents “行、势、情” as a framework for comparing superficially similar strategies under different conditions.
+- Name, reality, and results: [[zizhi-tongjian-hanji-1072-duji-danqi-shou-hedong-jing-shi-baixing-yuan-wei-ta-fusi-ltiuwt7v-rjcjpjpovqf9ffl88hu|Hanji 1072]] attributes “名必有实，事必有功” to *Shenjian* and uses Xun Yue's court position to discuss counsel without military power.
+
+## Qualifications
+
+These sources use Xun Yue selectively as a reception and judgment authority; they do not provide a complete biography, bibliography, or independent textual edition. Hanji 1072's “话语权与军权分离” and “政出曹门” framing is the host's political interpretation. The exact quotation, Xun Yue's attendant-reader role, the influence of *Shenjian*, and the episode's family relationship claims involving [[XunYu|荀彧]] and [[XunYou|荀攸]] require textual verification before being generalized.
+
+## What Changed
+
+- Migrated the page to `synthesis-v1` using its complete prior source set.
+- Added *Shenjian*'s name-reality and result-accountability principle.
+- Added the source-scoped limit of counsel under separated discursive and military power.
+
+## Relationships
+
+- [[DeathPartyLoyalty|死党之义与守职奉上]] - value conflict Xun Yue criticizes from a state-order position.
+- [[PoliticalAssassinationEthics|政治刺杀伦理]] - legal-moral boundary sharpened by his Guan Gao judgment.
+- [[XingshiqingStrategicAssessment|行势情战略评估]] - strategy framework directly attributed to his commentary.
+- [[HistoricalPrecedentWeaponization|历史先例武器化]] - adjacent problem his context-sensitive method constrains.
+- [[YuQing|虞卿]], [[Pingyuanjun|平原君]], and [[Xinlingjun|信陵君]] - Warring States figures whose friend protection his later judgment criticizes.
+- [[GuanGao|贯高]] and [[ZhangAo|张敖]] - private-loyalty case to which his public-crime boundary is applied.
+- [[XunYu|荀彧]] and [[XunYou|荀攸]] - relatives named in Hanji 1072, with exact genealogy kept source-scoped.
