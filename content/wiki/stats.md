@@ -18,8 +18,8 @@ outputs: ["html"]
 
 ## Links
 - Wiki link references: 533651
-- Unique wiki link targets: 20430
-- Missing targets: 1
+- Unique wiki link targets: 20429
+- Missing targets: 0
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
@@ -30,9 +30,6 @@ outputs: ["html"]
 - Missing source_file: 0
 - Unmatched source_file: 0
 
-## Missing Targets
-
-- `[[zizhi-tongjian-hanji-154-tongyangshi-mianlin-chanhuanghaiyou-ren-nizhankaiqi-buhuoyier-judian]]`
-  - `content/wiki/concepts/MoralSlanderReframing.md`
+All wiki links resolve to unique public wiki pages.
 
 All wiki source pages resolve to episode pages.

@@ -34,7 +34,7 @@ The concept now has both a defensive and an offensive form. In [[zizhi-tongjian-
 - Source-credibility test: [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] questions how old generals with weak access to Chen Ping's family history could know the “盗嫂” story.
 - Political-to-moral redirection: [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]] places Kong Rong's capital-region proposal before Lu Cui's bundled accusations and the emphasis on “unfilial” speech.
 - Counter-biographical test: [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]] contrasts the label with Kong Rong's pear story, youthful responsibility-taking, and reported grief for his mother.
-- Outcome asymmetry: [[zizhi-tongjian-hanji-154-tongyangshi-mianlin-chanhuanghaiyou-ren-nizhankaiqi-buhuoyier-judian|Hanji 154]]'s reframing preserves and strengthens Chen Ping's appointment, while [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]]'s accusation framing helps legitimate Kong Rong's execution and household destruction.
+- Outcome asymmetry: [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]]'s reframing preserves and strengthens Chen Ping's appointment, while [[zizhi-tongjian-hanji-1090-ta-ceng-maosi-cangxiong-wei-mu-kuxue-zhen-shi-buxiao-zhi-ren-ma-lg-z9lyx_y6dxbopsfrqxoyymdjj|Hanji 1090]]'s accusation framing helps legitimate Kong Rong's execution and household destruction.
 
 ## Counterevidence & Qualifications
 
