@@ -51516,6 +51516,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/hereditarysuccessioncapabilitydecay/"
     },
+    "HeritageProductInnovationDebt": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？ [1006742982].md",
+          "key": "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982",
+          "show": "声动早咖啡",
+          "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
+          "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+        },
+        {
+          "episode_file": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？ [1015318031].md",
+          "key": "tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031",
+          "show": "声动早咖啡",
+          "title": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？",
+          "url": "/wiki/sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/concepts/heritageproductinnovationdebt/"
+    },
     "HeroMemoryPoliticalCredibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -113831,6 +113854,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/truthseekingdebatenorm/"
     },
+    "TsaiEngMeng": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？ [1015318031].md",
+          "key": "tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031",
+          "show": "声动早咖啡",
+          "title": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？",
+          "url": "/wiki/sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/tsaiengmeng/"
+    },
     "TudorSuccessionCrisis": {
       "episode_count": 4,
       "show_count": 1,
@@ -115533,9 +115572,9 @@
       "url": "/wiki/entities/valoisdynasty/"
     },
     "ValueSnackChannelConsolidation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？ [1011206166].md",
@@ -115543,9 +115582,16 @@
           "show": "声动早咖啡",
           "title": "咖啡豆｜运动鞋系上绸缎丝带，鞋履品牌为什么集体迷上芭蕾风？",
           "url": "/wiki/sources/kafeidou-yundongxie-xishang-chouduan-sidai-xielu-pinpai-weishenme-jiti-mishang-baleifeng-1011206166/"
+        },
+        {
+          "episode_file": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？ [1015318031].md",
+          "key": "tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031",
+          "show": "声动早咖啡",
+          "title": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？",
+          "url": "/wiki/sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-20",
       "url": "/wiki/concepts/valuesnackchannelconsolidation/"
     },
     "ValuesBasedAIGovernance": {
@@ -118959,6 +119005,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/wangwangdog/"
+    },
+    "WantWantChina": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？ [1015318031].md",
+          "key": "tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031",
+          "show": "声动早咖啡",
+          "title": "图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？",
+          "url": "/wiki/sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031/"
+        }
+      ],
+      "updated": "2026-09-20",
+      "url": "/wiki/entities/wantwantchina/"
     },
     "WanwuShengzhang": {
       "episode_count": 1,

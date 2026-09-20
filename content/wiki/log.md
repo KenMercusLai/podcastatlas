@@ -20474,3 +20474,11 @@ Added the source note; created Bill Dally, HanaPino, and Inference Decode Bandwi
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | 图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？
+
+Added source `tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031`; created `WantWantChina` and `TsaiEngMeng`; migrated and updated `HeritageProductInnovationDebt`; and updated `ValueSnackChannelConsolidation`. Core synthesis: Want Want's problem is not an absence of launches but a system in which old formulas, centralized decisions, legacy mass-media capability, retailer margin, and traffic-item logic keep directing attention toward proven products. No settled contradiction found; financial figures, layoffs, internal-letter wording, channel shares, product revenue, historical market shares, store observations, and short-news claims remain source-scoped.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

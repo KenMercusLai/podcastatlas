@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10302
+wiki_total_pages: 10304
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "WanrunNewEnergy"
     title: "Wanrun New Energy / 万润新能源"
     url: "/wiki/entities/wanrunnewenergy/"
+  - key: "WantWantChina"
+    title: "Want Want China / 旺旺食品"
+    url: "/wiki/entities/wantwantchina/"
   - key: "WarOf1812"
     title: "War of 1812"
     url: "/wiki/entities/warof1812/"

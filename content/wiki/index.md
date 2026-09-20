@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [图拉斯｜卖了三十年雪饼的旺旺，为何推不出下一款明星产品？](sources/tulasi-maile-sanshinian-xuebing-de-wangwang-weihe-tuibuchu-xiayikuan-mingxing-chanpin-1015318031.md) — 声动早咖啡 episode on Want Want's hero-product dependence, formula and governance constraints, fragmented marketing, and channels that favor old hits over launches.
 - [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0.md) — 硅谷101 episode on decode bandwidth, SRAM/HBM tradeoffs, Groq's static scheduling, Cerebras's wafer-scale route, HanaPino's power-first heterogeneity, and Bill Dally's locality philosophy.
 - [274.从全面屏到中折叠，小米的高端化这次找对路了吗？](sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet.md) — 乱翻书以小米中折叠回看高端化，聚焦5–15分钟轻办公、平板比例适配、AI监督界面及芯片—系统—生态能力闭环。
 - [How investing is getting riskier (Two Indicators)](sources/default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737-default-mp3-ywr3ahjkcgo-90166871d561fa45ba428e0a0fbc3e7e-20290737.md) — Planet Money and The Indicator on margin-driven forced selling, South Korean leveraged chip bets, Gen Z sports betting as investment, and Colorado's experimental betting friction.
@@ -2568,6 +2569,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1079丨比杀人还毒！曹操放敌人内斗坐收渔利](sources/zizhi-tongjian-hanji-1079-bi-sharen-hai-du-caocao-fang-diren-neidou-zuoshou-yuli-lvzyzsytejoxu_qth-hhgvee6lrv.md) — 芮淇讲透资治通鉴 episode on the White Wolf Mountain victory, Tadun's death, Cao Cao's refusal to pursue the Yuan brothers, and Gongsun Kang killing the refugees after external pressure recedes.
 
 ## Entities
+- [Want Want China / 旺旺食品](entities/WantWantChina.md) — Legacy food and beverage company whose product renewal is constrained by old hero products, centralized decisions, and channel incentives.
+- [Tsai Eng-meng / 蔡衍明](entities/TsaiEngMeng.md) — Want Want chairman presented as both the architect of its rice-cracker pivot and the center of its current decision system.
 - [Bill Dally](entities/BillDally.md) — Computer architect and Nvidia chief scientist presented through locality, high-leverage problem selection, and explicit design tradeoffs.
 - [HanaPino](entities/HanaPino.md) — Source-named OpenAI/Broadcom inference chip using HBM and on-chip heterogeneity to prioritize token-per-watt efficiency.
 - [Heather Tuke](entities/HeatherTuke.md) — Yale finance professor using India's margin-eligibility divide to explain forced-sale amplification.
