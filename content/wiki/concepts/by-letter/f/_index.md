@@ -6,11 +6,14 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7639
+wiki_total_pages: 7641
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
     url: "/wiki/concepts/fourftraumaresponse/"
+  - key: "FabianStrategy"
+    title: "Fabian Strategy / 费边战略"
+    url: "/wiki/concepts/fabianstrategy/"
   - key: "FacePreservingAlliancePersuasion"
     title: "Face-Preserving Alliance Persuasion / 保全体面的结盟说服"
     url: "/wiki/concepts/facepreservingalliancepersuasion/"

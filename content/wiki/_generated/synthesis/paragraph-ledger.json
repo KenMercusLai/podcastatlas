@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0daa41d2db49e352a061dbc1cbdb9c15c8dec24010707da76c7da3aa45e83a07",
       "7fc44b5df61df786d4a65b47b8da141b7d5130bafbcefb3ef6eebd1f724c15bb",
       "88e48f5b7958b1ffc438421571d2d3c4e877044844b91d38f70d17fb2cc16f0f",
       "bd158c7e61b294cf406d9e8332cee6f207aada9bff6061c3c91a46b17ebbfab7",
@@ -663,11 +664,31 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 661
+    "paragraph_count": 662
   },
-  "overview_commit": "e6014b54f822add0a89eabbfba98dd7efc2dd0e4",
-  "overview_digest": "652a3ff495e326f84af8653cb3cca59b0aadf812d9420a3f5b4648e2a02609e4",
+  "overview_commit": "a6a16d101eb17a32e1c05cb1233037e839667ed2",
+  "overview_digest": "3950bda8efd396c937ffd1864bd761f8dc4cde3a39943497f62377f9ba50c1d6",
   "paragraphs": [
+    {
+      "id": "0daa41d2db49e352a061dbc1cbdb9c15c8dec24010707da76c7da3aa45e83a07",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The newest ancient-war source, [[570-hannibal-the-invasion-of-italy-part-3-glt2952414067|570. Hannibal: The Invasion of Italy (Part 3)]], adds [[HannibalBarca]], [[QuintusFabiusMaximus]], [[BattleOfTrebia]], [[BattleOfLakeTrasimene]], [[HannibalicOperationalDeception]], and [[FabianStrategy]]. Its core synthesis is that Hannibal turns Roman urgency into prepared battle geometry by joining credible lures, logistics, weather, terrain, concealed forces, and alliance politics, while Fabius denies him a willing target and converts Roman manpower, training time, and allied confidence into strategic endurance. No settled contradiction is recorded; Polybius's Scipionic ties, Livy's rock-breaking story, exact totals and motives, the elephant Cyrus, ceremonies, speeches, and Minucius's submission remain source-scoped ancient literary claims.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+        "BattleOfLakeTrasimene",
+        "BattleOfTrebia",
+        "FabianStrategy",
+        "HannibalBarca",
+        "HannibalicOperationalDeception",
+        "QuintusFabiusMaximus"
+      ]
+    },
     {
       "id": "7fc44b5df61df786d4a65b47b8da141b7d5130bafbcefb3ef6eebd1f724c15bb",
       "primary_topic": "work-education-and-society",

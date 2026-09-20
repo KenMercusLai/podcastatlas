@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [570. Hannibal: The Invasion of Italy (Part 3)](sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067.md) — The Rest Is History episode on Hannibal's Alpine gamble, Trebia and Trasimene victories, alliance strategy, operational deception, and Fabius's time-buying response.
 - [Healing From Grief & Loss | Dr. Mary-Frances O'Connor](sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393.md) — Huberman Lab interview on grief as attachment-based learning, continuing bonds, yearning, bodily risk, rumination, and oscillation between loss and restoration.
 - [Why AI models are obsessed with creatures](sources/tech-20260915-tech-pod-128-tech-20260915-tech-pod-128.md) — Marketplace Tech with Janelle Shane on goblin-heavy personality tuning, small-data signal amplification, alignment patching, and hiring proxy discrimination.
 - [501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？](sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o.md) — 忽左忽右访谈孙明，以人口、盐漕河、胥吏、奏折言路与经世人物解释清中叶积弊、治理规范化悖论及王朝周期感知。
@@ -2580,6 +2581,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Anthropic口中的AI安全，为什么听起来像一场生意保卫战？](sources/2b2e96d8aea7-2b2e96d8aea7.md) — 科技乱炖 episode on CoCom and Toshiba export-control history, AI safety and slowdown incentives, behavioral account enforcement, local unguarded models, and the limits of nuclear nonproliferation analogies.
 
 ## Entities
+- [Hannibal Barca / 汉尼拔](entities/HannibalBarca.md) — Carthaginian commander whose Italian campaign joins initiative, alliance politics, deception, and encirclement against Rome's deeper manpower.
+- [Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯](entities/QuintusFabiusMaximus.md) — Roman dictator who shadows Hannibal, avoids pitched battle, and buys time for recruitment and training.
+- [Battle of Trebia / 特雷比亚河战役](entities/BattleOfTrebia.md) — Late-218 BC battle where provocation, cold, a river crossing, wing pressure, and a hidden rear force defeat Rome.
+- [Battle of Lake Trasimene / 特拉西梅诺湖战役](entities/BattleOfLakeTrasimene.md) — 217 BC lakeside ambush using pursuit, fog, constrained terrain, and concealed forces to destroy Flaminius's army.
 - [Mary-Frances O'Connor](entities/MaryFrancesOConnor.md) — Clinical psychologist and grief researcher framing bereavement through attachment, integration, bodily risk, and non-linear adaptation.
 - [孙明 / Sun Ming (Qing governance scholar)](entities/SunMingQingHistorian.md) — Peking University scholar connecting Qing local administration, intellectual history, accumulated maladies, and cycle perception.
 - [洪亮吉 / Hong Liangji](entities/HongLiangji.md) — Early Qing population and dynastic-condition thinker in the episode's comparative diagnosis.
@@ -12908,6 +12913,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Hannibalic Operational Deception / 汉尼拔式战役欺骗](concepts/HannibalicOperationalDeception.md) — Strategy pattern joining opponent incentives, credible lures, logistics, terrain, concealment, and political effects.
+- [Fabian Strategy / 费边战略](concepts/FabianStrategy.md) — Delay-and-shadow strategy that converts Roman manpower, training time, and allied resilience into future capacity.
 - [Dual-Process Bereavement Oscillation](concepts/DualProcessBereavementOscillation.md) — Healthy-grieving model based on flexible movement between loss-oriented experience and restoration-oriented life.
 - [Automated Hiring Proxy Discrimination](concepts/AutomatedHiringProxyDiscrimination.md) — Risk that hiring models reconstruct demographic differences through names, ZIP codes, or other correlated features.
 - [Behavioral Alignment Patching](concepts/BehavioralAlignmentPatching.md) — Symptom-level model repair through prompts or post-training that can displace behavior or create new side effects.

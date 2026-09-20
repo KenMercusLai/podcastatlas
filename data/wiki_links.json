@@ -1175,6 +1175,10 @@
     "title": "57.说解汉字：屎尿屁为啥是“尸”字头？",
     "url": "/wiki/sources/57-shuojie-hanzi-shiniaopi-weisha-shi-shi-zitou-642970319/"
   },
+  "570-hannibal-the-invasion-of-italy-part-3-glt2952414067": {
+    "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+    "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+  },
   "58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859": {
     "title": "58.儒林外史：假如考公成了唯一出路",
     "url": "/wiki/sources/58-rulin-waishi-jiashe-kaogong-chengle-weiyi-chulu-645207859/"
@@ -7759,6 +7763,10 @@
     "title": "Battle of Crete",
     "url": "/wiki/entities/battleofcrete/"
   },
+  "BattleOfLakeTrasimene": {
+    "title": "Battle of Lake Trasimene / 特拉西梅诺湖战役",
+    "url": "/wiki/entities/battleoflaketrasimene/"
+  },
   "BattleOfLoos": {
     "title": "Battle of Loos",
     "url": "/wiki/entities/battleofloos/"
@@ -7770,6 +7778,10 @@
   "BattleOfTheBogside": {
     "title": "Battle of the Bogside",
     "url": "/wiki/entities/battleofthebogside/"
+  },
+  "BattleOfTrebia": {
+    "title": "Battle of Trebia / 特雷比亚河战役",
+    "url": "/wiki/entities/battleoftrebia/"
   },
   "Battlecode": {
     "title": "Battlecode",
@@ -21467,6 +21479,10 @@
     "title": "法正 / Fa Zheng",
     "url": "/wiki/entities/fazheng/"
   },
+  "FabianStrategy": {
+    "title": "Fabian Strategy / 费边战略",
+    "url": "/wiki/concepts/fabianstrategy/"
+  },
   "Fable5": {
     "title": "Fable 5",
     "url": "/wiki/entities/fable5/"
@@ -27762,6 +27778,14 @@
   "HannahArendtLoveAndEvil": {
     "title": "《汉娜·阿伦特：爱与恶》 / Hannah Arendt: Love and Evil",
     "url": "/wiki/entities/hannaharendtloveandevil/"
+  },
+  "HannibalBarca": {
+    "title": "Hannibal Barca / 汉尼拔",
+    "url": "/wiki/entities/hannibalbarca/"
+  },
+  "HannibalicOperationalDeception": {
+    "title": "Hannibalic Operational Deception / 汉尼拔式战役欺骗",
+    "url": "/wiki/concepts/hannibalicoperationaldeception/"
   },
   "HanqingUrey": {
     "title": "汗青 / Hanqing",
@@ -51710,6 +51734,10 @@
   "QuintusCaeciliusMetellusNumidicus": {
     "title": "Quintus Caecilius Metellus Numidicus / 梅特鲁斯",
     "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+  },
+  "QuintusFabiusMaximus": {
+    "title": "Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯",
+    "url": "/wiki/entities/quintusfabiusmaximus/"
   },
   "QuintusLutatiusCatulus": {
     "title": "Quintus Lutatius Catulus / 昆图斯·卢塔提乌斯·卡图卢斯",

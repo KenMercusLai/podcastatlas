@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7639
+wiki_total_pages: 7641
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "HandsetChipCoDesign"
     title: "Handset-Chip Co-Design"
     url: "/wiki/concepts/handsetchipcodesign/"
+  - key: "HannibalicOperationalDeception"
+    title: "Hannibalic Operational Deception / 汉尼拔式战役欺骗"
+    url: "/wiki/concepts/hannibalicoperationaldeception/"
   - key: "HantavirusPublicRiskTriage"
     title: "Hantavirus Public Risk Triage"
     url: "/wiki/concepts/hantaviruspublicrisktriage/"

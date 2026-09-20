@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10319
+wiki_total_pages: 10323
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "HannahArendt"
     title: "Hannah Arendt / 汉娜·阿伦特"
     url: "/wiki/entities/hannaharendt/"
+  - key: "HannibalBarca"
+    title: "Hannibal Barca / 汉尼拔"
+    url: "/wiki/entities/hannibalbarca/"
   - key: "HansJonas"
     title: "Hans Jonas / 汉斯·约纳斯"
     url: "/wiki/entities/hansjonas/"

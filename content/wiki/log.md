@@ -20570,3 +20570,11 @@ Added source `healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393`; c
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 570. Hannibal: The Invasion of Italy (Part 3)
+
+Added source `570-hannibal-the-invasion-of-italy-part-3-glt2952414067`; created `HannibalBarca`, `QuintusFabiusMaximus`, `BattleOfTrebia`, `BattleOfLakeTrasimene`, `HannibalicOperationalDeception`, and `FabianStrategy`; and updated overview and index. Core synthesis: Hannibal joins credible lures, logistics, terrain, concealment, and alliance politics to make Roman aggression costly, while Fabius converts Roman manpower and institutional endurance into a delay strategy. No settled contradiction found; ancient-source bias, exact figures, motives, speeches, ceremonies, the elephant Cyrus, and Minucius's submission remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

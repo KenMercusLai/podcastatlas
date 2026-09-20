@@ -11291,6 +11291,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/batterysupplierdiversification/"
     },
+    "BattleOfLakeTrasimene": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/battleoflaketrasimene/"
+    },
     "BattleOfLoos": {
       "episode_count": 1,
       "show_count": 1,
@@ -11329,6 +11345,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/battleofmarathon/"
+    },
+    "BattleOfTrebia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/battleoftrebia/"
     },
     "BattlefieldFeintAndLure": {
       "episode_count": 6,
@@ -37558,6 +37590,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/fazheneasternhan/"
     },
+    "FabianStrategy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/fabianstrategy/"
+    },
     "Fable5": {
       "episode_count": 7,
       "show_count": 4,
@@ -50787,6 +50835,38 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/hangzhoumuseum/"
+    },
+    "HannibalBarca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/hannibalbarca/"
+    },
+    "HannibalicOperationalDeception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/hannibalicoperationaldeception/"
     },
     "HanqingUrey": {
       "episode_count": 1,
@@ -94426,6 +94506,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+    },
+    "QuintusFabiusMaximus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/quintusfabiusmaximus/"
     },
     "QuintusLutatiusCatulus": {
       "episode_count": 1,

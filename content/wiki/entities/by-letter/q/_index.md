@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 10319
+wiki_total_pages: 10323
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "QuintusCaeciliusMetellusNumidicus"
     title: "Quintus Caecilius Metellus Numidicus / 梅特鲁斯"
     url: "/wiki/entities/quintuscaeciliusmetellusnumidicus/"
+  - key: "QuintusFabiusMaximus"
+    title: "Quintus Fabius Maximus / 昆图斯·费边·马克西姆斯"
+    url: "/wiki/entities/quintusfabiusmaximus/"
   - key: "QuintusLutatiusCatulus"
     title: "Quintus Lutatius Catulus / 昆图斯·卢塔提乌斯·卡图卢斯"
     url: "/wiki/entities/quintuslutatiuscatulus/"
