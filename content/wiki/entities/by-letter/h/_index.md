@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10300
+wiki_total_pages: 10302
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "HanZheng"
     title: "Han Zheng / 韩正"
     url: "/wiki/entities/hanzheng/"
+  - key: "HanaPino"
+    title: "HanaPino"
+    url: "/wiki/entities/hanapino/"
   - key: "HangLungProperties"
     title: "Hang Lung Properties / 恒隆地产"
     url: "/wiki/entities/hanglungproperties/"

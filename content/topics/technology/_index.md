@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3076
+topic_total_pages: 3080
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2446,6 +2446,9 @@ topic_concepts:
   - key: "InferenceChipStartupNarrowing"
     title: "Inference Chip Startup Narrowing"
     url: "/wiki/concepts/inferencechipstartupnarrowing/"
+  - key: "InferenceDecodeBandwidth"
+    title: "Inference Decode Bandwidth"
+    url: "/wiki/concepts/inferencedecodebandwidth/"
   - key: "InformationApocalypse"
     title: "Information Apocalypse"
     url: "/wiki/concepts/informationapocalypse/"
@@ -4655,6 +4658,9 @@ topic_entities:
   - key: "BiancaContentEngineer"
     title: "Bianca (content engineer)"
     url: "/wiki/entities/biancacontentengineer/"
+  - key: "BillDally"
+    title: "Bill Dally"
+    url: "/wiki/entities/billdally/"
   - key: "BillMaris"
     title: "Bill Maris"
     url: "/wiki/entities/billmaris/"
@@ -5444,6 +5450,9 @@ topic_entities:
   - key: "HanZheng"
     title: "Han Zheng / 韩正"
     url: "/wiki/entities/hanzheng/"
+  - key: "HanaPino"
+    title: "HanaPino"
+    url: "/wiki/entities/hanapino/"
   - key: "HangSengTechIndex"
     title: "Hang Seng Tech Index"
     url: "/wiki/entities/hangsengtechindex/"
@@ -8349,6 +8358,9 @@ topic_sources:
   - key: "e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9"
     title: "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破"
     url: "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+  - key: "e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0"
+    title: "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学"
+    url: "/wiki/sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0/"
   - key: "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0"
     title: "E42 孟岩对话韦青：沉默的主角"
     url: "/wiki/sources/e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0/"

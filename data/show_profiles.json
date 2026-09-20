@@ -2631,14 +2631,14 @@
       "earliest_episode_date": "2026-02-14",
       "latest_episode_date": "2026-09-18",
       "latest_episode_file": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建 [78ec2d74-0ad7-4c6f-9764-728eec0e6e87].md",
-      "source_note_count": 27,
-      "topic_matched_source_note_count": 23,
+      "source_note_count": 28,
+      "topic_matched_source_note_count": 24,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 19
+          "source_note_count": 20
         },
         {
           "key": "culture",
@@ -2682,6 +2682,13 @@
           "episode_count": 3
         },
         {
+          "key": "Groq",
+          "title": "Groq",
+          "url": "/wiki/entities/groq/",
+          "kind": "organization",
+          "episode_count": 3
+        },
+        {
           "key": "Nvidia",
           "title": "Nvidia",
           "url": "/wiki/entities/nvidia/",
@@ -2696,24 +2703,17 @@
           "episode_count": 3
         },
         {
+          "key": "Broadcom",
+          "title": "Broadcom",
+          "url": "/wiki/entities/broadcom/",
+          "kind": "organization",
+          "episode_count": 2
+        },
+        {
           "key": "ColumbiaUniversity",
           "title": "Columbia University",
           "url": "/wiki/entities/columbiauniversity/",
           "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "DeepSeek",
-          "title": "DeepSeek",
-          "url": "/wiki/entities/deepseek/",
-          "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "DonaldTrump",
-          "title": "Donald Trump",
-          "url": "/wiki/entities/donaldtrump/",
-          "kind": "person",
           "episode_count": 2
         }
       ],

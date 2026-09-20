@@ -8407,6 +8407,10 @@
     "title": "Bill Cunningham",
     "url": "/wiki/entities/billcunningham/"
   },
+  "BillDally": {
+    "title": "Bill Dally",
+    "url": "/wiki/entities/billdally/"
+  },
   "BillGurley": {
     "title": "Bill Gurley",
     "url": "/wiki/entities/billgurley/"
@@ -27611,6 +27615,10 @@
     "title": "韩中 / Han Zhong (Liaodong envoy)",
     "url": "/wiki/entities/hanzhongliaodonglatehan/"
   },
+  "HanaPino": {
+    "title": "HanaPino",
+    "url": "/wiki/entities/hanapino/"
+  },
   "Handan": {
     "title": "邯郸 / Handan",
     "url": "/wiki/entities/handan/"
@@ -31082,6 +31090,10 @@
   "InferenceChipStartupNarrowing": {
     "title": "Inference Chip Startup Narrowing",
     "url": "/wiki/concepts/inferencechipstartupnarrowing/"
+  },
+  "InferenceDecodeBandwidth": {
+    "title": "Inference Decode Bandwidth",
+    "url": "/wiki/concepts/inferencedecodebandwidth/"
   },
   "InferioritySuperiorityDynamic": {
     "title": "Inferiority-Superiority Dynamic",
@@ -74094,6 +74106,10 @@
   "e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9": {
     "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
     "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+  },
+  "e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0": {
+    "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
+    "url": "/wiki/sources/e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0/"
   },
   "e42-mengyan-duihua-weiqing-chenmode-zhujue-lip25o2kub9dknpjhfgc4lz-76w0": {
     "title": "E42 孟岩对话韦青：沉默的主角",

@@ -20466,3 +20466,11 @@ Added source `274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci
 ## [2026-09-20] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-20] ingest | E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学
+
+Added the source note; created Bill Dally, HanaPino, and Inference Decode Bandwidth; migrated Groq, Cerebras, and Broadcom to synthesis-v1; and extended AI Chip Specialization with decode bandwidth, MoE dynamics, wafer-yield, and power-first architecture tradeoffs.
+
+## [2026-09-20] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

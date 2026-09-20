@@ -11750,6 +11750,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BillDally": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BillGurley": [
     {
       "key": "economics",
@@ -32201,6 +32208,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HanaPino": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Handan": [
     {
       "key": "history",
@@ -35984,6 +35998,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "InferenceDecodeBandwidth": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "InferioritySuperiorityDynamic": [
@@ -81455,6 +81476,13 @@
     }
   ],
   "e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "e251-tuili-xinpian-zhi-zhan-liaoliao-groq-cerebras-yu-openai-sanda-lujing-yu-bill-dally-de-sheji-zhexue-786d63c4-d46c-4ff3-80f8-fc895b2a57f0": [
     {
       "key": "technology",
       "label": "Technology",

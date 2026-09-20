@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7604
+wiki_total_pages: 7605
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "InferenceChipStartupNarrowing"
     title: "Inference Chip Startup Narrowing"
     url: "/wiki/concepts/inferencechipstartupnarrowing/"
+  - key: "InferenceDecodeBandwidth"
+    title: "Inference Decode Bandwidth"
+    url: "/wiki/concepts/inferencedecodebandwidth/"
   - key: "InferioritySuperiorityDynamic"
     title: "Inferiority-Superiority Dynamic"
     url: "/wiki/concepts/inferioritysuperioritydynamic/"
