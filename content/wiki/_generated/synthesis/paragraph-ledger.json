@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
       "0daa41d2db49e352a061dbc1cbdb9c15c8dec24010707da76c7da3aa45e83a07",
       "7fc44b5df61df786d4a65b47b8da141b7d5130bafbcefb3ef6eebd1f724c15bb",
       "88e48f5b7958b1ffc438421571d2d3c4e877044844b91d38f70d17fb2cc16f0f",
@@ -664,11 +665,29 @@
       "40cc1dee0dedf3fe2b2161024f0d8e09332d2aaa285deb9c27baaca9cff0cd8d",
       "a56c1676cbcdec26cb8f2defff5e94c20c1c5984f652dc3d1217e7c9f926a3fb"
     ],
-    "paragraph_count": 662
+    "paragraph_count": 663
   },
-  "overview_commit": "dafe53c608da43d9df446e1fdc91f8a150ad82e5",
-  "overview_digest": "4fe8d4faf41df0153e178f18a768300457d91ddfff2f1d7d361207428910496a",
+  "overview_commit": "0b0cee17089c285b44382664185b47f4a25f8bac",
+  "overview_digest": "fc2e99c1d21f8db648874b3eb380e1044b4abda0e0d8b44e4f4208d9b8b84bcf",
   "paragraphs": [
+    {
+      "id": "04f51cc3bb7008aaeccc94de11eb2e175d6b719117d670c3dcec7c90e3c8dfdf",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The newest ancient-war source, [[569-hannibal-elephants-cross-the-alps-part-2-glt8313087633|569. Hannibal: Elephants Cross the Alps (Part 2)]], backfills [[HannibalBarca]]'s strategic and operational setup before Part 3. It adds [[HannibalAlpineCrossing]] and extends [[HannibalicOperationalDeception]] through Roman sea control, Spain's value, coalition-breaking strategy, Gallic diplomacy, intelligence, the Rhone maneuver, Alpine ambushes, religious vows, and Hercules-like propaganda. Its core synthesis is that the crossing was a costly route into the political battlefield of Italy rather than a self-contained stunt: severe attrition bought initiative, access to Gallic recruits, and the chance to attack Rome's alliance system. No settled contradiction is recorded; troop and elephant totals, Cyrus, dreams, speeches, motives, manure evidence, and the precise Alpine pass remain source-scoped ancient claims.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633",
+        "HannibalAlpineCrossing",
+        "HannibalBarca",
+        "HannibalicOperationalDeception"
+      ]
+    },
     {
       "id": "0daa41d2db49e352a061dbc1cbdb9c15c8dec24010707da76c7da3aa45e83a07",
       "primary_topic": "history-and-geopolitics",

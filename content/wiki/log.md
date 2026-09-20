@@ -20583,6 +20583,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `essentials-machines-creativity-love-dr-lex-fridman-scim3392253065`; created `CostelloDog` and disambiguated `HomerLexFridmanDog`; and updated `LexFridman`, `CompanionRobots`, `DataEngineLearningLoop`, `SelfSupervisedLearning`, `PetGriefAndCare`, overview, and index. Core synthesis: AI learning depends on targets, edge cases, feedback, and redeployment, while human attachment to robots may grow through shared time, memory, voice, and imperfection without proving machine sentience; Homer and Costello ground the episode's grief claims in companion-animal care and loss. No settled contradiction found; Tesla responsibility, AI danger, robot rights, machine common sense, emotional attribution, and end-of-life interpretations remain time- and source-scoped.
 
+## [2026-09-21] ingest | 569. Hannibal: Elephants Cross the Alps (Part 2)
+
+Added source `569-hannibal-elephants-cross-the-alps-part-2-glt8313087633`; created `HannibalAlpineCrossing`; and updated `HannibalBarca`, `HannibalicOperationalDeception`, overview, and index. Core synthesis: Roman sea control, Spain's strategic value, and Rome's manpower-and-alliance advantage make the Alpine route a costly means of entering Italy's political battlefield, while diplomacy, intelligence, logistics, deception, and propaganda help preserve the invasion through the Rhone and mountain ambushes. No settled contradiction found; troop and elephant totals, Cyrus, dreams, speeches, motives, manure evidence, and the exact Alpine pass remain source-scoped ancient claims.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

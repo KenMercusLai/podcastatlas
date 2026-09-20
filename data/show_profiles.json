@@ -891,14 +891,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-16",
       "latest_episode_file": "GLT3285474568 [GLT3285474568].md",
-      "source_note_count": 56,
-      "topic_matched_source_note_count": 55,
+      "source_note_count": 57,
+      "topic_matched_source_note_count": 56,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 53
+          "source_note_count": 54
         },
         {
           "key": "politics",

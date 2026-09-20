@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1884
+topic_total_pages: 1885
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4557,6 +4557,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633"
+    title: "569. Hannibal: Elephants Cross the Alps (Part 2)"
+    url: "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
   - key: "570-hannibal-the-invasion-of-italy-part-3-glt2952414067"
     title: "570. Hannibal: The Invasion of Italy (Part 3)"
     url: "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"

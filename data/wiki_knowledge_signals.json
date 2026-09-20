@@ -50889,11 +50889,18 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/hangzhoumuseum/"
     },
-    "HannibalBarca": {
-      "episode_count": 1,
+    "HannibalAlpineCrossing": {
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "GLT8313087633 [GLT8313087633].md",
+          "key": "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633",
+          "show": "The Rest Is History",
+          "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
+          "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
+        },
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
           "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
@@ -50903,12 +50910,12 @@
         }
       ],
       "updated": "2026-09-21",
-      "url": "/wiki/entities/hannibalbarca/"
+      "url": "/wiki/concepts/hannibalalpinecrossing/"
     },
-    "HannibalicOperationalDeception": {
-      "episode_count": 1,
+    "HannibalBarca": {
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2952414067 [GLT2952414067].md",
@@ -50916,6 +50923,36 @@
           "show": "The Rest Is History",
           "title": "570. Hannibal: The Invasion of Italy (Part 3)",
           "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        },
+        {
+          "episode_file": "GLT8313087633 [GLT8313087633].md",
+          "key": "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633",
+          "show": "The Rest Is History",
+          "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
+          "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/hannibalbarca/"
+    },
+    "HannibalicOperationalDeception": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT2952414067 [GLT2952414067].md",
+          "key": "570-hannibal-the-invasion-of-italy-part-3-glt2952414067",
+          "show": "The Rest Is History",
+          "title": "570. Hannibal: The Invasion of Italy (Part 3)",
+          "url": "/wiki/sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067/"
+        },
+        {
+          "episode_file": "GLT8313087633 [GLT8313087633].md",
+          "key": "569-hannibal-elephants-cross-the-alps-part-2-glt8313087633",
+          "show": "The Rest Is History",
+          "title": "569. Hannibal: Elephants Cross the Alps (Part 2)",
+          "url": "/wiki/sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633/"
         }
       ],
       "updated": "2026-09-21",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [569. Hannibal: Elephants Cross the Alps (Part 2)](sources/569-hannibal-elephants-cross-the-alps-part-2-glt8313087633.md) — The Rest Is History episode on Hannibal's land-invasion logic, Gallic diplomacy, Rhone crossing, Alpine ambushes, propaganda, attrition, and route uncertainty.
 - [Essentials: Machines, Creativity & Love | Dr. Lex Fridman](sources/essentials-machines-creativity-love-dr-lex-fridman-scim3392253065.md) — Huberman Lab Essentials conversation on AI learning, data-engine feedback, alignment, supervised driving, robot companionship, shared memory, and grief for Homer and Costello.
 - [570. Hannibal: The Invasion of Italy (Part 3)](sources/570-hannibal-the-invasion-of-italy-part-3-glt2952414067.md) — The Rest Is History episode on Hannibal's Alpine gamble, Trebia and Trasimene victories, alliance strategy, operational deception, and Fabius's time-buying response.
 - [Healing From Grief & Loss | Dr. Mary-Frances O'Connor](sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393.md) — Huberman Lab interview on grief as attachment-based learning, continuing bonds, yearning, bodily risk, rumination, and oscillation between loss and restoration.
@@ -12916,6 +12917,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Hannibal's Alpine Crossing / 汉尼拔翻越阿尔卑斯山](concepts/HannibalAlpineCrossing.md) — Costly 218 BC land campaign combining strategic asymmetry, diplomacy, logistics, intelligence, propaganda, attrition, and coalition politics.
 - [Hannibalic Operational Deception / 汉尼拔式战役欺骗](concepts/HannibalicOperationalDeception.md) — Strategy pattern joining opponent incentives, credible lures, logistics, terrain, concealment, and political effects.
 - [Fabian Strategy / 费边战略](concepts/FabianStrategy.md) — Delay-and-shadow strategy that converts Roman manpower, training time, and allied resilience into future capacity.
 - [Dual-Process Bereavement Oscillation](concepts/DualProcessBereavementOscillation.md) — Healthy-grieving model based on flexible movement between loss-oriented experience and restoration-oriented life.

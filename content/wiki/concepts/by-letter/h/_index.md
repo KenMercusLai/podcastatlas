@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7641
+wiki_total_pages: 7642
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "HandsetChipCoDesign"
     title: "Handset-Chip Co-Design"
     url: "/wiki/concepts/handsetchipcodesign/"
+  - key: "HannibalAlpineCrossing"
+    title: "Hannibal's Alpine Crossing / 汉尼拔翻越阿尔卑斯山"
+    url: "/wiki/concepts/hannibalalpinecrossing/"
   - key: "HannibalicOperationalDeception"
     title: "Hannibalic Operational Deception / 汉尼拔式战役欺骗"
     url: "/wiki/concepts/hannibalicoperationaldeception/"
