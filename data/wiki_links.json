@@ -36127,6 +36127,10 @@
     "title": "LIVO",
     "url": "/wiki/entities/livo/"
   },
+  "LLMOps": {
+    "title": "LLMOps",
+    "url": "/wiki/concepts/llmops/"
+  },
   "LLMStatisticalBoundary": {
     "title": "LLM Statistical Boundary",
     "url": "/wiki/concepts/llmstatisticalboundary/"
@@ -54727,6 +54731,10 @@
     "title": "Rockfish Weatherwear",
     "url": "/wiki/entities/rockfishweatherwear/"
   },
+  "RockyMountainAIInterestGroup": {
+    "title": "Rocky Mountain AI Interest Group",
+    "url": "/wiki/entities/rockymountainaiinterestgroup/"
+  },
   "RodEggert": {
     "title": "Rod Eggert",
     "url": "/wiki/entities/rodeggert/"
@@ -65175,6 +65183,10 @@
     "title": "Uber Eats",
     "url": "/wiki/entities/ubereats/"
   },
+  "UcheAgbosi": {
+    "title": "Uche Agbosi",
+    "url": "/wiki/entities/ucheagbosi/"
+  },
   "UenoChizuko": {
     "title": "Ueno Chizuko / 上野千鹤子",
     "url": "/wiki/entities/uenochizuko/"
@@ -75502,6 +75514,10 @@
   "ep-17-ais-impact-on-creativity-a-consumers-perspective": {
     "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
     "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
+  },
+  "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
+    "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
+    "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
   },
   "ep-28-the-ai-revolution-redefining-healthcare-financing": {
     "title": "EP 28: The AI Revolution: Redefining Healthcare Financing",

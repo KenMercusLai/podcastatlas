@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10427
+wiki_total_pages: 10429
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "RockfishWeatherwear"
     title: "Rockfish Weatherwear"
     url: "/wiki/entities/rockfishweatherwear/"
+  - key: "RockyMountainAIInterestGroup"
+    title: "Rocky Mountain AI Interest Group"
+    url: "/wiki/entities/rockymountainaiinterestgroup/"
   - key: "ROCm"
     title: "ROCm"
     url: "/wiki/entities/rocm/"

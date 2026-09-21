@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7779
+wiki_total_pages: 7780
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "LLMWorldModelGap"
     title: "LLM World Model Gap"
     url: "/wiki/concepts/llmworldmodelgap/"
+  - key: "LLMOps"
+    title: "LLMOps"
+    url: "/wiki/concepts/llmops/"
   - key: "LoanCapAccessRisk"
     title: "Loan Cap Access Risk"
     url: "/wiki/concepts/loancapaccessrisk/"

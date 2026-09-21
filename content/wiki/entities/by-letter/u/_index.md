@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 10427
+wiki_total_pages: 10429
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "UCBerkeley"
     title: "UC Berkeley"
     url: "/wiki/entities/ucberkeley/"
+  - key: "UcheAgbosi"
+    title: "Uche Agbosi"
+    url: "/wiki/entities/ucheagbosi/"
   - key: "UCSD"
     title: "UCSD"
     url: "/wiki/entities/ucsd/"

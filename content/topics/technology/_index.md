@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3109
+topic_total_pages: 3110
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2668,6 +2668,9 @@ topic_concepts:
   - key: "LLMWorldModelGap"
     title: "LLM World Model Gap"
     url: "/wiki/concepts/llmworldmodelgap/"
+  - key: "LLMOps"
+    title: "LLMOps"
+    url: "/wiki/concepts/llmops/"
   - key: "LocalAIFrameworkStack"
     title: "Local AI Framework Stack"
     url: "/wiki/concepts/localaiframeworkstack/"

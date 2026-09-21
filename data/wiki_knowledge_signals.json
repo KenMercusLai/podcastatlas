@@ -456,6 +456,85 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/aiagentrisktesting/"
     },
+    "AIAlignmentGovernance": {
+      "episode_count": 10,
+      "show_count": 8,
+      "source_note_count": 10,
+      "sources": [
+        {
+          "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
+          "key": "an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c",
+          "show": "Economist Podcasts",
+          "title": "An interview with Elon Musk",
+          "url": "/wiki/sources/an-interview-with-elon-musk-6a6212214fac21e67f9b8c8c/"
+        },
+        {
+          "episode_file": "The Elon game： Musk’s vision of the future [6a633594d19896314260e5c4].md",
+          "key": "the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4",
+          "show": "Economist Podcasts",
+          "title": "The Elon game: Musk's vision of the future",
+          "url": "/wiki/sources/the-elon-game-musks-vision-of-the-future-6a633594d19896314260e5c4/"
+        },
+        {
+          "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
+          "key": "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI model unintentionally hacks another company's system",
+          "url": "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "EP256 AI时代,“自由意志”还存在吗？ [lk9AcI8oqNwerk26JY683NbDddCX].md",
+          "key": "ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx",
+          "show": "Talk三联",
+          "title": "EP256 AI时代，“自由意志”还存在吗？",
+          "url": "/wiki/sources/ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-EmmettShear-v1-AudioOnly [TSR-YCOffsite-EmmettShear-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Emmett Shear, Founder, Softmax & Twitch",
+          "url": "/wiki/sources/tsr-ycoffsite-emmettshear-v1-audioonly-tsr-ycoffsite-emmettshear-v1-audioonly/"
+        },
+        {
+          "episode_file": "TSR-S4-SamAltman-v4 [TSR-S4-SamAltman-v4].md",
+          "key": "tsr-s4-samaltman-v4-tsr-s4-samaltman-v4",
+          "show": "The Social Radars",
+          "title": "Sam Altman on YC, OpenAI, and the Meaning of Formidable",
+          "url": "/wiki/sources/tsr-s4-samaltman-v4-tsr-s4-samaltman-v4/"
+        },
+        {
+          "episode_file": "02026-ries-podcast-v2 [02026-ries-podcast-v2].md",
+          "key": "eric-ries-incorruptible-by-design-wrgromn5peq",
+          "show": "Long Now",
+          "title": "Eric Ries: Incorruptible by Design",
+          "url": "/wiki/sources/eric-ries-incorruptible-by-design-wrgromn5peq/"
+        },
+        {
+          "episode_file": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛 [7abda28b-99c6-4ebc-8c0d-37bcc77f6a73].md",
+          "key": "e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73",
+          "show": "硅谷101",
+          "title": "E226｜聊聊DeepMind创始人哈萨比斯：一个科学家与失控的AI竞赛",
+          "url": "/wiki/sources/e226-liaoliao-deepmind-chuangshiren-hasabisi-yige-kexuejia-yu-shikong-de-ai-jingsai-7abda28b-99c6-4ebc-8c0d-37bcc77f6a73/"
+        },
+        {
+          "episode_file": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟 [lrS0qgmr9Gy1NbDTrSvN2Lx5dxza].md",
+          "key": "174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza",
+          "show": "起朱楼宴宾客",
+          "title": "174. 我们还能给算法当多久的品味老师？｜对谈亚马逊AGI查晟",
+          "url": "/wiki/sources/174-women-hai-neng-gei-suanfa-dang-duojiu-de-pinwei-laoshi-duitan-yamaxun-agi-cha-sheng-lrs0qgmr9gy1nbdtrsvn2lx5dxza/"
+        },
+        {
+          "episode_file": "43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128 [43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a838c24].md",
+          "key": "ep-20-understanding-ai-agents-from-basics-to-future-potential",
+          "show": "Data Science With Sam",
+          "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
+          "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/aialignmentgovernance/"
+    },
     "AIAmplifiesProfessionals": {
       "episode_count": 1,
       "show_count": 1,
@@ -67577,6 +67656,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/livo/"
     },
+    "LLMOps": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128 [43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a838c24].md",
+          "key": "ep-20-understanding-ai-agents-from-basics-to-future-potential",
+          "show": "Data Science With Sam",
+          "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
+          "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/llmops/"
+    },
     "LMStudio": {
       "episode_count": 1,
       "show_count": 1,
@@ -84315,6 +84410,78 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/msmagazine/"
+    },
+    "MultiAgentCollaboration": {
+      "episode_count": 9,
+      "show_count": 7,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路 [6242033d-a14a-44e3-a622-cbfc7d3c3817].md",
+          "key": "e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817",
+          "show": "硅谷101",
+          "title": "E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路",
+          "url": "/wiki/sources/e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817/"
+        },
+        {
+          "episode_file": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24 [a3884ade-4669-4d5c-ab2e-f98aa580f429].md",
+          "key": "jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429",
+          "show": "What's Next｜科技早知道",
+          "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
+          "url": "/wiki/sources/jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429/"
+        },
+        {
+          "episode_file": "当我们在讨论 Harness 的时候，我们在讨论什么 ｜ 深度对谈： Minimax × Hermes Agent [lvHm1cFno7MQMFV3g0aajmW4zdPd].md",
+          "key": "dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd",
+          "show": "十字路口Crossing",
+          "title": "当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: MiniMax × Hermes Agent",
+          "url": "/wiki/sources/dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd/"
+        },
+        {
+          "episode_file": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地 [308f9278-dd48-44d3-a4ce-ee436968fc28].md",
+          "key": "e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di",
+          "show": "硅谷101",
+          "title": "E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地",
+          "url": "/wiki/sources/e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di/"
+        },
+        {
+          "episode_file": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权 [lvjthrP5i6nloL64YOJ_JDDRa4WF].md",
+          "key": "138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权",
+          "url": "/wiki/sources/138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf/"
+        },
+        {
+          "episode_file": "268.AI时代，个人工作台会重新回到手机吗？ [lgPRs5jUHHrJyKBzASAqvdLZx8fs].md",
+          "key": "268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs",
+          "show": "乱翻书",
+          "title": "268. AI时代，个人工作台会重新回到手机吗？",
+          "url": "/wiki/sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs/"
+        },
+        {
+          "episode_file": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC [liiv-fKcDolfb06hKOyz0IX3feJY].md",
+          "key": "yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy",
+          "show": "42章经",
+          "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
+          "url": "/wiki/sources/yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy/"
+        },
+        {
+          "episode_file": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪 [lkp1A0TodFlxOyYCYo3zhRaP3eBv].md",
+          "key": "women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv",
+          "show": "42章经",
+          "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+          "url": "/wiki/sources/women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv/"
+        },
+        {
+          "episode_file": "43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128 [43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a838c24].md",
+          "key": "ep-20-understanding-ai-agents-from-basics-to-future-potential",
+          "show": "Data Science With Sam",
+          "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
+          "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/multiagentcollaboration/"
     },
     "MultiTeacherDistillation": {
       "episode_count": 2,
@@ -103082,6 +103249,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/rockfishweatherwear/"
     },
+    "RockyMountainAIInterestGroup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128 [43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a838c24].md",
+          "key": "ep-20-understanding-ai-agents-from-basics-to-future-potential",
+          "show": "Data Science With Sam",
+          "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
+          "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/rockymountainaiinterestgroup/"
+    },
     "RodentBorneInfectionPrevention": {
       "episode_count": 1,
       "show_count": 1,
@@ -121717,6 +121900,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/uber/"
+    },
+    "UcheAgbosi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128 [43298858C84C4D4293E718143783C280~8584425_2026-08-10-215325-8787-0-0-10.128.mp3？cdn_id=99&uuid=d325d582-a05a-2ed9-abc9-3f4efbef3ddc&wuuid=6a838c24].md",
+          "key": "ep-20-understanding-ai-agents-from-basics-to-future-potential",
+          "show": "Data Science With Sam",
+          "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
+          "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/ucheagbosi/"
     },
     "UjiBridgeBattle": {
       "episode_count": 1,

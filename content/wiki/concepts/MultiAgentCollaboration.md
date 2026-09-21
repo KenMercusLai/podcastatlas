@@ -2,52 +2,57 @@
 title: "Multi-Agent Collaboration"
 type: concept
 tags: [agents, collaboration, verification]
-sources: [e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817, jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429, dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd, e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di, 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf, 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs, yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy, women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]
-last_updated: 2026-08-24
+sources:
+  - e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817
+  - jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429
+  - dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd
+  - e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di
+  - 138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf
+  - 268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs
+  - yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy
+  - women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv
+  - ep-20-understanding-ai-agents-from-basics-to-future-potential
+last_updated: 2026-09-22
+knowledge_schema: synthesis-v1
 ---
 
 # Multi-Agent Collaboration
 
-[[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] adds [[Dongxu]]'s [[SlockAI|Slock/Raft]] code-review workflow. He uses multiple agents to critique complex software projects, let them challenge one another, and surface issues a single one-shot review can miss. The source also narrows the value claim: multi-agent work can cost an order of magnitude more tokens, so it belongs inside [[TokenEfficientAgentWorkflow]] rather than being the default endpoint for every task.
+## Definition
+Multi-agent collaboration is the use of multiple specialized or peer AI agents to divide work, exchange context, review outputs, explore alternatives, and coordinate toward a shared task.
 
-[[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]] adds a cautionary version through [[JiaYangqing|Jia Yangqing]]: more agents do not automatically solve reliability. Agent teams need role boundaries, communication, and external verification or they can produce coordinated but still ungrounded answers.
-
-Multi-agent collaboration is the use of multiple agents to exchange context, review each other, explore alternatives, and recover from drift in long tasks. In [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]], the [[MiniMax]] guests argue that two models can exchange far more context than a human normally provides and can cross-check each other when a single long-context agent starts moving down a wrong path.
-
-[[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]] adds [[Apodex]]'s verification version. [[DuShaolei]] says agent teams can divide solving and checking work when no simple unit test or formal proof exists. The system can use redundant agents to compare answers and can train agents to judge information-source reliability, making multi-agent collaboration part of [[AIVerification]].
-
-[[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] adds a model-research workflow version. [[LuoFuli]] describes splitting ideas across agents, letting them explore in parallel, and cross-validating results, while warning that current multi-agent value is clearer for saving time and cost than for proving a higher final capability ceiling.
-
-[[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] adds a consumer-phone visualization. On a foldable [[MobileAIWorkstation]], multiple AI tools can sit in parallel windows for search, writing, translation, summary, or answer comparison, while a future main agent may route work to smaller subagents and evaluate results.
-
-[[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] adds [[SlockAI|Slock.ai]]'s organization-scale case. [[RC]] describes a seven-person company using about forty agents, which makes multi-agent collaboration a management and product-design problem: agents need to claim tasks, recognize their own identity in busy channels, learn from shared memory, and respond to cooperative rather than adversarial norms.
-
-[[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] adds [[Kuse]]'s AI-employee collaboration case. [[KuseRing|Ring]] and [[Azura]] collaborated on Junior sales material, while the team also explored agent-to-agent work through Git plus messaging channels. [[Yuhao]] argues that if agents are employees, separate agents may need separate work machines rather than sharing one computer context.
+## Current Synthesis
+Across the bounded sources, multi-agent systems are valuable when decomposition, parallelism, role specialization, or independent checking creates more benefit than a stronger single-model pass. Their reliability does not come from agent count: it comes from an [[AgentHarness]] that defines tasks, roles, communication, permissions, shared state, acceptance criteria, and external verification. The newest introductory source reinforces this boundary by showing how rapid delegation can distort original intent and amplify errors before a human notices.
 
 ## Key Claims
-- Multi-agent work is not only role-play; it can be review, adversarial checking, parallel exploration, and handoff.
-- It helps with long-horizon tasks where one agent's context window grows stale or overcommitted to a bad plan.
-- It requires [[AgentHarness]] governance so each agent has appropriate tools, permissions, information boundaries, and goals.
-- It overlaps with [[SubagentWorkflow]], but the source emphasizes peer checking and high-bandwidth model-to-model context exchange.
-- In scientific or open-ended tasks, multiple agents can approximate a review committee: propose, verify, challenge evidence, and compare source quality.
-- Multi-agent verification reduces but does not eliminate drift; it still needs human standards and domain expertise.
-- Multi-agent work can increase research throughput, but it shifts pressure to [[TrainingComputeAllocation]], [[ResearchTaste]], and result verification.
-- Multi-agent work can also be a user-interface pattern: a larger screen can show several agents or model answers at once before deeper automation exists.
-- The "main agent" layer becomes important when one agent assigns roles, selects subagents, evaluates outputs, and explains the process to the user.
-- Message-based multi-agent systems need explicit [[AgentTaskClaiming]] so agents do not duplicate work or misread open tasks.
-- Agent identity and culture-like norms can affect output quality when many agents share one workspace.
-- Multi-agent AI employee setups need resource isolation because separate agents can conflict if they share one machine, account state, or long session indiscriminately.
-- E249 adds that a stronger frontier model can sometimes replace a long agent debate on a hard point, so collaboration value should be judged by marginal review gain, not agent count.
+- Multi-agent work can improve review, parallel exploration, handoffs, and recovery from one agent's context drift.
+- More agents do not inherently improve correctness; coordinated agents can agree on an ungrounded result or amplify an early mistake.
+- Reliable collaboration needs explicit task definitions, role boundaries, communication protocols, permissions, and externally inspectable success criteria.
+- A main-agent or manager pattern can route tasks and evaluate results, but it adds another control point that also needs verification.
+- Shared workspaces require task claiming, identity refresh, memory boundaries, and resource isolation to prevent duplicate or conflicting action.
+- Multi-agent value is workload-dependent because collaboration can multiply token cost, latency, review burden, and operational complexity.
+- Human judgment remains responsible for deciding whether cross-checking, a stronger single model, deterministic tests, or no autonomous action is the right design.
 
-## Connections
-- [[SubagentWorkflow]] — related pattern for background delegation and synthesis.
-- [[AgenticWorkflow]] — broader task-completion pattern where multiple agents may be useful.
-- [[AgentHarness]] — orchestration and permission layer needed for safe collaboration.
-- [[MiniMax]], [[Adao]], and [[Zeying]] — source context for the cross-checking claim.
-- [[AICodingVerification]] — adjacent area where independent review agents may reduce unchecked generation risk.
-- [[Apodex]], [[DeepResearch]], [[AIVerification]], and [[DiscoveryModel]] — agent-team verification case added by the Silicon Valley 101 source.
-- [[LuoFuli]], [[OpenClaw]], [[MLCoding]], and [[TrainingComputeAllocation]] — parallel model-research workflow case added by episode 138.
-- [[MobileAIWorkstation]], [[FoldablePhoneProductivity]], [[Doubao]], [[Kimi]], [[Yuanbao]], and [[DeepSeek]] — consumer comparison and multi-window examples added by Luanfanshu 268.
-- [[SlockAI|Slock.ai]], [[RC]], [[AgentDynamics]], [[AgentTaskClaiming]], and [[AgentOrganizationalCulture]] — organization-scale many-agent case added by the RC episode.
-- [[Kuse]], [[Junior]], [[KuseRing|Ring]], and [[Azura]] — AI employee collaboration and separate-work-device case added by the Yuhao source.
-- [[Dongxu]], [[SlockAI|Slock/Raft]], [[TokenEfficientAgentWorkflow]], and [[AIInferenceCostStructure]] — E249's cost-aware multi-agent code-review case.
+## Evidence
+- Verification and drift: [[jia-yangqing-wo-suo-jingli-de-rengongzhineng-yisi-dao-ai-dianfu-shijie-de-shunian-jubian-chuantai-shengdongjixi-s10e24-a3884ade-4669-4d5c-ab2e-f98aa580f429]], [[e242-zuikuai-bannian-ai-paotong-zi-jinhua-yu-chen-tianqiao-shouxi-kexuejia-liaoliao-guigu-moxing-bi-zheng-zhi-di]], and [[ep-20-understanding-ai-agents-from-basics-to-future-potential]] make external checking and intent preservation central.
+- Context exchange and parallel work: [[dang-women-zai-taolun-harness-de-shihou-women-zai-taolun-shenme-shendu-duitan-minimax-hermes-agent-lvhm1cfno7mqmfv3g0aajmw4zdpd]] and [[138-dui-luo-fuli-3-5-xiaoshi-fangtan-ai-fanshi-yiran-jubian-openclaw-agent-fanshi-hen-chi-hou-xunlian-ka-de-fenpei-zuzhi-pingquan-lvjthrp5i6nlol64yoj-jddra4wf]] describe cross-checking and parallel research loops inside harnessed systems.
+- Interface and orchestration: [[268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs]] shows answer comparison and a possible main-agent routing layer on a mobile workbench.
+- Organization-scale coordination: [[yong-agent-donglixue-he-40-ge-agents-yiqi-wei-ren-ai-zuo-chanpin-duitan-slock-ai-chuangshiren-rc-liiv-fkcdolfb06hkoyz0ix3fejy]] and [[women-shi-ruhe-dingyi-openclaw-for-teams-xin-chanpin-xingtai-de-duitan-kuse-junior-lianchuang-jian-cto-yuhao-lkp1a0todflxoyycyo3zhrap3ebv]] ground task claiming, identity, culture, memory, machine separation, and enterprise permissions.
+- Cost boundary: [[e249-token-jingji-zhuandian-openclaw-hermes-dao-bendi-ziyan-de-agent-jinhua-zhi-lu-6242033d-a14a-44e3-a622-cbfc7d3c3817]] treats multi-agent review as potentially useful but materially more token-intensive than a single pass.
+
+## Counterevidence & Qualifications
+The sources are mostly practitioner interviews and product narratives rather than controlled comparisons. They show plausible mechanisms and operating problems, but do not establish a general reliability gain, optimal agent count, or cost threshold. A stronger model, deterministic verifier, conventional workflow, or human team may outperform an agent debate. Multi-agent agreement is not independent evidence when agents share models, prompts, data, or failure modes.
+
+## What Changed
+- Migrated the page to synthesis-v1 and compressed source-led additions into claim-grouped evidence.
+- Added the introductory distinction between specialized compound-AI systems and action-oriented single agents.
+- Strengthened the intent-drift warning: fast agent-to-agent invocation can amplify errors before review.
+- Made workload fit and marginal review gain, rather than agent count, the decision boundary.
+
+## Related Concepts
+- [[AgentHarness]] - supplies orchestration, context, permissions, tools, and evaluation boundaries.
+- [[SubagentWorkflow]] - delegation pattern that may use specialized background agents under a primary agent.
+- [[AIVerification]] - external evidence and tests needed because agent agreement is not proof.
+- [[AgentTaskClaiming]] - coordination mechanism that prevents duplicate work in shared channels.
+- [[PersistentAgentMemory]] - durable context that can support or contaminate collaboration depending on its boundaries.
+- [[HumanJudgmentUnderAI]] - accountability layer for goals, acceptance criteria, and consequential action.

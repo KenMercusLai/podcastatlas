@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2768
+topic_total_pages: 2769
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4766,6 +4766,9 @@ topic_entities:
   - key: "RockbridgeNetwork"
     title: "Rockbridge Network"
     url: "/wiki/entities/rockbridgenetwork/"
+  - key: "RockyMountainAIInterestGroup"
+    title: "Rocky Mountain AI Interest Group"
+    url: "/wiki/entities/rockymountainaiinterestgroup/"
   - key: "RodoSayagues"
     title: "Rodo Sayagues"
     url: "/wiki/entities/rodosayagues/"
