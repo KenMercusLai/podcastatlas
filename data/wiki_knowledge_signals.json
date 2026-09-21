@@ -7296,9 +7296,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 41,
+      "episode_count": 42,
       "show_count": 1,
-      "source_note_count": 41,
+      "source_note_count": 42,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7586,6 +7586,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
+        },
+        {
+          "episode_file": "SCIM8971920142 [SCIM8971920142].md",
+          "key": "essentials-how-hormones-shape-sexual-development-scim8971920142",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
         }
       ],
       "updated": "2026-09-22",
@@ -39124,6 +39131,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/enverpasha/"
     },
+    "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8971920142 [SCIM8971920142].md",
+          "key": "essentials-how-hormones-shape-sexual-development-scim8971920142",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/environmentalendocrinedisruptionevidenceboundary/"
+    },
     "EnvironmentalExposureSignalDetection": {
       "episode_count": 1,
       "show_count": 1,
@@ -59292,9 +59315,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 41,
+      "episode_count": 42,
       "show_count": 1,
-      "source_note_count": 41,
+      "source_note_count": 42,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -59582,6 +59605,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
+        },
+        {
+          "episode_file": "SCIM8971920142 [SCIM8971920142].md",
+          "key": "essentials-how-hormones-shape-sexual-development-scim8971920142",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
         }
       ],
       "updated": "2026-09-22",
@@ -109266,9 +109296,9 @@
       "url": "/wiki/entities/sexpistols/"
     },
     "SexSteroidFeedbackRegulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1902283258 [SCIM1902283258].md",
@@ -109276,10 +109306,33 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Testosterone & Estrogen",
           "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
+        },
+        {
+          "episode_file": "SCIM8971920142 [SCIM8971920142].md",
+          "key": "essentials-how-hormones-shape-sexual-development-scim8971920142",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
         }
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
+    },
+    "SexualDifferentiationPathway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8971920142 [SCIM8971920142].md",
+          "key": "essentials-how-hormones-shape-sexual-development-scim8971920142",
+          "show": "Huberman Lab",
+          "title": "Essentials: How Hormones Shape Sexual Development",
+          "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/sexualdifferentiationpathway/"
     },
     "SexualExplorationAsSelfKnowledge": {
       "episode_count": 1,

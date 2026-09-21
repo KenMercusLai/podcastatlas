@@ -2679,6 +2679,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Essentials: How to Optimize Testosterone & Estrogen](sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258.md) — Huberman Lab Essentials episode on sex-steroid feedback, aromatization, sleep, stress, light, exercise, supplements, bloodwork, and clinical risk boundaries.
 
+- [Essentials: How Hormones Shape Sexual Development](sources/essentials-how-hormones-shape-sexual-development-scim8971920142.md) — Huberman Lab Essentials episode on layered sexual differentiation, DHT and aromatase pathways, receptor-dependent effects, puberty, and evidence boundaries for environmental endocrine-disruption claims.
+
 ## Entities
 - [Michael Platt](entities/MichaelPlatt.md) — Neuroscientist and primatologist connecting attention, social valuation, hormones, hierarchy, markets, and applied decision science.
 - [Jocelyn Jiang](entities/JocelynJiang.md) — Actuary and MultiPlan data-decision leader discussing responsible AI in employee health benefits.
@@ -21034,5 +21036,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Long COVID Differential and Recovery](concepts/LongCovidDifferentialRecovery.md) — Heterogeneous post-infection evaluation that rules out serious alternatives before considering metabolic, inflammatory, persistence, or rehabilitation hypotheses.
 
 - [Sex-Steroid Feedback Regulation](concepts/SexSteroidFeedbackRegulation.md) — Cross-sex endocrine frame joining testosterone-estrogen conversion, pituitary feedback, context, measurement, fertility, and intervention risk.
+- [Sexual Differentiation Pathway](concepts/SexualDifferentiationPathway.md) — Developmental model joining chromosomes, gonads, hormone production, enzymatic conversion, receptors, tissues, and timing.
+- [Environmental Endocrine Disruption Evidence Boundary](concepts/EnvironmentalEndocrineDisruptionEvidenceBoundary.md) — Evidence boundary separating animal hazards, population trends, mechanism claims, and human causal conclusions about endocrine-active exposures.
 
 ## Syntheses

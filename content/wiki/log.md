@@ -21318,3 +21318,11 @@ Added source `540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | Essentials: How Hormones Shape Sexual Development
+
+Added source `essentials-how-hormones-shape-sexual-development-scim8971920142`; created `SexualDifferentiationPathway` and `EnvironmentalEndocrineDisruptionEvidenceBoundary`; updated `SexSteroidFeedbackRegulation`, `AndrewHuberman`, `HubermanLab`, and the index. Core synthesis: sexual development is a layered pathway in which chromosomes, gonads, hormone production, DHT and estrogen conversion, receptors, target tissues, and developmental timing can diverge, while environmental endocrine-disruption claims must remain separated by species, design, endpoint, dose, and causal strength. No settled contradiction found; atrazine, historical sperm-count, cannabis-aromatase, alcohol, phone-proximity, plant-defense, animal-behavior, and named-condition claims remain source-scoped and clinically bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

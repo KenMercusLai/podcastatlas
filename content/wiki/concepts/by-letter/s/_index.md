@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7852
+wiki_total_pages: 7854
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "SexSteroidFeedbackRegulation"
     title: "Sex-Steroid Feedback Regulation"
     url: "/wiki/concepts/sexsteroidfeedbackregulation/"
+  - key: "SexualDifferentiationPathway"
+    title: "Sexual Differentiation Pathway"
+    url: "/wiki/concepts/sexualdifferentiationpathway/"
   - key: "SexualExplorationAsSelfKnowledge"
     title: "Sexual Exploration As Self-Knowledge / 性探索作为自我认识"
     url: "/wiki/concepts/sexualexplorationasselfknowledge/"
