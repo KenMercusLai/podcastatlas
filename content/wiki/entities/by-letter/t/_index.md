@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10397
+wiki_total_pages: 10399
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1547,6 +1547,9 @@ wiki_pages:
   - key: "Tancheng"
     title: "郯城 / Tancheng"
     url: "/wiki/entities/tancheng/"
+  - key: "TongquePlatform"
+    title: "铜雀台 / Tongque Platform"
+    url: "/wiki/entities/tongqueplatform/"
   - key: "TongmaRebelArmyEasternHan"
     title: "铜马军 / Tongma Rebel Army (Eastern Han)"
     url: "/wiki/entities/tongmarebelarmyeasternhan/"

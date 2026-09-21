@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2602
+topic_total_pages: 2603
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -4249,6 +4249,9 @@ topic_concepts:
   - key: "AllianceContingencyHedging"
     title: "联盟不确定性下的退路预留 / Alliance Contingency Hedging"
     url: "/wiki/concepts/alliancecontingencyhedging/"
+  - key: "PowerRetentionSelfJustification"
+    title: "自辩式保权 / Power-Retention Self-Justification"
+    url: "/wiki/concepts/powerretentionselfjustification/"
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"

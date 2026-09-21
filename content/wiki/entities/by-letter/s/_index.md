@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10397
+wiki_total_pages: 10399
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1673,6 +1673,9 @@ wiki_pages:
   - key: "Solaris"
     title: "《索拉里斯星》 / Solaris"
     url: "/wiki/entities/solaris/"
+  - key: "SelfClarificationEdict"
+    title: "《自明本志令》 / Self-Clarification Edict"
+    url: "/wiki/entities/selfclarificationedict/"
   - key: "SteppenwolfHesse"
     title: "《荒原狼》 / Steppenwolf"
     url: "/wiki/entities/steppenwolfhesse/"

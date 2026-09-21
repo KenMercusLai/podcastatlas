@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r
   - zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet
   - zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc
-last_updated: 2026-09-05
+  - zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs
+last_updated: 2026-09-21
 ---
 
 # 邺城 / Ye (Late Han)
@@ -28,12 +29,15 @@ Hanji 1062 extends the siege from initial works into full isolation. Cao Cao aba
 
 Hanji 1063 completes the Ye arc. Yuan Shang approaches from the western mountain route and coordinates by torch signal, but Cao Cao prevents Shen Pei's internal response and breaks the outside relief force. Cao then shows Yuan Shang's captured official and personal goods to Ye's defenders, turning the rescue failure into visible morale evidence. Shen Pei keeps resisting, even nearly killing Cao with hidden crossbowmen, but the city falls after [[ShenRongLateHan|审荣]] opens the east gate at night.
 
+Hanji 1115 extends Ye beyond transfer, household-security crisis, and siege target into a Cao-side political center. The episode places [[TongquePlatform|铜雀台]] there after northern consolidation and reads the monument as a display of [[CaoCao|曹操]]'s achievements and authority. This does not erase the city's Yuan history; it shows how conquest changes the same urban site from an inherited headquarters into a stage for the victor's political memory.
+
 ## Key Characteristics
 - Yuan Shao's late-Han Jizhou seat, acquired through Han Fu's handover.
 - Headquarters whose political meaning includes family and official-household security, not only walls.
 - Repeatedly appears when Yuan power is vulnerable to internal or nearby revolt.
 - Becomes the Yuan-family capital target that Cao Cao can attack once Yuan Tan and Yuan Shang split.
 - In Hanji 1061-1063, its siege depends on internal response attempts, siege works, river logistics, moat-and-water isolation, communication-breakthrough attempts, morale proof, and insider gate control.
+- After the siege arc, becomes a Cao-side monumental center where Tongque Platform projects conquest into political memory.
 
 ## Evidence
 - Jizhou seat transfer: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] places Ye at the center of Yuan Shao's takeover after Han Fu yields the seal ribbon.
@@ -46,14 +50,17 @@ Hanji 1063 completes the Ye arc. Yuan Shang approaches from the western mountain
 - Failed outside relief: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] says Yuan Shang approaches Ye by the western mountain route, coordinates with Shen Pei by torch signal, but is isolated and driven into flight after Cao blocks Shen Pei's sortie.
 - Morale proof and breach: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] has Cao display Yuan Shang's captured goods to Ye defenders before Shen Rong opens the east gate to Cao's army.
 - Household violence at fall: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] says Xin Ping finds his family already killed in Ye after the city breaks.
+- Post-conquest monumental center: [[zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs|Hanji 1115]] places Tongque Platform at Ye and interprets it as a public display of Cao Cao's northern achievement and authority.
 
 ## Qualifications
-This page is a late-Han Ye route, kept separate from [[YeWarringStates|邺城 / Ye (Warring States)]]. The Hanji 1061-1063 campaign details are drawn from podcast transcripts and should be treated as source-scoped where minor local names, waterworks, troop counts, or exact engineering details depend on transcript accuracy. Hanji 1062 renders the city as "夜城"; the wiki normalizes to 邺城 based on the surrounding Yuan-family siege sequence.
+This page is a late-Han Ye route, kept separate from [[YeWarringStates|邺城 / Ye (Warring States)]]. The Hanji 1061-1063 campaign details are drawn from podcast transcripts and should be treated as source-scoped where minor local names, waterworks, troop counts, or exact engineering details depend on transcript accuracy. Hanji 1062 renders the city as "夜城"; the wiki normalizes to 邺城 based on the surrounding Yuan-family siege sequence. Hanji 1115's construction date, bronze-bird naming tradition, and architectural details also require direct historical corroboration.
 
 ## What Changed
 - Extended Ye's siege profile from water isolation into final relief failure, defender morale pressure, Shen Rong's east-gate opening, and post-breach capture of Shen Pei.
 - Reframed Ye as a campaign setting where physical isolation, information control, and insider gate control converge.
 - Added the Xin Ping family-killing detail as a household-security consequence of Ye's fall.
+- Extended Ye from Yuan headquarters and siege target into Cao Cao's post-conquest monumental center.
+- Added Tongque Platform as the built expression of that political transition.
 
 ## Relationships
 - [[YuanShao|袁绍]] - powerholder whose Jizhou headquarters Ye becomes.
@@ -70,6 +77,7 @@ This page is a late-Han Ye route, kept separate from [[YeWarringStates|邺城 / 
 - [[ShenRongLateHan|审荣]] - east-gate commandant whose opening of the gate lets Cao's army enter.
 - [[XinPingLateHan|辛评]] - Yuan-side figure whose family is killed in Ye before the city falls.
 - [[CaoCao|曹操]] - besieger who makes Ye the center of the Yuan-collapse campaign.
+- [[TongquePlatform|铜雀台]] - post-conquest monument that projects Cao Cao's authority from Ye.
 - [[CaoHong|曹洪]] - officer left to continue the siege while Cao clears surrounding threats.
 - [[XuHuangCaoGeneral|徐晃]] - Cao-side general whose surrender-reward advice belongs to the surrounding Ye campaign.
 - [[HydraulicSiegeWarfare|水攻围城]] - concept extended by Cao Cao's moat-and-water siege of Ye.

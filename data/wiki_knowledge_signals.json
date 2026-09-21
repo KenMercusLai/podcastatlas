@@ -15949,9 +15949,9 @@
       "url": "/wiki/entities/caobaoeasternhan/"
     },
     "CaoCao": {
-      "episode_count": 55,
+      "episode_count": 56,
       "show_count": 1,
-      "source_note_count": 55,
+      "source_note_count": 56,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀 [lopN_oKbzr4LJvqmgzCsb7qAv0n2].md",
@@ -16337,9 +16337,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1080丨曹操凯旋后重赏反对者？背后暴露顶级领导力",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1080-caocao-kaixuan-hou-zhongshang-fanduizhe-beihou-baolu-dingji-lingdaoli-li8mlcvfowp7etke37yb5azmq81x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？ [lhqomBF5uxbWvG_pz8aTvk9l-IZS].md",
+          "key": "zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/caocao/"
     },
     "CaoChunLateHan": {
@@ -93781,6 +93788,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/powermonopolybackfire/"
     },
+    "PowerRetentionSelfJustification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？ [lhqomBF5uxbWvG_pz8aTvk9l-IZS].md",
+          "key": "zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/powerretentionselfjustification/"
+    },
     "PowerScarcityInfrastructureInvesting": {
       "episode_count": 1,
       "show_count": 1,
@@ -104459,6 +104482,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/selfbuiltagentworkflow/"
+    },
+    "SelfClarificationEdict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？ [lhqomBF5uxbWvG_pz8aTvk9l-IZS].md",
+          "key": "zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/selfclarificationedict/"
     },
     "SelfConceptPlasticity": {
       "episode_count": 1,
@@ -118516,6 +118555,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/tongmarebelarmyeasternhan/"
+    },
+    "TongquePlatform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？ [lhqomBF5uxbWvG_pz8aTvk9l-IZS].md",
+          "key": "zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/tongqueplatform/"
     },
     "TongyueWangBao": {
       "episode_count": 1,
@@ -132655,9 +132710,9 @@
       "url": "/wiki/entities/yaosongeasternhan/"
     },
     "YeLateHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？ [lphEE8cJ_7GcMG-CyNpIPHJVaUuF].md",
@@ -132693,9 +132748,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1063丨曹操智胜袁尚，背后的故事你知道吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？ [lhqomBF5uxbWvG_pz8aTvk9l-IZS].md",
+          "key": "zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/yelatehan/"
     },
     "YeLuMureka": {

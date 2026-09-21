@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？](sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs.md) — 铜雀台既是曹操北方功业的政治纪念物，也是辨析“锁二乔”文学虚构的时间标尺；《自明本志令》则把部分让利与拒交兵权并置为公开自辩。
 - [《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？](sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6.md) — 蔡文姬在汉末战乱中被掳、在匈奴生活十二年并育有二子，曹操赎归使她重获故土却承受母子分离，归汉后又以求情与记忆延续家庭责任和蔡邕的文本遗产。
 - [《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？](sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3.md) — 周瑜主张软禁刘备并拆分其核心团队，孙权因曹操仍是更紧迫威胁而拒绝；节目继而补全周瑜西征北伐构想、病逝与荐鲁肃接任。
 - [参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？](sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362.md) — 声动早咖啡 episode on Anaya's shift from weak property sales to resident services, managed lodging, merchant revenue sharing, cultural traffic, and the owner-tourist and replication tensions created by success.
@@ -2629,6 +2630,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
 
 ## Entities
+- [铜雀台 / Tongque Platform](entities/TongquePlatform.md) — 曹操在邺城营建、用于投射北方功业与权威，并在后世获得“锁二乔”文学记忆的政治纪念物。
+- [《自明本志令》 / Self-Clarification Edict](entities/SelfClarificationEdict.md) — 曹操以生平功业回应篡位疑虑、愿退部分封地却拒绝交出兵权的政治自述。
 - [董祀 / Dong Si (late Han)](entities/DongSiLateHan.md) — 蔡文姬归汉后的丈夫，节目以其死罪获赦故事突出蔡文姬的勇气、判断与行动能力。
 - [Ma Yin / 马寅](entities/MaYin.md) — Anaya founder and operator associated with its shift from property sales toward recurring community, hospitality, commercial, and cultural operations.
 - [丰臻 / Feng Zhen](entities/FengZhenFootballCommentator.md) — Football commentator linking serious Asian competition to league continuity, club responsibility, match supply, foreign-player depth, and bounded naturalization.
@@ -13035,6 +13038,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [自辩式保权 / Power-Retention Self-Justification](concepts/PowerRetentionSelfJustification.md) — 承认权力集中引发的疑虑，以有限让利回应批评，同时把核心强制力解释为个人、家族与公共秩序的共同安全条件。
 - [俘获、赎归与家庭分离 / Captivity, Repatriation, and Family Separation](concepts/CaptivityRepatriationFamilySeparation.md) — 战乱中的赎归恢复自由与故土联系，却可能以新家庭关系断裂为不可逆代价。
 - [中国足球亚洲赛事优先级 / Chinese Football Asian Competition Priority](concepts/ChineseFootballAsianCompetitionPriority.md) — Strategy of building long-run football capacity through current Asian competitions without making professional-league continuity expendable.
 - [战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation](concepts/StrategicBaseTransferAllianceConsolidation.md) — 通过向较弱伙伴提供领土、财政和纵深来强化共同防线，同时增加伙伴自主性与未来分配冲突。

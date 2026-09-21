@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？
+
+Added source `zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs`; created `TongquePlatform`, `SelfClarificationEdict`, and `PowerRetentionSelfJustification`; and updated `CaoCao`, `YeLateHan`, and index. Core synthesis: Tongque Platform projects Cao Cao's northern victory into monumental political memory while its post-Red-Cliffs chronology makes the “locking the Two Qiaos” persuasion scene literary fiction; the *Self-Clarification Edict* combines retrospective merit, public loyalty, partial fief concession, and an explicit refusal to surrender the command Cao Cao presents as protection for family and order. The chronology conflicts with a literal reading of the novel, not with existing wiki history; the bronze-bird legend, modern edict paraphrase, motives, dialogue, and comparative evaluations remain source-scoped.
+
 ## [2026-09-21] ingest | 参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？
 
 Added source `canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362`; created `MaYin`; and updated `Anaya`, `LongTermPlaceOperation`, `OnRunning`, `KylianMbappe`, `MusePersonalAgent`, and index. Core synthesis: Anaya turned a weak seaside property project into a recurring operating system through a defined Beijing owner base, integrated services, managed homestays, merchant revenue sharing, and cultural programming, but rising visitor volume creates owner-experience, carrying-capacity, partner-governance, and replication risks. No settled contradiction found; the source qualifies the earlier authenticity case with crowding and differentiated-access tensions, while operating figures, returns, partnership terms, rankings, and product claims remain source-scoped.
@@ -20924,6 +20928,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913`; created `AppLovin`, `AdamForoughi`, `DiscoveryAdvertising`, `PerformanceAdvertisingLearningLoop`, `VerticalIntegrationForDataColdStart`, and `DrawdownCapitalAllocationAndAlignment`; and updated index. Core synthesis: AppLovin's case links mobile-game inventory to discovery commerce through a rapid model-performance feedback loop, with temporary studio ownership solving the initial data cold start and drawdown-era buybacks plus performance equity aligning capital and employees around a recovery. No settled contradiction found; market size, user scale, margin, targeting, buyback value, valuation recovery, model causality, and moat durability remain management claims from a friendly interview. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 
