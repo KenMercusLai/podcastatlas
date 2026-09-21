@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7760
+wiki_total_pages: 7763
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "MetaMoment"
     title: "Meta-Moment"
     url: "/wiki/concepts/metamoment/"
+  - key: "MetabolicMentalHealthBiomarkers"
+    title: "Metabolic Mental-Health Biomarkers"
+    url: "/wiki/concepts/metabolicmentalhealthbiomarkers/"
   - key: "MetabolicPsychiatry"
     title: "Metabolic Psychiatry"
     url: "/wiki/concepts/metabolicpsychiatry/"
@@ -767,6 +770,9 @@ wiki_pages:
   - key: "MitochondrialEnergyAllocation"
     title: "Mitochondrial Energy Allocation"
     url: "/wiki/concepts/mitochondrialenergyallocation/"
+  - key: "MitochondrialLifestylePillars"
+    title: "Mitochondrial Lifestyle Pillars"
+    url: "/wiki/concepts/mitochondriallifestylepillars/"
   - key: "MitochondrialMentalHealthModel"
     title: "Mitochondrial Mental Health Model"
     url: "/wiki/concepts/mitochondrialmentalhealthmodel/"

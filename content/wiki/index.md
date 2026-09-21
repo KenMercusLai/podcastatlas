@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer](sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508.md) — Huberman Lab interview on metabolic psychiatry, mitochondrial lifestyle inputs, ketogenic and adjunct interventions, diagnosis-mechanism boundaries, and emerging biomarkers.
 - [553. The Last Viking: Warrior of the New Rome (Part 2)](sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245.md) — The Rest Is History episode on Harald Hardrada's Byzantine service, wealth-backed rise to Norwegian kingship, severe centralization, and saga-shaped historical memory.
 - [Essentials: Lose Fat With Science-Based Tools](sources/essentials-lose-fat-with-science-based-tools-scim9321862300.md) — Huberman Lab Essentials episode on calorie balance, fat mobilization versus oxidation, movement thermogenesis, shivering and cold safety, exercise sequencing, caffeine, GLP-1, insulin, and sustainable adherence.
 - [554. 1066: The Shadows of War (Part 1)](sources/554-1066-the-shadows-of-war-part-1-glt1461163139.md) — The Rest Is History episode on Edward's death, Harold's election, rival succession claims, Tostig's grievance, Norman invasion logistics, papal backing, English mobilization, and the northern invasion threat.
@@ -4692,7 +4693,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yale-Brown Obsessive Compulsive Scale](entities/YaleBrownObsessiveCompulsiveScale.md) — Clinical assessment instrument used to map OCD obsessions, compulsions, symptom categories, severity, and catastrophic fears.
 - [John Cade](entities/JohnCade.md) — Australian psychiatrist whose wartime observations and postwar lithium work anchor the bipolar-disorder treatment history.
 - [Masud Husain](entities/MasudHusain.md) — Neuroscience and neurology guest explaining motivation, apathy, dopamine, attention, selfhood, and cognitive resilience.
-- [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist grounding the episode's metabolic psychiatry, ketogenic diet, and mitochondrial mental-health claims.
+- [Chris Palmer](entities/ChrisPalmer.md) — Psychiatrist connecting metabolic psychiatry with mitochondrial mechanisms, lifestyle, ketogenic therapy, and emerging biomarkers.
 - [Russell Wilder](entities/RussellWilder.md) — Mayo Clinic physician named as the 1921 developer of the ketogenic diet for epilepsy.
 - [Mayo Clinic](entities/MayoClinic.md) — Medical institution used as the historical origin context for ketogenic diet epilepsy treatment.
 - [周鸿祎 / Zhou Hongyi](entities/ZhouHongyi.md) — Founder figure connecting 3721, Yahoo China, Qihoo 360, free security, 3Q, search, investing, and founder-media identity.
@@ -14803,6 +14804,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nutrition and Mental Health](concepts/NutritionMentalHealth.md) — Clinical frame treating diet, glucose, insulin, ketosis, and metabolism as possible mental-health variables.
 - [Metabolic Psychiatry](concepts/MetabolicPsychiatry.md) — Framework connecting psychiatric symptoms to metabolism, nutrition, mitochondrial function, inflammation, hormones, and stress response.
 - [Ketogenic Diet and Mental Health](concepts/KetogenicDietMentalHealth.md) — Source-scoped psychiatric intervention branch where ketosis is treated as clinically relevant but safety- and evidence-bounded.
+- [Mitochondrial Lifestyle Pillars](concepts/MitochondrialLifestylePillars.md) — Framework linking diet, movement, sleep, substances, stress, relationships, and purpose with mitochondrial and mental health.
+- [Psychiatric Diagnosis-Mechanism Boundary](concepts/PsychiatricDiagnosisMechanismBoundary.md) — Distinguishes useful symptom-cluster labels from biological, psychological, and social causal explanations.
+- [Metabolic Mental-Health Biomarkers](concepts/MetabolicMentalHealthBiomarkers.md) — Emerging multi-marker approach to metabolic psychiatric stratification, kept separate from validated clinical testing.
 - [Bipolar Disorder](concepts/BipolarDisorder.md) — High-risk psychiatric condition involving maladaptive mood, energy, perception, sleep, and behavior shifts that require qualified care.
 - [Obsessive-Compulsive Disorder](concepts/ObsessiveCompulsiveDisorder.md) — Serious psychiatric condition organized around intrusive obsessions, anxiety, compulsive rituals, reinforcement, assessment, treatment boundaries, and severe refractory circuit-targeting questions.
 - [OCD Compulsion Reinforcement Loop](concepts/OCDCompulsionReinforcementLoop.md) — Mechanism where compulsive relief briefly lowers anxiety but strengthens the future obsession-compulsion cycle.

@@ -21048,3 +21048,11 @@ Added source `553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245`;
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer
+
+Added source `transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508`; created `MitochondrialLifestylePillars`, `PsychiatricDiagnosisMechanismBoundary`, and `MetabolicMentalHealthBiomarkers`; updated `ChrisPalmer`, `MetabolicPsychiatry`, `MitochondrialMentalHealthModel`, `KetogenicDietMentalHealth`, `NutritionMentalHealth`, and the index. Core synthesis: Palmer's metabolic-psychiatry model uses mitochondrial energy regulation to connect lifestyle, neurotransmission, inflammation, hormones, stress, aging, and psychiatric symptoms while keeping ketogenic therapy, fasting, supplements, neurostimulation, nutrient correction, and biomarkers evidence- and supervision-bounded. No settled contradiction found; vaccine/autism mechanisms, parental-risk ratios, biomarker performance, nutrient prevalence, supplement effects, and fasting claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

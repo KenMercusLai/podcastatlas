@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0cc621ad89b47d2c086bf51790edb215a305794961b26e7876b6aaf57d3b6fa5",
       "fd67bb8d20ab0e503043ecac624078b46f6e8817fbb2c246cfebec2ebff8caee",
       "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
       "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
@@ -693,11 +694,33 @@
       "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
       "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276"
     ],
-    "paragraph_count": 691
+    "paragraph_count": 692
   },
-  "overview_commit": "dba2239d22ddfce8f6497c865f965fa53e8bc88c",
-  "overview_digest": "c70f31662e1172fe6b4a3aaca23ef6aa9938e5f215f01ecdc348e4477d40c2af",
+  "overview_commit": "71d80fd0edbc49662d1561f1a22f8149f0b70523",
+  "overview_digest": "d1257b82b197c876f41c508e43e87b56e0d7a56d87fc3aca43ec58d77593924d",
   "paragraphs": [
+    {
+      "id": "0cc621ad89b47d2c086bf51790edb215a305794961b26e7876b6aaf57d3b6fa5",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest metabolic-psychiatry source, [[transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508|Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer]], extends [[ChrisPalmer]], [[MetabolicPsychiatry]], [[MitochondrialMentalHealthModel]], [[KetogenicDietMentalHealth]], and [[NutritionMentalHealth]] while adding [[MitochondrialLifestylePillars]], [[PsychiatricDiagnosisMechanismBoundary]], and [[MetabolicMentalHealthBiomarkers]]. Its core synthesis is that mitochondrial energy regulation can connect neurotransmission, inflammation, hormones, stress, aging, diet, exercise, sleep, substances, relationships, and purpose without making metabolism a universal cause or cure. Ketogenic therapy, fasting, supplements, neurostimulation, deficiency correction, and biomarker panels therefore remain differentiated interventions or research directions whose evidence, dose, safety, and supervision requirements vary. No settled contradiction is recorded; vaccine/autism mechanisms, parental-risk ratios, biomarker performance, nutrient prevalence, supplement effects, and fasting claims remain source-scoped, while diagnostic labels retain practical value without being treated as final causal explanations.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 2
+      },
+      "wikilinks": [
+        "ChrisPalmer",
+        "KetogenicDietMentalHealth",
+        "MetabolicMentalHealthBiomarkers",
+        "MetabolicPsychiatry",
+        "MitochondrialLifestylePillars",
+        "MitochondrialMentalHealthModel",
+        "NutritionMentalHealth",
+        "PsychiatricDiagnosisMechanismBoundary",
+        "transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508"
+      ]
+    },
     {
       "id": "fd67bb8d20ab0e503043ecac624078b46f6e8817fbb2c246cfebec2ebff8caee",
       "primary_topic": "history-and-geopolitics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7760
+wiki_total_pages: 7763
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1706,6 +1706,9 @@ wiki_pages:
   - key: "PsychedelicOrdinaryFreedom"
     title: "Psychedelic Ordinary Freedom"
     url: "/wiki/concepts/psychedelicordinaryfreedom/"
+  - key: "PsychiatricDiagnosisMechanismBoundary"
+    title: "Psychiatric Diagnosis-Mechanism Boundary"
+    url: "/wiki/concepts/psychiatricdiagnosismechanismboundary/"
   - key: "PsychiatricEverydayLanguage"
     title: "Psychiatric Everyday Language / 日常话语的精神病学化"
     url: "/wiki/concepts/psychiatriceverydaylanguage/"

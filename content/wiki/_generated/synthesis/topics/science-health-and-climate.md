@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-21
-as_of_overview_commit: dc847b394f7c04bf18eedb0e7cea3fb5abb05f0a
-input_digest: 9a83c753deb274cb876410282d47b8bc217a80de30453316fcd04e7fa71ba9d4
+as_of_overview_commit: 71d80fd0edbc49662d1561f1a22f8149f0b70523
+input_digest: 0b6edddd37b040d15520c102506db9459319ab74d15a541aded69f473f322f1c
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover medical-aesthetic product and provider verification, botulinum-injection escalation and expectation management, cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Addiction recovery is staged from medical safety and stabilization toward distress tolerance, anticipatory emotional inventory, safer coping practices, community, purpose, and connection, with acute withdrawal and emerging treatment claims kept inside clinical boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Supplement evidence separates manufacturing oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests; nutrition findings remain comparator-, replacement-, adherence-, food-form-, and endpoint-dependent; and sensory findings keep performance, supplement, exercise, disease, and treatment claims source-scoped or clinically bounded.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches span medical-aesthetic verification, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness assessment, first aid, autism and gene-editing ethics, grief, chemosensation, and visual health. The metabolic-psychiatry branch now connects mitochondrial energy regulation with lifestyle, neurobiology, stress, aging, diagnostic uncertainty, and emerging biomarker panels while preserving the distinctions between neurological precedent and psychiatric proof, plausible mechanism and causation, and early classifier performance and a validated clinical test. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Across the topic, interventions and measurements remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, and supervision-dependent.
 
 ## Cross-source Findings
 
@@ -233,14 +233,15 @@ The same episode gives the health side of body composition a numeric floor: [[Fa
 
 ### Metabolic Psychiatry Needs Evidence And Supervision
 
-[[MetabolicPsychiatry]] adds a nutrition-and-mental-health branch: [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], and [[MitochondrialMentalHealthModel]] make diet and ketosis plausible brain interventions, but [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and medication changes inside professional care.
+[[MetabolicPsychiatry]] now spans nutrition, [[MitochondrialLifestylePillars]], and a broader [[MitochondrialMentalHealthModel]] connecting cellular energy regulation with neurotransmission, inflammation, hormones, stress, aging, diet, exercise, sleep, substances, relationships, and purpose. [[KetogenicDietMentalHealth]] retains epilepsy precedent but not equivalent psychiatric proof; [[PsychiatricDiagnosisMechanismBoundary]] separates symptom labels from final causes, [[MetabolicMentalHealthBiomarkers]] remains an emerging measurement direction, and [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and treatment changes inside qualified care.
 
-**Evidence:** [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]]
+**Evidence:** [[MetabolicPsychiatry]], [[KetogenicDietMentalHealth]], [[CarbohydrateRestrictionMentalHealth]], [[KetogenicDietEpilepsyEvidence]], [[MitochondrialMentalHealthModel]], [[PsychiatricMedicationSupervisionBoundary]], [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]], [[transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508]], [[MitochondrialLifestylePillars]], [[PsychiatricDiagnosisMechanismBoundary]], [[MetabolicMentalHealthBiomarkers]], [[NutritionMentalHealth]]
 
 **Qualifications:**
 
-- The source reports clinical cases, personal experience, epilepsy precedent, and mitochondrial mechanism rather than completed large randomized psychiatric trials.
-- Severe disorders, medication changes, and high-ketosis psychiatric interventions remain medically supervised rather than general self-care advice.
+- The sources report clinical cases, personal experience, epilepsy precedent, pilot data, associations, and mitochondrial mechanisms rather than completed large randomized psychiatric trials across the discussed conditions.
+- Severe disorders, medication changes, high-ketosis diets, fasting, supplements, neurostimulation, and deficiency correction remain context- and supervision-dependent rather than general self-care instructions.
+- Vaccine/autism mechanisms, parental-risk ratios, biomarker-panel performance, nutrient prevalence, and adjunct effects remain source-scoped; mechanistic plausibility and association do not establish individual causation or a validated diagnostic test.
 
 ### Bipolar Care Needs Medical Diagnosis And Monitoring
 
