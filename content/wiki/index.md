@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？](sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz.md) — 周瑜病逝后鲁肃接掌军队并主张让刘备获得荆州立足点，孙刘联盟由战时合作转向更持久的战略牵制，同时以吕蒙读书和庞统获荐讨论人才成长与纠错。
 - [商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务](sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596.md) — 商业就是这样 short episode on Ecovacs, specialized household robots, the 80/20 technology-reuse and scenario-adaptation model, patient category development, and localized lawn-care demand.
 - [707. The Terror: An Assassination in Paris (Part 1)](sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397.md) — The Rest Is History episode on Marat, Corday, the 1793 crisis system, Girondin collapse, emergency institutions, conspiracy validation, and martyrdom accelerating the road to Terror.
 - [《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？](sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz.md) — 士燮以地方根基、名义服从、质子和进贡维持交趾权力；其死后士徽抗拒孙权任命，吕岱诱降并处死六兄弟，完成孙吴对交州地方势力的拆解。
@@ -13023,6 +13024,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 
 ## Concepts
+- [战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation](concepts/StrategicBaseTransferAllianceConsolidation.md) — 通过向较弱伙伴提供领土、财政和纵深来强化共同防线，同时增加伙伴自主性与未来分配冲突。
+- [学习驱动的角色跃迁 / Learning-Driven Role Expansion](concepts/LearningDrivenRoleExpansion.md) — 与职责相关的持续学习把执行经验扩展为更广的判断能力，并促使同僚修正旧有评价。
 - [Technology Reuse and Scenario Adaptation / 技术复用与场景适配](concepts/TechnologyReuseScenarioAdaptation.md) — Product-development model combining a reusable capability stack with the safety, environment, interaction, and market work unique to each scenario.
 - [Emergency Institutions to Terror](concepts/EmergencyInstitutionsToTerror.md) — Process by which separately justified crisis bodies accumulate into a coercive system of surveillance, direction, and rapid punishment.
 - [Crisis-Validated Conspiracy Politics](concepts/CrisisValidatedConspiracyPolitics.md) — Mechanism by which one genuine betrayal lends excessive credibility to broader internal-enemy claims.

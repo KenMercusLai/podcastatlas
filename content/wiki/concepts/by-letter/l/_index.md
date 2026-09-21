@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7724
+wiki_total_pages: 7726
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "LuxuryStatusSignalEfficiency"
     title: "奢侈品身份信号效率 / Luxury Status Signal Efficiency"
     url: "/wiki/concepts/luxurystatussignalefficiency/"
+  - key: "LearningDrivenRoleExpansion"
+    title: "学习驱动的角色跃迁 / Learning-Driven Role Expansion"
+    url: "/wiki/concepts/learningdrivenroleexpansion/"
   - key: "LoveCompassionIntegration"
     title: "小爱与大爱整合 / Love-Compassion Integration"
     url: "/wiki/concepts/lovecompassionintegration/"

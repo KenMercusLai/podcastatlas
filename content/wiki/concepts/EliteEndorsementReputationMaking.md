@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv
   - zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,17 +27,19 @@ Hanji 1084 adds the Jingzhou adviser branch. [[PangDegongLateHan|庞德公]] and
 
 Hanji 1083 supplies the direct-evaluation layer beneath that circulation. Pang Tong is described as plain and locally underestimated, while Pang Degong recognizes him early and sustained conversation gives Sima Hui a basis for unusually high praise. In this account, endorsement begins with attention that corrects a visibility problem before it becomes a portable label.
 
+Hanji 1118 adds a corrective-placement variant. Pang Tong's earlier reputation does not prevent an under-sized county appointment or dismissal under Liu Bei. Recommendations from [[LuSu|鲁肃]] and [[ZhugeLiang|诸葛亮]] reopen evaluation; only after a deeper discussion does Liu Bei give Pang Tong a central advisory role. Endorsement is therefore most useful when it causes decision-makers to gather better evidence and reconsider role fit, not when it substitutes for assessment.
+
 The current synthesis is therefore not "reputation beats conduct." Endorsement works when recognized evaluators reduce uncertainty and connect a person to a reputation field. It fails or becomes suspect when praise is detached from observable conduct, which is why this concept stays adjacent to [[EmptyReputationRealityGap|空誉违实]] rather than collapsing into it.
 
 ## Key Claims
 
 - Elite endorsement reduces uncertainty by letting an evaluator's standing make another person's capacity socially readable.
-- The recommender layer matters: Fu Rong's introduction gives Guo Tai access to Li Ying, while Qiao Xuan's direction gives Cao Cao access to Xu Shao.
-- Endorsement has more force when the endorsed person also supplies visible conduct or later action.
+- The recommender layer matters, but endorsement has force only when access to an evaluator is joined to visible conduct or later action.
 - Public circulation converts private evaluation into social capital: Guo Tai's Luoyang fame and Cao Cao's circulated label are both network effects.
 - Audience fit matters: Jingzhou scholar appraisal becomes politically useful when a trusted recommender carries it toward Liu Bei.
 - Appointment or access channels can make endorsement operational rather than merely complimentary.
 - The mechanism is vulnerable to reputation-reality gaps when praise outruns tested conduct.
+- Repeated recommendation can correct an initial placement error when it triggers deeper evaluation rather than automatic promotion.
 
 ## Evidence
 
@@ -47,18 +50,17 @@ The current synthesis is therefore not "reputation beats conduct." Endorsement w
 - Conduct signal reinforcement: [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] ties Cao Cao's circulated label to his later anti-eunuch enforcement signal as Luoyang north commandant.
 - Jingzhou adviser recognition: [[zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd|Hanji 1084]] presents Pang Degong and Sima Hui as an evaluator-and-recommender chain for Zhuge Liang and Pang Tong, then qualifies the praise through preparation and later counsel.
 - Correcting initial underrecognition: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] presents Pang Tong's plain appearance and low local visibility before Pang Degong's and Sima Hui's direct appraisal.
+- Correcting role mismatch: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] says Lu Su and Zhuge Liang's recommendations lead Liu Bei to reassess Pang Tong after a failed county placement and appoint him to larger advisory work.
 
 ## Counterevidence & Qualifications
 
-Elite endorsement is not proof by itself. Hanji 860's Guo Tai branch works because later source evidence repeatedly ties Guo Tai's reputation to people judgment and teaching, Hanji 926's Cao Cao branch requires conduct signals to counter inherited stigma, and Hanji 1083-1084 retrospectively use conversation, preparation, and later achievement to validate early appraisal. Exact Jingzhou wording, kinship, chronology, and the “近日不错” textual claim remain uncertain. The modern KOL, hot-search, and personal-IP analogies are explanatory metaphors, not evidence that late-Han reputation worked identically to platform media. The concept should not be used to bless empty praise, coerced appraisal, or scarcity-based prestige; those belong closer to [[EmptyReputationRealityGap|空誉违实]].
+Elite endorsement is not proof by itself. Hanji 860's Guo Tai branch works because later source evidence repeatedly ties Guo Tai's reputation to people judgment and teaching, Hanji 926's Cao Cao branch requires conduct signals to counter inherited stigma, and Hanji 1083-1084 retrospectively use conversation, preparation, and later achievement to validate early appraisal. Hanji 1118 adds a successful reassessment but leaves Pang Tong's alleged appearance-based rejection, county conduct, dialogue, and exact appointment sequence source-scoped. Exact Jingzhou wording, kinship, chronology, and the “近日不错” textual claim remain uncertain. The modern KOL, hot-search, and personal-IP analogies are explanatory metaphors, not evidence that late-Han reputation worked identically to platform media. The concept should not be used to bless empty praise, coerced appraisal, or scarcity-based prestige; those belong closer to [[EmptyReputationRealityGap|空誉违实]].
 
 ## What Changed
 
-- Added the Hanji 1083-1084 Pang Degong-Sima Hui chain, from direct correction of underrecognition to a politically relevant audience.
-- Made preparation and later performance an explicit limit on retrospective endorsement stories.
-- The page is now migrated to `synthesis-v1`.
-- Hanji 860 adds a non-Cao, positive scholar-recognition branch through Fu Rong, Li Ying, and Guo Tai.
-- The current judgment distinguishes endorsement that reveals grounded ability from reputation that outruns evidence.
+- Added Hanji 1118's corrective-placement variant after Pang Tong's failed county appointment.
+- Clarified that recommendation is most valuable when it triggers deeper evaluation and role-fit correction.
+- Preserved performance and source-quality limits on retrospective endorsement stories.
 
 ## Related Concepts
 
@@ -71,3 +73,4 @@ Elite endorsement is not proof by itself. Hanji 860's Guo Tai branch works becau
 - [[CharismaticPoliticalPerformance|造势型政治表演]] - neighboring reputation pattern based more on embodied self-positioning than external certification.
 - [[PangDegongLateHan|庞德公]] - evaluator whose standing supplies local reputation certification.
 - [[SimaHuiLateHan|司马徽]] - recommender who transmits that certification toward a patron.
+- [[PangTong|庞统]] - case where repeated recommendation corrects an initial role mismatch.

@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz
   - zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn
   - zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
+last_updated: 2026-09-21
 ---
 
 # 赤壁之战 / Battle of Red Cliffs
@@ -24,7 +25,7 @@ Cao Cao enters after successive victories, rejects [[JiaXu|贾诩]]'s consolidat
 
 Linking ships reduces seasickness and improves movement but creates a shared fire vulnerability. [[HuangGai|黄盖]] recognizes it, uses feigned surrender to bring prepared vessels close, and [[ZhouYuLateHan|周瑜]] follows the resulting fire with direct pressure. Cao Cao retreats through [[HuarongRoadLateHan|华容道]], destroys remaining ships and supplies, and establishes a Jiangling-Fancheng defense.
 
-The battle's political meaning remains contested. Cao Cao foregrounds disease, deliberate ship burning, and withdrawal while minimizing Zhou Yu's credit. Meanwhile, victory gives the Sun-Liu alliance a new distribution problem over [[Jingzhou|荆州]], so removal of the common threat exposes divergent territorial interests.
+The battle's political meaning remains contested. Cao Cao foregrounds disease, deliberate ship burning, and withdrawal while minimizing Zhou Yu's credit. Victory also opens a distribution problem over [[Jingzhou|荆州]]. Hanji 1118 sharpens that aftermath by arguing that Liu Bei's territorial foothold matters more strategically than the isolated battlefield loss: it gives the weaker ally durable capacity and makes the southern coalition harder to divide, while simultaneously increasing future ownership conflict.
 
 ## Key Characteristics
 - Campaign whose outcome emerges from command judgment, disease, terrain, force adaptation, deception, fire, and follow-on attack.
@@ -33,7 +34,7 @@ The battle's political meaning remains contested. Cao Cao foregrounds disease, d
 - Major check on Cao Cao's attempt to extend control south of the Yangtze.
 - Retreat followed by materiel denial and corridor defense around Jiangling and Fancheng.
 - Political meaning contested through rival explanations of disease, fire, agency, and military credit.
-- Alliance victory that creates a new dispute over Jingzhou's territory and revenue.
+- Alliance victory whose postwar territorial settlement both strengthens Liu Bei and creates a new dispute over Jingzhou's control and revenue.
 
 ## Evidence
 - Decision and readiness gap: [[zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv|Hanji 1106]] contrasts Jia Xu's rest-and-pacify advice with Cao Cao's immediate-war judgment and identifies disease, river warfare, climate, and troop adaptation as constraints.
@@ -44,14 +45,15 @@ The battle's political meaning remains contested. Cao Cao foregrounds disease, d
 - Retreat and denial: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] has Cao Cao retreat and burn remaining vessels and supplies, while [[zizhi-tongjian-hanji-1106-caocao-zai-huarongdao-jingli-le-zenyang-de-juewang-lpsjmdpl6-2bd1qtda-egvx0zawv|Hanji 1106]] foregrounds the Huarong movement crisis and regrouping.
 - Defensive aftermath: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] places Cao Ren at Jiangling and Xu Huang at Fancheng before the later campaign developed in Hanji 1108-1109.
 - Narrative and alliance aftermath: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] records Cao Cao's disease-and-self-burning account and connects the victory to competition over Jingzhou.
+- Strategic aftermath: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] distinguishes battlefield defeat from the later empowerment of Liu Bei through a Jingzhou foothold and Lu Su's alliance-centered succession after Zhou Yu.
 
 ## Qualifications
-These are five popular-history episodes, not a complete military history. Exact troop and casualty figures, wind and route detail, private dialogue, the degree of epidemic impact, and the claim that Cao Cao's psychology was decisive all require broader evidence. Hanji 1096's fallback instruction, Hanji 1100's tidy persuasion sequence and psychological effects, and Hanji 1102's force estimates are decision evidence rather than independently verified records. Disease, enemy fire, withdrawal, and self-destruction of abandoned materiel can coexist; later alliance conflict and earlier hedging do not erase real coordination against a common threat.
+These are six popular-history episodes, not a complete military history. Exact troop and casualty figures, wind and route detail, private dialogue, the degree of epidemic impact, and the claim that Cao Cao's psychology was decisive all require broader evidence. Hanji 1096's fallback instruction, Hanji 1100's tidy persuasion sequence and psychological effects, Hanji 1102's force estimates, and Hanji 1118's reported dropped brush and compressed “借荆州” settlement are episode-presented rather than independently verified. Disease, enemy fire, withdrawal, and self-destruction of abandoned materiel can coexist; later alliance conflict and earlier hedging do not erase real coordination against a common threat.
 
 ## What Changed
-- Added Zhuge Liang's direct coalition-persuasion stage between exploratory diplomacy and Jiangdong's final commitment.
-- Connected dignity rhetoric to the operational claims later expanded by Zhou Yu without treating the two arguments as identical.
-- Preserved the distinction between narrated persuasion effects and verified military readiness.
+- Extended the battle profile into the postwar redistribution of strategic capacity.
+- Distinguished the immediate battlefield check from Liu Bei's later territorial empowerment.
+- Made coalition consolidation and future Jingzhou conflict simultaneous consequences of victory.
 
 ## Relationships
 - [[HuangGai|黄盖]] - officer whose vulnerability diagnosis and feigned surrender enable the close-range fire attack.
@@ -68,3 +70,4 @@ These are five popular-history episodes, not a complete military history. Exact 
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - relationship pattern activated when allies must divide the postwar prize.
 - [[AllianceContingencyHedging|联盟不确定性下的退路预留]] - pre-commitment pattern in which Sun Quan explores alliance while preserving a fallback.
 - [[DignityBasedPersuasion|尊严激将式说服]] - pre-battle rhetoric that makes surrender identity-costly before the material case is tested.
+- [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]] - postwar mechanism that converts victory into a harder-to-divide southern balance.

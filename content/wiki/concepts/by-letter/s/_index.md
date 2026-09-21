@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7724
+wiki_total_pages: 7726
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2156,6 +2156,9 @@ wiki_pages:
   - key: "SpoilsLossMobilization"
     title: "战利品损失动员 / Spoils-Loss Mobilization"
     url: "/wiki/concepts/spoilslossmobilization/"
+  - key: "StrategicBaseTransferAllianceConsolidation"
+    title: "战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation"
+    url: "/wiki/concepts/strategicbasetransferallianceconsolidation/"
   - key: "StrategicExclusionAndFocus"
     title: "战略排除与聚焦 / Strategic Exclusion and Focus"
     url: "/wiki/concepts/strategicexclusionandfocus/"

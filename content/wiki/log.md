@@ -20880,3 +20880,11 @@ Added source `shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daod
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？
+
+Added source `zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz`; created `StrategicBaseTransferAllianceConsolidation` and `LearningDrivenRoleExpansion`; and updated `ZhouYuLateHan`, `LuSu`, `SunQuan`, `LyuMeng`, `PangTong`, `RedCliffsBattle`, `EliteEndorsementReputationMaking`, overview, and index. Core synthesis: the episode distinguishes Cao Cao's tactical defeat at Red Cliffs from the strategic redistribution that gave Liu Bei a territorial base and made the Sun-Liu coalition harder to divide, while acknowledging that the same empowerment increased future ownership conflict; it also treats directed study and trusted recommendation as mechanisms for role expansion and correction of early personnel judgments. No settled contradiction found; “借荆州,” Cao Cao's dropped brush, Zhou Yu's plan and death details, and the Lyu Meng and Pang Tong anecdotes remain source-scoped or contested.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

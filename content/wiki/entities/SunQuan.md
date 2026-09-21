@@ -17,7 +17,8 @@ sources:
   - zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn
   - zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn
   - zizhi-tongjian-hanji-1086-sunquan-beihao-zhuang-rentou-de-muhe-weihe-pianpian-fangguo-sufei-lt7xfjunv42n9532eqog-8k64odf
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
+last_updated: 2026-09-21
 ---
 
 # 孙权 / Sun Quan
@@ -34,12 +35,14 @@ Hanji 1099 supplies the external consequence of that consolidation. Lu Su can pr
 
 Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su to use mourning as cover for intelligence gathering and coalition exploration after Liu Biao's death, while allegedly retaining a fallback at Xu if Liu Bei collapses. Hanji 1100 places Zhuge Liang's direct pitch inside the transition: Sun Quan is provoked toward resistance but still tests whether the defeated Liu side can contribute and whether Cao Cao is operationally vulnerable. The later commitment is therefore a movement from hedged exploration through adversarial questioning to resource-backed action, not evidence that the coalition began with unconditional trust.
 
+Hanji 1118 adds the postwar choice after Zhou Yu's death. Sun Quan appoints Lu Su to the inherited command and accepts his advice to let Liu Bei hold a larger Jingzhou base. The episode treats this as a strategic decision to strengthen a partner against Cao Cao rather than a gift without return: Liu Bei gains territory and depth, while Sun Quan gains a harder-to-isolate southern coalition but also a more autonomous ally. The same source deepens Sun Quan's talent-development profile through his practical reading advice to Lyu Meng.
+
 ## Key Characteristics
 - Inherits authority through a civil-military-family support structure rather than through designation alone.
 - Develops independent personnel judgment and uses conditional mercy plus separation to retain useful people without pretending that private blood feuds have disappeared.
 - Preserves autonomy by refusing hostage-backed dependency on Cao Cao.
 - Consolidates rule through internal discipline, county pacification, administration, and military extraction.
-- Accumulates enough regional capacity to become the stronger partner in the Sun-Liu alliance opening while preserving options until partner capacity is known.
+- Accumulates enough regional capacity to lead the Sun-Liu alliance opening, then uses territorial access to strengthen the partner while accepting less direct control.
 - Faces role-specific surrender risk because a ruler cannot carry office and autonomy into a new master's regime as easily as a minister can.
 - Converts consultation into commitment by setting a strategic boundary, allocating troops and materiel, delegating field command, and retaining reinforcement responsibility.
 
@@ -54,14 +57,15 @@ Hanji 1096 supplies the earlier, less committed stage. Sun Quan authorizes Lu Su
 - Resistance commitment: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] shows Sun Quan combine Lu Su's stakeholder-risk distinction with Zhou Yu's campaign analysis, then assign an initial force to Zhou Yu and [[ChengPuLateHan|程普]] while promising further support.
 - Hedged exploration: [[zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn|Hanji 1096]] has Sun Quan authorize Lu Su's Jingzhou mission while retaining an episode-presented fallback if Liu Bei disintegrates.
 - Coalition interrogation: [[zizhi-tongjian-hanji-1100-chibi-zhizhan-qian-de-jingxian-tanpan-zhugeliang-ruhe-ba-siju-panhuo-lm0fojshbaktskmyd3hyu-tq4mnn|Hanji 1100]] shows Sun Quan respond to Zhuge Liang's dignity challenge by asking what a recently defeated Liu Bei can actually contribute.
+- Postwar capacity building: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] has Sun Quan accept Lu Su as Zhou Yu's military successor, back Liu Bei's Jingzhou foothold, and direct Lyu Meng toward role-relevant historical study.
 
 ## Qualifications
-Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1086's prepared boxes, dialogue, emotional response, pardon mechanics, and exact reassignment remain source-scoped; clemency in one case does not erase the intended execution of Huang Zu or establish a general rule. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; and Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded.
+Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zhou Yu, Zhang Hong, Lady Wu, and field commanders all make autonomy possible. The Li Shu campaign includes reported killing and forced relocation, while Shanyue resistance shows that Jiangdong was not uniformly consolidated. Hanji 1086's prepared boxes, dialogue, emotional response, pardon mechanics, and exact reassignment remain source-scoped; clemency in one case does not erase the intended execution of Huang Zu or establish a general rule. Hanji 1096's fallback wording and meaning require primary-text verification; Hanji 1099 describes Sun Quan through Lu Su's persuasive comparison; Hanji 1100-1102's dialogue, emotional turns, troop numbers, motives, and table-cutting scene remain episode-bounded; and Hanji 1118's “借荆州” shorthand, Cao Cao reaction, administrative sequence, and learning dialogue require wider textual comparison.
 
 ## What Changed
-- Added Su Fei's conditional pardon as a case of accepting a trusted subordinate's guarantee.
-- Added the Gan Ning-Ling Tong feud as an example of prohibition plus physical separation.
-- Distinguished retention of both officers from proof that their private conflict was reconciled.
+- Extended Sun Quan's coalition profile from Red Cliffs commitment into postwar partner-capacity design.
+- Added acceptance of Lu Su's command succession and Liu Bei's Jingzhou foothold.
+- Added practical historical study as a tool for developing Lyu Meng beyond an execution-centered role.
 
 ## Relationships
 - [[SunCe|孙策]] - elder brother who designates Sun Quan and leaves a still-fragile regional base.
@@ -81,3 +85,5 @@ Sun Quan's early profile remains dependent on collective support: Zhang Zhao, Zh
 - [[AllianceContingencyHedging|联盟不确定性下的退路预留]] - early option-preserving approach while Lu Su tests Jingzhou partners.
 - [[DignityBasedPersuasion|尊严激将式说服]] - Zhuge Liang's attempt to make surrender incompatible with Sun Quan's ruler identity.
 - [[PersonalGuaranteeClemency|私人担保式赦免]] - clemency mechanism used in the Su Fei case.
+- [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]] - partner-strengthening logic behind the episode's Jingzhou settlement.
+- [[LearningDrivenRoleExpansion|学习驱动的角色跃迁]] - development mechanism applied to Lyu Meng.
