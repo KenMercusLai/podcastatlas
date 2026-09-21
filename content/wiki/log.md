@@ -20773,3 +20773,10 @@ Added source `ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-21] ingest | Essentials: Protocols to Improve Vision & Eyesight
+
+Added source `essentials-protocols-to-improve-vision-eyesight-scim1823781754`; created `VisualSystemHealthToolkit`; and updated `MorningLightCircadianAnchoring`, `PediatricMyopiaControl`, overview, and index. Core synthesis: the visual system supports both perception and physiological timing, while outdoor light, varied viewing distance, near-work breaks, smooth pursuit, accommodation practice, systemic health, and eye-specialist care form a bounded toolkit rather than a cure for established eye disease. No settled contradiction found; timing, gaze-position, hallucination, exercise, lutein, astaxanthin, and ocular-blood-flow claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

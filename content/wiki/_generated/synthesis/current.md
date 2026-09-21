@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: a7232d1dee7b103df0b521a3793aaa8632664b2b
+as_of_overview_commit: 6d070d82cbff091e58f4fde37ddc0b8b438e594b
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2594
-source_count: 2594
-paragraph_count: 677
+episode_count: 2595
+source_count: 2595
+paragraph_count: 678
 topic_count: 9
 ---
 
@@ -75,7 +75,7 @@ Psychological development depends on embodied regulation, relational safety, cal
 
 ### Science, Health, and Climate
 
-Science, health, and climate literacy require fair comparators, mechanism, measurement, escalation thresholds, inspectable evidence, and explicit care and uncertainty boundaries.
+Science, health, and climate literacy require fair comparators, mechanism, measurement, escalation thresholds, inspectable evidence, and explicit care and uncertainty boundaries; sensory-health claims also need a firm line between supportive behavior and clinical treatment.
 
 - [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628]], [[AllIn]], [[BillGurley]], [[RichardFeynman]], [[KiyoshiKurokawa]], [[DRASTIC]], [[CatastrophicFailureRootCauseInvestigation]], [[CAPACorrectivePreventiveAction]], [[InvestigationConflictOfInterest]], [[COVIDOriginsInvestigationUncertainty]], [[AnthonyFauci]], [[ScienceTrustPoliticization]].
 - [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924|The Galpin Huberman Lab Essentials episode]] adds a fitness self-assessment branch: [[NinePhysiologicalAdaptations]] splits exercise goals into appearance and functionality and lists skill, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long duration, each paired with a laboratory or specialist method and a cheap substitute such as [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], and [[PowerAndSpeedAssessment]], all sequenced by [[FitnessAssessmentTestingWeek]] and prioritized by [[FitnessPerformanceAnchors]] so that severe deficits are cleared before a person optimizes the capacities they care about. Evidence: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]], [[HubermanLab]], [[AndyGalpin]], [[NinePhysiologicalAdaptations]], [[MovementScreenScoring]], [[StrengthBenchmarkTesting]], [[LocalMuscularEnduranceBenchmarks]], [[FatFreeMassIndex]], [[HeartRateRecoveryCapacity]], [[AerobicCapacityFieldTesting]], [[LongDurationEnduranceStandard]], [[PowerAndSpeedAssessment]], [[FitnessAssessmentTestingWeek]], [[FitnessPerformanceAnchors]].

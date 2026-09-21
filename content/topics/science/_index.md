@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1143
+topic_total_pages: 1145
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1930,6 +1930,9 @@ topic_concepts:
   - key: "VirtualCellWorldModel"
     title: "Virtual Cell World Model"
     url: "/wiki/concepts/virtualcellworldmodel/"
+  - key: "VisualSystemHealthToolkit"
+    title: "Visual System Health Toolkit"
+    url: "/wiki/concepts/visualsystemhealthtoolkit/"
   - key: "VitalismLifePrincipleDebate"
     title: "Vitalism And Life-Principle Debate / 活力论与生命本质争论"
     url: "/wiki/concepts/vitalismlifeprincipledebate/"
@@ -3201,6 +3204,9 @@ topic_sources:
   - key: "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382"
     title: "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools"
     url: "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+  - key: "essentials-protocols-to-improve-vision-eyesight-scim1823781754"
+    title: "Essentials: Protocols to Improve Vision & Eyesight"
+    url: "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
   - key: "essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263"
     title: "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams"
     url: "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"

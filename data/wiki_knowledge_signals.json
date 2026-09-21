@@ -81748,9 +81748,9 @@
       "url": "/wiki/concepts/moralslanderreframing/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -81779,6 +81779,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "SCIM1823781754 [SCIM1823781754].md",
+          "key": "essentials-protocols-to-improve-vision-eyesight-scim1823781754",
+          "show": "Huberman Lab",
+          "title": "Essentials: Protocols to Improve Vision & Eyesight",
+          "url": "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
         }
       ],
       "updated": "2026-09-21",
@@ -89159,9 +89166,9 @@
       "url": "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
     },
     "PediatricMyopiaControl": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpCB-or4iBTodc2BB383VMo2dxbc [lpCB-or4iBTodc2BB383VMo2dxbc].md",
@@ -89169,6 +89176,13 @@
           "show": "这病说来话长",
           "title": "VOL.163近视的人那么多，我该怎么办？眼科主任支招！成人/儿童的近视防控手段",
           "url": "/wiki/sources/vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc/"
+        },
+        {
+          "episode_file": "SCIM1823781754 [SCIM1823781754].md",
+          "key": "essentials-protocols-to-improve-vision-eyesight-scim1823781754",
+          "show": "Huberman Lab",
+          "title": "Essentials: Protocols to Improve Vision & Eyesight",
+          "url": "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
         }
       ],
       "updated": "2026-09-21",
@@ -120123,6 +120137,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/vishnupadmanabhan/"
+    },
+    "VisualSystemHealthToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1823781754 [SCIM1823781754].md",
+          "key": "essentials-protocols-to-improve-vision-eyesight-scim1823781754",
+          "show": "Huberman Lab",
+          "title": "Essentials: Protocols to Improve Vision & Eyesight",
+          "url": "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/visualsystemhealthtoolkit/"
     },
     "VittorioPozzo": {
       "episode_count": 1,

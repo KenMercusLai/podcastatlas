@@ -1217,9 +1217,28 @@
         "ConcussionActiveRecovery",
         "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "visual-health-needs-varied-use-and-clinical-boundaries",
+      "qualifications": [
+        "The evidence is one condensed public-neuroscience episode, not an ophthalmology guideline, eye examination, or individualized treatment plan.",
+        "Two-hour outdoor exposure, gaze-position alertness, distance viewing, smooth pursuit, accommodation practice, hallucination mechanisms, lutein, astaxanthin, and ocular-blood-flow claims remain source-scoped because study populations, effect sizes, methods, and contraindications are not supplied here.",
+        "Behavioral practices and supplements do not replace qualified assessment of disease, amblyopia, major binocular imbalance, eye pain, or sudden visual change."
+      ],
+      "statement": "[[essentials-protocols-to-improve-vision-eyesight-scim1823781754|The vision Essentials episode]] adds [[VisualSystemHealthToolkit]] as a boundary-aware eye-health branch: [[AndrewHuberman]] links retinal signaling and brain-based visual inference to [[MorningLightCircadianAnchoring]], while varied outdoor, far, panoramic, motion-tracking, and accommodation use can support ordinary function without being treated as a cure for established myopia or a substitute for [[PediatricMyopiaControl|longitudinal ophthalmic care]].",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "essentials-protocols-to-improve-vision-eyesight-scim1823781754",
+        "AndrewHuberman",
+        "HubermanLab",
+        "VisualSystemHealthToolkit",
+        "MorningLightCircadianAnchoring",
+        "PediatricMyopiaControl"
+      ]
     }
   ],
-  "input_digest": "5fc8683034864c1b03f13f0b7afe08576201ff70de2f39e17e0ea246ffc410f6",
-  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, and grief as attachment remapping supported by sleep, circadian, autonomic, cortisol, NSDR, and professional-support boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch argues that prevention needs independent root-cause inquiry and conflict safeguards while preserving uncertainty between spillover and laboratory-accident hypotheses rather than treating scrutiny as proof. The Nepal follow-up deepens the climate branch by joining hazard mechanics to warning time, repeated displacement, victim identification, ritual loss, hydropower exposure, and delayed loss-and-damage finance. Comedy remains a nonclinical boundary case for creative feedback rather than clinical evidence. The Gardner nutrition source adds that diet findings require strong comparators, replacement context, adherence, and endpoint discipline: mostly-plant quality, protein adequacy, ultra-processed-food pragmatism, and fermented-food microbiome signals should not be flattened into one universal prescription. The newest chemosensation source links nasal odor capture, respiratory-phase arousal, taste-based nutrient and hazard sampling, smell recovery after injury, and interpersonal chemical effects while preserving uncertainty around performance effects, fat taste, and human pheromones.",
+  "input_digest": "fb0d640f092aa66409b910f0da6c4b739f91314c9479fe05b1bd27cb93e0bdb0",
+  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch preserves uncertainty while arguing for independent root-cause inquiry and conflict safeguards. Nutrition findings remain comparator-, replacement-, adherence-, and endpoint-dependent. The sensory branches now span smell, taste, breathing, retinal light signaling, brain-based visual inference, circadian timing, and varied eye use while keeping performance effects, supplements, exercises, disease claims, and treatment decisions source-scoped or clinically bounded.",
   "topic_id": "science-health-and-climate"
 }

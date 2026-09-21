@@ -677,12 +677,13 @@
       "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d",
       "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16",
       "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e",
-      "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013"
+      "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013",
+      "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71"
     ],
-    "paragraph_count": 677
+    "paragraph_count": 678
   },
-  "overview_commit": "a7232d1dee7b103df0b521a3793aaa8632664b2b",
-  "overview_digest": "bd2833ce8a384c55f4192165ebd75554662dc1fe5766ee1c4d0bdb50b274fda2",
+  "overview_commit": "6d070d82cbff091e58f4fde37ddc0b8b438e594b",
+  "overview_digest": "e9225d027989b4f47cab9737196e340c8fec65c9f4c92ff36a67e105f756c30e",
   "paragraphs": [
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -20376,6 +20377,23 @@
         "ProteinBodyCompositionLever",
         "ProteinSourceGoalMatching",
         "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786"
+      ]
+    },
+    {
+      "id": "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-protocols-to-improve-vision-eyesight-scim1823781754|Essentials: Protocols to Improve Vision & Eyesight]], a [[HubermanLab]] solo episode in which [[AndrewHuberman]] connects retinal signaling and brain-based visual inference to circadian physiology and practical eye use. It adds [[VisualSystemHealthToolkit]] while extending [[MorningLightCircadianAnchoring]] and [[PediatricMyopiaControl]]. Its core synthesis is that visual health depends partly on varied, safe use—outdoor light, far and panoramic viewing, breaks from sustained near focus, motion tracking, and accommodation changes—combined with binocular-development awareness, cardiovascular support, nutrition context, and professional eye care. No settled contradiction is recorded; two-hour outdoor exposure, gaze-position alertness, visual exercises, hallucination mechanisms, lutein, astaxanthin, and ocular-blood-flow claims remain source-scoped, and behavioral practices do not replace assessment of disease or sudden visual change.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "HubermanLab",
+        "MorningLightCircadianAnchoring",
+        "PediatricMyopiaControl",
+        "VisualSystemHealthToolkit",
+        "essentials-protocols-to-improve-vision-eyesight-scim1823781754"
       ]
     }
   ],

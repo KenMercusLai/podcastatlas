@@ -73331,6 +73331,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "VisualSystemHealthToolkit": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "VitalismLifePrincipleDebate": [
     {
       "key": "science",
@@ -82942,6 +82949,13 @@
     }
   ],
   "essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-protocols-to-improve-vision-eyesight-scim1823781754": [
     {
       "key": "science",
       "label": "Science",

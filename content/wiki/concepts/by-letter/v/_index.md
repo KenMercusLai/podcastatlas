@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7696
+wiki_total_pages: 7697
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "VisualRepresentationLiteracy"
     title: "Visual Representation Literacy / 视觉表征素养"
     url: "/wiki/concepts/visualrepresentationliteracy/"
+  - key: "VisualSystemHealthToolkit"
+    title: "Visual System Health Toolkit"
+    url: "/wiki/concepts/visualsystemhealthtoolkit/"
   - key: "VitalismLifePrincipleDebate"
     title: "Vitalism And Life-Principle Debate / 活力论与生命本质争论"
     url: "/wiki/concepts/vitalismlifeprincipledebate/"

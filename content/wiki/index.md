@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Protocols to Improve Vision & Eyesight](sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754.md) — Huberman Lab Essentials episode on retinal light signaling, brain-based visual inference, circadian regulation, varied eye use, myopia-related habits, and bounded nutrition and eye-care tools.
 - [AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More](sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786.md) — Huberman Lab AMA excerpt distinguishing whey for muscle-related goals from collagen or bone broth for qualified skin-related goals, with tolerance and acne caveats.
 - [560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)](sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351.md) — The Rest Is History episode on The Tale of Genji, Murasaki Shikibu, selective Sinicization, gendered literacy, court bureaucracy, and literary impermanence.
 - [What Pets Actually Want & Need | Dr. Karolina Westlund](sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314.md) — Huberman Lab interview on ethology-first care, species- and breed-matched enrichment, touch consent, companion attachment, cat environmental design, and qualified sterilization decisions.
@@ -12983,6 +12984,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Visual System Health Toolkit](concepts/VisualSystemHealthToolkit.md) — Framework joining outdoor light, varied viewing distance, smooth pursuit, accommodation, binocular balance, systemic health, and qualified eye care.
 - [Protein Source Goal Matching](concepts/ProteinSourceGoalMatching.md) — Matches protein amino-acid profile, bioavailability, tolerance, and format to muscle, skin, convenience, or dietary goals.
 - [Species-Appropriate Animal Care](concepts/SpeciesAppropriateAnimalCare.md) — Ethology-first design of housing, feeding, enrichment, touch, and social contact around species and individual needs.
 - [Animal Touch Consent](concepts/AnimalTouchConsent.md) — Brief-touch-and-pause method using voluntary re-initiation or disengagement to guide contact.
