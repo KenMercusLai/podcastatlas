@@ -44346,9 +44346,9 @@
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
     },
     "FujiwaraMarriagePolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9428275194 [GLT9428275194].md",
@@ -44356,6 +44356,13 @@
           "show": "The Rest Is History",
           "title": "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)",
           "url": "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"
+        },
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
         }
       ],
       "updated": "2026-09-21",
@@ -52611,9 +52618,9 @@
       "url": "/wiki/entities/hefeilatehan/"
     },
     "HeianCourtlyPerformance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9428275194 [GLT9428275194].md",
@@ -52621,15 +52628,38 @@
           "show": "The Rest Is History",
           "title": "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)",
           "url": "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"
+        },
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
         }
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/heiancourtlyperformance/"
     },
-    "HeianLiteraryImpermanence": {
+    "HeianGenderedLiteracy": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/heiangenderedliteracy/"
+    },
+    "HeianLiteraryImpermanence": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9428275194 [GLT9428275194].md",
@@ -52637,6 +52667,13 @@
           "show": "The Rest Is History",
           "title": "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)",
           "url": "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"
+        },
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
         }
       ],
       "updated": "2026-09-21",
@@ -82099,9 +82136,9 @@
       "url": "/wiki/concepts/municipaltransparencycompromise/"
     },
     "MurasakiShikibu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9428275194 [GLT9428275194].md",
@@ -82109,6 +82146,13 @@
           "show": "The Rest Is History",
           "title": "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)",
           "url": "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"
+        },
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
         }
       ],
       "updated": "2026-09-21",
@@ -102739,6 +102783,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/selectiveneuralstimulationprecision/"
     },
+    "SelectiveSinicizationInJapan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/selectivesinicizationinjapan/"
+    },
     "SelectiveThreatNarrativeEditing": {
       "episode_count": 1,
       "show_count": 1,
@@ -115019,9 +115079,9 @@
       "url": "/wiki/entities/thesaaspodcast/"
     },
     "TheTaleOfGenji": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9428275194 [GLT9428275194].md",
@@ -115029,6 +115089,13 @@
           "show": "The Rest Is History",
           "title": "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)",
           "url": "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"
+        },
+        {
+          "episode_file": "GLT6500007351 [GLT6500007351].md",
+          "key": "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+          "show": "The Rest Is History",
+          "title": "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)",
+          "url": "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
         }
       ],
       "updated": "2026-09-21",

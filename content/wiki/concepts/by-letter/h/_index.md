@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7693
+wiki_total_pages: 7695
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "HeianCourtlyPerformance"
     title: "Heian Courtly Performance"
     url: "/wiki/concepts/heiancourtlyperformance/"
+  - key: "HeianGenderedLiteracy"
+    title: "Heian Gendered Literacy"
+    url: "/wiki/concepts/heiangenderedliteracy/"
   - key: "HeianLiteraryImpermanence"
     title: "Heian Literary Impermanence"
     url: "/wiki/concepts/heianliteraryimpermanence/"

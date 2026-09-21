@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7693
+wiki_total_pages: 7695
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "SelectiveNeuralStimulationPrecision"
     title: "Selective Neural Stimulation Precision"
     url: "/wiki/concepts/selectiveneuralstimulationprecision/"
+  - key: "SelectiveSinicizationInJapan"
+    title: "Selective Sinicization in Japan"
+    url: "/wiki/concepts/selectivesinicizationinjapan/"
   - key: "SelectiveThreatNarrativeEditing"
     title: "Selective Threat Narrative Editing"
     url: "/wiki/concepts/selectivethreatnarrativeediting/"

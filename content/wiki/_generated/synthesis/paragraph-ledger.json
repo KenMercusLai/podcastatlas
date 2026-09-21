@@ -675,12 +675,13 @@
       "aae77a229da98888d63f9d41142d5b1dedb2975dc51cdc1140d730bfb8e365c2",
       "865069f3a3017d1669bdcce326b5528c5335e05b6679baf6e82771aba81fb9b5",
       "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d",
-      "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16"
+      "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16",
+      "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e"
     ],
-    "paragraph_count": 675
+    "paragraph_count": 676
   },
-  "overview_commit": "e27f5f86267b2ea0e33fce91445ad4aad11467cb",
-  "overview_digest": "7a346fd78f4059970b93c4bc63143135b626ef353a39c84bd147a5c6d04d251a",
+  "overview_commit": "4159b6af64fbc2e8ae38446d2cd18e927ef2fd6c",
+  "overview_digest": "fe52ee57116e537d53469296133c820c17e60107c2f89e0cab0bcf71f92c9ccc",
   "paragraphs": [
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -20329,6 +20330,35 @@
         "MurasakiShikibu",
         "SeiShonagon",
         "ThePillowBook",
+        "TheRestIsHistory",
+        "TheTaleOfGenji"
+      ]
+    },
+    {
+      "id": "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351|560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)]], a [[TheRestIsHistory]] episode using [[TheTaleOfGenji]] as both literary achievement and source-scoped evidence for Heian rank, bureaucracy, courtship, gender, moral injury, aging, and time. It adds [[HeianGenderedLiteracy]] and [[SelectiveSinicizationInJapan]], while extending [[MurasakiShikibu]], [[TheTaleOfGenji]], [[HeianCourtlyPerformance]], [[FujiwaraMarriagePolitics]], and [[HeianLiteraryImpermanence]]. Its core synthesis is that *Genji* emerged from neither isolated genius nor simple Chinese imitation: Japanese rulers and nobles selectively adapted continental models, and a gendered literacy order that restricted women's access to prestigious Chinese learning also opened space for elite vernacular experimentation. No settled contradiction is recorded; Murasaki's dates and psychology, “first novel” priority, direct influence on later popular forms, Genji's moral interpretation, and single-cause explanations of literary innovation remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351",
+        "FujiwaraMarriagePolitics",
+        "HeianCourtlyPerformance",
+        "HeianGenderedLiteracy",
+        "HeianLiteraryImpermanence",
+        "MurasakiShikibu",
+        "SelectiveSinicizationInJapan",
         "TheRestIsHistory",
         "TheTaleOfGenji"
       ]

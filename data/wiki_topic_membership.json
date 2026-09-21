@@ -1773,6 +1773,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194": [
     {
       "key": "history",
@@ -32947,6 +32959,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HeianGenderedLiteracy": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HeianLiteraryImpermanence": [
     {
       "key": "culture",
@@ -61773,6 +61792,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SelectiveSinicizationInJapan": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SelectiveThreatNarrativeEditing": [

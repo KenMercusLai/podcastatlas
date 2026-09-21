@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2748
+topic_total_pages: 2751
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1267,6 +1267,9 @@ topic_concepts:
   - key: "HeianCourtlyPerformance"
     title: "Heian Courtly Performance"
     url: "/wiki/concepts/heiancourtlyperformance/"
+  - key: "HeianGenderedLiteracy"
+    title: "Heian Gendered Literacy"
+    url: "/wiki/concepts/heiangenderedliteracy/"
   - key: "HeianLiteraryImpermanence"
     title: "Heian Literary Impermanence"
     url: "/wiki/concepts/heianliteraryimpermanence/"
@@ -2257,6 +2260,9 @@ topic_concepts:
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"
+  - key: "SelectiveSinicizationInJapan"
+    title: "Selective Sinicization in Japan"
+    url: "/wiki/concepts/selectivesinicizationinjapan/"
   - key: "SelectiveThreatNarrativeEditing"
     title: "Selective Threat Narrative Editing"
     url: "/wiki/concepts/selectivethreatnarrativeediting/"
@@ -7662,6 +7668,9 @@ topic_sources:
   - key: "55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306"
     title: "55.安徒生童话：海的女儿和不灭的灵魂"
     url: "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"
+  - key: "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351"
+    title: "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)"
+    url: "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
   - key: "561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194"
     title: "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)"
     url: "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"

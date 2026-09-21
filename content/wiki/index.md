@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)](sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351.md) — The Rest Is History episode on The Tale of Genji, Murasaki Shikibu, selective Sinicization, gendered literacy, court bureaucracy, and literary impermanence.
 - [What Pets Actually Want & Need | Dr. Karolina Westlund](sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314.md) — Huberman Lab interview on ethology-first care, species- and breed-matched enrichment, touch consent, companion attachment, cat environmental design, and qualified sterilization decisions.
 - [561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)](sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194.md) — The Rest Is History episode on Sei Shonagon, Murasaki Shikibu, Heian courtly performance, Fujiwara marriage politics, and literary impermanence.
 - [Essentials: How Smell, Taste & Pheromones Shape Behavior](sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826.md) — Huberman Lab Essentials episode on olfactory pathways, inhalation-linked arousal, smell training, gustatory nutrient and hazard detection, and the boundary between human chemical signaling and established pheromones.
@@ -12985,6 +12986,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Animal Touch Consent](concepts/AnimalTouchConsent.md) — Brief-touch-and-pause method using voluntary re-initiation or disengagement to guide contact.
 - [Companion-Animal Attachment](concepts/CompanionAnimalAttachment.md) — Caregiver bond shaped by reliable response, stress recovery, developmental timing, separation, and reunion.
 - [Companion-Animal Sterilization Decision](concepts/CompanionAnimalSterilizationDecision.md) — Veterinary tradeoff among reproduction, hormones, health, behavior, procedure, timing, law, and individual context.
+- [Heian Gendered Literacy](concepts/HeianGenderedLiteracy.md) — Gendered Chinese and vernacular literacy as both an elite constraint and an opening for literary experimentation.
+- [Selective Sinicization in Japan](concepts/SelectiveSinicizationInJapan.md) — Japanese adoption and local adaptation of Chinese government, writing, capital planning, and prestige culture.
 - [Heian Courtly Performance](concepts/HeianCourtlyPerformance.md) — Poetry, calligraphy, scent, dress, and allusion as a system of status, attraction, and competence.
 - [Fujiwara Marriage Politics](concepts/FujiwaraMarriagePolitics.md) — Dynastic strategy connecting imperial marriage, childbirth, regency, household rivalry, and succession.
 - [Heian Literary Impermanence](concepts/HeianLiteraryImpermanence.md) — Literary synthesis of court beauty, remembered pleasure, Buddhist transience, and loss.

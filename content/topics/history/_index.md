@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1894
+topic_total_pages: 1895
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4560,6 +4560,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351"
+    title: "560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)"
+    url: "/wiki/sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351/"
   - key: "561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194"
     title: "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)"
     url: "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"

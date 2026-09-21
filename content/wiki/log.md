@@ -20757,3 +20757,11 @@ Added source `what-pets-actually-want-need-dr-karolina-westlund-scim2878719314`;
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)
+
+Added source `560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351`; created `HeianGenderedLiteracy` and `SelectiveSinicizationInJapan`; and updated `MurasakiShikibu`, `TheTaleOfGenji`, `HeianCourtlyPerformance`, `FujiwaraMarriagePolitics`, `HeianLiteraryImpermanence`, overview, and index. Core synthesis: *The Tale of Genji* joins court bureaucracy and cultivated beauty to moral injury, aging, and constrained female choices, while its emergence reflects selective adaptation of Chinese models and a gendered literacy order that both restricted women and opened room for vernacular innovation. No settled contradiction found; Murasaki's dates and psychology, “first novel” priority, direct influence on later popular forms, Genji's moral interpretation, and single-cause explanations of literary innovation remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
