@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7728
+wiki_total_pages: 7732
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -92,6 +92,9 @@ wiki_pages:
   - key: "VerticalFandomCrowdfunding"
     title: "Vertical Fandom Crowdfunding / 垂直圈层众筹"
     url: "/wiki/concepts/verticalfandomcrowdfunding/"
+  - key: "VerticalIntegrationForDataColdStart"
+    title: "Vertical Integration for Data Cold Start"
+    url: "/wiki/concepts/verticalintegrationfordatacoldstart/"
   - key: "VerticalIntegrationForMemberValue"
     title: "Vertical Integration For Member Value"
     url: "/wiki/concepts/verticalintegrationformembervalue/"

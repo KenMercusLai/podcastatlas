@@ -20920,3 +20920,11 @@ Added source `zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913`; created `AppLovin`, `AdamForoughi`, `DiscoveryAdvertising`, `PerformanceAdvertisingLearningLoop`, `VerticalIntegrationForDataColdStart`, and `DrawdownCapitalAllocationAndAlignment`; and updated index. Core synthesis: AppLovin's case links mobile-game inventory to discovery commerce through a rapid model-performance feedback loop, with temporary studio ownership solving the initial data cold start and drawdown-era buybacks plus performance equity aligning capital and employees around a recovery. No settled contradiction found; market size, user scale, margin, targeting, buyback value, valuation recovery, model causality, and moat durability remain management claims from a friendly interview. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -73239,6 +73239,13 @@
       "url": "/topics/science/"
     }
   ],
+  "VerticalIntegrationForDataColdStart": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "VerticalMediaDistribution": [
     {
       "key": "culture",

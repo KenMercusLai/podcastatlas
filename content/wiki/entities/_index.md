@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10395
+wiki_total_pages: 10397
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "AdamDAngelo"
     title: "Adam D'Angelo"
     url: "/wiki/entities/adamdangelo/"
+  - key: "AdamForoughi"
+    title: "Adam Foroughi"
+    url: "/wiki/entities/adamforoughi/"
   - key: "AdamFrancis"
     title: "Adam Francis"
     url: "/wiki/entities/adamfrancis/"
@@ -1178,6 +1181,9 @@ wiki_pages:
   - key: "AppliedCompute"
     title: "Applied Compute"
     url: "/wiki/entities/appliedcompute/"
+  - key: "AppLovin"
+    title: "AppLovin"
+    url: "/wiki/entities/applovin/"
   - key: "ApprenticeBoysOfDerry"
     title: "Apprentice Boys of Derry"
     url: "/wiki/entities/apprenticeboysofderry/"

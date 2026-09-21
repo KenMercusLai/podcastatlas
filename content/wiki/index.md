@@ -2626,6 +2626,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
+- [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
+
 ## Entities
 - [董祀 / Dong Si (late Han)](entities/DongSiLateHan.md) — 蔡文姬归汉后的丈夫，节目以其死罪获赦故事突出蔡文姬的勇气、判断与行动能力。
 - [Ma Yin / 马寅](entities/MaYin.md) — Anaya founder and operator associated with its shift from property sales toward recurring community, hospitality, commercial, and cultural operations.
@@ -13029,6 +13031,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 - [Xu Mengdi / 徐梦迪](entities/XuMengdi.md) — Tsinghua robot-learning researcher studying in-context adaptation, world models, multi-source data, and embodied evaluation.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
+- [AppLovin](entities/AppLovin.md) — Advertising-technology company using mobile-game inventory, recommendation models, and measurable performance to pursue broader commerce discovery.
+- [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
 - [俘获、赎归与家庭分离 / Captivity, Repatriation, and Family Separation](concepts/CaptivityRepatriationFamilySeparation.md) — 战乱中的赎归恢复自由与故土联系，却可能以新家庭关系断裂为不可逆代价。
@@ -20764,5 +20768,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Robot In-Context Learning / 机器人上下文学习](concepts/RobotInContextLearning.md) — Robot adaptation from demonstrations, corrections, body motion, attempts, and failures without retraining every new task offline.
 - [Capability-Driven Robot Data Design / 能力反推机器人数据](concepts/CapabilityDrivenRobotDataDesign.md) — Selecting human, UMI, simulation, and real-robot data by desired capability and training stage.
 - [Robot Deployment Data Loop / 机器人部署数据闭环](concepts/RobotDeploymentDataLoop.md) — Feedback loop that begins only when limited user teaching produces enough visible improvement to sustain use and correction.
+- [Discovery Advertising](concepts/DiscoveryAdvertising.md) — Recommendation-led advertising that tries to create or surface demand before a consumer expresses purchase intent.
+- [Performance Advertising Learning Loop](concepts/PerformanceAdvertisingLearningLoop.md) — Cycle linking model predictions, observed conversions, advertiser returns, spending, scale, and further learning.
+- [Vertical Integration for Data Cold Start](concepts/VerticalIntegrationForDataColdStart.md) — Temporary ownership of an operating layer to obtain initial model-training data before third-party adoption is sufficient.
+- [Drawdown Capital Allocation and Alignment](concepts/DrawdownCapitalAllocationAndAlignment.md) — Crisis response combining share repurchases with performance equity during a severe public-market decline.
 
 ## Syntheses

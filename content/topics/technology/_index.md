@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3107
+topic_total_pages: 3108
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4168,6 +4168,9 @@ topic_concepts:
   - key: "VerticalAgentSaaSification"
     title: "Vertical Agent SaaSification"
     url: "/wiki/concepts/verticalagentsaasification/"
+  - key: "VerticalIntegrationForDataColdStart"
+    title: "Vertical Integration for Data Cold Start"
+    url: "/wiki/concepts/verticalintegrationfordatacoldstart/"
   - key: "VerticalMedicalSmallModels"
     title: "Vertical Medical Small Models"
     url: "/wiki/concepts/verticalmedicalsmallmodels/"

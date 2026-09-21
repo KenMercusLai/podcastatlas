@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7728
+wiki_total_pages: 7732
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "PerfectionismAsAvoidance"
     title: "Perfectionism As Avoidance"
     url: "/wiki/concepts/perfectionismasavoidance/"
+  - key: "PerformanceAdvertisingLearningLoop"
+    title: "Performance Advertising Learning Loop"
+    url: "/wiki/concepts/performanceadvertisinglearningloop/"
   - key: "PerformanceFootwearMarket"
     title: "Performance Footwear Market"
     url: "/wiki/concepts/performancefootwearmarket/"
