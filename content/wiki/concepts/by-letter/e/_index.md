@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7827
+wiki_total_pages: 7831
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "EarlyWomenFilmPioneers"
     title: "Early Women Film Pioneers"
     url: "/wiki/concepts/earlywomenfilmpioneers/"
+  - key: "EarlyModernKnowledgeContinuum"
+    title: "Early-Modern Knowledge Continuum"
+    url: "/wiki/concepts/earlymodernknowledgecontinuum/"
   - key: "EarnedOptimism"
     title: "Earned Optimism / 走出来的乐天"
     url: "/wiki/concepts/earnedoptimism/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe](sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016.md) — The Rest Is History episode on John Dee, Tudor knowledge boundaries, angelic mediation, occult patronage risk, and cartographic-imperial mythmaking.
 - [543. Death in the Amazon: Aguirre, the Wrath of God](sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248.md) — The Rest Is History episode on the failed El Dorado expedition, Aguirre's mutiny and anti-royal rebellion, fragile colonial rule, and survivor incentives in his demonic reputation.
 - [Essentials: How to Control Hunger, Eating & Satiety](sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648.md) — Huberman Lab Essentials episode on brain-gut appetite regulation, learned ghrelin timing, nutrient-linked satiety, meal context, movement, and bounded intervention claims.
 - [How to Achieve Inner Peace & Healing | Dr. Richard Schwartz](sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693.md) — Huberman Lab interview on Internal Family Systems, protective parts, Self-leadership, trauma, relationships, and clinical boundaries around severe distress and psychedelics.
@@ -2672,6 +2673,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Enhance Your Immune System | Dr. Roger Seheult](sources/how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462.md) — Huberman Lab interview on foundational immune health, daylight and darkness, respiratory-infection prevention, fever and heat, long COVID, mold evaluation, and evidence-bounded recovery tools.
 
 ## Entities
+- [Walter Raleigh](entities/WalterRaleigh.md) — Elizabethan colonial-project figure linked by the source to John Dee's cartographic and imperial ideas around Virginia and Roanoke.
+- [John Dee](entities/JohnDee.md) — Tudor polymath connecting mathematics, navigation, cartography, court astrology, imperial argument, and angelic inquiry.
+- [Edward Kelley](entities/EdwardKelley.md) — Scryer and alchemist whose exclusive control of claimed angelic messages made him indispensable to John Dee.
+- [Rudolf II](entities/RudolfII.md) — Prague emperor approached by Dee and later patron of Kelley, illustrating the volatility of alchemical court expertise.
 - [Lope de Aguirre](entities/LopeDeAguirre.md) — Violent conquistador who converted a failed Amazon expedition into rebellion against Philip II.
 - [Pedro de Ursúa](entities/PedroDeUrsua.md) — Crown-appointed El Dorado expedition commander murdered in the 1561 mutiny.
 - [Ursúa-Aguirre Expedition](entities/AguirreExpedition.md) — 1560-1561 Amazon conquest venture that became an anti-royal rebellion and collapsed in Venezuela.
@@ -13148,6 +13153,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
 ## Concepts
+- [Early-Modern Knowledge Continuum](concepts/EarlyModernKnowledgeContinuum.md) — Framework for historically entangled mathematical, religious, alchemical, astrological, and magical inquiry without collapsing evidence standards.
+- [Court Occult Expertise Risk](concepts/CourtOccultExpertiseRisk.md) — Patronage bargain in which extraordinary expertise brings access, political danger, and punishment for failed delivery.
+- [Angelic Knowledge Mediation](concepts/AngelicKnowledgeMediation.md) — Information asymmetry created when a seeker depends on another person's exclusive claim to supernatural perception.
+- [Imperial Cartographic Mythmaking](concepts/ImperialCartographicMythmaking.md) — Joining maps and navigation to legend, genealogy, prophecy, and providential claims of expansionary right.
 - [El Dorado](concepts/ElDorado.md) — Golden-kingdom legend functioning as conquest incentive and colonial manpower-disposal mechanism in the Aguirre expedition.
 - [Colonial Frontier Governance Fragility](concepts/ColonialFrontierGovernanceFragility.md) — Instability produced when imperial authority cannot reliably govern armed colonial manpower and conquest expectations.
 - [Complicit-Witness Scapegoat Narrative](concepts/ComplicitWitnessScapegoatNarrative.md) — Source pattern in which implicated survivors concentrate collective violence in one monstrous leader.

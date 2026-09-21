@@ -21262,3 +21262,11 @@ Added source `how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462`
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe
+
+Added source `542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016`; created `JohnDee`, `EdwardKelley`, `RudolfII`, `WalterRaleigh`, `EarlyModernKnowledgeContinuum`, `CourtOccultExpertiseRisk`, `AngelicKnowledgeMediation`, and `ImperialCartographicMythmaking`; updated `ElizabethI` and the index. Core synthesis: Dee's practical scholarship and occult inquiry belong to one historically contested knowledge program, while his dependence on Kelley's exclusive claimed perception turns revelation into an information asymmetry with political and household consequences. No settled contradiction found; priority claims for “British empire,” influence on Raleigh and Roanoke, the reality of the spirits, Kelley's sincerity, and the full causes of Dee's decline remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

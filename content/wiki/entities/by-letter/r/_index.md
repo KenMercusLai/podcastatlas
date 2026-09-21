@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10467
+wiki_total_pages: 10471
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "RudolfErichRaspe"
     title: "Rudolf Erich Raspe"
     url: "/wiki/entities/rudolferichraspe/"
+  - key: "RudolfII"
+    title: "Rudolf II"
+    url: "/wiki/entities/rudolfii/"
   - key: "RudyGiuliani"
     title: "Rudy Giuliani"
     url: "/wiki/entities/rudygiuliani/"

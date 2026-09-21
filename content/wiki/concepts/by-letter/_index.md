@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7827
+wiki_total_pages: 7831
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1781,6 +1781,9 @@ wiki_pages:
   - key: "AngelicIntelligence"
     title: "Angelic Intelligence"
     url: "/wiki/concepts/angelicintelligence/"
+  - key: "AngelicKnowledgeMediation"
+    title: "Angelic Knowledge Mediation"
+    url: "/wiki/concepts/angelicknowledgemediation/"
   - key: "AngerDrivenWarDecision"
     title: "Anger-Driven War Decision / 因怒兴师"
     url: "/wiki/concepts/angerdrivenwardecision/"

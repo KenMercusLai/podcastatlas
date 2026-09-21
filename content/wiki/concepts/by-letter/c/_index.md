@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7827
+wiki_total_pages: 7831
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1832,6 +1832,9 @@ wiki_pages:
   - key: "CourtFeedbackCollapse"
     title: "Court Feedback Collapse / 君臣反馈失灵"
     url: "/wiki/concepts/courtfeedbackcollapse/"
+  - key: "CourtOccultExpertiseRisk"
+    title: "Court Occult Expertise Risk"
+    url: "/wiki/concepts/courtoccultexpertiserisk/"
   - key: "CourtOfficeCapture"
     title: "Court Office Capture / 朝廷开府任官失序"
     url: "/wiki/concepts/courtofficecapture/"

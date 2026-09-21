@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7827
+wiki_total_pages: 7831
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "ImperialBurialLegitimacy"
     title: "Imperial Burial Legitimacy / 帝后合葬名分"
     url: "/wiki/concepts/imperialburiallegitimacy/"
+  - key: "ImperialCartographicMythmaking"
+    title: "Imperial Cartographic Mythmaking"
+    url: "/wiki/concepts/imperialcartographicmythmaking/"
   - key: "ImperialConstructionOverload"
     title: "Imperial Construction Overload / 帝国工程过载"
     url: "/wiki/concepts/imperialconstructionoverload/"

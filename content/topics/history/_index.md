@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1918
+topic_total_pages: 1919
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4572,6 +4572,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016"
+    title: "542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe"
+    url: "/wiki/sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016/"
   - key: "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248"
     title: "543. Death in the Amazon: Aguirre, the Wrath of God"
     url: "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
