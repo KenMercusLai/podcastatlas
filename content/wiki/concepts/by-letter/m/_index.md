@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7768
+wiki_total_pages: 7772
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -641,6 +641,18 @@ wiki_pages:
   - key: "MidtermBacklashForecasting"
     title: "Midterm Backlash Forecasting"
     url: "/wiki/concepts/midtermbacklashforecasting/"
+  - key: "MigraineMedicationChoice"
+    title: "Migraine Medication Choice"
+    url: "/wiki/concepts/migrainemedicationchoice/"
+  - key: "MigraineNeuromodulationEvidenceBoundary"
+    title: "Migraine Neuromodulation Evidence Boundary"
+    url: "/wiki/concepts/migraineneuromodulationevidenceboundary/"
+  - key: "MigraineRecognitionAndTriage"
+    title: "Migraine Recognition and Triage"
+    url: "/wiki/concepts/migrainerecognitionandtriage/"
+  - key: "MigraineTriggerDiaryManagement"
+    title: "Migraine Trigger and Diary Management"
+    url: "/wiki/concepts/migrainetriggerdiarymanagement/"
   - key: "MigrantFamilyRemittanceObligation"
     title: "Migrant Family Remittance Obligation / 移民家庭汇款义务"
     url: "/wiki/concepts/migrantfamilyremittanceobligation/"

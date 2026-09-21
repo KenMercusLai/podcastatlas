@@ -21080,3 +21080,11 @@ Added source `551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299`; 
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.157最头疼的问题就是头疼 ft.大物是也·斑马酱
+
+Added source `vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio`; created `BanmaJiangMedicalGuest`, `MigraineRecognitionAndTriage`, `MigraineTriggerDiaryManagement`, `MigraineMedicationChoice`, and `MigraineNeuromodulationEvidenceBoundary`; updated `XueDoctorZheBing`, `Atang`, `ZheBingShuoLaiHuaChang`, and the index. Core synthesis: migraine is a recurring disabling clinical pattern rather than a synonym for one-sided pain; safe management combines secondary-cause triage, individualized trigger records, appropriate established or newer medication, and caution about exploratory neuromodulation. No settled contradiction found; aura complications, imaging, hormone associations, medication comparisons, pregnancy or lactation choices, CGRP claims, and stimulation targets remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10423
+wiki_total_pages: 10424
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "BushezheShuo"
     title: "捕蛇者说 / Bushezhe Shuo"
     url: "/wiki/entities/bushezheshuo/"
+  - key: "BanmaJiangMedicalGuest"
+    title: "斑马酱 / Banma Jiang"
+    url: "/wiki/entities/banmajiangmedicalguest/"
   - key: "BaofengYingyin"
     title: "暴风影音 / Baofeng Yingyin"
     url: "/wiki/entities/baofengyingyin/"
