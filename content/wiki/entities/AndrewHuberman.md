@@ -38,6 +38,7 @@ sources:
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
   - ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786
   - essentials-how-to-build-endurance-scim1120276865
+  - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -81,6 +82,8 @@ In the smell-and-taste Essentials episode, he adds a second sensory-neuroscience
 In AMA #19, he returns to nutrition through [[ProteinSourceGoalMatching]], distinguishing whey and other leucine-rich proteins for muscle protein synthesis from collagen or bone broth for a narrower proposed skin role. He keeps the choice conditional on whole-food intake, digestive tolerance, acne response, and personal observation, while the episode's numeric targets and mechanisms remain source-scoped.
 
 In the endurance Essentials episode, he turns fitness assessment into training design through [[EnduranceTrainingModalities]]. He separates muscular, long-duration, high-intensity anaerobic, and high-intensity aerobic work, links them through neural drive, ATP production, fuel and oxygen delivery, and adds [[ExerciseHydrationPerformanceBoundary]] so that interval ratios, fluid formulas, cognitive-benefit mechanisms, and supplement remarks remain adaptable and source-scoped.
+
+In the muscle Essentials episode, he frames strength and hypertrophy through neural recruitment rather than load alone. [[StrengthHypertrophyProgramming]] organizes motor-unit recruitment, weekly sets, failure, speed, and rest, while [[ExerciseRecoveryReadiness]] keeps grip-force trends, carbon-dioxide-tolerance testing, cold exposure, and NSAID timing provisional and goal-dependent. The episode reinforces [[MuscleAsLongevityInfrastructure]], [[CreatineMonohydrateEvidence]], and [[ProteinSourceGoalMatching]] without turning its numeric ranges into individualized prescriptions.
 
 ## Key Characteristics
 - Frames everyday concerns through guest expertise, practical mechanisms, and first-person examples.
@@ -126,6 +129,7 @@ In the endurance Essentials episode, he turns fitness assessment into training d
 - Smell, taste, and chemical-signaling framing: [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] has Huberman explain olfactory pathways, respiratory-phase arousal, smell training, gustation, head-injury context, and interpersonal chemical cues while preserving uncertainty around human pheromones.
 - Protein-source framing: [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786]] has Huberman distinguish whey for muscle-related goals from collagen or bone broth for qualified skin-related goals while preserving tolerance and acne caveats.
 - Endurance-training framing: [[essentials-how-to-build-endurance-scim1120276865]] has Huberman distinguish four endurance modes across neural, muscular, metabolic, cardiovascular, and respiratory bottlenecks while bounding its protocols, hydration formula, and supplement claims.
+- Strength, hypertrophy, and recovery framing: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] has Huberman connect neural recruitment to load, volume, failure, speed, rest, readiness checks, cold and NSAID tradeoffs, electrolytes, creatine, and leucine-rich protein.
 
 - Marriage and relationship-law framing: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] has Huberman ask [[JamesSexton]] how contracts, prenups, financial safety, intimacy, trauma, and recurring check-ins shape relationships before and during conflict.
 
@@ -136,16 +140,18 @@ The Attia episode adds ApoB targets, lipid medications, blood-pressure measureme
 
 The daily-tools episode's optic-flow, fasting, 90-minute rhythm, meal composition, exercise-ratio, cytokine, EPA, serotonin, cooling, and supplement-dose claims remain source-scoped rather than individualized productivity, nutrition, exercise, psychiatric, or sleep guidance. The hearing-and-balance episode's binaural-beat, chronic-pain, low-level white-noise, dopamine, infant tonotopic-map, mood, and post-movement learning claims remain source-scoped because the condensed source does not provide study sizes, effect magnitudes, or full methods.
 
-The Sexton episode's divorce rate, infidelity prevalence, gender patterns, client outcomes, and legal-enforceability claims remain practitioner observations and jurisdiction-dependent public discussion rather than population-level evidence or individualized legal advice. The smell-and-taste episode's nasal-breathing learning, peppermint, neurogenesis, fat-taste, smell-recovery, menstrual-synchrony, vomeronasal-organ, and handshake-sampling claims remain source-scoped; animal pheromone effects are not generalized to humans, and ammonia carries tissue and eye risk. AMA #19's protein target, collagen dose and timeline, leucine-mTOR-acne explanation, menstrual-cycle observation, and bone-broth composition claim remain source-scoped public nutrition education. The endurance episode's repetition ranges, interval ratios, VO2-max wording, capillary and cognition mechanisms, sweat-loss estimates, fluid equation, caffeine, and magnesium claims remain source-scoped public exercise education rather than individualized training, hydration, supplement, rehabilitation, or medical advice. This addition brings the bounded profile to thirty-five episode notes.
+The Sexton episode's divorce rate, infidelity prevalence, gender patterns, client outcomes, and legal-enforceability claims remain practitioner observations and jurisdiction-dependent public discussion rather than population-level evidence or individualized legal advice. The smell-and-taste episode's nasal-breathing learning, peppermint, neurogenesis, fat-taste, smell-recovery, menstrual-synchrony, vomeronasal-organ, and handshake-sampling claims remain source-scoped; animal pheromone effects are not generalized to humans, and ammonia carries tissue and eye risk. AMA #19's protein target, collagen dose and timeline, leucine-mTOR-acne explanation, menstrual-cycle observation, and bone-broth composition claim remain source-scoped public nutrition education. The endurance episode's repetition ranges, interval ratios, VO2-max wording, capillary and cognition mechanisms, sweat-loss estimates, fluid equation, caffeine, and magnesium claims remain source-scoped public exercise education rather than individualized training, hydration, supplement, rehabilitation, or medical advice. The muscle episode's load, set, failure, rest, grip-force, slow-exhale, cold-exposure, NSAID, creatine, electrolyte, and leucine claims are likewise source-scoped and do not establish medical clearance or an individualized program. This addition brings the bounded profile to thirty-six episode notes.
 
 ## What Changed
-- Added the endurance Essentials episode as a four-mode training, limiting-system, and hydration-boundary branch.
+- Added the muscle Essentials episode as a neural recruitment, strength/hypertrophy programming, recovery-readiness, and nutrition branch.
+- Kept its numeric training and recovery thresholds source-scoped and separated soreness relief from adaptation goals.
 - Added his hearing-and-balance Essentials episode as an auditory attention, sound-state, and visual-vestibular learning branch.
 - Added the Sexton interview as a marriage-contract, prenup, preventive-maintenance, and vulnerability branch.
 - Added the smell-and-taste Essentials episode as a chemosensation, respiratory-state, gustation, olfactory-recovery, and human-chemical-signaling branch.
-- Added AMA #19 as a goal-matched protein-source branch with explicit evidence and tolerance boundaries.
 
 ## Relationships
+- [[StrengthHypertrophyProgramming]] - newest exercise branch connecting neural recruitment to load, volume, failure, speed, and rest.
+- [[ExerciseRecoveryReadiness]] - newest recovery branch for within-person readiness signals and post-training intervention tradeoffs.
 - [[EnduranceTrainingModalities]] - newest exercise branch distinguishing four endurance modes by structure and likely limiting system.
 - [[ExerciseHydrationPerformanceBoundary]] - newest exercise-safety branch bounding fluid, electrolyte, and supplement guidance.
 - [[ProteinSourceGoalMatching]] - newest nutrition branch distinguishing protein sources by muscle, skin, and tolerance goals.

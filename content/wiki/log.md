@@ -20992,3 +20992,11 @@ Added source `556-1066-the-battle-of-hastings-part-3-glt3522014441`; created `Ba
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Essentials: Build Muscle Size, Increase Strength & Improve Recovery
+
+Added source `essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126`; created `StrengthHypertrophyProgramming` and `ExerciseRecoveryReadiness`; updated `AndrewHuberman`, `HubermanLab`, `MuscleAsLongevityInfrastructure`, `CreatineMonohydrateEvidence`, `ProteinSourceGoalMatching`, and the index. Core synthesis: strength and hypertrophy overlap but are not identical because neural recruitment can improve force without proportional size; a broad load range can work when effort, weekly volume, speed, failure, rest, and recovery match the goal; simple readiness checks and post-training cold or NSAID tradeoffs remain provisional rather than clearance tests. No settled contradiction found; all numerical training, recovery, creatine, electrolyte, leucine, and intervention claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7745
+wiki_total_pages: 7747
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "StreetJianghuSociety"
     title: "Street Jianghu Society"
     url: "/wiki/concepts/streetjianghusociety/"
+  - key: "StrengthHypertrophyProgramming"
+    title: "Strength and Hypertrophy Programming"
+    url: "/wiki/concepts/strengthhypertrophyprogramming/"
   - key: "StrengthBenchmarkTesting"
     title: "Strength Benchmark Testing / 力量基准测试"
     url: "/wiki/concepts/strengthbenchmarktesting/"

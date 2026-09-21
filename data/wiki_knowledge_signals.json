@@ -7024,9 +7024,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 35,
+      "episode_count": 36,
       "show_count": 1,
-      "source_note_count": 35,
+      "source_note_count": 36,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7272,6 +7272,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Endurance",
           "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        },
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
         }
       ],
       "updated": "2026-09-21",
@@ -25304,9 +25311,9 @@
       "url": "/wiki/concepts/craftlaborbottleneck/"
     },
     "CreatineMonohydrateEvidence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -25314,9 +25321,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/creatinemonohydrateevidence/"
     },
     "CreativeApertureShift": {
@@ -38462,6 +38476,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
+    },
+    "ExerciseRecoveryReadiness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {
       "episode_count": 2,
@@ -57393,9 +57423,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 35,
+      "episode_count": 36,
       "show_count": 1,
-      "source_note_count": 35,
+      "source_note_count": 36,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -57641,6 +57671,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Endurance",
           "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        },
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
         }
       ],
       "updated": "2026-09-21",
@@ -83723,9 +83760,9 @@
       "url": "/wiki/entities/mureka/"
     },
     "MuscleAsLongevityInfrastructure": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
@@ -83754,9 +83791,16 @@
           "show": "无时差研究所",
           "title": "EP384-普通人也能打得起的“司美格鲁肽”，减肥针“一针瘦十斤”背后的真相与代",
           "url": "/wiki/sources/ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy/"
+        },
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
     },
     "MusePersonalAgent": {
@@ -96018,9 +96062,9 @@
       "url": "/wiki/concepts/proteinlanguagemodels/"
     },
     "ProteinSourceGoalMatching": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5207600786 [SCIM5207600786].md",
@@ -96028,6 +96072,13 @@
           "show": "Huberman Lab",
           "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
           "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
+        },
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
         }
       ],
       "updated": "2026-09-21",
@@ -112438,6 +112489,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/strengthfirstselfexamination/"
+    },
+    "StrengthHypertrophyProgramming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4036424126 [SCIM4036424126].md",
+          "key": "essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126",
+          "show": "Huberman Lab",
+          "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
+          "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
       "episode_count": 1,

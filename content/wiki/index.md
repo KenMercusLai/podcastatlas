@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Build Muscle Size, Increase Strength & Improve Recovery](sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126.md) — Huberman Lab Essentials episode on neural recruitment, strength and hypertrophy programming, recovery-readiness checks, post-training intervention tradeoffs, creatine, electrolytes, and leucine-rich protein.
 - [How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman](sources/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582.md) — Huberman Lab interview on functional medicine as systems biology, food and lifestyle as multi-system inputs, individualized retesting, and evidence-bounded advanced interventions.
 - [《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？](sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6.md) — 曹冲早夭暴露曹氏诸子的继承竞争，邴原以礼法拒绝冥婚，贺齐则以长期侦察、正面佯动和夜攀绝壁攻破险寨并推动新都郡建置。
 - [《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？](sources/zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln.md) — 蒋济以伪造并故意泄露的“四万援军”消息解合肥之围，曹仁则冒险冲阵救出牛金，以直接救援和可见承诺恢复江陵守军士气。
@@ -20807,5 +20808,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Performance Advertising Learning Loop](concepts/PerformanceAdvertisingLearningLoop.md) — Cycle linking model predictions, observed conversions, advertiser returns, spending, scale, and further learning.
 - [Vertical Integration for Data Cold Start](concepts/VerticalIntegrationForDataColdStart.md) — Temporary ownership of an operating layer to obtain initial model-training data before third-party adoption is sufficient.
 - [Drawdown Capital Allocation and Alignment](concepts/DrawdownCapitalAllocationAndAlignment.md) — Crisis response combining share repurchases with performance equity during a severe public-market decline.
+
+- [Strength and Hypertrophy Programming](concepts/StrengthHypertrophyProgramming.md) — Training framework connecting motor-unit recruitment to load, weekly volume, failure, movement speed, and rest.
+- [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Bounded use of within-person grip and slow-exhale trends plus cold and NSAID adaptation tradeoffs.
 
 ## Syntheses

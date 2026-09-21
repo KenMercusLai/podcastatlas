@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7745
+wiki_total_pages: 7747
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "ExercisePillarsForLongevity"
     title: "Exercise Pillars For Longevity"
     url: "/wiki/concepts/exercisepillarsforlongevity/"
+  - key: "ExerciseRecoveryReadiness"
+    title: "Exercise Recovery Readiness"
+    url: "/wiki/concepts/exerciserecoveryreadiness/"
   - key: "ExerciseSelfMasteryForProcrastination"
     title: "Exercise Self-Mastery For Procrastination"
     url: "/wiki/concepts/exerciseselfmasteryforprocrastination/"
