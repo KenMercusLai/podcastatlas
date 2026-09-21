@@ -20812,3 +20812,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Essentials: How to Build Endurance
+
+Added source `essentials-how-to-build-endurance-scim1120276865`; created `EnduranceTrainingModalities` and `ExerciseHydrationPerformanceBoundary`; and updated `NinePhysiologicalAdaptations`, `LongDurationEnduranceStandard`, `ElectrolyteDrinkUseBoundary`, `AndrewHuberman`, `HubermanLab`, overview, and index. Core synthesis: endurance comprises four overlapping training modes whose practical design depends on likely neural, muscular, metabolic, cardiac, and respiratory bottlenecks. No settled contradiction found; training-versus-testing ranges are preserved as contextual differences, and protocols, hydration formulas, cognitive mechanisms, caffeine, and magnesium claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

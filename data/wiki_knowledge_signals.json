@@ -6962,9 +6962,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 1,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7203,6 +7203,13 @@
           "show": "Huberman Lab",
           "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
           "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
+        },
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
         }
       ],
       "updated": "2026-09-21",
@@ -33718,9 +33725,9 @@
       "url": "/wiki/concepts/electricityaffordabilityindicator/"
     },
     "ElectrolyteDrinkUseBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -33728,9 +33735,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
@@ -36616,6 +36630,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
+    "EnduranceTrainingModalities": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/endurancetrainingmodalities/"
+    },
     "EnergyAbundanceClimateStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -37780,6 +37810,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/exerciseassistivegearboundary/"
+    },
+    "ExerciseHydrationPerformanceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLoadManagement": {
       "episode_count": 3,
@@ -56550,9 +56596,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 1,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -56791,6 +56837,13 @@
           "show": "Huberman Lab",
           "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
           "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
+        },
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
         }
       ],
       "updated": "2026-09-21",
@@ -73737,9 +73790,9 @@
       "url": "/wiki/concepts/longcontenttimetail/"
     },
     "LongDurationEnduranceStandard": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -73747,9 +73800,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+        },
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/longdurationendurancestandard/"
     },
     "LongNow": {
@@ -84303,9 +84363,9 @@
       "url": "/wiki/entities/nimiwusun/"
     },
     "NinePhysiologicalAdaptations": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -84313,9 +84373,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+        },
+        {
+          "episode_file": "SCIM1120276865 [SCIM1120276865].md",
+          "key": "essentials-how-to-build-endurance-scim1120276865",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Build Endurance",
+          "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/ninephysiologicaladaptations/"
     },
     "NinePurpleFireLuckActionFrame": {

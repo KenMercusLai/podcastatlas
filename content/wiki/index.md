@@ -2611,6 +2611,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
+- [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
+
 ## Entities
 - [Ryan Soave](entities/RyanSoave.md) — Addiction-treatment and trauma-recovery specialist presenting staged stabilization, distress tolerance, community support, and positive life-building.
 - [Andrew Loog Oldham](entities/AndrewLoogOldham.md) — Rolling Stones manager who coordinated their lineup, publicity, and anti-Beatles market position.
@@ -20706,5 +20708,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [分层式地方武力拆解 / Layered Local Elite Demobilization](concepts/LayeredLocalEliteDemobilization.md) — Sequential separation of local authority, fighters, families, and home networks through office, recruitment rules, dispersal, relocation, or force.
 
 - [Health-Coded Food Label Literacy / 健康概念食品标签识读](concepts/HealthCodedFoodLabelLiteracy.md) — Translates high-protein, low-GI, zero-fat, natural, and similar claims into whole-product, serving-size, use-context, and personal-relevance judgments.
+
+- [Endurance Training Modalities](concepts/EnduranceTrainingModalities.md) — Four-mode framework separating muscular, long-duration, anaerobic-interval, and high-intensity aerobic endurance training.
+- [Exercise Hydration Performance Boundary](concepts/ExerciseHydrationPerformanceBoundary.md) — Boundary around sweat loss, electrolytes, exercise-fluid heuristics, and supplement claims.
 
 ## Syntheses

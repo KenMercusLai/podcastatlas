@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7706
+wiki_total_pages: 7708
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "EndogenousMoneyCreation"
     title: "Endogenous Money Creation / 内生货币"
     url: "/wiki/concepts/endogenousmoneycreation/"
+  - key: "EnduranceTrainingModalities"
+    title: "Endurance Training Modalities"
+    url: "/wiki/concepts/endurancetrainingmodalities/"
   - key: "EnergyAbundanceClimateStrategy"
     title: "Energy Abundance Climate Strategy"
     url: "/wiki/concepts/energyabundanceclimatestrategy/"
@@ -839,6 +842,9 @@ wiki_pages:
   - key: "ExerciseAssistiveGearBoundary"
     title: "Exercise Assistive Gear Boundary / 运动护具辅助边界"
     url: "/wiki/concepts/exerciseassistivegearboundary/"
+  - key: "ExerciseHydrationPerformanceBoundary"
+    title: "Exercise Hydration Performance Boundary"
+    url: "/wiki/concepts/exercisehydrationperformanceboundary/"
   - key: "ExerciseLoadManagement"
     title: "Exercise Load Management / 运动负荷管理"
     url: "/wiki/concepts/exerciseloadmanagement/"
