@@ -21000,3 +21000,11 @@ Added source `essentials-build-muscle-size-increase-strength-improve-recovery-sc
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 555. 1066: Slaughter at Stamford Bridge (Part 2)
+
+Added source `555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968`; created `HaraldHardrada`, `TostigGodwinson`, and `BattleOfStamfordBridge`; and updated `HaroldGodwinson` and the index. Core synthesis: Hardrada and Tostig's Fulford victory and York settlement made their expedition a credible conquest bid, but a divided force and Harold's rapid advance through York enabled decisive surprise at Stamford Bridge; both invaders died and the campaign collapsed. No settled contradiction found; the rapid-march timetable, force and fleet totals, armor, omens, parley, bridge defense, poetry, exact death scenes, and the literal “end of the Viking Age” remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10411
+wiki_total_pages: 10413
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -200,6 +200,9 @@ wiki_pages:
   - key: "HappyMondayClub"
     title: "Happy Monday Club"
     url: "/wiki/entities/happymondayclub/"
+  - key: "HaraldHardrada"
+    title: "Harald Hardrada"
+    url: "/wiki/entities/haraldhardrada/"
   - key: "HarjTaggar"
     title: "Harj Taggar"
     url: "/wiki/entities/harjtaggar/"

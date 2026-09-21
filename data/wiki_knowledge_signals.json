@@ -11730,6 +11730,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleofpoltava/"
     },
+    "BattleOfStamfordBridge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1524879968 [GLT1524879968].md",
+          "key": "555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968",
+          "show": "The Rest Is History",
+          "title": "555. 1066: Slaughter at Stamford Bridge (Part 2)",
+          "url": "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/battleofstamfordbridge/"
+    },
     "BattleOfTrebia": {
       "episode_count": 1,
       "show_count": 1,
@@ -52919,6 +52935,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/happymondayclub/"
     },
+    "HaraldHardrada": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1524879968 [GLT1524879968].md",
+          "key": "555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968",
+          "show": "The Rest Is History",
+          "title": "555. 1066: Slaughter at Stamford Bridge (Part 2)",
+          "url": "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/haraldhardrada/"
+    },
     "HardTechFinancingDiscipline": {
       "episode_count": 1,
       "show_count": 1,
@@ -52996,9 +53028,9 @@
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
     "HaroldGodwinson": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -53020,6 +53052,13 @@
           "show": "The Rest Is History",
           "title": "556. 1066: The Battle of Hastings (Part 3)",
           "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
+        },
+        {
+          "episode_file": "GLT1524879968 [GLT1524879968].md",
+          "key": "555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968",
+          "show": "The Rest Is History",
+          "title": "555. 1066: Slaughter at Stamford Bridge (Part 2)",
+          "url": "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"
         }
       ],
       "updated": "2026-09-21",
@@ -119297,6 +119336,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/toshibamachine/"
+    },
+    "TostigGodwinson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1524879968 [GLT1524879968].md",
+          "key": "555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968",
+          "show": "The Rest Is History",
+          "title": "555. 1066: Slaughter at Stamford Bridge (Part 2)",
+          "url": "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/tostiggodwinson/"
     },
     "TotalAttentionPractice": {
       "episode_count": 1,

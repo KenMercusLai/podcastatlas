@@ -1171,6 +1171,10 @@
     "title": "55.安徒生童话：海的女儿和不灭的灵魂",
     "url": "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"
   },
+  "555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968": {
+    "title": "555. 1066: Slaughter at Stamford Bridge (Part 2)",
+    "url": "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"
+  },
   "556-1066-the-battle-of-hastings-part-3-glt3522014441": {
     "title": "556. 1066: The Battle of Hastings (Part 3)",
     "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
@@ -7902,6 +7906,10 @@
   "BattleOfPoltava": {
     "title": "Battle of Poltava / 波尔塔瓦战役",
     "url": "/wiki/entities/battleofpoltava/"
+  },
+  "BattleOfStamfordBridge": {
+    "title": "Battle of Stamford Bridge",
+    "url": "/wiki/concepts/battleofstamfordbridge/"
   },
   "BattleOfTheBogside": {
     "title": "Battle of the Bogside",
@@ -28274,6 +28282,10 @@
   "HappyMondayClub": {
     "title": "Happy Monday Club",
     "url": "/wiki/entities/happymondayclub/"
+  },
+  "HaraldHardrada": {
+    "title": "Harald Hardrada",
+    "url": "/wiki/entities/haraldhardrada/"
   },
   "HardAIInfrastructure": {
     "title": "Hard AI Infrastructure / 硬AI基础设施",
@@ -63974,6 +63986,10 @@
   "ToshioSuzuki": {
     "title": "Toshio Suzuki / 铃木敏夫",
     "url": "/wiki/entities/toshiosuzuki/"
+  },
+  "TostigGodwinson": {
+    "title": "Tostig Godwinson",
+    "url": "/wiki/entities/tostiggodwinson/"
   },
   "TotalAttentionPractice": {
     "title": "Total Attention Practice / 全然注意力",

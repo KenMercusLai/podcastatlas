@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10411
+wiki_total_pages: 10413
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "ToshioSuzuki"
     title: "Toshio Suzuki / 铃木敏夫"
     url: "/wiki/entities/toshiosuzuki/"
+  - key: "TostigGodwinson"
+    title: "Tostig Godwinson"
+    url: "/wiki/entities/tostiggodwinson/"
   - key: "TotalEnergies"
     title: "TotalEnergies"
     url: "/wiki/entities/totalenergies/"

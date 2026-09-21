@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [555. 1066: Slaughter at Stamford Bridge (Part 2)](sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968.md) — The Rest Is History episode on Hardrada and Tostig's northern conquest bid, Harold's operational surprise, the invasion's destruction, and the qualified “end of the Viking Age” interpretation.
 - [Essentials: Build Muscle Size, Increase Strength & Improve Recovery](sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126.md) — Huberman Lab Essentials episode on neural recruitment, strength and hypertrophy programming, recovery-readiness checks, post-training intervention tradeoffs, creatine, electrolytes, and leucine-rich protein.
 - [How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman](sources/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582.md) — Huberman Lab interview on functional medicine as systems biology, food and lifestyle as multi-system inputs, individualized retesting, and evidence-bounded advanced interventions.
 - [《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？](sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6.md) — 曹冲早夭暴露曹氏诸子的继承竞争，邴原以礼法拒绝冥婚，贺齐则以长期侦察、正面佯动和夜攀绝壁攻破险寨并推动新都郡建置。
@@ -2638,6 +2639,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
 
 ## Entities
+- [Harald Hardrada](entities/HaraldHardrada.md) — Norwegian king and claimant whose Fulford victory, York strategy, defeat at Stamford Bridge, and “last Viking” memory define his 1066 campaign.
+- [Tostig Godwinson](entities/TostigGodwinson.md) — Exiled English earl who recruits Hardrada for a regime-change invasion and dies beside him at Stamford Bridge.
 - [Mark Hyman](entities/MarkHyman.md) — Physician and functional-medicine advocate using systems-level hypotheses, foundations-first care, and individualized measurement.
 - [曹冲 / Cao Chong (late Han)](entities/CaoChongLateHan.md) — 曹操宠爱的早慧幼子，其十三岁早夭既引发丧子之痛，也改变了曹氏诸子的潜在继承格局。
 - [邴原 / Bing Yuan (late Han)](entities/BingYuanLateHan.md) — 以礼法和操守一致性拒绝曹操冥婚请求，并促使曹操撤回这一悲痛驱动的例外安排。
@@ -13058,6 +13061,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Battle of Stamford Bridge](concepts/BattleOfStamfordBridge.md) — 1066 English victory understood through a credible conquest bid, a divided invasion force, Harold's operational surprise, and qualified Viking-Age periodization.
 - [Functional Medicine Systems Model](concepts/FunctionalMedicineSystemsModel.md) — Multi-causal framework connecting chronic illness with interacting biological, environmental, behavioral, and social systems.
 - [Food As Multi-System Intervention](concepts/FoodAsMultiSystemIntervention.md) — Nutrition frame treating dietary patterns as simultaneous inputs to metabolism, appetite, inflammation, hormones, microbiome, and recovery.
 - [Test-Intervene-Retest Loop](concepts/TestInterveneRetestLoop.md) — Individualized loop for establishing a baseline, changing inputs, measuring outcomes, and revising decisions with risk boundaries.
