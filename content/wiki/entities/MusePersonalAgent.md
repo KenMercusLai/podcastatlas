@@ -4,6 +4,7 @@ type: entity
 tags: [ai, personal-ai, meta, product]
 sources:
   - 275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd
+  - canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -14,29 +15,33 @@ knowledge_schema: synthesis-v1
 Muse is described as [[Meta]]'s broad consumer personal-agent product, distinct from the wiki's [[MetaMuseModels|Muse model]] and [[MuseImage|Muse Image]] entities.
 
 ## Current Profile
-The episode presents [[MusePersonalAgent|Muse]] as the distribution-and-ecosystem route to personal agency. Meta can combine social interest signals, saved content, familiar consumer channels, free or subsidized compute, and per-user virtual machines to teach a mass audience what agents can do. Its proposed advantage is not only answering questions but connecting discovery and preference signals to planning, shopping, and transaction completion.
+Muse represents the distribution-and-ecosystem route to personal agency. Meta can combine social interest signals, saved content, familiar consumer channels, free or subsidized compute, and per-user virtual machines to connect discovery and preferences to planning, shopping, and transaction completion. A newer source adds the counterweight: useful execution requires access to email, calendars, commerce sites, and potentially financial accounts, so Meta's prior privacy controversies may limit the permission depth on which the product advantage depends.
 
 ## Key Characteristics
-- Covers broad consumer tasks such as school administration, travel, shopping lists, subscription management, and household planning.
+- Covers broad consumer tasks such as school administration, travel, shopping, subscription management, household planning, and email.
 - Uses Meta's installed base and channels to reduce acquisition and product-education costs.
 - Can draw on social interest and saved-content signals as inputs to user intent.
 - Is described as providing cloud execution or virtual-machine capacity to users.
 - Favors a free or subsidized scale strategy that can pressure smaller subscription products.
+- Depends on broad data and action permissions whose value is inseparable from user trust.
 
 ## Evidence
-- Distribution and compute: [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] attributes Muse's rapid visibility to Meta's channels, free strategy, and user virtual machines.
+- Distribution and compute: [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] attributes Muse's visibility to Meta's channels, free strategy, and user virtual machines.
 - Intent-to-transaction route: [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] uses Instagram saves, dinner planning, dietary constraints, menus, and shopping lists to illustrate how interest data might become executable intent.
+- Permission and trust constraint: [[canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362]] says tasks such as email, travel booking, and shopping require sensitive cross-service access and links adoption risk to Meta's privacy record.
 
 ## Qualifications
-The source reports product impressions and strategic interpretation rather than verified architecture, economics, retention, or safety performance. Saved and engagement data can be noisy or obsolete, and Meta's cross-product advantage depends on permission, organizational integration, and users accepting the privacy tradeoff.
+The sources report product impressions, ranking claims, and strategic interpretation rather than verified architecture, economics, retention, safety, or permission behavior. Saved and engagement data can be noisy or obsolete. Meta's cross-product advantage depends on organizational integration and voluntary user authorization; broad access is a liability rather than an advantage when trust is insufficient.
 
 ## What Changed
-- Created a disambiguated entity for Meta's personal-agent product.
+- Added privacy history and permission depth as explicit limits on Meta's distribution and data advantage.
+- Added the source-reported App Store ranking as a visibility signal while keeping it source-scoped.
 
 ## Relationships
-- [[Meta]] - company and distribution ecosystem behind the product in the source.
+- [[Meta]] - company and distribution ecosystem behind the product in the sources.
 - [[PersonalLifeAgent]] - product category Muse is presented as entering.
-- [[PersonalAgentUnderstandingLayer]] - required layer for turning behavioral data into relevant intent.
+- [[PersonalAgentUnderstandingLayer]] - layer required to convert behavioral data into relevant intent.
+- [[AgentPermissionBoundaries]] - authority and consent constraint sharpened by the newer source.
 - [[AgenticCommerce]] - transaction relationship when planning becomes purchase or booking.
 - [[PlatformAdvertisingMonetization]] - business-model tension because assistant neutrality can conflict with sponsored ranking.
 - [[MetaMuseModels]] - separate Meta Muse-named model entity, not the personal agent.

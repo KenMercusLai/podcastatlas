@@ -688,12 +688,13 @@
       "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2",
       "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51",
       "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c",
-      "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769"
+      "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769",
+      "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef"
     ],
-    "paragraph_count": 688
+    "paragraph_count": 689
   },
-  "overview_commit": "911af16a66c9c56afe9b540fa815fe2c795f9089",
-  "overview_digest": "0bf12ab15c877e0ab3160de405b6d8a55b292ee3336fa81ca570146db9318b13",
+  "overview_commit": "fa80a1a3aad378a73277490ec9d6bb838ec0d37a",
+  "overview_digest": "fe8cd066a3ac7425c98df9c7f91482eb332717ed63ad4b71a4b9b19c6e8d2602",
   "paragraphs": [
     {
       "id": "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
@@ -20633,6 +20634,30 @@
         "SlowProductMarketFit",
         "TechnologyReuseScenarioAdaptation",
         "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596"
+      ]
+    },
+    {
+      "id": "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "business-and-markets",
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362|参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？]], a [[ShengdongZaokafei|声动早咖啡]] episode on [[Anaya|阿那亚]] and [[MaYin|马寅]]. It extends [[LongTermPlaceOperation]] by showing how a defined Beijing owner base, integrated community services, managed homestays, merchant revenue sharing, landmarks, and recurring cultural events can move a distressed property project toward recurring destination income. Its core synthesis is that the same traffic-and-content flywheel creates owner-versus-visitor conflict, carrying-capacity pressure, partner-governance risk, and regional replication limits. Side items update [[OnRunning]], [[KylianMbappe|Kylian Mbappe]], and [[MusePersonalAgent|Muse]]. No settled contradiction is recorded; the source qualifies Anaya's earlier authenticity case with crowding and differentiated-access tensions, while operating figures, returns, agreement terms, rankings, and company claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "Anaya",
+        "KylianMbappe",
+        "LongTermPlaceOperation",
+        "MaYin",
+        "MusePersonalAgent",
+        "OnRunning",
+        "ShengdongZaokafei",
+        "canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362"
       ]
     }
   ],

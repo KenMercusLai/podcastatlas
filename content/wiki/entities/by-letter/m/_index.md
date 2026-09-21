@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10393
+wiki_total_pages: 10394
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "MaShiqiuXinRebel"
     title: "Ma Shiqiu / 马士求"
     url: "/wiki/entities/mashiqiuxinrebel/"
+  - key: "MaYin"
+    title: "Ma Yin / 马寅"
+    url: "/wiki/entities/mayin/"
   - key: "MaarvaAndor"
     title: "Maarva Andor"
     url: "/wiki/entities/maarvaandor/"

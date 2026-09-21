@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？](sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362.md) — 声动早咖啡 episode on Anaya's shift from weak property sales to resident services, managed lodging, merchant revenue sharing, cultural traffic, and the owner-tourist and replication tensions created by success.
 - [Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻](sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u.md) — 不懂球 episode with Feng Zhen on treating Asian competition seriously while protecting league continuity, improving match supply and squad depth, and using naturalization only as a bounded short-term tool.
 - [《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？](sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz.md) — 周瑜病逝后鲁肃接掌军队并主张让刘备获得荆州立足点，孙刘联盟由战时合作转向更持久的战略牵制，同时以吕蒙读书和庞统获荐讨论人才成长与纠错。
 - [商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务](sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596.md) — 商业就是这样 short episode on Ecovacs, specialized household robots, the 80/20 technology-reuse and scenario-adaptation model, patient category development, and localized lawn-care demand.
@@ -2624,6 +2625,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [Ma Yin / 马寅](entities/MaYin.md) — Anaya founder and operator associated with its shift from property sales toward recurring community, hospitality, commercial, and cultural operations.
 - [丰臻 / Feng Zhen](entities/FengZhenFootballCommentator.md) — Football commentator linking serious Asian competition to league continuity, club responsibility, match supply, foreign-player depth, and bounded naturalization.
 - [Ecovacs Robotics / 科沃斯](entities/EcovacsRobotics.md) — Household-robot company extending a reusable sensing, mapping, planning, and control stack across floor, window, lawn, and pool cleaning.
 - [Qian Cheng / 钱程 (Ecovacs)](entities/QianChengEcovacs.md) — Ecovacs brand CEO associated with the 80% technology reuse and 20% scenario migration product model.

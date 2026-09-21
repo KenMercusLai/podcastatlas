@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | 参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？
+
+Added source `canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362`; created `MaYin`; and updated `Anaya`, `LongTermPlaceOperation`, `OnRunning`, `KylianMbappe`, `MusePersonalAgent`, and index. Core synthesis: Anaya turned a weak seaside property project into a recurring operating system through a defined Beijing owner base, integrated services, managed homestays, merchant revenue sharing, and cultural programming, but rising visitor volume creates owner-experience, carrying-capacity, partner-governance, and replication risks. No settled contradiction found; the source qualifies the earlier authenticity case with crowding and differentiated-access tensions, while operating figures, returns, partnership terms, rankings, and product claims remain source-scoped.
+
 ## [2026-09-21] ingest | 707. The Terror: An Assassination in Paris (Part 1)
 
 Added source `707-the-terror-an-assassination-in-paris-part-1-glt6580043397`; created `CommitteeOfPublicSafety`, `RevolutionaryTribunal`, `VendeeWar`, `EmergencyInstitutionsToTerror`, and `CrisisValidatedConspiracyPolitics`; and updated `JeanPaulMarat`, `CharlotteCorday`, `FrenchRevolution`, `Girondins`, `MaximilienRobespierre`, `GeorgesDanton`, `JacquesLouisDavid`, `SeptemberMassacres`, `RevolutionaryTerrorPolitics`, `RevolutionaryMartyrdomImageMaking`, and index. Core synthesis: overlapping war, scarcity, revolt, real betrayal, factional purge, and improvised emergency bodies built the machinery of terror, while Corday's attempt to stop bloodshed turned Marat into a martyr and accelerated suspicion and Robespierre's ascent. No settled contradiction found; the source strengthens the strategic case against assassination without erasing Corday's political agency, while populism comparisons, casualty estimates, Vendée classification, purge responsibility, dialogue, and motives remain source-scoped.
@@ -20892,6 +20896,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻
 
 Added source `vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u`; created `FengZhenFootballCommentator` and `ChineseFootballAsianCompetitionPriority`; and updated `Budongqiu`, `AFCChampionsLeague`, `ChineseSuperLeague`, `ChineseFootballCalendarPolicy`, `ChineseFootballLeagueExpansion`, `ChineseFootballForeignPlayerPolicy`, `NaturalizedPlayerPolicyInChineseFootball`, overview, and index. Core synthesis: Chinese football should build confidence, experience, club credibility, and supporter trust through current Asian competitions while protecting professional-league continuity and improving match supply, squad depth, incentives, and scheduling. No settled contradiction found; forecasts, coefficient effects, attendance, subsidies, naturalization feasibility, and local-player development claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 
