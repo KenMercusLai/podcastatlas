@@ -1,0 +1,21 @@
+{
+  "claims": [
+    {
+      "global_candidate": false,
+      "id": "protein-source-goal-matching",
+      "qualifications": [
+        "The roughly one-gram-per-pound target is an optimization claim rather than a universal requirement.",
+        "The collagen dose and timeline, acne mechanism, menstrual-cycle observation, and bone-broth leucine content remain source-scoped."
+      ],
+      "statement": "[[ProteinSourceGoalMatching]] distinguishes whey and other leucine-rich complete proteins for muscle protein synthesis from collagen or bone broth for a narrower proposed skin role.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "ProteinSourceGoalMatching",
+        "ProteinBodyCompositionLever",
+        "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786"
+      ]
+    }
+  ],
+  "summary": "A Huberman Lab AMA distinguishes total protein accounting from goal-specific source quality: whey is framed for muscle-related outcomes and collagen or bone broth for a narrower, qualified skin role.",
+  "topic_id": "cross-domain"
+}

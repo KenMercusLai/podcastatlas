@@ -6930,9 +6930,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 33,
+      "episode_count": 34,
       "show_count": 1,
-      "source_note_count": 33,
+      "source_note_count": 34,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7164,6 +7164,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
           "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        },
+        {
+          "episode_file": "SCIM5207600786 [SCIM5207600786].md",
+          "key": "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786",
+          "show": "Huberman Lab",
+          "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
+          "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
         }
       ],
       "updated": "2026-09-21",
@@ -56405,9 +56412,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 33,
+      "episode_count": 34,
       "show_count": 1,
-      "source_note_count": 33,
+      "source_note_count": 34,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -56639,6 +56646,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
           "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        },
+        {
+          "episode_file": "SCIM5207600786 [SCIM5207600786].md",
+          "key": "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786",
+          "show": "Huberman Lab",
+          "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
+          "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
         }
       ],
       "updated": "2026-09-21",
@@ -94065,9 +94079,9 @@
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
     "ProteinBodyCompositionLever": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -94082,6 +94096,13 @@
           "show": "Huberman Lab",
           "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
           "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        },
+        {
+          "episode_file": "SCIM5207600786 [SCIM5207600786].md",
+          "key": "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786",
+          "show": "Huberman Lab",
+          "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
+          "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
         }
       ],
       "updated": "2026-09-21",
@@ -94102,6 +94123,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/proteinlanguagemodels/"
+    },
+    "ProteinSourceGoalMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5207600786 [SCIM5207600786].md",
+          "key": "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786",
+          "show": "Huberman Lab",
+          "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
+          "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/proteinsourcegoalmatching/"
     },
     "ProteinSupplyChainMarketFit": {
       "episode_count": 1,

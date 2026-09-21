@@ -20765,3 +20765,11 @@ Added source `560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-p
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More
+
+Added source `ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786`; created `ProteinSourceGoalMatching`; and updated `ProteinBodyCompositionLever`, `AndrewHuberman`, `HubermanLab`, overview, and index. Core synthesis: protein source should be matched to outcome, with whey framed as stronger for muscle protein synthesis and collagen or bone broth assigned a narrower, qualified skin-related role. No settled contradiction found; intake targets, collagen dose and timeline, acne mechanism, menstrual-cycle observation, and bone-broth leucine content remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

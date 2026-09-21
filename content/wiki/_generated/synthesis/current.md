@@ -4,12 +4,12 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: 4159b6af64fbc2e8ae38446d2cd18e927ef2fd6c
+as_of_overview_commit: a7232d1dee7b103df0b521a3793aaa8632664b2b
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2593
-source_count: 2593
-paragraph_count: 676
-topic_count: 8
+episode_count: 2594
+source_count: 2594
+paragraph_count: 677
+topic_count: 9
 ---
 
 # Current Synthesis
@@ -41,6 +41,10 @@ Business value depends on demand proof, delivery capacity, distribution, capital
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
 
+### Cross-domain
+
+Protein source quality is goal-specific: whey is framed for muscle outcomes and collagen or bone broth for a narrower, qualified skin role.
+
 ### Culture and Media
 
 Cultural form is interpretive infrastructure: media, material objects, provenance, routes, and audience practice shape what becomes legible, intimate, durable, or authoritative.
@@ -50,14 +54,14 @@ Cultural form is interpretive infrastructure: media, material objects, provenanc
 
 ### Governance and Institutions
 
-Institutions distribute power through rules, evidence, information, appointments, kinship, cultural prestige, enforceable limits, and continuity of judgment; Heian borrowing, marriage politics, and gendered literacy show formal and informal systems operating together.
+Institutions distribute power through rules, evidence, information, appointments, kinship, cultural prestige, enforceable limits, and continuity of judgment.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].
 
 ### History and Geopolitics
 
-Historical outcomes turn on legitimacy joined to material capacity, routes, logistics, supply, command judgment, coalition alignment, information, initiative, endurance, and the local adaptation of borrowed institutions.
+Historical outcomes turn on legitimacy joined to material capacity, routes, logistics, supply, command judgment, coalition alignment, information, initiative, and endurance.
 
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]]. Evidence: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]], [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]], [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[MoscowUprising1682]], [[SophiaAlekseyevna]], [[VasilyGolitsyn]], [[BattleOfNarva]], [[SaintPetersburg]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]], [[GreatNorthernWar]], [[GreatEmbassy]], [[CoerciveWesternization]], [[Streltsy]], [[AugustusTheStrong]].
 - [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o|Episode 501]] adds [[QingMidDynastyAccumulatedMaladies|a mid-Qing case]] in which underfunded implementation, embedded interests, [[GovernanceNormalizationParadox|procedural accretion]], and [[AdministrativeInformationConformity|safe information channels]] weaken problem solving before open disorder, while [[DynasticCyclePerception|different cycle perceptions]] shape reform and [[StatecraftGenerationRelay|personnel preparation]]. Evidence: [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o]], [[QingMidDynastyAccumulatedMaladies]], [[GovernanceNormalizationParadox]], [[AdministrativeInformationConformity]], [[DynasticCyclePerception]], [[StatecraftGenerationRelay]].

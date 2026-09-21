@@ -36,6 +36,7 @@ sources:
   - essentials-how-hearing-balance-enhance-focus-learning-scim1135697510
   - contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
+  - ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -75,6 +76,8 @@ In the hearing-and-balance Essentials episode, he adds a sensory-neuroscience br
 With [[JamesSexton]], he shifts from relationship science into family-law and preventive-maintenance questions. He uses contracts as a safety frame, connects painful divorce to trauma and one-trial learning, and asks how prenups, daily intimacy, sex, money, change, and difficult truth can become explicit before conflict.
 
 In the smell-and-taste Essentials episode, he adds a second sensory-neuroscience branch by linking [[Chemosensation]], [[InhalationArousalLearning]], [[OlfactoryTraining]], [[TasteNutrientHazardDetection]], and [[HumanChemicalSignaling]]. The episode preserves the key distinction between biologically relevant human chemical cues and proof of a canonical human pheromone system.
+
+In AMA #19, he returns to nutrition through [[ProteinSourceGoalMatching]], distinguishing whey and other leucine-rich proteins for muscle protein synthesis from collagen or bone broth for a narrower proposed skin role. He keeps the choice conditional on whole-food intake, digestive tolerance, acne response, and personal observation, while the episode's numeric targets and mechanisms remain source-scoped.
 
 ## Key Characteristics
 - Frames everyday concerns through guest expertise, practical mechanisms, and first-person examples.
@@ -118,6 +121,7 @@ In the smell-and-taste Essentials episode, he adds a second sensory-neuroscience
 - Daily routine framing: [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] has Huberman sequence wake-time tracking, light, walking, caffeine, focused work, exercise, meals, afternoon light, cooling, and sleep while repeatedly allowing individual schedule adaptation.
 - Hearing-and-balance framing: [[essentials-how-hearing-balance-enhance-focus-learning-scim1135697510]] has Huberman explain auditory transduction and localization, selective listening, binaural beats, low-level white noise, visual-vestibular integration, dynamic balance, and possible learning-state effects.
 - Smell, taste, and chemical-signaling framing: [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] has Huberman explain olfactory pathways, respiratory-phase arousal, smell training, gustation, head-injury context, and interpersonal chemical cues while preserving uncertainty around human pheromones.
+- Protein-source framing: [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786]] has Huberman distinguish whey for muscle-related goals from collagen or bone broth for qualified skin-related goals while preserving tolerance and acne caveats.
 
 - Marriage and relationship-law framing: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] has Huberman ask [[JamesSexton]] how contracts, prenups, financial safety, intimacy, trauma, and recurring check-ins shape relationships before and during conflict.
 
@@ -128,16 +132,17 @@ The Attia episode adds ApoB targets, lipid medications, blood-pressure measureme
 
 The daily-tools episode's optic-flow, fasting, 90-minute rhythm, meal composition, exercise-ratio, cytokine, EPA, serotonin, cooling, and supplement-dose claims remain source-scoped rather than individualized productivity, nutrition, exercise, psychiatric, or sleep guidance. The hearing-and-balance episode's binaural-beat, chronic-pain, low-level white-noise, dopamine, infant tonotopic-map, mood, and post-movement learning claims remain source-scoped because the condensed source does not provide study sizes, effect magnitudes, or full methods.
 
-The Sexton episode's divorce rate, infidelity prevalence, gender patterns, client outcomes, and legal-enforceability claims remain practitioner observations and jurisdiction-dependent public discussion rather than population-level evidence or individualized legal advice. The smell-and-taste episode's nasal-breathing learning, peppermint, neurogenesis, fat-taste, smell-recovery, menstrual-synchrony, vomeronasal-organ, and handshake-sampling claims remain source-scoped; animal pheromone effects are not generalized to humans, and ammonia carries tissue and eye risk. This addition brings the bounded profile to thirty-three episode notes.
+The Sexton episode's divorce rate, infidelity prevalence, gender patterns, client outcomes, and legal-enforceability claims remain practitioner observations and jurisdiction-dependent public discussion rather than population-level evidence or individualized legal advice. The smell-and-taste episode's nasal-breathing learning, peppermint, neurogenesis, fat-taste, smell-recovery, menstrual-synchrony, vomeronasal-organ, and handshake-sampling claims remain source-scoped; animal pheromone effects are not generalized to humans, and ammonia carries tissue and eye risk. AMA #19's protein target, collagen dose and timeline, leucine-mTOR-acne explanation, menstrual-cycle observation, and bone-broth composition claim remain source-scoped public nutrition education. This addition brings the bounded profile to thirty-four episode notes.
 
 ## What Changed
-- Added his Galpin Essentials episode as a fitness-assessment branch covering the nine adaptations, the annual testing week, and the benchmark and prioritization concepts the episode introduces.
 - Added his daily-tools Essentials episode as a whole-day circadian performance and protected-work branch.
 - Added his hearing-and-balance Essentials episode as an auditory attention, sound-state, and visual-vestibular learning branch.
 - Added the Sexton interview as a marriage-contract, prenup, preventive-maintenance, and vulnerability branch.
 - Added the smell-and-taste Essentials episode as a chemosensation, respiratory-state, gustation, olfactory-recovery, and human-chemical-signaling branch.
+- Added AMA #19 as a goal-matched protein-source branch with explicit evidence and tolerance boundaries.
 
 ## Relationships
+- [[ProteinSourceGoalMatching]] - newest nutrition branch distinguishing protein sources by muscle, skin, and tolerance goals.
 - [[HumanChemicalSignaling]] - newest interpersonal chemical-cue branch, separated from established human pheromones.
 - [[InhalationArousalLearning]] - respiratory-phase and conditional attention branch.
 - [[TasteNutrientHazardDetection]] - gustatory nutrient and hazard sampling branch.

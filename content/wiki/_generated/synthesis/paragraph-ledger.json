@@ -676,12 +676,13 @@
       "865069f3a3017d1669bdcce326b5528c5335e05b6679baf6e82771aba81fb9b5",
       "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d",
       "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16",
-      "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e"
+      "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e",
+      "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013"
     ],
-    "paragraph_count": 676
+    "paragraph_count": 677
   },
-  "overview_commit": "4159b6af64fbc2e8ae38446d2cd18e927ef2fd6c",
-  "overview_digest": "fe52ee57116e537d53469296133c820c17e60107c2f89e0cab0bcf71f92c9ccc",
+  "overview_commit": "a7232d1dee7b103df0b521a3793aaa8632664b2b",
+  "overview_digest": "bd2833ce8a384c55f4192165ebd75554662dc1fe5766ee1c4d0bdb50b274fda2",
   "paragraphs": [
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -20361,6 +20362,20 @@
         "SelectiveSinicizationInJapan",
         "TheRestIsHistory",
         "TheTaleOfGenji"
+      ]
+    },
+    {
+      "id": "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013",
+      "primary_topic": "cross-domain",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786|AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More]], a short [[HubermanLab]] excerpt in which [[AndrewHuberman]] compares whey, collagen, and bone broth by intended outcome. It adds [[ProteinSourceGoalMatching]] while extending [[ProteinBodyCompositionLever]]. Its core synthesis is that total protein grams are not fully interchangeable: whey and other leucine-rich complete proteins are framed as stronger choices for muscle protein synthesis and recovery, while collagen or bone broth may have a narrower skin-elasticity and appearance role. No settled contradiction is recorded; the roughly one-gram-per-pound target is preserved as an optimization claim rather than a universal requirement, and the collagen dose and timeline, acne mechanism, menstrual-cycle observation, and bone-broth leucine content remain source-scoped.",
+      "topic_scores": {},
+      "wikilinks": [
+        "AndrewHuberman",
+        "HubermanLab",
+        "ProteinBodyCompositionLever",
+        "ProteinSourceGoalMatching",
+        "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786"
       ]
     }
   ],

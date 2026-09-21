@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7695
+wiki_total_pages: 7696
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1643,6 +1643,9 @@ wiki_pages:
   - key: "ProteinLanguageModels"
     title: "Protein Language Models"
     url: "/wiki/concepts/proteinlanguagemodels/"
+  - key: "ProteinSourceGoalMatching"
+    title: "Protein Source Goal Matching"
+    url: "/wiki/concepts/proteinsourcegoalmatching/"
   - key: "ProteinSupplyChainMarketFit"
     title: "Protein Supply Chain Market Fit / 蛋白质供应链市场匹配"
     url: "/wiki/concepts/proteinsupplychainmarketfit/"

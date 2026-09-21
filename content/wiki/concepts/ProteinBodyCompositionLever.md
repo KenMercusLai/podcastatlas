@@ -5,6 +5,7 @@ tags: [nutrition, protein, fitness, weight-management]
 sources:
   - essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484
   - how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616
+  - ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -21,14 +22,16 @@ Gardner adds a requirement-versus-strategy distinction. He describes the RDA of 
 
 The plant-based branch now contains a productive tension. Norton emphasizes planning around bioavailability, leucine, essential amino acids, and calorie packaging. Gardner stresses that all plants contain all essential amino acids, typical plant macronutrient digestibility is often around 80-90%, and isolated protein deficiency is uncommon outside broader calorie deficiency or illness. Together, the sources support adequate total intake and purposeful food selection while rejecting both plant-protein impossibility and automatic equivalence across all sources and contexts.
 
+The AMA excerpt adds [[ProteinSourceGoalMatching]] beneath this hierarchy. It distinguishes total protein accounting from task-specific value: whey is framed as stronger than collagen for muscle protein synthesis because of amino-acid quality and leucine, while collagen or bone broth may have a narrower skin-related use. This does not displace the Norton-Gardner synthesis about total intake and adequacy; it makes protein source and intended outcome explicit while keeping supplement doses, acne response, and unusually high intake targets source-scoped.
+
 ## Key Claims
 - Protein is the episode's largest dietary lever for satiety, lean body mass, and body composition.
 - Muscle-building benefit is described as plateauing around 1.6 grams per kilogram of body weight, with possible smaller benefits above that level.
 - Total protein matters more than exact timing or meal frequency, though distribution can still matter somewhat.
 - Plant-based diets can support muscle gain, but they require more planning around bioavailability, leucine, essential amino acids, and total calorie packaging.
-- Soy is treated as a useful vegan protein source, while normal use once or twice per day is not presented as a testosterone or estrogen problem in the source.
 - Protein only works inside a broader system of energy balance, training, recovery, and sustainable adherence.
 - Intake above a population requirement can still have practical satiety or food-choice value without implying that all excess protein is stored or needed for muscle synthesis.
+- Protein grams are not fully interchangeable across goals: amino-acid profile, bioavailability, tolerance, and intended outcome can matter.
 
 ## Evidence
 - Core lever: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] says protein is the biggest macronutrient lever for satiety, lean mass, and body composition.
@@ -40,14 +43,17 @@ The plant-based branch now contains a productive tension. Norton emphasizes plan
 - Requirement boundary: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] distinguishes the estimated average requirement of 0.66 g/kg/day from the buffered RDA of 0.8 g/kg/day and reports average U.S. intake around 1.2 g/kg/day or higher.
 - Satiety qualification: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] has Huberman defend higher-protein food choices as a way to meet calories, improve satiety, and avoid less suitable replacements even when Gardner disputes universal need for very high intake.
 - Plant-protein correction: [[how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616]] says all plants contain all essential amino acids, describes legumes and soy as strong sources, and places typical plant macronutrient digestibility around 80-90%.
+- Source-goal matching: [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786]] favors whey over collagen for muscle protein synthesis while assigning collagen or bone broth a narrower, qualified skin-health role.
 
 ## Counterevidence & Qualifications
-This concept is not a protein prescription. Kidney disease, liver disease, pregnancy, adolescence, older age, eating disorders, elite sport, medication use, allergies, vegetarian or vegan constraints, and metabolic disease can change appropriate intake and require individualized guidance. The sources use different endpoints and emphases: Norton's muscle and body-composition frame does not establish a universal requirement, while Gardner's adequacy argument does not rule out performance, satiety, or clinical reasons for higher intake. Neither source makes protein timing, powders, leucine, or isolates more important than total diet quality, training, and context.
+This concept is not a protein prescription. Kidney disease, liver disease, pregnancy, adolescence, older age, eating disorders, elite sport, medication use, allergies, vegetarian or vegan constraints, and metabolic disease can change appropriate intake and require individualized guidance. The sources use different endpoints and emphases: Norton's muscle and body-composition frame does not establish a universal requirement, while Gardner's adequacy argument does not rule out performance, satiety, or clinical reasons for higher intake. The AMA's roughly one-gram-per-pound target, collagen dose and timeline, acne mechanism, menstrual-cycle claim, and comments about bone-broth leucine remain source-scoped. None of the sources makes timing, powders, leucine, collagen, or isolates more important than total diet quality, training, and context.
 
 ## What Changed
 - Added Gardner's distinction between average requirement, the buffered RDA, typical U.S. intake, and practical higher-protein eating.
 - Qualified the plant-protein planning claim with evidence that plants contain all essential amino acids and typical digestibility differences are not absolute deficiency.
 - Preserved the source-level tension between muscle-optimization and population-adequacy frames rather than forcing one intake target.
+- Added the distinction between total protein accounting and protein-source suitability for a specific outcome.
+- Qualified the AMA's intake, collagen, and acne claims rather than treating them as universal prescriptions.
 
 ## Related Concepts
 - [[EnergyBalanceAccounting]] - calorie and expenditure frame that protein modifies through satiety and thermic effect.
@@ -58,3 +64,4 @@ This concept is not a protein prescription. Kidney disease, liver disease, pregn
 - [[ExerciseLoadManagement]] - training-dose boundary needed so protein supports adaptation rather than compensating for poor programming.
 - [[WholeFoodMostlyPlantPattern]] - diet-quality frame that places protein choice inside a broader food pattern.
 - [[DietTrialEquipoise]] - comparison principle needed when evaluating high-protein or plant-forward diets.
+- [[ProteinSourceGoalMatching]] - source-quality and intended-outcome branch distinguishing whey, collagen, bone broth, and whole-food proteins.
