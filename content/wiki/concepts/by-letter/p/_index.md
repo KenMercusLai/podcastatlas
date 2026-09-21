@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7795
+wiki_total_pages: 7797
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "PositionSizing"
     title: "Position Sizing"
     url: "/wiki/concepts/positionsizing/"
+  - key: "PositiveAirwayPressureTherapy"
+    title: "Positive Airway Pressure Therapy"
+    url: "/wiki/concepts/positiveairwaypressuretherapy/"
   - key: "PositiveExpectationTraining"
     title: "Positive Expectation Training"
     url: "/wiki/concepts/positiveexpectationtraining/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10440
+wiki_total_pages: 10441
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1637,6 +1637,9 @@ wiki_pages:
   - key: "LiShuLateHan"
     title: "李术 / Li Shu (late Han)"
     url: "/wiki/entities/lishulatehan/"
+  - key: "LiJieRespiratoryDoctor"
+    title: "李杰 / Li Jie (Respiratory Physician)"
+    url: "/wiki/entities/lijierespiratorydoctor/"
   - key: "LiJieJAndT"
     title: "李杰（极兔）"
     url: "/wiki/entities/lijiejandt/"

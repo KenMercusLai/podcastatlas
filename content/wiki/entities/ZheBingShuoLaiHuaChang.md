@@ -30,6 +30,7 @@ sources:
   - vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy
   - vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio
   - vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb
+  - vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv
 last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
@@ -78,6 +79,8 @@ VOL.164 adds a tobacco-control and cessation branch through [[LiDoctorSmokingCes
 
 VOL.162 adds a dedicated hypertension branch through [[DaLunDingHypertensionGuest|大伦丁老师]] and [[XiaoLeiHypertensionGuest|小磊]]. The episode turns an asymptomatic younger-adult diagnosis into [[HypertensionLongTermManagement]] by joining ambulatory confirmation, [[HomeBloodPressureMeasurement]], [[AntihypertensiveMedicationAdherence]], follow-up, normalized work stress, sleep, food and activity patterns, and [[HypertensionTargetOrganDamage]] while keeping thresholds and individual treatment source-scoped.
 
+VOL.155 adds a sleep-disordered-breathing branch through [[XueXiaofan|薛小凡]] and [[LiJieRespiratoryDoctor|李杰]]. It turns snoring, witnessed pauses, daytime impairment, risk factors, wearables, questionnaires, and polysomnography into [[ObstructiveSleepApneaRecognition]], then explains [[PositiveAirwayPressureTherapy]] through indication, titration, masks, comfort, data, and follow-up rather than treating a home device as either ICU ventilation or a universal anti-snoring product.
+
 ## Key Characteristics
 - Uses specialist guests to explain medical, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
@@ -104,15 +107,16 @@ VOL.162 adds a dedicated hypertension branch through [[DaLunDingHypertensionGues
 - Liver health and fatty-liver management: [[vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb]] connects limited early pain signaling, liver tests and imaging, fatty-liver progression, cause review, medicines and herbal products, alcohol, diet, activity, sleep, and clinician-guided treatment.
 - Lifestyle and consumer literacy: [[vol-217-tingzhi-shenhua-jianfeizhen-bu-aie-bu-jie-tanshui-zhe-cai-shi-putongren-gai-chao-de-jianzhong-zuoye-llat-yskrqmro0kdjwuoegdcalu5]], [[vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z]], [[vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o]], and [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] turn weight, injections, CGM, carbohydrates, sugar, labels, sweeteners, supplements, functional-food identity, electrolyte drinks, fish oil, and meal replacements into bounded behavior and medical-risk questions.
 - Internet medical vocabulary: [[vol-216-tingzhi-shenhua-qianeye-bie-rang-wangluo-reci-biancheng-nide-zhenduanshu-lp0cll17cydzmh36sawfj7-rjwur]] rejects single-region or casual psychiatric explanations while preserving clinical escalation thresholds for persistent or worsening behavior change.
+- Sleep-disordered breathing: [[vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv]] turns snoring, nocturnal breathing changes, daytime symptoms, risk factors, consumer screening, polysomnography, treatment options, and home positive-airway-pressure adherence into a qualified-care pathway.
 - Workplace and education psychology: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] uses school-authority drama to explain parent projection, workplace bullying, psychological boundaries, evidence preservation, complaint channels, and professional support.
 
 ## Qualifications
-The page is based only on twenty-seven ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on twenty-eight ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education, not individualized medical, sleep-medicine, respiratory, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.156 adds a liver-health branch spanning silent injury, fatty-liver cause review, medicines and herbal products, alcohol, diet, exercise, sleep, and treatment boundaries.
-- The current show profile now distinguishes symptom relief or a consumer “liver-protection” ritual from evidence of liver safety.
-- Progression timelines, diet and exercise mechanisms, alcohol practices, and sponsored medication claims remain source-scoped public education.
+- VOL.155 adds a sleep-disordered-breathing branch spanning recognition, clinical testing, treatment choice, and home-device adherence.
+- The current profile now distinguishes home noninvasive positive-airway-pressure support from invasive ventilation and simple anti-snoring products.
+- OSA prevalence, diagnostic thresholds, device comparisons, and patient outcomes remain source-scoped public education.
 
 ## Relationships
 - [[Atang]] - recurring host voice in the ingested episodes.
@@ -242,3 +246,7 @@ The page is based only on twenty-seven ingested episode notes. It should not be 
 - [[FattyLiverCauseDirectedManagement]] - progression, exposure review, lifestyle, and clinician-care frame developed by the show.
 - [[HerbalSupplementLiverToxicity]] - medicine and herbal-product safety boundary reinforced by VOL.156.
 - [[AlcoholLiverHarmBoundary]] - distinction between reducing drinking discomfort and preventing liver harm.
+- [[XueXiaofan]] - neurology and sleep-medicine guest connecting daytime complaints with nocturnal breathing disorders.
+- [[LiJieRespiratoryDoctor]] - respiratory physician explaining OSA testing, treatment, and device use.
+- [[ObstructiveSleepApneaRecognition]] - symptom, risk, screening, diagnostic, and complication pathway added by VOL.155.
+- [[PositiveAirwayPressureTherapy]] - home treatment and adherence framework added by VOL.155.
