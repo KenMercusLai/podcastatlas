@@ -1773,6 +1773,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "544-the-french-revolution-the-september-massacres-part-1-glt8301042051": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "545-the-french-revolution-the-first-feminist-part-2-glt4335903757": [
     {
       "key": "history",
@@ -59352,6 +59359,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "RevolutionaryAtrocityNarrativeContest": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "RevolutionaryMartyrdomImageMaking": [

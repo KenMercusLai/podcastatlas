@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10458
+wiki_total_pages: 10462
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1151,6 +1151,9 @@ wiki_pages:
   - key: "StanfordUniversity"
     title: "Stanford University"
     url: "/wiki/entities/stanforduniversity/"
+  - key: "StanislasMaillard"
+    title: "Stanislas Maillard"
+    url: "/wiki/entities/stanislasmaillard/"
   - key: "StanleyDruckenmiller"
     title: "Stanley Druckenmiller"
     url: "/wiki/entities/stanleydruckenmiller/"

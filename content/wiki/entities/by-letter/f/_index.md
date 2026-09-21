@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10458
+wiki_total_pages: 10462
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "FranzKromer"
     title: "Franz Kromer / 弗朗兹·克罗默"
     url: "/wiki/entities/franzkromer/"
+  - key: "FrancoisJourgniacSaintMeard"
+    title: "François Jourgniac Saint-Méard"
+    url: "/wiki/entities/francoisjourgniacsaintmeard/"
   - key: "FraserMcIlwraith"
     title: "Fraser McIlwraith"
     url: "/wiki/entities/frasermcilwraith/"

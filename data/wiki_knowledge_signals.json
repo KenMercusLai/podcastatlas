@@ -26233,9 +26233,9 @@
       "url": "/wiki/concepts/crisisrumordeamplification/"
     },
     "CrisisValidatedConspiracyPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -26243,9 +26243,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/crisisvalidatedconspiracypolitics/"
     },
     "CrisisWithdrawalSelfProtection": {
@@ -44661,6 +44668,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/francoscottishalliance/"
     },
+    "FrancoisJourgniacSaintMeard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/francoisjourgniacsaintmeard/"
+    },
     "FrancoisPienaar": {
       "episode_count": 1,
       "show_count": 1,
@@ -44939,9 +44962,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -44977,6 +45000,13 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
       "updated": "2026-09-22",
@@ -48595,9 +48625,9 @@
       "url": "/wiki/entities/georgewhitman/"
     },
     "GeorgesDanton": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48612,9 +48642,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/georgesdanton/"
     },
     "GeorgetownLawCenterOnPrivacyTechnology": {
@@ -63824,9 +63861,9 @@
       "url": "/wiki/entities/jeanjacquesrousseau/"
     },
     "JeanPaulMarat": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -63848,9 +63885,16 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/jeanpaulmarat/"
     },
     "JeanPaulSartre": {
@@ -80446,6 +80490,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/marianne/"
     },
+    "MarieAntoinette": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/marieantoinette/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -81117,9 +81177,9 @@
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -81148,6 +81208,13 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
       "updated": "2026-09-22",
@@ -97246,6 +97313,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/princesstaiping/"
     },
+    "PrincesseDeLamballe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/princessedelamballe/"
+    },
     "PrincipledOfficeRefusal": {
       "episode_count": 4,
       "show_count": 1,
@@ -103213,6 +103296,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/revolute/"
     },
+    "RevolutionaryAtrocityNarrativeContest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
+    },
     "RevolutionaryFactionalOutflanking": {
       "episode_count": 1,
       "show_count": 1,
@@ -103316,10 +103415,26 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
     },
+    "RevolutionaryPopularJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/revolutionarypopularjustice/"
+    },
     "RevolutionaryTerrorPolitics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -103334,9 +103449,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryterrorpolitics/"
     },
     "RevolutionaryTribunal": {
@@ -107672,9 +107794,9 @@
       "url": "/wiki/concepts/separatedcampmutualsupportrisk/"
     },
     "SeptemberMassacres": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -107689,9 +107811,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/septembermassacres/"
     },
     "SeriousMentalIllnessFamilyCareBoundary": {
@@ -113750,6 +113879,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/stanfordneuromodulationtherapy/"
+    },
+    "StanislasMaillard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8301042051 [GLT8301042051].md",
+          "key": "544-the-french-revolution-the-september-massacres-part-1-glt8301042051",
+          "show": "The Rest Is History",
+          "title": "544. The French Revolution: The September Massacres (Part 1)",
+          "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/stanislasmaillard/"
     },
     "StanleyDruckenmiller": {
       "episode_count": 3,

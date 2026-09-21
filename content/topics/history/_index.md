@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1914
+topic_total_pages: 1916
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -958,6 +958,9 @@ topic_concepts:
   - key: "RetainerRiskConversion"
     title: "Retainer Risk Conversion / 门客风险转化"
     url: "/wiki/concepts/retainerriskconversion/"
+  - key: "RevolutionaryAtrocityNarrativeContest"
+    title: "Revolutionary Atrocity Narrative Contest"
+    url: "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
   - key: "RewardAllocationBacklash"
     title: "Reward Allocation Backlash / 分配反噬"
     url: "/wiki/concepts/rewardallocationbacklash/"
@@ -4566,6 +4569,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "544-the-french-revolution-the-september-massacres-part-1-glt8301042051"
+    title: "544. The French Revolution: The September Massacres (Part 1)"
+    url: "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
   - key: "545-the-french-revolution-the-first-feminist-part-2-glt4335903757"
     title: "545. The French Revolution: The First Feminist (Part 2)"
     url: "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"

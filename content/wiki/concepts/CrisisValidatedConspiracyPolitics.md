@@ -4,56 +4,60 @@ type: concept
 tags: [politics, conspiracy, crisis, radicalization]
 sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
+  - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-09-22
 ---
 
 # Crisis-Validated Conspiracy Politics
 
 ## Definition
 
-Crisis-validated conspiracy politics occurs when a genuine betrayal or hidden plot gives excessive credibility to a much wider worldview in which disagreement, failure, and independent action are routinely attributed to coordinated enemies.
+Crisis-validated conspiracy politics occurs when genuine danger or a real hidden plot gives excessive credibility to a wider worldview in which disagreement, failure, social marginality, and independent action are attributed to coordinated internal enemies.
 
 ## Current Synthesis
 
-The episode's key case is General Dumouriez: his attempted move against Paris and defection to Austria confirmed a specific accusation by [[JeanPaulMarat|Marat]]. That real betrayal made broad internal-enemy claims harder to challenge, while the later insistence that [[CharlotteCorday|Corday]] must belong to a larger plot showed how validated suspicion could crowd out evidence of lone political agency.
+The September 1792 case shows the pattern before a specific betrayal was confirmed: Prussian invasion, the fall of frontier fortresses, and the Brunswick threat made rumors of prison breakouts, noblemen in sewers, hidden weapons, and coordinated traitors politically actionable. The 1793 Dumouriez case then supplied genuine betrayal that validated Marat's broader worldview, while investigators' insistence that [[CharlotteCorday|Corday]] belonged to a larger plot showed how crisis-trained suspicion could erase lone agency.
 
 ## Key Claims
 
-- A real conspiracy can strengthen unrelated and weakly evidenced conspiracy claims.
-- Correct prediction can transfer authority from one specific allegation to an entire political worldview.
-- Multi-front crisis lowers the social cost of treating opponents as concealed enemies rather than political rivals.
-- Investigators can become less accurate when they assume that consequential action must be centrally coordinated.
-- The combination of real threat and overgeneralized suspicion is more politically durable than wholly fabricated panic.
+- Real external threat can make unsupported internal-conspiracy claims feel immediately credible.
+- A confirmed betrayal can transfer authority from one allegation to an entire enemy worldview.
+- Repeated official warnings and raids can convert rumor into administrative and popular action.
+- Enemy categories tend to widen from plausible political suspects to criminals and socially marginal people.
+- Investigators become less accurate when they assume consequential action must be centrally coordinated.
+- Real threat joined to overgeneralized suspicion is more durable than wholly fabricated panic.
 
 ## Evidence
 
-### Dumouriez's defection
+### Invasion panic and rumor
 
-- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] says Dumouriez tried to turn his army toward Paris, failed, and defected to Austria, confirming Marat's earlier allegation of treason.
+- [[544-the-french-revolution-the-september-massacres-part-1-glt8301042051]] connects the Prussian advance and Verdun's fall to rumors, raids, internal-enemy lists, prison panic, and preventive killing.
 
-### Girondin vulnerability
+### Dumouriez's defection and Girondin vulnerability
 
-- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] connects the defection of a former Girondin minister to collapsing factional credibility and easier removal of deputies' immunity.
+- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] says Dumouriez attempted action against Paris and defected to Austria, confirming Marat's specific allegation and damaging Girondin credibility.
 
 ### Corday interrogation
 
-- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] shows officials repeatedly searching for a Girondin or foreign conspiracy despite Corday's consistent claim that she acted alone.
+- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] shows officials searching for a Girondin or foreign conspiracy despite Corday's consistent lone-action account.
 
 ## Counterevidence & Qualifications
 
-- The concept does not imply that all revolutionary security fears were delusional; Dumouriez's conduct and the foreign war were real.
-- Marat being correct about one traitor does not establish that his broader enemy lists or execution demands were justified.
-- Corday's lone-action account is presented by the episode as credible, but the source does not reproduce the full archival investigation.
+- The concept does not imply that revolutionary security fears were delusional; invasion and Dumouriez's conduct were real.
+- Real danger did not establish individual prisoner guilt or validate Marat's wider enemy lists.
+- The source does not reproduce every raid record, destroyed section document, or the full Corday investigation.
+- Some coordination existed in the September killings; rejecting a central command does not mean all action was spontaneous.
 
 ## What Changed
 
-- The wiki now captures how genuine betrayal can validate an overbroad conspiracy framework.
-- The Corday investigation adds an agency-blindness consequence: authorities may miss decentralized or individual motives.
+- The concept now includes the earlier pathway from external invasion to unsupported internal-enemy panic.
+- Administrative raids, local killing, and widening victim categories show how conspiracy belief becomes action before a specific plot is confirmed.
 
 ## Related Concepts
 
 - [[RevolutionaryTerrorPolitics]] - political system amplified by generalized internal-enemy suspicion.
+- [[RevolutionaryPopularJustice]] - punitive form through which conspiracy fear became selective prison killing.
 - [[EmergencyInstitutionsToTerror]] - institutional response enabled by expanded threat perception.
-- [[ConspiracyTheoryPatternSeeking]] - adjacent cognitive tendency to integrate events into a hidden coordinated pattern.
+- [[ConspiracyTheoryPatternSeeking]] - adjacent tendency to integrate events into a hidden coordinated pattern.
 - [[PoliticalAssassinationEthics]] - neighboring frame for Corday's independently conceived violence.

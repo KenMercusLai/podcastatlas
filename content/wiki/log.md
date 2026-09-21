@@ -21222,3 +21222,11 @@ Added source `how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 544. The French Revolution: The September Massacres (Part 1)
+
+Added source `544-the-french-revolution-the-september-massacres-part-1-glt8301042051`; created `PrincesseDeLamballe`, `MarieAntoinette`, `FrancoisJourgniacSaintMeard`, `StanislasMaillard`, `RevolutionaryPopularJustice`, and `RevolutionaryAtrocityNarrativeContest`; updated `FrenchRevolution`, `SeptemberMassacres`, `GeorgesDanton`, `JeanPaulMarat`, `MaximilienRobespierre`, `RevolutionaryTerrorPolitics`, `CrisisValidatedConspiracyPolitics`, and the index. Core synthesis: the September Massacres were organized but distributed prison killings in which invasion panic, rumor, incitement, local networks, improvised tribunals, public approval, and leadership non-intervention made selective killing appear as preventive justice. The source conflicts with episode 707's approximate toll (around 1,000 versus roughly 1,500) and distinguishes documented violence from uncertain or unsupported Lamballe atrocity stories. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

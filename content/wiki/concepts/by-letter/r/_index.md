@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7816
+wiki_total_pages: 7818
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "ReverseNewCoBiotechModel"
     title: "Reverse NewCo Biotech Model"
     url: "/wiki/concepts/reversenewcobiotechmodel/"
+  - key: "RevolutionaryAtrocityNarrativeContest"
+    title: "Revolutionary Atrocity Narrative Contest"
+    url: "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
   - key: "RevolutionaryDestructionOfCivilianLife"
     title: "Revolutionary Destruction Of Civilian Life / 革命对日常生活的摧毁"
     url: "/wiki/concepts/revolutionarydestructionofcivilianlife/"
@@ -707,6 +710,9 @@ wiki_pages:
   - key: "RevolutionaryOperaCulturalMemory"
     title: "Revolutionary Opera Cultural Memory"
     url: "/wiki/concepts/revolutionaryoperaculturalmemory/"
+  - key: "RevolutionaryPopularJustice"
+    title: "Revolutionary Popular Justice"
+    url: "/wiki/concepts/revolutionarypopularjustice/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"
