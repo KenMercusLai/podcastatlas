@@ -8,7 +8,8 @@ sources:
   - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
   - essentials-protocols-to-improve-vision-eyesight-scim1823781754
-last_updated: 2026-09-21
+  - essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634
+last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The Talk三联 social-jetlag episode makes the light contrast problem more socia
 The daily-tools episode places the same anchor inside a concrete morning sequence. It pairs outdoor light with a walk and presents the combination as a way to provide circadian timing, alertness, and an alert-but-less-anxious transition into focused work. The optic-flow mechanism remains source-scoped, but the episode strengthens the practical case for combining daylight with repeatable outdoor movement.
 
 The vision Essentials episode supplies a retinal mechanism for the same practice. It describes melanopsin retinal ganglion cells as environmental-light sensors that inform circadian timing and wider physiological state, and it places early-day exposure inside a broader pattern of safe daytime outdoor light. Its two-to-ten-minute example and claims about dopamine, blood sugar, pain threshold, and appetite remain source-scoped rather than universal prescriptions.
+
+The cortisol-and-adrenaline Essentials episode makes the endocrine purpose explicit: morning outdoor light is presented as a way to place the day's main cortisol rise soon after waking so alertness is supported early rather than carrying an unwanted activation signal into the night. Its weather-adjusted durations differ slightly from the sleep-toolkit episode, reinforcing that the durable claim is bright outdoor timing rather than one universal minute count.
 
 The sources also keep safety and practicality visible. The goal is bright environmental exposure without painful or unsafe staring, and the advice can be adjusted around geography, weather, building orientation, and social events. The wedding example extends the same circadian logic into planning: most guests can stay up later more easily than they can become alert much earlier than usual.
 
@@ -52,14 +55,15 @@ The sources also keep safety and practicality visible. The goal is bright enviro
 - Continuous twilight - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] contrasts bright outdoor daylight with dim indoor light and nighttime screen or institutional lighting.
 - Walk pairing - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] places outdoor morning light inside a walking routine and links it to circadian signaling, alertness, and preparation for work.
 - Retinal mechanism - [[essentials-protocols-to-improve-vision-eyesight-scim1823781754]] connects melanopsin retinal ganglion cells and low-solar-angle daylight with circadian timing, wakefulness, and other source-scoped physiological effects.
+- Cortisol timing - [[essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634]] presents outdoor light soon after waking as a way to place the strongest cortisol signal early in the day and support daytime energy and later sleep.
 
 ## Counterevidence & Qualifications
-The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, or clinical treatment protocol. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize. The sources also do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
+The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize. The sources also do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
 
 ## What Changed
-- Added the melanopsin retinal pathway as a mechanism for environmental-light timing.
-- Extended morning exposure into a broader safe-daytime-light and visual-health context.
-- Kept the episode's short-duration and wider physiological-effect claims source-scoped.
+- Added early cortisol placement as an explicit reason for morning outdoor light.
+- Recorded differing weather-adjusted duration examples as a reason not to universalize a minute count.
+- Preserved the melanopsin, safe-daytime-light, and wider physiological-effect boundaries.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account supported by light timing.
@@ -71,3 +75,4 @@ The sources do not establish one universal lux threshold, exposure duration, lat
 - [[StateDependentSelfControl]] - body-state frame affected by sleep and circadian disruption.
 - [[SustainableHealthOptimization]] - anti-perfectionist routine frame that makes the practice adaptable.
 - [[VisualSystemHealthToolkit]] - wider eye-use and retinal-health framework containing this circadian branch.
+- [[StressResponseRecovery]] - stress-timing framework that treats early activation and later recovery as complementary.

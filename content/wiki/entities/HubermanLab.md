@@ -40,7 +40,8 @@ sources:
   - essentials-how-to-build-endurance-scim1120276865
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - essentials-how-to-learn-skills-faster-scim2224786015
-last_updated: 2026-09-21
+  - essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634
+last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -60,7 +61,7 @@ The flexibility Essentials episode adds a solo mechanism-and-protocol branch whe
 
 The [[AndyStumpf]] episode adds an agency-and-risk branch where [[Drownproof]], [[ConcernInfluenceSorting]], [[SlightlyHarderChoice]], wingsuit/base-jump risk, divorce, parenting estrangement, pain disclosure, suicide discussion, and defining enough are treated as one conversation about influence, attention, discipline, vulnerability, and success cost.
 
-The [[ElissaEpel]] episode adds a stress-biology branch where stress appraisal, rumination, recovery, eating behavior, telomeres, mitochondria, caregiving, pregnancy, meditation, radical acceptance, uncertainty tolerance, and positive-stress breathwork are treated as linked but source-scoped regulation problems.
+The [[ElissaEpel]] episode adds a stress-biology branch where stress appraisal, rumination, recovery, eating behavior, telomeres, mitochondria, caregiving, pregnancy, meditation, radical acceptance, uncertainty tolerance, and positive-stress breathwork are treated as linked but source-scoped regulation problems. The cortisol-and-adrenaline Essentials episode makes hormone timing and switchability more explicit: morning light, deliberate short activation, calm regulation, and recovery connect daytime energy to [[AcuteStressImmunePriming]] without turning breathwork, cold, fasting, or supplements into universal medical protocols.
 
 The dopamine/procrastination solo episode deepens the neuromodulator branch by turning dopamine into a baseline, peak, trough, anticipation, reward-prediction, and effort-process system. It adds [[DopaminePeakTroughBaseline]], [[RewardPredictionErrorLearning]], [[DopamineBaselineMaintenance]], [[SafeEffortProcrastinationReset]], and [[EffortAsReward]] while reinforcing anti-stacking, intrinsic-motivation, addiction, stimulant, supplement, cold-exposure, and medical-supervision boundaries.
 
@@ -137,6 +138,8 @@ The motor-skill Essentials episode turns learning into a practice sequence: [[Mo
 
 - Marriage and relationship-law framing: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] has Huberman ask [[JamesSexton]] how contracts, prenups, financial safety, intimacy, trauma, and recurring check-ins shape relationships before and during conflict.
 
+- Stress-hormone and immune framing: [[essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634]] connects cortisol and epinephrine timing to morning light, deliberate activation, calm recovery, immune signaling, meal timing, and chronic-stress boundaries.
+
 ## Qualifications
 This profile is bounded to thirty-seven episode notes. It is not a complete profile of the show's full catalog, editorial process, or scientific stance across all topics. The AI episode is broad and future-facing, so claims about robotics, sensing, creative industries, and WorldLabs remain directional rather than settled technical evidence. The neuromodulator, dopamine/procrastination, immune-system, male-hormone, Norton nutrition, flexibility, sleep-toolkit, Epel stress-biology, Attia longevity, sugar-cravings, and Galpin fitness-assessment episodes include supplement, prescription, breathing, cold-exposure, nicotine, serotonin, vaccine, peptide, cell-banking, meditation, brain-body, testosterone-therapy, clomiphene, tadalafil, hair-treatment, creatine, seed-oil, sweetener, protein, body-composition, static-stretching dose, low-intensity stretching, pre-training timing, yoga pain-tolerance, caffeine timing, alcohol/THC sleep effects, melatonin, red-light, sauna, temperature-minimum, dopamine baseline, dopamine peaks/troughs, reward prediction, L-tyrosine, mucuna pruriens, NSDR, addiction recovery, intrinsic motivation, telomerase, mitochondrial, pregnancy, obesity-medication, mindful-eating, soda-policy, glutamine, cinnamon, lemon/lime juice, berberine, metformin, glibenclamide, sodium caprate, CGM self-experimentation, and Wim Hof claims that remain source-scoped and context-dependent. The Liemandt education episode includes top-percentile achievement, SAT-average, learning-rate, voucher-demand, Founder School guarantee, GT Squared scale, and lower-cost-school claims that remain source-scoped pending independent validation. The Eastwick episode includes app-swipe rates, age-preference data, gendered support patterns, income-effect claims, same-gender dating observations, attachment change, and sexual-satisfaction claims that remain source-scoped relationship science rather than individualized dating or therapy advice. The Willink episode includes exercise, nutrition timing, military leadership, parenting, discipline, detachment, and resilience claims that remain bounded to one guest's lived-practice account. The Q&A episode includes supplement, hormone, fertility, surgery-recovery, and career-advice claims that remain source-scoped and clinically bounded where relevant. The Harris episode is philosophical and experiential, so meditation and psychedelic claims are not treated as clinical protocols or settled neuroscience. The Wood episode includes exercise, concussion, dementia-prevention, peptide, supplement, nutrient-testing, and vaccine claims that remain source-scoped and clinically bounded where needed. The bipolar-disorder and OCD episodes are public medical education rather than individualized psychiatric diagnosis, medication selection, or treatment planning. The Millan episode includes dog-energy, pack-position, spirituality, cold-exposure, and household-leadership claims that remain practical and source-scoped rather than veterinary, ethological, clinical, or universal household guidance. The Portal episode includes sleep-transition, pain, depression, psychedelic-connectivity, body-schema, will, and transformation claims that remain experiential and source-scoped rather than medical, psychiatric, or rehabilitation guidance. The flexibility episode is public education about stretching and range of motion, not physical therapy, injury diagnosis, or individualized rehabilitation. The Stumpf episode includes social-media, alcohol, cannabis, wingsuiting, anterior mid-cingulate, suicide, pain-disclosure, and success-boundary claims that remain source-scoped public conversation rather than mental-health, medical, legal, or extreme-sport instruction. The Galpin episode records numeric fitness thresholds, field-test estimates, and maximal-effort protocols that remain source-scoped practical benchmarks rather than clinical norms or individualized exercise or medical advice.
 
@@ -146,16 +149,17 @@ The daily-tools episode's optic-flow, fasting, 90-minute rhythm, meal compositio
 
 The muscle episode's load, set, failure, rest, grip-force, slow-exhale, cold-exposure, NSAID, creatine, electrolyte, and leucine claims are source-scoped and do not establish medical clearance or an individualized program.
 
-The motor-skill episode's 50,000-person feedback experiment, winner-effect animal work, post-practice replay mechanism, slow-practice thresholds, metronome advantage, Alpha GPC dose and power-output figure, and related neuromodulator claims remain source-scoped rather than individualized coaching, rehabilitation, sleep, or supplement guidance.
+The motor-skill episode's 50,000-person feedback experiment, winner-effect animal work, post-practice replay mechanism, slow-practice thresholds, metronome advantage, Alpha GPC dose and power-output figure, and related neuromodulator claims remain source-scoped rather than individualized coaching, rehabilitation, sleep, or supplement guidance. The cortisol-and-adrenaline episode's endotoxin study, immune windows, chronic-stress thresholds, fasting routine, meal-timing claims, supplement doses and percentages, and hair-graying mechanism likewise remain source-scoped rather than infection prevention, treatment, or individualized endocrine guidance. This addition brings the bounded profile to thirty-eight episode notes.
 
 ## What Changed
-- Added the motor-skill Essentials episode as a repetition-density, stage-matched practice, and post-practice consolidation branch.
-- Kept mental rehearsal, metronome, slow-practice, caffeine, and Alpha GPC claims secondary to safe physical practice and sleep.
-- Added the hearing-and-balance Essentials episode as an auditory attention, sound-state, and visual-vestibular learning branch.
-- Added the Sexton interview as a marriage-contract, prenup, preventive-maintenance, and vulnerability branch.
-- Added the smell-and-taste Essentials episode as a chemosensation, respiratory-state, gustation, olfactory-recovery, and human-chemical-signaling branch.
+- Added the cortisol-and-adrenaline Essentials episode as a hormone-timing, controllable-arousal, and acute-immune branch.
+- Kept endotoxin, fasting, supplement, meal-timing, and exact threshold claims source-scoped and medically bounded.
+- Connected morning light, epinephrine tools, autonomic training, and recovery through one timing-and-duration frame.
 
 ## Relationships
+- [[AcuteStressImmunePriming]] - newest immune branch distinguishing brief sympathetic mobilization from chronic stress cost.
+- [[EpinephrineAlertnessToolkit]] - alertness branch extended by cortisol timing, calm activation, and recovery.
+- [[MorningLightCircadianAnchoring]] - early-day light anchor used to place the main cortisol rise.
 - [[MotorSkillRepetitionDensity]] - newest learning branch connecting safe attempts, errors, persistence, and correction.
 - [[StageMatchedMotorSkillPractice]] - proficiency-dependent branch for slow practice, metronomes, attention, and visualization.
 - [[PostPracticeMotorConsolidation]] - immediate quiet-rest and later-sleep branch after physical practice.

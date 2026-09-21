@@ -21158,3 +21158,11 @@ Added source `vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline
+
+Added source `essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634`; created `AcuteStressImmunePriming`; updated `AndrewHuberman`, `HubermanLab`, `WimHof`, `MorningLightCircadianAnchoring`, `EpinephrineAlertnessToolkit`, `StressResponseRecovery`, `AutonomicStressTraining`, `PositiveStressBreathwork`, and the index. Core synthesis: cortisol and epinephrine are timing-, dose-, duration-, and recovery-dependent signals; brief controllable activation may support alertness and source-scoped immune mobilization, while chronic or mistimed activation can impair immunity and recovery. No settled contradiction found; endotoxin, fasting, supplement, meal-timing, hair-graying, and exact threshold claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -4479,6 +4479,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/acutesportsinjuryescalation/"
     },
+    "AcuteStressImmunePriming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/acutestressimmunepriming/"
+    },
     "AcuteWoundBurnFirstAid": {
       "episode_count": 1,
       "show_count": 1,
@@ -7158,9 +7174,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 37,
+      "episode_count": 38,
       "show_count": 1,
-      "source_note_count": 37,
+      "source_note_count": 38,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7420,9 +7436,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewLoogOldham": {
@@ -10550,9 +10573,9 @@
       "url": "/wiki/concepts/automotiveovercapacityrestructuring/"
     },
     "AutonomicStressTraining": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -10574,9 +10597,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/autonomicstresstraining/"
     },
     "AutonomousDrivingDataFlywheel": {
@@ -38340,9 +38370,9 @@
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -38357,9 +38387,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
     },
     "EpistemicInjusticeExperienceSilencing": {
@@ -58217,9 +58254,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 37,
+      "episode_count": 38,
       "show_count": 1,
-      "source_note_count": 37,
+      "source_note_count": 38,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -58479,9 +58516,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HudecShanghaiArchitect": {
@@ -84379,9 +84423,9 @@
       "url": "/wiki/concepts/moralslanderreframing/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -84417,9 +84461,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Protocols to Improve Vision & Eyesight",
           "url": "/wiki/sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -95040,9 +95091,9 @@
       "url": "/wiki/concepts/positivemasculinitycode/"
     },
     "PositiveStressBreathwork": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -95050,9 +95101,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/positivestressbreathwork/"
     },
     "Post911CounterterrorismArchitecture": {
@@ -114187,9 +114245,9 @@
       "url": "/wiki/concepts/stresseatingrewardloop/"
     },
     "StressResponseRecovery": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -114197,9 +114255,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/stressresponserecovery/"
     },
     "StressUrinaryIncontinence": {
@@ -129115,9 +129180,9 @@
       "url": "/wiki/entities/williewhitelaw/"
     },
     "WimHof": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -129125,9 +129190,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM1515778634 [SCIM1515778634].md",
+          "key": "essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634",
+          "show": "Huberman Lab",
+          "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
+          "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/wimhof/"
     },
     "Wine": {

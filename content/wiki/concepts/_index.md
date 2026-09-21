@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7797
+wiki_total_pages: 7798
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "AcuteSportsInjuryEscalation"
     title: "Acute Sports Injury Escalation / 急性运动损伤升级"
     url: "/wiki/concepts/acutesportsinjuryescalation/"
+  - key: "AcuteStressImmunePriming"
+    title: "Acute Stress Immune Priming"
+    url: "/wiki/concepts/acutestressimmunepriming/"
   - key: "AcuteWoundBurnFirstAid"
     title: "Acute Wound and Burn First Aid / 急性伤口与烫伤急救"
     url: "/wiki/concepts/acutewoundburnfirstaid/"

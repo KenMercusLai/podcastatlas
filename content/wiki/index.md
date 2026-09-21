@@ -2657,6 +2657,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Find & Be a Great Romantic Partner | Lori Gottlieb](sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639.md) — Huberman Lab interview on emotional regulation, familiar relationship patterns, partner selection, conflict repair, breakups, grief, and intentional living.
 - [How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman](sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849.md) — Huberman Lab interview on oral microbial ecology, saliva, tooth mineral balance, airway development, periodontal-systemic evidence, and fluoride risk-benefit questions.
 
+- [Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634.md) — Huberman Lab episode on cortisol and epinephrine timing, morning light, deliberate arousal, acute immune signaling, chronic-stress costs, and recovery boundaries.
+
 ## Entities
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
 - [Alfred the Great](entities/AlfredTheGreat.md) — West Saxon ruler whose defense, fortified towns, trade policy, and political identity underpin later English unification.
@@ -20911,5 +20913,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Oral-Airway Development](concepts/OralAirwayDevelopment.md) — Interaction among nasal breathing, chewing, tongue function, craniofacial growth, obstruction, and sleep across childhood and adulthood.
 - [Periodontal-Systemic Health Evidence Boundary](concepts/PeriodontalSystemicHealthBoundary.md) — Boundary separating serious gum disease and plausible systemic pathways from individualized causal claims about distant disease.
 - [Fluoride Risk-Benefit Boundary](concepts/FluorideRiskBenefitBoundary.md) — Framework separating topical anticaries action, dose and route, cumulative exposure, alternatives, adverse-effect evidence, and water policy.
+
+- [Acute Stress Immune Priming](concepts/AcuteStressImmunePriming.md) — Source-scoped distinction between brief sympathetic immune mobilization and chronic stress-related immune dysregulation.
 
 ## Syntheses

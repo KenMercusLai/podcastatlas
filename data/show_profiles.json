@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "SCIM5641095924 [SCIM5641095924].md",
-      "source_note_count": 74,
+      "source_note_count": 75,
       "topic_matched_source_note_count": 50,
       "topics": [
         {
@@ -512,7 +512,7 @@
           "title": "Andrew Huberman",
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
-          "episode_count": 37
+          "episode_count": 38
         },
         {
           "key": "DavidAnderson",
@@ -533,6 +533,13 @@
           "title": "University of California San Francisco",
           "url": "/wiki/entities/universityofcaliforniasanfrancisco/",
           "kind": "organization",
+          "episode_count": 2
+        },
+        {
+          "key": "WimHof",
+          "title": "Wim Hof",
+          "url": "/wiki/entities/wimhof/",
+          "kind": "person",
           "episode_count": 2
         }
       ],
