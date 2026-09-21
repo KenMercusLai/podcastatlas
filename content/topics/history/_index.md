@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1908
+topic_total_pages: 1909
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4566,6 +4566,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693"
+    title: "550. The Road to 1066: Rise of the Normans (Part 3)"
+    url: "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
   - key: "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299"
     title: "551. The Road to 1066: Countdown to Conquest (Part 4)"
     url: "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"

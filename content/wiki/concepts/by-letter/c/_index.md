@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7777
+wiki_total_pages: 7779
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "CashCowStrategicInertia"
     title: "Cash Cow Strategic Inertia"
     url: "/wiki/concepts/cashcowstrategicinertia/"
+  - key: "CastleBasedPrivateLordship"
+    title: "Castle-Based Private Lordship"
+    url: "/wiki/concepts/castlebasedprivatelordship/"
   - key: "CasualtySparingSurrender"
     title: "Casualty-Sparing Surrender / 保全生灵式投降"
     url: "/wiki/concepts/casualtysparingsurrender/"

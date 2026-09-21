@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [550. The Road to 1066: Rise of the Normans (Part 3)](sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693.md) — The Rest Is History episode on Norman castle lordship, William's violent minority, the post-Cnut English succession crisis, and Edward's restoration.
 - [551. The Road to 1066: Countdown to Conquest (Part 4)](sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299.md) — The Rest Is History episode on Godwin family ascent, Edward and Edith's childlessness, Harold's rise and disputed oath, Tostig's failed Northumbrian rule, and the factional prehistory of 1066.
 - [Essentials: How to Learn Skills Faster](sources/essentials-how-to-learn-skills-faster-scim2224786015.md) — Huberman Lab Essentials episode on repetition density, safe errors, stage-matched motor practice, quiet post-practice consolidation, sleep, and mental-rehearsal limits.
 - [Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer](sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508.md) — Huberman Lab interview on metabolic psychiatry, mitochondrial lifestyle inputs, ketogenic and adjunct interventions, diagnosis-mechanism boundaries, and emerging biomarkers.
@@ -3933,12 +3934,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joseph Stiglitz](entities/JosephStiglitz.md) — Columbia economist arguing for corporate-profit taxation and loophole closure as an AI-era revenue response.
 - [Bayeux Tapestry](entities/BayeuxTapestry.md) — Medieval embroidered artwork narrating the Norman Conquest and serving as a durable object of political and violence memory.
 - [British Museum](entities/BritishMuseum.md) — Cultural institution hosting the Bayeux Tapestry's source-described first exhibition outside France.
-- [Edward the Confessor](entities/EdwardTheConfessor.md) — English king whose succession politics open the Bayeux Tapestry's Norman Conquest narrative.
+- [Edward the Confessor](entities/EdwardTheConfessor.md) — West Saxon exile restored after the post-Cnut crisis whose childlessness later opens the 1066 succession struggle.
 - [Harold Godwinson](entities/HaroldGodwinson.md) — English king whose oath, defeat, death, leadership absence, and contested bodily afterlife shape conquest memory.
 - [Michael Lewis (Curator)](entities/MichaelLewisCurator.md) — Curator-side speaker explaining the Bayeux Tapestry's graphic visual immediacy and violence-memory frame.
 - [Nick Cullinan](entities/NickCullinan.md) — Museum-side speaker emphasizing the Bayeux Tapestry's missing evidence, unknown makers, and interpretive openness.
 - [Shira Ovide](entities/ShiraOvide.md) — Technology-business speaker explaining Reddit's AI-era referral, licensing, and community-data exposure.
-- [William the Conqueror](entities/WilliamTheConqueror.md) — Norman claimant who converts Hastings into coronation, coercive consolidation, elite replacement, and administrative rule.
+- [William the Conqueror](entities/WilliamTheConqueror.md) — Child duke who survives castle anarchy before converting Hastings into coronation, coercive consolidation, and rule.
+- [Emma of Normandy](entities/EmmaOfNormandy.md) — Norman-born English queen and dynastic broker across West Saxon and Danish succession claims.
+- [Robert the Magnificent](entities/RobertTheMagnificent.md) — Norman duke whose pilgrimage death leaves William a recognized but vulnerable child successor.
 - [Rick Knudtson](entities/RickKnudtson.md) — Repeat SaaS founder whose Workshop story shows a customer-signal-driven pivot from intranet to internal email.
 - [Workshop](entities/WorkshopInternalComms.md) — Enterprise internal communications SaaS that found product-market fit around email-centered multi-channel messaging.
 - [Flywheel (WordPress Hosting)](entities/FlywheelWordPressHosting.md) — Rick Knudtson's prior WordPress hosting company and the operating context behind Workshop's origin.
@@ -14272,7 +14275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Immigration Court Throughput Pressure](concepts/ImmigrationCourtThroughputPressure.md) — Procedural condition where high-volume immigration hearings, weak notice, and lack of lawyers help convert arrests into removal orders.
 - [Medieval Visual Political Narrative](concepts/MedievalVisualPoliticalNarrative.md) — Visual storytelling mode where medieval sequence, symbols, and material craft make political legitimacy claims.
 - [Battle of Hastings](concepts/BattleOfHastings.md) — 1066 battle understood through William's decisive gamble, Harold's defensive endurance, line fracture, and contested death evidence.
-- [Norman Conquest of England](concepts/NormanConquestOfEngland.md) — 1066 invasion and consolidation interpreted through legitimacy, elite replacement, repression, and Anglo-Saxon institutional inheritance.
+- [Norman Conquest of England](concepts/NormanConquestOfEngland.md) — Invasion and consolidation rooted in Norman castle control, English succession instability, elite replacement, repression, and institutional inheritance.
 - [Technology-Assisted Interior Enforcement](concepts/TechnologyAssistedInteriorEnforcement.md) — Funded, data-aided immigration enforcement inside the United States through target-listing tools, multi-dataset integration, and downstream court pressure.
 - [Customer Signal Driven Pivot](concepts/CustomerSignalDrivenPivot.md) — Product-market-fit pattern where repeated customer evidence forces a product or positioning change.
 - [Enterprise Internal Email Infrastructure](concepts/EnterpriseInternalEmailInfrastructure.md) — Enterprise communications frame treating internal email as governed, measurable, deliverable infrastructure.
@@ -14877,7 +14880,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dynastic Scandal Suppression](concepts/DynasticScandalSuppression.md) — Pattern where a ruling house converts private catastrophe into controlled public story, ritual repair, and asymmetric erasure.
 - [Catholic Burial Legitimacy](concepts/CatholicBurialLegitimacy.md) — Problem of making a politically important death eligible for Catholic rites when suicide threatens burial legitimacy.
 - [Dynastic Heir Loss Shock](concepts/DynasticHeirLossShock.md) — Succession disruption created when a ruling house abruptly loses the expected direct heir.
-- [Anglo-Norman Succession Legitimacy](concepts/AngloNormanSuccessionLegitimacy.md) — Multi-source legitimacy field where blood, oath, coronation, anointing, force, presence, and order-making decide twelfth-century English kingship.
+- [Anglo-Norman Succession Legitimacy](concepts/AngloNormanSuccessionLegitimacy.md) — Multi-source field where blood, designation, presence, treasure, oath, ritual, force, and order-making combine into kingship.
+- [Castle-Based Private Lordship](concepts/CastleBasedPrivateLordship.md) — Medieval system joining fortification, mounted warriors, peasant extraction, village concentration, and territorial authority.
+- [Post-Cnut English Succession Crisis](concepts/PostCnutEnglishSuccessionCrisis.md) — 1035-1043 contest in which presence, treasure, elite backing, exile, and premature deaths reordered English claims.
 - [Medieval Female Sovereignty Constraint](concepts/MedievalFemaleSovereigntyConstraint.md) — Legitimacy problem where women can transmit or represent royal authority more easily than occupy independent warrior-king sovereignty.
 - [Fin-de-Siecle Vienna Crisis Reading](concepts/FinDeSiecleViennaCrisisReading.md) — Interpretation of Mayerling through late nineteenth-century Viennese culture, inner-life language, and Habsburg decline.
 - [Eunuch Patronage Violence Shield / 宦官庇护下的地方暴行](concepts/EunuchPatronageViolenceShield.md) — Pattern where eunuch access or complaint channels shield corruption, witness suppression, property extraction, servants, guests, or local violence and can turn enforcement against enforcers.

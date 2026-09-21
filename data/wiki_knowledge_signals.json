@@ -7568,9 +7568,9 @@
       "url": "/wiki/concepts/angelicintelligence/"
     },
     "AngloNormanSuccessionLegitimacy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3399401666 [GLT3399401666].md",
@@ -7592,6 +7592,13 @@
           "show": "The Rest Is History",
           "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
           "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        },
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
         }
       ],
       "updated": "2026-09-21",
@@ -17646,6 +17653,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/caseyhalpern/"
+    },
+    "CastleBasedPrivateLordship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/castlebasedprivatelordship/"
     },
     "CatastrophicFailureRootCauseInvestigation": {
       "episode_count": 1,
@@ -34109,9 +34132,9 @@
       "url": "/wiki/entities/edwardiiofengland/"
     },
     "EdwardTheConfessor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -34133,6 +34156,13 @@
           "show": "The Rest Is History",
           "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
           "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        },
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
         }
       ],
       "updated": "2026-09-21",
@@ -35086,6 +35116,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/emergentinnovationstrategy/"
+    },
+    "EmmaOfNormandy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/emmaofnormandy/"
     },
     "EmmaThomas": {
       "episode_count": 1,
@@ -87006,9 +87052,9 @@
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NormanConquestOfEngland": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -87044,6 +87090,13 @@
           "show": "The Rest Is History",
           "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
           "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        },
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
         }
       ],
       "updated": "2026-09-21",
@@ -94504,6 +94557,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/postbrexitstrategicidentity/"
+    },
+    "PostCnutEnglishSuccessionCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/postcnutenglishsuccessioncrisis/"
     },
     "PostDefeatForceReconstitution": {
       "episode_count": 1,
@@ -102604,6 +102673,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/robertnapier/"
+    },
+    "RobertTheMagnificent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/robertthemagnificent/"
     },
     "RobertoRidolfi": {
       "episode_count": 1,
@@ -128207,9 +128292,9 @@
       "url": "/wiki/entities/williamshakespeare/"
     },
     "WilliamTheConqueror": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -128245,6 +128330,13 @@
           "show": "The Rest Is History",
           "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
           "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        },
+        {
+          "episode_file": "GLT9316865693 [GLT9316865693].md",
+          "key": "550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693",
+          "show": "The Rest Is History",
+          "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
+          "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
         }
       ],
       "updated": "2026-09-21",

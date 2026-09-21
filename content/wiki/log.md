@@ -21096,3 +21096,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 550. The Road to 1066: Rise of the Normans (Part 3)
+
+Added source `550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693`; created `EmmaOfNormandy`, `RobertTheMagnificent`, `CastleBasedPrivateLordship`, and `PostCnutEnglishSuccessionCrisis`; updated `WilliamTheConqueror`, `EdwardTheConfessor`, `NormanConquestOfEngland`, `AngloNormanSuccessionLegitimacy`, and the index. Core synthesis: castle, cavalry, extraction, and village concentration formed a double-edged system that could project ducal power or enable warlord fragmentation, while William's survival and 1047 reconsolidation ran in parallel with the post-Cnut deaths and coalition shifts that restored Edward from Norman exile. No settled contradiction found; Norman moral descriptions, Robert's motives, illegitimacy, Emma's summons, Harthacnut's arrangements, and psychological claims about William remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

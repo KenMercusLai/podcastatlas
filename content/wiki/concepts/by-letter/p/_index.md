@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7777
+wiki_total_pages: 7779
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "PostBrexitStrategicIdentity"
     title: "Post-Brexit Strategic Identity"
     url: "/wiki/concepts/postbrexitstrategicidentity/"
+  - key: "PostCnutEnglishSuccessionCrisis"
+    title: "Post-Cnut English Succession Crisis"
+    url: "/wiki/concepts/postcnutenglishsuccessioncrisis/"
   - key: "PostCoalitionSpoilsImbalance"
     title: "Post-Coalition Spoils Imbalance / 联军战后利益失衡"
     url: "/wiki/concepts/postcoalitionspoilsimbalance/"
