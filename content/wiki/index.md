@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻](sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u.md) — 不懂球 episode with Feng Zhen on treating Asian competition seriously while protecting league continuity, improving match supply and squad depth, and using naturalization only as a bounded short-term tool.
 - [《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？](sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz.md) — 周瑜病逝后鲁肃接掌军队并主张让刘备获得荆州立足点，孙刘联盟由战时合作转向更持久的战略牵制，同时以吕蒙读书和庞统获荐讨论人才成长与纠错。
 - [商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务](sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596.md) — 商业就是这样 short episode on Ecovacs, specialized household robots, the 80/20 technology-reuse and scenario-adaptation model, patient category development, and localized lawn-care demand.
 - [707. The Terror: An Assassination in Paris (Part 1)](sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397.md) — The Rest Is History episode on Marat, Corday, the 1793 crisis system, Girondin collapse, emergency institutions, conspiracy validation, and martyrdom accelerating the road to Terror.
@@ -2623,6 +2624,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [丰臻 / Feng Zhen](entities/FengZhenFootballCommentator.md) — Football commentator linking serious Asian competition to league continuity, club responsibility, match supply, foreign-player depth, and bounded naturalization.
 - [Ecovacs Robotics / 科沃斯](entities/EcovacsRobotics.md) — Household-robot company extending a reusable sensing, mapping, planning, and control stack across floor, window, lawn, and pool cleaning.
 - [Qian Cheng / 钱程 (Ecovacs)](entities/QianChengEcovacs.md) — Ecovacs brand CEO associated with the 80% technology reuse and 20% scenario migration product model.
 - [Committee of Public Safety](entities/CommitteeOfPublicSafety.md) — Emergency executive body whose shift from Danton to Robespierre tracks the radicalization of 1793.
@@ -13024,6 +13026,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 
 ## Concepts
+- [中国足球亚洲赛事优先级 / Chinese Football Asian Competition Priority](concepts/ChineseFootballAsianCompetitionPriority.md) — Strategy of building long-run football capacity through current Asian competitions without making professional-league continuity expendable.
 - [战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation](concepts/StrategicBaseTransferAllianceConsolidation.md) — 通过向较弱伙伴提供领土、财政和纵深来强化共同防线，同时增加伙伴自主性与未来分配冲突。
 - [学习驱动的角色跃迁 / Learning-Driven Role Expansion](concepts/LearningDrivenRoleExpansion.md) — 与职责相关的持续学习把执行经验扩展为更广的判断能力，并促使同僚修正旧有评价。
 - [Technology Reuse and Scenario Adaptation / 技术复用与场景适配](concepts/TechnologyReuseScenarioAdaptation.md) — Product-development model combining a reusable capability stack with the safety, environment, interaction, and market work unique to each scenario.

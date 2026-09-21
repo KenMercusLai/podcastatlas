@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7726
+wiki_total_pages: 7727
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2261,6 +2261,9 @@ wiki_pages:
   - key: "ChineseFootballLeagueExpansion"
     title: "中国职业足球联赛扩军 / Chinese Football League Expansion"
     url: "/wiki/concepts/chinesefootballleagueexpansion/"
+  - key: "ChineseFootballAsianCompetitionPriority"
+    title: "中国足球亚洲赛事优先级 / Chinese Football Asian Competition Priority"
+    url: "/wiki/concepts/chinesefootballasiancompetitionpriority/"
   - key: "ChineseFootballForeignPlayerPolicy"
     title: "中国足球外援政策 / Chinese Football Foreign-Player Policy"
     url: "/wiki/concepts/chinesefootballforeignplayerpolicy/"

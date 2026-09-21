@@ -20888,3 +20888,11 @@ Added source `zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻
+
+Added source `vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u`; created `FengZhenFootballCommentator` and `ChineseFootballAsianCompetitionPriority`; and updated `Budongqiu`, `AFCChampionsLeague`, `ChineseSuperLeague`, `ChineseFootballCalendarPolicy`, `ChineseFootballLeagueExpansion`, `ChineseFootballForeignPlayerPolicy`, `NaturalizedPlayerPolicyInChineseFootball`, overview, and index. Core synthesis: Chinese football should build confidence, experience, club credibility, and supporter trust through current Asian competitions while protecting professional-league continuity and improving match supply, squad depth, incentives, and scheduling. No settled contradiction found; forecasts, coefficient effects, attendance, subsidies, naturalization feasibility, and local-player development claims remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

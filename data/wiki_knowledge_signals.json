@@ -250,9 +250,9 @@
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
     },
     "AFCChampionsLeague": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
@@ -260,9 +260,16 @@
           "show": "不懂球",
           "title": "Vol.225 恒大的足球遗产 ft.潘伟力",
           "url": "/wiki/sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/afcchampionsleague/"
     },
     "AHACreator": {
@@ -14560,9 +14567,9 @@
       "url": "/wiki/concepts/budgetedfrontiersuppression/"
     },
     "Budongqiu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
@@ -14584,9 +14591,16 @@
           "show": "不懂球",
           "title": "Vol.222 战后香港足球浮沉录：职业化、金元足球与冰河时代 ft.李峻嵘",
           "url": "/wiki/sources/vol-222-zhanhou-xianggang-zuqiu-fuchenlu-zhiyehua-jinyuan-zuqiu-yu-binghe-shidai-ft-lijunrong-gkwrijiop2mlacaqgqs-06zw/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/budongqiu/"
     },
     "BuilderBasedSchoolDay": {
@@ -20277,6 +20291,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/chinesefamilybusinesssuccession/"
     },
+    "ChineseFootballAsianCompetitionPriority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/chinesefootballasiancompetitionpriority/"
+    },
     "ChineseFootballAssociation": {
       "episode_count": 1,
       "show_count": 1,
@@ -20294,9 +20324,9 @@
       "url": "/wiki/entities/chinesefootballassociation/"
     },
     "ChineseFootballCalendarPolicy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOeF2YAdMp9QTVPacu [GKwRIMAOeF2YAdMp9QTVPacu].md",
@@ -20304,9 +20334,16 @@
           "show": "不懂球",
           "title": "Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永",
           "url": "/wiki/sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/chinesefootballcalendarpolicy/"
     },
     "ChineseFootballFinancialDiscipline": {
@@ -20326,9 +20363,9 @@
       "url": "/wiki/concepts/chinesefootballfinancialdiscipline/"
     },
     "ChineseFootballForeignPlayerPolicy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOeF2YAdMp9QTVPacu [GKwRIMAOeF2YAdMp9QTVPacu].md",
@@ -20336,9 +20373,16 @@
           "show": "不懂球",
           "title": "Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永",
           "url": "/wiki/sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/chinesefootballforeignplayerpolicy/"
     },
     "ChineseFootballGoldenYuanEra": {
@@ -20358,9 +20402,9 @@
       "url": "/wiki/concepts/chinesefootballgoldenyuanera/"
     },
     "ChineseFootballLeagueExpansion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOeF2YAdMp9QTVPacu [GKwRIMAOeF2YAdMp9QTVPacu].md",
@@ -20368,9 +20412,16 @@
           "show": "不懂球",
           "title": "Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永",
           "url": "/wiki/sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/chinesefootballleagueexpansion/"
     },
     "ChineseFootballPyramidDesign": {
@@ -20629,9 +20680,9 @@
       "url": "/wiki/concepts/chinesestylefde/"
     },
     "ChineseSuperLeague": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意 [c3607c08-6eb6-48bd-8250-b41b5b8272e6].md",
@@ -20653,9 +20704,16 @@
           "show": "不懂球",
           "title": "Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永",
           "url": "/wiki/sources/vol-226-zhongchao-kuojun-yu-kuanianzhi-liansai-xiayibu-gai-zenme-zou-ft-chenyong-gkwrimaoef2yadmp9qtvpacu/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/chinesesuperleague/"
     },
     "ChineseWoodblockPrintingEconomics": {
@@ -40746,6 +40804,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/fengzhaoyiwesternhan/"
+    },
+    "FengZhenFootballCommentator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/fengzhenfootballcommentator/"
     },
     "FengshanRitualLegitimacy": {
       "episode_count": 3,
@@ -83957,9 +84031,9 @@
       "url": "/wiki/concepts/nativealienspeciesboundary/"
     },
     "NaturalizedPlayerPolicyInChineseFootball": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJEOZrpkAfcPbATN_iVB [GKwRIJEOZrpkAfcPbATN_iVB].md",
@@ -83967,9 +84041,16 @@
           "show": "不懂球",
           "title": "Vol.225 恒大的足球遗产 ft.潘伟力",
           "url": "/wiki/sources/vol-225-hengda-de-zuqiu-yichan-ft-panweili-gkwrijeozrpkafcpbatn-ivb/"
+        },
+        {
+          "episode_file": "GKwRIJIOhmz4AUbQTwTatC1U [GKwRIJIOhmz4AUbQTwTatC1U].md",
+          "key": "vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u",
+          "show": "不懂球",
+          "title": "Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻",
+          "url": "/wiki/sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/naturalizedplayerpolicyinchinesefootball/"
     },
     "NatureLawLegalJustice": {
