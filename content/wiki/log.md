@@ -20952,3 +20952,11 @@ Added source `zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？
+
+Added source `zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln`; created `JiangJiLateHan`, `NiuJinLateHan`, `ChenJiaoLateHan`, `FalseReinforcementDeception`, and `CommanderRiskMoraleSignaling`; and updated `HefeiLateHan`, `CaoRen`, `JianglingLateHan`, and index. Core synthesis: Jiang Ji makes a fictitious forty-thousand relief force credible through apparently intercepted coordination, while Cao Ren's extraction of Niu Jin and other soldiers turns personal danger into both troop recovery and a costly morale signal. No settled contradiction found; the rescue's local success is compatible with Cao Ren's later Jiangling withdrawal, kinship and ability are non-exclusive explanations of trust, and force sizes, siege mechanics, exact dialogue, and motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7734
+wiki_total_pages: 7736
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"
+  - key: "FalseReinforcementDeception"
+    title: "虚构援军欺敌 / False Reinforcement Deception"
+    url: "/wiki/concepts/falsereinforcementdeception/"
   - key: "FuChen"
     title: "负臣 / Corrective Disobedient Minister"
     url: "/wiki/concepts/fuchen/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7734
+wiki_total_pages: 7736
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2279,6 +2279,9 @@ wiki_pages:
   - key: "ChineseFootballPyramidDesign"
     title: "中国足球金字塔设计 / Chinese Football Pyramid Design"
     url: "/wiki/concepts/chinesefootballpyramiddesign/"
+  - key: "CommanderRiskMoraleSignaling"
+    title: "主将冒险式士气信号 / Commander Risk Morale Signaling"
+    url: "/wiki/concepts/commanderriskmoralesignaling/"
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"

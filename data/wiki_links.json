@@ -11879,6 +11879,10 @@
     "title": "陈简 / Chen Jian (Yuan Shu retainer)",
     "url": "/wiki/entities/chenjianyuanshuretainer/"
   },
+  "ChenJiaoLateHan": {
+    "title": "陈矫 / Chen Jiao (late Han)",
+    "url": "/wiki/entities/chenjiaolatehan/"
+  },
   "ChenJiaoWesternHan": {
     "title": "陈蟜 / 陈娇",
     "url": "/wiki/entities/chenjiaowesternhan/"
@@ -14190,6 +14194,10 @@
   "CommandSynchronizationFailure": {
     "title": "Command Synchronization Failure / 军令同步失灵",
     "url": "/wiki/concepts/commandsynchronizationfailure/"
+  },
+  "CommanderRiskMoraleSignaling": {
+    "title": "主将冒险式士气信号 / Commander Risk Morale Signaling",
+    "url": "/wiki/concepts/commanderriskmoralesignaling/"
   },
   "CommanderyCountyAntiEnfeoffment": {
     "title": "Commandery-County Anti-Enfeoffment Settlement / 郡县制反分封定局",
@@ -21898,6 +21906,10 @@
   "FalseChoiceGovernance": {
     "title": "False Choice Governance",
     "url": "/wiki/concepts/falsechoicegovernance/"
+  },
+  "FalseReinforcementDeception": {
+    "title": "虚构援军欺敌 / False Reinforcement Deception",
+    "url": "/wiki/concepts/falsereinforcementdeception/"
   },
   "FalsifiableProductHypothesis": {
     "title": "Falsifiable Product Hypothesis / 可证伪产品假设",
@@ -33530,6 +33542,10 @@
   "JiangHuaan": {
     "title": "蒋华安 / Jiang Huaan",
     "url": "/wiki/entities/jianghuaan/"
+  },
+  "JiangJiLateHan": {
+    "title": "蒋济 / Jiang Ji (late Han)",
+    "url": "/wiki/entities/jiangjilatehan/"
   },
   "JiangJingLateHan": {
     "title": "江京 / Jiang Jing (late Han)",
@@ -45418,6 +45434,10 @@
   "NiuFuLateHan": {
     "title": "牛辅 / Niu Fu (late Han)",
     "url": "/wiki/entities/niufulatehan/"
+  },
+  "NiuJinLateHan": {
+    "title": "牛金 / Niu Jin (late Han)",
+    "url": "/wiki/entities/niujinlatehan/"
   },
   "NiuLiPartyStruggle": {
     "title": "牛李党争 / Niu-Li Party Struggle",
@@ -79078,6 +79098,10 @@
   "zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb": {
     "title": "《资治通鉴·汉纪》1110丨曹操给他四次封赏，他竟死不答应？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-1110-caocao-gei-ta-si-ci-fengshang-ta-jing-si-bu-daying-ln8zkblsgq3zi7krrhgjpnb4mokb/"
+  },
+  "zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln": {
+    "title": "《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln/"
   },
   "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm": {
     "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",

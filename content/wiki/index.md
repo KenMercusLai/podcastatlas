@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？](sources/zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln.md) — 蒋济以伪造并故意泄露的“四万援军”消息解合肥之围，曹仁则冒险冲阵救出牛金，以直接救援和可见承诺恢复江陵守军士气。
 - [《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？](sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm.md) — 赤壁战后刘备以公安为有限立足点，孙权以妹妹联姻维持必要但互疑的联盟；蒋干游说周瑜失败则显示长期信任与组织嵌入对短期利诱的抵抗。
 - [《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？](sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm.md) — 和洽以“中而已矣”批评表演性节俭，曹操求贤令则以岗位匹配和实际能力限定单一道德声誉标准。
 - [《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？](sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs.md) — 铜雀台既是曹操北方功业的政治纪念物，也是辨析“锁二乔”文学虚构的时间标尺；《自明本志令》则把部分让利与拒交兵权并置为公开自辩。
@@ -5395,7 +5396,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李肃 / Li Su (late Han)](entities/LiSuLateHan.md) — Lü Bu officer defeated by Niu Fu near Shan County and executed after the failed mission.
 - [扬州 / Yangzhou (late Han province)](entities/YangzhouLateHan.md) — Late-Han contested Yangtze province where Yuan-family appointment struggles prefigure Sun-family Jiangdong base-building.
 - [刘馥 / Liu Fu (late Han)](entities/LiuFuLateHan.md) — Yangzhou inspector who turns empty Hefei into a Cao-side Jiang-Huai administrative and defensive base.
-- [合肥 / Hefei (late Han)](entities/HefeiLateHan.md) — Broken city Liu Fu rebuilds into Yangzhou provincial office and Jiang-Huai stronghold.
+- [合肥 / Hefei (late Han)](entities/HefeiLateHan.md) — Broken city Liu Fu rebuilds into a Yangzhou frontier base that later survives Sun Quan's siege through deceptive relief and logistical reinforcement.
 - [青州 / Qingzhou (late Han)](entities/QingzhouLateHan.md) — Late-Han province whose Hanji 968 surrender population helps form Cao Cao's Qingzhou Soldiers and whose Hanji 969 proxy war becomes famine.
 - [青州兵 / Qingzhou Soldiers](entities/QingzhouSoldiers.md) — Cao Cao's elite force formed from the Qingzhou Yellow Turban surrender, paired in Hanji 968 with farming and supply conversion.
 - [袁遗 / Yuan Yi (late Han)](entities/YuanYiLateHan.md) — Yuan Shao-side Yangzhou appointee defeated by Yuan Shu after Chen Wen's death.
@@ -5418,6 +5419,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [许汜 / Xu Si (Late Han)](entities/XuSiLateHan.md) — Yanzhou plotting-group participant named with Chen Gong, Wang Kai, and Zhang Chao before Lü Bu is invited into the province.
 - [王楷 / Wang Kai (Late Han)](entities/WangKaiLateHan.md) — Yanzhou plotting-group participant whose source role marks the rebellion as a networked local-adviser move.
 - [曹仁 / Cao Ren](entities/CaoRen.md) — Cao-clan commander whose role spans an organized early following, Huguan surrender-incentive advice, the Runan counterstrike, and Jiangling defense.
+- [蒋济 / Jiang Ji (late Han)](entities/JiangJiLateHan.md) — Cao-side official whose intercepted-message deception made a fictitious relief army credible during the Hefei siege.
+- [牛金 / Niu Jin (late Han)](entities/NiuJinLateHan.md) — Cao-side officer surrounded outside Jiangling and extracted by Cao Ren.
+- [陈矫 / Chen Jiao (late Han)](entities/ChenJiaoLateHan.md) — Jiangling witness whose reaction records the morale effect of Cao Ren's battlefield rescue.
 - [Mary, Queen of Scots](entities/MaryQueenOfScots.md) — Catholic dynastic claimant and English captive whose Babington correspondence leads to trial and execution at Fotheringhay.
 - [Elizabeth I](entities/ElizabethI.md) — Protestant English queen balancing Mary Stuart's danger against the precedent and diplomatic risk of executing an anointed queen.
 - [Francis Walsingham](entities/FrancisWalsingham.md) — Elizabethan spymaster whose turned courier and cryptanalysis operation exposes the Babington Plot.
@@ -13044,6 +13048,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [虚构援军欺敌 / False Reinforcement Deception](concepts/FalseReinforcementDeception.md) — Making a nonexistent relief force credible through apparently discovered coordination so a besieger revises its risk estimate.
+- [主将冒险式士气信号 / Commander Risk Morale Signaling](concepts/CommanderRiskMoraleSignaling.md) — Conditional leadership pattern in which visible personal risk recovers troops and signals costly commitment without becoming a general rule of command.
 - [Political Marriage Alliance Hedging / 政治联姻式同盟对冲](concepts/PoliticalMarriageAllianceHedging.md) — Marriage tie used to stabilize cooperation with a necessary but mistrusted ally without resolving conflicting territorial interests.
 - [自辩式保权 / Power-Retention Self-Justification](concepts/PowerRetentionSelfJustification.md) — 承认权力集中引发的疑虑，以有限让利回应批评，同时把核心强制力解释为个人、家族与公共秩序的共同安全条件。
 - [俘获、赎归与家庭分离 / Captivity, Repatriation, and Family Separation](concepts/CaptivityRepatriationFamilySeparation.md) — 战乱中的赎归恢复自由与故土联系，却可能以新家庭关系断裂为不可逆代价。
