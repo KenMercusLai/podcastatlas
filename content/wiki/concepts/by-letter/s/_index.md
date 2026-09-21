@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7787
+wiki_total_pages: 7792
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "Skimpflation"
     title: "Skimpflation"
     url: "/wiki/concepts/skimpflation/"
+  - key: "SkippingPlyometricProgression"
+    title: "Skipping Plyometric Progression"
+    url: "/wiki/concepts/skippingplyometricprogression/"
   - key: "SKUFocusUnderCashConstraint"
     title: "SKU Focus Under Cash Constraint"
     url: "/wiki/concepts/skufocusundercashconstraint/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7787
+wiki_total_pages: 7792
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "VeilOfIgnorance"
     title: "Veil Of Ignorance"
     url: "/wiki/concepts/veilofignorance/"
+  - key: "VelocityDeterminedRunningMechanics"
+    title: "Velocity-Determined Running Mechanics"
+    url: "/wiki/concepts/velocitydeterminedrunningmechanics/"
   - key: "VenousThromboembolismTriage"
     title: "Venous Thromboembolism Triage / 静脉血栓栓塞分诊"
     url: "/wiki/concepts/venousthromboembolismtriage/"

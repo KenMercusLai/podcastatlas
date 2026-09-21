@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7787
+wiki_total_pages: 7792
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "MausoleumSecrecyKilling"
     title: "Mausoleum Secrecy Killing / 陵墓保密杀戮"
     url: "/wiki/concepts/mausoleumsecrecykilling/"
+  - key: "MaximalSpeedVitalityHypothesis"
+    title: "Maximal Speed Vitality Hypothesis"
+    url: "/wiki/concepts/maximalspeedvitalityhypothesis/"
   - key: "MayerlingDeathPact"
     title: "Mayerling Death Pact"
     url: "/wiki/concepts/mayerlingdeathpact/"

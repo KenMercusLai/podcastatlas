@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting | Stuart McMillan](sources/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan-scim1307532744.md) — Huberman Lab interview on speed-dependent gait, skipping as a plyometric bridge, eccentric sprint capacity, individualized coaching, and the qualified maximal-speed vitality hypothesis.
 - [VOL.156爱肝护肝第一步你就走错了 沉默的“人体化工厂”自救指南](sources/vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb.md) — 这病说来话长 episode on silent liver injury, fatty-liver cause review, medicine and herbal-product risk, alcohol harm, lifestyle change, and clinician-guided treatment.
 - [549. The Road to 1066: Revenge of the Vikings (Part 2)](sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985.md) — The Rest Is History episode on Scandinavian Christian kingship, Sweyn's 1013 conquest, the Danegeld cycle, and Cnut's 1016 victory and consolidation.
 - [Essentials: Supercharge Exercise Performance & Recovery with Cooling](sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411.md) — Huberman Lab Essentials episode on heat-limited output, cardiac drift, glabrous-skin cooling, vasoconstriction-aware protocols, and recovery-adaptation tradeoffs.
@@ -2655,6 +2656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman](sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849.md) — Huberman Lab interview on oral microbial ecology, saliva, tooth mineral balance, airway development, periodontal-systemic evidence, and fluoride risk-benefit questions.
 
 ## Entities
+- [Stuart McMillan](entities/StuartMcMillan.md) — Sprint coach presenting speed-dependent gait, progressive plyometrics, eccentric capacity, and athlete-specific movement solutions.
 - [Cnut the Great](entities/CnutTheGreat.md) — Danish conqueror who turns the 1016 victory into stable English Christian kingship.
 - [Sweyn Forkbeard](entities/SweynForkbeard.md) — Danish ruler whose 1013 campaign first displaces Æthelred from England.
 - [Æthelred the Unready](entities/AethelredTheUnready.md) — English king whose provocation, tribute policy, and lost prestige precede Danish conquest.
@@ -13099,6 +13101,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Velocity-Determined Running Mechanics](concepts/VelocityDeterminedRunningMechanics.md) — Principle that gait mechanics change with speed and individual structure rather than following one universal foot-strike model.
+- [Skipping Plyometric Progression](concepts/SkippingPlyometricProgression.md) — Quality-governed use of skipping as a bridge toward striding and sprinting demands.
+- [Eccentric Sprint Capacity](concepts/EccentricSprintCapacity.md) — Ability to accept, brake, redirect, and transmit high forces while preserving sprint movement quality.
+- [Individualized Movement Coaching](concepts/IndividualizedMovementCoaching.md) — Coaching model that preserves task principles while adapting mechanics, cues, and expression to the person.
+- [Maximal Speed Vitality Hypothesis](concepts/MaximalSpeedVitalityHypothesis.md) — Source-scoped proposal that safe personal top speed may integrate several vitality-related capacities without being a validated biomarker.
 - [Silent Liver Damage Detection](concepts/SilentLiverDamageDetection.md) — Boundary against using pain as the main liver-health test, emphasizing findings, exposure history, and follow-up.
 - [Fatty Liver Cause-Directed Management](concepts/FattyLiverCauseDirectedManagement.md) — Framework linking fatty-liver progression risk to cause review, sustainable lifestyle change, and qualified care.
 - [Alcohol Liver Harm Boundary](concepts/AlcoholLiverHarmBoundary.md) — Distinction between reducing absorption speed or discomfort and preventing alcohol-related liver harm.

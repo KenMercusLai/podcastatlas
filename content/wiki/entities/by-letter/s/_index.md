@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10435
+wiki_total_pages: 10436
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1376,6 +1376,9 @@ wiki_pages:
   - key: "Stripe"
     title: "Stripe"
     url: "/wiki/entities/stripe/"
+  - key: "StuartMcMillan"
+    title: "Stuart McMillan"
+    url: "/wiki/entities/stuartmcmillan/"
   - key: "StubbinsFfirth"
     title: "Stubbins Ffirth / 斯塔宾斯·福斯"
     url: "/wiki/entities/stubbinsffirth/"

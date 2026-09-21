@@ -21135,3 +21135,11 @@ Added source `vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagon
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting | Stuart McMillan
+
+Added source `how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan-scim1307532744`; created `StuartMcMillan`, `VelocityDeterminedRunningMechanics`, `SkippingPlyometricProgression`, `EccentricSprintCapacity`, `IndividualizedMovementCoaching`, and `MaximalSpeedVitalityHypothesis`; and updated the index. Core synthesis: faster gait requires distinct mechanics and eccentric force acceptance, while skipping can provide a quality-governed bridge toward striding and sprinting and coaching should adapt stable principles to the athlete's structure and expression. No settled contradiction found; the elite eccentric-force comparison, present-day doping assessment, genetic and cultural claims, and maximal-speed health proxy remain source-scoped, with sprint and plyometric safety kept individualized. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

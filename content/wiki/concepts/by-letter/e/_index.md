@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7787
+wiki_total_pages: 7792
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "EatingAndKillingMoralAmbivalence"
     title: "Eating And Killing Moral Ambivalence"
     url: "/wiki/concepts/eatingandkillingmoralambivalence/"
+  - key: "EccentricSprintCapacity"
+    title: "Eccentric Sprint Capacity"
+    url: "/wiki/concepts/eccentricsprintcapacity/"
   - key: "EcoPopulism"
     title: "Eco-Populism"
     url: "/wiki/concepts/ecopopulism/"
