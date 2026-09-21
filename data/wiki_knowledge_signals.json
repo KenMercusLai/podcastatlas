@@ -49062,9 +49062,9 @@
       "url": "/wiki/concepts/griefphysiologysupport/"
     },
     "Grokbot": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -49079,9 +49079,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/grokbot/"
     },
     "Groq": {
@@ -58288,9 +58295,9 @@
       "url": "/wiki/concepts/imaxauthenticityaesthetic/"
     },
     "IMAgentInterfaces": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会 [lk6BZKdxTI47vEHjVS9sGxOtRvTo].md",
@@ -58312,9 +58319,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/imagentinterfaces/"
     },
     "IPOCapitalAbsorption": {
@@ -59833,9 +59847,9 @@
       "url": "/wiki/concepts/insectbitedermatitis/"
     },
     "InstinctPersonalAI": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
@@ -59843,9 +59857,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/instinctpersonalai/"
     },
     "InstitutionalExitEscalation": {
@@ -82641,6 +82662,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
     },
+    "MusePersonalAgent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/musepersonalagent/"
+    },
     "MuseumInterpretationLegibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -90241,9 +90278,9 @@
       "url": "/wiki/entities/pershingsquare/"
     },
     "PersistentCloudAgents": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -90251,9 +90288,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine-42597345/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersonaShieldedPoliticalPurge": {
@@ -90285,6 +90329,59 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/personashieldedpoliticalpurge/"
+    },
+    "PersonalAIMemory": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "tech_20260722_0722_MP_TECH_pod_128 [tech_20260722_0722_MP_TECH_pod_128].md",
+          "key": "tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Uncanny AI: Why AI bots remember random, sometimes useless information",
+          "url": "/wiki/sources/tech-20260722-0722-mp-tech-pod-128-tech-20260722-0722-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "TSR-S3-DanSiroker-v3 [TSR-S3-DanSiroker-v3].md",
+          "key": "tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3",
+          "show": "The Social Radars",
+          "title": "Dan Siroker on Optimizely, Rewind, and Limitless AI",
+          "url": "/wiki/sources/tsr-s3-dansiroker-v3-tsr-s3-dansiroker-v3/"
+        },
+        {
+          "episode_file": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】 [lu98AA1ByafbBlJyJrn8oqUIeZk_].md",
+          "key": "reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk",
+          "show": "十字路口Crossing",
+          "title": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
+          "url": "/wiki/sources/reai-yige-hangye-15-nian-de-liyou-shi-shenme-duitan-wang-tianfan-woyao-tou-zhenzheng-de-kuaile-tou-zui-chun-de-yuanjing-tou-renxing-de-guanghui-gonglu-boke-lu98aa1byafbbljyjrn8oquiezk/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/personalaimemory/"
+    },
+    "PersonalAgentUnderstandingLayer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/personalagentunderstandinglayer/"
     },
     "PersonalGuaranteeClemency": {
       "episode_count": 1,
@@ -90333,9 +90430,9 @@
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
     "PersonalLifeAgent": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -90343,9 +90440,16 @@
           "show": "乱翻书",
           "title": "273.逛完外滩大会，发现蚂蚁找到了新位置",
           "url": "/wiki/sources/273-guangwan-waitan-dahui-faxian-mayi-zhaodaole-xin-weizhi-lotxogfoqqwcjigxihtixvncbfc3/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/personallifeagent/"
     },
     "PersonalRiskTrustSignal": {
@@ -94033,9 +94137,9 @@
       "url": "/wiki/concepts/procontractorretailstrategy/"
     },
     "ProactiveAgents": {
-      "episode_count": 10,
-      "show_count": 6,
-      "source_note_count": 10,
+      "episode_count": 11,
+      "show_count": 7,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋 [lu_D4y7QIfAG6-rc79TP-rOxJp4Z].md",
@@ -94106,9 +94210,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/proactiveagents/"
     },
     "ProblemLedInterdisciplinarity": {
@@ -117521,6 +117632,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/totembranding/"
+    },
+    "TownPersonalAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
+          "key": "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+          "show": "乱翻书",
+          "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+          "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/townpersonalai/"
     },
     "ToyDesignHumanCreativityBoundary": {
       "episode_count": 1,

@@ -20832,3 +20832,11 @@ Added source `vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-j
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse
+
+Added source `275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd`; created `TownPersonalAI`, `MusePersonalAgent`, and `PersonalAgentUnderstandingLayer`; and updated `InstinctPersonalAI`, `Grokbot`, `PersonalLifeAgent`, `PersonalAIMemory`, `ProactiveAgents`, `IMAgentInterfaces`, `PersistentCloudAgents`, overview, and index. Core synthesis: personal agents compete to become the first interface after user intent appears, but durable advantage depends less on raw data or one model than on filtering context into usable memory, choosing timely action, completing work safely, and earning trust for broader authority. No settled contradiction found; product counts, valuations, capabilities, security, and strategy remain source-scoped, and the transcript's Town/Today naming inconsistency is preserved as an ambiguity.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3093
+topic_total_pages: 3097
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3208,6 +3208,9 @@ topic_concepts:
   - key: "PersistentCloudAgents"
     title: "Persistent Cloud Agents"
     url: "/wiki/concepts/persistentcloudagents/"
+  - key: "PersonalAgentUnderstandingLayer"
+    title: "Personal Agent Understanding Layer / 个人Agent理解层"
+    url: "/wiki/concepts/personalagentunderstandinglayer/"
   - key: "PersonalAIMemory"
     title: "Personal AI Memory"
     url: "/wiki/concepts/personalaimemory/"
@@ -6242,6 +6245,9 @@ topic_entities:
   - key: "MuseImage"
     title: "Muse Image"
     url: "/wiki/entities/museimage/"
+  - key: "MusePersonalAgent"
+    title: "Muse Personal Agent"
+    url: "/wiki/entities/musepersonalagent/"
   - key: "MustafaSuleyman"
     title: "Mustafa Suleyman"
     url: "/wiki/entities/mustafasuleyman/"
@@ -7124,6 +7130,9 @@ topic_entities:
   - key: "TonyACRCloud"
     title: "Tony / ACR Cloud"
     url: "/wiki/entities/tonyacrcloud/"
+  - key: "TownPersonalAI"
+    title: "Town Personal AI"
+    url: "/wiki/entities/townpersonalai/"
   - key: "ToyStory5"
     title: "Toy Story 5"
     url: "/wiki/entities/toystory5/"
@@ -8055,6 +8064,9 @@ topic_sources:
   - key: "274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet"
     title: "274.从全面屏到中折叠，小米的高端化这次找对路了吗？"
     url: "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
+  - key: "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd"
+    title: "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse"
+    url: "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
   - key: "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128"
     title: "34 days without internet in Iran"
     url: "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"

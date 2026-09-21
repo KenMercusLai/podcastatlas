@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: dc847b394f7c04bf18eedb0e7cea3fb5abb05f0a
-summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2602
-source_count: 2602
-paragraph_count: 684
+as_of_overview_commit: 4b5d5adc4bb73890c57b9c470327467e8b326337
+summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems, including trusted personal agents."
+episode_count: 2603
+source_count: 2603
+paragraph_count: 685
 topic_count: 9
 ---
 
@@ -16,20 +16,20 @@ topic_count: 9
 
 ## Executive Summary
 
-- AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
+- Two sources now connect frontier AI value to both ecosystem structure and personal-agent execution. [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] links [[ChatGPT6Astra|ChatGPT 6 / Astra]], [[OpenClosedAIMarketStructure]], [[FrontierModelDuopoly]], [[InstinctPersonalAI]], agent security, and school boundaries. [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] extends the product branch through [[TownPersonalAI]], [[Grokbot]], and [[MusePersonalAgent]]: [[PersonalLifeAgent|personal agents]] become durable when a [[PersonalAgentUnderstandingLayer]] turns [[PersonalAIMemory]] into well-timed [[ProactiveAgents|initiative]] and controllable execution through [[IMAgentInterfaces]] and [[PersistentCloudAgents]].
 - [[558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020|The Rolling Stones formation episode]] adds a youth-market differentiation case: [[PostwarTeenageConsumerMarket]] made records, venues, media, playback technology, and girls' fandom economically consequential; [[TheBeatles]] reduced uncertainty around guitar groups; and [[AndrewLoogOldham]] used [[ManufacturedRebellionBranding]] to turn parental disapproval and contrast into a market position for [[TheRollingStones]], while the Jagger-Richards songwriting shift supplied product change alongside image.
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse.
 - [[557-1066-the-norman-conquest-part-4-glt5156716826|The Norman Conquest episode]] adds a state-formation case: Hastings removed [[HaroldGodwinson]] but did not itself deliver England, so [[WilliamTheConqueror]] turned victory into government through coerced submissions, coronation continuity, castles, [[HarryingOfTheNorth]], and [[NormanEliteReplacement]], then used the inherited administrative capacity visible in [[DomesdayBook]]. [[ConquestRuptureContinuity]] captures the resulting combination of political rupture and institutional inheritance.
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]].
 - [[PsychiatryMeasurementGap]] and [[TherapeuticStateLearning]] add a personal-development boundary: interview language and functional evidence remain necessary while biomarkers are immature, and an altered experience matters only if learning transfers into ordinary life under [[PsychedelicClinicalSupervisionBoundary]].
 - [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159]] adds a medical-aesthetic safety branch through [[LuluPlasticSurgeon]] and [[YiMeiZhiMingDrama]]: [[BotulinumToxinInjectionSafety]], [[UnapprovedMedicalAestheticProducts]], [[MedicalAestheticProviderVerification]], and [[CosmeticProcedureExpectationManagement]] make intended appearance effects conditional on verified products, qualified clinicians, suitable institutions, complete prior-treatment histories, functional costs, and proportionate goals, while generalized weakness, swallowing or breathing involvement, uncertain injectables, and high-risk requests move the decision toward qualified escalation, staging, or refusal.
-- Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
+- Workplace AI adoption depends on trust, participation, and observed behavior: EP43 argues that [[InstitutionalTrustAIAdoption]], [[CognitiveDiversityAIAdoption]], [[AIAdoptionBehavioralSignals]], [[AIOverwriteRate]], and [[QuietAIAdoptionDeparture]] reveal whether tools are changing work beyond deployment activity.
 
 ## Synthesis by Domain
 
 ### AI and Technology
 
-AI value depends on system integration, verified workflows, infrastructure, grounded feedback, permissions, safety controls, and human responsibility rather than model capability alone.
+AI value depends on system integration, verified workflows, relevant personal context, infrastructure, permissions, safety controls, and human responsibility rather than model capability alone.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].
@@ -43,7 +43,7 @@ Business value depends on real demand, product change, positioning, delivery, di
 
 ### Cross-domain
 
-Protein source quality is goal-specific: whey is framed for muscle outcomes and collagen or bone broth for a narrower, qualified skin role.
+Cross-domain evidence is strongest when mechanism, goals, and scope remain explicit rather than forcing one rule across unlike settings.
 
 ### Culture and Media
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse](sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd.md) — 乱翻书 episode comparing four personal-agent routes through memory, proactivity, messaging, cloud execution, commerce, platform distribution, trust, and the understanding layer between data and action.
 - [VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕](sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk.md) — 这病说来话长 episode with 阿汤 and plastic-surgery doctor Lulu on medical-drama realism, botulinum-toxin poisoning, unapproved injectables, provider verification, and safety-first expectation management.
 - [557. 1066: The Norman Conquest (Part 4)](sources/557-1066-the-norman-conquest-part-4-glt5156716826.md) — The Rest Is History episode on post-Hastings submission, William's coronation, elite replacement, the Harrying of the North, castles, church reform, Domesday Book, and conquest as rupture joined to institutional continuity.
 - [Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave](sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523.md) — Huberman Lab interview on addiction as attempted relief, stabilization, distress tolerance, emotional forecasting, peer support, state shifting, and building a meaningful life in recovery.
@@ -2616,6 +2617,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [Town Personal AI](entities/TownPersonalAI.md) — Email- and desktop-centered personal agent that builds toward broader delegation through progressive trust.
+- [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer personal agent using distribution, social interest signals, and subsidized cloud execution.
 - [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
 - [《以美之名》 / In the Name of Beauty](entities/YiMeiZhiMingDrama.md) — Medical drama used as an educational hook for plastic-surgery and medical-aesthetic risk discussion.
 - [Edgar Atheling](entities/EdgarAtheling.md) — Young royal claimant elected after Hastings whose bloodline and Witan recognition did not become effective kingship.
@@ -13004,6 +13007,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Personal Agent Understanding Layer / 个人Agent理解层](concepts/PersonalAgentUnderstandingLayer.md) — Processing layer that turns raw personal data into current, relevant, permission-aware memory and action.
 - [Botulinum Toxin Injection Safety / 肉毒毒素注射安全](concepts/BotulinumToxinInjectionSafety.md) — Product, dose, history, symptom, and escalation boundaries for cosmetic botulinum use.
 - [Unapproved Medical-Aesthetic Products / 未获批医美产品风险](concepts/UnapprovedMedicalAestheticProducts.md) — Supply-chain uncertainty around approval, identity, purity, dose, storage, traceability, and removal.
 - [Medical-Aesthetic Provider Verification / 医美机构与医生验真](concepts/MedicalAestheticProviderVerification.md) — Checks linking institution, clinician, procedure scope, product, and complication support.

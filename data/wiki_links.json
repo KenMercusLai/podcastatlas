@@ -919,6 +919,10 @@
     "title": "274.从全面屏到中折叠，小米的高端化这次找对路了吗？",
     "url": "/wiki/sources/274-cong-quanmianping-dao-zhong-zhedie-xiaomi-de-gaoduanhua-zhe-ci-zhaoduilu-le-ma-lkvunil7twhd92duwcu_1hxkefet/"
   },
+  "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd": {
+    "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+    "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+  },
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
@@ -43963,6 +43967,10 @@
     "title": "Muse Image",
     "url": "/wiki/entities/museimage/"
   },
+  "MusePersonalAgent": {
+    "title": "Muse Personal Agent",
+    "url": "/wiki/entities/musepersonalagent/"
+  },
   "MuseumInterpretationLegibility": {
     "title": "Museum Interpretation Legibility / 博物馆阐释可读性",
     "url": "/wiki/concepts/museuminterpretationlegibility/"
@@ -48354,6 +48362,10 @@
   "PersonalAIMemory": {
     "title": "Personal AI Memory",
     "url": "/wiki/concepts/personalaimemory/"
+  },
+  "PersonalAgentUnderstandingLayer": {
+    "title": "Personal Agent Understanding Layer / 个人Agent理解层",
+    "url": "/wiki/concepts/personalagentunderstandinglayer/"
   },
   "PersonalArchiveAsHistory": {
     "title": "Personal Archive As History",
@@ -63778,6 +63790,10 @@
   "TowerOfBabylon": {
     "title": "Tower of Babylon",
     "url": "/wiki/entities/towerofbabylon/"
+  },
+  "TownPersonalAI": {
+    "title": "Town Personal AI",
+    "url": "/wiki/entities/townpersonalai/"
   },
   "ToxicFashionMaterialRisk": {
     "title": "Toxic Fashion Material Risk",

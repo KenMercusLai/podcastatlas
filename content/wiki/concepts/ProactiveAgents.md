@@ -13,49 +13,49 @@ sources:
   - zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew
   - wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d
   - ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252
-last_updated: 2026-09-02
+  - 275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
 # Proactive Agents
 
 ## Definition
-Proactive agents are agents that help before the user fully specifies a task, using timing, context, memory, tools, and permission rules to decide when initiative is useful.
+Proactive agents help before the user fully specifies a task, using timing, context, memory, tools, and permission rules to decide whether to remind, suggest, prepare, ask, or act.
 
 ## Current Synthesis
-The wiki now treats proactivity as a spectrum rather than a single feature. At the low end, agents run scheduled check-ins, reminders, daily summaries, or periodic scans. In the middle, they use OS context, intent context, persistent memory, and current work state to suggest meeting prep, autocomplete, task continuation, or companion messages. At the high end, they prepare new work, set up other agents, pre-interact socially, or open a PR after the human confirms a maintenance suggestion.
+The evidence supports a spectrum. At the low end are scheduled reminders, daily summaries, and periodic scans. The middle uses operating-system, workspace, relationship, and intent context for meeting preparation, autocomplete, learning plans, companion messages, or task continuation. At the high end, an agent identifies goals, prepares work, configures specialist agents, opens a pull request after confirmation, or completes parts of a personal workflow in the cloud.
 
-The common constraint is timing plus permission. A proactive agent creates value only when it knows enough about the user's situation to act at the right moment and has clear boundaries on what it may do without approval.
+The newest personal-agent comparison sharpens the boundary between automation and initiative. A timer is not enough: meaningful proactivity requires a [[PersonalAgentUnderstandingLayer|current model of the user's goals]], memory that can forget or update, and judgment about when intervention reduces rather than creates work. As consequences rise, proactivity must shift from silent action toward preview, confirmation, auditability, and recovery.
 
 ## Key Claims
-- Proactivity is useful only when grounded in context; otherwise it becomes interruption, spam, or generic notification.
-- Time scale matters: autocomplete, scheduled reminders, meeting prep, code-maintenance scans, and autonomous exploratory work need different interfaces and approval gates.
-- Persistent memory and OS or workspace context make proactive behavior less random because the agent can connect current state to prior goals and relationships.
-- Personal, social, wearable, and coding proactivity have different risk surfaces, but all require explicit permission and responsibility design.
-- Code-maintenance proactivity is emerging as a concrete branch: agents can scan repositories, surface TODOs or performance bottlenecks, email suggestions, and create PRs after confirmation.
-- Strong proactivity may require meta-agent behavior, where one agent identifies what specialized work should be prepared and where the human must approve escalation.
+- Proactivity without relevant context becomes interruption, spam, or generic notification.
+- Scheduled wakeups, context-aware suggestions, prepared work, and autonomous execution are distinct levels with different risks.
+- Memory quality and lifecycle matter because stale goals can make a seemingly helpful intervention wrong.
+- Personal, social, wearable, coding, and commerce agents need different timing and permission boundaries.
+- Strong proactivity can use a front agent to route work to specialists without forcing the user to manage the internal team.
+- Consequential action involving people, code, money, accounts, or health requires confirmation, verification, and recovery paths.
 
 ## Evidence
-- OS-level and persistent-memory cases show proactivity through meeting prep, autocomplete, daily summaries, recruiting support, and product-strategy reminders: [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]].
-- OpenClaw-related sources show weak-to-strong proactivity through scheduled prompts, reminders, smart-home actions, social monitoring, and agent setup for exploratory work: [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]], [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]], [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]].
-- AirJelly's stricter framing makes useful proactivity depend on current intent and surrounding OS context, not just background scanning: [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]].
-- AI-social, companion, and wearable sources show that proactive timing must respect social norms, emotional presence, and physical context: [[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]], [[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]], [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]].
-- Coding-agent proactivity adds a maintenance workflow where repository scans turn into suggestions and optional PRs rather than waiting for a detailed user prompt: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]].
+- Weak-to-strong spectrum: [[openclaw-zhihou-wo-zhi-xiang-weilai-3-6-ge-yue-de-shiqing-duitan-sheet0-chuangshiren-wang-wenfeng-lu-d4y7qifag6-rc79tp-roxjp4z]], [[20-ge-wenti-gao-dong-openclaw-baohong-jizhi-benzhi-bianhua-chuangye-jihui-lk6bzkdxti47vehjvs9sgxotrvto]], [[vol-161-cong-kaifa-ziji-de-openclaw-liaoqi-1-6626-1]], and [[vol-165-zuoke-shengdongjixi-longxia-he-vibe-coding-zhengruhe-gaibian-womende-siwei-laizi-xiaobai-chuangyezhe-he-gongchengshi-butong-shijiao-de-taolun-1-6642-1]] range from reminders and scheduled scans to context-rich colleague behavior.
+- Context and timing: [[renlei-he-ai-agent-de-zuijia-peihe-fangshi-hai-mei-bei-faming-duitan-paperboy-ltgxurpseowqggfvgc32aurymt-o]] and [[openclaw-zhihou-shui-jiang-dingyi-zhudongshi-ai-de-xin-zhanchang-duitan-airjelly-huang-bote-lplswo8r829akxwgyurfkojelku6]] connect initiative to OS context, current intent, memory decay, and task-extension timing.
+- Social, companion, and wearable cases: [[135-he-ziran-xuanze-chuangshiren-tristan-liao-elys-saibo-fenshen-linghun-context-de-huoqu-yu-liudong-he-ai-shejiao-wangluo-ltwegwvo7grn-v-rft0txlmqmcty]], [[zhe-keneng-caishi-ai-peiban-zhenzheng-gai-you-de-yangzi-duitan-shuaping-chanpin-eve-chuangshiren-tristan-lgvcb1tuur-1rf2qk8jv9chmwew]], and [[wwdc-26-bu-shang-le-ai-dan-li-zhenzheng-de-ai-zhushou-hai-cha-shenme-s10e15-9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d]] show that timing must respect emotional, social, and physical context.
+- Coding case: [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252]] describes repository scans becoming suggestions and optional pull requests after confirmation.
+- Personal-agent criterion: [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] distinguishes genuine goal-aware initiative from fixed scheduled tasks and connects it to advance preparation and specialist routing.
 
 ## Counterevidence & Qualifications
-The main counterpressure is attention cost. A proactive agent with weak timing, excessive permissions, or poor taste can create more cognitive load than value. Social and companion proactivity can cross norms around authenticity and care; enterprise and coding proactivity can cross data, security, or production-change boundaries. Human review remains necessary when the agent acts on priorities, people, code, money, or business decisions.
+Current evidence is mainly product and founder interpretation, not comparative measurement of whether proactive systems improve outcomes or retention. Attention cost, incorrect goal inference, stale memory, social overreach, and silent high-impact action can erase the convenience benefit. The strongest examples still preserve human review when an agent changes durable state or spends resources.
 
 ## What Changed
-- Code-maintenance agents are now part of the proactive-agent synthesis, not a separate coding-tool footnote.
-- The synthesis now separates scheduled wakeups, context-aware suggestions, and high-permission action into different levels of initiative.
-- Verification and permission gates are now treated as core requirements for proactive coding agents.
+- Added goal-aware advance preparation as the criterion separating initiative from scheduling.
+- Connected proactive timing directly to memory lifecycle and the personal-agent understanding layer.
+- Added hidden specialist routing as a possible way to provide initiative without exposing coordination complexity.
 
 ## Related Concepts
-- [[ContextEngineering]] - grounding layer that decides whether a suggestion is timely or generic.
-- [[PersistentAgentMemory]] - memory mechanism that lets proactive suggestions reference older goals and events.
-- [[AgentPermissionBoundaries]] - control layer for what the agent may do before explicit approval.
-- [[IMAgentInterfaces]] - communication surface where proactive messages often appear.
-- [[AICoworkers]] - collaborator framing for agents that take initiative inside work.
-- [[TeamAgentMemory]] - shared context layer that can make team-facing proactive agents less redundant.
-- [[AICodingVerification]] - acceptance layer needed before proactive code changes can be trusted.
-- [[JuiceCodingAgent]] - concrete coding-agent example for proactive maintenance suggestions and PR creation.
+- [[PersonalAgentUnderstandingLayer]] - interpretation layer for judging goals, relevance, and timing.
+- [[PersonalAIMemory]] - evidence base that proactive behavior draws on and must keep current.
+- [[PersistentAgentMemory]] - session-independent state needed for continuing work.
+- [[AgentPermissionBoundaries]] - limits on what may happen before explicit approval.
+- [[IMAgentInterfaces]] - common channel for proactive messages and status updates.
+- [[AICodingVerification]] - acceptance layer for proactive code changes.
+- [[MultiAgentCollaboration]] - specialist-agent pattern that a front agent may coordinate.

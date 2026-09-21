@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7715
+wiki_total_pages: 7716
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "PersonaShieldedPoliticalPurge"
     title: "Persona-Shielded Political Purge / 人设护盾式政治清除"
     url: "/wiki/concepts/personashieldedpoliticalpurge/"
+  - key: "PersonalAgentUnderstandingLayer"
+    title: "Personal Agent Understanding Layer / 个人Agent理解层"
+    url: "/wiki/concepts/personalagentunderstandinglayer/"
   - key: "PersonalAIMemory"
     title: "Personal AI Memory"
     url: "/wiki/concepts/personalaimemory/"

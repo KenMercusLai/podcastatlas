@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10379
+wiki_total_pages: 10381
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "TowerOfBabylon"
     title: "Tower of Babylon"
     url: "/wiki/entities/towerofbabylon/"
+  - key: "TownPersonalAI"
+    title: "Town Personal AI"
+    url: "/wiki/entities/townpersonalai/"
   - key: "ToyStory5"
     title: "Toy Story 5"
     url: "/wiki/entities/toystory5/"

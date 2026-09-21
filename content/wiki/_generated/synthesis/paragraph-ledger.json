@@ -684,12 +684,13 @@
       "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013",
       "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
       "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c",
-      "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2"
+      "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2",
+      "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51"
     ],
-    "paragraph_count": 684
+    "paragraph_count": 685
   },
-  "overview_commit": "dc847b394f7c04bf18eedb0e7cea3fb5abb05f0a",
-  "overview_digest": "ea4bff91033acafc29fa1b647616e17dbc950423b9257ebb4b48a4461d9d1acf",
+  "overview_commit": "4b5d5adc4bb73890c57b9c470327467e8b326337",
+  "overview_digest": "e14fbaeb8b3f1a32675b4d7f9ec65c46a34fb442a458c482834e92b702bc2fda",
   "paragraphs": [
     {
       "id": "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
@@ -20535,6 +20536,32 @@
         "NormanConquestOfEngland",
         "NormanEliteReplacement",
         "WilliamTheConqueror"
+      ]
+    },
+    {
+      "id": "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The latest addition is [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd|275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse]], a [[Luanfanshu|乱翻书]] episode comparing [[TownPersonalAI|Town]], [[InstinctPersonalAI|Instinct]], [[Grokbot|Grok Bot]], and [[MusePersonalAgent|Muse]]. It adds [[TownPersonalAI]], [[MusePersonalAgent]], and [[PersonalAgentUnderstandingLayer]], while extending [[PersonalLifeAgent]], [[PersonalAIMemory]], [[ProactiveAgents]], [[IMAgentInterfaces]], [[PersistentCloudAgents]], Instinct, and Grokbot. Its core synthesis is that a personal agent differs from a task agent by maintaining one person's context across work and life, but raw data is not understanding: the defensible layer filters stale and noisy memory, recognizes goals, chooses when to intervene, routes execution, and earns trust for progressively consequential action. No settled contradiction is recorded; user counts, valuations, product capability, security, and strategy remain source-scoped, while the transcript's Town/Today naming inconsistency is preserved as an ambiguity.",
+      "topic_scores": {
+        "ai-and-technology": 3,
+        "business-and-markets": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd",
+        "Grokbot",
+        "IMAgentInterfaces",
+        "InstinctPersonalAI",
+        "Luanfanshu",
+        "MusePersonalAgent",
+        "PersistentCloudAgents",
+        "PersonalAIMemory",
+        "PersonalAgentUnderstandingLayer",
+        "PersonalLifeAgent",
+        "ProactiveAgents",
+        "TownPersonalAI"
       ]
     }
   ],
