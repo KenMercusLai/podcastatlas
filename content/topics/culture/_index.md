@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2767
+topic_total_pages: 2768
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -4286,6 +4286,9 @@ topic_entities:
   - key: "Lucasfilm"
     title: "Lucasfilm"
     url: "/wiki/entities/lucasfilm/"
+  - key: "LuffyMedicalChannel"
+    title: "Luffy医学频道 / Luffy Medical Channel"
+    url: "/wiki/entities/luffymedicalchannel/"
   - key: "Lululemon"
     title: "Lululemon"
     url: "/wiki/entities/lululemon/"

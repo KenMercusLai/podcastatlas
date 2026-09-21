@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10413
+wiki_total_pages: 10417
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "GaoShanwen"
     title: "高善文 / Gao Shanwen"
     url: "/wiki/entities/gaoshanwen/"
+  - key: "GaoJiachengPodcastGuest"
+    title: "高嘉诚 / Gao Jiacheng (Podcast Guest)"
+    url: "/wiki/entities/gaojiachengpodcastguest/"
   - key: "GaoGu"
     title: "高固"
     url: "/wiki/entities/gaogu/"

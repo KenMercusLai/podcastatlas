@@ -5,7 +5,8 @@ tags: [healthcare, anesthesia, surgery, patient-safety]
 sources:
   - vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr
   - vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn
-last_updated: 2026-09-05
+  - vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,11 +20,13 @@ The VOL.32 and VOL.33 anesthesia episodes treat anesthesiology as a safety layer
 
 The concept's practical value is that the anesthesiologist's work is partly invisible when everything goes well. Safety depends on readiness assessment, collaboration with surgeons, drug selection and dosing, temperature and airway management, reliable monitoring, blood and circulation planning, and recovery criteria. For patients and families, the episodes reframe delays, later emergence from the operating room, repeated history-taking, fasting rules, nail and dental requests, and medication instructions as risk controls rather than bureaucratic friction.
 
+VOL.158 extends this system outside the operating room into [[SedatedGastrointestinalEndoscopy|painless gastrointestinal endoscopy]]. The procedure may use non-intubated general anesthesia, but short duration does not remove respiratory risk: preoxygenation, continuous oxygen-saturation and vital-sign monitoring, rapid airway maneuvers, reliable intravenous access, honest weight and sleep history, and recovery assessment remain central while anesthesiology and gastroenterology share access to the airway.
+
 ## Key Claims
 - Anesthesia is a perioperative safety system that starts before the operation and continues through recovery.
 - [[PreoperativeAnesthesiaAssessment]] may justify delaying or changing a planned procedure when the patient's condition, medication, airway, infection, fasting, or monitoring context is unsafe.
 - Anesthetic maintenance is adjusted to the actual surgical duration rather than governed by a fixed clock.
-- The anesthesiologist's collaboration with the surgical team includes physiological management, monitoring, and postoperative readiness decisions.
+- The anesthesiologist's collaboration with surgical or procedural teams includes physiological management, monitoring, shared-airway response, and recovery-readiness decisions.
 - Patient history, including allergy, alcohol use, previous anesthesia reaction, chronic disease, stents, daily activity, snoring, and recent infection recovery, is part of anesthesia safety.
 - Recovery is judged through breathing, consciousness, muscle strength, cough, swallowing and pharyngeal reflexes, and overall stability.
 - Fasting, airway control, blood preparation, transfusion decisions, and pulse-oximetry reliability show that small preoperative details can become high-consequence intraoperative or postoperative safety issues.
@@ -34,20 +37,24 @@ The concept's practical value is that the anesthesiologist's work is partly invi
 - Recovery criteria: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] describes checking consciousness, muscle strength, cough, swallowing, pharyngeal reflexes, and spontaneous breathing before leaving the operating-room setting.
 - Patient information: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] asks patients to disclose allergy history, previous reactions, alcohol use, and other context that can change anesthesia decisions; [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] adds chronic disease, stents, daily activity, medication lists, snoring, teeth, dentures, nail polish, fasting status, and recent infection recovery to the patient-preparation frame.
 - Monitoring and circulation: [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] connects pulse-oximetry reliability, blood preparation, and transfusion strategy to anesthesia's airway, oxygenation, and circulation-management role.
+- Out-of-operating-room anesthesia: [[vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov|VOL.158]] describes non-intubated endoscopy anesthesia through preoxygenation, intravenous access, continuous monitoring, shared airway access, saturation changes, positioning, jaw lift, airway adjuncts, orientation checks, and discharge criteria.
 
 ## Counterevidence & Qualifications
-This concept is public medical literacy, not a surgical clearance protocol or anesthetic plan. Actual anesthesia choice, fasting, medication handling, infection testing, blood preparation, dosing, monitoring, airway management, procedure timing, postoperative instructions, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
+This concept is public medical literacy, not surgical or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, fasting and bowel preparation, medication handling, infection testing, blood preparation, dosing, monitoring, airway management, procedure timing, discharge, postoperative instructions, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
 
 ## What Changed
 - Expanded the anesthesia safety frame from VOL.33's intraoperative and postoperative emphasis into VOL.32's preoperative preparation branch.
 - Added teeth, dentures, nail polish, infection tests, medications, snoring, fasting, post-COVID recovery, blood pressure, and transfusion planning as anesthesia-safety inputs.
 - Clarified that patient-facing preparation rules are risk controls for airway, oxygenation, aspiration, circulation, monitoring, and recovery.
+- Extended the safety system into non-intubated gastrointestinal endoscopy and other out-of-operating-room anesthesia.
+- Added shared-airway access and continuous attendance as short-procedure safety constraints.
 
 ## Related Concepts
 - [[PreoperativeAnesthesiaAssessment]] - preoperative gate and preparation branch inside anesthesia safety.
 - [[AnesthesiaDrugMythBoundary]] - medication-misconception branch inside anesthesia safety.
 - [[OperatingRoomPhysiologyManagement]] - intraoperative temperature, airway, and monitoring branch inside anesthesia safety.
 - [[PostAnesthesiaRecoverySafety]] - emergence and postoperative reaction branch inside anesthesia safety.
+- [[SedatedGastrointestinalEndoscopy]] - outpatient procedural-anesthesia example with shared airway access and continuous monitoring.
 - [[MedicalRiskManagement]] - broader severity-aware clinical safety frame.
 - [[MedicalDiagnosticReasoning]] - assessment logic used before and during care.
 - [[DoctorPatientCommunication]] - patient history and questions supply safety-relevant information.

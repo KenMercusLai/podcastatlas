@@ -21008,3 +21008,11 @@ Added source `555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968`; creat
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM
+
+Added source `vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov`; created `WuHaotianAnesthesiologist`, `JiangYongliang`, `GaoJiachengPodcastGuest`, `LuffyMedicalChannel`, `SedatedGastrointestinalEndoscopy`, and `EndoscopyPathologyFollowup`; updated `PerioperativeAnesthesiaSafety`, `PostAnesthesiaRecoverySafety`, `AnesthesiaDrugMythBoundary`, `ColonPolypRiskStratification`, and the index. Core synthesis: painless gastrointestinal endoscopy is a monitored clinical pathway spanning preparation, shared-airway anesthesia safety, examination, recovery, pathology, and return interpretation rather than merely “sleep and wake.” No settled contradiction found; the title/body spelling mismatch 高嘉程／高嘉诚 is preserved explicitly, and anesthesia eligibility, preparation, drug clearance, cognition, pathology, aftercare, Helicobacter pylori management, and surveillance intervals remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

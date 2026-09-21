@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10413
+wiki_total_pages: 10417
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -755,6 +755,9 @@ wiki_pages:
   - key: "LudwigWittgenstein"
     title: "Ludwig Wittgenstein / 维特根斯坦"
     url: "/wiki/entities/ludwigwittgenstein/"
+  - key: "LuffyMedicalChannel"
+    title: "Luffy医学频道 / Luffy Medical Channel"
+    url: "/wiki/entities/luffymedicalchannel/"
   - key: "Lugano"
     title: "Lugano"
     url: "/wiki/entities/lugano/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7748
+wiki_total_pages: 7750
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "EndogenousMoneyCreation"
     title: "Endogenous Money Creation / 内生货币"
     url: "/wiki/concepts/endogenousmoneycreation/"
+  - key: "EndoscopyPathologyFollowup"
+    title: "Endoscopy Pathology and Follow-up / 内镜病理与复诊闭环"
+    url: "/wiki/concepts/endoscopypathologyfollowup/"
   - key: "EnduranceTrainingModalities"
     title: "Endurance Training Modalities"
     url: "/wiki/concepts/endurancetrainingmodalities/"

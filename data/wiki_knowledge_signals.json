@@ -7499,9 +7499,9 @@
       "url": "/wiki/entities/andystumpf/"
     },
     "AnesthesiaDrugMythBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -7509,9 +7509,16 @@
           "show": "这病说来话长",
           "title": "VOL.33麻醉科｜你对麻醉恐惧吗？你还记得醒来的瞬间吗？关于手术中、后麻醉的误解和禁忌｜附外科医生采访录音",
           "url": "/wiki/sources/vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr/"
+        },
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/anesthesiadrugmythboundary/"
     },
     "AngelRaymer": {
@@ -22855,9 +22862,9 @@
       "url": "/wiki/entities/collegiatelicensingcompany/"
     },
     "ColonPolypRiskStratification": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -22865,9 +22872,16 @@
           "show": "这病说来话长",
           "title": "VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书",
           "url": "/wiki/sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih/"
+        },
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/colonpolypriskstratification/"
     },
     "ColonelMadanEverestPilot": {
@@ -37220,6 +37234,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
+    "EndoscopyPathologyFollowup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/endoscopypathologyfollowup/"
+    },
     "EnduranceTrainingModalities": {
       "episode_count": 1,
       "show_count": 1,
@@ -46404,6 +46434,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/gaohanstandup/"
+    },
+    "GaoJiachengPodcastGuest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/gaojiachengpodcastguest/"
     },
     "GaoJunEasternHan": {
       "episode_count": 2,
@@ -63372,6 +63418,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/jiangxuxinofficial/"
     },
+    "JiangYongliang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/jiangyongliang/"
+    },
     "JiangYuliangDoctor": {
       "episode_count": 1,
       "show_count": 1,
@@ -76341,6 +76403,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/luciuscorneliussulla/"
+    },
+    "LuffyMedicalChannel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/luffymedicalchannel/"
     },
     "LuigiCadorna": {
       "episode_count": 1,
@@ -91406,9 +91484,9 @@
       "url": "/wiki/concepts/perimenopausebrainmetabolism/"
     },
     "PerioperativeAnesthesiaSafety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -91423,9 +91501,16 @@
           "show": "这病说来话长",
           "title": "VOL.32麻醉科｜你做过手术吗？你经历过麻醉吗？关于手术前麻醉的误解和禁忌｜附患者采访录音",
           "url": "/wiki/sources/vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn/"
+        },
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/perioperativeanesthesiasafety/"
     },
     "PerioperativeCircadianRecovery": {
@@ -93740,9 +93825,9 @@
       "url": "/wiki/concepts/post911counterterrorismarchitecture/"
     },
     "PostAnesthesiaRecoverySafety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -93750,9 +93835,16 @@
           "show": "这病说来话长",
           "title": "VOL.33麻醉科｜你对麻醉恐惧吗？你还记得醒来的瞬间吗？关于手术中、后麻醉的误解和禁忌｜附外科医生采访录音",
           "url": "/wiki/sources/vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr/"
+        },
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/postanesthesiarecoverysafety/"
     },
     "PostApartheidStructuralInequality": {
@@ -104885,6 +104977,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/securityforauthorityexchange/"
+    },
+    "SedatedGastrointestinalEndoscopy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/sedatedgastrointestinalendoscopy/"
     },
     "SeedOilEvidenceBoundary": {
       "episode_count": 1,
@@ -128088,6 +128196,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/wuhankun/"
+    },
+    "WuHaotianAnesthesiologist": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmiFB8pnp9D-QS_eZkdzyIjYUTov [lmiFB8pnp9D-QS_eZkdzyIjYUTov].md",
+          "key": "vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov",
+          "show": "这病说来话长",
+          "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
+          "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/wuhaotiananesthesiologist/"
     },
     "WuJianglongWesternHan": {
       "episode_count": 1,
