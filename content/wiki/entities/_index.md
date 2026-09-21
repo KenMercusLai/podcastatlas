@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10429
+wiki_total_pages: 10435
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1511,6 +1511,9 @@ wiki_pages:
   - key: "AnarchyEnglishCivilWar"
     title: "The Anarchy"
     url: "/wiki/entities/anarchyenglishcivilwar/"
+  - key: "AethelredTheUnready"
+    title: "Æthelred the Unready"
+    url: "/wiki/entities/aethelredtheunready/"
   - key: "AStretchOfHighwayTwoLanesWide"
     title: "《一段双车道公路》"
     url: "/wiki/entities/astretchofhighwaytwolaneswide/"

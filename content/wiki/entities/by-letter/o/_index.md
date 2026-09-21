@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 10429
+wiki_total_pages: 10435
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "OlafIIOfNorway"
     title: "Olaf II of Norway"
     url: "/wiki/entities/olafiiofnorway/"
+  - key: "OlafTryggvason"
+    title: "Olaf Tryggvason"
+    url: "/wiki/entities/olaftryggvason/"
   - key: "OlegGordievsky"
     title: "Oleg Gordievsky / 奥列格·戈尔杰夫斯基"
     url: "/wiki/entities/oleggordievsky/"

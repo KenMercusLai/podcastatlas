@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7781
+wiki_total_pages: 7784
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -29,6 +29,9 @@ wiki_pages:
   - key: "DanNoUraBattle"
     title: "Dan-no-ura Battle"
     url: "/wiki/concepts/dannourabattle/"
+  - key: "DanegeldEscalation"
+    title: "Danegeld Escalation"
+    url: "/wiki/concepts/danegeldescalation/"
   - key: "DangerousAllyInvitationRisk"
     title: "Dangerous Ally Invitation Risk / 引强援反噬风险"
     url: "/wiki/concepts/dangerousallyinvitationrisk/"
@@ -38,6 +41,9 @@ wiki_pages:
   - key: "DangerousKnowledgeSecrecy"
     title: "Dangerous Knowledge Secrecy"
     url: "/wiki/concepts/dangerousknowledgesecrecy/"
+  - key: "DanishConquestOfEngland"
+    title: "Danish Conquest of England"
+    url: "/wiki/concepts/danishconquestofengland/"
   - key: "DaoistAlchemy"
     title: "Daoist Alchemy / 道教炼丹"
     url: "/wiki/concepts/daoistalchemy/"

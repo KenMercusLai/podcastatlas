@@ -21119,3 +21119,11 @@ Added source `essentials-supercharge-exercise-performance-recovery-with-cooling-
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 549. The Road to 1066: Revenge of the Vikings (Part 2)
+
+Added source `549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985`; created six ruler pages and three concept pages; updated `EmmaOfNormandy`, the index, and the overview. Core synthesis: Scandinavian Christian kingship increased state capacity without ending coercion, repeated Danegeld weakened Æthelred's legitimacy, and Cnut turned the 1016 conquest into durable rule by combining violent consolidation with English institutions and dynastic marriage. No settled contradiction found; legendary episodes, royal motives, military and fiscal quantities, and the state-formation interpretation remain source-scoped.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

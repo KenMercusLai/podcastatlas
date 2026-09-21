@@ -5147,6 +5147,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/aesopbeauty/"
     },
+    "AethelredTheUnready": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/aethelredtheunready/"
+    },
     "AfricanFemaleAuthorityInstitutions": {
       "episode_count": 1,
       "show_count": 1,
@@ -22299,6 +22315,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/clubnationalteamboundaryblur/"
     },
+    "CnutTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/cnutthegreat/"
+    },
     "CoCom": {
       "episode_count": 1,
       "show_count": 1,
@@ -27340,6 +27372,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/danpashman/"
     },
+    "DanegeldEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/danegeldescalation/"
+    },
     "DangerousAllyInvitationRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -27387,6 +27435,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/dangerousknowledgesecrecy/"
+    },
+    "DanishConquestOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/danishconquestofengland/"
     },
     "Danone": {
       "episode_count": 2,
@@ -34132,6 +34196,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/edithofwessex/"
     },
+    "EdmundIronside": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/edmundironside/"
+    },
     "EducationMotivationArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -35197,9 +35277,9 @@
       "url": "/wiki/concepts/emergentinnovationstrategy/"
     },
     "EmmaOfNormandy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9316865693 [GLT9316865693].md",
@@ -35207,9 +35287,16 @@
           "show": "The Rest Is History",
           "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
           "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        },
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/emmaofnormandy/"
     },
     "EmmaThomas": {
@@ -53395,6 +53482,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/happymondayclub/"
+    },
+    "HaraldBluetooth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/haraldbluetooth/"
     },
     "HaraldHardrada": {
       "episode_count": 4,
@@ -88625,6 +88728,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/olafiiofnorway/"
     },
+    "OlafTryggvason": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/olaftryggvason/"
+    },
     "OlderAdultStereotypeResistance": {
       "episode_count": 1,
       "show_count": 1,
@@ -105277,6 +105396,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
     },
+    "ScandinavianChristianKingship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/scandinavianchristiankingship/"
+    },
     "ScarcityMindset": {
       "episode_count": 1,
       "show_count": 1,
@@ -115985,6 +116120,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/sweeteneruncertainty/"
+    },
+    "SweynForkbeard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2312975985 [GLT2312975985].md",
+          "key": "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985",
+          "show": "The Rest Is History",
+          "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
+          "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/sweynforkbeard/"
     },
     "SwireGroup": {
       "episode_count": 1,

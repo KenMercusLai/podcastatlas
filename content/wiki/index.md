@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [549. The Road to 1066: Revenge of the Vikings (Part 2)](sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985.md) — The Rest Is History episode on Scandinavian Christian kingship, Sweyn's 1013 conquest, the Danegeld cycle, and Cnut's 1016 victory and consolidation.
 - [Essentials: Supercharge Exercise Performance & Recovery with Cooling](sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411.md) — Huberman Lab Essentials episode on heat-limited output, cardiac drift, glabrous-skin cooling, vasoconstriction-aware protocols, and recovery-adaptation tradeoffs.
 - [550. The Road to 1066: Rise of the Normans (Part 3)](sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693.md) — The Rest Is History episode on Norman castle lordship, William's violent minority, the post-Cnut English succession crisis, and Edward's restoration.
 - [551. The Road to 1066: Countdown to Conquest (Part 4)](sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299.md) — The Rest Is History episode on Godwin family ascent, Edward and Edith's childlessness, Harold's rise and disputed oath, Tostig's failed Northumbrian rule, and the factional prehistory of 1066.
@@ -2653,6 +2654,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman](sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849.md) — Huberman Lab interview on oral microbial ecology, saliva, tooth mineral balance, airway development, periodontal-systemic evidence, and fluoride risk-benefit questions.
 
 ## Entities
+- [Cnut the Great](entities/CnutTheGreat.md) — Danish conqueror who turns the 1016 victory into stable English Christian kingship.
+- [Sweyn Forkbeard](entities/SweynForkbeard.md) — Danish ruler whose 1013 campaign first displaces Æthelred from England.
+- [Æthelred the Unready](entities/AethelredTheUnready.md) — English king whose provocation, tribute policy, and lost prestige precede Danish conquest.
+- [Edmund Ironside](entities/EdmundIronside.md) — English military claimant whose defeat, partition, and death leave Cnut sole ruler.
+- [Olaf Tryggvason](entities/OlafTryggvason.md) — Norwegian Christianizing king defeated by Sweyn in the North Sea rivalry.
+- [Harald Bluetooth](entities/HaraldBluetooth.md) — Jelling dynast whose conversion claim joins Danish consolidation to Christian monarchy.
 - [Staci Whitman](entities/StaciWhitman.md) — Dentist presenting an ecosystem-centered preventive framework for oral health, tooth mineral balance, airway function, and qualified whole-body links.
 - [Godwin, Earl of Wessex](entities/GodwinEarlOfWessex.md) — Cnut-era political survivor whose royal bargain and family expansion make the Godwins England's dominant pre-1066 house.
 - [Edith of Wessex](entities/EdithOfWessex.md) — Educated queen whose childless marriage, removal, restoration, and likely source patronage connect court faction to the succession crisis.
@@ -13091,6 +13098,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Danish Conquest of England](concepts/DanishConquestOfEngland.md) — Two-stage 1013-1016 conquest completed by Cnut through coercion and institutional appropriation.
+- [Scandinavian Christian Kingship](concepts/ScandinavianChristianKingship.md) — Model joining conversion, ecclesiastical prestige, administration, taxation, and stronger monarchy.
+- [Danegeld Escalation](concepts/DanegeldEscalation.md) — Tribute feedback loop that strengthens returning attackers while weakening royal legitimacy.
 - [Exercise Heat Management](concepts/ExerciseHeatManagement.md) — Goal-sensitive framework linking exercise heat, cardiac drift, glabrous-skin heat transfer, moderate cooling, and post-training adaptation tradeoffs.
 - [Motor Skill Repetition Density](concepts/MotorSkillRepetitionDensity.md) — Motor-learning principle that prioritizes safe, feedback-rich attempts per unit time over elapsed practice hours alone.
 - [Stage-Matched Motor Skill Practice](concepts/StageMatchedMotorSkillPractice.md) — Proficiency-dependent framework for ordinary attempts, slow practice, metronomes, attentional targets, and visualization.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7781
+wiki_total_pages: 7784
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "ScamCompoundPoliticalProtection"
     title: "Scam Compound Political Protection"
     url: "/wiki/concepts/scamcompoundpoliticalprotection/"
+  - key: "ScandinavianChristianKingship"
+    title: "Scandinavian Christian Kingship"
+    url: "/wiki/concepts/scandinavianchristiankingship/"
   - key: "ScarcityMindset"
     title: "Scarcity Mindset / 稀缺心态"
     url: "/wiki/concepts/scarcitymindset/"

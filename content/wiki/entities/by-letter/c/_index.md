@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10429
+wiki_total_pages: 10435
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -974,6 +974,9 @@ wiki_pages:
   - key: "CNOOC"
     title: "CNOOC / 中国海油"
     url: "/wiki/entities/cnooc/"
+  - key: "CnutTheGreat"
+    title: "Cnut the Great"
+    url: "/wiki/entities/cnutthegreat/"
   - key: "CoCounsel"
     title: "Co-Counsel"
     url: "/wiki/entities/cocounsel/"
