@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10471
+wiki_total_pages: 10478
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "HearsayBrewingAndTheater"
     title: "Hearsay Brewing and Theater"
     url: "/wiki/entities/hearsaybrewingandtheater/"
+  - key: "HeartOfDarkness"
+    title: "Heart of Darkness"
+    url: "/wiki/entities/heartofdarkness/"
   - key: "HeatedRivalry"
     title: "Heated Rivalry"
     url: "/wiki/entities/heatedrivalry/"

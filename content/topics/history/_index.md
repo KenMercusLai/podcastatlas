@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1919
+topic_total_pages: 1920
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4572,6 +4572,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786"
+    title: "541. Heart of Darkness: Fear and Loathing in the Congo"
+    url: "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
   - key: "542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016"
     title: "542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe"
     url: "/wiki/sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016/"

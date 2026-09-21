@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2771
+topic_total_pages: 2776
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -655,6 +655,9 @@ topic_concepts:
   - key: "CollegeSportsFandomDemand"
     title: "College Sports Fandom Demand / 大学体育球迷需求"
     url: "/wiki/concepts/collegesportsfandomdemand/"
+  - key: "ColonialLiteraryAmbivalence"
+    title: "Colonial Literary Ambivalence"
+    url: "/wiki/concepts/colonialliteraryambivalence/"
   - key: "ColorAsIdentityDisruption"
     title: "Color As Identity Disruption"
     url: "/wiki/concepts/colorasidentitydisruption/"
@@ -1735,6 +1738,9 @@ topic_concepts:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
     url: "/wiki/concepts/namingpowersocialchange/"
+  - key: "NarrativeFrameAuthorDistance"
+    title: "Narrative Frame and Authorial Distance"
+    url: "/wiki/concepts/narrativeframeauthordistance/"
   - key: "NarrativePluralism"
     title: "Narrative Pluralism / 叙事多样性"
     url: "/wiki/concepts/narrativepluralism/"
@@ -3614,6 +3620,9 @@ topic_entities:
   - key: "EdSabol"
     title: "Ed Sabol"
     url: "/wiki/entities/edsabol/"
+  - key: "EdwardSaid"
+    title: "Edward Said"
+    url: "/wiki/entities/edwardsaid/"
   - key: "EdwinAbbott"
     title: "Edwin A. Abbott / 爱德温·爱伯特"
     url: "/wiki/entities/edwinabbott/"
@@ -3875,6 +3884,9 @@ topic_entities:
   - key: "HBO"
     title: "HBO"
     url: "/wiki/entities/hbo/"
+  - key: "HeartOfDarkness"
+    title: "Heart of Darkness"
+    url: "/wiki/entities/heartofdarkness/"
   - key: "HeatherSchwartz"
     title: "Heather Schwartz"
     url: "/wiki/entities/heatherschwartz/"
@@ -7713,6 +7725,9 @@ topic_sources:
   - key: "54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699"
     title: "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释"
     url: "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
+  - key: "541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786"
+    title: "541. Heart of Darkness: Fear and Loathing in the Congo"
+    url: "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
   - key: "55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306"
     title: "55.安徒生童话：海的女儿和不灭的灵魂"
     url: "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"

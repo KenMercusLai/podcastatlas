@@ -21278,3 +21278,11 @@ Added source `essentials-how-to-optimize-testosterone-estrogen-scim1902283258`; 
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 541. Heart of Darkness: Fear and Loathing in the Congo
+
+Added source `541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786`; created `JosephConrad`, `HeartOfDarkness`, `CongoFreeState`, `LeopoldII`, `RogerCasement`, `ChinuaAchebe`, `EdwardSaid`, `ImperialCivilisingMissionContradiction`, `ColonialLiteraryAmbivalence`, and `NarrativeFrameAuthorDistance`; migrated and updated `DemocraticRepublicOfCongo`; and updated the index. Core synthesis: Conrad's novella exposes the coercion and profit behind Leopoldian civilising rhetoric while remaining bounded by an imperial horizon and by representations that marginalize African speech and personhood. No settled contradiction found; Kurtz's models, Conrad's motives, the meaning of “darkness,” narrator-author distance, and the balance between anti-colonial force and racism remain contested and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

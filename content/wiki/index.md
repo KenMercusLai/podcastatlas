@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [541. Heart of Darkness: Fear and Loathing in the Congo](sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786.md) — The Rest Is History episode on Conrad's Congo journey, Leopoldian extraction, the civilising mission, literary modernism, and the Achebe-Said critiques of the novella.
 - [542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe](sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016.md) — The Rest Is History episode on John Dee, Tudor knowledge boundaries, angelic mediation, occult patronage risk, and cartographic-imperial mythmaking.
 - [543. Death in the Amazon: Aguirre, the Wrath of God](sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248.md) — The Rest Is History episode on the failed El Dorado expedition, Aguirre's mutiny and anti-royal rebellion, fragile colonial rule, and survivor incentives in his demonic reputation.
 - [Essentials: How to Control Hunger, Eating & Satiety](sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648.md) — Huberman Lab Essentials episode on brain-gut appetite regulation, learned ghrelin timing, nutrient-linked satiety, meal context, movement, and bounded intervention claims.
@@ -2675,6 +2676,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Testosterone & Estrogen](sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258.md) — Huberman Lab Essentials episode on sex-steroid feedback, aromatization, sleep, stress, light, exercise, supplements, bloodwork, and clinical risk boundaries.
 
 ## Entities
+- [Joseph Conrad](entities/JosephConrad.md) — Polish-born British sailor-writer whose 1890 Congo experience became the basis for Heart of Darkness.
+- [Heart of Darkness](entities/HeartOfDarkness.md) — Conrad's modernist novella exposing colonial violence while remaining contested for its representation of Africans.
+- [Congo Free State](entities/CongoFreeState.md) — Leopold II's personal colonial regime and the historical matrix of Conrad's Congo fiction.
+- [Leopold II](entities/LeopoldII.md) — Belgian king whose Congo regime joined civilising rhetoric to coercive extraction.
+- [Roger Casement](entities/RogerCasement.md) — Consular reformer connecting Conrad's fragmentary Congo witness to later forensic exposure of abuses.
+- [Chinua Achebe](entities/ChinuaAchebe.md) — Nigerian author and critic who challenged Heart of Darkness for dehumanizing Africans.
+- [Edward Said](entities/EdwardSaid.md) — Palestinian American critic emphasizing Conrad's continuing imperial horizon and colonial knowledge as control.
 - [Walter Raleigh](entities/WalterRaleigh.md) — Elizabethan colonial-project figure linked by the source to John Dee's cartographic and imperial ideas around Virginia and Roanoke.
 - [John Dee](entities/JohnDee.md) — Tudor polymath connecting mathematics, navigation, cartography, court astrology, imperial argument, and angelic inquiry.
 - [Edward Kelley](entities/EdwardKelley.md) — Scryer and alchemist whose exclusive control of claimed angelic messages made him indispensable to John Dee.
@@ -13155,6 +13163,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
 ## Concepts
+- [Imperial Civilising-Mission Contradiction](concepts/ImperialCivilisingMissionContradiction.md) — Gap between humanitarian colonial rhetoric and systems organized around extraction, coercion, and violence.
+- [Colonial Literary Ambivalence](concepts/ColonialLiteraryAmbivalence.md) — A work's capacity to indict empire while retaining racial hierarchy, silenced perspectives, or an imperial political horizon.
+- [Narrative Frame and Authorial Distance](concepts/NarrativeFrameAuthorDistance.md) — Interpretive distance between author and framed speaker that complicates attribution without erasing textual responsibility.
 - [Early-Modern Knowledge Continuum](concepts/EarlyModernKnowledgeContinuum.md) — Framework for historically entangled mathematical, religious, alchemical, astrological, and magical inquiry without collapsing evidence standards.
 - [Court Occult Expertise Risk](concepts/CourtOccultExpertiseRisk.md) — Patronage bargain in which extraordinary expertise brings access, political danger, and punishment for failed delivery.
 - [Angelic Knowledge Mediation](concepts/AngelicKnowledgeMediation.md) — Information asymmetry created when a seeker depends on another person's exclusive claim to supernatural perception.

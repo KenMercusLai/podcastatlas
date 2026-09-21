@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10471
+wiki_total_pages: 10478
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "ChinookCheckers"
     title: "Chinook Checkers"
     url: "/wiki/entities/chinookcheckers/"
+  - key: "ChinuaAchebe"
+    title: "Chinua Achebe"
+    url: "/wiki/entities/chinuaachebe/"
   - key: "ChipWar"
     title: "Chip War"
     url: "/wiki/entities/chipwar/"
@@ -1094,6 +1097,9 @@ wiki_pages:
   - key: "CondeNast"
     title: "Conde Nast"
     url: "/wiki/entities/condenast/"
+  - key: "CongoFreeState"
+    title: "Congo Free State"
+    url: "/wiki/entities/congofreestate/"
   - key: "ConocoPhillips"
     title: "ConocoPhillips"
     url: "/wiki/entities/conocophillips/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7832
+wiki_total_pages: 7835
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "ColonialFrontierGovernanceFragility"
     title: "Colonial Frontier Governance Fragility"
     url: "/wiki/concepts/colonialfrontiergovernancefragility/"
+  - key: "ColonialLiteraryAmbivalence"
+    title: "Colonial Literary Ambivalence"
+    url: "/wiki/concepts/colonialliteraryambivalence/"
   - key: "ColonialLoyaltyRupture"
     title: "Colonial Loyalty Rupture"
     url: "/wiki/concepts/colonialloyaltyrupture/"

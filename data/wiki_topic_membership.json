@@ -1773,6 +1773,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016": [
     {
       "key": "history",
@@ -17547,6 +17559,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ColonialLiteraryAmbivalence": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ColonialPowerMiscalculation": [
     {
       "key": "politics",
@@ -23812,6 +23831,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "EdwardSaid": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "EdwardThorp": [
@@ -33156,6 +33182,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HeartOfDarkness": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HeatherSchwartz": [
@@ -48963,6 +48996,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "NarrativeFrameAuthorDistance": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "NarrativePluralism": [
