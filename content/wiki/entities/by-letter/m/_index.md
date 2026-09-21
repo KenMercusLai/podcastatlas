@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10417
+wiki_total_pages: 10418
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "Magnify"
     title: "Magnify"
     url: "/wiki/entities/magnify/"
+  - key: "MagnusTheGood"
+    title: "Magnus the Good"
+    url: "/wiki/entities/magnusthegood/"
   - key: "MaheshBalakrishnan"
     title: "Mahesh Balakrishnan"
     url: "/wiki/entities/maheshbalakrishnan/"

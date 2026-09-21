@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7758
+wiki_total_pages: 7760
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -62,6 +62,9 @@ wiki_pages:
   - key: "SafetyTradeoffBlindness"
     title: "Safety Tradeoff Blindness"
     url: "/wiki/concepts/safetytradeoffblindness/"
+  - key: "SagaSourceCriticism"
+    title: "Saga Source Criticism"
+    url: "/wiki/concepts/sagasourcecriticism/"
   - key: "SaganEffect"
     title: "Sagan Effect"
     url: "/wiki/concepts/saganeffect/"

@@ -15012,9 +15012,9 @@
       "url": "/wiki/entities/byhealth/"
     },
     "ByzantineEmpire": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lu8PaWNKiSeLmmrgubrEy4pq-4fw [lu8PaWNKiSeLmmrgubrEy4pq-4fw].md",
@@ -15022,9 +15022,16 @@
           "show": "忽左忽右",
           "title": "496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海",
           "url": "/wiki/sources/496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw/"
+        },
+        {
+          "episode_file": "GLT5802152245 [GLT5802152245].md",
+          "key": "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245",
+          "show": "The Rest Is History",
+          "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
+          "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/byzantineempire/"
     },
     "CALB": {
@@ -53120,9 +53127,9 @@
       "url": "/wiki/entities/happymondayclub/"
     },
     "HaraldHardrada": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1524879968 [GLT1524879968].md",
@@ -53137,6 +53144,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT5802152245 [GLT5802152245].md",
+          "key": "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245",
+          "show": "The Rest Is History",
+          "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
+          "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
         }
       ],
       "updated": "2026-09-21",
@@ -78626,6 +78640,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/magdala/"
     },
+    "MagnusTheGood": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5802152245 [GLT5802152245].md",
+          "key": "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245",
+          "show": "The Rest Is History",
+          "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
+          "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/magnusthegood/"
+    },
     "MaintainYourBrainTrial": {
       "episode_count": 1,
       "show_count": 1,
@@ -103599,6 +103629,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/safeeffortprocrastinationreset/"
     },
+    "SagaSourceCriticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5802152245 [GLT5802152245].md",
+          "key": "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245",
+          "show": "The Rest Is History",
+          "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
+          "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/sagasourcecriticism/"
+    },
     "SageOx": {
       "episode_count": 1,
       "show_count": 1,
@@ -122357,6 +122403,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/vannevarbush/"
+    },
+    "VarangianGuard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5802152245 [GLT5802152245].md",
+          "key": "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245",
+          "show": "The Rest Is History",
+          "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
+          "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/varangianguard/"
     },
     "VasilyGolitsyn": {
       "episode_count": 1,

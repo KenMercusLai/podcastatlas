@@ -21040,3 +21040,11 @@ Added source `essentials-lose-fat-with-science-based-tools-scim9321862300`; crea
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 553. The Last Viking: Warrior of the New Rome (Part 2)
+
+Added source `553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245`; created `MagnusTheGood`, `VarangianGuard`, and `SagaSourceCriticism`; updated `HaraldHardrada`, `ByzantineEmpire`, and the index. Core synthesis: Harald's Byzantine service plausibly converted exile into military experience, rank, treasure, and reputation that he later used to secure Norwegian kingship, while his centralizing taxation, coinage, Christianity, and brutal suppression of resistance qualify the heroic “last Viking” image. No settled contradiction found; campaign details, court rank, treasure mechanisms, romance, imprisonment, Michael V's blinding, the Golden Horn escape, Magnus's dream, dialogue, and the origin of “Hardrada” remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1780,6 +1780,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "554-1066-the-shadows-of-war-part-1-glt1461163139": [
     {
       "key": "history",
@@ -60819,6 +60826,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SagaSourceCriticism": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SaganEffect": [

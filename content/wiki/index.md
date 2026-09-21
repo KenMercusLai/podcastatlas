@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [553. The Last Viking: Warrior of the New Rome (Part 2)](sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245.md) — The Rest Is History episode on Harald Hardrada's Byzantine service, wealth-backed rise to Norwegian kingship, severe centralization, and saga-shaped historical memory.
 - [Essentials: Lose Fat With Science-Based Tools](sources/essentials-lose-fat-with-science-based-tools-scim9321862300.md) — Huberman Lab Essentials episode on calorie balance, fat mobilization versus oxidation, movement thermogenesis, shivering and cold safety, exercise sequencing, caffeine, GLP-1, insulin, and sustainable adherence.
 - [554. 1066: The Shadows of War (Part 1)](sources/554-1066-the-shadows-of-war-part-1-glt1461163139.md) — The Rest Is History episode on Edward's death, Harold's election, rival succession claims, Tostig's grievance, Norman invasion logistics, papal backing, English mobilization, and the northern invasion threat.
 - [VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM](sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov.md) — 这病说来话长 episode with 吴浩天, 蒋永亮, and 高嘉诚 on painless gastrointestinal endoscopy, anesthesia and airway monitoring, bowel preparation, pathology, polyp risk, recovery, and follow-up.
@@ -2643,6 +2644,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Find & Be a Great Romantic Partner | Lori Gottlieb](sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639.md) — Huberman Lab interview on emotional regulation, familiar relationship patterns, partner selection, conflict repair, breakups, grief, and intentional living.
 
 ## Entities
+- [Magnus the Good](entities/MagnusTheGood.md) — Norwegian and Danish king whose wealth-backed accommodation with Harald Hardrada briefly creates shared rule before Harald's sole succession.
 - [吴浩天 / Wu Haotian (Anesthesiologist)](entities/WuHaotianAnesthesiologist.md) — Anesthesiologist and Luffy医学频道 founder explaining continuous monitoring, airway safety, and recovery during painless gastrointestinal endoscopy.
 - [蒋永亮 / Jiang Yongliang](entities/JiangYongliang.md) — Gastroenterologist explaining endoscopy findings, pathology, polyp treatment, aftercare, and return review.
 - [高嘉诚 / Gao Jiacheng (Podcast Guest)](entities/GaoJiachengPodcastGuest.md) — Patient-experience guest whose painless gastroscopy and colonoscopy anchor the episode, with a source-level name-spelling qualification.
@@ -13069,6 +13071,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Varangian Guard](concepts/VarangianGuard.md) — Byzantine foreign military institution that converts Harald Hardrada's mobile service into campaign experience, imperial rank, wealth, and portable political capital.
+- [Saga Source Criticism](concepts/SagaSourceCriticism.md) — Method for testing later heroic traditions against independent context, chronology, and recurring literary motifs while preserving graded historical confidence.
 - [Sedated Gastrointestinal Endoscopy / 无痛胃肠镜](concepts/SedatedGastrointestinalEndoscopy.md) — End-to-end safety model joining preparation, intravenous anesthesia, continuous airway and vital-sign monitoring, examination, recovery, and aftercare.
 - [Endoscopy Pathology and Follow-up / 内镜病理与复诊闭环](concepts/EndoscopyPathologyFollowup.md) — Closed-loop model joining endoscopic images, pathology, intervention details, recovery instructions, and return interpretation.
 - [Battle of Stamford Bridge](concepts/BattleOfStamfordBridge.md) — 1066 English victory understood through a credible conquest bid, a divided invasion force, Harold's operational surprise, and qualified Viking-Age periodization.

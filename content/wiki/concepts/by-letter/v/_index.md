@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7758
+wiki_total_pages: 7760
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "VanquishedRulerReputationConstruction"
     title: "Vanquished Ruler Reputation Construction / 亡国君污名建构"
     url: "/wiki/concepts/vanquishedrulerreputationconstruction/"
+  - key: "VarangianGuard"
+    title: "Varangian Guard"
+    url: "/wiki/concepts/varangianguard/"
   - key: "VariableInterestEntity"
     title: "Variable Interest Entity / VIE 架构"
     url: "/wiki/concepts/variableinterestentity/"

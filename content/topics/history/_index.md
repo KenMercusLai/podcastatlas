@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1904
+topic_total_pages: 1906
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -988,6 +988,9 @@ topic_concepts:
   - key: "RumorErosionOfTrust"
     title: "Rumor Erosion of Trust / 谣言侵蚀信任"
     url: "/wiki/concepts/rumorerosionoftrust/"
+  - key: "SagaSourceCriticism"
+    title: "Saga Source Criticism"
+    url: "/wiki/concepts/sagasourcecriticism/"
   - key: "SantoriniAtlantisTheory"
     title: "Santorini Atlantis Theory"
     url: "/wiki/concepts/santoriniatlantistheory/"
@@ -4563,6 +4566,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245"
+    title: "553. The Last Viking: Warrior of the New Rome (Part 2)"
+    url: "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
   - key: "554-1066-the-shadows-of-war-part-1-glt1461163139"
     title: "554. 1066: The Shadows of War (Part 1)"
     url: "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"

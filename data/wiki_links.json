@@ -1171,6 +1171,10 @@
     "title": "55.安徒生童话：海的女儿和不灭的灵魂",
     "url": "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"
   },
+  "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245": {
+    "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
+    "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+  },
   "554-1066-the-shadows-of-war-part-1-glt1461163139": {
     "title": "554. 1066: The Shadows of War (Part 1)",
     "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
@@ -40567,6 +40571,10 @@
     "title": "Magnify",
     "url": "/wiki/entities/magnify/"
   },
+  "MagnusTheGood": {
+    "title": "Magnus the Good",
+    "url": "/wiki/entities/magnusthegood/"
+  },
   "MaheshBalakrishnan": {
     "title": "Mahesh Balakrishnan",
     "url": "/wiki/entities/maheshbalakrishnan/"
@@ -55371,6 +55379,10 @@
     "title": "Safety Tradeoff Blindness",
     "url": "/wiki/concepts/safetytradeoffblindness/"
   },
+  "SagaSourceCriticism": {
+    "title": "Saga Source Criticism",
+    "url": "/wiki/concepts/sagasourcecriticism/"
+  },
   "SaganEffect": {
     "title": "Sagan Effect",
     "url": "/wiki/concepts/saganeffect/"
@@ -65770,6 +65782,10 @@
   "Vanta": {
     "title": "Vanta",
     "url": "/wiki/entities/vanta/"
+  },
+  "VarangianGuard": {
+    "title": "Varangian Guard",
+    "url": "/wiki/concepts/varangianguard/"
   },
   "VariableInterestEntity": {
     "title": "Variable Interest Entity / VIE 架构",
