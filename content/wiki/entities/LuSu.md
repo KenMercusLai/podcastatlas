@@ -12,6 +12,7 @@ sources:
   - zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn
   - zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
+  - zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3
 last_updated: 2026-09-21
 ---
 
@@ -29,7 +30,7 @@ Hanji 1096 backfills the exploratory phase before that pitch. Lu Su turns Liu Bi
 
 Hanji 1101 shows the same attention to audience-specific incentives under Cao Cao's threat. Lu Su privately distinguishes the portable career of an ordinary minister from Sun Quan's non-portable ruler status. Hanji 1102 completes the comparison: Lu Su makes his own plausible post-surrender office the foil for Sun Quan's likely loss of power, surveillance, and mortal danger, then immediately recommends recalling Zhou Yu so that the personal-risk insight can be joined to military analysis. His counsel therefore spans both sides of coalition choice: he can make alliance acceptable to a weakened external actor and make surrender unacceptable to an exposed ruler.
 
-Hanji 1118 extends the profile beyond coalition formation. After Zhou Yu's death, Lu Su succeeds to his forces and recommends allowing Liu Bei to hold a larger Jingzhou foothold. The episode reads this as [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]]: strengthening the weaker partner makes the anti-Cao front harder to divide, even though the same territorial autonomy creates later distribution risk. Lu Su also appears as an evaluator who revises his judgment of [[LyuMeng|吕蒙]] after the commander's study and who recommends [[PangTong|庞统]] to Liu Bei after a poor initial placement.
+Hanji 1117-1118 extend the profile beyond coalition formation. Hanji 1117 has the dying Zhou Yu recommend Lu Su as loyal and careful enough to replace him, even though Zhou Yu's proposed detention of Liu Bei differs from Lu Su's later partner-strengthening path. Hanji 1118 supplies the institutional outcome: Lu Su succeeds to the forces and recommends allowing Liu Bei to hold a larger Jingzhou foothold. The episode reads this as [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]]: strengthening the weaker partner makes the anti-Cao front harder to divide, even though the same territorial autonomy creates later distribution risk. Lu Su also appears as an evaluator who revises his judgment of [[LyuMeng|吕蒙]] after the commander's study and who recommends [[PangTong|庞统]] to Liu Bei after a poor initial placement.
 
 ## Key Characteristics
 - Rejects a failing patron path and relocates resources toward a more viable political base.
@@ -49,14 +50,15 @@ Hanji 1118 extends the profile beyond coalition formation. After Zhou Yu's death
 - Completed warning and mobilization: [[zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz|Hanji 1102]] specifies the unequal post-surrender outcomes, has Lu Su urge Zhou Yu's recall, and assigns him a planning role in the initial deployment.
 - Exploratory mission: [[zizhi-tongjian-hanji-1096-chibi-zhizhan-qian-gefang-shili-ruhe-anzhong-boyi-licxjg9iqlwbxa23luxbopaqeqyn|Hanji 1096]] has Lu Su use mourning as diplomatic cover to assess Jingzhou, contact Liu Bei, and seek an anti-Cao alignment under a conditional fallback.
 - Postwar alliance and talent judgment: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] has Lu Su succeed to Zhou Yu's forces, advocate Liu Bei's Jingzhou foothold, reassess Lyu Meng after study, and recommend Pang Tong for work above county level.
+- Recommendation antecedent: [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] has Zhou Yu recommend Lu Su before death, grounding the succession later implemented by Sun Quan.
 
 ## Qualifications
-The current profile is bounded to eight popular-history episodes rather than a complete career. The two-part天下 plan is early strategic advice, not a final prediction. Hanji 1096's precise mission wording and fallback order, Hanji 1098's claim that Lu Su is the decisive external turning point, Hanji 1099's detailed rhetorical intent, Hanji 1102's dialogue, and Hanji 1118's command succession, territorial-settlement shorthand, and private evaluations remain source-presented rather than verbatim documentation. Strengthening Liu Bei can improve common defense while also increasing later territorial conflict.
+The current profile is bounded to nine popular-history episodes rather than a complete career. The two-part天下 plan is early strategic advice, not a final prediction. Hanji 1096's precise mission wording and fallback order, Hanji 1098's claim that Lu Su is the decisive external turning point, Hanji 1099's detailed rhetorical intent, Hanji 1102's dialogue, and Hanji 1117-1118's deathbed recommendation, command succession, territorial-settlement shorthand, and private evaluations remain source-presented rather than verbatim documentation. Strengthening Liu Bei can improve common defense while also increasing later territorial conflict, and Zhou Yu's recommendation does not prove that the two advisers shared one Liu Bei policy.
 
 ## What Changed
-- Extended Lu Su from prewar alliance broker into Zhou Yu's military successor and postwar coalition architect.
-- Added the Jingzhou foothold as a deliberate partner-capacity decision with later ownership risk.
-- Added willingness to revise Lyu Meng's reputation and to reopen Pang Tong's evaluation.
+- Grounded Lu Su's military succession in Zhou Yu's prior deathbed recommendation as well as Sun Quan's appointment.
+- Preserved the difference between Zhou Yu's containment proposal and Lu Su's partner-strengthening policy without turning it into a personal feud.
+- Kept the Jingzhou foothold as a deliberate capacity decision that improves common defense while raising later ownership risk.
 
 ## Relationships
 - [[ZhouYuLateHan|周瑜]] - friend and recommender who brings Lu Su into Sun Quan's view.
@@ -74,3 +76,4 @@ The current profile is bounded to eight popular-history episodes rather than a c
 - [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]] - postwar move that strengthens Liu Bei against Cao Cao while increasing partner autonomy.
 - [[LyuMeng|吕蒙]] - commander whose learning leads Lu Su to abandon an outdated assessment.
 - [[PangTong|庞统]] - underused strategist whom Lu Su recommends to Liu Bei for a larger role.
+- [[ZhouYuLateHan|周瑜]] - predecessor who recommends Lu Su for succession despite a different attributed policy toward Liu Bei.

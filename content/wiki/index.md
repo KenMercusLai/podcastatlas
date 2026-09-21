@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？](sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3.md) — 周瑜主张软禁刘备并拆分其核心团队，孙权因曹操仍是更紧迫威胁而拒绝；节目继而补全周瑜西征北伐构想、病逝与荐鲁肃接任。
 - [参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？](sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362.md) — 声动早咖啡 episode on Anaya's shift from weak property sales to resident services, managed lodging, merchant revenue sharing, cultural traffic, and the owner-tourist and replication tensions created by success.
 - [Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻](sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u.md) — 不懂球 episode with Feng Zhen on treating Asian competition seriously while protecting league continuity, improving match supply and squad depth, and using naturalization only as a bounded short-term tool.
 - [《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？](sources/zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz.md) — 周瑜病逝后鲁肃接掌军队并主张让刘备获得荆州立足点，孙刘联盟由战时合作转向更持久的战略牵制，同时以吕蒙读书和庞统获荐讨论人才成长与纠错。

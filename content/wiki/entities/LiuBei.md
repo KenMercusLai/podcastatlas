@@ -22,6 +22,7 @@ sources:
   - zizhi-tongjian-hanji-1098-liubei-de-tiaocao-miji-daizhe-ziyuan-yue-tiao-yue-zhiqian-ltasucqzwrono0qayzx8sonsqc8k
   - zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3
   - zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh
+  - zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3
 last_updated: 2026-09-20
 ---
 
@@ -45,9 +46,11 @@ Hanji 1082 adds the recruitment act immediately before the plan. After recommend
 
 Hanji 1099 adds the next major reversal. After Changban, Liu Bei names [[WuJuLateHan|吴巨]] as a destination, but [[LuSu|鲁肃]] redirects him toward Sun Quan. Lu Su makes the stronger dependency politically acceptable by calling it common enterprise and by invoking [[ZhugeJin|诸葛瑾]]'s relationship with [[ZhugeLiang|诸葛亮]]. The episode interprets Liu Bei's acceptance as an alliance-first revision of the [[LongzhongPlan|隆中对]], preserving the organization before it has secured Jingzhou.
 
+Hanji 1117 shows the later cost of that successful preservation. After Liu Qi's death and the absorption of additional followers, Liu Bei's need for territory brings him personally to Sun Quan's side to seek a broader Jingzhou settlement. [[ZhouYuLateHan|周瑜]] and [[LuFan|吕范]] read the same growth as evidence that the former dependent is becoming difficult to contain and propose detention and separation from Guan Yu and Zhang Fei. Sun Quan refuses because Cao Cao remains the more urgent threat. Liu Bei's reported admission that Zhuge Liang had warned against the trip makes the visit another case of accepted dependency risk, but now from a stronger bargaining position created by the organization's survival and expansion.
+
 ## Key Characteristics
 - Builds political capacity through family-backed education, peer and merchant networks, portable reputation, Han-clan legitimacy, advisers, titles, and shifting local coalitions rather than a continuously held hereditary base.
-- Accepts dangerous dependency when organizational survival requires it, including arrangements under Lü Bu, Cao Cao, and later alliance with Sun Quan.
+- Accepts dangerous dependency when organizational survival or territorial growth requires it, including arrangements under Lü Bu and Cao Cao and the later high-risk visit to Sun Quan's side.
 - Attracts local support when elites see him as legitimate enough to protect order but not yet strong enough to erase their interests.
 - Approaches exceptional talent with visible personal deference and converts adviser input into strategy and later state architecture, with Zhuge Liang serving as the clearest source-scoped example.
 - Endures repeated losses of territory, family security, troops, and bargaining position without abandoning the wider project.
@@ -64,16 +67,16 @@ Hanji 1099 adds the next major reversal. After Changban, Liu Bei names [[WuJuLat
 - Execution-to-focus conversion: [[zizhi-tongjian-hanji-1083-weihe-liubei-zaoqi-kong-you-dingji-zhanli-que-wu-lizu-zhi-di-lkrforfxvqjw-dl1ejvfkjivz3f3|Hanji 1083]] contrasts strong field capacity with the lack of an integrated base-and-alliance program, then reads the Longzhong Plan through explicit exclusions and concentrated resource use.
 - Personal recruitment and strategic disclosure: [[zizhi-tongjian-hanji-1082-zhugeliang-yiduan-hua-dianpo-luanshi-fengyun-tai-gan-shuo-le-llflnkdaqiub4_dgujugkdzkl3qh|Hanji 1082]] places repeated recommendation, personal visits, and a candid private question before the full Longzhong response.
 - Post-Changban alliance pivot: [[zizhi-tongjian-hanji-1099-liubei-kuai-pochan-shi-ruhe-nixi-panshang-sunquan-llnev7pzbraogd00u0h7i7ba65eq|Hanji 1099]] has Liu Bei abandon the Wu Ju fallback and accept Lu Su's Sun Quan proposal.
+- Postwar growth and detention risk: [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] has Liu Bei seek a broader Jingzhou settlement in person, while Zhou Yu and Lu Fan treat his enlarged following and command group as an emerging autonomy threat.
 
 ## Qualifications
-These podcast sources mix annalistic narrative with modern management, psychology, and moral interpretation. Exact motives, inner reactions, troop counts, dialogues, and causal labels remain source-scoped. Hanji 1097's reconstruction of Liu Hong's death, childhood psychology, age at the Zhang Chun campaign, and physical measurements is not treated as settled biography; its stated age and campaign chronology are internally inconsistent. Hanji 1098's six-patron "job-hopping" sequence compresses offices, alliances, refuge, and later conquest into a single modern analogy; its Xinye duration and force count also require primary-source verification. Hanji 1082's three-visit count, private exchange, and management lesson require textual verification. Hanji 1083's claim that Liu Bei had no prior strategy is narrowed to the absence of an integrated territorial program, because the bounded source set already shows purposeful coalition building and capacity accumulation. Its claims about Liu Bei and Zhuge Liang's mutual suspicion, Fa Zheng's displacement effect, veteran jealousy, and factional causality around Guan Yu remain unverified interpretation. The two versions of Zhang Fei's Xuzhou failure emphasize different mechanisms—drunkenness in Qinji 131-2 and the Cao Bao/Xu Dan sequence in Hanji 999—so the page preserves the layered account rather than forcing a single cause. Liu Bei's acceptance of dependency should not be mistaken for passivity: the relationships are temporary, contested, and repeatedly renegotiated.
+These podcast sources mix annalistic narrative with modern management, psychology, and moral interpretation. Exact motives, inner reactions, troop counts, dialogues, and causal labels remain source-scoped. Hanji 1097's reconstruction of Liu Hong's death, childhood psychology, age at the Zhang Chun campaign, and physical measurements is not treated as settled biography; its stated age and campaign chronology are internally inconsistent. Hanji 1098's six-patron "job-hopping" sequence compresses offices, alliances, refuge, and later conquest into a single modern analogy; its Xinye duration and force count also require primary-source verification. Hanji 1082's three-visit count, private exchange, and management lesson require textual verification. Hanji 1083's claim that Liu Bei had no prior strategy is narrowed to the absence of an integrated territorial program, because the bounded source set already shows purposeful coalition building and capacity accumulation. Its claims about Liu Bei and Zhuge Liang's mutual suspicion, Fa Zheng's displacement effect, veteran jealousy, and factional causality around Guan Yu remain unverified interpretation. Hanji 1117's territorial request, route, Zhuge Liang warning, Liu Bei's retrospective admission, and predicted response to detention require broader textual comparison. The two versions of Zhang Fei's Xuzhou failure emphasize different mechanisms—drunkenness in Qinji 131-2 and the Cao Bao/Xu Dan sequence in Hanji 999—so the page preserves the layered account rather than forcing a single cause. Liu Bei's acceptance of dependency should not be mistaken for passivity: the relationships are temporary, contested, and repeatedly renegotiated.
 
 ## What Changed
-- Reframed repeated patron dependence as accumulation of portable political capital rather than a sequence of disconnected refuges.
-- Made the Xinye years the longest explicit conversion interval between borrowed shelter and independent capacity.
-- Connected repeated referral and Liu Bei's personal recruitment of Zhuge Liang to the shift from durable ambition toward an executable territorial, legitimacy, governance, and alliance path.
-- Qualified the host's "benevolence monetization," patron-count, duration, and troop-number claims as source-scoped.
-- Added strategic exclusion and concentration while preserving evidence of meaningful pre-Longzhong capacity building.
+- Extended the alliance-first survival arc into postwar bargaining for territory and the resulting risk of detention by the stronger partner.
+- Made Liu Bei's growing following and intact command group the reason former dependency becomes an autonomy threat to Jiangdong.
+- Treated the Jingkou visit as an accepted high-risk move rather than evidence that Liu Bei or Zhuge Liang failed to perceive danger.
+- Preserved Sun Quan's release decision as threat sequencing under Cao Cao pressure, not proof of stable trust.
 
 ## Relationships
 - [[ZhugeLiang|诸葛亮]] - strategist whom the sources connect to Liu Bei's state architecture and post-Changban alliance judgment.
@@ -90,3 +93,5 @@ These podcast sources mix annalistic narrative with modern management, psycholog
 - [[PortablePoliticalCapital|可携带政治资本]] - mechanism connecting repeated patron changes to cumulative organizational capacity.
 - [[ActivePoliticalDormancy|主动蛰伏式政治积累]] - Xinye pattern in which dependence and low visibility preserve future action.
 - [[StrategicExclusionAndFocus|战略排除与聚焦]] - discipline that turns accumulated resources into a bounded and cumulative path.
+- [[ZhouYuLateHan|周瑜]] - Sun-side strategist who identifies Liu Bei's postwar autonomy risk and proposes detention and command separation.
+- [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]] - later partner-capacity choice that gives Liu Bei greater territorial depth while increasing alliance rivalry.

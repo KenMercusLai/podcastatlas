@@ -20904,3 +20904,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？
+
+Added source `zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3`; updated `ZhouYuLateHan`, `SunQuan`, `LiuBei`, `LuSu`, `StrategicBaseTransferAllianceConsolidation`, overview, and index. Core synthesis: Zhou Yu's detention-and-separation proposal and Sun Quan's refusal reveal a threat-ordering choice rather than ignorance of Liu Bei's danger—preserve an increasingly autonomous partner while Cao Cao remains the more urgent enemy—while the Yizhou-Hanzhong-Ma Chao-Xiangyang plan and deathbed recommendation of Lu Su complete the causal prequel to Hanji 1118. No settled contradiction found; the territorial shorthand, exact dialogue and motives, predicted responses, route details, western-plan feasibility, illness and death sequence, anecdotes, and twenty-year counterfactual remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
