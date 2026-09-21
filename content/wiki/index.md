@@ -2638,6 +2638,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
+- [How to Find & Be a Great Romantic Partner | Lori Gottlieb](sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639.md) — Huberman Lab interview on emotional regulation, familiar relationship patterns, partner selection, conflict repair, breakups, grief, and intentional living.
 
 ## Entities
 - [吴浩天 / Wu Haotian (Anesthesiologist)](entities/WuHaotianAnesthesiologist.md) — Anesthesiologist and Luffy医学频道 founder explaining continuous monitoring, airway safety, and recovery during painless gastrointestinal endoscopy.
@@ -20822,5 +20823,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Strength and Hypertrophy Programming](concepts/StrengthHypertrophyProgramming.md) — Training framework connecting motor-unit recruitment to load, weekly volume, failure, movement speed, and rest.
 - [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Bounded use of within-person grip and slow-exhale trends plus cold and NSAID adaptation tradeoffs.
+- [Familiar Pain Relationship Pattern](concepts/FamiliarPainRelationshipPattern.md) — Tendency to mistake historically familiar attraction, deprivation, or conflict for present-day compatibility and safety.
+- [Relationship Conflict Repair](concepts/RelationshipConflictRepair.md) — Regulation, pause, perspective-taking, response choice, and return process for repairing interpersonal rupture.
+- [Partner Selection Beyond Chemistry](concepts/PartnerSelectionBeyondChemistry.md) — Dating judgment frame prioritizing maturity, flexibility, character, reliability, life direction, and felt safety over immediate sparks.
+- [Breakup World Loss](concepts/BreakupWorldLoss.md) — Grief of losing a partner together with routines, shared history, sensory familiarity, social ties, and imagined futures.
 
 ## Syntheses

@@ -20572,6 +20572,10 @@ Added source `2b2e96d8aea7-2b2e96d8aea7`; created `CoCom`, `WassenaarArrangement
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-21] ingest | How to Find & Be a Great Romantic Partner | Lori Gottlieb
+
+Added source `how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639`; created `FamiliarPainRelationshipPattern`, `RelationshipConflictRepair`, `PartnerSelectionBeyondChemistry`, and `BreakupWorldLoss`; updated `LoriGottlieb`, `TherapyInsightActionGap`, `EmotionalCoRegulationFit`, `DatingAppMarketplaceDynamics`, `GriefAttachmentRemapping`, `PreventiveRelationshipMaintenance`, and the index. Core synthesis: feelings become useful when they inform regulated action; familiar pain and immediate chemistry can mislead partner judgment; durable relationships depend on maturity, flexibility, character, appreciation, and repair; and breakups remove a daily relational world whose digital traces can prolong grief. No settled contradiction found; clinical examples, cultural and gender observations, dating-study summaries, Gottman claims, and broad relationship guidance remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-21] ingest | EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻
 
 Added source `ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq`; created `RainerMariaRilke`, `LouAndreasSalome`, `PoetryAsSpiritualAwakening`, `AIAssistedPoetryCloseReading`, `PoetryTranslationSoundGap`, `ArtisticCreationBeyondBiography`, and `PoeticLanguageAgainstPublicNoise`; migrated and updated `MiaoWeiSanlian`; normalized the recurring guest's display name from 苗伟 to 苗炜; and updated the index. Core synthesis: poetry can become intelligible only when life supplies grief, fear, or spiritual recognition; translation and silent reading leave formal and sonic gaps that recitation, original-language study, and carefully judged AI assistance can expose; and biography illuminates but does not exhaust artistic creation or cancel moral accountability. No settled contradiction found; the episode's spiritual, gendered, psychological, and patronage claims remain interpretive and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21012,6 +21016,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM
 
 Added source `vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov`; created `WuHaotianAnesthesiologist`, `JiangYongliang`, `GaoJiachengPodcastGuest`, `LuffyMedicalChannel`, `SedatedGastrointestinalEndoscopy`, and `EndoscopyPathologyFollowup`; updated `PerioperativeAnesthesiaSafety`, `PostAnesthesiaRecoverySafety`, `AnesthesiaDrugMythBoundary`, `ColonPolypRiskStratification`, and the index. Core synthesis: painless gastrointestinal endoscopy is a monitored clinical pathway spanning preparation, shared-airway anesthesia safety, examination, recovery, pathology, and return interpretation rather than merely “sleep and wake.” No settled contradiction found; the title/body spelling mismatch 高嘉程／高嘉诚 is preserved explicitly, and anesthesia eligibility, preparation, drug clearance, cognition, pathology, aftercare, Helicobacter pylori management, and surveillance intervals remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1146
+topic_total_pages: 1148
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -670,6 +670,9 @@ topic_concepts:
   - key: "FairComparisonFrames"
     title: "Fair Comparison Frames"
     url: "/wiki/concepts/faircomparisonframes/"
+  - key: "FamiliarPainRelationshipPattern"
+    title: "Familiar Pain Relationship Pattern"
+    url: "/wiki/concepts/familiarpainrelationshippattern/"
   - key: "FamilyAnxietyTransmission"
     title: "Family Anxiety Transmission / 家庭焦虑传递"
     url: "/wiki/concepts/familyanxietytransmission/"
@@ -3273,6 +3276,9 @@ topic_sources:
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
+    title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
+    url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
   - key: "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656"
     title: "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain"
     url: "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"

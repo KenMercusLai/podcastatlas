@@ -4,6 +4,7 @@ type: concept
 tags: [relationships, communication, prevention, intimacy]
 sources:
   - contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218
+  - how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -16,24 +17,30 @@ Preventive relationship maintenance is the practice of addressing expectations, 
 ## Current Synthesis
 The Sexton episode treats relationships like systems that are easier to maintain than rebuild after severe damage. Prenup conversations are one high-stakes example, but the broader practice is ordinary and recurring: ask what makes each person feel loved, say what has changed, name where repair is needed, and use small acts to show that the other person is still seen. This turns [[RelationshipFeedbackLoop]] into a scheduled maintenance practice rather than an emergency response.
 
+Gottlieb adds an attention and interpretation layer. A bank of goodwill depends not only on positive acts occurring but on partners registering them rather than letting appreciation slide away while every disappointment sticks. Early relationships are still malleable, so naming a concern before its meaning hardens can prevent an avoidable pattern. Partner-specific operating instructions then translate generic love advice into concrete information about what helps, hurts, calms, or overwhelms each person.
+
 ## Key Claims
 - Early discussion is usually easier than repair after resentment or litigation hardens positions.
 - Expectations around sex, money, caregiving, fidelity, and change need revision over time.
 - Regular check-ins create a lower-stakes channel for truth and correction.
 - Small daily signs of attention can carry more maintenance value than occasional grand gestures.
 - Relationship success should include whether the partnership improved each person's life, not duration alone.
+- Goodwill requires noticing ordinary positive deposits rather than tracking only negative withdrawals.
+- Early clarification and operating instructions reduce preventable conflict caused by mistaken interpretation.
 
 ## Evidence
 - Maintenance analogy: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] compares keeping a good relationship strong with repairing one after breakdown.
 - Baseline conversations: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] recommends discussing sex, money, expectations, and change before resentment grows.
 - Weekly practice: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] describes a walk-and-talk where partners share wins, moments of feeling loved, and improvement opportunities.
 - Everyday attention: [[contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218]] uses notes, texts, food, and coffee stories to show how small acts communicate being seen.
+- Goodwill and appreciation: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] uses bank-of-goodwill and Teflon-pan metaphors to explain why positive acts must be registered.
+- Early-pattern and operating-instructions claim: [[how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639]] compares early relationships to wet cement and asks partners to learn what helps, hurts, calms, or overwhelms each other.
 
 ## Counterevidence & Qualifications
-Maintenance practices cannot make coercive, violent, or chronically unsafe relationships healthy, and continued dialogue is not always preferable to support, boundaries, legal advice, or exit. The source provides practitioner experience and examples rather than controlled evidence for a single schedule or technique.
+Maintenance practices cannot make coercive, violent, or chronically unsafe relationships healthy, and continued dialogue is not always preferable to support, boundaries, legal advice, or exit. The sources provide practitioner and clinician experience rather than controlled evidence for one goodwill ratio, schedule, or communication technique.
 
 ## What Changed
-- Created the concept from the episode's preventive-maintenance and weekly check-in examples.
+- Added goodwill attention, early-pattern malleability, and partner-specific operating instructions.
 
 ## Related Concepts
 - [[RelationshipFeedbackLoop]] - communication mechanism operationalized through recurring check-ins.
@@ -41,3 +48,5 @@ Maintenance practices cannot make coercive, violent, or chronically unsafe relat
 - [[SharedRelationshipNarrative]] - accumulated couple-specific meaning that maintenance helps preserve.
 - [[SincerityAsRelationshipTrust]] - preference for honest information over comforting concealment.
 - [[EmotionalHealthLongevity]] - broader frame treating relationship repair as part of long-term health.
+- [[RelationshipConflictRepair]] - response-and-return process when prevention does not avert a rupture.
+- [[EmotionalCoRegulationFit]] - partner-specific support match that operating instructions can clarify.

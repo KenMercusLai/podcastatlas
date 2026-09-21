@@ -26105,6 +26105,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FamiliarPainRelationshipPattern": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FamilyAnxietyTransmission": [
     {
       "key": "science",
@@ -83589,6 +83596,13 @@
       "label": "Culture",
       "url": "/topics/culture/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639": [
     {
       "key": "science",
       "label": "Science",

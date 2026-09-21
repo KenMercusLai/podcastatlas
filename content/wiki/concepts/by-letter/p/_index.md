@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7750
+wiki_total_pages: 7754
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "PartitionOfJin"
     title: "Partition of Jin / 三家分晋"
     url: "/wiki/concepts/partitionofjin/"
+  - key: "PartnerSelectionBeyondChemistry"
+    title: "Partner Selection Beyond Chemistry"
+    url: "/wiki/concepts/partnerselectionbeyondchemistry/"
   - key: "PartyNetworkTreasonFraming"
     title: "Party Network Treason Framing / 朋党网络谋反化"
     url: "/wiki/concepts/partynetworktreasonframing/"

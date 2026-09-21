@@ -14315,6 +14315,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/breachofsurrendertrust/"
     },
+    "BreakupWorldLoss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/breakupworldloss/"
+    },
     "BreathHoldDivingAdaptation": {
       "episode_count": 1,
       "show_count": 1,
@@ -27978,9 +27994,9 @@
       "url": "/wiki/concepts/datateamasbusinesspartner/"
     },
     "DatingAppMarketplaceDynamics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9984287085 [SCIM9984287085].md",
@@ -27988,9 +28004,16 @@
           "show": "Huberman Lab",
           "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
           "url": "/wiki/sources/science-of-attraction-compatibility-romance-dr-paul-eastwick-scim9984287085/"
+        },
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/datingappmarketplacedynamics/"
     },
     "DaveMcCormick": {
@@ -35036,6 +35059,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
+    "EmotionalCoRegulationFit": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？ [555771723].md",
+          "key": "chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723",
+          "show": "蜜獾吃书",
+          "title": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？",
+          "url": "/wiki/sources/chuantai-ni-chi-xiangcai-ma-nvshengban-ni-yuanyi-he-xingzhuan-zhihou-de-ziji-zai-yiqi-ma-555771723/"
+        },
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/emotionalcoregulationfit/"
+    },
     "EmotionalContagion": {
       "episode_count": 3,
       "show_count": 2,
@@ -39400,6 +39446,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/falsereinforcementdeception/"
+    },
+    "FamiliarPainRelationshipPattern": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/familiarpainrelationshippattern/"
     },
     "FamilyAnxietyTransmission": {
       "episode_count": 1,
@@ -49737,9 +49799,9 @@
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
     "GriefAttachmentRemapping": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9466548315 [SCIM9466548315].md",
@@ -49754,6 +49816,13 @@
           "show": "Huberman Lab",
           "title": "Healing From Grief & Loss | Dr. Mary-Frances O'Connor",
           "url": "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+        },
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
         }
       ],
       "updated": "2026-09-21",
@@ -75306,9 +75375,9 @@
       "url": "/wiki/entities/lordoftheflies/"
     },
     "LoriGottlieb": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
@@ -75316,9 +75385,16 @@
           "show": "文化有限",
           "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
           "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        },
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/lorigottlieb/"
     },
     "LossAndDamageClimateFinance": {
@@ -90528,6 +90604,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/partisanshipaselectoralgravity/"
     },
+    "PartnerSelectionBeyondChemistry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/partnerselectionbeyondchemistry/"
+    },
     "PartnershipBoundaryRisk": {
       "episode_count": 3,
       "show_count": 1,
@@ -95177,9 +95269,9 @@
       "url": "/wiki/concepts/preventivehealthscreening/"
     },
     "PreventiveRelationshipMaintenance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2050136218 [SCIM2050136218].md",
@@ -95187,6 +95279,13 @@
           "show": "Huberman Lab",
           "title": "Contracts of Love & Money That Make or Break Relationships | James Sexton",
           "url": "/wiki/sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218/"
+        },
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
         }
       ],
       "updated": "2026-09-21",
@@ -99846,6 +99945,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
+    },
+    "RelationshipConflictRepair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/relationshipconflictrepair/"
     },
     "RelationshipFeedbackLoop": {
       "episode_count": 2,
@@ -117882,9 +117997,9 @@
       "url": "/wiki/concepts/therapeuticstatelearning/"
     },
     "TherapyInsightActionGap": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOYWPmAycMmATLdgrV [GKwRIMAOYWPmAycMmATLdgrV].md",
@@ -117892,9 +118007,16 @@
           "show": "文化有限",
           "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
           "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        },
+        {
+          "episode_file": "SCIM7744546639 [SCIM7744546639].md",
+          "key": "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639",
+          "show": "Huberman Lab",
+          "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+          "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/therapyinsightactiongap/"
     },
     "TherapyRelationshipAndBoundaries": {

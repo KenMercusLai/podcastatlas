@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7750
+wiki_total_pages: 7754
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "RelationalIsolationControl"
     title: "Relational Isolation Control / 关系孤立控制"
     url: "/wiki/concepts/relationalisolationcontrol/"
+  - key: "RelationshipConflictRepair"
+    title: "Relationship Conflict Repair"
+    url: "/wiki/concepts/relationshipconflictrepair/"
   - key: "RelationshipFeedbackLoop"
     title: "Relationship Feedback Loop / 亲密关系反馈闭环"
     url: "/wiki/concepts/relationshipfeedbackloop/"

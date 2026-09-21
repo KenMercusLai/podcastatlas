@@ -9479,6 +9479,10 @@
     "title": "Breakneck",
     "url": "/wiki/entities/breakneck/"
   },
+  "BreakupWorldLoss": {
+    "title": "Breakup World Loss",
+    "url": "/wiki/concepts/breakupworldloss/"
+  },
   "BreathHoldDivingAdaptation": {
     "title": "Breath-Hold Diving Adaptation",
     "url": "/wiki/concepts/breathholddivingadaptation/"
@@ -21954,6 +21958,10 @@
   "FalsifiableProductHypothesis": {
     "title": "Falsifiable Product Hypothesis / 可证伪产品假设",
     "url": "/wiki/concepts/falsifiableproducthypothesis/"
+  },
+  "FamiliarPainRelationshipPattern": {
+    "title": "Familiar Pain Relationship Pattern",
+    "url": "/wiki/concepts/familiarpainrelationshippattern/"
   },
   "FamiliarSpaceDating": {
     "title": "Familiar-Space Dating / 熟悉空间约会",
@@ -47867,6 +47875,10 @@
     "title": "Partition of Jin / 三家分晋",
     "url": "/wiki/concepts/partitionofjin/"
   },
+  "PartnerSelectionBeyondChemistry": {
+    "title": "Partner Selection Beyond Chemistry",
+    "url": "/wiki/concepts/partnerselectionbeyondchemistry/"
+  },
   "PartnershipBoundaryRisk": {
     "title": "合伙关系边界风险 / Partnership Boundary Risk",
     "url": "/wiki/concepts/partnershipboundaryrisk/"
@@ -53282,6 +53294,10 @@
   "RelationalIsolationControl": {
     "title": "Relational Isolation Control / 关系孤立控制",
     "url": "/wiki/concepts/relationalisolationcontrol/"
+  },
+  "RelationshipConflictRepair": {
+    "title": "Relationship Conflict Repair",
+    "url": "/wiki/concepts/relationshipconflictrepair/"
   },
   "RelationshipFeedbackLoop": {
     "title": "Relationship Feedback Loop / 亲密关系反馈闭环",
@@ -76122,6 +76138,10 @@
   "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733": {
     "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
     "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  },
+  "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639": {
+    "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
+    "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
   },
   "how-to-get-through-the-strait-of-hormuz": {
     "title": "How to get through the Strait of Hormuz",

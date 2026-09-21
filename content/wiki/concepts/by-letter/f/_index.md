@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7750
+wiki_total_pages: 7754
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "FalsifiableProductHypothesis"
     title: "Falsifiable Product Hypothesis / 可证伪产品假设"
     url: "/wiki/concepts/falsifiableproducthypothesis/"
+  - key: "FamiliarPainRelationshipPattern"
+    title: "Familiar Pain Relationship Pattern"
+    url: "/wiki/concepts/familiarpainrelationshippattern/"
   - key: "FamiliarSpaceDating"
     title: "Familiar-Space Dating / 熟悉空间约会"
     url: "/wiki/concepts/familiarspacedating/"
