@@ -11692,9 +11692,9 @@
       "url": "/wiki/entities/battleoftrebia/"
     },
     "BattlefieldFeintAndLure": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》733-2丨耿弇：有志者事竟成，将门虎子勇冠三军 [lnlfumTdZriGBy9oX4v6PZBeoGeh].md",
@@ -11737,9 +11737,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》688丨从拥兵百万到溃不成军，邓禹经历了什么？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？ [lr5TVU8-kTi41EzaPVq2VZ2WFjH6].md",
+          "key": "zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
     "BattlefieldInformationControl": {
@@ -12759,6 +12766,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/bingjiwesternhan/"
+    },
+    "BingYuanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？ [lr5TVU8-kTi41EzaPVq2VZ2WFjH6].md",
+          "key": "zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/bingyuanlatehan/"
     },
     "BingZunLateHan": {
       "episode_count": 1,
@@ -16349,6 +16372,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/caocao/"
     },
+    "CaoChongLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？ [lr5TVU8-kTi41EzaPVq2VZ2WFjH6].md",
+          "key": "zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/caochonglatehan/"
+    },
     "CaoChunLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -16556,6 +16595,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/caojielatehan/"
+    },
+    "CaoPi": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了 [lt4YD6PwlEZqIA5yLjG-gAnkyhuT].md",
+          "key": "zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》24丨商鞅曰：我咋裂了",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-24-shangyang-yue-wo-za-lie-le-lt4yd6pwlezqia5yljg-gankyhut/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？ [lr5TVU8-kTi41EzaPVq2VZ2WFjH6].md",
+          "key": "zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/caopi/"
     },
     "CaoRen": {
       "episode_count": 8,
@@ -53017,9 +53079,9 @@
       "url": "/wiki/entities/hekui/"
     },
     "HeQiLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？ [lnsNJ6iPIYscw_vOPNJjgOxpNt5r].md",
@@ -53027,9 +53089,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1061丨袁绍之子和杀父仇人结成亲家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？ [lr5TVU8-kTi41EzaPVq2VZ2WFjH6].md",
+          "key": "zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/heqilatehan/"
     },
     "HeQiaLateHan": {
@@ -78958,6 +79027,36 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/marriagedefaultcontract/"
+    },
+    "MarriageRitualOrthodoxy": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人 [lsRL0pOsblloqwUGox160XSicp2p].md",
+          "key": "zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》79丨史上用耕牛 打胜仗第一人",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p/"
+        },
+        {
+          "episode_file": "《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？ [lkumfSFialQGDL6QPb3C_hnz7H9U].md",
+          "key": "zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》73丨历史上自由恋爱的开创者是谁？",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？ [lr5TVU8-kTi41EzaPVq2VZ2WFjH6].md",
+          "key": "zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/marriageritualorthodoxy/"
     },
     "MarshmallowTestContext": {
       "episode_count": 1,

@@ -20960,3 +20960,11 @@ Added source `zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-s
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？
+
+Added source `zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6`; created `CaoChongLateHan` and `BingYuanLateHan`; migrated and updated `CaoPi` and `MarriageRitualOrthodoxy`; updated `HeQiLateHan`, `BattlefieldFeintAndLure`, and index. Core synthesis: Cao Chong's death exposes a qualified potential-succession counterfactual rather than a formal heirship; Bing Yuan shows that grief and power do not override marriage ritual, while Cao Cao's withdrawal makes the refusal an accepted correction; He Qi turns reconnaissance, frontal attention-fixing, and a concealed cliff ascent into victory, then into Xindu administration. No settled contradiction found; illness and cure claims, formal-heir status, exact dialogue, posthumous-marriage details, force counts, terrain mechanics, place readings, and administrative chronology remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

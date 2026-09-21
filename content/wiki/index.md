@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？](sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6.md) — 曹冲早夭暴露曹氏诸子的继承竞争，邴原以礼法拒绝冥婚，贺齐则以长期侦察、正面佯动和夜攀绝壁攻破险寨并推动新都郡建置。
 - [《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？](sources/zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln.md) — 蒋济以伪造并故意泄露的“四万援军”消息解合肥之围，曹仁则冒险冲阵救出牛金，以直接救援和可见承诺恢复江陵守军士气。
 - [《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？](sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm.md) — 赤壁战后刘备以公安为有限立足点，孙权以妹妹联姻维持必要但互疑的联盟；蒋干游说周瑜失败则显示长期信任与组织嵌入对短期利诱的抵抗。
 - [《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？](sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm.md) — 和洽以“中而已矣”批评表演性节俭，曹操求贤令则以岗位匹配和实际能力限定单一道德声誉标准。
@@ -2633,6 +2634,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
 
 ## Entities
+- [曹冲 / Cao Chong (late Han)](entities/CaoChongLateHan.md) — 曹操宠爱的早慧幼子，其十三岁早夭既引发丧子之痛，也改变了曹氏诸子的潜在继承格局。
+- [邴原 / Bing Yuan (late Han)](entities/BingYuanLateHan.md) — 以礼法和操守一致性拒绝曹操冥婚请求，并促使曹操撤回这一悲痛驱动的例外安排。
 - [孙夫人 / Lady Sun (wife of Liu Bei)](entities/LadySunLiuBei.md) — Sun Quan's historically unnamed sister whose marriage to Liu Bei reinforces a necessary but mistrustful post-Red-Cliffs alliance.
 - [蒋干 / Jiang Gan (late Han)](entities/JiangGanLateHan.md) — Cao-side visitor whose failed approach to Zhou Yu verifies the limits of transactional persuasion.
 - [公安 / Gongan (late Han)](entities/GonganLateHan.md) — Liu Bei's limited post-Red-Cliffs riverside headquarters before the broader Jingzhou settlement.

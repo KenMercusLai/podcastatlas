@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt
   - zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody
   - zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6
+last_updated: 2026-09-21
 ---
 
 ## Definition
@@ -28,6 +29,8 @@ Hanji 688 adds two older and rougher Chimei layers. The [[ChimeiRebellion|赤眉
 The Chengdu campaign in [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] shows deception used by both sides after earlier command risk. [[WuHanEasternHan|Wu Han]] uses flags, fires, and secret night movement to escape encirclement and rejoin [[LiuShangEasternHan|Liu Shang]]. [[YanCenEasternHan|Yan Cen]] later uses a visible bridge/market challenge to fix Wu Han's attention while cavalry circles behind him. [[ZhangKanEasternHan|Zhang Kan]] then recommends showing weakness rather than retreating, treating enemy exhaustion as a condition for a lure.
 
 Hanji 697 reinforces the Geng Yan pattern as a broader tactical repertoire: psychological warfare, strongpoint attacks, encirclement-relief, false-target strikes, avoid-strong/strike-weak choices, and calm morale maintenance after a thigh wound. It also ties deception to finish-work because Zhang Bu's surrender is followed by troop and wagon dispersal rather than left as a battlefield result alone.
+
+Hanji 1111 adds a terrain-led Jiangdong variant through [[HeQiLateHan|贺齐]]. After prolonged reconnaissance reveals a route on an apparently impassable cliff, He Qi uses drums, shouting, and a visible frontal threat to concentrate defenders and their prepared obstacles away from the real ascent. The selected night-climbing force turns topography into an information advantage, while the later Xindu commandery appointment again shows tactical success completed through administration.
 
 ## Key Claims
 
@@ -54,13 +57,15 @@ Hanji 697 reinforces the Geng Yan pattern as a broader tactical repertoire: psyc
 - Concealed re-concentration: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Wu Han uses flags and fires while secretly moving at night to rejoin Liu Shang after being surrounded.
 - Frontal display and rear cavalry: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Yan Cen beats drums and displays flags at the bridge/market front while cavalry circles behind Wu Han and defeats him.
 - Show-weakness lure: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Zhang Kan advises Wu Han to show weakness and lure Gongsun Shu's side instead of retreating under food pressure.
+- Terrain-led deception and consolidation: [[zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6|Hanji 1111]] says He Qi fixes defenders at the visible front, sends selected troops up a concealed cliff route, and is later appointed over the new Xindu commandery.
 
 ## Counterevidence & Qualifications
 
-The page currently synthesizes six source notes and should not be treated as a complete theory of ancient Chinese deception tactics. Hanji 688 adds Chimei and Feng Yi cases, but exact Xiaodi/Mianchi place readings, Deng Hong's full role, and force counts remain source-scoped. Hanji 695 adds a strong fear-and-false-timing case, but Fei Yi, Fei Gan, Zhu'a, Zhongcheng, Juli, and exact camp counts remain source-scoped; its Fei Yi is not the existing Warring States [[FeiYi|肥义]] page. Hanji 712 ends before the final outcome of Zhang Kan's show-weakness advice, so that item supports intended tactical logic rather than a completed result in this source. Hanji 696 and Hanji 697's "比韩信更强", "战神", "兵仙", and "every battle victorious" language is treated as source-scoped evaluation, not as independent tactical proof.
+The page currently synthesizes seven source notes and should not be treated as a complete theory of ancient Chinese deception tactics. Hanji 688 adds Chimei and Feng Yi cases, but exact Xiaodi/Mianchi place readings, Deng Hong's full role, and force counts remain source-scoped. Hanji 695 adds a strong fear-and-false-timing case, but Fei Yi, Fei Gan, Zhu'a, Zhongcheng, Juli, and exact camp counts remain source-scoped; its Fei Yi is not the existing Warring States [[FeiYi|肥义]] page. Hanji 712 ends before the final outcome of Zhang Kan's show-weakness advice, so that item supports intended tactical logic rather than a completed result in this source. Hanji 1111's reconnaissance duration, cliff traces, rope-ladder mechanics, force counts, and place readings remain source-scoped. Hanji 696 and Hanji 697's "比韩信更强", "战神", "兵仙", and "every battle victorious" language is treated as source-scoped evaluation, not as independent tactical proof.
 
 ## What Changed
 
+- Added He Qi's mountain operation as a terrain-led case of fixing attention at a false front and exploiting a concealed ascent.
 - Added Hanji 688 as the scarcity-bait and identity-confusion layer in the Chimei/Feng Yi campaign.
 - Connected Deng Yu's susceptibility to deception with status-driven command failure and hungry-troop conditions.
 - Preserved Hanji 695 and Hanji 696 as paired Geng Yan layers around fear transmission, false targets, provocation, and retreat-path ambush.
@@ -78,3 +83,4 @@ The page currently synthesizes six source notes and should not be treated as a c
 - [[SeparatedCampMutualSupportRisk|分营互援风险]] - related command-risk setting in which deceptive concentration becomes necessary.
 - [[WuHanEasternHan|吴汉]] - Chengdu case of concealed night movement after overextension.
 - [[YanCenEasternHan|严岑 / Yan Cen]] - Chengdu case of frontal display paired with rear cavalry attack.
+- [[HeQiLateHan|贺齐]] - Jiangdong case combining reconnaissance, frontal display, concealed ascent, and administrative consolidation.
