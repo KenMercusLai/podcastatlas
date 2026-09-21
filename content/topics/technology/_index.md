@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3103
+topic_total_pages: 3107
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4009,6 +4009,9 @@ topic_concepts:
   - key: "TechnologyResetRebuild"
     title: "Technology Reset Rebuild"
     url: "/wiki/concepts/technologyresetrebuild/"
+  - key: "TechnologyReuseScenarioAdaptation"
+    title: "Technology Reuse and Scenario Adaptation / 技术复用与场景适配"
+    url: "/wiki/concepts/technologyreusescenarioadaptation/"
   - key: "TechnologyRightPowerNetwork"
     title: "Technology Right Power Network"
     url: "/wiki/concepts/technologyrightpowernetwork/"
@@ -5186,6 +5189,9 @@ topic_entities:
   - key: "EcoFlow"
     title: "EcoFlow / 正浩"
     url: "/wiki/entities/ecoflow/"
+  - key: "EcovacsRobotics"
+    title: "Ecovacs Robotics / 科沃斯"
+    url: "/wiki/entities/ecovacsrobotics/"
   - key: "EileenVanDerVelden"
     title: "Eileen van der Velden"
     url: "/wiki/entities/eileenvandervelden/"
@@ -6569,6 +6575,9 @@ topic_entities:
   - key: "PyTorchFoundation"
     title: "PyTorch Foundation"
     url: "/wiki/entities/pytorchfoundation/"
+  - key: "QianChengEcovacs"
+    title: "Qian Cheng / 钱程 (Ecovacs)"
+    url: "/wiki/entities/qianchengecovacs/"
   - key: "QianliTechnology"
     title: "Qianli Technology"
     url: "/wiki/entities/qianlitechnology/"
@@ -9153,6 +9162,9 @@ topic_sources:
   - key: "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821"
     title: "商业小样49 | 为什么律师按小时收费？"
     url: "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+  - key: "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596"
+    title: "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务"
+    url: "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
   - key: "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f"
     title: "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23"
     url: "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"

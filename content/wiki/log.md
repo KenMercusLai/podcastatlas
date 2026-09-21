@@ -20872,3 +20872,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务
+
+Added source `shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596`; created `EcovacsRobotics`, `QianChengEcovacs`, and `TechnologyReuseScenarioAdaptation`; and updated `HomeServiceRobots` and index. Core synthesis: near-term household-robot value can come from reusing a mature robotics stack across specific chores, but the scenario-specific remainder in safety, environment, local demand, channels, and organization may determine whether the product becomes a business. No settled contradiction found; humanoid and general-robot routes remain longer-horizon alternatives, while sales, penetration, growth, profitability, and the 80/20 ratio remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

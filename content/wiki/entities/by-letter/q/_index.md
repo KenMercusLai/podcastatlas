@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 10390
+wiki_total_pages: 10392
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "QiEightSpirits"
     title: "Qi Eight Spirits / 齐地八神"
     url: "/wiki/entities/qieightspirits/"
+  - key: "QianChengEcovacs"
+    title: "Qian Cheng / 钱程 (Ecovacs)"
+    url: "/wiki/entities/qianchengecovacs/"
   - key: "QianliTechnology"
     title: "Qianli Technology"
     url: "/wiki/entities/qianlitechnology/"

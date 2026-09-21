@@ -687,12 +687,13 @@
       "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c",
       "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2",
       "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51",
-      "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c"
+      "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c",
+      "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769"
     ],
-    "paragraph_count": 687
+    "paragraph_count": 688
   },
-  "overview_commit": "66c2493c667fe6d40d51da03c963371f9fe93467",
-  "overview_digest": "2e920084c446179663b38d4545185b71131830723e0a7b2d2d0db281c96d1467",
+  "overview_commit": "27c7bd8bcb1ae1ec25069fdbe80fdaba2d7e5221",
+  "overview_digest": "bcce12c33b2df656fc6391f86466bb7faa7ee73d31a7e5ef3c56c4e2f0372e00",
   "paragraphs": [
     {
       "id": "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
@@ -20607,6 +20608,31 @@
         "ShiXie",
         "SunQuan",
         "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz"
+      ]
+    },
+    {
+      "id": "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology"
+      ],
+      "text": "The latest addition is [[shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596|商业小样50｜都在讨论家务机器人，不如关心到底有什么家务]], a [[ShangyeJiushiZheyang|商业就是这样]] short episode using [[EcovacsRobotics|科沃斯]] to shift household-robot analysis from humanoid form toward specific chore value. It adds [[EcovacsRobotics]], [[QianChengEcovacs|钱程]], and [[TechnologyReuseScenarioAdaptation|技术复用与场景适配]], while extending [[HomeServiceRobots]], [[RobotFormFactorPragmatism]], [[GlobalProductLocalization]], [[LocalizedProductDefinition]], and [[SlowProductMarketFit]]. Its core synthesis is that a mature sensing, mapping, planning, and motion-control stack can transfer from floor cleaning into windows, lawns, and pools, but the smaller scenario-specific remainder—adhesion, fall safety, outdoor positioning, animal avoidance, underwater durability, local housing patterns, channels, and teams—may determine whether the technology becomes a business. No settled contradiction is recorded; specialized and general or humanoid routes remain different horizons, while sales, penetration, growth, profitability, first-product claims, and the 80/20 ratio remain source-scoped in a sponsored single-company case.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "EcovacsRobotics",
+        "GlobalProductLocalization",
+        "HomeServiceRobots",
+        "LocalizedProductDefinition",
+        "QianChengEcovacs",
+        "RobotFormFactorPragmatism",
+        "ShangyeJiushiZheyang",
+        "SlowProductMarketFit",
+        "TechnologyReuseScenarioAdaptation",
+        "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596"
       ]
     }
   ],

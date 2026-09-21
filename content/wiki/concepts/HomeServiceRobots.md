@@ -8,7 +8,8 @@ sources:
   - 143-dui-he-xiaopeng-de-di-er-ci-fangtan-gengda-duzhu-renxing-jiqiren-iron-dansheng-nachang-yiwai-jishu-jubian-xia-ceo-gx-he-fengheguai-ljekstsafrj-ovtm2bpl92s4nwoc
   - 166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1
   - vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1
-last_updated: 2026-09-05
+  - shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 # Home Service Robots
@@ -19,7 +20,7 @@ Home service robots are consumer robots designed to perform useful household tas
 ## Current Synthesis
 The bounded sources treat the home as both a product market and a difficult robotics proving ground. A credible home service robot must move from novelty or companionship toward reliable household work, but the sources disagree on whether the winning form is humanoid, wheeled, specialized, appliance-like, or security-first. The current synthesis is pragmatic: the home is valuable because it contains diverse tasks and user willingness to pay, yet near-term adoption likely depends on concrete chore performance, safety, maintenance, and form-factor fit rather than humanoid spectacle alone.
 
-Vol. 173 tightens that view by arguing that useful domestic robots may arrive in a two-to-five-year horizon but do not need to be humanoid if they solve specific chores such as sweeping, dishes, laundry, and tidying. That addition makes household robotics less a single "robot butler" thesis and more a product-selection problem: choose a task, environment, and embodiment where service quality can be repeated.
+Vol. 173 tightens that view by arguing that useful domestic robots do not need to be humanoid if they solve specific chores such as sweeping, dishes, laundry, and tidying. 商业小样50 adds an established-product case: Ecovacs carries a mature sensing, mapping, planning, and control stack from floor cleaning into windows, lawns, and pools, but must solve the safety and environmental remainder separately. Together, the sources make household robotics less a single "robot butler" thesis and more a product-selection problem: choose a task, environment, and embodiment where service quality can be repeated, then treat the difficult scenario-specific remainder as core product work.
 
 ## Key Claims
 - Household service value comes from repeated task completion, not from a robot merely appearing humanlike.
@@ -28,6 +29,7 @@ Vol. 173 tightens that view by arguing that useful domestic robots may arrive in
 - Child-care and family assistance can create strong demand, but safety and reliability requirements are high.
 - Home robots overlap with companions, but the service category should be judged by practical help.
 - Near-term deployment is more likely in bounded chores or specific household roles than in a general all-purpose domestic worker.
+- Specialized products can reuse a shared robotics core, but scenario-specific engineering and local market fit often determine whether the transfer succeeds.
 
 ## Evidence
 - Family-service evidence: [[jushen-zhineng-de-taotian-da-paomo-zhong-ta-yijing-ba-jiqiren-songjin-300-ge-jiating-duihua-zhang-yi-weilaibuyuan-chuangshiren-ceo-lic8b7dkxts3qjrs6af1rgbf4xrf]] describes Taotian entering hundreds of households and emphasizes children, family interaction, and home-service demand.
@@ -35,14 +37,15 @@ Vol. 173 tightens that view by arguing that useful domestic robots may arrive in
 - Security-wedge evidence: [[144-dui-yang-meng-de-4-xiaoshi-fangtan-xiaofei-dianzi-si-yu-sheng-di-san-lei-gongsi-duan-ce-moxing-chanpin-fangfa-youxi-moshi-lnjleqjgjo1txupouvygmdv7oo8b]] shows a consumer-hardware path where bounded monitoring or protection tasks can anchor early home deployment.
 - PhysicalAGI route evidence: [[166-xu-huazhe-zaici-jushen-chuangye-buxiang-cuoguo-zuida-de-xigua-1-166-1]] links home robots to a broader PhysicalAGI thesis in which domestic settings provide demanding generalization data.
 - Form-factor evidence: [[vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1]] argues that near-term home robots may be specialized or non-humanoid if they reliably solve concrete chores such as sweeping, dishes, laundry, and tidying.
+- Specialized-product evidence: [[shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596]] uses Ecovacs's window, lawn, and pool cleaners to show how a reusable robotics stack still requires substantial task-specific safety, environment, and market adaptation.
 
 ## Counterevidence & Qualifications
-Home robots face hard constraints in safety, cluttered environments, object diversity, cost, maintenance, privacy, and support. Demos, reservations, and expressive interaction do not prove repeatable domestic service quality. The source set also mixes investor, founder, and podcast perspectives, so product timelines and market-size expectations should remain source-scoped.
+Home robots face hard constraints in safety, cluttered environments, object diversity, cost, maintenance, privacy, and support. Demos, reservations, expressive interaction, sales growth, and category revenue do not prove repeatable domestic service quality or attractive profit. The source set also mixes investor, founder, company, and podcast perspectives, so product timelines, sales, penetration, market-size expectations, and the 80/20 reuse ratio should remain source-scoped.
 
 ## What Changed
-- Migrated the page to the synthesis-v1 schema.
-- Added Vol. 173's form-factor pragmatism and chore-first home-robot framing.
-- Rebalanced the concept away from humanoid inevitability and toward task, environment, and service quality.
+- Added Ecovacs as an established specialized-robot portfolio spanning floors, windows, lawns, and pools.
+- Made technology reuse and scenario-specific adaptation explicit parts of chore-first commercialization.
+- Added profit and sponsor-scope qualifications to reported new-category growth.
 
 ## Related Concepts
 - [[CompanionRobots]] - adjacent household category where emotional presence can overlap with service.
@@ -53,3 +56,5 @@ Home robots face hard constraints in safety, cluttered environments, object dive
 - [[PhysicalAGI]] - broader thesis that household robots can drive embodied general intelligence.
 - [[AINativeRobotics]] - AI-first robotics design context.
 - [[ProductLedWillingnessToPay]] - demand context for household users paying for concrete help.
+- [[TechnologyReuseScenarioAdaptation]] - explains how a shared robotics core moves between chores without erasing environment-specific work.
+- [[EcovacsRobotics]] - specialized household-robot portfolio used as the current product case.

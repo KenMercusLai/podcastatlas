@@ -33400,6 +33400,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/economyclasssyndrometravelthrombosis/"
     },
+    "EcovacsRobotics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "商业小样50 ｜ 都在讨论家务机器人，不如关心到底有什么家务 [1017031596].md",
+          "key": "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596",
+          "show": "商业就是这样",
+          "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
+          "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/ecovacsrobotics/"
+    },
     "EddieChang": {
       "episode_count": 1,
       "show_count": 1,
@@ -54597,9 +54613,9 @@
       "url": "/wiki/concepts/homeimprovementwarehousemodel/"
     },
     "HomeServiceRobots": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式 [lnjlEQjGjo1TxuPOuvYgmDV7oo8B].md",
@@ -54635,9 +54651,16 @@
           "show": "枫言枫语",
           "title": "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等",
           "url": "/wiki/sources/vol-173-pingguo-huanshuai-claude-5-1-fabu-glm-dijia-toujia-yingweida-yao-mai-hugging-face-deng-1-6689-1/"
+        },
+        {
+          "episode_file": "商业小样50 ｜ 都在讨论家务机器人，不如关心到底有什么家务 [1017031596].md",
+          "key": "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596",
+          "show": "商业就是这样",
+          "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
+          "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/homeservicerobots/"
     },
     "HomerLexFridmanDog": {
@@ -96258,6 +96281,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/qiaqiaxiaobao/"
     },
+    "QianChengEcovacs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "商业小样50 ｜ 都在讨论家务机器人，不如关心到底有什么家务 [1017031596].md",
+          "key": "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596",
+          "show": "商业就是这样",
+          "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
+          "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/qianchengecovacs/"
+    },
     "QianHongchu": {
       "episode_count": 1,
       "show_count": 1,
@@ -115279,6 +115318,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/technologyprofitlag/"
+    },
+    "TechnologyReuseScenarioAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "商业小样50 ｜ 都在讨论家务机器人，不如关心到底有什么家务 [1017031596].md",
+          "key": "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596",
+          "show": "商业就是这样",
+          "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
+          "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/technologyreusescenarioadaptation/"
     },
     "TedSarandos": {
       "episode_count": 1,

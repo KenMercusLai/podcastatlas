@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7723
+wiki_total_pages: 7724
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "TechnologyResetRebuild"
     title: "Technology Reset Rebuild"
     url: "/wiki/concepts/technologyresetrebuild/"
+  - key: "TechnologyReuseScenarioAdaptation"
+    title: "Technology Reuse and Scenario Adaptation / 技术复用与场景适配"
+    url: "/wiki/concepts/technologyreusescenarioadaptation/"
   - key: "TechnologyRightPowerNetwork"
     title: "Technology Right Power Network"
     url: "/wiki/concepts/technologyrightpowernetwork/"

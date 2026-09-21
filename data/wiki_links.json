@@ -19687,6 +19687,10 @@
     "title": "Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓",
     "url": "/wiki/concepts/economyclasssyndrometravelthrombosis/"
   },
+  "EcovacsRobotics": {
+    "title": "Ecovacs Robotics / 科沃斯",
+    "url": "/wiki/entities/ecovacsrobotics/"
+  },
   "Ecuador": {
     "title": "Ecuador",
     "url": "/wiki/entities/ecuador/"
@@ -51531,6 +51535,10 @@
     "title": "钱苍水",
     "url": "/wiki/entities/qiancangshui/"
   },
+  "QianChengEcovacs": {
+    "title": "Qian Cheng / 钱程 (Ecovacs)",
+    "url": "/wiki/entities/qianchengecovacs/"
+  },
   "QianHongchu": {
     "title": "钱弘俶 / Qian Hongchu",
     "url": "/wiki/entities/qianhongchu/"
@@ -62098,6 +62106,10 @@
   "TechnologyResetRebuild": {
     "title": "Technology Reset Rebuild",
     "url": "/wiki/concepts/technologyresetrebuild/"
+  },
+  "TechnologyReuseScenarioAdaptation": {
+    "title": "Technology Reuse and Scenario Adaptation / 技术复用与场景适配",
+    "url": "/wiki/concepts/technologyreusescenarioadaptation/"
   },
   "TechnologyRightPowerNetwork": {
     "title": "Technology Right Power Network",
@@ -76594,6 +76606,10 @@
   "shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821": {
     "title": "商业小样49 | 为什么律师按小时收费？",
     "url": "/wiki/sources/shangye-xiaoyang-49-weishenme-lvshi-an-xiaoshi-shoufei-1014489821/"
+  },
+  "shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596": {
+    "title": "商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务",
+    "url": "/wiki/sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596/"
   },
   "shaoyou-de-shendu-canyu-guo-zijie-meituan-zuzhi-jianshe-de-ren-duitan-ai-chuangyezhe-wei-xiaokang-lof0mb7u5buzec1qtxqrt9kraiud": {
     "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",

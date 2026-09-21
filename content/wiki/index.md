@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [商业小样50 | 都在讨论家务机器人，不如关心到底有什么家务](sources/shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596.md) — 商业就是这样 short episode on Ecovacs, specialized household robots, the 80/20 technology-reuse and scenario-adaptation model, patient category development, and localized lawn-care demand.
 - [707. The Terror: An Assassination in Paris (Part 1)](sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397.md) — The Rest Is History episode on Marat, Corday, the 1793 crisis system, Girondin collapse, emergency institutions, conspiracy validation, and martyrdom accelerating the road to Terror.
 - [《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？](sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz.md) — 士燮以地方根基、名义服从、质子和进贡维持交趾权力；其死后士徽抗拒孙权任命，吕岱诱降并处死六兄弟，完成孙吴对交州地方势力的拆解。
 - [“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化](sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5.md) — 十字路口Crossing interview with Xu Mengdi on robot in-context learning, world models and VLA systems, capability-driven data mixtures, deployment feedback loops, and why held-out loss is not yet a scaling law for unseen-task success.
@@ -2621,6 +2622,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [Ecovacs Robotics / 科沃斯](entities/EcovacsRobotics.md) — Household-robot company extending a reusable sensing, mapping, planning, and control stack across floor, window, lawn, and pool cleaning.
+- [Qian Cheng / 钱程 (Ecovacs)](entities/QianChengEcovacs.md) — Ecovacs brand CEO associated with the 80% technology reuse and 20% scenario migration product model.
 - [Committee of Public Safety](entities/CommitteeOfPublicSafety.md) — Emergency executive body whose shift from Danton to Robespierre tracks the radicalization of 1793.
 - [Revolutionary Tribunal](entities/RevolutionaryTribunal.md) — Political-crime court whose compressed, non-appealable procedure became part of the Terror's machinery.
 - [War in the Vendée](entities/VendeeWar.md) — 1793 civil-war front triggered by conscription and rooted in religious, fiscal, political, and center-periphery conflict.
@@ -13020,6 +13023,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 
 ## Concepts
+- [Technology Reuse and Scenario Adaptation / 技术复用与场景适配](concepts/TechnologyReuseScenarioAdaptation.md) — Product-development model combining a reusable capability stack with the safety, environment, interaction, and market work unique to each scenario.
 - [Emergency Institutions to Terror](concepts/EmergencyInstitutionsToTerror.md) — Process by which separately justified crisis bodies accumulate into a coercive system of surveillance, direction, and rapid punishment.
 - [Crisis-Validated Conspiracy Politics](concepts/CrisisValidatedConspiracyPolitics.md) — Mechanism by which one genuine betrayal lends excessive credibility to broader internal-enemy claims.
 - [个人化地方自治继承断裂 / Personalized Local Autonomy Succession](concepts/PersonalizedLocalAutonomySuccession.md) — 中央承认地方中介本人、却不承认其官位与武力可以世袭，由此在中介死亡后重新打开继承和集权冲突。
