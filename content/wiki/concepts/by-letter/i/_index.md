@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7835
+wiki_total_pages: 7839
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "ImpermanenceAndNoSelf"
     title: "Impermanence And No-Self"
     url: "/wiki/concepts/impermanenceandnoself/"
+  - key: "ImplantableCardioverterDefibrillator"
+    title: "Implantable Cardioverter-Defibrillator / 植入式心脏复律除颤器"
+    url: "/wiki/concepts/implantablecardioverterdefibrillator/"
   - key: "ImplicitContractRetirementTheory"
     title: "Implicit Contract Retirement Theory"
     url: "/wiki/concepts/implicitcontractretirementtheory/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7835
+wiki_total_pages: 7839
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "CarceralLaborGovernance"
     title: "Carceral Labor Governance"
     url: "/wiki/concepts/carcerallaborgovernance/"
+  - key: "CardiacImplantableDeviceDifferentiation"
+    title: "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分"
+    url: "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
   - key: "CardiovascularExerciseRiskBoundary"
     title: "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界"
     url: "/wiki/concepts/cardiovascularexerciseriskboundary/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3110
+topic_total_pages: 3111
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3478,6 +3478,9 @@ topic_concepts:
   - key: "RelationshipTechnologyEthics"
     title: "Relationship Technology Ethics / 亲密关系技术伦理"
     url: "/wiki/concepts/relationshiptechnologyethics/"
+  - key: "RemoteCardiacMonitoringAndWarning"
+    title: "Remote Cardiac Monitoring and Warning / 远程心脏监测与预警"
+    url: "/wiki/concepts/remotecardiacmonitoringandwarning/"
   - key: "RemoteRoadAccessTransformation"
     title: "Remote Road Access Transformation / 偏远地区道路可达性转型"
     url: "/wiki/concepts/remoteroadaccesstransformation/"

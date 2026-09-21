@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7835
+wiki_total_pages: 7839
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1892,6 +1892,9 @@ wiki_pages:
   - key: "SuccessionCrisisIntervention"
     title: "Succession-Crisis Intervention / 继承危机外部干预"
     url: "/wiki/concepts/successioncrisisintervention/"
+  - key: "SuddenCardiacDeathRiskStratification"
+    title: "Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层"
+    url: "/wiki/concepts/suddencardiacdeathriskstratification/"
   - key: "SuddenHearingChangeEscalation"
     title: "Sudden Hearing Change Escalation"
     url: "/wiki/concepts/suddenhearingchangeescalation/"

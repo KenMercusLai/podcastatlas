@@ -14422,6 +14422,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CardiacImplantableDeviceDifferentiation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CardiovascularExerciseRiskBoundary": [
     {
       "key": "science",
@@ -36151,6 +36158,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ImplantableCardioverterDefibrillator": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ImportedProduceVerification": [
@@ -58951,6 +58965,18 @@
       "url": "/topics/history/"
     }
   ],
+  "RemoteCardiacMonitoringAndWarning": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "RemoteRoadAccessTransformation": [
     {
       "key": "technology",
@@ -67259,6 +67285,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SuddenCardiacDeathRiskStratification": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SuduTechnology": [

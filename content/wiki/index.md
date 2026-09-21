@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？](sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru.md) — 这病说来话长 episode on ICD selection, sudden-cardiac-death risk, implanted-device differentiation, and remote cardiac monitoring.
 - [541. Heart of Darkness: Fear and Loathing in the Congo](sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786.md) — The Rest Is History episode on Conrad's Congo journey, Leopoldian extraction, the civilising mission, literary modernism, and the Achebe-Said critiques of the novella.
 - [542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe](sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016.md) — The Rest Is History episode on John Dee, Tudor knowledge boundaries, angelic mediation, occult patronage risk, and cartographic-imperial mythmaking.
 - [543. Death in the Amazon: Aguirre, the Wrath of God](sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248.md) — The Rest Is History episode on the failed El Dorado expedition, Aguirre's mutiny and anti-royal rebellion, fragile colonial rule, and survivor incentives in his demonic reputation.
@@ -2676,6 +2677,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Testosterone & Estrogen](sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258.md) — Huberman Lab Essentials episode on sex-steroid feedback, aromatization, sleep, stress, light, exercise, supplements, bloodwork, and clinical risk boundaries.
 
 ## Entities
+- [孙老师 / Doctor Sun (cardiac electrophysiology guest)](entities/SunDoctorCardiacElectrophysiology.md) — Source-scoped pacing and electrophysiology guest explaining ICD, CRT, rhythm risk, device life, and remote monitoring.
 - [Joseph Conrad](entities/JosephConrad.md) — Polish-born British sailor-writer whose 1890 Congo experience became the basis for Heart of Darkness.
 - [Heart of Darkness](entities/HeartOfDarkness.md) — Conrad's modernist novella exposing colonial violence while remaining contested for its representation of Africans.
 - [Congo Free State](entities/CongoFreeState.md) — Leopold II's personal colonial regime and the historical matrix of Conrad's Congo fiction.
@@ -13163,6 +13165,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
 ## Concepts
+- [Implantable Cardioverter-Defibrillator / 植入式心脏复律除颤器](concepts/ImplantableCardioverterDefibrillator.md) — Implanted rhythm-monitoring and treatment system for selected patients at high risk of malignant ventricular arrhythmia.
+- [Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层](concepts/SuddenCardiacDeathRiskStratification.md) — Primary-versus-secondary prevention framework matching catastrophic arrhythmic risk to intervention burden.
+- [Cardiac Implantable Device Differentiation / 心脏植入装置功能区分](concepts/CardiacImplantableDeviceDifferentiation.md) — Physiology-to-device map separating pacing, defibrillation, resynchronization, monitoring, public rescue, and pump support.
+- [Remote Cardiac Monitoring and Warning / 远程心脏监测与预警](concepts/RemoteCardiacMonitoringAndWarning.md) — Longitudinal sensing and alert model whose value depends on validation and an accountable clinical response workflow.
 - [Imperial Civilising-Mission Contradiction](concepts/ImperialCivilisingMissionContradiction.md) — Gap between humanitarian colonial rhetoric and systems organized around extraction, coercion, and violence.
 - [Colonial Literary Ambivalence](concepts/ColonialLiteraryAmbivalence.md) — A work's capacity to indict empire while retaining racial hierarchy, silenced perspectives, or an imperial political horizon.
 - [Narrative Frame and Authorial Distance](concepts/NarrativeFrameAuthorDistance.md) — Interpretive distance between author and framed speaker that complicates attribution without erasing textual responsibility.

@@ -15606,9 +15606,9 @@
       "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
     },
     "CPRAEDResponseBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -15616,9 +15616,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
+          "key": "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru",
+          "show": "这病说来话长",
+          "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+          "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/cpraedresponseboundary/"
     },
     "CSSEdit": {
@@ -17795,6 +17802,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/carbohydraterestrictionmentalhealth/"
+    },
+    "CardiacImplantableDeviceDifferentiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
+          "key": "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru",
+          "show": "这病说来话长",
+          "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+          "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
     },
     "CardiovascularBrainHealthLink": {
       "episode_count": 2,
@@ -61557,6 +61580,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/impermanenceandnoself/"
     },
+    "ImplantableCardioverterDefibrillator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
+          "key": "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru",
+          "show": "这病说来话长",
+          "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+          "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/implantablecardioverterdefibrillator/"
+    },
     "ImportedTroopsLocalEliteCleavage": {
       "episode_count": 2,
       "show_count": 1,
@@ -102666,6 +102705,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/remigrationpolitics/"
     },
+    "RemoteCardiacMonitoringAndWarning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
+          "key": "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru",
+          "show": "这病说来话长",
+          "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+          "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/remotecardiacmonitoringandwarning/"
+    },
     "RemoteRoadAccessTransformation": {
       "episode_count": 1,
       "show_count": 1,
@@ -116474,6 +116529,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/successionnondesignationrisk/"
     },
+    "SuddenCardiacDeathRiskStratification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
+          "key": "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru",
+          "show": "这病说来话长",
+          "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+          "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/suddencardiacdeathriskstratification/"
+    },
     "SuddenHearingChangeEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -116975,6 +117046,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/sunchongwesternhan/"
+    },
+    "SunDoctorCardiacElectrophysiology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvT24r7X6bPPx7e5gQHAs1yN-jrU [lvT24r7X6bPPx7e5gQHAs1yN-jrU].md",
+          "key": "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru",
+          "show": "这病说来话长",
+          "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+          "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/sundoctorcardiacelectrophysiology/"
     },
     "SunFenFufengLateHan": {
       "episode_count": 1,

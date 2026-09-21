@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7835
+wiki_total_pages: 7839
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "RemnantResistanceBase"
     title: "Remnant Resistance Base / 残余政权根据地"
     url: "/wiki/concepts/remnantresistancebase/"
+  - key: "RemoteCardiacMonitoringAndWarning"
+    title: "Remote Cardiac Monitoring and Warning / 远程心脏监测与预警"
+    url: "/wiki/concepts/remotecardiacmonitoringandwarning/"
   - key: "RemoteReportingPresence"
     title: "Remote Reporting Presence / 远程采访现场感"
     url: "/wiki/concepts/remotereportingpresence/"

@@ -10987,6 +10987,10 @@
     "title": "Carceral Labor Governance",
     "url": "/wiki/concepts/carcerallaborgovernance/"
   },
+  "CardiacImplantableDeviceDifferentiation": {
+    "title": "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分",
+    "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
+  },
   "CardinalTetra": {
     "title": "Cardinal Tetra",
     "url": "/wiki/entities/cardinaltetra/"
@@ -31622,6 +31626,10 @@
   "ImpermanenceAndNoSelf": {
     "title": "Impermanence And No-Self",
     "url": "/wiki/concepts/impermanenceandnoself/"
+  },
+  "ImplantableCardioverterDefibrillator": {
+    "title": "Implantable Cardioverter-Defibrillator / 植入式心脏复律除颤器",
+    "url": "/wiki/concepts/implantablecardioverterdefibrillator/"
   },
   "ImplicitContractRetirementTheory": {
     "title": "Implicit Contract Retirement Theory",
@@ -53847,6 +53855,10 @@
     "title": "Remora Carbon",
     "url": "/wiki/entities/remoracarbon/"
   },
+  "RemoteCardiacMonitoringAndWarning": {
+    "title": "Remote Cardiac Monitoring and Warning / 远程心脏监测与预警",
+    "url": "/wiki/concepts/remotecardiacmonitoringandwarning/"
+  },
   "RemoteReportingPresence": {
     "title": "Remote Reporting Presence / 远程采访现场感",
     "url": "/wiki/concepts/remotereportingpresence/"
@@ -61311,6 +61323,10 @@
     "title": "Sudanese Armed Forces",
     "url": "/wiki/entities/sudanesearmedforces/"
   },
+  "SuddenCardiacDeathRiskStratification": {
+    "title": "Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层",
+    "url": "/wiki/concepts/suddencardiacdeathriskstratification/"
+  },
   "SuddenHearingChangeEscalation": {
     "title": "Sudden Hearing Change Escalation",
     "url": "/wiki/concepts/suddenhearingchangeescalation/"
@@ -61446,6 +61462,10 @@
   "SunChuanfang": {
     "title": "Sun Chuanfang / 孙传芳",
     "url": "/wiki/entities/sunchuanfang/"
+  },
+  "SunDoctorCardiacElectrophysiology": {
+    "title": "孙老师 / Doctor Sun (cardiac electrophysiology guest)",
+    "url": "/wiki/entities/sundoctorcardiacelectrophysiology/"
   },
   "SunFenFufengLateHan": {
     "title": "孙奋 / Sun Fen (Fufeng, late Han)",
@@ -78902,6 +78922,10 @@
   "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
     "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
     "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  },
+  "vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru": {
+    "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
+    "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
   },
   "vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho": {
     "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",

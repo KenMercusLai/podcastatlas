@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1151
+topic_total_pages: 1155
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -277,6 +277,9 @@ topic_concepts:
   - key: "CarbonStoragePermanence"
     title: "Carbon Storage Permanence"
     url: "/wiki/concepts/carbonstoragepermanence/"
+  - key: "CardiacImplantableDeviceDifferentiation"
+    title: "Cardiac Implantable Device Differentiation / 心脏植入装置功能区分"
+    url: "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
   - key: "CardiovascularExerciseRiskBoundary"
     title: "Cardiovascular Exercise Risk Boundary / 心血管运动风险边界"
     url: "/wiki/concepts/cardiovascularexerciseriskboundary/"
@@ -919,6 +922,9 @@ topic_concepts:
   - key: "ImperfectActionPractice"
     title: "Imperfect Action Practice"
     url: "/wiki/concepts/imperfectactionpractice/"
+  - key: "ImplantableCardioverterDefibrillator"
+    title: "Implantable Cardioverter-Defibrillator / 植入式心脏复律除颤器"
+    url: "/wiki/concepts/implantablecardioverterdefibrillator/"
   - key: "ImpostorSyndrome"
     title: "Impostor Syndrome"
     url: "/wiki/concepts/impostorsyndrome/"
@@ -1495,6 +1501,9 @@ topic_concepts:
   - key: "REMEmotionalMemorySeparation"
     title: "REM Emotional Memory Separation"
     url: "/wiki/concepts/rememotionalmemoryseparation/"
+  - key: "RemoteCardiacMonitoringAndWarning"
+    title: "Remote Cardiac Monitoring and Warning / 远程心脏监测与预警"
+    url: "/wiki/concepts/remotecardiacmonitoringandwarning/"
   - key: "RepeatedContactDating"
     title: "Repeated-Contact Dating"
     url: "/wiki/concepts/repeatedcontactdating/"
@@ -1849,6 +1858,9 @@ topic_concepts:
   - key: "SuccessfulAging"
     title: "Successful Aging"
     url: "/wiki/concepts/successfulaging/"
+  - key: "SuddenCardiacDeathRiskStratification"
+    title: "Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层"
+    url: "/wiki/concepts/suddencardiacdeathriskstratification/"
   - key: "SugarCravingNeuralControl"
     title: "Sugar Craving Neural Control"
     url: "/wiki/concepts/sugarcravingneuralcontrol/"

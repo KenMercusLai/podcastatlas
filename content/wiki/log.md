@@ -21118,7 +21118,7 @@ Added source `ep-20-understanding-ai-agents-from-basics-to-future-potential`; cr
 
 ## [2026-09-22] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Ran lint; the report was returned in-session and not saved. Deterministic and graph-aware checks completed, but semantic checks were unavailable because LiteLLM lacked a provider-qualified model configuration.
 
 ## [2026-09-22] ingest | Essentials: Supercharge Exercise Performance & Recovery with Cooling
 
@@ -21282,6 +21282,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | 541. Heart of Darkness: Fear and Loathing in the Congo
 
 Added source `541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786`; created `JosephConrad`, `HeartOfDarkness`, `CongoFreeState`, `LeopoldII`, `RogerCasement`, `ChinuaAchebe`, `EdwardSaid`, `ImperialCivilisingMissionContradiction`, `ColonialLiteraryAmbivalence`, and `NarrativeFrameAuthorDistance`; migrated and updated `DemocraticRepublicOfCongo`; and updated the index. Core synthesis: Conrad's novella exposes the coercion and profit behind Leopoldian civilising rhetoric while remaining bounded by an imperial horizon and by representations that marginalize African speech and personhood. No settled contradiction found; Kurtz's models, Conrad's motives, the meaning of “darkness,” narrator-author distance, and the balance between anti-colonial force and racism remain contested and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？
+
+Added source `vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru`; created `SunDoctorCardiacElectrophysiology`, `ImplantableCardioverterDefibrillator`, `SuddenCardiacDeathRiskStratification`, `CardiacImplantableDeviceDifferentiation`, and `RemoteCardiacMonitoringAndWarning`; updated `CPRAEDResponseBoundary` and the index. Core synthesis: ICDs are continuous implanted protection for clinically selected high-risk patients, not universal insurance for healthy people; pacemakers, ICD/CRT-D, AED, monitors, and ventricular-assist support address different physiological and care settings. No settled contradiction found. Device-life, interference, out-of-hospital location, and AI-warning lead-time claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-22] lint | Wiki health check
 
