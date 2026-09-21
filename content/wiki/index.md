@@ -2669,6 +2669,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634.md) — Huberman Lab episode on cortisol and epinephrine timing, morning light, deliberate arousal, acute immune signaling, chronic-stress costs, and recovery boundaries.
 - [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
 - [VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态](sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho.md) — 这病说来话长 lifestyle interview with singer 信 on cooking, low-friction exercise starts, concert recovery, travel, art, music, and source-scoped optimism and health routines.
+- [How to Enhance Your Immune System | Dr. Roger Seheult](sources/how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462.md) — Huberman Lab interview on foundational immune health, daylight and darkness, respiratory-infection prevention, fever and heat, long COVID, mold evaluation, and evidence-bounded recovery tools.
 
 ## Entities
 - [Lope de Aguirre](entities/LopeDeAguirre.md) — Violent conquistador who converted a failed Amazon expedition into rebellion against Philip II.
@@ -13144,6 +13145,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 - [苏见信（信） / Shin](entities/SuJianxin.md) — Singer connecting minimum-resistance training, food, travel, art, optimism, and concert preparation in a source-bounded lifestyle profile.
+- [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
 ## Concepts
 - [El Dorado](concepts/ElDorado.md) — Golden-kingdom legend functioning as conquest incentive and colonial manpower-disposal mechanism in the Aguirre expedition.
@@ -20975,5 +20977,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ADHD Attention-Control Model](concepts/ADHDAttentionControlModel.md) — Model of ADHD as difficulty directing, sustaining, and shifting attention, allowing distractibility and hyperfocus to coexist.
 - [ADHD External Structure and Timing](concepts/ADHDExternalStructureAndTiming.md) — Scheduling, sleep, meals, movement, CBT, and distraction-design framework for reducing executive load.
 - [ADHD Treatment-Selection Boundary](concepts/ADHDTreatmentSelectionBoundary.md) — Shared risk-benefit framework for stimulant, non-stimulant, behavioral, substance, and supplement choices.
+- [Foundational Immune Health Framework](concepts/FoundationalImmuneHealthFramework.md) — Nutrition, movement, hydration, light, air, rest, restraint, and support as background resilience factors rather than an immune guarantee.
+- [Day-Night Light Immune Support](concepts/DayNightLightImmuneSupport.md) — Bright-day and dark-night circadian contrast joined to qualified red and near-infrared metabolic and recovery hypotheses.
+- [Layered Respiratory Infection Prevention](concepts/LayeredRespiratoryInfectionPrevention.md) — Proportional combination of vaccination, source control, respirators, hygiene, clean air, baseline health, and timely care.
+- [Fever and Heat Immune-Response Boundary](concepts/FeverHeatImmuneResponseBoundary.md) — Distinction between fever physiology and unproven deliberate-heat, hydrotherapy, sauna, or cold-contrast treatment claims.
+- [Long COVID Differential and Recovery](concepts/LongCovidDifferentialRecovery.md) — Heterogeneous post-infection evaluation that rules out serious alternatives before considering metabolic, inflammatory, persistence, or rehabilitation hypotheses.
 
 ## Syntheses

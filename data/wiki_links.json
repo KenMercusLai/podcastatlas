@@ -17139,6 +17139,10 @@
     "title": "大雄",
     "url": "/wiki/entities/daxiong/"
   },
+  "DayNightLightImmuneSupport": {
+    "title": "Day-Night Light Immune Support",
+    "url": "/wiki/concepts/daynightlightimmunesupport/"
+  },
   "DayZeroModelSupport": {
     "title": "Day-Zero Model Support",
     "url": "/wiki/concepts/dayzeromodelsupport/"
@@ -23083,6 +23087,10 @@
     "title": "Feudal Homage Sovereignty Conflict",
     "url": "/wiki/concepts/feudalhomagesovereigntyconflict/"
   },
+  "FeverHeatImmuneResponseBoundary": {
+    "title": "Fever and Heat Immune-Response Boundary",
+    "url": "/wiki/concepts/feverheatimmuneresponseboundary/"
+  },
   "Fiat": {
     "title": "Fiat",
     "url": "/wiki/entities/fiat/"
@@ -24086,6 +24094,10 @@
   "FoundationalEconomies": {
     "title": "Foundational Economies",
     "url": "/wiki/concepts/foundationaleconomies/"
+  },
+  "FoundationalImmuneHealthFramework": {
+    "title": "Foundational Immune Health Framework",
+    "url": "/wiki/concepts/foundationalimmunehealthframework/"
   },
   "FounderAdvocacy": {
     "title": "Founder Advocacy",
@@ -36935,6 +36947,10 @@
     "title": "分层式地方武力拆解 / Layered Local Elite Demobilization",
     "url": "/wiki/concepts/layeredlocalelitedemobilization/"
   },
+  "LayeredRespiratoryInfectionPrevention": {
+    "title": "Layered Respiratory Infection Prevention",
+    "url": "/wiki/concepts/layeredrespiratoryinfectionprevention/"
+  },
   "LayeredRobotArchitecture": {
     "title": "Layered Robot Architecture",
     "url": "/wiki/concepts/layeredrobotarchitecture/"
@@ -39442,6 +39458,10 @@
   "LongContentTimeTail": {
     "title": "Long Content Time Tail / 长内容时间长尾",
     "url": "/wiki/concepts/longcontenttimetail/"
+  },
+  "LongCovidDifferentialRecovery": {
+    "title": "Long COVID Differential and Recovery",
+    "url": "/wiki/concepts/longcoviddifferentialrecovery/"
   },
   "LongDistanceTradeFriction": {
     "title": "Long-Distance Trade Friction",
@@ -55050,6 +55070,10 @@
   "RogerMortimer": {
     "title": "Roger Mortimer",
     "url": "/wiki/entities/rogermortimer/"
+  },
+  "RogerSeheult": {
+    "title": "Roger Seheult",
+    "url": "/wiki/entities/rogerseheult/"
   },
   "RogerSeiders": {
     "title": "Roger Seiders",
@@ -76686,6 +76710,10 @@
   "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733": {
     "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
     "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  },
+  "how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462": {
+    "title": "How to Enhance Your Immune System | Dr. Roger Seheult",
+    "url": "/wiki/sources/how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462/"
   },
   "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639": {
     "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",

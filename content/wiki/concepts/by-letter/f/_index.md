@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7822
+wiki_total_pages: 7827
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "FeudalHomageSovereigntyConflict"
     title: "Feudal Homage Sovereignty Conflict"
     url: "/wiki/concepts/feudalhomagesovereigntyconflict/"
+  - key: "FeverHeatImmuneResponseBoundary"
+    title: "Fever and Heat Immune-Response Boundary"
+    url: "/wiki/concepts/feverheatimmuneresponseboundary/"
   - key: "FiatCapitalMarketDecentralization"
     title: "Fiat Capital-Market Decentralization / 纸币时代的资本市场去中心化"
     url: "/wiki/concepts/fiatcapitalmarketdecentralization/"
@@ -818,6 +821,9 @@ wiki_pages:
   - key: "FoundationalEconomies"
     title: "Foundational Economies"
     url: "/wiki/concepts/foundationaleconomies/"
+  - key: "FoundationalImmuneHealthFramework"
+    title: "Foundational Immune Health Framework"
+    url: "/wiki/concepts/foundationalimmunehealthframework/"
   - key: "FounderAdvocacy"
     title: "Founder Advocacy"
     url: "/wiki/concepts/founderadvocacy/"

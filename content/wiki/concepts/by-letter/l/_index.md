@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7822
+wiki_total_pages: 7827
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "LayeredJianghuSocialFields"
     title: "Layered Jianghu Social Fields"
     url: "/wiki/concepts/layeredjianghusocialfields/"
+  - key: "LayeredRespiratoryInfectionPrevention"
+    title: "Layered Respiratory Infection Prevention"
+    url: "/wiki/concepts/layeredrespiratoryinfectionprevention/"
   - key: "LayeredRobotArchitecture"
     title: "Layered Robot Architecture"
     url: "/wiki/concepts/layeredrobotarchitecture/"
@@ -608,6 +611,9 @@ wiki_pages:
   - key: "LongContentTimeTail"
     title: "Long Content Time Tail / 长内容时间长尾"
     url: "/wiki/concepts/longcontenttimetail/"
+  - key: "LongCovidDifferentialRecovery"
+    title: "Long COVID Differential and Recovery"
+    url: "/wiki/concepts/longcoviddifferentialrecovery/"
   - key: "LongVacationRecovery"
     title: "Long Vacation Recovery / 长假恢复"
     url: "/wiki/concepts/longvacationrecovery/"

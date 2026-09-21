@@ -21254,3 +21254,11 @@ Added source `vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-z
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | How to Enhance Your Immune System | Dr. Roger Seheult
+
+Added source `how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462`; created `RogerSeheult`, `FoundationalImmuneHealthFramework`, `DayNightLightImmuneSupport`, `LayeredRespiratoryInfectionPrevention`, `FeverHeatImmuneResponseBoundary`, and `LongCovidDifferentialRecovery`; updated the index. Core synthesis: respiratory resilience combines foundational health, strong day-night light contrast, proportional exposure-specific protections, and timely diagnosis, while red/near-infrared light, hydrotherapy, supplements, forest-air effects, and individualized long-COVID improvements remain evidence-bounded adjunct claims rather than replacements for medical care. No settled contradiction found. The source body's repeated "Schwelt" spelling is normalized to metadata-title "Roger Seheult" without creating a duplicate identity. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
