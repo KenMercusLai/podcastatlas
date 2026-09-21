@@ -11597,6 +11597,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/batterysupplierdiversification/"
     },
+    "BattleOfHastings": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3522014441 [GLT3522014441].md",
+          "key": "556-1066-the-battle-of-hastings-part-3-glt3522014441",
+          "show": "The Rest Is History",
+          "title": "556. 1066: The Battle of Hastings (Part 3)",
+          "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/battleofhastings/"
+    },
     "BattleOfLakeTrasimene": {
       "episode_count": 1,
       "show_count": 1,
@@ -11963,9 +11979,9 @@
       "url": "/wiki/entities/bayer/"
     },
     "BayeuxTapestry": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -11973,9 +11989,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "GLT3522014441 [GLT3522014441].md",
+          "key": "556-1066-the-battle-of-hastings-part-3-glt3522014441",
+          "show": "The Rest Is History",
+          "title": "556. 1066: The Battle of Hastings (Part 3)",
+          "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/bayeuxtapestry/"
     },
     "BeautyAccessorization": {
@@ -52943,9 +52966,9 @@
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
     "HaroldGodwinson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -52960,6 +52983,13 @@
           "show": "The Rest Is History",
           "title": "557. 1066: The Norman Conquest (Part 4)",
           "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        },
+        {
+          "episode_file": "GLT3522014441 [GLT3522014441].md",
+          "key": "556-1066-the-battle-of-hastings-part-3-glt3522014441",
+          "show": "The Rest Is History",
+          "title": "556. 1066: The Battle of Hastings (Part 3)",
+          "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
         }
       ],
       "updated": "2026-09-21",
@@ -86304,9 +86334,9 @@
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NormanConquestOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -86321,6 +86351,13 @@
           "show": "The Rest Is History",
           "title": "557. 1066: The Norman Conquest (Part 4)",
           "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        },
+        {
+          "episode_file": "GLT3522014441 [GLT3522014441].md",
+          "key": "556-1066-the-battle-of-hastings-part-3-glt3522014441",
+          "show": "The Rest Is History",
+          "title": "556. 1066: The Battle of Hastings (Part 3)",
+          "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
         }
       ],
       "updated": "2026-09-21",
@@ -127142,9 +127179,9 @@
       "url": "/wiki/entities/williamshakespeare/"
     },
     "WilliamTheConqueror": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -127159,6 +127196,13 @@
           "show": "The Rest Is History",
           "title": "557. 1066: The Norman Conquest (Part 4)",
           "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        },
+        {
+          "episode_file": "GLT3522014441 [GLT3522014441].md",
+          "key": "556-1066-the-battle-of-hastings-part-3-glt3522014441",
+          "show": "The Rest Is History",
+          "title": "556. 1066: The Battle of Hastings (Part 3)",
+          "url": "/wiki/sources/556-1066-the-battle-of-hastings-part-3-glt3522014441/"
         }
       ],
       "updated": "2026-09-21",

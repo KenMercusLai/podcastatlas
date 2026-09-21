@@ -20984,3 +20984,11 @@ Added source `how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 556. 1066: The Battle of Hastings (Part 3)
+
+Added source `556-1066-the-battle-of-hastings-part-3-glt3522014441`; created `BattleOfHastings`; updated `WilliamTheConqueror`, `HaroldGodwinson`, `BayeuxTapestry`, `NormanConquestOfEngland`, and index. Core synthesis: William's exposed coastal foothold and ravaging campaign plausibly force the decisive battle his claim requires, while Harold's stronger objective is to preserve a difficult defensive position until night, reinforcement, or naval pressure weakens the invasion; English line fracture and Harold's death make William's battlefield gamble succeed without themselves completing the conquest. No settled contradiction found; the bait interpretation, deployment, troop mix, feigned retreats, heroic episodes, and arrow-in-the-eye or Carmen death accounts remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
