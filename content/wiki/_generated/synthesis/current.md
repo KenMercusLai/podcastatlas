@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: 4b5d5adc4bb73890c57b9c470327467e8b326337
-summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems, including trusted personal agents."
-episode_count: 2603
-source_count: 2603
-paragraph_count: 685
+as_of_overview_commit: cacdb4729ca820971f120f4035c3155798653afb
+summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems, now including adaptive embodied AI."
+episode_count: 2605
+source_count: 2605
+paragraph_count: 686
 topic_count: 9
 ---
 
@@ -16,7 +16,7 @@ topic_count: 9
 
 ## Executive Summary
 
-- Two sources now connect frontier AI value to both ecosystem structure and personal-agent execution. [[all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250]] links [[ChatGPT6Astra|ChatGPT 6 / Astra]], [[OpenClosedAIMarketStructure]], [[FrontierModelDuopoly]], [[InstinctPersonalAI]], agent security, and school boundaries. [[275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd]] extends the product branch through [[TownPersonalAI]], [[Grokbot]], and [[MusePersonalAgent]]: [[PersonalLifeAgent|personal agents]] become durable when a [[PersonalAgentUnderstandingLayer]] turns [[PersonalAIMemory]] into well-timed [[ProactiveAgents|initiative]] and controllable execution through [[IMAgentInterfaces]] and [[PersistentCloudAgents]].
+- Two robot-learning interviews now connect the embodied stack to adaptation and measurement. [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr|The Shenpu Intelligence interview]] ties [[EmbodiedCapabilityFramework]], [[EmbodiedContextMemory]], [[RobotAgenticOS]], [[UMIGloveDataCollection]], [[TactileDataStagingChoice]], and self-run evaluation into one full-stack route. [[wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5|The Xu Mengdi interview]] adds [[RobotInContextLearning]], [[CapabilityDrivenRobotDataDesign]], and [[RobotDeploymentDataLoop]]: genuine generalization combines strong priors with rapid adaptation, data sources are assigned by desired capability and training stage, and a user-feedback loop begins only when limited teaching produces visible improvement. Together they sharpen [[RobotScalingClaimCaution]] and [[RobotEvaluationProblem]] by requiring unseen-task success, failure and safety boundaries, and real-time response rather than treating held-out loss or data hours as sufficient proof.
 - [[558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020|The Rolling Stones formation episode]] adds a youth-market differentiation case: [[PostwarTeenageConsumerMarket]] made records, venues, media, playback technology, and girls' fandom economically consequential; [[TheBeatles]] reduced uncertainty around guitar groups; and [[AndrewLoogOldham]] used [[ManufacturedRebellionBranding]] to turn parental disapproval and contrast into a market position for [[TheRollingStones]], while the Jagger-Richards songwriting shift supplied product change alongside image.
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse.
 - [[557-1066-the-norman-conquest-part-4-glt5156716826|The Norman Conquest episode]] adds a state-formation case: Hastings removed [[HaroldGodwinson]] but did not itself deliver England, so [[WilliamTheConqueror]] turned victory into government through coerced submissions, coronation continuity, castles, [[HarryingOfTheNorth]], and [[NormanEliteReplacement]], then used the inherited administrative capacity visible in [[DomesdayBook]]. [[ConquestRuptureContinuity]] captures the resulting combination of political rupture and institutional inheritance.
@@ -29,7 +29,7 @@ topic_count: 9
 
 ### AI and Technology
 
-AI value depends on system integration, verified workflows, relevant personal context, infrastructure, permissions, safety controls, and human responsibility rather than model capability alone.
+AI value depends on integrated workflows, relevant context, permissions, infrastructure, human responsibility, and embodied systems that can adapt and prove safe real-time task success.
 
 - [[2b2e96d8aea7-2b2e96d8aea7|The Keji Luandun episode]] adds an enforcement-feasibility boundary: [[ExportControlAllianceDurability]] shows multilateral controls depending on compensation and credible burden sharing, [[AIPlatformBehavioralEnforcement]] distinguishes suspicious access signals from proof of successful distillation, and [[AIControlNuclearAnalogyLimits]] explains why copyable model weights and falling local-inference barriers make physical nonproliferation analogies incomplete. Evidence: [[2b2e96d8aea7-2b2e96d8aea7]], [[ExportControlAllianceDurability]], [[AIPlatformBehavioralEnforcement]], [[AIControlNuclearAnalogyLimits]].
 - [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702|The Musk/Shotwell All-In source]] adds a Musk-ecosystem stack claim: [[SpaceX]] is framed as execution culture plus infrastructure stack, with [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], and [[Terafab]] connecting AI safety review, orbital compute, direct-to-cell satellites, reusable launch, and chip-supply security into one source-scoped operating thesis. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger-42906702]], [[SpaceX]], [[FrontierModelPeerReview]], [[Starship]], [[SpaceBasedAIInfrastructure]], [[Starlink]], [[Terafab]], [[GwenShotwell]], [[ElonMusk]].

@@ -16682,6 +16682,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/caozonglatehan/"
     },
+    "CapabilityDrivenRobotDataDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/capabilitydrivenrobotdatadesign/"
+    },
     "CapabilityOverhang": {
       "episode_count": 2,
       "show_count": 2,
@@ -100466,6 +100482,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/robotcontroldatascarcity/"
     },
+    "RobotDeploymentDataLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/robotdeploymentdataloop/"
+    },
     "RobotDeploymentSuccessEconomics": {
       "episode_count": 1,
       "show_count": 1,
@@ -100483,9 +100515,9 @@
       "url": "/wiki/concepts/robotdeploymentsuccesseconomics/"
     },
     "RobotEvaluationProblem": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角 [ljmazvdvAd7O5mD-Nuiompd6_1NV].md",
@@ -100507,10 +100539,33 @@
           "show": "十字路口Crossing",
           "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
           "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+        },
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/robotevaluationproblem/"
+    },
+    "RobotInContextLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/robotincontextlearning/"
     },
     "RobotNavigationInfrastructure": {
       "episode_count": 1,
@@ -100545,9 +100600,9 @@
       "url": "/wiki/concepts/robotresponselatency/"
     },
     "RobotScalingClaimCaution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家 [litRgTDfOZReriLLT7MtUMkNI-Lr].md",
@@ -100555,9 +100610,16 @@
           "show": "十字路口Crossing",
           "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
           "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+        },
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/robotscalingclaimcaution/"
     },
     "RobotSovereigntyAndDataTrust": {
@@ -118450,6 +118512,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/tsarevichalexei/"
     },
+    "TsinghuaIIIS": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/tsinghuaiiis/"
+    },
     "TudorSuccessionCrisis": {
       "episode_count": 4,
       "show_count": 1,
@@ -129391,6 +129469,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/xumeirenwesternhan/"
+    },
+    "XuMengdi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "“我看到了 Scaling Law 的信号” ｜ 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化 [ltDn8TRgg55FlUENUlLokxDiz1Y5].md",
+          "key": "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5",
+          "show": "十字路口Crossing",
+          "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+          "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/xumengdi/"
     },
     "XuPingjunWesternHan": {
       "episode_count": 6,

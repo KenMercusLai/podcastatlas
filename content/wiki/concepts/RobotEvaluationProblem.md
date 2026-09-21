@@ -6,52 +6,50 @@ sources:
   - 146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv
   - jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1
   - yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr
-last_updated: 2026-09-17
+  - wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
 # Robot Evaluation Problem
 
 ## Definition
-Robot evaluation problem is the difficulty of comparing real-world robot systems when results depend on task definitions, physical scenes, hardware condition, data access, autonomy boundaries, and private test setups.
+The robot evaluation problem is the difficulty of comparing embodied systems when success depends on task definitions, physical scenes, hardware state, prior data exposure, autonomy boundaries, failure consequences, and response time.
 
 ## Current Synthesis
-The bounded sources agree that robotics lacks a public, reproducible evaluation regime comparable to language-model benchmarks. K's Physical Intelligence interview emphasizes real-machine confounders such as lighting, object angle, table height, hardware state, and task definition. The LateTalk industry episode adds the market consequence: when progress is hard for outsiders to observe, fundraising, founder background, route changes, demos, revenue, and listing plans can become substitute signals even though they may say little about deployable capability.
+The bounded sources agree that robotics lacks a public, reproducible evaluation regime comparable to language-model benchmarks. Real-machine results vary with lighting, object angle, table height, hardware condition, and success definition; simulation is repeatable but can reward post-training against the benchmark rather than robust physical ability. Weak observability then creates a market problem, allowing demos, fundraising, revenue, and route narratives to substitute for deployment evidence.
 
-The Shenpu Intelligence interview adds the model-builder side of the same problem. [[WangJiawei]] says past embodied benchmarks skew to simulation, that some simulation benchmarks can be raised with post-training, and that the abilities a benchmark defines may not be the abilities a company cares about. Real-machine benchmarking is harder because it is not fully reproducible and often requires handing the model to a third party, which companies resist. His response is company-run evaluation of whole-chain stability and success rate, published with simple, medium, and hard tasks, scene and object generalization, and an explicit statement of how much data a zero-shot or few-shot result used. The same source says cross-model comparison stays difficult because outside data and outside embodiments are unknown, and that open-sourcing the model is still under discussion.
+Physical embodiment adds two requirements. Evaluation must characterize how a robot fails and where risk becomes unacceptable, not merely average success, because errors can damage people or property. It must also measure real-time interaction: a system that eventually returns a strong answer may still be unusable if the physical world changes while it reasons. The emerging standard is therefore a disclosed suite spanning unseen-task success, task difficulty, scene and object variation, autonomy, data exposure, speed or throughput, recovery, failure modes, and safety boundaries.
 
 ## Key Claims
-- A task's success definition matters as much as the model architecture when judging progress.
-- Real-machine evaluation is expensive, slow, and hardware-dependent.
-- Throughput can combine speed and quality, but only for tasks whose success criteria and time windows are clear.
-- Public demos and controlled scenes should be read as capability evidence, not as complete frontier rankings.
-- Weak observability can make both underestimation and overestimation plausible, creating space for bubbles, story-telling, and route mimicry.
-- The problem connects to simulation because scalable evaluation may need repeatable simulated or semi-simulated testbeds.
-- Disclosure matters as much as scoring: a robot result is not comparable unless it states the autonomy boundary, task difficulty, scene variation, and how much data a zero-shot or few-shot claim used.
+- Task and success definitions are as important as model architecture when judging robot progress.
+- Real-machine evaluation is expensive, slow, hardware-dependent, and difficult to reproduce across sites.
+- Simulation can improve repeatability but may be gameable and can omit physical noise, contact, and risk.
+- Results are not comparable without disclosure of autonomy, task difficulty, scene variation, and zero-shot or few-shot data exposure.
+- Speed, latency, or throughput must be included because robots interact continuously with changing environments.
+- Safety evaluation must cover failure modes and operational risk boundaries, not only mean success rate.
+- Weak technical observability lets capital-market and revenue signals stand in for capability evidence.
 
 ## Evidence
-- Confounder evidence: [[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] lists lighting, background, object angle, table height, hardware condition, and task definition as reasons robot evaluations are hard to compare.
-- Throughput evidence: [[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] uses π0.6* throughput as a way to combine speed and quality for bounded tasks.
-- Benchmark-gap evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] contrasts robotics with large-language-model progress, where public leaderboards, open models, and direct user experience make capability easier to observe.
-- Market-consequence evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] says hard-to-observe progress can leave room for route switching, story-telling, and capital-market signals to stand in for technical proof.
-- Task-fit evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] describes a robot taking roughly 70 seconds to pick an axle bearing into a box, making it hard to translate a demo into labor-replacement ROI.
-- Disclosure and benchmark-critique evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] describes simulation-heavy and post-training-gameable benchmarks, the third-party real-machine testing problem, a company-run evaluation across difficulty and generalization, disclosure of zero-shot versus few-shot data, and uncertainty about cross-model comparison and open-sourcing.
+- Physical-confounder and throughput evidence: [[146-dui-physical-intelligence-ke-li-yiming-4-xiaoshi-fangtan-pi-de-kaiyuan-moxing-yanjiu-jiqiren-de-jianghu-zupu-yu-zhujiao-ljmazvdvad7o5md-nuiompd6-1nv]] lists lighting, background, object pose, table height, hardware condition, and task definition as confounders and uses throughput to join speed with successful work.
+- Market-observability evidence: [[jushen-zhineng-de-jinqian-youxi-jinzhan-nance-shouru-cuishu-yu-ipo-jingsu-1-180-1]] says benchmark scarcity allows demos, founder background, fundraising, revenue, and listing plans to become substitute signals.
+- Benchmark and disclosure evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] describes simulation-heavy and post-training-gameable benchmarks, third-party real-machine testing resistance, and evaluation across difficulty, generalization, and zero-shot or few-shot data budgets.
+- Safety and failure evidence: [[wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5]] argues that embodied benchmarks must communicate what a robot can and cannot safely do before deployment.
+- Latency evidence: [[wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5]] distinguishes robots from systems that can wait minutes for an answer because physical interaction is continuous.
 
 ## Counterevidence & Qualifications
-The absence of a universal benchmark does not make all public robotics progress meaningless. Internal tests, customer pilots, long-duration demos, competitions, and deployment metrics can each show something. The qualification is that each metric must name its task, hardware, environment, autonomy boundary, speed, failure handling, and business relevance before it can support cross-company comparison. Company-run evaluation does not solve that problem by itself: the Shenpu source's own numbers are self-reported, and a house evaluation can still be selective unless its protocol and data budget are published.
+The absence of one universal benchmark does not make internal tests, customer pilots, long-duration demos, competitions, or deployment metrics meaningless. Each can supply evidence if the task, body, environment, autonomy, speed, failure handling, data budget, and business relevance are explicit. Company-run tests remain vulnerable to selection effects, while simulation and real-machine evaluation have complementary rather than mutually exclusive strengths. BEHAVIOR is recommended in the newest source for long-horizon household tasks, but its simulation-to-reality gap remains explicit.
 
 ## What Changed
-- Migrated the page to the synthesis-first concept schema.
-- Added progress observability as a market and valuation problem, not only a technical-evaluation issue.
-- Connected benchmark gaps to route mimicry, demos, fundraising, revenue, and IPO pressure.
-- Added the model-builder response: simulation-gameable benchmarks, third-party real-machine testing, company-run difficulty and generalization suites, and mandatory zero-shot versus few-shot disclosure.
+- Added failure-mode and safety-boundary evaluation as requirements created by physical embodiment.
+- Added latency and continuous interaction to the comparison standard.
+- Clarified that long-horizon household simulation is useful while still limited by the sim-to-real gap.
 
 ## Related Concepts
-- [[RoboticsSimulationEvaluation]] - scalable evaluation infrastructure that can complement real-machine tests.
-- [[RobotGeneralizationPerformanceTradeoff]] - tradeoff that evaluation is supposed to measure.
-- [[PhysicalIntelligencePiSeries]] - Pi sequence and π0.6* throughput example.
-- [[OpenWorldRobotManipulation]] - capability target that needs stronger public testing.
-- [[RobotDemoAuthenticity]] - related problem of whether a visible demo discloses autonomy boundaries.
-- [[RoboticsRevenuePullForward]] - business-side consequence when revenue substitutes for technical observability.
-- [[HumanoidRobotCommercialization]] - commercialization frame that depends on reliable evaluation.
-- [[UMIGloveDataCollection]] - data-collection and replay-validation route that a company can fold into its own evaluation loop.
+- [[RoboticsSimulationEvaluation]] - repeatable infrastructure that complements rather than replaces real-machine tests.
+- [[RobotGeneralizationPerformanceTradeoff]] - breadth, reliability, speed, and success tension evaluation should expose.
+- [[RobotScalingClaimCaution]] - scaling claims depend on valid embodied outcome measurement.
+- [[OpenWorldRobotManipulation]] - unseen-object and unseen-environment capability target.
+- [[RobotDemoAuthenticity]] - disclosure problem around visible demos and autonomy.
+- [[RobotExperienceData]] - attempts and failures that can support recovery-focused evaluation.
+- [[Sim2Real]] - transfer boundary behind the benchmark's simulation limitation.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化](sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5.md) — 十字路口Crossing interview with Xu Mengdi on robot in-context learning, world models and VLA systems, capability-driven data mixtures, deployment feedback loops, and why held-out loss is not yet a scaling law for unseen-task success.
 - [《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？](sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3.md) — 211年潼关战役的政治开局：曹操以进攻汉中为名施压关中，马超、韩遂先行起兵后失去名分优势，并暴露马腾家属的人质代价。
 - [275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse](sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd.md) — 乱翻书 episode comparing four personal-agent routes through memory, proactivity, messaging, cloud execution, commerce, platform distribution, trust, and the understanding layer between data and action.
 - [VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕](sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk.md) — 这病说来话长 episode with 阿汤 and plastic-surgery doctor Lulu on medical-drama realism, botulinum-toxin poisoning, unapproved injectables, provider verification, and safety-first expectation management.
@@ -13006,6 +13007,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [梁习 / Liang Xi (late Han)](entities/LiangXiLateHan.md) — Cao-side Bingzhou administrator who combines strongman appointments, troop dispersal, family relocation, force, and scholar recommendation.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
+- [Xu Mengdi / 徐梦迪](entities/XuMengdi.md) — Tsinghua robot-learning researcher studying in-context adaptation, world models, multi-source data, and embodied evaluation.
+- [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 
 ## Concepts
 - [Personal Agent Understanding Layer / 个人Agent理解层](concepts/PersonalAgentUnderstandingLayer.md) — Processing layer that turns raw personal data into current, relevant, permission-aware memory and action.
@@ -20730,5 +20733,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Endurance Training Modalities](concepts/EnduranceTrainingModalities.md) — Four-mode framework separating muscular, long-duration, anaerobic-interval, and high-intensity aerobic endurance training.
 - [Exercise Hydration Performance Boundary](concepts/ExerciseHydrationPerformanceBoundary.md) — Boundary around sweat loss, electrolytes, exercise-fluid heuristics, and supplement claims.
+- [Robot In-Context Learning / 机器人上下文学习](concepts/RobotInContextLearning.md) — Robot adaptation from demonstrations, corrections, body motion, attempts, and failures without retraining every new task offline.
+- [Capability-Driven Robot Data Design / 能力反推机器人数据](concepts/CapabilityDrivenRobotDataDesign.md) — Selecting human, UMI, simulation, and real-robot data by desired capability and training stage.
+- [Robot Deployment Data Loop / 机器人部署数据闭环](concepts/RobotDeploymentDataLoop.md) — Feedback loop that begins only when limited user teaching produces enough visible improvement to sustain use and correction.
 
 ## Syntheses

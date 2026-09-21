@@ -14025,6 +14025,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CapabilityDrivenRobotDataDesign": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "CapabilityGapSelfDiagnosis": [
     {
       "key": "science",
@@ -59740,6 +59747,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RobotDeploymentDataLoop": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RobotDeploymentSuccessEconomics": [
     {
       "key": "technology",
@@ -59781,6 +59795,13 @@
     }
   ],
   "RobotHumanBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "RobotInContextLearning": [
     {
       "key": "technology",
       "label": "Technology",
@@ -71745,6 +71766,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "TsinghuaIIIS": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TsinghuaUniversity": [
     {
       "key": "culture",
@@ -77183,6 +77211,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "XuMengdi": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "XuPingjunWesternHan": [
@@ -87057,6 +87092,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb": [

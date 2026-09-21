@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7717
+wiki_total_pages: 7720
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "CapabilityBoundedGrowth"
     title: "Capability-Bounded Growth"
     url: "/wiki/concepts/capabilityboundedgrowth/"
+  - key: "CapabilityDrivenRobotDataDesign"
+    title: "Capability-Driven Robot Data Design / 能力反推机器人数据"
+    url: "/wiki/concepts/capabilitydrivenrobotdatadesign/"
   - key: "CapacityBackedDiplomaticHierarchy"
     title: "Capacity-Backed Diplomatic Hierarchy / 实力支撑的外交名分"
     url: "/wiki/concepts/capacitybackeddiplomatichierarchy/"

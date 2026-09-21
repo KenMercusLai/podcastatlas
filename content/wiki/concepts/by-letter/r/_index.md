@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7717
+wiki_total_pages: 7720
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "RobotDemoAuthenticity"
     title: "Robot Demo Authenticity"
     url: "/wiki/concepts/robotdemoauthenticity/"
+  - key: "RobotDeploymentDataLoop"
+    title: "Robot Deployment Data Loop / 机器人部署数据闭环"
+    url: "/wiki/concepts/robotdeploymentdataloop/"
   - key: "RobotDeploymentSuccessEconomics"
     title: "Robot Deployment Success Economics"
     url: "/wiki/concepts/robotdeploymentsuccesseconomics/"
@@ -833,6 +836,9 @@ wiki_pages:
   - key: "RobotGeneralizationPerformanceTradeoff"
     title: "Robot Generalization Performance Tradeoff"
     url: "/wiki/concepts/robotgeneralizationperformancetradeoff/"
+  - key: "RobotInContextLearning"
+    title: "Robot In-Context Learning / 机器人上下文学习"
+    url: "/wiki/concepts/robotincontextlearning/"
   - key: "RobotLiveliness"
     title: "Robot Liveliness"
     url: "/wiki/concepts/robotliveliness/"

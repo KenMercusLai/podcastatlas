@@ -10627,6 +10627,10 @@
     "title": "Capability-Bounded Growth",
     "url": "/wiki/concepts/capabilityboundedgrowth/"
   },
+  "CapabilityDrivenRobotDataDesign": {
+    "title": "Capability-Driven Robot Data Design / 能力反推机器人数据",
+    "url": "/wiki/concepts/capabilitydrivenrobotdatadesign/"
+  },
   "CapabilityGapSelfDiagnosis": {
     "title": "Capability Gap Self-Diagnosis",
     "url": "/wiki/concepts/capabilitygapselfdiagnosis/"
@@ -54215,6 +54219,10 @@
     "title": "Robot Demo Authenticity",
     "url": "/wiki/concepts/robotdemoauthenticity/"
   },
+  "RobotDeploymentDataLoop": {
+    "title": "Robot Deployment Data Loop / 机器人部署数据闭环",
+    "url": "/wiki/concepts/robotdeploymentdataloop/"
+  },
   "RobotDeploymentSuccessEconomics": {
     "title": "Robot Deployment Success Economics",
     "url": "/wiki/concepts/robotdeploymentsuccesseconomics/"
@@ -54238,6 +54246,10 @@
   "RobotHumanBoundary": {
     "title": "Robot-Human Boundary",
     "url": "/wiki/concepts/robothumanboundary/"
+  },
+  "RobotInContextLearning": {
+    "title": "Robot In-Context Learning / 机器人上下文学习",
+    "url": "/wiki/concepts/robotincontextlearning/"
   },
   "RobotLiveliness": {
     "title": "Robot Liveliness",
@@ -64327,6 +64339,10 @@
     "title": "清华国学研究院",
     "url": "/wiki/entities/tsinghuaguoxueinstitute/"
   },
+  "TsinghuaIIIS": {
+    "title": "Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院",
+    "url": "/wiki/entities/tsinghuaiiis/"
+  },
   "TsinghuaUniversity": {
     "title": "Tsinghua University / 清华大学",
     "url": "/wiki/entities/tsinghuauniversity/"
@@ -69666,6 +69682,10 @@
   "XuMeirenWesternHan": {
     "title": "徐美人 / Xu Meiren (Western Han)",
     "url": "/wiki/entities/xumeirenwesternhan/"
+  },
+  "XuMengdi": {
+    "title": "Xu Mengdi / 徐梦迪",
+    "url": "/wiki/entities/xumengdi/"
   },
   "XuPingjunWesternHan": {
     "title": "许平君 / Xu Pingjun (Western Han)",
@@ -78242,6 +78262,10 @@
   "why-the-us-has-no-guaranteed-paid-vacation": {
     "title": "Why the U.S. Has No Guaranteed Paid Vacation",
     "url": "/wiki/sources/why-the-us-has-no-guaranteed-paid-vacation/"
+  },
+  "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5": {
+    "title": "“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+    "url": "/wiki/sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5/"
   },
   "wo-yudao-le-di-yige-zhenzheng-xiang-mai-de-peiban-jiqiren-duihua-shibo-yueban-dongli-chuangshiren-gonglu-boke-lrydelizm0-hbk68u5cqe3ti-epb": {
     "title": "我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】",

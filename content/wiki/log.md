@@ -20847,3 +20847,11 @@ Added source `zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | “我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
+
+Added source `wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5`; created `XuMengdi`, `TsinghuaIIIS`, `RobotInContextLearning`, `CapabilityDrivenRobotDataDesign`, and `RobotDeploymentDataLoop`; and updated `RobotScalingClaimCaution`, `RobotEvaluationProblem`, overview, and index. Core synthesis: genuine robot generalization combines strong priors with rapid learning from deployment context, capability needs should determine data mixture, and scaling evidence becomes meaningful only when data and model growth improve unseen-task success under safety and real-time constraints. No settled contradiction found; scaling signals, company results, benchmark claims, lab experiments, route preferences, and forecasts remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10381
+wiki_total_pages: 10383
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -962,6 +962,9 @@ wiki_pages:
   - key: "TSGConsumerPartners"
     title: "TSG Consumer Partners"
     url: "/wiki/entities/tsgconsumerpartners/"
+  - key: "TsinghuaIIIS"
+    title: "Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院"
+    url: "/wiki/entities/tsinghuaiiis/"
   - key: "TsinghuaUniversity"
     title: "Tsinghua University / 清华大学"
     url: "/wiki/entities/tsinghuauniversity/"

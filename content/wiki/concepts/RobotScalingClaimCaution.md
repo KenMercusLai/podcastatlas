@@ -4,44 +4,46 @@ type: concept
 tags: [robotics, data, scaling, embodied-ai]
 sources:
   - yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr
-last_updated: 2026-09-17
+  - wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
 # Robot Scaling Claim Caution / 幂律现象与 scaling law 谨慎
 
 ## Definition
-Robot scaling power-law caution is the practice of reporting that robot capability improves with data, compute, and data diversity without claiming that a validated scaling law has been established.
+Robot scaling claim caution is the discipline of separating suggestive improvements in training or held-out loss from a validated law connecting more data and larger models to safe, reliable success on unseen physical tasks.
 
 ## Current Synthesis
-The bounded source says the team sees performance gains from data diversity, compute, and data volume, and would call what it observes a power-law phenomenon rather than a scaling law, because a real scaling law requires serious and sufficient experiments. That caution is paired with a data strategy: self-collected UMI data is cost-controlled, high-quality, and reported as more than 90% usable, which the company says lets it run controlled experiments across model-parameter and data-ratio settings. The same source is skeptical of million-hour egocentric data on cost grounds, since the raw footage may be cheap while annotation and training are expensive and the payoff is unverified, and it treats zero-shot task performance as a signal of pretraining quality rather than proof of general capability.
+Both bounded sources report early scaling-like signals while refusing the strongest conclusion. The Shenpu interview calls its internal observation a power-law phenomenon rather than a scaling law because sufficient controlled experiments and public evaluation are missing. Xu Mengdi points to source-reported held-out-loss improvement as pretraining data grows from roughly one hundred thousand to one million hours, but adds the decisive robotics qualification: lower average loss may not improve task success when a small error at a contact-critical step can break a long-horizon action. A meaningful embodied scaling law would therefore connect model and data growth to sustained unseen-task success under disclosed task, data, safety, and latency conditions.
 
 ## Key Claims
-- Power-law-like improvement is not the same as a validated scaling law, and the source deliberately keeps the weaker claim.
-- Data diversity, compute, and data volume are all reported as capability levers.
-- Controlled scaling experiments depend on owning a data pipeline whose cost and usability are known.
-- Large-scale human first-person data can be cheap as raw material yet expensive once annotation and training are included.
-- Zero-shot task success is used as a pretraining-quality signal, not as a finished capability claim.
-- The source separates scaling evidence from marketing, and ties its caution to the absence of public benchmarks and reproducible evaluation.
+- Power-law-like improvement and held-out-loss reduction are signals, not by themselves validated robot scaling laws.
+- The most meaningful outcome variable is success on unseen tasks, not average prediction loss alone.
+- Contact-critical and long-horizon tasks can amplify small local errors into complete task failure.
+- Controlled scaling experiments require known data quality, cost, usability, diversity, and data-to-model ratios.
+- Large human or egocentric data collections can be cheap to record but expensive to annotate, train, and validate for robot use.
+- Zero-shot results should disclose task difficulty and data exposure rather than stand alone as general-capability claims.
 
 ## Evidence
-- Scaling-caution evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] says the team sees power-law phenomena but avoids claiming a scaling law because verification would require serious, sufficient experiments.
-- Controlled-experiment evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] says self-collected UMI data is cost-controlled and over 90% usable, enabling experiments across different parameter counts and data ratios.
-- Ego-data cost evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] argues that million-hour egocentric data may have low raw-material cost but high annotation and training cost with unverified effect.
-- Zero-shot evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] reports zero-shot task performance before release and connects it to data quality rather than to a general-capability conclusion.
+- Claim-discipline evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] says the team observes power-law phenomena but lacks the experiments needed to claim a scaling law.
+- Controlled-data evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] connects controlled parameter and data-ratio experiments to self-collected, cost-known UMI data reported as over 90% usable.
+- Loss-signal evidence: [[wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5]] reports seeing lower unseen-test loss as some companies move from roughly one hundred thousand to one million hours of pretraining data.
+- Success-rate qualification: [[wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5]] argues that critical contact errors can break a whole long-horizon task and defines the desired law through unseen-task success.
+- Cost and disclosure evidence: [[yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr]] distinguishes cheap raw egocentric footage from annotation and training cost and calls for disclosure around zero-shot and few-shot data use.
 
 ## Counterevidence & Qualifications
-The page records one company's framing; no scaling curves, experiment counts, or model sizes are disclosed, and the power-law observation is unverified outside the company. The claimed 90%-plus usability is also self-reported. The caution should therefore be read as a discipline about claiming too much, not as evidence about the true shape of robot-learning returns.
+Neither source supplies audited scaling curves, model sizes, complete data composition, confidence intervals, or reproducible cross-company tests. The million-hour comparison is reported as an observation from company releases rather than an independent experiment. The current evidence supports a research signal and a measurement standard, not the existence, exponent, or commercial implication of a robot scaling law.
 
 ## What Changed
-- Created the concept from the interview's power-law-versus-scaling-law distinction.
-- Added the data-ownership condition that the source says makes controlled scaling experiments possible.
-- Recorded the cost objection to million-hour egocentric data as part of the scaling decision.
+- Added held-out-loss improvement as a stronger early signal while preserving the distinction between signal and validated law.
+- Made unseen-task success the required outcome and added the contact-critical reason loss can diverge from success.
+- Broadened the validation boundary to include task disclosure, safety, and latency alongside data and model scale.
 
 ## Related Concepts
 - [[RobotDataScaleUp]] - broader data-scaling bottleneck this concept qualifies.
-- [[RobotGeneralizationPerformanceTradeoff]] - capability tension that scaling experiments are meant to measure.
-- [[EgocentricRobotData]] - large-scale first-person route whose cost-effectiveness the source questions.
-- [[EmbodiedNativeFoundationModels]] - robot-native model route that still depends on usable data scale.
-- [[FrontierModelScaling]] - language-model scaling discourse whose confidence this concept refuses to import wholesale.
-- [[RobotEvaluationProblem]] - missing measurable evaluation behind the refusal to claim a law.
+- [[RobotGeneralizationPerformanceTradeoff]] - capability tension a useful scaling law must measure.
+- [[EgocentricRobotData]] - large-scale first-person route whose total cost and transfer value remain uncertain.
+- [[RobotEvaluationProblem]] - benchmark and disclosure layer required to test the scaling claim.
+- [[CapabilityDrivenRobotDataDesign]] - reminder that capability-relevant data composition matters alongside hours.
+- [[FrontierModelScaling]] - language-model scaling discourse that cannot be imported into robotics without embodied outcome evidence.

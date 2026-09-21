@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
       "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
       "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
       "03d60e46d06dd9f5392768ac179a3625cea6a5f191f719b44bbf95804b3d3cbb",
@@ -687,11 +688,32 @@
       "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2",
       "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51"
     ],
-    "paragraph_count": 685
+    "paragraph_count": 686
   },
-  "overview_commit": "9630aada538ace5ea91758aa19eab258ab8ff046",
-  "overview_digest": "f44bd4c814ca9504296bedd8b6934976a3b8a9272a44170473a0761d9b0ab353",
+  "overview_commit": "cacdb4729ca820971f120f4035c3155798653afb",
+  "overview_digest": "63f24e9f053ca7bee0731e6e8db14dfdbcc7cd6e7754878b83d70ba592c93ca6",
   "paragraphs": [
+    {
+      "id": "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [],
+      "text": "The [[wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5|Xu Mengdi interview]] adds an adaptation-and-measurement layer to the robotics branch. [[RobotInContextLearning]] defines genuine generalization as strong pretrained priors plus rapid learning from demonstrations, corrections, body motion, attempts, and failures; [[CapabilityDrivenRobotDataDesign]] assigns human, UMI, simulation, and real-robot data by the capability and training stage they serve; and [[RobotDeploymentDataLoop]] identifies the bootstrap threshold at which limited user teaching produces enough visible improvement to sustain use and feedback. The source sharpens [[RobotScalingClaimCaution]] and [[RobotEvaluationProblem]]: held-out loss reportedly improves between roughly one-hundred-thousand- and one-million-hour pretraining regimes, but a useful embodied scaling law must raise unseen-task success under contact-critical, failure-mode, safety, and real-time constraints. [[WorldModels]] and [[VisionLanguageActionModels]] remain potentially complementary rather than proven winner and loser.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "governance-and-institutions": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CapabilityDrivenRobotDataDesign",
+        "RobotDeploymentDataLoop",
+        "RobotEvaluationProblem",
+        "RobotInContextLearning",
+        "RobotScalingClaimCaution",
+        "VisionLanguageActionModels",
+        "WorldModels",
+        "wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5"
+      ]
+    },
     {
       "id": "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
       "primary_topic": "science-health-and-climate",
