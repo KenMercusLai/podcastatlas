@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7784
+wiki_total_pages: 7787
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1556,6 +1556,9 @@ wiki_pages:
   - key: "AlcoholDemandReset"
     title: "Alcohol Demand Reset"
     url: "/wiki/concepts/alcoholdemandreset/"
+  - key: "AlcoholLiverHarmBoundary"
+    title: "Alcohol Liver Harm Boundary"
+    url: "/wiki/concepts/alcoholliverharmboundary/"
   - key: "AlgorithmAversion"
     title: "Algorithm Aversion"
     url: "/wiki/concepts/algorithmaversion/"

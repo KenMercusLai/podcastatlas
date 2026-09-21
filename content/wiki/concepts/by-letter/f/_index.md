@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7784
+wiki_total_pages: 7787
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "FateChangeThroughVirtuePractice"
     title: "Fate Change Through Virtue Practice / 积善修心式改命"
     url: "/wiki/concepts/fatechangethroughvirtuepractice/"
+  - key: "FattyLiverCauseDirectedManagement"
+    title: "Fatty Liver Cause-Directed Management"
+    url: "/wiki/concepts/fattylivercausedirectedmanagement/"
   - key: "FavoriteDrivenHeirDisplacement"
     title: "Favorite-Driven Heir Displacement / 宠幸驱动的废嫡立庶"
     url: "/wiki/concepts/favoritedrivenheirdisplacement/"

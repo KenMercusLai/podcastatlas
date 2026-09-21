@@ -3402,7 +3402,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-15",
       "latest_episode_file": "lvukACV0zedG1Md2pFab43fkoJhO [lvukACV0zedG1Md2pFab43fkoJhO].md",
-      "source_note_count": 38,
+      "source_note_count": 39,
       "topic_matched_source_note_count": 4,
       "topics": [
         {
@@ -3430,7 +3430,7 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 18
+          "episode_count": 19
         },
         {
           "key": "YueWanrou",

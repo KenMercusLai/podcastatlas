@@ -21127,3 +21127,11 @@ Added source `549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985`;
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | VOL.156爱肝护肝第一步你就走错了 沉默的“人体化工厂”自救指南
+
+Added source `vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb`; created `SilentLiverDamageDetection`, `FattyLiverCauseDirectedManagement`, and `AlcoholLiverHarmBoundary`; updated `JiangYuliangDoctor`, `HerbalSupplementLiverToxicity`, `ZheBingShuoLaiHuaChang`, `Atang`, and the index. Core synthesis: liver injury can remain clinically silent, fatty-liver findings call for cause-based review and sustainable habit change, and neither natural products nor drinking rituals establish liver safety. No settled contradiction found; progression timelines, diet and exercise mechanisms, alcohol practices, coffee limits, and sponsored medication claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

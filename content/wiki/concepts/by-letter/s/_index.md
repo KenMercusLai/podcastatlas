@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7784
+wiki_total_pages: 7787
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "SignalDesign"
     title: "Signal Design / 信号设计"
     url: "/wiki/concepts/signaldesign/"
+  - key: "SilentLiverDamageDetection"
+    title: "Silent Liver Damage Detection"
+    url: "/wiki/concepts/silentliverdamagedetection/"
   - key: "SilentProtagonist"
     title: "Silent Protagonist"
     url: "/wiki/concepts/silentprotagonist/"

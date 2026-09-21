@@ -21,14 +21,15 @@ sources:
   - vol-163-jinshi-de-ren-name-duo-wo-gai-zenmeban-yanke-zhuren-zhizhao-chengren-ertong-de-jinshi-fangkong-shouduan-lpcb-or4ibtodc2bb383vmo2dxbc
   - vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy
   - vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio
-last_updated: 2026-09-21
+  - vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb
+last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
 
 # 阿汤 / A Tang
 
 ## Overview
-阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, migraine recognition and treatment, lifestyle health, hypertension management, tobacco and vaping risk, smoking cessation, pediatric myopia control, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
+阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, liver and fatty-liver health, migraine recognition and treatment, lifestyle health, hypertension management, tobacco and vaping risk, smoking cessation, pediatric myopia control, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
 
 ## Current Profile
 Across the current source set, 阿汤's role is to turn expert knowledge into concrete listener-facing questions. In clinical and health-literacy episodes, he asks how ordinary patients should understand uncertain first visits, imaging reports, second opinions, surgery thresholds, speech-language development, adult aphasia, dysarthria, weight-loss interventions, sugar claims, supplement claims, functional-food categories, headphone habits, tinnitus, sudden hearing symptoms, online neuroscience labels, mosquito repellent claims, insect-bite aftercare, exercise injury prevention, exercise-as-medical-aesthetics claims, first-aid decisions, and clinical music therapy without converting public discussion into self-treatment.
@@ -59,6 +60,8 @@ The same hosting pattern extends into mental-health and workplace pressure. In t
 
 VOL.157 adds a neurology and headache branch. 阿汤 starts from the naming-based assumption that unilateral pain must be migraine, then asks [[XueDoctorZheBing|薛医生]] and [[BanmaJiangMedicalGuest|斑马酱]] to distinguish recurring migraine patterns, aura, serious secondary causes, personal triggers, headache diaries, established medication, CGRP therapies, and exploratory neuromodulation without turning the conversation into self-diagnosis or self-prescribing.
 
+VOL.156 adds a liver-health branch. 阿汤 starts from the “silent organ” framing and familiar concerns about fatty liver, late nights, takeout, alcohol, vegetarian diets, exercise, protein powder, coffee, supplements, and liver-protection products, then asks [[JiangYuliangDoctor|蒋宇亮]] to separate [[SilentLiverDamageDetection|testing from pain]], [[FattyLiverCauseDirectedManagement|cause review from panic]], [[HerbalSupplementLiverToxicity|product naturalness from safety]], and [[AlcoholLiverHarmBoundary|discomfort reduction from liver protection]].
+
 ## Key Characteristics
 - Hosts specialist medical, health-literacy, otolaryngology, speech-language rehabilitation, cardiovascular, sports-medicine, medical-aesthetic, and mental-health conversations for lay listeners.
 - Translates clinician reasoning, consumer-health claims, supplement questions, and device habits into patient questions, product-use questions, training questions, workplace questions, and follow-up actions.
@@ -83,14 +86,15 @@ VOL.157 adds a neurology and headache branch. 阿汤 starts from the naming-base
 - Hypertension-management framing: [[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy|VOL.162]] has him turn an asymptomatic younger patient's discovery, dosing gaps, monitoring uncertainty, bedtime project rumination, and food context into questions about confirmed control, stable treatment, home technique, follow-up, lifestyle change, and organ risk.
 - Workplace-pressure framing: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] has him connect the drama hook to workplace PUA, bullying, humiliation, exclusion, and the psychological "iron fist" of boundaries, evidence, expression, and complaint.
 - Bite-prevention and aftercare framing: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has him help turn mosquito attraction, repellent products, allergic itch, antihistamines, steroids, tick handling, chigger fever risk, and household source control into ordinary listener questions.
+- Liver-health framing: [[vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb]] has him turn fatty-liver findings, transaminases, alcohol rituals, late nights, vegetarian eating, training, supplements, coffee, prepared food, and treatment advertising into questions about causes, monitoring, lifestyle, and qualified care.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
+The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, hepatology, fatty-liver, alcohol, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
 
 ## What Changed
-- VOL.157 adds migraine recognition, secondary-headache escalation, trigger tracking, medication choice, and neuromodulation evidence to the host profile.
-- 阿汤's personal one-sided headache example becomes a boundary against diagnosis from location alone.
-- Aura mechanisms, imaging, medication, pregnancy, CGRP, and stimulation claims remain qualified and source-scoped.
+- VOL.156 adds silent liver injury, fatty-liver cause review, medicines and herbal products, alcohol, diet, exercise, sleep, and treatment boundaries to the host profile.
+- 阿汤's practical questions turn “护肝” products and drinking rituals into evidence and safety distinctions.
+- Progression, diet, exercise, alcohol, coffee, and sponsored medication claims remain qualified and source-scoped.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as host.
@@ -179,3 +183,8 @@ The wiki has no independent biographical evidence for 阿汤 beyond these episod
 - [[HomeBloodPressureMeasurement]] - home-device and technique boundary he asks the guest to explain.
 - [[AntihypertensiveMedicationAdherence]] - medication-continuity boundary he makes concrete through weekend dosing questions.
 - [[HypertensionTargetOrganDamage]] - multi-organ risk frame he asks the guest to explain.
+- [[JiangYuliangDoctor]] - gastroenterology guest he asks to explain liver function, fatty liver, and harm-reduction limits.
+- [[SilentLiverDamageDetection]] - symptom-versus-testing boundary he prompts through the “silent liver” framing.
+- [[FattyLiverCauseDirectedManagement]] - cause review and lifestyle-management frame he makes concrete.
+- [[HerbalSupplementLiverToxicity]] - natural-product and medicine-risk boundary he asks about.
+- [[AlcoholLiverHarmBoundary]] - alcohol-harm distinction he reinforces after discussing common drinking practices.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.156爱肝护肝第一步你就走错了 沉默的“人体化工厂”自救指南](sources/vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb.md) — 这病说来话长 episode on silent liver injury, fatty-liver cause review, medicine and herbal-product risk, alcohol harm, lifestyle change, and clinician-guided treatment.
 - [549. The Road to 1066: Revenge of the Vikings (Part 2)](sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985.md) — The Rest Is History episode on Scandinavian Christian kingship, Sweyn's 1013 conquest, the Danegeld cycle, and Cnut's 1016 victory and consolidation.
 - [Essentials: Supercharge Exercise Performance & Recovery with Cooling](sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411.md) — Huberman Lab Essentials episode on heat-limited output, cardiac drift, glabrous-skin cooling, vasoconstriction-aware protocols, and recovery-adaptation tradeoffs.
 - [550. The Road to 1066: Rise of the Normans (Part 3)](sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693.md) — The Rest Is History episode on Norman castle lordship, William's violent minority, the post-Cnut English succession crisis, and Edward's restoration.
@@ -4666,7 +4667,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology and pediatric myopia control, rehabilitation, exercise safety, music therapy, and consumer medical boundaries.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
 - [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest in VOL.36 explaining diabetic fundus screening, dry eye, high-myopia retinal risk, myopia-surgery boundaries, red-eye causes, and eye-drop caution.
 - [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 ophthalmology episode.
@@ -4676,7 +4677,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刘臣 / Liu Chen (Emergency Physician)](entities/LiuChenEmergencyDoctor.md) — Source-scoped emergency-medicine guest in VOL.222 explaining chest-pain escalation, CPR/AED boundaries, seizure response, medication stacking, and 120 calling.
 - [祝腾娇 / Zhu Tengjiao](entities/ZhuTengjiao.md) — Source-scoped orthopedic guest from 北医三院 in VOL.222 explaining acute sports injuries, Achilles rupture, wounds, punctures, burns, and trauma escalation.
 - [马浩宁 / Ma Haoning](entities/MaHaoning.md) — Medical guest explaining lumbar disc herniation, symptom-driven spine care, rehabilitation pacing, outpatient return thresholds, and low-cost safety checks.
-- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning diagnostic uncertainty, migraine, pediatric myopia control, health anxiety, rehabilitation, supplements, hearing safety, first-aid triage, exercise, and workplace pressure into listener-facing boundaries.
+- [阿汤 / A Tang](entities/Atang.md) — Host voice in 这病说来话长 episodes, turning liver health, diagnostic uncertainty, migraine, health anxiety, rehabilitation, supplements, hearing safety, first-aid triage, exercise, and workplace pressure into listener-facing boundaries.
 - [果同学 / Guo Music Therapy Guest](entities/GuoMusicTherapyGuest.md) — Source-scoped 这病说来话长 guest explaining clinical music therapy, therapist musicianship, synchrony, elder memory cueing, and China/Korea professionalization boundaries.
 - [Ander (medical-aesthetics guest)](entities/AnderMedicalAesthetics.md) — Source-scoped VOL.211 guest explaining exercise appearance tradeoffs, outdoor skin exposure, facial strain, weight-loss looseness, and function-aware medical-aesthetic choices.
 - [邓教授 / Professor Deng (cardiology guest)](entities/DengProfessorCardiology.md) — Source-scoped VOL.211 cardiovascular-medicine guest explaining heart-rate limits, blood-pressure context, overtraining, sleep/caffeine recovery debt, cardiopulmonary assessment, and BLS/AED response.
@@ -4688,7 +4689,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [薛小凡 / Xue Xiaofan](entities/XueXiaofan.md) — VOL.216 guest explaining prefrontal-cortex internet vocabulary, state-dependent self-control, ADHD self-diagnosis boundaries, and clinical behavior-change red flags.
 - [小龙 / Xiaolong (Weight-Management Guest)](entities/XiaolongWeightManagementGuest.md) — 这病说来话长 guest explaining breakfast-first balanced eating, weight management, food structure, resistance training, sleep, medical boundaries, and sustainable eating contexts.
 - [亚萌 / Ya Meng](entities/YaMengDoctor.md) — Dermatology-side guest explaining rash uncertainty, insect-bite reactions, diagnostic treatment, short follow-up windows, medication boundaries, and return conditions.
-- [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology-side guest explaining first-visit triage, abdominal-pain ambiguity, dangerous-disease screening, and test follow-up.
+- [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology guest explaining first-visit triage, silent liver injury, fatty-liver causes, exposure risk, and clinician-guided follow-up.
 - [银欣 / Yin Xin](entities/YinXinDoctor.md) — Imaging-side guest explaining test limits, clinical-question quality on imaging requests, and report interpretation boundaries.
 - [Alex Theatre](entities/AlexTheatre.md) — Historic Glendale movie palace used by Marketplace Tech as a case of rapid 70mm retrofit and analog exhibition revival.
 - [Miles Williams](entities/MilesWilliams.md) — Alex Theatre artistic director explaining 70mm projection, retrofit constraints, and analog moviegoing appeal.
@@ -13098,6 +13099,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Silent Liver Damage Detection](concepts/SilentLiverDamageDetection.md) — Boundary against using pain as the main liver-health test, emphasizing findings, exposure history, and follow-up.
+- [Fatty Liver Cause-Directed Management](concepts/FattyLiverCauseDirectedManagement.md) — Framework linking fatty-liver progression risk to cause review, sustainable lifestyle change, and qualified care.
+- [Alcohol Liver Harm Boundary](concepts/AlcoholLiverHarmBoundary.md) — Distinction between reducing absorption speed or discomfort and preventing alcohol-related liver harm.
 - [Danish Conquest of England](concepts/DanishConquestOfEngland.md) — Two-stage 1013-1016 conquest completed by Cnut through coercion and institutional appropriation.
 - [Scandinavian Christian Kingship](concepts/ScandinavianChristianKingship.md) — Model joining conversion, ecclesiastical prestige, administration, taxation, and stronger monarchy.
 - [Danegeld Escalation](concepts/DanegeldEscalation.md) — Tribute feedback loop that strengthens returning attackers while weakening royal legitimacy.
@@ -18824,7 +18828,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Consumer Arbitration Barrier](concepts/ConsumerArbitrationBarrier.md) — Contractual barrier that can keep consumer injury claims out of court and limit public discovery.
 - [Chronic Food Additive Risk](concepts/ChronicFoodAdditiveRisk.md) — Long-term food-chemical harm problem that is harder to trace than acute poisoning.
 - [Supplement Label Accuracy](concepts/SupplementLabelAccuracy.md) — Risk that supplement ingredient lists, doses, and contents may not match what consumers actually receive.
-- [Herbal Supplement Liver Toxicity](concepts/HerbalSupplementLiverToxicity.md) — Safety frame for concentrated extracts, high doses, contaminants, and liver-harm cases tied to herbal and dietary supplements.
+- [Herbal Supplement Liver Toxicity](concepts/HerbalSupplementLiverToxicity.md) — Product-specific safety frame for concentrated extracts, high doses, identity confusion, contaminants, and liver-harm cases.
 - [Supplement Placebo Effect](concepts/SupplementPlaceboEffect.md) — Consumer-experience frame separating perceived wellness benefit from proven physiological effect.
 - [Recurring Supplement Commerce](concepts/RecurringSupplementCommerce.md) — Repeat-purchase business model that makes supplement brands attractive despite weak claim evidence.
 - [Third-Party Supplement Testing](concepts/ThirdPartySupplementTesting.md) — Independent lab and certification layer that can verify contents without proving broad health benefits.
