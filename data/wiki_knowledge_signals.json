@@ -7229,9 +7229,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 38,
+      "episode_count": 39,
       "show_count": 1,
-      "source_note_count": 38,
+      "source_note_count": 39,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7498,6 +7498,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        },
+        {
+          "episode_file": "SCIM6636881997 [SCIM6636881997].md",
+          "key": "essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
         }
       ],
       "updated": "2026-09-22",
@@ -50661,10 +50668,26 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/groundtruthnewsletter/"
     },
-    "GrowthHormoneSecretagogues": {
+    "GrowthHormoneBehavioralRegulation": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6636881997 [SCIM6636881997].md",
+          "key": "essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/growthhormonebehavioralregulation/"
+    },
+    "GrowthHormoneSecretagogues": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -50672,9 +50695,16 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "SCIM6636881997 [SCIM6636881997].md",
+          "key": "essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/growthhormonesecretagogues/"
     },
     "GrowthWitnessing": {
@@ -58385,9 +58415,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 38,
+      "episode_count": 39,
       "show_count": 1,
-      "source_note_count": 38,
+      "source_note_count": 39,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -58654,6 +58684,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        },
+        {
+          "episode_file": "SCIM6636881997 [SCIM6636881997].md",
+          "key": "essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
         }
       ],
       "updated": "2026-09-22",
@@ -110962,9 +110999,9 @@
       "url": "/wiki/concepts/slowgatheringimprovisation/"
     },
     "SlowWaveSleepRestoration": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -110972,9 +111009,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "SCIM6636881997 [SCIM6636881997].md",
+          "key": "essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/slowwavesleeprestoration/"
     },
     "SmallBrainActionLayer": {
@@ -120185,6 +120229,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/thulesociety/"
+    },
+    "ThyroidHormoneMetabolism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6636881997 [SCIM6636881997].md",
+          "key": "essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
+          "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/thyroidhormonemetabolism/"
     },
     "TianChou": {
       "episode_count": 3,

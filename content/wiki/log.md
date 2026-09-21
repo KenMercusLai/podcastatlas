@@ -21190,3 +21190,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone
+
+Added source `essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997`; created `ThyroidHormoneMetabolism` and `GrowthHormoneBehavioralRegulation`; updated `AndrewHuberman`, `HubermanLab`, `SlowWaveSleepRestoration`, `GrowthHormoneSecretagogues`, and the index. Core synthesis: thyroid hormone supports cellular energy use through a clinically interpreted endocrine axis, while growth-hormone release is pulsatile and context-dependent across slow-wave sleep, meal timing, exercise, heat, and selected supplements. No settled contradiction found; nutrient, timing, exercise, arginine, sauna, age-decline, and hormone-multiplier claims remain source-scoped public education rather than individualized endocrine care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

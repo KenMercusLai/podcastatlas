@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone](sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997.md) — Huberman Lab Essentials episode on thyroid-axis metabolism, nutrient sufficiency, growth-hormone release through sleep and exercise, heat and arginine claims, and intervention risk.
 - [546. The French Revolution: The Monarchy Falls (Part 3)](sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370.md) — The Rest Is History episode on abolition, Valmy, Convention factional conflict, ideological war, and the opening case against Louis XVI.
 - [547. The French Revolution: The Execution of the King (Part 4)](sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954.md) — The Rest Is History episode on Louis XVI's trial and execution, ritual de-royalization, republican founding violence, mercy disputes, and rival martyr memories.
 - [VOL.155每夜窒息51秒！医生讲述年轻女患者的重生故事](sources/vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv.md) — 这病说来话长 episode on obstructive sleep apnea recognition, polysomnography, treatment choice, and home positive-airway-pressure adherence.
@@ -4721,8 +4722,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Darcy (Raised Nutrition)](entities/DarcyRaisedNutrition.md) — Raised Nutrition founder-caller asking whether a niche athletic origin story limits broader wellness appeal.
 - [Cooks Who Feed](entities/CooksWhoFeed.md) — Social-enterprise kitchen-linen company advised to use low-risk B2B trials, referrals, and client-centered impact storytelling.
 - [Seema Sanghavi](entities/SeemaSanghavi.md) — Cooks Who Feed founder-caller focused on convincing B2B buyers to switch vendors.
-- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sensory biology, sleep-wake timing, circadian performance, focused work, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
-- [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological and sensory mechanisms with adaptable routines, focused work, health decisions, and explicit safety boundaries.
+- [Huberman Lab](entities/HubermanLab.md) — Show context for health, neuroscience, psychology, sensory biology, endocrine metabolism, sleep-wake timing, exercise, nutrition, AI, relationships, and clinically bounded self-regulation tools.
+- [Andrew Huberman](entities/AndrewHuberman.md) — Host using interviews, solo Essentials episodes, and Q&A to connect biological, endocrine, and sensory mechanisms with adaptable routines, health decisions, and explicit safety boundaries.
 - [Abud Bakri](entities/AbudBakri.md) — Internal medicine physician and Huberman Lab guest explaining peptide evidence hierarchy, sourcing quality, clinical oversight, GLP-1 maturity, and experimental peptide caution.
 - [Andy Stumpf](entities/AndyStumpf.md) — Huberman Lab guest and Drownproof author connecting concern/influence sorting, small daily discipline, wingsuit risk, vulnerability, and defining enough.
 - [Drownproof](entities/Drownproof.md) — Andy Stumpf book discussed as a practical source for agency, adversity, discipline, vulnerability, and success-boundary tools.
@@ -14319,7 +14320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fresh Allergy-Safe Production Scaling](concepts/FreshAllergySafeProductionScaling.md) — Scaling problem for fresh food businesses whose trust depends on allergy control, perishability, and founder capacity.
 - [Front-Pack Conversion Education](concepts/FrontPackConversionEducation.md) — CPG messaging discipline of putting the fastest purchase reason on the package front while moving deeper education to secondary surfaces.
 - [Sleep Stage Functional Architecture](concepts/SleepStageFunctionalArchitecture.md) — Sleep-stage frame distinguishing stage one/two, slow-wave non-REM, and REM as timed brain states with different memory, restoration, creativity, and emotion functions.
-- [Slow-Wave Sleep Restoration](concepts/SlowWaveSleepRestoration.md) — Early-night deep-sleep frame tying slow waves to growth hormone pulses, energy rebuilding, and brain cleanup under circadian regularity constraints.
+- [Slow-Wave Sleep Restoration](concepts/SlowWaveSleepRestoration.md) — Early-night deep-sleep frame tying slow waves to growth hormone pulses, energy rebuilding, brain cleanup, circadian regularity, and qualified meal-timing context.
 - [Sleep Spindle Schema Formation](concepts/SleepSpindleSchemaFormation.md) — Stage-two/REM rhythm frame linking spindles and P-waves to hippocampal-cortical transfer, schema integration, insight, and creative association.
 - [REM Emotional Memory Separation](concepts/REMEmotionalMemorySeparation.md) — REM-sleep frame where low norepinephrine may help memories retain facts while losing overwhelming autonomic charge, with PTSD and clinical-care limits.
 - [Labor Tax Base AI Erosion](concepts/LaborTaxBaseAIErosion.md) — Public-finance risk that AI substitution reduces taxable labor income before replacement tax bases are ready.
@@ -18561,7 +18562,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [BPC-157 Experimental Repair Peptide](concepts/BPC157ExperimentalRepairPeptide.md) — BPC-157 frame separating animal repair signals and gut-protection plausibility from unresolved human efficacy, safety, and regulatory status.
 - [Peptide Sourcing Quality Risk](concepts/PeptideSourcingQualityRisk.md) — Safety problem around peptide identity, purity, sterility, dose, contaminants, compounding quality, and batch consistency.
 - [Regulated Peptide Access](concepts/RegulatedPeptideAccess.md) — Access boundary around approval status, prescribing, compounding rules, physician liability, and medical-board oversight.
-- [Growth Hormone Secretagogues](concepts/GrowthHormoneSecretagogues.md) — Indirect growth-hormone peptide branch involving tesamorelin, ipamorelin, MK-677, somatopause, IGF-1 monitoring, and endocrine risk.
+- [Growth Hormone Secretagogues](concepts/GrowthHormoneSecretagogues.md) — Indirect growth-hormone peptide branch involving tesamorelin, ipamorelin, MK-677, sermorelin, IGF-1 monitoring, and endocrine risk.
+- [Growth Hormone Behavioral Regulation](concepts/GrowthHormoneBehavioralRegulation.md) — State-dependent frame linking pulsatile growth-hormone release to slow-wave sleep, meal timing, exercise, heat, arginine, and medical boundaries.
+- [Thyroid Hormone Metabolism](concepts/ThyroidHormoneMetabolism.md) — Thyroid-axis framework linking T3/T4 and qualified nutrient sufficiency to cellular energy use, repair, and clinical evaluation.
 - [Bioregulator Peptides](concepts/BioregulatorPeptides.md) — Pinealon and epithalon category linking Soviet/Russian literature, sleep or cognition anecdotes, longevity interest, and evidence caution.
 - [GLP-1 Body Composition Stack](concepts/GLP1BodyCompositionStack.md) — Rapid recomposition trend combining GLP-1 drugs with growth-hormone or GHRH modulation and androgen therapies.
 - [Research Chemical Loophole](concepts/ResearchChemicalLoophole.md) — Gap between compounds sold for research use and buyers' practical personal injection or self-experimentation.

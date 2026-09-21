@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7808
+wiki_total_pages: 7810
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "ThreeSidedMarketplaceValidation"
     title: "Three-Sided Marketplace Validation"
     url: "/wiki/concepts/threesidedmarketplacevalidation/"
+  - key: "ThyroidHormoneMetabolism"
+    title: "Thyroid Hormone Metabolism"
+    url: "/wiki/concepts/thyroidhormonemetabolism/"
   - key: "TianFamilyReplacementOfQi"
     title: "Tian Family Replacement of Qi / 田氏代齐"
     url: "/wiki/concepts/tianfamilyreplacementofqi/"

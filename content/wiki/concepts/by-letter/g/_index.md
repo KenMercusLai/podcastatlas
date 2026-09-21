@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7808
+wiki_total_pages: 7810
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "GrowthAsProtectorRole"
     title: "Growth As Protector Role"
     url: "/wiki/concepts/growthasprotectorrole/"
+  - key: "GrowthHormoneBehavioralRegulation"
+    title: "Growth Hormone Behavioral Regulation"
+    url: "/wiki/concepts/growthhormonebehavioralregulation/"
   - key: "GrowthHormoneSecretagogues"
     title: "Growth Hormone Secretagogues"
     url: "/wiki/concepts/growthhormonesecretagogues/"
