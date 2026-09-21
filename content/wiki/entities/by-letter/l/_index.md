@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10400
+wiki_total_pages: 10403
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1403,6 +1403,9 @@ wiki_pages:
   - key: "LaoAi"
     title: "嫪毐 / Lao Ai"
     url: "/wiki/entities/laoai/"
+  - key: "LadySunLiuBei"
+    title: "孙夫人 / Lady Sun (wife of Liu Bei)"
+    url: "/wiki/entities/ladysunliubei/"
   - key: "LiuChongAnzhongMarquis"
     title: "安众侯刘崇 / Liu Chong, Anzhong Marquis"
     url: "/wiki/entities/liuchonganzhongmarquis/"

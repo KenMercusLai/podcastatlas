@@ -16558,9 +16558,9 @@
       "url": "/wiki/entities/caojielatehan/"
     },
     "CaoRen": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》974丨曹操向他托妻献子，为何转身挨刀子？ [lhFAbaB7xv2vFSgnHr9ozwqHMHd-].md",
@@ -16603,9 +16603,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/caoren/"
     },
     "CaoShaoLateHan": {
@@ -48270,6 +48277,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/gongzizhen/"
     },
+    "GonganLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/gonganlatehan/"
+    },
     "GongchengXingWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -62906,6 +62929,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/jiangchongwesternhan/"
     },
+    "JiangGanLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/jiangganlatehan/"
+    },
     "JiangGongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -63102,9 +63141,9 @@
       "url": "/wiki/concepts/jianghuvirtualkinship/"
     },
     "JianglingLateHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？ [lsgj6sewO35jPSGFm_kOIvIJtr6r].md",
@@ -63126,9 +63165,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1095丨刘备输尽一切后，凭什么坚信能翻身？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1095-liubei-shujin-yiqie-hou-ping-shenme-jianxin-neng-fanshen-lmflbj9kshnmgsztdghnqj2foav3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/jianglinglatehan/"
     },
     "JiangxiaCommanderyLateHan": {
@@ -66999,6 +67045,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/ladyliwesternhan/"
     },
+    "LadySunLiuBei": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/ladysunliubei/"
+    },
     "LadyWuSunJian": {
       "episode_count": 4,
       "show_count": 1,
@@ -70823,9 +70885,9 @@
       "url": "/wiki/concepts/lithiumbipolartreatment/"
     },
     "LiuBei": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》907丨所有的病都是你的心病 [ltQzyOHCauDUWuaNlvqPH9L81d79].md",
@@ -70959,9 +71021,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/liubei/"
     },
     "LiuBiao": {
@@ -92571,6 +92640,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/concepts/politicalmarriagealliancedepreciation/"
     },
+    "PoliticalMarriageAllianceHedging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/politicalmarriagealliancehedging/"
+    },
     "PoliticalResourceCurse": {
       "episode_count": 3,
       "show_count": 1,
@@ -111515,9 +111600,9 @@
       "url": "/wiki/concepts/strategicangerdeterrence/"
     },
     "StrategicBaseTransferAllianceConsolidation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1118丨赤壁战败后，曹操最怕发生什么事？ [lqbhHQtFHGhodOjNxKSA3OZT9YqZ].md",
@@ -111532,6 +111617,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
         }
       ],
       "updated": "2026-09-21",
@@ -113314,9 +113406,9 @@
       "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！ [lgur-3FmpR55wy3AjI--0Rm38Y7X].md",
@@ -113422,6 +113514,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
         }
       ],
       "updated": "2026-09-21",
@@ -138946,9 +139045,9 @@
       "url": "/wiki/entities/zhouyouwang/"
     },
     "ZhouYuLateHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》905丨富贵如何险中求？ [lklXX5nqUka2MTblLXIvk0a7B-fu].md",
@@ -139040,6 +139139,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？ [lqVPWr7TKVZLG2o3-m46srK98CNm].md",
+          "key": "zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm/"
         }
       ],
       "updated": "2026-09-21",

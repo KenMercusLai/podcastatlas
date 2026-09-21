@@ -20944,3 +20944,11 @@ Added source `zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？
+
+Added source `zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm`; created `LadySunLiuBei`, `JiangGanLateHan`, `GonganLateHan`, and `PoliticalMarriageAllianceHedging`; and updated `LiuBei`, `SunQuan`, `ZhouYuLateHan`, `CaoRen`, `JianglingLateHan`, `StrategicBaseTransferAllianceConsolidation`, and index. Core synthesis: Liu Bei's Gongan foothold and marriage to Lady Sun strengthen the anti-Cao coalition without eliminating dependence or the Jingzhou interest conflict, while Jiang Gan's failed approach to Zhou Yu shows how material capacity and long-developed ruler-minister trust can resist short-term inducement. No settled contradiction found; territorial chronology, Lady Sun's biography and agency, household details, direct causation for later Jingzhou conflict, and the Jiang Gan mission remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

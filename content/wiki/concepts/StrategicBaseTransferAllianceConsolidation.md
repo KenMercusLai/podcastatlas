@@ -6,6 +6,7 @@ tags: [strategy, alliance, territory, late-han, three-kingdoms]
 sources:
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
   - zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3
+  - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
 last_updated: 2026-09-21
 ---
 
@@ -18,6 +19,8 @@ Strategic base transfer alliance consolidation / 战略基地转移式联盟巩�
 [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] applies the pattern to [[SunQuan|孙权]], [[LuSu|鲁肃]], and [[LiuBei|刘备]] after [[RedCliffsBattle|赤壁之战]]. The episode's central distinction is between winning one battle and changing the structure of later competition. Red Cliffs checks [[CaoCao|曹操]] militarily; allowing Liu Bei to hold a larger [[Jingzhou|荆州]] base gives the Liu side territory, revenue, recruitment, and depth that portable reputation and followers alone could not provide.
 
 [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] supplies the rejected alternative and makes the risk tradeoff explicit. Zhou Yu and Lu Fan reportedly propose detaining Liu Bei and separating him from Guan Yu and Zhang Fei before his organization becomes uncontrollable. Sun Quan instead preserves the relationship because Cao Cao remains the more immediate threat and coercion could turn the Liu command network against Jiangdong.
+
+[[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] supplies the smaller precursor. Liu Bei first receives a limited south-bank foothold at [[GonganLateHan|公安]], while marriage to [[LadySunLiuBei|孙夫人]] adds kinship to a coalition still marked by mistrust. The larger base transfer should therefore be read as an escalation from limited territorial access and marriage-backed hedging, not as a single all-at-once grant.
 
 The transfer is therefore not presented as charity or failure to perceive danger. It is a threat-ordering choice: strengthen an anti-Cao partner and make divide-and-defeat strategy harder now, while accepting a more autonomous ally with later territorial interests. Alliance consolidation and future distribution conflict arise from the same decision.
 
@@ -36,16 +39,18 @@ The transfer is therefore not presented as charity or failure to perceive danger
 - Enemy response: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] treats Cao Cao's reported shock as recognition that Sun Quan and Liu Bei are becoming harder to isolate and defeat separately.
 - Alliance tradeoff: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] credits Lu Su's anti-Cao logic while also locating the decision inside a contested postwar territorial settlement.
 - Rejected containment: [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] contrasts Zhou Yu and Lu Fan's detention proposal with Sun Quan's decision to retain Liu Bei because Cao Cao is still the more urgent threat.
+- Limited precursor: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] places Liu Bei at Gongan and inside a political marriage before the later broader Jingzhou settlement.
 
 ## Counterevidence & Qualifications
 
-The sources use the conventional shorthand “借荆州,” but the territorial sequence, jurisdiction, and later ownership claims were more complicated than a simple bilateral loan. The tactical-versus-strategic contrast is analytically useful, not proof that Cao Cao feared only this development or that it alone produced the tripartite order. Hanji 1117's detention proposal, predicted Liu-side response, and Sun Quan motive remain episode-presented. A strengthened partner can later become a competitor, so the mechanism is compatible with [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] rather than evidence of permanent trust.
+The sources use the conventional shorthand “借荆州,” but the territorial sequence, jurisdiction, and later ownership claims were more complicated than a simple bilateral loan. Hanji 1113's county distribution, office sequence, Gongan naming, and marriage terms require textual verification and do not establish a direct causal chain to Guan Yu's death. The tactical-versus-strategic contrast is analytically useful, not proof that Cao Cao feared only this development or that it alone produced the tripartite order. Hanji 1117's detention proposal, predicted Liu-side response, and Sun Quan motive remain episode-presented. A strengthened partner can later become a competitor, so the mechanism is compatible with [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] rather than evidence of permanent trust.
 
 ## What Changed
 
 - Added the detention-and-separation proposal as the containment counterfactual against which partner empowerment was chosen.
 - Reframed the transfer as conscious threat ordering under continuing Cao pressure rather than blindness to Liu Bei's danger.
 - Made immediate coalition resilience and later territorial conflict simultaneous consequences rather than opposites.
+- Added limited Gongan access and political marriage as the precursor stage before broader partner empowerment.
 
 ## Related Concepts
 
@@ -56,3 +61,4 @@ The sources use the conventional shorthand “借荆州,” but the territorial 
 - [[TripartiteBalanceStrategy|三分格局战略]] - wider balance the episode says the strengthened Liu base helps make possible.
 - [[RedCliffsBattle|赤壁之战]] - battlefield precondition whose strategic meaning is altered by the postwar settlement.
 - [[ZhouYuLateHan|周瑜]] - strategist whose rejected containment proposal clarifies the alternative to partner empowerment.
+- [[PoliticalMarriageAllianceHedging|政治联姻式同盟对冲]] - kinship-based precursor that reinforces cooperation without supplying the same territorial capacity.

@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr
   - zizhi-tongjian-hanji-1104-caocao-banbu-qiuxianling-xiyin-le-duoshao-dingji-rencai-lvrsdp13uv-80kzmwawnqwonkyny
   - zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ Hanji 1104 backfills the basis of that trust by presenting Cao Ren as joining Ca
 Hanji 1073 adds a different command contribution at [[HuguanLateHan|壶关]]. When Cao Cao's promise to kill everyone after taking the city produces desperate resistance, Cao Ren argues that a besieger must preserve a route to survival. Cao Cao withdraws the order and Huguan surrenders, making Cao Ren's role one of incentive diagnosis and corrective remonstrance rather than direct assault.
 
 Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao Cao leaves Cao Ren at [[JianglingLateHan|江陵]] with [[XuHuangCaoGeneral|徐晃]] supporting the wider line from 樊城; Hanji 1108 then emphasizes how Jiangling's loss would damage Cao-side military reach, political influence, economic access, and counterattack options. [[GanNing|甘宁]]'s seizure of [[YilingLateHan|夷陵]] turns that responsibility into a flank crisis.
+
+Hanji 1113 supplies the outcome of that defensive assignment. Cao Ren eventually withdraws after prolonged isolation and heavy losses, but the episode credits the stand with tying down Zhou Yu's main force and buying Cao Cao time to reorganize. This preserves a distinction between losing the position and failing in the delaying mission.
 
 ## Key Characteristics
 - Trusted clan commander used to secure core military power.
@@ -41,15 +44,17 @@ Hanji 1107-1108 move him into post-[[RedCliffsBattle|赤壁之战]] defense. Cao
 - Huguan remonstrance: [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] says Cao Ren explains that promised extermination removes the reason to surrender; Cao Cao retracts the order and the city capitulates.
 - Corridor command and flank pressure: [[zizhi-tongjian-hanji-1108-ganning-qixi-yiling-zhanshu-jing-he-yalishanda-zhuangche-lia4azq39ja4pt6yfpjggjl-g3vc|Hanji 1108]] places Cao Ren and Xu Huang at Jiangling and connects Gan Ning's Yiling seizure to their defensive problem.
 - Immediate defensive assignment: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] has Cao Cao leave Cao Ren at Jiangling after retreating from Red Cliffs.
+- Withdrawal after delay: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] says Cao Ren withdraws after holding long enough to delay Zhou Yu and buy reorganization time.
 
 ## Qualifications
-This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, Hanji 1073 compresses the Huguan debate and capitulation, and Hanji 1107-1108 emphasize Jiangling's strategic burden more than Cao Ren's detailed actions. The reported size and composition of Cao Ren's first following, exact Huguan dialogue, and surrender timing require narrower verification, while the Jiangling counterattack continues in compressed form into Hanji 1109.
+This is not a full biography. Hanji 1104 and Hanji 974 are retrospective, Hanji 1047 gives one offensive operation, Hanji 1073 compresses the Huguan debate and capitulation, and Hanji 1107-1113 emphasize Jiangling's strategic burden more than Cao Ren's detailed actions. The reported size and composition of Cao Ren's first following, exact Huguan dialogue, surrender timing, Jiangling casualties, duration, and delay effect require narrower verification.
 
 ## What Changed
 - Added Cao Ren's reported organized following at the start of Cao Cao's mobilization.
 - Connected early kin-based force formation to later clan-command trust.
 - Kept the follower count and compressed chronology source-scoped.
 - Added Huguan advice as evidence of surrender-incentive judgment.
+- Closed the Jiangling defense with withdrawal while retaining its source-scoped delaying value.
 
 ## Relationships
 - [[CaoCao|曹操]] - ruler relying on Cao Ren as clan military capacity.

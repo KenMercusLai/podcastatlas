@@ -17,6 +17,7 @@ sources:
   - zizhi-tongjian-hanji-1102-lusu-yijuhua-chuoxing-sunquan-toujiang-caocao-de-houguo-you-duo-kepa-lh0fwhkq9g9imfm1esblolh5gzjz
   - zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz
   - zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3
+  - zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm
 last_updated: 2026-09-21
 ---
 
@@ -33,6 +34,8 @@ Hanji 1058 adds a diplomatic-strategic layer after the initial transition. Cao C
 Hanji 1102 supplies the missing pre-battle command layer. Recalled after Lu Su's intervention, Zhou Yu contests Cao Cao's claim to lawful authority, separates nominal force from usable force, and identifies western pressure, winter fodder, river-war inexperience, climate, disease, fatigue, and newly absorbed troop cohesion as exploitable limits. Sun Quan then sends Zhou Yu and [[ChengPuLateHan|程普]] forward with an initial force while retaining responsibility for reinforcement.
 
 Hanji 1107-1108 extend the profile through the [[RedCliffsBattle|赤壁之战]] and into the post-battle campaign. Hanji 1107 credits [[HuangGai|黄盖]]'s feigned-surrender fire attack and Zhou Yu's follow-on assault with forcing Cao Cao's retreat, then records Cao Cao's attempt to minimize Zhou Yu's fame in a message to Sun Quan. Hanji 1108 places Zhou Yu and Cheng Pu opposite [[CaoRen|曹仁]] and [[XuHuangCaoGeneral|徐晃]] around Jiangling, where Zhou Yu accepts [[GanNing|甘宁]]'s proposal to seize [[YilingLateHan|夷陵]] with a selected force.
+
+Hanji 1113 closes the Jiangling campaign and adds a loyalty-demonstration episode. Cao Ren withdraws after prolonged defense, Zhou Yu receives Nanjun responsibility, and [[JiangGanLateHan|蒋干]] arrives through a fellow-commandery channel on Cao Cao's behalf. Zhou Yu answers persuasion by displaying camp readiness, material treatment, and his bone-deep trust with Sun Quan; Jiang Gan returns reporting that neither rhetoric nor money can move him.
 
 Hanji 1117-1118 close the current career arc while also clarifying the strategic fork around Liu Bei. Hanji 1117 has Zhou Yu argue that Liu Bei will not remain subordinate while [[GuanYu|关羽]] and [[ZhangFei|张飞]] remain under his command, so he proposes detaining Liu Bei in Wu Commandery and separating the three leaders. Sun Quan rejects containment because Cao Cao remains the more immediate threat. Zhou Yu then proposes moving west through Yizhou and Zhang Lu's Hanzhong, connecting with Ma Chao, and returning toward Xiangyang against Cao Cao. Illness stops the program, and Zhou Yu recommends Lu Su before dying. Hanji 1118 supplies the aftermath: Lu Su inherits the forces and pursues a more alliance-centered arrangement with Liu Bei. These are competing strategic responses to the same alliance-risk problem, not proof of a simple personal split.
 
@@ -59,15 +62,17 @@ Hanji 1117-1118 close the current career arc while also clarifying the strategic
 - Fire-attack credit and reputational contest: [[zizhi-tongjian-hanji-1107-caocao-xiexin-mohei-zhouyu-zhezhao-lijianji-you-duohen-lq_9istnfzy56zjejuur2g9yefhr|Hanji 1107]] credits Huang Gai's approach and Zhou Yu's follow-on attack, then records Cao Cao's attempt to attribute retreat to disease and self-burning while calling Zhou Yu's fame undeserved.
 - Death and succession: [[zizhi-tongjian-hanji-1118-chibi-zhanbai-hou-caocao-zui-pa-fasheng-shenme-shi-lqbhhqtfhghodojnxksa3ozt9yqz|Hanji 1118]] places Zhou Yu's death in 210 CE after the Jiangling campaign, says his Yizhou plan is suspended, and records Lu Su's succession to his forces.
 - Containment, western strategy, and recommendation: [[zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3|Hanji 1117]] attributes to Zhou Yu a plan to detain Liu Bei and split his command group, a Yizhou-Hanzhong-Ma Chao-Xiangyang campaign sequence, and a deathbed recommendation of Lu Su.
+- Jiangling outcome and persuasion resistance: [[zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm|Hanji 1113]] links Cao Ren's withdrawal to Zhou Yu's Nanjun role and presents the Jiang Gan visit as a failed attempt to move him away from Sun Quan.
 
 ## Qualifications
-This page remains bounded to the listed sources and is not a complete Zhou Yu biography or military history. Hanji 1102's force estimates, exact dialogue, and confident victory prediction are source-scoped; its environmental and medical factors later recur in the multi-causal Red Cliffs account but do not independently verify every number. Hanji 1107's fire, wind, casualty, and credit details come from one popular-history account; disease and deliberate destruction during retreat can coexist with enemy action. Hanji 1117-1118's detention proposal, predicted responses, route sequence, Zhang Lu and Ma Chao coordination, wound trajectory, death location, and policy contrast with Lu Su require broader textual comparison. The hostage refusal remains collective, and the Yiling success depends on Gan Ning's local knowledge and execution rather than Zhou Yu alone. The Cheng Pu, musical, family, and counterfactual-life material remains biographical or literary framing rather than evidence for the strategic claims.
+This page remains bounded to the listed sources and is not a complete Zhou Yu biography or military history. Hanji 1102's force estimates, exact dialogue, and confident victory prediction are source-scoped; its environmental and medical factors later recur in the multi-causal Red Cliffs account but do not independently verify every number. Hanji 1107's fire, wind, casualty, and credit details come from one popular-history account; disease and deliberate destruction during retreat can coexist with enemy action. Hanji 1113's wound sequence, Jiangling withdrawal timing, Nanjun appointment, Jiang Gan mandate, camp tour, banquet, and dialogue require comparison with underlying texts. Hanji 1117-1118's detention proposal, predicted responses, route sequence, Zhang Lu and Ma Chao coordination, wound trajectory, death location, and policy contrast with Lu Su require broader textual comparison. The hostage refusal remains collective, and the Yiling success depends on Gan Ning's local knowledge and execution rather than Zhou Yu alone. The Cheng Pu, musical, family, and counterfactual-life material remains biographical or literary framing rather than evidence for the strategic claims.
 
 ## What Changed
 - Added Zhou Yu's proposed detention and organizational separation of Liu Bei, Guan Yu, and Zhang Fei as a deliberate answer to ally-autonomy risk.
 - Expanded the unfinished westward plan into a Yizhou-Hanzhong-Ma Chao-Xiangyang sequence rather than a generic move toward Yizhou.
 - Grounded Lu Su's succession in Zhou Yu's deathbed recommendation before Sun Quan's later appointment.
 - Reframed Zhou Yu and Lu Su as competing strategic responses to the same alliance problem rather than a settled personal binary.
+- Added the Jiang Gan visit as evidence for loyalty grounded in material capacity and long-developed ruler-minister trust.
 
 ## Relationships
 - [[SunCe|孙策]] - ally whose Jiangdong rise Zhou Yu materially supports and later campaigns beside.
@@ -93,3 +98,4 @@ This page remains bounded to the listed sources and is not a complete Zhou Yu bi
 - [[LuSu|鲁肃]] - successor who inherits Zhou Yu's forces and advances a more alliance-centered Liu Bei policy in Hanji 1118.
 - [[LiuBei|刘备]] - allied but increasingly autonomous actor whom Zhou Yu proposes detaining and organizationally separating from his principal commanders.
 - [[StrategicBaseTransferAllianceConsolidation|战略基地转移式联盟巩固]] - partner-empowerment path that Sun Quan ultimately chooses over Zhou Yu's containment proposal.
+- [[JiangGanLateHan|蒋干]] - Cao-side visitor whose failed persuasion makes Zhou Yu's embedded loyalty visible.

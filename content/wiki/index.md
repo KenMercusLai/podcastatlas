@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？](sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm.md) — 赤壁战后刘备以公安为有限立足点，孙权以妹妹联姻维持必要但互疑的联盟；蒋干游说周瑜失败则显示长期信任与组织嵌入对短期利诱的抵抗。
 - [《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？](sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm.md) — 和洽以“中而已矣”批评表演性节俭，曹操求贤令则以岗位匹配和实际能力限定单一道德声誉标准。
 - [《资治通鉴·汉纪》1115丨曹操建铜雀台，真就为了锁二乔？](sources/zizhi-tongjian-hanji-1115-caocao-jian-tongquetai-zhen-jiu-weile-suo-erqiao-lhqombf5uxbwvg_pz8atvk9l-izs.md) — 铜雀台既是曹操北方功业的政治纪念物，也是辨析“锁二乔”文学虚构的时间标尺；《自明本志令》则把部分让利与拒交兵权并置为公开自辩。
 - [《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？](sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6.md) — 蔡文姬在汉末战乱中被掳、在匈奴生活十二年并育有二子，曹操赎归使她重获故土却承受母子分离，归汉后又以求情与记忆延续家庭责任和蔡邕的文本遗产。
@@ -2631,6 +2632,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
 
 ## Entities
+- [孙夫人 / Lady Sun (wife of Liu Bei)](entities/LadySunLiuBei.md) — Sun Quan's historically unnamed sister whose marriage to Liu Bei reinforces a necessary but mistrustful post-Red-Cliffs alliance.
+- [蒋干 / Jiang Gan (late Han)](entities/JiangGanLateHan.md) — Cao-side visitor whose failed approach to Zhou Yu verifies the limits of transactional persuasion.
+- [公安 / Gongan (late Han)](entities/GonganLateHan.md) — Liu Bei's limited post-Red-Cliffs riverside headquarters before the broader Jingzhou settlement.
 - [和洽 / He Qia (late Han)](entities/HeQiaLateHan.md) — 警告曹操节俭标准走向极端会奖励虚伪表演，并主张按差异化才能与岗位需要判断官员的汉末官员。
 - [铜雀台 / Tongque Platform](entities/TongquePlatform.md) — 曹操在邺城营建、用于投射北方功业与权威，并在后世获得“锁二乔”文学记忆的政治纪念物。
 - [《自明本志令》 / Self-Clarification Edict](entities/SelfClarificationEdict.md) — 曹操以生平功业回应篡位疑虑、愿退部分封地却拒绝交出兵权的政治自述。
@@ -13040,6 +13044,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Political Marriage Alliance Hedging / 政治联姻式同盟对冲](concepts/PoliticalMarriageAllianceHedging.md) — Marriage tie used to stabilize cooperation with a necessary but mistrusted ally without resolving conflicting territorial interests.
 - [自辩式保权 / Power-Retention Self-Justification](concepts/PowerRetentionSelfJustification.md) — 承认权力集中引发的疑虑，以有限让利回应批评，同时把核心强制力解释为个人、家族与公共秩序的共同安全条件。
 - [俘获、赎归与家庭分离 / Captivity, Repatriation, and Family Separation](concepts/CaptivityRepatriationFamilySeparation.md) — 战乱中的赎归恢复自由与故土联系，却可能以新家庭关系断裂为不可逆代价。
 - [中国足球亚洲赛事优先级 / Chinese Football Asian Competition Priority](concepts/ChineseFootballAsianCompetitionPriority.md) — Strategy of building long-run football capacity through current Asian competitions without making professional-league continuity expendable.
