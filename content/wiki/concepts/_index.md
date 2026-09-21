@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7699
+wiki_total_pages: 7704
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "AddedFreeSugarDistinction"
     title: "Added and Free Sugar Distinction / 添加糖与游离糖区分"
     url: "/wiki/concepts/addedfreesugardistinction/"
+  - key: "AddictionAsAttemptedRelief"
+    title: "Addiction as Attempted Relief"
+    url: "/wiki/concepts/addictionasattemptedrelief/"
   - key: "AddictiveInteractionDesign"
     title: "Addictive Interaction Design"
     url: "/wiki/concepts/addictiveinteractiondesign/"

@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-21
-as_of_overview_commit: 26d6103a17457f14ef06cc89c51f3095d912e93a
-input_digest: 722592a786bbe7cf203742edfe771197027c400a817937df19390dd78991cc00
+as_of_overview_commit: 1967c0c3defef1d1380b9d48cb17105d4721517c
+input_digest: c42e8736b0180223fa78d0d18cb22fd7e4dd2b692334840b1d091dadda8f0817
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch preserves uncertainty while arguing for independent root-cause inquiry and conflict safeguards. Nutrition findings remain comparator-, replacement-, adherence-, food-form-, and endpoint-dependent: sustainable weight management preserves a balanced meal structure and reads diet-product claims through dose, substitution, and whole-diet context rather than deprivation or labels alone. The sensory branches span smell, taste, breathing, retinal light signaling, brain-based visual inference, circadian timing, and varied eye use while keeping performance effects, supplements, exercises, disease claims, and treatment decisions source-scoped or clinically bounded.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Addiction recovery is staged from medical safety and stabilization toward distress tolerance, anticipatory emotional inventory, safer coping practices, community, purpose, and connection, with acute withdrawal and emerging treatment claims kept inside clinical boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Supplement evidence separates manufacturing oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests; nutrition findings remain comparator-, replacement-, adherence-, food-form-, and endpoint-dependent; and sensory findings keep performance, supplement, exercise, disease, and treatment claims source-scoped or clinically bounded.
 
 ## Cross-source Findings
+
+### Addiction Recovery Needs Stabilization Distress Tolerance And Connection
+
+[[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523|The Ryan Soave Huberman Lab episode]] adds a staged addiction-recovery branch: [[AddictionAsAttemptedRelief]] treats compulsive substance or behavioral use as fast relief that can become a new source of stress and harm, while [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], and [[RecoveryCommunityConnection]] move recovery from stabilization toward tolerating discomfort, anticipating emotional hazards, practicing safer coping, and building purpose and connection beyond abstinence.
+
+**Evidence:** [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]], [[HubermanLab]], [[RyanSoave]], [[AddictionAsAttemptedRelief]], [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], [[RecoveryCommunityConnection]], [[DigitalSexualSubstituteRisk]]
+
+**Qualifications:**
+
+- The episode is public addiction and trauma-recovery education, not individualized diagnosis, detoxification, psychiatric care, or treatment planning.
+- Dangerous withdrawal, severe impairment, and acute psychiatric risk require professional assessment; self-guided tools and peer support do not replace indicated medical care.
+- Nervous-system mechanisms, GLP-1s, psychedelics, gambling trends, pornography effects, and the comparative effectiveness of specific tools remain medically bounded or source-scoped.
 
 ### Catastrophic Prevention Needs Independent Root Cause Inquiry
 

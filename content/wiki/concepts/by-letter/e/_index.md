@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7699
+wiki_total_pages: 7704
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "EmotionalValueCommodification"
     title: "Emotional Value Commodification / 情绪价值商品化"
     url: "/wiki/concepts/emotionalvaluecommodification/"
+  - key: "EmotionalWeatherForecast"
+    title: "Emotional Weather Forecast"
+    url: "/wiki/concepts/emotionalweatherforecast/"
   - key: "EmotionsAsFunctionalControlStates"
     title: "Emotions as Functional Control States"
     url: "/wiki/concepts/emotionsasfunctionalcontrolstates/"

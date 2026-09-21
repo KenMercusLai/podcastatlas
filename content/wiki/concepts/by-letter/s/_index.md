@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7699
+wiki_total_pages: 7704
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "SelfDirectedLearning"
     title: "Self-Directed Learning"
     url: "/wiki/concepts/selfdirectedlearning/"
+  - key: "SelfDirectedStateShifting"
+    title: "Self-Directed State Shifting"
+    url: "/wiki/concepts/selfdirectedstateshifting/"
   - key: "SelfDirectedWork"
     title: "Self-Directed Work"
     url: "/wiki/concepts/selfdirectedwork/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave](sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523.md) — Huberman Lab interview on addiction as attempted relief, stabilization, distress tolerance, emotional forecasting, peer support, state shifting, and building a meaningful life in recovery.
 - [VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」](sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on balanced weight management, carbohydrate and fat extremes, food form, portion estimation, labels, energy deficits, and health-product marketing.
 - [559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)](sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077.md) — The Rest Is History episode on Redlands, Brian Jones, Hyde Park, album rock, Altamont, and the Stones as symbols of late-1960s cultural conflict.
 - [Essentials: Protocols to Improve Vision & Eyesight](sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754.md) — Huberman Lab Essentials episode on retinal light signaling, brain-based visual inference, circadian regulation, varied eye use, myopia-related habits, and bounded nutrition and eye-care tools.
@@ -2610,6 +2611,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
 ## Entities
+- [Ryan Soave](entities/RyanSoave.md) — Addiction-treatment and trauma-recovery specialist presenting staged stabilization, distress tolerance, community support, and positive life-building.
 - [The Rolling Stones](entities/TheRollingStones.md) — British band whose legal, personnel, musical, and symbolic transformation defined a durable rock template.
 - [Mick Jagger](entities/MickJagger.md) — Rolling Stones singer and public face central to Redlands, band leadership, and Hyde Park.
 - [Keith Richards](entities/KeithRichards.md) — Rolling Stones guitarist whose Redlands home became a stage for drug, class, and celebrity anxiety.
@@ -12992,6 +12994,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Addiction as Attempted Relief](concepts/AddictionAsAttemptedRelief.md) — Functional model in which rapid relief from pain or dysregulation can become a self-reinforcing source of harm.
+- [Recovery Distress Tolerance](concepts/RecoveryDistressTolerance.md) — Learned capacity to experience discomfort without automatically returning to an addictive strategy.
+- [Emotional Weather Forecast](concepts/EmotionalWeatherForecast.md) — Daily inventory of gratitude, plans, feelings, anticipated hazards, and chosen strivings shared with trusted people.
+- [Recovery Community Connection](concepts/RecoveryCommunityConnection.md) — Peer, family, therapeutic, and mutual-help infrastructure for accountability, belonging, and life after addiction.
+- [Self-Directed State Shifting](concepts/SelfDirectedStateShifting.md) — Proactive and reactive practices for changing state without relying on the addictive object.
 - [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target makes limited conduct symbolize a broad social threat.
 - [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
 - [Visual System Health Toolkit](concepts/VisualSystemHealthToolkit.md) — Framework joining outdoor light, varied viewing distance, smooth pursuit, accommodation, binocular balance, systemic health, and qualified eye care.

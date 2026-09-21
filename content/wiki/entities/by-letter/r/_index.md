@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10373
+wiki_total_pages: 10374
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "RyanSeiders"
     title: "Ryan Seiders"
     url: "/wiki/entities/ryanseiders/"
+  - key: "RyanSoave"
+    title: "Ryan Soave"
+    url: "/wiki/entities/ryansoave/"
   - key: "RyanSocialRobot"
     title: "Ryan Social Robot"
     url: "/wiki/entities/ryansocialrobot/"

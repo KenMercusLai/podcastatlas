@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "03d60e46d06dd9f5392768ac179a3625cea6a5f191f719b44bbf95804b3d3cbb",
       "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
       "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
       "d8c1f73d3d2568b7e5b6f0a1f67173154bbd7865846256ff10f0d08947db4473",
@@ -682,11 +683,30 @@
       "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
       "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c"
     ],
-    "paragraph_count": 680
+    "paragraph_count": 681
   },
-  "overview_commit": "26d6103a17457f14ef06cc89c51f3095d912e93a",
-  "overview_digest": "3b7697932f58d3e410d5529569bc9361693be2a1f983818951ccf572decb8a94",
+  "overview_commit": "1967c0c3defef1d1380b9d48cb17105d4721517c",
+  "overview_digest": "57ad60b3f6f640472055852f54cdc9649ee40d8dbfedb2448bca722660605c26",
   "paragraphs": [
+    {
+      "id": "03d60e46d06dd9f5392768ac179a3625cea6a5f191f719b44bbf95804b3d3cbb",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest addiction-and-recovery source, [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523|Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave]], extends [[HubermanLab]] through [[RyanSoave]], [[AddictionAsAttemptedRelief]], [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], and [[RecoveryCommunityConnection]], while qualifying [[DigitalSexualSubstituteRisk]]. Its core synthesis is that addictive substances or behaviors may first function as fast relief from pain, stress, loneliness, shame, trauma, or dysregulation and then produce new stress and harm; recovery therefore moves from medical safety and stabilization toward tolerating discomfort, anticipating emotional hazards, rehearsing safer coping practices, relying on community, and building purpose and connection beyond abstinence. No settled contradiction is recorded. The raw body's “Ryan Suave” is normalized to Ryan Soave from its metadata and official title, while diagnostic boundaries, dangerous withdrawal, nervous-system mechanisms, GLP-1s, psychedelics, gambling trends, pornography effects, and tool effectiveness remain medically bounded or source-scoped.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AddictionAsAttemptedRelief",
+        "DigitalSexualSubstituteRisk",
+        "EmotionalWeatherForecast",
+        "HubermanLab",
+        "RecoveryCommunityConnection",
+        "RecoveryDistressTolerance",
+        "RyanSoave",
+        "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523"
+      ]
+    },
     {
       "id": "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
       "primary_topic": "governance-and-institutions",

@@ -3651,6 +3651,10 @@
     "title": "Added and Free Sugar Distinction / 添加糖与游离糖区分",
     "url": "/wiki/concepts/addedfreesugardistinction/"
   },
+  "AddictionAsAttemptedRelief": {
+    "title": "Addiction as Attempted Relief",
+    "url": "/wiki/concepts/addictionasattemptedrelief/"
+  },
   "AddictiveInteractionDesign": {
     "title": "Addictive Interaction Design",
     "url": "/wiki/concepts/addictiveinteractiondesign/"
@@ -20350,6 +20354,10 @@
   "EmotionalValueCommodification": {
     "title": "Emotional Value Commodification / 情绪价值商品化",
     "url": "/wiki/concepts/emotionalvaluecommodification/"
+  },
+  "EmotionalWeatherForecast": {
+    "title": "Emotional Weather Forecast",
+    "url": "/wiki/concepts/emotionalweatherforecast/"
   },
   "EmotionsAsFunctionalControlStates": {
     "title": "Emotions as Functional Control States",
@@ -52651,6 +52659,14 @@
     "title": "Recorded Meeting Analysis",
     "url": "/wiki/concepts/recordedmeetinganalysis/"
   },
+  "RecoveryCommunityConnection": {
+    "title": "Recovery Community Connection",
+    "url": "/wiki/concepts/recoverycommunityconnection/"
+  },
+  "RecoveryDistressTolerance": {
+    "title": "Recovery Distress Tolerance",
+    "url": "/wiki/concepts/recoverydistresstolerance/"
+  },
   "RecoveryRangePayloadTradeoff": {
     "title": "Recovery Range Payload Tradeoff",
     "url": "/wiki/concepts/recoveryrangepayloadtradeoff/"
@@ -54791,6 +54807,10 @@
     "title": "Ryan Seiders",
     "url": "/wiki/entities/ryanseiders/"
   },
+  "RyanSoave": {
+    "title": "Ryan Soave",
+    "url": "/wiki/entities/ryansoave/"
+  },
   "RyanSocialRobot": {
     "title": "Ryan Social Robot",
     "url": "/wiki/entities/ryansocialrobot/"
@@ -56050,6 +56070,10 @@
   "SelfDirectedLearning": {
     "title": "Self-Directed Learning",
     "url": "/wiki/concepts/selfdirectedlearning/"
+  },
+  "SelfDirectedStateShifting": {
+    "title": "Self-Directed State Shifting",
+    "url": "/wiki/concepts/selfdirectedstateshifting/"
   },
   "SelfDirectedWork": {
     "title": "Self-Directed Work",
@@ -77378,6 +77402,10 @@
   "toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97": {
     "title": "Toast: Aman Narang. How a Long Wait for the Dinner Check Launched a $2 Billion Business.",
     "url": "/wiki/sources/toast-aman-narang-how-a-long-wait-for-the-dinner-check-launched-a-2-billion-business-6eca81bc-b0e1-47e2-a87d-f3b243e76a97/"
+  },
+  "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523": {
+    "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+    "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
   },
   "tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958": {
     "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",

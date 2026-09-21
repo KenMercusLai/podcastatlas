@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7699
+wiki_total_pages: 7704
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -191,6 +191,12 @@ wiki_pages:
   - key: "RecordedMeetingAnalysis"
     title: "Recorded Meeting Analysis"
     url: "/wiki/concepts/recordedmeetinganalysis/"
+  - key: "RecoveryCommunityConnection"
+    title: "Recovery Community Connection"
+    url: "/wiki/concepts/recoverycommunityconnection/"
+  - key: "RecoveryDistressTolerance"
+    title: "Recovery Distress Tolerance"
+    url: "/wiki/concepts/recoverydistresstolerance/"
   - key: "RecoveryRangePayloadTradeoff"
     title: "Recovery Range Payload Tradeoff"
     url: "/wiki/concepts/recoveryrangepayloadtradeoff/"

@@ -4409,6 +4409,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
+    "AddictionAsAttemptedRelief": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/addictionasattemptedrelief/"
+    },
     "Adidas": {
       "episode_count": 6,
       "show_count": 4,
@@ -29589,9 +29605,9 @@
       "url": "/wiki/concepts/digitalpublicsphereepistemicauthority/"
     },
     "DigitalSexualSubstituteRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7501986841 [SCIM7501986841].md",
@@ -29599,9 +29615,16 @@
           "show": "Huberman Lab",
           "title": "Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway",
           "url": "/wiki/sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841/"
+        },
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/digitalsexualsubstituterisk/"
     },
     "DigitalSovereignty": {
@@ -34472,6 +34495,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/emotionalstabilityassocialnorm/"
+    },
+    "EmotionalWeatherForecast": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/emotionalweatherforecast/"
     },
     "EmotionsAsFunctionalControlStates": {
       "episode_count": 3,
@@ -97330,6 +97369,38 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/reconstructivememory/"
     },
+    "RecoveryCommunityConnection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/recoverycommunityconnection/"
+    },
+    "RecoveryDistressTolerance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/recoverydistresstolerance/"
+    },
     "RecurrenceFreeSurvivalEndpoint": {
       "episode_count": 1,
       "show_count": 1,
@@ -101086,6 +101157,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/ryanabbott/"
     },
+    "RyanSoave": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/ryansoave/"
+    },
     "RyanSocialRobot": {
       "episode_count": 1,
       "show_count": 1,
@@ -103099,6 +103186,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/selfdeprecatingpoliticalsurvival/"
+    },
+    "SelfDirectedStateShifting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5476071523 [SCIM5476071523].md",
+          "key": "tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523",
+          "show": "Huberman Lab",
+          "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
+          "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/selfdirectedstateshifting/"
     },
     "SelfDoubtAsCreativeCheck": {
       "episode_count": 1,
