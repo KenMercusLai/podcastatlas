@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7689
+wiki_total_pages: 7693
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1301,6 +1301,12 @@ wiki_pages:
   - key: "CompanionRobots"
     title: "Companion Robots"
     url: "/wiki/concepts/companionrobots/"
+  - key: "CompanionAnimalAttachment"
+    title: "Companion-Animal Attachment"
+    url: "/wiki/concepts/companionanimalattachment/"
+  - key: "CompanionAnimalSterilizationDecision"
+    title: "Companion-Animal Sterilization Decision"
+    url: "/wiki/concepts/companionanimalsterilizationdecision/"
   - key: "CompanyGameDifficultyStrategy"
     title: "Company Game Difficulty Strategy"
     url: "/wiki/concepts/companygamedifficultystrategy/"

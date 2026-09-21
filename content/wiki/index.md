@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [What Pets Actually Want & Need | Dr. Karolina Westlund](sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314.md) — Huberman Lab interview on ethology-first care, species- and breed-matched enrichment, touch consent, companion attachment, cat environmental design, and qualified sterilization decisions.
 - [561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)](sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194.md) — The Rest Is History episode on Sei Shonagon, Murasaki Shikibu, Heian courtly performance, Fujiwara marriage politics, and literary impermanence.
 - [Essentials: How Smell, Taste & Pheromones Shape Behavior](sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826.md) — Huberman Lab Essentials episode on olfactory pathways, inhalation-linked arousal, smell training, gustatory nutrient and hazard detection, and the boundary between human chemical signaling and established pheromones.
 - [562. Peter the Great: The Rise of Russia (Part 1)](sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202.md) — The Rest Is History episode on the 1682 succession violence, Sophia's regency, Peter's practical and maritime formation, and his 1689 rise to effective power.
@@ -2604,6 +2605,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
 ## Entities
+- [Karolina Westlund](entities/KarolinaWestlund.md) — Animal ethologist translating species history, sensory ecology, emotion, and learning into practical welfare guidance.
 - [Sei Shonagon](entities/SeiShonagon.md) — Heian court writer whose wit, learning, and service to Teishi animate The Pillow Book.
 - [Murasaki Shikibu](entities/MurasakiShikibu.md) — Heian author of The Tale of Genji and literary figure at Empress Shoshi's court.
 - [The Pillow Book](entities/ThePillowBook.md) — Sei Shonagon's mixed collection of lists, observations, anecdotes, and court scenes.
@@ -12979,6 +12981,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Species-Appropriate Animal Care](concepts/SpeciesAppropriateAnimalCare.md) — Ethology-first design of housing, feeding, enrichment, touch, and social contact around species and individual needs.
+- [Animal Touch Consent](concepts/AnimalTouchConsent.md) — Brief-touch-and-pause method using voluntary re-initiation or disengagement to guide contact.
+- [Companion-Animal Attachment](concepts/CompanionAnimalAttachment.md) — Caregiver bond shaped by reliable response, stress recovery, developmental timing, separation, and reunion.
+- [Companion-Animal Sterilization Decision](concepts/CompanionAnimalSterilizationDecision.md) — Veterinary tradeoff among reproduction, hormones, health, behavior, procedure, timing, law, and individual context.
 - [Heian Courtly Performance](concepts/HeianCourtlyPerformance.md) — Poetry, calligraphy, scent, dress, and allusion as a system of status, attraction, and competence.
 - [Fujiwara Marriage Politics](concepts/FujiwaraMarriagePolitics.md) — Dynastic strategy connecting imperial marriage, childbirth, regency, household rivalry, and succession.
 - [Heian Literary Impermanence](concepts/HeianLiteraryImpermanence.md) — Literary synthesis of court beauty, remembered pleasure, Buddhist transience, and loss.

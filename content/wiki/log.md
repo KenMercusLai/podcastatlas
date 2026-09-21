@@ -20749,3 +20749,11 @@ Added source `561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-g
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | What Pets Actually Want & Need | Dr. Karolina Westlund
+
+Added source `what-pets-actually-want-need-dr-karolina-westlund-scim2878719314`; created `KarolinaWestlund`, `SpeciesAppropriateAnimalCare`, `AnimalTouchConsent`, `CompanionAnimalAttachment`, and `CompanionAnimalSterilizationDecision`; and updated `CompanionAnimalHealth`, `AnimalIntelligenceModes`, overview, and index. Core synthesis: companion care should start from species history, sensory ecology, motivated behavior, emotional state, and individual variation, pairing affection with choice, safe enrichment, environmental design, attachment security, and qualified veterinary judgment. The episode qualifies generalized dog-dominance interpretations. No settled contradiction found; cat chattering, early-weaning and socialization effects, nose-work findings, sterilization effects, and post-neutering hormone anecdotes remain tentative or source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

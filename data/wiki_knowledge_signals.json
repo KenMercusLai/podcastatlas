@@ -7476,9 +7476,9 @@
       "url": "/wiki/concepts/animalabuseviolencelink/"
     },
     "AnimalIntelligenceModes": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "39.哲学家与狼：在朗格多克永恒的夏天 [611233065].md",
@@ -7493,9 +7493,16 @@
           "show": "Huberman Lab",
           "title": "Raising a Dog & Mastering Calm Assertive Energy | Cesar Millan",
           "url": "/wiki/sources/raising-a-dog-mastering-calm-assertive-energy-cesar-millan-scim6380580289/"
+        },
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/animalintelligencemodes/"
     },
     "AnimalPainLegalRecognition": {
@@ -7529,6 +7536,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/animalprotectioncodedexpression/"
+    },
+    "AnimalTouchConsent": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/animaltouchconsent/"
     },
     "AnitaRamaswamy": {
       "episode_count": 7,
@@ -22770,10 +22793,26 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/communityledsaasgrowth/"
     },
+    "CompanionAnimalAttachment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/companionanimalattachment/"
+    },
     "CompanionAnimalHealth": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "EP236 唠五块钱心里话，付费的陪伴是真的吗？ [ltVuoEluOEu4-a3j3lAmHc3Buudx].md",
@@ -22823,10 +22862,33 @@
           "show": "这病说来话长",
           "title": "PET.1为什么猫和拧巴的打工人很像？家庭矛盾竟会让它崩溃到尿血",
           "url": "/wiki/sources/pet-1-weishenme-mao-he-ningba-de-dagongren-hen-xiang-jiating-maodun-jing-hui-rang-ta-bengkui-dao-niaoxue-lvukacv0zedg1md2pfab43fkojho/"
+        },
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
         }
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/companionanimalhealth/"
+    },
+    "CompanionAnimalSterilizationDecision": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/companionanimalsterilizationdecision/"
     },
     "CompanionRobots": {
       "episode_count": 6,
@@ -64160,6 +64222,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/karmaascauseandeffect/"
+    },
+    "KarolinaWestlund": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/karolinawestlund/"
     },
     "KateAHA": {
       "episode_count": 2,
@@ -108228,6 +108306,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/specialtyretaillogistics/"
+    },
+    "SpeciesAppropriateAnimalCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2878719314 [SCIM2878719314].md",
+          "key": "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314",
+          "show": "Huberman Lab",
+          "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+          "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/speciesappropriateanimalcare/"
     },
     "SpectacleMediatedSelfhood": {
       "episode_count": 1,

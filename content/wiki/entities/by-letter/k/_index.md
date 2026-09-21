@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10366
+wiki_total_pages: 10367
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "KarlPopper"
     title: "Karl Popper / 卡尔·波普尔"
     url: "/wiki/entities/karlpopper/"
+  - key: "KarolinaWestlund"
+    title: "Karolina Westlund"
+    url: "/wiki/entities/karolinawestlund/"
   - key: "Kaseya"
     title: "Kaseya"
     url: "/wiki/entities/kaseya/"

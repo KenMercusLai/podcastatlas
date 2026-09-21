@@ -5631,6 +5631,10 @@
     "title": "Animal Testing Substitution",
     "url": "/wiki/concepts/animaltestingsubstitution/"
   },
+  "AnimalTouchConsent": {
+    "title": "Animal Touch Consent",
+    "url": "/wiki/concepts/animaltouchconsent/"
+  },
   "AnimalWelfareAsPublicHealth": {
     "title": "Animal Welfare As Public Health",
     "url": "/wiki/concepts/animalwelfareaspublichealth/"
@@ -14251,9 +14255,17 @@
     "title": "Community vs Content Platform / 社区与内容平台区别",
     "url": "/wiki/concepts/communityvscontentplatform/"
   },
+  "CompanionAnimalAttachment": {
+    "title": "Companion-Animal Attachment",
+    "url": "/wiki/concepts/companionanimalattachment/"
+  },
   "CompanionAnimalHealth": {
     "title": "Companion Animal Health",
     "url": "/wiki/concepts/companionanimalhealth/"
+  },
+  "CompanionAnimalSterilizationDecision": {
+    "title": "Companion-Animal Sterilization Decision",
+    "url": "/wiki/concepts/companionanimalsterilizationdecision/"
   },
   "CompanionRobots": {
     "title": "Companion Robots",
@@ -34898,6 +34910,10 @@
   "KarmaAsCauseAndEffect": {
     "title": "Karma as Cause and Effect",
     "url": "/wiki/concepts/karmaascauseandeffect/"
+  },
+  "KarolinaWestlund": {
+    "title": "Karolina Westlund",
+    "url": "/wiki/entities/karolinawestlund/"
   },
   "Kaseya": {
     "title": "Kaseya",
@@ -58719,6 +58735,10 @@
     "title": "Specialty Retail Logistics",
     "url": "/wiki/concepts/specialtyretaillogistics/"
   },
+  "SpeciesAppropriateAnimalCare": {
+    "title": "Species-Appropriate Animal Care",
+    "url": "/wiki/concepts/speciesappropriateanimalcare/"
+  },
   "SpectacleMediatedSelfhood": {
     "title": "景观中介的自我 / Spectacle-Mediated Selfhood",
     "url": "/wiki/concepts/spectaclemediatedselfhood/"
@@ -78002,6 +78022,10 @@
   "what-makes-a-toy-go-viral": {
     "title": "What makes a toy go viral",
     "url": "/wiki/sources/what-makes-a-toy-go-viral/"
+  },
+  "what-pets-actually-want-need-dr-karolina-westlund-scim2878719314": {
+    "title": "What Pets Actually Want & Need | Dr. Karolina Westlund",
+    "url": "/wiki/sources/what-pets-actually-want-need-dr-karolina-westlund-scim2878719314/"
   },
   "who-decides-what-big-box-sells-our-game-got-us-answers": {
     "title": "Who decides what big box sells? Our GAME got us answers",

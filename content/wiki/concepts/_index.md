@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7689
+wiki_total_pages: 7693
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "AnimalTestingSubstitution"
     title: "Animal Testing Substitution"
     url: "/wiki/concepts/animaltestingsubstitution/"
+  - key: "AnimalTouchConsent"
+    title: "Animal Touch Consent"
+    url: "/wiki/concepts/animaltouchconsent/"
   - key: "AnimalWelfareAsPublicHealth"
     title: "Animal Welfare As Public Health"
     url: "/wiki/concepts/animalwelfareaspublichealth/"
