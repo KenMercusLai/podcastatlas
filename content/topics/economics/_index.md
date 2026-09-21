@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2071
+topic_total_pages: 2072
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2218,6 +2218,9 @@ topic_concepts:
   - key: "PonziScheme"
     title: "Ponzi Scheme"
     url: "/wiki/concepts/ponzischeme/"
+  - key: "PopToAlbumRockTransition"
+    title: "Pop-to-Album-Rock Transition"
+    url: "/wiki/concepts/poptoalbumrocktransition/"
   - key: "PortEnabledManufacturingCity"
     title: "Port Enabled Manufacturing City / 港口型制造城市"
     url: "/wiki/concepts/portenabledmanufacturingcity/"

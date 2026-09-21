@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
       "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
       "d8c1f73d3d2568b7e5b6f0a1f67173154bbd7865846256ff10f0d08947db4473",
       "518ed01438c6571447f6d314e6839787702ac725042a21c75aa74b5981c47dfb",
@@ -680,11 +681,34 @@
       "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013",
       "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71"
     ],
-    "paragraph_count": 678
+    "paragraph_count": 679
   },
-  "overview_commit": "6d070d82cbff091e58f4fde37ddc0b8b438e594b",
-  "overview_digest": "e9225d027989b4f47cab9737196e340c8fec65c9f4c92ff36a67e105f756c30e",
+  "overview_commit": "cf5f24dec603a2956b291ac1688eca71278e0628",
+  "overview_digest": "fd8f313dbcc3ebb2023afc65e294b5992481d5834329b4b9faa38e73162cd3e7",
   "paragraphs": [
+    {
+      "id": "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The newest music-and-counterculture source, [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077|559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)]], adds [[TheRollingStones]], [[MickJagger]], [[KeithRichards]], [[BrianJones]], [[RedlandsDrugCase]], [[AltamontFreeConcert]], [[CelebrityFolkDevilMoralPanic]], and [[PopToAlbumRockTransition]]. Its core synthesis is that celebrity image can turn limited misconduct into a distributed moral panic without one coordinated conspiracy, while shifts in format, audience conduct, musicianship, and album economics can turn a scandal-marked pop group into a durable rock institution. Brian Jones's death marks the personnel tragedy inside that adaptation, and Altamont becomes a powerful retrospective endpoint without proving that one concert caused the 1960s' optimism to collapse. No settled contradiction is recorded; police and press motives, character judgments, crowd figures, murder allegations, and symbolic periodization remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077",
+        "AltamontFreeConcert",
+        "BrianJones",
+        "CelebrityFolkDevilMoralPanic",
+        "KeithRichards",
+        "MickJagger",
+        "PopToAlbumRockTransition",
+        "RedlandsDrugCase",
+        "TheRollingStones"
+      ]
+    },
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
       "primary_topic": "work-education-and-society",

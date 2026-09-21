@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10367
+wiki_total_pages: 10373
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "Altadena"
     title: "Altadena"
     url: "/wiki/entities/altadena/"
+  - key: "AltamontFreeConcert"
+    title: "Altamont Free Concert"
+    url: "/wiki/entities/altamontfreeconcert/"
   - key: "AltaVista"
     title: "AltaVista"
     url: "/wiki/entities/altavista/"

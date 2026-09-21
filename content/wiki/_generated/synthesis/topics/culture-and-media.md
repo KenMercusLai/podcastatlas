@@ -3,18 +3,29 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-09-20
-as_of_overview_commit: 78e312c45a7026f9bbb12584e48ef44e30677aa8
-input_digest: d3f2d39e315686bdf30afe6e05841341a179cbf7cc901a862b7467dfd780df6a
+last_updated: 2026-09-21
+as_of_overview_commit: cf5f24dec603a2956b291ac1688eca71278e0628
+input_digest: f579a50035298152d4427e5044961ecebf9b27883fe4263b41c859da8eeb1683
 ---
 
 # Culture and Media
 
 ## Current State
 
-Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public deep-time artifacts, and fragmented video do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, authoritative, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, demographic generalization, technical capability, symbolic behavior change, and incomplete event reconstruction. The Chongqing Shidai Fengjun episode adds a contested-event layer in which disappearing originals, selective clips, gendered scrutiny, and shared legitimacy language shape public meaning without resolving chronology or organization. The Nepal flood follow-up adds a disaster-culture branch in which field reporting connects symbolic funerals and damaged pilgrimage traditions to forensic identification, repeated displacement, and institutional delay without treating provisional figures as settled.
+Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public deep-time artifacts, and fragmented video do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, authoritative, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, demographic generalization, technical capability, symbolic behavior change, and incomplete event reconstruction. The Chongqing Shidai Fengjun episode adds a contested-event layer in which disappearing originals, selective clips, gendered scrutiny, and shared legitimacy language shape public meaning without resolving chronology or organization. The Nepal flood follow-up adds a disaster-culture branch in which field reporting connects symbolic funerals and damaged pilgrimage traditions to forensic identification, repeated displacement, and institutional delay without treating provisional figures as settled. The Rolling Stones branch adds celebrity image and music-market form to this pattern: distributed moral panic can magnify limited misconduct, while audience practice and album economics can help convert rebellion into durable authority without making Altamont a single causal endpoint.
 
 ## Cross-source Findings
+
+### Celebrity Image And Media Form Shape Cultural Authority
+
+[[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse.
+
+**Evidence:** [[TheRollingStones]], [[CelebrityFolkDevilMoralPanic]], [[RedlandsDrugCase]], [[PopToAlbumRockTransition]], [[AltamontFreeConcert]], [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]]
+
+**Qualifications:**
+
+- Police and press motives, character judgments, crowd figures, Brian Jones murder allegations, and the symbolic periodization of Altamont remain source-scoped.
+- The case does not establish that one concert ended the 1960s or that album formats alone produced artistic seriousness and durability.
 
 ### Disaster Reporting Links Ritual Loss To Institutional Time
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)](sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077.md) — The Rest Is History episode on Redlands, Brian Jones, Hyde Park, album rock, Altamont, and the Stones as symbols of late-1960s cultural conflict.
 - [Essentials: Protocols to Improve Vision & Eyesight](sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754.md) — Huberman Lab Essentials episode on retinal light signaling, brain-based visual inference, circadian regulation, varied eye use, myopia-related habits, and bounded nutrition and eye-care tools.
 - [AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More](sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786.md) — Huberman Lab AMA excerpt distinguishing whey for muscle-related goals from collagen or bone broth for qualified skin-related goals, with tolerance and acne caveats.
 - [560. The Golden Age of Japan: Lady Murasaki and the Shining Prince (Part 1)](sources/560-the-golden-age-of-japan-lady-murasaki-and-the-shining-prince-part-1-glt6500007351.md) — The Rest Is History episode on The Tale of Genji, Murasaki Shikibu, selective Sinicization, gendered literacy, court bureaucracy, and literary impermanence.
@@ -2608,6 +2609,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
 ## Entities
+- [The Rolling Stones](entities/TheRollingStones.md) — British band whose legal, personnel, musical, and symbolic transformation defined a durable rock template.
+- [Mick Jagger](entities/MickJagger.md) — Rolling Stones singer and public face central to Redlands, band leadership, and Hyde Park.
+- [Keith Richards](entities/KeithRichards.md) — Rolling Stones guitarist whose Redlands home became a stage for drug, class, and celebrity anxiety.
+- [Brian Jones](entities/BrianJones.md) — Rolling Stones founder whose marginalization, removal, and disputed death marked the band's first transition.
+- [Redlands Drug Case](entities/RedlandsDrugCase.md) — 1967 raid and prosecution that turned limited drug offences into national cultural conflict.
+- [Altamont Free Concert](entities/AltamontFreeConcert.md) — Poorly organized 1969 concert whose violence became a symbol of countercultural rupture.
 - [Karolina Westlund](entities/KarolinaWestlund.md) — Animal ethologist translating species history, sensory ecology, emotion, and learning into practical welfare guidance.
 - [Sei Shonagon](entities/SeiShonagon.md) — Heian court writer whose wit, learning, and service to Teishi animate The Pillow Book.
 - [Murasaki Shikibu](entities/MurasakiShikibu.md) — Heian author of The Tale of Genji and literary figure at Empress Shoshi's court.
@@ -12984,6 +12991,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target makes limited conduct symbolize a broad social threat.
+- [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
 - [Visual System Health Toolkit](concepts/VisualSystemHealthToolkit.md) — Framework joining outdoor light, varied viewing distance, smooth pursuit, accommodation, binocular balance, systemic health, and qualified eye care.
 - [Protein Source Goal Matching](concepts/ProteinSourceGoalMatching.md) — Matches protein amino-acid profile, bioavailability, tolerance, and format to muscle, skin, convenience, or dietary goals.
 - [Species-Appropriate Animal Care](concepts/SpeciesAppropriateAnimalCare.md) — Ethology-first design of housing, feeding, enrichment, touch, and social contact around species and individual needs.

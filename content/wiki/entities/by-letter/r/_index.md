@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10367
+wiki_total_pages: 10373
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "RadixARC"
     title: "Redix ARK / Radix ARC"
     url: "/wiki/entities/radixarc/"
+  - key: "RedlandsDrugCase"
+    title: "Redlands Drug Case"
+    url: "/wiki/entities/redlandsdrugcase/"
   - key: "Redmi"
     title: "Redmi"
     url: "/wiki/entities/redmi/"

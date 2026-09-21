@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7697
+wiki_total_pages: 7699
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "CelebratorySummonsEntrapment"
     title: "Celebratory Summons Entrapment / 报捷祝贺式诱捕"
     url: "/wiki/concepts/celebratorysummonsentrapment/"
+  - key: "CelebrityFolkDevilMoralPanic"
+    title: "Celebrity Folk-Devil Moral Panic"
+    url: "/wiki/concepts/celebrityfolkdevilmoralpanic/"
   - key: "CelebrityLedMarketEntry"
     title: "Celebrity-Led Market Entry / 明星带动市场进入"
     url: "/wiki/concepts/celebrityledmarketentry/"

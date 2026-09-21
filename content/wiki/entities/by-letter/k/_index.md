@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10367
+wiki_total_pages: 10373
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "KeithRabois"
     title: "Keith Rabois"
     url: "/wiki/entities/keithrabois/"
+  - key: "KeithRichards"
+    title: "Keith Richards"
+    url: "/wiki/entities/keithrichards/"
   - key: "KeithZhai"
     title: "Keith Zhai"
     url: "/wiki/entities/keithzhai/"
