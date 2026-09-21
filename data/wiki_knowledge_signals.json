@@ -12588,6 +12588,29 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/bedroomhomestayplatformtrust/"
     },
+    "BehaviorChangeBabySteps": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-S2-AdoraCheung-v5 [TSR-S2-AdoraCheung-v5].md",
+          "key": "tsr-s2-adoracheung-v5",
+          "show": "The Social Radars",
+          "title": "Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab",
+          "url": "/wiki/sources/tsr-s2-adoracheung-v5/"
+        },
+        {
+          "episode_file": "lkdXZl6wKKaQuHWmCkWxSYXYIAHO [lkdXZl6wKKaQuHWmCkWxSYXYIAHO].md",
+          "key": "vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho",
+          "show": "这病说来话长",
+          "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",
+          "url": "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/behaviorchangebabysteps/"
+    },
     "BehavioralAlignmentPatching": {
       "episode_count": 1,
       "show_count": 1,
@@ -115529,6 +115552,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/sufeilatehan/"
     },
+    "SuJianxin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkdXZl6wKKaQuHWmCkWxSYXYIAHO [lkdXZl6wKKaQuHWmCkWxSYXYIAHO].md",
+          "key": "vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho",
+          "show": "这病说来话长",
+          "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",
+          "url": "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/sujianxin/"
+    },
     "SuKangLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -141072,9 +141111,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 1,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -141271,6 +141310,13 @@
           "show": "这病说来话长",
           "title": "VOL.155每夜窒息51秒！医生讲述年轻女患者的重生故事",
           "url": "/wiki/sources/vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv/"
+        },
+        {
+          "episode_file": "lkdXZl6wKKaQuHWmCkWxSYXYIAHO [lkdXZl6wKKaQuHWmCkWxSYXYIAHO].md",
+          "key": "vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho",
+          "show": "这病说来话长",
+          "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",
+          "url": "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
         }
       ],
       "updated": "2026-09-22",

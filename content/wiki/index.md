@@ -2668,6 +2668,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634.md) — Huberman Lab episode on cortisol and epinephrine timing, morning light, deliberate arousal, acute immune signaling, chronic-stress costs, and recovery boundaries.
 - [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
+- [VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态](sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho.md) — 这病说来话长 lifestyle interview with singer 信 on cooking, low-friction exercise starts, concert recovery, travel, art, music, and source-scoped optimism and health routines.
 
 ## Entities
 - [Lope de Aguirre](entities/LopeDeAguirre.md) — Violent conquistador who converted a failed Amazon expedition into rebellion against Philip II.
@@ -13142,6 +13143,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AppLovin](entities/AppLovin.md) — Advertising-technology company using mobile-game inventory, recommendation models, and measurable performance to pursue broader commerce discovery.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
+- [苏见信（信） / Shin](entities/SuJianxin.md) — Singer connecting minimum-resistance training, food, travel, art, optimism, and concert preparation in a source-bounded lifestyle profile.
 
 ## Concepts
 - [El Dorado](concepts/ElDorado.md) — Golden-kingdom legend functioning as conquest incentive and colonial manpower-disposal mechanism in the Aguirre expedition.
@@ -19675,7 +19677,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Founder Health Debt](concepts/FounderHealthDebt.md) — Startup-health analogy for accumulated physical problems caused by deferred self-care.
 - [At-Home Preventive Health](concepts/AtHomePreventiveHealth.md) — Service model that brings testing and measurements to busy people and creates repeat feedback loops.
 - [Service Marketplace Quality Control](concepts/ServiceMarketplaceQualityControl.md) — Operational challenge of standardizing human-delivered marketplace services.
-- [Behavior Change Baby Steps](concepts/BehaviorChangeBabySteps.md) — Product-design pattern of turning health feedback into small changes that fit existing routines.
+- [Behavior Change Baby Steps](concepts/BehaviorChangeBabySteps.md) — Low-friction behavior-change pattern using realistic routine attachments or minimum-resistance starts that can later progress with feedback.
 - [Compound Startup](concepts/CompoundStartup.md) — Rippling's strategy of building many interoperable products on a shared employee-data and workflow foundation.
 - [Employee Graph](concepts/EmployeeGraph.md) — Rippling's shared model of employees, roles, departments, locations, relationships, and system access used across business software.
 - [Manual Operations Debt](concepts/ManualOperationsDebt.md) — Scaling burden created when manual workarounds grow faster than automation, controls, and reliable product systems.
