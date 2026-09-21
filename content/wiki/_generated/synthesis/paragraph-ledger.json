@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
       "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
       "03d60e46d06dd9f5392768ac179a3625cea6a5f191f719b44bbf95804b3d3cbb",
       "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
@@ -685,11 +686,34 @@
       "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c",
       "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2"
     ],
-    "paragraph_count": 683
+    "paragraph_count": 684
   },
-  "overview_commit": "b17d350c0c99a49e43b6b901e09eef3eb77cdf13",
-  "overview_digest": "dcc24e42ab2959f2be512594e02c96acf401646b559acadb28c1e1dbc70897e8",
+  "overview_commit": "dc847b394f7c04bf18eedb0e7cea3fb5abb05f0a",
+  "overview_digest": "ea4bff91033acafc29fa1b647616e17dbc950423b9257ebb4b48a4461d9d1acf",
   "paragraphs": [
+    {
+      "id": "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest medical-aesthetics source, [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕]], extends [[ZheBingShuoLaiHuaChang|这病说来话长]] through [[LuluPlasticSurgeon]], [[YiMeiZhiMingDrama]], [[BotulinumToxinInjectionSafety]], [[UnapprovedMedicalAestheticProducts]], [[MedicalAestheticProviderVerification]], and [[CosmeticProcedureExpectationManagement]]. Its core synthesis is that medical aesthetics remains medicine: intended appearance effects depend on verified products, qualified clinicians, suitable institutions, accurate treatment histories, and proportionate goals, while systemic weakness, swallowing or breathing involvement, uncertain injectables, and function-threatening requests move the decision toward escalation, staging, or refusal rather than cheaper or more aggressive treatment. No settled contradiction is recorded; symptom sequences, event timing, product nicknames, credential rules, procedure grades, and individual cases remain source-scoped public education rather than diagnosis, treatment, or current regulatory verification.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "governance-and-institutions": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "BotulinumToxinInjectionSafety",
+        "CosmeticProcedureExpectationManagement",
+        "LuluPlasticSurgeon",
+        "MedicalAestheticProviderVerification",
+        "UnapprovedMedicalAestheticProducts",
+        "YiMeiZhiMingDrama",
+        "ZheBingShuoLaiHuaChang",
+        "vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk"
+      ]
+    },
     {
       "id": "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
       "primary_topic": "business-and-markets",

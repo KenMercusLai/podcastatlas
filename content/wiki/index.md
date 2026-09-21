@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕](sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk.md) — 这病说来话长 episode with 阿汤 and plastic-surgery doctor Lulu on medical-drama realism, botulinum-toxin poisoning, unapproved injectables, provider verification, and safety-first expectation management.
 - [557. 1066: The Norman Conquest (Part 4)](sources/557-1066-the-norman-conquest-part-4-glt5156716826.md) — The Rest Is History episode on post-Hastings submission, William's coronation, elite replacement, the Harrying of the North, castles, church reform, Domesday Book, and conquest as rupture joined to institutional continuity.
 - [Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave](sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523.md) — Huberman Lab interview on addiction as attempted relief, stabilization, distress tolerance, emotional forecasting, peer support, state shifting, and building a meaningful life in recovery.
 - [VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」](sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on balanced weight management, carbohydrate and fat extremes, food form, portion estimation, labels, energy deficits, and health-product marketing.
@@ -2615,6 +2616,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
+- [《以美之名》 / In the Name of Beauty](entities/YiMeiZhiMingDrama.md) — Medical drama used as an educational hook for plastic-surgery and medical-aesthetic risk discussion.
 - [Edgar Atheling](entities/EdgarAtheling.md) — Young royal claimant elected after Hastings whose bloodline and Witan recognition did not become effective kingship.
 - [Domesday Book](entities/DomesdayBook.md) — 1086 land survey recording the Norman property order through inherited English administrative capacity.
 - [Ryan Soave](entities/RyanSoave.md) — Addiction-treatment and trauma-recovery specialist presenting staged stabilization, distress tolerance, community support, and positive life-building.
@@ -13001,6 +13004,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Botulinum Toxin Injection Safety / 肉毒毒素注射安全](concepts/BotulinumToxinInjectionSafety.md) — Product, dose, history, symptom, and escalation boundaries for cosmetic botulinum use.
+- [Unapproved Medical-Aesthetic Products / 未获批医美产品风险](concepts/UnapprovedMedicalAestheticProducts.md) — Supply-chain uncertainty around approval, identity, purity, dose, storage, traceability, and removal.
+- [Medical-Aesthetic Provider Verification / 医美机构与医生验真](concepts/MedicalAestheticProviderVerification.md) — Checks linking institution, clinician, procedure scope, product, and complication support.
+- [Cosmetic Procedure Expectation Management / 医美期望管理](concepts/CosmeticProcedureExpectationManagement.md) — Aligning appearance requests with anatomy, function, motivation, recovery, and proportionate risk.
 - [Harrying of the North](concepts/HarryingOfTheNorth.md) — William's 1069-1070 campaign of destructive repression against northern resistance and civilian subsistence.
 - [Norman Elite Replacement](concepts/NormanEliteReplacement.md) — Post-1066 displacement of native landed and ecclesiastical leadership by a small Norman ruling group.
 - [Conquest Rupture and Continuity](concepts/ConquestRuptureContinuity.md) — Framework for regime change that violently replaces people and property while appropriating inherited institutions.

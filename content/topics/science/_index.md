@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1145
+topic_total_pages: 1146
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -409,6 +409,9 @@ topic_concepts:
   - key: "CorticostriatalThalamicLoop"
     title: "Corticostriatal-Thalamic Loop"
     url: "/wiki/concepts/corticostriatalthalamicloop/"
+  - key: "CosmeticProcedureExpectationManagement"
+    title: "Cosmetic Procedure Expectation Management / 医美期望管理"
+    url: "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
   - key: "CosmopolitanChineseScholarship"
     title: "Cosmopolitan Chinese Scholarship / 世界主义的中国学术"
     url: "/wiki/concepts/cosmopolitanchinesescholarship/"

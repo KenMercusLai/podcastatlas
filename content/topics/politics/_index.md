@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2598
+topic_total_pages: 2599
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3559,6 +3559,9 @@ topic_concepts:
   - key: "USIranNuclearDiplomacy"
     title: "U.S.-Iran Nuclear Diplomacy"
     url: "/wiki/concepts/usirannucleardiplomacy/"
+  - key: "UnapprovedMedicalAestheticProducts"
+    title: "Unapproved Medical-Aesthetic Products / 未获批医美产品风险"
+    url: "/wiki/concepts/unapprovedmedicalaestheticproducts/"
   - key: "UnauthorizedPracticeOfLawAIBoundary"
     title: "Unauthorized Practice Of Law AI Boundary"
     url: "/wiki/concepts/unauthorizedpracticeoflawaiboundary/"

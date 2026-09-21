@@ -9255,6 +9255,10 @@
     "title": "Bottom-Up Enterprise Distribution",
     "url": "/wiki/concepts/bottomupenterprisedistribution/"
   },
+  "BotulinumToxinInjectionSafety": {
+    "title": "Botulinum Toxin Injection Safety / 肉毒毒素注射安全",
+    "url": "/wiki/concepts/botulinumtoxininjectionsafety/"
+  },
   "BoundarylessKindnessTrap": {
     "title": "Boundaryless Kindness Trap / 无边界善良陷阱",
     "url": "/wiki/concepts/boundarylesskindnesstrap/"
@@ -15050,6 +15054,10 @@
   "CorticostriatalThalamicLoop": {
     "title": "Corticostriatal-Thalamic Loop",
     "url": "/wiki/concepts/corticostriatalthalamicloop/"
+  },
+  "CosmeticProcedureExpectationManagement": {
+    "title": "Cosmetic Procedure Expectation Management / 医美期望管理",
+    "url": "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
   },
   "CosmicCrisp": {
     "title": "Cosmic Crisp",
@@ -39779,6 +39787,10 @@
     "title": "卢龙道 / Lulong Road (Late Han)",
     "url": "/wiki/entities/lulongroadlatehan/"
   },
+  "LuluPlasticSurgeon": {
+    "title": "Lulu (plastic-surgery doctor)",
+    "url": "/wiki/entities/luluplasticsurgeon/"
+  },
   "Lululemon": {
     "title": "Lululemon",
     "url": "/wiki/entities/lululemon/"
@@ -41682,6 +41694,10 @@
   "MedicalAIWorkflowIntegration": {
     "title": "Medical AI Workflow Integration",
     "url": "/wiki/concepts/medicalaiworkflowintegration/"
+  },
+  "MedicalAestheticProviderVerification": {
+    "title": "Medical-Aesthetic Provider Verification / 医美机构与医生验真",
+    "url": "/wiki/concepts/medicalaestheticproviderverification/"
   },
   "MedicalBillingAndCodingAutomation": {
     "title": "Medical Billing and Coding Automation",
@@ -64791,6 +64807,10 @@
     "title": "Una",
     "url": "/wiki/entities/una/"
   },
+  "UnapprovedMedicalAestheticProducts": {
+    "title": "Unapproved Medical-Aesthetic Products / 未获批医美产品风险",
+    "url": "/wiki/concepts/unapprovedmedicalaestheticproducts/"
+  },
   "UnauthorizedFrontierCommandIntervention": {
     "title": "边疆将领擅断干预 / Unauthorized Frontier Command Intervention",
     "url": "/wiki/concepts/unauthorizedfrontiercommandintervention/"
@@ -70618,6 +70638,10 @@
   "YiLaoYongYi": {
     "title": "一劳永逸",
     "url": "/wiki/entities/yilaoyongyi/"
+  },
+  "YiMeiZhiMingDrama": {
+    "title": "《以美之名》 / In the Name of Beauty",
+    "url": "/wiki/entities/yimeizhimingdrama/"
   },
   "YiMeng": {
     "title": "《疑孟》 / Yi Meng",
@@ -77846,6 +77870,10 @@
   "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
     "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
     "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  },
+  "vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk": {
+    "title": "VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕",
+    "url": "/wiki/sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk/"
   },
   "vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5": {
     "title": "VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」",

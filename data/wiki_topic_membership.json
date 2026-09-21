@@ -18579,6 +18579,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CosmeticProcedureExpectationManagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CosmicHorror": [
     {
       "key": "culture",
@@ -72261,6 +72268,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "UnapprovedMedicalAestheticProducts": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UnauthorizedFrontierCommandIntervention": [

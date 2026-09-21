@@ -20824,3 +20824,11 @@ Added source `essentials-how-to-build-endurance-scim1120276865`; created `Endura
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕
+
+Added source `vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk`; created `LuluPlasticSurgeon`, `YiMeiZhiMingDrama`, `BotulinumToxinInjectionSafety`, `UnapprovedMedicalAestheticProducts`, `MedicalAestheticProviderVerification`, and `CosmeticProcedureExpectationManagement`; and updated overview and index. Core synthesis: medical aesthetics remains medicine, so verified products and providers, full prior-treatment disclosure, suitable institutional support, functional judgment, and proportionate expectations take precedence over price, trends, or immediate appearance goals. No settled contradiction found; symptoms, timing, product labels, credential rules, procedure grades, and case outcomes remain source-scoped public education.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 7711
+wiki_total_pages: 7715
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "UMIGloveDataCollection"
     title: "UMI-Style Glove Data Collection / 手套式数据采集"
     url: "/wiki/concepts/umiglovedatacollection/"
+  - key: "UnapprovedMedicalAestheticProducts"
+    title: "Unapproved Medical-Aesthetic Products / 未获批医美产品风险"
+    url: "/wiki/concepts/unapprovedmedicalaestheticproducts/"
   - key: "UnauthorizedPracticeOfLawAIBoundary"
     title: "Unauthorized Practice Of Law AI Boundary"
     url: "/wiki/concepts/unauthorizedpracticeoflawaiboundary/"

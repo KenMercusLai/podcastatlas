@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7711
+wiki_total_pages: 7715
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "BottomUpEnterpriseDistribution"
     title: "Bottom-Up Enterprise Distribution"
     url: "/wiki/concepts/bottomupenterprisedistribution/"
+  - key: "BotulinumToxinInjectionSafety"
+    title: "Botulinum Toxin Injection Safety / 肉毒毒素注射安全"
+    url: "/wiki/concepts/botulinumtoxininjectionsafety/"
   - key: "BoundarylessKindnessTrap"
     title: "Boundaryless Kindness Trap / 无边界善良陷阱"
     url: "/wiki/concepts/boundarylesskindnesstrap/"

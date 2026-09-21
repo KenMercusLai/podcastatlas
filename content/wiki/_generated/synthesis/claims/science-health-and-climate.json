@@ -1280,9 +1280,30 @@
         "DaShiHua",
         "ZheBingShuoLaiHuaChang"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "medical-aesthetics-needs-product-provider-history-and-goal-verification",
+      "qualifications": [
+        "The episode is public medical-aesthetic education organized around a drama and one clinician's experience, not individualized diagnosis, toxicology, emergency, surgical, psychiatric, or product advice.",
+        "Symptoms, timing, product nicknames, approval status, credential rules, procedure grades, institutional capabilities, and individual case outcomes remain source-scoped and jurisdiction- or patient-dependent.",
+        "Provider, product, and approval verification must use current official records; the episode does not supply a complete lookup workflow."
+      ],
+      "statement": "[[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159]] adds a medical-aesthetic safety branch through [[LuluPlasticSurgeon]] and [[YiMeiZhiMingDrama]]: [[BotulinumToxinInjectionSafety]], [[UnapprovedMedicalAestheticProducts]], [[MedicalAestheticProviderVerification]], and [[CosmeticProcedureExpectationManagement]] make intended appearance effects conditional on verified products, qualified clinicians, suitable institutions, complete prior-treatment histories, functional costs, and proportionate goals, while generalized weakness, swallowing or breathing involvement, uncertain injectables, and high-risk requests move the decision toward qualified escalation, staging, or refusal.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk",
+        "ZheBingShuoLaiHuaChang",
+        "LuluPlasticSurgeon",
+        "YiMeiZhiMingDrama",
+        "BotulinumToxinInjectionSafety",
+        "UnapprovedMedicalAestheticProducts",
+        "MedicalAestheticProviderVerification",
+        "CosmeticProcedureExpectationManagement"
+      ]
     }
   ],
-  "input_digest": "c42e8736b0180223fa78d0d18cb22fd7e4dd2b692334840b1d091dadda8f0817",
-  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Addiction recovery is staged from medical safety and stabilization toward distress tolerance, anticipatory emotional inventory, safer coping practices, community, purpose, and connection, with acute withdrawal and emerging treatment claims kept inside clinical boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Supplement evidence separates manufacturing oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests; nutrition findings remain comparator-, replacement-, adherence-, food-form-, and endpoint-dependent; and sensory findings keep performance, supplement, exercise, disease, and treatment claims source-scoped or clinically bounded.",
+  "input_digest": "9a83c753deb274cb876410282d47b8bc217a80de30453316fcd04e7fa71ba9d4",
+  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover medical-aesthetic product and provider verification, botulinum-injection escalation and expectation management, cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Addiction recovery is staged from medical safety and stabilization toward distress tolerance, anticipatory emotional inventory, safer coping practices, community, purpose, and connection, with acute withdrawal and emerging treatment claims kept inside clinical boundaries. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Supplement evidence separates manufacturing oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests; nutrition findings remain comparator-, replacement-, adherence-, food-form-, and endpoint-dependent; and sensory findings keep performance, supplement, exercise, disease, and treatment claims source-scoped or clinically bounded.",
   "topic_id": "science-health-and-climate"
 }

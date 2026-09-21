@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7711
+wiki_total_pages: 7715
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1763,6 +1763,9 @@ wiki_pages:
   - key: "CorticostriatalThalamicLoop"
     title: "Corticostriatal-Thalamic Loop"
     url: "/wiki/concepts/corticostriatalthalamicloop/"
+  - key: "CosmeticProcedureExpectationManagement"
+    title: "Cosmetic Procedure Expectation Management / 医美期望管理"
+    url: "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
   - key: "CosmicHorror"
     title: "Cosmic Horror"
     url: "/wiki/concepts/cosmichorror/"
