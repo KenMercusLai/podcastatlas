@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7765
+wiki_total_pages: 7768
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1103,6 +1103,9 @@ wiki_pages:
   - key: "MotiveBasedTalentEvaluation"
     title: "Motive-Based Talent Evaluation / 动机导向的才干评价"
     url: "/wiki/concepts/motivebasedtalentevaluation/"
+  - key: "MotorSkillRepetitionDensity"
+    title: "Motor Skill Repetition Density"
+    url: "/wiki/concepts/motorskillrepetitiondensity/"
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"

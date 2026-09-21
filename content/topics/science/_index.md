@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1148
+topic_total_pages: 1150
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1171,6 +1171,9 @@ topic_concepts:
   - key: "MotivationRewardEffortCalculation"
     title: "Motivation Reward-Effort Calculation"
     url: "/wiki/concepts/motivationrewardeffortcalculation/"
+  - key: "MotorSkillRepetitionDensity"
+    title: "Motor Skill Repetition Density"
+    url: "/wiki/concepts/motorskillrepetitiondensity/"
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"
@@ -3201,6 +3204,9 @@ topic_sources:
   - key: "essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924"
     title: "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin"
     url: "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+  - key: "essentials-how-to-learn-skills-faster-scim2224786015"
+    title: "Essentials: How to Learn Skills Faster"
+    url: "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
   - key: "essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929"
     title: "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried"
     url: "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"

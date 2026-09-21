@@ -6,8 +6,9 @@ sources:
   - yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254
   - all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
+  - essentials-how-to-learn-skills-faster-scim2224786015
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-28
+last_updated: 2026-09-21
 ---
 
 # Neuroplasticity / 神经可塑性
@@ -18,7 +19,7 @@ Neuroplasticity is the brain's capacity to change its connection patterns and fu
 ## Current Synthesis
 Across the bounded evidence, neuroplasticity is not simple "brain growth." The AI-learning source emphasizes long-term potentiation, retrieval, sleep, and the training value of effort that cannot be outsourced. The Bryan Johnson source uses psychedelics as a possible but unresolved flexibility window, especially through default-mode-network disruption and single-subject measurement claims. The Tommy Wood episode makes the circuit model more explicit: adult brains adapt by strengthening some synapses, weakening others, and pruning connections that interfere with better action.
 
-The practical synthesis is active and bounded. Plasticity is supported by repeated, sufficiently challenging stimulation, sleep, recovery, diet, movement, and meaningful feedback. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
+The motor-learning episode makes the practice loop more concrete: safe repetitions expose errors, errors direct attention and correction, and a brief low-interference period plus sleep may help retain successful movement sequences. Plasticity is therefore supported by repeated, sufficiently challenging stimulation, recovery, diet, movement, and meaningful feedback. It is weakened when tools remove the search, recall, comparison, and correction work that trains the system. It also should not be inflated into a universal intervention claim: there is no "plasticity pill," psychedelic evidence remains unsettled, and concussion or clinical recovery belongs inside medical guidance.
 
 ## Key Claims
 - Learning changes connection strength, pruning, and network use, not only stored facts.
@@ -36,13 +37,14 @@ The practical synthesis is active and bounded. Plasticity is supported by repeat
 - Circuit refinement - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] defines adult neuroplasticity through strengthened, weakened, and pruned connections rather than broad adult neurogenesis.
 - Multimodal practice - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] favors dance, sport, language, music, martial arts, creative arts, mistakes, and reachable difficulty as adult plasticity stimuli.
 - Safety boundary - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] says there is no plasticity pill and keeps concussion, supplements, and dementia prevention source-scoped.
+- Motor correction loop - [[essentials-how-to-learn-skills-faster-scim2224786015]] links safe repetition, informative error, attention, proprioceptive feedback, quiet post-practice time, and sleep.
 
 ## Counterevidence & Qualifications
-The evidence does not imply that every difficult activity transfers broadly, that psychedelics reliably create durable beneficial change, or that plasticity can be pursued without sleep, recovery, or medical context. Plasticity can also include pruning and weakening connections, so change is not automatically improvement.
+The evidence does not imply that every difficult activity transfers broadly, that more repetitions are always better, that psychedelics reliably create durable beneficial change, or that plasticity can be pursued without safety, sleep, recovery, or medical context. Plasticity can also include pruning and weakening connections, so change is not automatically improvement.
 
 ## What Changed
-- Migrated the page to synthesis-v1 while preserving the original source order.
-- Integrated Wood's pruning, adult learning, exercise, arousal, and concussion-safety boundaries into the earlier AI-learning and psychedelic-plasticity frame.
+- Added a motor-learning loop in which safe repetitions, errors, attention, post-practice quiet, and sleep support circuit refinement.
+- Clarified that repetition count is useful only when attempts remain safe and feedback-rich.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult practice branch built around embodied, social, and cognitively rich challenge.
@@ -52,3 +54,5 @@ The evidence does not imply that every difficult activity transfers broadly, tha
 - [[DefaultModeNetwork]] - psychedelic-neuroscience branch from the Bryan Johnson source.
 - [[ExerciseSpecificBrainAdaptation]] - exercise branch where arousal and training can affect brain outcomes.
 - [[ConcussionActiveRecovery]] - injury-recovery branch where plasticity must stay inside safety limits.
+- [[MotorSkillRepetitionDensity]] - motor-learning branch that turns error and correction into dense practice.
+- [[PostPracticeMotorConsolidation]] - low-interference recovery branch after skill practice.

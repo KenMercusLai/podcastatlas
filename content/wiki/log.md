@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | Essentials: How to Learn Skills Faster
+
+Added source `essentials-how-to-learn-skills-faster-scim2224786015`; created `MotorSkillRepetitionDensity`, `StageMatchedMotorSkillPractice`, and `PostPracticeMotorConsolidation`; updated `AndrewHuberman`, `HubermanLab`, `Neuroplasticity`, `DesirableDifficulty`, `MemoryConsolidationWindows`, and index. Core synthesis: early motor learning benefits from many safe, feedback-rich attempts; errors help only when they remain correctable and preserve persistence; slow practice, metronomes, narrow attentional targets, and visualization should be matched to proficiency; and brief quiet wakefulness plus sleep may support consolidation. No settled contradiction found; the feedback experiment, winner-effect studies, replay mechanism, slow-practice thresholds, metronome effect, and caffeine or Alpha GPC claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-21] ingest | 552. The Last Viking: The Saga of Harald Hardrada (Part 1)
 
 Added source `552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160`; created `OlafIIOfNorway`, `YaroslavTheWise`, `KievanRus`, `BattleOfStiklestad`, and `VikingEasternRoutes`; and updated `HaraldHardrada`, `VarangianGuard`, `SagaSourceCriticism`, and index. Core synthesis: Stiklestad transformed a teenage dynast into an exile, Rus service supplied an initial military apprenticeship, and the eastern Viking routes connected Harald's search for wealth and reputation to the Varangian Guard and future kingship. No settled contradiction found; Olaf's conversion policy remains disputed, while childhood portents, stature, eclipse timing, magical protection, battle scenes, exact route, ranks, ages, force numbers, marriage dialogue, party size, and “Northbright” remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21056,6 +21060,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer
 
 Added source `transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508`; created `MitochondrialLifestylePillars`, `PsychiatricDiagnosisMechanismBoundary`, and `MetabolicMentalHealthBiomarkers`; updated `ChrisPalmer`, `MetabolicPsychiatry`, `MitochondrialMentalHealthModel`, `KetogenicDietMentalHealth`, `NutritionMentalHealth`, and the index. Core synthesis: Palmer's metabolic-psychiatry model uses mitochondrial energy regulation to connect lifestyle, neurotransmission, inflammation, hormones, stress, aging, and psychiatric symptoms while keeping ketogenic therapy, fasting, supplements, neurostimulation, nutrient correction, and biomarkers evidence- and supervision-bounded. No settled contradiction found; vaccine/autism mechanisms, parental-risk ratios, biomarker performance, nutrient prevalence, supplement effects, and fasting claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Learn Skills Faster](sources/essentials-how-to-learn-skills-faster-scim2224786015.md) — Huberman Lab Essentials episode on repetition density, safe errors, stage-matched motor practice, quiet post-practice consolidation, sleep, and mental-rehearsal limits.
 - [Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer](sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508.md) — Huberman Lab interview on metabolic psychiatry, mitochondrial lifestyle inputs, ketogenic and adjunct interventions, diagnosis-mechanism boundaries, and emerging biomarkers.
 - [552. The Last Viking: The Saga of Harald Hardrada (Part 1)](sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160.md) — The Rest Is History episode on Stiklestad, Harald Hardrada's exile and Rus apprenticeship, eastern Viking routes, and his entry into the Varangian Guard.
 - [553. The Last Viking: Warrior of the New Rome (Part 2)](sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245.md) — The Rest Is History episode on Harald Hardrada's Byzantine service, wealth-backed rise to Norwegian kingship, severe centralization, and saga-shaped historical memory.
@@ -13076,6 +13077,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Motor Skill Repetition Density](concepts/MotorSkillRepetitionDensity.md) — Motor-learning principle that prioritizes safe, feedback-rich attempts per unit time over elapsed practice hours alone.
+- [Stage-Matched Motor Skill Practice](concepts/StageMatchedMotorSkillPractice.md) — Proficiency-dependent framework for ordinary attempts, slow practice, metronomes, attentional targets, and visualization.
+- [Post-Practice Motor Consolidation](concepts/PostPracticeMotorConsolidation.md) — Low-interference quiet-wakefulness and sleep window proposed to stabilize successful motor sequences after practice.
 - [Battle of Stiklestad](concepts/BattleOfStiklestad.md) — 1030 defeat understood as Olaf II's failed restoration, later martyr memory, and the formative rupture in Harald Hardrada's career.
 - [Viking Eastern Routes](concepts/VikingEasternRoutes.md) — Baltic, river, settlement, and Black Sea network linking Scandinavian trade, enslavement, exile, and military labor to Rus and Byzantium.
 - [Varangian Guard](concepts/VarangianGuard.md) — Byzantine foreign military institution linking eastern mobility to campaign experience, imperial rank, wealth, and portable political capital.

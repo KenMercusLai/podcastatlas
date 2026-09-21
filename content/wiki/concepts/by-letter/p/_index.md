@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7765
+wiki_total_pages: 7768
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "PostPowerSafetyCollapse"
     title: "Post-Power Safety Collapse / 失势后的安全崩塌"
     url: "/wiki/concepts/postpowersafetycollapse/"
+  - key: "PostPracticeMotorConsolidation"
+    title: "Post-Practice Motor Consolidation"
+    url: "/wiki/concepts/postpracticemotorconsolidation/"
   - key: "PostRestorationMeritThreat"
     title: "Post-Restoration Merit Threat / 复国功臣威胁化"
     url: "/wiki/concepts/postrestorationmeritthreat/"

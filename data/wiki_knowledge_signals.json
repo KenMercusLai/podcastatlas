@@ -7024,9 +7024,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 36,
+      "episode_count": 37,
       "show_count": 1,
-      "source_note_count": 36,
+      "source_note_count": 37,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7279,6 +7279,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
         }
       ],
       "updated": "2026-09-21",
@@ -29675,9 +29682,9 @@
       "url": "/wiki/concepts/designeraicodingworkflow/"
     },
     "DesirableDifficulty": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -29713,9 +29720,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DesireCapacityFit": {
@@ -57704,9 +57718,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 36,
+      "episode_count": 37,
       "show_count": 1,
-      "source_note_count": 36,
+      "source_note_count": 37,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -57959,6 +57973,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
         }
       ],
       "updated": "2026-09-21",
@@ -80497,9 +80518,9 @@
       "url": "/wiki/entities/memex/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -80535,9 +80556,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
           "url": "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
+        },
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -83928,6 +83956,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/motivebasedfalseaccusationdefense/"
     },
+    "MotorSkillRepetitionDensity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/motorskillrepetitiondensity/"
+    },
     "MouDestructionStrike": {
       "episode_count": 1,
       "show_count": 1,
@@ -85491,9 +85535,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -85515,9 +85559,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeutralityToInterventionMemory": {
@@ -94345,6 +94396,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/postlearningarousaltagging/"
+    },
+    "PostPracticeMotorConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/postpracticemotorconsolidation/"
     },
     "PostRestorationMeritThreat": {
       "episode_count": 5,
@@ -111792,6 +111859,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/sspai/"
+    },
+    "StageMatchedMotorSkillPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2224786015 [SCIM2224786015].md",
+          "key": "essentials-how-to-learn-skills-faster-scim2224786015",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Learn Skills Faster",
+          "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/stagematchedmotorskillpractice/"
     },
     "StandingGeneticVariation": {
       "episode_count": 1,

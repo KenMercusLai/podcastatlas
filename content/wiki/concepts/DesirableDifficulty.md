@@ -8,8 +8,9 @@ sources:
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
   - how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002
   - how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815
+  - essentials-how-to-learn-skills-faster-scim2224786015
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-31
+last_updated: 2026-09-21
 ---
 
 # Desirable Difficulty
@@ -22,7 +23,7 @@ The concept now spans product discipline and human learning. In the product sour
 
 Wood's episode sharpens the boundary. Difficulty is desirable only when it is meaningful and reachable. Adult learners need mistakes, friction, and even beginner embarrassment, but challenges that are too hard can crush engagement and reduce learning. Castel adds a memory-specific version: drawing before checking, searching before being shown, using a name aloud, and walking a route can all make learning better because the learner discovers the gap and receives corrective feedback.
 
-The Alpha School episode adds an education-design version. Difficulty is desirable when students face high standards, meaningful goals, and supported struggle; it becomes wasteful when the task is too far above missing prerequisites or when suffering is disconnected from the student's own aims. The mature version is not suffering for its own sake; it is calibrated challenge near the edge of current ability and tied to feedback, support, and goals the learner or team can use.
+The Alpha School episode adds an education-design version. Difficulty is desirable when students face high standards, meaningful goals, and supported struggle; it becomes wasteful when the task is too far above missing prerequisites or when suffering is disconnected from the student's own aims. The motor-learning episode adds a repetition-level version: mistakes are desirable when they provide corrective information and invite another safe attempt, while punitive framing or unsafe failure can reduce persistence. The mature version is not suffering for its own sake; it is calibrated challenge near the edge of current ability and tied to feedback, support, and goals the learner or team can use.
 
 ## Key Claims
 - Useful constraints increase focus, invention, tradeoffs, or feedback rather than merely blocking work.
@@ -41,13 +42,14 @@ The Alpha School episode adds an education-design version. Difficulty is desirab
 - Too-hard boundary - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] warns that repeated failure without progress can have the opposite effect.
 - Memory calibration - [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002]] uses drawing, active search, name use, curiosity, and route rehearsal as examples where useful errors improve encoding and recall.
 - School challenge calibration - [[how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815]] uses Alpha School's high-standards/high-support frame, supported failure examples, and prerequisite repair to distinguish useful struggle from pointless suffering.
+- Motor error calibration - [[essentials-how-to-learn-skills-faster-scim2224786015]] treats safe errors as useful correction signals but keeps persistence and another viable attempt central.
 
 ## Counterevidence & Qualifications
-Not all difficulty is desirable. Constraints can be arbitrary, unsafe, humiliating, or impossible; struggle can also signal poor task design, inadequate recovery, missing prerequisite skills, weak motivation, or the absence of corrective feedback. The Alpha School evidence is source-scoped, but it reinforces the page's existing boundary: challenge requires calibration to the domain, learner, support system, and goal.
+Not all difficulty is desirable. Constraints can be arbitrary, unsafe, humiliating, or impossible; struggle can also signal poor task design, inadequate recovery, missing prerequisite skills, weak motivation, or the absence of corrective feedback. Motor errors are useful only when the learner can safely detect and correct them. The source evidence remains source-scoped, but it reinforces the page's existing boundary: challenge requires calibration to the domain, learner, support system, and goal.
 
 ## What Changed
-- Added Alpha School's high-standards/high-support and prerequisite-repair version of productive challenge.
-- Tightened the boundary that difficulty needs goals, support, and level matching, not only effort.
+- Added motor learning's distinction between informative error and failure that suppresses safe attempts.
+- Tightened the boundary that challenge needs corrective feedback, safety, and a viable next repetition.
 
 ## Related Concepts
 - [[MultimodalAdultNeuroplasticity]] - adult learning branch where rich challenge supplies plasticity signals.
@@ -61,3 +63,5 @@ Not all difficulty is desirable. Constraints can be arbitrary, unsafe, humiliati
 - [[LearningHowToLearn]] - practical learning framework for choosing and pacing difficulty.
 - [[EducationMotivationArchitecture]] - school-design layer that gives hard work goals and support.
 - [[WorkingMemoryLearningBottleneck]] - prerequisite-gap boundary where difficulty becomes counterproductive.
+- [[MotorSkillRepetitionDensity]] - motor-practice application where safe errors increase usable attempts.
+- [[StageMatchedMotorSkillPractice]] - proficiency boundary for choosing the right kind of challenge.
