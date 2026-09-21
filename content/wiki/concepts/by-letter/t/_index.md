@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7772
+wiki_total_pages: 7777
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "ToolRationalitySpillover"
     title: "Tool Rationality Spillover"
     url: "/wiki/concepts/toolrationalityspillover/"
+  - key: "ToothDemineralizationRemineralization"
+    title: "Tooth Demineralization and Remineralization"
+    url: "/wiki/concepts/toothdemineralizationremineralization/"
   - key: "TopModelBuildRuntimeSplit"
     title: "Top Model Build Runtime Split"
     url: "/wiki/concepts/topmodelbuildruntimesplit/"

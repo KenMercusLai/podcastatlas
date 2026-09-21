@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7772
+wiki_total_pages: 7777
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "PeriodPoverty"
     title: "Period Poverty"
     url: "/wiki/concepts/periodpoverty/"
+  - key: "PeriodontalSystemicHealthBoundary"
+    title: "Periodontal-Systemic Health Evidence Boundary"
+    url: "/wiki/concepts/periodontalsystemichealthboundary/"
   - key: "PerioperativeAnesthesiaSafety"
     title: "Perioperative Anesthesia Safety / 麻醉围手术期安全"
     url: "/wiki/concepts/perioperativeanesthesiasafety/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7772
+wiki_total_pages: 7777
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -596,6 +596,9 @@ wiki_pages:
   - key: "FlowClutchLearningDistinction"
     title: "Flow-Clutch Learning Distinction"
     url: "/wiki/concepts/flowclutchlearningdistinction/"
+  - key: "FluorideRiskBenefitBoundary"
+    title: "Fluoride Risk-Benefit Boundary"
+    url: "/wiki/concepts/fluorideriskbenefitboundary/"
   - key: "FlyingGeeseModel"
     title: "Flying Geese Model"
     url: "/wiki/concepts/flyinggeesemodel/"

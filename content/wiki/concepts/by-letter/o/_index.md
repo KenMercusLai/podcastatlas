@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7772
+wiki_total_pages: 7777
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -431,12 +431,18 @@ wiki_pages:
   - key: "OralEpicRepetition"
     title: "Oral Epic Repetition"
     url: "/wiki/concepts/oralepicrepetition/"
+  - key: "OralMicrobiomePreventiveCare"
+    title: "Oral Microbiome Preventive Care"
+    url: "/wiki/concepts/oralmicrobiomepreventivecare/"
   - key: "OralMythMagicalRealismSource"
     title: "Oral Myth As Magical Realism Source"
     url: "/wiki/concepts/oralmythmagicalrealismsource/"
   - key: "OralTurnPoliticalCommunication"
     title: "Oral Turn in Political Communication"
     url: "/wiki/concepts/oralturnpoliticalcommunication/"
+  - key: "OralAirwayDevelopment"
+    title: "Oral-Airway Development"
+    url: "/wiki/concepts/oralairwaydevelopment/"
   - key: "OralFormulaicEpic"
     title: "Oral-Formulaic Epic"
     url: "/wiki/concepts/oralformulaicepic/"

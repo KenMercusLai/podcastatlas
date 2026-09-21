@@ -23515,6 +23515,10 @@
     "title": "Flower of Scotland",
     "url": "/wiki/entities/flowerofscotland/"
   },
+  "FluorideRiskBenefitBoundary": {
+    "title": "Fluoride Risk-Benefit Boundary",
+    "url": "/wiki/concepts/fluorideriskbenefitboundary/"
+  },
   "Flurry": {
     "title": "Flurry",
     "url": "/wiki/entities/flurry/"
@@ -47015,6 +47019,10 @@
     "title": "Oracle-Bone Divination / 甲骨占卜",
     "url": "/wiki/concepts/oraclebonedivination/"
   },
+  "OralAirwayDevelopment": {
+    "title": "Oral-Airway Development",
+    "url": "/wiki/concepts/oralairwaydevelopment/"
+  },
   "OralContraceptiveInformedConsent": {
     "title": "Oral Contraceptive Informed Consent",
     "url": "/wiki/concepts/oralcontraceptiveinformedconsent/"
@@ -47030,6 +47038,10 @@
   "OralHistoryMemoryAnalysis": {
     "title": "口述记忆分析 / Oral History Memory Analysis",
     "url": "/wiki/concepts/oralhistorymemoryanalysis/"
+  },
+  "OralMicrobiomePreventiveCare": {
+    "title": "Oral Microbiome Preventive Care",
+    "url": "/wiki/concepts/oralmicrobiomepreventivecare/"
   },
   "OralMythMagicalRealismSource": {
     "title": "Oral Myth As Magical Realism Source",
@@ -48558,6 +48570,10 @@
   "PeriodPoverty": {
     "title": "Period Poverty",
     "url": "/wiki/concepts/periodpoverty/"
+  },
+  "PeriodontalSystemicHealthBoundary": {
+    "title": "Periodontal-Systemic Health Evidence Boundary",
+    "url": "/wiki/concepts/periodontalsystemichealthboundary/"
   },
   "PerioperativeAnesthesiaSafety": {
     "title": "Perioperative Anesthesia Safety / 麻醉围手术期安全",
@@ -59607,6 +59623,10 @@
     "title": "Stacey Pettijohn",
     "url": "/wiki/entities/staceypettijohn/"
   },
+  "StaciWhitman": {
+    "title": "Staci Whitman",
+    "url": "/wiki/entities/staciwhitman/"
+  },
   "StacySchiff": {
     "title": "Stacy Schiff / 斯泰西·西夫",
     "url": "/wiki/entities/stacyschiff/"
@@ -64082,6 +64102,10 @@
   "ToolRationalitySpillover": {
     "title": "Tool Rationality Spillover",
     "url": "/wiki/concepts/toolrationalityspillover/"
+  },
+  "ToothDemineralizationRemineralization": {
+    "title": "Tooth Demineralization and Remineralization",
+    "url": "/wiki/concepts/toothdemineralizationremineralization/"
   },
   "TopDownExemplarGovernance": {
     "title": "上行下效式政风治理 / Top-Down Exemplar Governance",
@@ -76282,6 +76306,10 @@
   "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002": {
     "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
     "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+  },
+  "how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849": {
+    "title": "How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman",
+    "url": "/wiki/sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849/"
   },
   "how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582": {
     "title": "How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman",

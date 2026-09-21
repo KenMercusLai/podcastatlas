@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman
+
+Added source `how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849`; created `StaciWhitman`, `OralMicrobiomePreventiveCare`, `ToothDemineralizationRemineralization`, `OralAirwayDevelopment`, `PeriodontalSystemicHealthBoundary`, and `FluorideRiskBenefitBoundary`; and updated the index. Core synthesis: durable oral prevention combines mechanical biofilm disruption, saliva support, less frequent acid exposure, gentle product use, and airway-aware assessment, while systemic-disease associations, microbiome tests, fluoride policy, and emerging procedures require explicit evidence and clinical boundaries. No settled contradiction found; the source's Staci/Stacey spelling mismatch is normalized to the title, and numerical risks, mouth-taping, fluoride, ozone, oil pulling, probiotics, testing, red light, peptides, exosomes, dental materials, and tongue-tie claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-21] ingest | Essentials: How to Learn Skills Faster
 
 Added source `essentials-how-to-learn-skills-faster-scim2224786015`; created `MotorSkillRepetitionDensity`, `StageMatchedMotorSkillPractice`, and `PostPracticeMotorConsolidation`; updated `AndrewHuberman`, `HubermanLab`, `Neuroplasticity`, `DesirableDifficulty`, `MemoryConsolidationWindows`, and index. Core synthesis: early motor learning benefits from many safe, feedback-rich attempts; errors help only when they remain correctable and preserve persistence; slow practice, metronomes, narrow attentional targets, and visualization should be matched to proficiency; and brief quiet wakefulness plus sleep may support consolidation. No settled contradiction found; the feedback experiment, winner-effect studies, replay mechanism, slow-practice thresholds, metronome effect, and caffeine or Alpha GPC claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21084,6 +21088,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | VOL.157最头疼的问题就是头疼 ft.大物是也·斑马酱
 
 Added source `vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio`; created `BanmaJiangMedicalGuest`, `MigraineRecognitionAndTriage`, `MigraineTriggerDiaryManagement`, `MigraineMedicationChoice`, and `MigraineNeuromodulationEvidenceBoundary`; updated `XueDoctorZheBing`, `Atang`, `ZheBingShuoLaiHuaChang`, and the index. Core synthesis: migraine is a recurring disabling clinical pattern rather than a synonym for one-sided pain; safe management combines secondary-cause triage, individualized trigger records, appropriate established or newer medication, and caution about exploratory neuromodulation. No settled contradiction found; aura complications, imaging, hormone associations, medication comparisons, pregnancy or lactation choices, CGRP claims, and stimulation targets remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

@@ -2647,8 +2647,10 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
 - [How to Find & Be a Great Romantic Partner | Lori Gottlieb](sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639.md) — Huberman Lab interview on emotional regulation, familiar relationship patterns, partner selection, conflict repair, breakups, grief, and intentional living.
+- [How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman](sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849.md) — Huberman Lab interview on oral microbial ecology, saliva, tooth mineral balance, airway development, periodontal-systemic evidence, and fluoride risk-benefit questions.
 
 ## Entities
+- [Staci Whitman](entities/StaciWhitman.md) — Dentist presenting an ecosystem-centered preventive framework for oral health, tooth mineral balance, airway function, and qualified whole-body links.
 - [Godwin, Earl of Wessex](entities/GodwinEarlOfWessex.md) — Cnut-era political survivor whose royal bargain and family expansion make the Godwins England's dominant pre-1066 house.
 - [Edith of Wessex](entities/EdithOfWessex.md) — Educated queen whose childless marriage, removal, restoration, and likely source patronage connect court faction to the succession crisis.
 - [Olaf II of Norway](entities/OlafIIOfNorway.md) — Christian Norwegian king whose defeat and later martyr cult make Stiklestad both a dynastic rupture and the opening of Harald Hardrada's exile.
@@ -20860,5 +20862,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Movement Thermogenesis](concepts/MovementThermogenesis.md) — Non-exercise expenditure from fidgeting, standing, pacing, walking, and other ordinary low-level movement.
 - [Cold and Shivering Thermogenesis](concepts/ColdShiveringThermogenesis.md) — Shivering-centered heat-production frame with cold-shock, cardiac, and long-term-efficacy limits.
 - [Exercise Fat-Oxidation Sequencing](concepts/ExerciseFatOxidationSequencing.md) — Source-scoped hypothesis connecting fasting, session duration, and intense-before-zone-two exercise to substrate use.
+- [Oral Microbiome Preventive Care](concepts/OralMicrobiomePreventiveCare.md) — Ecosystem-centered care combining biofilm disruption, saliva support, eating-pattern changes, symptom investigation, and restrained antimicrobial use.
+- [Tooth Demineralization and Remineralization](concepts/ToothDemineralizationRemineralization.md) — Acid, saliva, mineral, exposure-frequency, and lesion-stage model distinguishing potentially reversible mineral loss from established cavities.
+- [Oral-Airway Development](concepts/OralAirwayDevelopment.md) — Interaction among nasal breathing, chewing, tongue function, craniofacial growth, obstruction, and sleep across childhood and adulthood.
+- [Periodontal-Systemic Health Evidence Boundary](concepts/PeriodontalSystemicHealthBoundary.md) — Boundary separating serious gum disease and plausible systemic pathways from individualized causal claims about distant disease.
+- [Fluoride Risk-Benefit Boundary](concepts/FluorideRiskBenefitBoundary.md) — Framework separating topical anticaries action, dose and route, cumulative exposure, alternatives, adverse-effect evidence, and water policy.
 
 ## Syntheses
