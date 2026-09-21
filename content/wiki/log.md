@@ -21174,3 +21174,11 @@ Added source `547-the-french-revolution-the-execution-of-the-king-part-4-glt2184
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse
+
+Added source `improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463`; created `JohnKruse`, `ADHDAttentionControlModel`, `ADHDExternalStructureAndTiming`, and `ADHDTreatmentSelectionBoundary`; updated `ADHDSelfDiagnosisBoundary` and the index. Core synthesis: ADHD is a developmental, cross-setting impairment in attention and executive control whose expression can change with structure, sleep, meals, movement, and distraction environment, while medication and adjunct choices require individualized psychiatric and medical risk-benefit assessment. No settled contradiction found; symptom thresholds, heritability, mortality, efficacy, psychosis, addiction, cardiovascular, supplement, substance, exercise, light, and other quantitative or mechanistic claims remain source-scoped public education. The transcript-body surname “Cruz” is normalized to metadata-title “John Kruse” without creating a duplicate identity. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

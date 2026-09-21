@@ -2659,6 +2659,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman](sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849.md) — Huberman Lab interview on oral microbial ecology, saliva, tooth mineral balance, airway development, periodontal-systemic evidence, and fluoride risk-benefit questions.
 
 - [Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634.md) — Huberman Lab episode on cortisol and epinephrine timing, morning light, deliberate arousal, acute immune signaling, chronic-stress costs, and recovery boundaries.
+- [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
 
 ## Entities
 - [Louis XVI](entities/LouisXVI.md) — Deposed Bourbon king whose trial, de-royalization, execution, and contested afterlife became a test of republican legitimacy.
@@ -13111,6 +13112,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 - [AppLovin](entities/AppLovin.md) — Advertising-technology company using mobile-game inventory, recommendation models, and measurable performance to pursue broader commerce discovery.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
+- [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 
 ## Concepts
 - [De-Royalization Ritual](concepts/DeRoyalizationRitual.md) — Public removal of monarchical exception through names, etiquette, criminal procedure, execution, space, and burial.
@@ -20922,5 +20924,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fluoride Risk-Benefit Boundary](concepts/FluorideRiskBenefitBoundary.md) — Framework separating topical anticaries action, dose and route, cumulative exposure, alternatives, adverse-effect evidence, and water policy.
 
 - [Acute Stress Immune Priming](concepts/AcuteStressImmunePriming.md) — Source-scoped distinction between brief sympathetic immune mobilization and chronic stress-related immune dysregulation.
+- [ADHD Attention-Control Model](concepts/ADHDAttentionControlModel.md) — Model of ADHD as difficulty directing, sustaining, and shifting attention, allowing distractibility and hyperfocus to coexist.
+- [ADHD External Structure and Timing](concepts/ADHDExternalStructureAndTiming.md) — Scheduling, sleep, meals, movement, CBT, and distraction-design framework for reducing executive load.
+- [ADHD Treatment-Selection Boundary](concepts/ADHDTreatmentSelectionBoundary.md) — Shared risk-benefit framework for stimulant, non-stimulant, behavioral, substance, and supplement choices.
 
 ## Syntheses

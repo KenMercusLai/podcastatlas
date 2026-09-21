@@ -1719,6 +1719,14 @@
     "title": "ADC Engineering Optimization",
     "url": "/wiki/concepts/adcengineeringoptimization/"
   },
+  "ADHDAttentionControlModel": {
+    "title": "ADHD Attention-Control Model",
+    "url": "/wiki/concepts/adhdattentioncontrolmodel/"
+  },
+  "ADHDExternalStructureAndTiming": {
+    "title": "ADHD External Structure and Timing",
+    "url": "/wiki/concepts/adhdexternalstructureandtiming/"
+  },
   "ADHDHyperfocusAIWorkflow": {
     "title": "ADHD Hyperfocus AI Workflow",
     "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
@@ -1726,6 +1734,10 @@
   "ADHDSelfDiagnosisBoundary": {
     "title": "ADHD Self-Diagnosis Boundary / ADHD 自诊边界",
     "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
+  },
+  "ADHDTreatmentSelectionBoundary": {
+    "title": "ADHD Treatment-Selection Boundary",
+    "url": "/wiki/concepts/adhdtreatmentselectionboundary/"
   },
   "ADNOC": {
     "title": "ADNOC",
@@ -34478,6 +34490,10 @@
   "JohnKipling": {
     "title": "John Kipling",
     "url": "/wiki/entities/johnkipling/"
+  },
+  "JohnKruse": {
+    "title": "John Kruse",
+    "url": "/wiki/entities/johnkruse/"
   },
   "JohnLasseter": {
     "title": "John Lasseter",
@@ -76554,6 +76570,10 @@
   "i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015": {
     "title": "I, robot? AI and consciousness",
     "url": "/wiki/sources/i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015/"
+  },
+  "improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463": {
+    "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
+    "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
   },
   "improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956": {
     "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",

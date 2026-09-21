@@ -203,6 +203,38 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/acrcloud/"
     },
+    "ADHDAttentionControlModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4112569463 [SCIM4112569463].md",
+          "key": "improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463",
+          "show": "Huberman Lab",
+          "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
+          "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/adhdattentioncontrolmodel/"
+    },
+    "ADHDExternalStructureAndTiming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4112569463 [SCIM4112569463].md",
+          "key": "improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463",
+          "show": "Huberman Lab",
+          "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
+          "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/adhdexternalstructureandtiming/"
+    },
     "ADHDHyperfocusAIWorkflow": {
       "episode_count": 1,
       "show_count": 1,
@@ -220,9 +252,9 @@
       "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
     },
     "ADHDSelfDiagnosisBoundary": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -244,10 +276,33 @@
           "show": "罗永浩的十字路口",
           "title": "罗永浩的X字路口！“精神病”失控大乱斗，强迫症、ADHD、攻击型人格障碍.......",
           "url": "/wiki/sources/lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg/"
+        },
+        {
+          "episode_file": "SCIM4112569463 [SCIM4112569463].md",
+          "key": "improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463",
+          "show": "Huberman Lab",
+          "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
+          "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
+    },
+    "ADHDTreatmentSelectionBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4112569463 [SCIM4112569463].md",
+          "key": "improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463",
+          "show": "Huberman Lab",
+          "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
+          "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/adhdtreatmentselectionboundary/"
     },
     "AFCChampionsLeague": {
       "episode_count": 2,
@@ -65356,6 +65411,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/johnkipling/"
+    },
+    "JohnKruse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4112569463 [SCIM4112569463].md",
+          "key": "improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463",
+          "show": "Huberman Lab",
+          "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
+          "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/johnkruse/"
     },
     "JohnMcCarthy": {
       "episode_count": 1,

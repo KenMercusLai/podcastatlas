@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7802
+wiki_total_pages: 7805
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -203,12 +203,21 @@ wiki_pages:
   - key: "AdditiveBias"
     title: "Additive Bias"
     url: "/wiki/concepts/additivebias/"
+  - key: "ADHDAttentionControlModel"
+    title: "ADHD Attention-Control Model"
+    url: "/wiki/concepts/adhdattentioncontrolmodel/"
+  - key: "ADHDExternalStructureAndTiming"
+    title: "ADHD External Structure and Timing"
+    url: "/wiki/concepts/adhdexternalstructureandtiming/"
   - key: "ADHDHyperfocusAIWorkflow"
     title: "ADHD Hyperfocus AI Workflow"
     url: "/wiki/concepts/adhdhyperfocusaiworkflow/"
   - key: "ADHDSelfDiagnosisBoundary"
     title: "ADHD Self-Diagnosis Boundary / ADHD 自诊边界"
     url: "/wiki/concepts/adhdselfdiagnosisboundary/"
+  - key: "ADHDTreatmentSelectionBoundary"
+    title: "ADHD Treatment-Selection Boundary"
+    url: "/wiki/concepts/adhdtreatmentselectionboundary/"
   - key: "AdlerianTeleology"
     title: "Adlerian Teleology"
     url: "/wiki/concepts/adlerianteleology/"
