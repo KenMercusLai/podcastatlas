@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3108
+topic_total_pages: 3109
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1069,6 +1069,9 @@ topic_concepts:
   - key: "AirportApprovalAirspaceConstraint"
     title: "Airport Approval Airspace Constraint / 机场审批与空域约束"
     url: "/wiki/concepts/airportapprovalairspaceconstraint/"
+  - key: "AIAssistedPoetryCloseReading"
+    title: "AI辅助诗歌细读 / AI-Assisted Poetry Close Reading"
+    url: "/wiki/concepts/aiassistedpoetryclosereading/"
   - key: "AlgorithmAversion"
     title: "Algorithm Aversion"
     url: "/wiki/concepts/algorithmaversion/"

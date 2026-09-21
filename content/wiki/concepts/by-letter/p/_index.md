@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7736
+wiki_total_pages: 7744
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2123,6 +2123,15 @@ wiki_pages:
   - key: "PowerRetentionSelfJustification"
     title: "自辩式保权 / Power-Retention Self-Justification"
     url: "/wiki/concepts/powerretentionselfjustification/"
+  - key: "PoeticLanguageAgainstPublicNoise"
+    title: "诗性语言对抗人言喧嚣 / Poetic Language Against Public Noise"
+    url: "/wiki/concepts/poeticlanguageagainstpublicnoise/"
+  - key: "PoetryAsSpiritualAwakening"
+    title: "诗歌作为灵性觉醒 / Poetry As Spiritual Awakening"
+    url: "/wiki/concepts/poetryasspiritualawakening/"
+  - key: "PoetryTranslationSoundGap"
+    title: "诗歌翻译的声音缺口 / Poetry Translation Sound Gap"
+    url: "/wiki/concepts/poetrytranslationsoundgap/"
   - key: "PovertyMemoryCorruptionExcuse"
     title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
     url: "/wiki/concepts/povertymemorycorruptionexcuse/"

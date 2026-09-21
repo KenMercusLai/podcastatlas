@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10408
+wiki_total_pages: 10411
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1304,6 +1304,9 @@ wiki_pages:
   - key: "LadyBianCaoCao"
     title: "卞夫人 / Lady Bian (Cao Cao)"
     url: "/wiki/entities/ladybiancaocao/"
+  - key: "LouAndreasSalome"
+    title: "卢·安德烈亚斯-莎乐美 / Lou Andreas-Salomé"
+    url: "/wiki/entities/louandreassalome/"
   - key: "LuZhiLateHan"
     title: "卢植 / Lu Zhi (late Han)"
     url: "/wiki/entities/luzhilatehan/"

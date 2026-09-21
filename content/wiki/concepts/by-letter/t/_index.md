@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7736
+wiki_total_pages: 7744
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "TerritorialRewardMobilization"
     title: "Territorial Reward Mobilization / 许地会师式动员"
     url: "/wiki/concepts/territorialrewardmobilization/"
+  - key: "TestInterveneRetestLoop"
+    title: "Test-Intervene-Retest Loop"
+    url: "/wiki/concepts/testinterveneretestloop/"
   - key: "TestTimeScaling"
     title: "Test-Time Scaling"
     url: "/wiki/concepts/testtimescaling/"

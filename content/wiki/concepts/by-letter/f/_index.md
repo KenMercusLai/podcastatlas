@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7736
+wiki_total_pages: 7744
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "FoodAnimalWelfare"
     title: "Food Animal Welfare"
     url: "/wiki/concepts/foodanimalwelfare/"
+  - key: "FoodAsMultiSystemIntervention"
+    title: "Food As Multi-System Intervention"
+    url: "/wiki/concepts/foodasmultisystemintervention/"
   - key: "FoodCulturalBias"
     title: "Food Cultural Bias"
     url: "/wiki/concepts/foodculturalbias/"
@@ -1172,6 +1175,9 @@ wiki_pages:
   - key: "FunctionalLongevityTraining"
     title: "Functional Longevity Training"
     url: "/wiki/concepts/functionallongevitytraining/"
+  - key: "FunctionalMedicineSystemsModel"
+    title: "Functional Medicine Systems Model"
+    url: "/wiki/concepts/functionalmedicinesystemsmodel/"
   - key: "FundAdvisoryFeeTransparency"
     title: "Fund Advisory Fee Transparency / 基金投顾费率透明"
     url: "/wiki/concepts/fundadvisoryfeetransparency/"

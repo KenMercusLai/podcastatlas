@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "SCIM5641095924 [SCIM5641095924].md",
-      "source_note_count": 65,
+      "source_note_count": 66,
       "topic_matched_source_note_count": 48,
       "topics": [
         {
@@ -793,8 +793,8 @@
       "earliest_episode_date": "2025-12-20",
       "latest_episode_date": "2026-09-19",
       "latest_episode_file": "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻 [lkKydMjftqA-FJhG2UAYm_8TEINQ].md",
-      "source_note_count": 48,
-      "topic_matched_source_note_count": 32,
+      "source_note_count": 49,
+      "topic_matched_source_note_count": 33,
       "topics": [
         {
           "key": "technology",
@@ -806,7 +806,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "science",
@@ -881,9 +881,9 @@
       ],
       "start_here_episode_files": [
         "EP281对话吴镇宇：困在创伤里的我们，决定重新找回自己 [lvvREaPOyKpJ5XtLRyAAupU1Xo7r].md",
+        "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻 [lkKydMjftqA-FJhG2UAYm_8TEINQ].md",
         "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
-        "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md",
-        "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻 [lkKydMjftqA-FJhG2UAYm_8TEINQ].md"
+        "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md"
       ]
     },
     "The Rest Is History": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10408
+wiki_total_pages: 10411
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -320,6 +320,9 @@ wiki_pages:
   - key: "MarkGraham"
     title: "Mark Graham"
     url: "/wiki/entities/markgraham/"
+  - key: "MarkHyman"
+    title: "Mark Hyman"
+    url: "/wiki/entities/markhyman/"
   - key: "MarkJohnson"
     title: "Mark Johnson"
     url: "/wiki/entities/markjohnson/"
@@ -1631,15 +1634,15 @@ wiki_pages:
   - key: "MangdangMountain"
     title: "芒砀山 / Mangdang Mountain"
     url: "/wiki/entities/mangdangmountain/"
-  - key: "MiaoWeiSanlian"
-    title: "苗伟 / Miao Wei"
-    url: "/wiki/entities/miaoweisanlian/"
   - key: "MiaoGuangLateHan"
     title: "苗光 / Miao Guang (late Han)"
     url: "/wiki/entities/miaoguanglatehan/"
   - key: "MiaoQian"
     title: "苗千 / Miao Qian"
     url: "/wiki/entities/miaoqian/"
+  - key: "MiaoWeiSanlian"
+    title: "苗炜 / Miao Wei"
+    url: "/wiki/entities/miaoweisanlian/"
   - key: "MaoYisheng"
     title: "茅以升 / Mao Yisheng"
     url: "/wiki/entities/maoyisheng/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7736
+wiki_total_pages: 7744
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1538,6 +1538,9 @@ wiki_pages:
   - key: "AirportRouteSubsidyUrbanBranding"
     title: "Airport Route Subsidy Urban Branding / 航线补贴与城市国际化"
     url: "/wiki/concepts/airportroutesubsidyurbanbranding/"
+  - key: "AIAssistedPoetryCloseReading"
+    title: "AI辅助诗歌细读 / AI-Assisted Poetry Close Reading"
+    url: "/wiki/concepts/aiassistedpoetryclosereading/"
   - key: "AkutagawaSalvationProblem"
     title: "Akutagawa Salvation Problem / 芥川式救赎问题"
     url: "/wiki/concepts/akutagawasalvationproblem/"
@@ -2483,6 +2486,9 @@ wiki_pages:
   - key: "AllianceContingencyHedging"
     title: "联盟不确定性下的退路预留 / Alliance Contingency Hedging"
     url: "/wiki/concepts/alliancecontingencyhedging/"
+  - key: "ArtisticCreationBeyondBiography"
+    title: "艺术创造不可还原为传记 / Artistic Creation Beyond Biography"
+    url: "/wiki/concepts/artisticcreationbeyondbiography/"
   - key: "ActionBackedAntiCorruptionPersuasion"
     title: "行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion"
     url: "/wiki/concepts/actionbackedanticorruptionpersuasion/"

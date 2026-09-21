@@ -20572,6 +20572,10 @@ Added source `2b2e96d8aea7-2b2e96d8aea7`; created `CoCom`, `WassenaarArrangement
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-21] ingest | EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻
+
+Added source `ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq`; created `RainerMariaRilke`, `LouAndreasSalome`, `PoetryAsSpiritualAwakening`, `AIAssistedPoetryCloseReading`, `PoetryTranslationSoundGap`, `ArtisticCreationBeyondBiography`, and `PoeticLanguageAgainstPublicNoise`; migrated and updated `MiaoWeiSanlian`; normalized the recurring guest's display name from 苗伟 to 苗炜; and updated the index. Core synthesis: poetry can become intelligible only when life supplies grief, fear, or spiritual recognition; translation and silent reading leave formal and sonic gaps that recitation, original-language study, and carefully judged AI assistance can expose; and biography illuminates but does not exhaust artistic creation or cancel moral accountability. No settled contradiction found; the episode's spiritual, gendered, psychological, and patronage claims remain interpretive and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-21] ingest | Islamism in Britain: what is the threat?
 
 Added source `islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a`; created `SonnyLoughran`, `ShiraAviona`, `PreventProgramme`, `Islamism`, `IslamIslamismConflation`, `IslamistEntryism`, `TransferPricing`, and `CorporateTrainingComplianceRitual`; and migrated and updated `AndrewPalmer`, `CocaCola`, `InternalRevenueService`, and `TaxEnforcementCapacity`. Core synthesis: distinguishing Islam from Islamism is necessary both to oppose anti-Muslim bigotry and to identify non-violent ideological influence without treating ordinary Muslim participation as entryism; the Coca-Cola dispute shows how intangible value, litigation duration, and resource asymmetry shape transfer-pricing enforcement; and completion-first corporate training can satisfy compliance without producing durable learning. No settled contradiction found; polling, representation, PREVENT, MI5, Sharia-council, litigation, and monetary claims remain source-scoped.
@@ -20964,6 +20968,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？
 
 Added source `zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6`; created `CaoChongLateHan` and `BingYuanLateHan`; migrated and updated `CaoPi` and `MarriageRitualOrthodoxy`; updated `HeQiLateHan`, `BattlefieldFeintAndLure`, and index. Core synthesis: Cao Chong's death exposes a qualified potential-succession counterfactual rather than a formal heirship; Bing Yuan shows that grief and power do not override marriage ritual, while Cao Cao's withdrawal makes the refusal an accepted correction; He Qi turns reconnaissance, frontal attention-fixing, and a concealed cliff ascent into victory, then into Xindu administration. No settled contradiction found; illness and cure claims, formal-heir status, exact dialogue, posthumous-marriage details, force counts, terrain mechanics, place readings, and administrative chronology remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman
+
+Added source `how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582`; created `MarkHyman`, `FunctionalMedicineSystemsModel`, `FoodAsMultiSystemIntervention`, and `TestInterveneRetestLoop`; updated the index. Core synthesis: functional medicine is most useful here as a revisable systems hypothesis connecting interacting biological and environmental inputs, food and lifestyle can affect several systems at once without replacing necessary care, and individualized baselines plus retesting can identify benefit or harm. No settled contradiction found; elimination-diet cases, policy history, detoxification, advanced screening, peptides, ketogenic disease treatment, NAD/NMN, exosomes, and stem-cell claims remain source-scoped and evidence-bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-21] lint | Wiki health check
 

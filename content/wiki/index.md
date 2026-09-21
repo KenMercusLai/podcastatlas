@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman](sources/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582.md) — Huberman Lab interview on functional medicine as systems biology, food and lifestyle as multi-system inputs, individualized retesting, and evidence-bounded advanced interventions.
 - [《资治通鉴·汉纪》1111丨曹操最痛的一年：儿子夭折，求联姻挨怼？](sources/zizhi-tongjian-hanji-1111-caocao-zui-tong-de-yinian-erzi-yaozhe-qiu-lianyin-ai-dui-lr5tvu8-kti41ezapvq2vz2wfjh6.md) — 曹冲早夭暴露曹氏诸子的继承竞争，邴原以礼法拒绝冥婚，贺齐则以长期侦察、正面佯动和夜攀绝壁攻破险寨并推动新都郡建置。
 - [《资治通鉴·汉纪》1112丨被低估的曹魏名将，战场上有多猛？](sources/zizhi-tongjian-hanji-1112-bei-digu-de-caowei-mingjiang-zhanchang-shang-you-duo-meng-lkqecaphucolkdcsutsvjyxounln.md) — 蒋济以伪造并故意泄露的“四万援军”消息解合肥之围，曹仁则冒险冲阵救出牛金，以直接救援和可见承诺恢复江陵守军士气。
 - [《资治通鉴·汉纪》1113丨刘备娶孙权妹妹，过程中有多卑微？](sources/zizhi-tongjian-hanji-1113-liubei-qu-sunquan-meimei-guocheng-zhong-you-duo-beiwei-lqvpwr7tkvzlg2o3-m46srk98cnm.md) — 赤壁战后刘备以公安为有限立足点，孙权以妹妹联姻维持必要但互疑的联盟；蒋干游说周瑜失败则显示长期信任与组织嵌入对短期利诱的抵抗。
@@ -667,6 +668,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》1064丨许攸之死：功高震主与性格缺陷的悲歌](sources/zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth.md) — 芮淇讲透资治通鉴 episode on Qian Zhao's submission, Cui Yan's people-first remonstrance, and Xu You's death after public credit overreach toward Cao Cao.
 - [EP282 不完美的共存：当“野生动物”成为城市“新居民”](sources/ep282-bu-wanmei-de-gongcun-dang-yesheng-dongwu-chengwei-chengshi-xin-jumin-lg31-8lajmed4k4mhg5iz7hh8r1a.md) — Talk三联 episode on urban wildlife coexistence, feeding feedback loops, Qianling Mountain macaques, Nanjing wild boars, Shanghai raccoon dogs, city planning, animal welfare, and public-health risk.
 - [EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局](sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup.md) — Talk三联 episode on social jetlag, body rhythm, light exposure, late screens, adolescent school schedules, meal and bowel timing, sleep tracking anxiety, caffeine, exercise timing, and bedtime transition.
+- [EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻](sources/ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq.md) — Talk三联 conversation with Miao Wei on Rilke, life-timed poetic understanding, spiritual awakening, translation and recitation, AI-assisted German close reading, and the boundary between artistic creation and biography.
 - [《资治通鉴·汉纪》1068丨袁绍去世后，曹操是如何消灭袁谭的？](sources/zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o.md) — 芮淇讲透资治通鉴 episode on Sun Shao inheriting Sun He's troops, Cao Chun urging a quick Nanpi assault, Yuan Tan's death, Li Fu's city pacification, and Guo Tu's execution.
 - [《资治通鉴·汉纪》1069丨陈琳讨曹檄文名震天下，为何最终投降曹操？](sources/zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf.md) — 芮淇讲透资治通鉴 episode on Wang Xiu burying Yuan Tan, protecting Guan Tong, Cao Cao recruiting former Yuan-side talent, and Chen Lin's pardon after the anti-Cao proclamation.
 - [《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操](sources/zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o.md) — 芮淇讲透资治通鉴 episode on Jiao Chu's coerced Cao-side surrender, Han Heng's loyal refusal, Zhang Yan's formal submission, Youzhou/Wuhuan disorder, Gao Gan's renewed rebellion, and Du Ji's Hedong appointment.
@@ -2634,6 +2636,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi, AppLovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market](sources/all-in-with-chamath-jason-sacks-friedberg-adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-1-0-the-50b-game-ad-market-42967913.md) — All-In interview on AppLovin's discovery-advertising strategy, machine-learning feedback loop, data cold start, 92% drawdown, buybacks, employee alignment, privacy, automation, and agentic commerce.
 
 ## Entities
+- [Mark Hyman](entities/MarkHyman.md) — Physician and functional-medicine advocate using systems-level hypotheses, foundations-first care, and individualized measurement.
 - [曹冲 / Cao Chong (late Han)](entities/CaoChongLateHan.md) — 曹操宠爱的早慧幼子，其十三岁早夭既引发丧子之痛，也改变了曹氏诸子的潜在继承格局。
 - [邴原 / Bing Yuan (late Han)](entities/BingYuanLateHan.md) — 以礼法和操守一致性拒绝曹操冥婚请求，并促使曹操撤回这一悲痛驱动的例外安排。
 - [孙夫人 / Lady Sun (wife of Liu Bei)](entities/LadySunLiuBei.md) — Sun Quan's historically unnamed sister whose marriage to Liu Bei reinforces a necessary but mistrustful post-Red-Cliffs alliance.
@@ -8063,7 +8066,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [龙羊峡 / Longyangxia](entities/Longyangxia.md) — Highland cold-water trout case in EP260 where reservoir conditions, parasite testing, feed, and fast logistics support domestic rainbow trout.
 - [安徽 / Anhui](entities/Anhui.md) — Province linked to both foie gras production networks and Banlatte's Huizhou-to-Hefei industrial-policy arc.
 - [徐光启 / Xu Guangqi](entities/XuGuangqi.md) — Late-Ming official and learner who anchors EP259's geometry, agriculture, calendar reform, artillery, and intellectual-life branches.
-- [苗伟 / Miao Wei](entities/MiaoWeiSanlian.md) — Sanlian writer and EP259 guest explaining Xu Guangqi as a model of active intellectual life and science-history communication.
+- [苗炜 / Miao Wei](entities/MiaoWeiSanlian.md) — Sanlian writer whose EP259 and EP284 reporting connects science history and poetry to intellectual life, mortality, translation, and attentive reading.
+- [莱纳·玛利亚·里尔克 / Rainer Maria Rilke](entities/RainerMariaRilke.md) — German-language poet approached in EP284 through fear, mortality, spiritual awakening, relationships, formal attention, and the limits of biographical reduction.
+- [卢·安德烈亚斯-莎乐美 / Lou Andreas-Salomé](entities/LouAndreasSalome.md) — Writer and intellectual presented in EP284 as Rilke's formative intimate, guide, and durable correspondent.
 - [利玛窦 / Matteo Ricci](entities/MatteoRicci.md) — Jesuit missionary whose maps, geometry teaching, and elite strategy make late-Ming Western learning concrete in EP259.
 - [李之藻 / Li Zhizao](entities/LiZhizao.md) — Late-Ming literatus used in EP259 as a second example of active learning from Western mathematical and technical knowledge.
 - [汤若望 / Johann Adam Schall von Bell](entities/JohannAdamSchallVonBell.md) — Jesuit calendar expert linking 崇祯历书, Ming-Qing transition, Qing astronomy, and later anti-foreign controversy.
@@ -13051,6 +13056,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Functional Medicine Systems Model](concepts/FunctionalMedicineSystemsModel.md) — Multi-causal framework connecting chronic illness with interacting biological, environmental, behavioral, and social systems.
+- [Food As Multi-System Intervention](concepts/FoodAsMultiSystemIntervention.md) — Nutrition frame treating dietary patterns as simultaneous inputs to metabolism, appetite, inflammation, hormones, microbiome, and recovery.
+- [Test-Intervene-Retest Loop](concepts/TestInterveneRetestLoop.md) — Individualized loop for establishing a baseline, changing inputs, measuring outcomes, and revising decisions with risk boundaries.
+- [诗歌作为灵性觉醒 / Poetry As Spiritual Awakening](concepts/PoetryAsSpiritualAwakening.md) — Poetry's capacity to disclose a deeper self or renew language when life experience makes a poem newly intelligible.
+- [AI辅助诗歌细读 / AI-Assisted Poetry Close Reading](concepts/AIAssistedPoetryCloseReading.md) — Using AI for grammar, pronunciation, and patient questioning to slow original-language reading while retaining human interpretive judgment.
+- [诗歌翻译的声音缺口 / Poetry Translation Sound Gap](concepts/PoetryTranslationSoundGap.md) — The loss or transformation of syntax, rhythm, lineation, and bodily sound when poetry moves between languages.
+- [艺术创造不可还原为传记 / Artistic Creation Beyond Biography](concepts/ArtisticCreationBeyondBiography.md) — Boundary that preserves biography as context while recognizing irreducible formal invention and continuing moral accountability.
+- [诗性语言对抗人言喧嚣 / Poetic Language Against Public Noise](concepts/PoeticLanguageAgainstPublicNoise.md) — Poetic attention as resistance to labeling, performative cleverness, and the dulling effects of noisy public speech.
 - [虚构援军欺敌 / False Reinforcement Deception](concepts/FalseReinforcementDeception.md) — Making a nonexistent relief force credible through apparently discovered coordination so a besieger revises its risk estimate.
 - [主将冒险式士气信号 / Commander Risk Morale Signaling](concepts/CommanderRiskMoraleSignaling.md) — Conditional leadership pattern in which visible personal risk recovers troops and signals costly commitment without becoming a general rule of command.
 - [Political Marriage Alliance Hedging / 政治联姻式同盟对冲](concepts/PoliticalMarriageAllianceHedging.md) — Marriage tie used to stabilize cooperation with a necessary but mistrusted ally without resolving conflicting territorial interests.

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2764
+topic_total_pages: 2767
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2965,9 +2965,15 @@ topic_concepts:
   - key: "CowardlySacrificeWitness"
     title: "胆小鬼的献祭 / Cowardly Sacrifice As Witness"
     url: "/wiki/concepts/cowardlysacrificewitness/"
+  - key: "ArtisticCreationBeyondBiography"
+    title: "艺术创造不可还原为传记 / Artistic Creation Beyond Biography"
+    url: "/wiki/concepts/artisticcreationbeyondbiography/"
   - key: "XiangwangYouyiShennvWuxin"
     title: "襄王有意，神女无心 / Xiangwang Youyi, Shennv Wuxin"
     url: "/wiki/concepts/xiangwangyouyishennvwuxin/"
+  - key: "PoeticLanguageAgainstPublicNoise"
+    title: "诗性语言对抗人言喧嚣 / Poetic Language Against Public Noise"
+    url: "/wiki/concepts/poeticlanguageagainstpublicnoise/"
   - key: "UnspokenFeelingAsMystery"
     title: "说不出口的心事 / Unspoken Feeling As Mystery"
     url: "/wiki/concepts/unspokenfeelingasmystery/"
@@ -7920,6 +7926,9 @@ topic_sources:
   - key: "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup"
     title: "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局"
     url: "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+  - key: "ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq"
+    title: "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻"
+    url: "/wiki/sources/ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq/"
   - key: "ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf"
     title: "EP385-《我的前半生》翻红：从“寄生虫”到“独立女性”，罗子君的逆袭成立吗？"
     url: "/wiki/sources/ep385-wode-qianbansheng-fanhong-cong-jishengchong-dao-duli-nvxing-luozijun-de-nixi-chengli-ma-gkwridoobj-fai177wtqizmf/"

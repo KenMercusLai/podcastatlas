@@ -1855,6 +1855,10 @@
     "title": "AI-Assisted Malware Reverse Engineering",
     "url": "/wiki/concepts/aiassistedmalwarereverseengineering/"
   },
+  "AIAssistedPoetryCloseReading": {
+    "title": "AI辅助诗歌细读 / AI-Assisted Poetry Close Reading",
+    "url": "/wiki/concepts/aiassistedpoetryclosereading/"
+  },
   "AIAssistedReading": {
     "title": "AI-Assisted Reading",
     "url": "/wiki/concepts/aiassistedreading/"
@@ -6490,6 +6494,10 @@
   "ArtisticAchievementMoralAccountability": {
     "title": "Artistic Achievement Moral Accountability",
     "url": "/wiki/concepts/artisticachievementmoralaccountability/"
+  },
+  "ArtisticCreationBeyondBiography": {
+    "title": "艺术创造不可还原为传记 / Artistic Creation Beyond Biography",
+    "url": "/wiki/concepts/artisticcreationbeyondbiography/"
   },
   "ArtisticFeedbackBoundary": {
     "title": "Artistic Feedback Boundary",
@@ -23539,6 +23547,10 @@
     "title": "Food Animal Welfare",
     "url": "/wiki/concepts/foodanimalwelfare/"
   },
+  "FoodAsMultiSystemIntervention": {
+    "title": "Food As Multi-System Intervention",
+    "url": "/wiki/concepts/foodasmultisystemintervention/"
+  },
   "FoodCourtBrandIncubation": {
     "title": "Food-Court Brand Incubation / 美食广场品牌孵化",
     "url": "/wiki/concepts/foodcourtbrandincubation/"
@@ -24786,6 +24798,10 @@
   "FunctionalLongevityTraining": {
     "title": "Functional Longevity Training",
     "url": "/wiki/concepts/functionallongevitytraining/"
+  },
+  "FunctionalMedicineSystemsModel": {
+    "title": "Functional Medicine Systems Model",
+    "url": "/wiki/concepts/functionalmedicinesystemsmodel/"
   },
   "FundAdvisoryFeeTransparency": {
     "title": "Fund Advisory Fee Transparency / 基金投顾费率透明",
@@ -39383,6 +39399,10 @@
     "title": "Lotus Racing",
     "url": "/wiki/entities/lotusracing/"
   },
+  "LouAndreasSalome": {
+    "title": "卢·安德烈亚斯-莎乐美 / Lou Andreas-Salomé",
+    "url": "/wiki/entities/louandreassalome/"
+  },
   "LouChang": {
     "title": "娄昌 / Lou Chang",
     "url": "/wiki/entities/louchang/"
@@ -41123,6 +41143,10 @@
     "title": "Mark Graham",
     "url": "/wiki/entities/markgraham/"
   },
+  "MarkHyman": {
+    "title": "Mark Hyman",
+    "url": "/wiki/entities/markhyman/"
+  },
   "MarkJohnson": {
     "title": "Mark Johnson",
     "url": "/wiki/entities/markjohnson/"
@@ -42496,7 +42520,7 @@
     "url": "/wiki/entities/miaoshunittanwuyu/"
   },
   "MiaoWeiSanlian": {
-    "title": "苗伟 / Miao Wei",
+    "title": "苗炜 / Miao Wei",
     "url": "/wiki/entities/miaoweisanlian/"
   },
   "Miaoya": {
@@ -49363,6 +49387,10 @@
     "title": "The Poetic Edda / 诗体埃达",
     "url": "/wiki/entities/poeticedda/"
   },
+  "PoeticLanguageAgainstPublicNoise": {
+    "title": "诗性语言对抗人言喧嚣 / Poetic Language Against Public Noise",
+    "url": "/wiki/concepts/poeticlanguageagainstpublicnoise/"
+  },
   "PoeticWineCulture": {
     "title": "Poetic Wine Culture / 诗酒文化",
     "url": "/wiki/concepts/poeticwineculture/"
@@ -49383,9 +49411,17 @@
     "title": "Poetry As Political Evidence / 诗文作为政治证据",
     "url": "/wiki/concepts/poetryaspoliticalevidence/"
   },
+  "PoetryAsSpiritualAwakening": {
+    "title": "诗歌作为灵性觉醒 / Poetry As Spiritual Awakening",
+    "url": "/wiki/concepts/poetryasspiritualawakening/"
+  },
   "PoetryEducationAsPlay": {
     "title": "Poetry Education As Play",
     "url": "/wiki/concepts/poetryeducationasplay/"
+  },
+  "PoetryTranslationSoundGap": {
+    "title": "诗歌翻译的声音缺口 / Poetry Translation Sound Gap",
+    "url": "/wiki/concepts/poetrytranslationsoundgap/"
   },
   "PointingDeerAsHorse": {
     "title": "指鹿为马 / Pointing Deer As Horse",
@@ -52502,6 +52538,10 @@
   "RainbowTrout": {
     "title": "虹鳟 / Rainbow Trout",
     "url": "/wiki/entities/rainbowtrout/"
+  },
+  "RainerMariaRilke": {
+    "title": "莱纳·玛利亚·里尔克 / Rainer Maria Rilke",
+    "url": "/wiki/entities/rainermariarilke/"
   },
   "RaisedNutrition": {
     "title": "Raised Nutrition",
@@ -62442,6 +62482,10 @@
   "TeslaOptimus": {
     "title": "Tesla Optimus",
     "url": "/wiki/entities/teslaoptimus/"
+  },
+  "TestInterveneRetestLoop": {
+    "title": "Test-Intervene-Retest Loop",
+    "url": "/wiki/concepts/testinterveneretestloop/"
   },
   "TestTimeScaling": {
     "title": "Test-Time Scaling",
@@ -75579,6 +75623,10 @@
     "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
     "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
   },
+  "ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq": {
+    "title": "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻",
+    "url": "/wiki/sources/ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq/"
+  },
   "ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu": {
     "title": "EP34 当高情商和分寸感缺失，唯有钢铁意志撑场",
     "url": "/wiki/sources/ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu/"
@@ -76030,6 +76078,10 @@
   "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002": {
     "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
     "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+  },
+  "how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582": {
+    "title": "How to Improve Your Vitality & Heal From Disease | Dr. Mark Hyman",
+    "url": "/wiki/sources/how-to-improve-your-vitality-heal-from-disease-dr-mark-hyman-scim9845833582/"
   },
   "how-to-make-a-book-into-a-bestseller": {
     "title": "How to make a BOOK into a bestseller",
