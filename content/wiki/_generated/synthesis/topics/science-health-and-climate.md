@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-21
-as_of_overview_commit: 6d070d82cbff091e58f4fde37ddc0b8b438e594b
-input_digest: fb0d640f092aa66409b910f0da6c4b739f91314c9479fe05b1bd27cb93e0bdb0
+as_of_overview_commit: 26d6103a17457f14ef06cc89c51f3095d912e93a
+input_digest: 722592a786bbe7cf203742edfe771197027c400a817937df19390dd78991cc00
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch preserves uncertainty while arguing for independent root-cause inquiry and conflict safeguards. Nutrition findings remain comparator-, replacement-, adherence-, and endpoint-dependent. The sensory branches now span smell, taste, breathing, retinal light signaling, brain-based visual inference, circadian timing, and varied eye use while keeping performance effects, supplements, exercises, disease claims, and treatment decisions source-scoped or clinically bounded.
+Science, health, and climate sources converge on boundary-aware public literacy: mechanism, measurement, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches cover cellular metabolism, preventive longevity, anesthesia, urology, psychiatry, sleep timing, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness self-assessment, first aid, autism and gene-editing ethics, grief as attachment remapping, chemosensation, and visual health. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. The supplement evidence separates manufacturing and claim oversight from efficacy proof; fitness assessment converts broad goals into capacity-specific tests and severe-deficit anchors; and the COVID-origin branch preserves uncertainty while arguing for independent root-cause inquiry and conflict safeguards. Nutrition findings remain comparator-, replacement-, adherence-, food-form-, and endpoint-dependent: sustainable weight management preserves a balanced meal structure and reads diet-product claims through dose, substitution, and whole-diet context rather than deprivation or labels alone. The sensory branches span smell, taste, breathing, retinal light signaling, brain-based visual inference, circadian timing, and varied eye use while keeping performance effects, supplements, exercises, disease claims, and treatment decisions source-scoped or clinically bounded.
 
 ## Cross-source Findings
 
@@ -641,3 +641,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The evidence is one condensed public-neuroscience episode, not an ophthalmology guideline, eye examination, or individualized treatment plan.
 - Two-hour outdoor exposure, gaze-position alertness, distance viewing, smooth pursuit, accommodation practice, hallucination mechanisms, lutein, astaxanthin, and ocular-blood-flow claims remain source-scoped because study populations, effect sizes, methods, and contraindications are not supplied here.
 - Behavioral practices and supplements do not replace qualified assessment of disease, amblyopia, major binocular imbalance, eye pain, or sudden visual change.
+
+### Sustainable Weight Management Needs Balanced Structure And Label Context
+
+[[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5|VOL.160]] adds an early practical nutrition branch: [[LifestyleWeightManagement]], [[PracticalBalancedEating]], and [[EnergyBalanceAccounting]] keep staple carbohydrate, protein, vegetables, and dietary fat inside a sustainable meal while distinguishing a calorie deficit from chronic hunger and short-term water change; [[HealthCodedFoodLabelLiteracy]] and [[MealReplacementNutritionBoundary]] then require zero-sugar, non-fried, reduced-fat, liquid-meal, extract, and superfood claims to be judged through dose, food form, substitution target, and the whole diet.
+
+**Evidence:** [[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5]], [[LifestyleWeightManagement]], [[PracticalBalancedEating]], [[EnergyBalanceAccounting]], [[HealthCodedFoodLabelLiteracy]], [[MealReplacementNutritionBoundary]], [[Atang]], [[YueWanrou]], [[DaShiHua]], [[ZheBingShuoLaiHuaChang]]
+
+**Qualifications:**
+
+- The source is public nutrition education rather than an individualized obesity, diabetes, gastrointestinal, postoperative, menstrual, or sports-nutrition plan.
+- Macronutrient proportions, metabolic-adaptation language, white-bean extract efficacy, sweetener appetite effects, resistant-starch effects, dairy-fat advice, oil guidance, and serving quantities remain source-scoped.
+- The palm guide is a low-friction estimate, and an energy deficit should not be interpreted as a universal prescription for chronic hunger or aggressive restriction.

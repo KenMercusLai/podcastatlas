@@ -20788,3 +20788,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」
+
+Added source `vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5`; updated `LifestyleWeightManagement`, `PracticalBalancedEating`, `EnergyBalanceAccounting`, `HealthCodedFoodLabelLiteracy`, `MealReplacementNutritionBoundary`, `YueWanrou`, `DaShiHua`, overview, index, and downstream synthesis. Core synthesis: sustainable weight management keeps carbohydrates, protein, vegetables, and dietary fat in a practical meal structure, uses energy deficit without equating it with starvation, and judges zero-sugar, non-fried, reduced-fat, liquid-meal, supplement, and superfood claims in whole-diet context. No settled contradiction found; quantities, mechanisms, supplement effects, sweetener claims, resistant starch, dairy fat, and oil guidance remain source-scoped public nutrition education.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

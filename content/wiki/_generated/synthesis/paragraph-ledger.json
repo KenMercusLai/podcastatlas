@@ -679,12 +679,13 @@
       "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16",
       "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e",
       "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013",
-      "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71"
+      "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
+      "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c"
     ],
-    "paragraph_count": 679
+    "paragraph_count": 680
   },
-  "overview_commit": "cf5f24dec603a2956b291ac1688eca71278e0628",
-  "overview_digest": "fd8f313dbcc3ebb2023afc65e294b5992481d5834329b4b9faa38e73162cd3e7",
+  "overview_commit": "26d6103a17457f14ef06cc89c51f3095d912e93a",
+  "overview_digest": "3b7697932f58d3e410d5529569bc9361693be2a1f983818951ccf572decb8a94",
   "paragraphs": [
     {
       "id": "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
@@ -20418,6 +20419,29 @@
         "PediatricMyopiaControl",
         "VisualSystemHealthToolkit",
         "essentials-protocols-to-improve-vision-eyesight-scim1823781754"
+      ]
+    },
+    {
+      "id": "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5|VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[Atang|阿汤]] and [[YueWanrou|岳宛柔]] from [[DaShiHua|大食话]] on balanced weight management and nutrition marketing. It extends [[LifestyleWeightManagement]], [[PracticalBalancedEating]], [[EnergyBalanceAccounting]], [[HealthCodedFoodLabelLiteracy]], and [[MealReplacementNutritionBoundary]] by connecting retained staple foods and dietary fat, a palm-based meal guide, whole-food form, label reading, sodium-related water shifts, and contextual product use. Its core synthesis is that an energy deficit need not mean chronic hunger and that zero-sugar, non-fried, reduced-fat, liquid-meal, supplement, or superfood language cannot substitute for judging the whole diet. No settled contradiction is recorded; macronutrient proportions, metabolic adaptation, extract efficacy, sweetener appetite effects, resistant starch, dairy fat, oil use, and quantity guidance remain source-scoped public education rather than individualized nutrition or medical advice.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "Atang",
+        "DaShiHua",
+        "EnergyBalanceAccounting",
+        "HealthCodedFoodLabelLiteracy",
+        "LifestyleWeightManagement",
+        "MealReplacementNutritionBoundary",
+        "PracticalBalancedEating",
+        "YueWanrou",
+        "ZheBingShuoLaiHuaChang",
+        "vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5"
       ]
     }
   ],

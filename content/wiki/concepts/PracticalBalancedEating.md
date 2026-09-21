@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, nutrition, lifestyle, self-management]
 sources:
   - vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo
-last_updated: 2026-09-08
+  - vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,10 +21,12 @@ The practical architecture starts with a controllable breakfast. Xiaolong's brea
 
 The concept also keeps flexibility inside the system. Takeout can be improved by choosing standardized meals with meat, vegetables, and rice, adding fresh salad or fruit, noticing excessive saltiness, and eating protein and vegetables before staple foods. Alcohol, barbecue, dessert, and milk tea are not treated as moral failures; they are managed by portion size, frequency, replacement drinks, stopping at partial fullness, and ordinary activity or training.
 
+VOL.160 supplies a simpler entry point for people who do not want to calculate nutrients. Its palm guide combines roughly one palm of protein, one fist of staple carbohydrate, two fists of vegetables, and a thumb-sized amount of fat. The source also protects food form: fruit is preferred to juice, intact meals to liquid salads, and varied ordinary food to long-term reliance on powders, while those products can still serve unusual travel, recovery, or access constraints.
+
 ## Key Claims
 - Execution is the central bottleneck: dietary principles need meal-level routines, not only correct categories.
 - Breakfast can work as a controlled anchor because it is easier to plan, prepare, and repeat than workday lunch or social dinner.
-- Meal structure matters: protein, vegetables, fruit, slower staple foods, healthy fats, unsweetened drinks, and enjoyable seasoning make the plan sustainable.
+- Meal structure matters: protein, vegetables, fruit, staple carbohydrates, dietary fat, unsweetened drinks, and enjoyable seasoning make the plan sustainable.
 - Food order and food form can improve satiety and glucose response without turning carbohydrates into a forbidden category.
 - Work meals and takeout can be repaired with fresh vegetables, fruit, protein-forward choices, lighter seasoning, and portion control.
 - Social eating, alcohol, desserts, and sweet drinks require flexible boundaries rather than abstinence-only rules.
@@ -33,16 +36,18 @@ The concept also keeps flexibility inside the system. Takeout can be improved by
 - Execution bottleneck - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] says the difficulty of dietary guidelines lies in planning, variety, access, preparation, taste, and daily fit.
 - Breakfast anchor - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] has Xiaolong start with the meal he can control most easily, then describes a roughly 15- to 20-minute morning routine that stabilizes later meals and sleep.
 - Meal structure - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] combines eggs, beef, vegetables, berries, small tomatoes, yogurt, nuts, olive oil or rapeseed oil, coffee, and staples such as corn, peas, oats, quinoa, buckwheat, potatoes, or coarse grains.
+- Low-friction portioning - [[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5]] translates a mixed meal into a palm, fist, and thumb guide while keeping the estimate adjustable to body size, activity, and context.
+- Food-form default - [[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5]] prefers whole fruit, intact vegetables, chewing, and varied meals over juice, liquid salad, vegetable powders, or long-term meal replacement.
 - Satiety and glucose response - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] recommends eating protein and vegetables before staple carbohydrates, avoiding water-only fullness, and using slower-absorbing staples rather than banning staple foods.
 - Workday repair - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] suggests standardized fast meals, added salad, fruit, tomatoes, cucumber, saltiness checks, and snacks that prevent late-day hunger spikes.
 - Flexible boundaries - [[vol-207-meitian-20-fenzhong-de-fanjiaolv-chifan-sop-dagongren-qing-zhijie-chaozuoye-ft-dawu-shiye-chengyuan-xiaolong-lhmsv-hzbmzfyiuptzskm1jblgo]] keeps alcohol, dessert, barbecue, and sweet drinks inside portion, frequency, substitution, and next-day training or activity decisions.
 
 ## Counterevidence & Qualifications
-The source is one guest's public podcast routine, not a clinical diet plan. Diabetes, kidney disease, pregnancy, eating disorders, food allergies, elder frailty, adolescent growth, gastrointestinal disease, elite sport, medication use, budget, cooking access, and household constraints can change appropriate food choices and should remain individualized. CGM observations in the source help make feedback visible, but they do not replace clinical interpretation.
+The sources are public podcast guidance, not clinical diet plans. The palm guide is a convenient estimate rather than a universal prescription, and the sources do not establish exact macronutrient ratios, calorie targets, or therapeutic meal-replacement protocols. Diabetes, kidney disease, pregnancy, eating disorders, food allergies, elder frailty, adolescent growth, gastrointestinal disease, postoperative recovery, elite sport, medication use, budget, cooking access, and household constraints can change appropriate food choices and should remain individualized. CGM observations help make feedback visible, but they do not replace clinical interpretation.
 
 ## What Changed
-- Created the concept to capture VOL.207's executable balanced-eating frame.
-- Separated practical meal design from stricter weight-loss, sugar-control, supplement, or medication discussions.
+- Added a palm-based meal estimate that preserves carbohydrate, protein, vegetables, and dietary fat without calorie calculation.
+- Added whole-food form and chewing as defaults while preserving temporary liquid- or powder-support use cases.
 
 ## Related Concepts
 - [[LifestyleWeightManagement]] - broader body-composition and metabolic-habit frame that this concept supports.
@@ -53,3 +58,5 @@ The source is one guest's public podcast routine, not a clinical diet plan. Diab
 - [[MuscleAsLongevityInfrastructure]] - aging and resistance-training context behind the source's protein emphasis.
 - [[SleepAsDailyHealthAccount]] - daily rhythm concept stabilized by the source's breakfast-first routine.
 - [[ExerciseLoadManagement]] - movement and training boundary used to balance social eating and higher-calorie meals.
+- [[MealReplacementNutritionBoundary]] - distinguishes temporary access support from routine replacement of intact meals.
+- [[HealthCodedFoodLabelLiteracy]] - translates single-attribute product claims back into full meal and diet context.

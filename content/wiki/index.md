@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」](sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on balanced weight management, carbohydrate and fat extremes, food form, portion estimation, labels, energy deficits, and health-product marketing.
 - [559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)](sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077.md) — The Rest Is History episode on Redlands, Brian Jones, Hyde Park, album rock, Altamont, and the Stones as symbols of late-1960s cultural conflict.
 - [Essentials: Protocols to Improve Vision & Eyesight](sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754.md) — Huberman Lab Essentials episode on retinal light signaling, brain-based visual inference, circadian regulation, varied eye use, myopia-related habits, and bounded nutrition and eye-care tools.
 - [AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More](sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786.md) — Huberman Lab AMA excerpt distinguishing whey for muscle-related goals from collagen or bone broth for qualified skin-related goals, with tolerance and acne caveats.

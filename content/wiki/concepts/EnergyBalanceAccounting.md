@@ -4,7 +4,8 @@ type: concept
 tags: [nutrition, metabolism, weight-management, measurement]
 sources:
   - essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484
-last_updated: 2026-08-31
+  - vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5
+last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,12 +19,14 @@ The Norton source treats "calories in, calories out" as a starting truth rather 
 
 The practical answer is not to abandon measurement. Norton recommends consistent tracking, morning weigh-ins after using the bathroom, weekly averages, and outcome-based adjustment. The concept therefore supports [[LifestyleWeightManagement]] by making weight change observable enough for feedback while keeping precision humility about short-term scale noise and metabolic individuality.
 
+VOL.160 adds a useful behavioral boundary: creating an energy deficit does not require chronic hunger. Its public-education framing favors better meal structure and activity over aggressive restriction, and it treats rapid low-carbohydrate loss or post-hotpot gain as partly glycogen, sodium, and water movement rather than immediate fat change. This reinforces trend-based interpretation without turning the source's metabolic explanations into precise clinical rules.
+
 ## Key Claims
 - Calories remain a useful unit of energy, but the path from food energy to body energy involves digestion, absorption, metabolism, and ATP production.
 - Intake estimates are noisy because labels can be wrong, metabolizable energy can differ from total energy, and fiber or gut differences can alter extraction.
 - Expenditure is not one number: resting metabolic rate, thermic effect, exercise, and NEAT all contribute.
 - Macronutrient sources can differ in thermic effect and appetite even when calories remain the same unit of measurement.
-- Weight tracking works best as a consistent trend signal, especially through morning measurements and weekly averages.
+- Weight tracking works best as a consistent trend signal, especially through morning measurements and weekly averages, because water shifts can dominate short intervals.
 - Long-term maintenance requires sustainable behavior after the initial weight-loss phase.
 
 ## Evidence
@@ -32,13 +35,16 @@ The practical answer is not to abandon measurement. Norton recommends consistent
 - Expenditure buckets: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] divides expenditure into resting metabolic rate, thermic effect of food, purposeful exercise, and NEAT, with NEAT varying by hundreds of calories per day.
 - Macronutrient effect: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] gives protein a higher thermic-effect range than carbohydrate or fat and argues that calorie sources can change expenditure and appetite.
 - Tracking practice: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] recommends morning weigh-ins and weekly averages because fluid shifts can hide actual fat-loss trends.
+- Deficit boundary: [[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5]] accepts intake below expenditure as the basic weight-loss condition while warning against equating it with prolonged hunger, low-fuel exercise, or muscle-sacrificing restriction.
+- Short-term water noise: [[vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5]] explains early carbohydrate-restriction loss and next-day high-sodium gain partly through glycogen or water changes rather than pure fat change.
 - Maintenance boundary: [[essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484]] warns that many people plan for losing weight without planning what happens afterward.
 
 ## Counterevidence & Qualifications
-The source is a podcast summary, not a metabolic ward protocol or individualized diet plan. The concept does not settle exact calorie targets, body-composition goals, endocrine disorders, eating disorders, athletic fueling, medication effects, pregnancy, diabetes, kidney disease, or other clinical contexts. It also does not claim that every short-term scale movement reflects fat gain or fat loss.
+The sources are podcast summaries, not metabolic-ward protocols or individualized diet plans. Claims that chronic restriction automatically triggers a discrete “starvation mode” are too simple; energy expenditure, movement, training, appetite, body composition, and adaptation vary by person and degree of restriction. The concept does not settle exact calorie targets, body-composition goals, endocrine disorders, eating disorders, athletic fueling, medication effects, pregnancy, diabetes, kidney disease, or other clinical contexts. It also does not claim that every short-term scale movement reflects fat gain or fat loss.
 
 ## What Changed
-- Created the concept to capture Norton's measurement-aware version of energy balance.
+- Added the distinction between an energy deficit and chronic hunger or low-fuel exercise.
+- Added carbohydrate- and sodium-related water movement as another reason to interpret scale trends cautiously.
 
 ## Related Concepts
 - [[LifestyleWeightManagement]] - broader habit frame that uses energy-balance feedback without scale-only thinking.
