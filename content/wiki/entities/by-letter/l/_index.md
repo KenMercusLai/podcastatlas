@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10383
+wiki_total_pages: 10387
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "LuGongLiuBangFatherInLaw"
     title: "吕公 / Lu Gong"
     url: "/wiki/entities/lugongliubangfatherinlaw/"
+  - key: "LyuDai"
+    title: "吕岱 / Lyu Dai"
+    url: "/wiki/entities/lyudai/"
   - key: "LyuBu"
     title: "吕布 / Lü Bu"
     url: "/wiki/entities/lyubu/"

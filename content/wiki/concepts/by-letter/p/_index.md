@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7720
+wiki_total_pages: 7721
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1940,6 +1940,9 @@ wiki_pages:
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"
+  - key: "PersonalizedLocalAutonomySuccession"
+    title: "个人化地方自治继承断裂 / Personalized Local Autonomy Succession"
+    url: "/wiki/concepts/personalizedlocalautonomysuccession/"
   - key: "PublicRecommendationPrivateFavorBoundary"
     title: "举贤不立私恩 / Public Recommendation Private Favor Boundary"
     url: "/wiki/concepts/publicrecommendationprivatefavorboundary/"

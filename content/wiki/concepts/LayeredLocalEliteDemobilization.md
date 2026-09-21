@@ -6,7 +6,8 @@ tags: [governance, local-elites, military, relocation, late-han, centralization]
 sources:
   - zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di
   - zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk
-last_updated: 2026-09-20
+  - zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz
+last_updated: 2026-09-21
 ---
 
 ## Definition
@@ -15,11 +16,13 @@ last_updated: 2026-09-20
 
 ## Current Synthesis
 
-The concept now has two late-Han variants. [[zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk|Hanji 1071]] supplies a lower-visibility version in [[HedongCommandery|河东郡]]. [[DuJiLateHan|杜畿]] enters alone, grants [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] formal authority, redirects mass conscription into voluntary recruitment, and then introduces rotating leave. In the source's account, trustworthy personnel move outward into a support network while hostile manpower disperses. Office is therefore used as camouflage and time purchase rather than simply as incorporation.
+The concept now has three late-Han variants. [[zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk|Hanji 1071]] supplies a lower-visibility version in [[HedongCommandery|河东郡]]. [[DuJiLateHan|杜畿]] enters alone, grants [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] formal authority, redirects mass conscription into voluntary recruitment, and then introduces rotating leave. In the source's account, trustworthy personnel move outward into a support network while hostile manpower disperses. Office is therefore used as camouflage and time purchase rather than simply as incorporation.
 
 [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] supplies the more coercive version in [[LiangXiLateHan|梁习]]'s settlement of [[BingzhouLateHan|并州]]. The sequence begins softly: local strongmen are treated with courtesy and some receive office. That step draws leaders away from independent home bases and converts status into a state-mediated benefit.
 
 Liang Xi's next layers target capacity more openly. Local young men are recruited into the army and divided among different commanders. Their families are then moved to [[YeLateHan|邺城]], weakening the fighters' home network while bringing relatives under closer central supervision, and armed suppression is reserved for refusal. Across both variants, the common mechanism is sequencing: grant or preserve status first, then separate the human network beneath it; relocation and exemplary force are possible escalations, not necessary parts of every case.
+
+[[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz|Hanji 1119]] supplies a post-broker decapitation variant in [[Jiaozhou|交州]]. After [[ShiXie|士燮]] dies, [[SunQuan|孙权]] divides the administration and appoints replacement officials; [[ShiHui|士徽]]'s resistance then permits [[LyuDai|吕岱]] to isolate the leading brothers through a kin-mediated surrender channel and execute them together. Unlike Hedong or Bingzhou, this sequence does not disperse followers gradually. It separates recognized office from inherited capacity, then removes the kin leadership once it is physically concentrated and disarmed.
 
 The sources credit the sequences with a support network in Hedong and rapid order, submission, taxation, agriculture, and stricter law in Bingzhou, but those outcomes do not settle motive or erase coercion. The concept names an administrative mechanism, not a moral endorsement: state capacity rises because concentrated local capacity is deliberately decomposed.
 
@@ -29,7 +32,7 @@ The sources credit the sequences with a support network in Hedong and rapid orde
 - Courtesy or office can preserve visible status while separating leaders from concentrated independent capacity.
 - Recruitment rules, rotating leave, or dispersal among commands can prevent fighters from remaining a unified local force.
 - Sequential measures reduce the chance that every layer of a local network resists at once.
-- Family relocation and armed punishment are coercive escalation layers demonstrated in Bingzhou, not universal requirements of the mechanism.
+- Family relocation, induced surrender, leadership execution, and armed punishment are alternative coercive escalation layers, not universal requirements of the mechanism.
 - A lower-coercion variant can still be manipulative when apparent delegation conceals deliberate personnel decomposition.
 - Apparent order should be evaluated alongside lost local autonomy, displacement, killing, and uncertainty over actor intent.
 
@@ -41,16 +44,19 @@ The sources credit the sequences with a support network in Hedong and rapid orde
 - Bingzhou fighter dispersal: [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] says local youths are recruited and divided among different commanders during expeditions.
 - Household removal: [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] reports tens of thousands of relatives relocated to Ye.
 - Coercive backstop and outcome: [[zizhi-tongjian-hanji-1073-huguan-zhi-zhan-caocao-de-tucheng-jihua-haican-le-shui-lspli7p63ouktn6k0zbgvggj59di|Hanji 1073]] reports attacks on refusal, mass surrender, frontier submission, and restored administrative order.
+- Jiaozhou office replacement: [[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz|Hanji 1119]] says Sun Quan divides the province and appoints his own Jiaozhi administrator after Shi Xie's death.
+- Kin-leadership decapitation: [[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz|Hanji 1119]] says Lyu Dai uses Shi Kuang to obtain the surrender of Shi Hui and five brothers before executing them.
 
 ## Counterevidence & Qualifications
 
-The concept rests on two podcast accounts and does not establish that either sequence followed a complete prior blueprint. Hanji 1071's claim that Du Ji intentionally sorted reliable from hostile personnel is strategic interpretation; exact offices, route, totals, and motives need verification. Hanji 1073's movement and casualty totals also require verification, and relocated households may have served supervision, population concentration, supply, or hostage-like leverage. The variants should not be collapsed morally: one avoids immediate mass force, while the other explicitly includes relocation and killing.
+The concept rests on three podcast accounts and does not establish that any sequence followed a complete prior blueprint. Hanji 1071's claim that Du Ji intentionally sorted reliable from hostile personnel is strategic interpretation; exact offices, route, totals, and motives need verification. Hanji 1073's movement and casualty totals also require verification, and relocated households may have served supervision, population concentration, supply, or hostage-like leverage. Hanji 1119's provincial division, surrender terms, and motive of eliminating future danger likewise require broader comparison. The variants should not be collapsed morally: Hedong avoids immediate mass force, Bingzhou includes relocation and killing, and Jiaozhou allegedly turns a promise of survival into elite execution.
 
 ## What Changed
 
 - Expanded the concept from one coercive Bingzhou sequence to two variants.
 - Added Hedong's office-grant, recruitment-redesign, and rotating-leave pathway.
 - Narrowed relocation and armed punishment from defining requirements to escalation layers.
+- Added Jiaozhou's administrative redivision, replacement appointment, induced surrender, and kin-leadership execution variant.
 
 ## Related Concepts
 
@@ -60,3 +66,4 @@ The concept rests on two podcast accounts and does not establish that either seq
 - [[DefeatedPopulationConversion|降众资源化]] - adjacent relationship because recruited and surrendered populations become state military or productive capacity.
 - [[TerrorRuleBackfire|恐怖治理反噬]] - limiting relationship because coercion can harden resistance when no survival path remains.
 - [[DistributedLocalResilience|分布式地方韧性]] - downstream relationship because dispersed reliable personnel can become a support network during open crisis.
+- [[PersonalizedLocalAutonomySuccession|个人化地方自治继承断裂]] - upstream succession break that creates the opening for dismantling the Shi network.

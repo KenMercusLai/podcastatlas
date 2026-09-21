@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "local-autonomy-bargains-do-not-automatically-transfer-to-heirs",
+      "qualifications": [
+        "This is a source-scoped historical institutions case from one podcast episode, not a general rule that every local-center bargain must end in violent centralization.",
+        "The host's prudence-versus-rashness contrast is qualified by Sun Quan's structural interest in appointments, territory, and revenue after Shi Xie's death.",
+        "The cultural claims, administrative motives, surrender terms, and scope of later Shi-family deaths require broader textual comparison."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz|Hanji 1119]] adds a bounded institution-and-succession case: [[ShiXie]] combines local roots, learning, office networks, formal restraint, hostage collateral, and tribute to preserve substantial authority in [[JiaozhiCommandery]], but [[PersonalizedLocalAutonomySuccession]] shows that recognition of one broker does not create hereditary title; after [[ShiHui]] resists replacement, [[LyuDai]] turns administrative redivision into induced surrender and leadership elimination across [[Jiaozhou]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+        "ShiXie",
+        "JiaozhiCommandery",
+        "PersonalizedLocalAutonomySuccession",
+        "ShiHui",
+        "LyuDai",
+        "Jiaozhou"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "childhood-myopia-control-needs-habit-measurement-and-care-boundaries",
       "qualifications": [
         "The episode is source-scoped public ophthalmology education rather than an individualized pediatric eye-care plan.",

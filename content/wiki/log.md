@@ -2305,6 +2305,7 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-17] ingest | Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin
 
 Added source `essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924`; created the entity page for Andy Galpin; created concept pages for the nine physiological adaptations, the annual fitness-assessment testing week, movement-screen scoring, strength benchmark testing, local muscular-endurance benchmarks, fat-free mass index, heart-rate recovery capacity, aerobic capacity field testing, the long-duration endurance standard, power and speed assessment, and fitness performance anchors; extended `ExercisePillarsForLongevity`, `ExerciseMedicalAestheticBoundary`, `HubermanLab`, and `AndrewHuberman` with the new evidence; updated `index.md`, `overview.md`, and the downstream synthesis artifacts. Core synthesis: this Huberman Lab Essentials episode turns fitness into a diagnostic checklist rather than a single score, splitting exercise goals into appearance and functionality and pairing each of the nine adaptations - skill, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long duration - with a gold-standard method and a cheap do-it-yourself substitute, from a joint-by-joint movement screen and a broad jump through grip and dead-hang standards, a leg-extension or goblet-hold target, FFMI from body composition, planks and push-ups, a heart-rate recovery curve, a 12-minute Cooper test or one-mile walk, and a 30-minute no-break steady-state effort, all organized into a roughly annual testing week with non-fatiguing tests first, maximal tests last, standardized warm-ups, and a priority rule that only severe performance anchors need clearing before a person optimizes the capacities they care about. No settled contradiction found; the episode's thresholds, formulas, and cutoffs are source-scoped practical benchmarks rather than clinical norms, several tests are explicitly body-size, modality, or technique dependent, the appearance portion of hypertrophy is kept separate from the muscle-mass health floor, and speed, strength, and hypertrophy programming are deferred to a later conversation.
@@ -20851,6 +20852,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | “我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
 
 Added source `wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5`; created `XuMengdi`, `TsinghuaIIIS`, `RobotInContextLearning`, `CapabilityDrivenRobotDataDesign`, and `RobotDeploymentDataLoop`; and updated `RobotScalingClaimCaution`, `RobotEvaluationProblem`, overview, and index. Core synthesis: genuine robot generalization combines strong priors with rapid learning from deployment context, capability needs should determine data mixture, and scaling evidence becomes meaningful only when data and model growth improve unseen-task success under safety and real-time constraints. No settled contradiction found; scaling signals, company results, benchmark claims, lab experiments, route preferences, and forecasts remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？
+
+Added source `zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz`; created `ShiXie`, `ShiHui`, `LyuDai`, `Jiaozhou`, and `PersonalizedLocalAutonomySuccession`; and updated `JiaozhiCommandery`, `HostageBackedDependencyTrap`, `LayeredLocalEliteDemobilization`, overview, and index. Core synthesis: Shi Xie's local roots, scholarship, family office network, formal submission, hostage, and tribute preserved a personal bargain with outside authority but did not establish hereditary rule; after Sun Quan appointed replacements, Shi Hui's resistance and Lyu Dai's induced surrender converted administrative centralization into the destruction of the leading Shi branch. No settled contradiction found; the episode's father-son prudence contrast is qualified by structural centralization pressure, while cultural claims, tribute detail, administrative motives, surrender terms, and later family deaths remain source-scoped.
 
 ## [2026-09-21] lint | Wiki health check
 

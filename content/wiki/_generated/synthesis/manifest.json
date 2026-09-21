@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-21",
   "corpus": {
-    "episode_count": 2605,
-    "source_count": 2605
+    "episode_count": 2606,
+    "source_count": 2606
   },
   "generated": true,
   "global": {
@@ -16,12 +16,14 @@
     "output_digest": "c5ac49d47980227be9e7838b0b4c24cb9076f31e4576c9a1e4ca86af338da298",
     "overview_commit": "cacdb4729ca820971f120f4035c3155798653afb",
     "overview_digest": "63f24e9f053ca7bee0731e6e8db14dfdbcc7cd6e7754878b83d70ba592c93ca6",
-    "pending_ingests": 0,
-    "pending_topics": []
+    "pending_ingests": 1,
+    "pending_topics": [
+      "work-education-and-society"
+    ]
   },
-  "overview_commit": "cacdb4729ca820971f120f4035c3155798653afb",
-  "overview_digest": "63f24e9f053ca7bee0731e6e8db14dfdbcc7cd6e7754878b83d70ba592c93ca6",
-  "paragraph_count": 686,
+  "overview_commit": "d950c1a8ecdcceda2d6e2494466959f03873c7ae",
+  "overview_digest": "2e920084c446179663b38d4545185b71131830723e0a7b2d2d0db281c96d1467",
+  "paragraph_count": 687,
   "schema_version": 1,
   "topics": {
     "ai-and-technology": {
@@ -73,9 +75,9 @@
       "title": "Science, Health, and Climate"
     },
     "work-education-and-society": {
-      "claim_digest": "f98f309bba95ee1424d19a1e61ff5f6ba4253340ff6eda423d864f4fc23f70c0",
-      "input_digest": "a009ccac60a9e0007e95cc422ea0fbfc96bac1efd50fda2dbe373e9be1d3b43a",
-      "output_digest": "b6337947b56998d5c54239a8a1cb7ea86af4f6446053ad9bf39a8dc822c0409a",
+      "claim_digest": "7e9523134f9807ccecb8bf76061f74f4a99fed1111600335685e1f073580a336",
+      "input_digest": "00a665248da2d5c40bc8066453ab210033536e8bbe92ea02bf552510907e8999",
+      "output_digest": "502b7a9bf87e37e86b3314b57a7eb29a600648df39e75999fac66bc79986de3e",
       "title": "Work, Education, and Society"
     }
   }

@@ -686,12 +686,13 @@
       "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
       "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c",
       "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2",
-      "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51"
+      "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51",
+      "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c"
     ],
-    "paragraph_count": 686
+    "paragraph_count": 687
   },
-  "overview_commit": "cacdb4729ca820971f120f4035c3155798653afb",
-  "overview_digest": "63f24e9f053ca7bee0731e6e8db14dfdbcc7cd6e7754878b83d70ba592c93ca6",
+  "overview_commit": "d950c1a8ecdcceda2d6e2494466959f03873c7ae",
+  "overview_digest": "2e920084c446179663b38d4545185b71131830723e0a7b2d2d0db281c96d1467",
   "paragraphs": [
     {
       "id": "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
@@ -20584,6 +20585,28 @@
         "PersonalLifeAgent",
         "ProactiveAgents",
         "TownPersonalAI"
+      ]
+    },
+    {
+      "id": "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz|《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on [[ShiXie|士燮]]'s long rule in [[JiaozhiCommandery|交趾郡]] and the destruction of the leading Shi family branch after his death. It adds [[ShiXie]], [[ShiHui|士徽]], [[LyuDai|吕岱]], [[Jiaozhou|交州]], and [[PersonalizedLocalAutonomySuccession|个人化地方自治继承断裂]], while extending [[JiaozhiCommandery|交趾郡]], [[HostageBackedDependencyTrap|家属质押式依附陷阱]], and [[LayeredLocalEliteDemobilization|分层式地方武力拆解]]. Its core synthesis is that Shi Xie's family roots, learning, office network, formal restraint, hostage, and tribute sustained a personal accommodation with outside authority but did not create hereditary title to local rule; after [[SunQuan|孙权]] appointed replacements, Shi Hui's resistance let Lyu Dai convert administrative redivision into induced surrender and elite decapitation. No settled contradiction is recorded; the host's prudence-versus-rashness contrast is qualified by structural centralization pressure, while chronology, cultural claims, tribute detail, administrative motives, surrender assurances, and later family deaths remain source-scoped.",
+      "topic_scores": {
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "HostageBackedDependencyTrap",
+        "JiaozhiCommandery",
+        "Jiaozhou",
+        "LayeredLocalEliteDemobilization",
+        "LyuDai",
+        "PersonalizedLocalAutonomySuccession",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiHui",
+        "ShiXie",
+        "SunQuan",
+        "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz"
       ]
     }
   ],

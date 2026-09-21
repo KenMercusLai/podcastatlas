@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2599
+topic_total_pages: 2600
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3754,6 +3754,9 @@ topic_concepts:
   - key: "HereditarySuccessionCapabilityDecay"
     title: "世袭继承能力衰减 / Hereditary Succession Capability Decay"
     url: "/wiki/concepts/hereditarysuccessioncapabilitydecay/"
+  - key: "PersonalizedLocalAutonomySuccession"
+    title: "个人化地方自治继承断裂 / Personalized Local Autonomy Succession"
+    url: "/wiki/concepts/personalizedlocalautonomysuccession/"
   - key: "ChineseFootballFinancialDiscipline"
     title: "中国足球财务纪律 / Chinese Football Financial Discipline"
     url: "/wiki/concepts/chinesefootballfinancialdiscipline/"

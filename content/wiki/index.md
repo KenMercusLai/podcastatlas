@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？](sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz.md) — 士燮以地方根基、名义服从、质子和进贡维持交趾权力；其死后士徽抗拒孙权任命，吕岱诱降并处死六兄弟，完成孙吴对交州地方势力的拆解。
 - [“我看到了 Scaling Law 的信号”｜对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化](sources/wo-kandao-le-scaling-law-de-xinhao-duitan-qinghua-chayuan-zhuli-jiaoshou-xu-mengdi-jushen-zhineng-shijie-moxing-zhenzheng-de-fanhua-ltdn8trgg55fluenullokxdiz1y5.md) — 十字路口Crossing interview with Xu Mengdi on robot in-context learning, world models and VLA systems, capability-driven data mixtures, deployment feedback loops, and why held-out loss is not yet a scaling law for unseen-task success.
 - [《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？](sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3.md) — 211年潼关战役的政治开局：曹操以进攻汉中为名施压关中，马超、韩遂先行起兵后失去名分优势，并暴露马腾家属的人质代价。
 - [275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse](sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd.md) — 乱翻书 episode comparing four personal-agent routes through memory, proactivity, messaging, cloud execution, commerce, platform distribution, trust, and the understanding layer between data and action.
@@ -2619,6 +2620,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [士燮 / Shi Xie](entities/ShiXie.md) — 以家族根基、经学声望、地方治理和形式服从维持交趾长期权力的汉末地方政治中介。
+- [士徽 / Shi Hui](entities/ShiHui.md) — 试图继承士燮实际权力、拒绝孙权任命，最终被吕岱诱降处死的交趾继承者。
+- [吕岱 / Lyu Dai](entities/LyuDai.md) — 通过宗族中介取得士徽六兄弟投降并处死他们、执行孙吴交州整合的将领。
+- [交州 / Jiaozhou](entities/Jiaozhou.md) — 士氏家族跨郡经营并在226年后遭孙吴行政重划与直接接管的南方州域。
 - [Town Personal AI](entities/TownPersonalAI.md) — Email- and desktop-centered personal agent that builds toward broader delegation through progressive trust.
 - [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer personal agent using distribution, social interest signals, and subsidized cloud execution.
 - [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
@@ -13011,6 +13016,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 
 ## Concepts
+- [个人化地方自治继承断裂 / Personalized Local Autonomy Succession](concepts/PersonalizedLocalAutonomySuccession.md) — 中央承认地方中介本人、却不承认其官位与武力可以世袭，由此在中介死亡后重新打开继承和集权冲突。
 - [Personal Agent Understanding Layer / 个人Agent理解层](concepts/PersonalAgentUnderstandingLayer.md) — Processing layer that turns raw personal data into current, relevant, permission-aware memory and action.
 - [Botulinum Toxin Injection Safety / 肉毒毒素注射安全](concepts/BotulinumToxinInjectionSafety.md) — Product, dose, history, symptom, and escalation boundaries for cosmetic botulinum use.
 - [Unapproved Medical-Aesthetic Products / 未获批医美产品风险](concepts/UnapprovedMedicalAestheticProducts.md) — Supply-chain uncertainty around approval, identity, purity, dose, storage, traceability, and removal.

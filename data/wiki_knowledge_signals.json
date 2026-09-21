@@ -55316,9 +55316,9 @@
       "url": "/wiki/concepts/hostcountrymanufacturingbacklash/"
     },
     "HostageBackedDependencyTrap": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
@@ -55340,6 +55340,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
         }
       ],
       "updated": "2026-09-21",
@@ -62748,9 +62755,9 @@
       "url": "/wiki/entities/jiaoshouyixiaoxing/"
     },
     "JiaozhiCommandery": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱 [lqMAbg3bpYz6Ct2V4ArX-IUn57Ws].md",
@@ -62786,10 +62793,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/jiaozhicommandery/"
+    },
+    "Jiaozhou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/jiaozhou/"
     },
     "JiaxuDouyinEcommerce": {
       "episode_count": 1,
@@ -67140,9 +67170,9 @@
       "url": "/wiki/concepts/layeredjianghusocialfields/"
     },
     "LayeredLocalEliteDemobilization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1073丨壶关之战：曹操的屠城计划害惨了谁？ [lspli7p63Ouktn6K0zbGVGGJ59Di].md",
@@ -67157,9 +67187,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1071丨单枪匹马闯河东，这位名臣有多牛？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1071-danqiang-pima-chuang-hedong-zhe-wei-mingchen-you-duo-niu-lnfo6i2lx7nmc1mrojfkqic7zlfk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/layeredlocalelitedemobilization/"
     },
     "LayneNorton": {
@@ -76267,6 +76304,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/lyubu/"
+    },
+    "LyuDai": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/lyudai/"
     },
     "LyuKuangLateHan": {
       "episode_count": 1,
@@ -90497,6 +90550,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/personalrisktrustsignal/"
+    },
+    "PersonalizedLocalAutonomySuccession": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/personalizedlocalautonomysuccession/"
     },
     "PetGriefAndCare": {
       "episode_count": 5,
@@ -106075,6 +106144,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/shihuanlatehan/"
     },
+    "ShiHui": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/shihui/"
+    },
     "ShiLiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -106185,6 +106270,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/shixianwesternhan/"
+    },
+    "ShiXie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？ [ll4mBLhk7Ydn3pDxG-5ZuCstokZz].md",
+          "key": "zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/shixie/"
     },
     "ShiYanLateHan": {
       "episode_count": 3,

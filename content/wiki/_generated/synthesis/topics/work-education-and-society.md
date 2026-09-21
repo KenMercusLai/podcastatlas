@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-21
-as_of_overview_commit: 3a61c937b219f5be665631dda8501fa0b4d020f3
-input_digest: a009ccac60a9e0007e95cc422ea0fbfc96bac1efd50fda2dbe373e9be1d3b43a
+as_of_overview_commit: d950c1a8ecdcceda2d6e2494466959f03873c7ae
+input_digest: 00a665248da2d5c40bc8066453ab210033536e8bbe92ea02bf552510907e8999
 ---
 
 # Work, Education, and Society
@@ -15,6 +15,18 @@ input_digest: a009ccac60a9e0007e95cc422ea0fbfc96bac1efd50fda2dbe373e9be1d3b43a
 Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 389-1 adds a bounded hierarchy case: Tian Qianqiu's fast rise shows how a narrow, timely proposal can become role fit when it gives a leader a usable way to change course. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people's early-career window shape future talent and family formation. Digital service work includes the social design of waiting: legible progress can reduce anxiety, but unsupported certainty can undermine trust. Hanji 1103 adds that elite access and career danger can coexist: imposed dismissal, preventive resignation, and independent exit differ, and the last requires a credible outside option built from relationships, geography, and resources. Hanji 1097 adds an early-career mobility layer: family support can lower education barriers, school can create teacher and peer access, and later merchant finance can convert accumulated reputation into an initial organization. EP387 adds a team-coordination and labor-recognition layer: apparent flexibility can conceal decision-critical preferences, responsibility avoidance can defeat backup, and edited visibility can distribute credit and blame unevenly; raw-footage, chronology, labor-total, and motive claims remain source-scoped. O'Connor's grief source adds a public-health and social-capacity boundary: bereavement adaptation preserves continuing bonds, can oscillate between loss and restoration, and may need bodily, social, medical, or professional support; quantified risks and preliminary interventions remain source-scoped. The daily-tools source adds an adaptable routine-design layer: light, movement, caffeine, protected work, exercise, meals, cooling, and sleep can be coordinated without treating one host schedule or its source-scoped mechanisms as a universal mandate. VOL.163 adds a child-health and schooling-routine boundary: established true myopia is controlled rather than cured, near-work and outdoor habits form the base, and optical or medication tools require combined measurements, individualized fitting, and follow-up. The Deisseroth psychiatry source adds a social-function boundary: help-seeking can be delayed by stigma, diagnosis depends partly on impairment across settings, and emerging neural or altered-state tools remain evidence- and supervision-bound. The smell-and-taste episode enters this topic only as a conditional learning-environment claim: safe nasal breathing may support attention in compatible tasks, but task demands, evidence limits, and irritant safety prevent a universal workplace or classroom protocol.
 
 ## Cross-source Findings
+
+### Local Autonomy Bargains Do Not Automatically Transfer To Heirs
+
+[[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz|Hanji 1119]] adds a bounded institution-and-succession case: [[ShiXie]] combines local roots, learning, office networks, formal restraint, hostage collateral, and tribute to preserve substantial authority in [[JiaozhiCommandery]], but [[PersonalizedLocalAutonomySuccession]] shows that recognition of one broker does not create hereditary title; after [[ShiHui]] resists replacement, [[LyuDai]] turns administrative redivision into induced surrender and leadership elimination across [[Jiaozhou]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz]], [[ShiXie]], [[JiaozhiCommandery]], [[PersonalizedLocalAutonomySuccession]], [[ShiHui]], [[LyuDai]], [[Jiaozhou]]
+
+**Qualifications:**
+
+- This is a source-scoped historical institutions case from one podcast episode, not a general rule that every local-center bargain must end in violent centralization.
+- The host's prudence-versus-rashness contrast is qualified by Sun Quan's structural interest in appointments, territory, and revenue after Shi Xie's death.
+- The cultural claims, administrative motives, surrender terms, and scope of later Shi-family deaths require broader textual comparison.
 
 ### Childhood Myopia Control Needs Habit Measurement And Care Boundaries
 
