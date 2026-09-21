@@ -21024,3 +21024,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 554. 1066: The Shadows of War (Part 1)
+
+Added source `554-1066-the-shadows-of-war-part-1-glt1461163139`; updated `EdwardTheConfessor`, `HaroldGodwinson`, `WilliamTheConqueror`, `HaraldHardrada`, `TostigGodwinson`, `NormanConquestOfEngland`, `AngloNormanSuccessionLegitimacy`, and the index. Core synthesis: Harold's accession combined Witan election, reported designation, immediate military capacity, alliance-building, and rapid coronation, while William's rival promise-and-oath case required papal backing, broad recruitment, ships, horses, supplies, and decisive battle against a capable English state. No settled contradiction found; Edward's promises and final words, Harold's oath and intent, papal motives, force and population claims, Tostig's suspicions, and comparative military technology remain disputed or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

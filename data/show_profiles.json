@@ -891,14 +891,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 72,
-      "topic_matched_source_note_count": 71,
+      "source_note_count": 73,
+      "topic_matched_source_note_count": 72,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 69
+          "source_note_count": 70
         },
         {
           "key": "culture",
@@ -949,6 +949,13 @@
           "episode_count": 4
         },
         {
+          "key": "HaroldGodwinson",
+          "title": "Harold Godwinson",
+          "url": "/wiki/entities/haroldgodwinson/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "LuciusCorneliusSulla",
           "title": "Lucius Cornelius Sulla / 苏拉",
           "url": "/wiki/entities/luciuscorneliussulla/",
@@ -967,13 +974,6 @@
           "title": "Stormont",
           "url": "/wiki/entities/stormont/",
           "kind": "organization",
-          "episode_count": 4
-        },
-        {
-          "key": "WilliamCecil",
-          "title": "William Cecil / Lord Burleigh",
-          "url": "/wiki/entities/williamcecil/",
-          "kind": "person",
           "episode_count": 4
         }
       ],

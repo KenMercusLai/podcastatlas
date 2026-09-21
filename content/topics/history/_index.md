@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1903
+topic_total_pages: 1904
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4563,6 +4563,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "554-1066-the-shadows-of-war-part-1-glt1461163139"
+    title: "554. 1066: The Shadows of War (Part 1)"
+    url: "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
   - key: "555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968"
     title: "555. 1066: Slaughter at Stamford Bridge (Part 2)"
     url: "/wiki/sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [554. 1066: The Shadows of War (Part 1)](sources/554-1066-the-shadows-of-war-part-1-glt1461163139.md) — The Rest Is History episode on Edward's death, Harold's election, rival succession claims, Tostig's grievance, Norman invasion logistics, papal backing, English mobilization, and the northern invasion threat.
 - [VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM](sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov.md) — 这病说来话长 episode with 吴浩天, 蒋永亮, and 高嘉诚 on painless gastrointestinal endoscopy, anesthesia and airway monitoring, bowel preparation, pathology, polyp risk, recovery, and follow-up.
 - [555. 1066: Slaughter at Stamford Bridge (Part 2)](sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968.md) — The Rest Is History episode on Hardrada and Tostig's northern conquest bid, Harold's operational surprise, the invasion's destruction, and the qualified “end of the Viking Age” interpretation.
 - [Essentials: Build Muscle Size, Increase Strength & Improve Recovery](sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126.md) — Huberman Lab Essentials episode on neural recruitment, strength and hypertrophy programming, recovery-readiness checks, post-training intervention tradeoffs, creatine, electrolytes, and leucine-rich protein.

@@ -6,6 +6,7 @@ sources:
   - ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9
   - 557-1066-the-norman-conquest-part-4-glt5156716826
   - 556-1066-the-battle-of-hastings-part-3-glt3522014441
+  - 554-1066-the-shadows-of-war-part-1-glt1461163139
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -18,23 +19,27 @@ William the Conqueror appears in the wiki as the Norman claimant who risks fleet
 
 ## Current Profile
 
-Across the sources, William joins strategic risk, visual legitimacy, coercive campaigning, sacred coronation, repression, land transfer, castle-building, church reform, and administrative appropriation. Weather delays his crossing and his Hastings base leaves him exposed, but he uses castles and ravaging while plausibly offering his vulnerable army as bait for the decisive battle his claim requires. He wins after Norman panic, rally, renewed attack, and English line fracture, yet must still isolate London, force elite submissions, and use English royal ritual before ruling as king. By 1086, [[NormanEliteReplacement]] and [[DomesdayBook]] reveal how deeply his order has transformed England.
+Across the sources, William joins dynastic claim, oath, papal reform politics, strategic risk, visual legitimacy, coercive campaigning, sacred coronation, repression, land transfer, castle-building, church reform, and administrative appropriation. The opening episode presents his invasion as an extraordinary organizational problem: Edward had probably promised him the throne, Harold had apparently sworn support, but William still needed a wider French recruitment network, a transport and protective fleet, supplies for thousands of horses, and a papal banner. England's wealth, manpower, navy, and administration made the campaign bold rather than inevitable.
+
+Weather delays his crossing and his Hastings base leaves him exposed, but he uses castles and ravaging while plausibly offering his vulnerable army as bait for the decisive battle his claim requires. He wins after Norman panic, rally, renewed attack, and English line fracture, yet must still isolate London, force elite submissions, and use English royal ritual before ruling as king. By 1086, [[NormanEliteReplacement]] and [[DomesdayBook]] reveal how deeply his order has transformed England.
 
 The profile remains morally divided. William brings a measure of succession stability and stronger exploitation of English state capacity, yet the [[HarryingOfTheNorth]], dispossession, famine, and native accounts of trauma prevent administrative achievement from becoming moral vindication.
 
 ## Key Characteristics
 
-- Norman claimant whose legitimacy is narrated through oath, omen, invasion, victory, and coronation.
+- Norman claimant whose legitimacy is assembled through reported promise, Harold's oath, papal approval, invasion, victory, and coronation.
+- Coalition organizer who recruits beyond Normandy and solves a demanding ship, cavalry, horse-supply, and cross-Channel logistics problem.
 - Risk-taking invasion commander who crosses under uncertain weather, seeks decisive battle from an exposed base, rallies a threatened wing, and exploits English movement out of formation.
 - Mobile commander who turns devastation, surrender, and control of symbolic centers into political submission.
 - Ruler who uses Anglo-Saxon coronation forms and administration to legitimate and strengthen conquest.
 - Conqueror whose castles, confiscations, and church appointments support a small Norman elite.
 - Brutal consolidator held responsible for the Harrying and later reported as judging his persecution excessive.
-- State-builder associated with the Salisbury oath and Domesday survey of 1086.
 
 ## Evidence
 
 - Claim and visual legitimacy - [[ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9]] says the tapestry narrates Harold's oath, William's invasion, and Norman victory.
+- Claim, coalition, and logistics - [[554-1066-the-shadows-of-war-part-1-glt1461163139]] connects William's reported promise and oath claims to recruitment across France, fleet construction, horse supply, papal backing, and the need for decisive battle.
+- Comparative military position - [[554-1066-the-shadows-of-war-part-1-glt1461163139]] contrasts Norman cavalry, castles, and crossbows with England's manpower, fleet, infantry, and administrative strength.
 - Invasion gamble and battle - [[556-1066-the-battle-of-hastings-part-3-glt3522014441]] follows the delayed crossing, Pevensey and Hastings bases, Sussex ravaging, exposed-position lure, Norman panic and rally, reported feigned retreats, and Harold's death.
 - Route to coronation - [[557-1066-the-norman-conquest-part-4-glt5156716826]] follows punishment at Romney, submissions at Dover, Canterbury, Winchester, Wallingford, and Berkhamsted, and coronation at Westminster.
 - Institutional consolidation - [[557-1066-the-norman-conquest-part-4-glt5156716826]] connects William to castles, church reform, the Salisbury oath, and Domesday Book.
@@ -42,13 +47,13 @@ The profile remains morally divided. William brings a measure of succession stab
 
 ## Qualifications
 
-This is a source-bounded profile rather than a complete biography. The exact succession claim, deliberate-bait interpretation, battlefield layout, intentional character of the retreats, William's role in Harold's death, Harold-body traditions, William's initial intentions toward the English elite, casualty estimates, conscience stories, and the causal link between his rule and slavery decline remain qualified or source-scoped.
+This is a source-bounded profile rather than a complete biography. Edward's promise, Harold's oath, papal motives, coalition composition, force and ship totals, the comparative novelty of Norman arms, the deliberate-bait interpretation, battlefield layout, intentional character of the retreats, William's role in Harold's death, Harold-body traditions, William's initial intentions toward the English elite, casualty estimates, conscience stories, and the causal link between his rule and slavery decline remain qualified or source-scoped.
 
 ## What Changed
 
-- Added the weather-bound crossing, exposed Hastings position, ravaging strategy, and need for decisive battle.
-- Connected William's battlefield rally and victory to the already established post-Hastings submission campaign.
-- Kept bait, feigned-retreat, and Harold-death details qualified while preserving the strategic gamble.
+- Added William's pre-crossing claim, broad recruitment, naval construction, horse logistics, and papal banner.
+- Clarified that England's state capacity made invasion a high-risk organizational achievement rather than an inevitable victory.
+- Preserved uncertainty around promises, oaths, papal motives, force totals, and comparative military technology.
 
 ## Relationships
 
