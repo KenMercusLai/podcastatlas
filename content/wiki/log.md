@@ -20549,7 +20549,7 @@ Added source `defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-d
 
 ## [2026-09-21] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Health and identity validation passed. Deterministic lint scanned 20,703 pages and found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used the stale 2026-09-02 graph snapshot (16,930 nodes versus 20,703 scanned pages) and provisionally found no hub stubs, one fragile bridge, and no isolated communities. Semantic lint did not complete because no provider-qualified LiteLLM model or provider API key is configured. Report returned in-session; `wiki/lint-report.md` was not overwritten.
 
 ## [2026-09-21] ingest | Anthropic口中的AI安全，为什么听起来像一场生意保卫战？
 
@@ -20836,6 +20836,13 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse
 
 Added source `275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd`; created `TownPersonalAI`, `MusePersonalAgent`, and `PersonalAgentUnderstandingLayer`; and updated `InstinctPersonalAI`, `Grokbot`, `PersonalLifeAgent`, `PersonalAIMemory`, `ProactiveAgents`, `IMAgentInterfaces`, `PersistentCloudAgents`, overview, and index. Core synthesis: personal agents compete to become the first interface after user intent appears, but durable advantage depends less on raw data or one model than on filtering context into usable memory, choosing timely action, completing work safely, and earning trust for broader authority. No settled contradiction found; product counts, valuations, capabilities, security, and strategy remain source-scoped, and the transcript's Town/Today naming inconsistency is preserved as an ambiguity.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？
+
+Added source `zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3`; created `ProvokedRebellionLegitimacyTransfer`; and updated `MaChao`, `WeinanBattleLateHan`, `HostageBackedDependencyTrap`, overview, and index. Core synthesis: Cao Cao's announced Hanzhong movement places coercive pressure on Guanzhong without first declaring its commanders enemies; the episode interprets Ma Chao and Han Sui's first move as a transfer of public legitimacy to suppression, while Ma Teng's household exposure raises the cost but fails to deter resistance. No settled contradiction found; deliberate provocation, hidden priorities, force and household numbers, dialogue, appointments, and analogy remain source-scoped, with a security-dilemma reading preserved.
 
 ## [2026-09-21] lint | Wiki health check
 

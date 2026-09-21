@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7716
+wiki_total_pages: 7717
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "ProvocationPublicityPolitics"
     title: "Provocation Publicity Politics"
     url: "/wiki/concepts/provocationpublicitypolitics/"
+  - key: "ProvokedRebellionLegitimacyTransfer"
+    title: "Provoked-Rebellion Legitimacy Transfer / 诱发反叛式名分转移"
+    url: "/wiki/concepts/provokedrebellionlegitimacytransfer/"
   - key: "ProxyConflictSpoilerRisk"
     title: "Proxy Conflict Spoiler Risk"
     url: "/wiki/concepts/proxyconflictspoilerrisk/"

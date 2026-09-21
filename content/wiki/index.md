@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？](sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3.md) — 211年潼关战役的政治开局：曹操以进攻汉中为名施压关中，马超、韩遂先行起兵后失去名分优势，并暴露马腾家属的人质代价。
 - [275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse](sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd.md) — 乱翻书 episode comparing four personal-agent routes through memory, proactivity, messaging, cloud execution, commerce, platform distribution, trust, and the understanding layer between data and action.
 - [VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕](sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk.md) — 这病说来话长 episode with 阿汤 and plastic-surgery doctor Lulu on medical-drama realism, botulinum-toxin poisoning, unapproved injectables, provider verification, and safety-first expectation management.
 - [557. 1066: The Norman Conquest (Part 4)](sources/557-1066-the-norman-conquest-part-4-glt5156716826.md) — The Rest Is History episode on post-Hastings submission, William's coronation, elite replacement, the Harrying of the North, castles, church reform, Domesday Book, and conquest as rupture joined to institutional continuity.
@@ -2763,8 +2764,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [诸葛瑾 / Zhuge Jin](entities/ZhugeJin.md) — 孙权幕府官员、鲁肃友人和诸葛亮之兄，构成孙刘联盟的人际桥梁。
 - [吴巨 / Wu Ju (late Han)](entities/WuJuLateHan.md) — 刘备长坂败后声称要投奔的苍梧太守，也是鲁肃劝联孙权时的弱势对照项。
 - [长坂坡之战 / Battle of Changban](entities/ChangbanBattle.md) — 百姓追随造成的慢速南撤被曹军追上，刘备集团崩散后又经汉津会师、夏口重组通向孙刘联盟的208年战役。
-- [马超 / Ma Chao](entities/MaChao.md) — 马腾入朝后承接西部兵权、其后起兵并在渭南败于曹操的关中联盟核心人物。
-- [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211 CE Guanzhong campaign presented as a Cao Cao victory through coalition-fragility assessment and Jia Xu's divisive counsel.
+- [马超 / Ma Chao](entities/MaChao.md) — 马腾入朝后承接西部兵权，在曹军西进压力与家属暴露下先行起兵、随后于渭南败于曹操的关中联盟核心人物。
+- [渭南之战 / Battle of Weinan (Late Han)](entities/WeinanBattleLateHan.md) — 211年关中战役；现有证据将先手名分、家属牵制、联盟脆弱性和贾诩离间并列为政治与军事机制。
 - [红君 / Hongjun (硅谷101)](entities/HongjunSiliconValley101.md) — 硅谷101 host who frames agent-transaction trust through concrete authorization, safety, ranking, and delegated-amount questions.
 - [韩新毅 / Han Xinyi](entities/HanXinyi.md) — Ant Group chief executive presenting agent-commerce cold start and layered payment trust.
 - [Yong Lambert](entities/YongLambert.md) — Mastercard product executive discussing verifiable intent, KYA, recourse, and machine credentials.
@@ -15091,7 +15092,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Talent Legitimacy / 胁迫征士合法性](concepts/CoercedTalentLegitimacy.md) — Pattern where violent rulers use threats, hostages, and office honors to simulate elite consent while undermining legitimacy.
 - [Crisis Deception Survival / 临危欺敌求生](concepts/CrisisDeceptionSurvival.md) — Hanji 980 pattern where Cao Cao survives the Puyang trap by exploiting a recognition gap with immediate verbal misdirection.
 - [Hostage-Ransom Deterrence / 劫质禁赎威慑](concepts/HostageRansomDeterrence.md) — Hanji 915 rule pattern where refusing ransom and punishing private payments makes hostage-taking less profitable, at severe cost to immediate victims.
-- [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — Pattern where protection or recognition secured by placing family under a stronger power risks strategic subordination.
+- [Hostage-Backed Dependency Trap / 家属质押式依附陷阱](concepts/HostageBackedDependencyTrap.md) — 以家属换取保护或承认所形成的依附；家属杠杆可能约束自主，也可能在威慑失败后转化为惩罚渠道。
+- [Provoked-Rebellion Legitimacy Transfer / 诱发反叛式名分转移](concepts/ProvokedRebellionLegitimacyTransfer.md) — 通过不正式宣战的军事压力诱使对手先行抵抗，再把潜在进攻重述为合法平叛的策略解释。
 - [Imported Troops Local Elite Cleavage / 外来武装与本土豪族裂缝](concepts/ImportedTroopsLocalEliteCleavage.md) — Yi Province pattern where migrant military support, Dongzhou troop abuse, and local elite interests fail to integrate under Liu Zhang.
 - [Local Elite Proxy Selection / 地方豪强代理人选择](concepts/LocalEliteProxySelection.md) — Late-Han Xuzhou pattern where local elites choose a legitimate, weaker proxy over a stronger outsider likely to absorb them.
 - [Kinship Resource State-Building / 姻亲资源建构](concepts/KinshipResourceStateBuilding.md) — Pattern where marriage and maternal kinship turn local gentry, trade, geographic knowledge, and soldiers into state-building capacity.

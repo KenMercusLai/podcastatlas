@@ -55300,9 +55300,9 @@
       "url": "/wiki/concepts/hostcountrymanufacturingbacklash/"
     },
     "HostageBackedDependencyTrap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》981丨三国最刚谋士程昱：一句话让曹操叹服 [lhLHlRMf2GVSPwyvjkxG6Kz44FTH].md",
@@ -55317,9 +55317,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1058丨少年孙权初掌江东，如何应对曹操发难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？ [lkCHgLVK7g5ZxTohkUQI_4Y4WdW3].md",
+          "key": "zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/hostagebackeddependencytrap/"
     },
     "HostageMissionDependencyTrap": {
@@ -76411,9 +76418,9 @@
       "url": "/wiki/entities/mabaoxing/"
     },
     "MaChao": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -76428,9 +76435,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1088丨军营夜乱，他带几十人就镇住了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1088-junying-yeluan-ta-dai-jishiren-jiu-zhenzhule-lu8ocnihz6arqllfcc3ujok6ujil/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？ [lkCHgLVK7g5ZxTohkUQI_4Y4WdW3].md",
+          "key": "zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/machao/"
     },
     "MaChengEasternHan": {
@@ -94788,6 +94802,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/provisionalira/"
+    },
+    "ProvokedRebellionLegitimacyTransfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？ [lkCHgLVK7g5ZxTohkUQI_4Y4WdW3].md",
+          "key": "zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/provokedrebellionlegitimacytransfer/"
     },
     "PrudentAmbiguitySelfProtection": {
       "episode_count": 2,
@@ -124729,9 +124759,9 @@
       "url": "/wiki/entities/weimarrepublic/"
     },
     "WeinanBattleLateHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？ [lgMK_DLKNjPzZ7FvzAsnO6tu7FS3].md",
@@ -124739,9 +124769,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1105丨关羽之死，埋葬了曹操怎样的梦想？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1105-guanyu-zhisi-maizang-le-caocao-zenyang-de-mengxiang-lgmk_dlknjpzz7fvzasno6tu7fs3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？ [lkCHgLVK7g5ZxTohkUQI_4Y4WdW3].md",
+          "key": "zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1120丨潼关之战背后的博弈：马超开局就中套？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1120-tongguan-zhizhan-beihou-de-boyi-ma-chao-kaiju-jiu-zhongtao-lkchglvk7g5zxtohkuqi_4y4wdw3/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/weinanbattlelatehan/"
     },
     "WeismannBarrier": {
