@@ -11760,6 +11760,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/battleofstamfordbridge/"
     },
+    "BattleOfStiklestad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/battleofstiklestad/"
+    },
     "BattleOfTrebia": {
       "episode_count": 1,
       "show_count": 1,
@@ -53134,9 +53150,9 @@
       "url": "/wiki/entities/happymondayclub/"
     },
     "HaraldHardrada": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1524879968 [GLT1524879968].md",
@@ -53158,6 +53174,13 @@
           "show": "The Rest Is History",
           "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
           "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+        },
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
         }
       ],
       "updated": "2026-09-21",
@@ -66096,6 +66119,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/khotankingdomlatehan/"
+    },
+    "KievanRus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/kievanrus/"
     },
     "KimKardashian": {
       "episode_count": 1,
@@ -88113,6 +88152,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/okinawabasepolitics/"
     },
+    "OlafIIOfNorway": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/olafiiofnorway/"
+    },
     "OlderAdultStereotypeResistance": {
       "episode_count": 1,
       "show_count": 1,
@@ -103713,9 +103768,9 @@
       "url": "/wiki/concepts/safeeffortprocrastinationreset/"
     },
     "SagaSourceCriticism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5802152245 [GLT5802152245].md",
@@ -103723,6 +103778,13 @@
           "show": "The Rest Is History",
           "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
           "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+        },
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
         }
       ],
       "updated": "2026-09-21",
@@ -122488,9 +122550,9 @@
       "url": "/wiki/entities/vannevarbush/"
     },
     "VarangianGuard": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5802152245 [GLT5802152245].md",
@@ -122498,6 +122560,13 @@
           "show": "The Rest Is History",
           "title": "553. The Last Viking: Warrior of the New Rome (Part 2)",
           "url": "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
+        },
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
         }
       ],
       "updated": "2026-09-21",
@@ -123035,6 +123104,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
+    },
+    "VikingEasternRoutes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/vikingeasternroutes/"
     },
     "ViktorMayerSchonberger": {
       "episode_count": 1,
@@ -133913,6 +133998,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/yaosongeasternhan/"
+    },
+    "YaroslavTheWise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8286135160 [GLT8286135160].md",
+          "key": "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160",
+          "show": "The Rest Is History",
+          "title": "552. The Last Viking: The Saga of Harald Hardrada (Part 1)",
+          "url": "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/yaroslavthewise/"
     },
     "YeLateHan": {
       "episode_count": 6,

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2072
+topic_total_pages: 2074
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2989,6 +2989,9 @@ topic_concepts:
   - key: "ViewpointDebanking"
     title: "Viewpoint Debanking"
     url: "/wiki/concepts/viewpointdebanking/"
+  - key: "VikingEasternRoutes"
+    title: "Viking Eastern Routes"
+    url: "/wiki/concepts/vikingeasternroutes/"
   - key: "VirtualAssetAMLRisk"
     title: "Virtual Asset AML Risk"
     url: "/wiki/concepts/virtualassetamlrisk/"
@@ -4148,6 +4151,9 @@ topic_entities:
   - key: "Kickstarter"
     title: "Kickstarter"
     url: "/wiki/entities/kickstarter/"
+  - key: "KievanRus"
+    title: "Kievan Rus"
+    url: "/wiki/entities/kievanrus/"
   - key: "Kiko"
     title: "Kiko"
     url: "/wiki/entities/kiko/"

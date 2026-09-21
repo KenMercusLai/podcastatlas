@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7763
+wiki_total_pages: 7765
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "VigilanteJusticeUniversalizationRisk"
     title: "Vigilante Justice Universalization Risk"
     url: "/wiki/concepts/vigilantejusticeuniversalizationrisk/"
+  - key: "VikingEasternRoutes"
+    title: "Viking Eastern Routes"
+    url: "/wiki/concepts/vikingeasternroutes/"
   - key: "VillageSelfGovernance"
     title: "Village Self-Governance / 村庄自主治理"
     url: "/wiki/concepts/villageselfgovernance/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10418
+wiki_total_pages: 10421
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Kickstarter"
     title: "Kickstarter"
     url: "/wiki/entities/kickstarter/"
+  - key: "KievanRus"
+    title: "Kievan Rus"
+    url: "/wiki/entities/kievanrus/"
   - key: "Kiko"
     title: "Kiko"
     url: "/wiki/entities/kiko/"

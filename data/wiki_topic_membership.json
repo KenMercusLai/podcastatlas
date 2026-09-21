@@ -1780,6 +1780,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245": [
     {
       "key": "history",
@@ -40353,6 +40360,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KievanRus": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "Kiko": [
     {
       "key": "economics",
@@ -73530,6 +73544,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "VikingEasternRoutes": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ViktorMayerSchonberger": [

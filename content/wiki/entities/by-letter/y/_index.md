@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10418
+wiki_total_pages: 10421
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "YaoSong"
     title: "Yao Song / 姚颂"
     url: "/wiki/entities/yaosong/"
+  - key: "YaroslavTheWise"
+    title: "Yaroslav the Wise"
+    url: "/wiki/entities/yaroslavthewise/"
   - key: "YaserGonzalezCabrera"
     title: "Yaser Gonzalez Cabrera"
     url: "/wiki/entities/yasergonzalezcabrera/"

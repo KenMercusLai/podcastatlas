@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1906
+topic_total_pages: 1907
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4566,6 +4566,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160"
+    title: "552. The Last Viking: The Saga of Harald Hardrada (Part 1)"
+    url: "/wiki/sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160/"
   - key: "553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245"
     title: "553. The Last Viking: Warrior of the New Rome (Part 2)"
     url: "/wiki/sources/553-the-last-viking-warrior-of-the-new-rome-part-2-glt5802152245/"
