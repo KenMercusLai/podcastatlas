@@ -21270,3 +21270,11 @@ Added source `542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | Essentials: How to Optimize Testosterone & Estrogen
+
+Added source `essentials-how-to-optimize-testosterone-estrogen-scim1902283258`; created `SexSteroidFeedbackRegulation`; updated `MaleHormoneHealthPhenotyping`, `AndrogenSupportSupplementBoundary`, `AndrewHuberman`, `HubermanLab`, and the index. Core synthesis: testosterone and estrogen are shared, interacting sex steroids governed by conversion and feedback, so sleep, stress, light, exercise, supplements, fertility, and direct hormone interventions require context and measurement rather than maximization. No settled contradiction found; competition, breathing, cold exposure, exercise order, menopause therapy, Tongkat Ali, HCG, and Fadogia claims remain source-scoped and clinically bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

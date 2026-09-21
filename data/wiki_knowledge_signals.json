@@ -7280,9 +7280,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 40,
+      "episode_count": 41,
       "show_count": 1,
-      "source_note_count": 40,
+      "source_note_count": 41,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7563,6 +7563,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
+        },
+        {
+          "episode_file": "SCIM1902283258 [SCIM1902283258].md",
+          "key": "essentials-how-to-optimize-testosterone-estrogen-scim1902283258",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Testosterone & Estrogen",
+          "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
         }
       ],
       "updated": "2026-09-22",
@@ -7624,9 +7631,9 @@
       "url": "/wiki/concepts/androgeninterventionclinicalboundary/"
     },
     "AndrogenSupportSupplementBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -7634,9 +7641,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM1902283258 [SCIM1902283258].md",
+          "key": "essentials-how-to-optimize-testosterone-estrogen-scim1902283258",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Testosterone & Estrogen",
+          "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/androgensupportsupplementboundary/"
     },
     "Anduril": {
@@ -58792,9 +58806,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 40,
+      "episode_count": 41,
       "show_count": 1,
-      "source_note_count": 40,
+      "source_note_count": 41,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -59075,6 +59089,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
+        },
+        {
+          "episode_file": "SCIM1902283258 [SCIM1902283258].md",
+          "key": "essentials-how-to-optimize-testosterone-estrogen-scim1902283258",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Testosterone & Estrogen",
+          "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
         }
       ],
       "updated": "2026-09-22",
@@ -80264,9 +80285,9 @@
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5974928415 [SCIM5974928415].md",
@@ -80274,9 +80295,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM1902283258 [SCIM1902283258].md",
+          "key": "essentials-how-to-optimize-testosterone-estrogen-scim1902283258",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Testosterone & Estrogen",
+          "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/malehormonehealthphenotyping/"
     },
     "MaleMentorFemaleGrowthNarrative": {
@@ -108342,6 +108370,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/sexpistols/"
+    },
+    "SexSteroidFeedbackRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1902283258 [SCIM1902283258].md",
+          "key": "essentials-how-to-optimize-testosterone-estrogen-scim1902283258",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Optimize Testosterone & Estrogen",
+          "url": "/wiki/sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
     },
     "SexualExplorationAsSelfKnowledge": {
       "episode_count": 1,

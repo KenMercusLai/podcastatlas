@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7831
+wiki_total_pages: 7832
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "SexCounselingNonjudgmentalBoundary"
     title: "Sex Counseling Nonjudgmental Boundary / 性咨询中的非评判边界"
     url: "/wiki/concepts/sexcounselingnonjudgmentalboundary/"
+  - key: "SexSteroidFeedbackRegulation"
+    title: "Sex-Steroid Feedback Regulation"
+    url: "/wiki/concepts/sexsteroidfeedbackregulation/"
   - key: "SexualExplorationAsSelfKnowledge"
     title: "Sexual Exploration As Self-Knowledge / 性探索作为自我认识"
     url: "/wiki/concepts/sexualexplorationasselfknowledge/"

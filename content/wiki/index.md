@@ -2672,6 +2672,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态](sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho.md) — 这病说来话长 lifestyle interview with singer 信 on cooking, low-friction exercise starts, concert recovery, travel, art, music, and source-scoped optimism and health routines.
 - [How to Enhance Your Immune System | Dr. Roger Seheult](sources/how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462.md) — Huberman Lab interview on foundational immune health, daylight and darkness, respiratory-infection prevention, fever and heat, long COVID, mold evaluation, and evidence-bounded recovery tools.
 
+- [Essentials: How to Optimize Testosterone & Estrogen](sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258.md) — Huberman Lab Essentials episode on sex-steroid feedback, aromatization, sleep, stress, light, exercise, supplements, bloodwork, and clinical risk boundaries.
+
 ## Entities
 - [Walter Raleigh](entities/WalterRaleigh.md) — Elizabethan colonial-project figure linked by the source to John Dee's cartographic and imperial ideas around Virginia and Roanoke.
 - [John Dee](entities/JohnDee.md) — Tudor polymath connecting mathematics, navigation, cartography, court astrology, imperial argument, and angelic inquiry.
@@ -20991,5 +20993,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Layered Respiratory Infection Prevention](concepts/LayeredRespiratoryInfectionPrevention.md) — Proportional combination of vaccination, source control, respirators, hygiene, clean air, baseline health, and timely care.
 - [Fever and Heat Immune-Response Boundary](concepts/FeverHeatImmuneResponseBoundary.md) — Distinction between fever physiology and unproven deliberate-heat, hydrotherapy, sauna, or cold-contrast treatment claims.
 - [Long COVID Differential and Recovery](concepts/LongCovidDifferentialRecovery.md) — Heterogeneous post-infection evaluation that rules out serious alternatives before considering metabolic, inflammatory, persistence, or rehabilitation hypotheses.
+
+- [Sex-Steroid Feedback Regulation](concepts/SexSteroidFeedbackRegulation.md) — Cross-sex endocrine frame joining testosterone-estrogen conversion, pituitary feedback, context, measurement, fertility, and intervention risk.
 
 ## Syntheses
