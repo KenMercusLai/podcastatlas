@@ -28605,6 +28605,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/daymondjohn/"
     },
+    "DeRoyalizationRitual": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/deroyalizationritual/"
+    },
     "DeathFacingResponsibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -44755,9 +44771,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -44772,9 +44788,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/frenchrevolution/"
     },
     "FreshAllergySafeProductionScaling": {
@@ -48652,9 +48675,9 @@
       "url": "/wiki/entities/giorgiovasari/"
     },
     "Girondins": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48669,9 +48692,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/girondins/"
     },
     "GlobalAIGovernanceFramework": {
@@ -76285,6 +76315,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/louismoreaugottschalk/"
     },
+    "LouisXVI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/louisxvi/"
+    },
     "LouisianaPurchase": {
       "episode_count": 1,
       "show_count": 1,
@@ -85841,6 +85887,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/nationalcollegiateathleticassociation/"
     },
+    "NationalConvention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/nationalconvention/"
+    },
     "NationalDirectorEmotionOutlet": {
       "episode_count": 1,
       "show_count": 1,
@@ -94427,6 +94489,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/politicalcaseevidenceskepticism/"
     },
+    "PoliticalExecutionMemoryContest": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/politicalexecutionmemorycontest/"
+    },
     "PoliticalExecutionOverreach": {
       "episode_count": 4,
       "show_count": 1,
@@ -101003,6 +101081,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/regentshadowaccessionsurvival/"
     },
+    "RegicideAsRepublicanFounding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/regicideasrepublicanfounding/"
+    },
     "RegimeSymbolContinuity": {
       "episode_count": 4,
       "show_count": 1,
@@ -102552,6 +102646,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/revolute/"
+    },
+    "RevolutionaryJusticeMercyConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2184509954 [GLT2184509954].md",
+          "key": "547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954",
+          "show": "The Rest Is History",
+          "title": "547. The French Revolution: The Execution of the King (Part 4)",
+          "url": "/wiki/sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/revolutionaryjusticemercyconflict/"
     },
     "RevolutionaryMartyrdomImageMaking": {
       "episode_count": 2,

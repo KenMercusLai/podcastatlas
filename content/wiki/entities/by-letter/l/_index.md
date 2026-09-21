@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10441
+wiki_total_pages: 10443
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "LouisMoreauGottschalk"
     title: "Louis Moreau Gottschalk"
     url: "/wiki/entities/louismoreaugottschalk/"
+  - key: "LouisXVI"
+    title: "Louis XVI"
+    url: "/wiki/entities/louisxvi/"
   - key: "LouisaMayAlcott"
     title: "Louisa May Alcott / 奥尔科特"
     url: "/wiki/entities/louisamayalcott/"

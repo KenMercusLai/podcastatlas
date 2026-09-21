@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10441
+wiki_total_pages: 10443
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -125,6 +125,9 @@ wiki_pages:
   - key: "NationalConferenceOfStateLegislatures"
     title: "National Conference of State Legislatures"
     url: "/wiki/entities/nationalconferenceofstatelegislatures/"
+  - key: "NationalConvention"
+    title: "National Convention"
+    url: "/wiki/entities/nationalconvention/"
   - key: "NationalDevelopmentAndReformCommission"
     title: "National Development and Reform Commission / 国家发改委"
     url: "/wiki/entities/nationaldevelopmentandreformcommission/"

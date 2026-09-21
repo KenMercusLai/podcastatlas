@@ -21166,3 +21166,11 @@ Added source `essentials-boost-your-energy-immune-system-with-cortisol-adrenalin
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 547. The French Revolution: The Execution of the King (Part 4)
+
+Added source `547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954`; created `LouisXVI`, `NationalConvention`, `DeRoyalizationRitual`, `RegicideAsRepublicanFounding`, `RevolutionaryJusticeMercyConflict`, and `PoliticalExecutionMemoryContest`; updated `FrenchRevolution`, `Girondins`, and the index. Core synthesis: Louis's trial operated simultaneously as adjudication, ritual destruction of sacred kingship, and an asserted founding act for the Republic, but disagreement over referendum, reprieve, mercy, burial, and martyr memory prevented execution from producing shared legitimacy. No settled contradiction found; the “one vote” margin, final words, dialogue, crowd mood, precise symbolic intent, and posthumous anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

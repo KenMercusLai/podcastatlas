@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [547. The French Revolution: The Execution of the King (Part 4)](sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954.md) — The Rest Is History episode on Louis XVI's trial and execution, ritual de-royalization, republican founding violence, mercy disputes, and rival martyr memories.
 - [VOL.155每夜窒息51秒！医生讲述年轻女患者的重生故事](sources/vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv.md) — 这病说来话长 episode on obstructive sleep apnea recognition, polysomnography, treatment choice, and home positive-airway-pressure adherence.
 - [548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)](sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286.md) — The Rest Is History episode on Anglo-Saxon state formation, Norman hybrid identity, Æthelred's strategic dilemmas, Danegeld, and the St Brice's Day massacre.
 - [How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting | Stuart McMillan](sources/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan-scim1307532744.md) — Huberman Lab interview on speed-dependent gait, skipping as a plyometric bridge, eccentric sprint capacity, individualized coaching, and the qualified maximal-speed vitality hypothesis.
@@ -2660,6 +2661,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline](sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634.md) — Huberman Lab episode on cortisol and epinephrine timing, morning light, deliberate arousal, acute immune signaling, chronic-stress costs, and recovery boundaries.
 
 ## Entities
+- [Louis XVI](entities/LouisXVI.md) — Deposed Bourbon king whose trial, de-royalization, execution, and contested afterlife became a test of republican legitimacy.
+- [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
 - [Alfred the Great](entities/AlfredTheGreat.md) — West Saxon ruler whose defense, fortified towns, trade policy, and political identity underpin later English unification.
 - [Athelstan](entities/Athelstan.md) — West Saxon king presented as completing the political unification of England.
@@ -13110,6 +13113,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [De-Royalization Ritual](concepts/DeRoyalizationRitual.md) — Public removal of monarchical exception through names, etiquette, criminal procedure, execution, space, and burial.
+- [Regicide as Republican Founding](concepts/RegicideAsRepublicanFounding.md) — Interpretation of a deposed monarch's execution as the irreversible act through which a republic asserts sovereignty.
+- [Revolutionary Justice-Mercy Conflict](concepts/RevolutionaryJusticeMercyConflict.md) — Legitimacy struggle over punishment, appeal, reprieve, and compassion when a defeated ruler remains a political symbol.
+- [Political Execution Memory Contest](concepts/PoliticalExecutionMemoryContest.md) — Rival construction of an executed political figure as criminal, tyrant, victim, martyr, or sacrifice.
 - [Obstructive Sleep Apnea Recognition](concepts/ObstructiveSleepApneaRecognition.md) — Symptom, risk, screening, diagnostic, and escalation pathway for suspected obstructive sleep apnea.
 - [Positive Airway Pressure Therapy](concepts/PositiveAirwayPressureTherapy.md) — Noninvasive airway-support framework joining indication, titration, device fit, comfort, data, and adherence.
 - [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development of English defense, towns, church, coinage, political unity, and coercive royal capacity.

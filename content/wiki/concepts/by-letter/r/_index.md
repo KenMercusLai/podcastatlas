@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7798
+wiki_total_pages: 7802
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -254,6 +254,9 @@ wiki_pages:
   - key: "RegentShadowAccessionSurvival"
     title: "Regent-Shadow Accession Survival / 权臣阴影下的即位生存"
     url: "/wiki/concepts/regentshadowaccessionsurvival/"
+  - key: "RegicideAsRepublicanFounding"
+    title: "Regicide as Republican Founding"
+    url: "/wiki/concepts/regicideasrepublicanfounding/"
   - key: "RegimeBasicBaseStabilization"
     title: "Regime Basic-Base Stabilization / 政权基本盘稳定"
     url: "/wiki/concepts/regimebasicbasestabilization/"
@@ -683,6 +686,9 @@ wiki_pages:
   - key: "RevolutionaryEconomicSelfReliance"
     title: "Revolutionary Economic Self-Reliance"
     url: "/wiki/concepts/revolutionaryeconomicselfreliance/"
+  - key: "RevolutionaryJusticeMercyConflict"
+    title: "Revolutionary Justice-Mercy Conflict"
+    url: "/wiki/concepts/revolutionaryjusticemercyconflict/"
   - key: "RevolutionaryMartyrdomImageMaking"
     title: "Revolutionary Martyrdom Image-Making / 革命殉道图像制造"
     url: "/wiki/concepts/revolutionarymartyrdomimagemaking/"

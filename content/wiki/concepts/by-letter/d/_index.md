@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7798
+wiki_total_pages: 7802
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "DeFactoSuperLeagueLogic"
     title: "De Facto Super League Logic"
     url: "/wiki/concepts/defactosuperleaguelogic/"
+  - key: "DeRoyalizationRitual"
+    title: "De-Royalization Ritual"
+    url: "/wiki/concepts/deroyalizationritual/"
   - key: "DEAExemptionProcess"
     title: "DEA Exemption Process"
     url: "/wiki/concepts/deaexemptionprocess/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7798
+wiki_total_pages: 7802
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "PoliticalDoubleStandardBacklash"
     title: "Political Double-Standard Backlash"
     url: "/wiki/concepts/politicaldoublestandardbacklash/"
+  - key: "PoliticalExecutionMemoryContest"
+    title: "Political Execution Memory Contest"
+    url: "/wiki/concepts/politicalexecutionmemorycontest/"
   - key: "PoliticalExitToEntry"
     title: "Political Exit to Entry"
     url: "/wiki/concepts/politicalexittoentry/"
