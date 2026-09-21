@@ -20912,3 +20912,11 @@ Added source `zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-wei
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？
+
+Added source `zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6`; created `DongSiLateHan` and `CaptivityRepatriationFamilySeparation`; and updated `CaiWenji`, overview, and index. Core synthesis: Cao Cao's capacity-backed ransom can restore Cai Wenji's access to homeland without undoing wartime loss, because the episode makes return conditional on separation from her two sons; her later plea for Dong Si and reconstruction of Cai Yong's texts add post-return agency and cultural memory. No settled contradiction found; chronology, ransom terms, household status, literary attribution, text counts, dialogue, inner psychology, and the claimed Cao Cao-Cai Wenji romance remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

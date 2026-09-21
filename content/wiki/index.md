@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？](sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6.md) — 蔡文姬在汉末战乱中被掳、在匈奴生活十二年并育有二子，曹操赎归使她重获故土却承受母子分离，归汉后又以求情与记忆延续家庭责任和蔡邕的文本遗产。
 - [《资治通鉴·汉纪》1117丨周瑜妙计软禁刘备，孙权为何不采纳？](sources/zizhi-tongjian-hanji-1117-zhouyu-miaoji-ruanjin-liubei-sunquan-weihe-bu-caina-lsfx3v0jt_el5y8rvkhm-em6iui3.md) — 周瑜主张软禁刘备并拆分其核心团队，孙权因曹操仍是更紧迫威胁而拒绝；节目继而补全周瑜西征北伐构想、病逝与荐鲁肃接任。
 - [参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？](sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362.md) — 声动早咖啡 episode on Anaya's shift from weak property sales to resident services, managed lodging, merchant revenue sharing, cultural traffic, and the owner-tourist and replication tensions created by success.
 - [Vol.227 目标亚洲：亚冠与亚运，我们该认真吗？ft.丰臻](sources/vol-227-mubiao-yazhou-yaguan-yu-yayun-women-gai-renzhen-ma-ft-fengzhen-gkwrijiohmz4aubqtwtatc1u.md) — 不懂球 episode with Feng Zhen on treating Asian competition seriously while protecting league continuity, improving match supply and squad depth, and using naturalization only as a bounded short-term tool.
@@ -2626,6 +2627,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [董祀 / Dong Si (late Han)](entities/DongSiLateHan.md) — 蔡文姬归汉后的丈夫，节目以其死罪获赦故事突出蔡文姬的勇气、判断与行动能力。
 - [Ma Yin / 马寅](entities/MaYin.md) — Anaya founder and operator associated with its shift from property sales toward recurring community, hospitality, commercial, and cultural operations.
 - [丰臻 / Feng Zhen](entities/FengZhenFootballCommentator.md) — Football commentator linking serious Asian competition to league continuity, club responsibility, match supply, foreign-player depth, and bounded naturalization.
 - [Ecovacs Robotics / 科沃斯](entities/EcovacsRobotics.md) — Household-robot company extending a reusable sensing, mapping, planning, and control stack across floor, window, lawn, and pool cleaning.
@@ -5349,7 +5351,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [董旻 / Dong Min (late Han)](entities/DongMinLateHan.md) — Dong Zhuo's younger brother, used in Hanji 962 to show family-centered military power around the late-Han court.
 - [董璜 / Dong Huang (late Han)](entities/DongHuangLateHan.md) — Dong Zhuo's nephew and central-army appointee in Hanji 962's kinship-power setup.
 - [杨瓒 / Yang Zan (late Han)](entities/YangZanLateHan.md) — Official named in Wang Yun's anti-Dong-Zhuo planning circle before Lü Bu is persuaded.
-- [蔡文姬 / Cai Wenji](entities/CaiWenji.md) — Cai Yong's daughter, whose exile-and-ransom afterlife preserves the historian branch after Wang Yun's execution of Cai Yong.
+- [蔡文姬 / Cai Wenji](entities/CaiWenji.md) — 蔡邕之女，其十二年匈奴流离、母子分离、赎归、救董祀与文本记忆把乱世生存和文化传承连在一起。
 - [蔡邕 / Cai Yong](entities/CaiYong.md) — Late-Han scholar whose execution by Wang Yun is read as reputation and historical-record anxiety after Dong Zhuo's death.
 - [刘岱 / Liu Dai (late Han)](entities/LiuDaiLateHan.md) — Late-Han official who defends Lu Kang in Hanji 932 and later dies as Yanzhou inspector fighting the Qingzhou Yellow Turbans.
 - [鲍信 / Bao Xin](entities/BaoXin.md) — Yanzhou actor who advises attrition against the Qingzhou Yellow Turbans, invites Cao Cao, and dies saving him.
@@ -13029,6 +13031,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tsinghua Institute for Interdisciplinary Information Sciences / 清华大学交叉信息研究院](entities/TsinghuaIIIS.md) — Tsinghua institute represented through Xu Mengdi's choice of an interdisciplinary, system-building robotics environment.
 
 ## Concepts
+- [俘获、赎归与家庭分离 / Captivity, Repatriation, and Family Separation](concepts/CaptivityRepatriationFamilySeparation.md) — 战乱中的赎归恢复自由与故土联系，却可能以新家庭关系断裂为不可逆代价。
 - [中国足球亚洲赛事优先级 / Chinese Football Asian Competition Priority](concepts/ChineseFootballAsianCompetitionPriority.md) — Strategy of building long-run football capacity through current Asian competitions without making professional-league continuity expendable.
 - [战略基地转移式联盟巩固 / Strategic Base Transfer Alliance Consolidation](concepts/StrategicBaseTransferAllianceConsolidation.md) — 通过向较弱伙伴提供领土、财政和纵深来强化共同防线，同时增加伙伴自主性与未来分配冲突。
 - [学习驱动的角色跃迁 / Learning-Driven Role Expansion](concepts/LearningDrivenRoleExpansion.md) — 与职责相关的持续学习把执行经验扩展为更广的判断能力，并促使同僚修正旧有评价。

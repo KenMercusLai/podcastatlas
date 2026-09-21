@@ -15158,6 +15158,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/caimao/"
     },
+    "CaiWenji": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！ [lkPkhlpKV3Xpw-hUR4b7SH-3DRUk].md",
+          "key": "zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》963丨史上被“点天灯”的第一人，是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？ [lgQrIFnY2iYuoHlAl306eZnTwbc6].md",
+          "key": "zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/caiwenji/"
+    },
     "CaiYangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -16989,6 +17012,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/captivesubmissionresidualloyalty/"
+    },
+    "CaptivityRepatriationFamilySeparation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？ [lgQrIFnY2iYuoHlAl306eZnTwbc6].md",
+          "key": "zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/captivityrepatriationfamilyseparation/"
     },
     "CapturedOpponentTalentIncorporation": {
       "episode_count": 4,
@@ -30931,6 +30970,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/donghongwesternhan/"
+    },
+    "DongSiLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？ [lgQrIFnY2iYuoHlAl306eZnTwbc6].md",
+          "key": "zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/dongsilatehan/"
     },
     "DongXiLateHan": {
       "episode_count": 2,

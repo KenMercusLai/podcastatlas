@@ -689,12 +689,13 @@
       "b3e855d0829011049e58a9bb2c9c6a5046e70cf4e04ed32b43f9498405054c51",
       "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c",
       "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769",
-      "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef"
+      "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
+      "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276"
     ],
-    "paragraph_count": 689
+    "paragraph_count": 690
   },
-  "overview_commit": "db464b604e5388611ba56b7f673d907cb2c41564",
-  "overview_digest": "2976a7d4acb365f72667a6a1a6945f3977a1e110747f8c4d9d52e3989f2f4a56",
+  "overview_commit": "34acbcd4465e5fec0960aabedb64bb85cb5b3b9c",
+  "overview_digest": "2224a9d80fba3a32e82bc3039e58177518b729dd97bc757ea56e61372b41c86b",
   "paragraphs": [
     {
       "id": "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
@@ -20658,6 +20659,30 @@
         "OnRunning",
         "ShengdongZaokafei",
         "canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362"
+      ]
+    },
+    {
+      "id": "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "governance-and-institutions"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6|《资治通鉴·汉纪》1116丨被匈奴掳走12年，蔡文姬如何弃子归汉？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode expanding the brief [[CaiWenji|蔡文姬]] afterlife branch in Hanji 963. It adds [[DongSiLateHan|董祀]] and [[CaptivityRepatriationFamilySeparation|俘获、赎归与家庭分离]], linking late-Han capture, twelve years among the [[Xiongnu|匈奴]], two sons, [[CaoCao|曹操]]'s ransom, return without the children, Dong Si's pardon, and reconstruction of [[CaiYong|蔡邕]]'s textual legacy. Its core synthesis is that political and military capacity can make repatriation possible without making it whole: return restores homeland and a degree of freedom while producing an irreversible parent-child rupture, and memory preserves losses that power cannot repair. No settled contradiction is recorded; dates, ransom terms, household status, literary attribution, text counts, dialogue, inner psychology, and the claimed Cao Cao-Cai Wenji romance remain source-scoped pending comparison with historical and literary evidence.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 3,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CaiWenji",
+        "CaiYong",
+        "CaoCao",
+        "CaptivityRepatriationFamilySeparation",
+        "DongSiLateHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "Xiongnu",
+        "zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6"
       ]
     }
   ],

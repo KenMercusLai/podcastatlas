@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7727
+wiki_total_pages: 7728
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2288,6 +2288,9 @@ wiki_pages:
   - key: "CareerPositioningThroughFit"
     title: "人生定位与适配 / Career Positioning Through Fit"
     url: "/wiki/concepts/careerpositioningthroughfit/"
+  - key: "CaptivityRepatriationFamilySeparation"
+    title: "俘获、赎归与家庭分离 / Captivity, Repatriation, and Family Separation"
+    url: "/wiki/concepts/captivityrepatriationfamilyseparation/"
   - key: "CreditBasedBanditSurrender"
     title: "信义招降盗贼 / Credit-Based Bandit Surrender"
     url: "/wiki/concepts/creditbasedbanditsurrender/"
