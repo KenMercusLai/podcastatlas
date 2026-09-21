@@ -7264,9 +7264,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 39,
+      "episode_count": 40,
       "show_count": 1,
-      "source_note_count": 39,
+      "source_note_count": 40,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7540,6 +7540,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
           "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        },
+        {
+          "episode_file": "SCIM9260736648 [SCIM9260736648].md",
+          "key": "essentials-how-to-control-hunger-eating-satiety-scim9260736648",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
         }
       ],
       "updated": "2026-09-22",
@@ -8766,6 +8773,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/appareloemverticalintegration/"
+    },
+    "AppetiteHormoneRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9260736648 [SCIM9260736648].md",
+          "key": "essentials-how-to-control-hunger-eating-satiety-scim9260736648",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/appetitehormoneregulation/"
     },
     "AppleMetal": {
       "episode_count": 1,
@@ -49148,9 +49171,9 @@
       "url": "/wiki/concepts/glycationskinanxiety/"
     },
     "GlycemicResponseToolBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -49158,9 +49181,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
           "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
+        },
+        {
+          "episode_file": "SCIM9260736648 [SCIM9260736648].md",
+          "key": "essentials-how-to-control-hunger-eating-satiety-scim9260736648",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/glycemicresponsetoolboundary/"
     },
     "GnaeusOctaviusRomanConsul": {
@@ -58556,9 +58586,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 39,
+      "episode_count": 40,
       "show_count": 1,
-      "source_note_count": 39,
+      "source_note_count": 40,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -58832,6 +58862,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
           "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        },
+        {
+          "episode_file": "SCIM9260736648 [SCIM9260736648].md",
+          "key": "essentials-how-to-control-hunger-eating-satiety-scim9260736648",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
         }
       ],
       "updated": "2026-09-22",
@@ -123558,9 +123595,9 @@
       "url": "/wiki/entities/ultabeauty/"
     },
     "UltraProcessedFoodPragmaticBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -123568,9 +123605,16 @@
           "show": "Huberman Lab",
           "title": "How Different Diets Impact Your Health | Dr. Christopher Gardner",
           "url": "/wiki/sources/how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616/"
+        },
+        {
+          "episode_file": "SCIM9260736648 [SCIM9260736648].md",
+          "key": "essentials-how-to-control-hunger-eating-satiety-scim9260736648",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
@@ -124881,9 +124925,9 @@
       "url": "/wiki/concepts/venousthromboembolismtriage/"
     },
     "VentromedialHypothalamus": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4757138073 [SCIM4757138073].md",
@@ -124898,9 +124942,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson",
           "url": "/wiki/sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944/"
+        },
+        {
+          "episode_file": "SCIM9260736648 [SCIM9260736648].md",
+          "key": "essentials-how-to-control-hunger-eating-satiety-scim9260736648",
+          "show": "Huberman Lab",
+          "title": "Essentials: How to Control Hunger, Eating & Satiety",
+          "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/ventromedialhypothalamus/"
     },
     "VerifiableIntent": {

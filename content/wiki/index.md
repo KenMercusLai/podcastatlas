@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: How to Control Hunger, Eating & Satiety](sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648.md) — Huberman Lab Essentials episode on brain-gut appetite regulation, learned ghrelin timing, nutrient-linked satiety, meal context, movement, and bounded intervention claims.
 - [How to Achieve Inner Peace & Healing | Dr. Richard Schwartz](sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693.md) — Huberman Lab interview on Internal Family Systems, protective parts, Self-leadership, trauma, relationships, and clinical boundaries around severe distress and psychedelics.
 - [VOL.154春天痒到挠心？破局“过敏劫”的生存指南](sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur.md) — 这病说来话长 episode with 毛哲 on spring allergy, exposure control, testing limits, acute-medication safety, emergency escalation, and the evidence boundary around TCM self-care claims.
 - [544. The French Revolution: The September Massacres (Part 1)](sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051.md) — The Rest Is History episode on invasion panic, organized prison killings, improvised tribunals, distributed responsibility, and contested atrocity narratives.
@@ -13139,6 +13140,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 
 ## Concepts
+- [Appetite Hormone Regulation](concepts/AppetiteHormoneRegulation.md) — Brain-gut-endocrine framework joining hypothalamic circuits, learned meal timing, nutrient sensing, glucose state, and satiety signals.
 - [Internal Family Systems Therapy](concepts/InternalFamilySystemsTherapy.md) — Psychotherapy and self-inquiry model treating the mind as interacting parts that can be approached through Self-led curiosity.
 - [IFS Parts Model](concepts/IFSPartsModel.md) — IFS taxonomy of vulnerable exiles, anticipatory managers, and reactive firefighters.
 - [IFS Self-Leadership](concepts/IFSSelfLeadership.md) — IFS stance of relating to inner states with calm, curiosity, compassion, clarity, courage, and reflective distance.

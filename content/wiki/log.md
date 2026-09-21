@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-22] ingest | Essentials: How to Control Hunger, Eating & Satiety
+
+Added source `essentials-how-to-control-hunger-eating-satiety-scim9260736648`; created `AppetiteHormoneRegulation`; updated `AndrewHuberman`, `HubermanLab`, `VentromedialHypothalamus`, `GlycemicResponseToolBoundary`, `UltraProcessedFoodPragmaticBoundary`, and index. Core synthesis: appetite emerges from interacting hypothalamic, sensory, gut, endocrine, nutrient, glucose, and learned-timing signals, while meal context and ordinary movement may influence glucose response without becoming universal prescriptions. No settled contradiction found; the source's "nanograms per deciliter" glucose unit is treated as an internal error, and its parabiosis, circuit, CCK, emulsifier, food-order, exercise, metformin, ketogenic-diet, thyroid, yerba-mate, GLP-1, and leptin claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-22] ingest | 548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)
 
 Added source `548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286`; created `AlfredTheGreat`, `Athelstan`, `EdgarThePeaceful`, `Rollo`, `AngloSaxonStateFormation`, `NormanHybridIdentity`, and `StBricesDayMassacre`; and updated `AethelredTheUnready`, `OlafTryggvason`, `SweynForkbeard`, `DanegeldEscalation`, `NormanConquestOfEngland`, overview, and index. Core synthesis: England's wealth, unity, coinage, towns, church, and coercive reach emerged through cumulative state formation and made the kingdom both resilient and attractive, while Viking-founded Normandy developed a hybrid Christian-Frankish identity that shaped English security before 1066. Æthelred's payments and diplomacy could be rational short-term responses, but repeated tribute and the St Brice's Day massacre converted state capacity into escalating strategic and legitimacy risks. No settled contradiction found; Edgar's ceremony and punitive expedition, Edward's murder, Rollo's legends, millennial psychology, the massacre's reach, Oxford victim identities, Gunnhilde, and broad global-consequence claims remain source-scoped.
@@ -21226,6 +21230,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | 544. The French Revolution: The September Massacres (Part 1)
 
 Added source `544-the-french-revolution-the-september-massacres-part-1-glt8301042051`; created `PrincesseDeLamballe`, `MarieAntoinette`, `FrancoisJourgniacSaintMeard`, `StanislasMaillard`, `RevolutionaryPopularJustice`, and `RevolutionaryAtrocityNarrativeContest`; updated `FrenchRevolution`, `SeptemberMassacres`, `GeorgesDanton`, `JeanPaulMarat`, `MaximilienRobespierre`, `RevolutionaryTerrorPolitics`, `CrisisValidatedConspiracyPolitics`, and the index. Core synthesis: the September Massacres were organized but distributed prison killings in which invasion panic, rumor, incitement, local networks, improvised tribunals, public approval, and leadership non-intervention made selective killing appear as preventive justice. The source conflicts with episode 707's approximate toll (around 1,000 versus roughly 1,500) and distinguishes documented violence from uncertain or unsupported Lamballe atrocity stories. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-22] lint | Wiki health check
 

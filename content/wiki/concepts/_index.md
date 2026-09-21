@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7818
+wiki_total_pages: 7819
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1979,6 +1979,9 @@ wiki_pages:
   - key: "AppeasementLogic"
     title: "Appeasement Logic / 绥靖逻辑"
     url: "/wiki/concepts/appeasementlogic/"
+  - key: "AppetiteHormoneRegulation"
+    title: "Appetite Hormone Regulation"
+    url: "/wiki/concepts/appetitehormoneregulation/"
   - key: "AppleAccessibility"
     title: "Apple Accessibility"
     url: "/wiki/concepts/appleaccessibility/"
