@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10456
+wiki_total_pages: 10457
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1538,6 +1538,9 @@ wiki_pages:
   - key: "MaoDong"
     title: "毛冬 / Mao Dong"
     url: "/wiki/entities/maodong/"
+  - key: "MaoZheTCMDoctor"
+    title: "毛哲 / Mao Zhe (TCM Guest)"
+    url: "/wiki/entities/maozhetcmdoctor/"
   - key: "MaoWenchao"
     title: "毛文超 / Mao Wenchao"
     url: "/wiki/entities/maowenchao/"

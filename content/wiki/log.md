@@ -21206,3 +21206,11 @@ Added source `545-the-french-revolution-the-first-feminist-part-2-glt4335903757`
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | VOL.154春天痒到挠心？破局“过敏劫”的生存指南
+
+Added source `vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur`; created `MaoZheTCMDoctor`; updated `AllergyAsImmuneResponse`, `AllergyImmuneImbalance`, `AllergyExposureEnvironmentManagement`, `AllergyMedicationBoundary`, `AllergyChronicManagement`, and the index. Core synthesis: spring allergy management can combine contextual exposure observation, masks, household humidity and mold control, appropriate acute medication, and qualified follow-up, while breathing difficulty requires urgent care. No settled contradiction is recorded; TCM pattern labels, broad food restriction, teas, herbs, patent medicines, acupressure, aloe, tap-water nasal rinsing, and constitutional-cure claims remain source-scoped rather than established clinical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

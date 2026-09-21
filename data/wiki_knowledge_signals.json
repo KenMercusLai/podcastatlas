@@ -6436,9 +6436,9 @@
       "url": "/wiki/entities/allennewell/"
     },
     "AllergyAsImmuneResponse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "97.花粉症与人类：从尼安德特人（啊啾！）到空气净化器… [728113059].md",
@@ -6453,15 +6453,22 @@
           "show": "这病说来话长",
           "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
           "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        },
+        {
+          "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
+          "key": "vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur",
+          "show": "这病说来话长",
+          "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
+          "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/allergyasimmuneresponse/"
     },
     "AllergyChronicManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
@@ -6469,15 +6476,22 @@
           "show": "这病说来话长",
           "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
           "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        },
+        {
+          "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
+          "key": "vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur",
+          "show": "这病说来话长",
+          "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
+          "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/allergychronicmanagement/"
     },
     "AllergyExposureEnvironmentManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
@@ -6485,15 +6499,22 @@
           "show": "这病说来话长",
           "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
           "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        },
+        {
+          "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
+          "key": "vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur",
+          "show": "这病说来话长",
+          "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
+          "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/allergyexposureenvironmentmanagement/"
     },
     "AllergyImmuneImbalance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
@@ -6501,15 +6522,22 @@
           "show": "这病说来话长",
           "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
           "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        },
+        {
+          "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
+          "key": "vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur",
+          "show": "这病说来话长",
+          "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
+          "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/allergyimmuneimbalance/"
     },
     "AllergyMedicationBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z [lgMmW7EJV8UlJ0y5gOKkv7WIeu0Z].md",
@@ -6517,9 +6545,16 @@
           "show": "这病说来话长",
           "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",
           "url": "/wiki/sources/vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z/"
+        },
+        {
+          "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
+          "key": "vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur",
+          "show": "这病说来话长",
+          "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
+          "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/allergymedicationboundary/"
     },
     "AllianceContingencyHedging": {
@@ -80107,6 +80142,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/maoyisheng/"
+    },
+    "MaoZheTCMDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
+          "key": "vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur",
+          "show": "这病说来话长",
+          "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
+          "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/maozhetcmdoctor/"
     },
     "MaoZhongqun": {
       "episode_count": 1,
