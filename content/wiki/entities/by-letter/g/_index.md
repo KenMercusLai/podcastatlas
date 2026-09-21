@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10421
+wiki_total_pages: 10423
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "GodSaveTheKing"
     title: "God Save the King / Queen"
     url: "/wiki/entities/godsavetheking/"
+  - key: "GodwinEarlOfWessex"
+    title: "Godwin, Earl of Wessex"
+    url: "/wiki/entities/godwinearlofwessex/"
   - key: "GoFundMe"
     title: "GoFundMe"
     url: "/wiki/entities/gofundme/"

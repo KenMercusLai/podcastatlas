@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [551. The Road to 1066: Countdown to Conquest (Part 4)](sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299.md) — The Rest Is History episode on Godwin family ascent, Edward and Edith's childlessness, Harold's rise and disputed oath, Tostig's failed Northumbrian rule, and the factional prehistory of 1066.
 - [Essentials: How to Learn Skills Faster](sources/essentials-how-to-learn-skills-faster-scim2224786015.md) — Huberman Lab Essentials episode on repetition density, safe errors, stage-matched motor practice, quiet post-practice consolidation, sleep, and mental-rehearsal limits.
 - [Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer](sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508.md) — Huberman Lab interview on metabolic psychiatry, mitochondrial lifestyle inputs, ketogenic and adjunct interventions, diagnosis-mechanism boundaries, and emerging biomarkers.
 - [552. The Last Viking: The Saga of Harald Hardrada (Part 1)](sources/552-the-last-viking-the-saga-of-harald-hardrada-part-1-glt8286135160.md) — The Rest Is History episode on Stiklestad, Harald Hardrada's exile and Rus apprenticeship, eastern Viking routes, and his entry into the Varangian Guard.
@@ -2647,6 +2648,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Find & Be a Great Romantic Partner | Lori Gottlieb](sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639.md) — Huberman Lab interview on emotional regulation, familiar relationship patterns, partner selection, conflict repair, breakups, grief, and intentional living.
 
 ## Entities
+- [Godwin, Earl of Wessex](entities/GodwinEarlOfWessex.md) — Cnut-era political survivor whose royal bargain and family expansion make the Godwins England's dominant pre-1066 house.
+- [Edith of Wessex](entities/EdithOfWessex.md) — Educated queen whose childless marriage, removal, restoration, and likely source patronage connect court faction to the succession crisis.
 - [Olaf II of Norway](entities/OlafIIOfNorway.md) — Christian Norwegian king whose defeat and later martyr cult make Stiklestad both a dynastic rupture and the opening of Harald Hardrada's exile.
 - [Yaroslav the Wise](entities/YaroslavTheWise.md) — Kievan Rus ruler who receives Harald, employs him in the druzhina, and links marriage eligibility to wealth and reputation.
 - [Kievan Rus](entities/KievanRus.md) — Urban, commercial, Christian polity connecting Scandinavian mobility to river trade, military service, and Byzantium.

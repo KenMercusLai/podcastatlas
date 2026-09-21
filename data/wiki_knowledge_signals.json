@@ -7568,9 +7568,9 @@
       "url": "/wiki/concepts/angelicintelligence/"
     },
     "AngloNormanSuccessionLegitimacy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3399401666 [GLT3399401666].md",
@@ -7585,6 +7585,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
         }
       ],
       "updated": "2026-09-21",
@@ -33984,6 +33991,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/edithcavell/"
     },
+    "EdithOfWessex": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/edithofwessex/"
+    },
     "EducationMotivationArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -34063,9 +34086,9 @@
       "url": "/wiki/entities/edwardiiofengland/"
     },
     "EdwardTheConfessor": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -34080,6 +34103,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
         }
       ],
       "updated": "2026-09-21",
@@ -48543,6 +48573,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/godsavetheking/"
     },
+    "GodwinEarlOfWessex": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/godwinearlofwessex/"
+    },
     "GoguryeoLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -53277,9 +53323,9 @@
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
     "HaroldGodwinson": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -53315,6 +53361,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
         }
       ],
       "updated": "2026-09-21",
@@ -86850,9 +86903,9 @@
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NormanConquestOfEngland": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -86881,6 +86934,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
         }
       ],
       "updated": "2026-09-21",
@@ -119948,9 +120008,9 @@
       "url": "/wiki/entities/toshibamachine/"
     },
     "TostigGodwinson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1524879968 [GLT1524879968].md",
@@ -119965,6 +120025,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
         }
       ],
       "updated": "2026-09-21",
@@ -127957,9 +128024,9 @@
       "url": "/wiki/entities/williamshakespeare/"
     },
     "WilliamTheConqueror": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -127988,6 +128055,13 @@
           "show": "The Rest Is History",
           "title": "554. 1066: The Shadows of War (Part 1)",
           "url": "/wiki/sources/554-1066-the-shadows-of-war-part-1-glt1461163139/"
+        },
+        {
+          "episode_file": "GLT9351236299 [GLT9351236299].md",
+          "key": "551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299",
+          "show": "The Rest Is History",
+          "title": "551. The Road to 1066: Countdown to Conquest (Part 4)",
+          "url": "/wiki/sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299/"
         }
       ],
       "updated": "2026-09-21",

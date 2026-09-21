@@ -5,6 +5,7 @@ tags: [monarchy, succession, legitimacy, england, medieval-history]
 sources:
   - empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666
   - 554-1066-the-shadows-of-war-part-1-glt1461163139
+  - 551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299
 last_updated: 2026-09-21
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ Anglo-Norman succession legitimacy is the pattern by which kingship is made thro
 
 ## Current Synthesis
 
-The 1066 source shows this pattern before the post-Conquest succession disputes. After [[EdwardTheConfessor|Edward the Confessor]] dies childless, Edgar Atheling has royal blood but is too young for the immediate military crisis; [[HaroldGodwinson|Harold Godwinson]] has reported deathbed designation, Witan election, domestic power, military usefulness, alliance-building, and rapid coronation; [[WilliamTheConqueror|William of Normandy]] claims an earlier promise and Harold's oath, then adds papal approval and organized force. The source does not declare one element universally decisive.
+The 1066 sources show this pattern before the post-Conquest succession disputes. [[EdwardTheConfessor|Edward the Confessor]] and [[EdithOfWessex|Edith of Wessex]] have no child, the 1051-52 attempt to break [[GodwinEarlOfWessex|Godwin]] power fails, and divorce ceases to offer a practical route to a direct heir. Edward's reported promise to [[WilliamTheConqueror|William of Normandy]] arises within that factional crisis, while [[HaroldGodwinson|Harold Godwinson]]'s later oath follows capture, Norman hospitality, military association, and possible coercion. Promise and oath therefore add to William's bundle without settling their freedom, meaning, or priority.
+
+After Edward dies, Edgar Atheling has royal blood but is too young for the immediate military crisis; Harold has family power, military reputation, reported deathbed designation, Witan election, alliance-building, and rapid coronation; William adds papal approval and organized force to his earlier claim. Tostig's 1065 removal supplies another legitimacy boundary: forcing an unwanted earl back on Northumbria might defend dynastic entitlement but destroy order through civil war. The sources do not declare one element universally decisive.
 
 The Matilda source presents early Anglo-Norman kingship as similarly fluid and opportunistic. Bloodline mattered, but so did speed, presence, treasury control, coronation, sacred anointing, oath-taking, military usefulness, and the ability to impose order. [[HenryIOfEngland|Henry I]]'s own accession taught that legitimacy had to be constructed, while [[StephenOfBlois|Stephen]] later used the same field against [[EmpressMatilda|Matilda]].
 
@@ -26,18 +29,20 @@ Matilda's case shows the difference between having a strong claim and becoming a
 ## Key Claims
 
 - Succession legitimacy can be bundled from blood, oath, coronation, anointing, force, presence, and order-making capacity.
+- Childlessness and a failed attempt to restructure the royal marriage can turn court faction into an international succession dispute.
 - Election and reported deathbed designation can strengthen a locally powerful adult over a hereditary claimant judged unable to meet an immediate crisis.
 - A named heir can still lose the first legitimacy threshold if a rival seizes the treasury and coronation.
 - Sacred anointing matters because it turns practical seizure into publicly recognized kingship.
 - Baronial oaths are important but insufficient when enforcement and military leadership remain uncertain.
 - Gender expectations change how legitimacy bundles are evaluated, especially when warrior-kingship is central.
-- Settlement can resolve a disputed claim by shifting legitimacy to the next generation.
 
 ## Evidence
 
 - Fluid rules: [[empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666]] says William the Conqueror's successors did not follow a simple eldest-son pattern.
 - 1066 claim bundle: [[554-1066-the-shadows-of-war-part-1-glt1461163139]] contrasts Edgar's blood, Harold's designation-election-capacity-coronation case, William's promise-oath-papal-force case, and weaker Scandinavian inheritance arguments.
 - Crisis speed: [[554-1066-the-shadows-of-war-part-1-glt1461163139]] treats the Witan's urgency, Harold's same-day coronation, Mercian alliance, and military threat as part of effective legitimacy.
+- Factional prehistory: [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] connects royal childlessness, the Godwins' exile and return, failed divorce politics, and Edward's reported promise to William.
+- Oath conditions and regional acceptance: [[551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299]] qualifies Harold's relic-backed oath and shows his refusal to impose Tostig on a resistant Northumbria by civil war.
 - Constructed kingship: [[empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666]] says Henry I moved quickly to secure coronation and treasury control.
 - Oath strategy: [[empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666]] says Henry required nobles to swear allegiance to Matilda.
 - First-mover advantage: [[empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666]] says Stephen took the treasury and was crowned and anointed while Matilda was away and unwell.
@@ -45,12 +50,12 @@ Matilda's case shows the difference between having a strong claim and becoming a
 
 ## Counterevidence & Qualifications
 
-The sources do not claim that law was irrelevant or that legitimacy was pure force. Edward's promises and final words, Harold's oath, the Witan's representativeness, papal motives, and the relative legal weight of each act remain disputed or source-scoped. The concept therefore preserves the distinction between formal right, sacred ritual, elite consent, military capacity, and practical control.
+The sources do not claim that law was irrelevant or that legitimacy was pure force. Edward's marriage intentions, promises, and final words; Harold's mission and oath; the Witan's representativeness; papal motives; Northumbrian preferences; and the relative legal weight of each act remain disputed or source-scoped. The concept therefore preserves the distinction between formal right, sacred ritual, elite and regional consent, military capacity, and practical control.
 
 ## What Changed
 
-- Extended the legitimacy bundle backward to 1066, adding election, reported deathbed designation, crisis capability, papal approval, and foreign conquest claims.
-- Connected Harold and William's rival bundles to the later Henry-Matilda-Stephen pattern without making the cases identical.
+- Extended the 1066 bundle backward into Edward's childless marriage, the failed exile of the Godwins, William's reported promise, and Harold's oath under disputed conditions.
+- Added regional acceptance and civil-war avoidance through the Tostig-Morcar settlement without treating rebellion as automatically legitimate.
 
 ## Related Concepts
 

@@ -21072,3 +21072,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 551. The Road to 1066: Countdown to Conquest (Part 4)
+
+Added source `551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299`; created `GodwinEarlOfWessex` and `EdithOfWessex`; updated `EdwardTheConfessor`, `HaroldGodwinson`, `TostigGodwinson`, `WilliamTheConqueror`, `AngloNormanSuccessionLegitimacy`, `NormanConquestOfEngland`, and the index. Core synthesis: the road to 1066 begins in Edward and Godwin's unstable bargain, royal childlessness, failed divorce and exile politics, Harold's inherited domestic and military position, William's disputed promise-and-oath case, and Tostig's conversion of failed regional rule into external grievance. No settled contradiction found; the royal marriage, Edward's promises, Harold's mission and oath, and responsibility for Tostig's fall remain uncertain or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
