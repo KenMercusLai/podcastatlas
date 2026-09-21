@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Make Better Decisions | Dr. Michael Platt](sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714.md) — Huberman Lab interview on attention as foraging, social valuation, context-sensitive hormone effects, synchrony, speed-accuracy control, loss aversion, market imitation, and biological rationality.
 - [EP 19: Navigating the Future of Workplace Health and Benefits with AI](sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai.md) — Data Science With Sam episode with Jocelyn Jiang of MultiPlan on de-identified employer analytics, health-risk prediction, care navigation, benefit-plan optimization, opt-in wearables, and human oversight.
 - [VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？](sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru.md) — 这病说来话长 episode on ICD selection, sudden-cardiac-death risk, implanted-device differentiation, and remote cardiac monitoring.
+- [540. Horror in the Congo: A Conspiracy Unmasked (Part 3)](sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471.md) — The Rest Is History episode on Morel, Casement, the Congo Reform Association, Leopold's counter-campaign, Belgian annexation, and the limits of colonial reform.
 - [541. Heart of Darkness: Fear and Loathing in the Congo](sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786.md) — The Rest Is History episode on Conrad's Congo journey, Leopoldian extraction, the civilising mission, literary modernism, and the Achebe-Said critiques of the novella.
 - [542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe](sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016.md) — The Rest Is History episode on John Dee, Tudor knowledge boundaries, angelic mediation, occult patronage risk, and cartographic-imperial mythmaking.
 - [543. Death in the Amazon: Aguirre, the Wrath of God](sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248.md) — The Rest Is History episode on the failed El Dorado expedition, Aguirre's mutiny and anti-royal rebellion, fragile colonial rule, and survivor incentives in his demonic reputation.
@@ -2685,9 +2686,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孙老师 / Doctor Sun (cardiac electrophysiology guest)](entities/SunDoctorCardiacElectrophysiology.md) — Source-scoped pacing and electrophysiology guest explaining ICD, CRT, rhythm risk, device life, and remote monitoring.
 - [Joseph Conrad](entities/JosephConrad.md) — Polish-born British sailor-writer whose 1890 Congo experience became the basis for Heart of Darkness.
 - [Heart of Darkness](entities/HeartOfDarkness.md) — Conrad's modernist novella exposing colonial violence while remaining contested for its representation of Africans.
-- [Congo Free State](entities/CongoFreeState.md) — Leopold II's personal colonial regime and the historical matrix of Conrad's Congo fiction.
-- [Leopold II](entities/LeopoldII.md) — Belgian king whose Congo regime joined civilising rhetoric to coercive extraction.
-- [Roger Casement](entities/RogerCasement.md) — Consular reformer connecting Conrad's fragmentary Congo witness to later forensic exposure of abuses.
+- [Congo Free State](entities/CongoFreeState.md) — Leopold II's personal colonial regime, exposed through literary witness, commercial records, testimony, official investigation, and international campaigning.
+- [Leopold II](entities/LeopoldII.md) — Belgian king whose coercive Congo regime and transnational counter-campaign ended in compensated annexation.
+- [Roger Casement](entities/RogerCasement.md) — Consular investigator whose documentary report and alliance with Morel helped turn Congo abuse into an international reform campaign.
+- [Edmund Dene Morel](entities/EdmundDeneMorel.md) — Shipping clerk, journalist, and organizer who converted trade anomalies and testimony into sustained pressure against Leopold's Congo.
+- [Congo Reform Association](entities/CongoReformAssociation.md) — International organization that joined documentary evidence, public meetings, media, elite patrons, and lobbying against Congo abuses.
+- [Belgian Congo](entities/BelgianCongo.md) — Successor colony formed in 1908 that reduced some notorious abuses while retaining forced labor and extractive structures.
 - [Chinua Achebe](entities/ChinuaAchebe.md) — Nigerian author and critic who challenged Heart of Darkness for dehumanizing Africans.
 - [Edward Said](entities/EdwardSaid.md) — Palestinian American critic emphasizing Conrad's continuing imperial horizon and colonial knowledge as control.
 - [Walter Raleigh](entities/WalterRaleigh.md) — Elizabethan colonial-project figure linked by the source to John Dee's cartographic and imperial ideas around Virginia and Roanoke.
@@ -2949,7 +2953,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Skims](entities/Skims.md) — Kim Kardashian's bodywear brand spanning shapewear, loungewear, and a Nike sportswear sub-brand.
 - [Robert Napier](entities/RobertNapier.md) — Royal Engineers commander of the 1868 Abyssinian expedition, presented as a methodical logistician who bought passage and supplies, avoided a second battle and won imperial honours.
 - [Ras Kassa](entities/RasKassa.md) — Tigray ruler and Theodros II's rival whose passage, weekly supplies and shared interest made the British march to Magdala possible.
-- [Henry Morton Stanley](entities/HenryMortonStanley.md) — Correspondent travelling with the 1868 expedition, named in the source for the suspicious silence before the Battle of Magdala.
+- [Henry Morton Stanley](entities/HenryMortonStanley.md) — Journalist-explorer connecting the Abyssinian expedition's media apparatus to the later history and reassessment of Leopoldian Congo.
 - [Charles Duncan Cameron](entities/CharlesDuncanCameron.md) — British consul whose imprisonment by Theodros II turns a correspondence dispute into a hostage crisis, and whose release closes it.
 - [Menelik II](entities/MenelikII.md) — Ethiopian emperor who ends the post-Magdala collapse by beating an Italian army at Adwa in 1896.
 - [Maria Theresa Taler](entities/MariaTheresaTaler.md) — Austrian silver coin that served as the expedition's money and remained in East African circulation into the 1950s.
@@ -10798,7 +10802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kakapo / 宵鹦鹉](entities/Kakapo.md) — New Zealand night parrot used by episode 186 to show island vulnerability and successful intensive conservation.
 - [Madagascar / 马达加斯加](entities/Madagascar.md) — Island setting for the aye-aye refuge-paradox branch and Ranavalona I's contested anti-European monarchy case.
 - [Komodo Island / 科莫多岛](entities/KomodoIsland.md) — Tourism and conservation setting for the Komodo dragon section.
-- [Democratic Republic of the Congo / 刚果民主共和国](entities/DemocraticRepublicOfCongo.md) — Former-Zaire setting connecting mountain gorillas, northern white rhinos, colonial history, and conservation under unstable institutions.
+- [Democratic Republic of the Congo / 刚果民主共和国](entities/DemocraticRepublicOfCongo.md) — Later state connecting distinct Congo Free State, Belgian Congo, Zaire, and conservation layers without collapsing them.
 - [New Zealand / 新西兰](entities/NewZealand.md) — Island ecology setting for the kakapo recovery story.
 - [周开亚 / Zhou Kaiya](entities/ZhouKaiya.md) — Nanjing University scientist contacted in episode 186's baiji search.
 - [李商隐 / Li Shangyin](entities/LiShangyin.md) — Late-Tang poet defended by episode 183 as politically aware, emotionally serious, technically exacting, and central to later Red Chamber intertext.
@@ -13186,7 +13190,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层](concepts/SuddenCardiacDeathRiskStratification.md) — Primary-versus-secondary prevention framework matching catastrophic arrhythmic risk to intervention burden.
 - [Cardiac Implantable Device Differentiation / 心脏植入装置功能区分](concepts/CardiacImplantableDeviceDifferentiation.md) — Physiology-to-device map separating pacing, defibrillation, resynchronization, monitoring, public rescue, and pump support.
 - [Remote Cardiac Monitoring and Warning / 远程心脏监测与预警](concepts/RemoteCardiacMonitoringAndWarning.md) — Longitudinal sensing and alert model whose value depends on validation and an accountable clinical response workflow.
-- [Imperial Civilising-Mission Contradiction](concepts/ImperialCivilisingMissionContradiction.md) — Gap between humanitarian colonial rhetoric and systems organized around extraction, coercion, and violence.
+- [Imperial Civilising-Mission Contradiction](concepts/ImperialCivilisingMissionContradiction.md) — Gap between humanitarian colonial rhetoric and coercive extraction, including reforms that change sovereignty without dismantling the system.
+- [Evidence-Driven Human Rights Campaign](concepts/EvidenceDrivenHumanRightsCampaign.md) — Reform model joining documentary proof, witness testimony, images, media, organization, and political access.
 - [Colonial Literary Ambivalence](concepts/ColonialLiteraryAmbivalence.md) — A work's capacity to indict empire while retaining racial hierarchy, silenced perspectives, or an imperial political horizon.
 - [Narrative Frame and Authorial Distance](concepts/NarrativeFrameAuthorDistance.md) — Interpretive distance between author and framed speaker that complicates attribution without erasing textual responsibility.
 - [Early-Modern Knowledge Continuum](concepts/EarlyModernKnowledgeContinuum.md) — Framework for historically entangled mathematical, religious, alchemical, astrological, and magical inquiry without collapsing evidence standards.

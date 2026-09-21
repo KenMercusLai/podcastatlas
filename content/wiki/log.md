@@ -21310,3 +21310,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 540. Horror in the Congo: A Conspiracy Unmasked (Part 3)
+
+Added source `540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471`; created `EdmundDeneMorel`, `CongoReformAssociation`, `BelgianCongo`, and `EvidenceDrivenHumanRightsCampaign`; updated `CongoFreeState`, `LeopoldII`, `RogerCasement`, `HenryMortonStanley`, `DemocraticRepublicOfCongo`, `ImperialCivilisingMissionContradiction`, and the index. Core synthesis: commercial records, witness testimony, official investigation, images, media, organization, and international lobbying made Leopold's personal state politically unsustainable, but Belgian annexation retained forced labor and extractive structures. No settled contradiction found; Morel's motives, exceptional-Congo versus systemic-imperial diagnosis, and the degree of post-annexation change remain qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

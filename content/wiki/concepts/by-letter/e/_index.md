@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7851
+wiki_total_pages: 7852
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "EvidenceBoundPaleontologicalReconstruction"
     title: "Evidence-Bound Paleontological Reconstruction / 证据约束的古生物复原"
     url: "/wiki/concepts/evidenceboundpaleontologicalreconstruction/"
+  - key: "EvidenceDrivenHumanRightsCampaign"
+    title: "Evidence-Driven Human Rights Campaign"
+    url: "/wiki/concepts/evidencedrivenhumanrightscampaign/"
   - key: "EvidenceGroundedMedicalRAG"
     title: "Evidence-Grounded Medical RAG"
     url: "/wiki/concepts/evidencegroundedmedicalrag/"

@@ -1167,6 +1167,10 @@
     "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
     "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
   },
+  "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471": {
+    "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+    "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+  },
   "541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786": {
     "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
     "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
@@ -8263,6 +8267,10 @@
     "title": "Belfast",
     "url": "/wiki/entities/belfast/"
   },
+  "BelgianCongo": {
+    "title": "Belgian Congo",
+    "url": "/wiki/entities/belgiancongo/"
+  },
   "Belgium": {
     "title": "Belgium",
     "url": "/wiki/entities/belgium/"
@@ -14779,6 +14787,10 @@
     "title": "Congo Free State",
     "url": "/wiki/entities/congofreestate/"
   },
+  "CongoReformAssociation": {
+    "title": "Congo Reform Association",
+    "url": "/wiki/entities/congoreformassociation/"
+  },
   "ConocoPhillips": {
     "title": "ConocoPhillips",
     "url": "/wiki/entities/conocophillips/"
@@ -20055,6 +20067,10 @@
     "title": "Edmund Campion",
     "url": "/wiki/entities/edmundcampion/"
   },
+  "EdmundDeneMorel": {
+    "title": "Edmund Dene Morel",
+    "url": "/wiki/entities/edmunddenemorel/"
+  },
   "EdmundIronside": {
     "title": "Edmund Ironside",
     "url": "/wiki/entities/edmundironside/"
@@ -21650,6 +21666,10 @@
   "EvidenceBoundPaleontologicalReconstruction": {
     "title": "Evidence-Bound Paleontological Reconstruction / 证据约束的古生物复原",
     "url": "/wiki/concepts/evidenceboundpaleontologicalreconstruction/"
+  },
+  "EvidenceDrivenHumanRightsCampaign": {
+    "title": "Evidence-Driven Human Rights Campaign",
+    "url": "/wiki/concepts/evidencedrivenhumanrightscampaign/"
   },
   "EvidenceGroundedMedicalRAG": {
     "title": "Evidence-Grounded Medical RAG",

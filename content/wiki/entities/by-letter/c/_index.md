@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10482
+wiki_total_pages: 10485
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "CongoFreeState"
     title: "Congo Free State"
     url: "/wiki/entities/congofreestate/"
+  - key: "CongoReformAssociation"
+    title: "Congo Reform Association"
+    url: "/wiki/entities/congoreformassociation/"
   - key: "ConocoPhillips"
     title: "ConocoPhillips"
     url: "/wiki/entities/conocophillips/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10482
+wiki_total_pages: 10485
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "EdmundCampion"
     title: "Edmund Campion"
     url: "/wiki/entities/edmundcampion/"
+  - key: "EdmundDeneMorel"
+    title: "Edmund Dene Morel"
+    url: "/wiki/entities/edmunddenemorel/"
   - key: "EdmundIronside"
     title: "Edmund Ironside"
     url: "/wiki/entities/edmundironside/"

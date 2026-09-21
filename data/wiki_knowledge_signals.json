@@ -12744,6 +12744,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/beijingandinghospital/"
     },
+    "BelgianCongo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/belgiancongo/"
+    },
     "Belgium": {
       "episode_count": 2,
       "show_count": 2,
@@ -24727,9 +24743,9 @@
       "url": "/wiki/entities/confucius/"
     },
     "CongoFreeState": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -24737,10 +24753,33 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
         }
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/congofreestate/"
+    },
+    "CongoReformAssociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/congoreformassociation/"
     },
     "ConquestRuptureContinuity": {
       "episode_count": 1,
@@ -30013,9 +30052,9 @@
       "url": "/wiki/entities/democraticparty/"
     },
     "DemocraticRepublicOfCongo": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "186.让你笑到头掉仍不忘思考，伟大的《消逝世界漫游指南》 [998655210].md",
@@ -30030,6 +30069,13 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
         }
       ],
       "updated": "2026-09-22",
@@ -35043,6 +35089,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/edithofwessex/"
     },
+    "EdmundDeneMorel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/edmunddenemorel/"
+    },
     "EdmundIronside": {
       "episode_count": 1,
       "show_count": 1,
@@ -39683,6 +39745,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/everydaysocialconnection/"
+    },
+    "EvidenceDrivenHumanRightsCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/evidencedrivenhumanrightscampaign/"
     },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
@@ -55824,9 +55902,9 @@
       "url": "/wiki/entities/henrymintzberg/"
     },
     "HenryMortonStanley": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3285474568 [GLT3285474568].md",
@@ -55834,9 +55912,16 @@
           "show": "The Rest Is History",
           "title": "706. Queen Victoria's Revenge: Storming the Citadel (Part 2)",
           "url": "/wiki/sources/706-queen-victorias-revenge-storming-the-citadel-part-2-glt3285474568/"
+        },
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/henrymortonstanley/"
     },
     "HenryTheNavigator": {
@@ -61387,9 +61472,9 @@
       "url": "/wiki/concepts/imperialcartographicmythmaking/"
     },
     "ImperialCivilisingMissionContradiction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -61397,6 +61482,13 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
         }
       ],
       "updated": "2026-09-22",
@@ -70836,9 +70928,9 @@
       "url": "/wiki/entities/leonardodavinci/"
     },
     "LeopoldII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -70846,6 +70938,13 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
         }
       ],
       "updated": "2026-09-22",
@@ -105598,9 +105697,9 @@
       "url": "/wiki/concepts/rodentborneinfectionprevention/"
     },
     "RogerCasement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5482142786 [GLT5482142786].md",
@@ -105608,6 +105707,13 @@
           "show": "The Rest Is History",
           "title": "541. Heart of Darkness: Fear and Loathing in the Congo",
           "url": "/wiki/sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786/"
+        },
+        {
+          "episode_file": "GLT5172130471 [GLT5172130471].md",
+          "key": "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471",
+          "show": "The Rest Is History",
+          "title": "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)",
+          "url": "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
         }
       ],
       "updated": "2026-09-22",
