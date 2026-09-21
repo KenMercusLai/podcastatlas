@@ -2405,6 +2405,13 @@
       "url": "/topics/history/"
     }
   ],
+  "707-the-terror-an-assassination-in-paris-part-1-glt6580043397": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "71-meizhuang-diguo-hudiepai-yanqing-xiaoshuojia-de-guohuo-chuangye-wangshi-671521384": [
     {
       "key": "history",
@@ -19100,6 +19107,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CrisisValidatedConspiracyPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CrisisWithdrawalSelfProtection": [
     {
       "key": "politics",
@@ -24219,6 +24233,13 @@
     }
   ],
   "EmergencyFrontierDiscretion": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "EmergencyInstitutionsToTerror": [
     {
       "key": "politics",
       "label": "Politics",

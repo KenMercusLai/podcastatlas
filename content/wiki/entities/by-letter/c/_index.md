@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10387
+wiki_total_pages: 10390
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "Comcast"
     title: "Comcast"
     url: "/wiki/entities/comcast/"
+  - key: "CommitteeOfPublicSafety"
+    title: "Committee of Public Safety"
+    url: "/wiki/entities/committeeofpublicsafety/"
   - key: "CommodityFuturesTradingCommission"
     title: "Commodity Futures Trading Commission"
     url: "/wiki/entities/commodityfuturestradingcommission/"

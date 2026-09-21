@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7721
+wiki_total_pages: 7723
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1985,6 +1985,9 @@ wiki_pages:
   - key: "CrisisForcedVerticalIntegration"
     title: "Crisis-Forced Vertical Integration"
     url: "/wiki/concepts/crisisforcedverticalintegration/"
+  - key: "CrisisValidatedConspiracyPolitics"
+    title: "Crisis-Validated Conspiracy Politics"
+    url: "/wiki/concepts/crisisvalidatedconspiracypolitics/"
   - key: "CriticalMineralOfftakeIndustrialPolicy"
     title: "Critical Mineral Offtake Industrial Policy"
     url: "/wiki/concepts/criticalmineralofftakeindustrialpolicy/"

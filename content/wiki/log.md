@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | 707. The Terror: An Assassination in Paris (Part 1)
+
+Added source `707-the-terror-an-assassination-in-paris-part-1-glt6580043397`; created `CommitteeOfPublicSafety`, `RevolutionaryTribunal`, `VendeeWar`, `EmergencyInstitutionsToTerror`, and `CrisisValidatedConspiracyPolitics`; and updated `JeanPaulMarat`, `CharlotteCorday`, `FrenchRevolution`, `Girondins`, `MaximilienRobespierre`, `GeorgesDanton`, `JacquesLouisDavid`, `SeptemberMassacres`, `RevolutionaryTerrorPolitics`, `RevolutionaryMartyrdomImageMaking`, and index. Core synthesis: overlapping war, scarcity, revolt, real betrayal, factional purge, and improvised emergency bodies built the machinery of terror, while Corday's attempt to stop bloodshed turned Marat into a martyr and accelerated suspicion and Robespierre's ascent. No settled contradiction found; the source strengthens the strategic case against assassination without erasing Corday's political agency, while populism comparisons, casualty estimates, Vendée classification, purge responsibility, dialogue, and motives remain source-scoped.
+
 ## [2026-09-21] ingest | 557. 1066: The Norman Conquest (Part 4)
 
 Added source `557-1066-the-norman-conquest-part-4-glt5156716826`; created `EdgarAtheling`, `DomesdayBook`, `HarryingOfTheNorth`, `NormanEliteReplacement`, and `ConquestRuptureContinuity`; and updated `WilliamTheConqueror`, `HaroldGodwinson`, `NormanConquestOfEngland`, overview, and index. Core synthesis: Hastings did not automatically deliver England, but Harold's death removed the strongest resistance coordinator; William then combined coercive movement, submissions, coronation ritual, castles, repression, elite replacement, and inherited English administration to turn victory into government. No settled contradiction found; body and burial stories, casualty and landholding totals, intentions, slavery decline, and broad moral comparisons remain source-scoped.
@@ -20860,6 +20864,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] ingest | 《资治通鉴·汉纪》1119丨他生前归顺孙权，死后为何家族被赶尽杀绝？
 
 Added source `zizhi-tongjian-hanji-1119-ta-shengqian-guishun-sunquan-sihou-weihe-jiazu-bei-ganjin-shajue-ll4mblhk7ydn3pdxg-5zucstokzz`; created `ShiXie`, `ShiHui`, `LyuDai`, `Jiaozhou`, and `PersonalizedLocalAutonomySuccession`; and updated `JiaozhiCommandery`, `HostageBackedDependencyTrap`, `LayeredLocalEliteDemobilization`, overview, and index. Core synthesis: Shi Xie's local roots, scholarship, family office network, formal submission, hostage, and tribute preserved a personal bargain with outside authority but did not establish hereditary rule; after Sun Quan appointed replacements, Shi Hui's resistance and Lyu Dai's induced surrender converted administrative centralization into the destruction of the leading Shi branch. No settled contradiction found; the episode's father-son prudence contrast is qualified by structural centralization pressure, while cultural claims, tribute detail, administrative motives, surrender terms, and later family deaths remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-21] lint | Wiki health check
 

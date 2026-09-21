@@ -2,21 +2,65 @@
 title: "Jean-Paul Marat / 让-保罗·马拉"
 type: entity
 tags: [person, french-revolution, journalism, assassination]
-sources: [125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]
-last_updated: 2026-07-24
+sources:
+  - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
+  - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-21
 ---
 
 # Jean-Paul Marat / 让-保罗·马拉
 
-Jean-Paul Marat / 让-保罗·马拉 is the central figure in [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]]. The episode treats him as a revolutionary journalist and [[JacobinClub|Jacobin]] agitator whose later saintly image depends heavily on [[JacquesLouisDavid|Jacques-Louis David]]'s [[DeathOfMaratPainting|The Death of Marat]].
+## Overview
 
-The source deliberately strips away that saintly image. Marat appears as a doctor and frustrated would-be scientist, a publisher of *L'Ami du peuple*, an enemy-maker who denounced opponents as traitors, and one of the major encouragers of the [[SeptemberMassacres|September Massacres]]. His conflict with [[AntoineLavoisier|Antoine Lavoisier]] also lets the episode connect revolutionary politics to [[ScienceUnderRevolutionarySuspicion]].
+Jean-Paul Marat was a physician, rejected experimental scientist, radical journalist, National Convention deputy, and revolutionary agitator whose assassination by [[CharlotteCorday|Charlotte Corday]] made him a martyr of the [[FrenchRevolution|French Revolution]].
 
-His murder by [[CharlotteCorday|Charlotte Corday]] becomes the episode's test case for [[PoliticalAssassinationEthics]]. The source does not excuse murder, but it argues that Corday's stated motive cannot be reduced to madness, manipulation, romance, or royalism.
+## Current Profile
 
-## Connections
-- [[CharlotteCorday]] - assassin and political opponent.
-- [[FrenchRevolution]], [[JacobinClub]], and [[SeptemberMassacres]] - revolutionary setting and violence.
-- [[DeathOfMaratPainting]], [[JacquesLouisDavid]], and [[RevolutionaryMartyrdomImageMaking]] - visual afterlife.
-- [[AntoineLavoisier]] and [[ScienceUnderRevolutionarySuspicion]] - science conflict.
-- [[PoliticalAssassinationEthics]] and [[RevolutionaryTerrorPolitics]] - conceptual frames around his death and politics.
+Across the sources, Marat's political power came from combining genuine attention to popular hardship with an escalating worldview of virtuous people besieged by hidden enemies. His paper *L'Ami du peuple*, calls for mass execution, association with the [[SeptemberMassacres]], successful April 1793 trial, and role in the defeat of the [[Girondins]] made him both an influential radical and a target; his death then gave his politics greater symbolic force than Corday intended.
+
+## Key Characteristics
+
+- He reinvented professional and scientific rejection as a politics of persecution, elite corruption, and privileged access to hidden truth.
+- He rejected civility as falseness and used hostility toward himself as evidence of authenticity.
+- His proposed execution totals escalated dramatically, and both sources connect him to encouragement of the September Massacres.
+- His popular support in Paris turned Girondin prosecution into triumph when he was acquitted in April 1793.
+- His illness confined him to medicinal baths but did not stop his newspaper production or political influence.
+- Assassination transformed a polarizing agitator into a revolutionary martyr with devotional and political cults.
+
+## Evidence
+
+### Agitation, violence, and anti-elite politics
+
+- [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] strips away David's saintly image and connects Marat's journalism, enemy denunciation, scientific grievance, and massacre encouragement.
+- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] adds his British experience, John Wilkes influence, populist rhetoric, escalating death demands, and political use of persecution.
+
+### Political victory and factional power
+
+- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] presents his acquittal as a public triumph and describes his support for the June Girondin purge, while noting that his role in selecting names is unconfirmed.
+
+### Assassination and martyrdom
+
+- [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] examines the moral legibility and institutional limits of Corday's act.
+- [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] shows that the murder intensified conspiracy fears and produced a cult of relics, sacred-heart language, commemorative objects, and renamed places.
+
+## Qualifications
+
+- The "first modern populist" description is historian Keith Michael Baker's interpretation as reported by the episode.
+- Marat correctly identified Dumouriez as a traitor, but one confirmed allegation does not validate his wider enemy lists or execution demands.
+- His exact responsibility for the September Massacres and Girondin purge must remain bounded to the claims made by each source.
+
+## What Changed
+
+- Marat's profile now explains how rejection, conspiracy rhetoric, popular support, and courtroom victory built power before his death.
+- His assassination is judged a strategic reversal for Corday because martyrdom strengthened the politics she opposed.
+- A correct accusation against Dumouriez now qualifies any account that treats all of Marat's conspiracy claims as invented.
+
+## Relationships
+
+- [[CharlotteCorday]] - assassin whose intended de-escalation produced Marat's martyrdom.
+- [[Girondins]] - factional enemies defeated politically before and after his death.
+- [[SeptemberMassacres]] - mass violence he encouraged according to both sources.
+- [[CrisisValidatedConspiracyPolitics]] - mechanism by which Dumouriez's real treason strengthened Marat's wider worldview.
+- [[RevolutionaryMartyrdomImageMaking]] - process that converted his death into sacred political memory.
+- [[PoliticalAssassinationEthics]] - ethical framework for evaluating Corday's killing of him.

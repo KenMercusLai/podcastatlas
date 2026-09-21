@@ -18123,6 +18123,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/charlesxii/"
     },
+    "CharlotteCorday": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/charlottecorday/"
+    },
     "ChaseAndrews": {
       "episode_count": 1,
       "show_count": 1,
@@ -22846,6 +22869,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/commitmentbiaspublicpromise/"
     },
+    "CommitteeOfPublicSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/committeeofpublicsafety/"
+    },
     "CommodityTrapEscape": {
       "episode_count": 1,
       "show_count": 1,
@@ -25342,6 +25381,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/crisisrumordeamplification/"
+    },
+    "CrisisValidatedConspiracyPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/crisisvalidatedconspiracypolitics/"
     },
     "CrisisWithdrawalSelfProtection": {
       "episode_count": 5,
@@ -34412,6 +34467,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/emergencyfrontierdiscretion/"
+    },
+    "EmergencyInstitutionsToTerror": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/emergencyinstitutionstoterror/"
     },
     "EmergentInnovationStrategy": {
       "episode_count": 1,
@@ -43517,6 +43588,29 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
+    "FrenchRevolution": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/frenchrevolution/"
+    },
     "FreshAllergySafeProductionScaling": {
       "episode_count": 1,
       "show_count": 1,
@@ -47081,6 +47175,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/georgewhitman/"
     },
+    "GeorgesDanton": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/georgesdanton/"
+    },
     "GeorgetownLawCenterOnPrivacyTechnology": {
       "episode_count": 1,
       "show_count": 1,
@@ -47335,6 +47452,29 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/giorgiovasari/"
+    },
+    "Girondins": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/girondins/"
     },
     "GlobalAIGovernanceFramework": {
       "episode_count": 1,
@@ -61599,6 +61739,29 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/jacobitism/"
     },
+    "JacquesLouisDavid": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/jacqueslouisdavid/"
+    },
     "JamesCallender": {
       "episode_count": 1,
       "show_count": 1,
@@ -61871,6 +62034,29 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/jealousydeescalationbyrivalprotection/"
+    },
+    "JeanPaulMarat": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/jeanpaulmarat/"
     },
     "JeanPaulSartre": {
       "episode_count": 3,
@@ -78633,6 +78819,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/maxkrummel/"
+    },
+    "MaximilienRobespierre": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/maximilienrobespierre/"
     },
     "MayaActive": {
       "episode_count": 1,
@@ -99772,6 +99981,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/revolute/"
     },
+    "RevolutionaryMartyrdomImageMaking": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/revolutionarymartyrdomimagemaking/"
+    },
     "RevolutionaryMilitarySlaveryContradiction": {
       "episode_count": 1,
       "show_count": 1,
@@ -99803,6 +100035,45 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
+    },
+    "RevolutionaryTerrorPolitics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/revolutionaryterrorpolitics/"
+    },
+    "RevolutionaryTribunal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/revolutionarytribunal/"
     },
     "RewardFitnessRisk": {
       "episode_count": 1,
@@ -103977,6 +104248,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/separatedcampmutualsupportrisk/"
+    },
+    "SeptemberMassacres": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/septembermassacres/"
     },
     "SeriousMentalIllnessFamilyCareBoundary": {
       "episode_count": 2,
@@ -120487,6 +120781,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/vectorborneinfectionescalation/"
+    },
+    "VendeeWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6580043397 [GLT6580043397].md",
+          "key": "707-the-terror-an-assassination-in-paris-part-1-glt6580043397",
+          "show": "The Rest Is History",
+          "title": "707. The Terror: An Assassination in Paris (Part 1)",
+          "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/vendeewar/"
     },
     "VenerableSeowon": {
       "episode_count": 1,

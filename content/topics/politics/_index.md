@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2600
+topic_total_pages: 2602
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -811,6 +811,9 @@ topic_concepts:
   - key: "CrisisWithdrawalSelfProtection"
     title: "Crisis Withdrawal Self-Protection / 危局抽身自保"
     url: "/wiki/concepts/crisiswithdrawalselfprotection/"
+  - key: "CrisisValidatedConspiracyPolitics"
+    title: "Crisis-Validated Conspiracy Politics"
+    url: "/wiki/concepts/crisisvalidatedconspiracypolitics/"
   - key: "CriticalMineralsGeopolitics"
     title: "Critical Minerals Geopolitics"
     url: "/wiki/concepts/criticalmineralsgeopolitics/"
@@ -1090,6 +1093,9 @@ topic_concepts:
   - key: "EmbodiedCarbonBuildingCode"
     title: "Embodied Carbon Building Code"
     url: "/wiki/concepts/embodiedcarbonbuildingcode/"
+  - key: "EmergencyInstitutionsToTerror"
+    title: "Emergency Institutions to Terror"
+    url: "/wiki/concepts/emergencyinstitutionstoterror/"
   - key: "EmolumentsClause"
     title: "Emoluments Clause"
     url: "/wiki/concepts/emolumentsclause/"

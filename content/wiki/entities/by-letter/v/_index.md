@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 10387
+wiki_total_pages: 10390
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "VoyagerGoldenRecord"
     title: "Voyager Golden Record"
     url: "/wiki/entities/voyagergoldenrecord/"
+  - key: "VendeeWar"
+    title: "War in the Vendée"
+    url: "/wiki/entities/vendeewar/"
   - key: "VoicesFromChernobyl"
     title: "《切尔诺贝利的悲鸣》 / Voices from Chernobyl"
     url: "/wiki/entities/voicesfromchernobyl/"
