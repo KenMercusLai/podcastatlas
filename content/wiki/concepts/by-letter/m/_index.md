@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7704
+wiki_total_pages: 7706
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "ManufacturedPrisonerDilemma"
     title: "Manufactured Prisoner Dilemma"
     url: "/wiki/concepts/manufacturedprisonerdilemma/"
+  - key: "ManufacturedRebellionBranding"
+    title: "Manufactured Rebellion Branding"
+    url: "/wiki/concepts/manufacturedrebellionbranding/"
   - key: "ManufacturingDigitalThread"
     title: "Manufacturing Digital Thread / 制造数字主线"
     url: "/wiki/concepts/manufacturingdigitalthread/"

@@ -7208,6 +7208,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/andrewhuberman/"
     },
+    "AndrewLoogOldham": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/andrewloogoldham/"
+    },
     "AndrewPalmer": {
       "episode_count": 2,
       "show_count": 1,
@@ -14215,9 +14231,9 @@
       "url": "/wiki/entities/brianfaulkner/"
     },
     "BrianJones": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -14225,6 +14241,13 @@
           "show": "The Rest Is History",
           "title": "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)",
           "url": "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
       "updated": "2026-09-21",
@@ -17307,9 +17330,9 @@
       "url": "/wiki/concepts/catholicburiallegitimacy/"
     },
     "CelebrityFolkDevilMoralPanic": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -17317,6 +17340,13 @@
           "show": "The Rest Is History",
           "title": "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)",
           "url": "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
       "updated": "2026-09-21",
@@ -64454,9 +64484,9 @@
       "url": "/wiki/entities/keithjoseph/"
     },
     "KeithRichards": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -64464,6 +64494,13 @@
           "show": "The Rest Is History",
           "title": "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)",
           "url": "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
       "updated": "2026-09-21",
@@ -77323,6 +77360,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/maniusaquillius/"
     },
+    "ManufacturedRebellionBranding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/manufacturedrebellionbranding/"
+    },
     "ManufacturingExportInvestmentQuality": {
       "episode_count": 1,
       "show_count": 1,
@@ -79859,9 +79912,9 @@
       "url": "/wiki/entities/michellewahler/"
     },
     "MickJagger": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -79869,6 +79922,13 @@
           "show": "The Rest Is History",
           "title": "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)",
           "url": "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
       "updated": "2026-09-21",
@@ -91594,9 +91654,9 @@
       "url": "/wiki/entities/poolside/"
     },
     "PopToAlbumRockTransition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -91604,6 +91664,13 @@
           "show": "The Rest Is History",
           "title": "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)",
           "url": "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
       "updated": "2026-09-21",
@@ -92429,6 +92496,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/postwarkeynesianretreat/"
+    },
+    "PostwarTeenageConsumerMarket": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/postwarteenageconsumermarket/"
     },
     "PovertyMemoryCorruptionExcuse": {
       "episode_count": 3,
@@ -114834,9 +114917,9 @@
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -114844,9 +114927,16 @@
           "show": "迟早更新",
           "title": "Episode 228: 所以，奥德赛",
           "url": "/wiki/sources/episode-228-suoyi-aodesai-8211241331-711602/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCarrierBagTheoryOfFiction": {
@@ -115294,9 +115384,9 @@
       "url": "/wiki/entities/therestishistory/"
     },
     "TheRollingStones": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1390188077 [GLT1390188077].md",
@@ -115304,6 +115394,13 @@
           "show": "The Rest Is History",
           "title": "559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)",
           "url": "/wiki/sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077/"
+        },
+        {
+          "episode_file": "GLT1663902020 [GLT1663902020].md",
+          "key": "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+          "show": "The Rest Is History",
+          "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
+          "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
         }
       ],
       "updated": "2026-09-21",

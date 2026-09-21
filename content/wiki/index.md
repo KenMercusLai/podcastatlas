@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave](sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523.md) — Huberman Lab interview on addiction as attempted relief, stabilization, distress tolerance, emotional forecasting, peer support, state shifting, and building a meaningful life in recovery.
 - [VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」](sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on balanced weight management, carbohydrate and fat extremes, food form, portion estimation, labels, energy deficits, and health-product marketing.
+- [558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)](sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020.md) — The Rest Is History episode on the Stones' blues origins, Brian Jones's founding role, the teenage pop market, original songwriting, and their deliberately manufactured anti-Beatles identity.
 - [559. The Rolling Stones: Satanic Majesties of Sixties Rebellion (Part 2)](sources/559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077.md) — The Rest Is History episode on Redlands, Brian Jones, Hyde Park, album rock, Altamont, and the Stones as symbols of late-1960s cultural conflict.
 - [Essentials: Protocols to Improve Vision & Eyesight](sources/essentials-protocols-to-improve-vision-eyesight-scim1823781754.md) — Huberman Lab Essentials episode on retinal light signaling, brain-based visual inference, circadian regulation, varied eye use, myopia-related habits, and bounded nutrition and eye-care tools.
 - [AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More](sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786.md) — Huberman Lab AMA excerpt distinguishing whey for muscle-related goals from collagen or bone broth for qualified skin-related goals, with tolerance and acne caveats.
@@ -2612,6 +2613,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Ryan Soave](entities/RyanSoave.md) — Addiction-treatment and trauma-recovery specialist presenting staged stabilization, distress tolerance, community support, and positive life-building.
+- [Andrew Loog Oldham](entities/AndrewLoogOldham.md) — Rolling Stones manager who coordinated their lineup, publicity, and anti-Beatles market position.
 - [The Rolling Stones](entities/TheRollingStones.md) — British band whose legal, personnel, musical, and symbolic transformation defined a durable rock template.
 - [Mick Jagger](entities/MickJagger.md) — Rolling Stones singer and public face central to Redlands, band leadership, and Hyde Park.
 - [Keith Richards](entities/KeithRichards.md) — Rolling Stones guitarist whose Redlands home became a stage for drug, class, and celebrity anxiety.
@@ -12999,6 +13001,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emotional Weather Forecast](concepts/EmotionalWeatherForecast.md) — Daily inventory of gratitude, plans, feelings, anticipated hazards, and chosen strivings shared with trusted people.
 - [Recovery Community Connection](concepts/RecoveryCommunityConnection.md) — Peer, family, therapeutic, and mutual-help infrastructure for accountability, belonging, and life after addiction.
 - [Self-Directed State Shifting](concepts/SelfDirectedStateShifting.md) — Proactive and reactive practices for changing state without relying on the addictive object.
+- [Manufactured Rebellion Branding](concepts/ManufacturedRebellionBranding.md) — Deliberate construction of oppositional identity through appearance, behavior, publicity, and contrast with a respectable competitor.
+- [Postwar Teenage Consumer Market](concepts/PostwarTeenageConsumerMarket.md) — Youth market formed through discretionary income, leisure venues, media, playback technology, and shared generational identity.
 - [Celebrity Folk-Devil Moral Panic](concepts/CelebrityFolkDevilMoralPanic.md) — Process by which a famous target makes limited conduct symbolize a broad social threat.
 - [Pop-to-Album-Rock Transition](concepts/PopToAlbumRockTransition.md) — Late-1960s shift toward serious listening, albums, virtuosity, adult identity, and higher-value rock markets.
 - [Visual System Health Toolkit](concepts/VisualSystemHealthToolkit.md) — Framework joining outdoor light, varied viewing distance, smooth pursuit, accommodation, binocular balance, systemic health, and qualified eye care.

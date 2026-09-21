@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7704
+wiki_total_pages: 7706
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "PostwarReconstructionFinance"
     title: "Postwar Reconstruction Finance"
     url: "/wiki/concepts/postwarreconstructionfinance/"
+  - key: "PostwarTeenageConsumerMarket"
+    title: "Postwar Teenage Consumer Market"
+    url: "/wiki/concepts/postwarteenageconsumermarket/"
   - key: "PovertyTrapModernization"
     title: "Poverty-Trap Modernization / 贫困陷阱与现代化"
     url: "/wiki/concepts/povertytrapmodernization/"

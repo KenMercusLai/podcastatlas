@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
       "03d60e46d06dd9f5392768ac179a3625cea6a5f191f719b44bbf95804b3d3cbb",
       "8e17ce1b606df7aab66abc3fb0515793496f1402564f212c5450d6e910d3cdf7",
       "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -683,11 +684,35 @@
       "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
       "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c"
     ],
-    "paragraph_count": 681
+    "paragraph_count": 682
   },
-  "overview_commit": "1967c0c3defef1d1380b9d48cb17105d4721517c",
-  "overview_digest": "57ad60b3f6f640472055852f54cdc9649ee40d8dbfedb2448bca722660605c26",
+  "overview_commit": "df3de50bc7734b8d3ca2b0bc8377ef0c0d6557b8",
+  "overview_digest": "6455d1e41e118e92536567bae6052cec6c06ad58063a22cc9db71ec41db90f14",
   "paragraphs": [
+    {
+      "id": "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [],
+      "text": "The newest music-formation source, [[558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020|558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)]], adds [[AndrewLoogOldham]], [[ManufacturedRebellionBranding]], and [[PostwarTeenageConsumerMarket]] while extending [[TheRollingStones]], [[BrianJones]], [[MickJagger]], [[KeithRichards]], [[TheBeatles]], [[CelebrityFolkDevilMoralPanic]], and [[PopToAlbumRockTransition]]. Its core synthesis is that postwar teenage spending and Beatles-led market validation created the commercial opening, while Oldham turned hair, interviews, lineup, photography, and parental disapproval into a coherent anti-Beatles identity; Jones's blues-purist founding role then yielded to the Jagger-Richards songwriting center as the group moved from tribute act to scalable rock archetype. No settled contradiction is recorded; character judgments, private motives, audience generalizations, racial framing, and causal claims about economics, gender, image, and success remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020",
+        "AndrewLoogOldham",
+        "BrianJones",
+        "CelebrityFolkDevilMoralPanic",
+        "KeithRichards",
+        "ManufacturedRebellionBranding",
+        "MickJagger",
+        "PopToAlbumRockTransition",
+        "PostwarTeenageConsumerMarket",
+        "TheBeatles",
+        "TheRollingStones"
+      ]
+    },
     {
       "id": "03d60e46d06dd9f5392768ac179a3625cea6a5f191f719b44bbf95804b3d3cbb",
       "primary_topic": "science-health-and-climate",
