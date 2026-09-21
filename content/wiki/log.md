@@ -21198,3 +21198,11 @@ Added source `essentials-how-to-control-your-metabolism-by-thyroid-growth-hormon
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 545. The French Revolution: The First Feminist (Part 2)
+
+Added source `545-the-french-revolution-the-first-feminist-part-2-glt4335903757`; created `Marianne`, `OlympeDeGouges`, `MadameRoland`, `TheroigneDeMericourt`, `NicolasDeCondorcet`, `SophieDeGrouchy`, `PaulineLeon`, `DeclarationOfTheRightsOfWoman`, `FemaleAllegoryPoliticalExclusion`, `GenderedRepublicanCitizenship`, and `InformalFemalePoliticalInfluence`; updated `FrenchRevolution`, `NationalConvention`, `MaximilienRobespierre`, `JeanPaulMarat`, `Girondins`, `Montagnards`, `JeanJacquesRousseau`, and the index. Core synthesis: the Revolution could embody liberty as Marianne while excluding women from suffrage, deliberation, and military citizenship; women nevertheless acted through crowds, galleries, salons, clubs, rights writing, and armed-service demands. No settled contradiction found; the “first feminist” framing, participation levels, personal influence, women's motives, factional generalizations, and intellectual-causation claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

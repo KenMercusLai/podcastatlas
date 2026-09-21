@@ -1773,6 +1773,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "545-the-french-revolution-the-first-feminist-part-2-glt4335903757": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370": [
     {
       "key": "history",
@@ -36535,6 +36542,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "InformalFemalePoliticalInfluence": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "InformalJianghuOrder": [

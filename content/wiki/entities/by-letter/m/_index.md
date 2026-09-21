@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10448
+wiki_total_pages: 10456
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "MadameDeRenal"
     title: "Madame de Renal / 雷奈尔夫人"
     url: "/wiki/entities/madamederenal/"
+  - key: "MadameRoland"
+    title: "Madame Roland"
+    url: "/wiki/entities/madameroland/"
   - key: "MadeByDentists"
     title: "Made by Dentists"
     url: "/wiki/entities/madebydentists/"
@@ -266,6 +269,9 @@ wiki_pages:
   - key: "MariaTheresaTaler"
     title: "Maria Theresa Taler"
     url: "/wiki/entities/mariatheresataler/"
+  - key: "Marianne"
+    title: "Marianne"
+    url: "/wiki/entities/marianne/"
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"

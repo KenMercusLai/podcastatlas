@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7810
+wiki_total_pages: 7813
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "GenderedPatronageInversion"
     title: "Gendered Patronage Inversion"
     url: "/wiki/concepts/genderedpatronageinversion/"
+  - key: "GenderedRepublicanCitizenship"
+    title: "Gendered Republican Citizenship"
+    url: "/wiki/concepts/genderedrepublicancitizenship/"
   - key: "GenderedSupplementSegmentation"
     title: "Gendered Supplement Segmentation / 性别细分保健品"
     url: "/wiki/concepts/genderedsupplementsegmentation/"

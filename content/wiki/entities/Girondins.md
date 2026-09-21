@@ -7,6 +7,7 @@ sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
+  - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -19,7 +20,7 @@ The Girondins were a republican faction in the National Convention associated wi
 
 ## Current Profile
 
-The sources present the Girondins as neither monarchists nor a neutral constitutional center. They entered the Convention as provincial republicans and tried to destroy the [[Montagnards]] through accusations of anarchism, massacre, leveling, and dictatorship, but their attacks on Marat and Robespierre failed. During [[LouisXVI|Louis XVI]]'s trial they accepted guilt while seeking popular ratification and later reprieve, positions opponents recoded as disguised royalism; later prosecution failure, association with Dumouriez, and forced purge marked the collapse of representative restraint and helped produce provincial federalist revolt.
+The sources present the Girondins as neither monarchists nor a neutral constitutional center. They entered the Convention as provincial republicans and tried to destroy the [[Montagnards]] through accusations of anarchism, massacre, leveling, and dictatorship, but their attacks failed. Their salon milieu and figures such as [[MadameRoland]] and [[SophieDeGrouchy]] made them relatively more open than the Mountain to women's public participation, without amounting to a uniform equal-rights program. During [[LouisXVI|Louis XVI]]'s trial they accepted guilt while seeking popular ratification and later reprieve; later prosecution failure, association with Dumouriez, and forced purge marked the collapse of representative restraint and helped produce provincial revolt.
 
 ## Key Characteristics
 
@@ -28,7 +29,7 @@ The sources present the Girondins as neither monarchists nor a neutral constitut
 - They attacked the Mountain as violent and dictatorial but failed to remove Marat or Robespierre.
 - Their failed offensive let opponents frame procedural restraint as political weakness or concealed reaction.
 - They proposed a popular referendum on Louis's verdict and later sought a reprieve without abandoning republicanism.
-- They opposed Marat's bloodshed but failed to defeat him through prosecution.
+- They opposed Marat's bloodshed but failed to defeat him through prosecution, while their milieu was relatively more receptive to female public participation.
 - Dumouriez's defection badly damaged them because he had been a Girondin foreign minister.
 
 ## Evidence
@@ -39,6 +40,10 @@ The sources present the Girondins as neither monarchists nor a neutral constitut
 - [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] adds provincial support, economic liberalism, and their distrust of Parisian crowds.
 - [[546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370]] supplies their provincial base, salon-oriented presentation, opening attack on the Mountain, and failed denunciations of Marat and Robespierre.
 - [[547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954]] shows the earlier referendum and reprieve disputes turning disagreement over punishment and procedure into suspicion of royalism.
+
+### Women and salon politics
+
+- [[545-the-french-revolution-the-first-feminist-part-2-glt4335903757]] connects the faction to Roland's influence, de Grouchy's female-inclusive salon, Condorcet's suffrage support, and a relative openness that stopped short of a uniform program.
 
 ### Defeat and purge
 
@@ -55,12 +60,12 @@ The sources present the Girondins as neither monarchists nor a neutral constitut
 - Girondin recognition of revolutionary self-destruction did not prevent their own partisan rhetoric from intensifying the conflict.
 - "Federalist" was a revolutionary political label and should not be assumed to describe one uniform provincial program.
 - The source does not establish that every Girondin shared one motive or position on Louis's punishment.
+- Relative openness to women's participation does not mean that all Girondins supported female suffrage or rejected domestic gender roles.
 
 ## What Changed
 
-- The factional trajectory now begins with the Girondins' failed September-October 1792 attacks on the Mountain.
-- Procedural restraint is now balanced against their own escalating accusations and unsuccessful removal efforts.
-- Dumouriez now appears first as a victorious general before his defection became a factional liability.
+- The faction's salon culture and relative openness to women's public participation now qualify its political profile.
+- Madame Roland's influence also shows that female agency inside the Girondin milieu could coexist with support for indirect domestic politics.
 
 ## Relationships
 
@@ -74,3 +79,5 @@ The sources present the Girondins as neither monarchists nor a neutral constitut
 - [[RevolutionaryJusticeMercyConflict]] - conflict through which their procedural position acquired factional danger.
 - [[CrisisValidatedConspiracyPolitics]] - Dumouriez's betrayal magnified suspicion against the faction.
 - [[RevolutionaryFactionalOutflanking]] - dynamic through which their attacks left them vulnerable to radical counterclaims.
+- [[MadameRoland]] - influential salon organizer whose politics exposed both female agency and domestic-role limits.
+- [[InformalFemalePoliticalInfluence]] - salon and household route through which women shaped the faction.

@@ -5,6 +5,7 @@ tags: [person, french-revolution, journalism, assassination]
 sources:
   - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
+  - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-21
 ---
@@ -17,7 +18,7 @@ Jean-Paul Marat was a physician, rejected experimental scientist, radical journa
 
 ## Current Profile
 
-Across the sources, Marat's political power came from combining genuine attention to popular hardship with an escalating worldview of virtuous people besieged by hidden enemies. His paper *L'Ami du peuple*, calls for mass execution, association with the [[SeptemberMassacres]], successful April 1793 trial, and role in the defeat of the [[Girondins]] made him both an influential radical and a target; his death then gave his politics greater symbolic force than Corday intended.
+Across the sources, Marat's political power came from combining genuine attention to popular hardship with an escalating worldview of virtuous people besieged by hidden enemies. He presented himself as a friend of women but addressed women collectively rather than as equal named political agents. His paper *L'Ami du peuple*, calls for mass execution, association with the [[SeptemberMassacres]], successful April 1793 trial, and role in the defeat of the [[Girondins]] made him both an influential radical and a target; his death then gave his politics greater symbolic force than Corday intended.
 
 ## Key Characteristics
 
@@ -27,6 +28,7 @@ Across the sources, Marat's political power came from combining genuine attentio
 - His popular support in Paris turned Girondin prosecution into triumph when he was acquitted in April 1793.
 - His illness confined him to medicinal baths but did not stop his newspaper production or political influence.
 - Assassination transformed a polarizing agitator into a revolutionary martyr with devotional and political cults.
+- His claimed friendship toward women remained collective and did not amount to a case for their equal citizenship.
 
 ## Evidence
 
@@ -44,17 +46,21 @@ Across the sources, Marat's political power came from combining genuine attentio
 - [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516]] examines the moral legibility and institutional limits of Corday's act.
 - [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] shows that the murder intensified conspiracy fears and produced a cult of relics, sacred-heart language, commemorative objects, and renamed places.
 
+### Women and political agency
+
+- [[545-the-french-revolution-the-first-feminist-part-2-glt4335903757]] presents Marat as a self-described friend of women whose rhetoric honored women collectively without naming them as equal individual political actors.
+
 ## Qualifications
 
 - The "first modern populist" description is historian Keith Michael Baker's interpretation as reported by the episode.
 - Marat correctly identified Dumouriez as a traitor, but one confirmed allegation does not validate his wider enemy lists or execution demands.
 - His exact responsibility for the September Massacres and Girondin purge must remain bounded to the claims made by each source.
+- The episode's brief characterization of his stance toward women is insufficient for a complete account of his writings or policy positions on women's rights.
 
 ## What Changed
 
-- Marat's profile now explains how rejection, conspiracy rhetoric, popular support, and courtroom victory built power before his death.
-- His assassination is judged a strategic reversal for Corday because martyrdom strengthened the politics she opposed.
-- A correct accusation against Dumouriez now qualifies any account that treats all of Marat's conspiracy claims as invented.
+- The profile now distinguishes collective pro-woman rhetoric from recognition of women as equal political agents.
+- His popular politics is therefore bounded by the Revolution's wider gendered model of citizenship.
 
 ## Relationships
 
@@ -64,3 +70,4 @@ Across the sources, Marat's political power came from combining genuine attentio
 - [[CrisisValidatedConspiracyPolitics]] - mechanism by which Dumouriez's real treason strengthened Marat's wider worldview.
 - [[RevolutionaryMartyrdomImageMaking]] - process that converted his death into sacred political memory.
 - [[PoliticalAssassinationEthics]] - ethical framework for evaluating Corday's killing of him.
+- [[GenderedRepublicanCitizenship]] - political boundary left intact by his collective praise of women.

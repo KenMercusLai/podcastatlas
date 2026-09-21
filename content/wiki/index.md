@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [545. The French Revolution: The First Feminist (Part 2)](sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757.md) — The Rest Is History episode on Marianne, Olympe de Gouges, women's revolutionary action, salon politics, suffrage, armed participation, and the gender boundary of republican citizenship.
 - [Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone](sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997.md) — Huberman Lab Essentials episode on thyroid-axis metabolism, nutrient sufficiency, growth-hormone release through sleep and exercise, heat and arginine claims, and intervention risk.
 - [546. The French Revolution: The Monarchy Falls (Part 3)](sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370.md) — The Rest Is History episode on abolition, Valmy, Convention factional conflict, ideological war, and the opening case against Louis XVI.
 - [547. The French Revolution: The Execution of the King (Part 4)](sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954.md) — The Rest Is History episode on Louis XVI's trial and execution, ritual de-royalization, republican founding violence, mercy disputes, and rival martyr memories.
@@ -2664,6 +2665,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
 
 ## Entities
+- [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
+- [Olympe de Gouges](entities/OlympeDeGouges.md) — Revolutionary writer and abolitionist who applied universal rights language to women.
+- [Madame Roland](entities/MadameRoland.md) — Influential Girondin salon organizer who defended indirect female politics and faced misogynistic backlash.
+- [Théroigne de Méricourt](entities/TheroigneDeMericourt.md) — Revolutionary activist who pursued political clubs and an armed women's battalion.
+- [Nicolas de Condorcet](entities/NicolasDeCondorcet.md) — Enlightenment thinker and revolutionary supporter of women's suffrage.
+- [Sophie de Grouchy](entities/SophieDeGrouchy.md) — Female-inclusive salon organizer connected to the Revolution's pro-suffrage milieu.
+- [Pauline Léon](entities/PaulineLeon.md) — Revolutionary activist who advocated women's armed participation.
+- [Declaration of the Rights of Woman and of the Female Citizen](entities/DeclarationOfTheRightsOfWoman.md) — Olympe de Gouges's 1791 challenge to male-only revolutionary rights.
 - [Battle of Valmy](entities/BattleOfValmy.md) — Limited 1792 battlefield success whose political effect made French survival a republican triumph.
 - [Charles François Dumouriez](entities/CharlesFrancoisDumouriez.md) — French general whose Valmy position and Belgian victories connected defence to revolutionary expansion.
 - [Louis Antoine de Saint-Just](entities/LouisAntoineSaintJust.md) — Montagnard deputy who argued that kingship itself made Louis XVI incompatible with the Republic.
@@ -13121,6 +13130,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 
 ## Concepts
+- [Female Allegory and Political Exclusion](concepts/FemaleAllegoryPoliticalExclusion.md) — Mechanism through which a polity can embody liberty as a woman while denying women equal political power.
+- [Gendered Republican Citizenship](concepts/GenderedRepublicanCitizenship.md) — Allocation of public rights and armed duty to men while women are assigned domestic patriotic roles.
+- [Informal Female Political Influence](concepts/InformalFemalePoliticalInfluence.md) — Political agency through salons, households, persuasion, and networks outside formal citizenship.
 - [Republican Founding Without Settlement](concepts/RepublicanFoundingWithoutSettlement.md) — Regime transition in which abolition precedes settled institutions, mandate, and founding legitimacy.
 - [Revolutionary Factional Outflanking](concepts/RevolutionaryFactionalOutflanking.md) — Dynamic that recodes moderation or yesterday's radicalism as reaction and betrayal.
 - [Revolutionary Ideological War](concepts/RevolutionaryIdeologicalWar.md) — Armed conflict that claims authority to export political and social transformation.

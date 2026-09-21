@@ -28970,6 +28970,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/declarationofindependence/"
     },
+    "DeclarationOfTheRightsOfWoman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/declarationoftherightsofwoman/"
+    },
     "DeepBrainStimulationPsychiatry": {
       "episode_count": 2,
       "show_count": 1,
@@ -41104,6 +41120,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/felixhoffman/"
     },
+    "FemaleAllegoryPoliticalExclusion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/femaleallegorypoliticalexclusion/"
+    },
     "FemaleCourtEducationEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -44865,9 +44897,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -44896,6 +44928,13 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
         }
       ],
       "updated": "2026-09-22",
@@ -47644,6 +47683,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/genderedofficehierarchy/"
     },
+    "GenderedRepublicanCitizenship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/genderedrepublicancitizenship/"
+    },
     "GenderedSupplementSegmentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -48776,9 +48831,9 @@
       "url": "/wiki/entities/giorgiovasari/"
     },
     "Girondins": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48807,6 +48862,13 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
         }
       ],
       "updated": "2026-09-22",
@@ -61457,6 +61519,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/inflationshapedconsumerhabits/"
     },
+    "InformalFemalePoliticalInfluence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/informalfemalepoliticalinfluence/"
+    },
     "InformalJianghuOrder": {
       "episode_count": 2,
       "show_count": 2,
@@ -63618,10 +63696,47 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/jealousydeescalationbyrivalprotection/"
     },
+    "JeanJacquesRousseau": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
+          "key": "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja",
+          "show": "起朱楼宴宾客",
+          "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+          "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/jeanjacquesrousseau/"
+    },
     "JeanPaulMarat": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -63636,6 +63751,13 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
         }
       ],
       "updated": "2026-09-21",
@@ -79496,6 +79618,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/madagascar/"
     },
+    "MadameRoland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/madameroland/"
+    },
     "MadisonHemings": {
       "episode_count": 1,
       "show_count": 1,
@@ -80186,6 +80324,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/mariatheresataler/"
     },
+    "Marianne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/marianne/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -80857,9 +81011,9 @@
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -80881,6 +81035,13 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
         }
       ],
       "updated": "2026-09-22",
@@ -84467,9 +84628,9 @@
       "url": "/wiki/entities/monsanto/"
     },
     "Montagnards": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3779628370 [GLT3779628370].md",
@@ -84477,6 +84638,13 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
         }
       ],
       "updated": "2026-09-22",
@@ -86088,9 +86256,9 @@
       "url": "/wiki/entities/nationalcollegiateathleticassociation/"
     },
     "NationalConvention": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -86105,6 +86273,13 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
         }
       ],
       "updated": "2026-09-22",
@@ -86949,6 +87124,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/nicolacqua/"
+    },
+    "NicolasDeCondorcet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/nicolasdecondorcet/"
     },
     "NicolasMaduro": {
       "episode_count": 4,
@@ -89414,6 +89605,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/ollama/"
+    },
+    "OlympeDeGouges": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/olympedegouges/"
     },
     "OmenCodedRemonstrance": {
       "episode_count": 9,
@@ -92422,6 +92629,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/paulrouse/"
+    },
+    "PaulineLeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/paulineleon/"
     },
     "PayPal": {
       "episode_count": 3,
@@ -112198,6 +112421,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/sophiaalekseyevna/"
     },
+    "SophieDeGrouchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/sophiedegrouchy/"
+    },
     "SophieZhang": {
       "episode_count": 1,
       "show_count": 1,
@@ -119922,6 +120161,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/therapyrelationshipandboundaries/"
+    },
+    "TheroigneDeMericourt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4335903757 [GLT4335903757].md",
+          "key": "545-the-french-revolution-the-first-feminist-part-2-glt4335903757",
+          "show": "The Rest Is History",
+          "title": "545. The French Revolution: The First Feminist (Part 2)",
+          "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/theroignedemericourt/"
     },
     "ThinSoleSneakerRevival": {
       "episode_count": 2,

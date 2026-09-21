@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2603
+topic_total_pages: 2604
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1723,6 +1723,9 @@ topic_concepts:
   - key: "InfanticideCustomCorrection"
     title: "Infanticide Custom Correction / 杀婴风俗纠偏"
     url: "/wiki/concepts/infanticidecustomcorrection/"
+  - key: "InformalFemalePoliticalInfluence"
+    title: "Informal Female Political Influence"
+    url: "/wiki/concepts/informalfemalepoliticalinfluence/"
   - key: "InformalJianghuOrder"
     title: "Informal Jianghu Order"
     url: "/wiki/concepts/informaljianghuorder/"

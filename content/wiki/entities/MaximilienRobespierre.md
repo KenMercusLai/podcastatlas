@@ -6,6 +6,7 @@ sources:
   - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
+  - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -18,7 +19,7 @@ Maximilien Robespierre was a leading Montagnard revolutionary whose defence of n
 
 ## Current Profile
 
-The sources connect Robespierre's virtue-centered moral vocabulary to a sequence of political tests. He defeated Louvet's accusation that he sought dictatorship by defending revolutionary violence as necessary, argued that Louis must die for the homeland to live, called for popular insurrection in May 1793, benefited from the forced Girondin purge, and joined the Committee of Public Safety as Marat's assassination strengthened suspicion and uncompromising virtue.
+The sources connect Robespierre's virtue-centered moral vocabulary to a sequence of political tests. He defeated Louvet's accusation that he sought dictatorship by defending revolutionary violence as necessary, argued that Louis must die for the homeland to live, opposed female suffrage while attracting female admirers, called for popular insurrection in May 1793, benefited from the forced Girondin purge, and joined the Committee of Public Safety as Marat's assassination strengthened suspicion and uncompromising virtue.
 
 ## Key Characteristics
 
@@ -28,6 +29,7 @@ The sources connect Robespierre's virtue-centered moral vocabulary to a sequence
 - Unlike Marat, he initially regarded Marat's bloodthirstiness and personality with distaste.
 - He publicly called for popular insurrection when lawful good faith seemed exhausted.
 - The Girondin purge left his Montagnard faction dominant.
+- He opposed female suffrage despite substantial support from women in the episode's account.
 
 ## Evidence
 
@@ -47,17 +49,21 @@ The sources connect Robespierre's virtue-centered moral vocabulary to a sequence
 
 - [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] distinguishes Robespierre from Marat's extreme blood rhetoric and from Danton's increasing pragmatism while showing how the post-assassination climate favored Robespierre.
 
+### Gender and political support
+
+- [[545-the-french-revolution-the-first-feminist-part-2-glt4335903757]] contrasts his opposition to female suffrage with his many female admirers and the wider domestic ideal of republican womanhood.
+
 ## Qualifications
 
 - The episode ends at Robespierre's ascent and does not cover his full record during the Terror.
 - The source's paraphrase of his regicide argument does not prove that all Montagnards shared one rationale.
 - The sequence does not establish that Marat's assassination alone caused Robespierre's rise; war, revolt, scarcity, and factional collapse were simultaneous drivers.
+- Female admiration for Robespierre does not establish what most women believed or why particular women supported him.
 
 ## What Changed
 
-- The profile now begins with Robespierre's successful defence against Girondin attack in autumn 1792.
-- His support for Louis's death links virtue language and revolutionary necessity before the Terror's emergency institutions.
-- His difference from both Marat and Danton remains explicit despite their shared Montagnard alignment.
+- The profile now includes the tension between Robespierre's female support and his opposition to female suffrage.
+- His virtue politics is now connected to the Revolution's gendered public-domestic boundary as well as faction and terror.
 
 ## Relationships
 
@@ -70,3 +76,4 @@ The sources connect Robespierre's virtue-centered moral vocabulary to a sequence
 - [[RevolutionaryFactionalOutflanking]] - mechanism through which his successful defence weakened the Girondins.
 - [[RevolutionaryTerrorPolitics]] - political system joining virtue, emergency, fear, and punishment.
 - [[RevolutionaryVirtuePolitics]] - moral language central to his revolutionary identity.
+- [[GenderedRepublicanCitizenship]] - gender order his anti-suffrage position preserved.
