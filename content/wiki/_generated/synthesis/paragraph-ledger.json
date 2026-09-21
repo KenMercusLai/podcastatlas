@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "fd67bb8d20ab0e503043ecac624078b46f6e8817fbb2c246cfebec2ebff8caee",
       "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
       "f1a9fa56836cd386b944147f89473ba6c8ba84eb1e60ec5983ba00534a11824c",
       "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
@@ -692,11 +693,32 @@
       "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
       "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276"
     ],
-    "paragraph_count": 690
+    "paragraph_count": 691
   },
-  "overview_commit": "b2e098681d2add0e1594c0e8642e18ef72435e0f",
-  "overview_digest": "2224a9d80fba3a32e82bc3039e58177518b729dd97bc757ea56e61372b41c86b",
+  "overview_commit": "1d160f9cc7e2388bd4e4929c5f7f11c62b4351ea",
+  "overview_digest": "c70f31662e1172fe6b4a3aaca23ef6aa9938e5f215f01ecdc348e4477d40c2af",
   "paragraphs": [
+    {
+      "id": "fd67bb8d20ab0e503043ecac624078b46f6e8817fbb2c246cfebec2ebff8caee",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The newest late-Han personnel source, [[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm|《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？]], extends the court-selection branch through [[HeQiaLateHan|和洽]] while sharpening [[SelectionDrivenVirtueSignaling|选官驱动的德行表演]] and [[TalentVirtueDistinction|才德之分]]. Its core synthesis is that visible austerity can cease to be evidence of integrity once worn clothes, walking, and rough objects become cheap, legible career signals; He Qia therefore defends moderate frugality while rejecting an extreme standard that burdens officials and rewards false display. Cao Cao's talent order and the Meng Gongchuo and [[GuanZhong|管仲]] examples add the complementary appointment rule: lifestyle, character, practical capacity, and office fit must be distinguished before they are recombined in a personnel decision. No settled contradiction is recorded; “唯才是举” qualifies rather than cancels the warning that talent amplifies moral direction and risk, while exact wording, chronology, motives, institutional reach, Guan Zhong details, and modern economic analogies remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "GuanZhong",
+        "HeQiaLateHan",
+        "SelectionDrivenVirtueSignaling",
+        "TalentVirtueDistinction",
+        "zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm"
+      ]
+    },
     {
       "id": "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
       "primary_topic": "ai-and-technology",

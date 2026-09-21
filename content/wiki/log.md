@@ -20936,3 +20936,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | 《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？
+
+Added source `zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm`; created `HeQiaLateHan`; and updated `SelectionDrivenVirtueSignaling`, `TalentVirtueDistinction`, overview, and index. Core synthesis: He Qia accepts moderate frugality but warns that extreme, visible austerity becomes an exhausting and easily imitated proxy for integrity, while Cao Cao's talent order and the Meng Gongchuo and Guan Zhong examples argue for separating lifestyle, character, capacity, and office fit. No settled contradiction found; “唯才是举” qualifies rather than cancels the talent-virtue warning, and exact wording, chronology, motives, institutional reach, Guan Zhong details, and modern economic analogies remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

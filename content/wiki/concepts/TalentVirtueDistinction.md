@@ -12,7 +12,8 @@ sources:
   - zizhi-tongjian-zhouji-06-weiwenhou-xuan-shui-dang-zaixiang-ne-1-lk-6ejgmjhvukqgtlz2lowu8qx-v
   - zizhi-tongjian-zhouji-04-yurang-wei-zhiyao-fuchou-ln34tydha6iqwlrgmw7iugqfgfik
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
-last_updated: 2026-08-30
+  - zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm
+last_updated: 2026-09-21
 ---
 
 ## Definition
@@ -27,6 +28,8 @@ The later Warring States sources qualify that rule. Zhouji 06 shows [[LiKe|Li Ke
 
 Hanji 154 then adds a crisis-use boundary through [[WeiWuzhi|Wei Wuzhi]] defending [[ChenPing|Chen Ping]]: a wartime ruler may need useful talent even when personal virtue concerns remain unresolved. Hanji 779 reasserts the severe side in an Eastern Han setting. [[RenShangLateHan|Ren Shang]] has military reputation, but his temperament and judgment are misfit for Western Regions governance after [[BanChaoEasternHan|Ban Chao]]; [[FanZhunLateHan|Fan Zhun]] and [[LuGongLateHan|Lu Gong]] provide the positive contrast, where the right person repairs education and judicial procedure.
 
+The late-Han selection-policy formulation adds another qualification without canceling the amplifier warning. [[HeQiaLateHan|和洽]] warns that extreme visible frugality is not reliable proof of virtue, while [[CaoCao|曹操]]'s talent order and the Meng Gongchuo and [[GuanZhong|管仲]] examples emphasize differentiated office fit and practical usefulness. Moral reputation, visible lifestyle, ability, and role fit must therefore be evaluated separately before they are recombined in an appointment decision; [[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm|Hanji 1114]] grounds this formulation.
+
 ## Key Claims
 
 - Talent is an amplifier: it can serve public order or make harmful action more effective.
@@ -35,6 +38,7 @@ Hanji 154 then adds a crisis-use boundary through [[WeiWuzhi|Wei Wuzhi]] defendi
 - Rulers fail the distinction through false positives, especially when reputation, persuasion, or useful tricks are mistaken for governing-level worth.
 - Motive and talent level matter because skill used for private gain or low-level rescue is not automatically statecraft.
 - Hanji 779 adds that military reputation can fail the talent-virtue test when the job requires local legitimacy, patience, and indirect governance.
+- Hanji 1114 adds that visible austerity is an unreliable virtue proxy and that appointment judgment must distinguish lifestyle, character, capability, and office fit.
 
 ## Evidence
 
@@ -44,17 +48,16 @@ Hanji 154 then adds a crisis-use boundary through [[WeiWuzhi|Wei Wuzhi]] defendi
 - Motive and level tests: [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41|Zhouji 56]] distinguishes persuasive effectiveness from morally acceptable purpose; [[zizhi-tongjian-zhouji-63-degao-wangzhong-mengchangjun-shi-weijunzi-lmd0owe3rq-faponbwzhkaigprin|Zhouji 63]] distinguishes emergency tricks from true statecraft-level talent.
 - Eastern Han appointment warning: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] restates the fourfold frame and shows Ren Shang's capable but harsh Western Regions governance failing after he ignores Ban Chao's advice.
 - Positive repair contrast: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] pairs the Ren Shang warning with Fan Zhun's education memorial and Lu Gong's judicial-calendar reform.
+- Late-Han selection qualification: [[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm|Hanji 1114]] combines He Qia's critique of performative austerity with Cao Cao's role-fit talent order and Guan Zhong as the disputed-conduct, high-capacity example.
 
 ## Counterevidence & Qualifications
 
-The concept is normative and source-framed, not a neutral modern hiring model. Several sources deliberately qualify the strictest reading: Wu Qi and Chen Ping show that flawed people may be useful when the role is bounded, the crisis is acute, and the decision-maker can still manage risk. Hanji 779 also does not prove that Ren Shang lacked every virtue or ability; it shows that his known strengths were mismatched to Western Regions governance.
+The concept is normative and source-framed, not a neutral modern hiring model. Several sources deliberately qualify the strictest reading: Wu Qi, Chen Ping, and the Guan Zhong example show that flawed people may be useful when the role is bounded, the need is real, and the decision-maker can manage risk. Hanji 779 does not prove that Ren Shang lacked every virtue or ability; it shows that his known strengths were mismatched to Western Regions governance. Hanji 1114's “唯才是举” framing likewise does not prove that moral risk is irrelevant, only that visible austerity and generalized reputation are inadequate substitutes for role-specific judgment.
 
 ## What Changed
 
-- Migrated the page to `knowledge_schema: synthesis-v1`.
-- Added Hanji 779's explicit restatement of the Sima Guang talent-virtue frame.
-- Added Ren Shang as an Eastern Han case where military reputation fails under indirect frontier governance.
-- Added Fan Zhun and Lu Gong as positive contrasts where appointment fit repairs learning and procedure.
+- Added Hanji 1114's distinction among visible lifestyle, underlying character, practical capability, and office fit.
+- Added He Qia's warning that extreme austerity can corrupt the virtue signal used in personnel judgment.
 
 ## Related Concepts
 
@@ -64,3 +67,4 @@ The concept is normative and source-framed, not a neutral modern hiring model. S
 - [[AppointmentQualityAsStateCapacity]] - operationalizes talent-virtue judgment as office fit, institutional protection, and state capacity.
 - [[GoodIntentionsPoliticalLimits]] - related because personal virtue without political judgment can still produce destructive outcomes.
 - [[LegalistRulerTechnique]] - contrast because ruler technique can value effectiveness while treating moral direction differently.
+- [[SelectionDrivenVirtueSignaling|选官驱动的德行表演]] - shows why observable moral style cannot substitute for judgment of virtue or capacity.

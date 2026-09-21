@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-21
-as_of_overview_commit: 3a61c937b219f5be665631dda8501fa0b4d020f3
-input_digest: 11fb0178a9b7553d38b5862387c1ea594108394496ec99c07c2e5d2038889a4e
+as_of_overview_commit: 1d160f9cc7e2388bd4e4929c5f7f11c62b4351ea
+input_digest: e3c3ca6fc3568c158c5778d4b204be64f6958bcd7ceafa255b036988d2c27bee
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription. The smell-and-taste Essentials episode adds a narrow state-regulation boundary: breathing phase and odor cues may affect arousal or attention, but stronger activation is not automatically safer or more effective, and human pheromone interpretations remain unsettled.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription. The smell-and-taste Essentials episode adds a narrow state-regulation boundary: breathing phase and odor cues may affect arousal or attention, but stronger activation is not automatically safer or more effective, and human pheromone interpretations remain unsettled. Hanji 1114 adds a bounded judgment case: conspicuous austerity may become strategic performance, so self-presentation should not substitute for evidence about integrity, capability, motive, or role fit.
 
 ## Cross-source Findings
 
@@ -1057,3 +1057,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - The condensed source does not provide full study methods, sample sizes, effect magnitudes, or replication status.
 - Ammonia-linked arousal carries olfactory-tissue and eye risk, and stronger arousal should not be treated as a general learning benefit.
 - Animal pheromone effects, menstrual synchrony, the human vomeronasal organ, and handshake sampling should not be generalized beyond the source's stated uncertainty.
+
+### Conspicuous Virtue Signals Can Displace Judgment
+
+[[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm|Hanji 1114]] enters psychology and personal development only as a bounded social-judgment case: [[HeQiaLateHan|He Qia]] treats extreme visible austerity as [[SelectionDrivenVirtueSignaling|a signal that can be strategically performed]], so moral appearance should not displace judgment of motive, capability, or role fit under [[TalentVirtueDistinction|the talent-virtue distinction]].
+
+**Evidence:** [[zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm]], [[HeQiaLateHan]], [[SelectionDrivenVirtueSignaling]], [[TalentVirtueDistinction]]
+
+**Qualifications:**
+
+- This is a historical personnel-selection analogy, not a general psychological assessment tool or modern hiring rule.
+- Plain conduct can reflect sincere frugality, imitation, fear, norm internalization, or career calculation; the source does not measure their relative weight.
+- Exact dialogue and individual motives remain source-scoped.

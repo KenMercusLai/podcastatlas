@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: 34acbcd4465e5fec0960aabedb64bb85cb5b3b9c
+as_of_overview_commit: 1d160f9cc7e2388bd4e4929c5f7f11c62b4351ea
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2613
-source_count: 2613
-paragraph_count: 690
+episode_count: 2616
+source_count: 2616
+paragraph_count: 691
 topic_count: 9
 ---
 
@@ -61,14 +61,14 @@ Institutions turn power into order through rules, evidence, information, legitim
 
 ### History and Geopolitics
 
-Historical outcomes join legitimacy to material capacity, routes, logistics, command, coalition, and endurance; displacement also leaves losses carried through cultural memory.
+Historical outcomes join legitimacy to material capacity, routes, logistics, command, coalition, endurance, and personnel judgment; visible moral signals remain weaker than tested role fit.
 
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]]. Evidence: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]], [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]], [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[MoscowUprising1682]], [[SophiaAlekseyevna]], [[VasilyGolitsyn]], [[BattleOfNarva]], [[SaintPetersburg]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]], [[GreatNorthernWar]], [[GreatEmbassy]], [[CoerciveWesternization]], [[Streltsy]], [[AugustusTheStrong]].
 - [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o|Episode 501]] adds [[QingMidDynastyAccumulatedMaladies|a mid-Qing case]] in which underfunded implementation, embedded interests, [[GovernanceNormalizationParadox|procedural accretion]], and [[AdministrativeInformationConformity|safe information channels]] weaken problem solving before open disorder, while [[DynasticCyclePerception|different cycle perceptions]] shape reform and [[StatecraftGenerationRelay|personnel preparation]]. Evidence: [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o]], [[QingMidDynastyAccumulatedMaladies]], [[GovernanceNormalizationParadox]], [[AdministrativeInformationConformity]], [[DynasticCyclePerception]], [[StatecraftGenerationRelay]].
 
 ### Psychology and Personal Development
 
-Psychological development depends on embodied regulation, relational safety, calibrated action, careful self-interpretation, evidence boundaries, and qualified care.
+Psychological development depends on embodied regulation, relational safety, calibrated action, careful self-interpretation, evidence boundaries, and skepticism toward performable virtue signals.
 
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
 - [[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof. Evidence: [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]].
@@ -82,7 +82,7 @@ Science and health literacy require mechanism, measurement, verified products an
 
 ### Work, Education, and Society
 
-Learning and work improve through active practice, trustworthy institutions, usable systems, transfer evidence, human judgment, care capacity, and real-world constraints.
+Learning and work improve through active practice, trustworthy institutions, usable systems, transfer evidence, human judgment, care capacity, and personnel criteria that test more than visible compliance.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

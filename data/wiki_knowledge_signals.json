@@ -52954,6 +52954,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/heqilatehan/"
     },
+    "HeQiaLateHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？ [lgqmpYZ2Zm1avw5E-RDeXMO6kSWm].md",
+          "key": "zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/heqialatehan/"
+    },
     "HeSongEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -104356,9 +104372,9 @@
       "url": "/wiki/concepts/seizurefirstaidboundary/"
     },
     "SelectionDrivenVirtueSignaling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？ [liKUR-XfjqBK3KR-EW6ftVTVwiXq].md",
@@ -104366,9 +104382,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1087丨司马懿装病拒曹操，一听说要被抓秒怂？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1087-simayi-zhuangbing-ju-caocao-yi-tingshuo-yao-bei-zhua-miao-song-likur-xfjqbk3kr-ew6ftvtwixq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？ [lgqmpYZ2Zm1avw5E-RDeXMO6kSWm].md",
+          "key": "zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/selectiondrivenvirtuesignaling/"
     },
     "SelectiveAnthemCanonization": {
@@ -114932,9 +114955,9 @@
       "url": "/wiki/concepts/talentsummonsrulerselfexamination/"
     },
     "TalentVirtueDistinction": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？ [li_C6eZwFpeJcvbrpzOjg_xv2gE8].md",
@@ -114991,9 +115014,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》779丨历史告诉你：用错人竟会亡国灭家？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？ [lgqmpYZ2Zm1avw5E-RDeXMO6kSWm].md",
+          "key": "zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》1114丨官员集体装穷，和洽劝谏能叫醒曹操吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-1114-guanyuan-jiti-zhuangqiong-heqia-quanjian-neng-jiaoxing-caocao-ma-lgqmpyz2zm1avw5e-rdexmo6kswm/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/talentvirtuedistinction/"
     },
     "TalonEnergy": {
