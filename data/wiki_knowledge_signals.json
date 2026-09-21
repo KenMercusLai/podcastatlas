@@ -22836,6 +22836,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/cognitivetrustallocation/"
     },
+    "ColdShiveringThermogenesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9321862300 [SCIM9321862300].md",
+          "key": "essentials-lose-fat-with-science-based-tools-scim9321862300",
+          "show": "Huberman Lab",
+          "title": "Essentials: Lose Fat With Science-Based Tools",
+          "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/coldshiveringthermogenesis/"
+    },
     "CollegeLogoLicensingMerchandise": {
       "episode_count": 1,
       "show_count": 1,
@@ -37343,9 +37359,9 @@
       "url": "/wiki/concepts/energyabundanceclimatestrategy/"
     },
     "EnergyBalanceAccounting": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -37360,6 +37376,13 @@
           "show": "这病说来话长",
           "title": "VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」",
           "url": "/wiki/sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5/"
+        },
+        {
+          "episode_file": "SCIM9321862300 [SCIM9321862300].md",
+          "key": "essentials-lose-fat-with-science-based-tools-scim9321862300",
+          "show": "Huberman Lab",
+          "title": "Essentials: Lose Fat With Science-Based Tools",
+          "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
         }
       ],
       "updated": "2026-09-21",
@@ -38490,6 +38513,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/exerciseassistivegearboundary/"
+    },
+    "ExerciseFatOxidationSequencing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9321862300 [SCIM9321862300].md",
+          "key": "essentials-lose-fat-with-science-based-tools-scim9321862300",
+          "show": "Huberman Lab",
+          "title": "Essentials: Lose Fat With Science-Based Tools",
+          "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/exercisefatoxidationsequencing/"
     },
     "ExerciseHydrationPerformanceBoundary": {
       "episode_count": 1,
@@ -40142,6 +40181,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/fatfreemassindex/"
+    },
+    "FatMobilizationAndOxidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9321862300 [SCIM9321862300].md",
+          "key": "essentials-lose-fat-with-science-based-tools-scim9321862300",
+          "show": "Huberman Lab",
+          "title": "Essentials: Lose Fat With Science-Based Tools",
+          "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/fatmobilizationandoxidation/"
     },
     "FateTimingExternalConditions": {
       "episode_count": 1,
@@ -83837,6 +83892,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/movementscreenscoring/"
+    },
+    "MovementThermogenesis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9321862300 [SCIM9321862300].md",
+          "key": "essentials-lose-fat-with-science-based-tools-scim9321862300",
+          "show": "Huberman Lab",
+          "title": "Essentials: Lose Fat With Science-Based Tools",
+          "url": "/wiki/sources/essentials-lose-fat-with-science-based-tools-scim9321862300/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/movementthermogenesis/"
     },
     "MozhenjiangWusun": {
       "episode_count": 1,

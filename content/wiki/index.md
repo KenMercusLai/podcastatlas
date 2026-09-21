@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Lose Fat With Science-Based Tools](sources/essentials-lose-fat-with-science-based-tools-scim9321862300.md) — Huberman Lab Essentials episode on calorie balance, fat mobilization versus oxidation, movement thermogenesis, shivering and cold safety, exercise sequencing, caffeine, GLP-1, insulin, and sustainable adherence.
 - [554. 1066: The Shadows of War (Part 1)](sources/554-1066-the-shadows-of-war-part-1-glt1461163139.md) — The Rest Is History episode on Edward's death, Harold's election, rival succession claims, Tostig's grievance, Norman invasion logistics, papal backing, English mobilization, and the northern invasion threat.
 - [VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM](sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov.md) — 这病说来话长 episode with 吴浩天, 蒋永亮, and 高嘉诚 on painless gastrointestinal endoscopy, anesthesia and airway monitoring, bowel preparation, pathology, polyp risk, recovery, and follow-up.
 - [555. 1066: Slaughter at Stamford Bridge (Part 2)](sources/555-1066-slaughter-at-stamford-bridge-part-2-glt1524879968.md) — The Rest Is History episode on Hardrada and Tostig's northern conquest bid, Harold's operational surprise, the invasion's destruction, and the qualified “end of the Viking Age” interpretation.
@@ -20828,5 +20829,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Relationship Conflict Repair](concepts/RelationshipConflictRepair.md) — Regulation, pause, perspective-taking, response choice, and return process for repairing interpersonal rupture.
 - [Partner Selection Beyond Chemistry](concepts/PartnerSelectionBeyondChemistry.md) — Dating judgment frame prioritizing maturity, flexibility, character, reliability, life direction, and felt safety over immediate sparks.
 - [Breakup World Loss](concepts/BreakupWorldLoss.md) — Grief of losing a partner together with routines, shared history, sensory familiarity, social ties, and imagined futures.
+- [Fat Mobilization and Oxidation](concepts/FatMobilizationAndOxidation.md) — Two-stage distinction between releasing stored fatty acids and using them in mitochondria, bounded from long-term fat loss.
+- [Movement Thermogenesis](concepts/MovementThermogenesis.md) — Non-exercise expenditure from fidgeting, standing, pacing, walking, and other ordinary low-level movement.
+- [Cold and Shivering Thermogenesis](concepts/ColdShiveringThermogenesis.md) — Shivering-centered heat-production frame with cold-shock, cardiac, and long-term-efficacy limits.
+- [Exercise Fat-Oxidation Sequencing](concepts/ExerciseFatOxidationSequencing.md) — Source-scoped hypothesis connecting fasting, session duration, and intense-before-zone-two exercise to substrate use.
 
 ## Syntheses

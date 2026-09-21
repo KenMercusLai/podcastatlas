@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7754
+wiki_total_pages: 7758
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "ExerciseAssistiveGearBoundary"
     title: "Exercise Assistive Gear Boundary / 运动护具辅助边界"
     url: "/wiki/concepts/exerciseassistivegearboundary/"
+  - key: "ExerciseFatOxidationSequencing"
+    title: "Exercise Fat-Oxidation Sequencing"
+    url: "/wiki/concepts/exercisefatoxidationsequencing/"
   - key: "ExerciseHydrationPerformanceBoundary"
     title: "Exercise Hydration Performance Boundary"
     url: "/wiki/concepts/exercisehydrationperformanceboundary/"

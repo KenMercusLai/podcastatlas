@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7754
+wiki_total_pages: 7758
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "CoinRetirementEconomics"
     title: "Coin Retirement Economics"
     url: "/wiki/concepts/coinretirementeconomics/"
+  - key: "ColdShiveringThermogenesis"
+    title: "Cold and Shivering Thermogenesis"
+    url: "/wiki/concepts/coldshiveringthermogenesis/"
   - key: "ColdWarNuclearMisperception"
     title: "Cold War Nuclear Misperception / 冷战核误判"
     url: "/wiki/concepts/coldwarnuclearmisperception/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7754
+wiki_total_pages: 7758
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"

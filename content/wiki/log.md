@@ -21032,3 +21032,11 @@ Added source `554-1066-the-shadows-of-war-part-1-glt1461163139`; updated `Edward
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-21] ingest | Essentials: Lose Fat With Science-Based Tools
+
+Added source `essentials-lose-fat-with-science-based-tools-scim9321862300`; created `FatMobilizationAndOxidation`, `MovementThermogenesis`, `ColdShiveringThermogenesis`, and `ExerciseFatOxidationSequencing`; updated `EnergyBalanceAccounting` and the index. Core synthesis: calorie balance remains foundational, while ordinary movement can alter expenditure and cold, fasting, exercise order, and compounds may alter acute thermogenesis or substrate use without guaranteeing durable fat loss. No settled contradiction found; local-epinephrine, cold, fasted-training, caffeine, yerba-mate, GLP-1, insulin, metformin, berberine, and low-carbohydrate claims remain source-scoped and safety-bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7754
+wiki_total_pages: 7758
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "MovementScreenScoring"
     title: "Movement Screen Scoring / 动作筛查评分"
     url: "/wiki/concepts/movementscreenscoring/"
+  - key: "MovementThermogenesis"
+    title: "Movement Thermogenesis"
+    url: "/wiki/concepts/movementthermogenesis/"
   - key: "MSPChannelDistribution"
     title: "MSP Channel Distribution"
     url: "/wiki/concepts/mspchanneldistribution/"
