@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1658,6 +1658,9 @@ wiki_pages:
   - key: "ContextDependentBiomedicalInterventions"
     title: "Context-Dependent Biomedical Interventions"
     url: "/wiki/concepts/contextdependentbiomedicalinterventions/"
+  - key: "ContextDependentSocialHormoneEffects"
+    title: "Context-Dependent Social Hormone Effects"
+    url: "/wiki/concepts/contextdependentsocialhormoneeffects/"
   - key: "ContextualBanditPersonalization"
     title: "Contextual Bandit Personalization"
     url: "/wiki/concepts/contextualbanditpersonalization/"

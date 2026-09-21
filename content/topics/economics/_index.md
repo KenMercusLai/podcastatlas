@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2074
+topic_total_pages: 2075
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2584,6 +2584,9 @@ topic_concepts:
   - key: "SocialEngineeringFraud"
     title: "Social Engineering Fraud"
     url: "/wiki/concepts/socialengineeringfraud/"
+  - key: "SocialImitationMarketBubbles"
+    title: "Social Imitation in Market Bubbles"
+    url: "/wiki/concepts/socialimitationmarketbubbles/"
   - key: "SocialMediaCostOfCapital"
     title: "Social Media Cost of Capital"
     url: "/wiki/concepts/socialmediacostofcapital/"

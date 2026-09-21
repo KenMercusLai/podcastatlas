@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "PopulationCoding"
     title: "Population Coding"
     url: "/wiki/concepts/populationcoding/"
+  - key: "PopulationHealthRiskPrediction"
+    title: "Population Health Risk Prediction"
+    url: "/wiki/concepts/populationhealthriskprediction/"
   - key: "PopulationLevelHealthAdvice"
     title: "Population-Level Health Advice"
     url: "/wiki/concepts/populationlevelhealthadvice/"

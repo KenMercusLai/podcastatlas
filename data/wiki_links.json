@@ -2455,6 +2455,10 @@
     "title": "AI Health Agent / AI健康智能体",
     "url": "/wiki/concepts/aihealthagent/"
   },
+  "AIHealthBenefitPlanOptimization": {
+    "title": "AI Health Benefit Plan Optimization",
+    "url": "/wiki/concepts/aihealthbenefitplanoptimization/"
+  },
   "AIHealthManagement": {
     "title": "AI Health Management",
     "url": "/wiki/concepts/aihealthmanagement/"
@@ -6875,6 +6879,10 @@
     "title": "Attention Fine-Tuning",
     "url": "/wiki/concepts/attentionfinetuning/"
   },
+  "AttentionForagingModel": {
+    "title": "Attention Foraging Model",
+    "url": "/wiki/concepts/attentionforagingmodel/"
+  },
   "AttentionFragmentation": {
     "title": "Attention Fragmentation / 注意力碎片化",
     "url": "/wiki/concepts/attentionfragmentation/"
@@ -8826,6 +8834,10 @@
   "BiologicalProcessorEnergyEfficiency": {
     "title": "Biological Processor Energy Efficiency",
     "url": "/wiki/concepts/biologicalprocessorenergyefficiency/"
+  },
+  "BiologicalRationalityMismatch": {
+    "title": "Biological Rationality Mismatch",
+    "url": "/wiki/concepts/biologicalrationalitymismatch/"
   },
   "BiomedicalDeepLearning": {
     "title": "Biomedical Deep Learning",
@@ -15035,6 +15047,10 @@
     "title": "Context-Dependent Biomedical Interventions",
     "url": "/wiki/concepts/contextdependentbiomedicalinterventions/"
   },
+  "ContextDependentSocialHormoneEffects": {
+    "title": "Context-Dependent Social Hormone Effects",
+    "url": "/wiki/concepts/contextdependentsocialhormoneeffects/"
+  },
   "ContextEngineering": {
     "title": "Context Engineering",
     "url": "/wiki/concepts/contextengineering/"
@@ -17291,6 +17307,10 @@
     "title": "Decimus Junius Brutus / 德奇姆斯",
     "url": "/wiki/entities/decimusjuniusbrutus/"
   },
+  "DecisionSpeedAccuracyControl": {
+    "title": "Decision Speed-Accuracy Control",
+    "url": "/wiki/concepts/decisionspeedaccuracycontrol/"
+  },
   "DecisiveResourceCommitment": {
     "title": "Decisive Resource Commitment / 决断型资源投入",
     "url": "/wiki/concepts/decisiveresourcecommitment/"
@@ -17470,6 +17490,10 @@
   "DehumanizationByComparison": {
     "title": "Dehumanization By Comparison / 比较导致的去人性化",
     "url": "/wiki/concepts/dehumanizationbycomparison/"
+  },
+  "DeidentifiedEmployerHealthAnalytics": {
+    "title": "De-Identified Employer Health Analytics",
+    "url": "/wiki/concepts/deidentifiedemployerhealthanalytics/"
   },
   "Deindividuation": {
     "title": "Deindividuation / 去个体化",
@@ -20798,6 +20822,10 @@
   "EmployeeGraph": {
     "title": "Employee Graph",
     "url": "/wiki/concepts/employeegraph/"
+  },
+  "EmployeeHealthBenefitsAI": {
+    "title": "AI in Employee Health Benefits",
+    "url": "/wiki/concepts/employeehealthbenefitsai/"
   },
   "EmployeeRetentionEconomics": {
     "title": "Employee Retention Economics",
@@ -32543,6 +32571,10 @@
     "title": "Interpersonal Image Projection / 人际意象投射",
     "url": "/wiki/concepts/interpersonalimageprojection/"
   },
+  "InterpersonalSynchronyAndRapport": {
+    "title": "Interpersonal Synchrony and Rapport",
+    "url": "/wiki/concepts/interpersonalsynchronyandrapport/"
+  },
   "Interpositive": {
     "title": "Interpositive",
     "url": "/wiki/entities/interpositive/"
@@ -34434,6 +34466,10 @@
   "JoaoHavelange": {
     "title": "Joao Havelange",
     "url": "/wiki/entities/joaohavelange/"
+  },
+  "JocelynJiang": {
+    "title": "Jocelyn Jiang",
+    "url": "/wiki/entities/jocelynjiang/"
   },
   "JockoWillink": {
     "title": "Jocko Willink",
@@ -43015,6 +43051,10 @@
     "title": "Michael Mattioli",
     "url": "/wiki/entities/michaelmattioli/"
   },
+  "MichaelPlatt": {
+    "title": "Michael Platt",
+    "url": "/wiki/entities/michaelplatt/"
+  },
   "MichaelReid": {
     "title": "Michael Reid",
     "url": "/wiki/entities/michaelreid/"
@@ -44458,6 +44498,10 @@
   "MultiPerspectiveMurderNarration": {
     "title": "Multi-Perspective Murder Narration",
     "url": "/wiki/concepts/multiperspectivemurdernarration/"
+  },
+  "MultiPlan": {
+    "title": "MultiPlan",
+    "url": "/wiki/entities/multiplan/"
   },
   "MultiPriceBandLuxuryBranding": {
     "title": "Multi-Price-Band Luxury Branding",
@@ -47330,6 +47374,10 @@
   "OprahWinfrey": {
     "title": "Oprah Winfrey",
     "url": "/wiki/entities/oprahwinfrey/"
+  },
+  "OptInWorkplaceHealthMonitoring": {
+    "title": "Opt-In Workplace Health Monitoring",
+    "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
   },
   "OpticalTactileSensing": {
     "title": "Optical Tactile Sensing",
@@ -50218,6 +50266,10 @@
   "PopulationCoding": {
     "title": "Population Coding",
     "url": "/wiki/concepts/populationcoding/"
+  },
+  "PopulationHealthRiskPrediction": {
+    "title": "Population Health Risk Prediction",
+    "url": "/wiki/concepts/populationhealthriskprediction/"
   },
   "PopulationLevelHealthAdvice": {
     "title": "Population-Level Health Advice",
@@ -59091,6 +59143,10 @@
     "title": "Social Hospitalization / 社会性住院",
     "url": "/wiki/concepts/socialhospitalization/"
   },
+  "SocialImitationMarketBubbles": {
+    "title": "Social Imitation in Market Bubbles",
+    "url": "/wiki/concepts/socialimitationmarketbubbles/"
+  },
   "SocialIsolationTachykinin": {
     "title": "Social Isolation Tachykinin",
     "url": "/wiki/concepts/socialisolationtachykinin/"
@@ -59170,6 +59226,10 @@
   "SocialTrustAsStateCapacity": {
     "title": "Social Trust As State Capacity",
     "url": "/wiki/concepts/socialtrustasstatecapacity/"
+  },
+  "SocialValueAccounting": {
+    "title": "Social Value Accounting",
+    "url": "/wiki/concepts/socialvalueaccounting/"
   },
   "SocialWar": {
     "title": "Social War / 同盟者战争",
@@ -75987,6 +76047,10 @@
     "title": "EP 17: AI's Impact on Creativity: A Consumer's Perspective",
     "url": "/wiki/sources/ep-17-ais-impact-on-creativity-a-consumers-perspective/"
   },
+  "ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai": {
+    "title": "EP 19: Navigating the Future of Workplace Health and Benefits with AI",
+    "url": "/wiki/sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai/"
+  },
   "ep-20-understanding-ai-agents-from-basics-to-future-potential": {
     "title": "EP 20: Understanding AI Agents: From Basics to Future Potential",
     "url": "/wiki/sources/ep-20-understanding-ai-agents-from-basics-to-future-potential/"
@@ -76858,6 +76922,10 @@
   "how-to-make-a-book-into-a-bestseller": {
     "title": "How to make a BOOK into a bestseller",
     "url": "/wiki/sources/how-to-make-a-book-into-a-bestseller/"
+  },
+  "how-to-make-better-decisions-dr-michael-platt-scim9606820714": {
+    "title": "How to Make Better Decisions | Dr. Michael Platt",
+    "url": "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
   },
   "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132": {
     "title": "How to Overcome Social Anxiety | Dr. Nick Epley",

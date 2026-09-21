@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1007,6 +1007,9 @@ wiki_pages:
   - key: "SocialHospitalization"
     title: "Social Hospitalization / 社会性住院"
     url: "/wiki/concepts/socialhospitalization/"
+  - key: "SocialImitationMarketBubbles"
+    title: "Social Imitation in Market Bubbles"
+    url: "/wiki/concepts/socialimitationmarketbubbles/"
   - key: "SocialIsolationTachykinin"
     title: "Social Isolation Tachykinin"
     url: "/wiki/concepts/socialisolationtachykinin/"
@@ -1061,6 +1064,9 @@ wiki_pages:
   - key: "SocialTrustAsStateCapacity"
     title: "Social Trust As State Capacity"
     url: "/wiki/concepts/socialtrustasstatecapacity/"
+  - key: "SocialValueAccounting"
+    title: "Social Value Accounting"
+    url: "/wiki/concepts/socialvalueaccounting/"
   - key: "SocialTemplateDesire"
     title: "Social-Template Desire / 社会模板欲望"
     url: "/wiki/concepts/socialtemplatedesire/"

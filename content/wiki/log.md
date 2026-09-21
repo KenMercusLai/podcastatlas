@@ -21128,6 +21128,10 @@ Added source `essentials-supercharge-exercise-performance-recovery-with-cooling-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-22] ingest | EP 19: Navigating the Future of Workplace Health and Benefits with AI
+
+Added source `ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai`; created `JocelynJiang`, `MultiPlan`, `EmployeeHealthBenefitsAI`, `DeidentifiedEmployerHealthAnalytics`, `PopulationHealthRiskPrediction`, `AIHealthBenefitPlanOptimization`, and `OptInWorkplaceHealthMonitoring`; migrated and updated `DataScienceWithSam` and `SamDataScienceWithSam`; and updated the index. Core synthesis: AI can expand population-risk detection and benefit-plan scenario testing only when employers receive appropriately de-identified insight, identifiable outreach stays with authorized partners, fairness and affordability are explicit constraints, wearable programs preserve employee agency, and humans retain final responsibility. No settled contradiction found; model performance, optimizer objectives, compliance implementation, employee trust, and health or cost outcomes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-22] ingest | 549. The Road to 1066: Revenge of the Vikings (Part 2)
 
 Added source `549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985`; created six ruler pages and three concept pages; updated `EmmaOfNormandy`, the index, and the overview. Core synthesis: Scandinavian Christian kingship increased state capacity without ending coercion, repeated Danegeld weakened Æthelred's legitimacy, and Cnut turned the 1016 conquest into durable rule by combining violent consolidation with English institutions and dynastic marriage. No settled contradiction found; legendary episodes, royal motives, military and fiscal quantities, and the state-formation interpretation remain source-scoped.
@@ -21290,6 +21294,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？
 
 Added source `vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru`; created `SunDoctorCardiacElectrophysiology`, `ImplantableCardioverterDefibrillator`, `SuddenCardiacDeathRiskStratification`, `CardiacImplantableDeviceDifferentiation`, and `RemoteCardiacMonitoringAndWarning`; updated `CPRAEDResponseBoundary` and the index. Core synthesis: ICDs are continuous implanted protection for clinically selected high-risk patients, not universal insurance for healthy people; pacemakers, ICD/CRT-D, AED, monitors, and ventricular-assist support address different physiological and care settings. No settled contradiction found. Device-life, interference, out-of-hospital location, and AI-warning lead-time claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | How to Make Better Decisions | Dr. Michael Platt
+
+Added source `how-to-make-better-decisions-dr-michael-platt-scim9606820714`; created `MichaelPlatt`, `AttentionForagingModel`, `SocialValueAccounting`, `ContextDependentSocialHormoneEffects`, `InterpersonalSynchronyAndRapport`, `DecisionSpeedAccuracyControl`, `SocialImitationMarketBubbles`, and `BiologicalRationalityMismatch`; migrated and updated `LossAversion`; updated `BrandBelief`; and updated the index. Core synthesis: attention, social valuation, physiology, arousal, fatigue, imitation, and environmental fit shape decisions before or alongside conscious reasoning. No settled contradiction found; monkey-to-human transfer, hormone generalization, synchrony causality, visual framing ethics, market extrapolation, and neuroimaging interpretations remain explicitly bounded. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-22] lint | Wiki health check
 

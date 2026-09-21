@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1155
+topic_total_pages: 1157
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -217,6 +217,9 @@ topic_concepts:
   - key: "BiologicalHarnessEngineering"
     title: "Biological Harness Engineering"
     url: "/wiki/concepts/biologicalharnessengineering/"
+  - key: "BiologicalRationalityMismatch"
+    title: "Biological Rationality Mismatch"
+    url: "/wiki/concepts/biologicalrationalitymismatch/"
   - key: "BioregionalResilience"
     title: "Bioregional Resilience"
     url: "/wiki/concepts/bioregionalresilience/"
@@ -3306,6 +3309,9 @@ topic_sources:
   - key: "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002"
     title: "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel"
     url: "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+  - key: "how-to-make-better-decisions-dr-michael-platt-scim9606820714"
+    title: "How to Make Better Decisions | Dr. Michael Platt"
+    url: "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"

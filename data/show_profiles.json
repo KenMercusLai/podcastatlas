@@ -274,14 +274,14 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-09-13",
       "latest_episode_file": "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md",
-      "source_note_count": 32,
-      "topic_matched_source_note_count": 23,
+      "source_note_count": 33,
+      "topic_matched_source_note_count": 24,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 20
+          "source_note_count": 21
         },
         {
           "key": "science",
@@ -478,14 +478,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-17",
       "latest_episode_file": "SCIM5641095924 [SCIM5641095924].md",
-      "source_note_count": 81,
-      "topic_matched_source_note_count": 50,
+      "source_note_count": 82,
+      "topic_matched_source_note_count": 51,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 47
+          "source_note_count": 48
         },
         {
           "key": "culture",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "AIHealthAgent"
     title: "AI Health Agent / AI健康智能体"
     url: "/wiki/concepts/aihealthagent/"
+  - key: "AIHealthBenefitPlanOptimization"
+    title: "AI Health Benefit Plan Optimization"
+    url: "/wiki/concepts/aihealthbenefitplanoptimization/"
   - key: "AIHealthManagement"
     title: "AI Health Management"
     url: "/wiki/concepts/aihealthmanagement/"
@@ -2228,6 +2231,9 @@ wiki_pages:
   - key: "AttentionFineTuning"
     title: "Attention Fine-Tuning"
     url: "/wiki/concepts/attentionfinetuning/"
+  - key: "AttentionForagingModel"
+    title: "Attention Foraging Model"
+    url: "/wiki/concepts/attentionforagingmodel/"
   - key: "AttentionFragmentation"
     title: "Attention Fragmentation / 注意力碎片化"
     url: "/wiki/concepts/attentionfragmentation/"

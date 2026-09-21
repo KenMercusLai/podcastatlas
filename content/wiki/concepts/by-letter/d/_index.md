@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "DeFactoSuperLeagueLogic"
     title: "De Facto Super League Logic"
     url: "/wiki/concepts/defactosuperleaguelogic/"
+  - key: "DeidentifiedEmployerHealthAnalytics"
+    title: "De-Identified Employer Health Analytics"
+    url: "/wiki/concepts/deidentifiedemployerhealthanalytics/"
   - key: "DeRoyalizationRitual"
     title: "De-Royalization Ritual"
     url: "/wiki/concepts/deroyalizationritual/"
@@ -275,6 +278,9 @@ wiki_pages:
   - key: "DeceptiveSurrenderLull"
     title: "Deceptive Surrender Lull / 诈降麻痹"
     url: "/wiki/concepts/deceptivesurrenderlull/"
+  - key: "DecisionSpeedAccuracyControl"
+    title: "Decision Speed-Accuracy Control"
+    url: "/wiki/concepts/decisionspeedaccuracycontrol/"
   - key: "DecisiveResourceCommitment"
     title: "Decisive Resource Commitment / 决断型资源投入"
     url: "/wiki/concepts/decisiveresourcecommitment/"

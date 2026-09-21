@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "InterpersonalImageProjection"
     title: "Interpersonal Image Projection / 人际意象投射"
     url: "/wiki/concepts/interpersonalimageprojection/"
+  - key: "InterpersonalSynchronyAndRapport"
+    title: "Interpersonal Synchrony and Rapport"
+    url: "/wiki/concepts/interpersonalsynchronyandrapport/"
   - key: "InterpretationAndOverinterpretation"
     title: "Interpretation And Overinterpretation"
     url: "/wiki/concepts/interpretationandoverinterpretation/"

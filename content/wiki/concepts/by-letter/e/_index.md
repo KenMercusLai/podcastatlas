@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
+  - key: "EmployeeHealthBenefitsAI"
+    title: "AI in Employee Health Benefits"
+    url: "/wiki/concepts/employeehealthbenefitsai/"
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
     url: "/wiki/concepts/ebikevaluechainshift/"

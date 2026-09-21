@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Make Better Decisions | Dr. Michael Platt](sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714.md) — Huberman Lab interview on attention as foraging, social valuation, context-sensitive hormone effects, synchrony, speed-accuracy control, loss aversion, market imitation, and biological rationality.
+- [EP 19: Navigating the Future of Workplace Health and Benefits with AI](sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai.md) — Data Science With Sam episode with Jocelyn Jiang of MultiPlan on de-identified employer analytics, health-risk prediction, care navigation, benefit-plan optimization, opt-in wearables, and human oversight.
 - [VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？](sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru.md) — 这病说来话长 episode on ICD selection, sudden-cardiac-death risk, implanted-device differentiation, and remote cardiac monitoring.
 - [541. Heart of Darkness: Fear and Loathing in the Congo](sources/541-heart-of-darkness-fear-and-loathing-in-the-congo-glt5482142786.md) — The Rest Is History episode on Conrad's Congo journey, Leopoldian extraction, the civilising mission, literary modernism, and the Achebe-Said critiques of the novella.
 - [542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe](sources/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe-glt4512754016.md) — The Rest Is History episode on John Dee, Tudor knowledge boundaries, angelic mediation, occult patronage risk, and cartographic-imperial mythmaking.
@@ -2677,6 +2679,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Optimize Testosterone & Estrogen](sources/essentials-how-to-optimize-testosterone-estrogen-scim1902283258.md) — Huberman Lab Essentials episode on sex-steroid feedback, aromatization, sleep, stress, light, exercise, supplements, bloodwork, and clinical risk boundaries.
 
 ## Entities
+- [Michael Platt](entities/MichaelPlatt.md) — Neuroscientist and primatologist connecting attention, social valuation, hormones, hierarchy, markets, and applied decision science.
+- [Jocelyn Jiang](entities/JocelynJiang.md) — Actuary and MultiPlan data-decision leader discussing responsible AI in employee health benefits.
+- [MultiPlan](entities/MultiPlan.md) — Healthcare analytics organization described through employer cost, risk, care-navigation, and plan-design workflows.
 - [孙老师 / Doctor Sun (cardiac electrophysiology guest)](entities/SunDoctorCardiacElectrophysiology.md) — Source-scoped pacing and electrophysiology guest explaining ICD, CRT, rhythm risk, device life, and remote monitoring.
 - [Joseph Conrad](entities/JosephConrad.md) — Polish-born British sailor-writer whose 1890 Congo experience became the basis for Heart of Darkness.
 - [Heart of Darkness](entities/HeartOfDarkness.md) — Conrad's modernist novella exposing colonial violence while remaining contested for its representation of Africans.
@@ -13165,6 +13170,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
 ## Concepts
+- [Attention Foraging Model](concepts/AttentionForagingModel.md) — Model of focus and switching as allocation among information patches with competing expected returns.
+- [Social Value Accounting](concepts/SocialValueAccounting.md) — Hierarchy-sensitive account of social information value, reciprocity, and unequal exchange rates.
+- [Context-Dependent Social Hormone Effects](concepts/ContextDependentSocialHormoneEffects.md) — Context-first model of testosterone and oxytocin effects on risk, status, affiliation, vigilance, and hierarchy.
+- [Interpersonal Synchrony and Rapport](concepts/InterpersonalSynchronyAndRapport.md) — Bounded use of behavioral and physiological coordination as a signal of rapport and teamwork.
+- [Decision Speed-Accuracy Control](concepts/DecisionSpeedAccuracyControl.md) — Framework for matching evidence accumulation, arousal, fatigue, and decision ownership to task demands.
+- [Social Imitation in Market Bubbles](concepts/SocialImitationMarketBubbles.md) — Social-learning feedback in which copying can displace independent valuation and amplify shared error.
+- [Biological Rationality Mismatch](concepts/BiologicalRationalityMismatch.md) — Gap between evolved decision environments and modern information, market, food, and social demands.
+- [AI in Employee Health Benefits](concepts/EmployeeHealthBenefitsAI.md) — Assisted-decision framework joining employer health analytics, prediction, plan optimization, employee agency, and human accountability.
+- [De-Identified Employer Health Analytics](concepts/DeidentifiedEmployerHealthAnalytics.md) — Separation pattern giving employers population insight without identifying which employee has a condition.
+- [Population Health Risk Prediction](concepts/PopulationHealthRiskPrediction.md) — Healthcare risk scoring whose value depends on validation, authorized support workflows, and nondiscrimination.
+- [AI Health Benefit Plan Optimization](concepts/AIHealthBenefitPlanOptimization.md) — Scenario search across plan richness and employee contributions within employer budget and fairness constraints.
+- [Opt-In Workplace Health Monitoring](concepts/OptInWorkplaceHealthMonitoring.md) — Employee-agency boundary for wearable programs requiring transparent purpose, voluntary participation, and separation from employment decisions.
 - [Implantable Cardioverter-Defibrillator / 植入式心脏复律除颤器](concepts/ImplantableCardioverterDefibrillator.md) — Implanted rhythm-monitoring and treatment system for selected patients at high risk of malignant ventricular arrhythmia.
 - [Sudden Cardiac Death Risk Stratification / 心脏性猝死风险分层](concepts/SuddenCardiacDeathRiskStratification.md) — Primary-versus-secondary prevention framework matching catastrophic arrhythmic risk to intervention burden.
 - [Cardiac Implantable Device Differentiation / 心脏植入装置功能区分](concepts/CardiacImplantableDeviceDifferentiation.md) — Physiology-to-device map separating pacing, defibrillation, resynchronization, monitoring, public rescue, and pump support.

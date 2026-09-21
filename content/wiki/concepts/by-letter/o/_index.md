@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7839
+wiki_total_pages: 7851
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "OppositionPartyHollowing"
     title: "Opposition Party Hollowing"
     url: "/wiki/concepts/oppositionpartyhollowing/"
+  - key: "OptInWorkplaceHealthMonitoring"
+    title: "Opt-In Workplace Health Monitoring"
+    url: "/wiki/concepts/optinworkplacehealthmonitoring/"
   - key: "OpticalTactileSensing"
     title: "Optical Tactile Sensing"
     url: "/wiki/concepts/opticaltactilesensing/"

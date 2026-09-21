@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10479
+wiki_total_pages: 10482
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -860,6 +860,9 @@ wiki_pages:
   - key: "MichaelMattioli"
     title: "Michael Mattioli"
     url: "/wiki/entities/michaelmattioli/"
+  - key: "MichaelPlatt"
+    title: "Michael Platt"
+    url: "/wiki/entities/michaelplatt/"
   - key: "MichaelReid"
     title: "Michael Reid"
     url: "/wiki/entities/michaelreid/"
@@ -1322,6 +1325,9 @@ wiki_pages:
   - key: "MultiCard"
     title: "MultiCard"
     url: "/wiki/entities/multicard/"
+  - key: "MultiPlan"
+    title: "MultiPlan"
+    url: "/wiki/entities/multiplan/"
   - key: "MurasakiShikibu"
     title: "Murasaki Shikibu"
     url: "/wiki/entities/murasakishikibu/"
