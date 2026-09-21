@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1150
+topic_total_pages: 1151
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -952,6 +952,9 @@ topic_concepts:
   - key: "IntermittentReinforcement"
     title: "Intermittent Reinforcement"
     url: "/wiki/concepts/intermittentreinforcement/"
+  - key: "InternalFamilySystemsTherapy"
+    title: "Internal Family Systems Therapy"
+    url: "/wiki/concepts/internalfamilysystemstherapy/"
   - key: "InterpersonalImageProjection"
     title: "Interpersonal Image Projection / 人际意象投射"
     url: "/wiki/concepts/interpersonalimageprojection/"

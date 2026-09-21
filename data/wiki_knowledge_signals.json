@@ -23973,9 +23973,9 @@
       "url": "/wiki/concepts/comparativemedicine/"
     },
     "CompassionateCuriosity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9301011958 [SCIM9301011958].md",
@@ -23983,6 +23983,13 @@
           "show": "Huberman Lab",
           "title": "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti",
           "url": "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"
+        },
+        {
+          "episode_file": "SCIM4912435693 [SCIM4912435693].md",
+          "key": "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693",
+          "show": "Huberman Lab",
+          "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+          "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
         }
       ],
       "updated": "2026-09-12",
@@ -60066,6 +60073,38 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
     },
+    "IFSPartsModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4912435693 [SCIM4912435693].md",
+          "key": "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693",
+          "show": "Huberman Lab",
+          "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+          "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/ifspartsmodel/"
+    },
+    "IFSSelfLeadership": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4912435693 [SCIM4912435693].md",
+          "key": "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693",
+          "show": "Huberman Lab",
+          "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+          "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/ifsselfleadership/"
+    },
     "IKEA": {
       "episode_count": 1,
       "show_count": 1,
@@ -62092,6 +62131,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/internalcapacitybeforewar/"
+    },
+    "InternalFamilySystemsTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4912435693 [SCIM4912435693].md",
+          "key": "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693",
+          "show": "Huberman Lab",
+          "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+          "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/internalfamilysystemstherapy/"
     },
     "InternalRevenueService": {
       "episode_count": 4,
@@ -98252,9 +98307,9 @@
       "url": "/wiki/concepts/pseudoindependentwomennarrative/"
     },
     "PsychedelicClinicalSupervisionBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -98269,6 +98324,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: Understanding & Healing the Mind | Dr. Karl Deisseroth",
           "url": "/wiki/sources/essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631/"
+        },
+        {
+          "episode_file": "SCIM4912435693 [SCIM4912435693].md",
+          "key": "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693",
+          "show": "Huberman Lab",
+          "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+          "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
         }
       ],
       "updated": "2026-09-09",
@@ -103411,6 +103473,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/richardiiiplay/"
+    },
+    "RichardSchwartz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4912435693 [SCIM4912435693].md",
+          "key": "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693",
+          "show": "Huberman Lab",
+          "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+          "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/richardschwartz/"
     },
     "RichlandParish": {
       "episode_count": 1,

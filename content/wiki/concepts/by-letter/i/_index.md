@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7813
+wiki_total_pages: 7816
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -44,6 +44,12 @@ wiki_pages:
   - key: "IEPATariffAuthorityLimit"
     title: "IEPA Tariff Authority Limit"
     url: "/wiki/concepts/iepatariffauthoritylimit/"
+  - key: "IFSPartsModel"
+    title: "IFS Parts Model"
+    url: "/wiki/concepts/ifspartsmodel/"
+  - key: "IFSSelfLeadership"
+    title: "IFS Self-Leadership"
+    url: "/wiki/concepts/ifsselfleadership/"
   - key: "IllegalSandMining"
     title: "Illegal Sand Mining"
     url: "/wiki/concepts/illegalsandmining/"
@@ -602,6 +608,9 @@ wiki_pages:
   - key: "InternalCanteenFoodCourtOperation"
     title: "Internal Canteen Food-Court Operation / 内部食堂美食广场化"
     url: "/wiki/concepts/internalcanteenfoodcourtoperation/"
+  - key: "InternalFamilySystemsTherapy"
+    title: "Internal Family Systems Therapy"
+    url: "/wiki/concepts/internalfamilysystemstherapy/"
   - key: "InternalMarketizationLimit"
     title: "Internal Marketization Limit / 企业内部市场化边界"
     url: "/wiki/concepts/internalmarketizationlimit/"

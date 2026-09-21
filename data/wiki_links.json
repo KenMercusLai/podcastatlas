@@ -31091,6 +31091,14 @@
     "title": "IEPA Tariff Authority Limit",
     "url": "/wiki/concepts/iepatariffauthoritylimit/"
   },
+  "IFSPartsModel": {
+    "title": "IFS Parts Model",
+    "url": "/wiki/concepts/ifspartsmodel/"
+  },
+  "IFSSelfLeadership": {
+    "title": "IFS Self-Leadership",
+    "url": "/wiki/concepts/ifsselfleadership/"
+  },
   "IKEA": {
     "title": "IKEA",
     "url": "/wiki/entities/ikea/"
@@ -32310,6 +32318,10 @@
   "InternalCapacityBeforeWar": {
     "title": "内政承受力先于用兵 / Internal Capacity Before War",
     "url": "/wiki/concepts/internalcapacitybeforewar/"
+  },
+  "InternalFamilySystemsTherapy": {
+    "title": "Internal Family Systems Therapy",
+    "url": "/wiki/concepts/internalfamilysystemstherapy/"
   },
   "InternalMarketizationLimit": {
     "title": "Internal Marketization Limit / 企业内部市场化边界",
@@ -54402,6 +54414,10 @@
   "RichardNixon": {
     "title": "Richard Nixon",
     "url": "/wiki/entities/richardnixon/"
+  },
+  "RichardSchwartz": {
+    "title": "Richard Schwartz",
+    "url": "/wiki/entities/richardschwartz/"
   },
   "RichardSutton": {
     "title": "Richard Sutton",
@@ -76590,6 +76606,10 @@
   "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815": {
     "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
     "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+  },
+  "how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693": {
+    "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
+    "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
   },
   "how-to-beat-the-resource-curse-in-norway-summer-school": {
     "title": "How to beat the resource curse in Norway (Summer School)",

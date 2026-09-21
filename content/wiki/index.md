@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Achieve Inner Peace & Healing | Dr. Richard Schwartz](sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693.md) — Huberman Lab interview on Internal Family Systems, protective parts, Self-leadership, trauma, relationships, and clinical boundaries around severe distress and psychedelics.
 - [VOL.154春天痒到挠心？破局“过敏劫”的生存指南](sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur.md) — 这病说来话长 episode with 毛哲 on spring allergy, exposure control, testing limits, acute-medication safety, emergency escalation, and the evidence boundary around TCM self-care claims.
 - [545. The French Revolution: The First Feminist (Part 2)](sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757.md) — The Rest Is History episode on Marianne, Olympe de Gouges, women's revolutionary action, salon politics, suffrage, armed participation, and the gender boundary of republican citizenship.
 - [Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone](sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997.md) — Huberman Lab Essentials episode on thyroid-axis metabolism, nutrient sufficiency, growth-hormone release through sleep and exercise, heat and arginine claims, and intervention risk.
@@ -2666,6 +2667,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
 
 ## Entities
+- [Richard Schwartz](entities/RichardSchwartz.md) — Founder of Internal Family Systems presenting parts work, Self-leadership, experiential inquiry, and trauma-sensitive practice boundaries.
 - [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing spring allergy while retaining medication, emergency-care, and evidence-quality boundaries.
 - [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
 - [Olympe de Gouges](entities/OlympeDeGouges.md) — Revolutionary writer and abolitionist who applied universal rights language to women.
@@ -13132,6 +13134,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 
 ## Concepts
+- [Internal Family Systems Therapy](concepts/InternalFamilySystemsTherapy.md) — Psychotherapy and self-inquiry model treating the mind as interacting parts that can be approached through Self-led curiosity.
+- [IFS Parts Model](concepts/IFSPartsModel.md) — IFS taxonomy of vulnerable exiles, anticipatory managers, and reactive firefighters.
+- [IFS Self-Leadership](concepts/IFSSelfLeadership.md) — IFS stance of relating to inner states with calm, curiosity, compassion, clarity, courage, and reflective distance.
 - [Female Allegory and Political Exclusion](concepts/FemaleAllegoryPoliticalExclusion.md) — Mechanism through which a polity can embody liberty as a woman while denying women equal political power.
 - [Gendered Republican Citizenship](concepts/GenderedRepublicanCitizenship.md) — Allocation of public rights and armed duty to men while women are assigned domestic patriotic roles.
 - [Informal Female Political Influence](concepts/InformalFemalePoliticalInfluence.md) — Political agency through salons, households, persuasion, and networks outside formal citizenship.

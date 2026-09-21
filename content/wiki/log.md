@@ -21214,3 +21214,11 @@ Added source `vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhina
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | How to Achieve Inner Peace & Healing | Dr. Richard Schwartz
+
+Added source `how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693`; created `RichardSchwartz`, `InternalFamilySystemsTherapy`, `IFSPartsModel`, and `IFSSelfLeadership`; updated `CompassionateCuriosity`, `PsychedelicClinicalSupervisionBoundary`, and the index. Core synthesis: IFS treats inner multiplicity as ordinary, interprets exiles, managers, and firefighters by protective function, and uses Self-led curiosity to build a less adversarial relationship with difficult states. No settled contradiction was recorded; claims about the universality of parts, Self, legacy burdens, trauma causation, psychedelic access, and social unburdening remain source-scoped, while severe trauma, suicidality, addiction, and altered states retain professional-care boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
