@@ -1773,6 +1773,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "544-the-french-revolution-the-september-massacres-part-1-glt8301042051": [
     {
       "key": "history",
@@ -17526,6 +17533,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ColonialFrontierGovernanceFragility": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ColonialPowerMiscalculation": [
     {
       "key": "politics",
@@ -17828,6 +17842,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ComplicitWitnessScapegoatNarrative": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "CompoundingGrowthFormula": [

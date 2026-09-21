@@ -21238,3 +21238,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 543. Death in the Amazon: Aguirre, the Wrath of God
+
+Added source `543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248`; created `LopeDeAguirre`, `PedroDeUrsua`, `AguirreExpedition`, `ElDorado`, `ColonialFrontierGovernanceFragility`, and `ComplicitWitnessScapegoatNarrative`; updated `PhilipII`, `LoyalRebellion`, and the index. Core synthesis: a crown-authorized treasure expedition also exported dangerous military manpower, then logistical collapse and weak command enabled Aguirre to turn loyalist mutiny into explicit anti-royal rebellion. No settled contradiction found; exact dialogue, grotesque anecdotes, ethnic-faction claims, force totals, and judgments of Aguirre's sanity remain source-scoped because hostile or self-protective witnesses shaped the record. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

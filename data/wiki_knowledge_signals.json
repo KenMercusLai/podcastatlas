@@ -5649,6 +5649,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/agriculturalpracticeastextualentry/"
     },
+    "AguirreExpedition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/aguirreexpedition/"
+    },
     "AhnPanSeok": {
       "episode_count": 1,
       "show_count": 1,
@@ -23416,6 +23432,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/colonialcategoryafterlife/"
     },
+    "ColonialFrontierGovernanceFragility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/colonialfrontiergovernancefragility/"
+    },
     "ColonialLoyaltyRupture": {
       "episode_count": 1,
       "show_count": 1,
@@ -24144,6 +24176,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/complextraumarecognition/"
+    },
+    "ComplicitWitnessScapegoatNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/complicitwitnessscapegoatnarrative/"
     },
     "ComprehensiveConsumerDataPrivacy": {
       "episode_count": 4,
@@ -34781,6 +34829,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/eileenvandervelden/"
+    },
+    "ElDorado": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/eldorado/"
     },
     "ElanParadoxMachines": {
       "episode_count": 1,
@@ -76604,6 +76668,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/longzhongplan/"
     },
+    "LopeDeAguirre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/lopedeaguirre/"
+    },
     "LordOfTheFlies": {
       "episode_count": 1,
       "show_count": 1,
@@ -77066,9 +77146,9 @@
       "url": "/wiki/entities/lowes/"
     },
     "LoyalRebellion": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4209356543 [GLT4209356543].md",
@@ -77076,9 +77156,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/loyalrebellion/"
     },
     "LoyalRefusalLegitimacySignal": {
@@ -92964,6 +93051,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/pediatricmyopiacontrol/"
     },
+    "PedroDeUrsua": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/pedrodeursua/"
+    },
     "PeerGroupExperienceSelling": {
       "episode_count": 1,
       "show_count": 1,
@@ -94070,9 +94173,9 @@
       "url": "/wiki/entities/philiphamilton/"
     },
     "PhilipII": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -94108,9 +94211,16 @@
           "show": "The Rest Is History",
           "title": "680. The Netherlands: The Revolt that Made The Modern World (Part 4)",
           "url": "/wiki/sources/680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543/"
+        },
+        {
+          "episode_file": "GLT3694360248 [GLT3694360248].md",
+          "key": "543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248",
+          "show": "The Rest Is History",
+          "title": "543. Death in the Amazon: Aguirre, the Wrath of God",
+          "url": "/wiki/sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-22",
       "url": "/wiki/entities/philipii/"
     },
     "PhilipIVOfFrance": {

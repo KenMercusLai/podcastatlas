@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7819
+wiki_total_pages: 7822
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -176,6 +176,9 @@ wiki_pages:
   - key: "EgocentricRobotData"
     title: "Egocentric Robot Data"
     url: "/wiki/concepts/egocentricrobotdata/"
+  - key: "ElDorado"
+    title: "El Dorado"
+    url: "/wiki/concepts/eldorado/"
   - key: "ElNino"
     title: "El Nino"
     url: "/wiki/concepts/elnino/"

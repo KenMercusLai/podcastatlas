@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7819
+wiki_total_pages: 7822
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "ColonialCategoryAfterlife"
     title: "Colonial Category Afterlife / 殖民分类遗产"
     url: "/wiki/concepts/colonialcategoryafterlife/"
+  - key: "ColonialFrontierGovernanceFragility"
+    title: "Colonial Frontier Governance Fragility"
+    url: "/wiki/concepts/colonialfrontiergovernancefragility/"
   - key: "ColonialLoyaltyRupture"
     title: "Colonial Loyalty Rupture"
     url: "/wiki/concepts/colonialloyaltyrupture/"
@@ -1364,6 +1367,9 @@ wiki_pages:
   - key: "ComplianceAutomation"
     title: "Compliance Automation"
     url: "/wiki/concepts/complianceautomation/"
+  - key: "ComplicitWitnessScapegoatNarrative"
+    title: "Complicit-Witness Scapegoat Narrative"
+    url: "/wiki/concepts/complicitwitnessscapegoatnarrative/"
   - key: "CompoundStartup"
     title: "Compound Startup"
     url: "/wiki/concepts/compoundstartup/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10462
+wiki_total_pages: 10465
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -617,6 +617,9 @@ wiki_pages:
   - key: "Looped"
     title: "Looped"
     url: "/wiki/entities/looped/"
+  - key: "LopeDeAguirre"
+    title: "Lope de Aguirre"
+    url: "/wiki/entities/lopedeaguirre/"
   - key: "LordByron"
     title: "Lord Byron / 拜伦"
     url: "/wiki/entities/lordbyron/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [543. Death in the Amazon: Aguirre, the Wrath of God](sources/543-death-in-the-amazon-aguirre-the-wrath-of-god-glt3694360248.md) — The Rest Is History episode on the failed El Dorado expedition, Aguirre's mutiny and anti-royal rebellion, fragile colonial rule, and survivor incentives in his demonic reputation.
 - [Essentials: How to Control Hunger, Eating & Satiety](sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648.md) — Huberman Lab Essentials episode on brain-gut appetite regulation, learned ghrelin timing, nutrient-linked satiety, meal context, movement, and bounded intervention claims.
 - [How to Achieve Inner Peace & Healing | Dr. Richard Schwartz](sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693.md) — Huberman Lab interview on Internal Family Systems, protective parts, Self-leadership, trauma, relationships, and clinical boundaries around severe distress and psychedelics.
 - [VOL.154春天痒到挠心？破局“过敏劫”的生存指南](sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur.md) — 这病说来话长 episode with 毛哲 on spring allergy, exposure control, testing limits, acute-medication safety, emergency escalation, and the evidence boundary around TCM self-care claims.
@@ -2669,6 +2670,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
 
 ## Entities
+- [Lope de Aguirre](entities/LopeDeAguirre.md) — Violent conquistador who converted a failed Amazon expedition into rebellion against Philip II.
+- [Pedro de Ursúa](entities/PedroDeUrsua.md) — Crown-appointed El Dorado expedition commander murdered in the 1561 mutiny.
+- [Ursúa-Aguirre Expedition](entities/AguirreExpedition.md) — 1560-1561 Amazon conquest venture that became an anti-royal rebellion and collapsed in Venezuela.
 - [Richard Schwartz](entities/RichardSchwartz.md) — Founder of Internal Family Systems presenting parts work, Self-leadership, experiential inquiry, and trauma-sensitive practice boundaries.
 - [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing spring allergy while retaining medication, emergency-care, and evidence-quality boundaries.
 - [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
@@ -13140,6 +13144,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 
 ## Concepts
+- [El Dorado](concepts/ElDorado.md) — Golden-kingdom legend functioning as conquest incentive and colonial manpower-disposal mechanism in the Aguirre expedition.
+- [Colonial Frontier Governance Fragility](concepts/ColonialFrontierGovernanceFragility.md) — Instability produced when imperial authority cannot reliably govern armed colonial manpower and conquest expectations.
+- [Complicit-Witness Scapegoat Narrative](concepts/ComplicitWitnessScapegoatNarrative.md) — Source pattern in which implicated survivors concentrate collective violence in one monstrous leader.
 - [Appetite Hormone Regulation](concepts/AppetiteHormoneRegulation.md) — Brain-gut-endocrine framework joining hypothalamic circuits, learned meal timing, nutrient sensing, glucose state, and satiety signals.
 - [Internal Family Systems Therapy](concepts/InternalFamilySystemsTherapy.md) — Psychotherapy and self-inquiry model treating the mind as interacting parts that can be approached through Self-led curiosity.
 - [IFS Parts Model](concepts/IFSPartsModel.md) — IFS taxonomy of vulnerable exiles, anticipatory managers, and reactive firefighters.

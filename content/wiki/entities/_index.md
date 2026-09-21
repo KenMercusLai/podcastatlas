@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10462
+wiki_total_pages: 10465
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1517,6 +1517,9 @@ wiki_pages:
   - key: "AnarchyEnglishCivilWar"
     title: "The Anarchy"
     url: "/wiki/entities/anarchyenglishcivilwar/"
+  - key: "AguirreExpedition"
+    title: "Ursúa-Aguirre Expedition"
+    url: "/wiki/entities/aguirreexpedition/"
   - key: "AethelredTheUnready"
     title: "Æthelred the Unready"
     url: "/wiki/entities/aethelredtheunready/"
