@@ -4,6 +4,7 @@ type: entity
 tags: [person, medieval-history, denmark, england, monarchy]
 sources:
   - 549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985
+  - 548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286
 last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,7 @@ Sweyn Forkbeard appears in the wiki as the Danish ruler who turned North Sea riv
 
 The episode presents Sweyn as [[HaraldBluetooth|Harald Bluetooth]]'s son, his father's overthrower, and a calculated monarch rather than a free-standing raider. After eliminating [[OlafTryggvason|Olaf Tryggvason]] as a rival in 1000, he could mobilize Danish institutional and military capacity against [[AethelredTheUnready|Æthelred]].
 
-Æthelred's massacre of Danes supplied the immediate revenge frame. Sweyn repeatedly attacked and extracted tribute before launching a full invasion in 1013; northern and Mercian submission then transformed expedition into conquest. His sudden death in February 1014 temporarily returned Æthelred to power but left [[CnutTheGreat|Cnut]] a claim, network, and model for renewed invasion.
+The opening episode establishes the provocation in detail. Æthelred's [[StBricesDayMassacre|St Brice's Day massacre]] used biblical judgment language against Danes in England; later tradition made Gunnhilde, alleged to be Sweyn's sister, one of its victims. The later episode turns that revenge frame into a campaign sequence: Sweyn repeatedly attacked and extracted tribute before launching a full invasion in 1013; northern and Mercian submission then transformed expedition into conquest. His sudden death in February 1014 temporarily returned Æthelred to power but left [[CnutTheGreat|Cnut]] a claim, network, and model for renewed invasion.
 
 ## Key Characteristics
 
@@ -29,17 +30,18 @@ The episode presents Sweyn as [[HaraldBluetooth|Harald Bluetooth]]'s son, his fa
 
 ## Evidence
 
+- Provocation and revenge frame - [[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286]] ends with the massacre, the uncertain Gunnhilde tradition, and the prospect of Sweyn's retaliation.
 - Scandinavian ascendancy - [[549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985]] links Sweyn's rise to Harald Bluetooth's kingdom and Olaf Tryggvason's defeat.
 - English campaigns - [[549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985]] follows the revenge invasion, attacks on Wessex, Danegeld returns, and 1013 submissions.
 - Dynastic continuation - [[549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985]] treats Sweyn's death as a reversal that Cnut later overcomes.
 
 ## Qualifications
 
-The Gunnhilde revenge story, Thietmar's hostile label, precise campaign motives, and competing accounts of Sweyn's death remain source-scoped. The episode's state-building interpretation should not turn every raid into a centrally planned national strategy.
+The Gunnhilde revenge story, the massacre's exact reach, Thietmar's hostile label, precise campaign motives, and competing accounts of Sweyn's death remain source-scoped. The episodes' state-building interpretation should not turn every raid into a centrally planned national strategy or reduce the conquest to personal revenge.
 
 ## What Changed
 
-- Established a first profile of Sweyn as state-backed conqueror and precursor to Cnut's English monarchy.
+- Added the massacre's biblical-political framing while preserving uncertainty around Gunnhilde and Sweyn's personal revenge motive.
 
 ## Relationships
 
@@ -49,3 +51,4 @@ The Gunnhilde revenge story, Thietmar's hostile label, precise campaign motives,
 - [[CnutTheGreat]] - son who completes and institutionalizes the conquest.
 - [[DanegeldEscalation]] - fiscal-military cycle Sweyn exploits.
 - [[DanishConquestOfEngland]] - regime-change process he begins in 1013.
+- [[StBricesDayMassacre]] - English royal violence later used to frame his retaliation.

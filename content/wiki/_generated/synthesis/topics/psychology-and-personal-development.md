@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-21
-as_of_overview_commit: 1d160f9cc7e2388bd4e4929c5f7f11c62b4351ea
-input_digest: e3c3ca6fc3568c158c5778d4b204be64f6958bcd7ceafa255b036988d2c27bee
+last_updated: 2026-09-22
+as_of_overview_commit: 322ce7d6a2c0a936e9d1a3fb566bbf5e389f6a1a
+input_digest: b76b5e8965c22642ef4489b4a5fad1933e5d31b1857763a41da4e49466d9cebb
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription. The smell-and-taste Essentials episode adds a narrow state-regulation boundary: breathing phase and odor cues may affect arousal or attention, but stronger activation is not automatically safer or more effective, and human pheromone interpretations remain unsettled. Hanji 1114 adds a bounded judgment case: conspicuous austerity may become strategic performance, so self-presentation should not substitute for evidence about integrity, capability, motive, or role fit.
+The Anglo-Saxon Apocalypse source enters this topic only as a bounded historical judgment case: a policy can be rational against an immediate mobile threat yet become damaging through repetition, legitimacy loss, religious framing, and retaliation, while claims about Æthelred’s millennial psychology remain source-scoped. Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription. The smell-and-taste Essentials episode adds a narrow state-regulation boundary: breathing phase and odor cues may affect arousal or attention, but stronger activation is not automatically safer or more effective, and human pheromone interpretations remain unsettled. Hanji 1114 adds a bounded judgment case: conspicuous austerity may become strategic performance, so self-presentation should not substitute for evidence about integrity, capability, motive, or role fit.
 
 ## Cross-source Findings
 
@@ -1069,3 +1069,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - This is a historical personnel-selection analogy, not a general psychological assessment tool or modern hiring rule.
 - Plain conduct can reflect sincere frugality, imitation, fear, norm internalization, or career calculation; the source does not measure their relative weight.
 - Exact dialogue and individual motives remain source-scoped.
+
+### Immediate Rationality Does Not Settle Long Run Political Judgment
+
+[[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286|Anglo-Saxon Apocalypse]] enters psychology and personal development only as a historical judgment boundary: [[AethelredTheUnready|Æthelred’s]] payments to mobile raiders may have been rational in the immediate crisis, but [[DanegeldEscalation]] and the [[StBricesDayMassacre|St Brice’s Day massacre]] show why short-run logic does not by itself establish sound long-run judgment.
+
+**Evidence:** [[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286]], [[AethelredTheUnready]], [[DanegeldEscalation]], [[StBricesDayMassacre]]
+
+**Qualifications:**
+
+- This is historical political judgment, not clinical or general personal-development evidence.
+- The source does not establish Æthelred’s inner psychology, and its apocalyptic interpretation remains source-scoped.
+- Later strategic failure does not prove that every tribute payment was irrational when made.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7792
+wiki_total_pages: 7795
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1373,6 +1373,9 @@ wiki_pages:
   - key: "SRORegulatoryErasure"
     title: "SRO Regulatory Erasure"
     url: "/wiki/concepts/sroregulatoryerasure/"
+  - key: "StBricesDayMassacre"
+    title: "St Brice's Day Massacre"
+    url: "/wiki/concepts/stbricesdaymassacre/"
   - key: "StablecoinSanctionsEvasion"
     title: "Stablecoin Sanctions Evasion"
     url: "/wiki/concepts/stablecoinsanctionsevasion/"

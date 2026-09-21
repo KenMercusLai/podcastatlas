@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)](sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286.md) — The Rest Is History episode on Anglo-Saxon state formation, Norman hybrid identity, Æthelred's strategic dilemmas, Danegeld, and the St Brice's Day massacre.
 - [How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting | Stuart McMillan](sources/how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan-scim1307532744.md) — Huberman Lab interview on speed-dependent gait, skipping as a plyometric bridge, eccentric sprint capacity, individualized coaching, and the qualified maximal-speed vitality hypothesis.
 - [VOL.156爱肝护肝第一步你就走错了 沉默的“人体化工厂”自救指南](sources/vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb.md) — 这病说来话长 episode on silent liver injury, fatty-liver cause review, medicine and herbal-product risk, alcohol harm, lifestyle change, and clinician-guided treatment.
 - [549. The Road to 1066: Revenge of the Vikings (Part 2)](sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985.md) — The Rest Is History episode on Scandinavian Christian kingship, Sweyn's 1013 conquest, the Danegeld cycle, and Cnut's 1016 victory and consolidation.
@@ -2656,6 +2657,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman](sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849.md) — Huberman Lab interview on oral microbial ecology, saliva, tooth mineral balance, airway development, periodontal-systemic evidence, and fluoride risk-benefit questions.
 
 ## Entities
+- [Alfred the Great](entities/AlfredTheGreat.md) — West Saxon ruler whose defense, fortified towns, trade policy, and political identity underpin later English unification.
+- [Athelstan](entities/Athelstan.md) — West Saxon king presented as completing the political unification of England.
+- [Edgar the Peaceful](entities/EdgarThePeaceful.md) — English king whose sacred ceremony and punitive enforcement reveal the coercive basis of royal peace.
+- [Rollo](entities/Rollo.md) — Viking warlord and baptized lower-Seine ruler whose settlement begins Normandy's hybrid political tradition.
 - [Stuart McMillan](entities/StuartMcMillan.md) — Sprint coach presenting speed-dependent gait, progressive plyometrics, eccentric capacity, and athlete-specific movement solutions.
 - [Cnut the Great](entities/CnutTheGreat.md) — Danish conqueror who turns the 1016 victory into stable English Christian kingship.
 - [Sweyn Forkbeard](entities/SweynForkbeard.md) — Danish ruler whose 1013 campaign first displaces Æthelred from England.
@@ -13101,6 +13106,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development of English defense, towns, church, coinage, political unity, and coercive royal capacity.
+- [Norman Hybrid Identity](concepts/NormanHybridIdentity.md) — Evolving synthesis of Scandinavian ancestry with Frankish, Christian, linguistic, and monastic adaptation in Normandy.
+- [St Brice's Day Massacre](concepts/StBricesDayMassacre.md) — Æthelred's 1002 anti-Danish massacre as security policy, apocalyptic judgment, centralized violence, and retaliatory risk.
 - [Velocity-Determined Running Mechanics](concepts/VelocityDeterminedRunningMechanics.md) — Principle that gait mechanics change with speed and individual structure rather than following one universal foot-strike model.
 - [Skipping Plyometric Progression](concepts/SkippingPlyometricProgression.md) — Quality-governed use of skipping as a bridge toward striding and sprinting demands.
 - [Eccentric Sprint Capacity](concepts/EccentricSprintCapacity.md) — Ability to accept, brake, redirect, and transmit high forces while preserving sprint movement quality.

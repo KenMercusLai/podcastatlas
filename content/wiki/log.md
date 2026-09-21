@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-22] ingest | 548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)
+
+Added source `548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286`; created `AlfredTheGreat`, `Athelstan`, `EdgarThePeaceful`, `Rollo`, `AngloSaxonStateFormation`, `NormanHybridIdentity`, and `StBricesDayMassacre`; and updated `AethelredTheUnready`, `OlafTryggvason`, `SweynForkbeard`, `DanegeldEscalation`, `NormanConquestOfEngland`, overview, and index. Core synthesis: England's wealth, unity, coinage, towns, church, and coercive reach emerged through cumulative state formation and made the kingdom both resilient and attractive, while Viking-founded Normandy developed a hybrid Christian-Frankish identity that shaped English security before 1066. Æthelred's payments and diplomacy could be rational short-term responses, but repeated tribute and the St Brice's Day massacre converted state capacity into escalating strategic and legitimacy risks. No settled contradiction found; Edgar's ceremony and punitive expedition, Edward's murder, Rollo's legends, millennial psychology, the massacre's reach, Oxford victim identities, Gunnhilde, and broad global-consequence claims remain source-scoped.
+
 ## [2026-09-21] ingest | How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman
 
 Added source `how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849`; created `StaciWhitman`, `OralMicrobiomePreventiveCare`, `ToothDemineralizationRemineralization`, `OralAirwayDevelopment`, `PeriodontalSystemicHealthBoundary`, and `FluorideRiskBenefitBoundary`; and updated the index. Core synthesis: durable oral prevention combines mechanical biofilm disruption, saliva support, less frequent acid exposure, gentle product use, and airway-aware assessment, while systemic-disease associations, microbiome tests, fluoride policy, and emerging procedures require explicit evidence and clinical boundaries. No settled contradiction found; the source's Staci/Stacey spelling mismatch is normalized to the title, and numerical risks, mouth-taping, fluoride, ozone, oil pulling, probiotics, testing, red light, peptides, exosomes, dental materials, and tongue-tie claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21139,6 +21143,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting | Stuart McMillan
 
 Added source `how-to-increase-your-speed-mobility-longevity-with-plyometrics-sprinting-stuart-mcmillan-scim1307532744`; created `StuartMcMillan`, `VelocityDeterminedRunningMechanics`, `SkippingPlyometricProgression`, `EccentricSprintCapacity`, `IndividualizedMovementCoaching`, and `MaximalSpeedVitalityHypothesis`; and updated the index. Core synthesis: faster gait requires distinct mechanics and eccentric force acceptance, while skipping can provide a quality-governed bridge toward striding and sprinting and coaching should adapt stable principles to the athlete's structure and expression. No settled contradiction found; the elite eccentric-force comparison, present-day doping assessment, genetic and cultural claims, and maximal-speed health proxy remain source-scoped, with sprint and plyometric safety kept individualized. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-22] lint | Wiki health check
 

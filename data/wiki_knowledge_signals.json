@@ -5148,9 +5148,9 @@
       "url": "/wiki/entities/aesopbeauty/"
     },
     "AethelredTheUnready": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -5158,6 +5158,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
         }
       ],
       "updated": "2026-09-22",
@@ -6221,6 +6228,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/alexandriaocasiocortez/"
+    },
+    "AlfredTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/alfredthegreat/"
     },
     "AlgorithmicRomanticCompatibility": {
       "episode_count": 1,
@@ -7714,6 +7737,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
+    },
+    "AngloSaxonStateFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/anglosaxonstateformation/"
     },
     "AnimalAbuseViolenceLink": {
       "episode_count": 4,
@@ -9523,6 +9562,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/atang/"
+    },
+    "Athelstan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/athelstan/"
     },
     "Athena": {
       "episode_count": 1,
@@ -27396,9 +27451,9 @@
       "url": "/wiki/entities/danpashman/"
     },
     "DanegeldEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -27406,6 +27461,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
         }
       ],
       "updated": "2026-09-22",
@@ -34202,6 +34264,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/edgarcayce/"
+    },
+    "EdgarThePeaceful": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/edgarthepeaceful/"
     },
     "EdithCavell": {
       "episode_count": 1,
@@ -87462,9 +87540,9 @@
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NormanConquestOfEngland": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -87507,6 +87585,13 @@
           "show": "The Rest Is History",
           "title": "550. The Road to 1066: Rise of the Normans (Part 3)",
           "url": "/wiki/sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693/"
+        },
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
         }
       ],
       "updated": "2026-09-21",
@@ -87527,6 +87612,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/normanelitereplacement/"
+    },
+    "NormanHybridIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/normanhybrididentity/"
     },
     "NorthAmericanBlueEnergyPartners": {
       "episode_count": 1,
@@ -88846,9 +88947,9 @@
       "url": "/wiki/entities/olafiiofnorway/"
     },
     "OlafTryggvason": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -88856,6 +88957,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
         }
       ],
       "updated": "2026-09-22",
@@ -103625,6 +103733,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/roleattachmentpowerexit/"
     },
+    "Rollo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/rollo/"
+    },
     "RomanAlliedCitizenshipCrisis": {
       "episode_count": 1,
       "show_count": 1,
@@ -112646,6 +112770,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/sspai/"
     },
+    "StBricesDayMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/stbricesdaymassacre/"
+    },
     "StaciWhitman": {
       "episode_count": 1,
       "show_count": 1,
@@ -116287,9 +116427,9 @@
       "url": "/wiki/concepts/sweeteneruncertainty/"
     },
     "SweynForkbeard": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2312975985 [GLT2312975985].md",
@@ -116297,6 +116437,13 @@
           "show": "The Rest Is History",
           "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
           "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
+        },
+        {
+          "episode_file": "GLT9632339286 [GLT9632339286].md",
+          "key": "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+          "show": "The Rest Is History",
+          "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+          "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
         }
       ],
       "updated": "2026-09-22",

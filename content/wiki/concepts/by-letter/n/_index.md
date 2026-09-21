@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7792
+wiki_total_pages: 7795
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -380,6 +380,9 @@ wiki_pages:
   - key: "NormanEliteReplacement"
     title: "Norman Elite Replacement"
     url: "/wiki/concepts/normanelitereplacement/"
+  - key: "NormanHybridIdentity"
+    title: "Norman Hybrid Identity"
+    url: "/wiki/concepts/normanhybrididentity/"
   - key: "NorseMythology"
     title: "Norse Mythology / 北欧神话"
     url: "/wiki/concepts/norsemythology/"

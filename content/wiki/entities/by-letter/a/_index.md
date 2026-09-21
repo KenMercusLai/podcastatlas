@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10436
+wiki_total_pages: 10440
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "AlfredMathewson"
     title: "Alfred Mathewson"
     url: "/wiki/entities/alfredmathewson/"
+  - key: "AlfredTheGreat"
+    title: "Alfred the Great"
+    url: "/wiki/entities/alfredthegreat/"
   - key: "AlfredLinTongyu"
     title: "Alfred 林童雨"
     url: "/wiki/entities/alfredlintongyu/"
@@ -1349,6 +1352,9 @@ wiki_pages:
   - key: "ATT"
     title: "AT&T"
     url: "/wiki/entities/att/"
+  - key: "Athelstan"
+    title: "Athelstan"
+    url: "/wiki/entities/athelstan/"
   - key: "Athena"
     title: "Athena"
     url: "/wiki/entities/athena/"

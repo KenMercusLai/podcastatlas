@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
       "0cc621ad89b47d2c086bf51790edb215a305794961b26e7876b6aaf57d3b6fa5",
       "fd67bb8d20ab0e503043ecac624078b46f6e8817fbb2c246cfebec2ebff8caee",
       "65dd19a13330f20424577e002104e00244988ce63647e5c3eb7fd1be4fa7895f",
@@ -695,11 +696,38 @@
       "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276",
       "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6"
     ],
-    "paragraph_count": 693
+    "paragraph_count": 694
   },
-  "overview_commit": "e70915e49f1fda448b938f035472e94deced3898",
-  "overview_digest": "94467cf19c40cdf5171265d4ea371edd11ab2bab091a45ea86a584d770374bf9",
+  "overview_commit": "322ce7d6a2c0a936e9d1a3fb566bbf5e389f6a1a",
+  "overview_digest": "45926ea7641740ef6b978820da05e2f1c0c755be021972e0f38ecd8d9810b065",
   "paragraphs": [
+    {
+      "id": "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "[[548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286|Anglo-Saxon Apocalypse]] extends the road to 1066 backward into two interacting state-formation stories. [[AlfredTheGreat]], [[Athelstan]], and [[EdgarThePeaceful]] connect defense, fortified towns, trade, church organization, coinage, political identity, sacred kingship, and coercive enforcement to [[AngloSaxonStateFormation|England's unusual wealth and administrative reach]], while [[Rollo]] and [[NormanHybridIdentity]] show Scandinavian settlers becoming a nearby Christian-Frankish principality without immediately losing Viking ties. Under [[AethelredTheUnready|Æthelred]], that English capacity made large payments, overseas action, baptismal diplomacy with [[OlafTryggvason]], and marriage to [[EmmaOfNormandy]] possible, but also made recurring [[DanegeldEscalation|Danegeld]] and the coordinated [[StBricesDayMassacre|St Brice's Day massacre]] possible. The episode therefore qualifies payment as a potentially rational short-term response to mobile raiders while treating repetition, biblical purge language, and retaliation by [[SweynForkbeard]] as pathways from administrative strength to strategic and legitimacy failure; the massacre's reach, Oxford victims, Gunnhilde tradition, millennial psychology, and broad global consequences remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 3,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286",
+        "AethelredTheUnready",
+        "AlfredTheGreat",
+        "AngloSaxonStateFormation",
+        "Athelstan",
+        "DanegeldEscalation",
+        "EdgarThePeaceful",
+        "EmmaOfNormandy",
+        "NormanHybridIdentity",
+        "OlafTryggvason",
+        "Rollo",
+        "StBricesDayMassacre",
+        "SweynForkbeard"
+      ]
+    },
     {
       "id": "0cc621ad89b47d2c086bf51790edb215a305794961b26e7876b6aaf57d3b6fa5",
       "primary_topic": "science-health-and-climate",

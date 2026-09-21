@@ -1167,6 +1167,10 @@
     "title": "54.玫瑰的名字（下）：真与假，正与邪，诠释与过度诠释",
     "url": "/wiki/sources/54-meigui-de-mingzi-xia-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-638214699/"
   },
+  "548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286": {
+    "title": "548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)",
+    "url": "/wiki/sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286/"
+  },
   "549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985": {
     "title": "549. The Road to 1066: Revenge of the Vikings (Part 2)",
     "url": "/wiki/sources/549-the-road-to-1066-revenge-of-the-vikings-part-2-glt2312975985/"
@@ -4747,6 +4751,10 @@
     "title": "Alfred Mathewson",
     "url": "/wiki/entities/alfredmathewson/"
   },
+  "AlfredTheGreat": {
+    "title": "Alfred the Great",
+    "url": "/wiki/entities/alfredthegreat/"
+  },
   "Algeria": {
     "title": "Algeria",
     "url": "/wiki/entities/algeria/"
@@ -5658,6 +5666,10 @@
   "AngloNormanSuccessionLegitimacy": {
     "title": "Anglo-Norman Succession Legitimacy",
     "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
+  },
+  "AngloSaxonStateFormation": {
+    "title": "Anglo-Saxon State Formation",
+    "url": "/wiki/concepts/anglosaxonstateformation/"
   },
   "Anhui": {
     "title": "安徽 / Anhui",
@@ -6686,6 +6698,10 @@
   "Atang": {
     "title": "阿汤 / A Tang",
     "url": "/wiki/entities/atang/"
+  },
+  "Athelstan": {
+    "title": "Athelstan",
+    "url": "/wiki/entities/athelstan/"
   },
   "Athena": {
     "title": "Athena",
@@ -19874,6 +19890,10 @@
   "EdgarCayce": {
     "title": "Edgar Cayce",
     "url": "/wiki/entities/edgarcayce/"
+  },
+  "EdgarThePeaceful": {
+    "title": "Edgar the Peaceful",
+    "url": "/wiki/entities/edgarthepeaceful/"
   },
   "EdgeCloudAIBoundary": {
     "title": "Edge-Cloud AI Boundary",
@@ -45923,6 +45943,10 @@
     "title": "Norman Elite Replacement",
     "url": "/wiki/concepts/normanelitereplacement/"
   },
+  "NormanHybridIdentity": {
+    "title": "Norman Hybrid Identity",
+    "url": "/wiki/concepts/normanhybrididentity/"
+  },
   "NorseMythology": {
     "title": "Norse Mythology / 北欧神话",
     "url": "/wiki/concepts/norsemythology/"
@@ -54883,6 +54907,10 @@
     "title": "Rolling Holding-Period Experience / 滚动持有期体验",
     "url": "/wiki/concepts/rollingholdingperiodexperience/"
   },
+  "Rollo": {
+    "title": "Rollo",
+    "url": "/wiki/entities/rollo/"
+  },
   "RollsRoyce": {
     "title": "Rolls-Royce",
     "url": "/wiki/entities/rollsroyce/"
@@ -59694,6 +59722,10 @@
   "StBartholomewsDayMassacre": {
     "title": "St Bartholomew's Day Massacre",
     "url": "/wiki/entities/stbartholomewsdaymassacre/"
+  },
+  "StBricesDayMassacre": {
+    "title": "St Brice's Day Massacre",
+    "url": "/wiki/concepts/stbricesdaymassacre/"
   },
   "StGeorgesSchool": {
     "title": "St. George's School / 圣乔治学校",
