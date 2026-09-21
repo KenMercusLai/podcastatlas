@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10444
+wiki_total_pages: 10448
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "MonsterBeverage"
     title: "Monster Beverage"
     url: "/wiki/entities/monsterbeverage/"
+  - key: "Montagnards"
+    title: "Montagnards / The Mountain"
+    url: "/wiki/entities/montagnards/"
   - key: "Montana"
     title: "Montana"
     url: "/wiki/entities/montana/"

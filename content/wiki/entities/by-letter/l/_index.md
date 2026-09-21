@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10444
+wiki_total_pages: 10448
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "LouHuWesternHan"
     title: "Lou Hu (Western Han) / 楼护"
     url: "/wiki/entities/louhuwesternhan/"
+  - key: "LouisAntoineSaintJust"
+    title: "Louis Antoine de Saint-Just"
+    url: "/wiki/entities/louisantoinesaintjust/"
   - key: "LouisHong"
     title: "Louis Hong / 洪力德"
     url: "/wiki/entities/louishong/"

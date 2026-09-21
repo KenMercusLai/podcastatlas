@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [546. The French Revolution: The Monarchy Falls (Part 3)](sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370.md) — The Rest Is History episode on abolition, Valmy, Convention factional conflict, ideological war, and the opening case against Louis XVI.
 - [547. The French Revolution: The Execution of the King (Part 4)](sources/547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954.md) — The Rest Is History episode on Louis XVI's trial and execution, ritual de-royalization, republican founding violence, mercy disputes, and rival martyr memories.
 - [VOL.155每夜窒息51秒！医生讲述年轻女患者的重生故事](sources/vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv.md) — 这病说来话长 episode on obstructive sleep apnea recognition, polysomnography, treatment choice, and home positive-airway-pressure adherence.
 - [548. The Road to 1066: Anglo-Saxon Apocalypse (Part 1)](sources/548-the-road-to-1066-anglo-saxon-apocalypse-part-1-glt9632339286.md) — The Rest Is History episode on Anglo-Saxon state formation, Norman hybrid identity, Æthelred's strategic dilemmas, Danegeld, and the St Brice's Day massacre.
@@ -2662,6 +2663,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse](sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463.md) — Huberman Lab interview on ADHD diagnosis, attention control, external structure, circadian timing, CBT, and individualized medication risk-benefit selection.
 
 ## Entities
+- [Battle of Valmy](entities/BattleOfValmy.md) — Limited 1792 battlefield success whose political effect made French survival a republican triumph.
+- [Charles François Dumouriez](entities/CharlesFrancoisDumouriez.md) — French general whose Valmy position and Belgian victories connected defence to revolutionary expansion.
+- [Louis Antoine de Saint-Just](entities/LouisAntoineSaintJust.md) — Montagnard deputy who argued that kingship itself made Louis XVI incompatible with the Republic.
+- [Montagnards / The Mountain](entities/Montagnards.md) — Paris-centered radical camp opposed to the Girondins in the National Convention.
 - [Louis XVI](entities/LouisXVI.md) — Deposed Bourbon king whose trial, de-royalization, execution, and contested afterlife became a test of republican legitimacy.
 - [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
@@ -13115,6 +13120,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [John Kruse](entities/JohnKruse.md) — Psychiatrist and ADHD specialist integrating developmental diagnosis, attention control, behavioral structure, circadian timing, and individualized treatment selection.
 
 ## Concepts
+- [Republican Founding Without Settlement](concepts/RepublicanFoundingWithoutSettlement.md) — Regime transition in which abolition precedes settled institutions, mandate, and founding legitimacy.
+- [Revolutionary Factional Outflanking](concepts/RevolutionaryFactionalOutflanking.md) — Dynamic that recodes moderation or yesterday's radicalism as reaction and betrayal.
+- [Revolutionary Ideological War](concepts/RevolutionaryIdeologicalWar.md) — Armed conflict that claims authority to export political and social transformation.
 - [De-Royalization Ritual](concepts/DeRoyalizationRitual.md) — Public removal of monarchical exception through names, etiquette, criminal procedure, execution, space, and burial.
 - [Regicide as Republican Founding](concepts/RegicideAsRepublicanFounding.md) — Interpretation of a deposed monarch's execution as the irreversible act through which a republic asserts sovereignty.
 - [Revolutionary Justice-Mercy Conflict](concepts/RevolutionaryJusticeMercyConflict.md) — Legitimacy struggle over punishment, appeal, reprieve, and compassion when a defeated ruler remains a political symbol.

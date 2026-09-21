@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7805
+wiki_total_pages: 7808
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "RepublicanForeignPolicyAdaptation"
     title: "Republican Foreign Policy Adaptation"
     url: "/wiki/concepts/republicanforeignpolicyadaptation/"
+  - key: "RepublicanFoundingWithoutSettlement"
+    title: "Republican Founding Without Settlement"
+    url: "/wiki/concepts/republicanfoundingwithoutsettlement/"
   - key: "RepublicanMemoryAgainstDictatorship"
     title: "Republican Memory Against Dictatorship / 反独裁的共和记忆"
     url: "/wiki/concepts/republicanmemoryagainstdictatorship/"
@@ -686,6 +689,12 @@ wiki_pages:
   - key: "RevolutionaryEconomicSelfReliance"
     title: "Revolutionary Economic Self-Reliance"
     url: "/wiki/concepts/revolutionaryeconomicselfreliance/"
+  - key: "RevolutionaryFactionalOutflanking"
+    title: "Revolutionary Factional Outflanking"
+    url: "/wiki/concepts/revolutionaryfactionaloutflanking/"
+  - key: "RevolutionaryIdeologicalWar"
+    title: "Revolutionary Ideological War"
+    url: "/wiki/concepts/revolutionaryideologicalwar/"
   - key: "RevolutionaryJusticeMercyConflict"
     title: "Revolutionary Justice-Mercy Conflict"
     url: "/wiki/concepts/revolutionaryjusticemercyconflict/"
