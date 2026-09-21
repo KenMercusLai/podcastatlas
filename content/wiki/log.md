@@ -20742,3 +20742,10 @@ Added source `essentials-how-smell-taste-pheromones-shape-behavior-scim385350282
 ## [2026-09-21] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-21] ingest | 561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)
+
+Added source `561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194`; created `SeiShonagon`, `MurasakiShikibu`, `ThePillowBook`, `TheTaleOfGenji`, `EmpressTeishi`, `EmpressShoshi`, `FujiwaraNoMichinaga`, `HeianCourtlyPerformance`, `FujiwaraMarriagePolitics`, and `HeianLiteraryImpermanence`; and updated index. Core synthesis: Heian poetry, calligraphy, dress, scent, romance, literary patronage, imperial marriage, and succession formed one court system, while both major works preserve beauty under the pressure of political loss, aging, and Buddhist impermanence. No settled contradiction found; rivalry psychology, manuscript origins, renunciation, political motives, chronology, and theological generalizations remain source-scoped.
+
+## [2026-09-21] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

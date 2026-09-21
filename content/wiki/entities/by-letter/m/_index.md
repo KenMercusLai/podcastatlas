@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10359
+wiki_total_pages: 10366
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1298,6 +1298,9 @@ wiki_pages:
   - key: "MultiCard"
     title: "MultiCard"
     url: "/wiki/entities/multicard/"
+  - key: "MurasakiShikibu"
+    title: "Murasaki Shikibu"
+    url: "/wiki/entities/murasakishikibu/"
   - key: "Mureka"
     title: "Mureka"
     url: "/wiki/entities/mureka/"

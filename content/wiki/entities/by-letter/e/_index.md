@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10359
+wiki_total_pages: 10366
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -293,9 +293,15 @@ wiki_pages:
   - key: "EmpressMatilda"
     title: "Empress Matilda"
     url: "/wiki/entities/empressmatilda/"
+  - key: "EmpressShoshi"
+    title: "Empress Shoshi"
+    url: "/wiki/entities/empressshoshi/"
   - key: "EmpressSisi"
     title: "Empress Sisi"
     url: "/wiki/entities/empresssisi/"
+  - key: "EmpressTeishi"
+    title: "Empress Teishi"
+    url: "/wiki/entities/empressteishi/"
   - key: "EmpressXiaomuXin"
     title: "Empress Xiaomu of Xin / 孝睦皇后"
     url: "/wiki/entities/empressxiaomuxin/"

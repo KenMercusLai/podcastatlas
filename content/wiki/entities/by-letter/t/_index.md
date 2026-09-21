@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10359
+wiki_total_pages: 10366
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "ThePhoenixRecovery"
     title: "The Phoenix"
     url: "/wiki/entities/thephoenixrecovery/"
+  - key: "ThePillowBook"
+    title: "The Pillow Book"
+    url: "/wiki/entities/thepillowbook/"
   - key: "ThePlainDealer"
     title: "The Plain Dealer"
     url: "/wiki/entities/theplaindealer/"
@@ -449,6 +452,9 @@ wiki_pages:
   - key: "TheSocialRadars"
     title: "The Social Radars"
     url: "/wiki/entities/thesocialradars/"
+  - key: "TheTaleOfGenji"
+    title: "The Tale of Genji"
+    url: "/wiki/entities/thetaleofgenji/"
   - key: "TheTaleOfTheHeike"
     title: "The Tale of the Heike"
     url: "/wiki/entities/thetaleoftheheike/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2595
+topic_total_pages: 2597
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1417,6 +1417,9 @@ topic_concepts:
   - key: "FugitiveTemporality"
     title: "Fugitive Temporality"
     url: "/wiki/concepts/fugitivetemporality/"
+  - key: "FujiwaraMarriagePolitics"
+    title: "Fujiwara Marriage Politics"
+    url: "/wiki/concepts/fujiwaramarriagepolitics/"
   - key: "FullFunnelCivicTechnology"
     title: "Full-Funnel Civic Technology"
     url: "/wiki/concepts/fullfunnelcivictechnology/"
@@ -4928,6 +4931,9 @@ topic_entities:
   - key: "FriedrichMerz"
     title: "Friedrich Merz"
     url: "/wiki/entities/friedrichmerz/"
+  - key: "FujiwaraNoMichinaga"
+    title: "Fujiwara no Michinaga"
+    url: "/wiki/entities/fujiwaranomichinaga/"
   - key: "FutureOfLifeInstitute"
     title: "Future of Life Institute"
     url: "/wiki/entities/futureoflifeinstitute/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10359
+wiki_total_pages: 10366
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "Segment"
     title: "Segment"
     url: "/wiki/entities/segment/"
+  - key: "SeiShonagon"
+    title: "Sei Shonagon"
+    url: "/wiki/entities/seishonagon/"
   - key: "Seiko"
     title: "Seiko"
     url: "/wiki/entities/seiko/"

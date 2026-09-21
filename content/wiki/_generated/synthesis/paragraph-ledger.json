@@ -674,12 +674,13 @@
       "7bf9209f512d940138b95867fd9f7733a6ac8ac6233cd470744b92dd1b6b56ce",
       "aae77a229da98888d63f9d41142d5b1dedb2975dc51cdc1140d730bfb8e365c2",
       "865069f3a3017d1669bdcce326b5528c5335e05b6679baf6e82771aba81fb9b5",
-      "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d"
+      "1928d7f5fcde65bbdffa2d697b29d16024eb0b43d5ae9a08de0db2c4b68aaa8d",
+      "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16"
     ],
-    "paragraph_count": 674
+    "paragraph_count": 675
   },
-  "overview_commit": "3a61c937b219f5be665631dda8501fa0b4d020f3",
-  "overview_digest": "5d365cd5429fd598e777f23c5191851db55f04d67a87c1cbdc20cd81aa4f9f01",
+  "overview_commit": "bbbdd99b78afb62977c00a7771f68b9a95171507",
+  "overview_digest": "95df18323fc51d3bf85731994f85266f712a13e0b2d91b4261dced2adea0229f",
   "paragraphs": [
     {
       "id": "68b5e1699bd242d9783787ae24a0470adb1a3e09d8f60dd1a1497d5ad68d8057",
@@ -20304,6 +20305,32 @@
         "OlfactoryTraining",
         "TasteNutrientHazardDetection",
         "essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826"
+      ]
+    },
+    {
+      "id": "b5f91570342c9603f7b6809bad8616b4034c66eaed9f1fa73f98f2b333145a16",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194|561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)]], a [[TheRestIsHistory]] episode using [[ThePillowBook]] and [[TheTaleOfGenji]] to reconstruct elite Heian court life. It adds [[SeiShonagon]], [[MurasakiShikibu]], [[ThePillowBook]], [[TheTaleOfGenji]], [[EmpressTeishi]], [[EmpressShoshi]], [[FujiwaraNoMichinaga]], [[HeianCourtlyPerformance]], [[FujiwaraMarriagePolitics]], and [[HeianLiteraryImpermanence]]. Its core synthesis is that poetry, calligraphy, dress, scent, courtship, literary patronage, imperial marriage, childbirth, and succession formed one court system: aesthetic mastery could create status and political prestige, while the same world remained narrow, physically uncomfortable, factionally fragile, and shadowed by Buddhist impermanence. No settled contradiction is recorded; rivalry psychology, manuscript origins, Sei Shonagon's possible renunciation, private political motives, chronology, and theological generalizations remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194",
+        "EmpressShoshi",
+        "EmpressTeishi",
+        "FujiwaraMarriagePolitics",
+        "FujiwaraNoMichinaga",
+        "HeianCourtlyPerformance",
+        "HeianLiteraryImpermanence",
+        "MurasakiShikibu",
+        "SeiShonagon",
+        "ThePillowBook",
+        "TheRestIsHistory",
+        "TheTaleOfGenji"
       ]
     }
   ],

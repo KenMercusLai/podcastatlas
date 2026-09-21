@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10359
+wiki_total_pages: 10366
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "Fujian"
     title: "Fujian / 福建"
     url: "/wiki/entities/fujian/"
+  - key: "FujiwaraNoMichinaga"
+    title: "Fujiwara no Michinaga"
+    url: "/wiki/entities/fujiwaranomichinaga/"
   - key: "FukushimaDaiichiNuclearPowerPlant"
     title: "Fukushima Daiichi Nuclear Power Plant"
     url: "/wiki/entities/fukushimadaiichinuclearpowerplant/"

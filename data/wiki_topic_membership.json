@@ -1773,6 +1773,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202": [
     {
       "key": "history",
@@ -28866,6 +28878,20 @@
       "url": "/topics/culture/"
     }
   ],
+  "FujiwaraMarriagePolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FujiwaraNoMichinaga": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "FukushimaDaiichiNuclearPowerPlant": [
     {
       "key": "technology",
@@ -32912,6 +32938,20 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "HeianCourtlyPerformance": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "HeianLiteraryImpermanence": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Heimai": [
@@ -48079,6 +48119,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MurasakiShikibu": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Mureka": [
     {
       "key": "technology",
@@ -61681,6 +61728,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "SeiShonagon": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SeizureFirstAidBoundary": [
     {
       "key": "science",
@@ -69451,6 +69505,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ThePillowBook": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ThePortraitOfMrWH": [
     {
       "key": "culture",
@@ -69553,6 +69614,13 @@
     }
   ],
   "TheSwineherd": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheTaleOfGenji": [
     {
       "key": "culture",
       "label": "Culture",

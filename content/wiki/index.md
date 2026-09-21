@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)](sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194.md) — The Rest Is History episode on Sei Shonagon, Murasaki Shikibu, Heian courtly performance, Fujiwara marriage politics, and literary impermanence.
 - [Essentials: How Smell, Taste & Pheromones Shape Behavior](sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826.md) — Huberman Lab Essentials episode on olfactory pathways, inhalation-linked arousal, smell training, gustatory nutrient and hazard detection, and the boundary between human chemical signaling and established pheromones.
 - [562. Peter the Great: The Rise of Russia (Part 1)](sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202.md) — The Rest Is History episode on the 1682 succession violence, Sophia's regency, Peter's practical and maritime formation, and his 1689 rise to effective power.
 - [Contracts of Love & Money That Make or Break Relationships | James Sexton](sources/contracts-of-love-money-that-make-or-break-relationships-james-sexton-scim2050136218.md) — Huberman Lab interview on prenups as relationship design, marriage defaults, preventive check-ins, vulnerability, and source-scoped divorce observations.
@@ -2603,6 +2604,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.161为什么你越吃"健康食品"反而越胖？ ft.「大食话」](sources/vol-161-weishenme-ni-yue-chi-jiankang-shipin-faner-yue-pang-ft-dashihua-lkpgv9cwzxomr-oi5kse-lpyj-qz.md) — 这病说来话长 episode with 阿汤 and 大食话's 岳老师 on health-coded food labels, portions, meal replacements, prepared food, additives, sourcing, and sustainable dietary restraint.
 
 ## Entities
+- [Sei Shonagon](entities/SeiShonagon.md) — Heian court writer whose wit, learning, and service to Teishi animate The Pillow Book.
+- [Murasaki Shikibu](entities/MurasakiShikibu.md) — Heian author of The Tale of Genji and literary figure at Empress Shoshi's court.
+- [The Pillow Book](entities/ThePillowBook.md) — Sei Shonagon's mixed collection of lists, observations, anecdotes, and court scenes.
+- [The Tale of Genji](entities/TheTaleOfGenji.md) — Murasaki Shikibu's literary exploration of courtship, memory, beauty, and loss.
+- [Empress Teishi](entities/EmpressTeishi.md) — Imperial patron of Sei Shonagon whose lost household frames The Pillow Book.
+- [Empress Shoshi](entities/EmpressShoshi.md) — Michinaga's daughter, imperial consort, and patron of Murasaki Shikibu.
+- [Fujiwara no Michinaga](entities/FujiwaraNoMichinaga.md) — Heian power broker who joined marriage, regency, succession, and literary patronage.
 - [Sophia Alekseyevna / 索菲娅·阿列克谢耶芙娜](entities/SophiaAlekseyevna.md) — Peter's half-sister and regent whose coalition emerged from the 1682 uprising and collapsed in 1689.
 - [Vasily Golitsyn / 瓦西里·戈利岑](entities/VasilyGolitsyn.md) — Sophia's Westernizing chief minister whose diplomacy and failed Crimean campaigns shaped the regency.
 - [Moscow Uprising of 1682 / 1682年莫斯科起义](entities/MoscowUprising1682.md) — Streltsy intervention that remade the Romanov succession and exposed the child Peter to Kremlin violence.
@@ -12971,6 +12979,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Heian Courtly Performance](concepts/HeianCourtlyPerformance.md) — Poetry, calligraphy, scent, dress, and allusion as a system of status, attraction, and competence.
+- [Fujiwara Marriage Politics](concepts/FujiwaraMarriagePolitics.md) — Dynastic strategy connecting imperial marriage, childbirth, regency, household rivalry, and succession.
+- [Heian Literary Impermanence](concepts/HeianLiteraryImpermanence.md) — Literary synthesis of court beauty, remembered pleasure, Buddhist transience, and loss.
 - [Human Chemical Signaling](concepts/HumanChemicalSignaling.md) — Chemicals from tears, skin, sweat, breath, or contact can affect others without establishing a canonical human pheromone system.
 - [Inhalation, Arousal, and Learning](concepts/InhalationArousalLearning.md) — Source-scoped account of respiratory phase, nasal breathing, alertness, attention, learning, and irritant safety.
 - [Taste as Nutrient and Hazard Detection](concepts/TasteNutrientHazardDetection.md) — Gustation as front-line chemical sampling for energy, electrolytes, toxins, spoilage, amino acids, and possible fat sensing.

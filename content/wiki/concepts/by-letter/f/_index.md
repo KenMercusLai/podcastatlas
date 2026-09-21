@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7686
+wiki_total_pages: 7689
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "FugitiveTemporality"
     title: "Fugitive Temporality"
     url: "/wiki/concepts/fugitivetemporality/"
+  - key: "FujiwaraMarriagePolitics"
+    title: "Fujiwara Marriage Politics"
+    url: "/wiki/concepts/fujiwaramarriagepolitics/"
   - key: "FullStackObservability"
     title: "Full Stack Observability"
     url: "/wiki/concepts/fullstackobservability/"

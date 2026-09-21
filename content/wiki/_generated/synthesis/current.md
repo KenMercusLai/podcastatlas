@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-21
-as_of_overview_commit: 3a61c937b219f5be665631dda8501fa0b4d020f3
+as_of_overview_commit: bbbdd99b78afb62977c00a7771f68b9a95171507
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2590
-source_count: 2590
-paragraph_count: 674
+episode_count: 2591
+source_count: 2591
+paragraph_count: 675
 topic_count: 8
 ---
 
@@ -50,7 +50,7 @@ Cultural form is interpretive infrastructure: media, material objects, provenanc
 
 ### Governance and Institutions
 
-Institutions need category clarity, plural representation, inspectable evidence, enforceable limits, accountable openness, continuity of judgment, and coalition-aware strategy.
+Institutions distribute power through rules, evidence, information, appointments, kinship, cultural prestige, enforceable limits, and continuity of judgment; Heian court patronage shows aesthetic and dynastic systems operating together.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].

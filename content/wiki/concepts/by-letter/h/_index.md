@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7686
+wiki_total_pages: 7689
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -194,6 +194,12 @@ wiki_pages:
   - key: "HefeiIndustrialInvestmentModel"
     title: "Hefei Industrial Investment Model / 合肥模式"
     url: "/wiki/concepts/hefeiindustrialinvestmentmodel/"
+  - key: "HeianCourtlyPerformance"
+    title: "Heian Courtly Performance"
+    url: "/wiki/concepts/heiancourtlyperformance/"
+  - key: "HeianLiteraryImpermanence"
+    title: "Heian Literary Impermanence"
+    url: "/wiki/concepts/heianliteraryimpermanence/"
   - key: "HeianProvincialWarriorFormation"
     title: "Heian Provincial Warrior Formation"
     url: "/wiki/concepts/heianprovincialwarriorformation/"

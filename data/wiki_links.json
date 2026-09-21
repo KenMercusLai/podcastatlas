@@ -1171,6 +1171,10 @@
     "title": "56.伴生：世界破破烂烂，小动物缝缝补补",
     "url": "/wiki/sources/56-bansheng-shijie-popolanlan-xiao-dongwu-fengfengbubu-641299301/"
   },
+  "561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194": {
+    "title": "561. The Golden Age of Japan: Secrets of the Imperial Court (Part 2)",
+    "url": "/wiki/sources/561-the-golden-age-of-japan-secrets-of-the-imperial-court-part-2-glt9428275194/"
+  },
   "562-peter-the-great-the-rise-of-russia-part-1-glt5535116202": {
     "title": "562. Peter the Great: The Rise of Russia (Part 1)",
     "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
@@ -20487,6 +20491,10 @@
     "title": "皇后册立礼法合法性 / Empress Selection Ritual Legitimacy",
     "url": "/wiki/concepts/empressselectionrituallegitimacy/"
   },
+  "EmpressShoshi": {
+    "title": "Empress Shoshi",
+    "url": "/wiki/entities/empressshoshi/"
+  },
   "EmpressSisi": {
     "title": "Empress Sisi",
     "url": "/wiki/entities/empresssisi/"
@@ -20494,6 +20502,10 @@
   "EmpressSongLateHan": {
     "title": "宋皇后 / Empress Song (late Han)",
     "url": "/wiki/entities/empresssonglatehan/"
+  },
+  "EmpressTeishi": {
+    "title": "Empress Teishi",
+    "url": "/wiki/entities/empressteishi/"
   },
   "EmpressWangPingdi": {
     "title": "王皇后（汉平帝皇后） / Empress Wang of Han Pingdi",
@@ -24547,6 +24559,14 @@
     "title": "Fujian / 福建",
     "url": "/wiki/entities/fujian/"
   },
+  "FujiwaraMarriagePolitics": {
+    "title": "Fujiwara Marriage Politics",
+    "url": "/wiki/concepts/fujiwaramarriagepolitics/"
+  },
+  "FujiwaraNoMichinaga": {
+    "title": "Fujiwara no Michinaga",
+    "url": "/wiki/entities/fujiwaranomichinaga/"
+  },
   "FukushimaDaiichiNuclearPowerPlant": {
     "title": "Fukushima Daiichi Nuclear Power Plant",
     "url": "/wiki/entities/fukushimadaiichinuclearpowerplant/"
@@ -28434,6 +28454,14 @@
   "HefeiMarquisLateHan": {
     "title": "合肥侯 / Hefei Marquis (late Han)",
     "url": "/wiki/entities/hefeimarquislatehan/"
+  },
+  "HeianCourtlyPerformance": {
+    "title": "Heian Courtly Performance",
+    "url": "/wiki/concepts/heiancourtlyperformance/"
+  },
+  "HeianLiteraryImpermanence": {
+    "title": "Heian Literary Impermanence",
+    "url": "/wiki/concepts/heianliteraryimpermanence/"
   },
   "HeianProvincialWarriorFormation": {
     "title": "Heian Provincial Warrior Formation",
@@ -43799,6 +43827,10 @@
     "title": "Moura Budberg / 穆拉·巴德伯格",
     "url": "/wiki/entities/murabudberg/"
   },
+  "MurasakiShikibu": {
+    "title": "Murasaki Shikibu",
+    "url": "/wiki/entities/murasakishikibu/"
+  },
   "Mureka": {
     "title": "Mureka",
     "url": "/wiki/entities/mureka/"
@@ -55879,6 +55911,10 @@
     "title": "Segment",
     "url": "/wiki/entities/segment/"
   },
+  "SeiShonagon": {
+    "title": "Sei Shonagon",
+    "url": "/wiki/entities/seishonagon/"
+  },
   "Seiko": {
     "title": "Seiko",
     "url": "/wiki/entities/seiko/"
@@ -62419,6 +62455,10 @@
     "title": "《道连·格雷的画像》 / The Picture of Dorian Gray",
     "url": "/wiki/entities/thepictureofdoriangray/"
   },
+  "ThePillowBook": {
+    "title": "The Pillow Book",
+    "url": "/wiki/entities/thepillowbook/"
+  },
   "ThePlainDealer": {
     "title": "The Plain Dealer",
     "url": "/wiki/entities/theplaindealer/"
@@ -62486,6 +62526,10 @@
   "TheSwineherd": {
     "title": "《猪倌》 / The Swineherd",
     "url": "/wiki/entities/theswineherd/"
+  },
+  "TheTaleOfGenji": {
+    "title": "The Tale of Genji",
+    "url": "/wiki/entities/thetaleofgenji/"
   },
   "TheTaleOfTheHeike": {
     "title": "The Tale of the Heike",
