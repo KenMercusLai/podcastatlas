@@ -682,12 +682,13 @@
       "a35b3436ab7138365d5fa517a8225980b1f4d936e4a63d4b6037910c167a441e",
       "bc21f854c0db718b0db3121a0ea4e03d41c18af3e3b60237646b89b1e08df013",
       "6402cd35fe7a9077d23d5ee1e94bab2cdaf5163c7f56abfc9f4afd0379f7fc71",
-      "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c"
+      "a299054276fd4c26b5ab3f0c1329864db751a9540ed9444737aa1f5e82971e6c",
+      "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2"
     ],
-    "paragraph_count": 682
+    "paragraph_count": 683
   },
-  "overview_commit": "2b45f2b368154836f6836a7b13c201b7de95381f",
-  "overview_digest": "344fff2db03f0d225492b80dce212183c669ce93f2bd731faa23a65564e01d81",
+  "overview_commit": "b17d350c0c99a49e43b6b901e09eef3eb77cdf13",
+  "overview_digest": "dcc24e42ab2959f2be512594e02c96acf401646b559acadb28c1e1dbc70897e8",
   "paragraphs": [
     {
       "id": "9e76d039f3d089b60e9f1cdc7dad91f4c3d4d467f62bd254169900438064eb95",
@@ -20487,6 +20488,29 @@
         "YueWanrou",
         "ZheBingShuoLaiHuaChang",
         "vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5"
+      ]
+    },
+    {
+      "id": "9540064be73548b0001d8e7c2c05c69cd0cdbfeb29e1a167dc4f3c0d7ba6b4c2",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "culture-and-media"
+      ],
+      "text": "The latest Norman Conquest source, [[557-1066-the-norman-conquest-part-4-glt5156716826|557. 1066: The Norman Conquest (Part 4)]], extends [[WilliamTheConqueror]], [[HaroldGodwinson]], and [[NormanConquestOfEngland]] through [[EdgarAtheling]], [[DomesdayBook]], [[HarryingOfTheNorth]], [[NormanEliteReplacement]], and [[ConquestRuptureContinuity]]. Its core synthesis is that Hastings did not automatically deliver England: Harold's death removed the strongest resistance coordinator, after which William combined devastation, elite submission, sacred coronation, castles, repression, land and episcopal replacement, and inherited English administration to turn victory into government. The resulting order is both rupture and continuity—traumatic dispossession and famine coexist with appropriated coronation, fiscal, and administrative capacity. No settled contradiction is recorded; Harold-body traditions, casualty and landholding totals, William's original intentions, the Salisbury oath's exact effect, slavery decline, and broad moral comparisons remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 1
+      },
+      "wikilinks": [
+        "557-1066-the-norman-conquest-part-4-glt5156716826",
+        "ConquestRuptureContinuity",
+        "DomesdayBook",
+        "EdgarAtheling",
+        "HaroldGodwinson",
+        "HarryingOfTheNorth",
+        "NormanConquestOfEngland",
+        "NormanEliteReplacement",
+        "WilliamTheConqueror"
       ]
     }
   ],

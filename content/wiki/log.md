@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-21] ingest | 557. 1066: The Norman Conquest (Part 4)
+
+Added source `557-1066-the-norman-conquest-part-4-glt5156716826`; created `EdgarAtheling`, `DomesdayBook`, `HarryingOfTheNorth`, `NormanEliteReplacement`, and `ConquestRuptureContinuity`; and updated `WilliamTheConqueror`, `HaroldGodwinson`, `NormanConquestOfEngland`, overview, and index. Core synthesis: Hastings did not automatically deliver England, but Harold's death removed the strongest resistance coordinator; William then combined coercive movement, submissions, coronation ritual, castles, repression, elite replacement, and inherited English administration to turn victory into government. No settled contradiction found; body and burial stories, casualty and landholding totals, intentions, slavery decline, and broad moral comparisons remain source-scoped.
+
 ## [2026-09-21] ingest | 558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)
 
 Added source `558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020`; created `AndrewLoogOldham`, `ManufacturedRebellionBranding`, and `PostwarTeenageConsumerMarket`; and updated `TheRollingStones`, `MickJagger`, `KeithRichards`, `BrianJones`, `TheBeatles`, `CelebrityFolkDevilMoralPanic`, `PopToAlbumRockTransition`, overview, and index. Core synthesis: postwar teenage spending and Beatles-led market validation created the opening for the Stones, while Oldham deliberately converted hair, press provocation, and parental disapproval into an anti-Beatles brand as Jagger-Richards songwriting displaced Jones's blues-purist authority. No settled contradiction found; character judgments, audience generalizations, racial framing, and causal claims about economics, gender, image, and success remain source-scoped.

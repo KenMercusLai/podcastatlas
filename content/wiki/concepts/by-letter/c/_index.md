@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7708
+wiki_total_pages: 7711
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1466,6 +1466,9 @@ wiki_pages:
   - key: "ConquestCommanderyTransition"
     title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
     url: "/wiki/concepts/conquestcommanderytransition/"
+  - key: "ConquestRuptureContinuity"
+    title: "Conquest Rupture and Continuity"
+    url: "/wiki/concepts/conquestrupturecontinuity/"
   - key: "ConquestSelfDefenseNarrative"
     title: "Conquest Self-Defense Narrative / 兼并自卫叙事"
     url: "/wiki/concepts/conquestselfdefensenarrative/"

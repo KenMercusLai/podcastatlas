@@ -1167,6 +1167,10 @@
     "title": "55.安徒生童话：海的女儿和不灭的灵魂",
     "url": "/wiki/sources/55-antusheng-tonghua-hai-de-nver-he-bumie-de-linghun-639782306/"
   },
+  "557-1066-the-norman-conquest-part-4-glt5156716826": {
+    "title": "557. 1066: The Norman Conquest (Part 4)",
+    "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+  },
   "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020": {
     "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
     "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
@@ -14535,6 +14539,10 @@
     "title": "Conquest Commandery Transition / 灭国后的郡县化过渡",
     "url": "/wiki/concepts/conquestcommanderytransition/"
   },
+  "ConquestRuptureContinuity": {
+    "title": "Conquest Rupture and Continuity",
+    "url": "/wiki/concepts/conquestrupturecontinuity/"
+  },
   "ConquestSelfDefenseNarrative": {
     "title": "Conquest Self-Defense Narrative / 兼并自卫叙事",
     "url": "/wiki/concepts/conquestselfdefensenarrative/"
@@ -18359,6 +18367,10 @@
     "title": "Domain-Specific Superintelligence",
     "url": "/wiki/concepts/domainspecificsuperintelligence/"
   },
+  "DomesdayBook": {
+    "title": "Domesday Book",
+    "url": "/wiki/entities/domesdaybook/"
+  },
   "DomesticAIChipCatchUp": {
     "title": "Domestic AI Chip Catch-Up",
     "url": "/wiki/concepts/domesticaichipcatchup/"
@@ -19686,6 +19698,10 @@
   "EdgarAllanPoe": {
     "title": "Edgar Allan Poe / 爱伦·坡",
     "url": "/wiki/entities/edgarallanpoe/"
+  },
+  "EdgarAtheling": {
+    "title": "Edgar Atheling",
+    "url": "/wiki/entities/edgaratheling/"
   },
   "EdgarCayce": {
     "title": "Edgar Cayce",
@@ -28246,6 +28262,10 @@
   "HarryStyles": {
     "title": "Harry Styles",
     "url": "/wiki/entities/harrystyles/"
+  },
+  "HarryingOfTheNorth": {
+    "title": "Harrying of the North",
+    "url": "/wiki/concepts/harryingofthenorth/"
   },
   "HarvardClassicNegotiation": {
     "title": "《哈佛经典谈判术》",
@@ -45530,6 +45550,10 @@
   "NormanConquestOfEngland": {
     "title": "Norman Conquest of England",
     "url": "/wiki/concepts/normanconquestofengland/"
+  },
+  "NormanEliteReplacement": {
+    "title": "Norman Elite Replacement",
+    "url": "/wiki/concepts/normanelitereplacement/"
   },
   "NorseMythology": {
     "title": "Norse Mythology / 北欧神话",

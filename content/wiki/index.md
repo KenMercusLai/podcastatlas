@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [557. 1066: The Norman Conquest (Part 4)](sources/557-1066-the-norman-conquest-part-4-glt5156716826.md) — The Rest Is History episode on post-Hastings submission, William's coronation, elite replacement, the Harrying of the North, castles, church reform, Domesday Book, and conquest as rupture joined to institutional continuity.
 - [Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave](sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523.md) — Huberman Lab interview on addiction as attempted relief, stabilization, distress tolerance, emotional forecasting, peer support, state shifting, and building a meaningful life in recovery.
 - [VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」](sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5.md) — 这病说来话长 episode with 阿汤 and 岳宛柔 on balanced weight management, carbohydrate and fat extremes, food form, portion estimation, labels, energy deficits, and health-product marketing.
 - [558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)](sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020.md) — The Rest Is History episode on the Stones' blues origins, Brian Jones's founding role, the teenage pop market, original songwriting, and their deliberately manufactured anti-Beatles identity.
@@ -2614,6 +2615,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How to Build Endurance](sources/essentials-how-to-build-endurance-scim1120276865.md) — Huberman Lab Essentials episode on four endurance training modes, limiting systems, overlapping adaptations, and bounded hydration guidance.
 
 ## Entities
+- [Edgar Atheling](entities/EdgarAtheling.md) — Young royal claimant elected after Hastings whose bloodline and Witan recognition did not become effective kingship.
+- [Domesday Book](entities/DomesdayBook.md) — 1086 land survey recording the Norman property order through inherited English administrative capacity.
 - [Ryan Soave](entities/RyanSoave.md) — Addiction-treatment and trauma-recovery specialist presenting staged stabilization, distress tolerance, community support, and positive life-building.
 - [Andrew Loog Oldham](entities/AndrewLoogOldham.md) — Rolling Stones manager who coordinated their lineup, publicity, and anti-Beatles market position.
 - [The Rolling Stones](entities/TheRollingStones.md) — British band whose legal, personnel, musical, and symbolic transformation defined a durable rock template.
@@ -3857,11 +3860,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bayeux Tapestry](entities/BayeuxTapestry.md) — Medieval embroidered artwork narrating the Norman Conquest and serving as a durable object of political and violence memory.
 - [British Museum](entities/BritishMuseum.md) — Cultural institution hosting the Bayeux Tapestry's source-described first exhibition outside France.
 - [Edward the Confessor](entities/EdwardTheConfessor.md) — English king whose succession politics open the Bayeux Tapestry's Norman Conquest narrative.
-- [Harold Godwinson](entities/HaroldGodwinson.md) — English claimant whose oath, kingship, defeat, and death structure the Bayeux Tapestry branch.
+- [Harold Godwinson](entities/HaroldGodwinson.md) — English king whose oath, defeat, death, leadership absence, and contested bodily afterlife shape conquest memory.
 - [Michael Lewis (Curator)](entities/MichaelLewisCurator.md) — Curator-side speaker explaining the Bayeux Tapestry's graphic visual immediacy and violence-memory frame.
 - [Nick Cullinan](entities/NickCullinan.md) — Museum-side speaker emphasizing the Bayeux Tapestry's missing evidence, unknown makers, and interpretive openness.
 - [Shira Ovide](entities/ShiraOvide.md) — Technology-business speaker explaining Reddit's AI-era referral, licensing, and community-data exposure.
-- [William the Conqueror](entities/WilliamTheConqueror.md) — Norman claimant whose 1066 invasion and victory are narrated by the Bayeux Tapestry.
+- [William the Conqueror](entities/WilliamTheConqueror.md) — Norman claimant who converts Hastings into coronation, coercive consolidation, elite replacement, and administrative rule.
 - [Rick Knudtson](entities/RickKnudtson.md) — Repeat SaaS founder whose Workshop story shows a customer-signal-driven pivot from intranet to internal email.
 - [Workshop](entities/WorkshopInternalComms.md) — Enterprise internal communications SaaS that found product-market fit around email-centered multi-channel messaging.
 - [Flywheel (WordPress Hosting)](entities/FlywheelWordPressHosting.md) — Rick Knudtson's prior WordPress hosting company and the operating context behind Workshop's origin.
@@ -12998,6 +13001,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [壶关 / Huguan (Late Han)](entities/HuguanLateHan.md) — Gao Gan's fortified position where promised extermination hardens resistance until Cao Ren restores a survival path for surrender.
 
 ## Concepts
+- [Harrying of the North](concepts/HarryingOfTheNorth.md) — William's 1069-1070 campaign of destructive repression against northern resistance and civilian subsistence.
+- [Norman Elite Replacement](concepts/NormanEliteReplacement.md) — Post-1066 displacement of native landed and ecclesiastical leadership by a small Norman ruling group.
+- [Conquest Rupture and Continuity](concepts/ConquestRuptureContinuity.md) — Framework for regime change that violently replaces people and property while appropriating inherited institutions.
 - [Addiction as Attempted Relief](concepts/AddictionAsAttemptedRelief.md) — Functional model in which rapid relief from pain or dysregulation can become a self-reinforcing source of harm.
 - [Recovery Distress Tolerance](concepts/RecoveryDistressTolerance.md) — Learned capacity to experience discomfort without automatically returning to an addictive strategy.
 - [Emotional Weather Forecast](concepts/EmotionalWeatherForecast.md) — Daily inventory of gratitude, plans, feelings, anticipated hazards, and chosen strivings shared with trusted people.
@@ -14147,7 +14153,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Human Community Data Licensing](concepts/HumanCommunityDataLicensing.md) — AI data-licensing pattern where human discussion and volunteer moderation become a monetizable platform corpus.
 - [Immigration Court Throughput Pressure](concepts/ImmigrationCourtThroughputPressure.md) — Procedural condition where high-volume immigration hearings, weak notice, and lack of lawyers help convert arrests into removal orders.
 - [Medieval Visual Political Narrative](concepts/MedievalVisualPoliticalNarrative.md) — Visual storytelling mode where medieval sequence, symbols, and material craft make political legitimacy claims.
-- [Norman Conquest of England](concepts/NormanConquestOfEngland.md) — 1066 invasion and succession conflict as narrated through the Bayeux Tapestry branch.
+- [Norman Conquest of England](concepts/NormanConquestOfEngland.md) — 1066 invasion and consolidation interpreted through legitimacy, elite replacement, repression, and Anglo-Saxon institutional inheritance.
 - [Technology-Assisted Interior Enforcement](concepts/TechnologyAssistedInteriorEnforcement.md) — Funded, data-aided immigration enforcement inside the United States through target-listing tools, multi-dataset integration, and downstream court pressure.
 - [Customer Signal Driven Pivot](concepts/CustomerSignalDrivenPivot.md) — Product-market-fit pattern where repeated customer evidence forces a product or positioning change.
 - [Enterprise Internal Email Infrastructure](concepts/EnterpriseInternalEmailInfrastructure.md) — Enterprise communications frame treating internal email as governed, measurable, deliverable infrastructure.

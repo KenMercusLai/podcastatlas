@@ -1773,6 +1773,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "557-1066-the-norman-conquest-part-4-glt5156716826": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020": [
     {
       "key": "history",
@@ -17941,6 +17948,13 @@
     }
   ],
   "ConquestCommanderyTransition": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ConquestRuptureContinuity": [
     {
       "key": "history",
       "label": "History",

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1897
+topic_total_pages: 1899
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -202,6 +202,9 @@ topic_concepts:
   - key: "ConquestCommanderyTransition"
     title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
     url: "/wiki/concepts/conquestcommanderytransition/"
+  - key: "ConquestRuptureContinuity"
+    title: "Conquest Rupture and Continuity"
+    url: "/wiki/concepts/conquestrupturecontinuity/"
   - key: "ConquestSelfDefenseNarrative"
     title: "Conquest Self-Defense Narrative / 兼并自卫叙事"
     url: "/wiki/concepts/conquestselfdefensenarrative/"
@@ -4560,6 +4563,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "557-1066-the-norman-conquest-part-4-glt5156716826"
+    title: "557. 1066: The Norman Conquest (Part 4)"
+    url: "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
   - key: "558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020"
     title: "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)"
     url: "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"

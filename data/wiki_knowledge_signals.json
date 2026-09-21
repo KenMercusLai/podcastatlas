@@ -23578,6 +23578,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/confucius/"
     },
+    "ConquestRuptureContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/conquestrupturecontinuity/"
+    },
     "ConscienceThroughDuty": {
       "episode_count": 1,
       "show_count": 1,
@@ -30597,6 +30613,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/domainspecificsuperintelligence/"
     },
+    "DomesdayBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/domesdaybook/"
+    },
     "DomesticBagSupplyChainUpgrade": {
       "episode_count": 1,
       "show_count": 1,
@@ -33280,6 +33312,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/eddiechang/"
+    },
+    "EdgarAtheling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/entities/edgaratheling/"
     },
     "EdgarCayce": {
       "episode_count": 1,
@@ -52250,9 +52298,9 @@
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
     "HaroldGodwinson": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -52260,9 +52308,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/haroldgodwinson/"
     },
     "HaroldWilson": {
@@ -52294,6 +52349,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/haroldwilson/"
+    },
+    "HarryingOfTheNorth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/harryingofthenorth/"
     },
     "HasdrubalTheHandsome": {
       "episode_count": 1,
@@ -85035,9 +85106,9 @@
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
     },
     "NormanConquestOfEngland": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -85045,10 +85116,33 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/concepts/normanconquestofengland/"
+    },
+    "NormanEliteReplacement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
+        }
+      ],
+      "updated": "2026-09-21",
+      "url": "/wiki/concepts/normanelitereplacement/"
     },
     "NorthAmericanBlueEnergyPartners": {
       "episode_count": 1,
@@ -125193,9 +125287,9 @@
       "url": "/wiki/entities/williamshakespeare/"
     },
     "WilliamTheConqueror": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Ire and ICE： the toll of America’s deportations [6a993426809ae7c2f4293df9].md",
@@ -125203,9 +125297,16 @@
           "show": "Economist Podcasts",
           "title": "Ire and ICE: the toll of America's deportations",
           "url": "/wiki/sources/ire-and-ice-the-toll-of-americas-deportations-6a993426809ae7c2f4293df9/"
+        },
+        {
+          "episode_file": "GLT5156716826 [GLT5156716826].md",
+          "key": "557-1066-the-norman-conquest-part-4-glt5156716826",
+          "show": "The Rest Is History",
+          "title": "557. 1066: The Norman Conquest (Part 4)",
+          "url": "/wiki/sources/557-1066-the-norman-conquest-part-4-glt5156716826/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-21",
       "url": "/wiki/entities/williamtheconqueror/"
     },
     "WillieWhitelaw": {
