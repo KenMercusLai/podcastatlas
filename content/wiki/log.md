@@ -21111,3 +21111,11 @@ Added source `ep-20-understanding-ai-agents-from-basics-to-future-potential`; cr
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | Essentials: Supercharge Exercise Performance & Recovery with Cooling
+
+Added source `essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411`; created `ExerciseHeatManagement`; updated `ExerciseRecoveryReadiness` and the index. Core synthesis: exercise heat can constrain repeated output through local temperature and cardiovascular drift, while moderate cooling of glabrous skin on the palms, soles, or face is distinct from immediate whole-body cold immersion and its possible resistance-training adaptation cost. No settled contradiction found; reported pull-up and dip gains, temperature thresholds, cooling parameters, AVA mechanisms, and recovery effects remain source-scoped, while heat illness, medical need, pain, and rapid-turnaround contexts can change the cooling priority.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

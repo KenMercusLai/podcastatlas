@@ -38752,6 +38752,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/exercisefatoxidationsequencing/"
     },
+    "ExerciseHeatManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3687301411 [SCIM3687301411].md",
+          "key": "essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411",
+          "show": "Huberman Lab",
+          "title": "Essentials: Supercharge Exercise Performance & Recovery with Cooling",
+          "url": "/wiki/sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/exerciseheatmanagement/"
+    },
     "ExerciseHydrationPerformanceBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -38845,9 +38861,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -38855,9 +38871,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM3687301411 [SCIM3687301411].md",
+          "key": "essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411",
+          "show": "Huberman Lab",
+          "title": "Essentials: Supercharge Exercise Performance & Recovery with Cooling",
+          "url": "/wiki/sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {

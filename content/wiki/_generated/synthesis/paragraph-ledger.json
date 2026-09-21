@@ -692,12 +692,13 @@
       "9083f42a4b4142f57df30d882f55945136b0b7529bfc3c465c76ea6d8c0d9a3c",
       "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769",
       "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
-      "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276"
+      "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276",
+      "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6"
     ],
-    "paragraph_count": 692
+    "paragraph_count": 693
   },
-  "overview_commit": "e2a330f7fb4d969a09e582245e3481d66db5833c",
-  "overview_digest": "d1257b82b197c876f41c508e43e87b56e0d7a56d87fc3aca43ec58d77593924d",
+  "overview_commit": "f45d6019caa3f33084284516323b5d1bb7f15dbf",
+  "overview_digest": "524c35a058a655c28bfedab2766b6bed7ed9f4083181efd8de8710fc4080d9fe",
   "paragraphs": [
     {
       "id": "0cc621ad89b47d2c086bf51790edb215a305794961b26e7876b6aaf57d3b6fa5",
@@ -20728,6 +20729,22 @@
         "RuiqiJiangtouZizhiTongjian",
         "Xiongnu",
         "zizhi-tongjian-hanji-1116-bei-xiongnu-luzou-12-nian-caiwenji-ruhe-qizi-guihan-lgqrifny2iyuohlal306ezntwbc6"
+      ]
+    },
+    {
+      "id": "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411|Essentials: Supercharge Exercise Performance & Recovery with Cooling]], a [[HubermanLab]] solo Essentials episode in which [[AndrewHuberman]] treats exercise heat as a variable in acute performance and recovery. It adds [[ExerciseHeatManagement]] and extends [[ExerciseRecoveryReadiness]] by separating moderate glabrous-skin cooling from immediate whole-body cold immersion. Its core synthesis is that rising local and whole-body heat can limit contraction and add cardiovascular drift, while cool but nonfreezing contact with the palms, soles, or face may preserve repeated output without provoking the vasoconstriction caused by excessive cold. No settled contradiction is recorded; pull-up and dip gains, temperature thresholds, AVA mechanisms, cardiac-drift framing, cooling durations, and recovery effects remain source-scoped because the condensed source omits complete methods and individualized targets. Whole-body cold and NSAIDs retain medical, safety, pain, and rapid-turnaround contexts even when they may conflict with some resistance-training adaptations.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "ExerciseHeatManagement",
+        "ExerciseRecoveryReadiness",
+        "HubermanLab",
+        "essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411"
       ]
     }
   ],

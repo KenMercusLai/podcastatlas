@@ -1307,9 +1307,27 @@
         "MedicalAestheticProviderVerification",
         "CosmeticProcedureExpectationManagement"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "exercise-heat-management-needs-goal-specific-cooling",
+      "qualifications": [
+        "The condensed episode does not provide complete study methods, individualized temperature targets, or long-term training outcomes, so dramatic pull-up and dip gains remain source-scoped examples.",
+        "Targeted palm, sole, or face cooling does not replace shade, workload reduction, hydration, acclimatization, or medical escalation for suspected heat illness.",
+        "Whole-body cold and NSAIDs can retain medical, pain, safety, or rapid-turnaround uses even when they may conflict with some resistance-training adaptations."
+      ],
+      "statement": "[[essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411|The Huberman Lab cooling Essentials episode]] adds [[ExerciseHeatManagement]] as a goal-sensitive exercise branch: rising local and whole-body heat can constrain contraction and add cardiovascular drift, while cool but nonfreezing contact with glabrous skin on the palms, soles, or face may preserve acute output without the vasoconstriction of excessive cold; [[ExerciseRecoveryReadiness]] keeps that intervention distinct from immediate whole-body cold immersion when long-term resistance-training adaptation is the priority.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411",
+        "HubermanLab",
+        "AndrewHuberman",
+        "ExerciseHeatManagement",
+        "ExerciseRecoveryReadiness"
+      ]
     }
   ],
   "input_digest": "0b6edddd37b040d15520c102506db9459319ab74d15a541aded69f473f322f1c",
-  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches span medical-aesthetic verification, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise, flexibility and fitness assessment, first aid, autism and gene-editing ethics, grief, chemosensation, and visual health. The metabolic-psychiatry branch now connects mitochondrial energy regulation with lifestyle, neurobiology, stress, aging, diagnostic uncertainty, and emerging biomarker panels while preserving the distinctions between neurological precedent and psychiatric proof, plausible mechanism and causation, and early classifier performance and a validated clinical test. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Across the topic, interventions and measurements remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, and supervision-dependent.",
+  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches span medical-aesthetic verification, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise heat management, flexibility and fitness assessment, first aid, autism and gene-editing ethics, grief, chemosensation, and visual health. The metabolic-psychiatry branch connects mitochondrial energy regulation with lifestyle, neurobiology, stress, aging, diagnostic uncertainty, and emerging biomarker panels while preserving the distinctions between neurological precedent and psychiatric proof, plausible mechanism and causation, and early classifier performance and a validated clinical test. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Across the topic, interventions and measurements remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent.",
   "topic_id": "science-health-and-climate"
 }

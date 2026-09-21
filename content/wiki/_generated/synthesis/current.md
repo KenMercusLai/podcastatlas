@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-09-21
-as_of_overview_commit: 71d80fd0edbc49662d1561f1a22f8149f0b70523
+last_updated: 2026-09-22
+as_of_overview_commit: f45d6019caa3f33084284516323b5d1bb7f15dbf
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2630
-source_count: 2630
-paragraph_count: 692
+episode_count: 2638
+source_count: 2638
+paragraph_count: 693
 topic_count: 9
 ---
 
@@ -19,7 +19,6 @@ topic_count: 9
 - [[shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596|商业小样50]] adds a chore-first robotics case: [[EcovacsRobotics]], [[HomeServiceRobots]], [[RobotFormFactorPragmatism]], and [[TechnologyReuseScenarioAdaptation]] show a shared sensing, mapping, planning, and motion-control core moving across floors, windows, lawns, and pools only when each environment’s adhesion, fall-safety, positioning, animal-avoidance, and underwater-durability constraints are solved.
 - [[canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362|The Anaya episode]] adds a destination-business pattern: [[Anaya]], [[MaYin]], and [[LongTermPlaceOperation]] show how a defined owner base, integrated services, managed lodging, merchant revenue sharing, landmarks, and recurring cultural events can move a weak property project toward recurring income, while crowding, partner authority, and regional demand constrain replication.
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse.
-- [[557-1066-the-norman-conquest-part-4-glt5156716826|The Norman Conquest episode]] adds a state-formation case: Hastings removed [[HaroldGodwinson]] but did not itself deliver England, so [[WilliamTheConqueror]] turned victory into government through coerced submissions, coronation continuity, castles, [[HarryingOfTheNorth]], and [[NormanEliteReplacement]], then used the inherited administrative capacity visible in [[DomesdayBook]]. [[ConquestRuptureContinuity]] captures the resulting combination of political rupture and institutional inheritance.
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]].
 - [[PsychiatryMeasurementGap]] and [[TherapeuticStateLearning]] add a personal-development boundary: interview language and functional evidence remain necessary while biomarkers are immature, and an altered experience matters only if learning transfers into ordinary life under [[PsychedelicClinicalSupervisionBoundary]].
 - [[MetabolicPsychiatry]] now spans nutrition, [[MitochondrialLifestylePillars]], and a broader [[MitochondrialMentalHealthModel]] connecting cellular energy regulation with neurotransmission, inflammation, hormones, stress, aging, diet, exercise, sleep, substances, relationships, and purpose. [[KetogenicDietMentalHealth]] retains epilepsy precedent but not equivalent psychiatric proof; [[PsychiatricDiagnosisMechanismBoundary]] separates symptom labels from final causes, [[MetabolicMentalHealthBiomarkers]] remains an emerging measurement direction, and [[PsychiatricMedicationSupervisionBoundary]] keeps severe illness and treatment changes inside qualified care.

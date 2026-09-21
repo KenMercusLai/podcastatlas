@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Supercharge Exercise Performance & Recovery with Cooling](sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411.md) — Huberman Lab Essentials episode on heat-limited output, cardiac drift, glabrous-skin cooling, vasoconstriction-aware protocols, and recovery-adaptation tradeoffs.
 - [550. The Road to 1066: Rise of the Normans (Part 3)](sources/550-the-road-to-1066-rise-of-the-normans-part-3-glt9316865693.md) — The Rest Is History episode on Norman castle lordship, William's violent minority, the post-Cnut English succession crisis, and Edward's restoration.
 - [551. The Road to 1066: Countdown to Conquest (Part 4)](sources/551-the-road-to-1066-countdown-to-conquest-part-4-glt9351236299.md) — The Rest Is History episode on Godwin family ascent, Edward and Edith's childlessness, Harold's rise and disputed oath, Tostig's failed Northumbrian rule, and the factional prehistory of 1066.
 - [Essentials: How to Learn Skills Faster](sources/essentials-how-to-learn-skills-faster-scim2224786015.md) — Huberman Lab Essentials episode on repetition density, safe errors, stage-matched motor practice, quiet post-practice consolidation, sleep, and mental-rehearsal limits.
@@ -13090,6 +13091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adam Foroughi](entities/AdamForoughi.md) — AppLovin co-founder and CEO connecting advertising machine learning to capital allocation, automation, and organizational focus.
 
 ## Concepts
+- [Exercise Heat Management](concepts/ExerciseHeatManagement.md) — Goal-sensitive framework linking exercise heat, cardiac drift, glabrous-skin heat transfer, moderate cooling, and post-training adaptation tradeoffs.
 - [Motor Skill Repetition Density](concepts/MotorSkillRepetitionDensity.md) — Motor-learning principle that prioritizes safe, feedback-rich attempts per unit time over elapsed practice hours alone.
 - [Stage-Matched Motor Skill Practice](concepts/StageMatchedMotorSkillPractice.md) — Proficiency-dependent framework for ordinary attempts, slow practice, metronomes, attentional targets, and visualization.
 - [Post-Practice Motor Consolidation](concepts/PostPracticeMotorConsolidation.md) — Low-interference quiet-wakefulness and sleep window proposed to stabilize successful motor sequences after practice.
@@ -20862,7 +20864,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drawdown Capital Allocation and Alignment](concepts/DrawdownCapitalAllocationAndAlignment.md) — Crisis response combining share repurchases with performance equity during a severe public-market decline.
 
 - [Strength and Hypertrophy Programming](concepts/StrengthHypertrophyProgramming.md) — Training framework connecting motor-unit recruitment to load, weekly volume, failure, movement speed, and rest.
-- [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Bounded use of within-person grip and slow-exhale trends plus cold and NSAID adaptation tradeoffs.
+- [Exercise Recovery Readiness](concepts/ExerciseRecoveryReadiness.md) — Bounded use of within-person readiness trends plus goal-sensitive targeted cooling, cold-immersion, and NSAID tradeoffs.
 - [Familiar Pain Relationship Pattern](concepts/FamiliarPainRelationshipPattern.md) — Tendency to mistake historically familiar attraction, deprivation, or conflict for present-day compatibility and safety.
 - [Relationship Conflict Repair](concepts/RelationshipConflictRepair.md) — Regulation, pause, perspective-taking, response choice, and return process for repairing interpersonal rupture.
 - [Partner Selection Beyond Chemistry](concepts/PartnerSelectionBeyondChemistry.md) — Dating judgment frame prioritizing maturity, flexibility, character, reliability, life direction, and felt safety over immediate sparks.
