@@ -4,6 +4,7 @@ type: concept
 tags: [war, monarchy, legitimacy, revolution]
 sources:
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
+  - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-23
 ---
@@ -16,11 +17,11 @@ Wartime constitutional monarchy collapse is the process by which military failur
 
 ## Current Synthesis
 
-France in 1792 shows how constitutional powers can become politically fatal without being formally unlawful. Defeat and invasion made national defence the test of legitimacy; [[LouisXVI|Louis XVI]] then used veto and dismissal powers while [[MarieAntoinette|Marie Antoinette]] shared information with Austria, allowing genuine conflict and duplicity to validate wider conspiracy claims. Economic anxiety, radical press, absent moderates, local sections, fédérés, and the Brunswick Manifesto converted distrust into the [[TuileriesInsurrection|10 August insurrection]], after which the monarchy survived only as a suspended office awaiting republican replacement.
+France in 1792 shows how constitutional powers can become politically fatal without being formally unlawful. Before combat, [[LouisXVI|Louis XVI]]'s anti-emigre veto and foreign appeals, [[MarieAntoinette|Marie Antoinette]]'s Austrian communications, and the Girondin strategy of forcing vetoes had already turned constitutional procedure into a loyalty test. Nearly every faction then backed war for a different reason. Defeat and invasion made national defence the decisive measure of legitimacy; later vetoes and dismissal powers, economic anxiety, radical press, local sections, fédérés, and the Brunswick Manifesto converted distrust into the [[TuileriesInsurrection|10 August insurrection]], after which monarchy survived only as a suspended office.
 
 ## Key Claims
 
-- War can turn ordinary constitutional disagreement into a test of loyalty and survival.
+- War supported for incompatible factional ends can turn ordinary constitutional disagreement into a test of loyalty and survival before its military outcome is known.
 - Real executive duplicity can make exaggerated conspiracy claims resistant to correction.
 - Lawful vetoes may destroy legitimacy when they appear to obstruct emergency defence.
 - Economic distress and battlefield failure widen the audience for internal-enemy explanations.
@@ -36,6 +37,7 @@ France in 1792 shows how constitutional powers can become politically fatal with
 
 ### Constitutional authority becoming illegitimate
 
+- [[504-the-french-revolution-war-to-the-death-part-2-glt3201191708]] traces the anti-emigre veto trap, royal foreign appeals, and cross-factional war calculations before fighting began.
 - [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] connects Louis's vetoes and ministry dismissal to the perception that the crown obstructed national defence.
 
 ### Duplicity, conspiracy, and foreign threat
@@ -49,6 +51,7 @@ France in 1792 shows how constitutional powers can become politically fatal with
 ## Counterevidence & Qualifications
 
 - The monarchy's collapse was not caused by war alone; economic, institutional, ideological, and personal decisions interacted.
+- Agreement to go to war did not represent agreement about the desired regime or outcome.
 - Constitutional use of a veto is not itself proof of treason, even when its political effect is destructive.
 - Real royal duplicity does not validate every allegation about an Austrian Committee or internal conspiracy.
 - Distributed mobilization does not exclude coordination by leaders, clubs, municipal actors, or armed groups.
@@ -56,9 +59,8 @@ France in 1792 shows how constitutional powers can become politically fatal with
 
 ## What Changed
 
-- Added a mechanism connecting military emergency and royal constitutional action to the loss of monarchical legitimacy.
-- Distinguished evidence-backed duplicity from the broader conspiracy system it helped validate.
-- Located the 10 August insurrection as the outcome of cumulative institutional failure and distributed mobilization.
+- The mechanism now starts before battlefield failure, with royal foreign appeals, deliberate veto conflict, and incompatible factional war aims.
+- Cross-factional support is no longer treated as political consensus: each sponsor expected war to defeat a different rival.
 
 ## Related Concepts
 

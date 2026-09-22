@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | 504. The French Revolution: War to the Death (Part 2)
+
+Added source `504-the-french-revolution-war-to-the-death-part-2-glt3201191708`; updated `FrenchRevolution`, `JacquesPierreBrissot`, `Girondins`, `LouisXVI`, `MarieAntoinette`, `MaximilienRobespierre`, `CharlesFrancoisDumouriez`, `MadameRoland`, `MarquisDeLafayette`, `RevolutionaryIdeologicalWar`, `WartimeConstitutionalMonarchyCollapse`, `CrisisValidatedConspiracyPolitics`, `RevolutionaryRomanism`, and index. Core synthesis: economic and constitutional crisis let factions with incompatible objectives converge on war, Brissot fused national regeneration with universal liberation, the crown treated either victory or defeat as a route to restoration, and Robespierre warned that armed missionary politics could produce aggression and military dictatorship. No settled contradiction found; Pillnitz's meaning, faction totals, private motives, force and casualty figures, dialogue, and the Napoleon parallel remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 506. The French Revolution: Massacre at the Palace (Part 4)
 
 Added source `506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163`; created `JacquesPierreBrissot`, `TuileriesInsurrection`, and `WartimeConstitutionalMonarchyCollapse`; and updated `FrenchRevolution`, `LouisXVI`, `MarieAntoinette`, `GeorgesDanton`, `SansCulottes`, `MarquisDeLafayette`, `RevolutionaryTerrorPolitics`, and index. Core synthesis: failed war, economic fear, genuine royal duplicity, royal vetoes, institutional paralysis, the Brunswick threat, sections, and fédérés turned constitutional conflict into the 10 August insurrection and royal suspension, while surveillance, censorship, exceptional justice, and mass arrest formed a coercive bridge toward the September Massacres. No settled contradiction found; Brissot's unsupported wider plot, the first Tuileries gunfire, command responsibility, troop and casualty figures, motives, dialogue, and later recollections remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21464,6 +21468,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today
 
 Added source `defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490`; created `AdahSharma`, `TheKeralaStory`, and `ActingOpportunityReadiness`; updated `ShekharNatarajan`, `TomorrowToday`, `RejectionTolerancePractice`, `StressResponseRecovery`, `ActorAIPerformanceBoundary`, `ActorLikenessAuthorization`, and the index. Core synthesis: acting discipline creates readiness but not access, recognition can compound typecasting and public risk, resilience is better understood as shortened recovery than invulnerability, and AI can widen filmmaking access while intensifying consent and livelihood problems around digital performers and creative work. No settled contradiction found; Sharma's expectation of increasingly human-like AI performance qualifies a durable technical performance moat, while The Kerala Story claims and threat details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

@@ -5,6 +5,7 @@ tags: [politics, conspiracy, crisis, radicalization]
 sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
+  - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -17,11 +18,12 @@ Crisis-validated conspiracy politics occurs when genuine danger or a real hidden
 
 ## Current Synthesis
 
-The September 1792 case shows the pattern before a specific betrayal was confirmed: Prussian invasion, the fall of frontier fortresses, and the Brunswick threat made rumors of prison breakouts, noblemen in sewers, hidden weapons, and coordinated traitors politically actionable. The 1793 Dumouriez case then supplied genuine betrayal that validated Marat's broader worldview, while investigators' insistence that [[CharlotteCorday|Corday]] belonged to a larger plot showed how crisis-trained suspicion could erase lone agency.
+The pattern was visible before invasion. Emigres at Koblenz, officer flight, Marie Antoinette's Austrian ties, currency decline, and royal vetoes were joined by Brissot into one internal-external enemy network; the crown's actual requests for intervention and transmission of military plans then made that broader frame difficult to dislodge without proving every connection. In September 1792, Prussian invasion and fallen fortresses made rumors of prison breakouts and coordinated traitors actionable. Dumouriez's 1793 defection supplied another genuine betrayal, while investigators' insistence that [[CharlotteCorday|Corday]] belonged to a larger plot showed how crisis-trained suspicion could erase lone agency.
 
 ## Key Claims
 
 - Real external threat can make unsupported internal-conspiracy claims feel immediately credible.
+- Political actors can manufacture evidentiary-looking veto conflicts while genuine hidden conduct independently strengthens the resulting enemy narrative.
 - A confirmed betrayal can transfer authority from one allegation to an entire enemy worldview.
 - Repeated official warnings and raids can convert rumor into administrative and popular action.
 - Enemy categories tend to widen from plausible political suspects to criminals and socially marginal people.
@@ -34,6 +36,10 @@ The September 1792 case shows the pattern before a specific betrayal was confirm
 
 - [[544-the-french-revolution-the-september-massacres-part-1-glt8301042051]] connects the Prussian advance and Verdun's fall to rumors, raids, internal-enemy lists, prison panic, and preventive killing.
 
+### Prewar network construction and real duplicity
+
+- [[504-the-french-revolution-war-to-the-death-part-2-glt3201191708]] joins Brissot's integrated enemy narrative to royal vetoes, foreign appeals, and Marie Antoinette's transmission of plans.
+
 ### Dumouriez's defection and Girondin vulnerability
 
 - [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] says Dumouriez attempted action against Paris and defected to Austria, confirming Marat's specific allegation and damaging Girondin credibility.
@@ -45,14 +51,15 @@ The September 1792 case shows the pattern before a specific betrayal was confirm
 ## Counterevidence & Qualifications
 
 - The concept does not imply that revolutionary security fears were delusional; invasion and Dumouriez's conduct were real.
+- A deliberately provoked veto can be politically revealing without proving the full conspiracy alleged around it.
 - Real danger did not establish individual prisoner guilt or validate Marat's wider enemy lists.
 - The source does not reproduce every raid record, destroyed section document, or the full Corday investigation.
 - Some coordination existed in the September killings; rejecting a central command does not mean all action was spontaneous.
 
 ## What Changed
 
-- The concept now includes the earlier pathway from external invasion to unsupported internal-enemy panic.
-- Administrative raids, local killing, and widening victim categories show how conspiracy belief becomes action before a specific plot is confirmed.
+- The concept now begins with the prewar construction of a single court-emigre-Austrian network from mixed evidence.
+- Royal duplicity and Girondin political trapping are separated from the larger conspiracy worldview they jointly made persuasive.
 
 ## Related Concepts
 

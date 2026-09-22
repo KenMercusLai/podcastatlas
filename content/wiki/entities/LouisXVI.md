@@ -6,6 +6,7 @@ sources:
   - 547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
+  - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -18,11 +19,11 @@ Louis XVI was the Bourbon king whose wartime constitutional choices accelerated 
 
 ## Current Profile
 
-The sources present Louis as a constitutional actor, prisoner, accused individual, and political symbol. His vetoes of emergency measures and dismissal of the Girondin ministry were lawful powers used in a context where war made them appear disloyal; his composure during the 20 June palace invasion could not restore legitimacy, and the 10 August insurrection ended effective royal authority. Temple family life then continued under humiliating restrictions while the Convention debated whether the old constitution protected him; the iron safe strengthened the factual case concerning foreign and counterrevolutionary contacts. His later naming, seating, clothing, restraint, execution, and burial destroyed sacred royal exception, while his composed final conduct gave royalists material for a rival martyr memory.
+The sources present Louis as a constitutional actor who never sincerely accepted the constitutional settlement, then as prisoner, accused individual, and political symbol. Before war, he vetoed anti-emigre and anti-priest measures and appealed to foreign powers for intervention, while also hoping conflict would either restore royal authority or end in foreign rescue. His later vetoes of emergency measures and dismissal of the Girondin ministry were lawful powers used in a context where war made them appear disloyal; his composure during the 20 June palace invasion could not restore legitimacy, and the 10 August insurrection ended effective royal authority. Temple family life continued under humiliating restrictions before trial, de-royalization, execution, and rival martyr memory.
 
 ## Key Characteristics
 
-- His vetoes and ministry dismissal made constitutional prerogative appear incompatible with national defence.
+- His vetoes and ministry dismissal made constitutional prerogative appear incompatible with national defence, while his private foreign appeals made the crown's constitutional professions less credible.
 - He remained personally composed during the 20 June invasion but could not recover political trust.
 - The 10 August insurrection forced him to seek Assembly protection and led to suspension and Temple imprisonment.
 - The legal debate moved from constitutional removal to natural-law punishment and claims that kingship itself made him an enemy.
@@ -34,6 +35,7 @@ The sources present Louis as a constitutional actor, prisoner, accused individua
 
 ### Constitutional crisis and suspension
 
+- [[504-the-french-revolution-war-to-the-death-part-2-glt3201191708]] links Louis's insincere constitutional settlement, anti-emigre veto, requests for intervention, and competing expectations of war.
 - [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] traces Louis's vetoes, ministry dismissal, conduct on 20 June, failed alternatives involving Lafayette, departure from the Tuileries, suspension, and imprisonment.
 
 ### Imprisonment and the opening case
@@ -59,13 +61,13 @@ The sources present Louis as a constitutional actor, prisoner, accused individua
 - The “one vote” margin, exact dialogue, final words, private beliefs, and eyewitness scenes remain source-scoped.
 - Composure at death does not decide the truth of the indictment or restore monarchical legitimacy.
 - A constitutional veto was not itself proof of treason, but wartime context made its political cost severe.
+- The source's judgments about Louis's depression, stubbornness, intentions, and political imagination are interpretive character assessments.
 - The exact orders and responsibility surrounding the first Tuileries gunfire remain unclear.
 
 ## What Changed
 
-- The profile now begins with Louis's wartime constitutional choices and failed survival through the 20 June and 10 August confrontations.
-- Suspension and imprisonment are linked directly to distributed insurrection and the collapse of reliable royal force.
-- Lawful prerogative, evidence of wider duplicity, and the later symbolic case against kingship remain analytically distinct.
+- The profile now distinguishes Louis's prewar foreign appeals and rejection of the settlement from the formally lawful vetoes that later carried such political cost.
+- War appears as a royal gamble as well as a Girondin project: victory or defeat could each be imagined as a route back to monarchical power.
 
 ## Relationships
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [504. The French Revolution: War to the Death (Part 2)](sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708.md) — The Rest Is History episode on factional convergence for war, Girondin universalism, royal duplicity, Robespierre's armed-missionary warning, and the declaration against Austria.
 - [Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today](sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490.md) — Tomorrow Today interview on acting preparation, typecasting, The Kerala Story, rejection recovery, embodied stress, and AI's creative-access and labor tradeoffs.
 - [505. The French Revolution: The Shadow of the Guillotine (Part 3)](sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569.md) — The Rest Is History episode on the guillotine's origins in penal equality, humane reform, older execution spectacle, and scalable public killing.
 - [The Effects of Microplastics on Your Health & How to Reduce Them](sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720.md) — Huberman Lab solo episode on particle definitions, human-tissue findings, causal uncertainty, endocrine-active plastic chemicals, and proportionate exposure reduction.
