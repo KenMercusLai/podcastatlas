@@ -21604,3 +21604,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 495. Evita: The Rise of General Perón (Part 2)
+
+Added source `495-evita-the-rise-of-general-peron-part-2-glt1831793233`; updated `EvaPeron`, `JuanPeron`, `Peronism`, and the index. Core synthesis: Perón converted labor administration, union organization, worker benefits, nationalism, spectacle, and emotional performance into mass power, while 17 October 1945 was organized through labor rather than Eva; her later placement at its center is a retrospective founding myth that anticipated her genuine role as Peronism's bridge to the descamisados. The episode qualifies a simple fascist label by separating corporatist and theatrical influence from a fixed ideological identity. The explicit contradiction is with later Peronist and anti-Peronist accounts crediting Eva with organizing 17 October; her exact movements, private motives, relationship details, and altered identity records remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

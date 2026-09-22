@@ -905,14 +905,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 105,
-      "topic_matched_source_note_count": 104,
+      "source_note_count": 106,
+      "topic_matched_source_note_count": 105,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 102
+          "source_note_count": 103
         },
         {
           "key": "politics",
@@ -984,9 +984,9 @@
           "episode_count": 5
         },
         {
-          "key": "GaiusMarius",
-          "title": "Gaius Marius / 马略",
-          "url": "/wiki/entities/gaiusmarius/",
+          "key": "EvaPeron",
+          "title": "Eva Perón",
+          "url": "/wiki/entities/evaperon/",
           "kind": "person",
           "episode_count": 4
         }

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [495. Evita: The Rise of General Perón (Part 2)](sources/495-evita-the-rise-of-general-peron-part-2-glt1831793233.md) — The Rest Is History episode on Perón's labor strategy, Eva's political formation, 17 October 1945, and the retrospective construction of a Peronist founding myth.
 - [496. Evita: The World's Most Powerful Woman (Part 3)](sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328.md) — The Rest Is History episode on Evita's welfare brokerage, glamour, women's mobilization, foundation, and Peronism's elective-authoritarian drift.
 - [How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión](sources/how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481.md) — Huberman Lab interview on pediatric PTSD, conditioned cues, developmental differential diagnosis, cue-centered therapy, stress biology, and school-based prevention.
 - [VOL.134心累？别硬撑！心力衰竭危机四伏](sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj.md) — 这病说来话长 episode on heart-failure risk, symptoms, diagnosis, cause-directed treatment, medication boundaries, daily monitoring, and urgent escalation.
