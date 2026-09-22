@@ -38805,6 +38805,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
+    "EndocrineDisruptorExposureReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6175232531 [SCIM6175232531].md",
+          "key": "how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531",
+          "show": "Huberman Lab",
+          "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
+          "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/endocrinedisruptorexposurereduction/"
+    },
     "EndoscopyPathologyFollowup": {
       "episode_count": 1,
       "show_count": 1,
@@ -39331,9 +39347,9 @@
       "url": "/wiki/entities/enverpasha/"
     },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8971920142 [SCIM8971920142].md",
@@ -39341,6 +39357,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hormones Shape Sexual Development",
           "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
+        },
+        {
+          "episode_file": "SCIM6175232531 [SCIM6175232531].md",
+          "key": "how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531",
+          "show": "Huberman Lab",
+          "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
+          "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
         }
       ],
       "updated": "2026-09-22",
@@ -109881,9 +109904,9 @@
       "url": "/wiki/concepts/sexsteroidfeedbackregulation/"
     },
     "SexualDifferentiationPathway": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8971920142 [SCIM8971920142].md",
@@ -109891,6 +109914,13 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hormones Shape Sexual Development",
           "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
+        },
+        {
+          "episode_file": "SCIM6175232531 [SCIM6175232531].md",
+          "key": "how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531",
+          "show": "Huberman Lab",
+          "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
+          "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
         }
       ],
       "updated": "2026-09-22",
@@ -110752,6 +110782,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/shangyejiushizheyang/"
+    },
+    "ShannaSwan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6175232531 [SCIM6175232531].md",
+          "key": "how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531",
+          "show": "Huberman Lab",
+          "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
+          "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/shannaswan/"
     },
     "ShanshanKingdomLateHan": {
       "episode_count": 3,

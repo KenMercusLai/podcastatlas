@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10500
+wiki_total_pages: 10501
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -560,6 +560,9 @@ wiki_pages:
   - key: "Shangzhixing"
     title: "Shangzhixing"
     url: "/wiki/entities/shangzhixing/"
+  - key: "ShannaSwan"
+    title: "Shanna Swan"
+    url: "/wiki/entities/shannaswan/"
   - key: "Shantou"
     title: "Shantou / 汕头"
     url: "/wiki/entities/shantou/"

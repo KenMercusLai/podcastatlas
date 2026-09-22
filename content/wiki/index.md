@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan](sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531.md) — Huberman Lab interview on endocrine disruptors, prenatal development, human biomarker evidence, sperm-count trends, and proportionate household exposure reduction.
 - [VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招](sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb.md) — 这病说来话长 episode on individualized checkup selection, contextual report interpretation, screening burden, and continuity of abnormal-finding follow-up.
 - [512. America in '68: The Chicago Riots (Part 5)](sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495.md) — The Rest Is History episode on the 1968 Democratic convention, Yippie spectacle, police violence, party collapse, television framing, and law-and-order fallout.
 - [How Relationships Shape Your Brain | Dr. Allan Schore](sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719.md) — Huberman Lab interview on early attachment as affect regulation, self- and interactive regulation, misattunement repair, implicit communication, and therapeutic synchrony.
@@ -2689,6 +2690,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Shanna Swan](entities/ShannaSwan.md) — Reproductive epidemiologist studying endocrine-active exposures, prenatal development, anogenital distance, semen quality, and sperm-count trends.
 - [李伟聪 / Li Weicong](entities/LiWeicong.md) — Health-management physician explaining risk-based checkups and report interpretation in VOL.139.
 - [航天中心医院 / Aerospace Center Hospital](entities/AerospaceCenterHospital.md) — Public-hospital and health-management context named in VOL.139.
 - [1968 Democratic National Convention in Chicago](entities/Chicago1968DemocraticConvention.md) — Convention crisis joining Democratic division, anti-war protest, police violence, and television politics.
@@ -13199,6 +13201,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Endocrine-Disruptor Exposure Reduction](concepts/EndocrineDisruptorExposureReduction.md) — Precautionary hierarchy for reducing repeated food, fragrance, plastic, and cookware exposures without claiming guaranteed clinical benefit.
 - [个体化预防性体检选择 / Individualized Preventive Checkup Selection](concepts/IndividualizedPreventiveCheckupSelection.md) — Baseline-plus-targeted framework using personal risk, history, symptoms, and prior findings instead of package maximalism.
 - [体检结果情境化解读 / Screening Result Interpretation](concepts/ScreeningResultInterpretation.md) — Reading screening signals through magnitude, trend, reference system, symptoms, and multimodal evidence.
 - [异常发现随访连续性 / Abnormal Finding Follow-up Continuity](concepts/AbnormalFindingFollowupContinuity.md) — Preserving surveillance of known abnormalities until qualified reassessment changes the plan.

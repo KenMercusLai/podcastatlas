@@ -21370,3 +21370,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] ingest | VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招
 
 Added source `vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb`; created `LiWeicong`, `AerospaceCenterHospital`, `IndividualizedPreventiveCheckupSelection`, `ScreeningResultInterpretation`, and `AbnormalFindingFollowupContinuity`; updated `PreventiveHealthScreening`, `MedicalDiagnosticReasoning`, `ZheBingShuoLaiHuaChang`, and the index. Core synthesis: useful checkups combine a reasonable baseline with targeted additions based on personal risk, treat isolated flags as context-dependent signals rather than diagnoses, and preserve follow-up of known abnormalities across annual package choices. No settled contradiction found; thresholds, test intervals, disease-age trends, advanced testing, institution comparisons, and case anecdotes remain source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] ingest | How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan
+
+Added source `how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531`; created `ShannaSwan` and `EndocrineDisruptorExposureReduction`; updated `EnvironmentalEndocrineDisruptionEvidenceBoundary`, `SexualDifferentiationPathway`, and the index. Core synthesis: animal developmental hazards, human biomarker associations, reported replication, semen trends, demographic fertility, and household precautions belong to different evidence layers; Swan's work strengthens the human translational evidence without making anogenital distance diagnostic or establishing a single chemical cause of individual infertility. No settled contradiction found. Population trends, behavioral findings, persistence claims, policy comparisons, product swaps, and assisted-reproduction implications remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

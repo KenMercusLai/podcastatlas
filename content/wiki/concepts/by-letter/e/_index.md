@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7871
+wiki_total_pages: 7872
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "EndOfLifeAutonomyAndDignity"
     title: "End-of-Life Autonomy And Dignity"
     url: "/wiki/concepts/endoflifeautonomyanddignity/"
+  - key: "EndocrineDisruptorExposureReduction"
+    title: "Endocrine-Disruptor Exposure Reduction"
+    url: "/wiki/concepts/endocrinedisruptorexposurereduction/"
   - key: "EndogenousMoneyCreation"
     title: "Endogenous Money Creation / 内生货币"
     url: "/wiki/concepts/endogenousmoneycreation/"
