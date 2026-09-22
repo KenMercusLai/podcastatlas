@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [489. Hundred Years' War: Bloodbath at Agincourt (Part 3)](sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192.md) — The Rest Is History episode on Henry V's command, Agincourt's mud, woods, archers, stakes, French coordination failure, prisoner killing, disputed numbers, and Shakespearean memory.
 - [How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki](sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563.md) — Huberman Lab interview on cynicism, hopeful skepticism, trust reciprocity, social misprediction, media negativity, workplace cooperation, and perceived political polarization.
 - [490. Hundred Years' War: England Triumphant (Part 4)](sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762.md) — The Rest Is History episode on Agincourt's aftermath, Henry V's conquest of Normandy, French factional collapse, the Treaty of Troyes, and the fragility of dual monarchy.
 - [491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)](sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613.md) — The Rest Is History episode on facial hair as a changing code of kingship, purity, masculinity, philosophy, religion, imperial order, and clerical reform.
@@ -13319,6 +13320,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Terrain-Constrained Combined Arms](concepts/TerrainConstrainedCombinedArms.md) — Interaction model showing how terrain, weather, frontage, obstacles, troop roles, timing, and command structure determine whether a battle plan can function.
 - [Cynicism and Hopeful Skepticism](concepts/CynicismAndHopefulSkepticism.md) — Distinction between fixed negative assumptions about people and a curious, evidence-updating approach to social uncertainty.
 - [Trust Reciprocity Loop](concepts/TrustReciprocityLoop.md) — Feedback process through which trust or guardedness changes counterpart behavior and the evidence available for future belief.
 - [Perceived Polarization Gap](concepts/PerceivedPolarizationGap.md) — Difference between imagined rival extremity and representative evidence about political attitudes, hostility, and violence support.

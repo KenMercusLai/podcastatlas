@@ -21699,3 +21699,11 @@ Added source `how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 489. Hundred Years' War: Bloodbath at Agincourt (Part 3)
+
+Added source `489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192`; created `TerrainConstrainedCombinedArms`; and updated `HenryVOfEngland`, `BattleOfAgincourt`, `HundredYearsWar`, `HenryVPlay`, `ShakespeareHistoryPlayPoliticalMemory`, `LancastrianLegitimacy`, and the index. Core synthesis: Agincourt is best explained as an interaction among Henry's cohesion and initiative, archers and stakes, wet clay and narrowing woods, French cavalry disruption, compressed infantry, and command precedence rather than a single wonder weapon or simple French incompetence. Shakespeare amplified an earlier outnumbered-army tradition, while disputed force ratios and Henry's prisoner-killing order qualify the heroic memory. No settled contradiction found. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

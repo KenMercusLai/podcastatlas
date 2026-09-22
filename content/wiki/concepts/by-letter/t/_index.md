@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7941
+wiki_total_pages: 7942
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "TerminalValueNarrative"
     title: "Terminal Value Narrative / 终局空间叙事"
     url: "/wiki/concepts/terminalvaluenarrative/"
+  - key: "TerrainConstrainedCombinedArms"
+    title: "Terrain-Constrained Combined Arms"
+    url: "/wiki/concepts/terrainconstrainedcombinedarms/"
   - key: "TerritorialControlChurn"
     title: "Territorial Control Churn / 城池反复易手"
     url: "/wiki/concepts/territorialcontrolchurn/"

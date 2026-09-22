@@ -12452,9 +12452,9 @@
       "url": "/wiki/concepts/batterysupplierdiversification/"
     },
     "BattleOfAgincourt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -12462,6 +12462,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
         }
       ],
       "updated": "2026-09-23",
@@ -57692,9 +57699,9 @@
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryVOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -57702,15 +57709,22 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
         }
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/henryvofengland/"
     },
     "HenryVPlay": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
@@ -57718,9 +57732,16 @@
           "show": "忽左忽右",
           "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
           "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        },
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/henryvplay/"
     },
     "HeqinPrincessSuccessionEntrapment": {
@@ -62152,9 +62173,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -62169,6 +62190,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
         }
       ],
       "updated": "2026-09-23",
@@ -71946,9 +71974,9 @@
       "url": "/wiki/entities/lambdalabs/"
     },
     "LancastrianLegitimacy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -71956,6 +71984,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
         }
       ],
       "updated": "2026-09-23",
@@ -113136,9 +113171,9 @@
       "url": "/wiki/entities/shakespeareandcompany/"
     },
     "ShakespeareHistoryPlayPoliticalMemory": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
@@ -113146,9 +113181,16 @@
           "show": "忽左忽右",
           "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
           "url": "/wiki/sources/495-lu-da-peng-tan-sha-shi-bi-ya-xi-ju-yu-ying-guo-li-shi-de-hu-xiang-ying-xiang-lthqtli5t6jsfn38mjtitzpoq3oo/"
+        },
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/shakespearehistoryplaypoliticalmemory/"
     },
     "ShanBingLateHan": {
@@ -124569,6 +124611,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/terminalvaluenarrative/"
+    },
+    "TerrainConstrainedCombinedArms": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5834061192 [GLT5834061192].md",
+          "key": "489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192",
+          "show": "The Rest Is History",
+          "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
+          "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/terrainconstrainedcombinedarms/"
     },
     "TerrorRuleBackfire": {
       "episode_count": 3,
