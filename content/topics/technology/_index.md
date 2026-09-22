@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3115
+topic_total_pages: 3116
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2236,6 +2236,9 @@ topic_concepts:
   - key: "GuideRobotDogs"
     title: "Guide Robot Dogs"
     url: "/wiki/concepts/guiderobotdogs/"
+  - key: "GuillotineReformSpectacleParadox"
+    title: "Guillotine Reform-Spectacle Paradox"
+    url: "/wiki/concepts/guillotinereformspectacleparadox/"
   - key: "GulfStrategicDiversification"
     title: "Gulf Strategic Diversification"
     url: "/wiki/concepts/gulfstrategicdiversification/"

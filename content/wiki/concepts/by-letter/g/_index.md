@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7889
+wiki_total_pages: 7890
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "GuideRobotDogs"
     title: "Guide Robot Dogs"
     url: "/wiki/concepts/guiderobotdogs/"
+  - key: "GuillotineReformSpectacleParadox"
+    title: "Guillotine Reform-Spectacle Paradox"
+    url: "/wiki/concepts/guillotinereformspectacleparadox/"
   - key: "GuiltBasedRelationalControl"
     title: "Guilt-Based Relational Control / 内疚式关系控制"
     url: "/wiki/concepts/guiltbasedrelationalcontrol/"

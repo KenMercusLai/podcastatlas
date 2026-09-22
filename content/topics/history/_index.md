@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1929
+topic_total_pages: 1930
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4572,6 +4572,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569"
+    title: "505. The French Revolution: The Shadow of the Guillotine (Part 3)"
+    url: "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
   - key: "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163"
     title: "506. The French Revolution: Massacre at the Palace (Part 4)"
     url: "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"

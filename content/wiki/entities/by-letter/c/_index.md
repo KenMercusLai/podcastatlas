@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10515
+wiki_total_pages: 10521
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "CharlesXII"
     title: "Charles XII / 卡尔十二世"
     url: "/wiki/entities/charlesxii/"
+  - key: "CharlesHenriSanson"
+    title: "Charles-Henri Sanson"
+    url: "/wiki/entities/charleshenrisanson/"
   - key: "CharlieChaplin"
     title: "Charlie Chaplin / 卓别林"
     url: "/wiki/entities/charliechaplin/"

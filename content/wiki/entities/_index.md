@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10515
+wiki_total_pages: 10521
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "AntoineLavoisier"
     title: "Antoine Lavoisier / 拉瓦锡"
     url: "/wiki/entities/antoinelavoisier/"
+  - key: "AntoineLouis"
+    title: "Antoine Louis"
+    url: "/wiki/entities/antoinelouis/"
   - key: "AntonLaGuardia"
     title: "Anton LaGuardia"
     url: "/wiki/entities/antonlaguardia/"

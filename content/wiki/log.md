@@ -21452,3 +21452,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 505. The French Revolution: The Shadow of the Guillotine (Part 3)
+
+Added source `505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569`; created `JosephIgnaceGuillotin`, `CharlesHenriSanson`, `RobertFrancoisDamiens`, `AntoineLouis`, `TobiasSchmidt`, `NicolasJacquesPelletier`, and `GuillotineReformSpectacleParadox`; updated `FrenchRevolution`, `MaximilienRobespierre`, `CapitalPunishmentRetributionProblem`, and the index. Core synthesis: the guillotine joined abolition-minded and egalitarian reform to the older public spectacle of punishment, reducing some suffering and status distinction while increasing reliability, repeatability, and administrative scale. No settled contradiction found; “humane” remains comparative, pre-machine revolutionary violence prevents technological determinism, and execution totals, crowd reactions, roles, privileges, dialogue, and cultural contrasts remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

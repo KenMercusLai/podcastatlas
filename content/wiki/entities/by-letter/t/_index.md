@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10515
+wiki_total_pages: 10521
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "TobiasLutke"
     title: "Tobias Lütke"
     url: "/wiki/entities/tobiaslutke/"
+  - key: "TobiasSchmidt"
+    title: "Tobias Schmidt"
+    url: "/wiki/entities/tobiasschmidt/"
   - key: "TocquevilleRoadTrip"
     title: "Tocqueville Road Trip"
     url: "/wiki/entities/tocquevilleroadtrip/"

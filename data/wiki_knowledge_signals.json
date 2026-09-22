@@ -8653,6 +8653,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/antisemitismisraelcriticismboundary/"
     },
+    "AntoineLouis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/antoinelouis/"
+    },
     "AntonOsika": {
       "episode_count": 1,
       "show_count": 1,
@@ -17892,6 +17908,29 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/capitalexemplargovernance/"
     },
+    "CapitalPunishmentRetributionProblem": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "sp.04 【刘擎x林垚】＂枪杀医保巨头＂案背后的思考(上)：关于民粹、私刑和死刑 [790230209].md",
+          "key": "sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209",
+          "show": "蜜獾吃书",
+          "title": "sp.04 【刘擎x林垚】“枪杀医保巨头”案背后的思考(上)：关于民粹、私刑和死刑",
+          "url": "/wiki/sources/sp-04-liuqing-linyao-qiangsha-yibao-jutou-an-beihou-de-sikao-shang-guanyu-mincui-sixing-he-sixing-790230209/"
+        },
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/capitalpunishmentretributionproblem/"
+    },
     "CapitalizedResearchProcess": {
       "episode_count": 1,
       "show_count": 1,
@@ -19141,6 +19180,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/charlesfrancoisdumouriez/"
+    },
+    "CharlesHenriSanson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/charleshenrisanson/"
     },
     "CharlesXII": {
       "episode_count": 3,
@@ -46081,9 +46136,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -46140,6 +46195,13 @@
           "show": "The Rest Is History",
           "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
           "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
+        },
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
         }
       ],
       "updated": "2026-09-23",
@@ -52579,6 +52641,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/guiderobotdogs/"
+    },
+    "GuillotineReformSpectacleParadox": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/guillotinereformspectacleparadox/"
     },
     "GuoGongEasternHanJurist": {
       "episode_count": 1,
@@ -67475,6 +67553,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/josephconrad/"
+    },
+    "JosephIgnaceGuillotin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/josephignaceguillotin/"
     },
     "JosephStiglitz": {
       "episode_count": 1,
@@ -82993,9 +83087,9 @@
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -83031,6 +83125,13 @@
           "show": "The Rest Is History",
           "title": "544. The French Revolution: The September Massacres (Part 1)",
           "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        },
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
         }
       ],
       "updated": "2026-09-22",
@@ -89246,6 +89347,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/nicolasdecondorcet/"
+    },
+    "NicolasJacquesPelletier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/nicolasjacquespelletier/"
     },
     "NicolasMaduro": {
       "episode_count": 4,
@@ -106416,6 +106533,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/robertfkennedy/"
+    },
+    "RobertFrancoisDamiens": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/robertfrancoisdamiens/"
     },
     "RobertGraves": {
       "episode_count": 1,
@@ -124321,6 +124454,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/toagentdistribution/"
+    },
+    "TobiasSchmidt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1620539569 [GLT1620539569].md",
+          "key": "505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569",
+          "show": "The Rest Is History",
+          "title": "505. The French Revolution: The Shadow of the Guillotine (Part 3)",
+          "url": "/wiki/sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/tobiasschmidt/"
     },
     "TokenRevenueBuybackModel": {
       "episode_count": 1,

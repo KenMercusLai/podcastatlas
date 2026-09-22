@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [505. The French Revolution: The Shadow of the Guillotine (Part 3)](sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569.md) — The Rest Is History episode on the guillotine's origins in penal equality, humane reform, older execution spectacle, and scalable public killing.
 - [The Effects of Microplastics on Your Health & How to Reduce Them](sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720.md) — Huberman Lab solo episode on particle definitions, human-tissue findings, causal uncertainty, endocrine-active plastic chemicals, and proportionate exposure reduction.
 - [VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南](sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5.md) — 这病说来话长 episode on illegal injectables, provider verification, procedure scope, sales-led consultation, risk-benefit tradeoffs, recovery, and medical-aesthetic expectation management.
 - [506. The French Revolution: Massacre at the Palace (Part 4)](sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163.md) — The Rest Is History episode on war failure, royal distrust, popular mobilization, the Tuileries insurrection, monarchical suspension, and the coercive emergency that followed.
@@ -9860,10 +9861,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
-- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining wartime monarchical collapse, republican founding, contested citizenship, popular violence, regicide, and terror.
+- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining penal reform, public punishment, wartime monarchical collapse, republican founding, contested citizenship, regicide, and terror.
+- [Joseph-Ignace Guillotin](entities/JosephIgnaceGuillotin.md) — Physician and abolition-minded reformer whose equal mechanical-execution proposal gave the guillotine his name.
+- [Charles-Henri Sanson](entities/CharlesHenriSanson.md) — Hereditary Paris executioner whose career and expertise bridged royal and revolutionary punishment.
+- [Robert-François Damiens](entities/RobertFrancoisDamiens.md) — Would-be regicide whose exceptionally cruel 1757 execution became a landmark in penal-reform history.
+- [Antoine Louis](entities/AntoineLouis.md) — Physician who translated uniform beheading into a technical mechanical design.
+- [Tobias Schmidt](entities/TobiasSchmidt.md) — German piano maker who built and tested the decapitation machine supervised by Antoine Louis.
+- [Nicolas-Jacques Pelletier](entities/NicolasJacquesPelletier.md) — Armed robber and first person officially executed by guillotine in April 1792.
 - [Girondins / 吉伦特派](entities/Girondins.md) — Moderate republican faction whose conflict with Jacobins and sympathy from Corday shape the episode's factional history.
 - [Jacobin Club / 雅各宾俱乐部](entities/JacobinClub.md) — Revolutionary club and factional milieu tied in episode 125 to Marat, Robespierre, Danton, virtue politics, and terror.
-- [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Jacobin leader used by episode 125 to connect virtue language, romantic politics, and revolutionary terror.
+- [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Revolutionary leader whose arc runs from pre-revolutionary death-penalty skepticism to regicide, insurrection, and terror politics.
 - [Georges Danton / 丹东](entities/GeorgesDanton.md) — Radical organizer and emergency leader whose rise joined the August insurrection, justice ministry, September crisis, and later public-safety government.
 - [Jacques-Louis David / 雅克-路易·大卫](entities/JacquesLouisDavid.md) — Revolutionary painter whose The Death of Marat becomes the episode's case in martyrdom image-making.
 - [The Death of Marat / 《马拉之死》](entities/DeathOfMaratPainting.md) — David painting read by episode 125 as a political image that sanctifies Marat and omits Corday.
@@ -18507,7 +18514,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Change Election Politics](concepts/ChangeElectionPolitics.md) — Electoral environment where voters reward credible disruption or renewal over continuity and managerial competence.
 - [Midterm Backlash Forecasting](concepts/MidtermBacklashForecasting.md) — Forecasting frame that separates national anti-incumbent mood from House and Senate map mechanics.
 - [Generational Socialism Appeal](concepts/GenerationalSocialismAppeal.md) — Explanation for why socialist or left-populist language can sound more attractive to younger voters under affordability pressure.
-- [Capital Punishment Retribution Problem](concepts/CapitalPunishmentRetributionProblem.md) — Death-penalty argument about lex talionis, irreversibility, state violence, and sentencing contingency.
+- [Capital Punishment Retribution Problem](concepts/CapitalPunishmentRetributionProblem.md) — Death-penalty argument about retribution, irreversibility, state violence, sentencing contingency, and reform without abolition.
+- [Guillotine Reform-Spectacle Paradox](concepts/GuillotineReformSpectacleParadox.md) — Transformation of humane, egalitarian penal reform into rapid, repeatable, public state killing.
 - [Chinese Zodiac / 十二生肖](concepts/ChineseZodiac.md) — Animal-cycle frame used by the dragon and horse episodes to connect timekeeping, folklore, animal symbolism, and origin-evidence caution.
 - [Chinese Dragon Mythic Layering / 中国龙神话层累](concepts/ChineseDragonMythicLayering.md) — Episode 127 frame for reading dragon imagery as accumulated shape, weather, water, ritual, Buddhist, imperial, and folk layers.
 - [Chinese Dragon Imperial Symbolism / 中国龙的皇权符号化](concepts/ChineseDragonImperialSymbolism.md) — Gradual process by which dragon imagery became a dense imperial visual marker through vehicles, robes, bans, imitation, and Qing court display.
