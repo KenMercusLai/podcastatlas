@@ -7376,9 +7376,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 42,
+      "episode_count": 43,
       "show_count": 1,
-      "source_note_count": 42,
+      "source_note_count": 43,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7673,9 +7673,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hormones Shape Sexual Development",
           "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
+        },
+        {
+          "episode_file": "SCIM4809756720 [SCIM4809756720].md",
+          "key": "the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720",
+          "show": "Huberman Lab",
+          "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
+          "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrewLoogOldham": {
@@ -38914,9 +38921,9 @@
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
     },
     "EndocrineDisruptorExposureReduction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6175232531 [SCIM6175232531].md",
@@ -38924,9 +38931,16 @@
           "show": "Huberman Lab",
           "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
           "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
+        },
+        {
+          "episode_file": "SCIM4809756720 [SCIM4809756720].md",
+          "key": "the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720",
+          "show": "Huberman Lab",
+          "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
+          "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/endocrinedisruptorexposurereduction/"
     },
     "EndoscopyPathologyFollowup": {
@@ -39455,9 +39469,9 @@
       "url": "/wiki/entities/enverpasha/"
     },
     "EnvironmentalEndocrineDisruptionEvidenceBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8971920142 [SCIM8971920142].md",
@@ -39472,9 +39486,16 @@
           "show": "Huberman Lab",
           "title": "How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan",
           "url": "/wiki/sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531/"
+        },
+        {
+          "episode_file": "SCIM4809756720 [SCIM4809756720].md",
+          "key": "the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720",
+          "show": "Huberman Lab",
+          "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
+          "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/environmentalendocrinedisruptionevidenceboundary/"
     },
     "EnvironmentalExposureSignalDetection": {
@@ -59792,9 +59813,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 42,
+      "episode_count": 43,
       "show_count": 1,
-      "source_note_count": 42,
+      "source_note_count": 43,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -60089,9 +60110,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Hormones Shape Sexual Development",
           "url": "/wiki/sources/essentials-how-hormones-shape-sexual-development-scim8971920142/"
+        },
+        {
+          "episode_file": "SCIM4809756720 [SCIM4809756720].md",
+          "key": "the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720",
+          "show": "Huberman Lab",
+          "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
+          "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
@@ -84763,6 +84791,38 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/microntechnology/"
+    },
+    "MicroplasticExposureReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4809756720 [SCIM4809756720].md",
+          "key": "the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720",
+          "show": "Huberman Lab",
+          "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
+          "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/microplasticexposurereduction/"
+    },
+    "MicroplasticHumanHealthEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4809756720 [SCIM4809756720].md",
+          "key": "the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720",
+          "show": "Huberman Lab",
+          "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
+          "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/microplastichumanhealthevidence/"
     },
     "Microsoft": {
       "episode_count": 23,

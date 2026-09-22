@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Effects of Microplastics on Your Health & How to Reduce Them](sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720.md) — Huberman Lab solo episode on particle definitions, human-tissue findings, causal uncertainty, endocrine-active plastic chemicals, and proportionate exposure reduction.
 - [VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南](sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5.md) — 这病说来话长 episode on illegal injectables, provider verification, procedure scope, sales-led consultation, risk-benefit tradeoffs, recovery, and medical-aesthetic expectation management.
 - [506. The French Revolution: Massacre at the Palace (Part 4)](sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163.md) — The Rest Is History episode on war failure, royal distrust, popular mobilization, the Tuileries insurrection, monarchical suspension, and the coercive emergency that followed.
 - [507. The French Revolution: The Marseillaise, Song of War (Part 5)](sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124.md) — The Rest Is History episode on La Marseillaise, citizen-volunteers, Roman republican imagery, David's visual culture, and revolutionary dress.
@@ -13223,6 +13224,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Microplastic Human-Health Evidence](concepts/MicroplasticHumanHealthEvidence.md) — Evidence ladder separating particle detection, mechanisms, associations, and causal human disease claims.
+- [Microplastic Exposure Reduction](concepts/MicroplasticExposureReduction.md) — Precautionary hierarchy for heated plastic, bottled water, food contact, filtration, and bounded excretion claims.
 - [Wartime Constitutional Monarchy Collapse](concepts/WartimeConstitutionalMonarchyCollapse.md) — Process joining military failure, executive obstruction or duplicity, economic distress, institutional paralysis, and armed popular mobilization.
 - [Revolutionary Romanism](concepts/RevolutionaryRomanism.md) — French revolutionary reuse of early Roman republican people, virtues, objects, and civic settings.
 - [Revolutionary Dress as Political Identity](concepts/RevolutionaryDressPoliticalIdentity.md) — Clothing, grooming, and wearable symbols as visible claims about class, liberty, and allegiance.

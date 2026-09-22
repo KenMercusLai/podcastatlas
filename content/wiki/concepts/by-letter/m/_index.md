@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7887
+wiki_total_pages: 7889
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -617,6 +617,12 @@ wiki_pages:
   - key: "MicrohistoryFromHostileArchives"
     title: "Microhistory From Hostile Archives"
     url: "/wiki/concepts/microhistoryfromhostilearchives/"
+  - key: "MicroplasticExposureReduction"
+    title: "Microplastic Exposure Reduction"
+    url: "/wiki/concepts/microplasticexposurereduction/"
+  - key: "MicroplasticHumanHealthEvidence"
+    title: "Microplastic Human-Health Evidence"
+    url: "/wiki/concepts/microplastichumanhealthevidence/"
   - key: "Microsoft365CopilotAdoption"
     title: "Microsoft 365 Copilot Adoption"
     url: "/wiki/concepts/microsoft365copilotadoption/"
