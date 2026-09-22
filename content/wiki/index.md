@@ -2726,6 +2726,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
+- [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 
 ## Entities
 - [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
@@ -21262,5 +21263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Contextual Episodic Memory](concepts/ContextualEpisodicMemory.md) — Binding of people, objects, place, time, and state into situated events segmented by context and event boundaries.
 - [Curiosity-Driven Memory Encoding](concepts/CuriosityDrivenMemoryEncoding.md) — Appraisal-and-motivation frame in which curiosity may improve sought and incidental memory while fMRI activity remains distinct from direct dopamine measurement.
+- [Magnetic Resonance Safety and Appropriateness / 磁共振安全与适应证](concepts/MagneticResonanceSafetyAndAppropriateness.md) — MRI framework joining exact device and implant compatibility with pregnancy, pediatric sedation, clinical indication, scan scope, and local protocol.
+- [Clinical History Disclosure / 临床病史如实告知](concepts/ClinicalHistoryDisclosure.md) — Patient-safety practice linking truthful and collateral history to diagnostic speed, anesthesia decisions, confidentiality, and clinical trust.
 
 ## Syntheses

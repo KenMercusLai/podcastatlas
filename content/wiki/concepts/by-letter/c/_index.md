@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7936
+wiki_total_pages: 7938
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "ClinicalDevelopmentCapability"
     title: "Clinical Development Capability"
     url: "/wiki/concepts/clinicaldevelopmentcapability/"
+  - key: "ClinicalHistoryDisclosure"
+    title: "Clinical History Disclosure / 临床病史如实告知"
+    url: "/wiki/concepts/clinicalhistorydisclosure/"
   - key: "ClinicalMusicTherapy"
     title: "Clinical Music Therapy"
     url: "/wiki/concepts/clinicalmusictherapy/"

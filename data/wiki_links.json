@@ -14127,6 +14127,10 @@
     "title": "Clinical Development Capability",
     "url": "/wiki/concepts/clinicaldevelopmentcapability/"
   },
+  "ClinicalHistoryDisclosure": {
+    "title": "Clinical History Disclosure / 临床病史如实告知",
+    "url": "/wiki/concepts/clinicalhistorydisclosure/"
+  },
   "ClinicalMusicTherapy": {
     "title": "Clinical Music Therapy",
     "url": "/wiki/concepts/clinicalmusictherapy/"
@@ -41490,6 +41494,10 @@
   "MagnaCarta": {
     "title": "Magna Carta / 大宪章",
     "url": "/wiki/entities/magnacarta/"
+  },
+  "MagneticResonanceSafetyAndAppropriateness": {
+    "title": "Magnetic Resonance Safety and Appropriateness / 磁共振安全与适应证",
+    "url": "/wiki/concepts/magneticresonancesafetyandappropriateness/"
   },
   "Magnify": {
     "title": "Magnify",
@@ -79858,6 +79866,10 @@
   "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
     "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
     "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  },
+  "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq": {
+    "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+    "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
   },
   "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh": {
     "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",

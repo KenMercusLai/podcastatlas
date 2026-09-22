@@ -3430,7 +3430,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 52,
+      "source_note_count": 53,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3459,6 +3459,13 @@
           "url": "/wiki/entities/atang/",
           "kind": "person",
           "episode_count": 19
+        },
+        {
+          "key": "ZihanDoctor",
+          "title": "子涵医生 / Zihan Doctor",
+          "url": "/wiki/entities/zihandoctor/",
+          "kind": "person",
+          "episode_count": 3
         },
         {
           "key": "YueWanrou",
@@ -3499,13 +3506,6 @@
           "key": "NanJiHe",
           "title": "南基贺 / Nan Jihe",
           "url": "/wiki/entities/nanjihe/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "DabaNiuTeacher",
-          "title": "大白牛老师 / Daba Niu Teacher",
-          "url": "/wiki/entities/dabaniuteacher/",
           "kind": "person",
           "episode_count": 2
         }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7936
+wiki_total_pages: 7938
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -59,6 +59,9 @@ wiki_pages:
   - key: "MagazineReadingEcology"
     title: "Magazine Reading Ecology / 杂志阅读生态"
     url: "/wiki/concepts/magazinereadingecology/"
+  - key: "MagneticResonanceSafetyAndAppropriateness"
+    title: "Magnetic Resonance Safety and Appropriateness / 磁共振安全与适应证"
+    url: "/wiki/concepts/magneticresonancesafetyandappropriateness/"
   - key: "MainContradictionAllocation"
     title: "Main Contradiction Allocation / 主要矛盾式资产配置"
     url: "/wiki/concepts/maincontradictionallocation/"

@@ -21419,6 +21419,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？
+
+Added source `vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq`; created `MagneticResonanceSafetyAndAppropriateness` and `ClinicalHistoryDisclosure`; updated `PreoperativeAnesthesiaAssessment`, `PerioperativeAnesthesiaSafety`, `ZheBingShuoLaiHuaChang`, `ZihanDoctor`, `WuLaoshiZheBing`, and index. Core synthesis: MRI decisions require exact device compatibility and a justified clinical question, truthful or collateral history shortens diagnosis and protects anesthesia safety, and fasting, urinary-catheter use, and other perioperative steps follow aspiration and procedure risk rather than semantic loopholes or one-size-fits-all rules. No settled contradiction found; implant compatibility, pregnancy and pediatric imaging, sedation, catheter use, fasting, anesthesia effects, safeguarding, platform rules, and hospital workflow remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普
 
 Added source `vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh`; created `BingeOralDoctor`, `LifecycleOralHealthPrevention`, `OralCareProductTreatmentBoundary`, `DentalAestheticTreatmentBoundary`, and `DentalProviderQualificationAssessment`; updated `ZheBingShuoLaiHuaChang`, `OralMicrobiomePreventiveCare`, `ToothDemineralizationRemineralization`, `OralAirwayDevelopment`, and the index. Core synthesis: oral health is a life-course prevention and qualified-care process, while toothpaste, rinses, whitening products, devices, and research-stage repair ideas remain adjuncts rather than substitutes for cause-directed diagnosis or treatment. No settled contradiction found; product efficacy, clinical intervals, aesthetic risks, airway pathways, and treatment choices remain source-scoped public education rather than individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21679,6 +21683,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 490. Hundred Years' War: England Triumphant (Part 4)
 
 Added source `490-hundred-years-war-england-triumphant-part-4-glt2692942762`; created `HenryVOfEngland`, `CharlesVIOfFrance`, `CharlesVIIOfFrance`, `CatherineOfValois`, `JohnTheFearless`, `PhilipTheGood`, `Normandy`, `BattleOfAgincourt`, `TreatyOfTroyes`, `ArmagnacBurgundianCivilWar`, `LancastrianLegitimacy`, and `AngloFrenchDualMonarchy`; updated `HundredYearsWar` and the index. Core synthesis: Agincourt joined severe French elite destruction to providential national myth and Lancastrian stabilization, while Normandy's conquest, French civil conflict, and Montereau realignment enabled the Treaty of Troyes and a contested dual monarchy. No settled contradiction found; casualty and prisoner totals, Montereau intent, Burgundian motives, Henry's long-term prospects, and the durability of language policy remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

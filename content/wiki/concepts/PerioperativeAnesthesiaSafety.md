@@ -6,7 +6,8 @@ sources:
   - vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr
   - vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn
   - vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov
-last_updated: 2026-09-21
+  - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,32 +23,35 @@ The concept's practical value is that the anesthesiologist's work is partly invi
 
 VOL.158 extends this system outside the operating room into [[SedatedGastrointestinalEndoscopy|painless gastrointestinal endoscopy]]. The procedure may use non-intubated general anesthesia, but short duration does not remove respiratory risk: preoxygenation, continuous oxygen-saturation and vital-sign monitoring, rapid airway maneuvers, reliable intravenous access, honest weight and sleep history, and recovery assessment remain central while anesthesiology and gastroenterology share access to the airway.
 
+VOL.131 adds a cross-specialty patient-preparation test of the same system. Concealed history, food described as “only porridge,” and requests to omit preparation steps are not semantic disagreements when they alter drug, aspiration, airway, bladder, fluid, or procedural risk. The episode also distinguishes transient drug- or depth-related erection from lasting erectile dysfunction and makes urinary-catheter use conditional on the actual operation and anesthesia plan.
+
 ## Key Claims
 - Anesthesia is a perioperative safety system that starts before the operation and continues through recovery.
 - [[PreoperativeAnesthesiaAssessment]] may justify delaying or changing a planned procedure when the patient's condition, medication, airway, infection, fasting, or monitoring context is unsafe.
 - Anesthetic maintenance is adjusted to the actual surgical duration rather than governed by a fixed clock.
 - The anesthesiologist's collaboration with surgical or procedural teams includes physiological management, monitoring, shared-airway response, and recovery-readiness decisions.
-- Patient history, including allergy, alcohol use, previous anesthesia reaction, chronic disease, stents, daily activity, snoring, and recent infection recovery, is part of anesthesia safety.
+- Truthful patient history, including allergy, alcohol use, previous anesthesia reaction, chronic disease, stents, procedures, daily activity, snoring, and recent infection recovery, is part of anesthesia safety.
 - Recovery is judged through breathing, consciousness, muscle strength, cough, swallowing and pharyngeal reflexes, and overall stability.
-- Fasting, airway control, blood preparation, transfusion decisions, and pulse-oximetry reliability show that small preoperative details can become high-consequence intraoperative or postoperative safety issues.
+- Fasting, urinary-catheter decisions, airway control, blood preparation, transfusion decisions, and pulse-oximetry reliability show that small preoperative details can become high-consequence intraoperative or postoperative safety issues.
 
 ## Evidence
 - Preoperative safety gate: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] says anesthesiologists evaluate cardiopulmonary function, anemia, blood glucose, basic disease, and unexpected neurological status, and may recommend pausing surgery; [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] makes the preoperative gate concrete through anesthesia clinic screening, post-COVID timing, blood pressure, medication handling, fasting, snoring, and infection testing.
 - Surgical-duration boundary: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] says anesthesia continues as long as surgery does and is typically reduced after the final suturing stage.
 - Recovery criteria: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] describes checking consciousness, muscle strength, cough, swallowing, pharyngeal reflexes, and spontaneous breathing before leaving the operating-room setting.
 - Patient information: [[vol-33-mazuike-ni-dui-mazui-kongju-ma-ni-haijide-xinglai-de-shunjian-ma-guanyu-shoushu-zhong-hou-mazui-de-wujie-he-jinji-fu-waike-yisheng-caifang-luyin-lj2x7wulcdfnv7bnh9dzowciwvrr|VOL.33]] asks patients to disclose allergy history, previous reactions, alcohol use, and other context that can change anesthesia decisions; [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] adds chronic disease, stents, daily activity, medication lists, snoring, teeth, dentures, nail polish, fasting status, and recent infection recovery to the patient-preparation frame.
+- Concealment and preparation: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] warns specifically against concealing history from anesthesiology, treats porridge, milk, bread, and tube feeding as intake under fasting instructions, and ties aspiration prevention to impaired consciousness and protective reflexes.
 - Monitoring and circulation: [[vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn|VOL.32]] connects pulse-oximetry reliability, blood preparation, and transfusion strategy to anesthesia's airway, oxygenation, and circulation-management role.
 - Out-of-operating-room anesthesia: [[vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov|VOL.158]] describes non-intubated endoscopy anesthesia through preoxygenation, intravenous access, continuous monitoring, shared airway access, saturation changes, positioning, jaw lift, airway adjuncts, orientation checks, and discharge criteria.
+- Procedure and drug-effect boundaries: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq|VOL.131]] makes urinary-catheter use dependent on anesthesia, duration, bleeding, fluid management, and procedure, while separating transient erection during some anesthetic states from lasting sexual dysfunction.
 
 ## Counterevidence & Qualifications
-This concept is public medical literacy, not surgical or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, fasting and bowel preparation, medication handling, infection testing, blood preparation, dosing, monitoring, airway management, procedure timing, discharge, postoperative instructions, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
+This concept is public medical literacy, not surgical or endoscopy clearance or an anesthetic plan. Actual anesthesia choice, fasting and bowel preparation, urinary catheterization, medication handling, infection testing, blood preparation, dosing, monitoring, airway management, procedure timing, discharge, postoperative instructions, sexual-function assessment, and emergency response depend on the patient, procedure, hospital, and anesthesiology team.
 
 ## What Changed
-- Expanded the anesthesia safety frame from VOL.33's intraoperative and postoperative emphasis into VOL.32's preoperative preparation branch.
-- Added teeth, dentures, nail polish, infection tests, medications, snoring, fasting, post-COVID recovery, blood pressure, and transfusion planning as anesthesia-safety inputs.
-- Clarified that patient-facing preparation rules are risk controls for airway, oxygenation, aspiration, circulation, monitoring, and recovery.
-- Extended the safety system into non-intubated gastrointestinal endoscopy and other out-of-operating-room anesthesia.
-- Added shared-airway access and continuous attendance as short-procedure safety constraints.
+- Made truthful history disclosure an explicit perioperative safety mechanism.
+- Added urinary-catheter selection as a procedure-, anesthesia-, duration-, bleeding-, and fluid-dependent decision.
+- Clarified that fasting applies to porridge, milk, bread, and tube feeding when instructions require an empty stomach.
+- Separated transient anesthetic-state erection from claims of lasting erectile dysfunction.
 
 ## Related Concepts
 - [[PreoperativeAnesthesiaAssessment]] - preoperative gate and preparation branch inside anesthesia safety.
@@ -58,5 +62,6 @@ This concept is public medical literacy, not surgical or endoscopy clearance or 
 - [[MedicalRiskManagement]] - broader severity-aware clinical safety frame.
 - [[MedicalDiagnosticReasoning]] - assessment logic used before and during care.
 - [[DoctorPatientCommunication]] - patient history and questions supply safety-relevant information.
+- [[ClinicalHistoryDisclosure]] - focused disclosure frame for information that changes anesthesia and procedural risk.
 - [[MultidisciplinaryHospitalCare]] - team-care context where anesthesia and surgery coordinate.
 - [[PerioperativeCircadianRecovery]] - neighboring perioperative recovery concept focused on sleep and environment rather than anesthetic management.

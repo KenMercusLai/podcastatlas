@@ -23476,6 +23476,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/clinicalbehaviorchangeredflags/"
     },
+    "ClinicalHistoryDisclosure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/clinicalhistorydisclosure/"
+    },
     "ClinicalMusicTherapy": {
       "episode_count": 1,
       "show_count": 1,
@@ -83133,6 +83149,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/magdala/"
     },
+    "MagneticResonanceSafetyAndAppropriateness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/magneticresonancesafetyandappropriateness/"
+    },
     "MagnusTheGood": {
       "episode_count": 1,
       "show_count": 1,
@@ -97224,9 +97256,9 @@
       "url": "/wiki/concepts/periodontalsystemichealthboundary/"
     },
     "PerioperativeAnesthesiaSafety": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -97248,9 +97280,16 @@
           "show": "这病说来话长",
           "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
           "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        },
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/perioperativeanesthesiasafety/"
     },
     "PerioperativeCircadianRecovery": {
@@ -100962,9 +101001,9 @@
       "url": "/wiki/concepts/prenuptialagreementasrelationshipdesign/"
     },
     "PreoperativeAnesthesiaAssessment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltFMX4d3ilE0DjXQLuRikqueocXn [ltFMX4d3ilE0DjXQLuRikqueocXn].md",
@@ -100972,9 +101011,16 @@
           "show": "这病说来话长",
           "title": "VOL.32麻醉科｜你做过手术吗？你经历过麻醉吗？关于手术前麻醉的误解和禁忌｜附患者采访录音",
           "url": "/wiki/sources/vol-32-mazuike-ni-zuoguo-shoushu-ma-ni-jingliguo-mazui-ma-guanyu-shoushu-qian-mazui-de-wujie-he-jinji-fu-huanzhe-caifang-luyin-ltfmx4d3ile0djxqlurikqueocxn/"
+        },
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/preoperativeanesthesiaassessment/"
     },
     "PressureReleaseInfightingStrategy": {
@@ -136322,9 +136368,9 @@
       "url": "/wiki/entities/wulaoshisanlianeditor/"
     },
     "WuLaoshiZheBing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
@@ -136332,6 +136378,13 @@
           "show": "这病说来话长",
           "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
           "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        },
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
         }
       ],
       "updated": "2026-08-29",
@@ -146343,9 +146396,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 33,
+      "episode_count": 34,
       "show_count": 1,
-      "source_note_count": 33,
+      "source_note_count": 34,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -146577,6 +146630,13 @@
           "show": "这病说来话长",
           "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
           "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
+        },
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
         }
       ],
       "updated": "2026-09-23",
@@ -148906,9 +148966,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -148923,6 +148983,13 @@
           "show": "这病说来话长",
           "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
           "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        },
+        {
+          "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
+          "key": "vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq",
+          "show": "这病说来话长",
+          "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
+          "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
         }
       ],
       "updated": "2026-09-23",
