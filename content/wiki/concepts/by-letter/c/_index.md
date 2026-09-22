@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7919
+wiki_total_pages: 7923
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2207,6 +2207,9 @@ wiki_pages:
   - key: "CultureReviewTvReportFormat"
     title: "Culture-Review TV Report Format / 文化电视报式评论"
     url: "/wiki/concepts/culturereviewtvreportformat/"
+  - key: "CuriosityOverReactivity"
+    title: "Curiosity Over Reactivity"
+    url: "/wiki/concepts/curiosityoverreactivity/"
   - key: "CuriosityDrivenMemoryEncoding"
     title: "Curiosity-Driven Memory Encoding"
     url: "/wiki/concepts/curiositydrivenmemoryencoding/"

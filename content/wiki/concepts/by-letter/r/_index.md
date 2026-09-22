@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7919
+wiki_total_pages: 7923
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -347,6 +347,12 @@ wiki_pages:
   - key: "RelationshipOptionality"
     title: "Relationship Optionality"
     url: "/wiki/concepts/relationshipoptionality/"
+  - key: "RelationshipPolarityBalance"
+    title: "Relationship Polarity Balance"
+    url: "/wiki/concepts/relationshippolaritybalance/"
+  - key: "RelationshipRevival"
+    title: "Relationship Revival"
+    url: "/wiki/concepts/relationshiprevival/"
   - key: "RelationshipSelectionAgency"
     title: "Relationship Selection Agency / 择人与环境选择"
     url: "/wiki/concepts/relationshipselectionagency/"

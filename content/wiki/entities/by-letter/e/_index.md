@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10560
+wiki_total_pages: 10561
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "EstherDuflo"
     title: "Esther Duflo"
     url: "/wiki/entities/estherduflo/"
+  - key: "EstherPerel"
+    title: "Esther Perel"
+    url: "/wiki/entities/estherperel/"
   - key: "ETFZhengjiuShijie"
     title: "ETF拯救世界 / ETF Zhengjiu Shijie"
     url: "/wiki/entities/etfzhengjiushijie/"

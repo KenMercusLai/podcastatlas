@@ -16351,6 +16351,10 @@
     "title": "Curiosity-Driven Memory Encoding",
     "url": "/wiki/concepts/curiositydrivenmemoryencoding/"
   },
+  "CuriosityOverReactivity": {
+    "title": "Curiosity Over Reactivity",
+    "url": "/wiki/concepts/curiosityoverreactivity/"
+  },
   "CurrencyAnchorTransition": {
     "title": "Currency Anchor Transition / 货币锚转换",
     "url": "/wiki/concepts/currencyanchortransition/"
@@ -21671,6 +21675,10 @@
     "title": "Ernst Junger",
     "url": "/wiki/entities/ernstjunger/"
   },
+  "EroticBlueprint": {
+    "title": "Erotic Blueprint",
+    "url": "/wiki/concepts/eroticblueprint/"
+  },
   "EscalationOfCommitment": {
     "title": "Escalation Of Commitment / 非理性投入升级",
     "url": "/wiki/concepts/escalationofcommitment/"
@@ -21702,6 +21710,10 @@
   "EstherDuflo": {
     "title": "Esther Duflo",
     "url": "/wiki/entities/estherduflo/"
+  },
+  "EstherPerel": {
+    "title": "Esther Perel",
+    "url": "/wiki/entities/estherperel/"
   },
   "Estraven": {
     "title": "伊斯特拉凡 / Estraven",
@@ -54379,6 +54391,14 @@
     "title": "Relationship Optionality",
     "url": "/wiki/concepts/relationshipoptionality/"
   },
+  "RelationshipPolarityBalance": {
+    "title": "Relationship Polarity Balance",
+    "url": "/wiki/concepts/relationshippolaritybalance/"
+  },
+  "RelationshipRevival": {
+    "title": "Relationship Revival",
+    "url": "/wiki/concepts/relationshiprevival/"
+  },
   "RelationshipSelectionAgency": {
     "title": "Relationship Selection Agency / 择人与环境选择",
     "url": "/wiki/concepts/relationshipselectionagency/"
@@ -77574,6 +77594,10 @@
   "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639": {
     "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
     "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+  },
+  "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809": {
+    "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+    "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
   },
   "how-to-get-through-the-strait-of-hormuz": {
     "title": "How to get through the Strait of Hormuz",

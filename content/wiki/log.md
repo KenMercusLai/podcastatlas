@@ -21619,3 +21619,11 @@ Added source `vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-n
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel
+
+Added source `how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809`; created `EstherPerel`, `RelationshipPolarityBalance`, `CuriosityOverReactivity`, `RelationshipRevival`, and `EroticBlueprint`; updated `RelationshipConflictRepair`, `AttachmentAffectRegulation`, `VictimForgivenessAgency`, and the index. Core synthesis: durable intimacy repeatedly balances security with freedom and togetherness with separateness; conflict becomes more workable when bodily activation, recurring choreography, subjective stories, accountability, and impact are made visible; apology does not compel forgiveness, and repair does not by itself create renewed aliveness. No settled contradiction found; the cornerstone/capstone distinction, attachment and conflict typologies, erotic-blueprint interpretation, cultural claims, and infidelity motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7919
+wiki_total_pages: 7923
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "EraTransitionProximity"
     title: "Era Transition Proximity / 时代远走与新文明靠近"
     url: "/wiki/concepts/eratransitionproximity/"
+  - key: "EroticBlueprint"
+    title: "Erotic Blueprint"
+    url: "/wiki/concepts/eroticblueprint/"
   - key: "ERPTrustMoat"
     title: "ERP Trust Moat"
     url: "/wiki/concepts/erptrustmoat/"

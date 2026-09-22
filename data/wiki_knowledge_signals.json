@@ -10285,9 +10285,9 @@
       "url": "/wiki/concepts/atomiccontentguardrails/"
     },
     "AttachmentAffectRegulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1947263719 [SCIM1947263719].md",
@@ -10295,9 +10295,16 @@
           "show": "Huberman Lab",
           "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
           "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        },
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/attachmentaffectregulation/"
     },
     "AttentionCapacitySelection": {
@@ -28024,6 +28031,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/curiositydrivenmemoryencoding/"
     },
+    "CuriosityOverReactivity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/curiosityoverreactivity/"
+    },
     "Cursor": {
       "episode_count": 11,
       "show_count": 10,
@@ -40358,6 +40381,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/ernstjunger/"
     },
+    "EroticBlueprint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/eroticblueprint/"
+    },
     "EspressoCodeEditor": {
       "episode_count": 1,
       "show_count": 1,
@@ -40389,6 +40428,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/establishedheirreplacementrisk/"
+    },
+    "EstherPerel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/estherperel/"
     },
     "EthicalMinorityTravel": {
       "episode_count": 1,
@@ -105440,9 +105495,9 @@
       "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
     },
     "RelationshipConflictRepair": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7744546639 [SCIM7744546639].md",
@@ -105464,6 +105519,13 @@
           "show": "Huberman Lab",
           "title": "How to Deal With High Conflict People | Bill Eddy",
           "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+        },
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
         }
       ],
       "updated": "2026-09-23",
@@ -105544,6 +105606,38 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/relationshipneeddiversification/"
+    },
+    "RelationshipPolarityBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/relationshippolaritybalance/"
+    },
+    "RelationshipRevival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/relationshiprevival/"
     },
     "RelationshipSelectionAgency": {
       "episode_count": 2,
@@ -129787,9 +129881,9 @@
       "url": "/wiki/concepts/vibecoding/"
     },
     "VictimForgivenessAgency": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOapxPAz2h0wTPhrfr [GKwRIDoOapxPAz2h0wTPhrfr].md",
@@ -129797,9 +129891,16 @@
           "show": "文化有限",
           "title": "Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”",
           "url": "/wiki/sources/vol-350-lagu-yinchang-de-difang-nengbuneng-rangwo-ananjingjing-dangge-bianyuanren-gkwridooapxpaz2h0wtphrfr/"
+        },
+        {
+          "episode_file": "SCIM1527866809 [SCIM1527866809].md",
+          "key": "how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809",
+          "show": "Huberman Lab",
+          "title": "How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel",
+          "url": "/wiki/sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/victimforgivenessagency/"
     },
     "VictorCarrion": {

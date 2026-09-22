@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel](sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809.md) — Huberman Lab interview on relationship polarity, conflict choreography, curiosity, apology, repair, sexuality, and revival.
 - [VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多](sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a.md) — 这病说来话长 episode on Alzheimer recognition, staged diagnosis, treatment boundaries, respectful communication, home design, and caregiver support.
 - [495. Evita: The Rise of General Perón (Part 2)](sources/495-evita-the-rise-of-general-peron-part-2-glt1831793233.md) — The Rest Is History episode on Perón's labor strategy, Eva's political formation, 17 October 1945, and the retrospective construction of a Peronist founding myth.
 - [496. Evita: The World's Most Powerful Woman (Part 3)](sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328.md) — The Rest Is History episode on Evita's welfare brokerage, glamour, women's mobilization, foundation, and Peronism's elective-authoritarian drift.
@@ -2720,6 +2721,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Esther Perel](entities/EstherPerel.md) — Psychotherapist framing long-term intimacy through polarity, curiosity, accountability, sexuality, repair, and relational reinvention.
 - [弘历 / Hongli (中国认知症好朋友)](entities/HongliDementiaFriends.md) — Dementia inclusion advocate translating personhood into communication, environmental, family-planning, and community-support practices.
 - [中国认知症好朋友 / China Dementia Friends](entities/ChinaDementiaFriends.md) — China-facing public-awareness initiative extending dementia support into communities, public services, and caregiver peer networks.
 - [Eva Perón Foundation](entities/EvaPeronFoundation.md) — Argentine welfare organization that scaled Evita's direct relief while personalizing material provision as Peronist political authority.
@@ -13291,6 +13293,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Relationship Polarity Balance](concepts/RelationshipPolarityBalance.md) — Intimacy framework holding security with freedom, togetherness with separateness, and stability with change.
+- [Curiosity Over Reactivity](concepts/CuriosityOverReactivity.md) — Conflict stance that loosens fixed narratives through regulated, accountable inquiry into another person's experience.
+- [Relationship Revival](concepts/RelationshipRevival.md) — Post-repair creation of new relational possibility through changed roles, play, imagination, and measured risk.
+- [Erotic Blueprint](concepts/EroticBlueprint.md) — Source-scoped framework linking sexuality to personal history, culture, emotional meaning, desire, and power.
 - [Alzheimer Early Detection And Diagnosis / 阿尔茨海默病早期识别与诊断](concepts/AlzheimerEarlyDetectionDiagnosis.md) — Staged framework separating cognitive change, screening, differential diagnosis, biomarkers, and clinical diagnosis.
 - [Dementia Respectful Communication / 认知症尊重式沟通](concepts/DementiaRespectfulCommunication.md) — Person-centered communication using context, low cognitive load, nonverbal cues, bounded choice, and invitation instead of memory testing.
 - [Dementia-Friendly Home Design / 认知症友好居家环境](concepts/DementiaFriendlyHomeDesign.md) — Lighting, hazard, contrast, and layout adjustments supporting recognition, safety, and independence.

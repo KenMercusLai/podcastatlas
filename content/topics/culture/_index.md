@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2788
+topic_total_pages: 2789
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1015,6 +1015,9 @@ topic_concepts:
   - key: "EraTransitionProximity"
     title: "Era Transition Proximity / 时代远走与新文明靠近"
     url: "/wiki/concepts/eratransitionproximity/"
+  - key: "EroticBlueprint"
+    title: "Erotic Blueprint"
+    url: "/wiki/concepts/eroticblueprint/"
   - key: "ESPNAffiliateFeeModel"
     title: "ESPN Affiliate Fee Model"
     url: "/wiki/concepts/espnaffiliatefeemodel/"
