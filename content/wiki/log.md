@@ -21415,6 +21415,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普
+
+Added source `vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh`; created `BingeOralDoctor`, `LifecycleOralHealthPrevention`, `OralCareProductTreatmentBoundary`, `DentalAestheticTreatmentBoundary`, and `DentalProviderQualificationAssessment`; updated `ZheBingShuoLaiHuaChang`, `OralMicrobiomePreventiveCare`, `ToothDemineralizationRemineralization`, `OralAirwayDevelopment`, and the index. Core synthesis: oral health is a life-course prevention and qualified-care process, while toothpaste, rinses, whitening products, devices, and research-stage repair ideas remain adjuncts rather than substitutes for cause-directed diagnosis or treatment. No settled contradiction found; product efficacy, clinical intervals, aesthetic risks, airway pathways, and treatment choices remain source-scoped public education rather than individualized advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 493. Lee Miller: Exposing the Horrors of World War Two
 
 Added source `493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260`; created `LeeMiller`, `Vogue`, and `PhotographicWitness`; and updated the index. Core synthesis: Miller's technical and surrealist formation, military access, insistence on writing her own copy, and Vogue's publication system made photography a chain of witness rather than a self-sufficient record; Dachau images could expose atrocity but still depended on editorial trust and public belief, while the staged Hitler-bath image joined evidence to symbolic victory. No settled contradiction found; the Kotex claim is explicitly unverified, and childhood causation, surrealist influence, napalm chronology, audience effects, private motives, postwar decline, and biographical figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21635,6 +21639,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 494. Evita: Birth of a Legend (Part 1)
 
 Added source `494-evita-birth-of-a-legend-part-1-glt9994303396`; created `MelodramaticPoliticalFormation`; updated `EvaPeron` and the index. Core synthesis: illegitimacy stigma, exclusion at her father's funeral, provincial class judgment, poverty, and Buenos Aires inequality plausibly shaped Eva's sensitivity to humiliation, while commercial radio melodrama supplied an emotional repertoire of suffering, sacrifice, love, and ascent that later became politically usable. The episode does not treat performance as proof of insincerity or early resentment as a settled ideology. It rejects the brothel, prostitution, and Magaldi-mistress stories as unsupported; birth details, funeral choreography, early-career incidents, private motives, and the causal force of childhood experience remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

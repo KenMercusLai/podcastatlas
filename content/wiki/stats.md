@@ -11,25 +11,28 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 7925
-- Entities: 10563
-- Sources: 2703
-- Total wiki content pages: 21192
+- Concepts: 7929
+- Entities: 10564
+- Sources: 2704
+- Total wiki content pages: 21198
 
 ## Links
-- Wiki link references: 544728
-- Unique wiki link targets: 21190
-- Missing targets: 0
+- Wiki link references: 544832
+- Unique wiki link targets: 21197
+- Missing targets: 1
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2703
-- Matched episodes: 2703
+- Source pages: 2704
+- Matched episodes: 2704
 - Missing source_file: 0
 - Unmatched source_file: 0
 
-All wiki links resolve to unique public wiki pages.
+## Missing Targets
+
+- `[[ClinicalValidationThresholds]]`
+  - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
 
 All wiki source pages resolve to episode pages.

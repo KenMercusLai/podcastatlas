@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7925
+wiki_total_pages: 7929
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "LifeTimeVsMachineTime"
     title: "Life Time Versus Machine Time / 生命时间与机器时间"
     url: "/wiki/concepts/lifetimevsmachinetime/"
+  - key: "LifecycleOralHealthPrevention"
+    title: "Lifecycle Oral Health Prevention / 全生命周期口腔预防"
+    url: "/wiki/concepts/lifecycleoralhealthprevention/"
   - key: "LifelongSexEducation"
     title: "Lifelong Sex Education / 终身性教育"
     url: "/wiki/concepts/lifelongsexeducation/"

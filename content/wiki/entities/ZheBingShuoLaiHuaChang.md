@@ -35,6 +35,7 @@ sources:
   - vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf
   - vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
+  - vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -42,7 +43,7 @@ knowledge_schema: synthesis-v1
 # 这病说来话长 / Zhe Bing Shuo Lai Hua Chang
 
 ## Overview
-这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, rheumatology, autoimmune-disease, intensive-care, medical-imaging, liver-health, neurology and migraine, tobacco-control, smoking-cessation, nutrition, supplement, neuroscience, female and male urology, anesthesiology, otolaryngology, ophthalmology, musculoskeletal, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, speech-language and swallowing rehabilitation, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
+这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, rheumatology, autoimmune-disease, intensive-care, medical-imaging, liver-health, neurology and migraine, tobacco-control, smoking-cessation, nutrition, supplement, neuroscience, female and male urology, anesthesiology, otolaryngology, ophthalmology, oral-health, musculoskeletal, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, speech-language and swallowing rehabilitation, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
 
 ## Current Profile
 The show's current wiki profile is practical rather than encyclopedic. Its clinical branch covers individualized cancer vaccines, lumbar-disc care, missed-diagnosis uncertainty, female and male urological health, anesthesiology and perioperative safety, preoperative anesthesia assessment, otolaryngology and headphone/hearing safety, ophthalmology and eye-disease screening, speech-language and swallowing rehabilitation for dysphagia, pediatric language delay, articulation, adult aphasia, and dysarthria, insect-bite dermatology, sports-medicine exercise safety, cardiovascular exercise boundaries, first-aid triage, emergency response, and [[ClinicalMusicTherapy|clinical music therapy]]. In each case, specialist explanation is tied to indication, symptoms, follow-up, clinical validation, patient burden, exposure or activity history, assessment, and qualified care rather than headline certainty.
@@ -91,6 +92,8 @@ VOL.155 adds a sleep-disordered-breathing branch through [[XueXiaofan|薛小凡]
 
 VOL.138 adds a rheumatology and chronic-illness branch through [[DongRheumatologyDoctor|董老师]], [[ZihanDoctor|子涵医生]], and [[YinLaoshiZheBing|尹老师]]. It frames [[SystemicLupusErythematosusManagement|systemic lupus erythematosus]] as non-contagious immune dysregulation with variable organ involvement, then connects acute control, clinical remission, sun protection, adverse-effect communication, [[ChronicDiseaseTreatmentAdherence]], ICU support, [[PublicHealthInformationTriage]], and [[ChronicIllnessQualityOfLife]]. The episode's game about progressive loss is retained as a values exercise rather than a ranking of disability or a treatment decision tool.
 
+VOL.132 adds an oral-health and dental consumer-literacy branch through [[BingeOralDoctor|宾哥]]. It connects [[LifecycleOralHealthPrevention]] with [[OralMicrobiomePreventiveCare]], [[ToothDemineralizationRemineralization]], and [[OralAirwayDevelopment]], while using [[OralCareProductTreatmentBoundary]], [[DentalAestheticTreatmentBoundary]], and [[DentalProviderQualificationAssessment]] to distinguish hygiene support from cure or regeneration claims, normal tooth color from cosmetic intervention, and verifiable competence from institution or celebrity branding.
+
 ## Key Characteristics
 - Uses specialist guests to explain rheumatology, autoimmune disease, intensive care, medical imaging, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
@@ -123,14 +126,16 @@ VOL.138 adds a rheumatology and chronic-illness branch through [[DongRheumatolog
 - Diagnostic and interventional ultrasound: [[vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf]] distinguishes ultrasound modes, first-line strengths, multimodal limits, image-guided procedures, coupling gel, bladder filling, endocavitary routes, infection-control steps, consent, and pregnancy reassurance.
 - Preventive checkups and report literacy: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] connects baseline and targeted test selection, family and lifestyle risk, single-marker caution, imaging findings, overdiagnosis, and uninterrupted follow-up.
 - Lupus and chronic-illness management: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] connects autoimmune mechanism, variable organ involvement, clinical remission, treatment adherence, adverse-effect communication, sun protection, ICU coordination, information quality, and patient-defined quality of life.
+- Oral health and dental consumer literacy: [[vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh]] connects life-course prevention, plaque control, tooth-repair claims, whitening, provider credentials, airway development, orthodontic retention, and periodontal escalation to qualified care.
 
 ## Qualifications
-The page is based only on thirty-two ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education or personal experience, not individualized rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, ultrasound, image-guided procedure, sleep-medicine, respiratory, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on thirty-three ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education or personal experience, not individualized rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, ultrasound, image-guided procedure, sleep-medicine, respiratory, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, oral-health, dentistry, orthodontics, periodontal care, tooth whitening, airway surgery, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.138 adds systemic lupus, clinical remission, treatment adherence, and rheumatology-ICU coordination.
-- The show profile now includes chronic-illness quality of life and treatment-side-effect communication.
-- Disease triggers, medication effects, timelines, case anecdotes, and the survival game remain source-scoped public education.
+- VOL.132 adds life-course oral prevention, mechanical plaque control, and escalation for missing teeth, mobility, airway concerns, and other symptoms.
+- The show profile now separates toothpaste, rinse, whitening, and repair-product support from treatment, regeneration, or permanent-repair claims.
+- Dental aesthetic procedures, provider selection, and dentistry-versus-ENT roles are now explicit clinical-boundary topics.
+- Product effects, examination intervals, whitening risks, airway decisions, and treatment pathways remain source-scoped public education.
 
 ## Relationships
 - [[DongRheumatologyDoctor]] - source-scoped rheumatology guest in VOL.138.
@@ -279,3 +284,8 @@ The page is based only on thirty-two ingested episode notes. It should not be tr
 - [[DiagnosticUltrasoundModalitySelection]] - medical-imaging branch distinguishing ultrasound modes, routes, strengths, and limits.
 - [[InterventionalUltrasoundSafety]] - image-guided sampling and treatment branch bounded by visibility, access, complexity, and risk.
 - [[UltrasoundExamPreparationAndSafety]] - coupling, bladder-filling, scheduling, consent, hygiene, and endocavitary-examination branch.
+- [[BingeOralDoctor]] - source-scoped oral-health doctor in VOL.132.
+- [[LifecycleOralHealthPrevention]] - age-spanning oral prevention and timely-care framework developed by the show.
+- [[OralCareProductTreatmentBoundary]] - toothpaste, rinse, repair-liquid, and treatment-claim boundary developed by the show.
+- [[DentalAestheticTreatmentBoundary]] - tooth-color, whitening, veneer, and crown distinction developed by the show.
+- [[DentalProviderQualificationAssessment]] - provider-credential and institution-selection framework developed by the show.

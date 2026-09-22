@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7925
+wiki_total_pages: 7929
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -449,6 +449,9 @@ wiki_pages:
   - key: "OralAirwayDevelopment"
     title: "Oral-Airway Development"
     url: "/wiki/concepts/oralairwaydevelopment/"
+  - key: "OralCareProductTreatmentBoundary"
+    title: "Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界"
+    url: "/wiki/concepts/oralcareproducttreatmentboundary/"
   - key: "OralFormulaicEpic"
     title: "Oral-Formulaic Epic"
     url: "/wiki/concepts/oralformulaicepic/"

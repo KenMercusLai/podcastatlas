@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10563
+wiki_total_pages: 10564
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "BabyTree"
     title: "宝宝树 / BabyTree"
     url: "/wiki/entities/babytree/"
+  - key: "BingeOralDoctor"
+    title: "宾哥 / Binge (oral-health doctor)"
+    url: "/wiki/entities/bingeoraldoctor/"
   - key: "Bluegogo"
     title: "小蓝单车 / Bluegogo"
     url: "/wiki/entities/bluegogo/"

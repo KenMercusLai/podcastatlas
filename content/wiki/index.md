@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普](sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh.md) — 口腔医生宾哥解释全生命周期预防，并划清牙膏、修补、美白、漱口水、机构选择与专业治疗的边界。
 - [493. Lee Miller: Exposing the Horrors of World War Two](sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260.md) — The Rest Is History episode on Lee Miller's surrealist formation, wartime reporting, Dachau photographs, postwar collapse, and rediscovery.
 - [494. Evita: Birth of a Legend (Part 1)](sources/494-evita-birth-of-a-legend-part-1-glt9994303396.md) — The Rest Is History episode on Eva Perón's childhood stigma, class formation, migration to Buenos Aires, acting struggle, and radio melodrama as political preparation.
 - [How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel](sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809.md) — Huberman Lab interview on relationship polarity, conflict choreography, curiosity, apology, repair, sexuality, and revival.
@@ -2723,6 +2724,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [宾哥 / Binge (oral-health doctor)](entities/BingeOralDoctor.md) — Source-scoped oral-health doctor explaining prevention, product claims, dental aesthetics, provider selection, and referral boundaries.
 - [Lee Miller](entities/LeeMiller.md) — Photographer and war correspondent who brought surrealist formation, authored prose, and field access to wartime and Dachau witness.
 - [Vogue](entities/Vogue.md) — Magazine connecting fashion publishing to Lee Miller's wartime photography, prose, and public evidence.
 - [Esther Perel](entities/EstherPerel.md) — Psychotherapist framing long-term intimacy through polarity, curiosity, accountability, sexuality, repair, and relational reinvention.
@@ -13297,6 +13299,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, diet, developmental review, professional prevention, and timely restoration.
+- [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.
+- [Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界](concepts/DentalAestheticTreatmentBoundary.md) — Distinction among normal tooth color, surface stain removal, chemical bleaching, veneers, and crowns.
+- [Dental Provider Qualification Assessment / 牙医与口腔机构资质判断](concepts/DentalProviderQualificationAssessment.md) — Multi-signal evaluation of credentials, scope, cases, peer standing, setting, and treatment fit.
 - [Photographic Witness](concepts/PhotographicWitness.md) — Evidence chain joining image capture, access, prose, editing, censorship, publication, and public belief.
 - [Melodramatic Political Formation](concepts/MelodramaticPoliticalFormation.md) — Process by which mass-media roles supply emotional archetypes and communication habits later transferred into political life.
 - [Relationship Polarity Balance](concepts/RelationshipPolarityBalance.md) — Intimacy framework holding security with freedom, togetherness with separateness, and stability with change.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7925
+wiki_total_pages: 7929
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -431,6 +431,12 @@ wiki_pages:
   - key: "DemotedVassalSafetySignal"
     title: "Demoted Vassal Safety Signal / 降爵诸侯安全信号"
     url: "/wiki/concepts/demotedvassalsafetysignal/"
+  - key: "DentalAestheticTreatmentBoundary"
+    title: "Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界"
+    url: "/wiki/concepts/dentalaesthetictreatmentboundary/"
+  - key: "DentalProviderQualificationAssessment"
+    title: "Dental Provider Qualification Assessment / 牙医与口腔机构资质判断"
+    url: "/wiki/concepts/dentalproviderqualificationassessment/"
   - key: "DepositGuaranteeCrisisResponse"
     title: "Deposit Guarantee Crisis Response"
     url: "/wiki/concepts/depositguaranteecrisisresponse/"

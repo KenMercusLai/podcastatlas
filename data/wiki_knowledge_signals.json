@@ -13749,6 +13749,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/bingzunlatehan/"
     },
+    "BingeOralDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/bingeoraldoctor/"
+    },
     "Bingzhongluo": {
       "episode_count": 1,
       "show_count": 1,
@@ -31503,6 +31519,38 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/denishealey/"
+    },
+    "DentalAestheticTreatmentBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/dentalaesthetictreatmentboundary/"
+    },
+    "DentalProviderQualificationAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/dentalproviderqualificationassessment/"
     },
     "DeodoroDaFonseca": {
       "episode_count": 1,
@@ -74679,6 +74727,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/lifetimevsmachinetime/"
     },
+    "LifecycleOralHealthPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/lifecycleoralhealthprevention/"
+    },
     "LifelongSexEducation": {
       "episode_count": 1,
       "show_count": 1,
@@ -93752,9 +93816,9 @@
       "url": "/wiki/concepts/optinworkplacehealthmonitoring/"
     },
     "OralAirwayDevelopment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9002750849 [SCIM9002750849].md",
@@ -93762,10 +93826,33 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman",
           "url": "/wiki/sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849/"
+        },
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/oralairwaydevelopment/"
+    },
+    "OralCareProductTreatmentBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/oralcareproducttreatmentboundary/"
     },
     "OralContraceptiveInformedConsent": {
       "episode_count": 1,
@@ -93800,9 +93887,9 @@
       "url": "/wiki/concepts/oralhistorymemoryanalysis/"
     },
     "OralMicrobiomePreventiveCare": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9002750849 [SCIM9002750849].md",
@@ -93810,9 +93897,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman",
           "url": "/wiki/sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849/"
+        },
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/oralmicrobiomepreventivecare/"
     },
     "OralTurnPoliticalCommunication": {
@@ -126532,9 +126626,9 @@
       "url": "/wiki/entities/tonybenn/"
     },
     "ToothDemineralizationRemineralization": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9002750849 [SCIM9002750849].md",
@@ -126542,9 +126636,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Teeth & Oral Microbiome for Brain & Body Health | Dr. Staci Whitman",
           "url": "/wiki/sources/how-to-improve-your-teeth-oral-microbiome-for-brain-body-health-dr-staci-whitman-scim9002750849/"
+        },
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/toothdemineralizationremineralization/"
     },
     "TopDownExemplarGovernance": {
@@ -145822,9 +145923,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 1,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -146049,6 +146150,13 @@
           "show": "这病说来话长",
           "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
           "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        },
+        {
+          "episode_file": "lmjeyE3oACbaWtN3OmssKuQeubeh [lmjeyE3oACbaWtN3OmssKuQeubeh].md",
+          "key": "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh",
+          "show": "这病说来话长",
+          "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+          "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
         }
       ],
       "updated": "2026-09-23",

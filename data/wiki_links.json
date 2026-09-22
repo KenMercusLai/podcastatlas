@@ -8927,6 +8927,10 @@
     "title": "秉尊 / Bing Zun (late Han)",
     "url": "/wiki/entities/bingzunlatehan/"
   },
+  "BingeOralDoctor": {
+    "title": "宾哥 / Binge (oral-health doctor)",
+    "url": "/wiki/entities/bingeoraldoctor/"
+  },
   "BingeReleaseModel": {
     "title": "Binge Release Model",
     "url": "/wiki/concepts/bingereleasemodel/"
@@ -18018,6 +18022,14 @@
   "Denmark": {
     "title": "Denmark",
     "url": "/wiki/entities/denmark/"
+  },
+  "DentalAestheticTreatmentBoundary": {
+    "title": "Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界",
+    "url": "/wiki/concepts/dentalaesthetictreatmentboundary/"
+  },
+  "DentalProviderQualificationAssessment": {
+    "title": "Dental Provider Qualification Assessment / 牙医与口腔机构资质判断",
+    "url": "/wiki/concepts/dentalproviderqualificationassessment/"
   },
   "DeodoroDaFonseca": {
     "title": "Deodoro da Fonseca",
@@ -38747,6 +38759,10 @@
     "title": "Life Time Versus Machine Time / 生命时间与机器时间",
     "url": "/wiki/concepts/lifetimevsmachinetime/"
   },
+  "LifecycleOralHealthPrevention": {
+    "title": "Lifecycle Oral Health Prevention / 全生命周期口腔预防",
+    "url": "/wiki/concepts/lifecycleoralhealthprevention/"
+  },
   "LifelongSexEducation": {
     "title": "Lifelong Sex Education / 终身性教育",
     "url": "/wiki/concepts/lifelongsexeducation/"
@@ -47918,6 +47934,10 @@
   "OralAirwayDevelopment": {
     "title": "Oral-Airway Development",
     "url": "/wiki/concepts/oralairwaydevelopment/"
+  },
+  "OralCareProductTreatmentBoundary": {
+    "title": "Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界",
+    "url": "/wiki/concepts/oralcareproducttreatmentboundary/"
   },
   "OralContraceptiveInformedConsent": {
     "title": "Oral Contraceptive Informed Consent",
@@ -79742,6 +79762,10 @@
   "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
     "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
     "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  },
+  "vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh": {
+    "title": "VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普",
+    "url": "/wiki/sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh/"
   },
   "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a": {
     "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
