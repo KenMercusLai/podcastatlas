@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1165
+topic_total_pages: 1167
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2225,6 +2225,9 @@ topic_entities:
   - key: "CatherineGildiner"
     title: "Catherine Gildiner"
     url: "/wiki/entities/catherinegildiner/"
+  - key: "CharanRanganath"
+    title: "Charan Ranganath"
+    url: "/wiki/entities/charanranganath/"
   - key: "CharlesDarwin"
     title: "Charles Darwin / 查尔斯·达尔文"
     url: "/wiki/entities/charlesdarwin/"
@@ -3327,6 +3330,9 @@ topic_sources:
   - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
     title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
     url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+  - key: "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885"
+    title: "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath"
+    url: "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
   - key: "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656"
     title: "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain"
     url: "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"

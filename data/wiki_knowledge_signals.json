@@ -204,9 +204,9 @@
       "url": "/wiki/entities/acrcloud/"
     },
     "ADHDAttentionControlModel": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4112569463 [SCIM4112569463].md",
@@ -214,9 +214,16 @@
           "show": "Huberman Lab",
           "title": "Improve Focus With Behavioral Tools & Medication for ADHD | Dr. John Kruse",
           "url": "/wiki/sources/improve-focus-with-behavioral-tools-medication-for-adhd-dr-john-kruse-scim4112569463/"
+        },
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/adhdattentioncontrolmodel/"
     },
     "ADHDExternalStructureAndTiming": {
@@ -19346,6 +19353,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/characterreadingdelegationtrust/"
     },
+    "CharanRanganath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/charanranganath/"
+    },
     "CharlesDuncanCameron": {
       "episode_count": 2,
       "show_count": 1,
@@ -23878,9 +23901,9 @@
       "url": "/wiki/concepts/coffeesourcingwork/"
     },
     "CognitiveAging": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -23888,9 +23911,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
           "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        },
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/cognitiveaging/"
     },
     "CognitiveDiversityAIAdoption": {
@@ -25769,6 +25799,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/contextualbanditpersonalization/"
+    },
+    "ContextualEpisodicMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/contextualepisodicmemory/"
     },
     "ContinentalArmy": {
       "episode_count": 1,
@@ -27826,6 +27872,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/culturereviewtvreportformat/"
+    },
+    "CuriosityDrivenMemoryEncoding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/curiositydrivenmemoryencoding/"
     },
     "Cursor": {
       "episode_count": 11,
@@ -84281,9 +84343,9 @@
       "url": "/wiki/concepts/memorydeletionethics/"
     },
     "MemoryReconsolidationPsychiatry": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -84291,9 +84353,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
           "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        },
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/memoryreconsolidationpsychiatry/"
     },
     "Memphis": {
@@ -87190,9 +87259,9 @@
       "url": "/wiki/concepts/modernizingautocracy/"
     },
     "ModifiableDementiaRiskFactors": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
@@ -87207,9 +87276,16 @@
           "show": "Huberman Lab",
           "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
           "url": "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+        },
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/modifiabledementiariskfactors/"
     },
     "ModularAIDataCenters": {
@@ -104207,9 +104283,9 @@
       "url": "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
     },
     "ReconstructiveMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -104217,9 +104293,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
           "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        },
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/reconstructivememory/"
     },
     "RecoveryCommunityConnection": {
@@ -122411,9 +122494,9 @@
       "url": "/wiki/concepts/taskbasedainativeorganization/"
     },
     "TaskSwitchingResidue": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -122421,9 +122504,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM5612458885 [SCIM5612458885].md",
+          "key": "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885",
+          "show": "Huberman Lab",
+          "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
+          "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/taskswitchingresidue/"
     },
     "TasteFirstCPGPositioning": {

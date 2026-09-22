@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7902
+wiki_total_pages: 7904
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1676,6 +1676,9 @@ wiki_pages:
   - key: "ContextualBanditPersonalization"
     title: "Contextual Bandit Personalization"
     url: "/wiki/concepts/contextualbanditpersonalization/"
+  - key: "ContextualEpisodicMemory"
+    title: "Contextual Episodic Memory"
+    url: "/wiki/concepts/contextualepisodicmemory/"
   - key: "ContingentAgreement"
     title: "Contingent Agreement / 权变协议"
     url: "/wiki/concepts/contingentagreement/"
@@ -2195,6 +2198,9 @@ wiki_pages:
   - key: "CultureReviewTvReportFormat"
     title: "Culture-Review TV Report Format / 文化电视报式评论"
     url: "/wiki/concepts/culturereviewtvreportformat/"
+  - key: "CuriosityDrivenMemoryEncoding"
+    title: "Curiosity-Driven Memory Encoding"
+    url: "/wiki/concepts/curiositydrivenmemoryencoding/"
   - key: "CurrencyAnchorTransition"
     title: "Currency Anchor Transition / 货币锚转换"
     url: "/wiki/concepts/currencyanchortransition/"

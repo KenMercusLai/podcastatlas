@@ -21548,3 +21548,11 @@ Added source `500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-g
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath
+
+Added source `how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885`; created `CharanRanganath`, `ContextualEpisodicMemory`, and `CuriosityDrivenMemoryEncoding`; updated `ReconstructiveMemory`, `CognitiveAging`, `ADHDAttentionControlModel`, `TaskSwitchingResidue`, `ModifiableDementiaRiskFactors`, `MemoryReconsolidationPsychiatry`, and the index. Core synthesis: memory serves present interpretation and future simulation through selective, context-bound reconstruction; curiosity and intention can change what is encoded, while task switching creates event boundaries and competing fragments; aging and dementia risk remain heterogeneous; and retrieval-based updating is possible but directionally uncertain. No settled contradiction found; BOLD activity is not direct dopamine measurement, and lifestyle, Alzheimer's-treatment, drug, psychedelic, inflammation, and animal-microbiome claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

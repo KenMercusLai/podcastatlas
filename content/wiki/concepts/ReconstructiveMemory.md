@@ -4,7 +4,8 @@ type: concept
 tags: [memory, cognition, psychology, learning]
 sources:
   - how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002
-last_updated: 2026-08-29
+  - how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,13 +19,16 @@ The Castel episode treats memory errors as normal evidence about how memory work
 
 The same frame explains why memory can be useful without being perfectly accurate. People use past representations to imagine the future, plan routes, preserve family stories, and update what matters, but confidence and sincerity do not guarantee accuracy. That makes [[ReconstructiveMemory]] a bridge between learning practice and testimony caution.
 
+The Ranganath episode strengthens the present-facing side of the model. Prior knowledge and episodic memory help simulate what is happening now, so expectations can aid rapid interpretation while also producing change blindness. Retrieval can also reopen a memory to contextual or narrative updating before it stabilizes again; this possibility does not imply that factual history is erased or that every recalled memory changes beneficially.
+
 ## Key Claims
 - Memory is a representation of the past, not an exact copy of the past.
 - Repeated exposure does not ensure accurate recall unless attention actively selects and encodes relevant details.
 - Retrieval, mistakes, and feedback can improve reconstruction by exposing what is missing or wrong.
-- Source memory can fail, so people may remember a story while forgetting where it came from or whom they told.
+- Source memory can fail, and confidence can rise after reconstruction even when the original trace or its origin was incomplete.
 - Imagining the future draws on the same constructive machinery as remembering the past.
-- Confidence can rise after reconstruction or identification even when the original memory was incomplete.
+- Expectations make perception efficient but can also hide changes that do not fit the current model.
+- Retrieval may permit qualified updating of a memory's context, narrative, or emotional force.
 
 ## Evidence
 - Reconstruction frame - [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002]] defines memory as a mental representation and says it is reconstructive rather than always accurate.
@@ -32,12 +36,15 @@ The same frame explains why memory can be useful without being perfectly accurat
 - Error correction - [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002]] says drawing from memory, failing, and then checking can improve later learning.
 - Future construction - [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002]] says remembering the past and imagining the future have similar brain signatures.
 - Testimony caution - [[how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002]] uses eyewitness and lineup examples to show how later identification can replace or contaminate what was originally seen.
+- Present and future use - [[how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885]] presents memory as selective use of the past to interpret the present and project forward.
+- Expectation and updating - [[how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885]] uses change blindness to show expectation-driven omission and reconsolidation to describe qualified post-retrieval change.
 
 ## Counterevidence & Qualifications
-The source does not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. The source is a podcast summary, not a technical review of all memory systems.
+The sources do not claim memory is arbitrary or useless. Some memories are stable enough for learning, planning, relationships, and skilled action, but their reliability depends on attention, retrieval context, corroboration, emotion, and later interference. Reconsolidation is an opportunity for updating, not proof that any narrative intervention, psychedelic state, or repeated retelling will improve a memory. These podcast summaries are not a technical review of all memory systems.
 
 ## What Changed
-- Created the concept from the Castel episode's repeated distinction between memory as reconstruction and memory as recording.
+- Added memory's role in interpreting the present and simulating the future.
+- Added expectation-driven change blindness and qualified post-retrieval updating.
 
 ## Related Concepts
 - [[SelfTestingMemoryPractice]] - retrieval and correction method that improves later reconstruction.
@@ -46,3 +53,5 @@ The source does not claim memory is arbitrary or useless. Some memories are stab
 - [[ForgettingAsCognitiveFunction]] - companion frame for why selection and loss can be functional.
 - [[MemoryConsolidationWindows]] - timing frame for preserving selected material.
 - [[AttentionCapacitySelection]] - attention constraint that decides what is encoded in the first place.
+- [[ContextualEpisodicMemory]] - context-binding layer that gives reconstructed events their situated structure.
+- [[MemoryReconsolidationPsychiatry]] - narrower clinical hypothesis about updating trauma-linked memories or rules.

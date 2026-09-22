@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10543
+wiki_total_pages: 10544
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "CharacterAI"
     title: "Character AI"
     url: "/wiki/entities/characterai/"
+  - key: "CharanRanganath"
+    title: "Charan Ranganath"
+    url: "/wiki/entities/charanranganath/"
   - key: "CharlesByrne"
     title: "Charles Byrne / 查尔斯·伯恩"
     url: "/wiki/entities/charlesbyrne/"

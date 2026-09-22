@@ -2709,6 +2709,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
+- [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
+
 ## Entities
 - [Claudius](entities/Claudius.md) — Roman emperor who used the AD 43 invasion of Britain to turn operational victory into imperial legitimacy.
 - [Aulus Plautius](entities/AulusPlautius.md) — Roman commander who led the AD 43 invasion and prepared Claudius's staged victory.
@@ -13262,6 +13264,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Curtis LeMay](entities/CurtisLeMay.md) — Wallace running mate whose nuclear-weapons remarks created a campaign credibility crisis.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
+- [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
+
 ## Concepts
 - [Roman Conquest of Britain](concepts/RomanConquestOfBritain.md) — Prolonged process joining invasion, client politics, imperial spectacle, collaboration, colonization, and resistance.
 - [Boudiccan Revolt](concepts/BoudiccanRevolt.md) — AD 60 uprising showing how abusive annexation, military absence, local grievance, and failed collaborator protection could destabilize Roman Britain.
@@ -21174,5 +21178,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diagnostic Ultrasound Modality Selection / 诊断超声方式选择](concepts/DiagnosticUltrasoundModalitySelection.md) — Functional map of ultrasound modes, routes, first-line strengths, operator dependence, and multimodal diagnostic limits.
 - [Interventional Ultrasound Safety / 介入超声安全边界](concepts/InterventionalUltrasoundSafety.md) — Image-guided procedure boundary requiring target visibility, safe access, appropriate indication, and acceptable risk.
 - [Ultrasound Exam Preparation and Safety / 超声检查准备与安全](concepts/UltrasoundExamPreparationAndSafety.md) — Patient-facing framework for coupling gel, bladder filling, test sequence, endocavitary hygiene, consent, and pregnancy reassurance.
+
+- [Contextual Episodic Memory](concepts/ContextualEpisodicMemory.md) — Binding of people, objects, place, time, and state into situated events segmented by context and event boundaries.
+- [Curiosity-Driven Memory Encoding](concepts/CuriosityDrivenMemoryEncoding.md) — Appraisal-and-motivation frame in which curiosity may improve sought and incidental memory while fMRI activity remains distinct from direct dopamine measurement.
 
 ## Syntheses
