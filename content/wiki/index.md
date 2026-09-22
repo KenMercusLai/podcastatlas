@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.135直面体检｜医生们带你看懂报告里的惊悚指标](sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9.md) — 这病说来话长 roundtable on contextual interpretation, surveillance, and escalation for alarming-looking checkup findings across multiple body systems.
 - [502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)](sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222.md) — The Rest Is History episode on Agricola's campaigns, Roman provincial consolidation, Caledonian withdrawal, and the limits of Tacitus's imperial critique.
 - [503. The French Revolution: Bloodbath in Paris (Part 1)](sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194.md) — The Rest Is History episode on Varennes, the Champ de Mars massacre, constitutional-monarchist stabilization, revolutionary suspicion, and the fragile 1791 settlement.
 - [Create Your Ideal Future Using Science-Based Protocols | Ari Wallach](sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305.md) — Huberman Lab interview on Long Path, transgenerational empathy, future-self continuity, cathedral thinking, protopian stories, and resistance to reactive presentism.

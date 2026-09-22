@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | VOL.135直面体检｜医生们带你看懂报告里的惊悚指标
+
+Added source `vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9`; updated `ScreeningResultInterpretation`, `AbnormalFindingFollowupContinuity`, and index. Core synthesis: alarming checkup labels become clinically meaningful only through symptoms, risk factors, classification, magnitude, trend, test quality, and actionability; low-risk findings can enter observation or repeat-testing pathways, while repeated abnormalities, neurologic or compressive symptoms, rapid change, higher-risk categories, or respiratory distress require specialist or urgent escalation. No settled contradiction found; disease probabilities, numeric cutoffs, medication choices, imaging confirmation, procedural indications, hydration, and surveillance intervals remain source-scoped public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | Create Your Ideal Future Using Science-Based Protocols | Ari Wallach
 
 Added source `create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305`; created `AriWallach`, `LongPathFramework`, `TransgenerationalEmpathy`, `FutureSelfContinuity`, `CathedralThinking`, and `Protopia`; and updated the index. Core synthesis: long-horizon agency becomes more practical when empathy makes earlier and later people emotionally real, plural futures thinking resists fatalism, telos supplies direction, and letters, images, modeled behavior, institutions, and better-but-imperfect stories connect present choices to later consequences. No settled contradiction found; mirror-neuron, hippocampal, progress, social-contagion, technology-attention, descendant-count, and future-self intervention claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21512,6 +21516,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)
 
 Added source `502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222`; created `RomanBritain`, `GnaeusJuliusAgricola`, `Tacitus`, `RomanProvincialConsolidation`, and `AncientImperialCritiqueLimits`; updated `RomanEmpire` and the index. Core synthesis: Roman Britain was made through forts, roads, fleet logistics, towns, taxation, administrative restraint, and elite incorporation as well as battle, while the abandonment of Caledonia shows that symbolic conquest remained subordinate to empire-wide strategic priorities. No settled contradiction found; Tacitus is both indispensable and interested, Mount Graupius details remain uncertain, and his critique of corruption and luxury is not treated as modern humanitarian anti-imperialism. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

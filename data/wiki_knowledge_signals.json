@@ -4090,9 +4090,9 @@
       "url": "/wiki/concepts/ableistcurepressure/"
     },
     "AbnormalFindingFollowupContinuity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luCD43f_M0X0fDW09zM6iSzatgtB [luCD43f_M0X0fDW09zM6iSzatgtB].md",
@@ -4100,9 +4100,16 @@
           "show": "这病说来话长",
           "title": "VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招",
           "url": "/wiki/sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb/"
+        },
+        {
+          "episode_file": "lmjlyXmIY2v2R0f8RxTTaBkkAwK9 [lmjlyXmIY2v2R0f8RxTTaBkkAwK9].md",
+          "key": "vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9",
+          "show": "这病说来话长",
+          "title": "VOL.135直面体检｜医生们带你看懂报告里的惊悚指标",
+          "url": "/wiki/sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/abnormalfindingfollowupcontinuity/"
     },
     "AbolitionistPublicWitness": {
@@ -110173,9 +110180,9 @@
       "url": "/wiki/concepts/screenexitcreativepractice/"
     },
     "ScreeningResultInterpretation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luCD43f_M0X0fDW09zM6iSzatgtB [luCD43f_M0X0fDW09zM6iSzatgtB].md",
@@ -110183,9 +110190,16 @@
           "show": "这病说来话长",
           "title": "VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招",
           "url": "/wiki/sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb/"
+        },
+        {
+          "episode_file": "lmjlyXmIY2v2R0f8RxTTaBkkAwK9 [lmjlyXmIY2v2R0f8RxTTaBkkAwK9].md",
+          "key": "vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9",
+          "show": "这病说来话长",
+          "title": "VOL.135直面体检｜医生们带你看懂报告里的惊悚指标",
+          "url": "/wiki/sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/screeningresultinterpretation/"
     },
     "ScriptedCandorTrap": {
