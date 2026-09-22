@@ -21422,3 +21422,11 @@ Added source `508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097`; crea
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 507. The French Revolution: The Marseillaise, Song of War (Part 5)
+
+Added source `507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124`; created `LaMarseillaise`, `RougetDeLisle`, `SansCulottes`, `RevolutionaryRomanism`, `RevolutionaryDressPoliticalIdentity`, and `CitizenSoldierSymbolicLegitimacy`; updated `FrenchRevolution`, `JacquesLouisDavid`, `NationalAnthemPoliticalPlasticity`, and the index. Core synthesis: La Marseillaise acquired republican force through wartime circulation and armed citizen-volunteer performance, while Roman imagery, David's civic art, red caps, sans-culotte clothing, and elite imitation made revolutionary belonging visible. No settled contradiction found; musical antecedents, exact performances, reconstructed dialogue, volunteer numbers, motives, and reception remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [507. The French Revolution: The Marseillaise, Song of War (Part 5)](sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124.md) — The Rest Is History episode on La Marseillaise, citizen-volunteers, Roman republican imagery, David's visual culture, and revolutionary dress.
 - [508. America in '68: Nightmare in Vietnam (Part 1)](sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097.md) — The Rest Is History episode on Johnson's Vietnam escalation, Tet's credibility shock, McCarthy's New Hampshire challenge, and the multi-causal decision to withdraw.
 - [How to Deal With High Conflict People | Bill Eddy](sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828.md) — Huberman Lab interview on recognizing recurrent blame and escalation without casual diagnosis, then using CARS, BIFF, limits, and safety-aware disengagement.
 - [VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节](sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek.md) — 这病说来话长 episode on systemic lupus, clinical remission, treatment adherence, ICU support, information quality, and chronic-illness quality of life.
@@ -2695,6 +2696,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [La Marseillaise](entities/LaMarseillaise.md) — French revolutionary war song whose citizen-volunteer circulation created a republican anthem.
+- [Claude Joseph Rouget de Lisle](entities/RougetDeLisle.md) — Army engineer and composer who wrote the future La Marseillaise in Strasbourg in April 1792.
+- [Sans-culottes](entities/SansCulottes.md) — Urban popular radicals whose clothing joined class identity, Roman liberty imagery, and revolutionary belonging.
 - [Bill Eddy](entities/BillEddy.md) — Lawyer, mediator, therapist, and conflict educator using pattern-based recognition and structured de-escalation tools.
 - [董老师 / Dong Rheumatology Doctor](entities/DongRheumatologyDoctor.md) — Source-scoped rheumatology guest explaining lupus mechanism, recognition, remission, adherence, and long-term management.
 - [James Earl Ray](entities/JamesEarlRay.md) — Escaped convict identified as Martin Luther King Jr.'s assassin.
@@ -13214,6 +13218,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Revolutionary Romanism](concepts/RevolutionaryRomanism.md) — French revolutionary reuse of early Roman republican people, virtues, objects, and civic settings.
+- [Revolutionary Dress as Political Identity](concepts/RevolutionaryDressPoliticalIdentity.md) — Clothing, grooming, and wearable symbols as visible claims about class, liberty, and allegiance.
+- [Citizen-Soldier Symbolic Legitimacy](concepts/CitizenSoldierSymbolicLegitimacy.md) — Political authority created when armed volunteers appear to embody and defend the nation directly.
 - [Vietnam War Credibility Collapse](concepts/VietnamWarCredibilityCollapse.md) — Mechanism by which Tet discredited official progress claims despite not being a conventional Communist battlefield victory.
 - [High-Conflict Behavior Pattern](concepts/HighConflictBehaviorPattern.md) — Non-diagnostic observation frame for recurrent blame, unmanaged emotion, all-or-nothing thinking, extreme conduct, and unresolved escalation.
 - [High-Conflict Communication Toolkit](concepts/HighConflictCommunicationToolkit.md) — CARS, EAR, BIFF, consequence-backed limits, and safety-aware disengagement for containing recurrent escalation.

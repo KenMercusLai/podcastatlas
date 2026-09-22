@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10509
+wiki_total_pages: 10512
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "LDesign"
     title: "L-Design"
     url: "/wiki/entities/ldesign/"
+  - key: "LaMarseillaise"
+    title: "La Marseillaise"
+    url: "/wiki/entities/lamarseillaise/"
   - key: "LabourPartyUK"
     title: "Labour Party (UK)"
     url: "/wiki/entities/labourpartyuk/"

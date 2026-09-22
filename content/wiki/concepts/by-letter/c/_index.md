@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7883
+wiki_total_pages: 7886
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "CitizenScience"
     title: "Citizen Science"
     url: "/wiki/concepts/citizenscience/"
+  - key: "CitizenSoldierSymbolicLegitimacy"
+    title: "Citizen-Soldier Symbolic Legitimacy"
+    url: "/wiki/concepts/citizensoldiersymboliclegitimacy/"
   - key: "CityCommercialObservation"
     title: "City Commercial Observation"
     url: "/wiki/concepts/citycommercialobservation/"

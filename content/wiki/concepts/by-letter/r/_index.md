@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7883
+wiki_total_pages: 7886
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "RevolutionaryDestructionOfCivilianLife"
     title: "Revolutionary Destruction Of Civilian Life / 革命对日常生活的摧毁"
     url: "/wiki/concepts/revolutionarydestructionofcivilianlife/"
+  - key: "RevolutionaryDressPoliticalIdentity"
+    title: "Revolutionary Dress as Political Identity"
+    url: "/wiki/concepts/revolutionarydresspoliticalidentity/"
   - key: "RevolutionaryEconomicSelfReliance"
     title: "Revolutionary Economic Self-Reliance"
     url: "/wiki/concepts/revolutionaryeconomicselfreliance/"
@@ -716,6 +719,9 @@ wiki_pages:
   - key: "RevolutionaryPopularJustice"
     title: "Revolutionary Popular Justice"
     url: "/wiki/concepts/revolutionarypopularjustice/"
+  - key: "RevolutionaryRomanism"
+    title: "Revolutionary Romanism"
+    url: "/wiki/concepts/revolutionaryromanism/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"

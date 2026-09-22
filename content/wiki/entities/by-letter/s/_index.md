@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10509
+wiki_total_pages: 10512
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "Sanrio"
     title: "Sanrio / 三丽鸥"
     url: "/wiki/entities/sanrio/"
+  - key: "SansCulottes"
+    title: "Sans-culottes"
+    url: "/wiki/entities/sansculottes/"
   - key: "SanShengPharma"
     title: "SanSheng Pharma / 三生制药"
     url: "/wiki/entities/sanshengpharma/"

@@ -22396,6 +22396,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/citizenjournalismaccountability/"
     },
+    "CitizenSoldierSymbolicLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/citizensoldiersymboliclegitimacy/"
+    },
     "CityPlacePremium": {
       "episode_count": 1,
       "show_count": 1,
@@ -46021,9 +46037,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -46066,9 +46082,16 @@
           "show": "The Rest Is History",
           "title": "544. The French Revolution: The September Massacres (Part 1)",
           "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        },
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/frenchrevolution/"
     },
     "FreshAllergySafeProductionScaling": {
@@ -64865,9 +64888,9 @@
       "url": "/wiki/entities/jacobitism/"
     },
     "JacquesLouisDavid": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -64882,9 +64905,16 @@
           "show": "The Rest Is History",
           "title": "707. The Terror: An Assassination in Paris (Part 1)",
           "url": "/wiki/sources/707-the-terror-an-assassination-in-paris-part-1-glt6580043397/"
+        },
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/jacqueslouisdavid/"
     },
     "JamesCallender": {
@@ -69946,6 +69976,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/lvmh/"
+    },
+    "LaMarseillaise": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/lamarseillaise/"
     },
     "LaborIllusion": {
       "episode_count": 1,
@@ -88101,9 +88147,9 @@
       "url": "/wiki/entities/natesoares/"
     },
     "NationalAnthemPoliticalPlasticity": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT5596929385 [GLT5596929385].md",
@@ -88139,9 +88185,16 @@
           "show": "The Rest Is History",
           "title": "677. USA: The Star-Spangled Banner (Part 1)",
           "url": "/wiki/sources/677-usa-the-star-spangled-banner-part-1-glt7890467734/"
+        },
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
     },
     "NationalCollegiateAthleticAssociation": {
@@ -105285,6 +105338,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
     },
+    "RevolutionaryDressPoliticalIdentity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/revolutionarydresspoliticalidentity/"
+    },
     "RevolutionaryFactionalOutflanking": {
       "episode_count": 1,
       "show_count": 1,
@@ -105403,6 +105472,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionarypopularjustice/"
+    },
+    "RevolutionaryRomanism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/revolutionaryromanism/"
     },
     "RevolutionaryTerrorPolitics": {
       "episode_count": 3,
@@ -107089,6 +107174,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/rotatorcuffexternalrotation/"
     },
+    "RougetDeLisle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/rougetdelisle/"
+    },
     "Roundup": {
       "episode_count": 1,
       "show_count": 1,
@@ -108536,6 +108637,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/sanguozhi/"
+    },
+    "SansCulottes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5535769124 [GLT5535769124].md",
+          "key": "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124",
+          "show": "The Rest Is History",
+          "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
+          "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/sansculottes/"
     },
     "SantaiZiCatholicVillage": {
       "episode_count": 1,
