@@ -21415,6 +21415,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | 496. Evita: The World's Most Powerful Woman (Part 3)
+
+Added source `496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328`; created `EvaPeronFoundation` and `ElectiveAuthoritarianism`; updated `EvaPeron`, `JuanPeron`, `Peronism`, and the index. Core synthesis: Evita's direct relief, union and women's mobilization, glamour, foundation, and devotional rhetoric made welfare and spectacle mutually reinforcing parts of Peronist authority, while Perón's fair electoral victory increasingly coexisted with court, press, speech, and constitutional erosion. No settled contradiction found; foundation finances, corruption claims, political motives, fascism comparisons, and the elective-authoritarian label remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)
 
 Added source `499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726`; created `Commius`, `Cassivellaunus`, `Mandubracius`, `Trinovantes`, and `CaesarsBritishExpeditions`; updated `JuliusCaesar`, `RomanBritain`, `RomanConquestOfBritain`, and the index. Core synthesis: Caesar's 55 and 54 BC campaigns joined amphibious risk, intelligence gathering, British dynastic rivalry, client brokerage, captives, tribute promises, and Roman prestige, but produced no province; the durable conquest sequence therefore has a Caesarian prehistory without treating temporary penetration as occupation. No settled contradiction found; Caesar's simultaneous claims of British mystery and British support for Gaul are held as an internal tension, while force totals, landing sites, battle details, tribute, ethnography, resources, coinage, and British motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21592,6 +21596,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión
 
 Added source `how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481`; created `VictorCarrion`, `CueCenteredTherapy`, `TraumaCueResponse`, and `PediatricPTSDRecognition`; updated the index. Core synthesis: pediatric trauma can produce cue-linked hyperarousal, dissociation, sleep disruption, somatic distress, and ADHD-like presentation; cue-centered therapy builds understanding, agency, personalized regulation tools, and state-matched reflection before trauma narrative work. No settled contradiction found; cortisol, imaging, school-yoga, organoid, accelerated-aging, and transgenerational claims remain source-scoped, while PTSD-versus-ADHD distinctions do not replace qualified assessment or medication guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

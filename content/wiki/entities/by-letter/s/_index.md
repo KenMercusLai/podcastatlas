@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10557
+wiki_total_pages: 10558
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"

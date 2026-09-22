@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2644
+topic_total_pages: 2645
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1087,6 +1087,9 @@ topic_concepts:
   - key: "ElectionFacingStabilization"
     title: "Election-Facing Stabilization"
     url: "/wiki/concepts/electionfacingstabilization/"
+  - key: "ElectiveAuthoritarianism"
+    title: "Elective Authoritarianism"
+    url: "/wiki/concepts/electiveauthoritarianism/"
   - key: "ElectoralBackchannelCausationBoundary"
     title: "Electoral Backchannel Causation Boundary"
     url: "/wiki/concepts/electoralbackchannelcausationboundary/"

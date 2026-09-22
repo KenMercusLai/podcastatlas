@@ -1726,6 +1726,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "496-yiminchao-beihou-de-xiuda-cong-gudian-shidai-manzu-duhai-yibiliya-shoufu-shidi-yundong-dao-putaoya-dahanghai-lu8pawnkiselmmrgubrey4pq-4fw": [
     {
       "key": "history",
@@ -24323,6 +24330,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ElectiveAuthoritarianism": [
     {
       "key": "politics",
       "label": "Politics",

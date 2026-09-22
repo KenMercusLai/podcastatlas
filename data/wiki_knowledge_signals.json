@@ -36314,6 +36314,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/electionfacingstabilization/"
     },
+    "ElectiveAuthoritarianism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3440260328 [GLT3440260328].md",
+          "key": "496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328",
+          "show": "The Rest Is History",
+          "title": "496. Evita: The World's Most Powerful Woman (Part 3)",
+          "url": "/wiki/sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/electiveauthoritarianism/"
+    },
     "ElectiveStudyAbroad": {
       "episode_count": 1,
       "show_count": 1,
@@ -40488,9 +40504,9 @@
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
     "EvaPeron": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5587823308 [GLT5587823308].md",
@@ -40505,10 +40521,33 @@
           "show": "The Rest Is History",
           "title": "497. Evita: Death of a Martyr (Part 4)",
           "url": "/wiki/sources/497-evita-death-of-a-martyr-part-4-glt5046116399/"
+        },
+        {
+          "episode_file": "GLT3440260328 [GLT3440260328].md",
+          "key": "496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328",
+          "show": "The Rest Is History",
+          "title": "496. Evita: The World's Most Powerful Woman (Part 3)",
+          "url": "/wiki/sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328/"
         }
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/evaperon/"
+    },
+    "EvaPeronFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3440260328 [GLT3440260328].md",
+          "key": "496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328",
+          "show": "The Rest Is History",
+          "title": "496. Evita: The World's Most Powerful Woman (Part 3)",
+          "url": "/wiki/sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/evaperonfoundation/"
     },
     "EvaluationAttachmentRelease": {
       "episode_count": 1,
@@ -68497,9 +68536,9 @@
       "url": "/wiki/entities/juyuanlatehan/"
     },
     "JuanPeron": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5587823308 [GLT5587823308].md",
@@ -68514,6 +68553,13 @@
           "show": "The Rest Is History",
           "title": "497. Evita: Death of a Martyr (Part 4)",
           "url": "/wiki/sources/497-evita-death-of-a-martyr-part-4-glt5046116399/"
+        },
+        {
+          "episode_file": "GLT3440260328 [GLT3440260328].md",
+          "key": "496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328",
+          "show": "The Rest Is History",
+          "title": "496. Evita: The World's Most Powerful Woman (Part 3)",
+          "url": "/wiki/sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328/"
         }
       ],
       "updated": "2026-09-23",
@@ -96632,9 +96678,9 @@
       "url": "/wiki/concepts/permanentcapitalcompounding/"
     },
     "Peronism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5587823308 [GLT5587823308].md",
@@ -96649,6 +96695,13 @@
           "show": "The Rest Is History",
           "title": "497. Evita: Death of a Martyr (Part 4)",
           "url": "/wiki/sources/497-evita-death-of-a-martyr-part-4-glt5046116399/"
+        },
+        {
+          "episode_file": "GLT3440260328 [GLT3440260328].md",
+          "key": "496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328",
+          "show": "The Rest Is History",
+          "title": "496. Evita: The World's Most Powerful Woman (Part 3)",
+          "url": "/wiki/sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328/"
         }
       ],
       "updated": "2026-09-23",

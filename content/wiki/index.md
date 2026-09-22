@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [496. Evita: The World's Most Powerful Woman (Part 3)](sources/496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328.md) — The Rest Is History episode on Evita's welfare brokerage, glamour, women's mobilization, foundation, and Peronism's elective-authoritarian drift.
 - [How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión](sources/how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481.md) — Huberman Lab interview on pediatric PTSD, conditioned cues, developmental differential diagnosis, cue-centered therapy, stress biology, and school-based prevention.
 - [VOL.134心累？别硬撑！心力衰竭危机四伏](sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj.md) — 这病说来话长 episode on heart-failure risk, symptoms, diagnosis, cause-directed treatment, medication boundaries, daily monitoring, and urgent escalation.
 - [497. Evita: Death of a Martyr (Part 4)](sources/497-evita-death-of-a-martyr-part-4-glt5046116399.md) — The Rest Is History episode on Evita's cancer, vice-presidential renunciation, living martyr cult, mass mourning, and the beginning of her body's political preservation.
@@ -2717,12 +2718,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Eva Perón Foundation](entities/EvaPeronFoundation.md) — Argentine welfare organization that scaled Evita's direct relief while personalizing material provision as Peronist political authority.
 - [Victor Carrión](entities/VictorCarrion.md) — Child and adolescent psychiatrist connecting trauma cues, developmental PTSD, psychotherapy, stress physiology, and school prevention.
 - [周琼 / Zhou Qiong](entities/ZhouQiong.md) — Fuwai Hospital cardiologist explaining heart-failure recognition, treatment, and long-term management.
 - [中国医学科学院阜外医院 / Fuwai Hospital](entities/FuwaiHospital.md) — Cardiology institution named as Zhou Qiong's affiliation in VOL.134.
 - [Pedro Ara](entities/PedroAra.md) — Anatomy professor and embalmer commissioned to preserve Evita for permanent political display.
-- [Eva Perón](entities/EvaPeron.md) — Argentine political figure whose preserved body became a contested Peronist relic after her death.
-- [Juan Perón](entities/JuanPeron.md) — Argentine president and Peronist leader followed through post-Evita decline, exile, return, and succession.
+- [Eva Perón](entities/EvaPeron.md) — Argentine political figure who joined welfare, labor and women's mobilization, glamour, martyrdom, and posthumous symbolic power.
+- [Juan Perón](entities/JuanPeron.md) — Argentine president whose electoral coalition, authoritarian drift, overthrow, exile, and return shaped Peronism.
 - [Isabel Perón](entities/IsabelPeron.md) — Perón's exile-era messenger, vice-president, successor, and president overthrown in 1976.
 - [José López Rega](entities/JoseLopezRega.md) — Peronist household insider and minister linked by the episode to occultism and the right-wing AAA.
 - [Montoneros](entities/Montoneros.md) — Left-wing Peronist organization that mobilized Evita's memory amid 1970s factional violence.
@@ -13285,6 +13287,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Elective Authoritarianism](concepts/ElectiveAuthoritarianism.md) — Pattern in which electoral legitimacy coexists with cumulative erosion of courts, media, opposition rights, and succession restraints.
 - [Cue-Centered Therapy](concepts/CueCenteredTherapy.md) — Trauma treatment sequence joining cue recognition, personalized regulation tools, state-matched reflection, and paced narrative work.
 - [Trauma Cue Response](concepts/TraumaCueResponse.md) — Learned protective response to a present cue associated with past danger even when the cue is not itself a current threat.
 - [Pediatric PTSD Recognition](concepts/PediatricPTSDRecognition.md) — Developmental differential for trauma-linked hyperarousal, dissociation, sleep, somatic symptoms, traumatic play, and ADHD-like presentation.
@@ -13292,7 +13295,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heart Failure Self-Management / 心衰自我管理](concepts/HeartFailureSelfManagement.md) — Clinician-aligned monitoring, fluid and salt awareness, activity, follow-up, and escalation framework.
 - [Charismatic Political Martyrdom](concepts/CharismaticPoliticalMartyrdom.md) — Political authority built from visible suffering, sacred imagery, renunciation, crowd participation, and sacrificial service.
 - [State-Orchestrated Mass Mourning](concepts/StateOrchestratedMassMourning.md) — National grief organized through official timing, media, closures, dress, silence, processions, and public display.
-- [Peronism](concepts/Peronism.md) — Argentine political movement whose symbolic durability survived proscription while containing violent left-right divisions.
+- [Peronism](concepts/Peronism.md) — Argentine movement joining labor, welfare, nationalism, spectacle, personal loyalty, authoritarian drift, and durable but divided identity.
 - [Political Corpse Relic](concepts/PoliticalCorpseRelic.md) — Preserved body whose custody, concealment, return, and burial become instruments of political legitimacy and memory.
 - [Argentine Dirty War](concepts/ArgentineDirtyWar.md) — Military-dictatorship state terror placed at the end of the episode's pre-1976 violence chronology.
 - [Caesar's British Expeditions](concepts/CaesarsBritishExpeditions.md) — The 55–54 BC interventions understood as reconnaissance, client politics, extraction, and prestige without permanent occupation.

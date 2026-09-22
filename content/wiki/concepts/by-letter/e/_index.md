@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7915
+wiki_total_pages: 7916
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "ElectionFacingStabilization"
     title: "Election-Facing Stabilization"
     url: "/wiki/concepts/electionfacingstabilization/"
+  - key: "ElectiveAuthoritarianism"
+    title: "Elective Authoritarianism"
+    url: "/wiki/concepts/electiveauthoritarianism/"
   - key: "ElectoralBackchannelCausationBoundary"
     title: "Electoral Backchannel Causation Boundary"
     url: "/wiki/concepts/electoralbackchannelcausationboundary/"
