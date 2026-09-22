@@ -4,6 +4,7 @@ type: concept
 tags: [politics, death, memory, legitimacy, ritual]
 sources:
   - 498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308
+  - 497-evita-death-of-a-martyr-part-4-glt5046116399
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -14,37 +15,41 @@ A political corpse relic is a dead body whose preservation, visibility, concealm
 
 ## Current Synthesis
 
-[[EvaPeron|Evita]]'s embalmed body is the defining case. Peronists treated it as a sacred presence, the post-1955 regime tried to neutralize it through secret removal, and later actors recovered, displayed, bargained over, ritualized, and finally buried it. The body's power did not come from physical agency but from the living communities that treated custody as proof of recognition or domination.
+[[EvaPeron|Evita]]'s body became politically consequential before embalming was complete. The funeral placed her in a glass-lidded coffin amid huge crowds, while [[JuanPeron|Juan Perón]] planned permanent display and [[PedroAra|Pedro Ara]] struggled against decay. The desired image of incorruptibility therefore depended on material intervention as well as sacred language and public belief.
+
+Peronists later treated the preserved body as a continuing presence, the post-1955 regime tried to neutralize it through secret removal, and subsequent actors recovered, displayed, bargained over, ritualized, and finally buried it. Its power came from living communities that treated bodily custody as recognition, possession, or domination.
 
 ## Key Claims
 
-- Preservation can extend a leader's symbolic presence beyond death.
-- Public display and monumental burial can materialize political belonging.
+- Funeral display and preservation technology can initiate a body's political afterlife immediately.
+- Incorruptibility is a produced political image rather than a passive physical condition.
+- Public display and monumental burial can materialize collective belonging.
 - Concealment may acknowledge rather than eliminate a corpse's political power.
-- Custody and repatriation can become substitutes for unresolved legitimacy claims.
-- Rumor grows where secrecy, bodily uncertainty, and political myth overlap.
+- Custody and repatriation can substitute for unresolved legitimacy claims.
 - Final burial can settle location without settling meaning.
 
 ## Evidence
 
-- Sacred display: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] describes embalming, processions, canonization demands, and a proposed giant monument.
-- Anti-symbolic concealment: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] says military authorities removed the body, transported it covertly, and buried it in Milan under a false name.
-- Recovery and household custody: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] follows its exhumation, delivery to Perón in Madrid, examination, and storage in the house.
-- Exchange and final burial: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] links the Montoneros' seizure of Aramburu's body to Evita's repatriation and later burial in Recoleta Cemetery.
+- Initial display and preservation: [[497-evita-death-of-a-martyr-part-4-glt5046116399]] describes the glass coffin, crowd pressure, decomposition, public processions, and Ara's secret laboratory.
+- Monumental intent: [[497-evita-death-of-a-martyr-part-4-glt5046116399]] says Perón planned permanent preservation and display comparable to a revolutionary state relic.
+- Anti-symbolic concealment: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] says military authorities removed the body and buried it in Milan under a false name.
+- Recovery and exchange: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] follows exhumation, delivery to Perón in Madrid, political bargaining, repatriation, and final burial.
 
 ## Counterevidence & Qualifications
 
-Not every politically important burial is a political corpse relic. The concept requires continuing action around the physical remains, not memory alone. The Evita case also contains rumor, fiction, memoir, and occult claims; the verified custody sequence should not be collapsed into the episode's least certain ritual details. Unlike [[PublicCorpseHumiliation]], the main mechanism here is contested veneration, concealment, and possession rather than public degradation.
+Not every politically important burial is a political corpse relic; continuing action around physical remains is required. The Evita case contains rumor, fiction, memoir, occult claims, and disputed descriptions of bodily damage. Its verified custody sequence should not be collapsed into its least certain details. Unlike [[PublicCorpseHumiliation]], the main mechanism is contested veneration, concealment, and possession rather than public degradation.
 
 ## What Changed
 
-- Created the concept from Evita's preserved, hidden, recovered, exchanged, and finally buried body.
+- Added the funeral-stage origin of the relic: public display, physical decay, embalming, and planned permanent preservation.
+- Clarified that apparent incorruptibility depended on technical labor and controlled access.
 
 ## Related Concepts
 
+- [[CharismaticPoliticalMartyrdom]] - living sacrificial image that gave the body sacred political value.
+- [[StateOrchestratedMassMourning]] - funeral system that made the body a national public object.
 - [[PublicCorpseHumiliation]] - contrasting use of a body through degradation and intimidation.
 - [[HistoricalMemoryContest|历史记忆竞争]] - broader struggle over who controls the meaning of the past.
-- [[Peronism]] - movement whose legitimacy and memory made the body politically consequential.
+- [[Peronism]] - movement whose legitimacy made the body consequential.
 - [[EvaPeron]] - defining person whose remains became the contested relic.
 - [[Montoneros]] - organization that made body custody part of political bargaining.
-- [[ArgentineDirtyWar]] - violence context in which body disappearance and political memory acquired further weight.

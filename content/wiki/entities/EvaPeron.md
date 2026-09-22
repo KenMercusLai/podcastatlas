@@ -4,6 +4,7 @@ type: entity
 tags: [person, argentina, politics, peronism, political-memory]
 sources:
   - 498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308
+  - 497-evita-death-of-a-martyr-part-4-glt5046116399
 last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
@@ -12,42 +13,47 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Eva "Evita" Perón is the Argentine political figure whose posthumous presence anchors the episode's account of [[Peronism]], political memory, and the struggle over a preserved body.
+Eva "Evita" Perón was an Argentine political figure whose final illness, mass following, death, and preserved body made her a central symbol of [[Peronism]] and political memory.
 
 ## Current Profile
 
-The source presents Evita as more than [[JuanPeron|Juan Perón]]'s late wife or a remembered public figure. Her emotional relationship with workers and poorer supporters had helped translate the regime into personal attachment; after her 1952 death, embalming, processions, canonization demands, and a planned monumental tomb converted grief into a durable political cult.
+The source set now follows Evita across the boundary between life and political afterlife. In 1950-52, concealed cancer, resistance to treatment, relentless work, the vice-presidential nomination drama, religious vigils, and final public appearances made bodily suffering part of a [[CharismaticPoliticalMartyrdom]] narrative. Her supporters treated her as maternal protector, sacrificial servant, and quasi-sacred presence, while her late rhetoric also offered a more militant image to later radicals.
 
-After the 1955 coup, anti-Peronist authorities treated her body as dangerous enough to conceal abroad. Its later recovery, use by rival Peronist factions, and final burial show how her image persisted when the movement itself was outlawed or divided.
+After her death, immense crowds and [[StateOrchestratedMassMourning]] converted devotion into national ritual. Embalming, a planned monument, concealment after the 1955 coup, recovery, repatriation, and final burial then made her remains a [[PoliticalCorpseRelic]] through which rival regimes and Peronist factions contested legitimacy.
 
 ## Key Characteristics
 
-- Her political afterlife joined mass grief, religious imagery, spectacle, and partisan identity.
-- Her preserved body became a [[PoliticalCorpseRelic]] controlled by successive regimes and factions.
-- Her memory remained usable across establishment, left-wing, and popular Peronist currents.
-- Her absence exposed an emotional and organizational role that Juan Perón could not easily replace.
-- The evidence around the corpse includes documented custody changes alongside rumor and legend.
+- Her authority joined labor and popular identification to maternal, Catholic, and Marian imagery.
+- She converted visible illness, work, renunciation, and suffering into a sacrificial political role.
+- Her public decline strengthened devotion while making medical choices inseparable from political theater.
+- Her late speeches combined loyalty and self-sacrifice with fanatic and violent rhetoric.
+- Her death generated both genuine mass grief and institutionally compelled mourning.
+- Her preserved body remained politically usable across proscription, exile, and factional conflict.
 
 ## Evidence
 
-- Cult and commemoration: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] describes embalming, monthly processions, sacred imagery, canonization demands, and plans for a vast monument.
+- Living martyrdom and devotional politics: [[497-evita-death-of-a-martyr-part-4-glt5046116399]] follows illness concealment, treatment resistance, Marian language, the vice-presidential campaign, vigils, hospital voting, and final rallies.
+- Mourning and preservation: [[497-evita-death-of-a-martyr-part-4-glt5046116399]] describes funeral crowds, compulsory mourning practices, bodily decay, and [[PedroAra|Pedro Ara]]'s embalming commission.
 - Suppression and concealment: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] says the post-1955 regime removed the body, secretly buried it in Milan under another name, and tried to suppress Evita's public memory.
-- Political return: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] links Evita's image to the [[Montoneros]], [[IsabelPeron|Isabel Perón]]'s public role, Perón's return, and the eventual repatriation of the body.
+- Political return: [[498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308]] links Evita's image to the [[Montoneros]], [[IsabelPeron|Isabel Perón]]'s public role, Perón's return, and the body's eventual repatriation.
 
 ## Qualifications
 
-This profile is based on one narrative-history episode focused on Evita's body rather than a full account of her life, policies, foundation, or political responsibility. Ritual, occult, injury, and supernatural claims are kept source-scoped where the episode itself notes uncertainty.
+These two narrative-history episodes emphasize Evita's final illness and posthumous body rather than her whole life, foundation, policy work, or political responsibility. Her treatment decisions, Perón's medical influence, the reported lobotomy and weapons order, occult stories, bodily damage, crowd totals, and private motives remain source-scoped where the episodes signal uncertainty.
 
 ## What Changed
 
-- Created the page around Evita's posthumous political role and the contested custody of her body.
+- Extended the profile backward from posthumous memory to illness, vice-presidential renunciation, religious devotion, and final speeches.
+- Distinguished popular grief from compulsory mourning without reducing either one to the other.
+- Connected Pedro Ara's immediate preservation work to the body's later contested custody.
 
 ## Relationships
 
-- [[JuanPeron]] - husband and political partner whose movement was weakened by her death.
-- [[IsabelPeron]] - later wife of Juan Perón who was publicly cast as an Evita-like successor.
-- [[JoseLopezRega]] - Perón household insider linked to occult stories around Evita's body.
-- [[Peronism]] - political movement that made Evita a durable symbol across exile and factional division.
-- [[Montoneros]] - left-wing Peronist organization that mobilized her memory.
+- [[JuanPeron]] - husband and political partner whose regime depended partly on her emotional connection to supporters.
+- [[PedroAra]] - embalmer commissioned to preserve her body for permanent display.
+- [[Peronism]] - movement that made her living sacrifice and posthumous image durable political resources.
+- [[CharismaticPoliticalMartyrdom]] - framework for the authority produced through her visible suffering and renunciation.
+- [[StateOrchestratedMassMourning]] - framework for the popular and compulsory dimensions of her funeral.
 - [[PoliticalCorpseRelic]] - concept describing the political work performed by her preserved body.
-- [[Argentina]] - national setting in which her memory remained politically contested.
+- [[Montoneros]] - left-wing Peronist organization that later mobilized her memory.
+- [[Argentina]] - national setting in which her life, death, and remains remained politically contested.

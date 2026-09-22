@@ -21580,3 +21580,11 @@ Added source `vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpz
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 497. Evita: Death of a Martyr (Part 4)
+
+Added source `497-evita-death-of-a-martyr-part-4-glt5046116399`; created `PedroAra`, `CharismaticPoliticalMartyrdom`, and `StateOrchestratedMassMourning`; updated `EvaPeron`, `JuanPeron`, `Peronism`, `PoliticalCorpseRelic`, and the index. Core synthesis: Evita's illness, vice-presidential renunciation, sacred imagery, final rallies, and funeral rituals turned bodily decline into political martyrdom, while popular grief and compulsory mourning jointly prepared her preserved body for a contested political afterlife. No settled contradiction found; Perón's role in treatment delay, the reported lobotomy, the weapons order, medical details, private motives, crowd totals, and casualty figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

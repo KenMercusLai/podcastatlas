@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2642
+topic_total_pages: 2644
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -544,6 +544,9 @@ topic_concepts:
   - key: "ChangeElectionPolitics"
     title: "Change Election Politics"
     url: "/wiki/concepts/changeelectionpolitics/"
+  - key: "CharismaticPoliticalMartyrdom"
+    title: "Charismatic Political Martyrdom"
+    url: "/wiki/concepts/charismaticpoliticalmartyrdom/"
   - key: "ChatbotGeneratedContentLiability"
     title: "Chatbot-Generated Content Liability"
     url: "/wiki/concepts/chatbotgeneratedcontentliability/"
@@ -3331,6 +3334,9 @@ topic_concepts:
   - key: "StateManagedProstitution"
     title: "State-Managed Prostitution / 国家管制女闾"
     url: "/wiki/concepts/statemanagedprostitution/"
+  - key: "StateOrchestratedMassMourning"
+    title: "State-Orchestrated Mass Mourning"
+    url: "/wiki/concepts/stateorchestratedmassmourning/"
   - key: "StatelessExile"
     title: "Stateless Exile / 无国籍流亡"
     url: "/wiki/concepts/statelessexile/"

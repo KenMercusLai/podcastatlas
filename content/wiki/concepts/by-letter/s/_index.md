@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7910
+wiki_total_pages: 7912
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "StateMediatedRemittanceSystem"
     title: "State-Mediated Remittance System / 国家中介汇款体系"
     url: "/wiki/concepts/statemediatedremittancesystem/"
+  - key: "StateOrchestratedMassMourning"
+    title: "State-Orchestrated Mass Mourning"
+    url: "/wiki/concepts/stateorchestratedmassmourning/"
   - key: "StateOwnedCeramicFactorySystem"
     title: "State-Owned Ceramic Factory System / 国营瓷厂体系"
     url: "/wiki/concepts/stateownedceramicfactorysystem/"

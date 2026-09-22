@@ -1733,6 +1733,13 @@
       "url": "/topics/history/"
     }
   ],
+  "497-evita-death-of-a-martyr-part-4-glt5046116399": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308": [
     {
       "key": "history",
@@ -15218,6 +15225,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CharismaticPoliticalMartyrdom": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CharismaticPoliticalPerformance": [
@@ -53458,6 +53472,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "PedroAra": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PedroSanchez": [
     {
       "key": "politics",
@@ -66718,6 +66739,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "StateOrchestratedMassMourning": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "StateOwnedEnterpriseSocialValue": [

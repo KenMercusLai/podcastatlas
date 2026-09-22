@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [VOL.134心累？别硬撑！心力衰竭危机四伏](sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj.md) — 这病说来话长 episode on heart-failure risk, symptoms, diagnosis, cause-directed treatment, medication boundaries, daily monitoring, and urgent escalation.
+- [497. Evita: Death of a Martyr (Part 4)](sources/497-evita-death-of-a-martyr-part-4-glt5046116399.md) — The Rest Is History episode on Evita's cancer, vice-presidential renunciation, living martyr cult, mass mourning, and the beginning of her body's political preservation.
 - [498. Evita: The Mystery of the Missing Body (Part 5)](sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308.md) — The Rest Is History episode on Evita's preserved body, Peronist proscription and return, factional violence, and the path to Argentina's 1976 dictatorship.
 - [499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)](sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726.md) — The Rest Is History episode on Caesar's 55–54 BC expeditions, amphibious limits, British client politics, imperial spectacle, and withdrawal without a province.
 - [500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)](sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317.md) — The Rest Is History episode on Claudius's legitimacy needs, Verica's exile, Plautius's invasion, British collaboration and resistance, and the road from AD 43 to Anglesey.
@@ -2717,6 +2718,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [周琼 / Zhou Qiong](entities/ZhouQiong.md) — Fuwai Hospital cardiologist explaining heart-failure recognition, treatment, and long-term management.
 - [中国医学科学院阜外医院 / Fuwai Hospital](entities/FuwaiHospital.md) — Cardiology institution named as Zhou Qiong's affiliation in VOL.134.
+- [Pedro Ara](entities/PedroAra.md) — Anatomy professor and embalmer commissioned to preserve Evita for permanent political display.
 - [Eva Perón](entities/EvaPeron.md) — Argentine political figure whose preserved body became a contested Peronist relic after her death.
 - [Juan Perón](entities/JuanPeron.md) — Argentine president and Peronist leader followed through post-Evita decline, exile, return, and succession.
 - [Isabel Perón](entities/IsabelPeron.md) — Perón's exile-era messenger, vice-president, successor, and president overthrown in 1976.
@@ -13283,6 +13285,8 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [Heart Failure / 心力衰竭](concepts/HeartFailure.md) — Cardiac syndrome linking upstream disease, clustered symptoms, objective diagnosis, phenotype, and layered treatment.
 - [Heart Failure Self-Management / 心衰自我管理](concepts/HeartFailureSelfManagement.md) — Clinician-aligned monitoring, fluid and salt awareness, activity, follow-up, and escalation framework.
+- [Charismatic Political Martyrdom](concepts/CharismaticPoliticalMartyrdom.md) — Political authority built from visible suffering, sacred imagery, renunciation, crowd participation, and sacrificial service.
+- [State-Orchestrated Mass Mourning](concepts/StateOrchestratedMassMourning.md) — National grief organized through official timing, media, closures, dress, silence, processions, and public display.
 - [Peronism](concepts/Peronism.md) — Argentine political movement whose symbolic durability survived proscription while containing violent left-right divisions.
 - [Political Corpse Relic](concepts/PoliticalCorpseRelic.md) — Preserved body whose custody, concealment, return, and burial become instruments of political legitimacy and memory.
 - [Argentine Dirty War](concepts/ArgentineDirtyWar.md) — Military-dictatorship state terror placed at the end of the episode's pre-1976 violence chronology.

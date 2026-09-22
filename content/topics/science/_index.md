@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1167
+topic_total_pages: 1168
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2606,6 +2606,9 @@ topic_entities:
   - key: "PaulSlovic"
     title: "Paul Slovic"
     url: "/wiki/entities/paulslovic/"
+  - key: "PedroAra"
+    title: "Pedro Ara"
+    url: "/wiki/entities/pedroara/"
   - key: "PercyShelley"
     title: "Percy Shelley / 珀西·雪莱"
     url: "/wiki/entities/percyshelley/"
