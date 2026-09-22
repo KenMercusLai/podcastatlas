@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7854
+wiki_total_pages: 7858
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "PoliticalClosureAsLiteraryPressure"
     title: "Political Closure As Literary Pressure"
     url: "/wiki/concepts/politicalclosureasliterarypressure/"
+  - key: "PoliticalComebackGroundwork"
+    title: "Political Comeback Groundwork"
+    url: "/wiki/concepts/politicalcomebackgroundwork/"
   - key: "PoliticalConditionAsHumanExperiment"
     title: "Political Condition As Human Experiment / 政治条件作为人性实验"
     url: "/wiki/concepts/politicalconditionashumanexperiment/"

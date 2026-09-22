@@ -1759,6 +1759,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "513-america-in-68-nixons-great-comeback-part-6-glt3853956463": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "53-meigui-de-mingzi-shang-zhen-yu-jia-zheng-yu-xie-quanshi-yu-guodu-quanshi-636490184": [
     {
       "key": "culture",
@@ -8832,6 +8844,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AnnaChennault": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AnnaHolligan": [
@@ -18616,6 +18635,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ControlledTelevisionCampaign": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ControversialLaunchVirality": [
     {
       "key": "culture",
@@ -24098,6 +24129,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ElectoralBackchannelCausationBoundary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ElectoralIneligibilityPenalty": [
@@ -30524,6 +30562,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "GeorgeWallace": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GeorgeWhitman": [
     {
       "key": "culture",
@@ -32323,6 +32368,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HRHaldeman": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "HSBC": [
@@ -35198,6 +35255,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HubertHumphrey": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HuckleberryFinn": [
@@ -41561,6 +41625,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LawAndOrderRacialSignaling": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "LawEnforcementAgainstElitePrivilege": [
@@ -54625,6 +54696,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "PoliticalComebackGroundwork": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PoliticalConditionAsHumanExperiment": [
     {
       "key": "politics",
@@ -65413,6 +65491,13 @@
       "url": "/topics/science/"
     }
   ],
+  "SpiroAgnew": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SplitGlobalization": [
     {
       "key": "politics",
@@ -72951,6 +73036,13 @@
     }
   ],
   "UnitedStatesConstitution": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "UnitedStatesPresidentialElection1968": [
     {
       "key": "politics",
       "label": "Politics",

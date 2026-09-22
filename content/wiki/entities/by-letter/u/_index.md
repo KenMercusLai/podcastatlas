@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 10485
+wiki_total_pages: 10491
 wiki_pages:
+  - key: "UnitedStatesPresidentialElection1968"
+    title: "1968 United States Presidential Election"
+    url: "/wiki/entities/unitedstatespresidentialelection1968/"
   - key: "UDropInn"
     title: "U Drop Inn"
     url: "/wiki/entities/udropinn/"

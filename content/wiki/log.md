@@ -21326,3 +21326,11 @@ Added source `essentials-how-hormones-shape-sexual-development-scim8971920142`; 
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 513. America in '68: Nixon's Great Comeback (Part 6)
+
+Added source `513-america-in-68-nixons-great-comeback-part-6-glt3853956463`; created `UnitedStatesPresidentialElection1968`, `HubertHumphrey`, `SpiroAgnew`, `HRHaldeman`, `AnnaChennault`, `GeorgeWallace`, `PoliticalComebackGroundwork`, `ControlledTelevisionCampaign`, `LawAndOrderRacialSignaling`, and `ElectoralBackchannelCausationBoundary`; migrated and updated `RichardNixon` and `LyndonBJohnson`; and updated the index. Core synthesis: Nixon's return joined patient party rebuilding, loyalist control, staged television, emotionally broad slogans, and a law-and-order message that was less explicit than Wallace's rhetoric but still exploited racial fear. No settled contradiction found. Chennault-campaign contact and Johnson's suspicion are retained, while decisive peace-talk sabotage remains contested because South Vietnam had independent objections and agency. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

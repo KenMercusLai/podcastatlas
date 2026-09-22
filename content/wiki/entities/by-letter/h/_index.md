@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10485
+wiki_total_pages: 10491
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "HPLovecraft"
     title: "H. P. Lovecraft / 洛夫克拉夫特"
     url: "/wiki/entities/hplovecraft/"
+  - key: "HRHaldeman"
+    title: "H. R. Haldeman"
+    url: "/wiki/entities/hrhaldeman/"
   - key: "HBReese"
     title: "H.B. Reese"
     url: "/wiki/entities/hbreese/"
@@ -752,6 +755,9 @@ wiki_pages:
   - key: "HubermanLab"
     title: "Huberman Lab"
     url: "/wiki/entities/hubermanlab/"
+  - key: "HubertHumphrey"
+    title: "Hubert Humphrey"
+    url: "/wiki/entities/huberthumphrey/"
   - key: "HuggingFace"
     title: "Hugging Face"
     url: "/wiki/entities/huggingface/"

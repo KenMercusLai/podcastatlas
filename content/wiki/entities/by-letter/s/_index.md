@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10485
+wiki_total_pages: 10491
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "SpiritAirlines"
     title: "Spirit Airlines"
     url: "/wiki/entities/spiritairlines/"
+  - key: "SpiroAgnew"
+    title: "Spiro Agnew"
+    url: "/wiki/entities/spiroagnew/"
   - key: "SportingLisbon"
     title: "Sporting Lisbon"
     url: "/wiki/entities/sportinglisbon/"

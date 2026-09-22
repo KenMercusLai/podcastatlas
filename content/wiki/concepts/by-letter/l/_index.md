@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7854
+wiki_total_pages: 7858
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "LawEnforcementCultureAccountability"
     title: "Law Enforcement Culture Accountability"
     url: "/wiki/concepts/lawenforcementcultureaccountability/"
+  - key: "LawAndOrderRacialSignaling"
+    title: "Law-and-Order Racial Signaling"
+    url: "/wiki/concepts/lawandorderracialsignaling/"
   - key: "LawMoralityBoundary"
     title: "Law-Morality Boundary"
     url: "/wiki/concepts/lawmoralityboundary/"

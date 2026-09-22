@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7854
+wiki_total_pages: 7858
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1709,6 +1709,9 @@ wiki_pages:
   - key: "ControlledSubstancesAct"
     title: "Controlled Substances Act"
     url: "/wiki/concepts/controlledsubstancesact/"
+  - key: "ControlledTelevisionCampaign"
+    title: "Controlled Television Campaign"
+    url: "/wiki/concepts/controlledtelevisioncampaign/"
   - key: "ControversialLaunchVirality"
     title: "Controversial Launch Virality"
     url: "/wiki/concepts/controversiallaunchvirality/"

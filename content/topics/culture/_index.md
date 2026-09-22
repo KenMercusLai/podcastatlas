@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2778
+topic_total_pages: 2780
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -709,6 +709,9 @@ topic_concepts:
   - key: "ControlledHumorWithPain"
     title: "Controlled Humor With Pain"
     url: "/wiki/concepts/controlledhumorwithpain/"
+  - key: "ControlledTelevisionCampaign"
+    title: "Controlled Television Campaign"
+    url: "/wiki/concepts/controlledtelevisioncampaign/"
   - key: "ControversialLaunchVirality"
     title: "Controversial Launch Virality"
     url: "/wiki/concepts/controversiallaunchvirality/"
@@ -3860,6 +3863,9 @@ topic_entities:
   - key: "HGWells"
     title: "H. G. Wells / H. G. 威尔斯"
     url: "/wiki/entities/hgwells/"
+  - key: "HRHaldeman"
+    title: "H. R. Haldeman"
+    url: "/wiki/entities/hrhaldeman/"
   - key: "Halifax"
     title: "Halifax / 哈利法克斯"
     url: "/wiki/entities/halifax/"

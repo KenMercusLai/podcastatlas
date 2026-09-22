@@ -2681,6 +2681,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Essentials: How Hormones Shape Sexual Development](sources/essentials-how-hormones-shape-sexual-development-scim8971920142.md) — Huberman Lab Essentials episode on layered sexual differentiation, DHT and aromatase pathways, receptor-dependent effects, puberty, and evidence boundaries for environmental endocrine-disruption claims.
 
+- [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
+
 ## Entities
 - [Michael Platt](entities/MichaelPlatt.md) — Neuroscientist and primatologist connecting attention, social valuation, hormones, hierarchy, markets, and applied decision science.
 - [Jocelyn Jiang](entities/JocelynJiang.md) — Actuary and MultiPlan data-decision leader discussing responsible AI in employee health benefits.
@@ -13175,6 +13177,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏见信（信） / Shin](entities/SuJianxin.md) — Singer connecting minimum-resistance training, food, travel, art, optimism, and concert preparation in a source-bounded lifestyle profile.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
+- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Close Nixon-Humphrey-Wallace contest shaped by Vietnam, disorder, racial signaling, campaign control, and a late Democratic recovery.
+- [Hubert Humphrey](entities/HubertHumphrey.md) — Democratic nominee whose break with Johnson's bombing policy enabled a late but incomplete 1968 recovery.
+- [Spiro Agnew](entities/SpiroAgnew.md) — Nixon running mate selected to reinforce border-state and law-and-order appeal.
+- [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control, staged television, and racially calculated messaging.
+- [Anna Chennault](entities/AnnaChennault.md) — Campaign intermediary whose contact with South Vietnam is documented but whose decisive influence remains contested.
+- [George Wallace](entities/GeorgeWallace.md) — Third-party 1968 candidate and explicit-rhetoric contrast for Nixon's more coded racial appeal.
+
 ## Concepts
 - [Attention Foraging Model](concepts/AttentionForagingModel.md) — Model of focus and switching as allocation among information patches with competing expected returns.
 - [Social Value Accounting](concepts/SocialValueAccounting.md) — Hierarchy-sensitive account of social information value, reciprocity, and unequal exchange rates.
@@ -21038,5 +21047,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sex-Steroid Feedback Regulation](concepts/SexSteroidFeedbackRegulation.md) — Cross-sex endocrine frame joining testosterone-estrogen conversion, pituitary feedback, context, measurement, fertility, and intervention risk.
 - [Sexual Differentiation Pathway](concepts/SexualDifferentiationPathway.md) — Developmental model joining chromosomes, gonads, hormone production, enzymatic conversion, receptors, tissues, and timing.
 - [Environmental Endocrine Disruption Evidence Boundary](concepts/EnvironmentalEndocrineDisruptionEvidenceBoundary.md) — Evidence boundary separating animal hazards, population trends, mechanism claims, and human causal conclusions about endocrine-active exposures.
+
+- [Political Comeback Groundwork](concepts/PoliticalComebackGroundwork.md) — Party service, local obligations, and primary proof that rebuild viability after electoral defeat.
+- [Controlled Television Campaign](concepts/ControlledTelevisionCampaign.md) — Staged media format that simulates voter access while reducing candidate risk and controlling visual argument.
+- [Law-and-Order Racial Signaling](concepts/LawAndOrderRacialSignaling.md) — Framework separating general public-safety language, coded racial cues, policy signals, and audience reception.
+- [Electoral Backchannel Causation Boundary](concepts/ElectoralBackchannelCausationBoundary.md) — Test separating contact and impropriety from recipient response, policy effect, and decisive electoral causation.
 
 ## Syntheses

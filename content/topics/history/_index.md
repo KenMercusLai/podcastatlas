@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1921
+topic_total_pages: 1922
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4572,6 +4572,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "513-america-in-68-nixons-great-comeback-part-6-glt3853956463"
+    title: "513. America in '68: Nixon's Great Comeback (Part 6)"
+    url: "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
   - key: "540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471"
     title: "540. Horror in the Congo: A Conspiracy Unmasked (Part 3)"
     url: "/wiki/sources/540-horror-in-the-congo-a-conspiracy-unmasked-part-3-glt5172130471/"
