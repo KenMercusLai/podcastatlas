@@ -39785,9 +39785,9 @@
       "url": "/wiki/concepts/ethicaltriageunderscarcity/"
     },
     "EugeneMcCarthy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6589354101 [GLT6589354101].md",
@@ -39795,9 +39795,16 @@
           "show": "The Rest Is History",
           "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
           "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        },
+        {
+          "episode_file": "GLT6375459097 [GLT6375459097].md",
+          "key": "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097",
+          "show": "The Rest Is History",
+          "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
+          "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/eugenemccarthy/"
     },
     "Eumaeus": {
@@ -80051,9 +80058,9 @@
       "url": "/wiki/entities/lvdoctorent/"
     },
     "LyndonBJohnson": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
@@ -80082,9 +80089,16 @@
           "show": "The Rest Is History",
           "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
           "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        },
+        {
+          "episode_file": "GLT6375459097 [GLT6375459097].md",
+          "key": "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097",
+          "show": "The Rest Is History",
+          "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
+          "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/lyndonbjohnson/"
     },
     "LyuBu": {
@@ -99085,9 +99099,9 @@
       "url": "/wiki/concepts/preventiverelationshipmaintenance/"
     },
     "PrimaryDelegateLegitimacyGap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6589354101 [GLT6589354101].md",
@@ -99095,9 +99109,16 @@
           "show": "The Rest Is History",
           "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
           "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        },
+        {
+          "episode_file": "GLT6375459097 [GLT6375459097].md",
+          "key": "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097",
+          "show": "The Rest Is History",
+          "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
+          "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/primarydelegatelegitimacygap/"
     },
     "PrimaryExtremismPressure": {
@@ -126425,9 +126446,9 @@
       "url": "/wiki/entities/unitednationschildrenfund/"
     },
     "UnitedStatesPresidentialElection1968": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -126456,9 +126477,16 @@
           "show": "The Rest Is History",
           "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
           "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        },
+        {
+          "episode_file": "GLT6375459097 [GLT6375459097].md",
+          "key": "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097",
+          "show": "The Rest Is History",
+          "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
+          "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/unitedstatespresidentialelection1968/"
     },
     "UnitedStatesSenate": {
@@ -127843,6 +127871,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/viennasocialhousingscale/"
+    },
+    "VietnamWarCredibilityCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6375459097 [GLT6375459097].md",
+          "key": "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097",
+          "show": "The Rest Is History",
+          "title": "508. America in '68: Nightmare in Vietnam (Part 1)",
+          "url": "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/vietnamwarcredibilitycollapse/"
     },
     "VikingEasternRoutes": {
       "episode_count": 1,

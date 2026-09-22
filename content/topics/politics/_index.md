@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2634
+topic_total_pages: 2636
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3661,6 +3661,9 @@ topic_concepts:
   - key: "VIEEmployeeEquityMismatch"
     title: "VIE Employee Equity Mismatch / VIE 员工股权主体错位"
     url: "/wiki/concepts/vieemployeeequitymismatch/"
+  - key: "VietnamWarCredibilityCollapse"
+    title: "Vietnam War Credibility Collapse"
+    url: "/wiki/concepts/vietnamwarcredibilitycollapse/"
   - key: "ViewpointDebanking"
     title: "Viewpoint Debanking"
     url: "/wiki/concepts/viewpointdebanking/"
@@ -7023,6 +7026,9 @@ topic_sources:
   - key: "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o"
     title: "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？"
     url: "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+  - key: "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097"
+    title: "508. America in '68: Nightmare in Vietnam (Part 1)"
+    url: "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
   - key: "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101"
     title: "510. America in '68: The Killing of Robert Kennedy (Part 3)"
     url: "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"

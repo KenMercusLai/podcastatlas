@@ -21414,3 +21414,11 @@ Added source `how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828`; c
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 508. America in '68: Nightmare in Vietnam (Part 1)
+
+Added source `508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097`; created `VietnamWarCredibilityCollapse`; updated `LyndonBJohnson`, `EugeneMcCarthy`, `UnitedStatesPresidentialElection1968`, `PrimaryDelegateLegitimacyGap`, and the index. Core synthesis: Tet was costly to Communist forces and not a conventional battlefield victory, but its surprise and contradiction of official optimism shattered Johnson's credibility; McCarthy's organized, well-funded, and ideologically broad New Hampshire protest campaign then helped turn that shock into a Democratic succession crisis. No settled contradiction found. Johnson's withdrawal remains multi-causal, while troop and casualty totals, polling, campaign spending, volunteer counts, private motives, health effects, anecdotes, and quoted conversations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

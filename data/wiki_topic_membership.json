@@ -1747,6 +1747,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265": [
     {
       "key": "history",
@@ -74070,6 +74082,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "VietnamWarCredibilityCollapse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ViewpointDebanking": [

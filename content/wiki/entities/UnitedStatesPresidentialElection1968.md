@@ -7,7 +7,8 @@ sources:
   - 512-america-in-68-the-chicago-riots-part-5-glt9860410495
   - 511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412
   - 510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101
-last_updated: 2026-09-22
+  - 508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,13 +20,13 @@ The 1968 United States presidential election is the contest in which [[RichardNi
 
 ## Current Profile
 
-The election is synthesized as a three-candidate general-election contest preceded by a Democratic legitimacy crisis. [[EugeneMcCarthy|Eugene McCarthy]] took the first anti-war primary risk, [[RobertFKennedy|Robert F. Kennedy]] tried to convert votes and mass enthusiasm into delegate pressure, and [[HubertHumphrey|Hubert Humphrey]] remained the institutional front-runner before Kennedy's assassination and the [[Chicago1968DemocraticConvention|Chicago convention]].
+The election is synthesized as a three-candidate general-election contest preceded by a Vietnam-driven Democratic legitimacy crisis. Tet contradicted official optimism without becoming a Communist battlefield victory, and [[EugeneMcCarthy|Eugene McCarthy]] converted the resulting [[VietnamWarCredibilityCollapse|credibility collapse]] into a strong New Hampshire protest result. [[RobertFKennedy|Robert F. Kennedy]] then entered, [[LyndonBJohnson|Lyndon B. Johnson]] withdrew, and Kennedy tried to convert votes and mass enthusiasm into delegate pressure while [[HubertHumphrey|Hubert Humphrey]] remained the institutional front-runner before Kennedy's assassination and the [[Chicago1968DemocraticConvention|Chicago convention]].
 
 In the general election, Wallace pursued a regional Electoral College strategy, nationalized segregation-rooted politics through law and order and anti-elite grievance, and briefly polled near one fifth before his running-mate failure and major-party pressure. Chicago gave Nixon a powerful environment of televised disorder before he converted a large lead into a narrow victory through message discipline, controlled television, and appeals to the “forgotten Americans.” Humphrey recovered after separating himself from Johnson's Vietnam policy, Democratic organizations reactivated, and the administration announced a bombing halt, but the recovery stopped short of victory.
 
 ## Key Characteristics
 
-- Vietnam, Johnson's withdrawal, primary-versus-delegate conflict, and Kennedy's assassination fractured Democratic succession before the convention.
+- Tet's credibility shock, Johnson's withdrawal, primary-versus-delegate conflict, and Kennedy's assassination fractured Democratic succession before the convention.
 - Chicago turned police violence and activist provocation into a public contest over patriotism, order, and Democratic governing competence.
 - Nixon combined reassurance and reconciliation language with law-and-order and anti-busing signals.
 - Humphrey's late break with Johnson over bombing North Vietnam restored anti-war support and donors.
@@ -36,7 +37,8 @@ In the general election, Wallace pursued a regional Electoral College strategy, 
 ## Evidence
 
 - Convention environment: [[512-america-in-68-the-chicago-riots-part-5-glt9860410495]] traces how protest, police violence, party division, and television overshadowed Humphrey's nomination while much of the public sided with police.
-- Democratic nomination prehistory: [[510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101]] traces McCarthy's challenge, Kennedy's primary campaign and assassination, and Humphrey's delegate lead before Chicago.
+- Democratic nomination opening: [[508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097]] traces Vietnam escalation, Tet, McCarthy's New Hampshire campaign, Kennedy's entry, and Johnson's withdrawal.
+- Democratic nomination continuation: [[510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101]] traces the Kennedy-McCarthy primary campaign, Kennedy's assassination, and Humphrey's delegate lead before Chicago.
 - Campaign messaging: [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] links Nixon's lead to convention disorder, televised unrest, Vietnam, and a disciplined appeal to quiet middle America.
 - Democratic recovery: [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] says Humphrey's September 30 bombing position reduced protests, restored liberal support, and narrowed the gap.
 - Result and third-party role: [[513-america-in-68-nixons-great-comeback-part-6-glt3853956463]] describes Wallace's five-state showing and Nixon's popular-vote victory by about half a million votes out of more than seventy million.
@@ -44,13 +46,13 @@ In the general election, Wallace pursued a regional Electoral College strategy, 
 
 ## Qualifications
 
-This profile reflects four retrospective podcast episodes rather than a comprehensive electoral history. The convention source shows a plausible political mechanism but cannot isolate Chicago's vote effect; the Wallace source cannot establish uniform supporter motivation or a direct causal line to later Republican voters. The Kennedy source cannot resolve whether he would have won the nomination or defeated Nixon. Exact polling movements, turnout mechanisms, delegate shifts, regional transfers, the running-mate effect, and the effect of the October bombing halt are not independently audited here.
+This profile reflects five retrospective podcast episodes rather than a comprehensive electoral history. The first episode cannot isolate Tet, McCarthy, health, urban unrest, or Kennedy rivalry as the single cause of Johnson's withdrawal. The convention source cannot isolate Chicago's vote effect; the Wallace source cannot establish uniform supporter motivation or a direct causal line to later Republican voters. The Kennedy source cannot resolve whether he would have won the nomination or defeated Nixon. Exact polling movements, turnout mechanisms, delegate shifts, regional transfers, campaign spending, the running-mate effect, and the effect of the October bombing halt are not independently audited here.
 
 ## What Changed
 
-- Expanded Wallace from a final vote share into a campaign trajectory with ballot-access, rhetorical, rally, running-mate, and Electoral College leverage dimensions.
-- Added the McCarthy-Kennedy-Humphrey nomination conflict and Kennedy's assassination as essential prehistory to the three-candidate general election.
-- Separated Kennedy's California primary victory from claims of inevitable nomination or presidential victory.
+- Added Vietnam escalation, Tet's credibility shock, New Hampshire, and Johnson's withdrawal as the opening phase of the election crisis.
+- Integrated the McCarthy-Kennedy-Humphrey nomination conflict with the later convention and general election.
+- Preserved Tet, Chicago, Wallace, campaign media, and the bombing halt as consequential but not independently quantified causes.
 
 ## Relationships
 
@@ -71,4 +73,5 @@ This profile reflects four retrospective podcast episodes rather than a comprehe
 - [[RobertFKennedy]] - assassinated Democratic contender whose interrupted campaign shaped the election's counterfactual memory.
 - [[EugeneMcCarthy]] - anti-war challenger who opened the Democratic nomination contest.
 - [[PrimaryDelegateLegitimacyGap]] - mechanism behind conflict between primary momentum and Humphrey's delegate advantage.
+- [[VietnamWarCredibilityCollapse]] - mechanism linking Tet's surprise to the opening of the Democratic race.
 - [[PosthumousPoliticalDestinyMyth]] - caution against treating Kennedy's unrealized path as certain.

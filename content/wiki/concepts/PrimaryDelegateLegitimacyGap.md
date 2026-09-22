@@ -4,7 +4,8 @@ type: concept
 tags: [elections, political-parties, primaries, legitimacy]
 sources:
   - 510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101
-last_updated: 2026-09-22
+  - 508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Primary-delegate legitimacy gap is the mismatch between the public legitimacy ge
 
 ## Current Synthesis
 
-The 1968 Democratic race makes the gap visible. [[RobertFKennedy|Robert F. Kennedy]] sought to win selected primaries and use celebrity, rallies, and public pressure to persuade delegates, while [[HubertHumphrey|Hubert Humphrey]] could remain ahead through party-insider support without contesting the same primary path. [[EugeneMcCarthy|Eugene McCarthy]]'s first-mover claim added another kind of legitimacy: he had taken the initial risk against [[LyndonBJohnson|Lyndon B. Johnson]], even when Kennedy later proved more capable of drawing mass enthusiasm.
+The 1968 Democratic race makes the gap visible at two levels. In New Hampshire, [[EugeneMcCarthy|Eugene McCarthy]] lost the popular vote to [[LyndonBJohnson|Lyndon B. Johnson]] but won most delegates and the media narrative, turning second place into a political victory. Later, [[RobertFKennedy|Robert F. Kennedy]] sought to win selected primaries and use celebrity, rallies, and public pressure to persuade delegates, while [[HubertHumphrey|Hubert Humphrey]] could remain ahead through party-insider support without contesting the same primary path. McCarthy's first-mover risk created yet another legitimacy claim even when Kennedy drew more mass enthusiasm.
 
 The concept does not imply that primary winners automatically deserve nomination or that insider delegates have no legitimate role. It identifies a system in which competing selection channels can produce rival democratic claims and make momentum appear more decisive than the actual rules permit.
 
@@ -24,9 +25,9 @@ The concept does not imply that primary winners automatically deserve nomination
 
 - Primary votes and delegate counts are related but not interchangeable forms of political support.
 - Media visibility and crowd enthusiasm can create public expectations that exceed formal nomination power.
+- A candidate can lose a primary vote yet win delegates and the political interpretation of the result.
 - Party insiders can retain decisive authority without testing their preferred candidate in the same primary arena.
 - First-mover risk, mass enthusiasm, coalition breadth, and rule-based delegate support can each generate rival legitimacy claims.
-- Misreading the selection rules encourages deterministic narratives after a dramatic primary victory.
 
 ## Evidence
 
@@ -42,16 +43,21 @@ The concept does not imply that primary winners automatically deserve nomination
 
 - [[510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101]] shows McCarthy claiming legitimacy from taking the first risk against Johnson and winning Oregon despite Kennedy's larger celebrity campaign.
 
+### New Hampshire vote-delegate divergence
+
+- [[508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097]] reports Johnson winning 49 percent to McCarthy's 42 percent while McCarthy took 20 of 24 delegates and the press treated the result as Johnson's political defeat.
+
 ## Counterevidence & Qualifications
 
-- The source does not prove how delegates would have moved had Kennedy lived or how later contests and bargaining would have unfolded.
+- The sources do not prove how delegates would have moved had Kennedy lived or how later contests and bargaining would have unfolded.
 - Primary participation can itself be unrepresentative, while party rules may assign delegates through multiple legitimate channels.
+- The New Hampshire percentages, delegate count, spending, and media interpretation remain source-scoped rather than independently audited here.
 - This is a mechanism illustrated by the source, not a claim that every nomination system produces the same gap.
 
 ## What Changed
 
-- Established the 1968 Democratic race as a case of competing popular, procedural, and first-mover legitimacy.
-- Distinguished California victory from control of the nomination.
+- Added New Hampshire as a direct vote-delegate-narrative divergence before the later Kennedy-Humphrey contest.
+- Preserved competing popular, procedural, media, and first-mover legitimacy as distinct forms of support.
 
 ## Related Concepts
 
@@ -59,3 +65,4 @@ The concept does not imply that primary winners automatically deserve nomination
 - [[PrimaryElectorateDistortion]] - adjacent problem concerning whether primary voters represent the general electorate.
 - [[Chicago1968DemocraticConvention]] - convention where the unresolved delegate conflict culminated.
 - [[UnitedStatesPresidentialElection1968]] - general-election contest lying beyond the nomination gap.
+- [[VietnamWarCredibilityCollapse]] - political shock that made McCarthy's protest candidacy consequential.

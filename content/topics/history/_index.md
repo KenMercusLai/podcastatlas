@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1926
+topic_total_pages: 1927
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4572,6 +4572,9 @@ topic_sources:
   - key: "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay"
     title: "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山"
     url: "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+  - key: "508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097"
+    title: "508. America in '68: Nightmare in Vietnam (Part 1)"
+    url: "/wiki/sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097/"
   - key: "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265"
     title: "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)"
     url: "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"

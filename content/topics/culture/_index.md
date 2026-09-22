@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2783
+topic_total_pages: 2784
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2725,6 +2725,9 @@ topic_concepts:
   - key: "VideoStoreCulture"
     title: "Video Store Culture"
     url: "/wiki/concepts/videostoreculture/"
+  - key: "VietnamWarCredibilityCollapse"
+    title: "Vietnam War Credibility Collapse"
+    url: "/wiki/concepts/vietnamwarcredibilitycollapse/"
   - key: "VisualRepresentationLiteracy"
     title: "Visual Representation Literacy / 视觉表征素养"
     url: "/wiki/concepts/visualrepresentationliteracy/"

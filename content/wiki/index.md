@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [508. America in '68: Nightmare in Vietnam (Part 1)](sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097.md) — The Rest Is History episode on Johnson's Vietnam escalation, Tet's credibility shock, McCarthy's New Hampshire challenge, and the multi-causal decision to withdraw.
 - [How to Deal With High Conflict People | Bill Eddy](sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828.md) — Huberman Lab interview on recognizing recurrent blame and escalation without casual diagnosis, then using CARS, BIFF, limits, and safety-aware disengagement.
 - [VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节](sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek.md) — 这病说来话长 episode on systemic lupus, clinical remission, treatment adherence, ICU support, information quality, and chronic-illness quality of life.
 - [509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)](sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265.md) — The Rest Is History episode on King's late economic-justice program, Memphis sanitation strike, crisis of nonviolent credibility, assassination, and the violent national aftermath.
@@ -2700,7 +2701,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Poor People's Campaign](entities/PoorPeoplesCampaign.md) — King's multiracial national campaign against poverty and economic inequality.
 - [Memphis Sanitation Strike](entities/MemphisSanitationStrike.md) — 1968 labor-and-dignity campaign that drew King back to Memphis.
 - [Robert F. Kennedy](entities/RobertFKennedy.md) — Senator and 1968 Democratic candidate whose assassination joined real political promise to an uncertain presidential counterfactual.
-- [Eugene McCarthy](entities/EugeneMcCarthy.md) — Anti-war senator whose New Hampshire challenge weakened Johnson and created a first-mover legitimacy claim against Kennedy.
+- [Eugene McCarthy](entities/EugeneMcCarthy.md) — Anti-war senator whose organized New Hampshire protest campaign weakened Johnson and created a first-mover legitimacy claim against Kennedy.
 - [Sirhan Sirhan](entities/SirhanSirhan.md) — Kennedy assassin whose stated grievance centered on Kennedy's support for Israel.
 - [Shanna Swan](entities/ShannaSwan.md) — Reproductive epidemiologist studying endocrine-active exposures, prenatal development, anogenital distance, semen quality, and sperm-count trends.
 - [李伟聪 / Li Weicong](entities/LiWeicong.md) — Health-management physician explaining risk-based checkups and report interpretation in VOL.139.
@@ -12719,7 +12720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jared Kushner](entities/JaredKushner.md) — Trump son-in-law and former adviser used as a family-network monetization case through a Middle East-backed private-equity fund.
 - [Saudi Public Investment Fund](entities/SaudiPublicInvestmentFund.md) — Sovereign wealth fund discussed as a large investor in Jared Kushner's private-equity vehicle.
 - [Melania Trump](entities/MelaniaTrump.md) — First-lady figure in EP77's media-contract branch through a politically sensitive Amazon documentary deal.
-- [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Historical comparison for political power becoming private wealth through KTBC broadcast approvals.
+- [Lyndon B. Johnson](entities/LyndonBJohnson.md) — Reform president and coercive political operator whose Vietnam escalation, credibility crisis, and withdrawal opened the 1968 race.
 - [Bill Clinton](entities/BillClinton.md) — Post-presidency speech-income example used to explain political identity premium.
 - [Hillary Clinton](entities/HillaryClinton.md) — High-fee speech and campaign-controversy example in EP77's political identity premium comparison.
 - [Barack Obama](entities/BarackObama.md) — U.S. political figure used both as an America-at-250 hope/backlash marker and as a cleaner post-office political-identity-premium case.
@@ -13202,7 +13203,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏见信（信） / Shin](entities/SuJianxin.md) — Singer connecting minimum-resistance training, food, travel, art, optimism, and concert preparation in a source-bounded lifestyle profile.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
-- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Three-candidate contest shaped by Vietnam, disorder, racial signaling, Wallace's leverage strategy, campaign control, and a late Democratic recovery.
+- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Contest opened by Tet, McCarthy, and Johnson's withdrawal, then shaped by party crisis, disorder, racial signaling, Wallace, and campaign control.
 - [Hubert Humphrey](entities/HubertHumphrey.md) — Democratic nominee whose break with Johnson's bombing policy enabled a late but incomplete 1968 recovery.
 - [Spiro Agnew](entities/SpiroAgnew.md) — Nixon running mate selected to reinforce border-state and law-and-order appeal.
 - [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control, staged television, and racially calculated messaging.
@@ -13213,6 +13214,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Vietnam War Credibility Collapse](concepts/VietnamWarCredibilityCollapse.md) — Mechanism by which Tet discredited official progress claims despite not being a conventional Communist battlefield victory.
 - [High-Conflict Behavior Pattern](concepts/HighConflictBehaviorPattern.md) — Non-diagnostic observation frame for recurrent blame, unmanaged emotion, all-or-nothing thinking, extreme conduct, and unresolved escalation.
 - [High-Conflict Communication Toolkit](concepts/HighConflictCommunicationToolkit.md) — CARS, EAR, BIFF, consequence-backed limits, and safety-aware disengagement for containing recurrent escalation.
 - [Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理](concepts/SystemicLupusErythematosusManagement.md) — Long-term framework joining multi-organ recognition, acute control, clinical remission, organ protection, and patient-valued life goals.
@@ -13221,7 +13223,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Late Civil-Rights Economic Justice](concepts/LateCivilRightsEconomicJustice.md) — Expansion from formal equality toward labor, housing, income, and material capacity.
 - [Nonviolent Movement Credibility Crisis](concepts/NonviolentMovementCredibilityCrisis.md) — Strategic failure when visible disorder overwhelms a movement's intended nonviolent meaning.
 - [Public Grief De-escalation](concepts/PublicGriefDeescalation.md) — Rhetoric that acknowledges collective trauma while inviting restraint rather than revenge.
-- [Primary-Delegate Legitimacy Gap](concepts/PrimaryDelegateLegitimacyGap.md) — Mismatch between public primary momentum and formal delegate power in a party nomination.
+- [Primary-Delegate Legitimacy Gap](concepts/PrimaryDelegateLegitimacyGap.md) — Mismatch among primary votes, delegate power, media narrative, and party-insider authority in a nomination.
 - [Posthumous Political Destiny Myth](concepts/PosthumousPoliticalDestinyMyth.md) — Retrospective conversion of an interrupted political possibility into an assumed path to victory or office.
 - [Endocrine-Disruptor Exposure Reduction](concepts/EndocrineDisruptorExposureReduction.md) — Precautionary hierarchy for reducing repeated food, fragrance, plastic, and cookware exposures without claiming guaranteed clinical benefit.
 - [个体化预防性体检选择 / Individualized Preventive Checkup Selection](concepts/IndividualizedPreventiveCheckupSelection.md) — Baseline-plus-targeted framework using personal risk, history, symptoms, and prior findings instead of package maximalism.
