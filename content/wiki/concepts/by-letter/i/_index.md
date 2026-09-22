@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7868
+wiki_total_pages: 7871
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "InfeasiblePublicWorksCancellation"
     title: "不可成工程止损 / Infeasible Public-Works Cancellation"
     url: "/wiki/concepts/infeasiblepublicworkscancellation/"
+  - key: "IndividualizedPreventiveCheckupSelection"
+    title: "个体化预防性体检选择 / Individualized Preventive Checkup Selection"
+    url: "/wiki/concepts/individualizedpreventivecheckupselection/"
   - key: "InformationAsymmetricPacification"
     title: "信息不对称式平叛 / Information-Asymmetric Pacification"
     url: "/wiki/concepts/informationasymmetricpacification/"

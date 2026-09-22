@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招](sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb.md) — 这病说来话长 episode on individualized checkup selection, contextual report interpretation, screening burden, and continuity of abnormal-finding follow-up.
 - [512. America in '68: The Chicago Riots (Part 5)](sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495.md) — The Rest Is History episode on the 1968 Democratic convention, Yippie spectacle, police violence, party collapse, television framing, and law-and-order fallout.
 - [How Relationships Shape Your Brain | Dr. Allan Schore](sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719.md) — Huberman Lab interview on early attachment as affect regulation, self- and interactive regulation, misattunement repair, implicit communication, and therapeutic synchrony.
 - [VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？](sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf.md) — Ultrasound explainer covering modes, first-line limits, intervention, preparation, endocavitary safety, and pregnancy concerns.
@@ -2688,6 +2689,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [李伟聪 / Li Weicong](entities/LiWeicong.md) — Health-management physician explaining risk-based checkups and report interpretation in VOL.139.
+- [航天中心医院 / Aerospace Center Hospital](entities/AerospaceCenterHospital.md) — Public-hospital and health-management context named in VOL.139.
 - [1968 Democratic National Convention in Chicago](entities/Chicago1968DemocraticConvention.md) — Convention crisis joining Democratic division, anti-war protest, police violence, and television politics.
 - [Abbie Hoffman](entities/AbbieHoffman.md) — Yippie organizer who made theatrical provocation and television visibility central to protest.
 - [Richard J. Daley](entities/RichardJDaley.md) — Chicago mayor whose defense of civic order shaped the 1968 convention crisis.
@@ -13196,6 +13199,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [个体化预防性体检选择 / Individualized Preventive Checkup Selection](concepts/IndividualizedPreventiveCheckupSelection.md) — Baseline-plus-targeted framework using personal risk, history, symptoms, and prior findings instead of package maximalism.
+- [体检结果情境化解读 / Screening Result Interpretation](concepts/ScreeningResultInterpretation.md) — Reading screening signals through magnitude, trend, reference system, symptoms, and multimodal evidence.
+- [异常发现随访连续性 / Abnormal Finding Follow-up Continuity](concepts/AbnormalFindingFollowupContinuity.md) — Preserving surveillance of known abnormalities until qualified reassessment changes the plan.
 - [Protest Media Spectacle](concepts/ProtestMediaSpectacle.md) — Use of symbolic, camera-ready protest whose visibility can outrun organizers' control of interpretation.
 - [Attachment as Affect Regulation](concepts/AttachmentAffectRegulation.md) — Model of attachment as flexible self- and interactive emotion regulation built through nonverbal caregiving and repair.
 - [Right-Hemisphere Relational Processing](concepts/RightHemisphereRelationalProcessing.md) — Source-bounded framework for implicit, contextual, bodily, and nonverbal relational information.

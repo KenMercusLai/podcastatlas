@@ -21366,3 +21366,7 @@ Added source `511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招
+
+Added source `vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb`; created `LiWeicong`, `AerospaceCenterHospital`, `IndividualizedPreventiveCheckupSelection`, `ScreeningResultInterpretation`, and `AbnormalFindingFollowupContinuity`; updated `PreventiveHealthScreening`, `MedicalDiagnosticReasoning`, `ZheBingShuoLaiHuaChang`, and the index. Core synthesis: useful checkups combine a reasonable baseline with targeted additions based on personal risk, treat isolated flags as context-dependent signals rather than diagnoses, and preserve follow-up of known abnormalities across annual package choices. No settled contradiction found; thresholds, test intervals, disease-age trends, advanced testing, institution comparisons, and case anecdotes remain source-scoped public education rather than individualized medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10498
+wiki_total_pages: 10500
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "AileenWangArcadia"
     title: "王爱玲 / Aileen Wang"
     url: "/wiki/entities/aileenwangarcadia/"
+  - key: "AerospaceCenterHospital"
+    title: "航天中心医院 / Aerospace Center Hospital"
+    url: "/wiki/entities/aerospacecenterhospital/"
   - key: "AiJiangtao"
     title: "艾江涛 / Ai Jiangtao"
     url: "/wiki/entities/aijiangtao/"

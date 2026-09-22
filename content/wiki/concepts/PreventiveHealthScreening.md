@@ -8,6 +8,7 @@ sources:
   - tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3
   - 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394
   - vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz
+  - vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb
 last_updated: 2026-08-27
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The Japan healthcare sources move screening from personal advice into system des
 
 The cancer sources sharpen the boundary between early detection and premature technology optimism. [[tsr-s4-surbhisarna-v3-tsr-s4-surbhisarna-v3]] shows that early detection may require safer diagnostic access and regulated validation before becoming responsible care. [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] then uses melanoma-vaccine enthusiasm to restate the ordinary-person priority: even when advanced individualized treatments improve, prevention, screening, early diagnosis, and standard treatment remain the near-term actionable layer.
 
+At the individual level, the workplace-checkup case in [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb|VOL.139]] separates a baseline package from risk-based additions, makes [[ScreeningResultInterpretation|contextual interpretation]] part of screening, and requires [[AbnormalFindingFollowupContinuity|follow-up continuity]] for known abnormalities. This strengthens the page's central judgment: screening is neither a one-day pass/fail test nor a contest to buy the largest package.
+
 ## Key Claims
 - Screening is most valuable when symptoms are late or unreliable and early risk can be acted on.
 - Self-observation and internet search can prompt care, but they cannot replace professional diagnosis or structured tests.
@@ -31,7 +34,7 @@ The cancer sources sharpen the boundary between early detection and premature te
 - Early-detection ambition can expose a diagnostic-technology gap when the relevant tissue or disease site is hard to sample safely.
 - Public checkup systems must be judged by participation, guidance, outcome evidence, and cost claims, not only by whether exams are free.
 - Advanced treatments do not remove the need for prevention and early diagnosis; they often make stage, tumor burden, and timing more important.
-- Sponsor-adjacent or consumer-facing screening advice should remain separate from universal medical or financial guidance.
+- Sponsor-adjacent or consumer-facing screening advice should remain separate from universal guidance; individual checkups should combine a reasonable baseline with targeted additions based on personal risk, prior findings, and an actionable follow-up plan.
 
 ## Evidence
 - Patient-literacy baseline: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] explains silent compensation, late symptoms, self-exam limits, and the value of professional checks.
@@ -39,14 +42,16 @@ The cancer sources sharpen the boundary between early detection and premature te
 - System demand management: [[vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt]] ties screening to lifestyle-disease prevention, aging, insurance pressure, and community care in Japan.
 - Program accountability: [[177-riben-yibao-jijin-weihe-yao-zhichi-mianfei-de-guomin-tijian-lh06qonrzgjprqdwl8dygn4hoxpk]] shows that free checkups require insurer responsibility, follow-up guidance, and outcome evidence before cost-saving claims are credible.
 - Advanced-treatment boundary: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] contrasts individualized melanoma-vaccine excitement with the ordinary near-term value of prevention, screening, early detection, and standard care.
+- Individual selection and continuity: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] joins age, lifestyle, family history, prior results, report context, and surveillance while warning against maximal packages and isolated-marker panic.
 
 ## Counterevidence & Qualifications
-Screening can create false reassurance, false alarm, overtreatment, report-only rituals, or weak cost-saving claims. Some cancers still lack safe and accurate early-detection tools. The melanoma-vaccine source is not a screening guideline; it only reinforces that ordinary prevention and early diagnosis remain more actionable than assuming advanced therapy will be available, affordable, and appropriate later.
+Screening can create false reassurance, false alarm, overtreatment, report-only rituals, radiation exposure, incidental findings, anxiety, or weak cost-saving claims. Some cancers still lack safe and accurate early-detection tools. The melanoma-vaccine source is not a screening guideline; it only reinforces that ordinary prevention and early diagnosis remain more actionable than assuming advanced therapy will be available, affordable, and appropriate later. VOL.139 is likewise public education rather than a universal test schedule; individual selection and follow-up remain clinician- and context-dependent.
 
 ## What Changed
 - Migrated the page to the synthesis-first schema.
 - Added the melanoma-vaccine episode's practical takeaway that advanced individualized therapy does not replace prevention and early detection.
 - Compressed the page from source-by-source append prose into claim-grouped synthesis.
+- Added VOL.139's baseline-plus-targeted selection, contextual report reading, and abnormal-finding follow-up continuity.
 
 ## Related Concepts
 - [[OnlineSymptomSearchAnxiety]] - patient behavior that screening can redirect into structured care.
@@ -56,3 +61,6 @@ Screening can create false reassurance, false alarm, overtreatment, report-only 
 - [[JapaneseSpecificHealthCheckups]] - insurer-managed public checkup model.
 - [[PreventiveCareCostSavingsUncertainty]] - evidence boundary around prevention as fiscal savings.
 - [[CancerVaccinePlatform]] - advanced treatment branch that does not eliminate the need for screening.
+- [[IndividualizedPreventiveCheckupSelection]] - person-specific method for choosing baseline and add-on tests.
+- [[ScreeningResultInterpretation]] - clinical-context layer between a result flag and a diagnosis.
+- [[AbnormalFindingFollowupContinuity]] - surveillance layer that keeps known abnormalities from being lost between annual packages.

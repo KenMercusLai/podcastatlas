@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7868
+wiki_total_pages: 7871
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2129,6 +2129,9 @@ wiki_pages:
   - key: "StraightRedressWithoutRevenge"
     title: "以直报怨式平反 / Straight Redress Without Revenge"
     url: "/wiki/concepts/straightredresswithoutrevenge/"
+  - key: "ScreeningResultInterpretation"
+    title: "体检结果情境化解读 / Screening Result Interpretation"
+    url: "/wiki/concepts/screeningresultinterpretation/"
   - key: "SongUnificationStrategy"
     title: "先南后北 / Song Unification Strategy"
     url: "/wiki/concepts/songunificationstrategy/"
