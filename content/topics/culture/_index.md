@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2789
+topic_total_pages: 2790
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1663,6 +1663,9 @@ topic_concepts:
   - key: "MeijiIntellectualPrecarity"
     title: "Meiji Intellectual Precarity"
     url: "/wiki/concepts/meijiintellectualprecarity/"
+  - key: "MelodramaticPoliticalFormation"
+    title: "Melodramatic Political Formation"
+    url: "/wiki/concepts/melodramaticpoliticalformation/"
   - key: "MemorySelfMythologizing"
     title: "Memory Self-Mythologizing / 记忆的自我神话化"
     url: "/wiki/concepts/memoryselfmythologizing/"

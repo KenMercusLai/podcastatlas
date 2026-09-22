@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7923
+wiki_total_pages: 7924
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "MekongRiverGeographicWriting"
     title: "Mekong River Geographic Writing / 湄公河地理写作"
     url: "/wiki/concepts/mekongrivergeographicwriting/"
+  - key: "MelodramaticPoliticalFormation"
+    title: "Melodramatic Political Formation"
+    url: "/wiki/concepts/melodramaticpoliticalformation/"
   - key: "MembershipRetail"
     title: "Membership Retail"
     url: "/wiki/concepts/membershipretail/"

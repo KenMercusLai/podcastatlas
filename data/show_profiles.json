@@ -905,14 +905,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 106,
-      "topic_matched_source_note_count": 105,
+      "source_note_count": 107,
+      "topic_matched_source_note_count": 106,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 103
+          "source_note_count": 104
         },
         {
           "key": "politics",
@@ -963,6 +963,13 @@
           "episode_count": 6
         },
         {
+          "key": "EvaPeron",
+          "title": "Eva Perón",
+          "url": "/wiki/entities/evaperon/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
           "key": "HaroldGodwinson",
           "title": "Harold Godwinson",
           "url": "/wiki/entities/haroldgodwinson/",
@@ -982,13 +989,6 @@
           "url": "/wiki/entities/williamtheconqueror/",
           "kind": "person",
           "episode_count": 5
-        },
-        {
-          "key": "EvaPeron",
-          "title": "Eva Perón",
-          "url": "/wiki/entities/evaperon/",
-          "kind": "person",
-          "episode_count": 4
         }
       ],
       "start_here_episode_files": [

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1942
+topic_total_pages: 1943
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4572,6 +4572,9 @@ topic_sources:
   - key: "494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj"
     title: "494 张诗坪谈战争史视角下的秦末汉初混战"
     url: "/wiki/sources/494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj/"
+  - key: "494-evita-birth-of-a-legend-part-1-glt9994303396"
+    title: "494. Evita: Birth of a Legend (Part 1)"
+    url: "/wiki/sources/494-evita-birth-of-a-legend-part-1-glt9994303396/"
   - key: "495-evita-the-rise-of-general-peron-part-2-glt1831793233"
     title: "495. Evita: The Rise of General Perón (Part 2)"
     url: "/wiki/sources/495-evita-the-rise-of-general-peron-part-2-glt1831793233/"

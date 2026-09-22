@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [494. Evita: Birth of a Legend (Part 1)](sources/494-evita-birth-of-a-legend-part-1-glt9994303396.md) — The Rest Is History episode on Eva Perón's childhood stigma, class formation, migration to Buenos Aires, acting struggle, and radio melodrama as political preparation.
 - [How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel](sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809.md) — Huberman Lab interview on relationship polarity, conflict choreography, curiosity, apology, repair, sexuality, and revival.
 - [VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多](sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a.md) — 这病说来话长 episode on Alzheimer recognition, staged diagnosis, treatment boundaries, respectful communication, home design, and caregiver support.
 - [495. Evita: The Rise of General Perón (Part 2)](sources/495-evita-the-rise-of-general-peron-part-2-glt1831793233.md) — The Rest Is History episode on Perón's labor strategy, Eva's political formation, 17 October 1945, and the retrospective construction of a Peronist founding myth.
@@ -13293,6 +13294,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Melodramatic Political Formation](concepts/MelodramaticPoliticalFormation.md) — Process by which mass-media roles supply emotional archetypes and communication habits later transferred into political life.
 - [Relationship Polarity Balance](concepts/RelationshipPolarityBalance.md) — Intimacy framework holding security with freedom, togetherness with separateness, and stability with change.
 - [Curiosity Over Reactivity](concepts/CuriosityOverReactivity.md) — Conflict stance that loosens fixed narratives through regulated, accountable inquiry into another person's experience.
 - [Relationship Revival](concepts/RelationshipRevival.md) — Post-repair creation of new relational possibility through changed roles, play, imagination, and measured risk.

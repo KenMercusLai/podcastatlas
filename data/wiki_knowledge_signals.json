@@ -40644,9 +40644,9 @@
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
     "EvaPeron": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5587823308 [GLT5587823308].md",
@@ -40675,6 +40675,13 @@
           "show": "The Rest Is History",
           "title": "495. Evita: The Rise of General Perón (Part 2)",
           "url": "/wiki/sources/495-evita-the-rise-of-general-peron-part-2-glt1831793233/"
+        },
+        {
+          "episode_file": "GLT9994303396 [GLT9994303396].md",
+          "key": "494-evita-birth-of-a-legend-part-1-glt9994303396",
+          "show": "The Rest Is History",
+          "title": "494. Evita: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/494-evita-birth-of-a-legend-part-1-glt9994303396/"
         }
       ],
       "updated": "2026-09-23",
@@ -84719,6 +84726,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/melissailardo/"
+    },
+    "MelodramaticPoliticalFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9994303396 [GLT9994303396].md",
+          "key": "494-evita-birth-of-a-legend-part-1-glt9994303396",
+          "show": "The Rest Is History",
+          "title": "494. Evita: Birth of a Legend (Part 1)",
+          "url": "/wiki/sources/494-evita-birth-of-a-legend-part-1-glt9994303396/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/melodramaticpoliticalformation/"
     },
     "Memex": {
       "episode_count": 1,

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2645
+topic_total_pages: 2646
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2122,6 +2122,9 @@ topic_concepts:
   - key: "MedicalTestingValidationIntegrity"
     title: "Medical Testing Validation Integrity"
     url: "/wiki/concepts/medicaltestingvalidationintegrity/"
+  - key: "MelodramaticPoliticalFormation"
+    title: "Melodramatic Political Formation"
+    url: "/wiki/concepts/melodramaticpoliticalformation/"
   - key: "MemorySelfMythologizing"
     title: "Memory Self-Mythologizing / 记忆的自我神话化"
     url: "/wiki/concepts/memoryselfmythologizing/"
