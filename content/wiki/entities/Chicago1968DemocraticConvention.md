@@ -4,6 +4,7 @@ type: entity
 tags: [event, politics, chicago, protest, elections, united-states]
 sources:
   - 512-america-in-68-the-chicago-riots-part-5-glt9860410495
+  - 510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101
 last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
@@ -16,11 +17,11 @@ The 1968 Democratic National Convention in Chicago nominated [[HubertHumphrey]] 
 
 ## Current Profile
 
-The convention joined two crises that could not be contained separately. Inside, delegates fought over Vietnam and succession after Johnson's withdrawal and Robert Kennedy's assassination. Outside, MOBE organizers, Yippies, police, the National Guard, journalists, and bystanders struggled over access to public space. The Michigan Avenue police riot then collapsed the boundary between street events and party proceedings: tear gas reached political hotels, television carried beatings nationwide, and Humphrey's first-ballot victory became secondary to institutional breakdown.
+The convention joined two crises that could not be contained separately. Inside, delegates inherited a nomination system already strained by [[LyndonBJohnson|Johnson]]'s withdrawal, [[EugeneMcCarthy|McCarthy]] and [[RobertFKennedy|Kennedy]] primary campaigns, Humphrey's party-insider advantage, Kennedy's assassination, and conflict over Vietnam. Outside, MOBE organizers, Yippies, police, the National Guard, journalists, and bystanders struggled over access to public space. The Michigan Avenue police riot then collapsed the boundary between street events and party proceedings: tear gas reached political hotels, television carried beatings nationwide, and Humphrey's first-ballot victory became secondary to institutional breakdown.
 
 ## Key Characteristics
 
-- Occurred amid war, assassination, racial unrest, and a fractured Democratic nomination process.
+- Culminated a nomination process divided between primary momentum and party-controlled delegates.
 - Combined denied permits, heavily secured venues, constrained protest routes, and escalating street confrontations.
 - Included repeated police violence against demonstrators, journalists, medics, and bystanders.
 - Became inseparable from television coverage and the political meaning assigned to images of disorder.
@@ -30,16 +31,18 @@ The convention joined two crises that could not be contained separately. Inside,
 ## Evidence
 
 - Political crisis: [[512-america-in-68-the-chicago-riots-part-5-glt9860410495]] connects the nomination fight to Vietnam, Johnson's withdrawal, Kennedy's death, and anti-war division.
+- Nomination prehistory: [[510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101]] shows how McCarthy's challenge, Kennedy's momentum strategy, Humphrey's delegate advantage, and assassination produced the conflict Chicago inherited.
 - Street escalation: [[512-america-in-68-the-chicago-riots-part-5-glt9860410495]] traces confrontations from Lincoln Park through Grant Park to the televised Michigan Avenue police charge.
 - Institutional and electoral fallout: [[512-america-in-68-the-chicago-riots-part-5-glt9860410495]] describes Ribicoff's denunciation, Daley's response, Humphrey's overshadowed nomination, public support for police, and Nixon's advantage.
 
 ## Qualifications
 
-The account is a retrospective narrative rather than a complete institutional or social history. It includes police perspectives and activist miscalculation but gives less direct voice to rank-and-file demonstrators, injured people, Black Chicago residents, or ordinary officers.
+The accounts are retrospective narratives rather than a complete institutional or social history. The Kennedy episode does not establish how surviving primary contests or delegate bargaining would have changed the convention. The Chicago episode includes police perspectives and activist miscalculation but gives less direct voice to rank-and-file demonstrators, injured people, Black Chicago residents, or ordinary officers.
 
 ## What Changed
 
 - Established the convention as a joined party, policing, protest, and media crisis rather than a nomination event alone.
+- Added the primary-delegate legitimacy conflict and Kennedy's interrupted campaign as convention prehistory.
 
 ## Relationships
 
@@ -49,3 +52,6 @@ The account is a retrospective narrative rather than a complete institutional or
 - [[ProtestMediaSpectacle]] - mechanism through which street action became national political meaning.
 - [[UnitedStatesPresidentialElection1968]] - campaign contest reshaped by the convention's fallout.
 - [[LawAndOrderRacialSignaling]] - electoral frame strengthened by images and interpretations of disorder.
+- [[RobertFKennedy]] - assassinated contender whose absence transformed the nomination struggle.
+- [[EugeneMcCarthy]] - primary challenger whose supporters contested Humphrey's legitimacy.
+- [[PrimaryDelegateLegitimacyGap]] - structural conflict carried into the convention.

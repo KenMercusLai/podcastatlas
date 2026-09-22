@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10501
+wiki_total_pages: 10504
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "RobertDudley"
     title: "Robert Dudley / Earl of Leicester"
     url: "/wiki/entities/robertdudley/"
+  - key: "RobertFKennedy"
+    title: "Robert F. Kennedy"
+    url: "/wiki/entities/robertfkennedy/"
   - key: "RobertFKennedyJr"
     title: "Robert F. Kennedy Jr."
     url: "/wiki/entities/robertfkennedyjr/"

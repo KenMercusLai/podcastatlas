@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7872
+wiki_total_pages: 7874
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1082,6 +1082,9 @@ wiki_pages:
   - key: "PosthumousNamePolitics"
     title: "Posthumous Name Politics / 谥号政治"
     url: "/wiki/concepts/posthumousnamepolitics/"
+  - key: "PosthumousPoliticalDestinyMyth"
+    title: "Posthumous Political Destiny Myth"
+    url: "/wiki/concepts/posthumouspoliticaldestinymyth/"
   - key: "PostwarKeynesianRetreat"
     title: "Postwar Keynesian Retreat"
     url: "/wiki/concepts/postwarkeynesianretreat/"
@@ -1334,6 +1337,9 @@ wiki_pages:
   - key: "PrimaryExtremismPressure"
     title: "Primary Extremism Pressure"
     url: "/wiki/concepts/primaryextremismpressure/"
+  - key: "PrimaryDelegateLegitimacyGap"
+    title: "Primary-Delegate Legitimacy Gap"
+    url: "/wiki/concepts/primarydelegatelegitimacygap/"
   - key: "PrimeBorrowerCreditRisk"
     title: "Prime Borrower Credit Risk"
     url: "/wiki/concepts/primeborrowercreditrisk/"

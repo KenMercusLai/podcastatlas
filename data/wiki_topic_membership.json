@@ -1759,6 +1759,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412": [
     {
       "key": "history",
@@ -25507,6 +25519,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "EugeneMcCarthy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EugenicGovernance": [
@@ -55358,6 +55377,13 @@
       "url": "/topics/history/"
     }
   ],
+  "PosthumousPoliticalDestinyMyth": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PostwarAdministrativeRetrenchment": [
     {
       "key": "politics",
@@ -55867,6 +55893,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "PrimaryDelegateLegitimacyGap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PrimaryElectorateDistortion": [
@@ -60111,6 +60144,13 @@
       "url": "/topics/science/"
     }
   ],
+  "RobertFKennedy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RobertGraves": [
     {
       "key": "history",
@@ -64350,6 +64390,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SirhanSirhan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SiriInvestment": [

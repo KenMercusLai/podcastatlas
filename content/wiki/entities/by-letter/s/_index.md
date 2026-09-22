@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10501
+wiki_total_pages: 10504
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "Sirens"
     title: "Sirens"
     url: "/wiki/entities/sirens/"
+  - key: "SirhanSirhan"
+    title: "Sirhan Sirhan"
+    url: "/wiki/entities/sirhansirhan/"
   - key: "Siri"
     title: "Siri"
     url: "/wiki/entities/siri/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10501
+wiki_total_pages: 10504
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "EugeneFama"
     title: "Eugene Fama"
     url: "/wiki/entities/eugenefama/"
+  - key: "EugeneMcCarthy"
+    title: "Eugene McCarthy"
+    url: "/wiki/entities/eugenemccarthy/"
   - key: "EulogyGame"
     title: "Eulogy"
     url: "/wiki/entities/eulogygame/"

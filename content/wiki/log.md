@@ -21382,3 +21382,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-22] ingest | 510. America in '68: The Killing of Robert Kennedy (Part 3)
+
+Added source `510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101`; created `RobertFKennedy`, `EugeneMcCarthy`, `SirhanSirhan`, `PrimaryDelegateLegitimacyGap`, and `PosthumousPoliticalDestinyMyth`; updated `HubertHumphrey`, `LyndonBJohnson`, `UnitedStatesPresidentialElection1968`, `Chicago1968DemocraticConvention`, and the index. Core synthesis: Kennedy's moral rhetoric, celebrity, anti-poverty politics, minority coalition, and California victory made him a compelling candidate and durable martyr, but primary momentum did not erase Humphrey's delegate advantage or make victory over Nixon inevitable. No settled contradiction found; ideological motives, coalition breadth, delegate movement, assassination detail, and 1968 or 1972 counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -20687,9 +20687,9 @@
       "url": "/wiki/entities/chizhaopingxinrebel/"
     },
     "Chicago1968DemocraticConvention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9860410495 [GLT9860410495].md",
@@ -20697,6 +20697,13 @@
           "show": "The Rest Is History",
           "title": "512. America in '68: The Chicago Riots (Part 5)",
           "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        },
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
         }
       ],
       "updated": "2026-09-22",
@@ -39698,6 +39705,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/ethicaltriageunderscarcity/"
+    },
+    "EugeneMcCarthy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/eugenemccarthy/"
     },
     "Eumaeus": {
       "episode_count": 1,
@@ -59895,9 +59918,9 @@
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -59912,6 +59935,13 @@
           "show": "The Rest Is History",
           "title": "512. America in '68: The Chicago Riots (Part 5)",
           "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        },
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
         }
       ],
       "updated": "2026-09-22",
@@ -79872,9 +79902,9 @@
       "url": "/wiki/entities/lvdoctorent/"
     },
     "LyndonBJohnson": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP77 四十万年薪，副业赚了三十四亿，特朗普教你如何搞钱 [lnrx8VKDjEdXbmMCWXLNwow-pCAB].md",
@@ -79896,6 +79926,13 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
         }
       ],
       "updated": "2026-09-22",
@@ -97818,6 +97855,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/posthumousmeritvindication/"
     },
+    "PosthumousPoliticalDestinyMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/posthumouspoliticaldestinymyth/"
+    },
     "PostwarAdministrativeRetrenchment": {
       "episode_count": 1,
       "show_count": 1,
@@ -98787,6 +98840,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/preventiverelationshipmaintenance/"
+    },
+    "PrimaryDelegateLegitimacyGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/primarydelegatelegitimacygap/"
     },
     "PrimaryExtremismPressure": {
       "episode_count": 1,
@@ -105790,6 +105859,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/robbenisland/"
+    },
+    "RobertFKennedy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/robertfkennedy/"
     },
     "RobertGraves": {
       "episode_count": 1,
@@ -112927,6 +113012,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/sirens/"
+    },
+    "SirhanSirhan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/sirhansirhan/"
     },
     "Siri": {
       "episode_count": 6,
@@ -126028,9 +126129,9 @@
       "url": "/wiki/entities/unitednationschildrenfund/"
     },
     "UnitedStatesPresidentialElection1968": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -126052,6 +126153,13 @@
           "show": "The Rest Is History",
           "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
           "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        },
+        {
+          "episode_file": "GLT6589354101 [GLT6589354101].md",
+          "key": "510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101",
+          "show": "The Rest Is History",
+          "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
+          "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
         }
       ],
       "updated": "2026-09-22",
