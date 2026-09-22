@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10492
+wiki_total_pages: 10498
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "AB180BloodPump"
     title: "AB180 Blood Pump"
     url: "/wiki/entities/ab180bloodpump/"
+  - key: "AbbieHoffman"
+    title: "Abbie Hoffman"
+    url: "/wiki/entities/abbiehoffman/"
   - key: "AbbottNutrition"
     title: "Abbott Nutrition"
     url: "/wiki/entities/abbottnutrition/"
@@ -818,6 +821,9 @@ wiki_pages:
   - key: "AmericanGreatness"
     title: "American Greatness"
     url: "/wiki/entities/americangreatness/"
+  - key: "AmericanIndependentParty"
+    title: "American Independent Party"
+    url: "/wiki/entities/americanindependentparty/"
   - key: "AmericanMoment"
     title: "American Moment"
     url: "/wiki/entities/americanmoment/"

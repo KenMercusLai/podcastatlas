@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7863
+wiki_total_pages: 7868
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -386,6 +386,9 @@ wiki_pages:
   - key: "ThirdPartyDoctrine"
     title: "Third-Party Doctrine"
     url: "/wiki/concepts/thirdpartydoctrine/"
+  - key: "ThirdPartyElectoralCollegeLeverage"
+    title: "Third-Party Electoral College Leverage"
+    url: "/wiki/concepts/thirdpartyelectoralcollegeleverage/"
   - key: "ThirdPartySupplementTesting"
     title: "Third-Party Supplement Testing"
     url: "/wiki/concepts/thirdpartysupplementtesting/"

@@ -4057,6 +4057,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/aaronburr/"
     },
+    "AbbieHoffman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/abbiehoffman/"
+    },
     "AbleistCurePressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -6909,6 +6925,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/americanexceptionalism/"
+    },
+    "AmericanIndependentParty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/americanindependentparty/"
     },
     "AmericanPrideBank": {
       "episode_count": 1,
@@ -20622,6 +20654,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/chizhaopingxinrebel/"
     },
+    "Chicago1968DemocraticConvention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/chicago1968democraticconvention/"
+    },
     "ChildAnimalCrueltyLifeEducation": {
       "episode_count": 1,
       "show_count": 1,
@@ -27428,6 +27476,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/cursushonorum/"
+    },
+    "CurtisLeMay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/curtislemay/"
     },
     "CustomerSignalDrivenPivot": {
       "episode_count": 1,
@@ -49425,9 +49489,9 @@
       "url": "/wiki/entities/georgeiii/"
     },
     "GeorgeWallace": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -49435,6 +49499,13 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
         }
       ],
       "updated": "2026-09-22",
@@ -51587,6 +51658,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/griefphysiologysupport/"
+    },
+    "GrievanceRallyPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/grievancerallyperformance/"
     },
     "Grokbot": {
       "episode_count": 3,
@@ -59753,9 +59840,9 @@
       "url": "/wiki/entities/hubermanlab/"
     },
     "HubertHumphrey": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -59763,6 +59850,13 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
         }
       ],
       "updated": "2026-09-22",
@@ -70399,9 +70493,9 @@
       "url": "/wiki/concepts/latentrivalrecognition/"
     },
     "LawAndOrderRacialSignaling": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -70409,6 +70503,20 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        },
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
         }
       ],
       "updated": "2026-09-22",
@@ -79556,6 +79664,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/lureenemyoutofposition/"
+    },
+    "LurleenWallace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/lurleenwallace/"
     },
     "Luton": {
       "episode_count": 1,
@@ -99618,6 +99742,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/proteinsupplychainmarketfit/"
     },
+    "ProtestMediaSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/protestmediaspectacle/"
+    },
     "ProvisionalIRA": {
       "episode_count": 2,
       "show_count": 1,
@@ -104965,6 +105105,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/richardiiiplay/"
     },
+    "RichardJDaley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/richardjdaley/"
+    },
     "RichardNixon": {
       "episode_count": 4,
       "show_count": 4,
@@ -108967,6 +109123,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/seemasanghavi/"
+    },
+    "SegregationistPopulistTranslation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/segregationistpopulisttranslation/"
     },
     "SeiShonagon": {
       "episode_count": 1,
@@ -114515,6 +114687,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/southsudan/"
+    },
+    "SouthernConservativeRealignmentSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/southernconservativerealignmentsignal/"
     },
     "SouthernOcean": {
       "episode_count": 1,
@@ -122266,6 +122454,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/thirdpartyaivendoroversight/"
     },
+    "ThirdPartyElectoralCollegeLeverage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/thirdpartyelectoralcollegeleverage/"
+    },
     "ThomaBravo": {
       "episode_count": 1,
       "show_count": 1,
@@ -125684,9 +125888,9 @@
       "url": "/wiki/entities/unitednationschildrenfund/"
     },
     "UnitedStatesPresidentialElection1968": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -125694,6 +125898,20 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT9860410495 [GLT9860410495].md",
+          "key": "512-america-in-68-the-chicago-riots-part-5-glt9860410495",
+          "show": "The Rest Is History",
+          "title": "512. America in '68: The Chicago Riots (Part 5)",
+          "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+        },
+        {
+          "episode_file": "GLT8855008412 [GLT8855008412].md",
+          "key": "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412",
+          "show": "The Rest Is History",
+          "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+          "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
         }
       ],
       "updated": "2026-09-22",

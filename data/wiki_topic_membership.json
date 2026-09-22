@@ -1759,6 +1759,35 @@
       "url": "/topics/culture/"
     }
   ],
+  "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "512-america-in-68-the-chicago-riots-part-5-glt9860410495": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "513-america-in-68-nixons-great-comeback-part-6-glt3853956463": [
     {
       "key": "history",
@@ -8238,6 +8267,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AmericanIndependentParty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AmericanJiaBaoyuComparison": [
@@ -15628,6 +15664,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "Chicago1968DemocraticConvention": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ChicagoFire": [
     {
       "key": "culture",
@@ -19798,6 +19841,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "CurtisLeMay": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CurtisLiu": [
@@ -31776,6 +31826,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "GrievanceRallyPerformance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Grok": [
@@ -44571,6 +44633,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LurleenWallace": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LushiChunqiu": [
     {
       "key": "history",
@@ -56543,6 +56612,18 @@
       "url": "/topics/science/"
     }
   ],
+  "ProtestMediaSpectacle": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ProvocationPublicityPolitics": [
     {
       "key": "culture",
@@ -59694,6 +59775,13 @@
       "url": "/topics/science/"
     }
   ],
+  "RichardJDaley": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RichardJewell": [
     {
       "key": "politics",
@@ -62378,6 +62466,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SegregationistPopulistTranslation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SeiShonagon": [
@@ -65156,6 +65251,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "SouthernConservativeRealignmentSignal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SouthernOcean": [
@@ -70539,6 +70641,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ThirdPartyElectoralCollegeLeverage": [
     {
       "key": "politics",
       "label": "Politics",

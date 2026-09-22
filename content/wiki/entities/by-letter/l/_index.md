@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10492
+wiki_total_pages: 10498
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "LuoboPaidui"
     title: "Luobo Paidui / 萝博派对"
     url: "/wiki/entities/luobopaidui/"
+  - key: "LurleenWallace"
+    title: "Lurleen Wallace"
+    url: "/wiki/entities/lurleenwallace/"
   - key: "LuthenRael"
     title: "Luthen Rael"
     url: "/wiki/entities/luthenrael/"

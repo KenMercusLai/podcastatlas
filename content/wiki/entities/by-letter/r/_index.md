@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10492
+wiki_total_pages: 10498
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "RichardIII"
     title: "Richard III / 理查三世"
     url: "/wiki/entities/richardiii/"
+  - key: "RichardJDaley"
+    title: "Richard J. Daley"
+    url: "/wiki/entities/richardjdaley/"
   - key: "RichardJewell"
     title: "Richard Jewell / 理查德·朱维尔"
     url: "/wiki/entities/richardjewell/"

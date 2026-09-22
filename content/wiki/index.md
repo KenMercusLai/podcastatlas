@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [512. America in '68: The Chicago Riots (Part 5)](sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495.md) — The Rest Is History episode on the 1968 Democratic convention, Yippie spectacle, police violence, party collapse, television framing, and law-and-order fallout.
 - [How Relationships Shape Your Brain | Dr. Allan Schore](sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719.md) — Huberman Lab interview on early attachment as affect regulation, self- and interactive regulation, misattunement repair, implicit communication, and therapeutic synchrony.
 - [VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？](sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf.md) — Ultrasound explainer covering modes, first-line limits, intervention, preparation, endocavitary safety, and pregnancy concerns.
 - [How to Make Better Decisions | Dr. Michael Platt](sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714.md) — Huberman Lab interview on attention as foraging, social valuation, context-sensitive hormone effects, synchrony, speed-accuracy control, loss aversion, market imitation, and biological rationality.
@@ -2684,8 +2685,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: How Hormones Shape Sexual Development](sources/essentials-how-hormones-shape-sexual-development-scim8971920142.md) — Huberman Lab Essentials episode on layered sexual differentiation, DHT and aromatase pathways, receptor-dependent effects, puberty, and evidence boundaries for environmental endocrine-disruption claims.
 
 - [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
+- [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [1968 Democratic National Convention in Chicago](entities/Chicago1968DemocraticConvention.md) — Convention crisis joining Democratic division, anti-war protest, police violence, and television politics.
+- [Abbie Hoffman](entities/AbbieHoffman.md) — Yippie organizer who made theatrical provocation and television visibility central to protest.
+- [Richard J. Daley](entities/RichardJDaley.md) — Chicago mayor whose defense of civic order shaped the 1968 convention crisis.
 - [Allan Schore](entities/AllanSchore.md) — Clinician and psychoanalytic theorist presenting attachment as affect regulation, implicit relational communication, and repair.
 - [Michael Platt](entities/MichaelPlatt.md) — Neuroscientist and primatologist connecting attention, social valuation, hormones, hierarchy, markets, and applied decision science.
 - [Jocelyn Jiang](entities/JocelynJiang.md) — Actuary and MultiPlan data-decision leader discussing responsible AI in employee health benefits.
@@ -13180,14 +13185,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [苏见信（信） / Shin](entities/SuJianxin.md) — Singer connecting minimum-resistance training, food, travel, art, optimism, and concert preparation in a source-bounded lifestyle profile.
 - [Roger Seheult](entities/RogerSeheult.md) — Pulmonology, sleep-medicine, and ICU physician connecting respiratory care with circadian, metabolic, environmental, and evidence-quality considerations.
 
-- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Close Nixon-Humphrey-Wallace contest shaped by Vietnam, disorder, racial signaling, campaign control, and a late Democratic recovery.
+- [1968 United States Presidential Election](entities/UnitedStatesPresidentialElection1968.md) — Three-candidate contest shaped by Vietnam, disorder, racial signaling, Wallace's leverage strategy, campaign control, and a late Democratic recovery.
 - [Hubert Humphrey](entities/HubertHumphrey.md) — Democratic nominee whose break with Johnson's bombing policy enabled a late but incomplete 1968 recovery.
 - [Spiro Agnew](entities/SpiroAgnew.md) — Nixon running mate selected to reinforce border-state and law-and-order appeal.
 - [H. R. Haldeman](entities/HRHaldeman.md) — Nixon loyalist linking personal campaign control, staged television, and racially calculated messaging.
 - [Anna Chennault](entities/AnnaChennault.md) — Campaign intermediary whose contact with South Vietnam is documented but whose decisive influence remains contested.
-- [George Wallace](entities/GeorgeWallace.md) — Third-party 1968 candidate and explicit-rhetoric contrast for Nixon's more coded racial appeal.
+- [George Wallace](entities/GeorgeWallace.md) — Alabama segregationist who nationalized anti-government and law-and-order grievance in a consequential 1968 third-party campaign.
+- [Lurleen Wallace](entities/LurleenWallace.md) — Alabama proxy governor whose election preserved George Wallace's control despite term limits.
+- [Curtis LeMay](entities/CurtisLeMay.md) — Wallace running mate whose nuclear-weapons remarks created a campaign credibility crisis.
+- [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Protest Media Spectacle](concepts/ProtestMediaSpectacle.md) — Use of symbolic, camera-ready protest whose visibility can outrun organizers' control of interpretation.
 - [Attachment as Affect Regulation](concepts/AttachmentAffectRegulation.md) — Model of attachment as flexible self- and interactive emotion regulation built through nonverbal caregiving and repair.
 - [Right-Hemisphere Relational Processing](concepts/RightHemisphereRelationalProcessing.md) — Source-bounded framework for implicit, contextual, bodily, and nonverbal relational information.
 - [Attention Foraging Model](concepts/AttentionForagingModel.md) — Model of focus and switching as allocation among information patches with competing expected returns.
@@ -21055,7 +21064,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Political Comeback Groundwork](concepts/PoliticalComebackGroundwork.md) — Party service, local obligations, and primary proof that rebuild viability after electoral defeat.
 - [Controlled Television Campaign](concepts/ControlledTelevisionCampaign.md) — Staged media format that simulates voter access while reducing candidate risk and controlling visual argument.
-- [Law-and-Order Racial Signaling](concepts/LawAndOrderRacialSignaling.md) — Framework separating general public-safety language, coded racial cues, policy signals, and audience reception.
+- [Law-and-Order Racial Signaling](concepts/LawAndOrderRacialSignaling.md) — Framework joining public-safety language, biography, coded racial cues, policy signals, and audience reception.
+- [Segregationist Populist Translation](concepts/SegregationistPopulistTranslation.md) — Reframing explicit segregation through anti-government, local-control, class, and cultural-grievance language without erasing racial meaning.
+- [Grievance Rally Performance](concepts/GrievanceRallyPerformance.md) — Participatory campaign style combining entertainment, repetition, enemies, hecklers, crowd response, and conflict.
+- [Third-Party Electoral College Leverage](concepts/ThirdPartyElectoralCollegeLeverage.md) — Strategy of using concentrated regional electoral votes to deny a majority and seek House-election bargaining power.
+- [Southern Conservative Realignment Signal](concepts/SouthernConservativeRealignmentSignal.md) — Wallace's coalition as early evidence of white Southern and working-class movement toward later Republican strength.
 - [Electoral Backchannel Causation Boundary](concepts/ElectoralBackchannelCausationBoundary.md) — Test separating contact and impropriety from recipient response, policy effect, and decisive electoral causation.
 - [Diagnostic Ultrasound Modality Selection / 诊断超声方式选择](concepts/DiagnosticUltrasoundModalitySelection.md) — Functional map of ultrasound modes, routes, first-line strengths, operator dependence, and multimodal diagnostic limits.
 - [Interventional Ultrasound Safety / 介入超声安全边界](concepts/InterventionalUltrasoundSafety.md) — Image-guided procedure boundary requiring target visibility, safe access, appropriate indication, and acceptable risk.

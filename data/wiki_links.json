@@ -1155,6 +1155,14 @@
     "title": "51.厌世？反人类？童话故事？…格列佛游记可深了去了",
     "url": "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"
   },
+  "511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412": {
+    "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
+    "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+  },
+  "512-america-in-68-the-chicago-riots-part-5-glt9860410495": {
+    "title": "512. America in '68: The Chicago Riots (Part 5)",
+    "url": "/wiki/sources/512-america-in-68-the-chicago-riots-part-5-glt9860410495/"
+  },
   "513-america-in-68-nixons-great-comeback-part-6-glt3853956463": {
     "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
     "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
@@ -3331,6 +3339,10 @@
     "title": "卡西诺修道院 / Abbey of Monte Cassino",
     "url": "/wiki/entities/abbeyofmontecassino/"
   },
+  "AbbieHoffman": {
+    "title": "Abbie Hoffman",
+    "url": "/wiki/entities/abbiehoffman/"
+  },
   "AbbottNutrition": {
     "title": "Abbott Nutrition",
     "url": "/wiki/entities/abbottnutrition/"
@@ -5306,6 +5318,10 @@
   "AmericanGreatness": {
     "title": "American Greatness",
     "url": "/wiki/entities/americangreatness/"
+  },
+  "AmericanIndependentParty": {
+    "title": "American Independent Party",
+    "url": "/wiki/entities/americanindependentparty/"
   },
   "AmericanJiaBaoyuComparison": {
     "title": "American Jia Baoyu Comparison",
@@ -12475,6 +12491,10 @@
     "title": "Chiang Kai-shek / 蒋介石",
     "url": "/wiki/entities/chiangkaishek/"
   },
+  "Chicago1968DemocraticConvention": {
+    "title": "1968 Democratic National Convention in Chicago",
+    "url": "/wiki/entities/chicago1968democraticconvention/"
+  },
   "ChicagoFire": {
     "title": "Chicago Fire",
     "url": "/wiki/entities/chicagofire/"
@@ -16178,6 +16198,10 @@
   "CurtRichardson": {
     "title": "Curt Richardson",
     "url": "/wiki/entities/curtrichardson/"
+  },
+  "CurtisLeMay": {
+    "title": "Curtis LeMay",
+    "url": "/wiki/entities/curtislemay/"
   },
   "CurtisLiu": {
     "title": "Curtis Liu",
@@ -27362,6 +27386,10 @@
   "GriefPhysiologySupport": {
     "title": "Grief Physiology Support",
     "url": "/wiki/concepts/griefphysiologysupport/"
+  },
+  "GrievanceRallyPerformance": {
+    "title": "Grievance Rally Performance",
+    "url": "/wiki/concepts/grievancerallyperformance/"
   },
   "GrillMeSkills": {
     "title": "GrillMe Skills",
@@ -40531,6 +40559,10 @@
     "title": "Lure Enemy Out of Position / 诱敌离位",
     "url": "/wiki/concepts/lureenemyoutofposition/"
   },
+  "LurleenWallace": {
+    "title": "Lurleen Wallace",
+    "url": "/wiki/entities/lurleenwallace/"
+  },
   "LushiChunqiu": {
     "title": "《吕氏春秋》 / Lushi Chunqiu",
     "url": "/wiki/entities/lushichunqiu/"
@@ -51683,6 +51715,10 @@
     "title": "Protein Supply Chain Market Fit / 蛋白质供应链市场匹配",
     "url": "/wiki/concepts/proteinsupplychainmarketfit/"
   },
+  "ProtestMediaSpectacle": {
+    "title": "Protest Media Spectacle",
+    "url": "/wiki/concepts/protestmediaspectacle/"
+  },
   "ProtestantHeroicMartyrdom": {
     "title": "Protestant Heroic Martyrdom",
     "url": "/wiki/concepts/protestantheroicmartyrdom/"
@@ -54687,6 +54723,10 @@
     "title": "Richard III / 《理查三世》",
     "url": "/wiki/entities/richardiiiplay/"
   },
+  "RichardJDaley": {
+    "title": "Richard J. Daley",
+    "url": "/wiki/entities/richardjdaley/"
+  },
   "RichardJewell": {
     "title": "Richard Jewell / 理查德·朱维尔",
     "url": "/wiki/entities/richardjewell/"
@@ -57006,6 +57046,10 @@
   "Segment": {
     "title": "Segment",
     "url": "/wiki/entities/segment/"
+  },
+  "SegregationistPopulistTranslation": {
+    "title": "Segregationist Populist Translation",
+    "url": "/wiki/concepts/segregationistpopulisttranslation/"
   },
   "SeiShonagon": {
     "title": "Sei Shonagon",
@@ -59710,6 +59754,10 @@
   "SouthToNorthWaterTransferProject": {
     "title": "South-to-North Water Transfer Project / 南水北调",
     "url": "/wiki/entities/southtonorthwatertransferproject/"
+  },
+  "SouthernConservativeRealignmentSignal": {
+    "title": "Southern Conservative Realignment Signal",
+    "url": "/wiki/concepts/southernconservativerealignmentsignal/"
   },
   "SouthernHan": {
     "title": "南汉 / Southern Han",
@@ -63902,6 +63950,10 @@
   "ThirdPartyDoctrine": {
     "title": "Third-Party Doctrine",
     "url": "/wiki/concepts/thirdpartydoctrine/"
+  },
+  "ThirdPartyElectoralCollegeLeverage": {
+    "title": "Third-Party Electoral College Leverage",
+    "url": "/wiki/concepts/thirdpartyelectoralcollegeleverage/"
   },
   "ThirdPartySupplementTesting": {
     "title": "Third-Party Supplement Testing",

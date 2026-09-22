@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10492
+wiki_total_pages: 10498
 wiki_pages:
+  - key: "Chicago1968DemocraticConvention"
+    title: "1968 Democratic National Convention in Chicago"
+    url: "/wiki/entities/chicago1968democraticconvention/"
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
     url: "/wiki/entities/caesarassassination/"
@@ -1343,6 +1346,9 @@ wiki_pages:
   - key: "CurtRichardson"
     title: "Curt Richardson"
     url: "/wiki/entities/curtrichardson/"
+  - key: "CurtisLeMay"
+    title: "Curtis LeMay"
+    url: "/wiki/entities/curtislemay/"
   - key: "CurtisLiu"
     title: "Curtis Liu"
     url: "/wiki/entities/curtisliu/"
