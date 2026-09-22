@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7933
+wiki_total_pages: 7936
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "LactateMetabolicShuttle"
     title: "Lactate Metabolic Shuttle"
     url: "/wiki/concepts/lactatemetabolicshuttle/"
+  - key: "LancastrianLegitimacy"
+    title: "Lancastrian Legitimacy"
+    url: "/wiki/concepts/lancastrianlegitimacy/"
   - key: "LandReformEqualityDevelopment"
     title: "Land Reform And Equality In Development"
     url: "/wiki/concepts/landreformequalitydevelopment/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10568
+wiki_total_pages: 10577
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "Bastet"
     title: "Bastet / 巴斯特"
     url: "/wiki/entities/bastet/"
+  - key: "BattleOfAgincourt"
+    title: "Battle of Agincourt"
+    url: "/wiki/entities/battleofagincourt/"
   - key: "BattleOfCrete"
     title: "Battle of Crete"
     url: "/wiki/entities/battleofcrete/"

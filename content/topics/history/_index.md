@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1946
+topic_total_pages: 1947
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "490-hundred-years-war-england-triumphant-part-4-glt2692942762"
+    title: "490. Hundred Years' War: England Triumphant (Part 4)"
+    url: "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
   - key: "491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613"
     title: "491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)"
     url: "/wiki/sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613/"

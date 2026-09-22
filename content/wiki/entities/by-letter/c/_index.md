@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10568
+wiki_total_pages: 10577
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -335,6 +335,9 @@ wiki_pages:
   - key: "CatherineNixie"
     title: "Catherine Nixie"
     url: "/wiki/entities/catherinenixie/"
+  - key: "CatherineOfValois"
+    title: "Catherine of Valois"
+    url: "/wiki/entities/catherineofvalois/"
   - key: "CatholicChurch"
     title: "Catholic Church"
     url: "/wiki/entities/catholicchurch/"
@@ -527,6 +530,12 @@ wiki_pages:
   - key: "CharlesSled"
     title: "Charles Sled"
     url: "/wiki/entities/charlessled/"
+  - key: "CharlesVIOfFrance"
+    title: "Charles VI of France"
+    url: "/wiki/entities/charlesvioffrance/"
+  - key: "CharlesVIIOfFrance"
+    title: "Charles VII of France"
+    url: "/wiki/entities/charlesviioffrance/"
   - key: "CharlesXII"
     title: "Charles XII / 卡尔十二世"
     url: "/wiki/entities/charlesxii/"

@@ -4,7 +4,8 @@ type: entity
 tags: [war, medieval-history, england, france]
 sources:
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
-last_updated: 2026-09-04
+  - 490-hundred-years-war-england-triumphant-part-4-glt2692942762
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,40 +13,41 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Hundred Years' War is the Anglo-French conflict that [[TheRestIsHistory]] introduces through the 1337-1453 frame, using its origins to connect dynastic succession, feudal homage, trade, Scotland, national mobilization, and competing memories of chivalric adventure and devastation.
+The Hundred Years' War is the 1337-1453 Anglo-French conflict whose current wiki evidence connects its structural origins to [[HenryVOfEngland|Henry V's]] 1415-1422 military and dynastic high point.
 
 ## Current Profile
 
-The current wiki evidence covers the war's origin layer rather than its full course. The episode argues that the war did not begin only because [[EdwardIIIOfEngland|Edward III]] was denied the French throne. That claim mattered, but it operated inside a larger field: [[France]] was the richer and more prestigious kingdom, [[England]] had lost much of its earlier continental empire but retained [[Gascony]], and [[Scotland]] gave French rulers a northern route to pressure England.
+The origin evidence argues that the war did not begin only because [[EdwardIIIOfEngland|Edward III]] was denied the French throne. That claim operated inside a larger field: [[France]] was the richer and more prestigious kingdom, [[England]] retained a legally vulnerable [[Gascony]], and [[Scotland]] gave France a northern route to pressure England. [[PhilipVIOfFrance|Philip VI's]] 1337 confiscation of [[Aquitaine]] converted these structural disputes into open war.
 
-The source's strongest current synthesis is structural. [[Gascony]] made the English king both a sovereign ruler and a French vassal, while the [[CapetianDynasty|Capetian]] succession crisis opened a dynastic dispute that [[PhilipVIOfFrance|Philip VI]] could not safely concede. Philip's 1337 confiscation of [[Aquitaine]] then converts legal pressure into open war, with Edward using Parliament and a public manifesto to frame the quarrel as an English cause.
+The later evidence shows another dynastic claim becoming militarily plausible after [[BattleOfAgincourt|Agincourt]]. Henry's conquest of [[Normandy]], the [[ArmagnacBurgundianCivilWar]], and [[JohnTheFearless|John the Fearless's]] murder enabled the [[TreatyOfTroyes|Treaty of Troyes]], which designated Henry heir to France. Yet the [[AngloFrenchDualMonarchy|dual monarchy]] remained contested by [[CharlesVIIOfFrance|the Dauphin]], and Henry's 1422 death transferred it to an infant.
 
 ## Key Characteristics
 
-- Long Anglo-French conflict framed by the episode as lasting from 1337 to 1453.
-- Origin story built from several pressures rather than a single denied-throne cause.
-- Conflict between a materially stronger [[France]] and a weaker but more consolidated [[England]].
-- Territorial-legal crisis around [[Gascony]] and [[Aquitaine]].
-- Dynastic rupture after the direct Capetian male line fails.
-- Scottish alliance pressure that connects northern war to French policy.
-- Memory field divided between chivalric romance and catastrophic social violence.
+- Long conflict framed as lasting from 1337 to 1453, with current coverage concentrated on its origin and Henry V's high point.
+- Repeated interaction among dynastic claims, territorial law, factional alignment, and national mobilization rather than a single cause.
+- Early asymmetry between a richer France and a weaker but more consolidated England.
+- Territorial hinges shifting from Gascony and Aquitaine at the opening to Normandy under Henry V.
+- French civil division creating English strategic opportunity after Agincourt.
+- Dynastic settlement at Troyes reaching beyond conquest toward a dual monarchy.
+- Memory field divided between chivalric-national triumph and catastrophic social violence.
 
 ## Evidence
 
-- Duration and scope: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] presents the war as a 116-year conflict from 1337 to 1453 and reserves most battle narrative for later episodes.
-- Multi-causal origins: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links the war to succession, Gascony, Scotland, trade, English identity, and French power rather than a single dynastic grievance.
-- Anglo-French asymmetry: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says France had much greater income, population, administrative prestige, and chivalric soft power than England.
-- Territorial law: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] makes Gascon homage and appeals to the French king a structural irritant before Philip VI confiscates Aquitaine.
-- Scottish pressure: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] uses Hallidon Hill, David II's flight to France, and the Franco-Scottish agreement to show why Scotland pulled France into Edward III's strategic field.
-- Memory split: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] contrasts Conan Doyle's chivalric romance inheritance with Tuchman's darker account of devastation.
+- Origins and asymmetry: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links succession, Gascony, Scotland, trade, English identity, and materially stronger French monarchy to the opening crisis.
+- Territorial law and mobilization: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] makes Gascon homage and Aquitaine's confiscation central before Edward uses Parliament and manifesto.
+- Agincourt and legitimacy: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] connects French elite destruction to Henry's providential and national triumph.
+- Conquest and faction: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] links Normandy and Rouen to Armagnac-Burgundian division and pressure on Paris.
+- Dynastic high point and fragility: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces Montereau, Burgundian alignment, Troyes, continued Dauphinist resistance, and infant succession.
+- Memory split: both [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] and [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] hold heroic national memory beside captivity, pillage, mass death, and suffering.
 
 ## Qualifications
 
-The page is bounded to the first episode of a planned four-part sequence. Battles, military change, plague context, French recovery, and the war's later phases are foreshadowed but not yet synthesized here. The source's population, income, wine-export, and legal-history details are recorded as podcast claims rather than independently audited figures.
+Coverage remains discontinuous: it contains the origin and part four, not the intervening campaigns or later French recovery. Population, financial, casualty, and prisoner figures remain podcast claims rather than independently audited data. The evidence does not resolve whether Henry could have sustained Troyes had he lived.
 
 ## What Changed
 
-- Created the Hundred Years' War branch as a structural origin problem linking dynastic claim, feudal homage, Scotland, and war memory.
+- Extended the war from its 1337 origin structure to Henry V's Agincourt-Troyes high point and exposed the gap between formal dynastic settlement and durable control.
+- Added French factional conflict and Normandy as central mechanisms of the later phase.
 
 ## Relationships
 
@@ -59,3 +61,7 @@ The page is bounded to the first episode of a planned four-part sequence. Battle
 - [[FrancoScottishAlliance]] - alliance pressure that makes Scotland part of the Anglo-French crisis.
 - [[ChivalricRomanceWarMemory]] - memory frame contrasted with the war's catastrophic social effects.
 - [[DynasticClaimNationalMobilization]] - political pattern by which Edward turns a royal claim into a wider English cause.
+- [[BattleOfAgincourt]] - victory transforming English legitimacy and French elite capacity.
+- [[ArmagnacBurgundianCivilWar]] - internal conflict enabling Henry's territorial advance.
+- [[TreatyOfTroyes]] - disputed settlement naming Henry heir to France.
+- [[AngloFrenchDualMonarchy]] - intended structure of separate kingdoms under one crown.

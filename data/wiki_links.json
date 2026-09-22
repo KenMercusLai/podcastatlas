@@ -1115,6 +1115,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "490-hundred-years-war-england-triumphant-part-4-glt2692942762": {
+    "title": "490. Hundred Years' War: England Triumphant (Part 4)",
+    "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+  },
   "491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613": {
     "title": "491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)",
     "url": "/wiki/sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613/"
@@ -5851,6 +5855,10 @@
     "title": "Angkor Hydraulic Empire / 吴哥水利帝国",
     "url": "/wiki/concepts/angkorhydraulicempire/"
   },
+  "AngloFrenchDualMonarchy": {
+    "title": "Anglo-French Dual Monarchy",
+    "url": "/wiki/concepts/anglofrenchdualmonarchy/"
+  },
   "AngloNormanSuccessionLegitimacy": {
     "title": "Anglo-Norman Succession Legitimacy",
     "url": "/wiki/concepts/anglonormansuccessionlegitimacy/"
@@ -6622,6 +6630,10 @@
   "Arkema": {
     "title": "Arkema",
     "url": "/wiki/entities/arkema/"
+  },
+  "ArmagnacBurgundianCivilWar": {
+    "title": "Armagnac-Burgundian Civil War",
+    "url": "/wiki/concepts/armagnacburgundiancivilwar/"
   },
   "ArmandBenard": {
     "title": "Armand Benard",
@@ -8150,6 +8162,10 @@
   "BatterySwapInfrastructure": {
     "title": "Battery Swap Infrastructure / 换电体系",
     "url": "/wiki/concepts/batteryswapinfrastructure/"
+  },
+  "BattleOfAgincourt": {
+    "title": "Battle of Agincourt",
+    "url": "/wiki/entities/battleofagincourt/"
   },
   "BattleOfCrete": {
     "title": "Battle of Crete",
@@ -11527,6 +11543,10 @@
     "title": "Catherine Nixie",
     "url": "/wiki/entities/catherinenixie/"
   },
+  "CatherineOfValois": {
+    "title": "Catherine of Valois",
+    "url": "/wiki/entities/catherineofvalois/"
+  },
   "CatholicBurialLegitimacy": {
     "title": "Catholic Burial Legitimacy",
     "url": "/wiki/concepts/catholicburiallegitimacy/"
@@ -12034,6 +12054,14 @@
   "CharlesSled": {
     "title": "Charles Sled",
     "url": "/wiki/entities/charlessled/"
+  },
+  "CharlesVIIOfFrance": {
+    "title": "Charles VII of France",
+    "url": "/wiki/entities/charlesviioffrance/"
+  },
+  "CharlesVIOfFrance": {
+    "title": "Charles VI of France",
+    "url": "/wiki/entities/charlesvioffrance/"
   },
   "CharlesXII": {
     "title": "Charles XII / 卡尔十二世",
@@ -29671,6 +29699,10 @@
     "title": "Henry the Navigator / 恩里克王子",
     "url": "/wiki/entities/henrythenavigator/"
   },
+  "HenryVOfEngland": {
+    "title": "Henry V of England",
+    "url": "/wiki/entities/henryvofengland/"
+  },
   "HenryVPlay": {
     "title": "Henry V / 《亨利五世》",
     "url": "/wiki/entities/henryvplay/"
@@ -35211,6 +35243,10 @@
     "title": "John Terry",
     "url": "/wiki/entities/johnterry/"
   },
+  "JohnTheFearless": {
+    "title": "John the Fearless",
+    "url": "/wiki/entities/johnthefearless/"
+  },
   "JohnWatson": {
     "title": "John Watson / 华生",
     "url": "/wiki/entities/johnwatson/"
@@ -37118,6 +37154,10 @@
   "LanaSwartz": {
     "title": "Lana Swartz",
     "url": "/wiki/entities/lanaswartz/"
+  },
+  "LancastrianLegitimacy": {
+    "title": "Lancastrian Legitimacy",
+    "url": "/wiki/concepts/lancastrianlegitimacy/"
   },
   "LanceGentry": {
     "title": "Lance Gentry",
@@ -46791,6 +46831,10 @@
     "title": "Norman Hybrid Identity",
     "url": "/wiki/concepts/normanhybrididentity/"
   },
+  "Normandy": {
+    "title": "Normandy",
+    "url": "/wiki/entities/normandy/"
+  },
   "NorseMythology": {
     "title": "Norse Mythology / 北欧神话",
     "url": "/wiki/concepts/norsemythology/"
@@ -49954,6 +49998,10 @@
   "PhilipSidney": {
     "title": "Sir Philip Sidney",
     "url": "/wiki/entities/philipsidney/"
+  },
+  "PhilipTheGood": {
+    "title": "Philip the Good",
+    "url": "/wiki/entities/philipthegood/"
   },
   "PhilipVIOfFrance": {
     "title": "Philip VI of France",
@@ -65778,6 +65826,10 @@
   "TreatyOfParis1783": {
     "title": "Treaty of Paris (1783)",
     "url": "/wiki/entities/treatyofparis1783/"
+  },
+  "TreatyOfTroyes": {
+    "title": "Treaty of Troyes",
+    "url": "/wiki/entities/treatyoftroyes/"
   },
   "TreeProtectionOrdinances": {
     "title": "Tree Protection Ordinances",

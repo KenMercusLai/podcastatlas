@@ -21675,3 +21675,11 @@ Added source `491-historys-greatest-beards-from-egyptian-queens-to-medieval-conq
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 490. Hundred Years' War: England Triumphant (Part 4)
+
+Added source `490-hundred-years-war-england-triumphant-part-4-glt2692942762`; created `HenryVOfEngland`, `CharlesVIOfFrance`, `CharlesVIIOfFrance`, `CatherineOfValois`, `JohnTheFearless`, `PhilipTheGood`, `Normandy`, `BattleOfAgincourt`, `TreatyOfTroyes`, `ArmagnacBurgundianCivilWar`, `LancastrianLegitimacy`, and `AngloFrenchDualMonarchy`; updated `HundredYearsWar` and the index. Core synthesis: Agincourt joined severe French elite destruction to providential national myth and Lancastrian stabilization, while Normandy's conquest, French civil conflict, and Montereau realignment enabled the Treaty of Troyes and a contested dual monarchy. No settled contradiction found; casualty and prisoner totals, Montereau intent, Burgundian motives, Henry's long-term prospects, and the durability of language policy remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

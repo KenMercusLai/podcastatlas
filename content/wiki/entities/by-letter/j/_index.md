@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10568
+wiki_total_pages: 10577
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -734,6 +734,9 @@ wiki_pages:
   - key: "JohnTerry"
     title: "John Terry"
     url: "/wiki/entities/johnterry/"
+  - key: "JohnTheFearless"
+    title: "John the Fearless"
+    url: "/wiki/entities/johnthefearless/"
   - key: "JohnWatson"
     title: "John Watson / 华生"
     url: "/wiki/entities/johnwatson/"

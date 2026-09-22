@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10568
+wiki_total_pages: 10577
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "NORAID"
     title: "NORAID"
     url: "/wiki/entities/noraid/"
+  - key: "Normandy"
+    title: "Normandy"
+    url: "/wiki/entities/normandy/"
   - key: "NorthAmericanBlueEnergyPartners"
     title: "North American Blue Energy Partners"
     url: "/wiki/entities/northamericanblueenergypartners/"

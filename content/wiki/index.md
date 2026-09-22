@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [490. Hundred Years' War: England Triumphant (Part 4)](sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762.md) — The Rest Is History episode on Agincourt's aftermath, Henry V's conquest of Normandy, French factional collapse, the Treaty of Troyes, and the fragility of dual monarchy.
 - [491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)](sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613.md) — The Rest Is History episode on facial hair as a changing code of kingship, purity, masculinity, philosophy, religion, imperial order, and clerical reform.
 - [How to Increase Your Emotional Intelligence | Dr. Marc Brackett](sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217.md) — Huberman Lab interview on RULER, emotional granularity, the Mood Meter, regulation, empathy, bullying prevention, digital communication, and emotion mentorship.
 - [492. The War on Beards: From Peter the Great to John Lennon (Part 2)](sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678.md) — The Rest Is History episode on facial hair as a changing code of religion, masculinity, military prestige, hygiene, discipline, technology, and counterculture.
@@ -2727,6 +2728,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
+- [Charles VI of France](entities/CharlesVIOfFrance.md) — French king retained by the Treaty of Troyes while regency and succession shifted to Henry V.
+- [Charles VII of France](entities/CharlesVIIOfFrance.md) — Dauphin disinherited at Troyes whose survival and resistance kept French legitimacy contested.
+- [Catherine of Valois](entities/CatherineOfValois.md) — French princess whose marriage and son supplied the dynastic bridge for Henry V's dual-monarchy project.
+- [John the Fearless](entities/JohnTheFearless.md) — Burgundian duke whose pressure aided Henry and whose murder drove a decisive alliance realignment.
+- [Philip the Good](entities/PhilipTheGood.md) — Burgundian duke whose response to his father's murder helped enable the Treaty of Troyes.
+- [Normandy](entities/Normandy.md) — Duchy conquered by Henry V as a territorial base and Seine corridor toward Paris.
+- [Battle of Agincourt](entities/BattleOfAgincourt.md) — 1415 victory combining French elite destruction, English legitimacy, human catastrophe, and national myth.
+- [Treaty of Troyes](entities/TreatyOfTroyes.md) — 1420 agreement making Henry V regent and heir to France while disinheriting the Dauphin.
 - [Hadrian](entities/Hadrian.md) — Roman emperor who restored the beard to imperial presentation as a sign of Greek culture, philosophy, and military affiliation.
 - [Constantine the Great](entities/ConstantineTheGreat.md) — Roman emperor whose clean-shaven image signaled civilian order and informed early Christian imperial iconography.
 - [Hatshepsut](entities/Hatshepsut.md) — Egyptian female pharaoh whose artificial beard functioned as established royal regalia.
@@ -13306,6 +13316,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Armagnac-Burgundian Civil War](concepts/ArmagnacBurgundianCivilWar.md) — French factional struggle that fragmented resistance, enabled English expansion, and culminated in post-Montereau realignment.
+- [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process by which Agincourt converted military success, providential ritual, and national symbolism into dynastic stability.
+- [Anglo-French Dual Monarchy](concepts/AngloFrenchDualMonarchy.md) — Intended union of separate English and French kingdoms under one hereditary crown after Troyes.
 - [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, diet, developmental review, professional prevention, and timely restoration.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.
 - [Dental Aesthetic Treatment Boundary / 牙齿美学治疗边界](concepts/DentalAestheticTreatmentBoundary.md) — Distinction among normal tooth color, surface stain removal, chemical bleaching, veneers, and crowns.

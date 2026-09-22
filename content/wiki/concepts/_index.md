@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7933
+wiki_total_pages: 7936
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "AngkorHydraulicEmpire"
     title: "Angkor Hydraulic Empire / 吴哥水利帝国"
     url: "/wiki/concepts/angkorhydraulicempire/"
+  - key: "AngloFrenchDualMonarchy"
+    title: "Anglo-French Dual Monarchy"
+    url: "/wiki/concepts/anglofrenchdualmonarchy/"
   - key: "AngloNormanSuccessionLegitimacy"
     title: "Anglo-Norman Succession Legitimacy"
     url: "/wiki/concepts/anglonormansuccessionlegitimacy/"
@@ -2066,6 +2069,9 @@ wiki_pages:
   - key: "AristocraticSpiritConsumptionBoundary"
     title: "Aristocratic Spirit Consumption Boundary / 贵族精神消费边界"
     url: "/wiki/concepts/aristocraticspiritconsumptionboundary/"
+  - key: "ArmagnacBurgundianCivilWar"
+    title: "Armagnac-Burgundian Civil War"
+    url: "/wiki/concepts/armagnacburgundiancivilwar/"
   - key: "ArmedProtestZoneSecurity"
     title: "Armed Protest-Zone Security"
     url: "/wiki/concepts/armedprotestzonesecurity/"
