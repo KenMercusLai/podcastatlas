@@ -25923,9 +25923,9 @@
       "url": "/wiki/concepts/corticostriatalthalamicloop/"
     },
     "CosmeticProcedureExpectationManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -25933,9 +25933,16 @@
           "show": "这病说来话长",
           "title": "VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕",
           "url": "/wiki/sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk/"
+        },
+        {
+          "episode_file": "lqogN2-UEeEbZhWV0g1-Ns9yqGv5 [lqogN2-UEeEbZhWV0g1-Ns9yqGv5].md",
+          "key": "vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5",
+          "show": "这病说来话长",
+          "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
+          "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/cosmeticprocedureexpectationmanagement/"
     },
     "CosmicCrisp": {
@@ -42856,6 +42863,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/fengxiaogang/"
+    },
+    "FengXiaoliuVascularSurgeon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqogN2-UEeEbZhWV0g1-Ns9yqGv5 [lqogN2-UEeEbZhWV0g1-Ns9yqGv5].md",
+          "key": "vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5",
+          "show": "这病说来话长",
+          "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
+          "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/fengxiaoliuvascularsurgeon/"
     },
     "FengXinWesternHan": {
       "episode_count": 1,
@@ -79560,9 +79583,9 @@
       "url": "/wiki/entities/lulongroadlatehan/"
     },
     "LuluPlasticSurgeon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -79570,9 +79593,16 @@
           "show": "这病说来话长",
           "title": "VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕",
           "url": "/wiki/sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk/"
+        },
+        {
+          "episode_file": "lqogN2-UEeEbZhWV0g1-Ns9yqGv5 [lqogN2-UEeEbZhWV0g1-Ns9yqGv5].md",
+          "key": "vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5",
+          "show": "这病说来话长",
+          "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
+          "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/luluplasticsurgeon/"
     },
     "LumbarDiscHerniation": {
@@ -83241,9 +83271,9 @@
       "url": "/wiki/concepts/medicalairobotcollaborationboundary/"
     },
     "MedicalAestheticProviderVerification": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -83251,9 +83281,16 @@
           "show": "这病说来话长",
           "title": "VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕",
           "url": "/wiki/sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk/"
+        },
+        {
+          "episode_file": "lqogN2-UEeEbZhWV0g1-Ns9yqGv5 [lqogN2-UEeEbZhWV0g1-Ns9yqGv5].md",
+          "key": "vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5",
+          "show": "这病说来话长",
+          "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
+          "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/medicalaestheticproviderverification/"
     },
     "MedicalDiagnosticReasoning": {
@@ -126348,9 +126385,9 @@
       "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
     },
     "UnapprovedMedicalAestheticProducts": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkSoHygMb6epma5qgaF76pdDx2fK [lkSoHygMb6epma5qgaF76pdDx2fK].md",
@@ -126358,9 +126395,16 @@
           "show": "这病说来话长",
           "title": "VOL.159从《以美之名》到现实，整形医生解读剧中没细说的医美内幕",
           "url": "/wiki/sources/vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk/"
+        },
+        {
+          "episode_file": "lqogN2-UEeEbZhWV0g1-Ns9yqGv5 [lqogN2-UEeEbZhWV0g1-Ns9yqGv5].md",
+          "key": "vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5",
+          "show": "这病说来话长",
+          "title": "VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南",
+          "url": "/wiki/sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/unapprovedmedicalaestheticproducts/"
     },
     "UnauthorizedFrontierCommandIntervention": {

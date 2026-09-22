@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南](sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5.md) — 这病说来话长 episode on illegal injectables, provider verification, procedure scope, sales-led consultation, risk-benefit tradeoffs, recovery, and medical-aesthetic expectation management.
 - [506. The French Revolution: Massacre at the Palace (Part 4)](sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163.md) — The Rest Is History episode on war failure, royal distrust, popular mobilization, the Tuileries insurrection, monarchical suspension, and the coercive emergency that followed.
 - [507. The French Revolution: The Marseillaise, Song of War (Part 5)](sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124.md) — The Rest Is History episode on La Marseillaise, citizen-volunteers, Roman republican imagery, David's visual culture, and revolutionary dress.
 - [508. America in '68: Nightmare in Vietnam (Part 1)](sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097.md) — The Rest Is History episode on Johnson's Vietnam escalation, Tet's credibility shock, McCarthy's New Hampshire challenge, and the multi-causal decision to withdraw.
@@ -2803,6 +2804,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Town Personal AI](entities/TownPersonalAI.md) — Email- and desktop-centered personal agent that builds toward broader delegation through progressive trust.
 - [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer personal agent using distribution, social interest signals, and subsidized cloud execution.
 - [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
+- [冯小六 (vascular-surgery doctor)](entities/FengXiaoliuVascularSurgeon.md) — Source-scoped surgeon contributing a medically trained beginner's personal experience of medical-aesthetic procedures.
 - [《以美之名》 / In the Name of Beauty](entities/YiMeiZhiMingDrama.md) — Medical drama used as an educational hook for plastic-surgery and medical-aesthetic risk discussion.
 - [Edgar Atheling](entities/EdgarAtheling.md) — Young royal claimant elected after Hastings whose bloodline and Witan recognition did not become effective kingship.
 - [Domesday Book](entities/DomesdayBook.md) — 1086 land survey recording the Norman property order through inherited English administrative capacity.

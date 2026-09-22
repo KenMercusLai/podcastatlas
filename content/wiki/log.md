@@ -21403,6 +21403,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南
+
+Added source `vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5`; created `FengXiaoliuVascularSurgeon`; updated `LuluPlasticSurgeon`, `UnapprovedMedicalAestheticProducts`, `MedicalAestheticProviderVerification`, `CosmeticProcedureExpectationManagement`, and the index. Core synthesis: medical aesthetics is elective medicine, so product identity, lawful institutional scope, qualified clinician-led assessment, complication support, recovery, function, reversibility, and the person's actual goal should outrank low price, familiarity, prestige language, or sales pressure. No settled contradiction found; material descriptions, procedure grades, credential terminology, complication frequencies, platform signals, and personal outcomes remain source-scoped public education rather than current regulatory verification or individualized treatment. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节
 
 Added source `vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek`; created `DongRheumatologyDoctor`, `SystemicLupusErythematosusManagement`, `ChronicDiseaseTreatmentAdherence`, and `ChronicIllnessQualityOfLife`; updated `ZihanDoctor`, `YinLaoshiZheBing`, `AutoimmuneDiseaseSubtyping`, `PublicHealthInformationTriage`, `ZheBingShuoLaiHuaChang`, and the index. Core synthesis: systemic lupus is presented as non-contagious, heterogeneous autoimmune disease managed through recognition, acute control, clinical remission, organ protection, adherence, honest adverse-effect communication, sun protection, multidisciplinary escalation, and patient-valued quality of life. No settled contradiction found; triggers, timelines, sex differences, medication effects, case anecdotes, and the survival game remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21430,6 +21434,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 507. The French Revolution: The Marseillaise, Song of War (Part 5)
 
 Added source `507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124`; created `LaMarseillaise`, `RougetDeLisle`, `SansCulottes`, `RevolutionaryRomanism`, `RevolutionaryDressPoliticalIdentity`, and `CitizenSoldierSymbolicLegitimacy`; updated `FrenchRevolution`, `JacquesLouisDavid`, `NationalAnthemPoliticalPlasticity`, and the index. Core synthesis: La Marseillaise acquired republican force through wartime circulation and armed citizen-volunteer performance, while Roman imagery, David's civic art, red caps, sans-culotte clothing, and elite imitation made revolutionary belonging visible. No settled contradiction found; musical antecedents, exact performances, reconstructed dialogue, volunteer numbers, motives, and reception remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

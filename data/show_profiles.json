@@ -3410,7 +3410,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 46,
+      "source_note_count": 47,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3448,6 +3448,13 @@
           "episode_count": 3
         },
         {
+          "key": "LuluPlasticSurgeon",
+          "title": "Lulu (plastic-surgery doctor)",
+          "url": "/wiki/entities/luluplasticsurgeon/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "YaMengDoctor",
           "title": "亚萌 / Ya Meng",
           "url": "/wiki/entities/yamengdoctor/",
@@ -3479,13 +3486,6 @@
           "key": "XiaolongWeightManagementGuest",
           "title": "小龙 / Xiaolong (Weight-Management Guest)",
           "url": "/wiki/entities/xiaolongweightmanagementguest/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "YinLaoshiZheBing",
-          "title": "尹老师 / Yin Laoshi (Zhe Bing speaker)",
-          "url": "/wiki/entities/yinlaoshizhebing/",
           "kind": "person",
           "episode_count": 2
         }
