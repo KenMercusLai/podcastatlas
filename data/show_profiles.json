@@ -1128,10 +1128,10 @@
       ]
     },
     "Tomorrow, Today": {
-      "episode_count": 4,
+      "episode_count": 5,
       "earliest_episode_date": "2026-08-25",
-      "latest_episode_date": "2026-09-15",
-      "latest_episode_file": "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
+      "latest_episode_date": "2026-09-22",
+      "latest_episode_file": "default.mp3_ywr3ahjkcgo_7f3751f920b60d7e5f1f95b565e5195b_90323490 [default.mp3_ywr3ahjkcgo_7f3751f920b60d7e5f1f95b565e5195b_90323490].md",
       "source_note_count": 4,
       "topic_matched_source_note_count": 3,
       "topics": [
@@ -1145,9 +1145,9 @@
       "entities": [],
       "start_here_episode_files": [
         "default.mp3_ywr3ahjkcgo_97450677c47f502770248abb02f35793_163628914 [default.mp3_ywr3ahjkcgo_97450677c47f502770248abb02f35793_163628914].md",
+        "default.mp3_ywr3ahjkcgo_7f3751f920b60d7e5f1f95b565e5195b_90323490 [default.mp3_ywr3ahjkcgo_7f3751f920b60d7e5f1f95b565e5195b_90323490].md",
         "default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029 [default.mp3_ywr3ahjkcgo_e89a7f2ce2a2debd81a21c8497515090_80330029].md",
-        "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md",
-        "128_default_tc [128_default_tc].md"
+        "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md"
       ]
     },
     "What's Next｜科技早知道": {
