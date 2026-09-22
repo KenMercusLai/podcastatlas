@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | 506. The French Revolution: Massacre at the Palace (Part 4)
+
+Added source `506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163`; created `JacquesPierreBrissot`, `TuileriesInsurrection`, and `WartimeConstitutionalMonarchyCollapse`; and updated `FrenchRevolution`, `LouisXVI`, `MarieAntoinette`, `GeorgesDanton`, `SansCulottes`, `MarquisDeLafayette`, `RevolutionaryTerrorPolitics`, and index. Core synthesis: failed war, economic fear, genuine royal duplicity, royal vetoes, institutional paralysis, the Brunswick threat, sections, and fédérés turned constitutional conflict into the 10 August insurrection and royal suspension, while surveillance, censorship, exceptional justice, and mass arrest formed a coercive bridge toward the September Massacres. No settled contradiction found; Brissot's unsupported wider plot, the first Tuileries gunfire, command responsibility, troop and casualty figures, motives, dialogue, and later recollections remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-22] ingest | Essentials: How to Control Hunger, Eating & Satiety
 
 Added source `essentials-how-to-control-hunger-eating-satiety-scim9260736648`; created `AppetiteHormoneRegulation`; updated `AndrewHuberman`, `HubermanLab`, `VentromedialHypothalamus`, `GlycemicResponseToolBoundary`, `UltraProcessedFoodPragmaticBoundary`, and index. Core synthesis: appetite emerges from interacting hypothalamic, sensory, gut, endocrine, nutrient, glucose, and learned-timing signals, while meal context and ordinary movement may influence glucose response without becoming universal prescriptions. No settled contradiction found; the source's "nanograms per deciliter" glucose unit is treated as an internal error, and its parabiosis, circuit, CCK, emulsifier, food-order, exercise, metformin, ketogenic-diet, thyroid, yerba-mate, GLP-1, and leptin claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21426,6 +21430,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 507. The French Revolution: The Marseillaise, Song of War (Part 5)
 
 Added source `507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124`; created `LaMarseillaise`, `RougetDeLisle`, `SansCulottes`, `RevolutionaryRomanism`, `RevolutionaryDressPoliticalIdentity`, and `CitizenSoldierSymbolicLegitimacy`; updated `FrenchRevolution`, `JacquesLouisDavid`, `NationalAnthemPoliticalPlasticity`, and the index. Core synthesis: La Marseillaise acquired republican force through wartime circulation and armed citizen-volunteer performance, while Roman imagery, David's civic art, red caps, sans-culotte clothing, and elite imitation made revolutionary belonging visible. No settled contradiction found; musical antecedents, exact performances, reconstructed dialogue, volunteer numbers, motives, and reception remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

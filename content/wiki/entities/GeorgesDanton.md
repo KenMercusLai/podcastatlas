@@ -6,6 +6,7 @@ sources:
   - 125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
+  - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -14,22 +15,27 @@ last_updated: 2026-09-22
 
 ## Overview
 
-Georges Danton was a major revolutionary leader who mobilized Paris during the Prussian invasion, tolerated and justified the [[SeptemberMassacres]], and later became the initially dominant member of the [[CommitteeOfPublicSafety|Committee of Public Safety]].
+Georges Danton was a major revolutionary leader who helped coordinate the August 1792 overthrow of effective monarchy, mobilized Paris during the Prussian invasion, tolerated and justified the [[SeptemberMassacres]], and later became the initially dominant member of the [[CommitteeOfPublicSafety|Committee of Public Safety]].
 
 ## Current Profile
 
-The sources reveal a politically flexible but morally compromised emergency leader. In September 1792 Danton joined necessary national mobilization to rhetoric about internal traitors, ignored a direct warning about prisoner safety, and treated the ensuing deaths as an indispensable sacrifice without being shown to have commanded the killing teams. In 1793 he dominated the new public-safety committee but appeared increasingly pragmatic beside Marat's blood rhetoric and Robespierre's rising virtue politics; the same capacity for emergency action that enabled his ascent did not protect him when compromise became suspect.
+The sources reveal a charismatic, politically flexible, but morally compromised emergency leader. In August 1792 his Cordeliers and Commune position helped him coordinate the distributed mobilization against the monarchy; after the [[TuileriesInsurrection|Tuileries insurrection]] he became Minister of Justice and supported exceptional political justice as arrests and surveillance widened. In September he joined necessary national mobilization to rhetoric about internal traitors, ignored a direct warning about prisoner safety, and treated the ensuing deaths as an indispensable sacrifice without being shown to have commanded the killing teams. In 1793 he dominated the new public-safety committee but appeared increasingly pragmatic beside Marat's blood rhetoric and Robespierre's rising virtue politics.
 
 ## Key Characteristics
 
+- His charisma and Cordeliers-Commune position helped him coordinate radical action before 10 August.
+- He became Minister of Justice after the monarchy's suspension and supported exceptional political justice.
 - He used forceful public rhetoric and administrative mobilization during the Prussian advance.
 - His orders closed gates, raised barricades, recruited volunteers, and extended searches for arms and suspected agents.
 - He knew prisoners were endangered, declined to intervene, and later justified the deaths politically.
 - The source distinguishes enabling rhetoric and non-intervention from a proven direct command of the massacres.
-- He initially dominated the Committee of Public Safety's nine-member form.
-- He regarded Marat as excessively bloodthirsty and later lost influence as pragmatism became politically dangerous.
+- He initially dominated the Committee of Public Safety but later lost influence as pragmatism became suspect.
 
 ## Evidence
+
+### August insurrection and ministerial ascent
+
+- [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] places Danton in the Cordeliers and insurrectionary Commune network, then follows his appointment as Minister of Justice and support for a political tribunal amid surveillance and mass arrest.
 
 ### September 1792 mobilization and responsibility
 
@@ -46,14 +52,15 @@ The sources reveal a politically flexible but morally compromised emergency lead
 ## Qualifications
 
 - No source proves that Danton issued an operational order for the September prison killings.
+- Distributed action on 10 August does not make Danton its sole commander or erase the agency of sections, fédérés, and municipal organizers.
 - Military emergency helps explain his mobilization but does not settle the moral or political responsibility created by incitement and deliberate non-intervention.
 - The sources do not provide a full biography or complete account of his later prosecution and death.
 
 ## What Changed
 
-- Danton's profile now begins with his September 1792 mobilization and non-intervention rather than only his 1793 committee role.
-- His responsibility for the massacres is expressed as knowledge, enabling rhetoric, refusal to protect, and justification—not invented direct command.
-- Later pragmatism is now set against his earlier willingness to accept emergency popular violence.
+- Danton's profile now begins with his role in the August insurrection and ascent to the justice ministry.
+- Exceptional justice, surveillance, and arrest are visible before the September prison killings.
+- His later responsibility remains expressed as knowledge, enabling rhetoric, refusal to protect, and justification—not invented direct command.
 
 ## Relationships
 
@@ -64,3 +71,5 @@ The sources reveal a politically flexible but morally compromised emergency lead
 - [[JeanPaulMarat]] - fellow radical whose blood rhetoric Danton considered excessive.
 - [[EmergencyInstitutionsToTerror]] - process in which Danton's emergency leadership participated.
 - [[RevolutionaryTerrorPolitics]] - environment linking his early emergency violence and later political decline.
+- [[TuileriesInsurrection]] - distributed insurrection in which his radical network participated.
+- [[WartimeConstitutionalMonarchyCollapse]] - crisis that enabled his ministerial rise.

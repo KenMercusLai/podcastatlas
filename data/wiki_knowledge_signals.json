@@ -46037,9 +46037,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -46089,6 +46089,13 @@
           "show": "The Rest Is History",
           "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
           "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
       "updated": "2026-09-23",
@@ -49730,9 +49737,9 @@
       "url": "/wiki/entities/georgewhitman/"
     },
     "GeorgesDanton": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -49754,6 +49761,13 @@
           "show": "The Rest Is History",
           "title": "544. The French Revolution: The September Massacres (Part 1)",
           "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
       "updated": "2026-09-22",
@@ -64917,6 +64931,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jacqueslouisdavid/"
     },
+    "JacquesPierreBrissot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jacquespierrebrissot/"
+    },
     "JamesCallender": {
       "episode_count": 1,
       "show_count": 1,
@@ -78352,9 +78382,9 @@
       "url": "/wiki/entities/louismoreaugottschalk/"
     },
     "LouisXVI": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -78369,6 +78399,13 @@
           "show": "The Rest Is History",
           "title": "546. The French Revolution: The Monarchy Falls (Part 3)",
           "url": "/wiki/sources/546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
       "updated": "2026-09-22",
@@ -82175,9 +82212,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -82185,6 +82222,13 @@
           "show": "The Rest Is History",
           "title": "544. The French Revolution: The September Massacres (Part 1)",
           "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
       "updated": "2026-09-22",
@@ -82342,9 +82386,9 @@
       "url": "/wiki/concepts/marketingscienceuserpath/"
     },
     "MarquisDeLafayette": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -82352,9 +82396,16 @@
           "show": "The Rest Is History",
           "title": "683. Washington: Hero of the Revolution (Part 1)",
           "url": "/wiki/sources/683-washington-hero-of-the-revolution-part-1-glt3752138067/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/marquisdelafayette/"
     },
     "MarriageAllianceWarExposure": {
@@ -105490,9 +105541,9 @@
       "url": "/wiki/concepts/revolutionaryromanism/"
     },
     "RevolutionaryTerrorPolitics": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -105514,6 +105565,13 @@
           "show": "The Rest Is History",
           "title": "544. The French Revolution: The September Massacres (Part 1)",
           "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
       "updated": "2026-09-22",
@@ -108639,9 +108697,9 @@
       "url": "/wiki/entities/sanguozhi/"
     },
     "SansCulottes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5535769124 [GLT5535769124].md",
@@ -108649,6 +108707,13 @@
           "show": "The Rest Is History",
           "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
           "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
+        },
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
         }
       ],
       "updated": "2026-09-23",
@@ -125537,6 +125602,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/tudorsuccessioncrisis/"
     },
+    "TuileriesInsurrection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/tuileriesinsurrection/"
+    },
     "Tujia": {
       "episode_count": 1,
       "show_count": 1,
@@ -131119,6 +131200,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/wartimecommanddecapitation/"
+    },
+    "WartimeConstitutionalMonarchyCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9954902163 [GLT9954902163].md",
+          "key": "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163",
+          "show": "The Rest Is History",
+          "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+          "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/wartimeconstitutionalmonarchycollapse/"
     },
     "WartimeTextileFiscalResource": {
       "episode_count": 1,

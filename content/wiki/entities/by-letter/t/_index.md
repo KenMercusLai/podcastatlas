@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10512
+wiki_total_pages: 10514
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "Tudor"
     title: "Tudor"
     url: "/wiki/entities/tudor/"
+  - key: "TuileriesInsurrection"
+    title: "Tuileries Insurrection of 10 August 1792"
+    url: "/wiki/entities/tuileriesinsurrection/"
   - key: "TungChaoYung"
     title: "Tung Chao-yung / 董浩雲"
     url: "/wiki/entities/tungchaoyung/"

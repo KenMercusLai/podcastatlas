@@ -5,6 +5,7 @@ tags: [person, france, monarchy, french-revolution]
 sources:
   - 547-the-french-revolution-the-execution-of-the-king-part-4-glt2184509954
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
+  - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -13,22 +14,27 @@ last_updated: 2026-09-22
 
 ## Overview
 
-Louis XVI was the deposed Bourbon king whose imprisonment, trial, and execution became tests of whether the new French Republic could coexist with a living former monarch.
+Louis XVI was the Bourbon king whose wartime constitutional choices accelerated the monarchy's collapse before his imprisonment, trial, and execution tested whether the new French Republic could coexist with a living former monarch.
 
 ## Current Profile
 
-The sources present Louis simultaneously as prisoner, accused individual, and political symbol. Temple family life continued under humiliating restrictions while the Convention debated whether the old constitution protected him; the iron safe then strengthened the factual case concerning foreign and counterrevolutionary contacts. His later naming, seating, clothing, restraint, execution, and burial destroyed sacred royal exception, while his composed final conduct gave royalists material for a rival martyr memory.
+The sources present Louis as a constitutional actor, prisoner, accused individual, and political symbol. His vetoes of emergency measures and dismissal of the Girondin ministry were lawful powers used in a context where war made them appear disloyal; his composure during the 20 June palace invasion could not restore legitimacy, and the 10 August insurrection ended effective royal authority. Temple family life then continued under humiliating restrictions while the Convention debated whether the old constitution protected him; the iron safe strengthened the factual case concerning foreign and counterrevolutionary contacts. His later naming, seating, clothing, restraint, execution, and burial destroyed sacred royal exception, while his composed final conduct gave royalists material for a rival martyr memory.
 
 ## Key Characteristics
 
-- Temple imprisonment reduced the royal family to a closely controlled domestic routine while preserving education, reading, play, and family bonds.
+- His vetoes and ministry dismissal made constitutional prerogative appear incompatible with national defence.
+- He remained personally composed during the 20 June invasion but could not recover political trust.
+- The 10 August insurrection forced him to seek Assembly protection and led to suspension and Temple imprisonment.
 - The legal debate moved from constitutional removal to natural-law punishment and claims that kingship itself made him an enemy.
 - The iron-safe papers made alleged foreign and counterrevolutionary contact central to the case for trial.
 - He chose a point-by-point factual defence rather than making constitutional inviolability his main strategy.
 - His execution was staged as ordinary equal punishment and extraordinary republican spectacle at once.
-- His composed death became evidence for a royalist martyr narrative that rivaled republican memory.
 
 ## Evidence
+
+### Constitutional crisis and suspension
+
+- [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] traces Louis's vetoes, ministry dismissal, conduct on 20 June, failed alternatives involving Lafayette, departure from the Tuileries, suspension, and imprisonment.
 
 ### Imprisonment and the opening case
 
@@ -52,12 +58,14 @@ The sources present Louis simultaneously as prisoner, accused individual, and po
 - The iron-safe papers strengthen suspicion but are not independently reproduced or audited in these source notes.
 - The “one vote” margin, exact dialogue, final words, private beliefs, and eyewitness scenes remain source-scoped.
 - Composure at death does not decide the truth of the indictment or restore monarchical legitimacy.
+- A constitutional veto was not itself proof of treason, but wartime context made its political cost severe.
+- The exact orders and responsibility surrounding the first Tuileries gunfire remain unclear.
 
 ## What Changed
 
-- The profile now begins with Temple imprisonment and the legal dispute over whether a former king could be tried.
-- The iron safe separates the factual treason case from the broader claim that kingship itself required death.
-- The execution is now visible as the endpoint of an unresolved republican founding problem rather than an isolated sentence.
+- The profile now begins with Louis's wartime constitutional choices and failed survival through the 20 June and 10 August confrontations.
+- Suspension and imprisonment are linked directly to distributed insurrection and the collapse of reliable royal force.
+- Lawful prerogative, evidence of wider duplicity, and the later symbolic case against kingship remain analytically distinct.
 
 ## Relationships
 
@@ -68,3 +76,5 @@ The sources present Louis simultaneously as prisoner, accused individual, and po
 - [[DeRoyalizationRitual]] - process that removed royal forms and exception before his death.
 - [[RegicideAsRepublicanFounding]] - interpretation of his execution as constitutive republican violence.
 - [[PoliticalExecutionMemoryContest]] - struggle over whether he died as tyrant, criminal, victim, or martyr.
+- [[TuileriesInsurrection]] - confrontation that ended his effective rule and led to imprisonment.
+- [[WartimeConstitutionalMonarchyCollapse]] - process through which his emergency choices destroyed legitimacy.

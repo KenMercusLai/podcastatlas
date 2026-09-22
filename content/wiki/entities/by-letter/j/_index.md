@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10512
+wiki_total_pages: 10514
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "JacquesDerrida"
     title: "Jacques Derrida / 德里达"
     url: "/wiki/entities/jacquesderrida/"
+  - key: "JacquesPierreBrissot"
+    title: "Jacques Pierre Brissot"
+    url: "/wiki/entities/jacquespierrebrissot/"
   - key: "JacquesLouisDavid"
     title: "Jacques-Louis David / 雅克-路易·大卫"
     url: "/wiki/entities/jacqueslouisdavid/"

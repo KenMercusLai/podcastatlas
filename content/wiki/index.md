@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [506. The French Revolution: Massacre at the Palace (Part 4)](sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163.md) — The Rest Is History episode on war failure, royal distrust, popular mobilization, the Tuileries insurrection, monarchical suspension, and the coercive emergency that followed.
 - [507. The French Revolution: The Marseillaise, Song of War (Part 5)](sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124.md) — The Rest Is History episode on La Marseillaise, citizen-volunteers, Roman republican imagery, David's visual culture, and revolutionary dress.
 - [508. America in '68: Nightmare in Vietnam (Part 1)](sources/508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097.md) — The Rest Is History episode on Johnson's Vietnam escalation, Tet's credibility shock, McCarthy's New Hampshire challenge, and the multi-causal decision to withdraw.
 - [How to Deal With High Conflict People | Bill Eddy](sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828.md) — Huberman Lab interview on recognizing recurrent blame and escalation without casual diagnosis, then using CARS, BIFF, limits, and safety-aware disengagement.
@@ -2696,9 +2697,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Jacques Pierre Brissot](entities/JacquesPierreBrissot.md) — Girondin war advocate whose failed liberation expectations and accusations against the crown deepened the 1792 legitimacy crisis.
+- [Tuileries Insurrection of 10 August 1792](entities/TuileriesInsurrection.md) — Armed confrontation that destroyed effective constitutional monarchy, massacred the Swiss Guards, and led to royal suspension.
 - [La Marseillaise](entities/LaMarseillaise.md) — French revolutionary war song whose citizen-volunteer circulation created a republican anthem.
 - [Claude Joseph Rouget de Lisle](entities/RougetDeLisle.md) — Army engineer and composer who wrote the future La Marseillaise in Strasbourg in April 1792.
-- [Sans-culottes](entities/SansCulottes.md) — Urban popular radicals whose clothing joined class identity, Roman liberty imagery, and revolutionary belonging.
+- [Sans-culottes](entities/SansCulottes.md) — Urban popular radicals whose dress, economic demands, section politics, and armed mobilization joined class identity to revolutionary power.
 - [Bill Eddy](entities/BillEddy.md) — Lawyer, mediator, therapist, and conflict educator using pattern-based recognition and structured de-escalation tools.
 - [董老师 / Dong Rheumatology Doctor](entities/DongRheumatologyDoctor.md) — Source-scoped rheumatology guest explaining lupus mechanism, recognition, remission, adherence, and long-term management.
 - [James Earl Ray](entities/JamesEarlRay.md) — Escaped convict identified as Martin Luther King Jr.'s assassin.
@@ -2749,7 +2752,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles François Dumouriez](entities/CharlesFrancoisDumouriez.md) — French general whose Valmy position and Belgian victories connected defence to revolutionary expansion.
 - [Louis Antoine de Saint-Just](entities/LouisAntoineSaintJust.md) — Montagnard deputy who argued that kingship itself made Louis XVI incompatible with the Republic.
 - [Montagnards / The Mountain](entities/Montagnards.md) — Paris-centered radical camp opposed to the Girondins in the National Convention.
-- [Louis XVI](entities/LouisXVI.md) — Deposed Bourbon king whose trial, de-royalization, execution, and contested afterlife became a test of republican legitimacy.
+- [Louis XVI](entities/LouisXVI.md) — Bourbon king whose wartime constitutional choices, suspension, trial, and execution became tests of monarchical and republican legitimacy.
 - [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
 - [Alfred the Great](entities/AlfredTheGreat.md) — West Saxon ruler whose defense, fortified towns, trade policy, and political identity underpin later English unification.
@@ -4377,7 +4380,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Continental Army](entities/ContinentalArmy.md) — Revolutionary army Washington had to preserve, supply, discipline, inoculate, and professionalize during the American Revolution.
 - [Martha Washington](entities/MarthaWashington.md) — Valley Forge camp participant linking Washington's household support, women's camp labor, and enslaved attendants from Mount Vernon.
 - [Friedrich Wilhelm von Steuben](entities/FriedrichWilhelmVonSteuben.md) — European trainer whose Valley Forge drills and sanitation reforms helped professionalize the Continental Army.
-- [Marquis de Lafayette](entities/MarquisDeLafayette.md) — Young French volunteer close to Washington and tied to the personal Franco-American layer of the Revolution.
+- [Marquis de Lafayette](entities/MarquisDeLafayette.md) — Franco-American revolutionary figure whose prestige failed to rescue French constitutional monarchy in 1792.
 - [Horatio Gates](entities/HoratioGates.md) — Rival commander figure around whom a winter movement to replace Washington briefly formed.
 - [鲍昱 / Bao Yu (Eastern Han)](entities/BaoYuEasternHan.md) — Mingdi-appointed Situ whose Zhangdi-era profile joins rescue-credit advocacy, drought-framed Chu-case redress, and qualified frontier-policy judgment.
 - [范羌 / Fan Qiang (Eastern Han)](entities/FanQiangEasternHan.md) — Eastern Han frontier officer who risks a deep-snow rescue of Geng Gong, making loyal followership a shared-risk command case.
@@ -9854,17 +9857,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
-- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Revolutionary setting for Marat, Corday, Girondins, Jacobins, terror, martyr images, and political assassination ethics.
+- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining wartime monarchical collapse, republican founding, contested citizenship, popular violence, regicide, and terror.
 - [Girondins / 吉伦特派](entities/Girondins.md) — Moderate republican faction whose conflict with Jacobins and sympathy from Corday shape the episode's factional history.
 - [Jacobin Club / 雅各宾俱乐部](entities/JacobinClub.md) — Revolutionary club and factional milieu tied in episode 125 to Marat, Robespierre, Danton, virtue politics, and terror.
 - [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Jacobin leader used by episode 125 to connect virtue language, romantic politics, and revolutionary terror.
-- [Georges Danton / 丹东](entities/GeorgesDanton.md) — Revolutionary figure supporting episode 125's Jacobin leadership and terror-politics cluster.
+- [Georges Danton / 丹东](entities/GeorgesDanton.md) — Radical organizer and emergency leader whose rise joined the August insurrection, justice ministry, September crisis, and later public-safety government.
 - [Jacques-Louis David / 雅克-路易·大卫](entities/JacquesLouisDavid.md) — Revolutionary painter whose The Death of Marat becomes the episode's case in martyrdom image-making.
 - [The Death of Marat / 《马拉之死》](entities/DeathOfMaratPainting.md) — David painting read by episode 125 as a political image that sanctifies Marat and omits Corday.
 - [Antoine Lavoisier / 拉瓦锡](entities/AntoineLavoisier.md) — Scientist whose conflict with Marat anchors the episode's science-under-revolutionary-suspicion thread.
 - [September Massacres / 九月屠杀](entities/SeptemberMassacres.md) — 1792 prison killings that episode 125 treats as central to Corday's decision to kill Marat.
 - [Princesse de Lamballe](entities/PrincesseDeLamballe.md) — Royal attendant killed during the September Massacres whose death became the center of sexualized atrocity stories.
-- [Marie Antoinette](entities/MarieAntoinette.md) — Imprisoned French queen whose relationship with Lamballe became a target of gendered revolutionary propaganda.
+- [Marie Antoinette](entities/MarieAntoinette.md) — French queen whose Austrian information-sharing deepened royal distrust before imprisonment and gendered revolutionary propaganda.
 - [François Jourgniac Saint-Méard](entities/FrancoisJourgniacSaintMeard.md) — Abbaye survivor whose account documents the massacres' selective, tribunal-like procedure.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
@@ -13218,6 +13221,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Wartime Constitutional Monarchy Collapse](concepts/WartimeConstitutionalMonarchyCollapse.md) — Process joining military failure, executive obstruction or duplicity, economic distress, institutional paralysis, and armed popular mobilization.
 - [Revolutionary Romanism](concepts/RevolutionaryRomanism.md) — French revolutionary reuse of early Roman republican people, virtues, objects, and civic settings.
 - [Revolutionary Dress as Political Identity](concepts/RevolutionaryDressPoliticalIdentity.md) — Clothing, grooming, and wearable symbols as visible claims about class, liberty, and allegiance.
 - [Citizen-Soldier Symbolic Legitimacy](concepts/CitizenSoldierSymbolicLegitimacy.md) — Political authority created when armed volunteers appear to embody and defend the nation directly.
@@ -18524,7 +18528,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Confucian Foreign Policy Moralism / 儒家外交道德主义](concepts/ConfucianForeignPolicyMoralism.md) — Frontier diplomacy failure mode where symbolic hierarchy is mistaken for practical border management.
 - [Ideological Overcontrol / 意识形态过度控制](concepts/IdeologicalOvercontrol.md) — Regime pattern where moral, ritual, fiscal, familial, and frontier domains are forced under one totalizing scheme.
 - [Political Assassination Ethics / 政治刺杀伦理](concepts/PoliticalAssassinationEthics.md) — Episode 125's frame for when unlawful political killing can become morally legible without becoming safe or institutionally reparative.
-- [Revolutionary Terror Politics / 革命恐怖政治](concepts/RevolutionaryTerrorPolitics.md) — Mechanism linking fear, denunciation, war, factional purity, virtue language, and emergency killing in the French Revolution.
+- [Revolutionary Terror Politics / 革命恐怖政治](concepts/RevolutionaryTerrorPolitics.md) — Mechanism linking collapsing authority, surveillance, denunciation, war, factional purity, emergency justice, and killing.
 - [Revolutionary Popular Justice](concepts/RevolutionaryPopularJustice.md) — Extra-legal tribunal logic that makes selective political killing appear reasoned, necessary, and judicial.
 - [Revolutionary Atrocity Narrative Contest](concepts/RevolutionaryAtrocityNarrativeContest.md) — Conflict between necessity narratives, sensational propaganda, and evidence-bounded judgment of revolutionary violence.
 - [Revolutionary Martyrdom Image-Making / 革命殉道图像制造](concepts/RevolutionaryMartyrdomImageMaking.md) — Frame for how David's The Death of Marat turns political violence into saint-like revolutionary sacrifice.

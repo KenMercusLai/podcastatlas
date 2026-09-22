@@ -4,7 +4,8 @@ type: entity
 tags: [person, military, diplomacy, american-revolution, france]
 sources:
   - 683-washington-hero-of-the-revolution-part-1-glt3752138067
-last_updated: 2026-08-31
+  - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,32 +13,45 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Marquis de Lafayette appears as a young French volunteer close to [[GeorgeWashington|George Washington]] and emotionally linked to the Franco-American dimension of the [[AmericanRevolution|American Revolution]].
+The Marquis de Lafayette was a French aristocratic soldier whose American revolutionary service made him a personal bridge to [[GeorgeWashington|George Washington]], but whose attempt to rescue constitutional monarchy during the [[FrenchRevolution|French Revolution]] failed politically and militarily.
 
 ## Current Profile
 
-The episode gives Lafayette a compact but important role in the Valley Forge social world. He is 19 when he comes to America, becomes close to Washington, and is treated almost as a surrogate son. His presence makes French support personal before the [[FrancoAmericanAlliance1778|Franco-American alliance]] changes the war at state level.
+The sources present a sharp contrast between Lafayette's early symbolic capital and his later isolation. At 19 he entered the American cause, became close to Washington, and personalized the French connection before state alliance changed the war. In 1792, commanding the Army of the Centre, he sought a pause with Austria and returned to Paris to demand the closure of radical clubs and newspapers. He arrived without troops, failed to rally the National Guard, lacked royal support, and ultimately fled after his soldiers rejected his effort to restore the suspended constitutional monarchy.
 
 ## Key Characteristics
 
 - Young French aristocratic volunteer in the American cause.
 - Close personal associate of Washington during the revolutionary war.
-- Treated by the episode as almost a surrogate son to Washington.
 - Human bridge between Washington's command circle and the wider French connection.
+- Army commander who tried to halt radicalization and preserve constitutional monarchy in 1792.
+- His Paris intervention failed because prestige did not supply troops, municipal control, National Guard loyalty, or royal trust.
+- His effort to rally the army after 10 August ended in mutiny, flight, and Austrian imprisonment.
 
 ## Evidence
 
-- Age and arrival: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Lafayette was 19 when he came to America.
-- Washington relationship: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] says Lafayette became close to Washington and was treated almost as a surrogate son.
-- French connection: [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] places Lafayette in the socially diverse Valley Forge environment shortly before news of French recognition and alliance reaches the camp.
+### American revolutionary prestige
+
+- [[683-washington-hero-of-the-revolution-part-1-glt3752138067]] presents the 19-year-old Lafayette as a close Washington associate and personal embodiment of the French connection.
+
+### Failed intervention in Paris
+
+- [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] describes his secret approach to Austria, Assembly speech, lack of troops, failed National Guard rally, and rejection by the royal family.
+
+### Final constitutional-monarchist defeat
+
+- [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] reports army mutiny after 10 August, his flight, surrender to Austria, and imprisonment.
 
 ## Qualifications
 
-The page is source-scoped to Lafayette's role in this episode. It does not yet synthesize his full American service, French Revolution career, or later political memory.
+- The sources do not provide a full account of Lafayette's American service, French Revolution career, captivity, or later political memory.
+- His proposed pause with Austria and Paris intervention are presented as an attempt to restore order; the source does not establish all private intentions or counterfactual outcomes.
+- Marie Antoinette's fear that he would become the royal family's captor is her judgment, not proof of his intended conduct.
 
 ## What Changed
 
-- Created Lafayette as the personal Franco-American link inside the Washington and Valley Forge branch.
+- Added Lafayette's failed 1792 attempt to use military prestige in defence of constitutional monarchy.
+- His inability to mobilize troops, guards, or royal trust now qualifies the earlier prestige profile.
 
 ## Relationships
 
@@ -46,3 +60,7 @@ The page is source-scoped to Lafayette's role in this episode. It does not yet s
 - [[FrancoAmericanAlliance1778]] - state-level French support that parallels his personal role.
 - [[AmericanRevolution]] - conflict in which his volunteer service matters.
 - [[RepublicanRestraintLeadership]] - Washington's public authority style that shapes the surrogate-son relation.
+- [[LouisXVI]] - king whom Lafayette unsuccessfully offered to remove from Paris.
+- [[MarieAntoinette]] - queen who distrusted his proposed protection.
+- [[WartimeConstitutionalMonarchyCollapse]] - crisis his intervention failed to reverse.
+- [[TuileriesInsurrection]] - regime break after which his army rejected him.

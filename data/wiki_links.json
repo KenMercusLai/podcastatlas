@@ -1151,6 +1151,10 @@
     "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
     "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
   },
+  "506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163": {
+    "title": "506. The French Revolution: Massacre at the Palace (Part 4)",
+    "url": "/wiki/sources/506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163/"
+  },
   "507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124": {
     "title": "507. The French Revolution: The Marseillaise, Song of War (Part 5)",
     "url": "/wiki/sources/507-the-french-revolution-the-marseillaise-song-of-war-part-5-glt5535769124/"
@@ -33326,6 +33330,10 @@
   "JacquesLouisDavid": {
     "title": "Jacques-Louis David / 雅克-路易·大卫",
     "url": "/wiki/entities/jacqueslouisdavid/"
+  },
+  "JacquesPierreBrissot": {
+    "title": "Jacques Pierre Brissot",
+    "url": "/wiki/entities/jacquespierrebrissot/"
   },
   "JainaHefford": {
     "title": "Jaina Hefford",
@@ -65627,6 +65635,10 @@
     "title": "屠各胡 / Tuge Hu",
     "url": "/wiki/entities/tugehu/"
   },
+  "TuileriesInsurrection": {
+    "title": "Tuileries Insurrection of 10 August 1792",
+    "url": "/wiki/entities/tuileriesinsurrection/"
+  },
   "Tujia": {
     "title": "途家 / Tujia",
     "url": "/wiki/entities/tujia/"
@@ -68250,6 +68262,10 @@
   "WartimeCommandDecapitation": {
     "title": "Wartime Command Decapitation / 战时统帅斩首",
     "url": "/wiki/concepts/wartimecommanddecapitation/"
+  },
+  "WartimeConstitutionalMonarchyCollapse": {
+    "title": "Wartime Constitutional Monarchy Collapse",
+    "url": "/wiki/concepts/wartimeconstitutionalmonarchycollapse/"
   },
   "WartimeElectionConstraint": {
     "title": "Wartime Election Constraint",
