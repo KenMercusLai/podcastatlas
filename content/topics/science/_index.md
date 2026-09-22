@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1168
+topic_total_pages: 1171
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -565,6 +565,9 @@ topic_concepts:
   - key: "EmbodiedJudgment"
     title: "Embodied Judgment"
     url: "/wiki/concepts/embodiedjudgment/"
+  - key: "EmotionMentorship"
+    title: "Emotion Mentorship"
+    url: "/wiki/concepts/emotionmentorship/"
   - key: "EmotionalContagion"
     title: "Emotional Contagion / 情绪感染"
     url: "/wiki/concepts/emotionalcontagion/"
@@ -1171,6 +1174,9 @@ topic_concepts:
   - key: "MonsoonSeasonalSocialOrder"
     title: "Monsoon Seasonal Social Order / 季风季节性社会秩序"
     url: "/wiki/concepts/monsoonseasonalsocialorder/"
+  - key: "MoodMeterEmotionalCheckIn"
+    title: "Mood Meter Emotional Check-In"
+    url: "/wiki/concepts/moodmeteremotionalcheckin/"
   - key: "MoonMarsStrategySplit"
     title: "Moon-Mars Strategy Split"
     url: "/wiki/concepts/moonmarsstrategysplit/"
@@ -3342,6 +3348,9 @@ topic_sources:
   - key: "how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002"
     title: "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel"
     url: "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+  - key: "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217"
+    title: "How to Increase Your Emotional Intelligence | Dr. Marc Brackett"
+    url: "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
   - key: "how-to-make-better-decisions-dr-michael-platt-scim9606820714"
     title: "How to Make Better Decisions | Dr. Michael Platt"
     url: "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"

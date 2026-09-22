@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7930
+wiki_total_pages: 7933
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "MonsoonSeasonalSocialOrder"
     title: "Monsoon Seasonal Social Order / 季风季节性社会秩序"
     url: "/wiki/concepts/monsoonseasonalsocialorder/"
+  - key: "MoodMeterEmotionalCheckIn"
+    title: "Mood Meter Emotional Check-In"
+    url: "/wiki/concepts/moodmeteremotionalcheckin/"
   - key: "MoonMarsStrategySplit"
     title: "Moon-Mars Strategy Split"
     url: "/wiki/concepts/moonmarsstrategysplit/"

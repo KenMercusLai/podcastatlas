@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2790
+topic_total_pages: 2792
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -514,6 +514,9 @@ topic_concepts:
   - key: "BulkBookBuying"
     title: "Bulk Book Buying"
     url: "/wiki/concepts/bulkbookbuying/"
+  - key: "BullyingPreventionThroughEmotionalSkills"
+    title: "Bullying Prevention Through Emotional Skills"
+    url: "/wiki/concepts/bullyingpreventionthroughemotionalskills/"
   - key: "CainMarkReinterpretation"
     title: "Cain Mark Reinterpretation / 该隐印记重释"
     url: "/wiki/concepts/cainmarkreinterpretation/"
@@ -8034,6 +8037,9 @@ topic_sources:
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  - key: "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217"
+    title: "How to Increase Your Emotional Intelligence | Dr. Marc Brackett"
+    url: "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
   - key: "how-to-make-a-book-into-a-bestseller"
     title: "How to make a BOOK into a bestseller"
     url: "/wiki/sources/how-to-make-a-book-into-a-bestseller/"

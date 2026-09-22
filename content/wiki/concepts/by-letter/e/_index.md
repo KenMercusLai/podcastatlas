@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7930
+wiki_total_pages: 7933
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "EmotionEconomy"
     title: "Emotion Economy / 情绪经济"
     url: "/wiki/concepts/emotioneconomy/"
+  - key: "EmotionMentorship"
+    title: "Emotion Mentorship"
+    url: "/wiki/concepts/emotionmentorship/"
   - key: "EmotionRegulationToolkit"
     title: "Emotion Regulation Toolkit / 情绪调节工具箱"
     url: "/wiki/concepts/emotionregulationtoolkit/"

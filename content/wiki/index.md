@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Increase Your Emotional Intelligence | Dr. Marc Brackett](sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217.md) — Huberman Lab interview on RULER, emotional granularity, the Mood Meter, regulation, empathy, bullying prevention, digital communication, and emotion mentorship.
 - [492. The War on Beards: From Peter the Great to John Lennon (Part 2)](sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678.md) — The Rest Is History episode on facial hair as a changing code of religion, masculinity, military prestige, hygiene, discipline, technology, and counterculture.
 - [VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普](sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh.md) — 口腔医生宾哥解释全生命周期预防，并划清牙膏、修补、美白、漱口水、机构选择与专业治疗的边界。
 - [493. Lee Miller: Exposing the Horrors of World War Two](sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260.md) — The Rest Is History episode on Lee Miller's surrealist formation, wartime reporting, Dachau photographs, postwar collapse, and rediscovery.
@@ -3226,8 +3227,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [路温舒 / Lu Wenshu (Western Han)](entities/LuWenshuWesternHan.md) — Western Han legal remonstrator whose 《尚德缓刑书》 criticizes harsh judicial officials, torture, and confession manufacturing.
 - [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose damaged leadership prospects opened space for Thatcher's 1975 challenge.
 - [Airey Neave](entities/AireyNeave.md) — Conservative campaign organizer who helped turn Thatcher's underdog leadership bid into a first-ballot shock.
-- [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher and Huberman Lab guest who frames regulation through goals, strategy, vocabulary, vulnerability, RULER, and the meta-moment.
-- [Yale Center for Emotional Intelligence](entities/YaleCenterForEmotionalIntelligence.md) — Institutional context for Marc Brackett's school-facing emotional-intelligence and shared-language work.
+- [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher connecting RULER, the Mood Meter, regulation, emotion mentorship, and bullying prevention.
+- [Yale Center for Emotional Intelligence](entities/YaleCenterForEmotionalIntelligence.md) — Institutional context for Marc Brackett's school-facing RULER, shared-language, check-in, and bullying-prevention work.
 - [王褒 / Wang Bao (Western Han)](entities/WangBaoWesternHan.md) — Western Han writer whose 《圣主得贤臣颂》 becomes a ruler-minister recognition theory and whose 《僮约》 preserves Han Sichuan and early tea evidence.
 - [《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers](entities/ShengzhuDeXianchenSong.md) — Wang Bao ode read as a political-literary theory of worthy ministers, ruler search, trust, and mutual achievement.
 - [《僮约》 / Tong Yue (Wang Bao)](entities/TongyueWangBao.md) — Wang Bao work valued by Hanji 433 as social-history evidence for Han-era Sichuan and early tea culture.
@@ -13819,6 +13820,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Conservative Party Class Realignment](concepts/ConservativePartyClassRealignment.md) — shift from patrician Heathite paternalism toward middle-class, grammar-school, free-market Conservative identity.
 - [Thatcherite Moral-Market Politics](concepts/ThatcheriteMoralMarketPolitics.md) — political style fusing free-market economics with moral language about thrift, work, discipline, property, and anti-socialism.
 - [RULER Framework](concepts/RULERFramework.md) — Marc Brackett's emotional-intelligence model for recognizing, understanding, labeling, expressing, and regulating emotions.
+- [Mood Meter Emotional Check-In](concepts/MoodMeterEmotionalCheckIn.md) — Pleasantness-and-energy map for noticing an emotional state without automatically judging or fixing it.
+- [Emotion Mentorship](concepts/EmotionMentorship.md) — Supportive relationship that gives permission to feel through listening, compassion, inquiry, and practical help.
+- [Bullying Prevention Through Emotional Skills](concepts/BullyingPreventionThroughEmotionalSkills.md) — School-safety frame joining power-aware recognition, adult intervention, empathy, perspective-taking, role play, and regulation.
 - [Meta-Moment](concepts/MetaMoment.md) — Values-oriented pause between emotional trigger and response, using breath, role awareness, and best-self framing.
 - [圣主贤臣互相成就 / Sage Ruler-Worthy Minister Mutual Recognition](concepts/ShengzhuXianchenMutualRecognition.md) — Hanji 433 concept where ruler search, talent recognition, ministerial usefulness, and mutual trust turn ability into political achievement.
 - [金马门待诏 / Gold Horse Gate Court Literary Access](concepts/JinmaMenCourtLiteraryAccess.md) — Xuan-era court-literary access pattern in which high-literacy talent becomes visible to imperial patronage.

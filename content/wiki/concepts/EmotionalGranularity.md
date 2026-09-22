@@ -6,8 +6,9 @@ sources:
   - neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716
   - movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743
   - how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733
+  - how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-13
+last_updated: 2026-09-23
 ---
 
 # Emotional Granularity
@@ -20,16 +21,16 @@ In the Adolphs episode, granularity sits between emotion science and practical r
 
 The Portal episode broadens the same idea through [[BodilyResolution]]. Emotional resolution is not only a label-selection task. It is also trained through bodily attention, ambiguity, language as pointer rather than container, difficult films, symbolic texts, contemporary dance, music, silence, and relational experience. The newer source also adds a caution: emotional life can collapse toward black-and-white simplification under depressive or rigid states, so granularity should be treated as a practice capacity, not a demand for perfect verbal precision.
 
-The Brackett episode adds the most practical vocabulary layer. In his account, vague labels such as fine, okay, or upset hide important differences among anxiety, stress, pressure, and fear. Granularity matters because communication, support, and strategy selection depend on naming the actual state. It also sits inside [[RULERFramework]], where labeling is one step between recognizing emotion and choosing expression or regulation.
+The two Brackett episodes add the most practical vocabulary layer. In his account, vague labels such as fine, okay, or upset hide important differences among anxiety, stress, pressure, fear, disappointment, anger, jealousy, envy, happiness, and contentment. Granularity matters because communication, support, and strategy selection depend on naming both the state and its likely cause. It also sits inside [[RULERFramework]], where labeling is one step between recognizing emotion and choosing expression or regulation, and follows the broader coordinates of [[MoodMeterEmotionalCheckIn]].
 
 ## Key Claims
 - Granularity turns emotion from a diffuse takeover into a more inspectable state.
 - Language and precise labels can help regulation, but a usable concept matters more than a perfect term.
 - Fine-grained differentiation supports early intervention before the emotion fully controls behavior.
 - Emotional granularity depends on monitoring emotion, not denying that it is present.
-- The concept fits regulation because many emotional problems come from regulation failures rather than from emotion itself.
 - Bodily and aesthetic practices can support emotional granularity by refining contact with ambiguous experience.
 - Granularity can degrade when emotional life narrows toward coarse black-and-white categories.
+- Similar outward behavior does not guarantee the same underlying emotion, so granularity requires inquiry as well as observation.
 
 ## Evidence
 - Definition - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] records Adolphs describing emotional granularity as fine-level differentiation of one's own emotions.
@@ -39,13 +40,15 @@ The Brackett episode adds the most practical vocabulary layer. In his account, v
 - Ambiguity training - [[movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743]] links nuanced emotional language with symbolic texts, parables, difficult films, contemporary dance, music, silence, and language's limits as a container for experience.
 - Practical label distinctions - [[how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733]] has [[MarcBrackett]] distinguish anxiety, stress, pressure, and fear to show why vague labels can misroute support and strategy choice.
 - RULER placement - [[how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733]] places labeling inside [[RULERFramework]] between recognizing, understanding, expressing, and regulating emotions.
+- Cause-sensitive distinctions - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] distinguishes disappointment from anger, stress from anxiety, envy from admiration, and happiness from contentment to connect labels with causes and strategies.
+- Behavior-reading limit - [[how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217]] warns that stomping can reflect sadness, shame, fear, anger, or bullying rather than one obvious state.
 
 ## Counterevidence & Qualifications
-The sources do not provide a validated training protocol or outcome measure for improving granularity. Portal's depression and bodily-resolution claims remain source-scoped and should not be treated as mental-health treatment. Brackett's vocabulary examples are practical distinctions from a public conversation, not a complete taxonomy of affect. The concept remains a practical and theoretical frame rather than a standalone treatment.
+The sources do not provide a validated training protocol or outcome measure for improving granularity. Portal's depression and bodily-resolution claims remain source-scoped and should not be treated as mental-health treatment. Brackett's vocabulary examples are practical distinctions from public conversations, not a complete taxonomy of affect, and a label does not by itself prove cause. The concept remains a practical and theoretical frame rather than a standalone treatment.
 
 ## What Changed
-- Added Brackett's practical vocabulary layer around anxiety, stress, pressure, fear, and vague labels.
-- Connected emotional granularity more directly to RULER and strategy selection.
+- Extended Brackett's vocabulary layer to disappointment, anger, jealousy, envy, happiness, and contentment.
+- Added the behavior-reading limit and connected broad Mood Meter placement to finer labels.
 
 ## Related Concepts
 - [[EmotionRegulationToolkit]] - broader toolset that emotional granularity supports.
@@ -56,3 +59,4 @@ The sources do not provide a validated training protocol or outcome measure for 
 - [[BodilyResolution]] - broader Portal frame for refining bodily, emotional, social, and conceptual perception.
 - [[MovementPracticeAsAwareness]] - embodied route for making affective states more detailed.
 - [[RULERFramework]] - emotional-intelligence model where labeling connects recognition to expression and regulation.
+- [[MoodMeterEmotionalCheckIn]] - broad pleasantness-and-energy map that can precede finer differentiation.

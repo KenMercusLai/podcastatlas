@@ -15750,6 +15750,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/bullwhipeffectinformationamplification/"
     },
+    "BullyingPreventionThroughEmotionalSkills": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/bullyingpreventionthroughemotionalskills/"
+    },
     "BundConference": {
       "episode_count": 2,
       "show_count": 2,
@@ -37283,10 +37299,26 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/emotionattentionalcapture/"
     },
+    "EmotionMentorship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/emotionmentorship/"
+    },
     "EmotionRegulationToolkit": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -37329,9 +37361,16 @@
           "show": "Huberman Lab",
           "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        },
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionalCoRegulationFit": {
@@ -37418,9 +37457,9 @@
       "url": "/wiki/concepts/emotionalflashbackgrounding/"
     },
     "EmotionalGranularity": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -37442,9 +37481,16 @@
           "show": "Huberman Lab",
           "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        },
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/emotionalgranularity/"
     },
     "EmotionalHealthLongevity": {
@@ -83349,9 +83395,9 @@
       "url": "/wiki/entities/maozhongqun/"
     },
     "MarcBrackett": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6338474733 [SCIM6338474733].md",
@@ -83359,9 +83405,16 @@
           "show": "Huberman Lab",
           "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        },
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/marcbrackett/"
     },
     "MarcelloLippi": {
@@ -88122,6 +88175,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/montoneros/"
+    },
+    "MoodMeterEmotionalCheckIn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/moodmeteremotionalcheckin/"
     },
     "MoonMarsStrategySplit": {
       "episode_count": 2,
@@ -104288,9 +104357,9 @@
       "url": "/wiki/entities/rsffinance/"
     },
     "RULERFramework": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6338474733 [SCIM6338474733].md",
@@ -104298,9 +104367,16 @@
           "show": "Huberman Lab",
           "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        },
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/rulerframework/"
     },
     "RadicalAcceptanceChronicStress": {
@@ -139912,9 +139988,9 @@
       "url": "/wiki/entities/yalebrownobsessivecompulsivescale/"
     },
     "YaleCenterForEmotionalIntelligence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6338474733 [SCIM6338474733].md",
@@ -139922,9 +139998,16 @@
           "show": "Huberman Lab",
           "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
           "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        },
+        {
+          "episode_file": "SCIM6059113217 [SCIM6059113217].md",
+          "key": "how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217",
+          "show": "Huberman Lab",
+          "title": "How to Increase Your Emotional Intelligence | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/yalecenterforemotionalintelligence/"
     },
     "YanBaihu": {

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | How to Increase Your Emotional Intelligence | Dr. Marc Brackett
+
+Added source `how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217`; created `MoodMeterEmotionalCheckIn`, `EmotionMentorship`, and `BullyingPreventionThroughEmotionalSkills`; updated `MarcBrackett`, `YaleCenterForEmotionalIntelligence`, `RULERFramework`, `EmotionalGranularity`, `EmotionRegulationToolkit`, and index. Core synthesis: emotional intelligence becomes actionable when people recognize states, investigate causes, label them precisely, separate acceptance from expression, and choose context-sensitive regulation; the Mood Meter makes check-ins nonjudgmental, while Uncle Marvin and the bullying account extend the framework into supportive-adult responsibility and power-aware school prevention. No settled contradiction found; the 2024 episode complements the later 2026 Brackett interview, “Mark” is normalized to Marc, and conversational research claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | VOL.135直面体检｜医生们带你看懂报告里的惊悚指标
 
 Added source `vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9`; updated `ScreeningResultInterpretation`, `AbnormalFindingFollowupContinuity`, and index. Core synthesis: alarming checkup labels become clinically meaningful only through symptoms, risk factors, classification, magnitude, trend, test quality, and actionability; low-risk findings can enter observation or repeat-testing pathways, while repeated abnormalities, neurologic or compressive symptoms, rapid change, higher-risk categories, or respiratory distress require specialist or urgent escalation. No settled contradiction found; disease probabilities, numeric cutoffs, medication choices, imaging confirmation, procedural indications, hydration, and surveillance intervals remain source-scoped public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21643,6 +21647,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 494. Evita: Birth of a Legend (Part 1)
 
 Added source `494-evita-birth-of-a-legend-part-1-glt9994303396`; created `MelodramaticPoliticalFormation`; updated `EvaPeron` and the index. Core synthesis: illegitimacy stigma, exclusion at her father's funeral, provincial class judgment, poverty, and Buenos Aires inequality plausibly shaped Eva's sensitivity to humiliation, while commercial radio melodrama supplied an emotional repertoire of suffering, sacrifice, love, and ascent that later became politically usable. The episode does not treat performance as proof of insincerity or early resentment as a settled ideology. It rejects the brothel, prostitution, and Magaldi-mistress stories as unsupported; birth details, funeral choreography, early-career incidents, private motives, and the causal force of childhood experience remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

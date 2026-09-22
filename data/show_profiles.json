@@ -478,20 +478,20 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "SCIM7025523715 [SCIM7025523715].md",
-      "source_note_count": 92,
-      "topic_matched_source_note_count": 55,
+      "source_note_count": 93,
+      "topic_matched_source_note_count": 56,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 52
+          "source_note_count": 53
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 5
+          "source_note_count": 6
         },
         {
           "key": "technology",
@@ -529,6 +529,13 @@
           "episode_count": 2
         },
         {
+          "key": "MarcBrackett",
+          "title": "Marc Brackett",
+          "url": "/wiki/entities/marcbrackett/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "UniversityOfCaliforniaSanFrancisco",
           "title": "University of California San Francisco",
           "url": "/wiki/entities/universityofcaliforniasanfrancisco/",
@@ -540,6 +547,13 @@
           "title": "Wim Hof",
           "url": "/wiki/entities/wimhof/",
           "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "YaleCenterForEmotionalIntelligence",
+          "title": "Yale Center for Emotional Intelligence",
+          "url": "/wiki/entities/yalecenterforemotionalintelligence/",
+          "kind": "organization",
           "episode_count": 2
         }
       ],
