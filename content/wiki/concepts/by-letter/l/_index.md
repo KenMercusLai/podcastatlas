@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7892
+wiki_total_pages: 7897
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "LongCovidDifferentialRecovery"
     title: "Long COVID Differential and Recovery"
     url: "/wiki/concepts/longcoviddifferentialrecovery/"
+  - key: "LongPathFramework"
+    title: "Long Path Framework"
+    url: "/wiki/concepts/longpathframework/"
   - key: "LongVacationRecovery"
     title: "Long Vacation Recovery / 长假恢复"
     url: "/wiki/concepts/longvacationrecovery/"

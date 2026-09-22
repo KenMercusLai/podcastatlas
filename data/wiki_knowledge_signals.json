@@ -9307,6 +9307,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/argentina/"
     },
+    "AriWallach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9541341305 [SCIM9541341305].md",
+          "key": "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305",
+          "show": "Huberman Lab",
+          "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
+          "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/ariwallach/"
+    },
     "Aristagoras": {
       "episode_count": 1,
       "show_count": 1,
@@ -18437,6 +18453,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/cathaypacific/"
+    },
+    "CathedralThinking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9541341305 [SCIM9541341305].md",
+          "key": "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305",
+          "show": "Huberman Lab",
+          "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
+          "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/cathedralthinking/"
     },
     "CatherineI": {
       "episode_count": 1,
@@ -47677,6 +47709,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/futurecola/"
+    },
+    "FutureSelfContinuity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9541341305 [SCIM9541341305].md",
+          "key": "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305",
+          "show": "Huberman Lab",
+          "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
+          "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/futureselfcontinuity/"
     },
     "FuyouTiandi": {
       "episode_count": 6,
@@ -78145,6 +78193,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/longnow/"
     },
+    "LongPathFramework": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9541341305 [SCIM9541341305].md",
+          "key": "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305",
+          "show": "Huberman Lab",
+          "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
+          "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/longpathframework/"
+    },
     "LongRunUrbanSafetyTrend": {
       "episode_count": 2,
       "show_count": 1,
@@ -100662,6 +100726,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/protestmediaspectacle/"
+    },
+    "Protopia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9541341305 [SCIM9541341305].md",
+          "key": "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305",
+          "show": "Huberman Lab",
+          "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
+          "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/protopia/"
     },
     "ProvisionalIRA": {
       "episode_count": 2,
@@ -125440,6 +125520,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/transferpricing/"
+    },
+    "TransgenerationalEmpathy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9541341305 [SCIM9541341305].md",
+          "key": "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305",
+          "show": "Huberman Lab",
+          "title": "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach",
+          "url": "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/transgenerationalempathy/"
     },
     "TransitHubCommanderyControl": {
       "episode_count": 3,

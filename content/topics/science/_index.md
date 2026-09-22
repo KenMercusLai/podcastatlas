@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1163
+topic_total_pages: 1165
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -769,6 +769,9 @@ topic_concepts:
   - key: "FreeMarketScientificLoop"
     title: "Free-Market Scientific Loop / 自由市场与现代科学闭环"
     url: "/wiki/concepts/freemarketscientificloop/"
+  - key: "FutureSelfContinuity"
+    title: "Future-Self Continuity"
+    url: "/wiki/concepts/futureselfcontinuity/"
   - key: "GarageDragonTest"
     title: "Garage Dragon Test"
     url: "/wiki/concepts/garagedragontest/"
@@ -3153,6 +3156,9 @@ topic_sources:
   - key: "claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk"
     title: "Claire Isabel Webb & Nina Miolane: The Geometry of Consciousness"
     url: "/wiki/sources/claire-isabel-webb-nina-miolane-the-geometry-of-consciousness-iulbwkinatk/"
+  - key: "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305"
+    title: "Create Your Ideal Future Using Science-Based Protocols | Ari Wallach"
+    url: "/wiki/sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305/"
   - key: "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733"
     title: "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner"
     url: "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"

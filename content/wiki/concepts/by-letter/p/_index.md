@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7892
+wiki_total_pages: 7897
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1700,6 +1700,9 @@ wiki_pages:
   - key: "ProtestantHeroicMartyrdom"
     title: "Protestant Heroic Martyrdom"
     url: "/wiki/concepts/protestantheroicmartyrdom/"
+  - key: "Protopia"
+    title: "Protopia"
+    url: "/wiki/concepts/protopia/"
   - key: "ProvocationPublicityPolitics"
     title: "Provocation Publicity Politics"
     url: "/wiki/concepts/provocationpublicitypolitics/"

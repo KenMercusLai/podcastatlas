@@ -29595,6 +29595,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FutureSelfContinuity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FuturesRollCost": [
     {
       "key": "economics",
@@ -82452,6 +82459,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733": [

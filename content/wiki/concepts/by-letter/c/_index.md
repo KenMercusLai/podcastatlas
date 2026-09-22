@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7892
+wiki_total_pages: 7897
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "CategoryFocusBeforeExpansion"
     title: "Category Focus Before Expansion"
     url: "/wiki/concepts/categoryfocusbeforeexpansion/"
+  - key: "CathedralThinking"
+    title: "Cathedral Thinking"
+    url: "/wiki/concepts/cathedralthinking/"
   - key: "CatholicBurialLegitimacy"
     title: "Catholic Burial Legitimacy"
     url: "/wiki/concepts/catholicburiallegitimacy/"

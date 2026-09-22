@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7892
+wiki_total_pages: 7897
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "TransformerArchitecture"
     title: "Transformer Architecture"
     url: "/wiki/concepts/transformerarchitecture/"
+  - key: "TransgenerationalEmpathy"
+    title: "Transgenerational Empathy"
+    url: "/wiki/concepts/transgenerationalempathy/"
   - key: "TransitionFitOverMerit"
     title: "Transition Fit Over Merit / 过渡期适任优先于功劳"
     url: "/wiki/concepts/transitionfitovermerit/"
