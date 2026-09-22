@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！](sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu.md) — 这病说来话长 episode on prolonged sitting as a multi-system exposure, position changes, ankle pumps, urinary habits, lumbar posture, core capacity, compression boundaries, and symptom escalation.
 - [504. The French Revolution: War to the Death (Part 2)](sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708.md) — The Rest Is History episode on factional convergence for war, Girondin universalism, royal duplicity, Robespierre's armed-missionary warning, and the declaration against Austria.
 - [Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today](sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490.md) — Tomorrow Today interview on acting preparation, typecasting, The Kerala Story, rejection recovery, embodied stress, and AI's creative-access and labor tradeoffs.
 - [505. The French Revolution: The Shadow of the Guillotine (Part 3)](sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569.md) — The Rest Is History episode on the guillotine's origins in penal equality, humane reform, older execution spectacle, and scalable public killing.
@@ -2702,6 +2703,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [翁一鸣 / Weng Yiming](entities/WengYiming.md) — Source-scoped reproductive-medicine guest explaining prolonged sitting through interacting heat, pressure, stress, work habits, cycling, and position-change boundaries.
+- [莲莲 / Lianlian (Urology)](entities/LianlianUrology.md) — Source-scoped urology guest separating sitting from direct infection causation and emphasizing hygiene, breathable clothing, timely urination, and hydration context.
 - [Adah Sharma](entities/AdahSharma.md) — Actor whose Tomorrow Today interview connects preparation, typecasting, controversial visibility, resilience, and AI-era creative labor.
 - [The Kerala Story](entities/TheKeralaStory.md) — Film profiled through Sharma's source-scoped account of career impact, competing interpretation, threats, and public controversy.
 - [Jacques Pierre Brissot](entities/JacquesPierreBrissot.md) — Girondin war advocate whose failed liberation expectations and accusations against the crown deepened the 1792 legitimacy crisis.
@@ -13235,6 +13238,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Sedentary Behavior Interruption / 久坐中断与姿势切换](concepts/SedentaryBehaviorInterruption.md) — Multi-system workplace-health principle of breaking fixed posture through movement, ankle pumping, hydration or toilet breaks, visual rest, and gradual strength-building.
 - [Acting Opportunity Readiness](concepts/ActingOpportunityReadiness.md) — Distinction between training to use an acting opportunity and controlling access, casting, networks, or type-breaking roles.
 - [Microplastic Human-Health Evidence](concepts/MicroplasticHumanHealthEvidence.md) — Evidence ladder separating particle detection, mechanisms, associations, and causal human disease claims.
 - [Microplastic Exposure Reduction](concepts/MicroplasticExposureReduction.md) — Precautionary hierarchy for heated plastic, bottled water, food contact, filtration, and bounded excretion claims.

@@ -3416,7 +3416,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 47,
+      "source_note_count": 48,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3454,6 +3454,13 @@
           "episode_count": 3
         },
         {
+          "key": "MaHaoning",
+          "title": "马浩宁 / Ma Haoning",
+          "url": "/wiki/entities/mahaoning/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "LuluPlasticSurgeon",
           "title": "Lulu (plastic-surgery doctor)",
           "url": "/wiki/entities/luluplasticsurgeon/",
@@ -3468,6 +3475,13 @@
           "episode_count": 2
         },
         {
+          "key": "FengYanfeiVascularSurgery",
+          "title": "冯燕飞 / Feng Yanfei (Vascular Surgery)",
+          "url": "/wiki/entities/fengyanfeivascularsurgery/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "NanJiHe",
           "title": "南基贺 / Nan Jihe",
           "url": "/wiki/entities/nanjihe/",
@@ -3478,20 +3492,6 @@
           "key": "DabaNiuTeacher",
           "title": "大白牛老师 / Daba Niu Teacher",
           "url": "/wiki/entities/dabaniuteacher/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "ZihanDoctor",
-          "title": "子涵医生 / Zihan Doctor",
-          "url": "/wiki/entities/zihandoctor/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "XiaolongWeightManagementGuest",
-          "title": "小龙 / Xiaolong (Weight-Management Guest)",
-          "url": "/wiki/entities/xiaolongweightmanagementguest/",
           "kind": "person",
           "episode_count": 2
         }

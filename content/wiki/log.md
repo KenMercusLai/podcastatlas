@@ -21480,3 +21480,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！
+
+Added source `vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu`; created `WengYiming`, `LianlianUrology`, and `SedentaryBehaviorInterruption`; updated `FengYanfeiVascularSurgery`, `MaHaoning`, `TravelThrombosisPrevention`, `LumbarNeutralPosition`, `UrinaryTractInfectionBehaviorBoundary`, and index. Core synthesis: prolonged sitting is a multi-system exposure rather than a diagnosis, and the most transferable response is to interrupt fixed posture through movement, calf and ankle activation, appropriate hydration and timely urination, relatively neutral spinal loading, and gradual strength rather than relying on one chair, desk, stocking, or brace. No settled contradiction found; sitting alone is not promoted as an inevitable cause of infertility, infection, thrombosis, disc disease, bloating, cerebral hypoperfusion, or attention problems, and the supplied 江宇亮 and 薛晓帆 spellings are preserved without merging them into similarly named later guests. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
