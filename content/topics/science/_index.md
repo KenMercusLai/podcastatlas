@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1161
+topic_total_pages: 1163
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -871,6 +871,9 @@ topic_concepts:
   - key: "HighSensitivityAsDifference"
     title: "High Sensitivity As Difference / 高敏感作为差异"
     url: "/wiki/concepts/highsensitivityasdifference/"
+  - key: "HighConflictBehaviorPattern"
+    title: "High-Conflict Behavior Pattern"
+    url: "/wiki/concepts/highconflictbehaviorpattern/"
   - key: "HighContextIntimacyMiscommunication"
     title: "High-Context Intimacy Miscommunication / 高语境亲密误沟通"
     url: "/wiki/concepts/highcontextintimacymiscommunication/"
@@ -3312,6 +3315,9 @@ topic_sources:
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  - key: "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828"
+    title: "How to Deal With High Conflict People | Bill Eddy"
+    url: "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
   - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
     title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
     url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"

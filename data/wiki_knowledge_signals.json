@@ -13395,6 +13395,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/billdally/"
     },
+    "BillEddy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8877999828 [SCIM8877999828].md",
+          "key": "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828",
+          "show": "Huberman Lab",
+          "title": "How to Deal With High Conflict People | Bill Eddy",
+          "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/billeddy/"
+    },
     "BillGurley": {
       "episode_count": 2,
       "show_count": 2,
@@ -36654,9 +36670,9 @@
       "url": "/wiki/concepts/emotionalcoregulationfit/"
     },
     "EmotionalContagion": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "145.嫉妒与鄙视：我该如何躲避这双向的毒箭？ [882378647].md",
@@ -36678,9 +36694,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Art of Comedy & Creativity | Tom Segura",
           "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        },
+        {
+          "episode_file": "SCIM8877999828 [SCIM8877999828].md",
+          "key": "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828",
+          "show": "Huberman Lab",
+          "title": "How to Deal With High Conflict People | Bill Eddy",
+          "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/emotionalcontagion/"
     },
     "EmotionalFlashbackGrounding": {
@@ -56744,6 +56767,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/highbetasciencefunding/"
+    },
+    "HighConflictBehaviorPattern": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8877999828 [SCIM8877999828].md",
+          "key": "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828",
+          "show": "Huberman Lab",
+          "title": "How to Deal With High Conflict People | Bill Eddy",
+          "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/highconflictbehaviorpattern/"
+    },
+    "HighConflictCommunicationToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8877999828 [SCIM8877999828].md",
+          "key": "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828",
+          "show": "Huberman Lab",
+          "title": "How to Deal With High Conflict People | Bill Eddy",
+          "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/highconflictcommunicationtoolkit/"
     },
     "HighContextIntimacyMiscommunication": {
       "episode_count": 1,
@@ -97185,6 +97240,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
     },
+    "PopularNPDDiscourse": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
+          "key": "ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf",
+          "show": "Talk三联",
+          "title": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器",
+          "url": "/wiki/sources/ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf/"
+        },
+        {
+          "episode_file": "SCIM8877999828 [SCIM8877999828].md",
+          "key": "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828",
+          "show": "Huberman Lab",
+          "title": "How to Deal With High Conflict People | Bill Eddy",
+          "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/popularnpddiscourse/"
+    },
     "PopularSufferingGovernanceDiagnostic": {
       "episode_count": 1,
       "show_count": 1,
@@ -103779,9 +103857,9 @@
       "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
     },
     "RelationshipConflictRepair": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7744546639 [SCIM7744546639].md",
@@ -103796,9 +103874,16 @@
           "show": "Huberman Lab",
           "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
           "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        },
+        {
+          "episode_file": "SCIM8877999828 [SCIM8877999828].md",
+          "key": "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828",
+          "show": "Huberman Lab",
+          "title": "How to Deal With High Conflict People | Bill Eddy",
+          "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/relationshipconflictrepair/"
     },
     "RelationshipFeedbackLoop": {

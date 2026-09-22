@@ -33818,6 +33818,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HighConflictBehaviorPattern": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "HighContextIntimacyMiscommunication": [
     {
       "key": "science",
@@ -84197,6 +84204,13 @@
       "label": "Culture",
       "url": "/topics/culture/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828": [
     {
       "key": "science",
       "label": "Science",

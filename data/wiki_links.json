@@ -8775,6 +8775,10 @@
     "title": "Bill Dally",
     "url": "/wiki/entities/billdally/"
   },
+  "BillEddy": {
+    "title": "Bill Eddy",
+    "url": "/wiki/entities/billeddy/"
+  },
   "BillGurley": {
     "title": "Bill Gurley",
     "url": "/wiki/entities/billgurley/"
@@ -29558,6 +29562,14 @@
   "HighBetaScienceFunding": {
     "title": "High-Beta Science Funding",
     "url": "/wiki/concepts/highbetasciencefunding/"
+  },
+  "HighConflictBehaviorPattern": {
+    "title": "High-Conflict Behavior Pattern",
+    "url": "/wiki/concepts/highconflictbehaviorpattern/"
+  },
+  "HighConflictCommunicationToolkit": {
+    "title": "High-Conflict Communication Toolkit",
+    "url": "/wiki/concepts/highconflictcommunicationtoolkit/"
   },
   "HighContextIntimacyMiscommunication": {
     "title": "High-Context Intimacy Miscommunication / 高语境亲密误沟通",
@@ -77134,6 +77146,10 @@
   "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733": {
     "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
     "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  },
+  "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828": {
+    "title": "How to Deal With High Conflict People | Bill Eddy",
+    "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
   },
   "how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462": {
     "title": "How to Enhance Your Immune System | Dr. Roger Seheult",

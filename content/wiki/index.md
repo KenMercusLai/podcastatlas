@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Deal With High Conflict People | Bill Eddy](sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828.md) — Huberman Lab interview on recognizing recurrent blame and escalation without casual diagnosis, then using CARS, BIFF, limits, and safety-aware disengagement.
 - [VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节](sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek.md) — 这病说来话长 episode on systemic lupus, clinical remission, treatment adherence, ICU support, information quality, and chronic-illness quality of life.
 - [509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)](sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265.md) — The Rest Is History episode on King's late economic-justice program, Memphis sanitation strike, crisis of nonviolent credibility, assassination, and the violent national aftermath.
 - [510. America in '68: The Killing of Robert Kennedy (Part 3)](sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101.md) — The Rest Is History episode on Robert Kennedy's moral and political reinvention, 1968 primary campaign, assassination, and the limits of his presidential-destiny myth.
@@ -2693,6 +2694,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Bill Eddy](entities/BillEddy.md) — Lawyer, mediator, therapist, and conflict educator using pattern-based recognition and structured de-escalation tools.
 - [董老师 / Dong Rheumatology Doctor](entities/DongRheumatologyDoctor.md) — Source-scoped rheumatology guest explaining lupus mechanism, recognition, remission, adherence, and long-term management.
 - [James Earl Ray](entities/JamesEarlRay.md) — Escaped convict identified as Martin Luther King Jr.'s assassin.
 - [Poor People's Campaign](entities/PoorPeoplesCampaign.md) — King's multiracial national campaign against poverty and economic inequality.
@@ -13211,6 +13213,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [High-Conflict Behavior Pattern](concepts/HighConflictBehaviorPattern.md) — Non-diagnostic observation frame for recurrent blame, unmanaged emotion, all-or-nothing thinking, extreme conduct, and unresolved escalation.
+- [High-Conflict Communication Toolkit](concepts/HighConflictCommunicationToolkit.md) — CARS, EAR, BIFF, consequence-backed limits, and safety-aware disengagement for containing recurrent escalation.
 - [Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理](concepts/SystemicLupusErythematosusManagement.md) — Long-term framework joining multi-organ recognition, acute control, clinical remission, organ protection, and patient-valued life goals.
 - [Chronic Disease Treatment Adherence / 慢病治疗依从性](concepts/ChronicDiseaseTreatmentAdherence.md) — Treatment continuity through transparent risk-benefit communication, feedback, and clinician-guided adjustment.
 - [Chronic Illness Quality of Life / 慢病生活质量](concepts/ChronicIllnessQualityOfLife.md) — Patient-centered frame spanning function, identity, appearance, mood, work, relationships, future plans, and uncertainty.

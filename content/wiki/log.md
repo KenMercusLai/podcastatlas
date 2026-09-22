@@ -21406,3 +21406,11 @@ Added source `vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | How to Deal With High Conflict People | Bill Eddy
+
+Added source `how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828`; created `BillEddy`, `HighConflictBehaviorPattern`, and `HighConflictCommunicationToolkit`; updated `EmotionalContagion`, `PopularNPDDiscourse`, and `RelationshipConflictRepair`; and updated the index. Core synthesis: recurring high-conflict behavior is best treated as an observable pattern of blame, unmanaged emotion, all-or-nothing thinking, extreme conduct, and failed resolution rather than a casual diagnosis. Eddy's CARS, EAR, BIFF, and consequence-backed limits shift the response from forcing insight or relitigating the past toward concise contact, choices, boundaries, and safety-aware disengagement. No settled contradiction found; prevalence and diagnostic-overlap figures, institutional generalizations, family-size theory, social-media and school-shooter claims, and named examples remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7880
+wiki_total_pages: 7882
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -293,6 +293,12 @@ wiki_pages:
   - key: "HighBetaScienceFunding"
     title: "High-Beta Science Funding"
     url: "/wiki/concepts/highbetasciencefunding/"
+  - key: "HighConflictBehaviorPattern"
+    title: "High-Conflict Behavior Pattern"
+    url: "/wiki/concepts/highconflictbehaviorpattern/"
+  - key: "HighConflictCommunicationToolkit"
+    title: "High-Conflict Communication Toolkit"
+    url: "/wiki/concepts/highconflictcommunicationtoolkit/"
   - key: "HighContextIntimacyMiscommunication"
     title: "High-Context Intimacy Miscommunication / 高语境亲密误沟通"
     url: "/wiki/concepts/highcontextintimacymiscommunication/"
