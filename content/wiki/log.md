@@ -21588,3 +21588,11 @@ Added source `497-evita-death-of-a-martyr-part-4-glt5046116399`; created `PedroA
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión
+
+Added source `how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481`; created `VictorCarrion`, `CueCenteredTherapy`, `TraumaCueResponse`, and `PediatricPTSDRecognition`; updated the index. Core synthesis: pediatric trauma can produce cue-linked hyperarousal, dissociation, sleep disruption, somatic distress, and ADHD-like presentation; cue-centered therapy builds understanding, agency, personalized regulation tools, and state-matched reflection before trauma narrative work. No settled contradiction found; cortisol, imaging, school-yoga, organoid, accelerated-aging, and transgenerational claims remain source-scoped, while PTSD-versus-ADHD distinctions do not replace qualified assessment or medication guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

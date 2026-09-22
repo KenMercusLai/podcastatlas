@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7912
+wiki_total_pages: 7915
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2177,6 +2177,9 @@ wiki_pages:
   - key: "CubanDualEconomicStrategy"
     title: "Cuban Dual Economic Strategy"
     url: "/wiki/concepts/cubandualeconomicstrategy/"
+  - key: "CueCenteredTherapy"
+    title: "Cue-Centered Therapy"
+    url: "/wiki/concepts/cuecenteredtherapy/"
   - key: "CulinaryGrammar"
     title: "Culinary Grammar"
     url: "/wiki/concepts/culinarygrammar/"

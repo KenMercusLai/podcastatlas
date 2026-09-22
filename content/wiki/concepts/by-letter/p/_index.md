@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7912
+wiki_total_pages: 7915
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "PediatricMyopiaControl"
     title: "Pediatric Myopia Control / 儿童青少年近视防控"
     url: "/wiki/concepts/pediatricmyopiacontrol/"
+  - key: "PediatricPTSDRecognition"
+    title: "Pediatric PTSD Recognition"
+    url: "/wiki/concepts/pediatricptsdrecognition/"
   - key: "PeerGroupExperienceSelling"
     title: "Peer Group Experience Selling"
     url: "/wiki/concepts/peergroupexperienceselling/"

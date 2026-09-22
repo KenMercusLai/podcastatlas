@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7912
+wiki_total_pages: 7915
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -662,6 +662,9 @@ wiki_pages:
   - key: "TrashCanCorpusScientificAI"
     title: "Trash Can Corpus Scientific AI"
     url: "/wiki/concepts/trashcancorpusscientificai/"
+  - key: "TraumaCueResponse"
+    title: "Trauma Cue Response"
+    url: "/wiki/concepts/traumacueresponse/"
   - key: "TraumaNarrativeIntegration"
     title: "Trauma Narrative Integration / 创伤叙事整合"
     url: "/wiki/concepts/traumanarrativeintegration/"
