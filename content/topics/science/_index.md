@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1157
+topic_total_pages: 1160
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1540,6 +1540,9 @@ topic_concepts:
   - key: "RewardPredictionErrorLearning"
     title: "Reward Prediction Error Learning"
     url: "/wiki/concepts/rewardpredictionerrorlearning/"
+  - key: "RightHemisphereRelationalProcessing"
+    title: "Right-Hemisphere Relational Processing"
+    url: "/wiki/concepts/righthemisphererelationalprocessing/"
   - key: "RiskPerception"
     title: "Risk Perception"
     url: "/wiki/concepts/riskperception/"
@@ -2084,6 +2087,9 @@ topic_entities:
   - key: "AlfredBinet"
     title: "Alfred Binet / 阿尔弗雷德·宾内"
     url: "/wiki/entities/alfredbinet/"
+  - key: "AllanSchore"
+    title: "Allan Schore"
+    url: "/wiki/entities/allanschore/"
   - key: "AlokJha"
     title: "Alok Jha"
     url: "/wiki/entities/alokjha/"
@@ -3297,6 +3303,9 @@ topic_sources:
   - key: "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128"
     title: "How convergence will define the tech sector in 2026"
     url: "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+  - key: "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719"
+    title: "How Relationships Shape Your Brain | Dr. Allan Schore"
+    url: "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"

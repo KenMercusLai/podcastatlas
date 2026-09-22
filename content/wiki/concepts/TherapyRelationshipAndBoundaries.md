@@ -9,7 +9,8 @@ sources:
   - 151-zao-an-guaiwu-zhu-ni-zhansheng-kongju-zhu-ni-huode-kangfu-900179286
   - bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0
   - vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv
-last_updated: 2026-09-07
+  - how-relationships-shape-your-brain-dr-allan-schore-scim1947263719
+last_updated: 2026-09-22
 knowledge_schema: synthesis-v1
 ---
 
@@ -25,14 +26,16 @@ The trauma and grief sources define the high-stakes boundary. Grief work needs s
 
 The newer Culture Limited source strengthens the positive mechanism. [[MaybeYouShouldTalkToSomeone]] is read as showing that therapy is not fast diagnosis or one-way advice. Clients bring surface problems, defenses slowly loosen, and the relationship itself becomes the place where pain can be said honestly. That relationship still has to move outward: insight is incomplete until the client tries different actions outside the room.
 
+Schore adds an implicit-regulation account of the same relationship. The therapist listens not only to words but to prosody, expression, gesture, bodily dysregulation, and shifts in shared emotional timing. Attunement, mismatch, repair, and regulated response may help the client tolerate affect that explanation alone cannot reorganize. This enriches the relational mechanism without removing professional role, pacing, evidence, or safety boundaries.
+
 ## Key Claims
 - A therapy relationship can make recovery possible because it gives the client a reliable witness and regulated emotional contact.
 - Boundaries protect rather than negate care: they preserve pacing, role clarity, and crisis responsibility.
 - Therapy is not fast advice or ordinary chatting; its work includes discovering the deeper problem behind the presenting problem.
 - Trauma and grief work require pacing because insight that arrives too quickly can destabilize the person.
 - The therapist's mistakes, apologies, and repairs can become clinically meaningful rather than outside the treatment story.
-- Paid listening and friendship can be supportive without replacing training, supervision, treatment setting, and crisis workflow.
 - Therapy becomes durable only when insight and emotional contact support different action outside the session.
+- Nonverbal attunement and repair may contribute to change alongside interpretation, explicit insight, technique, and action.
 
 ## Evidence
 - Reliable witness and containment: [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] frames professional grief work as nonjudgmental support that can turn fragmented pain into a bearable story when ordinary companionship is insufficient.
@@ -41,14 +44,14 @@ The newer Culture Limited source strengthens the positive mechanism. [[MaybeYouS
 - Pacing and agency: [[ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf]] describes therapy as slowing a lived scene down until the client can notice humiliation, fear, shame, pressure, and possible action.
 - System trust boundary: [[bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0]] says therapy can be misunderstood as quick medicine-like treatment while access gaps and weak licensing make role clarity harder to inspect.
 - Relational change mechanism: [[vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv]] says [[MaybeYouShouldTalkToSomeone]] shows therapy as an ongoing relationship where surface problems, defenses, grief, and future-facing action become visible over time.
+- Implicit regulation and repair: [[how-relationships-shape-your-brain-dr-allan-schore-scim1947263719]] presents the therapist's attention to affect beneath words, shared emotional timing, and re-regulation as active parts of treatment.
 
 ## Counterevidence & Qualifications
-The page is a public-knowledge synthesis, not treatment guidance. Therapy boundaries vary by modality, jurisdiction, client risk, and clinician training. The sources also show that warmth alone is insufficient: poor boundaries, rushed interpretation, licensing gaps, platform incentives, or crisis misrecognition can turn a seemingly helpful relationship into danger.
+The page is a public-knowledge synthesis, not treatment guidance. Therapy boundaries vary by modality, jurisdiction, client risk, and clinician training. The sources also show that warmth or synchrony alone is insufficient: poor boundaries, rushed interpretation, licensing gaps, platform incentives, crisis misrecognition, or excessive confidence in a single hemispheric theory can turn a seemingly helpful relationship into danger.
 
 ## What Changed
-- Migrated the page to `synthesis-v1`.
-- Added the Culture Limited Vol.349 source as a positive account of therapy as relational change rather than fast advice.
-- Clarified that insight must move into action outside the room for the relationship to produce durable change.
+- Added implicit attunement, affect regulation, and repair as proposed relational mechanisms of change.
+- Kept those mechanisms inside professional, evidentiary, and crisis-safety boundaries.
 
 ## Related Concepts
 - [[TherapeuticDefenseWork]] - defense-loosening process that happens inside the therapy relationship.
@@ -58,3 +61,5 @@ The page is a public-knowledge synthesis, not treatment guidance. Therapy bounda
 - [[ComplexTraumaRecognition]] - content layer therapy may uncover.
 - [[CountertransferenceBoundaryRisk]] - professional-risk branch inside emotionally real treatment relationships.
 - [[MentalHealthCrisisInterventionBoundary]] - escalation boundary when danger exceeds ordinary support.
+- [[AttachmentAffectRegulation]] - developmental model Schore extends into psychotherapy.
+- [[RightHemisphereRelationalProcessing]] - source-bounded account of listening beneath literal words.

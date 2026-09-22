@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7861
+wiki_total_pages: 7863
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "RideHailingSafetyOperations"
     title: "Ride-Hailing Safety Operations / 网约车安全运营"
     url: "/wiki/concepts/ridehailingsafetyoperations/"
+  - key: "RightHemisphereRelationalProcessing"
+    title: "Right-Hemisphere Relational Processing"
+    url: "/wiki/concepts/righthemisphererelationalprocessing/"
   - key: "RightOfAbodeInterpretationPrecedent"
     title: "Right-of-Abode Interpretation Precedent / 居港權釋法先例"
     url: "/wiki/concepts/rightofabodeinterpretationprecedent/"

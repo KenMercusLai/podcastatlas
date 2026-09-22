@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Relationships Shape Your Brain | Dr. Allan Schore](sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719.md) — Huberman Lab interview on early attachment as affect regulation, self- and interactive regulation, misattunement repair, implicit communication, and therapeutic synchrony.
 - [VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？](sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf.md) — Ultrasound explainer covering modes, first-line limits, intervention, preparation, endocavitary safety, and pregnancy concerns.
 - [How to Make Better Decisions | Dr. Michael Platt](sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714.md) — Huberman Lab interview on attention as foraging, social valuation, context-sensitive hormone effects, synchrony, speed-accuracy control, loss aversion, market imitation, and biological rationality.
 - [EP 19: Navigating the Future of Workplace Health and Benefits with AI](sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai.md) — Data Science With Sam episode with Jocelyn Jiang of MultiPlan on de-identified employer analytics, health-risk prediction, care navigation, benefit-plan optimization, opt-in wearables, and human oversight.
@@ -2685,6 +2686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [513. America in '68: Nixon's Great Comeback (Part 6)](sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463.md) — The Rest Is History episode on Nixon's party rebuilding, controlled television campaign, law-and-order coalition, Humphrey's late recovery, and the qualified Chennault controversy.
 
 ## Entities
+- [Allan Schore](entities/AllanSchore.md) — Clinician and psychoanalytic theorist presenting attachment as affect regulation, implicit relational communication, and repair.
 - [Michael Platt](entities/MichaelPlatt.md) — Neuroscientist and primatologist connecting attention, social valuation, hormones, hierarchy, markets, and applied decision science.
 - [Jocelyn Jiang](entities/JocelynJiang.md) — Actuary and MultiPlan data-decision leader discussing responsible AI in employee health benefits.
 - [MultiPlan](entities/MultiPlan.md) — Healthcare analytics organization described through employer cost, risk, care-navigation, and plan-design workflows.
@@ -13186,6 +13188,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George Wallace](entities/GeorgeWallace.md) — Third-party 1968 candidate and explicit-rhetoric contrast for Nixon's more coded racial appeal.
 
 ## Concepts
+- [Attachment as Affect Regulation](concepts/AttachmentAffectRegulation.md) — Model of attachment as flexible self- and interactive emotion regulation built through nonverbal caregiving and repair.
+- [Right-Hemisphere Relational Processing](concepts/RightHemisphereRelationalProcessing.md) — Source-bounded framework for implicit, contextual, bodily, and nonverbal relational information.
 - [Attention Foraging Model](concepts/AttentionForagingModel.md) — Model of focus and switching as allocation among information patches with competing expected returns.
 - [Social Value Accounting](concepts/SocialValueAccounting.md) — Hierarchy-sensitive account of social information value, reciprocity, and unequal exchange rates.
 - [Context-Dependent Social Hormone Effects](concepts/ContextDependentSocialHormoneEffects.md) — Context-first model of testosterone and oxytocin effects on risk, status, affiliation, vigilance, and hierarchy.

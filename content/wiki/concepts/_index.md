@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7861
+wiki_total_pages: 7863
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2222,6 +2222,9 @@ wiki_pages:
   - key: "AtrocityRetaliationCycle"
     title: "Atrocity Retaliation Cycle"
     url: "/wiki/concepts/atrocityretaliationcycle/"
+  - key: "AttachmentAffectRegulation"
+    title: "Attachment as Affect Regulation"
+    url: "/wiki/concepts/attachmentaffectregulation/"
   - key: "AttentionAsWeather"
     title: "Attention As Weather"
     url: "/wiki/concepts/attentionasweather/"

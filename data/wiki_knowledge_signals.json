@@ -6435,6 +6435,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/alipaytapnetwork/"
     },
+    "AllanSchore": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/entities/allanschore/"
+    },
     "AllegoricalAdaptationSpecificity": {
       "episode_count": 1,
       "show_count": 1,
@@ -10033,6 +10049,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/atomiccontentguardrails/"
+    },
+    "AttachmentAffectRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/attachmentaffectregulation/"
     },
     "AttentionCapacitySelection": {
       "episode_count": 1,
@@ -36434,9 +36466,9 @@
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionalCoRegulationFit": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "串台.「你吃香菜吗」女生版：你愿意和性转之后的自己在一起吗？ [555771723].md",
@@ -36451,9 +36483,16 @@
           "show": "Huberman Lab",
           "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
           "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        },
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/emotionalcoregulationfit/"
     },
     "EmotionalContagion": {
@@ -63248,9 +63287,9 @@
       "url": "/wiki/concepts/interpersonalimageprojection/"
     },
     "InterpersonalSynchronyAndRapport": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9606820714 [SCIM9606820714].md",
@@ -63258,6 +63297,13 @@
           "show": "Huberman Lab",
           "title": "How to Make Better Decisions | Dr. Michael Platt",
           "url": "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
+        },
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
         }
       ],
       "updated": "2026-09-22",
@@ -103235,9 +103281,9 @@
       "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
     },
     "RelationshipConflictRepair": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7744546639 [SCIM7744546639].md",
@@ -103245,9 +103291,16 @@
           "show": "Huberman Lab",
           "title": "How to Find & Be a Great Romantic Partner | Lori Gottlieb",
           "url": "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+        },
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/relationshipconflictrepair/"
     },
     "RelationshipFeedbackLoop": {
@@ -105067,6 +105120,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ridolfiplot/"
+    },
+    "RightHemisphereRelationalProcessing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/righthemisphererelationalprocessing/"
     },
     "RightOfAbodeInterpretationPrecedent": {
       "episode_count": 1,
@@ -122085,9 +122154,9 @@
       "url": "/wiki/concepts/therapyinsightactiongap/"
     },
     "TherapyRelationshipAndBoundaries": {
-      "episode_count": 6,
-      "show_count": 4,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 5,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "EP273 NPC还是NPD，都别想拿走我们人生的遥控器 [lqqnd-e29XVhx2mTF6uUZX13wwvF].md",
@@ -122130,9 +122199,16 @@
           "show": "文化有限",
           "title": "Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气",
           "url": "/wiki/sources/vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv/"
+        },
+        {
+          "episode_file": "SCIM1947263719 [SCIM1947263719].md",
+          "key": "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719",
+          "show": "Huberman Lab",
+          "title": "How Relationships Shape Your Brain | Dr. Allan Schore",
+          "url": "/wiki/sources/how-relationships-shape-your-brain-dr-allan-schore-scim1947263719/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-22",
       "url": "/wiki/concepts/therapyrelationshipandboundaries/"
     },
     "TheroigneDeMericourt": {
