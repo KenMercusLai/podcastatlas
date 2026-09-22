@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10536
+wiki_total_pages: 10539
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "Iceland"
     title: "Iceland"
     url: "/wiki/entities/iceland/"
+  - key: "Iceni"
+    title: "Iceni"
+    url: "/wiki/entities/iceni/"
   - key: "IcyTech"
     title: "Icy Tech"
     url: "/wiki/entities/icytech/"

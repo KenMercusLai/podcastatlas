@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)](sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892.md) — The Rest Is History episode on Iceni semi-autonomy, Roman annexation and abuse, Boudicca's revolt, urban destruction, alliance collapse, Roman victory, reprisals, and contested memory.
 - [Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver](sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274.md) — Huberman Lab interview on peptide and hormone-adjacent clinical practice, sourcing, experimental evidence, growth-hormone secretagogues, and NAD therapy claims.
 - [VOL.135直面体检｜医生们带你看懂报告里的惊悚指标](sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9.md) — 这病说来话长 roundtable on contextual interpretation, surveillance, and escalation for alarming-looking checkup findings across multiple body systems.
 - [502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)](sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222.md) — The Rest Is History episode on Agricola's campaigns, Roman provincial consolidation, Caledonian withdrawal, and the limits of Tacitus's imperial critique.
@@ -2708,6 +2709,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Boudicca](entities/Boudicca.md) — Iceni royal leader whose AD 60 revolt nearly destabilized Roman Britain but resists a morally simple heroic reading.
+- [Iceni](entities/Iceni.md) — Distinctive East Anglian polity whose precarious client autonomy ended in annexation, revolt, defeat, and direct Roman rule.
+- [Suetonius Paulinus](entities/SuetoniusPaulinus.md) — Roman governor whose force preservation and battlefield victory suppressed Boudicca before excessive reprisals endangered recovery.
 - [Craig Koniver](entities/CraigKoniver.md) — Physician guest presenting a performance-medicine approach to supervised peptides, NAD, mitochondrial support, and hormone-adjacent interventions.
 - [Roman Britain](entities/RomanBritain.md) — Roman province shaped by military occupation, infrastructure, taxation, elite incorporation, and a strategically reversible northern frontier.
 - [Gnaeus Julius Agricola](entities/GnaeusJuliusAgricola.md) — Governor who combined Welsh and Caledonian campaigns with civil administration in Roman Britain.
@@ -13254,6 +13258,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Boudiccan Revolt](concepts/BoudiccanRevolt.md) — AD 60 uprising showing how abusive annexation, military absence, local grievance, and failed collaborator protection could destabilize Roman Britain.
 - [NAD Therapy Evidence Boundary](concepts/NADTherapyEvidenceBoundary.md) — Boundary separating biochemical plausibility and reported NAD responses from established clinical efficacy across fatigue, mood, cognition, infection, addiction, sleep, or longevity.
 - [Roman Provincial Consolidation](concepts/RomanProvincialConsolidation.md) — Conversion of battlefield access into durable rule through infrastructure, administration, extraction, and elite incorporation.
 - [Ancient Imperial Critique Limits](concepts/AncientImperialCritiqueLimits.md) — Boundary for reading Roman moral criticism without treating it as modern humanitarian anti-imperialism.

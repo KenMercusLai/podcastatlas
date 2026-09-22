@@ -21532,3 +21532,11 @@ Added source `peptide-hormone-therapies-for-health-performance-longevity-dr-crai
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)
+
+Added source `501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892`; created `Boudicca`, `Iceni`, `SuetoniusPaulinus`, and `BoudiccanRevolt`; updated `RomanBritain`, `RomanProvincialConsolidation`, and the index. Core synthesis: coercive annexation, debt, elite dispossession, abuse, military absence, and local grievance turned a client succession into a provincial revolt, while the loss of three settlements exposed Rome's dependence on credible protection of collaborators as well as force. No settled contradiction found; Roman literary bias, atrocity accounts, sacred-status claims, battle location, casualty totals, and Boudicca's death and burial remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

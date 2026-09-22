@@ -14538,6 +14538,38 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/botulinumtoxininjectionsafety/"
     },
+    "Boudicca": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3128836892 [GLT3128836892].md",
+          "key": "501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892",
+          "show": "The Rest Is History",
+          "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
+          "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/boudicca/"
+    },
+    "BoudiccanRevolt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3128836892 [GLT3128836892].md",
+          "key": "501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892",
+          "show": "The Rest Is History",
+          "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
+          "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/boudiccanrevolt/"
+    },
     "BoundarylessKindnessTrap": {
       "episode_count": 7,
       "show_count": 1,
@@ -62020,6 +62052,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/iberianreconquista/"
     },
+    "Iceni": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3128836892 [GLT3128836892].md",
+          "key": "501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892",
+          "show": "The Rest Is History",
+          "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
+          "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/iceni/"
+    },
     "IdentityPoliticsAsPoliticalSorting": {
       "episode_count": 2,
       "show_count": 2,
@@ -107723,9 +107771,9 @@
       "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
     },
     "RomanBritain": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -107733,6 +107781,13 @@
           "show": "The Rest Is History",
           "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
           "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        },
+        {
+          "episode_file": "GLT3128836892 [GLT3128836892].md",
+          "key": "501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892",
+          "show": "The Rest Is History",
+          "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
+          "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
         }
       ],
       "updated": "2026-09-23",
@@ -107806,9 +107861,9 @@
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
     },
     "RomanProvincialConsolidation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -107816,6 +107871,13 @@
           "show": "The Rest Is History",
           "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
           "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        },
+        {
+          "episode_file": "GLT3128836892 [GLT3128836892].md",
+          "key": "501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892",
+          "show": "The Rest Is History",
+          "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
+          "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
         }
       ],
       "updated": "2026-09-23",
@@ -119398,6 +119460,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/sudutechnology/"
+    },
+    "SuetoniusPaulinus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3128836892 [GLT3128836892].md",
+          "key": "501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892",
+          "show": "The Rest Is History",
+          "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
+          "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/suetoniuspaulinus/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,

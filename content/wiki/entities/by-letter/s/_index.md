@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10536
+wiki_total_pages: 10539
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1442,6 +1442,9 @@ wiki_pages:
   - key: "SudaneseArmedForces"
     title: "Sudanese Armed Forces"
     url: "/wiki/entities/sudanesearmedforces/"
+  - key: "SuetoniusPaulinus"
+    title: "Suetonius Paulinus"
+    url: "/wiki/entities/suetoniuspaulinus/"
   - key: "Sugon"
     title: "Sugon / 中科曙光"
     url: "/wiki/entities/sugon/"

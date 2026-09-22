@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [polity, rome, britain, province, military-history]
 sources:
   - 502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222
+  - 501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892
 last_updated: 2026-09-23
 ---
 
@@ -12,17 +13,18 @@ last_updated: 2026-09-23
 
 ## Overview
 
-Roman Britain is the provincial order produced by conquest, military occupation, taxation, urban development, and selective cultural incorporation in Britain under the [[RomanEmpire]].
+Roman Britain is the provincial order produced by conquest, client alliances, military occupation, extraction, urban development, and selective cultural incorporation in Britain under the [[RomanEmpire]].
 
 ## Current Profile
 
-Episode 502 follows the province after Boudicca's revolt, when withdrawal was no longer politically acceptable but unrestrained reprisals threatened the occupation itself. Roman rule was repaired through administrative restraint and the rebuilding of London, then expanded under Kerialis, Frontinus, and [[GnaeusJuliusAgricola|Agricola]] through York, Carlisle, Caerleon, Chester, Anglesey, the Clyde-Forth line, and finally campaigns into Caledonia.
+Episodes 501 and 502 show the province nearly collapsing under the contradictions of its own early rule and then being rebuilt. Before the [[BoudiccanRevolt]], Rome combined client rulers, rewards for collaborators, urban settlement, debt and taxation with spectacular punishment. The seizure of the [[Iceni]] kingdom, abuse of [[Boudicca]] and her daughters, and grievance against Camulodunum triggered a revolt while [[SuetoniusPaulinus]] and much of the army were in Wales. The destruction of Camulodunum, London, and Verulamium exposed how much Roman power depended on being able to protect local allies.
 
-The province depended on [[RomanProvincialConsolidation]] as much as battlefield victory. Forts and roads made coercion durable; London and Bath supported commerce and administration; census and towns made taxation legible; and elite adoption of Latin, togas, dining, and urban habits connected status to Roman rule. Yet the northern endpoint remained reversible. Mount Graupius, the fleet's circumnavigation, and the planned fortress at Inchtuthil demonstrated reach, while withdrawal after a Danubian crisis showed that imperial priorities set the practical frontier.
+Paulinus preserved the province through concentration, terrain, and Roman discipline, but his reprisals became too destructive for continued occupation. Episode 502 then follows repair through administrative restraint and London's rebuilding, followed by expansion under Kerialis, Frontinus, and [[GnaeusJuliusAgricola|Agricola]]. [[RomanProvincialConsolidation]] joined forts, roads, towns, fleet logistics, census, taxation, and elite incorporation, yet its northern endpoint remained reversible: Inchtuthil could not survive the Danubian crisis and changing imperial priorities.
 
 ## Key Characteristics
 
-- Province rebuilt after Boudicca through a combination of coercion, restraint, and financial recovery.
+- Provincial system initially dependent on uneven client autonomy, local collaboration, extraction, and credible military protection.
+- Province nearly lost during Boudicca's revolt and rebuilt through a combination of coercion, restraint, and financial recovery.
 - Highly militarized territory organized around legionary bases, forts, roads, and fleet support.
 - Administrative system that linked census-taking, towns, elite incorporation, and taxation.
 - Unevenly Romanized landscape, with stronger urban and material integration in some southern areas than in Caledonia.
@@ -31,6 +33,8 @@ The province depended on [[RomanProvincialConsolidation]] as much as battlefield
 
 ## Evidence
 
+- Pre-revolt vulnerability: [[501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892]] links Iceni annexation, debt, elite abuse, urban vulnerability, and the army's Welsh concentration to provincial crisis.
+- Alliance credibility: [[501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892]] shows the burning of Verulamium threatening Rome's ability to retain British collaborators.
 - Post-revolt repair: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] describes Classicanus and Petronius Turpilianus restraining reprisals and rebuilding London after Boudicca.
 - Military infrastructure: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] connects York, Carlisle, Caerleon, Chester, Welsh fort networks, northern roads, and Inchtuthil to successive expansion.
 - Fiscal and cultural administration: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] links towns, census, taxation, Latin education, dress, dining, and elite competition to provincial rule.
@@ -39,17 +43,20 @@ The province depended on [[RomanProvincialConsolidation]] as much as battlefield
 
 ## Qualifications
 
-This page reflects one episode centered on the decades after Boudicca and on Agricola's governorship, not the full history of Roman Britain. Tacitus is a literary and familial source for Agricola, archaeological support does not verify every narrative detail, and temporary penetration into Caledonia should not be confused with permanent conquest of the whole island.
+These episodes cover the revolt of AD 60 and the decades through Agricola rather than the full history of Roman Britain. Tacitus is both a central literary source for the revolt and a familial source for Agricola; Dio is later and rhetorical; and archaeological destruction or military sites do not verify every narrative detail. Temporary penetration into Caledonia should not be confused with permanent conquest of the whole island.
 
 ## What Changed
 
-- Created the province page around the distinction between military reach and durable occupation.
-- Added forts, roads, towns, elite incorporation, census, and taxation as mutually reinforcing instruments of rule.
-- Added imperial resource allocation as the limit on the Caledonian conquest.
+- Added the pre-revolt dependence on client autonomy, collaborator protection, and coercive extraction.
+- Added Boudicca's revolt as evidence that provincial credibility could collapse before military control did.
+- Reframed post-revolt restraint as a response to the limits of Paulinus's punitive victory.
 
 ## Relationships
 
 - [[RomanEmpire]] - imperial polity that conquered, administered, and reprioritized the province.
+- [[Boudicca]] - rebel leader whose campaign exposed its early political and military fragility.
+- [[Iceni]] - client polity whose coercive annexation helped trigger the provincial crisis.
+- [[SuetoniusPaulinus]] - governor who saved the province militarily before reprisals endangered recovery.
 - [[GnaeusJuliusAgricola|Agricola]] - governor associated with its furthest northern advance and civil administration.
 - [[Tacitus]] - principal literary interpreter of Agricola's Britain.
 - [[RomanProvincialConsolidation]] - mechanism that converted military presence into governable territory.
