@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7874
+wiki_total_pages: 7877
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "LateBullMarketLossRisk"
     title: "Late Bull Market Loss Risk / 牛市后期亏钱风险"
     url: "/wiki/concepts/latebullmarketlossrisk/"
+  - key: "LateCivilRightsEconomicJustice"
+    title: "Late Civil-Rights Economic Justice"
+    url: "/wiki/concepts/latecivilrightseconomicjustice/"
   - key: "LateRomanRepublicCrisis"
     title: "Late Roman Republic Crisis / 罗马共和国晚期危机"
     url: "/wiki/concepts/lateromanrepubliccrisis/"

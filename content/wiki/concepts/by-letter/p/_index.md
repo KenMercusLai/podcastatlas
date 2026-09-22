@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7874
+wiki_total_pages: 7877
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1835,6 +1835,9 @@ wiki_pages:
   - key: "PublicFundraisingPitch"
     title: "Public Fundraising Pitch"
     url: "/wiki/concepts/publicfundraisingpitch/"
+  - key: "PublicGriefDeescalation"
+    title: "Public Grief De-escalation"
+    url: "/wiki/concepts/publicgriefdeescalation/"
   - key: "PublicHealthGeopolitics"
     title: "Public Health Geopolitics"
     url: "/wiki/concepts/publichealthgeopolitics/"

@@ -21390,3 +21390,11 @@ Added source `510-america-in-68-the-killing-of-robert-kennedy-part-3-glt65893541
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)
+
+Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265`; created `JamesEarlRay`, `PoorPeoplesCampaign`, `MemphisSanitationStrike`, `LateCivilRightsEconomicJustice`, `NonviolentMovementCredibilityCrisis`, and `PublicGriefDeescalation`; updated `MartinLutherKingJr`, `RobertFKennedy`, `LawAndOrderRacialSignaling`, and the index. Core synthesis: King's late program joined civil rights to Northern inequality, labor dignity, poverty, and opposition to Vietnam, while the failed Memphis march exposed how visible disorder could threaten a nonviolent movement's credibility. His assassination brought a posthumous strike settlement but nationwide uprisings, with Kennedy's Indianapolis speech retained as a plausible rather than proven single cause of local calm. No settled contradiction found; polling, private-life and FBI claims, crowd and casualty totals, Ray evidence, conspiracy disputes, and speech effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)](sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265.md) — The Rest Is History episode on King's late economic-justice program, Memphis sanitation strike, crisis of nonviolent credibility, assassination, and the violent national aftermath.
 - [510. America in '68: The Killing of Robert Kennedy (Part 3)](sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101.md) — The Rest Is History episode on Robert Kennedy's moral and political reinvention, 1968 primary campaign, assassination, and the limits of his presidential-destiny myth.
 - [How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan](sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531.md) — Huberman Lab interview on endocrine disruptors, prenatal development, human biomarker evidence, sperm-count trends, and proportionate household exposure reduction.
 - [VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招](sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb.md) — 这病说来话长 episode on individualized checkup selection, contextual report interpretation, screening burden, and continuity of abnormal-finding follow-up.
@@ -2691,6 +2692,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [James Earl Ray](entities/JamesEarlRay.md) — Escaped convict identified as Martin Luther King Jr.'s assassin.
+- [Poor People's Campaign](entities/PoorPeoplesCampaign.md) — King's multiracial national campaign against poverty and economic inequality.
+- [Memphis Sanitation Strike](entities/MemphisSanitationStrike.md) — 1968 labor-and-dignity campaign that drew King back to Memphis.
 - [Robert F. Kennedy](entities/RobertFKennedy.md) — Senator and 1968 Democratic candidate whose assassination joined real political promise to an uncertain presidential counterfactual.
 - [Eugene McCarthy](entities/EugeneMcCarthy.md) — Anti-war senator whose New Hampshire challenge weakened Johnson and created a first-mover legitimacy claim against Kennedy.
 - [Sirhan Sirhan](entities/SirhanSirhan.md) — Kennedy assassin whose stated grievance centered on Kennedy's support for Israel.
@@ -13205,6 +13209,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Late Civil-Rights Economic Justice](concepts/LateCivilRightsEconomicJustice.md) — Expansion from formal equality toward labor, housing, income, and material capacity.
+- [Nonviolent Movement Credibility Crisis](concepts/NonviolentMovementCredibilityCrisis.md) — Strategic failure when visible disorder overwhelms a movement's intended nonviolent meaning.
+- [Public Grief De-escalation](concepts/PublicGriefDeescalation.md) — Rhetoric that acknowledges collective trauma while inviting restraint rather than revenge.
 - [Primary-Delegate Legitimacy Gap](concepts/PrimaryDelegateLegitimacyGap.md) — Mismatch between public primary momentum and formal delegate power in a party nomination.
 - [Posthumous Political Destiny Myth](concepts/PosthumousPoliticalDestinyMyth.md) — Retrospective conversion of an interrupted political possibility into an assumed path to victory or office.
 - [Endocrine-Disruptor Exposure Reduction](concepts/EndocrineDisruptorExposureReduction.md) — Precautionary hierarchy for reducing repeated food, fragrance, plastic, and cookware exposures without claiming guaranteed clinical benefit.

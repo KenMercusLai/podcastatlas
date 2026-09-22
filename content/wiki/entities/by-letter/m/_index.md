@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10504
+wiki_total_pages: 10507
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "Memphis"
     title: "Memphis / 孟菲斯"
     url: "/wiki/entities/memphis/"
+  - key: "MemphisSanitationStrike"
+    title: "Memphis Sanitation Strike"
+    url: "/wiki/entities/memphissanitationstrike/"
   - key: "MenelikII"
     title: "Menelik II"
     url: "/wiki/entities/menelikii/"

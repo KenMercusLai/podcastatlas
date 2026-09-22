@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10504
+wiki_total_pages: 10507
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "Poolside"
     title: "Poolside"
     url: "/wiki/entities/poolside/"
+  - key: "PoorPeoplesCampaign"
+    title: "Poor People's Campaign"
+    url: "/wiki/entities/poorpeoplescampaign/"
   - key: "PopMart"
     title: "Pop Mart / 泡泡玛特"
     url: "/wiki/entities/popmart/"

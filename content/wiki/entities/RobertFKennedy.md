@@ -4,7 +4,8 @@ type: entity
 tags: [person, politics, united-states, elections, assassination]
 sources:
   - 510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101
-last_updated: 2026-09-22
+  - 509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,12 +19,12 @@ Robert F. Kennedy was John F. Kennedy's campaign manager and attorney general, a
 
 The source presents Kennedy as a compelling but unresolved political figure. Service beside his brother made him an effective enforcer on campaigns, organized crime, civil rights, and the Cuban Missile Crisis; John Kennedy's murder then pushed him toward grief, classical tragedy, Camus, anti-poverty visits, and a morally elevated public style. As senator and candidate he attracted intense celebrity attention and strong support among Black, Hispanic, poorer, and Camelot-oriented voters, but his ideology and electoral reach remained less settled than his later legend suggests.
 
-In 1968 Kennedy entered the Democratic race only after [[EugeneMcCarthy|Eugene McCarthy]] had challenged [[LyndonBJohnson|Lyndon B. Johnson]], then tried to turn primary victories, crowds, and public pressure into leverage against [[HubertHumphrey|Hubert Humphrey]]'s delegate strength. Victory in California ended in assassination and created a martyr image, but the source does not treat nomination or victory over [[RichardNixon|Richard Nixon]] as inevitable.
+In 1968 Kennedy entered the Democratic race only after [[EugeneMcCarthy|Eugene McCarthy]] had challenged [[LyndonBJohnson|Lyndon B. Johnson]], then tried to turn primary victories, crowds, and public pressure into leverage against [[HubertHumphrey|Hubert Humphrey]]'s delegate strength. Before his own assassination, he also became a public interpreter of another national trauma: his improvised Indianapolis announcement of [[MartinLutherKingJr|Martin Luther King Jr.]]'s death joined personal vulnerability to an appeal against revenge. Victory in California ended in assassination and created a martyr image, but the source does not treat nomination or victory over [[RichardNixon|Richard Nixon]] as inevitable.
 
 ## Key Characteristics
 
 - Loyal Kennedy-family political operator who served as campaign manager and attorney general.
-- Grieving brother whose reading and public rhetoric acquired a tragic and moral register after 1963.
+- Grieving brother whose reading, public rhetoric, and Indianapolis response to King's murder acquired a tragic and moral register after 1963.
 - Celebrity senator who made poverty, racial exclusion, apartheid, and Vietnam central to his later public persona.
 - Ideologically ambiguous candidate whose anti-war evolution was entangled with rivalry against Johnson.
 - Coalition-builder strongest among Black, Hispanic, poorer, and emotionally pro-Kennedy voters but less secure among many white voters.
@@ -48,15 +49,20 @@ In 1968 Kennedy entered the Democratic race only after [[EugeneMcCarthy|Eugene M
 
 - [[510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101]] reconstructs the Ambassador Hotel shooting and distinguishes Kennedy's enduring martyr myth from uncertain nomination and general-election counterfactuals.
 
+### Indianapolis grief response
+
+- [[509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265]] opens and closes with Kennedy announcing King's death, referring indirectly to John F. Kennedy's murder, and appealing for compassion rather than revenge.
+
 ## Qualifications
 
-This profile rests on one retrospective podcast episode and is not a complete account of Kennedy's attorney-general record, civil-rights policy, Senate work, family life, or campaign organization. The source admires his rhetoric and political magnetism while questioning ideological coherence and electoral destiny. Claims about private motives, delegate possibilities, white-voter hostility, security choices, and hypothetical elections remain source-scoped.
+This profile rests on two retrospective podcast episodes and is not a complete account of Kennedy's attorney-general record, civil-rights policy, Senate work, family life, or campaign organization. The sources admire his rhetoric and political magnetism while questioning ideological coherence and electoral destiny. Indianapolis's relative calm makes the de-escalation effect plausible but does not prove the speech was its sole cause. Claims about private motives, delegate possibilities, white-voter hostility, security choices, and hypothetical elections remain source-scoped.
 
 ## What Changed
 
 - Established Kennedy as both a substantive late-1960s political actor and a posthumous counterfactual symbol.
 - Separated primary excitement and California victory from the delegate arithmetic governing nomination.
 - Preserved the tension between moral evolution, ideological ambiguity, and personal rivalry with Johnson.
+- Added the Indianapolis speech as a bounded case of public grief de-escalation.
 
 ## Relationships
 
@@ -67,3 +73,5 @@ This profile rests on one retrospective podcast episode and is not a complete ac
 - [[UnitedStatesPresidentialElection1968]] - election Kennedy sought to enter but never reached.
 - [[PrimaryDelegateLegitimacyGap]] - structural mismatch constraining his momentum strategy.
 - [[PosthumousPoliticalDestinyMyth]] - interpretive frame for his “what might have been” afterlife.
+- [[MartinLutherKingJr]] - civil-rights leader whose death Kennedy announced in Indianapolis.
+- [[PublicGriefDeescalation]] - qualified mechanism illustrated by the Indianapolis speech.

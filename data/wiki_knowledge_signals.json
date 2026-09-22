@@ -64786,6 +64786,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/jamescallender/"
     },
+    "JamesEarlRay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jamesearlray/"
+    },
     "JamesMarriott": {
       "episode_count": 1,
       "show_count": 1,
@@ -70432,6 +70448,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/lastmilerobotdelivery/"
     },
+    "LateCivilRightsEconomicJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/latecivilrightseconomicjustice/"
+    },
     "LateHanPopulationCollapse": {
       "episode_count": 2,
       "show_count": 1,
@@ -70594,9 +70626,9 @@
       "url": "/wiki/concepts/latentrivalrecognition/"
     },
     "LawAndOrderRacialSignaling": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -70618,9 +70650,16 @@
           "show": "The Rest Is History",
           "title": "511. America in '68: George Wallace, The First Donald Trump (Part 4)",
           "url": "/wiki/sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412/"
+        },
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/lawandorderracialsignaling/"
     },
     "LawEnforcementAgainstElitePrivilege": {
@@ -82265,6 +82304,29 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/martinkutter/"
     },
+    "MartinLutherKingJr": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_badf7b36a0fd8b0e507fb0f6302a1df6_30631995 [default.mp3_ywr3ahjkcgo_badf7b36a0fd8b0e507fb0f6302a1df6_30631995].md",
+          "key": "how-black-hair-care-grew-black-power",
+          "show": "Planet Money",
+          "title": "How Black hair care grew Black power",
+          "url": "/wiki/sources/how-black-hair-care-grew-black-power/"
+        },
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/martinlutherkingjr/"
+    },
     "MartyrdomStaging": {
       "episode_count": 2,
       "show_count": 1,
@@ -83312,6 +83374,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/memphis/"
+    },
+    "MemphisSanitationStrike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/memphissanitationstrike/"
     },
     "MencianPeopleBasedLegitimacy": {
       "episode_count": 7,
@@ -89768,6 +89846,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/nontraditionalborrowercreditaccess/"
+    },
+    "NonviolentMovementCredibilityCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/nonviolentmovementcredibilitycrisis/"
     },
     "NormanConquestOfEngland": {
       "episode_count": 7,
@@ -96965,6 +97059,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/poolside/"
     },
+    "PoorPeoplesCampaign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/poorpeoplescampaign/"
+    },
     "PopToAlbumRockTransition": {
       "episode_count": 2,
       "show_count": 1,
@@ -100526,6 +100636,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/publicexpressionagainsttrolls/"
+    },
+    "PublicGriefDeescalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/publicgriefdeescalation/"
     },
     "PublicHealthInformationTriage": {
       "episode_count": 1,
@@ -105861,9 +105987,9 @@
       "url": "/wiki/entities/robbenisland/"
     },
     "RobertFKennedy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6589354101 [GLT6589354101].md",
@@ -105871,9 +105997,16 @@
           "show": "The Rest Is History",
           "title": "510. America in '68: The Killing of Robert Kennedy (Part 3)",
           "url": "/wiki/sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101/"
+        },
+        {
+          "episode_file": "GLT4373367265 [GLT4373367265].md",
+          "key": "509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265",
+          "show": "The Rest Is History",
+          "title": "509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)",
+          "url": "/wiki/sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/robertfkennedy/"
     },
     "RobertGraves": {
