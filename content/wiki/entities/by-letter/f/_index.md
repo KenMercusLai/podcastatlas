@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10553
+wiki_total_pages: 10555
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "FeimaPaiQiche"
     title: "《飞马牌汽车》"
     url: "/wiki/entities/feimapaiqiche/"
+  - key: "FuwaiHospital"
+    title: "中国医学科学院阜外医院 / Fuwai Hospital"
+    url: "/wiki/entities/fuwaihospital/"
   - key: "FengyeEntertainment"
     title: "丰业娱乐 / Fengye Entertainment"
     url: "/wiki/entities/fengyeentertainment/"

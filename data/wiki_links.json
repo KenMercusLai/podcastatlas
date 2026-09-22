@@ -25483,6 +25483,10 @@
     "title": "Futures Roll Cost / 期货展期损耗",
     "url": "/wiki/concepts/futuresrollcost/"
   },
+  "FuwaiHospital": {
+    "title": "中国医学科学院阜外医院 / Fuwai Hospital",
+    "url": "/wiki/entities/fuwaihospital/"
+  },
   "Fuxinghao": {
     "title": "Fuxinghao / 复兴号",
     "url": "/wiki/entities/fuxinghao/"
@@ -29222,6 +29226,14 @@
   "HearsayBrewingAndTheater": {
     "title": "Hearsay Brewing and Theater",
     "url": "/wiki/entities/hearsaybrewingandtheater/"
+  },
+  "HeartFailure": {
+    "title": "Heart Failure / 心力衰竭",
+    "url": "/wiki/concepts/heartfailure/"
+  },
+  "HeartFailureSelfManagement": {
+    "title": "Heart Failure Self-Management / 心衰自我管理",
+    "url": "/wiki/concepts/heartfailureselfmanagement/"
   },
   "HeartFieldEthics": {
     "title": "Heart-Field Ethics / 心田处世伦理",
@@ -74931,6 +74943,10 @@
     "title": "《周秦行纪》",
     "url": "/wiki/entities/zhouqinxingji/"
   },
+  "ZhouQiong": {
+    "title": "周琼 / Zhou Qiong",
+    "url": "/wiki/entities/zhouqiong/"
+  },
   "ZhouQunfei": {
     "title": "Zhou Qunfei",
     "url": "/wiki/entities/zhouqunfei/"
@@ -79606,6 +79622,10 @@
   "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
     "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
     "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  },
+  "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj": {
+    "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+    "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
   },
   "vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9": {
     "title": "VOL.135直面体检｜医生们带你看懂报告里的惊悚指标",

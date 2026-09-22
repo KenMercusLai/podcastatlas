@@ -21572,3 +21572,11 @@ Added source `498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308`; c
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | VOL.134心累？别硬撑！心力衰竭危机四伏
+
+Added source `vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj`; created `ZhouQiong`, `FuwaiHospital`, `HeartFailure`, and `HeartFailureSelfManagement`; updated `HypertensionLongTermManagement`, `HypertensionTargetOrganDamage`, and the index. Core synthesis: heart failure is a heterogeneous acute or chronic syndrome and possible endpoint of hypertension, coronary disease, myocardial injury, cardiomyopathy, myocarditis, valve disease, and other causes; diagnosis combines symptoms and examination with objective evidence; treatment integrates cause review, eligible disease-modifying therapy, and clinician-aligned daily monitoring rather than one drug, procedure, or restriction. No settled contradiction found; numerical thresholds, four-pillar eligibility, drug titration, fluid and salt limits, exercise prescriptions, and procedural choices remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

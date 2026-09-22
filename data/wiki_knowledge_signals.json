@@ -48095,6 +48095,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/futureselfcontinuity/"
     },
+    "FuwaiHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
+          "key": "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj",
+          "show": "这病说来话长",
+          "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+          "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/fuwaihospital/"
+    },
     "FuyouTiandi": {
       "episode_count": 6,
       "show_count": 1,
@@ -56373,6 +56389,38 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/healthspanthreedomains/"
     },
+    "HeartFailure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
+          "key": "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj",
+          "show": "这病说来话长",
+          "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+          "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/heartfailure/"
+    },
+    "HeartFailureSelfManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
+          "key": "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj",
+          "show": "这病说来话长",
+          "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+          "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/heartfailureselfmanagement/"
+    },
     "HeartOfDarkness": {
       "episode_count": 1,
       "show_count": 1,
@@ -62000,9 +62048,9 @@
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
     },
     "HypertensionLongTermManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -62010,15 +62058,22 @@
           "show": "这病说来话长",
           "title": "VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊",
           "url": "/wiki/sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy/"
+        },
+        {
+          "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
+          "key": "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj",
+          "show": "这病说来话长",
+          "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+          "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/hypertensionlongtermmanagement/"
     },
     "HypertensionTargetOrganDamage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -62026,9 +62081,16 @@
           "show": "这病说来话长",
           "title": "VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊",
           "url": "/wiki/sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy/"
+        },
+        {
+          "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
+          "key": "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj",
+          "show": "这病说来话长",
+          "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+          "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
     },
     "IFSPartsModel": {
@@ -146760,6 +146822,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/zhoukanwesternhan/"
+    },
+    "ZhouQiong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
+          "key": "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj",
+          "show": "这病说来话长",
+          "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
+          "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/zhouqiong/"
     },
     "ZhouRongEasternHan": {
       "episode_count": 1,

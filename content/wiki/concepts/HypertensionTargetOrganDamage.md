@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, hypertension, cardiovascular-health, complications]
 sources:
   - vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy
-last_updated: 2026-09-21
+  - vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Hypertension target-organ damage is the cumulative injury that persistently elevated or unstable blood pressure can cause to vessels and organs, including the brain, eyes, heart, kidneys, peripheral arteries, and aorta.
 
 ## Current Synthesis
-The current source makes complications the reason hypertension matters. Slowly rising pressure may produce little immediate discomfort while repeatedly stressing vessel walls and increasing cardiac workload. Over time, the episode links that process to stroke, retinal vascular injury, cardiac hypertrophy and failure, kidney damage, limb ischemia, and aortic dissection. This risk frame supports early detection and sustained control without implying that every patient will develop every complication.
+The sources make complications the reason hypertension matters. Slowly rising pressure may produce little immediate discomfort while repeatedly stressing vessel walls and increasing cardiac workload. Over time, this process is linked to stroke, retinal vascular injury, cardiac hypertrophy and failure, kidney damage, limb ischemia, and aortic dissection. The heart-failure episode strengthens the cardiac branch by placing hypertension among the leading upstream diseases and by distinguishing gradual progression from possible acute decompensation during severe elevation. This risk frame supports early detection and sustained control without implying that every patient will develop every complication.
 
 ## Key Claims
 - The danger of hypertension is accumulated vascular and organ injury, not an unattractive number by itself.
@@ -27,17 +28,18 @@ The current source makes complications the reason hypertension matters. Slowly r
 ## Evidence
 - Brain, eye, and neck vessels: [[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy]] links chronic or severe hypertension to arterial injury, stroke, retinal change, and neck-vessel disease in its public explanation.
 - Heart, kidney, limbs, and aorta: [[vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy]] explains increased cardiac workload, renal damage, exertional leg symptoms, and aortic dissection as reasons to take control seriously.
+- Heart-failure pathway: [[vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj]] identifies hypertension as a leading upstream disease and links poor chronic control or severe elevation to heart-failure presentation.
 
 ## Counterevidence & Qualifications
-The episode uses simplified mechanisms and vivid complication examples to motivate care. It does not estimate an individual's absolute risk, establish that hypertension is the sole cause of any listed disease, or provide a complete organ-damage workup. Symptoms such as weakness, speech change, chest or back pain, breathlessness, reduced urine, or limb pain require context-sensitive professional or emergency evaluation.
+The episodes use simplified mechanisms and vivid complication examples to motivate care. They do not estimate an individual's absolute risk, establish that hypertension is the sole cause of any listed disease, or provide a complete organ-damage or heart-failure workup. Symptoms such as weakness, speech change, chest or back pain, breathlessness, orthopnea, edema, reduced urine, or limb pain require context-sensitive professional or emergency evaluation.
 
 ## What Changed
-- Created a multi-organ risk frame for why asymptomatic hypertension still needs sustained attention.
-- Distinguished cumulative risk from certainty that every complication will occur.
+- Strengthened the cardiac branch by distinguishing chronic progression toward heart failure from acute decompensation during severe elevation.
 
 ## Related Concepts
 - [[HypertensionLongTermManagement]] - care system intended to reduce cumulative organ risk.
 - [[HomeBloodPressureMeasurement]] - helps detect poor control before symptoms become the primary signal.
 - [[AntihypertensiveMedicationAdherence]] - supports stable control intended to reduce vascular stress.
 - [[CardiovascularExerciseRiskBoundary]] - adjacent cardiovascular safety frame for activity and baseline disease.
+- [[HeartFailure]] - downstream syndrome that can emerge from sustained cardiac pressure load.
 - [[MedicalRiskManagement]] - keeps complication assessment and emergency routing clinically bounded.
