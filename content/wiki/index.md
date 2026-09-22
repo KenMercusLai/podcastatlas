@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [498. Evita: The Mystery of the Missing Body (Part 5)](sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308.md) — The Rest Is History episode on Evita's preserved body, Peronist proscription and return, factional violence, and the path to Argentina's 1976 dictatorship.
 - [499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)](sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726.md) — The Rest Is History episode on Caesar's 55–54 BC expeditions, amphibious limits, British client politics, imperial spectacle, and withdrawal without a province.
 - [500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)](sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317.md) — The Rest Is History episode on Claudius's legitimacy needs, Verica's exile, Plautius's invasion, British collaboration and resistance, and the road from AD 43 to Anglesey.
 - [501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)](sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892.md) — The Rest Is History episode on Iceni semi-autonomy, Roman annexation and abuse, Boudicca's revolt, urban destruction, alliance collapse, Roman victory, reprisals, and contested memory.
@@ -2713,6 +2714,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Eva Perón](entities/EvaPeron.md) — Argentine political figure whose preserved body became a contested Peronist relic after her death.
+- [Juan Perón](entities/JuanPeron.md) — Argentine president and Peronist leader followed through post-Evita decline, exile, return, and succession.
+- [Isabel Perón](entities/IsabelPeron.md) — Perón's exile-era messenger, vice-president, successor, and president overthrown in 1976.
+- [José López Rega](entities/JoseLopezRega.md) — Peronist household insider and minister linked by the episode to occultism and the right-wing AAA.
+- [Montoneros](entities/Montoneros.md) — Left-wing Peronist organization that mobilized Evita's memory amid 1970s factional violence.
 - [Commius](entities/Commius.md) — Cross-Channel Atrebatic king who served Caesar as envoy, later joined Gallic resistance, and then ruled in southern Britain.
 - [Cassivellaunus](entities/Cassivellaunus.md) — Principal British opponent of Caesar's 54 BC expedition who retained power under a negotiated settlement.
 - [Mandubracius](entities/Mandubracius.md) — Exiled Trinovantian prince restored through Caesar's intervention against Cassivellaunus.
@@ -13272,6 +13278,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Peronism](concepts/Peronism.md) — Argentine political movement whose symbolic durability survived proscription while containing violent left-right divisions.
+- [Political Corpse Relic](concepts/PoliticalCorpseRelic.md) — Preserved body whose custody, concealment, return, and burial become instruments of political legitimacy and memory.
+- [Argentine Dirty War](concepts/ArgentineDirtyWar.md) — Military-dictatorship state terror placed at the end of the episode's pre-1976 violence chronology.
 - [Caesar's British Expeditions](concepts/CaesarsBritishExpeditions.md) — The 55–54 BC interventions understood as reconnaissance, client politics, extraction, and prestige without permanent occupation.
 - [Roman Conquest of Britain](concepts/RomanConquestOfBritain.md) — Prolonged process joining invasion, client politics, imperial spectacle, collaboration, colonization, and resistance.
 - [Boudiccan Revolt](concepts/BoudiccanRevolt.md) — AD 60 uprising showing how abusive annexation, military absence, local grievance, and failed collaborator protection could destabilize Roman Britain.

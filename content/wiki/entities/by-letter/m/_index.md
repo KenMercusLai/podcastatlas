@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10548
+wiki_total_pages: 10553
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1226,6 +1226,9 @@ wiki_pages:
   - key: "Monticello"
     title: "Monticello"
     url: "/wiki/entities/monticello/"
+  - key: "Montoneros"
+    title: "Montoneros"
+    url: "/wiki/entities/montoneros/"
   - key: "Monzo"
     title: "Monzo"
     url: "/wiki/entities/monzo/"

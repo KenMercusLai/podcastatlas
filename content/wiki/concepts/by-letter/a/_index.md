@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7905
+wiki_total_pages: 7908
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2045,6 +2045,9 @@ wiki_pages:
   - key: "ArchivePreservationBias"
     title: "Archive Preservation Bias / 档案保存偏差"
     url: "/wiki/concepts/archivepreservationbias/"
+  - key: "ArgentineDirtyWar"
+    title: "Argentine Dirty War"
+    url: "/wiki/concepts/argentinedirtywar/"
   - key: "AristocraticDeathDignity"
     title: "Aristocratic Death Dignity / 贵族式临终尊严"
     url: "/wiki/concepts/aristocraticdeathdignity/"

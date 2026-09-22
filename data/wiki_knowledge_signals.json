@@ -9303,9 +9303,9 @@
       "url": "/wiki/concepts/architecturalarchiveresearch/"
     },
     "Argentina": {
-      "episode_count": 6,
-      "show_count": 3,
-      "source_note_count": 6,
+      "episode_count": 7,
+      "show_count": 4,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196 [default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196].md",
@@ -9348,10 +9348,33 @@
           "show": "Economist Podcasts",
           "title": "Chainsaw sputtering: Milei's experiment falters",
           "url": "/wiki/sources/chainsaw-sputtering-mileis-experiment-falters-6aa1299999455f9a93f7de9b/"
+        },
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/argentina/"
+    },
+    "ArgentineDirtyWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/argentinedirtywar/"
     },
     "AriWallach": {
       "episode_count": 1,
@@ -40432,6 +40455,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/europeandefenseautonomy/"
     },
+    "EvaPeron": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/evaperon/"
+    },
     "EvaluationAttachmentRelease": {
       "episode_count": 1,
       "show_count": 1,
@@ -65090,6 +65129,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/isariveralive/"
     },
+    "IsabelPeron": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/isabelperon/"
+    },
     "IsabellaOfFrance": {
       "episode_count": 1,
       "show_count": 1,
@@ -68041,6 +68096,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/joseangelpereira/"
     },
+    "JoseLopezRega": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/joselopezrega/"
+    },
     "JosefBratfisch": {
       "episode_count": 1,
       "show_count": 1,
@@ -68323,6 +68394,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/juyuanlatehan/"
+    },
+    "JuanPeron": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/juanperon/"
     },
     "JudgmentOfParisWine": {
       "episode_count": 1,
@@ -87547,6 +87634,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/monticello/"
     },
+    "Montoneros": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/montoneros/"
+    },
     "MoonMarsStrategySplit": {
       "episode_count": 2,
       "show_count": 2,
@@ -96388,6 +96491,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/permanentcapitalcompounding/"
     },
+    "Peronism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/peronism/"
+    },
     "PerplexityComputer": {
       "episode_count": 1,
       "show_count": 1,
@@ -97955,6 +98074,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/politicalcomebackgroundwork/"
+    },
+    "PoliticalCorpseRelic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5587823308 [GLT5587823308].md",
+          "key": "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308",
+          "show": "The Rest Is History",
+          "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
+          "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/politicalcorpserelic/"
     },
     "PoliticalExecutionMemoryContest": {
       "episode_count": 1,

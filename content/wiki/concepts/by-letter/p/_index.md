@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7905
+wiki_total_pages: 7908
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "PermittingDelayCost"
     title: "Permitting Delay Cost"
     url: "/wiki/concepts/permittingdelaycost/"
+  - key: "Peronism"
+    title: "Peronism"
+    url: "/wiki/concepts/peronism/"
   - key: "PersianMiniaturePainting"
     title: "Persian Miniature Painting"
     url: "/wiki/concepts/persianminiaturepainting/"
@@ -815,6 +818,9 @@ wiki_pages:
   - key: "PoliticalConditionAsHumanExperiment"
     title: "Political Condition As Human Experiment / 政治条件作为人性实验"
     url: "/wiki/concepts/politicalconditionashumanexperiment/"
+  - key: "PoliticalCorpseRelic"
+    title: "Political Corpse Relic"
+    url: "/wiki/concepts/politicalcorpserelic/"
   - key: "PoliticalCreditAppropriation"
     title: "Political Credit Appropriation / 善行君恩化"
     url: "/wiki/concepts/politicalcreditappropriation/"

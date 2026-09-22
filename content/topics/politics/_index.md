@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2638
+topic_total_pages: 2642
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2458,6 +2458,9 @@ topic_concepts:
   - key: "PermitProportionality"
     title: "Permit Proportionality"
     url: "/wiki/concepts/permitproportionality/"
+  - key: "Peronism"
+    title: "Peronism"
+    url: "/wiki/concepts/peronism/"
   - key: "PersonDependentGovernanceFragility"
     title: "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性"
     url: "/wiki/concepts/persondependentgovernancefragility/"
@@ -2557,6 +2560,9 @@ topic_concepts:
   - key: "PoliticalConditionAsHumanExperiment"
     title: "Political Condition As Human Experiment / 政治条件作为人性实验"
     url: "/wiki/concepts/politicalconditionashumanexperiment/"
+  - key: "PoliticalCorpseRelic"
+    title: "Political Corpse Relic"
+    url: "/wiki/concepts/politicalcorpserelic/"
   - key: "PoliticalDeepfakeRegulation"
     title: "Political Deepfake Regulation"
     url: "/wiki/concepts/politicaldeepfakeregulation/"
@@ -4937,6 +4943,9 @@ topic_entities:
   - key: "EuropeanUnionDigitalServicesAct"
     title: "European Union Digital Services Act"
     url: "/wiki/entities/europeanuniondigitalservicesact/"
+  - key: "EvaPeron"
+    title: "Eva Perón"
+    url: "/wiki/entities/evaperon/"
   - key: "EzraPound"
     title: "Ezra Pound"
     url: "/wiki/entities/ezrapound/"
@@ -5393,6 +5402,9 @@ topic_entities:
   - key: "JoshShapiro"
     title: "Josh Shapiro"
     url: "/wiki/entities/joshshapiro/"
+  - key: "JoseLopezRega"
+    title: "José López Rega"
+    url: "/wiki/entities/joselopezrega/"
   - key: "JPMorganHealthcareConference"
     title: "JP Morgan Healthcare Conference"
     url: "/wiki/entities/jpmorganhealthcareconference/"

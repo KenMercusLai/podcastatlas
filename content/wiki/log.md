@@ -21564,3 +21564,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 498. Evita: The Mystery of the Missing Body (Part 5)
+
+Added source `498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308`; created `EvaPeron`, `JuanPeron`, `IsabelPeron`, `JoseLopezRega`, `Montoneros`, `Peronism`, `PoliticalCorpseRelic`, and `ArgentineDirtyWar`; updated `Argentina` and the index. Core synthesis: Evita's embalmed body became a contested political relic whose display, concealment, recovery, and burial carried Peronist legitimacy across proscription and exile, while the movement's durability also concealed a violent left-right fracture that preceded the 1976 dictatorship. No settled contradiction found; occult stories, supernatural signs, bodily damage, private relationships, exact motives, and casualty estimates remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -1733,6 +1733,13 @@
       "url": "/topics/history/"
     }
   ],
+  "498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay": [
     {
       "key": "history",
@@ -9665,6 +9672,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ArgentineDirtyWar": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ArgoFloats": [
@@ -25744,6 +25758,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EvaPeron": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EvanHubinger": [
     {
       "key": "technology",
@@ -39859,6 +39880,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "JoseLopezRega": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JoseiEiseiYouhinNoShakaishi": [
     {
       "key": "culture",
@@ -53742,6 +53770,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Peronism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PersianMiniaturePainting": [
     {
       "key": "culture",
@@ -54937,6 +54972,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PoliticalCorpseRelic": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "PoliticalCreditAppropriation": [
