@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)](sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613.md) — The Rest Is History episode on facial hair as a changing code of kingship, purity, masculinity, philosophy, religion, imperial order, and clerical reform.
 - [How to Increase Your Emotional Intelligence | Dr. Marc Brackett](sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217.md) — Huberman Lab interview on RULER, emotional granularity, the Mood Meter, regulation, empathy, bullying prevention, digital communication, and emotion mentorship.
 - [492. The War on Beards: From Peter the Great to John Lennon (Part 2)](sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678.md) — The Rest Is History episode on facial hair as a changing code of religion, masculinity, military prestige, hygiene, discipline, technology, and counterculture.
 - [VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普](sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh.md) — 口腔医生宾哥解释全生命周期预防，并划清牙膏、修补、美白、漱口水、机构选择与专业治疗的边界。
@@ -2726,6 +2727,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Hadrian](entities/Hadrian.md) — Roman emperor who restored the beard to imperial presentation as a sign of Greek culture, philosophy, and military affiliation.
+- [Constantine the Great](entities/ConstantineTheGreat.md) — Roman emperor whose clean-shaven image signaled civilian order and informed early Christian imperial iconography.
+- [Hatshepsut](entities/Hatshepsut.md) — Egyptian female pharaoh whose artificial beard functioned as established royal regalia.
+- [Gregory VII](entities/GregoryVII.md) — Reforming pope who made clerical shaving part of Latin Christian purification and discipline.
 - [宾哥 / Binge (oral-health doctor)](entities/BingeOralDoctor.md) — Source-scoped oral-health doctor explaining prevention, product claims, dental aesthetics, provider selection, and referral boundaries.
 - [Lee Miller](entities/LeeMiller.md) — Photographer and war correspondent who brought surrealist formation, authored prose, and field access to wartime and Dachau witness.
 - [Vogue](entities/Vogue.md) — Magazine connecting fashion publishing to Lee Miller's wartime photography, prose, and public evidence.

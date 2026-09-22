@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10564
+wiki_total_pages: 10568
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1136,6 +1136,9 @@ wiki_pages:
   - key: "ConservativePartyUK"
     title: "Conservative Party (UK)"
     url: "/wiki/entities/conservativepartyuk/"
+  - key: "ConstantineTheGreat"
+    title: "Constantine the Great"
+    url: "/wiki/entities/constantinethegreat/"
   - key: "ConstellationEnergy"
     title: "Constellation Energy"
     url: "/wiki/entities/constellationenergy/"

@@ -21667,3 +21667,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)
+
+Added source `491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613`; created `Hadrian`, `ConstantineTheGreat`, `Hatshepsut`, and `GregoryVII`; updated `AlexanderTheGreat`, `FacialHairAsSocialCode`, and the index. Core synthesis: facial hair operated as a reversible social code long before modern fashion, allowing beards and shaving to alternate as signs of kingship, purity, masculinity, philosophy, military authority, imperial peace, religious distinction, or clerical discipline. No settled contradiction found; Alexander's military shaving story is rejected by the hosts, while evolutionary explanations, ruler motives, Christian image chronology, Viking influence, and many anecdotes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

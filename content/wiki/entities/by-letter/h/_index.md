@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10564
+wiki_total_pages: 10568
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "Hackpad"
     title: "Hackpad"
     url: "/wiki/entities/hackpad/"
+  - key: "Hadrian"
+    title: "Hadrian"
+    url: "/wiki/entities/hadrian/"
   - key: "Haidilao"
     title: "Haidilao / 海底捞"
     url: "/wiki/entities/haidilao/"
@@ -248,6 +251,9 @@ wiki_pages:
   - key: "HatchBaby"
     title: "Hatch (baby tech)"
     url: "/wiki/entities/hatchbaby/"
+  - key: "Hatshepsut"
+    title: "Hatshepsut"
+    url: "/wiki/entities/hatshepsut/"
   - key: "Havana"
     title: "Havana"
     url: "/wiki/entities/havana/"
