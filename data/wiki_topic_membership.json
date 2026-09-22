@@ -20209,6 +20209,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "CynicismAndHopefulSkepticism": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CyrusTheGreat": [
     {
       "key": "history",
@@ -53779,6 +53786,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PerceivedPolarizationGap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PerceivedSimilarityInRelationships": [
     {
       "key": "science",
@@ -84549,6 +84563,13 @@
       "label": "Culture",
       "url": "/topics/culture/"
     },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563": [
     {
       "key": "science",
       "label": "Science",

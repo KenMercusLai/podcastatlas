@@ -21691,3 +21691,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki
+
+Added source `how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563`; created `JamilZaki`, `CynicismAndHopefulSkepticism`, `TrustReciprocityLoop`, and `PerceivedPolarizationGap`; updated `SocialMisprediction`, `EverydaySocialConnection`, `AffectivePolarization`, and the index. Core synthesis: cynicism is a fixed negative theory rather than rigorous skepticism; guarded expectations can block corrective evidence and alter other people's behavior; bounded social experiments, representative information, and structured dialogue can improve calibration without requiring naive trust or denying real danger and disagreement. No settled contradiction found; the episode's health associations, study percentages, media claims, political estimates, and intervention effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

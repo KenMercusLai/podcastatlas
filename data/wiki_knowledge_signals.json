@@ -5365,6 +5365,29 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/aethelredtheunready/"
     },
+    "AffectivePolarization": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授 [lo6IK8Cj2NjVu-cy2JDJ_Kl1JpUQ].md",
+          "key": "164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq",
+          "show": "起朱楼宴宾客",
+          "title": "164.算法的“兔子洞”：为什么你总在看完新闻后滑向娱乐？｜对谈黄圣淳教授",
+          "url": "/wiki/sources/164-suanfa-de-tuzi-dong-weishenme-ni-zong-zai-kanwan-xinwen-hou-huaxiang-yule-duitan-huangshengchun-jiaoshou-lo6ik8cj2njvu-cy2jdj-kl1jpuq/"
+        },
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/affectivepolarization/"
+    },
     "AfricanFemaleAuthorityInstitutions": {
       "episode_count": 1,
       "show_count": 1,
@@ -28458,6 +28481,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/cycloplegicrefraction/"
     },
+    "CynicismAndHopefulSkepticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/cynicismandhopefulskepticism/"
+    },
     "CyrusTheGreat": {
       "episode_count": 1,
       "show_count": 1,
@@ -41066,9 +41105,9 @@
       "url": "/wiki/concepts/everydayhumanitarianisminwarfilm/"
     },
     "EverydaySocialConnection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -41076,9 +41115,16 @@
           "show": "Huberman Lab",
           "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
           "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        },
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/everydaysocialconnection/"
     },
     "EvidenceDrivenHumanRightsCampaign": {
@@ -66431,6 +66477,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/jamiesiminoff/"
+    },
+    "JamilZaki": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jamilzaki/"
     },
     "JaneFonda": {
       "episode_count": 1,
@@ -97071,6 +97133,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/permulandtaxation/"
     },
+    "PerceivedPolarizationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/perceivedpolarizationgap/"
+    },
     "PerceivedSimilarityInRelationships": {
       "episode_count": 1,
       "show_count": 1,
@@ -117118,9 +117196,9 @@
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
     "SocialMisprediction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7834121132 [SCIM7834121132].md",
@@ -117128,9 +117206,16 @@
           "show": "Huberman Lab",
           "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
           "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        },
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/socialmisprediction/"
     },
     "SocialRoboticsElderCare": {
@@ -127920,6 +128005,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
+    },
+    "TrustReciprocityLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9746981563 [SCIM9746981563].md",
+          "key": "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563",
+          "show": "Huberman Lab",
+          "title": "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki",
+          "url": "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/trustreciprocityloop/"
     },
     "TrustedEunuchPowerFormation": {
       "episode_count": 6,

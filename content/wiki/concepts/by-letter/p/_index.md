@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7938
+wiki_total_pages: 7941
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "PerHeadMuon"
     title: "Per-Head Muon"
     url: "/wiki/concepts/perheadmuon/"
+  - key: "PerceivedPolarizationGap"
+    title: "Perceived Polarization Gap"
+    url: "/wiki/concepts/perceivedpolarizationgap/"
   - key: "PerceivedSimilarityInRelationships"
     title: "Perceived Similarity In Relationships"
     url: "/wiki/concepts/perceivedsimilarityinrelationships/"

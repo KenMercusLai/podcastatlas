@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7938
+wiki_total_pages: 7941
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2312,6 +2312,9 @@ wiki_pages:
   - key: "CycloplegicRefraction"
     title: "Cycloplegic Refraction / 睫状肌麻痹验光"
     url: "/wiki/concepts/cycloplegicrefraction/"
+  - key: "CynicismAndHopefulSkepticism"
+    title: "Cynicism and Hopeful Skepticism"
+    url: "/wiki/concepts/cynicismandhopefulskepticism/"
   - key: "CytokineReleaseSyndrome"
     title: "Cytokine Release Syndrome"
     url: "/wiki/concepts/cytokinereleasesyndrome/"

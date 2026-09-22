@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki](sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563.md) — Huberman Lab interview on cynicism, hopeful skepticism, trust reciprocity, social misprediction, media negativity, workplace cooperation, and perceived political polarization.
 - [490. Hundred Years' War: England Triumphant (Part 4)](sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762.md) — The Rest Is History episode on Agincourt's aftermath, Henry V's conquest of Normandy, French factional collapse, the Treaty of Troyes, and the fragility of dual monarchy.
 - [491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)](sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613.md) — The Rest Is History episode on facial hair as a changing code of kingship, purity, masculinity, philosophy, religion, imperial order, and clerical reform.
 - [How to Increase Your Emotional Intelligence | Dr. Marc Brackett](sources/how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217.md) — Huberman Lab interview on RULER, emotional granularity, the Mood Meter, regulation, empathy, bullying prevention, digital communication, and emotion mentorship.
@@ -2729,6 +2730,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 
 ## Entities
+- [Jamil Zaki](entities/JamilZaki.md) — Stanford psychologist framing cynicism, trust, social forecasts, and political misperception through hopeful skepticism and evidence-updating experiments.
 - [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
 - [Charles VI of France](entities/CharlesVIOfFrance.md) — French king retained by the Treaty of Troyes while regency and succession shifted to Henry V.
 - [Charles VII of France](entities/CharlesVIIOfFrance.md) — Dauphin disinherited at Troyes whose survival and resistance kept French legitimacy contested.
@@ -13317,6 +13319,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Cynicism and Hopeful Skepticism](concepts/CynicismAndHopefulSkepticism.md) — Distinction between fixed negative assumptions about people and a curious, evidence-updating approach to social uncertainty.
+- [Trust Reciprocity Loop](concepts/TrustReciprocityLoop.md) — Feedback process through which trust or guardedness changes counterpart behavior and the evidence available for future belief.
+- [Perceived Polarization Gap](concepts/PerceivedPolarizationGap.md) — Difference between imagined rival extremity and representative evidence about political attitudes, hostility, and violence support.
 - [Armagnac-Burgundian Civil War](concepts/ArmagnacBurgundianCivilWar.md) — French factional struggle that fragmented resistance, enabled English expansion, and culminated in post-Montereau realignment.
 - [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process by which Agincourt converted military success, providential ritual, and national symbolism into dynastic stability.
 - [Anglo-French Dual Monarchy](concepts/AngloFrenchDualMonarchy.md) — Intended union of separate English and French kingdoms under one hereditary crown after Troyes.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1171
+topic_total_pages: 1173
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -439,6 +439,9 @@ topic_concepts:
   - key: "CrossDisciplinaryLiteratureSearch"
     title: "Cross-Disciplinary Literature Search"
     url: "/wiki/concepts/crossdisciplinaryliteraturesearch/"
+  - key: "CynicismAndHopefulSkepticism"
+    title: "Cynicism and Hopeful Skepticism"
+    url: "/wiki/concepts/cynicismandhopefulskepticism/"
   - key: "DataCenterAirPermitParticipation"
     title: "Data Center Air Permit Participation"
     url: "/wiki/concepts/datacenterairpermitparticipation/"
@@ -3333,6 +3336,9 @@ topic_sources:
   - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
     title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
     url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+  - key: "how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563"
+    title: "How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki"
+    url: "/wiki/sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563/"
   - key: "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828"
     title: "How to Deal With High Conflict People | Bill Eddy"
     url: "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
