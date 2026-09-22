@@ -5251,6 +5251,10 @@
     "title": "Alzheimer Drug Efficacy Gap",
     "url": "/wiki/concepts/alzheimerdrugefficacygap/"
   },
+  "AlzheimerEarlyDetectionDiagnosis": {
+    "title": "Alzheimer Early Detection And Diagnosis / 阿尔茨海默病早期识别与诊断",
+    "url": "/wiki/concepts/alzheimerearlydetectiondiagnosis/"
+  },
   "AmanNarang": {
     "title": "Aman Narang",
     "url": "/wiki/entities/amannarang/"
@@ -12807,6 +12811,10 @@
     "title": "China Deflation Demand Repair / 中国通缩的需求侧修复",
     "url": "/wiki/concepts/chinadeflationdemandrepair/"
   },
+  "ChinaDementiaFriends": {
+    "title": "中国认知症好朋友 / China Dementia Friends",
+    "url": "/wiki/entities/chinadementiafriends/"
+  },
   "ChinaDivergentTechnologyRoute": {
     "title": "China Divergent Technology Route",
     "url": "/wiki/concepts/chinadivergenttechnologyroute/"
@@ -17843,9 +17851,17 @@
     "title": "Dementia Caregiver Burden / 失智照护者负担",
     "url": "/wiki/concepts/dementiacaregiverburden/"
   },
+  "DementiaFriendlyHomeDesign": {
+    "title": "Dementia-Friendly Home Design / 认知症友好居家环境",
+    "url": "/wiki/concepts/dementiafriendlyhomedesign/"
+  },
   "DementiaPersonhoodMemory": {
     "title": "Dementia Personhood And Memory / 失智者人格与记忆",
     "url": "/wiki/concepts/dementiapersonhoodmemory/"
+  },
+  "DementiaRespectfulCommunication": {
+    "title": "Dementia Respectful Communication / 认知症尊重式沟通",
+    "url": "/wiki/concepts/dementiarespectfulcommunication/"
   },
   "DemianNovel": {
     "title": "《德米安》 / Demian",
@@ -30350,6 +30366,10 @@
   "HongkongLandDairyFarmTakeover": {
     "title": "Hongkong Land-Dairy Farm Takeover / 置地饮牛奶",
     "url": "/wiki/concepts/hongkonglanddairyfarmtakeover/"
+  },
+  "HongliDementiaFriends": {
+    "title": "弘历 / Hongli (中国认知症好朋友)",
+    "url": "/wiki/entities/honglidementiafriends/"
   },
   "HongmenYan": {
     "title": "《鸿门宴》",
@@ -79674,6 +79694,10 @@
   "vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb": {
     "title": "vol.128.关税战下一步走向何方？美国人民如何看待特朗普“百日新政”？| 狂喜播客节·对话仲树&Talich",
     "url": "/wiki/sources/vol-128-guanshui-zhan-xiayibu-zouxiang-hefang-meiguo-renmin-ruhe-kandai-telangpu-bairi-xinzheng-kuangxi-bokejie-duihua-zhongshu-talich-ltivoqhue1t-q2ejjlzlenormkhb/"
+  },
+  "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a": {
+    "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+    "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
   },
   "vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj": {
     "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",

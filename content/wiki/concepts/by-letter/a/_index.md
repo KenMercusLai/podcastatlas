@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7916
+wiki_total_pages: 7919
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1694,6 +1694,9 @@ wiki_pages:
   - key: "AlzheimerDrugEfficacyGap"
     title: "Alzheimer Drug Efficacy Gap"
     url: "/wiki/concepts/alzheimerdrugefficacygap/"
+  - key: "AlzheimerEarlyDetectionDiagnosis"
+    title: "Alzheimer Early Detection And Diagnosis / 阿尔茨海默病早期识别与诊断"
+    url: "/wiki/concepts/alzheimerearlydetectiondiagnosis/"
   - key: "AmateurFarmingVsLivelihoodAgriculture"
     title: "Amateur Farming Vs Livelihood Agriculture / 业余种地与生计农业"
     url: "/wiki/concepts/amateurfarmingvslivelihoodagriculture/"

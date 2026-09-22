@@ -21612,3 +21612,10 @@ Added source `495-evita-the-rise-of-general-peron-part-2-glt1831793233`; updated
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-23] ingest | VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多
+
+Added source `vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a`; created `HongliDementiaFriends`, `ChinaDementiaFriends`, `AlzheimerEarlyDetectionDiagnosis`, `DementiaRespectfulCommunication`, and `DementiaFriendlyHomeDesign`; and updated `XueDoctorZheBing`, `DementiaCareSocialSupportSystem`, `DementiaCaregiverBurden`, `DementiaPersonhoodMemory`, and index. Core synthesis: meaningful cognitive change warrants staged clinical assessment rather than panic or one-test diagnosis, while introductions, simple language, visible choices, safer environments, family mobilization, and public inclusion preserve dignity and reduce caregiver isolation. No settled contradiction found; the source's amyloid-treatment optimism qualifies but does not erase the existing efficacy-gap account, and biomarker, antibody, exercise, B12, and risk-factor claims remain source-scoped public education rather than individualized medical advice. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

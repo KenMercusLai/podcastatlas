@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10558
+wiki_total_pages: 10560
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1487,6 +1487,9 @@ wiki_pages:
   - key: "ChineseBasketballAssociation"
     title: "中国男子篮球职业联赛 / Chinese Basketball Association"
     url: "/wiki/entities/chinesebasketballassociation/"
+  - key: "ChinaDementiaFriends"
+    title: "中国认知症好朋友 / China Dementia Friends"
+    url: "/wiki/entities/chinadementiafriends/"
   - key: "ChineseLeagueTwo"
     title: "中国足球乙级联赛 / China League Two"
     url: "/wiki/entities/chineseleaguetwo/"

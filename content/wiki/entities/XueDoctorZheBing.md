@@ -5,22 +5,26 @@ tags: [healthcare, china, podcast-guest]
 sources:
   - vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb
   - vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio
-last_updated: 2026-09-21
+  - vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
 # 薛医生 / Xue Doctor (这病说来话长)
 
 ## Overview
-薛医生 is a recurring clinician guest in [[ZheBingShuoLaiHuaChang|这病说来话长]], contributing neurology and personal migraine experience in [[vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio|VOL.157]] and China-side imaging-workflow comparison in [[vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb|VOL.206]].
+薛医生 is a recurring clinician guest in [[ZheBingShuoLaiHuaChang|这病说来话长]], contributing Alzheimer education in VOL.133, neurology and personal migraine experience in VOL.157, and China-side imaging-workflow comparison in VOL.206.
 
 ## Current Profile
-Across the two sources, 薛医生 translates clinical work through both system comparison and lived patient experience. VOL.206 uses her to explain how domestic doctors communicate imaging priorities, how inpatient and outpatient information differs, how ultrasound roles differ, how CT or MRI images reach clinicians, and how high throughput compresses communication.
+Across the three sources, 薛医生 translates clinical work through disease education, system comparison, and lived patient experience. VOL.133 has her distinguish Alzheimer disease from dementia generally, describe staged cognitive decline, separate screening from diagnosis, outline Aβ, tau, and neurodegeneration markers, and distinguish symptom management, disease-modifying therapy, and non-drug intervention.
+
+VOL.206 uses her to explain how domestic doctors communicate imaging priorities, how inpatient and outpatient information differs, how ultrasound roles differ, how CT or MRI images reach clinicians, and how high throughput compresses communication.
 
 VOL.157 identifies her as a neurologist and has her explain [[MigraineRecognitionAndTriage|migraine recognition]], aura, serious secondary-headache exclusion, individual triggers, and acute treatment. Her own disabling visual-aura attacks and cold-exposure trigger make functional burden and [[MigraineTriggerDiaryManagement|individualized trigger tracking]] concrete, while her discussion of CGRP therapies and stimulation remains bounded by evidence, cost, access, and individual suitability.
 
 ## Key Characteristics
-- Provides neurology education and China-side clinical comparison across two episodes.
+- Provides neurology education and China-side clinical comparison across three episodes.
+- Separates Alzheimer disease, dementia, cognitive stage, screening, diagnosis, biomarkers, and treatment categories.
 - Emphasizes how information transfer differs between outpatient and inpatient settings.
 - Describes domestic ultrasound as more doctor-operated and report-producing than the Australian sonographer/radiologist split.
 - Connects high patient throughput to compressed doctor-patient communication.
@@ -34,13 +38,15 @@ VOL.157 identifies her as a neurologist and has her explain [[MigraineRecognitio
 - Patient load: [[vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb]] has 薛医生 compare lower appointment counts in some overseas outpatient settings with substantially higher domestic specialist clinic volumes.
 - Migraine recognition and lived burden: [[vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio]] has 薛医生 distinguish a recurring disabling migraine pattern from location alone and describe her own visual aura, concentration loss, and cold-exposure association.
 - Treatment boundary: [[vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio]] has her discuss acute medication, CGRP therapies, pregnancy and lactation constraints, and stimulation approaches without giving an individualized regimen.
+- Alzheimer staging and diagnosis: [[vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a]] has her separate subjective decline, mild cognitive impairment, and dementia stages while explaining that screening alone is not diagnosis.
+- Biomarker and treatment boundary: [[vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a]] connects Aβ, tau, and neuronal injury with clinically selected symptomatic, disease-modifying, and non-drug approaches.
 
 ## Qualifications
-Neither source gives a full name or institutional biography for 薛医生. Their shared show context and guest label support one source-scoped profile, but do not establish formal credentials beyond the VOL.157 neurologist description or verify every clinical statement against a current guideline.
+None of the sources gives a full name or institutional biography for 薛医生. Their shared show context and guest label support one source-scoped profile, but do not establish formal credentials beyond the neurologist descriptions or verify every clinical statement against current guidelines.
 
 ## What Changed
-- VOL.157 expands the profile from comparative imaging workflow into neurology, migraine, and patient experience.
-- Personal triggers and treatment experience are kept individual rather than generalized.
+- VOL.133 adds Alzheimer definition, cognitive staging, diagnostic, biomarker, and treatment education.
+- The expanded profile retains public-education and individualized-care boundaries.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - podcast where 薛医生 appears.
@@ -53,3 +59,6 @@ Neither source gives a full name or institutional biography for 薛医生. Their
 - [[China]] - domestic healthcare workflow context in the source.
 - [[RadiographerClinicalResponsibility]] - role boundary compared against China-side ultrasound and imaging practice.
 - [[DoctorPatientCommunication]] - communication pressure branch extended by the patient-load comparison.
+- [[HongliDementiaFriends]] - care and social-inclusion co-guest in VOL.133.
+- [[AlzheimerEarlyDetectionDiagnosis]] - staged recognition and diagnostic framework she explains.
+- [[DementiaCareSocialSupportSystem]] - care-system context complementing her clinical account.

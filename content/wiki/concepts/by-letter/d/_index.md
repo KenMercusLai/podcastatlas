@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7916
+wiki_total_pages: 7919
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -404,6 +404,12 @@ wiki_pages:
   - key: "DementiaPersonhoodMemory"
     title: "Dementia Personhood And Memory / 失智者人格与记忆"
     url: "/wiki/concepts/dementiapersonhoodmemory/"
+  - key: "DementiaRespectfulCommunication"
+    title: "Dementia Respectful Communication / 认知症尊重式沟通"
+    url: "/wiki/concepts/dementiarespectfulcommunication/"
+  - key: "DementiaFriendlyHomeDesign"
+    title: "Dementia-Friendly Home Design / 认知症友好居家环境"
+    url: "/wiki/concepts/dementiafriendlyhomedesign/"
   - key: "DemocracyInAmerica"
     title: "Democracy in America"
     url: "/wiki/concepts/democracyinamerica/"

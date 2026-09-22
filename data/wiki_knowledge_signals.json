@@ -6899,6 +6899,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/aluoduocheshilatehan/"
     },
+    "AlzheimerEarlyDetectionDiagnosis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/alzheimerearlydetectiondiagnosis/"
+    },
     "AmandaMcMaster": {
       "episode_count": 1,
       "show_count": 1,
@@ -21309,6 +21325,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/chinaburgerexpansion/"
     },
+    "ChinaDementiaFriends": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/chinadementiafriends/"
+    },
     "ChinaEasternAirlines": {
       "episode_count": 3,
       "show_count": 1,
@@ -30659,9 +30691,9 @@
       "url": "/wiki/concepts/demandsidetraffickingliability/"
     },
     "DementiaCareSocialSupportSystem": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -30669,15 +30701,22 @@
           "show": "不合时宜",
           "title": "漫长的告别：失智症、照护者与终将老去的我们",
           "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        },
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/dementiacaresocialsupportsystem/"
     },
     "DementiaCaregiverBurden": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -30685,15 +30724,38 @@
           "show": "不合时宜",
           "title": "漫长的告别：失智症、照护者与终将老去的我们",
           "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        },
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/dementiacaregiverburden/"
     },
-    "DementiaPersonhoodMemory": {
+    "DementiaFriendlyHomeDesign": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/dementiafriendlyhomedesign/"
+    },
+    "DementiaPersonhoodMemory": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lscoToGLQYozNYTQATlEfDwV3jeZ [lscoToGLQYozNYTQATlEfDwV3jeZ].md",
@@ -30701,10 +30763,33 @@
           "show": "不合时宜",
           "title": "漫长的告别：失智症、照护者与终将老去的我们",
           "url": "/wiki/sources/manchang-de-gaobie-shizhizheng-zhaohuzhe-yu-zhongjiang-laoqu-de-women-lscotoglqyoznytqatlefdwv3jez/"
+        },
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/dementiapersonhoodmemory/"
+    },
+    "DementiaRespectfulCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/dementiarespectfulcommunication/"
     },
     "DemisHassabis": {
       "episode_count": 5,
@@ -58875,6 +58960,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/entities/hongjunsiliconvalley101/"
+    },
+    "HongliDementiaFriends": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/honglidementiafriends/"
     },
     "HongmengZhixing": {
       "episode_count": 2,
@@ -139029,9 +139130,9 @@
       "url": "/wiki/entities/xuanzang/"
     },
     "XueDoctorZheBing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
@@ -139046,9 +139147,16 @@
           "show": "这病说来话长",
           "title": "VOL.157最头疼的问题就是头疼 ft.大物是也·斑马酱",
           "url": "/wiki/sources/vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio/"
+        },
+        {
+          "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
+          "key": "vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a",
+          "show": "这病说来话长",
+          "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
+          "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/xuedoctorzhebing/"
     },
     "XueFangXinRecluse": {

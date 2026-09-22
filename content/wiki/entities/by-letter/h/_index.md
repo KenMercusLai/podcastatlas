@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10558
+wiki_total_pages: 10560
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1061,6 +1061,9 @@ wiki_pages:
   - key: "HansChristianAndersen"
     title: "安徒生 / Hans Christian Andersen"
     url: "/wiki/entities/hanschristianandersen/"
+  - key: "HongliDementiaFriends"
+    title: "弘历 / Hongli (中国认知症好朋友)"
+    url: "/wiki/entities/honglidementiafriends/"
   - key: "HongGongWesternHan"
     title: "弘恭 / Hong Gong (Western Han)"
     url: "/wiki/entities/honggongwesternhan/"
