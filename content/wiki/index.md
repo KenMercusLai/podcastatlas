@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today](sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490.md) — Tomorrow Today interview on acting preparation, typecasting, The Kerala Story, rejection recovery, embodied stress, and AI's creative-access and labor tradeoffs.
 - [505. The French Revolution: The Shadow of the Guillotine (Part 3)](sources/505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569.md) — The Rest Is History episode on the guillotine's origins in penal equality, humane reform, older execution spectacle, and scalable public killing.
 - [The Effects of Microplastics on Your Health & How to Reduce Them](sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720.md) — Huberman Lab solo episode on particle definitions, human-tissue findings, causal uncertainty, endocrine-active plastic chemicals, and proportionate exposure reduction.
 - [VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南](sources/vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5.md) — 这病说来话长 episode on illegal injectables, provider verification, procedure scope, sales-led consultation, risk-benefit tradeoffs, recovery, and medical-aesthetic expectation management.
@@ -2700,6 +2701,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Adah Sharma](entities/AdahSharma.md) — Actor whose Tomorrow Today interview connects preparation, typecasting, controversial visibility, resilience, and AI-era creative labor.
+- [The Kerala Story](entities/TheKeralaStory.md) — Film profiled through Sharma's source-scoped account of career impact, competing interpretation, threats, and public controversy.
 - [Jacques Pierre Brissot](entities/JacquesPierreBrissot.md) — Girondin war advocate whose failed liberation expectations and accusations against the crown deepened the 1792 legitimacy crisis.
 - [Tuileries Insurrection of 10 August 1792](entities/TuileriesInsurrection.md) — Armed confrontation that destroyed effective constitutional monarchy, massacred the Swiss Guards, and led to royal suspension.
 - [La Marseillaise](entities/LaMarseillaise.md) — French revolutionary war song whose citizen-volunteer circulation created a republican anthem.
@@ -13231,6 +13234,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Acting Opportunity Readiness](concepts/ActingOpportunityReadiness.md) — Distinction between training to use an acting opportunity and controlling access, casting, networks, or type-breaking roles.
 - [Microplastic Human-Health Evidence](concepts/MicroplasticHumanHealthEvidence.md) — Evidence ladder separating particle detection, mechanisms, associations, and causal human disease claims.
 - [Microplastic Exposure Reduction](concepts/MicroplasticExposureReduction.md) — Precautionary hierarchy for heated plastic, bottled water, food contact, filtration, and bounded excretion claims.
 - [Wartime Constitutional Monarchy Collapse](concepts/WartimeConstitutionalMonarchyCollapse.md) — Process joining military failure, executive obstruction or duplicity, economic distress, institutional paralysis, and armed popular mobilization.

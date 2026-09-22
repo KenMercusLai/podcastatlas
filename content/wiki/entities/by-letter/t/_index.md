@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10521
+wiki_total_pages: 10523
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "TheIntelligence"
     title: "The Intelligence"
     url: "/wiki/entities/theintelligence/"
+  - key: "TheKeralaStory"
+    title: "The Kerala Story"
+    url: "/wiki/entities/thekeralastory/"
   - key: "TheKingIsDead"
     title: "The King Is Dead"
     url: "/wiki/entities/thekingisdead/"

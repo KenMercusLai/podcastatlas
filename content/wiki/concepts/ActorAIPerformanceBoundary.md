@@ -5,7 +5,8 @@ tags: [ai, acting, film, performance]
 sources:
   - no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj
   - wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np
-last_updated: 2026-09-08
+  - defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,13 +22,15 @@ The current judgment is not that actors are untouched by AI. Simple, fast, homog
 
 A complementary production-side view comes from [[WongJing|王晶]]. He expects AI to replace much routine audiovisual production, but still treats fine feeling, live performance, and human emotional detail as the part least likely to be fully substituted. The current boundary therefore spans actor-side timing control and director-side audience feeling.
 
+[[AdahSharma]] makes the capability boundary less stable. She says digital figures can already imitate her voice and some expressions and expects them to become increasingly human-like. Her account shifts the durable boundary away from present-day visual quality alone and toward consent, authorship, livelihood, audience belief, and who controls a replicated performance.
+
 ## Key Claims
 - Performance is not only likeness; it includes timing, rhythm, hesitation, gaze, breath, and emotional design.
 - Text prompting is weak at controlling subtle performance timing compared with an actor demonstrating the movement or feeling.
 - AI can replace some simple and homogeneous acting tasks before it can replace authored human performance.
 - A hybrid workflow can use real performance as source material and AI as a background or postproduction layer.
 - Viewers may respond differently when they learn a moving character lacks a human performer behind it.
-- The boundary depends on industry rules, consent, labor structure, and production choices as well as model capability.
+- Improving imitation can narrow the technical boundary, making consent, authorship, labor structure, and production choices more important rather than less.
 
 ## Evidence
 - Timing boundary - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] has Wu say a half-second difference in nods, glances, pauses, or comic timing changes performance feeling.
@@ -36,13 +39,15 @@ A complementary production-side view comes from [[WongJing|王晶]]. He expects 
 - Replacement qualification - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] says some short-drama actors are already replaceable in simpler, faster, more standardized production contexts.
 - Commercial director qualification - [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] has Wang Jing say AI may replace a large share of production work while remaining weaker at subtle real feeling and live human performance.
 - Audience belief - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] connects AI-generated documentary or character emotion to the viewer's trust once they know no living subject was present.
+- Capability pressure - [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] has Sharma report digital imitation of her voice and expressions and predict continued improvement toward human-like output.
+- Rights and labor boundary - [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] pairs improved digital performance with explicit concern about consent and threats to actors, writers, artists, and musicians.
 
 ## Counterevidence & Qualifications
-The concept is based on one actor-creator's practice plus one commercial director's source-scoped industry judgment. As model control improves, some timing problems may shrink, but the sources still leave authorship, consent, industry protection, audience belief, and fine human feeling as nontechnical constraints.
+The concept is based on two actors' accounts plus one commercial director's source-scoped industry judgment. Sharma is more willing than the other sources to expect technical convergence with human expression. None supplies a controlled audience study or capability benchmark, so the degree and timing of substitution remain unsettled; authorship, consent, industry protection, audience belief, and fine human feeling remain distinct from visual plausibility.
 
 ## What Changed
-- Created the concept to capture Wu Hankun's actor-side boundary between generated motion and human-authored performance.
-- Added Wang Jing's commercial-director view that AI substitution is substantial but incomplete around subtle human feeling.
+- Added Sharma's stronger expectation of technical convergence, narrowing any claim that current performance weaknesses form a permanent moat.
+- Shifted the durable boundary toward consent, authorship, livelihood, and control when imitation becomes convincing.
 
 ## Related Concepts
 - [[HumanImperfectionCreativeValue]] - broader claim that irregular human texture can be expressive rather than defective.
@@ -52,3 +57,4 @@ The concept is based on one actor-creator's practice plus one commercial directo
 - [[AIPublicLikenessGeneration]] - rights and consent issue when a generated body or face resembles a person.
 - [[AIAuthorshipPresence]] - trust problem around whether a human creator remains meaningfully present.
 - [[AIVideoProductionWorkflow]] - production workflow in which actor performance may be replaced, captured, or transformed.
+- [[ActorLikenessAuthorization]] - consent and control boundary when a recognizable performer is digitally replicated.

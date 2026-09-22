@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3116
+topic_total_pages: 3118
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4376,6 +4376,9 @@ topic_entities:
   - key: "AdaLovelace"
     title: "Ada Lovelace / 艾达·洛夫莱斯"
     url: "/wiki/entities/adalovelace/"
+  - key: "AdahSharma"
+    title: "Adah Sharma"
+    url: "/wiki/entities/adahsharma/"
   - key: "AdamDAngelo"
     title: "Adam D'Angelo"
     url: "/wiki/entities/adamdangelo/"
@@ -8142,6 +8145,9 @@ topic_sources:
   - key: "tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128"
     title: "A tech company that 'happens to build homes'"
     url: "/wiki/sources/tech-20260101-0101-mp-tech-pod-128-tech-20260101-0101-mp-tech-pod-128/"
+  - key: "defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490"
+    title: "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
   - key: "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
     title: "After the flood: Nepal's ongoing rescue"
     url: "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"

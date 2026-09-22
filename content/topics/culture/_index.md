@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2784
+topic_total_pages: 2787
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3065,6 +3065,9 @@ topic_entities:
   - key: "ActuarialDevelopment"
     title: "Actuarial Development"
     url: "/wiki/entities/actuarialdevelopment/"
+  - key: "AdahSharma"
+    title: "Adah Sharma"
+    url: "/wiki/entities/adahsharma/"
   - key: "AdamGold"
     title: "Adam Gold"
     url: "/wiki/entities/adamgold/"
@@ -5159,6 +5162,9 @@ topic_entities:
   - key: "InvisibleManHGWells"
     title: "The Invisible Man / 《隐身人》"
     url: "/wiki/entities/invisiblemanhgwells/"
+  - key: "TheKeralaStory"
+    title: "The Kerala Story"
+    url: "/wiki/entities/thekeralastory/"
   - key: "TheMetamorphosisKafka"
     title: "The Metamorphosis / Kafka's 《变形记》"
     url: "/wiki/entities/themetamorphosiskafka/"
@@ -7845,6 +7851,9 @@ topic_sources:
   - key: "a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55"
     title: "A hawk who flew on political winds: Lindsey Graham"
     url: "/wiki/sources/a-hawk-who-flew-on-political-winds-lindsey-graham-6a54b56575790d5f01515d55/"
+  - key: "defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490"
+    title: "Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today"
+    url: "/wiki/sources/defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490/"
   - key: "after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078"
     title: "After the flood: Nepal's ongoing rescue"
     url: "/wiki/sources/after-the-flood-nepals-ongoing-rescue-6a969d560cefab2730527078/"

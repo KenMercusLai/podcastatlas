@@ -21460,3 +21460,11 @@ Added source `505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Adah Sharma on The Kerala Story, Backlash, Threats & Handling Rejection | Shekhar Natarajan | Tomorrow Today
+
+Added source `defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490`; created `AdahSharma`, `TheKeralaStory`, and `ActingOpportunityReadiness`; updated `ShekharNatarajan`, `TomorrowToday`, `RejectionTolerancePractice`, `StressResponseRecovery`, `ActorAIPerformanceBoundary`, `ActorLikenessAuthorization`, and the index. Core synthesis: acting discipline creates readiness but not access, recognition can compound typecasting and public risk, resilience is better understood as shortened recovery than invulnerability, and AI can widen filmmaking access while intensifying consent and livelihood problems around digital performers and creative work. No settled contradiction found; Sharma's expectation of increasingly human-like AI performance qualifies a durable technical performance moat, while The Kerala Story claims and threat details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

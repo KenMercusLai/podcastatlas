@@ -5,7 +5,8 @@ tags: [ai, acting, likeness, rights]
 sources:
   - no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj
   - no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d
-last_updated: 2026-09-08
+  - defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The current judgment is conditional: authorization can be commercially reasonabl
 
 Platform commerce turns actor-side authorship into an enforcement problem. A celebrity or creator may authorize one account, platform, product category, or time period without authorizing AI-generated speech, altered live clips, voice substitution, or misleading product endorsement elsewhere. Platforms therefore need authorization records and appeal paths, not just a binary rule that any face-like use is either permitted or banned.
 
+The performer-experience evidence gives another reason for keeping authorization explicit. [[AdahSharma]] reports that digital figures can already imitate her voice and some expressions and treats consent as a live issue as those replicas become more convincing. The source does not describe a specific license or misuse case, but it strengthens the judgment that capability is not permission.
+
 ## Key Claims
 - A licensed face is not the same as a self-authored performance.
 - Commercial authorization may still be rational when it creates value for the actor, platform, and audience.
@@ -28,7 +31,7 @@ Platform commerce turns actor-side authorship into an enforcement problem. A cel
 - Likeness authorization sits between IP rights, labor protection, creative authorship, and platform commerce.
 - Audience and consumer trust depend on whether viewers know who controlled the performance and whether endorsement is real.
 - Commerce platforms need structured authorization data because lawful likeness use may be limited by account, platform, category, duration, and synthetic-use scope.
-- Similarity enforcement has false-positive risk when an ordinary user looks like a celebrity or when real authorization was not submitted to the platform.
+- A performer's recognition that imitation is technically possible does not itself authorize copying, control, distribution, or substitution.
 
 ## Evidence
 - Authorship split: [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] records Wu's view that a third party using an authorized face with prompts or motion may not count as the actor's own performance.
@@ -38,12 +41,14 @@ Platform commerce turns actor-side authorship into an enforcement problem. A cel
 - Audience expectation: [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] connects AI performers to the problem of whether viewers believe a human subject is behind what they see.
 - Commerce scope: [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] has [[ZhuWeiLegalScholar|朱威]] and [[JiaxuDouyinEcommerce|嘉旭]] discuss platform, term, category, account, and deep-synthesis authorization limits in [[DouyinEcommerce|抖音电商]].
 - Enforcement risk: [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]] identifies similar-looking users, model mistakes, and unsubmitted legitimate authorization as mistaken-enforcement scenarios.
+- Performer consent concern: [[defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490]] has Sharma say digital figures can imitate her voice and some expressions while explicitly raising consent and creative-employment concerns.
 
 ## Counterevidence & Qualifications
-The sources do not provide a contract template, union position, full platform policy, or adjudicated legal test. They define creator-side authorship and platform-commerce enforcement boundaries rather than a settled rights regime.
+The sources do not provide a contract template, union position, full platform policy, adjudicated legal test, or documented Sharma replica dispute. They define creator-side authorship, performer concern, and platform-commerce enforcement boundaries rather than a settled rights regime.
 
 ## What Changed
-- Extended the concept from performer authorship into ecommerce authorization scope and false-positive platform enforcement.
+- Added a performer's first-person concern that rapidly improving voice and expression imitation still requires consent.
+- Clarified that technical replicability or public visibility is not authorization.
 
 ## Related Concepts
 - [[AIPublicLikenessGeneration]] - broader public-likeness and deepfake boundary.
