@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7901
+wiki_total_pages: 7902
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -968,6 +968,9 @@ wiki_pages:
   - key: "RomanAlliedCitizenshipCrisis"
     title: "Roman Allied Citizenship Crisis / 罗马同盟者公民权危机"
     url: "/wiki/concepts/romanalliedcitizenshipcrisis/"
+  - key: "RomanConquestOfBritain"
+    title: "Roman Conquest of Britain"
+    url: "/wiki/concepts/romanconquestofbritain/"
   - key: "RomanExpansionMoralAnxiety"
     title: "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑"
     url: "/wiki/concepts/romanexpansionmoralanxiety/"

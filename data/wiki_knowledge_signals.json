@@ -10405,6 +10405,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/augustusthestrong/"
     },
+    "AulusPlautius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/aulusplautius/"
+    },
     "AurelStein": {
       "episode_count": 1,
       "show_count": 1,
@@ -18186,6 +18202,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/capuchincrypt/"
     },
+    "Caratacus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/caratacus/"
+    },
     "CarbohydrateRestrictionMentalHealth": {
       "episode_count": 1,
       "show_count": 1,
@@ -23033,6 +23065,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/claudemethospreview/"
+    },
+    "Claudius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/claudius/"
     },
     "CleDePeauBeaute": {
       "episode_count": 1,
@@ -107771,9 +107819,9 @@
       "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
     },
     "RomanBritain": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -107788,15 +107836,38 @@
           "show": "The Rest Is History",
           "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
           "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        },
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
         }
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/romanbritain/"
     },
+    "RomanConquestOfBritain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/romanconquestofbritain/"
+    },
     "RomanEmpire": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -107825,6 +107896,13 @@
           "show": "The Rest Is History",
           "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
           "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        },
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
         }
       ],
       "updated": "2026-09-23",
@@ -107861,9 +107939,9 @@
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
     },
     "RomanProvincialConsolidation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -107878,6 +107956,13 @@
           "show": "The Rest Is History",
           "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
           "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        },
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
         }
       ],
       "updated": "2026-09-23",
@@ -119462,9 +119547,9 @@
       "url": "/wiki/entities/sudutechnology/"
     },
     "SuetoniusPaulinus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3128836892 [GLT3128836892].md",
@@ -119472,6 +119557,13 @@
           "show": "The Rest Is History",
           "title": "501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)",
           "url": "/wiki/sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892/"
+        },
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
         }
       ],
       "updated": "2026-09-23",
@@ -121388,9 +121480,9 @@
       "url": "/wiki/concepts/tacitgratituderestraint/"
     },
     "Tacitus": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -121398,6 +121490,13 @@
           "show": "The Rest Is History",
           "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
           "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        },
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
         }
       ],
       "updated": "2026-09-23",
@@ -128715,6 +128814,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/ventromedialhypothalamus/"
+    },
+    "Verica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3137178317 [GLT3137178317].md",
+          "key": "500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317",
+          "show": "The Rest Is History",
+          "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
+          "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/verica/"
     },
     "VerifiableIntent": {
       "episode_count": 1,

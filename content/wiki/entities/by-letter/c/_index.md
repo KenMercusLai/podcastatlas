@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10539
+wiki_total_pages: 10543
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "CapuchinCrypt"
     title: "Capuchin Crypt"
     url: "/wiki/entities/capuchincrypt/"
+  - key: "Caratacus"
+    title: "Caratacus"
+    url: "/wiki/entities/caratacus/"
   - key: "Carbon180"
     title: "Carbon180"
     url: "/wiki/entities/carbon180/"
@@ -941,6 +944,9 @@ wiki_pages:
   - key: "ClaudiaGoldin"
     title: "Claudia Goldin"
     url: "/wiki/entities/claudiagoldin/"
+  - key: "Claudius"
+    title: "Claudius"
+    url: "/wiki/entities/claudius/"
   - key: "ClayNewYork"
     title: "Clay, New York"
     url: "/wiki/entities/claynewyork/"

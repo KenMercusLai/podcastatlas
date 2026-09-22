@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)](sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317.md) — The Rest Is History episode on Claudius's legitimacy needs, Verica's exile, Plautius's invasion, British collaboration and resistance, and the road from AD 43 to Anglesey.
 - [501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)](sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892.md) — The Rest Is History episode on Iceni semi-autonomy, Roman annexation and abuse, Boudicca's revolt, urban destruction, alliance collapse, Roman victory, reprisals, and contested memory.
 - [Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver](sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274.md) — Huberman Lab interview on peptide and hormone-adjacent clinical practice, sourcing, experimental evidence, growth-hormone secretagogues, and NAD therapy claims.
 - [VOL.135直面体检｜医生们带你看懂报告里的惊悚指标](sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9.md) — 这病说来话长 roundtable on contextual interpretation, surveillance, and escalation for alarming-looking checkup findings across multiple body systems.
@@ -2709,6 +2710,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Claudius](entities/Claudius.md) — Roman emperor who used the AD 43 invasion of Britain to turn operational victory into imperial legitimacy.
+- [Aulus Plautius](entities/AulusPlautius.md) — Roman commander who led the AD 43 invasion and prepared Claudius's staged victory.
+- [Caratacus](entities/Caratacus.md) — Catuvellaunian leader who resisted the invasion and sustained opposition in Wales until AD 51.
+- [Verica](entities/Verica.md) — Displaced Atrebatic client ruler whose appeal helped provide Rome's invasion justification.
 - [Boudicca](entities/Boudicca.md) — Iceni royal leader whose AD 60 revolt nearly destabilized Roman Britain but resists a morally simple heroic reading.
 - [Iceni](entities/Iceni.md) — Distinctive East Anglian polity whose precarious client autonomy ended in annexation, revolt, defeat, and direct Roman rule.
 - [Suetonius Paulinus](entities/SuetoniusPaulinus.md) — Roman governor whose force preservation and battlefield victory suppressed Boudicca before excessive reprisals endangered recovery.
@@ -13258,6 +13263,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Roman Conquest of Britain](concepts/RomanConquestOfBritain.md) — Prolonged process joining invasion, client politics, imperial spectacle, collaboration, colonization, and resistance.
 - [Boudiccan Revolt](concepts/BoudiccanRevolt.md) — AD 60 uprising showing how abusive annexation, military absence, local grievance, and failed collaborator protection could destabilize Roman Britain.
 - [NAD Therapy Evidence Boundary](concepts/NADTherapyEvidenceBoundary.md) — Boundary separating biochemical plausibility and reported NAD responses from established clinical efficacy across fatigue, mood, cognition, infection, addiction, sleep, or longevity.
 - [Roman Provincial Consolidation](concepts/RomanProvincialConsolidation.md) — Conversion of battlefield access into durable rule through infrastructure, administration, extraction, and elite incorporation.

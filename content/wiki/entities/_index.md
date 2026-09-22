@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10539
+wiki_total_pages: 10543
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "AugustusTheStrong"
     title: "Augustus the Strong / 强力王奥古斯特"
     url: "/wiki/entities/augustusthestrong/"
+  - key: "AulusPlautius"
+    title: "Aulus Plautius"
+    url: "/wiki/entities/aulusplautius/"
   - key: "AungSanSuuKyi"
     title: "Aung San Suu Kyi"
     url: "/wiki/entities/aungsansuukyi/"

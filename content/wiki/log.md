@@ -21540,3 +21540,11 @@ Added source `501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)
+
+Added source `500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317`; created `Claudius`, `AulusPlautius`, `Caratacus`, `Verica`, and `RomanConquestOfBritain`; updated `RomanBritain`, `RomanEmpire`, `SuetoniusPaulinus`, `Tacitus`, `RomanProvincialConsolidation`, and the index. Core synthesis: the AD 43 invasion grew from pre-existing trade, client politics, and British rivalry, while Plautius's operational victory became Claudius's legitimacy spectacle; collaboration, colonization, extraction, and prolonged Welsh resistance made conquest an uneven process rather than one decisive event. No settled contradiction found; Druidic and sacrifice claims, force totals, landing and battle sites, Togodumnus/Togidubnus, Caligula's failed expedition, and Claudius's battlefield role remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

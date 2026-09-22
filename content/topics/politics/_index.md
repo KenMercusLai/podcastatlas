@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2637
+topic_total_pages: 2638
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -6383,6 +6383,9 @@ topic_entities:
   - key: "VenezuelanSupremeCourt"
     title: "Venezuelan Supreme Court"
     url: "/wiki/entities/venezuelansupremecourt/"
+  - key: "Verica"
+    title: "Verica"
+    url: "/wiki/entities/verica/"
   - key: "VladimirPutin"
     title: "Vladimir Putin"
     url: "/wiki/entities/vladimirputin/"
