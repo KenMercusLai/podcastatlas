@@ -72402,6 +72402,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/leelockwood/"
     },
+    "LeeMiller": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1929673260 [GLT1929673260].md",
+          "key": "493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260",
+          "show": "The Rest Is History",
+          "title": "493. Lee Miller: Exposing the Horrors of World War Two",
+          "url": "/wiki/sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/leemiller/"
+    },
     "LegalAIVerificationAuditability": {
       "episode_count": 3,
       "show_count": 3,
@@ -97536,6 +97552,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/photocaptureprovenance/"
+    },
+    "PhotographicWitness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1929673260 [GLT1929673260].md",
+          "key": "493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260",
+          "show": "The Rest Is History",
+          "title": "493. Lee Miller: Exposing the Horrors of World War Two",
+          "url": "/wiki/sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/photographicwitness/"
     },
     "PhysicalAIHardTakeoff": {
       "episode_count": 1,
@@ -130262,6 +130294,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/vocaltractspeechproduction/"
+    },
+    "Vogue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1929673260 [GLT1929673260].md",
+          "key": "493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260",
+          "show": "The Rest Is History",
+          "title": "493. Lee Miller: Exposing the Horrors of World War Two",
+          "url": "/wiki/sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/vogue/"
     },
     "VoiceAgentInfrastructure": {
       "episode_count": 1,

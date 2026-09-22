@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [493. Lee Miller: Exposing the Horrors of World War Two](sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260.md) — The Rest Is History episode on Lee Miller's surrealist formation, wartime reporting, Dachau photographs, postwar collapse, and rediscovery.
 - [494. Evita: Birth of a Legend (Part 1)](sources/494-evita-birth-of-a-legend-part-1-glt9994303396.md) — The Rest Is History episode on Eva Perón's childhood stigma, class formation, migration to Buenos Aires, acting struggle, and radio melodrama as political preparation.
 - [How to Find, Build & Maintain Healthy Romantic Relationships | Esther Perel](sources/how-to-find-build-maintain-healthy-romantic-relationships-esther-perel-scim1527866809.md) — Huberman Lab interview on relationship polarity, conflict choreography, curiosity, apology, repair, sexuality, and revival.
 - [VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多](sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a.md) — 这病说来话长 episode on Alzheimer recognition, staged diagnosis, treatment boundaries, respectful communication, home design, and caregiver support.
@@ -2722,6 +2723,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Lee Miller](entities/LeeMiller.md) — Photographer and war correspondent who brought surrealist formation, authored prose, and field access to wartime and Dachau witness.
+- [Vogue](entities/Vogue.md) — Magazine connecting fashion publishing to Lee Miller's wartime photography, prose, and public evidence.
 - [Esther Perel](entities/EstherPerel.md) — Psychotherapist framing long-term intimacy through polarity, curiosity, accountability, sexuality, repair, and relational reinvention.
 - [弘历 / Hongli (中国认知症好朋友)](entities/HongliDementiaFriends.md) — Dementia inclusion advocate translating personhood into communication, environmental, family-planning, and community-support practices.
 - [中国认知症好朋友 / China Dementia Friends](entities/ChinaDementiaFriends.md) — China-facing public-awareness initiative extending dementia support into communities, public services, and caregiver peer networks.
@@ -13294,6 +13297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Photographic Witness](concepts/PhotographicWitness.md) — Evidence chain joining image capture, access, prose, editing, censorship, publication, and public belief.
 - [Melodramatic Political Formation](concepts/MelodramaticPoliticalFormation.md) — Process by which mass-media roles supply emotional archetypes and communication habits later transferred into political life.
 - [Relationship Polarity Balance](concepts/RelationshipPolarityBalance.md) — Intimacy framework holding security with freedom, togetherness with separateness, and stability with change.
 - [Curiosity Over Reactivity](concepts/CuriosityOverReactivity.md) — Conflict stance that loosens fixed narratives through regulated, accountable inquiry into another person's experience.

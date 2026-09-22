@@ -21415,6 +21415,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | 493. Lee Miller: Exposing the Horrors of World War Two
+
+Added source `493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260`; created `LeeMiller`, `Vogue`, and `PhotographicWitness`; and updated the index. Core synthesis: Miller's technical and surrealist formation, military access, insistence on writing her own copy, and Vogue's publication system made photography a chain of witness rather than a self-sufficient record; Dachau images could expose atrocity but still depended on editorial trust and public belief, while the staged Hitler-bath image joined evidence to symbolic victory. No settled contradiction found; the Kotex claim is explicitly unverified, and childhood causation, surrealist influence, napalm chronology, audience effects, private motives, postwar decline, and biographical figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 496. Evita: The World's Most Powerful Woman (Part 3)
 
 Added source `496-evita-the-worlds-most-powerful-woman-part-3-glt3440260328`; created `EvaPeronFoundation` and `ElectiveAuthoritarianism`; updated `EvaPeron`, `JuanPeron`, `Peronism`, and the index. Core synthesis: Evita's direct relief, union and women's mobilization, glamour, foundation, and devotional rhetoric made welfare and spectacle mutually reinforcing parts of Peronist authority, while Perón's fair electoral victory increasingly coexisted with court, press, speech, and constitutional erosion. No settled contradiction found; foundation finances, corruption claims, political motives, fascism comparisons, and the elective-authoritarian label remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21631,6 +21635,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 494. Evita: Birth of a Legend (Part 1)
 
 Added source `494-evita-birth-of-a-legend-part-1-glt9994303396`; created `MelodramaticPoliticalFormation`; updated `EvaPeron` and the index. Core synthesis: illegitimacy stigma, exclusion at her father's funeral, provincial class judgment, poverty, and Buenos Aires inequality plausibly shaped Eva's sensitivity to humiliation, while commercial radio melodrama supplied an emotional repertoire of suffering, sacrifice, love, and ascent that later became politically usable. The episode does not treat performance as proof of insincerity or early resentment as a settled ideology. It rejects the brothel, prostitution, and Magaldi-mistress stories as unsupported; birth details, funeral choreography, early-career incidents, private motives, and the causal force of childhood experience remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

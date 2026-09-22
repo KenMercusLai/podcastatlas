@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7924
+wiki_total_pages: 7925
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "PhotoCaptureProvenance"
     title: "Photo Capture Provenance"
     url: "/wiki/concepts/photocaptureprovenance/"
+  - key: "PhotographicWitness"
+    title: "Photographic Witness"
+    url: "/wiki/concepts/photographicwitness/"
   - key: "PhotolithographyBottleneck"
     title: "Photolithography Bottleneck"
     url: "/wiki/concepts/photolithographybottleneck/"

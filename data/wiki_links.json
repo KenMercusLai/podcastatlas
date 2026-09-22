@@ -1115,6 +1115,10 @@
     "title": "49.李乌鸦来了！聊聊我们为啥爱阅读",
     "url": "/wiki/sources/49-liwuya-lai-le-liaoliao-women-weisha-ai-yuedu-629280098/"
   },
+  "493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260": {
+    "title": "493. Lee Miller: Exposing the Horrors of World War Two",
+    "url": "/wiki/sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260/"
+  },
   "494-evita-birth-of-a-legend-part-1-glt9994303396": {
     "title": "494. Evita: Birth of a Legend (Part 1)",
     "url": "/wiki/sources/494-evita-birth-of-a-legend-part-1-glt9994303396/"
@@ -37671,6 +37675,10 @@
     "title": "Lee Lockwood",
     "url": "/wiki/entities/leelockwood/"
   },
+  "LeeMiller": {
+    "title": "Lee Miller",
+    "url": "/wiki/entities/leemiller/"
+  },
   "LeeWoods": {
     "title": "Lee Woods",
     "url": "/wiki/entities/leewoods/"
@@ -49914,6 +49922,10 @@
   "PhotoCaptureProvenance": {
     "title": "Photo Capture Provenance",
     "url": "/wiki/concepts/photocaptureprovenance/"
+  },
+  "PhotographicWitness": {
+    "title": "Photographic Witness",
+    "url": "/wiki/concepts/photographicwitness/"
   },
   "PhotolithographyBottleneck": {
     "title": "Photolithography Bottleneck",
@@ -67606,6 +67618,10 @@
   "VocationalEducation": {
     "title": "Vocational Education / 职业教育",
     "url": "/wiki/concepts/vocationaleducation/"
+  },
+  "Vogue": {
+    "title": "Vogue",
+    "url": "/wiki/entities/vogue/"
   },
   "VoiceAgentInfrastructure": {
     "title": "Voice Agent Infrastructure",

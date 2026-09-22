@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10561
+wiki_total_pages: 10563
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "LeeLockwood"
     title: "Lee Lockwood"
     url: "/wiki/entities/leelockwood/"
+  - key: "LeeMiller"
+    title: "Lee Miller"
+    url: "/wiki/entities/leemiller/"
   - key: "LeeWoods"
     title: "Lee Woods"
     url: "/wiki/entities/leewoods/"
