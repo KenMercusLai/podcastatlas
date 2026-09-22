@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7858
+wiki_total_pages: 7861
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "InterstateEconomicWarfare"
     title: "Interstate Economic Warfare / 跨国经济战"
     url: "/wiki/concepts/interstateeconomicwarfare/"
+  - key: "InterventionalUltrasoundSafety"
+    title: "Interventional Ultrasound Safety / 介入超声安全边界"
+    url: "/wiki/concepts/interventionalultrasoundsafety/"
   - key: "InterviewAsEmbodiedReporting"
     title: "Interview As Embodied Reporting / 采访作为具身报道"
     url: "/wiki/concepts/interviewasembodiedreporting/"

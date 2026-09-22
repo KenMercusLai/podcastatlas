@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？](sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf.md) — Ultrasound explainer covering modes, first-line limits, intervention, preparation, endocavitary safety, and pregnancy concerns.
 - [How to Make Better Decisions | Dr. Michael Platt](sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714.md) — Huberman Lab interview on attention as foraging, social valuation, context-sensitive hormone effects, synchrony, speed-accuracy control, loss aversion, market imitation, and biological rationality.
 - [EP 19: Navigating the Future of Workplace Health and Benefits with AI](sources/ep-19-navigating-the-future-of-workplace-health-and-benefits-with-ai.md) — Data Science With Sam episode with Jocelyn Jiang of MultiPlan on de-identified employer analytics, health-risk prediction, care navigation, benefit-plan optimization, opt-in wearables, and human oversight.
 - [VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？](sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru.md) — 这病说来话长 episode on ICD selection, sudden-cardiac-death risk, implanted-device differentiation, and remote cardiac monitoring.
@@ -4739,7 +4740,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antonio Damasio](entities/AntonioDamasio.md) — Decision-and-emotion reference used to show that emotion supports motivation and choice.
 - [Paul Ekman](entities/PaulEkman.md) — Facial-expression research reference whose influence is acknowledged and qualified by the Adolphs episode.
 - [Patient SM](entities/PatientSM.md) — Amygdala-lesion research case used to distinguish fear perception, external-threat fear, and internal panic.
-- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
+- [这病说来话长 / Zhe Bing Shuo Lai Hua Chang](entities/ZheBingShuoLaiHuaChang.md) — Chinese medical-literacy podcast represented by medical imaging, liver health, oncology, orthopedics, outpatient diagnostic safety, urology, anesthesiology, otolaryngology, ophthalmology, rehabilitation, exercise safety, and consumer medical boundaries.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
 - [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest in VOL.36 explaining diabetic fundus screening, dry eye, high-myopia retinal risk, myopia-surgery boundaries, red-eye causes, and eye-drop caution.
 - [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 ophthalmology episode.
@@ -21052,5 +21053,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Controlled Television Campaign](concepts/ControlledTelevisionCampaign.md) — Staged media format that simulates voter access while reducing candidate risk and controlling visual argument.
 - [Law-and-Order Racial Signaling](concepts/LawAndOrderRacialSignaling.md) — Framework separating general public-safety language, coded racial cues, policy signals, and audience reception.
 - [Electoral Backchannel Causation Boundary](concepts/ElectoralBackchannelCausationBoundary.md) — Test separating contact and impropriety from recipient response, policy effect, and decisive electoral causation.
+- [Diagnostic Ultrasound Modality Selection / 诊断超声方式选择](concepts/DiagnosticUltrasoundModalitySelection.md) — Functional map of ultrasound modes, routes, first-line strengths, operator dependence, and multimodal diagnostic limits.
+- [Interventional Ultrasound Safety / 介入超声安全边界](concepts/InterventionalUltrasoundSafety.md) — Image-guided procedure boundary requiring target visibility, safe access, appropriate indication, and acceptable risk.
+- [Ultrasound Exam Preparation and Safety / 超声检查准备与安全](concepts/UltrasoundExamPreparationAndSafety.md) — Patient-facing framework for coupling gel, bladder filling, test sequence, endocavitary hygiene, consent, and pregnancy reassurance.
 
 ## Syntheses

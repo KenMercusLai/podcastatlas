@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7858
+wiki_total_pages: 7861
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "DiagnosticSafetyNetting"
     title: "Diagnostic Safety Netting / 诊断安全网"
     url: "/wiki/concepts/diagnosticsafetynetting/"
+  - key: "DiagnosticUltrasoundModalitySelection"
+    title: "Diagnostic Ultrasound Modality Selection / 诊断超声方式选择"
+    url: "/wiki/concepts/diagnosticultrasoundmodalityselection/"
   - key: "DiasporaCapitalManufacturingClusters"
     title: "Diaspora Capital Manufacturing Clusters"
     url: "/wiki/concepts/diasporacapitalmanufacturingclusters/"

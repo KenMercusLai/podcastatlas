@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 7858
+wiki_total_pages: 7861
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "UltradianDeepWorkBlock"
     title: "Ultradian Deep Work Block"
     url: "/wiki/concepts/ultradiandeepworkblock/"
+  - key: "UltrasoundExamPreparationAndSafety"
+    title: "Ultrasound Exam Preparation and Safety / 超声检查准备与安全"
+    url: "/wiki/concepts/ultrasoundexampreparationandsafety/"
   - key: "UMIGloveDataCollection"
     title: "UMI-Style Glove Data Collection / 手套式数据采集"
     url: "/wiki/concepts/umiglovedatacollection/"

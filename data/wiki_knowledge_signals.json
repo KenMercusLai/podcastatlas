@@ -31041,6 +31041,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/diagnosticsafetynetting/"
     },
+    "DiagnosticUltrasoundModalitySelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf [lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf].md",
+          "key": "vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf",
+          "show": "这病说来话长",
+          "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
+          "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/diagnosticultrasoundmodalityselection/"
+    },
     "DiamondRomanceMarketingTrap": {
       "episode_count": 1,
       "show_count": 1,
@@ -63278,6 +63294,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/interrogationtortureconstraint/"
+    },
+    "InterventionalUltrasoundSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf [lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf].md",
+          "key": "vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf",
+          "show": "这病说来话长",
+          "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
+          "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/interventionalultrasoundsafety/"
     },
     "IntracranialCircuitMapping": {
       "episode_count": 1,
@@ -125263,6 +125295,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/ultradiandeepworkblock/"
     },
+    "UltrasoundExamPreparationAndSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf [lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf].md",
+          "key": "vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf",
+          "show": "这病说来话长",
+          "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
+          "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
+        }
+      ],
+      "updated": "2026-09-22",
+      "url": "/wiki/concepts/ultrasoundexampreparationandsafety/"
+    },
     "UnapprovedMedicalAestheticProducts": {
       "episode_count": 1,
       "show_count": 1,
@@ -142624,9 +142672,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 1,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -142830,6 +142878,13 @@
           "show": "这病说来话长",
           "title": "VOL.153苏见信(信)：“信手拈来”的健康饮食+“最小阻力”的健身方式+“选择记忆”的乐观心态",
           "url": "/wiki/sources/vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho/"
+        },
+        {
+          "episode_file": "lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf [lqU3qcqBN3YR5R_-OpoAW3Sc1Vsf].md",
+          "key": "vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf",
+          "show": "这病说来话长",
+          "title": "VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？",
+          "url": "/wiki/sources/vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf/"
         }
       ],
       "updated": "2026-09-22",

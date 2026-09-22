@@ -21331,6 +21331,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `513-america-in-68-nixons-great-comeback-part-6-glt3853956463`; created `UnitedStatesPresidentialElection1968`, `HubertHumphrey`, `SpiroAgnew`, `HRHaldeman`, `AnnaChennault`, `GeorgeWallace`, `PoliticalComebackGroundwork`, `ControlledTelevisionCampaign`, `LawAndOrderRacialSignaling`, and `ElectoralBackchannelCausationBoundary`; migrated and updated `RichardNixon` and `LyndonBJohnson`; and updated the index. Core synthesis: Nixon's return joined patient party rebuilding, loyalist control, staged television, emotionally broad slogans, and a law-and-order message that was less explicit than Wallace's rhetoric but still exploited racial fear. No settled contradiction found. Chennault-campaign contact and Johnson's suspicion are retained, while decisive peace-talk sabotage remains contested because South Vietnam had independent objections and agency. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
+## [2026-09-22] ingest | VOL.140为什么检查前要憋尿？你做B超检查时涂的“油”还是凉的吗？A超、M超、D超、三维、四维都是什么？
+
+Added source `vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf`; created `DiagnosticUltrasoundModalitySelection`, `InterventionalUltrasoundSafety`, and `UltrasoundExamPreparationAndSafety`; updated `ZheBingShuoLaiHuaChang` and the index. Core synthesis: ultrasound modes and routes answer different clinical questions; rapid radiation-free scanning is often useful early but remains operator-, anatomy-, and question-dependent, while image-guided procedures require visibility and safe access and patient-facing preparation requires proportionate bladder filling, hygiene, consent, and clinical context. No settled contradiction found. Procedural anecdotes, contrast-agent safety, exact preparation instructions, and pregnancy claims remain public education rather than individualized guidance; transcript uncertainty around likely pancreatic cases is explicit. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-22] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-22] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
