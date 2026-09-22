@@ -21524,3 +21524,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver
+
+Added source `peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274`; created `CraigKoniver` and `NADTherapyEvidenceBoundary`; updated `PeptideEvidenceHierarchy`, `BPC157ExperimentalRepairPeptide`, `PeptideSourcingQualityRisk`, `RegulatedPeptideAccess`, `GrowthHormoneSecretagogues`, `GLP1BodyCompositionStack`, and index. Core synthesis: supervised clinical experience can refine sourcing, dosing, monitoring, and hypothesis formation, but it does not convert peptide, secretagogue, NAD, methylene-blue, sleep, inflammation, or recovery anecdotes into controlled human efficacy. No settled contradiction found; compounding oversight reduces but does not eliminate product-quality variation, and the source's “Conover” body spelling is normalized to the metadata title's Craig Koniver. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

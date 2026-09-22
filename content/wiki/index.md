@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver](sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274.md) — Huberman Lab interview on peptide and hormone-adjacent clinical practice, sourcing, experimental evidence, growth-hormone secretagogues, and NAD therapy claims.
 - [VOL.135直面体检｜医生们带你看懂报告里的惊悚指标](sources/vol-135-zhimian-tijian-yishengmen-dai-ni-kandong-baogao-li-de-jingsong-zhibiao-lmjlyxmiy2v2r0f8rxttabkkawk9.md) — 这病说来话长 roundtable on contextual interpretation, surveillance, and escalation for alarming-looking checkup findings across multiple body systems.
 - [502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)](sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222.md) — The Rest Is History episode on Agricola's campaigns, Roman provincial consolidation, Caledonian withdrawal, and the limits of Tacitus's imperial critique.
 - [503. The French Revolution: Bloodbath in Paris (Part 1)](sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194.md) — The Rest Is History episode on Varennes, the Champ de Mars massacre, constitutional-monarchist stabilization, revolutionary suspicion, and the fragile 1791 settlement.
@@ -2707,6 +2708,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Craig Koniver](entities/CraigKoniver.md) — Physician guest presenting a performance-medicine approach to supervised peptides, NAD, mitochondrial support, and hormone-adjacent interventions.
 - [Roman Britain](entities/RomanBritain.md) — Roman province shaped by military occupation, infrastructure, taxation, elite incorporation, and a strategically reversible northern frontier.
 - [Gnaeus Julius Agricola](entities/GnaeusJuliusAgricola.md) — Governor who combined Welsh and Caledonian campaigns with civil administration in Roman Britain.
 - [Tacitus](entities/Tacitus.md) — Agricola's son-in-law and biographer, used as both a key source and a morally ambivalent interpreter of empire.
@@ -13252,6 +13254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [NAD Therapy Evidence Boundary](concepts/NADTherapyEvidenceBoundary.md) — Boundary separating biochemical plausibility and reported NAD responses from established clinical efficacy across fatigue, mood, cognition, infection, addiction, sleep, or longevity.
 - [Roman Provincial Consolidation](concepts/RomanProvincialConsolidation.md) — Conversion of battlefield access into durable rule through infrastructure, administration, extraction, and elite incorporation.
 - [Ancient Imperial Critique Limits](concepts/AncientImperialCritiqueLimits.md) — Boundary for reading Roman moral criticism without treating it as modern humanitarian anti-imperialism.
 - [Long Path Framework](concepts/LongPathFramework.md) — Long-horizon decision framework joining transgenerational empathy, plural futures thinking, and telos.

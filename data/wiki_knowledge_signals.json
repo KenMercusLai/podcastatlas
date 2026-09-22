@@ -11276,9 +11276,9 @@
       "url": "/wiki/entities/azure/"
     },
     "BPC157ExperimentalRepairPeptide": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -11286,9 +11286,16 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/bpc157experimentalrepairpeptide/"
     },
     "BRAVOTrial": {
@@ -26598,6 +26605,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/craftlaborbottleneck/"
+    },
+    "CraigKoniver": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/craigkoniver/"
     },
     "CreatineMonohydrateEvidence": {
       "episode_count": 2,
@@ -48087,9 +48110,9 @@
       "url": "/wiki/concepts/glp1agonists/"
     },
     "GLP1BodyCompositionStack": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -48104,9 +48127,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        },
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/glp1bodycompositionstack/"
     },
     "GPT55Cyber": {
@@ -52336,9 +52366,9 @@
       "url": "/wiki/concepts/growthhormonebehavioralregulation/"
     },
     "GrowthHormoneSecretagogues": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -52353,9 +52383,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
           "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        },
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/growthhormonesecretagogues/"
     },
     "GrowthWitnessing": {
@@ -88313,6 +88350,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/mythicbiographysourcecaution/"
     },
+    "NADTherapyEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/nadtherapyevidenceboundary/"
+    },
     "NASA": {
       "episode_count": 11,
       "show_count": 9,
@@ -95714,9 +95767,9 @@
       "url": "/wiki/concepts/peopleartiststatehonor/"
     },
     "PeptideEvidenceHierarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -95724,15 +95777,22 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/peptideevidencehierarchy/"
     },
     "PeptideSourcingQualityRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -95740,9 +95800,16 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/peptidesourcingqualityrisk/"
     },
     "PerMuLandTaxation": {
@@ -104549,9 +104616,9 @@
       "url": "/wiki/concepts/regulatedcryptotruststrategy/"
     },
     "RegulatedPeptideAccess": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -104559,9 +104626,16 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "SCIM6125190274 [SCIM6125190274].md",
+          "key": "peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274",
+          "show": "Huberman Lab",
+          "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
+          "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/regulatedpeptideaccess/"
     },
     "RejectedCounselDefectionCascade": {

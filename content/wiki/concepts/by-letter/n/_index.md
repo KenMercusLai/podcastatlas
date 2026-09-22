@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7899
+wiki_total_pages: 7900
 wiki_pages:
+  - key: "NADTherapyEvidenceBoundary"
+    title: "NAD Therapy Evidence Boundary"
+    url: "/wiki/concepts/nadtherapyevidenceboundary/"
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
     url: "/wiki/concepts/namingpowersocialchange/"

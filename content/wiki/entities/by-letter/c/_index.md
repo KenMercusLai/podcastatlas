@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10535
+wiki_total_pages: 10536
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1268,6 +1268,9 @@ wiki_pages:
   - key: "CR450"
     title: "CR450"
     url: "/wiki/entities/cr450/"
+  - key: "CraigKoniver"
+    title: "Craig Koniver"
+    url: "/wiki/entities/craigkoniver/"
   - key: "Crave"
     title: "Crave"
     url: "/wiki/entities/crave/"
