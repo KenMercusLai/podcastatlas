@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节](sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek.md) — 这病说来话长 episode on systemic lupus, clinical remission, treatment adherence, ICU support, information quality, and chronic-illness quality of life.
 - [509. America in '68: The Assassination of Martin Luther King Jr. (Part 2)](sources/509-america-in-68-the-assassination-of-martin-luther-king-jr-part-2-glt4373367265.md) — The Rest Is History episode on King's late economic-justice program, Memphis sanitation strike, crisis of nonviolent credibility, assassination, and the violent national aftermath.
 - [510. America in '68: The Killing of Robert Kennedy (Part 3)](sources/510-america-in-68-the-killing-of-robert-kennedy-part-3-glt6589354101.md) — The Rest Is History episode on Robert Kennedy's moral and political reinvention, 1968 primary campaign, assassination, and the limits of his presidential-destiny myth.
 - [How to Safeguard Your Hormone Health & Fertility | Dr. Shanna Swan](sources/how-to-safeguard-your-hormone-health-fertility-dr-shanna-swan-scim6175232531.md) — Huberman Lab interview on endocrine disruptors, prenatal development, human biomarker evidence, sperm-count trends, and proportionate household exposure reduction.
@@ -2692,6 +2693,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [董老师 / Dong Rheumatology Doctor](entities/DongRheumatologyDoctor.md) — Source-scoped rheumatology guest explaining lupus mechanism, recognition, remission, adherence, and long-term management.
 - [James Earl Ray](entities/JamesEarlRay.md) — Escaped convict identified as Martin Luther King Jr.'s assassin.
 - [Poor People's Campaign](entities/PoorPeoplesCampaign.md) — King's multiracial national campaign against poverty and economic inequality.
 - [Memphis Sanitation Strike](entities/MemphisSanitationStrike.md) — 1968 labor-and-dignity campaign that drew King back to Memphis.
@@ -13209,6 +13211,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理](concepts/SystemicLupusErythematosusManagement.md) — Long-term framework joining multi-organ recognition, acute control, clinical remission, organ protection, and patient-valued life goals.
+- [Chronic Disease Treatment Adherence / 慢病治疗依从性](concepts/ChronicDiseaseTreatmentAdherence.md) — Treatment continuity through transparent risk-benefit communication, feedback, and clinician-guided adjustment.
+- [Chronic Illness Quality of Life / 慢病生活质量](concepts/ChronicIllnessQualityOfLife.md) — Patient-centered frame spanning function, identity, appearance, mood, work, relationships, future plans, and uncertainty.
 - [Late Civil-Rights Economic Justice](concepts/LateCivilRightsEconomicJustice.md) — Expansion from formal equality toward labor, housing, income, and material capacity.
 - [Nonviolent Movement Credibility Crisis](concepts/NonviolentMovementCredibilityCrisis.md) — Strategic failure when visible disorder overwhelms a movement's intended nonviolent meaning.
 - [Public Grief De-escalation](concepts/PublicGriefDeescalation.md) — Rhetoric that acknowledges collective trauma while inviting restraint rather than revenge.

@@ -10782,9 +10782,9 @@
       "url": "/wiki/concepts/autorlproductionloop/"
     },
     "AutoimmuneDiseaseSubtyping": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7009523546 [SCIM7009523546].md",
@@ -10792,9 +10792,16 @@
           "show": "Huberman Lab",
           "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
           "url": "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
+        },
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/autoimmunediseasesubtyping/"
     },
     "AutomatedHiringProxyDiscrimination": {
@@ -22070,6 +22077,38 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/christyescobel/"
     },
+    "ChronicDiseaseTreatmentAdherence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/chronicdiseasetreatmentadherence/"
+    },
+    "ChronicIllnessQualityOfLife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/chronicillnessqualityoflife/"
+    },
     "ChronicleBiographicalHistoryForms": {
       "episode_count": 1,
       "show_count": 1,
@@ -32553,6 +32592,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/donghongwesternhan/"
+    },
+    "DongRheumatologyDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/dongrheumatologydoctor/"
     },
     "DongSiLateHan": {
       "episode_count": 1,
@@ -100654,9 +100709,9 @@
       "url": "/wiki/concepts/publicgriefdeescalation/"
     },
     "PublicHealthInformationTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -100664,9 +100719,16 @@
           "show": "这病说来话长",
           "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
           "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        },
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/publichealthinformationtriage/"
     },
     "PublicIllnessWriting": {
@@ -120015,6 +120077,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/systemlevelvehicleagentarchitecture/"
     },
+    "SystemicLupusErythematosusManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/systemiclupuserythematosusmanagement/"
+    },
     "TCellEducationAndThymusAging": {
       "episode_count": 2,
       "show_count": 1,
@@ -138983,9 +139061,9 @@
       "url": "/wiki/entities/yinchengprincess/"
     },
     "YinLaoshiZheBing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
@@ -138993,9 +139071,16 @@
           "show": "这病说来话长",
           "title": "VOL.213 蚊子为什么偏爱咬你？皮肤科医生拆穿“驱蚊”智商税｜附快速止痒选药指南",
           "url": "/wiki/sources/vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec/"
+        },
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinLihua": {
@@ -143347,9 +143432,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 31,
+      "episode_count": 32,
       "show_count": 1,
-      "source_note_count": 31,
+      "source_note_count": 32,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -143567,9 +143652,16 @@
           "show": "这病说来话长",
           "title": "VOL.139当代打工人体检指南：如何选项目？如何避坑？报告怎么看？公立医院医生来支招",
           "url": "/wiki/sources/vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb/"
+        },
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhejiangUniversityChildrensHospital": {
@@ -145880,9 +145972,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -145890,9 +145982,16 @@
           "show": "这病说来话长",
           "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
           "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        },
+        {
+          "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
+          "key": "vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek",
+          "show": "这病说来话长",
+          "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
+          "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {

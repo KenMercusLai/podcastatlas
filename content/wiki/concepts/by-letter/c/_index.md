@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7877
+wiki_total_pages: 7880
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -803,9 +803,15 @@ wiki_pages:
   - key: "ChokepointShippingConfidence"
     title: "Chokepoint Shipping Confidence"
     url: "/wiki/concepts/chokepointshippingconfidence/"
+  - key: "ChronicDiseaseTreatmentAdherence"
+    title: "Chronic Disease Treatment Adherence / 慢病治疗依从性"
+    url: "/wiki/concepts/chronicdiseasetreatmentadherence/"
   - key: "ChronicFoodAdditiveRisk"
     title: "Chronic Food Additive Risk"
     url: "/wiki/concepts/chronicfoodadditiverisk/"
+  - key: "ChronicIllnessQualityOfLife"
+    title: "Chronic Illness Quality of Life / 慢病生活质量"
+    url: "/wiki/concepts/chronicillnessqualityoflife/"
   - key: "ChronicleChronologyDrift"
     title: "Chronicle Chronology Drift / 编年错位"
     url: "/wiki/concepts/chroniclechronologydrift/"

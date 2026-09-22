@@ -21398,3 +21398,11 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节
+
+Added source `vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek`; created `DongRheumatologyDoctor`, `SystemicLupusErythematosusManagement`, `ChronicDiseaseTreatmentAdherence`, and `ChronicIllnessQualityOfLife`; updated `ZihanDoctor`, `YinLaoshiZheBing`, `AutoimmuneDiseaseSubtyping`, `PublicHealthInformationTriage`, `ZheBingShuoLaiHuaChang`, and the index. Core synthesis: systemic lupus is presented as non-contagious, heterogeneous autoimmune disease managed through recognition, acute control, clinical remission, organ protection, adherence, honest adverse-effect communication, sun protection, multidisciplinary escalation, and patient-valued quality of life. No settled contradiction found; triggers, timelines, sex differences, medication effects, case anecdotes, and the survival game remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

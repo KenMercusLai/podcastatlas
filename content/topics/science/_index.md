@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1160
+topic_total_pages: 1161
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1894,6 +1894,9 @@ topic_concepts:
   - key: "SystemicDegenerativeVolatility"
     title: "Systemic Degenerative Volatility"
     url: "/wiki/concepts/systemicdegenerativevolatility/"
+  - key: "SystemicLupusErythematosusManagement"
+    title: "Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理"
+    url: "/wiki/concepts/systemiclupuserythematosusmanagement/"
   - key: "TechCultureBiohacking"
     title: "Tech-Culture Biohacking"
     url: "/wiki/concepts/techculturebiohacking/"

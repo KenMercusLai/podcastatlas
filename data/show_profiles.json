@@ -3410,7 +3410,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 45,
+      "source_note_count": 46,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3469,6 +3469,13 @@
           "episode_count": 2
         },
         {
+          "key": "ZihanDoctor",
+          "title": "子涵医生 / Zihan Doctor",
+          "url": "/wiki/entities/zihandoctor/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "XiaolongWeightManagementGuest",
           "title": "小龙 / Xiaolong (Weight-Management Guest)",
           "url": "/wiki/entities/xiaolongweightmanagementguest/",
@@ -3476,16 +3483,9 @@
           "episode_count": 2
         },
         {
-          "key": "LihuaSpeechTherapist",
-          "title": "梨花医生 / Lihua Speech Therapist",
-          "url": "/wiki/entities/lihuaspeechtherapist/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "DongXintong",
-          "title": "董心彤 / Dong Xintong",
-          "url": "/wiki/entities/dongxintong/",
+          "key": "YinLaoshiZheBing",
+          "title": "尹老师 / Yin Laoshi (Zhe Bing speaker)",
+          "url": "/wiki/entities/yinlaoshizhebing/",
           "kind": "person",
           "episode_count": 2
         }

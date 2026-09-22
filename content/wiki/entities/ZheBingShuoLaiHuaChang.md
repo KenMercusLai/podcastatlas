@@ -34,14 +34,15 @@ sources:
   - vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho
   - vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf
   - vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb
-last_updated: 2026-09-22
+  - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
 # 这病说来话长 / Zhe Bing Shuo Lai Hua Chang
 
 ## Overview
-这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, medical-imaging, liver-health, neurology and migraine, tobacco-control, smoking-cessation, nutrition, supplement, neuroscience, female and male urology, anesthesiology, otolaryngology, ophthalmology, musculoskeletal, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, speech-language and swallowing rehabilitation, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
+这病说来话长 is a Chinese medical-literacy podcast in the wiki, represented by episodes that translate specialist clinical, rheumatology, autoimmune-disease, intensive-care, medical-imaging, liver-health, neurology and migraine, tobacco-control, smoking-cessation, nutrition, supplement, neuroscience, female and male urology, anesthesiology, otolaryngology, ophthalmology, musculoskeletal, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, speech-language and swallowing rehabilitation, music-therapy, and mental-health knowledge into bounded public explanations for non-specialist listeners.
 
 ## Current Profile
 The show's current wiki profile is practical rather than encyclopedic. Its clinical branch covers individualized cancer vaccines, lumbar-disc care, missed-diagnosis uncertainty, female and male urological health, anesthesiology and perioperative safety, preoperative anesthesia assessment, otolaryngology and headphone/hearing safety, ophthalmology and eye-disease screening, speech-language and swallowing rehabilitation for dysphagia, pediatric language delay, articulation, adult aphasia, and dysarthria, insect-bite dermatology, sports-medicine exercise safety, cardiovascular exercise boundaries, first-aid triage, emergency response, and [[ClinicalMusicTherapy|clinical music therapy]]. In each case, specialist explanation is tied to indication, symptoms, follow-up, clinical validation, patient burden, exposure or activity history, assessment, and qualified care rather than headline certainty.
@@ -88,8 +89,10 @@ VOL.162 adds a dedicated hypertension branch through [[DaLunDingHypertensionGues
 
 VOL.155 adds a sleep-disordered-breathing branch through [[XueXiaofan|薛小凡]] and [[LiJieRespiratoryDoctor|李杰]]. It turns snoring, witnessed pauses, daytime impairment, risk factors, wearables, questionnaires, and polysomnography into [[ObstructiveSleepApneaRecognition]], then explains [[PositiveAirwayPressureTherapy]] through indication, titration, masks, comfort, data, and follow-up rather than treating a home device as either ICU ventilation or a universal anti-snoring product.
 
+VOL.138 adds a rheumatology and chronic-illness branch through [[DongRheumatologyDoctor|董老师]], [[ZihanDoctor|子涵医生]], and [[YinLaoshiZheBing|尹老师]]. It frames [[SystemicLupusErythematosusManagement|systemic lupus erythematosus]] as non-contagious immune dysregulation with variable organ involvement, then connects acute control, clinical remission, sun protection, adverse-effect communication, [[ChronicDiseaseTreatmentAdherence]], ICU support, [[PublicHealthInformationTriage]], and [[ChronicIllnessQualityOfLife]]. The episode's game about progressive loss is retained as a values exercise rather than a ranking of disability or a treatment decision tool.
+
 ## Key Characteristics
-- Uses specialist guests to explain medical imaging, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
+- Uses specialist guests to explain rheumatology, autoimmune disease, intensive care, medical imaging, nutrition, neuroscience, female and male urology, anesthesiology, preoperative assessment, otolaryngology, ophthalmology, speech-language and swallowing rehabilitation, cardiovascular, sports-medicine, first-aid, emergency-care, medical-aesthetic, and mental-health topics through mechanisms, cases, and accessible examples.
 - Separates public education from individualized diagnosis, treatment, rehabilitation, legal advice, workplace advice, or product prescription.
 - Keeps advanced medical technology, exercise equipment, headphones, eye drops, self-care routines, supplements, special-use foods, GLP-1 medicines, CGM, PSA and imaging findings, and consumer products tied to indication, validation, use context, risk, and patient or user burden.
 - Turns common anxieties into practical questions about interpretation, follow-up, food choices, product claims, training load, headphone use, music use, urinary symptoms, self-observation, evidence, and escalation.
@@ -119,16 +122,22 @@ VOL.155 adds a sleep-disordered-breathing branch through [[XueXiaofan|薛小凡]
 - Artist lifestyle and habit formation: [[vol-153-sujianxin-xin-xinshounianlai-de-jiankang-yinshi-zui-xiao-zuli-de-jianshen-fangshi-xuanze-jiyi-de-leguan-xintai-lkdxzl6wkkaquhwmckwxsyxyiaho]] uses Su Jianxin's cooking, tiny starting workouts, gym progression, concert preparation, travel, art, and optimism to illustrate low-friction behavior change while keeping health claims autobiographical.
 - Diagnostic and interventional ultrasound: [[vol-140-weishenme-jiancha-qian-yao-bieniao-ni-zuo-b-chao-jiancha-shi-tu-de-you-haishi-liang-de-ma-a-chao-m-chao-d-chao-sanwei-siwei-dou-shi-shenme-lqu3qcqbn3yr5r_-opoaw3sc1vsf]] distinguishes ultrasound modes, first-line strengths, multimodal limits, image-guided procedures, coupling gel, bladder filling, endocavitary routes, infection-control steps, consent, and pregnancy reassurance.
 - Preventive checkups and report literacy: [[vol-139-dangdai-dagongren-tijian-zhinan-ruhe-xuan-xiangmu-ruhe-bikeng-baogao-zenme-kan-gongli-yiyuan-yisheng-lai-zhizhao-lucd43f_m0x0fdw09zm6iszatgtb]] connects baseline and targeted test selection, family and lifestyle risk, single-marker caution, imaging findings, overdiagnosis, and uninterrupted follow-up.
+- Lupus and chronic-illness management: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] connects autoimmune mechanism, variable organ involvement, clinical remission, treatment adherence, adverse-effect communication, sun protection, ICU coordination, information quality, and patient-defined quality of life.
 
 ## Qualifications
-The page is based only on thirty-one ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education or personal experience, not individualized medical, screening, genetic-testing, radiology, ultrasound, image-guided procedure, sleep-medicine, respiratory, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
+The page is based only on thirty-two ingested episode notes. It should not be treated as a complete show history, and host or guest biographies remain source-scoped unless independently supported by future ingests. The episodes are public education or personal experience, not individualized rheumatology, autoimmune-disease, immunosuppression, ICU, medical, screening, genetic-testing, radiology, ultrasound, image-guided procedure, sleep-medicine, respiratory, hepatology, alcohol, hypertension, medication, home-monitoring, psychiatric, legal, workplace, nutrition, diabetes, obesity, fatty-liver, dermatology, ophthalmology, myopia-control, orthokeratology, infection, urology, gynecology, obstetrics, pregnancy, prostate, renal, sexual-health, otolaryngology, audiology, tinnitus, device-selection, anesthesiology, surgery, preoperative-care, postoperative-care, child-development, autism, dysphagia, aphasia, dysarthria, articulation, speech-language therapy, rehabilitation, sports-training, fitness, music-therapy, medical-aesthetic, cardiology, first-aid, emergency-care, CPR/AED, seizure-care, wound-care, burn-care, tobacco-control, smoking-cessation, product-safety, metabolic-disease, supplement, or cancer-treatment guidance.
 
 ## What Changed
-- VOL.139 adds a workplace-checkup branch spanning risk-based selection, report interpretation, overtesting burdens, and follow-up continuity.
-- The profile now distinguishes annual screening from longitudinal surveillance of an already known abnormality.
-- Test examples, marker thresholds, advanced screening, and institution comparisons remain public education rather than individualized care.
+- VOL.138 adds systemic lupus, clinical remission, treatment adherence, and rheumatology-ICU coordination.
+- The show profile now includes chronic-illness quality of life and treatment-side-effect communication.
+- Disease triggers, medication effects, timelines, case anecdotes, and the survival game remain source-scoped public education.
 
 ## Relationships
+- [[DongRheumatologyDoctor]] - source-scoped rheumatology guest in VOL.138.
+- [[ZihanDoctor]] - ICU and chronic-illness guest in VOL.138 and infectious-disease guest in VOL.205.
+- [[SystemicLupusErythematosusManagement]] - lupus recognition, treatment, remission, and follow-up framework developed by the show.
+- [[ChronicDiseaseTreatmentAdherence]] - medication continuity and side-effect communication frame developed by the show.
+- [[ChronicIllnessQualityOfLife]] - patient-valued function, identity, and life-goal frame developed by the show.
 - [[LiWeicong]] - health-management physician guest in VOL.139.
 - [[AerospaceCenterHospital]] - hospital affiliation named for Li Weicong.
 - [[IndividualizedPreventiveCheckupSelection]] - risk-based test-selection framework developed by the show.
