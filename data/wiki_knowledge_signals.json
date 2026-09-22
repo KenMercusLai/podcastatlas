@@ -8699,6 +8699,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/antisemitismisraelcriticismboundary/"
     },
+    "AntoineBarnave": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/antoinebarnave/"
+    },
     "AntoineLouis": {
       "episode_count": 1,
       "show_count": 1,
@@ -18891,6 +18907,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/chainexecutiveimport/"
     },
+    "ChampDeMarsMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/champdemarsmassacre/"
+    },
     "ChanDrama": {
       "episode_count": 1,
       "show_count": 1,
@@ -25830,6 +25862,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cooley/"
     },
+    "CordeliersClub": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/cordeliersclub/"
+    },
     "CordobaCaliphate": {
       "episode_count": 1,
       "show_count": 1,
@@ -26937,9 +26985,9 @@
       "url": "/wiki/concepts/crisisrumordeamplification/"
     },
     "CrisisValidatedConspiracyPolitics": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT6580043397 [GLT6580043397].md",
@@ -26961,6 +27009,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-22",
@@ -43508,6 +43563,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/feudalhomagesovereigntyconflict/"
     },
+    "FeuillantClub": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/feuillantclub/"
+    },
     "FeverHeatImmuneResponseBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -44282,6 +44353,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
+    },
+    "FlightToVarennes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/flighttovarennes/"
     },
     "FlockSafety": {
       "episode_count": 6,
@@ -46235,9 +46322,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -46308,6 +46395,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-23",
@@ -65143,6 +65237,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/jacobcoxon/"
     },
+    "JacobinClub": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jacobinclub/"
+    },
     "Jacobitism": {
       "episode_count": 1,
       "show_count": 1,
@@ -65604,6 +65721,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/jeanpaulsartre/"
+    },
+    "JeanSylvainBailly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jeansylvainbailly/"
     },
     "JeffCavaliere": {
       "episode_count": 1,
@@ -78695,9 +78828,9 @@
       "url": "/wiki/entities/louismoreaugottschalk/"
     },
     "LouisXVI": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -78726,6 +78859,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-22",
@@ -82560,9 +82700,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -82584,6 +82724,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-22",
@@ -82741,9 +82888,9 @@
       "url": "/wiki/concepts/marketingscienceuserpath/"
     },
     "MarquisDeLafayette": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -82765,6 +82912,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-23",
@@ -83297,9 +83451,9 @@
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -83349,6 +83503,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-22",
@@ -131792,9 +131953,9 @@
       "url": "/wiki/concepts/wartimecommanddecapitation/"
     },
     "WartimeConstitutionalMonarchyCollapse": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9954902163 [GLT9954902163].md",
@@ -131809,6 +131970,13 @@
           "show": "The Rest Is History",
           "title": "504. The French Revolution: War to the Death (Part 2)",
           "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
+        },
+        {
+          "episode_file": "GLT8447202194 [GLT8447202194].md",
+          "key": "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194",
+          "show": "The Rest Is History",
+          "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
+          "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
         }
       ],
       "updated": "2026-09-23",

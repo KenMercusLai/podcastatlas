@@ -905,14 +905,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 97,
-      "topic_matched_source_note_count": 96,
+      "source_note_count": 98,
+      "topic_matched_source_note_count": 97,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 94
+          "source_note_count": 95
         },
         {
           "key": "politics",
@@ -942,16 +942,16 @@
           "episode_count": 7
         },
         {
-          "key": "FrancisWalsingham",
-          "title": "Francis Walsingham",
-          "url": "/wiki/entities/franciswalsingham/",
-          "kind": "person",
-          "episode_count": 6
-        },
-        {
           "key": "MaximilienRobespierre",
           "title": "Maximilien Robespierre / 罗伯斯庇尔",
           "url": "/wiki/entities/maximilienrobespierre/",
+          "kind": "person",
+          "episode_count": 7
+        },
+        {
+          "key": "FrancisWalsingham",
+          "title": "Francis Walsingham",
+          "url": "/wiki/entities/franciswalsingham/",
           "kind": "person",
           "episode_count": 6
         },
@@ -970,6 +970,13 @@
           "episode_count": 5
         },
         {
+          "key": "LouisXVI",
+          "title": "Louis XVI",
+          "url": "/wiki/entities/louisxvi/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
           "key": "WilliamTheConqueror",
           "title": "William the Conqueror",
           "url": "/wiki/entities/williamtheconqueror/",
@@ -980,13 +987,6 @@
           "key": "GaiusMarius",
           "title": "Gaius Marius / 马略",
           "url": "/wiki/entities/gaiusmarius/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
-          "key": "HaraldHardrada",
-          "title": "Harald Hardrada",
-          "url": "/wiki/entities/haraldhardrada/",
           "kind": "person",
           "episode_count": 4
         }

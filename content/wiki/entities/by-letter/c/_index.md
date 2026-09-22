@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10526
+wiki_total_pages: 10532
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -425,6 +425,9 @@ wiki_pages:
   - key: "ChamathPalihapitiya"
     title: "Chamath Palihapitiya"
     url: "/wiki/entities/chamathpalihapitiya/"
+  - key: "ChampDeMarsMassacre"
+    title: "Champ de Mars Massacre"
+    url: "/wiki/entities/champdemarsmassacre/"
   - key: "ChanceWeldon"
     title: "Chance Weldon"
     url: "/wiki/entities/chanceweldon/"
@@ -1160,6 +1163,9 @@ wiki_pages:
   - key: "CooperKatzMcKim"
     title: "Cooper Katz-McKim"
     url: "/wiki/entities/cooperkatzmckim/"
+  - key: "CordeliersClub"
+    title: "Cordeliers Club"
+    url: "/wiki/entities/cordeliersclub/"
   - key: "CordobaCaliphate"
     title: "Cordoba Caliphate / 科尔多瓦哈里发国"
     url: "/wiki/entities/cordobacaliphate/"

@@ -21411,6 +21411,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | 503. The French Revolution: Bloodbath in Paris (Part 1)
+
+Added source `503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194`; created `AntoineBarnave`, `JeanSylvainBailly`, `ChampDeMarsMassacre`, `CordeliersClub`, `FeuillantClub`, and `FlightToVarennes`; updated `FrenchRevolution`, `LouisXVI`, `MarieAntoinette`, `MaximilienRobespierre`, `MarquisDeLafayette`, `JacobinClub`, `CrisisValidatedConspiracyPolitics`, `WartimeConstitutionalMonarchyCollapse`, and the index. Core synthesis: Varennes converted suspected royal bad faith into documented deception, the Champ de Mars massacre exposed revolutionary authority using force against revolutionary petitioners, and Barnave's restricted constitutional settlement began without the trust needed to survive later war. No settled contradiction found; the men beneath the altar, first shot, casualty estimates, crowd size, private motives, and some character judgments remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | VOL.137医美水太深！整形医生分享小白都听得懂的避坑指南
 
 Added source `vol-137-yimei-shui-taishen-zhengxing-yisheng-fenxiang-xiaobai-dou-tingdedong-de-bikeng-zhinan-lqogn2-ueebzhwv0g1-ns9yqgv5`; created `FengXiaoliuVascularSurgeon`; updated `LuluPlasticSurgeon`, `UnapprovedMedicalAestheticProducts`, `MedicalAestheticProviderVerification`, `CosmeticProcedureExpectationManagement`, and the index. Core synthesis: medical aesthetics is elective medicine, so product identity, lawful institutional scope, qualified clinician-led assessment, complication support, recovery, function, reversibility, and the person's actual goal should outrank low price, familiarity, prestige language, or sales pressure. No settled contradiction found; material descriptions, procedure grades, credential terminology, complication frequencies, platform signals, and personal outcomes remain source-scoped public education rather than current regulatory verification or individualized treatment. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21488,6 +21492,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！
 
 Added source `vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu`; created `WengYiming`, `LianlianUrology`, and `SedentaryBehaviorInterruption`; updated `FengYanfeiVascularSurgery`, `MaHaoning`, `TravelThrombosisPrevention`, `LumbarNeutralPosition`, `UrinaryTractInfectionBehaviorBoundary`, and index. Core synthesis: prolonged sitting is a multi-system exposure rather than a diagnosis, and the most transferable response is to interrupt fixed posture through movement, calf and ankle activation, appropriate hydration and timely urination, relatively neutral spinal loading, and gradual strength rather than relying on one chair, desk, stocking, or brace. No settled contradiction found; sitting alone is not promoted as an inevitable cause of infertility, infection, thrombosis, disc disease, bloating, cerebral hypoperfusion, or attention problems, and the supplied 江宇亮 and 薛晓帆 spellings are preserved without merging them into similarly named later guests. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

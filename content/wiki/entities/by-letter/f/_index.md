@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10526
+wiki_total_pages: 10532
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "Ferrix"
     title: "Ferrix"
     url: "/wiki/entities/ferrix/"
+  - key: "FeuillantClub"
+    title: "Feuillant Club"
+    url: "/wiki/entities/feuillantclub/"
   - key: "FHN"
     title: "FHN"
     url: "/wiki/entities/fhn/"
@@ -329,6 +332,9 @@ wiki_pages:
   - key: "Fliggy"
     title: "Fliggy"
     url: "/wiki/entities/fliggy/"
+  - key: "FlightToVarennes"
+    title: "Flight to Varennes"
+    url: "/wiki/entities/flighttovarennes/"
   - key: "Flock"
     title: "Flock"
     url: "/wiki/entities/flock/"

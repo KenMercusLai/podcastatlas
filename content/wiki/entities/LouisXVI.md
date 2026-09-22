@@ -7,6 +7,7 @@ sources:
   - 546-the-french-revolution-the-monarchy-falls-part-3-glt3779628370
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
+  - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -19,11 +20,11 @@ Louis XVI was the Bourbon king whose wartime constitutional choices accelerated 
 
 ## Current Profile
 
-The sources present Louis as a constitutional actor who never sincerely accepted the constitutional settlement, then as prisoner, accused individual, and political symbol. Before war, he vetoed anti-emigre and anti-priest measures and appealed to foreign powers for intervention, while also hoping conflict would either restore royal authority or end in foreign rescue. His later vetoes of emergency measures and dismissal of the Girondin ministry were lawful powers used in a context where war made them appear disloyal; his composure during the 20 June palace invasion could not restore legitimacy, and the 10 August insurrection ended effective royal authority. Temple family life continued under humiliating restrictions before trial, de-royalization, execution, and rival martyr memory.
+The sources present Louis as a constitutional actor who never sincerely accepted the settlement, then as prisoner, accused individual, and political symbol. [[FlightToVarennes|His failed flight to Varennes]] and written rejection of the Revolution destroyed the image of a benevolent king misled by advisers. He accepted the 1791 constitution after reinstatement but secretly appealed to Emperor Leopold II, then vetoed anti-emigre and anti-priest measures and hoped war would restore royal authority or bring foreign rescue. His later vetoes of emergency measures and dismissal of the Girondin ministry were lawful powers used in a context where documented deception made them appear disloyal; his composure during the 20 June palace invasion could not restore legitimacy, and the 10 August insurrection ended effective royal authority. Temple family life continued under humiliating restrictions before trial, de-royalization, execution, and rival martyr memory.
 
 ## Key Characteristics
 
-- His vetoes and ministry dismissal made constitutional prerogative appear incompatible with national defence, while his private foreign appeals made the crown's constitutional professions less credible.
+- Varennes, his declaration against the revolutionary settlement, and later foreign appeals made his constitutional professions less credible.
 - He remained personally composed during the 20 June invasion but could not recover political trust.
 - The 10 August insurrection forced him to seek Assembly protection and led to suspension and Temple imprisonment.
 - The legal debate moved from constitutional removal to natural-law punishment and claims that kingship itself made him an enemy.
@@ -35,6 +36,7 @@ The sources present Louis as a constitutional actor who never sincerely accepted
 
 ### Constitutional crisis and suspension
 
+- [[503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194]] connects Louis's failed flight, written rejection of the Revolution, reinstatement, constitutional oath, and secret appeal to Leopold II.
 - [[504-the-french-revolution-war-to-the-death-part-2-glt3201191708]] links Louis's insincere constitutional settlement, anti-emigre veto, requests for intervention, and competing expectations of war.
 - [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] traces Louis's vetoes, ministry dismissal, conduct on 20 June, failed alternatives involving Lafayette, departure from the Tuileries, suspension, and imprisonment.
 
@@ -61,6 +63,7 @@ The sources present Louis as a constitutional actor who never sincerely accepted
 - The “one vote” margin, exact dialogue, final words, private beliefs, and eyewitness scenes remain source-scoped.
 - Composure at death does not decide the truth of the indictment or restore monarchical legitimacy.
 - A constitutional veto was not itself proof of treason, but wartime context made its political cost severe.
+- The source's account of planned troop movements and the precise intended outcome of Varennes remains a narrative reconstruction.
 - The source's judgments about Louis's depression, stubbornness, intentions, and political imagination are interpretive character assessments.
 - The exact orders and responsibility surrounding the first Tuileries gunfire remain unclear.
 
@@ -68,6 +71,7 @@ The sources present Louis as a constitutional actor who never sincerely accepted
 
 - The profile now distinguishes Louis's prewar foreign appeals and rejection of the settlement from the formally lawful vetoes that later carried such political cost.
 - War appears as a royal gamble as well as a Girondin project: victory or defeat could each be imagined as a route back to monarchical power.
+- Varennes now supplies the decisive prewar evidence that turned later lawful royal powers into signs of possible betrayal.
 
 ## Relationships
 
@@ -80,3 +84,5 @@ The sources present Louis as a constitutional actor who never sincerely accepted
 - [[PoliticalExecutionMemoryContest]] - struggle over whether he died as tyrant, criminal, victim, or martyr.
 - [[TuileriesInsurrection]] - confrontation that ended his effective rule and led to imprisonment.
 - [[WartimeConstitutionalMonarchyCollapse]] - process through which his emergency choices destroyed legitimacy.
+- [[FlightToVarennes]] - failed escape that exposed his rejection of the revolutionary settlement.
+- [[AntoineBarnave]] - constitutional monarchist who tried to preserve his crown after the flight.

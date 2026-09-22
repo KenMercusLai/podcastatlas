@@ -5,6 +5,7 @@ tags: [war, monarchy, legitimacy, revolution]
 sources:
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
+  - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-23
 ---
@@ -17,11 +18,11 @@ Wartime constitutional monarchy collapse is the process by which military failur
 
 ## Current Synthesis
 
-France in 1792 shows how constitutional powers can become politically fatal without being formally unlawful. Before combat, [[LouisXVI|Louis XVI]]'s anti-emigre veto and foreign appeals, [[MarieAntoinette|Marie Antoinette]]'s Austrian communications, and the Girondin strategy of forcing vetoes had already turned constitutional procedure into a loyalty test. Nearly every faction then backed war for a different reason. Defeat and invasion made national defence the decisive measure of legitimacy; later vetoes and dismissal powers, economic anxiety, radical press, local sections, fédérés, and the Brunswick Manifesto converted distrust into the [[TuileriesInsurrection|10 August insurrection]], after which monarchy survived only as a suspended office.
+France shows how constitutional powers can become politically fatal without being formally unlawful. [[FlightToVarennes|Varennes]] exposed royal rejection of the Revolution before the 1791 constitution was completed, while the [[ChampDeMarsMassacre|Champ de Mars massacre]] tied constitutional stabilization to repression of republican petitioning. [[AntoineBarnave|Barnave]]'s settlement preserved meaningful crown powers but depended on a royal couple already appealing abroad and planning to reverse it. Before combat in 1792, Louis's anti-emigre veto and foreign appeals, Marie Antoinette's Austrian communications, and the Girondin strategy of forcing vetoes had turned constitutional procedure into a loyalty test. Nearly every faction then backed war for a different reason. Defeat and invasion made national defence the decisive measure of legitimacy; later vetoes and dismissal powers, economic anxiety, radical press, local sections, fédérés, and the Brunswick Manifesto converted distrust into the [[TuileriesInsurrection|10 August insurrection]], after which monarchy survived only as a suspended office.
 
 ## Key Claims
 
-- War supported for incompatible factional ends can turn ordinary constitutional disagreement into a test of loyalty and survival before its military outcome is known.
+- A constitution accepted after documented royal flight and deception may begin without the trust needed to sustain ordinary disagreement.
 - Real executive duplicity can make exaggerated conspiracy claims resistant to correction.
 - Lawful vetoes may destroy legitimacy when they appear to obstruct emergency defence.
 - Economic distress and battlefield failure widen the audience for internal-enemy explanations.
@@ -37,6 +38,7 @@ France in 1792 shows how constitutional powers can become politically fatal with
 
 ### Constitutional authority becoming illegitimate
 
+- [[503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194]] links Varennes, the Champ de Mars repression, restricted participation, Barnave's settlement, the royal oath, and secret appeals to Austria.
 - [[504-the-french-revolution-war-to-the-death-part-2-glt3201191708]] traces the anti-emigre veto trap, royal foreign appeals, and cross-factional war calculations before fighting began.
 - [[506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163]] connects Louis's vetoes and ministry dismissal to the perception that the crown obstructed national defence.
 
@@ -56,11 +58,13 @@ France in 1792 shows how constitutional powers can become politically fatal with
 - Real royal duplicity does not validate every allegation about an Austrian Committee or internal conspiracy.
 - Distributed mobilization does not exclude coordination by leaders, clubs, municipal actors, or armed groups.
 - The French case does not establish that all wartime constitutional monarchies follow the same sequence.
+- The post-Varennes settlement was not doomed solely by its restricted franchise or royal powers; political violence, deception, economic pressure, religion, and later war interacted.
 
 ## What Changed
 
 - The mechanism now starts before battlefield failure, with royal foreign appeals, deliberate veto conflict, and incompatible factional war aims.
 - Cross-factional support is no longer treated as political consensus: each sponsor expected war to defeat a different rival.
+- The mechanism now includes the 1791 trust deficit: royal deception and revolutionary repression weakened the constitution before wartime failure.
 
 ## Related Concepts
 
@@ -69,3 +73,5 @@ France in 1792 shows how constitutional powers can become politically fatal with
 - [[CitizenSoldierSymbolicLegitimacy]] - authority claimed by armed volunteers acting in the nation's name.
 - [[RepublicanFoundingWithoutSettlement]] - unresolved regime-building problem that followed suspension and abolition.
 - [[RevolutionaryFactionalOutflanking]] - process by which moderation becomes vulnerable to recoding as betrayal.
+- [[FlightToVarennes]] - royal rejection that hollowed out later constitutional professions.
+- [[ChampDeMarsMassacre]] - repression that made constitutional order appear hostile to republican mobilization.

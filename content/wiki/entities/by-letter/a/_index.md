@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10526
+wiki_total_pages: 10532
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "Antler"
     title: "Antler"
     url: "/wiki/entities/antler/"
+  - key: "AntoineBarnave"
+    title: "Antoine Barnave"
+    url: "/wiki/entities/antoinebarnave/"
   - key: "AntoineDeSaintExupery"
     title: "Antoine de Saint-Exupery / 圣埃克苏佩里"
     url: "/wiki/entities/antoinedesaintexupery/"

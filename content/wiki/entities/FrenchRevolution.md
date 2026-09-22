@@ -13,6 +13,7 @@ sources:
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
   - 505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
+  - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-23
 ---
@@ -25,19 +26,23 @@ The French Revolution was the upheaval that overthrew Bourbon monarchy, created 
 
 ## Current Profile
 
-The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. The weakly mandated Legislative Assembly inherited economic, religious, rural, colonial, and monarchical crises; rival factions then converged on war because each expected a different political payoff. [[JacquesPierreBrissot|Brissot]] made universal liberty, national regeneration, and foreign conflict one program, while [[MaximilienRobespierre|Robespierre]] warned that armed missionary politics could destroy the Revolution and create a military strongman. Older public punishment, early lynching, Enlightenment reform, and the [[GuillotineReformSpectacleParadox|guillotine's reform-spectacle paradox]] supplied a penal prehistory before the war produced both [[LaMarseillaise|a citizen anthem]] and a [[WartimeConstitutionalMonarchyCollapse|legitimacy crisis]]. Defeat, royal vetoes, genuine court duplicity, economic fear, and distributed popular mobilization culminated in the [[TuileriesInsurrection|10 August insurrection]], while continuing invasion panic produced the [[SeptemberMassacres]]. Abolition and [[BattleOfValmy|Valmy]] gave the new order political and military existence without settling its institutions, citizenship, or moral limits.
+The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. [[FlightToVarennes|Varennes]] exposed royal deception, made republicanism newly plausible, and helped produce the [[ChampDeMarsMassacre|Champ de Mars massacre]], where revolutionary authorities fired on a revolutionary crowd. The restricted 1791 constitutional settlement therefore began with damaged trust before the weakly mandated Legislative Assembly inherited economic, religious, rural, colonial, and monarchical crises. Rival factions then converged on war because each expected a different political payoff. [[JacquesPierreBrissot|Brissot]] made universal liberty, national regeneration, and foreign conflict one program, while [[MaximilienRobespierre|Robespierre]] warned that armed missionary politics could destroy the Revolution and create a military strongman. Older public punishment, early lynching, Enlightenment reform, and the [[GuillotineReformSpectacleParadox|guillotine's reform-spectacle paradox]] supplied a penal prehistory before war produced both [[LaMarseillaise|a citizen anthem]] and a [[WartimeConstitutionalMonarchyCollapse|legitimacy crisis]]. Defeat, royal vetoes, genuine court duplicity, economic fear, and distributed popular mobilization culminated in the [[TuileriesInsurrection|10 August insurrection]], while continuing invasion panic produced the [[SeptemberMassacres]]. Abolition and [[BattleOfValmy|Valmy]] gave the new order political and military existence without settling its institutions, citizenship, or moral limits.
 
 ## Key Characteristics
 
-- Structural crisis joined absolutist centralization, fiscal failure, bad harvests, war debt, Enlightenment ideas, penal-reform pressure, and collapsing royal legitimacy.
+- Structural crisis joined absolutist centralization, fiscal failure, bad harvests, war debt, Enlightenment ideas, penal-reform pressure, royal flight, and collapsing monarchical legitimacy.
 - Factions with incompatible aims converged on war, making loyalty the test of constitutional authority and joining revolutionary universalism, court counterrevolution, military ambition, royal duplicity, and wider conspiracy claims.
 - Sections, sans-culottes, and fédérés supplied distributed armed pressure that converted palace defeat into suspension of the king.
 - Invasion panic and internal-enemy rumors produced organized popular violence before later terror institutions existed.
 - Abolition and Valmy created a Republic with military credibility before its mandate, institutions, and citizenship were settled.
 - Factional struggle and regicide made moderation, punishment, and the destruction of sacred kingship parts of republican foundation.
-- Older execution spectacle and new mechanical equality coexisted; material deprivation, war, rebellion, martyrdom, and emergency bodies then blurred opposition with security threat and accumulated into terror.
+- Revolutionary force first divided revolutionaries at Champ de Mars; older execution spectacle and new mechanical equality then coexisted as deprivation, war, rebellion, martyrdom, and emergency bodies blurred opposition with security threat and accumulated into terror.
 
 ## Evidence
+
+### Varennes, republicanism, and the 1791 settlement
+
+- [[503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194]] connects exposed royal deception, republican petitioning, the Champ de Mars massacre, Feuillant stabilization, restricted constitutional participation, and secret appeals to Austria.
 
 ### Punishment continuity and mechanical reform
 
@@ -75,6 +80,7 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 
 - These episodes are selective and do not provide a comprehensive social, colonial, imperial, or economic history of the Revolution.
 - The episode's factional map and motive assignments simplify fluid political groupings and cannot establish every actor's private calculation.
+- Champ de Mars crowd and casualty figures, the first shot, and the intentions of the two men hidden beneath the altar remain disputed or source-scoped.
 - The September massacre toll, detailed perpetrator responsibility, tribunal procedure, public approval, and atrocity stories remain uneven or contested.
 - Valmy's “victory,” the absence of one founding proclamation, and regicide as founding sacrifice are interpretive claims rather than uncontested classifications.
 - Women's participation and symbolic presence did not produce equal citizenship, but the sources do not quantify all women's political positions.
@@ -89,6 +95,8 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 - The profile now begins the 1792 war story with prewar factional convergence rather than only battlefield failure.
 - Revolutionary universalism is explicitly qualified by Robespierre's armed-missionary warning and the untested consent of people marked for liberation.
 - Royal betrayal and unsupported wider conspiracy claims remain distinct even where the former made the latter persuasive.
+- The chronology now begins with Varennes and Champ de Mars as prewar breaks in monarchical and revolutionary trust.
+- The 1791 constitution is treated as a compromised settlement rather than a stable baseline later disrupted only by war.
 
 ## Relationships
 
@@ -112,3 +120,5 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 - [[GuillotineReformSpectacleParadox]] - convergence of humanitarian penal reform, public theater, equality, and scalable execution.
 - [[CapitalPunishmentRetributionProblem]] - wider moral challenge to revolutionary and modern state execution.
 - [[RevolutionaryIdeologicalWar]] - universal liberty translated into armed expansion and contested liberation.
+- [[FlightToVarennes]] - exposed royal rejection that made republicanism and wider suspicion newly credible.
+- [[ChampDeMarsMassacre]] - rupture in which revolutionary authority used armed force against revolutionary petitioners.

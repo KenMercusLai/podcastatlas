@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [503. The French Revolution: Bloodbath in Paris (Part 1)](sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194.md) — The Rest Is History episode on Varennes, the Champ de Mars massacre, constitutional-monarchist stabilization, revolutionary suspicion, and the fragile 1791 settlement.
 - [Create Your Ideal Future Using Science-Based Protocols | Ari Wallach](sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305.md) — Huberman Lab interview on Long Path, transgenerational empathy, future-self continuity, cathedral thinking, protopian stories, and resistance to reactive presentism.
 - [VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！](sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu.md) — 这病说来话长 episode on prolonged sitting as a multi-system exposure, position changes, ankle pumps, urinary habits, lumbar posture, core capacity, compression boundaries, and symptom escalation.
 - [504. The French Revolution: War to the Death (Part 2)](sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708.md) — The Rest Is History episode on factional convergence for war, Girondin universalism, royal duplicity, Robespierre's armed-missionary warning, and the declaration against Austria.
@@ -2704,6 +2705,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Antoine Barnave](entities/AntoineBarnave.md) — Constitutional monarchist who tried to stabilize the Revolution through the compromised 1791 settlement.
+- [Champ de Mars Massacre](entities/ChampDeMarsMassacre.md) — July 1791 rupture in which revolutionary authorities fired on a republican petition gathering.
+- [Cordeliers Club](entities/CordeliersClub.md) — Radical club that helped turn Varennes into a mass republican petition campaign.
+- [Feuillant Club](entities/FeuillantClub.md) — Constitutional-monarchist faction formed during the July 1791 Jacobin split.
+- [Flight to Varennes](entities/FlightToVarennes.md) — Failed royal escape that exposed rejection of the Revolution and destroyed trust in the crown.
+- [Jean Sylvain Bailly](entities/JeanSylvainBailly.md) — Paris mayor who declared martial law during the Champ de Mars confrontation.
 - [Ari Wallach](entities/AriWallach.md) — Futurist and educator presenting Long Path as transgenerational empathy, plural futures thinking, and telos.
 - [翁一鸣 / Weng Yiming](entities/WengYiming.md) — Source-scoped reproductive-medicine guest explaining prolonged sitting through interacting heat, pressure, stress, work habits, cycling, and position-change boundaries.
 - [莲莲 / Lianlian (Urology)](entities/LianlianUrology.md) — Source-scoped urology guest separating sitting from direct infection causation and emphasizing hygiene, breathable clothing, timely urination, and hydration context.
@@ -9878,7 +9885,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tobias Schmidt](entities/TobiasSchmidt.md) — German piano maker who built and tested the decapitation machine supervised by Antoine Louis.
 - [Nicolas-Jacques Pelletier](entities/NicolasJacquesPelletier.md) — Armed robber and first person officially executed by guillotine in April 1792.
 - [Girondins / 吉伦特派](entities/Girondins.md) — Moderate republican faction whose conflict with Jacobins and sympathy from Corday shape the episode's factional history.
-- [Jacobin Club / 雅各宾俱乐部](entities/JacobinClub.md) — Revolutionary club and factional milieu tied in episode 125 to Marat, Robespierre, Danton, virtue politics, and terror.
+- [Jacobin Club / 雅各宾俱乐部](entities/JacobinClub.md) — Broad constitutional club that survived the Feuillant split and later became associated with radical republicanism, virtue politics, and terror.
 - [Maximilien Robespierre / 罗伯斯庇尔](entities/MaximilienRobespierre.md) — Revolutionary leader whose arc runs from pre-revolutionary death-penalty skepticism to regicide, insurrection, and terror politics.
 - [Georges Danton / 丹东](entities/GeorgesDanton.md) — Radical organizer and emergency leader whose rise joined the August insurrection, justice ministry, September crisis, and later public-safety government.
 - [Jacques-Louis David / 雅克-路易·大卫](entities/JacquesLouisDavid.md) — Revolutionary painter whose The Death of Marat becomes the episode's case in martyrdom image-making.

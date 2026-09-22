@@ -10,6 +10,7 @@ sources:
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
   - 505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
+  - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -22,11 +23,11 @@ Maximilien Robespierre was a leading Montagnard revolutionary who opposed evacua
 
 ## Current Profile
 
-The sources connect Robespierre's virtue-centered politics to sharp changes in war, punishment, and emergency. In 1785 he preferred abolition and argued that any retained death penalty should be swift and merciful. In late 1791 and early 1792 he opposed the Girondin war program, rejected the American analogy, warned that foreign peoples would resist armed missionaries, and predicted that expansionary war might destroy the Revolution or produce a Caesar-like strongman. By September he insisted that Paris stand rather than evacuate, while the sources reject a proven direct order from him for the prison killings. He later defended extraordinary violence, argued that Louis must die for the homeland, opposed female suffrage, called for insurrection in May 1793, and entered the Committee of Public Safety.
+The sources connect Robespierre's virtue-centered politics to sharp changes in war, punishment, and emergency. In 1785 he preferred abolition and argued that any retained death penalty should be swift and merciful. After [[FlightToVarennes|Varennes]], he warned that the Champ de Mars rally could furnish moderates with a pretext for repression; the [[ChampDeMarsMassacre|massacre]] made that tactical judgment look prescient as the Feuillants left the Jacobins and he gained popular credibility. In late 1791 and early 1792 he opposed the Girondin war program, rejected the American analogy, warned that foreign peoples would resist armed missionaries, and predicted that expansionary war might destroy the Revolution or produce a Caesar-like strongman. By September he insisted that Paris stand rather than evacuate, while the sources reject a proven direct order from him for the prison killings. He later defended extraordinary violence, argued that Louis must die for the homeland, opposed female suffrage, called for insurrection in May 1793, and entered the Committee of Public Safety.
 
 ## Key Characteristics
 
-- He moved from an abolitionist or mercy-oriented penal position toward revolutionary killing framed through virtue, sincerity, and moral struggle against enemies.
+- He combined a reputation for incorruptible virtue with tactical caution at Champ de Mars and an increasingly binary language of patriots, corruption, and conspiracy.
 - He opposed the 1792 war as expansionary armed mission and warned that military emergency could produce dictatorship.
 - He opposed Girondin proposals to abandon Paris during the Prussian invasion.
 - He knew the September Massacres were occurring, but the source does not establish that he commanded them.
@@ -42,6 +43,7 @@ The sources connect Robespierre's virtue-centered politics to sharp changes in w
 
 ### Opposition to revolutionary war
 
+- [[503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194]] describes his warning against the Champ de Mars rally, survival of the Jacobin split, popular acclaim, and attacks on Barnave and the Feuillants.
 - [[504-the-french-revolution-war-to-the-death-part-2-glt3201191708]] records his armed-missionary warning, rejection of the American precedent, and prediction of a Caesar or Cromwell.
 
 ### Invasion and the September Massacres
@@ -62,6 +64,7 @@ The sources connect Robespierre's virtue-centered politics to sharp changes in w
 
 - The sources do not prove that Robespierre directed the September prison killings.
 - His warning is unusually prescient in retrospect, but it does not make Napoleon's rise inevitable or validate all of Robespierre's internal-enemy suspicions.
+- Tactical accuracy about the Champ de Mars repression does not validate the source's broader characterization of his conspiratorial worldview.
 - One 1785 position does not establish an unchanged lifelong program or erase his later support for regicide and extraordinary violence.
 - Refusing evacuation during invasion is not by itself evidence of support for every act that followed in Paris.
 - The sequence ends at his ascent and does not cover his full record during the Terror.
@@ -71,6 +74,7 @@ The sources connect Robespierre's virtue-centered politics to sharp changes in w
 
 - Added his opposition to war as an armed mission likely to strengthen counterrevolution or military dictatorship.
 - His prescience about external war now sits beside, rather than erasing, his later emergency and internal-enemy politics.
+- The profile now begins his revolutionary rise in the post-Varennes split, when tactical caution and incorruptible self-presentation reinforced one another.
 
 ## Relationships
 
@@ -85,3 +89,5 @@ The sources connect Robespierre's virtue-centered politics to sharp changes in w
 - [[CapitalPunishmentRetributionProblem]] - wider death-penalty question raised by his early abolitionist position and later support for execution.
 - [[GuillotineReformSpectacleParadox]] - penal transition contemporaneous with his movement from mercy argument to revolutionary necessity.
 - [[RevolutionaryIdeologicalWar]] - program he opposed before later supporting revolutionary emergency measures.
+- [[AntoineBarnave]] - constitutional-monarchist opponent he denounced as corrupted by court influence.
+- [[ChampDeMarsMassacre]] - repression he warned the planned rally could enable.
