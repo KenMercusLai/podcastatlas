@@ -7,12 +7,13 @@ sources:
   - 124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361
   - zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf
   - zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4
-last_updated: 2026-08-30
+  - 502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222
+last_updated: 2026-09-23
 ---
 
 ## Overview
 
-The Roman Empire / 罗马帝国 now appears in the wiki from three directions: internally, as the imperial order emerging after the [[RomanRepublic|Roman Republic]] crisis and [[CaesarAssassination|Caesar's assassination]]; externally, as [[DaQin|Da Qin]], the far-western target of [[GanYingEasternHan|Gan Ying]]'s Eastern Han mission; and laterally, as the western endpoint of Hanji 764's qualified Hunnic and Gothic pressure sequence.
+The Roman Empire / 罗马帝国 appears in the wiki as the imperial order emerging after the [[RomanRepublic|Roman Republic]] crisis, the far-western [[DaQin|Da Qin]] sought by [[GanYingEasternHan|Gan Ying]], the western endpoint of a qualified Hunnic and Gothic pressure sequence, and the strategic system that conquered yet ultimately limited its northern reach in [[RomanBritain]].
 
 ## Current Profile
 
@@ -22,15 +23,17 @@ Hanji 771 adds the outside-distance layer. The episode identifies Da Qin with th
 
 Hanji 764 adds a very different external layer. The episode associates [[NorthernXiongnuLateHan|Northern Xiongnu]] westward movement after Dou Xian's campaign with European Huns, then presents Hunnic attacks as pushing Gothic groups into Roman space and increasing pressure on the empire. [[AttilaTheHun|Attila]] appears as the culturally remembered late Hunnic figure, while the source keeps the Northern-Xiongnu-to-Hun chain qualified rather than settled.
 
+Episode 502 adds the provincial-frontier layer. Britain shows the empire joining legions, fleets, forts, roads, towns, census-taking, taxation, administrative restraint, and elite cultural incorporation through [[RomanProvincialConsolidation]]. [[GnaeusJuliusAgricola|Agricola]] reaches Mount Graupius and establishes Inchtuthil as a prospective northern fortress, but the Danubian crisis pulls resources toward a more important theater. Imperial power is therefore expansive without being unlimited: symbolic geographic achievement remains subordinate to allocation across competing frontiers.
+
 ## Key Characteristics
 
 - Imperial order that emerges after the late Roman Republic's institutional crisis.
 - Political aftermath showing that tyrannicide can remove a ruler without restoring the institutions that constrained one-person rule.
 - Far-western polity identified by Hanji 771 with Da Qin in Eastern Han geographical knowledge.
-- Target of Gan Ying's mission but not directly reached in the current Han source.
-- Known to Emperor He's court through Parthian-mediated route and description before the later source-scoped envoy notice.
+- Target of Gan Ying's mission but not directly reached; known to Emperor He's court through Parthian-mediated reports before a later source-scoped envoy notice.
 - Western endpoint of a qualified migration-pressure sequence from steppe displacement to Hunnic and Gothic pressure.
-- Bridges the wiki's Roman political-history branch with its Eastern Han Western Regions and route-knowledge branch.
+- Provincial system that combines military infrastructure, fiscal administration, urbanization, and local-elite incorporation.
+- Strategic order whose frontier claims remain constrained by resource competition across the empire.
 
 ## Evidence
 
@@ -41,16 +44,18 @@ Hanji 764 adds a very different external layer. The episode associates [[Norther
 - Later contact notice: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says a later Da Qin/Roman envoy reaches Luoyang under the emperor identified by the host as Marcus Aurelius.
 - Hunnic and Gothic pressure: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] describes Hunnic attacks on Gothic groups and the resulting pressure on Rome.
 - Attila memory and caveat: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] presents Attila as a later remembered Hunnic figure while cautioning that the Northern-Xiongnu-to-Rome chain remains an association rather than settled proof.
+- British provincial consolidation: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] links forts, roads, fleets, towns, census-taking, taxation, administrative restraint, and elite Romanization to durable rule.
+- Frontier allocation: [[502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222]] says the Danubian crisis caused the withdrawal of a legion and the abandonment of permanent occupation in Caledonia.
 
 ## Qualifications
 
-This page is not a complete Roman Empire history. The Caesar source covers the transition from republic to empire, Hanji 771 covers Han-side naming and mediated contact, and Hanji 764 covers a late-antique pressure narrative through the source's historical comparison. The page treats Da Qin as the source's Roman Empire identification without using it to settle every historical-geography debate about the term or Gan Ying's route. It also treats the Northern Xiongnu, European Huns, Goths, and Rome sequence as a qualified source association, not as proof of direct causation for Rome's fall.
+This page is not a complete Roman Empire history. The Caesar source covers the transition from republic to empire, Hanji 771 covers Han-side naming and mediated contact, Hanji 764 covers a late-antique pressure narrative, and episode 502 covers one British conquest phase. The page treats Da Qin as the source's Roman Empire identification without settling every route debate, keeps the Northern-Xiongnu-to-Rome chain qualified, and does not treat temporary Roman penetration into Caledonia as permanent conquest of all Britain. Tacitus remains an interested literary source for Agricola's governorship.
 
 ## What Changed
 
-- Added Hanji 764 as a qualified Hunnic and Gothic pressure layer, separate from the Han-side Da Qin route-knowledge layer.
-- Migrated the page to the synthesis-v1 entity schema while preserving the Caesar source as the first evidence item.
-- Added Hanji 771 as the Han-side Da Qin, Gan Ying mission, and mediated-contact layer.
+- Added Britain as a provincial-governance and frontier-allocation case.
+- Distinguished symbolic northern reach from durable occupation and empire-wide strategic priority.
+- Added infrastructure, fiscal legibility, and elite incorporation as mechanisms of imperial rule.
 
 ## Relationships
 
@@ -65,3 +70,7 @@ This page is not a complete Roman Empire history. The Caesar source covers the t
 - [[NorthernXiongnuLateHan|北匈奴]] - eastern starting point in Hanji 764's qualified migration-pressure association.
 - [[AttilaTheHun|阿提拉]] - Hunnic leader used as the remembered late pressure figure in Hanji 764.
 - [[TransEurasianMigrationCascade|欧亚迁徙连锁]] - concept that keeps the Hunnic/Gothic/Roman pressure chain visible with its evidentiary caveat.
+- [[RomanBritain]] - province showing how conquest, administration, and strategic withdrawal interacted.
+- [[GnaeusJuliusAgricola|Agricola]] - governor associated with Rome's furthest northern British campaign.
+- [[RomanProvincialConsolidation]] - mechanism joining military, fiscal, urban, and cultural rule.
+- [[AncientImperialCritiqueLimits]] - boundary for interpreting Roman criticism of empire.

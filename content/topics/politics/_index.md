@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2636
+topic_total_pages: 2637
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3052,6 +3052,9 @@ topic_concepts:
   - key: "RobotaxiHybridDeployment"
     title: "Robotaxi Hybrid Deployment"
     url: "/wiki/concepts/robotaxihybriddeployment/"
+  - key: "RomanProvincialConsolidation"
+    title: "Roman Provincial Consolidation"
+    url: "/wiki/concepts/romanprovincialconsolidation/"
   - key: "RoyalExecutionLegitimacy"
     title: "Royal Execution Legitimacy"
     url: "/wiki/concepts/royalexecutionlegitimacy/"

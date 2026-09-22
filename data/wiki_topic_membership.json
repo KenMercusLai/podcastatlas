@@ -1747,6 +1747,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194": [
     {
       "key": "history",
@@ -8568,6 +8575,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "AncientImperialCritiqueLimits": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "AncientLargeArmyCommandLimits": [
@@ -60705,6 +60719,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "RomanProvincialConsolidation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "RomanceOfTheThreeKingdoms": [
     {
       "key": "culture",
@@ -68572,6 +68598,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "Tacitus": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "TacticalCredibilityCost": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7897
+wiki_total_pages: 7899
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "AncientGreekHonorCommunity"
     title: "Ancient Greek Honor Community"
     url: "/wiki/concepts/ancientgreekhonorcommunity/"
+  - key: "AncientImperialCritiqueLimits"
+    title: "Ancient Imperial Critique Limits"
+    url: "/wiki/concepts/ancientimperialcritiquelimits/"
   - key: "AncientLargeArmyCommandLimits"
     title: "Ancient Large-Army Command Limits / 古代大兵团指挥极限"
     url: "/wiki/concepts/ancientlargearmycommandlimits/"

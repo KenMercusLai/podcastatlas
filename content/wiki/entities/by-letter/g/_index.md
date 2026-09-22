@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10532
+wiki_total_pages: 10535
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "GMICloud"
     title: "GMI Cloud"
     url: "/wiki/entities/gmicloud/"
+  - key: "GnaeusJuliusAgricola"
+    title: "Gnaeus Julius Agricola"
+    url: "/wiki/entities/gnaeusjuliusagricola/"
   - key: "GnaeusOctaviusRomanConsul"
     title: "Gnaeus Octavius / 格奈乌斯·屋大维"
     url: "/wiki/entities/gnaeusoctaviusromanconsul/"

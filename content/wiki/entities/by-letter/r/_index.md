@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10532
+wiki_total_pages: 10535
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "RomainRolland"
     title: "Romain Rolland / 罗曼·罗兰"
     url: "/wiki/entities/romainrolland/"
+  - key: "RomanBritain"
+    title: "Roman Britain"
+    url: "/wiki/entities/romanbritain/"
   - key: "RomanEmpire"
     title: "Roman Empire / 罗马帝国"
     url: "/wiki/entities/romanempire/"

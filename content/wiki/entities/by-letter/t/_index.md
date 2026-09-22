@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10532
+wiki_total_pages: 10535
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "Tableau"
     title: "Tableau"
     url: "/wiki/entities/tableau/"
+  - key: "Tacitus"
+    title: "Tacitus"
+    url: "/wiki/entities/tacitus/"
   - key: "TacoBell"
     title: "Taco Bell"
     url: "/wiki/entities/tacobell/"

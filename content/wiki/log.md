@@ -21508,3 +21508,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)
+
+Added source `502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222`; created `RomanBritain`, `GnaeusJuliusAgricola`, `Tacitus`, `RomanProvincialConsolidation`, and `AncientImperialCritiqueLimits`; updated `RomanEmpire` and the index. Core synthesis: Roman Britain was made through forts, roads, fleet logistics, towns, taxation, administrative restraint, and elite incorporation as well as battle, while the abandonment of Caledonia shows that symbolic conquest remained subordinate to empire-wide strategic priorities. No settled contradiction found; Tacitus is both indispensable and interested, Mount Graupius details remain uncertain, and his critique of corruption and luxury is not treated as modern humanitarian anti-imperialism. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

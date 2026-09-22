@@ -7350,6 +7350,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/ancientgreekhonorcommunity/"
     },
+    "AncientImperialCritiqueLimits": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1970351222 [GLT1970351222].md",
+          "key": "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222",
+          "show": "The Rest Is History",
+          "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
+          "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/ancientimperialcritiquelimits/"
+    },
     "AncientSilkRoad": {
       "episode_count": 1,
       "show_count": 1,
@@ -50617,6 +50633,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/glycemicresponsetoolboundary/"
+    },
+    "GnaeusJuliusAgricola": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1970351222 [GLT1970351222].md",
+          "key": "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222",
+          "show": "The Rest Is History",
+          "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
+          "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/gnaeusjuliusagricola/"
     },
     "GnaeusOctaviusRomanConsul": {
       "episode_count": 1,
@@ -107609,10 +107641,26 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
     },
+    "RomanBritain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1970351222 [GLT1970351222].md",
+          "key": "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222",
+          "show": "The Rest Is History",
+          "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
+          "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/romanbritain/"
+    },
     "RomanEmpire": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -107634,9 +107682,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》764丨他为了活命，竟间接灭了罗马帝国？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4/"
+        },
+        {
+          "episode_file": "GLT1970351222 [GLT1970351222].md",
+          "key": "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222",
+          "show": "The Rest Is History",
+          "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
+          "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/romanempire/"
     },
     "RomanExpansionMoralAnxiety": {
@@ -107668,6 +107723,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/romanexpansionmoralanxiety/"
+    },
+    "RomanProvincialConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1970351222 [GLT1970351222].md",
+          "key": "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222",
+          "show": "The Rest Is History",
+          "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
+          "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/romanprovincialconsolidation/"
     },
     "RomanRepublic": {
       "episode_count": 5,
@@ -121149,6 +121220,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/tacitgratituderestraint/"
+    },
+    "Tacitus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1970351222 [GLT1970351222].md",
+          "key": "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222",
+          "show": "The Rest Is History",
+          "title": "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)",
+          "url": "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/tacitus/"
     },
     "TacticalCredibilityCost": {
       "episode_count": 5,

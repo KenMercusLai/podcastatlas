@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)](sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222.md) — The Rest Is History episode on Agricola's campaigns, Roman provincial consolidation, Caledonian withdrawal, and the limits of Tacitus's imperial critique.
 - [503. The French Revolution: Bloodbath in Paris (Part 1)](sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194.md) — The Rest Is History episode on Varennes, the Champ de Mars massacre, constitutional-monarchist stabilization, revolutionary suspicion, and the fragile 1791 settlement.
 - [Create Your Ideal Future Using Science-Based Protocols | Ari Wallach](sources/create-your-ideal-future-using-science-based-protocols-ari-wallach-scim9541341305.md) — Huberman Lab interview on Long Path, transgenerational empathy, future-self continuity, cathedral thinking, protopian stories, and resistance to reactive presentism.
 - [VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！](sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu.md) — 这病说来话长 episode on prolonged sitting as a multi-system exposure, position changes, ankle pumps, urinary habits, lumbar posture, core capacity, compression boundaries, and symptom escalation.
@@ -2705,6 +2706,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [511. America in '68: George Wallace, The First Donald Trump (Part 4)](sources/511-america-in-68-george-wallace-the-first-donald-trump-part-4-glt8855008412.md) — The Rest Is History episode on Wallace's segregationist record, national populist translation, rally performance, Electoral College leverage strategy, and realignment legacy.
 
 ## Entities
+- [Roman Britain](entities/RomanBritain.md) — Roman province shaped by military occupation, infrastructure, taxation, elite incorporation, and a strategically reversible northern frontier.
+- [Gnaeus Julius Agricola](entities/GnaeusJuliusAgricola.md) — Governor who combined Welsh and Caledonian campaigns with civil administration in Roman Britain.
+- [Tacitus](entities/Tacitus.md) — Agricola's son-in-law and biographer, used as both a key source and a morally ambivalent interpreter of empire.
 - [Antoine Barnave](entities/AntoineBarnave.md) — Constitutional monarchist who tried to stabilize the Revolution through the compromised 1791 settlement.
 - [Champ de Mars Massacre](entities/ChampDeMarsMassacre.md) — July 1791 rupture in which revolutionary authorities fired on a republican petition gathering.
 - [Cordeliers Club](entities/CordeliersClub.md) — Radical club that helped turn Varennes into a mass republican petition campaign.
@@ -13247,6 +13251,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 ## Concepts
+- [Roman Provincial Consolidation](concepts/RomanProvincialConsolidation.md) — Conversion of battlefield access into durable rule through infrastructure, administration, extraction, and elite incorporation.
+- [Ancient Imperial Critique Limits](concepts/AncientImperialCritiqueLimits.md) — Boundary for reading Roman moral criticism without treating it as modern humanitarian anti-imperialism.
 - [Long Path Framework](concepts/LongPathFramework.md) — Long-horizon decision framework joining transgenerational empathy, plural futures thinking, and telos.
 - [Transgenerational Empathy](concepts/TransgenerationalEmpathy.md) — Compassionate understanding across earlier selves, ancestors, future selves, and descendants without excusing harm.
 - [Future-Self Continuity](concepts/FutureSelfContinuity.md) — Felt connection to a later self that makes delayed consequences more concrete in present decisions.

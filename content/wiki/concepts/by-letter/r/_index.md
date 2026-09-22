@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7897
+wiki_total_pages: 7899
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "RomanExpansionMoralAnxiety"
     title: "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑"
     url: "/wiki/concepts/romanexpansionmoralanxiety/"
+  - key: "RomanProvincialConsolidation"
+    title: "Roman Provincial Consolidation"
+    url: "/wiki/concepts/romanprovincialconsolidation/"
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"

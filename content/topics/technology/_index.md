@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3118
+topic_total_pages: 3119
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3616,6 +3616,9 @@ topic_concepts:
   - key: "RoboticsSimulationEvaluation"
     title: "Robotics Simulation Evaluation"
     url: "/wiki/concepts/roboticssimulationevaluation/"
+  - key: "RomanProvincialConsolidation"
+    title: "Roman Provincial Consolidation"
+    url: "/wiki/concepts/romanprovincialconsolidation/"
   - key: "RoutineAgentAutomation"
     title: "Routine Agent Automation"
     url: "/wiki/concepts/routineagentautomation/"
