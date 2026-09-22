@@ -10,8 +10,9 @@ sources:
   - 564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070
   - 563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819
   - 562-peter-the-great-the-rise-of-russia-part-1-glt5535116202
+  - 492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-09-23
 ---
 
 # Peter the Great / 彼得大帝
@@ -29,6 +30,8 @@ In 1689, failed Crimean campaigns and a mutual coup scare fracture Sophia's coal
 The Great Embassy episode supplies the formative prewar layer. Peter's youthful circle combines military experiment, technical play, foreign sociability, religious parody, drinking, and cruelty. Traveling as Peter Mikhailov, he seeks anti-Ottoman allies while working in Dutch and English shipyards, inspecting science, industry, coinage, collections, and government, and recruiting specialists. His admiration for open English political speech stops short of accepting limits on Russian monarchy.
 
 On returning, Peter turns selected foreign practices into [[CoerciveWesternization|visible commands]] over beards, clothing, calendars, coinage, marriage, and elite conduct. He uses the Streltsy revolt to justify torture, public execution, Sophia's final confinement, and abolition of the corps. The encounter with [[AugustusTheStrong|Augustus the Strong]], followed by an Ottoman truce, redirects his strategic attention toward Sweden and the Baltic.
+
+This return also sharpened the bodily politics of reform. In an Orthodox setting where beards could be tied to prophets, apostles, Christ, and divinely ordered manhood, Peter's personal shaving of boyars and later beard tax made the face a visible administrative boundary. A payment token permitted the beard while confirming the state's power to classify, tax, and stigmatize it.
 
 The Bering source carries that maritime program eastward. Peter's European shipbuilding study, Baltic war, Saint Petersburg construction, and deathbed route instruction connect the western maritime project to [[VitusBering]], [[FirstKamchatkaExpedition]], and later [[RussianNorthPacificExpansion]]. Ambition becomes durable only through the difficult administrative and logistical machinery needed to move people and materials across Siberia.
 
@@ -56,6 +59,7 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 - Practical formation and seizure of power: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]] links mock regiments, craft, geometry, sailing, and foreign officers to the 1689 collapse of Sophia's coalition.
 - Prewar formation and European learning: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] connects Peter's technical curiosity, shipyard work, scientific visits, specialist recruitment, and diplomatic ambitions through the Great Embassy.
 - Coercive return and strategic pivot: [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]] links beard and clothing rules, calendar and coinage reform, Eudokia's removal, the Streltsy purge, and Augustus's anti-Swedish proposal.
+- Beard policy as bodily governance: [[492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678]] connects Orthodox religious meaning, Peter's personal shaving of boyars, the beard tax, and payment tokens.
 - Maritime and eastern program: [[120-lanhudao-weida-shiye-zhong-de-yexin-yu-xianshi-772998218]] connects Peter's sea-outlet anxiety, shipbuilding study, Baltic position, Saint Petersburg, and route instruction to the Bering expeditions.
 - Defeat, reform, and Baltic foothold: [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]] connects Narva to military rebuilding and links the Neva conquests, coercive construction of Saint Petersburg, and refusal to surrender the city.
 - Adaptive campaign leadership: [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]] connects Peter's early anxiety to withdrawal, supply denial, exploitation of the gap at Lesnaya, and rapid retaliation at Baturin.
@@ -67,15 +71,12 @@ The later-reign episode broadens that profile into [[ModernizingAutocracy]]. Pet
 
 ## Qualifications
 
-The seven sources are narrative podcasts with different emphases: childhood and succession, early rule and European travel, exploration and extraction, the war's opening and reform shock, invasion and logistics, battlefield and geopolitical change, and court culture with dynastic tragedy. The causal weight of childhood trauma, troop figures, speeches, medical speculation, court anecdotes, diplomatic and personal motives, exact Streltsy execution details, Catherine's early biography, construction mortality, the scale and purpose of violence at Baturin, exact responsibility for Alexei's death, reform effectiveness, and later uses of Peter remain source-scoped. Modernization here does not mean calm command, uninterrupted victory, full meritocracy, administrative coherence, or political liberalization.
+The eight sources are narrative podcasts with different emphases: childhood and succession, early rule and European travel, beard history, exploration and extraction, the war's opening and reform shock, invasion and logistics, battlefield and geopolitical change, and court culture with dynastic tragedy. The causal weight of childhood trauma, troop figures, speeches, medical speculation, court anecdotes, diplomatic and personal motives, exact Streltsy execution details, Catherine's early biography, construction mortality, the scale and purpose of violence at Baturin, exact responsibility for Alexei's death, reform effectiveness, and later uses of Peter remain source-scoped. The beard episode's religious meanings, anecdotes, and policy details deepen rather than independently verify the Great Embassy episode. Modernization here does not mean calm command, uninterrupted victory, full meritocracy, administrative coherence, or political liberalization.
 
 ## What Changed
 
-- Added the 1682 succession violence, Sophia's regency, Peter's practical education, and the 1689 transfer of effective power.
-- Added the Great Embassy, selective foreign learning, coercive cultural reform, Streltsy destruction, and prewar Baltic pivot as the formative layer of Peter's program.
-- Added Peter's adaptation from early anxiety to withdrawal, supply denial, exploitation of Swedish separation, and rapid response to Mazepa.
-- Connected Lesnaya and Baturin to the material and political isolation of Charles before Poltava.
-- Extended the trajectory backward to Narva, where military humiliation exposes the limits of superficial Westernization and accelerates reform.
+- Clarified that compulsory shaving operated within Orthodox religious meaning, not merely generic fashion reform.
+- Added the beard tax and payment token as mechanisms joining cultural command to fiscal and administrative classification.
 
 ## Relationships
 
@@ -97,6 +98,7 @@ The seven sources are narrative podcasts with different emphases: childhood and 
 - [[CatherineI]] - captive transformed into Peter's partner within the war-shaped court system.
 - [[GreatEmbassy]] - diplomatic and technical apprenticeship that precedes Peter's imposed reforms.
 - [[CoerciveWesternization]] - selective borrowing enforced through bodily, cultural, and institutional command.
+- [[FacialHairAsSocialCode]] - wider history that makes Peter's beard rules legible as a reversal of sacred and political meaning.
 - [[Streltsy]] - armed institution whose revolt Peter turns into a purge and abolition.
 - [[MoscowUprising1682]] - childhood succession crisis whose violence shaped Peter's political formation.
 - [[SophiaAlekseyevna]] - half-sister and regent displaced when Peter's coalition prevailed in 1689.

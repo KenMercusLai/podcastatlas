@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1944
+topic_total_pages: 1945
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678"
+    title: "492. The War on Beards: From Peter the Great to John Lennon (Part 2)"
+    url: "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
   - key: "493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260"
     title: "493. Lee Miller: Exposing the Horrors of World War Two"
     url: "/wiki/sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260/"

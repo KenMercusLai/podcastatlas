@@ -21447,6 +21447,10 @@ Added source `vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | 492. The War on Beards: From Peter the Great to John Lennon (Part 2)
+
+Added source `492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678`; created `FacialHairAsSocialCode`; updated `HairAsPoliticalIdentity`, `PeterTheGreat`, `TheBeatles`, and the index. Core synthesis: facial hair is a reversible social code whose religious, masculine, military, medical, bureaucratic, and countercultural meanings depend on prevailing norms, material grooming technology, media, and institutional power. No settled contradiction found; the Peter material deepens the existing coercive-Westernization account, while the Raglan attribution, medical claims, prevalence and survey figures, motives, and broad gender explanations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | How to Deal With High Conflict People | Bill Eddy
 
 Added source `how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828`; created `BillEddy`, `HighConflictBehaviorPattern`, and `HighConflictCommunicationToolkit`; updated `EmotionalContagion`, `PopularNPDDiscourse`, and `RelationshipConflictRepair`; and updated the index. Core synthesis: recurring high-conflict behavior is best treated as an observable pattern of blame, unmanaged emotion, all-or-nothing thinking, extreme conduct, and failed resolution rather than a casual diagnosis. Eddy's CARS, EAR, BIFF, and consequence-backed limits shift the response from forcing insight or relitigating the past toward concise contact, choices, boundaries, and safety-aware disengagement. No settled contradiction found; prevalence and diagnostic-overlap figures, institutional generalizations, family-size theory, social-media and school-shooter claims, and named examples remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21639,6 +21643,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 494. Evita: Birth of a Legend (Part 1)
 
 Added source `494-evita-birth-of-a-legend-part-1-glt9994303396`; created `MelodramaticPoliticalFormation`; updated `EvaPeron` and the index. Core synthesis: illegitimacy stigma, exclusion at her father's funeral, provincial class judgment, poverty, and Buenos Aires inequality plausibly shaped Eva's sensitivity to humiliation, while commercial radio melodrama supplied an emotional repertoire of suffering, sacrifice, love, and ascent that later became politically usable. The episode does not treat performance as proof of insincerity or early resentment as a settled ideology. It rejects the brothel, prostitution, and Magaldi-mistress stories as unsupported; birth details, funeral choreography, early-career incidents, private motives, and the causal force of childhood experience remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

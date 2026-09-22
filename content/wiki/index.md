@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [492. The War on Beards: From Peter the Great to John Lennon (Part 2)](sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678.md) — The Rest Is History episode on facial hair as a changing code of religion, masculinity, military prestige, hygiene, discipline, technology, and counterculture.
 - [VOL.132保住你钱包！避雷那些坑人的口腔护理产品和伪科普](sources/vol-132-bao-zhu-ni-qian-bao-bi-lei-na-xie-keng-ren-de-kou-qiang-hu-li-chan-pin-he-wei-ke-pu-lmjeye3oacbawtn3omsskuqeubeh.md) — 口腔医生宾哥解释全生命周期预防，并划清牙膏、修补、美白、漱口水、机构选择与专业治疗的边界。
 - [493. Lee Miller: Exposing the Horrors of World War Two](sources/493-lee-miller-exposing-the-horrors-of-world-war-two-glt1929673260.md) — The Rest Is History episode on Lee Miller's surrealist formation, wartime reporting, Dachau photographs, postwar collapse, and rediscovery.
 - [494. Evita: Birth of a Legend (Part 1)](sources/494-evita-birth-of-a-legend-part-1-glt9994303396.md) — The Rest Is History episode on Eva Perón's childhood stigma, class formation, migration to Buenos Aires, acting struggle, and radio melodrama as political preparation.
@@ -19189,6 +19190,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hair As Biosocial Signal](concepts/HairAsBiosocialSignal.md) — Frame for hair as evolved body structure, social surface, identity marker, ritual object, and evidence trace.
 - [Hair Loss And Follicle Cycle](concepts/HairLossFollicleCycle.md) — Medical frame separating visible shedding from follicle growth, rest, miniaturization, damage, and recovery.
 - [Hair As Political Identity](concepts/HairAsPoliticalIdentity.md) — Pattern where queues, shaved heads, beards, and hairstyles become signs of obedience, rebellion, ritual, or humiliation.
+- [Facial Hair As Social Code](concepts/FacialHairAsSocialCode.md) — Framework for beards, mustaches, and shaving as reversible signals shaped by religion, institutions, media, medicine, and grooming technology.
 - [Gendered Hair Regulation](concepts/GenderedHairRegulation.md) — Gendered policing of hair, hairlessness, beauty, illness visibility, body shame, and screen/art representation.
 - [Forensic Hair Evidence](concepts/ForensicHairEvidence.md) — Hair as criminal and historical evidence, useful for traces but risky when visual comparison is overclaimed.
 - [Emotional Brand Relationship](concepts/EmotionalBrandRelationship.md) — Consumer-brand pattern where feeling, memory, identity, and return experience make the product matter beyond function.

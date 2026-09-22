@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7929
+wiki_total_pages: 7930
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "FaceToFaceCreativeExchange"
     title: "Face-to-Face Creative Exchange / 面对面创造性交流"
     url: "/wiki/concepts/facetofacecreativeexchange/"
+  - key: "FacialHairAsSocialCode"
+    title: "Facial Hair As Social Code"
+    url: "/wiki/concepts/facialhairassocialcode/"
   - key: "FactFutureAssetPricing"
     title: "Fact/Future Asset Pricing"
     url: "/wiki/concepts/factfutureassetpricing/"

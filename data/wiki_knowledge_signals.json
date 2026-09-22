@@ -41888,6 +41888,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/facetofacecreativeexchange/"
     },
+    "FacialHairAsSocialCode": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5427522678 [GLT5427522678].md",
+          "key": "492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678",
+          "show": "The Rest Is History",
+          "title": "492. The War on Beards: From Peter the Great to John Lennon (Part 2)",
+          "url": "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/facialhairassocialcode/"
+    },
     "FactoryBasedDeterrence": {
       "episode_count": 1,
       "show_count": 1,
@@ -54294,6 +54310,36 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/hainanairlines/"
+    },
+    "HairAsPoliticalIdentity": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "93.聊聊头发：秃了，就会变强吗？ [718794489].md",
+          "key": "93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489",
+          "show": "蜜獾吃书",
+          "title": "93.聊聊头发：秃了，就会变强吗？",
+          "url": "/wiki/sources/93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_badf7b36a0fd8b0e507fb0f6302a1df6_30631995 [default.mp3_ywr3ahjkcgo_badf7b36a0fd8b0e507fb0f6302a1df6_30631995].md",
+          "key": "how-black-hair-care-grew-black-power",
+          "show": "Planet Money",
+          "title": "How Black hair care grew Black power",
+          "url": "/wiki/sources/how-black-hair-care-grew-black-power/"
+        },
+        {
+          "episode_file": "GLT5427522678 [GLT5427522678].md",
+          "key": "492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678",
+          "show": "The Rest Is History",
+          "title": "492. The War on Beards: From Peter the Great to John Lennon (Part 2)",
+          "url": "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/hairaspoliticalidentity/"
     },
     "HaitianFlavoring": {
       "episode_count": 1,
@@ -97381,9 +97427,9 @@
       "url": "/wiki/entities/peterfankhauser/"
     },
     "PeterTheGreat": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "120.蓝狐岛：伟大事业中的雄心与现实 [772998218].md",
@@ -97433,9 +97479,16 @@
           "show": "The Rest Is History",
           "title": "562. Peter the Great: The Rise of Russia (Part 1)",
           "url": "/wiki/sources/562-peter-the-great-the-rise-of-russia-part-1-glt5535116202/"
+        },
+        {
+          "episode_file": "GLT5427522678 [GLT5427522678].md",
+          "key": "492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678",
+          "show": "The Rest Is History",
+          "title": "492. The War on Beards: From Peter the Great to John Lennon (Part 2)",
+          "url": "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/peterthegreat/"
     },
     "PetitionRewardLoyaltySignal": {
@@ -124199,9 +124252,9 @@
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "8211241331_711602 [8211241331_711602].md",
@@ -124216,9 +124269,16 @@
           "show": "The Rest Is History",
           "title": "558. The Rolling Stones: Sex, Drugs and Rock ‘n’ Roll (Part 1)",
           "url": "/wiki/sources/558-the-rolling-stones-sex-drugs-and-rock-n-roll-part-1-glt1663902020/"
+        },
+        {
+          "episode_file": "GLT5427522678 [GLT5427522678].md",
+          "key": "492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678",
+          "show": "The Rest Is History",
+          "title": "492. The War on Beards: From Peter the Great to John Lennon (Part 2)",
+          "url": "/wiki/sources/492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/thebeatles/"
     },
     "TheCarrierBagTheoryOfFiction": {
