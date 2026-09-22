@@ -21415,6 +21415,10 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | 499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)
+
+Added source `499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726`; created `Commius`, `Cassivellaunus`, `Mandubracius`, `Trinovantes`, and `CaesarsBritishExpeditions`; updated `JuliusCaesar`, `RomanBritain`, `RomanConquestOfBritain`, and the index. Core synthesis: Caesar's 55 and 54 BC campaigns joined amphibious risk, intelligence gathering, British dynastic rivalry, client brokerage, captives, tribute promises, and Roman prestige, but produced no province; the durable conquest sequence therefore has a Caesarian prehistory without treating temporary penetration as occupation. No settled contradiction found; Caesar's simultaneous claims of British mystery and British support for Gaul are held as an internal tension, while force totals, landing sites, battle details, tribute, ethnography, resources, coinage, and British motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 503. The French Revolution: Bloodbath in Paris (Part 1)
 
 Added source `503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194`; created `AntoineBarnave`, `JeanSylvainBailly`, `ChampDeMarsMassacre`, `CordeliersClub`, `FeuillantClub`, and `FlightToVarennes`; updated `FrenchRevolution`, `LouisXVI`, `MarieAntoinette`, `MaximilienRobespierre`, `MarquisDeLafayette`, `JacobinClub`, `CrisisValidatedConspiracyPolitics`, `WartimeConstitutionalMonarchyCollapse`, and the index. Core synthesis: Varennes converted suspected royal bad faith into documented deception, the Champ de Mars massacre exposed revolutionary authority using force against revolutionary petitioners, and Barnave's restricted constitutional settlement began without the trust needed to survive later war. No settled contradiction found; the men beneath the altar, first shot, casualty estimates, crowd size, private motives, and some character judgments remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21552,6 +21556,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath
 
 Added source `how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885`; created `CharanRanganath`, `ContextualEpisodicMemory`, and `CuriosityDrivenMemoryEncoding`; updated `ReconstructiveMemory`, `CognitiveAging`, `ADHDAttentionControlModel`, `TaskSwitchingResidue`, `ModifiableDementiaRiskFactors`, `MemoryReconsolidationPsychiatry`, and the index. Core synthesis: memory serves present interpretation and future simulation through selective, context-bound reconstruction; curiosity and intention can change what is encoded, while task switching creates event boundaries and competing fragments; aging and dementia risk remain heterogeneous; and retrieval-based updating is possible but directionally uncertain. No settled contradiction found; BOLD activity is not direct dopamine measurement, and lifestyle, Alzheimer's-treatment, drug, psychedelic, inflammation, and animal-microbiome claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

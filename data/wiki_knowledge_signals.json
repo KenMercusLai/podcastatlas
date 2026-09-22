@@ -16059,6 +16059,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/cabinetexhaustionmanagement/"
     },
+    "CaesarsBritishExpeditions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/caesarsbritishexpeditions/"
+    },
     "CaffeineAdenosineSleepTiming": {
       "episode_count": 4,
       "show_count": 3,
@@ -18522,6 +18538,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/caseyhalpern/"
+    },
+    "Cassivellaunus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/cassivellaunus/"
     },
     "CastleBasedPrivateLordship": {
       "episode_count": 1,
@@ -24486,6 +24518,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/committeeofpublicsafety/"
+    },
+    "Commius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/commius/"
     },
     "CommodityTrapEscape": {
       "episode_count": 1,
@@ -68379,6 +68427,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/juliettebruce/"
     },
+    "JuliusCaesar": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
+          "key": "124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361",
+          "show": "蜜獾吃书",
+          "title": "124. 恺撒之死：历史的韵脚，是否已失效？",
+          "url": "/wiki/sources/124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361/"
+        },
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/juliuscaesar/"
+    },
     "JuliusKurfgen": {
       "episode_count": 1,
       "show_count": 1,
@@ -82478,6 +82549,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/mandatoryaiincidentinvestigation/"
+    },
+    "Mandubracius": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/mandubracius/"
     },
     "Mangshi": {
       "episode_count": 1,
@@ -107902,9 +107989,9 @@
       "url": "/wiki/concepts/romanalliedcitizenshipcrisis/"
     },
     "RomanBritain": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1970351222 [GLT1970351222].md",
@@ -107926,15 +108013,22 @@
           "show": "The Rest Is History",
           "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
           "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        },
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
         }
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/romanbritain/"
     },
     "RomanConquestOfBritain": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3137178317 [GLT3137178317].md",
@@ -107942,6 +108036,13 @@
           "show": "The Rest Is History",
           "title": "500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)",
           "url": "/wiki/sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317/"
+        },
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
         }
       ],
       "updated": "2026-09-23",
@@ -126502,6 +126603,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/tributesystemeconomicincentive/"
+    },
+    "Trinovantes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9770560726 [GLT9770560726].md",
+          "key": "499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726",
+          "show": "The Rest Is History",
+          "title": "499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)",
+          "url": "/wiki/sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/trinovantes/"
     },
     "TristanBuckmaster": {
       "episode_count": 1,

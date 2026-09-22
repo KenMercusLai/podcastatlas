@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [499. The Roman Conquest of Britain: Julius Caesar's Invasion (Part 1)](sources/499-the-roman-conquest-of-britain-julius-caesars-invasion-part-1-glt9770560726.md) — The Rest Is History episode on Caesar's 55–54 BC expeditions, amphibious limits, British client politics, imperial spectacle, and withdrawal without a province.
 - [500. The Roman Conquest of Britain: The Empire Strikes Back (Part 2)](sources/500-the-roman-conquest-of-britain-the-empire-strikes-back-part-2-glt3137178317.md) — The Rest Is History episode on Claudius's legitimacy needs, Verica's exile, Plautius's invasion, British collaboration and resistance, and the road from AD 43 to Anglesey.
 - [501. The Roman Conquest of Britain: Boudicca's Reign of Blood (Part 3)](sources/501-the-roman-conquest-of-britain-boudiccas-reign-of-blood-part-3-glt3128836892.md) — The Rest Is History episode on Iceni semi-autonomy, Roman annexation and abuse, Boudicca's revolt, urban destruction, alliance collapse, Roman victory, reprisals, and contested memory.
 - [Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver](sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274.md) — Huberman Lab interview on peptide and hormone-adjacent clinical practice, sourcing, experimental evidence, growth-hormone secretagogues, and NAD therapy claims.
@@ -2712,6 +2713,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 
 ## Entities
+- [Commius](entities/Commius.md) — Cross-Channel Atrebatic king who served Caesar as envoy, later joined Gallic resistance, and then ruled in southern Britain.
+- [Cassivellaunus](entities/Cassivellaunus.md) — Principal British opponent of Caesar's 54 BC expedition who retained power under a negotiated settlement.
+- [Mandubracius](entities/Mandubracius.md) — Exiled Trinovantian prince restored through Caesar's intervention against Cassivellaunus.
+- [Trinovantes](entities/Trinovantes.md) — Southeastern British polity whose alliance with Caesar turned his second expedition into an internal dynastic intervention.
 - [Claudius](entities/Claudius.md) — Roman emperor who used the AD 43 invasion of Britain to turn operational victory into imperial legitimacy.
 - [Aulus Plautius](entities/AulusPlautius.md) — Roman commander who led the AD 43 invasion and prepared Claudius's staged victory.
 - [Caratacus](entities/Caratacus.md) — Catuvellaunian leader who resisted the invasion and sustained opposition in Wales until AD 51.
@@ -2720,7 +2725,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Iceni](entities/Iceni.md) — Distinctive East Anglian polity whose precarious client autonomy ended in annexation, revolt, defeat, and direct Roman rule.
 - [Suetonius Paulinus](entities/SuetoniusPaulinus.md) — Roman governor whose force preservation and battlefield victory suppressed Boudicca before excessive reprisals endangered recovery.
 - [Craig Koniver](entities/CraigKoniver.md) — Physician guest presenting a performance-medicine approach to supervised peptides, NAD, mitochondrial support, and hormone-adjacent interventions.
-- [Roman Britain](entities/RomanBritain.md) — Roman province shaped by military occupation, infrastructure, taxation, elite incorporation, and a strategically reversible northern frontier.
+- [Roman Britain](entities/RomanBritain.md) — Roman province preceded by Caesar's temporary interventions and later shaped by occupation, infrastructure, taxation, elite incorporation, and a reversible northern frontier.
 - [Gnaeus Julius Agricola](entities/GnaeusJuliusAgricola.md) — Governor who combined Welsh and Caledonian campaigns with civil administration in Roman Britain.
 - [Tacitus](entities/Tacitus.md) — Agricola's son-in-law and biographer, used as both a key source and a morally ambivalent interpreter of empire.
 - [Antoine Barnave](entities/AntoineBarnave.md) — Constitutional monarchist who tried to stabilize the Revolution through the compromised 1791 settlement.
@@ -9915,7 +9920,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [François Jourgniac Saint-Méard](entities/FrancoisJourgniacSaintMeard.md) — Abbaye survivor whose account documents the massacres' selective, tribunal-like procedure.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
-- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander and dictator read by episode 124 as charismatic, clement, reckless, and caught in a personal-rule legitimacy crisis.
+- [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander who turned frontier reach into prestige before civil war and personal rule produced an unresolved legitimacy crisis.
 - [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Republican polity whose late crisis now runs through expansion, Gracchan violence, Marius, Italian citizenship exclusion, Sulla's march, proscriptions, dictatorship, reform attempt, Caesar, and imperial aftermath.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
@@ -13267,6 +13272,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Caesar's British Expeditions](concepts/CaesarsBritishExpeditions.md) — The 55–54 BC interventions understood as reconnaissance, client politics, extraction, and prestige without permanent occupation.
 - [Roman Conquest of Britain](concepts/RomanConquestOfBritain.md) — Prolonged process joining invasion, client politics, imperial spectacle, collaboration, colonization, and resistance.
 - [Boudiccan Revolt](concepts/BoudiccanRevolt.md) — AD 60 uprising showing how abusive annexation, military absence, local grievance, and failed collaborator protection could destabilize Roman Britain.
 - [NAD Therapy Evidence Boundary](concepts/NADTherapyEvidenceBoundary.md) — Boundary separating biochemical plausibility and reported NAD responses from established clinical efficacy across fatigue, mood, cognition, infection, addiction, sleep, or longevity.

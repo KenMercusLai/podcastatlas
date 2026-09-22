@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10544
+wiki_total_pages: 10548
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "MandateForLeadership2025"
     title: "Mandate for Leadership 2025"
     url: "/wiki/entities/mandateforleadership2025/"
+  - key: "Mandubracius"
+    title: "Mandubracius"
+    url: "/wiki/entities/mandubracius/"
   - key: "MandySuzanneWong"
     title: "Mandy Suzanne Wong"
     url: "/wiki/entities/mandysuzannewong/"

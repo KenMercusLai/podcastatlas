@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7904
+wiki_total_pages: 7905
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "CadaverTradeAnatomyFear"
     title: "Cadaver Trade And Anatomy Fear / 尸体贸易与解剖恐惧"
     url: "/wiki/concepts/cadavertradeanatomyfear/"
+  - key: "CaesarsBritishExpeditions"
+    title: "Caesar's British Expeditions"
+    url: "/wiki/concepts/caesarsbritishexpeditions/"
   - key: "CaffeinatedModernity"
     title: "Caffeinated Modernity"
     url: "/wiki/concepts/caffeinatedmodernity/"

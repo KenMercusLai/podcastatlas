@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10544
+wiki_total_pages: 10548
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "CassianAndor"
     title: "Cassian Andor"
     url: "/wiki/entities/cassianandor/"
+  - key: "Cassivellaunus"
+    title: "Cassivellaunus"
+    url: "/wiki/entities/cassivellaunus/"
   - key: "CasualtyActuarialSociety"
     title: "Casualty Actuarial Society"
     url: "/wiki/entities/casualtyactuarialsociety/"
@@ -1097,6 +1100,9 @@ wiki_pages:
   - key: "CommitteeOfPublicSafety"
     title: "Committee of Public Safety"
     url: "/wiki/entities/committeeofpublicsafety/"
+  - key: "Commius"
+    title: "Commius"
+    url: "/wiki/entities/commius/"
   - key: "CommodityFuturesTradingCommission"
     title: "Commodity Futures Trading Commission"
     url: "/wiki/entities/commodityfuturestradingcommission/"
