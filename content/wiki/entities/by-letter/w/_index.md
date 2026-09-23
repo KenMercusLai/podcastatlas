@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10579
+wiki_total_pages: 10581
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "WorldBank"
     title: "World Bank"
     url: "/wiki/entities/worldbank/"
+  - key: "WorldCoffeeInGoodSpiritsChampionship"
+    title: "World Coffee in Good Spirits Championship / 世界咖啡与烈酒大赛"
+    url: "/wiki/entities/worldcoffeeingoodspiritschampionship/"
   - key: "WorldFoodProgramme"
     title: "World Food Programme / 世界粮食计划署"
     url: "/wiki/entities/worldfoodprogramme/"

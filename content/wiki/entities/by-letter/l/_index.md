@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10579
+wiki_total_pages: 10581
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "LeCorbusier"
     title: "柯布西耶 / Le Corbusier"
     url: "/wiki/entities/lecorbusier/"
+  - key: "LiuZhanhong"
+    title: "柳展鸿 Andy"
+    url: "/wiki/entities/liuzhanhong/"
   - key: "LiyangQinHan"
     title: "栎阳 / Liyang (Qin-Han)"
     url: "/wiki/entities/liyangqinhan/"

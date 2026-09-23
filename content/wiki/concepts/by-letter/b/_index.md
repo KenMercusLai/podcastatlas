@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7948
+wiki_total_pages: 7952
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "BeverageCategoryConvergence"
     title: "Beverage Category Convergence"
     url: "/wiki/concepts/beveragecategoryconvergence/"
+  - key: "BeverageDevelopmentFeasibility"
+    title: "Beverage Development Feasibility / 饮品研发可落地性"
+    url: "/wiki/concepts/beveragedevelopmentfeasibility/"
   - key: "BibliographicClassificationAsStatecraft"
     title: "Bibliographic Classification as Statecraft / 目录分类作为治国术"
     url: "/wiki/concepts/bibliographicclassificationasstatecraft/"

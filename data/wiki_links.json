@@ -8751,6 +8751,10 @@
     "title": "Beverage Category Convergence",
     "url": "/wiki/concepts/beveragecategoryconvergence/"
   },
+  "BeverageDevelopmentFeasibility": {
+    "title": "Beverage Development Feasibility / 饮品研发可落地性",
+    "url": "/wiki/concepts/beveragedevelopmentfeasibility/"
+  },
   "BexleyNaturalMarket": {
     "title": "Bexley Natural Market",
     "url": "/wiki/entities/bexleynaturalmarket/"
@@ -15870,6 +15874,10 @@
   "CreativeChineseCuisine": {
     "title": "Creative Chinese Cuisine / 创意中餐",
     "url": "/wiki/concepts/creativechinesecuisine/"
+  },
+  "CreativeCompetitionTeamInfrastructure": {
+    "title": "Creative Competition Team Infrastructure / 创意赛事团队基础设施",
+    "url": "/wiki/concepts/creativecompetitionteaminfrastructure/"
   },
   "CreativeCoreRenewal": {
     "title": "Creative Core Renewal",
@@ -39787,6 +39795,10 @@
     "title": "刘璋 / Liu Zhang",
     "url": "/wiki/entities/liuzhang/"
   },
+  "LiuZhanhong": {
+    "title": "柳展鸿 Andy",
+    "url": "/wiki/entities/liuzhanhong/"
+  },
   "LiuZhengHejianKing": {
     "title": "刘政 / Liu Zheng (Hejian King)",
     "url": "/wiki/entities/liuzhenghejianking/"
@@ -45170,6 +45182,10 @@
   "MultipleExchangeRateRegime": {
     "title": "Multiple Exchange Rate Regime",
     "url": "/wiki/concepts/multipleexchangerateregime/"
+  },
+  "MultisensoryBeverageExperience": {
+    "title": "Multisensory Beverage Experience / 多感官饮品体验",
+    "url": "/wiki/concepts/multisensorybeverageexperience/"
   },
   "MultispeciesArchives": {
     "title": "Multispecies Archives",
@@ -64523,6 +64539,10 @@
     "title": "Theda Skocpol",
     "url": "/wiki/entities/thedaskocpol/"
   },
+  "ThemeLedBeverageDesign": {
+    "title": "Theme-Led Beverage Design / 主题驱动饮品设计",
+    "url": "/wiki/concepts/themeledbeveragedesign/"
+  },
   "ThemeParkAsMediaPlatform": {
     "title": "Theme Park As Media Platform",
     "url": "/wiki/concepts/themeparkasmediaplatform/"
@@ -70190,6 +70210,10 @@
   "WorldBank": {
     "title": "World Bank",
     "url": "/wiki/entities/worldbank/"
+  },
+  "WorldCoffeeInGoodSpiritsChampionship": {
+    "title": "World Coffee in Good Spirits Championship / 世界咖啡与烈酒大赛",
+    "url": "/wiki/entities/worldcoffeeingoodspiritschampionship/"
   },
   "WorldCupExpansion": {
     "title": "World Cup Expansion",
@@ -77978,6 +78002,10 @@
   "kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e": {
     "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
     "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+  },
+  "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn": {
+    "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+    "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
   },
   "kafeidou-chuantong-meishi-guangchang-jielian-bidian-dashidaimen-yudao-naxie-fazhan-zuai-1007530222": {
     "title": "咖啡豆｜传统美食广场接连闭店，「大食代们」遇到哪些发展阻碍？",

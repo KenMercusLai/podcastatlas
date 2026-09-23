@@ -13490,6 +13490,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/betterbrain/"
     },
+    "BeverageDevelopmentFeasibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/beveragedevelopmentfeasibility/"
+    },
     "BexleyNaturalMarket": {
       "episode_count": 1,
       "show_count": 1,
@@ -27156,6 +27172,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/creativeapertureshift/"
     },
+    "CreativeCompetitionTeamInfrastructure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/creativecompetitionteaminfrastructure/"
+    },
     "CreativePhaseSeparation": {
       "episode_count": 1,
       "show_count": 1,
@@ -30253,9 +30285,9 @@
       "url": "/wiki/entities/davidyeager/"
     },
     "DaxiaoDianbo": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -30270,9 +30302,16 @@
           "show": "大小电波",
           "title": "风味吃喝：娃哈哈，宗庆后的三次赌局",
           "url": "/wiki/sources/fengwei-chihe-wahaha-zongqinghou-de-sanci-duiju-gkwrijiouqosa60omatfv8yx/"
+        },
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/daxiaodianbo/"
     },
     "DayNightLightImmuneSupport": {
@@ -79000,6 +79039,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/liuzhang/"
     },
+    "LiuZhanhong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/liuzhanhong/"
+    },
     "LiuZhengHejianKing": {
       "episode_count": 1,
       "show_count": 1,
@@ -89382,6 +89437,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
+    },
+    "MultisensoryBeverageExperience": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/multisensorybeverageexperience/"
     },
     "MunicipalTransparencyCompromise": {
       "episode_count": 1,
@@ -125685,6 +125756,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/thewomanking/"
     },
+    "ThemeLedBeverageDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/themeledbeveragedesign/"
+    },
     "TheodorHeuss": {
       "episode_count": 1,
       "show_count": 1,
@@ -136447,6 +136534,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/workshopinternalcomms/"
+    },
+    "WorldCoffeeInGoodSpiritsChampionship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIJIOhQDBARgQkQTaLWPn [GKwRIJIOhQDBARgQkQTaLWPn].md",
+          "key": "kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn",
+          "show": "大小电波",
+          "title": "咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调",
+          "url": "/wiki/sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/worldcoffeeingoodspiritschampionship/"
     },
     "WorldFoodProgramme": {
       "episode_count": 1,

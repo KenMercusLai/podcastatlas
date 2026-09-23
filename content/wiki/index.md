@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调](sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn.md) — 大小电波 interview on theme-led beverage design, multisensory experience, commercial feasibility, and team-supported competition performance.
 - [Optimal Protocols for Studying & Learning](sources/optimal-protocols-for-studying-learning-scim3722040660.md) — Huberman Lab solo episode on self-testing, early retrieval, misleading rereading confidence, learning-style evidence, neuroplasticity, sleep, focus, and study supports.
 - [VOL.130带状疱疹为什么会被妖魔化、年轻化？中西医3科室一集讲懂](sources/vol-130-daizhuangpaozhen-weishenme-hui-bei-yaomohua-nianqinghua-zhongxiyi-3-keshi-yiji-jiangdong-ln1yrlokk9bledx-xl5fh_rv-cpi.md) — 这病说来话长 episode on varicella-zoster reactivation, shingles recognition, early treatment, vaccination boundaries, and postherpetic neuralgia.
 - [488. Hundred Years' War: The Road to Agincourt (Part 2)](sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983.md) — The Rest Is History episode on Harfleur's siege, Henry V's conquest discipline, disease, provisions, Somme crossings, French concentration, and the forced road to Agincourt.
@@ -2734,6 +2735,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 
 ## Entities
+- [柳展鸿 Andy](entities/LiuZhanhong.md) — Chinese beverage-development consultant and world coffee-and-spirits champion using theme-led, multisensory design.
+- [World Coffee in Good Spirits Championship / 世界咖啡与烈酒大赛](entities/WorldCoffeeInGoodSpiritsChampionship.md) — Competition joining coffee, spirits, creative composition, execution, and live presentation.
 - [Harfleur](entities/Harfleur.md) — Norman port whose costly 1415 siege turned Henry V's intended springboard into the attritional prelude to Agincourt.
 - [Jamil Zaki](entities/JamilZaki.md) — Stanford psychologist framing cynicism, trust, social forecasts, and political misperception through hopeful skepticism and evidence-updating experiments.
 - [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
@@ -13324,6 +13327,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Theme-Led Beverage Design / 主题驱动饮品设计](concepts/ThemeLedBeverageDesign.md) — Method aligning ingredients, flavor, language, visuals, and service around a coherent idea.
+- [Multisensory Beverage Experience / 多感官饮品体验](concepts/MultisensoryBeverageExperience.md) — Experience chain joining aroma, taste, texture, finish, appearance, atmosphere, service, and memory.
+- [Beverage Development Feasibility / 饮品研发可落地性](concepts/BeverageDevelopmentFeasibility.md) — Translation of creative drink ideas into brand-fit, safe, economical, repeatable products.
+- [Creative Competition Team Infrastructure / 创意赛事团队基础设施](concepts/CreativeCompetitionTeamInfrastructure.md) — Distributed coaching, emotional, logistical, technical, and organizational support behind individual performance.
 - [Learning-Style Matching Evidence Boundary](concepts/LearningStyleMatchingBoundary.md) — Boundary separating study preferences from evidence that matching instruction to a preferred modality improves durable learning.
 - [Varicella-Zoster Latency and Reactivation / 水痘-带状疱疹病毒潜伏与再激活](concepts/VaricellaZosterLatencyReactivation.md) — Mechanism connecting primary chickenpox infection, neural latency, later shingles, and transmission boundaries.
 - [Herpes Zoster Clinical Management / 带状疱疹临床管理](concepts/HerpesZosterClinicalManagement.md) — Recognition, antiviral treatment, pain control, vaccination, complication screening, and specialty routing for shingles.

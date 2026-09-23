@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7948
+wiki_total_pages: 7952
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1919,6 +1919,9 @@ wiki_pages:
   - key: "CreativeChineseCuisine"
     title: "Creative Chinese Cuisine / 创意中餐"
     url: "/wiki/concepts/creativechinesecuisine/"
+  - key: "CreativeCompetitionTeamInfrastructure"
+    title: "Creative Competition Team Infrastructure / 创意赛事团队基础设施"
+    url: "/wiki/concepts/creativecompetitionteaminfrastructure/"
   - key: "CreativeCoreRenewal"
     title: "Creative Core Renewal"
     url: "/wiki/concepts/creativecorerenewal/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7948
+wiki_total_pages: 7952
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "ThemeParkResortEconomics"
     title: "Theme Park Resort Economics"
     url: "/wiki/concepts/themeparkresorteconomics/"
+  - key: "ThemeLedBeverageDesign"
+    title: "Theme-Led Beverage Design / 主题驱动饮品设计"
+    url: "/wiki/concepts/themeledbeveragedesign/"
   - key: "TheoreticalOperatingStandard"
     title: "Theoretical Operating Standard / 理论上该有的样子"
     url: "/wiki/concepts/theoreticaloperatingstandard/"
