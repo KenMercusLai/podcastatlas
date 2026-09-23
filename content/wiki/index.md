@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tools for Nutrition & Fitness | Dr. Layne Norton](sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031.md) — Huberman Lab interview on evidence hierarchy, protein and meal timing, training to failure, aging, GLP-1 drugs, polarized food claims, and recovery priorities.
 - [VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节](sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz.md) — 这病说来话长 Physicians' Day roundtable on remembered patient stories, clinical outcome uncertainty, honest prognosis, trust, family communication, and long-term follow-up.
 - [484. The Food that Changed the World](sources/484-the-food-that-changed-the-world-glt2872429496.md) — The Rest Is History episode with John Dickie on Italian cuisine as an urban network, the documented histories of pasta and pizza, modern Mediterranean-diet framing, and politically or commercially productive food myths.
 - [485. Henry IV: The Usurper King (Part 1)](sources/485-henry-iv-the-usurper-king-part-1-glt8868267122.md) — The Rest Is History episode on Henry IV's chivalric reputation, Richard II's deposition and death, elective legitimacy, Glyndŵr's revolt, and the Percy break.
@@ -9719,7 +9720,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Joe Shields](entities/JoeShields.md) — Cartoonist and Psycho Chihuahua collaborator involved with Tom Rinks in the Taco Bell campaign dispute.
 - [Taco Bell](entities/TacoBell.md) — Fast-food company in the episode's Chihuahua advertising dispute with Tom Rinks and Joe Shields.
 - [SC Johnson](entities/SCJohnson.md) — Consumer-products acquirer of Sun Bum, framed as the partner needed for global manufacturing and sunscreen regulatory scale.
-- [Layne Norton](entities/LayneNorton.md) — Nutrition and fitness guest explaining energy-balance complexity, protein/body composition, sweetener substitution, seed-oil evidence boundaries, creatine monohydrate, and hard training.
+- [Layne Norton](entities/LayneNorton.md) — Nutrition and fitness guest connecting evidence hierarchy to protein, body composition, training, recovery, GLP-1 context, and polarized food claims.
 - [Adam Francis](entities/AdamFrancis.md) — Sun Bum CEO brought in to handle margins, scalability, production, and financial management beyond Tom Rinks's brand-building strengths.
 - [Michael LaSara](entities/MichaelLaSara.md) — Independent sales rep credited by Tom Rinks as crucial to Sun Bum's early field sales and sticker/display rollout.
 - [Made by Dentists](entities/MadeByDentists.md) — Oral-care brand Tom Rinks later redesigned for the U.S. with memorable kids' toothpaste positioning.
@@ -13353,6 +13354,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Mechanism-to-Outcome Evidence Hierarchy](concepts/MechanismOutcomeEvidenceHierarchy.md) — Framework separating biological plausibility, anecdotes, observational findings, trials, meta-analyses, and measured human outcomes.
 - [Clinical Outcome Uncertainty / 临床结局不确定性](concepts/ClinicalOutcomeUncertainty.md) — Gap between technical intervention success and whole-patient survival, function, recovery, or discharge.
 - [Clinical Trust Building / 临床信任建立](concepts/ClinicalTrustBuilding.md) — Clinical trust made visible through explanation, responsibility, honest limits, encouragement, durable instructions, and continuity.
 - [Italian Cuisine as an Urban Network](concepts/ItalianCuisineUrbanFormation.md) — City-centered account of Italian cuisine formed through trade, courts, provisioning, poverty, reputation, and exchange.

@@ -21818,3 +21818,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Tools for Nutrition & Fitness | Dr. Layne Norton
+
+Added source `tools-for-nutrition-fitness-dr-layne-norton-scim5519161031`; created `MechanismOutcomeEvidenceHierarchy`; updated `LayneNorton`, `ProteinBodyCompositionLever`, `SeedOilEvidenceBoundary`, `StrengthHypertrophyProgramming`, `ExerciseRecoveryReadiness`, and the index. Core synthesis: health and fitness claims should be matched to their evidence layer, while total protein, sustainable energy balance, resistance training, sleep, stress management, and adherence outrank meal-timing minutiae and mechanism-only fears. No settled contradiction found; protein targets, large post-exercise boluses, GLP-1 lean-mass comparisons, sweetener microbiome findings, LDL framing, mental-health effects, collagen benefits, and numerical timing claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

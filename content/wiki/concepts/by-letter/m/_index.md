@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7966
+wiki_total_pages: 7967
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "MechanicalWatchRepositioning"
     title: "Mechanical Watch Repositioning"
     url: "/wiki/concepts/mechanicalwatchrepositioning/"
+  - key: "MechanismOutcomeEvidenceHierarchy"
+    title: "Mechanism-to-Outcome Evidence Hierarchy"
+    url: "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
   - key: "MechanisticInterpretability"
     title: "Mechanistic Interpretability"
     url: "/wiki/concepts/mechanisticinterpretability/"

@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "SCIM7025523715 [SCIM7025523715].md",
-      "source_note_count": 96,
+      "source_note_count": 97,
       "topic_matched_source_note_count": 58,
       "topics": [
         {
@@ -525,6 +525,13 @@
           "key": "ChrisPalmer",
           "title": "Chris Palmer",
           "url": "/wiki/entities/chrispalmer/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
+          "key": "LayneNorton",
+          "title": "Layne Norton",
+          "url": "/wiki/entities/laynenorton/",
           "kind": "person",
           "episode_count": 2
         },

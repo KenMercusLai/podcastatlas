@@ -41647,9 +41647,9 @@
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -41664,9 +41664,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Supercharge Exercise Performance & Recovery with Cooling",
           "url": "/wiki/sources/essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411/"
+        },
+        {
+          "episode_file": "SCIM5519161031 [SCIM5519161031].md",
+          "key": "tools-for-nutrition-fitness-dr-layne-norton-scim5519161031",
+          "show": "Huberman Lab",
+          "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
+          "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/exerciserecoveryreadiness/"
     },
     "ExerciseSelfMasteryForProcrastination": {
@@ -73170,9 +73177,9 @@
       "url": "/wiki/concepts/layeredrespiratoryinfectionprevention/"
     },
     "LayneNorton": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -73180,9 +73187,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM5519161031 [SCIM5519161031].md",
+          "key": "tools-for-nutrition-fitness-dr-layne-norton-scim5519161031",
+          "show": "Huberman Lab",
+          "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
+          "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/laynenorton/"
     },
     "LeCorbusier": {
@@ -85699,6 +85713,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/meaningthroughexperience/"
+    },
+    "MechanismOutcomeEvidenceHierarchy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM5519161031 [SCIM5519161031].md",
+          "key": "tools-for-nutrition-fitness-dr-layne-norton-scim5519161031",
+          "show": "Huberman Lab",
+          "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
+          "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
     },
     "Medallia": {
       "episode_count": 1,
@@ -103226,9 +103256,9 @@
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
     "ProteinBodyCompositionLever": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -103250,9 +103280,16 @@
           "show": "Huberman Lab",
           "title": "AMA #19: Collagen vs. Whey Protein, Creatine, Smelling Salts, Stimulants & More",
           "url": "/wiki/sources/ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786/"
+        },
+        {
+          "episode_file": "SCIM5519161031 [SCIM5519161031].md",
+          "key": "tools-for-nutrition-fitness-dr-layne-norton-scim5519161031",
+          "show": "Huberman Lab",
+          "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
+          "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {
@@ -113115,9 +113152,9 @@
       "url": "/wiki/concepts/sedentarybehaviorinterruption/"
     },
     "SeedOilEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -113125,9 +113162,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton",
           "url": "/wiki/sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484/"
+        },
+        {
+          "episode_file": "SCIM5519161031 [SCIM5519161031].md",
+          "key": "tools-for-nutrition-fitness-dr-layne-norton-scim5519161031",
+          "show": "Huberman Lab",
+          "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
+          "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/seedoilevidenceboundary/"
     },
     "SeemaSanghavi": {
@@ -121192,9 +121236,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -121202,9 +121246,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM5519161031 [SCIM5519161031].md",
+          "key": "tools-for-nutrition-fitness-dr-layne-norton-scim5519161031",
+          "show": "Huberman Lab",
+          "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
+          "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {

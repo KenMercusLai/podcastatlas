@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1175
+topic_total_pages: 1176
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1108,6 +1108,9 @@ topic_concepts:
   - key: "MeaningAsEvolvedFunction"
     title: "Meaning As Evolved Function / 意义作为进化功能"
     url: "/wiki/concepts/meaningasevolvedfunction/"
+  - key: "MechanismOutcomeEvidenceHierarchy"
+    title: "Mechanism-to-Outcome Evidence Hierarchy"
+    url: "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
   - key: "MedicalAIEducation"
     title: "Medical AI Education / 医学AI教育"
     url: "/wiki/concepts/medicalaieducation/"
