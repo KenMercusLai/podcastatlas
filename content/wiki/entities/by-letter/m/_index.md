@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10655
+wiki_total_pages: 10659
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "MaureenThorson"
     title: "Maureen Thorson"
     url: "/wiki/entities/maureenthorson/"
+  - key: "MauricePaleologue"
+    title: "Maurice Paléologue"
+    url: "/wiki/entities/mauricepaleologue/"
   - key: "Maveron"
     title: "Maveron"
     url: "/wiki/entities/maveron/"

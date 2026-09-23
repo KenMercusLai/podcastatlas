@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2664
+topic_total_pages: 2669
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5672,6 +5672,9 @@ topic_entities:
   - key: "MaureenThorson"
     title: "Maureen Thorson"
     url: "/wiki/entities/maureenthorson/"
+  - key: "MauricePaleologue"
+    title: "Maurice Paléologue"
+    url: "/wiki/entities/mauricepaleologue/"
   - key: "MaxWeber"
     title: "Max Weber"
     url: "/wiki/entities/maxweber/"
@@ -5981,6 +5984,9 @@ topic_entities:
   - key: "RaulCastro"
     title: "Raul Castro"
     url: "/wiki/entities/raulcastro/"
+  - key: "RaymondPoincare"
+    title: "Raymond Poincaré"
+    url: "/wiki/entities/raymondpoincare/"
   - key: "RebeccaJackson"
     title: "Rebecca Jackson"
     url: "/wiki/entities/rebeccajackson/"
@@ -6128,6 +6134,12 @@ topic_entities:
   - key: "SeppBlatter"
     title: "Sepp Blatter"
     url: "/wiki/entities/seppblatter/"
+  - key: "Serbia"
+    title: "Serbia"
+    url: "/wiki/entities/serbia/"
+  - key: "SergeiSazonov"
+    title: "Sergei Sazonov"
+    url: "/wiki/entities/sergeisazonov/"
   - key: "SethStoughton"
     title: "Seth Stoughton"
     url: "/wiki/entities/sethstoughton/"
@@ -7092,6 +7104,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479"
+    title: "471. The Road to The Great War: The Austrian Ultimatum (Part 3)"
+    url: "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
   - key: "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157"
     title: "472. The Road to The Great War: Britain's Fateful Choice (Part 4)"
     url: "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"

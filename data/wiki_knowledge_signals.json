@@ -71687,9 +71687,9 @@
       "url": "/wiki/entities/juliuskurfgen/"
     },
     "JulyCrisis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -71711,6 +71711,13 @@
           "show": "The Rest Is History",
           "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
           "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
+        },
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
         }
       ],
       "updated": "2026-09-24",
@@ -87507,6 +87514,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/mattballcolorado/"
     },
+    "MauricePaleologue": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/mauricepaleologue/"
+    },
     "MausoleumCountyEliteRelocation": {
       "episode_count": 1,
       "show_count": 1,
@@ -90818,9 +90841,9 @@
       "url": "/wiki/concepts/mobiletechnologyconvergence/"
     },
     "MobilisationDiplomacyEscalationTrap": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1322848845 [GLT1322848845].md",
@@ -90828,6 +90851,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
         }
       ],
       "updated": "2026-09-24",
@@ -94094,9 +94124,9 @@
       "url": "/wiki/concepts/nicheoriginstoryexpansion/"
     },
     "NicholasII": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1322848845 [GLT1322848845].md",
@@ -94104,6 +94134,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
         }
       ],
       "updated": "2026-09-24",
@@ -108459,6 +108496,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/raysolomonoff/"
     },
+    "RaymondPoincare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/raymondpoincare/"
+    },
     "ReEnteringLifeTechEraBook": {
       "episode_count": 1,
       "show_count": 1,
@@ -116448,6 +116501,52 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/septembermassacres/"
+    },
+    "Serbia": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
+        },
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/serbia/"
+    },
+    "SergeiSazonov": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1171003479 [GLT1171003479].md",
+          "key": "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479",
+          "show": "The Rest Is History",
+          "title": "471. The Road to The Great War: The Austrian Ultimatum (Part 3)",
+          "url": "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/sergeisazonov/"
     },
     "SeriousMentalIllnessFamilyCareBoundary": {
       "episode_count": 2,

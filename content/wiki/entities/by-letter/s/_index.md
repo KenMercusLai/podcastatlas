@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10655
+wiki_total_pages: 10659
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "SeraphicSecurity"
     title: "Seraphic Security"
     url: "/wiki/entities/seraphicsecurity/"
+  - key: "Serbia"
+    title: "Serbia"
+    url: "/wiki/entities/serbia/"
   - key: "SerenaAndLily"
     title: "Serena & Lily"
     url: "/wiki/entities/serenaandlily/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "Seres"
     title: "Seres / 赛力斯"
     url: "/wiki/entities/seres/"
+  - key: "SergeiSazonov"
+    title: "Sergei Sazonov"
+    url: "/wiki/entities/sergeisazonov/"
   - key: "SergeyBrin"
     title: "Sergey Brin"
     url: "/wiki/entities/sergeybrin/"

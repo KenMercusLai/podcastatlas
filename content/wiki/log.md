@@ -22040,3 +22040,11 @@ Added source `472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt69
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 471. The Road to The Great War: The Austrian Ultimatum (Part 3)
+
+Added source `471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479`; created `RaymondPoincare`, `SergeiSazonov`, `MauricePaleologue`, and `Serbia`; updated `NicholasII`, `JulyCrisis`, `MobilisationDiplomacyEscalationTrap`, and the index. Core synthesis: Russian policy joined Serbia and prestige to the Straits, Black Sea exports, Ottoman naval anxiety, and memories of earlier retreat, while Poincaré and Paléologue reinforced a French-backed policy of firmness; Austria-Hungary and Russia both expected resolve to force the other side to yield, and Russia's initial partial-mobilisation measures began converting defensive intent into wider threat perception. No settled contradiction found. Austria-Hungary's ultimatum combined grounded security concerns with sovereignty-threatening demands, and the strategic reading of Russian motives does not make escalation automatic. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

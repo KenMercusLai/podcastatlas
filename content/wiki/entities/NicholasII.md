@@ -4,6 +4,7 @@ type: entity
 tags: [person, russia, monarchy, first-world-war]
 sources:
   - 473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845
+  - 471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -16,12 +17,13 @@ Nicholas II was the Russian tsar whose resistance and eventual consent to genera
 
 ## Current Profile
 
-The episode presents Nicholas as personally horrified by a European war but unable or unwilling to sustain that preference against ministers, generals, alliance expectations, and strategic fear. His affectionate "Nicky-Willy" correspondence with [[KaiserWilhelmII]] gave monarchy a direct diplomatic channel, yet friendship did not overcome conflicting state commitments.
+The episodes present Nicholas as personally doubtful that prosperous Germany would risk a world war and later horrified by mass European killing, but unable or unwilling to sustain restraint against ministers, generals, alliance expectations, and strategic fear. When Austria-Hungary's ultimatum arrived, he heard Sazonov's case that the move was German-backed, accepted support for Serbia, and authorized precautionary preparations. His affectionate "Nicky-Willy" correspondence with [[KaiserWilhelmII]] later gave monarchy a direct diplomatic channel, yet friendship did not overcome conflicting state commitments.
 
 Nicholas initially rejected responsibility for a "monstrous slaughter" and resisted the general-mobilisation order. Sazonov's argument that war was unavoidable and delay would endanger Russia persuaded him to approve it on 30 July. His reversal shows real agency under pressure: the state machine constrained the choice but did not make the signature politically meaningless.
 
 ## Key Characteristics
 
+- Initially doubted that prosperous Germany would risk world war, then accepted Sazonov's case for supporting Serbia and preparing western military districts.
 - Maintained a warm private correspondence with Wilhelm despite rivalry between their imperial systems.
 - Asked Wilhelm to restrain Austria-Hungary after its declaration of war on Serbia.
 - Expressed moral revulsion at the prospect of mass European killing.
@@ -32,16 +34,17 @@ Nicholas initially rejected responsibility for a "monstrous slaughter" and resis
 ## Evidence
 
 - Personal diplomacy: [[473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845]] uses the Nicky-Willy correspondence to contrast dynastic intimacy with interstate rivalry.
+- Early hesitation and preparation: [[471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479]] records Nicholas doubting that Germany would choose world war, hearing Sazonov's opposing interpretation, and approving precautionary measures after the ultimatum.
 - Resistance to war: [[473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845]] records Nicholas asking Wilhelm for restraint and refusing to accept responsibility for a monstrous slaughter.
 - Mobilisation decision: [[473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845]] follows ministerial pressure, Sazonov's Peterhof audience, and Nicholas's approval of general mobilisation.
 
 ## Qualifications
 
-This profile covers a few crisis days through one narrative podcast. Personal reluctance does not establish political innocence, and the episode's dramatic account of General Yanushkevich being told to smash the telephone is preserved as source-reported detail rather than independently verified here.
+This profile covers a few crisis days through two episodes of one narrative podcast. Personal reluctance does not establish political innocence, early precaution did not remain politically neutral, and the dramatic account of General Yanushkevich being told to smash the telephone is preserved as source-reported detail rather than independently verified here.
 
 ## What Changed
 
-- Created Nicholas as the hesitant but responsible decision-maker at the Russian general-mobilisation threshold.
+- Extended Nicholas's hesitation backward to the ultimatum and clarified his consent to support Serbia and begin precautionary preparation before general mobilisation.
 
 ## Relationships
 
@@ -49,4 +52,5 @@ This profile covers a few crisis days through one narrative podcast. Personal re
 - [[JulyCrisis]] - escalation in which Nicholas approved general mobilisation.
 - [[MobilisationDiplomacyEscalationTrap]] - mechanism through which strategic preparation narrowed diplomatic reversal.
 - [[RussianEmpire]] - state whose ministers, army, and alliance commitments shaped his decision.
+- [[SergeiSazonov]] - foreign minister whose threat and timing arguments moved Nicholas toward preparation and later general mobilisation.
 - [[FirstWorldWar]] - general conflict made much harder to avoid after the mobilisation order.

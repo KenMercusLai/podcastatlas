@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [471. The Road to The Great War: The Austrian Ultimatum (Part 3)](sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479.md) — The Rest Is History episode on Franco-Russian firmness, Russia's Balkan and Straits anxieties, Austria-Hungary's ultimatum, and the first partial-mobilisation measures.
 - [472. The Road to The Great War: Britain's Fateful Choice (Part 4)](sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157.md) — The Rest Is History episode on Britain's ambiguous commitments, Grey's failed mediation, Crowe's intervention logic, and Serbia's qualified reply to Austria-Hungary.
 - [473. The Road to The Great War: The Tsar Chooses War (Part 5)](sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845.md) — The Rest Is History episode on failed July Crisis off-ramps, Austria-Hungary's war on Serbia, royal diplomacy, and Russia's general-mobilisation decision.
 - [474. The Road to The Great War: The Lights Go Out (Part 6)](sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702.md) — The Rest Is History episode on Russian mobilisation, German operational rigidity, Britain's divided cabinet, Belgian neutrality, and the emotional foreknowledge of European war.
@@ -2774,7 +2775,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
 
 ## Entities
-- [Nicholas II](entities/NicholasII.md) — Russian tsar whose hesitation and eventual approval of general mobilisation marked a decisive July Crisis threshold.
+- [Raymond Poincaré](entities/RaymondPoincare.md) — French president whose St Petersburg diplomacy treated Franco-Russian firmness as deterrence during the July Crisis.
+- [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
+- [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
+- [Serbia](entities/Serbia.md) — Balkan state whose qualified ultimatum reply and war with Austria-Hungary became the immediate hinge of wider escalation.
+- [Nicholas II](entities/NicholasII.md) — Russian tsar who moved from doubt and precaution through royal diplomacy to approval of general mobilisation.
 - [Helmuth von Moltke the Younger](entities/HelmuthVonMoltkeTheYounger.md) — German chief of staff whose strategic fatalism made delay appear more dangerous than preparation.
 - [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who moved from ambiguous French expectations and failed mediation to the case for intervention.
 - [H. H. Asquith](entities/HHAsquith.md) — British prime minister who moved from spectator hopes through cabinet division to the final decision for war.
@@ -13440,9 +13445,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 
 ## Concepts
-- [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which ultimatum diplomacy, qualified compliance, mobilisation, strategic fear, and political choice opened general European war.
+- [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which alliance firmness, strategic anxiety, ultimatum diplomacy, mobilisation, and political choice opened general European war.
 - [British Foreign-Policy Ambiguity in 1914](concepts/BritishForeignPolicyAmbiguity1914.md) — Gap between formal non-obligation and private, naval, imperial, and strategic expectations shaping Britain's choice.
-- [Mobilisation-Diplomacy Escalation Trap](concepts/MobilisationDiplomacyEscalationTrap.md) — Feedback in which military preparation alters rival threat perception and shrinks diplomatic reversibility.
+- [Mobilisation-Diplomacy Escalation Trap](concepts/MobilisationDiplomacyEscalationTrap.md) — Feedback in which precautionary military preparation alters rival threat perception and shrinks diplomatic reversibility.
 - [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors and expectation-matched false allegations can weaken an institution despite the target's factual innocence.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
