@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck
+
+Added source `access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031`; created `MarthaBeck`, `IntegrityAsInnerCoherence`, `PerfectDayImagination`, `CompassionateWitnessPractice`, and `SelfAbandonmentBoundary`; updated `BodyBasedSelfTrust`, `InternalFamilySystemsTherapy`, and index. Core synthesis: Beck defines integrity as reduced inner division, uses sensory imagination to surface life-direction hypotheses, approaches suffering and inner conflict through compassionate witnessing, and distinguishes love from responsibility for another person's happiness or surrender of one's own agency. No settled contradiction found; bodily signals remain evidence rather than verdicts, while illness interpretations, hemispheric-cultural claims, spiritual experiences, visualization mechanisms, and relationship generalizations remain personal or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复
 
 Added source `vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0`; created `ZhangYuhanSportsMedicine`, `ZhouHaoRehabilitationEngineer`, `NationalOrthopedicSportsRehabilitationClinicalResearchCenter`, `HumanMovementDigitalTwin`, `RehabilitationGoalDifferentiation`, and `KneeStabilityInjuryCascade`; updated `ExerciseLoadManagement`, `StrengthTrainingJointProtection`, and index. Core synthesis: human movement digital twins can combine motion, force, imaging, and biomechanical models to investigate performance and rehabilitation, but decision purpose, validation, model error, cost, and workflow fit determine usefulness; rehabilitation endpoints differ across pain relief, daily function, and return to elite sport; and knee outcomes depend on interacting structural injury, instability, loading, and muscle capacity rather than one inevitable chain. No settled contradiction found; athlete examples, artificial-ligament recovery comparisons, clinical readiness, predictive value, and cost-performance claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21883,6 +21887,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 480. The French Revolution: The Rights of Man (Part 6)
 
 Added source `480-the-french-revolution-the-rights-of-man-part-6-glt8413639265`; created `DeclarationOfRightsOfManAndCitizen`, `GreatFear1789`, `CivilConstitutionOfTheClergy`, `Talleyrand`, `UniversalRightsNationalSovereigntyTension`, `RevolutionaryChurchStateRupture`, and `ChristianInheritanceOfEnlightenmentRights`; updated `FrenchRevolution` and the index. Core synthesis: the Declaration joined universal natural rights to national sovereignty without resolving citizenship boundaries, while fiscal and administrative reform of the Church culminated in an oath that split clergy and communities and made counterrevolution religious as well as royal. No settled contradiction found; rights genealogy, clerical-oath totals, regional response, visual symbolism, reported dialogue, and long-run influence remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

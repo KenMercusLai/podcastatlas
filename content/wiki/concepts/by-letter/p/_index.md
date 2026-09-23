@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7983
+wiki_total_pages: 7987
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "PerceivedSimilarityInRelationships"
     title: "Perceived Similarity In Relationships"
     url: "/wiki/concepts/perceivedsimilarityinrelationships/"
+  - key: "PerfectDayImagination"
+    title: "Perfect-Day Imagination Practice"
+    url: "/wiki/concepts/perfectdayimagination/"
   - key: "PerfectionismAsAvoidance"
     title: "Perfectionism As Avoidance"
     url: "/wiki/concepts/perfectionismasavoidance/"

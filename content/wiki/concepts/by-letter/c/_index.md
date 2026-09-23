@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7983
+wiki_total_pages: 7987
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1379,6 +1379,9 @@ wiki_pages:
   - key: "CompassionateCuriosity"
     title: "Compassionate Curiosity"
     url: "/wiki/concepts/compassionatecuriosity/"
+  - key: "CompassionateWitnessPractice"
+    title: "Compassionate Witness Practice"
+    url: "/wiki/concepts/compassionatewitnesspractice/"
   - key: "CompelledDNASamplingFourthAmendment"
     title: "Compelled DNA Sampling Fourth Amendment"
     url: "/wiki/concepts/compelleddnasamplingfourthamendment/"

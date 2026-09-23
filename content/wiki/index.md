@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck](sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031.md) — Huberman Lab interview on integrity as inner coherence, sensory imagination, compassionate witnessing, body-based self-trust, and boundaries against self-abandonment.
 - [480. The French Revolution: The Rights of Man (Part 6)](sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265.md) — The Rest Is History episode on the Great Fear, abolition of privilege, universal rights, national sovereignty, Church property, and the clerical oath.
 - [VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复](sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0.md) — 这病说来话长 episode on sports medicine, human movement digital twins, knee injury, elite-performance tradeoffs, and goal-matched rehabilitation.
 - [Inbound Marketing That Grew a Fintech SaaS to $100M](sources/inbound-marketing-that-grew-a-fintech-saas-to-100m.md) — The SaaS Podcast episode with Rodney Robinson on TabaPay's capital-efficient growth, two-way instant payments, bank and network referrals, infrastructure ownership, risk services, and proposed bank acquisition.
@@ -2754,6 +2755,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Martha Beck](entities/MarthaBeck.md) — Author and coach presenting integrity, perfect-day imagination, compassionate witnessing, and relationship-boundary practices.
 - [Declaration of the Rights of Man and of the Citizen](entities/DeclarationOfRightsOfManAndCitizen.md) — August 1789 statement joining universal natural rights to national sovereignty while leaving major citizenship boundaries unresolved.
 - [Great Fear of 1789](entities/GreatFear1789.md) — Rural panic and revolt joining deprivation, feudal records, conspiracy rumor, and the Assembly's abolition response.
 - [Civil Constitution of the Clergy](entities/CivilConstitutionOfTheClergy.md) — Revolutionary Church reorganization whose clerical oath divided religious and national allegiance.
@@ -13377,6 +13379,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Integrity as Inner Coherence](concepts/IntegrityAsInnerCoherence.md) — Life-alignment frame pairing bodily evidence, logical coherence, and gradual course correction.
+- [Perfect-Day Imagination Practice](concepts/PerfectDayImagination.md) — Sensory future-day exercise for surfacing values and generating testable life-direction hypotheses.
+- [Compassionate Witness Practice](concepts/CompassionateWitnessPractice.md) — Kind, accepting stance toward suffering and conflicting inner parts without suppression or total identification.
+- [Self-Abandonment Boundary](concepts/SelfAbandonmentBoundary.md) — Relationship limit separating love and empathy from codependent overgiving and surrender of one's own agency.
 - [Universal Rights and National Sovereignty Tension](concepts/UniversalRightsNationalSovereigntyTension.md) — Problem of grounding humanity-wide rights in the authority and citizenship boundaries of a particular nation.
 - [Revolutionary Church-State Rupture](concepts/RevolutionaryChurchStateRupture.md) — Process by which fiscal and administrative reform becomes mass conflict over religious and political allegiance.
 - [Christian Inheritance of Enlightenment Rights](concepts/ChristianInheritanceOfEnlightenmentRights.md) — Qualified claim that secular universal-rights morality partly retains Christian genealogies and symbolic forms.

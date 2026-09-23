@@ -18235,6 +18235,13 @@
       "url": "/topics/science/"
     }
   ],
+  "CompassionateWitnessPractice": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CompelledDNASamplingFourthAmendment": [
     {
       "key": "politics",
@@ -37537,6 +37544,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "IntegrityAsInnerCoherence": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Intel": [
     {
       "key": "technology",
@@ -46220,6 +46234,13 @@
     }
   ],
   "MarshmallowTestContext": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "MarthaBeck": [
     {
       "key": "science",
       "label": "Science",
@@ -81720,6 +81741,13 @@
     }
   ],
   "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031": [
     {
       "key": "science",
       "label": "Science",

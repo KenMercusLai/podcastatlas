@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7983
+wiki_total_pages: 7987
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -545,6 +545,9 @@ wiki_pages:
   - key: "IntegratedMLTeams"
     title: "Integrated ML Teams"
     url: "/wiki/concepts/integratedmlteams/"
+  - key: "IntegrityAsInnerCoherence"
+    title: "Integrity as Inner Coherence"
+    url: "/wiki/concepts/integrityasinnercoherence/"
   - key: "IntellectualLifeAsPractice"
     title: "Intellectual Life As Practice / 智识生活作为实践"
     url: "/wiki/concepts/intellectuallifeaspractice/"

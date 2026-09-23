@@ -14608,9 +14608,9 @@
       "url": "/wiki/concepts/bodilyresolution/"
     },
     "BodyBasedSelfTrust": {
-      "episode_count": 3,
-      "show_count": 1,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lrsK_0kNOOXxA_TwM1CI5DfhldXI [lrsK_0kNOOXxA_TwM1CI5DfhldXI].md",
@@ -14632,9 +14632,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？",
           "url": "/wiki/sources/shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb/"
+        },
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/bodybasedselftrust/"
     },
     "BoggBag": {
@@ -25433,6 +25440,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/compassionatecuriosity/"
+    },
+    "CompassionateWitnessPractice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/compassionatewitnesspractice/"
     },
     "CompelledDNASamplingFourthAmendment": {
       "episode_count": 1,
@@ -65605,6 +65628,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/integratedbipolarcare/"
     },
+    "IntegrityAsInnerCoherence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/integrityasinnercoherence/"
+    },
     "Intel": {
       "episode_count": 6,
       "show_count": 5,
@@ -65792,9 +65831,9 @@
       "url": "/wiki/concepts/internalcapacitybeforewar/"
     },
     "InternalFamilySystemsTherapy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4912435693 [SCIM4912435693].md",
@@ -65802,9 +65841,16 @@
           "show": "Huberman Lab",
           "title": "How to Achieve Inner Peace & Healing | Dr. Richard Schwartz",
           "url": "/wiki/sources/how-to-achieve-inner-peace-healing-dr-richard-schwartz-scim4912435693/"
+        },
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/internalfamilysystemstherapy/"
     },
     "InternalRevenueService": {
@@ -85525,6 +85571,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/marshmallowtestcontext/"
     },
+    "MarthaBeck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/marthabeck/"
+    },
     "MarthaWashington": {
       "episode_count": 1,
       "show_count": 1,
@@ -98671,6 +98733,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
+    },
+    "PerfectDayImagination": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/perfectdayimagination/"
     },
     "PerformanceAdvertisingLearningLoop": {
       "episode_count": 1,
@@ -114095,6 +114173,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/selectivewhiterefugeeexception/"
+    },
+    "SelfAbandonmentBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3796933031 [SCIM3796933031].md",
+          "key": "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031",
+          "show": "Huberman Lab",
+          "title": "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck",
+          "url": "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/selfabandonmentboundary/"
     },
     "SelfBuiltAgentWorkflow": {
       "episode_count": 1,

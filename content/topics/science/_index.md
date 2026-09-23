@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1178
+topic_total_pages: 1182
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -373,6 +373,9 @@ topic_concepts:
   - key: "CompassionateCuriosity"
     title: "Compassionate Curiosity"
     url: "/wiki/concepts/compassionatecuriosity/"
+  - key: "CompassionateWitnessPractice"
+    title: "Compassionate Witness Practice"
+    url: "/wiki/concepts/compassionatewitnesspractice/"
   - key: "ComplexTraumaRecognition"
     title: "Complex Trauma Recognition"
     url: "/wiki/concepts/complextraumarecognition/"
@@ -964,6 +967,9 @@ topic_concepts:
   - key: "InsularPainToleranceTraining"
     title: "Insular Pain Tolerance Training"
     url: "/wiki/concepts/insularpaintolerancetraining/"
+  - key: "IntegrityAsInnerCoherence"
+    title: "Integrity as Inner Coherence"
+    url: "/wiki/concepts/integrityasinnercoherence/"
   - key: "IntelligenceTesting"
     title: "Intelligence Testing / 智力测试"
     url: "/wiki/concepts/intelligencetesting/"
@@ -2522,6 +2528,9 @@ topic_entities:
   - key: "Mars"
     title: "Mars"
     url: "/wiki/entities/mars/"
+  - key: "MarthaBeck"
+    title: "Martha Beck"
+    url: "/wiki/entities/marthabeck/"
   - key: "MaryFrancesOConnor"
     title: "Mary-Frances O'Connor"
     url: "/wiki/entities/maryfrancesoconnor/"
@@ -3132,6 +3141,9 @@ topic_sources:
   - key: "accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551"
     title: "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood"
     url: "/wiki/sources/accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551/"
+  - key: "access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031"
+    title: "Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck"
+    url: "/wiki/sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031/"
   - key: "tsr-s2-adoracheung-v5"
     title: "Adora Cheung on Homejoy, YC, Vote-by-Mail, and Instalab"
     url: "/wiki/sources/tsr-s2-adoracheung-v5/"

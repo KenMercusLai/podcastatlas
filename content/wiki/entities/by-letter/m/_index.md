@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10612
+wiki_total_pages: 10613
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "MarshallMcLuhan"
     title: "Marshall McLuhan / 麦克卢汉"
     url: "/wiki/entities/marshallmcluhan/"
+  - key: "MarthaBeck"
+    title: "Martha Beck"
+    url: "/wiki/entities/marthabeck/"
   - key: "MarthaGellhorn"
     title: "Martha Gellhorn / 玛莎·盖尔霍恩"
     url: "/wiki/entities/marthagellhorn/"
