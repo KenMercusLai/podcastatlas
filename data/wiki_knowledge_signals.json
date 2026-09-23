@@ -86132,9 +86132,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZheTCMDoctor": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
@@ -86149,9 +86149,16 @@
           "show": "这病说来话长",
           "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
           "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        },
+        {
+          "episode_file": "ltokazMBcf7gttVl9s-XsYPC6TzT [ltokazMBcf7gttVl9s-XsYPC6TzT].md",
+          "key": "vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt",
+          "show": "这病说来话长",
+          "title": "VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先",
+          "url": "/wiki/sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/maozhetcmdoctor/"
     },
     "MaoZhongqun": {
@@ -126263,6 +126270,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/systemiclupuserythematosusmanagement/"
+    },
+    "TCMSummerPatternDifferentiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltokazMBcf7gttVl9s-XsYPC6TzT [ltokazMBcf7gttVl9s-XsYPC6TzT].md",
+          "key": "vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt",
+          "show": "这病说来话长",
+          "title": "VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先",
+          "url": "/wiki/sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/tcmsummerpatterndifferentiation/"
     },
     "TCellEducationAndThymusAging": {
       "episode_count": 2,

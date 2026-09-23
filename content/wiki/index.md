@@ -2763,6 +2763,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The cost of digitally disconnecting](sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128.md) — Marketplace Tech episode on luxury digital-detox retreats, practical routine substitution, rapid screen-time rebound, offline status performance, and the need for workplace and cultural boundaries.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 - [The beauty industry is betting big on AI](sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128.md) — Marketplace Tech episode on conversational beauty advice, virtual try-ons, generative-engine optimization, medical and biometric risk, and consumer reluctance to delegate checkout.
+- [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 
 ## Entities
 - [Charles Alexandre de Calonne](entities/CharlesAlexandreDeCalonne.md) — Finance minister whose tax reforms and public appeal turned insolvency into a national legitimacy conflict.
@@ -2922,7 +2923,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pedro de Ursúa](entities/PedroDeUrsua.md) — Crown-appointed El Dorado expedition commander murdered in the 1561 mutiny.
 - [Ursúa-Aguirre Expedition](entities/AguirreExpedition.md) — 1560-1561 Amazon conquest venture that became an anti-royal rebellion and collapsed in Venezuela.
 - [Richard Schwartz](entities/RichardSchwartz.md) — Founder of Internal Family Systems presenting parts work, Self-leadership, experiential inquiry, and trauma-sensitive practice boundaries.
-- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing spring allergy while retaining medication, emergency-care, and evidence-quality boundaries.
+- [毛哲 / Mao Zhe (TCM Guest)](entities/MaoZheTCMDoctor.md) — Source-scoped TCM guest discussing seasonal allergy and summer patterning while retaining medication, heat-illness, emergency-care, and evidence-quality boundaries.
 - [Marianne](entities/Marianne.md) — Female personification of the French Republic whose symbolism coexisted with women's political exclusion.
 - [Olympe de Gouges](entities/OlympeDeGouges.md) — Revolutionary writer and abolitionist who applied universal rights language to women.
 - [Madame Roland](entities/MadameRoland.md) — Influential Girondin salon organizer who defended indirect female politics and faced misogynistic backlash.
@@ -21433,5 +21434,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Magnetic Resonance Safety and Appropriateness / 磁共振安全与适应证](concepts/MagneticResonanceSafetyAndAppropriateness.md) — MRI framework joining exact device and implant compatibility with pregnancy, pediatric sedation, clinical indication, scan scope, and local protocol.
 - [Clinical History Disclosure / 临床病史如实告知](concepts/ClinicalHistoryDisclosure.md) — Patient-safety practice linking truthful and collateral history to diagnostic speed, anesthesia decisions, confidentiality, and clinical trust.
 - [Ecosystem Expansion Leverage / 生态扩张杠杆](concepts/EcosystemExpansionLeverage.md) — Pattern where simultaneous cross-business expansion relies on future synergy and shared financing until a confidence break reverses network effects into balance-sheet contagion.
+- [TCM Summer Pattern Differentiation / 中医夏季寒湿湿热辨别](concepts/TCMSummerPatternDifferentiation.md) — Source-scoped framework separating individualized, non-extreme summer self-care from unvalidated cold-damp, damp-heat, remedy, and heat-illness claims.
 
 ## Syntheses

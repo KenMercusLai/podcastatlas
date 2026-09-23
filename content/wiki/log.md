@@ -21953,6 +21953,10 @@ Added source `tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-24] ingest | VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先
+
+Added source `vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt`; created `TCMSummerPatternDifferentiation`; updated `MaoZheTCMDoctor` and the index. Core synthesis: the episode's durable behavioral message is individualized, non-extreme summer self-care, while cold-damp and damp-heat self-diagnosis, heat-illness mechanisms, broad 藿香正气 use, induced sweating, food therapy, acupressure, and gua sha remain source-scoped. Serious or worsening heat illness requires prompt qualified care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
