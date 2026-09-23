@@ -11724,9 +11724,9 @@
       "url": "/wiki/concepts/balletcorefootwear/"
     },
     "BallotHarvestingTrustRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California’s Broken Elections [41630275].md",
@@ -11734,9 +11734,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/ballotharvestingtrustrisk/"
     },
     "BalthazarGerard": {
@@ -16598,9 +16605,9 @@
       "url": "/wiki/entities/caldoge/"
     },
     "CaliforniaAffordabilityGovernanceReset": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
@@ -16608,9 +16615,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/californiaaffordabilitygovernancereset/"
     },
     "CaliforniaBuildingCostCapture": {
@@ -16715,6 +16729,43 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/californiahomelessnessenforcementtreatment/"
+    },
+    "CaliforniaPostFireRebuildingDelay": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Spencer Pratt on Fixing LA： Wildfires, Homelessness, Corruption & the Fight to Take It Back [41236810].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Spencer Pratt on Fixing LA: Wildfires, Homelessness, Corruption & the Fight to Take It Back",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spencer-pratt-on-fixing-la-wildfires-homelessness-corruption-the-fight-to-take-it-back-41236810/"
+        },
+        {
+          "episode_file": "tech_20260112_0112_MP_TECH_pod_128 [tech_20260112_0112_MP_TECH_pod_128].md",
+          "key": "tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Building a home with future fires in mind",
+          "url": "/wiki/sources/tech-20260112-0112-mp-tech-pod-128-tech-20260112-0112-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/californiapostfirerebuildingdelay/"
     },
     "CaliforniaPrivacyProtectionAgency": {
       "episode_count": 1,
@@ -119559,9 +119610,9 @@
       "url": "/wiki/concepts/speechneuroprosthetics/"
     },
     "SpencerPratt": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Spencer Pratt on Fixing LA： Wildfires, Homelessness, Corruption & the Fight to Take It Back [41236810].md",
@@ -119576,9 +119627,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Anthropic's Fable Backlash, Nationalizing AI, Inflation Heats Up & California's Broken Elections",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-fable-backlash-nationalizing-ai-inflation-heats-up-californias-broken-elections-41630275/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/spencerpratt/"
     },
     "SpineRehabilitationProgression": {
@@ -120578,9 +120636,9 @@
       "url": "/wiki/entities/stevebernard/"
     },
     "SteveHilton": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
@@ -120595,9 +120653,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/stevehilton/"
     },
     "SteveShiDiFuShuoHost": {

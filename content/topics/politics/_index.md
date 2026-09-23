@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2647
+topic_total_pages: 2648
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -7413,6 +7413,9 @@ topic_sources:
   - key: "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128"
     title: "States rush to police AI deepfakes ahead of midterm elections"
     url: "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393"
+    title: "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393/"
   - key: "stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5"
     title: "Stock options: how to hedge an AI bubble"
     url: "/wiki/sources/stock-options-how-to-hedge-an-ai-bubble-698efe7e7301331f1f674bd5/"

@@ -21417,7 +21417,7 @@ Added source `509-america-in-68-the-assassination-of-martin-luther-king-jr-part-
 
 ## [2026-09-23] lint | Wiki health check
 
-Ran lint. See lint-report.md for details.
+Health and identity validation passed. Lint scanned 21,294 pages and found one orphan page, one broken wikilink, no missing entity pages, and no sparse pages. Graph-aware results are provisional because `graph/graph.json` is a stale 2026-09-02 snapshot (16,930 nodes): no hub stubs, one fragile bridge, and no isolated communities. The configured semantic API call failed because `LLM_MODEL` lacks a LiteLLM provider prefix; a bounded in-session review of the same 20-page sample found no direct contradiction and identified single-source evidence gaps. The report was returned in-session and was not saved to `wiki/lint-report.md`.
 
 ## [2026-09-23] ingest | VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？
 
@@ -21829,6 +21829,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | 276.当AI给出所有答案，年轻人如何找到自己的问题？
 
 Added source `276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t`; created `AIProblemDefinitionResponsibility`; updated `AIHowHumanWhyBoundary`, `AIEraMajorChoice`, `Luanfanshu`, `LOreal`, and the index. Core synthesis: AI can compress research, drafting, coding, and feedback, but people still have to choose worthwhile problems, define standards from real context, verify and recommend rather than relay, preserve training-rich experience, build trust, and own the consequences of the result. No settled contradiction found; labor-market, education, program-effectiveness, and future-capability claims remain source-scoped, especially because the episode is linked to L'Oreal campus activities. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393`; updated `SteveHilton`, `SpencerPratt`, `CaliforniaAffordabilityGovernanceReset`, `BallotHarvestingTrustRisk`, `CaliforniaPostFireRebuildingDelay`, and the index. Core synthesis: Hilton expands his affordability campaign from a $100,000 to a $150,000 income-tax exemption and adds staffing, regulatory, energy, rail, vehicle-fee, and new-city proposals, while implementation and fiscal authority remain unresolved. Pratt distinguishes legal ballot harvesting from fake-ballot allegations and explicitly concedes he lacks evidence that fraud caused his loss; his fire account adds alleged prevention and water failures, mass-tort litigation, insurance constraints, and continued rebuilding delay. No settled contradiction found beyond the unreconciled tax-plan revision; electoral, fiscal, regulatory, fire-causation, negligence, lawsuit, reservoir, insurance, and polling claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-23] lint | Wiki health check
 

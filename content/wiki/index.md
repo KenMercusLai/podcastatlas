@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans](sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393.md) — All-In interviews on Hilton's expanded California affordability platform, Pratt's election-evidence concession, and post-fire litigation, insurance, and rebuilding constraints.
 - [276.当AI给出所有答案，年轻人如何找到自己的问题？](sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t.md) — 乱翻书 episode on AI fluency, problem definition, judgment, trust, apprenticeship, and responsibility in education and early careers.
 - [Tools for Nutrition & Fitness | Dr. Layne Norton](sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031.md) — Huberman Lab interview on evidence hierarchy, protein and meal timing, training to failure, aging, GLP-1 drugs, polarized food claims, and recovery priorities.
 - [VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节](sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz.md) — 这病说来话长 Physicians' Day roundtable on remembered patient stories, clinical outcome uncertainty, honest prognosis, trust, family communication, and long-term follow-up.
@@ -6718,7 +6719,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏景湣王 / 魏增 / King Jingmin of Wei](entities/WeiJingminWang.md) — Wei Anxi Wang's successor whose accession is the political motive inside the source-scoped Xinlingjun death suspicion.
 - [庞煖 / Pang Nuan](entities/PangNuan.md) — Zhao commander who defeats Yan's Ju Xin after Yan Wang Xi underestimates Zhao's remaining military capacity.
 - [东郡 / Dong Commandery](entities/DongCommandery.md) — Qin commandery created after Meng Ao captures twenty Wei cities in 242 BCE, turning conquest into administrative consolidation.
-- [Spencer Pratt](entities/SpencerPratt.md) — Los Angeles mayoral candidate whose All-In profile spans post-fire basic-services politics and a source-scoped mayoral-primary election-count dispute.
+- [Spencer Pratt](entities/SpencerPratt.md) — Former Los Angeles mayoral candidate whose profile spans post-fire governance, election-rule distrust bounded by an explicit lack-of-proof concession, and continuing political media work.
 - [Nithya Raman](entities/NithyaRaman.md) — Los Angeles political figure Pratt names as a mayoral-race actor linked in his account to DSA politics and opposition-splitting concerns.
 - [Los Angeles Department of Water and Power](entities/LosAngelesDepartmentOfWaterAndPower.md) — Utility named in Pratt's source-scoped fire-accountability claims about water readiness and post-fire legal action.
 - [Los Angeles Fire Department](entities/LosAngelesFireDepartment.md) — Emergency-response agency in Pratt's claims about fire assets, warnings, whistleblowers, and Palisades response.
@@ -7326,7 +7327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Eric Garcetti](entities/EricGarcetti.md) — Former Los Angeles mayor named in the episode's critique of safety-focused local leadership.
 - [Barbara Ferrer](entities/BarbaraFerrer.md) — Los Angeles public-health figure named in the source's COVID school-closure and safety-tradeoff critique.
 - [California Coastal Commission](entities/CaliforniaCoastalCommission.md) — California land-use agency used by Carolla as a symbol of post-fire rebuilding approval friction.
-- [Steve Hilton](entities/SteveHilton.md) — California political figure Carolla names positively as a possible alternative to business-as-usual governance.
+- [Steve Hilton](entities/SteveHilton.md) — California Republican gubernatorial candidate campaigning on tax relief, administrative cuts, deregulation, cheaper energy and vehicle costs, housing expansion, and public-order enforcement.
 - [Larry Elder](entities/LarryElder.md) — California political figure Carolla names positively in the episode's alternative-governance discussion.
 - [Rick Caruso](entities/RickCaruso.md) — Business-minded Los Angeles political figure Carolla names positively while criticizing local leadership.
 - [Tennessee](entities/Tennessee.md) — State used in Carolla's migration frame as an "octagon" contrast to high-procedure California cities.
