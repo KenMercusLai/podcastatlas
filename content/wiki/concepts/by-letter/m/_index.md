@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8010
+wiki_total_pages: 8011
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "MobileWork"
     title: "Mobile Work"
     url: "/wiki/concepts/mobilework/"
+  - key: "MobilisationDiplomacyEscalationTrap"
+    title: "Mobilisation-Diplomacy Escalation Trap"
+    url: "/wiki/concepts/mobilisationdiplomacyescalationtrap/"
   - key: "MobilityFarewellGeneration"
     title: "Mobility Farewell Generation / 流动生活中的离别经验"
     url: "/wiki/concepts/mobilityfarewellgeneration/"

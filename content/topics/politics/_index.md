@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2659
+topic_total_pages: 2661
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2188,6 +2188,9 @@ topic_concepts:
   - key: "MissionFocusedCompany"
     title: "Mission-Focused Company"
     url: "/wiki/concepts/missionfocusedcompany/"
+  - key: "MobilisationDiplomacyEscalationTrap"
+    title: "Mobilisation-Diplomacy Escalation Trap"
+    url: "/wiki/concepts/mobilisationdiplomacyescalationtrap/"
   - key: "ModelDistillationEvidence"
     title: "Model Distillation Evidence"
     url: "/wiki/concepts/modeldistillationevidence/"
@@ -7083,6 +7086,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845"
+    title: "473. The Road to The Great War: The Tsar Chooses War (Part 5)"
+    url: "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
   - key: "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702"
     title: "474. The Road to The Great War: The Lights Go Out (Part 6)"
     url: "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"

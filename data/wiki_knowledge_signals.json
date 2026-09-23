@@ -11043,9 +11043,9 @@
       "url": "/wiki/concepts/australiantherapeuticgoodsregulation/"
     },
     "AustriaHungary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11067,9 +11067,16 @@
           "show": "The Rest Is History",
           "title": "672. The First World War: Italy's Doomed Campaign (Part 2)",
           "url": "/wiki/sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/austriahungary/"
     },
     "AustroHungarianDualMonarchy": {
@@ -37408,9 +37415,9 @@
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EdwardGrey": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -37418,6 +37425,13 @@
           "show": "The Rest Is History",
           "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
           "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
         }
       ],
       "updated": "2026-09-24",
@@ -46178,9 +46192,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -46230,6 +46244,13 @@
           "show": "The Rest Is History",
           "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
           "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
         }
       ],
       "updated": "2026-09-24",
@@ -55979,9 +56000,9 @@
       "url": "/wiki/entities/handhgroup/"
     },
     "HHAsquith": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -55989,6 +56010,13 @@
           "show": "The Rest Is History",
           "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
           "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
         }
       ],
       "updated": "2026-09-24",
@@ -59140,6 +59168,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/hellobike/"
+    },
+    "HelmuthVonMoltkeTheYounger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/helmuthvonmoltketheyounger/"
     },
     "Hemophilia": {
       "episode_count": 1,
@@ -71544,9 +71588,9 @@
       "url": "/wiki/entities/juliuskurfgen/"
     },
     "JulyCrisis": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -71554,6 +71598,13 @@
           "show": "The Rest Is History",
           "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
           "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
         }
       ],
       "updated": "2026-09-24",
@@ -71737,9 +71788,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -71761,6 +71812,13 @@
           "show": "The Rest Is History",
           "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
           "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        },
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
         }
       ],
       "updated": "2026-09-24",
@@ -90614,6 +90672,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/mobiletechnologyconvergence/"
     },
+    "MobilisationDiplomacyEscalationTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/mobilisationdiplomacyescalationtrap/"
+    },
     "MobilityFirstEmbodiedAI": {
       "episode_count": 1,
       "show_count": 1,
@@ -93873,6 +93947,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/nicheoriginstoryexpansion/"
+    },
+    "NicholasII": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1322848845 [GLT1322848845].md",
+          "key": "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845",
+          "show": "The Rest Is History",
+          "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
+          "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/nicholasii/"
     },
     "NickCullinan": {
       "episode_count": 1,

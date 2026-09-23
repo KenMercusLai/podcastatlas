@@ -1710,6 +1710,18 @@
       "url": "/topics/science/"
     }
   ],
+  "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702": [
     {
       "key": "history",
@@ -48452,6 +48464,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MobilisationDiplomacyEscalationTrap": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MobilityFirstEmbodiedAI": [

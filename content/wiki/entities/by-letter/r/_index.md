@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10651
+wiki_total_pages: 10653
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"

@@ -22008,3 +22008,11 @@ Added source `474-the-road-to-the-great-war-the-lights-go-out-part-6-glt22935407
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 473. The Road to The Great War: The Tsar Chooses War (Part 5)
+
+Added source `473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845`; created `NicholasII`, `HelmuthVonMoltkeTheYounger`, and `MobilisationDiplomacyEscalationTrap`; updated `JulyCrisis`, `FirstWorldWar`, `KaiserWilhelmII`, `EdwardGrey`, `HHAsquith`, `AustriaHungary`, and the index. Core synthesis: between the ultimatum's expiry and Russian general mobilisation, mediation, "stop in Belgrade," royal telegrams, and delayed military measures remained conceivable off-ramps, but retribution, alliance commitments, strategic timing fear, public positioning, and military machinery made them progressively less executable. No settled contradiction found: Russian general mobilisation was decisive without being the sole cause, and monarchical reluctance does not erase political agency or responsibility. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
