@@ -21707,3 +21707,11 @@ Added source `489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192`
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 488. Hundred Years' War: The Road to Agincourt (Part 2)
+
+Added source `488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983`; created `Harfleur`, `CampaignLogisticsBattlefieldSelection`, and `ConquestDisciplineLegitimacy`; updated `HenryVOfEngland`, `BattleOfAgincourt`, `HundredYearsWar`, `Normandy`, `JohnTheFearless`, `LancastrianLegitimacy`, and the index. Core synthesis: the road to Agincourt was selected by accumulated operational constraints—Harfleur's siege delay and disease, an eight-day food plan, guarded Somme crossings, damaged routes, weather, and French concentration—while Henry's anti-plunder discipline served both his sovereignty claim and command control. No settled contradiction found; enormous French-number reports, Henry's possible desire for battle, John the Fearless's motives, and detailed figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

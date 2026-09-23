@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7942
+wiki_total_pages: 7944
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "CameraFreeSmartGlasses"
     title: "Camera-Free Smart Glasses / 无摄像头智能眼镜"
     url: "/wiki/concepts/camerafreesmartglasses/"
+  - key: "CampaignLogisticsBattlefieldSelection"
+    title: "Campaign Logistics and Battlefield Selection"
+    url: "/wiki/concepts/campaignlogisticsbattlefieldselection/"
   - key: "CampaignSpendingArmsRace"
     title: "Campaign Spending Arms Race"
     url: "/wiki/concepts/campaignspendingarmsrace/"
@@ -1508,6 +1511,9 @@ wiki_pages:
   - key: "ConquestCommanderyTransition"
     title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
     url: "/wiki/concepts/conquestcommanderytransition/"
+  - key: "ConquestDisciplineLegitimacy"
+    title: "Conquest Discipline as Legitimacy"
+    url: "/wiki/concepts/conquestdisciplinelegitimacy/"
   - key: "ConquestRuptureContinuity"
     title: "Conquest Rupture and Continuity"
     url: "/wiki/concepts/conquestrupturecontinuity/"

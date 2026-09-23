@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [488. Hundred Years' War: The Road to Agincourt (Part 2)](sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983.md) — The Rest Is History episode on Harfleur's siege, Henry V's conquest discipline, disease, provisions, Somme crossings, French concentration, and the forced road to Agincourt.
 - [489. Hundred Years' War: Bloodbath at Agincourt (Part 3)](sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192.md) — The Rest Is History episode on Henry V's command, Agincourt's mud, woods, archers, stakes, French coordination failure, prisoner killing, disputed numbers, and Shakespearean memory.
 - [How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki](sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563.md) — Huberman Lab interview on cynicism, hopeful skepticism, trust reciprocity, social misprediction, media negativity, workplace cooperation, and perceived political polarization.
 - [490. Hundred Years' War: England Triumphant (Part 4)](sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762.md) — The Rest Is History episode on Agincourt's aftermath, Henry V's conquest of Normandy, French factional collapse, the Treaty of Troyes, and the fragility of dual monarchy.
@@ -2731,6 +2732,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 
 ## Entities
+- [Harfleur](entities/Harfleur.md) — Norman port whose costly 1415 siege turned Henry V's intended springboard into the attritional prelude to Agincourt.
 - [Jamil Zaki](entities/JamilZaki.md) — Stanford psychologist framing cynicism, trust, social forecasts, and political misperception through hopeful skepticism and evidence-updating experiments.
 - [Henry V of England](entities/HenryVOfEngland.md) — English king who joined Agincourt, Normandy, diplomacy, and the Treaty of Troyes into an unfinished claim to France.
 - [Charles VI of France](entities/CharlesVIOfFrance.md) — French king retained by the Treaty of Troyes while regency and succession shifted to Henry V.
@@ -13320,6 +13322,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Campaign Logistics and Battlefield Selection](concepts/CampaignLogisticsBattlefieldSelection.md) — Process by which time, disease, provisions, crossings, routes, weather, and concentration shape where armies fight.
+- [Conquest Discipline as Legitimacy](concepts/ConquestDisciplineLegitimacy.md) — Use of anti-plunder rules to present invasion as rightful government, qualified by coercion and logistical tradeoffs.
 - [Terrain-Constrained Combined Arms](concepts/TerrainConstrainedCombinedArms.md) — Interaction model showing how terrain, weather, frontage, obstacles, troop roles, timing, and command structure determine whether a battle plan can function.
 - [Cynicism and Hopeful Skepticism](concepts/CynicismAndHopefulSkepticism.md) — Distinction between fixed negative assumptions about people and a curious, evidence-updating approach to social uncertainty.
 - [Trust Reciprocity Loop](concepts/TrustReciprocityLoop.md) — Feedback process through which trust or guardedness changes counterpart behavior and the evidence available for future belief.

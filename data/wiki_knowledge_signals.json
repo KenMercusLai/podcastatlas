@@ -12452,9 +12452,9 @@
       "url": "/wiki/concepts/batterysupplierdiversification/"
     },
     "BattleOfAgincourt": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -12469,6 +12469,13 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
         }
       ],
       "updated": "2026-09-23",
@@ -16737,6 +16744,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/campaignfinanceaccessincentive/"
+    },
+    "CampaignLogisticsBattlefieldSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/campaignlogisticsbattlefieldselection/"
     },
     "CampaignSpendingArmsRace": {
       "episode_count": 1,
@@ -25619,6 +25642,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/congoreformassociation/"
+    },
+    "ConquestDisciplineLegitimacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/conquestdisciplinelegitimacy/"
     },
     "ConquestRuptureContinuity": {
       "episode_count": 1,
@@ -56507,6 +56546,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
+    "Harfleur": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/harfleur/"
+    },
     "HaroldGodwinson": {
       "episode_count": 6,
       "show_count": 2,
@@ -57699,9 +57754,9 @@
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryVOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -57716,6 +57771,13 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
         }
       ],
       "updated": "2026-09-23",
@@ -62173,9 +62235,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -62197,6 +62259,13 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
         }
       ],
       "updated": "2026-09-23",
@@ -68754,9 +68823,9 @@
       "url": "/wiki/entities/johnternus/"
     },
     "JohnTheFearless": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -68764,6 +68833,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
         }
       ],
       "updated": "2026-09-23",
@@ -71974,9 +72050,9 @@
       "url": "/wiki/entities/lambdalabs/"
     },
     "LancastrianLegitimacy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -71991,6 +72067,13 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
         }
       ],
       "updated": "2026-09-23",
@@ -92128,9 +92211,9 @@
       "url": "/wiki/concepts/normanhybrididentity/"
     },
     "Normandy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -92138,6 +92221,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT2110427983 [GLT2110427983].md",
+          "key": "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983",
+          "show": "The Rest Is History",
+          "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
+          "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
         }
       ],
       "updated": "2026-09-23",
