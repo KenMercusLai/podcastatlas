@@ -8,13 +8,14 @@ sources:
   - wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42
   - yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian
   - niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504
-last_updated: 2026-09-20
+  - niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19
+last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
 
 ## Overview
-[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, and the human aftermath of Nepal's August 2026 flood.
+[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, and the human, infrastructural, and geopolitical dimensions of Nepal's August 2026 flood.
 
 ## Current Profile
 Across the current evidence, the show works as reported explanatory journalism rather than commentary-only audio. The 旺旺 episode combines mainland volunteer testimony, animal-law expertise, Hong Kong street interviews, and institutional controversy to connect one cruelty case to [[ChinaAnimalProtectionLawGap]], [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]].
@@ -27,6 +28,8 @@ The Shidai Fengjun episode adds a media-reconstruction and gender-politics branc
 
 The Nepal episode adds foreign disaster reporting centered on lived aftermath and institutional linkage. It moves from body-absent funerals and repeated displacement to temporary burial, DNA identification, hydropower damage, failed [[CrossBorderDisasterEarlyWarning]], and [[LossAndDamageClimateFinance]], while explicitly leaving unstable figures and machine-translated names qualified.
 
+The Gyirong follow-up shifts from aftermath to historical and system-level explanation. It treats [[GyirongPort]] as an old trade route, a modern border-control and diversification corridor, and a case of [[CumulativeRiverValleyDevelopmentRisk]], while qualifying the data-sharing critique with the intrinsic difficulty of predicting sudden ice-rock collapse.
+
 ## Key Characteristics
 - The episode is structured as reported journalism with named correspondents and interviewees.
 - Its core method is cross-border comparison between mainland expression constraints and Hong Kong's still-possible but cautious public action.
@@ -34,7 +37,7 @@ The Nepal episode adds foreign disaster reporting centered on lived aftermath an
 - It can use a first-person reporter experiment to examine how platforms change news attention and ethical judgment.
 - It can turn a viral animal or environmental controversy into a slower explainer about evidence, classification, and ethical responsibility.
 - It can reconstruct a contested street event while distinguishing visible acts from unproven chronology, organization, and motive.
-- It can connect intimate disaster testimony and ritual loss to warning systems, infrastructure, state capacity, and climate justice.
+- It can connect intimate disaster testimony and ritual loss to warning systems, infrastructure, state capacity, climate justice, corridor history, and geopolitics.
 
 ## Evidence
 - Reported-source profile: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] names the show in front matter and follows mainland and Hong Kong reporting threads.
@@ -44,12 +47,14 @@ The Nepal episode adds foreign disaster reporting centered on lived aftermath an
 - Environmental explainer method: [[wailai-bage-yeying-zhibo-yu-taiwan-wailai-wuzhong-nanti-db02e7aa04c129b49b1f36f750155b42]] moves from one nightjar livestream incident to alien-species definitions, evidence gaps, public hatred, and differentiated management.
 - Contested-event reconstruction: [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian]] compares disappearing originals, partial police footage, platform edits, official framing, and gendered interpretation without claiming a complete chronology.
 - Disaster-reporting method: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] uses named family cases, forensic procedure, infrastructure loss, warning delay, and climate finance to connect individual grief with institutional failure.
+- Historical-system method: [[niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19]] moves from a millennial trade route through modern port policy and bilateral interests to cumulative environmental risk and warning limits.
 
 ## Qualifications
-The wiki has only five sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal transcript contains unstable figures, possible translation errors, and little Chinese-side evidence.
+The wiki has only six sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, local perceptions that are not full institutional records, and no technical basis for claiming that bilateral data sharing would have predicted the collapse.
 
 ## What Changed
-- Added foreign disaster reporting that connects family testimony and ritual loss to warning, infrastructure, and climate-finance systems.
+- Added historical-system reporting that links corridor development and geopolitics to cumulative disaster exposure.
+- Added a stronger qualification separating warning-system gaps from event predictability.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -71,3 +76,6 @@ The wiki has only five sources on the podcast. Broader claims about the show's o
 - [[CrossBorderDisasterEarlyWarning]] - regional warning-system topic relationship.
 - [[LossAndDamageClimateFinance]] - climate-justice funding topic relationship.
 - [[DisasterVictimIdentificationAndBodyAbsentMourning]] - forensic and ritual aftermath topic relationship.
+- [[GyirongPort]] - historical border-corridor subject relationship.
+- [[CumulativeRiverValleyDevelopmentRisk]] - infrastructure-planning topic relationship.
+- [[StrategicBorderCorridorDependence]] - geopolitical corridor topic relationship.

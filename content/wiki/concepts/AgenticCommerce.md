@@ -2,50 +2,57 @@
 title: "Agentic Commerce"
 type: concept
 tags: [agents, commerce, payments]
-sources: [keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311, vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1, ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa, dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian, tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]
-last_updated: 2026-08-07
+sources:
+  - keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311
+  - vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1
+  - ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa
+  - dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian
+  - tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128
+  - tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128
+last_updated: 2026-09-24
+knowledge_schema: synthesis-v1
 ---
 
 # Agentic Commerce
 
-Agentic commerce is the pattern where an AI agent can search, compare, select, buy, and pay on a user's behalf instead of merely recommending products. In [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]], the hosts discuss Google's UCP shopping/payment protocol, the possibility of agents reordering daily goods, and Chinese examples such as AI-assisted milk-tea or Taobao purchasing.
+## Definition
+Agentic commerce is the use of an AI agent to search, compare, select, order, pay for, or manage goods and services on a user's behalf under defined identity, budget, preference, confirmation, fulfillment, and recourse boundaries.
 
-[[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] adds the consumer assistant and platform-incentive version. The hosts discuss source-reported [[OpenAI]] commerce integrations with [[Shopify]] and Etsy, then contrast that with Chinese platforms that may resist giving an outside assistant the user relationship, brand exposure, and transaction credit. [[Alibaba]]'s [[Qwen]] path is different because [[Taobao]], [[Fliggy]], [[Damai]], [[Gaode]], and other services can sit inside the same ecosystem.
+## Current Synthesis
+The bounded sources distinguish advice from action. [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] introduces shopping protocols and human confirmation; [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] shows that assistants need service ecosystems for booking and fulfillment; and [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] warns that assistant-led ordering can compress visible choice. [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds conversion data and sponsored ranking, so commerce integrations can serve advertising infrastructure as well as users.
 
-The concept sits between [[AgentFacingInterfaces]] and [[AgentPermissionBoundaries]]. For commerce to work, shopping platforms must expose action surfaces that agents can call, while users need clear confirmation, budget, identity, account, preference, and refund boundaries before agents can spend money.
-
-[[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] adds the milk-tea and local-service version. The hosts argue that if [[Meituan]] opened an MCP-like ordering interface, assistants such as [[Doubao]] and [[Yuanbao]] could complete purchases while Meituan retained fulfillment. The same example shows the risk: an AI ordering flow may display only a narrow set of shops or options, so recommendation power shifts away from full-page browsing.
-
-[[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] adds the advertising and conversion-data layer. [[GarrettJohnson]] points to [[OpenAI]] partnerships with [[Walmart]] and [[Shopify]] as potentially useful because commerce integrations can show what users buy, not only what they ask. That makes agentic commerce a data source for [[AISearchAdvertising]] as well as a user workflow.
-
-[[e231-cong-b2b-dao-a2a-agent-xin-jijian-ruhe-rang-yiren-qiye-zuo-quanqiu-shengyi-0f4a2ab9-d3a0-41ad-8db1-6c03c851bd70]] adds the B2B sourcing version through [[Axio]]. The purchase is not a simple checkout: agents must help define a product, compare factories, calculate landed cost, manage communication, arrange logistics, and carry after-sales or replenishment context into the next cycle.
-
-[[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] adds the payment-infrastructure version through [[Clink]] and [[Visa]]. [[PatrickWu]] distinguishes user-facing commerce, where the human remains the final consumer, from autonomous agent spending on task resources. The source makes [[AgentPaymentInfrastructure]] and [[AgentSpendControls]] explicit parts of agentic commerce: payment should encode user intent, product scope, budget, merchant context, and liability evidence rather than simply hand an agent a stored card.
+[[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] supplies the strongest trust architecture: an agent needs authenticated authority, an intent-bearing mandate, spend limits, merchant-callable catalogs and checkout, evidence of what happened, and dispute processes. The beauty episode adds an adoption sequence: users may welcome iterative recommendations while resisting checkout that requires addresses, logins, and credit-card details. Agentic commerce is therefore not one leap from chat to purchase; authority should expand only as the task, merchant, payment rail, and recourse system earn trust.
 
 ## Key Claims
-- Shopping is an obvious agent task because it combines search, comparison, routine preference, payment, and repeated replenishment.
-- Successful checkout is not enough; the agent also needs to respect price sensitivity, brand preference, delivery timing, substitutions, address choice, and return risk.
-- Payment authority makes [[AgentPermissionBoundaries]] stricter than in low-impact information retrieval.
-- Platform incentives matter: merchants and marketplaces may optimize for conversion, advertising, or lock-in rather than the user's preference model.
-- Agentic commerce can start with low-risk recurring goods, but high-value, regulated, or identity-sensitive purchases need stronger confirmation and audit trails.
-- Messaging or super-app entry points can make commerce agents powerful, but they also raise platform-access and competition questions.
-- Owned service ecosystems can make commerce assistants easier to launch, but they also increase ranking, advertising, commission, and self-preference risks.
-- Open commerce protocols may work differently across markets depending on whether platforms monetize through transaction take rate, advertising, traffic retention, or direct user ownership.
-- Agentic commerce can compress choice too much; users may gain convenience while losing visibility into alternatives, sponsorship, merchant diversity, or why one option was selected.
-- Commerce integrations can become ad infrastructure when purchase, conversion, and recommendation data feed sponsored answer ranking.
-- B2B agentic commerce needs stronger grounding than consumer shopping because incorrect specifications, tariffs, freight, hidden costs, or supplier claims can break the whole business case.
-- Agentic commerce becomes more viable when payment authorization is structured as a mandate with limits, eligible goods, and audit evidence.
-- Repeated low-value shopping and replenishment need a different authorization cadence from one-off high-risk purchases.
-- Merchant readiness matters as much as model ability: catalogs, checkout, fulfillment, refunds, and support need agent-callable surfaces.
+- Commerce agents need to preserve user intent across search, ranking, product selection, price, delivery, substitutions, payment, returns, and support.
+- Recommendation and transaction are different trust levels; useful advice does not imply permission to spend or disclose credentials.
+- Payment authorization should encode scope, budget, eligible goods, merchant context, confirmation rules, and evidence for later disputes.
+- Merchant readiness is as important as model capability because catalogs, checkout, coupons, logistics, refunds, and order status must be agent-callable.
+- Platform incentives matter: assistants and marketplaces may rank for conversion, commission, sponsorship, self-preference, or ecosystem control rather than user fit.
+- Agent-led interfaces can reduce browsing friction while hiding alternatives and making the reason for a recommendation harder to inspect.
+- Lower-risk, repeated, and reversible purchases can justify broader standing authority than expensive, regulated, biometric, health-related, or identity-sensitive transactions.
 
-## Connections
-- [[Google]], [[Meta]], and [[EuropeanUnion]] — platform-access and messaging-interface context in the source.
-- [[AgentFacingInterfaces]], [[AgentPermissionBoundaries]], and [[AgentIdentityAndAuthentication]] — infrastructure needed for safe action.
-- [[AIProductFragmentation]] — commerce agents need coherent entry points, not only model capability.
-- [[LocalLifePlatformDependency]] and [[PlatformDataRegulation]] — related platform-control themes around orders, merchants, and data visibility.
-- [[ChinaAgentMarketFriction]] — domestic app-ecosystem friction that may affect shopping agents.
-- [[AIAssistantServiceEntry]], [[Alibaba]], [[Qwen]], [[Taobao]], [[Fliggy]], [[Damai]], and [[Shopify]] — assistant-commerce and service-fulfillment cases added by EP117.
-- [[Meituan]], [[Doubao]], [[Yuanbao]], and [[ModelContextProtocol]] — local-service and milk-tea ordering case added by Keji Luandun.
-- [[Walmart]], [[OpenAI]], [[AISearchAdvertising]], and [[GenerativeEngineOptimization]] — conversion-data and sponsored-answer context added by Marketplace Tech.
-- [[ZhangKuo]], [[Alibaba]], [[Axio]], [[B2BToA2A]], and [[AgenticB2BSourcing]] — B2B sourcing and marketplace-operations branch added by E231.
-- [[Clink]], [[PatrickWu]], [[Visa]], [[AgentPaymentInfrastructure]], and [[AgentSpendControls]] — payment-mandate and merchant-readiness branch added by What's Next S10E22.
+## Evidence
+- Payment and authority evidence: [[keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311]] describes user intent, one-time payment capability, liability evidence, agent spend controls, and merchant readiness.
+- Protocol and confirmation evidence: [[vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1]] connects shopping protocols to platform access, payment authority, and human confirmation.
+- Ecosystem evidence: [[ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa]] contrasts outside commerce integrations with owned service stacks that can complete bookings and purchases but may intensify self-preference.
+- Choice-compression evidence: [[dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian]] uses local-service ordering to show how assistants can expose fewer options than traditional browsing.
+- Advertising evidence: [[tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128]] links commerce partnerships, conversion data, sponsored answers, and winner-take-most recommendation surfaces.
+- Adoption-boundary evidence: [[tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128]] says beauty users are more comfortable receiving recommendations than authorizing chatbot-controlled checkout with sensitive information.
+
+## Counterevidence & Qualifications
+The sources describe emerging products, protocols, demos, and host interpretations rather than mature adoption evidence. Protocol names, company plans, usage figures, integration details, and checkout changes remain source-scoped. A low-friction transaction is not necessarily a good transaction: compressed choice, hidden sponsorship, weak product fit, mistaken identity, irreversible payment, and poor recourse can offset convenience. The beauty case is a category-specific signal, not proof that every market will adopt advice before action at the same rate.
+
+## What Changed
+- Added a clearer adoption ladder from conversational recommendation to credentialed transaction authority.
+- Added beauty shopping as evidence that payment and identity disclosure can remain a barrier after recommendation value is established.
+- Migrated the page to the synthesis-first schema using its complete declared source inventory.
+
+## Related Concepts
+- [[AgentPermissionBoundaries]] - limits what an agent may access and do.
+- [[AgentPaymentInfrastructure]] - payment, authorization, and settlement layer.
+- [[AgentSpendControls]] - budget and eligible-purchase constraints.
+- [[AgentFacingInterfaces]] - merchant and service surfaces agents can call.
+- [[AIAssistantServiceEntry]] - assistant layer that routes users into real-world fulfillment.
+- [[AISearchAdvertising]] - commercial ranking layer that can distort product selection.
+- [[ConversationalBeautyAdvising]] - recommendation-first case that exposes the boundary before checkout.

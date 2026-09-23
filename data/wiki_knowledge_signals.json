@@ -5675,6 +5675,57 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/agenticcharactersubjectivity/"
     },
+    "AgenticCommerce": {
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "可以给你的 Agent 发一点零花钱了 ｜ S10E22 [9a652c19-ceb3-46c2-87b4-bca36e684311].md",
+          "key": "keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311",
+          "show": "What's Next｜科技早知道",
+          "title": "可以给你的 Agent 发一点零花钱了｜ S10E22",
+          "url": "/wiki/sources/keyi-gei-nide-agent-fa-yidian-linghuaqian-le-s10e22-9a652c19-ceb3-46c2-87b4-bca36e684311/"
+        },
+        {
+          "episode_file": "Vol. 162 科技快乐星球44： 新模型“SOTA们”齐贺新春 (1) [6628-1].md",
+          "key": "vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1",
+          "show": "枫言枫语",
+          "title": "Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春",
+          "url": "/wiki/sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1/"
+        },
+        {
+          "episode_file": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？ [lmp0PzdIg2iJOW5k3cNnnvVqq6Sa].md",
+          "key": "ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa",
+          "show": "硬地骇客",
+          "title": "EP117 豆包月活过亿，阿里再造「千问」是不是晚了？",
+          "url": "/wiki/sources/ep117-doubao-yuehuo-guoyi-ali-zaizao-qianwen-shibushi-wanle-lmp0pzdig2ijow5k3cnnnvvqq6sa/"
+        },
+        {
+          "episode_file": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁 ｜ 科技乱炖⧸急中生智⧸拼娃时代⧸其他 (1) [当可靠的代码变成了偶尔发疯的openclaw，我们未来的工-1].md",
+          "key": "dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian",
+          "show": "科技乱炖",
+          "title": "当可靠的代码变成了偶尔发疯的OpenClaw，我们未来的工作范式变迁",
+          "url": "/wiki/sources/dang-kekaode-daima-biancheng-le-ou-er-fafeng-de-openclaw-women-weilai-de-gongzuo-fanshi-bianqian/"
+        },
+        {
+          "episode_file": "tech_20251218_1218_MP_TECH_pod_128 [tech_20251218_1218_MP_TECH_pod_128].md",
+          "key": "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The challenges of integrating ads in AI search engines",
+          "url": "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260923_0923_MP_TECH_pod_128 [tech_20260923_0923_MP_TECH_pod_128].md",
+          "key": "tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The beauty industry is betting big on AI",
+          "url": "/wiki/sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/agenticcommerce/"
+    },
     "AgenticDataEngineeringHarness": {
       "episode_count": 1,
       "show_count": 1,
@@ -26941,6 +26992,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/conversationasselfrevelation/"
     },
+    "ConversationalBeautyAdvising": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260923_0923_MP_TECH_pod_128 [tech_20260923_0923_MP_TECH_pod_128].md",
+          "key": "tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The beauty industry is betting big on AI",
+          "url": "/wiki/sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/conversationalbeautyadvising/"
+    },
     "CooksWhoFeed": {
       "episode_count": 1,
       "show_count": 1,
@@ -28296,9 +28363,9 @@
       "url": "/wiki/concepts/crossbordercrimesanctuary/"
     },
     "CrossBorderDisasterEarlyWarning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "cd38365e015f056efaa8b0506c123504 [cd38365e015f056efaa8b0506c123504.mp3？aid=6aaa53eabf7eb386d39078a7&chid=66b07190af99592b5329f43a&ci=g5iSinE3kpKQHEKFcypY68NN9rpXlVIUlBLRKRCYvU6CC7h4oBMZfw==&pf=rss&sv=sphinx@1.280].md",
@@ -28306,9 +28373,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災現場：一場沒有遺體的葬禮",
           "url": "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
+        },
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/crossborderdisasterearlywarning/"
     },
     "CrossBorderEcommerceLocalizationPressure": {
@@ -28907,6 +28981,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/culturereviewtvreportformat/"
+    },
+    "CumulativeRiverValleyDevelopmentRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
     },
     "CuriosityDrivenMemoryEncoding": {
       "episode_count": 1,
@@ -36112,9 +36202,9 @@
       "url": "/wiki/entities/duanzhiqiang/"
     },
     "DuanwenNewsPodcast": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
@@ -36150,9 +36240,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災現場：一場沒有遺體的葬禮",
           "url": "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
+        },
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
     "Dubai": {
@@ -51230,6 +51327,78 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/generativedrive/"
     },
+    "GenerativeEngineOptimization": {
+      "episode_count": 9,
+      "show_count": 4,
+      "source_note_count": 9,
+      "sources": [
+        {
+          "episode_file": "tech_20260304_0304_MP_TECH_pod_128 [tech_20260304_0304_MP_TECH_pod_128].md",
+          "key": "tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Brands are racing to show up in AI search",
+          "url": "/wiki/sources/tech-20260304-0304-mp-tech-pod-128-tech-20260304-0304-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260225_0225_MP_TECH_pod_128 [tech_20260225_0225_MP_TECH_pod_128].md",
+          "key": "tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI Meets the Search for a BA",
+          "url": "/wiki/sources/tech-20260225-0225-mp-tech-pod-128-tech-20260225-0225-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260220_0220_MP_TECH_pod_128 [tech_20260220_0220_MP_TECH_pod_128].md",
+          "key": "tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Google to make links more prominent, Palantir moves to Florida and Ring reportedly had plans to use Search Party for more than finding lost dogs",
+          "url": "/wiki/sources/tech-20260220-0220-mp-tech-pod-128-tech-20260220-0220-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "AHARO2429033165 [AHARO2429033165].md",
+          "key": "ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "AI Startup Hits $8.6M ARR With V0 MVP and EUR85 Pricing",
+          "url": "/wiki/sources/ai-startup-hits-8-6m-arr-with-v0-mvp-and-eur85-pricing/"
+        },
+        {
+          "episode_file": "Advice Line with Shazi Visram of Happy Family Organics [c354a554-e764-44c6-89f9-e2192e3e5a86].md",
+          "key": "advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Shazi Visram of Happy Family Organics",
+          "url": "/wiki/sources/advice-line-with-shazi-visram-of-happy-family-organics-c354a554-e764-44c6-89f9-e2192e3e5a86/"
+        },
+        {
+          "episode_file": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding (1) [6623-1].md",
+          "key": "vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1",
+          "show": "枫言枫语",
+          "title": "Vol. 160 一年多以后，再聊AI写代码Vibe Coding",
+          "url": "/wiki/sources/vol-160-yi-nian-duo-yihou-zai-liao-ai-xie-daima-vibe-coding-1-6623-1/"
+        },
+        {
+          "episode_file": "AHARO3764928281 [AHARO3764928281].md",
+          "key": "he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "He demoted his SaaS to sell a service and 4x'd revenue in 12 months",
+          "url": "/wiki/sources/he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months/"
+        },
+        {
+          "episode_file": "tech_20251218_1218_MP_TECH_pod_128 [tech_20251218_1218_MP_TECH_pod_128].md",
+          "key": "tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The challenges of integrating ads in AI search engines",
+          "url": "/wiki/sources/tech-20251218-1218-mp-tech-pod-128-tech-20251218-1218-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260923_0923_MP_TECH_pod_128 [tech_20260923_0923_MP_TECH_pod_128].md",
+          "key": "tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The beauty industry is betting big on AI",
+          "url": "/wiki/sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/generativeengineoptimization/"
+    },
     "GenesisMission": {
       "episode_count": 2,
       "show_count": 1,
@@ -55401,6 +55570,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/gwenshotwell/"
+    },
+    "GyirongPort": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/gyirongport/"
     },
     "H1BVisaCoalitionFaultLine": {
       "episode_count": 4,
@@ -59584,9 +59769,9 @@
       "url": "/wiki/concepts/hightemplerite/"
     },
     "HimalayanGlacialFloodRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
@@ -59601,15 +59786,22 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災現場：一場沒有遺體的葬禮",
           "url": "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
+        },
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/himalayanglacialfloodrisk/"
     },
     "HinduKushHimalaya": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
@@ -59624,9 +59816,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災現場：一場沒有遺體的葬禮",
           "url": "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
+        },
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/hindukushhimalaya/"
     },
     "HippiasAthenianTyrant": {
@@ -63882,9 +64081,9 @@
       "url": "/wiki/concepts/hydraulicsiegewarfare/"
     },
     "HydropowerConcentrationRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
@@ -63899,9 +64098,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災現場：一場沒有遺體的葬禮",
           "url": "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
+        },
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/hydropowerconcentrationrisk/"
     },
     "HypenVice": {
@@ -73113,9 +73319,9 @@
       "url": "/wiki/entities/lmstudio/"
     },
     "LOreal": {
-      "episode_count": 5,
-      "show_count": 4,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "绿点小样 ｜ 要推广替换芯，得把美妆重做一遍 [1006757937].md",
@@ -73151,9 +73357,16 @@
           "show": "乱翻书",
           "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
           "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+        },
+        {
+          "episode_file": "tech_20260923_0923_MP_TECH_pod_128 [tech_20260923_0923_MP_TECH_pod_128].md",
+          "key": "tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The beauty industry is betting big on AI",
+          "url": "/wiki/sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/loreal/"
     },
     "LPDDR6": {
@@ -92565,9 +92778,9 @@
       "url": "/wiki/concepts/neoantigenselectiontradeoff/"
     },
     "Nepal": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Afghanistan, five years on： our correspondent visits [6a7ee547049c692a6b3ee0a9].md",
@@ -92589,9 +92802,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災現場：一場沒有遺體的葬禮",
           "url": "/wiki/sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504/"
+        },
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/nepal/"
     },
     "Netherlands": {
@@ -122376,6 +122596,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/strategicbasetransferallianceconsolidation/"
+    },
+    "StrategicBorderCorridorDependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "fe064a422e32872349638d39a97d8c19 [fe064a422e32872349638d39a97d8c19.mp3？aid=6ab37359325534dc4f7bb6ee&chid=66b07190af99592.280].md",
+          "key": "niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
+          "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/strategicbordercorridordependence/"
     },
     "StrategicDefectorIncorporation": {
       "episode_count": 5,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7995
+wiki_total_pages: 7998
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1682,6 +1682,9 @@ wiki_pages:
   - key: "StrategicAIInfrastructureDependence"
     title: "Strategic AI Infrastructure Dependence"
     url: "/wiki/concepts/strategicaiinfrastructuredependence/"
+  - key: "StrategicBorderCorridorDependence"
+    title: "Strategic Border-Corridor Dependence"
+    url: "/wiki/concepts/strategicbordercorridordependence/"
   - key: "StrategicCapitalRelocation"
     title: "Strategic Capital Relocation / 战略性迁都"
     url: "/wiki/concepts/strategiccapitalrelocation/"

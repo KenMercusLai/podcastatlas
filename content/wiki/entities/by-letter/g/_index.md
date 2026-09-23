@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10625
+wiki_total_pages: 10626
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "GwenShotwell"
     title: "Gwynne Shotwell"
     url: "/wiki/entities/gwenshotwell/"
+  - key: "GyirongPort"
+    title: "Gyirong Port"
+    url: "/wiki/entities/gyirongport/"
   - key: "Gracchi"
     title: "The Gracchi / 格拉古兄弟"
     url: "/wiki/entities/gracchi/"

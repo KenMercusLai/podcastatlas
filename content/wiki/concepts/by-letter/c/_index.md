@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7995
+wiki_total_pages: 7998
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1769,6 +1769,9 @@ wiki_pages:
   - key: "ConversationAsSelfRevelation"
     title: "Conversation As Self-Revelation / 对话作为自我显现"
     url: "/wiki/concepts/conversationasselfrevelation/"
+  - key: "ConversationalBeautyAdvising"
+    title: "Conversational Beauty Advising"
+    url: "/wiki/concepts/conversationalbeautyadvising/"
   - key: "ConversationalSearchInterface"
     title: "Conversational Search Interface"
     url: "/wiki/concepts/conversationalsearchinterface/"
@@ -2249,6 +2252,9 @@ wiki_pages:
   - key: "CultureReviewTvReportFormat"
     title: "Culture-Review TV Report Format / 文化电视报式评论"
     url: "/wiki/concepts/culturereviewtvreportformat/"
+  - key: "CumulativeRiverValleyDevelopmentRisk"
+    title: "Cumulative River-Valley Development Risk"
+    url: "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
   - key: "CuriosityOverReactivity"
     title: "Curiosity Over Reactivity"
     url: "/wiki/concepts/curiosityoverreactivity/"

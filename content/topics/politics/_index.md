@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2653
+topic_total_pages: 2654
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3376,6 +3376,9 @@ topic_concepts:
   - key: "StrategicAccessWithoutAnnexation"
     title: "Strategic Access Without Annexation"
     url: "/wiki/concepts/strategicaccesswithoutannexation/"
+  - key: "StrategicBorderCorridorDependence"
+    title: "Strategic Border-Corridor Dependence"
+    url: "/wiki/concepts/strategicbordercorridordependence/"
   - key: "StrategicConcessionDiplomacy"
     title: "Strategic Concession Diplomacy / 欲擒故纵式让利外交"
     url: "/wiki/concepts/strategicconcessiondiplomacy/"

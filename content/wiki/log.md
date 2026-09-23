@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | 尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？
+
+Added source `niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19`; created `GyirongPort`, `CumulativeRiverValleyDevelopmentRisk`, and `StrategicBorderCorridorDependence`; updated `DuanwenNewsPodcast`, `Nepal`, `HinduKushHimalaya`, `HimalayanGlacialFloodRisk`, `HydropowerConcentrationRisk`, `CrossBorderDisasterEarlyWarning`, and the index. Core synthesis: Gyirong is simultaneously an old trade route, a modern border-governance and Nepalese diversification corridor, and a concentrated hazard site where ports, roads, hydropower, settlements, and logistics share one valley; project-level review can miss this cumulative exposure, while formal cross-border data sharing remains incomplete but would not necessarily make sudden ice-rock collapse predictable. No settled contradiction found; casualty figures are dated snapshots, and control perceptions, project losses, environmental-review quality, warning contents, and reconstruction expectations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时｜中国互联网故事 29
 
 Added source `no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096`; created `FaradayFuture` and `EcosystemExpansionLeverage`; migrated and updated `JiaYueting`, `LeEco`, and `LeSports`; and updated the index. Core synthesis: LeEco shipped meaningful video, television, smartphone, film, and sports products and anticipated several later business directions, but a plausible vertical-integration model became a finance-dependent seven-ecosystem expansion whose supplier credit, guarantees, related-company flows, pledges, and capital-intensive auto ambitions transmitted one liquidity break across the group. No settled contradiction found; exact sales, revenue, debt, financing, delivery, and valuation figures remain source-scoped because the corporate structure was complex and regulators later found historical disclosure unreliable. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21920,6 +21924,18 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | National front-runner: who can beat Le Pen?
 
 Added source `national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60`; created `RaphaelGlucksmann`, `BrunoRetailleau`, `ArgentinePolo`, `CentristFragmentationRunoffRisk`, `IdentityProxiedBorderEnforcement`, `BorderBufferZoneCivilianBurden`, and `ArgentinePoloCluster`; updated `MarineLePen`, `NationalRally`, `EdouardPhilippe`, `GabrielAttal`, `JeanLucMelenchon`, `TwoRoundPresidentialElection`, `India`, `Bangladesh`, `IndianMuslims`, `WestBengal`, `BharatiyaJanataParty`, `Argentina`, and the index. Core synthesis: Le Pen's durable lead is reinforced by opposition fragmentation; India-Bangladesh border enforcement can turn Bengali-Muslim identity into a proxy for foreignness while burdening Indian citizens inside the controlled zone; and Argentina's polo advantage is an ecosystem of horses, skills, breeding, cloning, infrastructure, administration, and foreign demand. No settled contradiction found; polling, candidate coordination, border counts, deportation and citizenship accounts, player rankings, cloning practices, and industry-resilience claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | The beauty industry is betting big on AI
+
+Added source `tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128`; created `ConversationalBeautyAdvising`; updated `GenerativeEngineOptimization`, `AgenticCommerce`, `LOreal`, and the index. Core synthesis: beauty is well suited to iterative AI advice because product choice is personal, visual, and context dependent, but medical authority, sponsored ranking, appearance pressure, facial-data consent, and credentialed checkout are distinct trust boundaries; consumers may accept recommendation before transaction authority, while brands need richer product evidence without assuming that machine legibility guarantees neutral advice. No settled contradiction found; market size, referral share, conversation duration, partnership scope, lawsuit allegations, product changes, and adoption claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-24] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2082
+topic_total_pages: 2084
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2722,6 +2722,9 @@ topic_concepts:
   - key: "StrategicAcquirerFit"
     title: "Strategic Acquirer Fit"
     url: "/wiki/concepts/strategicacquirerfit/"
+  - key: "StrategicBorderCorridorDependence"
+    title: "Strategic Border-Corridor Dependence"
+    url: "/wiki/concepts/strategicbordercorridordependence/"
   - key: "StrategicFocusUnderIncumbentPressure"
     title: "Strategic Focus Under Incumbent Pressure"
     url: "/wiki/concepts/strategicfocusunderincumbentpressure/"
@@ -3917,6 +3920,9 @@ topic_entities:
   - key: "GuyRaz"
     title: "Guy Raz"
     url: "/wiki/entities/guyraz/"
+  - key: "GyirongPort"
+    title: "Gyirong Port"
+    url: "/wiki/entities/gyirongport/"
   - key: "HabibayStartupEmbassyResident"
     title: "Habibay (Startup Embassy Resident)"
     url: "/wiki/entities/habibaystartupembassyresident/"

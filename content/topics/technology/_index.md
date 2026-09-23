@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3124
+topic_total_pages: 3129
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1516,6 +1516,9 @@ topic_concepts:
   - key: "ContinuousLearningAgainstDisplacement"
     title: "Continuous Learning Against Displacement / 以持续学习对抗替代"
     url: "/wiki/concepts/continuouslearningagainstdisplacement/"
+  - key: "ConversationalBeautyAdvising"
+    title: "Conversational Beauty Advising"
+    url: "/wiki/concepts/conversationalbeautyadvising/"
   - key: "ConversationalSearchInterface"
     title: "Conversational Search Interface"
     url: "/wiki/concepts/conversationalsearchinterface/"
@@ -1549,6 +1552,9 @@ topic_concepts:
   - key: "CrossDatasetPrivacyLinkage"
     title: "Cross-Dataset Privacy Linkage"
     url: "/wiki/concepts/crossdatasetprivacylinkage/"
+  - key: "CumulativeRiverValleyDevelopmentRisk"
+    title: "Cumulative River-Valley Development Risk"
+    url: "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
   - key: "CustomerServiceSludge"
     title: "Customer Service Sludge"
     url: "/wiki/concepts/customerservicesludge/"
@@ -3880,6 +3886,9 @@ topic_concepts:
   - key: "StrategicAIInfrastructureDependence"
     title: "Strategic AI Infrastructure Dependence"
     url: "/wiki/concepts/strategicaiinfrastructuredependence/"
+  - key: "StrategicBorderCorridorDependence"
+    title: "Strategic Border-Corridor Dependence"
+    url: "/wiki/concepts/strategicbordercorridordependence/"
   - key: "StrategicGeneration"
     title: "Strategic Generation"
     url: "/wiki/concepts/strategicgeneration/"
@@ -5510,6 +5519,9 @@ topic_entities:
   - key: "GwenShotwell"
     title: "Gwynne Shotwell"
     url: "/wiki/entities/gwenshotwell/"
+  - key: "GyirongPort"
+    title: "Gyirong Port"
+    url: "/wiki/entities/gyirongport/"
   - key: "H3C"
     title: "H3C / 华三"
     url: "/wiki/entities/h3c/"
@@ -8946,6 +8958,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680"
     title: "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-the-1-hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs-42245680/"
+  - key: "tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128"
+    title: "The beauty industry is betting big on AI"
+    url: "/wiki/sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128/"
   - key: "the-business-of-heated-rivalry"
     title: "The Business of Heated Rivalry"
     url: "/wiki/sources/the-business-of-heated-rivalry/"
