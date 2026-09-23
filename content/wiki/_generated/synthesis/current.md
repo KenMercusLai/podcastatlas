@@ -3,12 +3,12 @@
 schema_version: 1
 generated: true
 synthesis_source: compact
-last_updated: 2026-09-22
-as_of_overview_commit: 6bb28f033c2f4425dcb57439526bd50b7fd7c76a
+last_updated: 2026-09-23
+as_of_overview_commit: dc7b7635a354cb899da7349935a2c7eb706e084a
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2679
-source_count: 2679
-paragraph_count: 694
+episode_count: 2720
+source_count: 2720
+paragraph_count: 696
 topic_count: 9
 ---
 
@@ -82,7 +82,7 @@ Science and health literacy require mechanism, measurement, context, escalation 
 
 ### Work, Education, and Society
 
-Learning and work improve through active practice, trustworthy institutions, usable systems, transfer evidence, human judgment, and care capacity.
+Learning, work, and digital well-being improve through active practice, trustworthy institutions, usable systems, transfer evidence, human judgment, care capacity, and durable social boundaries.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10590
+wiki_total_pages: 10592
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "GoldenDawn"
     title: "Golden Dawn / 金色黎明"
     url: "/wiki/entities/goldendawn/"
+  - key: "GoldenDoor"
+    title: "Golden Door"
+    url: "/wiki/entities/goldendoor/"
   - key: "GoldenFleece"
     title: "Golden Fleece / 金羊毛"
     url: "/wiki/entities/goldenfleece/"

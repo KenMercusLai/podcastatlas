@@ -32491,6 +32491,29 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/digitalant/"
     },
+    "DigitalDetoxEconomy": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260102_0102_MP_TECH_pod_128 [tech_20260102_0102_MP_TECH_pod_128].md",
+          "key": "tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trying to stay off your phone? There's an app for that",
+          "url": "/wiki/sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260922_0922_MP_TECH_pod_128 [tech_20260922_0922_MP_TECH_pod_128].md",
+          "key": "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The cost of digitally disconnecting",
+          "url": "/wiki/sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/digitaldetoxeconomy/"
+    },
     "DigitalMemoryDefault": {
       "episode_count": 1,
       "show_count": 1,
@@ -51886,6 +51909,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/goldjewelryvalueperceptionrisk/"
+    },
+    "GoldenDoor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260922_0922_MP_TECH_pod_128 [tech_20260922_0922_MP_TECH_pod_128].md",
+          "key": "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The cost of digitally disconnecting",
+          "url": "/wiki/sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/goldendoor/"
     },
     "GongDuLateHan": {
       "episode_count": 1,
@@ -97181,6 +97220,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/paulrouse/"
     },
+    "PaulaMejia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260922_0922_MP_TECH_pod_128 [tech_20260922_0922_MP_TECH_pod_128].md",
+          "key": "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The cost of digitally disconnecting",
+          "url": "/wiki/sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/paulamejia/"
+    },
     "PaulineLeon": {
       "episode_count": 1,
       "show_count": 1,
@@ -112373,6 +112428,50 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/screenexitcreativepractice/"
+    },
+    "ScreenTimeFriction": {
+      "episode_count": 5,
+      "show_count": 3,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？ [lsLocZLnKMcrRfpN9Coh8RrQO_WB].md",
+          "key": "ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb",
+          "show": "Talk三联",
+          "title": "EP265 当“请3休13”冲上热搜，我们如何给人生放一个长假？",
+          "url": "/wiki/sources/ep265-dang-qing3xiu13-chongshang-resou-women-ruhe-gei-rensheng-fang-yige-changjia-lsloczlnkmcrrfpn9coh8rrqo-wb/"
+        },
+        {
+          "episode_file": "EP258 我们如何重拾睡前读书？ [lobyZXqK2oaoV0v51cm355U8NoiX].md",
+          "key": "ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix",
+          "show": "Talk三联",
+          "title": "EP258 我们如何重拾睡前读书？",
+          "url": "/wiki/sources/ep258-women-ruhe-chongshi-shuiqian-dushu-lobyzxqk2oaov0v51cm355u8noix/"
+        },
+        {
+          "episode_file": "154.四十岁感言：不做那只温水里的青蛙 [lg_QJ3P2lq-8sk_RN2Vk209Tq9X-].md",
+          "key": "154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x",
+          "show": "起朱楼宴宾客",
+          "title": "154.四十岁感言：不做那只温水里的青蛙",
+          "url": "/wiki/sources/154-sishisui-ganyan-bu-zuo-nazhi-wenshuili-de-qingwa-lg-qj3p2lq-8sk-rn2vk209tq9x/"
+        },
+        {
+          "episode_file": "tech_20260102_0102_MP_TECH_pod_128 [tech_20260102_0102_MP_TECH_pod_128].md",
+          "key": "tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Trying to stay off your phone? There's an app for that",
+          "url": "/wiki/sources/tech-20260102-0102-mp-tech-pod-128-tech-20260102-0102-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260922_0922_MP_TECH_pod_128 [tech_20260922_0922_MP_TECH_pod_128].md",
+          "key": "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "The cost of digitally disconnecting",
+          "url": "/wiki/sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/screentimefriction/"
     },
     "ScreeningResultInterpretation": {
       "episode_count": 2,

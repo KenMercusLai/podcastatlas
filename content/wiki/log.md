@@ -21771,3 +21771,11 @@ Added source `yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shix
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | The cost of digitally disconnecting
+
+Added source `tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128`; created `PaulaMejia` and `GoldenDoor`; updated `DigitalDetoxEconomy`, `ScreenTimeFriction`, `overview`, and the index. Core synthesis: digital detox now spans everyday counter-design and high-priced protected environments; routine substitution and social connection can interrupt automatic checking, but rapid rebound limits durability; and consumer tools cannot replace cultural and workplace boundaries that make disconnection feasible. No settled contradiction found; the retreat price, clientele trend, Meta settlement reference, comparative national work norms, and one personal experiment remain source-scoped.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

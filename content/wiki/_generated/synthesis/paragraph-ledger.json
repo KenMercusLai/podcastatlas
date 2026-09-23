@@ -695,12 +695,13 @@
       "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
       "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276",
       "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6",
-      "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5"
+      "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
+      "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73"
     ],
-    "paragraph_count": 695
+    "paragraph_count": 696
   },
-  "overview_commit": "966a57c73e64e41625b7ccf9474caabf3f196aea",
-  "overview_digest": "f5adbbfac845836276b4459462a33a48e9670eac26f7104d19c6a9c8abb4ed10",
+  "overview_commit": "dc7b7635a354cb899da7349935a2c7eb706e084a",
+  "overview_digest": "46f49c21b30cc2603d5b3ea4a6f7ef7d2047a73d7f27c097b0315ac7e3ebc1fd",
   "paragraphs": [
     {
       "id": "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
@@ -20797,6 +20798,25 @@
         "StoryDrivenPortraitPhotography",
         "WushichaYanjiusuo",
         "ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb"
+      ]
+    },
+    {
+      "id": "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128|The cost of digitally disconnecting]], a [[MarketplaceTech]] episode with writer [[PaulaMejia]] on luxury retreats and practical attempts to reduce phone use. It adds [[GoldenDoor]], while extending [[DigitalDetoxEconomy]], [[ScreenTimeFriction]], and [[WorkRestBoundary]]. Its core synthesis is that disconnection is sold across a wide price range, from apps and physical blockers to a roughly $9,000 retreat; replacing automatic checking with reading, companionship, and social contact can reduce use temporarily, but rapid rebound limits claims of durability; and consumer counter-design cannot replace cultural and workplace boundaries that make disconnection feasible. No settled contradiction is recorded; the retreat price and clientele trend, Meta settlement reference, comparative national work norms, and one personal experiment remain source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "DigitalDetoxEconomy",
+        "GoldenDoor",
+        "MarketplaceTech",
+        "PaulaMejia",
+        "ScreenTimeFriction",
+        "WorkRestBoundary",
+        "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128"
       ]
     }
   ],

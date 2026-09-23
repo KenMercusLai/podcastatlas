@@ -2737,6 +2737,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
+- [The cost of digitally disconnecting](sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128.md) — Marketplace Tech episode on luxury digital-detox retreats, practical routine substitution, rapid screen-time rebound, offline status performance, and the need for workplace and cultural boundaries.
 
 ## Entities
 - [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
@@ -13338,6 +13339,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [American Independent Party](entities/AmericanIndependentParty.md) — Party vehicle for Wallace's state-by-state ballot campaign and regional Electoral College strategy.
 
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
+- [Paula Mejia](entities/PaulaMejia.md) — Writer linking luxury digital-detox services and a short personal phone-use experiment to broader cultural and workplace expectations.
+- [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
 - [Electric Two-Wheeler Premiumization / 电动两轮车高端化](concepts/ElectricTwoWheelerPremiumization.md) — Framework joining practical smart features, design, youth identity, and offline service into a higher-price electric two-wheeler proposition.
