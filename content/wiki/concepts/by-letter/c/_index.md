@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7952
+wiki_total_pages: 7955
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1925,6 +1925,9 @@ wiki_pages:
   - key: "CreativeCoreRenewal"
     title: "Creative Core Renewal"
     url: "/wiki/concepts/creativecorerenewal/"
+  - key: "CreativeHobbyCommercializationBoundary"
+    title: "Creative Hobby Commercialization Boundary / 创作爱好商业化边界"
+    url: "/wiki/concepts/creativehobbycommercializationboundary/"
   - key: "CreativeLaborAIBacklash"
     title: "Creative Labor AI Backlash"
     url: "/wiki/concepts/creativelaboraibacklash/"

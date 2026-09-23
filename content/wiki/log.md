@@ -21739,3 +21739,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意
+
+Added source `ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb`; created `FangzhouPhotographer`, `StoryDrivenPortraitPhotography`, `ParticipatoryPortraitCoCreation`, and `CreativeHobbyCommercializationBoundary`; and updated `WushichaYanjiusuo`, `overview`, and the index. Core synthesis: story-led appointment photography is an end-to-end research, direction, logistics, contingency, and editing practice; its experience value is co-created across preparation, role-play, shooting, waiting, and sharing; and commercialization changes the decision hierarchy from autonomous expression toward paid client delivery while requiring repeatable demand rather than passion alone. No settled contradiction found; travel-shoot market figures, Luoyang shop counts, platform response, city character, and business viability remain source-scoped.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

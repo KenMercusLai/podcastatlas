@@ -694,12 +694,13 @@
       "27eb163e7b6672cad2ba79bd976c9d702fb9382e5872d2a7043f47e56556a769",
       "23ce811535da0bad51bb0cb6439ab79f355407841d540b4b136099756f878cef",
       "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276",
-      "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6"
+      "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6",
+      "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5"
     ],
-    "paragraph_count": 694
+    "paragraph_count": 695
   },
-  "overview_commit": "fd77ebe8d43a11821fbc659d2226457d333980e0",
-  "overview_digest": "b2f6c8c9d79244adb2fca5e3b72a84e04a0a6dcfa1d9e6edcf0dc303a4922410",
+  "overview_commit": "8062ddea3a5ef8edabc331f3b3b661e00f6b52db",
+  "overview_digest": "f5adbbfac845836276b4459462a33a48e9670eac26f7104d19c6a9c8abb4ed10",
   "paragraphs": [
     {
       "id": "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
@@ -20773,6 +20774,29 @@
         "ExerciseRecoveryReadiness",
         "HubermanLab",
         "essentials-supercharge-exercise-performance-recovery-with-cooling-scim3687301411"
+      ]
+    },
+    {
+      "id": "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb|EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意]], a [[WushichaYanjiusuo|无时差研究所]] episode with [[FangzhouPhotographer|方舟]] on appointment photography as creative production, service work, and shared experience. It adds [[FangzhouPhotographer|方舟]], [[StoryDrivenPortraitPhotography|故事型人像摄影]], [[ParticipatoryPortraitCoCreation|参与式约拍共创]], and [[CreativeHobbyCommercializationBoundary|创作爱好商业化边界]]. Its core synthesis is that a themed portrait shoot joins textual and historical research, casting, location scouting, direction, weather and equipment contingency, selection, and editing; participants co-create value across preparation, role-play, shooting, waiting, and sharing; and payment changes the decision hierarchy from autonomous expression toward client-first delivery. No settled contradiction is recorded; travel-shoot market figures, Luoyang shop counts, platform response, city character, and business viability remain source-scoped, while primary-job income currently protects experimentation without proving a full-time photography business.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "culture-and-media": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "CreativeHobbyCommercializationBoundary",
+        "FangzhouPhotographer",
+        "ParticipatoryPortraitCoCreation",
+        "StoryDrivenPortraitPhotography",
+        "WushichaYanjiusuo",
+        "ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb"
       ]
     }
   ],

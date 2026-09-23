@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7952
+wiki_total_pages: 7955
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1646,6 +1646,9 @@ wiki_pages:
   - key: "StoryBasedEmpathy"
     title: "Story-Based Empathy"
     url: "/wiki/concepts/storybasedempathy/"
+  - key: "StoryDrivenPortraitPhotography"
+    title: "Story-Driven Portrait Photography / 故事型人像摄影"
+    url: "/wiki/concepts/storydrivenportraitphotography/"
   - key: "StoryWithinStoryNarration"
     title: "Story-Within-Story Narration"
     url: "/wiki/concepts/storywithinstorynarration/"

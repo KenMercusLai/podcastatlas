@@ -3,9 +3,9 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-21
-as_of_overview_commit: 1d160f9cc7e2388bd4e4929c5f7f11c62b4351ea
-input_digest: 9b99c2c256e6c0a20e305e8f7d268edbe0570b00fefb374d47082c2746c58f0e
+last_updated: 2026-09-23
+as_of_overview_commit: 8062ddea3a5ef8edabc331f3b3b661e00f6b52db
+input_digest: d944f701a1f7c66027efc2e719379fc9420b8fa36b1143e3a95813a45bab309f
 ---
 
 # Work, Education, and Society
@@ -990,3 +990,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - This Eastern Han case is not direct evidence for modern organizational hiring or performance systems.
 - Visible frugality can have real norm effects even when it is also strategic; signal ambiguity does not prove universal hypocrisy.
 - The broad institutional and economic claims require wider textual corroboration.
+
+### Creative Side Work Balances Client Duty And Autonomous Authorship
+
+[[ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb|EP388]] adds a creative-work boundary: [[FangzhouPhotographer|方舟]] uses [[StoryDrivenPortraitPhotography]] to combine research, direction, field logistics, and editing, while [[CreativeHobbyCommercializationBoundary]] separates client-first delivery from self-directed authorship and [[ParticipatoryPortraitCoCreation]] shows that participants contribute to the experience without erasing the photographer's unequal production responsibility.
+
+**Evidence:** [[ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb]], [[FangzhouPhotographer]], [[StoryDrivenPortraitPhotography]], [[CreativeHobbyCommercializationBoundary]], [[ParticipatoryPortraitCoCreation]], [[WushichaYanjiusuo]]
+
+**Qualifications:**
+
+- This is one creator's source-scoped work pattern, not a universal career-transition or side-income rule.
+- Self-directed work may preserve authorship while increasing unpaid preparation, and client work may constrain expression while creating learning, relationships, and income.
+- The source does not establish the income, workload, or demand thresholds required for full-time transition.

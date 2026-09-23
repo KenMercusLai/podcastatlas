@@ -3,9 +3,9 @@
 generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
-last_updated: 2026-09-21
-as_of_overview_commit: fa80a1a3aad378a73277490ec9d6bb838ec0d37a
-input_digest: e57be979d925f74fdaaa698eddc1599899e56619806ad07f63538a08489421c2
+last_updated: 2026-09-23
+as_of_overview_commit: 8062ddea3a5ef8edabc331f3b3b661e00f6b52db
+input_digest: e9359c72c30945ee84efdec03f5195922806d9300df0a3391b35d45b69add239
 ---
 
 # Business and Markets
@@ -1199,3 +1199,15 @@ The supplement case shows category awareness being created outside official chan
 - Visitor, occupancy, revenue, return, and expansion figures remain source-scoped rather than independently audited.
 - The model depends on a particular owner catchment, resident experience, carrying capacity, and operating authority, so visible landmarks and festivals alone do not establish replicability.
 - The roundup's [[OnRunning]], [[KylianMbappe|Kylian Mbappe]], and [[MusePersonalAgent|Muse]] side items remain separate updates rather than evidence for the Anaya operating model.
+
+### Appointment Photography Business Needs Client Fit And Repeatable Demand
+
+[[ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb|EP388]] adds an experience-service business case: [[FangzhouPhotographer|方舟]] and [[CreativeHobbyCommercializationBoundary]] show that [[StoryDrivenPortraitPhotography]] becomes commercial only when research, direction, contingency, editing, client appearance, and style expectations turn into repeatable delivery, while [[ParticipatoryPortraitCoCreation]] explains why preparation, role-play, waiting, and sharing can create value beyond the final image.
+
+**Evidence:** [[ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb]], [[FangzhouPhotographer]], [[CreativeHobbyCommercializationBoundary]], [[StoryDrivenPortraitPhotography]], [[ParticipatoryPortraitCoCreation]], [[WushichaYanjiusuo]]
+
+**Qualifications:**
+
+- The business claims come from one photographer's current practice and do not establish market-wide pricing, conversion, income, or viability.
+- Travel-shoot participation, market-size, Luoyang shop-count, and platform-performance figures remain source-scoped because definitions and independent verification are absent.
+- Primary-job income can protect experimentation but also limits time and does not prove a path to full-time photography.
