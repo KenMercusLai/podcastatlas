@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10608
+wiki_total_pages: 10612
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "GreatEmbassy"
     title: "Great Embassy / 大使团出访"
     url: "/wiki/entities/greatembassy/"
+  - key: "GreatFear1789"
+    title: "Great Fear of 1789"
+    url: "/wiki/entities/greatfear1789/"
   - key: "GreatHarvestBread"
     title: "Great Harvest Bread"
     url: "/wiki/entities/greatharvestbread/"

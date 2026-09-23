@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10608
+wiki_total_pages: 10612
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "DeclarationOfIndependence"
     title: "Declaration of Independence"
     url: "/wiki/entities/declarationofindependence/"
+  - key: "DeclarationOfRightsOfManAndCitizen"
+    title: "Declaration of the Rights of Man and of the Citizen"
+    url: "/wiki/entities/declarationofrightsofmanandcitizen/"
   - key: "DeclarationOfTheRightsOfWoman"
     title: "Declaration of the Rights of Woman and of the Female Citizen"
     url: "/wiki/entities/declarationoftherightsofwoman/"

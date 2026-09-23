@@ -21879,3 +21879,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 480. The French Revolution: The Rights of Man (Part 6)
+
+Added source `480-the-french-revolution-the-rights-of-man-part-6-glt8413639265`; created `DeclarationOfRightsOfManAndCitizen`, `GreatFear1789`, `CivilConstitutionOfTheClergy`, `Talleyrand`, `UniversalRightsNationalSovereigntyTension`, `RevolutionaryChurchStateRupture`, and `ChristianInheritanceOfEnlightenmentRights`; updated `FrenchRevolution` and the index. Core synthesis: the Declaration joined universal natural rights to national sovereignty without resolving citizenship boundaries, while fiscal and administrative reform of the Church culminated in an oath that split clergy and communities and made counterrevolution religious as well as royal. No settled contradiction found; rights genealogy, clerical-oath totals, regional response, visual symbolism, reported dialogue, and long-run influence remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

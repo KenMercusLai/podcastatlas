@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10608
+wiki_total_pages: 10612
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "ThreeQWar"
     title: "3Q War / 3Q 大战"
     url: "/wiki/entities/threeqwar/"
+  - key: "Talleyrand"
+    title: "Charles Maurice de Talleyrand-Périgord"
+    url: "/wiki/entities/talleyrand/"
   - key: "TConScribd"
     title: "T-Con (Scribd Co-Founder)"
     url: "/wiki/entities/tconscribd/"

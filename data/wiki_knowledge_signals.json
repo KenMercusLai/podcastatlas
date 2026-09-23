@@ -22849,6 +22849,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/christiandemocraticuniongermany/"
     },
+    "ChristianInheritanceOfEnlightenmentRights": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/christianinheritanceofenlightenmentrights/"
+    },
     "ChristieLamond": {
       "episode_count": 1,
       "show_count": 1,
@@ -23300,6 +23316,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/cityplacepremium/"
+    },
+    "CivilConstitutionOfTheClergy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/civilconstitutionoftheclergy/"
     },
     "CivilLibertiesSurveillanceRisk": {
       "episode_count": 9,
@@ -30984,6 +31016,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/declarationofindependence/"
+    },
+    "DeclarationOfRightsOfManAndCitizen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/declarationofrightsofmanandcitizen/"
     },
     "DeclarationOfTheRightsOfWoman": {
       "episode_count": 1,
@@ -47723,9 +47771,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 2,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -47817,6 +47865,13 @@
           "show": "The Rest Is History",
           "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
           "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        },
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
         }
       ],
       "updated": "2026-09-23",
@@ -53535,6 +53590,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/greatembassy/"
+    },
+    "GreatFear1789": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/greatfear1789/"
     },
     "GreatNorthernWar": {
       "episode_count": 4,
@@ -109134,6 +109205,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
     },
+    "RevolutionaryChurchStateRupture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/revolutionarychurchstaterupture/"
+    },
     "RevolutionaryDressPoliticalIdentity": {
       "episode_count": 1,
       "show_count": 1,
@@ -125200,6 +125287,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/talentvirtuedistinction/"
     },
+    "Talleyrand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/talleyrand/"
+    },
     "TalonEnergy": {
       "episode_count": 1,
       "show_count": 1,
@@ -131288,6 +131391,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/universalpeacesanctuary/"
+    },
+    "UniversalRightsNationalSovereigntyTension": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8413639265 [GLT8413639265].md",
+          "key": "480-the-french-revolution-the-rights-of-man-part-6-glt8413639265",
+          "show": "The Rest Is History",
+          "title": "480. The French Revolution: The Rights of Man (Part 6)",
+          "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/universalrightsnationalsovereigntytension/"
     },
     "UniversityOfCaliforniaSanFrancisco": {
       "episode_count": 2,

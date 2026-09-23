@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [480. The French Revolution: The Rights of Man (Part 6)](sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265.md) — The Rest Is History episode on the Great Fear, abolition of privilege, universal rights, national sovereignty, Church property, and the clerical oath.
 - [VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复](sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0.md) — 这病说来话长 episode on sports medicine, human movement digital twins, knee injury, elite-performance tradeoffs, and goal-matched rehabilitation.
 - [Inbound Marketing That Grew a Fintech SaaS to $100M](sources/inbound-marketing-that-grew-a-fintech-saas-to-100m.md) — The SaaS Podcast episode with Rodney Robinson on TabaPay's capital-efficient growth, two-way instant payments, bank and network referrals, infrastructure ownership, risk services, and proposed bank acquisition.
 - [481. The French Revolution: The Women's March on Versailles (Part 7)](sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254.md) — The Rest Is History episode on the October Days, bread scarcity, veto conflict, women's armed mobilization, palace violence, and the forced transfer of crown and Assembly to Paris.
@@ -2753,6 +2754,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Declaration of the Rights of Man and of the Citizen](entities/DeclarationOfRightsOfManAndCitizen.md) — August 1789 statement joining universal natural rights to national sovereignty while leaving major citizenship boundaries unresolved.
+- [Great Fear of 1789](entities/GreatFear1789.md) — Rural panic and revolt joining deprivation, feudal records, conspiracy rumor, and the Assembly's abolition response.
+- [Civil Constitution of the Clergy](entities/CivilConstitutionOfTheClergy.md) — Revolutionary Church reorganization whose clerical oath divided religious and national allegiance.
+- [Charles Maurice de Talleyrand-Périgord](entities/Talleyrand.md) — Bishop and statesman proposing Church-land nationalization as fiscal rescue and institutional transformation.
 - [张雨涵 / Zhang Yuhan (sports medicine guest)](entities/ZhangYuhanSportsMedicine.md) — Joint and sports-medicine guest explaining knee injury, rehabilitation goals, and muscular stability.
 - [周浩 / Zhou Hao (rehabilitation engineer)](entities/ZhouHaoRehabilitationEngineer.md) — Rehabilitation engineer discussing musculoskeletal models, digital twins, sport performance, and clinical adoption constraints.
 - [国家骨科与运动康复临床医学研究中心](entities/NationalOrthopedicSportsRehabilitationClinicalResearchCenter.md) — Source-scoped institutional affiliation for rehabilitation engineer 周浩.
@@ -13372,6 +13377,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Universal Rights and National Sovereignty Tension](concepts/UniversalRightsNationalSovereigntyTension.md) — Problem of grounding humanity-wide rights in the authority and citizenship boundaries of a particular nation.
+- [Revolutionary Church-State Rupture](concepts/RevolutionaryChurchStateRupture.md) — Process by which fiscal and administrative reform becomes mass conflict over religious and political allegiance.
+- [Christian Inheritance of Enlightenment Rights](concepts/ChristianInheritanceOfEnlightenmentRights.md) — Qualified claim that secular universal-rights morality partly retains Christian genealogies and symbolic forms.
 - [Human Movement Digital Twin / 人体运动数字孪生](concepts/HumanMovementDigitalTwin.md) — Measurement-and-simulation framework for performance, loading, equipment, and rehabilitation decisions.
 - [Rehabilitation Goal Differentiation / 康复目标分层](concepts/RehabilitationGoalDifferentiation.md) — Goal-first distinction among pain relief, daily function, and return-to-sport performance.
 - [Knee Stability Injury Cascade / 膝关节稳定性损伤链](concepts/KneeStabilityInjuryCascade.md) — Probabilistic interaction among menisci, cruciate stability, cartilage loading, and quadriceps capacity.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7980
+wiki_total_pages: 7983
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -704,6 +704,9 @@ wiki_pages:
   - key: "RevolutionaryAtrocityNarrativeContest"
     title: "Revolutionary Atrocity Narrative Contest"
     url: "/wiki/concepts/revolutionaryatrocitynarrativecontest/"
+  - key: "RevolutionaryChurchStateRupture"
+    title: "Revolutionary Church-State Rupture"
+    url: "/wiki/concepts/revolutionarychurchstaterupture/"
   - key: "RevolutionaryDestructionOfCivilianLife"
     title: "Revolutionary Destruction Of Civilian Life / 革命对日常生活的摧毁"
     url: "/wiki/concepts/revolutionarydestructionofcivilianlife/"

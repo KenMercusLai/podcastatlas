@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10608
+wiki_total_pages: 10612
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "CivilAviationAdministrationOfChina"
     title: "Civil Aviation Administration of China / 中国民航总局"
     url: "/wiki/entities/civilaviationadministrationofchina/"
+  - key: "CivilConstitutionOfTheClergy"
+    title: "Civil Constitution of the Clergy"
+    url: "/wiki/entities/civilconstitutionoftheclergy/"
   - key: "CJFinn"
     title: "CJ Finn"
     url: "/wiki/entities/cjfinn/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 7980
+wiki_total_pages: 7983
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "UniversalHighIncome"
     title: "Universal High Income"
     url: "/wiki/concepts/universalhighincome/"
+  - key: "UniversalRightsNationalSovereigntyTension"
+    title: "Universal Rights and National Sovereignty Tension"
+    url: "/wiki/concepts/universalrightsnationalsovereigntytension/"
   - key: "UniversityOpportunityDensity"
     title: "University Opportunity Density"
     url: "/wiki/concepts/universityopportunitydensity/"
