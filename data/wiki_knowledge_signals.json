@@ -7498,9 +7498,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 43,
+      "episode_count": 44,
       "show_count": 1,
-      "source_note_count": 43,
+      "source_note_count": 44,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -7802,6 +7802,13 @@
           "show": "Huberman Lab",
           "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
           "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
+        },
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
         }
       ],
       "updated": "2026-09-23",
@@ -31867,9 +31874,9 @@
       "url": "/wiki/concepts/designeraicodingworkflow/"
     },
     "DesirableDifficulty": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -31912,9 +31919,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DesireCapacityFit": {
@@ -61206,9 +61220,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 43,
+      "episode_count": 44,
       "show_count": 1,
-      "source_note_count": 43,
+      "source_note_count": 44,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -61510,6 +61524,13 @@
           "show": "Huberman Lab",
           "title": "The Effects of Microplastics on Your Health & How to Reduce Them",
           "url": "/wiki/sources/the-effects-of-microplastics-on-your-health-how-to-reduce-them-scim4809756720/"
+        },
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
         }
       ],
       "updated": "2026-09-23",
@@ -72966,6 +72987,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/learningdrivenroleexpansion/"
+    },
+    "LearningStyleMatchingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/learningstylematchingboundary/"
     },
     "LeeLockwood": {
       "episode_count": 1,
@@ -85396,9 +85433,9 @@
       "url": "/wiki/entities/memex/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -85441,9 +85478,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -90774,9 +90818,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -90805,9 +90849,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/neuroplasticity/"
     },
     "NeutralityToInterventionMemory": {
@@ -112703,9 +112754,9 @@
       "url": "/wiki/concepts/selfsupervisedlearning/"
     },
     "SelfTestingMemoryPractice": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -112720,9 +112771,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Your Memory & Cognitive Function at Any Age | Dr. Alan Castel",
           "url": "/wiki/sources/how-to-improve-your-memory-cognitive-function-at-any-age-dr-alan-castel-scim5781519002/"
+        },
+        {
+          "episode_file": "SCIM3722040660 [SCIM3722040660].md",
+          "key": "optimal-protocols-for-studying-learning-scim3722040660",
+          "show": "Huberman Lab",
+          "title": "Optimal Protocols for Studying & Learning",
+          "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/selftestingmemorypractice/"
     },
     "SelfTranslationInIntimacy": {

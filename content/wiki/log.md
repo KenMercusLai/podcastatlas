@@ -21723,3 +21723,11 @@ Added source `vol-130-daizhuangpaozhen-weishenme-hui-bei-yaomohua-nianqinghua-zh
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Optimal Protocols for Studying & Learning
+
+Added source `optimal-protocols-for-studying-learning-scim3722040660`; created `LearningStyleMatchingBoundary`; updated `SelfTestingMemoryPractice`, `MemoryConsolidationWindows`, `Neuroplasticity`, `DesirableDifficulty`, `AndrewHuberman`, `HubermanLab`, and the index. Core synthesis: durable study is organized around early, effortful retrieval with corrective feedback rather than rereading fluency, while focus, sleep, deep rest, regular scheduling, distraction control, brief pauses, teaching, emotion, and interleaving provide supporting conditions. No settled contradiction found; historical-study details, numerical retention claims, medical-student correlations, meditation findings, replay rates, NSDR, caffeine, and interleaving mechanisms remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

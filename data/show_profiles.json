@@ -478,14 +478,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "SCIM7025523715 [SCIM7025523715].md",
-      "source_note_count": 94,
-      "topic_matched_source_note_count": 57,
+      "source_note_count": 95,
+      "topic_matched_source_note_count": 58,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 54
+          "source_note_count": 55
         },
         {
           "key": "culture",
@@ -512,7 +512,7 @@
           "title": "Andrew Huberman",
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
-          "episode_count": 43
+          "episode_count": 44
         },
         {
           "key": "DavidAnderson",

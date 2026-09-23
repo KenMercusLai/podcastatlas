@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1173
+topic_total_pages: 1174
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3399,6 +3399,9 @@ topic_sources:
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
+  - key: "optimal-protocols-for-studying-learning-scim3722040660"
+    title: "Optimal Protocols for Studying & Learning"
+    url: "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
   - key: "peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046"
     title: "Peptides: The Science, Uses & Safety | Dr. Abud Bakri"
     url: "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"

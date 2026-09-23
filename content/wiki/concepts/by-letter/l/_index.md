@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7947
+wiki_total_pages: 7948
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "LearningHowToLearn"
     title: "Learning How To Learn"
     url: "/wiki/concepts/learninghowtolearn/"
+  - key: "LearningStyleMatchingBoundary"
+    title: "Learning-Style Matching Evidence Boundary"
+    url: "/wiki/concepts/learningstylematchingboundary/"
   - key: "LegalAgentOrchestration"
     title: "Legal Agent Orchestration"
     url: "/wiki/concepts/legalagentorchestration/"
