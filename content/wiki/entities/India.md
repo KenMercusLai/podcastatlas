@@ -2,36 +2,67 @@
 title: "India"
 type: entity
 tags: [country, law, social-policy, asia, politics, education]
-sources: [settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d, taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7, cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8, how-to-get-through-the-strait-of-hormuz, how-to-get-what-greenland-has-with-permission, peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf, strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]
-last_updated: 2026-08-24
+sources:
+  - settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d
+  - taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7
+  - cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8
+  - how-to-get-through-the-strait-of-hormuz
+  - how-to-get-what-greenland-has-with-permission
+  - peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf
+  - strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f
+  - national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60
+last_updated: 2026-09-24
+knowledge_schema: synthesis-v1
 ---
 
 # India
 
-[[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] adds India as a family-law and minority-politics case. [[KiraHuyu|Kira Huju]] explains [[UniformCivilCodeIndia|uniform civil codes]] in BJP-ruled states as a policy with liberal equal-law language, some women's-rights gains, and a [[MajoritarianLegalUniformity]] risk because [[IndianMuslims]] bear much of the practical change.
+## Overview
 
-[[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] adds India as a public-safety and infrastructure-accountability case. [[LeoMirani]] describes repeated deaths from falling billboards, trees, canopies, school roofs, industrial materials, and other objects, arguing that weather and aging structures matter but weak enforcement, corruption, small fines, and poor accountability make the pattern systemic.
+India is a multi-branch country page spanning minority law, youth protest, public-safety accountability, public-service technology, elder-care law, critical-mineral partnerships, global shipping, and border enforcement.
 
-[[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] adds India as a youth-protest and education-accountability case. The source presents the [[CockroachMovement]] as a rare public-pressure challenge to [[NarendraModi]], built around [[NationalEligibilityCumEntranceTest|NEET]] leaks, youth unemployment, education scarcity, [[DharmendraPradhan]]'s resignation, and police action in [[Delhi]].
+## Current Profile
 
-[[how-to-get-through-the-strait-of-hormuz]] adds India as both a publishing-supply origin and an oil-shipping destination. [[ChristianStClair]] says [[FantagraphicsBooks]] books were printed in India, while [[HamidHosseini]] says an unnamed Indian oil-ship owner obtained [[SepahNavy]] passage permission and paid an alleged crypto toll before sailing through the [[StraitOfHormuz]] toward India.
+The strongest shared theme is uneven state capacity. [[Aadhaar]] and [[UPI]] show that large digital systems can work when expertise has authority, while government websites and falling-object safety show how bureaucratic fragmentation, weak enforcement, and low accountability can degrade ordinary services. Political branches add a sharper distributional question: universal-law rhetoric, protest control, and border security can impose heavier costs on minorities and citizens with less procedural power.
 
-India appears in [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] through Asian elder-care law. The episode highlights [[Telangana]], where a law can transfer up to 15% of an adult child's salary to neglected parents, and also groups India with countries that have legal protections against elder abuse and financial exploitation.
+The new border episode makes that problem territorial and identity-based. A controlled strip inside [[WestBengal]], informal pushbacks, citizenship checks, and the use of Bengali-Muslim identity as a proxy for foreignness link [[BorderBufferZoneCivilianBurden]] with [[IdentityProxiedBorderEnforcement]].
 
-In the wiki, India becomes one of the source's examples for [[FilialPietyLaws]] and [[ElderCareStateCapacity]]. The case shows how demographic stress, family obligation, and weak care systems can become legal and financial enforcement questions.
+## Key Characteristics
 
-[[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] adds India as a public-service software case. [[LeoMirani]] uses the online visa website and other government sites to show how weak [[GovernmentWebsiteUsability]] can persist despite private-sector technology strength, while [[Aadhaar]] and [[UPI]] show that state-linked digital systems can work when expertise and authority align.
+- Displays high-capacity digital infrastructure alongside weakly owned public web services.
+- Uses formally general law and security policy in ways that can burden [[IndianMuslims]] disproportionately.
+- Contains strong youth accountability pressure despite [[DissentSpaceCompression]].
+- Faces recurring infrastructure-safety failures associated with weak enforcement and low accountability.
+- Appears in global logistics, oil passage, and critical-mineral partnership networks.
+- Uses family-duty laws as a partial response to elder-care capacity gaps.
+- Contains border communities whose citizenship does not protect them from severe mobility and identity-verification burdens.
 
-[[how-to-get-what-greenland-has-with-permission]] adds India as a possible rare-earth processing-technology partner. The source uses India in [[GracelandBaskaran]]'s broader point that the [[UnitedStates]] should build mineral-security partnerships instead of treating [[Greenland]] ownership as a supply-chain solution.
+## Evidence
 
-## Connections
-- [[Telangana]] - state-level case in the episode.
-- [[FilialPietyLaws]] - family-duty legal framework.
-- [[ElderCareStateCapacity]] - care-system problem beneath the legal response.
-- [[FarahChia]] and [[TheIntelligence]] - contributor and source context.
-- [[LeoMirani]], [[NationalInformaticsCentre]], [[Aadhaar]], [[UPI]], [[GovernmentWebsiteUsability]], [[BureaucraticRiskAvoidance]], and [[PublicServiceDigitalization]] - public-service software branch added by the later episode.
-- [[Greenland]], [[GracelandBaskaran]], and [[RareEarthProcessingBottleneck]] - critical-minerals processing branch added by Planet Money.
-- [[ChristianStClair]], [[FantagraphicsBooks]], [[HamidHosseini]], [[SepahNavy]], and [[MaritimeChokepointTolling]] - Planet Money branch where India appears in both cargo origin and oil-destination roles.
-- [[CockroachMovement]], [[NationalEligibilityCumEntranceTest]], [[DharmendraPradhan]], [[BharatiyaJanataParty]], [[Delhi]], [[EducationAccountabilityProtest]], and [[DissentSpaceCompression]] - youth protest and education-accountability branch added by The Intelligence.
-- [[LeoMirani]], [[FallingObjectPublicSafety]], [[InfrastructureAccountabilityGap]], [[BureaucraticRiskAvoidance]], and [[DisasterResponseStateCapacity]] - public-safety and infrastructure-accountability branch added by The Intelligence.
-- [[UniformCivilCodeIndia]], [[MuslimPersonalLawIndia]], [[MajoritarianLegalUniformity]], [[LiveInRelationshipRegistration]], [[Uttarakhand]], [[WestBengal]], [[Assam]], [[Gujarat]], [[MadhyaPradesh]], [[KhurshidAhmed]], and [[IndianMuslims]] - family-law and minority-politics branch added by the later The Intelligence source.
+- Minority law: [[settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d]] presents state uniform civil codes as equal-law reforms with women's-rights gains and [[MajoritarianLegalUniformity]] risks.
+- Public safety: [[taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7]] links falling-object deaths to aging structures, construction, corruption, weak enforcement, and missing national data.
+- Protest and education: [[cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8]] follows the [[CockroachMovement]] through exam leaks, unemployment, resignation, and police pressure.
+- Shipping and minerals: [[how-to-get-through-the-strait-of-hormuz]] and [[how-to-get-what-greenland-has-with-permission]] place India in global printing, oil, shipping, and rare-earth-processing networks.
+- Elder care and digital government: [[peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf]] adds filial-duty law, while [[strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f]] contrasts poor website ownership with Aadhaar and UPI.
+- Border enforcement: [[national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60]] describes civilian burdens, informal pushbacks, religious asymmetry, and wrongful-citizenship risks along the Bangladesh border.
+
+## Qualifications
+
+These source episodes cover distinct institutions and should not be flattened into one judgment about India. Counts of migrants, border residents, deaths, protest size, deportations, and enforcement errors are source-reported. Real migration and smuggling concerns do not settle whether the described procedures are lawful, proportionate, or accurately targeted.
+
+## What Changed
+
+- Migrated the country page to the synthesis schema.
+- Added border security as a case where weak procedure and identity proxies can burden citizens as well as migrants.
+
+## Relationships
+
+- [[BharatiyaJanataParty]] - ruling-party context across protest, civil-code, and border-enforcement branches.
+- [[WestBengal]] - state where minority-law and Bangladesh-border pressures converge.
+- [[IndianMuslims]] - community bearing disproportionate family-law and citizenship-enforcement risks.
+- [[Bangladesh]] - neighboring state joined to India by migration, shared Bengali history, enforcement, and strained diplomacy.
+- [[IdentityProxiedBorderEnforcement]] - mechanism turning language and religion into foreignness cues.
+- [[BorderBufferZoneCivilianBurden]] - daily cost imposed on residents inside controlled border space.
+- [[GovernmentWebsiteUsability]] - public-service design branch.
+- [[CockroachMovement]] - youth accountability and education branch.
+- [[InfrastructureAccountabilityGap]] - recurring safety-enforcement problem.

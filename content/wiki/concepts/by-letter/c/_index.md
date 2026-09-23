@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7990
+wiki_total_pages: 7994
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "CentralBankIndependence"
     title: "Central Bank Independence"
     url: "/wiki/concepts/centralbankindependence/"
+  - key: "CentristFragmentationRunoffRisk"
+    title: "Centrist Fragmentation Runoff Risk"
+    url: "/wiki/concepts/centristfragmentationrunoffrisk/"
   - key: "CEOPayLuckSkimming"
     title: "CEO Pay Luck Skimming / CEO薪酬揩油"
     url: "/wiki/concepts/ceopayluckskimming/"

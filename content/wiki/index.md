@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [National front-runner: who can beat Le Pen?](sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60.md) — The Intelligence episode on Le Pen's polling lead and fragmented opposition, identity-proxied enforcement along the India-Bangladesh border, and Argentina's polo cluster.
 - [Is our national debt finally too much? (update)](sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319.md) — Planet Money update on the failed search for a universal debt threshold, the Reinhart-Rogoff controversy, rising debt service, and U.S. fiscal capacity.
 - [479. The French Revolution: The Storming of the Bastille (Part 5)](sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441.md) — The Rest Is History episode on hunger, Necker's dismissal, Parisian arming, the Bastille's fall, revolutionary mythmaking, and post-surrender vengeance.
 - [Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck](sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031.md) — Huberman Lab interview on integrity as inner coherence, sensory imagination, compassionate witnessing, body-based self-trust, and boundaries against self-abandonment.
@@ -2757,6 +2758,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Raphael Glucksmann](entities/RaphaelGlucksmann.md) — French contender with more outsider distance than former senior officeholders but weaker polling in the episode's fragmented field.
+- [Bruno Retailleau](entities/BrunoRetailleau.md) — French center-right contender whose senior-government record complicates outsider positioning.
+- [Argentine Polo](entities/ArgentinePolo.md) — Elite sporting, breeding, technology, and infrastructure ecosystem behind Argentina's global polo advantage.
 - [Carmen Reinhart](entities/CarmenReinhart.md) — Economist whose high-debt and growth research became a disputed political threshold.
 - [Kenneth Rogoff](entities/KennethRogoff.md) — Economist who rejects a fixed 90% cliff while warning about debt-service risk.
 - [Karen Dynan](entities/KarenDynan.md) — Economist whose assessment shifted toward debt hawkishness as U.S. financing costs rose.
@@ -13389,6 +13393,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Centrist Fragmentation Runoff Risk](concepts/CentristFragmentationRunoffRisk.md) — Risk that compatible candidates split first-round support until none reaches a decisive runoff.
+- [Identity-Proxied Border Enforcement](concepts/IdentityProxiedBorderEnforcement.md) — Use of language, religion, names, or ethnicity as practical stand-ins for nationality or immigration status.
+- [Border Buffer-Zone Civilian Burden](concepts/BorderBufferZoneCivilianBurden.md) — Movement, time, access, livelihood, and displacement costs imposed on citizens living inside controlled border space.
+- [Argentine Polo Cluster](concepts/ArgentinePoloCluster.md) — Reinforcing concentration of horses, riders, breeding, biotechnology, facilities, regulation, and foreign demand.
 - [Debt Threshold Uncertainty](concepts/DebtThresholdUncertainty.md) — Why no universal debt-to-GDP cliff exists even though debt-service vulnerability can rise.
 - [Bastille Revolutionary Mythmaking](concepts/BastilleRevolutionaryMythmaking.md) — Conversion of a practical prison seizure into a liberation memory through imagery, demolition, relics, tourism, and selective forgetting.
 - [Revolutionary Crowd Vengeance](concepts/RevolutionaryCrowdVengeance.md) — Extra-legal punishment using rumor, mutilation, decapitation, and bodily display as political theatre.

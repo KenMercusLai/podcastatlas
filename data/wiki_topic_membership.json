@@ -13638,6 +13638,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "BrunoRetailleau": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BubbleFinancingStructure": [
     {
       "key": "technology",
@@ -15209,6 +15216,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CentristFragmentationRunoffRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CenturiesOfTheBristlecone": [
@@ -58928,6 +58942,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "RaphaelGlucksmann": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Rapid": [
     {
       "key": "technology",
@@ -85270,6 +85291,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716": [

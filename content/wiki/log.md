@@ -21912,3 +21912,11 @@ Added source `defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-d
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | National front-runner: who can beat Le Pen?
+
+Added source `national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60`; created `RaphaelGlucksmann`, `BrunoRetailleau`, `ArgentinePolo`, `CentristFragmentationRunoffRisk`, `IdentityProxiedBorderEnforcement`, `BorderBufferZoneCivilianBurden`, and `ArgentinePoloCluster`; updated `MarineLePen`, `NationalRally`, `EdouardPhilippe`, `GabrielAttal`, `JeanLucMelenchon`, `TwoRoundPresidentialElection`, `India`, `Bangladesh`, `IndianMuslims`, `WestBengal`, `BharatiyaJanataParty`, `Argentina`, and the index. Core synthesis: Le Pen's durable lead is reinforced by opposition fragmentation; India-Bangladesh border enforcement can turn Bengali-Muslim identity into a proxy for foreignness while burdening Indian citizens inside the controlled zone; and Argentina's polo advantage is an ecosystem of horses, skills, breeding, cloning, infrastructure, administration, and foreign demand. No settled contradiction found; polling, candidate coordination, border counts, deportation and citizenship accounts, player rankings, cloning practices, and industry-resilience claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

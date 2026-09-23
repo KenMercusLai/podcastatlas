@@ -9423,9 +9423,9 @@
       "url": "/wiki/concepts/architecturalarchiveresearch/"
     },
     "Argentina": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 4,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196 [default.mp3_ywr3ahjkcgo_f7216866bf74dcfdfbed86e3d4f809ba_41512196].md",
@@ -9475,9 +9475,16 @@
           "show": "The Rest Is History",
           "title": "498. Evita: The Mystery of the Missing Body (Part 5)",
           "url": "/wiki/sources/498-evita-the-mystery-of-the-missing-body-part-5-glt5587823308/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/argentina/"
     },
     "ArgentineDirtyWar": {
@@ -9495,6 +9502,38 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/argentinedirtywar/"
+    },
+    "ArgentinePolo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/argentinepolo/"
+    },
+    "ArgentinePoloCluster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/argentinepolocluster/"
     },
     "AriWallach": {
       "episode_count": 1,
@@ -12296,6 +12335,36 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/banditmutualreportingpacification/"
     },
+    "Bangladesh": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_73f44257561fca7084d9017442f895aa_42230668 [default.mp3_ywr3ahjkcgo_73f44257561fca7084d9017442f895aa_42230668].md",
+          "key": "getting-entrepreneurial-in-korea-summer-school",
+          "show": "Planet Money",
+          "title": "Getting entrepreneurial in Korea (Summer School)",
+          "url": "/wiki/sources/getting-entrepreneurial-in-korea-summer-school/"
+        },
+        {
+          "episode_file": "Dhaka matters： an election for Bangladesh [698c5a3afeb59e13a3b8a94d].md",
+          "key": "dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d",
+          "show": "Economist Podcasts",
+          "title": "Dhaka matters: an election for Bangladesh",
+          "url": "/wiki/sources/dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/bangladesh/"
+    },
     "BanmaJiangMedicalGuest": {
       "episode_count": 1,
       "show_count": 1,
@@ -13736,6 +13805,36 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/beyondyoga/"
     },
+    "BharatiyaJanataParty": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "Cockroaches 1, Modi 0： India’s remarkable protests [6a6729a33e2f0b6f92d26ab8].md",
+          "key": "cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8",
+          "show": "Economist Podcasts",
+          "title": "Cockroaches 1, Modi 0: India’s remarkable protests",
+          "url": "/wiki/sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/bharatiyajanataparty/"
+    },
     "BianHongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -14805,6 +14904,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/bookstoreserendipity/"
     },
+    "BorderBufferZoneCivilianBurden": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/borderbufferzonecivilianburden/"
+    },
     "BorderLegalSignal": {
       "episode_count": 2,
       "show_count": 2,
@@ -15864,6 +15979,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/bruceschneier/"
+    },
+    "BrunoRetailleau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/brunoretailleau/"
     },
     "BuHeShiYi": {
       "episode_count": 4,
@@ -19419,6 +19550,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/centralbankindependence/"
+    },
+    "CentristFragmentationRunoffRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/centristfragmentationrunoffrisk/"
     },
     "CenturiesOfTheBristlecone": {
       "episode_count": 1,
@@ -36899,6 +37046,29 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/edmundironside/"
     },
+    "EdouardPhilippe": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/edouardphilippe/"
+    },
     "EducationMotivationArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -49851,6 +50021,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/gtsquared/"
+    },
+    "GabrielAttal": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/gabrielattal/"
     },
     "GabrieleDAnnunzio": {
       "episode_count": 1,
@@ -64028,6 +64221,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/identitypoliticsaspoliticalsorting/"
     },
+    "IdentityProxiedBorderEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/identityproxiedborderenforcement/"
+    },
     "IdentityResolutionError": {
       "episode_count": 1,
       "show_count": 1,
@@ -64993,6 +65202,71 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/independentretaildiscovery/"
     },
+    "India": {
+      "episode_count": 8,
+      "show_count": 2,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "Taken littorally： Spain’s sudden crisis in Ceuta [6a70712c034f16a52ebfaed7].md",
+          "key": "taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7",
+          "show": "Economist Podcasts",
+          "title": "Taken littorally: Spain’s sudden crisis in Ceuta",
+          "url": "/wiki/sources/taken-littorally-spains-sudden-crisis-in-ceuta-6a70712c034f16a52ebfaed7/"
+        },
+        {
+          "episode_file": "Cockroaches 1, Modi 0： India’s remarkable protests [6a6729a33e2f0b6f92d26ab8].md",
+          "key": "cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8",
+          "show": "Economist Podcasts",
+          "title": "Cockroaches 1, Modi 0: India’s remarkable protests",
+          "url": "/wiki/sources/cockroaches-1-modi-0-indias-remarkable-protests-6a6729a33e2f0b6f92d26ab8/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_aad33273d2201c3937bb02bae96f34b5_20712040 [default.mp3_ywr3ahjkcgo_aad33273d2201c3937bb02bae96f34b5_20712040].md",
+          "key": "how-to-get-through-the-strait-of-hormuz",
+          "show": "Planet Money",
+          "title": "How to get through the Strait of Hormuz",
+          "url": "/wiki/sources/how-to-get-through-the-strait-of-hormuz/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983 [default.mp3_ywr3ahjkcgo_54ed00ceab7b2fa55e13b45ab7ffe026_29309983].md",
+          "key": "how-to-get-what-greenland-has-with-permission",
+          "show": "Planet Money",
+          "title": "How to get what Greenland has, with permission",
+          "url": "/wiki/sources/how-to-get-what-greenland-has-with-permission/"
+        },
+        {
+          "episode_file": "Peace fire： further US-Iran strikes [6a4f7acffe878dc8e27e6fbf].md",
+          "key": "peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf",
+          "show": "Economist Podcasts",
+          "title": "Peace fire: further US-Iran strikes",
+          "url": "/wiki/sources/peace-fire-further-us-iran-strikes-6a4f7acffe878dc8e27e6fbf/"
+        },
+        {
+          "episode_file": "Strait and narrowing： the Iran deal crumbles [6a57608bf821a8210984481f].md",
+          "key": "strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f",
+          "show": "Economist Podcasts",
+          "title": "Strait and narrowing: the Iran deal crumbles",
+          "url": "/wiki/sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/india/"
+    },
     "IndianCheeseMarketAdaptation": {
       "episode_count": 1,
       "show_count": 1,
@@ -65024,6 +65298,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/indianelephantcorridors/"
+    },
+    "IndianMuslims": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/indianmuslims/"
     },
     "Inditex": {
       "episode_count": 1,
@@ -67839,6 +68136,29 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/jeanjacquesrousseau/"
+    },
+    "JeanLucMelenchon": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/jeanlucmelenchon/"
     },
     "JeanPaulMarat": {
       "episode_count": 5,
@@ -85456,6 +85776,29 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/marieantoinette/"
     },
+    "MarineLePen": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/marinelepen/"
+    },
     "MarkCarney": {
       "episode_count": 2,
       "show_count": 1,
@@ -91837,6 +92180,29 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/nationalorthopedicsportsrehabilitationclinicalresearchcenter/"
+    },
+    "NationalRally": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/nationalrally/"
     },
     "NationalScienceFoundation": {
       "episode_count": 2,
@@ -106738,6 +107104,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/ranksaledisasterfinance/"
+    },
+    "RaphaelGlucksmann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/raphaelglucksmann/"
     },
     "Rapid": {
       "episode_count": 1,
@@ -130685,6 +131067,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/twentyfourhistories/"
     },
+    "TwoRoundPresidentialElection": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Marine warfare： Le Pen runs for president [6a4e1f2781fe1f6460b7117c].md",
+          "key": "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c",
+          "show": "Economist Podcasts",
+          "title": "Marine warfare: Le Pen runs for president",
+          "url": "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/tworoundpresidentialelection/"
+    },
     "UAPCompartmentalization": {
       "episode_count": 1,
       "show_count": 1,
@@ -137347,6 +137752,29 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/wenrenxilatehan/"
+    },
+    "WestBengal": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Settler bet： a West Bank flashpoint [6a842bb539e73ea8f3c13a2d].md",
+          "key": "settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d",
+          "show": "Economist Podcasts",
+          "title": "Settler bet: a West Bank flashpoint",
+          "url": "/wiki/sources/settler-bet-a-west-bank-flashpoint-6a842bb539e73ea8f3c13a2d/"
+        },
+        {
+          "episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
+          "key": "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60",
+          "show": "Economist Podcasts",
+          "title": "National front-runner: who can beat Le Pen?",
+          "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/westbengal/"
     },
     "WestGermany": {
       "episode_count": 1,

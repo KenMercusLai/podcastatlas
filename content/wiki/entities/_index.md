@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10621
+wiki_total_pages: 10624
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1250,6 +1250,9 @@ wiki_pages:
   - key: "Argentina"
     title: "Argentina"
     url: "/wiki/entities/argentina/"
+  - key: "ArgentinePolo"
+    title: "Argentine Polo"
+    url: "/wiki/entities/argentinepolo/"
   - key: "ArgoFloats"
     title: "Argo floats"
     url: "/wiki/entities/argofloats/"

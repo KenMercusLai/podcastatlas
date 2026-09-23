@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7990
+wiki_total_pages: 7994
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "BoomlessCruise"
     title: "Boomless Cruise"
     url: "/wiki/concepts/boomlesscruise/"
+  - key: "BorderBufferZoneCivilianBurden"
+    title: "Border Buffer-Zone Civilian Burden"
+    url: "/wiki/concepts/borderbufferzonecivilianburden/"
   - key: "BorderLegalSignal"
     title: "Border Legal Signal"
     url: "/wiki/concepts/borderlegalsignal/"

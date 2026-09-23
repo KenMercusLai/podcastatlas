@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7990
+wiki_total_pages: 7994
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "IdentityResolutionError"
     title: "Identity Resolution Error"
     url: "/wiki/concepts/identityresolutionerror/"
+  - key: "IdentityProxiedBorderEnforcement"
+    title: "Identity-Proxied Border Enforcement"
+    url: "/wiki/concepts/identityproxiedborderenforcement/"
   - key: "IdeologicalDefection"
     title: "Ideological Defection / 意识形态叛逃"
     url: "/wiki/concepts/ideologicaldefection/"

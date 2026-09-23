@@ -6619,6 +6619,14 @@
     "title": "Argentine Dirty War",
     "url": "/wiki/concepts/argentinedirtywar/"
   },
+  "ArgentinePolo": {
+    "title": "Argentine Polo",
+    "url": "/wiki/entities/argentinepolo/"
+  },
+  "ArgentinePoloCluster": {
+    "title": "Argentine Polo Cluster",
+    "url": "/wiki/concepts/argentinepolocluster/"
+  },
   "ArgoFloats": {
     "title": "Argo floats",
     "url": "/wiki/entities/argofloats/"
@@ -9627,6 +9635,10 @@
     "title": "郑宝拉 / Bora Chung",
     "url": "/wiki/entities/borachung/"
   },
+  "BorderBufferZoneCivilianBurden": {
+    "title": "Border Buffer-Zone Civilian Burden",
+    "url": "/wiki/concepts/borderbufferzonecivilianburden/"
+  },
   "BorderLegalSignal": {
     "title": "Border Legal Signal",
     "url": "/wiki/concepts/borderlegalsignal/"
@@ -10058,6 +10070,10 @@
   "BruceTaylor": {
     "title": "Bruce Taylor",
     "url": "/wiki/entities/brucetaylor/"
+  },
+  "BrunoRetailleau": {
+    "title": "Bruno Retailleau",
+    "url": "/wiki/entities/brunoretailleau/"
   },
   "BrunoSoccerCoach": {
     "title": "Bruno (Soccer Coach)",
@@ -11790,6 +11806,10 @@
   "CentralBankOfChina": {
     "title": "Central Bank of China",
     "url": "/wiki/entities/centralbankofchina/"
+  },
+  "CentristFragmentationRunoffRisk": {
+    "title": "Centrist Fragmentation Runoff Risk",
+    "url": "/wiki/concepts/centristfragmentationrunoffrisk/"
   },
   "CenturiesOfTheBristlecone": {
     "title": "Centuries of the Bristlecone",
@@ -32010,6 +32030,10 @@
   "IdentityPoliticsBook": {
     "title": "《身份政治》",
     "url": "/wiki/entities/identitypoliticsbook/"
+  },
+  "IdentityProxiedBorderEnforcement": {
+    "title": "Identity-Proxied Border Enforcement",
+    "url": "/wiki/concepts/identityproxiedborderenforcement/"
   },
   "IdentityResolutionError": {
     "title": "Identity Resolution Error",
@@ -54190,6 +54214,10 @@
   "RansomwareBusinessContinuity": {
     "title": "Ransomware Business Continuity",
     "url": "/wiki/concepts/ransomwarebusinesscontinuity/"
+  },
+  "RaphaelGlucksmann": {
+    "title": "Raphael Glucksmann",
+    "url": "/wiki/entities/raphaelglucksmann/"
   },
   "Rapid": {
     "title": "Rapid",
@@ -78586,6 +78614,10 @@
   "nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273": {
     "title": "难以影响购票决策的飞机餐，为何成为航司升级重点？",
     "url": "/wiki/sources/nan-yi-yingxiang-goupiao-juece-de-feijican-weihe-chengwei-hangsi-shengji-zhongdian-1009809273/"
+  },
+  "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60": {
+    "title": "National front-runner: who can beat Le Pen?",
+    "url": "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
   },
   "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716": {
     "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10621
+wiki_total_pages: 10624
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "BrunoSoccerCoach"
     title: "Bruno (Soccer Coach)"
     url: "/wiki/entities/brunosoccercoach/"
+  - key: "BrunoRetailleau"
+    title: "Bruno Retailleau"
+    url: "/wiki/entities/brunoretailleau/"
   - key: "BryanJohnson"
     title: "Bryan Johnson"
     url: "/wiki/entities/bryanjohnson/"

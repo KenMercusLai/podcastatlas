@@ -1,23 +1,56 @@
 ---
 title: "Bangladesh"
 type: entity
-tags: [country, politics, elections]
-sources: [getting-entrepreneurial-in-korea-summer-school, dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]
-last_updated: 2026-08-24
+tags: [country, politics, elections, industry, migration]
+sources:
+  - getting-entrepreneurial-in-korea-summer-school
+  - dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d
+  - national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60
+last_updated: 2026-09-24
+knowledge_schema: synthesis-v1
 ---
 
 # Bangladesh
 
-[[getting-entrepreneurial-in-korea-summer-school]] adds Bangladesh as a garment-industrialization and knowledge-transfer case. [[AbdulMajidChowdhury]] looked to [[SouthKorea|South Korea]] as a postwar recovery model, partnered with [[Daewoo]], and helped create [[DeshGarments]] after 128 Bangladeshis trained in Korea. The source frames this as [[TextileKnowledgeTransfer]] enabled partly by the [[MultiFiberArrangement]], then keeps the success qualified through institutional weakness and [[RanaPlaza]].
+## Overview
 
-Bangladesh is the country at the center of [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]]. The episode presents it at a [[DemocraticTransitionElection]] moment: after [[SheikhHasina]] and the [[AwamiLeague]] are pushed from power, voters face the first genuinely competitive election since 2008.
+Bangladesh appears as a garment-industrialization case, a fragile democratic-transition case, and the neighboring state in a coercive migration and border-enforcement dispute with [[India]].
 
-The source treats the election as both exciting and fragile. [[BangladeshNationalistParty]] and [[JamaatEIslamiBangladesh]] dominate the field, the interim government has stabilized the economy, constitutional revisions are being put to referendum, and relations with India are strained because India is said to be sheltering Hasina. The durable settlement problem is not just who wins, but whether the next government can prevent a return to tyranny while eventually making room for [[AwamiLeague]] voters.
+## Current Profile
 
-## Connections
-- [[SheikhHasina]] and [[AwamiLeague]] — removed incumbent power structure.
-- [[AbdulMajidChowdhury]], [[Daewoo]], [[DeshGarments]], [[TextileKnowledgeTransfer]], [[MultiFiberArrangement]], [[FlyingGeeseModel]], [[IndustrialLadder]], and [[RanaPlaza]] — garment-development branch added by Planet Money.
-- [[BangladeshNationalistParty]], [[TariqRahman]], and [[JamaatEIslamiBangladesh]] — leading election actors.
-- [[DemocraticTransitionElection]] — source's main politics concept.
-- [[ElectoralMandate]] — adjacent concept if the election produces governing authority.
-- [[TheIntelligence]] and [[MarkJohnson]] — show and correspondent context.
+The development branch shows successful [[TextileKnowledgeTransfer]] from [[SouthKorea|South Korea]] producing employment and export capacity without guaranteeing institutional upgrading or workplace safety. The election branch presents the first genuinely competitive national vote since 2008 after [[SheikhHasina]] and the [[AwamiLeague]] lose power, while keeping party exclusion and constitutional legitimacy unresolved.
+
+The new border branch adds external pressure. Indian pushbacks, stronger Bangladeshi patrols, border deaths, hostile political language, and disputed citizenship checks make bilateral respect and lawful return procedures part of Bangladesh's wider relationship with India.
+
+## Key Characteristics
+
+- Built a major garment export industry through people-centered knowledge transfer and quota incentives.
+- Remains institutionally constrained despite industrial success.
+- Is navigating competitive elections after incumbent removal and interim rule.
+- Faces a legitimacy problem when a large party and its voters are excluded from the immediate transition.
+- Has strained relations with India over migration rhetoric, pushbacks, border force, and citizenship disputes.
+
+## Evidence
+
+- Industrialization: [[getting-entrepreneurial-in-korea-summer-school]] follows Daewoo training, Desh Garments, export discipline, and the Rana Plaza qualification.
+- Democratic transition: [[dhaka-matters-an-election-for-bangladesh-698c5a3afeb59e13a3b8a94d]] describes a competitive vote, constitutional referendum, economic stabilization, party rivalry, and unresolved Awami League inclusion.
+- Border relations: [[national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60]] reports deaths at the border, informal Indian pushbacks, stronger Bangladeshi patrols, and demands for dignity in bilateral relations.
+
+## Qualifications
+
+The three sources address separate domains and do not form a comprehensive country account. Border death counts, undocumented-migrant estimates, and official motives remain source-scoped; the episode provides more detail on Indian enforcement than on Bangladesh's own border practices.
+
+## What Changed
+
+- Migrated the country page to the synthesis schema.
+- Added India-Bangladesh border enforcement as a bilateral dignity and lawful-process problem.
+
+## Relationships
+
+- [[India]] - neighboring state and partner-rival across migration, border security, and regional politics.
+- [[WestBengal]] - Indian border state sharing Bengali linguistic and historical ties.
+- [[IdentityProxiedBorderEnforcement]] - mechanism exposing Bengali-speaking Muslims and citizens to mistaken foreignness.
+- [[TextileKnowledgeTransfer]] - development mechanism behind the garment branch.
+- [[DemocraticTransitionElection]] - political framework for the competitive-vote branch.
+- [[BangladeshNationalistParty]] - leading election actor in the transition source.
+- [[AwamiLeague]] - displaced incumbent party whose exclusion creates a legitimacy problem.

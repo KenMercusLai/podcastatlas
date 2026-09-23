@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
-      "source_note_count": 78,
-      "topic_matched_source_note_count": 72,
+      "source_note_count": 79,
+      "topic_matched_source_note_count": 73,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 53
+          "source_note_count": 54
         },
         {
           "key": "technology",
@@ -410,7 +410,7 @@
         }
       ],
       "start_here_episode_files": [
-        "Strait and narrowing： the Houthis’ striking advance [6aa7c25aff74edfd002ca6c7].md",
+        "National front-runner： who can beat Le Pen？ [6ab3960493749e4c0ba24e60].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "Drone truth： Russia has the upper hand [6aad03f98a1508074de8337e].md",
         "Rise and shine： Warsh’s Fed rate test [6aabb60b964bc344092c48cd].md"

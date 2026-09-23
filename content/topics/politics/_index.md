@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2648
+topic_total_pages: 2652
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -538,6 +538,9 @@ topic_concepts:
   - key: "CentralBankIndependence"
     title: "Central Bank Independence"
     url: "/wiki/concepts/centralbankindependence/"
+  - key: "CentristFragmentationRunoffRisk"
+    title: "Centrist Fragmentation Runoff Risk"
+    url: "/wiki/concepts/centristfragmentationrunoffrisk/"
   - key: "ChancellorCenteredGovernance"
     title: "Chancellor-Centered Governance / 宰相中心治理"
     url: "/wiki/concepts/chancellorcenteredgovernance/"
@@ -4706,6 +4709,9 @@ topic_entities:
   - key: "BrookingsInstitution"
     title: "Brookings Institution"
     url: "/wiki/entities/brookingsinstitution/"
+  - key: "BrunoRetailleau"
+    title: "Bruno Retailleau"
+    url: "/wiki/entities/brunoretailleau/"
   - key: "BusinessRoundtable"
     title: "Business Roundtable"
     url: "/wiki/entities/businessroundtable/"
@@ -5939,6 +5945,9 @@ topic_entities:
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"
+  - key: "RaphaelGlucksmann"
+    title: "Raphael Glucksmann"
+    url: "/wiki/entities/raphaelglucksmann/"
   - key: "RasKassa"
     title: "Ras Kassa"
     url: "/wiki/entities/raskassa/"
@@ -7338,6 +7347,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025"
     title: "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nate-silver-predicts-democrats-take-the-house-newsom-is-fading-aoc-might-win-it-all-in-2028-41866025/"
+  - key: "national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60"
+    title: "National front-runner: who can beat Le Pen?"
+    url: "/wiki/sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60/"
   - key: "neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716"
     title: "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs"
     url: "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
