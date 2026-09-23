@@ -21357,6 +21357,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DebtThresholdUncertainty": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "DecentLifeAsControl": [
     {
       "key": "culture",
@@ -83061,6 +83068,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490-defaultmp3-ywr3ahjkcgo-7f3751f920b60d7e5f1f95b565e5195b-90323490": [

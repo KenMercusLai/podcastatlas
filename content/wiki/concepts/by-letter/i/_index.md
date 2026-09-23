@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7989
+wiki_total_pages: 7990
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"

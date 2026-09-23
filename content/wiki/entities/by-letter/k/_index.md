@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10618
+wiki_total_pages: 10621
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "KarenDuffin"
     title: "Karen Duffin"
     url: "/wiki/entities/karenduffin/"
+  - key: "KarenDynan"
+    title: "Karen Dynan"
+    url: "/wiki/entities/karendynan/"
   - key: "KarenNussbaum"
     title: "Karen Nussbaum"
     url: "/wiki/entities/karennussbaum/"
@@ -260,6 +263,9 @@ wiki_pages:
   - key: "KennethKeyes"
     title: "Kenneth Keyes"
     url: "/wiki/entities/kennethkeyes/"
+  - key: "KennethRogoff"
+    title: "Kenneth Rogoff"
+    url: "/wiki/entities/kennethrogoff/"
   - key: "KennethStanley"
     title: "Kenneth Stanley"
     url: "/wiki/entities/kennethstanley/"

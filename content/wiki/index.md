@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Is our national debt finally too much? (update)](sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319.md) — Planet Money update on the failed search for a universal debt threshold, the Reinhart-Rogoff controversy, rising debt service, and U.S. fiscal capacity.
 - [479. The French Revolution: The Storming of the Bastille (Part 5)](sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441.md) — The Rest Is History episode on hunger, Necker's dismissal, Parisian arming, the Bastille's fall, revolutionary mythmaking, and post-surrender vengeance.
 - [Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck](sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031.md) — Huberman Lab interview on integrity as inner coherence, sensory imagination, compassionate witnessing, body-based self-trust, and boundaries against self-abandonment.
 - [480. The French Revolution: The Rights of Man (Part 6)](sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265.md) — The Rest Is History episode on the Great Fear, abolition of privilege, universal rights, national sovereignty, Church property, and the clerical oath.
@@ -2756,6 +2757,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Carmen Reinhart](entities/CarmenReinhart.md) — Economist whose high-debt and growth research became a disputed political threshold.
+- [Kenneth Rogoff](entities/KennethRogoff.md) — Economist who rejects a fixed 90% cliff while warning about debt-service risk.
+- [Karen Dynan](entities/KarenDynan.md) — Economist whose assessment shifted toward debt hawkishness as U.S. financing costs rose.
 - [Storming of the Bastille](entities/StormingOfTheBastille.md) — July 1789 seizure of a royal fortress and its gunpowder that became a foundational but violence-shadowed revolutionary symbol.
 - [Jacques Necker](entities/JacquesNecker.md) — Popular finance minister whose dismissal helped turn structural crisis into armed Parisian mobilization.
 - [Camille Desmoulins](entities/CamilleDesmoulins.md) — Revolutionary speaker whose Palais Royal call to arms catalyzed the pre-Bastille street movement.
@@ -13385,6 +13389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Debt Threshold Uncertainty](concepts/DebtThresholdUncertainty.md) — Why no universal debt-to-GDP cliff exists even though debt-service vulnerability can rise.
 - [Bastille Revolutionary Mythmaking](concepts/BastilleRevolutionaryMythmaking.md) — Conversion of a practical prison seizure into a liberation memory through imagery, demolition, relics, tourism, and selective forgetting.
 - [Revolutionary Crowd Vengeance](concepts/RevolutionaryCrowdVengeance.md) — Extra-legal punishment using rumor, mutilation, decapitation, and bodily display as political theatre.
 - [Integrity as Inner Coherence](concepts/IntegrityAsInnerCoherence.md) — Life-alignment frame pairing bodily evidence, logical coherence, and gradual course correction.

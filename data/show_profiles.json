@@ -730,14 +730,14 @@
       "earliest_episode_date": "2025-07-18",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
-      "source_note_count": 82,
-      "topic_matched_source_note_count": 47,
+      "source_note_count": 83,
+      "topic_matched_source_note_count": 48,
       "topics": [
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 21
+          "source_note_count": 22
         },
         {
           "key": "politics",
@@ -817,10 +817,10 @@
         }
       ],
       "start_here_episode_files": [
+        "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
         "default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737 [default.mp3_ywr3ahjkcgo_90166871d561fa45ba428e0a0fbc3e7e_20290737].md",
         "default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177 [default.mp3_ywr3ahjkcgo_121afa1edad69a8165a6651fddddf97c_25337177].md",
-        "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
-        "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md"
+        "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md"
       ]
     },
     "Talk三联": {

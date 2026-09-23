@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7989
+wiki_total_pages: 7990
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "DeathsOfDespairCounterfeitPillRisk"
     title: "Deaths Of Despair Counterfeit Pill Risk"
     url: "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
+  - key: "DebtThresholdUncertainty"
+    title: "Debt Threshold Uncertainty"
+    url: "/wiki/concepts/debtthresholduncertainty/"
   - key: "DebtFinancedSaaSRollupRisk"
     title: "Debt-Financed SaaS Rollup Risk"
     url: "/wiki/concepts/debtfinancedsaasrolluprisk/"

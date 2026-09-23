@@ -18910,6 +18910,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/carmeliteconventmayerling/"
     },
+    "CarmenReinhart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
+          "key": "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319",
+          "show": "Planet Money",
+          "title": "Is our national debt finally too much? (update)",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/carmenreinhart/"
+    },
     "CarrieBatten": {
       "episode_count": 1,
       "show_count": 1,
@@ -30963,6 +30979,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/debtfinancedsaasrolluprisk/"
+    },
+    "DebtThresholdUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
+          "key": "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319",
+          "show": "Planet Money",
+          "title": "Is our national debt finally too much? (update)",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/debtthresholduncertainty/"
     },
     "DeceptionAsPatronTrustCollapse": {
       "episode_count": 1,
@@ -70820,6 +70852,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/kaomisleep/"
     },
+    "KarenDynan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
+          "key": "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319",
+          "show": "Planet Money",
+          "title": "Is our national debt finally too much? (update)",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/karendynan/"
+    },
     "KarenNussbaum": {
       "episode_count": 1,
       "show_count": 1,
@@ -71073,6 +71121,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kenjiyamamoto/"
+    },
+    "KennethRogoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
+          "key": "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319",
+          "show": "Planet Money",
+          "title": "Is our national debt finally too much? (update)",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/kennethrogoff/"
     },
     "KentaroFujita": {
       "episode_count": 1,
@@ -130829,9 +130893,9 @@
       "url": "/wiki/concepts/usfastfoodchinaexpansion/"
     },
     "USFiscalDebtSpiralRisk": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine [42597345].md",
@@ -130846,9 +130910,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms-42921207/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319 [default.mp3_ywr3ahjkcgo_16675f4ec662733b9df4bb0531044c84_31689319].md",
+          "key": "defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319",
+          "show": "Planet Money",
+          "title": "Is our national debt finally too much? (update)",
+          "url": "/wiki/sources/defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/usfiscaldebtspiralrisk/"
     },
     "USImmigrationAndCustomsEnforcement": {

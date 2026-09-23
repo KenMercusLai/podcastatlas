@@ -21904,3 +21904,11 @@ Added source `479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Is our national debt finally too much? (update)
+
+Added source `defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319-defaultmp3-ywr3ahjkcgo-16675f4ec662733b9df4bb0531044c84-31689319`; created `CarmenReinhart`, `KennethRogoff`, `KarenDynan`, and `DebtThresholdUncertainty`; updated `USFiscalDebtSpiralRisk` and the index. Core synthesis: the Reinhart-Rogoff 90% category was not a universal crisis cliff, its spreadsheet correction weakened but did not erase the high-debt/slow-growth association, and causality remains unresolved; current U.S. risk is better assessed through debt-service cost, rates, maturity, creditor structure, growth, and crisis-response capacity. No settled contradiction was found. Contemporary debt totals, interest costs, yield comparisons, projections, and probability estimates remain source-dated or attributed. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
