@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8001
+wiki_total_pages: 8005
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "SchoolAIBoundaries"
     title: "School AI Boundaries"
     url: "/wiki/concepts/schoolaiboundaries/"
+  - key: "SchoolLearningStateDesign"
+    title: "School Learning State Design"
+    url: "/wiki/concepts/schoollearningstatedesign/"
   - key: "SchoolMealsAsEducationAccess"
     title: "School Meals as Education Access / 校餐作为教育入口"
     url: "/wiki/concepts/schoolmealsaseducationaccess/"
@@ -677,6 +680,9 @@ wiki_pages:
   - key: "ShifgrethorPoliticalFace"
     title: "Shifgrethor Political Face / 西弗格雷瑟式政治面子"
     url: "/wiki/concepts/shifgrethorpoliticalface/"
+  - key: "ShilajitEvidenceBoundary"
+    title: "Shilajit Evidence Boundary"
+    url: "/wiki/concepts/shilajitevidenceboundary/"
   - key: "ShinglesVaccineDementiaSignal"
     title: "Shingles Vaccine Dementia Signal"
     url: "/wiki/concepts/shinglesvaccinedementiasignal/"

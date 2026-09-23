@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More
+
+Added source `ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235`; created `ColdExposureDoseAndSafety`, `InternalAccountabilityLoop`, `SchoolLearningStateDesign`, and `ShilajitEvidenceBoundary`; updated skin-renewal, motivation, sleep-stage, addiction, recovery-community, and index content. Core synthesis: the AMA repeatedly prioritizes foundations, minimum effective dose, evidence strength, and safety—especially for cold immersion, hormone-adjacent supplements, sleep claims, and clinical recovery—while making written commitments, distraction removal, rest, movement, and mutual-help access practical design tools. No settled contradiction found; numerical protocols, mechanistic claims, and supplement effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | 尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？
 
 Added source `niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19`; created `GyirongPort`, `CumulativeRiverValleyDevelopmentRisk`, and `StrategicBorderCorridorDependence`; updated `DuanwenNewsPodcast`, `Nepal`, `HinduKushHimalaya`, `HimalayanGlacialFloodRisk`, `HydropowerConcentrationRisk`, `CrossBorderDisasterEarlyWarning`, and the index. Core synthesis: Gyirong is simultaneously an old trade route, a modern border-governance and Nepalese diversification corridor, and a concentrated hazard site where ports, roads, hydropower, settlements, and logistics share one valley; project-level review can miss this cumulative exposure, while formal cross-border data sharing remains incomplete but would not necessarily make sudden ice-rock collapse predictable. No settled contradiction found; casualty figures are dated snapshots, and control perceptions, project losses, environmental-review quality, warning contents, and reconstruction expectations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21948,6 +21952,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | EP 50: Evolution of Enterprise Data Engineering in Gen AI Era
 
 Added source `ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era`; created `SasankAkkinappoli`, `IBMDataStage`, `Dbt`, `EnterpriseDataModernization`, `DataPipelineCICD`, and `AIReadyDataEngineering`; updated `Databricks`, `Snowflake`, and the index. Core synthesis: enterprise data modernization is not a code relocation exercise; it must preserve business logic while improving freshness, governance, traceability, semantic correctness, and rollback safety, and those controls become more important when AI agents consume the resulting data. No settled contradiction found. The hourly inventory example is near-real-time rather than instantaneous, product comparisons remain workload-fit heuristics, and autonomous operations are prospective rather than demonstrated. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

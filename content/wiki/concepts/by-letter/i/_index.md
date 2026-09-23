@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8001
+wiki_total_pages: 8005
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -620,6 +620,9 @@ wiki_pages:
   - key: "IntermittentReinforcement"
     title: "Intermittent Reinforcement"
     url: "/wiki/concepts/intermittentreinforcement/"
+  - key: "InternalAccountabilityLoop"
+    title: "Internal Accountability Loop"
+    url: "/wiki/concepts/internalaccountabilityloop/"
   - key: "InternalCanteenFoodCourtOperation"
     title: "Internal Canteen Food-Court Operation / 内部食堂美食广场化"
     url: "/wiki/concepts/internalcanteenfoodcourtoperation/"

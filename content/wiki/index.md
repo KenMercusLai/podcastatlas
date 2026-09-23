@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More](sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235.md) — Huberman Lab subscriber AMA on layered skin care, cold-exposure safety, internal accountability, REM sleep, school learning design, shilajit evidence, writing, and addiction recovery.
 - [EP 50: Evolution of Enterprise Data Engineering in Gen AI Era](sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era.md) — Data Science With Sam episode with Sasank Akkinappoli on legacy ETL modernization, Databricks/Snowflake/dbt workload fit, operational data freshness, governance, data CI/CD, and AI-ready data engineering.
 - [尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？](sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19.md) — 端聞 explainer on Gyirong's trade and border role, cumulative river-valley development risk, strategic corridor dependence, and cross-border warning limits.
 - [National front-runner: who can beat Le Pen?](sources/national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60.md) — The Intelligence episode on Le Pen's polling lead and fragmented opposition, identity-proxied enforcement along the India-Bangladesh border, and Argentina's polo cluster.
@@ -13402,6 +13403,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Cold Exposure Dose and Safety](concepts/ColdExposureDoseAndSafety.md) — Minimum-effective-dose cold framework with explicit immersion, breathwork, hypothermia, and cardiovascular safety gates.
+- [Internal Accountability Loop](concepts/InternalAccountabilityLoop.md) — Written commitment, distraction control, task completion, sign-off, and effort-centered reward as a closed action cycle.
+- [School Learning State Design](concepts/SchoolLearningStateDesign.md) — School-level integration of sleep opportunity, attention, movement, brief rest, and lesson pacing.
+- [Shilajit Evidence Boundary](concepts/ShilajitEvidenceBoundary.md) — Foundations-first boundary for limited, authenticity-sensitive hormone and fertility claims about shilajit.
 - [Enterprise Data Modernization](concepts/EnterpriseDataModernization.md) — Staged transition from legacy batch systems to trustworthy, governed, fit-for-purpose cloud data platforms.
 - [Data Pipeline CI/CD](concepts/DataPipelineCICD.md) — Versioned, automated data release discipline that must test semantic correctness as well as execution success.
 - [AI-Ready Data Engineering](concepts/AIReadyDataEngineering.md) — Governed data-product practice for reliable human and agentic prediction, recommendation, and operations.

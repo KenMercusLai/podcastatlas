@@ -4753,9 +4753,9 @@
       "url": "/wiki/concepts/addedfreesugardistinction/"
     },
     "AddictionAsAttemptedRelief": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5476071523 [SCIM5476071523].md",
@@ -4763,9 +4763,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
           "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        },
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/addictionasattemptedrelief/"
     },
     "Adidas": {
@@ -24950,6 +24957,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/cognitivetrustallocation/"
     },
+    "ColdExposureDoseAndSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/coldexposuredoseandsafety/"
+    },
     "ColdShiveringThermogenesis": {
       "episode_count": 1,
       "show_count": 1,
@@ -32676,9 +32699,9 @@
       "url": "/wiki/entities/deodorodafonseca/"
     },
     "DermatologicRenewalAndCancerPrevention": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -32686,9 +32709,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
           "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        },
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/dermatologicrenewalandcancerprevention/"
     },
     "Derry": {
@@ -37447,9 +37477,9 @@
       "url": "/wiki/concepts/effectiveconfusionodysseyperiod/"
     },
     "EffortAsReward": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2602950288 [SCIM2602950288].md",
@@ -37457,9 +37487,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/effortasreward/"
     },
     "EgocentricRobotData": {
@@ -66568,6 +66605,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
+    },
+    "InternalAccountabilityLoop": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/internalaccountabilityloop/"
     },
     "InternalCapacityBeforeWar": {
       "episode_count": 1,
@@ -108205,9 +108258,9 @@
       "url": "/wiki/concepts/reconstructivememory/"
     },
     "RecoveryCommunityConnection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5476071523 [SCIM5476071523].md",
@@ -108215,9 +108268,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Overcoming Substance & Behavioral Addictions | Ryan Soave",
           "url": "/wiki/sources/tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523/"
+        },
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/recoverycommunityconnection/"
     },
     "RecoveryDistressTolerance": {
@@ -114338,6 +114398,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/schoolaiboundaries/"
     },
+    "SchoolLearningStateDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/schoollearningstatedesign/"
+    },
     "SchoolMealsAsEducationAccess": {
       "episode_count": 1,
       "show_count": 1,
@@ -117994,6 +118070,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/shidaifengjun/"
     },
+    "ShilajitEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/shilajitevidenceboundary/"
+    },
     "ShinglesVaccineDementiaSignal": {
       "episode_count": 2,
       "show_count": 2,
@@ -119190,9 +119282,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -119214,9 +119306,16 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
@@ -131879,9 +131978,9 @@
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
     },
     "UVExposureSkinProtection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -131889,9 +131988,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
           "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        },
+        {
+          "episode_file": "SCIM1100391235 [SCIM1100391235].md",
+          "key": "ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235",
+          "show": "Huberman Lab",
+          "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
+          "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/uvexposureskinprotection/"
     },
     "UXCoffee": {

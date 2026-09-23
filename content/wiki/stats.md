@@ -11,22 +11,22 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8001
+- Concepts: 8005
 - Entities: 10629
-- Sources: 2742
-- Total wiki content pages: 21373
+- Sources: 2743
+- Total wiki content pages: 21378
 
 ## Links
-- Wiki link references: 547238
-- Unique wiki link targets: 21372
-- Missing targets: 1
+- Wiki link references: 547308
+- Unique wiki link targets: 21378
+- Missing targets: 2
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2742
-- Matched episodes: 2742
+- Source pages: 2743
+- Matched episodes: 2743
 - Missing source_file: 0
 - Unmatched source_file: 0
 
@@ -35,5 +35,7 @@ outputs: ["html"]
 - `[[ClinicalValidationThresholds]]`
   - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
   - `content/wiki/log.md`
+- `[[SupplementContaminationAndMislabelling]]`
+  - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
 
 All wiki source pages resolve to episode pages.
