@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | 483. The Mysterious Case of the Ape Man
+
+Added source `483-the-mysterious-case-of-the-ape-man-glt8701811415`; created `PiltdownMan`, `CharlesDawson`, `ArthurSmithWoodward`, and `ExpectationMatchedScientificFraud`; migrated and updated `ArthurConanDoyle`; and updated the index. Core synthesis: Piltdown succeeded because its composite anatomy, British provenance, and borrowed expert authority supplied the nationally and theoretically desirable evidence that institutions expected, while later hominin discoveries and fluorine testing broke that fit. No settled contradiction found; Dawson is overwhelmingly likely but left no confession, and precise material provenance, accomplice theories, motive, Hinton's intent, and the Conan Doyle theory remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | How to Increase Your Emotional Intelligence | Dr. Marc Brackett
 
 Added source `how-to-increase-your-emotional-intelligence-dr-marc-brackett-scim6059113217`; created `MoodMeterEmotionalCheckIn`, `EmotionMentorship`, and `BullyingPreventionThroughEmotionalSkills`; updated `MarcBrackett`, `YaleCenterForEmotionalIntelligence`, `RULERFramework`, `EmotionalGranularity`, `EmotionRegulationToolkit`, and index. Core synthesis: emotional intelligence becomes actionable when people recognize states, investigate causes, label them precisely, separate acceptance from expression, and choose context-sensitive regulation; the Mood Meter makes check-ins nonjudgmental, while Uncle Marvin and the bullying account extend the framework into supportive-adult responsibility and power-aware school prevention. No settled contradiction found; the 2024 episode complements the later 2026 Brackett interview, “Mark” is normalized to Marc, and conversational research claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21837,6 +21841,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393`; updated `SteveHilton`, `SpencerPratt`, `CaliforniaAffordabilityGovernanceReset`, `BallotHarvestingTrustRisk`, `CaliforniaPostFireRebuildingDelay`, and the index. Core synthesis: Hilton expands his affordability campaign from a $100,000 to a $150,000 income-tax exemption and adds staffing, regulatory, energy, rail, vehicle-fee, and new-city proposals, while implementation and fiscal authority remain unresolved. Pratt distinguishes legal ballot harvesting from fake-ballot allegations and explicitly concedes he lacks evidence that fraud caused his loss; his fire account adds alleged prevention and water failures, mass-tort litigation, insurance constraints, and continued rebuilding delay. No settled contradiction found beyond the unreconciled tax-plan revision; electoral, fiscal, regulatory, fire-causation, negligence, lawsuit, reservoir, insurance, and polling claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

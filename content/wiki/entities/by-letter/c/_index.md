@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10597
+wiki_total_pages: 10600
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "CharlesDarwin"
     title: "Charles Darwin / 查尔斯·达尔文"
     url: "/wiki/entities/charlesdarwin/"
+  - key: "CharlesDawson"
+    title: "Charles Dawson"
+    url: "/wiki/entities/charlesdawson/"
   - key: "CharlesDuncanCameron"
     title: "Charles Duncan Cameron"
     url: "/wiki/entities/charlesduncancameron/"

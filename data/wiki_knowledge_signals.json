@@ -9718,6 +9718,59 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/arthurbrooks/"
     },
+    "ArthurConanDoyle": {
+      "episode_count": 4,
+      "show_count": 2,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？ [878168738].md",
+          "key": "144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738",
+          "show": "蜜獾吃书",
+          "title": "144. 被诅咒的木乃伊：福尔摩斯会和老舍联手探案吗？",
+          "url": "/wiki/sources/144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738/"
+        },
+        {
+          "episode_file": "60.闲聊伟大作家们的八卦（第一弹） [648693204].md",
+          "key": "60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204",
+          "show": "蜜獾吃书",
+          "title": "60.闲聊伟大作家们的八卦（第一弹）",
+          "url": "/wiki/sources/60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204/"
+        },
+        {
+          "episode_file": "69.闲聊推理文学：历史学者可不就是侦探吗！ [666244465].md",
+          "key": "69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465",
+          "show": "蜜獾吃书",
+          "title": "69.闲聊推理文学：历史学者可不就是侦探吗！",
+          "url": "/wiki/sources/69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465/"
+        },
+        {
+          "episode_file": "GLT8701811415 [GLT8701811415].md",
+          "key": "483-the-mysterious-case-of-the-ape-man-glt8701811415",
+          "show": "The Rest Is History",
+          "title": "483. The Mysterious Case of the Ape Man",
+          "url": "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/arthurconandoyle/"
+    },
+    "ArthurSmithWoodward": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8701811415 [GLT8701811415].md",
+          "key": "483-the-mysterious-case-of-the-ape-man-glt8701811415",
+          "show": "The Rest Is History",
+          "title": "483. The Mysterious Case of the Ape Man",
+          "url": "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/arthursmithwoodward/"
+    },
     "ArtificialEmotionalIntelligence": {
       "episode_count": 1,
       "show_count": 1,
@@ -19782,6 +19835,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/charismaticpoliticalmartyrdom/"
+    },
+    "CharlesDawson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8701811415 [GLT8701811415].md",
+          "key": "483-the-mysterious-case-of-the-ape-man-glt8701811415",
+          "show": "The Rest Is History",
+          "title": "483. The Mysterious Case of the Ape Man",
+          "url": "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/charlesdawson/"
     },
     "CharlesDuncanCameron": {
       "episode_count": 2,
@@ -41841,6 +41910,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/existentialism/"
+    },
+    "ExpectationMatchedScientificFraud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8701811415 [GLT8701811415].md",
+          "key": "483-the-mysterious-case-of-the-ape-man-glt8701811415",
+          "show": "The Rest Is History",
+          "title": "483. The Mysterious Case of the Ape Man",
+          "url": "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/expectationmatchedscientificfraud/"
     },
     "ExpeditionTeamTrust": {
       "episode_count": 1,
@@ -99390,6 +99475,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/piggylordoftheflies/"
+    },
+    "PiltdownMan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8701811415 [GLT8701811415].md",
+          "key": "483-the-mysterious-case-of-the-ape-man-glt8701811415",
+          "show": "The Rest Is History",
+          "title": "483. The Mysterious Case of the Ape Man",
+          "url": "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/piltdownman/"
     },
     "Pinduoduo": {
       "episode_count": 10,

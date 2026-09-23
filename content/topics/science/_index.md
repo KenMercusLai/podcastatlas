@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1176
+topic_total_pages: 1178
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -655,6 +655,9 @@ topic_concepts:
   - key: "ExerciseSpecificBrainAdaptation"
     title: "Exercise-Specific Brain Adaptation"
     url: "/wiki/concepts/exercisespecificbrainadaptation/"
+  - key: "ExpectationMatchedScientificFraud"
+    title: "Expectation-Matched Scientific Fraud"
+    url: "/wiki/concepts/expectationmatchedscientificfraud/"
   - key: "ExperimentalFailureAsKnowledge"
     title: "Experimental Failure As Knowledge"
     url: "/wiki/concepts/experimentalfailureasknowledge/"
@@ -3105,6 +3108,9 @@ topic_sources:
   - key: "47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924"
     title: "47.鸟有什么好看的：原来…丹顶鹤是秃的！"
     url: "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
+  - key: "483-the-mysterious-case-of-the-ape-man-glt8701811415"
+    title: "483. The Mysterious Case of the Ape Man"
+    url: "/wiki/sources/483-the-mysterious-case-of-the-ape-man-glt8701811415/"
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"

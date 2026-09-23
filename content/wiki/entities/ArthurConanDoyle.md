@@ -2,28 +2,59 @@
 title: "Arthur Conan Doyle / 柯南道尔"
 type: entity
 tags: [writer, detective-fiction, spiritualism, biography]
-sources: [144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]
-last_updated: 2026-07-24
+sources:
+  - 144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738
+  - 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204
+  - 69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465
+  - 483-the-mysterious-case-of-the-ape-man-glt8701811415
+last_updated: 2026-09-23
+knowledge_schema: synthesis-v1
 ---
 
 # Arthur Conan Doyle / 柯南道尔
 
-Arthur Conan Doyle is discussed in [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] as the failed or underemployed doctor who created [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] while waiting for patients, then became trapped by the character's popularity. The episode stresses the irony that Doyle wanted literary prestige as a historical novelist, but the detective stories brought him fame, money, and public pressure after he tried to kill Holmes.
+## Overview
 
-The source makes Doyle central to [[OccultPseudoscienceLiteraryModernity]]. His belief in spiritualism, fairy photographs, seances, and messages from the dead sits in direct contrast to the rational-detection aura of Holmes. The episode uses that contrast not simply to mock Doyle, but to show how late-19th and early-20th-century culture mixed science, performance, grief, fraud, and belief.
+Arthur Conan Doyle was a doctor and writer whose [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] stories established his durable public fame despite his preference for historical fiction. The wiki uses him across detective method, literary afterlife, spiritualist belief, and the suspect history of [[PiltdownMan|Piltdown Man]].
 
-Doyle's page also connects to authorship and publishing. The episode notes that Holmes's name and visual image were shaped by family suggestion, serial publication, and illustrators, making [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] a collaborative cultural figure rather than only an idea in Doyle's head.
+## Current Profile
 
-[[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] adds Doyle to a detective-fiction lineage from gothic ambiguity and [[EdgarAllanPoe|Poe]] toward modern evidence procedure. The source uses [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] to show how Doyle could exploit supernatural atmosphere while still returning the case to human motive and rational explanation.
+Doyle's profile is built around productive contradictions. His detective fiction makes observation and rational explanation culturally vivid, especially when [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] turns supernatural atmosphere back toward human causes. Yet his defense of spiritualism, fairy photographs, seances, and messages from the dead makes him a central case in [[OccultPseudoscienceLiteraryModernity]]. Later writers also detach Holmes from Doyle and reuse the character in global pastiche.
 
-[[144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738]] adds a post-Doyle afterlife angle. The source is not mainly about Doyle's biography, but [[TheCursedMummy|《被诅咒的木乃伊》]] shows how [[SherlockHolmes|Holmes]] and [[JohnWatson|Watson]] can be reused by later writers as a shared format for parody, literary crossover, and [[OrientalistMysteryMisdirection|false exotic atmosphere]].
+The Piltdown episode adds a narrow historical qualification. Doyle lived near the site, knew people in the Piltdown circle, and had written *The Lost World*, so he became a colorful suspect. The source rejects him as unlikely and treats the theory as an association-driven alternative to the much stronger case against [[CharlesDawson|Charles Dawson]].
 
-## Connections
-- [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
-- [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] - character whose success defined Doyle's public image.
-- [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] - source-69 example for gothic atmosphere under rational detection.
-- [[ChineseDetectiveModernity]] - Holmes translation and evidence-procedure branch.
-- [[OccultPseudoscienceLiteraryModernity]] - spiritualism, fairy photographs, and seance belief.
-- [[LiteraryGossipAsContext]] - biographical contradiction used as reading context.
-- [[AuthorMythDeflation]] - rational-detective author complicated by credulity and grief.
-- [[HolmesPasticheTradition|福尔摩斯同人传统]] and [[TheCursedMummy|《被诅咒的木乃伊》]] - later reader/writer reuse of Doyle's detective apparatus.
+## Key Characteristics
+
+- His medical underemployment helped produce Sherlock Holmes, the character that eclipsed his desired identity as a historical novelist.
+- He joined gothic atmosphere to rational solution and became central to the modern detective-fiction lineage.
+- His spiritualism and support for dubious supernatural evidence complicate the rational aura associated with Holmes.
+- Holmes became a collaborative and reusable cultural figure shaped by serial publishing, illustration, translation, parody, and pastiche.
+- His Piltdown connection is biographically suggestive but evidentially weak and should not be treated as guilt.
+
+## Evidence
+
+- Authorship and public image: [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] connects Doyle's medical career, historical-fiction ambition, Holmes's success, and spiritualist belief.
+- Detective method and historical reasoning: [[69-xianliao-tuili-wenxue-lishixuezhe-ke-bu-jiu-shi-zhentan-ma-666244465]] places Doyle and Holmes between gothic ambiguity and evidence-based explanation.
+- Literary afterlife: [[144-bei-zuzhou-de-munaiyi-fuermosi-hui-he-laoshe-lianshou-tanan-ma-878168738]] uses [[TheCursedMummy|《被诅咒的木乃伊》]] to show Holmes reused for parody, cross-cultural encounter, and false exotic atmosphere.
+- Piltdown suspect history: [[483-the-mysterious-case-of-the-ape-man-glt8701811415]] records proximity, acquaintance, and *The Lost World* as the theory's basis, then rejects Doyle as an unlikely forger.
+
+## Qualifications
+
+The literary-gossip source is explicitly anecdotal and should not be treated as final biography. Doyle's spiritualism does not erase the evidential structure of his fiction, and Holmes's rationality does not prove Doyle personally applied identical standards in every domain. The Piltdown theory rests on association and thematic coincidence rather than the means-opportunity pattern attributed to Dawson.
+
+## What Changed
+
+- Migrated the page to the synthesis-first schema using its complete four-source evidence inventory.
+- Added the Piltdown suspect theory as a qualified biographical branch and explicitly rejected association as sufficient evidence.
+- Integrated Doyle's authorship, spiritualism, detective method, and global pastiche afterlife into one current profile.
+
+## Relationships
+
+- [[SherlockHolmes|Sherlock Holmes / 福尔摩斯]] - character whose success defined Doyle's public image and afterlife.
+- [[TheHoundOfTheBaskervilles|The Hound of the Baskervilles / 《巴斯克维尔的猎犬》]] - example of supernatural atmosphere resolved through human evidence.
+- [[OccultPseudoscienceLiteraryModernity]] - historical frame for Doyle's spiritualist commitments.
+- [[ChineseDetectiveModernity]] - translation and procedural-modernity branch of the Holmes legacy.
+- [[HolmesPasticheTradition|福尔摩斯同人传统]] - later cross-cultural reuse of Doyle's detective apparatus.
+- [[PiltdownMan]] - hoax for which Doyle became a weak alternative suspect.
+- [[CharlesDawson]] - figure against whom the Piltdown attribution evidence is much stronger.
+- [[LiteraryGossipAsContext]] - method for using biographical contradiction without treating anecdote as verdict.

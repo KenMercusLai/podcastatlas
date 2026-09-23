@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10597
+wiki_total_pages: 10600
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1334,6 +1334,9 @@ wiki_pages:
   - key: "ArthurSchopenhauer"
     title: "Arthur Schopenhauer / 叔本华"
     url: "/wiki/entities/arthurschopenhauer/"
+  - key: "ArthurSmithWoodward"
+    title: "Arthur Smith Woodward"
+    url: "/wiki/entities/arthursmithwoodward/"
   - key: "ArtX"
     title: "ArtX"
     url: "/wiki/entities/artx/"

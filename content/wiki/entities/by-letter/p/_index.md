@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10597
+wiki_total_pages: 10600
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -503,6 +503,9 @@ wiki_pages:
   - key: "PiggyLordOfTheFlies"
     title: "Piggy / 猪崽子（《蝇王》）"
     url: "/wiki/entities/piggylordoftheflies/"
+  - key: "PiltdownMan"
+    title: "Piltdown Man"
+    url: "/wiki/entities/piltdownman/"
   - key: "PIMCO"
     title: "PIMCO"
     url: "/wiki/entities/pimco/"

@@ -1717,6 +1717,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "483-the-mysterious-case-of-the-ape-man-glt8701811415": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "484-the-food-that-changed-the-world-glt2872429496": [
     {
       "key": "history",
@@ -26218,6 +26230,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ExpectationMatchedScientificFraud": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ExperienceFormingEducation": [
