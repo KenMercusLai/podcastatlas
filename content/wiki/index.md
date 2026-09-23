@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？](sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937.md) — 声动早咖啡 episode on electric two-wheeler premiumization through practical smart features, design, youth marketing, offline service, and the margin pressure from standards, motorcycles, subsidies, and price wars.
 - [486. Henry IV: Warrior Princes and Fat Knights (Part 2)](sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611.md) — The Rest Is History episode on Shrewsbury, Prince Henry's Welsh apprenticeship, Henry IV's survival, Falstaff, Oldcastle, Lollardy, and religious ambiguity.
 - [487. Hundred Years' War: Henry V's Invasion of France (Part 1)](sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021.md) — The Rest Is History episode on France's factional collapse, Henry V's dynastic diplomacy and war preparation, Harfleur, Lancastrian risk, and the Southampton Plot.
 - [EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意](sources/ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb.md) — 无时差研究所 episode with photographer 方舟 on story-led portrait production, participatory co-creation, client obligations, and creative-hobby commercialization.
@@ -4947,16 +4948,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [途家 / Tujia](entities/Tujia.md) — Chinese homestay platform used as the vacation-rental contrast in the episode's Airbnb-in-China analysis.
 - [小猪 / Xiaozhu](entities/Xiaozhu.md) — Early Chinese Airbnb-style homestay platform used as a contrast for spare-bedroom supply timing.
 - [Eric Weinstein](entities/EricWeinstein.md) — Heterodox science-policy and physics critic linking scientific precarity, high-beta funding, Geometric Unity, secrecy, AI, and UAPs.
-- [Aima Technology / 爱玛](entities/AimaTechnology.md) — Traditional Chinese electric two-wheeler maker on the declining legacy side of the 2026 market split.
+- [Aima Technology / 爱玛](entities/AimaTechnology.md) — Traditional scale-oriented electric two-wheeler maker facing category weakness and premium challenger pressure.
 - [Lego / 乐高](entities/Lego.md) — Toy company expanding across children and adult consumers while keeping AI out of independent product design.
 - [Mac Studio](entities/MacStudio.md) — Apple desktop product tied in this source to high-performance local AI workloads.
-- [Ninebot / 九号](entities/Ninebot.md) — Smart-feature electric two-wheeler growth case in a weakening Chinese category.
-- [Niu Technologies / 小牛](entities/NiuTechnologies.md) — Smart-feature electric two-wheeler growth case contrasted with declining legacy makers.
+- [Ninebot / 九号](entities/Ninebot.md) — Premium electric two-wheeler challenger combining practical sensing, industrial design, youth marketing, and an intensive store network.
+- [Niu Technologies / 小牛](entities/NiuTechnologies.md) — Early premium electric two-wheeler challenger built around connected anti-theft functions, distinctive design, and younger users.
 - [Nongfu Spring / 农夫山泉](entities/NongfuSpring.md) — Chinese beverage company whose tea-drink growth is offsetting packaged-water pressure.
 - [Oriental Leaf / 东方树叶](entities/OrientalLeaf.md) — Nongfu Spring unsweetened-tea product line anchoring the tea-growth branch.
 - [Perplexity Computer](entities/PerplexityComputer.md) — Perplexity agent product named as a driver of reported revenue acceleration.
 - [Volkswagen Group / 大众汽车](entities/VolkswagenGroup.md) — Automaker restructuring case shaped by China competition, U.S. tariffs, European overcapacity, job cuts, labor, and governance.
-- [Yadea / 雅迪](entities/Yadea.md) — Traditional Chinese electric two-wheeler maker exposed to demand, standards, and material-cost pressure.
+- [Yadea / 雅迪](entities/Yadea.md) — Traditional scale-oriented electric two-wheeler leader retaining sub-4,000-yuan strength while responding to premium challengers.
 - [Bloody Sunday](entities/BloodySunday.md) — 30 January 1972 Derry massacre treated as a moral atrocity and counterinsurgency legitimacy disaster.
 - [Bloody Friday](entities/BloodyFriday.md) — 21 July 1972 Provisional IRA bombing attack in Belfast that damaged republican support.
 - [Free Derry](entities/FreeDerry.md) — Barricaded Derry no-go area that made local authority collapse visible before Bloody Sunday.
@@ -13339,6 +13340,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Electric Two-Wheeler Premiumization / 电动两轮车高端化](concepts/ElectricTwoWheelerPremiumization.md) — Framework joining practical smart features, design, youth identity, and offline service into a higher-price electric two-wheeler proposition.
 - [Lollardy](concepts/Lollardy.md) — Wycliffite reform movement whose persecution, rebellion, and Lancastrian connections complicate Henry V's religious profile.
 - [Story-Driven Portrait Photography / 故事型人像摄影](concepts/StoryDrivenPortraitPhotography.md) — Planned image-making method joining theme, research, casting, place, direction, contingency, and editing.
 - [Participatory Portrait Co-Creation / 参与式约拍共创](concepts/ParticipatoryPortraitCoCreation.md) — Shared portrait experience extending from preparation and role-play through finished-work circulation.

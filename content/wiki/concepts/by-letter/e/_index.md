@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7956
+wiki_total_pages: 7957
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "ElectricTwoWheelerMarketDivergence"
     title: "Electric Two-Wheeler Market Divergence"
     url: "/wiki/concepts/electrictwowheelermarketdivergence/"
+  - key: "ElectricTwoWheelerPremiumization"
+    title: "Electric Two-Wheeler Premiumization / 电动两轮车高端化"
+    url: "/wiki/concepts/electrictwowheelerpremiumization/"
   - key: "ElectricVehiclePriceParity"
     title: "Electric Vehicle Price Parity"
     url: "/wiki/concepts/electricvehiclepriceparity/"

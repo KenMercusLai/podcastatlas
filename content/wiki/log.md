@@ -21763,3 +21763,11 @@ Added source `486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611`
 ## [2026-09-23] lint | Wiki lint check
 
 Ran lint after health and identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), one broken wikilink from `wiki/concepts/DentalProviderQualificationAssessment.md` to missing `[[ClinicalValidationThresholds]]`, no missing entity pages, and no sparse pages. Graph-aware checks used the stale 2026-09-02 graph snapshot (16,930 nodes versus 21,265 linted pages) and provisionally found no hub stubs, one fragile bridge, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the script's 20-page sample found no direct contradiction and flagged single-source evidence gaps. Report returned in-session; `wiki/lint-report.md` was not saved.
+
+## [2026-09-23] ingest | 一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？
+
+Added source `yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937`; created `ElectricTwoWheelerPremiumization`; updated `Yadea`, `AimaTechnology`, `Ninebot`, `NiuTechnologies`, `ElectricTwoWheelerMarketDivergence`, and the index. Core synthesis: practical anti-theft intelligence first made higher prices legible, while distinctive design, youth identity, social and IP marketing, and offline service turned utility into premium brand recognition; new-standard costs, electric-motorcycle substitution, dealer subsidies, selling expense, and price wars limit the economics. No settled contradiction found; mixed lower-priced portfolio growth and premium recognition operate at different levels, while numerical, merger, drug, chip, privacy, and transit claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5893,9 +5893,9 @@
       "url": "/wiki/entities/aileenwangarcadia/"
     },
     "AimaTechnology": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -5903,9 +5903,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？ [1017641937].md",
+          "key": "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937",
+          "show": "声动早咖啡",
+          "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
+          "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/aimatechnology/"
     },
     "AirCargoValueDensity": {
@@ -36870,9 +36877,9 @@
       "url": "/wiki/concepts/electricassistbicyclepremiumpositioning/"
     },
     "ElectricTwoWheelerMarketDivergence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -36880,10 +36887,33 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？ [1017641937].md",
+          "key": "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937",
+          "show": "声动早咖啡",
+          "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
+          "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/electrictwowheelermarketdivergence/"
+    },
+    "ElectricTwoWheelerPremiumization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？ [1017641937].md",
+          "key": "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937",
+          "show": "声动早咖啡",
+          "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
+          "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/electrictwowheelerpremiumization/"
     },
     "ElectricityAffordabilityIndicator": {
       "episode_count": 2,
@@ -91840,9 +91870,9 @@
       "url": "/wiki/entities/ninetofiveorganization/"
     },
     "Ninebot": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -91850,9 +91880,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？ [1017641937].md",
+          "key": "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937",
+          "show": "声动早咖啡",
+          "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
+          "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/ninebot/"
     },
     "Ningbo": {
@@ -91998,9 +92035,9 @@
       "url": "/wiki/entities/niujinlatehan/"
     },
     "NiuTechnologies": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -92008,9 +92045,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？ [1017641937].md",
+          "key": "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937",
+          "show": "声动早咖啡",
+          "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
+          "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/niutechnologies/"
     },
     "Nixie": {
@@ -141020,9 +141064,9 @@
       "url": "/wiki/entities/yaaasantewaa/"
     },
     "Yadea": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品 [1008870590].md",
@@ -141030,9 +141074,16 @@
           "show": "声动早咖啡",
           "title": "外卖成为海底捞增长最快的业务，乐高表示不会用 AI 来设计产品",
           "url": "/wiki/sources/waimai-chengwei-haidilao-zengzhang-zuikuai-de-yewu-legao-biaoshi-buhui-yong-ai-lai-sheji-chanpin-1008870590/"
+        },
+        {
+          "episode_file": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？ [1017641937].md",
+          "key": "yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937",
+          "show": "声动早咖啡",
+          "title": "一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？",
+          "url": "/wiki/sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/yadea/"
     },
     "YahooChina": {
