@@ -21466,6 +21466,7 @@ Added source `vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-23] ingest | 492. The War on Beards: From Peter the Great to John Lennon (Part 2)
 
 Added source `492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678`; created `FacialHairAsSocialCode`; updated `HairAsPoliticalIdentity`, `PeterTheGreat`, `TheBeatles`, and the index. Core synthesis: facial hair is a reversible social code whose religious, masculine, military, medical, bureaucratic, and countercultural meanings depend on prevailing norms, material grooming technology, media, and institutional power. No settled contradiction found; the Peter material deepens the existing coercive-Westernization account, while the Raglan attribution, medical claims, prevalence and survey figures, motives, and broad gender explanations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21891,6 +21892,14 @@ Added source `480-the-french-revolution-the-rights-of-man-part-6-glt8413639265`;
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 479. The French Revolution: The Storming of the Bastille (Part 5)
+
+Added source `479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441`; created `StormingOfTheBastille`, `JacquesNecker`, `CamilleDesmoulins`, `BernardReneDeLaunay`, `FrenchNationalGuard`, `BastilleRevolutionaryMythmaking`, and `RevolutionaryCrowdVengeance`; updated `FrenchRevolution`, `LouisXVI`, `MarquisDeLafayette`, `JeanSylvainBailly`, `RevolutionaryHungerStreetMobilization`, and the index. Core synthesis: the Bastille was both a practical gunpowder target and a real symbol of arbitrary rule, while military unreliability, civic arming, immediate myth production, and post-surrender lynching made national liberation and political violence parts of the same regime break. No settled contradiction found; the violence-first interpretation does not make later Terror inevitable, and prices, crowd and troop totals, first-fire responsibility, private motives, dialogue, prisoner conditions, and atrocity details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-23] lint | Wiki health check
 

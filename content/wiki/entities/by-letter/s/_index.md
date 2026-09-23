@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10613
+wiki_total_pages: 10618
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1367,6 +1367,9 @@ wiki_pages:
   - key: "StormOptical"
     title: "Storm & Optical"
     url: "/wiki/entities/stormoptical/"
+  - key: "StormingOfTheBastille"
+    title: "Storming of the Bastille"
+    url: "/wiki/entities/stormingofthebastille/"
   - key: "Stormont"
     title: "Stormont"
     url: "/wiki/entities/stormont/"

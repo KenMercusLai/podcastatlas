@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7987
+wiki_total_pages: 7989
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "BasicResearchBreakthroughLatency"
     title: "Basic Research Breakthrough Latency"
     url: "/wiki/concepts/basicresearchbreakthroughlatency/"
+  - key: "BastilleRevolutionaryMythmaking"
+    title: "Bastille Revolutionary Mythmaking"
+    url: "/wiki/concepts/bastillerevolutionarymythmaking/"
   - key: "BatchEquityPool"
     title: "Batch Equity Pool"
     url: "/wiki/concepts/batchequitypool/"

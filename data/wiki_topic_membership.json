@@ -1710,6 +1710,13 @@
       "url": "/topics/science/"
     }
   ],
+  "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "48-kaishi-daji-diyiliu-de-youmo-fengci-627375908": [
     {
       "key": "culture",
@@ -38622,6 +38629,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JacquesNecker": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "JainaHefford": [

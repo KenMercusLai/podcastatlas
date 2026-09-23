@@ -12576,6 +12576,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
+    "BastilleRevolutionaryMythmaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/bastillerevolutionarymythmaking/"
+    },
     "BatterySupplierDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -13561,6 +13577,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/benkei/"
+    },
+    "BernardReneDeLaunay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/bernardrenedelaunay/"
     },
     "BernieMarcus": {
       "episode_count": 2,
@@ -16952,6 +16984,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/camerajet/"
+    },
+    "CamilleDesmoulins": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/camilledesmoulins/"
     },
     "CampaignFinanceAccessIncentive": {
       "episode_count": 1,
@@ -47793,10 +47841,26 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
+    "FrenchNationalGuard": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/frenchnationalguard/"
+    },
     "FrenchRevolution": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 2,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -47895,6 +47959,13 @@
           "show": "The Rest Is History",
           "title": "480. The French Revolution: The Rights of Man (Part 6)",
           "url": "/wiki/sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265/"
+        },
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
         }
       ],
       "updated": "2026-09-23",
@@ -67340,6 +67411,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jacqueslouisdavid/"
     },
+    "JacquesNecker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jacquesnecker/"
+    },
     "JacquesPierreBrissot": {
       "episode_count": 2,
       "show_count": 1,
@@ -67796,9 +67883,9 @@
       "url": "/wiki/entities/jeanpaulsartre/"
     },
     "JeanSylvainBailly": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8447202194 [GLT8447202194].md",
@@ -67806,6 +67893,13 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
         }
       ],
       "updated": "2026-09-23",
@@ -81209,9 +81303,9 @@
       "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -81261,6 +81355,13 @@
           "show": "The Rest Is History",
           "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
           "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        },
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
         }
       ],
       "updated": "2026-09-23",
@@ -85443,9 +85544,9 @@
       "url": "/wiki/concepts/marketingscienceuserpath/"
     },
     "MarquisDeLafayette": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -85481,6 +85582,13 @@
           "show": "The Rest Is History",
           "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
           "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        },
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
         }
       ],
       "updated": "2026-09-23",
@@ -109299,6 +109407,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/revolutionarychurchstaterupture/"
     },
+    "RevolutionaryCrowdVengeance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/revolutionarycrowdvengeance/"
+    },
     "RevolutionaryDressPoliticalIdentity": {
       "episode_count": 1,
       "show_count": 1,
@@ -109332,9 +109456,9 @@
       "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
     },
     "RevolutionaryHungerStreetMobilization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9783455254 [GLT9783455254].md",
@@ -109342,6 +109466,13 @@
           "show": "The Rest Is History",
           "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
           "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        },
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
         }
       ],
       "updated": "2026-09-23",
@@ -121514,6 +121645,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/stormoptical/"
+    },
+    "StormingOfTheBastille": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5485693441 [GLT5485693441].md",
+          "key": "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441",
+          "show": "The Rest Is History",
+          "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
+          "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/stormingofthebastille/"
     },
     "Stormont": {
       "episode_count": 4,

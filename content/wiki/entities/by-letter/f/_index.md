@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10613
+wiki_total_pages: 10618
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -584,6 +584,9 @@ wiki_pages:
   - key: "FrenchFury"
     title: "French Fury"
     url: "/wiki/entities/frenchfury/"
+  - key: "FrenchNationalGuard"
+    title: "French National Guard"
+    url: "/wiki/entities/frenchnationalguard/"
   - key: "FrenchRestoration"
     title: "French Restoration / 法国王政复辟"
     url: "/wiki/entities/frenchrestoration/"

@@ -926,14 +926,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 121,
-      "topic_matched_source_note_count": 120,
+      "source_note_count": 122,
+      "topic_matched_source_note_count": 121,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 118
+          "source_note_count": 119
         },
         {
           "key": "politics",
@@ -956,16 +956,16 @@
       ],
       "entities": [
         {
-          "key": "ElizabethI",
-          "title": "Elizabeth I",
-          "url": "/wiki/entities/elizabethi/",
-          "kind": "person",
-          "episode_count": 7
-        },
-        {
           "key": "LouisXVI",
           "title": "Louis XVI",
           "url": "/wiki/entities/louisxvi/",
+          "kind": "person",
+          "episode_count": 8
+        },
+        {
+          "key": "ElizabethI",
+          "title": "Elizabeth I",
+          "url": "/wiki/entities/elizabethi/",
           "kind": "person",
           "episode_count": 7
         },
@@ -998,18 +998,18 @@
           "episode_count": 6
         },
         {
+          "key": "MarquisDeLafayette",
+          "title": "Marquis de Lafayette",
+          "url": "/wiki/entities/marquisdelafayette/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
           "key": "PhilipII",
           "title": "Philip II of Spain",
           "url": "/wiki/entities/philipii/",
           "kind": "person",
           "episode_count": 6
-        },
-        {
-          "key": "EvaPeron",
-          "title": "Eva Perón",
-          "url": "/wiki/entities/evaperon/",
-          "kind": "person",
-          "episode_count": 5
         }
       ],
       "start_here_episode_files": [

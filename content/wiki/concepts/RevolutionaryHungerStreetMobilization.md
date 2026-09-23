@@ -4,6 +4,7 @@ type: concept
 tags: [scarcity, political-mobilization, french-revolution, rumor]
 sources:
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
+  - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-23
 ---
@@ -16,7 +17,7 @@ Revolutionary hunger and street mobilization describes how food scarcity turns i
 
 ## Current Synthesis
 
-Before the October Days, bread prices rose despite ripening grain because low water immobilized mills and constrained supply. Parisian women experienced the crisis materially, while radical rhetoric attributed hunger to the queen, court, aristocrats, and hidden counterrevolution. Market networks supplied organization, the bread demand supplied legitimacy, and rumor converted hardship into an armed march on political power.
+The sources show the mechanism operating in two escalating crises. Before the Bastille, bad harvests and bread near 15 sous joined troop fear, [[JacquesNecker|Necker]]'s dismissal, and claims about enemies of the people; attacks on Saint-Lazare food stores made alleged hoarding physically visible, while the search for weapons turned scarcity politics into armed regime crisis. Before the October Days, prices rose despite ripening grain because low water immobilized mills and constrained supply. Parisian women experienced that crisis materially, while radical rhetoric attributed hunger to the queen, court, aristocrats, and hidden counterrevolution. Market networks supplied organization, the bread demand supplied legitimacy, and rumor converted hardship into an armed march on political power.
 
 ## Key Claims
 
@@ -24,8 +25,14 @@ Before the October Days, bread prices rose despite ripening grain because low wa
 - Subsistence pressure lowers the distance between abstract constitutional conflict and direct action.
 - Everyday market networks can become rapid political-mobilization infrastructure.
 - Hunger gives political demands moral urgency without predetermining the form or legitimacy of resulting violence.
+- Food stores discovered during attacks can appear to validate a wider hoarding conspiracy without proving coordinated starvation.
+- Subsistence crisis becomes regime crisis when it combines with troop fear, elite distrust, and access to arms.
 
 ## Evidence
+
+### Bread inflation and the Bastille crisis
+
+- [[479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441]] connects bread near 15 sous, enemy rhetoric, Saint-Lazare food stores, Necker's dismissal, troop panic, and the search for weapons.
 
 ### Material scarcity and causal rumor
 
@@ -40,13 +47,17 @@ Before the October Days, bread prices rose despite ripening grain because low wa
 - The source does not quantify scarcity across Paris or reconstruct every participant's motive.
 - Explaining mobilization through hunger does not reduce the marchers to apolitical desperation; their demands also concerned royal acceptance and revolutionary security.
 - Material grievance does not validate every conspiracy claim or excuse killing and coercion.
+- The reported bread prices, food quantities, crowd motives, and causal weight of hunger remain source-scoped.
 
 ## What Changed
 
+- The concept now begins before the Bastille and distinguishes food-store discovery from proof of a coordinated starvation plot.
 - Created the concept to keep real subsistence pressure distinct from the intentional-starvation narratives attached to it.
 
 ## Related Concepts
 
+- [[StormingOfTheBastille]] - earlier event in which hunger combined with troop fear and armed mobilization.
+- [[RevolutionaryCrowdVengeance]] - violent punishment that can follow when deprivation and betrayal claims fuse.
 - [[OctoberDays1789]] - principal event in which this mechanism becomes visible.
 - [[CrowdSovereigntyRepresentationConflict]] - political authority conflict activated by subsistence mobilization.
 - [[CrisisValidatedConspiracyPolitics]] - adjacent mechanism through which real danger enlarges unsupported enemy claims.

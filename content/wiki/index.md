@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [479. The French Revolution: The Storming of the Bastille (Part 5)](sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441.md) — The Rest Is History episode on hunger, Necker's dismissal, Parisian arming, the Bastille's fall, revolutionary mythmaking, and post-surrender vengeance.
 - [Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck](sources/access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031.md) — Huberman Lab interview on integrity as inner coherence, sensory imagination, compassionate witnessing, body-based self-trust, and boundaries against self-abandonment.
 - [480. The French Revolution: The Rights of Man (Part 6)](sources/480-the-french-revolution-the-rights-of-man-part-6-glt8413639265.md) — The Rest Is History episode on the Great Fear, abolition of privilege, universal rights, national sovereignty, Church property, and the clerical oath.
 - [VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复](sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0.md) — 这病说来话长 episode on sports medicine, human movement digital twins, knee injury, elite-performance tradeoffs, and goal-matched rehabilitation.
@@ -2755,6 +2756,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Storming of the Bastille](entities/StormingOfTheBastille.md) — July 1789 seizure of a royal fortress and its gunpowder that became a foundational but violence-shadowed revolutionary symbol.
+- [Jacques Necker](entities/JacquesNecker.md) — Popular finance minister whose dismissal helped turn structural crisis into armed Parisian mobilization.
+- [Camille Desmoulins](entities/CamilleDesmoulins.md) — Revolutionary speaker whose Palais Royal call to arms catalyzed the pre-Bastille street movement.
+- [Bernard-Rene de Launay](entities/BernardReneDeLaunay.md) — Bastille governor who surrendered the fortress and was lynched afterward.
+- [French National Guard](entities/FrenchNationalGuard.md) — Civic militia formed in July 1789 to institutionalize revolutionary arms and municipal order.
 - [Martha Beck](entities/MarthaBeck.md) — Author and coach presenting integrity, perfect-day imagination, compassionate witnessing, and relationship-boundary practices.
 - [Declaration of the Rights of Man and of the Citizen](entities/DeclarationOfRightsOfManAndCitizen.md) — August 1789 statement joining universal natural rights to national sovereignty while leaving major citizenship boundaries unresolved.
 - [Great Fear of 1789](entities/GreatFear1789.md) — Rural panic and revolt joining deprivation, feudal records, conspiracy rumor, and the Assembly's abolition response.
@@ -2838,7 +2844,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cordeliers Club](entities/CordeliersClub.md) — Radical club that helped turn Varennes into a mass republican petition campaign.
 - [Feuillant Club](entities/FeuillantClub.md) — Constitutional-monarchist faction formed during the July 1791 Jacobin split.
 - [Flight to Varennes](entities/FlightToVarennes.md) — Failed royal escape that exposed rejection of the Revolution and destroyed trust in the crown.
-- [Jean Sylvain Bailly](entities/JeanSylvainBailly.md) — Paris mayor who declared martial law during the Champ de Mars confrontation.
+- [Jean Sylvain Bailly](entities/JeanSylvainBailly.md) — First mayor of revolutionary Paris whose civic authority later declared martial law at the Champ de Mars.
 - [Ari Wallach](entities/AriWallach.md) — Futurist and educator presenting Long Path as transgenerational empathy, plural futures thinking, and telos.
 - [翁一鸣 / Weng Yiming](entities/WengYiming.md) — Source-scoped reproductive-medicine guest explaining prolonged sitting through interacting heat, pressure, stress, work habits, cycling, and position-change boundaries.
 - [莲莲 / Lianlian (Urology)](entities/LianlianUrology.md) — Source-scoped urology guest separating sitting from direct infection causation and emphasizing hygiene, breathable clothing, timely urination, and hydration context.
@@ -13379,6 +13385,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Bastille Revolutionary Mythmaking](concepts/BastilleRevolutionaryMythmaking.md) — Conversion of a practical prison seizure into a liberation memory through imagery, demolition, relics, tourism, and selective forgetting.
+- [Revolutionary Crowd Vengeance](concepts/RevolutionaryCrowdVengeance.md) — Extra-legal punishment using rumor, mutilation, decapitation, and bodily display as political theatre.
 - [Integrity as Inner Coherence](concepts/IntegrityAsInnerCoherence.md) — Life-alignment frame pairing bodily evidence, logical coherence, and gradual course correction.
 - [Perfect-Day Imagination Practice](concepts/PerfectDayImagination.md) — Sensory future-day exercise for surfacing values and generating testable life-direction hypotheses.
 - [Compassionate Witness Practice](concepts/CompassionateWitnessPractice.md) — Kind, accepting stance toward suffering and conflicting inner parts without suppression or total identification.
@@ -13394,7 +13402,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Reliability-Driven Infrastructure Ownership](concepts/ReliabilityDrivenInfrastructureOwnership.md) — Progressive internalization of critical layers when cumulative vendor downtime, cost, approvals, or fragmented control become material.
 - [Payment Risk Data Network](concepts/PaymentRiskDataNetwork.md) — Cross-merchant transaction intelligence used to detect payment anomalies and add risk services above commoditized processing.
 - [Constitutional Monarchy Veto Conflict](concepts/ConstitutionalMonarchyVetoConflict.md) — Conflict between monarchical checking power and the revolutionary claim that legislation expresses one national will.
-- [Revolutionary Hunger and Street Mobilization](concepts/RevolutionaryHungerStreetMobilization.md) — Process by which food scarcity, market networks, and causal rumor turn institutional conflict into direct action.
+- [Revolutionary Hunger and Street Mobilization](concepts/RevolutionaryHungerStreetMobilization.md) — Process by which scarcity, enemy claims, market networks, and armed crisis turn institutional conflict into direct action.
 - [Crowd Sovereignty and Representative Conflict](concepts/CrowdSovereigntyRepresentationConflict.md) — Rival claims by elected institutions and mobilized citizens to speak and act for the sovereign people.
 - [Revolutionary Rural Politicization](concepts/RevolutionaryRuralPoliticization.md) — Process by which clubs, elected offices, civic forces, and shared threats made national revolution locally actionable.
 - [Expectation-Matched Scientific Fraud](concepts/ExpectationMatchedScientificFraud.md) — Fabrication engineered to satisfy the theories, ambitions, and institutional desires of its intended validators.

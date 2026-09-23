@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10613
+wiki_total_pages: 10618
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "BernardHenriLevy"
     title: "Bernard-Henri Levy / 伯纳德-亨利·列维"
     url: "/wiki/entities/bernardhenrilevy/"
+  - key: "BernardReneDeLaunay"
+    title: "Bernard-Rene de Launay"
+    url: "/wiki/entities/bernardrenedelaunay/"
   - key: "BernardinoDeMendoza"
     title: "Bernardino de Mendoza"
     url: "/wiki/entities/bernardinodemendoza/"
