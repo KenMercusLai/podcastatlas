@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1183
+topic_total_pages: 1184
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3342,6 +3342,9 @@ topic_sources:
   - key: "fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd"
     title: "Fear-jerker: America's AI backlash"
     url: "/wiki/sources/fear-jerker-americas-ai-backlash-6a3cf783d760508ebaecd9fd/"
+  - key: "female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121"
+    title: "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims"
+    url: "/wiki/sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121/"
   - key: "tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio"
     title: "Founder Mode: Andy Lapsa, Founder & CEO, Stoke Space"
     url: "/wiki/sources/tsr-ycoffsite-andylapsa-v1-audio-tsr-ycoffsite-andylapsa-v1-audio/"

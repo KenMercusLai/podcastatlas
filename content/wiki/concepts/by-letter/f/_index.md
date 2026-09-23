@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8012
+wiki_total_pages: 8015
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "FemaleSubjectivityInClassicReading"
     title: "Female Subjectivity In Classic Reading / 经典阅读中的女性主体性"
     url: "/wiki/concepts/femalesubjectivityinclassicreading/"
+  - key: "FemaleTrainingFuelTiming"
+    title: "Female Training Fuel Timing"
+    url: "/wiki/concepts/femaletrainingfueltiming/"
   - key: "FemaleUrologicalHealthMisconceptions"
     title: "Female Urological Health Misconceptions / 女性泌尿健康误区"
     url: "/wiki/concepts/femaleurologicalhealthmisconceptions/"

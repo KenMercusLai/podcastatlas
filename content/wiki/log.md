@@ -22024,3 +22024,11 @@ Added source `vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims
+
+Added source `female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121`; created `StacySims`, `FemaleTrainingFuelTiming`, `MenstrualCycleTrainingIndividualization`, and `MidlifeFemaleStrengthPowerTraining`; updated `FemaleHormoneHealthPhenotyping`, `FertilityEnergyAvailability`, and the index. Core synthesis: female training decisions should join life stage, energy availability, recovery, personal cycle patterns, and intended adaptation rather than assume male-derived protocols, fasted substrate use, calendar-only cycle rules, or exhausting moderate work transfer universally. No settled contradiction found; exact protein, ferritin, supplement, temperature, cycle, diagnostic, heat, cold, pregnancy, and performance-stack claims remain source-scoped public education and may require qualified clinical review. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

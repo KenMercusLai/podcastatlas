@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10653
+wiki_total_pages: 10654
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "StacySchiff"
     title: "Stacy Schiff / 斯泰西·西夫"
     url: "/wiki/entities/stacyschiff/"
+  - key: "StacySims"
+    title: "Stacy Sims"
+    url: "/wiki/entities/stacysims/"
   - key: "Stammy"
     title: "Stammy"
     url: "/wiki/entities/stammy/"

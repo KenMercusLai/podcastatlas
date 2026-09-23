@@ -2770,6 +2770,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The beauty industry is betting big on AI](sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128.md) — Marketplace Tech episode on conversational beauty advice, virtual try-ons, generative-engine optimization, medical and biometric risk, and consumer reluctance to delegate checkout.
 - [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 - [VOL.125糟了！你也脑子不好？记性差？这是痴呆前兆吗？先来看5大认知域3个阶段｜神经内科](sources/vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx.md) — 这病说来话长 episode on five cognitive domains, subjective decline, mild cognitive impairment, dementia-level functional loss, and non-alarmist interpretation of younger-adult forgetfulness.
+- [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
 
 ## Entities
 - [Nicholas II](entities/NicholasII.md) — Russian tsar whose hesitation and eventual approval of general mobilisation marked a decisive July Crisis threshold.
@@ -13434,6 +13435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 - [Paula Mejia](entities/PaulaMejia.md) — Writer linking luxury digital-detox services and a short personal phone-use experiment to broader cultural and workplace expectations.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
+- [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 
 ## Concepts
 - [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which mobilisation, perceived obligation, strategic fear, miscommunication, and political choice opened general European war.
@@ -21458,5 +21460,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ecosystem Expansion Leverage / 生态扩张杠杆](concepts/EcosystemExpansionLeverage.md) — Pattern where simultaneous cross-business expansion relies on future synergy and shared financing until a confidence break reverses network effects into balance-sheet contagion.
 - [TCM Summer Pattern Differentiation / 中医夏季寒湿湿热辨别](concepts/TCMSummerPatternDifferentiation.md) — Source-scoped framework separating individualized, non-extreme summer self-care from unvalidated cold-damp, damp-heat, remedy, and heat-illness claims.
 - [Cognitive Impairment Staging / 认知障碍分期](concepts/CognitiveImpairmentStaging.md) — Clinical distinction among subjective decline, mild cognitive impairment, and dementia using five cognitive domains, objective assessment, and daily function.
+- [Female Training Fuel Timing](concepts/FemaleTrainingFuelTiming.md) — Framework aligning food availability with training quality and recovery rather than treating fasted substrate use as proof of long-term fat loss.
+- [Menstrual-Cycle Training Individualization](concepts/MenstrualCycleTrainingIndividualization.md) — Personal-pattern approach to cycle, symptom, contraception, fueling, sleep, and readiness data without rigid phase rules.
+- [Midlife Female Strength and Power Training](concepts/MidlifeFemaleStrengthPowerTraining.md) — Progressive resistance, power, impact, and recovery strategy for muscle, bone, metabolic health, and later-life independence.
 
 ## Syntheses

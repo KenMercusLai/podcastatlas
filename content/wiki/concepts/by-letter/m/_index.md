@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8012
+wiki_total_pages: 8015
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "MenstrualStigma"
     title: "Menstrual Stigma"
     url: "/wiki/concepts/menstrualstigma/"
+  - key: "MenstrualCycleTrainingIndividualization"
+    title: "Menstrual-Cycle Training Individualization"
+    url: "/wiki/concepts/menstrualcycletrainingindividualization/"
   - key: "MentalAccounting"
     title: "Mental Accounting / 心理账户"
     url: "/wiki/concepts/mentalaccounting/"
@@ -653,6 +656,9 @@ wiki_pages:
   - key: "MidlifeBodyAlarmAdjustment"
     title: "Midlife Body Alarm Adjustment / 中年身体报警调整"
     url: "/wiki/concepts/midlifebodyalarmadjustment/"
+  - key: "MidlifeFemaleStrengthPowerTraining"
+    title: "Midlife Female Strength and Power Training"
+    url: "/wiki/concepts/midlifefemalestrengthpowertraining/"
   - key: "MidlifeThreeAccounts"
     title: "Midlife Three Accounts"
     url: "/wiki/concepts/midlifethreeaccounts/"
