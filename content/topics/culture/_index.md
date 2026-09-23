@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2793
+topic_total_pages: 2795
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -157,6 +157,9 @@ topic_concepts:
   - key: "AIPersonaLabeling"
     title: "AI Persona Labeling"
     url: "/wiki/concepts/aipersonalabeling/"
+  - key: "AIProblemDefinitionResponsibility"
+    title: "AI Problem Definition and Responsibility / AI问题定义与责任"
+    url: "/wiki/concepts/aiproblemdefinitionresponsibility/"
   - key: "AIProgrammingEngineShift"
     title: "AI Programming Engine Shift"
     url: "/wiki/concepts/aiprogrammingengineshift/"
@@ -7719,6 +7722,9 @@ topic_sources:
   - key: "27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829"
     title: "27.希区柯克已在您桌下安置炸弹"
     url: "/wiki/sources/27-xiqukeke-yizai-nin-zhuoxia-anzhi-zhadan-582370829/"
+  - key: "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t"
+    title: "276.当AI给出所有答案，年轻人如何找到自己的问题？"
+    url: "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
   - key: "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930"
     title: "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话"
     url: "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"

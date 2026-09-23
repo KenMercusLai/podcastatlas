@@ -21826,3 +21826,10 @@ Added source `tools-for-nutrition-fitness-dr-layne-norton-scim5519161031`; creat
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-23] ingest | 276.当AI给出所有答案，年轻人如何找到自己的问题？
+
+Added source `276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t`; created `AIProblemDefinitionResponsibility`; updated `AIHowHumanWhyBoundary`, `AIEraMajorChoice`, `Luanfanshu`, `LOreal`, and the index. Core synthesis: AI can compress research, drafting, coding, and feedback, but people still have to choose worthwhile problems, define standards from real context, verify and recommend rather than relay, preserve training-rich experience, build trust, and own the consequences of the result. No settled contradiction found; labor-market, education, program-effectiveness, and future-capability claims remain source-scoped, especially because the episode is linked to L'Oreal campus activities. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

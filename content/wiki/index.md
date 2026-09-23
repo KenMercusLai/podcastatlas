@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [276.当AI给出所有答案，年轻人如何找到自己的问题？](sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t.md) — 乱翻书 episode on AI fluency, problem definition, judgment, trust, apprenticeship, and responsibility in education and early careers.
 - [Tools for Nutrition & Fitness | Dr. Layne Norton](sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031.md) — Huberman Lab interview on evidence hierarchy, protein and meal timing, training to failure, aging, GLP-1 drugs, polarized food claims, and recovery priorities.
 - [VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节](sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz.md) — 这病说来话长 Physicians' Day roundtable on remembered patient stories, clinical outcome uncertainty, honest prognosis, trust, family communication, and long-term follow-up.
 - [484. The Food that Changed the World](sources/484-the-food-that-changed-the-world-glt2872429496.md) — The Rest Is History episode with John Dickie on Italian cuisine as an urban network, the documented histories of pasta and pizza, modern Mediterranean-diet framing, and politically or commercially productive food myths.
@@ -12407,7 +12408,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tim Cook](entities/TimCook.md) — Apple CEO framed through values institutionalization, privacy, accessibility, supply-chain responsibility, stakeholder capitalism, and geopolitical pragmatism.
 - [Steve Jobs](entities/SteveJobs.md) — Apple founder used as the product-revolution comparison frame for evaluating Tim Cook's different institutional legacy.
 - [Business Roundtable](entities/BusinessRoundtable.md) — CEO organization whose 2019 corporate-purpose statement anchors the episode's stakeholder-capitalism frame.
-- [乱翻书](entities/Luanfanshu.md) — Podcast/show context for ByteDance/TikTok product culture, Meitu/Sora/Adobe application-layer strategy, and Tim Cook's Apple values legacy.
+- [乱翻书](entities/Luanfanshu.md) — Podcast connecting product and platform mechanisms with AI work, creative media, public reasoning, and youth problem-definition and responsibility.
 - [庄明浩 / 庄明昊](entities/ZhuangMinghao.md) — Luanfanshu host framing application-layer strategy and AI short-drama platform shifts.
 - [罗玄 / Luo Xuan](entities/LuoXuan.md) — Luanfanshu guest discussing AI hardware, phones, agent context, foldables, and multi-agent workbench possibilities.
 - [魏熙](entities/WeiXi.md) — Technology writer and former advertising/product practitioner explaining Meitu's AI application strategy.
@@ -12973,7 +12974,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tarang Amin](entities/TarangAmin.md) — CEO brought into e.l.f. Cosmetics after TPG's majority investment and later public-company transition.
 - [Financo](entities/Financo.md) — Investment bank connected to the sale process that led to TSG Consumer Partners' minority investment in e.l.f.
 - [Vannette Ho](entities/VannetteHo.md) — Financo investment banker who initiated the e.l.f. sale process with Joey Shamah.
-- [L'Oreal](entities/LOreal.md) — Beauty group connected to hair-care category growth, refillable packaging strategy, and the earlier failed e.l.f. Cosmetics acquisition process.
+- [L'Oreal](entities/LOreal.md) — Beauty group connected to refillable packaging, hair-care renewal, mini products, strategic-buyer history, and campus-facing innovation programs.
 - [Revlon](entities/Revlon.md) — Incumbent beauty company referenced as both competitor context and an initial strategic-buyer approach.
 - [Urban Decay](entities/UrbanDecay.md) — Beauty brand whose L'Oreal acquisition is contrasted with the collapsed e.l.f. deal.
 - [Fit For Life](entities/FitForLife.md) — Joey Shamah's post-e.l.f. fitness-products licensing company.
@@ -13354,6 +13355,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [AI Problem Definition and Responsibility / AI问题定义与责任](concepts/AIProblemDefinitionResponsibility.md) — Framework for choosing worthwhile problems, defining criteria, checking AI-assisted work, and owning its consequences.
 - [Mechanism-to-Outcome Evidence Hierarchy](concepts/MechanismOutcomeEvidenceHierarchy.md) — Framework separating biological plausibility, anecdotes, observational findings, trials, meta-analyses, and measured human outcomes.
 - [Clinical Outcome Uncertainty / 临床结局不确定性](concepts/ClinicalOutcomeUncertainty.md) — Gap between technical intervention success and whole-patient survival, function, recovery, or discharge.
 - [Clinical Trust Building / 临床信任建立](concepts/ClinicalTrustBuilding.md) — Clinical trust made visible through explanation, responsibility, honest limits, encouragement, durable instructions, and continuity.
@@ -17276,7 +17278,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mainland Southeast Asia River-Valley State Formation / 中南半岛河谷国家形成](concepts/MainlandSoutheastAsiaRiverValleyStateFormation.md) — EP267 concept for mountains and north-south river valleys shaping ethnic, linguistic, and political zones.
 - [Angkor Hydraulic Empire / 吴哥水利帝国](concepts/AngkorHydraulicEmpire.md) — EP267 synthesis of Tonle Sap flood pulses, reservoirs, dry-season irrigation, rice surplus, labor, temples, and sacred kingship.
 - [Mekong Delta Colonial Canal Agriculture / 湄公河三角洲殖民沟渠农业](concepts/MekongDeltaColonialCanalAgriculture.md) — EP267 downstream water-engineering case where French colonial canals made rice abundance while increasing climate and saltwater-intrusion exposure.
-- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — EP266 and EP278 frame for choosing majors by foundations, real problem contact, AI collaboration, career cognition, person-fit, and transferable judgment rather than current heat.
+- [AI-Era Major Choice / AI时代专业选择](concepts/AIEraMajorChoice.md) — Choosing majors through foundations, real problem contact, AI collaboration, career cognition, person-fit, problem ownership, and transferable judgment rather than current heat.
 - [AI Hollowing Foundational Training / AI导致基础训练空心化](concepts/AIHollowingFoundationalTraining.md) — EP266 risk that students use AI to skip early practice needed for later system judgment.
 - [New Engineering Education / 新工科教育](concepts/NewEngineeringEducation.md) — EP266 engineering-education reform branch around real problems, system design, industry collaboration, and AI-era innovation.
 - [Medical AI Education / 医学AI教育](concepts/MedicalAIEducation.md) — EP266 medical-teaching branch where AI supports case reasoning, simulation, process assessment, and error correction while doctors retain responsibility.
@@ -20721,7 +20723,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Summit As Transformation](concepts/SummitAsTransformation.md) — Mountaineering and life-design frame where the summit gives direction but the real outcome is the person shaped by the whole climb.
 - [Adventure-Uncertainty Reframing](concepts/AdventureUncertaintyReframing.md) — Leadership and risk model that treats uncertainty as adventure-like unknown territory managed through attention, preparation, and adaptation.
 - [Expedition Team Trust](concepts/ExpeditionTeamTrust.md) — Team frame where high-stakes collaboration depends on generosity, communication, empathy, belonging, diversity, and rescue behavior.
-- [AI How, Human Why Boundary](concepts/AIHowHumanWhyBoundary.md) — AI-era purpose boundary where AI can support execution and data use while humans keep judgment, values, relationships, and the why.
+- [AI How, Human Why Boundary](concepts/AIHowHumanWhyBoundary.md) — AI-era boundary where tools support execution while people retain purpose, problem choice, criteria, relationships, and responsibility.
 - [Action Defines Identity](concepts/ActionDefinesIdentity.md) — Life-design claim that repeated choices under real conditions reveal identity more strongly than self-description.
 - [Representation Learning](concepts/RepresentationLearning.md) — Learning useful abstractions from data, treated by Xie Saining as the trunk connecting vision, self-supervision, diffusion, multimodal AI, and world models.
 - [Self-Supervised Learning](concepts/SelfSupervisedLearning.md) — Representation-learning route that derives targets from data, reduces direct annotation, and remains qualified as an incomplete route to common sense.

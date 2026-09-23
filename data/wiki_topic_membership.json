@@ -1439,6 +1439,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": [
     {
       "key": "culture",
@@ -5376,6 +5388,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AIProblemDefinitionResponsibility": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "AIProductDevelopmentAcceleration": [

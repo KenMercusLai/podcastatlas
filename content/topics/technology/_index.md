@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3119
+topic_total_pages: 3121
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -763,6 +763,9 @@ topic_concepts:
   - key: "AIPrivateMarketConcentration"
     title: "AI Private-Market Concentration"
     url: "/wiki/concepts/aiprivatemarketconcentration/"
+  - key: "AIProblemDefinitionResponsibility"
+    title: "AI Problem Definition and Responsibility / AI问题定义与责任"
+    url: "/wiki/concepts/aiproblemdefinitionresponsibility/"
   - key: "AIProductDevelopmentAcceleration"
     title: "AI Product Development Acceleration"
     url: "/wiki/concepts/aiproductdevelopmentacceleration/"
@@ -8121,6 +8124,9 @@ topic_sources:
   - key: "275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd"
     title: "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse"
     url: "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+  - key: "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t"
+    title: "276.当AI给出所有答案，年轻人如何找到自己的问题？"
+    url: "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
   - key: "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128"
     title: "34 days without internet in Iran"
     url: "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"

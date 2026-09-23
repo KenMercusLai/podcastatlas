@@ -2120,9 +2120,9 @@
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
     "AIEraMajorChoice": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP266 当AI重构大学，我们该如何定义“好专业”？ [llbzCGsEFktCvkq__f37Hoan79dd].md",
@@ -2137,9 +2137,16 @@
           "show": "Talk三联",
           "title": "EP278 AI时代不卷专业，卷什么？丨“人在中流”特别策划02",
           "url": "/wiki/sources/ep278-ai-shidai-bu-juan-zhuanye-juan-shenme-renzai-zhongliu-tebie-cehua-02-lhvsbropwclouwshe-2-fczwnwzz/"
+        },
+        {
+          "episode_file": "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
+          "key": "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t",
+          "show": "乱翻书",
+          "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
+          "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/aieramajorchoice/"
     },
     "AIExpressionBaseline": {
@@ -2396,9 +2403,9 @@
       "url": "/wiki/concepts/aihomeworktransfergap/"
     },
     "AIHowHumanWhyBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757 [default.mp3_ywr3ahjkcgo_842831df1049b1024b0dfd8bf11ec723_108598757].md",
@@ -2406,9 +2413,16 @@
           "show": "Tomorrow, Today",
           "title": "The Mountains Choose You: Araceli Segarra on Adventure & Resilience | Shekhar Natarajan",
           "url": "/wiki/sources/default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757-default-mp3-ywr3ahjkcgo-842831df1049b1024b0dfd8bf11ec723-108598757/"
+        },
+        {
+          "episode_file": "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
+          "key": "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t",
+          "show": "乱翻书",
+          "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
+          "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/aihowhumanwhyboundary/"
     },
     "AIIPOValuation": {
@@ -3239,6 +3253,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/aiprivatemarketconcentration/"
+    },
+    "AIProblemDefinitionResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
+          "key": "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t",
+          "show": "乱翻书",
+          "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
+          "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/aiproblemdefinitionresponsibility/"
     },
     "AIProductivityMarginExpansion": {
       "episode_count": 1,
@@ -72138,9 +72168,9 @@
       "url": "/wiki/entities/lmstudio/"
     },
     "LOreal": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "绿点小样 ｜ 要推广替换芯，得把美妆重做一遍 [1006757937].md",
@@ -72169,9 +72199,16 @@
           "show": "声动早咖啡",
           "title": "美妆小样变身独立商品，品牌为何都在纷纷布局迷你产品？",
           "url": "/wiki/sources/meizhuang-xiaoyang-bianshen-duli-shangpin-pinpai-weihe-dou-zai-fenfen-buju-mini-chanpin-1011859226/"
+        },
+        {
+          "episode_file": "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
+          "key": "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t",
+          "show": "乱翻书",
+          "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
+          "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/loreal/"
     },
     "LPDDR6": {
@@ -81674,6 +81711,99 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/luzhilatehan/"
+    },
+    "Luanfanshu": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
+          "key": "271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un",
+          "show": "乱翻书",
+          "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+          "url": "/wiki/sources/271-tangchao-douyao-bucunzai-le-weishenme-weishilun-hui-zai-jinnian-da-baofa-lg7-wdrdw1b9h7lwa4vwkvmyb4un/"
+        },
+        {
+          "episode_file": "270.大厂押注AI办公，飞书和钉钉却先成了配角 [lmb4DgcgOv3mR4CN7ciKBgHpfrO4].md",
+          "key": "270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4",
+          "show": "乱翻书",
+          "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+          "url": "/wiki/sources/270-da-chang-yazhu-ai-bangong-feishu-he-dingding-que-xian-chengle-peijue-lmb4dgcgov3mr4cn7cikbghpfro4/"
+        },
+        {
+          "episode_file": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集 [ludFlvAw7lId_tCi9GaGBbXOBVtz].md",
+          "key": "musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz",
+          "show": "乱翻书",
+          "title": "Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集",
+          "url": "/wiki/sources/musical-ly-ruhe-chengwei-tiktok-pm-yanzhong-de-zijie-chanpin-wenhua-he-quanqiuhua-zhilu-zijie-tiaodong-di-5-ji-ludflvaw7lid-tci9gagbbxobvtz/"
+        },
+        {
+          "episode_file": "263.Sora死了，Adobe跌了，美图何去何从？ [lgjMYveOoC8WPzR0YvigGVZvdYfS].md",
+          "key": "263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs",
+          "show": "乱翻书",
+          "title": "263.Sora死了，Adobe跌了，美图何去何从？",
+          "url": "/wiki/sources/263-sora-si-le-adobe-die-le-meitu-he-qu-he-cong-lgjmyveooc8wpzr0yviggvzvdyfs/"
+        },
+        {
+          "episode_file": "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？ [lg3T77R6ajM31WcSdV1zE6C8hHj0].md",
+          "key": "264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0",
+          "show": "乱翻书",
+          "title": "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？",
+          "url": "/wiki/sources/264-kuke-de-daode-maodian-guoqu-15-nian-kuke-gei-pingguo-liuxiale-shenme-lg3t77r6ajm31wcsdv1ze6c8hhj0/"
+        },
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集 [lvgLR_jWS7o7utJaUXnOQqaSJ91D].md",
+          "key": "touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d",
+          "show": "乱翻书",
+          "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
+          "url": "/wiki/sources/touteng-dazhan-ba-nian-hou-zai-ba-zijie-he-tengxun-zai-gege-zhanchang-shang-de-jingzheng-zhuyi-chaikai-zijie-tiaodong-di-6-ji-lvglr-jws7o7utjauxnoqqasj91d/"
+        },
+        {
+          "episode_file": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集 [lqSZvMuR6JV8b9XT8rJgmWFdQtEc].md",
+          "key": "quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec",
+          "show": "乱翻书",
+          "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
+          "url": "/wiki/sources/quanmian-yazhi-buliu-kongdang-zijie-tiaodong-ruhe-zuo-zengzhang-zijie-tiaodong-di-7-ji-lqszvmur6jv8b9xt8rjgmwfdqtec/"
+        },
+        {
+          "episode_file": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集 [lijPz1zGy9H2k4qd0C45ixweNU-0].md",
+          "key": "faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0",
+          "show": "乱翻书",
+          "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
+          "url": "/wiki/sources/faquan-liebian-jisuban-ruhe-yong-hongbao-sheji-zengzhang-zijie-tiaodong-di-8-ji-lijpz1zgy9h2k4qd0c45ixwenu-0/"
+        },
+        {
+          "episode_file": "268.AI时代，个人工作台会重新回到手机吗？ [lgPRs5jUHHrJyKBzASAqvdLZx8fs].md",
+          "key": "268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs",
+          "show": "乱翻书",
+          "title": "268. AI时代，个人工作台会重新回到手机吗？",
+          "url": "/wiki/sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs/"
+        },
+        {
+          "episode_file": "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md",
+          "key": "269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt",
+          "show": "乱翻书",
+          "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+          "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
+        },
+        {
+          "episode_file": "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
+          "key": "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t",
+          "show": "乱翻书",
+          "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
+          "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/luanfanshu/"
     },
     "LucasStartupEmbassyResident": {
       "episode_count": 1,

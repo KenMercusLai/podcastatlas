@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7967
+wiki_total_pages: 7968
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1190,6 +1190,9 @@ wiki_pages:
   - key: "AIPrivateMarketConcentration"
     title: "AI Private-Market Concentration"
     url: "/wiki/concepts/aiprivatemarketconcentration/"
+  - key: "AIProblemDefinitionResponsibility"
+    title: "AI Problem Definition and Responsibility / AI问题定义与责任"
+    url: "/wiki/concepts/aiproblemdefinitionresponsibility/"
   - key: "AIProductDevelopmentAcceleration"
     title: "AI Product Development Acceleration"
     url: "/wiki/concepts/aiproductdevelopmentacceleration/"
