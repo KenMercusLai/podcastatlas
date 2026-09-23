@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7944
+wiki_total_pages: 7947
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "VariableInterestEntity"
     title: "Variable Interest Entity / VIE 架构"
     url: "/wiki/concepts/variableinterestentity/"
+  - key: "VaricellaZosterLatencyReactivation"
+    title: "Varicella-Zoster Latency and Reactivation / 水痘-带状疱疹病毒潜伏与再激活"
+    url: "/wiki/concepts/varicellazosterlatencyreactivation/"
   - key: "VectorModelEngineering"
     title: "Vector Model Engineering"
     url: "/wiki/concepts/vectormodelengineering/"

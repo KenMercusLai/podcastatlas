@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7944
+wiki_total_pages: 7947
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "HeroicResistanceViolenceAmbiguity"
     title: "Heroic Resistance-Violence Ambiguity"
     url: "/wiki/concepts/heroicresistanceviolenceambiguity/"
+  - key: "HerpesZosterClinicalManagement"
+    title: "Herpes Zoster Clinical Management / 带状疱疹临床管理"
+    url: "/wiki/concepts/herpeszosterclinicalmanagement/"
   - key: "HesseYouthCultureMisreading"
     title: "Hesse Youth Culture Misreading / 黑塞青年文化误读"
     url: "/wiki/concepts/hesseyouthculturemisreading/"

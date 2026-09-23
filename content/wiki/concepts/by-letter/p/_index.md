@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7944
+wiki_total_pages: 7947
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "PostcardMediaDecline"
     title: "Postcard Media Decline"
     url: "/wiki/concepts/postcardmediadecline/"
+  - key: "PostherpeticNeuralgiaRiskAndPrevention"
+    title: "Postherpetic Neuralgia Risk and Prevention / 带状疱疹后神经痛风险与预防"
+    url: "/wiki/concepts/postherpeticneuralgiariskandprevention/"
   - key: "PosthumousNamePolitics"
     title: "Posthumous Name Politics / 谥号政治"
     url: "/wiki/concepts/posthumousnamepolitics/"

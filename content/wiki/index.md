@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.130带状疱疹为什么会被妖魔化、年轻化？中西医3科室一集讲懂](sources/vol-130-daizhuangpaozhen-weishenme-hui-bei-yaomohua-nianqinghua-zhongxiyi-3-keshi-yiji-jiangdong-ln1yrlokk9bledx-xl5fh_rv-cpi.md) — 这病说来话长 episode on varicella-zoster reactivation, shingles recognition, early treatment, vaccination boundaries, and postherpetic neuralgia.
 - [488. Hundred Years' War: The Road to Agincourt (Part 2)](sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983.md) — The Rest Is History episode on Harfleur's siege, Henry V's conquest discipline, disease, provisions, Somme crossings, French concentration, and the forced road to Agincourt.
 - [489. Hundred Years' War: Bloodbath at Agincourt (Part 3)](sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192.md) — The Rest Is History episode on Henry V's command, Agincourt's mud, woods, archers, stakes, French coordination failure, prisoner killing, disputed numbers, and Shakespearean memory.
 - [How to Cultivate a Positive, Growth-Oriented Mindset | Dr. Jamil Zaki](sources/how-to-cultivate-a-positive-growth-oriented-mindset-dr-jamil-zaki-scim9746981563.md) — Huberman Lab interview on cynicism, hopeful skepticism, trust reciprocity, social misprediction, media negativity, workplace cooperation, and perceived political polarization.
@@ -13322,6 +13323,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Varicella-Zoster Latency and Reactivation / 水痘-带状疱疹病毒潜伏与再激活](concepts/VaricellaZosterLatencyReactivation.md) — Mechanism connecting primary chickenpox infection, neural latency, later shingles, and transmission boundaries.
+- [Herpes Zoster Clinical Management / 带状疱疹临床管理](concepts/HerpesZosterClinicalManagement.md) — Recognition, antiviral treatment, pain control, vaccination, complication screening, and specialty routing for shingles.
+- [Postherpetic Neuralgia Risk and Prevention / 带状疱疹后神经痛风险与预防](concepts/PostherpeticNeuralgiaRiskAndPrevention.md) — Risk and care framework for persistent neuropathic pain after shingles.
 - [Campaign Logistics and Battlefield Selection](concepts/CampaignLogisticsBattlefieldSelection.md) — Process by which time, disease, provisions, crossings, routes, weather, and concentration shape where armies fight.
 - [Conquest Discipline as Legitimacy](concepts/ConquestDisciplineLegitimacy.md) — Use of anti-plunder rules to present invasion as rightful government, qualified by coercion and logistical tradeoffs.
 - [Terrain-Constrained Combined Arms](concepts/TerrainConstrainedCombinedArms.md) — Interaction model showing how terrain, weather, frontage, obstacles, troop roles, timing, and command structure determine whether a battle plan can function.

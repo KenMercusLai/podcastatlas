@@ -3430,7 +3430,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 53,
+      "source_note_count": 54,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3461,6 +3461,13 @@
           "episode_count": 19
         },
         {
+          "key": "YaMengDoctor",
+          "title": "亚萌 / Ya Meng",
+          "url": "/wiki/entities/yamengdoctor/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "ZihanDoctor",
           "title": "子涵医生 / Zihan Doctor",
           "url": "/wiki/entities/zihandoctor/",
@@ -3485,13 +3492,6 @@
           "key": "LuluPlasticSurgeon",
           "title": "Lulu (plastic-surgery doctor)",
           "url": "/wiki/entities/luluplasticsurgeon/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "YaMengDoctor",
-          "title": "亚萌 / Ya Meng",
-          "url": "/wiki/entities/yamengdoctor/",
           "kind": "person",
           "episode_count": 2
         },

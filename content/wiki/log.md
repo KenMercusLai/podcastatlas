@@ -21715,3 +21715,11 @@ Added source `488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983`;
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | VOL.130带状疱疹为什么会被妖魔化、年轻化？中西医3科室一集讲懂
+
+Added source `vol-130-daizhuangpaozhen-weishenme-hui-bei-yaomohua-nianqinghua-zhongxiyi-3-keshi-yiji-jiangdong-ln1yrlokk9bledx-xl5fh_rv-cpi`; created `VaricellaZosterLatencyReactivation`, `HerpesZosterClinicalManagement`, and `PostherpeticNeuralgiaRiskAndPrevention`; updated `YaMengDoctor` and the index. Core synthesis: shingles is reactivation of latent varicella-zoster virus and is usually recognized through unilateral neural-distribution rash and pain rather than the folk fear of a fatal rash circling the waist; prompt assessment, antivirals, pain control, vaccination counseling, and complication-aware follow-up form the practical pathway. No settled contradiction found; weather and seasonality, traditional-medicine mechanisms and interventions, dietary avoidance, exact dosing, vaccine protection duration, and post-illness timing remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
