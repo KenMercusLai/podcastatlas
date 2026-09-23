@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10582
+wiki_total_pages: 10585
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1031,6 +1031,9 @@ wiki_pages:
   - key: "SouthToNorthWaterTransferProject"
     title: "South-to-North Water Transfer Project / 南水北调"
     url: "/wiki/entities/southtonorthwatertransferproject/"
+  - key: "SouthamptonPlot"
+    title: "Southampton Plot"
+    url: "/wiki/entities/southamptonplot/"
   - key: "SouthernOcean"
     title: "Southern Ocean"
     url: "/wiki/entities/southernocean/"

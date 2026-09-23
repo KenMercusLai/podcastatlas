@@ -9526,9 +9526,9 @@
       "url": "/wiki/concepts/aristocraticspiritconsumptionboundary/"
     },
     "ArmagnacBurgundianCivilWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -9536,6 +9536,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -19721,9 +19728,9 @@
       "url": "/wiki/entities/charlesviioffrance/"
     },
     "CharlesVIOfFrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -19731,6 +19738,13 @@
           "show": "The Rest Is History",
           "title": "490. Hundred Years' War: England Triumphant (Part 4)",
           "url": "/wiki/sources/490-hundred-years-war-england-triumphant-part-4-glt2692942762/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -56632,9 +56646,9 @@
       "url": "/wiki/concepts/haremsuccessionriskcontrol/"
     },
     "Harfleur": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2110427983 [GLT2110427983].md",
@@ -56642,6 +56656,13 @@
           "show": "The Rest Is History",
           "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
           "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -57783,6 +57804,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/henryiofengland/"
     },
+    "HenryIVOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/henryivofengland/"
+    },
     "HenryMintzberg": {
       "episode_count": 1,
       "show_count": 1,
@@ -57839,9 +57876,9 @@
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryVOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -57863,15 +57900,22 @@
           "show": "The Rest Is History",
           "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
           "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/henryvofengland/"
     },
     "HenryVPlay": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
@@ -57886,6 +57930,13 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -62343,9 +62394,9 @@
       "url": "/wiki/concepts/hundredschoolssynthesis/"
     },
     "HundredYearsWar": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -62374,6 +62425,13 @@
           "show": "The Rest Is History",
           "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
           "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -68931,9 +68989,9 @@
       "url": "/wiki/entities/johnternus/"
     },
     "JohnTheFearless": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -68948,6 +69006,13 @@
           "show": "The Rest Is History",
           "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
           "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -72158,9 +72223,9 @@
       "url": "/wiki/entities/lambdalabs/"
     },
     "LancastrianLegitimacy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -72182,6 +72247,13 @@
           "show": "The Rest Is History",
           "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
           "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
+        },
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
         }
       ],
       "updated": "2026-09-23",
@@ -80286,6 +80358,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/louismoreaugottschalk/"
+    },
+    "LouisOfOrleans": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
       "episode_count": 5,
@@ -118138,6 +118226,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/southsudan/"
+    },
+    "SouthamptonPlot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7554933021 [GLT7554933021].md",
+          "key": "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021",
+          "show": "The Rest Is History",
+          "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+          "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/southamptonplot/"
     },
     "SouthernConservativeRealignmentSignal": {
       "episode_count": 1,

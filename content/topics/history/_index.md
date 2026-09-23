@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1949
+topic_total_pages: 1950
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021"
+    title: "487. Hundred Years' War: Henry V's Invasion of France (Part 1)"
+    url: "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
   - key: "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983"
     title: "488. Hundred Years' War: The Road to Agincourt (Part 2)"
     url: "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"

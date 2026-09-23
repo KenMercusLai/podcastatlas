@@ -1107,6 +1107,10 @@
     "title": "48.开市大吉：第一流的幽默讽刺",
     "url": "/wiki/sources/48-kaishi-daji-diyiliu-de-youmo-fengci-627375908/"
   },
+  "487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021": {
+    "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
+    "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+  },
   "488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983": {
     "title": "488. Hundred Years' War: The Road to Agincourt (Part 2)",
     "url": "/wiki/sources/488-hundred-years-war-the-road-to-agincourt-part-2-glt2110427983/"
@@ -29703,6 +29707,10 @@
     "title": "Henry I of England",
     "url": "/wiki/entities/henryiofengland/"
   },
+  "HenryIVOfEngland": {
+    "title": "Henry IV of England",
+    "url": "/wiki/entities/henryivofengland/"
+  },
   "HenryKeswick": {
     "title": "Henry Keswick / 亨利·凯瑟克",
     "url": "/wiki/entities/henrykeswick/"
@@ -40470,6 +40478,10 @@
   "LouisMoreauGottschalk": {
     "title": "Louis Moreau Gottschalk",
     "url": "/wiki/entities/louismoreaugottschalk/"
+  },
+  "LouisOfOrleans": {
+    "title": "Louis of Orléans",
+    "url": "/wiki/entities/louisoforleans/"
   },
   "LouisXVI": {
     "title": "Louis XVI",
@@ -60434,6 +60446,10 @@
   "SouthToNorthWaterTransferProject": {
     "title": "South-to-North Water Transfer Project / 南水北调",
     "url": "/wiki/entities/southtonorthwatertransferproject/"
+  },
+  "SouthamptonPlot": {
+    "title": "Southampton Plot",
+    "url": "/wiki/entities/southamptonplot/"
   },
   "SouthernConservativeRealignmentSignal": {
     "title": "Southern Conservative Realignment Signal",

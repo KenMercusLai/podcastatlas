@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [487. Hundred Years' War: Henry V's Invasion of France (Part 1)](sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021.md) — The Rest Is History episode on France's factional collapse, Henry V's dynastic diplomacy and war preparation, Harfleur, Lancastrian risk, and the Southampton Plot.
 - [EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意](sources/ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb.md) — 无时差研究所 episode with photographer 方舟 on story-led portrait production, participatory co-creation, client obligations, and creative-hobby commercialization.
 - [咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调](sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn.md) — 大小电波 interview on theme-led beverage design, multisensory experience, commercial feasibility, and team-supported competition performance.
 - [Optimal Protocols for Studying & Learning](sources/optimal-protocols-for-studying-learning-scim3722040660.md) — Huberman Lab solo episode on self-testing, early retrieval, misleading rereading confidence, learning-style evidence, neuroplasticity, sleep, focus, and study supports.
@@ -2736,6 +2737,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 
 ## Entities
+- [Henry IV of England](entities/HenryIVOfEngland.md) — Lancastrian king whose disputed accession and shifting French interventions shaped Henry V's inheritance.
+- [Louis of Orléans](entities/LouisOfOrleans.md) — French prince whose murder by John the Fearless helped turn court rivalry into civil war.
+- [Southampton Plot](entities/SouthamptonPlot.md) — Pre-invasion conspiracy exposing the domestic legitimacy risk surrounding Henry V's 1415 campaign.
 - [方舟 / Fangzhou (Photographer)](entities/FangzhouPhotographer.md) — Story-led portrait photographer combining research, direction, location production, contingency, client service, and self-directed creation.
 - [柳展鸿 Andy](entities/LiuZhanhong.md) — Chinese beverage-development consultant and world coffee-and-spirits champion using theme-led, multisensory design.
 - [World Coffee in Good Spirits Championship / 世界咖啡与烈酒大赛](entities/WorldCoffeeInGoodSpiritsChampionship.md) — Competition joining coffee, spirits, creative composition, execution, and live presentation.

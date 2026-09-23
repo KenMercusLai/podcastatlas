@@ -21747,3 +21747,11 @@ Added source `ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 487. Hundred Years' War: Henry V's Invasion of France (Part 1)
+
+Added source `487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021`; created `HenryIVOfEngland`, `LouisOfOrleans`, and `SouthamptonPlot`; updated `HenryVOfEngland`, `CharlesVIOfFrance`, `JohnTheFearless`, `Harfleur`, `HundredYearsWar`, `HenryVPlay`, `ArmagnacBurgundianCivilWar`, `LancastrianLegitimacy`, and the index. Core synthesis: Charles VI's incapacity and the Orléans-Burgundy feud fragmented France, while Henry V combined dynastic claims, maximalist diplomacy, parliamentary finance, religious conviction, archers, artillery, and shipping to turn that opening into the 1415 invasion; the Southampton Plot exposed the domestic cost of failure. No settled contradiction found; the tennis-balls story, reported royal behavior, motives, force and fleet totals, and artillery comparisons remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

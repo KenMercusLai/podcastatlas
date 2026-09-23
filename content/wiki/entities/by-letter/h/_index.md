@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10582
+wiki_total_pages: 10585
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "HenryIIIOfFrance"
     title: "Henry III of France"
     url: "/wiki/entities/henryiiioffrance/"
+  - key: "HenryIVOfEngland"
+    title: "Henry IV of England"
+    url: "/wiki/entities/henryivofengland/"
   - key: "HenryKeswick"
     title: "Henry Keswick / 亨利·凯瑟克"
     url: "/wiki/entities/henrykeswick/"
