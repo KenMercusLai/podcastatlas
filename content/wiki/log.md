@@ -21803,3 +21803,10 @@ Added source `485-henry-iv-the-usurper-king-part-1-glt8868267122`; created `Rich
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-23] ingest | 484. The Food that Changed the World
+
+Added source `484-the-food-that-changed-the-world-glt2872429496`; created `JohnDickie`, `ItalianCuisineUrbanFormation`, `CulinaryTraditionMythmaking`, and `MediterraneanDietModernConstruction`; updated `CarloCollodi`, `AlIdrisi`, `ItalianFascism`, and the index. Core synthesis: Italian cuisine is historically real but formed through interacting cities, trade, courts, mass provisioning, migration, industry, and marketing rather than an unchanged peasant inheritance; pasta, pizza, and the Mediterranean diet show how documented chronology and productive origin myth diverge. No settled contradiction found; the Palermo pasta chronology, trade-association origin of the Marco Polo story, pizza Margherita document assessment, nutrition and height claims, and consumption statistics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

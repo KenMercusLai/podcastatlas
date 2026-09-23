@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [484. The Food that Changed the World](sources/484-the-food-that-changed-the-world-glt2872429496.md) — The Rest Is History episode with John Dickie on Italian cuisine as an urban network, the documented histories of pasta and pizza, modern Mediterranean-diet framing, and politically or commercially productive food myths.
 - [485. Henry IV: The Usurper King (Part 1)](sources/485-henry-iv-the-usurper-king-part-1-glt8868267122.md) — The Rest Is History episode on Henry IV's chivalric reputation, Richard II's deposition and death, elective legitimacy, Glyndŵr's revolt, and the Percy break.
 - [How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani](sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738.md) — Huberman Lab interview on barrier-first skin care, UV protection, inflammatory skin disease, retinoids, lasers, surveillance, and multifactorial skin-cancer risk.
 - [一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？](sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937.md) — 声动早咖啡 episode on electric two-wheeler premiumization through practical smart features, design, youth marketing, offline service, and the margin pressure from standards, motorcycles, subsidies, and price wars.
@@ -2743,6 +2744,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [John Dickie](entities/JohnDickie.md) — Historian of Italy presenting Italian cuisine as a city-centered, exchange-driven tradition rather than an unchanged peasant inheritance.
 - [Richard II of England](entities/RichardIIOfEngland.md) — Deposed English king whose confiscation of the Lancastrian inheritance and death made Henry IV's legitimacy crisis durable.
 - [Teo Soleymani](entities/TeoSoleymani.md) — Dermatologist and dermatologic surgeon connecting simple barrier care, calibrated UV protection, active treatment, immune biology, and skin-cancer surveillance.
 - [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
@@ -13348,6 +13350,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Italian Cuisine as an Urban Network](concepts/ItalianCuisineUrbanFormation.md) — City-centered account of Italian cuisine formed through trade, courts, provisioning, poverty, reputation, and exchange.
+- [Culinary Tradition Mythmaking](concepts/CulinaryTraditionMythmaking.md) — Process by which clear origins and selective rural continuities make changing foods feel ancient, national, and authentic.
+- [Modern Construction of the Mediterranean Diet](concepts/MediterraneanDietModernConstruction.md) — Distinction between a modern health model and claims of unchanged historic Mediterranean peasant eating.
 - [Skin Barrier Routine](concepts/SkinBarrierRoutine.md) — Minimal daily-care framework for gentle cleansing, skin-type-matched moisturizing, irritant reduction, and condition-specific escalation.
 - [UV Exposure and Skin Protection](concepts/UVExposureSkinProtection.md) — Dose-sensitive framework joining burn avoidance, physical barriers, sunscreen, photoaging reduction, and multifactorial cancer risk.
 - [Dermatologic Renewal and Cancer Prevention](concepts/DermatologicRenewalAndCancerPrevention.md) — Clinical hierarchy joining prescription retinoids, resurfacing, surveillance, and bounded immune approaches.

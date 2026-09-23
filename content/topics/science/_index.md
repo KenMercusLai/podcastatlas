@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1174
+topic_total_pages: 1175
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1165,6 +1165,9 @@ topic_concepts:
   - key: "MobileCarbonCapture"
     title: "Mobile Carbon Capture"
     url: "/wiki/concepts/mobilecarboncapture/"
+  - key: "MediterraneanDietModernConstruction"
+    title: "Modern Construction of the Mediterranean Diet"
+    url: "/wiki/concepts/mediterraneandietmodernconstruction/"
   - key: "ModernJapaneseInteriorDiscovery"
     title: "Modern Japanese Interior Discovery"
     url: "/wiki/concepts/modernjapaneseinteriordiscovery/"

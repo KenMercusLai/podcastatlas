@@ -1705,6 +1705,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "484-the-food-that-changed-the-world-glt2872429496": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "485-henry-iv-the-usurper-king-part-1-glt8868267122": [
     {
       "key": "history",
@@ -38351,6 +38358,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ItalianCuisineUrbanFormation": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ItalianFascism": [
     {
       "key": "politics",
@@ -46765,6 +46779,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MediterraneanDietModernConstruction": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MegaCapConcentrationRisk": [

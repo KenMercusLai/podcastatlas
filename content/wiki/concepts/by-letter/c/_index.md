@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7961
+wiki_total_pages: 7964
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2204,6 +2204,9 @@ wiki_pages:
   - key: "CulinaryIdentityTransformation"
     title: "Culinary Identity Transformation"
     url: "/wiki/concepts/culinaryidentitytransformation/"
+  - key: "CulinaryTraditionMythmaking"
+    title: "Culinary Tradition Mythmaking"
+    url: "/wiki/concepts/culinarytraditionmythmaking/"
   - key: "CulturalBiasInTesting"
     title: "Cultural Bias In Testing / 测试中的文化偏差"
     url: "/wiki/concepts/culturalbiasintesting/"

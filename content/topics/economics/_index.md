@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2075
+topic_total_pages: 2076
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1699,6 +1699,9 @@ topic_concepts:
   - key: "IranSanctions"
     title: "Iran Sanctions"
     url: "/wiki/concepts/iransanctions/"
+  - key: "ItalianCuisineUrbanFormation"
+    title: "Italian Cuisine as an Urban Network"
+    url: "/wiki/concepts/italiancuisineurbanformation/"
   - key: "JapaneseEquityRepricing"
     title: "Japanese Equity Repricing / 日本股市再定价"
     url: "/wiki/concepts/japaneseequityrepricing/"
