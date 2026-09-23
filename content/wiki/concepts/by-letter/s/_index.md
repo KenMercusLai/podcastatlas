@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8008
+wiki_total_pages: 8009
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "ScamCompoundPoliticalProtection"
     title: "Scam Compound Political Protection"
     url: "/wiki/concepts/scamcompoundpoliticalprotection/"
+  - key: "ScandalPlausibilityLegitimacyDamage"
+    title: "Scandal Plausibility and Legitimacy Damage"
+    url: "/wiki/concepts/scandalplausibilitylegitimacydamage/"
   - key: "ScandinavianChristianKingship"
     title: "Scandinavian Christian Kingship"
     url: "/wiki/concepts/scandinavianchristiankingship/"

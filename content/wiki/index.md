@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [476. The French Revolution: The Diamond Necklace Scandal (Part 2)](sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350.md) — The Rest Is History episode on expectation-matched fraud, open-trial publicity, gendered slander, and pre-revolutionary damage to royal legitimacy.
 - [477. The French Revolution: The Violence Begins (Part 3)](sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991.md) — The Rest Is History episode on debt, tax privilege, failed reform, elite constitutional language, Grenoble's Day of the Tiles, Vizille, and the 1788 bankruptcy crisis.
 - [478. The French Revolution: Showdown in Versailles (Part 4)](sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126.md) — The Rest Is History episode on the 1788-1789 convergent crisis, Estates-General deadlock, National Assembly, Tennis Court Oath, royal retreat, and Necker's dismissal.
 - [AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More](sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235.md) — Huberman Lab subscriber AMA on layered skin care, cold-exposure safety, internal accountability, REM sleep, school learning design, shilajit evidence, writing, and addiction recovery.
@@ -2766,6 +2767,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 
 ## Entities
+- [Jeanne de la Motte](entities/JeanneDeLaMotte.md) — Principal confidence trickster in the Diamond Necklace Affair and later author of anti-queen slander.
+- [Cardinal de Rohan](entities/CardinalDeRohan.md) — Deceived intermediary whose desire for royal favor, arrest, and acquittal magnified the necklace scandal.
+- [Diamond Necklace Affair](entities/DiamondNecklaceAffair.md) — Fraud and public trial that damaged Bourbon legitimacy despite Marie Antoinette's innocence in the transaction.
 - [Charles Alexandre de Calonne](entities/CharlesAlexandreDeCalonne.md) — Finance minister whose tax reforms and public appeal turned insolvency into a national legitimacy conflict.
 - [Etienne Charles de Lomenie de Brienne](entities/EtienneCharlesDeLomenieDeBrienne.md) — Finance minister whose court reforms, provincial resistance, and bankruptcy announcement preceded the Estates-General.
 - [Jean-Joseph Mounier](entities/JeanJosephMounier.md) — Grenoble judge who converted the Day of the Tiles aftermath into the representative program of Vizille.
@@ -2936,7 +2940,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charles François Dumouriez](entities/CharlesFrancoisDumouriez.md) — French general whose Valmy position and Belgian victories connected defence to revolutionary expansion.
 - [Louis Antoine de Saint-Just](entities/LouisAntoineSaintJust.md) — Montagnard deputy who argued that kingship itself made Louis XVI incompatible with the Republic.
 - [Montagnards / The Mountain](entities/Montagnards.md) — Paris-centered radical camp opposed to the Girondins in the National Convention.
-- [Louis XVI](entities/LouisXVI.md) — Bourbon king whose wartime constitutional choices, suspension, trial, and execution became tests of monarchical and republican legitimacy.
+- [Louis XVI](entities/LouisXVI.md) — Bourbon king whose scandal-era reputational damage preceded constitutional collapse, suspension, trial, and execution.
 - [National Convention](entities/NationalConvention.md) — Republican assembly acting as legislature, court, and symbolic sovereign in the trial and execution of Louis XVI.
 - [李杰 / Li Jie (Respiratory Physician)](entities/LiJieRespiratoryDoctor.md) — Respiratory physician explaining obstructive sleep apnea, clinical testing, treatment selection, and home positive-airway-pressure use.
 - [Alfred the Great](entities/AlfredTheGreat.md) — West Saxon ruler whose defense, fortified towns, trade policy, and political identity underpin later English unification.
@@ -10043,7 +10047,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Dong Zhongshu / 董仲舒](entities/DongZhongshu.md) — Western Han thinker used by episode 126 to connect Confucianism, Heaven, omens, and sacred imperial politics.
 - [Jean-Paul Marat / 让-保罗·马拉](entities/JeanPaulMarat.md) — Revolutionary journalist and agitator whose murder, martyr image, scientific grievance, and September Massacres role frame episode 125.
 - [Charlotte Corday / 夏洛特·科黛](entities/CharlotteCorday.md) — Moderate republican and Marat's assassin, read by episode 125 as politically conscious rather than manipulated or royalist.
-- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining penal reform, public punishment, wartime monarchical collapse, republican founding, contested citizenship, regicide, and terror.
+- [French Revolution / 法国大革命](entities/FrenchRevolution.md) — Upheaval joining prior monarchical delegitimation, structural crisis, wartime collapse, republican founding, regicide, and terror.
 - [Joseph-Ignace Guillotin](entities/JosephIgnaceGuillotin.md) — Physician and abolition-minded reformer whose equal mechanical-execution proposal gave the guillotine his name.
 - [Charles-Henri Sanson](entities/CharlesHenriSanson.md) — Hereditary Paris executioner whose career and expertise bridged royal and revolutionary punishment.
 - [Robert-François Damiens](entities/RobertFrancoisDamiens.md) — Would-be regicide whose exceptionally cruel 1757 execution became a landmark in penal-reform history.
@@ -10059,7 +10063,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Antoine Lavoisier / 拉瓦锡](entities/AntoineLavoisier.md) — Scientist whose conflict with Marat anchors the episode's science-under-revolutionary-suspicion thread.
 - [September Massacres / 九月屠杀](entities/SeptemberMassacres.md) — 1792 prison killings that episode 125 treats as central to Corday's decision to kill Marat.
 - [Princesse de Lamballe](entities/PrincesseDeLamballe.md) — Royal attendant killed during the September Massacres whose death became the center of sexualized atrocity stories.
-- [Marie Antoinette](entities/MarieAntoinette.md) — French queen whose Austrian information-sharing deepened royal distrust before imprisonment and gendered revolutionary propaganda.
+- [Marie Antoinette](entities/MarieAntoinette.md) — French queen targeted by an innocent-but-damaging scandal before later royal duplicity and gendered revolutionary propaganda.
 - [François Jourgniac Saint-Méard](entities/FrancoisJourgniacSaintMeard.md) — Abbaye survivor whose account documents the massacres' selective, tribunal-like procedure.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
@@ -13417,6 +13421,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which expectation-matched false allegations can weaken an institution even after the underlying fraud is exposed.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
 - [Cold Exposure Dose and Safety](concepts/ColdExposureDoseAndSafety.md) — Minimum-effective-dose cold framework with explicit immersion, breathwork, hypothermia, and cardiovascular safety gates.

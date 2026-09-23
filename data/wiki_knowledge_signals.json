@@ -18952,6 +18952,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
     },
+    "CardinalDeRohan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/cardinalderohan/"
+    },
     "CardiovascularBrainHealthLink": {
       "episode_count": 2,
       "show_count": 2,
@@ -33133,6 +33149,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/diagnosticultrasoundmodalityselection/"
+    },
+    "DiamondNecklaceAffair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/diamondnecklaceaffair/"
     },
     "DiamondRomanceMarketingTrap": {
       "episode_count": 1,
@@ -48430,9 +48462,9 @@
       "url": "/wiki/entities/frenchnationalguard/"
     },
     "FrenchRevolution": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 2,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48552,6 +48584,13 @@
           "show": "The Rest Is History",
           "title": "477. The French Revolution: The Violence Begins (Part 3)",
           "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        },
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
         }
       ],
       "updated": "2026-09-24",
@@ -68828,6 +68867,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jeansylvainbailly/"
     },
+    "JeanneDeLaMotte": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/jeannedelamotte/"
+    },
     "JeffCavaliere": {
       "episode_count": 1,
       "show_count": 1,
@@ -82341,9 +82396,9 @@
       "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -82414,6 +82469,13 @@
           "show": "The Rest Is History",
           "title": "477. The French Revolution: The Violence Begins (Part 3)",
           "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        },
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
         }
       ],
       "updated": "2026-09-24",
@@ -86401,9 +86463,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -86446,9 +86508,16 @@
           "show": "The Rest Is History",
           "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
           "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        },
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/marieantoinette/"
     },
     "MarineLePen": {
@@ -114544,6 +114613,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
+    },
+    "ScandalPlausibilityLegitimacyDamage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9914208350 [GLT9914208350].md",
+          "key": "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350",
+          "show": "The Rest Is History",
+          "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
+          "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/scandalplausibilitylegitimacydamage/"
     },
     "ScandinavianChristianKingship": {
       "episode_count": 1,

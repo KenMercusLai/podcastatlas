@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10640
+wiki_total_pages: 10643
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -512,6 +512,9 @@ wiki_pages:
   - key: "DharmendraPradhan"
     title: "Dharmendra Pradhan"
     url: "/wiki/entities/dharmendrapradhan/"
+  - key: "DiamondNecklaceAffair"
+    title: "Diamond Necklace Affair"
+    url: "/wiki/entities/diamondnecklaceaffair/"
   - key: "DianeKPMGChiefEconomist"
     title: "Diane (KPMG Chief Economist)"
     url: "/wiki/entities/dianekpmgchiefeconomist/"

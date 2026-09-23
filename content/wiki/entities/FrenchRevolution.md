@@ -20,6 +20,7 @@ sources:
   - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
   - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
   - 477-the-french-revolution-the-violence-begins-part-3-glt6535380991
+  - 476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-24
 ---
@@ -28,15 +29,15 @@ last_updated: 2026-09-24
 
 ## Overview
 
-The French Revolution was the upheaval that overthrew Bourbon monarchy, created a republic under foreign-war pressure, executed [[LouisXVI|Louis XVI]], and developed forms of popular and institutional violence that culminated in the Reign of Terror.
+The French Revolution was the upheaval that grew from structural crisis and prior monarchical delegitimation, overthrew Bourbon monarchy, created a republic under foreign-war pressure, executed [[LouisXVI|Louis XVI]], and developed forms of popular and institutional violence that culminated in the Reign of Terror.
 
 ## Current Profile
 
-The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. Before 1789, war debt, tax privilege, restricted credit, failed ministerial reform, parlementary resistance, and provincial identity created a [[PrivilegeReformLegitimacyTrap|privilege-reform legitimacy trap]]. Elites and ministers publicized liberty, nation, citizens, consent, patriotism, and sacrifice for competing purposes; the [[DayOfTheTiles|Day of the Tiles]] and [[AssemblyOfVizille|Assembly of Vizille]] then carried those claims into crowd action and representative demands. Hail, drought, harvest failure, winter cold, bread inflation, rural insecurity, urban unemployment, effective bankruptcy, grievance politics, and unresolved representation completed a [[RevolutionaryCrisisConvergence|convergent crisis]]. Calling the [[EstatesGeneral1789|Estates-General]] raised expectations without settling voting rules. [[EmmanuelJosephSieyes|Sieyes]], the [[NationalAssembly1789|National Assembly]], and the [[TennisCourtOath|Tennis Court Oath]] shifted sovereignty away from corporate orders; royal retreat, [[JacquesNecker|Necker]]'s dismissal, hunger, Parisian mobilization, and military defection then broke royal control. The [[StormingOfTheBastille|Bastille's fall]] joined liberation to [[RevolutionaryCrowdVengeance|post-surrender vengeance]], while rights, Church rupture, popular action, war, massacre, abolition, and regicide repeatedly widened the gap between national sovereignty, institutional authority, citizenship, and coercive power.
+The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. Before the institutional crisis, the [[DiamondNecklaceAffair|Diamond Necklace Affair]] converted an exposed fraud into monarchical reputational damage: [[MarieAntoinette|Marie Antoinette]] was innocent of the purchase, but theatrical deception, open adjudication, pamphlets, sexual slander, and anti-Austrian hostility made hostile stories about the crown feel plausible. War debt, tax privilege, restricted credit, failed ministerial reform, parlementary resistance, and provincial identity then created a [[PrivilegeReformLegitimacyTrap|privilege-reform legitimacy trap]]. Elites and ministers publicized liberty, nation, citizens, consent, patriotism, and sacrifice for competing purposes; the [[DayOfTheTiles|Day of the Tiles]] and [[AssemblyOfVizille|Assembly of Vizille]] carried those claims into crowd action and representative demands. Hail, drought, harvest failure, winter cold, bread inflation, rural insecurity, urban unemployment, effective bankruptcy, grievance politics, and unresolved representation completed a [[RevolutionaryCrisisConvergence|convergent crisis]]. Calling the [[EstatesGeneral1789|Estates-General]] raised expectations without settling voting rules. [[EmmanuelJosephSieyes|Sieyes]], the [[NationalAssembly1789|National Assembly]], and the [[TennisCourtOath|Tennis Court Oath]] shifted sovereignty away from corporate orders; royal retreat, [[JacquesNecker|Necker]]'s dismissal, hunger, Parisian mobilization, and military defection then broke royal control. The [[StormingOfTheBastille|Bastille's fall]] joined liberation to [[RevolutionaryCrowdVengeance|post-surrender vengeance]], while rights, Church rupture, popular action, war, massacre, abolition, and regicide repeatedly widened the gap between national sovereignty, institutional authority, citizenship, and coercive power.
 
 ## Key Characteristics
 
-- Structural crisis joined long debt, privilege-bound taxation, failed reform, provincial resistance, weather shock, scarcity, raised expectations, unresolved representation, troop fear, and collapsing monarchical legitimacy.
+- Monarchical legitimacy was already vulnerable to court scandal, gendered slander, xenophobia, public trials, and pamphlet circulation before debt, privilege, reform failure, provincial resistance, weather shock, scarcity, unresolved representation, and troop fear converged into revolutionary crisis.
 - The Estates-General's procedural deadlock became a sovereignty break when the Third Estate claimed to represent the nation and committed itself to constitution-making.
 - Universal rights and national sovereignty dismantled inherited privilege without resolving citizenship boundaries, while Church reform created a rival crisis of religious and political allegiance.
 - Clubs, municipalities, sections, civic arms, print culture, sans-culottes, and fédérés made revolutionary politics locally actionable and capable of armed pressure beyond one central command.
@@ -45,6 +46,10 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 - Abolition and Valmy created a Republic with military credibility before its mandate, institutions, and citizenship were settled.
 
 ## Evidence
+
+### Pre-revolutionary scandal and monarchical credibility
+
+- [[476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350]] links a fraud the queen did not join to public trial, pamphlet circulation, sexual and anti-Austrian slander, court faction, and damage to both royal reputations.
 
 ### Environmental crisis, Estates-General, and national sovereignty
 
@@ -121,14 +126,14 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 - The Bastille source follows a Schama-style violence-first interpretation; its continuity claim does not make later Terror inevitable or erase the event's anti-arbitrary-power meaning.
 - Bastille prisoner conditions, crowd and troop totals, first-fire responsibility, lynching details, reported dialogue, and later prison imagery remain source-scoped or contested.
 - Grenoble as the Revolution's beginning, deficit and debt figures, actors' private motives, and claims about the inherently totalitarian direction of pre-1789 rhetoric remain source-scoped interpretations.
+- The necklace affair supplied emotional imagery and reputational vulnerability but did not by itself cause the Revolution or replace fiscal, subsistence, social, and institutional explanations.
 
 ## What Changed
 
-- The chronology now begins with the 1786-1788 debt, tax-privilege, and ministerial reform conflict.
-- Grenoble and Vizille add a provincial threshold before the national events of 1789 without fixing one uncontested start date.
-- Revolutionary vocabulary now has an elite constitutional prehistory before its popular and egalitarian reuse.
-- Bankruptcy and the Estates-General promise connect fiscal failure directly to the later representation deadlock.
-- The multi-causal account still resists making fiscal, environmental, social, or intellectual pressure sufficient alone.
+- The chronology now includes the Diamond Necklace Affair as cultural and reputational prehistory before the 1786-1788 fiscal conflict.
+- The queen's innocence in the fraud is preserved while the scandal's political effect is integrated into monarchical delegitimation.
+- Public trials, lawyers' memoirs, pamphlets, gendered slander, and anti-Austrian hostility now form part of the Revolution's prehistory.
+- The multi-causal account still resists making scandal, fiscal pressure, environmental shock, social conflict, or intellectual change sufficient alone.
 
 ## Relationships
 
@@ -168,6 +173,8 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 - [[GuillotineReformSpectacleParadox]] - convergence of humanitarian penal reform, public theater, equality, and scalable execution.
 - [[CapitalPunishmentRetributionProblem]] - wider moral challenge to revolutionary and modern state execution.
 - [[RevolutionaryIdeologicalWar]] - universal liberty translated into armed expansion and contested liberation.
+- [[DiamondNecklaceAffair]] - scandal that made hostile images of the monarchy politically vivid before 1789.
+- [[ScandalPlausibilityLegitimacyDamage]] - mechanism separating an allegation's falsity from its capacity to weaken legitimacy.
 - [[FlightToVarennes]] - exposed royal rejection that made republicanism and wider suspicion newly credible.
 - [[ChampDeMarsMassacre]] - rupture in which revolutionary authority used armed force against revolutionary petitioners.
 - [[RevolutionaryRuralPoliticization]] - spread of local institutions and practices capable of overriding personal royal authority.

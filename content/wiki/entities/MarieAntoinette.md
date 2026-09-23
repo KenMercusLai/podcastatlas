@@ -9,31 +9,36 @@ sources:
   - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
   - 482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
+  - 476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-09-24
 ---
 
 # Marie Antoinette
 
 ## Overview
 
-Marie Antoinette was the French queen whose information-sharing with Austria deepened the monarchy's wartime legitimacy crisis and whose later imprisonment and relationship with [[PrincesseDeLamballe|the Princesse de Lamballe]] became targets of revolutionary propaganda.
+Marie Antoinette was the French queen whose innocence in the [[DiamondNecklaceAffair|Diamond Necklace Affair]] failed to prevent pre-revolutionary reputational damage, whose later information-sharing with Austria deepened the monarchy's wartime legitimacy crisis, and whose imprisonment and relationship with [[PrincesseDeLamballe|the Princesse de Lamballe]] became targets of revolutionary propaganda.
 
 ## Current Profile
 
-The sources present Marie Antoinette as both a participant in royal resistance and duplicity and an object of exaggerated, often gendered enemy-making. Before [[OctoberDays1789|the October Days]], hunger and court suspicion were personalized against her through vampire language and sexualized rumors about the Flanders Regiment banquet. The palace attack nearly reached her rooms, and the forced procession to Paris became a personal trauma as well as a constitutional break. Her treatment after the march and the later Saint-Cloud confrontation hardened her opposition to the Revolution. With [[AxelVonFersen|Axel von Fersen]], she helped prepare [[FlightToVarennes|the family escape]] and insisted that the children and household travel together, increasing its operational exposure. After Varennes, she secretly corresponded with [[AntoineBarnave|Antoine Barnave]] while telling Vienna that cooperation with his constitutional settlement was tactical and would later be reversed. Before war she hoped either French victory would restore royal credit or French defeat would enable Austrian rescue; once conflict approached, she communicated with the Austrian ambassador and transmitted French military plans. That conduct gave substance to suspicions of court betrayal without proving Brissot's wider Austrian-plot allegation.
+The sources present Marie Antoinette as both an object of fabricated, gendered enemy-making and, later, a participant in royal resistance and duplicity. In the [[DiamondNecklaceAffair|Diamond Necklace Affair]], she neither ordered nor received the necklace, yet the open trial and [[CardinalDeRohan|Rohan]]'s acquittal made secret extravagance appear plausible to audiences already primed by sexual and anti-Austrian rumor. Before [[OctoberDays1789|the October Days]], hunger and court suspicion were again personalized against her through vampire language and sexualized reports about the Flanders Regiment banquet. The palace attack nearly reached her rooms, and the forced procession to Paris became a personal trauma as well as a constitutional break. Her treatment after the march and the later Saint-Cloud confrontation hardened her opposition to the Revolution. With [[AxelVonFersen|Axel von Fersen]], she helped prepare [[FlightToVarennes|the family escape]] and insisted that the children and household travel together, increasing its operational exposure. After Varennes, she secretly corresponded with [[AntoineBarnave|Antoine Barnave]] while telling Vienna that cooperation with his constitutional settlement was tactical and would later be reversed. Before war she hoped either French victory would restore royal credit or French defeat would enable Austrian rescue; once conflict approached, she communicated with the Austrian ambassador and transmitted French military plans. That later conduct gave substance to suspicions of court betrayal without retroactively validating the necklace fraud or proving Brissot's wider Austrian-plot allegation.
 
 ## Key Characteristics
 
+- She was innocent in the necklace transaction, but its publicity fused extravagance, sexual slander, and Austrian foreignness into a durable attack on her character.
 - Gendered hunger rhetoric, threat inside her apartments, forced removal to Paris, and blocked travel to Saint-Cloud hardened her opposition before she helped plan a family escape larger than Fersen advised.
 - She treated cooperation with Barnave's 1791 settlement as a tactical step while appealing to Austria and anticipating a later reversal.
 - She treated both French victory and defeat as possible routes to restoration of monarchical power.
 - She rejected Lafayette's rescue logic because dependence on him could mean captivity and civil war.
 - She urged Louis toward visible resolve during the 10 August palace crisis.
-- She was imprisoned with the royal family in the Temple after the Tuileries insurrection.
-- Lamballe's loyalty exposed both women to danger, while revolutionary pamphlets sexualized their relationship.
+- She was imprisoned with the royal family after the Tuileries insurrection, while Lamballe's loyalty and later death fed further sexualized propaganda.
 
 ## Evidence
+
+### Pre-revolutionary scandal and image damage
+
+- [[476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350]] establishes that Marie Antoinette knew nothing of the necklace purchase while showing how the trial, acquittals, de la Motte's memoir, sexual slander, and anti-Austrian hostility damaged her reputation.
 
 ### Wartime duplicity and royal isolation
 
@@ -63,15 +68,14 @@ The sources present Marie Antoinette as both a participant in royal resistance a
 - The episode's reconstruction of her preferred war outcomes and private calculations remains source-scoped.
 - Violent and sexualized radical attacks on her cannot be treated as evidence for the political allegations they accompanied.
 - The source treats the pamphlet allegations as political pornography, not established evidence about the women's private relationship.
+- Her later Austrian communications do not retroactively validate the necklace fraud or de la Motte's sexual claims.
 - Sympathy for the danger she faced must not erase the hunger and political exclusion experienced by women in the crowd.
 
 ## What Changed
 
-- The profile now distinguishes the queen's real danger during the October Days from the misogynistic rumor used to cast her as the cause of hunger and counterrevolution.
-- The profile now locates Marie Antoinette's Austrian information-sharing in a prewar strategy that treated either victory or defeat as potentially useful to the crown.
-- Evidence-backed conduct remains separated from claims that she controlled one comprehensive Austrian conspiracy.
-- Her duplicity now begins with the post-Varennes constitutional negotiations rather than only with wartime intelligence-sharing.
-- The profile now includes her active role in planning the family escape and the practical cost of rejecting a smaller traveling party.
+- The profile now begins with her innocence in the Diamond Necklace Affair and the scandal's pre-revolutionary damage to her credibility.
+- It separates expectation-matched sexual and consumption rumors from later evidence-backed royal resistance and Austrian information-sharing.
+- It identifies public adjudication as an amplifier that did not restore trust even after the underlying fraud was exposed.
 
 ## Relationships
 
@@ -87,3 +91,6 @@ The sources present Marie Antoinette as both a participant in royal resistance a
 - [[AntoineBarnave]] - constitutional intermediary whose cooperation she privately described as temporary.
 - [[FlightToVarennes]] - failed royal escape that transformed suspicion of her into a regime crisis.
 - [[AxelVonFersen]] - friend and planner who helped organize her departure from Paris.
+- [[DiamondNecklaceAffair]] - fraud she did not join but whose public afterlife damaged her legitimacy.
+- [[JeanneDeLaMotte]] - fraudster and pamphleteer who appropriated her identity and attacked her reputation.
+- [[ScandalPlausibilityLegitimacyDamage]] - mechanism distinguishing her factual innocence from the scandal's political effect.

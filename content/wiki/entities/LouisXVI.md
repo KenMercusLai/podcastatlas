@@ -13,6 +13,7 @@ sources:
   - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
   - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
   - 477-the-french-revolution-the-violence-begins-part-3-glt6535380991
+  - 476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-24
 ---
@@ -21,23 +22,27 @@ last_updated: 2026-09-24
 
 ## Overview
 
-Louis XVI was the Bourbon king whose wartime constitutional choices accelerated the monarchy's collapse before his imprisonment, trial, and execution tested whether the new French Republic could coexist with a living former monarch.
+Louis XVI was the Bourbon king whose reputation was first seriously weakened by the public handling of the [[DiamondNecklaceAffair|Diamond Necklace Affair]], whose later constitutional and wartime choices accelerated the monarchy's collapse, and whose trial and execution tested whether the new French Republic could coexist with a living former monarch.
 
 ## Current Profile
 
-The sources present Louis as a mild, religious, reform-minded, and indecisive monarch who repeatedly offered partial accommodation without resolving the sovereignty conflict, then as prisoner, accused individual, and political symbol. His authority was less absolute in practice than its label suggested: taxation and edicts depended on privileged courts, offices, customs, and local institutions. He dismissed Turgot and [[CharlesAlexandreDeCalonne|Calonne]] under pressure, backed [[EtienneCharlesDeLomenieDeBrienne|Brienne]]'s coercive court reform, and finally promised the [[EstatesGeneral1789|Estates-General]] when credit collapsed. Calling it widened participation, but court hierarchy, the unresolved voting rule, his warning against innovation, and his rejection of the [[NationalAssembly1789|National Assembly]] left the crown without a credible constitutional settlement. Grief after his young son's death and divided advice form part of the explanation for delay, but the decisive political fact was his retreat: he did not disperse the deputies after the 23 June royal session and ordered the estates to unite on 27 June. His later dismissal of [[JacquesNecker|Necker]], post-Bastille accommodation, October Days, Church conflict, [[FlightToVarennes|Varennes]], foreign appeals, wartime vetoes, imprisonment, trial, execution, and rival martyr memory completed the collapse of constitutional trust.
+The sources present Louis as a mild, religious, reform-minded, and indecisive monarch who repeatedly offered partial accommodation without resolving the sovereignty conflict, then as prisoner, accused individual, and political symbol. Before the fiscal showdown, the [[DiamondNecklaceAffair|Diamond Necklace Affair]] made his public arrest of [[CardinalDeRohan|Rohan]] look despotic to hostile audiences and exposed him to sexualized claims of weakness as attacks on [[MarieAntoinette|Marie Antoinette]] spread to the crown. His authority was less absolute in practice than its label suggested: taxation and edicts depended on privileged courts, offices, customs, and local institutions. He dismissed Turgot and [[CharlesAlexandreDeCalonne|Calonne]] under pressure, backed [[EtienneCharlesDeLomenieDeBrienne|Brienne]]'s coercive court reform, and finally promised the [[EstatesGeneral1789|Estates-General]] when credit collapsed. Calling it widened participation, but court hierarchy, the unresolved voting rule, his warning against innovation, and his rejection of the [[NationalAssembly1789|National Assembly]] left the crown without a credible constitutional settlement. Grief after his young son's death and divided advice form part of the explanation for delay, but the decisive political fact was his retreat: he did not disperse the deputies after the 23 June royal session and ordered the estates to unite on 27 June. His later dismissal of [[JacquesNecker|Necker]], post-Bastille accommodation, October Days, Church conflict, [[FlightToVarennes|Varennes]], foreign appeals, wartime vetoes, imprisonment, trial, execution, and rival martyr memory completed the collapse of constitutional trust.
 
 ## Key Characteristics
 
-- Repeated dismissal or retreat under elite pressure weakened reform before bankruptcy forced him to call the Estates-General.
+- The necklace scandal made his use of arrest and the Bastille vulnerable to a despotism narrative before repeated reform retreats and bankruptcy forced him to call the Estates-General.
 - He rejected the National Assembly yet declined to enforce dispersal and then ordered the estates to unite, exposing the crown's loss of initiative.
 - Necker's dismissal accelerated the Paris crisis, while troop withdrawal and acceptance of the tricolour showed further tactical accommodation after coercive control failed.
 - Varennes, his declaration against the revolutionary settlement, and later foreign appeals made his constitutional professions less credible.
 - He remained personally composed during the 20 June invasion but could not recover political trust.
 - The 10 August insurrection forced him to seek Assembly protection and led to suspension and Temple imprisonment.
-- The legal debate moved from constitutional removal to natural-law punishment and claims that kingship itself made him an enemy.
+- Imprisonment shifted the legal debate from constitutional removal to natural-law punishment and claims that kingship itself made him an enemy.
 
 ## Evidence
+
+### Pre-revolutionary reputation damage
+
+- [[476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350]] connects Rohan's public arrest and Bastille imprisonment to attacks on Louis as despotic, weak, and sexually humiliated even though the queen had not joined the fraud.
 
 ### Constitutional crisis and suspension
 
@@ -82,14 +87,13 @@ The sources present Louis as a mild, religious, reform-minded, and indecisive mo
 - The episode's use of grief and habitual indecision is interpretive; personal loss cannot by itself explain institutional failure or establish Louis's private intentions.
 - His 23 June reform package was substantial in some respects, but it preserved estate distinctions and rejected the Assembly's sovereign claim.
 - Describing him as mild, depressed, eager to be loved, or unable to sustain confrontation is source interpretation rather than direct access to private motive.
+- Criticism of the scandal's public handling does not establish that Louis knew the arrest and open trial would produce their later political effects.
 
 ## What Changed
 
-- The profile now begins with the pre-1789 limits on royal authority and repeated failure to sustain reform.
-- Bankruptcy and the Estates-General promise now bridge ministerial crisis to the June sovereignty confrontation.
-- Louis's 23-27 June retreat now supplies the first clear loss of political initiative before the Bastille crisis.
-- Personal grief and indecision remain contextual explanations rather than substitutes for institutional analysis.
-- The longer arc still distinguishes character judgments and lawful powers from evidence that later made royal good faith implausible.
+- The profile now locates serious reputational damage in the Diamond Necklace Affair before the 1786-1789 fiscal and constitutional crisis.
+- It distinguishes the queen's innocence in the fraud from the political cost of Louis's public arrest and resort to Bastille confinement.
+- The longer arc still distinguishes pre-revolutionary image damage from later evidence that made royal constitutional good faith implausible.
 
 ## Relationships
 
@@ -114,3 +118,5 @@ The sources present Louis as a mild, religious, reform-minded, and indecisive mo
 - [[RevolutionaryRuralPoliticization]] - provincial political capacity his escape plan underestimated.
 - [[AntoineBarnave]] - constitutional monarchist who tried to preserve his crown after the flight.
 - [[PrivilegeReformLegitimacyTrap]] - fiscal and constitutional conflict that made reform politically self-undermining.
+- [[DiamondNecklaceAffair]] - pre-revolutionary scandal whose public handling exposed him to despotism and weakness narratives.
+- [[ScandalPlausibilityLegitimacyDamage]] - mechanism through which attacks on the queen widened into damage to the king and crown.
