@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时｜中国互联网故事 29
+
+Added source `no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096`; created `FaradayFuture` and `EcosystemExpansionLeverage`; migrated and updated `JiaYueting`, `LeEco`, and `LeSports`; and updated the index. Core synthesis: LeEco shipped meaningful video, television, smartphone, film, and sports products and anticipated several later business directions, but a plausible vertical-integration model became a finance-dependent seven-ecosystem expansion whose supplier credit, guarantees, related-company flows, pledges, and capital-intensive auto ambitions transmitted one liquidity break across the group. No settled contradiction found; exact sales, revenue, debt, financing, delivery, and valuation figures remain source-scoped because the corporate structure was complex and regulators later found historical disclosure unreliable. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | Access Your Best Self With Mind-Body Practices, Belief Testing & Imagination | Dr. Martha Beck
 
 Added source `access-your-best-self-with-mind-body-practices-belief-testing-imagination-dr-martha-beck-scim3796933031`; created `MarthaBeck`, `IntegrityAsInnerCoherence`, `PerfectDayImagination`, `CompassionateWitnessPractice`, and `SelfAbandonmentBoundary`; updated `BodyBasedSelfTrust`, `InternalFamilySystemsTherapy`, and index. Core synthesis: Beck defines integrity as reduced inner division, uses sensory imagination to surface life-direction hypotheses, approaches suffering and inner conflict through compassionate witnessing, and distinguishes love from responsibility for another person's happiness or surrender of one's own agency. No settled contradiction found; bodily signals remain evidence rather than verdicts, while illness interpretations, hemispheric-cultural claims, spiritual experiences, visualization mechanisms, and relationship generalizations remain personal or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21916,6 +21920,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | National front-runner: who can beat Le Pen?
 
 Added source `national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60`; created `RaphaelGlucksmann`, `BrunoRetailleau`, `ArgentinePolo`, `CentristFragmentationRunoffRisk`, `IdentityProxiedBorderEnforcement`, `BorderBufferZoneCivilianBurden`, and `ArgentinePoloCluster`; updated `MarineLePen`, `NationalRally`, `EdouardPhilippe`, `GabrielAttal`, `JeanLucMelenchon`, `TwoRoundPresidentialElection`, `India`, `Bangladesh`, `IndianMuslims`, `WestBengal`, `BharatiyaJanataParty`, `Argentina`, and the index. Core synthesis: Le Pen's durable lead is reinforced by opposition fragmentation; India-Bangladesh border enforcement can turn Bengali-Muslim identity into a proxy for foreignness while burdening Indian citizens inside the controlled zone; and Argentina's polo advantage is an ecosystem of horses, skills, breeding, cloning, infrastructure, administration, and foreign demand. No settled contradiction found; polling, candidate coordination, border counts, deportation and citizenship accounts, player rankings, cloning practices, and industry-resilience claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

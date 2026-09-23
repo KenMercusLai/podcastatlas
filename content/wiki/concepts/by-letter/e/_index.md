@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7994
+wiki_total_pages: 7995
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "EconomyClassSyndromeTravelThrombosis"
     title: "Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓"
     url: "/wiki/concepts/economyclasssyndrometravelthrombosis/"
+  - key: "EcosystemExpansionLeverage"
+    title: "Ecosystem Expansion Leverage / 生态扩张杠杆"
+    url: "/wiki/concepts/ecosystemexpansionleverage/"
   - key: "ECTBipolarDepressionBoundary"
     title: "ECT Bipolar Depression Boundary"
     url: "/wiki/concepts/ectbipolardepressionboundary/"

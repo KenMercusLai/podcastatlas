@@ -185,6 +185,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The End of the World Is AI? An Existential Threat](sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b.md) — The Intelligence on uncertain AI extinction risk, the OpenAI-Hugging Face incident, coordination and slowdown, the oral turn in politics, reading decline, and India's changing cheese market.
 - [尼泊爾特大洪災現場：一場沒有遺體的葬禮](sources/niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504.md) — 端聞 follow-up on Nepal's August 2026 flood, body-absent funerals, DNA identification, repeated displacement, cross-border warning failure, hydropower damage, and loss-and-damage finance.
 - [No.219 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战](sources/no-219-kuaidi-jianghu-sanshinian-tonglubang-taobao-pinduoduo-yu-jiage-zhan-1015471748.md) — 半拿铁 episode on the Tonglu express network, postal legalization, franchise incentives, ecommerce volume, infrastructure centralization, price wars, courier pay, consolidation, and anti-involution regulation.
+- [No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时｜中国互联网故事 29](sources/no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096.md) — 半拿铁 finale on Jia Yueting and LeEco's real video, television, smartphone, sports, and EV execution; seven-ecosystem overexpansion; cross-linked financing; collapse; and Faraday Future aftermath.
 - [特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年](sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4.md) — 忽左忽右访谈把1G至6G、工业5G、网络能耗、卫星互补、折叠屏与语音智能体放进通信、算力、能源和形态汇流的工业史框架。
 - [Insurers race to cover AI errors](sources/tech-20260917-0917-mp-tech-pod-128-tech-20260917-0917-mp-tech-pod-128.md) — Marketplace Tech on explicit AI liability coverage, agent testing tied to premiums, possible legacy-policy exclusions, and sparse loss data.
 - [《资治通鉴·汉纪》1084丨诸葛亮凭什么成为三国顶流？这招绝了！](sources/zizhi-tongjian-hanji-1084-zhugeliang-ping-shenme-chengwei-sanguo-dingliu-zhezhao-juele-lqfgxebdupqxezz0jewqn3iapqrd.md) — 庞德公、司马徽为诸葛亮与庞统提供名士背书，赵温征辟曹丕后被免，甘宁凭黄祖内部经验向孙权提出西进方案。
@@ -8520,7 +8521,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [William Durant / 威廉·杜兰特](entities/WilliamDurant.md) — GM founder used by episode 170 as the entrepreneur whose industrial insight did not protect him from speculative self-entrapment.
 - [Charles E. Mitchell / 查理·米切尔](entities/CharlesEMitchell.md) — National City Bank chairman used by episode 170 to show how institutional trust can distribute risky securities to households.
 - [Masayoshi Son / 孙正义](entities/MasayoshiSon.md) — SoftBank founder used by episode 170 as a contemporary Durant-style shadow around AI and OpenAI-scale conviction.
-- [Jia Yueting / 贾跃亭](entities/JiaYueting.md) — Chinese entrepreneur used by episode 170 as a Durant-style analogy for ecosystem ambition and financing loss of control.
+- [Jia Yueting / 贾跃亭](entities/JiaYueting.md) — LeEco founder whose profile combines real product foresight and execution with overexpansion, opaque financing, regulatory violations, and the continuing Faraday Future project.
+- [Faraday Future / 法拉第未来](entities/FaradayFuture.md) — Jia Yueting's U.S. EV company, where real engineering and FF 91 deliveries remain constrained by repeated financing and extremely small production scale.
 - [New York Stock Exchange / 纽约证券交易所](entities/NewYorkStockExchange.md) — Exchange institution whose pre-SEC self-regulatory credibility frames Richard Whitney's role.
 - [National City Bank / 国民城市银行](entities/NationalCityBank.md) — Charles E. Mitchell's bank, used by episode 170 as the historical trust-to-securities distribution case.
 - [Athene Holding / 雅典娜保险](entities/AtheneHolding.md) — Apollo-linked insurer used by episode 170 to explain annuity liabilities and private-credit risk transmission.
@@ -8551,7 +8553,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [中信出版社 / CITIC Press](entities/CITICPress.md) — Publisher context for 《资产配置行动指南》, including topic selection, title positioning, editorial revision, review, and copyediting in the source.
 - [John Kenneth Galbraith](entities/JohnKennethGalbraith.md) — Economist-author whose bezzle vocabulary is used by episode 157 to frame bull-market dream-wealth traps.
 - [The Great Crash 1929 / 《1929年大崩盘》](entities/TheGreatCrash1929.md) — Galbraith book referenced by episode 157 for the bezzle idea behind bull-market narrative caution.
-- [LeEco / 乐视](entities/LeEco.md) — Chinese internet-video and ecosystem-story company used by episode 157 as a bull-market narrative cautionary case.
+- [LeEco / 乐视](entities/LeEco.md) — Chinese video, hardware, sports, film, and EV ecosystem whose real innovation was overwhelmed by simultaneous expansion, cash demand, governance failures, and financial contagion.
 - [The Second Mountain / 第二座山](entities/TheSecondMountain.md) — Book used by episode 154 for the telos-crisis frame behind a successful but purpose-depleted finance career.
 - [严飞 / Yan Fei](entities/YanFei.md) — Professor whose autonomy vocabulary helps episode 154 name the loss of agency under phones, feeds, and AI answers.
 - [王婉 / Wang Wan](entities/WangWan.md) — Author of 《跑外卖：一个女骑手的世界》, used by episode 154 for a concrete image of stepping outside life's conveyor belt.
@@ -9325,7 +9327,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张斌 / Zhang Bin](entities/ZhangBinSportsMedia.md) — Sports media figure explaining platform and China-market implications of CCTV-FIFA rights negotiation in E237.
 - [力赞体育 / Lizan Sports](entities/LizanSports.md) — Sports-rights company context for Zhu Xiaodong in E237.
 - [懒熊体育 / LazyBear Sports](entities/LazyBearSports.md) — Sports-business outlet cited for the late-stage CCTV-FIFA negotiation and Lenovo coordination timeline.
-- [乐视体育 / LeSports](entities/LeSports.md) — China sports-streaming bubble case used to show how rights prices can exceed local monetization capacity.
+- [乐视体育 / LeSports](entities/LeSports.md) — Innovative Chinese sports-streaming business whose premium rights portfolio outran payment, advertising, conversion, and group-level financing capacity.
 - [PP体育 / PP Sports](entities/PPSports.md) — China sports-streaming rights case tied to high-priced Premier League rights and later market repricing.
 - [DAZN](entities/DAZN.md) — Sports-streaming comparison case for high-priced rights, long losses, and eventual recovery attempts.
 - [UFC](entities/UFC.md) — U.S. combat-sports rights case used as a top-rights inflation benchmark.
@@ -21397,5 +21399,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Curiosity-Driven Memory Encoding](concepts/CuriosityDrivenMemoryEncoding.md) — Appraisal-and-motivation frame in which curiosity may improve sought and incidental memory while fMRI activity remains distinct from direct dopamine measurement.
 - [Magnetic Resonance Safety and Appropriateness / 磁共振安全与适应证](concepts/MagneticResonanceSafetyAndAppropriateness.md) — MRI framework joining exact device and implant compatibility with pregnancy, pediatric sedation, clinical indication, scan scope, and local protocol.
 - [Clinical History Disclosure / 临床病史如实告知](concepts/ClinicalHistoryDisclosure.md) — Patient-safety practice linking truthful and collateral history to diagnostic speed, anesthesia decisions, confidentiality, and clinical trust.
+- [Ecosystem Expansion Leverage / 生态扩张杠杆](concepts/EcosystemExpansionLeverage.md) — Pattern where simultaneous cross-business expansion relies on future synergy and shared financing until a confidence break reverses network effects into balance-sheet contagion.
 
 ## Syntheses

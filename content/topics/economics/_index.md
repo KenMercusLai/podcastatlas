@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2080
+topic_total_pages: 2082
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -967,6 +967,9 @@ topic_concepts:
   - key: "EconomistTrustCrisis"
     title: "Economist Trust Crisis"
     url: "/wiki/concepts/economisttrustcrisis/"
+  - key: "EcosystemExpansionLeverage"
+    title: "Ecosystem Expansion Leverage / 生态扩张杠杆"
+    url: "/wiki/concepts/ecosystemexpansionleverage/"
   - key: "EducationSignalInflation"
     title: "Education Signal Inflation / 学历信号膨胀"
     url: "/wiki/concepts/educationsignalinflation/"
@@ -5946,6 +5949,9 @@ topic_sources:
   - key: "no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322"
     title: "No.209 晋商往事：走西口到乔家大院然后煤了"
     url: "/wiki/sources/no-209-jinshang-wangshi-zou-xikou-dao-qiaojia-dayuan-ranhou-mei-le-999367322/"
+  - key: "no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096"
+    title: "No.220 互联网系列大结局：贾公下周回国日，乐视宏图未倒时｜中国互联网故事 29"
+    url: "/wiki/sources/no-220-hulianwang-xilie-dajieju-jiagong-xiazhou-huiguori-leshi-hongtu-weidaoshi-zhongguo-hulianwang-gushi-29-1017666096/"
   - key: "no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht"
     title: "No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚"
     url: "/wiki/sources/no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2652
+topic_total_pages: 2653
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1072,6 +1072,9 @@ topic_concepts:
   - key: "EconomicSubstanceDoctrine"
     title: "Economic Substance Doctrine"
     url: "/wiki/concepts/economicsubstancedoctrine/"
+  - key: "EcosystemExpansionLeverage"
+    title: "Ecosystem Expansion Leverage / 生态扩张杠杆"
+    url: "/wiki/concepts/ecosystemexpansionleverage/"
   - key: "EducationAccountabilityProtest"
     title: "Education Accountability Protest"
     url: "/wiki/concepts/educationaccountabilityprotest/"

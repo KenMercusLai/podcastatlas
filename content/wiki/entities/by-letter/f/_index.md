@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10624
+wiki_total_pages: 10625
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "FantagraphicsBooks"
     title: "Fantagraphics Books"
     url: "/wiki/entities/fantagraphicsbooks/"
+  - key: "FaradayFuture"
+    title: "Faraday Future / 法拉第未来"
+    url: "/wiki/entities/faradayfuture/"
   - key: "FarahChia"
     title: "Farah Chia"
     url: "/wiki/entities/farahchia/"
