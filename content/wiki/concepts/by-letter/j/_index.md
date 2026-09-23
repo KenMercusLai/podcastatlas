@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 8009
+wiki_total_pages: 8010
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -215,6 +215,9 @@ wiki_pages:
   - key: "JuglarCycle"
     title: "Juglar Cycle / 朱格拉周期"
     url: "/wiki/concepts/juglarcycle/"
+  - key: "JulyCrisis"
+    title: "July Crisis"
+    url: "/wiki/concepts/julycrisis/"
   - key: "JungianArchetypalReading"
     title: "Jungian Archetypal Reading / 荣格式原型阅读"
     url: "/wiki/concepts/jungianarchetypalreading/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10649
+wiki_total_pages: 10651
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "HGWells"
     title: "H. G. Wells / H. G. 威尔斯"
     url: "/wiki/entities/hgwells/"
+  - key: "HHAsquith"
+    title: "H. H. Asquith"
+    url: "/wiki/entities/hhasquith/"
   - key: "HPLovecraft"
     title: "H. P. Lovecraft / 洛夫克拉夫特"
     url: "/wiki/entities/hplovecraft/"

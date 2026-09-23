@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1962
+topic_total_pages: 1964
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -592,6 +592,9 @@ topic_concepts:
   - key: "JudicialDuel"
     title: "Judicial Duel / 司法决斗"
     url: "/wiki/concepts/judicialduel/"
+  - key: "JulyCrisis"
+    title: "July Crisis"
+    url: "/wiki/concepts/julycrisis/"
   - key: "KinSacrificeReputationPerformance"
     title: "Kin Sacrifice Reputation Performance / 亲属牺牲式声望表演"
     url: "/wiki/concepts/kinsacrificereputationperformance/"
@@ -4569,6 +4572,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702"
+    title: "474. The Road to The Great War: The Lights Go Out (Part 6)"
+    url: "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
   - key: "475-the-french-revolution-marie-antoinette-part-1-glt3119389535"
     title: "475. The French Revolution: Marie Antoinette (Part 1)"
     url: "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"

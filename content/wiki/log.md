@@ -22000,3 +22000,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | 475. The French Revolution: Marie Antoinette (Part 1)
 
 Added source `475-the-french-revolution-marie-antoinette-part-1-glt3119389535`; created `MariaTheresa`, `LouisXV`, `Versailles`, `PetitTrianon`, and `RoseBertin`; updated `MarieAntoinette`, `LouisXVI`, `AxelVonFersen`, `FrenchRevolution`, `ScandalPlausibilityLegitimacyDamage`, and the index. Core synthesis: Marie Antoinette's Austrian identity, resistance to Versailles etiquette, private circle, sentimental retreat, and fashion leadership gave her visible agency but also made personal conduct politically legible; court factions converted that ambiguity into sexual, financial, and anti-Austrian rumor before the necklace scandal and revolutionary crisis. No settled contradiction found: early rumor does not establish the alleged affairs, "let them eat cake" is rejected, and later documented royal duplicity does not retroactively validate false pre-revolutionary claims. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] ingest | 474. The Road to The Great War: The Lights Go Out (Part 6)
+
+Added source `474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702`; created `EdwardGrey`, `HHAsquith`, and `JulyCrisis`; updated `FirstWorldWar`, `Belgium`, `KaiserWilhelmII`, and the index. Core synthesis: the final crisis joined conscious choice to perceived obligation, mobilisation rigidity, strategic fear, miscommunication, domestic politics, and fatalism; Belgium gave Britain the decisive legal-moral frame, but French naval expectations, Channel security, honour, and party arithmetic were already active. No settled contradiction found. The episode qualifies literal sleepwalking and uniform war-enthusiasm narratives without erasing uncertainty, patriotic mobilisation, or responsibility. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

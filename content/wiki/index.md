@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [474. The Road to The Great War: The Lights Go Out (Part 6)](sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702.md) — The Rest Is History episode on Russian mobilisation, German operational rigidity, Britain's divided cabinet, Belgian neutrality, and the emotional foreknowledge of European war.
 - [475. The French Revolution: Marie Antoinette (Part 1)](sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535.md) — The Rest Is History episode on Marie Antoinette's Austrian identity, Versailles role conflict, personal fashion, court rumor, and pre-revolutionary monarchical image damage.
 - [Supplements for Longevity & Their Efficacy | Dr. Peter Attia](sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668.md) — Huberman Lab conversation separating NAD, NR, NMN, sirtuin, and resveratrol mechanisms from meaningful healthspan or lifespan evidence.
 - [476. The French Revolution: The Diamond Necklace Scandal (Part 2)](sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350.md) — The Rest Is History episode on expectation-matched fraud, open-trial publicity, gendered slander, and pre-revolutionary damage to royal legitimacy.
@@ -2769,6 +2770,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 
 ## Entities
+- [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who joined French obligation, Channel strategy, Belgian independence, honour, and reputation into the case for intervention.
+- [H. H. Asquith](entities/HHAsquith.md) — British prime minister who managed a divided Liberal cabinet through the final decision for war.
 - [Maria Theresa](entities/MariaTheresa.md) — Habsburg ruler whose dynastic diplomacy made Marie Antoinette's French marriage politically consequential.
 - [Louis XV](entities/LouisXV.md) — Bourbon king whose late court framed Marie Antoinette's arrival and the young royal couple's accession.
 - [Versailles](entities/Versailles.md) — Royal palace and court system where hierarchy, surveillance, and factional gossip shaped monarchical image.
@@ -13429,6 +13432,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which mobilisation, perceived obligation, strategic fear, miscommunication, and political choice opened general European war.
 - [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors and expectation-matched false allegations can weaken an institution despite the target's factual innocence.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.

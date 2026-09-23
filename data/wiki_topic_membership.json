@@ -1710,6 +1710,18 @@
       "url": "/topics/science/"
     }
   ],
+  "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "475-the-french-revolution-marie-antoinette-part-1-glt3119389535": [
     {
       "key": "history",
@@ -24355,6 +24367,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EdwardGrey": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EdwardHeath": [
     {
       "key": "politics",
@@ -32903,6 +32922,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "HHAsquith": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HIPAAConstrainedMedicalAI": [
     {
       "key": "technology",
@@ -40546,6 +40572,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "JulyCrisis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "JunWangHou": [

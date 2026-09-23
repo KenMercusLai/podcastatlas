@@ -13518,9 +13518,9 @@
       "url": "/wiki/entities/belgiancongo/"
     },
     "Belgium": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "119.安乐死现场：正因生命如此珍贵 [770771087].md",
@@ -13535,9 +13535,16 @@
           "show": "The Rest Is History",
           "title": "674. The First World War: The Spy Who Took on the Germans (Part 4)",
           "url": "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"
+        },
+        {
+          "episode_file": "GLT2293540702 [GLT2293540702].md",
+          "key": "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702",
+          "show": "The Rest Is History",
+          "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
+          "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/belgium/"
     },
     "BenGoodwin": {
@@ -37400,6 +37407,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
+    "EdwardGrey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2293540702 [GLT2293540702].md",
+          "key": "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702",
+          "show": "The Rest Is History",
+          "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
+          "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/edwardgrey/"
+    },
     "EdwardHeath": {
       "episode_count": 3,
       "show_count": 1,
@@ -46155,9 +46178,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -46200,9 +46223,16 @@
           "show": "The Rest Is History",
           "title": "671. The First World War: Blood in the Trenches (Part 1)",
           "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        },
+        {
+          "episode_file": "GLT2293540702 [GLT2293540702].md",
+          "key": "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702",
+          "show": "The Rest Is History",
+          "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
+          "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/firstworldwar/"
     },
     "FirstWorldWarGasWarfare": {
@@ -55947,6 +55977,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/handhgroup/"
+    },
+    "HHAsquith": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2293540702 [GLT2293540702].md",
+          "key": "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702",
+          "show": "The Rest Is History",
+          "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
+          "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/hhasquith/"
     },
     "HRHaldeman": {
       "episode_count": 1,
@@ -71497,6 +71543,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/juliuskurfgen/"
     },
+    "JulyCrisis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2293540702 [GLT2293540702].md",
+          "key": "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702",
+          "show": "The Rest Is History",
+          "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
+          "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/julycrisis/"
+    },
     "JumiKingChengguoLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -71675,9 +71737,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -71692,9 +71754,16 @@
           "show": "The Rest Is History",
           "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
           "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        },
+        {
+          "episode_file": "GLT2293540702 [GLT2293540702].md",
+          "key": "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702",
+          "show": "The Rest Is History",
+          "title": "474. The Road to The Great War: The Lights Go Out (Part 6)",
+          "url": "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/kaiserwilhelmii/"
     },
     "KamakuraShogunateFormation": {

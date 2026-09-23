@@ -9,7 +9,8 @@ sources:
   - 673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949
   - 672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829
   - 671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565
-last_updated: 2026-09-12
+  - 474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702
+last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,26 +18,27 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-The First World War is the 1914-1918 conflict that the wiki currently enters through the [[WesternFrontFirstWorldWar|Western Front]], [[RMSLusitania|RMS Lusitania]], [[EdithCavell|Edith Cavell]]'s occupied-Belgium case, the [[GallipoliCampaign|Gallipoli campaign]], and [[Italy]]'s costly [[IsonzoFront|Isonzo front]].
+The First World War is the 1914-1918 conflict that the wiki currently enters through the final [[JulyCrisis|July Crisis]], the [[WesternFrontFirstWorldWar|Western Front]], [[RMSLusitania|RMS Lusitania]], [[EdithCavell|Edith Cavell]]'s occupied-Belgium case, the [[GallipoliCampaign|Gallipoli campaign]], and [[Italy]]'s costly [[IsonzoFront|Isonzo front]].
 
 ## Current Synthesis
 
-The wiki's current First World War page is still selective rather than general. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] adds the Western Front soldier-experience baseline: trench lines after mobile-war failure, defensive firepower, [[TrenchLifeWesternFront|trench life]], [[ShellShock|shell shock]], [[FirstWorldWarGasWarfare|gas warfare]], and [[BattleOfLoos|Loos]] as a failed gas-assisted offensive and family grief case. [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]] adds maritime economic war: German U-boats, Britain's import dependence, cruiser-rule breakdown, passenger-liner risk, neutral rights, and [[RMSLusitania|Lusitania]] as a propaganda and U.S.-intervention-memory case. [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]] adds the war behind the front line: occupied [[Belgium]], German reprisals and labor coercion, escape networks, military law, and the propaganda afterlife of a nurse's execution. [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]] adds the war's coalition and imperial opening: Ottoman alignment with Germany, Russian pressure after Sarikamish, British fear about imperial prestige, and a peripheral operation meant to avoid Western Front attrition. [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] then shows how that offensive problem traveled beyond the Western Front: trenches, machine guns, barbed wire, and defensive firepower defeated confidence in speed, dash, and breakthrough. [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] adds the Italian front, where [[ItalianIrredentism|irredentist]] territorial ambition, secret diplomacy, [[NationalistStreetMobilization|nationalist street pressure]], weak mobilization, [[LuigiCadorna|Cadorna]]'s frontal doctrine, and Isonzo terrain turned voluntary intervention into attrition.
+The wiki's current First World War page is still selective rather than general. [[474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702]] adds the final July 1914 decision chain: Russian mobilisation, German ultimatums and operational rigidity, Britain's informal obligation to France, cabinet division, Belgian neutrality, and the public moral narrative of British entry. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] then supplies the Western Front soldier-experience baseline: trench lines after mobile-war failure, defensive firepower, [[TrenchLifeWesternFront|trench life]], [[ShellShock|shell shock]], [[FirstWorldWarGasWarfare|gas warfare]], and [[BattleOfLoos|Loos]] as failed offensive and family grief. [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]] adds maritime economic war; [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]] adds occupation, resistance, military law, and propaganda; [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]] and [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] add the Ottoman, Dardanelles, coalition, and attritional branches; and [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] adds voluntary Italian intervention, nationalist pressure, and the Isonzo front.
 
 It also adds a political and memory layer. First World War campaigning, occupation, and maritime disaster reshape reputations and public symbols: Lusitania becomes a remembered case against German submarine warfare, Cavell becomes a martyr-propaganda figure, [[WinstonChurchill]] is damaged, [[MustafaKemalAtaturk|Mustafa Kemal / Ataturk]] rises, [[AnzacSpirit]] becomes a civic memory in Australia and New Zealand, and Italian losses plus postwar disappointment help feed the resentment field later used by [[ItalianFascism|Italian fascism]].
 
 ## Key Claims
 
 - The Western Front trench system made industrial war a daily environment of routine, social mixture, bodily degradation, artillery terror, gas fear, comradeship, and failed offensive breakthrough.
+- The final July Crisis joined conscious political choice to perceived obligation, miscommunication, mobilisation rigidity, strategic fear, and fatalism rather than simple ignorance of the approaching catastrophe.
 - Maritime economic warfare made civilian shipping, blockade logic, neutral rights, and propaganda part of the war's strategic field.
 - Occupation and resistance made non-frontline civilian and medical spaces part of the war's moral and legal battlefield.
 - Ottoman entry and Russia's Caucasus crisis helped make the Dardanelles look strategically useful to Allied leaders.
 - Gallipoli and the Isonzo reproduced trench, machine-gun, barbed-wire, terrain, and attrition dynamics in different theaters.
-- Coalition politics and press scandal could shape campaign continuation as much as battlefield analysis.
-- Public memory and propaganda could convert battlefield or occupation events into national symbols.
+- Coalition politics, press scandal, public memory, and propaganda could shape campaign continuation and convert battlefield or occupation events into national symbols.
 
 ## Evidence
 
+- War entry: [[474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702]] connects Russian mobilisation, German war planning, British-French naval expectations, cabinet division, Belgian neutrality, and Grey's Commons speech to Britain's declaration of war.
 - Western Front baseline: [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] connects the 1914 mobile-war failure, trench construction, defensive firepower, Graves and Junger's testimony, shell shock, Ypres gas, Loos, and John Kipling's death.
 - Maritime economic war: [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]] connects Germany's U-boat strategy, Britain's import dependence, cruiser-rule breakdown, Lusitania's contested cargo, and the diplomatic risk of killing neutral citizens.
 - Occupation and resistance: [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]] connects Belgium's occupation, escape routes to the Netherlands, Cavell's nursing clinic, German military law, and Allied propaganda into one occupation-war case.
@@ -48,14 +50,17 @@ It also adds a political and memory layer. First World War campaigning, occupati
 
 ## Counterevidence & Qualifications
 
-This page is a seed page, not a general history of the First World War. The Western Front source qualifies simple retrospective anti-war memory by showing that early soldiers and poets could combine duty, sacrifice, fear, boredom, comradeship, and trauma. The Lusitania source qualifies simple atrocity-propaganda readings: the sinking caused mass civilian death without warning, but the ship's war-relevant cargo and British censorship are real parts of the source account. The Cavell source likewise qualifies simple martyr readings: the execution was politically disastrous and symbolically potent, but the underlying escape assistance and German military-law argument are treated as real source facts rather than invented propaganda. The Italy source qualifies simple national-unity accounts by contrasting interventionist spectacle with broad anti-war sentiment and by treating later fascist use of war resentment as an afterlife, not an automatic outcome.
+This page is a seed page, not a general history of the First World War. The July Crisis source challenges literal sleepwalking and uniform war-enthusiasm narratives but does not erase uncertainty, constraint, patriotic mobilisation, or responsibility. It also treats Belgium as decisive without reducing Britain's entry to one motive. The Western Front source qualifies simple retrospective anti-war memory by showing that early soldiers and poets could combine duty, sacrifice, fear, boredom, comradeship, and trauma. The Lusitania source preserves war-relevant cargo and British censorship without using them to justify mass civilian death. The Cavell source preserves real escape assistance and military-law arguments alongside the execution's disastrous politics. The Italy source contrasts interventionist spectacle with broad anti-war sentiment and treats fascist use of resentment as an afterlife, not an automatic outcome.
 
 ## What Changed
 
-- Added the Western Front soldier-experience branch, connecting trench life, shell shock, gas warfare, Loos, Graves, Junger, and the Kipling family to the wider 1915 sequence.
+- Added the final July Crisis and Britain's entry, moving the page's starting point from 1915 back to the mobilisation, obligation, Belgium, and war-justification sequence of August 1914.
 
 ## Related Concepts
 
+- [[JulyCrisis]] - diplomatic and mobilisation escalation that opened the general European war.
+- [[EdwardGrey]] - British foreign secretary who articulated the intervention case.
+- [[HHAsquith]] - prime minister managing the divided British cabinet.
 - [[WesternFrontFirstWorldWar]] - battlefield baseline for trench stalemate and soldier experience.
 - [[TrenchLifeWesternFront]] - soldier-experience pattern from the Western Front source.
 - [[ShellShock]] - psychological injury category introduced through 1915 trench war.

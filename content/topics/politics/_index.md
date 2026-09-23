@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2655
+topic_total_pages: 2659
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1909,6 +1909,9 @@ topic_concepts:
   - key: "JudicializedOppositionSuppression"
     title: "Judicialized Opposition Suppression"
     url: "/wiki/concepts/judicializedoppositionsuppression/"
+  - key: "JulyCrisis"
+    title: "July Crisis"
+    url: "/wiki/concepts/julycrisis/"
   - key: "KeyPersonInsurance"
     title: "Key Person Insurance"
     url: "/wiki/concepts/keypersoninsurance/"
@@ -4913,6 +4916,9 @@ topic_entities:
   - key: "EdwardCarson"
     title: "Edward Carson"
     url: "/wiki/entities/edwardcarson/"
+  - key: "EdwardGrey"
+    title: "Edward Grey"
+    url: "/wiki/entities/edwardgrey/"
   - key: "EdwardHeath"
     title: "Edward Heath"
     url: "/wiki/entities/edwardheath/"
@@ -5171,6 +5177,9 @@ topic_entities:
   - key: "HGWells"
     title: "H. G. Wells / H. G. 威尔斯"
     url: "/wiki/entities/hgwells/"
+  - key: "HHAsquith"
+    title: "H. H. Asquith"
+    url: "/wiki/entities/hhasquith/"
   - key: "HRHaldeman"
     title: "H. R. Haldeman"
     url: "/wiki/entities/hrhaldeman/"
@@ -7074,6 +7083,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702"
+    title: "474. The Road to The Great War: The Lights Go Out (Part 6)"
+    url: "/wiki/sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702/"
   - key: "501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o"
     title: "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？"
     url: "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
