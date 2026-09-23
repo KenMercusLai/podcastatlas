@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3121
+topic_total_pages: 3123
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3490,6 +3490,9 @@ topic_concepts:
   - key: "RelationshipTechnologyEthics"
     title: "Relationship Technology Ethics / 亲密关系技术伦理"
     url: "/wiki/concepts/relationshiptechnologyethics/"
+  - key: "ReliabilityDrivenInfrastructureOwnership"
+    title: "Reliability-Driven Infrastructure Ownership"
+    url: "/wiki/concepts/reliabilitydriveninfrastructureownership/"
   - key: "RemoteCardiacMonitoringAndWarning"
     title: "Remote Cardiac Monitoring and Warning / 远程心脏监测与预警"
     url: "/wiki/concepts/remotecardiacmonitoringandwarning/"
@@ -7046,6 +7049,9 @@ topic_entities:
   - key: "T0Finance"
     title: "T0 Finance"
     url: "/wiki/entities/t0finance/"
+  - key: "TabaPay"
+    title: "TabaPay"
+    url: "/wiki/entities/tabapay/"
   - key: "Tableau"
     title: "Tableau"
     url: "/wiki/entities/tableau/"

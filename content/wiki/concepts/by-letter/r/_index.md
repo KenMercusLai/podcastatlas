@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7970
+wiki_total_pages: 7974
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "RelentlesslyResourcefulFounder"
     title: "Relentlessly Resourceful Founder"
     url: "/wiki/concepts/relentlesslyresourcefulfounder/"
+  - key: "ReliabilityDrivenInfrastructureOwnership"
+    title: "Reliability-Driven Infrastructure Ownership"
+    url: "/wiki/concepts/reliabilitydriveninfrastructureownership/"
   - key: "ReliefBasedReligiousMobilization"
     title: "Relief-Based Religious Mobilization / 救济型宗教动员"
     url: "/wiki/concepts/reliefbasedreligiousmobilization/"
@@ -686,6 +689,9 @@ wiki_pages:
   - key: "ReuseFirstRocketDesign"
     title: "Reuse-First Rocket Design"
     url: "/wiki/concepts/reusefirstrocketdesign/"
+  - key: "RevenueBeforeCostOptimization"
+    title: "Revenue Before Cost Optimization"
+    url: "/wiki/concepts/revenuebeforecostoptimization/"
   - key: "ReverseJointVentureEVGlobalization"
     title: "Reverse Joint-Venture EV Globalization / 反向合资电动车出海"
     url: "/wiki/concepts/reversejointventureevglobalization/"

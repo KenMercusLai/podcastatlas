@@ -21857,3 +21857,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | Inbound Marketing That Grew a Fintech SaaS to $100M
+
+Added source `inbound-marketing-that-grew-a-fintech-saas-to-100m`; created `TabaPay`, `RodneyRobinson`, `PartnerLedFintechDistribution`, `RevenueBeforeCostOptimization`, `ReliabilityDrivenInfrastructureOwnership`, and `PaymentRiskDataNetwork`; updated the index. Core synthesis: TabaPay entered a regulated two-way payment market by buying reliable vendor capabilities and solving for revenue before cost, used small relationship-based customers and institutional referrals to build trust, then internalized processing and added risk services as scale made availability, control, and differentiation more valuable. No settled contradiction found; the categorical anti-outbound claim is narrowed to TabaPay's concentrated regulated market, while company scale, funding, profitability, transaction volume, retention, legal, and bank-acquisition claims remain founder-reported and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

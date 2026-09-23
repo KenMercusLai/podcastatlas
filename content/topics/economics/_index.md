@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2076
+topic_total_pages: 2077
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2458,6 +2458,9 @@ topic_concepts:
   - key: "ReusableRocketTurnaround"
     title: "Reusable Rocket Turnaround"
     url: "/wiki/concepts/reusablerocketturnaround/"
+  - key: "RevenueBeforeCostOptimization"
+    title: "Revenue Before Cost Optimization"
+    url: "/wiki/concepts/revenuebeforecostoptimization/"
   - key: "RiskParity"
     title: "Risk Parity"
     url: "/wiki/concepts/riskparity/"

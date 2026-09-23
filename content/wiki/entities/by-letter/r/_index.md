@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 10602
+wiki_total_pages: 10604
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -551,6 +551,9 @@ wiki_pages:
   - key: "RodeoAI"
     title: "Rodeo.ai"
     url: "/wiki/entities/rodeoai/"
+  - key: "RodneyRobinson"
+    title: "Rodney Robinson"
+    url: "/wiki/entities/rodneyrobinson/"
   - key: "RodoSayagues"
     title: "Rodo Sayagues"
     url: "/wiki/entities/rodosayagues/"

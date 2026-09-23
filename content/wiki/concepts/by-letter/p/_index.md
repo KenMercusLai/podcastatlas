@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7970
+wiki_total_pages: 7974
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "PartnerSelectionBeyondChemistry"
     title: "Partner Selection Beyond Chemistry"
     url: "/wiki/concepts/partnerselectionbeyondchemistry/"
+  - key: "PartnerLedFintechDistribution"
+    title: "Partner-Led Fintech Distribution"
+    url: "/wiki/concepts/partnerledfintechdistribution/"
   - key: "PartyNetworkTreasonFraming"
     title: "Party Network Treason Framing / 朋党网络谋反化"
     url: "/wiki/concepts/partynetworktreasonframing/"
@@ -260,6 +263,9 @@ wiki_pages:
   - key: "PaymentLedMarketSelection"
     title: "Payment Led Market Selection"
     url: "/wiki/concepts/paymentledmarketselection/"
+  - key: "PaymentRiskDataNetwork"
+    title: "Payment Risk Data Network"
+    url: "/wiki/concepts/paymentriskdatanetwork/"
   - key: "PaymentInKindInterest"
     title: "Payment-In-Kind Interest / PIK"
     url: "/wiki/concepts/paymentinkindinterest/"
