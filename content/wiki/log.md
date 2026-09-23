@@ -21458,7 +21458,6 @@ Added source `vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-09-23] ingest | 492. The War on Beards: From Peter the Great to John Lennon (Part 2)
 
 Added source `492-the-war-on-beards-from-peter-the-great-to-john-lennon-part-2-glt5427522678`; created `FacialHairAsSocialCode`; updated `HairAsPoliticalIdentity`, `PeterTheGreat`, `TheBeatles`, and the index. Core synthesis: facial hair is a reversible social code whose religious, masculine, military, medical, bureaucratic, and countercultural meanings depend on prevailing norms, material grooming technology, media, and institutional power. No settled contradiction found; the Peter material deepens the existing coercive-Westernization account, while the Raglan attribution, medical claims, prevalence and survey figures, motives, and broad gender explanations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21470,6 +21469,9 @@ Added source `how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828`; c
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-23] ingest | 481. The French Revolution: The Women's March on Versailles (Part 7)
+
+Added source `481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254`; created `OctoberDays1789`, `ConstitutionalMonarchyVetoConflict`, `RevolutionaryHungerStreetMobilization`, and `CrowdSovereigntyRepresentationConflict`; and updated `FrenchRevolution`, `LouisXVI`, `MarieAntoinette`, `MarquisDeLafayette`, `JeanPaulMarat`, `JacobinClub`, `TheroigneDeMericourt`, `GenderedRepublicanCitizenship`, and the index. Core synthesis: the October Days joined real bread scarcity, unresolved veto and sovereignty questions, radical rumor, women's market organization, National Guard pressure, and palace violence to force crown and Assembly from Versailles to Paris. No settled contradiction found; deliberate-starvation claims remain unsupported, elite testimony outweighs surviving marcher voices, and banquet reports, crowd totals, responsibility for the palace breach, dialogue, and private motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
 ## [2026-09-23] ingest | 482. The French Revolution: The Royal Family Escapes (Part 8)
 
@@ -21861,6 +21863,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | Inbound Marketing That Grew a Fintech SaaS to $100M
 
 Added source `inbound-marketing-that-grew-a-fintech-saas-to-100m`; created `TabaPay`, `RodneyRobinson`, `PartnerLedFintechDistribution`, `RevenueBeforeCostOptimization`, `ReliabilityDrivenInfrastructureOwnership`, and `PaymentRiskDataNetwork`; updated the index. Core synthesis: TabaPay entered a regulated two-way payment market by buying reliable vendor capabilities and solving for revenue before cost, used small relationship-based customers and institutional referrals to build trust, then internalized processing and added risk services as scale made availability, control, and differentiation more valuable. No settled contradiction found; the categorical anti-outbound claim is narrowed to TabaPay's concentrated regulated market, while company scale, funding, profitability, transaction volume, retention, legal, and bank-acquisition claims remain founder-reported and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 

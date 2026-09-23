@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Inbound Marketing That Grew a Fintech SaaS to $100M](sources/inbound-marketing-that-grew-a-fintech-saas-to-100m.md) — The SaaS Podcast episode with Rodney Robinson on TabaPay's capital-efficient growth, two-way instant payments, bank and network referrals, infrastructure ownership, risk services, and proposed bank acquisition.
+- [481. The French Revolution: The Women's March on Versailles (Part 7)](sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254.md) — The Rest Is History episode on the October Days, bread scarcity, veto conflict, women's armed mobilization, palace violence, and the forced transfer of crown and Assembly to Paris.
 - [482. The French Revolution: The Royal Family Escapes (Part 8)](sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355.md) — The Rest Is History episode on the Flight to Varennes, its operational failures, royal misreading of provincial France, and the local political mobilization that stopped the king.
 - [483. The Mysterious Case of the Ape Man](sources/483-the-mysterious-case-of-the-ape-man-glt8701811415.md) — The Rest Is History episode on the Piltdown Man hoax, Charles Dawson's likely authorship, expectation-matched evidence, institutional authority, and scientific correction.
 - [Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans](sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393.md) — All-In interviews on Hilton's expanded California affordability platform, Pratt's election-evidence concession, and post-fire litigation, insurance, and rebuilding constraints.
@@ -2753,6 +2754,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [TabaPay](entities/TabaPay.md) — Regulated payment-infrastructure company combining instant disbursements and collections, partner-led distribution, processing ownership, and risk services.
 - [Rodney Robinson](entities/RodneyRobinson.md) — TabaPay co-founder and CEO whose interview links customer listening, revenue-first launch sequencing, bank trust, and institutional distribution.
+- [October Days of 1789](entities/OctoberDays1789.md) — Women's march, palace crisis, and forced transfer that brought the monarchy and National Assembly from Versailles to Paris.
 - [Axel von Fersen](entities/AxelVonFersen.md) — Swedish count who planned and personally assisted the royal family's attempted escape from Paris.
 - [Jean-Baptiste Drouet](entities/JeanBaptisteDrouet.md) — Saint-Menu postmaster whose recognition and warning helped stop the royal family at Varennes.
 - [Piltdown Man](entities/PiltdownMan.md) — Fabricated early-human composite whose acceptance joined scientific expectation, national prestige, and institutional authority.
@@ -13370,6 +13372,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Revenue Before Cost Optimization](concepts/RevenueBeforeCostOptimization.md) — Launch sequence that buys dependable capabilities, validates value and revenue, then internalizes cost where scale justifies it.
 - [Reliability-Driven Infrastructure Ownership](concepts/ReliabilityDrivenInfrastructureOwnership.md) — Progressive internalization of critical layers when cumulative vendor downtime, cost, approvals, or fragmented control become material.
 - [Payment Risk Data Network](concepts/PaymentRiskDataNetwork.md) — Cross-merchant transaction intelligence used to detect payment anomalies and add risk services above commoditized processing.
+- [Constitutional Monarchy Veto Conflict](concepts/ConstitutionalMonarchyVetoConflict.md) — Conflict between monarchical checking power and the revolutionary claim that legislation expresses one national will.
+- [Revolutionary Hunger and Street Mobilization](concepts/RevolutionaryHungerStreetMobilization.md) — Process by which food scarcity, market networks, and causal rumor turn institutional conflict into direct action.
+- [Crowd Sovereignty and Representative Conflict](concepts/CrowdSovereigntyRepresentationConflict.md) — Rival claims by elected institutions and mobilized citizens to speak and act for the sovereign people.
 - [Revolutionary Rural Politicization](concepts/RevolutionaryRuralPoliticization.md) — Process by which clubs, elected offices, civic forces, and shared threats made national revolution locally actionable.
 - [Expectation-Matched Scientific Fraud](concepts/ExpectationMatchedScientificFraud.md) — Fabrication engineered to satisfy the theories, ambitions, and institutional desires of its intended validators.
 - [AI Problem Definition and Responsibility / AI问题定义与责任](concepts/AIProblemDefinitionResponsibility.md) — Framework for choosing worthwhile problems, defining criteria, checking AI-assisted work, and owning its consequences.

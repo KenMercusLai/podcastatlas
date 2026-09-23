@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1955
+topic_total_pages: 1956
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254"
+    title: "481. The French Revolution: The Women's March on Versailles (Part 7)"
+    url: "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
   - key: "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355"
     title: "482. The French Revolution: The Royal Family Escapes (Part 8)"
     url: "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"

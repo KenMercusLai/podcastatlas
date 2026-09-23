@@ -15,6 +15,7 @@ sources:
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
   - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
   - 482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355
+  - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-23
 ---
@@ -27,11 +28,11 @@ The French Revolution was the upheaval that overthrew Bourbon monarchy, created 
 
 ## Current Profile
 
-The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. By early 1791 newspapers, clubs, affiliated provincial societies, municipalities, National Guards, bread-price anger, religious division, and active-versus-passive citizenship had made politics both everyday and geographically distributed. [[FlightToVarennes|Varennes]] exposed royal deception but also demonstrated [[RevolutionaryRuralPoliticization|local revolutionary capacity]]: officials and armed residents chose national decrees over personal loyalty to the king. The failure made republicanism newly plausible and helped produce the [[ChampDeMarsMassacre|Champ de Mars massacre]], where revolutionary authorities fired on a revolutionary crowd. The restricted 1791 constitutional settlement therefore began with damaged trust before the weakly mandated Legislative Assembly inherited economic, religious, rural, colonial, and monarchical crises. Rival factions then converged on war because each expected a different political payoff. [[JacquesPierreBrissot|Brissot]] made universal liberty, national regeneration, and foreign conflict one program, while [[MaximilienRobespierre|Robespierre]] warned that armed missionary politics could destroy the Revolution and create a military strongman. Older public punishment, early lynching, Enlightenment reform, and the [[GuillotineReformSpectacleParadox|guillotine's reform-spectacle paradox]] supplied a penal prehistory before war produced both [[LaMarseillaise|a citizen anthem]] and a [[WartimeConstitutionalMonarchyCollapse|legitimacy crisis]]. Defeat, royal vetoes, genuine court duplicity, economic fear, and distributed popular mobilization culminated in the [[TuileriesInsurrection|10 August insurrection]], while continuing invasion panic produced the [[SeptemberMassacres]]. Abolition and [[BattleOfValmy|Valmy]] gave the new order political and military existence without settling its institutions, citizenship, or moral limits.
+The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. In 1789 the Declaration of Rights left monarchy, gender, slavery, property, and the institutional location of sovereignty unsettled. [[OctoberDays1789|The October Days]] joined bread scarcity, veto distrust, print politics, military rumor, women's mobilization, and palace violence, forcing crown and Assembly from Versailles to Paris. By early 1791 newspapers, clubs, affiliated provincial societies, municipalities, National Guards, bread-price anger, religious division, and active-versus-passive citizenship had made politics both everyday and geographically distributed. [[FlightToVarennes|Varennes]] exposed royal deception but also demonstrated [[RevolutionaryRuralPoliticization|local revolutionary capacity]]: officials and armed residents chose national decrees over personal loyalty to the king. The failure made republicanism newly plausible and helped produce the [[ChampDeMarsMassacre|Champ de Mars massacre]], where revolutionary authorities fired on a revolutionary crowd. The restricted 1791 constitutional settlement therefore began with damaged trust before the weakly mandated Legislative Assembly inherited economic, religious, rural, colonial, and monarchical crises. Rival factions then converged on war because each expected a different political payoff. [[JacquesPierreBrissot|Brissot]] made universal liberty, national regeneration, and foreign conflict one program, while [[MaximilienRobespierre|Robespierre]] warned that armed missionary politics could destroy the Revolution and create a military strongman. Older public punishment, early lynching, Enlightenment reform, and the [[GuillotineReformSpectacleParadox|guillotine's reform-spectacle paradox]] supplied a penal prehistory before war produced both [[LaMarseillaise|a citizen anthem]] and a [[WartimeConstitutionalMonarchyCollapse|legitimacy crisis]]. Defeat, royal vetoes, genuine court duplicity, economic fear, and distributed popular mobilization culminated in the [[TuileriesInsurrection|10 August insurrection]], while continuing invasion panic produced the [[SeptemberMassacres]]. Abolition and [[BattleOfValmy|Valmy]] gave the new order political and military existence without settling its institutions, citizenship, or moral limits.
 
 ## Key Characteristics
 
-- Structural crisis joined absolutist centralization, fiscal failure, bad harvests, war debt, Enlightenment ideas, religious division, penal-reform pressure, royal flight, and collapsing monarchical legitimacy.
+- Structural crisis joined absolutist centralization, fiscal failure, bad harvests, bread scarcity, war debt, Enlightenment ideas, constitutional ambiguity, royal flight, and collapsing monarchical legitimacy.
 - Clubs, municipal government, civic arms, and print culture made revolutionary politics locally actionable beyond Paris.
 - Factions with incompatible aims converged on war, making loyalty the test of constitutional authority and joining revolutionary universalism, court counterrevolution, military ambition, royal duplicity, and wider conspiracy claims.
 - Sections, sans-culottes, and fédérés supplied distributed armed pressure that converted palace defeat into suspension of the king.
@@ -40,6 +41,10 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 - Factional struggle, Champ de Mars, regicide, inherited execution spectacle, deprivation, war, rebellion, martyrdom, and emergency bodies made violence and the destruction of sacred kingship parts of republican foundation and terror.
 
 ## Evidence
+
+### Rights, hunger, and the October Days
+
+- [[481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254]] connects unresolved rights and veto questions to scarcity, rumor, women's armed mobilization, palace violence, and the transfer of crown and Assembly to Paris.
 
 ### Varennes, republicanism, and the 1791 settlement
 
@@ -81,6 +86,7 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 ## Qualifications
 
 - These episodes are selective and do not provide a comprehensive social, colonial, imperial, or economic history of the Revolution.
+- The October Days source documents real scarcity and coercion but cannot recover hungry women's voices as fully as elite eyewitness experience.
 - The episode's factional map and motive assignments simplify fluid political groupings and cannot establish every actor's private calculation.
 - The Varennes route shows uneven local response: recognition did not become resistance in every town, and one journey cannot stand for all provincial France.
 - Champ de Mars crowd and casualty figures, the first shot, and the intentions of the two men hidden beneath the altar remain disputed or source-scoped.
@@ -95,14 +101,16 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 
 ## What Changed
 
+- The chronology now begins with the October Days as the moment when hunger and unresolved sovereignty moved crown and Assembly under Parisian pressure.
 - The profile now begins the 1792 war story with prewar factional convergence rather than only battlefield failure.
 - Revolutionary universalism is explicitly qualified by Robespierre's armed-missionary warning and the untested consent of people marked for liberation.
 - Royal betrayal and unsupported wider conspiracy claims remain distinct even where the former made the latter persuasive.
 - The chronology now begins with Varennes as both a prewar trust break and proof that local institutions and civic mobilization had become agents of revolutionary authority.
-- The 1791 constitution is treated as a compromised settlement rather than a stable baseline later disrupted only by war.
 
 ## Relationships
 
+- [[OctoberDays1789]] - forced transfer that made Parisian street pressure central to national politics.
+- [[CrowdSovereigntyRepresentationConflict]] - unresolved rivalry between direct action and representative authority.
 - [[SeptemberMassacres]] - early organized popular violence produced by invasion panic and internal-enemy suspicion.
 - [[Girondins]] - republican faction vulnerable to accusations of delay, weakness, and betrayal.
 - [[Montagnards]] - radical Convention camp increasingly dominant under Parisian pressure.

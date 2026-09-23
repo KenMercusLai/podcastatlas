@@ -4,7 +4,8 @@ type: concept
 tags: [citizenship, gender, republicanism, french-revolution]
 sources:
   - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
-last_updated: 2026-09-22
+  - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -16,7 +17,7 @@ Gendered republican citizenship assigns formal public rights, deliberation, and 
 
 ## Current Synthesis
 
-In the episode's French revolutionary case, expanded male suffrage did not make citizenship universal. Classical Spartan and Roman models, Rousseauian domesticity, and masculine virtue located women inside the Republic as wives and mothers rather than equal voters or representatives. Women's crowd action, galleries, salons, clubs, and military petitions repeatedly crossed that boundary without displacing it.
+In the French revolutionary case, universal rights language and later expanded male suffrage did not make citizenship universal. Classical Spartan and Roman models, Rousseauian domesticity, and masculine virtue located women inside the nation as wives and mothers rather than equal voters or representatives. The October Days show women acting as politically decisive petitioners and armed marchers before later crowd action, galleries, salons, clubs, and military petitions repeatedly crossed the same boundary without displacing it.
 
 ## Key Claims
 
@@ -38,6 +39,7 @@ In the episode's French revolutionary case, expanded male suffrage did not make 
 
 ### Boundary challenges
 
+- [[481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254]] shows women initiating the march on Versailles, seizing arms, entering the Assembly, and compelling royal concessions while remaining outside formal citizenship.
 - [[545-the-french-revolution-the-first-feminist-part-2-glt4335903757]] follows women through crowds, galleries, salons, political clubs, battalion proposals, and the declaration of rights.
 
 ## Counterevidence & Qualifications
@@ -45,13 +47,16 @@ In the episode's French revolutionary case, expanded male suffrage did not make 
 - The episode's explanation for why some women accepted exclusion is interpretive and cannot establish internal belief across women as a group.
 - Girondin relative openness did not amount to a uniform equal-citizenship program.
 - Formal exclusion did not erase women's real political agency, influence, or revolutionary participation.
+- The October Days source preserves elite viewpoints more fully than the voices of hungry women and cannot establish one shared political program among marchers.
 
 ## What Changed
 
+- The concept now begins with women's decisive action in 1789 rather than only the later Republic's formal exclusions and feminist challenges.
 - Created the concept by integrating suffrage, public speech, domestic duty, and armed participation as dimensions of one citizenship boundary.
 
 ## Related Concepts
 
+- [[OctoberDays1789]] - event where excluded women exercised direct coercive and petitionary power.
 - [[FemaleAllegoryPoliticalExclusion]] - symbolic mechanism that feminizes the Republic without equalizing citizenship.
 - [[InformalFemalePoliticalInfluence]] - politically effective but institutionally subordinate route around formal exclusion.
 - [[RevolutionaryVirtuePolitics]] - masculine virtue ideal used to naturalize the public-domestic division.

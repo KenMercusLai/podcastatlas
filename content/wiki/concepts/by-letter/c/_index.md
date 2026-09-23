@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7974
+wiki_total_pages: 7977
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1583,6 +1583,9 @@ wiki_pages:
   - key: "ConstituentNationSportingIdentity"
     title: "Constituent Nation Sporting Identity"
     url: "/wiki/concepts/constituentnationsportingidentity/"
+  - key: "ConstitutionalMonarchyVetoConflict"
+    title: "Constitutional Monarchy Veto Conflict"
+    url: "/wiki/concepts/constitutionalmonarchyvetoconflict/"
   - key: "ConstitutionalRobustness"
     title: "Constitutional Robustness"
     url: "/wiki/concepts/constitutionalrobustness/"
@@ -2156,6 +2159,9 @@ wiki_pages:
   - key: "CrosstalkLiteraryRhythm"
     title: "Crosstalk Literary Rhythm"
     url: "/wiki/concepts/crosstalkliteraryrhythm/"
+  - key: "CrowdSovereigntyRepresentationConflict"
+    title: "Crowd Sovereignty and Representative Conflict"
+    url: "/wiki/concepts/crowdsovereigntyrepresentationconflict/"
   - key: "CrowdsourcedAcademicAuditing"
     title: "Crowdsourced Academic Auditing"
     url: "/wiki/concepts/crowdsourcedacademicauditing/"

@@ -7,8 +7,9 @@ sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 545-the-french-revolution-the-first-feminist-part-2-glt4335903757
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
+  - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-09-23
 ---
 
 # Jean-Paul Marat / 让-保罗·马拉
@@ -19,11 +20,11 @@ Jean-Paul Marat was a physician, rejected experimental scientist, radical journa
 
 ## Current Profile
 
-Across the sources, Marat's political power came from joining genuine popular hardship to an escalating worldview of virtuous people besieged by hidden enemies. His paper *L'Ami du peuple*, pre-massacre advocacy of killing prisoners, expanding execution demands, April 1793 acquittal, and role in the defeat of the [[Girondins]] made him both influential and feared. His death then gave that politics a sacred symbolic force Corday had meant to destroy. His self-presentation as a friend of women remained collective and did not amount to equal political citizenship.
+Across the sources, Marat's political power came from joining genuine popular hardship to an escalating worldview of virtuous people besieged by hidden enemies. In 1789 *L'Ami du peuple* used bloodsuckers, plots, false patriots, and enemies of the people to intensify distrust around scarcity, the veto, and the court. His later pre-massacre advocacy of killing prisoners, expanding execution demands, April 1793 acquittal, and role in the defeat of the [[Girondins]] made him both influential and feared. His death then gave that politics a sacred symbolic force Corday had meant to destroy. His self-presentation as a friend of women remained collective and did not amount to equal political citizenship.
 
 ## Key Characteristics
 
-- He transformed professional and scientific rejection into a politics of persecution, elite corruption, and privileged access to hidden truth.
+- He joined early press freedom and genuine hardship to a politics of persecution, elite corruption, and privileged access to hidden truth.
 - He rejected civility as falseness and used hostility toward himself as evidence of authenticity.
 - He publicly advocated prisoner killing before the September Massacres, while the new source does not make him an operational commander.
 - His execution demands escalated and made exemplary bloodshed central to his political method.
@@ -32,6 +33,10 @@ Across the sources, Marat's political power came from joining genuine popular ha
 - His claimed friendship toward women did not establish support for their equal citizenship.
 
 ## Evidence
+
+### Early radical journalism
+
+- [[481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254]] places *L'Ami du peuple* inside the pre-October escalation of conspiracy language and hostility to king, aristocracy, and Assembly.
 
 ### Agitation and the September Massacres
 
@@ -55,9 +60,11 @@ Across the sources, Marat's political power came from joining genuine popular ha
 - Marat correctly identified Dumouriez as a traitor, but one confirmed allegation does not validate wider enemy lists.
 - Incitement and endorsement are not the same as proven operational direction of the September killing teams.
 - His exact responsibility for the Girondin purge and his wider positions on women's rights remain source-bounded.
+- The October Days source shows rhetorical escalation but does not establish that Marat organized the march or palace attack.
 
 ## What Changed
 
+- The profile now begins Marat's political method in 1789, before his later execution demands and massacre advocacy.
 - Marat's massacre role is now temporally and causally sharper: he advocated killing before the event but is not recast as its field commander.
 - The profile distinguishes rhetorical authorization from local operational organization.
 

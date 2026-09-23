@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 10604
+wiki_total_pages: 10605
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "OctavianAugustus"
     title: "Octavian / Augustus / 屋大维"
     url: "/wiki/entities/octavianaugustus/"
+  - key: "OctoberDays1789"
+    title: "October Days of 1789"
+    url: "/wiki/entities/octoberdays1789/"
   - key: "OdedRechavi"
     title: "Oded Rechavi"
     url: "/wiki/entities/odedrechavi/"

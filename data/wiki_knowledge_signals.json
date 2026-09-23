@@ -26153,6 +26153,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/constitutionhilljohannesburg/"
     },
+    "ConstitutionalMonarchyVetoConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/constitutionalmonarchyvetoconflict/"
+    },
     "ConstructedCategoryTrust": {
       "episode_count": 1,
       "show_count": 1,
@@ -28092,6 +28108,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/crossingvulnerabilitystrike/"
+    },
+    "CrowdSovereigntyRepresentationConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/crowdsovereigntyrepresentationconflict/"
     },
     "CrownPrinceLiXianTang": {
       "episode_count": 1,
@@ -47684,9 +47716,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -47771,6 +47803,13 @@
           "show": "The Rest Is History",
           "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
           "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
       "updated": "2026-09-23",
@@ -50575,9 +50614,9 @@
       "url": "/wiki/concepts/genderedofficehierarchy/"
     },
     "GenderedRepublicanCitizenship": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4335903757 [GLT4335903757].md",
@@ -50585,9 +50624,16 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/genderedrepublicancitizenship/"
     },
     "GenderedSupplementSegmentation": {
@@ -67072,9 +67118,9 @@
       "url": "/wiki/entities/jacobcoxon/"
     },
     "JacobinClub": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -67096,6 +67142,13 @@
           "show": "The Rest Is History",
           "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
           "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
       "updated": "2026-09-23",
@@ -67529,9 +67582,9 @@
       "url": "/wiki/entities/jeanjacquesrousseau/"
     },
     "JeanPaulMarat": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -67560,9 +67613,16 @@
           "show": "The Rest Is History",
           "title": "544. The French Revolution: The September Massacres (Part 1)",
           "url": "/wiki/sources/544-the-french-revolution-the-september-massacres-part-1-glt8301042051/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/jeanpaulmarat/"
     },
     "JeanPaulSartre": {
@@ -80993,9 +81053,9 @@
       "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -81038,6 +81098,13 @@
           "show": "The Rest Is History",
           "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
           "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
       "updated": "2026-09-23",
@@ -85018,9 +85085,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -85056,6 +85123,13 @@
           "show": "The Rest Is History",
           "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
           "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
       "updated": "2026-09-23",
@@ -85213,9 +85287,9 @@
       "url": "/wiki/concepts/marketingscienceuserpath/"
     },
     "MarquisDeLafayette": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3752138067 [GLT3752138067].md",
@@ -85244,6 +85318,13 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
       "updated": "2026-09-23",
@@ -94014,6 +94095,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/oceanbase/"
+    },
+    "OctoberDays1789": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/octoberdays1789/"
     },
     "OdedRechavi": {
       "episode_count": 1,
@@ -108997,6 +109094,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
+    },
+    "RevolutionaryHungerStreetMobilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/revolutionaryhungerstreetmobilization/"
     },
     "RevolutionaryIdeologicalWar": {
       "episode_count": 2,
@@ -127291,9 +127404,9 @@
       "url": "/wiki/concepts/therapyrelationshipandboundaries/"
     },
     "TheroigneDeMericourt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4335903757 [GLT4335903757].md",
@@ -127301,9 +127414,16 @@
           "show": "The Rest Is History",
           "title": "545. The French Revolution: The First Feminist (Part 2)",
           "url": "/wiki/sources/545-the-french-revolution-the-first-feminist-part-2-glt4335903757/"
+        },
+        {
+          "episode_file": "GLT9783455254 [GLT9783455254].md",
+          "key": "481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254",
+          "show": "The Rest Is History",
+          "title": "481. The French Revolution: The Women's March on Versailles (Part 7)",
+          "url": "/wiki/sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/theroignedemericourt/"
     },
     "ThinSoleSneakerRevival": {

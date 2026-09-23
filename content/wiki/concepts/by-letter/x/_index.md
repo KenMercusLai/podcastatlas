@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 7974
+wiki_total_pages: 7977
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"

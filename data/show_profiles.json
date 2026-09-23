@@ -926,14 +926,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 119,
-      "topic_matched_source_note_count": 118,
+      "source_note_count": 120,
+      "topic_matched_source_note_count": 119,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 116
+          "source_note_count": 117
         },
         {
           "key": "politics",
@@ -963,6 +963,13 @@
           "episode_count": 7
         },
         {
+          "key": "LouisXVI",
+          "title": "Louis XVI",
+          "url": "/wiki/entities/louisxvi/",
+          "kind": "person",
+          "episode_count": 7
+        },
+        {
           "key": "MaximilienRobespierre",
           "title": "Maximilien Robespierre / 罗伯斯庇尔",
           "url": "/wiki/entities/maximilienrobespierre/",
@@ -984,9 +991,9 @@
           "episode_count": 6
         },
         {
-          "key": "LouisXVI",
-          "title": "Louis XVI",
-          "url": "/wiki/entities/louisxvi/",
+          "key": "MarieAntoinette",
+          "title": "Marie Antoinette",
+          "url": "/wiki/entities/marieantoinette/",
           "kind": "person",
           "episode_count": 6
         },
@@ -1001,13 +1008,6 @@
           "key": "EvaPeron",
           "title": "Eva Perón",
           "url": "/wiki/entities/evaperon/",
-          "kind": "person",
-          "episode_count": 5
-        },
-        {
-          "key": "HaroldGodwinson",
-          "title": "Harold Godwinson",
-          "url": "/wiki/entities/haroldgodwinson/",
           "kind": "person",
           "episode_count": 5
         }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7974
+wiki_total_pages: 7977
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "RevolutionaryFactionalOutflanking"
     title: "Revolutionary Factional Outflanking"
     url: "/wiki/concepts/revolutionaryfactionaloutflanking/"
+  - key: "RevolutionaryHungerStreetMobilization"
+    title: "Revolutionary Hunger and Street Mobilization"
+    url: "/wiki/concepts/revolutionaryhungerstreetmobilization/"
   - key: "RevolutionaryIdeologicalWar"
     title: "Revolutionary Ideological War"
     url: "/wiki/concepts/revolutionaryideologicalwar/"
