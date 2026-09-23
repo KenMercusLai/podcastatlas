@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复](sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0.md) — 这病说来话长 episode on sports medicine, human movement digital twins, knee injury, elite-performance tradeoffs, and goal-matched rehabilitation.
 - [Inbound Marketing That Grew a Fintech SaaS to $100M](sources/inbound-marketing-that-grew-a-fintech-saas-to-100m.md) — The SaaS Podcast episode with Rodney Robinson on TabaPay's capital-efficient growth, two-way instant payments, bank and network referrals, infrastructure ownership, risk services, and proposed bank acquisition.
 - [481. The French Revolution: The Women's March on Versailles (Part 7)](sources/481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254.md) — The Rest Is History episode on the October Days, bread scarcity, veto conflict, women's armed mobilization, palace violence, and the forced transfer of crown and Assembly to Paris.
 - [482. The French Revolution: The Royal Family Escapes (Part 8)](sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355.md) — The Rest Is History episode on the Flight to Varennes, its operational failures, royal misreading of provincial France, and the local political mobilization that stopped the king.
@@ -2752,6 +2753,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [张雨涵 / Zhang Yuhan (sports medicine guest)](entities/ZhangYuhanSportsMedicine.md) — Joint and sports-medicine guest explaining knee injury, rehabilitation goals, and muscular stability.
+- [周浩 / Zhou Hao (rehabilitation engineer)](entities/ZhouHaoRehabilitationEngineer.md) — Rehabilitation engineer discussing musculoskeletal models, digital twins, sport performance, and clinical adoption constraints.
+- [国家骨科与运动康复临床医学研究中心](entities/NationalOrthopedicSportsRehabilitationClinicalResearchCenter.md) — Source-scoped institutional affiliation for rehabilitation engineer 周浩.
 - [TabaPay](entities/TabaPay.md) — Regulated payment-infrastructure company combining instant disbursements and collections, partner-led distribution, processing ownership, and risk services.
 - [Rodney Robinson](entities/RodneyRobinson.md) — TabaPay co-founder and CEO whose interview links customer listening, revenue-first launch sequencing, bank trust, and institutional distribution.
 - [October Days of 1789](entities/OctoberDays1789.md) — Women's march, palace crisis, and forced transfer that brought the monarchy and National Assembly from Versailles to Paris.
@@ -13368,6 +13372,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Human Movement Digital Twin / 人体运动数字孪生](concepts/HumanMovementDigitalTwin.md) — Measurement-and-simulation framework for performance, loading, equipment, and rehabilitation decisions.
+- [Rehabilitation Goal Differentiation / 康复目标分层](concepts/RehabilitationGoalDifferentiation.md) — Goal-first distinction among pain relief, daily function, and return-to-sport performance.
+- [Knee Stability Injury Cascade / 膝关节稳定性损伤链](concepts/KneeStabilityInjuryCascade.md) — Probabilistic interaction among menisci, cruciate stability, cartilage loading, and quadriceps capacity.
 - [Partner-Led Fintech Distribution](concepts/PartnerLedFintechDistribution.md) — Go-to-market pattern where trusted banks and payment networks refer demand for specialist regulated infrastructure.
 - [Revenue Before Cost Optimization](concepts/RevenueBeforeCostOptimization.md) — Launch sequence that buys dependable capabilities, validates value and revenue, then internalizes cost where scale justifies it.
 - [Reliability-Driven Infrastructure Ownership](concepts/ReliabilityDrivenInfrastructureOwnership.md) — Progressive internalization of critical layers when cumulative vendor downtime, cost, approvals, or fragmented control become material.

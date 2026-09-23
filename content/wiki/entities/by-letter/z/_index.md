@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10605
+wiki_total_pages: 10608
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "ZhouBiLateHan"
     title: "周毖 / Zhou Bi (late Han)"
     url: "/wiki/entities/zhoubilatehan/"
+  - key: "ZhouHaoRehabilitationEngineer"
+    title: "周浩 / Zhou Hao (rehabilitation engineer)"
+    url: "/wiki/entities/zhouhaorehabilitationengineer/"
   - key: "ZhouYuan"
     title: "周源 / Zhou Yuan"
     url: "/wiki/entities/zhouyuan/"
@@ -1001,6 +1004,9 @@ wiki_pages:
   - key: "ZhangLingLateHan"
     title: "张陵 / Zhang Ling (late Han)"
     url: "/wiki/entities/zhanglinglatehan/"
+  - key: "ZhangYuhanSportsMedicine"
+    title: "张雨涵 / Zhang Yuhan (sports medicine guest)"
+    url: "/wiki/entities/zhangyuhansportsmedicine/"
   - key: "ZhangBaLateHan"
     title: "张霸 / Zhang Ba (late Han)"
     url: "/wiki/entities/zhangbalatehan/"

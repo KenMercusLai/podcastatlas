@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10605
+wiki_total_pages: 10608
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "Niesang"
     title: "啮桑 / Nie Sang"
     url: "/wiki/entities/niesang/"
+  - key: "NationalOrthopedicSportsRehabilitationClinicalResearchCenter"
+    title: "国家骨科与运动康复临床医学研究中心 / National Clinical Research Center for Orthopedics, Sports Medicine and Rehabilitation"
+    url: "/wiki/entities/nationalorthopedicsportsrehabilitationclinicalresearchcenter/"
   - key: "NianGengyao"
     title: "年羹尧 / Nian Gengyao"
     url: "/wiki/entities/niangengyao/"

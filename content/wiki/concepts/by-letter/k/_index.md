@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 7977
+wiki_total_pages: 7980
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "KleosHeroicGlory"
     title: "Kleos Heroic Glory / 克莱奥斯英雄声名"
     url: "/wiki/concepts/kleosheroicglory/"
+  - key: "KneeStabilityInjuryCascade"
+    title: "Knee Stability Injury Cascade / 膝关节稳定性损伤链"
+    url: "/wiki/concepts/kneestabilityinjurycascade/"
   - key: "KnowingEnough"
     title: "Knowing Enough"
     url: "/wiki/concepts/knowingenough/"

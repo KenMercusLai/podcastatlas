@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7977
+wiki_total_pages: 7980
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "RegulatoryTakings"
     title: "Regulatory Takings"
     url: "/wiki/concepts/regulatorytakings/"
+  - key: "RehabilitationGoalDifferentiation"
+    title: "Rehabilitation Goal Differentiation / 康复目标分层"
+    url: "/wiki/concepts/rehabilitationgoaldifferentiation/"
   - key: "ReinforcementLearningAGIPath"
     title: "Reinforcement Learning AGI Path"
     url: "/wiki/concepts/reinforcementlearningagipath/"

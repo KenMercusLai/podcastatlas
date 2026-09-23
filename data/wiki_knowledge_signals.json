@@ -41776,9 +41776,9 @@
       "url": "/wiki/concepts/exercisehydrationperformanceboundary/"
     },
     "ExerciseLoadManagement": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
@@ -41800,9 +41800,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/exerciseloadmanagement/"
     },
     "ExerciseMedicalAestheticBoundary": {
@@ -62680,6 +62687,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/humanmeaningunderai/"
     },
+    "HumanMovementDigitalTwin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/humanmovementdigitaltwin/"
+    },
     "HumanRobotSafetyCertification": {
       "episode_count": 1,
       "show_count": 1,
@@ -71455,6 +71478,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/kleosheroicglory/"
+    },
+    "KneeStabilityInjuryCascade": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/kneestabilityinjurycascade/"
     },
     "KnowingEnough": {
       "episode_count": 2,
@@ -91478,6 +91517,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/nationalinstitutesofhealth/"
     },
+    "NationalOrthopedicSportsRehabilitationClinicalResearchCenter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/nationalorthopedicsportsrehabilitationclinicalresearchcenter/"
+    },
     "NationalScienceFoundation": {
       "episode_count": 2,
       "show_count": 1,
@@ -107513,6 +107568,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/regulatedpeptideaccess/"
     },
+    "RehabilitationGoalDifferentiation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/rehabilitationgoaldifferentiation/"
+    },
     "RejectedCounselDefectionCascade": {
       "episode_count": 1,
       "show_count": 1,
@@ -121838,9 +121909,9 @@
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqtWr4m-9nPye9GIib1_OM-TYlMY [lqtWr4m-9nPye9GIib1_OM-TYlMY].md",
@@ -121848,9 +121919,16 @@
           "show": "这病说来话长",
           "title": "VOL.212 平时久坐 周末玩命运动？运动医学科医生给打工人的「防练废」指南",
           "url": "/wiki/sources/vol-212-pingshi-jiuzuo-zhoumo-wanming-yundong-yundong-yixueke-yisheng-gei-dagongrende-fang-lian-fei-zhinan-lqtwr4m-9npye9giib1-om-tylmy/"
+        },
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/strengthtrainingjointprotection/"
     },
     "StressBiologicalAging": {
@@ -147499,6 +147577,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhangyuwesternhan/"
     },
+    "ZhangYuhanSportsMedicine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/zhangyuhansportsmedicine/"
+    },
     "ZhangYunLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -149708,6 +149802,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhouguanglatehan/"
+    },
+    "ZhouHaoRehabilitationEngineer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ln2TG_VWGjZMMSS49Rn6NAgIS5p0 [ln2TG_VWGjZMMSS49Rn6NAgIS5p0].md",
+          "key": "vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0",
+          "show": "这病说来话长",
+          "title": "VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复",
+          "url": "/wiki/sources/vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/zhouhaorehabilitationengineer/"
     },
     "ZhouHongyi": {
       "episode_count": 1,

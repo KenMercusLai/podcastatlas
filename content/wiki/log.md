@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-23] ingest | VOL.127这项科技提高了奥运成绩 减少了运动狠活伤害 咱普通人也能用来助力康复
+
+Added source `vol-127-zhe-xiang-keji-tigao-le-aoyun-chengji-jianshao-le-yundong-henhuo-shanghai-zan-putongren-ye-neng-yong-lai-zhuli-kangfu-ln2tg_vwgjzmmss49rn6nagis5p0`; created `ZhangYuhanSportsMedicine`, `ZhouHaoRehabilitationEngineer`, `NationalOrthopedicSportsRehabilitationClinicalResearchCenter`, `HumanMovementDigitalTwin`, `RehabilitationGoalDifferentiation`, and `KneeStabilityInjuryCascade`; updated `ExerciseLoadManagement`, `StrengthTrainingJointProtection`, and index. Core synthesis: human movement digital twins can combine motion, force, imaging, and biomechanical models to investigate performance and rehabilitation, but decision purpose, validation, model error, cost, and workflow fit determine usefulness; rehabilitation endpoints differ across pain relief, daily function, and return to elite sport; and knee outcomes depend on interacting structural injury, instability, loading, and muscle capacity rather than one inevitable chain. No settled contradiction found; athlete examples, artificial-ligament recovery comparisons, clinical readiness, predictive value, and cost-performance claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 483. The Mysterious Case of the Ape Man
 
 Added source `483-the-mysterious-case-of-the-ape-man-glt8701811415`; created `PiltdownMan`, `CharlesDawson`, `ArthurSmithWoodward`, and `ExpectationMatchedScientificFraud`; migrated and updated `ArthurConanDoyle`; and updated the index. Core synthesis: Piltdown succeeded because its composite anatomy, British provenance, and borrowed expert authority supplied the nationally and theoretically desirable evidence that institutions expected, while later hominin discoveries and fluorine testing broke that fit. No settled contradiction found; Dawson is overwhelmingly likely but left no confession, and precise material provenance, accomplice theories, motive, Hinton's intent, and the Conan Doyle theory remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21863,6 +21867,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | Inbound Marketing That Grew a Fintech SaaS to $100M
 
 Added source `inbound-marketing-that-grew-a-fintech-saas-to-100m`; created `TabaPay`, `RodneyRobinson`, `PartnerLedFintechDistribution`, `RevenueBeforeCostOptimization`, `ReliabilityDrivenInfrastructureOwnership`, and `PaymentRiskDataNetwork`; updated the index. Core synthesis: TabaPay entered a regulated two-way payment market by buying reliable vendor capabilities and solving for revenue before cost, used small relationship-based customers and institutional referrals to build trust, then internalized processing and added risk services as scale made availability, control, and differentiation more valuable. No settled contradiction found; the categorical anti-outbound claim is narrowed to TabaPay's concentrated regulated market, while company scale, funding, profitability, transaction volume, retention, legal, and bank-acquisition claims remain founder-reported and source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 
