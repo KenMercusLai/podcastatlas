@@ -22016,3 +22016,11 @@ Added source `473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt13228
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | VOL.125糟了！你也脑子不好？记性差？这是痴呆前兆吗？先来看5大认知域3个阶段｜神经内科
+
+Added source `vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx`; created `CognitiveImpairmentStaging`; updated `XueXiaofan` and the index. Core synthesis: cognition spans memory, attention, executive function, visuospatial ability, and language; subjective decline, mild impairment, and dementia differ by objective findings and functional impact; and younger-adult forgetting is often better explained by attention, workload, mood, stress, or sleep than by neurodegeneration. No settled contradiction found. Rare young-onset cases, cognitive reserve, screening tools, prevention activities, and insomnia claims remain source-scoped public education rather than individualized diagnosis or guarantees. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

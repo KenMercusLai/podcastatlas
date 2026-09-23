@@ -24964,6 +24964,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/cognitivediversityaiadoption/"
     },
+    "CognitiveImpairmentStaging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lufu3bFCfvjBHXKu1N96rngoOhqX [lufu3bFCfvjBHXKu1N96rngoOhqX].md",
+          "key": "vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx",
+          "show": "这病说来话长",
+          "title": "VOL.125糟了！你也脑子不好？记性差？这是痴呆前兆吗？先来看5大认知域3个阶段｜神经内科",
+          "url": "/wiki/sources/vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cognitiveimpairmentstaging/"
+    },
     "CognitiveReappraisalEarlyIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -144182,9 +144198,9 @@
       "url": "/wiki/entities/xuehuiwesternhan/"
     },
     "XueXiaofan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -144206,9 +144222,16 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "lufu3bFCfvjBHXKu1N96rngoOhqX [lufu3bFCfvjBHXKu1N96rngoOhqX].md",
+          "key": "vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx",
+          "show": "这病说来话长",
+          "title": "VOL.125糟了！你也脑子不好？记性差？这是痴呆前兆吗？先来看5大认知域3个阶段｜神经内科",
+          "url": "/wiki/sources/vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/xuexiaofan/"
     },
     "XueXuanWesternHan": {

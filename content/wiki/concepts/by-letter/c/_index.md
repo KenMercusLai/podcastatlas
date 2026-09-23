@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8011
+wiki_total_pages: 8012
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1160,6 +1160,9 @@ wiki_pages:
   - key: "CognitiveDiversityAIAdoption"
     title: "Cognitive Diversity in AI Adoption"
     url: "/wiki/concepts/cognitivediversityaiadoption/"
+  - key: "CognitiveImpairmentStaging"
+    title: "Cognitive Impairment Staging / 认知障碍分期"
+    url: "/wiki/concepts/cognitiveimpairmentstaging/"
   - key: "CognitiveInertia"
     title: "Cognitive Inertia / 认知惰性"
     url: "/wiki/concepts/cognitiveinertia/"
