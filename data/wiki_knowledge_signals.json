@@ -31919,6 +31919,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/deodorodafonseca/"
     },
+    "DermatologicRenewalAndCancerPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2145176738 [SCIM2145176738].md",
+          "key": "how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738",
+          "show": "Huberman Lab",
+          "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
+          "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/dermatologicrenewalandcancerprevention/"
+    },
     "Derry": {
       "episode_count": 3,
       "show_count": 1,
@@ -103044,9 +103060,9 @@
       "url": "/wiki/concepts/proteinlanguagemodels/"
     },
     "ProteinSourceGoalMatching": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5207600786 [SCIM5207600786].md",
@@ -103061,9 +103077,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM2145176738 [SCIM2145176738].md",
+          "key": "how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738",
+          "show": "Huberman Lab",
+          "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
+          "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/proteinsourcegoalmatching/"
     },
     "ProteinSupplyChainMarketFit": {
@@ -116790,6 +116813,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/skims/"
     },
+    "SkinBarrierRoutine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2145176738 [SCIM2145176738].md",
+          "key": "how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738",
+          "show": "Huberman Lab",
+          "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
+          "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/skinbarrierroutine/"
+    },
     "SkippingPlyometricProgression": {
       "episode_count": 1,
       "show_count": 1,
@@ -125303,6 +125342,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tengyanlatehan/"
     },
+    "TeoSoleymani": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2145176738 [SCIM2145176738].md",
+          "key": "how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738",
+          "show": "Huberman Lab",
+          "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
+          "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/teosoleymani/"
+    },
     "TeodrosII": {
       "episode_count": 2,
       "show_count": 1,
@@ -129536,6 +129591,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
+    },
+    "UVExposureSkinProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2145176738 [SCIM2145176738].md",
+          "key": "how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738",
+          "show": "Huberman Lab",
+          "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
+          "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/uvexposureskinprotection/"
     },
     "UXCoffee": {
       "episode_count": 1,

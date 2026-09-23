@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani](sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738.md) — Huberman Lab interview on barrier-first skin care, UV protection, inflammatory skin disease, retinoids, lasers, surveillance, and multifactorial skin-cancer risk.
 - [一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？](sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937.md) — 声动早咖啡 episode on electric two-wheeler premiumization through practical smart features, design, youth marketing, offline service, and the margin pressure from standards, motorcycles, subsidies, and price wars.
 - [486. Henry IV: Warrior Princes and Fat Knights (Part 2)](sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611.md) — The Rest Is History episode on Shrewsbury, Prince Henry's Welsh apprenticeship, Henry IV's survival, Falstaff, Oldcastle, Lollardy, and religious ambiguity.
 - [487. Hundred Years' War: Henry V's Invasion of France (Part 1)](sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021.md) — The Rest Is History episode on France's factional collapse, Henry V's dynastic diplomacy and war preparation, Harfleur, Lancastrian risk, and the Southampton Plot.
@@ -2741,6 +2742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Teo Soleymani](entities/TeoSoleymani.md) — Dermatologist and dermatologic surgeon connecting simple barrier care, calibrated UV protection, active treatment, immune biology, and skin-cancer surveillance.
 - [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
 - [Henry Percy "Hotspur"](entities/HenryPercyHotspur.md) — Rebel noble whose failed 1403 rising and Shakespearean afterlife made him Prince Hal's remembered rival.
 - [Owain Glyndŵr](entities/OwainGlyndwr.md) — Welsh revolt leader whose sustained challenge became Prince Henry's school of command and administration.
@@ -13344,6 +13346,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Skin Barrier Routine](concepts/SkinBarrierRoutine.md) — Minimal daily-care framework for gentle cleansing, skin-type-matched moisturizing, irritant reduction, and condition-specific escalation.
+- [UV Exposure and Skin Protection](concepts/UVExposureSkinProtection.md) — Dose-sensitive framework joining burn avoidance, physical barriers, sunscreen, photoaging reduction, and multifactorial cancer risk.
+- [Dermatologic Renewal and Cancer Prevention](concepts/DermatologicRenewalAndCancerPrevention.md) — Clinical hierarchy joining prescription retinoids, resurfacing, surveillance, and bounded immune approaches.
 - [Electric Two-Wheeler Premiumization / 电动两轮车高端化](concepts/ElectricTwoWheelerPremiumization.md) — Framework joining practical smart features, design, youth identity, and offline service into a higher-price electric two-wheeler proposition.
 - [Lollardy](concepts/Lollardy.md) — Wycliffite reform movement whose persecution, rebellion, and Lancastrian connections complicate Henry V's religious profile.
 - [Story-Driven Portrait Photography / 故事型人像摄影](concepts/StoryDrivenPortraitPhotography.md) — Planned image-making method joining theme, research, casting, place, direction, contingency, and editing.

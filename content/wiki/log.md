@@ -21787,3 +21787,11 @@ Added source `vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani
+
+Added source `how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738`; created `TeoSoleymani`, `SkinBarrierRoutine`, `UVExposureSkinProtection`, and `DermatologicRenewalAndCancerPrevention`; updated `ProteinSourceGoalMatching` and the index. Core synthesis: simple barrier-preserving care and layered UV protection precede active treatment; prescription retinoids, selected resurfacing, and surveillance have stronger biologic or clinical roles but require supervision; and skin-cancer risk extends beyond sunlight to genetics, immune surveillance, HPV, and lesion site. No settled contradiction found; sunscreen chemistry, supplement mechanisms, diet, retinoid timing, laser and red-light outcomes, screening intervals, HPV attribution, and cancer-vaccine claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

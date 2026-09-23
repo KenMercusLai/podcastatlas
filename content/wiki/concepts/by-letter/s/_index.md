@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7958
+wiki_total_pages: 7961
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "Skimpflation"
     title: "Skimpflation"
     url: "/wiki/concepts/skimpflation/"
+  - key: "SkinBarrierRoutine"
+    title: "Skin Barrier Routine"
+    url: "/wiki/concepts/skinbarrierroutine/"
   - key: "SkippingPlyometricProgression"
     title: "Skipping Plyometric Progression"
     url: "/wiki/concepts/skippingplyometricprogression/"

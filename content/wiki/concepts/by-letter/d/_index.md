@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7958
+wiki_total_pages: 7961
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -446,6 +446,9 @@ wiki_pages:
   - key: "DerivativeAmplifiedVolatility"
     title: "Derivative Amplified Volatility"
     url: "/wiki/concepts/derivativeamplifiedvolatility/"
+  - key: "DermatologicRenewalAndCancerPrevention"
+    title: "Dermatologic Renewal and Cancer Prevention"
+    url: "/wiki/concepts/dermatologicrenewalandcancerprevention/"
   - key: "DesignBrandManufacturingUpgrade"
     title: "Design Brand Manufacturing Upgrade / 设计品牌化制造升级"
     url: "/wiki/concepts/designbrandmanufacturingupgrade/"
