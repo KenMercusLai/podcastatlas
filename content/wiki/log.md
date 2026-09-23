@@ -21807,6 +21807,14 @@ Ran lint. See lint-report.md for details.
 
 Added source `484-the-food-that-changed-the-world-glt2872429496`; created `JohnDickie`, `ItalianCuisineUrbanFormation`, `CulinaryTraditionMythmaking`, and `MediterraneanDietModernConstruction`; updated `CarloCollodi`, `AlIdrisi`, `ItalianFascism`, and the index. Core synthesis: Italian cuisine is historically real but formed through interacting cities, trade, courts, mass provisioning, migration, industry, and marketing rather than an unchanged peasant inheritance; pasta, pizza, and the Mediterranean diet show how documented chronology and productive origin myth diverge. No settled contradiction found; the Palermo pasta chronology, trade-association origin of the Marco Polo story, pizza Margherita document assessment, nutrition and height claims, and consumption statistics remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
 
+## [2026-09-23] ingest | VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节
+
+Added source `vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz`; created `FuRao`, `WuBin`, `ClinicalOutcomeUncertainty`, and `ClinicalTrustBuilding`; updated `DoctorPatientCommunication`, `FengYanfeiVascularSurgery`, `MaoZheTCMDoctor`, `XueDoctorZheBing`, `MaHaoning`, and the index. Core synthesis: technical success does not guarantee survival, function, recovery, or discharge; honest prognosis, multidisciplinary care, written instructions, family participation, specific encouragement, and continuity help patients and families navigate that uncertainty. No settled contradiction found; treatment effects, vaccine attribution, diagnoses, prognoses, and later outcomes remain source-scoped patient recollections rather than general medical guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

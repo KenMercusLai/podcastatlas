@@ -3,18 +3,30 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-22
-as_of_overview_commit: 322ce7d6a2c0a936e9d1a3fb566bbf5e389f6a1a
-input_digest: b76b5e8965c22642ef4489b4a5fad1933e5d31b1857763a41da4e49466d9cebb
+last_updated: 2026-09-23
+as_of_overview_commit: 7aa6a4b7e9bee499e8bd939e1c7180996238b675
+input_digest: 0fffdc53fb88ec664bf5e17fab55be24082888519dd248ccd0b0731471963a8b
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-The Anglo-Saxon Apocalypse source enters this topic only as a bounded historical judgment case: a policy can be rational against an immediate mobile threat yet become damaging through repetition, legitimacy loss, religious framing, and retaliation, while claims about Æthelred’s millennial psychology remain source-scoped. Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. Historical decision episodes add only bounded judgment cases: Hanji 1077 distinguishes a reasoned high-risk choice from hindsight that treats later success as proof of safety, while Hanji 1081 limits confidence about an unobservable counterfactual. Historical typologies and motive claims remain source-scoped, and mental-health, diagnostic, and crisis claims stay bounded to professional judgment. The Deisseroth source adds that mental-health self-interpretation must keep words and function distinct from immature biomarkers, and that altered-state possibility becomes therapeutically meaningful only through supervised evidence and integration into later life. The Gardner nutrition source adds a nonclinical behavior boundary: taste, adherence, tolerance, goals, and replacement context matter, but personal dietary response does not establish one universal prescription. The smell-and-taste Essentials episode adds a narrow state-regulation boundary: breathing phase and odor cues may affect arousal or attention, but stronger activation is not automatically safer or more effective, and human pheromone interpretations remain unsettled. Hanji 1114 adds a bounded judgment case: conspicuous austerity may become strategic performance, so self-presentation should not substitute for evidence about integrity, capability, motive, or role fit.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws.
 
 ## Cross-source Findings
+
+### Clinical Trust Requires Honest Limits And Continuity
+
+[[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
+
+**Evidence:** [[ClinicalTrustBuilding]], [[ClinicalOutcomeUncertainty]], [[DoctorPatientCommunication]], [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]]
+
+**Qualifications:**
+
+- The episode consists of selected clinician recollections rather than a validated communication protocol or representative outcome study.
+- Encouragement and family participation should support honest prognosis and patient agency, not conceal risk, promise recovery, or displace the patient.
+- Treatment effects, vaccine attribution, diagnoses, prognoses, and later outcomes remain source-scoped rather than individualized medical guidance.
 
 ### Hanji 1100 Dignity Persuasion Is Historical Not Clinical
 

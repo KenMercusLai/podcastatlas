@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-23
-as_of_overview_commit: dc7b7635a354cb899da7349935a2c7eb706e084a
+as_of_overview_commit: 7aa6a4b7e9bee499e8bd939e1c7180996238b675
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2720
-source_count: 2720
-paragraph_count: 696
+episode_count: 2725
+source_count: 2725
+paragraph_count: 697
 topic_count: 9
 ---
 
@@ -21,7 +21,7 @@ topic_count: 9
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse.
 - [[AngloSaxonStateFormation]] shows state capacity working in opposite directions: [[AlfredTheGreat]], [[Athelstan]], and [[EdgarThePeaceful]] connect defense, towns, church, coinage, identity, and enforced peace to English prosperity, while [[AethelredTheUnready]] uses the same fiscal and administrative reach for [[DanegeldEscalation|tribute]] and the coordinated [[StBricesDayMassacre|St Brice’s Day massacre]].
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]].
-- [[PsychiatryMeasurementGap]] and [[TherapeuticStateLearning]] add a personal-development boundary: interview language and functional evidence remain necessary while biomarkers are immature, and an altered experience matters only if learning transfers into ordinary life under [[PsychedelicClinicalSupervisionBoundary]].
+- [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
 - [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159]] adds a medical-aesthetic safety branch through [[LuluPlasticSurgeon]] and [[YiMeiZhiMingDrama]]: [[BotulinumToxinInjectionSafety]], [[UnapprovedMedicalAestheticProducts]], [[MedicalAestheticProviderVerification]], and [[CosmeticProcedureExpectationManagement]] make intended appearance effects conditional on verified products, qualified clinicians, suitable institutions, complete prior-treatment histories, functional costs, and proportionate goals, while generalized weakness, swallowing or breathing involvement, uncertain injectables, and high-risk requests move the decision toward qualified escalation, staging, or refusal.
 - Workplace AI adoption depends on trust, participation, and observed behavior: EP43 argues that [[InstitutionalTrustAIAdoption]], [[CognitiveDiversityAIAdoption]], [[AIAdoptionBehavioralSignals]], [[AIOverwriteRate]], and [[QuietAIAdoptionDeparture]] reveal whether tools are changing work beyond deployment activity.
 
@@ -68,10 +68,10 @@ Historical outcomes join legitimacy to material capacity, routes, logistics, com
 
 ### Psychology and Personal Development
 
-Psychological development depends on embodied regulation, relational safety, calibrated action, careful self-interpretation, and evidence boundaries.
+Psychological development depends on embodied regulation, relational safety, calibrated action, careful self-interpretation, honest limits, and evidence boundaries.
 
+- [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge. Evidence: [[ClinicalTrustBuilding]], [[ClinicalOutcomeUncertainty]], [[DoctorPatientCommunication]], [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]].
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools. Evidence: [[OverintellectualizedRelationshipAnalysis]], [[PsychologyConceptSelfPunishment]], [[PureRationalityTrap]], [[BodyBasedSelfTrust]], [[ShiDiFuShuo]], [[SteveShiDiFuShuoHost]], [[OmnipotentSelfBlame]], [[PainOrientation]], [[MentalizingProjection]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]].
-- [[SexualExplorationAsSelfKnowledge]] adds a sex-psychology branch where sexual learning works best as life-course exploration of body, shame, pleasure, relationship safety, and responsibility rather than as taboo spectacle or performance proof. Evidence: [[SexualExplorationAsSelfKnowledge]], [[LifelongSexEducation]], [[SexCounselingNonjudgmentalBoundary]], [[SexualFunctionRelationshipContext]], [[MaleEmotionalIntimacyNeed]], [[AdultProductsRelationshipSupport]], [[BodyBasedSelfTrust]], [[TherapyRelationshipAndBoundaries]], [[shi-di-fu-shuo-469-tongli-zuihaode-guanxi-shi-zai-airen-huaili-jinqing-yangw-zaox-lmq6et15-mluqyuuav7z4jpx4hcb]].
 
 ### Science, Health, and Climate
 

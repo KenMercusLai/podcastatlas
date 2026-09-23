@@ -3431,7 +3431,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 55,
+      "source_note_count": 56,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3462,9 +3462,23 @@
           "episode_count": 19
         },
         {
+          "key": "MaHaoning",
+          "title": "马浩宁 / Ma Haoning",
+          "url": "/wiki/entities/mahaoning/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "YaMengDoctor",
           "title": "亚萌 / Ya Meng",
           "url": "/wiki/entities/yamengdoctor/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
+          "key": "FengYanfeiVascularSurgery",
+          "title": "冯燕飞 / Feng Yanfei (Vascular Surgery)",
+          "url": "/wiki/entities/fengyanfeivascularsurgery/",
           "kind": "person",
           "episode_count": 3
         },
@@ -3490,23 +3504,9 @@
           "episode_count": 3
         },
         {
-          "key": "MaHaoning",
-          "title": "马浩宁 / Ma Haoning",
-          "url": "/wiki/entities/mahaoning/",
-          "kind": "person",
-          "episode_count": 3
-        },
-        {
           "key": "LuluPlasticSurgeon",
           "title": "Lulu (plastic-surgery doctor)",
           "url": "/wiki/entities/luluplasticsurgeon/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "FengYanfeiVascularSurgery",
-          "title": "冯燕飞 / Feng Yanfei (Vascular Surgery)",
-          "url": "/wiki/entities/fengyanfeivascularsurgery/",
           "kind": "person",
           "episode_count": 2
         }

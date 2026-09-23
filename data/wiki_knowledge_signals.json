@@ -23667,6 +23667,38 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/clinicalmusictherapy/"
     },
+    "ClinicalOutcomeUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/clinicaloutcomeuncertainty/"
+    },
+    "ClinicalTrustBuilding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/clinicaltrustbuilding/"
+    },
     "CloudSegmentRevenueDisclosure": {
       "episode_count": 1,
       "show_count": 1,
@@ -33434,9 +33466,9 @@
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
     "DoctorPatientCommunication": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 3,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -33458,9 +33490,16 @@
           "show": "这病说来话长",
           "title": "VOL.218韩杰医生事件后四大门诊坦白局：不对立不甩锅，医患如何联手打赢防漏诊的“排雷战”？",
           "url": "/wiki/sources/vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm/"
+        },
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DocumentaryEthicalRestraint": {
@@ -44272,9 +44311,9 @@
       "url": "/wiki/entities/fengyaneasternhan/"
     },
     "FengYanfeiVascularSurgery": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
@@ -44289,6 +44328,13 @@
           "show": "这病说来话长",
           "title": "VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！",
           "url": "/wiki/sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu/"
+        },
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
         }
       ],
       "updated": "2026-09-23",
@@ -48279,6 +48325,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/fulongeasternhan/"
+    },
+    "FuRao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/furao/"
     },
     "FuRongLateHan": {
       "episode_count": 2,
@@ -83072,9 +83134,9 @@
       "url": "/wiki/entities/magongwesternhan/"
     },
     "MaHaoning": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -83096,6 +83158,13 @@
           "show": "这病说来话长",
           "title": "VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！",
           "url": "/wiki/sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu/"
+        },
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
         }
       ],
       "updated": "2026-09-23",
@@ -84340,9 +84409,9 @@
       "url": "/wiki/entities/maoyisheng/"
     },
     "MaoZheTCMDoctor": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lnXaXyS733qZi9RkCwVGQT6uzfuR [lnXaXyS733qZi9RkCwVGQT6uzfuR].md",
@@ -84350,6 +84419,13 @@
           "show": "这病说来话长",
           "title": "VOL.154春天痒到挠心？破局“过敏劫”的生存指南",
           "url": "/wiki/sources/vol-154-chuntian-yang-dao-naoxin-poju-guomin-jie-de-shengcun-zhinan-lnxaxys733qzi9rkcwvgqt6uzfur/"
+        },
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
         }
       ],
       "updated": "2026-09-22",
@@ -137352,6 +137428,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/worldlabs/"
     },
+    "WuBin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/wubin/"
+    },
     "WuCommanderyLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -141082,9 +141174,9 @@
       "url": "/wiki/entities/xuanzang/"
     },
     "XueDoctorZheBing": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
@@ -141106,6 +141198,13 @@
           "show": "这病说来话长",
           "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
           "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        },
+        {
+          "episode_file": "liTblbACaVb9homQXO81g71oujYz [liTblbACaVb9homQXO81g71oujYz].md",
+          "key": "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz",
+          "show": "这病说来话长",
+          "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
+          "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
         }
       ],
       "updated": "2026-09-23",

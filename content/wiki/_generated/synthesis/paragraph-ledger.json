@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "5339b4a98df7bd41706f0d2e0b00827283a576eccb19532815044f668176ef47",
       "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
       "0cc621ad89b47d2c086bf51790edb215a305794961b26e7876b6aaf57d3b6fa5",
       "fd67bb8d20ab0e503043ecac624078b46f6e8817fbb2c246cfebec2ebff8caee",
@@ -698,11 +699,34 @@
       "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
       "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73"
     ],
-    "paragraph_count": 696
+    "paragraph_count": 697
   },
-  "overview_commit": "365df6e2e53aea8846f7224aa4ea7431313270ba",
-  "overview_digest": "46f49c21b30cc2603d5b3ea4a6f7ef7d2047a73d7f27c097b0315ac7e3ebc1fd",
+  "overview_commit": "7aa6a4b7e9bee499e8bd939e1c7180996238b675",
+  "overview_digest": "7a806bf5bbb58ab623e87f83afc248c8dfcfee10d80d6d889900ce12be6335da",
   "paragraphs": [
+    {
+      "id": "5339b4a98df7bd41706f0d2e0b00827283a576eccb19532815044f668176ef47",
+      "primary_topic": "psychology-and-personal-development",
+      "secondary_topics": [],
+      "text": "The newest clinical-relationship source, [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz|VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节]], adds [[FuRao|傅饶]], [[WuBin|吴宾]], [[ClinicalOutcomeUncertainty]], and [[ClinicalTrustBuilding]] while extending [[DoctorPatientCommunication]], [[FengYanfeiVascularSurgery|冯燕飞]], [[MaoZheTCMDoctor|毛哲]], [[XueDoctorZheBing|薛医生]], and [[MaHaoning|马浩宁]]. Its core synthesis is that technical success does not guarantee survival, function, recovery, or discharge, so trauma tradeoffs and difficult prognoses require honest limits as well as multidisciplinary care. Trust becomes visible through explanation, responsibility, written instructions, patient-supportive family participation, specific encouragement, referral, and continuity; none turns hope into a guaranteed outcome. No settled contradiction is recorded; the memorable cases are selected clinician recollections, and treatment effects, vaccine attribution, diagnoses, prognoses, and later outcomes remain source-scoped rather than population-level evidence or individualized medical guidance.",
+      "topic_scores": {
+        "psychology-and-personal-development": 2,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "ClinicalOutcomeUncertainty",
+        "ClinicalTrustBuilding",
+        "DoctorPatientCommunication",
+        "FengYanfeiVascularSurgery",
+        "FuRao",
+        "MaHaoning",
+        "MaoZheTCMDoctor",
+        "WuBin",
+        "XueDoctorZheBing",
+        "vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz"
+      ]
+    },
     {
       "id": "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
       "primary_topic": "governance-and-institutions",

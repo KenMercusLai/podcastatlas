@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7964
+wiki_total_pages: 7966
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1013,9 +1013,15 @@ wiki_pages:
   - key: "ClinicalMusicTherapy"
     title: "Clinical Music Therapy"
     url: "/wiki/concepts/clinicalmusictherapy/"
+  - key: "ClinicalOutcomeUncertainty"
+    title: "Clinical Outcome Uncertainty / 临床结局不确定性"
+    url: "/wiki/concepts/clinicaloutcomeuncertainty/"
   - key: "ClinicalTrialContinuity"
     title: "Clinical Trial Continuity"
     url: "/wiki/concepts/clinicaltrialcontinuity/"
+  - key: "ClinicalTrustBuilding"
+    title: "Clinical Trust Building / 临床信任建立"
+    url: "/wiki/concepts/clinicaltrustbuilding/"
   - key: "ClosedModelAPIMoatPressure"
     title: "Closed Model API Moat Pressure"
     url: "/wiki/concepts/closedmodelapimoatpressure/"

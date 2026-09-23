@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节](sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz.md) — 这病说来话长 Physicians' Day roundtable on remembered patient stories, clinical outcome uncertainty, honest prognosis, trust, family communication, and long-term follow-up.
 - [484. The Food that Changed the World](sources/484-the-food-that-changed-the-world-glt2872429496.md) — The Rest Is History episode with John Dickie on Italian cuisine as an urban network, the documented histories of pasta and pizza, modern Mediterranean-diet framing, and politically or commercially productive food myths.
 - [485. Henry IV: The Usurper King (Part 1)](sources/485-henry-iv-the-usurper-king-part-1-glt8868267122.md) — The Rest Is History episode on Henry IV's chivalric reputation, Richard II's deposition and death, elective legitimacy, Glyndŵr's revolt, and the Percy break.
 - [How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani](sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738.md) — Huberman Lab interview on barrier-first skin care, UV protection, inflammatory skin disease, retinoids, lasers, surveillance, and multifactorial skin-cancer risk.
@@ -2744,6 +2745,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [傅饶 / Fu Rao](entities/FuRao.md) — Ophthalmology-side doctor recounting delayed retinal detachment and an acute patient-crisis intervention.
+- [吴宾 / Wu Bin](entities/WuBin.md) — Oral-surgery doctor connecting early patient trust with recognition and referral of unusual adolescent oral tumors.
 - [John Dickie](entities/JohnDickie.md) — Historian of Italy presenting Italian cuisine as a city-centered, exchange-driven tradition rather than an unchanged peasant inheritance.
 - [Richard II of England](entities/RichardIIOfEngland.md) — Deposed English king whose confiscation of the Lancastrian inheritance and death made Henry IV's legitimacy crisis durable.
 - [Teo Soleymani](entities/TeoSoleymani.md) — Dermatologist and dermatologic surgeon connecting simple barrier care, calibrated UV protection, active treatment, immune biology, and skin-cancer surveillance.
@@ -13350,6 +13353,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Clinical Outcome Uncertainty / 临床结局不确定性](concepts/ClinicalOutcomeUncertainty.md) — Gap between technical intervention success and whole-patient survival, function, recovery, or discharge.
+- [Clinical Trust Building / 临床信任建立](concepts/ClinicalTrustBuilding.md) — Clinical trust made visible through explanation, responsibility, honest limits, encouragement, durable instructions, and continuity.
 - [Italian Cuisine as an Urban Network](concepts/ItalianCuisineUrbanFormation.md) — City-centered account of Italian cuisine formed through trade, courts, provisioning, poverty, reputation, and exchange.
 - [Culinary Tradition Mythmaking](concepts/CulinaryTraditionMythmaking.md) — Process by which clear origins and selective rural continuities make changing foods feel ancient, national, and authentic.
 - [Modern Construction of the Mediterranean Diet](concepts/MediterraneanDietModernConstruction.md) — Distinction between a modern health model and claims of unchanged historic Mediterranean peasant eating.
