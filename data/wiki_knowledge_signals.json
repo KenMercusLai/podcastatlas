@@ -8843,9 +8843,9 @@
       "url": "/wiki/concepts/antisemitismisraelcriticismboundary/"
     },
     "AntoineBarnave": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8447202194 [GLT8447202194].md",
@@ -8853,6 +8853,13 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
         }
       ],
       "updated": "2026-09-23",
@@ -11477,6 +11484,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/aweil/"
+    },
+    "AxelVonFersen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/axelvonfersen/"
     },
     "AxialAgeCivilizationalAwakening": {
       "episode_count": 1,
@@ -45687,9 +45710,9 @@
       "url": "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
     },
     "FlightToVarennes": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8447202194 [GLT8447202194].md",
@@ -45697,6 +45720,13 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
         }
       ],
       "updated": "2026-09-23",
@@ -47654,9 +47684,9 @@
       "url": "/wiki/concepts/frenchlinedancingculture/"
     },
     "FrenchRevolution": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -47734,6 +47764,13 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
         }
       ],
       "updated": "2026-09-23",
@@ -67035,9 +67072,9 @@
       "url": "/wiki/entities/jacobcoxon/"
     },
     "JacobinClub": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -67052,6 +67089,13 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
         }
       ],
       "updated": "2026-09-23",
@@ -67430,6 +67474,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/jealousydeescalationbyrivalprotection/"
+    },
+    "JeanBaptisteDrouet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/jeanbaptistedrouet/"
     },
     "JeanJacquesRousseau": {
       "episode_count": 4,
@@ -80933,9 +80993,9 @@
       "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -80971,9 +81031,16 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/louisxvi/"
     },
     "LouisianaPurchase": {
@@ -84951,9 +85018,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -84982,9 +85049,16 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/marieantoinette/"
     },
     "MarkCarney": {
@@ -108992,6 +109066,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/revolutionaryromanism/"
+    },
+    "RevolutionaryRuralPoliticization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3336151355 [GLT3336151355].md",
+          "key": "482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355",
+          "show": "The Rest Is History",
+          "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
+          "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/revolutionaryruralpoliticization/"
     },
     "RevolutionaryTerrorPolitics": {
       "episode_count": 4,

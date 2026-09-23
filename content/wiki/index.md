@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [482. The French Revolution: The Royal Family Escapes (Part 8)](sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355.md) — The Rest Is History episode on the Flight to Varennes, its operational failures, royal misreading of provincial France, and the local political mobilization that stopped the king.
 - [483. The Mysterious Case of the Ape Man](sources/483-the-mysterious-case-of-the-ape-man-glt8701811415.md) — The Rest Is History episode on the Piltdown Man hoax, Charles Dawson's likely authorship, expectation-matched evidence, institutional authority, and scientific correction.
 - [Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans](sources/all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393.md) — All-In interviews on Hilton's expanded California affordability platform, Pratt's election-evidence concession, and post-fire litigation, insurance, and rebuilding constraints.
 - [276.当AI给出所有答案，年轻人如何找到自己的问题？](sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t.md) — 乱翻书 episode on AI fluency, problem definition, judgment, trust, apprenticeship, and responsibility in education and early careers.
@@ -2749,6 +2750,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Axel von Fersen](entities/AxelVonFersen.md) — Swedish count who planned and personally assisted the royal family's attempted escape from Paris.
+- [Jean-Baptiste Drouet](entities/JeanBaptisteDrouet.md) — Saint-Menu postmaster whose recognition and warning helped stop the royal family at Varennes.
 - [Piltdown Man](entities/PiltdownMan.md) — Fabricated early-human composite whose acceptance joined scientific expectation, national prestige, and institutional authority.
 - [Charles Dawson](entities/CharlesDawson.md) — Sussex antiquarian presented as the overwhelmingly likely creator of the Piltdown hoax.
 - [Arthur Smith Woodward](entities/ArthurSmithWoodward.md) — Natural History Museum geologist whose reconstruction and authority validated Piltdown Man.
@@ -13360,6 +13363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Revolutionary Rural Politicization](concepts/RevolutionaryRuralPoliticization.md) — Process by which clubs, elected offices, civic forces, and shared threats made national revolution locally actionable.
 - [Expectation-Matched Scientific Fraud](concepts/ExpectationMatchedScientificFraud.md) — Fabrication engineered to satisfy the theories, ambitions, and institutional desires of its intended validators.
 - [AI Problem Definition and Responsibility / AI问题定义与责任](concepts/AIProblemDefinitionResponsibility.md) — Framework for choosing worthwhile problems, defining criteria, checking AI-assisted work, and owning its consequences.
 - [Mechanism-to-Outcome Evidence Hierarchy](concepts/MechanismOutcomeEvidenceHierarchy.md) — Framework separating biological plausibility, anecdotes, observational findings, trials, meta-analyses, and measured human outcomes.

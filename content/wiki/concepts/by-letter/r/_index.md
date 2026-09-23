@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7969
+wiki_total_pages: 7970
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "RevolutionaryRomanism"
     title: "Revolutionary Romanism"
     url: "/wiki/concepts/revolutionaryromanism/"
+  - key: "RevolutionaryRuralPoliticization"
+    title: "Revolutionary Rural Politicization"
+    url: "/wiki/concepts/revolutionaryruralpoliticization/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"

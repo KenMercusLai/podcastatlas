@@ -21471,6 +21471,10 @@ Added source `how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828`; c
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-23] ingest | 482. The French Revolution: The Royal Family Escapes (Part 8)
+
+Added source `482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355`; created `AxelVonFersen`, `JeanBaptisteDrouet`, and `RevolutionaryRuralPoliticization`; updated `FlightToVarennes`, `LouisXVI`, `MarieAntoinette`, `AntoineBarnave`, `JacobinClub`, `FrenchRevolution`, and the index. Core synthesis: the royal escape failed through a fragile large-party plan, delay, recognition, missing escorts, and a deeper political misreading of provincial France; local clubs, municipalities, National Guards, and security fears made revolutionary authority actionable at Varennes, while Louis's declaration destroyed the credibility of public cooperation and pushed monarchy toward a legitimacy crisis. No settled contradiction found; exact dialogue, timings, route details, prices, recognition scenes, private motives, and single-cause explanations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-23] ingest | 508. America in '68: Nightmare in Vietnam (Part 1)
 
 Added source `508-america-in-68-nightmare-in-vietnam-part-1-glt6375459097`; created `VietnamWarCredibilityCollapse`; updated `LyndonBJohnson`, `EugeneMcCarthy`, `UnitedStatesPresidentialElection1968`, `PrimaryDelegateLegitimacyGap`, and the index. Core synthesis: Tet was costly to Communist forces and not a conventional battlefield victory, but its surprise and contradiction of official optimism shattered Johnson's credibility; McCarthy's organized, well-funded, and ideologically broad New Hampshire protest campaign then helped turn that shock into a Democratic succession crisis. No settled contradiction found. Johnson's withdrawal remains multi-causal, while troop and casualty totals, polling, campaign spending, volunteer counts, private motives, health effects, anecdotes, and quoted conversations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21841,6 +21845,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-23] ingest | Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans-43001393`; updated `SteveHilton`, `SpencerPratt`, `CaliforniaAffordabilityGovernanceReset`, `BallotHarvestingTrustRisk`, `CaliforniaPostFireRebuildingDelay`, and the index. Core synthesis: Hilton expands his affordability campaign from a $100,000 to a $150,000 income-tax exemption and adds staffing, regulatory, energy, rail, vehicle-fee, and new-city proposals, while implementation and fiscal authority remain unresolved. Pratt distinguishes legal ballot harvesting from fake-ballot allegations and explicitly concedes he lacks evidence that fraud caused his loss; his fire account adds alleged prevention and water failures, mass-tort litigation, insurance constraints, and continued rebuilding delay. No settled contradiction found beyond the unreconciled tax-plan revision; electoral, fiscal, regulatory, fire-causation, negligence, lawsuit, reservoir, insurance, and polling claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-23] lint | Wiki health check
 
