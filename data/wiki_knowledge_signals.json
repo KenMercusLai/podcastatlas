@@ -11615,9 +11615,9 @@
       "url": "/wiki/entities/aweil/"
     },
     "AxelVonFersen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3336151355 [GLT3336151355].md",
@@ -11625,6 +11625,13 @@
           "show": "The Rest Is History",
           "title": "482. The French Revolution: The Royal Family Escapes (Part 8)",
           "url": "/wiki/sources/482-the-french-revolution-the-royal-family-escapes-part-8-glt3336151355/"
+        },
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
         }
       ],
       "updated": "2026-09-23",
@@ -48462,9 +48469,9 @@
       "url": "/wiki/entities/frenchnationalguard/"
     },
     "FrenchRevolution": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 2,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48591,6 +48598,13 @@
           "show": "The Rest Is History",
           "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
           "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        },
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
         }
       ],
       "updated": "2026-09-24",
@@ -82411,10 +82425,26 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/louisoforleans/"
     },
-    "LouisXVI": {
-      "episode_count": 11,
+    "LouisXV": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/louisxv/"
+    },
+    "LouisXVI": {
+      "episode_count": 12,
+      "show_count": 1,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -82492,6 +82522,13 @@
           "show": "The Rest Is History",
           "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
           "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        },
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
         }
       ],
       "updated": "2026-09-24",
@@ -86446,6 +86483,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/marialeopoldina/"
     },
+    "MariaTheresa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/mariatheresa/"
+    },
     "MariaTheresaTaler": {
       "episode_count": 1,
       "show_count": 1,
@@ -86479,9 +86532,9 @@
       "url": "/wiki/entities/marianne/"
     },
     "MarieAntoinette": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT8301042051 [GLT8301042051].md",
@@ -86531,6 +86584,13 @@
           "show": "The Rest Is History",
           "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
           "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        },
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
         }
       ],
       "updated": "2026-09-24",
@@ -100856,6 +100916,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/peterthegreat/"
     },
+    "PetitTrianon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/petittrianon/"
+    },
     "PetitionRewardLoyaltySignal": {
       "episode_count": 1,
       "show_count": 1,
@@ -112804,6 +112880,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/rootcauseremonstrance/"
     },
+    "RoseBertin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/rosebertin/"
+    },
     "RotatorCuffExternalRotation": {
       "episode_count": 1,
       "show_count": 1,
@@ -114652,9 +114744,9 @@
       "url": "/wiki/entities/saxonyanhalt/"
     },
     "ScandalPlausibilityLegitimacyDamage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9914208350 [GLT9914208350].md",
@@ -114662,6 +114754,13 @@
           "show": "The Rest Is History",
           "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
           "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
+        },
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
         }
       ],
       "updated": "2026-09-24",
@@ -134159,6 +134258,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
+    },
+    "Versailles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3119389535 [GLT3119389535].md",
+          "key": "475-the-french-revolution-marie-antoinette-part-1-glt3119389535",
+          "show": "The Rest Is History",
+          "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+          "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/versailles/"
     },
     "VerticalIntegrationForDataColdStart": {
       "episode_count": 1,

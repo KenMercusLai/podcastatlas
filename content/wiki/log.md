@@ -21996,3 +21996,7 @@ Added source `supplements-for-longevity-their-efficacy-dr-peter-attia-scim711059
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 475. The French Revolution: Marie Antoinette (Part 1)
+
+Added source `475-the-french-revolution-marie-antoinette-part-1-glt3119389535`; created `MariaTheresa`, `LouisXV`, `Versailles`, `PetitTrianon`, and `RoseBertin`; updated `MarieAntoinette`, `LouisXVI`, `AxelVonFersen`, `FrenchRevolution`, `ScandalPlausibilityLegitimacyDamage`, and the index. Core synthesis: Marie Antoinette's Austrian identity, resistance to Versailles etiquette, private circle, sentimental retreat, and fashion leadership gave her visible agency but also made personal conduct politically legible; court factions converted that ambiguity into sexual, financial, and anti-Austrian rumor before the necklace scandal and revolutionary crisis. No settled contradiction found: early rumor does not establish the alleged affairs, "let them eat cake" is rejected, and later documented royal duplicity does not retroactively validate false pre-revolutionary claims. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.

@@ -926,14 +926,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 125,
-      "topic_matched_source_note_count": 124,
+      "source_note_count": 126,
+      "topic_matched_source_note_count": 125,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 122
+          "source_note_count": 123
         },
         {
           "key": "politics",
@@ -960,7 +960,14 @@
           "title": "Louis XVI",
           "url": "/wiki/entities/louisxvi/",
           "kind": "person",
-          "episode_count": 11
+          "episode_count": 12
+        },
+        {
+          "key": "MarieAntoinette",
+          "title": "Marie Antoinette",
+          "url": "/wiki/entities/marieantoinette/",
+          "kind": "person",
+          "episode_count": 8
         },
         {
           "key": "MaximilienRobespierre",
@@ -973,13 +980,6 @@
           "key": "ElizabethI",
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
-          "kind": "person",
-          "episode_count": 7
-        },
-        {
-          "key": "MarieAntoinette",
-          "title": "Marie Antoinette",
-          "url": "/wiki/entities/marieantoinette/",
           "kind": "person",
           "episode_count": 7
         },

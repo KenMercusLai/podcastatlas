@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "PeterWason"
     title: "Peter Wason / 彼得·沃森"
     url: "/wiki/entities/peterwason/"
+  - key: "PetitTrianon"
+    title: "Petit Trianon"
+    url: "/wiki/entities/petittrianon/"
   - key: "PetrCech"
     title: "Petr Cech"
     url: "/wiki/entities/petrcech/"

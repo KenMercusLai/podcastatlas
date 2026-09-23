@@ -14,6 +14,7 @@ sources:
   - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
   - 477-the-french-revolution-the-violence-begins-part-3-glt6535380991
   - 476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350
+  - 475-the-french-revolution-marie-antoinette-part-1-glt3119389535
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-24
 ---
@@ -22,23 +23,27 @@ last_updated: 2026-09-24
 
 ## Overview
 
-Louis XVI was the Bourbon king whose reputation was first seriously weakened by the public handling of the [[DiamondNecklaceAffair|Diamond Necklace Affair]], whose later constitutional and wartime choices accelerated the monarchy's collapse, and whose trial and execution tested whether the new French Republic could coexist with a living former monarch.
+Louis XVI was the Bourbon king whose dutiful but uncharismatic early profile and marriage to [[MarieAntoinette|Marie Antoinette]] preceded serious reputational damage from the [[DiamondNecklaceAffair|Diamond Necklace Affair]]. His later constitutional and wartime choices accelerated the monarchy's collapse, and his trial and execution tested whether the new French Republic could coexist with a living former monarch.
 
 ## Current Profile
 
-The sources present Louis as a mild, religious, reform-minded, and indecisive monarch who repeatedly offered partial accommodation without resolving the sovereignty conflict, then as prisoner, accused individual, and political symbol. Before the fiscal showdown, the [[DiamondNecklaceAffair|Diamond Necklace Affair]] made his public arrest of [[CardinalDeRohan|Rohan]] look despotic to hostile audiences and exposed him to sexualized claims of weakness as attacks on [[MarieAntoinette|Marie Antoinette]] spread to the crown. His authority was less absolute in practice than its label suggested: taxation and edicts depended on privileged courts, offices, customs, and local institutions. He dismissed Turgot and [[CharlesAlexandreDeCalonne|Calonne]] under pressure, backed [[EtienneCharlesDeLomenieDeBrienne|Brienne]]'s coercive court reform, and finally promised the [[EstatesGeneral1789|Estates-General]] when credit collapsed. Calling it widened participation, but court hierarchy, the unresolved voting rule, his warning against innovation, and his rejection of the [[NationalAssembly1789|National Assembly]] left the crown without a credible constitutional settlement. Grief after his young son's death and divided advice form part of the explanation for delay, but the decisive political fact was his retreat: he did not disperse the deputies after the 23 June royal session and ordered the estates to unite on 27 June. His later dismissal of [[JacquesNecker|Necker]], post-Bastille accommodation, October Days, Church conflict, [[FlightToVarennes|Varennes]], foreign appeals, wartime vetoes, imprisonment, trial, execution, and rival martyr memory completed the collapse of constitutional trust.
+The sources present Louis as a mild, religious, reform-minded, and indecisive monarch who repeatedly offered partial accommodation without resolving the sovereignty conflict, then as prisoner, accused individual, and political symbol. His early profile contrasts with Marie Antoinette's social and musical style: he preferred hunting, maps, naval matters, instruments, and lock-making, appeared dutiful but unimpressive, and did not take a mistress. Their marriage took seven years to consummate, making private sexual difficulty and the need for heirs matters of state; eventual parenthood and fidelity did not prevent hostile audiences from treating him as weak or inadequate. Before the fiscal showdown, the [[DiamondNecklaceAffair|Diamond Necklace Affair]] made his public arrest of [[CardinalDeRohan|Rohan]] look despotic and let attacks on Marie Antoinette spread to the crown. His authority was less absolute in practice than its label suggested: taxation and edicts depended on privileged courts, offices, customs, and local institutions. He dismissed Turgot and [[CharlesAlexandreDeCalonne|Calonne]] under pressure, backed [[EtienneCharlesDeLomenieDeBrienne|Brienne]]'s coercive court reform, and finally promised the [[EstatesGeneral1789|Estates-General]] when credit collapsed. Calling it widened participation, but court hierarchy, the unresolved voting rule, his warning against innovation, and his rejection of the [[NationalAssembly1789|National Assembly]] left the crown without a credible constitutional settlement. Grief after his young son's death and divided advice form part of the explanation for delay, but the decisive political fact was his retreat: he did not disperse the deputies after the 23 June royal session and ordered the estates to unite on 27 June. His later dismissal of [[JacquesNecker|Necker]], post-Bastille accommodation, October Days, Church conflict, [[FlightToVarennes|Varennes]], foreign appeals, wartime vetoes, imprisonment, trial, execution, and rival martyr memory completed the collapse of constitutional trust.
 
 ## Key Characteristics
 
+- His dutiful, technically curious, faithful, and mild early profile was accompanied by low charisma and a marriage whose delayed consummation became a public question of dynasty and masculinity.
 - The necklace scandal made his use of arrest and the Bastille vulnerable to a despotism narrative before repeated reform retreats and bankruptcy forced him to call the Estates-General.
 - He rejected the National Assembly yet declined to enforce dispersal and then ordered the estates to unite, exposing the crown's loss of initiative.
 - Necker's dismissal accelerated the Paris crisis, while troop withdrawal and acceptance of the tricolour showed further tactical accommodation after coercive control failed.
 - Varennes, his declaration against the revolutionary settlement, and later foreign appeals made his constitutional professions less credible.
-- He remained personally composed during the 20 June invasion but could not recover political trust.
-- The 10 August insurrection forced him to seek Assembly protection and led to suspension and Temple imprisonment.
+- He remained personally composed during the 20 June invasion but could not recover political trust, and the 10 August insurrection forced him to seek Assembly protection before suspension and Temple imprisonment.
 - Imprisonment shifted the legal debate from constitutional removal to natural-law punishment and claims that kingship itself made him an enemy.
 
 ## Evidence
+
+### Early kingship and marriage
+
+- [[475-the-french-revolution-marie-antoinette-part-1-glt3119389535]] describes his interests, temperament, fidelity, delayed consummation, eventual children, and accession after [[LouisXV|Louis XV]]'s death.
 
 ### Pre-revolutionary reputation damage
 
@@ -88,12 +93,13 @@ The sources present Louis as a mild, religious, reform-minded, and indecisive mo
 - His 23 June reform package was substantial in some respects, but it preserved estate distinctions and rejected the Assembly's sovereign claim.
 - Describing him as mild, depressed, eager to be loved, or unable to sustain confrontation is source interpretation rather than direct access to private motive.
 - Criticism of the scandal's public handling does not establish that Louis knew the arrest and open trial would produce their later political effects.
+- The source's explanations of the marriage's delayed consummation and Louis's private temperament remain interpretive and do not establish a medical diagnosis.
 
 ## What Changed
 
-- The profile now locates serious reputational damage in the Diamond Necklace Affair before the 1786-1789 fiscal and constitutional crisis.
-- It distinguishes the queen's innocence in the fraud from the political cost of Louis's public arrest and resort to Bastille confinement.
-- The longer arc still distinguishes pre-revolutionary image damage from later evidence that made royal constitutional good faith implausible.
+- Backfilled his early interests, fidelity, marital difficulty, parenthood, and accession in 1774.
+- Added the way dynastic reproduction and royal masculinity turned private marriage into public legitimacy.
+- Preserved the distinction between early character interpretation, scandal-era image damage, and later evidence that made royal constitutional good faith implausible.
 
 ## Relationships
 
@@ -102,6 +108,9 @@ The sources present Louis as a mild, religious, reform-minded, and indecisive mo
 - [[NationalAssembly1789]] - sovereign claimant he rejected before ordering the privileged estates to join it.
 - [[TennisCourtOath]] - constitutional commitment formed while the crown prepared its royal session.
 - [[StormingOfTheBastille]] - regime-breaking event after which Louis withdrew troops and accepted the tricolour.
+- [[MarieAntoinette]] - wife whose dynastic marriage, public image, and later political choices were inseparable from his reign.
+- [[LouisXV]] - grandfather and predecessor whose death brought the young couple to the throne.
+- [[Versailles]] - court system in which the marriage and early reign were publicly performed.
 
 - [[OctoberDays1789]] - crisis that compelled his acceptance of revolutionary measures and relocation to Paris.
 - [[ConstitutionalMonarchyVetoConflict]] - institutional dispute in which his delaying power became politically destructive.

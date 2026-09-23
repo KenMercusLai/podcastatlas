@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [475. The French Revolution: Marie Antoinette (Part 1)](sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535.md) — The Rest Is History episode on Marie Antoinette's Austrian identity, Versailles role conflict, personal fashion, court rumor, and pre-revolutionary monarchical image damage.
 - [Supplements for Longevity & Their Efficacy | Dr. Peter Attia](sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668.md) — Huberman Lab conversation separating NAD, NR, NMN, sirtuin, and resveratrol mechanisms from meaningful healthspan or lifespan evidence.
 - [476. The French Revolution: The Diamond Necklace Scandal (Part 2)](sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350.md) — The Rest Is History episode on expectation-matched fraud, open-trial publicity, gendered slander, and pre-revolutionary damage to royal legitimacy.
 - [477. The French Revolution: The Violence Begins (Part 3)](sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991.md) — The Rest Is History episode on debt, tax privilege, failed reform, elite constitutional language, Grenoble's Day of the Tiles, Vizille, and the 1788 bankruptcy crisis.
@@ -2768,6 +2769,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 
 ## Entities
+- [Maria Theresa](entities/MariaTheresa.md) — Habsburg ruler whose dynastic diplomacy made Marie Antoinette's French marriage politically consequential.
+- [Louis XV](entities/LouisXV.md) — Bourbon king whose late court framed Marie Antoinette's arrival and the young royal couple's accession.
+- [Versailles](entities/Versailles.md) — Royal palace and court system where hierarchy, surveillance, and factional gossip shaped monarchical image.
+- [Petit Trianon](entities/PetitTrianon.md) — Marie Antoinette's private retreat and a politically ambiguous symbol of simplicity, intimacy, and privilege.
+- [Rose Bertin](entities/RoseBertin.md) — Dressmaker whose collaboration with Marie Antoinette made personal fashion part of royal image-making.
 - [Interventions Testing Program](entities/InterventionsTestingProgram.md) — Mouse-longevity project used as a rigorous preclinical filter for candidate lifespan interventions.
 - [Jeanne de la Motte](entities/JeanneDeLaMotte.md) — Principal confidence trickster in the Diamond Necklace Affair and later author of anti-queen slander.
 - [Cardinal de Rohan](entities/CardinalDeRohan.md) — Deceived intermediary whose desire for royal favor, arrest, and acquittal magnified the necklace scandal.
@@ -13423,7 +13429,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
-- [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which expectation-matched false allegations can weaken an institution even after the underlying fraud is exposed.
+- [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors and expectation-matched false allegations can weaken an institution despite the target's factual innocence.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
 - [Cold Exposure Dose and Safety](concepts/ColdExposureDoseAndSafety.md) — Minimum-effective-dose cold framework with explicit immersion, breathwork, hypothermia, and cardiovascular safety gates.

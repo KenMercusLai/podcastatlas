@@ -1107,6 +1107,10 @@
     "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
     "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
   },
+  "475-the-french-revolution-marie-antoinette-part-1-glt3119389535": {
+    "title": "475. The French Revolution: Marie Antoinette (Part 1)",
+    "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+  },
   "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350": {
     "title": "476. The French Revolution: The Diamond Necklace Scandal (Part 2)",
     "url": "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"
@@ -40811,6 +40815,10 @@
     "title": "Louis of Orléans",
     "url": "/wiki/entities/louisoforleans/"
   },
+  "LouisXV": {
+    "title": "Louis XV",
+    "url": "/wiki/entities/louisxv/"
+  },
   "LouisXVI": {
     "title": "Louis XVI",
     "url": "/wiki/entities/louisxvi/"
@@ -42462,6 +42470,10 @@
   "MariaStGeorges": {
     "title": "Maria / 玛利亚（圣乔治学校）",
     "url": "/wiki/entities/mariastgeorges/"
+  },
+  "MariaTheresa": {
+    "title": "Maria Theresa",
+    "url": "/wiki/entities/mariatheresa/"
   },
   "MariaTheresaTaler": {
     "title": "Maria Theresa Taler",
@@ -50367,6 +50379,10 @@
     "title": "Peter Wason / 彼得·沃森",
     "url": "/wiki/entities/peterwason/"
   },
+  "PetitTrianon": {
+    "title": "Petit Trianon",
+    "url": "/wiki/entities/petittrianon/"
+  },
   "PetitionRewardLoyaltySignal": {
     "title": "巧奏取封式忠诚信号 / Petition-Reward Loyalty Signal",
     "url": "/wiki/concepts/petitionrewardloyaltysignal/"
@@ -56614,6 +56630,10 @@
   "Rorschach": {
     "title": "罗夏 / Rorschach",
     "url": "/wiki/entities/rorschach/"
+  },
+  "RoseBertin": {
+    "title": "Rose Bertin",
+    "url": "/wiki/entities/rosebertin/"
   },
   "RosettaStone": {
     "title": "Rosetta Stone / 罗塞塔石碑",
@@ -67966,6 +67986,10 @@
   "VeronicaPrice": {
     "title": "Veronica Price / 维罗尼卡·普莱斯",
     "url": "/wiki/entities/veronicaprice/"
+  },
+  "Versailles": {
+    "title": "Versailles",
+    "url": "/wiki/entities/versailles/"
   },
   "VerticalAgentSaaSification": {
     "title": "Vertical Agent SaaSification",

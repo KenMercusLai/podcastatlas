@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1961
+topic_total_pages: 1962
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "475-the-french-revolution-marie-antoinette-part-1-glt3119389535"
+    title: "475. The French Revolution: Marie Antoinette (Part 1)"
+    url: "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
   - key: "476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350"
     title: "476. The French Revolution: The Diamond Necklace Scandal (Part 2)"
     url: "/wiki/sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350/"

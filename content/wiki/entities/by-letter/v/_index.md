@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 10644
+wiki_total_pages: 10649
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "VeronicaPrice"
     title: "Veronica Price / 维罗尼卡·普莱斯"
     url: "/wiki/entities/veronicaprice/"
+  - key: "Versailles"
+    title: "Versailles"
+    url: "/wiki/entities/versailles/"
   - key: "VerticalGroup"
     title: "Vertical Group"
     url: "/wiki/entities/verticalgroup/"
