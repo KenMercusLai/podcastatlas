@@ -22032,3 +22032,11 @@ Added source `female-specific-exercise-nutrition-for-health-performance-longevit
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 472. The Road to The Great War: Britain's Fateful Choice (Part 4)
+
+Added source `472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157`; created `EyreCrowe` and `BritishForeignPolicyAmbiguity1914`; updated `EdwardGrey`, `HHAsquith`, `JulyCrisis`, `KaiserWilhelmII`, `AustriaHungary`, and the index. Core synthesis: Britain's public freedom from a formal continental obligation coexisted with private French expectations, imperial alignment, and strategic fear; that ambiguity gave Grey room to mediate but weakened deterrent clarity, while Serbia's conciliatory yet qualified reply gave Austria-Hungary grounds to break relations without amounting to simple acceptance. No settled contradiction found. An explicit British warning might have deterred or hardened Berlin and Vienna, Serbia's reservations do not alone justify general war, and the episode's British-facing counterfactuals remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

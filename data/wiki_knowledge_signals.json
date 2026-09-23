@@ -11043,9 +11043,9 @@
       "url": "/wiki/concepts/australiantherapeuticgoodsregulation/"
     },
     "AustriaHungary": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11074,6 +11074,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
         }
       ],
       "updated": "2026-09-24",
@@ -16019,6 +16026,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/britishecreferendum1975/"
+    },
+    "BritishForeignPolicyAmbiguity1914": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/britishforeignpolicyambiguity1914/"
     },
     "BritishMediaExclusionOnlineAmplification": {
       "episode_count": 1,
@@ -37431,9 +37454,9 @@
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EdwardGrey": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -37448,6 +37471,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
         }
       ],
       "updated": "2026-09-24",
@@ -43028,6 +43058,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/eyedropselfmedicationrisk/"
+    },
+    "EyreCrowe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/eyrecrowe/"
     },
     "FIFAWomensWorldCup": {
       "episode_count": 1,
@@ -56046,9 +56092,9 @@
       "url": "/wiki/entities/handhgroup/"
     },
     "HHAsquith": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -56063,6 +56109,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
         }
       ],
       "updated": "2026-09-24",
@@ -71634,9 +71687,9 @@
       "url": "/wiki/entities/juliuskurfgen/"
     },
     "JulyCrisis": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -71651,6 +71704,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
         }
       ],
       "updated": "2026-09-24",
@@ -71834,9 +71894,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -71865,6 +71925,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT6983892157 [GLT6983892157].md",
+          "key": "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157",
+          "show": "The Rest Is History",
+          "title": "472. The Road to The Great War: Britain's Fateful Choice (Part 4)",
+          "url": "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
         }
       ],
       "updated": "2026-09-24",

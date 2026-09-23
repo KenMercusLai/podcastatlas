@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [472. The Road to The Great War: Britain's Fateful Choice (Part 4)](sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157.md) — The Rest Is History episode on Britain's ambiguous commitments, Grey's failed mediation, Crowe's intervention logic, and Serbia's qualified reply to Austria-Hungary.
 - [473. The Road to The Great War: The Tsar Chooses War (Part 5)](sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845.md) — The Rest Is History episode on failed July Crisis off-ramps, Austria-Hungary's war on Serbia, royal diplomacy, and Russia's general-mobilisation decision.
 - [474. The Road to The Great War: The Lights Go Out (Part 6)](sources/474-the-road-to-the-great-war-the-lights-go-out-part-6-glt2293540702.md) — The Rest Is History episode on Russian mobilisation, German operational rigidity, Britain's divided cabinet, Belgian neutrality, and the emotional foreknowledge of European war.
 - [475. The French Revolution: Marie Antoinette (Part 1)](sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535.md) — The Rest Is History episode on Marie Antoinette's Austrian identity, Versailles role conflict, personal fashion, court rumor, and pre-revolutionary monarchical image damage.
@@ -2775,8 +2776,9 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [Nicholas II](entities/NicholasII.md) — Russian tsar whose hesitation and eventual approval of general mobilisation marked a decisive July Crisis threshold.
 - [Helmuth von Moltke the Younger](entities/HelmuthVonMoltkeTheYounger.md) — German chief of staff whose strategic fatalism made delay appear more dangerous than preparation.
-- [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who joined French obligation, Channel strategy, Belgian independence, honour, and reputation into the case for intervention.
-- [H. H. Asquith](entities/HHAsquith.md) — British prime minister who managed a divided Liberal cabinet through the final decision for war.
+- [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who moved from ambiguous French expectations and failed mediation to the case for intervention.
+- [H. H. Asquith](entities/HHAsquith.md) — British prime minister who moved from spectator hopes through cabinet division to the final decision for war.
+- [Eyre Crowe](entities/EyreCrowe.md) — British Foreign Office official who argued that neutrality would leave Britain strategically isolated whichever coalition won.
 - [Maria Theresa](entities/MariaTheresa.md) — Habsburg ruler whose dynastic diplomacy made Marie Antoinette's French marriage politically consequential.
 - [Louis XV](entities/LouisXV.md) — Bourbon king whose late court framed Marie Antoinette's arrival and the young royal couple's accession.
 - [Versailles](entities/Versailles.md) — Royal palace and court system where hierarchy, surveillance, and factional gossip shaped monarchical image.
@@ -13438,7 +13440,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 
 ## Concepts
-- [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which mobilisation, perceived obligation, strategic fear, miscommunication, and political choice opened general European war.
+- [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which ultimatum diplomacy, qualified compliance, mobilisation, strategic fear, and political choice opened general European war.
+- [British Foreign-Policy Ambiguity in 1914](concepts/BritishForeignPolicyAmbiguity1914.md) — Gap between formal non-obligation and private, naval, imperial, and strategic expectations shaping Britain's choice.
 - [Mobilisation-Diplomacy Escalation Trap](concepts/MobilisationDiplomacyEscalationTrap.md) — Feedback in which military preparation alters rival threat perception and shrinks diplomatic reversibility.
 - [Scandal Plausibility and Legitimacy Damage](concepts/ScandalPlausibilityLegitimacyDamage.md) — Process by which hostile priors and expectation-matched false allegations can weaken an institution despite the target's factual innocence.
 - [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.

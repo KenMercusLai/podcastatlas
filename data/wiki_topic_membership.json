@@ -1710,6 +1710,18 @@
       "url": "/topics/science/"
     }
   ],
+  "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845": [
     {
       "key": "history",
@@ -13582,6 +13594,18 @@
     }
   ],
   "BritishECReferendum1975": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishForeignPolicyAmbiguity1914": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",
@@ -26614,6 +26638,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "EyreCrowe": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "EyuBattle": [

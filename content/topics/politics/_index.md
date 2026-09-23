@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2661
+topic_total_pages: 2664
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -463,6 +463,9 @@ topic_concepts:
   - key: "BritishECReferendum1975"
     title: "British EC Referendum 1975"
     url: "/wiki/concepts/britishecreferendum1975/"
+  - key: "BritishForeignPolicyAmbiguity1914"
+    title: "British Foreign-Policy Ambiguity in 1914"
+    url: "/wiki/concepts/britishforeignpolicyambiguity1914/"
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
@@ -4982,6 +4985,9 @@ topic_entities:
   - key: "EvaPeron"
     title: "Eva Perón"
     url: "/wiki/entities/evaperon/"
+  - key: "EyreCrowe"
+    title: "Eyre Crowe"
+    url: "/wiki/entities/eyrecrowe/"
   - key: "EzraPound"
     title: "Ezra Pound"
     url: "/wiki/entities/ezrapound/"
@@ -7086,6 +7092,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157"
+    title: "472. The Road to The Great War: Britain's Fateful Choice (Part 4)"
+    url: "/wiki/sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157/"
   - key: "473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845"
     title: "473. The Road to The Great War: The Tsar Chooses War (Part 5)"
     url: "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
