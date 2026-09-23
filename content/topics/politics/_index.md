@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2654
+topic_total_pages: 2655
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5351,6 +5351,9 @@ topic_entities:
   - key: "JeanJacquesRousseau"
     title: "Jean-Jacques Rousseau / 卢梭"
     url: "/wiki/entities/jeanjacquesrousseau/"
+  - key: "JeanJosephMounier"
+    title: "Jean-Joseph Mounier"
+    url: "/wiki/entities/jeanjosephmounier/"
   - key: "JeanLucMelenchon"
     title: "Jean-Luc Melenchon"
     url: "/wiki/entities/jeanlucmelenchon/"

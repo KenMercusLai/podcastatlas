@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10635
+wiki_total_pages: 10640
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "JeanJacquesRousseau"
     title: "Jean-Jacques Rousseau / 卢梭"
     url: "/wiki/entities/jeanjacquesrousseau/"
+  - key: "JeanJosephMounier"
+    title: "Jean-Joseph Mounier"
+    url: "/wiki/entities/jeanjosephmounier/"
   - key: "JeanLucMelenchon"
     title: "Jean-Luc Melenchon"
     url: "/wiki/entities/jeanlucmelenchon/"

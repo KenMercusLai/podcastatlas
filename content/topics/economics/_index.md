@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2084
+topic_total_pages: 2086
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3476,6 +3476,9 @@ topic_entities:
   - key: "ChangpengZhao"
     title: "Changpeng Zhao / 赵长鹏"
     url: "/wiki/entities/changpengzhao/"
+  - key: "CharlesAlexandreDeCalonne"
+    title: "Charles Alexandre de Calonne"
+    url: "/wiki/entities/charlesalexandredecalonne/"
   - key: "CharlesEMitchell"
     title: "Charles E. Mitchell / 查理·米切尔"
     url: "/wiki/entities/charlesemitchell/"
@@ -3734,6 +3737,9 @@ topic_entities:
   - key: "EthanWu"
     title: "Ethan Wu"
     url: "/wiki/entities/ethanwu/"
+  - key: "EtienneCharlesDeLomenieDeBrienne"
+    title: "Etienne Charles de Lomenie de Brienne"
+    url: "/wiki/entities/etiennecharlesdelomeniedebrienne/"
   - key: "EugeneFama"
     title: "Eugene Fama"
     url: "/wiki/entities/eugenefama/"

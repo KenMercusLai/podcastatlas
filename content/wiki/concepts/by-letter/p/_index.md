@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8006
+wiki_total_pages: 8007
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1475,6 +1475,9 @@ wiki_pages:
   - key: "PrivateeringPlausibleDeniability"
     title: "Privateering Plausible Deniability"
     url: "/wiki/concepts/privateeringplausibledeniability/"
+  - key: "PrivilegeReformLegitimacyTrap"
+    title: "Privilege Reform Legitimacy Trap"
+    url: "/wiki/concepts/privilegereformlegitimacytrap/"
   - key: "ProContractorRetailStrategy"
     title: "Pro Contractor Retail Strategy"
     url: "/wiki/concepts/procontractorretailstrategy/"

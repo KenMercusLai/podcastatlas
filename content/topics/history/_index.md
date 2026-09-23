@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1959
+topic_total_pages: 1960
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "477-the-french-revolution-the-violence-begins-part-3-glt6535380991"
+    title: "477. The French Revolution: The Violence Begins (Part 3)"
+    url: "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
   - key: "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126"
     title: "478. The French Revolution: Showdown in Versailles (Part 4)"
     url: "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"

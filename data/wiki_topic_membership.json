@@ -1710,6 +1710,13 @@
       "url": "/topics/science/"
     }
   ],
+  "477-the-french-revolution-the-violence-begins-part-3-glt6535380991": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126": [
     {
       "key": "history",
@@ -15431,6 +15438,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CharlesAlexandreDeCalonne": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CharlesDarwin": [
     {
       "key": "science",
@@ -25892,6 +25906,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EtienneCharlesDeLomenieDeBrienne": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "EuclideanProofTraining": [
@@ -39011,6 +39032,13 @@
     }
   ],
   "JeanJacquesRousseau": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "JeanJosephMounier": [
     {
       "key": "politics",
       "label": "Politics",

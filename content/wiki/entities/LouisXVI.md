@@ -12,6 +12,7 @@ sources:
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
   - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
   - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
+  - 477-the-french-revolution-the-violence-begins-part-3-glt6535380991
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-24
 ---
@@ -24,11 +25,11 @@ Louis XVI was the Bourbon king whose wartime constitutional choices accelerated 
 
 ## Current Profile
 
-The sources present Louis as a religious and indecisive monarch who repeatedly offered partial accommodation without resolving the sovereignty conflict, then as prisoner, accused individual, and political symbol. Calling the [[EstatesGeneral1789|Estates-General]] widened participation, but court hierarchy, the unresolved voting rule, his warning against innovation, and his rejection of the [[NationalAssembly1789|National Assembly]] left the crown without a credible constitutional settlement. Grief after his young son's death and divided advice form part of the episode's explanation for delay, but the decisive political fact was his retreat: he did not disperse the deputies after the 23 June royal session and ordered the estates to unite on 27 June. His subsequent dismissal of [[JacquesNecker|Jacques Necker]] was interpreted as preparation for repression; after the [[StormingOfTheBastille|Bastille's fall]] he withdrew troops and accepted the tricolour cockade, acknowledging the crown's loss of initiative. His later delay over the August decrees, the [[OctoberDays1789|October Days]], Church conflict, [[FlightToVarennes|Varennes]], foreign appeals, wartime vetoes, and hope for restoration then destroyed constitutional trust before the Tuileries insurrection, imprisonment, trial, de-royalization, execution, and rival martyr memory.
+The sources present Louis as a mild, religious, reform-minded, and indecisive monarch who repeatedly offered partial accommodation without resolving the sovereignty conflict, then as prisoner, accused individual, and political symbol. His authority was less absolute in practice than its label suggested: taxation and edicts depended on privileged courts, offices, customs, and local institutions. He dismissed Turgot and [[CharlesAlexandreDeCalonne|Calonne]] under pressure, backed [[EtienneCharlesDeLomenieDeBrienne|Brienne]]'s coercive court reform, and finally promised the [[EstatesGeneral1789|Estates-General]] when credit collapsed. Calling it widened participation, but court hierarchy, the unresolved voting rule, his warning against innovation, and his rejection of the [[NationalAssembly1789|National Assembly]] left the crown without a credible constitutional settlement. Grief after his young son's death and divided advice form part of the explanation for delay, but the decisive political fact was his retreat: he did not disperse the deputies after the 23 June royal session and ordered the estates to unite on 27 June. His later dismissal of [[JacquesNecker|Necker]], post-Bastille accommodation, October Days, Church conflict, [[FlightToVarennes|Varennes]], foreign appeals, wartime vetoes, imprisonment, trial, execution, and rival martyr memory completed the collapse of constitutional trust.
 
 ## Key Characteristics
 
-- Calling the Estates-General opened reform, but unresolved procedure and hierarchical ceremony let representation become a sovereignty crisis.
+- Repeated dismissal or retreat under elite pressure weakened reform before bankruptcy forced him to call the Estates-General.
 - He rejected the National Assembly yet declined to enforce dispersal and then ordered the estates to unite, exposing the crown's loss of initiative.
 - Necker's dismissal accelerated the Paris crisis, while troop withdrawal and acceptance of the tricolour showed further tactical accommodation after coercive control failed.
 - Varennes, his declaration against the revolutionary settlement, and later foreign appeals made his constitutional professions less credible.
@@ -40,6 +41,7 @@ The sources present Louis as a religious and indecisive monarch who repeatedly o
 
 ### Constitutional crisis and suspension
 
+- [[477-the-french-revolution-the-violence-begins-part-3-glt6535380991]] connects Louis's constrained authority, ministerial reversals, parlementary and provincial resistance, the Estates-General promise, and bankruptcy.
 - [[478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126]] connects the Estates-General's unresolved design, the death of Louis's son, divided advice, rejection of the National Assembly, non-enforcement after Mirabeau's defiance, union of the estates, troop movement, and Necker's dismissal.
 - [[479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441]] connects Necker's dismissal, the Paris uprising, troop withdrawal, Louis's unguarded Assembly address, and acceptance of the tricolour cockade.
 - [[481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254]] connects the veto settlement, his qualified response to revolutionary measures, bread promises, forced acceptance, and transfer to Paris.
@@ -79,14 +81,15 @@ The sources present Louis as a religious and indecisive monarch who repeatedly o
 - His post-Bastille accommodation may reflect prudence, weakness, or temporary compromise; the source does not establish his private intention.
 - The episode's use of grief and habitual indecision is interpretive; personal loss cannot by itself explain institutional failure or establish Louis's private intentions.
 - His 23 June reform package was substantial in some respects, but it preserved estate distinctions and rejected the Assembly's sovereign claim.
+- Describing him as mild, depressed, eager to be loved, or unable to sustain confrontation is source interpretation rather than direct access to private motive.
 
 ## What Changed
 
-- The profile now begins with the Estates-General design and June sovereignty confrontation rather than Necker's dismissal.
+- The profile now begins with the pre-1789 limits on royal authority and repeated failure to sustain reform.
+- Bankruptcy and the Estates-General promise now bridge ministerial crisis to the June sovereignty confrontation.
 - Louis's 23-27 June retreat now supplies the first clear loss of political initiative before the Bastille crisis.
 - Personal grief and indecision remain contextual explanations rather than substitutes for institutional analysis.
-- Necker's dismissal now appears as an attempted reversal after royal concession had already failed to restore control.
-- The longer arc still distinguishes lawful constitutional powers from the later evidence that made royal good faith implausible.
+- The longer arc still distinguishes character judgments and lawful powers from evidence that later made royal good faith implausible.
 
 ## Relationships
 
@@ -110,3 +113,4 @@ The sources present Louis as a religious and indecisive monarch who repeatedly o
 - [[FlightToVarennes]] - failed escape that exposed his rejection of the revolutionary settlement.
 - [[RevolutionaryRuralPoliticization]] - provincial political capacity his escape plan underestimated.
 - [[AntoineBarnave]] - constitutional monarchist who tried to preserve his crown after the flight.
+- [[PrivilegeReformLegitimacyTrap]] - fiscal and constitutional conflict that made reform politically self-undermining.

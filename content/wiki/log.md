@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | 477. The French Revolution: The Violence Begins (Part 3)
+
+Added source `477-the-french-revolution-the-violence-begins-part-3-glt6535380991`; created `CharlesAlexandreDeCalonne`, `EtienneCharlesDeLomenieDeBrienne`, `JeanJosephMounier`, `DayOfTheTiles`, `AssemblyOfVizille`, and `PrivilegeReformLegitimacyTrap`; migrated and updated `RevolutionaryVirtuePolitics`; and updated `FrenchRevolution`, `LouisXVI`, `JacquesNecker`, `EstatesGeneral1789`, `RevolutionaryCrisisConvergence`, and the index. Core synthesis: war debt and privilege-bound taxation made fiscal reform a legitimacy conflict; ministers and elite opponents publicized liberty, nation, citizens, consent, patriotism, and sacrifice; and coercive court reform helped that language escape elite control through Grenoble, Vizille, bankruptcy, and the unresolved promise of the Estates-General. No settled contradiction found; the source extends Part 4 backward, while Grenoble as the Revolution's beginning, fiscal figures, private motives, and claims about the later implications of pre-1789 rhetoric remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | 478. The French Revolution: Showdown in Versailles (Part 4)
 
 Added source `478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126`; created `EmmanuelJosephSieyes`, `HonoreGabrielRiquetiDeMirabeau`, `EstatesGeneral1789`, `NationalAssembly1789`, `TennisCourtOath`, `ReveillonRiot`, and `RevolutionaryCrisisConvergence`; and updated `FrenchRevolution`, `JacquesNecker`, `LouisXVI`, `MaximilienRobespierre`, `RevolutionaryHungerStreetMobilization`, and index. Core synthesis: environmental disaster, food and employment distress, fiscal breakdown, raised expectations, unresolved voting procedure, pamphlet politics, political spectacle, and coercive fear converged into a sovereignty break, while genuine relief and reform efforts remained too partial to restore control. No settled contradiction found; the source extends the Bastille sequence backward, and prices, unemployment shares, riot deaths, dialogue, private motives, and character judgments remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21956,6 +21960,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | EP 50: Evolution of Enterprise Data Engineering in Gen AI Era
 
 Added source `ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era`; created `SasankAkkinappoli`, `IBMDataStage`, `Dbt`, `EnterpriseDataModernization`, `DataPipelineCICD`, and `AIReadyDataEngineering`; updated `Databricks`, `Snowflake`, and the index. Core synthesis: enterprise data modernization is not a code relocation exercise; it must preserve business logic while improving freshness, governance, traceability, semantic correctness, and rollback safety, and those controls become more important when AI agents consume the resulting data. No settled contradiction found. The hourly inventory example is near-real-time rather than instantaneous, product comparisons remain workload-fit heuristics, and autonomous operations are prospective rather than demonstrated. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

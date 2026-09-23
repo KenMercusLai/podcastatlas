@@ -10068,6 +10068,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/assassinationaccesscredential/"
     },
+    "AssemblyOfVizille": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/assemblyofvizille/"
+    },
     "AssetAllocationActionGuide": {
       "episode_count": 3,
       "show_count": 1,
@@ -20150,6 +20166,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/charismaticpoliticalmartyrdom/"
+    },
+    "CharlesAlexandreDeCalonne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/charlesalexandredecalonne/"
     },
     "CharlesDawson": {
       "episode_count": 1,
@@ -31130,6 +31162,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/daynightlightimmunesupport/"
     },
+    "DayOfTheTiles": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/dayofthetiles/"
+    },
     "DaymondJohn": {
       "episode_count": 1,
       "show_count": 1,
@@ -41806,9 +41854,9 @@
       "url": "/wiki/concepts/establishedheirreplacementrisk/"
     },
     "EstatesGeneral1789": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4803391126 [GLT4803391126].md",
@@ -41816,6 +41864,13 @@
           "show": "The Rest Is History",
           "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
           "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        },
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
         }
       ],
       "updated": "2026-09-24",
@@ -41868,6 +41923,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/ethicaltriageunderscarcity/"
+    },
+    "EtienneCharlesDeLomenieDeBrienne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/etiennecharlesdelomeniedebrienne/"
     },
     "EugeneMcCarthy": {
       "episode_count": 2,
@@ -48359,9 +48430,9 @@
       "url": "/wiki/entities/frenchnationalguard/"
     },
     "FrenchRevolution": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 2,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48474,6 +48545,13 @@
           "show": "The Rest Is History",
           "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
           "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        },
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
         }
       ],
       "updated": "2026-09-24",
@@ -68204,9 +68282,9 @@
       "url": "/wiki/entities/jacqueslouisdavid/"
     },
     "JacquesNecker": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5485693441 [GLT5485693441].md",
@@ -68221,6 +68299,13 @@
           "show": "The Rest Is History",
           "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
           "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        },
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
         }
       ],
       "updated": "2026-09-24",
@@ -68606,6 +68691,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/jeanjacquesrousseau/"
+    },
+    "JeanJosephMounier": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/jeanjosephmounier/"
     },
     "JeanLucMelenchon": {
       "episode_count": 2,
@@ -82240,9 +82341,9 @@
       "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -82306,6 +82407,13 @@
           "show": "The Rest Is History",
           "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
           "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        },
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
         }
       ],
       "updated": "2026-09-24",
@@ -104504,6 +104612,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/privateretainernetworkrisk/"
     },
+    "PrivilegeReformLegitimacyTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/privilegereformlegitimacytrap/"
+    },
     "ProContractorRetailStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -110467,9 +110591,9 @@
       "url": "/wiki/concepts/revolutionarychurchstaterupture/"
     },
     "RevolutionaryCrisisConvergence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4803391126 [GLT4803391126].md",
@@ -110477,6 +110601,13 @@
           "show": "The Rest Is History",
           "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
           "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        },
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
         }
       ],
       "updated": "2026-09-24",
@@ -110761,6 +110892,29 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/revolutionarytribunal/"
+    },
+    "RevolutionaryVirtuePolitics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
+          "key": "125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516",
+          "show": "蜜獾吃书",
+          "title": "125. 马拉之死：卑鄙的暗杀，或正义的处决？",
+          "url": "/wiki/sources/125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516/"
+        },
+        {
+          "episode_file": "GLT6535380991 [GLT6535380991].md",
+          "key": "477-the-french-revolution-the-violence-begins-part-3-glt6535380991",
+          "show": "The Rest Is History",
+          "title": "477. The French Revolution: The Violence Begins (Part 3)",
+          "url": "/wiki/sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/revolutionaryvirtuepolitics/"
     },
     "RewardFitnessRisk": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10635
+wiki_total_pages: 10640
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1373,6 +1373,9 @@ wiki_pages:
   - key: "Assam"
     title: "Assam"
     url: "/wiki/entities/assam/"
+  - key: "AssemblyOfVizille"
+    title: "Assembly of Vizille"
+    url: "/wiki/entities/assemblyofvizille/"
   - key: "AstraZeneca"
     title: "AstraZeneca / 阿斯利康"
     url: "/wiki/entities/astrazeneca/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10635
+wiki_total_pages: 10640
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "DawonKahng"
     title: "Dawon Kahng / 姜大元"
     url: "/wiki/entities/dawonkahng/"
+  - key: "DayOfTheTiles"
+    title: "Day of the Tiles"
+    url: "/wiki/entities/dayofthetiles/"
   - key: "DaymondJohn"
     title: "Daymond John"
     url: "/wiki/entities/daymondjohn/"

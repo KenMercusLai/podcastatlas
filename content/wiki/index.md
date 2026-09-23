@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [477. The French Revolution: The Violence Begins (Part 3)](sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991.md) — The Rest Is History episode on debt, tax privilege, failed reform, elite constitutional language, Grenoble's Day of the Tiles, Vizille, and the 1788 bankruptcy crisis.
 - [478. The French Revolution: Showdown in Versailles (Part 4)](sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126.md) — The Rest Is History episode on the 1788-1789 convergent crisis, Estates-General deadlock, National Assembly, Tennis Court Oath, royal retreat, and Necker's dismissal.
 - [AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More](sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235.md) — Huberman Lab subscriber AMA on layered skin care, cold-exposure safety, internal accountability, REM sleep, school learning design, shilajit evidence, writing, and addiction recovery.
 - [EP 50: Evolution of Enterprise Data Engineering in Gen AI Era](sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era.md) — Data Science With Sam episode with Sasank Akkinappoli on legacy ETL modernization, Databricks/Snowflake/dbt workload fit, operational data freshness, governance, data CI/CD, and AI-ready data engineering.
@@ -2764,6 +2765,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The beauty industry is betting big on AI](sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128.md) — Marketplace Tech episode on conversational beauty advice, virtual try-ons, generative-engine optimization, medical and biometric risk, and consumer reluctance to delegate checkout.
 
 ## Entities
+- [Charles Alexandre de Calonne](entities/CharlesAlexandreDeCalonne.md) — Finance minister whose tax reforms and public appeal turned insolvency into a national legitimacy conflict.
+- [Etienne Charles de Lomenie de Brienne](entities/EtienneCharlesDeLomenieDeBrienne.md) — Finance minister whose court reforms, provincial resistance, and bankruptcy announcement preceded the Estates-General.
+- [Jean-Joseph Mounier](entities/JeanJosephMounier.md) — Grenoble judge who converted the Day of the Tiles aftermath into the representative program of Vizille.
+- [Day of the Tiles](entities/DayOfTheTiles.md) — June 1788 Grenoble uprising where parlementary resistance became mass urban conflict.
+- [Assembly of Vizille](entities/AssemblyOfVizille.md) — July 1788 meeting demanding elections, Third Estate parity, and single-chamber deliberation.
 - [Emmanuel-Joseph Sieyes](entities/EmmanuelJosephSieyes.md) — Cleric and pamphleteer who recast the Third Estate as the French nation.
 - [Estates-General of 1789](entities/EstatesGeneral1789.md) — Royal assembly whose unresolved verification and voting rules became a sovereignty crisis.
 - [Honore-Gabriel Riqueti, comte de Mirabeau](entities/HonoreGabrielRiquetiDeMirabeau.md) — Noble Third Estate deputy whose oratory dramatized resistance to royal dispersal.
@@ -13410,6 +13416,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Privilege Reform Legitimacy Trap](concepts/PrivilegeReformLegitimacyTrap.md) — Mechanism by which necessary reform, lawful privilege defence, publicity, and coercion widen a fiscal dispute into a sovereignty crisis.
 - [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
 - [Cold Exposure Dose and Safety](concepts/ColdExposureDoseAndSafety.md) — Minimum-effective-dose cold framework with explicit immersion, breathwork, hypothermia, and cardiovascular safety gates.
 - [Internal Accountability Loop](concepts/InternalAccountabilityLoop.md) — Written commitment, distraction control, task completion, sign-off, and effort-centered reward as a closed action cycle.
