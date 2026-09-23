@@ -57938,9 +57938,9 @@
       "url": "/wiki/entities/henryiofengland/"
     },
     "HenryIVOfEngland": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7554933021 [GLT7554933021].md",
@@ -57955,6 +57955,13 @@
           "show": "The Rest Is History",
           "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
           "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        },
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
         }
       ],
       "updated": "2026-09-23",
@@ -58000,9 +58007,9 @@
       "url": "/wiki/entities/henrymortonstanley/"
     },
     "HenryPercyHotspur": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8391310611 [GLT8391310611].md",
@@ -58010,6 +58017,13 @@
           "show": "The Rest Is History",
           "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
           "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        },
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
         }
       ],
       "updated": "2026-09-23",
@@ -58032,9 +58046,9 @@
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryVOfEngland": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -58070,6 +58084,13 @@
           "show": "The Rest Is History",
           "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
           "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        },
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
         }
       ],
       "updated": "2026-09-23",
@@ -72402,9 +72423,9 @@
       "url": "/wiki/entities/lambdalabs/"
     },
     "LancastrianLegitimacy": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -72433,6 +72454,13 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
         }
       ],
       "updated": "2026-09-23",
@@ -95820,9 +95848,9 @@
       "url": "/wiki/concepts/overseaswarehouseinventoryrisk/"
     },
     "OwainGlyndwr": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8391310611 [GLT8391310611].md",
@@ -95830,6 +95858,13 @@
           "show": "The Rest Is History",
           "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
           "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        },
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
         }
       ],
       "updated": "2026-09-23",
@@ -108634,6 +108669,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/richardiiiplay/"
     },
+    "RichardIIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/richardiiofengland/"
+    },
     "RichardJDaley": {
       "episode_count": 1,
       "show_count": 1,
@@ -113880,9 +113931,9 @@
       "url": "/wiki/entities/shakespeareandcompany/"
     },
     "ShakespeareHistoryPlayPoliticalMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lthQTLI5T6jSfN38mjTITZpOq3Oo [lthQTLI5T6jSfN38mjTITZpOq3Oo].md",
@@ -113897,6 +113948,13 @@
           "show": "The Rest Is History",
           "title": "489. Hundred Years' War: Bloodbath at Agincourt (Part 3)",
           "url": "/wiki/sources/489-hundred-years-war-bloodbath-at-agincourt-part-3-glt5834061192/"
+        },
+        {
+          "episode_file": "GLT8868267122 [GLT8868267122].md",
+          "key": "485-henry-iv-the-usurper-king-part-1-glt8868267122",
+          "show": "The Rest Is History",
+          "title": "485. Henry IV: The Usurper King (Part 1)",
+          "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
         }
       ],
       "updated": "2026-09-23",

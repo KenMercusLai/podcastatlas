@@ -21795,3 +21795,11 @@ Added source `how-to-improve-protect-your-skin-health-appearance-dr-teo-soleyman
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 485. Henry IV: The Usurper King (Part 1)
+
+Added source `485-henry-iv-the-usurper-king-part-1-glt8868267122`; created `RichardIIOfEngland`; updated `HenryIVOfEngland`, `HenryPercyHotspur`, `OwainGlyndwr`, `HenryVOfEngland`, `LancastrianLegitimacy`, `ShakespeareHistoryPlayPoliticalMemory`, and the index. Core synthesis: Henry's defense of confiscated inheritance became a partly elective kingship supported by property protection and public approval, but Richard II's death made regicide a persistent vulnerability; discriminatory law and punitive backlash widened Glyndŵr's revolt, while money, command, ransom, prisoners, and Mortimer ties fractured the Percy alliance. No settled contradiction found; succession rules, election, responsibility for Richard's death, atrocity stories, supernatural claims, and individual motives remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

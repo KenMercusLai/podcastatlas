@@ -919,14 +919,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 115,
-      "topic_matched_source_note_count": 114,
+      "source_note_count": 116,
+      "topic_matched_source_note_count": 115,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 112
+          "source_note_count": 113
         },
         {
           "key": "politics",
@@ -970,6 +970,13 @@
           "episode_count": 6
         },
         {
+          "key": "HenryVOfEngland",
+          "title": "Henry V of England",
+          "url": "/wiki/entities/henryvofengland/",
+          "kind": "person",
+          "episode_count": 6
+        },
+        {
           "key": "PhilipII",
           "title": "Philip II of Spain",
           "url": "/wiki/entities/philipii/",
@@ -987,13 +994,6 @@
           "key": "HaroldGodwinson",
           "title": "Harold Godwinson",
           "url": "/wiki/entities/haroldgodwinson/",
-          "kind": "person",
-          "episode_count": 5
-        },
-        {
-          "key": "HenryVOfEngland",
-          "title": "Henry V of England",
-          "url": "/wiki/entities/henryvofengland/",
           "kind": "person",
           "episode_count": 5
         },

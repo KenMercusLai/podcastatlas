@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [485. Henry IV: The Usurper King (Part 1)](sources/485-henry-iv-the-usurper-king-part-1-glt8868267122.md) — The Rest Is History episode on Henry IV's chivalric reputation, Richard II's deposition and death, elective legitimacy, Glyndŵr's revolt, and the Percy break.
 - [How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani](sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738.md) — Huberman Lab interview on barrier-first skin care, UV protection, inflammatory skin disease, retinoids, lasers, surveillance, and multifactorial skin-cancer risk.
 - [一辆「小电驴」卖到三四千元，小牛、九号如何实现电动两轮车高端化？](sources/yiliang-xiaodianlv-maidao-san-siqian-yuan-xiaoniu-jiuhao-ruhe-shixian-diandong-lianglunche-gaoduanhua-1017641937.md) — 声动早咖啡 episode on electric two-wheeler premiumization through practical smart features, design, youth marketing, offline service, and the margin pressure from standards, motorcycles, subsidies, and price wars.
 - [486. Henry IV: Warrior Princes and Fat Knights (Part 2)](sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611.md) — The Rest Is History episode on Shrewsbury, Prince Henry's Welsh apprenticeship, Henry IV's survival, Falstaff, Oldcastle, Lollardy, and religious ambiguity.
@@ -2742,6 +2743,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
+- [Richard II of England](entities/RichardIIOfEngland.md) — Deposed English king whose confiscation of the Lancastrian inheritance and death made Henry IV's legitimacy crisis durable.
 - [Teo Soleymani](entities/TeoSoleymani.md) — Dermatologist and dermatologic surgeon connecting simple barrier care, calibrated UV protection, active treatment, immune biology, and skin-cancer surveillance.
 - [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
 - [Henry Percy "Hotspur"](entities/HenryPercyHotspur.md) — Rebel noble whose failed 1403 rising and Shakespearean afterlife made him Prince Hal's remembered rival.
@@ -13369,7 +13371,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Trust Reciprocity Loop](concepts/TrustReciprocityLoop.md) — Feedback process through which trust or guardedness changes counterpart behavior and the evidence available for future belief.
 - [Perceived Polarization Gap](concepts/PerceivedPolarizationGap.md) — Difference between imagined rival extremity and representative evidence about political attitudes, hostility, and violence support.
 - [Armagnac-Burgundian Civil War](concepts/ArmagnacBurgundianCivilWar.md) — French factional struggle that fragmented resistance, enabled English expansion, and culminated in post-Montereau realignment.
-- [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process by which Agincourt converted military success, providential ritual, and national symbolism into dynastic stability.
+- [Lancastrian Legitimacy](concepts/LancastrianLegitimacy.md) — Process from disputed deposition, election, and regicide burden through military survival to Agincourt's dynastic stabilization.
 - [Anglo-French Dual Monarchy](concepts/AngloFrenchDualMonarchy.md) — Intended union of separate English and French kingdoms under one hereditary crown after Troyes.
 - [Lifecycle Oral Health Prevention / 全生命周期口腔预防](concepts/LifecycleOralHealthPrevention.md) — Age-sensitive framework joining daily hygiene, diet, developmental review, professional prevention, and timely restoration.
 - [Oral-Care Product Treatment Boundary / 口腔护理产品治疗边界](concepts/OralCareProductTreatmentBoundary.md) — Boundary separating supportive hygiene products from cure, regeneration, infection-treatment, or permanent-repair claims.

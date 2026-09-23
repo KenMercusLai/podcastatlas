@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1951
+topic_total_pages: 1952
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4569,6 +4569,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "485-henry-iv-the-usurper-king-part-1-glt8868267122"
+    title: "485. Henry IV: The Usurper King (Part 1)"
+    url: "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
   - key: "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611"
     title: "486. Henry IV: Warrior Princes and Fat Knights (Part 2)"
     url: "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
