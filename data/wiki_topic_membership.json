@@ -5620,6 +5620,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AIReadyDataEngineering": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIRealityVerificationTax": [
     {
       "key": "technology",
@@ -25415,6 +25422,13 @@
     }
   ],
   "EnterpriseDataActivation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "EnterpriseDataModernization": [
     {
       "key": "technology",
       "label": "Technology",
@@ -62306,6 +62320,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SasankAkkinappoli": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SashaNauta": [
     {
       "key": "politics",
@@ -83768,6 +83789,13 @@
     }
   ],
   "ep-5-implementation-of-data-science-in-cybersecurity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era": [
     {
       "key": "technology",
       "label": "Technology",

@@ -3470,6 +3470,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/airoifork/"
     },
+    "AIReadyDataEngineering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/aireadydataengineering/"
+    },
     "AIRegulatoryCaptureRisk": {
       "episode_count": 6,
       "show_count": 2,
@@ -30579,6 +30595,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/dataoperationalization/"
     },
+    "DataPipelineCICD": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/datapipelinecicd/"
+    },
     "DataReady": {
       "episode_count": 1,
       "show_count": 1,
@@ -30789,6 +30821,43 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/datateamasbusinesspartner/"
+    },
+    "Databricks": {
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up [42513830].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source？, Trump Accounts [42041390].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"
+        },
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/databricks/"
     },
     "DatingAppMarketplaceDynamics": {
       "episode_count": 2,
@@ -31053,6 +31122,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/daymondjohn/"
+    },
+    "Dbt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/dbt/"
     },
     "DeRoyalizationRitual": {
       "episode_count": 1,
@@ -41191,6 +41276,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/enterpriseconnectorcontextquality/"
+    },
+    "EnterpriseDataModernization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/enterprisedatamodernization/"
     },
     "EnterpriseInternalEmailInfrastructure": {
       "episode_count": 1,
@@ -64201,6 +64302,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
+    },
+    "IBMDataStage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/ibmdatastage/"
     },
     "IFSPartsModel": {
       "episode_count": 1,
@@ -113915,6 +114032,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/sardis/"
     },
+    "SasankAkkinappoli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/sasankakkinappoli/"
+    },
     "SaturnBird": {
       "episode_count": 1,
       "show_count": 1,
@@ -119621,6 +119754,29 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/snowpeak/"
+    },
+    "Snowflake": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "TSR-YCOffsite-KasishGupta-v1-AudioOnly [TSR-YCOffsite-KasishGupta-v1-AudioOnly].md",
+          "key": "tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly",
+          "show": "The Social Radars",
+          "title": "Founder Mode: Kashish Gupta, Founder and co-CEO of Hightouch",
+          "url": "/wiki/sources/tsr-ycoffsite-kasishgupta-v1-audioonly-tsr-ycoffsite-kasishgupta-v1-audioonly/"
+        },
+        {
+          "episode_file": "4d1e8e91-dc72-5aa2-a3db-908d1ddbf395 [4d1e8e91-dc72-5aa2-a3db-908d1ddbf395.mp3？session_id=87f4fccf-c92f-53ac-9f91-021c9c.com⧸data-science-with-sam-podcast⧸2026_09_21_02_36_59_3a2d1f18-5e20-4913-8020-e0e857ab626e].md",
+          "key": "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era",
+          "show": "Data Science With Sam",
+          "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+          "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/snowflake/"
     },
     "SnowflakeCortexAnalyst": {
       "episode_count": 1,

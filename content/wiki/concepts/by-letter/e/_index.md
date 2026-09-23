@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7998
+wiki_total_pages: 8001
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "EnterpriseDataActivation"
     title: "Enterprise Data Activation"
     url: "/wiki/concepts/enterprisedataactivation/"
+  - key: "EnterpriseDataModernization"
+    title: "Enterprise Data Modernization"
+    url: "/wiki/concepts/enterprisedatamodernization/"
   - key: "EnterpriseDatabaseLockIn"
     title: "Enterprise Database Lock-In"
     url: "/wiki/concepts/enterprisedatabaselockin/"

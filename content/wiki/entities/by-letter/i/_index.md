@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10626
+wiki_total_pages: 10629
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "IBM"
     title: "IBM"
     url: "/wiki/entities/ibm/"
+  - key: "IBMDataStage"
+    title: "IBM DataStage"
+    url: "/wiki/entities/ibmdatastage/"
   - key: "IbrahimAlmohanna"
     title: "Ibrahim Almohanna"
     url: "/wiki/entities/ibrahimalmohanna/"

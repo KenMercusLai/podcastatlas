@@ -3043,6 +3043,10 @@
     "title": "AI Ranking Reinforcement",
     "url": "/wiki/concepts/airankingreinforcement/"
   },
+  "AIReadyDataEngineering": {
+    "title": "AI-Ready Data Engineering",
+    "url": "/wiki/concepts/aireadydataengineering/"
+  },
   "AIRealityVerificationTax": {
     "title": "AI Reality Verification Tax",
     "url": "/wiki/concepts/airealityverificationtax/"
@@ -17439,6 +17443,10 @@
     "title": "Data Operationalization",
     "url": "/wiki/concepts/dataoperationalization/"
   },
+  "DataPipelineCICD": {
+    "title": "Data Pipeline CI/CD",
+    "url": "/wiki/concepts/datapipelinecicd/"
+  },
   "DataPortabilityAndSustainableTools": {
     "title": "Data Portability And Sustainable Tools",
     "url": "/wiki/concepts/dataportabilityandsustainabletools/"
@@ -17694,6 +17702,10 @@
   "DazexiangUprising": {
     "title": "大泽乡起义 / Dazexiang Uprising",
     "url": "/wiki/entities/dazexianguprising/"
+  },
+  "Dbt": {
+    "title": "dbt",
+    "url": "/wiki/entities/dbt/"
   },
   "DeFactoSuperLeagueLogic": {
     "title": "De Facto Super League Logic",
@@ -21658,6 +21670,10 @@
   "EnterpriseDataActivation": {
     "title": "Enterprise Data Activation",
     "url": "/wiki/concepts/enterprisedataactivation/"
+  },
+  "EnterpriseDataModernization": {
+    "title": "Enterprise Data Modernization",
+    "url": "/wiki/concepts/enterprisedatamodernization/"
   },
   "EnterpriseDatabaseLockIn": {
     "title": "Enterprise Database Lock-In",
@@ -31914,6 +31930,10 @@
   "IBM": {
     "title": "IBM",
     "url": "/wiki/entities/ibm/"
+  },
+  "IBMDataStage": {
+    "title": "IBM DataStage",
+    "url": "/wiki/entities/ibmdatastage/"
   },
   "ICEInvestor": {
     "title": "ICE",
@@ -57467,6 +57487,10 @@
     "title": "猿蟹合战 / Saru Kani Gassen",
     "url": "/wiki/entities/sarukanigassen/"
   },
+  "SasankAkkinappoli": {
+    "title": "Sasank Akkinappoli",
+    "url": "/wiki/entities/sasankakkinappoli/"
+  },
   "SashaNauta": {
     "title": "Sasha Nauta",
     "url": "/wiki/entities/sashanauta/"
@@ -77454,6 +77478,10 @@
   "ep-5-implementation-of-data-science-in-cybersecurity": {
     "title": "EP 5: Implementation of Data Science in Cybersecurity",
     "url": "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"
+  },
+  "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era": {
+    "title": "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era",
+    "url": "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
   },
   "ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252": {
     "title": "Ep 59. 2026 Agent 编程新趋势",

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3129
+topic_total_pages: 3133
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1072,6 +1072,9 @@ topic_concepts:
   - key: "AINativeYouthResearch"
     title: "AI-Native Youth Research"
     url: "/wiki/concepts/ainativeyouthresearch/"
+  - key: "AIReadyDataEngineering"
+    title: "AI-Ready Data Engineering"
+    url: "/wiki/concepts/aireadydataengineering/"
   - key: "AIWrittenJournalism"
     title: "AI-Written Journalism"
     url: "/wiki/concepts/aiwrittenjournalism/"
@@ -1978,6 +1981,9 @@ topic_concepts:
   - key: "EnterpriseDataActivation"
     title: "Enterprise Data Activation"
     url: "/wiki/concepts/enterprisedataactivation/"
+  - key: "EnterpriseDataModernization"
+    title: "Enterprise Data Modernization"
+    url: "/wiki/concepts/enterprisedatamodernization/"
   - key: "EnterpriseDatabaseLockIn"
     title: "Enterprise Database Lock-In"
     url: "/wiki/concepts/enterprisedatabaselockin/"
@@ -6797,6 +6803,9 @@ topic_entities:
   - key: "SarahFriar"
     title: "Sarah Friar"
     url: "/wiki/entities/sarahfriar/"
+  - key: "SasankAkkinappoli"
+    title: "Sasank Akkinappoli"
+    url: "/wiki/entities/sasankakkinappoli/"
   - key: "SatishVangala"
     title: "Satish Vangala"
     url: "/wiki/entities/satishvangala/"
@@ -8553,6 +8562,9 @@ topic_sources:
   - key: "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing"
     title: "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing"
     url: "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
+  - key: "ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era"
+    title: "EP 50: Evolution of Enterprise Data Engineering in Gen AI Era"
+    url: "/wiki/sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era/"
   - key: "ep-5-implementation-of-data-science-in-cybersecurity"
     title: "EP 5: Implementation of Data Science in Cybersecurity"
     url: "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"

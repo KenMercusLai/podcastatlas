@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7998
+wiki_total_pages: 8001
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "DataOperationalization"
     title: "Data Operationalization"
     url: "/wiki/concepts/dataoperationalization/"
+  - key: "DataPipelineCICD"
+    title: "Data Pipeline CI/CD"
+    url: "/wiki/concepts/datapipelinecicd/"
   - key: "DataPortabilityAndSustainableTools"
     title: "Data Portability And Sustainable Tools"
     url: "/wiki/concepts/dataportabilityandsustainabletools/"

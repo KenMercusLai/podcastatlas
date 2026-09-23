@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7998
+wiki_total_pages: 8001
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "AINativeYouthResearch"
     title: "AI-Native Youth Research"
     url: "/wiki/concepts/ainativeyouthresearch/"
+  - key: "AIReadyDataEngineering"
+    title: "AI-Ready Data Engineering"
+    url: "/wiki/concepts/aireadydataengineering/"
   - key: "AIWrittenJournalism"
     title: "AI-Written Journalism"
     url: "/wiki/concepts/aiwrittenjournalism/"
