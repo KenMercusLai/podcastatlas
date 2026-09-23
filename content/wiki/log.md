@@ -21988,3 +21988,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Supplements for Longevity & Their Efficacy | Dr. Peter Attia
+
+Added source `supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668`; created `InterventionsTestingProgram`; updated `PeterAttia`, `NADTherapyEvidenceBoundary`, `MechanismOutcomeEvidenceHierarchy`, and the index. Core synthesis: NAD's essential biology, tissue decline, precursor delivery, subjective response, and biomarker movement do not establish human healthspan or lifespan benefit; negative reported NR and resveratrol mouse-longevity results, null or endpoint-limited human studies, and target-tissue uncertainty strengthen the skeptical boundary, while a non-melanoma skin-cancer signal remains worthy of replication. No settled contradiction found; the episode qualifies earlier favorable NAD anecdotes without proving every route or indication ineffective, and all medication, supplement, dose, radiation, biological-age, skin-cancer, and self-experiment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

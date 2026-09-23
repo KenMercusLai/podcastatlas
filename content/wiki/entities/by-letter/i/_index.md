@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10643
+wiki_total_pages: 10644
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "Interpositive"
     title: "Interpositive"
     url: "/wiki/entities/interpositive/"
+  - key: "InterventionsTestingProgram"
+    title: "Interventions Testing Program"
+    url: "/wiki/entities/interventionstestingprogram/"
   - key: "Inuit"
     title: "Inuit"
     url: "/wiki/entities/inuit/"

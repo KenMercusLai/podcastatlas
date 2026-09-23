@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Supplements for Longevity & Their Efficacy | Dr. Peter Attia](sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668.md) — Huberman Lab conversation separating NAD, NR, NMN, sirtuin, and resveratrol mechanisms from meaningful healthspan or lifespan evidence.
 - [476. The French Revolution: The Diamond Necklace Scandal (Part 2)](sources/476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350.md) — The Rest Is History episode on expectation-matched fraud, open-trial publicity, gendered slander, and pre-revolutionary damage to royal legitimacy.
 - [477. The French Revolution: The Violence Begins (Part 3)](sources/477-the-french-revolution-the-violence-begins-part-3-glt6535380991.md) — The Rest Is History episode on debt, tax privilege, failed reform, elite constitutional language, Grenoble's Day of the Tiles, Vizille, and the 1788 bankruptcy crisis.
 - [478. The French Revolution: Showdown in Versailles (Part 4)](sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126.md) — The Rest Is History episode on the 1788-1789 convergent crisis, Estates-General deadlock, National Assembly, Tennis Court Oath, royal retreat, and Necker's dismissal.
@@ -2767,6 +2768,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 
 ## Entities
+- [Interventions Testing Program](entities/InterventionsTestingProgram.md) — Mouse-longevity project used as a rigorous preclinical filter for candidate lifespan interventions.
 - [Jeanne de la Motte](entities/JeanneDeLaMotte.md) — Principal confidence trickster in the Diamond Necklace Affair and later author of anti-queen slander.
 - [Cardinal de Rohan](entities/CardinalDeRohan.md) — Deceived intermediary whose desire for royal favor, arrest, and acquittal magnified the necklace scandal.
 - [Diamond Necklace Affair](entities/DiamondNecklaceAffair.md) — Fraud and public trial that damaged Bourbon legitimacy despite Marie Antoinette's innocence in the transaction.

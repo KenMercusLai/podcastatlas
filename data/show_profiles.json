@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "SCIM7025523715 [SCIM7025523715].md",
-      "source_note_count": 99,
+      "source_note_count": 100,
       "topic_matched_source_note_count": 60,
       "topics": [
         {
@@ -543,6 +543,13 @@
           "episode_count": 2
         },
         {
+          "key": "PeterAttia",
+          "title": "Peter Attia",
+          "url": "/wiki/entities/peterattia/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "UniversityOfCaliforniaSanFrancisco",
           "title": "University of California San Francisco",
           "url": "/wiki/entities/universityofcaliforniasanfrancisco/",
@@ -554,13 +561,6 @@
           "title": "Wim Hof",
           "url": "/wiki/entities/wimhof/",
           "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "YaleCenterForEmotionalIntelligence",
-          "title": "Yale Center for Emotional Intelligence",
-          "url": "/wiki/entities/yalecenterforemotionalintelligence/",
-          "kind": "organization",
           "episode_count": 2
         }
       ],

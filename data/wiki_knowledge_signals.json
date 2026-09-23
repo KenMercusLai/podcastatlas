@@ -67019,6 +67019,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/interventionalultrasoundsafety/"
     },
+    "InterventionsTestingProgram": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7110594668 [SCIM7110594668].md",
+          "key": "supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668",
+          "show": "Huberman Lab",
+          "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
+          "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/interventionstestingprogram/"
+    },
     "IntracranialCircuitMapping": {
       "episode_count": 1,
       "show_count": 1,
@@ -87574,9 +87590,9 @@
       "url": "/wiki/concepts/meaningthroughexperience/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5519161031 [SCIM5519161031].md",
@@ -87584,9 +87600,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
           "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        },
+        {
+          "episode_file": "SCIM7110594668 [SCIM7110594668].md",
+          "key": "supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668",
+          "show": "Huberman Lab",
+          "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
+          "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/mechanismoutcomeevidencehierarchy/"
     },
     "Medallia": {
@@ -92236,9 +92259,9 @@
       "url": "/wiki/concepts/mythicbiographysourcecaution/"
     },
     "NADTherapyEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6125190274 [SCIM6125190274].md",
@@ -92246,9 +92269,16 @@
           "show": "Huberman Lab",
           "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
           "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        },
+        {
+          "episode_file": "SCIM7110594668 [SCIM7110594668].md",
+          "key": "supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668",
+          "show": "Huberman Lab",
+          "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
+          "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/nadtherapyevidenceboundary/"
     },
     "NASA": {
@@ -100707,9 +100737,9 @@
       "url": "/wiki/entities/petenitzsche/"
     },
     "PeterAttia": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5907126956 [SCIM5907126956].md",
@@ -100717,9 +100747,16 @@
           "show": "Huberman Lab",
           "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
           "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        },
+        {
+          "episode_file": "SCIM7110594668 [SCIM7110594668].md",
+          "key": "supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668",
+          "show": "Huberman Lab",
+          "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
+          "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/peterattia/"
     },
     "PeterDawes": {
