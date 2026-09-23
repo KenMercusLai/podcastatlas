@@ -21779,3 +21779,11 @@ Added source `tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药
+
+Added source `vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot`; created `ChronicInsomniaRecognitionAndTreatment`; updated `XueXiaofan`, `SleepAnxietyLoop`, `SleepWakeTimingToolkit`, `SleepStageFunctionalArchitecture`, `SleepSupplementBoundary`, `ObstructiveSleepApneaRecognition`, `NarcolepsyWakeSleepBoundary`, and the index. Core synthesis: chronic insomnia requires recurring nighttime difficulty plus persistence and daytime impairment, while sleep diaries, stable timing, CBT-style behavioral care, and relaxation practice precede casual reliance on drugs, supplements, devices, or commercial products; breathing pauses, recurrent dream enactment, leg symptoms, or irresistible daytime sleep redirect evaluation toward other sleep disorders. No settled contradiction found; exact diagnostic thresholds, stage proportions, light intensity, melatonin effects, medication pathways, and treatment duration remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

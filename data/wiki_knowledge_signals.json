@@ -22779,6 +22779,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/chronicillnessqualityoflife/"
     },
+    "ChronicInsomniaRecognitionAndTreatment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/chronicinsomniarecognitionandtreatment/"
+    },
     "ChronicleBiographicalHistoryForms": {
       "episode_count": 1,
       "show_count": 1,
@@ -90480,6 +90496,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/nansunshi/"
     },
+    "NarcolepsyWakeSleepBoundary": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+          "key": "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744",
+          "show": "Economist Podcasts",
+          "title": "Wake-up haul: an Ozempic moment for the brain",
+          "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/narcolepsywakesleepboundary/"
+    },
     "NarrativeFateInteraction": {
       "episode_count": 1,
       "show_count": 1,
@@ -93331,9 +93370,9 @@
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
     "ObstructiveSleepApneaRecognition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luct7ka8jRMTLsmBwlK9MwOW3sxv [luct7ka8jRMTLsmBwlK9MwOW3sxv].md",
@@ -93341,9 +93380,16 @@
           "show": "这病说来话长",
           "title": "VOL.155每夜窒息51秒！医生讲述年轻女患者的重生故事",
           "url": "/wiki/sources/vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/obstructivesleepapnearecognition/"
     },
     "OccultDecisionCapture": {
@@ -116829,6 +116875,36 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
+    "SleepAnxietyLoop": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
+          "key": "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI subscriptions are rapidly taking over baby nurseries",
+          "url": "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "The case of the missing totem： Aung San Suu Kyi [6a560fc4f96471dde4821d2f].md",
+          "key": "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f",
+          "show": "Economist Podcasts",
+          "title": "The case of the missing totem: Aung San Suu Kyi",
+          "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/sleepanxietyloop/"
+    },
     "SleepAsDailyHealthAccount": {
       "episode_count": 10,
       "show_count": 6,
@@ -116941,9 +117017,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -116958,15 +117034,22 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -116981,9 +117064,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
@@ -117017,9 +117107,9 @@
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -117055,9 +117145,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-23",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "Slicy": {
@@ -140840,9 +140937,9 @@
       "url": "/wiki/entities/xuehuiwesternhan/"
     },
     "XueXiaofan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
@@ -140857,9 +140954,16 @@
           "show": "这病说来话长",
           "title": "VOL.155每夜窒息51秒！医生讲述年轻女患者的重生故事",
           "url": "/wiki/sources/vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv/"
+        },
+        {
+          "episode_file": "lvn_CUtP5UoB9zeoSq-wiV3C4Zot [lvn_CUtP5UoB9zeoSq-wiV3C4Zot].md",
+          "key": "vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot",
+          "show": "这病说来话长",
+          "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
+          "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-23",
       "url": "/wiki/entities/xuexiaofan/"
     },
     "XueXuanWesternHan": {

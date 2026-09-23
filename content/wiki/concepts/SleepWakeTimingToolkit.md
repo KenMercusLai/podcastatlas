@@ -8,7 +8,8 @@ sources:
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
   - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
   - essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382
-last_updated: 2026-09-21
+  - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
+last_updated: 2026-09-23
 knowledge_schema: synthesis-v1
 ---
 
@@ -28,6 +29,8 @@ The Talk三联 social-jetlag episode adds the institutional layer. Timing cues a
 
 The daily-tools episode extends the toolkit from sleep preparation into daytime performance. It sequences morning walking and light, delayed caffeine, one protected work bout, exercise, meals, post-meal movement, afternoon light, dinner, heat-driven cooling, and a cool room. This reinforces the whole-day model while making personal fit explicit: effective existing work times and unavoidable schedules take precedence over copying the host's clock.
 
+The 这病说来话长 episode adds an insomnia-clinic interpretation. It uses week-scale sleep diaries, stable scheduling, daytime activity, restrained catch-up sleep, short naps when needed, less bedtime phone stimulation, and next-day function to judge whether timing is working. These tools support self-regulation, but recurring impairment or signs of another sleep disorder move the problem beyond routine optimization.
+
 ## Key Claims
 - Sleep is framed as the output of a full-day timing system rather than a bedtime-only behavior, with work, exercise, meals, and post-meal movement included alongside light, caffeine, temperature, and darkness.
 - Morning outdoor light, especially within 30-60 minutes after waking, is the strongest external anchor in the sleep-toolkit source.
@@ -35,7 +38,7 @@ The daily-tools episode extends the toolkit from sleep preparation into daytime 
 - Evening darkness, reduced overhead light, calming routines, and a cool sleep environment protect the sleep side of the cycle.
 - Consistent sleep timing matters because early slow-wave and later REM-rich windows have different functions.
 - Alcohol, THC, supplements, and melatonin are treated as bounded interventions, not replacements for circadian, behavioral, and stage-architecture cues.
-- Stable rhythm is presented as more important than irregular catch-up sleep, and social schedules, school discipline, meal timing, bowel routines, late-night exercise, daytime energy, attention, yawning, nap need, or coffee dependence can all indicate misalignment.
+- Stable rhythm is presented as more important than irregular catch-up sleep; social schedules, meal and exercise timing, daytime state, and sleep diaries can expose misalignment without making one night's duration or device score decisive.
 
 ## Evidence
 - Full-day system - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] frames sleep as a 24-hour cycle shaped by morning light, temperature, caffeine, meals, naps, late-day light, evening darkness, substances, supplements, and consistency.
@@ -48,15 +51,14 @@ The daily-tools episode extends the toolkit from sleep preparation into daytime 
 - Product automation - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] describes 8Sleep automating temperature and wake timing after learning the user's sleep habits.
 - Social timing conflict - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] adds [[SocialJetlag|社会时差]] through workday/rest-day drift, adolescent school starts, indoor light, nighttime screens, food timing, bowel timing, and late-night exercise.
 - Daytime sequencing - [[essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382]] connects walking, focused work, exercise, meals, afternoon light, dinner, cooling, and sleep as [[DailyCircadianPerformanceRoutine|one adaptable daily sequence]].
+- Insomnia-clinic application - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] connects sleep diaries, stable schedules, daytime movement, limited naps, screen reduction, and functional outcomes while preserving clinical escalation.
 
 ## Counterevidence & Qualifications
-The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, social-jetlag, meal-timing, optic-flow, and travel claims remain source-scoped.
+The sources are public sleep education, not clinical sleep-medicine protocols. They do not settle individual treatment for insomnia, sleep apnea, psychiatric illness, medication effects, pregnancy, pediatric sleep, shift-work safety, trauma-related nightmares, gastrointestinal disease, adolescent school policy, or serious circadian disorders. The supplement, red-light, THC, alcohol, sauna, cold-exposure, tracker, growth-hormone, REM, social-jetlag, meal-timing, optic-flow, light-intensity, and travel claims remain source-scoped.
 
 ## What Changed
-- Added the daily-tools episode's work, exercise, meal, post-meal movement, and cooling sequence.
-- Clarified that the 24-hour toolkit can support daytime performance as well as sleep.
-- Preserved personal schedule fit over copying one host routine.
-- Retained the stage-architecture, consumer sleep-tech, and social-jetlag layers from earlier sources.
+- Added the sleep-diary, next-day-function, nap, catch-up-sleep, and bedtime-stimulation layer.
+- Clarified that recurring impairment and sleep-disorder red flags sit outside routine optimization.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account that this toolkit operationalizes.
@@ -70,3 +72,4 @@ The sources are public sleep education, not clinical sleep-medicine protocols. T
 - [[TemperatureMinimumClockShifting]] - travel, shift-work, and phase-shifting branch inside the toolkit.
 - [[BedBasedSleepSensing]] - home sensing branch that can automate sleep-environment timing.
 - [[SocialJetlag]] - social-time mismatch that the toolkit tries to reduce.
+- [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway that uses the toolkit without reducing insomnia to timing alone.

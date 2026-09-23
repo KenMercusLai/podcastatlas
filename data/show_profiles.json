@@ -3431,7 +3431,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 54,
+      "source_note_count": 55,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3483,6 +3483,13 @@
           "episode_count": 3
         },
         {
+          "key": "XueXiaofan",
+          "title": "薛小凡 / Xue Xiaofan",
+          "url": "/wiki/entities/xuexiaofan/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "MaHaoning",
           "title": "马浩宁 / Ma Haoning",
           "url": "/wiki/entities/mahaoning/",
@@ -3500,13 +3507,6 @@
           "key": "FengYanfeiVascularSurgery",
           "title": "冯燕飞 / Feng Yanfei (Vascular Surgery)",
           "url": "/wiki/entities/fengyanfeivascularsurgery/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "NanJiHe",
-          "title": "南基贺 / Nan Jihe",
-          "url": "/wiki/entities/nanjihe/",
           "kind": "person",
           "episode_count": 2
         }

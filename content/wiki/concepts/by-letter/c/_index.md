@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7957
+wiki_total_pages: 7958
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -824,6 +824,9 @@ wiki_pages:
   - key: "ChronicIllnessQualityOfLife"
     title: "Chronic Illness Quality of Life / 慢病生活质量"
     url: "/wiki/concepts/chronicillnessqualityoflife/"
+  - key: "ChronicInsomniaRecognitionAndTreatment"
+    title: "Chronic Insomnia Recognition and Treatment"
+    url: "/wiki/concepts/chronicinsomniarecognitionandtreatment/"
   - key: "ChronicleChronologyDrift"
     title: "Chronicle Chronology Drift / 编年错位"
     url: "/wiki/concepts/chroniclechronologydrift/"

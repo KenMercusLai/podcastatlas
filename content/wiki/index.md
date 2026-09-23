@@ -2738,6 +2738,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath](sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885.md) — Huberman Lab interview on memory as contextual reconstruction, curiosity-driven incidental encoding, intentional attention, task switching, cognitive aging, dementia risk, and qualified reconsolidation.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 - [The cost of digitally disconnecting](sources/tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128.md) — Marketplace Tech episode on luxury digital-detox retreats, practical routine substitution, rapid screen-time rebound, offline status performance, and the need for workplace and cultural boundaries.
+- [VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药](sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot.md) — 这病说来话长 episode on chronic-insomnia recognition, sleep diaries, circadian habits, behavioral treatment, medication boundaries, and red-flag sleep disorders.
 
 ## Entities
 - [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
@@ -4903,7 +4904,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [岳宛柔 / Yue Wanrou](entities/YueWanrou.md) — VOL.215 guest explaining sugar preference, staple foods, liquid sugar, low-GI claims, labels, sweeteners, and practical sugar control.
 - [余婉柔 / Yu Wanrou (functional food guest)](entities/YuWanrouFunctionalFoodGuest.md) — Source-scoped VOL.209 guest explaining functional-food identity, supplement need assessment, protein powders, electrolyte drinks, fish oil, meal replacements, label reading, and marketing-claim boundaries.
 - [大食话 / Da Shi Hua](entities/DaShiHua.md) — Food-media label attached to Yue Wanrou in the VOL.215 sugar-control episode.
-- [薛小凡 / Xue Xiaofan](entities/XueXiaofan.md) — VOL.216 guest explaining prefrontal-cortex internet vocabulary, state-dependent self-control, ADHD self-diagnosis boundaries, and clinical behavior-change red flags.
+- [薛小凡 / Xue Xiaofan](entities/XueXiaofan.md) — Neurology and sleep-medicine guest explaining prefrontal-cortex vocabulary, chronic insomnia, behavioral treatment, sleep apnea, and clinical escalation.
 - [小龙 / Xiaolong (Weight-Management Guest)](entities/XiaolongWeightManagementGuest.md) — 这病说来话长 guest explaining breakfast-first balanced eating, weight management, food structure, resistance training, sleep, medical boundaries, and sustainable eating contexts.
 - [亚萌 / Ya Meng](entities/YaMengDoctor.md) — Dermatology-side guest explaining rash uncertainty, insect-bite reactions, diagnostic treatment, short follow-up windows, medication boundaries, and return conditions.
 - [蒋宇亮 / Jiang Yuliang](entities/JiangYuliangDoctor.md) — Gastroenterology guest explaining first-visit triage, silent liver injury, fatty-liver causes, exposure risk, and clinician-guided follow-up.
@@ -17207,6 +17208,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Organ-Specific Aging Clock](concepts/OrganSpecificAgingClock.md) — Biological-clock method estimating aging signals across body parts and used in the episode's sleep-duration study.
 - [Population-Level Health Advice](concepts/PopulationLevelHealthAdvice.md) — Using large-cohort health findings as guardrails without turning them into exact individual prescriptions.
 - [Sleep Anxiety Loop](concepts/SleepAnxietyLoop.md) — Pattern where worry about the right amount of sleep becomes a cause of lost sleep.
+- [Chronic Insomnia Recognition and Treatment](concepts/ChronicInsomniaRecognitionAndTreatment.md) — Clinical pathway joining persistent sleep complaints and daytime impairment with sleep diaries, behavioral treatment, medication boundaries, and differential diagnosis.
 - [Social Jetlag / 社会时差](concepts/SocialJetlag.md) — Body-rhythm mismatch where work, school, light environments, meals, bowel routines, screens, exercise, and weekend catch-up sleep pull social time away from biological time.
 - [XLA Compiler](concepts/XLACompiler.md) — Google compiler layer in E228 that optimizes TPU graphs through static compilation, fusion, memory planning, and system-aware scheduling while raising debugging barriers.
 - [TPU Pod System Optimization](concepts/TPUPodSystemOptimization.md) — E228 frame that TPU performance depends on pods, ICI/3D Torus-style communication, XLA, topology, and data-center deployment rather than a single chip.
