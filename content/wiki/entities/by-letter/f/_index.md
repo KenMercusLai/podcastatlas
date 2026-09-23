@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10585
+wiki_total_pages: 10590
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -668,6 +668,9 @@ wiki_pages:
   - key: "Fuxinghao"
     title: "Fuxinghao / 复兴号"
     url: "/wiki/entities/fuxinghao/"
+  - key: "Falstaff"
+    title: "Sir John Falstaff"
+    url: "/wiki/entities/falstaff/"
   - key: "FifthDimension"
     title: "The Fifth Dimension / 第五维度"
     url: "/wiki/entities/fifthdimension/"

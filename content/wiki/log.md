@@ -21755,3 +21755,11 @@ Added source `487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt75549
 ## [2026-09-23] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-23] ingest | 486. Henry IV: Warrior Princes and Fat Knights (Part 2)
+
+Added source `486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611`; created `BattleOfShrewsbury`, `HenryPercyHotspur`, `OwainGlyndwr`, `JohnOldcastle`, `Falstaff`, and `Lollardy`; updated `HenryIVOfEngland`, `HenryVOfEngland`, and the index. Core synthesis: Prince Henry's Welsh command and survival at Shrewsbury replace a simple wayward-youth story with an apprenticeship in battle, finance, logistics, and government, while Henry IV's victory, coercive survival, illness, and family rule secured a contested dynasty. Falstaff's critique of honour and Oldcastle's Lollard career complicate heroic and religious memory without proving the prince's private heterodoxy. No settled contradiction found; rebel motives, the Tripartite Indenture, illness diagnosis, providential explanations, battlefield totals, and inner belief remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-23] lint | Wiki lint check
+
+Ran lint after health and identity validation passed. Deterministic checks found one orphan page (`wiki/entities/BobosOatBars.md`), one broken wikilink from `wiki/concepts/DentalProviderQualificationAssessment.md` to missing `[[ClinicalValidationThresholds]]`, no missing entity pages, and no sparse pages. Graph-aware checks used the stale 2026-09-02 graph snapshot (16,930 nodes versus 21,265 linted pages) and provisionally found no hub stubs, one fragile bridge, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified for LiteLLM; a bounded in-session review of the script's 20-page sample found no direct contradiction and flagged single-source evidence gaps. Report returned in-session; `wiki/lint-report.md` was not saved.

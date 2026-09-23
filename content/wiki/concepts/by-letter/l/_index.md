@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7955
+wiki_total_pages: 7956
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "LogoSwapMerchandiseStandardization"
     title: "Logo-Swap Merchandise Standardization / 标识替换式商品标准化"
     url: "/wiki/concepts/logoswapmerchandisestandardization/"
+  - key: "Lollardy"
+    title: "Lollardy"
+    url: "/wiki/concepts/lollardy/"
   - key: "LongContentTimeTail"
     title: "Long Content Time Tail / 长内容时间长尾"
     url: "/wiki/concepts/longcontenttimetail/"

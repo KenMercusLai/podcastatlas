@@ -12621,6 +12621,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleofpoltava/"
     },
+    "BattleOfShrewsbury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/battleofshrewsbury/"
+    },
     "BattleOfStamfordBridge": {
       "episode_count": 1,
       "show_count": 1,
@@ -42368,6 +42384,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/falsereinforcementdeception/"
     },
+    "Falstaff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/falstaff/"
+    },
     "FamiliarPainRelationshipPattern": {
       "episode_count": 1,
       "show_count": 1,
@@ -57805,9 +57837,9 @@
       "url": "/wiki/entities/henryiofengland/"
     },
     "HenryIVOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7554933021 [GLT7554933021].md",
@@ -57815,6 +57847,13 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
         }
       ],
       "updated": "2026-09-23",
@@ -57859,6 +57898,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/henrymortonstanley/"
     },
+    "HenryPercyHotspur": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/henrypercyhotspur/"
+    },
     "HenryTheNavigator": {
       "episode_count": 1,
       "show_count": 1,
@@ -57876,9 +57931,9 @@
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryVOfEngland": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -57907,6 +57962,13 @@
           "show": "The Rest Is History",
           "title": "487. Hundred Years' War: Henry V's Invasion of France (Part 1)",
           "url": "/wiki/sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021/"
+        },
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
         }
       ],
       "updated": "2026-09-23",
@@ -68951,6 +69013,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/johnmccarthy/"
     },
+    "JohnOldcastle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/johnoldcastle/"
+    },
     "JohnTernus": {
       "episode_count": 4,
       "show_count": 2,
@@ -79705,6 +79783,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/logoswapmerchandisestandardization/"
+    },
+    "Lollardy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/concepts/lollardy/"
     },
     "London": {
       "episode_count": 1,
@@ -95579,6 +95673,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/overseaswarehouseinventoryrisk/"
+    },
+    "OwainGlyndwr": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8391310611 [GLT8391310611].md",
+          "key": "486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611",
+          "show": "The Rest Is History",
+          "title": "486. Henry IV: Warrior Princes and Fat Knights (Part 2)",
+          "url": "/wiki/sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611/"
+        }
+      ],
+      "updated": "2026-09-23",
+      "url": "/wiki/entities/owainglyndwr/"
     },
     "PCOSCardiometabolicRisk": {
       "episode_count": 1,

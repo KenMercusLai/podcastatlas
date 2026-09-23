@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10585
+wiki_total_pages: 10590
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "JurgenHabermas"
     title: "Jürgen Habermas / 哈贝马斯"
     url: "/wiki/entities/jurgenhabermas/"
+  - key: "JohnOldcastle"
+    title: "Sir John Oldcastle"
+    url: "/wiki/entities/johnoldcastle/"
   - key: "JurassicWorldRebirth"
     title: "《侏罗纪世界：重生》 / Jurassic World: Rebirth"
     url: "/wiki/entities/jurassicworldrebirth/"

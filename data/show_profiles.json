@@ -919,14 +919,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-20",
       "latest_episode_file": "GLT6580043397 [GLT6580043397].md",
-      "source_note_count": 114,
-      "topic_matched_source_note_count": 113,
+      "source_note_count": 115,
+      "topic_matched_source_note_count": 114,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 111
+          "source_note_count": 112
         },
         {
           "key": "politics",
@@ -991,16 +991,16 @@
           "episode_count": 5
         },
         {
-          "key": "LouisXVI",
-          "title": "Louis XVI",
-          "url": "/wiki/entities/louisxvi/",
+          "key": "HenryVOfEngland",
+          "title": "Henry V of England",
+          "url": "/wiki/entities/henryvofengland/",
           "kind": "person",
           "episode_count": 5
         },
         {
-          "key": "WilliamTheConqueror",
-          "title": "William the Conqueror",
-          "url": "/wiki/entities/williamtheconqueror/",
+          "key": "LouisXVI",
+          "title": "Louis XVI",
+          "url": "/wiki/entities/louisxvi/",
           "kind": "person",
           "episode_count": 5
         }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10585
+wiki_total_pages: 10590
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "HenryOfNavarre"
     title: "Henry of Navarre"
     url: "/wiki/entities/henryofnavarre/"
+  - key: "HenryPercyHotspur"
+    title: "Henry Percy 'Hotspur'"
+    url: "/wiki/entities/henrypercyhotspur/"
   - key: "HenryRoyce"
     title: "Henry Royce"
     url: "/wiki/entities/henryroyce/"

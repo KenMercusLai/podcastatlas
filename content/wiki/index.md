@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [486. Henry IV: Warrior Princes and Fat Knights (Part 2)](sources/486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611.md) — The Rest Is History episode on Shrewsbury, Prince Henry's Welsh apprenticeship, Henry IV's survival, Falstaff, Oldcastle, Lollardy, and religious ambiguity.
 - [487. Hundred Years' War: Henry V's Invasion of France (Part 1)](sources/487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021.md) — The Rest Is History episode on France's factional collapse, Henry V's dynastic diplomacy and war preparation, Harfleur, Lancastrian risk, and the Southampton Plot.
 - [EP388-王妈妈花木兰一日体验卡 | 聊聊约拍这个出圈的生意](sources/ep388-wangmama-huamulan-yiri-tiyanka-liaoliao-yuepai-zhege-chuquan-de-shengyi-gkwrijioif27ag4hdwtbxhjb.md) — 无时差研究所 episode with photographer 方舟 on story-led portrait production, participatory co-creation, client obligations, and creative-hobby commercialization.
 - [咖啡时间：和中国首位世界咖啡与烈酒大赛冠军Andy聊聊创意特调](sources/kafei-shijian-he-zhongguo-shouwei-shijie-kafei-yu-liejiu-dasai-guanjun-andy-liaoliao-chuangyi-tediao-gkwrijiohqdbargqkqtalwpn.md) — 大小电波 interview on theme-led beverage design, multisensory experience, commercial feasibility, and team-supported competition performance.
@@ -2737,7 +2738,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？](sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq.md) — Cross-specialty medical Q&A on MRI safety and indication, clinical-history disclosure, anesthesia preparation, fasting, catheter decisions, radiation, and hospital workflow.
 
 ## Entities
-- [Henry IV of England](entities/HenryIVOfEngland.md) — Lancastrian king whose disputed accession and shifting French interventions shaped Henry V's inheritance.
+- [Battle of Shrewsbury](entities/BattleOfShrewsbury.md) — 1403 royal victory where longbow combat, Prince Henry's facial wound, and Hotspur's death preserved Lancastrian rule.
+- [Henry Percy "Hotspur"](entities/HenryPercyHotspur.md) — Rebel noble whose failed 1403 rising and Shakespearean afterlife made him Prince Hal's remembered rival.
+- [Owain Glyndŵr](entities/OwainGlyndwr.md) — Welsh revolt leader whose sustained challenge became Prince Henry's school of command and administration.
+- [Sir John Oldcastle](entities/JohnOldcastle.md) — Prince Henry's soldier-friend, later Lollard rebel, and historical name behind the early Falstaff character.
+- [Sir John Falstaff](entities/Falstaff.md) — Shakespeare's comic knight and skeptical counterweight to honour, glory, and Prince Hal's transformation.
+- [Henry IV of England](entities/HenryIVOfEngland.md) — Lancastrian king whose disputed accession, rebellion survival, family government, and French interventions shaped Henry V's inheritance.
 - [Louis of Orléans](entities/LouisOfOrleans.md) — French prince whose murder by John the Fearless helped turn court rivalry into civil war.
 - [Southampton Plot](entities/SouthamptonPlot.md) — Pre-invasion conspiracy exposing the domestic legitimacy risk surrounding Henry V's 1415 campaign.
 - [方舟 / Fangzhou (Photographer)](entities/FangzhouPhotographer.md) — Story-led portrait photographer combining research, direction, location production, contingency, client service, and self-directed creation.
@@ -13333,6 +13339,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Charan Ranganath](entities/CharanRanganath.md) — Psychology and neuroscience guest integrating context binding, curiosity, attention, cognitive aging, and qualified memory updating.
 
 ## Concepts
+- [Lollardy](concepts/Lollardy.md) — Wycliffite reform movement whose persecution, rebellion, and Lancastrian connections complicate Henry V's religious profile.
 - [Story-Driven Portrait Photography / 故事型人像摄影](concepts/StoryDrivenPortraitPhotography.md) — Planned image-making method joining theme, research, casting, place, direction, contingency, and editing.
 - [Participatory Portrait Co-Creation / 参与式约拍共创](concepts/ParticipatoryPortraitCoCreation.md) — Shared portrait experience extending from preparation and role-play through finished-work circulation.
 - [Creative Hobby Commercialization Boundary / 创作爱好商业化边界](concepts/CreativeHobbyCommercializationBoundary.md) — Shift between self-directed authorship, paid client obligation, primary-job subsidy, and repeatable creative business.
