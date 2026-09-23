@@ -11,8 +11,9 @@ sources:
   - 505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
   - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
+  - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-22
+last_updated: 2026-09-24
 ---
 
 # Maximilien Robespierre / 罗伯斯庇尔
@@ -23,23 +24,27 @@ Maximilien Robespierre was a leading Montagnard revolutionary who opposed evacua
 
 ## Current Profile
 
-The sources connect Robespierre's virtue-centered politics to sharp changes in war, punishment, and emergency. In 1785 he preferred abolition and argued that any retained death penalty should be swift and merciful. After [[FlightToVarennes|Varennes]], he warned that the Champ de Mars rally could furnish moderates with a pretext for repression; the [[ChampDeMarsMassacre|massacre]] made that tactical judgment look prescient as the Feuillants left the Jacobins and he gained popular credibility. In late 1791 and early 1792 he opposed the Girondin war program, rejected the American analogy, warned that foreign peoples would resist armed missionaries, and predicted that expansionary war might destroy the Revolution or produce a Caesar-like strongman. By September he insisted that Paris stand rather than evacuate, while the sources reject a proven direct order from him for the prison killings. He later defended extraordinary violence, argued that Louis must die for the homeland, opposed female suffrage, called for insurrection in May 1793, and entered the Committee of Public Safety.
+The sources connect Robespierre's rise from a young Arras lawyer and Third Estate deputy to sharp changes in virtue, war, punishment, and emergency. In 1785 he preferred abolition and argued that any retained death penalty should be swift and merciful; in May 1789 he appeared among the legally trained deputies whose ambitions and oratory made the [[EstatesGeneral1789|Estates-General]] politically formidable. After [[FlightToVarennes|Varennes]], he warned that the Champ de Mars rally could furnish moderates with a pretext for repression; the [[ChampDeMarsMassacre|massacre]] made that tactical judgment look prescient. He later opposed armed missionary war and predicted military dictatorship, insisted that Paris stand during invasion, defended extraordinary violence, argued that Louis must die, opposed female suffrage, called for insurrection in May 1793, and entered the Committee of Public Safety.
 
 ## Key Characteristics
 
+- Young Arras lawyer elected to the Third Estate in 1789.
 - He combined a reputation for incorruptible virtue with tactical caution at Champ de Mars and an increasingly binary language of patriots, corruption, and conspiracy.
 - He opposed the 1792 war as expansionary armed mission and warned that military emergency could produce dictatorship.
 - He opposed Girondin proposals to abandon Paris during the Prussian invasion.
 - He knew the September Massacres were occurring, but the source does not establish that he commanded them.
 - He legitimated extraordinary revolutionary violence and treated Louis's death as a political necessity.
 - He called for popular insurrection when lawful good faith seemed exhausted and benefited from the Girondin purge.
-- He opposed female suffrage despite significant female admiration in the episode's account.
 
 ## Evidence
 
 ### Penal reform before the Revolution
 
 - [[505-the-french-revolution-the-shadow-of-the-guillotine-part-3-glt1620539569]] attributes to his 1785 writing a preference for abolition and, failing that, swift and merciful execution.
+
+### Entry into national politics
+
+- [[478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126]] identifies Robespierre as a young lawyer from Arras among the Third Estate deputies at Versailles.
 
 ### Opposition to revolutionary war
 
@@ -69,12 +74,12 @@ The sources connect Robespierre's virtue-centered politics to sharp changes in w
 - Refusing evacuation during invasion is not by itself evidence of support for every act that followed in Paris.
 - The sequence ends at his ascent and does not cover his full record during the Terror.
 - Marat's assassination was one driver among war, revolt, scarcity, and factional collapse; female admiration does not establish what most women believed.
+- The new source identifies his presence but does not yet establish his distinctive role in the June 1789 confrontations.
 
 ## What Changed
 
-- Added his opposition to war as an armed mission likely to strengthen counterrevolution or military dictatorship.
-- His prescience about external war now sits beside, rather than erasing, his later emergency and internal-enemy politics.
-- The profile now begins his revolutionary rise in the post-Varennes split, when tactical caution and incorruptible self-presentation reinforced one another.
+- Extends the profile's chronology to his arrival at Versailles as a young Third Estate deputy.
+- Keeps that early presence distinct from the influence and positions documented in later sources.
 
 ## Relationships
 
@@ -91,3 +96,4 @@ The sources connect Robespierre's virtue-centered politics to sharp changes in w
 - [[RevolutionaryIdeologicalWar]] - program he opposed before later supporting revolutionary emergency measures.
 - [[AntoineBarnave]] - constitutional-monarchist opponent he denounced as corrupted by court influence.
 - [[ChampDeMarsMassacre]] - repression he warned the planned rally could enable.
+- [[EstatesGeneral1789]] - national assembly in which he entered revolutionary politics as an Arras deputy.

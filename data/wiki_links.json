@@ -1107,6 +1107,10 @@
     "title": "47.鸟有什么好看的：原来…丹顶鹤是秃的！",
     "url": "/wiki/sources/47-niao-youshenme-haokande-yuanlai-dandinghe-shi-tude-625613924/"
   },
+  "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126": {
+    "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+    "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+  },
   "479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441": {
     "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
     "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
@@ -21199,6 +21203,10 @@
     "title": "Emma Thomas",
     "url": "/wiki/entities/emmathomas/"
   },
+  "EmmanuelJosephSieyes": {
+    "title": "Emmanuel-Joseph Sieyes",
+    "url": "/wiki/entities/emmanueljosephsieyes/"
+  },
   "EmmanuelMacron": {
     "title": "Emmanuel Macron",
     "url": "/wiki/entities/emmanuelmacron/"
@@ -21990,6 +21998,10 @@
   "EstablishedHeirReplacementRisk": {
     "title": "既定太子改立风险 / Established Heir Replacement Risk",
     "url": "/wiki/concepts/establishedheirreplacementrisk/"
+  },
+  "EstatesGeneral1789": {
+    "title": "Estates-General of 1789",
+    "url": "/wiki/entities/estatesgeneral1789/"
   },
   "EstherDuflo": {
     "title": "Esther Duflo",
@@ -30778,6 +30790,10 @@
   "HonoreDeBalzac": {
     "title": "Honore de Balzac / 巴尔扎克",
     "url": "/wiki/entities/honoredebalzac/"
+  },
+  "HonoreGabrielRiquetiDeMirabeau": {
+    "title": "Honore-Gabriel Riqueti, comte de Mirabeau",
+    "url": "/wiki/entities/honoregabrielriquetidemirabeau/"
   },
   "HonorsWithoutOfficeSettlement": {
     "title": "Honors Without Office Settlement / 受爵不受官式功臣安置",
@@ -46003,6 +46019,10 @@
     "title": "National Anthem Political Plasticity",
     "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
   },
+  "NationalAssembly1789": {
+    "title": "National Assembly of 1789",
+    "url": "/wiki/entities/nationalassembly1789/"
+  },
   "NationalBasketballAssociation": {
     "title": "National Basketball Association",
     "url": "/wiki/entities/nationalbasketballassociation/"
@@ -55531,6 +55551,10 @@
     "title": "Reuters",
     "url": "/wiki/entities/reuters/"
   },
+  "ReveillonRiot": {
+    "title": "Reveillon Riot",
+    "url": "/wiki/entities/reveillonriot/"
+  },
   "RevelPharma": {
     "title": "Revel Pharma",
     "url": "/wiki/entities/revelpharma/"
@@ -55566,6 +55590,10 @@
   "RevolutionaryChurchStateRupture": {
     "title": "Revolutionary Church-State Rupture",
     "url": "/wiki/concepts/revolutionarychurchstaterupture/"
+  },
+  "RevolutionaryCrisisConvergence": {
+    "title": "Revolutionary Crisis Convergence",
+    "url": "/wiki/concepts/revolutionarycrisisconvergence/"
   },
   "RevolutionaryCrowdVengeance": {
     "title": "Revolutionary Crowd Vengeance",
@@ -64398,6 +64426,10 @@
   "Tennessee": {
     "title": "Tennessee",
     "url": "/wiki/entities/tennessee/"
+  },
+  "TennisCourtOath": {
+    "title": "Tennis Court Oath",
+    "url": "/wiki/entities/tenniscourtoath/"
   },
   "TensorFlow": {
     "title": "TensorFlow",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10629
+wiki_total_pages: 10635
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "NathanielBranden"
     title: "Nathaniel Branden / 纳撒尼尔·布兰登"
     url: "/wiki/entities/nathanielbranden/"
+  - key: "NationalAssembly1789"
+    title: "National Assembly of 1789"
+    url: "/wiki/entities/nationalassembly1789/"
   - key: "NationalBasketballAssociation"
     title: "National Basketball Association"
     url: "/wiki/entities/nationalbasketballassociation/"

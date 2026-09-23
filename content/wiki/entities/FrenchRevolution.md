@@ -18,8 +18,9 @@ sources:
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
   - 480-the-french-revolution-the-rights-of-man-part-6-glt8413639265
   - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
+  - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-09-24
 ---
 
 # French Revolution / 法国大革命
@@ -30,19 +31,23 @@ The French Revolution was the upheaval that overthrew Bourbon monarchy, created 
 
 ## Current Profile
 
-The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. In July 1789 hunger, bread inflation, financial crisis, troop concentration, [[JacquesNecker|Necker]]'s dismissal, [[CamilleDesmoulins|Desmoulins]]' mobilization, and military defection broke royal control of Paris. The [[StormingOfTheBastille|Bastille's fall]] joined a practical seizure of gunpowder to a symbolic defeat of arbitrary monarchy, while [[BastilleRevolutionaryMythmaking|liberation mythmaking]] and [[RevolutionaryCrowdVengeance|post-surrender vengeance]] made freedom and violence parts of the same founding moment. The new commune and [[FrenchNationalGuard|National Guard]] then tried to institutionalize a movement they did not fully control, and Louis XVI's tricolour accommodation acknowledged a sovereignty increasingly located in the nation. The [[GreatFear1789|Great Fear]] extended real deprivation and conspiratorial rumor into the countryside and helped push the Assembly toward abolition of feudal privilege. The [[DeclarationOfRightsOfManAndCitizen|Declaration of Rights]] then attacked absolutism and corporate hierarchy through universal liberty and equality while leaving monarchy, gender, slavery, property, and the institutional location of sovereignty unsettled. Its [[UniversalRightsNationalSovereigntyTension|universal-rights and national-sovereignty tension]] was matched by a religious fracture: tithe abolition, Church-land nationalization, monastic dissolution, and the [[CivilConstitutionOfTheClergy|clerical oath]] turned fiscal reform into a contest between nation, papacy, clergy, and local Catholic communities. [[OctoberDays1789|The October Days]] joined bread scarcity, veto distrust, print politics, military rumor, women's mobilization, and palace violence, forcing crown and Assembly from Versailles to Paris. By early 1791 newspapers, clubs, affiliated provincial societies, municipalities, National Guards, bread-price anger, religious division, and active-versus-passive citizenship had made politics both everyday and geographically distributed. [[FlightToVarennes|Varennes]] exposed royal deception but also demonstrated [[RevolutionaryRuralPoliticization|local revolutionary capacity]]: officials and armed residents chose national decrees over personal loyalty to the king. The failure made republicanism newly plausible and helped produce the [[ChampDeMarsMassacre|Champ de Mars massacre]], where revolutionary authorities fired on a revolutionary crowd. The restricted 1791 constitutional settlement therefore began with damaged trust before the weakly mandated Legislative Assembly inherited economic, religious, rural, colonial, and monarchical crises. Rival factions then converged on war because each expected a different political payoff. [[JacquesPierreBrissot|Brissot]] made universal liberty, national regeneration, and foreign conflict one program, while [[MaximilienRobespierre|Robespierre]] warned that armed missionary politics could destroy the Revolution and create a military strongman. Older public punishment, early lynching, Enlightenment reform, and the [[GuillotineReformSpectacleParadox|guillotine's reform-spectacle paradox]] supplied a penal prehistory before war produced both [[LaMarseillaise|a citizen anthem]] and a [[WartimeConstitutionalMonarchyCollapse|legitimacy crisis]]. Defeat, royal vetoes, genuine court duplicity, economic fear, and distributed popular mobilization culminated in the [[TuileriesInsurrection|10 August insurrection]], while continuing invasion panic produced the [[SeptemberMassacres]]. Abolition and [[BattleOfValmy|Valmy]] gave the new order political and military existence without settling its institutions, citizenship, or moral limits.
+The sources frame the Revolution as a pressure system and a struggle to create political meaning, not simply a contest between liberty and reaction. In 1788-1789 hail, drought, harvest failure, winter cold, bread inflation, rural insecurity, urban unemployment, fiscal breakdown, grievance politics, and unresolved representation formed a [[RevolutionaryCrisisConvergence|convergent crisis]]. Relief and reform existed, but calling the [[EstatesGeneral1789|Estates-General]] raised expectations without settling whether deputies would vote by head or order. [[EmmanuelJosephSieyes|Sieyes]] recast the Third Estate as the nation; its declaration as the [[NationalAssembly1789|National Assembly]], the [[TennisCourtOath|Tennis Court Oath]], and refusal to disperse after the royal session shifted sovereignty away from corporate orders before Paris rose. [[LouisXVI|Louis XVI]] conceded the union of the estates without restoring control, then [[JacquesNecker|Necker]]'s dismissal and troop concentration made coercive reversal appear imminent. Hunger, [[CamilleDesmoulins|Desmoulins]]' mobilization, and military defection broke royal control of Paris. The [[StormingOfTheBastille|Bastille's fall]] joined practical seizure of gunpowder to symbolic defeat of arbitrary monarchy, while liberation mythmaking and [[RevolutionaryCrowdVengeance|post-surrender vengeance]] made freedom and violence parts of the same founding moment. The Great Fear, abolition of privilege, universal rights, Church rupture, [[OctoberDays1789|October Days]], Varennes, Champ de Mars, factional war, the Tuileries insurrection, September Massacres, abolition, and [[BattleOfValmy|Valmy]] then repeatedly widened the gap between national sovereignty, institutional authority, citizenship, and coercive power.
 
 ## Key Characteristics
 
-- Structural crisis joined absolutist centralization, fiscal failure, bad harvests, bread scarcity, war debt, troop fear, ministerial dismissal, military unreliability, and collapsing monarchical legitimacy.
+- Structural crisis joined weather shock, fiscal failure, bad harvests, bread scarcity, unemployment, raised expectations, unresolved representation, troop fear, ministerial dismissal, military unreliability, and collapsing monarchical legitimacy.
+- The Estates-General's procedural deadlock became a sovereignty break when the Third Estate claimed to represent the nation and committed itself to constitution-making.
 - Universal rights and national sovereignty dismantled inherited privilege without resolving citizenship boundaries, while Church reform created a rival crisis of religious and political allegiance.
 - Clubs, municipalities, sections, civic arms, print culture, sans-culottes, and fédérés made revolutionary politics locally actionable and capable of armed pressure beyond one central command.
 - Factions with incompatible aims converged on war, making loyalty the test of constitutional authority and joining revolutionary universalism, court counterrevolution, military ambition, royal duplicity, and wider conspiracy claims.
 - Invasion panic and internal-enemy rumors produced organized popular violence before later terror institutions existed.
 - Abolition and Valmy created a Republic with military credibility before its mandate, institutions, and citizenship were settled.
-- Factional struggle, Champ de Mars, regicide, inherited execution spectacle, deprivation, war, rebellion, martyrdom, and emergency bodies made violence and the destruction of sacred kingship parts of republican foundation and terror.
 
 ## Evidence
+
+### Environmental crisis, Estates-General, and national sovereignty
+
+- [[478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126]] connects weather and harvest shocks, scarcity, relief, debt, grievance politics, the representation deadlock, Sieyes's national claim, the National Assembly, Tennis Court Oath, royal retreat, troop movements, and Necker's dismissal.
 
 ### Parisian regime break and Bastille memory
 
@@ -96,6 +101,8 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 ## Qualifications
 
 - These episodes are selective and do not provide a comprehensive social, colonial, imperial, or economic history of the Revolution.
+- The opening-crisis source is a narrative synthesis and does not settle the relative priority of environmental, fiscal, social, intellectual, or institutional causes.
+- Relief by crown, Church, lottery, and employers complicates a simple indifference thesis without demonstrating adequate capacity or restored legitimacy.
 - The October Days source documents real scarcity and coercion but cannot recover hungry women's voices as fully as elite eyewitness experience.
 - The episode's factional map and motive assignments simplify fluid political groupings and cannot establish every actor's private calculation.
 - The Varennes route shows uneven local response: recognition did not become resistance in every town, and one journey cannot stand for all provincial France.
@@ -114,14 +121,18 @@ The sources frame the Revolution as a pressure system and a struggle to create p
 
 ## What Changed
 
-- The chronology now begins with the July 1789 Paris regime break rather than the Great Fear, placing military unreliability and civic arming before formal rights reform.
-- The Bastille is now treated simultaneously as a practical gunpowder target, a real arbitrary-power symbol, an amplified memory object, and a site of post-surrender vengeance.
-- The profile now begins the 1792 war story with prewar factional convergence rather than only battlefield failure.
-- Revolutionary universalism is explicitly qualified by Robespierre's armed-missionary warning and the untested consent of people marked for liberation.
-- Royal betrayal and unsupported wider conspiracy claims remain distinct even where the former made the latter persuasive.
+- The chronology now begins with the 1788 environmental and subsistence shocks rather than the July 1789 Paris regime break.
+- The Estates-General deadlock, National Assembly declaration, and Tennis Court Oath now form the institutional sovereignty break preceding the Bastille.
+- Relief and reform efforts are retained alongside their inability to resolve the convergent crisis.
+- Louis's June retreat now precedes Necker's dismissal as evidence that royal initiative had already weakened.
+- Rumor is distinguished from material distress even where scarcity and troop signals made hostile explanations politically credible.
 
 ## Relationships
 
+- [[EstatesGeneral1789]] - summoned corporate assembly whose rules became a sovereignty crisis.
+- [[NationalAssembly1789]] - national representative claim formed from the Third Estate's unilateral action.
+- [[TennisCourtOath]] - pledge that converted exclusion into constituent commitment.
+- [[RevolutionaryCrisisConvergence]] - interaction of environmental, fiscal, social, institutional, and political pressures at the Revolution's opening.
 - [[StormingOfTheBastille]] - Parisian victory that broke royal control and became a foundational national symbol.
 - [[FrenchNationalGuard]] - civic militia formed to institutionalize armed revolutionary authority.
 - [[BastilleRevolutionaryMythmaking]] - process turning the fortress's fall into a durable liberation memory.

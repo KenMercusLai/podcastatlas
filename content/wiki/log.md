@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | 478. The French Revolution: Showdown in Versailles (Part 4)
+
+Added source `478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126`; created `EmmanuelJosephSieyes`, `HonoreGabrielRiquetiDeMirabeau`, `EstatesGeneral1789`, `NationalAssembly1789`, `TennisCourtOath`, `ReveillonRiot`, and `RevolutionaryCrisisConvergence`; and updated `FrenchRevolution`, `JacquesNecker`, `LouisXVI`, `MaximilienRobespierre`, `RevolutionaryHungerStreetMobilization`, and index. Core synthesis: environmental disaster, food and employment distress, fiscal breakdown, raised expectations, unresolved voting procedure, pamphlet politics, political spectacle, and coercive fear converged into a sovereignty break, while genuine relief and reform efforts remained too partial to restore control. No settled contradiction found; the source extends the Bastille sequence backward, and prices, unemployment shares, riot deaths, dialogue, private motives, and character judgments remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More
 
 Added source `ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235`; created `ColdExposureDoseAndSafety`, `InternalAccountabilityLoop`, `SchoolLearningStateDesign`, and `ShilajitEvidenceBoundary`; updated skin-renewal, motivation, sleep-stage, addiction, recovery-community, and index content. Core synthesis: the AMA repeatedly prioritizes foundations, minimum effective dose, evidence strength, and safety—especially for cold immersion, hormone-adjacent supplements, sleep claims, and clinical recovery—while making written commitments, distraction removal, rest, movement, and mutual-help access practical design tools. No settled contradiction found; numerical protocols, mechanistic claims, and supplement effects remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21952,6 +21956,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | EP 50: Evolution of Enterprise Data Engineering in Gen AI Era
 
 Added source `ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era`; created `SasankAkkinappoli`, `IBMDataStage`, `Dbt`, `EnterpriseDataModernization`, `DataPipelineCICD`, and `AIReadyDataEngineering`; updated `Databricks`, `Snowflake`, and the index. Core synthesis: enterprise data modernization is not a code relocation exercise; it must preserve business logic while improving freshness, governance, traceability, semantic correctness, and rollback safety, and those controls become more important when AI agents consume the resulting data. No settled contradiction found. The hourly inventory example is near-real-time rather than instantaneous, product comparisons remain workload-fit heuristics, and autonomous operations are prospective rather than demonstrated. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

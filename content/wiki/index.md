@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [478. The French Revolution: Showdown in Versailles (Part 4)](sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126.md) — The Rest Is History episode on the 1788-1789 convergent crisis, Estates-General deadlock, National Assembly, Tennis Court Oath, royal retreat, and Necker's dismissal.
 - [AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More](sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235.md) — Huberman Lab subscriber AMA on layered skin care, cold-exposure safety, internal accountability, REM sleep, school learning design, shilajit evidence, writing, and addiction recovery.
 - [EP 50: Evolution of Enterprise Data Engineering in Gen AI Era](sources/ep-50-evolution-of-enterprise-data-engineering-in-gen-ai-era.md) — Data Science With Sam episode with Sasank Akkinappoli on legacy ETL modernization, Databricks/Snowflake/dbt workload fit, operational data freshness, governance, data CI/CD, and AI-ready data engineering.
 - [尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？](sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19.md) — 端聞 explainer on Gyirong's trade and border role, cumulative river-valley development risk, strategic corridor dependence, and cross-border warning limits.
@@ -2763,6 +2764,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The beauty industry is betting big on AI](sources/tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-128.md) — Marketplace Tech episode on conversational beauty advice, virtual try-ons, generative-engine optimization, medical and biometric risk, and consumer reluctance to delegate checkout.
 
 ## Entities
+- [Emmanuel-Joseph Sieyes](entities/EmmanuelJosephSieyes.md) — Cleric and pamphleteer who recast the Third Estate as the French nation.
+- [Estates-General of 1789](entities/EstatesGeneral1789.md) — Royal assembly whose unresolved verification and voting rules became a sovereignty crisis.
+- [Honore-Gabriel Riqueti, comte de Mirabeau](entities/HonoreGabrielRiquetiDeMirabeau.md) — Noble Third Estate deputy whose oratory dramatized resistance to royal dispersal.
+- [National Assembly of 1789](entities/NationalAssembly1789.md) — Body that claimed national representation, tax authority, and a constituent mission in June 1789.
+- [Reveillon Riot](entities/ReveillonRiot.md) — April 1789 Paris riot in which a false wage rumor acted upon real scarcity and unemployment.
+- [Tennis Court Oath](entities/TennisCourtOath.md) — Deputies' pledge not to separate before establishing a French constitution.
 - [Sasank Akkinappoli](entities/SasankAkkinappoli.md) — Senior data engineer discussing legacy-to-cloud modernization, governance, pipeline reliability, and AI-ready data products.
 - [IBM DataStage](entities/IBMDataStage.md) — Enterprise batch ETL product used to frame the business-logic and continuity constraints of data modernization.
 - [dbt](entities/Dbt.md) — SQL-oriented transformation layer using macros and templating for reusable warehouse workflows.
@@ -13403,6 +13410,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 
 ## Concepts
+- [Revolutionary Crisis Convergence](concepts/RevolutionaryCrisisConvergence.md) — Process through which environmental, fiscal, subsistence, institutional, expectation, rumor, and coercive pressures reinforce one another into political rupture.
 - [Cold Exposure Dose and Safety](concepts/ColdExposureDoseAndSafety.md) — Minimum-effective-dose cold framework with explicit immersion, breathwork, hypothermia, and cardiovascular safety gates.
 - [Internal Accountability Loop](concepts/InternalAccountabilityLoop.md) — Written commitment, distraction control, task completion, sign-off, and effort-centered reward as a closed action cycle.
 - [School Learning State Design](concepts/SchoolLearningStateDesign.md) — School-level integration of sleep opportunity, attention, movement, brief rest, and lesson pacing.

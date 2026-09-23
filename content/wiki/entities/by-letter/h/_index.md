@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10629
+wiki_total_pages: 10635
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "HonoreDeBalzac"
     title: "Honore de Balzac / 巴尔扎克"
     url: "/wiki/entities/honoredebalzac/"
+  - key: "HonoreGabrielRiquetiDeMirabeau"
+    title: "Honore-Gabriel Riqueti, comte de Mirabeau"
+    url: "/wiki/entities/honoregabrielriquetidemirabeau/"
   - key: "Hookie"
     title: "Hookie"
     url: "/wiki/entities/hookie/"

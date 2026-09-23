@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8005
+wiki_total_pages: 8006
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "RevolutionaryChurchStateRupture"
     title: "Revolutionary Church-State Rupture"
     url: "/wiki/concepts/revolutionarychurchstaterupture/"
+  - key: "RevolutionaryCrisisConvergence"
+    title: "Revolutionary Crisis Convergence"
+    url: "/wiki/concepts/revolutionarycrisisconvergence/"
   - key: "RevolutionaryCrowdVengeance"
     title: "Revolutionary Crowd Vengeance"
     url: "/wiki/concepts/revolutionarycrowdvengeance/"

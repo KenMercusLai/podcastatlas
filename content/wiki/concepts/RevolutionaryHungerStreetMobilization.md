@@ -5,8 +5,9 @@ tags: [scarcity, political-mobilization, french-revolution, rumor]
 sources:
   - 481-the-french-revolution-the-womens-march-on-versailles-part-7-glt9783455254
   - 479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441
+  - 478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-23
+last_updated: 2026-09-24
 ---
 
 # Revolutionary Hunger and Street Mobilization
@@ -17,11 +18,12 @@ Revolutionary hunger and street mobilization describes how food scarcity turns i
 
 ## Current Synthesis
 
-The sources show the mechanism operating in two escalating crises. Before the Bastille, bad harvests and bread near 15 sous joined troop fear, [[JacquesNecker|Necker]]'s dismissal, and claims about enemies of the people; attacks on Saint-Lazare food stores made alleged hoarding physically visible, while the search for weapons turned scarcity politics into armed regime crisis. Before the October Days, prices rose despite ripening grain because low water immobilized mills and constrained supply. Parisian women experienced that crisis materially, while radical rhetoric attributed hunger to the queen, court, aristocrats, and hidden counterrevolution. Market networks supplied organization, the bread demand supplied legitimacy, and rumor converted hardship into an armed march on political power.
+The sources show the mechanism developing across three escalating crises. The 1788 hailstorm, drought, harvest failure, winter cold, rural insecurity, migration, unemployment, and rising bread prices created the material base on which hoarding and ministerial-conspiracy stories could act. The [[ReveillonRiot|Réveillon riot]] shows false attribution operating within real hardship: a distorted wage claim helped direct a crowd against an employer portrayed as comparatively generous. Before the Bastille, bread near 15 sous joined troop fear, [[JacquesNecker|Necker]]'s dismissal, and claims about enemies of the people; attacks on Saint-Lazare food stores made alleged hoarding physically visible, while the search for weapons turned scarcity politics into armed regime crisis. Before the October Days, milling disruption, market organization, and anti-court rumor converted hunger into an armed march on political power.
 
 ## Key Claims
 
 - Real supply disruption can coexist with inaccurate claims of deliberate scarcity.
+- False immediate accusations can become actionable when wider deprivation and unemployment are real.
 - Subsistence pressure lowers the distance between abstract constitutional conflict and direct action.
 - Everyday market networks can become rapid political-mobilization infrastructure.
 - Hunger gives political demands moral urgency without predetermining the form or legitimacy of resulting violence.
@@ -29,6 +31,10 @@ The sources show the mechanism operating in two escalating crises. Before the Ba
 - Subsistence crisis becomes regime crisis when it combines with troop fear, elite distrust, and access to arms.
 
 ## Evidence
+
+### Harvest failure, unemployment, and the Réveillon riot
+
+- [[478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126]] connects weather shocks, failed harvests, bread inflation, rural insecurity, urban unemployment, scarcity rumor, and the false wage claim preceding the Réveillon riot.
 
 ### Bread inflation and the Bastille crisis
 
@@ -48,15 +54,19 @@ The sources show the mechanism operating in two escalating crises. Before the Ba
 - Explaining mobilization through hunger does not reduce the marchers to apolitical desperation; their demands also concerned royal acceptance and revolutionary security.
 - Material grievance does not validate every conspiracy claim or excuse killing and coercion.
 - The reported bread prices, food quantities, crowd motives, and causal weight of hunger remain source-scoped.
+- Royal, clerical, lottery-funded, and employer relief complicate a picture of universal elite indifference without showing that relief was sufficient.
 
 ## What Changed
 
-- The concept now begins before the Bastille and distinguishes food-store discovery from proof of a coordinated starvation plot.
-- Created the concept to keep real subsistence pressure distinct from the intentional-starvation narratives attached to it.
+- Extends the concept into 1788-1789 weather, harvest, winter, employment, and rural-debt pressures.
+- Adds the Réveillon riot as a case where a false immediate claim acted upon genuine subsistence distress.
+- Preserves the distinction between material scarcity, discovered food stocks, and proof of a coordinated starvation plot.
 
 ## Related Concepts
 
 - [[StormingOfTheBastille]] - earlier event in which hunger combined with troop fear and armed mobilization.
+- [[ReveillonRiot]] - pre-Estates-General case of rumor acting through real deprivation.
+- [[RevolutionaryCrisisConvergence]] - wider system in which subsistence distress combined with fiscal and institutional failure.
 - [[RevolutionaryCrowdVengeance]] - violent punishment that can follow when deprivation and betrayal claims fuse.
 - [[OctoberDays1789]] - principal event in which this mechanism becomes visible.
 - [[CrowdSovereigntyRepresentationConflict]] - political authority conflict activated by subsistence mobilization.

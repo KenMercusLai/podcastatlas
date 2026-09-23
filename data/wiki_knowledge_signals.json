@@ -38517,6 +38517,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/emmathomas/"
     },
+    "EmmanuelJosephSieyes": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/emmanueljosephsieyes/"
+    },
     "EmmyAwards": {
       "episode_count": 1,
       "show_count": 1,
@@ -41788,6 +41804,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/establishedheirreplacementrisk/"
+    },
+    "EstatesGeneral1789": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/estatesgeneral1789/"
     },
     "EstherPerel": {
       "episode_count": 1,
@@ -48327,9 +48359,9 @@
       "url": "/wiki/entities/frenchnationalguard/"
     },
     "FrenchRevolution": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 2,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -48435,9 +48467,16 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/frenchrevolution/"
     },
     "FreshAllergySafeProductionScaling": {
@@ -61065,6 +61104,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/honorduelculture/"
     },
+    "HonoreGabrielRiquetiDeMirabeau": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/honoregabrielriquetidemirabeau/"
+    },
     "HonorsWithoutOfficeSettlement": {
       "episode_count": 1,
       "show_count": 1,
@@ -68149,9 +68204,9 @@
       "url": "/wiki/entities/jacqueslouisdavid/"
     },
     "JacquesNecker": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5485693441 [GLT5485693441].md",
@@ -68159,9 +68214,16 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/jacquesnecker/"
     },
     "JacquesPierreBrissot": {
@@ -82178,9 +82240,9 @@
       "url": "/wiki/entities/louisoforleans/"
     },
     "LouisXVI": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "GLT2184509954 [GLT2184509954].md",
@@ -82237,9 +82299,16 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/louisxvi/"
     },
     "LouisianaPurchase": {
@@ -87035,9 +87104,9 @@
       "url": "/wiki/concepts/maximalspeedvitalityhypothesis/"
     },
     "MaximilienRobespierre": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "125. 马拉之死：卑鄙的暗杀，或正义的处决？ [783972516].md",
@@ -87094,9 +87163,16 @@
           "show": "The Rest Is History",
           "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
           "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
+        },
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/maximilienrobespierre/"
     },
     "MayaActive": {
@@ -92563,6 +92639,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/nationalanthempoliticalplasticity/"
+    },
+    "NationalAssembly1789": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/nationalassembly1789/"
     },
     "NationalCollegiateAthleticAssociation": {
       "episode_count": 1,
@@ -110262,6 +110354,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/returningarmyinterdictionrisk/"
     },
+    "ReveillonRiot": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/reveillonriot/"
+    },
     "RevelPharma": {
       "episode_count": 1,
       "show_count": 1,
@@ -110358,6 +110466,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/revolutionarychurchstaterupture/"
     },
+    "RevolutionaryCrisisConvergence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/revolutionarycrisisconvergence/"
+    },
     "RevolutionaryCrowdVengeance": {
       "episode_count": 1,
       "show_count": 1,
@@ -110407,9 +110531,9 @@
       "url": "/wiki/concepts/revolutionaryfactionaloutflanking/"
     },
     "RevolutionaryHungerStreetMobilization": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9783455254 [GLT9783455254].md",
@@ -110424,9 +110548,16 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/revolutionaryhungerstreetmobilization/"
     },
     "RevolutionaryIdeologicalWar": {
@@ -127689,6 +127820,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/tengyanlatehan/"
+    },
+    "TennisCourtOath": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4803391126 [GLT4803391126].md",
+          "key": "478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126",
+          "show": "The Rest Is History",
+          "title": "478. The French Revolution: Showdown in Versailles (Part 4)",
+          "url": "/wiki/sources/478-the-french-revolution-showdown-in-versailles-part-4-glt4803391126/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/tenniscourtoath/"
     },
     "TeoSoleymani": {
       "episode_count": 1,

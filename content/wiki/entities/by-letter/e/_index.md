@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10629
+wiki_total_pages: 10635
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "EmmanuelMignot"
     title: "Emmanuel Mignot"
     url: "/wiki/entities/emmanuelmignot/"
+  - key: "EmmanuelJosephSieyes"
+    title: "Emmanuel-Joseph Sieyes"
+    url: "/wiki/entities/emmanueljosephsieyes/"
   - key: "EmmettShear"
     title: "Emmett Shear"
     url: "/wiki/entities/emmettshear/"
@@ -464,6 +467,9 @@ wiki_pages:
   - key: "EspressoCodeEditor"
     title: "Espresso"
     url: "/wiki/entities/espressocodeeditor/"
+  - key: "EstatesGeneral1789"
+    title: "Estates-General of 1789"
+    url: "/wiki/entities/estatesgeneral1789/"
   - key: "EstherDuflo"
     title: "Esther Duflo"
     url: "/wiki/entities/estherduflo/"

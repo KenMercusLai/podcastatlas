@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10629
+wiki_total_pages: 10635
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -269,6 +269,9 @@ wiki_pages:
   - key: "Tennessee"
     title: "Tennessee"
     url: "/wiki/entities/tennessee/"
+  - key: "TennisCourtOath"
+    title: "Tennis Court Oath"
+    url: "/wiki/entities/tenniscourtoath/"
   - key: "TensorFlow"
     title: "TensorFlow"
     url: "/wiki/entities/tensorflow/"
