@@ -2119,6 +2119,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
     },
+    "AIEntertainmentParticipationDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/aientertainmentparticipationdesign/"
+    },
     "AIEraMajorChoice": {
       "episode_count": 3,
       "show_count": 2,
@@ -2646,6 +2662,99 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/aiinsurancedatascarcity/"
+    },
+    "AIInteractiveEntertainment": {
+      "episode_count": 12,
+      "show_count": 8,
+      "source_note_count": 12,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Open Source Wins, AGI Is Here, and Scorsese’s AI Toolkit with CEOs of Cerebras & Black Forest Labs [42029880].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs-42029880/"
+        },
+        {
+          "episode_file": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频 [lsB53BqRjojiaDNLQ2QE4StA_B13].md",
+          "key": "kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13",
+          "show": "十字路口Crossing",
+          "title": "快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频",
+          "url": "/wiki/sources/kuai-yidian-zai-kuai-yidian-kuai-dao-shijie-neng-shishi-shengcheng-he-shengshu-keji-zhang-jintao-liao-vidu-s1-tuili-jiasu-shishi-jiaohu-shipin-lsb53bqrjojiadnlq2qe4sta-b13/"
+        },
+        {
+          "episode_file": "EP242 独立游戏，是一条搞钱好赛道吗？ [lrqbZrCEumbuGGzuERo5QB4Jv3zu].md",
+          "key": "ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu",
+          "show": "Talk三联",
+          "title": "EP242 独立游戏，是一条搞钱好赛道吗？",
+          "url": "/wiki/sources/ep242-duli-youxi-shi-yitiao-gaoqian-hao-saidao-ma-lrqbzrceumbuggzuero5qb4jv3zu/"
+        },
+        {
+          "episode_file": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏 [loO-1ybVpymqgCDLe0P0iLTL9ueO].md",
+          "key": "130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
+          "url": "/wiki/sources/130-zhang-yueguang-chuangye-liangnian-shouci-fangtan-miaoya-bushi-ai-native-chanpin-liucheng-dao-shangxiawen-sheji-one-way-door-he-yinv-youxi/"
+        },
+        {
+          "episode_file": "2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁 [lgK71gYTqTSvKc_wIPz0hkZkEMne].md",
+          "key": "2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne",
+          "show": "十字路口Crossing",
+          "title": "2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁",
+          "url": "/wiki/sources/2026-ai-youxi-quanjing-saomiao-si-ceng-tujing-san-da-wuqu-yi-ge-gongshi-quekou-duitan-405-youju-xiaoning-lgk71gytqtsvkc-wipz0hkzkemne/"
+        },
+        {
+          "episode_file": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 ⧸ CEO [ltfH_oN-4QQZ-ArdqURY4G0JejEC].md",
+          "key": "ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec",
+          "show": "十字路口Crossing",
+          "title": "她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO",
+          "url": "/wiki/sources/ta-xiang-zao-yi-ge-ai-shidai-de-chaoji-youlechang-duitan-roi-mujian-chuangshiren-ceo-ltfh-on-4qqz-ardqury4g0jejec/"
+        },
+        {
+          "episode_file": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白 [lhrRhFslND1z9cUu2VKUXbb5pVjX].md",
+          "key": "ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx",
+          "show": "硬地骇客",
+          "title": "EP101 对话 Simon：AI 创业者的第一项基本功是把账算明白",
+          "url": "/wiki/sources/ep101-duihua-simon-ai-chuangyezhe-de-diyi-xiang-jibengong-shi-ba-zhang-suan-mingbai-lhrrhfslnd1z9cuu2vkuxbb5pvjx/"
+        },
+        {
+          "episode_file": "Vol. 162 科技快乐星球44： 新模型“SOTA们”齐贺新春 (1) [6628-1].md",
+          "key": "vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1",
+          "show": "枫言枫语",
+          "title": "Vol. 162 科技快乐星球44: 新模型“SOTA们”齐贺新春",
+          "url": "/wiki/sources/vol-162-keji-kuaile-xingqiu-44-xin-moxing-sotamen-qihe-xinchun-1-6628-1/"
+        },
+        {
+          "episode_file": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力 (1) [6674-1].md",
+          "key": "vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1",
+          "show": "枫言枫语",
+          "title": "Vol. 170 Fable 5 重出江湖，GPT 仍需努力",
+          "url": "/wiki/sources/vol-170-fable-5-zhongchujianghu-gpt-rengxu-nuli-1-6674-1/"
+        },
+        {
+          "episode_file": "266.从红果到AI短剧：谁在革谁的命？ [lgZf6BU7bfaLR5QvNhlFZkuFAHOb].md",
+          "key": "266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob",
+          "show": "乱翻书",
+          "title": "266.从红果到AI短剧：谁在革谁的命？",
+          "url": "/wiki/sources/266-cong-hongguo-dao-ai-duanju-shui-zai-ge-shui-de-ming-lgzf6bu7bfalr5qvnhlfzkufahob/"
+        },
+        {
+          "episode_file": "269.真人短剧的下一战：与AI共生、工业化和好故事 [lmwHgQD0rgE4mr0FWP5QPR2scWXt].md",
+          "key": "269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt",
+          "show": "乱翻书",
+          "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+          "url": "/wiki/sources/269-zhenren-duanju-de-xiayizhan-yu-ai-gongsheng-gongyehua-he-hao-gushi-lmwhgqd0rge4mr0fwp5qpr2scwxt/"
+        },
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/aiinteractiveentertainment/"
     },
     "AIInvestmentMarginDrag": {
       "episode_count": 1,
@@ -35129,6 +35238,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/dongguanhanji/"
     },
+    "DongnianYinxian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/dongnianyinxian/"
+    },
     "DongqiangLateHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -38871,6 +38996,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/emergencyinstitutionstoterror/"
     },
+    "EmergentCreation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/emergentcreation/"
+    },
     "EmergentInnovationStrategy": {
       "episode_count": 1,
       "show_count": 1,
@@ -41837,6 +41978,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/enterpriseownedmodels/"
+    },
+    "EntertainmentProblemSetting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/entertainmentproblemsetting/"
     },
     "EnthusiastDeviceCommunity": {
       "episode_count": 1,
@@ -77551,6 +77708,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/liangbuyilatehan/"
     },
+    "LiangChenqi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/liangchenqi/"
+    },
     "LiangGuirenHeLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -87016,6 +87189,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/maozhongqun/"
+    },
+    "Maoxiang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/maoxiang/"
     },
     "MarcBrackett": {
       "episode_count": 2,
@@ -122250,6 +122439,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/songyoueasternhan/"
+    },
+    "SongguoShike": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」 (1) [182-1].md",
+          "key": "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1",
+          "show": "晚点聊 LateTalk",
+          "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+          "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/songguoshike/"
     },
     "Songtsam": {
       "episode_count": 1,

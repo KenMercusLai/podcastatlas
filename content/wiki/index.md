@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」](sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1.md) — LateTalk founder interview on Douyin and Maoxiang product lessons, AI-native entertainment, emergent creation, consequential participation, inference economics, and startup organization.
 - [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e.md) — 硅谷101 founder interview on Eight Sleep's sensing-to-intervention loop, dynamic temperature, preventive-health ambitions, hardware execution, premium pricing, and China localization.
 - [Vol.276 做月嫂育儿嫂的姐姐，都有故事](sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906.md) — 商业就是这样 conversation with domestic-service consultant 怡婷 on care-worker matching, live-in boundaries, atomized-family demand, professional dignity, and the limits of automating human care.
 - [月饼市场持续降温，豆包缩减对话业务团队](sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242.md) — 声动早咖啡 roundup on Alibaba's model-chip-device push, Doubao's consumer-revenue gap, personal-agent platform conflict, retail procurement, resort expansion, and weaker mooncake gifting.
@@ -2782,6 +2783,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete](sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit.md) — All-In interview on acquired product-market fit, shared software operations, selective hiring, acquisition underwriting, leverage, and permanent-ownership integration.
 
 ## Entities
+- [Liang Chenqi / 梁琛奇](entities/LiangChenqi.md) — Former Douyin and ByteDance FLOW product leader building AI-native entertainment through Dongnian Yinxian.
+- [Dongnian Yinxian / 动念引线](entities/DongnianYinxian.md) — Liang Chenqi's startup exploring AI entertainment, imaginative expression, and interactive worlds through small product teams.
+- [Maoxiang / 猫箱](entities/Maoxiang.md) — ByteDance FLOW interactive-story product combining creator-authored characters and frames with runtime AI branches.
+- [Songguo Shike / 松果时刻](entities/SongguoShike.md) — Consumer AI creation product testing low-input but personally consequential imaginative expression.
 - [Yi Ting / 怡婷（家政顾问）](entities/YiTingDomesticServiceConsultant.md) — Shanghai domestic-service consultant who combines sociology, recruitment, household requirement discovery, and post-placement mediation.
 - [Eddie Wu / 吴泳铭](entities/EddieWu.md) — Alibaba CEO associated with the source-reported Qwen scaling plan and long-term model-chip-cloud investment.
 - [Qwen Tablet / 千问平板](entities/QwenTablet.md) — Source-reported Alibaba tablet experiment positioning Qwen as a system-level agent rather than a standalone app.
@@ -13467,6 +13472,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
 
 ## Concepts
+- [Entertainment as Problem-Setting / 娱乐产品出题](concepts/EntertainmentProblemSetting.md) — Product frame in which entertainment invents and validates a new activity, feeling, interaction, or world rather than solving an existing task.
+- [Emergent Creation / 涌现式创作](concepts/EmergentCreation.md) — Human-authored concepts, characters, rules, or worlds expanded by AI into many concrete expressions and interaction branches.
+- [AI Entertainment Participation Design / AI 娱乐参与感设计](concepts/AIEntertainmentParticipationDesign.md) — Design requirement that simple user actions remain causally meaningful while AI supplies rich generated output.
 - [Domestic-Care Labor Matching / 家政照护劳动匹配](concepts/DomesticCareLaborMatching.md) — Continuing bilateral discovery, selection, negotiation, and after-sales support across households and care workers.
 - [Live-In Domestic Work Boundary / 住家家政关系边界](concepts/LiveInDomesticWorkBoundary.md) — Negotiated line between paid employment and quasi-family intimacy inside a household.
 - [Atomized-Family Care Marketization / 家庭原子化与照护市场化](concepts/AtomizedFamilyCareMarketization.md) — Shift toward purchased care when migration, weak support networks, and childcare gaps isolate household responsibility.

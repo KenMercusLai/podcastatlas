@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8029
+wiki_total_pages: 8032
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "EmergencyWarningInfrastructure"
     title: "Emergency Warning Infrastructure"
     url: "/wiki/concepts/emergencywarninginfrastructure/"
+  - key: "EmergentCreation"
+    title: "Emergent Creation / 涌现式创作"
+    url: "/wiki/concepts/emergentcreation/"
   - key: "EmergentInnovationStrategy"
     title: "Emergent Innovation Strategy / 涌现式创新战略"
     url: "/wiki/concepts/emergentinnovationstrategy/"
@@ -611,6 +614,9 @@ wiki_pages:
   - key: "EnterpriseRunSociety"
     title: "Enterprise-Run Society / 企业办社会"
     url: "/wiki/concepts/enterpriserunsociety/"
+  - key: "EntertainmentProblemSetting"
+    title: "Entertainment as Problem-Setting / 娱乐产品出题"
+    url: "/wiki/concepts/entertainmentproblemsetting/"
   - key: "EntertainmentIPFlywheel"
     title: "Entertainment IP Flywheel"
     url: "/wiki/concepts/entertainmentipflywheel/"

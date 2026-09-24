@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10674
+wiki_total_pages: 10678
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "LiamMcMillen"
     title: "Liam McMillen"
     url: "/wiki/entities/liammcmillen/"
+  - key: "LiangChenqi"
+    title: "Liang Chenqi / 梁琛奇"
+    url: "/wiki/entities/liangchenqi/"
   - key: "LiangJianzhang"
     title: "Liang Jianzhang"
     url: "/wiki/entities/liangjianzhang/"

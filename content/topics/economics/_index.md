@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2086
+topic_total_pages: 2087
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5568,6 +5568,9 @@ topic_sources:
   - key: "182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8"
     title: "182.全球宏观和资本市场2026三季度复盘与展望：多重囚徒困境"
     url: "/wiki/sources/182-quanqiu-hongguan-he-ziben-shichang-2026-sanjidu-fupan-yu-zhanwang-duochong-qiutu-kunjing-lllsfo2sf5jdqirx5o9dn55uqhd8/"
+  - key: "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1"
+    title: "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」"
+    url: "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"

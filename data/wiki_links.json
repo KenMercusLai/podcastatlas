@@ -2491,6 +2491,10 @@
     "title": "AI Engineering Thinking",
     "url": "/wiki/concepts/aiengineeringthinking/"
   },
+  "AIEntertainmentParticipationDesign": {
+    "title": "AI Entertainment Participation Design / AI 娱乐参与感设计",
+    "url": "/wiki/concepts/aientertainmentparticipationdesign/"
+  },
   "AIEquityValuationRisk": {
     "title": "AI Equity Valuation Risk",
     "url": "/wiki/concepts/aiequityvaluationrisk/"
@@ -19563,6 +19567,10 @@
     "title": "Dongmen Yellow Dog / 东门黄犬",
     "url": "/wiki/concepts/dongmenyellowdog/"
   },
+  "DongnianYinxian": {
+    "title": "Dongnian Yinxian / 动念引线",
+    "url": "/wiki/entities/dongnianyinxian/"
+  },
   "Dongniao": {
     "title": "懂鸟 / Dongniao",
     "url": "/wiki/entities/dongniao/"
@@ -21275,6 +21283,10 @@
     "title": "Emergency Warning Infrastructure",
     "url": "/wiki/concepts/emergencywarninginfrastructure/"
   },
+  "EmergentCreation": {
+    "title": "Emergent Creation / 涌现式创作",
+    "url": "/wiki/concepts/emergentcreation/"
+  },
   "EmergentInnovationStrategy": {
     "title": "Emergent Innovation Strategy / 涌现式创新战略",
     "url": "/wiki/concepts/emergentinnovationstrategy/"
@@ -21846,6 +21858,10 @@
   "EntertainmentIPFlywheel": {
     "title": "Entertainment IP Flywheel",
     "url": "/wiki/concepts/entertainmentipflywheel/"
+  },
+  "EntertainmentProblemSetting": {
+    "title": "Entertainment as Problem-Setting / 娱乐产品出题",
+    "url": "/wiki/concepts/entertainmentproblemsetting/"
   },
   "EnthusiastDeviceCommunity": {
     "title": "Enthusiast Device Community / 发烧设备社区",
@@ -39111,6 +39127,10 @@
     "title": "梁不疑 / Liang Buyi (late Han)",
     "url": "/wiki/entities/liangbuyilatehan/"
   },
+  "LiangChenqi": {
+    "title": "Liang Chenqi / 梁琛奇",
+    "url": "/wiki/entities/liangchenqi/"
+  },
   "LiangGuirenHeLateHan": {
     "title": "梁贵人 / Liang Guiren (Emperor He era)",
     "url": "/wiki/entities/liangguirenhelatehan/"
@@ -42490,6 +42510,10 @@
   "MaomiMishiBook": {
     "title": "《猫咪秘史：从史前时期到太空时代》",
     "url": "/wiki/entities/maomimishibook/"
+  },
+  "Maoxiang": {
+    "title": "Maoxiang / 猫箱",
+    "url": "/wiki/entities/maoxiang/"
   },
   "Mapingguan": {
     "title": "马坪关 / Mapingguan",
@@ -60979,6 +61003,10 @@
     "title": "宋子文",
     "url": "/wiki/entities/songziwen/"
   },
+  "SongguoShike": {
+    "title": "Songguo Shike / 松果时刻",
+    "url": "/wiki/entities/songguoshike/"
+  },
   "Songtsam": {
     "title": "Songtsam / 松赞",
     "url": "/wiki/entities/songtsam/"
@@ -77514,6 +77542,10 @@
   "dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop": {
     "title": "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！",
     "url": "/wiki/sources/dui-juanjuan-de-3-xiaoshi-fangtan-cong-douyin-dao-ai-3d-chuangye-de-guoshanche-chengwei-zhizaoye-os-de-yexin-jichu-moxing-buhui-tunshi-yiqie-lh4sk1hb1cwhpr-ttgqrbiq-psop/"
+  },
+  "duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1": {
+    "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+    "url": "/wiki/sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1/"
   },
   "duihua-liblib-chenmian-guanyu-huoxialai-yiji-suoyou-jiejin-siwang-de-shike-1-175-1": {
     "title": "175: 对话Liblib陈冕：关于活下来，以及所有接近死亡的时刻",

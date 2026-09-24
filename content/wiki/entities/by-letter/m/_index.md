@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10674
+wiki_total_pages: 10678
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -206,6 +206,9 @@ wiki_pages:
   - key: "MaoZhongqun"
     title: "Mao Zhongqun / 毛中群"
     url: "/wiki/entities/maozhongqun/"
+  - key: "Maoxiang"
+    title: "Maoxiang / 猫箱"
+    url: "/wiki/entities/maoxiang/"
   - key: "MappingPoliceViolence"
     title: "Mapping Police Violence"
     url: "/wiki/entities/mappingpoliceviolence/"

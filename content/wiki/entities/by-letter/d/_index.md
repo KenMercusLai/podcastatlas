@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10674
+wiki_total_pages: 10678
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "Dongguan"
     title: "Dongguan / 东莞"
     url: "/wiki/entities/dongguan/"
+  - key: "DongnianYinxian"
+    title: "Dongnian Yinxian / 动念引线"
+    url: "/wiki/entities/dongnianyinxian/"
   - key: "DongtingLake"
     title: "Dongting Lake / 洞庭湖"
     url: "/wiki/entities/dongtinglake/"

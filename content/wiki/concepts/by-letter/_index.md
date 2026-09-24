@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8029
+wiki_total_pages: 8032
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "AIEngineeringThinking"
     title: "AI Engineering Thinking"
     url: "/wiki/concepts/aiengineeringthinking/"
+  - key: "AIEntertainmentParticipationDesign"
+    title: "AI Entertainment Participation Design / AI 娱乐参与感设计"
+    url: "/wiki/concepts/aientertainmentparticipationdesign/"
   - key: "AIEquityValuationRisk"
     title: "AI Equity Valuation Risk"
     url: "/wiki/concepts/aiequityvaluationrisk/"
