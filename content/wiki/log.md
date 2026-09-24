@@ -21945,6 +21945,10 @@ Added source `national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-24] ingest | Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit`; created `LucaFerrari`, `AcquiredProductMarketFit`, and `SoftwareAcquisitionOperatingPlatform`; migrated and updated `BendingSpoons` and `LongTermPrivateOwnership`; and updated the index. Core synthesis: Bending Spoons separates demand discovery from post-acquisition execution by buying products with existing users, then applying shared technology, small teams, selective hiring, and permanent-ownership integration; the strategy depends on transferable operating capability rather than capital or cost cutting alone. No settled contradiction found; an earlier Airtable cost-reset frame is broadened rather than rejected, while returns, leverage, valuation, staffing, hiring, portfolio scale, customer outcomes, restructuring effects, and failed integrations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -22068,6 +22072,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | 708. The Terror: The Reign of Robespierre (Part 2)
 
 Added source `708-the-terror-the-reign-of-robespierre-part-2-glt2099451333`; created `GeorgesCouthon`, `LawOfSuspects`, `LeveeEnMasse`, and `ConstitutionOf1793`; updated `MaximilienRobespierre`, `CommitteeOfPublicSafety`, `RevolutionaryTribunal`, `LouisAntoineSaintJust`, `Girondins`, `EmergencyInstitutionsToTerror`, `RevolutionaryTerrorPolitics`, `RevolutionaryVirtuePolitics`, and `CrisisValidatedConspiracyPolitics`; and updated the index. Core synthesis: improvised emergency bodies became explicit state terror through centralized judicial staffing, broadened suspect categories, constitutional suspension, and politically required convictions, while Robespierre's progressive commitments and incorruptible reputation helped make exceptional government appear virtuous and temporary. No settled contradiction found; his rejection of some indiscriminate provincial punishments qualifies but does not erase his support for coercion, and effectiveness, vote totals, execution counts, biographical psychology, reported dialogue, and causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

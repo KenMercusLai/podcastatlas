@@ -6681,6 +6681,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AcquiredProductMarketFit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AcquiredTraitInheritanceBoundary": [
     {
       "key": "science",
@@ -45145,6 +45152,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LucaFerrari": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LucasStartupEmbassyResident": [
     {
       "key": "technology",
@@ -65786,6 +65800,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "SoftwareAcquisitionOperatingPlatform": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "SoftwareAsCulturalWork": [
     {
       "key": "technology",
@@ -82635,6 +82656,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640": [

@@ -2776,6 +2776,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.126天热没胃口、睡不醒、乏力气短 中医教你除湿方法｜中暑竟是有寒在先](sources/vol-126-tianre-mei-weikou-shuibuxing-fali-qiduan-zhongyi-jiao-ni-chushi-fangfa-zhongshu-jingshi-you-han-zaixian-ltokazmbcf7gttvl9s-xsypc6tzt.md) — 这病说来话长 episode on individualized summer self-care, source-scoped cold-damp and damp-heat patterning, non-extreme cooling and diet choices, and prompt escalation for serious heat illness.
 - [VOL.125糟了！你也脑子不好？记性差？这是痴呆前兆吗？先来看5大认知域3个阶段｜神经内科](sources/vol-125-zaole-ni-ye-naozi-buhao-jixing-cha-zheshi-chidai-qianzhao-ma-xian-laikan-5-da-renzhi-yu-3-ge-jieduan-shenjing-neike-lufu3bfcfvjbhxku1n96rngoohqx.md) — 这病说来话长 episode on five cognitive domains, subjective decline, mild cognitive impairment, dementia-level functional loss, and non-alarmist interpretation of younger-adult forgetfulness.
 - [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
+- [Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete](sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit.md) — All-In interview on acquired product-market fit, shared software operations, selective hiring, acquisition underwriting, leverage, and permanent-ownership integration.
 
 ## Entities
 - [Eddie Wu / 吴泳铭](entities/EddieWu.md) — Alibaba CEO associated with the source-reported Qwen scaling plan and long-term model-chip-cloud investment.
@@ -5583,7 +5584,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巴郡 / Ba Commandery (late Han)](entities/BaCommanderyLateHan.md) — Yizhou commandery used across Fu Zhi, Bandun Man, Five-Pecks, and Ma Xiang-Zhao Zhi unrest layers.
 - [犍为郡 / Qianwei Commandery (late Han)](entities/QianweiCommanderyLateHan.md) — Yizhou commandery paired with Ba in the episode's account of revolt spread.
 - [Airtable](entities/Airtable.md) — No-code SaaS company used by All-In as a post-ZIRP valuation reset and AI disruption case.
-- [Bending Spoons](entities/BendingSpoons.md) — Milan-based software acquirer framed as Airtable's cost-discipline and product-led-growth operator.
+- [Bending Spoons](entities/BendingSpoons.md) — Milan-based software acquirer using shared technology, small teams, and permanent ownership to integrate established products.
 - [Hyper Agent](entities/HyperAgent.md) — Airtable-adjacent AI-agent spinout treated as the separated AI upside branch in the Airtable sale.
 - [Discovery Loop](entities/DiscoveryLoop.md) — Reported Jeff Dean-linked AI-for-science startup used as a Google AI brain-drain, smaller-team execution, and model/cloud conflict signal.
 - [Surge AI](entities/SurgeAI.md) — U.S. data-labeling company named in the episode's expert-data sales and China control debate.
@@ -13459,6 +13460,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paula Mejia](entities/PaulaMejia.md) — Writer linking luxury digital-detox services and a short personal phone-use experiment to broader cultural and workplace expectations.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
+- [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
 
 ## Concepts
 - [Consumer AI Revenue Gap](concepts/ConsumerAIRevenueGap.md) — Mismatch between consumer-assistant usage scale and direct revenue after serving and product costs.
@@ -16195,7 +16197,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Capability-Bounded Growth](concepts/CapabilityBoundedGrowth.md) — Koch strategy frame where corporate scope follows demonstrated capabilities and comparative advantage rather than industry labels.
 - [Koch Operating Principles](concepts/KochOperatingPrinciples.md) — Source-specific management framework around vision, capabilities, virtue and talents, knowledge, motivation, incentives, and behavior change.
 - [Values-First Talent](concepts/ValuesFirstTalent.md) — Hiring frame that puts values before skills and credentials to avoid destructive but capable leaders.
-- [Long-Term Private Ownership](concepts/LongTermPrivateOwnership.md) — Governance frame where private control protects reinvestment, experimentation, and operating principles from public-market pressure.
+- [Long-Term Private Ownership](concepts/LongTermPrivateOwnership.md) — Governance frame where patient private control can protect reinvestment, operating principles, and deep acquisition integration.
 - [Barrier-Removal Social Change](concepts/BarrierRemovalSocialChange.md) — Koch/Stand Together frame that social change should remove institutional barriers to agency, capability, contribution, and human flourishing.
 - [信陵君非正常死亡疑云 / Xinlingjun Death Suspicion](concepts/XinlingjunDeathSuspicion.md) — Source-scoped hypothesis that Xinlingjun's death before Wei Anxi Wang may reflect succession-security removal rather than only frustrated withdrawal.
 - [鬻爵赈灾融资 / Rank Sale Disaster Finance](concepts/RankSaleDisasterFinance.md) — Qin and late-Han mechanism of monetizing rank, status, or court-adjacent identity during disaster, epidemic, frontier, and fiscal pressure.
@@ -21492,5 +21494,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female Training Fuel Timing](concepts/FemaleTrainingFuelTiming.md) — Framework aligning food availability with training quality and recovery rather than treating fasted substrate use as proof of long-term fat loss.
 - [Menstrual-Cycle Training Individualization](concepts/MenstrualCycleTrainingIndividualization.md) — Personal-pattern approach to cycle, symptom, contraception, fueling, sleep, and readiness data without rigid phase rules.
 - [Midlife Female Strength and Power Training](concepts/MidlifeFemaleStrengthPowerTraining.md) — Progressive resistance, power, impact, and recovery strategy for muscle, bone, metabolic health, and later-life independence.
+- [Acquired Product-Market Fit](concepts/AcquiredProductMarketFit.md) — Strategy of buying demonstrated users or distribution and applying repeatable operating capability to improve the product.
+- [Software Acquisition Operating Platform](concepts/SoftwareAcquisitionOperatingPlatform.md) — Shared technology, talent, product practice, and capital-allocation system for integrating acquired software businesses.
 
 ## Syntheses

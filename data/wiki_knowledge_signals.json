@@ -4431,6 +4431,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/achaemenidimperialorderideology/"
     },
+    "AcquiredProductMarketFit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/acquiredproductmarketfit/"
+    },
     "AcquiredTraitInheritanceBoundary": {
       "episode_count": 2,
       "show_count": 1,
@@ -13622,6 +13638,29 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/bengraham/"
+    },
+    "BendingSpoons": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Google’s AI Brain Drain, SpaceX's Huge Quarter, Airtable’s 90% Collapse, US Data Fuels China AI [42362555].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/bendingspoons/"
     },
     "BeneficialGovernanceDelivery": {
       "episode_count": 1,
@@ -82604,6 +82643,29 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/longtermplaceoperation/"
     },
+    "LongTermPrivateOwnership": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Charles & Chase Koch on How They Quietly Built a $150B Empire [41270895].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Charles & Chase Koch on How They Quietly Built a $150B Empire",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-charles-chase-koch-on-how-they-quietly-built-a-150b-empire-41270895/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/longtermprivateownership/"
+    },
     "LonghuaAirport": {
       "episode_count": 1,
       "show_count": 1,
@@ -84021,6 +84083,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/luanfanshu/"
+    },
+    "LucaFerrari": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/lucaferrari/"
     },
     "LucasStartupEmbassyResident": {
       "episode_count": 1,
@@ -121761,6 +121839,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/softbudgetfootballclubs/"
+    },
+    "SoftwareAcquisitionOperatingPlatform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/softwareacquisitionoperatingplatform/"
     },
     "SogdianRock": {
       "episode_count": 1,

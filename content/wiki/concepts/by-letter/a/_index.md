@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8021
+wiki_total_pages: 8023
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "AchievementPressureMentalHealth"
     title: "Achievement Pressure Mental Health"
     url: "/wiki/concepts/achievementpressurementalhealth/"
+  - key: "AcquiredProductMarketFit"
+    title: "Acquired Product-Market Fit"
+    url: "/wiki/concepts/acquiredproductmarketfit/"
   - key: "AcquiredTraitInheritanceBoundary"
     title: "Acquired-Trait Inheritance Boundary"
     url: "/wiki/concepts/acquiredtraitinheritanceboundary/"

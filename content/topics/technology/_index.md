@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3139
+topic_total_pages: 3143
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -16,6 +16,9 @@ topic_concepts:
   - key: "AcademicAIResearchRole"
     title: "Academic AI Research Role"
     url: "/wiki/concepts/academicairesearchrole/"
+  - key: "AcquiredProductMarketFit"
+    title: "Acquired Product-Market Fit"
+    url: "/wiki/concepts/acquiredproductmarketfit/"
   - key: "ActorAIPerformanceBoundary"
     title: "Actor AI Performance Boundary / 演员与 AI 表演边界"
     url: "/wiki/concepts/actoraiperformanceboundary/"
@@ -3799,6 +3802,9 @@ topic_concepts:
   - key: "SocialRoboticsElderCare"
     title: "Social Robotics in Elder Care"
     url: "/wiki/concepts/socialroboticseldercare/"
+  - key: "SoftwareAcquisitionOperatingPlatform"
+    title: "Software Acquisition Operating Platform"
+    url: "/wiki/concepts/softwareacquisitionoperatingplatform/"
   - key: "SoftwareAsCulturalWork"
     title: "Software As Cultural Work"
     url: "/wiki/concepts/softwareasculturalwork/"
@@ -6065,6 +6071,9 @@ topic_entities:
   - key: "LuQi"
     title: "Lu Qi"
     url: "/wiki/entities/luqi/"
+  - key: "LucaFerrari"
+    title: "Luca Ferrari"
+    url: "/wiki/entities/lucaferrari/"
   - key: "LucasStartupEmbassyResident"
     title: "Lucas (Startup Embassy Resident)"
     url: "/wiki/entities/lucasstartupembassyresident/"
@@ -8796,6 +8805,9 @@ topic_sources:
   - key: "live-anthropic-co-founder-on-ai-and-jobs"
     title: "Live: Anthropic co-founder on AI and jobs"
     url: "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit"
+    title: "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
   - key: "tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128"
     title: "Making AI work - for work"
     url: "/wiki/sources/tech-20260203-0203-mp-tech-pod-128-tech-20260203-0203-mp-tech-pod-128/"

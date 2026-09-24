@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8021
+wiki_total_pages: 8023
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1109,6 +1109,9 @@ wiki_pages:
   - key: "SoftDiscountRetail"
     title: "Soft-Discount Retail / 软折扣零售"
     url: "/wiki/concepts/softdiscountretail/"
+  - key: "SoftwareAcquisitionOperatingPlatform"
+    title: "Software Acquisition Operating Platform"
+    url: "/wiki/concepts/softwareacquisitionoperatingplatform/"
   - key: "SoftwareAsCulturalWork"
     title: "Software As Cultural Work"
     url: "/wiki/concepts/softwareasculturalwork/"

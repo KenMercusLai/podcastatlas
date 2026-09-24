@@ -149,14 +149,14 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
-      "source_note_count": 71,
-      "topic_matched_source_note_count": 64,
+      "source_note_count": 72,
+      "topic_matched_source_note_count": 65,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 49
+          "source_note_count": 50
         },
         {
           "key": "politics",
@@ -236,7 +236,7 @@
         }
       ],
       "start_here_episode_files": [
-        "All-In with Chamath, Jason, Sacks & Friedberg - Meta's Dina Powell McCormick： The Case for Data Centers, Backlash, AI Job Boom & Meta’s Future [42943275].md",
+        "All-In with Chamath, Jason, Sacks & Friedberg - Luca Ferrari, Bending Spoons CEO： The $40K Origin Story, Buying Product-.md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Steve Hilton & Spencer Pratt： Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans [43001393].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Brad Gerstner： No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem [42936597].md",
         "All-In with Chamath, Jason, Sacks & Friedberg - Jared Isaacman： A New Era for NASA and American Space Exploration [42953838].md"

@@ -3751,6 +3751,10 @@
     "title": "Acquired",
     "url": "/wiki/entities/acquired/"
   },
+  "AcquiredProductMarketFit": {
+    "title": "Acquired Product-Market Fit",
+    "url": "/wiki/concepts/acquiredproductmarketfit/"
+  },
   "AcquiredTraitInheritanceBoundary": {
     "title": "Acquired-Trait Inheritance Boundary",
     "url": "/wiki/concepts/acquiredtraitinheritanceboundary/"
@@ -41307,6 +41311,10 @@
     "title": "Luca di Montezemolo",
     "url": "/wiki/entities/lucadimontezemolo/"
   },
+  "LucaFerrari": {
+    "title": "Luca Ferrari",
+    "url": "/wiki/entities/lucaferrari/"
+  },
   "LucasBabic": {
     "title": "Lucas Babic",
     "url": "/wiki/entities/lucasbabic/"
@@ -60723,6 +60731,10 @@
     "title": "Softmax",
     "url": "/wiki/entities/softmax/"
   },
+  "SoftwareAcquisitionOperatingPlatform": {
+    "title": "Software Acquisition Operating Platform",
+    "url": "/wiki/concepts/softwareacquisitionoperatingplatform/"
+  },
   "SoftwareAsCulturalWork": {
     "title": "Software As Cultural Work",
     "url": "/wiki/concepts/softwareasculturalwork/"
@@ -76910,6 +76922,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740": {
     "title": "Josh Shapiro on Trump, Iran War Chaos, Israel's Failure, the Economy, and 2028 Race",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-josh-shapiro-on-trump-iran-war-chaos-israels-failure-the-economy-and-2028-race-40774740/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit": {
+    "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out-42155640": {
     "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",

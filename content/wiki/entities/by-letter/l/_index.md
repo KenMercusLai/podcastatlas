@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10672
+wiki_total_pages: 10673
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -752,6 +752,9 @@ wiki_pages:
   - key: "LucaDiMontezemolo"
     title: "Luca di Montezemolo"
     url: "/wiki/entities/lucadimontezemolo/"
+  - key: "LucaFerrari"
+    title: "Luca Ferrari"
+    url: "/wiki/entities/lucaferrari/"
   - key: "LucasStartupEmbassyResident"
     title: "Lucas (Startup Embassy Resident)"
     url: "/wiki/entities/lucasstartupembassyresident/"
