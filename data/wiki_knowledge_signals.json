@@ -19886,9 +19886,9 @@
       "url": "/wiki/entities/cardinalderohan/"
     },
     "CardiovascularBrainHealthLink": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "Working memory： the surprising decline of dementia [6a6b0eeca585d3be78cd9d1b].md",
@@ -19903,9 +19903,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/cardiovascularbrainhealthlink/"
     },
     "CardiovascularExerciseRiskBoundary": {
@@ -20635,6 +20642,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/cerebras/"
+    },
+    "CerebrovascularEventRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/cerebrovasculareventrecognition/"
     },
     "CervicalCurvePostureManagement": {
       "episode_count": 1,
@@ -27069,9 +27092,9 @@
       "url": "/wiki/concepts/concerninfluencesorting/"
     },
     "ConcussionActiveRecovery": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4201272551 [SCIM4201272551].md",
@@ -27086,9 +27109,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How Smell, Taste & Pheromones Shape Behavior",
           "url": "/wiki/sources/essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826/"
+        },
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/concussionactiverecovery/"
     },
     "CondimentOutboundAcquisition": {
@@ -53099,6 +53129,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/garyhirschberg/"
+    },
+    "GarySteinberg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/garysteinberg/"
     },
     "GascoigneApartments": {
       "episode_count": 1,
@@ -96947,9 +96993,9 @@
       "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
     },
     "Neuroplasticity": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -96985,10 +97031,33 @@
           "show": "Huberman Lab",
           "title": "Optimal Protocols for Studying & Learning",
           "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
+        },
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/neuroplasticity/"
+    },
+    "NeurorestorativeStrokeRecovery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/neurorestorativestrokerecovery/"
     },
     "NeutralityToInterventionMemory": {
       "episode_count": 1,
@@ -108324,6 +108393,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/preventivehealthscreening/"
+    },
+    "PreventiveNeuroimagingTradeoff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3649091801 [SCIM3649091801].md",
+          "key": "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801",
+          "show": "Huberman Lab",
+          "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+          "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/preventiveneuroimagingtradeoff/"
     },
     "PreventiveRelationshipMaintenance": {
       "episode_count": 2,

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1196
+topic_total_pages: 1198
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2381,6 +2381,9 @@ topic_entities:
   - key: "GaryDonnelly"
     title: "Gary Donnelly"
     url: "/wiki/entities/garydonnelly/"
+  - key: "GarySteinberg"
+    title: "Gary Steinberg"
+    url: "/wiki/entities/garysteinberg/"
   - key: "GenBioAI"
     title: "GenBio AI"
     url: "/wiki/entities/genbioai/"
@@ -3402,6 +3405,9 @@ topic_sources:
   - key: "how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639"
     title: "How to Find & Be a Great Romantic Partner | Lori Gottlieb"
     url: "/wiki/sources/how-to-find-be-a-great-romantic-partner-lori-gottlieb-scim7744546639/"
+  - key: "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801"
+    title: "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg"
+    url: "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
   - key: "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885"
     title: "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath"
     url: "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"

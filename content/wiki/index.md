@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg](sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801.md) — Huberman Lab interview on cerebrovascular risk and urgency, concussion evaluation, function-preserving neurosurgery, rehabilitation, and the evidence boundaries around imaging, stimulation, cooling, PRP, and stem cells.
 - [453. Custer's Last Stand: The Final Showdown (Part 8)](sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977.md) — The Rest Is History reconstruction of Little Bighorn's final phase, Reno Hill's survival, Custer's destruction, Native battlefield leadership, and the evidence limits behind the last-stand myth.
 - [454. Fall of the Sioux: Death of Crazy Horse (Part 1)](sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583.md) — The Rest Is History episode on Little Bighorn's strategic aftermath, coercive surrender, Crazy Horse's killing, and Sitting Bull's Canadian exile and return.
 - [455. Fall of the Sioux: The Ghost Dance (Part 2)](sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118.md) — The Rest Is History episode on reservation assimilation, Wovoka's Ghost Dance teaching, Sitting Bull's humiliation, and the amplification of religious renewal into a military crisis.
@@ -2828,6 +2829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez](sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714.md) — Huberman Lab interview on gut sensory epithelial cells, rapid neuropod-to-vagus signaling, nutrient preference, appetite, and the limits of broader gut-intuition claims.
 
 ## Entities
+- [Gary Steinberg](entities/GarySteinberg.md) — Stanford neurosurgeon and researcher presented through vascular neurosurgery, brain injury, rehabilitation, and cautious neurorestoration.
 - [Battle of the Little Bighorn](entities/BattleOfLittleBighorn.md) — 1876 Lakota and Cheyenne victory reconstructed through divided U.S. command, Native leadership, testimony, terrain, and archaeology.
 - [George Armstrong Custer](entities/GeorgeArmstrongCuster.md) — Seventh Cavalry commander whose fatal decisions and unknowable final movements became the basis of a heroic last-stand myth.
 - [Frederick Benteen](entities/FrederickBenteen.md) — Seventh Cavalry officer whose contested delay and later defense helped preserve Reno Hill survivors.
@@ -13599,6 +13601,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Cerebrovascular Event Recognition](concepts/CerebrovascularEventRecognition.md) — Mechanism-aware recognition of ischemic stroke, hemorrhage, TIA, and sudden focal neurological symptoms requiring urgent assessment.
+- [Neurorestorative Stroke Recovery](concepts/NeurorestorativeStrokeRecovery.md) — Recovery framework pairing task-specific rehabilitation and surviving-circuit plasticity with qualified cell-based or electrical adjuncts.
+- [Preventive Neuroimaging Tradeoff](concepts/PreventiveNeuroimagingTradeoff.md) — Balance between actionable early detection and anxiety, surveillance, procedures, or overtreatment from incidental findings.
 - [Battlefield Reconstruction Under Uncertainty](concepts/BattlefieldReconstructionUnderUncertainty.md) — Method combining testimony, terrain, archaeology, and material traces while ranking confidence and preserving unresolved conflicts.
 - [Heroic Last Stand Myth](concepts/HeroicLastStandMyth.md) — Memory pattern that compresses military collapse into disciplined heroic defiance, shifts blame, and obscures opponent agency.
 - [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of military pressure, material dependency, factional authority, schools, religion, policing, and land policy to replace Indigenous social and political orders.

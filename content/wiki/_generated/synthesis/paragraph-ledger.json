@@ -701,12 +701,13 @@
       "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
       "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73",
       "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96",
-      "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c"
+      "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c",
+      "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f"
     ],
-    "paragraph_count": 701
+    "paragraph_count": 702
   },
-  "overview_commit": "5c3c2dac176d41235a885f97d65cd2a109b70555",
-  "overview_digest": "9ee5842bf489f14d8bc2b5a683d31bfb1a15e6b8ee6bad5311f0b433dc50937c",
+  "overview_commit": "81eae3bfdbc93a937df622e7f8da18c8b159c676",
+  "overview_digest": "f79e264d1e833b818b42ca7f4fe711da501ccfe8be5dbefe57161a2276a23bb0",
   "paragraphs": [
     {
       "id": "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
@@ -20946,6 +20947,27 @@
         "MarcusReno",
         "SittingBull",
         "TheRestIsHistory"
+      ]
+    },
+    {
+      "id": "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801|How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg]], a [[HubermanLab]] interview with [[GarySteinberg]] on cerebral blood flow, stroke, TIA, aneurysm, concussion, neurosurgery, rehabilitation, and experimental recovery treatments. It adds [[GarySteinberg]], [[CerebrovascularEventRecognition]], [[NeurorestorativeStrokeRecovery]], and [[PreventiveNeuroimagingTradeoff]], while extending [[CardiovascularBrainHealthLink]], [[ConcussionActiveRecovery]], and [[Neuroplasticity]]. Its core synthesis joins vascular prevention and acute neurological urgency to qualified recovery optimism: surviving circuits and structured rehabilitation can support functional improvement, while preventive imaging, hypothermia, implanted stimulation, PRP, and stem-cell approaches have different indications, evidence levels, and risks. No settled contradiction is recorded; percentages, physiological figures, screening choices, treatment timing, blood-pressure targets, trial outcomes, mechanisms, and sports or neck-manipulation recommendations remain source-scoped public medical education rather than individualized care.",
+      "topic_scores": {
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "CardiovascularBrainHealthLink",
+        "CerebrovascularEventRecognition",
+        "ConcussionActiveRecovery",
+        "GarySteinberg",
+        "HubermanLab",
+        "Neuroplasticity",
+        "NeurorestorativeStrokeRecovery",
+        "PreventiveNeuroimagingTradeoff",
+        "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801"
       ]
     }
   ],

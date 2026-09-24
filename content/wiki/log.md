@@ -22448,3 +22448,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg
+
+Added source `how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801`; created `GarySteinberg`, `CerebrovascularEventRecognition`, `NeurorestorativeStrokeRecovery`, and `PreventiveNeuroimagingTradeoff`; and updated `CardiovascularBrainHealthLink`, `ConcussionActiveRecovery`, and `Neuroplasticity` from their complete bounded source sets. Core synthesis: brain health joins vascular prevention and acute symptom urgency to qualified recovery optimism, with surviving-circuit plasticity and rehabilitation at the center while imaging, cooling, stimulation, PRP, and stem-cell claims remain indication- and evidence-specific. No settled contradiction found; treatment percentages, physiological figures, screening choices, trial outcomes, mechanisms, timing, targets, and risk recommendations remain source-scoped public medical education. The canonical `wiki/overview.md` was updated during the normal ingest, and the downstream synthesis refresh only read that overview before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

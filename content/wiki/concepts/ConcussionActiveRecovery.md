@@ -5,8 +5,9 @@ tags: [concussion, brain-injury, recovery, medicine]
 sources:
   - accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551
   - essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826
+  - how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-21
+last_updated: 2026-09-25
 ---
 
 # Concussion Active Recovery
@@ -21,8 +22,10 @@ The practical recovery path is staged. Low-level aerobic activity comes first wh
 
 The smell-and-taste Essentials episode adds olfactory injury as a narrower monitoring branch: head impact can shear olfactory fibers at the cribriform plate, and smell recovery may provide one useful but incomplete recovery signal alongside balance, cognition, sleep, and other clinical measures.
 
+Steinberg reinforces the move away from prolonged sensory deprivation while adding diagnostic limits. Ordinary MRI may be unrevealing because concussion can involve molecular or functional disturbance rather than a gross structural lesion, and eye tracking can expose subtle deficits, especially when a baseline exists. An everyday bump whose symptoms resolve quickly differs from persistent or severe injury, but symptom evolution and red flags remain the reason evaluation comes before self-reassurance.
+
 ## Key Claims
-- Significant head injury should receive appropriate medical evaluation and scans when needed.
+- Significant head injury should receive appropriate medical evaluation; scans may be needed, but normal structural imaging does not exclude concussion and eye tracking may add a functional measure in selected settings.
 - Hyperthermia, alcohol, very sugary refined carbohydrates, and possibly acute caffeine are treated as avoidable strain after concussion.
 - Recovery guidance has moved away from prolonged dark-room rest alone.
 - Return to activity should start as soon as tolerated without risking another head injury.
@@ -37,12 +40,14 @@ The smell-and-taste Essentials episode adds olfactory injury as a narrower monit
 - Rehabilitation options - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] mentions vestibular therapy, ocular-motor work, eye tracking, physical therapy, and virtual or augmented reality for persistent symptoms.
 - Supplement caution - [[accelerate-learning-increase-cognitive-capacity-dr-tommy-wood-scim4201272551]] discusses creatine, magnesium, omega-3s, melatonin, branched-chain amino acids, choline, Boswellia, and Enzogenol as evidence-dependent possibilities.
 - Olfactory marker - [[essentials-how-smell-taste-pheromones-shape-behavior-scim3853502826]] describes cribriform-plate fiber injury and treats smell recovery as an incomplete indicator alongside balance, cognition, and sleep.
+- Imaging and eye-tracking boundary - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] says MRI often does not show concussion's subtle abnormalities and describes eye tracking as a potentially sensitive measure, especially with baseline data.
+- Relative-rest reinforcement - [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801]] advises against both overstressing the injured brain and prolonged dark-room sensory deprivation.
 
 ## Counterevidence & Qualifications
-This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements nor smell training are presented as definitive protocols or substitutes for clinical care. Improvement in smell alone does not establish readiness to return to risky activity.
+This page is not concussion medical advice. The sources put significant head injury inside medical evaluation, and neither supplements, smell training, eye tracking, nor a normal MRI are presented as definitive stand-alone clearance tools. Improvement in one domain does not establish readiness to return to risky activity, and repeated head injury changes the risk context.
 
 ## What Changed
-- Added olfactory-fiber injury and smell recovery as a limited monitoring branch rather than a stand-alone clearance measure.
+- Added structural-imaging limits, eye tracking, and a reinforced relative-rest boundary.
 
 ## Related Concepts
 - [[MedicalRiskManagement]] - clinical safety boundary for head injury and supplements.
@@ -52,3 +57,4 @@ This page is not concussion medical advice. The sources put significant head inj
 - [[SustainableHealthOptimization]] - broader routine frame that should yield to acute medical context.
 - [[Neuroplasticity]] - recovery and adaptation mechanism that should not be forced past safety limits.
 - [[OlfactoryTraining]] - smell-recovery practice discussed as promising but not definitive after injury.
+- [[NeurorestorativeStrokeRecovery]] - adjacent injury-recovery model pairing plasticity with structured rehabilitation.

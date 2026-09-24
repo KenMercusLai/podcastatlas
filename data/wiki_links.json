@@ -12115,6 +12115,10 @@
     "title": "Cerebras",
     "url": "/wiki/entities/cerebras/"
   },
+  "CerebrovascularEventRecognition": {
+    "title": "Cerebrovascular Event Recognition",
+    "url": "/wiki/concepts/cerebrovasculareventrecognition/"
+  },
   "CervicalCurvePostureManagement": {
     "title": "Cervical Curve and Posture Management / 颈椎曲度与姿势管理",
     "url": "/wiki/concepts/cervicalcurveposturemanagement/"
@@ -26830,6 +26834,10 @@
   "GaryStark": {
     "title": "Gary Stark",
     "url": "/wiki/entities/garystark/"
+  },
+  "GarySteinberg": {
+    "title": "Gary Steinberg",
+    "url": "/wiki/entities/garysteinberg/"
   },
   "GascoigneApartments": {
     "title": "盖斯康公寓 / Gascoigne Apartments",
@@ -47171,6 +47179,10 @@
     "title": "Neuroplasticity / 神经可塑性",
     "url": "/wiki/concepts/neuroplasticity/"
   },
+  "NeurorestorativeStrokeRecovery": {
+    "title": "Neurorestorative Stroke Recovery",
+    "url": "/wiki/concepts/neurorestorativestrokerecovery/"
+  },
   "NeutralInternetExchange": {
     "title": "Neutral Internet Exchange",
     "url": "/wiki/concepts/neutralinternetexchange/"
@@ -52806,6 +52818,10 @@
   "PreventiveHealthScreening": {
     "title": "Preventive Health Screening",
     "url": "/wiki/concepts/preventivehealthscreening/"
+  },
+  "PreventiveNeuroimagingTradeoff": {
+    "title": "Preventive Neuroimaging Tradeoff",
+    "url": "/wiki/concepts/preventiveneuroimagingtradeoff/"
   },
   "PreventiveRelationshipMaintenance": {
     "title": "Preventive Relationship Maintenance",
@@ -79442,6 +79458,10 @@
   "how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481": {
     "title": "How to Heal From Post-Traumatic Stress Disorder (PTSD) | Dr. Victor Carrión",
     "url": "/wiki/sources/how-to-heal-from-post-traumatic-stress-disorder-ptsd-dr-victor-carrion-scim6456251481/"
+  },
+  "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801": {
+    "title": "How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg",
+    "url": "/wiki/sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801/"
   },
   "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885": {
     "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",

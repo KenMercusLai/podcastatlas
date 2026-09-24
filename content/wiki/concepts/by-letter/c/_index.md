@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8121
+wiki_total_pages: 8124
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -419,6 +419,9 @@ wiki_pages:
   - key: "CeramicLivestreamCommerceRisk"
     title: "Ceramic Livestream Commerce Risk / 陶瓷直播电商风险"
     url: "/wiki/concepts/ceramiclivestreamcommercerisk/"
+  - key: "CerebrovascularEventRecognition"
+    title: "Cerebrovascular Event Recognition"
+    url: "/wiki/concepts/cerebrovasculareventrecognition/"
   - key: "CervicalCurvePostureManagement"
     title: "Cervical Curve and Posture Management / 颈椎曲度与姿势管理"
     url: "/wiki/concepts/cervicalcurveposturemanagement/"

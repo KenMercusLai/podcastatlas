@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8121
+wiki_total_pages: 8124
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1385,6 +1385,9 @@ wiki_pages:
   - key: "PreventiveHealthScreening"
     title: "Preventive Health Screening"
     url: "/wiki/concepts/preventivehealthscreening/"
+  - key: "PreventiveNeuroimagingTradeoff"
+    title: "Preventive Neuroimaging Tradeoff"
+    url: "/wiki/concepts/preventiveneuroimagingtradeoff/"
   - key: "PreventiveRelationshipMaintenance"
     title: "Preventive Relationship Maintenance"
     url: "/wiki/concepts/preventiverelationshipmaintenance/"

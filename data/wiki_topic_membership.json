@@ -31000,6 +31000,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GarySteinberg": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GauravKarna": [
     {
       "key": "economics",
@@ -85840,6 +85847,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885": [
