@@ -22096,3 +22096,11 @@ Added source `vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人
+
+Added source `e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e`; updated `EightSleep`, `BedBasedSleepSensing`, `SleepTemperatureToolkit`, `ConsumerSleepHardwareSubscription`, `ObstructiveSleepApneaRecognition`, and the index. Core synthesis: Eight Sleep's strongest product thesis is a low-friction loop in which bed-based sensing triggers automatic temperature and environmental changes, while personal-baseline alerts and sleep-apnea ambitions require independent clinical validation, explicit regulatory status, and reliable escalation. No settled contradiction found; improvement, accuracy, data-scale, profitability, international-sales, China-growth, pregnancy, and disease-recognition claims remain company-reported or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

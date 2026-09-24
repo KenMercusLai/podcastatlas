@@ -13452,9 +13452,9 @@
       "url": "/wiki/entities/beckweathers/"
     },
     "BedBasedSleepSensing": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOWPmzAiPWCATIMbIL [GKwRIJIOWPmzAiPWCATIMbIL].md",
@@ -13462,9 +13462,16 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人 [833a6b89-e6a1-4d61-a3b3-46f4d664894e].md",
+          "key": "e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e",
+          "show": "硅谷101",
+          "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+          "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/bedbasedsleepsensing/"
     },
     "BedroomHomestayPlatformTrust": {
@@ -26991,9 +26998,9 @@
       "url": "/wiki/concepts/consumerloanrisk/"
     },
     "ConsumerSleepHardwareSubscription": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIJIOWPmzAiPWCATIMbIL [GKwRIJIOWPmzAiPWCATIMbIL].md",
@@ -27001,9 +27008,16 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人 [833a6b89-e6a1-4d61-a3b3-46f4d664894e].md",
+          "key": "e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e",
+          "show": "硅谷101",
+          "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+          "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/consumersleephardwaresubscription/"
     },
     "ContentAestheticOverMetrics": {
@@ -37904,9 +37918,9 @@
       "url": "/wiki/concepts/egocentricrobotdata/"
     },
     "EightSleep": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
@@ -37921,9 +37935,16 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人 [833a6b89-e6a1-4d61-a3b3-46f4d664894e].md",
+          "key": "e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e",
+          "show": "硅谷101",
+          "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+          "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/eightsleep/"
     },
     "EileenVanDerVelden": {
@@ -96451,9 +96472,9 @@
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
     "ObstructiveSleepApneaRecognition": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "luct7ka8jRMTLsmBwlK9MwOW3sxv [luct7ka8jRMTLsmBwlK9MwOW3sxv].md",
@@ -96468,9 +96489,16 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人 [833a6b89-e6a1-4d61-a3b3-46f4d664894e].md",
+          "key": "e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e",
+          "show": "硅谷101",
+          "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+          "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/obstructivesleepapnearecognition/"
     },
     "OccultDecisionCapture": {
@@ -120874,9 +120902,9 @@
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -120898,9 +120926,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人 [833a6b89-e6a1-4d61-a3b3-46f4d664894e].md",
+          "key": "e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e",
+          "show": "硅谷101",
+          "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
+          "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {

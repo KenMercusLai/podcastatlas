@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e.md) — 硅谷101 founder interview on Eight Sleep's sensing-to-intervention loop, dynamic temperature, preventive-health ambitions, hardware execution, premium pricing, and China localization.
 - [Vol.276 做月嫂育儿嫂的姐姐，都有故事](sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906.md) — 商业就是这样 conversation with domestic-service consultant 怡婷 on care-worker matching, live-in boundaries, atomized-family demand, professional dignity, and the limits of automating human care.
 - [月饼市场持续降温，豆包缩减对话业务团队](sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242.md) — 声动早咖啡 roundup on Alibaba's model-chip-device push, Doubao's consumer-revenue gap, personal-agent platform conflict, retail procurement, resort expansion, and weaker mooncake gifting.
 - [470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)](sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569.md) — The Rest Is History episode on Germany's blank cheque, Austria-Hungary's internal delay, preventive-war logic, and the missing Russian contingency.
@@ -9800,7 +9801,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sotheby's](entities/Sothebys.md) — Auction house whose younger-bidder data supports the Old Masters revival frame.
 - [Adam Williams Gallery](entities/AdamWilliamsGallery.md) — Gallery used as a dealer-side observation point for renewed Old Masters demand.
 - [Patrick Williams](entities/PatrickWilliams.md) — Adam Williams Gallery speaker describing new and younger Old Masters buyers.
-- [Eight Sleep / 8Sleep](entities/EightSleep.md) — Sponsor-linked smart-bed product in the 面基 episode, used as a sleep temperature-monitoring and intervention example.
+- [Eight Sleep / 8Sleep](entities/EightSleep.md) — Smart mattress-cover company coupling bed-based sensing with dynamic temperature and other automatic sleep interventions while pursuing regulated preventive-health uses.
 - [超越百岁 / Outlive](entities/Outlive.md) — Peter Attia longevity book used in the wiki for muscle reserve, healthspan domains, prevention, exercise capacity, and emotional health.
 - [我们为什么要睡觉 / Why We Sleep](entities/WhyWeSleep.md) — Sleep book cited for the bedroom-temperature point inside the episode's sleep-account frame.
 - [Heirloom Carbon Technologies](entities/HeirloomCarbonTechnologies.md) — Direct-air-capture company profiled through its limestone-loop process, Tracy facility, planned Louisiana project, and corporate carbon-removal customers.
@@ -13652,7 +13653,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Regicide as Republican Founding](concepts/RegicideAsRepublicanFounding.md) — Interpretation of a deposed monarch's execution as the irreversible act through which a republic asserts sovereignty.
 - [Revolutionary Justice-Mercy Conflict](concepts/RevolutionaryJusticeMercyConflict.md) — Legitimacy struggle over punishment, appeal, reprieve, and compassion when a defeated ruler remains a political symbol.
 - [Political Execution Memory Contest](concepts/PoliticalExecutionMemoryContest.md) — Rival construction of an executed political figure as criminal, tyrant, victim, martyr, or sacrifice.
-- [Obstructive Sleep Apnea Recognition](concepts/ObstructiveSleepApneaRecognition.md) — Symptom, risk, screening, diagnostic, and escalation pathway for suspected obstructive sleep apnea.
+- [Obstructive Sleep Apnea Recognition](concepts/ObstructiveSleepApneaRecognition.md) — Symptom, risk, screening, diagnostic, and escalation pathway that keeps consumer-device claims distinct from regulated sleep-medicine care.
 - [Positive Airway Pressure Therapy](concepts/PositiveAirwayPressureTherapy.md) — Noninvasive airway-support framework joining indication, titration, device fit, comfort, data, and adherence.
 - [Anglo-Saxon State Formation](concepts/AngloSaxonStateFormation.md) — Multigenerational development of English defense, towns, church, coinage, political unity, and coercive royal capacity.
 - [Norman Hybrid Identity](concepts/NormanHybridIdentity.md) — Evolving synthesis of Scandinavian ancestry with Frankish, Christian, linguistic, and monastic adaptation in Normandy.
@@ -14662,8 +14663,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Carrier-Bag Narrative / 载物袋叙事](concepts/CarrierBagNarrative.md) — Narrative form that gathers people, objects, memories, places, and knowledge into meaningful relation instead of relying only on hero, enemy, conflict, and victory.
 - [Narrative Pluralism / 叙事多样性](concepts/NarrativePluralism.md) — Position that cultures need multiple legitimate story shapes and that the problem is narrative monopoly rather than scale itself.
 - [River As Living Entity / 河流作为生命](concepts/RiverAsLivingEntity.md) — Legal-ecological and nature-writing frame treating rivers as living relational systems rather than only resources, scenery, or infrastructure.
-- [Bed-Based Sleep Sensing / 床面睡眠传感](concepts/BedBasedSleepSensing.md) — Consumer sleep-tech approach using bed-surface signals to estimate sleep state and feed environmental interventions such as dynamic temperature.
-- [Consumer Sleep Hardware Subscription / 消费级睡眠硬件订阅](concepts/ConsumerSleepHardwareSubscription.md) — Business-model pattern for high-priced sleep hardware that relies on ongoing software, personalization, health services, and subscription acceptance.
+- [Bed-Based Sleep Sensing / 床面睡眠传感](concepts/BedBasedSleepSensing.md) — Bed-surface measurement approach linking low-friction longitudinal sensing to automatic intervention while retaining clinical and regulatory limits.
+- [Consumer Sleep Hardware Subscription / 消费级睡眠硬件订阅](concepts/ConsumerSleepHardwareSubscription.md) — Premium hardware-plus-service model shaped by ongoing personalization, manufacturing economics, affordability, and local market fit.
 - [Amateur Farming Vs Livelihood Agriculture / 业余种地与生计农业](concepts/AmateurFarmingVsLivelihoodAgriculture.md) — Distinction between farming as chosen experience and farming as income-dependent survival.
 - [Rural Circular Use Economy / 乡村循环利用经济](concepts/RuralCircularUseEconomy.md) — Practice of keeping crop residues, soil, water, scrap, furniture, and space moving through additional rural uses.
 - [Agricultural Practice As Textual Entry / 农业实践作为文本入场券](concepts/AgriculturalPracticeAsTextualEntry.md) — Method where doing farm work changes how a reader approaches agricultural books, classical texts, food history, and older writers.
@@ -15296,7 +15297,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sustainable Health Optimization](concepts/SustainableHealthOptimization.md) — Health-routine frame where sleep, light, exercise, nutrition hierarchy, dopamine baseline, measurement, and clinical boundaries support real life without protocol perfectionism.
 - [Morning Light Circadian Anchoring](concepts/MorningLightCircadianAnchoring.md) — Practice of using outdoor morning light, and sometimes late-day light, to set circadian timing, daytime alertness, mood, and later sleep.
 - [Sleep-Wake Timing Toolkit](concepts/SleepWakeTimingToolkit.md) — Huberman sleep-toolkit frame coordinating light, temperature, caffeine, food, substances, supplements, consistency, clock-shifting cues, and stage-specific sleep timing across the day.
-- [Sleep Temperature Toolkit](concepts/SleepTemperatureToolkit.md) — Sleep-temperature frame distinguishing morning arousal tools from evening heat-driven cooling and cool-room sleep support.
+- [Sleep Temperature Toolkit](concepts/SleepTemperatureToolkit.md) — Sleep-temperature frame spanning morning arousal, evening cooling, and personalized overnight curves with partner-specific zones.
 - [Caffeine-Adenosine Sleep Timing](concepts/CaffeineAdenosineSleepTiming.md) — Caffeine timing frame that links adenosine, delayed morning intake, late-day cutoff, tolerance, and sleep pressure.
 - [Substance Sleep Architecture Boundary](concepts/SubstanceSleepArchitectureBoundary.md) — Boundary separating alcohol or THC sedation from sleep architecture, including alcohol's REM suppression and THC's sedation-versus-restoration tradeoff.
 - [Sleep Supplement Boundary](concepts/SleepSupplementBoundary.md) — Sleep-aid boundary placing supplements and melatonin behind behavior, nutrition, side-effect awareness, and clinical context.
