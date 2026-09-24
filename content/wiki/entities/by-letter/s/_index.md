@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10751
+wiki_total_pages: 10752
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2012,6 +2012,9 @@ wiki_pages:
   - key: "SunJianXinGeneral"
     title: "孙建 / Sun Jian (Xin general)"
     url: "/wiki/entities/sunjianxingeneral/"
+  - key: "SunZhijunCardiology"
+    title: "孙志军 (cardiology guest)"
+    url: "/wiki/entities/sunzhijuncardiology/"
   - key: "SunZhonghuai"
     title: "孙忠怀 / Sun Zhonghuai"
     url: "/wiki/entities/sunzhonghuai/"

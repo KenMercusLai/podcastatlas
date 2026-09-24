@@ -22432,3 +22432,11 @@ Added source `454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583`; 
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？
+
+Added source `vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1`; created `SunZhijunCardiology` and `HypertensionDiagnosisAndTargets`; and updated `HypertensionLongTermManagement`, `HomeBloodPressureMeasurement`, `AntihypertensiveMedicationAdherence`, and `HypertensionTargetOrganDamage` from their complete bounded source sets. Core synthesis: hypertension care starts by distinguishing a transient reading from a sustained pattern, then joins individualized targets, reliable home measurement, continuous and sometimes combination medication, laboratory review, feasible lifestyle support, and risk-based follow-up to prevent silent multi-organ damage. No settled contradiction found. Exact thresholds, targets, prevalence estimates, device accuracy, medication combinations, pregnancy restrictions, exercise limits, follow-up intervals, and wearable claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

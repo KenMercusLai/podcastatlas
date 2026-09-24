@@ -9242,9 +9242,9 @@
       "url": "/wiki/concepts/anticoagulationselfmedicationboundary/"
     },
     "AntihypertensiveMedicationAdherence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -9252,9 +9252,16 @@
           "show": "这病说来话长",
           "title": "VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊",
           "url": "/wiki/sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy/"
+        },
+        {
+          "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
+          "key": "vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1",
+          "show": "这病说来话长",
+          "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
+          "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/antihypertensivemedicationadherence/"
     },
     "AntisemitismIsraelCriticismBoundary": {
@@ -62669,9 +62676,9 @@
       "url": "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
     },
     "HomeBloodPressureMeasurement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -62679,9 +62686,16 @@
           "show": "这病说来话长",
           "title": "VOL.162高血压日｜好好的上个班我怎么就高血压了呢？ ft.大仑丁&小磊",
           "url": "/wiki/sources/vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy/"
+        },
+        {
+          "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
+          "key": "vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1",
+          "show": "这病说来话长",
+          "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
+          "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/homebloodpressuremeasurement/"
     },
     "HomeDepot": {
@@ -66760,10 +66774,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
     },
-    "HypertensionLongTermManagement": {
-      "episode_count": 3,
+    "HypertensionDiagnosisAndTargets": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
+          "key": "vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1",
+          "show": "这病说来话长",
+          "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
+          "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/hypertensiondiagnosisandtargets/"
+    },
+    "HypertensionLongTermManagement": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -66785,15 +66815,22 @@
           "show": "这病说来话长",
           "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
           "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        },
+        {
+          "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
+          "key": "vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1",
+          "show": "这病说来话长",
+          "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
+          "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/hypertensionlongtermmanagement/"
     },
     "HypertensionTargetOrganDamage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -66808,9 +66845,16 @@
           "show": "这病说来话长",
           "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
           "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        },
+        {
+          "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
+          "key": "vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1",
+          "show": "这病说来话长",
+          "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
+          "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
     },
     "IBMDataStage": {
@@ -130060,6 +130104,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunyutao/"
+    },
+    "SunZhijunCardiology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lr7xQ6XSFUDvMHY9UCz29YITCEX1 [lr7xQ6XSFUDvMHY9UCz29YITCEX1].md",
+          "key": "vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1",
+          "show": "这病说来话长",
+          "title": "VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？",
+          "url": "/wiki/sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/sunzhijuncardiology/"
     },
     "SunkCostEntrapment": {
       "episode_count": 1,

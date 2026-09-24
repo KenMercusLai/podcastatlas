@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8118
+wiki_total_pages: 8119
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "HyperscalerAIGatekeeping"
     title: "Hyperscaler AI Gatekeeping"
     url: "/wiki/concepts/hyperscaleraigatekeeping/"
+  - key: "HypertensionDiagnosisAndTargets"
+    title: "Hypertension Diagnosis and Individualized Targets / 高血压诊断与个体化目标"
+    url: "/wiki/concepts/hypertensiondiagnosisandtargets/"
   - key: "HypertensionLongTermManagement"
     title: "Hypertension Long-Term Management / 高血压长期管理"
     url: "/wiki/concepts/hypertensionlongtermmanagement/"
