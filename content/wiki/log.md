@@ -22424,3 +22424,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 454. Fall of the Sioux: Death of Crazy Horse (Part 1)
+
+Added source `454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583`; created `CrazyHorse`; and updated `SittingBull`, `LakotaPeople`, and `CoerciveReservationAssimilation` from their complete bounded source sets. Core synthesis: Little Bighorn's tactical victory triggered a larger U.S. response that joined winter pursuit, subsistence pressure, land seizure, factional authority, and coerced surrender; Crazy Horse's post-surrender isolation and killing expose how peace could become confinement, while Sitting Bull's Canadian refuge ended in deprivation, return, and imprisonment. No settled contradiction found. Promises, translations, visions, motives, psychological descriptions, last words, and cost estimates remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

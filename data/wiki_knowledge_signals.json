@@ -25753,9 +25753,9 @@
       "url": "/wiki/concepts/coerciveimplicationcascade/"
     },
     "CoerciveReservationAssimilation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2320133118 [GLT2320133118].md",
@@ -25763,6 +25763,13 @@
           "show": "The Rest Is History",
           "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
           "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+        },
+        {
+          "episode_file": "GLT1647500583 [GLT1647500583].md",
+          "key": "454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583",
+          "show": "The Rest Is History",
+          "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
+          "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
         }
       ],
       "updated": "2026-09-25",
@@ -28922,6 +28929,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/craigkoniver/"
+    },
+    "CrazyHorse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1647500583 [GLT1647500583].md",
+          "key": "454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583",
+          "show": "The Rest Is History",
+          "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
+          "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/crazyhorse/"
     },
     "CreatineMonohydrateEvidence": {
       "episode_count": 2,
@@ -76791,9 +76814,9 @@
       "url": "/wiki/entities/laixieasternhan/"
     },
     "LakotaPeople": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -76808,6 +76831,13 @@
           "show": "The Rest Is History",
           "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
           "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+        },
+        {
+          "episode_file": "GLT1647500583 [GLT1647500583].md",
+          "key": "454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583",
+          "show": "The Rest Is History",
+          "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
+          "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
         }
       ],
       "updated": "2026-09-25",
@@ -123577,9 +123607,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SittingBull": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -123594,6 +123624,13 @@
           "show": "The Rest Is History",
           "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
           "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+        },
+        {
+          "episode_file": "GLT1647500583 [GLT1647500583].md",
+          "key": "454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583",
+          "show": "The Rest Is History",
+          "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
+          "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
         }
       ],
       "updated": "2026-09-25",

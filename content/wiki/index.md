@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [454. Fall of the Sioux: Death of Crazy Horse (Part 1)](sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583.md) — The Rest Is History episode on Little Bighorn's strategic aftermath, coercive surrender, Crazy Horse's killing, and Sitting Bull's Canadian exile and return.
 - [455. Fall of the Sioux: The Ghost Dance (Part 2)](sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118.md) — The Rest Is History episode on reservation assimilation, Wovoka's Ghost Dance teaching, Sitting Bull's humiliation, and the amplification of religious renewal into a military crisis.
 - [VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题](sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9.md) — 这病说来话长 multidisciplinary Children's Day roundtable on children's vision, mental health, injury and fever response, ICU and imaging communication, oral development, sex education, and volunteer facial-difference care.
 - [456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)](sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277.md) — The Rest Is History episode on Sitting Bull's death, the Ghost Dance crisis, Wounded Knee, and the commercialization and reframing of Lakota defeat.
@@ -2825,11 +2826,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez](sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714.md) — Huberman Lab interview on gut sensory epithelial cells, rapid neuropod-to-vagus signaling, nutrient preference, appetite, and the limits of broader gut-intuition claims.
 
 ## Entities
+- [Crazy Horse](entities/CrazyHorse.md) — Oglala Lakota leader whose surrender, isolation, disputed mistranslation, and killing expose the coercive transition from war to confinement.
 - [Wovoka](entities/Wovoka.md) — Paiute religious teacher whose peaceful renewal message became the basis of the Ghost Dance movement.
 - [James McLaughlin](entities/JamesMcLaughlin.md) — Standing Rock agent who joined paternal reform, coercive assimilation, and personal conflict with Sitting Bull.
 - [Smile Action / 微笑行动](entities/SmileAction.md) — Source-scoped volunteer medical program linking free cleft and facial-difference surgery with multidisciplinary follow-up, access burden, and psychosocial function.
-- [Sitting Bull](entities/SittingBull.md) — Lakota leader whose death joined reservation coercion, divided authority, and a commercialized symbolic afterlife.
-- [Lakota People](entities/LakotaPeople.md) — Native people presented through the 1890 reservation crisis, internal diversity, survival, and contested representation.
+- [Sitting Bull](entities/SittingBull.md) — Lakota leader whose resistance, Canadian exile, reservation subordination, death, and commercialized afterlife made him a durable symbol of dispossession.
+- [Lakota People](entities/LakotaPeople.md) — Native people presented across military defeat, coerced reservation transition, internal diversity, survival, and contested representation.
 - [Ghost Dance](entities/GhostDance.md) — Millenarian movement treated as hope amid dispossession, then as an object of panic, suppression, and spectacle.
 - [Wounded Knee Massacre](entities/WoundedKneeMassacre.md) — 1890 mass killing of Big Foot's surrounded Lakota band during a Seventh Cavalry disarmament operation.
 - [Mary Claire Haver](entities/MaryClaireHaver.md) — OBGYN and menopause-health educator emphasizing symptom recognition, individualized hormone-therapy decisions, local genitourinary care, and midlife strength and nutrition.
@@ -13589,7 +13591,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
-- [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of material dependency, schools, religion, policing, and land policy to replace Indigenous social and political orders.
+- [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of military pressure, material dependency, factional authority, schools, religion, policing, and land policy to replace Indigenous social and political orders.
 - [Security Crisis Amplification](concepts/SecurityCrisisAmplification.md) — Feedback loop through which local fear, media, politics, and institutional incentives magnify ambiguous activity into an emergency.
 - [Child Mental Health and Family-Systems Support / 儿童心理健康与家庭系统支持](concepts/ChildMentalHealthFamilySystemsSupport.md) — Child-distress framework joining multidomain signals, urgent safety, family context, play, care continuity, and caregiver support without automatic parental blame.
 - [Pediatric Fever Home-Care Triage / 儿童发热家庭分诊](concepts/PediatricFeverHomeCareTriage.md) — Caregiver framework reading fever through overall condition, hydration, weight-aware medication, duration, associated symptoms, and escalation signs rather than temperature alone.
