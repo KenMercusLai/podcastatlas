@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8084
+wiki_total_pages: 8087
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -260,6 +260,9 @@ wiki_pages:
   - key: "PatronSuccessionExposure"
     title: "Patron Succession Exposure / 靠山更替暴露风险"
     url: "/wiki/concepts/patronsuccessionexposure/"
+  - key: "PatronSaintSymbolicPlasticity"
+    title: "Patron-Saint Symbolic Plasticity"
+    url: "/wiki/concepts/patronsaintsymbolicplasticity/"
   - key: "PayPerClassFitnessModel"
     title: "Pay-Per-Class Fitness Model"
     url: "/wiki/concepts/payperclassfitnessmodel/"

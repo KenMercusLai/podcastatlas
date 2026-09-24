@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10711
+wiki_total_pages: 10715
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1148,6 +1148,9 @@ wiki_pages:
   - key: "StBartholomewsDayMassacre"
     title: "St Bartholomew's Day Massacre"
     url: "/wiki/entities/stbartholomewsdaymassacre/"
+  - key: "StGeorge"
+    title: "St George"
+    url: "/wiki/entities/stgeorge/"
   - key: "StGeorgesSchool"
     title: "St. George's School / 圣乔治学校"
     url: "/wiki/entities/stgeorgesschool/"

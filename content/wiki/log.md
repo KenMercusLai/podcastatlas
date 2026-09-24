@@ -22273,6 +22273,10 @@ Added source `464-modern-british-elections-part-2-glt4046145085`; created `Briti
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-25] ingest | 462. St George: Dragon-Slayer
+
+Added source `462-st-george-dragon-slayer-glt5334319363`; created `StGeorge`, `OrderOfTheGarter`, `Bellerophon`, `Diocletian`, `SaintLegendAccretion`, `DragonSlayerMotifLayering`, and `PatronSaintSymbolicPlasticity`; and updated `TheRestIsHistory`, `England`, `EdwardIIIOfEngland`, `HenryVOfEngland`, `Malta`, and the index from their complete bounded source sets. Core synthesis: St George's durable authority rests less on recoverable biography than on accumulated martyr, military, dragon-slayer, royal, confessional, national, and transnational meanings; imagery and narrative layers should be compared without forcing a single origin, while symbolic reuse does not verify late legend. No settled contradiction found. George's existence and identity, the unnamed Nicomedian martyr link, relic claims, dragon-story origins, transmission routes, and precise Garter chronology remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-25] ingest | VOL.119黑灯：脱口秀哪有现实荒谬，疾病致盲，城市设施制障｜一期讲懂Stargardt病
 
 Added source `vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq`; created `HeiDeng`, `YinXinNutritionGuest`, `JuvenileMacularDegenerationCareCenter`, `StargardtDisease`, `ColorVisionDeficiency`, `UserCenteredAccessibilityDesign`, and `PatientLedRareDiseaseInfrastructure`; and updated `MaoChunjie` from its complete bounded source set. Core synthesis: inherited central-vision loss has medical, functional, psychological, and environmental consequences; accessibility succeeds only when a full user journey works; and patient-led infrastructure can reduce rare-disease information scarcity while remaining bounded by clinical review and transparent sourcing. No settled contradiction found. The broad “青少年黄斑变性” label, ABCA4 mechanism, prevalence, inheritance figures, treatment research, protective advice, and city comparisons remain source-scoped. The new source's 毛春洁 rendering is recorded as an orthographic discrepancy with the established 毛春杰 page rather than a duplicate identity. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22292,6 +22296,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 463. Mad Elections (Part 1)
 
 Added source `463-mad-elections-part-1-glt4220133865`; created `OldSarum`, `PreReformBritishElectoralRepresentation`, `PublicVotingElectoralCoercion`, and `ElectoralViolenceInstitutionalDecline`; and updated `MassPoliticalCampaigning` from its complete bounded source set. Core synthesis: pre-reform elections combined unequal inherited representation with visible oral voting, patronage, treating, crowd ritual, and recurrent violence; franchise expansion, stronger party organization, and the secret ballot reduced some mechanisms of coercion without eliminating political intimidation. No settled contradiction found. Women's early voting, vote and casualty totals, monetary equivalents, partisan responsibility, legal interpretations, and the relative causes of violence's decline remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [462. St George: Dragon-Slayer](sources/462-st-george-dragon-slayer-glt5334319363.md) — The Rest Is History episode separating St George's uncertain martyr core from dragon-slayer imagery, Garter patronage, Protestant recoding, and modern symbolic reuse.
 - [463. Mad Elections (Part 1)](sources/463-mad-elections-part-1-glt4220133865.md) — The Rest Is History episode on uneven pre-reform franchises, Old Sarum, public voting, treating, election ritual, coercion, violence, and the secret ballot.
 - [464. Modern British Elections (Part 2)](sources/464-modern-british-elections-part-2-glt4046145085.md) — The Rest Is History episode on weak average campaign effects, the 1945–2017 exceptions, electoral mythmaking, first-past-the-post vote splitting, and the shift from mass meetings to managed media.
 - [VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事](sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla.md) — 这病说来话长 episode on 120 dispatch, caller preparation, transport and destination choice, emergency-department handoff, documentation, and ambulance-worker risk.
@@ -2808,6 +2809,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 
 ## Entities
+- [St George](entities/StGeorge.md) — Historically uncertain martyr whose layered afterlife joins soldier sainthood, dragon-slaying, English patronage, and transnational symbolic reuse.
+- [Order of the Garter](entities/OrderOfTheGarter.md) — English royal chivalric order that institutionalized St George as a patron of monarchy, warfare, and national identity.
+- [Bellerophon](entities/Bellerophon.md) — Greek mounted hero used as a qualified classical parallel for later St George iconography.
+- [Diocletian](entities/Diocletian.md) — Roman emperor whose Christian persecution supplies historical context, but not proof, for a martyr behind the George tradition.
 - [Old Sarum](entities/OldSarum.md) — Emblematic rotten borough whose inherited seats, tiny electorate, and landowner control exposed pre-reform representational inequality.
 - [1945 British General Election](entities/BritishGeneralElection1945.md) — Labour landslide used to distinguish postwar demand and prior legitimacy from Churchill's famous campaign mistake.
 - [1992 British General Election](entities/BritishGeneralElection1992.md) — Conservative victory used as a case of advertising amplifying prior tax anxiety and candidate-format fit.
@@ -13532,6 +13537,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Saint Legend Accretion](concepts/SaintLegendAccretion.md) — Process by which a thin martyr tradition gathers miracles, military identity, imagery, motifs, and institutional patronage.
+- [Dragon-Slayer Motif Layering](concepts/DragonSlayerMotifLayering.md) — Layering of serpent combat, mounted-warrior imagery, rescue narrative, conversion, and classical comparison without a forced single origin.
+- [Patron-Saint Symbolic Plasticity](concepts/PatronSaintSymbolicPlasticity.md) — Capacity of a saintly figure to remain usable across devotional, royal, confessional, national, sporting, and political settings.
 - [Pre-Reform British Electoral Representation](concepts/PreReformBritishElectoralRepresentation.md) — Property, local custom, corporate privilege, and inherited borough rights before population-based electoral equality.
 - [Public Voting and Electoral Coercion](concepts/PublicVotingElectoralCoercion.md) — How observable oral voting made patronage, treating, intimidation, and retaliation easier to enforce.
 - [Institutional Decline of Electoral Violence](concepts/ElectoralViolenceInstitutionalDecline.md) — Multi-causal account of historic campaign disorder and its incomplete reduction through reform.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10711
+wiki_total_pages: 10715
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "BellMedia"
     title: "Bell Media"
     url: "/wiki/entities/bellmedia/"
+  - key: "Bellerophon"
+    title: "Bellerophon"
+    url: "/wiki/entities/bellerophon/"
   - key: "BellupsConsulting"
     title: "Bellups Consulting"
     url: "/wiki/entities/bellupsconsulting/"

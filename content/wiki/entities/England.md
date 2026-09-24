@@ -10,7 +10,8 @@ sources:
   - 696-elizabeth-i-vs-the-catholics-killing-the-queen-of-scots-part-6-glt2334035496
   - 14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
-last_updated: 2026-09-04
+  - 462-st-george-dragon-slayer-glt5334319363
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -26,9 +27,11 @@ The medieval branch now makes England a weaker but more consolidated challenger 
 
 The Elizabethan branch presents England as a Protestant maritime monarchy whose security field runs through Catholic massacre memory, papal excommunication, [[MaryQueenOfScots|Mary, Queen of Scots]], priest missions, privateering, Low Countries intervention, intelligence work, and the road toward the [[SpanishArmada]]. The William Adams branch extends this maritime identity into the [[Japan]] contact zone, where English and Dutch Protestant sailors must explain themselves inside a field already shaped by Iberian Catholic power and Tokugawa risk management.
 
+The [[StGeorge|St George]] branch adds a longer history of symbolic nation-making. [[EdwardIIIOfEngland|Edward III]]'s [[OrderOfTheGarter]] patronage, soldiers' use of the cross, [[HenryVOfEngland|Henry V]]'s invocations, Tudor pageantry, Protestant allegory, and modern sport show an English emblem repeatedly institutionalized and recoded rather than inherited with one fixed meaning.
+
 ## Key Characteristics
 
-- Medieval England is weaker than France but closer to a consolidated political identity in the episode's account.
+- Medieval England is weaker than France but closer to a consolidated political identity, reinforced through royal, military, and saintly symbols.
 - Gascony and Aquitaine make English continental holdings legally vulnerable under French overlordship.
 - Edward III's 1337 war framing turns dynastic and territorial grievance into an English political cause.
 - Elizabethan England interprets Catholic power through succession threat, massacre memory, espionage, and legal security practice.
@@ -44,14 +47,15 @@ The Elizabethan branch presents England as a Protestant maritime monarchy whose 
 - Maritime challenge to Spain: [[693-elizabeth-i-vs-the-catholics-englands-greatest-hero-part-3-glt5069845329]] presents Drake's English heroism as bound to slaving, piracy, privateering ambiguity, and Spanish imperial vulnerability.
 - Low Countries intervention: [[695-elizabeth-i-vs-the-catholics-the-shadow-war-part-5-glt5637968455]] shows England moving toward open conflict with Spain when the Dutch theatre becomes strategically unavoidable.
 - Japan contact branch: [[14-wushi-weilian-dahanghai-shidai-de-riben-he-xifang-555771285]] presents William Adams as an English sailor whose identity helps Tokugawa authorities distinguish Protestant-Dutch/English trade from Iberian Catholic mission politics.
+- Patron-saint branch: [[462-st-george-dragon-slayer-glt5334319363]] traces George from Garter patronage and battlefield use through Tudor display, Protestant recoding, and modern national and sporting symbolism.
 
 ## Qualifications
 
-This is not a complete national history. The page covers only the branches currently evidenced in the source inventory: medieval Anglo-French origins, Elizabethan confessional-maritime crisis, and William Adams's Japan contact role. Modern United Kingdom politics and constituent-nation anthem identity are handled primarily through other pages.
+This is not a complete national history. The page covers only the branches currently evidenced in the source inventory: medieval Anglo-French origins, St George symbolism, Elizabethan confessional-maritime crisis, and William Adams's Japan contact role. Modern United Kingdom politics and constituent-nation anthem identity are handled primarily through other pages. The George episode does not make the saint English by origin or reduce his wider veneration to English nationalism.
 
 ## What Changed
 
-- Migrated the page to `synthesis-v1` and added the medieval Hundred Years' War origin branch.
+- Added St George as a case of English royal and national symbolism built through repeated institutional and confessional reuse.
 
 ## Relationships
 
@@ -70,3 +74,6 @@ This is not a complete national history. The page covers only the branches curre
 - [[Spain]] - imperial and confessional rival in the Elizabethan branch.
 - [[WilliamAdams|William Adams / 三浦按针]] - English sailor in the Japan contact branch.
 - [[EarlyModernJapanEuropeContact]] - concept for the Adams and Tokugawa contact field.
+- [[StGeorge]] - patron saint whose cross and legend became usable English symbols.
+- [[OrderOfTheGarter]] - royal institution that anchored George in English court and chivalric identity.
+- [[PatronSaintSymbolicPlasticity]] - mechanism explaining how George could survive religious and political change.

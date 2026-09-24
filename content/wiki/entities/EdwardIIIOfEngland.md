@@ -4,7 +4,8 @@ type: entity
 tags: [person, monarch, england, medieval-history]
 sources:
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
-last_updated: 2026-09-04
+  - 462-st-george-dragon-slayer-glt5334319363
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -20,6 +21,8 @@ The source presents Edward as energetic, tournament-minded, and initially pragma
 
 Edward's war path emerges through linked constraints. He rejects the humiliation of [[Gascony]]'s vassal status, reverses the 1328 Scottish settlement, wins at [[HallidonHill|Hallidon Hill]], and then faces French defense of Scottish rights through the [[FrancoScottishAlliance|Franco-Scottish alliance]]. After [[PhilipVIOfFrance|Philip VI]] confiscates [[Aquitaine]] in 1337, Edward secures parliamentary backing and issues a manifesto that frames the dispute as a broader English cause.
 
+The George episode adds Edward's symbolic statecraft. By founding the [[OrderOfTheGarter]] on St George's feast and placing the armored saint on the order's seal, he joined monarchy, chivalry, military patronage, and the saint's red-cross imagery in a durable English institution.
+
 ## Key Characteristics
 
 - English king whose French claim comes through his mother Isabella.
@@ -28,6 +31,7 @@ Edward's war path emerges through linked constraints. He rejects the humiliation
 - Pursues Scottish policy in a way that activates French treaty commitments.
 - Treats Gascon homage and forfeiture threats as intolerable constraints.
 - Converts dynastic and territorial grievance into parliamentary and public mobilization.
+- Uses St George and the Order of the Garter to institutionalize chivalric and royal symbolism.
 
 ## Evidence
 
@@ -36,14 +40,15 @@ Edward's war path emerges through linked constraints. He rejects the humiliation
 - Scottish escalation: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] links Edward's Balliol policy and Hallidon Hill victory to David II's French refuge and Philip VI's treaty pressure.
 - Gascon grievance: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] presents Aquitaine's confiscation as the effective declaration of war.
 - National framing: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] says Edward goes to Parliament and issues an August 1337 manifesto against Philip.
+- Garter patronage: [[462-st-george-dragon-slayer-glt5334319363]] dates Edward's foundation of the order to St George's feast in 1344 and describes its first seal as the king kneeling before the armored saint.
 
 ## Qualifications
 
-This profile is limited to the prewar and opening-war episode. Edward's later campaigns, longbow use, naval strategy, victories, diplomacy, and later reign are foreshadowed but not yet evidenced by this page's source set.
+This profile remains selective. Edward's later campaigns, longbow use, naval strategy, victories, diplomacy, and much of his reign are not developed by the source set. The St George source supplies institutional symbolism but is not a comprehensive history of the Garter or a precise audit of foundation chronology.
 
 ## What Changed
 
-- Created Edward III as the English ruler connecting succession claim, Scottish intervention, Gascon legal pressure, and national war framing.
+- Added Edward's George-centered Garter patronage as a symbolic counterpart to his parliamentary and military mobilization.
 
 ## Relationships
 
@@ -57,3 +62,5 @@ This profile is limited to the prewar and opening-war episode. Edward's later ca
 - [[Gascony]] - continental possession whose legal vulnerability pressures Edward.
 - [[HallidonHill]] - Scottish victory that escalates the Franco-Scottish dimension.
 - [[DynasticClaimNationalMobilization]] - pattern embodied by Edward's 1337 political framing.
+- [[StGeorge]] - saint Edward made central to English royal chivalric patronage.
+- [[OrderOfTheGarter]] - order through which Edward institutionalized that patronage.

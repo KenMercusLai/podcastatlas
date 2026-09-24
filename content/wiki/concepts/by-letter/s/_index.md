@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8084
+wiki_total_pages: 8087
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -77,6 +77,9 @@ wiki_pages:
   - key: "SahmRule"
     title: "Sahm Rule"
     url: "/wiki/concepts/sahmrule/"
+  - key: "SaintLegendAccretion"
+    title: "Saint Legend Accretion"
+    url: "/wiki/concepts/saintlegendaccretion/"
   - key: "SakokuDutchWindow"
     title: "Sakoku Dutch Window"
     url: "/wiki/concepts/sakokudutchwindow/"

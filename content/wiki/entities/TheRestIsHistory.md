@@ -29,7 +29,8 @@ sources:
   - 316-the-first-abolitionist-glt2136062721
   - 671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
-last_updated: 2026-09-12
+  - 462-st-george-dragon-slayer-glt5334319363
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,7 +38,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], a comparative African female-power branch, and an early Quaker abolitionist activism branch.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, a medieval Anglo-French branch, comparative African female power, and early Quaker abolitionist activism.
 
 ## Current Profile
 
@@ -53,6 +54,8 @@ The [[HundredYearsWar|Hundred Years' War]] branch uses [[England]], [[France]], 
 
 The national-symbol and sport branches use South Africa, Brazil, the Netherlands, Germany, Britain, and Mussolini's World Cup Italy to show how anthems, sport, flags, monarchy, republic, revolt, slavery, dictatorship, propaganda, protest, postwar convention, and constituent-nation football can be inherited, staged, narrowed, or reworked. The Homeric branch retells both halves of [[TheOdyssey]], moving from nostos and fantasy geography to recognition, hospitality, domestic loyalty, and disturbing revenge. The Mayerling branch treats Habsburg scandal as family, religious, imperial, succession, and information-suppression crisis. The Founding Fathers branch starts with Washington and Franklin as military-endurance, public-dignity, diplomacy, persona, and slavery-contradiction cases. The Roman Civil War branch opens the pre-Caesar crisis through [[GaiusMarius]], outsider politics, military credit, and the early [[LuciusCorneliusSulla|Sulla]] rivalry.
 
+The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates an uncertain martyr core from late torture stories, mounted serpent imagery, the dragon rescue narrative, [[OrderOfTheGarter|Garter]] patronage, Protestant allegory, English national use, and transnational veneration. The result treats skepticism as part of the tradition's own history and symbolic flexibility as a historical outcome rather than evidence that every legend is true.
+
 ## Key Characteristics
 
 - The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences, from Marathon's tactical and memory problem to the 1915 war branch.
@@ -60,7 +63,7 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
 - Its Elizabethan and Northern Ireland branches connect security crises to institutions, memory, legitimacy, intelligence, policing, and armed escalation.
-- Its national-symbol and sport-politics branches show public symbols as politically usable without assuming one fixed meaning.
+- Its national-symbol, saint, and sport-politics branches show public symbols as politically usable without assuming one fixed meaning or secure biographical core.
 - Its Homeric, Mayerling, Founding Fathers, and Roman Civil War branches use literature, scandal, biography, and military career to expose institutional crisis and public authority.
 
 ## Evidence
@@ -79,14 +82,15 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 - South Africa reconciliation branch: [[682-south-africa-mandela-and-the-death-of-apartheid-part-6-glt6535658080]] uses Mandela, the Springboks, the 1995 Rugby World Cup, and the fused anthem to ground symbolic reconciliation statecraft after apartheid.
 - Roman Civil War branch: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] opens the sequence through Marius, the Gracchi legacy, Roman expansion anxiety, popularis politics, the Jugurthine War, military credit, and the Sulla rivalry.
 - National-symbol and sport-politics branch: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]], [[680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543]], [[679-germany-the-song-hitler-stole-part-3-glt6217148052]], [[678-britain-god-save-the-king-part-2-glt2603959218]], and [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] use Brazil, the Netherlands, Germany, Britain, and fascist Italy to compare political plasticity, loyal rebellion, selective anthem canonization, constituent-nation sporting identity, and authoritarian sports propaganda.
+- Legendary saint and symbolic-afterlife branch: [[462-st-george-dragon-slayer-glt5334319363]] separates uncertain late-antique history from martyr legend, dragon-slayer imagery, chivalric institutions, Reformation reuse, and modern national contest.
 
 ## Qualifications
 
-This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts, so vivid claims about violence and gender performance remain source-scoped.
+This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition.
 
 ## What Changed
 
-- Added the Marathon episode as an ancient Greek war-memory branch, connecting battle tactics, Athens' survival, Persian source asymmetry, Herodotus, Pheidippides, Pan, and later freedom mythology.
+- Added the St George episode as a legend-and-symbol branch that distinguishes historical uncertainty from the saint's well-attested cultural afterlife.
 
 ## Relationships
 
@@ -161,3 +165,6 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 - [[HomericNostos]] - first-half Odyssey pattern added by episode 687.
 - [[HomericHomecomingRecognition]] - interpretive pattern emphasized by the Odyssey retelling.
 - [[HistoricalMemoryContest]] - recurring interpretive concern across Drake, Northern Ireland, Habsburg memory, national symbols, and the Hundred Years' War.
+- [[StGeorge]] - uncertain martyr whose layered afterlife extends the show's source-critical and symbolic-history coverage.
+- [[SaintLegendAccretion]] - framework for the episode's separation of historical core, martyr story, imagery, and later narrative.
+- [[PatronSaintSymbolicPlasticity]] - framework for George's survival across royal, confessional, national, and sporting reuse.

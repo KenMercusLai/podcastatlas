@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8084
+wiki_total_pages: 8087
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "DragonNationalSymbolInvention"
     title: "Dragon National Symbol Invention / 龙的民族象征发明"
     url: "/wiki/concepts/dragonnationalsymbolinvention/"
+  - key: "DragonSlayerMotifLayering"
+    title: "Dragon-Slayer Motif Layering"
+    url: "/wiki/concepts/dragonslayermotiflayering/"
   - key: "DrawdownCapitalAllocationAndAlignment"
     title: "Drawdown Capital Allocation and Alignment"
     url: "/wiki/concepts/drawdowncapitalallocationandalignment/"

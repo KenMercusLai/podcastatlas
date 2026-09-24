@@ -9,7 +9,8 @@ sources:
   - 487-hundred-years-war-henry-v-s-invasion-of-france-part-1-glt7554933021
   - 486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611
   - 485-henry-iv-the-usurper-king-part-1-glt8868267122
-last_updated: 2026-09-23
+  - 462-st-george-dragon-slayer-glt5334319363
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -35,6 +36,8 @@ His religious profile is not reducible to a single line from youthful reform int
 
 His 1420 settlement was more ambitious than holding Normandy: marriage to [[CatherineOfValois|Catherine of Valois]] made him regent and heir to [[CharlesVIOfFrance|Charles VI]]. Yet continued resistance and Henry's death in 1422 left this [[AngloFrenchDualMonarchy|dual-monarchy]] project to an infant.
 
+Henry's campaign symbolism also drew on an established English patron-saint tradition. Raising George's banner at Harfleur and invoking God and [[StGeorge|St George]] at Agincourt placed the king's operational and providential claims inside that symbolic language.
+
 ## Key Characteristics
 
 - Dynastic heir given major titles and exposure to unstable Cheshire and Wales from age thirteen.
@@ -43,7 +46,7 @@ His 1420 settlement was more ambitious than holding Normandy: marriage to [[Cath
 - Battlefield commander who sustained cohesion under exhaustion and used formation, archers, stakes, terrain, and initiative at Agincourt.
 - Operational gambler whose march toward Calais and later fear-driven prisoner-killing order expose the risks and coercion inside his command.
 - Regime builder and diplomat who converted military success into domestic legitimacy and used imperial and Burgundian relationships to isolate opponents.
-- Conqueror and political communicator who established control over Normandy and Rouen while using English and French identities and advancing English-language administration.
+- Conqueror and political communicator who joined Normandy, English and French identities, English-language administration, and St George symbolism to his claim.
 
 ## Evidence
 
@@ -63,18 +66,15 @@ His 1420 settlement was more ambitious than holding Normandy: marriage to [[Cath
 - Territorial and dynastic ambition: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] traces Normandy's conquest and the Treaty of Troyes settlement.
 - Administrative legacy: [[490-hundred-years-war-england-triumphant-part-4-glt2692942762]] highlights separate kingdoms under one crown and Henry's use of English documents.
 - Religious complexity: [[486-henry-iv-warrior-princes-and-fat-knights-part-2-glt8391310611]] places Henry's English Bible, Oxford position, Wycliffite family networks, friendship with Oldcastle, and later orthodoxy in tension without resolving his private belief.
+- Patron-saint invocation: [[462-st-george-dragon-slayer-glt5334319363]] says Henry raised George's banner at Harfleur and invoked God and the saint at Agincourt.
 
 ## Qualifications
 
-The sources do not resolve how sincere Henry's maximalist diplomacy was, whether he sought battle during the march, whether refusal to retreat was prudent, or whether he could have sustained the French settlement had he lived. Admiration for his competence is balanced by Harfleur's destruction and expulsions, a hanging used to enforce discipline, prisoner killing, battlefield mass death, looting, taxation, continuing resistance, religious persecution, and the possibility that seeking all France was strategic overreach. His friendship with Oldcastle and interest in reform do not establish Lollard adherence or a clear private conversion narrative. The tennis-balls story, exact force and fleet totals, and motives behind particular decisions remain disputed or reconstructed.
+The sources do not resolve how sincere Henry's maximalist diplomacy was, whether he sought battle during the march, whether refusal to retreat was prudent, or whether he could have sustained the French settlement had he lived. Admiration for his competence is balanced by Harfleur's destruction and expulsions, a hanging used to enforce discipline, prisoner killing, battlefield mass death, looting, taxation, continuing resistance, religious persecution, and the possibility that seeking all France was strategic overreach. His friendship with Oldcastle and interest in reform do not establish Lollard adherence or a clear private conversion narrative. The George invocations document symbolic use, not proof of saintly intervention or the accuracy of later battle legend. The tennis-balls story, exact force and fleet totals, and motives behind particular decisions remain disputed or reconstructed.
 
 ## What Changed
 
-- Extended Henry's profile backward to Welsh command, administrative training, Shrewsbury, grave injury, and recovery.
-- Replaced the simple wayward-youth frame with evidence of early military and governmental responsibility.
-- Added the tension between earlier reformist contacts and later royal orthodoxy.
-- Added Oldcastle as the personal relationship through which religious dissent became a test of kingship.
-- Added princely titles and deliberate exposure to dangerous regions as the opening of Henry's apprenticeship.
+- Added St George's banner and invocation as part of Henry's campaign symbolism without treating later legend as battlefield evidence.
 
 ## Relationships
 
@@ -96,3 +96,5 @@ The sources do not resolve how sincere Henry's maximalist diplomacy was, whether
 - [[CatherineOfValois]] - French princess whose marriage to Henry anchored the Troyes settlement.
 - [[TreatyOfTroyes]] - agreement naming Henry regent and heir to France.
 - [[CharlesVIIOfFrance]] - disinherited rival whose supporters continued resistance.
+- [[StGeorge]] - patron saint invoked in Henry's Harfleur and Agincourt campaign symbolism.
+- [[PatronSaintSymbolicPlasticity]] - broader process through which medieval invocation became durable English national memory.

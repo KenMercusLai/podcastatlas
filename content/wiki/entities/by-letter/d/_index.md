@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10711
+wiki_total_pages: 10715
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "DinoraFigueroa"
     title: "Dinora Figueroa"
     url: "/wiki/entities/dinorafigueroa/"
+  - key: "Diocletian"
+    title: "Diocletian"
+    url: "/wiki/entities/diocletian/"
   - key: "Diogenes"
     title: "Diogenes / 第欧根尼"
     url: "/wiki/entities/diogenes/"

@@ -13877,6 +13877,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/belgium/"
     },
+    "Bellerophon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/bellerophon/"
+    },
     "BenGoodwin": {
       "episode_count": 1,
       "show_count": 1,
@@ -34522,6 +34538,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/dingdongxiaoqu/"
     },
+    "Diocletian": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/diocletian/"
+    },
     "Dior": {
       "episode_count": 1,
       "show_count": 1,
@@ -36393,6 +36425,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/downstreamporkabsorptionlimits/"
+    },
+    "DragonSlayerMotifLayering": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/dragonslayermotiflayering/"
     },
     "DrawdownCapitalAllocationAndAlignment": {
       "episode_count": 1,
@@ -38392,9 +38440,9 @@
       "url": "/wiki/entities/edwardheath/"
     },
     "EdwardIIIOfEngland": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -38402,9 +38450,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/edwardiiiofengland/"
     },
     "EdwardIIOfEngland": {
@@ -42180,9 +42235,9 @@
       "url": "/wiki/concepts/engineeringfounderautomotivetransition/"
     },
     "England": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 2,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -42232,9 +42287,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/england/"
     },
     "EnglishDefenceLeague": {
@@ -60868,9 +60930,9 @@
       "url": "/wiki/entities/henrythenavigator/"
     },
     "HenryVOfEngland": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT2692942762 [GLT2692942762].md",
@@ -60913,9 +60975,16 @@
           "show": "The Rest Is History",
           "title": "485. Henry IV: The Usurper King (Part 1)",
           "url": "/wiki/sources/485-henry-iv-the-usurper-king-part-1-glt8868267122/"
+        },
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/henryvofengland/"
     },
     "HenryVPlay": {
@@ -87933,6 +88002,29 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/maleurologicalhealthmisconceptions/"
     },
+    "Malta": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_7639444f1dd62f757e58d34a4ce5f532_28685445 [default.mp3_ywr3ahjkcgo_7639444f1dd62f757e58d34a4ce5f532_28685445].md",
+          "key": "the-leaked-tapes-that-show-how-the-rich-avoid-taxes",
+          "show": "Planet Money",
+          "title": "The leaked tapes that show how the rich avoid taxes",
+          "url": "/wiki/sources/the-leaked-tapes-that-show-how-the-rich-avoid-taxes/"
+        },
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/malta/"
+    },
     "ManagedServiceAutomationLayer": {
       "episode_count": 1,
       "show_count": 1,
@@ -99572,6 +99664,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/orbitaldatacentereconomics/"
     },
+    "OrderOfTheGarter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/orderofthegarter/"
+    },
     "OrdinaryInvestorMacroBoundary": {
       "episode_count": 3,
       "show_count": 2,
@@ -101806,6 +101914,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/patriciaresnick/"
+    },
+    "PatronSaintSymbolicPlasticity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/patronsaintsymbolicplasticity/"
     },
     "PatronageLossSelfProtection": {
       "episode_count": 1,
@@ -116285,6 +116409,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/sahanajayaraman/"
     },
+    "SaintLegendAccretion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/saintlegendaccretion/"
+    },
     "SaintPetersburg": {
       "episode_count": 1,
       "show_count": 1,
@@ -125277,6 +125417,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/stbricesdaymassacre/"
     },
+    "StGeorge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/stgeorge/"
+    },
     "StaciWhitman": {
       "episode_count": 1,
       "show_count": 1,
@@ -131760,9 +131916,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -131945,9 +132101,16 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT5334319363 [GLT5334319363].md",
+          "key": "462-st-george-dragon-slayer-glt5334319363",
+          "show": "The Rest Is History",
+          "title": "462. St George: Dragon-Slayer",
+          "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheRollingStones": {
