@@ -2802,6 +2802,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Advice Line with Danny Meyer of Shake Shack](sources/advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac.md) — Danny Meyer advises food-and-beverage founders on behavior-based culture, packaged hospitality, capacity-gated channel tests, and bottom-up food-service proof.
 - [Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin](sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592.md) — Huberman Lab Essentials episode on goal-specific strength, power, and hypertrophy programming, progressive overload, exercise variation, weekly volume, and resilient scheduling.
 - [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
+- [VOL.119黑灯：脱口秀哪有现实荒谬，疾病致盲，城市设施制障｜一期讲懂Stargardt病](sources/vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq.md) — 这病说来话长 episode on Stargardt disease, color-vision deficiency, disability adaptation, user-centered accessibility, and patient-led rare-disease information.
 
 ## Entities
 - [1945 British General Election](entities/BritishGeneralElection1945.md) — Labour landslide used to distinguish postwar demand and prior legitimacy from Churchill's famous campaign mistake.
@@ -13520,6 +13521,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Coos](entities/BoostCoos.md) — Protein-rich couscous alternative using small restaurants and chefs to build food-service proof.
 - [Ross Andrew Paquette](entities/RossAndrewPaquette.md) — Maropost founder whose product selling accelerated growth while creating a difficult leadership-transfer problem.
 - [Maropost](entities/Maropost.md) — Bootstrapped marketing-automation and e-commerce SaaS company shaped by responsive service, founder-led sales, investor conflict, and acquisitions.
+- [黑灯 / Hei Deng](entities/HeiDeng.md) — Comedian and podcaster connecting inherited visual loss to adaptation, accessibility, storytelling, and rare-disease organizing.
+- [尹鑫 / Yin Xin (nutrition guest)](entities/YinXinNutritionGuest.md) — Disambiguated nutrition guest explaining congenital red-green color-vision difference through lived function.
+- [青少年黄斑变性关爱中心 / Juvenile Macular Degeneration Care Center](entities/JuvenileMacularDegenerationCareCenter.md) — Patient- and family-led information initiative for juvenile inherited macular disease.
 
 ## Concepts
 - [British Election Campaign Effects](concepts/BritishElectionCampaignEffects.md) — Conditional framework separating confirmation, amplification, and leader-exposure effects from pre-campaign conditions.
@@ -21610,5 +21614,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Food-Service Beachhead Scaling](concepts/FoodserviceBeachheadScaling.md) — Bottom-up restaurant entry that builds operational proof and advocacy before national-chain scale.
 - [Exercise Variation and Progression Balance](concepts/ExerciseVariationProgressionBalance.md) — Programming principle that keeps movements stable enough for learning and measurable overload while allowing purposeful variation.
 - [Training Chaos Management](concepts/TrainingChaosManagement.md) — Goal-specific adjustment of load, quality, volume, rest, and schedule when time, equipment, or attendance disrupts training.
+- [Stargardt Disease / 斯塔加特病](concepts/StargardtDisease.md) — Inherited macular dystrophy joined to retinal mechanism, central-vision function, research boundaries, and patient support.
+- [Color-Vision Deficiency / 色觉障碍](concepts/ColorVisionDeficiency.md) — Spectrum-and-function framework for congenital and acquired differences in color discrimination.
+- [User-Centered Accessibility Design / 使用者中心无障碍设计](concepts/UserCenteredAccessibilityDesign.md) — Journey-level design test joining infrastructure, legibility, service workflow, user evidence, and task completion.
+- [Patient-Led Rare-Disease Infrastructure / 患者主导的罕见病基础设施](concepts/PatientLedRareDiseaseInfrastructure.md) — Information, peer-support, advocacy, and research-bridging capacity built by affected people and families.
 
 ## Syntheses

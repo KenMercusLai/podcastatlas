@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8077
+wiki_total_pages: 8081
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1274,6 +1274,9 @@ wiki_pages:
   - key: "ColorAsIdentityDisruption"
     title: "Color As Identity Disruption"
     url: "/wiki/concepts/colorasidentitydisruption/"
+  - key: "ColorVisionDeficiency"
+    title: "Color-Vision Deficiency / 色觉障碍"
+    url: "/wiki/concepts/colorvisiondeficiency/"
   - key: "ColorectalCancerScreening"
     title: "Colorectal Cancer Screening"
     url: "/wiki/concepts/colorectalcancerscreening/"

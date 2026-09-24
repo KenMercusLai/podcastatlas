@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10706
+wiki_total_pages: 10709
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1466,6 +1466,9 @@ wiki_pages:
   - key: "JunBuyiWesternHan"
     title: "隽不疑 / Jun Buyi (Western Han)"
     url: "/wiki/entities/junbuyiwesternhan/"
+  - key: "JuvenileMacularDegenerationCareCenter"
+    title: "青少年黄斑变性关爱中心 / Juvenile Macular Degeneration Care Center"
+    url: "/wiki/entities/juvenilemaculardegenerationcarecenter/"
   - key: "JingwuPrincessWesternHan"
     title: "靖武公主 / Jingwu Princess (Western Han)"
     url: "/wiki/entities/jingwuprincesswesternhan/"

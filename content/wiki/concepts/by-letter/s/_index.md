@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8077
+wiki_total_pages: 8081
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1481,6 +1481,9 @@ wiki_pages:
   - key: "StarTalentInBigCompanies"
     title: "Star Talent In Big Companies"
     url: "/wiki/concepts/startalentinbigcompanies/"
+  - key: "StargardtDisease"
+    title: "Stargardt Disease / 斯塔加特病"
+    url: "/wiki/concepts/stargardtdisease/"
   - key: "StartupAcceleratorBatchSelection"
     title: "Startup Accelerator Batch Selection"
     url: "/wiki/concepts/startupacceleratorbatchselection/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 8077
+wiki_total_pages: 8081
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "UserFeedbackVehicleDefinition"
     title: "User Feedback Vehicle Definition / 用户反馈驱动车辆定义"
     url: "/wiki/concepts/userfeedbackvehicledefinition/"
+  - key: "UserCenteredAccessibilityDesign"
+    title: "User-Centered Accessibility Design / 使用者中心无障碍设计"
+    url: "/wiki/concepts/usercenteredaccessibilitydesign/"
   - key: "UserGeneratedContentCopyrightRisk"
     title: "User-Generated Content Copyright Risk"
     url: "/wiki/concepts/usergeneratedcontentcopyrightrisk/"

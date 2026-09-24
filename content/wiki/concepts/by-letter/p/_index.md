@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8077
+wiki_total_pages: 8081
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "PatientDerivedOrganoids"
     title: "Patient-Derived Organoids"
     url: "/wiki/concepts/patientderivedorganoids/"
+  - key: "PatientLedRareDiseaseInfrastructure"
+    title: "Patient-Led Rare-Disease Infrastructure / 患者主导的罕见病基础设施"
+    url: "/wiki/concepts/patientledrarediseaseinfrastructure/"
   - key: "PatrimonialGovernance"
     title: "Patrimonial Governance"
     url: "/wiki/concepts/patrimonialgovernance/"

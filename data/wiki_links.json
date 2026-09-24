@@ -14931,6 +14931,10 @@
     "title": "Color As Identity Disruption",
     "url": "/wiki/concepts/colorasidentitydisruption/"
   },
+  "ColorVisionDeficiency": {
+    "title": "Color-Vision Deficiency / 色觉障碍",
+    "url": "/wiki/concepts/colorvisiondeficiency/"
+  },
   "ColorectalCancerScreening": {
     "title": "Colorectal Cancer Screening",
     "url": "/wiki/concepts/colorectalcancerscreening/"
@@ -30027,6 +30031,10 @@
     "title": "合肥侯 / Hefei Marquis (late Han)",
     "url": "/wiki/entities/hefeimarquislatehan/"
   },
+  "HeiDeng": {
+    "title": "黑灯 / Hei Deng",
+    "url": "/wiki/entities/heideng/"
+  },
   "HeianCourtlyPerformance": {
     "title": "Heian Courtly Performance",
     "url": "/wiki/concepts/heiancourtlyperformance/"
@@ -36426,6 +36434,10 @@
   "JustinsNutButter": {
     "title": "Justin's Nut Butter",
     "url": "/wiki/entities/justinsnutbutter/"
+  },
+  "JuvenileMacularDegenerationCareCenter": {
+    "title": "青少年黄斑变性关爱中心 / Juvenile Macular Degeneration Care Center",
+    "url": "/wiki/entities/juvenilemaculardegenerationcarecenter/"
   },
   "Juxian": {
     "title": "菊仙 / Juxian",
@@ -49991,6 +50003,10 @@
     "title": "Patient Dignity In Daily Care / 日常照护中的患者尊严",
     "url": "/wiki/concepts/patientdignityindailycare/"
   },
+  "PatientLedRareDiseaseInfrastructure": {
+    "title": "Patient-Led Rare-Disease Infrastructure / 患者主导的罕见病基础设施",
+    "url": "/wiki/concepts/patientledrarediseaseinfrastructure/"
+  },
   "PatientSM": {
     "title": "Patient SM",
     "url": "/wiki/entities/patientsm/"
@@ -62095,6 +62111,10 @@
     "title": "Starbucks",
     "url": "/wiki/entities/starbucks/"
   },
+  "StargardtDisease": {
+    "title": "Stargardt Disease / 斯塔加特病",
+    "url": "/wiki/concepts/stargardtdisease/"
+  },
   "StargateAIInfrastructure": {
     "title": "Stargate AI Infrastructure",
     "url": "/wiki/entities/stargateaiinfrastructure/"
@@ -68223,6 +68243,10 @@
     "title": "Useless Invention Value / 无用发明价值",
     "url": "/wiki/concepts/uselessinventionvalue/"
   },
+  "UserCenteredAccessibilityDesign": {
+    "title": "User-Centered Accessibility Design / 使用者中心无障碍设计",
+    "url": "/wiki/concepts/usercenteredaccessibilitydesign/"
+  },
   "UserFeedbackVehicleDefinition": {
     "title": "User Feedback Vehicle Definition / 用户反馈驱动车辆定义",
     "url": "/wiki/concepts/userfeedbackvehicledefinition/"
@@ -73794,6 +73818,10 @@
   "YinXinDoctor": {
     "title": "银欣 / Yin Xin",
     "url": "/wiki/entities/yinxindoctor/"
+  },
+  "YinXinNutritionGuest": {
+    "title": "尹鑫 / Yin Xin (nutrition guest)",
+    "url": "/wiki/entities/yinxinnutritionguest/"
   },
   "YinXingGuangwuMaternalKin": {
     "title": "阴兴 / Yin Xing (Guangwu maternal kin)",
@@ -81138,6 +81166,10 @@
   "vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt": {
     "title": "vol.118.单身人士养老指南：不是孤独的代名词，是更早掌握人生的主动权",
     "url": "/wiki/sources/vol-118-danshen-renshi-yanglao-zhinan-bushi-gudu-de-daimingci-shi-gengzao-zhangwo-rensheng-de-zhudongquan-lhvkuveznxd4citlwf5marzaj-wt/"
+  },
+  "vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq": {
+    "title": "VOL.119黑灯：脱口秀哪有现实荒谬，疾病致盲，城市设施制障｜一期讲懂Stargardt病",
+    "url": "/wiki/sources/vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq/"
   },
   "vol-119-quanshang-yanjiu-baogao-hai-zhide-du-ma-ljpctapo-auonrn4tlqzvzv66qv3": {
     "title": "vol.119.券商研究报告还值得读吗？",

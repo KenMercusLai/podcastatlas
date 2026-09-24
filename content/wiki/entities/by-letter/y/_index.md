@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10706
+wiki_total_pages: 10709
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -575,6 +575,9 @@ wiki_pages:
   - key: "YinLaoshiZheBing"
     title: "尹老师 / Yin Laoshi (Zhe Bing speaker)"
     url: "/wiki/entities/yinlaoshizhebing/"
+  - key: "YinXinNutritionGuest"
+    title: "尹鑫 / Yin Xin (nutrition guest)"
+    url: "/wiki/entities/yinxinnutritionguest/"
   - key: "YueWanrou"
     title: "岳宛柔 / Yue Wanrou"
     url: "/wiki/entities/yuewanrou/"
