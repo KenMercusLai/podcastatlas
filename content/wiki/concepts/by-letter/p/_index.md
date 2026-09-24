@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8081
+wiki_total_pages: 8084
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "PreQinSurnameClanIdentity"
     title: "Pre-Qin Surname-Clan Identity / 先秦姓氏身份"
     url: "/wiki/concepts/preqinsurnameclanidentity/"
+  - key: "PreReformBritishElectoralRepresentation"
+    title: "Pre-Reform British Electoral Representation"
+    url: "/wiki/concepts/prereformbritishelectoralrepresentation/"
   - key: "PreachingAsFailedConnection"
     title: "Preaching As Failed Connection / 说教作为失败的亲近方式"
     url: "/wiki/concepts/preachingasfailedconnection/"
@@ -1973,6 +1976,9 @@ wiki_pages:
   - key: "PublicUtilityCommissions"
     title: "Public Utility Commissions"
     url: "/wiki/concepts/publicutilitycommissions/"
+  - key: "PublicVotingElectoralCoercion"
+    title: "Public Voting and Electoral Coercion"
+    url: "/wiki/concepts/publicvotingelectoralcoercion/"
   - key: "PublicWebArchiving"
     title: "Public Web Archiving"
     url: "/wiki/concepts/publicwebarchiving/"

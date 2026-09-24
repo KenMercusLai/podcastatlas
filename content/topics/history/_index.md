@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1978
+topic_total_pages: 1979
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4581,6 +4581,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "463-mad-elections-part-1-glt4220133865"
+    title: "463. Mad Elections (Part 1)"
+    url: "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
   - key: "464-modern-british-elections-part-2-glt4046145085"
     title: "464. Modern British Elections (Part 2)"
     url: "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"

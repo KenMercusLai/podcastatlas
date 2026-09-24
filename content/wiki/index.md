@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [463. Mad Elections (Part 1)](sources/463-mad-elections-part-1-glt4220133865.md) — The Rest Is History episode on uneven pre-reform franchises, Old Sarum, public voting, treating, election ritual, coercion, violence, and the secret ballot.
 - [464. Modern British Elections (Part 2)](sources/464-modern-british-elections-part-2-glt4046145085.md) — The Rest Is History episode on weak average campaign effects, the 1945–2017 exceptions, electoral mythmaking, first-past-the-post vote splitting, and the shift from mass meetings to managed media.
 - [VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事](sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla.md) — 这病说来话长 episode on 120 dispatch, caller preparation, transport and destination choice, emergency-department handoff, documentation, and ambulance-worker risk.
 - [465. The Murder of Franz Ferdinand: The Killer (Part 1)](sources/465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580.md) — The Rest Is History episode on Princip's rural childhood, Sarajevo schooling, Young Bosnia radicalization, South Slav nationalism, and Bogdan Zerajic's martyr example.
@@ -2807,6 +2808,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 
 ## Entities
+- [Old Sarum](entities/OldSarum.md) — Emblematic rotten borough whose inherited seats, tiny electorate, and landowner control exposed pre-reform representational inequality.
 - [1945 British General Election](entities/BritishGeneralElection1945.md) — Labour landslide used to distinguish postwar demand and prior legitimacy from Churchill's famous campaign mistake.
 - [1992 British General Election](entities/BritishGeneralElection1992.md) — Conservative victory used as a case of advertising amplifying prior tax anxiety and candidate-format fit.
 - [2017 British General Election](entities/BritishGeneralElection2017.md) — Campaign reversal used as the clearest modern British case of sustained exposure damaging a leading candidate.
@@ -13530,6 +13532,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Pre-Reform British Electoral Representation](concepts/PreReformBritishElectoralRepresentation.md) — Property, local custom, corporate privilege, and inherited borough rights before population-based electoral equality.
+- [Public Voting and Electoral Coercion](concepts/PublicVotingElectoralCoercion.md) — How observable oral voting made patronage, treating, intimidation, and retaliation easier to enforce.
+- [Institutional Decline of Electoral Violence](concepts/ElectoralViolenceInstitutionalDecline.md) — Multi-causal account of historic campaign disorder and its incomplete reduction through reform.
 - [British Election Campaign Effects](concepts/BritishElectionCampaignEffects.md) — Conditional framework separating confirmation, amplification, and leader-exposure effects from pre-campaign conditions.
 - [Mass Political Campaigning](concepts/MassPoliticalCampaigning.md) — Open civic campaign form built around crowds, rallies, heckling, and direct candidate-public encounter.
 - [Electoral Outcome Mythmaking](concepts/ElectoralOutcomeMythmaking.md) — Retrospective compression of complex election results into one vivid event or mistake.

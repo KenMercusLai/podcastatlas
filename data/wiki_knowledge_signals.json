@@ -38832,6 +38832,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/electoraloutcomemythmaking/"
     },
+    "ElectoralViolenceInstitutionalDecline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4220133865 [GLT4220133865].md",
+          "key": "463-mad-elections-part-1-glt4220133865",
+          "show": "The Rest Is History",
+          "title": "463. Mad Elections (Part 1)",
+          "url": "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/electoralviolenceinstitutionaldecline/"
+    },
     "ElectricAssistBicyclePremiumPositioning": {
       "episode_count": 1,
       "show_count": 1,
@@ -89103,9 +89119,9 @@
       "url": "/wiki/entities/maserati/"
     },
     "MassPoliticalCampaigning": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4046145085 [GLT4046145085].md",
@@ -89113,6 +89129,13 @@
           "show": "The Rest Is History",
           "title": "464. Modern British Elections (Part 2)",
           "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        },
+        {
+          "episode_file": "GLT4220133865 [GLT4220133865].md",
+          "key": "463-mad-elections-part-1-glt4220133865",
+          "show": "The Rest Is History",
+          "title": "463. Mad Elections (Part 1)",
+          "url": "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
         }
       ],
       "updated": "2026-09-25",
@@ -98574,6 +98597,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/olaftryggvason/"
     },
+    "OldSarum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4220133865 [GLT4220133865].md",
+          "key": "463-mad-elections-part-1-glt4220133865",
+          "show": "The Rest Is History",
+          "title": "463. Mad Elections (Part 1)",
+          "url": "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/oldsarum/"
+    },
     "OlderAdultStereotypeResistance": {
       "episode_count": 1,
       "show_count": 1,
@@ -106208,6 +106247,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/precallqualification/"
     },
+    "PreReformBritishElectoralRepresentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4220133865 [GLT4220133865].md",
+          "key": "463-mad-elections-part-1-glt4220133865",
+          "show": "The Rest Is History",
+          "title": "463. Mad Elections (Part 1)",
+          "url": "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/prereformbritishelectoralrepresentation/"
+    },
     "PreachingAsFailedConnection": {
       "episode_count": 1,
       "show_count": 1,
@@ -108802,6 +108857,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/publicservicedigitalization/"
+    },
+    "PublicVotingElectoralCoercion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4220133865 [GLT4220133865].md",
+          "key": "463-mad-elections-part-1-glt4220133865",
+          "show": "The Rest Is History",
+          "title": "463. Mad Elections (Part 1)",
+          "url": "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/publicvotingelectoralcoercion/"
     },
     "PubliusSulpiciusRufus": {
       "episode_count": 2,

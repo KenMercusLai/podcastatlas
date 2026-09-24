@@ -1710,6 +1710,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "463-mad-elections-part-1-glt4220133865": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "464-modern-british-elections-part-2-glt4046145085": [
     {
       "key": "history",
@@ -24883,6 +24895,13 @@
     }
   ],
   "ElectoralOutcomeMythmaking": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ElectoralViolenceInstitutionalDecline": [
     {
       "key": "politics",
       "label": "Politics",
@@ -52215,6 +52234,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OldSarum": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OlderWorkerAIRetirement": [
     {
       "key": "technology",
@@ -56601,6 +56627,13 @@
       "url": "/topics/history/"
     }
   ],
+  "PreReformBritishElectoralRepresentation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PrecisionAgriculture": [
     {
       "key": "technology",
@@ -58157,6 +58190,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PublicVotingElectoralCoercion": [
     {
       "key": "politics",
       "label": "Politics",

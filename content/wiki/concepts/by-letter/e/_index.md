@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8081
+wiki_total_pages: 8084
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "EyeDropSelfMedicationRisk"
     title: "Eye Drop Self-Medication Risk / 眼药水自行用药风险"
     url: "/wiki/concepts/eyedropselfmedicationrisk/"
+  - key: "ElectoralViolenceInstitutionalDecline"
+    title: "Institutional Decline of Electoral Violence"
+    url: "/wiki/concepts/electoralviolenceinstitutionaldecline/"
   - key: "EnvoyKillingTaboo"
     title: "不斩来使 / Envoy Killing Taboo"
     url: "/wiki/concepts/envoykillingtaboo/"

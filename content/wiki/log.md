@@ -22288,3 +22288,11 @@ Added source `how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 463. Mad Elections (Part 1)
+
+Added source `463-mad-elections-part-1-glt4220133865`; created `OldSarum`, `PreReformBritishElectoralRepresentation`, `PublicVotingElectoralCoercion`, and `ElectoralViolenceInstitutionalDecline`; and updated `MassPoliticalCampaigning` from its complete bounded source set. Core synthesis: pre-reform elections combined unequal inherited representation with visible oral voting, patronage, treating, crowd ritual, and recurrent violence; franchise expansion, stronger party organization, and the secret ballot reduced some mechanisms of coercion without eliminating political intimidation. No settled contradiction found. Women's early voting, vote and casualty totals, monetary equivalents, partisan responsibility, legal interpretations, and the relative causes of violence's decline remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

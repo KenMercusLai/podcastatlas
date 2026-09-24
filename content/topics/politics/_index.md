@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2690
+topic_total_pages: 2695
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1789,6 +1789,9 @@ topic_concepts:
   - key: "InnovativeDrugCommercialInsuranceCatalog"
     title: "Innovative Drug Commercial Insurance Catalog"
     url: "/wiki/concepts/innovativedrugcommercialinsurancecatalog/"
+  - key: "ElectoralViolenceInstitutionalDecline"
+    title: "Institutional Decline of Electoral Violence"
+    url: "/wiki/concepts/electoralviolenceinstitutionaldecline/"
   - key: "InstitutionalMechanismSatire"
     title: "Institutional Mechanism Satire"
     url: "/wiki/concepts/institutionalmechanismsatire/"
@@ -2749,6 +2752,9 @@ topic_concepts:
   - key: "PragmaticImmigrationCompromise"
     title: "Pragmatic Immigration Compromise"
     url: "/wiki/concepts/pragmaticimmigrationcompromise/"
+  - key: "PreReformBritishElectoralRepresentation"
+    title: "Pre-Reform British Electoral Representation"
+    url: "/wiki/concepts/prereformbritishelectoralrepresentation/"
   - key: "PredeterminedMeetingProcess"
     title: "Predetermined Meeting Process / 既定结果会议程序"
     url: "/wiki/concepts/predeterminedmeetingprocess/"
@@ -2935,6 +2941,9 @@ topic_concepts:
   - key: "PublicUtilityCommissions"
     title: "Public Utility Commissions"
     url: "/wiki/concepts/publicutilitycommissions/"
+  - key: "PublicVotingElectoralCoercion"
+    title: "Public Voting and Electoral Coercion"
+    url: "/wiki/concepts/publicvotingelectoralcoercion/"
   - key: "PublicBenefitPrivateValueCapture"
     title: "Public-Benefit Private Value Capture"
     url: "/wiki/concepts/publicbenefitprivatevaluecapture/"
@@ -5924,6 +5933,9 @@ topic_entities:
   - key: "Okinawa"
     title: "Okinawa"
     url: "/wiki/entities/okinawa/"
+  - key: "OldSarum"
+    title: "Old Sarum"
+    url: "/wiki/entities/oldsarum/"
   - key: "OlinFoundation"
     title: "Olin Foundation"
     url: "/wiki/entities/olinfoundation/"
@@ -7155,6 +7167,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "463-mad-elections-part-1-glt4220133865"
+    title: "463. Mad Elections (Part 1)"
+    url: "/wiki/sources/463-mad-elections-part-1-glt4220133865/"
   - key: "464-modern-british-elections-part-2-glt4046145085"
     title: "464. Modern British Elections (Part 2)"
     url: "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
