@@ -7,48 +7,53 @@ sources:
   - 400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4
   - 351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym
   - cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733
-last_updated: 2026-09-08
+  - home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e
+last_updated: 2026-09-24
 ---
 
 # Social Media Design Regulation
 
 ## Definition
-Social media design regulation is a policy approach that targets how platforms structure user behavior, attention, data extraction, and interaction defaults rather than having the state decide which lawful opinions or messages may be expressed.
+Social media design regulation targets how platforms structure attention, interaction, data extraction, recommendation, and safety defaults rather than having the state decide which lawful opinions users may express.
 
 ## Current Synthesis
-The wiki's current branch treats design regulation as an alternative to two incomplete options: unrestricted platform control over children's attention environments and government content censorship. [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] grounds the product-design side through litigation around addictive feeds, notifications, stranger messages, and recommendation systems. [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] adds the civil-liberties boundary: the policy target should be platform manipulation of children, not state judgment about what citizens may say.
+The complete evidence treats design regulation as an alternative to both unrestricted platform control and broad access rules that stop at exclusion. [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] grounds the legal branch in product-liability claims about infinite scroll, personalized feeds, notifications, stranger messages, and engagement optimization. [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] supplies the civil-liberties boundary: target manipulation and data relationships rather than lawful expression.
 
-A less legal but still design-relevant lens asks whether online systems support or degrade embodied social connection, eye contact, synchrony, shared time, and awe. The concept sits between [[AddictiveInteractionDesign]], [[SocialMediaProductLiability]], and [[SocialMediaAgeBans]]. It asks whether law and product design can place responsibility on companies for architecture while preserving open access to public information and lawful speech. The strongest current synthesis is that design regulation is useful precisely because it changes the regulated object from user expression to platform systems: default messaging, nighttime alerts, infinite scroll, algorithmic targeting, engagement loops, asynchronous rage-baiting, and loss of shared embodied context.
+A human-centered test in [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] asks whether online systems degrade eye contact, synchrony, shared time, and awe while amplifying rage, numbing, siloing, or self-focus. Weak early enforcement in Australia exposes a separate incentive problem in [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]]. If a blanket ban lets platforms say children should not be present, companies may have less reason to make the product safer for the young users who remain. A conditional ban that lifts only when safety criteria are met ties market access to design improvement more directly.
+
+The strongest synthesis is therefore incentive-focused: define risky architecture, require measurable protections, preserve lawful speech, and avoid treating formal ineligibility as proof that actual users are protected.
 
 ## Key Claims
-- Design regulation shifts attention from individual pieces of content to platform architecture and behavioral defaults.
-- The child-safety case is strongest where features exploit attention, social anxiety, sleep disruption, or underdeveloped self-control.
-- Regulating design can complement age bans by reducing harms even when some users remain on platforms.
-- The boundary is not perfectly clean because recommendation systems can blend content selection with design choices.
-- Responsibility should fall primarily on platforms when the harmful mechanism is engineered into the product.
-- A credible policy design needs civil-liberties limits so child protection does not become generalized content control.
-- A human-centered design test should also ask whether platforms preserve or undermine eye contact, synchrony, shared experience, and awe-supporting social contexts.
+- Design regulation shifts the regulated object from individual expression to platform architecture and behavioral defaults.
+- Child-safety intervention is strongest where features exploit attention, social anxiety, sleep disruption, stranger access, or underdeveloped self-control.
+- Design rules can protect users who evade, age out of, or fall outside an account ban.
+- Blanket exclusion can weaken design incentives if platforms use formal ineligibility to disclaim responsibility for foreseeable underage use.
+- Conditional access tied to safety criteria can make product change a route to compliance rather than an optional concession.
+- Recommendation rules blur content and design, so civil-liberties boundaries remain necessary.
+- A broader human-centered test asks whether digital systems support embodied connection, synchrony, shared experience, and awe.
 
 ## Evidence
-- Product-design liability branch: [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] describes U.S. litigation moving from harmful-content claims toward defective product design, including infinite scroll, personalized feeds, notifications, stranger direct messages, and engagement optimization.
-- Civil-liberties boundary: [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] distinguishes design regulation from content regulation and says the state should not decide which viewpoints are harmful.
-- Child-specific design harms: [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] names nighttime notifications, stranger messaging, infinite scrolling, algorithmic recommendation, red-dot alerts, and social anxiety loops as design targets.
-- Embodied-connection design critique: [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] says Keltner and Huberman worry that asynchronous digital life can degrade eye contact, embodied interaction, shared music and moviegoing, and awe while producing rage-baiting, numbing, and siloing.
+- Product-design liability - [[400-shejiao-meiti-de-dayancao-shike-shui-gai-wei-qingshaonian-de-chengyin-fuze-32ada8c4]] describes litigation around infinite scroll, personalized feeds, notifications, stranger messages, and engagement optimization.
+- Civil-liberties boundary - [[351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym]] distinguishes design constraints from government control of viewpoints.
+- Embodied-connection critique - [[cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733]] argues that asynchronous digital life can degrade eye contact, synchrony, shared experience, and awe while producing rage, numbing, and siloing.
+- Ban-design incentive - [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]] reports criticism that blanket bans let platforms avoid safety responsibility and contrasts that with Canada's proposed safety-criteria model.
+- Product response - [[home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e]] reports platform account removals and broader safety limits introduced under legal and settlement pressure.
 
 ## Counterevidence & Qualifications
-The content-design boundary can blur when a rule blocks recommendations of self-harm, violent, or sexual content to children, because the intervention concerns both algorithmic structure and content categories. Design regulation also does not eliminate the need to decide which platforms, ages, interfaces, and enforcement mechanisms are covered. The awe-and-embodiment critique is normative and source-scoped: it identifies a design direction, not a ready statutory test.
+The content-design boundary blurs when systems restrict recommendations of self-harm, violent, or sexual material, because both architecture and content category matter. Safety criteria can become vague, gameable, or burdensome to smaller services if regulators do not specify outcomes and audit methods. The Canada approach and Meta settlement effects are source-scoped proposals and developments, not proof of superior long-term outcomes. The awe-and-embodiment lens is normative rather than a ready statutory test.
 
 ## What Changed
-- Created the concept to hold the design-versus-content regulation distinction.
-- Linked existing product-liability evidence to the newer civil-liberties framing.
-- Added Keltner and Huberman's embodied-connection critique as a design-quality lens beyond child-safety litigation.
+- Added the risk that blanket age bans can reduce incentives for platform safety improvements.
+- Added conditional access tied to safety criteria as an incentive-compatible alternative.
+- Added observed persistence of underage use as a reason design rules must protect users whom access rules fail to exclude.
+- Preserved the civil-liberties and embodied-connection boundaries from the complete earlier evidence.
 
 ## Related Concepts
-- [[AddictiveInteractionDesign]] - design mechanics that can keep users engaged beyond reflective intention.
-- [[SocialMediaProductLiability]] - legal frame treating harmful platform features as product design.
-- [[SocialMediaAgeBans]] - adjacent access restriction that design regulation may complement or narrow.
-- [[OnlineAgeVerification]] - enforcement mechanism for access rules, separate from design constraints.
+- [[AddictiveInteractionDesign]] - mechanics that keep users engaged beyond reflective intention.
+- [[SocialMediaProductLiability]] - legal frame treating harmful features as product defects.
+- [[SocialMediaAgeBans]] - access restriction whose incentives design regulation can complement or correct.
+- [[OnlineAgeVerification]] - enforcement mechanism for access rules, distinct from safer product architecture.
 - [[SocialMediaAgeGateSpeechBurden]] - civil-liberties risk that design-focused policy tries to avoid.
-- [[PlatformDataRegulation]] - data-governance layer implicated by behavior-shaping platform systems.
-- [[EmbodiedCollectiveAwe]] - social-experience lens for judging whether technology supports or displaces shared embodied connection.
-- [[SocializingDecline]] - civic context for why digital design affects offline social life.
+- [[PlatformDataRegulation]] - governance layer for behavior-shaping data systems.
+- [[EmbodiedCollectiveAwe]] - social-experience lens for evaluating digital design.
+- [[SocializingDecline]] - civic context for technology's effect on offline social life.

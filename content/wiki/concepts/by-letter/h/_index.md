@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8065
+wiki_total_pages: 8067
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -656,6 +656,9 @@ wiki_pages:
   - key: "HousingPresaleFinancingRisk"
     title: "Housing Presale Financing Risk / 住宅预售融资风险"
     url: "/wiki/concepts/housingpresalefinancingrisk/"
+  - key: "HousingRateShockVulnerability"
+    title: "Housing Rate-Shock Vulnerability"
+    url: "/wiki/concepts/housingrateshockvulnerability/"
   - key: "HousingRestrictionBackfire"
     title: "Housing Restriction Backfire"
     url: "/wiki/concepts/housingrestrictionbackfire/"

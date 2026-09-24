@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Home disadvantage: risks in housing markets](sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e.md) — The Intelligence episode on renewed housing rate-shock vulnerability, weak early effects from Australia's under-16 social-media ban, and Fauda season five as a partial witness to Israeli trauma.
 - [总第072期：我是千禧年的孩子，我是消费主义者](sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211.md) — 读报teleread episode connecting stored objects, impossible shopping, sophistication, advertising, and millennial optimism through future-self projection and the ethics of influenced desire.
 - [How to Improve Skin Health & Appearance](sources/how-to-improve-skin-health-appearance-scim9334288497.md) — Huberman Lab solo episode on layered sun protection, barrier care, appearance interventions, lifestyle context, and distinct acne, rosacea, and psoriasis pathways.
 - [VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”](sources/vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7.md) — 这病说来话长 episode with 董心彤 on pain-driven sleep disruption, nighttime pain mechanisms, analgesic self-care boundaries, multidisciplinary sleep care, and sponsor-qualified combination-drug claims.
@@ -2797,6 +2798,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Advice Line with Danny Meyer of Shake Shack](sources/advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac.md) — Danny Meyer advises food-and-beverage founders on behavior-based culture, packaged hospitality, capacity-gated channel tests, and bottom-up food-service proof.
 
 ## Entities
+- [Fauda](entities/Fauda.md) — Israeli thriller whose fifth season is read as an emotionally immediate but deliberately partial portrait of post-October-7 trauma.
+- [Lior Raz](entities/LiorRaz.md) — Fauda co-creator and lead actor whose military background parallels the show's undercover-unit setting.
 - [Black Hand](entities/BlackHand.md) — Secret Serbian nationalist organization whose linked intermediaries supplied weapons, training, and border assistance while its exact command role remains contested.
 - [Aurel Popovici](entities/AurelPopovici.md) — Political theorist whose sixteen-state United States of Greater Austria supplied one federal model considered around Franz Ferdinand.
 - [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose neck, lower-back, pillow, manual-treatment, and support-device questions ground the VOL.123 discussion.
@@ -13501,6 +13504,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Coos](entities/BoostCoos.md) — Protein-rich couscous alternative using small restaurants and chefs to build food-service proof.
 
 ## Concepts
+- [Housing Rate-Shock Vulnerability](concepts/HousingRateShockVulnerability.md) — Model of how mortgage terms, household savings, and housing supply determine the transmission of higher rates into payments, activity, and prices.
+- [Fiction as Trauma Witness](concepts/FictionAsTraumaWitness.md) — Narrative use of drama to convey a community's immediate trauma without claiming comprehensive historical representation.
 - [Goods As Future-Self Projection / 商品的未来自我投射](concepts/GoodsAsFutureSelfProjection.md) — How possessions and prospective purchases carry memory, imagined activity, and hoped-for identities beyond practical utility.
 - [Imitative Self-Formation / 模仿式自我塑造](concepts/ImitativeSelfFormation.md) — How practicing an admired style or cultural form can become real learning while retaining status and access limits.
 - [Expansionary vs Anxiety-Based Marketing / 扩张型与焦虑型营销](concepts/ExpansionaryVsAnxietyMarketing.md) — Distinguishes invitations into new possibilities from messages that manufacture deficiency, shame, urgency, or fear before selling repair.

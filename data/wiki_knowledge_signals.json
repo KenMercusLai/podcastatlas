@@ -45207,6 +45207,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/fattylivercausedirectedmanagement/"
     },
+    "Fauda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/fauda/"
+    },
     "FawltyTowers": {
       "episode_count": 1,
       "show_count": 1,
@@ -46693,6 +46709,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/fictionashistoricalevidence/"
+    },
+    "FictionAsTraumaWitness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/fictionastraumawitness/"
     },
     "FieldDiscretionPacification": {
       "episode_count": 1,
@@ -62994,6 +63026,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/housingpresalefinancingrisk/"
+    },
+    "HousingRateShockVulnerability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/housingrateshockvulnerability/"
     },
     "HousingSupplyOverRentControl": {
       "episode_count": 1,
@@ -79401,6 +79449,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/lioneltrilling/"
+    },
+    "LiorRaz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/liorraz/"
     },
     "LiquidBiopsyScreeningBoundary": {
       "episode_count": 1,
@@ -98484,9 +98548,9 @@
       "url": "/wiki/entities/onitsukatiger/"
     },
     "OnlineAgeVerification": {
-      "episode_count": 4,
-      "show_count": 3,
-      "source_note_count": 4,
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
@@ -98515,9 +98579,16 @@
           "show": "独树不成林",
           "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
           "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        },
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/onlineageverification/"
     },
     "OnnaMusha": {
@@ -122624,9 +122695,9 @@
       "url": "/wiki/concepts/socialjetlag/"
     },
     "SocialMediaAgeBans": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260724_0724_MP_TECH_pod_128 [tech_20260724_0724_MP_TECH_pod_128].md",
@@ -122648,9 +122719,16 @@
           "show": "独树不成林",
           "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
           "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        },
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/socialmediaagebans/"
     },
     "SocialMediaAgeGateSpeechBurden": {
@@ -122758,9 +122836,9 @@
       "url": "/wiki/concepts/socialmediacostofcapital/"
     },
     "SocialMediaDesignRegulation": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "32ada8c4-0584-42b5-a062-a336275a2cb5 [32ada8c4-0584-42b5-a062-a336275a2cb5].md",
@@ -122782,9 +122860,16 @@
           "show": "Huberman Lab",
           "title": "Cultivating Awe & Emotional Connection in Daily Life | Dr. Dacher Keltner",
           "url": "/wiki/sources/cultivating-awe-emotional-connection-in-daily-life-dr-dacher-keltner-scim6985403733/"
+        },
+        {
+          "episode_file": "Home disadvantage： risks in housing markets [6ab4e209079b46c819b12f5e].md",
+          "key": "home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e",
+          "show": "Economist Podcasts",
+          "title": "Home disadvantage: risks in housing markets",
+          "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/socialmediadesignregulation/"
     },
     "SocialMediaProductLiability": {

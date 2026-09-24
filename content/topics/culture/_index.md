@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2798
+topic_total_pages: 2799
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1108,6 +1108,9 @@ topic_concepts:
   - key: "FictionAsHistoricalEvidence"
     title: "Fiction As Historical Evidence"
     url: "/wiki/concepts/fictionashistoricalevidence/"
+  - key: "FictionAsTraumaWitness"
+    title: "Fiction as Trauma Witness"
+    url: "/wiki/concepts/fictionastraumawitness/"
   - key: "FictionalEvidenceSeduction"
     title: "Fictional Evidence Seduction"
     url: "/wiki/concepts/fictionalevidenceseduction/"

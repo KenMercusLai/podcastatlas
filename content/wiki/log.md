@@ -22212,3 +22212,11 @@ Added source `zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Home disadvantage: risks in housing markets
+
+Added source `home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e`; created `Fauda`, `LiorRaz`, `HousingRateShockVulnerability`, and `FictionAsTraumaWitness`; rewrote `SocialMediaAgeBans`, `OnlineAgeVerification`, and `SocialMediaDesignRegulation` from their complete bounded source sets; and updated the index. Core synthesis: housing markets may transmit a renewed rate shock more directly as mortgage protection shortens, excess savings fade, and supply grows; Australia's early age-ban evidence shows persistent use and easy evasion, making identity-heavy enforcement and safer-product incentives central; and Fauda's fifth season is best read as a partial witness to Israeli trauma rather than a complete history of the conflict. The cited 85% continued-use result conflicts with an earlier source-scoped 20%-40% decline estimate, so effectiveness remains contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
