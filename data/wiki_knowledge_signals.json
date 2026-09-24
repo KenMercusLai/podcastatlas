@@ -13657,6 +13657,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/bayeuxtapestry/"
     },
+    "BeauBrummell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8912379704 [GLT8912379704].md",
+          "key": "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704",
+          "show": "The Rest Is History",
+          "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
+          "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/beaubrummell/"
+    },
     "BeautyAccessorization": {
       "episode_count": 1,
       "show_count": 1,
@@ -14259,6 +14275,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/berntbornich/"
+    },
+    "BespokeHeritageEconomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8912379704 [GLT8912379704].md",
+          "key": "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704",
+          "show": "The Rest Is History",
+          "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
+          "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/bespokeheritageeconomy/"
     },
     "BetterBrain": {
       "episode_count": 1,
@@ -21023,6 +21055,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/charleshenrisanson/"
+    },
+    "CharlesIIOfEngland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8912379704 [GLT8912379704].md",
+          "key": "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704",
+          "show": "The Rest Is History",
+          "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
+          "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesVIIOfFrance": {
       "episode_count": 1,
@@ -113591,6 +113639,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/restoredroyalfigureheadlegitimacy/"
     },
+    "RestrainedLuxuryStatus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8912379704 [GLT8912379704].md",
+          "key": "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704",
+          "show": "The Rest Is History",
+          "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
+          "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/restrainedluxurystatus/"
+    },
     "RetailDisplayAsBrandSurface": {
       "episode_count": 2,
       "show_count": 2,
@@ -118043,6 +118107,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/saudipublicinvestmentfund/"
+    },
+    "SavileRow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8912379704 [GLT8912379704].md",
+          "key": "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704",
+          "show": "The Rest Is History",
+          "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
+          "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/savilerow/"
     },
     "SavilleInquiry": {
       "episode_count": 1,
@@ -128401,6 +128481,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/suiyueasternhan/"
+    },
+    "SuitAsSocialCode": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8912379704 [GLT8912379704].md",
+          "key": "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704",
+          "show": "The Rest Is History",
+          "title": "459. The Suit, Savile Row, and Smartly Dressed Men",
+          "url": "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/suitassocialcode/"
     },
     "SuitorsOfPenelope": {
       "episode_count": 1,

@@ -22352,3 +22352,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 459. The Suit, Savile Row, and Smartly Dressed Men
+
+Added source `459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704`; created `CharlesIIOfEngland`, `BeauBrummell`, `SavileRow`, `SuitAsSocialCode`, `RestrainedLuxuryStatus`, and `BespokeHeritageEconomy`; and updated the index. Core synthesis: the suit operates as both a standardized uniform of seriousness and a fine-grained status language, while Savile Row survives mass production by combining individualized craft with records, provenance, place reputation, and stylistic adaptation. No settled contradiction found. The exact 1666 invention date, origin anecdotes, royal-client stories, broad gender comparisons, and causal claims about particular garment changes remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10727
+wiki_total_pages: 10730
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "BCG"
     title: "BCG"
     url: "/wiki/entities/bcg/"
+  - key: "BeauBrummell"
+    title: "Beau Brummell"
+    url: "/wiki/entities/beaubrummell/"
   - key: "BeautifulGameTheory"
     title: "Beautiful Game Theory"
     url: "/wiki/entities/beautifulgametheory/"

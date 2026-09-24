@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [459. The Suit, Savile Row, and Smartly Dressed Men](sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704.md) — Cultural history of the suit as sober status code and of Savile Row as an adaptive bespoke heritage economy.
 - [How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt](sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944.md) — Huberman Lab conversation on phone-based childhood, adolescent developmental vulnerability, youth mental-health evidence, and coordinated family and school interventions.
 - [VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食](sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3.md) — 这病说来话长 episode with 辛晓琪 and 子涵医生 on concert conditioning, home-based super-slow jogging, balanced eating, portion awareness, and anti-deprivation weight habits.
 - [460. The Empress of the Apocalypse](sources/460-the-empress-of-the-apocalypse-glt9103397168.md) — The Rest Is History episode on Theophano, Ottonian-Byzantine marriage diplomacy, sacral queenship, regency, Roman legitimacy, and Otto III's qualified apocalyptic imperial vision.
@@ -2815,6 +2816,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 
 ## Entities
+- [Charles II of England](entities/CharlesIIOfEngland.md) — Restoration king whose 1666 vest initiative joined coordinated male dress to thrift, wool, and political sobriety.
+- [Beau Brummell](entities/BeauBrummell.md) — Regency dandy who made immaculate understatement an expensive elite performance.
+- [Savile Row](entities/SavileRow.md) — London bespoke-tailoring district combining craft, records, heritage, elite clients, and stylistic reinvention.
 - [辛晓琪 / Winnie Hsin](entities/XinXiaoqi.md) — Singer linking long-concert performance capacity to year-round home exercise, super-slow jogging, core work, and moderate balanced eating.
 - [Theophano](entities/Theophano.md) — Byzantine-born empress who carried Constantinopolitan prestige westward and preserved Otto III's inheritance as regent.
 - [Otto II](entities/OttoII.md) — Ottonian emperor whose Roman ambitions in southern Italy ended in defeat and a minority succession crisis.
@@ -13555,6 +13559,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Suit As Social Code](concepts/SuitAsSocialCode.md) — The suit as both standardized uniform and fine-grained language of seriousness, belonging, and rank.
+- [Restrained Luxury Status](concepts/RestrainedLuxuryStatus.md) — Status display through sober choices whose labor, quality, and correctness are legible to informed observers.
+- [Bespoke Heritage Economy](concepts/BespokeHeritageEconomy.md) — Market that joins individualized craft to provenance, records, institutional memory, and adaptive continuity.
 - [Adolescent Digital Sensitive Period](concepts/AdolescentDigitalSensitivePeriod.md) — Qualified hypothesis that puberty heightens vulnerability to platform reinforcement, social evaluation, identity learning, and cultural models.
 - [Phone-Based Childhood Displacement](concepts/PhoneBasedChildhoodDisplacement.md) — Environmental harm model focused on digital time replacing sleep, independent play, embodied responsibility, and real-world social learning.
 - [Super-Slow Jogging / 超慢跑](concepts/SuperSlowJogging.md) — Low-intensity, conversational-effort jogging built around short steps, relatively high cadence, gradual progression, and low-friction repetition.

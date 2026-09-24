@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8100
+wiki_total_pages: 8103
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -578,6 +578,9 @@ wiki_pages:
   - key: "RestrainedEmotionInClassicalWriting"
     title: "Restrained Emotion In Classical Writing / 古典文本中的克制情感"
     url: "/wiki/concepts/restrainedemotioninclassicalwriting/"
+  - key: "RestrainedLuxuryStatus"
+    title: "Restrained Luxury Status"
+    url: "/wiki/concepts/restrainedluxurystatus/"
   - key: "RestrictedStockUnits"
     title: "Restricted Stock Units / RSU"
     url: "/wiki/concepts/restrictedstockunits/"
