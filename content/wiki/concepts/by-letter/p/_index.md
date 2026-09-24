@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8017
+wiki_total_pages: 8021
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "PlatformSubsidyScaleEconomics"
     title: "Platform Subsidy Scale Economics / 平台补贴规模经济"
     url: "/wiki/concepts/platformsubsidyscaleeconomics/"
+  - key: "PlatformAgentAccessConflict"
+    title: "Platform-Agent Access Conflict"
+    url: "/wiki/concepts/platformagentaccessconflict/"
   - key: "PlatformLevelBiotechBD"
     title: "Platform-Level Biotech BD"
     url: "/wiki/concepts/platformlevelbiotechbd/"

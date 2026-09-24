@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [月饼市场持续降温，豆包缩减对话业务团队](sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242.md) — 声动早咖啡 roundup on Alibaba's model-chip-device push, Doubao's consumer-revenue gap, personal-agent platform conflict, retail procurement, resort expansion, and weaker mooncake gifting.
 - [470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)](sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569.md) — The Rest Is History episode on Germany's blank cheque, Austria-Hungary's internal delay, preventive-war logic, and the missing Russian contingency.
 - [471. The Road to The Great War: The Austrian Ultimatum (Part 3)](sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479.md) — The Rest Is History episode on Franco-Russian firmness, Russia's Balkan and Straits anxieties, Austria-Hungary's ultimatum, and the first partial-mobilisation measures.
 - [472. The Road to The Great War: Britain's Fateful Choice (Part 4)](sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157.md) — The Rest Is History episode on Britain's ambiguous commitments, Grey's failed mediation, Crowe's intervention logic, and Serbia's qualified reply to Austria-Hungary.
@@ -2776,6 +2777,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
 
 ## Entities
+- [Eddie Wu / 吴泳铭](entities/EddieWu.md) — Alibaba CEO associated with the source-reported Qwen scaling plan and long-term model-chip-cloud investment.
+- [Qwen Tablet / 千问平板](entities/QwenTablet.md) — Source-reported Alibaba tablet experiment positioning Qwen as a system-level agent rather than a standalone app.
+- [Google Book](entities/GoogleBook.md) — Source-reported $899 Gemini-centered laptop combining Android, Chrome OS, partner hardware, and cross-device continuity.
+- [Royal Caribbean](entities/RoyalCaribbean.md) — Cruise operator reportedly expanding into land resorts through private-island investment and a planned Sandals majority stake.
+- [Sandals Resorts](entities/SandalsResorts.md) — All-inclusive resort operator named as Royal Caribbean's source-reported majority acquisition target.
 - [Alexander Hoyos](entities/AlexanderHoyos.md) — Austro-Hungarian envoy who carried Franz Joseph's appeal to Berlin and returned with Germany's blank cheque.
 - [Theobald von Bethmann Hollweg](entities/TheobaldVonBethmannHollweg.md) — German chancellor who confirmed open-ended backing for Austria-Hungary under a deterrence assumption.
 - [Leopold Berchtold](entities/LeopoldBerchtold.md) — Austro-Hungarian foreign minister who advanced the harsh ultimatum strategy against Serbia.
@@ -3017,7 +3023,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吕岱 / Lyu Dai](entities/LyuDai.md) — 通过宗族中介取得士徽六兄弟投降并处死他们、执行孙吴交州整合的将领。
 - [交州 / Jiaozhou](entities/Jiaozhou.md) — 士氏家族跨郡经营并在226年后遭孙吴行政重划与直接接管的南方州域。
 - [Town Personal AI](entities/TownPersonalAI.md) — Email- and desktop-centered personal agent that builds toward broader delegation through progressive trust.
-- [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer personal agent using distribution, social interest signals, and subsidized cloud execution.
+- [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer agent using distribution and cloud execution while facing permission and platform-access constraints.
 - [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
 - [冯小六 (vascular-surgery doctor)](entities/FengXiaoliuVascularSurgeon.md) — Source-scoped surgeon contributing a medically trained beginner's personal experience of medical-aesthetic procedures.
 - [《以美之名》 / In the Name of Beauty](entities/YiMeiZhiMingDrama.md) — Medical drama used as an educational hook for plastic-surgery and medical-aesthetic risk discussion.
@@ -3400,7 +3406,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Goose](entities/GooseAgentTool.md) — Chat-like agent interface discussed in EP38 for attaching MCP tools to local AI workflows.
 - [AnythingLLM](entities/AnythingLLM.md) — Local knowledge-base tool discussed in EP38 for document-grounded Q&A and internal support workflows.
 - [NVIDIA DGX Spark](entities/NvidiaDGXSpark.md) — Local AI hardware case in EP38, chosen for 128 GB unified memory and CUDA ecosystem fit.
-- [AMD](entities/AMD.md) — Hardware vendor in EP38's local AI comparison, tied to integrated mini AI PCs and ROCm.
+- [AMD](entities/AMD.md) — Semiconductor vendor discussed through local AI, ROCm, and source-reported renewed CPU attention from agent workloads.
 - [ROCm](entities/ROCm.md) — AMD-associated accelerator framework contrasted with CUDA and Apple Metal in EP38.
 - [Apple Metal](entities/AppleMetal.md) — Apple accelerator framework contrasted with CUDA and ROCm in EP38's local AI stack discussion.
 - [NeMoClaw](entities/NeMoClaw.md) — Security-first local-agent variation in EP38, framed around deny-by-default permissions.
@@ -7718,7 +7724,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sapna Maheshwari](entities/SapnaMaheshwari.md) — New York Times reporter grounding Marketplace Tech's AI baby-monitor discussion through reporting and parent experience.
 - [Nanit](entities/Nanit.md) — Smart baby-monitor company used to examine sleep scores, AI parenting advice, subscription economics, and child-bedroom data privacy.
 - [Hatch (baby tech)](entities/HatchBaby.md) — Baby-tech product named as part of the paid sleep-tip, sleep-plan, and parent-chatbot upgrade layer.
-- [Whoop](entities/Whoop.md) — Adult wearable comparator used to show baby sleep scores borrowing quantified-self language.
+- [Whoop](entities/Whoop.md) — Screenless wearable benchmark for quantified health, specialist tracking, and Apple's reported wristband exploration.
 - [Roy E. Disney](entities/RoyEDisney.md) — Disney family governance figure who helped force the 1984 leadership change and later backed the Save Disney campaign.
 - [Michael Eisner](entities/MichaelEisner.md) — Disney CEO who rebuilt cash flow, parks, live action, and animation before later governance and succession strain.
 - [Frank Wells](entities/FrankWells.md) — Disney operating partner whose stabilizing role mattered during the Eisner-era turnaround and whose death preceded leadership rupture.
@@ -12913,7 +12919,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Zhangmen One-on-One](entities/ZhangmenOneOnOne.md) — Zhang Yi's previous online education company and the founder-cycle context behind his later robotics approach.
 - [Yu Wenyuan](entities/YuWenyuan.md) — Aliyun Bailian technical leader explaining token growth, MaaS infrastructure, enterprise model serving, and AI coding boundaries.
 - [Aliyun Bailian](entities/AliyunBailian.md) — Alibaba Cloud MaaS platform discussed through model APIs, GPU scheduling, confidential inference, and compute-to-token conversion.
-- [Pingtouge](entities/Pingtouge.md) — Alibaba chip team referenced as part of Bailian's end-to-end model-serving infrastructure stack.
+- [Pingtouge](entities/Pingtouge.md) — Alibaba chip team evaluated through Bailian deployment, supernode validation, and a source-reported new release.
 - [Stephen Starr](entities/StephenStarr.md) — Restaurant founder who built STARR Restaurants by applying entertainment-production instincts to dining experiences.
 - [STARR Restaurants](entities/STARRRestaurants.md) — Hospitality group built around concept-driven restaurants, theatrical guest experience, and high-fragility restaurant operations.
 - [The Continental](entities/TheContinental.md) — Stephen Starr's breakthrough Philadelphia martini-bar restaurant, showing site timing, nightlife energy, and customer pull.
@@ -13450,6 +13456,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 
 ## Concepts
+- [Consumer AI Revenue Gap](concepts/ConsumerAIRevenueGap.md) — Mismatch between consumer-assistant usage scale and direct revenue after serving and product costs.
+- [Platform-Agent Access Conflict](concepts/PlatformAgentAccessConflict.md) — Conflict between user-authorized outside agents and platforms protecting safety, traffic, transactions, and their own agents.
+- [Seasonal Gift Demand Reset](concepts/SeasonalGiftDemandReset.md) — Sustained ritual-category pressure when institutional gifting weakens and traditional products no longer fit consumer preferences.
+- [Cruise-to-Resort Integration](concepts/CruiseToResortIntegration.md) — Travel strategy extending control from ships and ports into land lodging, attractions, and guest spending.
 - [Blank-Cheque Alliance Escalation](concepts/BlankChequeAllianceEscalation.md) — Pattern in which open-ended deterrent backing increases an ally's risk tolerance and escalation discretion.
 - [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which alliance firmness, strategic anxiety, ultimatum diplomacy, mobilisation, and political choice opened general European war.
 - [British Foreign-Policy Ambiguity in 1914](concepts/BritishForeignPolicyAmbiguity1914.md) — Gap between formal non-obligation and private, naval, imperial, and strategic expectations shaping Britain's choice.
@@ -15322,7 +15332,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Food Pleasure Engineering / 食品愉悦工程](concepts/FoodPleasureEngineering.md) — Product and food-environment frame for sugar, fat, aroma, texture, processing, convenience, and palatability making repeated intake easier.
 - [Added and Free Sugar Distinction / 添加糖与游离糖区分](concepts/AddedFreeSugarDistinction.md) — Public nutrition distinction covering added sugars plus free sugars in honey, syrup, juice, and concentrated juice.
 - [Liquid Sugar Risk / 液体糖风险](concepts/LiquidSugarRisk.md) — Beverage-format risk where juice, sweet drinks, milk tea, flavored coffee, and sweetened dairy can deliver sugar quickly and repeatedly.
-- [Low-GI Marketing Trap / 低GI营销陷阱](concepts/LowGIMarketingTrap.md) — Warning that glycemic-index claims can hide total sugar load, fructose metabolism, serving size, and certification context.
+- [Low-GI Marketing Trap / 低GI营销陷阱](concepts/LowGIMarketingTrap.md) — Warning that low-GI claims can hide total sugar, fat, fructose, serving size, and whole-product composition.
 - [Nutrition Label Sugar Traps / 营养标签糖陷阱](concepts/NutritionLabelSugarTraps.md) — Consumer label-literacy frame for zero-sucrose, natural, sour-drink, hidden-sugar, carbohydrate-panel, functional-food, and threshold claims.
 - [Functional Food Regulatory Identity / 功能食品监管身份](concepts/FunctionalFoodRegulatoryIdentity.md) — Consumer-literacy frame for identifying whether a product is a drug, special medical food, special dietary food, blue-hat health food, ordinary food, or market-defined functional food before trusting its promised function.
 - [Targeted Supplement Need Assessment / 针对性补剂需求判断](concepts/TargetedSupplementNeedAssessment.md) — Decision frame for judging supplements by real nutritional gap, disease or life-stage context, diet, exercise load, medication interactions, and professional guidance.

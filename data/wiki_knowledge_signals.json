@@ -4017,9 +4017,9 @@
       "url": "/wiki/entities/aiweirdnessblog/"
     },
     "AMD": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
@@ -4027,9 +4027,16 @@
           "show": "Data Science With Sam",
           "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
           "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        },
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/amd/"
     },
     "AShareAuctionPricing": {
@@ -26755,6 +26762,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/consumeraihardwareproductfit/"
     },
+    "ConsumerAIRevenueGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/consumerairevenuegap/"
+    },
     "ConsumerAIShoppingAgentBenchmark": {
       "episode_count": 1,
       "show_count": 1,
@@ -28751,6 +28774,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/crueltyfootagevisibilitydilemma/"
+    },
+    "CruiseToResortIntegration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cruisetoresortintegration/"
     },
     "CryptoPaymentPracticalityGap": {
       "episode_count": 2,
@@ -37340,6 +37379,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/eddiechang/"
+    },
+    "EddieWu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/eddiewu/"
     },
     "EdgarAtheling": {
       "episode_count": 1,
@@ -54048,6 +54103,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/googleaioverviews/"
+    },
+    "GoogleBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/googlebook/"
     },
     "GoogleDeepMind": {
       "episode_count": 15,
@@ -83113,9 +83184,9 @@
       "url": "/wiki/entities/lowcountries/"
     },
     "LowGIMarketingTrap": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -83123,9 +83194,16 @@
           "show": "这病说来话长",
           "title": "VOL.215 低GI蜂蜜、零蔗糖、抗糖丸…？这届控糖人到底踩了多少坑？ft.「大食话」",
           "url": "/wiki/sources/vol-215-di-gi-fengmi-ling-zhetang-kangtangwan-zhejie-kongtangren-daodi-caile-duoshao-keng-ft-dashihua-ltb5lyaycaxoijiktbo4pxne2a5z/"
+        },
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/lowgimarketingtrap/"
     },
     "Lowes": {
@@ -92470,9 +92548,9 @@
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
     },
     "MusePersonalAgent": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
@@ -92487,9 +92565,16 @@
           "show": "声动早咖啡",
           "title": "参半｜阿那亚变身热门景点，一度销售难的地产项目如何摆脱困境？",
           "url": "/wiki/sources/canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362/"
+        },
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/musepersonalagent/"
     },
     "MuseumInterpretationLegibility": {
@@ -101880,6 +101965,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/pingdangwesternhan/"
     },
+    "Pingtouge": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人 [ltn5K9jd9E04I5MFDkDo_yCoslSm].md",
+          "key": "1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm",
+          "show": "十字路口Crossing",
+          "title": "「1 亿 Token 俱乐部」挤爆了，AI 的燃料不够了：对谈于文渊",
+          "url": "/wiki/sources/1-yi-token-julebu-jibaole-ai-de-ranliao-bugoule-duitan-yu-wenyuan-aliyun-bailian-jishu-fuzeren-ltn5k9jd9e04i5mfdkdo-ycoslsm/"
+        },
+        {
+          "episode_file": "国产 AI 算力能凭「超节点」弯道超车吗？ ｜ WAIC 深度观察 S10E23 [a6c6ab3e-72b2-470b-aefd-04b19679d37f].md",
+          "key": "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+          "show": "What's Next｜科技早知道",
+          "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+          "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+        },
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/pingtouge/"
+    },
     "PingyangDefenseLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -102037,6 +102152,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/platformageestimation/"
+    },
+    "PlatformAgentAccessConflict": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/platformagentaccessconflict/"
     },
     "PlatformAntitrust": {
       "episode_count": 6,
@@ -108148,6 +108279,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/qwenoffice/"
     },
+    "QwenTablet": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/qwentablet/"
+    },
     "REMEmotionalMemorySeparation": {
       "episode_count": 1,
       "show_count": 1,
@@ -113407,6 +113554,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/roundup/"
     },
+    "RoyalCaribbean": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/royalcaribbean/"
+    },
     "RoyalExecutionLegitimacy": {
       "episode_count": 2,
       "show_count": 1,
@@ -114749,6 +114912,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/sanwuhuan/"
     },
+    "SandalsResorts": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/sandalsresorts/"
+    },
     "SangHongyangWesternHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -115784,6 +115963,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/seasonalfootwearsceneexpansion/"
+    },
+    "SeasonalGiftDemandReset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/seasonalgiftdemandreset/"
     },
     "SeasonalRitualConsumptionRestraint": {
       "episode_count": 1,
@@ -139808,6 +140003,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/wholesaleretaileramplification/"
+    },
+    "Whoop": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
+          "key": "tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI subscriptions are rapidly taking over baby nurseries",
+          "url": "/wiki/sources/tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？ [1006272684].md",
+          "key": "kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684",
+          "show": "声动早咖啡",
+          "title": "咖啡豆｜两次遭遇苹果冲击，运动手表佳明为何还能增长？",
+          "url": "/wiki/sources/kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684/"
+        },
+        {
+          "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
+          "key": "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242",
+          "show": "声动早咖啡",
+          "title": "月饼市场持续降温，豆包缩减对话业务团队",
+          "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/whoop/"
     },
     "WidgeryInquiry": {
       "episode_count": 1,

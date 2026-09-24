@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8017
+wiki_total_pages: 8021
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1631,6 +1631,9 @@ wiki_pages:
   - key: "ConsumerAIHardwareProductFit"
     title: "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配"
     url: "/wiki/concepts/consumeraihardwareproductfit/"
+  - key: "ConsumerAIRevenueGap"
+    title: "Consumer AI Revenue Gap"
+    url: "/wiki/concepts/consumerairevenuegap/"
   - key: "ConsumerAIShoppingAgentBenchmark"
     title: "Consumer AI Shopping Agent Benchmark"
     url: "/wiki/concepts/consumeraishoppingagentbenchmark/"
@@ -2192,6 +2195,9 @@ wiki_pages:
   - key: "CrueltyUsedWell"
     title: "Cruelty Used Well"
     url: "/wiki/concepts/crueltyusedwell/"
+  - key: "CruiseToResortIntegration"
+    title: "Cruise-to-Resort Integration"
+    url: "/wiki/concepts/cruisetoresortintegration/"
   - key: "CryptidThemeLegibility"
     title: "Cryptid Theme Legibility"
     url: "/wiki/concepts/cryptidthemelegibility/"

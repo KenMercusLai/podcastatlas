@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10663
+wiki_total_pages: 10668
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "GoogleAppsScript"
     title: "Google Apps Script"
     url: "/wiki/entities/googleappsscript/"
+  - key: "GoogleBook"
+    title: "Google Book"
+    url: "/wiki/entities/googlebook/"
   - key: "GoogleBrain"
     title: "Google Brain"
     url: "/wiki/entities/googlebrain/"

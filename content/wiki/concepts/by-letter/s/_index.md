@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8017
+wiki_total_pages: 8021
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "SeasonalFootwearSceneExpansion"
     title: "Seasonal Footwear Scene Expansion / 季节性鞋履场景扩展"
     url: "/wiki/concepts/seasonalfootwearsceneexpansion/"
+  - key: "SeasonalGiftDemandReset"
+    title: "Seasonal Gift Demand Reset"
+    url: "/wiki/concepts/seasonalgiftdemandreset/"
   - key: "SeasonalInventoryFinancing"
     title: "Seasonal Inventory Financing"
     url: "/wiki/concepts/seasonalinventoryfinancing/"

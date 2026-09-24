@@ -21957,6 +21957,10 @@ Added source `tech-20260923-0923-mp-tech-pod-128-tech-20260923-0923-mp-tech-pod-
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-24] ingest | 月饼市场持续降温，豆包缩减对话业务团队
+
+Added source `yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242`; created `EddieWu`, `QwenTablet`, `GoogleBook`, `RoyalCaribbean`, `SandalsResorts`, `ConsumerAIRevenueGap`, `PlatformAgentAccessConflict`, `SeasonalGiftDemandReset`, and `CruiseToResortIntegration`; updated `MusePersonalAgent`, `AMD`, `Pingtouge`, `Whoop`, `LowGIMarketingTrap`, and the index. Core synthesis: consumer AI scale does not guarantee direct revenue, cross-platform agents create both permission and platform-control conflicts, AI device value depends on system integration and software compatibility, and the mooncake decline joins weaker institutional gifting to changing health preferences without making low-sugar or low-GI labels sufficient evidence of healthfulness. No settled contradiction found; team size, usage, revenue, rankings, market capitalization, transactions, product plans, spellings, and market measurements remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | 476. The French Revolution: The Diamond Necklace Scandal (Part 2)
 
 Added source `476-the-french-revolution-the-diamond-necklace-scandal-part-2-glt9914208350`; created `JeanneDeLaMotte`, `CardinalDeRohan`, `DiamondNecklaceAffair`, and `ScandalPlausibilityLegitimacyDamage`; updated `MarieAntoinette`, `LouisXVI`, `FrenchRevolution`, and the index. Core synthesis: Jeanne de la Motte's fraud worked because Rohan and the jewelers wanted secret royal approval to be true, while open proceedings, acquittals, legal memoirs, sexual slander, and anti-Austrian hostility made Marie Antoinette's innocence politically insufficient to restore trust. No settled contradiction found: later documented royal duplicity does not retroactively validate the necklace fraud, and the scandal remains an accelerant within a larger fiscal, subsistence, court, and institutional crisis. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -21981,9 +21985,9 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
-## [2026-09-24] lint | Wiki health check
+## [2026-09-24] lint | Wiki health and content checks
 
-Ran lint. See lint-report.md for details.
+Health and identity checks passed. Deterministic lint found one orphan page, two broken wikilinks, no missing entity pages, and no sparse pages. Graph-aware lint against the stale 2026-09-02 graph snapshot found no hub stubs, one fragile bridge, and no isolated communities. Semantic lint API failed because `LLM_MODEL` is not provider-qualified; a bounded in-session review of the script's 20-page sample found no direct contradictions, while identifying thin/source-limited concept coverage as a data-gap risk. No lint report file was saved.
 
 ## [2026-09-24] lint | Wiki health check
 
@@ -22048,6 +22052,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | 471. The Road to The Great War: The Austrian Ultimatum (Part 3)
 
 Added source `471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479`; created `RaymondPoincare`, `SergeiSazonov`, `MauricePaleologue`, and `Serbia`; updated `NicholasII`, `JulyCrisis`, `MobilisationDiplomacyEscalationTrap`, and the index. Core synthesis: Russian policy joined Serbia and prestige to the Straits, Black Sea exports, Ottoman naval anxiety, and memories of earlier retreat, while Poincaré and Paléologue reinforced a French-backed policy of firmness; Austria-Hungary and Russia both expected resolve to force the other side to yield, and Russia's initial partial-mobilisation measures began converting defensive intent into wider threat perception. No settled contradiction found. Austria-Hungary's ultimatum combined grounded security concerns with sovereignty-threatening demands, and the strategic reading of Russian motives does not make escalation automatic. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

@@ -15435,6 +15435,10 @@
     "title": "Consumer AI Hardware Product Fit / 消费级AI硬件产品适配",
     "url": "/wiki/concepts/consumeraihardwareproductfit/"
   },
+  "ConsumerAIRevenueGap": {
+    "title": "Consumer AI Revenue Gap",
+    "url": "/wiki/concepts/consumerairevenuegap/"
+  },
   "ConsumerAIShoppingAgentBenchmark": {
     "title": "Consumer AI Shopping Agent Benchmark",
     "url": "/wiki/concepts/consumeraishoppingagentbenchmark/"
@@ -16482,6 +16486,10 @@
   "Cruise": {
     "title": "Cruise",
     "url": "/wiki/entities/cruise/"
+  },
+  "CruiseToResortIntegration": {
+    "title": "Cruise-to-Resort Integration",
+    "url": "/wiki/concepts/cruisetoresortintegration/"
   },
   "Crusoe": {
     "title": "Crusoe",
@@ -20622,6 +20630,10 @@
   "EddieKim": {
     "title": "Eddie Kim / Edward Kim",
     "url": "/wiki/entities/eddiekim/"
+  },
+  "EddieWu": {
+    "title": "Eddie Wu / 吴泳铭",
+    "url": "/wiki/entities/eddiewu/"
   },
   "EddyLu": {
     "title": "Eddy Lu",
@@ -27662,6 +27674,10 @@
   "GoogleAppsScript": {
     "title": "Google Apps Script",
     "url": "/wiki/entities/googleappsscript/"
+  },
+  "GoogleBook": {
+    "title": "Google Book",
+    "url": "/wiki/entities/googlebook/"
   },
   "GoogleBrain": {
     "title": "Google Brain",
@@ -50939,6 +50955,10 @@
     "title": "Platform Age Estimation",
     "url": "/wiki/concepts/platformageestimation/"
   },
+  "PlatformAgentAccessConflict": {
+    "title": "Platform-Agent Access Conflict",
+    "url": "/wiki/concepts/platformagentaccessconflict/"
+  },
   "PlatformAntitrust": {
     "title": "Platform Antitrust",
     "url": "/wiki/concepts/platformantitrust/"
@@ -54207,6 +54227,10 @@
     "title": "千问眼镜 / Qwen Smart Glasses",
     "url": "/wiki/entities/qwensmartglasses/"
   },
+  "QwenTablet": {
+    "title": "Qwen Tablet / 千问平板",
+    "url": "/wiki/entities/qwentablet/"
+  },
   "RAND": {
     "title": "RAND",
     "url": "/wiki/entities/rand/"
@@ -56791,6 +56815,10 @@
     "title": "Roy Seiders",
     "url": "/wiki/entities/royseiders/"
   },
+  "RoyalCaribbean": {
+    "title": "Royal Caribbean",
+    "url": "/wiki/entities/royalcaribbean/"
+  },
   "RoyalExecutionLegitimacy": {
     "title": "Royal Execution Legitimacy",
     "url": "/wiki/concepts/royalexecutionlegitimacy/"
@@ -57547,6 +57575,10 @@
     "title": "Sand Theft Externality",
     "url": "/wiki/concepts/sandtheftexternality/"
   },
+  "SandalsResorts": {
+    "title": "Sandals Resorts",
+    "url": "/wiki/entities/sandalsresorts/"
+  },
   "SandorStraus": {
     "title": "Sandor Straus",
     "url": "/wiki/entities/sandorstraus/"
@@ -58102,6 +58134,10 @@
   "SeasonalFootwearSceneExpansion": {
     "title": "Seasonal Footwear Scene Expansion / 季节性鞋履场景扩展",
     "url": "/wiki/concepts/seasonalfootwearsceneexpansion/"
+  },
+  "SeasonalGiftDemandReset": {
+    "title": "Seasonal Gift Demand Reset",
+    "url": "/wiki/concepts/seasonalgiftdemandreset/"
   },
   "SeasonalInventoryFinancing": {
     "title": "Seasonal Inventory Financing",
@@ -81274,6 +81310,10 @@
   "yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631": {
     "title": "越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？",
     "url": "/wiki/sources/yue-mai-yue-gui-de-shanxia-yousong-men-ruhe-chixu-qiangzhan-qingshe-baodai-shichang-1008110631/"
+  },
+  "yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242": {
+    "title": "月饼市场持续降温，豆包缩减对话业务团队",
+    "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
   },
   "yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr": {
     "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",

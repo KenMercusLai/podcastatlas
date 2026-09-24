@@ -2,20 +2,49 @@
 title: "Whoop"
 type: entity
 tags: [wearables, health, sleep, fitness]
-sources: [tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128, kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]
-last_updated: 2026-08-16
+sources:
+  - tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128
+  - kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684
+  - yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242
+last_updated: 2026-09-24
+knowledge_schema: synthesis-v1
 ---
 
 # Whoop
 
-Whoop appears in [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] as an adult wearable comparator for baby sleep scores. The episode uses [[OuraRing|Oura Ring]] and Whoop to show that [[Nanit]] and related nursery products are borrowing the quantified-self language already familiar in adult health and sleep tracking.
+## Overview
+Whoop is a screenless health and fitness wearable used by the sources as a reference point for quantified sleep, specialist tracking, and Apple's reported exploration of a wristband without a display.
 
-Within this source, Whoop matters less as a standalone company than as a reference point for [[QuantifiedParenting]]. When baby products frame sleep through scores, dashboards, and social comparison, they import adult wearable behavior into a parent-child setting where the monitored person cannot meaningfully consent or interpret the data.
+## Current Profile
+The nursery-technology source uses Whoop and [[OuraRing|Oura Ring]] as adult precedents for sleep scores that are migrating into baby monitoring. The Garmin source uses a possibly misspelled "HOOP" reference to describe pressure from specialist screenless bands and smart rings. The newest roundup explicitly compares an early-stage [[Apple]] wristband project with "WOOP" and describes the comparator as analyzing monitored data and giving advice.
 
-[[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] adds the screenless-fitness-band competition branch. The source spells the category example as "HOOP" while describing a brand whose user count doubled; this wiki treats that spelling cautiously and uses Whoop as the existing page for the adjacent screenless wearable category. The important source claim is that [[Garmin]]'s own screenless band faces pressure from specialist health-tracking devices as well as smart rings.
+Taken together, the sources make Whoop less a full company profile than a category benchmark: its relevance comes from screenless continuous sensing, interpretation, and advice rather than a traditional watch display. The spelling uncertainty and reported valuation remain source-scoped.
 
-## Connections
-- [[OuraRing|Oura Ring]] and [[AppleWatch|Apple Watch]] - adjacent wearable comparison points in the source and wiki.
-- [[PersonalHealthData]] and [[WearableAIAssistant]] - broader wearable-data context.
-- [[QuantifiedParenting]], [[SleepAsDailyHealthAccount]], and [[SleepAnxietyLoop]] - sleep-score interpretation branch.
-- [[Garmin]], [[WearableFormFactorPressure]], and [[ProfessionalWearableMoat]] - screenless-band pressure added by the 声动早咖啡 Garmin source.
+## Key Characteristics
+- Screenless wearable reference for health, fitness, recovery, and sleep tracking.
+- Provides an adult quantified-self model later borrowed by baby-monitor products.
+- Competes through specialist analysis rather than a general-purpose smartwatch display.
+- Used as the comparator for Apple's reported early-stage screenless wristband.
+- Reported by the newest source to be valued around $10 billion and considering a listing.
+
+## Evidence
+- Quantified-self reference: [[tech-20260811-0811-mp-tech-pod-128-tech-20260811-0811-mp-tech-pod-128]] names Whoop alongside Oura Ring when explaining the sleep-score language entering nursery products.
+- Specialist wearable pressure: [[kafeidou-liangci-zaoyu-pingguo-chongji-yundong-shoubiao-jiaming-weihe-hai-neng-zengzhang-1006272684]] describes a "HOOP"-spelled screenless band as part of the pressure on [[Garmin]], linked cautiously here because the category context matches Whoop.
+- Apple comparator: [[yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242]] describes Apple's early-stage screenless wristband as similar to a "WOOP"-spelled device that turns tracking into analysis and advice.
+
+## Qualifications
+Two sources use spellings that differ from Whoop, so this page treats those connections as cautious category matches rather than proven identity evidence. User growth, valuation, listing plans, product features, and Apple's comparison remain source-reported. None of the sources evaluates measurement accuracy or health outcomes.
+
+## What Changed
+- Migrated the page to synthesis-v1 using the complete three-source inventory.
+- Added Apple's reported screenless-wristband comparison and valuation/listing claims.
+- Made the spelling uncertainty explicit rather than silently merging "HOOP" and "WOOP."
+
+## Relationships
+- [[OuraRing]] - adjacent screenless quantified-health comparator.
+- [[AppleWatch]] - established smartwatch that may overlap with screenless health analysis.
+- [[Apple]] - company reportedly exploring a screenless wristband.
+- [[PersonalHealthData]] - data category generated and interpreted by the device.
+- [[WearableAIAssistant]] - broader move from measurement toward ongoing advice.
+- [[QuantifiedParenting]] - child-monitoring branch that borrows adult wearable metrics.
+- [[ProfessionalWearableMoat]] - specialist tracking advantage relative to general-purpose devices.

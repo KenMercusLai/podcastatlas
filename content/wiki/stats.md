@@ -11,27 +11,29 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8017
-- Entities: 10663
-- Sources: 2756
-- Total wiki content pages: 21437
+- Concepts: 8021
+- Entities: 10668
+- Sources: 2757
+- Total wiki content pages: 21447
 
 ## Links
-- Wiki link references: 548212
-- Unique wiki link targets: 21437
-- Missing targets: 2
+- Wiki link references: 548340
+- Unique wiki link targets: 21448
+- Missing targets: 3
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2756
-- Matched episodes: 2756
+- Source pages: 2757
+- Matched episodes: 2757
 - Missing source_file: 0
 - Unmatched source_file: 0
 
 ## Missing Targets
 
+- `[[ASUS]]`
+  - `content/wiki/entities/GoogleBook.md`
 - `[[ClinicalValidationThresholds]]`
   - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
   - `content/wiki/log.md`

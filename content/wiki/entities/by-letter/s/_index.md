@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10663
+wiki_total_pages: 10668
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "SanJuanDeUlua"
     title: "San Juan de Ulua"
     url: "/wiki/entities/sanjuandeulua/"
+  - key: "SandalsResorts"
+    title: "Sandals Resorts"
+    url: "/wiki/entities/sandalsresorts/"
   - key: "SanDisk"
     title: "SanDisk"
     url: "/wiki/entities/sandisk/"

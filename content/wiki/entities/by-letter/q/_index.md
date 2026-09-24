@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 10663
+wiki_total_pages: 10668
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -119,6 +119,9 @@ wiki_pages:
   - key: "QwenOffice"
     title: "Qwen Office / 千问办公"
     url: "/wiki/entities/qwenoffice/"
+  - key: "QwenTablet"
+    title: "Qwen Tablet / 千问平板"
+    url: "/wiki/entities/qwentablet/"
   - key: "QixiBook"
     title: "《七夕》 / Qixi"
     url: "/wiki/entities/qixibook/"
