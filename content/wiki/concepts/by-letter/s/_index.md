@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8115
+wiki_total_pages: 8117
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "SecurityBacklashPolitics"
     title: "Security Backlash Politics"
     url: "/wiki/concepts/securitybacklashpolitics/"
+  - key: "SecurityCrisisAmplification"
+    title: "Security Crisis Amplification"
+    url: "/wiki/concepts/securitycrisisamplification/"
   - key: "SecurityDataAccessConstraint"
     title: "Security Data Access Constraint"
     url: "/wiki/concepts/securitydataaccessconstraint/"

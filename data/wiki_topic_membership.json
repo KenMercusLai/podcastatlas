@@ -1703,6 +1703,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277": [
     {
       "key": "history",
@@ -63788,6 +63795,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SecurityCrisisAmplification": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SecurityDataAccessConstraint": [

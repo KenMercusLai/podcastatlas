@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1991
+topic_total_pages: 1992
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4599,6 +4599,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118"
+    title: "455. Fall of the Sioux: The Ghost Dance (Part 2)"
+    url: "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
   - key: "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277"
     title: "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)"
     url: "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"

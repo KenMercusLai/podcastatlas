@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2697
+topic_total_pages: 2698
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3214,6 +3214,9 @@ topic_concepts:
   - key: "SecurityBacklashPolitics"
     title: "Security Backlash Politics"
     url: "/wiki/concepts/securitybacklashpolitics/"
+  - key: "SecurityCrisisAmplification"
+    title: "Security Crisis Amplification"
+    url: "/wiki/concepts/securitycrisisamplification/"
   - key: "SecurityFirstSupplyChainLogic"
     title: "Security-First Supply Chain Logic / 安全优先供应链逻辑"
     url: "/wiki/concepts/securityfirstsupplychainlogic/"

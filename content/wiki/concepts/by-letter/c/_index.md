@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8115
+wiki_total_pages: 8117
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "CoerciveCapitalRelocation"
     title: "Coercive Capital Relocation / 强制迁都"
     url: "/wiki/concepts/coercivecapitalrelocation/"
+  - key: "CoerciveReservationAssimilation"
+    title: "Coercive Reservation Assimilation"
+    url: "/wiki/concepts/coercivereservationassimilation/"
   - key: "CoerciveWesternization"
     title: "Coercive Westernization"
     url: "/wiki/concepts/coercivewesternization/"

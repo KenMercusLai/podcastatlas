@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10747
+wiki_total_pages: 10749
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "WoundedKneeMassacre"
     title: "Wounded Knee Massacre"
     url: "/wiki/entities/woundedkneemassacre/"
+  - key: "Wovoka"
+    title: "Wovoka"
+    url: "/wiki/entities/wovoka/"
   - key: "WrightBrothers"
     title: "Wright Brothers / 莱特兄弟"
     url: "/wiki/entities/wrightbrothers/"

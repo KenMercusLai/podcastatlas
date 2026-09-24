@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [455. Fall of the Sioux: The Ghost Dance (Part 2)](sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118.md) — The Rest Is History episode on reservation assimilation, Wovoka's Ghost Dance teaching, Sitting Bull's humiliation, and the amplification of religious renewal into a military crisis.
 - [VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题](sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9.md) — 这病说来话长 multidisciplinary Children's Day roundtable on children's vision, mental health, injury and fever response, ICU and imaging communication, oral development, sex education, and volunteer facial-difference care.
 - [456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)](sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277.md) — The Rest Is History episode on Sitting Bull's death, the Ghost Dance crisis, Wounded Knee, and the commercialization and reframing of Lakota defeat.
 - [How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver](sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220.md) — Huberman Lab interview on perimenopause symptoms, hormone-therapy timing and route, genitourinary care, resistance training, nutrition, and women's-health research gaps.
@@ -2823,6 +2824,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [457. Helen of Troy: Queen of the Greek Myths (Part 1)](sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674.md) — The Rest Is History episode on Helen's variant myths, dangerous beauty, agency, cult, and competing explanations of the Trojan War.
 
 ## Entities
+- [Wovoka](entities/Wovoka.md) — Paiute religious teacher whose peaceful renewal message became the basis of the Ghost Dance movement.
+- [James McLaughlin](entities/JamesMcLaughlin.md) — Standing Rock agent who joined paternal reform, coercive assimilation, and personal conflict with Sitting Bull.
 - [Smile Action / 微笑行动](entities/SmileAction.md) — Source-scoped volunteer medical program linking free cleft and facial-difference surgery with multidisciplinary follow-up, access burden, and psychosocial function.
 - [Sitting Bull](entities/SittingBull.md) — Lakota leader whose death joined reservation coercion, divided authority, and a commercialized symbolic afterlife.
 - [Lakota People](entities/LakotaPeople.md) — Native people presented through the 1890 reservation crisis, internal diversity, survival, and contested representation.
@@ -13584,6 +13587,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paris of Troy](entities/ParisOfTroy.md) — Trojan prince linking Aphrodite's promise, Helen's contested agency, violated hospitality, and wartime escalation.
 
 ## Concepts
+- [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of material dependency, schools, religion, policing, and land policy to replace Indigenous social and political orders.
+- [Security Crisis Amplification](concepts/SecurityCrisisAmplification.md) — Feedback loop through which local fear, media, politics, and institutional incentives magnify ambiguous activity into an emergency.
 - [Child Mental Health and Family-Systems Support / 儿童心理健康与家庭系统支持](concepts/ChildMentalHealthFamilySystemsSupport.md) — Child-distress framework joining multidomain signals, urgent safety, family context, play, care continuity, and caregiver support without automatic parental blame.
 - [Pediatric Fever Home-Care Triage / 儿童发热家庭分诊](concepts/PediatricFeverHomeCareTriage.md) — Caregiver framework reading fever through overall condition, hydration, weight-aware medication, duration, associated symptoms, and escalation signs rather than temperature alone.
 - [Frontier Violence Spectacle](concepts/FrontierViolenceSpectacle.md) — Conversion of conquest, defeated people, sacred practices, and violent sites into entertainment, display, and tourism.

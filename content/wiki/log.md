@@ -22408,3 +22408,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 455. Fall of the Sioux: The Ghost Dance (Part 2)
+
+Added the episode's account of Sitting Bull's return to a reservation order shaped by bison destruction, ration dependency, coercive assimilation, and public spectacle; Wovoka's peaceful renewal teaching and its uncertain Lakota adaptations; and the feedback among local fear, press sensationalism, electoral politics, and military incentives. Created synthesis-first pages for Wovoka, James McLaughlin, coercive reservation assimilation, and security crisis amplification; updated Sitting Bull, the Lakota people, the Ghost Dance, and frontier violence spectacle from their complete bounded source sets. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. No settled contradiction found; doctrine transmission, individual motives, numerical claims, and threat assessments remain source-scoped.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

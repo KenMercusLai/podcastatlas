@@ -1103,6 +1103,10 @@
     "title": "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！",
     "url": "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"
   },
+  "455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118": {
+    "title": "455. Fall of the Sioux: The Ghost Dance (Part 2)",
+    "url": "/wiki/sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118/"
+  },
   "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277": {
     "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
     "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
@@ -14754,6 +14758,10 @@
   "CoerciveImplicationCascade": {
     "title": "刑讯攀引扩大 / Coercive Implication Cascade",
     "url": "/wiki/concepts/coerciveimplicationcascade/"
+  },
+  "CoerciveReservationAssimilation": {
+    "title": "Coercive Reservation Assimilation",
+    "url": "/wiki/concepts/coercivereservationassimilation/"
   },
   "CoerciveWesternization": {
     "title": "Coercive Westernization",
@@ -34558,6 +34566,10 @@
   "JamesMarriott": {
     "title": "James Marriott",
     "url": "/wiki/entities/jamesmarriott/"
+  },
+  "JamesMcLaughlin": {
+    "title": "James McLaughlin",
+    "url": "/wiki/entities/jamesmclaughlin/"
   },
   "JamesMeade": {
     "title": "James Meade",
@@ -58903,6 +58915,10 @@
     "title": "Security Backlash Politics",
     "url": "/wiki/concepts/securitybacklashpolitics/"
   },
+  "SecurityCrisisAmplification": {
+    "title": "Security Crisis Amplification",
+    "url": "/wiki/concepts/securitycrisisamplification/"
+  },
   "SecurityDataAccessConstraint": {
     "title": "Security Data Access Constraint",
     "url": "/wiki/concepts/securitydataaccessconstraint/"
@@ -71682,6 +71698,10 @@
   "WoundedKneeMassacre": {
     "title": "Wounded Knee Massacre",
     "url": "/wiki/entities/woundedkneemassacre/"
+  },
+  "Wovoka": {
+    "title": "Wovoka",
+    "url": "/wiki/entities/wovoka/"
   },
   "WrightBrothers": {
     "title": "Wright Brothers / 莱特兄弟",
