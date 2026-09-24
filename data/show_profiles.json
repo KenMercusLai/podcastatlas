@@ -3451,7 +3451,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 67,
+      "source_note_count": 68,
       "topic_matched_source_note_count": 6,
       "topics": [
         {
@@ -3479,7 +3479,7 @@
           "title": "阿汤 / A Tang",
           "url": "/wiki/entities/atang/",
           "kind": "person",
-          "episode_count": 19
+          "episode_count": 20
         },
         {
           "key": "ZihanDoctor",

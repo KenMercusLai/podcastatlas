@@ -22,17 +22,20 @@ sources:
   - vol-162-gaoxueya-ri-haohaode-shanggeban-wo-zenme-jiu-gaoxueya-le-ne-ft-dalunding-xiaolei-liowkhcjc8q3ogxagqsfib14oydy
   - vol-157-zui-touteng-de-wenti-jiushi-touteng-ft-dawu-shiye-banmajiang-lrkqhlcwhxomw_aegpd_rzco8vio
   - vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb
-last_updated: 2026-09-22
+  - vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
 # 阿汤 / A Tang
 
 ## Overview
-阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, liver and fatty-liver health, migraine recognition and treatment, lifestyle health, hypertension management, tobacco and vaping risk, smoking cessation, pediatric myopia control, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, and psychological boundaries.
+阿汤 is a host voice in ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes on medical uncertainty, liver and fatty-liver health, migraine recognition and treatment, lifestyle health, hypertension management, tobacco and vaping risk, smoking cessation, pediatric myopia control, GLP-1 medicines, CGM, supplements, functional-food claims, headphone and hearing safety, speech-language rehabilitation, internet medical vocabulary, insect-bite prevention, exercise safety, exercise aesthetics, cardiovascular boundaries, first-aid triage, CPR/AED preparedness, music therapy, workplace bullying, psychological boundaries, and the relationship between laughter, chronic-disease risk, and everyday emotional relief.
 
 ## Current Profile
 Across the current source set, 阿汤's role is to turn expert knowledge into concrete listener-facing questions. In clinical and health-literacy episodes, he asks how ordinary patients should understand uncertain first visits, imaging reports, second opinions, surgery thresholds, speech-language development, adult aphasia, dysarthria, weight-loss interventions, sugar claims, supplement claims, functional-food categories, headphone habits, tinnitus, sudden hearing symptoms, online neuroscience labels, mosquito repellent claims, insect-bite aftercare, exercise injury prevention, exercise-as-medical-aesthetics claims, first-aid decisions, and clinical music therapy without converting public discussion into self-treatment.
+
+VOL.116 adds a health-and-comedy crossover branch. 阿汤 uses his Tianjin and crosstalk experience to balance [[LaughterTriggeredHealthRisk]] against [[EverydayHumorEmotionRegulation]]: he asks clinicians about jaw dislocation, cardiovascular and cerebrovascular vulnerability, asthma, and hiccups, then returns the discussion to laughter as color, relief, shared understanding, and personal room in everyday life.
 
 VOL.35 adds a speech-language rehabilitation branch to his host profile. 阿汤 starts from the difference between ordinary expression difficulty and pathological inability to express, then asks [[LihuaSpeechTherapist|梨花医生]] how families should understand children's late speech, gestures, comprehension, emotional response, passive screens, household overcare, adult aphasia, music and rhythm cueing, dysarthria, and long-term rehabilitation expectations.
 
@@ -87,17 +90,21 @@ VOL.156 adds a liver-health branch. 阿汤 starts from the “silent organ” fr
 - Workplace-pressure framing: [[vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz]] has him connect the drama hook to workplace PUA, bullying, humiliation, exclusion, and the psychological "iron fist" of boundaries, evidence, expression, and complaint.
 - Bite-prevention and aftercare framing: [[vol-213-wenzi-weishenme-pianai-yao-ni-pifuke-yisheng-chaichuan-quwen-zhishangshui-fu-kuaisu-zhiyang-xuanyao-zhinan-lifkugb27d79ut30lwfmu5vojegec]] has him help turn mosquito attraction, repellent products, allergic itch, antihistamines, steroids, tick handling, chigger fever risk, and household source control into ordinary listener questions.
 - Liver-health framing: [[vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb]] has him turn fatty-liver findings, transaminases, alcohol rituals, late nights, vegetarian eating, training, supplements, coffee, prepared food, and treatment advertising into questions about causes, monitoring, lifestyle, and qualified care.
+- Laughter-risk and humor framing: [[vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr|VOL.116]] has him connect clinical explanations of laughter-related triggers to crosstalk, Tianjin “乐呵,” adult joy, podcast discovery, and the explicit boundary that laughter itself is not the underlying disease.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, hepatology, fatty-liver, alcohol, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
+The wiki has no independent biographical evidence for 阿汤 beyond these episode notes. His identity, host role, and personal examples should remain source-scoped until more episodes or external sources are ingested. The episodes are public education and discussion, not individualized medical, hepatology, fatty-liver, alcohol, hypertension, medication, home-monitoring, ophthalmology, myopia-control, diabetes, obesity, device-use, otolaryngology, audiology, tinnitus, device-selection, pediatric, autism, aphasia, dysarthria, speech-language therapy, psychiatric, legal, nutritional, dermatology, infection, supplement, product-safety, rehabilitation, music-therapy, sports-training, cardiology, neurosurgery, respiratory care, oral surgery, medical-aesthetic, first-aid, emergency-care, CPR/AED, wound-care, burn-care, seizure-care, or workplace advice.
 
 ## What Changed
-- VOL.156 adds silent liver injury, fatty-liver cause review, medicines and herbal products, alcohol, diet, exercise, sleep, and treatment boundaries to the host profile.
-- 阿汤's practical questions turn “护肝” products and drinking rituals into evidence and safety distinctions.
-- Progression, diet, exercise, alcohol, coffee, and sponsored medication claims remain qualified and source-scoped.
+- VOL.116 adds a cross-specialty laughter-risk discussion spanning jaw, vascular, respiratory, and hiccup mechanisms.
+- The host profile now includes balancing medical risk education with the ordinary emotional and cultural value of humor.
+- Tianjin, crosstalk, and podcast examples broaden his use of personal context beyond clinical and consumer-health scenarios.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as host.
+- [[LinglongtaMenshibu]] - comedy-podcast collaborator in VOL.116.
+- [[LaughterTriggeredHealthRisk]] - trigger-versus-vulnerability framework he asks multiple clinicians to explain.
+- [[EverydayHumorEmotionRegulation]] - cultural and everyday-value branch he develops after the medical discussion.
 - [[XueDoctorZheBing]] - neurologist explaining migraine from both clinical and patient-experience perspectives.
 - [[BanmaJiangMedicalGuest]] - co-guest qualifying migraine screening, medication, and neuromodulation claims.
 - [[MigraineRecognitionAndTriage]] - headache-pattern and escalation branch added by VOL.157.

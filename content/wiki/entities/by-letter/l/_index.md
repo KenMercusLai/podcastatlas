@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10735
+wiki_total_pages: 10739
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -2009,6 +2009,9 @@ wiki_pages:
   - key: "LinglingMyFirstHalfLife"
     title: "玲玲 / Lingling (《我的前半生》)"
     url: "/wiki/entities/linglingmyfirsthalflife/"
+  - key: "LinglongtaMenshibu"
+    title: "玲珑塔门市部 / Linglongta Menshibu"
+    url: "/wiki/entities/linglongtamenshibu/"
   - key: "Lingyang"
     title: "瓴羊 / Lingyang"
     url: "/wiki/entities/lingyang/"

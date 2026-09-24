@@ -10566,9 +10566,9 @@
       "url": "/wiki/concepts/associativeknowledgesystems/"
     },
     "Atang": {
-      "episode_count": 19,
+      "episode_count": 20,
       "show_count": 1,
-      "source_note_count": 19,
+      "source_note_count": 20,
       "sources": [
         {
           "episode_file": "lgBs8AaxGUH_xzGa8iUEwwc7ypvM [lgBs8AaxGUH_xzGa8iUEwwc7ypvM].md",
@@ -10702,9 +10702,16 @@
           "show": "这病说来话长",
           "title": "VOL.156爱肝护肝第一步你就走错了 沉默的“人体化工厂”自救指南",
           "url": "/wiki/sources/vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb/"
+        },
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/atang/"
     },
     "Athelstan": {
@@ -43712,6 +43719,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/everydayhumanitarianisminwarfilm/"
     },
+    "EverydayHumorEmotionRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/everydayhumoremotionregulation/"
+    },
     "EverydaySocialConnection": {
       "episode_count": 2,
       "show_count": 1,
@@ -60237,6 +60260,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/heqialatehan/"
     },
+    "HeSiqiTianjinNormalRadio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/hesiqitianjinnormalradio/"
+    },
     "HeSongEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -66513,9 +66552,9 @@
       "url": "/wiki/concepts/hyperscaledatacentermoratorium/"
     },
     "HypertensionLongTermManagement": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lioWkHcJC8q3OgxagQsfib14oydY [lioWkHcJC8q3OgxagQsfib14oydY].md",
@@ -66530,6 +66569,13 @@
           "show": "这病说来话长",
           "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
           "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        },
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
         }
       ],
       "updated": "2026-09-23",
@@ -71335,9 +71381,9 @@
       "url": "/wiki/entities/jiabiaolatehan/"
     },
     "JiaDoctorZheBing": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
@@ -71345,9 +71391,16 @@
           "show": "这病说来话长",
           "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
           "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        },
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/jiadoctorzhebing/"
     },
     "JiaFuEasternHan": {
@@ -77029,6 +77082,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/latentrivalrecognition/"
     },
+    "LaughterTriggeredHealthRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
+    },
     "LawAndOrderRacialSignaling": {
       "episode_count": 4,
       "show_count": 1,
@@ -80285,6 +80354,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/linglingmyfirsthalflife/"
+    },
+    "LinglongtaMenshibu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/linglongtamenshibu/"
     },
     "LinkREIT": {
       "episode_count": 1,
@@ -142995,6 +143080,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wendys/"
     },
+    "WengJiayiCardiology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/wengjiayicardiology/"
+    },
     "WengYiming": {
       "episode_count": 1,
       "show_count": 1,
@@ -144408,6 +144509,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/wubin/"
+    },
+    "WuBinOralDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/wubinoraldoctor/"
     },
     "WuCommanderyLateHan": {
       "episode_count": 1,
@@ -154878,9 +154995,9 @@
       "url": "/wiki/entities/zhaogecountylatehan/"
     },
     "ZheBingShuoLaiHuaChang": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 1,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
@@ -155119,9 +155236,16 @@
           "show": "这病说来话长",
           "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
           "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        },
+        {
+          "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
+          "key": "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr",
+          "show": "这病说来话长",
+          "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+          "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
     },
     "ZhejiangUniversityChildrensHospital": {

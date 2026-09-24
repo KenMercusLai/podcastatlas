@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8105
+wiki_total_pages: 8107
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "EverydayHumanitarianismInWarFilm"
     title: "Everyday Humanitarianism In War Film / 战争片世俗人道主义"
     url: "/wiki/concepts/everydayhumanitarianisminwarfilm/"
+  - key: "EverydayHumorEmotionRegulation"
+    title: "Everyday Humor Emotion Regulation / 日常幽默情绪调节"
+    url: "/wiki/concepts/everydayhumoremotionregulation/"
   - key: "EverydaySocialConnection"
     title: "Everyday Social Connection"
     url: "/wiki/concepts/everydaysocialconnection/"

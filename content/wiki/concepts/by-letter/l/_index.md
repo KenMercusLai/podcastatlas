@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8105
+wiki_total_pages: 8107
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "LaughterAgainstAuthority"
     title: "Laughter Against Authority"
     url: "/wiki/concepts/laughteragainstauthority/"
+  - key: "LaughterTriggeredHealthRisk"
+    title: "Laughter-Triggered Health Risk / 大笑诱发健康风险"
+    url: "/wiki/concepts/laughtertriggeredhealthrisk/"
   - key: "LawEnforcementCultureAccountability"
     title: "Law Enforcement Culture Accountability"
     url: "/wiki/concepts/lawenforcementcultureaccountability/"

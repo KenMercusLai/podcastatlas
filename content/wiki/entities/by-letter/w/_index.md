@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10735
+wiki_total_pages: 10739
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -854,6 +854,9 @@ wiki_pages:
   - key: "WuJingzi"
     title: "吴敬梓"
     url: "/wiki/entities/wujingzi/"
+  - key: "WuBinOralDoctor"
+    title: "吴斌 / Wu Bin (口腔科)"
+    url: "/wiki/entities/wubinoraldoctor/"
   - key: "WuJingLateHan"
     title: "吴景 / Wu Jing (late Han)"
     url: "/wiki/entities/wujinglatehan/"
@@ -1478,6 +1481,9 @@ wiki_pages:
   - key: "WengYiming"
     title: "翁一鸣 / Weng Yiming"
     url: "/wiki/entities/wengyiming/"
+  - key: "WengJiayiCardiology"
+    title: "翁家毅 / Weng Jiayi"
+    url: "/wiki/entities/wengjiayicardiology/"
   - key: "WuyinLateHan"
     title: "舞阴 / Wuyin (late Han)"
     url: "/wiki/entities/wuyinlatehan/"

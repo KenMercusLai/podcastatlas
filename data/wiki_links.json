@@ -22579,6 +22579,10 @@
     "title": "Everyday Humanitarianism In War Film / 战争片世俗人道主义",
     "url": "/wiki/concepts/everydayhumanitarianisminwarfilm/"
   },
+  "EverydayHumorEmotionRegulation": {
+    "title": "Everyday Humor Emotion Regulation / 日常幽默情绪调节",
+    "url": "/wiki/concepts/everydayhumoremotionregulation/"
+  },
   "EverydaySocialConnection": {
     "title": "Everyday Social Connection",
     "url": "/wiki/concepts/everydaysocialconnection/"
@@ -29951,6 +29955,10 @@
     "title": "和氏璧 / He Shi Bi",
     "url": "/wiki/entities/heshibi/"
   },
+  "HeSiqiTianjinNormalRadio": {
+    "title": "何思琪 / He Siqi (天津师大校广播)",
+    "url": "/wiki/entities/hesiqitianjinnormalradio/"
+  },
   "HeSongEasternHan": {
     "title": "和嵩 / He Song (Eastern Han)",
     "url": "/wiki/entities/hesongeasternhan/"
@@ -35112,7 +35120,7 @@
     "url": "/wiki/entities/jiaconglatehan/"
   },
   "JiaDoctorZheBing": {
-    "title": "贾医生 / Jia Doctor (这病说来话长)",
+    "title": "贾建 / Jia Jian (这病说来话长)",
     "url": "/wiki/entities/jiadoctorzhebing/"
   },
   "JiaFamilyHousehold": {
@@ -38323,6 +38331,10 @@
     "title": "Laughter Against Authority",
     "url": "/wiki/concepts/laughteragainstauthority/"
   },
+  "LaughterTriggeredHealthRisk": {
+    "title": "Laughter-Triggered Health Risk / 大笑诱发健康风险",
+    "url": "/wiki/concepts/laughtertriggeredhealthrisk/"
+  },
   "LauraIves": {
     "title": "Laura Ives",
     "url": "/wiki/entities/lauraives/"
@@ -39886,6 +39898,10 @@
   "LinglingMyFirstHalfLife": {
     "title": "玲玲 / Lingling (《我的前半生》)",
     "url": "/wiki/entities/linglingmyfirsthalflife/"
+  },
+  "LinglongtaMenshibu": {
+    "title": "玲珑塔门市部 / Linglongta Menshibu",
+    "url": "/wiki/entities/linglongtamenshibu/"
   },
   "LinguisticRelativity": {
     "title": "Linguistic Relativity",
@@ -70723,6 +70739,10 @@
     "title": "Wendy's",
     "url": "/wiki/entities/wendys/"
   },
+  "WengJiayiCardiology": {
+    "title": "翁家毅 / Weng Jiayi",
+    "url": "/wiki/entities/wengjiayicardiology/"
+  },
   "WengYiming": {
     "title": "翁一鸣 / Weng Yiming",
     "url": "/wiki/entities/wengyiming/"
@@ -71606,6 +71626,10 @@
   "WuBin": {
     "title": "吴宾 / Wu Bin",
     "url": "/wiki/entities/wubin/"
+  },
+  "WuBinOralDoctor": {
+    "title": "吴斌 / Wu Bin (口腔科)",
+    "url": "/wiki/entities/wubinoraldoctor/"
   },
   "WuChen": {
     "title": "武臣 / Wu Chen",
@@ -81398,6 +81422,10 @@
   "vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx": {
     "title": "Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了",
     "url": "/wiki/sources/vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx/"
+  },
+  "vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr": {
+    "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
+    "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
   },
   "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3": {
     "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
