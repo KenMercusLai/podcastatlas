@@ -22088,3 +22088,11 @@ Added source `vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906`; cr
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析
+
+Added source `vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g`; created `WildMushroomPoisoningTriage`; and updated `Jianshouqing`, `WildMushroomFoodSafety`, `TraumaNarrativeIntegration`, and the index. Core synthesis: suspected wild-mushroom poisoning is a time-sensitive uncertainty problem in which diners can differ, early symptom relief may not exclude delayed organ injury, and persistent visual or psychological effects may need cross-specialty follow-up. No settled contradiction found; the exact specimen, toxin, cause of the visual findings, value of proposed Chinese-medicine treatments, and final recovery remain unresolved or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -8,8 +8,9 @@ sources:
   - 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925
   - ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
+  - vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-05
+last_updated: 2026-09-24
 ---
 
 # Trauma Narrative Integration / 创伤叙事整合
@@ -23,6 +24,8 @@ Across the current sources, trauma integration is not forced positivity or a dem
 The representation and agency sources define boundaries. [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] asks what happens when traumatic memory is blocked rather than integrated: relief may be real, but forgetting can also erase loved ones, evidence, and social responsibility. [[ep281-duihua-wuzhenyu-kun-zai-chuangshang-li-de-women-jueding-zhongxin-zhaohui-ziji-lvvreapoykpj5xtlryaaupu1xo7r]] adds a dramatic version through [[ChanDrama|《蝉》]], where visual images such as flying exam papers and plum-like marks make hidden injury visible enough for characters and viewers to face.
 
 Sleep neuroscience supplies a neurobiological neighbor, not a replacement for therapy. [[REMEmotionalMemorySeparation]] frames REM sleep as a possible state in which emotional systems are active while norepinephrine is quiet, allowing cognitive memory to persist with less bodily alarm. This strengthens the page's "remember without reliving" definition, but it also adds a boundary: pre-sleep arousal, PTSD, nightmares, insomnia, medication, and clinical trauma care cannot be reduced to a sleep tip.
+
+A medical-event aftermath in [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g|VOL.124]] broadens the synthesis: after suspected mushroom poisoning and prolonged visual uncertainty, 依依 avoided mushrooms and repeatedly dreamed about companions from the event. The episode's narrative-therapy discussion suggests that retelling can restore authorship and support help-seeking, while preserving a crucial differential boundary—psychological care should accompany, not erase, unresolved physical evaluation.
 
 ## Key Claims
 - Traumatic memory often begins as fragments, bodily panic, images, dreams, silence, or repeated scenes rather than ordinary narrative memory.
@@ -40,13 +43,15 @@ Sleep neuroscience supplies a neurobiological neighbor, not a replacement for th
 - Agency and forgetting - [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] uses the "沙漠" memory-shielding tool to ask whether pain relief can ethically come at the cost of loved ones, evidence, or public responsibility.
 - Pacing and containment - [[13-beishang-de-liliang-tantan-sangqin-zhitong-551507792]] stresses professional containment and steady companionship, while [[166-youyou-changfeng-wenrou-de-huanxiang-zhi-ge-fuping-jiaolv-de-gouhe-948043059]] warns against making pain decisions for others.
 - REM emotional-memory mechanism - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] says REM sleep may allow emotional memory processing without full norepinephrine-driven physiological alarm, while maladaptive REM may reinforce PTSD-like re-experiencing.
+- Medical-event aftermath and help-seeking - [[vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g]] connects post-poisoning avoidance and recurring dreams with narrative retelling and increased willingness to seek psychological care.
 
 ## Counterevidence & Qualifications
-Not every painful memory is ready for narration, and not every representation is healing. Dramatic visualization can help an audience or character see trauma, but it is not clinical treatment. Forgetting, numbing, avoiding, or sleeping may sometimes protect a person in the short term, so integration should not become pressure to expose more than someone can hold. The REM mechanism is source-scoped public neuroscience education; it does not replace trauma therapy, crisis care, medication management, or sleep-disorder treatment.
+Not every painful memory is ready for narration, and not every representation is healing. Dramatic visualization can help an audience or character see trauma, but it is not clinical treatment. Forgetting, numbing, avoiding, or sleeping may sometimes protect a person in the short term, so integration should not become pressure to expose more than someone can hold. The REM mechanism is source-scoped public neuroscience education; it does not replace trauma therapy, crisis care, medication management, or sleep-disorder treatment. After a poisoning or other medical event, psychological formulation must not be used to dismiss persistent physical symptoms or substitute for appropriate medical follow-up.
 
 ## What Changed
-- Added Gina Poe's REM emotional-memory mechanism as a bounded neuroscience neighbor to the existing narrative and therapeutic synthesis.
-- Clarified that sleep may support "remembering without reliving" but is not standalone trauma treatment.
+- Added post-poisoning avoidance and recurring dreams as a medical-event example of trauma-like aftermath.
+- Added narrative retelling as a route toward restored agency and willingness to seek psychological care.
+- Clarified that psychological support must not displace unresolved physical evaluation.
 
 ## Related Concepts
 - [[BereavementGriefWork]] - grief process that may require narrative integration.
@@ -57,3 +62,4 @@ Not every painful memory is ready for narration, and not every representation is
 - [[REMEmotionalMemorySeparation]] - sleep-neuroscience neighbor for reducing autonomic charge around memory.
 - [[MemoryDeletionEthics]] - speculative countercase where pain relief conflicts with agency and responsibility.
 - [[TemporaryFamilyHealing]] - relational setting where traumatic material can become faceable without being solved.
+- [[WildMushroomPoisoningTriage]] - medical-response context whose physical uncertainty can continue alongside psychological recovery.

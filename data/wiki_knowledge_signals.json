@@ -70294,6 +70294,29 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/jiangxiacommanderylatehan/"
     },
+    "Jianshouqing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "150.吃菌！和阿措聊云南的鸡枞,松茸,见手青...（擦口水） [897563165].md",
+          "key": "150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165",
+          "show": "蜜獾吃书",
+          "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
+          "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
+        },
+        {
+          "episode_file": "lnQsWz3nIm_8767094YiYSgMEf1g [lnQsWz3nIm_8767094YiYSgMEf1g].md",
+          "key": "vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g",
+          "show": "这病说来话长",
+          "title": "VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析",
+          "url": "/wiki/sources/vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/jianshouqing/"
+    },
     "JiaoChuLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -132436,9 +132459,9 @@
       "url": "/wiki/concepts/traumacueresponse/"
     },
     "TraumaNarrativeIntegration": {
-      "episode_count": 5,
-      "show_count": 3,
-      "source_note_count": 5,
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "166.悠游长风：温柔的幻想之歌，抚平焦虑的沟壑 [948043059].md",
@@ -132474,9 +132497,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "lnQsWz3nIm_8767094YiYSgMEf1g [lnQsWz3nIm_8767094YiYSgMEf1g].md",
+          "key": "vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g",
+          "show": "这病说来话长",
+          "title": "VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析",
+          "url": "/wiki/sources/vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/traumanarrativeintegration/"
     },
     "TravelAgencyItineraryOperations": {
@@ -140366,6 +140396,45 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/wildchildmarginality/"
+    },
+    "WildMushroomFoodSafety": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "150.吃菌！和阿措聊云南的鸡枞,松茸,见手青...（擦口水） [897563165].md",
+          "key": "150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165",
+          "show": "蜜獾吃书",
+          "title": "150.吃菌！和阿错聊云南的鸡枞、松茸、见手青",
+          "url": "/wiki/sources/150-chi-jun-he-acuo-liao-yunnan-de-jizong-songrong-jianshouqing-ca-koushui-897563165/"
+        },
+        {
+          "episode_file": "lnQsWz3nIm_8767094YiYSgMEf1g [lnQsWz3nIm_8767094YiYSgMEf1g].md",
+          "key": "vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g",
+          "show": "这病说来话长",
+          "title": "VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析",
+          "url": "/wiki/sources/vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/wildmushroomfoodsafety/"
+    },
+    "WildMushroomPoisoningTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnQsWz3nIm_8767094YiYSgMEf1g [lnQsWz3nIm_8767094YiYSgMEf1g].md",
+          "key": "vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g",
+          "show": "这病说来话长",
+          "title": "VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析",
+          "url": "/wiki/sources/vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/wildmushroompoisoningtriage/"
     },
     "WildlifeFeedingFeedbackLoop": {
       "episode_count": 1,

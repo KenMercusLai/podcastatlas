@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8028
+wiki_total_pages: 8029
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "WildMushroomFoodSafety"
     title: "Wild Mushroom Food Safety"
     url: "/wiki/concepts/wildmushroomfoodsafety/"
+  - key: "WildMushroomPoisoningTriage"
+    title: "Wild Mushroom Poisoning Triage / 野生菌中毒分诊"
+    url: "/wiki/concepts/wildmushroompoisoningtriage/"
   - key: "WildPollinatorCrisis"
     title: "Wild Pollinator Crisis / 野生传粉昆虫危机"
     url: "/wiki/concepts/wildpollinatorcrisis/"
