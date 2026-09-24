@@ -2796,6 +2796,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [277.从提醒你，到替你办：Today想把Personal AI带到哪一步？](sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6.md) — 乱翻书 episode on Today’s memory-plus-initiative product thesis, identity-aware personal context, delegation friction, graduated execution, and unresolved product-market fit.
 
 - [Advice Line with Danny Meyer of Shake Shack](sources/advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac.md) — Danny Meyer advises food-and-beverage founders on behavior-based culture, packaged hospitality, capacity-gated channel tests, and bottom-up food-service proof.
+- [Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin](sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592.md) — Huberman Lab Essentials episode on goal-specific strength, power, and hypertrophy programming, progressive overload, exercise variation, weekly volume, and resilient scheduling.
 
 ## Entities
 - [Fauda](entities/Fauda.md) — Israeli thriller whose fifth season is read as an emotionally immediate but deliberately partial portrait of post-October-7 trauma.
@@ -3234,7 +3235,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DRASTIC](entities/DRASTIC.md) — Decentralized COVID-origin research collective praised in the source for scientific sharing and surfacing the DEFUSE proposal.
 - [Nick Shirley](entities/NickShirley.md) — Independent creator presented by All-In as an audience-funded investigator using tips, field reporting, confrontation, and platform distribution to expose alleged fraud and public waste.
 - [California High-Speed Rail](entities/CaliforniaHighSpeedRail.md) — State passenger-rail megaproject used by the Nick Shirley episode to examine cost escalation, delivery delay, land conflict, contractor incentives, and political accountability.
-- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist and Huberman Lab guest whose Essentials episode supplies the nine-adaptation fitness assessment framework, benchmark thresholds, and annual testing-week protocol.
+- [Andy Galpin](entities/AndyGalpin.md) — Exercise physiologist whose Huberman Lab Essentials appearances connect the nine-adaptation fitness assessment framework to goal-specific strength, power, and hypertrophy programming.
 - [深普智能 / Shenpu Intelligence](entities/ShenpuIntelligence.md) — Home-facing general embodied-intelligence company whose chief scientist describes full-stack data, action-model, Agentic OS, and evaluation work.
 - [王家伟 / Wang Jiawei](entities/WangJiawei.md) — 24-year-old chief scientist of 深普智能, with a USTC youth-class and Microsoft Research Asia doctoral background plus DeepSeek and ByteDance Seed internships.
 - [Blackmores / 澳佳宝](entities/Blackmores.md) — Australian supplement brand the source uses to show naturopathic practice converting into a mainstream industrial product.
@@ -21582,5 +21583,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Packaged Hospitality](concepts/PackagedHospitality.md) — Translation of founder-led welcome and belonging into a package that can host from the shelf.
 - [Capacity-Gated Channel Expansion](concepts/CapacityGatedChannelExpansion.md) — Bounded growth tests designed around supply, logistics, quality, and upside overload.
 - [Food-Service Beachhead Scaling](concepts/FoodserviceBeachheadScaling.md) — Bottom-up restaurant entry that builds operational proof and advocacy before national-chain scale.
+- [Exercise Variation and Progression Balance](concepts/ExerciseVariationProgressionBalance.md) — Programming principle that keeps movements stable enough for learning and measurable overload while allowing purposeful variation.
+- [Training Chaos Management](concepts/TrainingChaosManagement.md) — Goal-specific adjustment of load, quality, volume, rest, and schedule when time, equipment, or attendance disrupts training.
 
 ## Syntheses

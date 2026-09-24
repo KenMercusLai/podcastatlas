@@ -5,7 +5,8 @@ tags: [fitness, exercise, physiology, assessment, training]
 sources:
   - essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924
   - essentials-how-to-build-endurance-scim1120276865
-last_updated: 2026-09-21
+  - essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592
+last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The framework also sorts outcomes. Hypertrophy is the first item described as ap
 
 The endurance-training episode supplies a complementary programming view rather than a second assessment list. It groups local muscular work, continuous long-duration work, repeated near-maximal anaerobic efforts, and hard multi-minute aerobic intervals as [[EnduranceTrainingModalities]], reinforcing the distinction among endurance capacities while showing that their neural, muscular, metabolic, and cardiovascular adaptations overlap.
 
+The strength-and-hypertrophy follow-up does the same for force, power, and muscle size. Strength is force production, power requires force expressed rapidly, and hypertrophy is increased muscle size; the intended adaptation comes from execution variables rather than the exercise label. This completes part of the programming branch deferred by the assessment episode while leaving speed and the full integration of all nine capacities outside the supplied notes.
+
 ## Key Claims
 - Exercise adaptations divide into nine distinguishable capacities that can each be trained and assessed on their own.
 - Hypertrophy is deliberately separated from the functional adaptations, and only the health-relevant amount of muscle is treated as non-negotiable.
@@ -28,6 +31,7 @@ The endurance-training episode supplies a complementary programming view rather 
 - The taxonomy is a prioritization tool: the useful question is which capacity explains the current plateau, not whether every capacity is elite.
 - Each adaptation has both a gold-standard specialist method and a low-cost do-it-yourself substitute.
 - The endurance branches can be translated into different training formats, but they remain overlapping programming categories rather than isolated physiological compartments.
+- Strength, power, and hypertrophy overlap most in newer trainees but become more independently programmable with experience.
 
 ## Evidence
 - Taxonomy: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]] lists skill or technique, speed, power, strength, hypertrophy, muscular endurance, anaerobic capacity, maximal aerobic capacity, and long duration as the nine areas.
@@ -36,13 +40,14 @@ The endurance-training episode supplies a complementary programming view rather 
 - Diagnostic purpose: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]] frames the list as a way to find which area a person must address to reach a goal and then hold the result.
 - Accessible substitutes: [[essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924]] pairs lab or specialist methods with cheap field versions such as a broad jump, a dead hang, a plank, and a 12-minute run.
 - Training counterpart: [[essentials-how-to-build-endurance-scim1120276865]] separates muscular, long-duration, anaerobic-interval, and high-intensity aerobic work by duration, work-rest structure, likely limiting system, and adaptation.
+- Force-and-size counterpart: [[essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592]] separates strength, power, and hypertrophy by intended outcome and manipulates load, volume, rest, cadence, order, and intent accordingly.
 
 ## Counterevidence & Qualifications
-The nine-way split is a coaching and public-education taxonomy rather than a validated physiological partition; real training adaptations overlap, and strength, power, and endurance share neural, muscular, and metabolic mechanisms. The assessment episode deliberately defers speed, strength, and hypertrophy programming, while the endurance episode supplies broad protocols without study methods, progression rules, or personalization. Their different duration and repetition ranges are retained as testing versus training context, and no numeric target should be read as an individualized prescription.
+The nine-way split is a coaching and public-education taxonomy rather than a validated physiological partition; real training adaptations overlap, and strength, power, hypertrophy, and endurance share neural, muscular, and metabolic mechanisms. The follow-ups supply broad endurance and force-or-size protocols without complete study methods or personalization. Their duration, repetition, set, load, and progression ranges are retained as testing versus training context, and no numeric target should be read as an individualized prescription.
 
 ## What Changed
-- Added the nine-adaptation taxonomy as the organizing frame for this episode's assessment content.
-- Added the four endurance-training modes as a programming counterpart and made their overlap explicit.
+- Added programming distinctions for strength, power, and hypertrophy, completing another branch of the assessment taxonomy.
+- Clarified that exercise execution and intent, not exercise name alone, determine which adaptation is emphasized.
 
 ## Related Concepts
 - [[FitnessAssessmentTestingWeek]] - the protocol that turns the taxonomy into an annual battery of tests.
@@ -52,3 +57,4 @@ The nine-way split is a coaching and public-education taxonomy rather than a val
 - [[FunctionalLongevityTraining]] - weak-link training practice that follows from finding the limiting adaptation.
 - [[CorrectiveWeakLinkTraining]] - targeted programming for a specific adaptation or control deficit.
 - [[EnduranceTrainingModalities]] - four-mode programming frame for the endurance branches in this taxonomy.
+- [[StrengthHypertrophyProgramming]] - programming frame for the force, power, and muscle-size branches.

@@ -22220,3 +22220,11 @@ Added source `home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin
+
+Added source `essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592`; created `ExerciseVariationProgressionBalance` and `TrainingChaosManagement`; and updated `AndyGalpin`, `StrengthHypertrophyProgramming`, `NinePhysiologicalAdaptations`, and `MuscleAsLongevityInfrastructure` from their complete bounded source sets. Core synthesis: exercise names do not determine adaptation; strength and power protect force, speed, and repetition quality, while hypertrophy accepts broader methods when challenging weekly volume is sufficient. Stable movement blocks make progressive overload measurable, and real-world disruption should preserve the variable most important to the goal. No settled contradiction was found; differing weekly-set ranges and all age-decline, progression, load, deload, and advanced-volume figures remain source-scoped heuristics. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

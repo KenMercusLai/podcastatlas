@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-24",
       "latest_episode_file": "SCIM8443296592 [SCIM8443296592].md",
-      "source_note_count": 104,
+      "source_note_count": 105,
       "topic_matched_source_note_count": 62,
       "topics": [
         {
@@ -522,6 +522,13 @@
           "episode_count": 3
         },
         {
+          "key": "AndyGalpin",
+          "title": "Andy Galpin",
+          "url": "/wiki/entities/andygalpin/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "ChrisPalmer",
           "title": "Chris Palmer",
           "url": "/wiki/entities/chrispalmer/",
@@ -554,13 +561,6 @@
           "title": "University of California San Francisco",
           "url": "/wiki/entities/universityofcaliforniasanfrancisco/",
           "kind": "organization",
-          "episode_count": 2
-        },
-        {
-          "key": "WimHof",
-          "title": "Wim Hof",
-          "url": "/wiki/entities/wimhof/",
-          "kind": "person",
           "episode_count": 2
         }
       ],

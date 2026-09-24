@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8067
+wiki_total_pages: 8069
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "TrainingAutopilot"
     title: "Training Autopilot"
     url: "/wiki/concepts/trainingautopilot/"
+  - key: "TrainingChaosManagement"
+    title: "Training Chaos Management"
+    url: "/wiki/concepts/trainingchaosmanagement/"
   - key: "TrainingComputeAllocation"
     title: "Training Compute Allocation"
     url: "/wiki/concepts/trainingcomputeallocation/"

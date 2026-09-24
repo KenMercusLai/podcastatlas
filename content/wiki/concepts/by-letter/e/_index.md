@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8067
+wiki_total_pages: 8069
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "ExerciseSelfMasteryForProcrastination"
     title: "Exercise Self-Mastery For Procrastination"
     url: "/wiki/concepts/exerciseselfmasteryforprocrastination/"
+  - key: "ExerciseVariationProgressionBalance"
+    title: "Exercise Variation and Progression Balance"
+    url: "/wiki/concepts/exercisevariationprogressionbalance/"
   - key: "ExerciseSpecificBrainAdaptation"
     title: "Exercise-Specific Brain Adaptation"
     url: "/wiki/concepts/exercisespecificbrainadaptation/"

@@ -8309,9 +8309,9 @@
       "url": "/wiki/entities/andyburnham/"
     },
     "AndyGalpin": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -8319,9 +8319,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+        },
+        {
+          "episode_file": "SCIM8443296592 [SCIM8443296592].md",
+          "key": "essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/andygalpin/"
     },
     "AndyStalman": {
@@ -43486,6 +43493,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/exercisespecificbrainadaptation/"
+    },
+    "ExerciseVariationProgressionBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8443296592 [SCIM8443296592].md",
+          "key": "essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/exercisevariationprogressionbalance/"
     },
     "ExileLoyaltyThroughRitualToken": {
       "episode_count": 1,
@@ -93759,9 +93782,9 @@
       "url": "/wiki/entities/mureka/"
     },
     "MuscleAsLongevityInfrastructure": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
@@ -93797,9 +93820,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Build Muscle Size, Increase Strength & Improve Recovery",
           "url": "/wiki/sources/essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126/"
+        },
+        {
+          "episode_file": "SCIM8443296592 [SCIM8443296592].md",
+          "key": "essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
     },
     "MusePersonalAgent": {
@@ -95942,9 +95972,9 @@
       "url": "/wiki/entities/nimiwusun/"
     },
     "NinePhysiologicalAdaptations": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5641095924 [SCIM5641095924].md",
@@ -95959,9 +95989,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Build Endurance",
           "url": "/wiki/sources/essentials-how-to-build-endurance-scim1120276865/"
+        },
+        {
+          "episode_file": "SCIM8443296592 [SCIM8443296592].md",
+          "key": "essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/ninephysiologicaladaptations/"
     },
     "NinePurpleFireLuckActionFrame": {
@@ -126104,9 +126141,9 @@
       "url": "/wiki/concepts/strengthfirstselfexamination/"
     },
     "StrengthHypertrophyProgramming": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM4036424126 [SCIM4036424126].md",
@@ -126121,9 +126158,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
           "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        },
+        {
+          "episode_file": "SCIM8443296592 [SCIM8443296592].md",
+          "key": "essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/strengthhypertrophyprogramming/"
     },
     "StrengthTrainingJointProtection": {
@@ -133587,6 +133631,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/trafficarbitragetobrandbuilding/"
+    },
+    "TrainingChaosManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8443296592 [SCIM8443296592].md",
+          "key": "essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592",
+          "show": "Huberman Lab",
+          "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
+          "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/trainingchaosmanagement/"
     },
     "TransEurasianMigrationCascade": {
       "episode_count": 2,
