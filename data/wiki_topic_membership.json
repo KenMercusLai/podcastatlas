@@ -1703,6 +1703,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632": [
     {
       "key": "history",
@@ -62624,6 +62631,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "SarajevoAssassinationContingency": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Sardis": [

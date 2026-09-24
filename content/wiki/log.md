@@ -22124,3 +22124,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 468. The Murder of Franz Ferdinand: The Crime (Part 4)
+
+Added source `468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154`; created `SophieChotek`, `GavriloPrincip`, and `SarajevoAssassinationContingency`; rewrote `FranzFerdinand` from its complete bounded source set; and updated the index. Core synthesis: the Sarajevo murders resulted from deliberate political violence succeeding through a contingent chain of symbolic timing, accepted risk, failed first attack, continued ceremony, route miscommunication, and a stopped car, while Franz Ferdinand and Sophie's partnership remained central through the funeral's renewed morganatic hierarchy. No settled contradiction found; route responsibility, shot targeting, immediate awareness, and later Princip mythology remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10680
+wiki_total_pages: 10682
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "GavinNewsom"
     title: "Gavin Newsom"
     url: "/wiki/entities/gavinnewsom/"
+  - key: "GavriloPrincip"
+    title: "Gavrilo Princip"
+    url: "/wiki/entities/gavriloprincip/"
   - key: "Gaza"
     title: "Gaza"
     url: "/wiki/entities/gaza/"

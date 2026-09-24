@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [468. The Murder of Franz Ferdinand: The Crime (Part 4)](sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154.md) — The Rest Is History reconstruction of the Sarajevo assassination as a contingent chain of warnings, failed attack, continued ceremony, route confusion, two fatal shots, and dynastic indignity.
 - [182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」](sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1.md) — LateTalk founder interview on Douyin and Maoxiang product lessons, AI-native entertainment, emergent creation, consequential participation, inference economics, and startup organization.
 - [E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人](sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e.md) — 硅谷101 founder interview on Eight Sleep's sensing-to-intervention loop, dynamic temperature, preventive-health ambitions, hardware execution, premium pricing, and China localization.
 - [Vol.276 做月嫂育儿嫂的姐姐，都有故事](sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906.md) — 商业就是这样 conversation with domestic-service consultant 怡婷 on care-worker matching, live-in boundaries, atomized-family demand, professional dignity, and the limits of automating human care.
@@ -2785,6 +2786,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Build a Strong, Pain-Proof Back | Dr. Stuart McGill](sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455.md) — Huberman Lab interview on mechanism-based back-pain assessment, anatomy-matched exercise, cumulative load thresholds, spine-sparing stability, and progressive rehabilitation.
 
 ## Entities
+- [Sophie Chotek](entities/SophieChotek.md) — Franz Ferdinand's wife, active partner in the Sarajevo visit, fellow assassination victim, and continuing target of morganatic court hierarchy.
+- [Gavrilo Princip](entities/GavriloPrincip.md) — Nineteen-year-old assassin whose second opportunity arose from the motorcade's wrong turn and stop in Sarajevo.
 - [Stuart McGill](entities/StuartMcGill.md) — Spine-biomechanics researcher emphasizing individualized pain mechanisms, anatomical fit, recoverable loading, and spine-sparing training.
 - [Liang Chenqi / 梁琛奇](entities/LiangChenqi.md) — Former Douyin and ByteDance FLOW product leader building AI-native entertainment through Dongnian Yinxian.
 - [Dongnian Yinxian / 动念引线](entities/DongnianYinxian.md) — Liang Chenqi's startup exploring AI entertainment, imaginative expression, and interactive worlds through small product teams.
@@ -13476,6 +13479,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
 
 ## Concepts
+- [Sarajevo Assassination Contingency](concepts/SarajevoAssassinationContingency.md) — Causal frame joining symbolic timing, known warnings, security choices, failed attack, continued ceremony, route communication, and chance.
 - [Mechanism-Based Back-Pain Assessment](concepts/MechanismBasedBackPainAssessment.md) — Assessment frame identifying pain triggers, anatomy, exposure, sensitization, goals, and tolerable movement before intervention.
 - [Anatomy-Constrained Exercise Selection](concepts/AnatomyConstrainedExerciseSelection.md) — Principle matching exercise, range, stance, and technique to body structure, tissue tolerance, symptoms, and goals.
 - [Spine-Load Tipping Point](concepts/SpineLoadTippingPoint.md) — Cumulative-dose model separating adaptive training stress from overload, sensitization, and tissue trauma.

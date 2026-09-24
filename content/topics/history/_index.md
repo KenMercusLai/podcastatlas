@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1971
+topic_total_pages: 1973
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1012,6 +1012,9 @@ topic_concepts:
   - key: "SantoriniAtlantisTheory"
     title: "Santorini Atlantis Theory"
     url: "/wiki/concepts/santoriniatlantistheory/"
+  - key: "SarajevoAssassinationContingency"
+    title: "Sarajevo Assassination Contingency"
+    url: "/wiki/concepts/sarajevoassassinationcontingency/"
   - key: "ScriptAsSocialHistory"
     title: "Script As Social History"
     url: "/wiki/concepts/scriptassocialhistory/"
@@ -4575,6 +4578,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154"
+    title: "468. The Murder of Franz Ferdinand: The Crime (Part 4)"
+    url: "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
   - key: "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632"
     title: "469. The Road to The Great War: Countdown to Armageddon (Part 1)"
     url: "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"

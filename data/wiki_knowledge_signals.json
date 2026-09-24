@@ -48855,9 +48855,9 @@
       "url": "/wiki/entities/franzconradvonhotzendorf/"
     },
     "FranzFerdinand": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -48872,6 +48872,13 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT1158335154 [GLT1158335154].md",
+          "key": "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154",
+          "show": "The Rest Is History",
+          "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
+          "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
         }
       ],
       "updated": "2026-09-24",
@@ -51873,6 +51880,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/gavinnewsom/"
+    },
+    "GavriloPrincip": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1158335154 [GLT1158335154].md",
+          "key": "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154",
+          "show": "The Rest Is History",
+          "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
+          "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/gavriloprincip/"
     },
     "GeJianxiong": {
       "episode_count": 1,
@@ -115835,6 +115858,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/sarahsglutenfreegoods/"
     },
+    "SarajevoAssassinationContingency": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1158335154 [GLT1158335154].md",
+          "key": "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154",
+          "show": "The Rest Is History",
+          "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
+          "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/sarajevoassassinationcontingency/"
+    },
     "SarchimorYunnanCoffee": {
       "episode_count": 1,
       "show_count": 1,
@@ -122644,6 +122683,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/sophiaalekseyevna/"
+    },
+    "SophieChotek": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1158335154 [GLT1158335154].md",
+          "key": "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154",
+          "show": "The Rest Is History",
+          "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
+          "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/sophiechotek/"
     },
     "SophieDeGrouchy": {
       "episode_count": 1,
