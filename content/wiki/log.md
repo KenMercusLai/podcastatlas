@@ -22280,3 +22280,11 @@ Added source `vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-c
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon
+
+Added source `how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871`; created `GabrielleLyon`; and updated `MuscleAsLongevityInfrastructure`, `ProteinBodyCompositionLever`, `ProteinSourceGoalMatching`, `ExercisePillarsForLongevity`, and the index from their complete bounded source sets. Core synthesis: skeletal muscle is treated as metabolic, endocrine, and functional reserve supported by regular contraction, progressive resistance training, adequate protein, and sustainable adherence; source quality and distribution matter within a broader total-intake and training hierarchy. No settled contradiction found. Lyon's higher protein target, carbohydrate thresholds, glucose-disposal and sedentary-disease framing, supplements, medication cautions, and GLP-1 muscle-preservation observation remain source-scoped and do not displace population-adequacy, individualized-risk, or comparative-evidence boundaries. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

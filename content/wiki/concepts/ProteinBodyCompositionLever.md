@@ -7,7 +7,8 @@ sources:
   - how-different-diets-impact-your-health-dr-christopher-gardner-scim3206044616
   - ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
-last_updated: 2026-09-23
+  - how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,9 +28,11 @@ The AMA excerpt adds [[ProteinSourceGoalMatching]] beneath this hierarchy. It di
 
 The full Norton interview sharpens the hierarchy without resolving the target debate. Total daily protein remains more important than perfect distribution, and protein-source quality matters most near minimum intake; at sufficiently high intake, differences between sources may narrow. A shorter eating window can still support muscle for many people, but spreading protein across more meals may offer a small advantage when maximal strength or muscularity is the explicit goal. Collagen remains a poor muscle-building protein because of its amino-acid profile even if connective-tissue or skin uses remain plausible but uncertain.
 
+Lyon independently uses the hierarchy of total protein, quality, then distribution, but pushes the optimization end harder: she favors roughly one gram per pound of ideal body weight, leucine-rich meals, and larger first-meal doses, especially in older adults. That reinforces the importance of age, source quality, and training context while widening rather than resolving the target debate. Her 30-to-50-gram meal range and higher daily target remain source-scoped alongside Norton's approximate 1.6 g/kg plateau and Gardner's population-adequacy account.
+
 ## Key Claims
 - Protein is the episode's largest dietary lever for satiety, lean body mass, and body composition.
-- Muscle-building benefit is described as plateauing around 1.6 grams per kilogram of body weight, with possible smaller benefits above that level.
+- Muscle-building benefit is described in one source as plateauing around 1.6 grams per kilogram of body weight, while higher guest optimization targets remain contested and source-scoped.
 - Total protein matters more than exact timing or meal frequency, though distribution may matter more for maximal strength or muscularity and inside narrow eating windows.
 - Plant-based diets can support muscle gain, but they require more planning around bioavailability, leucine, essential amino acids, and total calorie packaging.
 - Protein only works inside a broader system of energy balance, training, recovery, and sustainable adherence.
@@ -50,15 +53,16 @@ The full Norton interview sharpens the hierarchy without resolving the target de
 - Distribution and fasting: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] places total intake above perfect distribution and treats intermittent fasting as compatible with muscle gain for many people but potentially suboptimal for maximizing muscularity or strength.
 - Quality threshold: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] says source quality matters more near minimum protein intake and may matter less around sufficiently high total intake.
 - Collagen boundary: [[tools-for-nutrition-fitness-dr-layne-norton-scim5519161031]] treats collagen as low quality for muscle protein synthesis while leaving skin and connective-tissue benefit plausible but unsettled.
+- Lyon hierarchy: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] ranks total protein above quality and distribution, favors leucine-rich sources, and raises the importance of meal distribution for older adults or people eating less protein.
+- Training interaction: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] treats dietary protein without muscle contraction as incomplete and links resistance training to more useful muscle-facing adaptation.
 
 ## Counterevidence & Qualifications
-This concept is not a protein prescription. Kidney disease, liver disease, pregnancy, adolescence, older age, eating disorders, elite sport, medication use, allergies, vegetarian or vegan constraints, and metabolic disease can change appropriate intake and require individualized guidance. The sources use different endpoints and emphases: Norton's muscle-optimization frame does not establish a universal requirement, while Gardner's adequacy argument does not rule out performance, satiety, or clinical reasons for higher intake. The one-gram-per-pound target, four-to-five-meal distribution advantage, post-exercise synthesis timing, collagen benefit, acne mechanism, and unusually large protein-bolus finding remain source-scoped. None of the sources makes timing, powders, leucine, collagen, or isolates more important than total diet quality, training, and context.
+This concept is not a protein prescription. Kidney disease, liver disease, pregnancy, adolescence, older age, eating disorders, elite sport, medication use, allergies, vegetarian or vegan constraints, and metabolic disease can change appropriate intake and require individualized guidance. The sources use different endpoints and emphases: Norton and Lyon's muscle-optimization frames do not establish a universal requirement, while Gardner's adequacy argument does not rule out performance, satiety, aging, or clinical reasons for higher intake. The one-gram-per-pound target, 30-to-50-gram meal range, first-meal emphasis, leucine target, four-to-five-meal distribution advantage, post-exercise synthesis timing, collagen benefit, acne mechanism, and unusually large protein-bolus finding remain source-scoped. None of the sources makes timing, powders, leucine, collagen, or isolates more important than total diet quality, training, and context.
 
 ## What Changed
-- Preserved the tension between population adequacy and muscle-optimization targets rather than forcing one intake prescription.
-- Clarified that total protein outranks distribution, while narrow eating windows and maximal-performance goals can make distribution more relevant.
-- Made protein-quality differences conditional on intake level and intended outcome.
-- Strengthened the distinction between collagen's poor muscle-protein profile and its uncertain skin or connective-tissue role.
+- Strengthened the hierarchy of total protein, source quality, and distribution while keeping age and training context visible.
+- Widened the explicit tension between population adequacy, the approximate muscle-building plateau, and higher guest optimization targets.
+- Added the qualification that protein intake and muscle contraction work as a system rather than interchangeable levers.
 
 ## Related Concepts
 - [[EnergyBalanceAccounting]] - calorie and expenditure frame that protein modifies through satiety and thermic effect.

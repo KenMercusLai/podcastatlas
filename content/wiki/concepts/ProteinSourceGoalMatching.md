@@ -6,7 +6,8 @@ sources:
   - ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738
-last_updated: 2026-09-23
+  - how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The muscle Essentials episode reinforces leucine and essential-amino-acid densit
 
 The Soleymani interview adds a useful limit to the skin branch. Collagen supplementation may have an aesthetic effect, but the episode does not assume that collagen itself is the active explanation; adequate total protein, placebo response, or short-term water shifts could contribute. The current synthesis therefore preserves collagen as a possible narrow skin-oriented option without ranking it above complete-protein adequacy or established dermatologic care.
 
+Lyon reinforces the muscle-facing distinction with eggs, whey, beef, poultry, and rice-pea blends as examples. Her account supports high-quality animal protein as an efficient route rather than a requirement: plant protein can still work when total intake and amino-acid coverage are adequate. She also repeats the collagen boundary, assigning it possible skin, hair, nail, or connective-tissue value rather than skeletal-muscle building value.
+
 ## Key Claims
 - Equal protein grams can differ in functional value because amino-acid composition and bioavailability vary by source.
 - Whey is the source's preferred supplement when muscle protein synthesis, strength, repair, or recovery is the main goal.
@@ -40,13 +43,15 @@ The Soleymani interview adds a useful limit to the skin branch. Collagen supplem
 - Individual-response boundary: [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786]] suggests changing products for digestive discomfort and temporarily removing whey when testing a possible acne association.
 - Leucine and dietary-pattern branch: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] gives 700 to 3000 milligrams of leucine per meal as a source-scoped range, favors sufficient essential amino acids from whole foods, and says vegetarian and vegan diets can support muscle with attention to protein density and adequacy.
 - Collagen-mechanism qualification: [[how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738]] allows a possible aesthetic effect while questioning whether collagen itself, protein adequacy, placebo response, or water shifts explain it.
+- Animal and plant examples: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] presents eggs, whey, beef, and poultry as efficient muscle-facing sources while allowing deliberately blended plant proteins such as rice and pea when total intake is sufficient.
+- Collagen boundary: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] distinguishes collagen's proposed skin, hair, nail, or connective-tissue uses from skeletal-muscle mass support.
 
 ## Counterevidence & Qualifications
-The bounded evidence comes from three podcast episodes, not a systematic review or individualized nutrition, dermatology, or medical assessment. They do not provide study populations, methods, effect sizes, collagen formulation, or a complete acne or plant-protein evidence review. Their protein targets, per-meal leucine range, collagen dose, short skin timeline, leucine-mTOR-acne pathway, menstrual-cycle claim, bone-broth composition comments, high-protein diet preference, and proposed water-shift explanation therefore remain source-scoped. Kidney or liver disease, allergy, pregnancy, adolescence, older age, eating disorders, training demands, dietary restrictions, and other clinical contexts can change appropriate protein intake and source selection.
+The bounded evidence comes from four podcast episodes, not a systematic review or individualized nutrition, dermatology, or medical assessment. They do not provide study populations, methods, effect sizes, collagen formulation, or a complete acne or plant-protein evidence review. Their protein targets, per-meal leucine range, collagen dose, short skin timeline, leucine-mTOR-acne pathway, menstrual-cycle claim, bone-broth composition comments, high-protein diet preference, and proposed water-shift explanation therefore remain source-scoped. Kidney or liver disease, allergy, pregnancy, adolescence, older age, eating disorders, training demands, dietary restrictions, and other clinical contexts can change appropriate protein intake and source selection.
 
 ## What Changed
-- Added the dermatology interview's uncertainty about whether collagen itself explains reported aesthetic effects.
-- Preserved complete-protein adequacy and established skin care above supplement-specific inference.
+- Added a second source distinguishing efficient animal proteins from workable, deliberately blended plant proteins.
+- Strengthened the boundary between collagen's proposed appearance or connective-tissue role and muscle-building protein.
 
 ## Related Concepts
 - [[ProteinBodyCompositionLever]] - broader protein-intake hierarchy that this source-selection concept refines.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10709
+wiki_total_pages: 10710
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "GabrieleDAnnunzio"
     title: "Gabriele D'Annunzio"
     url: "/wiki/entities/gabrieledannunzio/"
+  - key: "GabrielleLyon"
+    title: "Gabrielle Lyon"
+    url: "/wiki/entities/gabriellelyon/"
   - key: "GabrielleSantos"
     title: "Gabrielle Santos"
     url: "/wiki/entities/gabriellesantos/"

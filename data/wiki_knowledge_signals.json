@@ -43612,9 +43612,9 @@
       "url": "/wiki/concepts/exercisemedicalaestheticboundary/"
     },
     "ExercisePillarsForLongevity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5907126956 [SCIM5907126956].md",
@@ -43629,9 +43629,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Assess & Improve All Aspects of Your Fitness | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-how-to-assess-improve-all-aspects-of-your-fitness-dr-andy-galpin-scim5641095924/"
+        },
+        {
+          "episode_file": "SCIM2049739871 [SCIM2049739871].md",
+          "key": "how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871",
+          "show": "Huberman Lab",
+          "title": "How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon",
+          "url": "/wiki/sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/exercisepillarsforlongevity/"
     },
     "ExerciseRecoveryReadiness": {
@@ -51817,6 +51824,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/gabrieledannunzio/"
+    },
+    "GabrielleLyon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2049739871 [SCIM2049739871].md",
+          "key": "how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871",
+          "show": "Huberman Lab",
+          "title": "How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon",
+          "url": "/wiki/sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/gabriellelyon/"
     },
     "GaiChanggongzhuWesternHan": {
       "episode_count": 3,
@@ -94115,9 +94138,9 @@
       "url": "/wiki/entities/mureka/"
     },
     "MuscleAsLongevityInfrastructure": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "中年三账户：现金流、肌肉、睡眠 [lnyOmrU5v2YZO1-oTUyw2MDJ_VaE].md",
@@ -94160,9 +94183,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin",
           "url": "/wiki/sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592/"
+        },
+        {
+          "episode_file": "SCIM2049739871 [SCIM2049739871].md",
+          "key": "how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871",
+          "show": "Huberman Lab",
+          "title": "How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon",
+          "url": "/wiki/sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
     },
     "MusePersonalAgent": {
@@ -107761,9 +107791,9 @@
       "url": "/wiki/concepts/prostatescreeninginterpretation/"
     },
     "ProteinBodyCompositionLever": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7693897484 [SCIM7693897484].md",
@@ -107792,9 +107822,16 @@
           "show": "Huberman Lab",
           "title": "Tools for Nutrition & Fitness | Dr. Layne Norton",
           "url": "/wiki/sources/tools-for-nutrition-fitness-dr-layne-norton-scim5519161031/"
+        },
+        {
+          "episode_file": "SCIM2049739871 [SCIM2049739871].md",
+          "key": "how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871",
+          "show": "Huberman Lab",
+          "title": "How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon",
+          "url": "/wiki/sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/proteinbodycompositionlever/"
     },
     "ProteinLanguageModels": {
@@ -107814,9 +107851,9 @@
       "url": "/wiki/concepts/proteinlanguagemodels/"
     },
     "ProteinSourceGoalMatching": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5207600786 [SCIM5207600786].md",
@@ -107838,9 +107875,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
           "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        },
+        {
+          "episode_file": "SCIM2049739871 [SCIM2049739871].md",
+          "key": "how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871",
+          "show": "Huberman Lab",
+          "title": "How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon",
+          "url": "/wiki/sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/proteinsourcegoalmatching/"
     },
     "ProteinSupplyChainMarketFit": {

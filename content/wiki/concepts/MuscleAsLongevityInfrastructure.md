@@ -9,7 +9,8 @@ sources:
   - ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592
-last_updated: 2026-09-24
+  - how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -29,6 +30,8 @@ A mechanism-and-programming layer makes the infrastructure metaphor more operati
 
 The Galpin follow-up makes power and schedule resilience part of that reserve. It says muscle size, strength, and especially power decline at different rates with age, so later-life independence depends on producing force quickly enough to stand, move, and recover from a stumble, not merely retaining visible mass. It also argues that meaningful progress remains possible even for people starting very late, while keeping the cited decline rates and over-90 response source-scoped.
 
+The Lyon interview adds a metabolic and endocrine layer. Muscle is framed as a major glucose-disposal and nutrient-sensing organ whose contractions affect substrate handling and signaling, while inactivity can degrade health before visible muscle loss is obvious. This strengthens the infrastructure judgment but does not make muscle a single-cause explanation for obesity or metabolic disease, and it does not turn Lyon's protein, carbohydrate, step-count, or training targets into universal prescriptions.
+
 ## Key Claims
 - Muscle quantity and strength are not the same as visible leanness or aesthetic lines.
 - Muscle loss can be hard to notice in the mirror, while strength, power, and functional capacity may decline faster than expected.
@@ -36,7 +39,7 @@ The Galpin follow-up makes power and schedule resilience part of that reserve. I
 - Protein intake supports the muscle account by helping preserve or build lean mass across dieting, maintenance, and surplus phases.
 - Rapid weight loss or GLP-1 treatment can weaken the muscle account when lean mass and work capacity fall along with fat.
 - Creatine monohydrate is a comparatively strong supplement case for healthy people, but it remains secondary to training, protein, recovery, and tolerance.
-- Practical adherence matters, and power plus neural function belong to the reserve because rapid force helps with standing, movement confidence, and stumble recovery.
+- Practical adherence matters, and metabolic function, power, and neural function all belong to the reserve because contraction supports substrate handling while rapid force helps with standing, movement confidence, and stumble recovery.
 
 ## Evidence
 - Reserve account: [[zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae]] treats muscle as one of three midlife accounts and says skeletal muscle supports posture, glucose handling, recovery from illness, fall prevention, and older-age independence.
@@ -47,14 +50,16 @@ The Galpin follow-up makes power and schedule resilience part of that reserve. I
 - GLP-1 weight-loss boundary: [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] warns that weight loss from GLP-1 treatment may include muscle loss, especially concerning for older or lower-weight people seeking appearance change; [[ep384-putongren-yeneng-dadeqi-de-simeigelutai-jianfeizhen-yizhen-shou-shijin-beihou-de-zhenxiang-yu-dai-gkwrijioy4fgagzlwgtmhwgy]] adds an example where a surgeon's post-injection muscle decline affected long standing at work and uses protein plus anaerobic strength training as the practical support frame.
 - Nervous-system and training layer: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] connects muscle to breathing, posture, movement, and longevity, then says strength and hypertrophy can be developed across a broad load range when recruitment, effort, weekly volume, and recovery are sufficient.
 - Aging and power layer: [[essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592]] presents resistance training as a response to age-related neuromuscular decline, emphasizes power and independence, and reports meaningful training responses even after age 90.
+- Metabolic and endocrine layer: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] describes muscle as a major glucose-disposal, nutrient-sensing, amino-acid-reserve, and myokine-signaling organ and pairs that account with regular contraction and resistance training.
+- Catabolic-crisis layer: [[how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871]] links strength and power reserve to falls, bed rest, pneumonia, hip fracture, and incomplete functional recovery after illness or injury.
 
 ## Counterevidence & Qualifications
-The sources are public podcast notes, not individualized strength, nutrition, geriatric, obesity-medicine, diabetes, or clinical guidance. The episode's age-related decline rates and older-adult response figures lack study details in the supplied note and are not population guarantees. Injury history, disability, kidney or liver disease, pregnancy, adolescence, eating disorders, frailty, medication use, GLP-1 treatment, sport demands, occupation, and rehabilitation needs can change appropriate training, protein, and supplement choices. The concept also should not collapse muscle infrastructure into visible physique, scale weight, or maximal training volume.
+The sources are public podcast notes, not individualized strength, nutrition, geriatric, obesity-medicine, diabetes, or clinical guidance. The episodes' age-related decline rates, older-adult response figures, glucose-disposal estimate, step threshold, protein and carbohydrate targets, and supplement claims lack enough study detail here to serve as population guarantees. Injury history, disability, kidney or liver disease, pregnancy, adolescence, eating disorders, frailty, medication use, GLP-1 treatment, sport demands, occupation, and rehabilitation needs can change appropriate training, protein, and supplement choices. The concept also should not collapse muscle infrastructure into visible physique, scale weight, maximal training volume, or a claim that all metabolic disease begins primarily in muscle.
 
 ## What Changed
-- Added muscular power and rapid force as reserve capacities for independence and stumble recovery.
-- Added the late-start qualification that meaningful adaptation can remain possible in advanced age.
-- Kept age-decline rates and older-adult response figures source-scoped.
+- Expanded muscle reserve from mass and function to include contraction-mediated metabolic and endocrine roles.
+- Added catabolic crises as moments when prior strength and power reserve can determine recovery trajectory.
+- Kept the muscle-centered disease model and all numeric protocols source-scoped.
 
 ## Related Concepts
 - [[MidlifeThreeAccounts]] - parent account framework.

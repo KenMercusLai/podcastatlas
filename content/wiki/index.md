@@ -2804,6 +2804,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
 - [VOL.119黑灯：脱口秀哪有现实荒谬，疾病致盲，城市设施制障｜一期讲懂Stargardt病](sources/vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq.md) — 这病说来话长 episode on Stargardt disease, color-vision deficiency, disability adaptation, user-centered accessibility, and patient-led rare-disease information.
 
+- [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
+
 ## Entities
 - [1945 British General Election](entities/BritishGeneralElection1945.md) — Labour landslide used to distinguish postwar demand and prior legitimacy from Churchill's famous campaign mistake.
 - [1992 British General Election](entities/BritishGeneralElection1992.md) — Conservative victory used as a case of advertising amplifying prior tax anxiety and candidate-format fit.
@@ -13524,6 +13526,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [黑灯 / Hei Deng](entities/HeiDeng.md) — Comedian and podcaster connecting inherited visual loss to adaptation, accessibility, storytelling, and rare-disease organizing.
 - [尹鑫 / Yin Xin (nutrition guest)](entities/YinXinNutritionGuest.md) — Disambiguated nutrition guest explaining congenital red-green color-vision difference through lived function.
 - [青少年黄斑变性关爱中心 / Juvenile Macular Degeneration Care Center](entities/JuvenileMacularDegenerationCareCenter.md) — Patient- and family-led information initiative for juvenile inherited macular disease.
+
+- [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
 - [British Election Campaign Effects](concepts/BritishElectionCampaignEffects.md) — Conditional framework separating confirmation, amplification, and leader-exposure effects from pre-campaign conditions.
