@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8037
+wiki_total_pages: 8039
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -401,6 +401,9 @@ wiki_pages:
   - key: "CeramicLivestreamCommerceRisk"
     title: "Ceramic Livestream Commerce Risk / 陶瓷直播电商风险"
     url: "/wiki/concepts/ceramiclivestreamcommercerisk/"
+  - key: "CervicalCurvePostureManagement"
+    title: "Cervical Curve and Posture Management / 颈椎曲度与姿势管理"
+    url: "/wiki/concepts/cervicalcurveposturemanagement/"
   - key: "CeutaImperialBorderland"
     title: "Ceuta Imperial Borderland / 休达帝国边地"
     url: "/wiki/concepts/ceutaimperialborderland/"

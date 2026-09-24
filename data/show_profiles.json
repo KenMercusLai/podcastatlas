@@ -3444,7 +3444,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 60,
+      "source_note_count": 61,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3475,16 +3475,16 @@
           "episode_count": 19
         },
         {
-          "key": "XueXiaofan",
-          "title": "薛小凡 / Xue Xiaofan",
-          "url": "/wiki/entities/xuexiaofan/",
-          "kind": "person",
-          "episode_count": 4
-        },
-        {
           "key": "MaHaoning",
           "title": "马浩宁 / Ma Haoning",
           "url": "/wiki/entities/mahaoning/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
+          "key": "XueXiaofan",
+          "title": "薛小凡 / Xue Xiaofan",
+          "url": "/wiki/entities/xuexiaofan/",
           "kind": "person",
           "episode_count": 4
         },

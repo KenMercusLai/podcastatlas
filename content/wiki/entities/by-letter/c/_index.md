@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10682
+wiki_total_pages: 10683
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1679,6 +1679,9 @@ wiki_pages:
   - key: "ChunyuDoctor"
     title: "春雨医生"
     url: "/wiki/entities/chunyudoctor/"
+  - key: "CaoBuGuiPodcastGuest"
+    title: "曹不贵 / Cao Bugui (Podcast Guest)"
+    url: "/wiki/entities/caobuguipodcastguest/"
   - key: "CaoPi"
     title: "曹丕 / Cao Pi"
     url: "/wiki/entities/caopi/"

@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-23
-as_of_overview_commit: 7136355069b303bc27683c85fe87883e8014b83a
-input_digest: 53692b5cb7d9b08ffa2f1ddeff7efcc787689c54126909f7e2101e55f3ff4146
+last_updated: 2026-09-24
+as_of_overview_commit: 1dc774d4df9ee08bf53fbb61d62141fe86c9718c
+input_digest: 46177d35a6c72dfa477aa93f9c075de2c8af30d5bb13fe63ff374a12d760a268
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws.
 
 ## Cross-source Findings
 
@@ -108,15 +108,16 @@ The trauma-oriented material reframes overcontrol, fawning, shame, emotional fla
 
 ### Body And Movement Build Regulation And Self Trust
 
-[[EmbodiedAnxietyRegulation]], [[BodyBasedSelfTrust]], and [[BoxingAsEmbodiedAgency]] present bodily sensation, movement, breath, warmth, contact, sparring, ritual, and present-oriented grounding as routes for rebuilding self-trust after anxiety, chronic alarm, or head-only rumination.
+[[EmbodiedAnxietyRegulation]], [[BodyBasedSelfTrust]], and [[BoxingAsEmbodiedAgency]] present bodily sensation, movement, breath, warmth, contact, sparring, ritual, and present-oriented grounding as routes for rebuilding self-trust after anxiety, chronic alarm, or head-only rumination; [[SpineRehabilitationProgression]] adds that temporary relief and posture awareness should lead toward gradual capacity rather than cure claims or rigid self-monitoring.
 
-**Evidence:** [[EmbodiedAnxietyRegulation]], [[BodyBasedSelfTrust]], [[BoxingAsEmbodiedAgency]], [[Innerworld]], [[EmotionRegulationToolkit]], [[ActionAgainstAnxiety]], [[BrainBodyEmotionMapping]], [[shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg]]
+**Evidence:** [[EmbodiedAnxietyRegulation]], [[BodyBasedSelfTrust]], [[BoxingAsEmbodiedAgency]], [[Innerworld]], [[EmotionRegulationToolkit]], [[ActionAgainstAnxiety]], [[BrainBodyEmotionMapping]], [[shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg]], [[SpineRehabilitationProgression]], [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]]
 
 **Qualifications:**
 
 - Embodied practices work best as repeated regulation habits, not one-time fixes.
 - Physical approaches should be adapted to health status and are not replacements for needed professional care.
 - Sparring, ritual, and intense body practice require consent, coaching, and community safety rather than generic toughness.
+- VOL.123's posture, exercise, comfort-aid, and symptom-escalation claims are public medical education rather than individualized rehabilitation guidance.
 
 ### Emotion Regulation Starts With Noticing Pausing And Support
 

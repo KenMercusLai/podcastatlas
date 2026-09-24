@@ -22132,3 +22132,11 @@ Added source `468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154`;
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | VOL.123医生，我这脖子疼和腰疼还有救吗？😭
+
+Added source `vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2`; created `CaoBuGuiPodcastGuest`, `CervicalCurvePostureManagement`, and `SpineComfortAdjunctBoundary`; updated `MaHaoning`, `GaoJiachengPodcastGuest`, `SymptomDrivenSpineCare`, `SpineRehabilitationProgression`, `SedentaryBehaviorInterruption`, and `ExerciseAssistiveGearBoundary`; and updated the index. Core synthesis: common neck and lower-back complaints should be interpreted through symptoms, neurological function, daily impairment, posture exposure, and gradual capacity building, while pillows, heat, massage, collars, and lumbar supports remain bounded aids rather than structural cures. No settled contradiction found; cervical-curvature reversibility, disc resorption, manual-treatment effects, pillow sizing, vehicle neck-cushion risk, and exercise choices remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

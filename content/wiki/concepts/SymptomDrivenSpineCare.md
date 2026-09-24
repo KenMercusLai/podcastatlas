@@ -5,6 +5,7 @@ tags: [healthcare, orthopedics, diagnosis, medical-literacy]
 sources:
   - vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg
   - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
+  - vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ The McGill episode widens this into an assessment-before-intervention rule. The 
 
 Together the sources make spine care an iterative reasoning process. Imaging, symptom pattern, neurological status, goals, provocative testing, and response to modified movement each contribute evidence; none authorizes a generic exercise, manual treatment, rest period, or operation by itself.
 
+VOL.123 extends the same boundary from lumbar-disc morphology to cervical curvature, mild degeneration, muscle fatigue, massage, and everyday comfort products. It frames conservative care as the usual starting point for many mild-to-moderate complaints while keeping severe pain, numbness, impaired walking, neurological dysfunction, and major daily impairment inside qualified assessment and possible surgical discussion.
+
 ## Key Claims
 - Imaging report language is an input to care, not a complete severity score or treatment order.
 - Pain behavior, functional loss, neurological signs, and bowel or bladder changes determine urgency more directly than morphology alone.
@@ -28,13 +31,14 @@ Together the sources make spine care an iterative reasoning process. Imaging, sy
 - Lower pain does not prove recovery when weakness or foot-lift difficulty appears.
 - Conservative care and graded movement can fit some improving cases, while severe, persistent, or neurologically dangerous symptoms require timely clinical judgment.
 - Sensitized or trauma-linked pain may not behave like a simple mechanical lesion.
-- Public podcast guidance cannot replace examination, imaging interpretation, or individualized rehabilitation planning.
+- Temporary relief from massage, heat, pillows, or supports does not by itself establish diagnosis, structural correction, or durable recovery.
 
 ## Evidence
 - Imaging-versus-symptom hierarchy: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] explains why degenerative change, protrusion, extrusion, and sequestration vary in practical meaning.
 - Neurological escalation: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] prioritizes motor weakness and bowel or bladder dysfunction over reassurance from pain alone.
 - Trigger-based assessment: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] begins with goals and pain behavior, then uses provocative testing and movement changes to investigate mechanical pathways.
 - Pain-complexity boundary: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] describes sensitization and trauma-linked pain patterns that may require gentle pain-free exposure rather than a straightforward tissue diagnosis.
+- Cervical and adjunct boundary: [[vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2]] separates curvature and degeneration labels from symptom severity and distinguishes short-term comfort from long-term capacity or surgical indication.
 
 ## Counterevidence & Qualifications
 Neither source supplies a complete diagnostic algorithm. Provocative testing can inform a qualified assessment but should not be treated as proof that unreproduced pain is nonphysical or safe to ignore. Severe or worsening pain, trauma, fever or systemic illness, progressive weakness, saddle sensory change, or bowel and bladder dysfunction requires appropriate clinical evaluation.
@@ -42,6 +46,7 @@ Neither source supplies a complete diagnostic algorithm. Provocative testing can
 ## What Changed
 - Added mechanism testing, exposure history, goals, and movement-response evidence to the existing imaging-versus-symptom hierarchy.
 - Added the qualification that sensitized and trauma-linked pain may not follow a simple mechanical pattern.
+- Extended the hierarchy to cervical curvature, comfort aids, walking stability, and daily impairment.
 
 ## Related Concepts
 - [[LumbarDiscHerniation]] - condition where structure, symptoms, and function must be interpreted together.
@@ -50,3 +55,5 @@ Neither source supplies a complete diagnostic algorithm. Provocative testing can
 - [[MedicalDiagnosticReasoning]] - broader discipline joining history, examination, tests, and follow-up.
 - [[MedicalRiskManagement]] - safety frame for low-probability but severe neurological outcomes.
 - [[DoctorPatientCommunication]] - channel for reporting symptom duration, function, triggers, and treatment response.
+- [[CervicalCurvePostureManagement]] - cervical application of the structure-symptom-function boundary.
+- [[SpineComfortAdjunctBoundary]] - separates symptom relief from diagnosis and structural correction.

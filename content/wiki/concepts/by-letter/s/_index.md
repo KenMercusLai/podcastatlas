@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8037
+wiki_total_pages: 8039
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "SpeechLanguageRehabilitation"
     title: "Speech-Language Rehabilitation"
     url: "/wiki/concepts/speechlanguagerehabilitation/"
+  - key: "SpineComfortAdjunctBoundary"
+    title: "Spine Comfort Adjunct Boundary / 脊柱舒适辅助措施边界"
+    url: "/wiki/concepts/spinecomfortadjunctboundary/"
   - key: "SpineRehabilitationProgression"
     title: "Spine Rehabilitation Progression / 脊柱康复循序渐进"
     url: "/wiki/concepts/spinerehabilitationprogression/"
