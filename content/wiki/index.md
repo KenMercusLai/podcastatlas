@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [465. The Murder of Franz Ferdinand: The Killer (Part 1)](sources/465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580.md) — The Rest Is History episode on Princip's rural childhood, Sarajevo schooling, Young Bosnia radicalization, South Slav nationalism, and Bogdan Zerajic's martyr example.
 - [Finding common ground in the U.S.-China AI rivalry](sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md) — Marketplace Tech interview with Sam Sachs on competitive AI-safety incentives, regulation and innovation in China, export-control feedback, and narrow technical cooperation.
 - [Home disadvantage: risks in housing markets](sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e.md) — The Intelligence episode on renewed housing rate-shock vulnerability, weak early effects from Australia's under-16 social-media ban, and Fauda season five as a partial witness to Israeli trauma.
 - [总第072期：我是千禧年的孩子，我是消费主义者](sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211.md) — 读报teleread episode connecting stored objects, impossible shopping, sophistication, advertising, and millennial optimism through future-self projection and the ethics of influenced desire.
@@ -2801,6 +2802,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
 
 ## Entities
+- [Young Bosnia](entities/YoungBosnia.md) — Loose student and intellectual milieu that gave Princip's South Slav nationalism a radical social language without itself supplying a clear operational command.
+- [Danilo Illich](entities/DaniloIllich.md) — Older Sarajevo friend who connected Princip's literary interests to revolutionary texts and a radical peer network.
+- [Bogdan Zerajic](entities/BogdanZerajic.md) — Failed assassin whose 1910 attack, suicide, and posthumous heroization became Princip's martyr model.
 - [Sam Sachs](entities/SamSachs.md) — New America senior fellow analyzing Chinese technology policy and practical U.S.-China AI cooperation.
 - [New America](entities/NewAmerica.md) — Public-policy institution represented by Sam Sachs in the U.S.-China AI rivalry discussion.
 - [Fauda](entities/Fauda.md) — Israeli thriller whose fifth season is read as an emotionally immediate but deliberately partial portrait of post-October-7 trauma.
@@ -13511,6 +13515,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maropost](entities/Maropost.md) — Bootstrapped marketing-automation and e-commerce SaaS company shaped by responsive service, founder-led sales, investor conflict, and acquisitions.
 
 ## Concepts
+- [Political Martyr Emulation](concepts/PoliticalMartyrEmulation.md) — Process by which commemorated violent failure and self-sacrifice become a repeatable script for later radicals.
 - [U.S.-China AI Technical Cooperation](concepts/USChinaAITechnicalCooperation.md) — Narrow expert, standards, and private-sector work on shared AI and cybersecurity risks despite strategic rivalry.
 - [AI Regulation-Innovation Compatibility](concepts/AIRegulationInnovationCompatibility.md) — Qualified claim that AI safeguards and continued innovation can coexist without making every regulatory model desirable or transferable.
 - [Housing Rate-Shock Vulnerability](concepts/HousingRateShockVulnerability.md) — Model of how mortgage terms, household savings, and housing supply determine the transmission of higher rates into payments, activity, and prices.

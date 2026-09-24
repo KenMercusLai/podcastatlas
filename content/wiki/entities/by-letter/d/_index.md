@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10698
+wiki_total_pages: 10701
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "DanielleArras"
     title: "Danielle Arras"
     url: "/wiki/entities/daniellearras/"
+  - key: "DaniloIllich"
+    title: "Danilo Illich"
+    url: "/wiki/entities/daniloillich/"
   - key: "DanjiangkouReservoir"
     title: "Danjiangkou Reservoir / 丹江口水库"
     url: "/wiki/entities/danjiangkoureservoir/"

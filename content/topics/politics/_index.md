@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2681
+topic_total_pages: 2682
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -2629,6 +2629,9 @@ topic_concepts:
   - key: "PoliticalInformationLatency"
     title: "Political Information Latency"
     url: "/wiki/concepts/politicalinformationlatency/"
+  - key: "PoliticalMartyrEmulation"
+    title: "Political Martyr Emulation"
+    url: "/wiki/concepts/politicalmartyremulation/"
   - key: "PoliticalMemeStock"
     title: "Political Meme Stock"
     url: "/wiki/concepts/politicalmemestock/"

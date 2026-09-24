@@ -1710,6 +1710,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792": [
     {
       "key": "history",
@@ -55857,6 +55864,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PoliticalMartyrEmulation": [
     {
       "key": "politics",
       "label": "Politics",

@@ -22248,3 +22248,11 @@ Added source `tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 465. The Murder of Franz Ferdinand: The Killer (Part 1)
+
+Added source `465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580`; created `YoungBosnia`, `DaniloIllich`, `BogdanZerajic`, and `PoliticalMartyrEmulation`; rewrote `GavriloPrincip` from its complete bounded source set; and updated the index. Core synthesis: Princip's path from rural poverty to Sarajevo radicalism joined educational mobility and literary ambition to unstable student life, South Slav nationalism, a loose peer network, and Zerajic's martyr example, while none of those factors alone made later violence inevitable or supplied its operational capability. No settled contradiction found; biographical anecdotes, psychological reconstruction, the arrest photograph, population figures, and details of Zerajic's posthumous treatment remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

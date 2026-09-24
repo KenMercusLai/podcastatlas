@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8071
+wiki_total_pages: 8072
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -896,6 +896,9 @@ wiki_pages:
   - key: "PoliticalMarriageAllianceHedging"
     title: "Political Marriage Alliance Hedging / 政治联姻式同盟对冲"
     url: "/wiki/concepts/politicalmarriagealliancehedging/"
+  - key: "PoliticalMartyrEmulation"
+    title: "Political Martyr Emulation"
+    url: "/wiki/concepts/politicalmartyremulation/"
   - key: "PoliticalMemeStock"
     title: "Political Meme Stock"
     url: "/wiki/concepts/politicalmemestock/"
