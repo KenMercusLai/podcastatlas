@@ -6,14 +6,23 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10703
+wiki_total_pages: 10706
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
     url: "/wiki/entities/becausesong/"
+  - key: "BritishGeneralElection1945"
+    title: "1945 British General Election"
+    url: "/wiki/entities/britishgeneralelection1945/"
   - key: "BlueMarblePhoto"
     title: "1967 Whole-Earth Color Image / Blue Marble Source-Scoped"
     url: "/wiki/entities/bluemarblephoto/"
+  - key: "BritishGeneralElection1992"
+    title: "1992 British General Election"
+    url: "/wiki/entities/britishgeneralelection1992/"
+  - key: "BritishGeneralElection2017"
+    title: "2017 British General Election"
+    url: "/wiki/entities/britishgeneralelection2017/"
   - key: "BSpecials"
     title: "B Specials"
     url: "/wiki/entities/bspecials/"

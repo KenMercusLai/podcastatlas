@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8073
+wiki_total_pages: 8077
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "ElectoralMandate"
     title: "Electoral Mandate"
     url: "/wiki/concepts/electoralmandate/"
+  - key: "ElectoralOutcomeMythmaking"
+    title: "Electoral Outcome Mythmaking"
+    url: "/wiki/concepts/electoraloutcomemythmaking/"
   - key: "ElectricGridModernizationBottleneck"
     title: "Electric Grid Modernization Bottleneck"
     url: "/wiki/concepts/electricgridmodernizationbottleneck/"

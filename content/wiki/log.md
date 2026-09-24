@@ -22264,3 +22264,11 @@ Added source `vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-lia
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 464. Modern British Elections (Part 2)
+
+Added source `464-modern-british-elections-part-2-glt4046145085`; created `BritishGeneralElection1945`, `BritishGeneralElection1992`, `BritishGeneralElection2017`, `BritishElectionCampaignEffects`, `MassPoliticalCampaigning`, `ElectoralOutcomeMythmaking`, and `FirstPastThePostBlocSplitting`; and updated `ControlledTelevisionCampaign` from its complete bounded source set. Core synthesis: formal campaigns usually confirm or amplify conditions already present, but can matter when they intensify a credible fear or expose a leader weakness; vivid events should not be treated as sufficient causes without timing and prior-condition evidence. No settled contradiction found. Polling movements, transfer assumptions, turnout motives, media effects, and counterfactual results remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

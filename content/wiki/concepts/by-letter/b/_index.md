@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8073
+wiki_total_pages: 8077
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -653,6 +653,9 @@ wiki_pages:
   - key: "BritishECReferendum1975"
     title: "British EC Referendum 1975"
     url: "/wiki/concepts/britishecreferendum1975/"
+  - key: "BritishElectionCampaignEffects"
+    title: "British Election Campaign Effects"
+    url: "/wiki/concepts/britishelectioncampaigneffects/"
   - key: "BritishForeignPolicyAmbiguity1914"
     title: "British Foreign-Policy Ambiguity in 1914"
     url: "/wiki/concepts/britishforeignpolicyambiguity1914/"

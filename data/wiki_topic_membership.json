@@ -1710,6 +1710,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "464-modern-british-elections-part-2-glt4046145085": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580": [
     {
       "key": "history",
@@ -13725,12 +13742,40 @@
       "url": "/topics/politics/"
     }
   ],
+  "BritishElectionCampaignEffects": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BritishForeignPolicyAmbiguity1914": [
     {
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishGeneralElection1945": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishGeneralElection1992": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishGeneralElection2017": [
     {
       "key": "politics",
       "label": "Politics",
@@ -24837,6 +24882,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ElectoralOutcomeMythmaking": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ElectricGridModernizationBottleneck": [
     {
       "key": "technology",
@@ -28315,6 +28367,13 @@
     }
   ],
   "FirstPartySystem": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FirstPastThePostBlocSplitting": [
     {
       "key": "politics",
       "label": "Politics",
@@ -46833,6 +46892,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "MassPoliticalCampaigning": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MassProducedAIIntimacy": [

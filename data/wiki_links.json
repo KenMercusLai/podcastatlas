@@ -1107,6 +1107,10 @@
     "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
     "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
   },
+  "464-modern-british-elections-part-2-glt4046145085": {
+    "title": "464. Modern British Elections (Part 2)",
+    "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+  },
   "465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580": {
     "title": "465. The Murder of Franz Ferdinand: The Killer (Part 1)",
     "url": "/wiki/sources/465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580/"
@@ -10135,9 +10139,25 @@
     "title": "British EC Referendum 1975",
     "url": "/wiki/concepts/britishecreferendum1975/"
   },
+  "BritishElectionCampaignEffects": {
+    "title": "British Election Campaign Effects",
+    "url": "/wiki/concepts/britishelectioncampaigneffects/"
+  },
   "BritishForeignPolicyAmbiguity1914": {
     "title": "British Foreign-Policy Ambiguity in 1914",
     "url": "/wiki/concepts/britishforeignpolicyambiguity1914/"
+  },
+  "BritishGeneralElection1945": {
+    "title": "1945 British General Election",
+    "url": "/wiki/entities/britishgeneralelection1945/"
+  },
+  "BritishGeneralElection1992": {
+    "title": "1992 British General Election",
+    "url": "/wiki/entities/britishgeneralelection1992/"
+  },
+  "BritishGeneralElection2017": {
+    "title": "2017 British General Election",
+    "url": "/wiki/entities/britishgeneralelection2017/"
   },
   "BritishMediaExclusionOnlineAmplification": {
     "title": "British Media Exclusion Online Amplification",
@@ -21107,6 +21127,10 @@
     "title": "Electoral Mandate",
     "url": "/wiki/concepts/electoralmandate/"
   },
+  "ElectoralOutcomeMythmaking": {
+    "title": "Electoral Outcome Mythmaking",
+    "url": "/wiki/concepts/electoraloutcomemythmaking/"
+  },
   "ElectricAir": {
     "title": "Electric Air",
     "url": "/wiki/entities/electricair/"
@@ -24394,6 +24418,10 @@
   "FirstPartySystem": {
     "title": "First Party System",
     "url": "/wiki/concepts/firstpartysystem/"
+  },
+  "FirstPastThePostBlocSplitting": {
+    "title": "First-Past-the-Post Bloc Splitting",
+    "url": "/wiki/concepts/firstpastthepostblocsplitting/"
   },
   "FirstPersonAIMemory": {
     "title": "First-Person AI Memory / 第一视角AI记忆",
@@ -43218,6 +43246,10 @@
   "MassParticipationSportsEventMoat": {
     "title": "Mass Participation Sports Event Moat",
     "url": "/wiki/concepts/massparticipationsportseventmoat/"
+  },
+  "MassPoliticalCampaigning": {
+    "title": "Mass Political Campaigning",
+    "url": "/wiki/concepts/masspoliticalcampaigning/"
   },
   "MassProducedAIIntimacy": {
     "title": "Mass-Produced AI Intimacy",

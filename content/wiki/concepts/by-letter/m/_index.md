@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8073
+wiki_total_pages: 8077
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "MassParticipationSportsEventMoat"
     title: "Mass Participation Sports Event Moat"
     url: "/wiki/concepts/massparticipationsportseventmoat/"
+  - key: "MassPoliticalCampaigning"
+    title: "Mass Political Campaigning"
+    url: "/wiki/concepts/masspoliticalcampaigning/"
   - key: "MassRetailProductionDeadline"
     title: "Mass Retail Production Deadline"
     url: "/wiki/concepts/massretailproductiondeadline/"

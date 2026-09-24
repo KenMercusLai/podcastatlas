@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [464. Modern British Elections (Part 2)](sources/464-modern-british-elections-part-2-glt4046145085.md) — The Rest Is History episode on weak average campaign effects, the 1945–2017 exceptions, electoral mythmaking, first-past-the-post vote splitting, and the shift from mass meetings to managed media.
 - [VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事](sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla.md) — 这病说来话长 episode on 120 dispatch, caller preparation, transport and destination choice, emergency-department handoff, documentation, and ambulance-worker risk.
 - [465. The Murder of Franz Ferdinand: The Killer (Part 1)](sources/465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580.md) — The Rest Is History episode on Princip's rural childhood, Sarajevo schooling, Young Bosnia radicalization, South Slav nationalism, and Bogdan Zerajic's martyr example.
 - [Finding common ground in the U.S.-China AI rivalry](sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md) — Marketplace Tech interview with Sam Sachs on competitive AI-safety incentives, regulation and innovation in China, export-control feedback, and narrow technical cooperation.
@@ -2803,6 +2804,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
 
 ## Entities
+- [1945 British General Election](entities/BritishGeneralElection1945.md) — Labour landslide used to distinguish postwar demand and prior legitimacy from Churchill's famous campaign mistake.
+- [1992 British General Election](entities/BritishGeneralElection1992.md) — Conservative victory used as a case of advertising amplifying prior tax anxiety and candidate-format fit.
+- [2017 British General Election](entities/BritishGeneralElection2017.md) — Campaign reversal used as the clearest modern British case of sustained exposure damaging a leading candidate.
 - [王雪迪 / Wang Xuedi](entities/WangXuedi.md) — Emergency physician explaining ambulance–emergency-department interdependence, repeated dispatch, fatigue, lifting, and field-safety pressure.
 - [贾医生 / Jia Doctor (这病说来话长)](entities/JiaDoctorZheBing.md) — Source-scoped neurosurgeon whose ambulance-collision account connects responder safety with continuity of patient transport.
 - [Young Bosnia](entities/YoungBosnia.md) — Loose student and intellectual milieu that gave Princip's South Slav nationalism a radical social language without itself supplying a clear operational command.
@@ -13518,6 +13522,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maropost](entities/Maropost.md) — Bootstrapped marketing-automation and e-commerce SaaS company shaped by responsive service, founder-led sales, investor conflict, and acquisitions.
 
 ## Concepts
+- [British Election Campaign Effects](concepts/BritishElectionCampaignEffects.md) — Conditional framework separating confirmation, amplification, and leader-exposure effects from pre-campaign conditions.
+- [Mass Political Campaigning](concepts/MassPoliticalCampaigning.md) — Open civic campaign form built around crowds, rallies, heckling, and direct candidate-public encounter.
+- [Electoral Outcome Mythmaking](concepts/ElectoralOutcomeMythmaking.md) — Retrospective compression of complex election results into one vivid event or mistake.
+- [First-Past-the-Post Bloc Splitting](concepts/FirstPastThePostBlocSplitting.md) — Seat penalty from divided adjacent parties, qualified by uncertain counterfactual voter transfers.
 - [Prehospital Emergency Medical Response / 院前急救响应](concepts/PrehospitalEmergencyMedicalResponse.md) — Dispatch-to-handoff framework joining caller information, crew readiness, scene access, destination capability, transport, documentation, and worker safety.
 - [Political Martyr Emulation](concepts/PoliticalMartyrEmulation.md) — Process by which commemorated violent failure and self-sacrifice become a repeatable script for later radicals.
 - [U.S.-China AI Technical Cooperation](concepts/USChinaAITechnicalCooperation.md) — Narrow expert, standards, and private-sector work on shared AI and cybersecurity risks despite strategic rivalry.

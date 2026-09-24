@@ -16430,6 +16430,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/britishecreferendum1975/"
     },
+    "BritishElectionCampaignEffects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/britishelectioncampaigneffects/"
+    },
     "BritishForeignPolicyAmbiguity1914": {
       "episode_count": 1,
       "show_count": 1,
@@ -16445,6 +16461,54 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/britishforeignpolicyambiguity1914/"
+    },
+    "BritishGeneralElection1945": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/britishgeneralelection1945/"
+    },
+    "BritishGeneralElection1992": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/britishgeneralelection1992/"
+    },
+    "BritishGeneralElection2017": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/britishgeneralelection2017/"
     },
     "BritishMediaExclusionOnlineAmplification": {
       "episode_count": 1,
@@ -27715,9 +27779,9 @@
       "url": "/wiki/concepts/controllablechildaccession/"
     },
     "ControlledTelevisionCampaign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3853956463 [GLT3853956463].md",
@@ -27725,9 +27789,16 @@
           "show": "The Rest Is History",
           "title": "513. America in '68: Nixon's Great Comeback (Part 6)",
           "url": "/wiki/sources/513-america-in-68-nixons-great-comeback-part-6-glt3853956463/"
+        },
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/controlledtelevisioncampaign/"
     },
     "ConversationAsSelfRevelation": {
@@ -38729,6 +38800,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/concepts/electoralbackchannelcausationboundary/"
     },
+    "ElectoralOutcomeMythmaking": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/electoraloutcomemythmaking/"
+    },
     "ElectricAssistBicyclePremiumPositioning": {
       "episode_count": 1,
       "show_count": 1,
@@ -47220,6 +47307,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/firstpartysystem/"
+    },
+    "FirstPastThePostBlocSplitting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/firstpastthepostblocsplitting/"
     },
     "FirstPersonAIMemory": {
       "episode_count": 1,
@@ -88920,6 +89023,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/maserati/"
+    },
+    "MassPoliticalCampaigning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4046145085 [GLT4046145085].md",
+          "key": "464-modern-british-elections-part-2-glt4046145085",
+          "show": "The Rest Is History",
+          "title": "464. Modern British Elections (Part 2)",
+          "url": "/wiki/sources/464-modern-british-elections-part-2-glt4046145085/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/masspoliticalcampaigning/"
     },
     "MassProducedAIIntimacy": {
       "episode_count": 1,
