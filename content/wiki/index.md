@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt](sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944.md) — Huberman Lab conversation on phone-based childhood, adolescent developmental vulnerability, youth mental-health evidence, and coordinated family and school interventions.
 - [VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食](sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3.md) — 这病说来话长 episode with 辛晓琪 and 子涵医生 on concert conditioning, home-based super-slow jogging, balanced eating, portion awareness, and anti-deprivation weight habits.
 - [460. The Empress of the Apocalypse](sources/460-the-empress-of-the-apocalypse-glt9103397168.md) — The Rest Is History episode on Theophano, Ottonian-Byzantine marriage diplomacy, sacral queenship, regency, Roman legitimacy, and Otto III's qualified apocalyptic imperial vision.
 - [461. Dragons](sources/461-dragons-glt6416738853.md) — The Rest Is History episode tracing the Western dragon from northern wyrms, classical drakons, and Christian demonology to medieval visual standardization and modern political power.
@@ -4011,8 +4012,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Douyin E-commerce / 抖音电商](entities/DouyinEcommerce.md) — Douyin commerce layer discussed through AI-enabled celebrity voice and likeness infringement, rights pre-review, product/account/live-room confusion, and authorization maintenance.
 - [Zhu Wei / 朱威 (legal scholar)](entities/ZhuWeiLegalScholar.md) — Communication-law and internet-law scholar explaining rights, protected interests, consumer confusion, and authorization boundaries in the Douyin ecommerce infringement episode.
 - [Jiaxu / 嘉旭 (Douyin E-commerce)](entities/JiaxuDouyinEcommerce.md) — Douyin ecommerce platform operator explaining AI-enabled infringement detection, reporting, appeals, authorization records, and false-positive risks.
-- [Jonathan Haidt](entities/JonathanHaidt.md) — Psychologist and public advocate whose The Anxious Generation frames the youth social-media restriction branch.
-- [The Anxious Generation](entities/TheAnxiousGeneration.md) — Jonathan Haidt book used to connect teen mental health, smartphones, social media, childhood independence, and policy restrictions.
+- [Jonathan Haidt](entities/JonathanHaidt.md) — Social psychologist connecting phone-based childhood, adolescent mental health, and coordinated smartphone and social-media policy.
+- [The Anxious Generation](entities/TheAnxiousGeneration.md) — Jonathan Haidt book linking early-2010s youth mental-health trends to developmental displacement and institutional responses.
 - [小齐 / Xiao Qi (Stand-Up Comedian)](entities/XiaoQiStandup.md) — Stand-up comedian whose self-mocking low-education posture anchors the episode's implicit status-performance case.
 - [张俊 / Zhang Jun (Stand-Up Comedian)](entities/ZhangJunStandup.md) — Stand-up comedian whose elite education, accent, vocabulary, and analytic language anchor the episode's explicit status-display case.
 - [史礼芬 / Shi Lifen](entities/ShiLifen.md) — Media creator and panelist used in the episode to discuss knowledge-world vocabulary, phonetics, literary-youth taste, and cultural display.
@@ -13554,6 +13555,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Adolescent Digital Sensitive Period](concepts/AdolescentDigitalSensitivePeriod.md) — Qualified hypothesis that puberty heightens vulnerability to platform reinforcement, social evaluation, identity learning, and cultural models.
+- [Phone-Based Childhood Displacement](concepts/PhoneBasedChildhoodDisplacement.md) — Environmental harm model focused on digital time replacing sleep, independent play, embodied responsibility, and real-world social learning.
 - [Super-Slow Jogging / 超慢跑](concepts/SuperSlowJogging.md) — Low-intensity, conversational-effort jogging built around short steps, relatively high cadence, gradual progression, and low-friction repetition.
 - [Sacral Queenship and Regency](concepts/SacralQueenshipAndRegency.md) — Consecration, intercession, dynastic motherhood, and regency as institutional bases for medieval female political authority.
 - [Byzantine Court Culture Transfer](concepts/ByzantineCourtCultureTransfer.md) — Movement of ceremony, material display, habits, and political style from Constantinople into the Saxon court through Theophano.

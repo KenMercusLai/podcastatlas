@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8098
+wiki_total_pages: 8100
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "PhilosophyWorkplaceSatire"
     title: "Philosophy Workplace Satire"
     url: "/wiki/concepts/philosophyworkplacesatire/"
+  - key: "PhoneBasedChildhoodDisplacement"
+    title: "Phone-Based Childhood Displacement"
+    url: "/wiki/concepts/phonebasedchildhooddisplacement/"
   - key: "PhotoCaptureProvenance"
     title: "Photo Capture Provenance"
     url: "/wiki/concepts/photocaptureprovenance/"

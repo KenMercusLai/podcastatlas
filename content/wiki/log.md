@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt
+
+Added source `how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944`; created `PhoneBasedChildhoodDisplacement` and `AdolescentDigitalSensitivePeriod`; updated `JonathanHaidt`, `TheAnxiousGeneration`, and the index. Core synthesis: the episode treats digital harm as a shift from play-based to phone-based childhood that can displace sleep, autonomy, embodied skill, courtship, conflict resolution, and sustained attention, with puberty proposed as a qualified period of heightened reward, identity, and culture learning. Its four coordinated interventions are delayed smartphones, delayed social-media accounts, phone-free schools, and restored real-world independence and responsibility. No settled contradiction found; population-level causation, a proposed ages 9 to 15 window, sex differences, dopamine mechanisms, long-term rewiring, and intervention effects remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | How to Improve Skin Health & Appearance
 
 Added source `how-to-improve-skin-health-appearance-scim9334288497`; created `InflammatorySkinConditionTriage`; updated `SkinBarrierRoutine`, `UVExposureSkinProtection`, `DermatologicRenewalAndCancerPrevention`, and the index. Core synthesis: skin care is layered across context-sensitive ultraviolet protection, low-irritation barrier maintenance, modest adjuncts, supervised active treatments, and distinct acne, rosacea, and psoriasis mechanisms; lifestyle measures can support those layers but do not replace diagnosis, lesion surveillance, or condition-specific care. No settled contradiction found; hydration language was reconciled around correcting actual dehydration rather than using excess water as a cosmetic treatment, while supplement doses, sunscreen chemistry, laser risk reduction, phototherapy, dietary mechanisms, and treatment details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22340,6 +22344,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食
 
 Added source `vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3`; created `XinXiaoqi` and `SuperSlowJogging`; and updated `ZihanDoctor`, `PracticalBalancedEating`, and `LifestyleWeightManagement` from their complete bounded source sets. Core synthesis: sustainable health habits reduce friction rather than relying on deprivation or maximal intensity—home-based low-intensity movement, gradual progression, retained ordinary meals, and moderate fullness are easier to repeat. No settled contradiction found. The 180-step cadence, fat-use, cardiopulmonary, soreness, blood-glucose, fasting, and longevity-gene explanations remain source-scoped public education rather than individualized exercise or nutrition guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

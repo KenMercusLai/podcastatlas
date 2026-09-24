@@ -5105,6 +5105,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/administrativerenamingoverreach/"
     },
+    "AdolescentDigitalSensitivePeriod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1870541944 [SCIM1870541944].md",
+          "key": "how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944",
+          "show": "Huberman Lab",
+          "title": "How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt",
+          "url": "/wiki/sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/adolescentdigitalsensitiveperiod/"
+    },
     "AdolescentSchoolRefusalMentalHealth": {
       "episode_count": 1,
       "show_count": 1,
@@ -72998,9 +73014,9 @@
       "url": "/wiki/entities/jonathananderson/"
     },
     "JonathanHaidt": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
@@ -73008,9 +73024,16 @@
           "show": "独树不成林",
           "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
           "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        },
+        {
+          "episode_file": "SCIM1870541944 [SCIM1870541944].md",
+          "key": "how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944",
+          "show": "Huberman Lab",
+          "title": "How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt",
+          "url": "/wiki/sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/jonathanhaidt/"
     },
     "JonathanHurst": {
@@ -104075,6 +104098,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/philippines/"
     },
+    "PhoneBasedChildhoodDisplacement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1870541944 [SCIM1870541944].md",
+          "key": "how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944",
+          "show": "Huberman Lab",
+          "title": "How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt",
+          "url": "/wiki/sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/phonebasedchildhooddisplacement/"
+    },
     "PhotoCaptureProvenance": {
       "episode_count": 1,
       "show_count": 1,
@@ -132132,9 +132171,9 @@
       "url": "/wiki/concepts/thatcheritemoralmarketpolitics/"
     },
     "TheAnxiousGeneration": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "luvc8M2kuqKYv2hddFCsE_6ogxym [luvc8M2kuqKYv2hddFCsE_6ogxym].md",
@@ -132142,9 +132181,16 @@
           "show": "独树不成林",
           "title": "351-西方政府禁止青少年使用社交媒体走到哪步了？",
           "url": "/wiki/sources/351-xifang-zhengfu-jinzhi-qingshaonian-shiyong-shejiao-meiti-zoudao-nabu-le-luvc8m2kuqkyv2hddfcse-6ogxym/"
+        },
+        {
+          "episode_file": "SCIM1870541944 [SCIM1870541944].md",
+          "key": "how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944",
+          "show": "Huberman Lab",
+          "title": "How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt",
+          "url": "/wiki/sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/theanxiousgeneration/"
     },
     "TheBeatles": {
