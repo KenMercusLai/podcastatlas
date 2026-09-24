@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1194
+topic_total_pages: 1196
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -850,6 +850,9 @@ topic_concepts:
   - key: "GrowthWitnessing"
     title: "Growth Witnessing / 见证生长"
     url: "/wiki/concepts/growthwitnessing/"
+  - key: "GutSensoryNeuralSignaling"
+    title: "Gut Sensory Neural Signaling"
+    url: "/wiki/concepts/gutsensoryneuralsignaling/"
   - key: "GynecologicalExamDignity"
     title: "Gynecological Exam Dignity / 妇科检查尊严"
     url: "/wiki/concepts/gynecologicalexamdignity/"
@@ -3501,6 +3504,9 @@ topic_sources:
   - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
     title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
     url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+  - key: "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714"
+    title: "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez"
+    url: "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
   - key: "tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958"
     title: "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti"
     url: "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez
+
+Added source `the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714`; created `DiegoBohorquez` and `GutSensoryNeuralSignaling`; and updated `AppetiteHormoneRegulation` and `SugarCravingNeuralControl` from their complete bounded source sets. Core synthesis: nutrient-sensing gut epithelial cells can combine slower endocrine output with rapid neuropod-cell, vagal, and brainstem signaling, while mouse optogenetic experiments support a causal post-ingestive contribution to sugar preference. No settled contradiction found. Bariatric-surgery interpretation, protein and fiber claims, plant medicine, gut rhythms, sound, intuition, and broader mood effects remain source-scoped; the source body's “Diego Borges” is recorded as a transcription error against metadata naming Diego Bohórquez. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-25] ingest | VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题
 
 Added source `vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9`; created `ChildMentalHealthFamilySystemsSupport`, `PediatricFeverHomeCareTriage`, and the source-scoped `SmileAction` entity; and updated `PediatricMyopiaControl`, `AcuteWoundBurnFirstAid`, `LifecycleOralHealthPrevention`, `LifelongSexEducation`, `MedicalImagingCommunicationBoundary`, and `IntensiveCareAsTimeBuying` from their complete bounded source sets. Core synthesis: child health is a linked physical, psychological, safety, family, school, and clinical system; early screening, non-instrumental play, truthful communication, caregiver support, correct first aid and imaging cooperation, and clear escalation boundaries matter more than perfect-parent performance. No settled contradiction found. Ages, timings, doses, imaging comparisons, shielding, surgical and orthodontic timing, costs, and outcomes remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22412,6 +22416,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 455. Fall of the Sioux: The Ghost Dance (Part 2)
 
 Added the episode's account of Sitting Bull's return to a reservation order shaped by bison destruction, ration dependency, coercive assimilation, and public spectacle; Wovoka's peaceful renewal teaching and its uncertain Lakota adaptations; and the feedback among local fear, press sensationalism, electoral politics, and military incentives. Created synthesis-first pages for Wovoka, James McLaughlin, coercive reservation assimilation, and security crisis amplification; updated Sitting Bull, the Lakota people, the Ghost Dance, and frontier violence spectacle from their complete bounded source sets. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary. No settled contradiction found; doctrine transmission, individual motives, numerical claims, and threat assessments remain source-scoped.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

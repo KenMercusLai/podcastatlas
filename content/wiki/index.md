@@ -2822,6 +2822,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [458. Helen of Troy: A Family of Blood (Part 2)](sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131.md) — The Rest Is History episode on Schliemann at Mycenae, Clytemnestra and the Oresteia, and qualified Bronze Age memory beneath Homeric myth.
 
 - [457. Helen of Troy: Queen of the Greek Myths (Part 1)](sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674.md) — The Rest Is History episode on Helen's variant myths, dangerous beauty, agency, cult, and competing explanations of the Trojan War.
+- [The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez](sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714.md) — Huberman Lab interview on gut sensory epithelial cells, rapid neuropod-to-vagus signaling, nutrient preference, appetite, and the limits of broader gut-intuition claims.
 
 ## Entities
 - [Wovoka](entities/Wovoka.md) — Paiute religious teacher whose peaceful renewal message became the basis of the Ghost Dance movement.
@@ -13585,6 +13586,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Menelaus](entities/Menelaus.md) — Spartan husband of Helen whose dynastic dependence and marital claim help turn a household rupture into coalition war.
 - [Paris of Troy](entities/ParisOfTroy.md) — Trojan prince linking Aphrodite's promise, Helen's contested agency, violated hospitality, and wartime escalation.
+- [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
 - [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of material dependency, schools, religion, policing, and land policy to replace Indigenous social and political orders.
@@ -21716,5 +21718,6 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Beauty as Mythic Power](concepts/BeautyAsMythicPower.md) — Framework for exceptional beauty acting through loyalty, prudence, punishment, and public violence inside mythic narrative.
 - [Mythic and Material War Causation](concepts/MythicAndMaterialWarCausation.md) — Contrast between symbolic explanations of war and accounts centered on power, resources, institutions, and political choice.
+- [Gut Sensory Neural Signaling](concepts/GutSensoryNeuralSignaling.md) — Rapid conversion of digestive chemical, thermal, and mechanical conditions into vagal and brainstem signals alongside slower endocrine communication.
 
 ## Syntheses

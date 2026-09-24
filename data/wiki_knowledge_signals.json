@@ -9606,9 +9606,9 @@
       "url": "/wiki/concepts/appareloemverticalintegration/"
     },
     "AppetiteHormoneRegulation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM9260736648 [SCIM9260736648].md",
@@ -9623,6 +9623,13 @@
           "show": "Huberman Lab",
           "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
           "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+        },
+        {
+          "episode_file": "SCIM8970398714 [SCIM8970398714].md",
+          "key": "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714",
+          "show": "Huberman Lab",
+          "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",
+          "url": "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
         }
       ],
       "updated": "2026-09-25",
@@ -34432,6 +34439,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/diestemvansuidafrika/"
     },
+    "DiegoBohorquez": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8970398714 [SCIM8970398714].md",
+          "key": "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714",
+          "show": "Huberman Lab",
+          "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",
+          "url": "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/diegobohorquez/"
+    },
     "DietTrialEquipoise": {
       "episode_count": 1,
       "show_count": 1,
@@ -57839,6 +57862,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/guoziyi/"
+    },
+    "GutSensoryNeuralSignaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8970398714 [SCIM8970398714].md",
+          "key": "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714",
+          "show": "Huberman Lab",
+          "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",
+          "url": "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/gutsensoryneuralsignaling/"
     },
     "GwenShotwell": {
       "episode_count": 2,
@@ -129069,9 +129108,9 @@
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
     },
     "SugarCravingNeuralControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2821501065 [SCIM2821501065].md",
@@ -129079,9 +129118,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
           "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
+        },
+        {
+          "episode_file": "SCIM8970398714 [SCIM8970398714].md",
+          "key": "the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714",
+          "show": "Huberman Lab",
+          "title": "The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez",
+          "url": "/wiki/sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/sugarcravingneuralcontrol/"
     },
     "SuiHongWesternHan": {
