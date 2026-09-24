@@ -22064,3 +22064,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 708. The Terror: The Reign of Robespierre (Part 2)
+
+Added source `708-the-terror-the-reign-of-robespierre-part-2-glt2099451333`; created `GeorgesCouthon`, `LawOfSuspects`, `LeveeEnMasse`, and `ConstitutionOf1793`; updated `MaximilienRobespierre`, `CommitteeOfPublicSafety`, `RevolutionaryTribunal`, `LouisAntoineSaintJust`, `Girondins`, `EmergencyInstitutionsToTerror`, `RevolutionaryTerrorPolitics`, `RevolutionaryVirtuePolitics`, and `CrisisValidatedConspiracyPolitics`; and updated the index. Core synthesis: improvised emergency bodies became explicit state terror through centralized judicial staffing, broadened suspect categories, constitutional suspension, and politically required convictions, while Robespierre's progressive commitments and incorruptible reputation helped make exceptional government appear virtuous and temporary. No settled contradiction found; his rejection of some indiscriminate provincial punishments qualifies but does not erase his support for coercion, and effectiveness, vote totals, execution counts, biographical psychology, reported dialogue, and causal claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

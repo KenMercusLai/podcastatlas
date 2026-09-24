@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10668
+wiki_total_pages: 10672
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1172,6 +1172,9 @@ wiki_pages:
   - key: "ConstitutionHillJohannesburg"
     title: "Constitution Hill Johannesburg"
     url: "/wiki/entities/constitutionhilljohannesburg/"
+  - key: "ConstitutionOf1793"
+    title: "Constitution of 1793"
+    url: "/wiki/entities/constitutionof1793/"
   - key: "ConsueloDeSaintExupery"
     title: "Consuelo de Saint-Exupery / 康苏爱萝"
     url: "/wiki/entities/consuelodesaintexupery/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10668
+wiki_total_pages: 10672
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "Lavod"
     title: "Lavod"
     url: "/wiki/entities/lavod/"
+  - key: "LawOfSuspects"
+    title: "Law of Suspects"
+    url: "/wiki/entities/lawofsuspects/"
   - key: "LawnTennisAssociation"
     title: "Lawn Tennis Association"
     url: "/wiki/entities/lawntennisassociation/"
@@ -314,6 +317,9 @@ wiki_pages:
   - key: "Levis"
     title: "Levi's"
     url: "/wiki/entities/levis/"
+  - key: "LeveeEnMasse"
+    title: "Levée en masse"
+    url: "/wiki/entities/leveeenmasse/"
   - key: "LewisAndClarkExpedition"
     title: "Lewis and Clark Expedition"
     url: "/wiki/entities/lewisandclarkexpedition/"

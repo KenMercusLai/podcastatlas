@@ -7,6 +7,7 @@ sources:
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
   - 504-the-french-revolution-war-to-the-death-part-2-glt3201191708
   - 503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194
+  - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -19,17 +20,17 @@ Crisis-validated conspiracy politics occurs when genuine danger or a real hidden
 
 ## Current Synthesis
 
-The pattern began before invasion or war. [[FlightToVarennes|Varennes]] proved that the royal family had plotted escape and possible armed resistance, while real emigre organization and clerical opposition made hidden-enemy explanations plausible. Rumor then turned two men beneath the Champ de Mars altar into supposed terrorists, and the ensuing lynching, massacre, and repression allowed opposing camps to interpret one another as conspirators. Emigres at Koblenz, officer flight, Marie Antoinette's Austrian ties, currency decline, and royal vetoes were later joined by Brissot into one internal-external enemy network; the crown's actual requests for intervention and transmission of military plans made that broader frame difficult to dislodge without proving every connection. In September 1792, Prussian invasion and fallen fortresses made rumors of prison breakouts and coordinated traitors actionable. Dumouriez's 1793 defection supplied another genuine betrayal, while investigators' insistence that [[CharlotteCorday|Corday]] belonged to a larger plot showed how crisis-trained suspicion could erase lone agency.
+The pattern began before invasion or war. [[FlightToVarennes|Varennes]], émigré organization, clerical opposition, foreign contacts, and transmission of military plans made hidden-enemy explanations plausible, while rumor, veto strategy, invasion, and prison panic widened them beyond proof. Dumouriez's 1793 defection supplied another genuine betrayal, and investigators' insistence that [[CharlotteCorday|Corday]] belonged to a larger plot showed how crisis-trained suspicion could erase lone agency. Robespierre then converted war, revolt, scarcity, journalism, military betrayal, and foreign influence into branches of one conspiracy; this clear moral diagnosis helped justify the [[LawOfSuspects|Law of Suspects]], constitutional suspension, and the recoding of factional opponents as enemies outside ordinary protection.
 
 ## Key Claims
 
 - Documented betrayal can make unsupported internal-conspiracy claims feel immediately credible even before open war begins.
 - Political actors can manufacture evidentiary-looking veto conflicts while genuine hidden conduct independently strengthens the resulting enemy narrative.
 - A confirmed betrayal can transfer authority from one allegation to an entire enemy worldview.
-- Repeated official warnings and raids can convert rumor into administrative and popular action.
 - Enemy categories tend to widen from plausible political suspects to criminals and socially marginal people.
 - Investigators become less accurate when they assume consequential action must be centrally coordinated.
 - Real threat joined to overgeneralized suspicion is more durable than wholly fabricated panic.
+- A trusted interpreter can unify distinct crises into one plot and convert personal credibility into institutional permission.
 
 ## Evidence
 
@@ -50,6 +51,11 @@ The pattern began before invasion or war. [[FlightToVarennes|Varennes]] proved t
 
 - [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] shows officials searching for a Girondin or foreign conspiracy despite Corday's consistent lone-action account.
 
+### Unified conspiracy and state policy
+
+- [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] shows Robespierre combining uprisings, poverty, hostile journalism, generals, Britain, and Pitt into one conspiracy framework.
+- [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] links that framework to constitutional suspension, broad suspect categories, and prosecution of the Girondins as coordinated enemies.
+
 ## Counterevidence & Qualifications
 
 - The concept does not imply that revolutionary security fears were delusional; invasion and Dumouriez's conduct were real.
@@ -58,12 +64,14 @@ The pattern began before invasion or war. [[FlightToVarennes|Varennes]] proved t
 - The source does not reproduce every raid record, destroyed section document, or the full Corday investigation.
 - Some coordination existed in the September killings; rejecting a central command does not mean all action was spontaneous.
 - The likely non-political purpose of the two men beneath the Champ de Mars altar shows that real betrayal elsewhere did not make a particular terrorist rumor true.
+- Similar timing and political usefulness do not establish central coordination among every revolt, journalist, general, foreign state, or faction.
+- The episode's interpretation of Robespierre's psychology and Britain-centered conspiracy attribution remains source-scoped.
 
 ## What Changed
 
-- The concept now begins with the prewar construction of a single court-emigre-Austrian network from mixed evidence.
-- Royal duplicity and Girondin political trapping are separated from the larger conspiracy worldview they jointly made persuasive.
-- Varennes and Champ de Mars now establish the mechanism before war: verified court plotting widened the reach of rumor, denunciation, and preventive repression.
+- Extended the mechanism from popular and investigative suspicion into a governing theory of one all-encompassing conspiracy.
+- Added trusted moral interpretation as the bridge from mixed evidence to broad emergency powers.
+- Connected generalized suspicion to statutory suspect categories, constitutional suspension, and factional conviction.
 
 ## Related Concepts
 
@@ -74,3 +82,5 @@ The pattern began before invasion or war. [[FlightToVarennes|Varennes]] proved t
 - [[PoliticalAssassinationEthics]] - neighboring frame for Corday's independently conceived violence.
 - [[ChampDeMarsMassacre]] - early case in which rumor, real distrust, and state violence mutually reinforced conspiracy interpretation.
 - [[FlightToVarennes]] - verified royal betrayal that changed the evidentiary environment for later allegations.
+- [[LawOfSuspects]] - administrative conversion of widened enemy suspicion into arrest categories.
+- [[ConstitutionOf1793]] - constitutional government delayed until leaders judged the conspiracy defeated.

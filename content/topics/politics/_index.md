@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2674
+topic_total_pages: 2676
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -4814,6 +4814,9 @@ topic_entities:
   - key: "ConservativePartyUK"
     title: "Conservative Party (UK)"
     url: "/wiki/entities/conservativepartyuk/"
+  - key: "ConstitutionOf1793"
+    title: "Constitution of 1793"
+    url: "/wiki/entities/constitutionof1793/"
   - key: "Costco"
     title: "Costco"
     url: "/wiki/entities/costco/"
@@ -5555,6 +5558,9 @@ topic_entities:
   - key: "LauraIves"
     title: "Laura Ives"
     url: "/wiki/entities/lauraives/"
+  - key: "LawOfSuspects"
+    title: "Law of Suspects"
+    url: "/wiki/entities/lawofsuspects/"
   - key: "Lebanon"
     title: "Lebanon"
     url: "/wiki/entities/lebanon/"

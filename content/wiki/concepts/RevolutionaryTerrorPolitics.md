@@ -7,6 +7,7 @@ sources:
   - 707-the-terror-an-assassination-in-paris-part-1-glt6580043397
   - 544-the-french-revolution-the-september-massacres-part-1-glt8301042051
   - 506-the-french-revolution-massacre-at-the-palace-part-4-glt9954902163
+  - 708-the-terror-the-reign-of-robespierre-part-2-glt2099451333
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-22
 ---
@@ -19,7 +20,7 @@ Revolutionary terror politics is the interaction of emergency threat, material d
 
 ## Current Synthesis
 
-The combined sources trace terror across three stages. Before the September killings, the monarchy's August 1792 collapse produced competing authorities, surveillance committees, newspaper suppression, denunciation, exceptional political justice, and mass arrests under invasion pressure. In September, rumor and the Prussian advance enabled local killing teams, improvised tribunals, public approval, and leadership non-intervention before a mature terror state existed. In 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], deputies on mission, and the [[CommitteeOfPublicSafety]] accumulated into organized coercive capacity; Marat's assassination then added martyrdom and fear of ubiquitous assassins.
+The combined sources trace terror across four stages. After the monarchy's August 1792 collapse, competing authorities, surveillance, censorship, denunciation, exceptional justice, and mass arrest widened coercion. In September, invasion rumor enabled local killing teams and improvised tribunals before a mature terror state existed. In early 1793, war, scarcity, revolt, betrayal, factional purge, the [[RevolutionaryTribunal]], and [[CommitteeOfPublicSafety]] accumulated coercive capacity; Marat's assassination intensified fear. By September, leaders openly named terror as policy, expanded the tribunal, enacted the [[LawOfSuspects|Law of Suspects]], suspended the [[ConstitutionOf1793|Constitution of 1793]], and joined military effectiveness to virtue, citizenship exclusion, and politically necessary conviction.
 
 ## Key Claims
 
@@ -29,7 +30,7 @@ The combined sources trace terror across three stages. Before the September kill
 - Extra-legal violence can acquire legitimacy through improvised procedure, selective acquittal, and claims of popular justice.
 - Elite rhetoric, public approval, local organization, and official non-intervention can produce terror without one central command.
 - Material hardship and military crisis make sabotage explanations persuasive when revolution fails to improve security or daily life.
-- Separate emergency institutions can later accumulate into a coercive system without a single initial blueprint.
+- Separate emergency institutions can accumulate and later be centralized into explicit state terror without a single initial blueprint.
 
 ## Evidence
 
@@ -50,6 +51,14 @@ The combined sources trace terror across three stages. Before the September kill
 
 - [[707-the-terror-an-assassination-in-paris-part-1-glt6580043397]] describes armed removal of Girondins and shows Marat's death increasing conspiracy fear, imprisonment, Danton's removal, and Robespierre's ascent.
 
+### Terror as explicit state policy
+
+- [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] connects the September declaration of terror to mass mobilization, tribunal expansion, wider arrest categories, constitutional suspension, Lyon repression, and Girondin conviction.
+
+### Virtue, citizenship, and effectiveness
+
+- [[708-the-terror-the-reign-of-robespierre-part-2-glt2099451333]] shows terror justified as forceful virtue, opponents placed outside citizenship, and revolutionary survival used as retrospective validation.
+
 ## Counterevidence & Qualifications
 
 - French security threats were not wholly manufactured: invasion, rebellion, military betrayal, scarcity, and political violence were real.
@@ -58,12 +67,14 @@ The combined sources trace terror across three stages. Before the September kill
 - Institutional improvisation does not erase agency or make later terror inevitable.
 - The tribunal described in August 1792 should not be assumed identical in legal form or continuity to the 1793 Revolutionary Tribunal without additional evidence.
 - The sources do not exhaust regional, colonial, social, or later chronological dimensions of the Terror.
+- Robespierre was central but not the Terror's sole architect, and he rejected some indiscriminate punishments while supporting severe repression.
+- Immediate military effectiveness does not establish that every measure was necessary, just, or causally decisive.
 
 ## What Changed
 
-- The concept now begins with surveillance, censorship, arrest, and exceptional justice after the August 1792 regime break.
-- The September Massacres are placed inside a coercive transition rather than treated as the first emergency measure.
-- Institutional continuity between the August and 1793 tribunals remains explicitly unclaimed.
+- Extended the sequence from institutional formation into the openly declared state policy of September 1793.
+- Added constitutional suspension, citizenship exclusion, the Law of Suspects, and procedural compression.
+- Added effectiveness as a source of legitimacy while keeping causal and moral qualifications explicit.
 
 ## Related Concepts
 
@@ -75,3 +86,6 @@ The combined sources trace terror across three stages. Before the September kill
 - [[RevolutionaryMartyrdomImageMaking]] - conversion of death into legitimacy for escalation.
 - [[PowerViolenceDistinction]] - distinction between destructive force and durable legitimate power.
 - [[WartimeConstitutionalMonarchyCollapse]] - preceding legitimacy crisis that fragmented authority and widened emergency coercion.
+- [[LawOfSuspects]] - statutory widening of people and conduct exposed to arrest.
+- [[ConstitutionOf1793]] - democratic promise suspended during emergency rule.
+- [[LeveeEnMasse]] - whole-society mobilization that joined military survival to revolutionary government.
