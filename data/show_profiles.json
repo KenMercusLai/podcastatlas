@@ -3314,10 +3314,10 @@
       ]
     },
     "读报teleread": {
-      "episode_count": 3,
+      "episode_count": 4,
       "earliest_episode_date": "2026-08-12",
-      "latest_episode_date": "2026-09-11",
-      "latest_episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+      "latest_episode_date": "2026-09-24",
+      "latest_episode_file": "cmufb34v60djg01x4atjs8211 [cmufb34v60djg01x4atjs8211].md",
       "source_note_count": 3,
       "topic_matched_source_note_count": 2,
       "topics": [
@@ -3338,6 +3338,7 @@
       "start_here_episode_files": [
         "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
         "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+        "cmufb34v60djg01x4atjs8211 [cmufb34v60djg01x4atjs8211].md",
         "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md"
       ]
     },
