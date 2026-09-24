@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Finding common ground in the U.S.-China AI rivalry](sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md) — Marketplace Tech interview with Sam Sachs on competitive AI-safety incentives, regulation and innovation in China, export-control feedback, and narrow technical cooperation.
 - [Home disadvantage: risks in housing markets](sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e.md) — The Intelligence episode on renewed housing rate-shock vulnerability, weak early effects from Australia's under-16 social-media ban, and Fauda season five as a partial witness to Israeli trauma.
 - [总第072期：我是千禧年的孩子，我是消费主义者](sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211.md) — 读报teleread episode connecting stored objects, impossible shopping, sophistication, advertising, and millennial optimism through future-self projection and the ethics of influenced desire.
 - [How to Improve Skin Health & Appearance](sources/how-to-improve-skin-health-appearance-scim9334288497.md) — Huberman Lab solo episode on layered sun protection, barrier care, appearance interventions, lifestyle context, and distinct acne, rosacea, and psoriasis pathways.
@@ -2800,6 +2801,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
 
 ## Entities
+- [Sam Sachs](entities/SamSachs.md) — New America senior fellow analyzing Chinese technology policy and practical U.S.-China AI cooperation.
+- [New America](entities/NewAmerica.md) — Public-policy institution represented by Sam Sachs in the U.S.-China AI rivalry discussion.
 - [Fauda](entities/Fauda.md) — Israeli thriller whose fifth season is read as an emotionally immediate but deliberately partial portrait of post-October-7 trauma.
 - [Lior Raz](entities/LiorRaz.md) — Fauda co-creator and lead actor whose military background parallels the show's undercover-unit setting.
 - [Black Hand](entities/BlackHand.md) — Secret Serbian nationalist organization whose linked intermediaries supplied weapons, training, and border assistance while its exact command role remains contested.
@@ -13508,6 +13511,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maropost](entities/Maropost.md) — Bootstrapped marketing-automation and e-commerce SaaS company shaped by responsive service, founder-led sales, investor conflict, and acquisitions.
 
 ## Concepts
+- [U.S.-China AI Technical Cooperation](concepts/USChinaAITechnicalCooperation.md) — Narrow expert, standards, and private-sector work on shared AI and cybersecurity risks despite strategic rivalry.
+- [AI Regulation-Innovation Compatibility](concepts/AIRegulationInnovationCompatibility.md) — Qualified claim that AI safeguards and continued innovation can coexist without making every regulatory model desirable or transferable.
 - [Housing Rate-Shock Vulnerability](concepts/HousingRateShockVulnerability.md) — Model of how mortgage terms, household savings, and housing supply determine the transmission of higher rates into payments, activity, and prices.
 - [Fiction as Trauma Witness](concepts/FictionAsTraumaWitness.md) — Narrative use of drama to convey a community's immediate trauma without claiming comprehensive historical representation.
 - [Goods As Future-Self Projection / 商品的未来自我投射](concepts/GoodsAsFutureSelfProjection.md) — How possessions and prospective purchases carry memory, imagined activity, and hoped-for identities beyond practical utility.

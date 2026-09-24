@@ -3595,6 +3595,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/aireadydataengineering/"
     },
+    "AIRegulationInnovationCompatibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
+          "key": "tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Finding common ground in the U.S.-China AI rivalry",
+          "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/airegulationinnovationcompatibility/"
+    },
     "AIRegulatoryCaptureRisk": {
       "episode_count": 6,
       "show_count": 2,
@@ -3684,9 +3700,9 @@
       "url": "/wiki/concepts/airesistantexperientialconsumption/"
     },
     "AISafetyCoordination": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "An interview with Elon Musk [6a6212214fac21e67f9b8c8c].md",
@@ -3722,9 +3738,16 @@
           "show": "Economist Podcasts",
           "title": "The End of the World Is AI? An Existential Threat",
           "url": "/wiki/sources/the-end-of-the-world-is-ai-an-existential-threat-6aaa68a64cef87591d2b659b/"
+        },
+        {
+          "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
+          "key": "tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Finding common ground in the U.S.-China AI rivalry",
+          "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/aisafetycoordination/"
     },
     "AIScienceActiveLearning": {
@@ -35112,6 +35135,50 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/domesdaybook/"
+    },
+    "DomesticAIChipCatchUp": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Inside America’s AI Strategy： Infrastructure, Regulation, and Global Competition [39846955].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Inside America's AI Strategy: Infrastructure, Regulation, and Global Competition",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955/"
+        },
+        {
+          "episode_file": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？ [lm7lXLMCnjWNAWTQ_9TYpc_fNRci].md",
+          "key": "ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci",
+          "show": "Talk三联",
+          "title": "EP270 一枚芯片的漫长征途：我们离“算力自由”还有多远？",
+          "url": "/wiki/sources/ep270-yi-mei-xinpian-de-manchang-zhengtu-women-li-suanli-ziyou-haiyou-duoyuan-lm7lxlmcnjwnawtq-9typc-fnrci/"
+        },
+        {
+          "episode_file": "tech_20260116_0116_MP_TECH_pod_128 [tech_20260116_0116_MP_TECH_pod_128].md",
+          "key": "tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New chip exports for China, Microsoft to pay electricity for AI data centers, and Gemini will power Apple's AI",
+          "url": "/wiki/sources/tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "国产 AI 算力能凭「超节点」弯道超车吗？ ｜ WAIC 深度观察 S10E23 [a6c6ab3e-72b2-470b-aefd-04b19679d37f].md",
+          "key": "guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f",
+          "show": "What's Next｜科技早知道",
+          "title": "国产 AI 算力能凭「超节点」弯道超车吗？｜WAIC 深度观察 S10E23",
+          "url": "/wiki/sources/guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f/"
+        },
+        {
+          "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
+          "key": "tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Finding common ground in the U.S.-China AI rivalry",
+          "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/domesticaichipcatchup/"
     },
     "DomesticBagSupplyChainUpgrade": {
       "episode_count": 1,
@@ -95356,6 +95423,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/neutralitytointerventionmemory/"
     },
+    "NewAmerica": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
+          "key": "tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Finding common ground in the U.S.-China AI rivalry",
+          "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/newamerica/"
+    },
     "NewCarthage": {
       "episode_count": 1,
       "show_count": 1,
@@ -116131,6 +116214,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/samharris/"
     },
+    "SamSachs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
+          "key": "tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Finding common ground in the U.S.-China AI rivalry",
+          "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/samsachs/"
+    },
     "SameSurnameKingEnfeoffment": {
       "episode_count": 8,
       "show_count": 1,
@@ -134834,6 +134933,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/unhcr/"
+    },
+    "USChinaAITechnicalCooperation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
+          "key": "tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Finding common ground in the U.S.-China AI rivalry",
+          "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/uschinaaitechnicalcooperation/"
     },
     "USChinaScienceCompetition": {
       "episode_count": 2,

@@ -11,32 +11,38 @@ outputs: ["html"]
 
 ## Pages
 - Overview: 1
-- Concepts: 8069
-- Entities: 10696
-- Sources: 2779
-- Total wiki content pages: 21545
+- Concepts: 8071
+- Entities: 10698
+- Sources: 2780
+- Total wiki content pages: 21550
 
 ## Links
-- Wiki link references: 549776
-- Unique wiki link targets: 21546
-- Missing targets: 3
+- Wiki link references: 549809
+- Unique wiki link targets: 21553
+- Missing targets: 5
 - Exact duplicate keys: 0
 - Case-insensitive key collisions: 0
 - Public route collisions: 0
 
 ## Source Episodes
-- Source pages: 2779
-- Matched episodes: 2779
+- Source pages: 2780
+- Matched episodes: 2780
 - Missing source_file: 0
 - Unmatched source_file: 0
 
 ## Missing Targets
 
+- `[[AICompanionSafety]]`
+  - `content/wiki/concepts/AIRegulationInnovationCompatibility.md`
+  - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[ASUS]]`
   - `content/wiki/entities/GoogleBook.md`
 - `[[ClinicalValidationThresholds]]`
   - `content/wiki/concepts/DentalProviderQualificationAssessment.md`
   - `content/wiki/log.md`
+- `[[CoordinatedVulnerabilityDisclosure]]`
+  - `content/wiki/concepts/USChinaAITechnicalCooperation.md`
+  - `content/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md`
 - `[[SupplementContaminationAndMislabelling]]`
   - `content/wiki/concepts/ShilajitEvidenceBoundary.md`
 

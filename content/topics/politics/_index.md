@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2679
+topic_total_pages: 2681
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -193,6 +193,9 @@ topic_concepts:
   - key: "AIQueryPrivacyRisk"
     title: "AI Query Privacy Risk"
     url: "/wiki/concepts/aiqueryprivacyrisk/"
+  - key: "AIRegulationInnovationCompatibility"
+    title: "AI Regulation-Innovation Compatibility"
+    url: "/wiki/concepts/airegulationinnovationcompatibility/"
   - key: "AIRegulatoryCaptureRisk"
     title: "AI Regulatory Capture Risk"
     url: "/wiki/concepts/airegulatorycapturerisk/"
@@ -3646,6 +3649,9 @@ topic_concepts:
   - key: "USHealthInsuranceDenialPolitics"
     title: "U.S. Health Insurance Denial Politics"
     url: "/wiki/concepts/ushealthinsurancedenialpolitics/"
+  - key: "USChinaAITechnicalCooperation"
+    title: "U.S.-China AI Technical Cooperation"
+    url: "/wiki/concepts/uschinaaitechnicalcooperation/"
   - key: "USChinaScienceCompetition"
     title: "U.S.-China Science Competition"
     url: "/wiki/concepts/uschinasciencecompetition/"

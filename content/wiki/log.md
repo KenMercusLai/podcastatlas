@@ -22240,3 +22240,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Finding common ground in the U.S.-China AI rivalry
+
+Added source `tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128`; created `SamSachs`, `NewAmerica`, `USChinaAITechnicalCooperation`, and `AIRegulationInnovationCompatibility`; and updated `AISafetyCoordination` and `DomesticAIChipCatchUp` from their complete bounded source sets. Core synthesis: strategic rivalry makes broad reciprocal restraint difficult, but track-two dialogue and issue-specific technical remediation can reduce shared risk; Chinese innovation under extensive regulation refutes a categorical regulation-versus-innovation opposition without making censorship-linked rules transferable; and chip controls can constrain immediate access while accelerating domestic substitution. No settled contradiction found. The WeChat vulnerability, companion-agent rule, removed-agent count, and net effect of export controls remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

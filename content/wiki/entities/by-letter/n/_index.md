@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10696
+wiki_total_pages: 10698
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "NewAlbion"
     title: "New Albion"
     url: "/wiki/entities/newalbion/"
+  - key: "NewAmerica"
+    title: "New America"
+    url: "/wiki/entities/newamerica/"
   - key: "NewBalance"
     title: "New Balance"
     url: "/wiki/entities/newbalance/"
