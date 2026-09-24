@@ -22172,3 +22172,11 @@ Added source `vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tong
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)
+
+Added source `466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792`; created `BlackHand` and `StateParamilitaryAuthoritySplit`; rewrote `GavriloPrincip` and `SarajevoAssassinationContingency` from their complete bounded source sets; updated `Serbia` from its complete bounded source set; and updated the index. Core synthesis: Black Hand-linked actors supplied the student conspirators with weapons, training, papers, couriers, and border passage, but contradictory testimony and divided Serbian authority prevent that support from being collapsed into a proven unified civilian-government order. No settled contradiction found; plot initiation, command hierarchy, Pasic's exact knowledge, the reported interdiction, initiation ritual, and warning motives remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

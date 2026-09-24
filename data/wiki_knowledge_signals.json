@@ -14849,6 +14849,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/birthrightcitizenshipdebate/"
     },
+    "BlackHand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2060941792 [GLT2060941792].md",
+          "key": "466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792",
+          "show": "The Rest Is History",
+          "title": "466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)",
+          "url": "/wiki/sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/blackhand/"
+    },
     "BlackTruffleMassMarketization": {
       "episode_count": 1,
       "show_count": 1,
@@ -52121,9 +52137,9 @@
       "url": "/wiki/entities/gavinnewsom/"
     },
     "GavriloPrincip": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1158335154 [GLT1158335154].md",
@@ -52131,6 +52147,13 @@
           "show": "The Rest Is History",
           "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
           "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        },
+        {
+          "episode_file": "GLT2060941792 [GLT2060941792].md",
+          "key": "466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792",
+          "show": "The Rest Is History",
+          "title": "466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)",
+          "url": "/wiki/sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792/"
         }
       ],
       "updated": "2026-09-24",
@@ -116206,9 +116229,9 @@
       "url": "/wiki/entities/sarahsglutenfreegoods/"
     },
     "SarajevoAssassinationContingency": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1158335154 [GLT1158335154].md",
@@ -116216,6 +116239,13 @@
           "show": "The Rest Is History",
           "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
           "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        },
+        {
+          "episode_file": "GLT2060941792 [GLT2060941792].md",
+          "key": "466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792",
+          "show": "The Rest Is History",
+          "title": "466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)",
+          "url": "/wiki/sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792/"
         }
       ],
       "updated": "2026-09-24",
@@ -117840,9 +117870,9 @@
       "url": "/wiki/entities/septembermassacres/"
     },
     "Serbia": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1171003479 [GLT1171003479].md",
@@ -117871,6 +117901,13 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT2060941792 [GLT2060941792].md",
+          "key": "466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792",
+          "show": "The Rest Is History",
+          "title": "466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)",
+          "url": "/wiki/sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792/"
         }
       ],
       "updated": "2026-09-24",
@@ -124640,6 +124677,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/stateorchestratedmassmourning/"
+    },
+    "StateParamilitaryAuthoritySplit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2060941792 [GLT2060941792].md",
+          "key": "466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792",
+          "show": "The Rest Is History",
+          "title": "466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)",
+          "url": "/wiki/sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/stateparamilitaryauthoritysplit/"
     },
     "StatecraftGenerationRelay": {
       "episode_count": 1,

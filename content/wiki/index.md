@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)](sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792.md) — The Rest Is History episode on Princip's formation, Black Hand-linked support, cross-border logistics, Franz Ferdinand's reform threat, and divided Serbian authority.
 - [VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解](sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8.md) — 这病说来话长 episode on collapse triage, high-quality CPR, device-guided defibrillation, practical AED access, and China-facing voluntary-rescue protection.
 - [467. The Murder of Franz Ferdinand: The Victim (Part 3)](sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087.md) — The Rest Is History episode on Franz Ferdinand's travel, marriage, temperament, federal reform ideas, and opposition to preventive war with Serbia.
 - [VOL.123医生，我这脖子疼和腰疼还有救吗？😭](sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2.md) — 这病说来话长 episode on symptom-driven neck and back care, cervical curvature, gradual rehabilitation, posture variability, and the limits of comfort aids and supports.
@@ -2791,10 +2792,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [277.从提醒你，到替你办：Today想把Personal AI带到哪一步？](sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6.md) — 乱翻书 episode on Today’s memory-plus-initiative product thesis, identity-aware personal context, delegation friction, graduated execution, and unresolved product-market fit.
 
 ## Entities
+- [Black Hand](entities/BlackHand.md) — Secret Serbian nationalist organization whose linked intermediaries supplied weapons, training, and border assistance while its exact command role remains contested.
 - [Aurel Popovici](entities/AurelPopovici.md) — Political theorist whose sixteen-state United States of Greater Austria supplied one federal model considered around Franz Ferdinand.
 - [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose neck, lower-back, pillow, manual-treatment, and support-device questions ground the VOL.123 discussion.
 - [Sophie Chotek](entities/SophieChotek.md) — Franz Ferdinand's wife, stabilizing family partner, target of morganatic court hierarchy, active Sarajevo companion, and fellow assassination victim.
-- [Gavrilo Princip](entities/GavriloPrincip.md) — Nineteen-year-old assassin whose second opportunity arose from the motorcade's wrong turn and stop in Sarajevo.
+- [Gavrilo Princip](entities/GavriloPrincip.md) — Nineteen-year-old nationalist conspirator whose network support, martyr ideal, and accidental second opportunity culminated in the Sarajevo murders.
 - [Stuart McGill](entities/StuartMcGill.md) — Spine-biomechanics researcher emphasizing individualized pain mechanisms, anatomical fit, recoverable loading, and spine-sparing training.
 - [Liang Chenqi / 梁琛奇](entities/LiangChenqi.md) — Former Douyin and ByteDance FLOW product leader building AI-native entertainment through Dongnian Yinxian.
 - [Dongnian Yinxian / 动念引线](entities/DongnianYinxian.md) — Liang Chenqi's startup exploring AI entertainment, imaginative expression, and interactive worlds through small product teams.
@@ -2814,7 +2816,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Raymond Poincaré](entities/RaymondPoincare.md) — French president whose St Petersburg diplomacy treated Franco-Russian firmness as deterrence during the July Crisis.
 - [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
 - [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
-- [Serbia](entities/Serbia.md) — Balkan state whose qualified ultimatum reply and war with Austria-Hungary became the immediate hinge of wider escalation.
+- [Serbia](entities/Serbia.md) — Balkan state whose divided civilian and nationalist networks complicated assassination responsibility before its ultimatum crisis with Austria-Hungary.
 - [Nicholas II](entities/NicholasII.md) — Russian tsar who moved from doubt and precaution through royal diplomacy to approval of general mobilisation.
 - [Helmuth von Moltke the Younger](entities/HelmuthVonMoltkeTheYounger.md) — German chief of staff whose strategic fatalism made delay appear more dangerous than preparation.
 - [Edward Grey](entities/EdwardGrey.md) — British foreign secretary who moved from ambiguous French expectations and failed mediation to the case for intervention.
@@ -13488,13 +13490,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Today Personal AI](entities/TodayPersonalAI.md) — Named personal agent seeking to combine continually revised memory, low-interruption initiative, and progressively authorized task execution.
 
 ## Concepts
+- [State-Paramilitary Authority Split](concepts/StateParamilitaryAuthoritySplit.md) — Condition in which embedded official networks can enable violence beyond coherent civilian direction and defeat formal interdiction.
 - [Public AED Access Readiness / 公共AED可及性准备](concepts/PublicAEDAccessReadiness.md) — Public-safety framework for device visibility, access, mapping, retrieval time, advance familiarity, and bystander role assignment.
 - [Emergency Rescue Legal Protection / 紧急救助法律保护](concepts/EmergencyRescueLegalProtection.md) — China-facing legal-confidence concept around Civil Code Article 184 and voluntary emergency assistance.
 - [Habsburg Federal Reform](concepts/HabsburgFederalReform.md) — Trialist, federal-state, and suffrage proposals intended to preserve Austria-Hungary by redistributing power beyond the dual monarchy.
 - [Morganatic Marriage](concepts/MorganaticMarriage.md) — Dynastic marriage that recognizes the union while denying equal rank and succession rights to the lower-ranked spouse and children.
 - [Cervical Curve and Posture Management / 颈椎曲度与姿势管理](concepts/CervicalCurvePostureManagement.md) — Qualified framework connecting cervical alignment, muscular balance, sustained posture, movement variability, symptoms, and escalation.
 - [Spine Comfort Adjunct Boundary / 脊柱舒适辅助措施边界](concepts/SpineComfortAdjunctBoundary.md) — Boundary separating temporary relief from pillows, heat, massage, and comfort devices from diagnosis, structural correction, and durable capacity.
-- [Sarajevo Assassination Contingency](concepts/SarajevoAssassinationContingency.md) — Causal frame joining symbolic timing, known warnings, security choices, failed attack, continued ceremony, route communication, and chance.
+- [Sarajevo Assassination Contingency](concepts/SarajevoAssassinationContingency.md) — Causal frame joining organized support and divided authority to amateur execution, official risk choices, communication failure, and chance.
 - [Mechanism-Based Back-Pain Assessment](concepts/MechanismBasedBackPainAssessment.md) — Assessment frame identifying pain triggers, anatomy, exposure, sensitization, goals, and tolerable movement before intervention.
 - [Anatomy-Constrained Exercise Selection](concepts/AnatomyConstrainedExerciseSelection.md) — Principle matching exercise, range, stance, and technique to body structure, tissue tolerance, symptoms, and goals.
 - [Spine-Load Tipping Point](concepts/SpineLoadTippingPoint.md) — Cumulative-dose model separating adaptive training stress from overload, sensitization, and tissue trauma.
