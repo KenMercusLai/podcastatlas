@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1980
+topic_total_pages: 1981
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4581,6 +4581,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "460-the-empress-of-the-apocalypse-glt9103397168"
+    title: "460. The Empress of the Apocalypse"
+    url: "/wiki/sources/460-the-empress-of-the-apocalypse-glt9103397168/"
   - key: "462-st-george-dragon-slayer-glt5334319363"
     title: "462. St George: Dragon-Slayer"
     url: "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"

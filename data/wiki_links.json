@@ -1107,6 +1107,10 @@
     "title": "46.这世界唯一的你：请相信那朵慢慢绽放的花",
     "url": "/wiki/sources/46-zhe-shijie-weiyi-de-ni-qing-xiangxin-na-duo-manman-zhanfang-de-hua-623717720/"
   },
+  "460-the-empress-of-the-apocalypse-glt9103397168": {
+    "title": "460. The Empress of the Apocalypse",
+    "url": "/wiki/sources/460-the-empress-of-the-apocalypse-glt9103397168/"
+  },
   "461-dragons-glt6416738853": {
     "title": "461. Dragons",
     "url": "/wiki/sources/461-dragons-glt6416738853/"
@@ -4034,6 +4038,10 @@
   "AdditiveBias": {
     "title": "Additive Bias",
     "url": "/wiki/concepts/additivebias/"
+  },
+  "AdelaideOfItaly": {
+    "title": "Adelaide of Italy",
+    "url": "/wiki/entities/adelaideofitaly/"
   },
   "AdewaleMaie": {
     "title": "Adewale Maie",
@@ -10546,6 +10554,10 @@
   "ByteDanceGrowthSystem": {
     "title": "ByteDance Growth System",
     "url": "/wiki/concepts/bytedancegrowthsystem/"
+  },
+  "ByzantineCourtCultureTransfer": {
+    "title": "Byzantine Court Culture Transfer",
+    "url": "/wiki/concepts/byzantinecourtculturetransfer/"
   },
   "ByzantineEmpire": {
     "title": "Byzantine Empire / 拜占庭帝国",
@@ -30351,6 +30363,10 @@
     "title": "Henry the Navigator / 恩里克王子",
     "url": "/wiki/entities/henrythenavigator/"
   },
+  "HenryTheQuarrelsome": {
+    "title": "Henry the Quarrelsome",
+    "url": "/wiki/entities/henrythequarrelsome/"
+  },
   "HenryVOfEngland": {
     "title": "Henry V of England",
     "url": "/wiki/entities/henryvofengland/"
@@ -35898,6 +35914,10 @@
   "JohnIOfPortugal": {
     "title": "John I of Portugal / 若昂一世",
     "url": "/wiki/entities/johniofportugal/"
+  },
+  "JohnITzimiskes": {
+    "title": "John I Tzimiskes",
+    "url": "/wiki/entities/johnitzimiskes/"
   },
   "JohnIcabone": {
     "title": "John Icabone",
@@ -44831,6 +44851,10 @@
     "title": "Mill Valley Baby",
     "url": "/wiki/entities/millvalleybaby/"
   },
+  "MillennialRomanImperialEschatology": {
+    "title": "Millennial Roman Imperial Eschatology",
+    "url": "/wiki/concepts/millennialromanimperialeschatology/"
+  },
   "Millian": {
     "title": "Millian",
     "url": "/wiki/entities/millian/"
@@ -47359,6 +47383,10 @@
     "title": "Nike Vaporfly",
     "url": "/wiki/entities/nikevaporfly/"
   },
+  "NikephorosIIPhokas": {
+    "title": "Nikephoros II Phokas",
+    "url": "/wiki/entities/nikephorosiiphokas/"
+  },
   "NikeshArora": {
     "title": "Nikesh Arora",
     "url": "/wiki/entities/nikesharora/"
@@ -49166,6 +49194,18 @@
   "OtterBox": {
     "title": "OtterBox",
     "url": "/wiki/entities/otterbox/"
+  },
+  "OttoII": {
+    "title": "Otto II",
+    "url": "/wiki/entities/ottoii/"
+  },
+  "OttoIII": {
+    "title": "Otto III",
+    "url": "/wiki/entities/ottoiii/"
+  },
+  "OttoTheGreat": {
+    "title": "Otto the Great",
+    "url": "/wiki/entities/ottothegreat/"
   },
   "OttomanEmpire": {
     "title": "Ottoman Empire / 奥斯曼帝国",
@@ -57079,6 +57119,10 @@
     "title": "Roman Expansion Moral Anxiety / 罗马扩张的道德焦虑",
     "url": "/wiki/concepts/romanexpansionmoralanxiety/"
   },
+  "RomanImperialLegitimacy": {
+    "title": "Roman Imperial Legitimacy",
+    "url": "/wiki/concepts/romanimperiallegitimacy/"
+  },
   "RomanProvincialConsolidation": {
     "title": "Roman Provincial Consolidation",
     "url": "/wiki/concepts/romanprovincialconsolidation/"
@@ -57694,6 +57738,10 @@
   "SaborAMexicoSalsas": {
     "title": "Sabor a Mexico Salsas",
     "url": "/wiki/entities/saboramexicosalsas/"
+  },
+  "SacralQueenshipAndRegency": {
+    "title": "Sacral Queenship and Regency",
+    "url": "/wiki/concepts/sacralqueenshipandregency/"
   },
   "SacramentDonationModel": {
     "title": "Sacrament Donation Model",
@@ -65722,6 +65770,10 @@
   "TheodoreSimon": {
     "title": "Theodore Simon / 西奥多·西蒙",
     "url": "/wiki/entities/theodoresimon/"
+  },
+  "Theophano": {
+    "title": "Theophano",
+    "url": "/wiki/entities/theophano/"
   },
   "TheoreticalOperatingStandard": {
     "title": "Theoretical Operating Standard / 理论上该有的样子",

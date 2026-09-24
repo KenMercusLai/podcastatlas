@@ -22328,3 +22328,11 @@ Added source `461-dragons-glt6416738853`; created `HouseOfTheDragon`, `WesternDr
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 460. The Empress of the Apocalypse
+
+Added source `460-the-empress-of-the-apocalypse-glt9103397168`; created `Theophano`, `OttoII`, `OttoIII`, `OttoTheGreat`, `AdelaideOfItaly`, `NikephorosIIPhokas`, `JohnITzimiskes`, `HenryTheQuarrelsome`, `SacralQueenshipAndRegency`, `ByzantineCourtCultureTransfer`, `RomanImperialLegitimacy`, and `MillennialRomanImperialEschatology`; and updated `ByzantineEmpire` from its complete bounded source set. Core synthesis: Theophano's 972 marriage made Byzantine identity and court culture resources for Ottonian Roman legitimacy, while consecrated queenship and regency let her preserve Otto III's inheritance after military and succession crisis. No settled contradiction found. Theophano's responsibility for Otto II's southern ambitions and her influence on Otto III's apocalyptic Roman program remain source-scoped interpretations. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

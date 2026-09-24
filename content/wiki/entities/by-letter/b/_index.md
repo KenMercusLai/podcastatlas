@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10718
+wiki_total_pages: 10726
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"

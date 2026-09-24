@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10718
+wiki_total_pages: 10726
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "TheodoreSimon"
     title: "Theodore Simon / 西奥多·西蒙"
     url: "/wiki/entities/theodoresimon/"
+  - key: "Theophano"
+    title: "Theophano"
+    url: "/wiki/entities/theophano/"
   - key: "Theranos"
     title: "Theranos"
     url: "/wiki/entities/theranos/"

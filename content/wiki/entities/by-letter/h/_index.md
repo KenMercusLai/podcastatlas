@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10718
+wiki_total_pages: 10726
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "HenryTheNavigator"
     title: "Henry the Navigator / 恩里克王子"
     url: "/wiki/entities/henrythenavigator/"
+  - key: "HenryTheQuarrelsome"
+    title: "Henry the Quarrelsome"
+    url: "/wiki/entities/henrythequarrelsome/"
   - key: "HenryVPlay"
     title: "Henry V / 《亨利五世》"
     url: "/wiki/entities/henryvplay/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10718
+wiki_total_pages: 10726
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "JohnIOfPortugal"
     title: "John I of Portugal / 若昂一世"
     url: "/wiki/entities/johniofportugal/"
+  - key: "JohnITzimiskes"
+    title: "John I Tzimiskes"
+    url: "/wiki/entities/johnitzimiskes/"
   - key: "JohnIcabone"
     title: "John Icabone"
     url: "/wiki/entities/johnicabone/"

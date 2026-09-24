@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [460. The Empress of the Apocalypse](sources/460-the-empress-of-the-apocalypse-glt9103397168.md) — The Rest Is History episode on Theophano, Ottonian-Byzantine marriage diplomacy, sacral queenship, regency, Roman legitimacy, and Otto III's qualified apocalyptic imperial vision.
 - [461. Dragons](sources/461-dragons-glt6416738853.md) — The Rest Is History episode tracing the Western dragon from northern wyrms, classical drakons, and Christian demonology to medieval visual standardization and modern political power.
 - [The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight](sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890.md) — Huberman Lab interview on predictive hunger and thirst control, leptin and melanocortin circuits, obesity biology, ultra-processed food, dopamine learning, and GLP-1 pharmacology.
 - [VOL.118你见过深夜的ICU吗？打破你的刻板印象](sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm.md) — 这病说来话长 episode on ICU time-buying, admission benefit, patient memory, narrative medicine, invisible care work, and sponsor-qualified life-stage insurance planning.
@@ -2812,6 +2813,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 
 ## Entities
+- [Theophano](entities/Theophano.md) — Byzantine-born empress who carried Constantinopolitan prestige westward and preserved Otto III's inheritance as regent.
+- [Otto II](entities/OttoII.md) — Ottonian emperor whose Roman ambitions in southern Italy ended in defeat and a minority succession crisis.
+- [Otto III](entities/OttoIII.md) — Child heir protected by Theophano who later developed a universal and apocalyptically inflected Roman imperial program.
+- [Otto the Great](entities/OttoTheGreat.md) — Saxon ruler who joined military victory, papal recognition, and Byzantine marriage diplomacy in pursuit of Roman legitimacy.
+- [Adelaide of Italy](entities/AdelaideOfItaly.md) — Ottonian empress and dowager whose rivalry with Theophano gave way to later dynastic stewardship.
+- [Nikephoros II Phokas](entities/NikephorosIIPhokas.md) — Byzantine general-emperor linking tenth-century military recovery to court vulnerability and contested Roman titulature.
+- [John I Tzimiskes](entities/JohnITzimiskes.md) — Byzantine emperor who succeeded Nikephoros and enabled Theophano's 972 marriage to Otto II.
+- [Henry the Quarrelsome](entities/HenryTheQuarrelsome.md) — Bavarian duke and internal dynastic challenger contained during the Ottonian succession crises.
 - [House of the Dragon](entities/HouseOfTheDragon.md) — Television fantasy drama framing dragons as dynastic strategic assets and revising their familiar screen body plan.
 - [Zachary Knight](entities/ZacharyKnight.md) — UCSF physiology researcher explaining predictive hunger and thirst control, appetite circuitry, obesity biology, and GLP-1 pharmacology.
 - [谢为 / Xie Wei (insurance broker)](entities/XieWeiInsurance.md) — Sponsor-linked 小雨伞 broker explaining life-stage coverage, channel differences, health disclosure, and claims services.
@@ -13543,6 +13552,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Sacral Queenship and Regency](concepts/SacralQueenshipAndRegency.md) — Consecration, intercession, dynastic motherhood, and regency as institutional bases for medieval female political authority.
+- [Byzantine Court Culture Transfer](concepts/ByzantineCourtCultureTransfer.md) — Movement of ceremony, material display, habits, and political style from Constantinople into the Saxon court through Theophano.
+- [Roman Imperial Legitimacy](concepts/RomanImperialLegitimacy.md) — Contested post-Roman claims built through titles, military power, papal recognition, marriage, ritual, and control of Rome.
+- [Millennial Roman Imperial Eschatology](concepts/MillennialRomanImperialEschatology.md) — Fusion of renewed universal Roman empire with last-emperor, Jerusalem, and Antichrist expectations.
 - [Western Dragon Cultural Synthesis](concepts/WesternDragonCulturalSynthesis.md) — Accretion of northern wyrm, classical drakon, Christian demon, medieval artistic, heraldic, and print traditions into the familiar Western dragon.
 - [Dragon as Dangerous Power](concepts/DragonAsDangerousPower.md) — Pattern linking dragons to corrupting hoards, political domination, catastrophic force, and anxiety about power's abuse.
 - [Predictive Homeostatic Control](concepts/PredictiveHomeostaticControl.md) — Neural-control model in which rapid food and oral-fluid cues forecast slower energy and hydration correction.

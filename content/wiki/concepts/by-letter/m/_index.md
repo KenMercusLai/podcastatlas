@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8093
+wiki_total_pages: 8097
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "MilitaryCivilianIntegration"
     title: "Military-Civil Integration / 军政一体"
     url: "/wiki/concepts/militarycivilianintegration/"
+  - key: "MillennialRomanImperialEschatology"
+    title: "Millennial Roman Imperial Eschatology"
+    url: "/wiki/concepts/millennialromanimperialeschatology/"
   - key: "MimeticCompetitionAvoidance"
     title: "Mimetic Competition Avoidance"
     url: "/wiki/concepts/mimeticcompetitionavoidance/"

@@ -1710,6 +1710,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "460-the-empress-of-the-apocalypse-glt9103397168": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "462-st-george-dragon-slayer-glt5334319363": [
     {
       "key": "history",
@@ -14252,6 +14259,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ByzantineCourtCultureTransfer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CAA": [

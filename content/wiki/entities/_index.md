@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10718
+wiki_total_pages: 10726
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "Adao"
     title: "Adao"
     url: "/wiki/entities/adao/"
+  - key: "AdelaideOfItaly"
+    title: "Adelaide of Italy"
+    url: "/wiki/entities/adelaideofitaly/"
   - key: "AdewaleMaie"
     title: "Adewale Maie"
     url: "/wiki/entities/adewalemaie/"
