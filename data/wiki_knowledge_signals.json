@@ -35102,9 +35102,9 @@
       "url": "/wiki/concepts/distributedlocalresilience/"
     },
     "DoctorPatientCommunication": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -35133,9 +35133,16 @@
           "show": "这病说来话长",
           "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
           "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        },
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/doctorpatientcommunication/"
     },
     "DocumentaryEthicalRestraint": {
@@ -68259,6 +68266,29 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/insularpaintolerancetraining/"
     },
+    "InsuranceClaimsAssistancePlatforms": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "159.要精明，要善良，要解决问题 [931818201].md",
+          "key": "159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201",
+          "show": "蜜獾吃书",
+          "title": "159.要精明，要善良，要解决问题",
+          "url": "/wiki/sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201/"
+        },
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/insuranceclaimsassistanceplatforms/"
+    },
     "IntegratedBipolarCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -68357,6 +68387,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/intelligenceflywheel/"
+    },
+    "IntensiveCareAsTimeBuying": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/intensivecareastimebuying/"
     },
     "IntentionalLivingAgency": {
       "episode_count": 1,
@@ -79368,6 +79414,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/lifesciencedatainformationvalue/"
+    },
+    "LifeStageInsurancePlanning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/lifestageinsuranceplanning/"
     },
     "LifeTimeVsMachineTime": {
       "episode_count": 1,
@@ -95022,6 +95084,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/narrativeframeauthordistance/"
+    },
+    "NarrativeMedicine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/narrativemedicine/"
     },
     "NarrativePluralism": {
       "episode_count": 1,
@@ -145616,6 +145694,57 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/xiaoweiduanwenreporter/"
     },
+    "XiaoyusanInsurance": {
+      "episode_count": 6,
+      "show_count": 2,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "86.打开一颗心：那美好的仗，我已经打过了 [702323437].md",
+          "key": "86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437",
+          "show": "蜜獾吃书",
+          "title": "86.打开一颗心：那美好的仗，我已经打过了",
+          "url": "/wiki/sources/86-dakai-yike-xin-na-meihao-de-zhang-wo-yijing-daguo-le-702323437/"
+        },
+        {
+          "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
+          "key": "70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394",
+          "show": "蜜獾吃书",
+          "title": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊",
+          "url": "/wiki/sources/70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394/"
+        },
+        {
+          "episode_file": "137. 三更半夜居然要吃香蕉：是的，再来一根 [835431951].md",
+          "key": "137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951",
+          "show": "蜜獾吃书",
+          "title": "137. 三更半夜居然要吃香蕉：是的，再来一根",
+          "url": "/wiki/sources/137-sangeng-banye-juran-yao-chi-xiangjiao-shide-zailai-yigen-835431951/"
+        },
+        {
+          "episode_file": "110.初老的女人：疲惫，温柔，辽阔 [749182278].md",
+          "key": "110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278",
+          "show": "蜜獾吃书",
+          "title": "110.初老的女人：疲惫，温柔，辽阔",
+          "url": "/wiki/sources/110-chulao-de-nvren-pibei-wenrou-liaokuo-749182278/"
+        },
+        {
+          "episode_file": "159.要精明，要善良，要解决问题 [931818201].md",
+          "key": "159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201",
+          "show": "蜜獾吃书",
+          "title": "159.要精明，要善良，要解决问题",
+          "url": "/wiki/sources/159-yao-jingming-yao-shanliang-yao-jiejue-wenti-931818201/"
+        },
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/xiaoyusaninsurance/"
+    },
     "Xiaozhu": {
       "episode_count": 1,
       "show_count": 1,
@@ -145787,6 +145916,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/xiewannianwesternhan/"
+    },
+    "XieWeiInsurance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/xieweiinsurance/"
     },
     "XieYunLateHan": {
       "episode_count": 3,
@@ -156488,9 +156633,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -156512,9 +156657,16 @@
           "show": "这病说来话长",
           "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
           "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        },
+        {
+          "episode_file": "lnrBQZtEhpu3nNpOfUw1iHAscwrM [lnrBQZtEhpu3nNpOfUw1iHAscwrM].md",
+          "key": "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+          "show": "这病说来话长",
+          "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
+          "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {

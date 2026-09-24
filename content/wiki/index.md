@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.118你见过深夜的ICU吗？打破你的刻板印象](sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm.md) — 这病说来话长 episode on ICU time-buying, admission benefit, patient memory, narrative medicine, invisible care work, and sponsor-qualified life-stage insurance planning.
 - [462. St George: Dragon-Slayer](sources/462-st-george-dragon-slayer-glt5334319363.md) — The Rest Is History episode separating St George's uncertain martyr core from dragon-slayer imagery, Garter patronage, Protestant recoding, and modern symbolic reuse.
 - [463. Mad Elections (Part 1)](sources/463-mad-elections-part-1-glt4220133865.md) — The Rest Is History episode on uneven pre-reform franchises, Old Sarum, public voting, treating, election ritual, coercion, violence, and the secret ballot.
 - [464. Modern British Elections (Part 2)](sources/464-modern-british-elections-part-2-glt4046145085.md) — The Rest Is History episode on weak average campaign effects, the 1945–2017 exceptions, electoral mythmaking, first-past-the-post vote splitting, and the shift from mass meetings to managed media.
@@ -2809,6 +2810,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 
 ## Entities
+- [谢为 / Xie Wei (insurance broker)](entities/XieWeiInsurance.md) — Sponsor-linked 小雨伞 broker explaining life-stage coverage, channel differences, health disclosure, and claims services.
 - [St George](entities/StGeorge.md) — Historically uncertain martyr whose layered afterlife joins soldier sainthood, dragon-slaying, English patronage, and transnational symbolic reuse.
 - [Order of the Garter](entities/OrderOfTheGarter.md) — English royal chivalric order that institutionalized St George as a patron of monarchy, warfare, and national identity.
 - [Bellerophon](entities/Bellerophon.md) — Greek mounted hero used as a qualified classical parallel for later St George iconography.
@@ -13537,6 +13539,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Intensive Care as Time-Buying](concepts/IntensiveCareAsTimeBuying.md) — ICU model of supporting failing organs so acute, potentially reversible illness has time to respond to treatment.
+- [Narrative Medicine](concepts/NarrativeMedicine.md) — Practice joining clinical care with patient, family, and clinician experience through attentive listening and truthful storytelling.
+- [Life-Stage Insurance Planning](concepts/LifeStageInsurancePlanning.md) — Sponsor-qualified framework for revisiting coverage as age, health, dependents, income, and household responsibilities change.
 - [Saint Legend Accretion](concepts/SaintLegendAccretion.md) — Process by which a thin martyr tradition gathers miracles, military identity, imagery, motifs, and institutional patronage.
 - [Dragon-Slayer Motif Layering](concepts/DragonSlayerMotifLayering.md) — Layering of serpent combat, mounted-warrior imagery, rescue narrative, conversion, and classical comparison without a forced single origin.
 - [Patron-Saint Symbolic Plasticity](concepts/PatronSaintSymbolicPlasticity.md) — Capacity of a saintly figure to remain usable across devotional, royal, confessional, national, sporting, and political settings.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8087
+wiki_total_pages: 8090
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "IntelligentFinance"
     title: "Intelligent Finance"
     url: "/wiki/concepts/intelligentfinance/"
+  - key: "IntensiveCareAsTimeBuying"
+    title: "Intensive Care as Time-Buying"
+    url: "/wiki/concepts/intensivecareastimebuying/"
   - key: "IntentContext"
     title: "Intent Context"
     url: "/wiki/concepts/intentcontext/"

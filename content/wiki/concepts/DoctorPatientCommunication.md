@@ -7,7 +7,8 @@ sources:
   - 70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394
   - vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm
   - vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz
-last_updated: 2026-09-23
+  - lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,6 +24,8 @@ In the menopause branch, communication becomes shared decision-making. Patients 
 
 VOL.128 adds an inpatient and family-facing layer. Trauma prognosis may require explaining that technical success does not guarantee survival, discharge, or preserved function. Older patients may need instructions written on medicine boxes or records, repeated, and shared with adult children; respectful encouragement can reduce pressure, but it must not turn an uncertain outcome into a promise.
 
+VOL.118 adds communication when the patient cannot remember or speak. Sedation, restraints, tubes, and amnesia can make successful rescue feel like coercion on waking. In that setting, reassurance, touch, family explanation, and reconstruction of the treatment story are part of humane care, while [[NarrativeMedicine]] makes room for patient, family, and clinician perspectives that routine measurements do not capture.
+
 ## Key Claims
 - A useful visit opening names the main symptom, duration, and relevant changes before background narration.
 - Patients should ask about unfamiliar terms, likely diagnosis, still-unexcluded risks, return triggers, and report access instead of pretending to understand.
@@ -30,7 +33,7 @@ VOL.128 adds an inpatient and family-facing layer. Trauma prognosis may require 
 - Real-life constraints and goals can be clinically relevant when treatment advice has to fit work, caregiving, sleep, medication fears, or priorities.
 - Second opinions are compatible with respect for clinicians when patients present symptoms and records neutrally.
 - Communication should preserve clinical and legal integrity by avoiding false diagnoses, hidden assumptions, unqualified care drift, and adversarial search-result arguments; prognosis should likewise distinguish procedural success from survival, function, recovery, and discharge without using encouragement as false reassurance.
-- Written instructions, repetition, and family participation can make medication, discharge, and perioperative information more durable for older patients.
+- Written instructions, repetition, and family participation can make care information more durable; after sedation or critical illness, the same support can reconstruct why invasive treatment occurred without dismissing the patient's fear or anger.
 
 ## Evidence
 - Visit inputs: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] emphasizes chief complaint, duration, history, allergies, prior tests, treatment effects, and honest feedback as inputs doctors need.
@@ -39,14 +42,14 @@ VOL.128 adds an inpatient and family-facing layer. Trauma prognosis may require 
 - Second opinions: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] and [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] both frame another professional opinion as reasonable when uncertainty or stakes warrant it.
 - Integrity boundaries: [[70-yisheng-ni-zai-xiang-shenme-shao-kan-baidu-yiji-chiyao-shi-bie-chi-xiyou-a-668238394]] warns against false certificate or diagnosis pressure, while [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] warns against replacing qualified care with alternative treatments or health-product promises.
 - Prognosis and durable instructions: [[vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz]] separates procedural success from whole-patient outcome and describes labels, written reminders, repetition, and family participation for older patients.
+- ICU reassurance and reconstruction: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] contrasts encouragement and bedside touch with a survivor's post-sedation misunderstanding, showing why invasive rescue may need later explanation.
 
 ## Counterevidence & Qualifications
-Good communication cannot eliminate scarce appointments, overloaded clinicians, disease uncertainty, severe complications, or system handoff failures. The concept also should not shift all safety responsibility onto patients or family members. The sources make patient questions and family support useful because clinicians and institutions still need to give intelligible explanations, track reports, respect patient agency, and preserve qualified care boundaries.
+Good communication cannot eliminate scarce appointments, overloaded clinicians, disease uncertainty, severe complications, delirium, traumatic memories, or system handoff failures. The concept also should not shift all safety responsibility onto patients or family members. The sources make patient questions and family support useful because clinicians and institutions still need to give intelligible explanations, track reports, respect patient agency, and preserve qualified care boundaries. Encouragement and narrative attention can improve experience without proving a physiological treatment effect or overriding consent and prognosis.
 
 ## What Changed
-- Added the distinction between technical success and whole-patient outcome to prognostic communication.
-- Added written instructions, repetition, and patient-supportive family participation for older patients.
-- Qualified emotional encouragement so that it lowers pressure without promising recovery.
+- Added the post-sedation need to reconstruct invasive treatment for patients who lack rescue memories.
+- Connected reassurance, touch, and clinician stories to communication while preserving treatment, consent, and prognosis boundaries.
 
 ## Related Concepts
 - [[MedicalDiagnosticReasoning]] - communication supplies the input that diagnosis needs.
@@ -58,3 +61,5 @@ Good communication cannot eliminate scarce appointments, overloaded clinicians, 
 - [[PatientAIUse]] - outside-information branch that becomes safer when made visible to clinicians.
 - [[ClinicalOutcomeUncertainty]] - prognosis boundary between an intervention and the patient's eventual course.
 - [[ClinicalTrustBuilding]] - relational pattern joining explanation, responsibility, encouragement, and continuity.
+- [[NarrativeMedicine]] - lived-experience and storytelling layer of clinical communication.
+- [[IntensiveCareAsTimeBuying]] - critical-care context where memory gaps and invasive support complicate understanding.

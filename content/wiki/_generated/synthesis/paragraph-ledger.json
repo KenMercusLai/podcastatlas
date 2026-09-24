@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
       "1729088f961a00bc2af68fa44edab26e5981527d21f25b1394499ae9a7f5a2e2",
       "5339b4a98df7bd41706f0d2e0b00827283a576eccb19532815044f668176ef47",
       "c6e6e63d0b4d6e44932e953417d657ef1e428b227040c358c4348666bc1b1dc1",
@@ -701,11 +702,37 @@
       "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73",
       "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96"
     ],
-    "paragraph_count": 699
+    "paragraph_count": 700
   },
-  "overview_commit": "c08fc2d85914d160ea61d1eaecff39dd34188ce7",
-  "overview_digest": "2d2d32ae003b5e19005af10bd53773b51fcbc7b3ea9f8d0f770a33bbbec351c9",
+  "overview_commit": "462d667dd15eb340d355dde9f41c710c8be62164",
+  "overview_digest": "3f9d5cd7850332eef31f38860989318cb06932cbbdb7d74e62d0ce89c73c76cc",
   "paragraphs": [
+    {
+      "id": "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate",
+        "work-education-and-society"
+      ],
+      "text": "The newest intensive-care source, [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm|VOL.118你见过深夜的ICU吗？打破你的刻板印象]], has [[Atang|阿汤]] and [[ZihanDoctor|尹子涵]] connect [[IntensiveCareAsTimeBuying]], [[NarrativeMedicine]], and [[DoctorPatientCommunication]] to organ support, admission benefit, fixed ICU capacity, sedation-related memory gaps, reassurance, post-event explanation, and invisible clinician labor. It adds [[XieWeiInsurance|谢为]] and [[LifeStageInsurancePlanning]] while extending [[XiaoyusanInsurance|小雨伞]] and [[InsuranceClaimsAssistancePlatforms]] through a sponsored broker-and-service segment. Its core synthesis is that ICU can create time for acute, potentially reversible illness without guaranteeing survival or function, while humane explanation helps patients and families understand invasive care they could not fully witness or remember; insurance products likewise answer different cash risks and must be judged by eligibility, affordability, contract terms, and life stage rather than treated as interchangeable. No settled contradiction is recorded; ICU outcomes, admission decisions, insurance age bands, waiting periods, budget ratios, company scale, and platform services remain source-scoped public education or sponsor claims rather than individualized medical or financial advice.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "Atang",
+        "DoctorPatientCommunication",
+        "InsuranceClaimsAssistancePlatforms",
+        "IntensiveCareAsTimeBuying",
+        "LifeStageInsurancePlanning",
+        "NarrativeMedicine",
+        "XiaoyusanInsurance",
+        "XieWeiInsurance",
+        "ZihanDoctor",
+        "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm"
+      ]
+    },
     {
       "id": "1729088f961a00bc2af68fa44edab26e5981527d21f25b1394499ae9a7f5a2e2",
       "primary_topic": "culture-and-media",

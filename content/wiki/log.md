@@ -22304,3 +22304,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | VOL.118你见过深夜的ICU吗？打破你的刻板印象
+
+Added source. Key claims: ICU actively supports failing organs to buy time for reversible illness; benefit, capacity, sedation-related memory gaps, narrative medicine, and invisible clinical labor complicate the “terminal destination” stereotype; sponsored insurance guidance is preserved as source-scoped life-stage planning and platform-service description.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
