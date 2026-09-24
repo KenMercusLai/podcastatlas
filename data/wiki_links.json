@@ -15607,6 +15607,10 @@
     "title": "Consumer Trend Spotting",
     "url": "/wiki/concepts/consumertrendspotting/"
   },
+  "ConsumptionMoralization": {
+    "title": "Consumption Moralization / 消费道德化",
+    "url": "/wiki/concepts/consumptionmoralization/"
+  },
   "ContactCenterAI": {
     "title": "Contact Center AI",
     "url": "/wiki/concepts/contactcenterai/"
@@ -22627,6 +22631,10 @@
     "title": "Exor",
     "url": "/wiki/entities/exor/"
   },
+  "ExpansionaryVsAnxietyMarketing": {
+    "title": "Expansionary vs Anxiety-Based Marketing / 扩张型与焦虑型营销",
+    "url": "/wiki/concepts/expansionaryvsanxietymarketing/"
+  },
   "ExpectationMatchedScientificFraud": {
     "title": "Expectation-Matched Scientific Fraud",
     "url": "/wiki/concepts/expectationmatchedscientificfraud/"
@@ -27803,6 +27811,10 @@
     "title": "Goodluck Jonathan",
     "url": "/wiki/entities/goodluckjonathan/"
   },
+  "GoodsAsFutureSelfProjection": {
+    "title": "Goods As Future-Self Projection / 商品的未来自我投射",
+    "url": "/wiki/concepts/goodsasfutureselfprojection/"
+  },
   "Goodyear": {
     "title": "Goodyear",
     "url": "/wiki/entities/goodyear/"
@@ -32446,6 +32458,10 @@
   "Imbangala": {
     "title": "Imbangala",
     "url": "/wiki/entities/imbangala/"
+  },
+  "ImitativeSelfFormation": {
+    "title": "Imitative Self-Formation / 模仿式自我塑造",
+    "url": "/wiki/concepts/imitativeselfformation/"
   },
   "ImmanuelKant": {
     "title": "Immanuel Kant / 康德",
@@ -86114,5 +86130,9 @@
   "zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht": {
     "title": "总第070期｜五周年台庆特辑：大主播 vs 小播客【下】AI 到底有啥好用的",
     "url": "/wiki/sources/zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht/"
+  },
+  "zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211": {
+    "title": "总第072期：我是千禧年的孩子，我是消费主义者",
+    "url": "/wiki/sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211/"
   }
 }

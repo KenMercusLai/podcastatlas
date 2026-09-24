@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [总第072期：我是千禧年的孩子，我是消费主义者](sources/zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211.md) — 读报teleread episode connecting stored objects, impossible shopping, sophistication, advertising, and millennial optimism through future-self projection and the ethics of influenced desire.
 - [How to Improve Skin Health & Appearance](sources/how-to-improve-skin-health-appearance-scim9334288497.md) — Huberman Lab solo episode on layered sun protection, barrier care, appearance interventions, lifestyle context, and distinct acne, rosacea, and psoriasis pathways.
 - [VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”](sources/vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7.md) — 这病说来话长 episode with 董心彤 on pain-driven sleep disruption, nighttime pain mechanisms, analgesic self-care boundaries, multidisciplinary sleep care, and sponsor-qualified combination-drug claims.
 - [466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)](sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792.md) — The Rest Is History episode on Princip's formation, Black Hand-linked support, cross-border logistics, Franz Ferdinand's reform threat, and divided Serbian authority.
@@ -13500,6 +13501,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Coos](entities/BoostCoos.md) — Protein-rich couscous alternative using small restaurants and chefs to build food-service proof.
 
 ## Concepts
+- [Goods As Future-Self Projection / 商品的未来自我投射](concepts/GoodsAsFutureSelfProjection.md) — How possessions and prospective purchases carry memory, imagined activity, and hoped-for identities beyond practical utility.
+- [Imitative Self-Formation / 模仿式自我塑造](concepts/ImitativeSelfFormation.md) — How practicing an admired style or cultural form can become real learning while retaining status and access limits.
+- [Expansionary vs Anxiety-Based Marketing / 扩张型与焦虑型营销](concepts/ExpansionaryVsAnxietyMarketing.md) — Distinguishes invitations into new possibilities from messages that manufacture deficiency, shame, urgency, or fear before selling repair.
+- [Consumption Moralization / 消费道德化](concepts/ConsumptionMoralization.md) — Separates affordability, utility, influence, pleasure, happiness, and ethics from total judgments about consumer virtue.
 - [Pain-Sleep Feedback Loop / 疼痛—睡眠反馈循环](concepts/PainSleepFeedbackLoop.md) — Reinforcing cycle in which pain disrupts sleep and poor sleep worsens function, coping, or pain vulnerability.
 - [Nighttime Pain Amplification / 夜间疼痛放大](concepts/NighttimePainAmplification.md) — Source-scoped multifactorial frame linking nocturnal pain prominence to biological timing, autonomic state, inflammation, activity, and attention.
 - [Analgesic Self-Care Escalation / 止痛药自我用药升级边界](concepts/AnalgesicSelfCareEscalation.md) — Boundary between limited labeled relief of familiar acute pain and pharmacist or clinician review for persistence, recurrence, complexity, or medication risk.

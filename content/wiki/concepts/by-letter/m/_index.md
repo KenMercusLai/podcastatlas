@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8061
+wiki_total_pages: 8065
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"

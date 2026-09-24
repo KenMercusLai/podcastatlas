@@ -22204,3 +22204,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 总第072期：我是千禧年的孩子，我是消费主义者
+
+Added source `zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211`; created `GoodsAsFutureSelfProjection`, `ImitativeSelfFormation`, `ExpansionaryVsAnxietyMarketing`, and `ConsumptionMoralization`; updated `DuBaoTeleread` from its complete bounded source set; and updated the index. Core synthesis: possessions and purchases can hold imagined futures and identities, externally influenced desire is not automatically false, imitation can become real cultural learning, and ethical criticism should distinguish possibility-expanding persuasion from deficiency-based manipulation while separating affordability, utility, pleasure, and happiness. No settled contradiction found. Claims about a historical shift from optimistic to anxiety-based advertising, technology leaders' sophistication, and the explanatory reach of cultural-capital theory remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

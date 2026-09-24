@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8061
+wiki_total_pages: 8065
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "Existutions"
     title: "Existutions"
     url: "/wiki/concepts/existutions/"
+  - key: "ExpansionaryVsAnxietyMarketing"
+    title: "Expansionary vs Anxiety-Based Marketing / 扩张型与焦虑型营销"
+    url: "/wiki/concepts/expansionaryvsanxietymarketing/"
   - key: "ExpectationMatchedScientificFraud"
     title: "Expectation-Matched Scientific Fraud"
     url: "/wiki/concepts/expectationmatchedscientificfraud/"

@@ -6,21 +6,22 @@ sources:
   - zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht
   - zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u
   - mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4
-last_updated: 2026-09-11
+  - zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211
+last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
 
 # 读报teleread / 独报
 
 ## Overview
-读报teleread / 独报 is a Chinese podcast show represented in the wiki by fifth-anniversary specials on creator workflow, writing, podcast form, AI use, and long-term independent podcast sustainability, plus a regular reading episode that links article discussion to modern life judgment burdens.
+读报teleread / 独报 is a Chinese podcast show represented in the wiki by fifth-anniversary specials on creator workflow, writing, podcast form, AI use, and long-term independent podcast sustainability, plus regular reading episodes that connect magazine and academic materials to broader questions about judgment, trust, desire, consumption, and identity.
 
 ## Current Profile
 The current sources present the show as a high-information, voice-centered podcast whose creator treats article selection, writing, sound design, scripting, comments, and show notes as distinct production layers. The upper-half anniversary episode emphasizes the show's five-year history: early exploration of single-host podcasting, a period of audio-drama-inspired sound-production experiments, and a more recent return to regular episodes, planned specials, and interviews.
 
 The lower-half anniversary episode adds the AI boundary. AI is welcomed as an assistant for recommendations, search, organization, and operational details, but the show resists handing over script voice, argument progression, and speaker reaction to AI because those choices define the program's identity. Together, the sources frame the show as a small, long-running creator project balancing writing ideals, listener trust, platform feedback, tipping, release rhythm, and the exhaustion created by repeated principled choices.
 
-The regular reading episode shows the show's ordinary synthesis mode. It moves across romance, cinema, and epistemology by turning separate articles into a shared question about how individuals now bear more choice, interpretation, and trust-allocation work.
+The regular reading episodes show the show's ordinary synthesis mode. One moves across romance, cinema, and epistemology by turning separate articles into a shared question about how individuals now bear more choice, interpretation, and trust-allocation work. The later consumption episode connects self-storage, online shopping, sophistication, and advertising through the way goods and styles carry imagined future selves. It also shows the host's preference for qualified distinctions over moral binaries: influenced desire can remain real, imitation can become learning, and pleasure need not claim to be happiness.
 
 ## Key Characteristics
 - It is a Chinese podcast centered on reading, interpreting, and discussing articles through a recognizable host voice.
@@ -29,7 +30,7 @@ The regular reading episode shows the show's ordinary synthesis mode. It moves a
 - It uses AI selectively for support tasks such as article recommendation, research breadth, and show notes.
 - It places high value on accuracy, source checking, original reading, and listener correction.
 - It treats podcasting as a voice medium while framing long-term creation as a balance between interest, tacit taste, principle, cost, recognition, data, and reduced friction.
-- Its regular episodes can connect disparate articles through a larger interpretive thread rather than only summarizing each item separately.
+- Its regular episodes connect disparate articles through larger interpretive threads and often preserve tensions rather than resolving them into simple moral verdicts.
 
 ## Evidence
 - Show identity and anniversary context: [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] and [[zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u]] present paired fifth-anniversary specials and identify the show in metadata as 读报teleread while the body uses 独报/读报 naming.
@@ -41,13 +42,15 @@ The regular reading episode shows the show's ordinary synthesis mode. It moves a
 - Medium stance: [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] treats video podcasting as valid when video is the better language, but argues that platforms should still leave room for voice-first work.
 - Sustainability: [[zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u]] describes tipping, platform data, comments, release regularity, and the wish to send listeners back to original articles; [[zong-di-070-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-xia-ai-daodi-you-sha-haoyong-de-cmswlihjk12g601zlfjov42ht]] turns the discussion toward correct but expensive choices, recognition envy, subscriber scale, and reducing the friction of continuing.
 - Regular synthesis practice: [[mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4]] connects romance slump, premium cinema formats, and epistemic authority through the common burden of individual judgment.
+- Desire and consumption synthesis: [[zong-di-072-qi-wo-shi-qianxi-nian-de-haizi-wo-shi-xiaofei-zhuyizhe-cmufb34v60djg01x4atjs8211]] connects storage, shopping indecision, sophistication, and advertising through future-self projection, imitation, marketing mechanism, and the moralization of pleasure.
 
 ## Qualifications
-This page is source-limited to two fifth-anniversary episodes and one regular reading episode. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources.
+This page is source-limited to two fifth-anniversary episodes and two regular reading episodes. It does not establish the show's full public history, host identity beyond the source perspective, full audience size, complete episode catalog, or complete platform strategy. The metadata says 读报teleread while the body repeatedly uses 独报/读报; this page keeps those names together pending more sources.
 
 ## What Changed
 - Added the upper-half anniversary source, shifting the profile from only AI workflow toward the show's five-year creative history, writing identity, and independent-podcast sustainability.
 - Added a regular reading episode showing how the show synthesizes multiple articles into a shared judgment problem.
+- Added the consumption episode, extending that synthesis profile to desire, identity, advertising, and qualified moral judgment.
 
 ## Relationships
 - [[PodcastProductionWorkflow]] - the source's detailed script, recommendation, and show-notes workflow grounds the show's production profile.
@@ -58,3 +61,5 @@ This page is source-limited to two fifth-anniversary episodes and one regular re
 - [[AIGeneratedContentQualityGap]] - the source's critique of circular AI writing explains why generic output is not enough.
 - [[VideoPodcastAffordance]] - the source qualifies video podcasting by defending voice-first podcast work.
 - [[CognitiveTrustAllocation]] - the regular episode turns article reading into a question of delegated judgment and knowledge trust.
+- [[ConsumptionMoralization]] - the later regular episode separates ordinary pleasure and financial judgment from total moral verdicts about consumption.
+- [[ImitativeSelfFormation]] - its sophistication discussion treats cultural imitation as a possible route to learning and self-formation.

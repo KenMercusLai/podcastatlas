@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8061
+wiki_total_pages: 8065
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "GoodhartsLaw"
     title: "Goodhart's Law"
     url: "/wiki/concepts/goodhartslaw/"
+  - key: "GoodsAsFutureSelfProjection"
+    title: "Goods As Future-Self Projection / 商品的未来自我投射"
+    url: "/wiki/concepts/goodsasfutureselfprojection/"
   - key: "GoogleAITokenPriceLeverage"
     title: "Google AI Token Price Leverage"
     url: "/wiki/concepts/googleaitokenpriceleverage/"
