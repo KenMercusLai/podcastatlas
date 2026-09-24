@@ -22256,3 +22256,11 @@ Added source `465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580`
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事
+
+Added source `vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla`; created `PrehospitalEmergencyMedicalResponse`, `JiaDoctorZheBing`, and `WangXuedi`; and updated `FirstAidTriageAndEscalation`, `XueDoctorZheBing`, and `YinLaoshiZheBing` from their complete bounded source sets. Core synthesis: 120 is an end-to-end system spanning dispatch, caller preparation, crew access, stabilization, capability-aware destination choice, transport, emergency-department handoff, documentation, and workforce safety. No settled contradiction found; timing, charges, crew composition, destination rules, recording, refusal practice, and hospital capacity remain location- and provider-specific. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

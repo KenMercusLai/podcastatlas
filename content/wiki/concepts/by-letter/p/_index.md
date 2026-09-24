@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8072
+wiki_total_pages: 8073
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1286,6 +1286,9 @@ wiki_pages:
   - key: "PregnancyUrinalysisTriage"
     title: "Pregnancy Urinalysis Triage / 孕期尿常规分层判断"
     url: "/wiki/concepts/pregnancyurinalysistriage/"
+  - key: "PrehospitalEmergencyMedicalResponse"
+    title: "Prehospital Emergency Medical Response / 院前急救响应"
+    url: "/wiki/concepts/prehospitalemergencymedicalresponse/"
   - key: "PremarketFoodSafetyReview"
     title: "Premarket Food Safety Review"
     url: "/wiki/concepts/premarketfoodsafetyreview/"

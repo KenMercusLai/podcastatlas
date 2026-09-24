@@ -47130,9 +47130,9 @@
       "url": "/wiki/concepts/finetuningexamplesignalamplification/"
     },
     "FirstAidTriageAndEscalation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -47147,6 +47147,13 @@
           "show": "这病说来话长",
           "title": "VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解",
           "url": "/wiki/sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8/"
+        },
+        {
+          "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
+          "key": "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla",
+          "show": "这病说来话长",
+          "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+          "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
         }
       ],
       "updated": "2026-09-24",
@@ -70591,6 +70598,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/jiabiaolatehan/"
+    },
+    "JiaDoctorZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
+          "key": "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla",
+          "show": "这病说来话长",
+          "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+          "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/jiadoctorzhebing/"
     },
     "JiaFuEasternHan": {
       "episode_count": 5,
@@ -106202,6 +106225,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/pregnancyurinalysistriage/"
     },
+    "PrehospitalEmergencyMedicalResponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
+          "key": "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla",
+          "show": "这病说来话长",
+          "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+          "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/prehospitalemergencymedicalresponse/"
+    },
     "PremiumCinemaExperienceEconomy": {
       "episode_count": 1,
       "show_count": 1,
@@ -139893,6 +139932,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/wangxiulatehan/"
     },
+    "WangXuedi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
+          "key": "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla",
+          "show": "这病说来话长",
+          "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+          "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/wangxuedi/"
+    },
     "WangYeXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -146707,9 +146762,9 @@
       "url": "/wiki/entities/xuanzang/"
     },
     "XueDoctorZheBing": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
@@ -146738,9 +146793,16 @@
           "show": "这病说来话长",
           "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
           "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        },
+        {
+          "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
+          "key": "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla",
+          "show": "这病说来话长",
+          "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+          "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/xuedoctorzhebing/"
     },
     "XueFangXinRecluse": {
@@ -148914,9 +148976,9 @@
       "url": "/wiki/entities/yinchengprincess/"
     },
     "YinLaoshiZheBing": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lifKugB27D79Ut30LWFMU5voJeGC [lifKugB27D79Ut30LWFMU5voJeGC].md",
@@ -148931,9 +148993,16 @@
           "show": "这病说来话长",
           "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
           "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        },
+        {
+          "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
+          "key": "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla",
+          "show": "这病说来话长",
+          "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+          "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/yinlaoshizhebing/"
     },
     "YinLihua": {

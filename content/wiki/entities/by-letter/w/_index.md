@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10701
+wiki_total_pages: 10703
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1445,6 +1445,9 @@ wiki_pages:
   - key: "WangLingMother"
     title: "王陵母亲 / Mother of Wang Ling"
     url: "/wiki/entities/wanglingmother/"
+  - key: "WangXuedi"
+    title: "王雪迪 / Wang Xuedi"
+    url: "/wiki/entities/wangxuedi/"
   - key: "WangBaEasternHan"
     title: "王霸 / Wang Ba (Eastern Han)"
     url: "/wiki/entities/wangbaeasternhan/"

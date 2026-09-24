@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10701
+wiki_total_pages: 10703
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "JiaYuanchun"
     title: "贾元春 / Jia Yuanchun"
     url: "/wiki/entities/jiayuanchun/"
+  - key: "JiaDoctorZheBing"
+    title: "贾医生 / Jia Doctor (这病说来话长)"
+    url: "/wiki/entities/jiadoctorzhebing/"
   - key: "JiaFuEasternHan"
     title: "贾复 / Jia Fu (Eastern Han)"
     url: "/wiki/entities/jiafueasternhan/"

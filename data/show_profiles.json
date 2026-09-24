@@ -3451,7 +3451,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 63,
+      "source_note_count": 64,
       "topic_matched_source_note_count": 5,
       "topics": [
         {
@@ -3517,16 +3517,16 @@
           "episode_count": 3
         },
         {
-          "key": "YueWanrou",
-          "title": "岳宛柔 / Yue Wanrou",
-          "url": "/wiki/entities/yuewanrou/",
+          "key": "YinLaoshiZheBing",
+          "title": "尹老师 / Yin Laoshi (Zhe Bing speaker)",
+          "url": "/wiki/entities/yinlaoshizhebing/",
           "kind": "person",
           "episode_count": 3
         },
         {
-          "key": "MaoZheTCMDoctor",
-          "title": "毛哲 / Mao Zhe (TCM Guest)",
-          "url": "/wiki/entities/maozhetcmdoctor/",
+          "key": "YueWanrou",
+          "title": "岳宛柔 / Yue Wanrou",
+          "url": "/wiki/entities/yuewanrou/",
           "kind": "person",
           "episode_count": 3
         }

@@ -34971,6 +34971,10 @@
     "title": "贾从 / Jia Cong (late Han)",
     "url": "/wiki/entities/jiaconglatehan/"
   },
+  "JiaDoctorZheBing": {
+    "title": "贾医生 / Jia Doctor (这病说来话长)",
+    "url": "/wiki/entities/jiadoctorzhebing/"
+  },
   "JiaFamilyHousehold": {
     "title": "贾府 / Jia Family Household",
     "url": "/wiki/entities/jiafamilyhousehold/"
@@ -52311,6 +52315,10 @@
     "title": "Pregnancy Urinalysis Triage / 孕期尿常规分层判断",
     "url": "/wiki/concepts/pregnancyurinalysistriage/"
   },
+  "PrehospitalEmergencyMedicalResponse": {
+    "title": "Prehospital Emergency Medical Response / 院前急救响应",
+    "url": "/wiki/concepts/prehospitalemergencymedicalresponse/"
+  },
   "PremarketFoodSafetyReview": {
     "title": "Premarket Food Safety Review",
     "url": "/wiki/concepts/premarketfoodsafetyreview/"
@@ -69603,6 +69611,10 @@
     "title": "王修 / Wang Xiu (late Han)",
     "url": "/wiki/entities/wangxiulatehan/"
   },
+  "WangXuedi": {
+    "title": "王雪迪 / Wang Xuedi",
+    "url": "/wiki/entities/wangxuedi/"
+  },
   "WangYangming": {
     "title": "王阳明 / Wang Yangming",
     "url": "/wiki/entities/wangyangming/"
@@ -81102,6 +81114,10 @@
   "vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt": {
     "title": "vol.120.日本医疗体系的崩溃与重生：医院、药品、医保三角困局的一种解法",
     "url": "/wiki/sources/vol-120-riben-yiliao-tixi-de-bengkui-yu-zhongsheng-yiyuan-yaopin-yibao-sanjiao-kunju-de-yizhong-jiefa-lp-p5p1cybbldphe0qajteggsitt/"
+  },
+  "vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla": {
+    "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
+    "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
   },
   "vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7": {
     "title": "VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”",

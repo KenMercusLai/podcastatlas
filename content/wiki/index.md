@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事](sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla.md) — 这病说来话长 episode on 120 dispatch, caller preparation, transport and destination choice, emergency-department handoff, documentation, and ambulance-worker risk.
 - [465. The Murder of Franz Ferdinand: The Killer (Part 1)](sources/465-the-murder-of-franz-ferdinand-the-killer-part-1-glt8626991580.md) — The Rest Is History episode on Princip's rural childhood, Sarajevo schooling, Young Bosnia radicalization, South Slav nationalism, and Bogdan Zerajic's martyr example.
 - [Finding common ground in the U.S.-China AI rivalry](sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128.md) — Marketplace Tech interview with Sam Sachs on competitive AI-safety incentives, regulation and innovation in China, export-control feedback, and narrow technical cooperation.
 - [Home disadvantage: risks in housing markets](sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e.md) — The Intelligence episode on renewed housing rate-shock vulnerability, weak early effects from Australia's under-16 social-media ban, and Fauda season five as a partial witness to Israeli trauma.
@@ -2802,6 +2803,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
 
 ## Entities
+- [王雪迪 / Wang Xuedi](entities/WangXuedi.md) — Emergency physician explaining ambulance–emergency-department interdependence, repeated dispatch, fatigue, lifting, and field-safety pressure.
+- [贾医生 / Jia Doctor (这病说来话长)](entities/JiaDoctorZheBing.md) — Source-scoped neurosurgeon whose ambulance-collision account connects responder safety with continuity of patient transport.
 - [Young Bosnia](entities/YoungBosnia.md) — Loose student and intellectual milieu that gave Princip's South Slav nationalism a radical social language without itself supplying a clear operational command.
 - [Danilo Illich](entities/DaniloIllich.md) — Older Sarajevo friend who connected Princip's literary interests to revolutionary texts and a radical peer network.
 - [Bogdan Zerajic](entities/BogdanZerajic.md) — Failed assassin whose 1910 attack, suicide, and posthumous heroization became Princip's martyr model.
@@ -3634,7 +3637,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [乌珠留单于 / Wuzhuliu Chanyu](entities/WuzhuliuChanyu.md) — Xiongnu ruler who tests, delays, rejects, and reports Xiahou Fan's Western Han land demand.
 - [iPhone Duo](entities/IPhoneDuo.md) — Apple's foldable iPhone product from Vol. 174, framed as a new phone-tablet category with price, weight, eSIM, and app-adaptation tradeoffs.
 - [Lily Radiographer / 澳洲放射师 Lily](entities/LilyRadiographer.md) — Australian radiographer explaining public/private imaging workflow, radiographer scope, urgent image recognition, and patient-result boundaries.
-- [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — Neurologist and clinician guest explaining Alzheimer staging and diagnosis, migraine, and China-side imaging and outpatient workflows.
+- [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — Neurologist and recurring clinician guest explaining 120 operations, Alzheimer staging, migraine, and China-side imaging and outpatient workflows.
 - [斑马酱 / Banma Jiang](entities/BanmaJiangMedicalGuest.md) — Source-scoped 大物是也-affiliated guest explaining migraine screening, medication tradeoffs, CGRP therapies, and neuromodulation limits.
 - [Tung Chee-hwa / 董建華](entities/TungCheeHwa.md) — Hong Kong's first chief executive, synthesized through the Tung obituary as a shipping-family heir, Beijing-backed leader, crisis administrator, and later establishment elder.
 - [Hong Kong Chief Executive / 香港行政長官](entities/HongKongChiefExecutive.md) — Post-1997 office whose early legitimacy limits are examined through Tung Chee-hwa's tenure.
@@ -5057,7 +5060,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [果同学 / Guo Music Therapy Guest](entities/GuoMusicTherapyGuest.md) — Source-scoped 这病说来话长 guest explaining clinical music therapy, therapist musicianship, synchrony, elder memory cueing, and China/Korea professionalization boundaries.
 - [Ander (medical-aesthetics guest)](entities/AnderMedicalAesthetics.md) — Source-scoped VOL.211 guest explaining exercise appearance tradeoffs, outdoor skin exposure, facial strain, weight-loss looseness, and function-aware medical-aesthetic choices.
 - [邓教授 / Professor Deng (cardiology guest)](entities/DengProfessorCardiology.md) — Source-scoped VOL.211 cardiovascular-medicine guest explaining heart-rate limits, blood-pressure context, overtraining, sleep/caffeine recovery debt, cardiopulmonary assessment, and BLS/AED response.
-- [尹老师 / Yin Laoshi (Zhe Bing speaker)](entities/YinLaoshiZheBing.md) — Source-scoped VOL.213 speaker grounding mosquito-repellent choice in active ingredients, concentration, application, reapplication, and household prevention.
+- [尹老师 / Yin Laoshi (Zhe Bing speaker)](entities/YinLaoshiZheBing.md) — Source-scoped speaker contributing emergency handoff, medical-imaging risk, and mosquito-prevention literacy.
 - [吴老师 / Wu Laoshi (Zhe Bing speaker)](entities/WuLaoshiZheBing.md) — Source-scoped VOL.213 speaker grounding severe insect-reaction examples, rove-beetle dermatitis, chigger/eschar concerns, and bite-related escalation.
 - [岳宛柔 / Yue Wanrou](entities/YueWanrou.md) — VOL.215 guest explaining sugar preference, staple foods, liquid sugar, low-GI claims, labels, sweeteners, and practical sugar control.
 - [余婉柔 / Yu Wanrou (functional food guest)](entities/YuWanrouFunctionalFoodGuest.md) — Source-scoped VOL.209 guest explaining functional-food identity, supplement need assessment, protein powders, electrolyte drinks, fish oil, meal replacements, label reading, and marketing-claim boundaries.
@@ -13515,6 +13518,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Maropost](entities/Maropost.md) — Bootstrapped marketing-automation and e-commerce SaaS company shaped by responsive service, founder-led sales, investor conflict, and acquisitions.
 
 ## Concepts
+- [Prehospital Emergency Medical Response / 院前急救响应](concepts/PrehospitalEmergencyMedicalResponse.md) — Dispatch-to-handoff framework joining caller information, crew readiness, scene access, destination capability, transport, documentation, and worker safety.
 - [Political Martyr Emulation](concepts/PoliticalMartyrEmulation.md) — Process by which commemorated violent failure and self-sacrifice become a repeatable script for later radicals.
 - [U.S.-China AI Technical Cooperation](concepts/USChinaAITechnicalCooperation.md) — Narrow expert, standards, and private-sector work on shared AI and cybersecurity risks despite strategic rivalry.
 - [AI Regulation-Innovation Compatibility](concepts/AIRegulationInnovationCompatibility.md) — Qualified claim that AI safeguards and continued innovation can coexist without making every regulatory model desirable or transferable.
