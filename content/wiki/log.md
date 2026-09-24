@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | How to Improve Skin Health & Appearance
+
+Added source `how-to-improve-skin-health-appearance-scim9334288497`; created `InflammatorySkinConditionTriage`; updated `SkinBarrierRoutine`, `UVExposureSkinProtection`, `DermatologicRenewalAndCancerPrevention`, and the index. Core synthesis: skin care is layered across context-sensitive ultraviolet protection, low-irritation barrier maintenance, modest adjuncts, supervised active treatments, and distinct acne, rosacea, and psoriasis mechanisms; lifestyle measures can support those layers but do not replace diagnosis, lesion surveillance, or condition-specific care. No settled contradiction found; hydration language was reconciled around correcting actual dehydration rather than using excess water as a cosmetic treatment, while supplement doses, sunscreen chemistry, laser risk reduction, phototherapy, dietary mechanisms, and treatment details remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill
 
 Added source `how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101`; created `MatthewHill`, `EndocannabinoidHomeostaticSignaling`, `CannabisDoseRouteVulnerability`, `CannabisPsychosisCausalityBoundary`, `CannabisStrainLabelEvidenceBoundary`, `CBDEvidenceDoseBoundary`, and `CannabisMedicalUseEvidenceBoundary`; and updated the index. Core synthesis: cannabis effects depend on receptor mechanism, dose, route, product, tolerance, and user vulnerability; population associations do not by themselves prove simple causation; commercial strain and low-dose CBD claims often outrun blinded or clinical evidence; and medical uses must be assessed indication by indication alongside pulmonary, cardiovascular, psychiatric, reproductive, impairment, and use-disorder risks. No settled contradiction found; the episode explicitly corrects earlier psychosis-causation and indica/sativa framing, while cognitive, genetic-directionality, potency, cardiovascular, fertility, pregnancy, terpene, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22192,6 +22196,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”
 
 Added source `vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7`; created `PainSleepFeedbackLoop`, `NighttimePainAmplification`, `AnalgesicSelfCareEscalation`, and `MultidisciplinarySleepCare`; updated `DongXintong` from its complete bounded source set; and updated the index. Core synthesis: pain and poor sleep can reinforce one another, nighttime pain may be amplified by interacting biological and attentional factors, and limited symptom relief should give way to cause-directed assessment when pain persists, recurs, or becomes clinically complex. The source's acetaminophen/NSAID grouping is corrected, and its combination-drug discussion remains sponsor-qualified. No settled contradiction with the insomnia branch was found because the episode addresses pain-driven sleep disruption rather than chronic insomnia as one diagnosis. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

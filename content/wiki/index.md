@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Improve Skin Health & Appearance](sources/how-to-improve-skin-health-appearance-scim9334288497.md) — Huberman Lab solo episode on layered sun protection, barrier care, appearance interventions, lifestyle context, and distinct acne, rosacea, and psoriasis pathways.
 - [VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”](sources/vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7.md) — 这病说来话长 episode with 董心彤 on pain-driven sleep disruption, nighttime pain mechanisms, analgesic self-care boundaries, multidisciplinary sleep care, and sponsor-qualified combination-drug claims.
 - [466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)](sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792.md) — The Rest Is History episode on Princip's formation, Black Hand-linked support, cross-border logistics, Franz Ferdinand's reform threat, and divided Serbian authority.
 - [VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解](sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8.md) — 这病说来话长 episode on collapse triage, high-quality CPR, device-guided defibrillation, practical AED access, and China-facing voluntary-rescue protection.
@@ -13580,6 +13581,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Skin Barrier Routine](concepts/SkinBarrierRoutine.md) — Minimal daily-care framework for gentle cleansing, skin-type-matched moisturizing, irritant reduction, and condition-specific escalation.
 - [UV Exposure and Skin Protection](concepts/UVExposureSkinProtection.md) — Dose-sensitive framework joining burn avoidance, physical barriers, sunscreen, photoaging reduction, and multifactorial cancer risk.
 - [Dermatologic Renewal and Cancer Prevention](concepts/DermatologicRenewalAndCancerPrevention.md) — Clinical hierarchy joining prescription retinoids, resurfacing, surveillance, and bounded immune approaches.
+- [Inflammatory Skin Condition Triage](concepts/InflammatorySkinConditionTriage.md) — Mechanism-first distinction among acne, rosacea, and psoriasis with shared self-care limits and condition-specific escalation.
 - [Electric Two-Wheeler Premiumization / 电动两轮车高端化](concepts/ElectricTwoWheelerPremiumization.md) — Framework joining practical smart features, design, youth identity, and offline service into a higher-price electric two-wheeler proposition.
 - [Lollardy](concepts/Lollardy.md) — Wycliffite reform movement whose persecution, rebellion, and Lancastrian connections complicate Henry V's religious profile.
 - [Story-Driven Portrait Photography / 故事型人像摄影](concepts/StoryDrivenPortraitPhotography.md) — Planned image-making method joining theme, research, casting, place, direction, contingency, and editing.

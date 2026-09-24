@@ -33400,9 +33400,9 @@
       "url": "/wiki/entities/deodorodafonseca/"
     },
     "DermatologicRenewalAndCancerPrevention": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -33417,6 +33417,13 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM9334288497 [SCIM9334288497].md",
+          "key": "how-to-improve-skin-health-appearance-scim9334288497",
+          "show": "Huberman Lab",
+          "title": "How to Improve Skin Health & Appearance",
+          "url": "/wiki/sources/how-to-improve-skin-health-appearance-scim9334288497/"
         }
       ],
       "updated": "2026-09-24",
@@ -67354,6 +67361,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/infinityventurestudio/"
+    },
+    "InflammatorySkinConditionTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9334288497 [SCIM9334288497].md",
+          "key": "how-to-improve-skin-health-appearance-scim9334288497",
+          "show": "Huberman Lab",
+          "title": "How to Improve Skin Health & Appearance",
+          "url": "/wiki/sources/how-to-improve-skin-health-appearance-scim9334288497/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/inflammatoryskinconditiontriage/"
     },
     "InflatedPropertyTransactionFraudRisk": {
       "episode_count": 1,
@@ -121543,9 +121566,9 @@
       "url": "/wiki/entities/skims/"
     },
     "SkinBarrierRoutine": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -121553,9 +121576,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve & Protect Your Skin Health & Appearance | Dr. Teo Soleymani",
           "url": "/wiki/sources/how-to-improve-protect-your-skin-health-appearance-dr-teo-soleymani-scim2145176738/"
+        },
+        {
+          "episode_file": "SCIM9334288497 [SCIM9334288497].md",
+          "key": "how-to-improve-skin-health-appearance-scim9334288497",
+          "show": "Huberman Lab",
+          "title": "How to Improve Skin Health & Appearance",
+          "url": "/wiki/sources/how-to-improve-skin-health-appearance-scim9334288497/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/skinbarrierroutine/"
     },
     "SkippingPlyometricProgression": {
@@ -134738,9 +134768,9 @@
       "url": "/wiki/entities/usimmigrationandcustomsenforcement/"
     },
     "UVExposureSkinProtection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2145176738 [SCIM2145176738].md",
@@ -134755,6 +134785,13 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM9334288497 [SCIM9334288497].md",
+          "key": "how-to-improve-skin-health-appearance-scim9334288497",
+          "show": "Huberman Lab",
+          "title": "How to Improve Skin Health & Appearance",
+          "url": "/wiki/sources/how-to-improve-skin-health-appearance-scim9334288497/"
         }
       ],
       "updated": "2026-09-24",
