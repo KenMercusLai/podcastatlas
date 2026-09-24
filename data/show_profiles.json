@@ -926,20 +926,20 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "GLT2099451333 [GLT2099451333].md",
-      "source_note_count": 132,
-      "topic_matched_source_note_count": 131,
+      "source_note_count": 133,
+      "topic_matched_source_note_count": 132,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 129
+          "source_note_count": 130
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "culture",
@@ -984,6 +984,13 @@
           "episode_count": 7
         },
         {
+          "key": "KaiserWilhelmII",
+          "title": "Kaiser Wilhelm II",
+          "url": "/wiki/entities/kaiserwilhelmii/",
+          "kind": "person",
+          "episode_count": 7
+        },
+        {
           "key": "FrancisWalsingham",
           "title": "Francis Walsingham",
           "url": "/wiki/entities/franciswalsingham/",
@@ -994,13 +1001,6 @@
           "key": "HenryVOfEngland",
           "title": "Henry V of England",
           "url": "/wiki/entities/henryvofengland/",
-          "kind": "person",
-          "episode_count": 6
-        },
-        {
-          "key": "KaiserWilhelmII",
-          "title": "Kaiser Wilhelm II",
-          "url": "/wiki/entities/kaiserwilhelmii/",
           "kind": "person",
           "episode_count": 6
         },

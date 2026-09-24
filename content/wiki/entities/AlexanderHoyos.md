@@ -4,6 +4,7 @@ type: entity
 tags: [person, austria-hungary, diplomacy, july-crisis]
 sources:
   - 470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569
+  - 469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -16,17 +17,19 @@ Alexander Hoyos was the Austro-Hungarian diplomat who carried [[FranzJosephI|Fra
 
 ## Current Profile
 
-Hoyos appears as the operational envoy connecting Vienna's punitive intent to Germany's open-ended support. In Berlin he spoke more explicitly than the emperor's letter, discussing Serbia's destruction or partition with Arthur Zimmermann. He returned with the assurance later called the blank cheque and favored partition even though [[IstvanTisza|Istvan Tisza]] opposed annexation, exposing Vienna's lack of an agreed end state.
+Hoyos appears as the operational envoy connecting Vienna's first decision to seek backing with Germany's open-ended support. [[LeopoldBerchtold]] sent him to Berlin with a memorandum and [[FranzJosephI|Franz Joseph I]]'s personal letter after Austrian leaders worried that German bellicosity might not translate into action. In Berlin he spoke more explicitly than the emperor's letter, discussing Serbia's destruction or partition with Arthur Zimmermann. He returned with the assurance later called the blank cheque and favored partition even though [[IstvanTisza|Istvan Tisza]] opposed annexation, exposing Vienna's lack of an agreed end state.
 
 ## Key Characteristics
 
 - Special envoy trusted to carry Franz Joseph's personal appeal and Vienna's strategic case to Berlin.
+- Operational hinge between the opening Austro-Hungarian deliberations and the German blank-cheque decision.
 - Frank advocate of destroying or partitioning Serbia rather than relying on limited diplomatic pressure.
 - Immediate intermediary between Austro-Hungarian objectives and German alliance backing.
 - Representative of the harder Vienna position during internal disagreement over war aims.
 
 ## Evidence
 
+- Mission decision: [[469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632]] ends with Berchtold sending Hoyos to Berlin with the memorandum and imperial letter.
 - Berlin mission: [[470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569]] follows Hoyos from Vienna to his meeting with Zimmermann and the imperial audience arranged through the ambassador.
 - German assurance: [[470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569]] identifies him as the envoy who returned with confirmation of full German support.
 - End-state disagreement: [[470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569]] contrasts his partition preference with Tisza's opposition to annexation.
@@ -37,7 +40,8 @@ The source establishes Hoyos's advocacy and courier role but does not show that 
 
 ## What Changed
 
-- Created Alexander Hoyos as the diplomatic bridge between Vienna's punitive policy and Germany's blank cheque.
+- Extended Hoyos's role backward to Berchtold's decision to send the memorandum and Franz Joseph's letter.
+- Preserved his role as the diplomatic bridge from Vienna's punitive policy to Germany's blank cheque.
 
 ## Relationships
 

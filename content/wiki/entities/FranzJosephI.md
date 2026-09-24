@@ -6,6 +6,7 @@ sources:
   - 690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068
   - 689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702
   - 470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569
+  - 469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,7 @@ Franz Joseph I is the [[AustriaHungary]] emperor whose son [[CrownPrinceRudolf]]
 
 The Mayerling sources present Franz Joseph before and after the catastrophe. In the prehistory, he embodies the [[HabsburgDynasty]] as disciplined, pious, conservative, dutiful, protocol-bound, and emotionally reserved, while military defeats and the 1867 compromise push him into the [[AustroHungarianDualMonarchy]]. In the aftermath, he is the ruler-father who learns the truth through [[EmpressSisi]], secures Rudolf a Catholic burial, suppresses public mention of [[MaryVetsera]], and faces a succession line that now moves away from a direct son.
 
-Late in his reign, Franz Joseph framed Sarajevo as a Serbian and pan-Slav threat to family, empire, and monarchy, sought German backing through [[AlexanderHoyos]], and approved a harsh ultimatum. His acknowledgment that Russia would not tolerate the demands makes the approval a conscious acceptance of grave risk rather than simple ignorance.
+Late in his reign, Franz Joseph framed Sarajevo as a Serbian and pan-Slav threat to family, empire, and monarchy. Within two days he accepted the case for action against Serbia, after which Vienna sought German backing through [[AlexanderHoyos]] and moved toward a harsh ultimatum. His later acknowledgment that Russia would not tolerate the demands makes the approval a conscious acceptance of grave risk rather than simple ignorance.
 
 ## Key Characteristics
 
@@ -42,16 +43,17 @@ Late in his reign, Franz Joseph framed Sarajevo as a Serbian and pan-Slav threat
 - Public grief: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] describes Franz Joseph breaking down at Rudolf's funeral.
 - Succession effect: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] says Rudolf's death moves succession toward [[KarlLudwigOfAustria]] and [[FranzFerdinand]].
 - July Crisis decision: [[470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569]] follows his appeal to Wilhelm, threat framing, recognition that Russia would reject the ultimatum, and decision to proceed.
+- Initial assent: [[469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632]] places his agreement to act against Serbia within two days of the assassination and before the Hoyos mission.
 
 ## Qualifications
 
-This page is source-scoped to two Mayerling episodes and one July Crisis episode. The 1914 source presents Franz Joseph's threat perception as sincere, but sincerity does not remove responsibility for approving coercive action while foreseeing Russian opposition. It does not attempt a full reign profile or military-policy account.
+This page is source-scoped to two Mayerling episodes and two July Crisis episodes. The 1914 sources present Franz Joseph's threat perception as sincere, but sincerity does not remove responsibility for approving coercive action while foreseeing Russian opposition. They do not attempt a full reign profile or military-policy account.
 
 ## What Changed
 
-- Added Franz Joseph's 1914 threat framing, request for German backing, and conscious approval of a dangerous ultimatum.
-- Added Franz Joseph's pre-Mayerling governing style, emotional reserve, and dual-monarchy context.
-- Preserved his aftermath role in burial legitimacy, public suppression, grief, and succession disruption.
+- Extended Franz Joseph's 1914 role backward to his rapid initial assent to action against Serbia.
+- Preserved his request for German backing and conscious approval of a dangerous ultimatum.
+- Preserved his Mayerling-era governing style, burial legitimacy, grief, suppression, and succession role.
 
 ## Relationships
 

@@ -9,6 +9,7 @@ sources:
   - 473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845
   - 472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157
   - 470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569
+  - 469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -23,7 +24,7 @@ Austria-Hungary is the Habsburg monarchy whose court and succession crisis frame
 
 Austria-Hungary appears as both constitutional mosaic and court-crisis machine. The Mayerling branch describes a multilingual empire held together by Habsburg loyalty, reshaped by the 1867 [[AustroHungarianDualMonarchy]], and strained by nationalism, antisemitism, army politics, and minority-rights disputes. The court then tries to preserve Catholic, dynastic, and public legitimacy after [[CrownPrinceRudolf]] and [[MaryVetsera]] die at Mayerling.
 
-The July Crisis branch shows the same monarchy seeking decisive punishment of Serbia while its diplomacy, operational planning, and Russian contingency preparation remained poorly aligned. Franz Joseph's appeal and Alexander Hoyos's mission secured Germany's open-ended backing, but Tisza's resistance, dual-monarchy bargaining, railway and harvest constraints, and the wish to wait out the Franco-Russian summit delayed action. Vienna designed an ultimatum for war or severe humiliation without agreeing on Serbia's postwar future or seriously planning for Russian intervention. Its severe demands then left little room for a fully satisfactory response; Serbia accepted much in principle but attached reservations that the Austrian ambassador judged to empty compliance of practical force. Austria-Hungary broke relations immediately, rejected Wilhelm's later limited occupation proposal because symbolic pressure would neither destroy the networks it blamed nor restore imperial credibility, declared war on 28 July, and opened fire on Belgrade the next morning. The later First World War branch makes it an awkward ally turned target: Italy used the Serbia move and lack of consultation to justify neutrality, then bargained for Habsburg territories before attacking across the [[IsonzoFront|Isonzo front]].
+The July Crisis branch begins with a declining empire confronting a recently enlarged Serbia and treating the assassination of Franz Ferdinand and Sophie as a Serbian-linked attack on dynastic survival, South Slav authority, and imperial prestige. Grief and genuine security concern combined with time pressure and tunnel vision: Berchtold and Conrad wanted decisive punishment, assumed earlier Serbian and Russian retreats could recur, and described a local offensive as defensive while underweighting alliance consequences. Franz Joseph's appeal and Alexander Hoyos's mission then secured Germany's open-ended backing, but Tisza's resistance, dual-monarchy bargaining, railway and harvest constraints, and the wish to wait out the Franco-Russian summit delayed action. Vienna designed an ultimatum for war or severe humiliation without agreeing on Serbia's postwar future or seriously planning for Russian intervention. Its severe demands left little room for a fully satisfactory response; Serbia accepted much in principle but attached reservations that the Austrian ambassador judged to empty compliance of practical force. Austria-Hungary broke relations immediately, rejected Wilhelm's later limited occupation proposal because symbolic pressure would neither destroy the networks it blamed nor restore imperial credibility, declared war on 28 July, and opened fire on Belgrade the next morning. The later First World War branch makes it an awkward ally turned target: Italy used the Serbia move and lack of consultation to justify neutrality, then bargained for Habsburg territories before attacking across the [[IsonzoFront|Isonzo front]].
 
 ## Key Characteristics
 
@@ -49,16 +50,17 @@ The July Crisis branch shows the same monarchy seeking decisive punishment of Se
 - Ultimatum and rupture: [[472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157]] connects the note's severity, Serbia's qualified reply, Baron Giesl's prepared departure, the immediate diplomatic break, and Vienna's limited-war celebrations.
 - Serbian-war threshold: [[473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845]] connects rejection of "stop in Belgrade," Franz Joseph's declaration, Conrad's readiness limits, the shelling of Belgrade, and confusion over redirecting troops toward Russia.
 - Blank cheque and internal delay: [[470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569]] connects Franz Joseph's appeal and Hoyos's Berlin mission to German support, Tisza's resistance, logistical constraints, missing Russian contingencies, and approval of the harsh ultimatum.
+- Opening response: [[469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632]] connects Serbia's growth and South Slav challenge, the assassination shock, Berchtold and Conrad's punishment logic, Franz Joseph's assent, Tisza's objection, and the decision to send Hoyos.
 
 ## Qualifications
 
-This page remains selective. The Mayerling sources add nationalities, constitutional context, and court legitimacy; the July Crisis sources add the blank-cheque-to-war sequence; and the Italy source adds one later wartime frontier. Serbia's reply was neither simple capitulation nor proof that every Austrian concern was fabricated. Genuine fear after Sarajevo does not make the punishment strategy defensive in effect, and German backing did not remove Vienna's agency. The account gives limited Serbian internal perspective and should not be read as a full history of Austria-Hungary's institutions, foreign policy, or 1914-1918 military operations.
+This page remains selective. The Mayerling sources add nationalities, constitutional context, and court legitimacy; the July Crisis sources add the assassination-to-war sequence; and the Italy source adds one later wartime frontier. Serbia's reply was neither simple capitulation nor proof that every Austrian concern was fabricated. Genuine fear, grief, and incomplete evidence after Sarajevo do not make the punishment strategy defensive in effect, and German backing did not remove Vienna's agency. The account gives limited Serbian internal perspective and should not be read as a full history of Austria-Hungary's institutions, foreign policy, or 1914-1918 military operations.
 
 ## What Changed
 
-- Extended the Serbia branch backward to the blank cheque, Tisza's delay, mobilization constraints, missing Russian contingency, and unsettled end state.
-- Extended the Serbia sequence backward to the severe ultimatum, qualified reply, prepared diplomatic rupture, and expectation of a limited war.
-- Clarified that the later rejection of limited occupation followed an earlier refusal to accept mediated restraint.
+- Extended the Serbia branch backward to the assassination shock, imperial anxiety, Conrad's immediate-war demand, and the first Hoyos decision.
+- Clarified how grief, grounded security concern, prestige, time pressure, and tunnel vision coexisted in Vienna's opening response.
+- Preserved the sequence from blank cheque and internal delay through ultimatum, rupture, failed limitation, and war.
 
 ## Relationships
 
@@ -76,3 +78,4 @@ This page remains selective. The Mayerling sources add nationalities, constituti
 - [[KaiserWilhelmII]] - allied ruler whose limited occupation proposal Austria-Hungary rejected.
 - [[BlankChequeAllianceEscalation]] - German assurance that widened Vienna's room for coercive action.
 - [[IstvanTisza]] - Hungarian prime minister whose resistance delayed immediate war.
+- [[FranzConradVonHotzendorf]] - chief of staff who pressed for immediate preventive war against Serbia.

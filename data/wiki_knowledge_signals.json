@@ -6627,9 +6627,9 @@
       "url": "/wiki/entities/alexanderhamilton/"
     },
     "AlexanderHoyos": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1054108569 [GLT1054108569].md",
@@ -6637,6 +6637,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -11223,9 +11230,9 @@
       "url": "/wiki/concepts/australiantherapeuticgoodsregulation/"
     },
     "AustriaHungary": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11268,6 +11275,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -48824,10 +48838,26 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/frankensteincomplexai/"
     },
-    "FranzFerdinand": {
+    "FranzConradVonHotzendorf": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/franzconradvonhotzendorf/"
+    },
+    "FranzFerdinand": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -48835,15 +48865,22 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/franzferdinand/"
     },
     "FranzJosephI": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -48865,6 +48902,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -68598,9 +68642,9 @@
       "url": "/wiki/entities/isonzofront/"
     },
     "IstvanTisza": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1054108569 [GLT1054108569].md",
@@ -68608,6 +68652,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -72207,9 +72258,9 @@
       "url": "/wiki/entities/juliuskurfgen/"
     },
     "JulyCrisis": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2293540702 [GLT2293540702].md",
@@ -72245,6 +72296,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -72428,9 +72486,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -72473,6 +72531,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -76334,9 +76399,9 @@
       "url": "/wiki/entities/leonardodavinci/"
     },
     "LeopoldBerchtold": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1054108569 [GLT1054108569].md",
@@ -76344,6 +76409,13 @@
           "show": "The Rest Is History",
           "title": "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)",
           "url": "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",
@@ -117375,9 +117447,9 @@
       "url": "/wiki/entities/septembermassacres/"
     },
     "Serbia": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1171003479 [GLT1171003479].md",
@@ -117399,6 +117471,13 @@
           "show": "The Rest Is History",
           "title": "473. The Road to The Great War: The Tsar Chooses War (Part 5)",
           "url": "/wiki/sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845/"
+        },
+        {
+          "episode_file": "GLT3669608632 [GLT3669608632].md",
+          "key": "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632",
+          "show": "The Rest Is History",
+          "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
+          "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
         }
       ],
       "updated": "2026-09-24",

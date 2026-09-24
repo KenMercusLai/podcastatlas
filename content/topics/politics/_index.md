@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2676
+topic_total_pages: 2677
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -7122,6 +7122,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632"
+    title: "469. The Road to The Great War: Countdown to Armageddon (Part 1)"
+    url: "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
   - key: "470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569"
     title: "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)"
     url: "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"

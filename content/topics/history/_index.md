@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1970
+topic_total_pages: 1971
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4575,6 +4575,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632"
+    title: "469. The Road to The Great War: Countdown to Armageddon (Part 1)"
+    url: "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
   - key: "470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569"
     title: "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)"
     url: "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10679
+wiki_total_pages: 10680
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "FranzBoas"
     title: "Franz Boas / 博尔斯"
     url: "/wiki/entities/franzboas/"
+  - key: "FranzConradVonHotzendorf"
+    title: "Franz Conrad von Hötzendorf"
+    url: "/wiki/entities/franzconradvonhotzendorf/"
   - key: "FranzFerdinand"
     title: "Franz Ferdinand"
     url: "/wiki/entities/franzferdinand/"
