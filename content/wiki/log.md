@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题
+
+Added source `vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9`; created `ChildMentalHealthFamilySystemsSupport`, `PediatricFeverHomeCareTriage`, and the source-scoped `SmileAction` entity; and updated `PediatricMyopiaControl`, `AcuteWoundBurnFirstAid`, `LifecycleOralHealthPrevention`, `LifelongSexEducation`, `MedicalImagingCommunicationBoundary`, and `IntensiveCareAsTimeBuying` from their complete bounded source sets. Core synthesis: child health is a linked physical, psychological, safety, family, school, and clinical system; early screening, non-instrumental play, truthful communication, caregiver support, correct first aid and imaging cooperation, and clear escalation boundaries matter more than perfect-parent performance. No settled contradiction found. Ages, timings, doses, imaging comparisons, shielding, surgical and orthodontic timing, costs, and outcomes remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-25] ingest | How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver
 
 Added source `how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220`; created `MaryClaireHaver`, `MenopausalHormoneTherapy`, and `GenitourinarySyndromeMenopauseCare`; and updated `MenopauseClinicalSharedDecision`, `PerimenopauseBrainMetabolism`, `MidlifeFemaleStrengthPowerTraining`, `WomensHealthDiagnosticGap`, `FemaleHormoneHealthPhenotyping`, and `PCOSCardiometabolicRisk` from their complete bounded source sets. Core synthesis: perimenopause and menopause are multi-system endocrine transitions whose care should combine symptom history and differential diagnosis with treatment timing, route, contraindications, local genitourinary care, resistance training, protein, fiber-rich eating, sleep, and body-composition context. No settled contradiction found. Women's Health Initiative interpretation, outcome estimates, testosterone benefits, supplement doses, microbiome findings, weighted vests, acupuncture, and GLP-1 counseling remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22396,6 +22400,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)
 
 Added the episode's account of Sitting Bull's death, the Ghost Dance crisis, the Wounded Knee massacre, and the transformation of Lakota defeat into spectacle and contested historical memory. Created synthesis-first pages for Sitting Bull, the Lakota people, the Ghost Dance, Wounded Knee, frontier violence spectacle, and atrocity narrative reframing; preserved uncertainty around motives, casualty totals, and symbolic anecdotes. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

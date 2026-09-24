@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8113
+wiki_total_pages: 8115
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -518,6 +518,9 @@ wiki_pages:
   - key: "ChildExperimentEthics"
     title: "Child Experiment Ethics"
     url: "/wiki/concepts/childexperimentethics/"
+  - key: "ChildMentalHealthFamilySystemsSupport"
+    title: "Child Mental Health and Family-Systems Support / 儿童心理健康与家庭系统支持"
+    url: "/wiki/concepts/childmentalhealthfamilysystemssupport/"
   - key: "ChildOnlineCommerceSafety"
     title: "Child Online Commerce Safety"
     url: "/wiki/concepts/childonlinecommercesafety/"

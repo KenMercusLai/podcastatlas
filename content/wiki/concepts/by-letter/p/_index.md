@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8113
+wiki_total_pages: 8115
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "PearlRiverDeltaManufacturingTransformation"
     title: "Pearl River Delta Manufacturing Transformation / 珠三角制造业变迁"
     url: "/wiki/concepts/pearlriverdeltamanufacturingtransformation/"
+  - key: "PediatricFeverHomeCareTriage"
+    title: "Pediatric Fever Home-Care Triage / 儿童发热家庭分诊"
+    url: "/wiki/concepts/pediatricfeverhomecaretriage/"
   - key: "PediatricLanguageDelayEarlyIntervention"
     title: "Pediatric Language Delay Early Intervention"
     url: "/wiki/concepts/pediatriclanguagedelayearlyintervention/"

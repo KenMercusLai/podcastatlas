@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2810
+topic_total_pages: 2811
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -565,6 +565,9 @@ topic_concepts:
   - key: "ChildCompetenceWishFulfillment"
     title: "Child Competence Wish Fulfillment"
     url: "/wiki/concepts/childcompetencewishfulfillment/"
+  - key: "ChildMentalHealthFamilySystemsSupport"
+    title: "Child Mental Health and Family-Systems Support / 儿童心理健康与家庭系统支持"
+    url: "/wiki/concepts/childmentalhealthfamilysystemssupport/"
   - key: "ChildPoeticExpression"
     title: "Child Poetic Expression"
     url: "/wiki/concepts/childpoeticexpression/"

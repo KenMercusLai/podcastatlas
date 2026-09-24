@@ -13111,6 +13111,10 @@
     "title": "Child Experiment Ethics",
     "url": "/wiki/concepts/childexperimentethics/"
   },
+  "ChildMentalHealthFamilySystemsSupport": {
+    "title": "Child Mental Health and Family-Systems Support / 儿童心理健康与家庭系统支持",
+    "url": "/wiki/concepts/childmentalhealthfamilysystemssupport/"
+  },
   "ChildOnlineCommerceSafety": {
     "title": "Child Online Commerce Safety",
     "url": "/wiki/concepts/childonlinecommercesafety/"
@@ -50463,6 +50467,10 @@
     "title": "Pedestrian Project",
     "url": "/wiki/entities/pedestrianproject/"
   },
+  "PediatricFeverHomeCareTriage": {
+    "title": "Pediatric Fever Home-Care Triage / 儿童发热家庭分诊",
+    "url": "/wiki/concepts/pediatricfeverhomecaretriage/"
+  },
   "PediatricLanguageDelayEarlyIntervention": {
     "title": "Pediatric Language Delay Early Intervention",
     "url": "/wiki/concepts/pediatriclanguagedelayearlyintervention/"
@@ -61046,6 +61054,10 @@
   "SmartphoneSurveyPenalty": {
     "title": "Smartphone Survey Penalty",
     "url": "/wiki/concepts/smartphonesurveypenalty/"
+  },
+  "SmileAction": {
+    "title": "Smile Action / 微笑行动",
+    "url": "/wiki/entities/smileaction/"
   },
   "Smirks": {
     "title": "Smirks",
@@ -81482,6 +81494,10 @@
   "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo": {
     "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",
     "url": "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
+  },
+  "vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9": {
+    "title": "VOL.115冇满分父母，你做60分已不易 13位医生10学科出招身心性健康教育攻略｜儿童节专题",
+    "url": "/wiki/sources/vol-115-mao-manfen-fumu-ni-zuo-60-fen-yi-buyi-13-wei-yisheng-10-xueke-chuzhao-shenxinxing-jiankang-jiaoyu-gonglue-ertongjie-zhuanti-ljlyg0kuqvuj2r89k6o5hhuefjt9/"
   },
   "vol-115-quanqiu-hongguan-he-ziben-shichang-2025-zhanwang-duanqi-wenti-bu-jiejue-jiu-meiyou-zhongqi-he-changqi-le-lrfl2e5nuf7-ubq-shybqytjhuhx": {
     "title": "Vol.115 全球宏观和资本市场2025展望：短期问题不解决，就没有中期和长期了",
