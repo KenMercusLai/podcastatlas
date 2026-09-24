@@ -1453,14 +1453,14 @@
       "earliest_episode_date": "2026-03-31",
       "latest_episode_date": "2026-09-24",
       "latest_episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
-      "source_note_count": 17,
-      "topic_matched_source_note_count": 10,
+      "source_note_count": 18,
+      "topic_matched_source_note_count": 11,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 8
+          "source_note_count": 9
         },
         {
           "key": "history",
@@ -1540,10 +1540,10 @@
         }
       ],
       "start_here_episode_files": [
-        "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md",
+        "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
         "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？ [lg7_wdrDW1B9h7LwA4VWKvMyb4Un].md",
         "264.库克的道德锚点｜过去15年，库克给苹果留下了什么？ [lg3T77R6ajM31WcSdV1zE6C8hHj0].md",
-        "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md"
+        "276.当AI给出所有答案，年轻人如何找到自己的问题？ [ljJh4yA6BeiyPSgHj49YWicw1c6t].md"
       ]
     },
     "内核恐慌": {

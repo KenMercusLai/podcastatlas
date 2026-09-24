@@ -22148,3 +22148,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 277.从提醒你，到替你办：Today想把Personal AI带到哪一步？
+
+Added source `277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6`; created `TodayPersonalAI`, `AgentDelegationFriction`, and `PersonalMemoryIdentityResolution`; updated `PersonalAgentUnderstandingLayer`, `PersonalLifeAgent`, and the index. Core synthesis: personal-agent value comes from pairing continually revised, identity-aware memory with calibrated initiative so recurring context lowers delegation cost and the system can move from reminders toward safe execution without turning proactive service into interruption. No settled contradiction found; Today remains distinct from episode 275's Town/Today naming ambiguity, while capabilities, evaluations, market heat, product-market fit, willingness to pay, and business-model claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8045
+wiki_total_pages: 8047
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "PersonalLifeAgent"
     title: "Personal Life Agent / 个人生活智能体"
     url: "/wiki/concepts/personallifeagent/"
+  - key: "PersonalMemoryIdentityResolution"
+    title: "Personal Memory Identity Resolution / 个人记忆身份解析"
+    url: "/wiki/concepts/personalmemoryidentityresolution/"
   - key: "PersonalPensionAccount"
     title: "Personal Pension Account / 个人养老金账户"
     url: "/wiki/concepts/personalpensionaccount/"

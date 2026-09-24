@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3151
+topic_total_pages: 3155
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -58,6 +58,9 @@ topic_concepts:
   - key: "AgentData"
     title: "Agent Data"
     url: "/wiki/concepts/agentdata/"
+  - key: "AgentDelegationFriction"
+    title: "Agent Delegation Friction / 智能体委托摩擦"
+    url: "/wiki/concepts/agentdelegationfriction/"
   - key: "AgentEntryPoint"
     title: "Agent Entry Point"
     url: "/wiki/concepts/agententrypoint/"
@@ -3271,6 +3274,9 @@ topic_concepts:
   - key: "PersonalLifeAgent"
     title: "Personal Life Agent / 个人生活智能体"
     url: "/wiki/concepts/personallifeagent/"
+  - key: "PersonalMemoryIdentityResolution"
+    title: "Personal Memory Identity Resolution / 个人记忆身份解析"
+    url: "/wiki/concepts/personalmemoryidentityresolution/"
   - key: "PersonalSecurityTiering"
     title: "Personal Security Tiering"
     url: "/wiki/concepts/personalsecuritytiering/"
@@ -7232,6 +7238,9 @@ topic_entities:
   - key: "TobiasLutke"
     title: "Tobias Lütke"
     url: "/wiki/entities/tobiaslutke/"
+  - key: "TodayPersonalAI"
+    title: "Today Personal AI"
+    url: "/wiki/entities/todaypersonalai/"
   - key: "TokenGrant"
     title: "Token Grant"
     url: "/wiki/entities/tokengrant/"
@@ -8199,6 +8208,9 @@ topic_sources:
   - key: "276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t"
     title: "276.当AI给出所有答案，年轻人如何找到自己的问题？"
     url: "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
+  - key: "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6"
+    title: "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？"
+    url: "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
   - key: "tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128"
     title: "34 days without internet in Iran"
     url: "/wiki/sources/tech-20260402-0402-mp-tech-pod-128-tech-20260402-0402-mp-tech-pod-128/"

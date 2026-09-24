@@ -2786,6 +2786,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete](sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit.md) — All-In interview on acquired product-market fit, shared software operations, selective hiring, acquisition underwriting, leverage, and permanent-ownership integration.
 - [Build a Strong, Pain-Proof Back | Dr. Stuart McGill](sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455.md) — Huberman Lab interview on mechanism-based back-pain assessment, anatomy-matched exercise, cumulative load thresholds, spine-sparing stability, and progressive rehabilitation.
 - [How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill](sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101.md) — Huberman Lab interview on endocannabinoid biology, dose and route, psychosis causality, strain-label evidence, CBD dosing, and indication-specific medical use.
+- [277.从提醒你，到替你办：Today想把Personal AI带到哪一步？](sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6.md) — 乱翻书 episode on Today’s memory-plus-initiative product thesis, identity-aware personal context, delegation friction, graduated execution, and unresolved product-market fit.
 
 ## Entities
 - [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose neck, lower-back, pillow, manual-treatment, and support-device questions ground the VOL.123 discussion.
@@ -13481,6 +13482,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 - [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
 - [Matthew Hill](entities/MatthewHill.md) — Cannabinoid researcher separating endocannabinoid physiology, cannabis risks, causal evidence, commercial claims, and medical-use boundaries.
+- [Today Personal AI](entities/TodayPersonalAI.md) — Named personal agent seeking to combine continually revised memory, low-interruption initiative, and progressively authorized task execution.
 
 ## Concepts
 - [Cervical Curve and Posture Management / 颈椎曲度与姿势管理](concepts/CervicalCurvePostureManagement.md) — Qualified framework connecting cervical alignment, muscular balance, sustained posture, movement variability, symptoms, and escalation.
@@ -21538,5 +21540,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cannabis Strain-Label Evidence Boundary](concepts/CannabisStrainLabelEvidenceBoundary.md) — Boundary separating indica/sativa labels and expectancy from measured chemistry and blinded effects.
 - [CBD Evidence-and-Dose Boundary](concepts/CBDEvidenceDoseBoundary.md) — Distinction between clinically supported, adequately dosed CBD uses and low-dose retail extrapolation.
 - [Cannabis Medical-Use Evidence Boundary](concepts/CannabisMedicalUseEvidenceBoundary.md) — Indication-specific framework joining cannabinoid, formulation, dose, population, outcomes, and harms.
+- [Agent Delegation Friction / 智能体委托摩擦](concepts/AgentDelegationFriction.md) — Explanation, supervision, confirmation, and correction cost that determines whether delegating to an agent beats doing a task directly.
+- [Personal Memory Identity Resolution / 个人记忆身份解析](concepts/PersonalMemoryIdentityResolution.md) — Process for assigning personal-memory facts to the correct person, relationship, and time before storage or recall.
 
 ## Syntheses

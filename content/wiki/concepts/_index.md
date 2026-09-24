@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8045
+wiki_total_pages: 8047
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "AgentData"
     title: "Agent Data"
     url: "/wiki/concepts/agentdata/"
+  - key: "AgentDelegationFriction"
+    title: "Agent Delegation Friction / 智能体委托摩擦"
+    url: "/wiki/concepts/agentdelegationfriction/"
   - key: "AgentDynamics"
     title: "Agent Dynamics"
     url: "/wiki/concepts/agentdynamics/"

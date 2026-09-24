@@ -5669,6 +5669,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/agentcommandcenter/"
     },
+    "AgentDelegationFriction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
+          "key": "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6",
+          "show": "乱翻书",
+          "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+          "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/agentdelegationfriction/"
+    },
     "AgentEntryPoint": {
       "episode_count": 1,
       "show_count": 1,
@@ -101946,9 +101962,9 @@
       "url": "/wiki/concepts/personalaimemory/"
     },
     "PersonalAgentUnderstandingLayer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
@@ -101956,9 +101972,16 @@
           "show": "乱翻书",
           "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
           "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        },
+        {
+          "episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
+          "key": "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6",
+          "show": "乱翻书",
+          "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+          "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/personalagentunderstandinglayer/"
     },
     "PersonalGuaranteeClemency": {
@@ -102008,9 +102031,9 @@
       "url": "/wiki/concepts/personalguardattacksurface/"
     },
     "PersonalLifeAgent": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "273.逛完外滩大会，发现蚂蚁找到了新位置 [loTxOgfoqqWcJigxIHTIxvNCbfc3].md",
@@ -102025,10 +102048,33 @@
           "show": "乱翻书",
           "title": "275. AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
           "url": "/wiki/sources/275-ai-bangong-de-renao-hai-mei-san-geren-agent-de-zhanzheng-yijing-kaishi-chaijie-town-instinct-grok-bot-yu-muse-lpos2jcsbaob2mpwqauzv5xq4_hd/"
+        },
+        {
+          "episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
+          "key": "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6",
+          "show": "乱翻书",
+          "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+          "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/personallifeagent/"
+    },
+    "PersonalMemoryIdentityResolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
+          "key": "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6",
+          "show": "乱翻书",
+          "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+          "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/personalmemoryidentityresolution/"
     },
     "PersonalRiskTrustSignal": {
       "episode_count": 1,
@@ -132267,6 +132313,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/tobiasschmidt/"
+    },
+    "TodayPersonalAI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？ [lub_XeKQnXJr6Psdo-utmiUig6M6].md",
+          "key": "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6",
+          "show": "乱翻书",
+          "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+          "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/todaypersonalai/"
     },
     "TokenRevenueBuybackModel": {
       "episode_count": 1,

@@ -927,6 +927,10 @@
     "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
     "url": "/wiki/sources/276-dang-ai-geichu-suoyou-daan-nianqingren-ruhe-zhaodao-ziji-de-wenti-ljjh4ya6beiypsghj49ywicw1c6t/"
   },
+  "277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6": {
+    "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+    "url": "/wiki/sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6/"
+  },
   "28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930": {
     "title": "28.聊斋志异：不为君王唱赞歌，偏向苍生说鬼话",
     "url": "/wiki/sources/28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930/"
@@ -4382,6 +4386,10 @@
   "AgentData": {
     "title": "Agent Data",
     "url": "/wiki/concepts/agentdata/"
+  },
+  "AgentDelegationFriction": {
+    "title": "Agent Delegation Friction / 智能体委托摩擦",
+    "url": "/wiki/concepts/agentdelegationfriction/"
   },
   "AgentDynamics": {
     "title": "Agent Dynamics",
@@ -50439,6 +50447,10 @@
     "title": "Personal Life Agent / 个人生活智能体",
     "url": "/wiki/concepts/personallifeagent/"
   },
+  "PersonalMemoryIdentityResolution": {
+    "title": "Personal Memory Identity Resolution / 个人记忆身份解析",
+    "url": "/wiki/concepts/personalmemoryidentityresolution/"
+  },
   "PersonalPensionAccount": {
     "title": "Personal Pension Account / 个人养老金账户",
     "url": "/wiki/concepts/personalpensionaccount/"
@@ -66078,6 +66090,10 @@
   "TocquevilleRoadTrip": {
     "title": "Tocqueville Road Trip",
     "url": "/wiki/entities/tocquevilleroadtrip/"
+  },
+  "TodayPersonalAI": {
+    "title": "Today Personal AI",
+    "url": "/wiki/entities/todaypersonalai/"
   },
   "ToddBoehly": {
     "title": "Todd Boehly",

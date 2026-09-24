@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10684
+wiki_total_pages: 10685
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -722,6 +722,9 @@ wiki_pages:
   - key: "TocquevilleRoadTrip"
     title: "Tocqueville Road Trip"
     url: "/wiki/entities/tocquevilleroadtrip/"
+  - key: "TodayPersonalAI"
+    title: "Today Personal AI"
+    url: "/wiki/entities/todaypersonalai/"
   - key: "ToddBoehly"
     title: "Todd Boehly"
     url: "/wiki/entities/toddboehly/"
