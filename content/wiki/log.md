@@ -22188,3 +22188,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”
+
+Added source `vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7`; created `PainSleepFeedbackLoop`, `NighttimePainAmplification`, `AnalgesicSelfCareEscalation`, and `MultidisciplinarySleepCare`; updated `DongXintong` from its complete bounded source set; and updated the index. Core synthesis: pain and poor sleep can reinforce one another, nighttime pain may be amplified by interacting biological and attentional factors, and limited symptom relief should give way to cause-directed assessment when pain persists, recurs, or becomes clinically complex. The source's acetaminophen/NSAID grouping is corrected, and its combination-drug discussion remains sponsor-qualified. No settled contradiction with the insomnia branch was found because the episode addresses pain-driven sleep disruption rather than chronic insomnia as one diagnosis. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8056
+wiki_total_pages: 8060
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1766,6 +1766,9 @@ wiki_pages:
   - key: "AmyloidHypothesisUncertainty"
     title: "Amyloid Hypothesis Uncertainty"
     url: "/wiki/concepts/amyloidhypothesisuncertainty/"
+  - key: "AnalgesicSelfCareEscalation"
+    title: "Analgesic Self-Care Escalation / 止痛药自我用药升级边界"
+    url: "/wiki/concepts/analgesicselfcareescalation/"
   - key: "AnalogMediaPreservation"
     title: "Analog Media Preservation"
     url: "/wiki/concepts/analogmediapreservation/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.121白天不懂夜的疼 一招干掉这个影响你睡眠的“隐形刺客”](sources/vol-121-baitian-bu-dong-ye-de-teng-yi-zhao-gandiao-zhege-yingxiang-ni-shuimian-de-yinxing-cike-lrkt9fqv6cef8dkr69r-vsoilsm7.md) — 这病说来话长 episode with 董心彤 on pain-driven sleep disruption, nighttime pain mechanisms, analgesic self-care boundaries, multidisciplinary sleep care, and sponsor-qualified combination-drug claims.
 - [466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)](sources/466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792.md) — The Rest Is History episode on Princip's formation, Black Hand-linked support, cross-border logistics, Franz Ferdinand's reform threat, and divided Serbian authority.
 - [VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解](sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8.md) — 这病说来话长 episode on collapse triage, high-quality CPR, device-guided defibrillation, practical AED access, and China-facing voluntary-rescue protection.
 - [467. The Murder of Franz Ferdinand: The Victim (Part 3)](sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087.md) — The Rest Is History episode on Franz Ferdinand's travel, marriage, temperament, federal reform ideas, and opposition to preventive war with Serbia.
@@ -5032,7 +5033,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梨花医生 / Lihua Speech Therapist](entities/LihuaSpeechTherapist.md) — Source-scoped speech therapist guest in VOL.34 and VOL.35 explaining dysphagia safety, functional articulation, pediatric language-delay early intervention, adult aphasia rhythm cueing, dysarthria boundaries, and long-term rehabilitation.
 - [毛春杰 / Mao Chunjie](entities/MaoChunjie.md) — Source-scoped ophthalmology guest in VOL.36 explaining diabetic fundus screening, dry eye, high-myopia retinal risk, myopia-surgery boundaries, red-eye causes, and eye-drop caution.
 - [天津总医院 / Tianjin General Hospital](entities/TianjinGeneralHospital.md) — Source-scoped hospital affiliation named for Mao Chunjie in the VOL.36 ophthalmology episode.
-- [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest in VOL.32 and VOL.33 explaining preoperative assessment, perioperative anesthesia safety, drug myths, operating-room physiology, postoperative recovery, nausea, delirium, positioning, allergy disclosure, fasting, and monitoring boundaries.
+- [董心彤 / Dong Xintong](entities/DongXintong.md) — Source-scoped anesthesiology guest in VOL.32, VOL.33, and VOL.121 explaining perioperative safety, anesthesia misconceptions, pain-driven sleep disruption, nighttime pain, analgesic escalation, and multidisciplinary sleep care.
 - [刘子明 / Liu Ziming (sports medicine doctor)](entities/LiuZimingSportsMedicine.md) — Source-scoped 北医三院 sports-medicine doctor explaining safe exercise, lower-limb joint protection, progressive training, support-device boundaries, and symptom escalation.
 - [Peking University Third Hospital / 北医三院](entities/PekingUniversityThirdHospital.md) — Source-scoped institutional context for 这病说来话长 sports-medicine, orthopedic, and emergency-care guests explaining safe exercise, injury prevention, first-aid judgment, and trauma escalation.
 - [刘臣 / Liu Chen (Emergency Physician)](entities/LiuChenEmergencyDoctor.md) — Source-scoped emergency-medicine guest in VOL.222 explaining chest-pain escalation, CPR/AED boundaries, seizure response, medication stacking, and 120 calling.
@@ -13498,6 +13499,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Boost Coos](entities/BoostCoos.md) — Protein-rich couscous alternative using small restaurants and chefs to build food-service proof.
 
 ## Concepts
+- [Pain-Sleep Feedback Loop / 疼痛—睡眠反馈循环](concepts/PainSleepFeedbackLoop.md) — Reinforcing cycle in which pain disrupts sleep and poor sleep worsens function, coping, or pain vulnerability.
+- [Nighttime Pain Amplification / 夜间疼痛放大](concepts/NighttimePainAmplification.md) — Source-scoped multifactorial frame linking nocturnal pain prominence to biological timing, autonomic state, inflammation, activity, and attention.
+- [Analgesic Self-Care Escalation / 止痛药自我用药升级边界](concepts/AnalgesicSelfCareEscalation.md) — Boundary between limited labeled relief of familiar acute pain and pharmacist or clinician review for persistence, recurrence, complexity, or medication risk.
+- [Multidisciplinary Sleep Care / 多学科睡眠照护](concepts/MultidisciplinarySleepCare.md) — Cause-directed model routing sleep complaints across pain, breathing, neurological, psychological, behavioral, and anesthesiology pathways.
 - [State-Paramilitary Authority Split](concepts/StateParamilitaryAuthoritySplit.md) — Condition in which embedded official networks can enable violence beyond coherent civilian direction and defeat formal interdiction.
 - [Public AED Access Readiness / 公共AED可及性准备](concepts/PublicAEDAccessReadiness.md) — Public-safety framework for device visibility, access, mapping, retrieval time, advance familiarity, and bystander role assignment.
 - [Emergency Rescue Legal Protection / 紧急救助法律保护](concepts/EmergencyRescueLegalProtection.md) — China-facing legal-confidence concept around Civil Code Article 184 and voluntary emergency assistance.

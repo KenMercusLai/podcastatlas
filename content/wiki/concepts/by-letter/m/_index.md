@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8056
+wiki_total_pages: 8060
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1196,6 +1196,9 @@ wiki_pages:
   - key: "MultidisciplinaryHospitalCare"
     title: "Multidisciplinary Hospital Care / 医院多职种协作"
     url: "/wiki/concepts/multidisciplinaryhospitalcare/"
+  - key: "MultidisciplinarySleepCare"
+    title: "Multidisciplinary Sleep Care / 多学科睡眠照护"
+    url: "/wiki/concepts/multidisciplinarysleepcare/"
   - key: "MultilingualNationalAnthemFormation"
     title: "Multilingual National Anthem Formation"
     url: "/wiki/concepts/multilingualnationalanthemformation/"
