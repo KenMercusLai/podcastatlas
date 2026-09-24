@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10659
+wiki_total_pages: 10663
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -296,6 +296,9 @@ wiki_pages:
   - key: "LeopoldAschenbrenner"
     title: "Leopold Aschenbrenner"
     url: "/wiki/entities/leopoldaschenbrenner/"
+  - key: "LeopoldBerchtold"
+    title: "Leopold Berchtold"
+    url: "/wiki/entities/leopoldberchtold/"
   - key: "LeopoldII"
     title: "Leopold II"
     url: "/wiki/entities/leopoldii/"

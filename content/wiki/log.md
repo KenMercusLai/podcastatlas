@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | 470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)
+
+Added source `470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569`; created `AlexanderHoyos`, `TheobaldVonBethmannHollweg`, `LeopoldBerchtold`, `IstvanTisza`, and `BlankChequeAllianceEscalation`; updated `JulyCrisis`, `AustriaHungary`, `KaiserWilhelmII`, `FranzJosephI`, `HelmuthVonMoltkeTheYounger`, `MobilisationDiplomacyEscalationTrap`, and the index. Core synthesis: Germany's blank cheque was intended to deter Russia and localize a punitive Austro-Hungarian war, but its open-ended form widened Vienna's tolerance for risk; Tisza's resistance and mobilization constraints delayed action without producing agreed war aims or a Russian contingency. No settled contradiction found. The source's case against a pre-scripted German world-war plan does not absolve Berlin of enabling escalation, and sincere Austro-Hungarian fear does not make the punishment strategy defensive in effect. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | 477. The French Revolution: The Violence Begins (Part 3)
 
 Added source `477-the-french-revolution-the-violence-begins-part-3-glt6535380991`; created `CharlesAlexandreDeCalonne`, `EtienneCharlesDeLomenieDeBrienne`, `JeanJosephMounier`, `DayOfTheTiles`, `AssemblyOfVizille`, and `PrivilegeReformLegitimacyTrap`; migrated and updated `RevolutionaryVirtuePolitics`; and updated `FrenchRevolution`, `LouisXVI`, `JacquesNecker`, `EstatesGeneral1789`, `RevolutionaryCrisisConvergence`, and the index. Core synthesis: war debt and privilege-bound taxation made fiscal reform a legitimacy conflict; ministers and elite opponents publicized liberty, nation, citizens, consent, patriotism, and sacrifice; and coercive court reform helped that language escape elite control through Grenoble, Vizille, bankruptcy, and the unresolved promise of the Estates-General. No settled contradiction found; the source extends Part 4 backward, while Grenoble as the Revolution's beginning, fiscal figures, private motives, and claims about the later implications of pre-1789 rhetoric remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22044,6 +22048,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | 471. The Road to The Great War: The Austrian Ultimatum (Part 3)
 
 Added source `471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479`; created `RaymondPoincare`, `SergeiSazonov`, `MauricePaleologue`, and `Serbia`; updated `NicholasII`, `JulyCrisis`, `MobilisationDiplomacyEscalationTrap`, and the index. Core synthesis: Russian policy joined Serbia and prestige to the Straits, Black Sea exports, Ottoman naval anxiety, and memories of earlier retreat, while Poincaré and Paléologue reinforced a French-backed policy of firmness; Austria-Hungary and Russia both expected resolve to force the other side to yield, and Russia's initial partial-mobilisation measures began converting defensive intent into wider threat perception. No settled contradiction found. Austria-Hungary's ultimatum combined grounded security concerns with sovereignty-threatening demands, and the strategic reading of Russian motives does not make escalation automatic. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

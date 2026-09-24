@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10659
+wiki_total_pages: 10663
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "ThedaSkocpol"
     title: "Theda Skocpol"
     url: "/wiki/entities/thedaskocpol/"
+  - key: "TheobaldVonBethmannHollweg"
+    title: "Theobald von Bethmann Hollweg"
+    url: "/wiki/entities/theobaldvonbethmannhollweg/"
   - key: "TheodorHeuss"
     title: "Theodor Heuss"
     url: "/wiki/entities/theodorheuss/"

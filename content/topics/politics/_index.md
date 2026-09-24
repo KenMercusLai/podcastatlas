@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2669
+topic_total_pages: 2674
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -433,6 +433,9 @@ topic_concepts:
   - key: "BitcoinSafeHavenBehavior"
     title: "Bitcoin Safe-Haven Behavior"
     url: "/wiki/concepts/bitcoinsafehavenbehavior/"
+  - key: "BlankChequeAllianceEscalation"
+    title: "Blank-Cheque Alliance Escalation"
+    url: "/wiki/concepts/blankchequeallianceescalation/"
   - key: "BondedWarehouseCrossBorderImport"
     title: "Bonded Warehouse Cross-Border Import / 保税仓跨境电商"
     url: "/wiki/concepts/bondedwarehousecrossborderimport/"
@@ -4499,6 +4502,9 @@ topic_entities:
   - key: "AlexanderHamilton"
     title: "Alexander Hamilton"
     url: "/wiki/entities/alexanderhamilton/"
+  - key: "AlexanderHoyos"
+    title: "Alexander Hoyos"
+    url: "/wiki/entities/alexanderhoyos/"
   - key: "AlexandriaOcasioCortez"
     title: "Alexandria Ocasio-Cortez"
     url: "/wiki/entities/alexandriaocasiocortez/"
@@ -5558,6 +5564,9 @@ topic_entities:
   - key: "LeonardoLins"
     title: "Leonardo Lins"
     url: "/wiki/entities/leonardolins/"
+  - key: "LeopoldBerchtold"
+    title: "Leopold Berchtold"
+    url: "/wiki/entities/leopoldberchtold/"
   - key: "LetitiaJames"
     title: "Letitia James"
     url: "/wiki/entities/letitiajames/"
@@ -6311,6 +6320,9 @@ topic_entities:
   - key: "ThedaSkocpol"
     title: "Theda Skocpol"
     url: "/wiki/entities/thedaskocpol/"
+  - key: "TheobaldVonBethmannHollweg"
+    title: "Theobald von Bethmann Hollweg"
+    url: "/wiki/entities/theobaldvonbethmannhollweg/"
   - key: "TheodoreRoosevelt"
     title: "Theodore Roosevelt / 西奥多·罗斯福"
     url: "/wiki/entities/theodoreroosevelt/"
@@ -7104,6 +7116,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569"
+    title: "470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)"
+    url: "/wiki/sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569/"
   - key: "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479"
     title: "471. The Road to The Great War: The Austrian Ultimatum (Part 3)"
     url: "/wiki/sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479/"

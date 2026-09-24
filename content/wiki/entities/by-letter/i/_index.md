@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10659
+wiki_total_pages: 10663
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -341,6 +341,9 @@ wiki_pages:
   - key: "IstanbulFinancialCenter"
     title: "Istanbul Financial Center"
     url: "/wiki/entities/istanbulfinancialcenter/"
+  - key: "IstvanTisza"
+    title: "Istvan Tisza"
+    url: "/wiki/entities/istvantisza/"
   - key: "ItalianFascism"
     title: "Italian Fascism / 意大利法西斯主义"
     url: "/wiki/entities/italianfascism/"

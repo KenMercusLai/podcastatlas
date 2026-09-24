@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)](sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569.md) — The Rest Is History episode on Germany's blank cheque, Austria-Hungary's internal delay, preventive-war logic, and the missing Russian contingency.
 - [471. The Road to The Great War: The Austrian Ultimatum (Part 3)](sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479.md) — The Rest Is History episode on Franco-Russian firmness, Russia's Balkan and Straits anxieties, Austria-Hungary's ultimatum, and the first partial-mobilisation measures.
 - [472. The Road to The Great War: Britain's Fateful Choice (Part 4)](sources/472-the-road-to-the-great-war-britains-fateful-choice-part-4-glt6983892157.md) — The Rest Is History episode on Britain's ambiguous commitments, Grey's failed mediation, Crowe's intervention logic, and Serbia's qualified reply to Austria-Hungary.
 - [473. The Road to The Great War: The Tsar Chooses War (Part 5)](sources/473-the-road-to-the-great-war-the-tsar-chooses-war-part-5-glt1322848845.md) — The Rest Is History episode on failed July Crisis off-ramps, Austria-Hungary's war on Serbia, royal diplomacy, and Russia's general-mobilisation decision.
@@ -2775,6 +2776,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
 
 ## Entities
+- [Alexander Hoyos](entities/AlexanderHoyos.md) — Austro-Hungarian envoy who carried Franz Joseph's appeal to Berlin and returned with Germany's blank cheque.
+- [Theobald von Bethmann Hollweg](entities/TheobaldVonBethmannHollweg.md) — German chancellor who confirmed open-ended backing for Austria-Hungary under a deterrence assumption.
+- [Leopold Berchtold](entities/LeopoldBerchtold.md) — Austro-Hungarian foreign minister who advanced the harsh ultimatum strategy against Serbia.
+- [Istvan Tisza](entities/IstvanTisza.md) — Hungarian prime minister whose resistance delayed but did not prevent the ultimatum course.
 - [Raymond Poincaré](entities/RaymondPoincare.md) — French president whose St Petersburg diplomacy treated Franco-Russian firmness as deterrence during the July Crisis.
 - [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
 - [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
@@ -5067,7 +5072,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Widgery Inquiry](entities/WidgeryInquiry.md) — Early Bloody Sunday inquiry remembered in this wiki as the contested official account later displaced by Saville.
 - [Crown Prince Rudolf](entities/CrownPrinceRudolf.md) — Habsburg heir whose affair with Mary Vetsera ends at Mayerling and creates burial, suppression, and succession crises.
 - [Mary Vetsera](entities/MaryVetsera.md) — Seventeen-year-old baroness whose letters, death with Rudolf, and official erasure anchor the Mayerling scandal.
-- [Franz Joseph I](entities/FranzJosephI.md) — Habsburg emperor managing Rudolf's death through Catholic burial, public suppression, grief, and succession repair.
+- [Franz Joseph I](entities/FranzJosephI.md) — Habsburg emperor whose Mayerling succession crisis and conscious approval of the 1914 ultimatum connect dynastic rule to the July Crisis.
 - [Empress Sisi](entities/EmpressSisi.md) — Rudolf's mother and Franz Joseph's wife, used by the Mayerling episode as news conduit, mourner, and later Habsburg tragedy.
 - [Countess Larish](entities/CountessLarish.md) — Court intermediary who enables Mary Vetsera's clandestine access to Crown Prince Rudolf.
 - [Mitzi Kaspar](entities/MitziKaspar.md) — Rudolf's regular mistress whose rejected death-pact proposal qualifies the Rudolf-Mary pact.
@@ -5077,7 +5082,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Philip of Coburg](entities/PhilipOfCoburg.md) — Hunting-party witness helping establish Rudolf's calm public surface shortly before the Mayerling deaths.
 - [Johann Loschek](entities/JohannLoschek.md) — Rudolf's valet whose breakfast call and locked-door discovery expose the Mayerling deaths.
 - [Mayerling Incident](entities/MayerlingIncident.md) — January 1889 death of Rudolf and Mary, treated as private tragedy, religious crisis, official suppression, and succession shock.
-- [Austria-Hungary](entities/AustriaHungary.md) — Habsburg monarchy whose court legitimacy and succession line are shaken by the Mayerling affair.
+- [Austria-Hungary](entities/AustriaHungary.md) — Habsburg monarchy whose dynastic strain, blank-cheque diplomacy, internal delay, and Serbian ultimatum expose weakly aligned political and military aims.
 - [Habsburg Dynasty](entities/HabsburgDynasty.md) — Ruling house framed through Mayerling's family tragedy, burial management, succession redirection, and later shocks.
 - [Karl Ludwig of Austria](entities/KarlLudwigOfAustria.md) — Franz Joseph's brother and collateral succession bridge after Rudolf's death.
 - [Franz Ferdinand](entities/FranzFerdinand.md) — Later Habsburg heir reached through the post-Mayerling succession path and named as a later crisis marker.
@@ -5086,7 +5091,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heiligenkreuz Abbey](entities/HeiligenkreuzAbbey.md) — Burial destination for Mary Vetsera after her body is removed from Mayerling.
 - [Capuchin Crypt](entities/CapuchinCrypt.md) — Habsburg burial site reached after Rudolf's suicide is framed as eligible for Catholic burial.
 - [Carmelite Convent at Mayerling](entities/CarmeliteConventMayerling.md) — Religious replacement for Rudolf's hunting lodge after the Mayerling deaths.
-- [Kaiser Wilhelm II](entities/KaiserWilhelmII.md) — German monarch used by the episode as part of Rudolf's late political dread.
+- [Kaiser Wilhelm II](entities/KaiserWilhelmII.md) — German monarch whose blank-cheque support, deterrence miscalculation, later restraint proposals, and mobilisation decisions shaped the July Crisis.
 - [黄浮 / Huang Fu (Donghai chancellor)](entities/HuangFuDonghaiLateHan.md) — East Sea official who executes Xu Xuan and is punished after eunuch complaint.
 - [李暠 / Li Gao (Runan administrator)](entities/LiGaoRunanLateHan.md) — Former Runan administrator whose daughter is killed in the Xu Xuan case.
 - [刘茂 / Liu Mao (late Han)](entities/LiuMaoLateHan.md) — Huan-era official whose bounded roles now include a Taichang-to-sikong appointment notice and later contrast as Chen Fan's co-remonstrant who retreats under pressure.
@@ -13445,6 +13450,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 
 ## Concepts
+- [Blank-Cheque Alliance Escalation](concepts/BlankChequeAllianceEscalation.md) — Pattern in which open-ended deterrent backing increases an ally's risk tolerance and escalation discretion.
 - [July Crisis](concepts/JulyCrisis.md) — Final 1914 escalation in which alliance firmness, strategic anxiety, ultimatum diplomacy, mobilisation, and political choice opened general European war.
 - [British Foreign-Policy Ambiguity in 1914](concepts/BritishForeignPolicyAmbiguity1914.md) — Gap between formal non-obligation and private, naval, imperial, and strategic expectations shaping Britain's choice.
 - [Mobilisation-Diplomacy Escalation Trap](concepts/MobilisationDiplomacyEscalationTrap.md) — Feedback in which precautionary military preparation alters rival threat perception and shrinks diplomatic reversibility.

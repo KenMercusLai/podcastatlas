@@ -1710,6 +1710,18 @@
       "url": "/topics/science/"
     }
   ],
+  "470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479": [
     {
       "key": "history",
@@ -7864,6 +7876,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AlexanderHoyos": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AlexanderLiss": [
     {
       "key": "technology",
@@ -12866,6 +12885,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "BlankChequeAllianceEscalation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "BlanketTariffLimit": [
@@ -42874,6 +42900,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "LeopoldBerchtold": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LeptonAI": [
     {
       "key": "technology",
@@ -71396,6 +71429,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TheobaldVonBethmannHollweg": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TheodoreHook": [
