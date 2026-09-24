@@ -22312,3 +22312,11 @@ Added source. Key claims: ICU actively supports failing organs to buy time for r
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight
+
+Added source `the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890`; created `ZacharyKnight` and `PredictiveHomeostaticControl`; and updated `AppetiteHormoneRegulation`, `GLP1Agonists`, `UltraProcessedFoodPragmaticBoundary`, and `DopamineWantingLoop` from their complete bounded source sets. Core synthesis: hunger and thirst use fast sensory forecasts that are checked against slower physiological feedback; appetite spans brainstem meal control, hypothalamic reserve regulation, endocrine signals, and learning; GLP-1 pharmacology is not equivalent to ordinary food-induced hormone changes. No settled contradiction found. Animal-to-human translation, exact heritability and counter-regulation figures, exposure multiples, lean-mass claims, drug trial outcomes, and mechanism partitions remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

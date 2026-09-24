@@ -9498,9 +9498,9 @@
       "url": "/wiki/concepts/appareloemverticalintegration/"
     },
     "AppetiteHormoneRegulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9260736648 [SCIM9260736648].md",
@@ -9508,9 +9508,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
+        },
+        {
+          "episode_file": "SCIM7873255890 [SCIM7873255890].md",
+          "key": "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890",
+          "show": "Huberman Lab",
+          "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
+          "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/appetitehormoneregulation/"
     },
     "AppleMetal": {
@@ -35953,9 +35960,9 @@
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -35984,9 +35991,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
           "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
+        },
+        {
+          "episode_file": "SCIM7873255890 [SCIM7873255890].md",
+          "key": "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890",
+          "show": "Huberman Lab",
+          "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
+          "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouDuEasternHan": {
@@ -51604,9 +51618,9 @@
       "url": "/wiki/entities/glm53flash/"
     },
     "GLP1Agonists": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 8,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -51705,9 +51719,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        },
+        {
+          "episode_file": "SCIM7873255890 [SCIM7873255890].md",
+          "key": "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890",
+          "show": "Huberman Lab",
+          "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
+          "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/glp1agonists/"
     },
     "GLP1BodyCompositionStack": {
@@ -106654,6 +106675,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/predictivedecisionautomation/"
     },
+    "PredictiveHomeostaticControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7873255890 [SCIM7873255890].md",
+          "key": "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890",
+          "show": "Huberman Lab",
+          "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
+          "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/predictivehomeostaticcontrol/"
+    },
     "PredictiveWorldModelAnxiety": {
       "episode_count": 1,
       "show_count": 1,
@@ -136038,9 +136075,9 @@
       "url": "/wiki/entities/ultabeauty/"
     },
     "UltraProcessedFoodPragmaticBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3206044616 [SCIM3206044616].md",
@@ -136055,9 +136092,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Hunger, Eating & Satiety",
           "url": "/wiki/sources/essentials-how-to-control-hunger-eating-satiety-scim9260736648/"
+        },
+        {
+          "episode_file": "SCIM7873255890 [SCIM7873255890].md",
+          "key": "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890",
+          "show": "Huberman Lab",
+          "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
+          "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/ultraprocessedfoodpragmaticboundary/"
     },
     "UltradianDeepWorkBlock": {
@@ -151174,6 +151218,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/ztoexpress/"
+    },
+    "ZacharyKnight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7873255890 [SCIM7873255890].md",
+          "key": "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890",
+          "show": "Huberman Lab",
+          "title": "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight",
+          "url": "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/zacharyknight/"
     },
     "Zalando": {
       "episode_count": 1,

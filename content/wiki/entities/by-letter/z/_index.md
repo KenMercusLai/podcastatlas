@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10716
+wiki_total_pages: 10717
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -17,6 +17,9 @@ wiki_pages:
   - key: "ZachLowe"
     title: "Zach Lowe"
     url: "/wiki/entities/zachlowe/"
+  - key: "ZacharyKnight"
+    title: "Zachary Knight"
+    url: "/wiki/entities/zacharyknight/"
   - key: "ZackPolanski"
     title: "Zack Polanski"
     url: "/wiki/entities/zackpolanski/"

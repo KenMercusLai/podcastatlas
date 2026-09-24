@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1188
+topic_total_pages: 1191
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1417,6 +1417,9 @@ topic_concepts:
   - key: "PostLearningArousalTagging"
     title: "Post-Learning Arousal Tagging"
     url: "/wiki/concepts/postlearningarousaltagging/"
+  - key: "PredictiveHomeostaticControl"
+    title: "Predictive Homeostatic Control"
+    url: "/wiki/concepts/predictivehomeostaticcontrol/"
   - key: "PrefrontalCortexOverattribution"
     title: "Prefrontal Cortex Overattribution / 前额叶过度归因"
     url: "/wiki/concepts/prefrontalcortexoverattribution/"
@@ -2903,6 +2906,9 @@ topic_entities:
   - key: "Yobi"
     title: "Yobi"
     url: "/wiki/entities/yobi/"
+  - key: "ZacharyKnight"
+    title: "Zachary Knight"
+    url: "/wiki/entities/zacharyknight/"
   - key: "ZhejiangUniversity"
     title: "Zhejiang University / 浙江大学"
     url: "/wiki/entities/zhejianguniversity/"
@@ -3483,6 +3489,9 @@ topic_sources:
   - key: "the-science-art-of-comedy-creativity-tom-segura-scim7538555033"
     title: "The Science & Art of Comedy & Creativity | Tom Segura"
     url: "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+  - key: "the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890"
+    title: "The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight"
+    url: "/wiki/sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890/"
   - key: "tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958"
     title: "Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti"
     url: "/wiki/sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8090
+wiki_total_pages: 8091
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "PredictiveDecisionAutomation"
     title: "Predictive Decision Automation"
     url: "/wiki/concepts/predictivedecisionautomation/"
+  - key: "PredictiveHomeostaticControl"
+    title: "Predictive Homeostatic Control"
+    url: "/wiki/concepts/predictivehomeostaticcontrol/"
   - key: "PredictiveModelValidation"
     title: "Predictive Model Validation"
     url: "/wiki/concepts/predictivemodelvalidation/"
