@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8103
+wiki_total_pages: 8105
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "BlockchainFinancialInnovation"
     title: "Blockchain Financial Innovation"
     url: "/wiki/concepts/blockchainfinancialinnovation/"
+  - key: "BloodVengeanceToCivicJustice"
+    title: "Blood Vengeance to Civic Justice"
+    url: "/wiki/concepts/bloodvengeancetocivicjustice/"
   - key: "BloodBrainBarrierPrediction"
     title: "Blood-Brain Barrier Prediction"
     url: "/wiki/concepts/bloodbrainbarrierprediction/"

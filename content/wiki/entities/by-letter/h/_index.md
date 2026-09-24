@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10730
+wiki_total_pages: 10735
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "HeinrichBlucher"
     title: "Heinrich Blücher / 海因里希·布鲁歇尔"
     url: "/wiki/entities/heinrichblucher/"
+  - key: "HeinrichSchliemann"
+    title: "Heinrich Schliemann"
+    url: "/wiki/entities/heinrichschliemann/"
   - key: "HeirloomCarbonTechnologies"
     title: "Heirloom Carbon Technologies"
     url: "/wiki/entities/heirloomcarbontechnologies/"

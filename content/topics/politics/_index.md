@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2696
+topic_total_pages: 2697
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -439,6 +439,9 @@ topic_concepts:
   - key: "BlankChequeAllianceEscalation"
     title: "Blank-Cheque Alliance Escalation"
     url: "/wiki/concepts/blankchequeallianceescalation/"
+  - key: "BloodVengeanceToCivicJustice"
+    title: "Blood Vengeance to Civic Justice"
+    url: "/wiki/concepts/bloodvengeancetocivicjustice/"
   - key: "BondedWarehouseCrossBorderImport"
     title: "Bonded Warehouse Cross-Border Import / 保税仓跨境电商"
     url: "/wiki/concepts/bondedwarehousecrossborderimport/"

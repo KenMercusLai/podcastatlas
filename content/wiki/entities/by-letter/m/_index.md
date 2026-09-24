@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10730
+wiki_total_pages: 10735
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1400,6 +1400,9 @@ wiki_pages:
   - key: "MyanmarMilitaryJunta"
     title: "Myanmar Military Junta"
     url: "/wiki/entities/myanmarmilitaryjunta/"
+  - key: "Mycenae"
+    title: "Mycenae"
+    url: "/wiki/entities/mycenae/"
   - key: "Mycontext"
     title: "Mycontext"
     url: "/wiki/entities/mycontext/"

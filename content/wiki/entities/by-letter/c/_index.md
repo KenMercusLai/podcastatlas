@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10730
+wiki_total_pages: 10735
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "Cloudflare"
     title: "Cloudflare"
     url: "/wiki/entities/cloudflare/"
+  - key: "Clytemnestra"
+    title: "Clytemnestra"
+    url: "/wiki/entities/clytemnestra/"
   - key: "CMOC"
     title: "CMOC / 洛阳钼业"
     url: "/wiki/entities/cmoc/"

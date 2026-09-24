@@ -5589,6 +5589,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/aerospacecenterhospital/"
     },
+    "Aeschylus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/aeschylus/"
+    },
     "AesopBeauty": {
       "episode_count": 1,
       "show_count": 1,
@@ -5714,6 +5730,36 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/afterhourspowerboundary/"
+    },
+    "Agamemnon": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？ [ltKLOTheqpuP6oaMYflFzpXTIPsW].md",
+          "key": "ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw",
+          "show": "Talk三联",
+          "title": "EP269 从“漫威宇宙”到《奥德赛》：为何总要翻拍英雄史诗？",
+          "url": "/wiki/sources/ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw/"
+        },
+        {
+          "episode_file": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇） [725317514].md",
+          "key": "96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514",
+          "show": "蜜獾吃书",
+          "title": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）",
+          "url": "/wiki/sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514/"
+        },
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/agamemnon/"
     },
     "AgentCivilizationNarrative": {
       "episode_count": 1,
@@ -15194,6 +15240,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/blockchainfinancialinnovation/"
+    },
+    "BloodVengeanceToCivicJustice": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/bloodvengeancetocivicjustice/"
     },
     "BloodyFriday": {
       "episode_count": 1,
@@ -25070,6 +25132,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/clubnationalteamboundaryblur/"
+    },
+    "Clytemnestra": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/clytemnestra/"
     },
     "CnutTheGreat": {
       "episode_count": 1,
@@ -60690,6 +60768,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
+    "HeinrichSchliemann": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/heinrichschliemann/"
+    },
     "HeirSupportThreatPerception": {
       "episode_count": 3,
       "show_count": 1,
@@ -60851,6 +60945,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/helenblairsimpson/"
+    },
+    "HelenOfTroy": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇） [725317514].md",
+          "key": "96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514",
+          "show": "蜜獾吃书",
+          "title": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇）",
+          "url": "/wiki/sources/96-hema-shishi-zai-jiazhuang-yongsheng-de-shidai-women-zhongdu-siwang-yiliyate-pian-725317514/"
+        },
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/helenoftroy/"
     },
     "Helijia": {
       "episode_count": 1,
@@ -62477,6 +62594,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/homericadaptationmodernization/"
+    },
+    "HomericBronzeAgeMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/homericbronzeagememory/"
     },
     "HomericFantasyGeography": {
       "episode_count": 1,
@@ -94971,6 +95104,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/myanmar/"
+    },
+    "Mycenae": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/mycenae/"
     },
     "MyopiaSurgeryRiskBoundary": {
       "episode_count": 2,
@@ -132532,6 +132681,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/theodyssey/"
+    },
+    "TheOresteia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7255356131 [GLT7255356131].md",
+          "key": "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131",
+          "show": "The Rest Is History",
+          "title": "458. Helen of Troy: A Family of Blood (Part 2)",
+          "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/theoresteia/"
     },
     "ThePillowBook": {
       "episode_count": 1,

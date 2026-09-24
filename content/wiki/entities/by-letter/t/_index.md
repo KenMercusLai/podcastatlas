@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10730
+wiki_total_pages: 10735
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -434,6 +434,9 @@ wiki_pages:
   - key: "TheOdyssey"
     title: "The Odyssey"
     url: "/wiki/entities/theodyssey/"
+  - key: "TheOresteia"
+    title: "The Oresteia"
+    url: "/wiki/entities/theoresteia/"
   - key: "ThePhoenixRecovery"
     title: "The Phoenix"
     url: "/wiki/entities/thephoenixrecovery/"

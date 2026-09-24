@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1982
+topic_total_pages: 1986
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -505,6 +505,9 @@ topic_concepts:
   - key: "HistoriographicalPresentism"
     title: "Historiographical Presentism / 史评当代性"
     url: "/wiki/concepts/historiographicalpresentism/"
+  - key: "HomericBronzeAgeMemory"
+    title: "Homeric Bronze Age Memory"
+    url: "/wiki/concepts/homericbronzeagememory/"
   - key: "HongKongHandoverTeleology"
     title: "Hong Kong Handover Teleology / 香港九七目的论"
     url: "/wiki/concepts/hongkonghandoverteleology/"
@@ -1808,6 +1811,9 @@ topic_entities:
   - key: "HanShu"
     title: "Han Shu / 《汉书》"
     url: "/wiki/entities/hanshu/"
+  - key: "HeinrichSchliemann"
+    title: "Heinrich Schliemann"
+    url: "/wiki/entities/heinrichschliemann/"
   - key: "Herodotus"
     title: "Herodotus"
     url: "/wiki/entities/herodotus/"
@@ -1913,6 +1919,9 @@ topic_entities:
   - key: "MinoanCivilization"
     title: "Minoan Civilization"
     url: "/wiki/entities/minoancivilization/"
+  - key: "Mycenae"
+    title: "Mycenae"
+    url: "/wiki/entities/mycenae/"
   - key: "NagasakiAtomicBombing"
     title: "Nagasaki Atomic Bombing"
     url: "/wiki/entities/nagasakiatomicbombing/"
@@ -4581,6 +4590,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131"
+    title: "458. Helen of Troy: A Family of Blood (Part 2)"
+    url: "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
   - key: "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704"
     title: "459. The Suit, Savile Row, and Smartly Dressed Men"
     url: "/wiki/sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704/"

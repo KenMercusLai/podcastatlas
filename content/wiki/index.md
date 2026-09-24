@@ -2814,6 +2814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.119黑灯：脱口秀哪有现实荒谬，疾病致盲，城市设施制障｜一期讲懂Stargardt病](sources/vol-119-heideng-tuokouxiu-na-you-xianshi-huangmiu-jibing-zhimang-chengshi-sheshi-zhizhang-yiqi-jiangdong-stargardt-bing-lvwyjqgzhx3sfifxeo0exavh-cdq.md) — 这病说来话长 episode on Stargardt disease, color-vision deficiency, disability adaptation, user-centered accessibility, and patient-led rare-disease information.
 
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
+- [458. Helen of Troy: A Family of Blood (Part 2)](sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131.md) — The Rest Is History episode on Schliemann at Mycenae, Clytemnestra and the Oresteia, and qualified Bronze Age memory beneath Homeric myth.
 
 ## Entities
 - [Charles II of England](entities/CharlesIIOfEngland.md) — Restoration king whose 1666 vest initiative joined coordinated male dress to thrift, wool, and political sobriety.
@@ -13557,6 +13558,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [青少年黄斑变性关爱中心 / Juvenile Macular Degeneration Care Center](entities/JuvenileMacularDegenerationCareCenter.md) — Patient- and family-led information initiative for juvenile inherited macular disease.
 
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
+- [Clytemnestra](entities/Clytemnestra.md) — Mythic Mycenaean queen whose revenge, agency, and family violence dominate Aeschylus' Oresteia.
+- [Heinrich Schliemann](entities/HeinrichSchliemann.md) — Early excavator whose real finds were repeatedly overidentified through Homeric names and self-mythology.
+- [Aeschylus](entities/Aeschylus.md) — Athenian tragedian who turns Agamemnon's cursed household into an argument about revenge and civic judgment.
+- [Mycenae](entities/Mycenae.md) — Fortified Bronze Age citadel whose material culture supports a palace world but not named Homeric biographies.
+- [The Oresteia](entities/TheOresteia.md) — Aeschylean trilogy moving from dynastic murder and matricide toward difficult public adjudication.
 
 ## Concepts
 - [Suit As Social Code](concepts/SuitAsSocialCode.md) — The suit as both standardized uniform and fine-grained language of seriousness, belonging, and rank.
@@ -21673,5 +21679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Color-Vision Deficiency / 色觉障碍](concepts/ColorVisionDeficiency.md) — Spectrum-and-function framework for congenital and acquired differences in color discrimination.
 - [User-Centered Accessibility Design / 使用者中心无障碍设计](concepts/UserCenteredAccessibilityDesign.md) — Journey-level design test joining infrastructure, legibility, service workflow, user evidence, and task completion.
 - [Patient-Led Rare-Disease Infrastructure / 患者主导的罕见病基础设施](concepts/PatientLedRareDiseaseInfrastructure.md) — Information, peer-support, advocacy, and research-bridging capacity built by affected people and families.
+- [Homeric Bronze Age Memory](concepts/HomericBronzeAgeMemory.md) — Qualified model in which epic preserves older language, institutions, material culture, and elite social types without documenting named lives.
+- [Blood Vengeance to Civic Justice](concepts/BloodVengeanceToCivicJustice.md) — Oresteia pattern in which self-renewing kin retaliation is redirected into public trial without erasing moral or divine ambiguity.
 
 ## Syntheses

@@ -22360,3 +22360,11 @@ Added source `459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704`; cr
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 458. Helen of Troy: A Family of Blood (Part 2)
+
+Added source `458-helen-of-troy-a-family-of-blood-part-2-glt7255356131`; created `Clytemnestra`, `HeinrichSchliemann`, `Aeschylus`, `Mycenae`, `TheOresteia`, `HomericBronzeAgeMemory`, and `BloodVengeanceToCivicJustice`; and updated `HelenOfTroy` and `Agamemnon` from their complete bounded source sets. Core synthesis: Mycenaean archaeology, Linear B language, Hittite geopolitics, and elite female evidence can support fragmentary Bronze Age memory beneath Homer without identifying legendary individuals, while the Oresteia converts self-renewing family vengeance into difficult civic adjudication. No settled contradiction found. Schliemann's Agamemnon identification and Sophia treasure story are rejected; named historicity, Akiwawa equivalence, gender reconstruction, appearance evidence, chronology details, and political interpretation remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

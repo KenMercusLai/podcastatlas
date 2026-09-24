@@ -1703,6 +1703,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704": [
     {
       "key": "history",
@@ -7281,6 +7288,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Aeschylus": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Aestudio": [
@@ -13066,6 +13080,13 @@
       "url": "/topics/science/"
     }
   ],
+  "BloodVengeanceToCivicJustice": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BloomTwoSigmaProblem": [
     {
       "key": "technology",
@@ -17887,6 +17908,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Clytemnestra": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "CoCounsel": [
@@ -34322,6 +34350,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "HeinrichSchliemann": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HeirSacrificeAppeasement": [
     {
       "key": "history",
@@ -35129,6 +35164,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HomericBronzeAgeMemory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HomericFantasyGeography": [
@@ -49916,6 +49958,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Mycenae": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MyersTest": [
@@ -71584,6 +71633,13 @@
     }
   ],
   "TheOdyssey": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "TheOresteia": [
     {
       "key": "culture",
       "label": "Culture",

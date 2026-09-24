@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10730
+wiki_total_pages: 10735
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "AeroShorts"
     title: "AeroShorts"
     url: "/wiki/entities/aeroshorts/"
+  - key: "Aeschylus"
+    title: "Aeschylus"
+    url: "/wiki/entities/aeschylus/"
   - key: "AesopBeauty"
     title: "Aesop / 伊索"
     url: "/wiki/entities/aesopbeauty/"

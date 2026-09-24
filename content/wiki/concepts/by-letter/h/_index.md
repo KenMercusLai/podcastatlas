@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8103
+wiki_total_pages: 8105
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -452,6 +452,9 @@ wiki_pages:
   - key: "HomericAdaptationModernization"
     title: "Homeric Adaptation Modernization"
     url: "/wiki/concepts/homericadaptationmodernization/"
+  - key: "HomericBronzeAgeMemory"
+    title: "Homeric Bronze Age Memory"
+    url: "/wiki/concepts/homericbronzeagememory/"
   - key: "HomericFantasyGeography"
     title: "Homeric Fantasy Geography"
     url: "/wiki/concepts/homericfantasygeography/"
