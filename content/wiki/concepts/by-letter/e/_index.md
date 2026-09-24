@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8052
+wiki_total_pages: 8056
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -941,6 +941,9 @@ wiki_pages:
   - key: "ExpectedGoalsProcessMetric"
     title: "Expected Goals as Process Metric"
     url: "/wiki/concepts/expectedgoalsprocessmetric/"
+  - key: "ExpectedBehaviorCulture"
+    title: "Expected-Behavior Culture"
+    url: "/wiki/concepts/expectedbehaviorculture/"
   - key: "ExpeditionCommandFragmentation"
     title: "Expedition Command Fragmentation"
     url: "/wiki/concepts/expeditioncommandfragmentation/"

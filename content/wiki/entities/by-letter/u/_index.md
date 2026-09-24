@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 10687
+wiki_total_pages: 10692
 wiki_pages:
   - key: "UnitedStatesPresidentialElection1968"
     title: "1968 United States Presidential Election"
@@ -167,6 +167,9 @@ wiki_pages:
   - key: "UnionSquare"
     title: "Union Square"
     url: "/wiki/entities/unionsquare/"
+  - key: "UnionSquareHospitalityGroup"
+    title: "Union Square Hospitality Group"
+    url: "/wiki/entities/unionsquarehospitalitygroup/"
   - key: "UnionSquareVentures"
     title: "Union Square Ventures"
     url: "/wiki/entities/unionsquareventures/"

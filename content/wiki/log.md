@@ -21949,6 +21949,10 @@ Added source `national-front-runner-who-can-beat-le-pen-6ab3960493749e4c0ba24e60
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-24] ingest | Advice Line with Danny Meyer of Shake Shack
+
+Added source `advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac`; created `DannyMeyer`, `UnionSquareHospitalityGroup`, `PonyboySlings`, `AngelOakSmokehouse`, `BoostCoos`, `ExpectedBehaviorCulture`, `PackagedHospitality`, `CapacityGatedChannelExpansion`, and `FoodserviceBeachheadScaling`; updated `ShakeShack` from its complete bounded source set; and updated the index. Core synthesis: hospitality scales when expected behavior is explicit, founder-led belonging is translated into packaging, channel experiments are bounded by repeat demand and operating capacity, and young food brands earn larger accounts through small-customer proof. No settled contradiction found; company metrics and product figures remain caller-reported, while all proposed packaging and channel moves remain advice rather than observed outcomes. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit`; created `LucaFerrari`, `AcquiredProductMarketFit`, and `SoftwareAcquisitionOperatingPlatform`; migrated and updated `BendingSpoons` and `LongTermPrivateOwnership`; and updated the index. Core synthesis: Bending Spoons separates demand discovery from post-acquisition execution by buying products with existing users, then applying shared technology, small teams, selective hiring, and permanent-ownership integration; the strategy depends on transferable operating capability rather than capital or cost cutting alone. No settled contradiction found; an earlier Airtable cost-reset frame is broadened rather than rejected, while returns, leverage, valuation, staffing, hiring, portfolio scale, customer outcomes, restructuring effects, and failed integrations remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22176,6 +22180,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | 466. The Murder of Franz Ferdinand: The Conspiracy (Part 2)
 
 Added source `466-the-murder-of-franz-ferdinand-the-conspiracy-part-2-glt2060941792`; created `BlackHand` and `StateParamilitaryAuthoritySplit`; rewrote `GavriloPrincip` and `SarajevoAssassinationContingency` from their complete bounded source sets; updated `Serbia` from its complete bounded source set; and updated the index. Core synthesis: Black Hand-linked actors supplied the student conspirators with weapons, training, papers, couriers, and border passage, but contradictory testimony and divided Serbian authority prevent that support from being collapsed into a proven unified civilian-government order. No settled contradiction found; plot initiation, command hierarchy, Pasic's exact knowledge, the reported interdiction, initiation ritual, and warning motives remain source-scoped or contested. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

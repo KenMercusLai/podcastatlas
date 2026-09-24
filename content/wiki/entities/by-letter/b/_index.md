@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10687
+wiki_total_pages: 10692
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -707,6 +707,9 @@ wiki_pages:
   - key: "BoomSupersonic"
     title: "Boom Supersonic"
     url: "/wiki/entities/boomsupersonic/"
+  - key: "BoostCoos"
+    title: "Boost Coos"
+    url: "/wiki/entities/boostcoos/"
   - key: "BorisJohnson"
     title: "Boris Johnson"
     url: "/wiki/entities/borisjohnson/"

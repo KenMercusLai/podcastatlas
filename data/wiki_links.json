@@ -5951,6 +5951,10 @@
     "title": "《暗眼小僧》 / Angan Kozo",
     "url": "/wiki/entities/angankozo/"
   },
+  "AngelOakSmokehouse": {
+    "title": "Angel Oak Smokehouse",
+    "url": "/wiki/entities/angeloaksmokehouse/"
+  },
   "AngelRaymer": {
     "title": "Angel Raymer",
     "url": "/wiki/entities/angelraymer/"
@@ -9735,6 +9739,10 @@
     "title": "Boomless Cruise",
     "url": "/wiki/concepts/boomlesscruise/"
   },
+  "BoostCoos": {
+    "title": "Boost Coos",
+    "url": "/wiki/entities/boostcoos/"
+  },
   "BoraChung": {
     "title": "郑宝拉 / Bora Chung",
     "url": "/wiki/entities/borachung/"
@@ -11258,6 +11266,10 @@
   "CapacityBoundFrontierCommitment": {
     "title": "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺",
     "url": "/wiki/concepts/capacityboundfrontiercommitment/"
+  },
+  "CapacityGatedChannelExpansion": {
+    "title": "Capacity-Gated Channel Expansion",
+    "url": "/wiki/concepts/capacitygatedchannelexpansion/"
   },
   "CapacityMatchedGrowth": {
     "title": "Capacity-Matched Growth",
@@ -17335,6 +17347,10 @@
     "title": "Danny Jenkins",
     "url": "/wiki/entities/dannyjenkins/"
   },
+  "DannyMeyer": {
+    "title": "Danny Meyer",
+    "url": "/wiki/entities/dannymeyer/"
+  },
   "DannyMorgan": {
     "title": "Danny Morgan",
     "url": "/wiki/entities/dannymorgan/"
@@ -22611,6 +22627,10 @@
     "title": "Expectation-Matched Scientific Fraud",
     "url": "/wiki/concepts/expectationmatchedscientificfraud/"
   },
+  "ExpectedBehaviorCulture": {
+    "title": "Expected-Behavior Culture",
+    "url": "/wiki/concepts/expectedbehaviorculture/"
+  },
   "ExpectedGoalsProcessMetric": {
     "title": "Expected Goals as Process Metric",
     "url": "/wiki/concepts/expectedgoalsprocessmetric/"
@@ -24754,6 +24774,10 @@
   "FoodbornePathogenUncertainty": {
     "title": "Foodborne Pathogen Uncertainty",
     "url": "/wiki/concepts/foodbornepathogenuncertainty/"
+  },
+  "FoodserviceBeachheadScaling": {
+    "title": "Food-Service Beachhead Scaling",
+    "url": "/wiki/concepts/foodservicebeachheadscaling/"
   },
   "FootballAnalyticsModernization": {
     "title": "Football Analytics Modernization",
@@ -49259,6 +49283,10 @@
     "title": "Pacing the Frontier",
     "url": "/wiki/concepts/pacingthefrontier/"
   },
+  "PackagedHospitality": {
+    "title": "Packaged Hospitality",
+    "url": "/wiki/concepts/packagedhospitality/"
+  },
   "PackagedIceCreamDemandPressure": {
     "title": "Packaged Ice-Cream Demand Pressure / 包装雪糕需求压力",
     "url": "/wiki/concepts/packagedicecreamdemandpressure/"
@@ -51606,6 +51634,10 @@
   "PonyMa": {
     "title": "Pony Ma",
     "url": "/wiki/entities/ponyma/"
+  },
+  "PonyboySlings": {
+    "title": "Ponyboy Slings",
+    "url": "/wiki/entities/ponyboyslings/"
   },
   "PonziScheme": {
     "title": "Ponzi Scheme",
@@ -67687,6 +67719,10 @@
     "title": "Union Square",
     "url": "/wiki/entities/unionsquare/"
   },
+  "UnionSquareHospitalityGroup": {
+    "title": "Union Square Hospitality Group",
+    "url": "/wiki/entities/unionsquarehospitalitygroup/"
+  },
   "UnionSquareVentures": {
     "title": "Union Square Ventures",
     "url": "/wiki/entities/unionsquareventures/"
@@ -76862,6 +76898,10 @@
   "advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773": {
     "title": "Advice Line with Curt Richardson of OtterBox",
     "url": "/wiki/sources/advice-line-with-curt-richardson-of-otterbox-e94bf774-de11-4434-843b-a551309a6773/"
+  },
+  "advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac": {
+    "title": "Advice Line with Danny Meyer of Shake Shack",
+    "url": "/wiki/sources/advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac/"
   },
   "advice-line-with-daymond-john-of-fubu-0961848f-0f5a-4fb7-932c-3a04f08bc8d4": {
     "title": "Advice Line with Daymond John of FUBU",

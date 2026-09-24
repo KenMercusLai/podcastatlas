@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8052
+wiki_total_pages: 8056
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "FoodCourtSecondLandlord"
     title: "Food-Court Second Landlord / 美食广场二房东"
     url: "/wiki/concepts/foodcourtsecondlandlord/"
+  - key: "FoodserviceBeachheadScaling"
+    title: "Food-Service Beachhead Scaling"
+    url: "/wiki/concepts/foodservicebeachheadscaling/"
   - key: "FoodbornePathogenUncertainty"
     title: "Foodborne Pathogen Uncertainty"
     url: "/wiki/concepts/foodbornepathogenuncertainty/"

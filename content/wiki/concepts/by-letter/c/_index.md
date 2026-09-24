@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8052
+wiki_total_pages: 8056
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "CapacityBoundFrontierCommitment"
     title: "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺"
     url: "/wiki/concepts/capacityboundfrontiercommitment/"
+  - key: "CapacityGatedChannelExpansion"
+    title: "Capacity-Gated Channel Expansion"
+    url: "/wiki/concepts/capacitygatedchannelexpansion/"
   - key: "CapacityMatchedGrowth"
     title: "Capacity-Matched Growth"
     url: "/wiki/concepts/capacitymatchedgrowth/"

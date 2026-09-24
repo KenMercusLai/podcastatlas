@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10687
+wiki_total_pages: 10692
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1010,6 +1010,9 @@ wiki_pages:
   - key: "AndyStumpf"
     title: "Andy Stumpf"
     url: "/wiki/entities/andystumpf/"
+  - key: "AngelOakSmokehouse"
+    title: "Angel Oak Smokehouse"
+    url: "/wiki/entities/angeloaksmokehouse/"
   - key: "AngelRaymer"
     title: "Angel Raymer"
     url: "/wiki/entities/angelraymer/"

@@ -2791,6 +2791,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill](sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101.md) — Huberman Lab interview on endocannabinoid biology, dose and route, psychosis causality, strain-label evidence, CBD dosing, and indication-specific medical use.
 - [277.从提醒你，到替你办：Today想把Personal AI带到哪一步？](sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6.md) — 乱翻书 episode on Today’s memory-plus-initiative product thesis, identity-aware personal context, delegation friction, graduated execution, and unresolved product-market fit.
 
+- [Advice Line with Danny Meyer of Shake Shack](sources/advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac.md) — Danny Meyer advises food-and-beverage founders on behavior-based culture, packaged hospitality, capacity-gated channel tests, and bottom-up food-service proof.
+
 ## Entities
 - [Black Hand](entities/BlackHand.md) — Secret Serbian nationalist organization whose linked intermediaries supplied weapons, training, and border assistance while its exact command role remains contested.
 - [Aurel Popovici](entities/AurelPopovici.md) — Political theorist whose sixteen-state United States of Greater Austria supplied one federal model considered around Franz Ferdinand.
@@ -13489,6 +13491,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Matthew Hill](entities/MatthewHill.md) — Cannabinoid researcher separating endocannabinoid physiology, cannabis risks, causal evidence, commercial claims, and medical-use boundaries.
 - [Today Personal AI](entities/TodayPersonalAI.md) — Named personal agent seeking to combine continually revised memory, low-interruption initiative, and progressively authorized task execution.
 
+- [Danny Meyer](entities/DannyMeyer.md) — Hospitality founder and adviser linking explicit culture, customer experience, bounded experiments, and scale readiness.
+- [Union Square Hospitality Group](entities/UnionSquareHospitalityGroup.md) — Danny Meyer's hospitality organization and operating context for expected-behavior culture.
+- [Ponyboy Slings](entities/PonyboySlings.md) — Canned bourbon-cocktail company translating founder-led community and hospitality into packaging.
+- [Angel Oak Smokehouse](entities/AngelOakSmokehouse.md) — Smoked-salmon company balancing retail momentum with cold-chain and capacity constraints on new channels.
+- [Boost Coos](entities/BoostCoos.md) — Protein-rich couscous alternative using small restaurants and chefs to build food-service proof.
+
 ## Concepts
 - [State-Paramilitary Authority Split](concepts/StateParamilitaryAuthoritySplit.md) — Condition in which embedded official networks can enable violence beyond coherent civilian direction and defeat formal interdiction.
 - [Public AED Access Readiness / 公共AED可及性准备](concepts/PublicAEDAccessReadiness.md) — Public-safety framework for device visibility, access, mapping, retrieval time, advance familiarity, and bystander role assignment.
@@ -21552,5 +21560,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cannabis Medical-Use Evidence Boundary](concepts/CannabisMedicalUseEvidenceBoundary.md) — Indication-specific framework joining cannabinoid, formulation, dose, population, outcomes, and harms.
 - [Agent Delegation Friction / 智能体委托摩擦](concepts/AgentDelegationFriction.md) — Explanation, supervision, confirmation, and correction cost that determines whether delegating to an agent beats doing a task directly.
 - [Personal Memory Identity Resolution / 个人记忆身份解析](concepts/PersonalMemoryIdentityResolution.md) — Process for assigning personal-memory facts to the correct person, relationship, and time before storage or recall.
+
+- [Expected-Behavior Culture](concepts/ExpectedBehaviorCulture.md) — Culture model defined by the behaviors leaders celebrate, enforce, and tolerate.
+- [Packaged Hospitality](concepts/PackagedHospitality.md) — Translation of founder-led welcome and belonging into a package that can host from the shelf.
+- [Capacity-Gated Channel Expansion](concepts/CapacityGatedChannelExpansion.md) — Bounded growth tests designed around supply, logistics, quality, and upside overload.
+- [Food-Service Beachhead Scaling](concepts/FoodserviceBeachheadScaling.md) — Bottom-up restaurant entry that builds operational proof and advocacy before national-chain scale.
 
 ## Syntheses
