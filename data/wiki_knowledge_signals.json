@@ -16827,6 +16827,22 @@
       "updated": "2026-09-19",
       "url": "/wiki/concepts/capacorrectivepreventiveaction/"
     },
+    "CBDEvidenceDoseBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cbdevidencedoseboundary/"
+    },
     "CElegansModelOrganism": {
       "episode_count": 1,
       "show_count": 1,
@@ -17878,6 +17894,70 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/cangtingbattlelatehan/"
+    },
+    "CannabisDoseRouteVulnerability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cannabisdoseroutevulnerability/"
+    },
+    "CannabisMedicalUseEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cannabismedicaluseevidenceboundary/"
+    },
+    "CannabisPsychosisCausalityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cannabispsychosiscausalityboundary/"
+    },
+    "CannabisStrainLabelEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/cannabisstrainlabelevidenceboundary/"
     },
     "CaoAng": {
       "episode_count": 4,
@@ -41508,6 +41588,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/encirclingweitorescuezhao/"
+    },
+    "EndocannabinoidHomeostaticSignaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/endocannabinoidhomeostaticsignaling/"
     },
     "EndocrineDisruptorExposureReduction": {
       "episode_count": 2,
@@ -88358,6 +88454,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/mattballcolorado/"
+    },
+    "MatthewHill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3230094101 [SCIM3230094101].md",
+          "key": "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101",
+          "show": "Huberman Lab",
+          "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
+          "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/matthewhill/"
     },
     "MauricePaleologue": {
       "episode_count": 1,

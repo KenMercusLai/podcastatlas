@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10683
+wiki_total_pages: 10684
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "MatterSim"
     title: "MatterSim"
     url: "/wiki/entities/mattersim/"
+  - key: "MatthewHill"
+    title: "Matthew Hill"
+    url: "/wiki/entities/matthewhill/"
   - key: "MatthewHolt"
     title: "Matthew Holt"
     url: "/wiki/entities/matthewholt/"

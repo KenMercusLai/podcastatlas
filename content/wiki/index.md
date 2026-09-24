@@ -2785,6 +2785,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
 - [Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete](sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit.md) — All-In interview on acquired product-market fit, shared software operations, selective hiring, acquisition underwriting, leverage, and permanent-ownership integration.
 - [Build a Strong, Pain-Proof Back | Dr. Stuart McGill](sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455.md) — Huberman Lab interview on mechanism-based back-pain assessment, anatomy-matched exercise, cumulative load thresholds, spine-sparing stability, and progressive rehabilitation.
+- [How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill](sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101.md) — Huberman Lab interview on endocannabinoid biology, dose and route, psychosis causality, strain-label evidence, CBD dosing, and indication-specific medical use.
 
 ## Entities
 - [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose neck, lower-back, pillow, manual-treatment, and support-device questions ground the VOL.123 discussion.
@@ -13479,6 +13480,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Golden Door](entities/GoldenDoor.md) — High-end wellness retreat using phone-free common areas and device concealment to create a device-light environment.
 - [Stacy Sims](entities/StacySims.md) — Exercise physiologist and nutrition scientist focused on female-specific fueling, cycle-aware training, and midlife strength and power.
 - [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
+- [Matthew Hill](entities/MatthewHill.md) — Cannabinoid researcher separating endocannabinoid physiology, cannabis risks, causal evidence, commercial claims, and medical-use boundaries.
 
 ## Concepts
 - [Cervical Curve and Posture Management / 颈椎曲度与姿势管理](concepts/CervicalCurvePostureManagement.md) — Qualified framework connecting cervical alignment, muscular balance, sustained posture, movement variability, symptoms, and escalation.
@@ -21530,5 +21532,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Midlife Female Strength and Power Training](concepts/MidlifeFemaleStrengthPowerTraining.md) — Progressive resistance, power, impact, and recovery strategy for muscle, bone, metabolic health, and later-life independence.
 - [Acquired Product-Market Fit](concepts/AcquiredProductMarketFit.md) — Strategy of buying demonstrated users or distribution and applying repeatable operating capability to improve the product.
 - [Software Acquisition Operating Platform](concepts/SoftwareAcquisitionOperatingPlatform.md) — Shared technology, talent, product practice, and capital-allocation system for integrating acquired software businesses.
+- [Endocannabinoid Homeostatic Signaling](concepts/EndocannabinoidHomeostaticSignaling.md) — Retrograde anandamide and 2-AG regulation distinguished from broad THC-driven CB1 activation.
+- [Cannabis Dose-Route-Vulnerability Framework](concepts/CannabisDoseRouteVulnerability.md) — Conditional harm framework joining product, potency, route, timing, tolerance, context, and user susceptibility.
+- [Cannabis-Psychosis Causality Boundary](concepts/CannabisPsychosisCausalityBoundary.md) — Distinction between acute reactions and population association versus simple one-way schizophrenia causation.
+- [Cannabis Strain-Label Evidence Boundary](concepts/CannabisStrainLabelEvidenceBoundary.md) — Boundary separating indica/sativa labels and expectancy from measured chemistry and blinded effects.
+- [CBD Evidence-and-Dose Boundary](concepts/CBDEvidenceDoseBoundary.md) — Distinction between clinically supported, adequately dosed CBD uses and low-dose retail extrapolation.
+- [Cannabis Medical-Use Evidence Boundary](concepts/CannabisMedicalUseEvidenceBoundary.md) — Indication-specific framework joining cannabinoid, formulation, dose, population, outcomes, and harms.
 
 ## Syntheses

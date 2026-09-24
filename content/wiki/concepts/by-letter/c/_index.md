@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8039
+wiki_total_pages: 8045
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -128,6 +128,18 @@ wiki_pages:
   - key: "CandidateIdentityFraud"
     title: "Candidate Identity Fraud"
     url: "/wiki/concepts/candidateidentityfraud/"
+  - key: "CannabisDoseRouteVulnerability"
+    title: "Cannabis Dose-Route-Vulnerability Framework"
+    url: "/wiki/concepts/cannabisdoseroutevulnerability/"
+  - key: "CannabisMedicalUseEvidenceBoundary"
+    title: "Cannabis Medical-Use Evidence Boundary"
+    url: "/wiki/concepts/cannabismedicaluseevidenceboundary/"
+  - key: "CannabisStrainLabelEvidenceBoundary"
+    title: "Cannabis Strain-Label Evidence Boundary"
+    url: "/wiki/concepts/cannabisstrainlabelevidenceboundary/"
+  - key: "CannabisPsychosisCausalityBoundary"
+    title: "Cannabis-Psychosis Causality Boundary"
+    url: "/wiki/concepts/cannabispsychosiscausalityboundary/"
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
@@ -347,6 +359,9 @@ wiki_pages:
   - key: "CavalryShockCommandStrike"
     title: "Cavalry Shock Command Strike / 骑兵奇袭指挥中枢"
     url: "/wiki/concepts/cavalryshockcommandstrike/"
+  - key: "CBDEvidenceDoseBoundary"
+    title: "CBD Evidence-and-Dose Boundary"
+    url: "/wiki/concepts/cbdevidencedoseboundary/"
   - key: "CelebratorySummonsEntrapment"
     title: "Celebratory Summons Entrapment / 报捷祝贺式诱捕"
     url: "/wiki/concepts/celebratorysummonsentrapment/"

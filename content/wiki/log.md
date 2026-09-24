@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-24] ingest | How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill
+
+Added source `how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101`; created `MatthewHill`, `EndocannabinoidHomeostaticSignaling`, `CannabisDoseRouteVulnerability`, `CannabisPsychosisCausalityBoundary`, `CannabisStrainLabelEvidenceBoundary`, `CBDEvidenceDoseBoundary`, and `CannabisMedicalUseEvidenceBoundary`; and updated the index. Core synthesis: cannabis effects depend on receptor mechanism, dose, route, product, tolerance, and user vulnerability; population associations do not by themselves prove simple causation; commercial strain and low-dose CBD claims often outrun blinded or clinical evidence; and medical uses must be assessed indication by indication alongside pulmonary, cardiovascular, psychiatric, reproductive, impairment, and use-disorder risks. No settled contradiction found; the episode explicitly corrects earlier psychosis-causation and indica/sativa framing, while cognitive, genetic-directionality, potency, cardiovascular, fertility, pregnancy, terpene, and treatment claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-24] ingest | 470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)
 
 Added source `470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569`; created `AlexanderHoyos`, `TheobaldVonBethmannHollweg`, `LeopoldBerchtold`, `IstvanTisza`, and `BlankChequeAllianceEscalation`; updated `JulyCrisis`, `AustriaHungary`, `KaiserWilhelmII`, `FranzJosephI`, `HelmuthVonMoltkeTheYounger`, `MobilisationDiplomacyEscalationTrap`, and the index. Core synthesis: Germany's blank cheque was intended to deter Russia and localize a punitive Austro-Hungarian war, but its open-ended form widened Vienna's tolerance for risk; Tisza's resistance and mobilization constraints delayed action without producing agreed war aims or a Russian contingency. No settled contradiction found. The source's case against a pre-scripted German world-war plan does not absolve Berlin of enabling escalation, and sincere Austro-Hungarian fear does not make the punishment strategy defensive in effect. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22136,6 +22140,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] ingest | VOL.123医生，我这脖子疼和腰疼还有救吗？😭
 
 Added source `vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2`; created `CaoBuGuiPodcastGuest`, `CervicalCurvePostureManagement`, and `SpineComfortAdjunctBoundary`; updated `MaHaoning`, `GaoJiachengPodcastGuest`, `SymptomDrivenSpineCare`, `SpineRehabilitationProgression`, `SedentaryBehaviorInterruption`, and `ExerciseAssistiveGearBoundary`; and updated the index. Core synthesis: common neck and lower-back complaints should be interpreted through symptoms, neurological function, daily impairment, posture exposure, and gradual capacity building, while pillows, heat, massage, collars, and lumbar supports remain bounded aids rather than structural cures. No settled contradiction found; cervical-curvature reversibility, disc resorption, manual-treatment effects, pillow sizing, vehicle neck-cushion risk, and exercise choices remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-24] lint | Wiki health check
 

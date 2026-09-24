@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1184
+topic_total_pages: 1187
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -592,6 +592,9 @@ topic_concepts:
   - key: "EmpathyAgainstComparison"
     title: "Empathy Against Comparison / 对抗比较的同理心"
     url: "/wiki/concepts/empathyagainstcomparison/"
+  - key: "EndocannabinoidHomeostaticSignaling"
+    title: "Endocannabinoid Homeostatic Signaling"
+    url: "/wiki/concepts/endocannabinoidhomeostaticsignaling/"
   - key: "EnergyAbundanceClimateStrategy"
     title: "Energy Abundance Climate Strategy"
     url: "/wiki/concepts/energyabundanceclimatestrategy/"
@@ -2537,6 +2540,9 @@ topic_entities:
   - key: "MasudHusain"
     title: "Masud Husain"
     url: "/wiki/entities/masudhusain/"
+  - key: "MatthewHill"
+    title: "Matthew Hill"
+    url: "/wiki/entities/matthewhill/"
   - key: "MaxBennett"
     title: "Max Bennett"
     url: "/wiki/entities/maxbennett/"
@@ -3357,6 +3363,9 @@ topic_sources:
   - key: "healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393"
     title: "Healing From Grief & Loss | Dr. Mary-Frances O'Connor"
     url: "/wiki/sources/healing-from-grief-loss-dr-mary-frances-oconnor-scim5061041393/"
+  - key: "how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101"
+    title: "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill"
+    url: "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
   - key: "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128"
     title: "How convergence will define the tech sector in 2026"
     url: "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"

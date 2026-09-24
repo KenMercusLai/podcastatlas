@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8039
+wiki_total_pages: 8045
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -494,6 +494,9 @@ wiki_pages:
   - key: "EndOfLifeAutonomyAndDignity"
     title: "End-of-Life Autonomy And Dignity"
     url: "/wiki/concepts/endoflifeautonomyanddignity/"
+  - key: "EndocannabinoidHomeostaticSignaling"
+    title: "Endocannabinoid Homeostatic Signaling"
+    url: "/wiki/concepts/endocannabinoidhomeostaticsignaling/"
   - key: "EndocrineDisruptorExposureReduction"
     title: "Endocrine-Disruptor Exposure Reduction"
     url: "/wiki/concepts/endocrinedisruptorexposurereduction/"
