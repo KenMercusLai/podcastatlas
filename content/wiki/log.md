@@ -22080,3 +22080,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Vol.276 做月嫂育儿嫂的姐姐，都有故事
+
+Added source `vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906`; created `YiTingDomesticServiceConsultant`, `DomesticCareLaborMatching`, `LiveInDomesticWorkBoundary`, `AtomizedFamilyCareMarketization`, `DomesticServiceProfessionalization`, and `HumanCareAutomationBoundary`; and updated the index and overview. Core synthesis: household care is a bilateral, continuing labor relationship in which skills, fit, boundaries, pay, trust, and post-placement mediation matter, while atomized family support and women's career pressure drive demand and bounded chores appear more automatable than relational care. No settled contradiction found; market prices, referral shares, demographics, turnover, demand, and automation forecasts remain source-scoped to one consultant's Shanghai and relatively high-end practice.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

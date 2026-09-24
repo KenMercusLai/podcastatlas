@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-23
-as_of_overview_commit: 7aa6a4b7e9bee499e8bd939e1c7180996238b675
-summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and education become lived systems."
-episode_count: 2725
-source_count: 2725
-paragraph_count: 697
+as_of_overview_commit: 7136355069b303bc27683c85fe87883e8014b83a
+summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care become lived systems."
+episode_count: 2760
+source_count: 2760
+paragraph_count: 698
 topic_count: 9
 ---
 
@@ -19,11 +19,11 @@ topic_count: 9
 - [[shangye-xiaoyang-50-dou-zai-taolun-jiawu-jiqiren-buru-guanxin-daodi-you-shenme-jiawu-1017031596|商业小样50]] adds a chore-first robotics case: [[EcovacsRobotics]], [[HomeServiceRobots]], [[RobotFormFactorPragmatism]], and [[TechnologyReuseScenarioAdaptation]] show a shared sensing, mapping, planning, and motion-control core moving across floors, windows, lawns, and pools only when each environment’s adhesion, fall-safety, positioning, animal-avoidance, and underwater-durability constraints are solved.
 - [[canban-anaya-bianshen-remen-jingdian-yidu-xiaoshou-nan-de-dichan-xiangmu-ruhe-baituo-kunjing-1017012362|The Anaya episode]] adds a destination-business pattern: [[Anaya]], [[MaYin]], and [[LongTermPlaceOperation]] show how a defined owner base, integrated services, managed lodging, merchant revenue sharing, landmarks, and recurring cultural events can move a weak property project toward recurring income, while crowding, partner authority, and regional demand constrain replication.
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse.
-- [[AngloSaxonStateFormation]] shows state capacity working in opposite directions: [[AlfredTheGreat]], [[Athelstan]], and [[EdgarThePeaceful]] connect defense, towns, church, coinage, identity, and enforced peace to English prosperity, while [[AethelredTheUnready]] uses the same fiscal and administrative reach for [[DanegeldEscalation|tribute]] and the coordinated [[StBricesDayMassacre|St Brice’s Day massacre]].
+- [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]].
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
 - [[vol-159-cong-yi-mei-zhi-ming-dao-xianshi-zhengxing-yisheng-jiedu-juzhong-mei-xishuo-de-yimei-neimu-lksohygmb6epma5qgaf76pddx2fk|VOL.159]] adds a medical-aesthetic safety branch through [[LuluPlasticSurgeon]] and [[YiMeiZhiMingDrama]]: [[BotulinumToxinInjectionSafety]], [[UnapprovedMedicalAestheticProducts]], [[MedicalAestheticProviderVerification]], and [[CosmeticProcedureExpectationManagement]] make intended appearance effects conditional on verified products, qualified clinicians, suitable institutions, complete prior-treatment histories, functional costs, and proportionate goals, while generalized weakness, swallowing or breathing involvement, uncertain injectables, and high-risk requests move the decision toward qualified escalation, staging, or refusal.
-- Workplace AI adoption depends on trust, participation, and observed behavior: EP43 argues that [[InstitutionalTrustAIAdoption]], [[CognitiveDiversityAIAdoption]], [[AIAdoptionBehavioralSignals]], [[AIOverwriteRate]], and [[QuietAIAdoptionDeparture]] reveal whether tools are changing work beyond deployment activity.
+- [[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906|Vol.276]] adds a work-and-society claim through [[DomesticCareLaborMatching]], [[AtomizedFamilyCareMarketization]], and [[DomesticServiceProfessionalization]]: migration, weak community support, intergenerational tension, and women's career risk push households toward paid care, but durable service requires bilateral choice, trained judgment, clear scope, dignified work, and post-placement accountability rather than resume brokerage alone.
 
 ## Synthesis by Domain
 
@@ -82,7 +82,7 @@ Science and health literacy require mechanism, measurement, context, escalation 
 
 ### Work, Education, and Society
 
-Learning, work, and digital well-being improve through active practice, trustworthy institutions, usable systems, transfer evidence, human judgment, care capacity, and durable social boundaries.
+Learning, work, and care improve through active practice, trustworthy institutions, bilateral role clarity, usable systems, human judgment, dignity, and durable social support.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

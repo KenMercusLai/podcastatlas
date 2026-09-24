@@ -3,9 +3,9 @@
 generated: true
 topic_id: ai-and-technology
 title: "AI and Technology"
-last_updated: 2026-09-21
-as_of_overview_commit: fa80a1a3aad378a73277490ec9d6bb838ec0d37a
-input_digest: 1df16c040386b76b5120e10d35aaf826b3f0487107ab872846ebf400bc009424
+last_updated: 2026-09-23
+as_of_overview_commit: 7136355069b303bc27683c85fe87883e8014b83a
+input_digest: f039efee31ddffa613e8eff3485b2b30920922deafc295dd09494ad850af88e9
 ---
 
 # AI and Technology
@@ -723,3 +723,14 @@ Two robot-learning interviews now connect the embodied stack to adaptation and m
 
 - The 80/20 split is a source-attributed product heuristic rather than a measured engineering allocation.
 - The sponsored single-company case does not establish category profitability, competitor performance, or the superiority of specialized robots over general or humanoid routes.
+
+### Domestic Care Automation Is Task Specific
+
+[[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906|Vol.276]] adds a task-specific automation claim through [[HumanCareAutomationBoundary]]: household devices already reshape domestic workers' toolsets, but infant care and companionship still depend on touch, emotion, observation, and accountable escalation, so near-term change is better framed as bounded chore substitution and human-machine collaboration than full care-worker replacement.
+
+**Evidence:** [[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906]], [[HumanCareAutomationBoundary]], [[DomesticServiceProfessionalization]]
+
+**Qualifications:**
+
+- This is one Shanghai domestic-service consultant's forecast rather than a technical benchmark, adoption study, or labor-demand model.
+- The source does not establish permanent human immunity from automation, and difficulty automating care does not guarantee fair pay or good working conditions.

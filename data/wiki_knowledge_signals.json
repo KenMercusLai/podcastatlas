@@ -10632,6 +10632,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/atomiccontentguardrails/"
     },
+    "AtomizedFamilyCareMarketization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
+          "key": "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906",
+          "show": "商业就是这样",
+          "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+          "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/atomizedfamilycaremarketization/"
+    },
     "AttachmentAffectRegulation": {
       "episode_count": 2,
       "show_count": 1,
@@ -34661,6 +34677,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/domesticbagsupplychainupgrade/"
+    },
+    "DomesticCareLaborMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
+          "key": "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906",
+          "show": "商业就是这样",
+          "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+          "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/domesticcarelabormatching/"
+    },
+    "DomesticServiceProfessionalization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
+          "key": "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906",
+          "show": "商业就是这样",
+          "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+          "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/domesticserviceprofessionalization/"
     },
     "DominicMiarten": {
       "episode_count": 1,
@@ -63812,6 +63860,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/humanauthorizedautonomousweapons/"
     },
+    "HumanCareAutomationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
+          "key": "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906",
+          "show": "商业就是这样",
+          "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+          "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/humancareautomationboundary/"
+    },
     "HumanCenteredAIAugmentation": {
       "episode_count": 1,
       "show_count": 1,
@@ -81885,6 +81949,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/livehumanfeeling/"
+    },
+    "LiveInDomesticWorkBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
+          "key": "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906",
+          "show": "商业就是这样",
+          "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+          "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/liveindomesticworkboundary/"
     },
     "LivelihoodFirstPacification": {
       "episode_count": 1,
@@ -146949,6 +147029,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/yishu/"
+    },
+    "YiTingDomesticServiceConsultant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol.276 做月嫂育儿嫂的姐姐，都有故事 [1017890906].md",
+          "key": "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906",
+          "show": "商业就是这样",
+          "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+          "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/yitingdomesticserviceconsultant/"
     },
     "YiWangDeShiJieDementiaCareBook": {
       "episode_count": 1,

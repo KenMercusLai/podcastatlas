@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8023
+wiki_total_pages: 8028
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2246,6 +2246,9 @@ wiki_pages:
   - key: "AtomicContentGuardrails"
     title: "Atomic Content Guardrails"
     url: "/wiki/concepts/atomiccontentguardrails/"
+  - key: "AtomizedFamilyCareMarketization"
+    title: "Atomized-Family Care Marketization / 家庭原子化与照护市场化"
+    url: "/wiki/concepts/atomizedfamilycaremarketization/"
   - key: "AtrocityBackfireMobilization"
     title: "Atrocity Backfire Mobilization / 暴行反噬式动员"
     url: "/wiki/concepts/atrocitybackfiremobilization/"

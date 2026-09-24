@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8023
+wiki_total_pages: 8028
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -881,6 +881,12 @@ wiki_pages:
   - key: "DomesticViolencePetCoercion"
     title: "Domestic Violence Pet Coercion"
     url: "/wiki/concepts/domesticviolencepetcoercion/"
+  - key: "DomesticCareLaborMatching"
+    title: "Domestic-Care Labor Matching / 家政照护劳动匹配"
+    url: "/wiki/concepts/domesticcarelabormatching/"
+  - key: "DomesticServiceProfessionalization"
+    title: "Domestic-Service Professionalization / 家政服务职业化"
+    url: "/wiki/concepts/domesticserviceprofessionalization/"
   - key: "DominantProducerPriceDiscipline"
     title: "Dominant Producer Price Discipline"
     url: "/wiki/concepts/dominantproducerpricediscipline/"

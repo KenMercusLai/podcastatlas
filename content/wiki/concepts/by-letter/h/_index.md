@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8023
+wiki_total_pages: 8028
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -761,6 +761,9 @@ wiki_pages:
   - key: "HumanAuthorizedAutonomousWeapons"
     title: "Human-Authorized Autonomous Weapons"
     url: "/wiki/concepts/humanauthorizedautonomousweapons/"
+  - key: "HumanCareAutomationBoundary"
+    title: "Human-Care Automation Boundary / 人文照护自动化边界"
+    url: "/wiki/concepts/humancareautomationboundary/"
   - key: "HumanCenteredAIAugmentation"
     title: "Human-Centered AI Augmentation"
     url: "/wiki/concepts/humancenteredaiaugmentation/"

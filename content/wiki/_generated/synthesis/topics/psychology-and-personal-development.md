@@ -4,8 +4,8 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-23
-as_of_overview_commit: 7aa6a4b7e9bee499e8bd939e1c7180996238b675
-input_digest: 0fffdc53fb88ec664bf5e17fab55be24082888519dd248ccd0b0731471963a8b
+as_of_overview_commit: 7136355069b303bc27683c85fe87883e8014b83a
+input_digest: 53692b5cb7d9b08ffa2f1ddeff7efcc787689c54126909f7e2101e55f3ff4146
 ---
 
 # Psychology and Personal Development
@@ -1093,3 +1093,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - This is historical political judgment, not clinical or general personal-development evidence.
 - The source does not establish Æthelred’s inner psychology, and its apocalyptic interpretation remains source-scoped.
 - Later strategic failure does not prove that every tribute payment was irrational when made.
+
+### Live In Care Fit Needs Boundaries And Mediation
+
+[[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906|Vol.276]] adds a source-scoped relationship case through [[LiveInDomesticWorkBoundary]] and [[DomesticCareLaborMatching]]: live-in care combines paid work, household privacy, companionship, and child attachment, while durable fit depends on explicit scope, mutual choice, communication, and mediation rather than treating a worker as either inventory or fictive family.
+
+**Evidence:** [[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906]], [[LiveInDomesticWorkBoundary]], [[DomesticCareLaborMatching]], [[YiTingDomesticServiceConsultant]]
+
+**Qualifications:**
+
+- The source is a qualitative practitioner account and does not provide representative relationship outcomes or employment-law analysis.
+- Live-in maternity, childcare, companionship, and day-work arrangements can require different intimacy, privacy, and separation boundaries.

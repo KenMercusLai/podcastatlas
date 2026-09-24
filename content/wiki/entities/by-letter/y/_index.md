@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10673
+wiki_total_pages: 10674
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "YETITundra"
     title: "YETI Tundra"
     url: "/wiki/entities/yetitundra/"
+  - key: "YiTingDomesticServiceConsultant"
+    title: "Yi Ting / 怡婷（家政顾问）"
+    url: "/wiki/entities/yitingdomesticserviceconsultant/"
   - key: "Yibin"
     title: "Yibin / 宜宾"
     url: "/wiki/entities/yibin/"

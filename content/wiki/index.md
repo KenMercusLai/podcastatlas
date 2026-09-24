@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol.276 做月嫂育儿嫂的姐姐，都有故事](sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906.md) — 商业就是这样 conversation with domestic-service consultant 怡婷 on care-worker matching, live-in boundaries, atomized-family demand, professional dignity, and the limits of automating human care.
 - [月饼市场持续降温，豆包缩减对话业务团队](sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242.md) — 声动早咖啡 roundup on Alibaba's model-chip-device push, Doubao's consumer-revenue gap, personal-agent platform conflict, retail procurement, resort expansion, and weaker mooncake gifting.
 - [470. The Road to The Great War: The Kaiser's Blank Cheque (Part 2)](sources/470-the-road-to-the-great-war-the-kaisers-blank-cheque-part-2-glt1054108569.md) — The Rest Is History episode on Germany's blank cheque, Austria-Hungary's internal delay, preventive-war logic, and the missing Russian contingency.
 - [471. The Road to The Great War: The Austrian Ultimatum (Part 3)](sources/471-the-road-to-the-great-war-the-austrian-ultimatum-part-3-glt1171003479.md) — The Rest Is History episode on Franco-Russian firmness, Russia's Balkan and Straits anxieties, Austria-Hungary's ultimatum, and the first partial-mobilisation measures.
@@ -2779,6 +2780,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete](sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit.md) — All-In interview on acquired product-market fit, shared software operations, selective hiring, acquisition underwriting, leverage, and permanent-ownership integration.
 
 ## Entities
+- [Yi Ting / 怡婷（家政顾问）](entities/YiTingDomesticServiceConsultant.md) — Shanghai domestic-service consultant who combines sociology, recruitment, household requirement discovery, and post-placement mediation.
 - [Eddie Wu / 吴泳铭](entities/EddieWu.md) — Alibaba CEO associated with the source-reported Qwen scaling plan and long-term model-chip-cloud investment.
 - [Qwen Tablet / 千问平板](entities/QwenTablet.md) — Source-reported Alibaba tablet experiment positioning Qwen as a system-level agent rather than a standalone app.
 - [Google Book](entities/GoogleBook.md) — Source-reported $899 Gemini-centered laptop combining Android, Chrome OS, partner hardware, and cross-device continuity.
@@ -13463,6 +13465,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
 
 ## Concepts
+- [Domestic-Care Labor Matching / 家政照护劳动匹配](concepts/DomesticCareLaborMatching.md) — Continuing bilateral discovery, selection, negotiation, and after-sales support across households and care workers.
+- [Live-In Domestic Work Boundary / 住家家政关系边界](concepts/LiveInDomesticWorkBoundary.md) — Negotiated line between paid employment and quasi-family intimacy inside a household.
+- [Atomized-Family Care Marketization / 家庭原子化与照护市场化](concepts/AtomizedFamilyCareMarketization.md) — Shift toward purchased care when migration, weak support networks, and childcare gaps isolate household responsibility.
+- [Domestic-Service Professionalization / 家政服务职业化](concepts/DomesticServiceProfessionalization.md) — Skill, dignity, accountability, and career systems that turn household service into sustainable professional work.
+- [Human-Care Automation Boundary / 人文照护自动化边界](concepts/HumanCareAutomationBoundary.md) — Distinction between automatable household chores and relational care requiring touch, emotion, context, and judgment.
 - [Consumer AI Revenue Gap](concepts/ConsumerAIRevenueGap.md) — Mismatch between consumer-assistant usage scale and direct revenue after serving and product costs.
 - [Platform-Agent Access Conflict](concepts/PlatformAgentAccessConflict.md) — Conflict between user-authorized outside agents and platforms protecting safety, traffic, transactions, and their own agents.
 - [Seasonal Gift Demand Reset](concepts/SeasonalGiftDemandReset.md) — Sustained ritual-category pressure when institutional gifting weakens and traditional products no longer fit consumer preferences.

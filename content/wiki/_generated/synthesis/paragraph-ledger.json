@@ -697,12 +697,13 @@
       "2159d13938255a1ed603ad59c8fcc496abdf2fbd5110e46299c3c8174e7b9276",
       "fed43a5c9f5cbf4e364d06367f5d945c9f702b3f02aadc590372ae829eb120f6",
       "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
-      "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73"
+      "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73",
+      "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96"
     ],
-    "paragraph_count": 697
+    "paragraph_count": 698
   },
-  "overview_commit": "694f53a944c1720614df1ef723fb35ec2847d8cb",
-  "overview_digest": "7a806bf5bbb58ab623e87f83afc248c8dfcfee10d80d6d889900ce12be6335da",
+  "overview_commit": "7136355069b303bc27683c85fe87883e8014b83a",
+  "overview_digest": "4d4085dff9ddf2767fe054b9e71c55c8c71f5f0f3d5063efa538c70c8313406e",
   "paragraphs": [
     {
       "id": "5339b4a98df7bd41706f0d2e0b00827283a576eccb19532815044f668176ef47",
@@ -20841,6 +20842,30 @@
         "ScreenTimeFriction",
         "WorkRestBoundary",
         "tech-20260922-0922-mp-tech-pod-128-tech-20260922-0922-mp-tech-pod-128"
+      ]
+    },
+    {
+      "id": "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "ai-and-technology",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906|Vol.276 做月嫂育儿嫂的姐姐，都有故事]], a [[ShangyeJiushiZheyang|商业就是这样]] conversation with [[YiTingDomesticServiceConsultant|怡婷]] on maternity nannies, childcare workers, child companions, and the consultants who match them with urban households. It adds [[DomesticCareLaborMatching]], [[LiveInDomesticWorkBoundary]], [[AtomizedFamilyCareMarketization]], [[DomesticServiceProfessionalization]], and [[HumanCareAutomationBoundary]]. Its core synthesis is that domestic care is a bilateral, continuing labor relationship rather than a purchased resume: skills can be trained, but household needs, personality, boundaries, workload, pay, trust, and post-placement adaptation require discovery and mediation; demand grows as migration, weak community support, intergenerational tension, and women's career risk isolate care inside households; and technology is more likely to automate bounded chores and reshape worker tools before it replaces infant care, companionship, touch, and accountable human judgment. No settled contradiction is recorded; Shanghai prices, referral shares, worker demographics, consultant turnover, demand forecasts, and automation claims remain source-scoped practitioner observations.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "psychology-and-personal-development": 3,
+        "work-education-and-society": 4
+      },
+      "wikilinks": [
+        "AtomizedFamilyCareMarketization",
+        "DomesticCareLaborMatching",
+        "DomesticServiceProfessionalization",
+        "HumanCareAutomationBoundary",
+        "LiveInDomesticWorkBoundary",
+        "ShangyeJiushiZheyang",
+        "YiTingDomesticServiceConsultant",
+        "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906"
       ]
     }
   ],

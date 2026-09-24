@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-23
-as_of_overview_commit: dc7b7635a354cb899da7349935a2c7eb706e084a
-input_digest: f4c52d89e585a03974eded05265e7376fe92e85ce1b8c7c74c1d89972c848920
+as_of_overview_commit: 7136355069b303bc27683c85fe87883e8014b83a
+input_digest: 500f8c91716eaebc5d80118ca681f1bda7e74e635ce8fc3f523eacf5dc46abf8
 ---
 
 # Work, Education, and Society
@@ -1014,3 +1014,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - The evidence is one short personal experiment and one luxury-retreat case, not a controlled or long-term evaluation of digital-detox methods.
 - The approximately $9,000 retreat price, younger-client trend, comparative workplace norms, and Meta settlement reference remain source-scoped.
 - Rapid rebound qualifies durability but does not show that repeated or better-supported interventions cannot work.
+
+### Domestic Care Is Bilateral Skilled Market Infrastructure
+
+[[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906|Vol.276]] adds a work-and-society claim through [[DomesticCareLaborMatching]], [[AtomizedFamilyCareMarketization]], and [[DomesticServiceProfessionalization]]: migration, weak community support, intergenerational tension, and women's career risk push households toward paid care, but durable service requires bilateral choice, trained judgment, clear scope, dignified work, and post-placement accountability rather than resume brokerage alone.
+
+**Evidence:** [[vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906]], [[DomesticCareLaborMatching]], [[AtomizedFamilyCareMarketization]], [[DomesticServiceProfessionalization]], [[LiveInDomesticWorkBoundary]], [[YiTingDomesticServiceConsultant]]
+
+**Qualifications:**
+
+- The episode reflects one consultant's Shanghai and relatively high-end practice rather than a national labor-market survey.
+- Prices, worker demographics, referral shares, consultant turnover, and demand forecasts remain source-scoped.
+- Paid household care can preserve mothers' career continuity while redistributing care burdens toward migrant women; it does not by itself create equitable childcare infrastructure.

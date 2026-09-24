@@ -7127,6 +7127,10 @@
     "title": "Atomic Content Guardrails",
     "url": "/wiki/concepts/atomiccontentguardrails/"
   },
+  "AtomizedFamilyCareMarketization": {
+    "title": "Atomized-Family Care Marketization / 家庭原子化与照护市场化",
+    "url": "/wiki/concepts/atomizedfamilycaremarketization/"
+  },
   "Atoom": {
     "title": "Atoom",
     "url": "/wiki/entities/atoom/"
@@ -19315,6 +19319,10 @@
     "title": "Domestic Book Printing Flexibility",
     "url": "/wiki/concepts/domesticbookprintingflexibility/"
   },
+  "DomesticCareLaborMatching": {
+    "title": "Domestic-Care Labor Matching / 家政照护劳动匹配",
+    "url": "/wiki/concepts/domesticcarelabormatching/"
+  },
   "DomesticLaborDoubleBurden": {
     "title": "Domestic Labor Double Burden",
     "url": "/wiki/concepts/domesticlabordoubleburden/"
@@ -19326,6 +19334,10 @@
   "DomesticServiceCensorship": {
     "title": "Domestic Service Censorship",
     "url": "/wiki/concepts/domesticservicecensorship/"
+  },
+  "DomesticServiceProfessionalization": {
+    "title": "Domestic-Service Professionalization / 家政服务职业化",
+    "url": "/wiki/concepts/domesticserviceprofessionalization/"
   },
   "DomesticViolencePetCoercion": {
     "title": "Domestic Violence Pet Coercion",
@@ -31795,6 +31807,10 @@
     "title": "Human Capital Inflation Hedge",
     "url": "/wiki/concepts/humancapitalinflationhedge/"
   },
+  "HumanCareAutomationBoundary": {
+    "title": "Human-Care Automation Boundary / 人文照护自动化边界",
+    "url": "/wiki/concepts/humancareautomationboundary/"
+  },
   "HumanCenteredAIAugmentation": {
     "title": "Human-Centered AI Augmentation",
     "url": "/wiki/concepts/humancenteredaiaugmentation/"
@@ -40310,6 +40326,10 @@
   "LiveHumanFeeling": {
     "title": "活人感 / Live Human Feeling",
     "url": "/wiki/concepts/livehumanfeeling/"
+  },
+  "LiveInDomesticWorkBoundary": {
+    "title": "Live-In Domestic Work Boundary / 住家家政关系边界",
+    "url": "/wiki/concepts/liveindomesticworkboundary/"
   },
   "LiveInRelationshipRegistration": {
     "title": "Live-In Relationship Registration",
@@ -73315,6 +73335,10 @@
     "title": "Yi Shui Farewell / 易水送别",
     "url": "/wiki/concepts/yishuifarewell/"
   },
+  "YiTingDomesticServiceConsultant": {
+    "title": "Yi Ting / 怡婷（家政顾问）",
+    "url": "/wiki/entities/yitingdomesticserviceconsultant/"
+  },
   "YiWanFuWengHuiGui": {
     "title": "亿万富翁回归",
     "url": "/wiki/entities/yiwanfuwenghuigui/"
@@ -81090,6 +81114,10 @@
   "vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861": {
     "title": "Vol.275 澳洲保健品是怎么火起来的？",
     "url": "/wiki/sources/vol-275-aozhou-baojianpin-shi-zenme-huoqilai-de-1015773861/"
+  },
+  "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906": {
+    "title": "Vol.276 做月嫂育儿嫂的姐姐，都有故事",
+    "url": "/wiki/sources/vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906/"
   },
   "vol-30-miniao-waike-nvxing-miniao-xitong-de-changjian-wenti-yaoyan-ji-wuqu-lmeg-qk-dio77mj7retw0qoyoop-o": {
     "title": "VOL.30泌尿外科｜女性泌尿系统的常见问题、谣言及误区",

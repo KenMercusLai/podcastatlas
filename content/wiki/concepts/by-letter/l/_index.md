@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8023
+wiki_total_pages: 8028
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -470,6 +470,9 @@ wiki_pages:
   - key: "LiveActionShortDrama"
     title: "Live-Action Short Drama"
     url: "/wiki/concepts/liveactionshortdrama/"
+  - key: "LiveInDomesticWorkBoundary"
+    title: "Live-In Domestic Work Boundary / 住家家政关系边界"
+    url: "/wiki/concepts/liveindomesticworkboundary/"
   - key: "LiveInRelationshipRegistration"
     title: "Live-In Relationship Registration"
     url: "/wiki/concepts/liveinrelationshipregistration/"

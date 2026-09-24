@@ -36097,6 +36097,13 @@
       "url": "/topics/science/"
     }
   ],
+  "HumanCareAutomationBoundary": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HumanCenteredAIAugmentation": [
     {
       "key": "technology",
@@ -88786,6 +88793,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "vol-349-yexu-ni-gai-zhao-ge-ren-liaoliao-shuochu-tongku-huode-yongqi-gkwrimaoywpmaycmmatldgrv": [
