@@ -22164,3 +22164,11 @@ Added source `467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087`
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解
+
+Added source `vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8`; created `PublicAEDAccessReadiness` and `EmergencyRescueLegalProtection`; rewrote `CPRAEDResponseBoundary` and `FirstAidTriageAndEscalation` from their complete bounded source sets; and updated the index. Core synthesis: effective cardiac-arrest response combines scene judgment, explicit role assignment, sustained compressions, device-guided defibrillation, and advance knowledge of an actually accessible AED, while China-facing Civil Code protection can reduce civil-liability fear without replacing training or dispatcher guidance. No settled contradiction found; retrieval timing, pediatric and ventilation sequences, epidemiological figures, placement recommendations, and legal interpretation remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

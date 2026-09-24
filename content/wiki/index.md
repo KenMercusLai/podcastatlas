@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解](sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8.md) — 这病说来话长 episode on collapse triage, high-quality CPR, device-guided defibrillation, practical AED access, and China-facing voluntary-rescue protection.
 - [467. The Murder of Franz Ferdinand: The Victim (Part 3)](sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087.md) — The Rest Is History episode on Franz Ferdinand's travel, marriage, temperament, federal reform ideas, and opposition to preventive war with Serbia.
 - [VOL.123医生，我这脖子疼和腰疼还有救吗？😭](sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2.md) — 这病说来话长 episode on symptom-driven neck and back care, cervical curvature, gradual rehabilitation, posture variability, and the limits of comfort aids and supports.
 - [468. The Murder of Franz Ferdinand: The Crime (Part 4)](sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154.md) — The Rest Is History reconstruction of the Sarajevo assassination as a contingent chain of warnings, failed attack, continued ceremony, route confusion, two fatal shots, and dynastic indignity.
@@ -13487,6 +13488,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Today Personal AI](entities/TodayPersonalAI.md) — Named personal agent seeking to combine continually revised memory, low-interruption initiative, and progressively authorized task execution.
 
 ## Concepts
+- [Public AED Access Readiness / 公共AED可及性准备](concepts/PublicAEDAccessReadiness.md) — Public-safety framework for device visibility, access, mapping, retrieval time, advance familiarity, and bystander role assignment.
+- [Emergency Rescue Legal Protection / 紧急救助法律保护](concepts/EmergencyRescueLegalProtection.md) — China-facing legal-confidence concept around Civil Code Article 184 and voluntary emergency assistance.
 - [Habsburg Federal Reform](concepts/HabsburgFederalReform.md) — Trialist, federal-state, and suffrage proposals intended to preserve Austria-Hungary by redistributing power beyond the dual monarchy.
 - [Morganatic Marriage](concepts/MorganaticMarriage.md) — Dynastic marriage that recognizes the union while denying equal rank and succession rights to the lower-ranked spouse and children.
 - [Cervical Curve and Posture Management / 颈椎曲度与姿势管理](concepts/CervicalCurvePostureManagement.md) — Qualified framework connecting cervical alignment, muscular balance, sustained posture, movement variability, symptoms, and escalation.

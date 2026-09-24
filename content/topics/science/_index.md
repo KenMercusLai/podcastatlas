@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1187
+topic_total_pages: 1188
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1486,6 +1486,9 @@ topic_concepts:
   - key: "PsychometricSocialSorting"
     title: "Psychometric Social Sorting / 心理测量式社会分层"
     url: "/wiki/concepts/psychometricsocialsorting/"
+  - key: "PublicAEDAccessReadiness"
+    title: "Public AED Access Readiness / 公共AED可及性准备"
+    url: "/wiki/concepts/publicaedaccessreadiness/"
   - key: "PublicExerciseEmergencyPreparedness"
     title: "Public Exercise Emergency Preparedness / 公共运动急救准备"
     url: "/wiki/concepts/publicexerciseemergencypreparedness/"

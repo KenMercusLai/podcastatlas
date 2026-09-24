@@ -25144,6 +25144,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EmergencyRescueLegalProtection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EmergencyWarningInfrastructure": [
     {
       "key": "technology",
@@ -57728,6 +57735,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "PublicAEDAccessReadiness": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PublicAgingTimeEvidence": [

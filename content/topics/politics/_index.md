@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2677
+topic_total_pages: 2678
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1123,6 +1123,9 @@ topic_concepts:
   - key: "EmergencyInstitutionsToTerror"
     title: "Emergency Institutions to Terror"
     url: "/wiki/concepts/emergencyinstitutionstoterror/"
+  - key: "EmergencyRescueLegalProtection"
+    title: "Emergency Rescue Legal Protection / 紧急救助法律保护"
+    url: "/wiki/concepts/emergencyrescuelegalprotection/"
   - key: "EmolumentsClause"
     title: "Emoluments Clause"
     url: "/wiki/concepts/emolumentsclause/"

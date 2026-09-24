@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 8049
+wiki_total_pages: 8051
 wiki_pages:
   - key: "EmployeeHealthBenefitsAI"
     title: "AI in Employee Health Benefits"
@@ -368,6 +368,9 @@ wiki_pages:
   - key: "EmergencyInstitutionsToTerror"
     title: "Emergency Institutions to Terror"
     url: "/wiki/concepts/emergencyinstitutionstoterror/"
+  - key: "EmergencyRescueLegalProtection"
+    title: "Emergency Rescue Legal Protection / 紧急救助法律保护"
+    url: "/wiki/concepts/emergencyrescuelegalprotection/"
   - key: "EmergencySuccessionLegitimation"
     title: "Emergency Succession Legitimation / 临终就近立储"
     url: "/wiki/concepts/emergencysuccessionlegitimation/"

@@ -16961,9 +16961,9 @@
       "url": "/wiki/concepts/covidoriginsinvestigationuncertainty/"
     },
     "CPRAEDResponseBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -16978,9 +16978,16 @@
           "show": "这病说来话长",
           "title": "VOL.152哪吒：我命由我不由天！现实中的“改命”神器你知道吗？真能预防猝死吗？",
           "url": "/wiki/sources/vol-152-nazha-wo-ming-you-wo-bu-you-tian-xianshi-zhong-de-gaiming-shenqi-ni-zhidao-ma-zhen-neng-yufang-cusi-ma-lvt24r7x6bppx7e5gqhas1yn-jru/"
+        },
+        {
+          "episode_file": "loLtrw1SViRWsFkT_sKD40mXQ7d8 [loLtrw1SViRWsFkT_sKD40mXQ7d8].md",
+          "key": "vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8",
+          "show": "这病说来话长",
+          "title": "VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解",
+          "url": "/wiki/sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/cpraedresponseboundary/"
     },
     "CSSEdit": {
@@ -39184,6 +39191,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/emergencyinstitutionstoterror/"
     },
+    "EmergencyRescueLegalProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loLtrw1SViRWsFkT_sKD40mXQ7d8 [loLtrw1SViRWsFkT_sKD40mXQ7d8].md",
+          "key": "vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8",
+          "show": "这病说来话长",
+          "title": "VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解",
+          "url": "/wiki/sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/emergencyrescuelegalprotection/"
+    },
     "EmergentCreation": {
       "episode_count": 1,
       "show_count": 1,
@@ -46781,9 +46804,9 @@
       "url": "/wiki/concepts/finetuningexamplesignalamplification/"
     },
     "FirstAidTriageAndEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -46791,9 +46814,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "loLtrw1SViRWsFkT_sKD40mXQ7d8 [loLtrw1SViRWsFkT_sKD40mXQ7d8].md",
+          "key": "vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8",
+          "show": "这病说来话长",
+          "title": "VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解",
+          "url": "/wiki/sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/firstaidtriageandescalation/"
     },
     "FirstAntiWangMangRising": {
@@ -107452,6 +107482,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/psychologyconceptselfpunishment/"
+    },
+    "PublicAEDAccessReadiness": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "loLtrw1SViRWsFkT_sKD40mXQ7d8 [loLtrw1SViRWsFkT_sKD40mXQ7d8].md",
+          "key": "vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8",
+          "show": "这病说来话长",
+          "title": "VOL.122你知道离你最近的AED在哪吗？不能只是痛定思痛，然后不了了之｜含心肺复苏流程+AED使用讲解",
+          "url": "/wiki/sources/vol-122-ni-zhidao-li-ni-zuijin-de-aed-zai-na-ma-buneng-zhishi-tongding-sitong-ranhou-buliaoliaozhi-han-xinfei-fusu-liucheng-aed-shiyong-jiangjie-loltrw1svirwsfkt_skd40mxq7d8/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/publicaedaccessreadiness/"
     },
     "PublicAgingTimeEvidence": {
       "episode_count": 1,

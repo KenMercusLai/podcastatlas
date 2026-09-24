@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8049
+wiki_total_pages: 8051
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1835,6 +1835,9 @@ wiki_pages:
   - key: "PTSDHomecomingNarrative"
     title: "PTSD Homecoming Narrative / 创伤版回家叙事"
     url: "/wiki/concepts/ptsdhomecomingnarrative/"
+  - key: "PublicAEDAccessReadiness"
+    title: "Public AED Access Readiness / 公共AED可及性准备"
+    url: "/wiki/concepts/publicaedaccessreadiness/"
   - key: "PublicAgingTimeEvidence"
     title: "Public Aging Time Evidence / 公众老去作为时间证据"
     url: "/wiki/concepts/publicagingtimeevidence/"

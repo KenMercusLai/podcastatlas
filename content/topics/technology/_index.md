@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3155
+topic_total_pages: 3156
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3439,6 +3439,9 @@ topic_concepts:
   - key: "ProprietaryAIInterconnectFragmentation"
     title: "Proprietary AI Interconnect Fragmentation"
     url: "/wiki/concepts/proprietaryaiinterconnectfragmentation/"
+  - key: "PublicAEDAccessReadiness"
+    title: "Public AED Access Readiness / 公共AED可及性准备"
+    url: "/wiki/concepts/publicaedaccessreadiness/"
   - key: "PublicHealthInvisibility"
     title: "Public Health Invisibility"
     url: "/wiki/concepts/publichealthinvisibility/"
