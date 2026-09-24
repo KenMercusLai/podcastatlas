@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2809
+topic_total_pages: 2810
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -361,6 +361,9 @@ topic_concepts:
   - key: "AthleteSponsorshipStrategy"
     title: "Athlete Sponsorship Strategy"
     url: "/wiki/concepts/athletesponsorshipstrategy/"
+  - key: "AtrocityNarrativeReframing"
+    title: "Atrocity Narrative Reframing"
+    url: "/wiki/concepts/atrocitynarrativereframing/"
   - key: "AttentionFragmentation"
     title: "Attention Fragmentation / 注意力碎片化"
     url: "/wiki/concepts/attentionfragmentation/"

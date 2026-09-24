@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)](sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277.md) — The Rest Is History episode on Sitting Bull's death, the Ghost Dance crisis, Wounded Knee, and the commercialization and reframing of Lakota defeat.
 - [How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver](sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220.md) — Huberman Lab interview on perimenopause symptoms, hormone-therapy timing and route, genitourinary care, resistance training, nutrition, and women's-health research gaps.
 - [VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广](sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr.md) — 这病说来话长 crossover on laughter-triggered jaw, vascular, respiratory, and hiccup risks, balanced by crosstalk and everyday humor as emotional relief.
 - [459. The Suit, Savile Row, and Smartly Dressed Men](sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704.md) — Cultural history of the suit as sober status code and of Savile Row as an adaptive bespoke heritage economy.
@@ -2821,6 +2822,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [457. Helen of Troy: Queen of the Greek Myths (Part 1)](sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674.md) — The Rest Is History episode on Helen's variant myths, dangerous beauty, agency, cult, and competing explanations of the Trojan War.
 
 ## Entities
+- [Sitting Bull](entities/SittingBull.md) — Lakota leader whose death joined reservation coercion, divided authority, and a commercialized symbolic afterlife.
+- [Lakota People](entities/LakotaPeople.md) — Native people presented through the 1890 reservation crisis, internal diversity, survival, and contested representation.
+- [Ghost Dance](entities/GhostDance.md) — Millenarian movement treated as hope amid dispossession, then as an object of panic, suppression, and spectacle.
+- [Wounded Knee Massacre](entities/WoundedKneeMassacre.md) — 1890 mass killing of Big Foot's surrounded Lakota band during a Seventh Cavalry disarmament operation.
 - [Mary Claire Haver](entities/MaryClaireHaver.md) — OBGYN and menopause-health educator emphasizing symptom recognition, individualized hormone-therapy decisions, local genitourinary care, and midlife strength and nutrition.
 - [玲珑塔门市部 / Linglongta Menshibu](entities/LinglongtaMenshibu.md) — Crosstalk-centered comedy podcast using an outsider-facing approach to comic craft and lesser-known folk arts.
 - [何思琪 / He Siqi (天津师大校广播)](entities/HeSiqiTianjinNormalRadio.md) — Campus-radio participant who originated the “笑不活” health-and-humor topic.
@@ -13577,6 +13582,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Paris of Troy](entities/ParisOfTroy.md) — Trojan prince linking Aphrodite's promise, Helen's contested agency, violated hospitality, and wartime escalation.
 
 ## Concepts
+- [Frontier Violence Spectacle](concepts/FrontierViolenceSpectacle.md) — Conversion of conquest, defeated people, sacred practices, and violent sites into entertainment, display, and tourism.
+- [Atrocity Narrative Reframing](concepts/AtrocityNarrativeReframing.md) — Shift from official victory language toward victim-centered interpretation through evidence, dissent, and later memory.
 - [Menopausal Hormone Therapy](concepts/MenopausalHormoneTherapy.md) — Clinician-guided framework organizing menopause hormone treatment by symptom, timing, route, uterine status, risk, and contraindication.
 - [Genitourinary Syndrome of Menopause Care](concepts/GenitourinarySyndromeMenopauseCare.md) — Recognition and targeted care of menopause-related vaginal, sexual, recurrent-UTI, urgency, and incontinence symptoms.
 - [Laughter-Triggered Health Risk / 大笑诱发健康风险](concepts/LaughterTriggeredHealthRisk.md) — Framework separating intense laughter as an immediate trigger from underlying joint, vascular, cardiac, or respiratory vulnerability.

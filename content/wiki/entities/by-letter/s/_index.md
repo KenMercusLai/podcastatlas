@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10742
+wiki_total_pages: 10746
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "SiriInvestment"
     title: "Siri Investment / Siri 投资"
     url: "/wiki/entities/siriinvestment/"
+  - key: "SittingBull"
+    title: "Sitting Bull"
+    url: "/wiki/entities/sittingbull/"
   - key: "SixSensesHotels"
     title: "Six Senses Hotels Resorts Spas"
     url: "/wiki/entities/sixsenseshotels/"

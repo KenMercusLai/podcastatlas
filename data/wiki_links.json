@@ -1103,6 +1103,10 @@
     "title": "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！",
     "url": "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"
   },
+  "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277": {
+    "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+    "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+  },
   "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674": {
     "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
     "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
@@ -7242,6 +7246,10 @@
   "AtrocityBackfireMobilization": {
     "title": "Atrocity Backfire Mobilization / 暴行反噬式动员",
     "url": "/wiki/concepts/atrocitybackfiremobilization/"
+  },
+  "AtrocityNarrativeReframing": {
+    "title": "Atrocity Narrative Reframing",
+    "url": "/wiki/concepts/atrocitynarrativereframing/"
   },
   "AtrocityRetaliationCycle": {
     "title": "Atrocity Retaliation Cycle",
@@ -25951,6 +25959,10 @@
     "title": "边境迁封式牵制 / Frontier Vassal Containment",
     "url": "/wiki/concepts/frontiervassalcontainment/"
   },
+  "FrontierViolenceSpectacle": {
+    "title": "Frontier Violence Spectacle",
+    "url": "/wiki/concepts/frontierviolencespectacle/"
+  },
   "FrontlineAIEnablement": {
     "title": "Frontline AI Enablement",
     "url": "/wiki/concepts/frontlineaienablement/"
@@ -27390,6 +27402,10 @@
   "Ghezo": {
     "title": "Ghezo",
     "url": "/wiki/entities/ghezo/"
+  },
+  "GhostDance": {
+    "title": "Ghost Dance",
+    "url": "/wiki/entities/ghostdance/"
   },
   "GhostInTheShellStandaloneComplex": {
     "title": "《攻壳机动队 STAND ALONE COMPLEX》 / Ghost in the Shell: Stand Alone Complex",
@@ -37978,6 +37994,10 @@
   "LakesideBookCompany": {
     "title": "Lakeside Book Company",
     "url": "/wiki/entities/lakesidebookcompany/"
+  },
+  "LakotaPeople": {
+    "title": "Lakota People",
+    "url": "/wiki/entities/lakotapeople/"
   },
   "LamaVentures": {
     "title": "Lama Ventures",
@@ -60735,6 +60755,10 @@
     "title": "汜水 / Si River (Chu-Han)",
     "url": "/wiki/entities/sishuichuhan/"
   },
+  "SittingBull": {
+    "title": "Sitting Bull",
+    "url": "/wiki/entities/sittingbull/"
+  },
   "SituatedMediaObservation": {
     "title": "Situated Media Observation / 在场的媒体观察",
     "url": "/wiki/concepts/situatedmediaobservation/"
@@ -71642,6 +71666,10 @@
   "WoteShoes": {
     "title": "沃特鞋企 / Wote Shoes",
     "url": "/wiki/entities/woteshoes/"
+  },
+  "WoundedKneeMassacre": {
+    "title": "Wounded Knee Massacre",
+    "url": "/wiki/entities/woundedkneemassacre/"
   },
   "WrightBrothers": {
     "title": "Wright Brothers / 莱特兄弟",

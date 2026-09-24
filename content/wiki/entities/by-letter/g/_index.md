@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10742
+wiki_total_pages: 10746
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "Ghezo"
     title: "Ghezo"
     url: "/wiki/entities/ghezo/"
+  - key: "GhostDance"
+    title: "Ghost Dance"
+    url: "/wiki/entities/ghostdance/"
   - key: "GhostOfTsushima"
     title: "Ghost of Tsushima"
     url: "/wiki/entities/ghostoftsushima/"

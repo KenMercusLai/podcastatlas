@@ -10973,6 +10973,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/atomizedfamilycaremarketization/"
     },
+    "AtrocityNarrativeReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/atrocitynarrativereframing/"
+    },
     "AttachmentAffectRegulation": {
       "episode_count": 2,
       "show_count": 1,
@@ -50924,6 +50940,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/frontiertrustthroughprotection/"
     },
+    "FrontierViolenceSpectacle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/frontierviolencespectacle/"
+    },
     "FrostSullivan": {
       "episode_count": 1,
       "show_count": 1,
@@ -54443,6 +54475,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/ghezo/"
+    },
+    "GhostDance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/ghostdance/"
     },
     "GhostOfTsushima": {
       "episode_count": 1,
@@ -76626,6 +76674,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/laixieasternhan/"
+    },
+    "LakotaPeople": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/lakotapeople/"
     },
     "LambdaLabs": {
       "episode_count": 1,
@@ -123330,6 +123394,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/siri/"
     },
+    "SittingBull": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/sittingbull/"
+    },
     "SituationalCharacterTests": {
       "episode_count": 5,
       "show_count": 1,
@@ -144654,6 +144734,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/worldlabs/"
+    },
+    "WoundedKneeMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7996658277 [GLT7996658277].md",
+          "key": "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277",
+          "show": "The Rest Is History",
+          "title": "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)",
+          "url": "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/woundedkneemassacre/"
     },
     "WuBin": {
       "episode_count": 1,

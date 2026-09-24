@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10742
+wiki_total_pages: 10746
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "LakesideBookCompany"
     title: "Lakeside Book Company"
     url: "/wiki/entities/lakesidebookcompany/"
+  - key: "LakotaPeople"
+    title: "Lakota People"
+    url: "/wiki/entities/lakotapeople/"
   - key: "LamaVentures"
     title: "Lama Ventures"
     url: "/wiki/entities/lamaventures/"

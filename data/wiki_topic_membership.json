@@ -1703,6 +1703,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674": [
     {
       "key": "history",
@@ -10740,6 +10747,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "AtrocityNarrativeReframing": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "AttentionFineTuning": [
@@ -30068,6 +30087,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FrontierViolenceSpectacle": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "FrontlineAIEnablement": [

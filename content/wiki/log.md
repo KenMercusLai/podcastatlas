@@ -22392,3 +22392,11 @@ Added source `457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674`; 
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)
+
+Added the episode's account of Sitting Bull's death, the Ghost Dance crisis, the Wounded Knee massacre, and the transformation of Lakota defeat into spectacle and contested historical memory. Created synthesis-first pages for Sitting Bull, the Lakota people, the Ghost Dance, Wounded Knee, frontier violence spectacle, and atrocity narrative reframing; preserved uncertainty around motives, casualty totals, and symbolic anecdotes. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

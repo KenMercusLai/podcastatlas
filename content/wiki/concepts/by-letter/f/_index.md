@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8111
+wiki_total_pages: 8113
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1166,6 +1166,9 @@ wiki_pages:
   - key: "FrontierTradeSystems"
     title: "Frontier Trade Systems"
     url: "/wiki/concepts/frontiertradesystems/"
+  - key: "FrontierViolenceSpectacle"
+    title: "Frontier Violence Spectacle"
+    url: "/wiki/concepts/frontierviolencespectacle/"
   - key: "FrontlineAIEnablement"
     title: "Frontline AI Enablement"
     url: "/wiki/concepts/frontlineaienablement/"

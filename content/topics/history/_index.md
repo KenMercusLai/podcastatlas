@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1988
+topic_total_pages: 1991
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -67,6 +67,9 @@ topic_concepts:
   - key: "AtrocityBackfireMobilization"
     title: "Atrocity Backfire Mobilization / 暴行反噬式动员"
     url: "/wiki/concepts/atrocitybackfiremobilization/"
+  - key: "AtrocityNarrativeReframing"
+    title: "Atrocity Narrative Reframing"
+    url: "/wiki/concepts/atrocitynarrativereframing/"
   - key: "AudienceVsMeetingDiplomacy"
     title: "Audience-Versus-Meeting Diplomacy / 朝会之别"
     url: "/wiki/concepts/audiencevsmeetingdiplomacy/"
@@ -415,6 +418,9 @@ topic_concepts:
   - key: "FrontierDefensivePatience"
     title: "Frontier Defensive Patience / 边境防御耐心"
     url: "/wiki/concepts/frontierdefensivepatience/"
+  - key: "FrontierViolenceSpectacle"
+    title: "Frontier Violence Spectacle"
+    url: "/wiki/concepts/frontierviolencespectacle/"
   - key: "GenderedHistoriographicalDesireFraming"
     title: "Gendered Historiographical Desire Framing / 性别化史书欲望叙事"
     url: "/wiki/concepts/genderedhistoriographicaldesireframing/"
@@ -4593,6 +4599,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277"
+    title: "456. Fall of the Sioux: The Massacre at Wounded Knee (Part 3)"
+    url: "/wiki/sources/456-fall-of-the-sioux-the-massacre-at-wounded-knee-part-3-glt7996658277/"
   - key: "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674"
     title: "457. Helen of Troy: Queen of the Greek Myths (Part 1)"
     url: "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
