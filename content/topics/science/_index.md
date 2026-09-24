@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1191
+topic_total_pages: 1192
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1909,6 +1909,9 @@ topic_concepts:
   - key: "SugarCravingNeuralControl"
     title: "Sugar Craving Neural Control"
     url: "/wiki/concepts/sugarcravingneuralcontrol/"
+  - key: "SuperSlowJogging"
+    title: "Super-Slow Jogging / 超慢跑"
+    url: "/wiki/concepts/superslowjogging/"
   - key: "SupplementLabelAccuracy"
     title: "Supplement Label Accuracy"
     url: "/wiki/concepts/supplementlabelaccuracy/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8097
+wiki_total_pages: 8098
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1994,6 +1994,9 @@ wiki_pages:
   - key: "SuperJustice"
     title: "Super Justice"
     url: "/wiki/concepts/superjustice/"
+  - key: "SuperSlowJogging"
+    title: "Super-Slow Jogging / 超慢跑"
+    url: "/wiki/concepts/superslowjogging/"
   - key: "SupercriticalFoamMidsole"
     title: "Supercritical Foam Midsole"
     url: "/wiki/concepts/supercriticalfoammidsole/"

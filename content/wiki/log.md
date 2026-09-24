@@ -22336,3 +22336,11 @@ Added source `460-the-empress-of-the-apocalypse-glt9103397168`; created `Theopha
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食
+
+Added source `vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3`; created `XinXiaoqi` and `SuperSlowJogging`; and updated `ZihanDoctor`, `PracticalBalancedEating`, and `LifestyleWeightManagement` from their complete bounded source sets. Core synthesis: sustainable health habits reduce friction rather than relying on deprivation or maximal intensity—home-based low-intensity movement, gradual progression, retained ordinary meals, and moderate fullness are easier to repeat. No settled contradiction found. The 180-step cadence, fat-use, cardiopulmonary, soreness, blood-glucose, fasting, and longevity-gene explanations remain source-scoped public education rather than individualized exercise or nutrition guidance. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

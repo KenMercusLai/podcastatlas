@@ -7,6 +7,7 @@ sources:
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
   - vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq
   - lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm
+  - vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -25,9 +26,11 @@ VOL.131 adds a narrower but important ICU communication role. When a patient can
 
 VOL.118 makes her ICU model explicit. Intensive care is [[IntensiveCareAsTimeBuying|active organ support that buys time]] for treatable disease rather than a terminal label. Her stories also show why technical rescue and lived experience can diverge: sedation and amnesia may hide the work from patients, families cannot see the overnight labor, and reassurance or post-event explanation can matter without replacing treatment. She names [[NarrativeMedicine]] as a way to join clinical skill with patient and clinician stories, empathy, and public education.
 
+VOL.117 adds a lower-acuity lifestyle-education role. After [[XinXiaoqi|辛晓琪]] describes her home exercise and eating habits, 子涵医生 translates [[SuperSlowJogging|超慢跑]] into a relaxed, conversational-effort practice that can begin with short sessions and explains moderate eating as distinct from deprivation. The exact cadence, fat-use, recovery, and fasting-mechanism claims remain source-scoped.
+
 ## Key Characteristics
 - Explains hantavirus through subtype, geography, host reservoir, transmission route, and clinical syndrome, distinguishing localized outbreak risk from broad community-transmission fear.
-- Connects public medical education to concrete prevention behavior: rodent control, wet disinfection, dust avoidance, masks, gloves, handwashing, and official-source checking.
+- Connects public medical education to concrete prevention and lifestyle behavior, from rodent-safe cleanup to low-friction aerobic activity and moderate eating.
 - Keeps clinical warning signs visible, especially respiratory distress after flu-like symptoms and hemorrhagic fever with renal syndrome signs such as high fever, "three reds and three pains," bleeding points, shock, and kidney injury.
 - Frames ICU as time- and organ-support for acute, potentially reversible disease rather than a terminal label.
 - Connects acute survival to rehabilitation, ordinary function, and patient-defined quality of life.
@@ -42,14 +45,16 @@ VOL.118 makes her ICU model explicit. Intensive care is [[IntensiveCareAsTimeBuy
 - History reconstruction: [[vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq]] has 子涵 explain that ICU patients often cannot provide their own history, requiring clinicians to combine relatives' information, examination and testing, and illness clues.
 - ICU benefit and capacity: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] has 尹子涵 explain organ support, acute reversibility, admission benefit, fixed equipped beds, advanced devices, continuous monitoring, and successful withdrawal of support.
 - Narrative and patient experience: [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]] connects encouragement during ultrasound, post-sedation misunderstanding, bedside touch, invisible night work, and clinician storytelling to humane critical care.
+- Exercise and eating translation: [[vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3]] has 子涵医生 explain relaxed super-slow jogging, gradual session progression, seven-to-eight-tenths fullness, and the difference between mild hunger and meal-skipping.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, or emergency-care advice.
+The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, or weight-management advice.
 
 ## What Changed
 - Identified 子涵医生 as 尹子涵 and added her source-scoped attending-physician and hospital role.
 - Expanded the profile from ICU history reconstruction to time-buying organ support, admission benefit, patient memory, and invisible care labor.
 - Added narrative medicine as her explicit bridge between technical treatment, patient experience, clinician stories, and public education.
+- Added her translation of a singer's personal exercise and eating habits into bounded, low-friction public health guidance.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where she appears as medical guest.
@@ -65,3 +70,4 @@ The wiki has no independent biographical evidence for 尹子涵 beyond these epi
 - [[IntensiveCareAsTimeBuying]] - critical-care purpose and admission-benefit model she explains.
 - [[NarrativeMedicine]] - humanistic clinical practice she is studying and applying to ICU stories.
 - [[DoctorPatientCommunication]] - explanation and reassurance boundary reinforced by her patient accounts.
+- [[SuperSlowJogging]] - low-intensity exercise practice she explains through effort, cadence, access, and progression.

@@ -79745,9 +79745,9 @@
       "url": "/wiki/concepts/lifelongsexeducation/"
     },
     "LifestyleWeightManagement": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "llat_ySKrqmRO0KdJWUOegDCAlU5 [llat_ySKrqmRO0KdJWUOegDCAlU5].md",
@@ -79797,6 +79797,13 @@
           "show": "这病说来话长",
           "title": "VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」",
           "url": "/wiki/sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5/"
+        },
+        {
+          "episode_file": "lvzc4-SyUbaTlt_nmKXggPdyMDB3 [lvzc4-SyUbaTlt_nmKXggPdyMDB3].md",
+          "key": "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3",
+          "show": "这病说来话长",
+          "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
+          "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
         }
       ],
       "updated": "2026-09-21",
@@ -106692,9 +106699,9 @@
       "url": "/wiki/concepts/powerstructuretargeting/"
     },
     "PracticalBalancedEating": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lhMSV-HzbMzFYiUPaTzsKM1jblgo [lhMSV-HzbMzFYiUPaTzsKM1jblgo].md",
@@ -106709,6 +106716,13 @@
           "show": "这病说来话长",
           "title": "VOL.160国家催你减重？这4个饮食陷阱90%的人都踩过！ ft.「大食话」",
           "url": "/wiki/sources/vol-160-guojia-cui-ni-jianzhong-zhe-4-ge-yinshi-xianjing-90-de-ren-dou-cai-guo-ft-dashihua-lumvpx-78mgg7x9kdrqcjbpwqsx5/"
+        },
+        {
+          "episode_file": "lvzc4-SyUbaTlt_nmKXggPdyMDB3 [lvzc4-SyUbaTlt_nmKXggPdyMDB3].md",
+          "key": "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3",
+          "show": "这病说来话长",
+          "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
+          "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
         }
       ],
       "updated": "2026-09-21",
@@ -129266,6 +129280,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/suoyisong/"
     },
+    "SuperSlowJogging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvzc4-SyUbaTlt_nmKXggPdyMDB3 [lvzc4-SyUbaTlt_nmKXggPdyMDB3].md",
+          "key": "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3",
+          "show": "这病说来话长",
+          "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
+          "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/superslowjogging/"
+    },
     "SuperiorCreditConflictRisk": {
       "episode_count": 3,
       "show_count": 1,
@@ -146748,6 +146778,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/xinqingjiwesternhan/"
     },
+    "XinXiaoqi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lvzc4-SyUbaTlt_nmKXggPdyMDB3 [lvzc4-SyUbaTlt_nmKXggPdyMDB3].md",
+          "key": "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3",
+          "show": "这病说来话长",
+          "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
+          "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/xinxiaoqi/"
+    },
     "XinYuanYangHuDieMeng": {
       "episode_count": 2,
       "show_count": 2,
@@ -157111,9 +157157,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -157142,6 +157188,13 @@
           "show": "这病说来话长",
           "title": "VOL.118你见过深夜的ICU吗？打破你的刻板印象",
           "url": "/wiki/sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm/"
+        },
+        {
+          "episode_file": "lvzc4-SyUbaTlt_nmKXggPdyMDB3 [lvzc4-SyUbaTlt_nmKXggPdyMDB3].md",
+          "key": "vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3",
+          "show": "这病说来话长",
+          "title": "VOL.117歌手辛晓琪：不去健身房就在家「超慢跑」 ，千万别节食",
+          "url": "/wiki/sources/vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3/"
         }
       ],
       "updated": "2026-09-25",

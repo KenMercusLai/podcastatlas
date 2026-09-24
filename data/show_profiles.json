@@ -3451,20 +3451,20 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-21",
       "latest_episode_file": "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md",
-      "source_note_count": 66,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 67,
+      "topic_matched_source_note_count": 6,
       "topics": [
+        {
+          "key": "culture",
+          "label": "Culture",
+          "url": "/topics/culture/",
+          "source_note_count": 3
+        },
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
           "source_note_count": 3
-        },
-        {
-          "key": "culture",
-          "label": "Culture",
-          "url": "/topics/culture/",
-          "source_note_count": 2
         },
         {
           "key": "technology",
@@ -3482,18 +3482,18 @@
           "episode_count": 19
         },
         {
+          "key": "ZihanDoctor",
+          "title": "子涵医生 / Zihan Doctor",
+          "url": "/wiki/entities/zihandoctor/",
+          "kind": "person",
+          "episode_count": 5
+        },
+        {
           "key": "MaHaoning",
           "title": "马浩宁 / Ma Haoning",
           "url": "/wiki/entities/mahaoning/",
           "kind": "person",
           "episode_count": 5
-        },
-        {
-          "key": "ZihanDoctor",
-          "title": "子涵医生 / Zihan Doctor",
-          "url": "/wiki/entities/zihandoctor/",
-          "kind": "person",
-          "episode_count": 4
         },
         {
           "key": "XueXiaofan",
@@ -3532,8 +3532,8 @@
         }
       ],
       "start_here_episode_files": [
-        "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
         "lmx4EWrW7KvcqpyH_Q3BUR35ybGZ [lmx4EWrW7KvcqpyH_Q3BUR35ybGZ].md",
+        "lp0clL17CYDZMH36saWfj7-rjWUr [lp0clL17CYDZMH36saWfj7-rjWUr].md",
         "loFs520pS1eVva8naFSnRKcbvgJZ [loFs520pS1eVva8naFSnRKcbvgJZ].md",
         "lnkG92MQovwQW-ixwqRGJs-evrRi [lnkG92MQovwQW-ixwqRGJs-evrRi].md"
       ]
