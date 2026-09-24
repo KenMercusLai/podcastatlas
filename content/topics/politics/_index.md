@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2678
+topic_total_pages: 2679
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -7260,6 +7260,9 @@ topic_sources:
   - key: "bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0"
     title: "Bombs and bombshells: Zelensky under pressure"
     url: "/wiki/sources/bombs-and-bombshells-zelensky-under-pressure-6a86d3561ad8716bb64646f0/"
+  - key: "bff406f4"
+    title: "Bootstrapping From a $500K Goal to a $50M Company"
+    url: "/wiki/sources/bff406f4/"
   - key: "brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f"
     title: "Brave New whirl: Turkey's opposition overhaul"
     url: "/wiki/sources/brave-new-whirl-turkeys-opposition-overhaul-6a69c7766043035f89eb097f/"

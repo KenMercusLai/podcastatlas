@@ -22228,3 +22228,15 @@ Added source `essentials-optimal-protocols-to-build-strength-grow-muscles-dr-and
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | Bootstrapping From a $500K Goal to a $50M Company
+
+Added source `bff406f4`; created `RossAndrewPaquette` and `Maropost`; updated `FounderLedSales`, `ControlPreservingGrowthCapital`, and `TheSaaSPodcast` from their complete bounded source sets; and updated the index. Core synthesis: Maropost's early advantage came from combining prior customer relationships, responsive support, product velocity, and founder-run demonstrations, but transferring that embodied sales system into stage-appropriate leadership took about a decade. The minority investment preserved formal founder control yet failed Ross's expected professionalization test and culminated in a source-reported $37 million buyback. No settled contradiction found; company scale, growth, transaction, acquisition, implementation, and operating-intensity figures remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

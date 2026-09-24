@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10694
+wiki_total_pages: 10696
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "MarksAndCo"
     title: "Marks & Co. / 马克斯与科恩书店"
     url: "/wiki/entities/marksandco/"
+  - key: "Maropost"
+    title: "Maropost"
+    url: "/wiki/entities/maropost/"
   - key: "MarquisDeLafayette"
     title: "Marquis de Lafayette"
     url: "/wiki/entities/marquisdelafayette/"

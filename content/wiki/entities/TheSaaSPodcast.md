@@ -16,7 +16,8 @@ sources:
   - 50-cents-a-pool-the-pricing-model-behind-a-saas-exit
   - stuck-at-50k-arr-for-5-years-now-1-5m-with-ai-agents
   - rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months
-last_updated: 2026-09-04
+  - bff406f4
+last_updated: 2026-09-24
 ---
 
 # The SaaS Podcast
@@ -25,7 +26,7 @@ last_updated: 2026-09-04
 The SaaS Podcast is a founder-interview show hosted by [[OmerKhan]]. The wiki uses it as a repeated source for SaaS product-market fit, pricing, distribution, AI-era positioning, enterprise sales, cybersecurity, compliance, vertical SaaS, and internal communications cases.
 
 ## Current Profile
-Across the available source notes, the show functions as a comparative archive of founder decision points rather than a generic SaaS-news feed. Its strongest recurring thread is that founders make progress when they expose product, pricing, hiring, and distribution assumptions to customer behavior. The Workshop episode extends that thread into [[EnterpriseInternalEmailInfrastructure]] and [[ChannelNativeInternalCommunication]], where a "boring" repeated customer signal became the stronger product-market-fit path.
+Across the available source notes, the show functions as a comparative archive of founder decision points rather than a generic SaaS-news feed. Its strongest recurring thread is that founders make progress when they expose product, pricing, hiring, distribution, and capital assumptions to customer and operating reality. The Maropost episode extends the archive beyond finding product-market fit into the decade-long work of reducing founder dependence, selecting stage-appropriate leaders, testing investor value, and integrating acquisitions.
 
 ## Key Characteristics
 - Centers founder interviews on concrete operating decisions, including validation, pricing, distribution, hiring, fundraising, and category design.
@@ -34,6 +35,7 @@ Across the available source notes, the show functions as a comparative archive o
 - Treats AI-era SaaS as an operating shift involving trust, data, workflow, pricing, and positioning rather than only model capability.
 - Includes both venture-style and bootstrapped paths, making the show useful for comparing funding, speed, control, and market-selection tradeoffs.
 - Adds community, audience, and practitioner ecosystems as recurring distribution surfaces through cases such as [[Ninety]] and [[WorkshopInternalComms|Workshop]].
+- Follows SaaS companies beyond initial traction into founder succession, investor alignment, acquisitions, and organizational design.
 
 ## Evidence
 - Enterprise and pre-product selling: [[enterprise-sales-with-no-product-landing-a-big-four-customer]] shows the show exploring large-customer pilots, disqualification, and [[EnterprisePOCDiscipline]] through [[ChristianLund]], [[Templafy]], and [[Omnidocs]].
@@ -41,14 +43,14 @@ Across the available source notes, the show functions as a comparative archive o
 - Community, bootstrapping, and founder psychology: [[community-led-saas-growth-how-ninety-hit-44m-arr]], [[bootstrapped-saas-12m-arr-across-5-products-with-a-team-of-10]], and [[eric-ries-on-how-founders-quietly-lose-their-company]] cover [[CommunityLedSaaSGrowth]], [[FounderEgo]], SaaS holding-company discipline, and founder governance.
 - Security, compliance, service pivots, and vertical pricing: [[how-danny-jenkins-bootstrapped-threatlocker-from-150k-debt-to-200m]], [[he-demoted-his-saas-to-sell-a-service-and-4xd-revenue-in-12-months]], and [[50-cents-a-pool-the-pricing-model-behind-a-saas-exit]] connect the show to [[ThreatLocker]], [[Responna]], [[Skimmer]], zero trust security, service-as-software, and serviced-customer pricing.
 - Internal communications and email infrastructure: [[rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months]] adds [[RickKnudtson]], [[WorkshopInternalComms|Workshop]], [[HappyMondayClub]], [[CustomerSignalDrivenPivot]], and channel-native internal communications.
+- Founder dependence, capital, and acquisition scale: [[bff406f4]] adds [[RossAndrewPaquette]] and [[Maropost]] as a case where founder-led sales drove growth but leadership transfer, investor alignment, and acquisition integration remained difficult for years.
 
 ## Qualifications
 The show page synthesizes episodes that are interview-based and often self-reported by founders. Metrics such as ARR, headcount, customer counts, and conversion timelines should be treated as claims from their respective episodes unless independently corroborated elsewhere in the wiki.
 
 ## What Changed
-- Recast The SaaS Podcast from a legacy connection page into a synthesis-v1 entity page.
-- Added Workshop as an internal communications case and connected the show to customer-signal-driven pivots, enterprise internal email, and audience-before-product marketing.
-- Compressed older episode-by-episode notes into thematic evidence groups while preserving the full source inventory.
+- Added Maropost as a later-stage operating case spanning founder-led sales, executive hiring, minority investment, buyback, and acquisition integration.
+- Extended the show's current profile from product-market-fit decisions into the organizational costs that follow rapid scale.
 
 ## Relationships
 - [[OmerKhan]] - host and interviewer who frames the show's SaaS lessons.
@@ -63,3 +65,5 @@ The show page synthesizes episodes that are interview-based and often self-repor
 - [[CustomerSignalDrivenPivot]] - one of the validation patterns surfaced by the Workshop episode.
 - [[CommunityLedSaaSGrowth]] - recurring show theme visible in Ninety and Workshop.
 - [[UsageBasedVerticalSaaSPricing]] - pricing theme extended by Skimmer and Workshop.
+- [[Maropost]] - bootstrapped SaaS scale case linking early product-selling strength to later organizational dependence.
+- [[ControlPreservingGrowthCapital]] - governance theme qualified by Maropost's minority investment and buyback.

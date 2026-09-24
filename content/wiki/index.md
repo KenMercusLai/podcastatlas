@@ -2797,6 +2797,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Advice Line with Danny Meyer of Shake Shack](sources/advice-line-with-danny-meyer-of-shake-shack-c7199e93-5dba-43ab-8fb0-91403917c3ac.md) — Danny Meyer advises food-and-beverage founders on behavior-based culture, packaged hospitality, capacity-gated channel tests, and bottom-up food-service proof.
 - [Essentials: Optimal Protocols to Build Strength & Grow Muscles | Dr. Andy Galpin](sources/essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592.md) — Huberman Lab Essentials episode on goal-specific strength, power, and hypertrophy programming, progressive overload, exercise variation, weekly volume, and resilient scheduling.
+- [Bootstrapping From a $500K Goal to a $50M Company](sources/bff406f4.md) — The SaaS Podcast episode on Maropost's founder-led sales, rapid growth, leadership-transfer difficulty, minority-investor buyback, and acquisition integration.
 
 ## Entities
 - [Fauda](entities/Fauda.md) — Israeli thriller whose fifth season is read as an emotionally immediate but deliberately partial portrait of post-October-7 trauma.
@@ -13503,6 +13504,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ponyboy Slings](entities/PonyboySlings.md) — Canned bourbon-cocktail company translating founder-led community and hospitality into packaging.
 - [Angel Oak Smokehouse](entities/AngelOakSmokehouse.md) — Smoked-salmon company balancing retail momentum with cold-chain and capacity constraints on new channels.
 - [Boost Coos](entities/BoostCoos.md) — Protein-rich couscous alternative using small restaurants and chefs to build food-service proof.
+- [Ross Andrew Paquette](entities/RossAndrewPaquette.md) — Maropost founder whose product selling accelerated growth while creating a difficult leadership-transfer problem.
+- [Maropost](entities/Maropost.md) — Bootstrapped marketing-automation and e-commerce SaaS company shaped by responsive service, founder-led sales, investor conflict, and acquisitions.
 
 ## Concepts
 - [Housing Rate-Shock Vulnerability](concepts/HousingRateShockVulnerability.md) — Model of how mortgage terms, household savings, and housing supply determine the transmission of higher rates into payments, activity, and prices.

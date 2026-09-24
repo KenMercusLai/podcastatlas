@@ -27616,9 +27616,9 @@
       "url": "/wiki/concepts/contrailclimatemitigation/"
     },
     "ControlPreservingGrowthCapital": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Bogg Bag： Kim Vaccarella. The $100 Million Business She Almost Abandoned [e1aadd32-1dc4-43fb-b654-32148b3f6cee].md",
@@ -27626,9 +27626,16 @@
           "show": "How I Built This with Guy Raz",
           "title": "Bogg Bag: Kim Vaccarella. The $100 Million Business She Almost Abandoned",
           "url": "/wiki/sources/bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee/"
+        },
+        {
+          "episode_file": "bff406f4 [bff406f4].md",
+          "key": "bff406f4",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Bootstrapping From a $500K Goal to a $50M Company",
+          "url": "/wiki/sources/bff406f4/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/controlpreservinggrowthcapital/"
     },
     "ControllableChildAccession": {
@@ -48484,9 +48491,9 @@
       "url": "/wiki/concepts/founderego/"
     },
     "FounderLedSales": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 3,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -48550,9 +48557,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Founder-Led Sales to $1M ARR With Just 10 Customers",
           "url": "/wiki/sources/founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047/"
+        },
+        {
+          "episode_file": "bff406f4 [bff406f4].md",
+          "key": "bff406f4",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Bootstrapping From a $500K Goal to a $50M Company",
+          "url": "/wiki/sources/bff406f4/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/founderledsales/"
     },
     "FounderLifestyleInfrastructure": {
@@ -88401,6 +88415,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/marketingscienceuserpath/"
     },
+    "Maropost": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bff406f4 [bff406f4].md",
+          "key": "bff406f4",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Bootstrapping From a $500K Goal to a $50M Company",
+          "url": "/wiki/sources/bff406f4/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/maropost/"
+    },
     "MarquisDeLafayette": {
       "episode_count": 6,
       "show_count": 1,
@@ -114943,6 +114973,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/rosebertin/"
     },
+    "RossAndrewPaquette": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "bff406f4 [bff406f4].md",
+          "key": "bff406f4",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Bootstrapping From a $500K Goal to a $50M Company",
+          "url": "/wiki/sources/bff406f4/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/rossandrewpaquette/"
+    },
     "RotatorCuffExternalRotation": {
       "episode_count": 1,
       "show_count": 1,
@@ -131414,9 +131460,9 @@
       "url": "/wiki/entities/therollingstones/"
     },
     "TheSaaSPodcast": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "AHARO4500147412 [AHARO4500147412].md",
@@ -131501,9 +131547,16 @@
           "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
           "title": "Rick Knudtson (Workshop): The Email Signal He Ignored for 9 Months",
           "url": "/wiki/sources/rick-knudtson-workshop-the-email-signal-he-ignored-for-9-months/"
+        },
+        {
+          "episode_file": "bff406f4 [bff406f4].md",
+          "key": "bff406f4",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Bootstrapping From a $500K Goal to a $50M Company",
+          "url": "/wiki/sources/bff406f4/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-24",
       "url": "/wiki/entities/thesaaspodcast/"
     },
     "TheTaleOfGenji": {
