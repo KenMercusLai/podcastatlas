@@ -926,14 +926,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "GLT2099451333 [GLT2099451333].md",
-      "source_note_count": 134,
-      "topic_matched_source_note_count": 133,
+      "source_note_count": 135,
+      "topic_matched_source_note_count": 134,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 131
+          "source_note_count": 132
         },
         {
           "key": "politics",
@@ -970,6 +970,13 @@
           "episode_count": 9
         },
         {
+          "key": "KaiserWilhelmII",
+          "title": "Kaiser Wilhelm II",
+          "url": "/wiki/entities/kaiserwilhelmii/",
+          "kind": "person",
+          "episode_count": 8
+        },
+        {
           "key": "MarieAntoinette",
           "title": "Marie Antoinette",
           "url": "/wiki/entities/marieantoinette/",
@@ -980,13 +987,6 @@
           "key": "ElizabethI",
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
-          "kind": "person",
-          "episode_count": 7
-        },
-        {
-          "key": "KaiserWilhelmII",
-          "title": "Kaiser Wilhelm II",
-          "url": "/wiki/entities/kaiserwilhelmii/",
           "kind": "person",
           "episode_count": 7
         },

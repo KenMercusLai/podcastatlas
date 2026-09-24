@@ -22156,3 +22156,11 @@ Added source `277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-da
 ## [2026-09-24] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-24] ingest | 467. The Murder of Franz Ferdinand: The Victim (Part 3)
+
+Added source `467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087`; created `AurelPopovici`, `HabsburgFederalReform`, and `MorganaticMarriage`; rewrote `FranzFerdinand`, `SophieChotek`, `AustriaHungary`, `FranzJosephI`, `KaiserWilhelmII`, `FranzConradVonHotzendorf`, and `AustroHungarianDualMonarchy` from their complete bounded source sets; and updated the index. Core synthesis: Franz Ferdinand was a difficult but serious preservationist reformer whose trialist, federal, and suffrage options complicate claims that Austria-Hungary was doomed, while his opposition to preventive war with Serbia removed a meaningful restraint when he was killed. No settled contradiction found; imperial survivability, final reform design, reform feasibility, private motives, and selected quantitative claims remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-24] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

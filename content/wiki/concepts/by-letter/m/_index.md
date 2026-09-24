@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8047
+wiki_total_pages: 8049
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1094,6 +1094,9 @@ wiki_pages:
   - key: "MoralizedWarPretext"
     title: "Moralized War Pretext / 道德化战争借口"
     url: "/wiki/concepts/moralizedwarpretext/"
+  - key: "MorganaticMarriage"
+    title: "Morganatic Marriage"
+    url: "/wiki/concepts/morganaticmarriage/"
   - key: "MorningAudioRitual"
     title: "Morning Audio Ritual / 早间音频仪式"
     url: "/wiki/concepts/morningaudioritual/"

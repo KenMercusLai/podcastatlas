@@ -4,6 +4,7 @@ type: entity
 tags: [person, austria-hungary, military, july-crisis]
 sources:
   - 469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632
+  - 467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087
 last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
@@ -16,11 +17,11 @@ Franz Conrad von Hötzendorf was Austria-Hungary's chief of the general staff an
 
 ## Current Profile
 
-The episode presents Conrad as the clearest preventive-war voice in Vienna. He had repeatedly urged action against Serbia before Sarajevo and, after meeting [[LeopoldBerchtold]], pressed for war at once. His position converted the assassination into an opportunity to remove a perceived strategic threat, but it did not amount to a coherent plan for managing Russian intervention or a general European conflict.
+The episodes present Conrad as the clearest preventive-war voice in Vienna. Between 1906 and 1914 he repeatedly urged war not only against Serbia but also Montenegro, Russia, Romania, and even Italy. His conflict with [[FranzFerdinand]] is therefore substantive rather than a simple military-versus-civilian divide: the military heir repeatedly rejected war with Serbia because Russian intervention could destroy Austria-Hungary. After Sarajevo, Conrad pressed [[LeopoldBerchtold]] for war at once. His position converted the assassination into an opportunity to remove a perceived strategic threat, but it did not amount to a coherent plan for managing Russian intervention or general European conflict.
 
 ## Key Characteristics
 
-- Longstanding advocate of preventive war against Serbia.
+- Longstanding and unusually recurrent advocate of preventive war against several neighboring states.
 - Senior military participant in the first Austro-Hungarian deliberations after Sarajevo.
 - Treated prompt armed punishment as necessary for imperial security and credibility.
 - Focused on the Serbian threat more than the wider alliance consequences.
@@ -30,14 +31,17 @@ The episode presents Conrad as the clearest preventive-war voice in Vienna. He h
 - Preexisting position: [[469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632]] says Conrad had repeatedly argued for preventive war against Serbia before the assassination.
 - Immediate response: [[469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632]] follows Berchtold's return to Vienna and Conrad's emphatic demand for war.
 - Strategic boundary: [[469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632]] places his advocacy inside a Serbia-centered response that underweighted Russia and the wider alliance system.
+- Repeated proposals: [[467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087]] describes preventive-war demands against Serbia, Montenegro, Russia, Romania, and Italy between 1906 and 1914.
+- Internal opponent: [[467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087]] identifies Franz Ferdinand as a consistent obstacle who believed Serbian war would bring Russian war and imperial destruction.
 
 ## Qualifications
 
-This profile is limited to the opening days after Sarajevo. It establishes Conrad's hard-line advocacy but does not make him the sole author of policy or supply a complete account of his later operational decisions, military readiness, or responsibility for general war.
+This profile is limited to prewar advocacy and the opening days after Sarajevo. The source's count and range of preventive-war proposals remain narrative summaries, while Franz Ferdinand's opposition does not mean every Austrian restraint came from him alone. Conrad was influential but not the sole author of policy, and these episodes do not supply a complete account of his later operational decisions, military readiness, or responsibility for general war.
 
 ## What Changed
 
-- Created Conrad as the principal Austro-Hungarian military advocate of immediate preventive war against Serbia.
+- Extended Conrad's preventive-war advocacy across multiple proposed targets and the 1906-1914 period.
+- Established Franz Ferdinand as a recurring internal opponent rather than merely a restraint removed at Sarajevo.
 
 ## Relationships
 

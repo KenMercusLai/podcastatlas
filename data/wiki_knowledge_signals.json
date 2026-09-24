@@ -10986,6 +10986,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/aulusplautius/"
     },
+    "AurelPopovici": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/aurelpopovici/"
+    },
     "AurelStein": {
       "episode_count": 1,
       "show_count": 1,
@@ -11246,9 +11262,9 @@
       "url": "/wiki/concepts/australiantherapeuticgoodsregulation/"
     },
     "AustriaHungary": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -11298,15 +11314,22 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/austriahungary/"
     },
     "AustroHungarianDualMonarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6194086702 [GLT6194086702].md",
@@ -11314,9 +11337,16 @@
           "show": "The Rest Is History",
           "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
           "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/austrohungariandualmonarchy/"
     },
     "AuthorCommercialFilmBalance": {
@@ -48990,9 +49020,9 @@
       "url": "/wiki/concepts/frankensteincomplexai/"
     },
     "FranzConradVonHotzendorf": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3669608632 [GLT3669608632].md",
@@ -49000,15 +49030,22 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/franzconradvonhotzendorf/"
     },
     "FranzFerdinand": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -49030,15 +49067,22 @@
           "show": "The Rest Is History",
           "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
           "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/franzferdinand/"
     },
     "FranzJosephI": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -49067,6 +49111,13 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
       "updated": "2026-09-24",
@@ -56888,6 +56939,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/habsburgdynasty/"
+    },
+    "HabsburgFederalReform": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/habsburgfederalreform/"
     },
     "HackerHouseStartupInfrastructure": {
       "episode_count": 2,
@@ -72667,9 +72734,9 @@
       "url": "/wiki/entities/kailas/"
     },
     "KaiserWilhelmII": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -72719,6 +72786,13 @@
           "show": "The Rest Is History",
           "title": "469. The Road to The Great War: Countdown to Armageddon (Part 1)",
           "url": "/wiki/sources/469-the-road-to-the-great-war-countdown-to-armageddon-part-1-glt3669608632/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
       "updated": "2026-09-24",
@@ -92730,6 +92804,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/moralslanderreframing/"
+    },
+    "MorganaticMarriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/morganaticmarriage/"
     },
     "MorningLightCircadianAnchoring": {
       "episode_count": 6,
@@ -122903,9 +122993,9 @@
       "url": "/wiki/entities/sophiaalekseyevna/"
     },
     "SophieChotek": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1158335154 [GLT1158335154].md",
@@ -122913,6 +123003,13 @@
           "show": "The Rest Is History",
           "title": "468. The Murder of Franz Ferdinand: The Crime (Part 4)",
           "url": "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"
+        },
+        {
+          "episode_file": "GLT9071060087 [GLT9071060087].md",
+          "key": "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087",
+          "show": "The Rest Is History",
+          "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
+          "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
         }
       ],
       "updated": "2026-09-24",

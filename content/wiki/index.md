@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [467. The Murder of Franz Ferdinand: The Victim (Part 3)](sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087.md) — The Rest Is History episode on Franz Ferdinand's travel, marriage, temperament, federal reform ideas, and opposition to preventive war with Serbia.
 - [VOL.123医生，我这脖子疼和腰疼还有救吗？😭](sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2.md) — 这病说来话长 episode on symptom-driven neck and back care, cervical curvature, gradual rehabilitation, posture variability, and the limits of comfort aids and supports.
 - [468. The Murder of Franz Ferdinand: The Crime (Part 4)](sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154.md) — The Rest Is History reconstruction of the Sarajevo assassination as a contingent chain of warnings, failed attack, continued ceremony, route confusion, two fatal shots, and dynastic indignity.
 - [182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」](sources/duihua-liangchenqi-douyin-maoxiang-chuangye-tamen-dou-gao-shengchanli-wo-xiang-yong-ai-chuangzao-kaixin-1-182-1.md) — LateTalk founder interview on Douyin and Maoxiang product lessons, AI-native entertainment, emergent creation, consequential participation, inference economics, and startup organization.
@@ -2789,8 +2790,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [277.从提醒你，到替你办：Today想把Personal AI带到哪一步？](sources/277-cong-tixing-ni-dao-ti-ni-ban-today-xiang-ba-personal-ai-dai-dao-na-yibu-lub_xekqnxjr6psdo-utmiuig6m6.md) — 乱翻书 episode on Today’s memory-plus-initiative product thesis, identity-aware personal context, delegation friction, graduated execution, and unresolved product-market fit.
 
 ## Entities
+- [Aurel Popovici](entities/AurelPopovici.md) — Political theorist whose sixteen-state United States of Greater Austria supplied one federal model considered around Franz Ferdinand.
 - [曹不贵 / Cao Bugui (Podcast Guest)](entities/CaoBuGuiPodcastGuest.md) — Patient-experience guest whose neck, lower-back, pillow, manual-treatment, and support-device questions ground the VOL.123 discussion.
-- [Sophie Chotek](entities/SophieChotek.md) — Franz Ferdinand's wife, active partner in the Sarajevo visit, fellow assassination victim, and continuing target of morganatic court hierarchy.
+- [Sophie Chotek](entities/SophieChotek.md) — Franz Ferdinand's wife, stabilizing family partner, target of morganatic court hierarchy, active Sarajevo companion, and fellow assassination victim.
 - [Gavrilo Princip](entities/GavriloPrincip.md) — Nineteen-year-old assassin whose second opportunity arose from the motorcade's wrong turn and stop in Sarajevo.
 - [Stuart McGill](entities/StuartMcGill.md) — Spine-biomechanics researcher emphasizing individualized pain mechanisms, anatomical fit, recoverable loading, and spine-sparing training.
 - [Liang Chenqi / 梁琛奇](entities/LiangChenqi.md) — Former Douyin and ByteDance FLOW product leader building AI-native entertainment through Dongnian Yinxian.
@@ -2807,7 +2809,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Theobald von Bethmann Hollweg](entities/TheobaldVonBethmannHollweg.md) — German chancellor who confirmed open-ended backing for Austria-Hungary under a deterrence assumption.
 - [Leopold Berchtold](entities/LeopoldBerchtold.md) — Austro-Hungarian foreign minister who advanced the harsh ultimatum strategy against Serbia.
 - [Istvan Tisza](entities/IstvanTisza.md) — Hungarian prime minister whose resistance delayed but did not prevent the ultimatum course.
-- [Franz Conrad von Hötzendorf](entities/FranzConradVonHotzendorf.md) — Austro-Hungarian chief of the general staff who pressed for immediate preventive war against Serbia after Sarajevo.
+- [Franz Conrad von Hötzendorf](entities/FranzConradVonHotzendorf.md) — Austro-Hungarian chief of staff whose repeated preventive-war demands met Franz Ferdinand's opposition before Sarajevo.
 - [Raymond Poincaré](entities/RaymondPoincare.md) — French president whose St Petersburg diplomacy treated Franco-Russian firmness as deterrence during the July Crisis.
 - [Sergei Sazonov](entities/SergeiSazonov.md) — Russian foreign minister who joined Balkan strategy and prestige to Serbian support and early mobilisation.
 - [Maurice Paléologue](entities/MauricePaleologue.md) — French ambassador whose discretion during a communications gap reinforced Russia's hard line.
@@ -5114,10 +5116,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Philip of Coburg](entities/PhilipOfCoburg.md) — Hunting-party witness helping establish Rudolf's calm public surface shortly before the Mayerling deaths.
 - [Johann Loschek](entities/JohannLoschek.md) — Rudolf's valet whose breakfast call and locked-door discovery expose the Mayerling deaths.
 - [Mayerling Incident](entities/MayerlingIncident.md) — January 1889 death of Rudolf and Mary, treated as private tragedy, religious crisis, official suppression, and succession shock.
-- [Austria-Hungary](entities/AustriaHungary.md) — Habsburg monarchy whose dynastic strain, blank-cheque diplomacy, internal delay, and Serbian ultimatum expose weakly aligned political and military aims.
+- [Austria-Hungary](entities/AustriaHungary.md) — Economically integrated multilingual Habsburg monarchy whose reform possibilities, dynastic strain, and July Crisis choices complicate a simple doomed-empire story.
 - [Habsburg Dynasty](entities/HabsburgDynasty.md) — Ruling house framed through Mayerling's family tragedy, burial management, succession redirection, and later shocks.
 - [Karl Ludwig of Austria](entities/KarlLudwigOfAustria.md) — Franz Joseph's brother and collateral succession bridge after Rudolf's death.
-- [Franz Ferdinand](entities/FranzFerdinand.md) — Later Habsburg heir reached through the post-Mayerling succession path and named as a later crisis marker.
+- [Franz Ferdinand](entities/FranzFerdinand.md) — Difficult, reform-minded Habsburg heir whose marriage, anti-war strategy, and assassination connect imperial adaptation to the July Crisis.
 - [Luigi Lucheni](entities/LuigiLucheni.md) — Normalized route for the source's Sisi-assassination reference in the later Habsburg tragedy branch.
 - [Hofburg Palace](entities/HofburgPalace.md) — Vienna court space where Mary's secret access to Rudolf and later public shock concentrate.
 - [Heiligenkreuz Abbey](entities/HeiligenkreuzAbbey.md) — Burial destination for Mary Vetsera after her body is removed from Mayerling.
@@ -13485,6 +13487,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Today Personal AI](entities/TodayPersonalAI.md) — Named personal agent seeking to combine continually revised memory, low-interruption initiative, and progressively authorized task execution.
 
 ## Concepts
+- [Habsburg Federal Reform](concepts/HabsburgFederalReform.md) — Trialist, federal-state, and suffrage proposals intended to preserve Austria-Hungary by redistributing power beyond the dual monarchy.
+- [Morganatic Marriage](concepts/MorganaticMarriage.md) — Dynastic marriage that recognizes the union while denying equal rank and succession rights to the lower-ranked spouse and children.
 - [Cervical Curve and Posture Management / 颈椎曲度与姿势管理](concepts/CervicalCurvePostureManagement.md) — Qualified framework connecting cervical alignment, muscular balance, sustained posture, movement variability, symptoms, and escalation.
 - [Spine Comfort Adjunct Boundary / 脊柱舒适辅助措施边界](concepts/SpineComfortAdjunctBoundary.md) — Boundary separating temporary relief from pillows, heat, massage, and comfort devices from diagnosis, structural correction, and durable capacity.
 - [Sarajevo Assassination Contingency](concepts/SarajevoAssassinationContingency.md) — Causal frame joining symbolic timing, known warnings, security choices, failed attack, continued ceremony, route communication, and chance.

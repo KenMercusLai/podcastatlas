@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1973
+topic_total_pages: 1975
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -436,6 +436,9 @@ topic_concepts:
   - key: "GuestExpulsionOrder"
     title: "Guest Expulsion Order / 逐客令"
     url: "/wiki/concepts/guestexpulsionorder/"
+  - key: "HabsburgFederalReform"
+    title: "Habsburg Federal Reform"
+    url: "/wiki/concepts/habsburgfederalreform/"
   - key: "HaijinAndMaritimeSmuggling"
     title: "Haijin and Maritime Smuggling"
     url: "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -4578,6 +4581,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087"
+    title: "467. The Murder of Franz Ferdinand: The Victim (Part 3)"
+    url: "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
   - key: "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154"
     title: "468. The Murder of Franz Ferdinand: The Crime (Part 4)"
     url: "/wiki/sources/468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154/"

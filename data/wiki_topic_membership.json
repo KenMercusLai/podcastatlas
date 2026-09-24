@@ -1710,6 +1710,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "468-the-murder-of-franz-ferdinand-the-crime-part-4-glt1158335154": [
     {
       "key": "history",
@@ -33189,6 +33196,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "HabsburgFederalReform": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HackerHouseStartupInfrastructure": [
