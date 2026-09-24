@@ -2818,6 +2818,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 - [458. Helen of Troy: A Family of Blood (Part 2)](sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131.md) — The Rest Is History episode on Schliemann at Mycenae, Clytemnestra and the Oresteia, and qualified Bronze Age memory beneath Homeric myth.
 
+- [457. Helen of Troy: Queen of the Greek Myths (Part 1)](sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674.md) — The Rest Is History episode on Helen's variant myths, dangerous beauty, agency, cult, and competing explanations of the Trojan War.
+
 ## Entities
 - [Mary Claire Haver](entities/MaryClaireHaver.md) — OBGYN and menopause-health educator emphasizing symptom recognition, individualized hormone-therapy decisions, local genitourinary care, and midlife strength and nutrition.
 - [玲珑塔门市部 / Linglongta Menshibu](entities/LinglongtaMenshibu.md) — Crosstalk-centered comedy podcast using an outsider-facing approach to comic craft and lesser-known folk arts.
@@ -13571,6 +13573,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mycenae](entities/Mycenae.md) — Fortified Bronze Age citadel whose material culture supports a palace world but not named Homeric biographies.
 - [The Oresteia](entities/TheOresteia.md) — Aeschylean trilogy moving from dynastic murder and matricide toward difficult public adjudication.
 
+- [Menelaus](entities/Menelaus.md) — Spartan husband of Helen whose dynastic dependence and marital claim help turn a household rupture into coalition war.
+- [Paris of Troy](entities/ParisOfTroy.md) — Trojan prince linking Aphrodite's promise, Helen's contested agency, violated hospitality, and wartime escalation.
+
 ## Concepts
 - [Menopausal Hormone Therapy](concepts/MenopausalHormoneTherapy.md) — Clinician-guided framework organizing menopause hormone treatment by symptom, timing, route, uterine status, risk, and contraindication.
 - [Genitourinary Syndrome of Menopause Care](concepts/GenitourinarySyndromeMenopauseCare.md) — Recognition and targeted care of menopause-related vaginal, sexual, recurrent-UTI, urgency, and incontinence symptoms.
@@ -21692,5 +21697,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patient-Led Rare-Disease Infrastructure / 患者主导的罕见病基础设施](concepts/PatientLedRareDiseaseInfrastructure.md) — Information, peer-support, advocacy, and research-bridging capacity built by affected people and families.
 - [Homeric Bronze Age Memory](concepts/HomericBronzeAgeMemory.md) — Qualified model in which epic preserves older language, institutions, material culture, and elite social types without documenting named lives.
 - [Blood Vengeance to Civic Justice](concepts/BloodVengeanceToCivicJustice.md) — Oresteia pattern in which self-renewing kin retaliation is redirected into public trial without erasing moral or divine ambiguity.
+
+- [Beauty as Mythic Power](concepts/BeautyAsMythicPower.md) — Framework for exceptional beauty acting through loyalty, prudence, punishment, and public violence inside mythic narrative.
+- [Mythic and Material War Causation](concepts/MythicAndMaterialWarCausation.md) — Contrast between symbolic explanations of war and accounts centered on power, resources, institutions, and political choice.
 
 ## Syntheses

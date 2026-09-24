@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8109
+wiki_total_pages: 8111
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "MythAsPublicDream"
     title: "Myth As Public Dream / 神话作为公共的梦"
     url: "/wiki/concepts/mythaspublicdream/"
+  - key: "MythicAndMaterialWarCausation"
+    title: "Mythic and Material War Causation"
+    url: "/wiki/concepts/mythicandmaterialwarcausation/"
   - key: "MythicEnvironmentalImagination"
     title: "Mythic Environmental Imagination"
     url: "/wiki/concepts/mythicenvironmentalimagination/"

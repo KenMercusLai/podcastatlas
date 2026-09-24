@@ -1703,6 +1703,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131": [
     {
       "key": "history",
@@ -47710,6 +47722,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "Menelaus": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MengAo": [
     {
       "key": "history",
@@ -50000,6 +50019,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "MythicAndMaterialWarCausation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "MythicBiographySourceCaution": [
@@ -53875,6 +53901,13 @@
     }
   ],
   "Paris": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ParisOfTroy": [
     {
       "key": "culture",
       "label": "Culture",

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1986
+topic_total_pages: 1988
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -751,6 +751,9 @@ topic_concepts:
   - key: "MousePhilosophy"
     title: "Mouse Philosophy / 老鼠哲学"
     url: "/wiki/concepts/mousephilosophy/"
+  - key: "MythicAndMaterialWarCausation"
+    title: "Mythic and Material War Causation"
+    url: "/wiki/concepts/mythicandmaterialwarcausation/"
   - key: "NationalistAtlantisMythmaking"
     title: "Nationalist Atlantis Mythmaking"
     url: "/wiki/concepts/nationalistatlantismythmaking/"
@@ -4590,6 +4593,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674"
+    title: "457. Helen of Troy: Queen of the Greek Myths (Part 1)"
+    url: "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
   - key: "458-helen-of-troy-a-family-of-blood-part-2-glt7255356131"
     title: "458. Helen of Troy: A Family of Blood (Part 2)"
     url: "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"

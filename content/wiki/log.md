@@ -22384,3 +22384,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 457. Helen of Troy: Queen of the Greek Myths (Part 1)
+
+Added source `457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674`; created `Menelaus`, `ParisOfTroy`, `BeautyAsMythicPower`, and `MythicAndMaterialWarCausation`; and updated `HelenOfTroy` from its complete bounded source set. Core synthesis: Helen's beauty functions as mythic public power through marriage, oath, diplomacy, judgment, and blame, while ancient poets, historians, and cult traditions preserve incompatible versions of her agency, presence at Troy, divinity, and causal role. Herodotus and Thucydides expose raiding, political overreaction, power, and material interest beneath or against the beauty-centered account. No settled contradiction found. The Egyptian Helen, eidolon, original-divinity claim, historical war causation, cult interpretation, chronology, and authorial motives remain source-scoped; Part 2's archaeology supports possible Bronze Age social memory without identifying a historical Helen. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

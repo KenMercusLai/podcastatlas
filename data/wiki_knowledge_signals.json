@@ -13742,6 +13742,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/beautyaccessorization/"
     },
+    "BeautyAsMythicPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7058693674 [GLT7058693674].md",
+          "key": "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674",
+          "show": "The Rest Is History",
+          "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
+          "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/beautyasmythicpower/"
+    },
     "BeautyEconomics": {
       "episode_count": 2,
       "show_count": 2,
@@ -61009,9 +61025,9 @@
       "url": "/wiki/entities/helenblairsimpson/"
     },
     "HelenOfTroy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "96.荷马史诗：在假装永生的时代，我们重读死亡（伊利亚特篇） [725317514].md",
@@ -61026,6 +61042,13 @@
           "show": "The Rest Is History",
           "title": "458. Helen of Troy: A Family of Blood (Part 2)",
           "url": "/wiki/sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131/"
+        },
+        {
+          "episode_file": "GLT7058693674 [GLT7058693674].md",
+          "key": "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674",
+          "show": "The Rest Is History",
+          "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
+          "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
         }
       ],
       "updated": "2026-09-25",
@@ -91022,6 +91045,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/mencianpeoplebasedlegitimacy/"
     },
+    "Menelaus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7058693674 [GLT7058693674].md",
+          "key": "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674",
+          "show": "The Rest Is History",
+          "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
+          "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/menelaus/"
+    },
     "MenelikII": {
       "episode_count": 1,
       "show_count": 1,
@@ -95297,6 +95336,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/myopiasurgeryriskboundary/"
+    },
+    "MythicAndMaterialWarCausation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7058693674 [GLT7058693674].md",
+          "key": "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674",
+          "show": "The Rest Is History",
+          "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
+          "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/mythicandmaterialwarcausation/"
     },
     "MythicBiographySourceCaution": {
       "episode_count": 1,
@@ -102347,6 +102402,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/parisforeignmissionssociety/"
+    },
+    "ParisOfTroy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7058693674 [GLT7058693674].md",
+          "key": "457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674",
+          "show": "The Rest Is History",
+          "title": "457. Helen of Troy: Queen of the Greek Myths (Part 1)",
+          "url": "/wiki/sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/parisoftroy/"
     },
     "ParkingCostInternalization": {
       "episode_count": 1,
