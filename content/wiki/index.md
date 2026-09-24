@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver](sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220.md) — Huberman Lab interview on perimenopause symptoms, hormone-therapy timing and route, genitourinary care, resistance training, nutrition, and women's-health research gaps.
 - [VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广](sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr.md) — 这病说来话长 crossover on laughter-triggered jaw, vascular, respiratory, and hiccup risks, balanced by crosstalk and everyday humor as emotional relief.
 - [459. The Suit, Savile Row, and Smartly Dressed Men](sources/459-the-suit-savile-row-and-smartly-dressed-men-glt8912379704.md) — Cultural history of the suit as sober status code and of Savile Row as an adaptive bespoke heritage economy.
 - [How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt](sources/how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944.md) — Huberman Lab conversation on phone-based childhood, adolescent developmental vulnerability, youth mental-health evidence, and coordinated family and school interventions.
@@ -2818,6 +2819,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [458. Helen of Troy: A Family of Blood (Part 2)](sources/458-helen-of-troy-a-family-of-blood-part-2-glt7255356131.md) — The Rest Is History episode on Schliemann at Mycenae, Clytemnestra and the Oresteia, and qualified Bronze Age memory beneath Homeric myth.
 
 ## Entities
+- [Mary Claire Haver](entities/MaryClaireHaver.md) — OBGYN and menopause-health educator emphasizing symptom recognition, individualized hormone-therapy decisions, local genitourinary care, and midlife strength and nutrition.
 - [玲珑塔门市部 / Linglongta Menshibu](entities/LinglongtaMenshibu.md) — Crosstalk-centered comedy podcast using an outsider-facing approach to comic craft and lesser-known folk arts.
 - [何思琪 / He Siqi (天津师大校广播)](entities/HeSiqiTianjinNormalRadio.md) — Campus-radio participant who originated the “笑不活” health-and-humor topic.
 - [吴斌 / Wu Bin (口腔科)](entities/WuBinOralDoctor.md) — Oral-health clinician explaining jaw-dislocation triggers, recurrence, escalation, and recovery boundaries.
@@ -13570,6 +13572,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Oresteia](entities/TheOresteia.md) — Aeschylean trilogy moving from dynastic murder and matricide toward difficult public adjudication.
 
 ## Concepts
+- [Menopausal Hormone Therapy](concepts/MenopausalHormoneTherapy.md) — Clinician-guided framework organizing menopause hormone treatment by symptom, timing, route, uterine status, risk, and contraindication.
+- [Genitourinary Syndrome of Menopause Care](concepts/GenitourinarySyndromeMenopauseCare.md) — Recognition and targeted care of menopause-related vaginal, sexual, recurrent-UTI, urgency, and incontinence symptoms.
 - [Laughter-Triggered Health Risk / 大笑诱发健康风险](concepts/LaughterTriggeredHealthRisk.md) — Framework separating intense laughter as an immediate trigger from underlying joint, vascular, cardiac, or respiratory vulnerability.
 - [Everyday Humor Emotion Regulation / 日常幽默情绪调节](concepts/EverydayHumorEmotionRegulation.md) — Humor, playful conversation, and downtime as ordinary relief without compulsory cheerfulness.
 - [Suit As Social Code](concepts/SuitAsSocialCode.md) — The suit as both standardized uniform and fine-grained language of seriousness, belonging, and rank.

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1192
+topic_total_pages: 1194
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2543,6 +2543,9 @@ topic_entities:
   - key: "MarthaBeck"
     title: "Martha Beck"
     url: "/wiki/entities/marthabeck/"
+  - key: "MaryClaireHaver"
+    title: "Mary Claire Haver"
+    url: "/wiki/entities/maryclairehaver/"
   - key: "MaryFrancesOConnor"
     title: "Mary-Frances O'Connor"
     url: "/wiki/entities/maryfrancesoconnor/"
@@ -3411,6 +3414,9 @@ topic_sources:
   - key: "how-to-make-better-decisions-dr-michael-platt-scim9606820714"
     title: "How to Make Better Decisions | Dr. Michael Platt"
     url: "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
+  - key: "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220"
+    title: "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver"
+    url: "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"

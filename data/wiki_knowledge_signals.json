@@ -46113,9 +46113,9 @@
       "url": "/wiki/concepts/femalefertilityashealthmarker/"
     },
     "FemaleHormoneHealthPhenotyping": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM5131677929 [SCIM5131677929].md",
@@ -46137,9 +46137,16 @@
           "show": "Huberman Lab",
           "title": "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims",
           "url": "/wiki/sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121/"
+        },
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/femalehormonehealthphenotyping/"
     },
     "FemalePowerCenterPoliticalCapacity": {
@@ -53940,6 +53947,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/genitourinaryforeignbodyescalation/"
+    },
+    "GenitourinarySyndromeMenopauseCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/genitourinarysyndromemenopausecare/"
     },
     "GenomeLanguageModels": {
       "episode_count": 1,
@@ -89702,6 +89725,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/martyrdomstaging/"
     },
+    "MaryClaireHaver": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/maryclairehaver/"
+    },
     "MaryFrancesOConnor": {
       "episode_count": 1,
       "show_count": 1,
@@ -91089,10 +91128,26 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/mengyuneasternhan/"
     },
+    "MenopausalHormoneTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/menopausalhormonetherapy/"
+    },
     "MenopauseClinicalSharedDecision": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -91121,9 +91176,16 @@
           "show": "Huberman Lab",
           "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
           "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        },
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
         }
       ],
-      "updated": "2026-09-14",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/menopauseclinicalshareddecision/"
     },
     "MenopauseInformationTriage": {
@@ -92307,9 +92369,9 @@
       "url": "/wiki/concepts/midlifebodyalarmadjustment/"
     },
     "MidlifeFemaleStrengthPowerTraining": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3511503121 [SCIM3511503121].md",
@@ -92317,9 +92379,16 @@
           "show": "Huberman Lab",
           "title": "Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims",
           "url": "/wiki/sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121/"
+        },
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/midlifefemalestrengthpowertraining/"
     },
     "MidtermBacklashForecasting": {
@@ -101250,9 +101319,9 @@
       "url": "/wiki/entities/owainglyndwr/"
     },
     "PCOSCardiometabolicRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5131677929 [SCIM5131677929].md",
@@ -101260,9 +101329,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/pcoscardiometabolicrisk/"
     },
     "PDVSA": {
@@ -103491,9 +103567,9 @@
       "url": "/wiki/concepts/periaqueductalgray/"
     },
     "PerimenopauseBrainMetabolism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5131677929 [SCIM5131677929].md",
@@ -103508,9 +103584,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/perimenopausebrainmetabolism/"
     },
     "PeriodontalSystemicHealthBoundary": {
@@ -144203,9 +144286,9 @@
       "url": "/wiki/concepts/womensfootballvisibility/"
     },
     "WomensHealthDiagnosticGap": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TSR-S4-SurbhiSarna-v3 [TSR-S4-SurbhiSarna-v3].md",
@@ -144220,9 +144303,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM1557774220 [SCIM1557774220].md",
+          "key": "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220",
+          "show": "Huberman Lab",
+          "title": "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver",
+          "url": "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/womenshealthdiagnosticgap/"
     },
     "WongJing": {

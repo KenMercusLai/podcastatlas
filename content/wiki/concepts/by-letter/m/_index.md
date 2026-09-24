@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8107
+wiki_total_pages: 8109
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "MenciusSongReception"
     title: "Mencius Song Reception / 宋代孟子接受史"
     url: "/wiki/concepts/menciussongreception/"
+  - key: "MenopausalHormoneTherapy"
+    title: "Menopausal Hormone Therapy"
+    url: "/wiki/concepts/menopausalhormonetherapy/"
   - key: "MenopauseAsFreedom"
     title: "Menopause As Freedom / 更年期作为自由"
     url: "/wiki/concepts/menopauseasfreedom/"

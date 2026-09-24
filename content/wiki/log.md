@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver
+
+Added source `how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220`; created `MaryClaireHaver`, `MenopausalHormoneTherapy`, and `GenitourinarySyndromeMenopauseCare`; and updated `MenopauseClinicalSharedDecision`, `PerimenopauseBrainMetabolism`, `MidlifeFemaleStrengthPowerTraining`, `WomensHealthDiagnosticGap`, `FemaleHormoneHealthPhenotyping`, and `PCOSCardiometabolicRisk` from their complete bounded source sets. Core synthesis: perimenopause and menopause are multi-system endocrine transitions whose care should combine symptom history and differential diagnosis with treatment timing, route, contraindications, local genitourinary care, resistance training, protein, fiber-rich eating, sleep, and body-composition context. No settled contradiction found. Women's Health Initiative interpretation, outcome estimates, testosterone benefits, supplement doses, microbiome findings, weighted vests, acupuncture, and GLP-1 counseling remain source-scoped public education rather than individualized care. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-25] ingest | How Smartphones & Social Media Impact Mental Health & the Realistic Solutions | Dr. Jonathan Haidt
 
 Added source `how-smartphones-social-media-impact-mental-health-the-realistic-solutions-dr-jonathan-haidt-scim1870541944`; created `PhoneBasedChildhoodDisplacement` and `AdolescentDigitalSensitivePeriod`; updated `JonathanHaidt`, `TheAnxiousGeneration`, and the index. Core synthesis: the episode treats digital harm as a shift from play-based to phone-based childhood that can displace sleep, autonomy, embodied skill, courtship, conflict resolution, and sustained attention, with puberty proposed as a qualified period of heightened reward, identity, and culture learning. Its four coordinated interventions are delayed smartphones, delayed social-media accounts, phone-free schools, and restored real-world independence and responsibility. No settled contradiction found; population-level causation, a proposed ages 9 to 15 window, sex differences, dopamine mechanisms, long-term rewiring, and intervention effects remain contested or source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22372,6 +22376,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广
 
 Added source `vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr`; created `LinglongtaMenshibu`, `HeSiqiTianjinNormalRadio`, `WuBinOralDoctor`, `WengJiayiCardiology`, `LaughterTriggeredHealthRisk`, and `EverydayHumorEmotionRegulation`; and updated `JiaDoctorZheBing`, `HypertensionLongTermManagement`, `Atang`, and `ZheBingShuoLaiHuaChang`. Core synthesis: intense laughter can be an immediate mechanical or physiological trigger, but serious risk depends mainly on prior joint, cardiac, vascular, hypertensive, or respiratory vulnerability; ordinary laughter and humor remain valuable forms of relief and connection. No settled contradiction found. The cardiac-death and intracranial-hemorrhage cases, asthma and hiccup mechanisms, treatment thresholds, and self-help maneuvers remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 
