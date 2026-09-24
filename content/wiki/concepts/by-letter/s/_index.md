@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8032
+wiki_total_pages: 8036
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1271,6 +1271,12 @@ wiki_pages:
   - key: "SpineRehabilitationProgression"
     title: "Spine Rehabilitation Progression / 脊柱康复循序渐进"
     url: "/wiki/concepts/spinerehabilitationprogression/"
+  - key: "SpineLoadTippingPoint"
+    title: "Spine-Load Tipping Point"
+    url: "/wiki/concepts/spineloadtippingpoint/"
+  - key: "SpineSparingCoreStability"
+    title: "Spine-Sparing Core Stability"
+    url: "/wiki/concepts/spinesparingcorestability/"
   - key: "SpiritualFreedomUnderConstraint"
     title: "Spiritual Freedom Under Constraint / 受限处境中的精神自由"
     url: "/wiki/concepts/spiritualfreedomunderconstraint/"

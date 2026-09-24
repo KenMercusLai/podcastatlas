@@ -2781,8 +2781,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.124“菇毒患者”并不孤独，中西心理7诊室9医生一一分析](sources/vol-124-gu-du-huan-zhe-bing-bu-gu-du-zhong-xi-xin-li-7-zhen-shi-9-yisheng-yi-yi-fenxi-lnqswz3nim_8767094yiysgmef1g.md) — 这病说来话长 multidisciplinary case review on 见手青 poisoning, variable symptoms, delayed organ risk, visual follow-up, false recovery, and post-event psychological care.
 - [Female-Specific Exercise & Nutrition for Health, Performance & Longevity | Dr. Stacy Sims](sources/female-specific-exercise-nutrition-for-health-performance-longevity-dr-stacy-sims-scim3511503121.md) — Huberman Lab interview on female training fuel timing, individualized cycle tracking, perimenopause, strength, power, bone loading, and evidence-bounded recovery protocols.
 - [Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete](sources/all-in-with-chamath-jason-sacks-friedberg-luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit.md) — All-In interview on acquired product-market fit, shared software operations, selective hiring, acquisition underwriting, leverage, and permanent-ownership integration.
+- [Build a Strong, Pain-Proof Back | Dr. Stuart McGill](sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455.md) — Huberman Lab interview on mechanism-based back-pain assessment, anatomy-matched exercise, cumulative load thresholds, spine-sparing stability, and progressive rehabilitation.
 
 ## Entities
+- [Stuart McGill](entities/StuartMcGill.md) — Spine-biomechanics researcher emphasizing individualized pain mechanisms, anatomical fit, recoverable loading, and spine-sparing training.
 - [Liang Chenqi / 梁琛奇](entities/LiangChenqi.md) — Former Douyin and ByteDance FLOW product leader building AI-native entertainment through Dongnian Yinxian.
 - [Dongnian Yinxian / 动念引线](entities/DongnianYinxian.md) — Liang Chenqi's startup exploring AI entertainment, imaginative expression, and interactive worlds through small product teams.
 - [Maoxiang / 猫箱](entities/Maoxiang.md) — ByteDance FLOW interactive-story product combining creator-authored characters and frames with runtime AI branches.
@@ -13472,6 +13474,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Luca Ferrari](entities/LucaFerrari.md) — Bending Spoons co-founder and CEO describing acquired product-market fit and a shared software acquisition operating platform.
 
 ## Concepts
+- [Mechanism-Based Back-Pain Assessment](concepts/MechanismBasedBackPainAssessment.md) — Assessment frame identifying pain triggers, anatomy, exposure, sensitization, goals, and tolerable movement before intervention.
+- [Anatomy-Constrained Exercise Selection](concepts/AnatomyConstrainedExerciseSelection.md) — Principle matching exercise, range, stance, and technique to body structure, tissue tolerance, symptoms, and goals.
+- [Spine-Load Tipping Point](concepts/SpineLoadTippingPoint.md) — Cumulative-dose model separating adaptive training stress from overload, sensitization, and tissue trauma.
+- [Spine-Sparing Core Stability](concepts/SpineSparingCoreStability.md) — Trunk-stability approach using sufficient stiffness and endurance while limiting unnecessary or provocative spinal loading.
 - [Entertainment as Problem-Setting / 娱乐产品出题](concepts/EntertainmentProblemSetting.md) — Product frame in which entertainment invents and validates a new activity, feeling, interaction, or world rather than solving an existing task.
 - [Emergent Creation / 涌现式创作](concepts/EmergentCreation.md) — Human-authored concepts, characters, rules, or worlds expanded by AI into many concrete expressions and interaction branches.
 - [AI Entertainment Participation Design / AI 娱乐参与感设计](concepts/AIEntertainmentParticipationDesign.md) — Design requirement that simple user actions remain causally meaningful while AI supplies rich generated output.

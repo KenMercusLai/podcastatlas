@@ -7607,6 +7607,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/anarchyenglishcivilwar/"
     },
+    "AnatomyConstrainedExerciseSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/anatomyconstrainedexerciseselection/"
+    },
     "Anaya": {
       "episode_count": 2,
       "show_count": 2,
@@ -84697,9 +84713,9 @@
       "url": "/wiki/entities/luluplasticsurgeon/"
     },
     "LumbarDiscHerniation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -84707,15 +84723,22 @@
           "show": "这病说来话长",
           "title": "VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！",
           "url": "/wiki/sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg/"
+        },
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/lumbardischerniation/"
     },
     "LumbarNeutralPosition": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -84730,9 +84753,16 @@
           "show": "这病说来话长",
           "title": "VOL.136你也被椅子硬控了？大夫，快救救久坐打工人吧！",
           "url": "/wiki/sources/vol-136-ni-ye-bei-yizi-yingkong-le-dafu-kuai-jiujiu-jiuzuo-dagongren-ba-lovi71tk-wgo30v9myvd2f1gjdwu/"
+        },
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/lumbarneutralposition/"
     },
     "LunarIndustrialization": {
@@ -88585,6 +88615,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/meaningthroughexperience/"
+    },
+    "MechanismBasedBackPainAssessment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/mechanismbasedbackpainassessment/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
       "episode_count": 2,
@@ -123216,10 +123262,26 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/spencerpratt/"
     },
-    "SpineRehabilitationProgression": {
+    "SpineLoadTippingPoint": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/spineloadtippingpoint/"
+    },
+    "SpineRehabilitationProgression": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -123227,10 +123289,33 @@
           "show": "这病说来话长",
           "title": "VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！",
           "url": "/wiki/sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg/"
+        },
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/spinerehabilitationprogression/"
+    },
+    "SpineSparingCoreStability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/concepts/spinesparingcorestability/"
     },
     "SpiroAgnew": {
       "episode_count": 1,
@@ -125314,6 +125399,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/structuredgrievingpractice/"
+    },
+    "StuartMcGill": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        }
+      ],
+      "updated": "2026-09-24",
+      "url": "/wiki/entities/stuartmcgill/"
     },
     "StuartMcMillan": {
       "episode_count": 1,
@@ -127633,9 +127734,9 @@
       "url": "/wiki/concepts/symbolicstatusdowngradebackfire/"
     },
     "SymptomDrivenSpineCare": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -127643,9 +127744,16 @@
           "show": "这病说来话长",
           "title": "VOL.219视频播客｜当代年轻人腰突自救指南：骨科医生交底，别把你的腰当消耗品！",
           "url": "/wiki/sources/vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg/"
+        },
+        {
+          "episode_file": "SCIM9911539455 [SCIM9911539455].md",
+          "key": "build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455",
+          "show": "Huberman Lab",
+          "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
+          "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-24",
       "url": "/wiki/concepts/symptomdrivenspinecare/"
     },
     "Syncopy": {

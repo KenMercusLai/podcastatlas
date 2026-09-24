@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8032
+wiki_total_pages: 8036
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "AnalyticalSaaSCompression"
     title: "Analytical SaaS Compression"
     url: "/wiki/concepts/analyticalsaascompression/"
+  - key: "AnatomyConstrainedExerciseSelection"
+    title: "Anatomy-Constrained Exercise Selection"
+    url: "/wiki/concepts/anatomyconstrainedexerciseselection/"
   - key: "Ancestrality"
     title: "Ancestrality"
     url: "/wiki/concepts/ancestrality/"

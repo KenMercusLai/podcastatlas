@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8032
+wiki_total_pages: 8036
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "MechanicalWatchRepositioning"
     title: "Mechanical Watch Repositioning"
     url: "/wiki/concepts/mechanicalwatchrepositioning/"
+  - key: "MechanismBasedBackPainAssessment"
+    title: "Mechanism-Based Back-Pain Assessment"
+    url: "/wiki/concepts/mechanismbasedbackpainassessment/"
   - key: "MechanismOutcomeEvidenceHierarchy"
     title: "Mechanism-to-Outcome Evidence Hierarchy"
     url: "/wiki/concepts/mechanismoutcomeevidencehierarchy/"

@@ -4,45 +4,49 @@ type: concept
 tags: [healthcare, rehabilitation, spine, exercise]
 sources:
   - vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg
-last_updated: 2026-08-27
+  - build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455
+last_updated: 2026-09-24
 knowledge_schema: synthesis-v1
 ---
 
 # Spine Rehabilitation Progression / 脊柱康复循序渐进
 
 ## Definition
-Spine rehabilitation progression is the episode's recovery principle that lumbar-disc surgery or conservative care should rebuild activity gradually, matching tissue healing, baseline strength, symptoms, and professional guidance.
+Spine rehabilitation progression is the practice of rebuilding movement, stability, endurance, mobility, and load tolerance in stages matched to tissue healing, symptoms, pain mechanisms, baseline capacity, and professional guidance.
 
 ## Current Synthesis
-The source rejects the idea that recovery can be forced by eagerness. [[MaHaoning|马浩宁]] describes wound and tissue repair as having a real timeline; early overloading, twisting, waist use, or heavy exercise after minimally invasive surgery can raise recurrence risk because the operated area has not fully healed.
+VOL.219 establishes that recovery cannot be forced by eagerness. After surgery or during conservative care, wound and tissue healing, neurological status, baseline strength, and pain response determine when low-load movement can advance toward strengthening and ordinary activity. Early heavy loading, twisting, or waist-dominant movement can raise recurrence or injury risk.
 
-The concept also applies outside surgery. For conservative care or weak baseline strength, the episode scales activity from rest and low-load movements toward ankle pumps, straight-leg raises, glute bridges, planks, sitting upright, neutral-position practice, and professional rehabilitation support when needed. The underlying rule is progression by capacity, not calendar bravado.
+The McGill episode adds trigger removal and capacity rebuilding. Its “virtual surgery” thought experiment asks some people who have cycled through failed treatments to behave as if they had undergone surgery: reduce aggravating exposure, recover, then rebuild stability, mobility, endurance, and movement. Walking or sport can be divided into doses that remain below pain, and sensitized patterns may use gentle non-painful exposure to expand the safe repertoire.
+
+Together the sources treat rest as a stage rather than the whole plan. Progression moves from calming the provoking pathway toward repeatable movement and then task-specific capacity, with symptoms and function providing feedback at every step.
 
 ## Key Claims
-- Rehabilitation time varies by person and cannot be reduced to a fixed two- or three-week rule.
-- Early recovery should respect wound and tissue-healing limits.
-- Low-load movements can begin before heavier strengthening when clinically appropriate.
-- Stronger baseline fitness can speed recovery, while older or weaker patients may need guided rebuilding from very low capacity.
-- Heavy loading, twisting, and waist-dominant movement too early can increase injury or recurrence risk.
-- Conservative-treatment recovery also requires enough rest and pacing, which work pressure may make difficult.
+- Rehabilitation timelines vary and cannot be reduced to a fixed week count.
+- Early recovery should respect tissue healing and neurological risk.
+- Temporary removal of reproducible triggers can create room for symptoms to settle.
+- Low-load movement and stability can precede heavier strengthening when appropriate.
+- Walking, range, and training volume can be partitioned to stay below the current pain threshold.
+- Progression should rebuild stability, mobility, endurance, movement skill, and task-specific load rather than stop at rest.
+- Sensitized or trauma-linked pain may require gentle pain-free exposure and broader care rather than forceful mechanical correction.
 
 ## Evidence
-- Individual pacing: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] says postoperative recovery varies and should not be fixed by a simple week count.
-- Early exercises: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] names ankle pumps, straight-leg raises, glute bridges, planks, sitting upright, and balance practice as staged examples.
-- Recurrence risk: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] links early load, twisting, and forceful waist use after minimally invasive surgery to recurrence concerns.
-- Conservative-care reality: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] notes that rest can be medically necessary but practically hard under work and life pressure.
+- Tissue-timeline boundary: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] warns against fixed recovery schedules and early heavy loading, twisting, or forceful waist use.
+- Low-load staging: [[vol-219-shipin-boke-dangdai-nianqingren-yaotu-zijiu-zhinan-guke-yisheng-jiaodi-bieba-nide-yao-dang-xiaohaopin-lkvjq45dukdjpesxikwec0zrglmg]] gives ankle pumps, straight-leg raises, bridges, planks, upright sitting, and balance practice as conditional examples.
+- Virtual-surgery sequence: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] describes initial rest followed by progressive stability, mobility, endurance, and movement work.
+- Below-pain dosing: [[build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455]] uses shorter pain-free walks and reduced provocative ranges to preserve activity while rebuilding tolerance.
 
 ## Counterevidence & Qualifications
-The page does not prescribe a rehabilitation protocol. The source gives examples and principles, while actual exercise selection depends on operation type, symptoms, neurological status, pain response, age, strength, and clinician or rehabilitation-specialist guidance.
+The reported virtual-surgery outcome is source-scoped and does not establish that people advised to have surgery should avoid it. Rest, pain avoidance, and graded exposure must be matched to the diagnosis; severe or progressive neurological findings, bowel or bladder changes, acute trauma, systemic illness, or worsening symptoms can require urgent evaluation rather than self-directed progression.
 
 ## What Changed
-- Initial synthesis captures the episode's gradual spine-rehabilitation rule.
-- The page records recovery as tissue-timeline management rather than willpower.
-- The concept links postoperative recurrence risk to early loading and lumbar mechanics.
+- Added trigger removal, below-pain dose partitioning, and staged capacity rebuilding to the tissue-healing model.
+- Added a sensitization qualification for pain that does not behave like a straightforward mechanical lesion.
 
 ## Related Concepts
-- [[LumbarDiscHerniation]] - condition and surgery context where rehabilitation progression matters.
-- [[LumbarNeutralPosition]] - movement principle used during recovery and prevention.
-- [[SymptomDrivenSpineCare]] - clinical triage frame that determines whether exercise is appropriate.
-- [[MedicalRiskManagement]] - safety frame for recurrence, neurological signs, and improper treatment.
-- [[DoctorPatientCommunication]] - feedback loop for reporting pain, numbness, weakness, and recovery changes.
+- [[SymptomDrivenSpineCare]] - determines urgency and whether exercise progression is appropriate.
+- [[MechanismBasedBackPainAssessment]] - identifies triggers and tolerable starting points.
+- [[SpineLoadTippingPoint]] - guides dose below the current overload threshold.
+- [[SpineSparingCoreStability]] - possible stability component within a broader rehabilitation sequence.
+- [[LumbarNeutralPosition]] - task-specific movement-control cue used during rebuilding.
+- [[PainAwareTrainingContinuity]] - adjacent frame for preserving safe movement through modification.
