@@ -846,9 +846,33 @@
         "TalentVirtueDistinction",
         "GuanZhong"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "little-bighorn-joins-command-failure-native-victory-and-uncertain-memory",
+      "qualifications": [
+        "No U.S. soldier who remained with Custer survived, so exact movements, timings, intentions, and individual deaths cannot be recovered with certainty.",
+        "Native testimony is indispensable but varied and often mediated through later recording and translation; archaeology constrains rather than completes the sequence.",
+        "The source is one dramatic popular-history reconstruction, and weapon distributions, casualty figures, surrender and suicide accounts, and Benteen counterfactuals remain source-scoped."
+      ],
+      "statement": "[[453-custers-last-stand-the-final-showdown-part-8-glt8261745977|Episode 453]] frames the [[BattleOfLittleBighorn]] as both [[GeorgeArmstrongCuster|Custer]]'s divided-command failure and a [[LakotaPeople|Lakota]]-Cheyenne victory enabled by [[SittingBull|Sitting Bull]]'s coalition and battlefield leadership associated with [[CrazyHorse|Crazy Horse]] and [[GallLakota|Gall]]. [[BattlefieldReconstructionUnderUncertainty]] combines testimony, terrain, and archaeology without forcing a complete timeline, while [[HeroicLastStandMyth]] explains how later memory compresses collapse, shifts blame toward [[FrederickBenteen|Benteen]] and [[MarcusReno|Reno]], and obscures Native agency.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+        "BattleOfLittleBighorn",
+        "GeorgeArmstrongCuster",
+        "LakotaPeople",
+        "SittingBull",
+        "CrazyHorse",
+        "GallLakota",
+        "BattlefieldReconstructionUnderUncertainty",
+        "HeroicLastStandMyth",
+        "FrederickBenteen",
+        "MarcusReno"
+      ]
     }
   ],
-  "input_digest": "e0f712a417c7314eed1a4322158e926256e20080328b7d8029312f69fbb20c92",
-  "summary": "The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. The Great Northern War branch now begins with the 1682 succession crisis: Streltsy grievance and dynastic manipulation create Sophia's regency, while Peter's practical formation and Golitsyn's reforms show that later transformation emerged from a contested Westernizing environment. The Great Embassy then converts foreign observation into technical recruitment without importing political limits; coercive Westernization and the Streltsy purge consolidate autocratic command; Narva drives Russian reform and Saint Petersburg's Baltic consolidation; and later withdrawal, resource denial, Lesnaya, Baturin, winter, absent allies, injury, and divided command remove Swedish options before Poltava converts capacity into imperial realignment. The Hannibal branch similarly joins logistics, alliance politics, deception, attrition, and Fabian endurance, while the Qing mid-dynasty case shows underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weakening problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than settled history. The Heian branch adds selective state borrowing: Japanese rulers adapted Chinese titles, bureaucracy, capital planning, and textual prestige without dissolving local aristocratic kinship, while gendered vernacular literacy helped produce a distinctive court literature. Hanji 1116 adds a late-Han displacement case in which military and diplomatic capacity makes Cai Wenji’s return possible but cannot reconcile homeland recovery with the loss of children left beyond the frontier; attributed poetry and reconstructed family texts carry that unresolved rupture into cultural memory. Hanji 1114 adds a late-Han personnel case in which visible austerity becomes a manipulable integrity signal, while He Qia's corrective and Cao Cao's talent order require lifestyle, character, capacity, and office fit to be judged separately.",
+  "input_digest": "dc2e9184195623400f930c9c6c9fb65ba43314d6a2ebb4e2f7fa6ce41c795117",
+  "summary": "The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. The Great Northern War branch now begins with the 1682 succession crisis: Streltsy grievance and dynastic manipulation create Sophia's regency, while Peter's practical formation and Golitsyn's reforms show that later transformation emerged from a contested Westernizing environment. The Great Embassy then converts foreign observation into technical recruitment without importing political limits; coercive Westernization and the Streltsy purge consolidate autocratic command; Narva drives Russian reform and Saint Petersburg's Baltic consolidation; and later withdrawal, resource denial, Lesnaya, Baturin, winter, absent allies, injury, and divided command remove Swedish options before Poltava converts capacity into imperial realignment. The Hannibal branch similarly joins logistics, alliance politics, deception, attrition, and Fabian endurance, while the Qing mid-dynasty case shows underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weakening problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than settled history. The Heian branch adds selective state borrowing: Japanese rulers adapted Chinese titles, bureaucracy, capital planning, and textual prestige without dissolving local aristocratic kinship, while gendered vernacular literacy helped produce a distinctive court literature. Hanji 1116 adds a late-Han displacement case in which military and diplomatic capacity makes Cai Wenji’s return possible but cannot reconcile homeland recovery with the loss of children left beyond the frontier; attributed poetry and reconstructed family texts carry that unresolved rupture into cultural memory. Hanji 1114 adds a late-Han personnel case in which visible austerity becomes a manipulable integrity signal, while He Qia's corrective and Cao Cao's talent order require lifestyle, character, capacity, and office fit to be judged separately. The Little Bighorn branch adds a battle in which divided command and inadequate reconnaissance meet Lakota-Cheyenne coalition, leadership, confidence, numbers, and weapons; because no soldier with Custer survived, testimony, terrain, and archaeology constrain the final phase without closing it, while later heroic memory shifts blame and obscures Native agency.",
   "topic_id": "history-and-geopolitics"
 }

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [453. Custer's Last Stand: The Final Showdown (Part 8)](sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977.md) — The Rest Is History reconstruction of Little Bighorn's final phase, Reno Hill's survival, Custer's destruction, Native battlefield leadership, and the evidence limits behind the last-stand myth.
 - [454. Fall of the Sioux: Death of Crazy Horse (Part 1)](sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583.md) — The Rest Is History episode on Little Bighorn's strategic aftermath, coercive surrender, Crazy Horse's killing, and Sitting Bull's Canadian exile and return.
 - [455. Fall of the Sioux: The Ghost Dance (Part 2)](sources/455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118.md) — The Rest Is History episode on reservation assimilation, Wovoka's Ghost Dance teaching, Sitting Bull's humiliation, and the amplification of religious renewal into a military crisis.
 - [VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？](sources/vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1.md) — 这病说来话长 episode with 孙志军 on hypertension diagnosis, home measurement, individualized targets, long-term medication, organ risk, pregnancy, exercise, and monitoring technology.
@@ -2827,6 +2828,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez](sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714.md) — Huberman Lab interview on gut sensory epithelial cells, rapid neuropod-to-vagus signaling, nutrient preference, appetite, and the limits of broader gut-intuition claims.
 
 ## Entities
+- [Battle of the Little Bighorn](entities/BattleOfLittleBighorn.md) — 1876 Lakota and Cheyenne victory reconstructed through divided U.S. command, Native leadership, testimony, terrain, and archaeology.
+- [George Armstrong Custer](entities/GeorgeArmstrongCuster.md) — Seventh Cavalry commander whose fatal decisions and unknowable final movements became the basis of a heroic last-stand myth.
+- [Frederick Benteen](entities/FrederickBenteen.md) — Seventh Cavalry officer whose contested delay and later defense helped preserve Reno Hill survivors.
+- [Marcus Reno](entities/MarcusReno.md) — Seventh Cavalry officer whose failed attack, hilltop defense, and later investigation concentrated the battle's blame dispute.
+- [Gall](entities/GallLakota.md) — Hunkpapa Lakota leader associated with the attack on Calhoun Hill and the Native victory interpretation of Little Bighorn.
 - [Crazy Horse](entities/CrazyHorse.md) — Oglala Lakota leader whose surrender, isolation, disputed mistranslation, and killing expose the coercive transition from war to confinement.
 - [Wovoka](entities/Wovoka.md) — Paiute religious teacher whose peaceful renewal message became the basis of the Ghost Dance movement.
 - [James McLaughlin](entities/JamesMcLaughlin.md) — Standing Rock agent who joined paternal reform, coercive assimilation, and personal conflict with Sitting Bull.
@@ -13593,6 +13599,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Battlefield Reconstruction Under Uncertainty](concepts/BattlefieldReconstructionUnderUncertainty.md) — Method combining testimony, terrain, archaeology, and material traces while ranking confidence and preserving unresolved conflicts.
+- [Heroic Last Stand Myth](concepts/HeroicLastStandMyth.md) — Memory pattern that compresses military collapse into disciplined heroic defiance, shifts blame, and obscures opponent agency.
 - [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of military pressure, material dependency, factional authority, schools, religion, policing, and land policy to replace Indigenous social and political orders.
 - [Security Crisis Amplification](concepts/SecurityCrisisAmplification.md) — Feedback loop through which local fear, media, politics, and institutional incentives magnify ambiguous activity into an emergency.
 - [Child Mental Health and Family-Systems Support / 儿童心理健康与家庭系统支持](concepts/ChildMentalHealthFamilySystemsSupport.md) — Child-distress framework joining multidomain signals, urgent safety, family context, play, care continuity, and caregiver support without automatic parental blame.

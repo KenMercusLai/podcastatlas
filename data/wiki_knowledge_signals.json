@@ -13327,6 +13327,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/battleoflesnaya/"
     },
+    "BattleOfLittleBighorn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/battleoflittlebighorn/"
+    },
     "BattleOfLoos": {
       "episode_count": 1,
       "show_count": 1,
@@ -13691,6 +13707,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/battlefieldinformationcontrol/"
+    },
+    "BattlefieldReconstructionUnderUncertainty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
     },
     "Baturin": {
       "episode_count": 1,
@@ -28938,9 +28970,9 @@
       "url": "/wiki/entities/craigkoniver/"
     },
     "CrazyHorse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1647500583 [GLT1647500583].md",
@@ -28948,6 +28980,13 @@
           "show": "The Rest Is History",
           "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
           "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
+        },
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
         }
       ],
       "updated": "2026-09-25",
@@ -50156,6 +50195,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/frederickai/"
     },
+    "FrederickBenteen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/frederickbenteen/"
+    },
     "FreeDerry": {
       "episode_count": 1,
       "show_count": 1,
@@ -52466,6 +52521,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gaiusmariusyounger/"
     },
+    "GallLakota": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/galllakota/"
+    },
     "GallagherInsurance": {
       "episode_count": 1,
       "show_count": 1,
@@ -54252,6 +54323,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/georgearmistead/"
+    },
+    "GeorgeArmstrongCuster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/georgearmstrongcuster/"
     },
     "GeorgeIII": {
       "episode_count": 1,
@@ -61829,6 +61916,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/herodotus/"
+    },
+    "HeroicLastStandMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/heroiclaststandmyth/"
     },
     "HeroicResistanceViolenceAmbiguity": {
       "episode_count": 1,
@@ -76858,9 +76961,9 @@
       "url": "/wiki/entities/laixieasternhan/"
     },
     "LakotaPeople": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -76882,6 +76985,13 @@
           "show": "The Rest Is History",
           "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
           "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
+        },
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
         }
       ],
       "updated": "2026-09-25",
@@ -89375,6 +89485,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/marcusliviusdrusus/"
+    },
+    "MarcusReno": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/marcusreno/"
     },
     "MargaretThatcher": {
       "episode_count": 2,
@@ -123651,9 +123777,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SittingBull": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -123675,6 +123801,13 @@
           "show": "The Rest Is History",
           "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
           "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
+        },
+        {
+          "episode_file": "GLT8261745977 [GLT8261745977].md",
+          "key": "453-custers-last-stand-the-final-showdown-part-8-glt8261745977",
+          "show": "The Rest Is History",
+          "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+          "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
         }
       ],
       "updated": "2026-09-25",

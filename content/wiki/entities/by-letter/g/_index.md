@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10752
+wiki_total_pages: 10757
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "GalileoGalilei"
     title: "Galileo Galilei / 伽利略"
     url: "/wiki/entities/galileogalilei/"
+  - key: "GallLakota"
+    title: "Gall"
+    url: "/wiki/entities/galllakota/"
   - key: "GallagherInsurance"
     title: "Gallagher"
     url: "/wiki/entities/gallagherinsurance/"
@@ -248,6 +251,9 @@ wiki_pages:
   - key: "GeorgeArmistead"
     title: "George Armistead"
     url: "/wiki/entities/georgearmistead/"
+  - key: "GeorgeArmstrongCuster"
+    title: "George Armstrong Custer"
+    url: "/wiki/entities/georgearmstrongcuster/"
   - key: "GeorgeCottrell"
     title: "George Cottrell"
     url: "/wiki/entities/georgecottrell/"

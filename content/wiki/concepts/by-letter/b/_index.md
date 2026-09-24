@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8119
+wiki_total_pages: 8121
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "BattlefieldInformationControl"
     title: "Battlefield Information Control / 战场信息控制"
     url: "/wiki/concepts/battlefieldinformationcontrol/"
+  - key: "BattlefieldReconstructionUnderUncertainty"
+    title: "Battlefield Reconstruction Under Uncertainty"
+    url: "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
   - key: "BeautyAccessorization"
     title: "Beauty Accessorization / 美妆配饰化"
     url: "/wiki/concepts/beautyaccessorization/"

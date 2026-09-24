@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10752
+wiki_total_pages: 10757
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "MarcusLiviusDrusus"
     title: "Marcus Livius Drusus / 马库斯·李维乌斯·德鲁苏斯"
     url: "/wiki/entities/marcusliviusdrusus/"
+  - key: "MarcusReno"
+    title: "Marcus Reno"
+    url: "/wiki/entities/marcusreno/"
   - key: "MargaretMead"
     title: "Margaret Mead / 米德"
     url: "/wiki/entities/margaretmead/"

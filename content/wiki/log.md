@@ -22289,6 +22289,10 @@ Added source `464-modern-british-elections-part-2-glt4046145085`; created `Briti
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-25] ingest | 453. Custer's Last Stand: The Final Showdown (Part 8)
+
+Added source `453-custers-last-stand-the-final-showdown-part-8-glt8261745977`; created `BattleOfLittleBighorn`, `GeorgeArmstrongCuster`, `FrederickBenteen`, `MarcusReno`, `GallLakota`, `BattlefieldReconstructionUnderUncertainty`, and `HeroicLastStandMyth`; and updated `CrazyHorse`, `SittingBull`, and `LakotaPeople` from their complete bounded source sets. Core synthesis: Little Bighorn was both a U.S. command failure and a Lakota-Cheyenne victory produced through coalition, leadership, confidence, numbers, and weapons; its final phase remains probabilistic because no soldier with Custer survived, while later memory compressed a dispersed collapse into a heroic last stand. No settled contradiction found. Exact movements, timings, motives, testimony conflicts, weapon distributions, casualty figures, and individual deaths remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
 ## [2026-09-25] ingest | 462. St George: Dragon-Slayer
 
 Added source `462-st-george-dragon-slayer-glt5334319363`; created `StGeorge`, `OrderOfTheGarter`, `Bellerophon`, `Diocletian`, `SaintLegendAccretion`, `DragonSlayerMotifLayering`, and `PatronSaintSymbolicPlasticity`; and updated `TheRestIsHistory`, `England`, `EdwardIIIOfEngland`, `HenryVOfEngland`, `Malta`, and the index from their complete bounded source sets. Core synthesis: St George's durable authority rests less on recoverable biography than on accumulated martyr, military, dragon-slayer, royal, confessional, national, and transnational meanings; imagery and narrative layers should be compared without forcing a single origin, while symbolic reuse does not verify late legend. No settled contradiction found. George's existence and identity, the unnamed Nicomedian martyr link, relic claims, dragon-story origins, transmission routes, and precise Garter chronology remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22436,6 +22440,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | VOL.114心内科｜不就是高血压么？你别吓唬我了！不量血压就不高 长期吃药没必要？
 
 Added source `vol-114-xinneike-bujiushi-gaoxueya-me-ni-bie-xiahu-wo-le-bu-liang-xueya-jiu-bu-gao-changqi-chiyao-mei-biyao-lr7xq6xsfudvmhy9ucz29yitcex1`; created `SunZhijunCardiology` and `HypertensionDiagnosisAndTargets`; and updated `HypertensionLongTermManagement`, `HomeBloodPressureMeasurement`, `AntihypertensiveMedicationAdherence`, and `HypertensionTargetOrganDamage` from their complete bounded source sets. Core synthesis: hypertension care starts by distinguishing a transient reading from a sustained pattern, then joins individualized targets, reliable home measurement, continuous and sometimes combination medication, laboratory review, feasible lifestyle support, and risk-based follow-up to prevent silent multi-organ damage. No settled contradiction found. Exact thresholds, targets, prevalence estimates, device accuracy, medication combinations, pregnancy restrictions, exercise limits, follow-up intervals, and wearable claims remain source-scoped public education. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8119
+wiki_total_pages: 8121
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "HeroReturnWithBoon"
     title: "Hero Return With Boon / 英雄携赐归来"
     url: "/wiki/concepts/heroreturnwithboon/"
+  - key: "HeroicLastStandMyth"
+    title: "Heroic Last Stand Myth"
+    url: "/wiki/concepts/heroiclaststandmyth/"
   - key: "HeroicResistanceViolenceAmbiguity"
     title: "Heroic Resistance-Violence Ambiguity"
     url: "/wiki/concepts/heroicresistanceviolenceambiguity/"

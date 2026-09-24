@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1993
+topic_total_pages: 1995
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -91,6 +91,9 @@ topic_concepts:
   - key: "BattlefieldEncirclementLogistics"
     title: "Battlefield Encirclement Logistics / 战场围困与断粮"
     url: "/wiki/concepts/battlefieldencirclementlogistics/"
+  - key: "BattlefieldReconstructionUnderUncertainty"
+    title: "Battlefield Reconstruction Under Uncertainty"
+    url: "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
   - key: "BelleEpoque"
     title: "Belle Epoque / 美好年代"
     url: "/wiki/concepts/belleepoque/"
@@ -4599,6 +4602,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "453-custers-last-stand-the-final-showdown-part-8-glt8261745977"
+    title: "453. Custer's Last Stand: The Final Showdown (Part 8)"
+    url: "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
   - key: "454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583"
     title: "454. Fall of the Sioux: Death of Crazy Horse (Part 1)"
     url: "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"

@@ -1103,6 +1103,10 @@
     "title": "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！",
     "url": "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"
   },
+  "453-custers-last-stand-the-final-showdown-part-8-glt8261745977": {
+    "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
+    "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+  },
   "454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583": {
     "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
     "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
@@ -8427,6 +8431,10 @@
     "title": "Battle of Lesnaya / 列斯纳亚战役",
     "url": "/wiki/entities/battleoflesnaya/"
   },
+  "BattleOfLittleBighorn": {
+    "title": "Battle of the Little Bighorn",
+    "url": "/wiki/entities/battleoflittlebighorn/"
+  },
   "BattleOfLoos": {
     "title": "Battle of Loos",
     "url": "/wiki/entities/battleofloos/"
@@ -8486,6 +8494,10 @@
   "BattlefieldInformationControl": {
     "title": "Battlefield Information Control / 战场信息控制",
     "url": "/wiki/concepts/battlefieldinformationcontrol/"
+  },
+  "BattlefieldReconstructionUnderUncertainty": {
+    "title": "Battlefield Reconstruction Under Uncertainty",
+    "url": "/wiki/concepts/battlefieldreconstructionunderuncertainty/"
   },
   "BattlefieldVictoryToFoundingOrder": {
     "title": "战场胜利到建国秩序 / Battlefield Victory To Founding Order",
@@ -25707,6 +25719,10 @@
     "title": "Frederick AI",
     "url": "/wiki/entities/frederickai/"
   },
+  "FrederickBenteen": {
+    "title": "Frederick Benteen",
+    "url": "/wiki/entities/frederickbenteen/"
+  },
   "FreeCashFlowIndexing": {
     "title": "Free Cash Flow Indexing",
     "url": "/wiki/concepts/freecashflowindexing/"
@@ -26535,6 +26551,10 @@
     "title": "Galileo Galilei / 伽利略",
     "url": "/wiki/entities/galileogalilei/"
   },
+  "GallLakota": {
+    "title": "Gall",
+    "url": "/wiki/entities/galllakota/"
+  },
   "GallagherInsurance": {
     "title": "Gallagher",
     "url": "/wiki/entities/gallagherinsurance/"
@@ -27282,6 +27302,10 @@
   "GeorgeArmistead": {
     "title": "George Armistead",
     "url": "/wiki/entities/georgearmistead/"
+  },
+  "GeorgeArmstrongCuster": {
+    "title": "George Armstrong Custer",
+    "url": "/wiki/entities/georgearmstrongcuster/"
   },
   "GeorgeCottrell": {
     "title": "George Cottrell",
@@ -30566,6 +30590,10 @@
   "Herodotus": {
     "title": "Herodotus",
     "url": "/wiki/entities/herodotus/"
+  },
+  "HeroicLastStandMyth": {
+    "title": "Heroic Last Stand Myth",
+    "url": "/wiki/concepts/heroiclaststandmyth/"
   },
   "HeroicResistanceViolenceAmbiguity": {
     "title": "Heroic Resistance-Violence Ambiguity",
@@ -42982,6 +43010,10 @@
   "MarcusLiviusDrusus": {
     "title": "Marcus Livius Drusus / 马库斯·李维乌斯·德鲁苏斯",
     "url": "/wiki/entities/marcusliviusdrusus/"
+  },
+  "MarcusReno": {
+    "title": "Marcus Reno",
+    "url": "/wiki/entities/marcusreno/"
   },
   "MargaretMead": {
     "title": "Margaret Mead / 米德",
