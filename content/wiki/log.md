@@ -22320,3 +22320,11 @@ Added source `the-science-of-hunger-medications-to-combat-obesity-dr-zachary-kni
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 461. Dragons
+
+Added source `461-dragons-glt6416738853`; created `HouseOfTheDragon`, `WesternDragonCulturalSynthesis`, and `DragonAsDangerousPower`; and updated `JRRTolkien`, `GeorgeRRMartin`, `GameOfThrones`, `ASongOfIceAndFire`, and `NorseMythology` from their complete bounded source sets. Core synthesis: the familiar Western dragon is a medieval and modern fusion of northern wyrms, classical drakons, biblical and Christian demonology, art, heraldry, and print; Tolkien centers greed and the corrupting hoard, while Martin's dragons become instruments of dynastic domination and catastrophic force. No settled contradiction found. Universal-dragon, fossil-memory, psychological, climate, and nuclear readings remain partial or source-scoped, and Chinese dragon traditions retain a distinct rain, prosperity, harmony, and legitimacy profile. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

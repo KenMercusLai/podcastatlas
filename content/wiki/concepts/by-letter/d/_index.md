@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8091
+wiki_total_pages: 8093
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -932,6 +932,9 @@ wiki_pages:
   - key: "DraftWheel"
     title: "Draft Wheel"
     url: "/wiki/concepts/draftwheel/"
+  - key: "DragonAsDangerousPower"
+    title: "Dragon as Dangerous Power"
+    url: "/wiki/concepts/dragonasdangerouspower/"
   - key: "DragonNationalSymbolInvention"
     title: "Dragon National Symbol Invention / 龙的民族象征发明"
     url: "/wiki/concepts/dragonnationalsymbolinvention/"

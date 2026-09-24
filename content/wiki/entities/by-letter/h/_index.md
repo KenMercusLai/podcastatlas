@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10717
+wiki_total_pages: 10718
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -695,6 +695,9 @@ wiki_pages:
   - key: "HouseOfMedici"
     title: "House of Medici / 美第奇家族"
     url: "/wiki/entities/houseofmedici/"
+  - key: "HouseOfTheDragon"
+    title: "House of the Dragon"
+    url: "/wiki/entities/houseofthedragon/"
   - key: "HoustonDynamo"
     title: "Houston Dynamo"
     url: "/wiki/entities/houstondynamo/"

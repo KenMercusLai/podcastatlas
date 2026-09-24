@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [461. Dragons](sources/461-dragons-glt6416738853.md) — The Rest Is History episode tracing the Western dragon from northern wyrms, classical drakons, and Christian demonology to medieval visual standardization and modern political power.
 - [The Science of Hunger & Medications to Combat Obesity | Dr. Zachary Knight](sources/the-science-of-hunger-medications-to-combat-obesity-dr-zachary-knight-scim7873255890.md) — Huberman Lab interview on predictive hunger and thirst control, leptin and melanocortin circuits, obesity biology, ultra-processed food, dopamine learning, and GLP-1 pharmacology.
 - [VOL.118你见过深夜的ICU吗？打破你的刻板印象](sources/lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm.md) — 这病说来话长 episode on ICU time-buying, admission benefit, patient memory, narrative medicine, invisible care work, and sponsor-qualified life-stage insurance planning.
 - [462. St George: Dragon-Slayer](sources/462-st-george-dragon-slayer-glt5334319363.md) — The Rest Is History episode separating St George's uncertain martyr core from dragon-slayer imagery, Garter patronage, Protestant recoding, and modern symbolic reuse.
@@ -2811,6 +2812,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Exercise & Eat for Optimal Health & Longevity | Dr. Gabrielle Lyon](sources/how-to-exercise-eat-for-optimal-health-longevity-dr-gabrielle-lyon-scim2049739871.md) — Huberman Lab interview on skeletal muscle as metabolic and functional reserve, protein quality and distribution, resistance training, aging, supplements, GLP-1 context, and adherence.
 
 ## Entities
+- [House of the Dragon](entities/HouseOfTheDragon.md) — Television fantasy drama framing dragons as dynastic strategic assets and revising their familiar screen body plan.
 - [Zachary Knight](entities/ZacharyKnight.md) — UCSF physiology researcher explaining predictive hunger and thirst control, appetite circuitry, obesity biology, and GLP-1 pharmacology.
 - [谢为 / Xie Wei (insurance broker)](entities/XieWeiInsurance.md) — Sponsor-linked 小雨伞 broker explaining life-stage coverage, channel differences, health disclosure, and claims services.
 - [St George](entities/StGeorge.md) — Historically uncertain martyr whose layered afterlife joins soldier sainthood, dragon-slaying, English patronage, and transnational symbolic reuse.
@@ -13541,6 +13543,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabrielle Lyon](entities/GabrielleLyon.md) — Physician and Huberman Lab guest presenting a muscle-centered framework for metabolic health, nutrition, training, aging, and resilience.
 
 ## Concepts
+- [Western Dragon Cultural Synthesis](concepts/WesternDragonCulturalSynthesis.md) — Accretion of northern wyrm, classical drakon, Christian demon, medieval artistic, heraldic, and print traditions into the familiar Western dragon.
+- [Dragon as Dangerous Power](concepts/DragonAsDangerousPower.md) — Pattern linking dragons to corrupting hoards, political domination, catastrophic force, and anxiety about power's abuse.
 - [Predictive Homeostatic Control](concepts/PredictiveHomeostaticControl.md) — Neural-control model in which rapid food and oral-fluid cues forecast slower energy and hydration correction.
 - [Intensive Care as Time-Buying](concepts/IntensiveCareAsTimeBuying.md) — ICU model of supporting failing organs so acute, potentially reversible illness has time to respond to treatment.
 - [Narrative Medicine](concepts/NarrativeMedicine.md) — Practice joining clinical care with patient, family, and clinician experience through attentive listening and truthful storytelling.

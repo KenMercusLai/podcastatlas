@@ -2,35 +2,67 @@
 title: "J.R.R. Tolkien / 托尔金"
 type: entity
 tags: [writer, fantasy, philology, biography]
-sources: [36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522, ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw, 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204, 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489, 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403, 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]
-last_updated: 2026-08-06
+sources:
+  - 36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522
+  - ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw
+  - 60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204
+  - 93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489
+  - 142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403
+  - 31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848
+  - 461-dragons-glt6416738853
+last_updated: 2026-09-25
+knowledge_schema: synthesis-v1
 ---
 
 # J.R.R. Tolkien / 托尔金
 
-J.R.R. Tolkien is the final major writer in [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]]. The episode treats him as comparatively normal among the featured authors, but still full of usable contradictions: anti-Nazi in response to German publication pressure, culturally anti-French, committed to English myth-making, philologically precise, frugal, machine-skeptical, and bad enough at driving that his wife avoided his car.
+## Overview
 
-The source connects Tolkien's fantasy writing to cultural compensation. His dislike of the Norman conquest and desire for an English mythology are presented as part of the background for *The Lord of the Rings*, while his self-description as a Hobbit ties the work to gardens, trees, pipe-smoking, food, and suspicion of mechanized modernity.
+J.R.R. Tolkien was a writer and philologist whose fantasy joined English myth-making, northern literature, linguistic craft, deep invented history, moral symbolism, and a suspicion of mechanized modernity.
 
-Tolkien also extends [[AuthorMythDeflation]] gently. The episode keeps his anti-Nazi reply and long marriage visible, but balances them with quirks, prejudices, language pedantry, tax complaints, and mutual criticism with [[CSLewis|C. S. Lewis / C.S. 刘易斯]].
+## Current Profile
 
-[[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] adds Tolkien as a quick example of hair and facial hair as character coding. The source uses bearded dwarves and beardless Hobbits to show how [[HairAsBiosocialSignal]] can become a compact fictional signal for species, temperament, and group identity.
+The current evidence presents Tolkien through both biography and literary inheritance. [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] treats him as anti-Nazi, culturally anti-French, linguistically exacting, frugal, machine-skeptical, committed to an English mythology, and personally idiosyncratic. [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] and [[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] place his work in broad Norse and Celtic afterlives without reducing it to direct copying.
 
-[[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] adds a [[CelticMythology]] comparison. The episode names Tolkien among modern cultural afterlives shaped by Celtic atmosphere, philology, fairy material, and the desire to restore or invent national myth, while keeping the relationship broad rather than claiming direct one-to-one borrowing.
+[[461-dragons-glt6416738853]] sharpens his importance to modern dragon imagination. Tolkien's reading of Fafnir, the Beowulf dragon, and northern wyrms informs Smaug's intelligence, treasure guarding, bodily vulnerability, and destructive rage. “Dragon sickness” makes greed not merely something the dragon possesses but a corrupting force that can spread to people around the hoard.
 
-[[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] adds a [[NorseMythology]] and [[PoeticEdda|Edda]] layer. The source connects Tolkien's fantasy world to [[Ragnarok|Ragnarok]], dwarves, elves, northern fate, and [[NorthernCourage|northern courage]], where action matters even when the end is known.
+Across the comparison sources, Tolkien remains a model of worldbuilding that reveals only part of a much larger past. [[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] contrasts that philological myth-making with Martin's mixed political and historiographic layering, while [[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] contrasts it with Le Guin's anthropological estrangement.
 
-[[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] uses Tolkien as a comparison point for [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]]: both worlds feel larger than their current plot because they have deep prehistory, but the Martin episode focuses more on mixed political history, unreliable in-world records, and [[HistoricalFantasySourceLayering]] than on Tolkien's philological myth-making.
+## Key Characteristics
 
-[[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] uses Tolkien as a comparison point for [[UrsulaKLeGuin|Ursula K. Le Guin / 厄休拉·勒古恩]]. The episode says Le Guin, like Tolkien, can build a vast world while showing only part of it, but the Le Guin branch emphasizes [[AnthropologicalScienceFictionWorldbuilding]], gender estrangement, and mythic contact politics rather than Tolkien's English myth-making project.
+- Philologist and fantasy writer committed to language-rich English myth-making.
+- Major modern transmitter and transformer of Norse and Old English literary material.
+- Author whose dragons join intelligence, treasure, greed, vulnerability, and catastrophic violence.
+- Worldbuilder whose invented history exceeds the portion visible in any one plot.
+- Machine-skeptical writer whose author image also includes domestic habits, prejudices, humor, and contradiction.
+- Comparative reference point for Martin's historical fantasy and Le Guin's anthropological science fiction.
 
-## Connections
-- [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] - source episode.
-- [[CSLewis|C. S. Lewis / C.S. 刘易斯]] - friend and fellow Inklings figure discussed in the episode.
-- [[CelticMythology]] and [[NorseMythology]] - later mythology episodes' comparison fields for fantasy afterlives.
-- [[PoeticEdda]], [[Ragnarok]], [[NorthernCourage]], and [[EpicModernAfterlife]] - EP269's Norse and epic-afterlife extension.
-- [[ASongOfIceAndFire|《冰与火之歌》 / A Song of Ice and Fire]] and [[HistoricalFantasySourceLayering]] - episode 31's comparison with Martin-style worldbuilding.
-- [[AuthorMythDeflation]] - great fantasy author made human through quirks and prejudices.
-- [[LiteraryGossipAsContext]] - biography and habit used as context for myth-making.
-- [[ClassicReadingComplexity]] - adjacent frame for reading fantasy and author image without simple labels.
-- [[HairAsBiosocialSignal]] - later source's use of hair and beards as fantasy-species coding.
+## Evidence
+
+- Author profile: [[60-xianliao-weida-zuojiamen-de-bagua-di-yi-dan-648693204]] supplies the anti-Nazi publishing exchange, English-myth project, language precision, anti-mechanist habits, tax joke, driving, and friendship with C. S. Lewis.
+- Northern and epic inheritance: [[ep269-cong-manwei-yuzhou-dao-aodesai-weihe-zongyao-fanpai-yingxiong-shishi-ltklotheqpup6oamyflfzpxtipsw]] connects Tolkien to Edda materials, fate, species, worldbuilding, and “northern courage.”
+- Dragon transformation: [[461-dragons-glt6416738853]] traces Smaug and “dragon sickness” through Fafnir, Beowulf, treasure guarding, cunning, weak spots, and avarice.
+- Broader mythic afterlife: [[142-kaierte-shenhua-gushi-diyidan-deluyi-hui-mengjian-bianxing-yang-ma-865479403]] places Tolkien in a broad Celtic atmosphere and national-myth comparison while avoiding one-to-one source claims.
+- Fantasy comparison: [[31-bing-yu-huo-zhi-ge-suiran-cong-bu-zicheng-lishi-594509848]] compares Tolkien's deep prehistory with Martin's recombined historical world; [[36-heian-de-zuoshou-liufang-yu-ai-de-weilai-wangshi-605254522]] compares his partial-world revelation with Le Guin.
+- Character coding: [[93-liaoliao-toufa-tu-le-jiu-hui-bian-qiang-ma-718794489]] uses bearded dwarves and beardless Hobbits as a compact example of hair signaling fictional species and temperament.
+
+## Qualifications
+
+The sources combine literary analysis, modern reception, broad influence claims, and anecdotal biography. Celtic and Norse resemblance does not prove a single direct source for each fictional element. The gossip episode explicitly treats many anecdotes lightly, and the dragon episode's moral reading of avarice is an interpretive synthesis rather than an exhaustive account of Tolkien's work.
+
+## What Changed
+
+- Added Tolkien's role in consolidating the modern Western dragon through Smaug and northern literature.
+- Made greed and “dragon sickness” part of the current profile rather than a peripheral fantasy reference.
+- Migrated the page to the synthesis-first schema using its complete prior source inventory.
+
+## Relationships
+
+- [[NorseMythology]] - major mythic and literary inheritance for names, species, fate, and dragons.
+- [[WesternDragonCulturalSynthesis]] - layered tradition Tolkien transformed for modern fantasy.
+- [[DragonAsDangerousPower]] - moral pattern connecting the dragon hoard to corrupting greed.
+- [[CSLewis]] - friend, fellow Inkling, critic, and parallel user of dragon transformation.
+- [[GeorgeRRMartin]] - later fantasy author compared through deep world history and dragon meaning.
+- [[HistoricalFantasySourceLayering]] - Martin-centered method contrasted with Tolkien's philological myth-making.
+- [[AuthorMythDeflation]] - frame that keeps Tolkien's achievements beside quirks and prejudices.
+- [[HairAsBiosocialSignal]] - framework using Tolkien's species design as a fictional coding example.
