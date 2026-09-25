@@ -5151,6 +5151,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/administrativerenamingoverreach/"
     },
+    "AdolescentAutonomyScaffolding": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/adolescentautonomyscaffolding/"
+    },
     "AdolescentDigitalSensitivePeriod": {
       "episode_count": 1,
       "show_count": 1,
@@ -5166,6 +5182,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/adolescentdigitalsensitiveperiod/"
+    },
+    "AdolescentRiskCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/adolescentriskcommunication/"
     },
     "AdolescentSchoolRefusalMentalHealth": {
       "episode_count": 1,
@@ -15875,6 +15907,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/bondedwarehousecrossborderimport/"
     },
+    "BonnieHalpernFelsher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/bonniehalpernfelsher/"
+    },
     "BookstoreSerendipity": {
       "episode_count": 5,
       "show_count": 5,
@@ -18743,9 +18791,9 @@
       "url": "/wiki/concepts/cannabismedicaluseevidenceboundary/"
     },
     "CannabisPsychosisCausalityBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -18753,9 +18801,16 @@
           "show": "Huberman Lab",
           "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
           "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        },
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/cannabispsychosiscausalityboundary/"
     },
     "CannabisStrainLabelEvidenceBoundary": {
@@ -40060,9 +40115,9 @@
       "url": "/wiki/concepts/electrolytedrinkuseboundary/"
     },
     "ElectronicCigaretteRisk": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -40070,9 +40125,16 @@
           "show": "这病说来话长",
           "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
           "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        },
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/electroniccigaretterisk/"
     },
     "ElevenLabs": {
@@ -126506,9 +126568,9 @@
       "url": "/wiki/entities/smileaction/"
     },
     "SmokingCessationSupport": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -126516,9 +126578,16 @@
           "show": "这病说来话长",
           "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
           "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        },
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/smokingcessationsupport/"
     },
     "Snap": {
@@ -154036,9 +154105,9 @@
       "url": "/wiki/concepts/youthprecautionaryculture/"
     },
     "YouthTobaccoInitiationPrevention": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljG7oQXs6D_N1--U7fZcYl7XDbXn [ljG7oQXs6D_N1--U7fZcYl7XDbXn].md",
@@ -154046,9 +154115,16 @@
           "show": "这病说来话长",
           "title": "VOL.164世界无烟日｜电子烟的危害远超想象！医生亲述：年轻患者气道比老烟民更糟",
           "url": "/wiki/sources/vol-164-shijie-wuyanri-dianzishi-yande-weihai-yuan-chao-xiangxiang-yisheng-qinshu-nianqing-huanzhe-qidao-bi-laoyanmin-gengzao-ljg7oqxs6d_n1-u7fzcyl7xdbxn/"
+        },
+        {
+          "episode_file": "SCIM9155116429 [SCIM9155116429].md",
+          "key": "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429",
+          "show": "Huberman Lab",
+          "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+          "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/youthtobaccoinitiationprevention/"
     },
     "YuChengLateHan": {

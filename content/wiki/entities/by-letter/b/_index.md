@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10792
+wiki_total_pages: 10793
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -731,6 +731,9 @@ wiki_pages:
   - key: "BondOfAssociation"
     title: "Bond of Association"
     url: "/wiki/entities/bondofassociation/"
+  - key: "BonnieHalpernFelsher"
+    title: "Bonnie Halpern-Felsher"
+    url: "/wiki/entities/bonniehalpernfelsher/"
   - key: "Bookface"
     title: "Bookface"
     url: "/wiki/entities/bookface/"

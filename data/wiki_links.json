@@ -4187,9 +4187,17 @@
     "title": "Adolescent Alienation Recognition",
     "url": "/wiki/concepts/adolescentalienationrecognition/"
   },
+  "AdolescentAutonomyScaffolding": {
+    "title": "Adolescent Autonomy Scaffolding",
+    "url": "/wiki/concepts/adolescentautonomyscaffolding/"
+  },
   "AdolescentDigitalSensitivePeriod": {
     "title": "Adolescent Digital Sensitive Period",
     "url": "/wiki/concepts/adolescentdigitalsensitiveperiod/"
+  },
+  "AdolescentRiskCommunication": {
+    "title": "Adolescent Risk Communication",
+    "url": "/wiki/concepts/adolescentriskcommunication/"
   },
   "AdolescentSchoolRefusalMentalHealth": {
     "title": "Adolescent School-Refusal Mental Health / 青少年厌学休学心理困境",
@@ -9854,6 +9862,10 @@
   "BondedWarehouseCrossBorderImport": {
     "title": "Bonded Warehouse Cross-Border Import / 保税仓跨境电商",
     "url": "/wiki/concepts/bondedwarehousecrossborderimport/"
+  },
+  "BonnieHalpernFelsher": {
+    "title": "Bonnie Halpern-Felsher",
+    "url": "/wiki/entities/bonniehalpernfelsher/"
   },
   "BonusShareSplitMisreading": {
     "title": "Bonus Share and Stock Split Misreading / 拆股送股误读",
@@ -81914,6 +81926,10 @@
   "vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982": {
     "title": "Vans、匡威风光不再，经典帆布鞋为什么卖不动了？",
     "url": "/wiki/sources/vans-kuangwei-fengguang-buzai-jingdian-fanbuxie-weishenme-maibudongle-1006742982/"
+  },
+  "vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429": {
+    "title": "Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher",
+    "url": "/wiki/sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429/"
   },
   "venezuelas-recent-economic-history-update": {
     "title": "Venezuela's recent economic history (Update)",

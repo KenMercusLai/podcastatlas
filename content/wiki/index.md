@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher](sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429.md) — Huberman Lab interview on adolescent autonomy, youth vaping and cannabis risk, credible prevention messages, quitting support, and graduated harm reduction.
 - [GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory](sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704.md) — Huberman Lab sleep-series episode on pre-learning encoding, post-learning consolidation, motor skill, associative creativity, institutional schedules, and orthosomnia.
 - [443. Lord Byron: Death of a Vampire (Part 4)](sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776.md) — The Rest Is History on Byron's vampire afterlife, European celebrity, Italian exile, radical politics, Greek commitment, death, and contested reputation.
 - [Google投資A24，AI將成為好萊塢的未來？](sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594.md) — 端聞 episode on the Google DeepMind–A24 partnership, feature-film AI limits, creative-process data, brand conflict, and fear-driven adoption.
@@ -2852,6 +2853,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Bonnie Halpern-Felsher](entities/BonnieHalpernFelsher.md) — Adolescent-health researcher connecting development, product design, family context, prevention, cessation, and harm reduction.
 - [Teresa Guiccioli](entities/TeresaGuiccioli.md) — Byron's sustained late-life partner and link to the Gamba family and Italian revolutionary politics.
 - [Allegra Byron](entities/AllegraByron.md) — Daughter of Lord Byron and Claire Clairmont whose short life exposes the family cost beneath the Romantic celebrity circle.
 - [Greek War of Independence](entities/GreekWarOfIndependence.md) — Conflict in which Byron converted money, celebrity, liaison work, and bodily risk into philhellenic support.
@@ -13658,6 +13660,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Adolescent Risk Communication](concepts/AdolescentRiskCommunication.md) — Credible, repeated youth dialogue that joins prevention, immediate relevance, quitting support, and safety planning.
+- [Adolescent Autonomy Scaffolding](concepts/AdolescentAutonomyScaffolding.md) — Family support model balancing growing agency with monitoring, conflict management, and reachable adult backup.
 - [Aristocratic Vampire](concepts/AristocraticVampire.md) — Gothic type created when Polidori transformed Byron's alluring, scandalous aristocratic persona into a fictional predator.
 - [Byronic Celebrity Politics](concepts/ByronicCelebrityPolitics.md) — Conversion of literary scandal and public persona into cultural, financial, diplomatic, and political capacity.
 - [AI Creative Process Datafication / AI創作流程數據化](concepts/AICreativeProcessDatafication.md) — Governance risk created when project selection, discarded options, aesthetic judgment, and production decisions become learnable workflow data.

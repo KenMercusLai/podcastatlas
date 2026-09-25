@@ -22639,3 +22639,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher
+
+Added source `vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429`; created `BonnieHalpernFelsher`, `AdolescentRiskCommunication`, and `AdolescentAutonomyScaffolding`; updated `YouthTobaccoInitiationPrevention`, `ElectronicCigaretteRisk`, `SmokingCessationSupport`, `CannabisPsychosisCausalityBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: adolescent risk behavior reflects development, autonomy, peers, family context, commercial targeting, product design, stress, and addiction; credible prevention therefore combines accurate non-moralizing conversation, environmental controls, cessation help, and graduated harm reduction. No settled contradiction found. The episode's cannabis account increases concern about a causal trigger in predisposed youth without proving universal one-way causation, while vaping prevalence, nicotine dose equivalence, nicotine-pouch uptake, under-18 nicotine-replacement dosing, psychosis frequency and reversibility, and fentanyl-test performance remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8165
+wiki_total_pages: 8167
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -248,9 +248,15 @@ wiki_pages:
   - key: "AdolescentAlienationRecognition"
     title: "Adolescent Alienation Recognition"
     url: "/wiki/concepts/adolescentalienationrecognition/"
+  - key: "AdolescentAutonomyScaffolding"
+    title: "Adolescent Autonomy Scaffolding"
+    url: "/wiki/concepts/adolescentautonomyscaffolding/"
   - key: "AdolescentDigitalSensitivePeriod"
     title: "Adolescent Digital Sensitive Period"
     url: "/wiki/concepts/adolescentdigitalsensitiveperiod/"
+  - key: "AdolescentRiskCommunication"
+    title: "Adolescent Risk Communication"
+    url: "/wiki/concepts/adolescentriskcommunication/"
   - key: "AdolescentSchoolRefusalMentalHealth"
     title: "Adolescent School-Refusal Mental Health / 青少年厌学休学心理困境"
     url: "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
