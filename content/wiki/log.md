@@ -22575,3 +22575,11 @@ Added source `guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | Protocols to Strengthen & Pain Proof Your Back
+
+Added source `protocols-to-strengthen-pain-proof-your-back-scim8264963647`; updated `StuartMcGill`, `MechanismBasedBackPainAssessment`, `SpineSparingCoreStability`, `LumbarDiscHerniation`, `SpineRehabilitationProgression`, `GluteMediusPelvicControl`, `CervicalCurvePostureManagement`, and `MovementPracticeAsAwareness` from their complete bounded source sets. Core synthesis: back resilience depends on coordinated trunk, neck, pelvis, hip, foot, breathing, and movement habits, while exercise direction, loading, symptoms, and diagnosis determine whether a protocol is appropriate. No settled contradiction found. The host's extension response is an uncontrolled personal case, and body-type, decompression, inversion, neck, toe, psoas, breathing, dose, and outcome claims remain source-scoped public education rather than individualized medical guidance. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

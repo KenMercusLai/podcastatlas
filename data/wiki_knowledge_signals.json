@@ -20844,9 +20844,9 @@
       "url": "/wiki/concepts/cerebrovasculareventrecognition/"
     },
     "CervicalCurvePostureManagement": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpQFt6DbVU0YYO90Rc0c-1WYrGY2 [lpQFt6DbVU0YYO90Rc0c-1WYrGY2].md",
@@ -20854,9 +20854,16 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/cervicalcurveposturemanagement/"
     },
     "CesarMillan": {
@@ -55539,9 +55546,9 @@
       "url": "/wiki/entities/gloriasteinem/"
     },
     "GluteMediusPelvicControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4318497319 [SCIM4318497319].md",
@@ -55549,9 +55556,16 @@
           "show": "Huberman Lab",
           "title": "Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere",
           "url": "/wiki/sources/build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/glutemediuspelviccontrol/"
     },
     "GlycationSkinAnxiety": {
@@ -87642,9 +87656,9 @@
       "url": "/wiki/entities/luluplasticsurgeon/"
     },
     "LumbarDiscHerniation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -87659,9 +87673,16 @@
           "show": "Huberman Lab",
           "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
           "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/lumbardischerniation/"
     },
     "LumbarNeutralPosition": {
@@ -91737,9 +91758,9 @@
       "url": "/wiki/concepts/meaningthroughexperience/"
     },
     "MechanismBasedBackPainAssessment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9911539455 [SCIM9911539455].md",
@@ -91747,9 +91768,16 @@
           "show": "Huberman Lab",
           "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
           "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/mechanismbasedbackpainassessment/"
     },
     "MechanismOutcomeEvidenceHierarchy": {
@@ -96029,9 +96057,9 @@
       "url": "/wiki/concepts/mourningdiplomaticrestraint/"
     },
     "MovementPracticeAsAwareness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -96039,9 +96067,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/movementpracticeasawareness/"
     },
     "MovementScreenScoring": {
@@ -127699,9 +127734,9 @@
       "url": "/wiki/concepts/spineloadtippingpoint/"
     },
     "SpineRehabilitationProgression": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "lkVJQ45DUKdjpesxikWEC0Zrglmg [lkVJQ45DUKdjpesxikWEC0Zrglmg].md",
@@ -127723,15 +127758,22 @@
           "show": "这病说来话长",
           "title": "VOL.123医生，我这脖子疼和腰疼还有救吗？😭",
           "url": "/wiki/sources/vol-123-yisheng-wo-zhe-bozi-teng-he-yaoteng-haiyou-jiu-ma-lpqft6dbvu0yyo90rc0c-1wyrgy2/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/spinerehabilitationprogression/"
     },
     "SpineSparingCoreStability": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9911539455 [SCIM9911539455].md",
@@ -127739,9 +127781,16 @@
           "show": "Huberman Lab",
           "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
           "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/spinesparingcorestability/"
     },
     "SpiroAgnew": {
@@ -129883,9 +129932,9 @@
       "url": "/wiki/concepts/structuredgrievingpractice/"
     },
     "StuartMcGill": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM9911539455 [SCIM9911539455].md",
@@ -129893,9 +129942,16 @@
           "show": "Huberman Lab",
           "title": "Build a Strong, Pain-Proof Back | Dr. Stuart McGill",
           "url": "/wiki/sources/build-a-strong-pain-proof-back-dr-stuart-mcgill-scim9911539455/"
+        },
+        {
+          "episode_file": "SCIM8264963647 [SCIM8264963647].md",
+          "key": "protocols-to-strengthen-pain-proof-your-back-scim8264963647",
+          "show": "Huberman Lab",
+          "title": "Protocols to Strengthen & Pain Proof Your Back",
+          "url": "/wiki/sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/stuartmcgill/"
     },
     "StuartMcMillan": {

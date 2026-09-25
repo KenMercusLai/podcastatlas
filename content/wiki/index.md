@@ -2842,6 +2842,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [457. Helen of Troy: Queen of the Greek Myths (Part 1)](sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674.md) — The Rest Is History episode on Helen's variant myths, dangerous beauty, agency, cult, and competing explanations of the Trojan War.
 - [The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez](sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714.md) — Huberman Lab interview on gut sensory epithelial cells, rapid neuropod-to-vagus signaling, nutrient preference, appetite, and the limits of broader gut-intuition claims.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
+- [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
 - [Eduard Habsburg](entities/EduardHabsburg.md) — Habsburg family member, author, and Hungarian ambassador interpreting dynastic history through Catholicism, subsidiarity, service, identity, and death.

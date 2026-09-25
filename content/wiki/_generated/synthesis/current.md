@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-25
-as_of_overview_commit: 12170dae36f2d610c44e8f45c0aea421e34d65e3
+as_of_overview_commit: 3bbe9b5d78fe446ca2e1ddc8b5b78c0561549688
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care become lived systems."
-episode_count: 2821
-source_count: 2821
-paragraph_count: 712
+episode_count: 2822
+source_count: 2822
+paragraph_count: 713
 topic_count: 9
 ---
 
@@ -75,14 +75,14 @@ Psychological interpretation depends on embodied regulation, relational safety, 
 
 ### Science, Health, and Climate
 
-Science and health literacy require mechanism, measurement, stage-specific interpretation, qualified care, urgent escalation where appropriate, and explicit uncertainty.
+Science and health literacy require mechanism, measurement, stage-specific interpretation, qualified care, urgent escalation, and explicit uncertainty.
 
 - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|The Walker Huberman Lab sleep-series finale]] adds a dream-science branch: [[DreamFunctionAndMeaning]] and [[SleepStageFunctionalArchitecture]] connect vivid REM dreaming with active visual, motor, memory, and emotion systems plus reduced executive control; [[NightmareImageryRehearsalTherapy]] and [[TargetedMemoryReactivation]] treat distressing memories as potentially updateable under bounded protocols; and [[LucidDreamingEvidenceBoundary]] separates verified awareness from unsettled control, induction, restorative cost, and benefit, while [[SleepAnxietyLoop]] keeps clock-checking and forced sleep inside a behavioral and clinical boundary. Evidence: [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]], [[AndrewHuberman]], [[MatthewWalker]], [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], [[LucidDreamingEvidenceBoundary]], [[SleepAnxietyLoop]], [[SleepSupplementBoundary]].
 - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523|The Ryan Soave Huberman Lab episode]] adds a staged addiction-recovery branch: [[AddictionAsAttemptedRelief]] treats compulsive substance or behavioral use as fast relief that can become a new source of stress and harm, while [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], and [[RecoveryCommunityConnection]] move recovery from stabilization toward tolerating discomfort, anticipating emotional hazards, practicing safer coping, and building purpose and connection beyond abstinence. Evidence: [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]], [[HubermanLab]], [[RyanSoave]], [[AddictionAsAttemptedRelief]], [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], [[RecoveryCommunityConnection]], [[DigitalSexualSubstituteRisk]].
 
 ### Work, Education, and Society
 
-Learning, work, participation, and care improve through active practice, trustworthy institutions, visible labor, judgment, durable support, and barrier-matched access.
+Learning, work, participation, care, and physical capacity improve through active practice, trustworthy institutions, visible labor, judgment, durable support, and barrier-matched access.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

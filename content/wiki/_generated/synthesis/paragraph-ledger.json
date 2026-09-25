@@ -712,12 +712,13 @@
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e",
       "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
-      "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c"
+      "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
+      "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 712
+    "paragraph_count": 713
   },
-  "overview_commit": "12170dae36f2d610c44e8f45c0aea421e34d65e3",
-  "overview_digest": "db6782542be89acb9e381f70eef31c7c368fa0d60b4e2e198dc8fa74f986d259",
+  "overview_commit": "3bbe9b5d78fe446ca2e1ddc8b5b78c0561549688",
+  "overview_digest": "4ca7826df3b2f69733ca5f22e2619215684838f1bde890ebeb2275264a0f4346",
   "paragraphs": [
     {
       "id": "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
@@ -21213,6 +21214,26 @@
         "MitochondrialLifestylePillars",
         "MuscleContractionGlucoseDisposal",
         "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211"
+      ]
+    },
+    {
+      "id": "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest spine-protocol source, [[protocols-to-strengthen-pain-proof-your-back-scim8264963647|Protocols to Strengthen & Pain Proof Your Back]], has [[AndrewHuberman]] translate [[StuartMcGill]]'s assessment-first work into a low-equipment menu spanning [[SpineSparingCoreStability]], [[LumbarDiscHerniation]], [[SpineRehabilitationProgression]], [[GluteMediusPelvicControl]], [[CervicalCurvePostureManagement]], and [[MovementPracticeAsAwareness]]. Its core synthesis is that the back is supported by coordinated trunk, neck, pelvis, hip, foot, breathing, and movement habits, but a protocol is useful only when its direction, load, and dose fit the likely mechanism and symptom response. No settled contradiction is recorded; Huberman's rapid response to Cobra-style extension is an uncontrolled personal case, while body-type heuristics, decompression, inversion, neck, toe, psoas, breathing, and exact dose claims remain source-scoped public education rather than individualized rehabilitation.",
+      "topic_scores": {
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CervicalCurvePostureManagement",
+        "GluteMediusPelvicControl",
+        "LumbarDiscHerniation",
+        "MovementPracticeAsAwareness",
+        "SpineRehabilitationProgression",
+        "SpineSparingCoreStability",
+        "StuartMcGill",
+        "protocols-to-strengthen-pain-proof-your-back-scim8264963647"
       ]
     }
   ],
