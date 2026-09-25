@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10780
+wiki_total_pages: 10782
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "HolidayInn"
     title: "Holiday Inn"
     url: "/wiki/entities/holidayinn/"
+  - key: "HolyRomanEmpire"
+    title: "Holy Roman Empire"
+    url: "/wiki/entities/holyromanempire/"
   - key: "HomeDepot"
     title: "Home Depot"
     url: "/wiki/entities/homedepot/"

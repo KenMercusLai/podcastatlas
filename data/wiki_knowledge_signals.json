@@ -11564,9 +11564,9 @@
       "url": "/wiki/entities/austriahungary/"
     },
     "AustroHungarianDualMonarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT6194086702 [GLT6194086702].md",
@@ -11581,9 +11581,16 @@
           "show": "The Rest Is History",
           "title": "467. The Murder of Franz Ferdinand: The Victim (Part 3)",
           "url": "/wiki/sources/467-the-murder-of-franz-ferdinand-the-victim-part-3-glt9071060087/"
+        },
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/austrohungariandualmonarchy/"
     },
     "AuthorCommercialFilmBalance": {
@@ -19960,9 +19967,9 @@
       "url": "/wiki/concepts/capturedopponenttalentincorporation/"
     },
     "CapuchinCrypt": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -19970,9 +19977,16 @@
           "show": "The Rest Is History",
           "title": "690. A Murderous Affair: Death at Mayerling (Part 2)",
           "url": "/wiki/sources/690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068/"
+        },
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/capuchincrypt/"
     },
     "Caratacus": {
@@ -39116,6 +39130,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/edouardphilippe/"
+    },
+    "EduardHabsburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/eduardhabsburg/"
     },
     "EducationMotivationArchitecture": {
       "episode_count": 1,
@@ -58690,9 +58720,9 @@
       "url": "/wiki/entities/habibaystartupembassyresident/"
     },
     "HabsburgDynasty": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7203783068 [GLT7203783068].md",
@@ -58707,9 +58737,16 @@
           "show": "The Rest Is History",
           "title": "689. A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
           "url": "/wiki/sources/689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702/"
+        },
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/habsburgdynasty/"
     },
     "HabsburgFederalReform": {
@@ -58727,6 +58764,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/habsburgfederalreform/"
+    },
+    "HabsburgMarriageDiplomacy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/habsburgmarriagediplomacy/"
     },
     "HackerHouseStartupInfrastructure": {
       "episode_count": 2,
@@ -63314,6 +63367,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/concepts/hollywoodnepotismnetworkadvantage/"
+    },
+    "HolyRomanEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/holyromanempire/"
     },
     "HomeBloodPressureMeasurement": {
       "episode_count": 2,
@@ -68617,6 +68686,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/concepts/imperialspoilsauction/"
+    },
+    "ImperialSubsidiarity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/imperialsubsidiarity/"
     },
     "ImperialTeacherHonorRitual": {
       "episode_count": 1,
@@ -90346,9 +90431,9 @@
       "url": "/wiki/entities/marialeopoldina/"
     },
     "MariaTheresa": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3119389535 [GLT3119389535].md",
@@ -90356,9 +90441,16 @@
           "show": "The Rest Is History",
           "title": "475. The French Revolution: Marie Antoinette (Part 1)",
           "url": "/wiki/sources/475-the-french-revolution-marie-antoinette-part-1-glt3119389535/"
+        },
+        {
+          "episode_file": "GLT9923460597 [GLT9923460597].md",
+          "key": "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597",
+          "show": "The Rest Is History",
+          "title": "445. The Habsburgs: Secrets of a Dynasty",
+          "url": "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/mariatheresa/"
     },
     "MariaTheresaTaler": {

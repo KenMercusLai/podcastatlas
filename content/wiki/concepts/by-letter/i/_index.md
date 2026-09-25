@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8149
+wiki_total_pages: 8151
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "ImperialSpoilsAuction"
     title: "Imperial Spoils Auction"
     url: "/wiki/concepts/imperialspoilsauction/"
+  - key: "ImperialSubsidiarity"
+    title: "Imperial Subsidiarity"
+    url: "/wiki/concepts/imperialsubsidiarity/"
   - key: "ImperialSymbolicStandardization"
     title: "Imperial Symbolic Standardization / 帝国符号标准化"
     url: "/wiki/concepts/imperialsymbolicstandardization/"

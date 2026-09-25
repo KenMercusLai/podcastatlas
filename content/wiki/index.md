@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [445. The Habsburgs: Secrets of a Dynasty](sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597.md) — The Rest Is History interview on Habsburg marriage diplomacy, Catholic family identity, layered imperial rule, succession, and the limits of a sympathetic dynastic interpretation.
 - [VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗](sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb.md) — 这病说来话长 episode on vascular-surgery symptom routing, imaging and treatment escalation, thrombosis, atherosclerosis, and misleading vessel-softening health products.
 - [446. Custer vs. Crazy Horse: Civil War (Part 1)](sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244.md) — The Rest Is History episode on Custer's youth, political contradictions, Civil War rise, theatrical command, military celebrity, and the strengths that may have prepared later overreach.
 - [Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means](sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211.md) — Huberman Lab interview on mitochondrial metabolic capacity, distributed movement, food quality, circadian eating, biomarker context, CGM feedback, and medical boundaries.
@@ -2842,6 +2843,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [Eduard Habsburg](entities/EduardHabsburg.md) — Habsburg family member, author, and Hungarian ambassador interpreting dynastic history through Catholicism, subsidiarity, service, identity, and death.
+- [Holy Roman Empire](entities/HolyRomanEmpire.md) — Elective imperial order central to the Habsburg ascent and the episode's retrospective layered-governance argument.
 - [Casey Means](entities/CaseyMeans.md) — Physician and metabolic-health educator connecting mitochondrial capacity, glucose regulation, lifestyle inputs, and contextual self-observation.
 - [Black Kettle](entities/BlackKettle.md) — Cheyenne peace leader whose village was attacked at Washita despite his negotiation-oriented position.
 - [Cheyenne People](entities/CheyennePeople.md) — Native people presented through changing Plains life, expansion pressure, political diversity, resistance, and village warfare.
@@ -13636,6 +13639,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Habsburg Marriage Diplomacy](concepts/HabsburgMarriageDiplomacy.md) — Dynastic use of marriage for alliance and inheritance, qualified by personal constraint, genetic risk, and succession failure.
+- [Imperial Subsidiarity](concepts/ImperialSubsidiarity.md) — Qualified Habsburg ideal of common rule with meaningful lower-level law, language, identity, and institutions.
 - [Vascular Surgery Symptom Routing / 血管外科症状分诊](concepts/VascularSurgerySymptomRouting.md) — Head-to-foot routing frame for vascular causes that can first resemble neurologic, orthopedic, respiratory, abdominal, pelvic, or urinary disease.
 - [Vascular Imaging and Treatment Escalation / 血管影像与治疗升级](concepts/VascularImagingTreatmentEscalation.md) — Staged relationship among ultrasound, contrast CT, angiography, conservative care, open surgery, and endovascular treatment.
 - [Vascular Health Marketing Boundary / 血管健康营销边界](concepts/VascularHealthMarketingBoundary.md) — Boundary against foods, alcohol, supplements, and creams marketed as ways to clean, soften, or reverse blood-vessel disease.

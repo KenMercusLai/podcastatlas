@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2003
+topic_total_pages: 2006
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -451,6 +451,9 @@ topic_concepts:
   - key: "HabsburgFederalReform"
     title: "Habsburg Federal Reform"
     url: "/wiki/concepts/habsburgfederalreform/"
+  - key: "HabsburgMarriageDiplomacy"
+    title: "Habsburg Marriage Diplomacy"
+    url: "/wiki/concepts/habsburgmarriagediplomacy/"
   - key: "HaijinAndMaritimeSmuggling"
     title: "Haijin and Maritime Smuggling"
     url: "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -565,6 +568,9 @@ topic_concepts:
   - key: "ImperialExplorationLogistics"
     title: "Imperial Exploration Logistics"
     url: "/wiki/concepts/imperialexplorationlogistics/"
+  - key: "ImperialSubsidiarity"
+    title: "Imperial Subsidiarity"
+    url: "/wiki/concepts/imperialsubsidiarity/"
   - key: "ImperialSymbolicStandardization"
     title: "Imperial Symbolic Standardization / 帝国符号标准化"
     url: "/wiki/concepts/imperialsymbolicstandardization/"
@@ -4605,6 +4611,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597"
+    title: "445. The Habsburgs: Secrets of a Dynasty"
+    url: "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"
   - key: "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244"
     title: "446. Custer vs. Crazy Horse: Civil War (Part 1)"
     url: "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"

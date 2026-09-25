@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8149
+wiki_total_pages: 8151
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "HabsburgFederalReform"
     title: "Habsburg Federal Reform"
     url: "/wiki/concepts/habsburgfederalreform/"
+  - key: "HabsburgMarriageDiplomacy"
+    title: "Habsburg Marriage Diplomacy"
+    url: "/wiki/concepts/habsburgmarriagediplomacy/"
   - key: "HackerHouseStartupInfrastructure"
     title: "Hacker House Startup Infrastructure"
     url: "/wiki/concepts/hackerhousestartupinfrastructure/"

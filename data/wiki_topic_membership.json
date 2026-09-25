@@ -1691,6 +1691,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244": [
     {
       "key": "history",
@@ -33529,6 +33536,18 @@
       "url": "/topics/history/"
     }
   ],
+  "HabsburgMarriageDiplomacy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HackerHouseStartupInfrastructure": [
     {
       "key": "economics",
@@ -37386,6 +37405,18 @@
     }
   ],
   "ImperialSelfCriticismEdict": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ImperialSubsidiarity": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
     {
       "key": "politics",
       "label": "Politics",

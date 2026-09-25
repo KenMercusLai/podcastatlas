@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2698
+topic_total_pages: 2700
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1588,6 +1588,9 @@ topic_concepts:
   - key: "H1BVisaCoalitionFaultLine"
     title: "H-1B Visa Coalition Fault Line"
     url: "/wiki/concepts/h1bvisacoalitionfaultline/"
+  - key: "HabsburgMarriageDiplomacy"
+    title: "Habsburg Marriage Diplomacy"
+    url: "/wiki/concepts/habsburgmarriagediplomacy/"
   - key: "HaijinAndMaritimeSmuggling"
     title: "Haijin and Maritime Smuggling"
     url: "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -1747,6 +1750,9 @@ topic_concepts:
   - key: "ImperialPrestigeVindication"
     title: "Imperial Prestige Vindication"
     url: "/wiki/concepts/imperialprestigevindication/"
+  - key: "ImperialSubsidiarity"
+    title: "Imperial Subsidiarity"
+    url: "/wiki/concepts/imperialsubsidiarity/"
   - key: "ImperialTourPoliticalTheater"
     title: "Imperial Tour Political Theater / 帝国巡游政治剧场"
     url: "/wiki/concepts/imperialtourpoliticaltheater/"

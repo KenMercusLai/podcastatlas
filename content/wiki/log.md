@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | 445. The Habsburgs: Secrets of a Dynasty
+
+Added source `445-the-habsburgs-secrets-of-a-dynasty-glt9923460597`; created `EduardHabsburg`, `HolyRomanEmpire`, `HabsburgMarriageDiplomacy`, and `ImperialSubsidiarity`; and updated `HabsburgDynasty`, `MariaTheresa`, `CapuchinCrypt`, and `AustroHungarianDualMonarchy` from their complete bounded source sets. Core synthesis: marriage, inheritance, Catholic family identity, and layered rule helped the Habsburgs assemble and govern plural territories, while close-kin marriage, selective autonomy, nationalism, coercion, and imperial counterexamples limit the guest's sympathetic seven-rule account. No settled contradiction found; marriage happiness, the Habsburg jaw, genealogy, funeral details, and modern-EU comparisons remain source-scoped, while the Americas, Dutch Revolt, Counter-Reformation violence, and Slavic exclusion remain explicit qualifications. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
+
 ## [2026-09-25] ingest | VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题
 
 Added source `vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu`; created `LiJingnan`, `MengJunIBDAdvocate`, `FuHaoranIBDAdvocate`, `ChenYanIBDDoctor`, `CCCFIBDFoundation`, `InflammatoryBowelDiseaseManagement`, and `IBDPatientEducationAndPeerSupport`; and updated `BowelSymptomTriage`, `ChronicDiseaseTreatmentAdherence`, and `ChronicIllnessQualityOfLife` from their complete bounded source sets. Core synthesis: IBD is a chronic immune-mediated category whose care seeks durable remission and preserved nutrition, function, schooling, work, and ordinary life through qualified diagnosis, long-term treatment, follow-up, shared decisions, and timely escalation; patient education, peers, families, clinicians, and nonprofit programs complement rather than replace clinical care. No settled contradiction found. The 傅皓然/傅浩然 name variation is recorded, and epidemiology, forecasts, treatment duration, medicine sequences, surgery trends, program reach, and personal outcomes remain source-scoped public education. The canonical `wiki/overview.md` was updated during ingest; the downstream synthesis-refresh workflow only read it.
@@ -22550,6 +22554,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 446. Custer vs. Crazy Horse: Civil War (Part 1)
 
 Added source `446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244`; updated `GeorgeArmstrongCuster`, `PhilipSheridan`, `HeroicLastStandMyth`, and `ChivalricRomanceWarMemory` from their complete bounded source sets. Core synthesis: Custer's Civil War boldness, theatrical visibility, and celebrity rested on genuine cavalry success but also reinforced habits that became dangerous under different conditions; the later Little Bighorn outcome is not treated as predetermined. No settled contradiction found; political inconsistency, repeated disciplinary reprieve, and the relationship between wartime success and later catastrophe remain explicit and source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis found no dirty topics and the global compaction gate was not due.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

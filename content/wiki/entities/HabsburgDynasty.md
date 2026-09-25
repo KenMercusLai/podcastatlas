@@ -5,7 +5,8 @@ tags: [dynasty, monarchy, europe, austria-hungary]
 sources:
   - 690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068
   - 689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702
-last_updated: 2026-08-28
+  - 445-the-habsburgs-secrets-of-a-dynasty-glt9923460597
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,15 +14,18 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Habsburg Dynasty is the ruling house whose late imperial fragility is dramatized through the [[MayerlingIncident]].
+The Habsburg Dynasty is the European ruling house whose marriage-led expansion, Catholic identity, imperial offices, layered territorial rule, and late succession crises connect the [[HolyRomanEmpire]] to [[AustriaHungary]] and the [[MayerlingIncident]].
 
 ## Current Profile
 
 The Mayerling sources use the dynasty as a family-state structure under strain. Part 1 shows how [[FranzJosephI]]'s duty, [[EmpressSisi]]'s restlessness, [[CrownPrinceRudolf]]'s formation, and the [[AustroHungarianDualMonarchy]] bind family life to imperial survival. Part 2 follows the same structure after Rudolf's death, when burial legitimacy, suppression, succession redirection, and later tragedies turn private catastrophe into Habsburg memory.
 
+The earlier survey episode adds the dynasty's longer operating pattern. Rudolph I's 1273 election opens the imperial ascent; [[HabsburgMarriageDiplomacy]] connects Burgundy, Spain, Hungary, and Bohemia; close-kin repetition helps extinguish the Spanish branch; and [[MariaTheresa]] turns another succession emergency into continuity. [[EduardHabsburg]] interprets Catholicism, [[ImperialSubsidiarity|subsidiarity]], law, and burial humility as family principles, but the hosts' counterexamples keep conquest, confessional coercion, Dutch revolt, nationalism, and unequal nationality settlements visible.
+
 ## Key Characteristics
 
 - The dynasty fuses family formation, imperial legitimacy, Catholic ritual, and succession expectation.
+- Marriage, inheritance, and elective imperial office expand the dynasty while close-kin repetition creates genetic and succession risk.
 - Rudolf's childhood and marriage show how an heir can be made public property before he has real governing power.
 - The dual monarchy preserves Habsburg rule while making nationalities and reform questions harder to contain.
 - The dynasty's response to Mayerling emphasizes burial legitimacy, public suppression, and symbolic repair.
@@ -36,15 +40,18 @@ The Mayerling sources use the dynasty as a family-state structure under strain. 
 - Ritual repair: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] describes Catholic burial management, Mary suppression, and the replacement of the hunting lodge with a Carmelite convent.
 - Succession redirection: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] says succession moves toward [[KarlLudwigOfAustria]] and then [[FranzFerdinand]].
 - Tragedy frame: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] links Sisi's 1898 murder and Franz Ferdinand's 1914 assassination to the later Habsburg narrative.
+- Expansion and succession: [[445-the-habsburgs-secrets-of-a-dynasty-glt9923460597]] links Rudolph I, Maximilian's Burgundian marriage, the Spanish-Austrian split, Spanish-line extinction, and Maria Theresa's recovery.
+- Family self-interpretation: [[445-the-habsburgs-secrets-of-a-dynasty-glt9923460597]] presents Catholic accountability, layered rule, law, service, courage, and death ritual as Habsburg principles while recording major counterexamples.
 
 ## Qualifications
 
-The page is not a full Habsburg dynastic history. It captures the sources' Mayerling-centered profile of family formation, constitutional strain, ritual repair, succession, and tragedy.
+The page is not a full Habsburg dynastic history. The long-range episode is narrated by a family member promoting a normative book, while the Mayerling sources concentrate on late-imperial crisis. Claims about benevolent rule, marriage happiness, Catholic cohesion, genetic inheritance, and continuity across imperial forms remain qualified by the sources' scope and perspective.
 
 ## What Changed
 
 - Added Part 1's heir-formation, family-distance, marriage, and dual-monarchy background.
 - Preserved Part 2's family catastrophe, public ritual, and succession-fragility synthesis.
+- Extended the profile backward to marriage-led expansion, the Spanish branch's extinction, Maria Theresa's recovery, and a qualified family account of imperial governance.
 
 ## Relationships
 
@@ -55,3 +62,7 @@ The page is not a full Habsburg dynastic history. It captures the sources' Mayer
 - [[EmpressSisi]] - empress whose grief and later murder extend the tragedy frame.
 - [[DynasticHeirRoleEntrapment]] - concept for the pressure placed on Rudolf before the deaths.
 - [[FranzFerdinand]] - later successor whose assassination closes the episode's long-shadow branch.
+- [[EduardHabsburg]] - modern family member and sympathetic interpreter of dynastic values.
+- [[HolyRomanEmpire]] - elective imperial order central to the dynasty's ascent.
+- [[HabsburgMarriageDiplomacy]] - expansion mechanism whose gains coexist with genetic and succession costs.
+- [[ImperialSubsidiarity]] - retrospective ideal of layered Habsburg rule.
