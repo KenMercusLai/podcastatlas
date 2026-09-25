@@ -2,6 +2,28 @@
   "claims": [
     {
       "global_candidate": true,
+      "id": "sleep-learning-needs-stage-and-institutional-boundaries",
+      "qualifications": [
+        "The episode is public sleep and learning education, not individualized sleep-medicine, school-policy, medical-training, athletic, psychiatric, or performance advice.",
+        "School, medical, athletic, weight-loss, tracker-belief, study-effect, replay-speed, spindle-localization, and creativity claims remain source-scoped because the supplied summary omits full methods and citations.",
+        "Caffeine, naps, circadian timing, quiet rest, and tracker changes may mitigate particular constraints but are not interchangeable substitutes for adequate sleep."
+      ],
+      "statement": "[[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+        "AndrewHuberman",
+        "MatthewWalker",
+        "MemoryConsolidationWindows",
+        "SleepStageFunctionalArchitecture",
+        "SleepSpindleSchemaFormation",
+        "PostPracticeMotorConsolidation",
+        "SleepAnxietyLoop",
+        "SubconsciousCreativeIncubation"
+      ]
+    },
+    {
+      "global_candidate": true,
       "id": "dream-science-needs-stage-treatment-and-evidence-boundaries",
       "qualifications": [
         "The episode is public sleep and dream education, not individualized sleep-medicine, psychiatric, neurologic, nightmare, menopause, supplement, or medication care.",

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
       "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
       "8baf174eacb1048196ed3821aabcac8d88484469d6c59085b3d0968ea1845d0c",
       "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
@@ -717,11 +718,37 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 715
+    "paragraph_count": 716
   },
-  "overview_commit": "249be9a6d38a394f6cd76c3616cd5b199679b180",
-  "overview_digest": "a34a1f7000c9c7f0ea74b1c25905c342fb928c80507aada49ecdfa7d06dfd8f4",
+  "overview_commit": "add59b38c9710bfc194e82636b8bc2ca0ef703e3",
+  "overview_digest": "418a425e47db92fbb234563bacdfe7a5a82fed8f27ff3121828fb3395ffa6472",
   "paragraphs": [
+    {
+      "id": "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The newest sleep-and-learning source, [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory]], has [[AndrewHuberman]] and [[MatthewWalker]] connect [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SchoolLearningStateDesign]], [[SleepAnxietyLoop]], and [[SubconsciousCreativeIncubation]]. Its core health and learning synthesis is that durable learning begins before study with sleep-supported hippocampal readiness, continues through retrieval and low-interference rest, and uses overlapping stage-specific processes: deep non-REM and spindles stabilize and transfer fact memories, stage-two spindles support motor gains, and REM-rich sleep widens association after waking effort. Institutional schedules and tracker feedback can either protect or undermine that cycle. No settled contradiction is recorded; school, medical, athletic, weight-loss, tracker-belief, effect-size, replay, and historical creativity claims remain source-scoped public education rather than individualized clinical or performance advice.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "MatthewWalker",
+        "MemoryConsolidationWindows",
+        "PostPracticeMotorConsolidation",
+        "SchoolLearningStateDesign",
+        "SleepAnxietyLoop",
+        "SleepSpindleSchemaFormation",
+        "SleepStageFunctionalArchitecture",
+        "SubconsciousCreativeIncubation",
+        "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704"
+      ]
+    },
     {
       "id": "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
       "primary_topic": "ai-and-technology",

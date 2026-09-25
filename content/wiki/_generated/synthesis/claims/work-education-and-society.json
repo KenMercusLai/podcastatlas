@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "sleep-learning-infrastructure-needs-schedule-and-feedback-boundaries",
+      "qualifications": [
+        "The episode summarizes school and medical-training examples rather than providing full intervention studies or a universal timetable.",
+        "Start-time, exam, shift, crash, academic, mental-health, and performance outcomes remain source-scoped, and one school dataset is explicitly described as questioned.",
+        "Transport, family schedules, disability, employment, staffing, sleep disorders, and local resources constrain implementation."
+      ],
+      "statement": "[[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds an institutional design claim: [[SchoolLearningStateDesign]] treats start times, compressed exams, and medical shifts as learning and safety infrastructure, while [[MemoryConsolidationWindows]], [[PostPracticeMotorConsolidation]], and [[SleepAnxietyLoop]] show why prior sleep, later consolidation, and confidence-preserving feedback matter beyond individual discipline.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+        "AndrewHuberman",
+        "MatthewWalker",
+        "SchoolLearningStateDesign",
+        "MemoryConsolidationWindows",
+        "PostPracticeMotorConsolidation",
+        "SleepAnxietyLoop"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "chronic-illness-participation-needs-clinical-and-social-support",
       "qualifications": [
         "The episode is source-scoped public education and selected patient or nonprofit testimony rather than a clinical guideline, representative outcome study, or independent program evaluation.",

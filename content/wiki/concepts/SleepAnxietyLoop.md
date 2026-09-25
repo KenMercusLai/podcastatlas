@@ -7,7 +7,8 @@ sources:
   - the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
-last_updated: 2026-09-25
+  - guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -23,12 +24,15 @@ The practical boundary is functional and longitudinal. Regularity, continuity, d
 
 The Walker conversation adds a conditioning and effort layer. Checking the clock during normal brief awakenings can teach a person to expect the same waking time, while trying hard to force sleep increases performance pressure. The suggested response is to shift from achieving sleep toward calm rest and to give attention a bounded alternative such as breathing, a body scan, a sleep story, or a vivid walk along a familiar route. These are de-arousal tools, not proof that every recurrent awakening is anxiety-driven.
 
+The learning episode names the tracker-focused form as orthosomnia. Belief about a poor score can affect confidence and next-day interpretation even when the underlying sleep estimate is uncertain, so daily feedback may be counterproductive during important performance periods. Periodic review or a temporary pause in tracking can preserve pattern awareness without turning every night into a test.
+
 ## Key Claims
 - Sleep advice can backfire when a flexible health range becomes an exact performance demand.
 - Device data can reassure some users while intensifying vigilance, repeated checking, or parental fear in others.
 - Duration, sleep-onset latency, deep-sleep estimates, and dream recall are incomplete proxies unless interpreted with regularity, continuity, and daytime function.
 - Multi-day patterns can support reflection, but a single bad night or score should not define sleep quality by itself.
 - Clock-checking and effortful attempts to force sleep can reinforce expectation, vigilance, and arousal around nighttime waking.
+- Orthosomnia can convert optimization and tracker feedback into a source of sleep disruption or reduced performance confidence.
 - Reducing metric pressure does not rule out chronic insomnia, breathing disorders, or other conditions that need clinical evaluation.
 
 ## Evidence
@@ -38,13 +42,14 @@ The Walker conversation adds a conditioning and effort layer. Checking the clock
 - Stage-interpretation boundary - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] says ordinary dreaming and limited deep-sleep time are compatible with normal sleep architecture rather than automatic evidence of failure.
 - Clock and effort loop - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] frames repeated time-checking and trying hard to sleep as ways of reinforcing learned waking and arousal.
 - Attention-shifting tools - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] offers meditation, breathing, sleep stories, body scans, and a familiar mental walk as ways to move attention away from rumination.
+- Orthosomnia and feedback timing - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]] recommends periodic rather than compulsive tracker review and describes withholding daily athlete feedback when it may erode confidence.
 
 ## Counterevidence & Qualifications
-Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, or circadian change can require medical assessment. The conditioning account and attention-shifting tools are source-scoped and are not substitutes for CBT-I or sleep-medicine evaluation.
+Sleep worry is not an explanation for every sleep complaint. Persistent difficulty, daytime impairment, witnessed breathing pauses, recurrent dream enactment, uncomfortable legs, irresistible daytime sleep, medication effects, menopause symptoms, or circadian change can require medical assessment. Belief effects, athlete-feedback practice, conditioning, and attention-shifting tools are source-scoped and are not substitutes for CBT-I or sleep-medicine evaluation.
 
 ## What Changed
-- Added clock-checking and sleep effort as conditioning mechanisms inside the anxiety loop.
-- Added bounded attention-shifting and calm-rest tools while preserving clinical escalation.
+- Added orthosomnia and performance-confidence effects to the measurement branch.
+- Added periodic review or temporary tracker pauses as bounded responses.
 
 ## Related Concepts
 - [[ChronicInsomniaRecognitionAndTreatment]] - clinical pathway for persistent symptoms and daytime impairment.

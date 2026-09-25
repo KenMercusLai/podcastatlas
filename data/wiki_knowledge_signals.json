@@ -91732,9 +91732,9 @@
       "url": "/wiki/entities/matthewhill/"
     },
     "MatthewWalker": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -91749,9 +91749,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
           "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/matthewwalker/"
     },
     "MauricePaleologue": {
@@ -92520,9 +92527,9 @@
       "url": "/wiki/entities/memex/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 3,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -92572,9 +92579,16 @@
           "show": "Huberman Lab",
           "title": "Optimal Protocols for Studying & Learning",
           "url": "/wiki/sources/optimal-protocols-for-studying-learning-scim3722040660/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -108589,9 +108603,9 @@
       "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostPracticeMotorConsolidation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2224786015 [SCIM2224786015].md",
@@ -108599,9 +108613,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Learn Skills Faster",
           "url": "/wiki/sources/essentials-how-to-learn-skills-faster-scim2224786015/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/postpracticemotorconsolidation/"
     },
     "PostRestorationMeritThreat": {
@@ -120816,9 +120837,9 @@
       "url": "/wiki/concepts/schoolaiboundaries/"
     },
     "SchoolLearningStateDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1100391235 [SCIM1100391235].md",
@@ -120826,9 +120847,16 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/schoollearningstatedesign/"
     },
     "SchoolMealsAsEducationAccess": {
@@ -125752,9 +125780,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAnxietyLoop": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 4,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -125783,9 +125811,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/sleepanxietyloop/"
     },
     "SleepAsDailyHealthAccount": {
@@ -125932,9 +125967,9 @@
       "url": "/wiki/concepts/sleepmentalhealthbidirectionality/"
     },
     "SleepSpindleSchemaFormation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -125942,15 +125977,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -125986,9 +126028,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
@@ -130806,9 +130855,9 @@
       "url": "/wiki/concepts/subagentworkflow/"
     },
     "SubconsciousCreativeIncubation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7816635332 [SCIM7816635332].md",
@@ -130816,9 +130865,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Access Your Creativity | Rick Rubin",
           "url": "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+        },
+        {
+          "episode_file": "SCIM9549338704 [SCIM9549338704].md",
+          "key": "guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
     },
     "SubstanceSleepArchitectureBoundary": {

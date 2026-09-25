@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory](sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704.md) — Huberman Lab sleep-series episode on pre-learning encoding, post-learning consolidation, motor skill, associative creativity, institutional schedules, and orthosomnia.
 - [443. Lord Byron: Death of a Vampire (Part 4)](sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776.md) — The Rest Is History on Byron's vampire afterlife, European celebrity, Italian exile, radical politics, Greek commitment, death, and contested reputation.
 - [Google投資A24，AI將成為好萊塢的未來？](sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594.md) — 端聞 episode on the Google DeepMind–A24 partnership, feature-film AI limits, creative-process data, brand conflict, and fear-driven adoption.
 - [503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云](sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu.md) — 忽左忽右 retrospective on Xu Zhuoyun's wartime formation, comparative and interdisciplinary historiography, public writing, mentorship, and inner settlement.

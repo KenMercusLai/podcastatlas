@@ -3,9 +3,9 @@
 generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
-last_updated: 2026-09-25
-as_of_overview_commit: 12170dae36f2d610c44e8f45c0aea421e34d65e3
-input_digest: d735d0c1ba50404dc77b21a335fa309ddcf23e637601d09a0d6a026a65ae74f5
+last_updated: 2026-09-26
+as_of_overview_commit: add59b38c9710bfc194e82636b8bc2ca0ef703e3
+input_digest: 2b99a19e7726feea32ee389059d5f5ced826bb71d30931fe3c6883e168361a24
 ---
 
 # Science, Health, and Climate
@@ -15,6 +15,18 @@ input_digest: d735d0c1ba50404dc77b21a335fa309ddcf23e637601d09a0d6a026a65ae74f5
 Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation and infrastructure, and science governance; across these branches, interventions and interpretations remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The metabolic-health addition sharpens this pattern by separating energy supply from mitochondrial processing capacity and treating movement, eating timing, biomarkers, and glucose curves as contextual feedback rather than universal prescriptions or perfect scores. The Walker mental-health addition further separates acute sleep-loss reactivity, REM emotional-memory processing, deep non-REM anxiety regulation, and crisis-risk signaling while keeping medication, PTSD, addiction, depression, and suicide care inside clinical boundaries.
 
 ## Cross-source Findings
+
+### Sleep Learning Needs Stage And Institutional Boundaries
+
+[[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia.
+
+**Evidence:** [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]], [[AndrewHuberman]], [[MatthewWalker]], [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SleepAnxietyLoop]], [[SubconsciousCreativeIncubation]]
+
+**Qualifications:**
+
+- The episode is public sleep and learning education, not individualized sleep-medicine, school-policy, medical-training, athletic, psychiatric, or performance advice.
+- School, medical, athletic, weight-loss, tracker-belief, study-effect, replay-speed, spindle-localization, and creativity claims remain source-scoped because the supplied summary omits full methods and citations.
+- Caffeine, naps, circadian timing, quiet rest, and tracker changes may mitigate particular constraints but are not interchangeable substitutes for adequate sleep.
 
 ### Dream Science Needs Stage Treatment And Evidence Boundaries
 
