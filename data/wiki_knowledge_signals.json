@@ -33066,9 +33066,9 @@
       "url": "/wiki/entities/davidsilver/"
     },
     "DavidYeager": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7393383815 [SCIM7393383815].md",
@@ -33076,9 +33076,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "SCIM6606381639 [SCIM6606381639].md",
+          "key": "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639",
+          "show": "Huberman Lab",
+          "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
+          "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/davidyeager/"
     },
     "DaxiaoDianbo": {
@@ -39656,9 +39663,9 @@
       "url": "/wiki/entities/eduardhabsburg/"
     },
     "EducationMotivationArchitecture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7393383815 [SCIM7393383815].md",
@@ -39666,9 +39673,16 @@
           "show": "Huberman Lab",
           "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
           "url": "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+        },
+        {
+          "episode_file": "SCIM6606381639 [SCIM6606381639].md",
+          "key": "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639",
+          "show": "Huberman Lab",
+          "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
+          "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EdwardGrey": {
@@ -57989,6 +58003,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/growthhormonesecretagogues/"
+    },
+    "GrowthMindset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6606381639 [SCIM6606381639].md",
+          "key": "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639",
+          "show": "Huberman Lab",
+          "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
+          "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/growthmindset/"
     },
     "GrowthWitnessing": {
       "episode_count": 1,
@@ -93535,6 +93565,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/mentalizingprojection/"
     },
+    "MentorMindsetFeedback": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6606381639 [SCIM6606381639].md",
+          "key": "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639",
+          "show": "Huberman Lab",
+          "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
+          "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/mentormindsetfeedback/"
+    },
     "MerchantExchangeInfrastructure": {
       "episode_count": 1,
       "show_count": 1,
@@ -112683,6 +112729,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/puritanenlightenmentpracticalethic/"
+    },
+    "PurposeIntegratedMotivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6606381639 [SCIM6606381639].md",
+          "key": "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639",
+          "show": "Huberman Lab",
+          "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
+          "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/purposeintegratedmotivation/"
     },
     "PushPullIntimacyCommunication": {
       "episode_count": 1,
@@ -136855,9 +136917,9 @@
       "url": "/wiki/entities/thomaslaffont/"
     },
     "ThreatChallengeStressReappraisal": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4455888803 [SCIM4455888803].md",
@@ -136865,9 +136927,16 @@
           "show": "Huberman Lab",
           "title": "Control Stress for Healthy Eating, Metabolism & Aging | Dr. Elissa Epel",
           "url": "/wiki/sources/control-stress-for-healthy-eating-metabolism-aging-dr-elissa-epel-scim4455888803/"
+        },
+        {
+          "episode_file": "SCIM6606381639 [SCIM6606381639].md",
+          "key": "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639",
+          "show": "Huberman Lab",
+          "title": "How to Master Growth Mindset to Improve Performance | Dr. David Yeager",
+          "url": "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/threatchallengestressreappraisal/"
     },
     "ThreeExcellenciesBlameWithoutAuthority": {

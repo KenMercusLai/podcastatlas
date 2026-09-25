@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1206
+topic_total_pages: 1208
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -850,6 +850,9 @@ topic_concepts:
   - key: "GroupPolarization"
     title: "Group Polarization / 群体极化"
     url: "/wiki/concepts/grouppolarization/"
+  - key: "GrowthMindset"
+    title: "Growth Mindset"
+    url: "/wiki/concepts/growthmindset/"
   - key: "GrowthWitnessing"
     title: "Growth Witnessing / 见证生长"
     url: "/wiki/concepts/growthwitnessing/"
@@ -3447,6 +3450,9 @@ topic_sources:
   - key: "how-to-make-better-decisions-dr-michael-platt-scim9606820714"
     title: "How to Make Better Decisions | Dr. Michael Platt"
     url: "/wiki/sources/how-to-make-better-decisions-dr-michael-platt-scim9606820714/"
+  - key: "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639"
+    title: "How to Master Growth Mindset to Improve Performance | Dr. David Yeager"
+    url: "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
   - key: "how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220"
     title: "How to Navigate Menopause & Perimenopause for Maximum Health & Vitality | Dr. Mary Claire Haver"
     url: "/wiki/sources/how-to-navigate-menopause-perimenopause-for-maximum-health-vitality-dr-mary-claire-haver-scim1557774220/"

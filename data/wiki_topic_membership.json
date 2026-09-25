@@ -33032,6 +33032,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GrowthMindset": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GrowthROILayers": [
     {
       "key": "economics",
@@ -86260,6 +86267,18 @@
     }
   ],
   "how-to-make-better-decisions-dr-michael-platt-scim9606820714": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
     {
       "key": "science",
       "label": "Science",

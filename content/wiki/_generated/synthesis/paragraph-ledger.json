@@ -720,12 +720,13 @@
       "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729",
-      "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d"
+      "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
+      "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc"
     ],
-    "paragraph_count": 720
+    "paragraph_count": 721
   },
-  "overview_commit": "c4a6fccd2223a597edd1efef4dca77bf71dbe3a7",
-  "overview_digest": "f1e83bc42a553b3722d98dd68e552a2d447b607080b3eade55a33a443e0f1e10",
+  "overview_commit": "163f6cfc76da768450983e1786a3658cc1e0bd9c",
+  "overview_digest": "e8fb3c6c6641585fab1ce0c3c14be0af017ad21d82a14e1e576833ebf690b161",
   "paragraphs": [
     {
       "id": "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
@@ -21409,6 +21410,27 @@
         "SleepArchitectureAcrossLifespan",
         "SleepWakeTimingToolkit",
         "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999"
+      ]
+    },
+    {
+      "id": "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639|How to Master Growth Mindset to Improve Performance | Dr. David Yeager]], a [[HubermanLab]] interview with motivation researcher [[DavidYeager]]. It adds [[GrowthMindset]], [[MentorMindsetFeedback]], and [[PurposeIntegratedMotivation]], while extending [[ThreatChallengeStressReappraisal]] and [[EducationMotivationArchitecture]]. Its core synthesis is that beliefs about ability, effort, stress, failure, and criticism matter most when paired with real opportunity, strategy, feedback, and support: growth mindset is conditional changeability rather than effort-only optimism; arousal can become challenge when resources plausibly match demands; and demanding feedback works best when standards, confidence, and help arrive together. No settled contradiction is recorded. School-intervention, physiology, adolescent-status, culture, purpose, and program-outcome claims remain source-scoped, and some longer-term results are described as unpublished.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "DavidYeager",
+        "EducationMotivationArchitecture",
+        "GrowthMindset",
+        "HubermanLab",
+        "MentorMindsetFeedback",
+        "PurposeIntegratedMotivation",
+        "ThreatChallengeStressReappraisal",
+        "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639"
       ]
     }
   ],

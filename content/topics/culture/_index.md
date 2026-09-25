@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2823
+topic_total_pages: 2824
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -8130,6 +8130,9 @@ topic_sources:
   - key: "how-to-make-a-book-into-a-bestseller"
     title: "How to make a BOOK into a bestseller"
     url: "/wiki/sources/how-to-make-a-book-into-a-bestseller/"
+  - key: "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639"
+    title: "How to Master Growth Mindset to Improve Performance | Dr. David Yeager"
+    url: "/wiki/sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639/"
   - key: "how-to-win-a-penalty-shootout-with-game-theory"
     title: "How to win a penalty shootout (with game theory)"
     url: "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"

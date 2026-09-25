@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8173
+wiki_total_pages: 8176
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "MentalizingProjection"
     title: "Mentalizing Projection / 心智化投射"
     url: "/wiki/concepts/mentalizingprojection/"
+  - key: "MentorMindsetFeedback"
+    title: "Mentor Mindset Feedback"
+    url: "/wiki/concepts/mentormindsetfeedback/"
   - key: "MenuCosts"
     title: "Menu Costs"
     url: "/wiki/concepts/menucosts/"

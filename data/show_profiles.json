@@ -478,20 +478,20 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-24",
       "latest_episode_file": "SCIM8443296592 [SCIM8443296592].md",
-      "source_note_count": 119,
-      "topic_matched_source_note_count": 70,
+      "source_note_count": 120,
+      "topic_matched_source_note_count": 71,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 67
+          "source_note_count": 68
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 6
+          "source_note_count": 7
         },
         {
           "key": "technology",
@@ -543,6 +543,13 @@
           "episode_count": 2
         },
         {
+          "key": "DavidYeager",
+          "title": "David Yeager",
+          "url": "/wiki/entities/davidyeager/",
+          "kind": "person",
+          "episode_count": 2
+        },
+        {
           "key": "LayneNorton",
           "title": "Layne Norton",
           "url": "/wiki/entities/laynenorton/",
@@ -553,13 +560,6 @@
           "key": "MarcBrackett",
           "title": "Marc Brackett",
           "url": "/wiki/entities/marcbrackett/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "PeterAttia",
-          "title": "Peter Attia",
-          "url": "/wiki/entities/peterattia/",
           "kind": "person",
           "episode_count": 2
         }

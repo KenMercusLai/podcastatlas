@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Master Growth Mindset to Improve Performance | Dr. David Yeager](sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639.md) — Huberman Lab interview on conditional growth mindset, stress appraisal, demanding support, purpose, adolescent status, and the environmental requirements for durable change.
 - [GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine](sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999.md) — Huberman Lab sleep-series episode on lifespan sleep architecture, nap timing, sleep pressure, caffeine, liminal rest, and adult polyphasic-sleep risks.
 - [VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医](sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv.md) — 这病说来话长 episode on dream meaning, sleep stages, recall, bodily and emotional context, daytime impairment, sleepwalking, and clinical escalation.
 - [Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战](sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1.md) — 枫言枫语 on task-fit model routing, structured decisions, demonstrated computer use, authorship responsibility, platform access, and ambient-agent privacy.
@@ -5227,7 +5228,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Drownproof](entities/Drownproof.md) — Andy Stumpf book discussed as a practical source for agency, adversity, discipline, vulnerability, and success-boundary tools.
 - [Paul Eastwick](entities/PaulEastwick.md) — Relationship psychologist explaining idiosyncratic attraction, dating apps, perceived similarity, repeated contact, and social support in the Huberman Lab source.
 - [Joe Liemandt](entities/JoeLiemandt.md) — Huberman Lab guest presenting Alpha School as a two-hour AI-supported mastery-learning model with human guides, builder afternoons, and source-scoped scaling claims.
-- [David Yeager](entities/DavidYeager.md) — Researcher cited for the high-standards/high-support motivation frame in Alpha School's learning model.
+- [David Yeager](entities/DavidYeager.md) — Motivation researcher connecting conditional growth mindset, stress appraisal, demanding support, purpose, and adolescent status to real environmental opportunity.
 - [MIT Blueprint Labs](entities/MITBlueprintLabs.md) — Research group Alpha says it is partnering with for testing and randomized controlled trials of the school model.
 - [Ido Portal](entities/IdoPortal.md) — Huberman Lab guest framing movement as awareness practice, will as resistance-facing exposure, bodily resolution, play, body schema, and everyday practice.
 - [Cesar Millan](entities/CesarMillan.md) — Dog-behavior expert whose Huberman Lab interview frames dog care through calm human state, species needs, structured rituals, and correctly timed affection.
@@ -13677,6 +13678,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Growth Mindset](concepts/GrowthMindset.md) — Belief that domain-specific ability can change under suitable conditions and support, distinct from effort-only optimism.
+- [Mentor Mindset Feedback](concepts/MentorMindsetFeedback.md) — Demanding feedback that pairs high standards with confidence, practical support, and a credible route to improvement.
+- [Purpose-Integrated Motivation](concepts/PurposeIntegratedMotivation.md) — Motivation model joining skill growth and plausible personal benefit to contribution beyond the self.
 - [Adult Napping and Sleep Pressure](concepts/AdultNappingSleepPressure.md) — Conditional nap framework balancing alertness and learning benefits against sleep inertia and nighttime sleep pressure.
 - [Adult Polyphasic Sleep Evidence Boundary](concepts/AdultPolyphasicSleepEvidenceBoundary.md) — Boundary separating ordinary biphasic sleep from extreme adult sleep-compression schedules unsupported by performance or health evidence.
 - [Sleep Architecture Across the Lifespan](concepts/SleepArchitectureAcrossLifespan.md) — Developmental pattern linking sleep consolidation, REM, spindles, chronotype, and deep-sleep change from infancy through aging.

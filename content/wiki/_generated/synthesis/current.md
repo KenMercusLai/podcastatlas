@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: c4a6fccd2223a597edd1efef4dca77bf71dbe3a7
+as_of_overview_commit: 163f6cfc76da768450983e1786a3658cc1e0bd9c
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2836
-source_count: 2836
-paragraph_count: 720
+episode_count: 2837
+source_count: 2837
+paragraph_count: 721
 topic_count: 9
 ---
 
@@ -23,7 +23,7 @@ topic_count: 9
 - Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
 - [[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], and [[DoctorPatientCommunication]] jointly distinguish acute support from terminal comfort: ICU can stabilize failing organs while potentially reversible illness is treated, but admission depends on expected benefit and capacity; when decline is irreversible, reducing invasive burden can become a positive care goal, while advance conversation and post-sedation explanation help patients and families understand choices they could not fully anticipate, witness, or remember.
-- Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
+- The Alpha School and Yeager episodes jointly add a modern education-institution claim: [[AIMasteryLearningModel]], [[RemedialEducationTargeting]], and [[WorkingMemoryLearningBottleneck]] address level and prerequisites, while [[EducationMotivationArchitecture]], [[GrowthMindset]], [[MentorMindsetFeedback]], [[PurposeIntegratedMotivation]], and [[ThreatChallengeStressReappraisal]] show that beliefs about effort and pressure work only with credible opportunity, strategy, purpose, feedback, and support; [[BuilderBasedSchoolDay]] supplies one source-scoped applied environment rather than a universal model.
 
 ## Synthesis by Domain
 
@@ -43,7 +43,7 @@ Durable markets require real demand, delivery capacity, contract fit, affordabil
 
 ### Cross-domain
 
-Evidence transfers across domains only when mechanism, intended outcome, comparator, and scope remain explicit; recent health sources apply that rule to protein selection and to naps, caffeine, and rest that must preserve adequate nighttime sleep.
+Evidence transfers across domains only when mechanism, intended outcome, comparator, and scope remain explicit.
 
 ### Culture and Media
 
@@ -82,7 +82,7 @@ Science and health literacy require mechanism, measurement, qualified care, esca
 
 ### Work, Education, and Society
 
-Learning, work, participation, and care improve through active practice, trustworthy institutions, visible labor, judgment, recovery, and durable support.
+Learning, work, participation, and care improve through active practice, credible opportunity, demanding support, trustworthy institutions, visible labor, judgment, recovery, and durable social capacity.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

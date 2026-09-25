@@ -22687,3 +22687,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | How to Master Growth Mindset to Improve Performance | Dr. David Yeager
+
+Added source `how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639`; created `GrowthMindset`, `MentorMindsetFeedback`, and `PurposeIntegratedMotivation`; and updated `DavidYeager`, `ThreatChallengeStressReappraisal`, `EducationMotivationArchitecture`, the canonical index, and overview from their complete bounded source sets. Core synthesis: growth mindset is conditional changeability rather than effort-only optimism; stress appraisal depends on credible resources relative to demands; demanding feedback works best when high standards, confidence, and practical support arrive together; and purpose is strongest when contribution joins plausible personal benefit. No settled contradiction found. School-intervention, physiology, adolescent-status, culture, purpose, and program-outcome claims remain source-scoped, and some longer-term results are described as unpublished. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

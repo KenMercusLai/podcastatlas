@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8173
+wiki_total_pages: 8176
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -506,6 +506,9 @@ wiki_pages:
   - key: "GrowthInvesting"
     title: "Growth Investing / 成长投资"
     url: "/wiki/concepts/growthinvesting/"
+  - key: "GrowthMindset"
+    title: "Growth Mindset"
+    url: "/wiki/concepts/growthmindset/"
   - key: "GrowthRiskControl"
     title: "Growth Risk Control"
     url: "/wiki/concepts/growthriskcontrol/"
