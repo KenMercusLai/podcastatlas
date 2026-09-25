@@ -22518,3 +22518,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题
+
+Added source `vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm`; created `OlderAdultHealthcareAvoidance` and `FamilyHealthcarePersuasion`; and updated the canonical overview and index. Core synthesis: delayed care may combine fear, cost opacity, old or fragmented information, absent symptoms, hospital-process friction, and threatened control; family support works by identifying the actual barrier, preserving agency, making costs and logistics legible, agreeing on escalation thresholds, and accompanying the parent through care. No settled contradiction found. Disease frequencies, treatment windows, costs, outcomes, and gender generalizations remain source-scoped public education rather than individualized guidance or universal claims about older adults. The downstream synthesis refresh only reads the canonical `wiki/overview.md` before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

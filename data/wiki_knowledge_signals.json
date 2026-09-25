@@ -45500,6 +45500,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/familycommunicationscaffolding/"
     },
+    "FamilyHealthcarePersuasion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltIDUCFs-3ubqtLbUkGw0vujLWBM [ltIDUCFs-3ubqtLbUkGw0vujLWBM].md",
+          "key": "vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm",
+          "show": "这病说来话长",
+          "title": "VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题",
+          "url": "/wiki/sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/familyhealthcarepersuasion/"
+    },
     "FamilyRiskDiversification": {
       "episode_count": 1,
       "show_count": 1,
@@ -100626,6 +100642,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/oldsarum/"
+    },
+    "OlderAdultHealthcareAvoidance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ltIDUCFs-3ubqtLbUkGw0vujLWBM [ltIDUCFs-3ubqtLbUkGw0vujLWBM].md",
+          "key": "vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm",
+          "show": "这病说来话长",
+          "title": "VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题",
+          "url": "/wiki/sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/olderadulthealthcareavoidance/"
     },
     "OlderAdultStereotypeResistance": {
       "episode_count": 1,

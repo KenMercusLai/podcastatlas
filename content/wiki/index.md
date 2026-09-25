@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题](sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm.md) — 这病说来话长 Mother's Day roundtable on older-adult healthcare avoidance, family persuasion, hospital navigation, trust, accompaniment, and escalation thresholds.
 - [GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming](sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951.md) — Huberman Lab sleep-series finale on REM and non-REM dreaming, emotional processing, nightmare rescripting, sleep cueing, lucid-dream evidence, and common sleep questions.
 - [448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)](sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648.md) — The Rest Is History episode on dynamic Plains history, Lakota regional power, settler expansion, source mediation, and Crazy Horse's warrior and visionary identity.
 - [VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题](sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu.md) — 这病说来话长 episode on inflammatory bowel disease recognition, remission-oriented care, patient experience, and CCCF education, peer support, and advocacy.
@@ -13627,6 +13628,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Family Healthcare Persuasion / 家庭就医劝导](concepts/FamilyHealthcarePersuasion.md) — Barrier-matched family support through agency, trust, cost and workflow clarity, accompaniment, and agreed escalation thresholds.
+- [Older-Adult Healthcare Avoidance / 老年人就医回避](concepts/OlderAdultHealthcareAvoidance.md) — Multi-barrier account of delayed care through fear, cost, information, access friction, family roles, and threatened control.
 - [Dream Function and Meaning](concepts/DreamFunctionAndMeaning.md) — Evidence-bounded frame for stage-dependent dreaming, associative and emotional functions, and personal rather than universal interpretation.
 - [Nightmare Imagery Rehearsal Therapy](concepts/NightmareImageryRehearsalTherapy.md) — Clinician-guided rescripting and rehearsal of recurrent nightmares through a proposed memory-reconsolidation mechanism.
 - [Targeted Memory Reactivation](concepts/TargetedMemoryReactivation.md) — Experimental pairing and sleep replay of sensory cues to bias memory or therapeutic processing.

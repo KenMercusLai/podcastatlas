@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
       "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
       "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
       "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
@@ -709,11 +710,34 @@
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e"
     ],
-    "paragraph_count": 707
+    "paragraph_count": 708
   },
-  "overview_commit": "0e0a8687543138dfae3fbebbcb8225771e89f209",
-  "overview_digest": "5fc1abb7001e53003533ec02a4fe2d5b9b55d30426959ed3a4b59c545f18e913",
+  "overview_commit": "781ece9480bf3778e25d5629dfb7777de1e6e143",
+  "overview_digest": "3f2618079991d47c7b0f32e1f84cc87a10f60f4c35a596d9148ed1d089579438",
   "paragraphs": [
+    {
+      "id": "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The newest family-healthcare source, [[vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm|VOL.112妈，能听我句劝去看病吗？]], has a [[ZheBingShuoLaiHuaChang|这病说来话长]] multidisciplinary panel connect [[OlderAdultHealthcareAvoidance]], [[FamilyHealthcarePersuasion]], [[DoctorPatientCommunication]], [[ClinicalTrustBuilding]], [[PreventiveHealthScreening]], [[ElderTechnologyExclusion]], and [[FamilyAnxietyTransmission]]. Its core health synthesis is that a parent's delayed screening or treatment can reflect fear of procedures or bad news, cost opacity, outdated or fragmented information, weak symptoms, hospital and smartphone friction, family-role dynamics, or threatened control rather than indifference. Family support becomes more usable when it identifies the actual barrier, preserves agency, makes logistics and prices legible, establishes symptom or time thresholds for escalation, and includes accompaniment rather than relying on credentials, command, or shame. No settled contradiction is recorded; the roundtable's disease frequencies, timing claims, procedure choices, costs, outcomes, and gender observations remain source-scoped anecdotes and public education rather than individualized care or universal claims about older adults.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "ClinicalTrustBuilding",
+        "DoctorPatientCommunication",
+        "ElderTechnologyExclusion",
+        "FamilyAnxietyTransmission",
+        "FamilyHealthcarePersuasion",
+        "OlderAdultHealthcareAvoidance",
+        "PreventiveHealthScreening",
+        "ZheBingShuoLaiHuaChang",
+        "vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm"
+      ]
+    },
     {
       "id": "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
       "primary_topic": "science-health-and-climate",

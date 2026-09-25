@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8139
+wiki_total_pages: 8141
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -188,6 +188,9 @@ wiki_pages:
   - key: "OlderWorkerAIRetirement"
     title: "Older Worker AI Retirement"
     url: "/wiki/concepts/olderworkerairetirement/"
+  - key: "OlderAdultHealthcareAvoidance"
+    title: "Older-Adult Healthcare Avoidance / 老年人就医回避"
+    url: "/wiki/concepts/olderadulthealthcareavoidance/"
   - key: "OlfactoryTraining"
     title: "Olfactory Training"
     url: "/wiki/concepts/olfactorytraining/"

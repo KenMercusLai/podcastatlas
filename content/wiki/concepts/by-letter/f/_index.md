@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8139
+wiki_total_pages: 8141
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "FamilyEthicsAtEndOfLife"
     title: "Family Ethics At End Of Life"
     url: "/wiki/concepts/familyethicsatendoflife/"
+  - key: "FamilyHealthcarePersuasion"
+    title: "Family Healthcare Persuasion / 家庭就医劝导"
+    url: "/wiki/concepts/familyhealthcarepersuasion/"
   - key: "FamilyInternetPortalStrategy"
     title: "Family Internet Portal Strategy"
     url: "/wiki/concepts/familyinternetportalstrategy/"
