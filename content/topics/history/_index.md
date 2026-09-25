@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1997
+topic_total_pages: 1998
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4602,6 +4602,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770"
+    title: "450. Custer's Last Stand: Death in the Black Hills (Part 5)"
+    url: "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
   - key: "451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603"
     title: "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)"
     url: "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"

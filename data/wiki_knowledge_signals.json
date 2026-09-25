@@ -15228,6 +15228,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/blackhand/"
     },
+    "BlackHills": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/blackhills/"
+    },
     "BlackTruffleMassMarketization": {
       "episode_count": 1,
       "show_count": 1,
@@ -15419,9 +15435,9 @@
       "url": "/wiki/entities/bloodyfriday/"
     },
     "BloodyKnife": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7290391290 [GLT7290391290].md",
@@ -15429,6 +15445,13 @@
           "show": "The Rest Is History",
           "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
           "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -25900,9 +25923,9 @@
       "url": "/wiki/concepts/coerciveimplicationcascade/"
     },
     "CoerciveReservationAssimilation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2320133118 [GLT2320133118].md",
@@ -25917,6 +25940,13 @@
           "show": "The Rest Is History",
           "title": "454. Fall of the Sioux: Death of Crazy Horse (Part 1)",
           "url": "/wiki/sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -29085,9 +29115,9 @@
       "url": "/wiki/entities/craigkoniver/"
     },
     "CrazyHorse": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1647500583 [GLT1647500583].md",
@@ -29109,6 +29139,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -54477,9 +54514,9 @@
       "url": "/wiki/entities/georgearmistead/"
     },
     "GeorgeArmstrongCuster": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -54501,6 +54538,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -62100,9 +62144,9 @@
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicLastStandMyth": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -62117,6 +62161,13 @@
           "show": "The Rest Is History",
           "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
           "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -77182,9 +77233,9 @@
       "url": "/wiki/entities/laixieasternhan/"
     },
     "LakotaPeople": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -77220,6 +77271,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -89417,9 +89475,9 @@
       "url": "/wiki/concepts/manufacturedrebellionbranding/"
     },
     "ManufacturedWarPretext": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4301705603 [GLT4301705603].md",
@@ -89427,6 +89485,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -105184,9 +105249,9 @@
       "url": "/wiki/entities/philipofcoburg/"
     },
     "PhilipSheridan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4301705603 [GLT4301705603].md",
@@ -105194,6 +105259,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",
@@ -124090,9 +124162,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SittingBull": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -124128,6 +124200,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1497339770 [GLT1497339770].md",
+          "key": "450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770",
+          "show": "The Rest Is History",
+          "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
+          "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
         }
       ],
       "updated": "2026-09-25",

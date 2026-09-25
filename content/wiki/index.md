@@ -2829,6 +2829,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [457. Helen of Troy: Queen of the Greek Myths (Part 1)](sources/457-helen-of-troy-queen-of-the-greek-myths-part-1-glt7058693674.md) — The Rest Is History episode on Helen's variant myths, dangerous beauty, agency, cult, and competing explanations of the Trojan War.
 - [The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez](sources/the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714.md) — Huberman Lab interview on gut sensory epithelial cells, rapid neuropod-to-vagus signaling, nutrient preference, appetite, and the limits of broader gut-intuition claims.
+- [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
 - [Gary Steinberg](entities/GarySteinberg.md) — Stanford neurosurgeon and researcher presented through vascular neurosurgery, brain injury, rehabilitation, and cautious neurorestoration.
@@ -2850,6 +2851,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Smile Action / 微笑行动](entities/SmileAction.md) — Source-scoped volunteer medical program linking free cleft and facial-difference surgery with multidisciplinary follow-up, access burden, and psychosocial function.
 - [Sitting Bull](entities/SittingBull.md) — Lakota leader whose resistance, Canadian exile, reservation subordination, death, and commercialized afterlife made him a durable symbol of dispossession.
 - [Lakota People](entities/LakotaPeople.md) — Native people presented across military defeat, coerced reservation transition, internal diversity, survival, and contested representation.
+- [Black Hills](entities/BlackHills.md) — Contested region where military exploration, gold publicity, miner intrusion, and failed purchase talks pushed U.S.-Lakota relations toward war.
 - [Ghost Dance](entities/GhostDance.md) — Millenarian movement treated as hope amid dispossession, then as an object of panic, suppression, and spectacle.
 - [Wounded Knee Massacre](entities/WoundedKneeMassacre.md) — 1890 mass killing of Big Foot's surrounded Lakota band during a Seventh Cavalry disarmament operation.
 - [Mary Claire Haver](entities/MaryClaireHaver.md) — OBGYN and menopause-health educator emphasizing symptom recognition, individualized hormone-therapy decisions, local genitourinary care, and midlife strength and nutrition.

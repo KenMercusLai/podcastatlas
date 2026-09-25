@@ -6,6 +6,7 @@ sources:
   - 454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
+  - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ Crazy Horse was an Oglala [[LakotaPeople|Lakota]] war leader whose battlefield l
 
 ## Current Profile
 
-The pre-battle episode places Crazy Horse within a coalition enlarged by Black Hills pressure and by Cheyenne people displaced through [[GeorgeCrook]]'s winter attack. It presents him as favoring patience until the right moment and as central to the restraint and coordination that prevented warriors from launching a premature attack. At the [[BattleOfRosebud]], Lakota and Cheyenne forces then stopped Crook's northward column.
+The earlier episode places Crazy Horse with [[SittingBull]] in resistance to an 1872 railroad survey, where intimidation helped force an American withdrawal. He was absent from direct confrontation during Custer's 1874 [[BlackHills]] expedition while mourning his daughter's death, then refused to attend the 1875 federal council seeking to purchase the hills.
+
+The pre-battle episode places him within a coalition enlarged by Black Hills pressure and by Cheyenne people displaced through [[GeorgeCrook]]'s winter attack. It presents him as favoring patience until the right moment and as central to the restraint and coordination that prevented warriors from launching a premature attack. At the [[BattleOfRosebud]], Lakota and Cheyenne forces then stopped Crook's northward column.
 
 The battle episode places Crazy Horse among the leaders whose attacks, confidence, and ability to exploit separated U.S. positions helped turn Little Bighorn into a Lakota and Cheyenne victory. It associates his arrival after ritual preparation with the pressure that broke the Custer positions, while preserving the exact sequence as uncertain.
 
@@ -30,7 +33,7 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 - He combined battlefield prestige with limited ability to sustain resistance against U.S. logistics, winter campaigning, and subsistence pressure.
 - His Little Bighorn role supports interpreting the outcome as a Native victory rather than only a U.S. command failure.
-- Before Little Bighorn, the source assigns him a central role in strategic patience, coalition coordination, and the Rosebud check on Crook.
+- Before Little Bighorn, the sources assign him roles in survey resistance, refusal of land-sale talks, strategic patience, coalition coordination, and the Rosebud check on Crook.
 - His surrender rested on constrained collective choice and expectations that the episode says were unlikely to be fulfilled.
 - Rival leaders, interpreters, officers, and removal policy progressively narrowed his room to act after surrender.
 - A disputed translation turned ambiguous military cooperation into evidence of a generalized threat.
@@ -38,6 +41,7 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## Evidence
 
+- Survey and land-sale resistance: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] describes the 1872 confrontation, his mourning during the 1874 expedition, and refusal to attend the 1875 commission.
 - Pre-battle coalition and restraint: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] connects displaced Cheyenne arrivals, waiting strategy, and coordination among warriors.
 - Rosebud: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] associates him with the Lakota and Cheyenne force that stopped Crook.
 - Little Bighorn leadership: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] associates his entry into the fighting with ritual preparation, battlefield confidence, and attacks on Custer's separated positions.
@@ -48,22 +52,23 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## Qualifications
 
-- This profile rests on one dramatic popular-history episode rather than a comparison of Lakota oral history, military records, biographies, and scholarship.
+- This profile rests on four dramatic popular-history episodes rather than a comparison of Lakota oral history, military records, biographies, and scholarship.
 - His precise route, timing, and tactical role at Little Bighorn remain uncertain within a reconstruction built from testimony and archaeology.
 - His exact command role at the Rosebud and ability to enforce restraint across a diverse coalition remain source-scoped.
+- The 1872 confrontation and reasons for absence in 1874-75 are source-scoped narrative details.
 - The promised agency and hunt, Grouard's intent, named rivals' motives, Crazy Horse's visions and mental state, the precise struggle, and his last words remain source-scoped.
 - Describing Native rivalry and assistance to U.S. forces must not obscure the unequal military and political system structuring those choices.
 - The episode's symbolic reading of the dead eagle, dream, floor, and manner of death is interpretation rather than independent evidence.
 
 ## What Changed
 
-- Extended the profile backward through coalition growth, strategic patience, and the Battle of the Rosebud.
-- Connected Crook's winter village attack to the arrival of displaced Cheyenne allies.
-- Preserved uncertainty over his precise tactical and coordinating authority.
+- Extended the profile backward to survey resistance, personal loss during the 1874 expedition, and refusal of purchase talks.
+- Connected territorial defense to later coalition growth and strategic patience.
 
 ## Relationships
 
 - [[LakotaPeople]] - people and political community within which he led, surrendered, and faced rival authority.
+- [[BlackHills]] - contested territory whose purchase council he refused to attend.
 - [[SittingBull]] - fellow resistance leader who chose Canadian exile rather than Crazy Horse's southern surrender path.
 - [[BattleOfLittleBighorn]] - tactical victory where the source assigns him a central leadership role.
 - [[BattleOfRosebud]] - earlier victory that stopped Crook's column and strengthened coalition confidence.

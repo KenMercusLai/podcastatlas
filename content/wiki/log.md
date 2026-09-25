@@ -22472,3 +22472,11 @@ Added source `451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt430
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 450. Custer's Last Stand: Death in the Black Hills (Part 5)
+
+Added source `450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770`; created `BlackHills`; and updated `GeorgeArmstrongCuster`, `SittingBull`, `CrazyHorse`, `PhilipSheridan`, `LakotaPeople`, `BloodyKnife`, `ManufacturedWarPretext`, `CoerciveReservationAssimilation`, and `HeroicLastStandMyth` from their complete bounded source sets. Core synthesis: Custer's genuine Yellowstone competence and deliberate media persona coexisted with racial assumptions and territorial promotion; railroad surveys, bison destruction, Black Hills gold publicity, miner intrusion, and failed purchase talks created the preconditions for the later coercive ultimatum and war. No settled contradiction found; sacredness and ownership chronology, private motives, dialogue, numerical claims, gold quantity, purchase figures, and policy intent remain source-scoped or require Native and specialist evidence. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

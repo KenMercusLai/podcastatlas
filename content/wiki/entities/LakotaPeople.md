@@ -8,6 +8,7 @@ sources:
   - 454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
+  - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,9 @@ The Lakota are the Native people at the center of the sources' account of victor
 
 ## Current Profile
 
-The pre-battle source places the coalition inside a coercive sequence: settler intrusion into the Black Hills, an impossible winter agency deadline, a hostile public report, and military attack. [[ManufacturedWarPretext]] describes how formal protection could coexist with tolerated encroachment and how predictable noncompliance became grounds for war. Crook's winter attack also pushed Cheyenne survivors toward [[CrazyHorse]] and [[SittingBull]], turning displacement into coalition growth.
+The earliest source traces pressure through railroad surveys, bison destruction, and the 1874 gold expedition. It presents the [[BlackHills]] as recently won territory whose bison, timber, prestige, and spiritual meaning made surrender politically unacceptable, qualifying both timeless-ownership claims and any inference that recent control meant weak attachment. Resistance to survey parties and failed purchase talks preceded the later coercive sequence.
+
+The next pre-battle source places the coalition inside settler intrusion, an impossible winter agency deadline, a hostile public report, and military attack. [[ManufacturedWarPretext]] describes how formal protection could coexist with tolerated encroachment and how predictable noncompliance became grounds for war. Crook's winter attack also pushed Cheyenne survivors toward [[CrazyHorse]] and [[SittingBull]], turning displacement into coalition growth.
 
 The battle sources present Little Bighorn as a Lakota and Cheyenne victory produced by a large coalition, battlefield confidence, leadership, numerical strength, and access among some fighters to repeating weapons. Sitting Bull helped gather disparate groups and reportedly counseled against initiating battle; Crazy Horse and Gall are associated more directly with attacks that broke Custer's separated positions. This reframing refuses to explain the result only through U.S. errors or to treat Native fighters as an undifferentiated mass.
 
@@ -32,7 +35,7 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 - The sources treat the Lakota as a living and politically diverse people rather than a vanished or uniform culture.
 - Little Bighorn was a victory shaped by coalition, leadership, confidence, numbers, and weapons rather than merely a U.S. blunder.
-- Black Hills intrusion, the winter ultimatum, and military displacement shaped the coalition before the battle.
+- Railroad surveys, bison destruction, Black Hills intrusion, failed purchase, the winter ultimatum, and military displacement shaped the coalition before battle.
 - Their reservation crisis joined ecological destruction, material deprivation, land loss, cultural coercion, and spiritual rupture.
 - Military pursuit and ration leverage converted the limits of armed resistance into pressure for surrender, disarmament, and confinement.
 - Accommodation, resistance, conversion, policing, kinship, performance, and rivalry overlapped under constrained choices.
@@ -40,6 +43,7 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 ## Evidence
 
+- Territorial and subsistence pressure: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] connects railroad surveys, bison killing, the gold rush, resistance, and failed purchase talks.
 - War pretext and coalition growth: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] links tolerated settler intrusion, the winter agency deadline, the Watkins report, Crook's attack, and displaced Cheyenne arrivals.
 - Restraint and Rosebud: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] presents Sitting Bull and Crazy Horse as favoring strategic patience before Lakota and Cheyenne forces stopped Crook.
 - Battlefield victory: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] connects Sitting Bull's coalition-building, Crazy Horse and Gall's leadership, repeating rifles, numbers, and confidence to the destruction of Custer's command.
@@ -52,23 +56,24 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 ## Qualifications
 
-- These pages provide a four-episode popular-history sequence's Little Bighorn and reservation-crisis account, not a complete Lakota history or contemporary profile.
+- These pages provide a six-episode popular-history sequence's Little Bighorn and reservation-crisis account, not a complete Lakota history or contemporary profile.
 - Native eyewitness accounts remain indispensable but varied, often translated, and recorded under unequal documentary conditions.
 - The sources sometimes use broad period language such as “Sioux” or “Indian”; this synthesis uses Lakota where the subject is specifically Lakota.
 - Population, deprivation, and current social-condition claims would require dedicated primary and contemporary data for verification.
 - Describing internal division must not shift responsibility for coercive reservation policy or military violence onto the people subjected to it.
 - Statements about promises, translation, motives, visions, costs, and individual responsibility remain source-scoped where the episodes do not compare records.
 - The deliberate-pretext interpretation, Watkins report assessment, village totals, and exact coalition decision processes require comparison with primary and Native sources.
+- The chronology and character of Black Hills ownership and sacred meaning require Lakota evidence and specialist scholarship beyond the episode's qualification.
 
 ## What Changed
 
-- Extended the profile backward to Black Hills encroachment, the winter ultimatum, and the public construction of a war threat.
-- Added U.S. military displacement as a cause of Cheyenne movement into the larger coalition.
-- Added strategic restraint and the Rosebud victory to the pre-Little Bighorn account.
+- Extended the profile backward through railroad surveys, bison destruction, the gold expedition, and failed purchase talks.
+- Qualified the relationship between recent territorial control and deep political, material, and spiritual attachment.
 
 ## Relationships
 
 - [[SittingBull]] - resistance leader and symbol within a divided reservation-era political field.
+- [[BlackHills]] - contested region central to livelihood, authority, gold intrusion, and failed federal purchase.
 - [[CrazyHorse]] - resistance leader whose surrender and killing expose the transition from open war to coercive confinement.
 - [[GallLakota|Gall]] - Hunkpapa leader associated with the attack on Calhoun Hill.
 - [[BattleOfLittleBighorn]] - tactical victory that intensified the later U.S. campaign.

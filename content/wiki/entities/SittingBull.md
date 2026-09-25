@@ -8,6 +8,7 @@ sources:
   - 454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
+  - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -20,7 +21,9 @@ Sitting Bull was a [[LakotaPeople|Lakota]] leader whose coalition-building befor
 
 ## Current Profile
 
-The pre-battle episode places Sitting Bull's coalition-building inside growing pressure from Black Hills intrusion, bison destruction, the winter agency ultimatum, and military attack. It portrays him as welcoming Cheyenne and other newcomers while counseling that the village should not seek battle unless attacked. His Sun Dance vision of an approaching army being destroyed strengthened spiritual authority, but the source does not make a vision a substitute for material strategy or collective action.
+The earlier episode places Sitting Bull's resistance before the final war sequence. In 1872 he joined [[CrazyHorse]] in opposing a railroad survey and was portrayed as calmly smoking under U.S. fire, an episode that reinforced his courage and spiritual reputation. In 1875 he encouraged a wider Lakota and Cheyenne gathering, used ritual and political performance to prepare resistance, and rejected the proposed sale of the [[BlackHills]].
+
+The pre-battle episode places his later coalition-building inside growing pressure from Black Hills intrusion, bison destruction, the winter agency ultimatum, and military attack. It portrays him as welcoming Cheyenne and other newcomers while counseling that the village should not seek battle unless attacked. His Sun Dance vision of an approaching army being destroyed strengthened spiritual authority, but the sources do not make vision or ritual a substitute for material strategy or collective action.
 
 The battle episodes credit Sitting Bull with helping unite disparate groups into the unusually large encampment that defeated [[GeorgeArmstrongCuster]]'s divided command. They do not cast him as the sole tactical commander; [[CrazyHorse]] and [[GallLakota|Gall]] are more directly associated with attacks on the U.S. positions. His contribution lies in coalition and spiritual-political authority within a diverse force.
 
@@ -31,7 +34,7 @@ The sources place him between symbolic authority and declining local power. He s
 ## Key Characteristics
 
 - He remained a powerful symbol of Lakota independence while his immediate authority was constrained and contested.
-- His coalition-building helped assemble the numbers and confidence behind the Little Bighorn victory without making him sole battlefield commander.
+- His resistance to surveys and land sale preceded coalition-building that helped assemble the numbers and confidence behind the Little Bighorn victory.
 - He is presented as advocating restraint unless attacked while receiving people displaced by U.S. pressure and military action.
 - Reservation dependency and McLaughlin's governance made his dispossession personal, political, and spiritual.
 - He engaged with the Ghost Dance without being established as its prophet or military commander.
@@ -40,6 +43,7 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## Evidence
 
+- Early resistance and Black Hills refusal: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] links the 1872 survey confrontation, 1875 gathering, ritual authority, and refusal to sell.
 - Coalition growth and restraint: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] links Black Hills pressure, the winter ultimatum, Cheyenne displacement, welcome of newcomers, and a wait-unless-attacked posture.
 - Spiritual authority: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] describes his Sun Dance and reported vision before the campaign converged.
 - Little Bighorn coalition: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] credits him with bringing disparate groups into the large encampment while distinguishing his role from tactical leadership by Crazy Horse and Gall.
@@ -60,16 +64,17 @@ The sources place him between symbolic authority and declining local power. He s
 - His symbolic role should not erase political diversity among Lakota people.
 - Coalition leadership at Little Bighorn should not be simplified into sole tactical command of every action.
 - Village totals, the precise content and influence of the Sun Dance vision, and the degree of restraint he could enforce remain source-scoped.
+- The smoking-under-fire scene, reported words about the Black Hills, and ritual performance come through retrospective popular-history narration.
 
 ## What Changed
 
-- Extended coalition-building into the Black Hills crisis, winter ultimatum, and displacement caused by U.S. attacks.
-- Added his reported counsel not to initiate battle and his Sun Dance vision.
-- Preserved the distinction between spiritual-political authority and the tactical roles assigned to Crazy Horse and Gall.
+- Extended resistance backward to the 1872 survey confrontation and failed 1875 land-sale talks.
+- Connected ritual performance to coalition preparation while preserving the distinction from tactical command.
 
 ## Relationships
 
 - [[LakotaPeople]] - people and political community within which he exercised and contested authority.
+- [[BlackHills]] - territory whose sale he rejected as miner pressure intensified.
 - [[CrazyHorse]] - fellow resistance leader whose decision to remain south and surrender diverged from Sitting Bull's Canadian exile.
 - [[BattleOfLittleBighorn]] - victory enabled in part by the large coalition gathered around his authority.
 - [[GallLakota|Gall]] - fellow Hunkpapa leader associated with direct battlefield attacks.
