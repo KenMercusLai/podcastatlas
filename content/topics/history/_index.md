@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2002
+topic_total_pages: 2003
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4605,6 +4605,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244"
+    title: "446. Custer vs. Crazy Horse: Civil War (Part 1)"
+    url: "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
   - key: "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977"
     title: "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)"
     url: "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"

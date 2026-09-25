@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [446. Custer vs. Crazy Horse: Civil War (Part 1)](sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244.md) — The Rest Is History episode on Custer's youth, political contradictions, Civil War rise, theatrical command, military celebrity, and the strengths that may have prepared later overreach.
 - [Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means](sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211.md) — Huberman Lab interview on mitochondrial metabolic capacity, distributed movement, food quality, circadian eating, biomarker context, CGM feedback, and medical boundaries.
 - [447. Custer vs. Crazy Horse: The Winning of the West (Part 2)](sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977.md) — The Rest Is History episode on Custer's postwar failures and recovery, Cheyenne resistance, punitive village warfare, and the Washita massacre.
 - [VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题](sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm.md) — 这病说来话长 Mother's Day roundtable on older-adult healthcare avoidance, family persuasion, hospital navigation, trust, accompaniment, and escalation thresholds.

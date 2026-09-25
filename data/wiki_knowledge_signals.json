@@ -24212,9 +24212,9 @@
       "url": "/wiki/entities/chitingdefenselatehan/"
     },
     "ChivalricRomanceWarMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5584156008 [GLT5584156008].md",
@@ -24222,9 +24222,16 @@
           "show": "The Rest Is History",
           "title": "318: Hundred Years' War: A Game of Thrones (Part 1)",
           "url": "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+        },
+        {
+          "episode_file": "GLT9088781244 [GLT9088781244].md",
+          "key": "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244",
+          "show": "The Rest Is History",
+          "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
+          "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
         }
       ],
-      "updated": "2026-09-04",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/chivalricromancewarmemory/"
     },
     "ChizaoGengxin": {
@@ -54739,9 +54746,9 @@
       "url": "/wiki/entities/georgearmistead/"
     },
     "GeorgeArmstrongCuster": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -54777,6 +54784,13 @@
           "show": "The Rest Is History",
           "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
           "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        },
+        {
+          "episode_file": "GLT9088781244 [GLT9088781244].md",
+          "key": "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244",
+          "show": "The Rest Is History",
+          "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
+          "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
         }
       ],
       "updated": "2026-09-25",
@@ -62392,9 +62406,9 @@
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicLastStandMyth": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -62423,6 +62437,13 @@
           "show": "The Rest Is History",
           "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
           "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        },
+        {
+          "episode_file": "GLT9088781244 [GLT9088781244].md",
+          "key": "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244",
+          "show": "The Rest Is History",
+          "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
+          "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
         }
       ],
       "updated": "2026-09-25",
@@ -105749,9 +105770,9 @@
       "url": "/wiki/entities/philipofcoburg/"
     },
     "PhilipSheridan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4301705603 [GLT4301705603].md",
@@ -105773,6 +105794,13 @@
           "show": "The Rest Is History",
           "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
           "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        },
+        {
+          "episode_file": "GLT9088781244 [GLT9088781244].md",
+          "key": "446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244",
+          "show": "The Rest Is History",
+          "title": "446. Custer vs. Crazy Horse: Civil War (Part 1)",
+          "url": "/wiki/sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244/"
         }
       ],
       "updated": "2026-09-25",

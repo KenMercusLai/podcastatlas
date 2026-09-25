@@ -22542,3 +22542,11 @@ Added source `transform-your-health-by-improving-metabolism-hormone-blood-sugar-
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 446. Custer vs. Crazy Horse: Civil War (Part 1)
+
+Added source `446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244`; updated `GeorgeArmstrongCuster`, `PhilipSheridan`, `HeroicLastStandMyth`, and `ChivalricRomanceWarMemory` from their complete bounded source sets. Core synthesis: Custer's Civil War boldness, theatrical visibility, and celebrity rested on genuine cavalry success but also reinforced habits that became dangerous under different conditions; the later Little Bighorn outcome is not treated as predetermined. No settled contradiction found; political inconsistency, repeated disciplinary reprieve, and the relationship between wartime success and later catastrophe remain explicit and source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis found no dirty topics and the global compaction gate was not due.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
