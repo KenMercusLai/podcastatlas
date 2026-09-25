@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10770
+wiki_total_pages: 10775
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "MengFanqing"
     title: "Meng Fanqing / 孟繁青"
     url: "/wiki/entities/mengfanqing/"
+  - key: "MengJunIBDAdvocate"
+    title: "Meng Jun / 孟君 (IBD Advocate)"
+    url: "/wiki/entities/mengjunibdadvocate/"
   - key: "MengYan"
     title: "Meng Yan / 孟岩"
     url: "/wiki/entities/mengyan/"

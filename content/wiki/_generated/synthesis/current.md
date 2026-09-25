@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-25
-as_of_overview_commit: 5b68b0ed40ed2eefd81207222a0e85f0c17feb1b
+as_of_overview_commit: 3cbaff74594f8d9603949f91f359f64dd1ce5e4f
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care become lived systems."
-episode_count: 2811
-source_count: 2811
-paragraph_count: 705
+episode_count: 2812
+source_count: 2812
+paragraph_count: 706
 topic_count: 9
 ---
 
@@ -75,14 +75,14 @@ Psychological development depends on embodied regulation, relational safety, cal
 
 ### Science, Health, and Climate
 
-Science and health literacy require mechanism, measurement, urgent escalation where appropriate, qualified care, explicit uncertainty, and respect for the boundary between cultural meaning and empirical claims.
+Science and health literacy require mechanism, measurement, qualified care, chronic-disease remission and nutrition support, urgent escalation where appropriate, and explicit uncertainty.
 
 - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523|The Ryan Soave Huberman Lab episode]] adds a staged addiction-recovery branch: [[AddictionAsAttemptedRelief]] treats compulsive substance or behavioral use as fast relief that can become a new source of stress and harm, while [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], and [[RecoveryCommunityConnection]] move recovery from stabilization toward tolerating discomfort, anticipating emotional hazards, practicing safer coping, and building purpose and connection beyond abstinence. Evidence: [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]], [[HubermanLab]], [[RyanSoave]], [[AddictionAsAttemptedRelief]], [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], [[RecoveryCommunityConnection]], [[DigitalSexualSubstituteRisk]].
 - [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628]], [[AllIn]], [[BillGurley]], [[RichardFeynman]], [[KiyoshiKurokawa]], [[DRASTIC]], [[CatastrophicFailureRootCauseInvestigation]], [[CAPACorrectivePreventiveAction]], [[InvestigationConflictOfInterest]], [[COVIDOriginsInvestigationUncertainty]], [[AnthonyFauci]], [[ScienceTrustPoliticization]].
 
 ### Work, Education, and Society
 
-Learning, work, and care improve through active practice, trustworthy institutions, visible labor, bilateral role clarity, judgment, and durable support.
+Learning, work, chronic-illness participation, and care improve through active practice, trustworthy institutions, visible labor, bilateral role clarity, judgment, and durable clinical and social support.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

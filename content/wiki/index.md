@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题](sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu.md) — 这病说来话长 episode on inflammatory bowel disease recognition, remission-oriented care, patient experience, and CCCF education, peer support, and advocacy.
 - [449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)](sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095.md) — The Rest Is History episode on Sitting Bull's warrior and spiritual authority, the Fetterman victory, the 1868 reservation split, and renewed railroad pressure.
 - [How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis](sources/how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889.md) — Huberman Lab interview on Jungian self-inquiry, unconscious complexes, shadow integration, relationship responsibility, suffering as a qualified task, aging, and mortality-bounded meaning.
 - [451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)](sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603.md) — The Rest Is History account of the Black Hills war pretext, failed winter campaign, Rosebud setback, communication-poor convergence, and pressures shaping Custer's final advance.
@@ -2834,6 +2835,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [Li Jingnan / 李景南](entities/LiJingnan.md) — Gastroenterologist explaining IBD recognition, remission, long-term treatment, complications, surgery timing, and shared decisions.
+- [Meng Jun / 孟君 (IBD Advocate)](entities/MengJunIBDAdvocate.md) — Patient and nonprofit communicator connecting severe IBD onset, clinical remission, maintenance care, and public education.
+- [Fu Haoran / 傅浩然 (IBD Advocate)](entities/FuHaoranIBDAdvocate.md) — Crohn's disease patient and peer educator describing delayed diagnosis, severe complications, recovery, and social-media support.
+- [Chen Yan / 陈彦 (IBD Doctor)](entities/ChenYanIBDDoctor.md) — Gastroenterologist and nonprofit leader connecting clinical care with camps, education, advocacy, fundraising, and patient support.
+- [CCCF IBD Foundation / CCCF 爱在延长炎症性肠病基金会](entities/CCCFIBDFoundation.md) — China-based IBD nonprofit represented through training, support, advocacy, research, health kits, and youth camps.
 - [Red Cloud](entities/RedCloud.md) — Oglala Lakota leader whose Bozeman Trail victory and later reservation accommodation contrast military leverage with constrained political choice.
 - [Fetterman Fight](entities/FettermanFight.md) — 1866 destruction of Fetterman's U.S. Army detachment, remembered as both a Lakota-allied victory and an American massacre.
 - [Great Sioux Reservation](entities/GreatSiouxReservation.md) — 1868 treaty territory whose ambiguous unceded lands and divided reception prefigured later reservation conflict.
@@ -13618,6 +13624,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Inflammatory Bowel Disease Management / 炎症性肠病管理](concepts/InflammatoryBowelDiseaseManagement.md) — Long-term framework joining ulcerative colitis and Crohn's recognition, remission, treatment, nutrition, complications, shared decisions, and ordinary life.
+- [IBD Patient Education and Peer Support / IBD患者教育与同伴支持](concepts/IBDPatientEducationAndPeerSupport.md) — Complementary-care model joining trustworthy knowledge, lived experience, families, clinicians, nonprofit programs, and public inclusion.
 - [Jungian Self and Ego](concepts/JungianSelfAndEgo.md) — Distinction between a necessary social ego and a deeper, interpreted organizing direction of life.
 - [Unconscious Complex Repetition](concepts/UnconsciousComplexRepetition.md) — Jungian account of outdated emotional premises repeatedly taking over present reactions and choices.
 - [Shadow Integration](concepts/ShadowIntegration.md) — Responsibility-centered practice of recognizing disowned material and limiting its projection into people and groups.

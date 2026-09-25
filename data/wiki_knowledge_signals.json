@@ -16049,9 +16049,9 @@
       "url": "/wiki/entities/bowangslopebattlelatehan/"
     },
     "BowelSymptomTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lvTxC2z3hN5UkH3VA9rzijreMCIh [lvTxC2z3hN5UkH3VA9rzijreMCIh].md",
@@ -16059,9 +16059,16 @@
           "show": "这病说来话长",
           "title": "VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书",
           "url": "/wiki/sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih/"
+        },
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/bowelsymptomtriage/"
     },
     "BowuzhiPodcast": {
@@ -17441,6 +17448,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cbdevidencedoseboundary/"
+    },
+    "CCCFIBDFoundation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/cccfibdfoundation/"
     },
     "CElegansModelOrganism": {
       "episode_count": 1,
@@ -22272,6 +22295,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/chenxuanzangconqueringdemons/"
     },
+    "ChenYanIBDDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/chenyanibddoctor/"
+    },
     "ChenYongFootballReporter": {
       "episode_count": 1,
       "show_count": 1,
@@ -24403,9 +24442,9 @@
       "url": "/wiki/entities/christyescobel/"
     },
     "ChronicDiseaseTreatmentAdherence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
@@ -24413,15 +24452,22 @@
           "show": "这病说来话长",
           "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
           "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        },
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/chronicdiseasetreatmentadherence/"
     },
     "ChronicIllnessQualityOfLife": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lsea_weckD5_5CSwf0gHCabW0veK [lsea_weckD5_5CSwf0gHCabW0veK].md",
@@ -24429,9 +24475,16 @@
           "show": "这病说来话长",
           "title": "VOL.138红斑狼疮是一种慢性病，但人生何尝不是一种慢性病呢？｜含求生游戏环节",
           "url": "/wiki/sources/vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek/"
+        },
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/chronicillnessqualityoflife/"
     },
     "ChronicInsomniaRecognitionAndTreatment": {
@@ -51389,6 +51442,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/fugan/"
     },
+    "FuHaoranIBDAdvocate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/fuhaoranibdadvocate/"
+    },
     "FuJiaWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -67246,6 +67315,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/hypertensiontargetorgandamage/"
     },
+    "IBDPatientEducationAndPeerSupport": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/ibdpatienteducationandpeersupport/"
+    },
     "IBMDataStage": {
       "episode_count": 1,
       "show_count": 1,
@@ -68956,6 +69041,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/infinityventurestudio/"
+    },
+    "InflammatoryBowelDiseaseManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/inflammatoryboweldiseasemanagement/"
     },
     "InflammatorySkinConditionTriage": {
       "episode_count": 1,
@@ -79486,6 +79587,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/lijinwulinglatehan/"
+    },
+    "LiJingnan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/lijingnan/"
     },
     "LiJunrongFootballHistorian": {
       "episode_count": 1,
@@ -91891,6 +92008,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/menelikii/"
+    },
+    "MengJunIBDAdvocate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpmvs4nuik_bzGLZ3LNADZBNc_eu [lpmvs4nuik_bzGLZ3LNADZBNc_eu].md",
+          "key": "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu",
+          "show": "这病说来话长",
+          "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+          "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/mengjunibdadvocate/"
     },
     "MengMinLateHan": {
       "episode_count": 1,

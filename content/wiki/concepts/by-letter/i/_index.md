@@ -6,8 +6,11 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8131
+wiki_total_pages: 8133
 wiki_pages:
+  - key: "IBDPatientEducationAndPeerSupport"
+    title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
+    url: "/wiki/concepts/ibdpatienteducationandpeersupport/"
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
     url: "/wiki/concepts/iberianreconquista/"
@@ -374,6 +377,9 @@ wiki_pages:
   - key: "InferioritySuperiorityDynamic"
     title: "Inferiority-Superiority Dynamic"
     url: "/wiki/concepts/inferioritysuperioritydynamic/"
+  - key: "InflammatoryBowelDiseaseManagement"
+    title: "Inflammatory Bowel Disease Management / 炎症性肠病管理"
+    url: "/wiki/concepts/inflammatoryboweldiseasemanagement/"
   - key: "InflammatorySkinConditionTriage"
     title: "Inflammatory Skin Condition Triage"
     url: "/wiki/concepts/inflammatoryskinconditiontriage/"

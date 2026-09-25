@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
       "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
       "1729088f961a00bc2af68fa44edab26e5981527d21f25b1394499ae9a7f5a2e2",
       "5339b4a98df7bd41706f0d2e0b00827283a576eccb19532815044f668176ef47",
@@ -707,11 +708,36 @@
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e"
     ],
-    "paragraph_count": 705
+    "paragraph_count": 706
   },
-  "overview_commit": "5b68b0ed40ed2eefd81207222a0e85f0c17feb1b",
-  "overview_digest": "3bce1702e73a7219851a206d9cdd37568991ef8609029396adb77f3576cbd39e",
+  "overview_commit": "3cbaff74594f8d9603949f91f359f64dd1ce5e4f",
+  "overview_digest": "898df3b58b352f7acd2278a8893764bf66c8af94c9f94bc86070694b11744f5e",
   "paragraphs": [
+    {
+      "id": "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The newest inflammatory-bowel-disease source, [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu|VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题]], combines [[LiJingnan|李景南]]'s medical explanation with patient accounts from [[MengJunIBDAdvocate|孟君]] and [[FuHaoranIBDAdvocate|傅浩然]] and nonprofit experience from [[ChenYanIBDDoctor|陈彦]]. It adds [[InflammatoryBowelDiseaseManagement]], [[IBDPatientEducationAndPeerSupport]], and [[CCCFIBDFoundation|CCCF 爱在延长炎症性肠病基金会]], while extending [[BowelSymptomTriage]], [[ChronicDiseaseTreatmentAdherence]], and [[ChronicIllnessQualityOfLife]]. Its core health synthesis is that ulcerative colitis and Crohn's disease require qualified diagnosis and remission-oriented long-term management rather than infection shorthand or stop-start symptom treatment; nutrition, timely escalation, shared decisions, family and peer support, trustworthy education, and public inclusion help preserve schooling, work, function, and ordinary life. No settled contradiction is recorded; the 傅皓然/傅浩然 name variation is retained as a transcription inconsistency, while epidemiology, forecasts, treatment duration, medicine sequences, surgery trends, program reach, cost comparisons, and personal outcomes remain source-scoped.",
+      "topic_scores": {
+        "science-health-and-climate": 3,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "BowelSymptomTriage",
+        "CCCFIBDFoundation",
+        "ChenYanIBDDoctor",
+        "ChronicDiseaseTreatmentAdherence",
+        "ChronicIllnessQualityOfLife",
+        "FuHaoranIBDAdvocate",
+        "IBDPatientEducationAndPeerSupport",
+        "InflammatoryBowelDiseaseManagement",
+        "LiJingnan",
+        "MengJunIBDAdvocate",
+        "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu"
+      ]
+    },
     {
       "id": "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
       "primary_topic": "business-and-markets",

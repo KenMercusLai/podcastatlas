@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10770
+wiki_total_pages: 10775
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "FTX"
     title: "FTX"
     url: "/wiki/entities/ftx/"
+  - key: "FuHaoranIBDAdvocate"
+    title: "Fu Haoran / 傅浩然 (IBD Advocate)"
+    url: "/wiki/entities/fuhaoranibdadvocate/"
   - key: "FUBU"
     title: "FUBU"
     url: "/wiki/entities/fubu/"

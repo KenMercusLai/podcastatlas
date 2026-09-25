@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题
+
+Added source `vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu`; created `LiJingnan`, `MengJunIBDAdvocate`, `FuHaoranIBDAdvocate`, `ChenYanIBDDoctor`, `CCCFIBDFoundation`, `InflammatoryBowelDiseaseManagement`, and `IBDPatientEducationAndPeerSupport`; and updated `BowelSymptomTriage`, `ChronicDiseaseTreatmentAdherence`, and `ChronicIllnessQualityOfLife` from their complete bounded source sets. Core synthesis: IBD is a chronic immune-mediated category whose care seeks durable remission and preserved nutrition, function, schooling, work, and ordinary life through qualified diagnosis, long-term treatment, follow-up, shared decisions, and timely escalation; patient education, peers, families, clinicians, and nonprofit programs complement rather than replace clinical care. No settled contradiction found. The 傅皓然/傅浩然 name variation is recorded, and epidemiology, forecasts, treatment duration, medicine sequences, surgery trends, program reach, and personal outcomes remain source-scoped public education. The canonical `wiki/overview.md` was updated during ingest; the downstream synthesis-refresh workflow only read it.
+
 ## [2026-09-25] ingest | 449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)
 
 Added source `449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095`; created `RedCloud`, `FettermanFight`, and `GreatSiouxReservation`; and updated `SittingBull`, `CrazyHorse`, `LakotaPeople`, and `CoerciveReservationAssimilation` from their complete bounded source sets. Core synthesis: Sitting Bull's authority joined warrior achievement, sacred reputation, ritual endurance, charisma, and resistance to material dependency; the Fetterman victory helped force U.S. withdrawal, but the 1868 settlement divided Lakota leaders between constrained reservation accommodation and continued refusal while leaving unceded territory ambiguous. No settled contradiction found. Translated speech, naming and duel stories, ritual experiences, political acclamation, exact battlefield actions, treaty intent, and individual motives remain source-scoped. The canonical `wiki/overview.md` was updated during ingest; the downstream synthesis-refresh workflow only read it.
@@ -22487,6 +22491,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis
 
 Added source `how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889`; created `JamesHollis`, `JungianSelfAndEgo`, `UnconsciousComplexRepetition`, `ShadowIntegration`, `SymptomsAsPsychologicalTasks`, and `MortalityBoundedMeaning` from the source's complete bounded input; and updated the canonical overview and index. Core synthesis: inherited ego stories and complexes can keep old adaptations active; dreams, feelings, energy, repeated consequences, and trusted feedback can support accountable inquiry; shadow ownership limits projection; distress may present a task without replacing differential diagnosis or treatment; and mortality gives finite choices weight. No settled contradiction found. Dreams, energy, numinous experience, gender, culture, diagnosis, and afterlife claims remain source-scoped Jungian or philosophical interpretations. The downstream synthesis refresh only reads the canonical `wiki/overview.md` before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

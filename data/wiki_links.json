@@ -10699,6 +10699,10 @@
     "title": "CBS",
     "url": "/wiki/entities/cbs/"
   },
+  "CCCFIBDFoundation": {
+    "title": "CCCF IBD Foundation / CCCF 爱在延长炎症性肠病基金会",
+    "url": "/wiki/entities/cccfibdfoundation/"
+  },
   "CEOPayLuckSkimming": {
     "title": "CEO Pay Luck Skimming / CEO薪酬揩油",
     "url": "/wiki/concepts/ceopayluckskimming/"
@@ -12890,6 +12894,10 @@
   "ChenXuanzangConqueringDemons": {
     "title": "陈玄奘（《西游降魔篇》）",
     "url": "/wiki/entities/chenxuanzangconqueringdemons/"
+  },
+  "ChenYanIBDDoctor": {
+    "title": "Chen Yan / 陈彦 (IBD Doctor)",
+    "url": "/wiki/entities/chenyanibddoctor/"
   },
   "ChenYiJinchengLateHan": {
     "title": "陈懿 / Chen Yi (Jincheng)",
@@ -26067,6 +26075,10 @@
     "title": "傅干 / Fu Gan",
     "url": "/wiki/entities/fugan/"
   },
+  "FuHaoranIBDAdvocate": {
+    "title": "Fu Haoran / 傅浩然 (IBD Advocate)",
+    "url": "/wiki/entities/fuhaoranibdadvocate/"
+  },
   "FuJiaWesternHan": {
     "title": "傅嘉 / Fu Jia (Western Han)",
     "url": "/wiki/entities/fujiawesternhan/"
@@ -32547,6 +32559,10 @@
     "title": "Hypertension Target-Organ Damage / 高血压靶器官损害",
     "url": "/wiki/concepts/hypertensiontargetorgandamage/"
   },
+  "IBDPatientEducationAndPeerSupport": {
+    "title": "IBD Patient Education and Peer Support / IBD患者教育与同伴支持",
+    "url": "/wiki/concepts/ibdpatienteducationandpeersupport/"
+  },
   "IBM": {
     "title": "IBM",
     "url": "/wiki/entities/ibm/"
@@ -33362,6 +33378,10 @@
   "InfinityVentureStudio": {
     "title": "Infinity Venture Studio",
     "url": "/wiki/entities/infinityventurestudio/"
+  },
+  "InflammatoryBowelDiseaseManagement": {
+    "title": "Inflammatory Bowel Disease Management / 炎症性肠病管理",
+    "url": "/wiki/concepts/inflammatoryboweldiseasemanagement/"
   },
   "InflammatorySkinConditionTriage": {
     "title": "Inflammatory Skin Condition Triage",
@@ -39267,6 +39287,10 @@
     "title": "李菁 / Li Jing (Sanlian)",
     "url": "/wiki/entities/lijingsanlian/"
   },
+  "LiJingnan": {
+    "title": "Li Jingnan / 李景南",
+    "url": "/wiki/entities/lijingnan/"
+  },
   "LiJueLateHan": {
     "title": "李傕 / Li Jue (late Han)",
     "url": "/wiki/entities/lijuelatehan/"
@@ -44306,6 +44330,10 @@
   "MengJia": {
     "title": "蒙嘉 / Meng Jia",
     "url": "/wiki/entities/mengjia/"
+  },
+  "MengJunIBDAdvocate": {
+    "title": "Meng Jun / 孟君 (IBD Advocate)",
+    "url": "/wiki/entities/mengjunibdadvocate/"
   },
   "MengMinLateHan": {
     "title": "孟敏 / Meng Min (late Han)",
@@ -81686,6 +81714,10 @@
   "vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu": {
     "title": "Vol.113 从几千页智库文件中，勾勒特朗普2.0执政计划背后的人、机构、思想和脉络",
     "url": "/wiki/sources/vol-113-cong-jiqian-ye-zhiku-wenjian-zhong-goule-telangpu-2-0-zhizheng-jihua-beihou-de-ren-jigou-sixiang-he-mailuo-lihnknc-3om5evexocb6a6zdwueu/"
+  },
+  "vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu": {
+    "title": "VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题",
+    "url": "/wiki/sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu/"
   },
   "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo": {
     "title": "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授",

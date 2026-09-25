@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10770
+wiki_total_pages: 10775
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -365,6 +365,9 @@ wiki_pages:
   - key: "CBS"
     title: "CBS"
     url: "/wiki/entities/cbs/"
+  - key: "CCCFIBDFoundation"
+    title: "CCCF IBD Foundation / CCCF 爱在延长炎症性肠病基金会"
+    url: "/wiki/entities/cccfibdfoundation/"
   - key: "CecilyFarr"
     title: "Cecily Farr / 西西莉·法尔"
     url: "/wiki/entities/cecilyfarr/"
@@ -635,6 +638,9 @@ wiki_pages:
   - key: "ChenTianqiao"
     title: "Chen Tianqiao / 陈天桥"
     url: "/wiki/entities/chentianqiao/"
+  - key: "ChenYanIBDDoctor"
+    title: "Chen Yan / 陈彦 (IBD Doctor)"
+    url: "/wiki/entities/chenyanibddoctor/"
   - key: "ChenYiqiang"
     title: "Chen Yiqiang"
     url: "/wiki/entities/chenyiqiang/"

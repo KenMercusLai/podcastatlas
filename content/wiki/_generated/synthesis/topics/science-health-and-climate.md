@@ -4,17 +4,29 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-25
-as_of_overview_commit: 5b68b0ed40ed2eefd81207222a0e85f0c17feb1b
-input_digest: 61eeb559166809621dd988167965be88dcc5e75ef07038a6bc7fffaa72524cb1
+as_of_overview_commit: 3cbaff74594f8d9603949f91f359f64dd1ce5e4f
+input_digest: 94137dffd1b47d6dd5c715f957b040314385462d0fab6e8d56cc466258858624
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-The Sitting Bull episode adds an evidence-boundary case: ritual suffering, visions, healing associations, and relations with animals can be historically central to Lakota sacred-political authority without becoming independently verified clinical, predictive, or natural-science claims; translation and retrospective narration remain part of the evidence. Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanism, measurement, urgent escalation, qualified treatment, and uncertainty matter more than symptom shorthand or cure claims. The IBD source adds a remission-oriented chronic-care branch in which symptom relief does not end treatment, nutrition and complications remain visible, and education, peer support, and public inclusion complement specialist care. The Sitting Bull episode adds an evidence-boundary case: ritual suffering, visions, healing associations, and relations with animals can be historically central to Lakota sacred-political authority without becoming independently verified clinical, predictive, or natural-science claims; translation and retrospective narration remain part of the evidence. Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.
 
 ## Cross-source Findings
+
+### Ibd Care Needs Remission Nutrition And Qualified Support
+
+[[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu|VOL.113]] adds an IBD chronic-care branch: [[InflammatoryBowelDiseaseManagement]] distinguishes ulcerative colitis and Crohn's disease from infection shorthand, treats symptom relief as different from sustained remission, and joins medicines, nutrition, complication monitoring, timely surgery, and shared decisions; [[IBDPatientEducationAndPeerSupport]] and [[CCCFIBDFoundation]] add complementary patient, family, peer, and public support.
+
+**Evidence:** [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]], [[InflammatoryBowelDiseaseManagement]], [[IBDPatientEducationAndPeerSupport]], [[CCCFIBDFoundation]]
+
+**Qualifications:**
+
+- The episode is public medical education and selected patient or nonprofit testimony, not diagnostic criteria, a clinical guideline, representative outcome data, or individualized treatment advice.
+- Education, peer support, family help, and public inclusion complement but do not replace gastroenterology assessment, medicines, nutrition care, surgery, mental-health care, or emergency escalation.
+- Regional patterns, growth forecasts, treatment duration, medicine sequences, surgery trends, program reach, cost comparisons, and personal outcomes remain source-scoped.
 
 ### Addiction Recovery Needs Stabilization Distress Tolerance And Connection
 
