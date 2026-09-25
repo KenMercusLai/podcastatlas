@@ -701,13 +701,14 @@
       "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
       "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73",
       "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96",
+      "ca7303491176075c59c34df3aed7d722636f05e2b212c255db888e3a3e063dad",
       "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c",
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f"
     ],
-    "paragraph_count": 702
+    "paragraph_count": 703
   },
-  "overview_commit": "dab70ef16f2533c8ba1b8d4a65d69056fc0db47e",
-  "overview_digest": "9ea5339ecbb2e84aedae4dcbaecbef77ae7fbe1307a3ed2f371fa2a8327bc339",
+  "overview_commit": "1db758b9a0028f24f8d3f8feadef1b0825514ca9",
+  "overview_digest": "188999b236c42fddf8b1b30b1574ff2c725b44fcd067ea5cc3f5c14496d65857",
   "paragraphs": [
     {
       "id": "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
@@ -20923,6 +20924,32 @@
         "ShangyeJiushiZheyang",
         "YiTingDomesticServiceConsultant",
         "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906"
+      ]
+    },
+    {
+      "id": "ca7303491176075c59c34df3aed7d722636f05e2b212c255db888e3a3e063dad",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The newest pre-Little-Bighorn source, [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603|451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)]], adds [[AlfredTerry]], [[GeorgeCrook]], [[PhilipSheridan]], [[JohnGibbon]], [[BattleOfRosebud]], [[ManufacturedWarPretext]], and [[CampaignCoordinationWithoutCommunication]] while extending [[GeorgeArmstrongCuster]], [[SittingBull]], [[CrazyHorse]], [[MarcusReno]], [[FrederickBenteen]], and [[LakotaPeople]]. Its core synthesis is that tolerated Black Hills intrusion, an infeasible winter agency deadline, and a hostile public report structured predictable noncompliance into grounds for war; Crook's winter attack displaced Cheyenne people toward the growing Native coalition; and his unreported defeat at the Rosebud left Terry and Custer acting on a convergence that no longer existed. Custer's debt, political feud, self-promotion, and centennial urgency reinforced a preference for speed, but no single motive fully explains his choices. No settled contradiction is recorded; administrative intent, force and village totals, private motives, visions, dialogue, exact orders, corruption claims, and centennial timing remain source-scoped or contested.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603",
+        "AlfredTerry",
+        "BattleOfRosebud",
+        "CampaignCoordinationWithoutCommunication",
+        "CrazyHorse",
+        "FrederickBenteen",
+        "GeorgeArmstrongCuster",
+        "GeorgeCrook",
+        "JohnGibbon",
+        "LakotaPeople",
+        "ManufacturedWarPretext",
+        "MarcusReno",
+        "PhilipSheridan",
+        "SittingBull"
       ]
     },
     {

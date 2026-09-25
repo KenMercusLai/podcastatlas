@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)](sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603.md) — The Rest Is History account of the Black Hills war pretext, failed winter campaign, Rosebud setback, communication-poor convergence, and pressures shaping Custer's final advance.
 - [452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)](sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290.md) — The Rest Is History reconstruction of Little Bighorn's opening phase, Custer's assumptions and divided command, Reno's rout, Native mobilization, and the last message to Benteen.
 - [How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg](sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801.md) — Huberman Lab interview on cerebrovascular risk and urgency, concussion evaluation, function-preserving neurosurgery, rehabilitation, and the evidence boundaries around imaging, stimulation, cooling, PRP, and stem cells.
 - [453. Custer's Last Stand: The Final Showdown (Part 8)](sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977.md) — The Rest Is History reconstruction of Little Bighorn's final phase, Reno Hill's survival, Custer's destruction, Native battlefield leadership, and the evidence limits behind the last-stand myth.
@@ -2831,6 +2832,11 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [Gary Steinberg](entities/GarySteinberg.md) — Stanford neurosurgeon and researcher presented through vascular neurosurgery, brain injury, rehabilitation, and cautious neurorestoration.
+- [Alfred Terry](entities/AlfredTerry.md) — Campaign commander whose intelligence gap and discretionary orders framed Custer's advance toward Little Bighorn.
+- [George Crook](entities/GeorgeCrook.md) — U.S. commander whose winter attack enlarged the opposing coalition and whose Rosebud defeat silently removed the campaign's southern column.
+- [Philip Sheridan](entities/PhilipSheridan.md) — Senior U.S. commander who translated the winter ultimatum into a communication-poor converging campaign.
+- [John Gibbon](entities/JohnGibbon.md) — U.S. commander whose moral warning about dispossession coexisted with participation in the Little Bighorn campaign.
+- [Battle of the Rosebud](entities/BattleOfRosebud.md) — 1876 Lakota and Cheyenne victory that stopped Crook's advance without updating the other U.S. columns.
 - [Battle of the Little Bighorn](entities/BattleOfLittleBighorn.md) — 1876 Lakota and Cheyenne victory reconstructed through divided U.S. command, Native leadership, testimony, terrain, and archaeology.
 - [George Armstrong Custer](entities/GeorgeArmstrongCuster.md) — Seventh Cavalry commander whose fatal decisions and unknowable final movements became the basis of a heroic last-stand myth.
 - [Frederick Benteen](entities/FrederickBenteen.md) — Seventh Cavalry officer whose contested delay and later defense helped preserve Reno Hill survivors.
@@ -13607,6 +13613,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cerebrovascular Event Recognition](concepts/CerebrovascularEventRecognition.md) — Mechanism-aware recognition of ischemic stroke, hemorrhage, TIA, and sudden focal neurological symptoms requiring urgent assessment.
 - [Neurorestorative Stroke Recovery](concepts/NeurorestorativeStrokeRecovery.md) — Recovery framework pairing task-specific rehabilitation and surviving-circuit plasticity with qualified cell-based or electrical adjuncts.
 - [Preventive Neuroimaging Tradeoff](concepts/PreventiveNeuroimagingTradeoff.md) — Balance between actionable early detection and anxiety, surveillance, procedures, or overtreatment from incidental findings.
+- [Manufactured War Pretext](concepts/ManufacturedWarPretext.md) — Policy sequence using selective enforcement, an infeasible ultimatum, and threat publicity to make structured noncompliance justify force.
+- [Campaign Coordination Without Communication](concepts/CampaignCoordinationWithoutCommunication.md) — Failure mode in which separated forces depend on convergence but cannot propagate current status or revise stale assumptions.
 - [Battlefield Reconstruction Under Uncertainty](concepts/BattlefieldReconstructionUnderUncertainty.md) — Method combining testimony, terrain, archaeology, and material traces while ranking confidence and preserving unresolved conflicts.
 - [Heroic Last Stand Myth](concepts/HeroicLastStandMyth.md) — Memory pattern that compresses military collapse into disciplined heroic defiance, shifts blame, and obscures opponent agency.
 - [Coercive Reservation Assimilation](concepts/CoerciveReservationAssimilation.md) — Use of military pressure, material dependency, factional authority, schools, religion, policing, and land policy to replace Indigenous social and political orders.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8124
+wiki_total_pages: 8126
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "CameraFreeSmartGlasses"
     title: "Camera-Free Smart Glasses / 无摄像头智能眼镜"
     url: "/wiki/concepts/camerafreesmartglasses/"
+  - key: "CampaignCoordinationWithoutCommunication"
+    title: "Campaign Coordination Without Communication"
+    url: "/wiki/concepts/campaigncoordinationwithoutcommunication/"
   - key: "CampaignLogisticsBattlefieldSelection"
     title: "Campaign Logistics and Battlefield Selection"
     url: "/wiki/concepts/campaignlogisticsbattlefieldselection/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10760
+wiki_total_pages: 10765
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -209,6 +209,9 @@ wiki_pages:
   - key: "BattleOfLittleBighorn"
     title: "Battle of the Little Bighorn"
     url: "/wiki/entities/battleoflittlebighorn/"
+  - key: "BattleOfRosebud"
+    title: "Battle of the Rosebud"
+    url: "/wiki/entities/battleofrosebud/"
   - key: "BattleOfTrebia"
     title: "Battle of Trebia / 特雷比亚河战役"
     url: "/wiki/entities/battleoftrebia/"

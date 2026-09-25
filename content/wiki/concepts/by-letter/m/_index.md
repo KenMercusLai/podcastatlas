@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8124
+wiki_total_pages: 8126
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "ManufacturedRebellionBranding"
     title: "Manufactured Rebellion Branding"
     url: "/wiki/concepts/manufacturedrebellionbranding/"
+  - key: "ManufacturedWarPretext"
+    title: "Manufactured War Pretext"
+    url: "/wiki/concepts/manufacturedwarpretext/"
   - key: "ManufacturingDigitalThread"
     title: "Manufacturing Digital Thread / 制造数字主线"
     url: "/wiki/concepts/manufacturingdigitalthread/"

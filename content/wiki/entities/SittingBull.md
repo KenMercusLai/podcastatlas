@@ -7,6 +7,7 @@ sources:
   - 455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118
   - 454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
+  - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,9 @@ Sitting Bull was a [[LakotaPeople|Lakota]] leader whose coalition-building befor
 
 ## Current Profile
 
-The battle episode credits Sitting Bull with helping unite disparate groups into the unusually large encampment that defeated [[GeorgeArmstrongCuster]]'s divided command. It does not cast him as the sole tactical commander; [[CrazyHorse]] and [[GallLakota|Gall]] are more directly associated with attacks on the U.S. positions. His contribution lies in coalition and spiritual-political authority within a diverse force.
+The pre-battle episode places Sitting Bull's coalition-building inside growing pressure from Black Hills intrusion, bison destruction, the winter agency ultimatum, and military attack. It portrays him as welcoming Cheyenne and other newcomers while counseling that the village should not seek battle unless attacked. His Sun Dance vision of an approaching army being destroyed strengthened spiritual authority, but the source does not make a vision a substitute for material strategy or collective action.
+
+The battle episodes credit Sitting Bull with helping unite disparate groups into the unusually large encampment that defeated [[GeorgeArmstrongCuster]]'s divided command. They do not cast him as the sole tactical commander; [[CrazyHorse]] and [[GallLakota|Gall]] are more directly associated with attacks on the U.S. positions. His contribution lies in coalition and spiritual-political authority within a diverse force.
 
 After Little Bighorn, Sitting Bull rejected Nelson Miles's demand that he accept agency life and moved to Canada as military pressure, winter hunger, and fragmentation narrowed resistance. Refuge there proved temporary: bison scarcity, competition, and deprivation reduced his following. He returned in 1881, surrendered his rifle through his son, and was held at Fort Randall rather than sent directly to Standing Rock as the episode says he had been promised. He reached Standing Rock in 1883 to find bison-based life replaced by railroad and settler expansion, ration dependence, divided reservations, schools, police, and [[JamesMcLaughlin]]'s paternal authority. Urban exhibitions and Buffalo Bill's Wild West show offered travel and income but also made him a spectacle for audiences primed to see Custer's enemy.
 
@@ -29,7 +32,7 @@ The sources place him between symbolic authority and declining local power. He s
 
 - He remained a powerful symbol of Lakota independence while his immediate authority was constrained and contested.
 - His coalition-building helped assemble the numbers and confidence behind the Little Bighorn victory without making him sole battlefield commander.
-- His Canadian exile preserved autonomy temporarily but became unsustainable as food, bison, and followers declined.
+- He is presented as advocating restraint unless attacked while receiving people displaced by U.S. pressure and military action.
 - Reservation dependency and McLaughlin's governance made his dispossession personal, political, and spiritual.
 - He engaged with the Ghost Dance without being established as its prophet or military commander.
 - His fame made him a convenient target for [[SecurityCrisisAmplification]].
@@ -37,6 +40,8 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## Evidence
 
+- Coalition growth and restraint: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] links Black Hills pressure, the winter ultimatum, Cheyenne displacement, welcome of newcomers, and a wait-unless-attacked posture.
+- Spiritual authority: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] describes his Sun Dance and reported vision before the campaign converged.
 - Little Bighorn coalition: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] credits him with bringing disparate groups into the large encampment while distinguishing his role from tactical leadership by Crazy Horse and Gall.
 - Resistance, exile, and surrender: [[454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583]] follows his refusal of agency life, Canadian refuge, resource collapse, 1881 surrender, and imprisonment at Fort Randall.
 - Return and subordination: both [[454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583]] and [[455-fall-of-the-sioux-the-ghost-dance-part-2-glt2320133118]] connect his return and confinement to entry into McLaughlin's Standing Rock order.
@@ -54,13 +59,13 @@ The sources place him between symbolic authority and declining local power. He s
 - The dancing-horse story and some details of the arrest remain uncertain.
 - His symbolic role should not erase political diversity among Lakota people.
 - Coalition leadership at Little Bighorn should not be simplified into sole tactical command of every action.
+- Village totals, the precise content and influence of the Sun Dance vision, and the degree of restraint he could enforce remain source-scoped.
 
 ## What Changed
 
-- Extended the profile backward to coalition-building before the Little Bighorn victory.
-- Distinguished political and spiritual authority from the tactical roles assigned to Crazy Horse and Gall.
-- Backfilled his post-Little Bighorn refusal of agency life, Canadian exile, and shrinking material options.
-- Clarified that his 1881 surrender led to Fort Randall imprisonment before his 1883 arrival at Standing Rock.
+- Extended coalition-building into the Black Hills crisis, winter ultimatum, and displacement caused by U.S. attacks.
+- Added his reported counsel not to initiate battle and his Sun Dance vision.
+- Preserved the distinction between spiritual-political authority and the tactical roles assigned to Crazy Horse and Gall.
 
 ## Relationships
 

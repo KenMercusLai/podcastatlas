@@ -22464,3 +22464,11 @@ Added source `452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)
+
+Added source `451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603`; created `AlfredTerry`, `GeorgeCrook`, `PhilipSheridan`, `JohnGibbon`, `BattleOfRosebud`, `ManufacturedWarPretext`, and `CampaignCoordinationWithoutCommunication`; and updated `GeorgeArmstrongCuster`, `SittingBull`, `CrazyHorse`, `MarcusReno`, `FrederickBenteen`, `BattleOfLittleBighorn`, `LakotaPeople`, the canonical overview, and the index from their complete bounded source sets. Core synthesis: tolerated Black Hills intrusion, an infeasible winter agency deadline, and a hostile public report created the episode's war pretext; winter military action enlarged the Native coalition; Crook's unreported Rosebud defeat broke a communication-poor convergence; and political, financial, and reputational pressure reinforced Custer's preference for speed. No settled contradiction found; administrative intent, force and village totals, private motives, visions, dialogue, exact orders, corruption claims, and centennial timing remain source-scoped or contested. The downstream synthesis refresh only read the canonical `wiki/overview.md` before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
