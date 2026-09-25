@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means](sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211.md) — Huberman Lab interview on mitochondrial metabolic capacity, distributed movement, food quality, circadian eating, biomarker context, CGM feedback, and medical boundaries.
 - [447. Custer vs. Crazy Horse: The Winning of the West (Part 2)](sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977.md) — The Rest Is History episode on Custer's postwar failures and recovery, Cheyenne resistance, punitive village warfare, and the Washita massacre.
 - [VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题](sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm.md) — 这病说来话长 Mother's Day roundtable on older-adult healthcare avoidance, family persuasion, hospital navigation, trust, accompaniment, and escalation thresholds.
 - [GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming](sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951.md) — Huberman Lab sleep-series finale on REM and non-REM dreaming, emotional processing, nightmare rescripting, sleep cueing, lucid-dream evidence, and common sleep questions.
@@ -2839,6 +2840,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [Casey Means](entities/CaseyMeans.md) — Physician and metabolic-health educator connecting mitochondrial capacity, glucose regulation, lifestyle inputs, and contextual self-observation.
 - [Black Kettle](entities/BlackKettle.md) — Cheyenne peace leader whose village was attacked at Washita despite his negotiation-oriented position.
 - [Cheyenne People](entities/CheyennePeople.md) — Native people presented through changing Plains life, expansion pressure, political diversity, resistance, and village warfare.
 - [Washita Massacre](entities/WashitaMassacre.md) — 1868 dawn attack on Black Kettle's village whose official victory framing remains contested by massacre evidence.
@@ -13632,6 +13634,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Metabolic Capacity Model](concepts/MetabolicCapacityModel.md) — Capacity-versus-substrate model joining mitochondrial quality, energy processing, insulin resistance, inflammation, and disease-specific boundaries.
+- [Muscle Contraction Glucose Disposal](concepts/MuscleContractionGlucoseDisposal.md) — Principle linking frequent skeletal-muscle contraction, post-meal movement, and structured exercise to glucose use.
+- [Circadian Eating-Window Alignment](concepts/CircadianEatingWindowAlignment.md) — Contextual proposal that daytime eating and an overnight break may better align food intake with daily glucose and insulin rhythms.
+- [Metabolic Health Biomarker Context](concepts/MetabolicHealthBiomarkerContext.md) — Multi-marker framework for reading glucose, lipids, waist, blood pressure, trends, and personal risk together.
 - [Punitive Village Warfare](concepts/PunitiveVillageWarfare.md) — Pattern joining collective reprisal, winter surprise, material destruction, captive leverage, and contested battle labels.
 - [Family Healthcare Persuasion / 家庭就医劝导](concepts/FamilyHealthcarePersuasion.md) — Barrier-matched family support through agency, trust, cost and workflow clarity, accompaniment, and agreed escalation thresholds.
 - [Older-Adult Healthcare Avoidance / 老年人就医回避](concepts/OlderAdultHealthcareAvoidance.md) — Multi-barrier account of delayed care through fear, cost, information, access friction, family roles, and threatened control.

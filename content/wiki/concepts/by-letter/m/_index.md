@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8142
+wiki_total_pages: 8146
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -620,6 +620,12 @@ wiki_pages:
   - key: "MetaMoment"
     title: "Meta-Moment"
     url: "/wiki/concepts/metamoment/"
+  - key: "MetabolicCapacityModel"
+    title: "Metabolic Capacity Model"
+    url: "/wiki/concepts/metaboliccapacitymodel/"
+  - key: "MetabolicHealthBiomarkerContext"
+    title: "Metabolic Health Biomarker Context"
+    url: "/wiki/concepts/metabolichealthbiomarkercontext/"
   - key: "MetabolicMentalHealthBiomarkers"
     title: "Metabolic Mental-Health Biomarkers"
     url: "/wiki/concepts/metabolicmentalhealthbiomarkers/"
@@ -1262,6 +1268,9 @@ wiki_pages:
   - key: "MuscleAsLongevityInfrastructure"
     title: "Muscle As Longevity Infrastructure"
     url: "/wiki/concepts/muscleaslongevityinfrastructure/"
+  - key: "MuscleContractionGlucoseDisposal"
+    title: "Muscle Contraction Glucose Disposal"
+    url: "/wiki/concepts/musclecontractionglucosedisposal/"
   - key: "MuseumInterpretationLegibility"
     title: "Museum Interpretation Legibility / 博物馆阐释可读性"
     url: "/wiki/concepts/museuminterpretationlegibility/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8142
+wiki_total_pages: 8146
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "ChuHanWarDemythologizing"
     title: "Chu-Han War Demythologizing / 楚汉战争去神话化"
     url: "/wiki/concepts/chuhanwardemythologizing/"
+  - key: "CircadianEatingWindowAlignment"
+    title: "Circadian Eating-Window Alignment"
+    url: "/wiki/concepts/circadianeatingwindowalignment/"
   - key: "CircadianRhythmExperimentation"
     title: "Circadian Rhythm Experimentation"
     url: "/wiki/concepts/circadianrhythmexperimentation/"

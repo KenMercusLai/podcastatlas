@@ -20344,6 +20344,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/caseyhalpern/"
     },
+    "CaseyMeans": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3664199211 [SCIM3664199211].md",
+          "key": "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211",
+          "show": "Huberman Lab",
+          "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
+          "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/caseymeans/"
+    },
     "Cassivellaunus": {
       "episode_count": 1,
       "show_count": 1,
@@ -24713,6 +24729,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/chunyuzhangwesternhan/"
+    },
+    "CircadianEatingWindowAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3664199211 [SCIM3664199211].md",
+          "key": "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211",
+          "show": "Huberman Lab",
+          "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
+          "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/circadianeatingwindowalignment/"
     },
     "Circe": {
       "episode_count": 1,
@@ -92661,6 +92693,38 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/metamoment/"
     },
+    "MetabolicCapacityModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3664199211 [SCIM3664199211].md",
+          "key": "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211",
+          "show": "Huberman Lab",
+          "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
+          "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/metaboliccapacitymodel/"
+    },
+    "MetabolicHealthBiomarkerContext": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3664199211 [SCIM3664199211].md",
+          "key": "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211",
+          "show": "Huberman Lab",
+          "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
+          "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/metabolichealthbiomarkercontext/"
+    },
     "MetabolicMentalHealthBiomarkers": {
       "episode_count": 1,
       "show_count": 1,
@@ -94419,9 +94483,9 @@
       "url": "/wiki/concepts/mitochondrialenergyallocation/"
     },
     "MitochondrialLifestylePillars": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2561346508 [SCIM2561346508].md",
@@ -94429,9 +94493,16 @@
           "show": "Huberman Lab",
           "title": "Transform Your Mental Health With Diet & Lifestyle | Dr. Chris Palmer",
           "url": "/wiki/sources/transform-your-mental-health-with-diet-lifestyle-dr-chris-palmer-scim2561346508/"
+        },
+        {
+          "episode_file": "SCIM3664199211 [SCIM3664199211].md",
+          "key": "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211",
+          "show": "Huberman Lab",
+          "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
+          "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/mitochondriallifestylepillars/"
     },
     "MitochondrialMentalHealthModel": {
@@ -96167,6 +96238,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/muscleaslongevityinfrastructure/"
+    },
+    "MuscleContractionGlucoseDisposal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM3664199211 [SCIM3664199211].md",
+          "key": "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211",
+          "show": "Huberman Lab",
+          "title": "Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means",
+          "url": "/wiki/sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/musclecontractionglucosedisposal/"
     },
     "MusePersonalAgent": {
       "episode_count": 3,

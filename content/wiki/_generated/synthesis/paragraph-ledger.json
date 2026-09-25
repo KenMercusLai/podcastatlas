@@ -709,12 +709,13 @@
       "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c",
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e",
-      "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68"
+      "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
+      "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c"
     ],
-    "paragraph_count": 709
+    "paragraph_count": 710
   },
-  "overview_commit": "ad372cb6367f1444bcd8b6e9627b2ab96f9e9d95",
-  "overview_digest": "0b1d322ccfd0ff401edbef11c733b1ae85e7c44c4135cd3dcf397313d9c40302",
+  "overview_commit": "cc032f9a41b9a48ae4299726b8cb95493ea474c5",
+  "overview_digest": "bec869b507d0654eda113ec9dbed5a3913c6df1e2b8f29134c9fa775ff81b770",
   "paragraphs": [
     {
       "id": "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
@@ -21142,6 +21143,29 @@
         "PunitiveVillageWarfare",
         "TheRestIsHistory",
         "WashitaMassacre"
+      ]
+    },
+    {
+      "id": "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest metabolic-health source, [[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211|Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means]], has [[AndrewHuberman]] and [[CaseyMeans]] connect [[MetabolicCapacityModel]], [[MitochondrialLifestylePillars]], [[MuscleContractionGlucoseDisposal]], [[CircadianEatingWindowAlignment]], [[MetabolicHealthBiomarkerContext]], and [[ContinuousGlucoseMonitoring]]. Its core synthesis is that food-energy supply and cellular processing capacity are different variables: frequent contraction, complementary exercise modes, food quality, sleep, stress, daily timing, and environmental inputs may support metabolic function, while biomarker panels and glucose curves provide contextual feedback rather than perfect scores. No settled contradiction is recorded; the shared-root disease account remains an integrating hypothesis rather than a sole-cause claim, endogenous food-linked GLP-1 is not equated with long-acting drugs, and prevalence, threshold, mechanism, food-compound, fasting, temperature, nature, and monitoring claims remain source-scoped public medical education rather than individualized treatment.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CaseyMeans",
+        "CircadianEatingWindowAlignment",
+        "ContinuousGlucoseMonitoring",
+        "MetabolicCapacityModel",
+        "MetabolicHealthBiomarkerContext",
+        "MitochondrialLifestylePillars",
+        "MuscleContractionGlucoseDisposal",
+        "transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211"
       ]
     }
   ],

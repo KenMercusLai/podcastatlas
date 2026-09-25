@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-25
-as_of_overview_commit: 0e0a8687543138dfae3fbebbcb8225771e89f209
-input_digest: 8fde0e3776ca1a1b346fd4ad23dddd44e78820b8e95758e7211b280b98194ff8
+as_of_overview_commit: cc032f9a41b9a48ae4299726b8cb95493ea474c5
+input_digest: e6161fa9174cc1729deec86c66bfbcf09179c87f27351ebebf3f7501df3a90ae
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Dream science adds a stage-specific branch: vivid REM experience is linked to active emotional and associative systems with reduced executive control, while nightmare rescripting, sleep cueing, lucid awareness, supplements, and medication remain treatment- and evidence-bounded. Science, health, and climate sources consistently separate public literacy from individualized care: mechanism, measurement, urgent escalation, qualified treatment, and uncertainty matter more than symptom shorthand or cure claims. The IBD source adds a remission-oriented chronic-care branch in which symptom relief does not end treatment, nutrition and complications remain visible, and education, peer support, and public inclusion complement specialist care. The Sitting Bull episode adds an evidence-boundary case: ritual suffering, visions, healing associations, and relations with animals can be historically central to Lakota sacred-political authority without becoming independently verified clinical, predictive, or natural-science claims; translation and retrospective narration remain part of the evidence. Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation and infrastructure, and science governance; across these branches, interventions and interpretations remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The metabolic-health addition sharpens this pattern by separating energy supply from mitochondrial processing capacity and treating movement, eating timing, biomarkers, and glucose curves as contextual feedback rather than universal prescriptions or perfect scores.
 
 ## Cross-source Findings
 
@@ -762,3 +762,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The source is a popular-history episode rather than an ethnographic, medical, psychological, or religious-studies comparison.
 - Treating sacred claims as source-scoped evidence is not a judgment that Lakota categories should be reduced to a separate Western category of religion.
 - Translation, journalism, retrospective testimony, and legend mediate the reported visions, healing, predictions, personality, and animal communications.
+
+### Metabolic Health Needs Capacity Movement And Contextual Feedback
+
+[[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211|The Casey Means Huberman Lab episode]] adds a metabolic-health branch: [[MetabolicCapacityModel]] separates substrate supply from mitochondrial processing capacity, [[MuscleContractionGlucoseDisposal]] connects distributed movement and complementary exercise modes to glucose use, [[CircadianEatingWindowAlignment]] treats daytime timing as contextual rather than universal, and [[MetabolicHealthBiomarkerContext]] joins laboratory trends with [[ContinuousGlucoseMonitoring]] feedback while [[MitochondrialLifestylePillars]] keeps food, sleep, stress, light, temperature, toxins, nature, and relationships inside a layered rather than single-cause model.
+
+**Evidence:** [[transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211]], [[AndrewHuberman]], [[CaseyMeans]], [[MetabolicCapacityModel]], [[MitochondrialLifestylePillars]], [[MuscleContractionGlucoseDisposal]], [[CircadianEatingWindowAlignment]], [[MetabolicHealthBiomarkerContext]], [[ContinuousGlucoseMonitoring]]
+
+**Qualifications:**
+
+- The episode is public metabolic-health education, not individualized diabetes, cardiovascular, endocrine, nutrition, exercise, fasting, temperature-exposure, or medication guidance.
+- The shared-root disease account is an integrating hypothesis rather than proof that mitochondrial dysfunction is the sole cause of every named condition, and endogenous food-linked GLP-1 is not pharmacologically equivalent to a long-acting agonist.
+- Prevalence estimates, thresholds, mortality associations, mechanism assignments, food-compound effects, fasting windows, temperature claims, nature-exposure figures, and glucose-curve interpretations remain source-scoped because complete methods and personal clinical context are absent.

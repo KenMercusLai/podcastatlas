@@ -22534,3 +22534,11 @@ Added source `447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt159388
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means
+
+Added source `transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211`; created `CaseyMeans`, `MetabolicCapacityModel`, `MuscleContractionGlucoseDisposal`, `CircadianEatingWindowAlignment`, and `MetabolicHealthBiomarkerContext`; and updated `MitochondrialLifestylePillars` from its complete bounded source set. Core synthesis: food-energy supply and cellular processing capacity are different variables; frequent contraction, exercise diversity, food quality, sleep, stress, meal timing, and environmental inputs may support metabolic function, while biomarker panels and CGM curves provide contextual feedback rather than perfect scores. No settled contradiction found; the shared-root disease account remains an integrating hypothesis, endogenous GLP-1 is not equated with drug exposure, and prevalence, threshold, mechanism, food-compound, fasting, temperature, nature, and monitoring claims remain source-scoped public medical education rather than individualized care. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
