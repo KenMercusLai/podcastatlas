@@ -7549,9 +7549,9 @@
       "url": "/wiki/entities/amazonmgmstudios/"
     },
     "AmbientVoiceAgentInterface": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lhbvzA29_24SZQusT-nWtM0Z09_4 [lhbvzA29_24SZQusT-nWtM0Z09_4].md",
@@ -7559,9 +7559,16 @@
           "show": "忽左忽右",
           "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
           "url": "/wiki/sources/tefan-cong-fengwo-wangluo-dao-shouji-geming-yangyang-tan-yidong-tongxin-langchao-sanshinian-lhbvza29-24szqust-nwtm0z09-4/"
+        },
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/ambientvoiceagentinterface/"
     },
     "AmericanCulturalExports": {
@@ -21822,9 +21829,9 @@
       "url": "/wiki/entities/chaseandrews/"
     },
     "ChatGPT6Astra": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
@@ -21839,9 +21846,16 @@
           "show": "十字路口Crossing",
           "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
           "url": "/wiki/sources/yushi-zhuan-shen-xiang-jushen-zouqu-duitan-wangjiawei-24-sui-de-jushen-zhineng-shouxi-kexuejia-litrgtfozrerillt7mtumknilr/"
+        },
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
         }
       ],
-      "updated": "2026-09-17",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/chatgpt6astra/"
     },
     "CheNiuChanyu": {
@@ -67058,6 +67072,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/humancommunitydatalicensing/"
     },
+    "HumanDirectedAIAuthorship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/humandirectedaiauthorship/"
+    },
     "HumanExperienceContentPremium": {
       "episode_count": 1,
       "show_count": 1,
@@ -72901,6 +72931,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/jetlagjetageembodiment/"
+    },
+    "Jev": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/jev/"
     },
     "JiTongEasternHan": {
       "episode_count": 3,
@@ -107304,9 +107350,9 @@
       "url": "/wiki/concepts/platformageestimation/"
     },
     "PlatformAgentAccessConflict": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
@@ -107321,9 +107367,16 @@
           "show": "Marketplace Tech",
           "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
           "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/platformagentaccessconflict/"
     },
     "PlatformAntitrust": {
@@ -114651,6 +114704,29 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/concepts/reconstructivememory/"
+    },
+    "RecordAndReplay": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？ (1) [171-1].md",
+          "key": "ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1",
+          "show": "晚点聊 LateTalk",
+          "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+          "url": "/wiki/sources/ai-jibao-26q2-cong-coding-dao-rsi-qiangzhe-yu-qiang-de-weilai-1-171-1/"
+        },
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/recordandreplay/"
     },
     "RecoveryCommunityConnection": {
       "episode_count": 2,
@@ -130782,6 +130858,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/structuralpowerimbalance/"
+    },
+    "StructuredDecisionModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 175 GPT 6 Astra, Opus 5.5, Jev 诸模型混战 (1) [6700-1].md",
+          "key": "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1",
+          "show": "枫言枫语",
+          "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+          "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/structureddecisionmodel/"
     },
     "StructuredGrievingPractice": {
       "episode_count": 1,

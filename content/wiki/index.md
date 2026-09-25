@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战](sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1.md) — 枫言枫语 on task-fit model routing, structured decisions, demonstrated computer use, authorship responsibility, platform access, and ambient-agent privacy.
 - [441. Lord Byron: Scandal, Sex and Celebrity (Part 2)](sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695.md) — The Rest Is History on Byron's Mediterranean journey, Childe Harold self-fashioning, Ali Pasha, the Elgin controversy, and the birth of Byromania.
 - [VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日](sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5.md) — 这病说来话长 World Book Day roundtable on death planning, comfort-focused terminal care, clinical reasoning, chronic-disease control, second opinions, and reading as support.
 - [442. Lord Byron: Dangerous Liaisons (Part 3)](sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097.md) — The Rest Is History on Byron's early celebrity, Caroline Lamb, marriage to Annabella Milbank, the Augusta Leigh scandal, separation, and exile.
@@ -2856,6 +2857,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Jev](entities/Jev.md) — Source-described low-latency model or service for choices, scores, classifications, and structured output.
 - [Lady Caroline Lamb](entities/LadyCarolineLamb.md) — Aristocratic writer whose affair with Byron escalated into pursuit, self-harm, allegation, and public scandal.
 - [Annabella Milbank](entities/AnnabellaMilbank.md) — Byron's mathematically gifted wife, Ada Lovelace's mother, and central witness to the marriage crisis and separation.
 - [Augusta Leigh](entities/AugustaLeigh.md) — Byron's half-sister and intimate attachment at the center of the contested incest scandal.
@@ -13672,6 +13674,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Structured Decision Model](concepts/StructuredDecisionModel.md) — Narrow AI component optimized for fast, schema-conforming classification, scoring, intent recognition, and routing.
+- [Human-Directed AI Authorship](concepts/HumanDirectedAIAuthorship.md) — Division of labor retaining human thesis, approval, and responsibility while delegating bounded production work to AI.
 - [Adolescent Risk Communication](concepts/AdolescentRiskCommunication.md) — Credible, repeated youth dialogue that joins prevention, immediate relevance, quitting support, and safety planning.
 - [Adolescent Autonomy Scaffolding](concepts/AdolescentAutonomyScaffolding.md) — Family support model balancing growing agency with monitoring, conflict management, and reachable adult backup.
 - [Aristocratic Vampire](concepts/AristocraticVampire.md) — Gothic type created when Polidori transformed Byron's alluring, scandalous aristocratic persona into a fictional predator.

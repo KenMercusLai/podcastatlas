@@ -22667,3 +22667,11 @@ Added source `441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695`; cr
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战
+
+Added source `vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1`; created `Jev`, `StructuredDecisionModel`, and `HumanDirectedAIAuthorship`; and updated `ChatGPT6Astra`, `RecordAndReplay`, `PlatformAgentAccessConflict`, `AmbientVoiceAgentInterface`, the canonical index, and overview from their complete bounded source sets. Core synthesis: practical AI work routes planning, execution, structured decisions, and demonstrated computer use by capability, latency, price, quota, and risk, while humans retain responsibility for public work and ambient or cross-platform agents add permission, revenue-control, and bystander-consent constraints. No settled contradiction found. Product naming, performance, latency, pricing, quota, token-spend, regulatory, medical-device, and agent-anomaly claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

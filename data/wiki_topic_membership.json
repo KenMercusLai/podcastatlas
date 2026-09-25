@@ -36714,6 +36714,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HumanDirectedAIAuthorship": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "HumanExperienceContentPremium": [
     {
       "key": "technology",
@@ -39959,6 +39966,13 @@
     }
   ],
   "JetLagJetAgeEmbodiment": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "Jev": [
     {
       "key": "technology",
       "label": "Technology",
@@ -68983,6 +68997,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "StructuredDecisionModel": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "StructuredFundDownwardConversion": [
     {
       "key": "economics",
@@ -89667,6 +89688,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c": [

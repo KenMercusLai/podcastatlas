@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10801
+wiki_total_pages: 10802
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "JetBrains"
     title: "JetBrains"
     url: "/wiki/entities/jetbrains/"
+  - key: "Jev"
+    title: "Jev"
+    url: "/wiki/entities/jev/"
   - key: "JewelBurkeSolomon"
     title: "Jewel Burke Solomon"
     url: "/wiki/entities/jewelburkesolomon/"

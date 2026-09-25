@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8167
+wiki_total_pages: 8169
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1886,6 +1886,9 @@ wiki_pages:
   - key: "Structured3DRobotData"
     title: "Structured 3D Robot Data"
     url: "/wiki/concepts/structured3drobotdata/"
+  - key: "StructuredDecisionModel"
+    title: "Structured Decision Model"
+    url: "/wiki/concepts/structureddecisionmodel/"
   - key: "StructuredFundDownwardConversion"
     title: "Structured Fund Downward Conversion / 分级基金下折"
     url: "/wiki/concepts/structuredfunddownwardconversion/"

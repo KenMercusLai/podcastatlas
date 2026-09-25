@@ -32463,6 +32463,10 @@
     "title": "Human-Dependent Safety System",
     "url": "/wiki/concepts/humandependentsafetysystem/"
   },
+  "HumanDirectedAIAuthorship": {
+    "title": "Human-Directed AI Authorship",
+    "url": "/wiki/concepts/humandirectedaiauthorship/"
+  },
   "HumanDrivenScientificAI": {
     "title": "Human-Driven Scientific AI",
     "url": "/wiki/concepts/humandrivenscientificai/"
@@ -35394,6 +35398,10 @@
   "JetLagJetAgeEmbodiment": {
     "title": "Jet Lag Jet Age Embodiment / 喷气时代的时差身体感",
     "url": "/wiki/concepts/jetlagjetageembodiment/"
+  },
+  "Jev": {
+    "title": "Jev",
+    "url": "/wiki/entities/jev/"
   },
   "JevonsParadoxInAI": {
     "title": "Jevons Paradox In AI",
@@ -63647,6 +63655,10 @@
     "title": "Structured 3D Robot Data",
     "url": "/wiki/concepts/structured3drobotdata/"
   },
+  "StructuredDecisionModel": {
+    "title": "Structured Decision Model",
+    "url": "/wiki/concepts/structureddecisionmodel/"
+  },
   "StructuredFundDownwardConversion": {
     "title": "Structured Fund Downward Conversion / 分级基金下折",
     "url": "/wiki/concepts/structuredfunddownwardconversion/"
@@ -82302,6 +82314,10 @@
   "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1": {
     "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
     "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+  },
+  "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1": {
+    "title": "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战",
+    "url": "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
   },
   "vol-201-weishenme-jinjinian-guomin-de-ren-yuelaiyue-duo-guomin-tongshike-lgmmw7ejv8ulj0y5gokkv7wieu0z": {
     "title": "VOL.201 为什么近几年过敏的人越来越多？三甲主任给打工人的过敏通识课",

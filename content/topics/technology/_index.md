@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3168
+topic_total_pages: 3172
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2428,6 +2428,9 @@ topic_concepts:
   - key: "HumanDependentSafetySystem"
     title: "Human-Dependent Safety System"
     url: "/wiki/concepts/humandependentsafetysystem/"
+  - key: "HumanDirectedAIAuthorship"
+    title: "Human-Directed AI Authorship"
+    url: "/wiki/concepts/humandirectedaiauthorship/"
   - key: "HumanInTheLoopLegalAI"
     title: "Human-In-The-Loop Legal AI"
     url: "/wiki/concepts/humaninthelooplegalai/"
@@ -3958,6 +3961,9 @@ topic_concepts:
   - key: "Structured3DRobotData"
     title: "Structured 3D Robot Data"
     url: "/wiki/concepts/structured3drobotdata/"
+  - key: "StructuredDecisionModel"
+    title: "Structured Decision Model"
+    url: "/wiki/concepts/structureddecisionmodel/"
   - key: "SubjectivityAsAIAsset"
     title: "Subjectivity As AI Asset"
     url: "/wiki/concepts/subjectivityasaiasset/"
@@ -5795,6 +5801,9 @@ topic_entities:
   - key: "JetBrains"
     title: "JetBrains"
     url: "/wiki/entities/jetbrains/"
+  - key: "Jev"
+    title: "Jev"
+    url: "/wiki/entities/jev/"
   - key: "JiaYangqing"
     title: "Jia Yangqing / 贾扬清"
     url: "/wiki/entities/jiayangqing/"
@@ -9183,6 +9192,9 @@ topic_sources:
   - key: "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1"
     title: "Vol. 174 iPhone Duo买不买？苹果26秋季发布会"
     url: "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+  - key: "vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1"
+    title: "Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战"
+    url: "/wiki/sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1/"
   - key: "vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo"
     title: "Vol.114 AI的2025和DeepSeek们的未来 | 对谈复旦张奇教授"
     url: "/wiki/sources/vol-114-ai-de-2025-he-deepseek-men-de-weilai-duitan-fudan-zhangqi-jiaoshou-lhvhnvqtvuv4ln-cckcpedgldolo/"
