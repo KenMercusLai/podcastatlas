@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10776
+wiki_total_pages: 10779
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -677,6 +677,9 @@ wiki_pages:
   - key: "Chewy"
     title: "Chewy"
     url: "/wiki/entities/chewy/"
+  - key: "CheyennePeople"
+    title: "Cheyenne People"
+    url: "/wiki/entities/cheyennepeople/"
   - key: "ChhatralRinpoche"
     title: "Chhatral Rinpoche"
     url: "/wiki/entities/chhatralrinpoche/"

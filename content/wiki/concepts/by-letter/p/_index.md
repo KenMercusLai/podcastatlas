@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8141
+wiki_total_pages: 8142
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -2051,6 +2051,9 @@ wiki_pages:
   - key: "PunitiveSurrenderDeterrence"
     title: "Punitive Surrender Deterrence / 杀降纳降反噬"
     url: "/wiki/concepts/punitivesurrenderdeterrence/"
+  - key: "PunitiveVillageWarfare"
+    title: "Punitive Village Warfare"
+    url: "/wiki/concepts/punitivevillagewarfare/"
   - key: "PunkEconomicCrisisSymbolism"
     title: "Punk Economic Crisis Symbolism"
     url: "/wiki/concepts/punkeconomiccrisissymbolism/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [447. Custer vs. Crazy Horse: The Winning of the West (Part 2)](sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977.md) — The Rest Is History episode on Custer's postwar failures and recovery, Cheyenne resistance, punitive village warfare, and the Washita massacre.
 - [VOL.112妈，能听我句劝去看病吗？劝母亲体检、看病、治疗有多难？医生也难但有招｜母亲节专题](sources/vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-kanbing-zhiliao-you-duo-nan-yisheng-ye-nan-dan-you-zhao-muqinjie-zhuanti-ltiducfs-3ubqtlbukgw0vujlwbm.md) — 这病说来话长 Mother's Day roundtable on older-adult healthcare avoidance, family persuasion, hospital navigation, trust, accompaniment, and escalation thresholds.
 - [GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming](sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951.md) — Huberman Lab sleep-series finale on REM and non-REM dreaming, emotional processing, nightmare rescripting, sleep cueing, lucid-dream evidence, and common sleep questions.
 - [448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)](sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648.md) — The Rest Is History episode on dynamic Plains history, Lakota regional power, settler expansion, source mediation, and Crazy Horse's warrior and visionary identity.
@@ -2838,6 +2839,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [Black Kettle](entities/BlackKettle.md) — Cheyenne peace leader whose village was attacked at Washita despite his negotiation-oriented position.
+- [Cheyenne People](entities/CheyennePeople.md) — Native people presented through changing Plains life, expansion pressure, political diversity, resistance, and village warfare.
+- [Washita Massacre](entities/WashitaMassacre.md) — 1868 dawn attack on Black Kettle's village whose official victory framing remains contested by massacre evidence.
 - [Matthew Walker](entities/MatthewWalker.md) — Sleep scientist explaining REM and non-REM dreams, emotional memory, nightmares, lucid dreaming, and evidence-bounded sleep practice.
 - [Li Jingnan / 李景南](entities/LiJingnan.md) — Gastroenterologist explaining IBD recognition, remission, long-term treatment, complications, surgery timing, and shared decisions.
 - [Meng Jun / 孟君 (IBD Advocate)](entities/MengJunIBDAdvocate.md) — Patient and nonprofit communicator connecting severe IBD onset, clinical remission, maintenance care, and public education.
@@ -13628,6 +13632,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Punitive Village Warfare](concepts/PunitiveVillageWarfare.md) — Pattern joining collective reprisal, winter surprise, material destruction, captive leverage, and contested battle labels.
 - [Family Healthcare Persuasion / 家庭就医劝导](concepts/FamilyHealthcarePersuasion.md) — Barrier-matched family support through agency, trust, cost and workflow clarity, accompaniment, and agreed escalation thresholds.
 - [Older-Adult Healthcare Avoidance / 老年人就医回避](concepts/OlderAdultHealthcareAvoidance.md) — Multi-barrier account of delayed care through fear, cost, information, access friction, family roles, and threatened control.
 - [Dream Function and Meaning](concepts/DreamFunctionAndMeaning.md) — Evidence-bounded frame for stage-dependent dreaming, associative and emotional functions, and personal rather than universal interpretation.

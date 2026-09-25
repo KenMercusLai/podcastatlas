@@ -22526,3 +22526,11 @@ Added source `vol-112-ma-neng-ting-wo-ju-quan-qu-kanbing-ma-quan-muqin-tijian-ka
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 447. Custer vs. Crazy Horse: The Winning of the West (Part 2)
+
+Added source `447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977`; created `BlackKettle`, `CheyennePeople`, `WashitaMassacre`, and `PunitiveVillageWarfare`; and updated `GeorgeArmstrongCuster`, `FrederickBenteen`, `PhilipSheridan`, and `HeroicLastStandMyth` from their complete bounded source sets. Core synthesis: Custer's spectacle, cavalry ability, and patrons repeatedly repaired political and disciplinary failure, while Sand Creek, railroad pressure, collective reprisal, winter attack, village destruction, and hostage-taking escalated conflict with politically diverse Cheyenne communities. No settled contradiction found. Casualty totals, combatant identity, raid attribution, captive treatment, sexual-exploitation allegations, motives, and dialogue remain contested or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis-refresh workflow only read it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10776
+wiki_total_pages: 10779
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "BlackHills"
     title: "Black Hills"
     url: "/wiki/entities/blackhills/"
+  - key: "BlackKettle"
+    title: "Black Kettle"
+    url: "/wiki/entities/blackkettle/"
   - key: "BlackLivesMatter"
     title: "Black Lives Matter"
     url: "/wiki/entities/blacklivesmatter/"

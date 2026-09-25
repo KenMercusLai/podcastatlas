@@ -7,6 +7,7 @@ sources:
   - 452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
+  - 447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -19,7 +20,9 @@ George Armstrong Custer was the Seventh Cavalry commander whose five-company bat
 
 ## Current Profile
 
-The episodes portray Custer as a commander whose proven dash and confidence became liabilities under poor intelligence and overwhelming opposition. That competence was real: during the 1873 Yellowstone expedition he kept an isolated force together, resisted being lured into a rash charge, and counterattacked after relief arrived. His friendship with [[BloodyKnife]], interest in fossils and natural history, and sympathy for life beyond reservations complicate a flat caricature, while his racial and civilizational assumptions still made Indigenous dispossession appear inevitable.
+The episodes portray Custer as a commander whose proven dash and confidence became liabilities under poor intelligence and overwhelming opposition. His post-Civil War career already contained that tension. A spectacular 1865 victory parade reinforced his romantic celebrity, but routine command in Texas and Kansas exposed poor discipline, restlessness, and political misjudgment. His Democratic, pro-Southern, and racist politics, participation in Andrew Johnson's campaign tour, and repeated disobedience alienated Grant and contributed to an 1867 court-martial and suspension.
+
+His return under Sheridan led to the [[WashitaMassacre]], where a winter dawn attack destroyed [[BlackKettle]]'s peace-associated Cheyenne village. The episodes connect killings, pony slaughter, captive-taking, and the abandonment of Elliott's missing detachment to later tactical and command controversies, while Army praise restored Custer's standing. His pattern was therefore not simple incompetence: patrons repeatedly reclaimed a genuinely effective cavalry officer whose speed, theatricality, and public appeal also magnified political and moral risk. During the 1873 Yellowstone expedition he kept an isolated force together, resisted being lured into a rash charge, and counterattacked after relief arrived. His friendship with [[BloodyKnife]], interest in fossils and natural history, and sympathy for life beyond reservations complicate a flat caricature, while his racial and civilizational assumptions still made Indigenous dispossession appear inevitable.
 
 Before the final campaign he was under political, financial, and reputational pressure. His weak record against the Ku Klux Klan, Democratic and pro-Southern sympathies, criticism of Grant and Reconstruction, failed investments, short-selling losses, and Belknap testimony damaged powerful relationships. Yet Civil War fame, literary self-fashioning, battlefield flair, and cultivation of journalists repeatedly restored his usefulness. The 1874 [[BlackHills]] expedition shows those forces together: he led a military-scientific spectacle and amplified a small gold discovery that helped trigger settler intrusion.
 
@@ -31,16 +34,18 @@ No soldier with Custer survived, so his final route, timing, intent, and death c
 
 ## Key Characteristics
 
-- Boldness and speed produced real battlefield success before becoming dangerous under inadequate reconnaissance, fatigue, and personal urgency.
+- Boldness and speed produced real battlefield success while repeatedly becoming dangerous under weak discipline, inadequate reconnaissance, fatigue, and personal urgency.
 - Scientific curiosity and sympathy for Plains freedom coexisted with racial hierarchy and acceptance of Indigenous dispossession.
 - Political conflict, financial risk, literary ambition, press cultivation, and centennial timing created pressure for visible success.
 - He feared dispersal more than concentration and treated lost surprise as a reason to attack immediately.
 - Dividing the regiment reduced mutual support against a much larger force.
 - His death is historically powerful but evidentially opaque.
-- His public legend was deliberately cultivated before death and became a larger partisan and cultural object afterward.
+- Spectacle, charm, patronage, and battlefield usefulness repeatedly repaired failures that would otherwise have ended his career.
 
 ## Evidence
 
+- Postwar celebrity and political damage: [[447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977]] connects the 1865 parade, New York ambition, Johnson campaign tour, Grant's distrust, Kansas command, and court-martial.
+- Washita and restoration: [[447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977]] connects winter surprise, attack on Black Kettle's village, pony destruction, hostages, Elliott's loss, and Sheridan's praise.
 - Earlier worldview and career: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] connects his writing, scientific interests, Reconstruction politics, eastern ambitions, investments, and racial assumptions.
 - Yellowstone competence: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] describes his disciplined defense, relationship with Bloody Knife, dramatic charge, and renewed military fame.
 - Black Hills publicity: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] links his expedition, journalists, gold claims, and pre-Little Bighorn mythmaking.
@@ -61,12 +66,13 @@ No soldier with Custer survived, so his final route, timing, intent, and death c
 - Claims about political ambition, financial need, private confidence, dialogue, and the reason for immediate attack remain source-scoped interpretations.
 - Centennial political urgency and the effect of Libby's farewell or later omen stories remain interpretive rather than demonstrable causes.
 - The Yellowstone actions, private conduct, religious outlook, investment history, gold publicity, and racial thought are presented through popular-history interpretation rather than a complete documentary biography.
+- Washita casualty totals, combatant identity, captive treatment, and allegations of sexual exploitation remain contested or source-scoped.
 
 ## What Changed
 
-- Extended the profile through post-Washita drift, Reconstruction politics, science, writing, and racial thought.
-- Added the 1873 Yellowstone clashes as evidence of genuine tactical discipline and effectiveness.
-- Connected the 1874 Black Hills expedition and gold publicity to his preexisting media legend.
+- Extended the profile backward through postwar celebrity, partisan politics, routine-command failure, and court-martial.
+- Added Washita as evidence of winter village warfare, coercive captive use, command controversy, and reputational restoration.
+- Clarified that later Little Bighorn patterns had precedents without treating them as a deterministic script.
 
 ## Relationships
 
@@ -75,6 +81,9 @@ No soldier with Custer survived, so his final route, timing, intent, and death c
 - [[MarcusReno]] - subordinate selected to open the attack on the village.
 - [[BloodyKnife]] - scout whose warnings Custer discounted before the attack.
 - [[BlackHills]] - region where his expedition joined military power, science, journalism, and gold promotion.
+- [[WashitaMassacre]] - attack that restored his standing while establishing enduring controversy over targets and tactics.
+- [[BlackKettle]] - peace-associated Cheyenne leader killed when Custer attacked his village.
+- [[PunitiveVillageWarfare]] - framework for the collective and material dimensions of his Washita campaign.
 - [[CrazyHorse]] - Lakota leader associated with the attacks on his command.
 - [[SittingBull]] - Lakota leader whose coalition-building shaped the force Custer confronted.
 - [[BattlefieldReconstructionUnderUncertainty]] - evidentiary method required for his final movements.

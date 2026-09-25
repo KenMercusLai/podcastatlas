@@ -3,16 +3,16 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-24
-as_of_overview_commit: 1dc774d4df9ee08bf53fbb61d62141fe86c9718c
-input_digest: 46177d35a6c72dfa477aa93f9c075de2c8af30d5bb13fe63ff374a12d760a268
+last_updated: 2026-09-25
+as_of_overview_commit: ad372cb6367f1444bcd8b6e9627b2ab96f9e9d95
+input_digest: ae2acdabcd12bf61cf071e5e39ac2211f68d7f2b09f2d14f0afb3ab7f0f2ac95
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws.
+Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis.
 
 ## Cross-source Findings
 
@@ -1105,3 +1105,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - The source is a qualitative practitioner account and does not provide representative relationship outcomes or employment-law analysis.
 - Live-in maternity, childcare, companionship, and day-work arrangements can require different intimacy, privacy, and separation boundaries.
+
+### Custer Celebrity Reinforcement Is A Bounded Historical Case
+
+[[447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977|Episode 447]] presents [[GeorgeArmstrongCuster]] as a bounded historical case in which theatrical self-presentation, status ambition, impulsive risk, marital distress, punishment of subordinates, public fascination, and patronage repeatedly turn danger and failure into renewed opportunity; [[HeroicLastStandMyth]] later inherits that celebrity structure, but the account should not be converted into retrospective diagnosis.
+
+**Evidence:** [[447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977]], [[GeorgeArmstrongCuster]], [[HeroicLastStandMyth]], [[FrederickBenteen]], [[PhilipSheridan]], [[WashitaMassacre]]
+
+**Qualifications:**
+
+- The episode’s character interpretation does not support retrospective diagnosis or a universal psychological law.
+- Public appeal and patronage coexisted with genuine cavalry competence and do not alone explain every command decision.
+- Private motives, marital conflict, dialogue, and the psychological continuity between Washita and Little Bighorn remain source-scoped.

@@ -5,6 +5,7 @@ tags: [military, united-states, plains-wars, reconstruction]
 sources:
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
+  - 447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,9 @@ Philip Sheridan was the senior U.S. Army commander who prepared the campaign aga
 
 ## Current Profile
 
-The earlier episode places Sheridan behind renewed railroad protection and exploration on the northern Plains. He sent [[GeorgeArmstrongCuster]] on the 1873 Yellowstone expedition, praised him after the clashes, and sponsored the 1874 [[BlackHills]] expedition while warning him to limit journalists. After gold publicity triggered a rush, Sheridan initially tried to exclude miners, showing a tension between military exploration and enforcement of territorial restrictions.
+The earliest episode places Sheridan first in Reconstruction, where his harder position toward former Confederates and protection of freed people clashed with [[GeorgeArmstrongCuster]]'s Democratic and pro-Southern politics. Despite that conflict and Custer's 1867 suspension, Sheridan recalled him because he valued his Civil War cavalry ability. Custer's attack on [[BlackKettle]]'s village at the [[WashitaMassacre]] then received Sheridan's emphatic praise, showing how operational usefulness could outweigh political distrust and prior indiscipline.
+
+The next episode places Sheridan behind renewed railroad protection and exploration on the northern Plains. He sent Custer on the 1873 Yellowstone expedition, praised him after the clashes, and sponsored the 1874 [[BlackHills]] expedition while warning him to limit journalists. After gold publicity triggered a rush, Sheridan initially tried to exclude miners, showing a tension between military exploration and enforcement of territorial restrictions.
 
 The later episode places Sheridan at the November 1875 White House meeting where the Grant administration decided to stop enforcing restrictions against Black Hills intruders while imposing a winter deadline on non-treaty Lakota. After the deadline passed, he received authority to prepare for war, making his military planning the operational arm of [[ManufacturedWarPretext]].
 
@@ -25,7 +28,7 @@ His initial winter campaign failed in severe weather, except for [[GeorgeCrook]]
 
 ## Key Characteristics
 
-- He sponsored expeditions that expanded military knowledge and Custer's fame before gold publicity intensified intrusion.
+- He repeatedly restored and sponsored Custer because cavalry effectiveness outweighed political distrust and disciplinary risk.
 - He moved from attempted miner exclusion to translating federal policy into a campaign against non-treaty Lakota.
 - His winter plan underestimated environmental limits and produced little operational success.
 - His summer plan depended on separated columns converging across great distances.
@@ -34,6 +37,7 @@ His initial winter campaign failed in severe weather, except for [[GeorgeCrook]]
 
 ## Evidence
 
+- Reconstruction and Custer's recall: [[447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977]] connects their political differences, Custer's suspension, Sheridan's restoration of him, and praise after Washita.
 - Expedition sponsorship: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] connects Sheridan to the 1873 Yellowstone and 1874 Black Hills expeditions, press limits, praise of Custer, and initial miner exclusion.
 - Policy-to-war transition: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] places Sheridan in the secret meeting and subsequent war preparation.
 - Winter failure: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] describes weather stopping Terry and Gibbon and Crook's counterproductive village attack.
@@ -46,10 +50,12 @@ His initial winter campaign failed in severe weather, except for [[GeorgeCrook]]
 - The source's claim that the administration deliberately engineered war remains an interpretation of policy sequence and timing.
 - The episode does not establish whether different nineteenth-century communications could have made the convergence reliable.
 - Reconstruction context explains Sheridan's absence but does not by itself establish how his presence would have changed the campaign.
+- Washita casualty figures, target attribution, and the episode's massacre judgment require evidence beyond Sheridan's victory assessment.
 
 ## What Changed
 
-- Extended the profile backward through Yellowstone operations, Black Hills exploration, gold publicity, and attempted miner exclusion.
+- Extended the profile backward to Reconstruction conflict, Custer's recall, and Sheridan's endorsement of Washita.
+- Clarified that Sheridan's reliance on Custer survived serious political and disciplinary objections.
 
 ## Relationships
 
@@ -60,3 +66,5 @@ His initial winter campaign failed in severe weather, except for [[GeorgeCrook]]
 - [[CampaignCoordinationWithoutCommunication]] - central weakness of his operational design.
 - [[LakotaPeople]] - people targeted by the campaign after the winter deadline.
 - [[BlackHills]] - region where his expedition sponsorship and enforcement problem converged.
+- [[WashitaMassacre]] - attack he praised as a complete military success despite its enduring controversy.
+- [[PunitiveVillageWarfare]] - framework for the winter campaign method he endorsed.

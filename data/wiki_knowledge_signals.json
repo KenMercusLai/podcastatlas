@@ -15244,6 +15244,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/blackhills/"
     },
+    "BlackKettle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/blackkettle/"
+    },
     "BlackTruffleMassMarketization": {
       "episode_count": 1,
       "show_count": 1,
@@ -22976,6 +22992,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/chevrondoctrine/"
+    },
+    "CheyennePeople": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/cheyennepeople/"
     },
     "ChhatralRinpoche": {
       "episode_count": 1,
@@ -50493,9 +50525,9 @@
       "url": "/wiki/entities/frederickai/"
     },
     "FrederickBenteen": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -50517,6 +50549,13 @@
           "show": "The Rest Is History",
           "title": "451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)",
           "url": "/wiki/sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603/"
+        },
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
         }
       ],
       "updated": "2026-09-25",
@@ -54668,9 +54707,9 @@
       "url": "/wiki/entities/georgearmistead/"
     },
     "GeorgeArmstrongCuster": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -54699,6 +54738,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
         }
       ],
       "updated": "2026-09-25",
@@ -62314,9 +62360,9 @@
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicLastStandMyth": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -62338,6 +62384,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
         }
       ],
       "updated": "2026-09-25",
@@ -105609,9 +105662,9 @@
       "url": "/wiki/entities/philipofcoburg/"
     },
     "PhilipSheridan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4301705603 [GLT4301705603].md",
@@ -105626,6 +105679,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
         }
       ],
       "updated": "2026-09-25",
@@ -111341,6 +111401,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/punitivehairremovalhumiliation/"
+    },
+    "PunitiveVillageWarfare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/punitivevillagewarfare/"
     },
     "PunkEconomicCrisisSymbolism": {
       "episode_count": 2,
@@ -143604,6 +143680,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/wartimetextilefiscalresource/"
+    },
+    "WashitaMassacre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1593887977 [GLT1593887977].md",
+          "key": "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+          "show": "The Rest Is History",
+          "title": "447. Custer vs. Crazy Horse: The Winning of the West (Part 2)",
+          "url": "/wiki/sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/washitamassacre/"
     },
     "WassenaarArrangement": {
       "episode_count": 1,

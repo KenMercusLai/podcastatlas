@@ -708,12 +708,13 @@
       "ca7303491176075c59c34df3aed7d722636f05e2b212c255db888e3a3e063dad",
       "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c",
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
-      "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e"
+      "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e",
+      "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68"
     ],
-    "paragraph_count": 708
+    "paragraph_count": 709
   },
-  "overview_commit": "781ece9480bf3778e25d5629dfb7777de1e6e143",
-  "overview_digest": "3f2618079991d47c7b0f32e1f84cc87a10f60f4c35a596d9148ed1d089579438",
+  "overview_commit": "ad372cb6367f1444bcd8b6e9627b2ab96f9e9d95",
+  "overview_digest": "0b1d322ccfd0ff401edbef11c733b1ae85e7c44c4135cd3dcf397313d9c40302",
   "paragraphs": [
     {
       "id": "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
@@ -21115,6 +21116,32 @@
         "SymptomsAsPsychologicalTasks",
         "UnconsciousComplexRepetition",
         "how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889"
+      ]
+    },
+    {
+      "id": "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977|447. Custer vs. Crazy Horse: The Winning of the West (Part 2)]], a [[TheRestIsHistory]] account of [[GeorgeArmstrongCuster]]'s postwar celebrity, political and disciplinary failures, restoration, and attack on [[BlackKettle]]'s Cheyenne village. It adds [[BlackKettle]], [[CheyennePeople]], [[WashitaMassacre]], and [[PunitiveVillageWarfare]], while extending [[GeorgeArmstrongCuster]], [[FrederickBenteen]], [[PhilipSheridan]], and [[HeroicLastStandMyth]]. Its core synthesis is that Custer's spectacle, cavalry skill, and patrons repeatedly repaired political and command failure, while Sand Creek, railroad pressure, indiscriminate reprisal, winter campaigning, village destruction, and hostage-taking escalated conflict with politically diverse Cheyenne communities. No settled contradiction is recorded; casualty totals, combatant identity, raid attribution, captive treatment, sexual-exploitation allegations, individual motives, and exact dialogue remain contested or source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977",
+        "BlackKettle",
+        "CheyennePeople",
+        "FrederickBenteen",
+        "GeorgeArmstrongCuster",
+        "HeroicLastStandMyth",
+        "PhilipSheridan",
+        "PunitiveVillageWarfare",
+        "TheRestIsHistory",
+        "WashitaMassacre"
       ]
     }
   ],
