@@ -703,12 +703,13 @@
       "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96",
       "ca7303491176075c59c34df3aed7d722636f05e2b212c255db888e3a3e063dad",
       "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c",
-      "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f"
+      "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
+      "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e"
     ],
-    "paragraph_count": 703
+    "paragraph_count": 704
   },
-  "overview_commit": "ef370c482d1ac83dd8e1236b38f01381b73a817d",
-  "overview_digest": "188999b236c42fddf8b1b30b1574ff2c725b44fcd067ea5cc3f5c14496d65857",
+  "overview_commit": "76cd816114345bcbf9650fd9168aeba6050dae70",
+  "overview_digest": "7dcbd4097e941f39146c1debcba2f287e56ffb46ab63d17e9c29daa78de396e5",
   "paragraphs": [
     {
       "id": "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
@@ -20995,6 +20996,25 @@
         "NeurorestorativeStrokeRecovery",
         "PreventiveNeuroimagingTradeoff",
         "how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801"
+      ]
+    },
+    {
+      "id": "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889|How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis]], a [[HubermanLab]] interview with [[JamesHollis]] on ego and Self, unconscious complexes, shadow, relationships, suffering, aging, and death. It adds [[JungianSelfAndEgo]], [[UnconsciousComplexRepetition]], [[ShadowIntegration]], [[SymptomsAsPsychologicalTasks]], and [[MortalityBoundedMeaning]]. Its core synthesis is that inherited stories and old adaptations can organize present life without conscious consent, so adulthood requires repeated inquiry into what a reaction serves, what patterns recur, and whether a path enlarges or diminishes life. Dreams, feelings, energy, creative absorption, consequences, and trusted feedback can contribute evidence, but none is infallible; symptom meaning must not replace differential diagnosis, and shadow language must not erase real external harm. No settled contradiction is recorded; dream, energy, numinous, gender, cultural, diagnostic, and afterlife claims remain source-scoped Jungian or philosophical interpretations.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "HubermanLab",
+        "JamesHollis",
+        "JungianSelfAndEgo",
+        "MortalityBoundedMeaning",
+        "ShadowIntegration",
+        "SymptomsAsPsychologicalTasks",
+        "UnconsciousComplexRepetition",
+        "how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889"
       ]
     }
   ],

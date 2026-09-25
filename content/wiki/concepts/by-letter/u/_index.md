@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 8126
+wiki_total_pages: 8131
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "UncertaintyToleranceResilience"
     title: "Uncertainty Tolerance Resilience"
     url: "/wiki/concepts/uncertaintytoleranceresilience/"
+  - key: "UnconsciousComplexRepetition"
+    title: "Unconscious Complex Repetition"
+    url: "/wiki/concepts/unconsciouscomplexrepetition/"
   - key: "UndefinedWarObjectives"
     title: "Undefined War Objectives"
     url: "/wiki/concepts/undefinedwarobjectives/"

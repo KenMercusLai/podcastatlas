@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis](sources/how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889.md) — Huberman Lab interview on Jungian self-inquiry, unconscious complexes, shadow integration, relationship responsibility, suffering as a qualified task, aging, and mortality-bounded meaning.
 - [451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)](sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603.md) — The Rest Is History account of the Black Hills war pretext, failed winter campaign, Rosebud setback, communication-poor convergence, and pressures shaping Custer's final advance.
 - [452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)](sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290.md) — The Rest Is History reconstruction of Little Bighorn's opening phase, Custer's assumptions and divided command, Reno's rout, Native mobilization, and the last message to Benteen.
 - [How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg](sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801.md) — Huberman Lab interview on cerebrovascular risk and urgency, concussion evaluation, function-preserving neurosurgery, rehabilitation, and the evidence boundaries around imaging, stimulation, cooling, PRP, and stem cells.
@@ -2832,6 +2833,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [James Hollis](entities/JamesHollis.md) — Jungian psychoanalyst framing adulthood as accountable inquiry into the Self, complexes, shadow, relationship, suffering, and mortality.
 - [Gary Steinberg](entities/GarySteinberg.md) — Stanford neurosurgeon and researcher presented through vascular neurosurgery, brain injury, rehabilitation, and cautious neurorestoration.
 - [Alfred Terry](entities/AlfredTerry.md) — Campaign commander whose intelligence gap and discretionary orders framed Custer's advance toward Little Bighorn.
 - [George Crook](entities/GeorgeCrook.md) — U.S. commander whose winter attack enlarged the opposing coalition and whose Rosebud defeat silently removed the campaign's southern column.
@@ -13612,6 +13614,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Jungian Self and Ego](concepts/JungianSelfAndEgo.md) — Distinction between a necessary social ego and a deeper, interpreted organizing direction of life.
+- [Unconscious Complex Repetition](concepts/UnconsciousComplexRepetition.md) — Jungian account of outdated emotional premises repeatedly taking over present reactions and choices.
+- [Shadow Integration](concepts/ShadowIntegration.md) — Responsibility-centered practice of recognizing disowned material and limiting its projection into people and groups.
+- [Symptoms as Psychological Tasks](concepts/SymptomsAsPsychologicalTasks.md) — Qualified practice of asking what distress may demand while preserving relief, safety, and differential diagnosis.
+- [Mortality-Bounded Meaning](concepts/MortalityBoundedMeaning.md) — Existential view that finite time gives choices weight and makes acceptance, integrity, care, and letting go part of meaning.
 - [Cerebrovascular Event Recognition](concepts/CerebrovascularEventRecognition.md) — Mechanism-aware recognition of ischemic stroke, hemorrhage, TIA, and sudden focal neurological symptoms requiring urgent assessment.
 - [Neurorestorative Stroke Recovery](concepts/NeurorestorativeStrokeRecovery.md) — Recovery framework pairing task-specific rehabilitation and surviving-circuit plasticity with qualified cell-based or electrical adjuncts.
 - [Preventive Neuroimaging Tradeoff](concepts/PreventiveNeuroimagingTradeoff.md) — Balance between actionable early detection and anxiety, surveillance, procedures, or overtreatment from incidental findings.

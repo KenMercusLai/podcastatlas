@@ -1366,9 +1366,30 @@
         "ConcussionActiveRecovery",
         "PreventiveNeuroimagingTradeoff"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "psychological-meaning-making-needs-diagnostic-and-projection-boundaries",
+      "qualifications": [
+        "The episode presents a Jungian clinical and philosophical framework rather than biomarkers, controlled outcome evidence, or individualized mental-health care.",
+        "Dreams, feelings, energy, repeated consequences, and close-person feedback can inform reflection but are fallible and can be shaped by illness, coercion, present conditions, or bias.",
+        "Reading distress as task-bearing must not romanticize symptoms, delay treatment, blame people for trauma, or erase biological and reactive conditions; shadow language likewise must not turn genuine external harm into presumed projection."
+      ],
+      "statement": "[[how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889|The Hollis Huberman Lab episode]] adds a boundary-aware depth-psychology branch: [[JungianSelfAndEgo]] and [[UnconsciousComplexRepetition]] frame inherited identity and recurring adaptations as material for accountable inquiry, [[ShadowIntegration]] treats projection as a responsibility without denying external harm, [[SymptomsAsPsychologicalTasks]] keeps meaning-making alongside differential diagnosis and treatment, and [[MortalityBoundedMeaning]] locates purpose inside finite choices rather than guaranteed inner signals.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889",
+        "HubermanLab",
+        "JamesHollis",
+        "JungianSelfAndEgo",
+        "UnconsciousComplexRepetition",
+        "ShadowIntegration",
+        "SymptomsAsPsychologicalTasks",
+        "MortalityBoundedMeaning"
+      ]
     }
   ],
-  "input_digest": "cc7b7982ecc573cfbe9568df2d1e2b508b2901ac135e08b0dc9f732b984ee778",
-  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Current health branches span medical-aesthetic verification, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep timing, addiction recovery, metabolic drugs and monitoring, nutrition and supplements, balanced weight management, exercise heat management, flexibility and fitness assessment, first aid, autism and gene-editing ethics, grief, chemosensation, and visual health. The metabolic-psychiatry branch connects mitochondrial energy regulation with lifestyle, neurobiology, stress, aging, diagnostic uncertainty, and emerging biomarker panels while preserving the distinctions between neurological precedent and psychiatric proof, plausible mechanism and causation, and early classifier performance and a validated clinical test. Nonclinical branches apply similar source-scope discipline to river ecology, urban wildlife, climate adaptation, space infrastructure, science-policy capacity, and catastrophic-failure investigation. Across the topic, interventions and measurements remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. VOL.118 adds ICU benefit, organ-support, fixed-capacity, sedation-memory, and narrative-reconstruction boundaries: critical care can buy treatment time without guaranteeing outcome, and humane explanation complements rather than replaces technical care. The Steinberg episode adds a brain-health branch in which vascular prevention and urgent recognition of sudden focal symptoms precede qualified recovery through surviving-circuit plasticity and structured rehabilitation; screening MRI, cooling, stimulation, PRP, and cell-based approaches remain indication-, evidence-, and risk-dependent.",
+  "input_digest": "9133fa6fed849497ba72e324d123a55d033ad0d89b876ba738d4bc772b45e804",
+  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.",
   "topic_id": "science-health-and-climate"
 }

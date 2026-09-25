@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-25
-as_of_overview_commit: 1db758b9a0028f24f8d3f8feadef1b0825514ca9
+as_of_overview_commit: 76cd816114345bcbf9650fd9168aeba6050dae70
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care become lived systems."
-episode_count: 2808
-source_count: 2808
-paragraph_count: 703
+episode_count: 2810
+source_count: 2810
+paragraph_count: 704
 topic_count: 9
 ---
 
@@ -22,7 +22,7 @@ topic_count: 9
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
 - [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603|Episode 451]] extends the [[BattleOfLittleBighorn]] branch backward: [[ManufacturedWarPretext]] joins tolerated Black Hills intrusion, an infeasible winter ultimatum, and hostile publicity, while [[GeorgeCrook|Crook]]'s counterproductive winter attack enlarges the Native coalition and his unreported [[BattleOfRosebud|Rosebud]] defeat turns [[CampaignCoordinationWithoutCommunication]] into a missing-column crisis. [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977|Episode 453]] then frames the battle as both [[GeorgeArmstrongCuster|Custer]]'s divided-command failure and a [[LakotaPeople|Lakota]]-Cheyenne victory enabled by [[SittingBull|Sitting Bull]]'s coalition and battlefield leadership associated with [[CrazyHorse|Crazy Horse]] and [[GallLakota|Gall]]. [[BattlefieldReconstructionUnderUncertainty]] constrains the final phase without closing it, while [[HeroicLastStandMyth]] explains how later memory shifts blame toward [[FrederickBenteen|Benteen]] and [[MarcusReno|Reno]] and obscures Native agency.
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
-- [[how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801|The Steinberg Huberman Lab episode]] adds a brain-health branch that links [[CardiovascularBrainHealthLink]] to [[CerebrovascularEventRecognition]] and then to [[NeurorestorativeStrokeRecovery]]: vascular prevention and urgent assessment of sudden focal symptoms precede recovery work in which [[Neuroplasticity]] and structured rehabilitation can recruit surviving circuits, while [[ConcussionActiveRecovery]] and [[PreventiveNeuroimagingTradeoff]] keep normal imaging, incidental findings, stimulation, cooling, PRP, and experimental cell approaches inside indication-specific evidence and risk boundaries.
+- [[how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889|The Hollis Huberman Lab episode]] adds a boundary-aware depth-psychology branch: [[JungianSelfAndEgo]] and [[UnconsciousComplexRepetition]] frame inherited identity and recurring adaptations as material for accountable inquiry, [[ShadowIntegration]] treats projection as a responsibility without denying external harm, [[SymptomsAsPsychologicalTasks]] keeps meaning-making alongside differential diagnosis and treatment, and [[MortalityBoundedMeaning]] locates purpose inside finite choices rather than guaranteed inner signals.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -75,7 +75,7 @@ Psychological development depends on embodied regulation, relational safety, cal
 
 ### Science, Health, and Climate
 
-Science and health literacy require mechanism, measurement, urgent escalation where appropriate, qualified care, and explicit uncertainty.
+Science and health literacy require mechanism, measurement, urgent escalation where appropriate, qualified care, explicit uncertainty, and boundaries on interpretation.
 
 - [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523|The Ryan Soave Huberman Lab episode]] adds a staged addiction-recovery branch: [[AddictionAsAttemptedRelief]] treats compulsive substance or behavioral use as fast relief that can become a new source of stress and harm, while [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], and [[RecoveryCommunityConnection]] move recovery from stabilization toward tolerating discomfort, anticipating emotional hazards, practicing safer coping, and building purpose and connection beyond abstinence. Evidence: [[tools-for-overcoming-substance-behavioral-addictions-ryan-soave-scim5476071523]], [[HubermanLab]], [[RyanSoave]], [[AddictionAsAttemptedRelief]], [[RecoveryDistressTolerance]], [[EmotionalWeatherForecast]], [[RecoveryCommunityConnection]], [[DigitalSexualSubstituteRisk]].
 - [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628|Bill Gurley's All-In presentation]] adds a catastrophic-failure inquiry branch: [[CatastrophicFailureRootCauseInvestigation]] and [[CAPACorrectivePreventiveAction]] use Surfside, Boeing, Katrina, Fukushima, and Challenger to argue that prevention needs independent access to evidence, technical and institutional root-cause confirmation, and [[InvestigationConflictOfInterest|conflict safeguards]], while [[COVIDOriginsInvestigationUncertainty]] keeps animal spillover and a laboratory accident open because the source advocates scrutiny of the latter but explicitly declines to choose between them. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-bill-gurley-searching-for-feynman-42956628]], [[AllIn]], [[BillGurley]], [[RichardFeynman]], [[KiyoshiKurokawa]], [[DRASTIC]], [[CatastrophicFailureRootCauseInvestigation]], [[CAPACorrectivePreventiveAction]], [[InvestigationConflictOfInterest]], [[COVIDOriginsInvestigationUncertainty]], [[AnthonyFauci]], [[ScienceTrustPoliticization]].

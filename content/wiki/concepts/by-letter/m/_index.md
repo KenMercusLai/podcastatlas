@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8126
+wiki_total_pages: 8131
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "MortalityRiskPricing"
     title: "Mortality Risk Pricing"
     url: "/wiki/concepts/mortalityriskpricing/"
+  - key: "MortalityBoundedMeaning"
+    title: "Mortality-Bounded Meaning"
+    url: "/wiki/concepts/mortalityboundedmeaning/"
   - key: "MortgageApproval"
     title: "Mortgage Approval"
     url: "/wiki/concepts/mortgageapproval/"

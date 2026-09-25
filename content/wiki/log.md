@@ -22480,3 +22480,10 @@ Added source `450-custers-last-stand-death-in-the-black-hills-part-5-glt14973397
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-25] ingest | How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis
+
+Added source `how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889`; created `JamesHollis`, `JungianSelfAndEgo`, `UnconsciousComplexRepetition`, `ShadowIntegration`, `SymptomsAsPsychologicalTasks`, and `MortalityBoundedMeaning` from the source's complete bounded input; and updated the canonical overview and index. Core synthesis: inherited ego stories and complexes can keep old adaptations active; dreams, feelings, energy, repeated consequences, and trusted feedback can support accountable inquiry; shadow ownership limits projection; distress may present a task without replacing differential diagnosis or treatment; and mortality gives finite choices weight. No settled contradiction found. Dreams, energy, numinous experience, gender, culture, diagnosis, and afterlife claims remain source-scoped Jungian or philosophical interpretations. The downstream synthesis refresh only reads the canonical `wiki/overview.md` before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
