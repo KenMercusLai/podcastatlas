@@ -5,7 +5,8 @@ tags: [healthcare, chronic-disease, medication, communication]
 sources:
   - vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
-last_updated: 2026-09-25
+  - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ The lupus episode treats adherence as an information and trust problem rather th
 
 The lupus source's shorthand “早吃药的人早停药” expresses a conditional logic: controlling active disease earlier may create later room for dose reduction, whereas irregular early treatment can prolong instability or raise relapse risk. The IBD episode adds the complementary remission boundary: fast symptom relief is not proof that the underlying condition has disappeared, and stopping treatment after each improvement can make repeated disease harder to control. Together, the sources treat adherence as an ongoing feedback loop in which response, adverse effects, nutrition, relapse, and changing goals are reviewed rather than ignored.
 
+VOL.110 adds the common hypertension and diabetes case: much of medicine controls risk and disease activity rather than delivering a once-and-for-all cure. Continuing medication and review are therefore not evidence of treatment failure, while advertisements promising complete eradication of these chronic conditions are a warning sign.
+
 ## Key Claims
 - Adherence problems often arise from understandable fears about adverse effects, dependence, appearance, and uncertain efficacy.
 - Honest risk-benefit communication is more durable than hiding side effects or demanding unquestioning compliance.
@@ -26,7 +29,7 @@ The lupus source's shorthand “早吃药的人早停药” expresses a conditio
 - Early disease control can create later de-escalation options, but the timing and feasibility remain condition- and patient-specific.
 - Side effects or doubts should trigger review and adjustment rather than unilateral stopping or dose changes.
 - Online complaints and acquaintance experience can be selection-biased and poorly matched to another patient's disease stage or regimen.
-- In relapsing disease, symptom disappearance can conceal continuing recurrence or complication risk, making maintenance and follow-up distinct from acute symptom control.
+- Symptom disappearance can conceal continuing risk in relapsing disease, while ongoing control of hypertension or diabetes is not failed care; maintenance remains distinct from acute relief, and cure guarantees deserve skepticism.
 
 ## Evidence
 - Risk communication: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] has the rheumatology and psychiatry guests argue for transparent discussion of efficacy and adverse effects.
@@ -34,13 +37,14 @@ The lupus source's shorthand “早吃药的人早停药” expresses a conditio
 - Information bias: [[vol-138-hongbanlangchuang-manxingbing-lsea-weckd5-5cswf0ghcabw0vek]] notes that poor outcomes may be more visible online and that patient courses differ in severity, timing, response, and treatment depth.
 - Remission boundary: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] contrasts acute symptom improvement with sustained IBD remission and describes relapse after self-directed stopping or irregular treatment.
 - Follow-up and shared decisions: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] connects continuing care with medication review, nutrition, complication monitoring, surgery timing, and patient participation.
+- Control-versus-cure literacy: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] uses hypertension and diabetes to distinguish long-term stabilization from guaranteed eradication.
 
 ## Counterevidence & Qualifications
 Adherence is not blind compliance, and adverse effects, cost, access, pregnancy, infection, misdiagnosis, poor response, surgery, or changing goals can justify reassessment or a different plan. The sources do not provide drug-specific missed-dose or discontinuation instructions. “Early treatment permits early stopping” is a motivational shorthand, not a guarantee; some chronic diseases require indefinite maintenance. The IBD episode's multi-year treatment language and individual cases are also source-scoped rather than universal duration rules.
 
 ## What Changed
-- Added the distinction between rapid symptom relief and sustained remission in a relapsing intestinal disease.
-- Extended adherence from medication continuity into nutrition, complication monitoring, follow-up, and surgery-related review.
+- Added the common hypertension and diabetes distinction between durable control and cure.
+- Added cure promises as an information-quality warning sign rather than a reason to abandon continuing care.
 
 ## Related Concepts
 - [[SystemicLupusErythematosusManagement]] - disease-specific case grounding the adherence framework.

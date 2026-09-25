@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-26
-as_of_overview_commit: add59b38c9710bfc194e82636b8bc2ca0ef703e3
-input_digest: 2b99a19e7726feea32ee389059d5f5ced826bb71d30931fe3c6883e168361a24
+as_of_overview_commit: 1ff81a8ffc5c5a7e140afef9fd90363b86a6081b
+input_digest: ec4c8070537e31824716a84a3d2cecb891f2020a8cb11cd384b65cae4f69fa91
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation and infrastructure, and science governance; across these branches, interventions and interpretations remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The metabolic-health addition sharpens this pattern by separating energy supply from mitochondrial processing capacity and treating movement, eating timing, biomarkers, and glucose curves as contextual feedback rather than universal prescriptions or perfect scores. The Walker mental-health addition further separates acute sleep-loss reactivity, REM emotional-memory processing, deep non-REM anxiety regulation, and crisis-risk signaling while keeping medication, PTSD, addiction, depression, and suicide care inside clinical boundaries.
+Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state.
 
 ## Cross-source Findings
 
@@ -729,15 +729,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 
 ### Intensive Care Needs Benefit Time And Experience Reconstruction
 
-[[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm|VOL.118]] adds a critical-care branch through [[IntensiveCareAsTimeBuying]], [[NarrativeMedicine]], and [[DoctorPatientCommunication]]: ICU support can stabilize failing organs while acute, potentially reversible illness is treated, but admission still depends on expected benefit and fixed capacity, while sedation-related memory gaps can require humane explanation of invasive care the patient could not witness or remember.
+[[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], and [[DoctorPatientCommunication]] jointly distinguish acute support from terminal comfort: ICU can stabilize failing organs while potentially reversible illness is treated, but admission depends on expected benefit and capacity; when decline is irreversible, reducing invasive burden can become a positive care goal, while advance conversation and post-sedation explanation help patients and families understand choices they could not fully anticipate, witness, or remember.
 
-**Evidence:** [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]], [[IntensiveCareAsTimeBuying]], [[NarrativeMedicine]], [[DoctorPatientCommunication]], [[ZihanDoctor]], [[Atang]]
+**Evidence:** [[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm]], [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]], [[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], [[DoctorPatientCommunication]], [[ZihanDoctor]]
 
 **Qualifications:**
 
-- The episode is one physician's public-education account, not an ICU admission protocol, outcome study, cost audit, or individualized prognosis.
-- Advanced organ support does not guarantee access, survival, preserved function, benefit, or freedom from traumatic experience.
-- Encouragement, touch, and narrative reconstruction can support understanding without proving a physiological treatment effect or replacing consent, prognosis, and qualified care.
+- The sources are public-education and narrative accounts, not ICU admission protocols, hospice standards, outcome studies, or individualized prognoses.
+- Advanced organ support does not guarantee access, survival, preserved function, benefit, or freedom from traumatic experience; comfort-focused care must not become abandonment or denial of potentially beneficial treatment.
+- Advance statements, encouragement, touch, and narrative reconstruction can support understanding without replacing capacity assessment, consent, current wishes, prognosis, family ethics, or qualified care.
 
 ### Brain Health Needs Vascular Urgency And Qualified Neurorestoration
 

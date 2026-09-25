@@ -1393,19 +1393,20 @@
       "global_candidate": true,
       "id": "intensive-care-needs-benefit-time-and-experience-reconstruction",
       "qualifications": [
-        "The episode is one physician's public-education account, not an ICU admission protocol, outcome study, cost audit, or individualized prognosis.",
-        "Advanced organ support does not guarantee access, survival, preserved function, benefit, or freedom from traumatic experience.",
-        "Encouragement, touch, and narrative reconstruction can support understanding without proving a physiological treatment effect or replacing consent, prognosis, and qualified care."
+        "The sources are public-education and narrative accounts, not ICU admission protocols, hospice standards, outcome studies, or individualized prognoses.",
+        "Advanced organ support does not guarantee access, survival, preserved function, benefit, or freedom from traumatic experience; comfort-focused care must not become abandonment or denial of potentially beneficial treatment.",
+        "Advance statements, encouragement, touch, and narrative reconstruction can support understanding without replacing capacity assessment, consent, current wishes, prognosis, family ethics, or qualified care."
       ],
-      "statement": "[[lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm|VOL.118]] adds a critical-care branch through [[IntensiveCareAsTimeBuying]], [[NarrativeMedicine]], and [[DoctorPatientCommunication]]: ICU support can stabilize failing organs while acute, potentially reversible illness is treated, but admission still depends on expected benefit and fixed capacity, while sedation-related memory gaps can require humane explanation of invasive care the patient could not witness or remember.",
+      "statement": "[[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], and [[DoctorPatientCommunication]] jointly distinguish acute support from terminal comfort: ICU can stabilize failing organs while potentially reversible illness is treated, but admission depends on expected benefit and capacity; when decline is irreversible, reducing invasive burden can become a positive care goal, while advance conversation and post-sedation explanation help patients and families understand choices they could not fully anticipate, witness, or remember.",
       "status": "qualified",
       "supporting_wikilinks": [
         "lnrbqztehpu3nnpofuw1ihascwrm-lnrbqztehpu3nnpofuw1ihascwrm",
+        "vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5",
         "IntensiveCareAsTimeBuying",
-        "NarrativeMedicine",
+        "HospiceCare",
+        "DeathNormalizationPractice",
         "DoctorPatientCommunication",
-        "ZihanDoctor",
-        "Atang"
+        "ZihanDoctor"
       ]
     },
     {
@@ -1532,7 +1533,7 @@
       ]
     }
   ],
-  "input_digest": "d735d0c1ba50404dc77b21a335fa309ddcf23e637601d09a0d6a026a65ae74f5",
-  "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation and infrastructure, and science governance; across these branches, interventions and interpretations remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The metabolic-health addition sharpens this pattern by separating energy supply from mitochondrial processing capacity and treating movement, eating timing, biomarkers, and glucose curves as contextual feedback rather than universal prescriptions or perfect scores. The Walker mental-health addition further separates acute sleep-loss reactivity, REM emotional-memory processing, deep non-REM anxiety regulation, and crisis-risk signaling while keeping medication, PTSD, addiction, depression, and suicide care inside clinical boundaries.",
+  "input_digest": "ec4c8070537e31824716a84a3d2cecb891f2020a8cb11cd384b65cae4f69fa91",
+  "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state.",
   "topic_id": "science-health-and-climate"
 }

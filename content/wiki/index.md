@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日](sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5.md) — 这病说来话长 World Book Day roundtable on death planning, comfort-focused terminal care, clinical reasoning, chronic-disease control, second opinions, and reading as support.
 - [442. Lord Byron: Dangerous Liaisons (Part 3)](sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097.md) — The Rest Is History on Byron's early celebrity, Caroline Lamb, marriage to Annabella Milbank, the Augusta Leigh scandal, separation, and exile.
 - [Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher](sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429.md) — Huberman Lab interview on adolescent autonomy, youth vaping and cannabis risk, credible prevention messages, quitting support, and graduated harm reduction.
 - [GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory](sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704.md) — Huberman Lab sleep-series episode on pre-learning encoding, post-learning consolidation, motor skill, associative creativity, institutional schedules, and orthosomnia.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
       "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
       "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
       "8baf174eacb1048196ed3821aabcac8d88484469d6c59085b3d0968ea1845d0c",
@@ -718,11 +719,32 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 716
+    "paragraph_count": 717
   },
-  "overview_commit": "98925d9c5aad635c231b256621c3dabfd530924f",
-  "overview_digest": "0b98cb390840ead031e5304b705046c2113a5e923dae6767334aa7a76970f441",
+  "overview_commit": "1ff81a8ffc5c5a7e140afef9fd90363b86a6081b",
+  "overview_digest": "6418972526ce46f2cc4a68e14aa9a0786552197d6c0a2ca992b9223de18d182a",
   "paragraphs": [
+    {
+      "id": "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
+      "primary_topic": "culture-and-media",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The latest medical-humanities addition is [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5|VOL.110善终是为了更好的活着！]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] World Book Day roundtable linking [[HospiceCare]], [[DeathNormalizationPractice]], [[DoctorPatientCommunication]], [[ChronicDiseaseTreatmentAdherence]], and [[IntensiveCareAsTimeBuying]]. Its core synthesis is that advance discussion of wishes and comfort can protect dignity when terminal illness is irreversible without turning ICU into a generic place for dying; clinicians' cautious online answers, second-opinion openness, and level-of-care routing likewise make more sense when viewed as risk management under incomplete information rather than indifference. No settled contradiction is recorded; donation choices, book interpretations, clinical anecdotes, hospital practices, and disease-control statements remain source-scoped public discussion rather than individualized medical or end-of-life guidance.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "ChronicDiseaseTreatmentAdherence",
+        "DeathNormalizationPractice",
+        "DoctorPatientCommunication",
+        "HospiceCare",
+        "IntensiveCareAsTimeBuying",
+        "ZheBingShuoLaiHuaChang",
+        "vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5"
+      ]
+    },
     {
       "id": "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
       "primary_topic": "work-education-and-society",

@@ -2,28 +2,50 @@
 title: "安宁疗护 / Hospice Care"
 type: concept
 tags: [healthcare, death, care, illness]
-sources: [119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087, 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]
-last_updated: 2026-07-24
+sources:
+  - 119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087
+  - 184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010
+  - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
+last_updated: 2026-09-26
+knowledge_schema: synthesis-v1
 ---
 
 # 安宁疗护 / Hospice Care
 
-Hospice care enters the wiki through [[184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]], where [[Ajiao|阿娇 / 柱子哥]] discusses late-stage cancer, possible treatment exhaustion, and the need to talk about death quality. The episode treats 安宁疗护 less as a clinical protocol than as a public concept: a way to ask what care, dignity, pain, family presence, and choice should mean when cure may no longer be available.
+## Definition
+Hospice or comfort-focused end-of-life care prioritizes relief, dignity, communication, and the person's remaining life when cure or reversal is no longer realistic, while remaining distinct from euthanasia, assisted suicide, and abandonment.
 
-The source's emphasis is cultural and narrative. Ajiao wants patients, elders, bodily decline, and dying to become speakable rather than hidden behind optimism, shame, or family protection.
+## Current Synthesis
+The wiki treats hospice care as part of illness care rather than a failure outside it. [[184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]] grounds the concept in late-stage cancer, possible treatment exhaustion, bodily deterioration, pain, family presence, unfinished work, and the need to make dying speakable. Ajiao's account keeps continued treatment and end-of-life preparation in the same story rather than forcing a simple optimism-versus-resignation choice.
 
-[[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] adds the boundary between hospice-like comfort care and assisted death. The episode distinguishes terminal sedation and pain relief from active euthanasia or assisted suicide, making hospice care part of the same end-of-life ethics field without treating it as a hidden name for euthanasia.
+[[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] supplies the ethical boundary: symptom relief, terminal sedation, withdrawal of burdensome treatment, assisted suicide, and active euthanasia are not interchangeable acts. VOL.110 then adds the ICU-facing distinction. Comfort-focused care can reduce invasive burden in irreversible terminal illness, but ICU itself is not a generic “end-of-life ward”; intensive care often provides organ support and time for potentially reversible disease.
 
 ## Key Claims
-- End-of-life care is part of illness experience, not a failure outside the story.
-- Talking about hospice care can help families and patients face pain, feeding, excretion, smell, deterioration, and goodbye with less avoidance.
-- Hospice care connects medical reality to [[PublicIllnessWriting]] because public language can make private decisions less isolated.
-- The episode does not turn hospice care into resignation; it appears beside continued treatment, unfinished books, and the desire to keep acting while possible.
-- Hospice care also marks an important [[AssistedDeathConceptBoundary]] because symptom relief, consciousness-lowering, treatment withdrawal, and intentional death are not the same clinical or legal act.
+- End-of-life comfort is a positive care goal, not proof that the person's illness story or personhood has ended.
+- Pain, breathing, feeding, excretion, smell, consciousness, family presence, and goodbye can be discussed without hiding deterioration behind compulsory optimism.
+- Continued disease treatment, unfinished work, and hospice preparation can coexist while goals and reversibility remain under review.
+- Symptom relief, terminal sedation, treatment withdrawal, assisted suicide, and active euthanasia require distinct clinical, ethical, and legal analysis.
+- ICU support should be judged by expected reversibility and benefit rather than equated automatically with dying.
+- Advance conversation can help align comfort and treatment limits with patient and family understanding, but it cannot predict every later clinical state or wish.
 
-## Connections
-- [[Ajiao|阿娇 / 柱子哥]] - source voice discussing late-stage cancer and death quality.
-- [[WoHaiXiangKanjian|《我还想看见》]] - book connected to the public illness and care thread.
-- [[PublicIllnessWriting]] and [[WholeProcessCancerDocumentation]] - writing frames that make hospice visible.
-- [[MeaningThroughExperience]] and [[PresentMomentAgainstDeath]] - adjacent mortality and meaning frames.
-- [[EndOfLifeAutonomyAndDignity]] and [[AssistedDeathClinicalResponsibility]] - assisted-death boundaries added by the 蜜獾吃书 source.
+## Evidence
+- Whole-person cancer care: [[184-zhenshi-yu-wo-you-wanjun-zhi-zhong-huanying-xianv-ajiao-990545010]] links possible hospice transition with ninth-line treatment, physical degradation, unfinished manuscripts, public writing, and dignity beyond patient identity.
+- Assisted-death boundary: [[119-anlesi-xianchang-zhengyin-shengming-ruci-zhengui-770771087]] distinguishes comfort care and terminal sedation from actions intended to cause death.
+- Reversibility and burden: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] has an ICU clinician describe reducing invasive treatment when terminal decline is irreversible while preserving ICU's role in treatable critical illness.
+- Advance discussion: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] connects earlier family conversation with clearer wishes and less crisis-time conflict.
+
+## Counterevidence & Qualifications
+These sources are narrative and public-education accounts, not individualized prognosis or a complete hospice protocol. Reversibility, decision-making capacity, pain control, legal rules, cultural and religious commitments, available services, family conflict, and patient wishes can change the appropriate path. Comfort-focused care should not be used as a hidden name for abandonment, assisted death, or denial of potentially beneficial treatment.
+
+## What Changed
+- Added the explicit distinction between irreversible terminal decline and ICU treatment of potentially reversible illness.
+- Added advance family conversation while preserving uncertainty about later wishes and clinical state.
+- Migrated the page to the synthesis-first schema without changing its prior source inventory.
+
+## Related Concepts
+- [[EndOfLifeAutonomyAndDignity]] - patient-agency frame for treatment goals and final-life quality.
+- [[AssistedDeathConceptBoundary]] - distinguishes comfort care from intentional life-ending acts.
+- [[IntensiveCareAsTimeBuying]] - reversible-critical-illness boundary that prevents ICU from being treated as hospice by default.
+- [[DeathNormalizationPractice]] - advance language and planning that can make end-of-life choices discussable.
+- [[FamilyEthicsAtEndOfLife]] - family and surrogate tensions around benefit, burden, and loss.
+- [[PublicIllnessWriting]] - public language that makes private deterioration and care choices less isolated.

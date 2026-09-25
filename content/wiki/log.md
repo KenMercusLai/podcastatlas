@@ -22651,3 +22651,11 @@ Added source `vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-f
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日
+
+Added source `vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5`; updated the canonical index and overview; and extended end-of-life, death-normalization, doctor-patient communication, chronic-disease continuity, and principal-speaker pages from their complete bounded source sets. Core synthesis: discussing wishes and comfort before crisis supports present living and terminal dignity, while ICU remains active support for potentially reversible illness; clinician caution, second opinions, and care-level routing should be understood through risk, information, patient goals, and continuity rather than prestige or perceived coldness alone. No settled contradiction found. Donation choices, book interpretations, clinical anecdotes, hospital practices, and disease-control claims remain source-scoped public education rather than individualized guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

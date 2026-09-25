@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: add59b38c9710bfc194e82636b8bc2ca0ef703e3
+as_of_overview_commit: 1ff81a8ffc5c5a7e140afef9fd90363b86a6081b
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2829
-source_count: 2829
-paragraph_count: 716
+episode_count: 2832
+source_count: 2832
+paragraph_count: 717
 topic_count: 9
 ---
 
@@ -16,13 +16,13 @@ topic_count: 9
 
 ## Executive Summary
 
-- AI creates durable value when model capability is embedded in real workflows through [[ContextEngineering]], [[AISkills]], [[AgenticWorkflow]], [[AIOfficeAgent]], [[OfficeAgentHarnessDesign]], [[EnterpriseConnectorContextQuality]], [[AgentFacingInterfaces]], [[AgenticSystemOfRecordMoat]], [[PersistentCloudAgents]], [[ForwardDeployedEngineer]], [[DigitalEmployees]], [[AgentHarness]], [[AgentReliabilityVerification]], [[AgentCommandCenter]], [[TeamAgentMemory]], [[AgenticDataEngineeringHarness]], [[PolicyBoundAgenticLendingSupport]], [[ExplainableAILending]], and [[TokenEfficientAgentWorkflow]] rather than left as isolated chat or generation.
+- [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252|Ep 59]] adds an agent-native coding branch: [[AgentCommandCenter]], [[Codex]], [[Cursor]], and [[AntiGravity]] frame 2026 coding tools around sessions, instructions, diffs, feedback, and acceptance; [[AICoworkers]], [[ProactiveAgents]], [[JuiceCodingAgent]], [[TeamAgentMemory]], [[EnterpriseAgentMemory]], [[IMAgentInterfaces]], [[SubagentWorkflow]], and [[CodingDemocratization]] show the same shift spreading into proactive maintenance, team context, multi-agent orchestration, and non-engineer software-building, while [[AgentHarness]] and [[AICodingVerification]] remain the constraints that make delegated work inspectable.
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
 - Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
-- [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia.
+- [[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], and [[DoctorPatientCommunication]] jointly distinguish acute support from terminal comfort: ICU can stabilize failing organs while potentially reversible illness is treated, but admission depends on expected benefit and capacity; when decline is irreversible, reducing invasive burden can become a positive care goal, while advance conversation and post-sedation explanation help patients and families understand choices they could not fully anticipate, witness, or remember.
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
@@ -36,18 +36,18 @@ AI value depends on governed workflows, verification, infrastructure, permission
 
 ### Business and Markets
 
-Durable markets need real demand, delivery capacity, contract fit, affordability, verifiable service, and explicit evidence boundaries.
+Durable markets require real demand, delivery capacity, contract fit, affordability, verifiable service, and explicit evidence boundaries.
 
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
 
 ### Cross-domain
 
-Evidence transfers across domains only when mechanism, goal, and scope remain explicit.
+Evidence transfers across domains only when mechanism, goal, comparator, and scope remain explicit.
 
 ### Culture and Media
 
-Media form, provenance, artifacts, audience practice, and situated interpretation shape what becomes legible and durable.
+Media form, materiality, provenance, audience practice, and situated interpretation shape what becomes legible and durable; reading can also mediate mortality and clinical understanding.
 
 - [[TheRollingStones]] show cultural form operating through both image and medium: [[CelebrityFolkDevilMoralPanic]] turned the [[RedlandsDrugCase]] into a wider conflict over drugs, class, and youth, while [[PopToAlbumRockTransition]] joined audience conduct, musicianship, and album economics to durable rock authority; [[AltamontFreeConcert]] then became a retrospective cultural endpoint without being a single cause of the decade's collapse. Evidence: [[TheRollingStones]], [[CelebrityFolkDevilMoralPanic]], [[RedlandsDrugCase]], [[PopToAlbumRockTransition]], [[AltamontFreeConcert]], [[559-the-rolling-stones-satanic-majesties-of-sixties-rebellion-part-2-glt1390188077]].
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them. Evidence: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], [[PhysicalBookDesignTradeoff]].
@@ -75,7 +75,7 @@ Psychological interpretation depends on embodied regulation, relational safety, 
 
 ### Science, Health, and Climate
 
-Science and health literacy require mechanism, measurement, stage-specific interpretation, qualified care, escalation, and explicit uncertainty.
+Science and health literacy require mechanism, measurement, qualified care, escalation, and explicit uncertainty; end-of-life care additionally distinguishes reversible critical illness from comfort-focused terminal care.
 
 - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia. Evidence: [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]], [[AndrewHuberman]], [[MatthewWalker]], [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SleepAnxietyLoop]], [[SubconsciousCreativeIncubation]].
 - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|The Walker Huberman Lab sleep-series finale]] adds a dream-science branch: [[DreamFunctionAndMeaning]] and [[SleepStageFunctionalArchitecture]] connect vivid REM dreaming with active visual, motor, memory, and emotion systems plus reduced executive control; [[NightmareImageryRehearsalTherapy]] and [[TargetedMemoryReactivation]] treat distressing memories as potentially updateable under bounded protocols; and [[LucidDreamingEvidenceBoundary]] separates verified awareness from unsettled control, induction, restorative cost, and benefit, while [[SleepAnxietyLoop]] keeps clock-checking and forced sleep inside a behavioral and clinical boundary. Evidence: [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]], [[AndrewHuberman]], [[MatthewWalker]], [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], [[LucidDreamingEvidenceBoundary]], [[SleepAnxietyLoop]], [[SleepSupplementBoundary]].

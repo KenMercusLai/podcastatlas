@@ -3,16 +3,16 @@
 generated: true
 topic_id: culture-and-media
 title: "Culture and Media"
-last_updated: 2026-09-24
-as_of_overview_commit: 1dc774d4df9ee08bf53fbb61d62141fe86c9718c
-input_digest: db486caf3558f85a799d07eb86a04f4e3079f3a9f61f90ff75feb59df7a11a67
+last_updated: 2026-09-26
+as_of_overview_commit: 1ff81a8ffc5c5a7e140afef9fd90363b86a6081b
+input_digest: 0370bb7827e1757d5d3b5257f041417d60ac2fed66e4202ae60fd20ba1e9d8b5
 ---
 
 # Culture and Media
 
 ## Current State
 
-Culture and media sources currently treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public deep-time artifacts, and fragmented video do not merely carry content; they decide what becomes legible, intimate, durable, cautious, playable, authoritative, or imaginable. Across the topic, durable cultural value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while source-scoped limits remain around forecasts, exact commercial metrics, adaptation judgments, demographic generalization, technical capability, symbolic behavior change, and incomplete event reconstruction. The Chongqing Shidai Fengjun episode adds a contested-event layer in which disappearing originals, selective clips, gendered scrutiny, and shared legitimacy language shape public meaning without resolving chronology or organization. The Nepal flood follow-up adds a disaster-culture branch in which field reporting connects symbolic funerals and damaged pilgrimage traditions to forensic identification, repeated displacement, and institutional delay without treating provisional figures as settled. The Rolling Stones branch adds celebrity image and music-market form to this pattern: distributed moral panic can magnify limited misconduct, while audience practice and album economics can help convert rebellion into durable authority without making Altamont a single causal endpoint. The Norman Conquest branch adds conquest memory as institutional form: coronation ritual, castles, elite replacement, and record-making made rupture legible while appropriating older English capacities. VOL.123 adds a health-podcast example in which situated conversation translates specialist reasoning into everyday questions while retaining clinical limits.
+Culture and media sources treat form as infrastructure: podcasts, exhibitions, books, games, platforms, translation tools, youth-risk norms, heritage routes, public artifacts, and fragmented video shape what becomes legible, intimate, durable, authoritative, or imaginable. Durable value appears when medium, material form, audience practice, evidence provenance, and interpretation are designed together, while forecasts, metrics, adaptation judgments, demographic generalizations, symbolic effects, and incomplete event reconstructions remain qualified. The latest medical-humanities roundtable adds that reading can also mediate clinical reasoning, mortality, and emotional processing: books make end-of-life choices and clinician logic discussable without turning narrative interpretation into individualized care.
 
 ## Cross-source Findings
 
@@ -61,13 +61,14 @@ Podcast value repeatedly comes from long-form, situated conversation rather than
 
 ### Reading Links Body Material And Ai
 
-The reading cluster treats human understanding as embodied and material: [[ReadingAsLifeExperience]], [[TextShapedCognition]], [[ExperientialAssociation]], [[OldBookMateriality]], and [[AgriculturalPracticeAsTextualEntry]] all resist reducing books to detachable information, while [[AIStatisticalAssociation]] and [[AITranslation]] shift which parts of reading and language work feel scarce.
+The reading cluster treats human understanding as embodied, material, and relational: [[ReadingAsLifeExperience]], [[TextShapedCognition]], [[ExperientialAssociation]], [[OldBookMateriality]], and [[AgriculturalPracticeAsTextualEntry]] resist reducing books to detachable information, while [[AIStatisticalAssociation]] shifts which associations feel scarce and [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5|VOL.110]] shows reading mediating mortality, clinician logic, and emotional processing.
 
-**Evidence:** [[ReadingAsLifeExperience]], [[TextShapedCognition]], [[ExperientialAssociation]], [[OldBookMateriality]], [[AgriculturalPracticeAsTextualEntry]], [[AIStatisticalAssociation]], [[AITranslation]]
+**Evidence:** [[ReadingAsLifeExperience]], [[TextShapedCognition]], [[ExperientialAssociation]], [[OldBookMateriality]], [[AgriculturalPracticeAsTextualEntry]], [[AIStatisticalAssociation]], [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]]
 
 **Qualifications:**
 
 - The sources do not settle broad reading-decline causality or the future division of human and AI association; those remain source-scoped media-theory claims.
+- VOL.110 offers clinician interpretations and personal reading practices rather than proof that particular books improve clinical outcomes or substitute for individualized care.
 
 ### Narrative Forms Distribute Agency
 
