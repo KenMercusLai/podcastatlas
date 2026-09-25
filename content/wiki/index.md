@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation](sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288.md) — Huberman Lab sleep-series episode on stage-specific emotional regulation, anxiety, trauma, addiction vulnerability, depression, suicide-risk signals, and clinical boundaries.
 - [445. The Habsburgs: Secrets of a Dynasty](sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597.md) — The Rest Is History interview on Habsburg marriage diplomacy, Catholic family identity, layered imperial rule, succession, and the limits of a sympathetic dynastic interpretation.
 - [VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗](sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb.md) — 这病说来话长 episode on vascular-surgery symptom routing, imaging and treatment escalation, thrombosis, atherosclerosis, and misleading vessel-softening health products.
 - [446. Custer vs. Crazy Horse: Civil War (Part 1)](sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244.md) — The Rest Is History episode on Custer's youth, political contradictions, Civil War rise, theatrical command, military celebrity, and the strengths that may have prepared later overreach.
@@ -2849,7 +2850,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Black Kettle](entities/BlackKettle.md) — Cheyenne peace leader whose village was attacked at Washita despite his negotiation-oriented position.
 - [Cheyenne People](entities/CheyennePeople.md) — Native people presented through changing Plains life, expansion pressure, political diversity, resistance, and village warfare.
 - [Washita Massacre](entities/WashitaMassacre.md) — 1868 dawn attack on Black Kettle's village whose official victory framing remains contested by massacre evidence.
-- [Matthew Walker](entities/MatthewWalker.md) — Sleep scientist explaining REM and non-REM dreams, emotional memory, nightmares, lucid dreaming, and evidence-bounded sleep practice.
+- [Matthew Walker](entities/MatthewWalker.md) — Sleep scientist explaining stage-specific emotional regulation, dreams, anxiety, trauma, nightmares, and evidence-bounded sleep practice.
 - [Li Jingnan / 李景南](entities/LiJingnan.md) — Gastroenterologist explaining IBD recognition, remission, long-term treatment, complications, surgery timing, and shared decisions.
 - [Meng Jun / 孟君 (IBD Advocate)](entities/MengJunIBDAdvocate.md) — Patient and nonprofit communicator connecting severe IBD onset, clinical remission, maintenance care, and public education.
 - [Fu Haoran / 傅浩然 (IBD Advocate)](entities/FuHaoranIBDAdvocate.md) — Crohn's disease patient and peer educator describing delayed diagnosis, severe complications, recovery, and social-media support.
@@ -13639,6 +13640,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Sleep-Mental Health Bidirectionality](concepts/SleepMentalHealthBidirectionality.md) — QQRT-based framework for reciprocal influence between sleep and psychiatric vulnerability without reducing treatment to sleep alone.
+- [Sleep-Loss Emotional Reactivity](concepts/SleepLossEmotionalReactivity.md) — Model linking insufficient sleep with stronger threat and reward responses plus weaker prefrontal regulation.
+- [Deep Non-REM Sleep Anxiety Regulation](concepts/DeepNonREMSleepAnxietyRegulation.md) — Stage-specific account connecting deep-sleep electrical quality with overnight anxiety reduction and frontal re-engagement.
+- [Sleep Disruption as a Suicide-Risk Signal](concepts/SleepDisruptionSuicideRiskSignal.md) — Qualified warning-signal framework for sleep disruption, nightmares, late-night risk, and urgent clinical escalation.
 - [Habsburg Marriage Diplomacy](concepts/HabsburgMarriageDiplomacy.md) — Dynastic use of marriage for alliance and inheritance, qualified by personal constraint, genetic risk, and succession failure.
 - [Imperial Subsidiarity](concepts/ImperialSubsidiarity.md) — Qualified Habsburg ideal of common rule with meaningful lower-level law, language, identity, and institutions.
 - [Vascular Surgery Symptom Routing / 血管外科症状分诊](concepts/VascularSurgerySymptomRouting.md) — Head-to-foot routing frame for vascular causes that can first resemble neurologic, orthopedic, respiratory, abdominal, pelvic, or urinary disease.

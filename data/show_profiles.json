@@ -478,14 +478,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-24",
       "latest_episode_file": "SCIM8443296592 [SCIM8443296592].md",
-      "source_note_count": 114,
-      "topic_matched_source_note_count": 67,
+      "source_note_count": 115,
+      "topic_matched_source_note_count": 68,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 64
+          "source_note_count": 65
         },
         {
           "key": "culture",
@@ -550,17 +550,17 @@
           "episode_count": 2
         },
         {
-          "key": "PeterAttia",
-          "title": "Peter Attia",
-          "url": "/wiki/entities/peterattia/",
+          "key": "MatthewWalker",
+          "title": "Matthew Walker",
+          "url": "/wiki/entities/matthewwalker/",
           "kind": "person",
           "episode_count": 2
         },
         {
-          "key": "UniversityOfCaliforniaSanFrancisco",
-          "title": "University of California San Francisco",
-          "url": "/wiki/entities/universityofcaliforniasanfrancisco/",
-          "kind": "organization",
+          "key": "PeterAttia",
+          "title": "Peter Attia",
+          "url": "/wiki/entities/peterattia/",
+          "kind": "person",
           "episode_count": 2
         }
       ],

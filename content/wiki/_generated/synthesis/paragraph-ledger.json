@@ -3,7 +3,8 @@
     "assigned_paragraph_ids": [
       "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
       "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
-      "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
+      "cdaa9cc6b5619c693f521fdc94d87d2890c8f6a069ae6b8694fb2987cb0cff78",
+      "f262d8249a6c2a7b3e5d53b758fbc2f7fa4a7357c8af723644a9b9cd7bb30992",
       "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
       "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
       "1729088f961a00bc2af68fa44edab26e5981527d21f25b1394499ae9a7f5a2e2",
@@ -713,10 +714,10 @@
       "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c"
     ],
-    "paragraph_count": 711
+    "paragraph_count": 712
   },
-  "overview_commit": "2a85438d8a6946e7650c1859105e52c9585fa3d7",
-  "overview_digest": "1b3538e84839af8c2603bfb805ee733f22c0b64090f1b14374571cdc80289d84",
+  "overview_commit": "12170dae36f2d610c44e8f45c0aea421e34d65e3",
+  "overview_digest": "db6782542be89acb9e381f70eef31c7c368fa0d60b4e2e198dc8fa74f986d259",
   "paragraphs": [
     {
       "id": "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
@@ -765,10 +766,32 @@
       ]
     },
     {
-      "id": "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
+      "id": "cdaa9cc6b5619c693f521fdc94d87d2890c8f6a069ae6b8694fb2987cb0cff78",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The newest sleep-and-mental-health source, [[guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288|GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation]], has [[AndrewHuberman]] and [[MatthewWalker]] connect [[SleepMentalHealthBidirectionality]] and [[SleepLossEmotionalReactivity]] with [[REMEmotionalMemorySeparation]], [[DeepNonREMSleepAnxietyRegulation]], and [[SleepDisruptionSuicideRiskSignal]]. Its core health synthesis is that sleep is not one undifferentiated psychiatric lever: acute sleep loss can weaken prefrontal regulation of threat and reward, REM may help reduce emotional charge while preserving memory content, and deep non-REM quality may predict anxiety reduction. Quantity, quality, regularity, timing, chronotype, and day-night light contrast all matter, while alcohol and THC can disrupt stage architecture. No settled contradiction is recorded; mixed prazosin replication, temporary and inconsistent sleep-deprivation antidepressant effects, and source-scoped risk ratios prevent these claims from becoming medication, depression, PTSD, addiction, or suicide-care protocols.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "DeepNonREMSleepAnxietyRegulation",
+        "MatthewWalker",
+        "REMEmotionalMemorySeparation",
+        "SleepDisruptionSuicideRiskSignal",
+        "SleepLossEmotionalReactivity",
+        "SleepMentalHealthBidirectionality",
+        "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288"
+      ]
+    },
+    {
+      "id": "f262d8249a6c2a7b3e5d53b758fbc2f7fa4a7357c8af723644a9b9cd7bb30992",
       "primary_topic": "science-health-and-climate",
       "secondary_topics": [],
-      "text": "The newest sleep-and-dream source, [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming]], has [[AndrewHuberman]] and [[MatthewWalker]] connect [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], and [[REMEmotionalMemorySeparation]] with [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], and [[LucidDreamingEvidenceBoundary]]. Its core health synthesis is that vivid REM dreams arise from an active, emotional, associative, and weakly executive brain state; dreams carry concerns and significant people more reliably than literal replay; nightmare rescripting and learned sleep cues may update distressing memories; and lucid awareness is experimentally verifiable even though control, induction, restoration, and benefit remain unsettled. [[SleepAnxietyLoop]] is extended through clock-checking and effortful attempts to force sleep, while regularity and behavioral foundations remain upstream of supplement or medication claims. No settled contradiction is recorded; older animal deprivation, dream-decoding, treatment response, cueing, replay-speed, lucid-dreaming, supplement, medication, and menopause claims remain source-scoped public education rather than individualized care.",
+      "text": "The related sleep-and-dream source, [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming]], has [[AndrewHuberman]] and [[MatthewWalker]] connect [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], and [[REMEmotionalMemorySeparation]] with [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], and [[LucidDreamingEvidenceBoundary]]. Its core health synthesis is that vivid REM dreams arise from an active, emotional, associative, and weakly executive brain state; dreams carry concerns and significant people more reliably than literal replay; nightmare rescripting and learned sleep cues may update distressing memories; and lucid awareness is experimentally verifiable even though control, induction, restoration, and benefit remain unsettled. [[SleepAnxietyLoop]] is extended through clock-checking and effortful attempts to force sleep, while regularity and behavioral foundations remain upstream of supplement or medication claims. No settled contradiction is recorded; older animal deprivation, dream-decoding, treatment response, cueing, replay-speed, lucid-dreaming, supplement, medication, and menopause claims remain source-scoped public education rather than individualized care.",
       "topic_scores": {
         "governance-and-institutions": 1,
         "science-health-and-climate": 3,

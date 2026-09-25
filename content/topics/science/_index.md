@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1202
+topic_total_pages: 1204
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -457,6 +457,9 @@ topic_concepts:
   - key: "DeepCanvassing"
     title: "Deep Canvassing / 深度说服"
     url: "/wiki/concepts/deepcanvassing/"
+  - key: "DeepNonREMSleepAnxietyRegulation"
+    title: "Deep Non-REM Sleep Anxiety Regulation"
+    url: "/wiki/concepts/deepnonremsleepanxietyregulation/"
   - key: "DefaultModeNetwork"
     title: "Default Mode Network"
     url: "/wiki/concepts/defaultmodenetwork/"
@@ -3387,6 +3390,9 @@ topic_sources:
   - key: "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128"
     title: "Gig workers train humanoids on household chores"
     url: "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+  - key: "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288"
+    title: "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation"
+    url: "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
   - key: "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951"
     title: "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming"
     url: "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"

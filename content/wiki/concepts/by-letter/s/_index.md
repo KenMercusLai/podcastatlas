@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8151
+wiki_total_pages: 8155
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -875,6 +875,9 @@ wiki_pages:
   - key: "SleepAsResistance"
     title: "Sleep As Resistance / 睡眠作为抵抗"
     url: "/wiki/concepts/sleepasresistance/"
+  - key: "SleepDisruptionSuicideRiskSignal"
+    title: "Sleep Disruption as a Suicide-Risk Signal"
+    url: "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
   - key: "SleepDurationUShape"
     title: "Sleep Duration U-Shape"
     url: "/wiki/concepts/sleepdurationushape/"
@@ -893,6 +896,12 @@ wiki_pages:
   - key: "SleepTemperatureToolkit"
     title: "Sleep Temperature Toolkit"
     url: "/wiki/concepts/sleeptemperaturetoolkit/"
+  - key: "SleepLossEmotionalReactivity"
+    title: "Sleep-Loss Emotional Reactivity"
+    url: "/wiki/concepts/sleeplossemotionalreactivity/"
+  - key: "SleepMentalHealthBidirectionality"
+    title: "Sleep-Mental Health Bidirectionality"
+    url: "/wiki/concepts/sleepmentalhealthbidirectionality/"
   - key: "SleepWakeTimingToolkit"
     title: "Sleep-Wake Timing Toolkit"
     url: "/wiki/concepts/sleepwaketimingtoolkit/"

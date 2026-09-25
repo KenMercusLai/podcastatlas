@@ -18295,6 +18295,10 @@
     "title": "DeepMind Acquisition Choice",
     "url": "/wiki/concepts/deepmindacquisitionchoice/"
   },
+  "DeepNonREMSleepAnxietyRegulation": {
+    "title": "Deep Non-REM Sleep Anxiety Regulation",
+    "url": "/wiki/concepts/deepnonremsleepanxietyregulation/"
+  },
   "DeepReportingEmotionalLabor": {
     "title": "Deep Reporting Emotional Labor / 深度报道情感劳动",
     "url": "/wiki/concepts/deepreportingemotionallabor/"
@@ -61179,6 +61183,10 @@
     "title": "Sleep As Resistance / 睡眠作为抵抗",
     "url": "/wiki/concepts/sleepasresistance/"
   },
+  "SleepDisruptionSuicideRiskSignal": {
+    "title": "Sleep Disruption as a Suicide-Risk Signal",
+    "url": "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
+  },
   "SleepDurationUShape": {
     "title": "Sleep Duration U-Shape",
     "url": "/wiki/concepts/sleepdurationushape/"
@@ -61186,6 +61194,14 @@
   "SleepImmuneRepair": {
     "title": "Sleep Immune Repair",
     "url": "/wiki/concepts/sleepimmunerepair/"
+  },
+  "SleepLossEmotionalReactivity": {
+    "title": "Sleep-Loss Emotional Reactivity",
+    "url": "/wiki/concepts/sleeplossemotionalreactivity/"
+  },
+  "SleepMentalHealthBidirectionality": {
+    "title": "Sleep-Mental Health Bidirectionality",
+    "url": "/wiki/concepts/sleepmentalhealthbidirectionality/"
   },
   "SleepSpindleSchemaFormation": {
     "title": "Sleep Spindle Schema Formation",
@@ -79570,6 +79586,10 @@
   "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5": {
     "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",
     "url": "/wiki/sources/guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5/"
+  },
+  "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288": {
+    "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+    "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
   },
   "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951": {
     "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",

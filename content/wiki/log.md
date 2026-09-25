@@ -22515,6 +22515,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-25] ingest | 448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)
 
 Added source `448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648`; created `PlainsSocietyHistoricalDynamism` and `ColonialSourceMediation`; and updated `CrazyHorse`, `SittingBull`, `LakotaPeople`, and `RedCloud` from their complete bounded source sets. Core synthesis: Plains life was historically reshaped by horses, firearms, trade, disease, migration, ecology, alliance, and conquest, while treaty failure, settler infrastructure, bison destruction, and U.S. demographic power made the wider conflict profoundly unequal; Crazy Horse's warrior formation, visions, ritual identity, and tactical reputation remain meaningful but heavily mediated. No settled contradiction found. Population, epidemic, territorial, treaty, gender, biographical, visionary, performance, and quotation claims remain source-scoped. The canonical `wiki/overview.md` was updated during the normal ingest; the downstream synthesis-refresh workflow only read it.
@@ -22562,6 +22563,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation
+
+Added source `guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288`; created `SleepMentalHealthBidirectionality`, `SleepLossEmotionalReactivity`, `DeepNonREMSleepAnxietyRegulation`, and `SleepDisruptionSuicideRiskSignal`; and updated `MatthewWalker`, `REMEmotionalMemorySeparation`, and `SubstanceSleepArchitectureBoundary` from their complete bounded source sets. Core synthesis: sleep and mental health interact bidirectionally through distinct acute, REM, deep non-REM, circadian, and substance-sensitive mechanisms, while sleep disruption and nightmares can function only as qualified risk signals rather than deterministic predictions. No settled contradiction found. Prazosin replication is mixed, sleep-deprivation antidepressant effects are temporary and inconsistent, and the amygdala, anxiety, relapse, PTSD, suicide-risk, chronotype, light, and substance claims remain source-scoped public education rather than individualized psychiatric care. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis-refresh workflow only reads it.
 
 ## [2026-09-25] lint | Wiki health check
 

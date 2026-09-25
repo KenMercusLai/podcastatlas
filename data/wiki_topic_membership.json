@@ -21964,6 +21964,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DeepNonREMSleepAnxietyRegulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "DeepResearch": [
     {
       "key": "technology",
@@ -85809,6 +85816,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951": [

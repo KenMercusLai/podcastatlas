@@ -33115,6 +33115,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/deepbrainstimulationpsychiatry/"
     },
+    "DeepNonREMSleepAnxietyRegulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/deepnonremsleepanxietyregulation/"
+    },
     "DeepTimeMentalProsthesis": {
       "episode_count": 1,
       "show_count": 1,
@@ -91293,9 +91309,9 @@
       "url": "/wiki/entities/matthewhill/"
     },
     "MatthewWalker": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -91303,6 +91319,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
         }
       ],
       "updated": "2026-09-25",
@@ -112801,9 +112824,9 @@
       "url": "/wiki/entities/qwentablet/"
     },
     "REMEmotionalMemorySeparation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -112818,6 +112841,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
         }
       ],
       "updated": "2026-09-25",
@@ -125296,6 +125326,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/sleepasdailyhealthaccount/"
     },
+    "SleepDisruptionSuicideRiskSignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/sleepdisruptionsuiciderisksignal/"
+    },
     "SleepImmuneRepair": {
       "episode_count": 1,
       "show_count": 1,
@@ -125311,6 +125357,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sleepimmunerepair/"
+    },
+    "SleepLossEmotionalReactivity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/sleeplossemotionalreactivity/"
+    },
+    "SleepMentalHealthBidirectionality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/sleepmentalhealthbidirectionality/"
     },
     "SleepSpindleSchemaFormation": {
       "episode_count": 1,
@@ -130152,9 +130230,9 @@
       "url": "/wiki/concepts/subconsciouscreativeincubation/"
     },
     "SubstanceSleepArchitectureBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -130176,6 +130254,13 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "SCIM1989437288 [SCIM1989437288].md",
+          "key": "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
         }
       ],
       "updated": "2026-09-07",

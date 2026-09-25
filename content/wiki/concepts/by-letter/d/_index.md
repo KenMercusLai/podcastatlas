@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8151
+wiki_total_pages: 8155
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "DeepCanvassing"
     title: "Deep Canvassing / 深度说服"
     url: "/wiki/concepts/deepcanvassing/"
+  - key: "DeepNonREMSleepAnxietyRegulation"
+    title: "Deep Non-REM Sleep Anxiety Regulation"
+    url: "/wiki/concepts/deepnonremsleepanxietyregulation/"
   - key: "DeepReportingEmotionalLabor"
     title: "Deep Reporting Emotional Labor / 深度报道情感劳动"
     url: "/wiki/concepts/deepreportingemotionallabor/"

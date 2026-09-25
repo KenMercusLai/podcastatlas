@@ -6,6 +6,7 @@ sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
+  - guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288
 last_updated: 2026-09-07
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ The evidence does not deny that alcohol or THC can make some people fall asleep 
 The Gina Poe source sharpens the alcohol side of the boundary. Alcohol is described as a REM suppressant and as interfering with stage-two transitions toward REM until it has been metabolized. That matters because the same source links stage-two spindles, slow-wave sleep, and REM sleep to memory transfer, creativity, cleanup, and emotional processing. Substance-altered sleep is therefore a cognition and recovery issue, not only a sleep-onset issue.
 
 The 三五环 crossover adds a lay experience version of the same boundary: alcohol may help someone fall asleep yet still degrade sleep quality or trigger two-or-three-a.m. waking. The hosts also use caffeine as a parallel example of a substance that may not prevent bedtime sleep onset while still damaging sleep quality after the person falls asleep.
+
+Walker extends the mental-health stakes. He describes alcohol and THC as potent REM suppressors, chronic-THC cessation as capable of producing REM rebound and vivid dreams, and evening alcohol as fragmenting the deep-sleep-rich first half of the night. This supports an architecture boundary without supplying a withdrawal or addiction-treatment protocol.
 
 ## Key Claims
 - Alcohol and THC may help some people fall asleep or stay asleep in the short term.
@@ -39,14 +42,17 @@ The 三五环 crossover adds a lay experience version of the same boundary: alco
 - Memory and emotion stakes - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] links spindles, slow-wave sleep, and REM sleep to memory transfer, creativity, and emotional-memory processing.
 - Lay sleep-quality boundary - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says alcohol can make sleep onset easier while still worsening sleep quality or leading to early waking.
 - Parallel caffeine example - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says caffeine may not stop a person from falling asleep yet can still affect later sleep quality.
+- REM and rebound - [[guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288]] describes alcohol and THC as REM suppressors and vivid dreams after stopping chronic THC as REM rebound.
+- Deep-sleep fragmentation - [[guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288]] says evening alcohol fragments the first half of the night, when deep non-REM sleep is concentrated.
 
 ## Counterevidence & Qualifications
-The sources do not provide individualized guidance for caffeine dependence, cannabis use, alcohol use disorder, withdrawal, pain, PTSD, anxiety, insomnia, medication interactions, pregnancy, or psychiatric conditions. They also do not quantify dose-response effects, compare all cannabinoid preparations, or establish that every person has the same REM disruption. Substance dependence, withdrawal risk, or persistent insomnia requires qualified care.
+The sources do not provide individualized guidance for caffeine dependence, cannabis use, alcohol use disorder, withdrawal, pain, PTSD, anxiety, insomnia, medication interactions, pregnancy, or psychiatric conditions. They also do not quantify dose-response effects, compare all cannabinoid preparations, or establish that every person has the same REM or deep-sleep disruption. REM rebound should not be used to guide unsupervised withdrawal. Substance dependence, withdrawal risk, or persistent insomnia requires qualified care.
 
 ## What Changed
 - Added Gina Poe's REM-suppression and stage-transition explanation to the existing sedation-versus-architecture boundary.
 - Clarified why substance-altered sleep can matter for memory, creativity, emotional processing, and next-day recovery.
 - Added the 三五环 crossover's practical alcohol and caffeine examples of sleep onset diverging from sleep quality.
+- Added REM rebound and early-night deep-sleep fragmentation while preserving withdrawal-care boundaries.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent sleep timing toolkit.
@@ -58,3 +64,4 @@ The sources do not provide individualized guidance for caffeine dependence, cann
 - [[MedicalRiskManagement]] - clinical-risk boundary for substance, medication, and sleep problems.
 - [[SleepAnxietyLoop]] - neighboring failure mode where sleep worry can drive counterproductive interventions.
 - [[CaffeineAdenosineSleepTiming]] - adjacent stimulant-timing branch.
+- [[DeepNonREMSleepAnxietyRegulation]] - deep-sleep branch that alcohol may disrupt.
