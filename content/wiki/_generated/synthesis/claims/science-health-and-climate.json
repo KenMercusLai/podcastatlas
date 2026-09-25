@@ -1467,9 +1467,29 @@
         "MetabolicHealthBiomarkerContext",
         "ContinuousGlucoseMonitoring"
       ]
+    },
+    {
+      "global_candidate": true,
+      "id": "vascular-care-needs-cross-specialty-routing-and-indication-boundaries",
+      "qualifications": [
+        "The episode is broad public vascular-surgery education, not a validated symptom score, complete differential diagnosis, current guideline, or individualized emergency, imaging, medication, or procedural plan.",
+        "Department ownership, imaging order, clot timing, procedure thresholds, and treatment choices vary with anatomy, urgency, institution, and patient context.",
+        "Symptoms such as dizziness, chest or abdominal pain, swelling, weakness, breathlessness, hematuria, and proteinuria have many nonvascular causes."
+      ],
+      "statement": "[[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb|VOL.111]] adds a vascular-health literacy branch: [[VascularSurgerySymptomRouting]] keeps arterial, venous, aortic, visceral, and lymphatic causes visible across ordinary specialty boundaries; [[VascularImagingTreatmentEscalation]] separates ultrasound, contrast CT, angiography, medication, open surgery, and endovascular care by question and indication; and [[VascularHealthMarketingBoundary]], [[VenousThromboembolismTriage]], [[FishOilNaturalStatinBoundary]], and [[AtherosclerosisPreventionTargets]] keep emergency escalation, risk-factor control, and qualified treatment ahead of vessel-softening product claims.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+        "VascularSurgerySymptomRouting",
+        "VascularImagingTreatmentEscalation",
+        "VascularHealthMarketingBoundary",
+        "VenousThromboembolismTriage",
+        "FishOilNaturalStatinBoundary",
+        "AtherosclerosisPreventionTargets"
+      ]
     }
   ],
-  "input_digest": "e6161fa9174cc1729deec86c66bfbcf09179c87f27351ebebf3f7501df3a90ae",
+  "input_digest": "2b3d0b7b142e6a9652f937dc10fc2d79c4ca3ada12da5f7fd15ec5e2a4077a37",
   "summary": "Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation and infrastructure, and science governance; across these branches, interventions and interpretations remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The metabolic-health addition sharpens this pattern by separating energy supply from mitochondrial processing capacity and treating movement, eating timing, biomarkers, and glucose curves as contextual feedback rather than universal prescriptions or perfect scores.",
   "topic_id": "science-health-and-climate"
 }

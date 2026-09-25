@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗](sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb.md) — 这病说来话长 episode on vascular-surgery symptom routing, imaging and treatment escalation, thrombosis, atherosclerosis, and misleading vessel-softening health products.
 - [446. Custer vs. Crazy Horse: Civil War (Part 1)](sources/446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244.md) — The Rest Is History episode on Custer's youth, political contradictions, Civil War rise, theatrical command, military celebrity, and the strengths that may have prepared later overreach.
 - [Transform Your Health by Improving Metabolism, Hormone & Blood Sugar Regulation | Dr. Casey Means](sources/transform-your-health-by-improving-metabolism-hormone-blood-sugar-regulation-dr-casey-means-scim3664199211.md) — Huberman Lab interview on mitochondrial metabolic capacity, distributed movement, food quality, circadian eating, biomarker context, CGM feedback, and medical boundaries.
 - [447. Custer vs. Crazy Horse: The Winning of the West (Part 2)](sources/447-custer-vs-crazy-horse-the-winning-of-the-west-part-2-glt1593887977.md) — The Rest Is History episode on Custer's postwar failures and recovery, Cheyenne resistance, punitive village warfare, and the Washita massacre.
@@ -13635,6 +13636,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Vascular Surgery Symptom Routing / 血管外科症状分诊](concepts/VascularSurgerySymptomRouting.md) — Head-to-foot routing frame for vascular causes that can first resemble neurologic, orthopedic, respiratory, abdominal, pelvic, or urinary disease.
+- [Vascular Imaging and Treatment Escalation / 血管影像与治疗升级](concepts/VascularImagingTreatmentEscalation.md) — Staged relationship among ultrasound, contrast CT, angiography, conservative care, open surgery, and endovascular treatment.
+- [Vascular Health Marketing Boundary / 血管健康营销边界](concepts/VascularHealthMarketingBoundary.md) — Boundary against foods, alcohol, supplements, and creams marketed as ways to clean, soften, or reverse blood-vessel disease.
 - [Metabolic Capacity Model](concepts/MetabolicCapacityModel.md) — Capacity-versus-substrate model joining mitochondrial quality, energy processing, insulin resistance, inflammation, and disease-specific boundaries.
 - [Muscle Contraction Glucose Disposal](concepts/MuscleContractionGlucoseDisposal.md) — Principle linking frequent skeletal-muscle contraction, post-meal movement, and structured exercise to glucose use.
 - [Circadian Eating-Window Alignment](concepts/CircadianEatingWindowAlignment.md) — Contextual proposal that daytime eating and an overnight break may better align food intake with daily glucose and insulin rhythms.

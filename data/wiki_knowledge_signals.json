@@ -10837,9 +10837,9 @@
       "url": "/wiki/entities/athens/"
     },
     "AtherosclerosisPreventionTargets": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5907126956 [SCIM5907126956].md",
@@ -10847,9 +10847,16 @@
           "show": "Huberman Lab",
           "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
           "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        },
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/atherosclerosispreventiontargets/"
     },
     "AthletePostRetirementIdentity": {
@@ -47312,9 +47319,9 @@
       "url": "/wiki/entities/fengyaneasternhan/"
     },
     "FengYanfeiVascularSurgery": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
@@ -47336,9 +47343,16 @@
           "show": "这病说来话长",
           "title": "VOL.128和7位医生的聊天局 讲述了12位患者的真实故事｜医师节",
           "url": "/wiki/sources/vol-128-he-7-wei-yisheng-de-liaotianju-jiangshu-le-12-wei-huanzhe-de-zhenshi-gushi-yishijie-litblbacavb9homqxo81g71oujyz/"
+        },
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/fengyanfeivascularsurgery/"
     },
     "FengYewangWesternHan": {
@@ -48364,9 +48378,9 @@
       "url": "/wiki/concepts/fiscalextractionrebellionspiral/"
     },
     "FishOilNaturalStatinBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljLwQq2yHTCsa4r3NvNzaA6P5I9O [ljLwQq2yHTCsa4r3NvNzaA6P5I9O].md",
@@ -48374,9 +48388,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/fishoilnaturalstatinboundary/"
     },
     "FitnessAssessmentTestingWeek": {
@@ -139976,6 +139997,54 @@
       "updated": "2026-09-23",
       "url": "/wiki/concepts/varicellazosterlatencyreactivation/"
     },
+    "VascularHealthMarketingBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/vascularhealthmarketingboundary/"
+    },
+    "VascularImagingTreatmentEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/vascularimagingtreatmentescalation/"
+    },
+    "VascularSurgerySymptomRouting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/vascularsurgerysymptomrouting/"
+    },
     "VasilyGolitsyn": {
       "episode_count": 1,
       "show_count": 1,
@@ -140129,9 +140198,9 @@
       "url": "/wiki/entities/venezuela/"
     },
     "VenousThromboembolismTriage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
@@ -140139,9 +140208,16 @@
           "show": "这病说来话长",
           "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
           "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        },
+        {
+          "episode_file": "ls8ocpPuXuF_oxWS1TCIodUomZMB [ls8ocpPuXuF_oxWS1TCIodUomZMB].md",
+          "key": "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb",
+          "show": "这病说来话长",
+          "title": "VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗",
+          "url": "/wiki/sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/venousthromboembolismtriage/"
     },
     "VentromedialHypothalamus": {

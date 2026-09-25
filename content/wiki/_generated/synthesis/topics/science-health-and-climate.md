@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-25
-as_of_overview_commit: cc032f9a41b9a48ae4299726b8cb95493ea474c5
-input_digest: e6161fa9174cc1729deec86c66bfbcf09179c87f27351ebebf3f7501df3a90ae
+as_of_overview_commit: 6c0b12f7c313ff3395e99923748907bcee2bcf4a
+input_digest: 2b3d0b7b142e6a9652f937dc10fc2d79c4ca3ada12da5f7fd15ec5e2a4077a37
 ---
 
 # Science, Health, and Climate
@@ -774,3 +774,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The episode is public metabolic-health education, not individualized diabetes, cardiovascular, endocrine, nutrition, exercise, fasting, temperature-exposure, or medication guidance.
 - The shared-root disease account is an integrating hypothesis rather than proof that mitochondrial dysfunction is the sole cause of every named condition, and endogenous food-linked GLP-1 is not pharmacologically equivalent to a long-acting agonist.
 - Prevalence estimates, thresholds, mortality associations, mechanism assignments, food-compound effects, fasting windows, temperature claims, nature-exposure figures, and glucose-curve interpretations remain source-scoped because complete methods and personal clinical context are absent.
+
+### Vascular Care Needs Cross Specialty Routing And Indication Boundaries
+
+[[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb|VOL.111]] adds a vascular-health literacy branch: [[VascularSurgerySymptomRouting]] keeps arterial, venous, aortic, visceral, and lymphatic causes visible across ordinary specialty boundaries; [[VascularImagingTreatmentEscalation]] separates ultrasound, contrast CT, angiography, medication, open surgery, and endovascular care by question and indication; and [[VascularHealthMarketingBoundary]], [[VenousThromboembolismTriage]], [[FishOilNaturalStatinBoundary]], and [[AtherosclerosisPreventionTargets]] keep emergency escalation, risk-factor control, and qualified treatment ahead of vessel-softening product claims.
+
+**Evidence:** [[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb]], [[VascularSurgerySymptomRouting]], [[VascularImagingTreatmentEscalation]], [[VascularHealthMarketingBoundary]], [[VenousThromboembolismTriage]], [[FishOilNaturalStatinBoundary]], [[AtherosclerosisPreventionTargets]]
+
+**Qualifications:**
+
+- The episode is broad public vascular-surgery education, not a validated symptom score, complete differential diagnosis, current guideline, or individualized emergency, imaging, medication, or procedural plan.
+- Department ownership, imaging order, clot timing, procedure thresholds, and treatment choices vary with anatomy, urgency, institution, and patient context.
+- Symptoms such as dizziness, chest or abdominal pain, swelling, weakness, breathlessness, hematuria, and proteinuria have many nonvascular causes.

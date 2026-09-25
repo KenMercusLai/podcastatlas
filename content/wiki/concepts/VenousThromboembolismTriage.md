@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, emergency-response, vascular-surgery, thrombosis]
 sources:
   - vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan
-last_updated: 2026-09-13
+  - vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb
+last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ The VOL.204 source makes triage practical by asking what the leg looks and feels
 
 The distinctive contribution is transport logic. If thrombosis is genuinely suspected, the episode says the first problem is not which outpatient department to register for but how to get to care without provoking embolization risk: avoid self-walking where possible, use a wheelchair or stretcher, and let emergency workflows assess pulmonary embolism danger.
 
+VOL.111 adds the wider clinical frame. Leg swelling can reflect thrombosis, venous narrowing or compression, reflux, varicose veins, or lymphatic obstruction, while breathlessness can signal pulmonary embolism among other causes. It also distinguishes acute, less organized clot from older clot and connects treatment choice to timing and mechanism, without turning those descriptions into a home rule for judging clot stability.
+
 ## Key Claims
 - Sudden unilateral leg swelling is more concerning for thrombosis than symmetric dependent swelling that improves after rest.
 - Continuous swelling below a level, rather than patchy local swelling, is a more suspicious pattern.
@@ -25,17 +28,19 @@ The distinctive contribution is transport logic. If thrombosis is genuinely susp
 - Newer, larger, or more central thrombi carry more dangerous embolic implications than small distal thrombi after the provoking factor is gone.
 - Suspected high-risk thrombosis should be routed to emergency evaluation with reduced walking and reduced leg manipulation.
 - Massage, forceful movement, or casual post-travel recovery behavior is acceptable only when thrombosis is not suspected.
+- Leg swelling remains a differential-diagnosis problem because venous obstruction, reflux, varicose veins, lymphatic disease, and systemic causes can overlap thrombosis.
 
 ## Evidence
 - Symptom pattern: [[vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan]] emphasizes unilateral swelling, continuous swelling, pain, and calf hardness as warning features.
 - Thrombus location and age: [[vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan]] distinguishes below-knee smaller thrombi and resolved triggers from large central thrombi extending toward the thigh, pelvis, or abdomen.
 - Emergency routing: [[vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan]] recommends wheelchair or stretcher transport and emergency-room assessment when thrombosis is likely.
+- Wider vascular differential: [[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb]] places thrombosis beside venous compression, reflux, varicose veins, and lymphatic obstruction and links embolization to pulmonary emergency.
 
 ## Counterevidence & Qualifications
-The concept is not a diagnostic rule. Bilateral swelling, pitting edema, posture-related swelling, venous reflux, heart, kidney, liver, medication, lymphatic, injury, infection, and other causes may overlap; emergency or vascular clinicians must make the diagnosis.
+The concept is not a diagnostic rule. Bilateral swelling, pitting edema, posture-related swelling, venous reflux or obstruction, heart, kidney, liver, medication, lymphatic, injury, infection, and other causes may overlap; emergency or vascular clinicians must make the diagnosis. The episode's seven-day and two-week descriptions of clot behavior are source-scoped simplifications, not safe waiting periods or transport rules.
 
 ## What Changed
-- VOL.204 creates a venous-thromboembolism triage concept that connects symptom pattern, thrombus location, embolism risk, transport method, and emergency routing.
+- Added a wider leg-swelling differential and qualified the source's clot-age descriptions against home interpretation.
 
 ## Related Concepts
 - [[EconomyClassSyndromeTravelThrombosis]] - travel immobility scenario that can trigger triage.
@@ -43,3 +48,5 @@ The concept is not a diagnostic rule. Bilateral swelling, pitting edema, posture
 - [[FirstAidTriageAndEscalation]] - broader urgent-routing concept.
 - [[MedicalDiagnosticReasoning]] - clinical reasoning needed to differentiate causes.
 - [[DoctorPatientCommunication]] - patient history and symptom description needed for assessment.
+- [[VascularSurgerySymptomRouting]] - broader cross-specialty routing frame containing the thromboembolism branch.
+- [[VascularImagingTreatmentEscalation]] - diagnosis and treatment stage after urgent routing.

@@ -22297,6 +22297,10 @@ Added source `464-modern-british-elections-part-2-glt4046145085`; created `Briti
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-25] ingest | VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗
+
+Added source `vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb`; created `VascularSurgerySymptomRouting`, `VascularImagingTreatmentEscalation`, and `VascularHealthMarketingBoundary`; and updated `FengYanfeiVascularSurgery`, `VenousThromboembolismTriage`, `FishOilNaturalStatinBoundary`, and `AtherosclerosisPreventionTargets` from their complete bounded source sets. Core synthesis: vascular symptoms often cross ordinary specialty boundaries, imaging and treatment escalate by mechanism and severity, and foods, alcohol, retail supplements, or topical products do not replace risk-factor control or indicated care. No settled contradiction found; disease frequencies, department boundaries, clot timing, test hierarchy, procedure indications, and product claims remain source-scoped public education rather than individualized guidance.
+
 ## [2026-09-25] ingest | GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming
 
 Added source `guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951`; created `MatthewWalker`, `DreamFunctionAndMeaning`, `NightmareImageryRehearsalTherapy`, `TargetedMemoryReactivation`, and `LucidDreamingEvidenceBoundary`; and updated `REMEmotionalMemorySeparation`, `SleepStageFunctionalArchitecture`, `SleepAnxietyLoop`, and `SleepSupplementBoundary` from their complete bounded source sets. Core synthesis: vivid REM dreams arise from a distinctive active, emotional, associative, and weakly executive brain state; dream content carries concerns more reliably than literal replay; nightmare rescripting and learned sleep cues may update distressing memories; and lucid awareness is experimentally verifiable even though control, induction, restoration, and benefit remain unsettled. No settled contradiction found. Animal deprivation, dream-decoding, treatment response, cueing, lucid-dreaming, supplement, medication, and menopause claims remain source-scoped public education rather than individualized care. The canonical `wiki/overview.md` was updated during ingest; the downstream synthesis-refresh workflow only reads it.
@@ -22546,6 +22550,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 446. Custer vs. Crazy Horse: Civil War (Part 1)
 
 Added source `446-custer-vs-crazy-horse-civil-war-part-1-glt9088781244`; updated `GeorgeArmstrongCuster`, `PhilipSheridan`, `HeroicLastStandMyth`, and `ChivalricRomanceWarMemory` from their complete bounded source sets. Core synthesis: Custer's Civil War boldness, theatrical visibility, and celebrity rested on genuine cavalry success but also reinforced habits that became dangerous under different conditions; the later Little Bighorn outcome is not treated as predetermined. No settled contradiction found; political inconsistency, repeated disciplinary reprieve, and the relationship between wartime success and later catastrophe remain explicit and source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis found no dirty topics and the global compaction gate was not due.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

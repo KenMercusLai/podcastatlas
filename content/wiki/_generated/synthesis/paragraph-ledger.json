@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
       "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
       "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
       "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
@@ -712,11 +713,34 @@
       "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c"
     ],
-    "paragraph_count": 710
+    "paragraph_count": 711
   },
-  "overview_commit": "ceaf576b89c63665f044a49a2eb4b78dcf048f7a",
-  "overview_digest": "a05457d705ff0acc498abca3ec8334839cc14220a091c8ba6ab727b49be8589d",
+  "overview_commit": "6c0b12f7c313ff3395e99923748907bcee2bcf4a",
+  "overview_digest": "79b3fedd182908db267de20314777de16fccc2187fd3d2f0c705e1a67ba2e142",
   "paragraphs": [
+    {
+      "id": "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "science-health-and-climate"
+      ],
+      "text": "The newest vascular-surgery source, [[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb|VOL.111血管外科｜你还在信这些“血管健康”产品吗？]], has [[FengYanfeiVascularSurgery|冯燕飞]] connect [[VascularSurgerySymptomRouting]], [[VascularImagingTreatmentEscalation]], and [[VascularHealthMarketingBoundary]] with [[VenousThromboembolismTriage]], [[FishOilNaturalStatinBoundary]], and [[AtherosclerosisPreventionTargets]]. Its core health synthesis is that vascular disease often crosses ordinary specialty boundaries: transient visual or neurologic symptoms, unequal arm pressures, acute chest or back pain, abdominal or pelvic pain, exertional calf pain, leg swelling, or urinary findings may preserve a vascular pathway, while anatomy, urgency, and local service design determine routing. Ultrasound, contrast CT, angiography, medication, open surgery, and endovascular care answer different questions, and foods, alcohol, retail supplements, or topical products do not replace blood-pressure, glucose, and lipid control, smoking avoidance, movement, or indicated care. No settled contradiction is recorded; disease frequencies, clot timing, test hierarchy, procedure indications, and product-effect claims remain source-scoped public education rather than individualized medical guidance.",
+      "topic_scores": {
+        "business-and-markets": 2,
+        "science-health-and-climate": 2,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AtherosclerosisPreventionTargets",
+        "FengYanfeiVascularSurgery",
+        "FishOilNaturalStatinBoundary",
+        "VascularHealthMarketingBoundary",
+        "VascularImagingTreatmentEscalation",
+        "VascularSurgerySymptomRouting",
+        "VenousThromboembolismTriage",
+        "vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb"
+      ]
+    },
     {
       "id": "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
       "primary_topic": "work-education-and-society",

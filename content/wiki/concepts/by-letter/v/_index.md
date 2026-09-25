@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 8146
+wiki_total_pages: 8149
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -50,6 +50,15 @@ wiki_pages:
   - key: "VaricellaZosterLatencyReactivation"
     title: "Varicella-Zoster Latency and Reactivation / 水痘-带状疱疹病毒潜伏与再激活"
     url: "/wiki/concepts/varicellazosterlatencyreactivation/"
+  - key: "VascularHealthMarketingBoundary"
+    title: "Vascular Health Marketing Boundary / 血管健康营销边界"
+    url: "/wiki/concepts/vascularhealthmarketingboundary/"
+  - key: "VascularImagingTreatmentEscalation"
+    title: "Vascular Imaging and Treatment Escalation / 血管影像与治疗升级"
+    url: "/wiki/concepts/vascularimagingtreatmentescalation/"
+  - key: "VascularSurgerySymptomRouting"
+    title: "Vascular Surgery Symptom Routing / 血管外科症状分诊"
+    url: "/wiki/concepts/vascularsurgerysymptomrouting/"
   - key: "VectorModelEngineering"
     title: "Vector Model Engineering"
     url: "/wiki/concepts/vectormodelengineering/"

@@ -4,8 +4,8 @@ generated: true
 topic_id: business-and-markets
 title: "Business and Markets"
 last_updated: 2026-09-25
-as_of_overview_commit: 462d667dd15eb340d355dde9f41c710c8be62164
-input_digest: c4a79e783160e041c104c11fe576eb2614fb463be7ab53e0fa630164c7ef872b
+as_of_overview_commit: 6c0b12f7c313ff3395e99923748907bcee2bcf4a
+input_digest: 58db0ddaf7183606ef3f5cf50d917b5abee8464b0d276aed826b3e219f75a63b
 ---
 
 # Business and Markets
@@ -1223,3 +1223,15 @@ The supplement case shows category awareness being created outside official chan
 - The insurance material comes from a sponsored 2024 segment and does not independently verify product fit, age bands, waiting periods, budget ratios, company scale, pricing, or service outcomes.
 - Eligibility, exclusions, public coverage, household cash flow, jurisdiction, and changing health or family responsibilities can alter the appropriate mix.
 - Broker comparison and claims assistance do not guarantee underwriting, renewal, claim acceptance, or favorable settlement.
+
+### Vascular Health Products Need Category Delivery And Treatment Proof
+
+[[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb|VOL.111]] adds a health-product market boundary: [[VascularHealthMarketingBoundary]] says fish oil, creams, alcohol, vinegar, onions, and wood ear need product-category, delivery-route, and treatment-effect proof before they can support vessel-softening or vessel-cleaning claims, while [[FishOilNaturalStatinBoundary]] and [[AtherosclerosisPreventionTargets]] keep retail supplements distinct from prescription indications and ordinary vascular-risk control.
+
+**Evidence:** [[vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb]], [[VascularHealthMarketingBoundary]], [[FishOilNaturalStatinBoundary]], [[AtherosclerosisPreventionTargets]]
+
+**Qualifications:**
+
+- The episode is public vascular-health education rather than a systematic product, nutrition, alcohol, pharmacology, or clinical-guideline review.
+- Ordinary foods can contribute to overall nutrition and prescription omega-3 products can have valid indications; the boundary is against transferring evidence across product categories or promising literal vessel cleaning or softening.
+- Product efficacy, dose, purity, adverse effects, and individual cardiovascular risk remain source-scoped or require qualified clinical assessment.
