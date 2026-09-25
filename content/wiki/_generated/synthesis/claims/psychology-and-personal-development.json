@@ -283,9 +283,10 @@
       "id": "mental-health-and-crisis-boundaries-remain-clinical",
       "qualifications": [
         "Bipolar, OCD-like, anxiety, depression, trauma, stress, ADHD, and crisis references remain source-scoped unless a clinical source grounds them.",
-        "The wiki should preserve these distinctions when synthesizing podcast advice."
+        "The wiki should preserve these distinctions when synthesizing podcast advice.",
+        "Dream content can support contextual reflection without becoming a universal symbol code, diagnosis, health omen, or substitute for assessment when distress, daytime impairment, or sleepwalking is present."
       ],
-      "statement": "Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaRecognition]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], and [[EmotionalFlashbackGrounding]] can organize public self-understanding, but diagnosis, treatment, and high-risk care require professional judgment.",
+      "statement": "Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaRecognition]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], and [[EmotionalFlashbackGrounding]] can organize public self-understanding, while [[DreamFunctionAndMeaning]] permits contextual reflection without fixed decoding and [[DreamDistressAndParasomniaEscalation]] uses persistent distress, daytime impairment, or sleepwalking to route qualified assessment; diagnosis, treatment, and high-risk care still require professional judgment.",
       "status": "qualified",
       "supporting_wikilinks": [
         "ComplexTraumaRecognition",
@@ -294,7 +295,12 @@
         "EmotionRegulationToolkit",
         "OmnipotentSelfBlame",
         "EmotionalFlashbackGrounding",
-        "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j"
+        "shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j",
+        "DreamFunctionAndMeaning",
+        "DreamDistressAndParasomniaEscalation",
+        "LucidDreamingEvidenceBoundary",
+        "SleepStageFunctionalArchitecture",
+        "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv"
       ]
     },
     {
@@ -1909,7 +1915,7 @@
       ]
     }
   ],
-  "input_digest": "ae2acdabcd12bf61cf071e5e39ac2211f68d7f2b09f2d14f0afb3ab7f0f2ac95",
+  "input_digest": "68d5c392a4526f3e426d329b7bfdf0176bb1e2120944a825a6a35fcf759574a8",
   "summary": "Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis.",
   "title": "Psychology and Personal Development",
   "topic_id": "psychology-and-personal-development"

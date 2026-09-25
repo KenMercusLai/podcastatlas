@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-26
-as_of_overview_commit: 1ff81a8ffc5c5a7e140afef9fd90363b86a6081b
-input_digest: ec4c8070537e31824716a84a3d2cecb891f2020a8cb11cd384b65cae4f69fa91
+as_of_overview_commit: 87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd
+input_digest: 617822c625d82aa50d29e3dcb1bee596c4c75cf76a873c84c7493703fa8e080b
 ---
 
 # Science, Health, and Climate
@@ -30,15 +30,16 @@ Science, health, and climate sources consistently separate public literacy from 
 
 ### Dream Science Needs Stage Treatment And Evidence Boundaries
 
-[[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|The Walker Huberman Lab sleep-series finale]] adds a dream-science branch: [[DreamFunctionAndMeaning]] and [[SleepStageFunctionalArchitecture]] connect vivid REM dreaming with active visual, motor, memory, and emotion systems plus reduced executive control; [[NightmareImageryRehearsalTherapy]] and [[TargetedMemoryReactivation]] treat distressing memories as potentially updateable under bounded protocols; and [[LucidDreamingEvidenceBoundary]] separates verified awareness from unsettled control, induction, restorative cost, and benefit, while [[SleepAnxietyLoop]] keeps clock-checking and forced sleep inside a behavioral and clinical boundary.
+[[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|The Walker Huberman Lab sleep-series finale]] and [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109]] jointly bound dream science: [[DreamFunctionAndMeaning]] and [[SleepStageFunctionalArchitecture]] connect vivid REM dreaming with active memory, emotion, association, bodily or environmental input, and stage-dependent recall without creating a universal symbol code; [[NightmareImageryRehearsalTherapy]] and [[TargetedMemoryReactivation]] keep treatment inside bounded protocols; [[LucidDreamingEvidenceBoundary]] separates verified awareness from unsettled control; and [[DreamDistressAndParasomniaEscalation]] distinguishes ordinary dream content from persistent distress, daytime impairment, and sleepwalking that warrant assessment.
 
-**Evidence:** [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]], [[AndrewHuberman]], [[MatthewWalker]], [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], [[LucidDreamingEvidenceBoundary]], [[SleepAnxietyLoop]], [[SleepSupplementBoundary]]
+**Evidence:** [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]], [[AndrewHuberman]], [[MatthewWalker]], [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], [[REMEmotionalMemorySeparation]], [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], [[LucidDreamingEvidenceBoundary]], [[SleepAnxietyLoop]], [[SleepSupplementBoundary]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]], [[DreamDistressAndParasomniaEscalation]], [[ZhangDaming]]
 
 **Qualifications:**
 
-- The episode is public sleep and dream education, not individualized sleep-medicine, psychiatric, neurologic, nightmare, menopause, supplement, or medication care.
+- The episodes are public sleep and dream education, not individualized sleep-medicine, psychiatric, neurologic, nightmare, menopause, supplement, or medication care.
 - Older animal deprivation, dream-decoding, replay-speed, treatment-response, cueing, and lucid-dreaming findings remain source-scoped because the supplied summary does not provide complete methods, replication, or durability.
 - Verified lucid awareness does not establish reliable control or benefit, and nightmare rescripting or targeted cueing should not be generalized into unsupervised consumer protocols.
+- VOL.109's Freudian categories, cycle estimate, animal-dream inference, bodily-warning anecdotes, anxiety interpretations, and clinical routing remain source-scoped; dream content alone is not a diagnostic test.
 
 ### Ibd Care Needs Remission Nutrition And Qualified Support
 

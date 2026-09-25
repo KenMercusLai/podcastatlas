@@ -9,6 +9,7 @@ sources:
   - ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235
   - guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951
   - guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704
+  - lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -30,6 +31,8 @@ The 这病说来话长 episode adds a second practical correction. It describes 
 The AMA reinforces the later-night concentration of REM and converts it into a simple duration implication: adding a modest amount of sleep in the morning may protect REM opportunity when wake time is flexible. It also distinguishes REM rebound from guaranteed recovery and treats NSDR as a possible REM-like support rather than a demonstrated substitute. No specific drug is presented as clearly proven to increase REM sleep.
 
 The combined dream-report and REM-physiology layer shows that mental activity can be reported from stage-two and deep non-REM sleep, but vivid narrative dreaming is described as most frequent during REM and especially phasic REM. Waking-like cortical activity, PGO waves, activated visual, motor, memory, and emotional systems, reduced lateral prefrontal control, and muscle atonia help explain why REM dreams can feel vivid, active, emotional, and illogical. Parasomnias such as sleepwalking and sleep eating are instead located in partial arousals from deep non-REM sleep.
+
+VOL.109 reinforces the public-facing correction that remembered dreaming depends partly on the stage from which a person wakes and does not by itself establish poor sleep. It also independently separates sleepwalking from ordinary dreaming and routes the behavior toward specialist assessment. Its simplified claim that most dreams occur during REM is compatible with the stronger combined judgment only when read as a claim about vivid, readily recalled dreaming rather than the absence of all non-REM mentation.
 
 The learning episode adds a functional map without making the stages exclusive. Deep non-REM slow waves plus spindles are linked with fact-memory transfer and replay; stage-two spindles are associated with motor improvement and local task-responsive plasticity; and REM-rich sleep favors remote association and insight. This strengthens the case for preserving a full night while keeping exact stage-to-function assignments probabilistic rather than treating each stage as a single-purpose module.
 
@@ -56,15 +59,15 @@ The learning episode adds a functional map without making the stages exclusive. 
 - Dream-report distribution - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] reports some dream mentation from non-REM sleep but much higher rates during REM and phasic REM.
 - REM brain state - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] links REM experience to cortical activation, PGO waves, visual, motor, memory, and emotional activity, reduced lateral prefrontal control, and atonia.
 - Parasomnia distinction - [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951]] places sleepwalking, sleep talking, and sleep eating in partial deep non-REM arousals rather than ordinary REM dreaming.
+- Dream recall and sleepwalking - [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]] links recall to waking stage, rejects dream quantity as a stand-alone sleep-quality measure, and separates sleepwalking from ordinary dreaming.
 - Learning differentiation - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]] links slow waves and spindles with fact-memory transfer, stage-two spindles with motor gains, and REM-rich sleep with remote association.
 - Local plasticity - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]] describes spindle increases over the motor-cortex region associated with the practiced hand.
 
 ## Counterevidence & Qualifications
-The sources do not provide a clinical staging protocol or individualized treatment plan. Sleep architecture differs with age, illness, medication, shift work, chronotype, caregiving, pregnancy, sleep disorders, alcohol or other substances, and measurement method. Exact cycle counts, stage proportions, learning effect sizes, replay speeds, local spindle interpretation, dream-report percentages, PGO interpretation, tracker estimates, REM rebound, NSDR equivalence, and bed-sensor accuracy claims are source-scoped.
+The sources do not provide a clinical staging protocol or individualized treatment plan. Sleep architecture differs with age, illness, medication, shift work, chronotype, caregiving, pregnancy, sleep disorders, alcohol or other substances, and measurement method. Exact cycle counts, stage proportions, learning effect sizes, replay speeds, local spindle interpretation, dream-report percentages, PGO interpretation, tracker estimates, REM rebound, NSDR equivalence, bed-sensor accuracy, and the VOL.109 two-hour cycle estimate are source-scoped.
 
 ## What Changed
-- Added distinct but overlapping declarative, motor, and associative-learning functions.
-- Added task-responsive local spindle plasticity as a qualified mechanism.
+- Added an independent public-education source on stage-dependent dream recall and the distinction between ordinary dreaming and sleepwalking.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account this concept makes more mechanistic.
@@ -78,3 +81,4 @@ The sources do not provide a clinical staging protocol or individualized treatme
 - [[SleepTemperatureToolkit]] - temperature branch that uses stage timing as a practical input.
 - [[DreamFunctionAndMeaning]] - dream-content and possible-function branch built on this stage architecture.
 - [[LucidDreamingEvidenceBoundary]] - verified awareness branch measured within REM sleep.
+- [[DreamDistressAndParasomniaEscalation]] - functional and clinical boundary for distressing dreams and sleepwalking.

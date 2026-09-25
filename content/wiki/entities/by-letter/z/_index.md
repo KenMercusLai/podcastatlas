@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 10802
+wiki_total_pages: 10803
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "ZhangDageLihun"
     title: "张大哥（《离婚》） / Zhang Dage"
     url: "/wiki/entities/zhangdagelihun/"
+  - key: "ZhangDaming"
+    title: "张大明 / Zhang Daming (Mental-Health Guest)"
+    url: "/wiki/entities/zhangdaming/"
   - key: "ZhangHuanLateHan"
     title: "张奂 / Zhang Huan (late Han)"
     url: "/wiki/entities/zhanghuanlatehan/"

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
       "74eb79386d629d2ca55bec49eed92a6123caf5236fcdfe42b2f7bbd0f76071f7",
       "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
       "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
@@ -720,11 +721,35 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 718
+    "paragraph_count": 719
   },
-  "overview_commit": "8981a3bf207a6f9134291f46d64e36307b11efd6",
-  "overview_digest": "7be81284fb77350b53d5bccaa9126df3be1cf7f8ea46a9e56e35886f50b0157f",
+  "overview_commit": "87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd",
+  "overview_digest": "e73338f8e6827968f6ec4e3c9da2ad7c7e9b950d84a546f9c209859251c015ec",
   "paragraphs": [
+    {
+      "id": "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest dream-and-sleep addition is [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109精神心理科｜你还记得昨晚的梦吗？]], a [[ZheBingShuoLaiHuaChang|这病说来话长]] episode with [[ZhangDaming|张大明]] on dream meaning, sleep stages, recall, bodily and emotional context, and clinical escalation. It adds [[DreamDistressAndParasomniaEscalation]] while extending [[DreamFunctionAndMeaning]], [[LucidDreamingEvidenceBoundary]], [[SleepStageFunctionalArchitecture]], and [[SigmundFreud]]. Its core synthesis is that dream content can reflect memory, emotion, wishes, bodily sensation, external input, or creativity without becoming prophecy, diagnosis, or a universal symbol code; dream frequency alone does not establish poor sleep, while persistent distress or daytime impairment and sleepwalking justify qualified assessment through distinct pathways. No settled contradiction is recorded; Freudian categories, cycle timing, animal-dream inference, bodily-warning anecdotes, anxiety interpretations, lucid-control claims, and clinical routing remain source-scoped public education rather than individualized care.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "DreamDistressAndParasomniaEscalation",
+        "DreamFunctionAndMeaning",
+        "LucidDreamingEvidenceBoundary",
+        "SigmundFreud",
+        "SleepStageFunctionalArchitecture",
+        "ZhangDaming",
+        "ZheBingShuoLaiHuaChang",
+        "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv"
+      ]
+    },
     {
       "id": "74eb79386d629d2ca55bec49eed92a6123caf5236fcdfe42b2f7bbd0f76071f7",
       "primary_topic": "governance-and-institutions",

@@ -22675,3 +22675,11 @@ Added source `vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1`; cre
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医
+
+Added source `lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv`; created `ZhangDaming` and `DreamDistressAndParasomniaEscalation`; updated `DreamFunctionAndMeaning`, `LucidDreamingEvidenceBoundary`, `SleepStageFunctionalArchitecture`, `SigmundFreud`, the canonical index, and overview from their complete bounded source sets. Core synthesis: dream content may reflect memory, emotion, wishes, bodily sensation, external input, or creativity without becoming prophecy, diagnosis, or a universal symbol code; dream frequency alone does not establish poor sleep; persistent distress or daytime impairment and sleepwalking justify qualified assessment through distinct pathways. No settled contradiction found. The episode's Freudian categories, cycle timing, animal-dream inference, bodily-warning anecdotes, anxiety interpretations, lucid-control account, and clinical routing remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis-refresh workflow only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医](sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv.md) — 这病说来话长 episode on dream meaning, sleep stages, recall, bodily and emotional context, daytime impairment, sleepwalking, and clinical escalation.
 - [Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战](sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1.md) — 枫言枫语 on task-fit model routing, structured decisions, demonstrated computer use, authorship responsibility, platform access, and ambient-agent privacy.
 - [441. Lord Byron: Scandal, Sex and Celebrity (Part 2)](sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695.md) — The Rest Is History on Byron's Mediterranean journey, Childe Harold self-fashioning, Ali Pasha, the Elgin controversy, and the birth of Byromania.
 - [VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日](sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5.md) — 这病说来话长 World Book Day roundtable on death planning, comfort-focused terminal care, clinical reasoning, chronic-disease control, second opinions, and reading as support.
@@ -2857,6 +2858,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [张大明 / Zhang Daming (Mental-Health Guest)](entities/ZhangDaming.md) — Source-bounded 这病说来话长 guest explaining dreams, sleep stages, distress thresholds, sleepwalking, and interpretation limits.
 - [Jev](entities/Jev.md) — Source-described low-latency model or service for choices, scores, classifications, and structured output.
 - [Lady Caroline Lamb](entities/LadyCarolineLamb.md) — Aristocratic writer whose affair with Byron escalated into pursuit, self-harm, allegation, and public scandal.
 - [Annabella Milbank](entities/AnnabellaMilbank.md) — Byron's mathematically gifted wife, Ada Lovelace's mother, and central witness to the marriage crisis and separation.
@@ -13674,6 +13676,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Dream Distress and Parasomnia Escalation / 梦境困扰与异态睡眠就医边界](concepts/DreamDistressAndParasomniaEscalation.md) — Functional boundary separating ordinary dreams from persistent distress, daytime impairment, and sleepwalking that warrant qualified assessment.
 - [Structured Decision Model](concepts/StructuredDecisionModel.md) — Narrow AI component optimized for fast, schema-conforming classification, scoring, intent recognition, and routing.
 - [Human-Directed AI Authorship](concepts/HumanDirectedAIAuthorship.md) — Division of labor retaining human thesis, approval, and responsibility while delegating bounded production work to AI.
 - [Adolescent Risk Communication](concepts/AdolescentRiskCommunication.md) — Credible, repeated youth dialogue that joins prevention, immediate relevance, quitting support, and safety planning.

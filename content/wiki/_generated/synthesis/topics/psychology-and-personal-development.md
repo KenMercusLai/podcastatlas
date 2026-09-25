@@ -3,9 +3,9 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-25
-as_of_overview_commit: ad372cb6367f1444bcd8b6e9627b2ab96f9e9d95
-input_digest: ae2acdabcd12bf61cf071e5e39ac2211f68d7f2b09f2d14f0afb3ab7f0f2ac95
+last_updated: 2026-09-26
+as_of_overview_commit: 87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd
+input_digest: 68d5c392a4526f3e426d329b7bfdf0176bb1e2120944a825a6a35fcf759574a8
 ---
 
 # Psychology and Personal Development
@@ -188,14 +188,15 @@ Historical and cultural psychology examples in the topic function mainly as sour
 
 ### Mental Health And Crisis Boundaries Remain Clinical
 
-Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaRecognition]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], and [[EmotionalFlashbackGrounding]] can organize public self-understanding, but diagnosis, treatment, and high-risk care require professional judgment.
+Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaRecognition]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], and [[EmotionalFlashbackGrounding]] can organize public self-understanding, while [[DreamFunctionAndMeaning]] permits contextual reflection without fixed decoding and [[DreamDistressAndParasomniaEscalation]] uses persistent distress, daytime impairment, or sleepwalking to route qualified assessment; diagnosis, treatment, and high-risk care still require professional judgment.
 
-**Evidence:** [[ComplexTraumaRecognition]], [[TherapyRelationshipAndBoundaries]], [[EmbodiedAnxietyRegulation]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], [[EmotionalFlashbackGrounding]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]]
+**Evidence:** [[ComplexTraumaRecognition]], [[TherapyRelationshipAndBoundaries]], [[EmbodiedAnxietyRegulation]], [[EmotionRegulationToolkit]], [[OmnipotentSelfBlame]], [[EmotionalFlashbackGrounding]], [[shi-di-fu-shuo-468-zixunshi-huixin-duzi-nuli-zhangda-de-ren-rongyi-xianru-quanneng-zilian-de-xianjing-llwra0a8mt-ocndm9eokzxaryb-j]], [[DreamFunctionAndMeaning]], [[DreamDistressAndParasomniaEscalation]], [[LucidDreamingEvidenceBoundary]], [[SleepStageFunctionalArchitecture]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]]
 
 **Qualifications:**
 
 - Bipolar, OCD-like, anxiety, depression, trauma, stress, ADHD, and crisis references remain source-scoped unless a clinical source grounds them.
 - The wiki should preserve these distinctions when synthesizing podcast advice.
+- Dream content can support contextual reflection without becoming a universal symbol code, diagnosis, health omen, or substitute for assessment when distress, daytime impairment, or sleepwalking is present.
 
 ### Strategic Patron Exit Is Source Scoped Self Protection Case
 

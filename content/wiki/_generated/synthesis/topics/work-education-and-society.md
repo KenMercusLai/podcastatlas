@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-26
-as_of_overview_commit: add59b38c9710bfc194e82636b8bc2ca0ef703e3
-input_digest: 9dc4a32f887abf8b697102e58f4c12886d450e6d425da27643204b13eaaa63cb
+as_of_overview_commit: 87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd
+input_digest: 9a2065f6530796528b9ac649cb3a667e3ff5a6e18baf48590c89f6158095911f
 ---
 
 # Work, Education, and Society
@@ -971,14 +971,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 ### Psychiatric Function And Help Seeking Need Contextual Evidence
 
-[[PsychiatricStigmaTreatmentDelay]] and [[PsychiatryMeasurementGap]] add a work-and-society boundary: shame can delay care, while psychiatric judgment still depends on context, behavior, and functional disruption across settings rather than symptom resemblance or immature tests alone.
+[[PsychiatricStigmaTreatmentDelay]] and [[PsychiatryMeasurementGap]] add a work-and-society boundary: shame can delay care, while psychiatric judgment depends on context, behavior, and functional disruption across settings rather than symptom resemblance or immature tests alone. [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv|VOL.109]] extends that rule to sleep and dreams through [[DreamDistressAndParasomniaEscalation]]: remembered or unusual dreams are not diagnoses, but persistent loss of restoration, daytime impairment, substantial distress, or sleepwalking can justify qualified assessment.
 
-**Evidence:** [[PsychiatricStigmaTreatmentDelay]], [[PsychiatryMeasurementGap]], [[KarlDeisseroth]], [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]]
+**Evidence:** [[PsychiatricStigmaTreatmentDelay]], [[PsychiatryMeasurementGap]], [[KarlDeisseroth]], [[essentials-understanding-healing-the-mind-dr-karl-deisseroth-scim2644851631]], [[lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv]], [[DreamDistressAndParasomniaEscalation]], [[DreamFunctionAndMeaning]]
 
 **Qualifications:**
 
 - The source offers public clinical framing, not a workplace accommodation rule, diagnostic instrument, or individualized medical recommendation.
 - EEG biomarkers and altered-state treatment mechanisms remain emerging or source-scoped.
+- Dream recall or vividness alone does not establish dysfunction; VOL.109's interpretive and routing claims remain source-scoped public education.
 
 ### Hypertension Control Needs Routines Monitoring And Care Boundaries
 

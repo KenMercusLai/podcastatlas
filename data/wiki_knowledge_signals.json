@@ -37649,6 +37649,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/drawdowncapitalallocationandalignment/"
     },
+    "DreamDistressAndParasomniaEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
+          "key": "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv",
+          "show": "这病说来话长",
+          "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
+          "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/dreamdistressandparasomniaescalation/"
+    },
     "DreamFaceTechnologies": {
       "episode_count": 1,
       "show_count": 1,
@@ -37666,9 +37682,9 @@
       "url": "/wiki/entities/dreamfacetechnologies/"
     },
     "DreamFunctionAndMeaning": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -37676,9 +37692,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
+          "key": "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv",
+          "show": "这病说来话长",
+          "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
+          "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/dreamfunctionandmeaning/"
     },
     "DriverAIAgency": {
@@ -88097,9 +88120,9 @@
       "url": "/wiki/entities/lucenttechnologies/"
     },
     "LucidDreamingEvidenceBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -88107,9 +88130,16 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
           "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        },
+        {
+          "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
+          "key": "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv",
+          "show": "这病说来话长",
+          "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
+          "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/luciddreamingevidenceboundary/"
     },
     "LuciusCorneliusCinna": {
@@ -125487,6 +125517,29 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/siegeeconomystrategy/"
     },
+    "SigmundFreud": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
+          "key": "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv",
+          "show": "这病说来话长",
+          "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
+          "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/sigmundfreud/"
+    },
     "SikuQuanshu": {
       "episode_count": 1,
       "show_count": 1,
@@ -126342,9 +126395,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 3,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -126387,6 +126440,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
           "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
+        },
+        {
+          "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
+          "key": "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv",
+          "show": "这病说来话长",
+          "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
+          "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
         }
       ],
       "updated": "2026-09-26",
@@ -156122,6 +156182,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/zhangdai/"
+    },
+    "ZhangDaming": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "luTSrQrswkeKdi3UjTokur2q1hv- [luTSrQrswkeKdi3UjTokur2q1hv-].md",
+          "key": "lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv",
+          "show": "这病说来话长",
+          "title": "VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医",
+          "url": "/wiki/sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/zhangdaming/"
     },
     "ZhangDanProtectorOfXiongnu": {
       "episode_count": 1,

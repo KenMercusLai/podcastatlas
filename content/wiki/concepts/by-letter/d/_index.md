@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8169
+wiki_total_pages: 8170
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -950,6 +950,9 @@ wiki_pages:
   - key: "DrawdownPsychology"
     title: "Drawdown Psychology"
     url: "/wiki/concepts/drawdownpsychology/"
+  - key: "DreamDistressAndParasomniaEscalation"
+    title: "Dream Distress and Parasomnia Escalation / 梦境困扰与异态睡眠就医边界"
+    url: "/wiki/concepts/dreamdistressandparasomniaescalation/"
   - key: "DreamFunctionAndMeaning"
     title: "Dream Function and Meaning"
     url: "/wiki/concepts/dreamfunctionandmeaning/"
