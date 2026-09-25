@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10793
+wiki_total_pages: 10797
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1070,6 +1070,9 @@ wiki_pages:
   - key: "AnnaSorokin"
     title: "Anna Sorokin / 安娜·索罗金"
     url: "/wiki/entities/annasorokin/"
+  - key: "AnnabellaMilbank"
+    title: "Annabella Milbank"
+    url: "/wiki/entities/annabellamilbank/"
   - key: "AnneBoden"
     title: "Anne Boden"
     url: "/wiki/entities/anneboden/"
@@ -1469,6 +1472,9 @@ wiki_pages:
   - key: "AugustHeinrichHoffmannVonFallersleben"
     title: "August Heinrich Hoffmann von Fallersleben"
     url: "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
+  - key: "AugustaLeigh"
+    title: "Augusta Leigh"
+    url: "/wiki/entities/augustaleigh/"
   - key: "AugustusTheStrong"
     title: "Augustus the Strong / 强力王奥古斯特"
     url: "/wiki/entities/augustusthestrong/"

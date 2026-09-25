@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | 442. Lord Byron: Dangerous Liaisons (Part 3)
+
+Added source `442-lord-byron-dangerous-liaisons-part-3-glt1176702097`; created `LadyCarolineLamb`, `AnnabellaMilbank`, `AugustaLeigh`, and `LadyMelbourne`; and updated `LordByron`, `ByronicCelebrityPolitics`, the canonical index, and overview from their complete bounded source sets. Core synthesis: managed literary celebrity magnified Byron's intimate conduct, sexual secrecy, marriage crisis, and social punishment into the public scandal that forced his exile, while disgrace strengthened rather than ended the Byronic myth. No settled contradiction found. The precise nature of Byron's relationship with Augusta, the sodomy allegation, medical judgments, reported dialogue, and individual motives remain contested or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory
 
 Added source `guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704`; updated `MatthewWalker`, `MemoryConsolidationWindows`, `SleepStageFunctionalArchitecture`, `SleepSpindleSchemaFormation`, `PostPracticeMotorConsolidation`, `SchoolLearningStateDesign`, `SleepAnxietyLoop`, and `SubconsciousCreativeIncubation` from their complete bounded source sets. Core synthesis: durable learning begins with sleep-supported encoding readiness, continues through retrieval, bounded arousal and low-interference rest, and uses deep non-REM, spindles, stage-two sleep, and REM-rich association for different but overlapping consolidation functions. No settled contradiction found; school, medical, athletic, weight-loss, tracker-belief, study-effect, replay, and historical creativity claims remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
@@ -22643,3 +22647,7 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher
 
 Added source `vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429`; created `BonnieHalpernFelsher`, `AdolescentRiskCommunication`, and `AdolescentAutonomyScaffolding`; updated `YouthTobaccoInitiationPrevention`, `ElectronicCigaretteRisk`, `SmokingCessationSupport`, `CannabisPsychosisCausalityBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: adolescent risk behavior reflects development, autonomy, peers, family context, commercial targeting, product design, stress, and addiction; credible prevention therefore combines accurate non-moralizing conversation, environmental controls, cessation help, and graduated harm reduction. No settled contradiction found. The episode's cannabis account increases concern about a causal trigger in predisposed youth without proving universal one-way causation, while vaping prevalence, nicotine dose equivalence, nicotine-pouch uptake, under-18 nicotine-replacement dosing, psychosis frequency and reversibility, and fentanyl-test performance remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

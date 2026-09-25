@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2703
+topic_total_pages: 2704
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5606,6 +5606,9 @@ topic_entities:
   - key: "LabourPartyUK"
     title: "Labour Party (UK)"
     url: "/wiki/entities/labourpartyuk/"
+  - key: "LadyMelbourne"
+    title: "Lady Melbourne"
+    url: "/wiki/entities/ladymelbourne/"
   - key: "LaneGreen"
     title: "Lane Green"
     url: "/wiki/entities/lanegreen/"

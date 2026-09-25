@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [442. Lord Byron: Dangerous Liaisons (Part 3)](sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097.md) — The Rest Is History on Byron's early celebrity, Caroline Lamb, marriage to Annabella Milbank, the Augusta Leigh scandal, separation, and exile.
 - [Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher](sources/vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429.md) — Huberman Lab interview on adolescent autonomy, youth vaping and cannabis risk, credible prevention messages, quitting support, and graduated harm reduction.
 - [GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory](sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704.md) — Huberman Lab sleep-series episode on pre-learning encoding, post-learning consolidation, motor skill, associative creativity, institutional schedules, and orthosomnia.
 - [443. Lord Byron: Death of a Vampire (Part 4)](sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776.md) — The Rest Is History on Byron's vampire afterlife, European celebrity, Italian exile, radical politics, Greek commitment, death, and contested reputation.
@@ -2853,6 +2854,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Lady Caroline Lamb](entities/LadyCarolineLamb.md) — Aristocratic writer whose affair with Byron escalated into pursuit, self-harm, allegation, and public scandal.
+- [Annabella Milbank](entities/AnnabellaMilbank.md) — Byron's mathematically gifted wife, Ada Lovelace's mother, and central witness to the marriage crisis and separation.
+- [Augusta Leigh](entities/AugustaLeigh.md) — Byron's half-sister and intimate attachment at the center of the contested incest scandal.
+- [Lady Melbourne](entities/LadyMelbourne.md) — Elite adviser who promoted Byron's marriage to Annabella as a failed scandal-containment strategy.
 - [Bonnie Halpern-Felsher](entities/BonnieHalpernFelsher.md) — Adolescent-health researcher connecting development, product design, family context, prevention, cessation, and harm reduction.
 - [Teresa Guiccioli](entities/TeresaGuiccioli.md) — Byron's sustained late-life partner and link to the Gamba family and Italian revolutionary politics.
 - [Allegra Byron](entities/AllegraByron.md) — Daughter of Lord Byron and Claire Clairmont whose short life exposes the family cost beneath the Romantic celebrity circle.
@@ -11361,7 +11366,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Catherine / 凯瑟琳](entities/CatherineJulesAndJim.md) — Central woman in 《祖与占》, read as graceful, dangerous, maternal, freedom-seeking, and impossible to reduce to heroine or villain.
 - [Jules / 祖](entities/JulesJulesAndJim.md) — German friend and husband figure in 《祖与占》 whose arc moves from possessiveness toward love separated from ownership.
 - [Jim / 占](entities/JimJulesAndJim.md) — French friend and lover figure in 《祖与占》 caught between loyalty, desire, withdrawal, and Catherine's final destructive pull.
-- [Lord Byron / 拜伦](entities/LordByron.md) — Romantic poet used by episode 82 to test heroic literary celebrity against scandal, exile, death, memorial management, and genre afterlives.
+- [Lord Byron / 拜伦](entities/LordByron.md) — Romantic poet whose managed celebrity, intimate scandals, exile, political action, death, and genre afterlives resist both worship and dismissal.
 - [Honore de Balzac / 巴尔扎克](entities/HonoreDeBalzac.md) — French novelist presented through appetite, coffee, debt, entrepreneurial failure, literary rivalry, and social-fiction ambition.
 - [Sainte-Beuve / 圣伯夫](entities/SainteBeuve.md) — French critic whose rivalry with Balzac shows literary reputation forming through reviews, salons, hostility, and belated recognition.
 - [Edgar Allan Poe / 爱伦·坡](entities/EdgarAllanPoe.md) — Horror and detective-fiction founder framed through poverty, unstable biography, ambiguous death, hostile posthumous editing, and memorial ritual.
@@ -13663,7 +13668,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Adolescent Risk Communication](concepts/AdolescentRiskCommunication.md) — Credible, repeated youth dialogue that joins prevention, immediate relevance, quitting support, and safety planning.
 - [Adolescent Autonomy Scaffolding](concepts/AdolescentAutonomyScaffolding.md) — Family support model balancing growing agency with monitoring, conflict management, and reachable adult backup.
 - [Aristocratic Vampire](concepts/AristocraticVampire.md) — Gothic type created when Polidori transformed Byron's alluring, scandalous aristocratic persona into a fictional predator.
-- [Byronic Celebrity Politics](concepts/ByronicCelebrityPolitics.md) — Conversion of literary scandal and public persona into cultural, financial, diplomatic, and political capacity.
+- [Byronic Celebrity Politics](concepts/ByronicCelebrityPolitics.md) — Feedback among literary persona, intimate scandal, social punishment, cultural capital, and political capacity.
 - [AI Creative Process Datafication / AI創作流程數據化](concepts/AICreativeProcessDatafication.md) — Governance risk created when project selection, discarded options, aesthetic judgment, and production decisions become learnable workflow data.
 - [Fear-Driven AI Adoption / 恐懼驅動的AI採用](concepts/FearDrivenAIAdoption.md) — Self-reinforcing adoption driven partly by fear that competitors are moving first.
 - [历史作为生命资源 / History as a Life Resource](concepts/HistoryAsLifeResource.md) — Public-history frame in which historical knowledge helps ordinary readers understand the present and locate themselves in longer processes.

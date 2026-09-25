@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2012
+topic_total_pages: 2013
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4620,6 +4620,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "442-lord-byron-dangerous-liaisons-part-3-glt1176702097"
+    title: "442. Lord Byron: Dangerous Liaisons (Part 3)"
+    url: "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
   - key: "443-lord-byron-death-of-a-vampire-part-4-glt3247503776"
     title: "443. Lord Byron: Death of a Vampire (Part 4)"
     url: "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10793
+wiki_total_pages: 10797
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -32,6 +32,12 @@ wiki_pages:
   - key: "Lacoste"
     title: "Lacoste"
     url: "/wiki/entities/lacoste/"
+  - key: "LadyCarolineLamb"
+    title: "Lady Caroline Lamb"
+    url: "/wiki/entities/ladycarolinelamb/"
+  - key: "LadyMelbourne"
+    title: "Lady Melbourne"
+    url: "/wiki/entities/ladymelbourne/"
   - key: "LaelBrainard"
     title: "Lael Brainard"
     url: "/wiki/entities/laelbrainard/"

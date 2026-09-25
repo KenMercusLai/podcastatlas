@@ -8979,6 +8979,22 @@
       "updated": "2026-09-22",
       "url": "/wiki/entities/annachennault/"
     },
+    "AnnabellaMilbank": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1176702097 [GLT1176702097].md",
+          "key": "442-lord-byron-dangerous-liaisons-part-3-glt1176702097",
+          "show": "The Rest Is History",
+          "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
+          "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/annabellamilbank/"
+    },
     "AnnetteGordonReed": {
       "episode_count": 1,
       "show_count": 1,
@@ -11300,6 +11316,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/augustheinrichhoffmannvonfallersleben/"
+    },
+    "AugustaLeigh": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1176702097 [GLT1176702097].md",
+          "key": "442-lord-byron-dangerous-liaisons-part-3-glt1176702097",
+          "show": "The Rest Is History",
+          "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
+          "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/augustaleigh/"
     },
     "AugustusTheStrong": {
       "episode_count": 2,
@@ -17558,9 +17590,9 @@
       "url": "/wiki/entities/byhealth/"
     },
     "ByronicCelebrityPolitics": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3247503776 [GLT3247503776].md",
@@ -17568,6 +17600,13 @@
           "show": "The Rest Is History",
           "title": "443. Lord Byron: Death of a Vampire (Part 4)",
           "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        },
+        {
+          "episode_file": "GLT1176702097 [GLT1176702097].md",
+          "key": "442-lord-byron-dangerous-liaisons-part-3-glt1176702097",
+          "show": "The Rest Is History",
+          "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
+          "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
         }
       ],
       "updated": "2026-09-26",
@@ -77875,6 +77914,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/lactatemetabolicshuttle/"
     },
+    "LadyCarolineLamb": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1176702097 [GLT1176702097].md",
+          "key": "442-lord-byron-dangerous-liaisons-part-3-glt1176702097",
+          "show": "The Rest Is History",
+          "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
+          "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/ladycarolinelamb/"
+    },
     "LadyDingCaoCao": {
       "episode_count": 3,
       "show_count": 1,
@@ -77950,6 +78005,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/ladyliwesternhan/"
+    },
+    "LadyMelbourne": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1176702097 [GLT1176702097].md",
+          "key": "442-lord-byron-dangerous-liaisons-part-3-glt1176702097",
+          "show": "The Rest Is History",
+          "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
+          "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/ladymelbourne/"
     },
     "LadySunLiuBei": {
       "episode_count": 1,
@@ -86458,9 +86529,9 @@
       "url": "/wiki/entities/lopedeaguirre/"
     },
     "LordByron": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -86482,6 +86553,13 @@
           "show": "The Rest Is History",
           "title": "443. Lord Byron: Death of a Vampire (Part 4)",
           "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        },
+        {
+          "episode_file": "GLT1176702097 [GLT1176702097].md",
+          "key": "442-lord-byron-dangerous-liaisons-part-3-glt1176702097",
+          "show": "The Rest Is History",
+          "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
+          "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
         }
       ],
       "updated": "2026-09-26",
