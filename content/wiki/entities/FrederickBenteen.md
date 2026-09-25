@@ -4,6 +4,7 @@ type: entity
 tags: [military, united-states, plains-wars, little-bighorn]
 sources:
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
+  - 452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -16,13 +17,16 @@ Frederick Benteen was a Seventh Cavalry officer whose response to [[GeorgeArmstr
 
 ## Current Profile
 
-Benteen received an urgent message to come quickly and bring the ammunition packs after a lateral reconnaissance he believed had removed him from the main action. The episode allows that resentment toward Custer may have affected him, but it also stresses the order's operational contradiction and the condition he found on Reno Hill. Reno's men were shaken, ammunition was not yet secure, and neither officer knew Custer's position with confidence.
+Benteen was sent with about 115 men on a lateral reconnaissance to search for people escaping the village and possible routes through broken ground. The hosts reject his later claim that [[GeorgeArmstrongCuster]] sent him away solely to deny him glory, because the mission fit Custer's overriding fear that the village would scatter. He then received an urgent message to come quickly and bring the ammunition packs. The order paired speed with dependence on a slow train but, at the moment it was written, did not clearly express panic.
+
+The second episode allows that resentment toward Custer may have affected Benteen, but it also stresses the operational contradiction and the condition he found on Reno Hill. Reno's men were shaken, ammunition was not yet secure, and neither officer knew Custer's position with confidence.
 
 Benteen initially discouraged defensive preparation and later claimed that he assumed Custer could care for himself. Yet he stayed, helped stabilize the hill, and on the second day inspired volunteers to fetch water under fire. The episode's judgment is deliberately mixed: personal bitterness and poor early behavior coexist with a decision that probably saved survivors and with real battlefield courage.
 
 ## Key Characteristics
 
 - He carried prior resentment toward Custer into an ambiguous operational crisis.
+- His lateral assignment had a plausible escape-blocking purpose even though he later interpreted it personally.
 - The last order forced a tradeoff between speed and protection of ammunition packs.
 - His decision to join Reno rather than continue immediately toward Custer remains morally and tactically contested.
 - He initially resisted defensive preparation but became more effective as the siege continued.
@@ -31,7 +35,8 @@ Benteen initially discouraged defensive preparation and later claimed that he as
 
 ## Evidence
 
-- Order and delay: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] describes the written message, mule-train constraint, and Benteen's resentment.
+- Lateral mission and recall: [[452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290]] describes the escape-blocking mission, broken terrain, and delivery of Custer's urgent written message.
+- Order and delay: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] describes the mule-train constraint, Benteen's resentment, and his response after reaching Reno.
 - Reno Hill decision: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] follows his arrival, Reno's condition, ammunition concern, and the sounds of distant fighting.
 - Defensive conduct: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] contrasts his early discouragement with later steadiness and the water volunteers.
 - Aftermath: [[453-custers-last-stand-the-final-showdown-part-8-glt8261745977]] follows his disbelief, battlefield inspection, and encounter with Custer's body.
@@ -41,13 +46,14 @@ Benteen initially discouraged defensive preparation and later claimed that he as
 - Motive cannot be inferred securely from delay alone because the order, terrain, ammunition train, and Reno's condition created genuine uncertainty.
 - Saying that he saved Reno's command is a counterfactual judgment, though the episode regards it as likely.
 - His own later explanations are interested testimony shaped by the blame dispute.
+- The source disputes his glory-denial interpretation but cannot recover Custer's private motive with certainty.
 - This profile does not cover his career outside the episode's battle reconstruction.
 
 ## What Changed
 
-- Created a profile preserving both resentment and battlefield courage.
-- Separated the ambiguity of the initial decision from the clearer value of the later defense.
-- Framed the Benteen controversy as a command-information problem as well as a character judgment.
+- Backfilled the size and operational purpose of his lateral reconnaissance.
+- Clarified that the last message conveyed urgency without explicit evidence of panic.
+- Qualified his claim that Custer sent him away to deny him glory.
 
 ## Relationships
 

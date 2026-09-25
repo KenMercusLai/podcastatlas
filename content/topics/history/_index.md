@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1995
+topic_total_pages: 1996
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4602,6 +4602,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290"
+    title: "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)"
+    url: "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
   - key: "453-custers-last-stand-the-final-showdown-part-8-glt8261745977"
     title: "453. Custer's Last Stand: The Final Showdown (Part 8)"
     url: "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"

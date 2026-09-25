@@ -13328,9 +13328,9 @@
       "url": "/wiki/entities/battleoflesnaya/"
     },
     "BattleOfLittleBighorn": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -13338,6 +13338,13 @@
           "show": "The Rest Is History",
           "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
           "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        },
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
         }
       ],
       "updated": "2026-09-25",
@@ -13709,9 +13716,9 @@
       "url": "/wiki/concepts/battlefieldinformationcontrol/"
     },
     "BattlefieldReconstructionUnderUncertainty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -13719,6 +13726,13 @@
           "show": "The Rest Is History",
           "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
           "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        },
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
         }
       ],
       "updated": "2026-09-25",
@@ -15364,6 +15378,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/bloodyfriday/"
+    },
+    "BloodyKnife": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/bloodyknife/"
     },
     "BloodySunday": {
       "episode_count": 1,
@@ -50226,9 +50256,9 @@
       "url": "/wiki/entities/frederickai/"
     },
     "FrederickBenteen": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -50236,6 +50266,13 @@
           "show": "The Rest Is History",
           "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
           "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        },
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
         }
       ],
       "updated": "2026-09-25",
@@ -54371,9 +54408,9 @@
       "url": "/wiki/entities/georgearmistead/"
     },
     "GeorgeArmstrongCuster": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -54381,6 +54418,13 @@
           "show": "The Rest Is History",
           "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
           "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        },
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
         }
       ],
       "updated": "2026-09-25",
@@ -61964,9 +62008,9 @@
       "url": "/wiki/entities/herodotus/"
     },
     "HeroicLastStandMyth": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -61974,6 +62018,13 @@
           "show": "The Rest Is History",
           "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
           "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        },
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
         }
       ],
       "updated": "2026-09-25",
@@ -70388,6 +70439,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/isabellaoffrance/"
+    },
+    "IsaiahDorman": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/isaiahdorman/"
     },
     "IslamIslamismConflation": {
       "episode_count": 1,
@@ -89533,9 +89600,9 @@
       "url": "/wiki/entities/marcusliviusdrusus/"
     },
     "MarcusReno": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT8261745977 [GLT8261745977].md",
@@ -89543,6 +89610,13 @@
           "show": "The Rest Is History",
           "title": "453. Custer's Last Stand: The Final Showdown (Part 8)",
           "url": "/wiki/sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977/"
+        },
+        {
+          "episode_file": "GLT7290391290 [GLT7290391290].md",
+          "key": "452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290",
+          "show": "The Rest Is History",
+          "title": "452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)",
+          "url": "/wiki/sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290/"
         }
       ],
       "updated": "2026-09-25",

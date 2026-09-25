@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10758
+wiki_total_pages: 10760
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "BloodyFriday"
     title: "Bloody Friday"
     url: "/wiki/entities/bloodyfriday/"
+  - key: "BloodyKnife"
+    title: "Bloody Knife"
+    url: "/wiki/entities/bloodyknife/"
   - key: "BloodySunday"
     title: "Bloody Sunday"
     url: "/wiki/entities/bloodysunday/"

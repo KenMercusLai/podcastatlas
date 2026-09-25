@@ -22456,3 +22456,11 @@ Added source `how-to-improve-brain-health-offset-neurodegeneration-dr-gary-stein
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)
+
+Added source `452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290`; created `BloodyKnife` and `IsaiahDorman`; and updated `BattleOfLittleBighorn`, `GeorgeArmstrongCuster`, `MarcusReno`, `FrederickBenteen`, `BattlefieldReconstructionUnderUncertainty`, and `HeroicLastStandMyth` from their complete bounded source sets. Core synthesis: Custer treated escape as the main danger despite scout warnings about an exceptionally large village, then attacked when he believed surprise was lost and divided a tired regiment whose ammunition train lagged behind; Reno's halted charge, timber withdrawal, command shock, and rout opened the battle before Custer sent his urgent but not clearly panicked final message to Benteen. No settled contradiction found; village and warrior counts, Reno's intoxication and exact orders, Custer's private expectations, Dorman's death, dialogue, timing, and individual actions remain source-scoped or contested. The canonical `wiki/overview.md` was updated during the normal ingest, and the downstream synthesis refresh only read that overview before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

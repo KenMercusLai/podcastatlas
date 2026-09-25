@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)](sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290.md) — The Rest Is History reconstruction of Little Bighorn's opening phase, Custer's assumptions and divided command, Reno's rout, Native mobilization, and the last message to Benteen.
 - [How to Improve Brain Health & Offset Neurodegeneration | Dr. Gary Steinberg](sources/how-to-improve-brain-health-offset-neurodegeneration-dr-gary-steinberg-scim3649091801.md) — Huberman Lab interview on cerebrovascular risk and urgency, concussion evaluation, function-preserving neurosurgery, rehabilitation, and the evidence boundaries around imaging, stimulation, cooling, PRP, and stem cells.
 - [453. Custer's Last Stand: The Final Showdown (Part 8)](sources/453-custers-last-stand-the-final-showdown-part-8-glt8261745977.md) — The Rest Is History reconstruction of Little Bighorn's final phase, Reno Hill's survival, Custer's destruction, Native battlefield leadership, and the evidence limits behind the last-stand myth.
 - [454. Fall of the Sioux: Death of Crazy Horse (Part 1)](sources/454-fall-of-the-sioux-death-of-crazy-horse-part-1-glt1647500583.md) — The Rest Is History episode on Little Bighorn's strategic aftermath, coercive surrender, Crazy Horse's killing, and Sitting Bull's Canadian exile and return.
@@ -2834,6 +2835,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [George Armstrong Custer](entities/GeorgeArmstrongCuster.md) — Seventh Cavalry commander whose fatal decisions and unknowable final movements became the basis of a heroic last-stand myth.
 - [Frederick Benteen](entities/FrederickBenteen.md) — Seventh Cavalry officer whose contested delay and later defense helped preserve Reno Hill survivors.
 - [Marcus Reno](entities/MarcusReno.md) — Seventh Cavalry officer whose failed attack, hilltop defense, and later investigation concentrated the battle's blame dispute.
+- [Bloody Knife](entities/BloodyKnife.md) — Arikara scout whose warning and death connect ignored intelligence to Reno's collapse at Little Bighorn.
+- [Isaiah Dorman](entities/IsaiahDorman.md) — Black interpreter whose Lakota ties and disputed death expose crossed loyalties at Little Bighorn.
 - [Gall](entities/GallLakota.md) — Hunkpapa Lakota leader associated with the attack on Calhoun Hill and the Native victory interpretation of Little Bighorn.
 - [Crazy Horse](entities/CrazyHorse.md) — Oglala Lakota leader whose surrender, isolation, disputed mistranslation, and killing expose the coercive transition from war to confinement.
 - [Wovoka](entities/Wovoka.md) — Paiute religious teacher whose peaceful renewal message became the basis of the Ghost Dance movement.
