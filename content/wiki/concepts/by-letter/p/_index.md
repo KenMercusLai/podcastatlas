@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8133
+wiki_total_pages: 8135
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -647,6 +647,9 @@ wiki_pages:
   - key: "PlaceBasedFiction"
     title: "Place-Based Fiction"
     url: "/wiki/concepts/placebasedfiction/"
+  - key: "PlainsSocietyHistoricalDynamism"
+    title: "Plains Society Historical Dynamism"
+    url: "/wiki/concepts/plainssocietyhistoricaldynamism/"
   - key: "PlanetarySelfAwareness"
     title: "Planetary Self-Awareness"
     url: "/wiki/concepts/planetaryselfawareness/"

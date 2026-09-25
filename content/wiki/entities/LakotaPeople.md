@@ -10,6 +10,7 @@ sources:
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
   - 449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095
+  - 448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -22,7 +23,9 @@ The Lakota are the Native people at the center of the sources' account of territ
 
 ## Current Profile
 
-The new earliest source rejects a timeless or static picture of Lakota society. It describes movement from woodland toward Plains life, adoption of horses and guns, shifting alliances, and conquest of the Powder River country from the Crow. During [[RedCloud]]'s war, the [[FettermanFight]] demonstrated military strength and helped force closure of the Bozeman Trail forts.
+The new earliest source rejects a timeless or static picture of Lakota society. It describes movement from woodland toward Plains life, adoption of horses and guns, trade integration, shifting alliances, and conquest of the Powder River country from the Crow. Disease and uneven inoculation changed regional balances, while rivalry helps explain why Crow and Pawnee people sometimes served with U.S. forces. This agency complicates a passive-victim narrative without making regional conflict equivalent to the demographic and institutional power of U.S. expansion.
+
+The source places Lakota history inside wider removal, settler growth, trail building, forts, telegraph lines, railroads, gold seeking, homesteading, and commercial bison destruction. Treaties attempted to define movement and territory but repeatedly failed under intertribal conflict and federal inability or unwillingness to restrain settlers. During [[RedCloud]]'s war, opposition to the Bozeman Trail made him the political focus and [[CrazyHorse]] the emerging military face.
 
 The 1868 settlement created the [[GreatSiouxReservation]] and ambiguously defined unceded territory. Most Lakota followed Red Cloud toward reservation accommodation after his Washington visit, while [[SittingBull]], [[CrazyHorse]], and others remained outside. The sources therefore present political division as competing responses to severe pressure rather than as proof of a culturally uniform preference.
 
@@ -48,6 +51,8 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 ## Evidence
 
+- Historical dynamism and regional rivalry: [[448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648]] connects migration, horses, firearms, trade, disease, Crow and Pawnee rivalry, Powder River conquest, and bison ecology.
+- Settler infrastructure and treaty failure: [[448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648]] joins removal, demographic expansion, roads, forts, telegraph, railroads, gold, homesteading, and repeated treaty failure.
 - Dynamic history and military leverage: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] connects migration, horses, guns, Powder River expansion, the Fetterman victory, and closure of the Bozeman Trail forts.
 - Divided reservation response: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] contrasts Red Cloud's accommodation with Sitting Bull and Crazy Horse remaining outside the 1868 settlement.
 - Territorial and subsistence pressure: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] connects railroad surveys, bison killing, the gold rush, resistance, and failed purchase talks.
@@ -63,7 +68,7 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 ## Qualifications
 
-- These pages provide a seven-episode popular-history sequence's Plains Wars and reservation-crisis account, not a complete Lakota history or contemporary profile.
+- These pages provide an eight-episode popular-history sequence's Plains Wars and reservation-crisis account, not a complete Lakota history or contemporary profile.
 - Native eyewitness accounts remain indispensable but varied, often translated, and recorded under unequal documentary conditions.
 - The sources sometimes use broad period language such as “Sioux” or “Indian”; this synthesis uses Lakota where the subject is specifically Lakota.
 - Population, deprivation, and current social-condition claims would require dedicated primary and contemporary data for verification.
@@ -71,13 +76,13 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 - Statements about promises, translation, motives, visions, costs, and individual responsibility remain source-scoped where the episodes do not compare records.
 - The deliberate-pretext interpretation, Watkins report assessment, village totals, and exact coalition decision processes require comparison with primary and Native sources.
 - The chronology and character of Black Hills ownership and sacred meaning require Lakota evidence and specialist scholarship beyond the episode's qualification.
+- Claims about precontact population, epidemic effects, inoculation, territorial displacement, gender roles, and treaty understanding require specialist and Lakota evidence beyond the episode.
 
 ## What Changed
 
-- Extended the profile backward to territorial change, the Fetterman victory, and the divided 1868 reservation response.
-- Clarified that adaptation and political disagreement predated the later reservation crisis.
-- Extended the profile backward through railroad surveys, bison destruction, the gold expedition, and failed purchase talks.
-- Qualified the relationship between recent territorial control and deep political, material, and spiritual attachment.
+- Expanded the prewar profile through trade, disease, intertribal rivalry, and ecological change.
+- Distinguished Lakota regional conquest and political agency from false symmetry with U.S. settler-state expansion.
+- Added treaty failure and settler infrastructure as the immediate context for Red Cloud's war.
 
 ## Relationships
 
@@ -98,3 +103,5 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 - [[SecurityCrisisAmplification]] - process that translated religious activity and unrest into an uprising narrative.
 - [[WoundedKneeMassacre]] - mass killing of Big Foot's band and a central scar in Lakota and American memory.
 - [[FrontierViolenceSpectacle]] - process through which Lakota people and ceremonies were staged for outside audiences.
+- [[PlainsSocietyHistoricalDynamism]] - framework for understanding Lakota Plains life as historically changing rather than timeless.
+- [[ColonialSourceMediation]] - evidence boundary created by translated, outsider-recorded, and retrospective accounts.

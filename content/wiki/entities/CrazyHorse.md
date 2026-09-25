@@ -8,6 +8,7 @@ sources:
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
   - 449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095
+  - 448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -19,6 +20,10 @@ knowledge_schema: synthesis-v1
 Crazy Horse was an Oglala [[LakotaPeople|Lakota]] war leader whose role in the [[FettermanFight]], rejection of reservation life, and battlefield leadership at the [[BattleOfLittleBighorn]] preceded post-victory resistance, surrender at Fort Robinson, isolation, attempted imprisonment, and killing under [[CoerciveReservationAssimilation|coercive confinement]].
 
 ## Current Profile
+
+The new earliest episode introduces Crazy Horse through evidence that is both culturally rich and difficult to stabilize. It places his birth around 1840, reports earlier names including Curly and Among the Trees, and describes an upbringing organized around riding, endurance, raids, counting coup, and warrior honors. Accounts of his appearance, refusal of photography, childhood exploits, and personality come through outsiders, later interviews, oral tradition, and legend rather than a secure first-person record.
+
+Vision and ritual were part of military identity rather than a separate private spirituality. The episode associates him with fasting, storms and lightning, grass in his hair, body paint, a pebble behind one ear, and refusal of a war bonnet. It presents these practices as “medicine” within a Lakota world that did not map neatly onto a Western natural-supernatural division. His reputation joined bravery to assessment: the source explicitly contrasts his rapid action with Custer's recklessness and portrays him as a tactician who judged a situation before committing.
 
 The earliest episode associates Crazy Horse with the decoy that drew Captain William Fetterman's force into the 1866 ambush during [[RedCloud]]'s war. The victory raised his standing and helped force U.S. abandonment of the Bozeman Trail forts. When the 1868 [[GreatSiouxReservation]] settlement drew most Lakota toward agency life, he remained outside with [[SittingBull]] and other resistance leaders.
 
@@ -44,6 +49,7 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## Evidence
 
+- Formation, medicine, and tactics: [[448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648]] connects warrior training, counting coup, visions, ritual practice, personal reserve, and calculated battlefield action.
 - Fetterman and reservation refusal: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] credits him with helping lure Fetterman's force and places him outside the 1868 reservation settlement.
 - Survey and land-sale resistance: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] describes the 1872 confrontation, his mourning during the 1874 expedition, and refusal to attend the 1875 commission.
 - Pre-battle coalition and restraint: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] connects displaced Cheyenne arrivals, waiting strategy, and coordination among warriors.
@@ -56,7 +62,8 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## Qualifications
 
-- This profile rests on five dramatic popular-history episodes rather than a comparison of Lakota oral history, military records, biographies, and scholarship.
+- This profile rests on six dramatic popular-history episodes rather than a comparison of Lakota oral history, military records, biographies, and scholarship.
+- His birth, early names, appearance, photography claim, childhood exploits, visions, rituals, personal reserve, and tactical reputation are mediated or contested rather than secure first-person facts.
 - His exact role in the Fetterman decoy and the source's contrast between his personality and Sitting Bull's remain source-scoped.
 - His precise route, timing, and tactical role at Little Bighorn remain uncertain within a reconstruction built from testimony and archaeology.
 - His exact command role at the Rosebud and ability to enforce restraint across a diverse coalition remain source-scoped.
@@ -67,9 +74,8 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## What Changed
 
-- Extended the profile to the Fetterman Fight and rejection of the 1868 reservation settlement.
-- Extended the profile backward to survey resistance, personal loss during the 1874 expedition, and refusal of purchase talks.
-- Connected territorial defense to later coalition growth and strategic patience.
+- Extended the profile into warrior formation, counting coup, medicine, vision, and ritual identity.
+- Sharpened the distinction between tactical daring and recklessness while making the evidentiary limits explicit.
 
 ## Relationships
 
@@ -83,3 +89,4 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 - [[BattleOfRosebud]] - earlier victory that stopped Crook's column and strengthened coalition confidence.
 - [[GallLakota|Gall]] - fellow Lakota leader associated with attacks on Custer's positions.
 - [[CoerciveReservationAssimilation]] - system that joined military exhaustion to dependency, factional governance, and threatened removal.
+- [[ColonialSourceMediation]] - source problem shaping nearly every claim about his appearance, visions, personality, and early life.

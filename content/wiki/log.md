@@ -22503,3 +22503,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-25] ingest | 448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)
+
+Added source `448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648`; created `PlainsSocietyHistoricalDynamism` and `ColonialSourceMediation`; and updated `CrazyHorse`, `SittingBull`, `LakotaPeople`, and `RedCloud` from their complete bounded source sets. Core synthesis: Plains life was historically reshaped by horses, firearms, trade, disease, migration, ecology, alliance, and conquest, while treaty failure, settler infrastructure, bison destruction, and U.S. demographic power made the wider conflict profoundly unequal; Crazy Horse's warrior formation, visions, ritual identity, and tactical reputation remain meaningful but heavily mediated. No settled contradiction found. Population, epidemic, territorial, treaty, gender, biographical, visionary, performance, and quotation claims remain source-scoped. The canonical `wiki/overview.md` was updated during the normal ingest; the downstream synthesis-refresh workflow only read it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

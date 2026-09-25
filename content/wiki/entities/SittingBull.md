@@ -10,6 +10,7 @@ sources:
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
   - 449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095
+  - 448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -21,6 +22,8 @@ knowledge_schema: synthesis-v1
 Sitting Bull was a Hunkpapa [[LakotaPeople|Lakota]] warrior and spiritual-political leader whose rejection of the [[GreatSiouxReservation]], coalition-building before the [[BattleOfLittleBighorn]], later resistance, Canadian exile, forced accommodation, association with the [[GhostDance]], killing during an agency-police arrest, and commercialized afterlife make him a central symbol of resistance and dispossession.
 
 ## Current Profile
+
+The new earliest episode opens with Sitting Bull's account of visions before birth and divine authority, but immediately locates it in an 1877 Chicago Times interview conducted after Little Bighorn. His words reached readers through translation, a newspaperman, and a public role that later included Buffalo Bill's Wild West show. The account is therefore evidence of visionary authority and of [[ColonialSourceMediation|how that authority was mediated]], not an unproblematic verbatim transcript.
 
 The new earliest episode traces Sitting Bull's authority from childhood and treats his remembered biography cautiously. It says he was probably born in 1831, was first known as Jumping Badger and then Slow, and received the name Sitting Bull after counting coup as a teenager. Warrior honors, offices in warrior societies, ritual endurance, visions, healing associations, humor, mimicry, music, and an ability to inspire affection all contributed to authority; the episode also reports bouts of depression. These details come through translated interviews and later stories rather than an unmediated record.
 
@@ -48,6 +51,7 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## Evidence
 
+- Mediated visionary authority: [[448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648]] uses the 1877 interview to introduce Sitting Bull while foregrounding translation, journalism, and later public performance.
 - Early life and authority: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] connects naming, coup, warrior societies, the Sun Dance, visions, humor, charisma, and spiritual reputation.
 - Reservation refusal: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] contrasts his rejection of supplies and dependency with Red Cloud's accommodation after 1868.
 - Early resistance and Black Hills refusal: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] links the 1872 survey confrontation, 1875 gathering, ritual authority, and refusal to sell.
@@ -63,7 +67,8 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## Qualifications
 
-- These seven sources are narrative syntheses rather than full documentary comparisons of disputed details.
+- These eight sources are narrative syntheses rather than full documentary comparisons of disputed details.
+- The 1877 Chicago Times interview is filtered through a newspaperman and translation; its prenatal-vision account should not be treated as unmediated wording.
 - The 1882 Creelman interview is mediated through translation and journalism; its English wording cannot be treated as Sitting Bull's verbatim voice.
 - The naming story, Crow duel, political acclamation, ritual details, animal communications, predictions, humor, music, and depression remain source-scoped biographical claims.
 - The Canadian conversations, surrender speech, promises, follower count, and cost estimates come through the episode's narrative and require documentary verification.
@@ -77,10 +82,8 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## What Changed
 
-- Extended the profile backward through childhood, warrior achievement, spiritual formation, and the 1868 reservation split.
-- Clarified that multiple forms of authority supported leadership without implying centralized command over all Lakota people.
-- Extended resistance backward to the 1872 survey confrontation and failed 1875 land-sale talks.
-- Connected ritual performance to coalition preparation while preserving the distinction from tactical command.
+- Added the 1877 interview as early evidence of visionary authority and an explicit case of journalistic and translational mediation.
+- Clarified that public performance shaped the archive without making his reported worldview wholly inauthentic.
 
 ## Relationships
 
@@ -99,3 +102,4 @@ The sources place him between symbolic authority and declining local power. He s
 - [[SecurityCrisisAmplification]] - process that cast him as the mastermind of an uprising.
 - [[WoundedKneeMassacre]] - subsequent atrocity involving followers who fled after his death.
 - [[FrontierViolenceSpectacle]] - commercialization of his image, performances, cabin, and death.
+- [[ColonialSourceMediation]] - framework for treating his translated interviews and performed public identity as situated evidence.

@@ -26438,6 +26438,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/colonialpowermiscalculation/"
     },
+    "ColonialSourceMediation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4947798648 [GLT4947798648].md",
+          "key": "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648",
+          "show": "The Rest Is History",
+          "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
+          "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/colonialsourcemediation/"
+    },
     "ColorVisionDeficiency": {
       "episode_count": 1,
       "show_count": 1,
@@ -29175,9 +29191,9 @@
       "url": "/wiki/entities/craigkoniver/"
     },
     "CrazyHorse": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1647500583 [GLT1647500583].md",
@@ -29213,6 +29229,13 @@
           "show": "The Rest Is History",
           "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
           "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        },
+        {
+          "episode_file": "GLT4947798648 [GLT4947798648].md",
+          "key": "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648",
+          "show": "The Rest Is History",
+          "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
+          "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
         }
       ],
       "updated": "2026-09-25",
@@ -77412,9 +77435,9 @@
       "url": "/wiki/entities/laixieasternhan/"
     },
     "LakotaPeople": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -77464,6 +77487,13 @@
           "show": "The Rest Is History",
           "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
           "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        },
+        {
+          "episode_file": "GLT4947798648 [GLT4947798648].md",
+          "key": "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648",
+          "show": "The Rest Is History",
+          "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
+          "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
         }
       ],
       "updated": "2026-09-25",
@@ -105969,6 +105999,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/placebasedexhibitioncuration/"
     },
+    "PlainsSocietyHistoricalDynamism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4947798648 [GLT4947798648].md",
+          "key": "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648",
+          "show": "The Rest Is History",
+          "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
+          "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/plainssocietyhistoricaldynamism/"
+    },
     "PlanetLabs": {
       "episode_count": 1,
       "show_count": 1,
@@ -113438,9 +113484,9 @@
       "url": "/wiki/entities/redcliffsbattle/"
     },
     "RedCloud": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2415947095 [GLT2415947095].md",
@@ -113448,6 +113494,13 @@
           "show": "The Rest Is History",
           "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
           "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        },
+        {
+          "episode_file": "GLT4947798648 [GLT4947798648].md",
+          "key": "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648",
+          "show": "The Rest Is History",
+          "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
+          "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
         }
       ],
       "updated": "2026-09-25",
@@ -124428,9 +124481,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SittingBull": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -124480,6 +124533,13 @@
           "show": "The Rest Is History",
           "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
           "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        },
+        {
+          "episode_file": "GLT4947798648 [GLT4947798648].md",
+          "key": "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648",
+          "show": "The Rest Is History",
+          "title": "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)",
+          "url": "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
         }
       ],
       "updated": "2026-09-25",

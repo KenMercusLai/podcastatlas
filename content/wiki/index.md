@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)](sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648.md) — The Rest Is History episode on dynamic Plains history, Lakota regional power, settler expansion, source mediation, and Crazy Horse's warrior and visionary identity.
 - [VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题](sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu.md) — 这病说来话长 episode on inflammatory bowel disease recognition, remission-oriented care, patient experience, and CCCF education, peer support, and advocacy.
 - [449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)](sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095.md) — The Rest Is History episode on Sitting Bull's warrior and spiritual authority, the Fetterman victory, the 1868 reservation split, and renewed railroad pressure.
 - [How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis](sources/how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889.md) — Huberman Lab interview on Jungian self-inquiry, unconscious complexes, shadow integration, relationship responsibility, suffering as a qualified task, aging, and mortality-bounded meaning.
@@ -2840,7 +2841,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fu Haoran / 傅浩然 (IBD Advocate)](entities/FuHaoranIBDAdvocate.md) — Crohn's disease patient and peer educator describing delayed diagnosis, severe complications, recovery, and social-media support.
 - [Chen Yan / 陈彦 (IBD Doctor)](entities/ChenYanIBDDoctor.md) — Gastroenterologist and nonprofit leader connecting clinical care with camps, education, advocacy, fundraising, and patient support.
 - [CCCF IBD Foundation / CCCF 爱在延长炎症性肠病基金会](entities/CCCFIBDFoundation.md) — China-based IBD nonprofit represented through training, support, advocacy, research, health kits, and youth camps.
-- [Red Cloud](entities/RedCloud.md) — Oglala Lakota leader whose Bozeman Trail victory and later reservation accommodation contrast military leverage with constrained political choice.
+- [Red Cloud](entities/RedCloud.md) — Oglala Lakota leader whose resistance to Bozeman Trail intrusion, military success, and later reservation accommodation contrast leverage with constrained political choice.
 - [Fetterman Fight](entities/FettermanFight.md) — 1866 destruction of Fetterman's U.S. Army detachment, remembered as both a Lakota-allied victory and an American massacre.
 - [Great Sioux Reservation](entities/GreatSiouxReservation.md) — 1868 treaty territory whose ambiguous unceded lands and divided reception prefigured later reservation conflict.
 - [James Hollis](entities/JamesHollis.md) — Jungian psychoanalyst framing adulthood as accountable inquiry into the Self, complexes, shadow, relationship, suffering, and mortality.
@@ -2857,12 +2858,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Bloody Knife](entities/BloodyKnife.md) — Arikara scout whose warning and death connect ignored intelligence to Reno's collapse at Little Bighorn.
 - [Isaiah Dorman](entities/IsaiahDorman.md) — Black interpreter whose Lakota ties and disputed death expose crossed loyalties at Little Bighorn.
 - [Gall](entities/GallLakota.md) — Hunkpapa Lakota leader associated with the attack on Calhoun Hill and the Native victory interpretation of Little Bighorn.
-- [Crazy Horse](entities/CrazyHorse.md) — Oglala Lakota leader whose surrender, isolation, disputed mistranslation, and killing expose the coercive transition from war to confinement.
+- [Crazy Horse](entities/CrazyHorse.md) — Oglala Lakota leader whose contested visionary biography, tactical reputation, resistance, surrender, and killing bridge Plains war and coercive confinement.
 - [Wovoka](entities/Wovoka.md) — Paiute religious teacher whose peaceful renewal message became the basis of the Ghost Dance movement.
 - [James McLaughlin](entities/JamesMcLaughlin.md) — Standing Rock agent who joined paternal reform, coercive assimilation, and personal conflict with Sitting Bull.
 - [Smile Action / 微笑行动](entities/SmileAction.md) — Source-scoped volunteer medical program linking free cleft and facial-difference surgery with multidisciplinary follow-up, access burden, and psychosocial function.
-- [Sitting Bull](entities/SittingBull.md) — Lakota leader whose resistance, Canadian exile, reservation subordination, death, and commercialized afterlife made him a durable symbol of dispossession.
-- [Lakota People](entities/LakotaPeople.md) — Native people presented across military defeat, coerced reservation transition, internal diversity, survival, and contested representation.
+- [Sitting Bull](entities/SittingBull.md) — Lakota leader whose mediated visionary authority, resistance, exile, reservation subordination, death, and commercialized afterlife made him a durable symbol of dispossession.
+- [Lakota People](entities/LakotaPeople.md) — Native people presented through dynamic Plains history, military power and defeat, coerced reservation transition, internal diversity, survival, and contested representation.
 - [Black Hills](entities/BlackHills.md) — Contested region where military exploration, gold publicity, miner intrusion, and failed purchase talks pushed U.S.-Lakota relations toward war.
 - [Ghost Dance](entities/GhostDance.md) — Millenarian movement treated as hope amid dispossession, then as an object of panic, suppression, and spectacle.
 - [Wounded Knee Massacre](entities/WoundedKneeMassacre.md) — 1890 mass killing of Big Foot's surrounded Lakota band during a Seventh Cavalry disarmament operation.
@@ -13624,6 +13625,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Plains Society Historical Dynamism](concepts/PlainsSocietyHistoricalDynamism.md) — Framework replacing timeless Plains imagery with migration, technology, trade, disease, ecology, alliance, and unequal conflict.
+- [Colonial Source Mediation](concepts/ColonialSourceMediation.md) — Method for reading translated, journalistic, retrospective, and performed Indigenous evidence without literalizing or discarding it.
 - [Inflammatory Bowel Disease Management / 炎症性肠病管理](concepts/InflammatoryBowelDiseaseManagement.md) — Long-term framework joining ulcerative colitis and Crohn's recognition, remission, treatment, nutrition, complications, shared decisions, and ordinary life.
 - [IBD Patient Education and Peer Support / IBD患者教育与同伴支持](concepts/IBDPatientEducationAndPeerSupport.md) — Complementary-care model joining trustworthy knowledge, lived experience, families, clinicians, nonprofit programs, and public inclusion.
 - [Jungian Self and Ego](concepts/JungianSelfAndEgo.md) — Distinction between a necessary social ego and a deeper, interpreted organizing direction of life.

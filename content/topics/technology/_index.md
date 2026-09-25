@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3161
+topic_total_pages: 3162
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3325,6 +3325,9 @@ topic_concepts:
   - key: "PiratedStreamingBoxMalware"
     title: "Pirated Streaming Box Malware"
     url: "/wiki/concepts/piratedstreamingboxmalware/"
+  - key: "PlainsSocietyHistoricalDynamism"
+    title: "Plains Society Historical Dynamism"
+    url: "/wiki/concepts/plainssocietyhistoricaldynamism/"
   - key: "PlanetarySelfAwareness"
     title: "Planetary Self-Awareness"
     url: "/wiki/concepts/planetaryselfawareness/"

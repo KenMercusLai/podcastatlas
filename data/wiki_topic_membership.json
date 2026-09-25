@@ -1691,6 +1691,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095": [
     {
       "key": "history",
@@ -18414,6 +18421,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ColonialSourceMediation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ColorAsIdentityDisruption": [
@@ -55557,6 +55571,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PlainsSocietyHistoricalDynamism": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "PlanGrid": [

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1999
+topic_total_pages: 2001
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -187,6 +187,9 @@ topic_concepts:
   - key: "CollateralPunishmentAndGuiltByAssociation"
     title: "Collateral Punishment And Guilt By Association"
     url: "/wiki/concepts/collateralpunishmentandguiltbyassociation/"
+  - key: "ColonialSourceMediation"
+    title: "Colonial Source Mediation"
+    url: "/wiki/concepts/colonialsourcemediation/"
   - key: "CommandSynchronizationFailure"
     title: "Command Synchronization Failure / 军令同步失灵"
     url: "/wiki/concepts/commandsynchronizationfailure/"
@@ -4602,6 +4605,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648"
+    title: "448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)"
+    url: "/wiki/sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648/"
   - key: "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095"
     title: "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)"
     url: "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"

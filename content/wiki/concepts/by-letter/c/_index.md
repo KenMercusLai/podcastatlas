@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8133
+wiki_total_pages: 8135
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1280,6 +1280,9 @@ wiki_pages:
   - key: "ColonialPowerMiscalculation"
     title: "Colonial Power Miscalculation / 殖民强权误判"
     url: "/wiki/concepts/colonialpowermiscalculation/"
+  - key: "ColonialSourceMediation"
+    title: "Colonial Source Mediation"
+    url: "/wiki/concepts/colonialsourcemediation/"
   - key: "ColonialTemporalDiscipline"
     title: "Colonial Temporal Discipline"
     url: "/wiki/concepts/colonialtemporaldiscipline/"
