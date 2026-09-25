@@ -2,7 +2,7 @@
   "coverage": {
     "assigned_paragraph_ids": [
       "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
-      "74eb79386d629d2ca55bec49eed92a6123caf5236fcdfe42b2f7bbd0f76071f7",
+      "af5daa52f5fa680cca58e51d040c8d17467e18b04bce7e32016ff221bf304eb1",
       "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
       "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
       "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
@@ -725,8 +725,8 @@
     ],
     "paragraph_count": 721
   },
-  "overview_commit": "163f6cfc76da768450983e1786a3658cc1e0bd9c",
-  "overview_digest": "e8fb3c6c6641585fab1ce0c3c14be0af017ad21d82a14e1e576833ebf690b161",
+  "overview_commit": "93c3015c4d94560aef4feae6c9695630b9979cd8",
+  "overview_digest": "aa5cb3c271a5ea3a826a1871a9b05c5aa0d3de3fed192c8062551412b978d5f0",
   "paragraphs": [
     {
       "id": "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
@@ -753,24 +753,25 @@
       ]
     },
     {
-      "id": "74eb79386d629d2ca55bec49eed92a6123caf5236fcdfe42b2f7bbd0f76071f7",
+      "id": "af5daa52f5fa680cca58e51d040c8d17467e18b04bce7e32016ff221bf304eb1",
       "primary_topic": "governance-and-institutions",
       "secondary_topics": [
-        "history-and-geopolitics"
+        "psychology-and-personal-development"
       ],
-      "text": "The latest Byron-series addition is [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695|441. Lord Byron: Scandal, Sex and Celebrity (Part 2)]], a [[TheRestIsHistory]] episode extending [[LordByron|Lord Byron / 拜伦]] and [[ByronicCelebrityPolitics]] backward to their travel-and-publication origin. It adds [[JohnCamHobhouse]], [[AliPasha]], [[ChildeHaroldsPilgrimage]], and [[LordElgin]]. Its core synthesis is that Byron selectively converted war, classical ruins, sexual secrecy, Ottoman travel, danger, bodily feats, and political encounter into an alienated Romantic protagonist; publication then joined apparent autobiography, aristocratic glamour, parliamentary display, scandal, and distribution into Byromania. No settled contradiction is recorded. Anti-war and anti-plunder writing coexisted with admiration for Napoleon and fascination with despotic violence, while Byron's sexual conduct, possible intimacy with Ali Pasha, motives, reported dialogue, and the authorization and preservation consequences of Elgin's removals remain contested or source-scoped.",
+      "text": "The latest Byron-series addition is [[440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746|440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)]], a [[TheRestIsHistory]] episode extending [[LordByron|Lord Byron / 拜伦]], [[JohnCamHobhouse|John Cam Hobhouse]], and [[ByronicCelebrityPolitics]] backward into family inheritance, disability, childhood adversity, Harrow, Cambridge, sexuality, bodily discipline, debt, and early literary combat. It adds [[ByronicHero]], distinguishing the attractive, brooding, rebellious, and morally dangerous literary type from Byron's complete biography. Its core synthesis is that inherited Gothic mythology and personal damage supplied material for deliberate self-fashioning, but explanation does not erase adult responsibility; rank, beauty, literary talent, scandal, and political symbolism then made author and persona mutually amplifying. The later [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695|Part 2]] shows those materials being converted through travel, politics, and publication into Byromania. No settled contradiction is recorded. Abuse, sexuality, eating-disorder interpretation, private motives, causal psychology, reported dialogue, and direct literary-influence claims remain episode-attributed or source-scoped.",
       "topic_scores": {
         "governance-and-institutions": 2,
-        "history-and-geopolitics": 2
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 2,
+        "work-education-and-society": 1
       },
       "wikilinks": [
+        "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746",
         "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
-        "AliPasha",
         "ByronicCelebrityPolitics",
-        "ChildeHaroldsPilgrimage",
+        "ByronicHero",
         "JohnCamHobhouse",
         "LordByron",
-        "LordElgin",
         "TheRestIsHistory"
       ]
     },

@@ -22695,3 +22695,11 @@ Added source `how-to-master-growth-mindset-to-improve-performance-dr-david-yeage
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)
+
+Added source `440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746`; created `ByronicHero`; and updated `LordByron`, `JohnCamHobhouse`, `TheRestIsHistory`, `ByronicCelebrityPolitics`, and the canonical index. Core synthesis: family mythology, disability, childhood adversity, education, sexuality, bodily discipline, friendship, debt, and early literary combat formed the raw material for Byron's cultivated outsider persona, but explanation does not erase adult responsibility. No settled contradiction found; abuse, sexuality, eating-disorder interpretation, private motives, causal psychology, dialogue, and literary-influence claims remain episode-attributed or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

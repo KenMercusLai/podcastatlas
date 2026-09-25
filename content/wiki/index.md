@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)](sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746.md) — The Rest Is History on Byron's family inheritance, childhood adversity, Cambridge formation, early self-fashioning, and the Byronic hero.
 - [How to Master Growth Mindset to Improve Performance | Dr. David Yeager](sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639.md) — Huberman Lab interview on conditional growth mindset, stress appraisal, demanding support, purpose, adolescent status, and the environmental requirements for durable change.
 - [GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine](sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999.md) — Huberman Lab sleep-series episode on lifespan sleep architecture, nap timing, sleep pressure, caffeine, liminal rest, and adult polyphasic-sleep risks.
 - [VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医](sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv.md) — 这病说来话长 episode on dream meaning, sleep stages, recall, bodily and emotional context, daytime impairment, sleepwalking, and clinical escalation.
@@ -13678,6 +13679,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Byronic Hero](concepts/ByronicHero.md) — Attractive, brooding, rebellious, and morally dangerous literary type amplified by Byron's public persona.
 - [Growth Mindset](concepts/GrowthMindset.md) — Belief that domain-specific ability can change under suitable conditions and support, distinct from effort-only optimism.
 - [Mentor Mindset Feedback](concepts/MentorMindsetFeedback.md) — Demanding feedback that pairs high standards with confidence, practical support, and a credible route to improvement.
 - [Purpose-Integrated Motivation](concepts/PurposeIntegratedMotivation.md) — Motivation model joining skill growth and plausible personal benefit to contribution beyond the self.

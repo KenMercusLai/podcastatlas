@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2824
+topic_total_pages: 2826
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -529,6 +529,9 @@ topic_concepts:
   - key: "ByronicCelebrityPolitics"
     title: "Byronic Celebrity Politics"
     url: "/wiki/concepts/byroniccelebritypolitics/"
+  - key: "ByronicHero"
+    title: "Byronic Hero"
+    url: "/wiki/concepts/byronichero/"
   - key: "CainMarkReinterpretation"
     title: "Cain Mark Reinterpretation / 该隐印记重释"
     url: "/wiki/concepts/cainmarkreinterpretation/"
@@ -7809,6 +7812,9 @@ topic_sources:
   - key: "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308"
     title: "44.运气的诱饵：赌博成瘾，因为我们害怕自由"
     url: "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
+  - key: "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746"
+    title: "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)"
+    url: "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
   - key: "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695"
     title: "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)"
     url: "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"

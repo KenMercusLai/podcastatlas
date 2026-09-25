@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8176
+wiki_total_pages: 8177
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "ByronicCelebrityPolitics"
     title: "Byronic Celebrity Politics"
     url: "/wiki/concepts/byroniccelebritypolitics/"
+  - key: "ByronicHero"
+    title: "Byronic Hero"
+    url: "/wiki/concepts/byronichero/"
   - key: "ByteDanceGrowthSystem"
     title: "ByteDance Growth System"
     url: "/wiki/concepts/bytedancegrowthsystem/"

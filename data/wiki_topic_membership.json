@@ -1691,6 +1691,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695": [
     {
       "key": "history",
@@ -14470,6 +14482,13 @@
       "label": "Politics",
       "url": "/topics/politics/"
     },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ByronicHero": [
     {
       "key": "culture",
       "label": "Culture",

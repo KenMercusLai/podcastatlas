@@ -17645,9 +17645,9 @@
       "url": "/wiki/entities/byhealth/"
     },
     "ByronicCelebrityPolitics": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT3247503776 [GLT3247503776].md",
@@ -17669,10 +17669,33 @@
           "show": "The Rest Is History",
           "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
           "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        },
+        {
+          "episode_file": "GLT4389862746 [GLT4389862746].md",
+          "key": "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746",
+          "show": "The Rest Is History",
+          "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
+          "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
         }
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/byroniccelebritypolitics/"
+    },
+    "ByronicHero": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT4389862746 [GLT4389862746].md",
+          "key": "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746",
+          "show": "The Rest Is History",
+          "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
+          "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/byronichero/"
     },
     "ByzantineCourtCultureTransfer": {
       "episode_count": 1,
@@ -74691,9 +74714,9 @@
       "url": "/wiki/entities/johncade/"
     },
     "JohnCamHobhouse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1954408695 [GLT1954408695].md",
@@ -74701,6 +74724,13 @@
           "show": "The Rest Is History",
           "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
           "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        },
+        {
+          "episode_file": "GLT4389862746 [GLT4389862746].md",
+          "key": "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746",
+          "show": "The Rest Is History",
+          "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
+          "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
         }
       ],
       "updated": "2026-09-26",
@@ -86787,9 +86817,9 @@
       "url": "/wiki/entities/lopedeaguirre/"
     },
     "LordByron": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 2,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -86825,6 +86855,13 @@
           "show": "The Rest Is History",
           "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
           "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        },
+        {
+          "episode_file": "GLT4389862746 [GLT4389862746].md",
+          "key": "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746",
+          "show": "The Rest Is History",
+          "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
+          "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
         }
       ],
       "updated": "2026-09-26",
@@ -136061,9 +136098,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 29,
+      "episode_count": 30,
       "show_count": 1,
-      "source_note_count": 29,
+      "source_note_count": 30,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -136267,6 +136304,13 @@
           "show": "The Rest Is History",
           "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
           "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        },
+        {
+          "episode_file": "GLT4389862746 [GLT4389862746].md",
+          "key": "440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746",
+          "show": "The Rest Is History",
+          "title": "440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)",
+          "url": "/wiki/sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746/"
         }
       ],
       "updated": "2026-09-26",
