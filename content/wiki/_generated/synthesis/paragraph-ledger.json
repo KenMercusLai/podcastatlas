@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "74eb79386d629d2ca55bec49eed92a6123caf5236fcdfe42b2f7bbd0f76071f7",
       "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
       "8e01eb07604ed4ec013b671d74c4674769c3bd8a20ed6ad90a6b95ab3563d608",
       "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
@@ -719,11 +720,33 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 717
+    "paragraph_count": 718
   },
-  "overview_commit": "1ff81a8ffc5c5a7e140afef9fd90363b86a6081b",
-  "overview_digest": "6418972526ce46f2cc4a68e14aa9a0786552197d6c0a2ca992b9223de18d182a",
+  "overview_commit": "27a1edc2e51d66ede063be39f6dcde6ea2b58f0e",
+  "overview_digest": "0aee916f0797b83ba7941a5dbebaf1675e6e48784c7f4d94e0ff4e9488035bac",
   "paragraphs": [
+    {
+      "id": "74eb79386d629d2ca55bec49eed92a6123caf5236fcdfe42b2f7bbd0f76071f7",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest Byron-series addition is [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695|441. Lord Byron: Scandal, Sex and Celebrity (Part 2)]], a [[TheRestIsHistory]] episode extending [[LordByron|Lord Byron / 拜伦]] and [[ByronicCelebrityPolitics]] backward to their travel-and-publication origin. It adds [[JohnCamHobhouse]], [[AliPasha]], [[ChildeHaroldsPilgrimage]], and [[LordElgin]]. Its core synthesis is that Byron selectively converted war, classical ruins, sexual secrecy, Ottoman travel, danger, bodily feats, and political encounter into an alienated Romantic protagonist; publication then joined apparent autobiography, aristocratic glamour, parliamentary display, scandal, and distribution into Byromania. No settled contradiction is recorded. Anti-war and anti-plunder writing coexisted with admiration for Napoleon and fascination with despotic violence, while Byron's sexual conduct, possible intimacy with Ali Pasha, motives, reported dialogue, and the authorization and preservation consequences of Elgin's removals remain contested or source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+        "AliPasha",
+        "ByronicCelebrityPolitics",
+        "ChildeHaroldsPilgrimage",
+        "JohnCamHobhouse",
+        "LordByron",
+        "LordElgin",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "f38ecfc99f189bfa1e54378e30bb3b76f11ede63afa3e40aab557b0cf90b334e",
       "primary_topic": "culture-and-media",

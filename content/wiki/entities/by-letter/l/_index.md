@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10797
+wiki_total_pages: 10801
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "LordByron"
     title: "Lord Byron / 拜伦"
     url: "/wiki/entities/lordbyron/"
+  - key: "LordElgin"
+    title: "Lord Elgin"
+    url: "/wiki/entities/lordelgin/"
   - key: "LordOfTheFlies"
     title: "Lord of the Flies / 《蝇王》"
     url: "/wiki/entities/lordoftheflies/"

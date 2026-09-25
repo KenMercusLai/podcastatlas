@@ -1691,6 +1691,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "442-lord-byron-dangerous-liaisons-part-3-glt1176702097": [
     {
       "key": "history",
@@ -16560,6 +16572,13 @@
     }
   ],
   "ChildPoeticExpression": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ChildeHaroldsPilgrimage": [
     {
       "key": "culture",
       "label": "Culture",
@@ -40664,6 +40683,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "JohnCamHobhouse": [
     {
       "key": "politics",
       "label": "Politics",

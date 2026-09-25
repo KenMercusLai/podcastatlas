@@ -7025,6 +7025,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/algorithmictrustmigration/"
     },
+    "AliPasha": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/alipasha/"
+    },
     "AliceFullwood": {
       "episode_count": 1,
       "show_count": 1,
@@ -17590,9 +17606,9 @@
       "url": "/wiki/entities/byhealth/"
     },
     "ByronicCelebrityPolitics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3247503776 [GLT3247503776].md",
@@ -17607,6 +17623,13 @@
           "show": "The Rest Is History",
           "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
           "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
+        },
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
         }
       ],
       "updated": "2026-09-26",
@@ -23437,6 +23460,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/childbearingirreversibility/"
+    },
+    "ChildeHaroldsPilgrimage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/childeharoldspilgrimage/"
     },
     "ChimeiRebellion": {
       "episode_count": 14,
@@ -74513,6 +74552,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/johncade/"
     },
+    "JohnCamHobhouse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johncamhobhouse/"
+    },
     "JohnDee": {
       "episode_count": 1,
       "show_count": 1,
@@ -86587,9 +86642,9 @@
       "url": "/wiki/entities/lopedeaguirre/"
     },
     "LordByron": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 2,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
@@ -86618,10 +86673,33 @@
           "show": "The Rest Is History",
           "title": "442. Lord Byron: Dangerous Liaisons (Part 3)",
           "url": "/wiki/sources/442-lord-byron-dangerous-liaisons-part-3-glt1176702097/"
+        },
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
         }
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/lordbyron/"
+    },
+    "LordElgin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/lordelgin/"
     },
     "LordOfTheFlies": {
       "episode_count": 1,
@@ -135693,9 +135771,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 28,
+      "episode_count": 29,
       "show_count": 1,
-      "source_note_count": 28,
+      "source_note_count": 29,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -135892,6 +135970,13 @@
           "show": "The Rest Is History",
           "title": "443. Lord Byron: Death of a Vampire (Part 4)",
           "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        },
+        {
+          "episode_file": "GLT1954408695 [GLT1954408695].md",
+          "key": "441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695",
+          "show": "The Rest Is History",
+          "title": "441. Lord Byron: Scandal, Sex and Celebrity (Part 2)",
+          "url": "/wiki/sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695/"
         }
       ],
       "updated": "2026-09-26",

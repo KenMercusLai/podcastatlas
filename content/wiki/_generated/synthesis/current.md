@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: 1ff81a8ffc5c5a7e140afef9fd90363b86a6081b
+as_of_overview_commit: 27a1edc2e51d66ede063be39f6dcde6ea2b58f0e
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2832
-source_count: 2832
-paragraph_count: 717
+episode_count: 2833
+source_count: 2833
+paragraph_count: 718
 topic_count: 9
 ---
 
@@ -54,14 +54,14 @@ Media form, materiality, provenance, audience practice, and situated interpretat
 
 ### Governance and Institutions
 
-Institutions turn power into order through capacity, evidence, legitimacy, accountability, and safeguards against coercion and category error.
+Institutions turn power into order through capacity, evidence, legitimacy, accountability, and safeguards against coercion and category error; authored celebrity can also become informal public power.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].
 
 ### History and Geopolitics
 
-Historical outcomes join legitimacy and material capacity to bargaining, logistics, coalition, testimony, memory, and disciplined uncertainty.
+Historical outcomes join legitimacy and material capacity to bargaining, logistics, coalition, testimony, memory, and disciplined uncertainty, including the selective conversion of travel into political-cultural myth.
 
 - [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202|Peter Part 1]] extends the [[GreatNorthernWar|Great Northern War]] sequence back to the [[MoscowUprising1682|1682 succession crisis]]: genuine [[Streltsy]] grievances and dynastic manipulation produce Kremlin violence and [[SophiaAlekseyevna|Sophia]]'s regency, while Peter's mock regiments, technical craft, foreign contacts, and sailing form a practical-military identity inside an already Westernizing court under [[VasilyGolitsyn|Golitsyn]]. [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819|Peter Part 2]] then turns the [[GreatEmbassy]] into technical recruitment without political limits, joins [[CoerciveWesternization]] and the Streltsy purge to autocratic consolidation, and uses [[AugustusTheStrong|Augustus the Strong]] plus an Ottoman truce to redirect [[PeterTheGreat|Peter]] toward Sweden. [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070|War Part 1]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243|Part 2]], and [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587|Part 3]] show outcomes working through systems: [[BattleOfNarva|Narva]] drives Russian reform and [[SaintPetersburg|Baltic consolidation]], before resource denial, [[BattleOfLesnaya|Lesnaya]], [[Baturin]], winter, absent allies, injury, and divided command let [[BattleOfPoltava|Poltava]] convert capacity into decline of the [[SwedishEmpire]] and ascent of the [[RussianEmpire]]. Evidence: [[562-peter-the-great-the-rise-of-russia-part-1-glt5535116202]], [[563-peter-the-great-bloodbath-in-the-kremlin-part-2-glt4388388819]], [[564-the-great-northern-war-the-battle-of-the-baltic-part-1-glt2662789070]], [[565-the-great-northern-war-revenge-of-the-cossacks-part-2-glt1223770243]], [[566-the-great-northern-war-slaughter-on-the-steppes-part-3-glt4679437587]], [[MoscowUprising1682]], [[SophiaAlekseyevna]], [[VasilyGolitsyn]], [[BattleOfNarva]], [[SaintPetersburg]], [[BattleOfPoltava]], [[BattleOfLesnaya]], [[Baturin]], [[CharlesXII]], [[PeterTheGreat]], [[SwedishEmpire]], [[RussianEmpire]], [[GreatNorthernWar]], [[GreatEmbassy]], [[CoerciveWesternization]], [[Streltsy]], [[AugustusTheStrong]].
 - [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o|Episode 501]] adds [[QingMidDynastyAccumulatedMaladies|a mid-Qing case]] in which underfunded implementation, embedded interests, [[GovernanceNormalizationParadox|procedural accretion]], and [[AdministrativeInformationConformity|safe information channels]] weaken problem solving before open disorder, while [[DynasticCyclePerception|different cycle perceptions]] shape reform and [[StatecraftGenerationRelay|personnel preparation]]. Evidence: [[501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o]], [[QingMidDynastyAccumulatedMaladies]], [[GovernanceNormalizationParadox]], [[AdministrativeInformationConformity]], [[DynasticCyclePerception]], [[StatecraftGenerationRelay]].

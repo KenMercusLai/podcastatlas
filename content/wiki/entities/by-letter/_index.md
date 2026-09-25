@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10797
+wiki_total_pages: 10801
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -635,6 +635,9 @@ wiki_pages:
   - key: "AliKhamenei"
     title: "Ali Khamenei"
     url: "/wiki/entities/alikhamenei/"
+  - key: "AliPasha"
+    title: "Ali Pasha"
+    url: "/wiki/entities/alipasha/"
   - key: "Alibaba"
     title: "Alibaba"
     url: "/wiki/entities/alibaba/"

@@ -22659,3 +22659,11 @@ Added source `vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 441. Lord Byron: Scandal, Sex and Celebrity (Part 2)
+
+Added source `441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695`; created `JohnCamHobhouse`, `AliPasha`, `ChildeHaroldsPilgrimage`, and `LordElgin`; and updated `LordByron`, `ByronicCelebrityPolitics`, `TheRestIsHistory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Byron selectively converted Mediterranean travel, war, classical imagination, sexual secrecy, Ottoman encounter, bodily adventure, and political observation into the Childe Harold persona, then joined poetry, aristocratic glamour, parliamentary display, publishing, and scandal into Byromania. No settled contradiction found. His sexual conduct, possible intimacy with Ali Pasha, private motives, reported dialogue, anti-war consistency, and the authorization and preservation consequences surrounding Elgin's removals remain contested or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

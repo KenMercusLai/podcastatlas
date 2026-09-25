@@ -31,6 +31,7 @@ sources:
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 462-st-george-dragon-slayer-glt5334319363
   - 443-lord-byron-death-of-a-vampire-part-4-glt3247503776
+  - 441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -57,7 +58,7 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates an uncertain martyr core from late torture stories, mounted serpent imagery, the dragon rescue narrative, [[OrderOfTheGarter|Garter]] patronage, Protestant allegory, English national use, and transnational veneration. The result treats skepticism as part of the tradition's own history and symbolic flexibility as a historical outcome rather than evidence that every legend is true.
 
-The Byron branch uses the final episode of a longer sequence to connect the 1816 Geneva circle, [[JohnPolidori|John Polidori / 约翰·波利多里]]'s [[AristocraticVampire|aristocratic vampire]], Venetian and Italian exile, radical publishing, and the [[GreekWarOfIndependence|Greek War of Independence]]. It treats celebrity as transferable political and literary power while distinguishing performance from material commitment and refusing to let Byron's death erase private harm.
+The Byron branch now joins the sequence's travel-and-fame origin to its exile finale. [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] follows Mediterranean travel, wartime observation, Ottoman and Greek settings, [[AliPasha|Ali Pasha]], the [[LordElgin|Elgin]] controversy, [[ChildeHaroldsPilgrimage|Childe Harold's Pilgrimage]], and Byromania; the final episode then connects the 1816 Geneva circle, [[JohnPolidori|John Polidori / 约翰·波利多里]]'s [[AristocraticVampire|aristocratic vampire]], Venetian and Italian exile, radical publishing, and the [[GreekWarOfIndependence|Greek War of Independence]]. Together they treat celebrity as authored literary identity and transferable political power while distinguishing performance from material commitment and refusing to let Byron's death erase private harm.
 
 ## Key Characteristics
 
@@ -87,15 +88,17 @@ The Byron branch uses the final episode of a longer sequence to connect the 1816
 - National-symbol and sport-politics branch: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]], [[680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543]], [[679-germany-the-song-hitler-stole-part-3-glt6217148052]], [[678-britain-god-save-the-king-part-2-glt2603959218]], and [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] use Brazil, the Netherlands, Germany, Britain, and fascist Italy to compare political plasticity, loyal rebellion, selective anthem canonization, constituent-nation sporting identity, and authoritarian sports propaganda.
 - Legendary saint and symbolic-afterlife branch: [[462-st-george-dragon-slayer-glt5334319363]] separates uncertain late-antique history from martyr legend, dragon-slayer imagery, chivalric institutions, Reformation reuse, and modern national contest.
 - Romantic celebrity and political-action branch: [[443-lord-byron-death-of-a-vampire-part-4-glt3247503776]] follows Byron from the Geneva vampire afterlife through Italian exile and politics to money, liaison work, illness, and death at Missolonghi.
+- Romantic celebrity origin branch: [[441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695]] follows travel with [[JohnCamHobhouse]], literary self-fashioning, the Ali Pasha and Elgin encounters, publication of *Childe Harold*, and the birth of Byromania.
 
 ## Qualifications
 
-This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron branch is one final installment rather than a complete life or literary study, and the fatal diagnosis, private motives, reported dialogue, and degree of political usefulness remain source-scoped.
+This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron branch remains two installments rather than a complete life or literary study, and sexual conduct, private motives, reported dialogue, the Elgin controversy, fatal diagnosis, and degree of political usefulness remain source-scoped.
 
 ## What Changed
 
 - Added the Byron finale as a Romantic celebrity, Gothic afterlife, Italian politics, and Greek independence branch.
 - Added the St George episode as a legend-and-symbol branch that distinguishes historical uncertainty from the saint's well-attested cultural afterlife.
+- Added the Byron travel and publication origin, connecting *Childe Harold* and Byromania to the later exile branch.
 
 ## Relationships
 
@@ -174,6 +177,8 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 - [[SaintLegendAccretion]] - framework for the episode's separation of historical core, martyr story, imagery, and later narrative.
 - [[PatronSaintSymbolicPlasticity]] - framework for George's survival across royal, confessional, national, and sporting reuse.
 - [[LordByron]] - Romantic poet whose scandal, exile, literature, and political action anchor the new branch.
+- [[ChildeHaroldsPilgrimage]] - poem through which Mediterranean travel became mass literary persona.
+- [[JohnCamHobhouse]] - companion and counter-witness in the travel branch.
 - [[AristocraticVampire]] - Gothic type through which Byron's persona acquired an independent literary afterlife.
 - [[ByronicCelebrityPolitics]] - framework joining public image to literary, financial, diplomatic, and political capacity.
 - [[GreekWarOfIndependence]] - conflict setting for Byron's final material and symbolic commitment.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2704
+topic_total_pages: 2705
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5492,6 +5492,9 @@ topic_entities:
   - key: "JohnBogle"
     title: "John Bogle"
     url: "/wiki/entities/johnbogle/"
+  - key: "JohnCamHobhouse"
+    title: "John Cam Hobhouse"
+    url: "/wiki/entities/johncamhobhouse/"
   - key: "JohnFetterman"
     title: "John Fetterman"
     url: "/wiki/entities/johnfetterman/"
