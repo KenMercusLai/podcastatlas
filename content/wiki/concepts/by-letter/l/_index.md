@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8135
+wiki_total_pages: 8139
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "LuWineHandanWarCascade"
     title: "Lu Wine Handan War Cascade / 鲁酒薄而邯郸围"
     url: "/wiki/concepts/luwinehandanwarcascade/"
+  - key: "LucidDreamingEvidenceBoundary"
+    title: "Lucid Dreaming Evidence Boundary"
+    url: "/wiki/concepts/luciddreamingevidenceboundary/"
   - key: "LuckAsInformationBandwidth"
     title: "Luck As Information Bandwidth"
     url: "/wiki/concepts/luckasinformationbandwidth/"

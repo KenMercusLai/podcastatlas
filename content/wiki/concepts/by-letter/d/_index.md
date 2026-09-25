@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8135
+wiki_total_pages: 8139
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -947,6 +947,9 @@ wiki_pages:
   - key: "DrawdownPsychology"
     title: "Drawdown Psychology"
     url: "/wiki/concepts/drawdownpsychology/"
+  - key: "DreamFunctionAndMeaning"
+    title: "Dream Function and Meaning"
+    url: "/wiki/concepts/dreamfunctionandmeaning/"
   - key: "DreamLogicNarrative"
     title: "Dream Logic Narrative"
     url: "/wiki/concepts/dreamlogicnarrative/"

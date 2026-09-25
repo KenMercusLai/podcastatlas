@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8135
+wiki_total_pages: 8139
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "NightlifeMayor"
     title: "Nightlife Mayor"
     url: "/wiki/concepts/nightlifemayor/"
+  - key: "NightmareImageryRehearsalTherapy"
+    title: "Nightmare Imagery Rehearsal Therapy"
+    url: "/wiki/concepts/nightmareimageryrehearsaltherapy/"
   - key: "NighttimeEconomyGovernance"
     title: "Nighttime Economy Governance"
     url: "/wiki/concepts/nighttimeeconomygovernance/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8135
+wiki_total_pages: 8139
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "TargetDateFund"
     title: "Target-Date Fund / 目标日期基金"
     url: "/wiki/concepts/targetdatefund/"
+  - key: "TargetedMemoryReactivation"
+    title: "Targeted Memory Reactivation"
+    url: "/wiki/concepts/targetedmemoryreactivation/"
   - key: "TargetedSupplementNeedAssessment"
     title: "Targeted Supplement Need Assessment / 针对性补剂需求判断"
     url: "/wiki/concepts/targetedsupplementneedassessment/"

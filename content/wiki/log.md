@@ -22297,6 +22297,10 @@ Added source `464-modern-british-elections-part-2-glt4046145085`; created `Briti
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-25] ingest | GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming
+
+Added source `guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951`; created `MatthewWalker`, `DreamFunctionAndMeaning`, `NightmareImageryRehearsalTherapy`, `TargetedMemoryReactivation`, and `LucidDreamingEvidenceBoundary`; and updated `REMEmotionalMemorySeparation`, `SleepStageFunctionalArchitecture`, `SleepAnxietyLoop`, and `SleepSupplementBoundary` from their complete bounded source sets. Core synthesis: vivid REM dreams arise from a distinctive active, emotional, associative, and weakly executive brain state; dream content carries concerns more reliably than literal replay; nightmare rescripting and learned sleep cues may update distressing memories; and lucid awareness is experimentally verifiable even though control, induction, restoration, and benefit remain unsettled. No settled contradiction found. Animal deprivation, dream-decoding, treatment response, cueing, lucid-dreaming, supplement, medication, and menopause claims remain source-scoped public education rather than individualized care. The canonical `wiki/overview.md` was updated during ingest; the downstream synthesis-refresh workflow only reads it.
+
 ## [2026-09-25] ingest | 453. Custer's Last Stand: The Final Showdown (Part 8)
 
 Added source `453-custers-last-stand-the-final-showdown-part-8-glt8261745977`; created `BattleOfLittleBighorn`, `GeorgeArmstrongCuster`, `FrederickBenteen`, `MarcusReno`, `GallLakota`, `BattlefieldReconstructionUnderUncertainty`, and `HeroicLastStandMyth`; and updated `CrazyHorse`, `SittingBull`, and `LakotaPeople` from their complete bounded source sets. Core synthesis: Little Bighorn was both a U.S. command failure and a Lakota-Cheyenne victory produced through coalition, leadership, confidence, numbers, and weapons; its final phase remains probabilistic because no soldier with Custer survived, while later memory compressed a dispersed collapse into a heroic last stand. No settled contradiction found. Exact movements, timings, motives, testimony conflicts, weapon distributions, casualty figures, and individual deaths remain source-scoped. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22506,6 +22510,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)
 
 Added source `448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648`; created `PlainsSocietyHistoricalDynamism` and `ColonialSourceMediation`; and updated `CrazyHorse`, `SittingBull`, `LakotaPeople`, and `RedCloud` from their complete bounded source sets. Core synthesis: Plains life was historically reshaped by horses, firearms, trade, disease, migration, ecology, alliance, and conquest, while treaty failure, settler infrastructure, bison destruction, and U.S. demographic power made the wider conflict profoundly unequal; Crazy Horse's warrior formation, visions, ritual identity, and tactical reputation remain meaningful but heavily mediated. No settled contradiction found. Population, epidemic, territorial, treaty, gender, biographical, visionary, performance, and quotation claims remain source-scoped. The canonical `wiki/overview.md` was updated during the normal ingest; the downstream synthesis-refresh workflow only read it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

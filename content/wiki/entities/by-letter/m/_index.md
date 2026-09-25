@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10775
+wiki_total_pages: 10776
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "MatthewRoss"
     title: "Matthew Ross"
     url: "/wiki/entities/matthewross/"
+  - key: "MatthewWalker"
+    title: "Matthew Walker"
+    url: "/wiki/entities/matthewwalker/"
   - key: "MaudLewis"
     title: "Maud Lewis / 莫娣"
     url: "/wiki/entities/maudlewis/"

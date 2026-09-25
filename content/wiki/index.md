@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming](sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951.md) — Huberman Lab sleep-series finale on REM and non-REM dreaming, emotional processing, nightmare rescripting, sleep cueing, lucid-dream evidence, and common sleep questions.
 - [448. Custer vs. Crazy Horse: Horse-Lords of the Plains (Part 3)](sources/448-custer-vs-crazy-horse-horse-lords-of-the-plains-part-3-glt4947798648.md) — The Rest Is History episode on dynamic Plains history, Lakota regional power, settler expansion, source mediation, and Crazy Horse's warrior and visionary identity.
 - [VOL.113消化内科｜从“少见病”到“常见病” 你应该认识它了｜IBD日专题](sources/vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu.md) — 这病说来话长 episode on inflammatory bowel disease recognition, remission-oriented care, patient experience, and CCCF education, peer support, and advocacy.
 - [449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)](sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095.md) — The Rest Is History episode on Sitting Bull's warrior and spiritual authority, the Fetterman victory, the 1868 reservation split, and renewed railroad pressure.
@@ -2836,6 +2837,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [Matthew Walker](entities/MatthewWalker.md) — Sleep scientist explaining REM and non-REM dreams, emotional memory, nightmares, lucid dreaming, and evidence-bounded sleep practice.
 - [Li Jingnan / 李景南](entities/LiJingnan.md) — Gastroenterologist explaining IBD recognition, remission, long-term treatment, complications, surgery timing, and shared decisions.
 - [Meng Jun / 孟君 (IBD Advocate)](entities/MengJunIBDAdvocate.md) — Patient and nonprofit communicator connecting severe IBD onset, clinical remission, maintenance care, and public education.
 - [Fu Haoran / 傅浩然 (IBD Advocate)](entities/FuHaoranIBDAdvocate.md) — Crohn's disease patient and peer educator describing delayed diagnosis, severe complications, recovery, and social-media support.
@@ -13625,6 +13627,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Dream Function and Meaning](concepts/DreamFunctionAndMeaning.md) — Evidence-bounded frame for stage-dependent dreaming, associative and emotional functions, and personal rather than universal interpretation.
+- [Nightmare Imagery Rehearsal Therapy](concepts/NightmareImageryRehearsalTherapy.md) — Clinician-guided rescripting and rehearsal of recurrent nightmares through a proposed memory-reconsolidation mechanism.
+- [Targeted Memory Reactivation](concepts/TargetedMemoryReactivation.md) — Experimental pairing and sleep replay of sensory cues to bias memory or therapeutic processing.
+- [Lucid Dreaming Evidence Boundary](concepts/LucidDreamingEvidenceBoundary.md) — Boundary separating verified dream awareness from uncertain control, induction reliability, restorative cost, and benefit.
 - [Plains Society Historical Dynamism](concepts/PlainsSocietyHistoricalDynamism.md) — Framework replacing timeless Plains imagery with migration, technology, trade, disease, ecology, alliance, and unequal conflict.
 - [Colonial Source Mediation](concepts/ColonialSourceMediation.md) — Method for reading translated, journalistic, retrospective, and performed Indigenous evidence without literalizing or discarding it.
 - [Inflammatory Bowel Disease Management / 炎症性肠病管理](concepts/InflammatoryBowelDiseaseManagement.md) — Long-term framework joining ulcerative colitis and Crohn's recognition, remission, treatment, nutrition, complications, shared decisions, and ordinary life.

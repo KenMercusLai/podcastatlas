@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1198
+topic_total_pages: 1202
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1078,6 +1078,9 @@ topic_concepts:
   - key: "LowStatusSyndrome"
     title: "Low-Status Syndrome / 低地位综合症"
     url: "/wiki/concepts/lowstatussyndrome/"
+  - key: "LucidDreamingEvidenceBoundary"
+    title: "Lucid Dreaming Evidence Boundary"
+    url: "/wiki/concepts/luciddreamingevidenceboundary/"
   - key: "LunarIndustrialization"
     title: "Lunar Industrialization"
     url: "/wiki/concepts/lunarindustrialization/"
@@ -1942,6 +1945,9 @@ topic_concepts:
   - key: "SystemicLupusErythematosusManagement"
     title: "Systemic Lupus Erythematosus Management / 系统性红斑狼疮管理"
     url: "/wiki/concepts/systemiclupuserythematosusmanagement/"
+  - key: "TargetedMemoryReactivation"
+    title: "Targeted Memory Reactivation"
+    url: "/wiki/concepts/targetedmemoryreactivation/"
   - key: "TechCultureBiohacking"
     title: "Tech-Culture Biohacking"
     url: "/wiki/concepts/techculturebiohacking/"
@@ -2561,6 +2567,9 @@ topic_entities:
   - key: "MatthewHill"
     title: "Matthew Hill"
     url: "/wiki/entities/matthewhill/"
+  - key: "MatthewWalker"
+    title: "Matthew Walker"
+    url: "/wiki/entities/matthewwalker/"
   - key: "MaxBennett"
     title: "Max Bennett"
     url: "/wiki/entities/maxbennett/"
@@ -3378,6 +3387,9 @@ topic_sources:
   - key: "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128"
     title: "Gig workers train humanoids on household chores"
     url: "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+  - key: "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951"
+    title: "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming"
+    url: "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
   - key: "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6"
     title: "Gulf-co-operation counsel: what next for the region"
     url: "/wiki/sources/gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6/"

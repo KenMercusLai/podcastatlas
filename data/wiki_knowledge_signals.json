@@ -37134,6 +37134,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/dreamfacetechnologies/"
     },
+    "DreamFunctionAndMeaning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/dreamfunctionandmeaning/"
+    },
     "DriverAIAgency": {
       "episode_count": 1,
       "show_count": 1,
@@ -87098,6 +87114,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/lucenttechnologies/"
     },
+    "LucidDreamingEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/luciddreamingevidenceboundary/"
+    },
     "LuciusCorneliusCinna": {
       "episode_count": 2,
       "show_count": 1,
@@ -91024,6 +91056,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/matthewhill/"
+    },
+    "MatthewWalker": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/matthewwalker/"
     },
     "MauricePaleologue": {
       "episode_count": 1,
@@ -98108,6 +98156,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/nietengfei/"
+    },
+    "NightmareImageryRehearsalTherapy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/nightmareimageryrehearsaltherapy/"
     },
     "NighttimeEconomyGovernance": {
       "episode_count": 2,
@@ -112401,9 +112465,9 @@
       "url": "/wiki/entities/qwentablet/"
     },
     "REMEmotionalMemorySeparation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -112411,9 +112475,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/rememotionalmemoryseparation/"
     },
     "RMSLusitania": {
@@ -124774,9 +124845,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAnxietyLoop": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "tech_20260811_0811_MP_TECH_pod_128 [tech_20260811_0811_MP_TECH_pod_128].md",
@@ -124798,9 +124869,16 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/sleepanxietyloop/"
     },
     "SleepAsDailyHealthAccount": {
@@ -124915,9 +124993,9 @@
       "url": "/wiki/concepts/sleepspindleschemaformation/"
     },
     "SleepStageFunctionalArchitecture": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM7156610982 [SCIM7156610982].md",
@@ -124946,15 +125024,22 @@
           "show": "Huberman Lab",
           "title": "AMA #18: Cold Therapy Advice, Skin Health Tips, Motivation, Learning Strategies & More",
           "url": "/wiki/sources/ama-18-cold-therapy-advice-skin-health-tips-motivation-learning-strategies-more-scim1100391235/"
+        },
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/sleepstagefunctionalarchitecture/"
     },
     "SleepSupplementBoundary": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -124976,9 +125061,16 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/sleepsupplementboundary/"
     },
     "SleepTemperatureToolkit": {
@@ -132962,6 +133054,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/taokan/"
+    },
+    "TargetedMemoryReactivation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698271951 [SCIM1698271951].md",
+          "key": "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/targetedmemoryreactivation/"
     },
     "TargetedSupplementNeedAssessment": {
       "episode_count": 1,

@@ -45591,6 +45591,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LucidDreamingEvidenceBoundary": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LuciusCorneliusCinna": [
     {
       "key": "politics",
@@ -47300,6 +47307,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "MatthewWalker": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MaudLewis": [
@@ -70536,6 +70550,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "TargetedMemoryReactivation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "TariffComplianceTest": [
     {
       "key": "economics",
@@ -85743,6 +85764,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "gulf-co-operation-counsel-what-next-for-the-region-6a4387d73fa89e3338f83da6": [

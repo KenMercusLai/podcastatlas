@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
       "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
       "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
       "1729088f961a00bc2af68fa44edab26e5981527d21f25b1394499ae9a7f5a2e2",
@@ -708,11 +709,34 @@
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e"
     ],
-    "paragraph_count": 706
+    "paragraph_count": 707
   },
-  "overview_commit": "ac754b96254651d53eacea1e6f3ad7cd3d07b8a6",
-  "overview_digest": "617133b336372d36878cdfd7f6a2be541a647cd1b0498d58ad1f91589b33ab37",
+  "overview_commit": "0e0a8687543138dfae3fbebbcb8225771e89f209",
+  "overview_digest": "5fc1abb7001e53003533ec02a4fe2d5b9b55d30426959ed3a4b59c545f18e913",
   "paragraphs": [
+    {
+      "id": "b1dc350ae25c5df84684c7b9df06f0b4d5b077ce12c197ee9fe287deb315c0d6",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The newest sleep-and-dream source, [[guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951|GUEST SERIES | Dr. Matt Walker: The Science of Dreams, Nightmares & Lucid Dreaming]], has [[AndrewHuberman]] and [[MatthewWalker]] connect [[DreamFunctionAndMeaning]], [[SleepStageFunctionalArchitecture]], and [[REMEmotionalMemorySeparation]] with [[NightmareImageryRehearsalTherapy]], [[TargetedMemoryReactivation]], and [[LucidDreamingEvidenceBoundary]]. Its core health synthesis is that vivid REM dreams arise from an active, emotional, associative, and weakly executive brain state; dreams carry concerns and significant people more reliably than literal replay; nightmare rescripting and learned sleep cues may update distressing memories; and lucid awareness is experimentally verifiable even though control, induction, restoration, and benefit remain unsettled. [[SleepAnxietyLoop]] is extended through clock-checking and effortful attempts to force sleep, while regularity and behavioral foundations remain upstream of supplement or medication claims. No settled contradiction is recorded; older animal deprivation, dream-decoding, treatment response, cueing, replay-speed, lucid-dreaming, supplement, medication, and menopause claims remain source-scoped public education rather than individualized care.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "science-health-and-climate": 3,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "DreamFunctionAndMeaning",
+        "LucidDreamingEvidenceBoundary",
+        "MatthewWalker",
+        "NightmareImageryRehearsalTherapy",
+        "REMEmotionalMemorySeparation",
+        "SleepAnxietyLoop",
+        "SleepStageFunctionalArchitecture",
+        "TargetedMemoryReactivation",
+        "guest-series-dr-matt-walker-the-science-of-dreams-nightmares-lucid-dreaming-scim1698271951"
+      ]
+    },
     {
       "id": "250017c5780cde48e034e19cf9ad88a3ed506c7f378909ee49414813542e1278",
       "primary_topic": "science-health-and-climate",
