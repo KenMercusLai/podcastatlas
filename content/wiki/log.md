@@ -22591,3 +22591,11 @@ Added source `tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-
 ## [2026-09-25] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-25] ingest | 444. The First Emperor of China
+
+Added source `444-the-first-emperor-of-china-glt5076517033`; created `TerracottaArmy` and `FounderTyrantPoliticalMemory`; and updated the canonical index and overview. Core synthesis: Qin Shi Huang's durable centralization and coercive violence must remain in one judgment, while Confucian criticism, labor legend, archaeological spectacle, and Maoist rehabilitation are distinct layers of political memory. The episode treats selective book burning as probable but the burial of Confucian scholars as probably unhistorical; corpse concealment, slaughter totals, tomb mechanisms, and immortality stories remain uncertain or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

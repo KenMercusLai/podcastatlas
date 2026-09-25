@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8baf174eacb1048196ed3821aabcac8d88484469d6c59085b3d0968ea1845d0c",
       "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
       "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
       "cdaa9cc6b5619c693f521fdc94d87d2890c8f6a069ae6b8694fb2987cb0cff78",
@@ -715,11 +716,40 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 713
+    "paragraph_count": 714
   },
-  "overview_commit": "d90ee27242d1aeb64c7c1512a75be25ffe7f5836",
-  "overview_digest": "61a57746441a33d3baec7d8a66eaa0785ec8e772de30d656f39a2ee106ff2d53",
+  "overview_commit": "36276222e347d5fbd79439299612db6e63ec57d5",
+  "overview_digest": "b8887fab092a554aa0a84201b2660a33017324c5b53d0cbc3cff549630284122",
   "paragraphs": [
+    {
+      "id": "8baf174eacb1048196ed3821aabcac8d88484469d6c59085b3d0968ea1845d0c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest ancient-China addition is [[444-the-first-emperor-of-china-glt5076517033|444. The First Emperor of China]], a [[TheRestIsHistory]] episode on [[QinShiHuang|Qin Shi Huang]] as coercive unifier, imperial founder, and repeatedly reconstructed political symbol. It adds [[TerracottaArmy|Terracotta Army / 兵马俑]] and [[FounderTyrantPoliticalMemory]], while extending [[WarringStatesPeriod|the Warring States period]], [[MandateOfHeavenLegitimacy]], [[LegalistRulerTechnique]], [[ImperialHomogenization]], [[QinBookBurningPolicy]], and [[ImmortalityQuestPolitics]]. Its core synthesis is that Qin's administrative durability and violence must remain in one judgment: later Confucian criticism, forced-labor legend, archaeological spectacle, modern heroic representation, and Maoist rehabilitation select different features of the same founder without making either demonization or vindication sufficient. A specific source tension is preserved: selective book burning is treated as probable, while the familiar claim that Confucian scholars were buried alive is treated as probably unhistorical; corpse concealment, large death totals, tomb machinery, and immortality anecdotes remain uncertain or source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 4,
+        "history-and-geopolitics": 4,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "444-the-first-emperor-of-china-glt5076517033",
+        "FounderTyrantPoliticalMemory",
+        "ImmortalityQuestPolitics",
+        "ImperialHomogenization",
+        "LegalistRulerTechnique",
+        "MandateOfHeavenLegitimacy",
+        "QinBookBurningPolicy",
+        "QinShiHuang",
+        "TerracottaArmy",
+        "TheRestIsHistory",
+        "WarringStatesPeriod"
+      ]
+    },
     {
       "id": "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
       "primary_topic": "business-and-markets",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8156
+wiki_total_pages: 8157
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -992,6 +992,9 @@ wiki_pages:
   - key: "FounderLedSoftwareGlobalization"
     title: "Founder-Led Software Globalization"
     url: "/wiki/concepts/founderledsoftwareglobalization/"
+  - key: "FounderTyrantPoliticalMemory"
+    title: "Founder-Tyrant Political Memory"
+    url: "/wiki/concepts/foundertyrantpoliticalmemory/"
   - key: "FoundingCommanderSuspicionManagement"
     title: "Founding Commander Suspicion Management / 建国将领消疑"
     url: "/wiki/concepts/foundingcommandersuspicionmanagement/"

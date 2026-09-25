@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-25
-as_of_overview_commit: ad372cb6367f1444bcd8b6e9627b2ab96f9e9d95
-input_digest: d58e89bb4f3d72a7a0635210bd2d791e37c23939e55c9bf5d9f5293ecd1d80fe
+as_of_overview_commit: 36276222e347d5fbd79439299612db6e63ec57d5
+input_digest: a667a1817279221abd3ef7cd9ba3ec049b40c19aa53658ddbc2177f99ad7d4da
 ---
 
 # History and Geopolitics
@@ -15,6 +15,18 @@ input_digest: d58e89bb4f3d72a7a0635210bd2d791e37c23939e55c9bf5d9f5293ecd1d80fe
 The newest Plains Wars branch now extends the Little Bighorn sequence back through Custer’s postwar celebrity, court-martial, restoration, and the Washita attack: Sand Creek, railroad pressure, unproven collective attribution, winter campaigning, village destruction, and hostage-taking escalated conflict with politically diverse Cheyenne communities, while the exact casualties, combatant identities, and captive treatment remain contested. The newest Plains Wars branch extends the Little Bighorn sequence backward: Lakota military leverage helped close the Bozeman Trail forts, but the 1868 reservation settlement left territorial ambiguity and divided leaders between constrained accommodation and continued refusal; Sitting Bull's later coalition authority combined warrior, social, and sacred standing, with translated and retrospective evidence kept explicit. The history-and-geopolitics corpus links legitimacy, strategic routes, command judgment, military organization, logistics, reciprocal credibility, coalition sequencing, post-conquest personnel transfer, and control of public reputation to usable state capacity. The Great Northern War branch now begins with the 1682 succession crisis: Streltsy grievance and dynastic manipulation create Sophia's regency, while Peter's practical formation and Golitsyn's reforms show that later transformation emerged from a contested Westernizing environment. The Great Embassy then converts foreign observation into technical recruitment without importing political limits; coercive Westernization and the Streltsy purge consolidate autocratic command; Narva drives Russian reform and Saint Petersburg's Baltic consolidation; and later withdrawal, resource denial, Lesnaya, Baturin, winter, absent allies, injury, and divided command remove Swedish options before Poltava converts capacity into imperial realignment. The Hannibal branch similarly joins logistics, alliance politics, deception, attrition, and Fabian endurance, while the Qing mid-dynasty case shows underfunded implementation, embedded interests, procedural accretion, and conformity-oriented information channels weakening problem solving before visible disorder. Exact routes, motives, dialogue, totals, legal interpretations, and retrospective causal claims remain bounded rather than settled history. The Heian branch adds selective state borrowing: Japanese rulers adapted Chinese titles, bureaucracy, capital planning, and textual prestige without dissolving local aristocratic kinship, while gendered vernacular literacy helped produce a distinctive court literature. Hanji 1116 adds a late-Han displacement case in which military and diplomatic capacity makes Cai Wenji’s return possible but cannot reconcile homeland recovery with the loss of children left beyond the frontier; attributed poetry and reconstructed family texts carry that unresolved rupture into cultural memory. Hanji 1114 adds a late-Han personnel case in which visible austerity becomes a manipulable integrity signal, while He Qia's corrective and Cao Cao's talent order require lifestyle, character, capacity, and office fit to be judged separately. The Little Bighorn branch adds a battle in which divided command and inadequate reconnaissance meet Lakota-Cheyenne coalition, leadership, confidence, numbers, and weapons; because no soldier with Custer survived, testimony, terrain, and archaeology constrain the final phase without closing it, while later heroic memory shifts blame and obscures Native agency. The pre-battle Little Bighorn paragraph now adds the coercive policy sequence, Cheyenne displacement into coalition growth, the unreported Rosebud defeat, and Custer’s political, financial, and reputational urgency, while preserving administrative intent and counterfactual outcomes as source-scoped.
 
 ## Cross-source Findings
+
+### Qin Founder Tyrant Memory Requires Layered Evidence
+
+[[444-the-first-emperor-of-china-glt5076517033|The First Emperor of China]] adds [[FounderTyrantPoliticalMemory]] as a source-critical history frame: [[QinShiHuang|Qin Shi Huang]] can be a coercive conqueror, institutional founder, popular symbol of forced-labor suffering, [[TerracottaArmy|archaeological spectacle]], and later anti-Confucian state-building model without any one reception layer exhausting the historical judgment.
+
+**Evidence:** [[444-the-first-emperor-of-china-glt5076517033]], [[FounderTyrantPoliticalMemory]], [[QinShiHuang]], [[TerracottaArmy]], [[QinBookBurningPolicy]], [[MandateOfHeavenLegitimacy]]
+
+**Qualifications:**
+
+- Confucian criticism, popular legend, archaeology, modern screen portrayal, and Maoist rehabilitation are different evidence layers and cannot simply verify one another.
+- The episode regards selective book burning as probable but the live burial of Confucian scholars as probably unhistorical.
+- Corpse concealment, large casualty totals, tomb machinery, mercury interpretation, and immortality anecdotes remain uncertain or source-scoped.
 
 ### Poltava Converts Military Capacity Into Imperial Realignment
 

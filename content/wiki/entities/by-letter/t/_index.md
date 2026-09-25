@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10783
+wiki_total_pages: 10784
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "TerenceONeill"
     title: "Terence O'Neill"
     url: "/wiki/entities/terenceoneill/"
+  - key: "TerracottaArmy"
+    title: "Terracotta Army / 兵马俑"
+    url: "/wiki/entities/terracottaarmy/"
   - key: "TerryMeilunMeihuan"
     title: "Terry / 美轮美换"
     url: "/wiki/entities/terrymeilunmeihuan/"

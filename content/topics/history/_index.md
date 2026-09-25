@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2006
+topic_total_pages: 2009
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -415,6 +415,9 @@ topic_concepts:
   - key: "FounderNarrativeReliability"
     title: "Founder Narrative Reliability"
     url: "/wiki/concepts/foundernarrativereliability/"
+  - key: "FounderTyrantPoliticalMemory"
+    title: "Founder-Tyrant Political Memory"
+    url: "/wiki/concepts/foundertyrantpoliticalmemory/"
   - key: "FoundingFatherReputationRevision"
     title: "Founding Father Reputation Revision"
     url: "/wiki/concepts/foundingfatherreputationrevision/"
@@ -2039,6 +2042,9 @@ topic_entities:
   - key: "TeaHorseRoad"
     title: "Tea Horse Road / 茶马古道"
     url: "/wiki/entities/teahorseroad/"
+  - key: "TerracottaArmy"
+    title: "Terracotta Army / 兵马俑"
+    url: "/wiki/entities/terracottaarmy/"
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"
@@ -4611,6 +4617,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "444-the-first-emperor-of-china-glt5076517033"
+    title: "444. The First Emperor of China"
+    url: "/wiki/sources/444-the-first-emperor-of-china-glt5076517033/"
   - key: "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597"
     title: "445. The Habsburgs: Secrets of a Dynasty"
     url: "/wiki/sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597/"

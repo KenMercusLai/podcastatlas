@@ -1691,6 +1691,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "444-the-first-emperor-of-china-glt5076517033": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "445-the-habsburgs-secrets-of-a-dynasty-glt9923460597": [
     {
       "key": "history",
@@ -29549,6 +29556,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FounderTyrantPoliticalMemory": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "FounderUserObsession": [
@@ -71325,6 +71339,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TerracottaArmy": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "TerritorialControlChurn": [

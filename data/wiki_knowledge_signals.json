@@ -50034,6 +50034,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/founderschool/"
     },
+    "FounderTyrantPoliticalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5076517033 [GLT5076517033].md",
+          "key": "444-the-first-emperor-of-china-glt5076517033",
+          "show": "The Rest Is History",
+          "title": "444. The First Emperor of China",
+          "url": "/wiki/sources/444-the-first-emperor-of-china-glt5076517033/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/foundertyrantpoliticalmemory/"
+    },
     "FoundingCommanderSuspicionManagement": {
       "episode_count": 2,
       "show_count": 1,
@@ -134465,6 +134481,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/terminalvaluenarrative/"
+    },
+    "TerracottaArmy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5076517033 [GLT5076517033].md",
+          "key": "444-the-first-emperor-of-china-glt5076517033",
+          "show": "The Rest Is History",
+          "title": "444. The First Emperor of China",
+          "url": "/wiki/sources/444-the-first-emperor-of-china-glt5076517033/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/terracottaarmy/"
     },
     "TerrainConstrainedCombinedArms": {
       "episode_count": 1,

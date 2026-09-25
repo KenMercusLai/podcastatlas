@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [444. The First Emperor of China](sources/444-the-first-emperor-of-china-glt5076517033.md) — The Rest Is History on Qin Shi Huang as coercive unifier, mythic tyrant, monumental founder, and repeatedly reworked political memory.
 - [Meta's new Muse AI agent gives investors the warm-'n-fuzzies](sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128.md) — Marketplace Tech on Muse's action, permission, error, and platform-access constraints; cybersecurity product and valuation proof; and Discord's behavioral age assurance.
 - [GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation](sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288.md) — Huberman Lab sleep-series episode on stage-specific emotional regulation, anxiety, trauma, addiction vulnerability, depression, suicide-risk signals, and clinical boundaries.
 - [445. The Habsburgs: Secrets of a Dynasty](sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597.md) — The Rest Is History interview on Habsburg marriage diplomacy, Catholic family identity, layered imperial rule, succession, and the limits of a sympathetic dynastic interpretation.
@@ -2846,6 +2847,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Terracotta Army / 兵马俑](entities/TerracottaArmy.md) — Qin funerary army whose modular mass production and archaeological afterlife materialize imperial capacity.
 - [Okta](entities/Okta.md) — Identity-security company presented through an early AI access-control product and the gap between security demand, product proof, and valuation.
 - [Eduard Habsburg](entities/EduardHabsburg.md) — Habsburg family member, author, and Hungarian ambassador interpreting dynastic history through Catholicism, subsidiarity, service, identity, and death.
 - [Holy Roman Empire](entities/HolyRomanEmpire.md) — Elective imperial order central to the Habsburg ascent and the episode's retrospective layered-governance argument.
@@ -13643,6 +13645,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Founder-Tyrant Political Memory](concepts/FounderTyrantPoliticalMemory.md) — Framework for rulers remembered simultaneously through durable state creation, coercive violence, and later political appropriation.
 - [AI Cybersecurity Valuation Gap](concepts/AICybersecurityValuationGap.md) — Difference between real AI-security demand and proof that a particular vendor, product, or valuation will capture it.
 - [Sleep-Mental Health Bidirectionality](concepts/SleepMentalHealthBidirectionality.md) — QQRT-based framework for reciprocal influence between sleep and psychiatric vulnerability without reducing treatment to sleep alone.
 - [Sleep-Loss Emotional Reactivity](concepts/SleepLossEmotionalReactivity.md) — Model linking insufficient sleep with stronger threat and reward responses plus weaker prefrontal regulation.
