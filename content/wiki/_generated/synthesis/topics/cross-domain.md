@@ -3,26 +3,36 @@
 generated: true
 topic_id: cross-domain
 title: "Cross-domain"
-last_updated: 2026-09-21
-as_of_overview_commit: a7232d1dee7b103df0b521a3793aaa8632664b2b
-input_digest: 90664592a6200a1c3b6906d6403c8fd3244427e008a18f05a4013a4342727ca1
+last_updated: 2026-09-26
+as_of_overview_commit: c4a6fccd2223a597edd1efef4dca77bf71dbe3a7
+input_digest: 79f869efb9a511f5cf1d630844d4686bdc7cd7d96e06488a0f8362da8f303c0f
 ---
 
 # Cross-domain
 
 ## Current State
 
-A Huberman Lab AMA distinguishes total protein accounting from goal-specific source quality: whey is framed for muscle-related outcomes and collagen or bone broth for a narrower, qualified skin role.
+Recent health sources emphasize matching tools to their actual function and preserving system-level constraints: protein sources differ by muscle or skin goal, while naps, caffeine, and liminal rest can support alertness only when they do not displace adequate nighttime sleep.
 
 ## Cross-source Findings
 
 ### Protein Source Goal Matching
 
-[[ProteinSourceGoalMatching]] distinguishes whey and other leucine-rich complete proteins for muscle protein synthesis from collagen or bone broth for a narrower proposed skin role.
+[[ProteinSourceGoalMatching]] distinguishes leucine-rich complete proteins for muscle-related goals from a narrower collagen or bone-broth role for skin-related goals.
 
 **Evidence:** [[ProteinSourceGoalMatching]], [[ProteinBodyCompositionLever]], [[ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786]]
 
 **Qualifications:**
 
-- The roughly one-gram-per-pound target is an optimization claim rather than a universal requirement.
-- The collagen dose and timeline, acne mechanism, menstrual-cycle observation, and bone-broth leucine content remain source-scoped.
+- Protein targets, collagen dose and timeline, acne mechanism, menstrual-cycle observations, and bone-broth composition remain source-scoped rather than universal requirements.
+
+### Alertness Tools Preserve Night Sleep
+
+[[AdultNappingSleepPressure]] and [[CaffeineAdenosineSleepTiming]] support conditional daytime alertness tools while keeping adequate nighttime sleep and sleep pressure primary.
+
+**Evidence:** [[AdultNappingSleepPressure]], [[CaffeineAdenosineSleepTiming]], [[SleepWakeTimingToolkit]], [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999]]
+
+**Qualifications:**
+
+- Morning caffeine delay is optional, older-adult nap associations may be confounded, and nap effects, caffeine cutoffs, local-sleep mechanisms, aging estimates, and driving-risk figures remain source-scoped.
+- [[AdultPolyphasicSleepEvidenceBoundary]] does not treat infant polyphasic sleep or an ordinary adult siesta as evidence for extreme adult sleep-compression schedules.

@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: 87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd
+as_of_overview_commit: c4a6fccd2223a597edd1efef4dca77bf71dbe3a7
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2835
-source_count: 2835
-paragraph_count: 719
+episode_count: 2836
+source_count: 2836
+paragraph_count: 720
 topic_count: 9
 ---
 
@@ -43,7 +43,7 @@ Durable markets require real demand, delivery capacity, contract fit, affordabil
 
 ### Cross-domain
 
-Evidence transfers across domains only when mechanism, goal, comparator, and scope remain explicit.
+Evidence transfers across domains only when mechanism, intended outcome, comparator, and scope remain explicit; recent health sources apply that rule to protein selection and to naps, caffeine, and rest that must preserve adequate nighttime sleep.
 
 ### Culture and Media
 

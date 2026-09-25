@@ -4,18 +4,33 @@
       "global_candidate": false,
       "id": "protein-source-goal-matching",
       "qualifications": [
-        "The roughly one-gram-per-pound target is an optimization claim rather than a universal requirement.",
-        "The collagen dose and timeline, acne mechanism, menstrual-cycle observation, and bone-broth leucine content remain source-scoped."
+        "Protein targets, collagen dose and timeline, acne mechanism, menstrual-cycle observations, and bone-broth composition remain source-scoped rather than universal requirements."
       ],
-      "statement": "[[ProteinSourceGoalMatching]] distinguishes whey and other leucine-rich complete proteins for muscle protein synthesis from collagen or bone broth for a narrower proposed skin role.",
+      "statement": "[[ProteinSourceGoalMatching]] distinguishes leucine-rich complete proteins for muscle-related goals from a narrower collagen or bone-broth role for skin-related goals.",
       "status": "source-scoped",
       "supporting_wikilinks": [
         "ProteinSourceGoalMatching",
         "ProteinBodyCompositionLever",
         "ama-19-collagen-vs-whey-protein-creatine-smelling-salts-stimulants-more-scim5207600786"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "alertness-tools-preserve-night-sleep",
+      "qualifications": [
+        "Morning caffeine delay is optional, older-adult nap associations may be confounded, and nap effects, caffeine cutoffs, local-sleep mechanisms, aging estimates, and driving-risk figures remain source-scoped.",
+        "[[AdultPolyphasicSleepEvidenceBoundary]] does not treat infant polyphasic sleep or an ordinary adult siesta as evidence for extreme adult sleep-compression schedules."
+      ],
+      "statement": "[[AdultNappingSleepPressure]] and [[CaffeineAdenosineSleepTiming]] support conditional daytime alertness tools while keeping adequate nighttime sleep and sleep pressure primary.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "AdultNappingSleepPressure",
+        "CaffeineAdenosineSleepTiming",
+        "SleepWakeTimingToolkit",
+        "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999"
+      ]
     }
   ],
-  "summary": "A Huberman Lab AMA distinguishes total protein accounting from goal-specific source quality: whey is framed for muscle-related outcomes and collagen or bone broth for a narrower, qualified skin role.",
+  "summary": "Recent health sources emphasize matching tools to their actual function and preserving system-level constraints: protein sources differ by muscle or skin goal, while naps, caffeine, and liminal rest can support alertness only when they do not displace adequate nighttime sleep.",
   "topic_id": "cross-domain"
 }

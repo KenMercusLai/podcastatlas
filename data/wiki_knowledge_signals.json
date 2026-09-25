@@ -5245,6 +5245,38 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/adoptivelineageritualpolitics/"
     },
+    "AdultNappingSleepPressure": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/adultnappingsleeppressure/"
+    },
+    "AdultPolyphasicSleepEvidenceBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/adultpolyphasicsleepevidenceboundary/"
+    },
     "AdultProductsRelationshipSupport": {
       "episode_count": 1,
       "show_count": 1,
@@ -17902,9 +17934,9 @@
       "url": "/wiki/concepts/caesarsbritishexpeditions/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -17933,9 +17965,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Maximize Productivity, Physical & Mental Health With Daily Tools",
           "url": "/wiki/sources/essentials-maximize-productivity-physical-mental-health-with-daily-tools-scim5427393382/"
+        },
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaiJing": {
@@ -82084,9 +82123,9 @@
       "url": "/wiki/entities/lilyradiographer/"
     },
     "LiminalSleepTransitionPractice": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM2496765743 [SCIM2496765743].md",
@@ -82094,9 +82133,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/liminalsleeptransitionpractice/"
     },
     "LimitedWatching": {
@@ -92084,9 +92130,9 @@
       "url": "/wiki/entities/matthewhill/"
     },
     "MatthewWalker": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM1698271951 [SCIM1698271951].md",
@@ -92108,6 +92154,13 @@
           "show": "Huberman Lab",
           "title": "GUEST SERIES | Dr. Matt Walker: Using Sleep to Improve Learning, Creativity & Memory",
           "url": "/wiki/sources/guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704/"
+        },
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
         }
       ],
       "updated": "2026-09-26",
@@ -126228,6 +126281,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/sleepanxietyloop/"
     },
+    "SleepArchitectureAcrossLifespan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/sleeparchitectureacrosslifespan/"
+    },
     "SleepAsDailyHealthAccount": {
       "episode_count": 10,
       "show_count": 6,
@@ -126527,9 +126596,9 @@
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 4,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -126572,9 +126641,16 @@
           "show": "这病说来话长",
           "title": "VOL.129医生教你睡大觉 解决睡眠障碍也能不吃药",
           "url": "/wiki/sources/vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot/"
+        },
+        {
+          "episode_file": "SCIM8589399999 [SCIM8589399999].md",
+          "key": "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999",
+          "show": "Huberman Lab",
+          "title": "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine",
+          "url": "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "Slicy": {

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine](sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999.md) — Huberman Lab sleep-series episode on lifespan sleep architecture, nap timing, sleep pressure, caffeine, liminal rest, and adult polyphasic-sleep risks.
 - [VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医](sources/lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv.md) — 这病说来话长 episode on dream meaning, sleep stages, recall, bodily and emotional context, daytime impairment, sleepwalking, and clinical escalation.
 - [Vol. 175 GPT 6 Astra、Opus 5.5、Jev 诸模型混战](sources/vol-175-gpt-6-astra-opus-5-5-jev-zhu-moxing-hunzhan-1-6700-1.md) — 枫言枫语 on task-fit model routing, structured decisions, demonstrated computer use, authorship responsibility, platform access, and ambient-agent privacy.
 - [441. Lord Byron: Scandal, Sex and Celebrity (Part 2)](sources/441-lord-byron-scandal-sex-and-celebrity-part-2-glt1954408695.md) — The Rest Is History on Byron's Mediterranean journey, Childe Harold self-fashioning, Ali Pasha, the Elgin controversy, and the birth of Byromania.
@@ -13676,6 +13677,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Adult Napping and Sleep Pressure](concepts/AdultNappingSleepPressure.md) — Conditional nap framework balancing alertness and learning benefits against sleep inertia and nighttime sleep pressure.
+- [Adult Polyphasic Sleep Evidence Boundary](concepts/AdultPolyphasicSleepEvidenceBoundary.md) — Boundary separating ordinary biphasic sleep from extreme adult sleep-compression schedules unsupported by performance or health evidence.
+- [Sleep Architecture Across the Lifespan](concepts/SleepArchitectureAcrossLifespan.md) — Developmental pattern linking sleep consolidation, REM, spindles, chronotype, and deep-sleep change from infancy through aging.
 - [Dream Distress and Parasomnia Escalation / 梦境困扰与异态睡眠就医边界](concepts/DreamDistressAndParasomniaEscalation.md) — Functional boundary separating ordinary dreams from persistent distress, daytime impairment, and sleepwalking that warrant qualified assessment.
 - [Structured Decision Model](concepts/StructuredDecisionModel.md) — Narrow AI component optimized for fast, schema-conforming classification, scoring, intent recognition, and routing.
 - [Human-Directed AI Authorship](concepts/HumanDirectedAIAuthorship.md) — Division of labor retaining human thesis, approval, and responsibility while delegating bounded production work to AI.

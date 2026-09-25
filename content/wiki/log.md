@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine
+
+Added source `guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999`; created `AdultNappingSleepPressure`, `AdultPolyphasicSleepEvidenceBoundary`, and `SleepArchitectureAcrossLifespan`; and updated `MatthewWalker`, `SleepWakeTimingToolkit`, `CaffeineAdenosineSleepTiming`, and `LiminalSleepTransitionPractice` from their complete bounded source sets. Core synthesis: daytime alertness tools must remain subordinate to adequate nighttime sleep; short early naps can help some good sleepers, caffeine blocks rather than clears adenosine, and liminal rest remains a testable hypothesis, while late naps, insomnia-related loss of sleep pressure, and extreme adult sleep-compression schedules carry sleep-quality and safety costs. No settled contradiction found. Older-adult nap associations remain potentially confounded, morning caffeine delay is optional, and developmental percentages, nap effects, caffeine cutoffs, local-sleep mechanisms, aging estimates, and driving-risk figures remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | 442. Lord Byron: Dangerous Liaisons (Part 3)
 
 Added source `442-lord-byron-dangerous-liaisons-part-3-glt1176702097`; created `LadyCarolineLamb`, `AnnabellaMilbank`, `AugustaLeigh`, and `LadyMelbourne`; and updated `LordByron`, `ByronicCelebrityPolitics`, the canonical index, and overview from their complete bounded source sets. Core synthesis: managed literary celebrity magnified Byron's intimate conduct, sexual secrecy, marriage crisis, and social punishment into the public scandal that forced his exile, while disgrace strengthened rather than ended the Byronic myth. No settled contradiction found. The precise nature of Byron's relationship with Augusta, the sodomy allegation, medical judgments, reported dialogue, and individual motives remain contested or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
@@ -22640,10 +22644,6 @@ Added source `443-lord-byron-death-of-a-vampire-part-4-glt3247503776`; created `
 
 Ran lint. See lint-report.md for details.
 
-## [2026-09-26] lint | Wiki health check
-
-Ran lint. See lint-report.md for details.
-
 ## [2026-09-26] ingest | Vaping, Alcohol Use & Other Risky Youth Behaviors | Dr. Bonnie Halpern-Felsher
 
 Added source `vaping-alcohol-use-other-risky-youth-behaviors-dr-bonnie-halpern-felsher-scim9155116429`; created `BonnieHalpernFelsher`, `AdolescentRiskCommunication`, and `AdolescentAutonomyScaffolding`; updated `YouthTobaccoInitiationPrevention`, `ElectronicCigaretteRisk`, `SmokingCessationSupport`, `CannabisPsychosisCausalityBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: adolescent risk behavior reflects development, autonomy, peers, family context, commercial targeting, product design, stress, and addiction; credible prevention therefore combines accurate non-moralizing conversation, environmental controls, cessation help, and graduated harm reduction. No settled contradiction found. The episode's cannabis account increases concern about a causal trigger in predisposed youth without proving universal one-way causation, while vaping prevalence, nicotine dose equivalence, nicotine-pouch uptake, under-18 nicotine-replacement dosing, psychosis frequency and reversibility, and fentanyl-test performance remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -22679,6 +22679,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | VOL.109精神心理科｜你还记得昨晚的梦吗？这2种情况需要就医
 
 Added source `lutsrqrswkekdi3ujtokur2q1hv-lutsrqrswkekdi3ujtokur2q1hv`; created `ZhangDaming` and `DreamDistressAndParasomniaEscalation`; updated `DreamFunctionAndMeaning`, `LucidDreamingEvidenceBoundary`, `SleepStageFunctionalArchitecture`, `SigmundFreud`, the canonical index, and overview from their complete bounded source sets. Core synthesis: dream content may reflect memory, emotion, wishes, bodily sensation, external input, or creativity without becoming prophecy, diagnosis, or a universal symbol code; dream frequency alone does not establish poor sleep; persistent distress or daytime impairment and sleepwalking justify qualified assessment through distinct pathways. No settled contradiction found. The episode's Freudian categories, cycle timing, animal-dream inference, bodily-warning anecdotes, anxiety interpretations, lucid-control account, and clinical routing remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis-refresh workflow only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

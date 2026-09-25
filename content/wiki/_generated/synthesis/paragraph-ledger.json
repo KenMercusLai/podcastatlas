@@ -719,12 +719,13 @@
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e",
       "10391888df790f32f550a63fa56e7b15e8336ca4236c3a6cf6a3df009d524f68",
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
-      "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
+      "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729",
+      "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d"
     ],
-    "paragraph_count": 719
+    "paragraph_count": 720
   },
-  "overview_commit": "87f5810b40d38bec18dcad5c8a1f6ee7a8be37dd",
-  "overview_digest": "e73338f8e6827968f6ec4e3c9da2ad7c7e9b950d84a546f9c209859251c015ec",
+  "overview_commit": "c4a6fccd2223a597edd1efef4dca77bf71dbe3a7",
+  "overview_digest": "f1e83bc42a553b3722d98dd68e552a2d447b607080b3eade55a33a443e0f1e10",
   "paragraphs": [
     {
       "id": "28a8993cce040266c6a731791b36cc2f2f9dbd2aae10f3a7d753f0908b286243",
@@ -21389,6 +21390,25 @@
         "SpineSparingCoreStability",
         "StuartMcGill",
         "protocols-to-strengthen-pain-proof-your-back-scim8264963647"
+      ]
+    },
+    {
+      "id": "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
+      "primary_topic": "cross-domain",
+      "secondary_topics": [],
+      "text": "The latest addition is [[guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999|GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine]], the third [[HubermanLab]] sleep-series conversation with [[MatthewWalker]] and [[AndrewHuberman]]. It adds [[AdultNappingSleepPressure]], [[AdultPolyphasicSleepEvidenceBoundary]], and [[SleepArchitectureAcrossLifespan]], while extending [[SleepWakeTimingToolkit]], [[CaffeineAdenosineSleepTiming]], and [[LiminalSleepTransitionPractice]]. Its core synthesis is that daytime alertness tools must remain subordinate to adequate nighttime sleep: an early short nap can help some good sleepers, caffeine blocks rather than clears adenosine, and liminal rest may warrant study, but late naps, insomnia-related sleep-pressure loss, and extreme adult sleep-compression schedules create meaningful sleep-quality and safety costs. No settled contradiction is recorded; older-adult nap associations remain potentially confounded, morning caffeine delay is optional, and developmental percentages, nap effects, caffeine cutoffs, local-sleep mechanisms, deep-sleep decline, and driving-risk figures remain source-scoped.",
+      "topic_scores": {},
+      "wikilinks": [
+        "AdultNappingSleepPressure",
+        "AdultPolyphasicSleepEvidenceBoundary",
+        "AndrewHuberman",
+        "CaffeineAdenosineSleepTiming",
+        "HubermanLab",
+        "LiminalSleepTransitionPractice",
+        "MatthewWalker",
+        "SleepArchitectureAcrossLifespan",
+        "SleepWakeTimingToolkit",
+        "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999"
       ]
     }
   ],

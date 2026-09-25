@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1205
+topic_total_pages: 1206
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -3390,6 +3390,9 @@ topic_sources:
   - key: "tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128"
     title: "Gig workers train humanoids on household chores"
     url: "/wiki/sources/tech-20260807-0807-mp-tech-pod-128-tech-20260807-0807-mp-tech-pod-128/"
+  - key: "guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999"
+    title: "GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine"
+    url: "/wiki/sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999/"
   - key: "guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288"
     title: "GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation"
     url: "/wiki/sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288/"
