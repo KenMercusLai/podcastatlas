@@ -9,13 +9,14 @@ sources:
   - yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian
   - niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504
   - niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19
-last_updated: 2026-09-24
+  - google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 # 端闻 / 端传媒新闻播客
 
 ## Overview
-[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, and the human, infrastructural, and geopolitical dimensions of Nepal's August 2026 flood.
+[[DuanwenNewsPodcast]] is the news podcast credited in source metadata for episodes on the 旺旺 cross-border animal-protection response, a reporter's [[Polymarket]] simulation, Taiwan's introduced-myna controversy, the Chongqing [[ShidaiFengjun|时代峰峻]] confrontation, the human, infrastructural, and geopolitical dimensions of Nepal's August 2026 flood, and the Google DeepMind–A24 AI-film partnership.
 
 ## Current Profile
 Across the current evidence, the show works as reported explanatory journalism rather than commentary-only audio. The 旺旺 episode combines mainland volunteer testimony, animal-law expertise, Hong Kong street interviews, and institutional controversy to connect one cruelty case to [[ChinaAnimalProtectionLawGap]], [[AnimalProtectionCodedExpression]], [[HongKongAnimalSolidarity]], and [[LowClaimCivicAction]].
@@ -30,6 +31,8 @@ The Nepal episode adds foreign disaster reporting centered on lived aftermath an
 
 The Gyirong follow-up shifts from aftermath to historical and system-level explanation. It treats [[GyirongPort]] as an old trade route, a modern border-control and diversification corridor, and a case of [[CumulativeRiverValleyDevelopmentRisk]], while qualifying the data-sharing critique with the intrinsic difficulty of predicting sudden ice-rock collapse.
 
+The A24 episode adds a culture-and-technology industry explainer. With [[ChenZiFilmCultureCommentator|陳子]], it separates disclosed partnership boundaries from inference, distinguishes short-form AI uptake from feature-film readiness, and connects creator resistance to [[AICreativeProcessDatafication]] and [[FearDrivenAIAdoption]].
+
 ## Key Characteristics
 - The episode is structured as reported journalism with named correspondents and interviewees.
 - Its core method is cross-border comparison between mainland expression constraints and Hong Kong's still-possible but cautious public action.
@@ -37,7 +40,7 @@ The Gyirong follow-up shifts from aftermath to historical and system-level expla
 - It can use a first-person reporter experiment to examine how platforms change news attention and ethical judgment.
 - It can turn a viral animal or environmental controversy into a slower explainer about evidence, classification, and ethical responsibility.
 - It can reconstruct a contested street event while distinguishing visible acts from unproven chronology, organization, and motive.
-- It can connect intimate disaster testimony and ritual loss to warning systems, infrastructure, state capacity, climate justice, corridor history, and geopolitics.
+- It can connect intimate cases to larger systems, including disaster infrastructure and climate justice as well as film craft, technology capital, cultural branding, and competitive adoption pressure.
 
 ## Evidence
 - Reported-source profile: [[liulangquan-wangwang-zhisi-he-yichang-kuajing-dongbao-shengyuan]] names the show in front matter and follows mainland and Hong Kong reporting threads.
@@ -48,13 +51,15 @@ The Gyirong follow-up shifts from aftermath to historical and system-level expla
 - Contested-event reconstruction: [[yi-chang-wuli-yiyi-shang-de-nannv-duili-chongqing-shidai-fengjun-shijian]] compares disappearing originals, partial police footage, platform edits, official framing, and gendered interpretation without claiming a complete chronology.
 - Disaster-reporting method: [[niboer-teda-hongzai-xianchang-yichang-meiyou-yiti-de-zangli-cd38365e015f056efaa8b0506c123504]] uses named family cases, forensic procedure, infrastructure loss, warning delay, and climate finance to connect individual grief with institutional failure.
 - Historical-system method: [[niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19]] moves from a millennial trade route through modern port policy and bilateral interests to cumulative environmental risk and warning limits.
+- Culture-and-technology method: [[google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594]] moves from a reported investment and research partnership to feature-film constraints, creator-process value, brand conflict, process-data governance, and competitive anxiety while marking strategic motive as inference.
 
 ## Qualifications
-The wiki has only six sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, local perceptions that are not full institutional records, and no technical basis for claiming that bilateral data sharing would have predicted the collapse.
+The wiki has only seven sources on the podcast. Broader claims about the show's ownership, editorial line, audience, or long-term reporting pattern remain outside this page's evidence. The Shidai Fengjun episode lacks enough primary footage and testimony to establish a complete event chronology or coordinated male organization; the Nepal episodes contain unstable figures, incomplete Chinese-side evidence, local perceptions that are not full institutional records, and no technical basis for claiming that bilateral data sharing would have predicted the collapse. The A24 episode does not independently verify confidential deal terms, product plans, or Google's strategic motive.
 
 ## What Changed
-- Added historical-system reporting that links corridor development and geopolitics to cumulative disaster exposure.
-- Added a stronger qualification separating warning-system gaps from event predictability.
+- Added culture-and-technology reporting that separates disclosed deal boundaries from interpretation.
+- Extended the show's systems profile into film craft, AI capital, cultural branding, and competitive adoption pressure.
+- Added explicit qualification around confidential partnership terms and inferred strategic motive.
 
 ## Relationships
 - [[MavisDuanReporter]] - reporting relationship through the Hong Kong segment.
@@ -79,3 +84,7 @@ The wiki has only six sources on the podcast. Broader claims about the show's ow
 - [[GyirongPort]] - historical border-corridor subject relationship.
 - [[CumulativeRiverValleyDevelopmentRisk]] - infrastructure-planning topic relationship.
 - [[StrategicBorderCorridorDependence]] - geopolitical corridor topic relationship.
+- [[ChenZiFilmCultureCommentator]] - guest relationship through the A24 and AI-film episode.
+- [[GenerativeAIHollywoodProduction]] - film-industry transition examined in the newest source.
+- [[AICreativeProcessDatafication]] - creative-process governance topic relationship.
+- [[FearDrivenAIAdoption]] - competitive-coordination topic relationship.

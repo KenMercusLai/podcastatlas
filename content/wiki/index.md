@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Google投資A24，AI將成為好萊塢的未來？](sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594.md) — 端聞 episode on the Google DeepMind–A24 partnership, feature-film AI limits, creative-process data, brand conflict, and fear-driven adoption.
 - [503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云](sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu.md) — 忽左忽右 retrospective on Xu Zhuoyun's wartime formation, comparative and interdisciplinary historiography, public writing, mentorship, and inner settlement.
 - [Big meet, little meat: the Trump-Xi summit](sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db.md) — The Intelligence on a narrow Trump-Xi truce, Robinson's American political access, and Bob Mackie's person-centered celebrity costumes.
 - [444. The First Emperor of China](sources/444-the-first-emperor-of-china-glt5076517033.md) — The Rest Is History on Qin Shi Huang as coercive unifier, mythic tyrant, monumental founder, and repeatedly reworked political memory.
@@ -2849,6 +2850,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [陳子 / Chen Zi](entities/ChenZiFilmCultureCommentator.md) — Film and culture commentator analyzing A24, AI production, creator-process value, and competitive adoption pressure.
 - [许倬云 / Xu Zhuoyun](entities/XuZhuoyun.md) — Historian connecting ordinary people's lives, China-and-world comparison, interdisciplinary method, public writing, and teaching responsibility.
 - [冯俊文 / Feng Junwen](entities/FengJunwen.md) — Xu Zhuoyun's late-life assistant, editor, oral-history organizer, and cultural-estate executor.
 - [王小波 / Wang Xiaobo](entities/WangXiaobo.md) — Writer represented through his Pittsburgh-era editing, discussion, and mentorship relationship with Xu Zhuoyun.
@@ -4359,7 +4361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [花园饭店 / Garden Hotel Shanghai](entities/GardenHotelShanghai.md) — Former French Club building used as evidence of Lai An's durable construction and mixed classical/Art Deco design.
 - [盖斯康公寓 / Gascoigne Apartments](entities/GascoigneApartments.md) — Lai An apartment example showing modern form, high-end residential hierarchy, and service circulation.
 - [迈奇公寓 / Majestic Apartments (Shanghai)](entities/MajesticApartmentsShanghai.md) — Lai An apartment example tied to rounded balcony and curved-corner design vocabulary.
-- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers, field reporting, and first-person experiments to connect lived cases with institutional systems.
+- [端闻 / 端传媒新闻播客](entities/DuanwenNewsPodcast.md) — News podcast using reported explainers, field reporting, and first-person experiments to connect lived cases, cultural industries, and institutional systems.
 - [小薇 / Xiaowei (Duanwen reporter)](entities/XiaoweiDuanwenReporter.md) — Reporter whose simulated Polymarket month tests whether news judgment can become prediction-market edge.
 - [PolySimulator](entities/PolySimulator.md) — Polymarket-linked simulation tool used for virtual prediction-market trading in the Duanwen episode.
 - [Wangwang / 旺旺](entities/WangwangDog.md) — Stray dog whose killing became a public-memory symbol for animal cruelty, legal absence, and cross-border animal-protection solidarity.
@@ -4654,7 +4656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Cain Parsons](entities/CainParsons.md) — Backrooms director cited as a strong anti-AI voice in the Hollywood backlash segment.
 - [Punky Duck](entities/PunkyDuck.md) — Animated-series example tied to announced AI use, creator exit, and severe backlash.
 - [Amazon MGM Studios](entities/AmazonMGMStudios.md) — Amazon studio unit named as a route for AI adoption in Hollywood production and animation.
-- [A24](entities/A24.md) — Film company named as receiving a reported Google DeepMind investment in the Hollywood AI segment.
+- [A24](entities/A24.md) — Creator-led independent-film company and cultural brand testing an AI research partnership with Google DeepMind.
 - [Interpositive](entities/Interpositive.md) — AI production company reportedly led by Ben Affleck and acquired by Netflix.
 - [Disneyland Paris](entities/DisneylandParis.md) — Disney theme-park outpost in France used as a line-dancing and American-culture example.
 - [邹佩轩 / Zou Peixuan](entities/ZouPeixuan.md) — Investing author and 面基 guest linking financial reports, DCF valuation, terminal narrative, A-share auction pricing, and reusable research process.
@@ -13651,6 +13653,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [AI Creative Process Datafication / AI創作流程數據化](concepts/AICreativeProcessDatafication.md) — Governance risk created when project selection, discarded options, aesthetic judgment, and production decisions become learnable workflow data.
+- [Fear-Driven AI Adoption / 恐懼驅動的AI採用](concepts/FearDrivenAIAdoption.md) — Self-reinforcing adoption driven partly by fear that competitors are moving first.
 - [历史作为生命资源 / History as a Life Resource](concepts/HistoryAsLifeResource.md) — Public-history frame in which historical knowledge helps ordinary readers understand the present and locate themselves in longer processes.
 - [U.S.-China Strategic Stalemate](concepts/USChinaStrategicStalemate.md) — Bilateral condition in which reciprocal leverage prevents capitulation without producing durable settlement.
 - [Summit Ceremony-Substance Gap](concepts/SummitCeremonySubstanceGap.md) — Distance between elaborate diplomatic presentation and limited or temporary negotiated outcomes.
@@ -15271,7 +15275,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Slave-Produced Goods Boycott](concepts/SlaveProducedGoodsBoycott.md) — Ethical-consumption practice of refusing commodities such as sugar, tobacco, and tea because they depend on enslaved labor.
 - [Slavery National Identity Contradiction](concepts/SlaveryNationalIdentityContradiction.md) — Tension between national liberty or unity claims and a historical formation built on enslaved labor, racial hierarchy, and contested freedom.
 - [Political Marriage Alliance Depreciation / 政治婚姻联盟折价](concepts/PoliticalMarriageAllianceDepreciation.md) — Pattern where a crisis marriage alliance first confirms political backing, can convert into formal palace and heir status, then loses central leverage as the original need declines.
-- [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood-specific AI adoption across synthetic scenes, stunts, effects, planning, editing, platform infrastructure, and backlash.
+- [Generative AI Hollywood Production](concepts/GenerativeAIHollywoodProduction.md) — Hollywood AI adoption across workflow compression, feature-film constraints, process data, technology capital, and creator backlash.
 - [Synthetic Performers](concepts/SyntheticPerformers.md) — AI-generated actor-like figures that sit between character, performer, visual effect, and generated asset.
 - [Obamacare Subsidy Cliff](concepts/ObamacareSubsidyCliff.md) — ACA exchange affordability shock caused by expiry of enhanced pandemic-era subsidies.
 - [Health Insurance Death Spiral](concepts/HealthInsuranceDeathSpiral.md) — Adverse-selection loop where rising premiums push healthier buyers out of an insurance pool.

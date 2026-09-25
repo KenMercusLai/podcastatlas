@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8161
+wiki_total_pages: 8163
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "FDAReviewModernization"
     title: "FDA Review Modernization"
     url: "/wiki/concepts/fdareviewmodernization/"
+  - key: "FearDrivenAIAdoption"
+    title: "Fear-Driven AI Adoption / 恐懼驅動的AI採用"
+    url: "/wiki/concepts/feardrivenaiadoption/"
   - key: "FearDrivenGroupViolence"
     title: "Fear-Driven Group Violence / 恐惧驱动的群体暴力"
     url: "/wiki/concepts/feardrivengroupviolence/"

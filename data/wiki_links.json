@@ -2447,6 +2447,10 @@
     "title": "AI Creative Collaboration",
     "url": "/wiki/concepts/aicreativecollaboration/"
   },
+  "AICreativeProcessDatafication": {
+    "title": "AI Creative Process Datafication / AI創作流程數據化",
+    "url": "/wiki/concepts/aicreativeprocessdatafication/"
+  },
   "AICreditAccessBias": {
     "title": "AI Credit Access Bias",
     "url": "/wiki/concepts/aicreditaccessbias/"
@@ -13002,6 +13006,10 @@
   "ChenZhuangWarringStates": {
     "title": "陈庄 / Chen Zhuang (Warring States)",
     "url": "/wiki/entities/chenzhuangwarringstates/"
+  },
+  "ChenZiFilmCultureCommentator": {
+    "title": "陳子 / Chen Zi",
+    "url": "/wiki/entities/chenzifilmculturecommentator/"
   },
   "ChendaiTown": {
     "title": "Chendai Town / 陈埭镇",
@@ -23802,6 +23810,10 @@
   "Fayan": {
     "title": "《法言》 / Fayan",
     "url": "/wiki/entities/fayan/"
+  },
+  "FearDrivenAIAdoption": {
+    "title": "Fear-Driven AI Adoption / 恐懼驅動的AI採用",
+    "url": "/wiki/concepts/feardrivenaiadoption/"
   },
   "FearDrivenGroupViolence": {
     "title": "Fear-Driven Group Violence / 恐惧驱动的群体暴力",
@@ -79642,6 +79654,10 @@
   "google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6": {
     "title": "Google 的 AI 策略：不赌模型，赌什么？｜ Google Cloud Next 现场 S10E09",
     "url": "/wiki/sources/google-de-ai-celve-bu-du-moxing-du-shenme-google-cloud-next-xianchang-s10e09-073d7ee7-7bac-4958-b45a-083cc2f866e6/"
+  },
+  "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594": {
+    "title": "Google投資A24，AI將成為好萊塢的未來？",
+    "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
   },
   "guanyu-ai-kaiyuan-shangyehua-yu-quanqiuhua-de-jingyan-jiaoxun-he-fangfalun-duitan-pingcap-cto-dongxu-ljw8va0evobhz4ojzrulqzjvxw5": {
     "title": "关于 AI、开源、商业化与全球化的经验、教训和方法论 | 对谈 PingCAP CTO 东旭",

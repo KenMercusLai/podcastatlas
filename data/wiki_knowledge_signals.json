@@ -117,9 +117,9 @@
       "url": "/wiki/entities/42zhangjing/"
     },
     "A24": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
@@ -127,9 +127,16 @@
           "show": "Economist Podcasts",
           "title": "Stars in their AIs: tech is changing Hollywood",
           "url": "/wiki/sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b/"
+        },
+        {
+          "episode_file": "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
+          "key": "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "Google投資A24，AI將成為好萊塢的未來？",
+          "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/a24/"
     },
     "A2ATransactionNorms": {
@@ -1748,6 +1755,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aicreativecollaboration/"
+    },
+    "AICreativeProcessDatafication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
+          "key": "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "Google投資A24，AI將成為好萊塢的未來？",
+          "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/aicreativeprocessdatafication/"
     },
     "AICreditAccessBias": {
       "episode_count": 1,
@@ -22555,6 +22578,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/chenzhonglatehan/"
     },
+    "ChenZiFilmCultureCommentator": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
+          "key": "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "Google投資A24，AI將成為好萊塢的未來？",
+          "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/chenzifilmculturecommentator/"
+    },
     "ChendaiTown": {
       "episode_count": 1,
       "show_count": 1,
@@ -38289,9 +38328,9 @@
       "url": "/wiki/entities/duanzhiqiang/"
     },
     "DuanwenNewsPodcast": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "2b3d8e4d22c53a7d8791ed4cb06916ae [2b3d8e4d22c53a7d8791ed4cb06916ae.mp3？aid=6a9a8f8ec5b9ba845d1dbcb2&chid=66b07190af99592b5329f43a&ci=9VFtphxY8S1UggNOBMZ7EHMUU6j6619IrTRcG-Pk4Fin8CKWU-WvsQ==&pf=rss&sv=sphinx@1.280].md",
@@ -38334,9 +38373,16 @@
           "show": "端聞 | 端傳媒新聞播客",
           "title": "尼泊爾特大洪災：為何將口岸建在災害頻發的山谷？",
           "url": "/wiki/sources/niboer-teda-hongzai-weihe-jiang-kouan-jian-zai-zaihai-pinfa-de-shangu-fe064a422e32872349638d39a97d8c19/"
+        },
+        {
+          "episode_file": "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
+          "key": "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "Google投資A24，AI將成為好萊塢的未來？",
+          "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/duanwennewspodcast/"
     },
     "Dubai": {
@@ -46526,6 +46572,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/fawltytowers/"
     },
+    "FearDrivenAIAdoption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
+          "key": "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "Google投資A24，AI將成為好萊塢的未來？",
+          "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/feardrivenaiadoption/"
+    },
     "FearDrivenGroupViolence": {
       "episode_count": 1,
       "show_count": 1,
@@ -54209,9 +54271,9 @@
       "url": "/wiki/concepts/generationalsocialismappeal/"
     },
     "GenerativeAIHollywoodProduction": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Stars in their AIs： tech is changing Hollywood [6a917d0b63de6f7b41319a4b].md",
@@ -54219,9 +54281,16 @@
           "show": "Economist Podcasts",
           "title": "Stars in their AIs: tech is changing Hollywood",
           "url": "/wiki/sources/stars-in-their-ais-tech-is-changing-hollywood-6a917d0b63de6f7b41319a4b/"
+        },
+        {
+          "episode_file": "faaf14098cca4b99e1dcf1e6f71c3594 [faaf14098cca4b99e1dcf1e6f71c3594.mp3？aid=6ab5d8cfcf7654f56aa838ca&chid=66b07190af99592.280].md",
+          "key": "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594",
+          "show": "端聞 | 端傳媒新聞播客",
+          "title": "Google投資A24，AI將成為好萊塢的未來？",
+          "url": "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/generativeaihollywoodproduction/"
     },
     "GenerativeAIMusic": {

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3165
+topic_total_pages: 3168
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -334,6 +334,9 @@ topic_concepts:
   - key: "AICreativeCollaboration"
     title: "AI Creative Collaboration"
     url: "/wiki/concepts/aicreativecollaboration/"
+  - key: "AICreativeProcessDatafication"
+    title: "AI Creative Process Datafication / AI創作流程數據化"
+    url: "/wiki/concepts/aicreativeprocessdatafication/"
   - key: "AICreditAccessBias"
     title: "AI Credit Access Bias"
     url: "/wiki/concepts/aicreditaccessbias/"
@@ -2086,6 +2089,9 @@ topic_concepts:
   - key: "FamilyWorldSimulator"
     title: "Family World Simulator"
     url: "/wiki/concepts/familyworldsimulator/"
+  - key: "FearDrivenAIAdoption"
+    title: "Fear-Driven AI Adoption / 恐懼驅動的AI採用"
+    url: "/wiki/concepts/feardrivenaiadoption/"
   - key: "FederalAIPreemption"
     title: "Federal AI Preemption"
     url: "/wiki/concepts/federalaipreemption/"
@@ -8793,6 +8799,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555"
     title: "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai-42362555/"
+  - key: "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594"
+    title: "Google投資A24，AI將成為好萊塢的未來？"
+    url: "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250"
     title: "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"

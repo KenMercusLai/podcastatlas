@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10788
+wiki_total_pages: 10789
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -2264,6 +2264,9 @@ wiki_pages:
   - key: "ChenGuiDuliaoGeneralLateHan"
     title: "陈龟 / Chen Gui (Duliao general)"
     url: "/wiki/entities/chenguiduliaogenerallatehan/"
+  - key: "ChenZiFilmCultureCommentator"
+    title: "陳子 / Chen Zi"
+    url: "/wiki/entities/chenzifilmculturecommentator/"
   - key: "ChineseUniversityOfHongKong"
     title: "香港中文大学 / Chinese University of Hong Kong"
     url: "/wiki/entities/chineseuniversityofhongkong/"

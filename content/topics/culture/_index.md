@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2814
+topic_total_pages: 2817
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -109,6 +109,9 @@ topic_concepts:
   - key: "AIContentLicensing"
     title: "AI Content Licensing"
     url: "/wiki/concepts/aicontentlicensing/"
+  - key: "AICreativeProcessDatafication"
+    title: "AI Creative Process Datafication / AI創作流程數據化"
+    url: "/wiki/concepts/aicreativeprocessdatafication/"
   - key: "AIDefaultLearningEnvironment"
     title: "AI Default Learning Environment"
     url: "/wiki/concepts/aidefaultlearningenvironment/"
@@ -7478,6 +7481,9 @@ topic_entities:
   - key: "ChenXuanzangConqueringDemons"
     title: "陈玄奘（《西游降魔篇》）"
     url: "/wiki/entities/chenxuanzangconqueringdemons/"
+  - key: "ChenZiFilmCultureCommentator"
+    title: "陳子 / Chen Zi"
+    url: "/wiki/entities/chenzifilmculturecommentator/"
   - key: "TaoYuanming"
     title: "陶渊明 / Tao Yuanming"
     url: "/wiki/entities/taoyuanming/"
@@ -8091,6 +8097,9 @@ topic_sources:
   - key: "tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov"
     title: "Founder Mode: Chris Best, Founder & CEO, Substack"
     url: "/wiki/sources/tsr-ycoffsite-chrisbest-audioonly-v1final-mov-tsr-ycoffsite-chrisbest-audioonly-v1final-mov/"
+  - key: "google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594"
+    title: "Google投資A24，AI將成為好萊塢的未來？"
+    url: "/wiki/sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250"
     title: "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal-42788250/"
