@@ -22623,3 +22623,11 @@ Added source `google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 443. Lord Byron: Death of a Vampire (Part 4)
+
+Added source `443-lord-byron-death-of-a-vampire-part-4-glt3247503776`; created `TeresaGuiccioli`, `AllegraByron`, `GreekWarOfIndependence`, `AristocraticVampire`, and `ByronicCelebrityPolitics`; and updated `LordByron`, `JohnPolidori`, `PercyShelley`, `ClaireClairmont`, `TheRestIsHistory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Polidori authored *The Vampyre* but turned Byron's scandalous aristocratic persona into a durable Gothic type; Byron then converted exile and celebrity into literary, Italian-radical, and Greek political roles. His Greek commitment combined theatrical self-fashioning with real money, liaison work, danger, illness, and death, without erasing private harm or proving decisive military impact. No settled contradiction found. The fatal diagnosis, private motives, reported conversations, and exact political usefulness remain uncertain or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

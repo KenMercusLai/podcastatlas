@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 8163
+wiki_total_pages: 8165
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "BuySideInvestmentAdvisory"
     title: "Buy-Side Investment Advisory / 买方投资顾问"
     url: "/wiki/concepts/buysideinvestmentadvisory/"
+  - key: "ByronicCelebrityPolitics"
+    title: "Byronic Celebrity Politics"
+    url: "/wiki/concepts/byroniccelebritypolitics/"
   - key: "ByteDanceGrowthSystem"
     title: "ByteDance Growth System"
     url: "/wiki/concepts/bytedancegrowthsystem/"

@@ -1691,6 +1691,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "443-lord-byron-death-of-a-vampire-part-4-glt3247503776": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "444-the-first-emperor-of-china-glt5076517033": [
     {
       "key": "history",
@@ -14421,6 +14433,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "ByronicCelebrityPolitics": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     },
     {
       "key": "culture",

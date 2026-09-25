@@ -7080,6 +7080,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/allegoricaladaptationspecificity/"
     },
+    "AllegraByron": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/allegrabyron/"
+    },
     "AllenNewell": {
       "episode_count": 1,
       "show_count": 1,
@@ -10135,6 +10151,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/aristocraticspiritconsumptionboundary/"
+    },
+    "AristocraticVampire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/aristocraticvampire/"
     },
     "ArmagnacBurgundianCivilWar": {
       "episode_count": 2,
@@ -17476,6 +17508,22 @@
       ],
       "updated": "2026-09-17",
       "url": "/wiki/entities/byhealth/"
+    },
+    "ByronicCelebrityPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/byroniccelebritypolitics/"
     },
     "ByzantineCourtCultureTransfer": {
       "episode_count": 1,
@@ -25267,6 +25315,29 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/claimy/"
+    },
+    "ClaireClairmont": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/claireclairmont/"
     },
     "Clarisonic": {
       "episode_count": 1,
@@ -57452,6 +57523,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/grecopersianwarmemory/"
     },
+    "GreekWarOfIndependence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/greekwarofindependence/"
+    },
     "GregoryVII": {
       "episode_count": 1,
       "show_count": 1,
@@ -74514,6 +74601,36 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/johnoldcastle/"
     },
+    "JohnPolidori": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "82.闲聊伟大作家的八卦（第二弹） [695228589].md",
+          "key": "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589",
+          "show": "蜜獾吃书",
+          "title": "82.闲聊伟大作家的八卦（第二弹）",
+          "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
+        },
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johnpolidori/"
+    },
     "JohnTernus": {
       "episode_count": 4,
       "show_count": 2,
@@ -86277,6 +86394,36 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/entities/lopedeaguirre/"
+    },
+    "LordByron": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "82.闲聊伟大作家的八卦（第二弹） [695228589].md",
+          "key": "82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589",
+          "show": "蜜獾吃书",
+          "title": "82.闲聊伟大作家的八卦（第二弹）",
+          "url": "/wiki/sources/82-xianliao-weida-zuojia-de-bagua-di-er-dan-695228589/"
+        },
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/lordbyron/"
     },
     "LordOfTheFlies": {
       "episode_count": 1,
@@ -105251,6 +105398,29 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/perceivedsimilarityinrelationships/"
+    },
+    "PercyShelley": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代 [857923931].md",
+          "key": "141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931",
+          "show": "蜜獾吃书",
+          "title": "141. 制造弗兰肯斯坦：科幻之母和她的神奇时代",
+          "url": "/wiki/sources/141-zhizao-fulankensitan-kehuan-zhimu-he-tade-shenqi-shidai-857923931/"
+        },
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/percyshelley/"
     },
     "PerfectDayImagination": {
       "episode_count": 1,
@@ -134703,6 +134873,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/entities/terafab/"
     },
+    "TeresaGuiccioli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/teresaguiccioli/"
+    },
     "TerminalMandateSelfDeception": {
       "episode_count": 2,
       "show_count": 1,
@@ -135246,9 +135432,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 1,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -135438,9 +135624,16 @@
           "show": "The Rest Is History",
           "title": "462. St George: Dragon-Slayer",
           "url": "/wiki/sources/462-st-george-dragon-slayer-glt5334319363/"
+        },
+        {
+          "episode_file": "GLT3247503776 [GLT3247503776].md",
+          "key": "443-lord-byron-death-of-a-vampire-part-4-glt3247503776",
+          "show": "The Rest Is History",
+          "title": "443. Lord Byron: Death of a Vampire (Part 4)",
+          "url": "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheRollingStones": {

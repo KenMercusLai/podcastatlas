@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [443. Lord Byron: Death of a Vampire (Part 4)](sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776.md) — The Rest Is History on Byron's vampire afterlife, European celebrity, Italian exile, radical politics, Greek commitment, death, and contested reputation.
 - [Google投資A24，AI將成為好萊塢的未來？](sources/google-touzi-a24-ai-jiang-chengwei-haolaiwu-de-weilai-faaf14098cca4b99e1dcf1e6f71c3594.md) — 端聞 episode on the Google DeepMind–A24 partnership, feature-film AI limits, creative-process data, brand conflict, and fear-driven adoption.
 - [503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云](sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu.md) — 忽左忽右 retrospective on Xu Zhuoyun's wartime formation, comparative and interdisciplinary historiography, public writing, mentorship, and inner settlement.
 - [Big meet, little meat: the Trump-Xi summit](sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db.md) — The Intelligence on a narrow Trump-Xi truce, Robinson's American political access, and Bob Mackie's person-centered celebrity costumes.
@@ -2850,6 +2851,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Teresa Guiccioli](entities/TeresaGuiccioli.md) — Byron's sustained late-life partner and link to the Gamba family and Italian revolutionary politics.
+- [Allegra Byron](entities/AllegraByron.md) — Daughter of Lord Byron and Claire Clairmont whose short life exposes the family cost beneath the Romantic celebrity circle.
+- [Greek War of Independence](entities/GreekWarOfIndependence.md) — Conflict in which Byron converted money, celebrity, liaison work, and bodily risk into philhellenic support.
 - [陳子 / Chen Zi](entities/ChenZiFilmCultureCommentator.md) — Film and culture commentator analyzing A24, AI production, creator-process value, and competitive adoption pressure.
 - [许倬云 / Xu Zhuoyun](entities/XuZhuoyun.md) — Historian connecting ordinary people's lives, China-and-world comparison, interdisciplinary method, public writing, and teaching responsibility.
 - [冯俊文 / Feng Junwen](entities/FengJunwen.md) — Xu Zhuoyun's late-life assistant, editor, oral-history organizer, and cultural-estate executor.
@@ -13653,6 +13657,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [Aristocratic Vampire](concepts/AristocraticVampire.md) — Gothic type created when Polidori transformed Byron's alluring, scandalous aristocratic persona into a fictional predator.
+- [Byronic Celebrity Politics](concepts/ByronicCelebrityPolitics.md) — Conversion of literary scandal and public persona into cultural, financial, diplomatic, and political capacity.
 - [AI Creative Process Datafication / AI創作流程數據化](concepts/AICreativeProcessDatafication.md) — Governance risk created when project selection, discarded options, aesthetic judgment, and production decisions become learnable workflow data.
 - [Fear-Driven AI Adoption / 恐懼驅動的AI採用](concepts/FearDrivenAIAdoption.md) — Self-reinforcing adoption driven partly by fear that competitors are moving first.
 - [历史作为生命资源 / History as a Life Resource](concepts/HistoryAsLifeResource.md) — Public-history frame in which historical knowledge helps ordinary readers understand the present and locate themselves in longer processes.

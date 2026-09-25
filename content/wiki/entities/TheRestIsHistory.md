@@ -30,7 +30,8 @@ sources:
   - 671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565
   - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
   - 462-st-george-dragon-slayer-glt5334319363
-last_updated: 2026-09-25
+  - 443-lord-byron-death-of-a-vampire-part-4-glt3247503776
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -38,7 +39,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, a medieval Anglo-French branch, comparative African female power, and early Quaker abolitionist activism.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary and legendary afterlives, founding and Roman political-crisis branches, a medieval Anglo-French branch, comparative African female power, early Quaker abolitionist activism, and [[LordByron|Lord Byron / 拜伦]]'s celebrity, Gothic, and philhellenic afterlives.
 
 ## Current Profile
 
@@ -56,6 +57,8 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates an uncertain martyr core from late torture stories, mounted serpent imagery, the dragon rescue narrative, [[OrderOfTheGarter|Garter]] patronage, Protestant allegory, English national use, and transnational veneration. The result treats skepticism as part of the tradition's own history and symbolic flexibility as a historical outcome rather than evidence that every legend is true.
 
+The Byron branch uses the final episode of a longer sequence to connect the 1816 Geneva circle, [[JohnPolidori|John Polidori / 约翰·波利多里]]'s [[AristocraticVampire|aristocratic vampire]], Venetian and Italian exile, radical publishing, and the [[GreekWarOfIndependence|Greek War of Independence]]. It treats celebrity as transferable political and literary power while distinguishing performance from material commitment and refusing to let Byron's death erase private harm.
+
 ## Key Characteristics
 
 - The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences, from Marathon's tactical and memory problem to the 1915 war branch.
@@ -64,7 +67,7 @@ The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates
 - Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
 - Its Elizabethan and Northern Ireland branches connect security crises to institutions, memory, legitimacy, intelligence, policing, and armed escalation.
 - Its national-symbol, saint, and sport-politics branches show public symbols as politically usable without assuming one fixed meaning or secure biographical core.
-- Its Homeric, Mayerling, Founding Fathers, and Roman Civil War branches use literature, scandal, biography, and military career to expose institutional crisis and public authority.
+- Its Homeric, Mayerling, Founding Fathers, Roman Civil War, and Byron branches use literature, scandal, biography, celebrity, and military or political careers to expose institutional crisis and public authority while preserving uncertainty about motives and impact.
 
 ## Evidence
 
@@ -83,13 +86,15 @@ The [[StGeorge|St George]] episode adds a legend-and-symbol branch. It separates
 - Roman Civil War branch: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] opens the sequence through Marius, the Gracchi legacy, Roman expansion anxiety, popularis politics, the Jugurthine War, military credit, and the Sulla rivalry.
 - National-symbol and sport-politics branch: [[681-brazil-the-emperors-anthem-part-5-glt5596929385]], [[680-the-netherlands-the-revolt-that-made-the-modern-world-part-4-glt4209356543]], [[679-germany-the-song-hitler-stole-part-3-glt6217148052]], [[678-britain-god-save-the-king-part-2-glt2603959218]], and [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] use Brazil, the Netherlands, Germany, Britain, and fascist Italy to compare political plasticity, loyal rebellion, selective anthem canonization, constituent-nation sporting identity, and authoritarian sports propaganda.
 - Legendary saint and symbolic-afterlife branch: [[462-st-george-dragon-slayer-glt5334319363]] separates uncertain late-antique history from martyr legend, dragon-slayer imagery, chivalric institutions, Reformation reuse, and modern national contest.
+- Romantic celebrity and political-action branch: [[443-lord-byron-death-of-a-vampire-part-4-glt3247503776]] follows Byron from the Geneva vampire afterlife through Italian exile and politics to money, liaison work, illness, and death at Missolonghi.
 
 ## Qualifications
 
-This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition.
+This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts. The George branch cannot establish the saint's existence, identity, relics, or dragon story as contemporary history; its strongest claims concern the development and reuse of the tradition. The Byron branch is one final installment rather than a complete life or literary study, and the fatal diagnosis, private motives, reported dialogue, and degree of political usefulness remain source-scoped.
 
 ## What Changed
 
+- Added the Byron finale as a Romantic celebrity, Gothic afterlife, Italian politics, and Greek independence branch.
 - Added the St George episode as a legend-and-symbol branch that distinguishes historical uncertainty from the saint's well-attested cultural afterlife.
 
 ## Relationships
@@ -168,3 +173,7 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 - [[StGeorge]] - uncertain martyr whose layered afterlife extends the show's source-critical and symbolic-history coverage.
 - [[SaintLegendAccretion]] - framework for the episode's separation of historical core, martyr story, imagery, and later narrative.
 - [[PatronSaintSymbolicPlasticity]] - framework for George's survival across royal, confessional, national, and sporting reuse.
+- [[LordByron]] - Romantic poet whose scandal, exile, literature, and political action anchor the new branch.
+- [[AristocraticVampire]] - Gothic type through which Byron's persona acquired an independent literary afterlife.
+- [[ByronicCelebrityPolitics]] - framework joining public image to literary, financial, diplomatic, and political capacity.
+- [[GreekWarOfIndependence]] - conflict setting for Byron's final material and symbolic commitment.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8163
+wiki_total_pages: 8165
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2105,6 +2105,9 @@ wiki_pages:
   - key: "AristocraticSpiritConsumptionBoundary"
     title: "Aristocratic Spirit Consumption Boundary / 贵族精神消费边界"
     url: "/wiki/concepts/aristocraticspiritconsumptionboundary/"
+  - key: "AristocraticVampire"
+    title: "Aristocratic Vampire"
+    url: "/wiki/concepts/aristocraticvampire/"
   - key: "ArmagnacBurgundianCivilWar"
     title: "Armagnac-Burgundian Civil War"
     url: "/wiki/concepts/armagnacburgundiancivilwar/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10789
+wiki_total_pages: 10792
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -689,6 +689,9 @@ wiki_pages:
   - key: "GreatStarIndustrial"
     title: "GreatStar Industrial / 巨星科技"
     url: "/wiki/entities/greatstarindustrial/"
+  - key: "GreekWarOfIndependence"
+    title: "Greek War of Independence"
+    url: "/wiki/entities/greekwarofindependence/"
   - key: "GreenPartyOfEnglandAndWales"
     title: "Green Party of England and Wales"
     url: "/wiki/entities/greenpartyofenglandandwales/"

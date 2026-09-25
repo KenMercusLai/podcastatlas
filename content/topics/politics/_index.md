@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2702
+topic_total_pages: 2703
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -493,6 +493,9 @@ topic_concepts:
   - key: "BusinessEliteRuleHongKong"
     title: "Business-Elite Rule in Hong Kong / 商界治港"
     url: "/wiki/concepts/businesseliterulehongkong/"
+  - key: "ByronicCelebrityPolitics"
+    title: "Byronic Celebrity Politics"
+    url: "/wiki/concepts/byroniccelebritypolitics/"
   - key: "ByzantineCourtCultureTransfer"
     title: "Byzantine Court Culture Transfer"
     url: "/wiki/concepts/byzantinecourtculturetransfer/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2817
+topic_total_pages: 2819
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -526,6 +526,9 @@ topic_concepts:
   - key: "BullyingPreventionThroughEmotionalSkills"
     title: "Bullying Prevention Through Emotional Skills"
     url: "/wiki/concepts/bullyingpreventionthroughemotionalskills/"
+  - key: "ByronicCelebrityPolitics"
+    title: "Byronic Celebrity Politics"
+    url: "/wiki/concepts/byroniccelebritypolitics/"
   - key: "CainMarkReinterpretation"
     title: "Cain Mark Reinterpretation / 该隐印记重释"
     url: "/wiki/concepts/cainmarkreinterpretation/"
@@ -7803,6 +7806,9 @@ topic_sources:
   - key: "44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308"
     title: "44.运气的诱饵：赌博成瘾，因为我们害怕自由"
     url: "/wiki/sources/44-yunqi-de-youer-dubo-chengyin-yinwei-women-haipa-ziyou-619995308/"
+  - key: "443-lord-byron-death-of-a-vampire-part-4-glt3247503776"
+    title: "443. Lord Byron: Death of a Vampire (Part 4)"
+    url: "/wiki/sources/443-lord-byron-death-of-a-vampire-part-4-glt3247503776/"
   - key: "45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112"
     title: "45.机器人大师：多希望莱姆能评价一下ChatGPT啊！"
     url: "/wiki/sources/45-jiqirendashi-duo-xiwang-laimu-neng-pingjia-yixia-chatgpt-a-621855112/"
