@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2009
+topic_total_pages: 2011
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1450,6 +1450,9 @@ topic_concepts:
   - key: "TenKingdomsRelationshipTypes"
     title: "十国关系类型 / Ten Kingdoms Relationship Types"
     url: "/wiki/concepts/tenkingdomsrelationshiptypes/"
+  - key: "HistoryAsLifeResource"
+    title: "历史作为生命资源 / History as a Life Resource"
+    url: "/wiki/concepts/historyasliferesource/"
   - key: "HistoricalPrecedentCrisisPlanning"
     title: "历史先例式危机规划 / Historical Precedent Crisis Planning"
     url: "/wiki/concepts/historicalprecedentcrisisplanning/"
@@ -4800,6 +4803,9 @@ topic_sources:
   - key: "502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222"
     title: "502. The Roman Conquest of Britain: To the Ends of the Earth (Part 4)"
     url: "/wiki/sources/502-the-roman-conquest-of-britain-to-the-ends-of-the-earth-part-4-glt1970351222/"
+  - key: "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu"
+    title: "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云"
+    url: "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
   - key: "503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194"
     title: "503. The French Revolution: Bloodbath in Paris (Part 1)"
     url: "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"

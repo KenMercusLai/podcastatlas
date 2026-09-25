@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8160
+wiki_total_pages: 8161
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -872,6 +872,9 @@ wiki_pages:
   - key: "HereditaryOfficePrivilege"
     title: "任子式官职特权 / Hereditary Office Privilege"
     url: "/wiki/concepts/hereditaryofficeprivilege/"
+  - key: "HistoryAsLifeResource"
+    title: "历史作为生命资源 / History as a Life Resource"
+    url: "/wiki/concepts/historyasliferesource/"
   - key: "HistoricalPrecedentCrisisPlanning"
     title: "历史先例式危机规划 / Historical Precedent Crisis Planning"
     url: "/wiki/concepts/historicalprecedentcrisisplanning/"

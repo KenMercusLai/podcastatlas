@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
+
+Added source `503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu`; created `XuZhuoyun`, `FengJunwen`, `WangXiaobo`, and `HistoryAsLifeResource`; and updated `HuzuoHuyou`, `OrdinaryPeopleHistoricalVisibility`, `ProblemLedInterdisciplinarity`, `CosmopolitanChineseScholarship`, and `SpiritualFreedomUnderConstraint` from their complete bounded source sets. Core synthesis: Xu Zhuoyun's disability, wartime displacement, map-based world awareness, cross-cultural training, public participation, and teaching ethic converged in a historiography centered on ordinary people, reciprocal China-world comparison, problem-led methods, and history as a resource for self-placement. No settled contradiction found; Feng Junwen's proximity provides detail but remains a single-witness perspective, and remembered dialogue, exposure and sales totals, political influence, private motives, and the extent of Xu's influence on Wang Xiaobo remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
+
 ## [2026-09-25] ingest | Big meet, little meat: the Trump-Xi summit
 
 Added source `big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db`; created `BobMackie`, `USChinaStrategicStalemate`, `SummitCeremonySubstanceGap`, and `CelebrityCostumePortraiture`; and updated `XiJinping`, `TommyRobinson`, `RareEarthExportLeverage`, `AmericanRightBritainWarningNarrative`, and `USChinaAITechnicalCooperation` from their complete bounded source sets. Core synthesis: summit spectacle yielded only a two-month trade pause, continued rare-earth supply, and AI dialogue without a substantive hotline, while China and America remain in an unstable stalemate; Robinson's British warning narrative has acquired reported American political access and local electoral uses; and Mackie's costumes treated the individual performer as the central work of art. No settled contradiction found. The missing AI hotline qualifies the previous technical-cooperation outlook, while polling, private descriptions, access arrangements, campaign effects, and motives remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
@@ -22599,6 +22603,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 444. The First Emperor of China
 
 Added source `444-the-first-emperor-of-china-glt5076517033`; created `TerracottaArmy` and `FounderTyrantPoliticalMemory`; and updated the canonical index and overview. Core synthesis: Qin Shi Huang's durable centralization and coercive violence must remain in one judgment, while Confucian criticism, labor legend, archaeological spectacle, and Maoist rehabilitation are distinct layers of political memory. The episode treats selective book burning as probable but the burial of Confucian scholars as probably unhistorical; corpse concealment, slaughter totals, tomb mechanisms, and immortality stories remain uncertain or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

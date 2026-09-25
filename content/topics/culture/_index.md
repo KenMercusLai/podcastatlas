@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2812
+topic_total_pages: 2814
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2881,6 +2881,9 @@ topic_concepts:
   - key: "EffortNarrativeInterrogation"
     title: "努力叙事追问 / Effort Narrative Interrogation"
     url: "/wiki/concepts/effortnarrativeinterrogation/"
+  - key: "HistoryAsLifeResource"
+    title: "历史作为生命资源 / History as a Life Resource"
+    url: "/wiki/concepts/historyasliferesource/"
   - key: "HistoricalQuestionConsciousness"
     title: "历史问题意识 / Historical Question Consciousness"
     url: "/wiki/concepts/historicalquestionconsciousness/"
@@ -7142,6 +7145,9 @@ topic_entities:
   - key: "WangJiye"
     title: "王季叶 / Wang Jiye"
     url: "/wiki/entities/wangjiye/"
+  - key: "WangXiaobo"
+    title: "王小波 / Wang Xiaobo"
+    url: "/wiki/entities/wangxiaobo/"
   - key: "WangWeiTudou"
     title: "王微 / Wang Wei (Tudou)"
     url: "/wiki/entities/wangweitudou/"

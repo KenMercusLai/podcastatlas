@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云](sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu.md) — 忽左忽右 retrospective on Xu Zhuoyun's wartime formation, comparative and interdisciplinary historiography, public writing, mentorship, and inner settlement.
 - [Big meet, little meat: the Trump-Xi summit](sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db.md) — The Intelligence on a narrow Trump-Xi truce, Robinson's American political access, and Bob Mackie's person-centered celebrity costumes.
 - [444. The First Emperor of China](sources/444-the-first-emperor-of-china-glt5076517033.md) — The Rest Is History on Qin Shi Huang as coercive unifier, mythic tyrant, monumental founder, and repeatedly reworked political memory.
 - [Meta's new Muse AI agent gives investors the warm-'n-fuzzies](sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128.md) — Marketplace Tech on Muse's action, permission, error, and platform-access constraints; cybersecurity product and valuation proof; and Discord's behavioral age assurance.
@@ -2848,6 +2849,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [许倬云 / Xu Zhuoyun](entities/XuZhuoyun.md) — Historian connecting ordinary people's lives, China-and-world comparison, interdisciplinary method, public writing, and teaching responsibility.
+- [冯俊文 / Feng Junwen](entities/FengJunwen.md) — Xu Zhuoyun's late-life assistant, editor, oral-history organizer, and cultural-estate executor.
+- [王小波 / Wang Xiaobo](entities/WangXiaobo.md) — Writer represented through his Pittsburgh-era editing, discussion, and mentorship relationship with Xu Zhuoyun.
 - [Bob Mackie](entities/BobMackie.md) — Hollywood costume designer who treated stage clothing as a theatrical portrait of a particular star.
 - [Terracotta Army / 兵马俑](entities/TerracottaArmy.md) — Qin funerary army whose modular mass production and archaeological afterlife materialize imperial capacity.
 - [Okta](entities/Okta.md) — Identity-security company presented through an early AI access-control product and the gap between security demand, product proof, and valuation.
@@ -13647,6 +13651,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [历史作为生命资源 / History as a Life Resource](concepts/HistoryAsLifeResource.md) — Public-history frame in which historical knowledge helps ordinary readers understand the present and locate themselves in longer processes.
 - [U.S.-China Strategic Stalemate](concepts/USChinaStrategicStalemate.md) — Bilateral condition in which reciprocal leverage prevents capitulation without producing durable settlement.
 - [Summit Ceremony-Substance Gap](concepts/SummitCeremonySubstanceGap.md) — Distance between elaborate diplomatic presentation and limited or temporary negotiated outcomes.
 - [Celebrity Costume Portraiture](concepts/CelebrityCostumePortraiture.md) — Design of performance clothing as a person-specific extension of body, character, movement, and public identity.

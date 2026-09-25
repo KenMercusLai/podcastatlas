@@ -1399,6 +1399,10 @@
     "title": "503. The French Revolution: Bloodbath in Paris (Part 1)",
     "url": "/wiki/sources/503-the-french-revolution-bloodbath-in-paris-part-1-glt8447202194/"
   },
+  "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu": {
+    "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+    "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+  },
   "504-the-french-revolution-war-to-the-death-part-2-glt3201191708": {
     "title": "504. The French Revolution: War to the Death (Part 2)",
     "url": "/wiki/sources/504-the-french-revolution-war-to-the-death-part-2-glt3201191708/"
@@ -24119,6 +24123,10 @@
     "title": "冯敬 / Feng Jing (Chu-Han)",
     "url": "/wiki/entities/fengjingchuhan/"
   },
+  "FengJunwen": {
+    "title": "冯俊文 / Feng Junwen",
+    "url": "/wiki/entities/fengjunwen/"
+  },
   "FengLiangLateHan": {
     "title": "冯良 / Feng Liang (late Han)",
     "url": "/wiki/entities/fenglianglatehan/"
@@ -31090,6 +31098,10 @@
   "HistoriographicalPresentism": {
     "title": "Historiographical Presentism / 史评当代性",
     "url": "/wiki/concepts/historiographicalpresentism/"
+  },
+  "HistoryAsLifeResource": {
+    "title": "历史作为生命资源 / History as a Life Resource",
+    "url": "/wiki/concepts/historyasliferesource/"
   },
   "HitGoo": {
     "title": "HitGoo",
@@ -70299,6 +70311,10 @@
     "title": "王文锋 / Wang Wenfeng",
     "url": "/wiki/entities/wangwenfeng/"
   },
+  "WangXiaobo": {
+    "title": "王小波 / Wang Xiaobo",
+    "url": "/wiki/entities/wangxiaobo/"
+  },
   "WangXiaoshu": {
     "title": "王小叔",
     "url": "/wiki/entities/wangxiaoshu/"
@@ -73522,6 +73538,10 @@
   "XuZhongJin": {
     "title": "许众 / Xu Zhong (Jin commentator)",
     "url": "/wiki/entities/xuzhongjin/"
+  },
+  "XuZhuoyun": {
+    "title": "许倬云 / Xu Zhuoyun",
+    "url": "/wiki/entities/xuzhuoyun/"
   },
   "XuanDengMotherLateHan": {
     "title": "萱 / Xuan (Deng Meng's mother)",

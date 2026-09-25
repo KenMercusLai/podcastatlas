@@ -28938,6 +28938,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/cosmiccrisp/"
     },
+    "CosmopolitanChineseScholarship": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举” [565412437].md",
+          "key": "19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437",
+          "show": "蜜獾吃书",
+          "title": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”",
+          "url": "/wiki/sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437/"
+        },
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/cosmopolitanchinesescholarship/"
+    },
     "CossackHetmanate": {
       "episode_count": 1,
       "show_count": 1,
@@ -47189,6 +47212,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/fengjilatehan/"
     },
+    "FengJunwen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/fengjunwen/"
+    },
     "FengLiangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -63442,6 +63481,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/historicalreadingassurvivalwisdom/"
     },
+    "HistoryAsLifeResource": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/historyasliferesource/"
+    },
     "HofburgPalace": {
       "episode_count": 1,
       "show_count": 1,
@@ -67481,9 +67536,9 @@
       "url": "/wiki/entities/huyangprincesseasternhan/"
     },
     "HuzuoHuyou": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "149.百五特辑：和两位老媒体人漫谈播客、媒介以及声音生态的未来 [liHbq8vuJSQXvB7h2_pZ2xM-eQGA].md",
@@ -67526,9 +67581,16 @@
           "show": "忽左忽右",
           "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
           "url": "/wiki/sources/501-cong-hongliangji-gongzizhen-dao-weiyuan-qingzhongye-de-ren-ruhe-kandai-ziji-guojia-weilai-lgu0h9kaxmfwzoe1byxeyq7png9o/"
+        },
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/huzuohuyou/"
     },
     "HydraulicSiegeWarfare": {
@@ -102151,9 +102213,9 @@
       "url": "/wiki/concepts/ordinaryinvestormacroboundary/"
     },
     "OrdinaryPeopleHistoricalVisibility": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？ [3d36f181-94ad-4883-8db3-5f040b5ed45b].md",
@@ -102161,9 +102223,16 @@
           "show": "蜉蝣天地 Meanders",
           "title": "Episode 20: 100 年前东北女孩写给巴黎的信｜对谈历史学者李纪：普通人如何穿过大历史？",
           "url": "/wiki/sources/100-nian-qian-dongbei-nvhai-xie-gei-bali-de-xin-duitan-lishixuezhe-liji-putongren-ruhe-chuanguo-da-lishi-3d36f181-94ad-4883-8db3-5f040b5ed45b/"
+        },
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
         }
       ],
-      "updated": "2026-08-26",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/ordinarypeoplehistoricalvisibility/"
     },
     "OrientOverseas": {
@@ -110160,9 +110229,9 @@
       "url": "/wiki/concepts/proactiveagents/"
     },
     "ProblemLedInterdisciplinarity": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "16a80abc-0826-4ec8-8c94-54ecb79161ef [16a80abc-0826-4ec8-8c94-54ecb79161ef].md",
@@ -110170,9 +110239,16 @@
           "show": "声东击西",
           "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
           "url": "/wiki/sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc/"
+        },
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
         }
       ],
-      "updated": "2026-09-20",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/problemledinterdisciplinarity/"
     },
     "ProceduralizedViolence": {
@@ -127984,6 +128060,36 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/spinesparingcorestability/"
     },
+    "SpiritualFreedomUnderConstraint": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
+          "key": "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp",
+          "show": "面基",
+          "title": "山上山下皆人间，无事逍遥即神仙",
+          "url": "/wiki/sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp/"
+        },
+        {
+          "episode_file": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举” [565412437].md",
+          "key": "19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437",
+          "show": "蜜獾吃书",
+          "title": "19.荒野上的大师：“我辈于乱世求研究，本为逆流之妄举”",
+          "url": "/wiki/sources/19-huangye-shang-de-dashi-wo-bei-yu-luanshi-qiu-yanjiu-ben-wei-niliu-zhi-wangju-565412437/"
+        },
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/spiritualfreedomunderconstraint/"
+    },
     "SpiroAgnew": {
       "episode_count": 1,
       "show_count": 1,
@@ -143640,6 +143746,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/entities/wangweisf/"
     },
+    "WangXiaobo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/wangxiaobo/"
+    },
     "WangXiaowei": {
       "episode_count": 1,
       "show_count": 1,
@@ -150700,6 +150822,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuzhilatehan/"
+    },
+    "XuZhuoyun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "llhGtepdsZPYV65xkizXvAqUiicu [llhGtepdsZPYV65xkizXvAqUiicu].md",
+          "key": "503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu",
+          "show": "忽左忽右",
+          "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
+          "url": "/wiki/sources/503-wuxi-taibei-pizibao-fengjunwen-huiyi-shidai-jubian-zhong-de-lishixuejia-xuzhuoyun-llhgtepdszpyv65xkizxvaquicu/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/xuzhuoyun/"
     },
     "XuanDengMotherLateHan": {
       "episode_count": 1,
