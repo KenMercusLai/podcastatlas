@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Meta's new Muse AI agent gives investors the warm-'n-fuzzies](sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128.md) — Marketplace Tech on Muse's action, permission, error, and platform-access constraints; cybersecurity product and valuation proof; and Discord's behavioral age assurance.
 - [GUEST SERIES | Dr. Matt Walker: Improve Sleep to Boost Mood & Emotional Regulation](sources/guest-series-dr-matt-walker-improve-sleep-to-boost-mood-emotional-regulation-scim1989437288.md) — Huberman Lab sleep-series episode on stage-specific emotional regulation, anxiety, trauma, addiction vulnerability, depression, suicide-risk signals, and clinical boundaries.
 - [445. The Habsburgs: Secrets of a Dynasty](sources/445-the-habsburgs-secrets-of-a-dynasty-glt9923460597.md) — The Rest Is History interview on Habsburg marriage diplomacy, Catholic family identity, layered imperial rule, succession, and the limits of a sympathetic dynastic interpretation.
 - [VOL.111血管外科｜你还在信这些“血管健康”产品吗？你还不知道这个科室吗](sources/vol-111-xueguan-waike-ni-hai-zai-xin-zhexie-xueguan-jiankang-chanpin-ma-ni-hai-bu-zhidao-zhege-keshi-ma-ls8ocppuxuf_oxws1tcioduomzmb.md) — 这病说来话长 episode on vascular-surgery symptom routing, imaging and treatment escalation, thrombosis, atherosclerosis, and misleading vessel-softening health products.
@@ -2845,6 +2846,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Okta](entities/Okta.md) — Identity-security company presented through an early AI access-control product and the gap between security demand, product proof, and valuation.
 - [Eduard Habsburg](entities/EduardHabsburg.md) — Habsburg family member, author, and Hungarian ambassador interpreting dynastic history through Catholicism, subsidiarity, service, identity, and death.
 - [Holy Roman Empire](entities/HolyRomanEmpire.md) — Elective imperial order central to the Habsburg ascent and the episode's retrospective layered-governance argument.
 - [Casey Means](entities/CaseyMeans.md) — Physician and metabolic-health educator connecting mitochondrial capacity, glucose regulation, lifestyle inputs, and contextual self-observation.
@@ -3182,7 +3184,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [吕岱 / Lyu Dai](entities/LyuDai.md) — 通过宗族中介取得士徽六兄弟投降并处死他们、执行孙吴交州整合的将领。
 - [交州 / Jiaozhou](entities/Jiaozhou.md) — 士氏家族跨郡经营并在226年后遭孙吴行政重划与直接接管的南方州域。
 - [Town Personal AI](entities/TownPersonalAI.md) — Email- and desktop-centered personal agent that builds toward broader delegation through progressive trust.
-- [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer agent using distribution and cloud execution while facing permission and platform-access constraints.
+- [Muse Personal Agent](entities/MusePersonalAgent.md) — Meta consumer agent using distribution and cloud execution while facing permission, reliability, human-fallback, and platform-access constraints.
 - [Lulu (plastic-surgery doctor)](entities/LuluPlasticSurgeon.md) — Source-scoped clinician translating medical-drama cases into medical-aesthetic safety and judgment boundaries.
 - [冯小六 (vascular-surgery doctor)](entities/FengXiaoliuVascularSurgeon.md) — Source-scoped surgeon contributing a medically trained beginner's personal experience of medical-aesthetic procedures.
 - [《以美之名》 / In the Name of Beauty](entities/YiMeiZhiMingDrama.md) — Medical drama used as an educational hook for plastic-surgery and medical-aesthetic risk discussion.
@@ -7794,7 +7796,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [RWKV](entities/RWKV.md) — Open-source model project that anchored Recursor before Featherless AI moved toward serving many open model families.
 - [Llama](entities/Llama.md) — Open model family used in the Featherless AI source as a mainstream demand signal for hosted open-model inference.
 - [Mistral AI](entities/MistralAI.md) — AI company/model family mentioned as part of Featherless AI's pivot from RWKV-specific tooling to mainstream open-model hosting.
-- [Discord](entities/Discord.md) — Community surface where Featherless AI found early technical users alongside Reddit.
+- [Discord](entities/Discord.md) — Community platform represented through startup discovery and a behavioral age-assurance rollout with classification and identity-data risks.
 - [Kinley Salmon](entities/KinleySalmon.md) — The Intelligence correspondent explaining Venezuela's transition talks, U.S. leverage, and Machado's absence.
 - [Marco Rubio](entities/MarcoRubio.md) — U.S. secretary of state in the source's Venezuela transition account, tied to oil-revenue leverage and election reform.
 - [Dinora Figueroa](entities/DinoraFigueroa.md) — Opposition-side leader in the Caracas negotiations, connected to the 2015 National Assembly and Machado legitimacy gap.
@@ -12166,7 +12168,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yahoo](entities/Yahoo.md) — Acquirer of Viaweb and desired early Google distribution partner behind the founders' interest in Sequoia.
 - [Yahoo Store](entities/YahooStore.md) — Post-acquisition Viaweb product context for Blackwell's small-merchant self-serve advertising prototype.
 - [Hassan Benchikran](entities/HassanBenchikran.md) — San Diego pulmonary and critical/intensive care physician arguing that patients will use AI health answers and should be encouraged to bring them into appointments for contextual review.
-- [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist and Marketplace Tech guest connecting AI markets, infrastructure, product trust, platform safety, and data-center permitting.
+- [Anita Ramaswamy](entities/AnitaRamaswamy.md) — The Information columnist and Marketplace Tech guest connecting AI markets, infrastructure, product trust, platform safety, cybersecurity valuation, and age assurance.
 - [The Information](entities/TheInformation.md) — Technology business publication affiliation for Anita Ramaswamy in the Marketplace Tech AI market roundup.
 - [Micron Technology](entities/MicronTechnology.md) — Memory supplier used to explain HBM/DRAM scarcity, AI data-center demand, consumer-memory pressure, and U.S. fab-governance constraints.
 - [SK Hynix](entities/SKHynix.md) — Memory supplier peer named alongside Micron and Samsung in the AI memory demand cycle.
@@ -13641,6 +13643,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Diego Bohórquez](entities/DiegoBohorquez.md) — Gut-brain neuroscientist whose neuropod-cell research links intestinal nutrient sensing to rapid vagal communication and food preference.
 
 ## Concepts
+- [AI Cybersecurity Valuation Gap](concepts/AICybersecurityValuationGap.md) — Difference between real AI-security demand and proof that a particular vendor, product, or valuation will capture it.
 - [Sleep-Mental Health Bidirectionality](concepts/SleepMentalHealthBidirectionality.md) — QQRT-based framework for reciprocal influence between sleep and psychiatric vulnerability without reducing treatment to sleep alone.
 - [Sleep-Loss Emotional Reactivity](concepts/SleepLossEmotionalReactivity.md) — Model linking insufficient sleep with stronger threat and reward responses plus weaker prefrontal regulation.
 - [Deep Non-REM Sleep Anxiety Regulation](concepts/DeepNonREMSleepAnxietyRegulation.md) — Stage-specific account connecting deep-sleep electrical quality with overnight anxiety reduction and frontal re-engagement.
@@ -18731,9 +18734,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Training Data Scarcity](concepts/AITrainingDataScarcity.md) — Constraint pushing model companies from public web text toward higher-value workflow, expert, and process data.
 - [Workplace Behavior Training Data](concepts/WorkplaceBehaviorTrainingData.md) — Employee mouse, click, and keystroke traces captured as model-training material for computer-use agents.
 - [Platform Age Estimation](concepts/PlatformAgeEstimation.md) — Face-based or signal-based inference of user age for child-safety and communication rules.
-- [Online Age Verification](concepts/OnlineAgeVerification.md) — Policy and technical practice of requiring web users to prove or estimate age before accessing certain sites or services.
+- [Online Age Verification](concepts/OnlineAgeVerification.md) — Policy and technical infrastructure for proving or estimating age, including background inference, explicit fallback, error correction, and vendor security.
 - [Age Verification Compliance Industry](concepts/AgeVerificationComplianceIndustry.md) — Contractor and tooling market for ID scans, face matching, age estimation, and related age-gate compliance work.
-- [Behavioral Age Inference](concepts/BehavioralAgeInference.md) — Use of follows, searches, watched videos, and other activity signals to estimate whether a user is a child or an adult.
+- [Behavioral Age Inference](concepts/BehavioralAgeInference.md) — Use of account history and activity signals to estimate age, reducing routine ID prompts while retaining error, appeal, and fallback-data risks.
 - [Age Verification Patchwork](concepts/AgeVerificationPatchwork.md) — Fragmented state and international age-assurance rules that make platform access and compliance depend on location.
 - [Free Speech Coalition v. Paxton](concepts/FreeSpeechCoalitionVPaxton.md) — Supreme Court age-verification case treated in the source as narrower than general social-platform identity checks.
 - [Settlement-Induced Age Verification](concepts/SettlementInducedAgeVerification.md) — Risk that platform settlements create age or identity verification pressure without direct statutory mandates.

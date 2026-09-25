@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3162
+topic_total_pages: 3165
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -340,6 +340,9 @@ topic_concepts:
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"
+  - key: "AICybersecurityValuationGap"
+    title: "AI Cybersecurity Valuation Gap"
+    url: "/wiki/concepts/aicybersecurityvaluationgap/"
   - key: "AIDataBrokerDemand"
     title: "AI Data Broker Demand"
     url: "/wiki/concepts/aidatabrokerdemand/"
@@ -6509,6 +6512,9 @@ topic_entities:
   - key: "OceanBase"
     title: "OceanBase"
     url: "/wiki/entities/oceanbase/"
+  - key: "Okta"
+    title: "Okta"
+    url: "/wiki/entities/okta/"
   - key: "Oliver"
     title: "Oliver"
     url: "/wiki/entities/oliver/"
@@ -8886,6 +8892,9 @@ topic_sources:
   - key: "tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128"
     title: "Meta's landmark social media settlement"
     url: "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+  - key: "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128"
+    title: "Meta's new Muse AI agent gives investors the warm-'n-fuzzies"
+    url: "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140"
     title: "Microsoft CEO Satya Nadella on AI's Business Revolution: What Happens to SaaS, OpenAI, and Microsoft? | LIVE from Davos"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-microsoft-ceo-satya-nadella-on-ais-business-revolution-what-happens-to-saas-openai-and-microsoft-live-from-davos-39818140/"

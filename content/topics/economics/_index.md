@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2087
+topic_total_pages: 2088
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -133,6 +133,9 @@ topic_concepts:
   - key: "AICreditAccessBias"
     title: "AI Credit Access Bias"
     url: "/wiki/concepts/aicreditaccessbias/"
+  - key: "AICybersecurityValuationGap"
+    title: "AI Cybersecurity Valuation Gap"
+    url: "/wiki/concepts/aicybersecurityvaluationgap/"
   - key: "AIDataCenterPrivateCreditFinancing"
     title: "AI Data-Center Private Credit Financing"
     url: "/wiki/concepts/aidatacenterprivatecreditfinancing/"
@@ -3656,9 +3659,6 @@ topic_entities:
   - key: "DingShumiao"
     title: "Ding Shumiao / 丁书苗"
     url: "/wiki/entities/dingshumiao/"
-  - key: "Discord"
-    title: "Discord"
-    url: "/wiki/entities/discord/"
   - key: "DominicMiarten"
     title: "Dominic Miarten"
     url: "/wiki/entities/dominicmiarten/"
@@ -5958,6 +5958,9 @@ topic_sources:
   - key: "tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128"
     title: "Meta and Microsoft report different AI earnings"
     url: "/wiki/sources/tech-20260731-0731-mp-tech-pod-128-tech-20260731-0731-mp-tech-pod-128/"
+  - key: "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128"
+    title: "Meta's new Muse AI agent gives investors the warm-'n-fuzzies"
+    url: "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390"
     title: "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"

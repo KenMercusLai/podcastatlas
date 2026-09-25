@@ -1765,6 +1765,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/aicreditaccessbias/"
     },
+    "AICybersecurityValuationGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/aicybersecurityvaluationgap/"
+    },
     "AIDataBrokerDemand": {
       "episode_count": 1,
       "show_count": 1,
@@ -8789,9 +8805,9 @@
       "url": "/wiki/concepts/animaltouchconsent/"
     },
     "AnitaRamaswamy": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "tech_20260731_0731_MP_TECH_pod_128 [tech_20260731_0731_MP_TECH_pod_128].md",
@@ -8841,9 +8857,16 @@
           "show": "Marketplace Tech",
           "title": "Meta's landmark social media settlement",
           "url": "/wiki/sources/tech-20260828-0828-mp-tech-pod-128-tech-20260828-0828-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/anitaramaswamy/"
     },
     "AnlimiWusun": {
@@ -14042,6 +14065,29 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/behaviorchangebabysteps/"
+    },
+    "BehavioralAgeInference": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20251226_1226_MP_TECH_pod_128 [tech_20251226_1226_MP_TECH_pod_128].md",
+          "key": "tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "How online age-gating laws went mainstream this year",
+          "url": "/wiki/sources/tech-20251226-1226-mp-tech-pod-128-tech-20251226-1226-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/behavioralageinference/"
     },
     "BehavioralAlignmentPatching": {
       "episode_count": 1,
@@ -35696,6 +35742,29 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/disciplineovermotivation/"
+    },
+    "Discord": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "AHARO1828359836 [AHARO1828359836].md",
+          "key": "featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup",
+          "show": "The SaaS Podcast - Real Lessons on Growing Profitable SaaS",
+          "title": "Featherless AI: When Your Weekend Experiment Makes More Than Your Startup",
+          "url": "/wiki/sources/featherless-ai-when-your-weekend-experiment-makes-more-than-your-startup/"
+        },
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/discord/"
     },
     "DiscoursesOnLivy": {
       "episode_count": 2,
@@ -96448,9 +96517,9 @@
       "url": "/wiki/concepts/musclecontractionglucosedisposal/"
     },
     "MusePersonalAgent": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse [lpOS2Jcsbaob2mPwqaUzV5xQ4_hD].md",
@@ -96472,9 +96541,16 @@
           "show": "声动早咖啡",
           "title": "月饼市场持续降温，豆包缩减对话业务团队",
           "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        },
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/musepersonalagent/"
     },
     "MuseumInterpretationLegibility": {
@@ -100920,6 +100996,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/okinawabasepolitics/"
     },
+    "Okta": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/okta/"
+    },
     "OlafIIOfNorway": {
       "episode_count": 1,
       "show_count": 1,
@@ -101381,9 +101473,9 @@
       "url": "/wiki/entities/onitsukatiger/"
     },
     "OnlineAgeVerification": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits [40647420].md",
@@ -101419,9 +101511,16 @@
           "show": "Economist Podcasts",
           "title": "Home disadvantage: risks in housing markets",
           "url": "/wiki/sources/home-disadvantage-risks-in-housing-markets-6ab4e209079b46c819b12f5e/"
+        },
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/onlineageverification/"
     },
     "OnnaMusha": {
@@ -106552,9 +106651,9 @@
       "url": "/wiki/concepts/platformageestimation/"
     },
     "PlatformAgentAccessConflict": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "月饼市场持续降温，豆包缩减对话业务团队 [1017879242].md",
@@ -106562,9 +106661,16 @@
           "show": "声动早咖啡",
           "title": "月饼市场持续降温，豆包缩减对话业务团队",
           "url": "/wiki/sources/yuebing-shichang-chixu-jiangwen-doubao-suojian-duihua-yewu-tuandui-1017879242/"
+        },
+        {
+          "episode_file": "tech_20260925_0925_MP_TECH_pod_128 [tech_20260925_0925_MP_TECH_pod_128].md",
+          "key": "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Meta's new Muse AI agent gives investors the warm-'n-fuzzies",
+          "url": "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/platformagentaccessconflict/"
     },
     "PlatformAntitrust": {
