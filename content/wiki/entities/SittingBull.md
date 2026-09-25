@@ -9,6 +9,7 @@ sources:
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
+  - 449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -17,9 +18,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Sitting Bull was a [[LakotaPeople|Lakota]] leader whose coalition-building before the [[BattleOfLittleBighorn]], later resistance, Canadian exile, return and imprisonment, forced accommodation to reservation life, association with the [[GhostDance]], killing during an agency-police arrest, and commercialized afterlife make him a central symbol of resistance and dispossession.
+Sitting Bull was a Hunkpapa [[LakotaPeople|Lakota]] warrior and spiritual-political leader whose rejection of the [[GreatSiouxReservation]], coalition-building before the [[BattleOfLittleBighorn]], later resistance, Canadian exile, forced accommodation, association with the [[GhostDance]], killing during an agency-police arrest, and commercialized afterlife make him a central symbol of resistance and dispossession.
 
 ## Current Profile
+
+The new earliest episode traces Sitting Bull's authority from childhood and treats his remembered biography cautiously. It says he was probably born in 1831, was first known as Jumping Badger and then Slow, and received the name Sitting Bull after counting coup as a teenager. Warrior honors, offices in warrior societies, ritual endurance, visions, healing associations, humor, mimicry, music, and an ability to inspire affection all contributed to authority; the episode also reports bouts of depression. These details come through translated interviews and later stories rather than an unmediated record.
+
+His political importance grew from refusing the reservation settlement accepted by [[RedCloud]] and most Lakota after 1868. He opposed exchanging independent bison-centered life for government food and in 1869 was reportedly acclaimed as a leading war chief. The source treats this as resistance to dependency and territorial intrusion, not simple personal rivalry. It also distinguishes social and spiritual authority from centralized command over every Lakota group.
 
 The earlier episode places Sitting Bull's resistance before the final war sequence. In 1872 he joined [[CrazyHorse]] in opposing a railroad survey and was portrayed as calmly smoking under U.S. fire, an episode that reinforced his courage and spiritual reputation. In 1875 he encouraged a wider Lakota and Cheyenne gathering, used ritual and political performance to prepare resistance, and rejected the proposed sale of the [[BlackHills]].
 
@@ -34,15 +39,17 @@ The sources place him between symbolic authority and declining local power. He s
 ## Key Characteristics
 
 - He remained a powerful symbol of Lakota independence while his immediate authority was constrained and contested.
+- Warrior achievement, sacred reputation, ritual endurance, humor, and social charisma jointly supported his leadership.
 - His resistance to surveys and land sale preceded coalition-building that helped assemble the numbers and confidence behind the Little Bighorn victory.
 - He is presented as advocating restraint unless attacked while receiving people displaced by U.S. pressure and military action.
 - Reservation dependency and McLaughlin's governance made his dispossession personal, political, and spiritual.
 - He engaged with the Ghost Dance without being established as its prophet or military commander.
-- His fame made him a convenient target for [[SecurityCrisisAmplification]].
-- His death emerged from an intimate arrest crisis rather than a planned battlefield encounter.
+- His fame made him a convenient target for [[SecurityCrisisAmplification]], ending in an intimate arrest crisis rather than a planned battlefield encounter.
 
 ## Evidence
 
+- Early life and authority: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] connects naming, coup, warrior societies, the Sun Dance, visions, humor, charisma, and spiritual reputation.
+- Reservation refusal: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] contrasts his rejection of supplies and dependency with Red Cloud's accommodation after 1868.
 - Early resistance and Black Hills refusal: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] links the 1872 survey confrontation, 1875 gathering, ritual authority, and refusal to sell.
 - Coalition growth and restraint: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] links Black Hills pressure, the winter ultimatum, Cheyenne displacement, welcome of newcomers, and a wait-unless-attacked posture.
 - Spiritual authority: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] describes his Sun Dance and reported vision before the campaign converged.
@@ -56,7 +63,9 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## Qualifications
 
-- These sources are narrative syntheses rather than full documentary comparisons of disputed details.
+- These seven sources are narrative syntheses rather than full documentary comparisons of disputed details.
+- The 1882 Creelman interview is mediated through translation and journalism; its English wording cannot be treated as Sitting Bull's verbatim voice.
+- The naming story, Crow duel, political acclamation, ritual details, animal communications, predictions, humor, music, and depression remain source-scoped biographical claims.
 - The Canadian conversations, surrender speech, promises, follower count, and cost estimates come through the episode's narrative and require documentary verification.
 - McLaughlin's negative character judgment and the sources' claims about Sitting Bull's motives remain perspective-bound.
 - Sitting Bull's participation in performance should not be reduced to either free entrepreneurial choice or total passivity.
@@ -68,12 +77,17 @@ The sources place him between symbolic authority and declining local power. He s
 
 ## What Changed
 
+- Extended the profile backward through childhood, warrior achievement, spiritual formation, and the 1868 reservation split.
+- Clarified that multiple forms of authority supported leadership without implying centralized command over all Lakota people.
 - Extended resistance backward to the 1872 survey confrontation and failed 1875 land-sale talks.
 - Connected ritual performance to coalition preparation while preserving the distinction from tactical command.
 
 ## Relationships
 
 - [[LakotaPeople]] - people and political community within which he exercised and contested authority.
+- [[RedCloud]] - senior leader whose reservation accommodation provided a political contrast.
+- [[GreatSiouxReservation]] - settlement he rejected in favor of continued independent life.
+- [[FettermanFight]] - earlier victory that shaped the military and treaty context of his rise.
 - [[BlackHills]] - territory whose sale he rejected as miner pressure intensified.
 - [[CrazyHorse]] - fellow resistance leader whose decision to remain south and surrender diverged from Sitting Bull's Canadian exile.
 - [[BattleOfLittleBighorn]] - victory enabled in part by the large coalition gathered around his authority.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10767
+wiki_total_pages: 10770
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "Ferrix"
     title: "Ferrix"
     url: "/wiki/entities/ferrix/"
+  - key: "FettermanFight"
+    title: "Fetterman Fight"
+    url: "/wiki/entities/fettermanfight/"
   - key: "FeuillantClub"
     title: "Feuillant Club"
     url: "/wiki/entities/feuillantclub/"

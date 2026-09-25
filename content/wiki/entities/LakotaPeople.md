@@ -9,6 +9,7 @@ sources:
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
+  - 449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -17,9 +18,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Lakota are the Native people at the center of the sources' account of victory at the [[BattleOfLittleBighorn]], its destructive aftermath, the deaths of [[CrazyHorse]] and [[SittingBull]], bison destruction, reservation confinement, the [[GhostDance]], the [[WoundedKneeMassacre]], survival, and contested representation.
+The Lakota are the Native people at the center of the sources' account of territorial change, the [[FettermanFight]], divided responses to the [[GreatSiouxReservation]], victory at the [[BattleOfLittleBighorn]], its destructive aftermath, reservation confinement, the [[GhostDance]], the [[WoundedKneeMassacre]], survival, and contested representation.
 
 ## Current Profile
+
+The new earliest source rejects a timeless or static picture of Lakota society. It describes movement from woodland toward Plains life, adoption of horses and guns, shifting alliances, and conquest of the Powder River country from the Crow. During [[RedCloud]]'s war, the [[FettermanFight]] demonstrated military strength and helped force closure of the Bozeman Trail forts.
+
+The 1868 settlement created the [[GreatSiouxReservation]] and ambiguously defined unceded territory. Most Lakota followed Red Cloud toward reservation accommodation after his Washington visit, while [[SittingBull]], [[CrazyHorse]], and others remained outside. The sources therefore present political division as competing responses to severe pressure rather than as proof of a culturally uniform preference.
 
 The earliest source traces pressure through railroad surveys, bison destruction, and the 1874 gold expedition. It presents the [[BlackHills]] as recently won territory whose bison, timber, prestige, and spiritual meaning made surrender politically unacceptable, qualifying both timeless-ownership claims and any inference that recent control meant weak attachment. Resistance to survey parties and failed purchase talks preceded the later coercive sequence.
 
@@ -34,15 +39,17 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 ## Key Characteristics
 
 - The sources treat the Lakota as a living and politically diverse people rather than a vanished or uniform culture.
+- Territorial movement, technological adoption, alliance shifts, warfare, and political disagreement make static cultural framing misleading.
 - Little Bighorn was a victory shaped by coalition, leadership, confidence, numbers, and weapons rather than merely a U.S. blunder.
 - Railroad surveys, bison destruction, Black Hills intrusion, failed purchase, the winter ultimatum, and military displacement shaped the coalition before battle.
 - Their reservation crisis joined ecological destruction, material deprivation, land loss, cultural coercion, and spiritual rupture.
 - Military pursuit and ration leverage converted the limits of armed resistance into pressure for surrender, disarmament, and confinement.
-- Accommodation, resistance, conversion, policing, kinship, performance, and rivalry overlapped under constrained choices.
-- The Ghost Dance expressed grief and hope before authorities and newspapers framed it as coordinated rebellion.
+- Accommodation, resistance, conversion, policing, kinship, performance, religious renewal, and rivalry overlapped under constrained choices.
 
 ## Evidence
 
+- Dynamic history and military leverage: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] connects migration, horses, guns, Powder River expansion, the Fetterman victory, and closure of the Bozeman Trail forts.
+- Divided reservation response: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] contrasts Red Cloud's accommodation with Sitting Bull and Crazy Horse remaining outside the 1868 settlement.
 - Territorial and subsistence pressure: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] connects railroad surveys, bison killing, the gold rush, resistance, and failed purchase talks.
 - War pretext and coalition growth: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] links tolerated settler intrusion, the winter agency deadline, the Watkins report, Crook's attack, and displaced Cheyenne arrivals.
 - Restraint and Rosebud: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] presents Sitting Bull and Crazy Horse as favoring strategic patience before Lakota and Cheyenne forces stopped Crook.
@@ -56,7 +63,7 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 ## Qualifications
 
-- These pages provide a six-episode popular-history sequence's Little Bighorn and reservation-crisis account, not a complete Lakota history or contemporary profile.
+- These pages provide a seven-episode popular-history sequence's Plains Wars and reservation-crisis account, not a complete Lakota history or contemporary profile.
 - Native eyewitness accounts remain indispensable but varied, often translated, and recorded under unequal documentary conditions.
 - The sources sometimes use broad period language such as “Sioux” or “Indian”; this synthesis uses Lakota where the subject is specifically Lakota.
 - Population, deprivation, and current social-condition claims would require dedicated primary and contemporary data for verification.
@@ -67,12 +74,17 @@ Lakota responses were not uniform. Some retained resistance identities, some acc
 
 ## What Changed
 
+- Extended the profile backward to territorial change, the Fetterman victory, and the divided 1868 reservation response.
+- Clarified that adaptation and political disagreement predated the later reservation crisis.
 - Extended the profile backward through railroad surveys, bison destruction, the gold expedition, and failed purchase talks.
 - Qualified the relationship between recent territorial control and deep political, material, and spiritual attachment.
 
 ## Relationships
 
 - [[SittingBull]] - resistance leader and symbol within a divided reservation-era political field.
+- [[RedCloud]] - military and political leader associated with victory and later accommodation.
+- [[FettermanFight]] - victory that helped force U.S. withdrawal from the Bozeman Trail forts.
+- [[GreatSiouxReservation]] - settlement accepted by many Lakota and rejected by important holdouts.
 - [[BlackHills]] - contested region central to livelihood, authority, gold intrusion, and failed federal purchase.
 - [[CrazyHorse]] - resistance leader whose surrender and killing expose the transition from open war to coercive confinement.
 - [[GallLakota|Gall]] - Hunkpapa leader associated with the attack on Calhoun Hill.

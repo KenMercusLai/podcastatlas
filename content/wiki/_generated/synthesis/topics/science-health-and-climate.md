@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-25
-as_of_overview_commit: 76cd816114345bcbf9650fd9168aeba6050dae70
-input_digest: 9133fa6fed849497ba72e324d123a55d033ad0d89b876ba738d4bc772b45e804
+as_of_overview_commit: 5b68b0ed40ed2eefd81207222a0e85f0c17feb1b
+input_digest: 61eeb559166809621dd988167965be88dcc5e75ef07038a6bc7fffaa72524cb1
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.
+The Sitting Bull episode adds an evidence-boundary case: ritual suffering, visions, healing associations, and relations with animals can be historically central to Lakota sacred-political authority without becoming independently verified clinical, predictive, or natural-science claims; translation and retrospective narration remain part of the evidence. Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.
 
 ## Cross-source Findings
 
@@ -726,3 +726,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The episode presents a Jungian clinical and philosophical framework rather than biomarkers, controlled outcome evidence, or individualized mental-health care.
 - Dreams, feelings, energy, repeated consequences, and close-person feedback can inform reflection but are fallible and can be shaped by illness, coercion, present conditions, or bias.
 - Reading distress as task-bearing must not romanticize symptoms, delay treatment, blame people for trauma, or erase biological and reactive conditions; shadow language likewise must not turn genuine external harm into presumed projection.
+
+### Sacred Authority Is Historical Not Clinical Evidence
+
+[[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095|Episode 449]] adds a science-boundary case: [[SittingBull]]'s ritual endurance, visions, healing associations, reported predictions, and relations with animals help explain sacred-political authority within the [[LakotaPeople|Lakota]] world, but their historical and cultural importance does not by itself establish clinical efficacy, supernatural prediction, or a modern natural-science mechanism.
+
+**Evidence:** [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]], [[SittingBull]], [[LakotaPeople]], [[TheRestIsHistory]]
+
+**Qualifications:**
+
+- The source is a popular-history episode rather than an ethnographic, medical, psychological, or religious-studies comparison.
+- Treating sacred claims as source-scoped evidence is not a judgment that Lakota categories should be reduced to a separate Western category of religion.
+- Translation, journalism, retrospective testimony, and legend mediate the reported visions, healing, predictions, personality, and animal communications.

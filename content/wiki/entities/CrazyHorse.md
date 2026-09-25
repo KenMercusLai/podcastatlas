@@ -7,6 +7,7 @@ sources:
   - 453-custers-last-stand-the-final-showdown-part-8-glt8261745977
   - 451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603
   - 450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770
+  - 449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095
 last_updated: 2026-09-25
 knowledge_schema: synthesis-v1
 ---
@@ -15,9 +16,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Crazy Horse was an Oglala [[LakotaPeople|Lakota]] war leader whose battlefield leadership at the [[BattleOfLittleBighorn]] preceded post-victory resistance, surrender at Fort Robinson, isolation, attempted imprisonment, and killing under [[CoerciveReservationAssimilation|coercive confinement]].
+Crazy Horse was an Oglala [[LakotaPeople|Lakota]] war leader whose role in the [[FettermanFight]], rejection of reservation life, and battlefield leadership at the [[BattleOfLittleBighorn]] preceded post-victory resistance, surrender at Fort Robinson, isolation, attempted imprisonment, and killing under [[CoerciveReservationAssimilation|coercive confinement]].
 
 ## Current Profile
+
+The earliest episode associates Crazy Horse with the decoy that drew Captain William Fetterman's force into the 1866 ambush during [[RedCloud]]'s war. The victory raised his standing and helped force U.S. abandonment of the Bozeman Trail forts. When the 1868 [[GreatSiouxReservation]] settlement drew most Lakota toward agency life, he remained outside with [[SittingBull]] and other resistance leaders.
 
 The earlier episode places Crazy Horse with [[SittingBull]] in resistance to an 1872 railroad survey, where intimidation helped force an American withdrawal. He was absent from direct confrontation during Custer's 1874 [[BlackHills]] expedition while mourning his daughter's death, then refused to attend the 1875 federal council seeking to purchase the hills.
 
@@ -31,16 +34,17 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## Key Characteristics
 
-- He combined battlefield prestige with limited ability to sustain resistance against U.S. logistics, winter campaigning, and subsistence pressure.
+- His Fetterman role, battlefield prestige, and refusal of the 1868 reservation path place resistance earlier than the Yellowstone and Black Hills confrontations.
 - His Little Bighorn role supports interpreting the outcome as a Native victory rather than only a U.S. command failure.
 - Before Little Bighorn, the sources assign him roles in survey resistance, refusal of land-sale talks, strategic patience, coalition coordination, and the Rosebud check on Crook.
 - His surrender rested on constrained collective choice and expectations that the episode says were unlikely to be fulfilled.
 - Rival leaders, interpreters, officers, and removal policy progressively narrowed his room to act after surrender.
 - A disputed translation turned ambiguous military cooperation into evidence of a generalized threat.
-- His resistance to imprisonment ended in a killing that the episode presents as tragic rather than inevitable.
+- His resistance to imprisonment ended in a killing that the episodes present as tragic rather than inevitable.
 
 ## Evidence
 
+- Fetterman and reservation refusal: [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095]] credits him with helping lure Fetterman's force and places him outside the 1868 reservation settlement.
 - Survey and land-sale resistance: [[450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770]] describes the 1872 confrontation, his mourning during the 1874 expedition, and refusal to attend the 1875 commission.
 - Pre-battle coalition and restraint: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] connects displaced Cheyenne arrivals, waiting strategy, and coordination among warriors.
 - Rosebud: [[451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603]] associates him with the Lakota and Cheyenne force that stopped Crook.
@@ -52,7 +56,8 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## Qualifications
 
-- This profile rests on four dramatic popular-history episodes rather than a comparison of Lakota oral history, military records, biographies, and scholarship.
+- This profile rests on five dramatic popular-history episodes rather than a comparison of Lakota oral history, military records, biographies, and scholarship.
+- His exact role in the Fetterman decoy and the source's contrast between his personality and Sitting Bull's remain source-scoped.
 - His precise route, timing, and tactical role at Little Bighorn remain uncertain within a reconstruction built from testimony and archaeology.
 - His exact command role at the Rosebud and ability to enforce restraint across a diverse coalition remain source-scoped.
 - The 1872 confrontation and reasons for absence in 1874-75 are source-scoped narrative details.
@@ -62,12 +67,16 @@ Peace did not produce security. The episode says Crazy Horse expected an agency 
 
 ## What Changed
 
+- Extended the profile to the Fetterman Fight and rejection of the 1868 reservation settlement.
 - Extended the profile backward to survey resistance, personal loss during the 1874 expedition, and refusal of purchase talks.
 - Connected territorial defense to later coalition growth and strategic patience.
 
 ## Relationships
 
 - [[LakotaPeople]] - people and political community within which he led, surrendered, and faced rival authority.
+- [[RedCloud]] - senior leader whose war he joined and whose later accommodation he did not follow.
+- [[FettermanFight]] - early victory in which the episode assigns him a decoy role.
+- [[GreatSiouxReservation]] - reservation settlement he rejected.
 - [[BlackHills]] - contested territory whose purchase council he refused to attend.
 - [[SittingBull]] - fellow resistance leader who chose Canadian exile rather than Crazy Horse's southern surrender path.
 - [[BattleOfLittleBighorn]] - tactical victory where the source assigns him a central leadership role.

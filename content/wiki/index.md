@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)](sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095.md) — The Rest Is History episode on Sitting Bull's warrior and spiritual authority, the Fetterman victory, the 1868 reservation split, and renewed railroad pressure.
 - [How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis](sources/how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889.md) — Huberman Lab interview on Jungian self-inquiry, unconscious complexes, shadow integration, relationship responsibility, suffering as a qualified task, aging, and mortality-bounded meaning.
 - [451. Custer's Last Stand: The Charge of the 7th Cavalry (Part 6)](sources/451-custers-last-stand-the-charge-of-the-7th-cavalry-part-6-glt4301705603.md) — The Rest Is History account of the Black Hills war pretext, failed winter campaign, Rosebud setback, communication-poor convergence, and pressures shaping Custer's final advance.
 - [452. Custer's Last Stand: The Battle of the Little Bighorn (Part 7)](sources/452-custers-last-stand-the-battle-of-the-little-bighorn-part-7-glt7290391290.md) — The Rest Is History reconstruction of Little Bighorn's opening phase, Custer's assumptions and divided command, Reno's rout, Native mobilization, and the last message to Benteen.
@@ -2833,6 +2834,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [450. Custer's Last Stand: Death in the Black Hills (Part 5)](sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770.md) — The Rest Is History episode on Custer's pre-Little Bighorn career, Yellowstone fighting, Black Hills gold publicity, failed land-sale talks, and the road toward war.
 
 ## Entities
+- [Red Cloud](entities/RedCloud.md) — Oglala Lakota leader whose Bozeman Trail victory and later reservation accommodation contrast military leverage with constrained political choice.
+- [Fetterman Fight](entities/FettermanFight.md) — 1866 destruction of Fetterman's U.S. Army detachment, remembered as both a Lakota-allied victory and an American massacre.
+- [Great Sioux Reservation](entities/GreatSiouxReservation.md) — 1868 treaty territory whose ambiguous unceded lands and divided reception prefigured later reservation conflict.
 - [James Hollis](entities/JamesHollis.md) — Jungian psychoanalyst framing adulthood as accountable inquiry into the Self, complexes, shadow, relationship, suffering, and mortality.
 - [Gary Steinberg](entities/GarySteinberg.md) — Stanford neurosurgeon and researcher presented through vascular neurosurgery, brain injury, rehabilitation, and cautious neurorestoration.
 - [Alfred Terry](entities/AlfredTerry.md) — Campaign commander whose intelligence gap and discretionary orders framed Custer's advance toward Little Bighorn.

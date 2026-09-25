@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | 449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)
+
+Added source `449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095`; created `RedCloud`, `FettermanFight`, and `GreatSiouxReservation`; and updated `SittingBull`, `CrazyHorse`, `LakotaPeople`, and `CoerciveReservationAssimilation` from their complete bounded source sets. Core synthesis: Sitting Bull's authority joined warrior achievement, sacred reputation, ritual endurance, charisma, and resistance to material dependency; the Fetterman victory helped force U.S. withdrawal, but the 1868 settlement divided Lakota leaders between constrained reservation accommodation and continued refusal while leaving unceded territory ambiguous. No settled contradiction found. Translated speech, naming and duel stories, ritual experiences, political acclamation, exact battlefield actions, treaty intent, and individual motives remain source-scoped. The canonical `wiki/overview.md` was updated during ingest; the downstream synthesis-refresh workflow only read it.
+
 ## [2026-09-25] ingest | The Science of Your Gut Sense & the Gut-Brain Axis | Dr. Diego Bohórquez
 
 Added source `the-science-of-your-gut-sense-the-gut-brain-axis-dr-diego-bohorquez-scim8970398714`; created `DiegoBohorquez` and `GutSensoryNeuralSignaling`; and updated `AppetiteHormoneRegulation` and `SugarCravingNeuralControl` from their complete bounded source sets. Core synthesis: nutrient-sensing gut epithelial cells can combine slower endocrine output with rapid neuropod-cell, vagal, and brainstem signaling, while mouse optogenetic experiments support a causal post-ingestive contribution to sugar preference. No settled contradiction found. Bariatric-surgery interpretation, protein and fiber claims, plant medicine, gut rhythms, sound, intuition, and broader mood effects remain source-scoped; the source body's “Diego Borges” is recorded as a transcription error against metadata naming Diego Bohórquez. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22483,6 +22487,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | How to Find Your True Purpose & Create Your Best Life | Dr. James Hollis
 
 Added source `how-to-find-your-true-purpose-create-your-best-life-dr-james-hollis-scim7619753889`; created `JamesHollis`, `JungianSelfAndEgo`, `UnconsciousComplexRepetition`, `ShadowIntegration`, `SymptomsAsPsychologicalTasks`, and `MortalityBoundedMeaning` from the source's complete bounded input; and updated the canonical overview and index. Core synthesis: inherited ego stories and complexes can keep old adaptations active; dreams, feelings, energy, repeated consequences, and trusted feedback can support accountable inquiry; shadow ownership limits projection; distress may present a task without replacing differential diagnosis or treatment; and mortality gives finite choices weight. No settled contradiction found. Dreams, energy, numinous experience, gender, culture, diagnosis, and afterlife claims remain source-scoped Jungian or philosophical interpretations. The downstream synthesis refresh only reads the canonical `wiki/overview.md` before rendering derived artifacts.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

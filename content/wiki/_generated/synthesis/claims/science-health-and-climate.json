@@ -1387,9 +1387,26 @@
         "SymptomsAsPsychologicalTasks",
         "MortalityBoundedMeaning"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "sacred-authority-is-historical-not-clinical-evidence",
+      "qualifications": [
+        "The source is a popular-history episode rather than an ethnographic, medical, psychological, or religious-studies comparison.",
+        "Treating sacred claims as source-scoped evidence is not a judgment that Lakota categories should be reduced to a separate Western category of religion.",
+        "Translation, journalism, retrospective testimony, and legend mediate the reported visions, healing, predictions, personality, and animal communications."
+      ],
+      "statement": "[[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095|Episode 449]] adds a science-boundary case: [[SittingBull]]'s ritual endurance, visions, healing associations, reported predictions, and relations with animals help explain sacred-political authority within the [[LakotaPeople|Lakota]] world, but their historical and cultural importance does not by itself establish clinical efficacy, supernatural prediction, or a modern natural-science mechanism.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+        "SittingBull",
+        "LakotaPeople",
+        "TheRestIsHistory"
+      ]
     }
   ],
   "input_digest": "9133fa6fed849497ba72e324d123a55d033ad0d89b876ba738d4bc772b45e804",
-  "summary": "Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.",
+  "summary": "The Sitting Bull episode adds an evidence-boundary case: ritual suffering, visions, healing associations, and relations with animals can be historically central to Lakota sacred-political authority without becoming independently verified clinical, predictive, or natural-science claims; translation and retrospective narration remain part of the evidence. Science, health, and climate sources converge on boundary-aware public literacy: mechanisms, measurements, escalation thresholds, ecology, qualified care, and inspectable causal inquiry matter more than headline labels. Health branches span medical aesthetics, cellular and psychiatric metabolism, preventive longevity, anesthesia, urology, serious psychiatric care, sleep, addiction recovery, metabolic drugs, nutrition, exercise, first aid, autism and gene-editing ethics, grief, chemosensation, vision, brain recovery, and depth-psychology meaning-making; nonclinical branches apply the same discipline to ecology, climate adaptation, space infrastructure, science policy, and catastrophic-failure investigation. Across the topic, interventions, measurements, and interpretations remain comparator-, context-, dose-, replacement-, adherence-, endpoint-, goal-, and supervision-dependent. The Hollis episode adds a Jungian branch in which inherited stories, complexes, shadow, suffering, and mortality can support accountable self-inquiry, while dreams and energy remain fallible, symptom meaning cannot replace differential diagnosis or treatment, and projection language cannot erase real external harm.",
   "topic_id": "science-health-and-climate"
 }

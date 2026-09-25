@@ -701,15 +701,16 @@
       "d3ac2940ef88386ce9040968e4ee59fc414082732d01532fc5ea415a479f45f5",
       "26521d2987fd464470e65ebb6eefd3393d7ec8855233d7e8042b870cff3aec73",
       "6889fcdb06ac8b1546dfdec0b9c8a5e144f6b28d7a735d09352f43d8743baf96",
+      "a8eed6830fdfbe81ca08cf6a676fac9bffae24379359f9ecf4cf10b91dfb595c",
       "ca7303491176075c59c34df3aed7d722636f05e2b212c255db888e3a3e063dad",
       "046107fd58a659037be9de298e380c4e4a90c4e189a85d2b93420c5080f96c6c",
       "26fd799ed237add712309deafc4cd5c1bfd53166fc0a13c4256917eb2b14ef6f",
       "1a34eb00c79ba32a2c492756c09664e765568f268a5b3cabd039b38f8cba963e"
     ],
-    "paragraph_count": 704
+    "paragraph_count": 705
   },
-  "overview_commit": "76cd816114345bcbf9650fd9168aeba6050dae70",
-  "overview_digest": "7dcbd4097e941f39146c1debcba2f287e56ffb46ab63d17e9c29daa78de396e5",
+  "overview_commit": "5b68b0ed40ed2eefd81207222a0e85f0c17feb1b",
+  "overview_digest": "3bce1702e73a7219851a206d9cdd37568991ef8609029396adb77f3576cbd39e",
   "paragraphs": [
     {
       "id": "0add57e1836663334c1db4c4cf35ae642f7a32235d6d1c6e2a76a8b95edf239c",
@@ -20925,6 +20926,31 @@
         "ShangyeJiushiZheyang",
         "YiTingDomesticServiceConsultant",
         "vol-276-zuo-yuesao-yuersao-de-jiejie-dou-you-gushi-1017890906"
+      ]
+    },
+    {
+      "id": "a8eed6830fdfbe81ca08cf6a676fac9bffae24379359f9ecf4cf10b91dfb595c",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "science-health-and-climate"
+      ],
+      "text": "The latest addition is [[449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095|449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)]], a [[TheRestIsHistory]] account of [[SittingBull]]'s emergence as a Hunkpapa warrior and spiritual-political leader. It adds [[RedCloud]], [[FettermanFight]], and [[GreatSiouxReservation]], while extending [[CrazyHorse]], [[LakotaPeople]], and [[CoerciveReservationAssimilation]]. Its core synthesis is that Sitting Bull's authority joined warrior achievement, sacred reputation, ritual endurance, humor, charisma, and refusal of material dependency; the Fetterman victory helped force U.S. withdrawal from the Bozeman Trail forts, but the 1868 settlement divided Lakota leaders between constrained reservation accommodation and continued refusal while leaving unceded territory ambiguous. No settled contradiction is recorded; translated speech, naming and duel stories, visions, animal communications, political acclamation, treaty intent, exact battlefield actions, and individual motives remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+        "CoerciveReservationAssimilation",
+        "CrazyHorse",
+        "FettermanFight",
+        "GreatSiouxReservation",
+        "LakotaPeople",
+        "RedCloud",
+        "SittingBull",
+        "TheRestIsHistory"
       ]
     },
     {

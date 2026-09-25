@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10767
+wiki_total_pages: 10770
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -674,6 +674,9 @@ wiki_pages:
   - key: "GreatNorthernWar"
     title: "Great Northern War / 大北方战争"
     url: "/wiki/entities/greatnorthernwar/"
+  - key: "GreatSiouxReservation"
+    title: "Great Sioux Reservation"
+    url: "/wiki/entities/greatsiouxreservation/"
   - key: "GreatTreasonIncident"
     title: "Great Treason Incident / 大逆事件"
     url: "/wiki/entities/greattreasonincident/"

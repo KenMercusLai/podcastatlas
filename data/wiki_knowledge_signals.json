@@ -25923,9 +25923,9 @@
       "url": "/wiki/concepts/coerciveimplicationcascade/"
     },
     "CoerciveReservationAssimilation": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2320133118 [GLT2320133118].md",
@@ -25947,6 +25947,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
         }
       ],
       "updated": "2026-09-25",
@@ -29115,9 +29122,9 @@
       "url": "/wiki/entities/craigkoniver/"
     },
     "CrazyHorse": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT1647500583 [GLT1647500583].md",
@@ -29146,6 +29153,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
         }
       ],
       "updated": "2026-09-25",
@@ -47521,6 +47535,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/fertilizersupplychainshock/"
     },
+    "FettermanFight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/fettermanfight/"
+    },
     "FeudalHomageSovereigntyConflict": {
       "episode_count": 1,
       "show_count": 1,
@@ -56821,6 +56851,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/entities/greatnorthernwar/"
+    },
+    "GreatSiouxReservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/greatsiouxreservation/"
     },
     "GreaterBayAreaAirportCluster": {
       "episode_count": 1,
@@ -77265,9 +77311,9 @@
       "url": "/wiki/entities/laixieasternhan/"
     },
     "LakotaPeople": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -77310,6 +77356,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
         }
       ],
       "updated": "2026-09-25",
@@ -113251,6 +113304,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/redcliffsbattle/"
     },
+    "RedCloud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/redcloud/"
+    },
     "Reddit": {
       "episode_count": 8,
       "show_count": 4,
@@ -124226,9 +124295,9 @@
       "url": "/wiki/entities/siri/"
     },
     "SittingBull": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT7996658277 [GLT7996658277].md",
@@ -124271,6 +124340,13 @@
           "show": "The Rest Is History",
           "title": "450. Custer's Last Stand: Death in the Black Hills (Part 5)",
           "url": "/wiki/sources/450-custers-last-stand-death-in-the-black-hills-part-5-glt1497339770/"
+        },
+        {
+          "episode_file": "GLT2415947095 [GLT2415947095].md",
+          "key": "449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095",
+          "show": "The Rest Is History",
+          "title": "449. Custer vs. Crazy Horse: Rise of Sitting Bull (Part 4)",
+          "url": "/wiki/sources/449-custer-vs-crazy-horse-rise-of-sitting-bull-part-4-glt2415947095/"
         }
       ],
       "updated": "2026-09-25",
