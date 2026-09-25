@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10784
+wiki_total_pages: 10785
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "BobLewis"
     title: "Bob Lewis"
     url: "/wiki/entities/boblewis/"
+  - key: "BobMackie"
+    title: "Bob Mackie"
+    url: "/wiki/entities/bobmackie/"
   - key: "BobNardelli"
     title: "Bob Nardelli"
     url: "/wiki/entities/bobnardelli/"

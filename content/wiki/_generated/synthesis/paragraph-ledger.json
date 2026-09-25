@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
       "8baf174eacb1048196ed3821aabcac8d88484469d6c59085b3d0968ea1845d0c",
       "0ea75c54be30a17268995786d3998de635a7568b278b55bd93381742eb87e4d8",
       "509ce9d04d0481e524fc3d56ca8bb79e448696f1105f8f1331470ea73de2c03f",
@@ -716,11 +717,38 @@
       "455f81574ea47d9c3647de95d09b80cc9be7dfb65303264a3e3231d202fdf44c",
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729"
     ],
-    "paragraph_count": 714
+    "paragraph_count": 715
   },
-  "overview_commit": "36276222e347d5fbd79439299612db6e63ec57d5",
-  "overview_digest": "b8887fab092a554aa0a84201b2660a33017324c5b53d0cbc3cff549630284122",
+  "overview_commit": "4acc724bb849aae5265e52b6cf457e295afc84f6",
+  "overview_digest": "27a644f4183b82af2dfc6cfbb631486c676e70d552e9114a870d1b56d59cca25",
   "paragraphs": [
+    {
+      "id": "27a7d40ad61d0835131958a59402ccbde5e747458180cf927a43740dc771fd0f",
+      "primary_topic": "ai-and-technology",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db|Big meet, little meat: the Trump-Xi summit]], a [[TheIntelligence]] episode spanning a narrow Trump-Xi truce, [[TommyRobinson]]'s American political reach, and [[BobMackie]]'s celebrity costume design. It adds [[USChinaStrategicStalemate]], [[SummitCeremonySubstanceGap]], [[BobMackie]], and [[CelebrityCostumePortraiture]], while extending [[XiJinping]], [[TommyRobinson]], [[RareEarthExportLeverage]], [[AmericanRightBritainWarningNarrative]], and [[USChinaAITechnicalCooperation]]. Its core synthesis is that summit spectacle did not resolve reciprocal U.S.-China leverage: a two-month trade pause preserved Chinese rare-earth supply and AI dialogue without creating a substantive risk-warning hotline, while Taiwan remained an unresolved security bargain. Robinson's Britain-as-warning message has moved from symbolic attention toward reported American political access and local electoral use, whereas Mackie's wearer-first method treats costume as a portrait inseparable from performer, body, and occasion. No settled contradiction is recorded; the hotline outcome qualifies earlier cooperation expectations, while polling, private descriptions, access arrangements, campaign effects, and motives remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "AmericanRightBritainWarningNarrative",
+        "BobMackie",
+        "CelebrityCostumePortraiture",
+        "RareEarthExportLeverage",
+        "SummitCeremonySubstanceGap",
+        "TheIntelligence",
+        "TommyRobinson",
+        "USChinaAITechnicalCooperation",
+        "USChinaStrategicStalemate",
+        "XiJinping",
+        "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db"
+      ]
+    },
     {
       "id": "8baf174eacb1048196ed3821aabcac8d88484469d6c59085b3d0968ea1845d0c",
       "primary_topic": "governance-and-institutions",

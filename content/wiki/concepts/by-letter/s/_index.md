@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8157
+wiki_total_pages: 8160
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2009,6 +2009,9 @@ wiki_pages:
   - key: "SummitAsTransformation"
     title: "Summit As Transformation"
     url: "/wiki/concepts/summitastransformation/"
+  - key: "SummitCeremonySubstanceGap"
+    title: "Summit Ceremony-Substance Gap"
+    url: "/wiki/concepts/summitceremonysubstancegap/"
   - key: "SuperJustice"
     title: "Super Justice"
     url: "/wiki/concepts/superjustice/"

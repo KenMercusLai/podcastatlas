@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2088
+topic_total_pages: 2090
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2956,6 +2956,9 @@ topic_concepts:
   - key: "USChinaAIMacroAsymmetry"
     title: "U.S.-China AI Macro Asymmetry / 中美AI宏观不对称"
     url: "/wiki/concepts/uschinaaimacroasymmetry/"
+  - key: "USChinaStrategicStalemate"
+    title: "U.S.-China Strategic Stalemate"
+    url: "/wiki/concepts/uschinastrategicstalemate/"
   - key: "UncertainEraOptionality"
     title: "Uncertain-Era Optionality / 乱纪元选择权"
     url: "/wiki/concepts/uncertaineraoptionality/"
@@ -5634,6 +5637,9 @@ topic_sources:
   - key: "before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets"
     title: "Before Kalshi and Polymarket there was the Iowa Electronic Markets"
     url: "/wiki/sources/before-kalshi-and-polymarket-there-was-the-iowa-electronic-markets/"
+  - key: "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db"
+    title: "Big meet, little meat: the Trump-Xi summit"
+    url: "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240"
     title: "Bill Ackman: Investment Strategy, What the Market is Missing, How AI Breaks Businesses"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bill-ackman-investment-strategy-what-the-market-is-missing-how-ai-breaks-businesses-41519240/"

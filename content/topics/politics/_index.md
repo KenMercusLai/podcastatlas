@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2700
+topic_total_pages: 2702
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3469,6 +3469,9 @@ topic_concepts:
   - key: "SuccessionCrisisIntervention"
     title: "Succession-Crisis Intervention / 继承危机外部干预"
     url: "/wiki/concepts/successioncrisisintervention/"
+  - key: "SummitCeremonySubstanceGap"
+    title: "Summit Ceremony-Substance Gap"
+    url: "/wiki/concepts/summitceremonysubstancegap/"
   - key: "SuperJustice"
     title: "Super Justice"
     url: "/wiki/concepts/superjustice/"
@@ -3694,6 +3697,9 @@ topic_concepts:
   - key: "USChinaScienceCompetition"
     title: "U.S.-China Science Competition"
     url: "/wiki/concepts/uschinasciencecompetition/"
+  - key: "USChinaStrategicStalemate"
+    title: "U.S.-China Strategic Stalemate"
+    url: "/wiki/concepts/uschinastrategicstalemate/"
   - key: "USIranNuclearDiplomacy"
     title: "U.S.-Iran Nuclear Diplomacy"
     url: "/wiki/concepts/usirannucleardiplomacy/"

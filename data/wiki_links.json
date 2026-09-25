@@ -9731,6 +9731,10 @@
     "title": "Bob Lewis",
     "url": "/wiki/entities/boblewis/"
   },
+  "BobMackie": {
+    "title": "Bob Mackie",
+    "url": "/wiki/entities/bobmackie/"
+  },
   "BobNardelli": {
     "title": "Bob Nardelli",
     "url": "/wiki/entities/bobnardelli/"
@@ -12038,6 +12042,10 @@
   "CelebratorySummonsEntrapment": {
     "title": "Celebratory Summons Entrapment / 报捷祝贺式诱捕",
     "url": "/wiki/concepts/celebratorysummonsentrapment/"
+  },
+  "CelebrityCostumePortraiture": {
+    "title": "Celebrity Costume Portraiture",
+    "url": "/wiki/concepts/celebritycostumeportraiture/"
   },
   "CelebrityFolkDevilMoralPanic": {
     "title": "Celebrity Folk-Devil Moral Panic",
@@ -63931,6 +63939,10 @@
     "title": "Summit As Transformation",
     "url": "/wiki/concepts/summitastransformation/"
   },
+  "SummitCeremonySubstanceGap": {
+    "title": "Summit Ceremony-Substance Gap",
+    "url": "/wiki/concepts/summitceremonysubstancegap/"
+  },
   "SummitTherapeutics": {
     "title": "Summit Therapeutics",
     "url": "/wiki/entities/summittherapeutics/"
@@ -68146,6 +68158,10 @@
   "USChinaScienceCompetition": {
     "title": "U.S.-China Science Competition",
     "url": "/wiki/concepts/uschinasciencecompetition/"
+  },
+  "USChinaStrategicStalemate": {
+    "title": "U.S.-China Strategic Stalemate",
+    "url": "/wiki/concepts/uschinastrategicstalemate/"
   },
   "USConstitutionalCrisisRisk": {
     "title": "U.S. Constitutional Crisis Risk",
@@ -78250,6 +78266,10 @@
   "big-lettuce-meets-small-intestine": {
     "title": "Big Lettuce meets Small Intestine",
     "url": "/wiki/sources/big-lettuce-meets-small-intestine/"
+  },
+  "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db": {
+    "title": "Big meet, little meat: the Trump-Xi summit",
+    "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
   },
   "big-shot-does-a-cancer-vaccine-work-6a9001f40c15e359f9cb103c": {
     "title": "Big shot: does a cancer vaccine work?",

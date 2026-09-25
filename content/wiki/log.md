@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-25] ingest | Big meet, little meat: the Trump-Xi summit
+
+Added source `big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db`; created `BobMackie`, `USChinaStrategicStalemate`, `SummitCeremonySubstanceGap`, and `CelebrityCostumePortraiture`; and updated `XiJinping`, `TommyRobinson`, `RareEarthExportLeverage`, `AmericanRightBritainWarningNarrative`, and `USChinaAITechnicalCooperation` from their complete bounded source sets. Core synthesis: summit spectacle yielded only a two-month trade pause, continued rare-earth supply, and AI dialogue without a substantive hotline, while China and America remain in an unstable stalemate; Robinson's British warning narrative has acquired reported American political access and local electoral uses; and Mackie's costumes treated the individual performer as the central work of art. No settled contradiction found. The missing AI hotline qualifies the previous technical-cooperation outlook, while polling, private descriptions, access arrangements, campaign effects, and motives remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
+
 ## [2026-09-25] ingest | 445. The Habsburgs: Secrets of a Dynasty
 
 Added source `445-the-habsburgs-secrets-of-a-dynasty-glt9923460597`; created `EduardHabsburg`, `HolyRomanEmpire`, `HabsburgMarriageDiplomacy`, and `ImperialSubsidiarity`; and updated `HabsburgDynasty`, `MariaTheresa`, `CapuchinCrypt`, and `AustroHungarianDualMonarchy` from their complete bounded source sets. Core synthesis: marriage, inheritance, Catholic family identity, and layered rule helped the Habsburgs assemble and govern plural territories, while close-kin marriage, selective autonomy, nationalism, coercion, and imperial counterexamples limit the guest's sympathetic seven-rule account. No settled contradiction found; marriage happiness, the Habsburg jaw, genealogy, funeral details, and modern-EU comparisons remain source-scoped, while the Americas, Dutch Revolt, Counter-Reformation violence, and Slavic exclusion remain explicit qualifications. The canonical `wiki/overview.md` was updated during normal ingest; the downstream synthesis refresh only reads it.
@@ -22595,6 +22599,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-25] ingest | 444. The First Emperor of China
 
 Added source `444-the-first-emperor-of-china-glt5076517033`; created `TerracottaArmy` and `FounderTyrantPoliticalMemory`; and updated the canonical index and overview. Core synthesis: Qin Shi Huang's durable centralization and coercive violence must remain in one judgment, while Confucian criticism, labor legend, archaeological spectacle, and Maoist rehabilitation are distinct layers of political memory. The episode treats selective book burning as probable but the burial of Confucian scholars as probably unhistorical; corpse concealment, slaughter totals, tomb mechanisms, and immortality stories remain uncertain or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-25] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-25] lint | Wiki health check
 

@@ -7572,9 +7572,9 @@
       "url": "/wiki/entities/americanrevolution/"
     },
     "AmericanRightBritainWarningNarrative": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -7589,9 +7589,16 @@
           "show": "Economist Podcasts",
           "title": "The Weekend Intelligence: Shire folk",
           "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
+        },
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/americanrightbritainwarningnarrative/"
     },
     "AmericasWorkforceAcademy": {
@@ -15627,6 +15634,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/boronglatehan/"
     },
+    "BobMackie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/bobmackie/"
+    },
     "BobNardelli": {
       "episode_count": 1,
       "show_count": 1,
@@ -20570,6 +20593,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/catholicburiallegitimacy/"
+    },
+    "CelebrityCostumePortraiture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/celebritycostumeportraiture/"
     },
     "CelebrityFolkDevilMoralPanic": {
       "episode_count": 2,
@@ -113333,6 +113372,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/rapid/"
     },
+    "RareEarthExportLeverage": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Dan Dreyfus： America’s Critical Minerals Crisis is Here [41594225].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Dan Dreyfus: America's Critical Minerals Crisis is Here",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_cf5e1a311c2208ab2a9866756d5a63d0_35405813 [default.mp3_ywr3ahjkcgo_cf5e1a311c2208ab2a9866756d5a63d0_35405813].md",
+          "key": "battlefield-rare-earths-how-the-us-lost-to-china",
+          "show": "Planet Money",
+          "title": "Battlefield rare earths: How the U.S. lost to China",
+          "url": "/wiki/sources/battlefield-rare-earths-how-the-us-lost-to-china/"
+        },
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/rareearthexportleverage/"
+    },
     "RareEarthPermanentMagnetManufacturing": {
       "episode_count": 1,
       "show_count": 1,
@@ -130902,6 +130971,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/summitastransformation/"
     },
+    "SummitCeremonySubstanceGap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/summitceremonysubstancegap/"
+    },
     "SunBaoWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -136949,9 +137034,9 @@
       "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TommyRobinson": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -136966,9 +137051,16 @@
           "show": "Economist Podcasts",
           "title": "The Weekend Intelligence: Shire folk",
           "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
+        },
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-25",
       "url": "/wiki/entities/tommyrobinson/"
     },
     "TommyWood": {
@@ -138599,9 +138691,9 @@
       "url": "/wiki/entities/unhcr/"
     },
     "USChinaAITechnicalCooperation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260924_0924_MP_TECH_pod_128 [tech_20260924_0924_MP_TECH_pod_128].md",
@@ -138609,9 +138701,16 @@
           "show": "Marketplace Tech",
           "title": "Finding common ground in the U.S.-China AI rivalry",
           "url": "/wiki/sources/tech-20260924-0924-mp-tech-pod-128-tech-20260924-0924-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-25",
       "url": "/wiki/concepts/uschinaaitechnicalcooperation/"
     },
     "USChinaScienceCompetition": {
@@ -138636,6 +138735,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/uschinasciencecompetition/"
+    },
+    "USChinaStrategicStalemate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/concepts/uschinastrategicstalemate/"
     },
     "USDepartmentOfHomelandSecurity": {
       "episode_count": 6,
@@ -147997,6 +148112,36 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/xiguangeasternhan/"
+    },
+    "XiJinping": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Socialist mobility： a telling Michigan vote [6a74600ec3e1347e8b5bf216].md",
+          "key": "socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216",
+          "show": "Economist Podcasts",
+          "title": "Socialist mobility: a telling Michigan vote",
+          "url": "/wiki/sources/socialist-mobility-a-telling-michigan-vote-6a74600ec3e1347e8b5bf216/"
+        },
+        {
+          "episode_file": "default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297 [default.mp3_ywr3ahjkcgo_5c39ca8bbdbf89c6ef326681052f6a26_40467297].md",
+          "key": "building-things-and-breaking-things-in-china-summer-school-world-tour",
+          "show": "Planet Money",
+          "title": "Building things and breaking things in China (Summer School World Tour)",
+          "url": "/wiki/sources/building-things-and-breaking-things-in-china-summer-school-world-tour/"
+        },
+        {
+          "episode_file": "Big meet, little meat： the Trump-Xi summit [6ab6401bbd67ce4b534215db].md",
+          "key": "big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db",
+          "show": "Economist Podcasts",
+          "title": "Big meet, little meat: the Trump-Xi summit",
+          "url": "/wiki/sources/big-meet-little-meat-the-trump-xi-summit-6ab6401bbd67ce4b534215db/"
+        }
+      ],
+      "updated": "2026-09-25",
+      "url": "/wiki/entities/xijinping/"
     },
     "XiShouLateHan": {
       "episode_count": 1,
