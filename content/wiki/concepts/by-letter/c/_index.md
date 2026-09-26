@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8315
+wiki_total_pages: 8317
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2663,6 +2663,9 @@ wiki_pages:
   - key: "ChenweiEvidentiaryCritique"
     title: "谶纬证据批判 / Chenwei Evidentiary Critique"
     url: "/wiki/concepts/chenweievidentiarycritique/"
+  - key: "CrossCulturalPublicInterestStorytelling"
+    title: "跨文化公益题材叙事 / Cross-Cultural Public-Interest Storytelling"
+    url: "/wiki/concepts/crossculturalpublicintereststorytelling/"
   - key: "CounselExitAfterNonresponse"
     title: "进言不纳后的抽身 / Counsel Exit After Nonresponse"
     url: "/wiki/concepts/counselexitafternonresponse/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10924
+wiki_total_pages: 10927
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -740,6 +740,9 @@ wiki_pages:
   - key: "WiseChildrenCarter"
     title: "《明智的孩子》 / Wise Children"
     url: "/wiki/entities/wisechildrencarter/"
+  - key: "WelcomeToMileleVillage"
+    title: "《欢迎来到麦乐村》 / Welcome to Milele Village"
+    url: "/wiki/entities/welcometomilelevillage/"
   - key: "WaterMargin"
     title: "《水浒传》 / Water Margin"
     url: "/wiki/entities/watermargin/"

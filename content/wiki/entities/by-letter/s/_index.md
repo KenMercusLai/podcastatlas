@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10924
+wiki_total_pages: 10927
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2072,6 +2072,9 @@ wiki_pages:
   - key: "SunDoctorCardiacElectrophysiology"
     title: "孙老师 / Doctor Sun (cardiac electrophysiology guest)"
     url: "/wiki/entities/sundoctorcardiacelectrophysiology/"
+  - key: "SunDoctorForeignAidTCMAdvisor"
+    title: "孙老师 / Doctor Sun (Foreign-Aid TCM Adviser)"
+    url: "/wiki/entities/sundoctorforeignaidtcmadvisor/"
   - key: "SunShengEasternJin"
     title: "孙胜 / Sun Sheng (Eastern Jin)"
     url: "/wiki/entities/sunshengeasternjin/"

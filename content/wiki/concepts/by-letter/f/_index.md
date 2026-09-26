@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8315
+wiki_total_pages: 8317
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1349,6 +1349,9 @@ wiki_pages:
   - key: "FormalizedCultivationCritique"
     title: "形式化修行批判 / Formalized Cultivation Critique"
     url: "/wiki/concepts/formalizedcultivationcritique/"
+  - key: "ForeignAidMedicalPractice"
+    title: "援外医疗实践 / Foreign-Aid Medical Practice"
+    url: "/wiki/concepts/foreignaidmedicalpractice/"
   - key: "FormerEnemyLoyaltyReframing"
     title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
     url: "/wiki/concepts/formerenemyloyaltyreframing/"

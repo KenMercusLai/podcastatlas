@@ -23248,3 +23248,15 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.95无·事｜「麦乐村」一针扎破你对主旋律剧的刻板印象 和央广对谈编剧、首席医疗顾问
+
+Added source `vol-95-wu-shi-mailecun-yizhen-zhapo-ni-dui-zhuxuanlv-ju-de-keban-yinxiang-he-yangguang-duitan-bianju-shouxi-yiliao-guwen-lj1pk4rns8hrpqls6jrmkdzin2u`; created `HuYatingScreenwriter`, `SunDoctorForeignAidTCMAdvisor`, `WelcomeToMileleVillage`, `ForeignAidMedicalPractice`, and `CrossCulturalPublicInterestStorytelling`; and updated the canonical index and overview. Core synthesis: foreign-aid medicine is collaborative clinical work shaped by material resources, infrastructure, language, culture, trust, and team life, while composite geography, imperfect characters, everyday detail, and light comedy can humanize a public-interest drama without making it documentary or guaranteeing equal representation. No settled contradiction found. Historical counts, trip details, prototype mapping, production scale, and claims about reception, realism, or representativeness remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
