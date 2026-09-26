@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8309
+wiki_total_pages: 8312
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "PainAndMoralResponsibility"
     title: "Pain And Moral Responsibility"
     url: "/wiki/concepts/painandmoralresponsibility/"
+  - key: "PainAsDistributedExperience"
+    title: "Pain as a Distributed Experience"
+    url: "/wiki/concepts/painasdistributedexperience/"
   - key: "PainOrientation"
     title: "Pain Orientation / 痛苦观"
     url: "/wiki/concepts/painorientation/"

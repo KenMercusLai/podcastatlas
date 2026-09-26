@@ -23019,6 +23019,10 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | Tools to Reduce & Manage Pain | Dr. Sean Mackey
+
+Added source `tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556`; created `SeanMackey`, `PainAsDistributedExperience`, `HurtHarmPainReframing`, and `MultimodalFunctionCenteredPainCare`; and updated `PainAwareTrainingContinuity`, `CannabisMedicalUseEvidenceBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: nociceptive input, tissue state, subjective pain, and function overlap without mapping one-to-one, so chronic-pain care should combine qualified assessment, education, pacing, movement, psychological skills, medication or procedures when appropriate, and patient agency around meaningful life goals. No settled contradiction found. Treatment mechanisms, prevalence and cost estimates, supplement uses, sex-average threshold differences, personal cases, cannabis comparisons, and policy claims remain source-scoped; new or concerning pain and all medication, procedure, restrictive-diet, supplement, or rehabilitation decisions require individualized clinical context. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | 410. The Nazis in Power: The Night of Broken Glass (Part 7)
 
 Added source `410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943`; created `Kristallnacht`, `HerschelGrunspan`, `ErnstVomRath`, `AdolfHitler`, `JosephGoebbels`, `ReinhardHeydrich`, `EconomicAryanization`, and `DistributedComplicityUnderAuthoritarianism`; and updated `NaziGermany`, `TheHolocaust`, `CorporateComplicityWithAuthoritarianism`, and `RationalizedStateViolence` from their complete bounded source sets. Core synthesis: Nazi antisemitic escalation joined war planning, racial ideology, legal exclusion, dispossession, propaganda, police permission, professional adaptation, corporate benefit, and local participation; Kristallnacht was a state-enabled pogrom disguised as spontaneous anger and a bridge toward coerced-emigration and genocidal administration. No settled contradiction found. Death totals, sexual-violence evidence, local attitudes, private motives, company-specific knowledge, and the exact development from forced removal to extermination remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -23216,6 +23220,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良
 
 Added source `vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha`; created `TCMDigestiveSelfCareBoundary`; and updated `MaoZheTCMDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: preparation, portion, symptoms, tolerance, and metabolic context matter more than a universal “stomach-nourishing” food label; warm or soft food can be a comfort strategy without becoming a disease treatment. No settled contradiction found. Regional-climate, starch-gelatinization, spleen-stomach, qi, dampness, atrophic-gastritis, and H. pylori treatment claims remain source-scoped, while diabetes, persistent digestive symptoms, diagnosed gastric disease, and confirmed infection require qualified care. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

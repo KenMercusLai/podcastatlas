@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8309
+wiki_total_pages: 8312
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "MultimodalAdultNeuroplasticity"
     title: "Multimodal Adult Neuroplasticity"
     url: "/wiki/concepts/multimodaladultneuroplasticity/"
+  - key: "MultimodalFunctionCenteredPainCare"
+    title: "Multimodal Function-Centered Pain Care"
+    url: "/wiki/concepts/multimodalfunctioncenteredpaincare/"
   - key: "MultimodalIntelligence"
     title: "Multimodal Intelligence"
     url: "/wiki/concepts/multimodalintelligence/"

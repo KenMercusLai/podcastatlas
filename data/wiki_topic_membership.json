@@ -50696,6 +50696,13 @@
       "url": "/topics/science/"
     }
   ],
+  "MultimodalFunctionCenteredPainCare": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MultimodalIntelligence": [
     {
       "key": "technology",
@@ -54547,6 +54554,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PainAsDistributedExperience": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PainOrientation": [
@@ -64555,6 +64569,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SeanMackey": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "SeanParker": [
@@ -89809,6 +89830,13 @@
     }
   ],
   "tools-to-enhance-working-memory-attention-scim1948560111": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556": [
     {
       "key": "science",
       "label": "Science",

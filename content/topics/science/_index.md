@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1234
+topic_total_pages: 1238
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1249,6 +1249,9 @@ topic_concepts:
   - key: "MultimodalAdultNeuroplasticity"
     title: "Multimodal Adult Neuroplasticity"
     url: "/wiki/concepts/multimodaladultneuroplasticity/"
+  - key: "MultimodalFunctionCenteredPainCare"
+    title: "Multimodal Function-Centered Pain Care"
+    url: "/wiki/concepts/multimodalfunctioncenteredpaincare/"
   - key: "MuscleAsLongevityInfrastructure"
     title: "Muscle As Longevity Infrastructure"
     url: "/wiki/concepts/muscleaslongevityinfrastructure/"
@@ -1369,6 +1372,9 @@ topic_concepts:
   - key: "OverintellectualizedRelationshipAnalysis"
     title: "Overintellectualized Relationship Analysis / 过度理性化关系分析"
     url: "/wiki/concepts/overintellectualizedrelationshipanalysis/"
+  - key: "PainAsDistributedExperience"
+    title: "Pain as a Distributed Experience"
+    url: "/wiki/concepts/painasdistributedexperience/"
   - key: "PainOrientation"
     title: "Pain Orientation / 痛苦观"
     url: "/wiki/concepts/painorientation/"
@@ -2813,6 +2819,9 @@ topic_entities:
   - key: "SarahWu"
     title: "Sarah Wu"
     url: "/wiki/entities/sarahwu/"
+  - key: "SeanMackey"
+    title: "Sean Mackey"
+    url: "/wiki/entities/seanmackey/"
   - key: "ShaileshChitnis"
     title: "Shailesh Chitnis"
     url: "/wiki/entities/shaileshchitnis/"
@@ -3624,6 +3633,9 @@ topic_sources:
   - key: "tools-to-enhance-working-memory-attention-scim1948560111"
     title: "Tools to Enhance Working Memory & Attention"
     url: "/wiki/sources/tools-to-enhance-working-memory-attention-scim1948560111/"
+  - key: "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556"
+    title: "Tools to Reduce & Manage Pain | Dr. Sean Mackey"
+    url: "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"

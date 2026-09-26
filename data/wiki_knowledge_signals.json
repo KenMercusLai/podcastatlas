@@ -19711,9 +19711,9 @@
       "url": "/wiki/concepts/cannabisdoseroutevulnerability/"
     },
     "CannabisMedicalUseEvidenceBoundary": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM3230094101 [SCIM3230094101].md",
@@ -19721,9 +19721,16 @@
           "show": "Huberman Lab",
           "title": "How Cannabis Impacts Health & the Potential Risks | Dr. Matthew Hill",
           "url": "/wiki/sources/how-cannabis-impacts-health-the-potential-risks-dr-matthew-hill-scim3230094101/"
+        },
+        {
+          "episode_file": "SCIM1698075556 [SCIM1698075556].md",
+          "key": "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556",
+          "show": "Huberman Lab",
+          "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
+          "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/cannabismedicaluseevidenceboundary/"
     },
     "CannabisPsychosisCausalityBoundary": {
@@ -70421,6 +70428,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/huozhiliezhuanwealthethic/"
     },
+    "HurtHarmPainReframing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698075556 [SCIM1698075556].md",
+          "key": "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556",
+          "show": "Huberman Lab",
+          "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
+          "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/hurtharmpainreframing/"
+    },
     "HuyangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -100750,6 +100773,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/multimodaladultneuroplasticity/"
     },
+    "MultimodalFunctionCenteredPainCare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698075556 [SCIM1698075556].md",
+          "key": "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556",
+          "show": "Huberman Lab",
+          "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
+          "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/multimodalfunctioncenteredpaincare/"
+    },
     "MultiscaleProductivityPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -107733,10 +107772,26 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/paidpilotvalueproof/"
     },
-    "PainAwareTrainingContinuity": {
+    "PainAsDistributedExperience": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698075556 [SCIM1698075556].md",
+          "key": "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556",
+          "show": "Huberman Lab",
+          "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
+          "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/painasdistributedexperience/"
+    },
+    "PainAwareTrainingContinuity": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM4318497319 [SCIM4318497319].md",
@@ -107744,9 +107799,16 @@
           "show": "Huberman Lab",
           "title": "Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere",
           "url": "/wiki/sources/build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319/"
+        },
+        {
+          "episode_file": "SCIM1698075556 [SCIM1698075556].md",
+          "key": "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556",
+          "show": "Huberman Lab",
+          "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
+          "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/painawaretrainingcontinuity/"
     },
     "PainOrientation": {
@@ -126457,6 +126519,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/seabeggars/"
+    },
+    "SeanMackey": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1698075556 [SCIM1698075556].md",
+          "key": "tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556",
+          "show": "Huberman Lab",
+          "title": "Tools to Reduce & Manage Pain | Dr. Sean Mackey",
+          "url": "/wiki/sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/seanmackey/"
     },
     "SeasonalFootwearSceneExpansion": {
       "episode_count": 1,

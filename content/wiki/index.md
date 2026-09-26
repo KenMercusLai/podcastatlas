@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tools to Reduce & Manage Pain | Dr. Sean Mackey](sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556.md) — Huberman Lab interview on distributed pain construction, hurt-versus-harm reframing, function-centered multimodal care, medication risk, rehabilitation, and pain policy.
 - [VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良](sources/vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha.md) — 这病说来话长 episode on pao fan, digestive comfort, glucose context, symptom escalation, and the evidence boundary around regional and TCM food claims.
 - [409. The Nazis in Power: Hitler's War on the Jews (Part 6)](sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455.md) — The Rest Is History episode on the uneven 1933–36 escalation from local violence and professional exclusion to racial law, social isolation, coerced emigration, and Olympic concealment.
 - [410. The Nazis in Power: The Night of Broken Glass (Part 7)](sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943.md) — The Rest Is History episode on war-linked antisemitic escalation, Aryanization, distributed complicity, Kristallnacht, refugee barriers, and the bureaucratic road toward genocide.
@@ -2926,6 +2927,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 
 ## Entities
+- [Sean Mackey](entities/SeanMackey.md) — Pain-medicine physician-scientist linking distributed pain neuroscience to function-centered care, clinical nuance, access, and policy.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
@@ -13860,6 +13862,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Pain as a Distributed Experience](concepts/PainAsDistributedExperience.md) — Model separating nociceptive input from the context-shaped sensory and emotional experience of pain.
+- [Hurt-versus-Harm Pain Reframing](concepts/HurtHarmPainReframing.md) — Assessment-dependent distinction supporting graded function when pain is not ongoing damage while preserving warning signs.
+- [Multimodal Function-Centered Pain Care](concepts/MultimodalFunctionCenteredPainCare.md) — Individualized whole-person pain care judged by quality of life, durable function, evidence, and treatment risk.
 - [TCM Digestive Self-Care Boundary / 中医消化自我调理边界](concepts/TCMDigestiveSelfCareBoundary.md) — Separates adaptable food and comfort strategies from unvalidated digestive diagnoses, climate mechanisms, and disease-treatment claims.
 - [Working Towards the Führer](concepts/WorkingTowardsTheFuhrer.md) — Model of subordinates anticipating broad leader wishes and competitively radicalizing policy without detailed orders for every action.
 - [Incremental Persecution and False Stabilization](concepts/IncrementalPersecutionFalseStabilization.md) — Uneven escalation pattern in which pauses and legal form conceal accumulating structures of exclusion.
