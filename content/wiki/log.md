@@ -22830,3 +22830,11 @@ Added source `vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-ta
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | What Magic & Mind Reading Reveal About the Brain | Asi Wind
+
+Added source `what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310`; created `AsiWind`, `MagicAttentionMemoryDesign`, and `ConsentBasedTheatricalDeception`; and updated `ReconstructiveMemory`, `PerformerAudienceStateCoupling`, the canonical index, and overview from their complete bounded source sets. Core synthesis: magic shapes both immediate perception and later recall through framing, attention, expectation, emotion, timing, tension, relaxation, and spectator inference, while audience connection and explicit performance consent distinguish theatrical illusion from broader manipulation. No settled contradiction found. Exact trick methods remain undisclosed, and claims about psychological forces, hypnosis-like suggestion, arithmetic distortion, accelerated replay, sleep, gap effects, and brain abstraction remain practitioner observations or source-scoped conversational neuroscience. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

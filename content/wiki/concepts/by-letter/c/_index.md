@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8205
+wiki_total_pages: 8207
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "ConsentBasedRecording"
     title: "Consent-Based Recording"
     url: "/wiki/concepts/consentbasedrecording/"
+  - key: "ConsentBasedTheatricalDeception"
+    title: "Consent-Based Theatrical Deception"
+    url: "/wiki/concepts/consentbasedtheatricaldeception/"
   - key: "ConsentlessFacialSearch"
     title: "Consentless Facial Search"
     url: "/wiki/concepts/consentlessfacialsearch/"

@@ -10728,6 +10728,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/asantequeenmothers/"
     },
+    "AsiWind": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6818902310 [SCIM6818902310].md",
+          "key": "what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310",
+          "show": "Huberman Lab",
+          "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
+          "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/asiwind/"
+    },
     "AspirationalEmotionalPremium": {
       "episode_count": 2,
       "show_count": 2,
@@ -28550,6 +28566,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/consciencethroughduty/"
+    },
+    "ConsentBasedTheatricalDeception": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6818902310 [SCIM6818902310].md",
+          "key": "what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310",
+          "show": "Huberman Lab",
+          "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
+          "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/consentbasedtheatricaldeception/"
     },
     "ConsentlessFacialSearch": {
       "episode_count": 1,
@@ -91257,6 +91289,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/entities/magdala/"
     },
+    "MagicAttentionMemoryDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6818902310 [SCIM6818902310].md",
+          "key": "what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310",
+          "show": "Huberman Lab",
+          "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
+          "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/magicattentionmemorydesign/"
+    },
     "MagneticResonanceSafetyAndAppropriateness": {
       "episode_count": 1,
       "show_count": 1,
@@ -107015,9 +107063,9 @@
       "url": "/wiki/concepts/performancelinkedadspendpricing/"
     },
     "PerformerAudienceStateCoupling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7538555033 [SCIM7538555033].md",
@@ -107025,9 +107073,16 @@
           "show": "Huberman Lab",
           "title": "The Science & Art of Comedy & Creativity | Tom Segura",
           "url": "/wiki/sources/the-science-art-of-comedy-creativity-tom-segura-scim7538555033/"
+        },
+        {
+          "episode_file": "SCIM6818902310 [SCIM6818902310].md",
+          "key": "what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310",
+          "show": "Huberman Lab",
+          "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
+          "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/performeraudiencestatecoupling/"
     },
     "PeriaqueductalGray": {
@@ -115895,9 +115950,9 @@
       "url": "/wiki/concepts/recognitionbackedfrontierdiplomacy/"
     },
     "ReconstructiveMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5781519002 [SCIM5781519002].md",
@@ -115912,9 +115967,16 @@
           "show": "Huberman Lab",
           "title": "How to Improve Memory & Focus Using Science Protocols | Dr. Charan Ranganath",
           "url": "/wiki/sources/how-to-improve-memory-focus-using-science-protocols-dr-charan-ranganath-scim5612458885/"
+        },
+        {
+          "episode_file": "SCIM6818902310 [SCIM6818902310].md",
+          "key": "what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310",
+          "show": "Huberman Lab",
+          "title": "What Magic & Mind Reading Reveal About the Brain | Asi Wind",
+          "url": "/wiki/sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/reconstructivememory/"
     },
     "RecordAndReplay": {
