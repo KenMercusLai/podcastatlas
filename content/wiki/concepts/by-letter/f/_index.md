@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8274
+wiki_total_pages: 8275
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "FeaturePhoneCulturalMemory"
     title: "Feature Phone Cultural Memory"
     url: "/wiki/concepts/featurephoneculturalmemory/"
+  - key: "February1974UKGeneralElection"
+    title: "February 1974 UK General Election"
+    url: "/wiki/concepts/february1974ukgeneralelection/"
   - key: "FederalAIPreemption"
     title: "Federal AI Preemption"
     url: "/wiki/concepts/federalaipreemption/"

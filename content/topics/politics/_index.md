@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2721
+topic_total_pages: 2725
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1309,6 +1309,9 @@ topic_concepts:
   - key: "FDAReviewModernization"
     title: "FDA Review Modernization"
     url: "/wiki/concepts/fdareviewmodernization/"
+  - key: "February1974UKGeneralElection"
+    title: "February 1974 UK General Election"
+    url: "/wiki/concepts/february1974ukgeneralelection/"
   - key: "FederalAIPreemption"
     title: "Federal AI Preemption"
     url: "/wiki/concepts/federalaipreemption/"
@@ -5054,6 +5057,9 @@ topic_entities:
   - key: "EnglishDefenceLeague"
     title: "English Defence League"
     url: "/wiki/entities/englishdefenceleague/"
+  - key: "EnochPowell"
+    title: "Enoch Powell"
+    url: "/wiki/entities/enochpowell/"
   - key: "EnvironmentalProtectionAgency"
     title: "Environmental Protection Agency"
     url: "/wiki/entities/environmentalprotectionagency/"
@@ -5498,6 +5504,9 @@ topic_entities:
   - key: "JeremyScott"
     title: "Jeremy Scott"
     url: "/wiki/entities/jeremyscott/"
+  - key: "JeremyThorpe"
+    title: "Jeremy Thorpe"
+    url: "/wiki/entities/jeremythorpe/"
   - key: "JimCallaghan"
     title: "Jim Callaghan"
     url: "/wiki/entities/jimcallaghan/"
@@ -7230,6 +7239,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "418-britain-in-1974-the-crisis-election-part-2-glt9690615062"
+    title: "418. Britain in 1974: The Crisis Election (Part 2)"
+    url: "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
   - key: "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212"
     title: "419. Britain in 1974: Countdown to a Coup (Part 3)"
     url: "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"

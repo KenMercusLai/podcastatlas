@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10880
+wiki_total_pages: 10882
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "Enkidu"
     title: "Enkidu / 恩启都"
     url: "/wiki/entities/enkidu/"
+  - key: "EnochPowell"
+    title: "Enoch Powell"
+    url: "/wiki/entities/enochpowell/"
   - key: "EnochSontonga"
     title: "Enoch Sontonga"
     url: "/wiki/entities/enochsontonga/"

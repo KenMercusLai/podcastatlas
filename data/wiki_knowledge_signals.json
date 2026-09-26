@@ -17495,9 +17495,9 @@
       "url": "/wiki/concepts/britishdeindustrialization1970s/"
     },
     "BritishECReferendum1975": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2237203377 [GLT2237203377].md",
@@ -17505,9 +17505,16 @@
           "show": "The Rest Is History",
           "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
           "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/britishecreferendum1975/"
     },
     "BritishElectionCampaignEffects": {
@@ -35814,9 +35821,9 @@
       "url": "/wiki/concepts/deniablepatronagesignaling/"
     },
     "DenisHealey": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -35838,9 +35845,16 @@
           "show": "The Rest Is History",
           "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
           "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/denishealey/"
     },
     "DentalAestheticTreatmentBoundary": {
@@ -41038,9 +41052,9 @@
       "url": "/wiki/entities/edwardgrey/"
     },
     "EdwardHeath": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -41069,6 +41083,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
       "updated": "2026-09-27",
@@ -45003,6 +45024,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/enjoymentvspleasure/"
     },
+    "EnochPowell": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/enochpowell/"
+    },
     "EnochSontonga": {
       "episode_count": 1,
       "show_count": 1,
@@ -48346,6 +48383,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/feardrivengroupviolence/"
+    },
+    "February1974UKGeneralElection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/february1974ukgeneralelection/"
     },
     "FedEx": {
       "episode_count": 2,
@@ -63147,9 +63200,9 @@
       "url": "/wiki/entities/haroldgodwinson/"
     },
     "HaroldWilson": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT2308408988 [GLT2308408988].md",
@@ -63185,6 +63238,13 @@
           "show": "The Rest Is History",
           "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
           "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
       "updated": "2026-09-27",
@@ -74853,6 +74913,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/jennyorangutan/"
+    },
+    "JeremyThorpe": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jeremythorpe/"
     },
     "JerusalemHymn": {
       "episode_count": 1,
@@ -114371,9 +114447,9 @@
       "url": "/wiki/concepts/protopia/"
     },
     "ProvisionalIRA": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -114388,9 +114464,16 @@
           "show": "The Rest Is History",
           "title": "700. The Troubles: Bloody Sunday (Part 4)",
           "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/provisionalira/"
     },
     "ProvokedRebellionLegitimacyTransfer": {
@@ -139146,9 +139229,9 @@
       "url": "/wiki/concepts/terrorrulebackfire/"
     },
     "TerrorismPressureWrongfulConviction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2799978515 [GLT2799978515].md",
@@ -139156,6 +139239,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
       "updated": "2026-09-27",
@@ -139998,9 +140088,9 @@
       "url": "/wiki/entities/thetaleoftheheike/"
     },
     "TheTroubles": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -140029,9 +140119,16 @@
           "show": "The Rest Is History",
           "title": "700. The Troubles: Bloody Sunday (Part 4)",
           "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/thetroubles/"
     },
     "TheWhiteHairedGirl": {
@@ -141975,9 +142072,9 @@
       "url": "/wiki/entities/tonyacrcloud/"
     },
     "TonyBenn": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -142006,6 +142103,13 @@
           "show": "The Rest Is History",
           "title": "419. Britain in 1974: Countdown to a Coup (Part 3)",
           "url": "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
         }
       ],
       "updated": "2026-09-27",

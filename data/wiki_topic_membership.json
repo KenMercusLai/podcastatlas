@@ -1658,6 +1658,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "418-britain-in-1974-the-crisis-election-part-2-glt9690615062": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212": [
     {
       "key": "economics",
@@ -26286,6 +26298,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EnochPowell": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EnochSontonga": [
     {
       "key": "culture",
@@ -28113,6 +28132,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "February1974UKGeneralElection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "FedNow": [
@@ -40291,6 +40317,13 @@
     }
   ],
   "JeremyScott": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "JeremyThorpe": [
     {
       "key": "politics",
       "label": "Politics",
