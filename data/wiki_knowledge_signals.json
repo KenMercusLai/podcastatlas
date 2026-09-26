@@ -21143,9 +21143,9 @@
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
     "Carthage": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -21174,10 +21174,33 @@
           "show": "The Rest Is History",
           "title": "422. Ancient Carthage: Rise of a Superpower (Part 2)",
           "url": "/wiki/sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144/"
+        },
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/carthage/"
+    },
+    "CarthaginianChildSacrificeEvidence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/carthaginianchildsacrificeevidence/"
     },
     "CarthaginianCommercialToTerritorialEmpire": {
       "episode_count": 1,
@@ -36331,6 +36354,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/didi/"
+    },
+    "Dido": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/dido/"
     },
     "DieStemVanSuidAfrika": {
       "episode_count": 1,
@@ -109498,6 +109537,54 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/philippines/"
     },
+    "PhoenicianAlphabetTransmission": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/phoenicianalphabettransmission/"
+    },
+    "PhoenicianIdentityDebate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/phoenicianidentitydebate/"
+    },
+    "PhoenicianMediterraneanNetworks": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/phoenicianmediterraneannetworks/"
+    },
     "PhoneBasedChildhoodDisplacement": {
       "episode_count": 1,
       "show_count": 1,
@@ -143111,6 +143198,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/tworoundpresidentialelection/"
+    },
+    "Tyre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1311066631 [GLT1311066631].md",
+          "key": "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631",
+          "show": "The Rest Is History",
+          "title": "421. Ancient Carthage: Lords of the Sea (Part 1)",
+          "url": "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/tyre/"
     },
     "UAPCompartmentalization": {
       "episode_count": 1,

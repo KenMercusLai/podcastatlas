@@ -1665,6 +1665,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144": [
     {
       "key": "history",
@@ -15649,6 +15656,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CarthaginianChildSacrificeEvidence": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "CarthaginianCommercialToTerritorialEmpire": [
@@ -55781,6 +55795,20 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PhoenicianIdentityDebate": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "PhoenicianMediterraneanNetworks": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "PhotoCaptureProvenance": [

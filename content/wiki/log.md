@@ -23042,3 +23042,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 421. Ancient Carthage: Lords of the Sea (Part 1)
+
+Added source `421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631`; created `Tyre`, `Dido`, `PhoenicianIdentityDebate`, `PhoenicianMediterraneanNetworks`, `PhoenicianAlphabetTransmission`, and `CarthaginianChildSacrificeEvidence`; and updated `Carthage`, the canonical index, and overview from the complete bounded source set. Core synthesis: Carthage began inside an older Tyrian and wider Phoenician field of city-centered identity, maritime exchange, settlement, and writing, while Dido preserves kinship as legend and Tophet archaeology supports some child sacrifice without validating every hostile narrative. No settled contradiction found. Collective identity, Atlantic routes, foundation chronology and motive, script transmission details, ritual vocabulary, sacrifice frequency, urn totals, and the dissident-founder theory remain source-scoped or contested; North American voyage claims are rejected as unsupported. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

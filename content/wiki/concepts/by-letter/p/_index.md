@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8264
+wiki_total_pages: 8268
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -566,6 +566,15 @@ wiki_pages:
   - key: "PhilosophyWorkplaceSatire"
     title: "Philosophy Workplace Satire"
     url: "/wiki/concepts/philosophyworkplacesatire/"
+  - key: "PhoenicianAlphabetTransmission"
+    title: "Phoenician Alphabet Transmission / 腓尼基字母传播"
+    url: "/wiki/concepts/phoenicianalphabettransmission/"
+  - key: "PhoenicianIdentityDebate"
+    title: "Phoenician Identity Debate / 腓尼基认同之争"
+    url: "/wiki/concepts/phoenicianidentitydebate/"
+  - key: "PhoenicianMediterraneanNetworks"
+    title: "Phoenician Mediterranean Networks / 腓尼基地中海网络"
+    url: "/wiki/concepts/phoenicianmediterraneannetworks/"
   - key: "PhoneBasedChildhoodDisplacement"
     title: "Phone-Based Childhood Displacement"
     url: "/wiki/concepts/phonebasedchildhooddisplacement/"

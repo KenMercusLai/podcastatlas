@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2037
+topic_total_pages: 2040
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -127,6 +127,9 @@ topic_concepts:
   - key: "CapturedRulerLegitimacyContainment"
     title: "Captured Ruler Legitimacy Containment / 生俘亡君的合法性钳制"
     url: "/wiki/concepts/capturedrulerlegitimacycontainment/"
+  - key: "CarthaginianChildSacrificeEvidence"
+    title: "Carthaginian Child-Sacrifice Evidence / 迦太基儿童献祭证据"
+    url: "/wiki/concepts/carthaginianchildsacrificeevidence/"
   - key: "CasualtySparingSurrender"
     title: "Casualty-Sparing Surrender / 保全生灵式投降"
     url: "/wiki/concepts/casualtysparingsurrender/"
@@ -862,6 +865,9 @@ topic_concepts:
   - key: "PersonalRevengeThroughStatePower"
     title: "Personal Revenge Through State Power / 以国力行私仇"
     url: "/wiki/concepts/personalrevengethroughstatepower/"
+  - key: "PhoenicianIdentityDebate"
+    title: "Phoenician Identity Debate / 腓尼基认同之争"
+    url: "/wiki/concepts/phoenicianidentitydebate/"
   - key: "PlatonicAtlantisPoliticalMyth"
     title: "Platonic Atlantis Political Myth"
     url: "/wiki/concepts/platonicatlantispoliticalmyth/"
@@ -4629,6 +4635,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631"
+    title: "421. Ancient Carthage: Lords of the Sea (Part 1)"
+    url: "/wiki/sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631/"
   - key: "422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144"
     title: "422. Ancient Carthage: Rise of a Superpower (Part 2)"
     url: "/wiki/sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144/"

@@ -7,6 +7,7 @@ sources:
   - 424-carthage-vs-rome-total-war-part-4-glt9312780357
   - 423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613
   - 422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144
+  - 421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -19,11 +20,13 @@ Carthage / 迦太基 is the Phoenician-founded North African polity whose harbor
 
 ## Current Profile
 
-The episodes present Carthage as a settlement traditionally founded by Phoenicians from Tyre in 814 BC at a defensible site near modern Tunis. Large harbors and a position across Mediterranean trade routes support rapid urban growth, while Phoenician descent remains an elite identity inside a cosmopolitan African city. Agricultural development in the hinterland adds food security, estates, irrigation, vines, olives, livestock, and technical expertise to the maritime economy.
+The episodes present Carthage as a settlement traditionally founded by Phoenicians from [[Tyre]] in 814 BC at a defensible site near modern Tunis. [[Dido]]'s legendary flight preserves the parent-city relationship without supplying secure biography or chronology. Large harbors and a position across [[PhoenicianMediterraneanNetworks|Mediterranean trade routes]] support rapid urban growth, while Phoenician descent remains an elite identity inside a cosmopolitan African city. The wider [[PhoenicianIdentityDebate|identity]] is layered rather than national in a modern sense: strong city allegiances coexist with shared language, religion, material practices, and remembered kinship. Agricultural development in the hinterland adds food security, estates, irrigation, vines, olives, livestock, and technical expertise to the maritime economy.
 
 Early expansion operates through trading settlements, markets, alliances, sea control, and coercion. Conflict with Greek cities makes Sicily the critical frontier, while the later absorption of western Phoenician settlements and construction of fortified Lilybaeum mark a [[CarthaginianCommercialToTerritorialEmpire|shift toward territorial empire]]. Agathocles' invasion brings the city close to disaster, but its survival and renewed prosperity show material and institutional resilience.
 
 The [[CarthaginianConstitution|government]] is reconstructed as an aristocratic republic with sufets, a Council of Elders, a Tribunal of 104, generals, and a popular assembly. Wealth and inherited Phoenician status matter, yet Aristotle's praise and stories of failed coups suggest institutions designed to resist personal tyranny. Because Carthaginian writings were largely destroyed or dispersed, however, this profile depends heavily on archaeological evidence and Greek and Roman terminology and hostile storytelling.
+
+The child-sacrifice question illustrates why hostility cannot simply be accepted or inverted. Greek, Roman, and biblical traditions helped create Carthage's cruel and exotic reputation, but [[CarthaginianChildSacrificeEvidence|Tophet urns, offering inscriptions, and burned child remains]] independently support some practice of child sacrifice. Frequency, selection, ritual vocabulary, theology, and the theory that sacrifice-practicing dissidents founded the city remain contested.
 
 The treaties dated to 509 and 348 BC place Carthage in a position to restrict Roman movement around Carthaginian interests while recognizing a developing Roman sphere in Latium. Its western network includes influence in North Africa, Sicily, Sardinia, Corsica, and southern Iberia, while merchant communities connect it to Italian cities without requiring direct territorial rule there.
 
@@ -36,16 +39,18 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 ## Key Characteristics
 
 - Maritime and commercial power with Phoenician roots.
+- Tyrian foundation memory expressed through Dido, kinship, and shared but locally varied Phoenician culture.
 - African agricultural base and cosmopolitan city joined to outward-looking Mediterranean networks.
 - Aristocratic mixed government balancing sufets, councils, courts, commanders, and popular participation.
 - Expands from trading settlements and influence toward direct territorial control.
-- Older treaty power whose regulated commercial presence in Italy predates open rivalry with Rome.
 - Combines naval experience and paid forces with dependence on sea access and cash flow.
-- Loses Sicily, money, and naval freedom after the First Punic War.
+- Material evidence supports some child sacrifice while leaving scale, meaning, and variation uncertain.
 
 ## Evidence
 
 - Origins, economy, and institutions: [[422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144]] connects strategic geography, Phoenician identity, hinterland agriculture, trade, government, and urban form.
+- Tyrian and Phoenician prehistory: [[421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631]] connects Dido, Tyre, maritime networks, identity, writing, and the traditional ninth-century BC foundation.
+- Sacrifice evidence: [[421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631]] triangulates hostile testimony with Tophet archaeology and offering inscriptions while preserving uncertainty about scale and meaning.
 - Imperial transition: [[422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144]] traces Greek rivalry and the movement from commercial settlements to fortified territorial control in western Sicily.
 - Earlier power: [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] describes Carthage's origins, harbors, agriculture, sea position, and western network.
 - Treaty and trade relationship: [[423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613]] describes the 509 and 348 BC agreements, Punic merchant presence in Italy, and continued cooperation against Greek rivals.
@@ -56,14 +61,14 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 
 ## Qualifications
 
-The profile now reaches beyond Roman conflict, but the archive remains asymmetric. Most Carthaginian writing was destroyed or dispersed, institutional vocabulary comes through Greek and Roman translation, and enemy authors shaped claims about treachery, luxury, sacrifice, and strangeness. The maritime-versus-land-power and citizen-versus-mercenary contrasts can still overcompress both societies. Foundation chronology, demographic estimates, treaty interpretation, constitutional detail, sacrifice and atrocity stories, force totals, reported dialogue, the degree of Barcid independence, and motives remain source-scoped or contested.
+The profile now reaches back through Tyre and the wider Phoenician world, but the archive remains asymmetric. Most Carthaginian writing was destroyed or dispersed, institutional vocabulary comes through Greek and Roman translation, and enemy authors shaped claims about treachery, luxury, sacrifice, and strangeness. Material evidence means hostile testimony cannot be dismissed automatically, but archaeology does not validate every literary accusation. The maritime-versus-land-power and citizen-versus-mercenary contrasts can still overcompress both societies. Dido's biography, foundation chronology and motive, collective Phoenician identity, demographic estimates, treaty interpretation, constitutional detail, sacrifice frequency and meaning, atrocity stories, force totals, reported dialogue, the degree of Barcid independence, and motives remain source-scoped or contested.
 
 ## What Changed
 
-- Extended the profile to Phoenician foundation, African agriculture, urban geography, and pre-Roman Greek rivalry.
-- Added Carthage's mixed aristocratic institutions and resistance to individual tyranny.
-- Reframed western expansion as a shift from commercial network to territorial empire.
-- Made the loss of Carthaginian writing and hostile-source mediation central to confidence judgments.
+- Extended the origin profile from a generic Phoenician foundation to Tyre, Dido, and layered city-versus-cultural identity.
+- Positioned Carthage as a later western center inside older Phoenician maritime and writing networks.
+- Replaced a propaganda-only sacrifice frame with a qualified archaeological judgment.
+- Clarified that enemy testimony can contain truth without becoming complete or neutral.
 
 ## Relationships
 
@@ -79,3 +84,8 @@ The profile now reaches beyond Roman conflict, but the archive remains asymmetri
 - [[CarthaginianConstitution]] - mixed aristocratic order through which commerce and anti-tyranny politics were governed.
 - [[CarthaginianCommercialToTerritorialEmpire]] - expansion path from settlements and trade routes to fortified territorial control.
 - [[ArchivePreservationBias]] - explains why Greek and Roman enemy narratives dominate the surviving record.
+- [[Tyre]] - remembered parent city and eastern maritime context.
+- [[Dido]] - legendary founder who personifies Tyrian continuity.
+- [[PhoenicianIdentityDebate]] - distinguishes strong city allegiance from broader shared culture.
+- [[PhoenicianMediterraneanNetworks]] - older exchange and settlement field in which Carthage began.
+- [[CarthaginianChildSacrificeEvidence]] - triangulated case for some sacrifice with major limits on scale and meaning.

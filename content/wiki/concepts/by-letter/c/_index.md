@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8264
+wiki_total_pages: 8268
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "CartesianDualism"
     title: "Cartesian Dualism"
     url: "/wiki/concepts/cartesiandualism/"
+  - key: "CarthaginianChildSacrificeEvidence"
+    title: "Carthaginian Child-Sacrifice Evidence / 迦太基儿童献祭证据"
+    url: "/wiki/concepts/carthaginianchildsacrificeevidence/"
   - key: "CarthaginianCommercialToTerritorialEmpire"
     title: "Carthaginian Commercial-to-Territorial Empire / 迦太基商业至领土帝国"
     url: "/wiki/concepts/carthaginiancommercialtoterritorialempire/"

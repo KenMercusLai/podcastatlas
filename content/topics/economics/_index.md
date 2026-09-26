@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2101
+topic_total_pages: 2102
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2206,6 +2206,9 @@ topic_concepts:
   - key: "PersonalPensionAccount"
     title: "Personal Pension Account / 个人养老金账户"
     url: "/wiki/concepts/personalpensionaccount/"
+  - key: "PhoenicianMediterraneanNetworks"
+    title: "Phoenician Mediterranean Networks / 腓尼基地中海网络"
+    url: "/wiki/concepts/phoenicianmediterraneannetworks/"
   - key: "PigButcheringScam"
     title: "Pig Butchering Scam"
     url: "/wiki/concepts/pigbutcheringscam/"

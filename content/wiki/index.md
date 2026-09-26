@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito](sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835.md) — Huberman Lab interview on executive function, active working memory, dopamine's inverted-U, goal-management training, concussion recovery, and brain-network modularity.
+- [421. Ancient Carthage: Lords of the Sea (Part 1)](sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631.md) — The Rest Is History on Tyre, Phoenician identity and maritime networks, Dido, alphabet transmission, and archaeological evidence for Carthaginian child sacrifice.
 - [422. Ancient Carthage: Rise of a Superpower (Part 2)](sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144.md) — The Rest Is History on Carthage's Phoenician identity, hostile-source problem, mixed constitution, agricultural base, and transition from maritime trade network to territorial empire.
 - [423. Carthage vs. Rome: The Wolf at the Gates (Part 3)](sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613.md) — The Rest Is History on early Roman-Carthaginian treaties, Roman civic-military incorporation, the Samnite Wars, Pyrrhus, and the strategic approach to Sicily.
 - [Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498.md) — Huberman Lab interview on sturdy parenting, action-based boundaries, validation, repair, frustration tolerance, adolescent connection, and safety intervention.
@@ -3379,6 +3380,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
+- [Tyre / 推罗](entities/Tyre.md) — Levantine maritime city and remembered parent of Carthage, central to Phoenician trade, production, myth, and writing.
+- [Dido / Elissa](entities/Dido.md) — Legendary Tyrian exile and founder who personifies Carthage's eastern origin.
 - [Carthage / 迦太基](entities/Carthage.md) — Phoenician-founded North African power whose commerce, agriculture, mixed institutions, and territorial expansion precede Punic war and Iberian recovery.
 - [Pyrrhus of Epirus / 伊庇鲁斯的皮洛士](entities/Pyrrhus.md) — Hellenistic king whose costly victories fail to break Rome's Italian coalition before his withdrawal shifts attention toward Sicily.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander linking the Sicilian holding war, Mercenary War, and Spanish power base inherited by Hannibal.
@@ -13800,6 +13803,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Brain Network Modularity](concepts/BrainNetworkModularity.md) — Candidate trait and state measure of brain-network organization with qualified links to performance and rehabilitation response.
 - [Carthaginian Constitution / 迦太基政体](concepts/CarthaginianConstitution.md) — Mixed aristocratic order joining sufets, councils, judicial supervision, commanders, and popular participation under an anti-tyranny norm.
 - [Carthaginian Commercial-to-Territorial Empire / 迦太基商业至领土帝国](concepts/CarthaginianCommercialToTerritorialEmpire.md) — Expansion model linking maritime trade, African agriculture, Phoenician identity, fortified frontiers, and direct territorial control.
+- [Phoenician Identity Debate / 腓尼基认同之争](concepts/PhoenicianIdentityDebate.md) — Layered account of city-first allegiance, outsider naming, shared culture, and remembered kinship.
+- [Phoenician Mediterranean Networks / 腓尼基地中海网络](concepts/PhoenicianMediterraneanNetworks.md) — Maritime routes, skills, settlements, goods, and relationships connecting the Levant to the western Mediterranean.
+- [Phoenician Alphabet Transmission / 腓尼基字母传播](concepts/PhoenicianAlphabetTransmission.md) — Adaptation path from Phoenician consonantal writing into Greek and later alphabetic traditions.
+- [Carthaginian Child-Sacrifice Evidence / 迦太基儿童献祭证据](concepts/CarthaginianChildSacrificeEvidence.md) — Qualified archaeological and textual case for sacrifice without assuming every hostile claim or a settled scale.
 - [Parenting Sturdiness](concepts/ParentingSturdiness.md) — Adult capacity to retain values, responsibility, warmth, and connection during a child's distress or opposition.
 - [Boundary–Empathy Parenting](concepts/BoundaryEmpathyParenting.md) — Parenting model pairing adult-enforced limits with validation that does not transfer decision authority to emotion.
 - [Frustration-Tolerance Learning Space](concepts/FrustrationToleranceLearningSpace.md) — Manageable interval between inability or disappointment and adaptation where learning and resilience develop.

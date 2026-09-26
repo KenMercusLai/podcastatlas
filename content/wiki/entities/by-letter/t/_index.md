@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10875
+wiki_total_pages: 10877
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1091,6 +1091,9 @@ wiki_pages:
   - key: "TypeTypeMaker"
     title: "Type Type Maker"
     url: "/wiki/entities/typetypemaker/"
+  - key: "Tyre"
+    title: "Tyre / 推罗"
+    url: "/wiki/entities/tyre/"
   - key: "ThirtySeven"
     title: "《37》"
     url: "/wiki/entities/thirtyseven/"

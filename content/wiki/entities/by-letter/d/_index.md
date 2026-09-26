@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10875
+wiki_total_pages: 10877
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -533,6 +533,9 @@ wiki_pages:
   - key: "Didi"
     title: "Didi"
     url: "/wiki/entities/didi/"
+  - key: "Dido"
+    title: "Dido / Elissa"
+    url: "/wiki/entities/dido/"
   - key: "DieStemVanSuidAfrika"
     title: "Die Stem van Suid-Afrika"
     url: "/wiki/entities/diestemvansuidafrika/"
