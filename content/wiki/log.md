@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | Benefits & Risks of Peptide Therapeutics for Physical & Mental Health
+
+Added source `benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198`; created `ThymosinBeta4TissueRepair`, `MelanocortinPeptideVitality`, and `KisspeptinReproductiveSignaling`; and updated `BPC157ExperimentalRepairPeptide`, `PeptideEvidenceHierarchy`, `PeptideSourcingQualityRisk`, `RegulatedPeptideAccess`, `GrowthHormoneSecretagogues`, `GrowthHormoneBehavioralRegulation`, `BioregulatorPeptides`, the canonical index, and overview from their complete bounded source sets. Core synthesis: peptides span regulated indication-specific medicines, off-label uses, experimental animal-supported compounds, and unreliable gray- or black-market products; pleiotropic signaling, contamination, broad tissue growth, and sparse long-term human data prevent mechanism or popularity from becoming proof. No settled contradiction found. Dose schedules, timing windows, combinations, tumor effects, telomere claims, and vitality outcomes remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | 436. Luther: Showdown with the Emperor (Part 4)
 
 Added source `436-luther-showdown-with-the-emperor-part-4-glt5159022101`; created `CharlesV`, `FrederickTheWise`, `LucasCranachTheElder`, `DietOfWorms`, `Wartburg`, `Wittenberg`, `ReformationPrintCulture`, and `VernacularScriptureReach`; and updated `MartinLuther`, `AndreasKarlstadt`, `SolaScripturaInterpretivePluralism`, `RevolutionaryOutflanking`, and `ReformationLegacyAmbivalence` from their complete bounded source sets. Core synthesis: Luther's scriptural-conscience stand at Worms depended on princely and imperial procedure, while Wartburg translation and recognizable print culture widened reform beyond elite theology and beyond Luther's control; Wittenberg's liturgical reform and iconoclasm made that loss of control concrete before the later Peasants' War. No settled contradiction found. The “Here I stand” wording is distinguished from the official record, and translation timing, crowd scenes, personality, motives, miracle stories, and modern branding or social-media analogies remain source-scoped or qualified. The automatic `wiki/overview.md` was read for context but not manually rewritten under the synthesis-refresh boundary.
@@ -22790,6 +22794,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs
 
 Added source `guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487`; created `SleepHealthQQRT`, `TwoProcessSleepRegulation`, and `SystemicSleepLossEffects`; and updated `MatthewWalker`, `SleepStageFunctionalArchitecture`, the canonical index, and overview from their complete bounded source sets. Core synthesis: sleep health depends on quantity, quality, regularity, and chronotype-aligned timing; variable non-REM/REM architecture and interacting circadian and adenosine processes explain why duration alone misses restoration and daytime risk; and insufficient sleep can affect cognition, emotion, metabolism, endocrine function, immunity, cardiovascular regulation, appetite, and safety without making one bad night a chronic-disease verdict. No settled contradiction found. Exact cycle, efficiency, regularity, hormone, glucose, immune, vaccine, cardiovascular, gene-expression, appetite, mortality, brain-clearing, position, and yawning claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

@@ -4,7 +4,8 @@ type: concept
 tags: [endocrinology, growth-hormone, sleep, exercise, heat]
 sources:
   - essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997
-last_updated: 2026-09-22
+  - benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -14,7 +15,7 @@ knowledge_schema: synthesis-v1
 Growth hormone behavioral regulation is the source's framework for how sleep state, glucose and insulin context, exercise, heat exposure, and selected supplements may influence pulsatile growth-hormone release without equating a larger acute pulse with better long-term health.
 
 ## Current Synthesis
-[[essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997]] places the most dependable behavioral branch around early [[SlowWaveSleepRestoration]]. Growth hormone is described as rising during early-night deep sleep, with relatively low glucose and insulin presented as supportive conditions; this makes sleep quality and avoiding food very close to bedtime part of one proposed release context.
+The sources place the most dependable behavioral branch around early [[SlowWaveSleepRestoration]]. Growth hormone is described as rising during early-night deep sleep, with relatively low glucose and insulin presented as supportive conditions; this makes sleep quality and avoiding food very close to bedtime part of one proposed release context. The peptide overview reinforces the same timing logic while showing why it should not be converted into a secretagogue protocol.
 
 Exercise, deliberate heat, and arginine are presented as additional levers, but their claims are more protocol-sensitive. Training duration, warmup, effort, glucose intake, timing, heat dose, cooling periods, and supplement amount all change the reported response, and exercise plus arginine is not described as simply additive. The current judgment therefore separates supporting ordinary sleep and exercise from chasing acute hormone multipliers. Sauna, supplements, prescription hormones, and peptides carry distinct safety and evidence requirements.
 
@@ -32,14 +33,14 @@ Exercise, deliberate heat, and arginine are presented as additional levers, but 
 - Exercise protocol - [[essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997]] links a real warmup, bounded training duration, and near-failure resistance work to acute and overnight release claims.
 - Heat and supplement branch - [[essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997]] reports sauna and oral arginine effects while also naming hyperthermia, gastrointestinal distress, dose reversal, and non-additivity with exercise.
 - Intervention risk - [[essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997]] warns that growth hormone and sermorelin-like stimulation can promote broad tissue growth and may accelerate tumor growth.
+- Behavioral-versus-peptide boundary - [[benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198]] describes early-sleep growth-hormone release and food-sensitive secretagogue timing while warning that higher growth hormone or IGF-1 can support non-target tissue and tumor growth.
 
 ## Counterevidence & Qualifications
 The condensed source does not provide full study methods, sample sizes, participant characteristics, absolute hormone levels, or long-term outcomes behind its large percentage and fold-change claims. Acute release does not establish improved body composition, repair, cognition, longevity, or safety. Late meals may affect people differently, and glucose control, exercise, sauna, supplements, and endocrine symptoms require context for diabetes, cardiovascular disease, cancer history, pregnancy, heat intolerance, medication use, and sleep disorders.
 
 ## What Changed
-- Created a state-dependent model joining sleep, meal timing, exercise, heat, and arginine without treating them as interchangeable hacks.
-- Separated acute hormone-pulse claims from durable health outcomes.
-- Made broad tissue-growth and hyperthermia risk part of the core judgment.
+- Reinforced the distinction between ordinary sleep and meal context and medically supervised peptide stimulation.
+- Added a second source for the early-sleep pulse and broad tissue-growth boundary without promoting its timing details as a protocol.
 
 ## Related Concepts
 - [[SlowWaveSleepRestoration]] - primary sleep-state mechanism for the nightly growth-hormone pulse.

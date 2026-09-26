@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8198
+wiki_total_pages: 8201
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "MekongRiverGeographicWriting"
     title: "Mekong River Geographic Writing / 湄公河地理写作"
     url: "/wiki/concepts/mekongrivergeographicwriting/"
+  - key: "MelanocortinPeptideVitality"
+    title: "Melanocortin Peptide Vitality"
+    url: "/wiki/concepts/melanocortinpeptidevitality/"
   - key: "MelodramaticPoliticalFormation"
     title: "Melodramatic Political Formation"
     url: "/wiki/concepts/melodramaticpoliticalformation/"

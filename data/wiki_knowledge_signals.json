@@ -12531,9 +12531,9 @@
       "url": "/wiki/entities/azure/"
     },
     "BPC157ExperimentalRepairPeptide": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -12548,9 +12548,16 @@
           "show": "Huberman Lab",
           "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
           "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/bpc157experimentalrepairpeptide/"
     },
     "BRAVOTrial": {
@@ -15448,9 +15455,9 @@
       "url": "/wiki/concepts/biologicalrationalitymismatch/"
     },
     "BioregulatorPeptides": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -15458,9 +15465,16 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/bioregulatorpeptides/"
     },
     "BipartisanSwingStateRepresentation": {
@@ -58517,9 +58531,9 @@
       "url": "/wiki/entities/groundtruthnewsletter/"
     },
     "GrowthHormoneBehavioralRegulation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6636881997 [SCIM6636881997].md",
@@ -58527,15 +58541,22 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Control Your Metabolism by Thyroid & Growth Hormone",
           "url": "/wiki/sources/essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/growthhormonebehavioralregulation/"
     },
     "GrowthHormoneSecretagogues": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -58557,9 +58578,16 @@
           "show": "Huberman Lab",
           "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
           "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/growthhormonesecretagogues/"
     },
     "GrowthMindset": {
@@ -77552,6 +77580,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/kisoyoshinaka/"
     },
+    "KisspeptinReproductiveSignaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/kisspeptinreproductivesignaling/"
+    },
     "KitcheeSC": {
       "episode_count": 1,
       "show_count": 1,
@@ -93577,6 +93621,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/meifuwesternhan/"
     },
+    "MelanocortinPeptideVitality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/melanocortinpeptidevitality/"
+    },
     "MelissaIlardo": {
       "episode_count": 1,
       "show_count": 1,
@@ -106589,9 +106649,9 @@
       "url": "/wiki/concepts/peopleartiststatehonor/"
     },
     "PeptideEvidenceHierarchy": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -106606,15 +106666,22 @@
           "show": "Huberman Lab",
           "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
           "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/peptideevidencehierarchy/"
     },
     "PeptideSourcingQualityRisk": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -106629,9 +106696,16 @@
           "show": "Huberman Lab",
           "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
           "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/peptidesourcingqualityrisk/"
     },
     "PerMuLandTaxation": {
@@ -116264,9 +116338,9 @@
       "url": "/wiki/concepts/regulatedcryptotruststrategy/"
     },
     "RegulatedPeptideAccess": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -116281,9 +116355,16 @@
           "show": "Huberman Lab",
           "title": "Peptide & Hormone Therapies for Health, Performance & Longevity | Dr. Craig Koniver",
           "url": "/wiki/sources/peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274/"
+        },
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/regulatedpeptideaccess/"
     },
     "RehabilitationGoalDifferentiation": {
@@ -138133,6 +138214,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/thulesociety/"
+    },
+    "ThymosinBeta4TissueRepair": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1922606198 [SCIM1922606198].md",
+          "key": "benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198",
+          "show": "Huberman Lab",
+          "title": "Benefits & Risks of Peptide Therapeutics for Physical & Mental Health",
+          "url": "/wiki/sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/thymosinbeta4tissuerepair/"
     },
     "ThyroidHormoneMetabolism": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8198
+wiki_total_pages: 8201
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "ThreeSidedMarketplaceValidation"
     title: "Three-Sided Marketplace Validation"
     url: "/wiki/concepts/threesidedmarketplacevalidation/"
+  - key: "ThymosinBeta4TissueRepair"
+    title: "Thymosin Beta-4 Tissue Repair"
+    url: "/wiki/concepts/thymosinbeta4tissuerepair/"
   - key: "ThyroidHormoneMetabolism"
     title: "Thyroid Hormone Metabolism"
     url: "/wiki/concepts/thyroidhormonemetabolism/"

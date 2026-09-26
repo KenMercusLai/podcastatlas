@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Benefits & Risks of Peptide Therapeutics for Physical & Mental Health](sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198.md) — Huberman Lab solo episode organizing repair, growth-hormone, longevity, and vitality peptides through evidence, sourcing, pleiotropy, and clinical-risk boundaries.
 - [436. Luther: Showdown with the Emperor (Part 4)](sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101.md) — The Rest Is History on Luther at Worms, Charles V, Frederick's protection, Wartburg translation, print propaganda, and Wittenberg radicalization.
 - [GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs](sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487.md) — Huberman Lab sleep-series opener on QQRT, sleep stages, circadian and adenosine regulation, systemic sleep-loss effects, chronotype, and daytime safety.
 - [437. Luther: A World Torn Apart (Part 5)](sources/437-luther-a-world-torn-apart-part-5-glt3328267667.md) — The Rest Is History finale on Luther's split with Karlstadt and Müntzer, the Peasants' War, two-kingdoms theology, and his morally divided legacy.
@@ -13719,6 +13720,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Thymosin Beta-4 Tissue Repair](concepts/ThymosinBeta4TissueRepair.md) — Thymosin beta-4 and TB-500 repair frame separating animal plausibility and combination use from controlled human evidence.
+- [Melanocortin Peptide Vitality](concepts/MelanocortinPeptideVitality.md) — Melanocortin analogue framework separating pigmentation, appetite, mood, libido, regulated PT-141 use, and adverse-effect boundaries.
+- [Kisspeptin Reproductive Signaling](concepts/KisspeptinReproductiveSignaling.md) — Upstream kisspeptin-GnRH-LH/FSH signaling frame distinguishing indication-specific reproductive use from generalized vitality claims.
 - [Sleep Health QQRT](concepts/SleepHealthQQRT.md) — Four-part sleep-health frame covering quantity, quality, regularity, and chronotype-aligned timing.
 - [Two-Process Sleep Regulation](concepts/TwoProcessSleepRegulation.md) — Interaction between circadian alerting and adenosine-based homeostatic sleep pressure.
 - [Systemic Sleep-Loss Effects](concepts/SystemicSleepLossEffects.md) — Cross-system framework for cognitive, emotional, metabolic, endocrine, immune, cardiovascular, appetite, and safety effects of insufficient sleep.

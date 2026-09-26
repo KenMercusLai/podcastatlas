@@ -6,7 +6,8 @@ sources:
   - peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046
   - essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997
   - peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274
-last_updated: 2026-09-23
+  - benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,7 +19,7 @@ Growth hormone secretagogues are the episode's category for indirect growth-horm
 ## Current Synthesis
 The source frames growth hormone secretagogues as indirect endocrine levers rather than simple youth or muscle drugs. Bakri describes somatopause as a decline in growth-hormone production beginning around the 30s, then discusses secretagogues and GHRH-related therapies as ways people try to alter growth hormone and IGF-1 signaling.
 
-The main synthesis is risk-managed conditionality. These compounds can be attractive in body-composition or aging contexts, but the Bakri episode repeatedly names concerns around tumor growth acceleration, insulin-sensitivity worsening, prostate effects, organ-growth concerns, and the need to monitor markers such as IGF-1. The Essentials episode adds sermorelin as a prescription fragment that mimics growth-hormone-releasing hormone and stimulates pituitary release, while reinforcing that indirect stimulation can still promote tissue growth broadly. Koniver differentiates ipamorelin, GHRP-6, tesamorelin, sermorelin, MK-677, and hexarelin by reported sleep, appetite, visceral-fat, size, or endurance effects, but Huberman's reversible PSA rise and REM-sleep change illustrate variable response. In the "trinity stack" context, secretagogues become even harder to evaluate because they may be combined with GLP-1s and androgen therapies.
+The main synthesis is risk-managed conditionality. These compounds can be attractive in body-composition or aging contexts, but the Bakri episode repeatedly names concerns around tumor growth acceleration, insulin-sensitivity worsening, prostate effects, organ-growth concerns, and the need to monitor markers such as IGF-1. The Essentials episode adds sermorelin as a prescription fragment that mimics growth-hormone-releasing hormone and stimulates pituitary release, while reinforcing that indirect stimulation can still promote tissue growth broadly. Koniver differentiates ipamorelin, GHRP-6, tesamorelin, sermorelin, MK-677, and hexarelin by reported sleep, appetite, visceral-fat, size, or endurance effects. The solo peptide episode further separates GHRH-like compounds from ghrelin-related secretagogues and names compound-specific hunger, anxiety, cortisol, prolactin, receptor-desensitization, and cardiovascular concerns. These are not interchangeable "natural growth hormone" tools, and combination use makes attribution harder.
 
 ## Key Claims
 - Secretagogues are indirect growth-hormone levers, not the same intervention as giving growth hormone itself.
@@ -35,14 +36,15 @@ The main synthesis is risk-managed conditionality. These compounds can be attrac
 - Risk monitoring - [[peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046]] names tumor growth acceleration, insulin-sensitivity worsening, prostate effects, organ-growth concerns, and IGF-1 monitoring.
 - Sermorelin and tissue-growth boundary - [[essentials-how-to-control-your-metabolism-by-thyroid-growth-hormone-scim6636881997]] describes sermorelin as mimicking part of growth-hormone-releasing hormone and warns that repeated stimulation can alter gene expression and promote organ or tumor growth.
 - Comparative clinical account - [[peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274]] differentiates several secretagogues by claimed effect profile and reports Huberman's reversible PSA and sleep-stage changes with sermorelin.
+- Pathway and adverse-effect differentiation - [[benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198]] separates GHRH-like and ghrelin-related categories and names hunger, anxiety, cortisol, prolactin, receptor-desensitization, tumor, and cardiovascular concerns.
 
 ## Counterevidence & Qualifications
-The sources do not establish that growth hormone secretagogues extend lifespan, reverse aging, or safely improve body composition for broad users. The Essentials source does not provide detailed clinical methods or long-term sermorelin outcomes, and its tumor and gene-expression discussion is a caution rather than a quantified individual risk estimate. Koniver's compound comparisons, doses, timing, and five-days-on/two-days-off schedule are clinical practice descriptions without controlled comparisons. Stacked body-composition use remains source-scoped and clinically unresolved.
+The sources do not establish that growth hormone secretagogues extend lifespan, reverse aging, or safely improve body composition for broad users. The Essentials source does not provide detailed clinical methods or long-term sermorelin outcomes, and its tumor and gene-expression discussion is a caution rather than a quantified individual risk estimate. Compound comparisons, fasting windows, bedtime timing, combinations, doses, and cycling schedules are source or clinical-practice descriptions without controlled comparisons. The reported CJC-1295 trial death is a safety signal in the episode, not enough information to assign causality or quantify risk. Stacked body-composition use remains clinically unresolved.
 
 ## What Changed
-- Added a differentiated clinical account of ipamorelin, GHRP-6, tesamorelin, sermorelin, MK-677, and hexarelin.
-- Added observed PSA and sleep-stage variability without treating one response as a population estimate.
-- Kept cycling, timing, and dosing descriptions source-scoped rather than prescriptive.
+- Added GHRH-like versus ghrelin-related pathway differentiation.
+- Added hunger, anxiety, cortisol, prolactin, desensitization, and cardiovascular safety concerns.
+- Kept combinations, fasting windows, timing, cycling, and dosing descriptions non-prescriptive.
 
 ## Related Concepts
 - [[GLP1BodyCompositionStack]] - combined body-composition use where secretagogues may appear.

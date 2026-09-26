@@ -5,7 +5,8 @@ tags: [healthcare, peptides, evidence, regulation]
 sources:
   - peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046
   - peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274
-last_updated: 2026-09-23
+  - benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Peptide evidence hierarchy is the episode's framework for sorting peptide claims
 ## Current Synthesis
 The strongest synthesis is that "peptides" is not a useful single evidence category. The same label can include approved metabolic medicines such as [[GLP1Agonists|GLP-1 drugs]], research-rich but unapproved repair candidates such as [[BPC157ExperimentalRepairPeptide|BPC-157]], Soviet-era bioregulators, thymic immune peptides, topical cosmetic compounds, and indirect growth-hormone levers. Each group needs a different standard before it can be treated as a responsible intervention.
 
-The hierarchy moves from known receptors and regulated indications toward weaker evidence zones. At the mature end, semaglutide and tirzepatide have clearer clinical paths and known metabolic effects. In the middle, peptides such as BPC-157 and thymic peptides have mechanistic plausibility or limited trials but unresolved human efficacy and long-term safety. At the weaker end, personal reports, animal models, foreign literature, and research-chemical claims can identify study targets without proving consumer protocols. Koniver's episode adds extensive practitioner observation, but those clinic-specific responses and schedules remain below controlled comparative evidence.
+The hierarchy moves from known receptors and regulated indications toward weaker evidence zones. At the mature end, semaglutide, tirzepatide, tesamorelin for a defined indication, and PT-141/Vyleesi for a defined population have clearer clinical paths. In the middle, peptides such as BPC-157, thymosin beta-4/TB-500, secretagogues, and kisspeptin have mechanistic plausibility, selective medical uses, or limited trials but unresolved efficacy for broader enhancement. At the weaker end, personal reports, animal models, foreign literature, and research-chemical claims can identify study targets without proving consumer protocols. Koniver's episode adds extensive practitioner observation, while the solo Huberman episode makes pleiotropy explicit: even a biologically active peptide may affect many tissues and pathways beyond the desired outcome.
 
 ## Key Claims
 - The word "peptide" should not collapse approved drugs, experimental compounds, supplements, and research chemicals into one confidence level.
@@ -32,13 +33,14 @@ The hierarchy moves from known receptors and regulated indications toward weaker
 - Evidence maturity - [[peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046]] repeatedly distinguishes animal studies, small trials, personal reports, Russian literature, and FDA approval.
 - Safety and monitoring - [[peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046]] ties peptide use to sourcing quality, physician involvement, and markers such as IGF-1 for growth-hormone-related interventions.
 - Clinical-observation boundary - [[peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274]] supplies practitioner reports across GLP-1s, BPC-157, secretagogues, sleep peptides, NAD, and methylene blue while repeatedly acknowledging supervision, sourcing, and evidence limits.
+- Pleiotropy and indication boundary - [[benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198]] contrasts approved indication-specific uses with experimental repair, longevity, and vitality claims and emphasizes that one peptide can affect multiple tissues and biological pathways.
 
 ## Counterevidence & Qualifications
 This is a source-derived classification, not a formal regulatory taxonomy. It does not prove that receptor-unknown peptides are useless or that approved peptide drugs are risk-free. It also does not treat repeated physician observation as equivalent to randomization, blinding, comparison groups, or long-term safety follow-up. Confidence should track mechanism, evidence quality, product quality, indication, and follow-up.
 
 ## What Changed
-- Added clinical observation as useful but lower-confidence evidence than controlled human outcomes.
-- Clarified that supervision can reduce operational risk without proving efficacy.
+- Added pleiotropy as a reason that mechanism or one desired effect cannot stand in for whole-system benefit-risk evidence.
+- Added indication-specific approval as distinct from approval of a peptide family or generalized enhancement use.
 
 ## Related Concepts
 - [[RegulatedPeptideAccess]] - access and legal channel boundary for peptide use.
@@ -47,3 +49,5 @@ This is a source-derived classification, not a formal regulatory taxonomy. It do
 - [[BPC157ExperimentalRepairPeptide]] - experimental repair-peptide example.
 - [[GrayMarketPeptides]] - low-oversight channel that weakens confidence in the actual product.
 - [[MedicalRiskManagement]] - clinical supervision and monitoring discipline.
+- [[MelanocortinPeptideVitality]] - indication-specific regulated and experimental vitality example.
+- [[KisspeptinReproductiveSignaling]] - upstream reproductive-signaling example requiring direction- and diagnosis-specific interpretation.

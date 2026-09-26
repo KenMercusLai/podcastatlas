@@ -5,7 +5,8 @@ tags: [healthcare, peptides, compounding, safety]
 sources:
   - peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046
   - peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274
-last_updated: 2026-09-23
+  - benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,7 @@ Peptide sourcing quality risk is the safety problem created when a peptide's rea
 ## Current Synthesis
 The source makes product quality inseparable from biological claims. A user may think they are deciding whether BPC-157, TB-4, GHK-Cu, thymic peptides, or a growth-hormone secretagogue is effective, but the actual intervention also depends on whether the vial contains the stated compound at the stated dose and whether it was manufactured, compounded, shipped, and stored safely.
 
-Bakri's account places compounding pharmacies and research-chemical sellers on a quality spectrum. He says peptide active pharmaceutical ingredients often originate from China across channels, but the downstream testing, sterility, formulation, documentation, and oversight can differ sharply. Koniver reinforces the operational distinction by emphasizing purity and endotoxin testing in supervised compounding and warning about serious reactions to research-use products. The weakest case is not merely an unproven molecule; it is an unverified product used without reliable monitoring.
+Bakri's account places compounding pharmacies and research-chemical sellers on a quality spectrum. He says peptide active pharmaceutical ingredients often originate from China across channels, but the downstream testing, sterility, formulation, documentation, and oversight can differ sharply. Koniver reinforces the operational distinction by emphasizing purity and endotoxin testing in supervised compounding and warning about serious reactions to research-use products. Huberman's solo episode names lipopolysaccharide contamination as a concrete immune risk and warns that black-market labels may not match vial contents. The weakest case is not merely an unproven molecule; it is an unverified product used without reliable monitoring.
 
 ## Key Claims
 - Peptide risk includes product identity, sterility, contaminants, concentration, and storage, not only molecule-level pharmacology.
@@ -32,13 +33,14 @@ Bakri's account places compounding pharmacies and research-chemical sellers on a
 - Low-oversight channel risk - [[peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046]] describes research-only and black-market sources as unreliable and batch-dependent.
 - Clinical implication - [[peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046]] emphasizes physician-led use and monitoring rather than casual peptide website purchasing.
 - Sterility and endotoxin boundary - [[peptide-hormone-therapies-for-health-performance-longevity-dr-craig-koniver-scim6125190274]] contrasts supervised compounding with research-use products and reports serious reactions where human-use manufacturing controls were uncertain.
+- LPS and label-identity warning - [[benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198]] identifies lipopolysaccharide as an immune-provoking manufacturing contaminant and warns that black-market products may not contain what their labels claim.
 
 ## Counterevidence & Qualifications
 The sources do not provide independent lab testing of particular vendors or batches. Koniver's favorable account of compounding oversight should not be generalized to every pharmacy or preparation. The category risk remains: when sourcing is uncertain, neither benefit nor harm can be confidently attributed to the named peptide alone.
 
 ## What Changed
-- Added endotoxin and human-use manufacturing controls to the sourcing-risk model.
-- Qualified the claim that compounding oversight guarantees equivalent pharmacy or batch quality.
+- Made LPS contamination and label-identity failure explicit rather than leaving contamination generic.
+- Preserved the distinction between a reliable prescription channel and proof that the molecule or off-label use is effective.
 
 ## Related Concepts
 - [[GrayMarketPeptides]] - access channel where sourcing uncertainty is especially salient.
