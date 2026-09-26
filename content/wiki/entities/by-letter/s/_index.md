@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10930
+wiki_total_pages: 10936
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1466,6 +1466,9 @@ wiki_pages:
   - key: "StudioGhibli"
     title: "Studio Ghibli / 吉卜力工作室"
     url: "/wiki/entities/studioghibli/"
+  - key: "Sturmabteilung"
+    title: "Sturmabteilung (SA)"
+    url: "/wiki/entities/sturmabteilung/"
   - key: "Stuxnet"
     title: "Stuxnet"
     url: "/wiki/entities/stuxnet/"

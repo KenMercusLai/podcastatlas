@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 10930
+wiki_total_pages: 10936
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "Nigeria"
     title: "Nigeria"
     url: "/wiki/entities/nigeria/"
+  - key: "NightOfTheLongKnives"
+    title: "Night of the Long Knives"
+    url: "/wiki/entities/nightofthelongknives/"
   - key: "NihonKotsu"
     title: "Nihon Kotsu / 日本交通"
     url: "/wiki/entities/nihonkotsu/"

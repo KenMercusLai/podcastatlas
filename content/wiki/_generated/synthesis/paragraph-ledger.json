@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
       "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
       "7f10a2b8b99c384dc46b7c64c1182b70e9b4db3e0f32e8ff64d2a8ff07aa7b44",
       "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
@@ -753,11 +754,39 @@
       "8b5ede398926abd502ebdfba3f57f00a484fcaea87d1bd59feee284620ca59ce",
       "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9"
     ],
-    "paragraph_count": 751
+    "paragraph_count": 752
   },
-  "overview_commit": "895057f5ab67a7d3c5d598578002a0327b40fc16",
-  "overview_digest": "1c80b21bac76b439e5241effa891cd1420b7f3ea82c57f5534b1013c0ed25653",
+  "overview_commit": "745d8465988ab4442113dff1ca0e4a6daab67562",
+  "overview_digest": "f624b71f5c5334c28bcf5d19274553354c468c6a2075ff3196dab34ae59672d7",
   "paragraphs": [
+    {
+      "id": "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest Nazi-in-power addition is [[404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466|404. The Nazis in Power: The Night of the Long Knives (Part 1)]], a [[TheRestIsHistory]] episode supplying the violent consolidation hinge before the existing Parts 2–7 sequence. It adds [[NightOfTheLongKnives]], [[ErnstRohm]], [[Sturmabteilung]], [[HermannGoring]], [[PaulVonHindenburg]], [[FranzVonPapen]], and [[FuhrerStateConsolidation]], while extending [[AdolfHitler]], [[HeinrichHimmler]], [[JosephGoebbels]], [[ReinhardHeydrich]], and [[NaziGermany]]. Its core synthesis is that a real conflict among SA revolution, army-backed order, conservative criticism, and SS-police ambition was converted through a false coup claim into selective state murder; retroactive legality, public relief at SA suppression, army approval, Hindenburg's death, office merger, plebiscite, and a personal military oath then strengthened Hitler's rule. No settled contradiction is recorded. The SA was violent and institutionally threatening, but the coup allegation was false; death totals, referendum support, reported dialogue, French-payment claims, private motives, and precise command calculations remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+        "AdolfHitler",
+        "ErnstRohm",
+        "FranzVonPapen",
+        "FuhrerStateConsolidation",
+        "HeinrichHimmler",
+        "HermannGoring",
+        "JosephGoebbels",
+        "NaziGermany",
+        "NightOfTheLongKnives",
+        "PaulVonHindenburg",
+        "ReinhardHeydrich",
+        "Sturmabteilung",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "c08eabc3cd1e0688edcae00268e9415ac6aa247d282687aba9ac3177bc9aac49",
       "primary_topic": "governance-and-institutions",

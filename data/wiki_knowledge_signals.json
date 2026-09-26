@@ -5334,9 +5334,9 @@
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5379,6 +5379,13 @@
           "show": "The Rest Is History",
           "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
           "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        },
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
         }
       ],
       "updated": "2026-09-27",
@@ -46407,6 +46414,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/ernstjunger/"
     },
+    "ErnstRohm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/ernstrohm/"
+    },
     "ErnstVomRath": {
       "episode_count": 1,
       "show_count": 1,
@@ -53554,6 +53577,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/entities/franzjosephi/"
     },
+    "FranzVonPapen": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/franzvonpapen/"
+    },
     "FraserMcIlwraith": {
       "episode_count": 1,
       "show_count": 1,
@@ -55101,6 +55140,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/fugitivesheltercollateralrisk/"
+    },
+    "FuhrerStateConsolidation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/fuhrerstateconsolidation/"
     },
     "FujiwaraMarriagePolitics": {
       "episode_count": 2,
@@ -64997,9 +65052,9 @@
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
     "HeinrichHimmler": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9460111455 [GLT9460111455].md",
@@ -65014,6 +65069,13 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
         }
       ],
       "updated": "2026-09-27",
@@ -65823,6 +65885,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/heritageproductinnovationdebt/"
+    },
+    "HermannGoring": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/hermanngoring/"
     },
     "HeroMemoryPoliticalCredibility": {
       "episode_count": 1,
@@ -78569,9 +78647,9 @@
       "url": "/wiki/entities/josephconrad/"
     },
     "JosephGoebbels": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -78600,6 +78678,13 @@
           "show": "The Rest Is History",
           "title": "405. The Nazis in Power: The Nuremberg Rallies (Part 2)",
           "url": "/wiki/sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377/"
+        },
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
         }
       ],
       "updated": "2026-09-27",
@@ -102727,9 +102812,9 @@
       "url": "/wiki/concepts/nazidomesticandyouthsocialization/"
     },
     "NaziGermany": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -102800,6 +102885,13 @@
           "show": "The Rest Is History",
           "title": "406. The Nazis in Power: Hitler’s Road to War (Part 3)",
           "url": "/wiki/sources/406-the-nazis-in-power-hitlers-road-to-war-part-3-glt6776521114/"
+        },
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
         }
       ],
       "updated": "2026-09-27",
@@ -103706,6 +103798,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/entities/nietengfei/"
+    },
+    "NightOfTheLongKnives": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/nightofthelongknives/"
     },
     "NightmareImageryRehearsalTherapy": {
       "episode_count": 1,
@@ -109845,6 +109953,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/paulrouse/"
+    },
+    "PaulVonHindenburg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/paulvonhindenburg/"
     },
     "PaulaMejia": {
       "episode_count": 1,
@@ -120651,9 +120775,9 @@
       "url": "/wiki/concepts/rehabilitationgoaldifferentiation/"
     },
     "ReinhardHeydrich": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -120661,6 +120785,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
         }
       ],
       "updated": "2026-09-27",
@@ -137052,6 +137183,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/entities/studio54/"
+    },
+    "Sturmabteilung": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3861584466 [GLT3861584466].md",
+          "key": "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466",
+          "show": "The Rest Is History",
+          "title": "404. The Nazis in Power: The Night of the Long Knives (Part 1)",
+          "url": "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/sturmabteilung/"
     },
     "StutteringSpeechCoordination": {
       "episode_count": 2,

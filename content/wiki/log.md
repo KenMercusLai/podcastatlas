@@ -23308,3 +23308,11 @@ Added source `how-to-build-immense-inner-strength-david-goggins-scim6232468504`;
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 404. The Nazis in Power: The Night of the Long Knives (Part 1)
+
+Added source `404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466`; created `NightOfTheLongKnives`, `ErnstRohm`, `Sturmabteilung`, `HermannGoring`, `PaulVonHindenburg`, `FranzVonPapen`, and `FuhrerStateConsolidation`; and updated `AdolfHitler`, `HeinrichHimmler`, `JosephGoebbels`, `ReinhardHeydrich`, `NaziGermany`, the canonical index, and overview from their complete bounded source sets. Core synthesis: a real conflict among SA revolution, army-backed order, conservative criticism, and SS-police ambition was converted through a false coup claim into selective state murder; retrospective legality, army approval, Hindenburg's death, office merger, plebiscite, and a personal military oath then consolidated Hitler's rule. No settled contradiction found. The SA's real violence and institutional challenge do not validate the coup allegation, while death totals, referendum support, reported dialogue, French-payment claims, private motives, and precise command calculations remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

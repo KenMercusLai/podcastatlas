@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10930
+wiki_total_pages: 10936
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -488,6 +488,9 @@ wiki_pages:
   - key: "HermanHollerith"
     title: "Herman Hollerith / 赫尔曼·霍尔瑞斯"
     url: "/wiki/entities/hermanhollerith/"
+  - key: "HermannGoring"
+    title: "Hermann Göring"
+    url: "/wiki/entities/hermanngoring/"
   - key: "HermannHesse"
     title: "Hermann Hesse / 赫尔曼·黑塞"
     url: "/wiki/entities/hermannhesse/"

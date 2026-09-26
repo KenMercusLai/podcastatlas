@@ -926,14 +926,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "GLT2099451333 [GLT2099451333].md",
-      "source_note_count": 197,
-      "topic_matched_source_note_count": 195,
+      "source_note_count": 198,
+      "topic_matched_source_note_count": 196,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 193
+          "source_note_count": 194
         },
         {
           "key": "politics",
@@ -984,6 +984,13 @@
           "episode_count": 8
         },
         {
+          "key": "AdolfHitler",
+          "title": "Adolf Hitler",
+          "url": "/wiki/entities/adolfhitler/",
+          "kind": "person",
+          "episode_count": 7
+        },
+        {
           "key": "ElizabethI",
           "title": "Elizabeth I",
           "url": "/wiki/entities/elizabethi/",
@@ -996,13 +1003,6 @@
           "url": "/wiki/entities/henryvofengland/",
           "kind": "person",
           "episode_count": 7
-        },
-        {
-          "key": "AdolfHitler",
-          "title": "Adolf Hitler",
-          "url": "/wiki/entities/adolfhitler/",
-          "kind": "person",
-          "episode_count": 6
         },
         {
           "key": "EdwardHeath",

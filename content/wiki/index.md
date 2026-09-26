@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [404. The Nazis in Power: The Night of the Long Knives (Part 1)](sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466.md) — The Rest Is History episode on the false SA coup claim, the Röhm purge, SS-police violence, army accommodation, retrospective legality, and Hitler's consolidation of personal rule.
 - [How to Build Immense Inner Strength | David Goggins](sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504.md) — Huberman Lab interview on willpower as maintained practice, difficult self-examination, repeated study, inner dialogue, earned confidence, and the limits of extreme autobiographical discipline.
 - [VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！](sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do.md) — 这病说来话长 episode with 蒋永亮 on digestive symptoms, H. pylori, diet myths, bowel warning signs, colorectal screening, gastrectomy recovery, and pancreatic imaging findings.
 - [405. The Nazis in Power: The Nuremberg Rallies (Part 2)](sources/405-the-nazis-in-power-the-nuremberg-rallies-part-2-glt8681167377.md) — The Rest Is History episode on Nazi spectacle, ritual, film and radio saturation, gender and youth socialization, schooling, and Olympic propaganda.
@@ -2936,6 +2937,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Night of the Long Knives](entities/NightOfTheLongKnives.md) — June–July 1934 purge that destroyed the SA leadership, killed additional rivals, strengthened the SS, and secured army acceptance of Hitler.
+- [Ernst Röhm](entities/ErnstRohm.md) — SA leader whose revolutionary and military ambitions made him the central target of the purge despite the false coup allegation.
+- [Sturmabteilung (SA)](entities/Sturmabteilung.md) — Nazi mass stormtrooper organization subordinated after its scale, violence, and defense-force ambitions threatened the army bargain.
+- [Hermann Göring](entities/HermannGoring.md) — Nazi leader whose Prussian police power and direction of the Berlin operation made the purge institutionally executable.
+- [Paul von Hindenburg](entities/PaulVonHindenburg.md) — German president whose appointment authority, demand for order, and death framed Hitler's rise and office merger.
+- [Franz von Papen](entities/FranzVonPapen.md) — Conservative enabler whose attempt to constrain and later criticize Hitler ended with associates killed in the purge.
 - [David Goggins](entities/DavidGoggins.md) — Endurance athlete, author, and paramedic student framing discipline as repeated constructive action, self-examination, and confidence earned without external applause.
 - [1934 Nuremberg Rally](entities/NurembergRally1934.md) — Nazi congress that staged post-purge consolidation through historical myth, sacred ritual, mass choreography, light, and film.
 - [Remilitarization of the Rhineland](entities/RhinelandRemilitarization.md) — March 1936 German treaty violation whose unopposed success changed the strategic balance and Hitler’s risk expectations.
@@ -13881,6 +13888,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Führer-State Consolidation](concepts/FuhrerStateConsolidation.md) — Sequence joining factional purge, institutional bargain, retroactive legality, office merger, plebiscite, and personal military oath.
 - [Helicobacter pylori Household Management / 幽门螺杆菌家庭管理](concepts/HelicobacterPyloriHouseholdManagement.md) — Household-aware framework for infection risk, testing, treatment discussion, hygiene, and reinfection without automatic family-wide diagnosis.
 - [Pancreatic Imaging Finding Triage / 胰腺影像异常分诊](concepts/PancreaticImagingFindingTriage.md) — Contextual interpretation of diffuse, focal, inflammatory, and cystic pancreatic imaging findings without treating enlargement as a diagnosis.
 - [Totalitarian Spectacle and Ritual](concepts/TotalitarianSpectacleAndRitual.md) — Organization of history, sacred form, crowds, gesture, architecture, and light so domination is experienced as belonging and destiny.
