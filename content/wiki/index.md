@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [425. The History of Chocolate](sources/425-the-history-of-chocolate-glt9203655246.md) — The Rest Is History on cacao's ritual and beverage past, colonial commodity chains, solid-chocolate technology, Quaker enterprise, Bournville, and mass consumption.
 - [How Placebo Effects Work to Change Our Biology & Psychology](sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274.md) — Huberman Lab solo episode on placebo, nocebo, learned physiological conditioning, treatment framing, symptom-function separation, mindset effects, and clinical limits.
 - [VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招](sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18.md) — 这病说来话长 episode on assessment before weight loss, rapid-loss harms, exercise overload, eating-disorder escalation, prescription and procedure boundaries, and sustainable maintenance.
 - [VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！](sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25.md) — 这病说来话长 episode on health-first weight decisions, gradual change, TCM treatment boundaries, and skepticism toward universal or rapid-loss claims.
@@ -2896,6 +2897,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Cadbury](entities/Cadbury.md) — British chocolate company connecting Quaker enterprise, branding, Bournville welfare, and mass consumption.
+- [John Cadbury](entities/JohnCadbury.md) — Quaker founder of Cadbury's 1824 Birmingham shop and 1831 factory.
+- [Bournville](entities/Bournville.md) — Cadbury factory site and model village combining housing and welfare with employer-shaped culture.
 - [Fabrizio Benedetti](entities/FabrizioBenedetti.md) — Placebo researcher whose Parkinson's work links expectation to symptom change and measured dopamine release.
 - [Ted Kaptchuk](entities/TedKaptchuk.md) — Placebo researcher whose asthma study separates perceived breathing relief from measured respiratory function.
 - [Leah Crum](entities/LeahCrum.md) — Mindset researcher connecting informational framing with food-, satiety-, activity-, and health-related outcomes.
@@ -13779,6 +13783,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Chocolate Drink-to-Solid Transition](concepts/ChocolateDrinkToSolidTransition.md) — Technological and cultural shift from cacao beverages to scalable solid eating chocolate.
+- [Colonial Chocolate Commodity Chain](concepts/ColonialChocolateCommodityChain.md) — Imperial chain linking cacao, sugar, plantation production, enslaved labor, shipping, and European consumption.
+- [Quaker Industrial Paternalism](concepts/QuakerIndustrialPaternalism.md) — Bournville's combination of worker welfare, model-community provision, and asymmetric employer authority.
 - [Placebo, Nocebo, and Expectation Effects](concepts/PlaceboNoceboExpectationEffects.md) — Umbrella framework for pathway-limited changes in symptoms, performance, neural activity, and physiology driven by learned context and prediction.
 - [Conditioned Physiological Responses](concepts/ConditionedPhysiologicalResponses.md) — Learning mechanism through which drug, food, or treatment cues acquire specific hormonal or metabolic effects.
 - [Treatment Context and Dose Expectation](concepts/TreatmentContextDoseExpectation.md) — Framework for how branding, form, instructions, and believed dose shape treatment response.

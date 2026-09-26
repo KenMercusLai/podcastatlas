@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3177
+topic_total_pages: 3178
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1402,6 +1402,9 @@ topic_concepts:
   - key: "ChineseOpenWeightAIStrategy"
     title: "Chinese Open-Weight AI Strategy"
     url: "/wiki/concepts/chineseopenweightaistrategy/"
+  - key: "ChocolateDrinkToSolidTransition"
+    title: "Chocolate Drink-to-Solid Transition"
+    url: "/wiki/concepts/chocolatedrinktosolidtransition/"
   - key: "ChokepointLogisticsRerouting"
     title: "Chokepoint Logistics Rerouting"
     url: "/wiki/concepts/chokepointlogisticsrerouting/"

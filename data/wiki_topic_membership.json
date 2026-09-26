@@ -1665,6 +1665,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "425-the-history-of-chocolate-glt9203655246": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "426-historys-greatest-monkeys-glt5532014348": [
     {
       "key": "history",
@@ -17307,6 +17314,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ChocolateDrinkToSolidTransition": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "ChokepointLogisticsRerouting": [
     {
       "key": "technology",
@@ -18662,6 +18676,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ColonialChocolateCommodityChain": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ColonialFrontierGovernanceFragility": [

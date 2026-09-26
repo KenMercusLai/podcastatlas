@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10868
+wiki_total_pages: 10871
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -776,6 +776,9 @@ wiki_pages:
   - key: "Boudicca"
     title: "Boudicca"
     url: "/wiki/entities/boudicca/"
+  - key: "Bournville"
+    title: "Bournville"
+    url: "/wiki/entities/bournville/"
   - key: "BowieKuhn"
     title: "Bowie Kuhn"
     url: "/wiki/entities/bowiekuhn/"

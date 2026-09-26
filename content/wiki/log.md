@@ -22978,3 +22978,11 @@ Added source `how-placebo-effects-work-to-change-our-biology-psychology-scim2208
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 425. The History of Chocolate
+
+Added source `425-the-history-of-chocolate-glt9203655246`; created `Cadbury`, `JohnCadbury`, `Bournville`, `ChocolateDrinkToSolidTransition`, `ColonialChocolateCommodityChain`, and `QuakerIndustrialPaternalism`; and updated `Quakers`, the canonical index, and overview from the complete bounded source set. Core synthesis: chocolate remained primarily a drink for centuries before cocoa pressing, industrial production, branding, milk, distribution, wartime supply, and falling prices made solid chocolate an everyday product. That democratization remained tied to conquest, plantation cacao and sugar, and enslaved labor, while Bournville's material welfare gains coexisted with employer paternalism. No settled contradiction found. Indigenous ritual meanings, chronology, technical priority, medical claims, prices, rankings, consumption figures, dialogue, motives, and causal weight remain source-scoped, and Cadbury sponsorship qualifies the favorable company narrative. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

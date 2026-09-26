@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8244
+wiki_total_pages: 8247
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "ChocolateCompound"
     title: "Chocolate Compound"
     url: "/wiki/concepts/chocolatecompound/"
+  - key: "ChocolateDrinkToSolidTransition"
+    title: "Chocolate Drink-to-Solid Transition"
+    url: "/wiki/concepts/chocolatedrinktosolidtransition/"
   - key: "ChocolateLabelStandards"
     title: "Chocolate Label Standards"
     url: "/wiki/concepts/chocolatelabelstandards/"
@@ -1292,6 +1295,9 @@ wiki_pages:
   - key: "ColonialCategoryAfterlife"
     title: "Colonial Category Afterlife / 殖民分类遗产"
     url: "/wiki/concepts/colonialcategoryafterlife/"
+  - key: "ColonialChocolateCommodityChain"
+    title: "Colonial Chocolate Commodity Chain"
+    url: "/wiki/concepts/colonialchocolatecommoditychain/"
   - key: "ColonialFrontierGovernanceFragility"
     title: "Colonial Frontier Governance Fragility"
     url: "/wiki/concepts/colonialfrontiergovernancefragility/"

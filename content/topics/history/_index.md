@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2033
+topic_total_pages: 2034
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4629,6 +4629,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "425-the-history-of-chocolate-glt9203655246"
+    title: "425. The History of Chocolate"
+    url: "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
   - key: "426-historys-greatest-monkeys-glt5532014348"
     title: "426. History's Greatest Monkeys"
     url: "/wiki/sources/426-historys-greatest-monkeys-glt5532014348/"

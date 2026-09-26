@@ -16602,6 +16602,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/bountymobilizedpacification/"
     },
+    "Bournville": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/bournville/"
+    },
     "BowangSlopeBattleLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -18296,6 +18312,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/cabinetexhaustionmanagement/"
+    },
+    "Cadbury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/cadbury/"
     },
     "CaesarsBritishExpeditions": {
       "episode_count": 1,
@@ -25228,6 +25260,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/chocrevive/"
     },
+    "ChocolateDrinkToSolidTransition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/chocolatedrinktosolidtransition/"
+    },
     "Chongming": {
       "episode_count": 1,
       "show_count": 1,
@@ -27544,6 +27592,22 @@
       ],
       "updated": "2026-09-20",
       "url": "/wiki/concepts/colonialcategoryafterlife/"
+    },
+    "ColonialChocolateCommodityChain": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/colonialchocolatecommoditychain/"
     },
     "ColonialFrontierGovernanceFragility": {
       "episode_count": 1,
@@ -76087,6 +76151,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/johnadams/"
     },
+    "JohnCadbury": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johncadbury/"
+    },
     "JohnCade": {
       "episode_count": 1,
       "show_count": 1,
@@ -115574,6 +115654,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/qizhijianxianbei/"
     },
+    "QuakerIndustrialPaternalism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/quakerindustrialpaternalism/"
+    },
     "QuakerInwardEquality": {
       "episode_count": 1,
       "show_count": 1,
@@ -115591,9 +115687,9 @@
       "url": "/wiki/concepts/quakerinwardequality/"
     },
     "Quakers": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2136062721 [GLT2136062721].md",
@@ -115601,9 +115697,16 @@
           "show": "The Rest Is History",
           "title": "316: The First Abolitionist",
           "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        },
+        {
+          "episode_file": "GLT9203655246 [GLT9203655246].md",
+          "key": "425-the-history-of-chocolate-glt9203655246",
+          "show": "The Rest Is History",
+          "title": "425. The History of Chocolate",
+          "url": "/wiki/sources/425-the-history-of-chocolate-glt9203655246/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/quakers/"
     },
     "QualityValueInvesting": {

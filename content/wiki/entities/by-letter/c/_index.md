@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 10868
+wiki_total_pages: 10871
 wiki_pages:
   - key: "Chicago1968DemocraticConvention"
     title: "1968 Democratic National Convention in Chicago"
@@ -32,6 +32,9 @@ wiki_pages:
   - key: "CabbageLabs"
     title: "Cabbage Labs"
     url: "/wiki/entities/cabbagelabs/"
+  - key: "Cadbury"
+    title: "Cadbury"
+    url: "/wiki/entities/cadbury/"
   - key: "CadenceDesignSystems"
     title: "Cadence Design Systems / 楷登"
     url: "/wiki/entities/cadencedesignsystems/"

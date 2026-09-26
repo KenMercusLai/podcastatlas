@@ -4,7 +4,8 @@ type: entity
 tags: [religion, christianity, protestantism, abolitionism]
 sources:
   - 316-the-first-abolitionist-glt2136062721
-last_updated: 2026-09-05
+  - 425-the-history-of-chocolate-glt9203655246
+last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
 
@@ -12,13 +13,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Quakers appear in [[316-the-first-abolitionist-glt2136062721|The Rest Is History episode 316]] as the religious world that formed [[BenjaminLay]] and later became the institutional target of his anti-slavery witness. The episode presents early Quakerism as a radical Protestant movement defined by inward spiritual illumination, anti-hierarchy, and confrontational public testimony.
+Quakers appear across two [[TheRestIsHistory]] episodes as a radical Protestant community whose inward equality, anti-hierarchy, sobriety, public witness, commerce, and philanthropy could support both abolitionist activism and industrial welfare while remaining entangled with slavery and paternalist power.
 
 ## Current Profile
 
-The source's Quaker profile is double-sided. Early Quakers reject priests, titles, deference, and social hierarchy, creating a strong language of human equality and unusually expansive gender claims for the period. That makes [[QuakerInwardEquality]] an important source for Lay's abolitionism. The same tradition also includes dramatic acts of witness, from refusing hat removal to public confrontation, which helps explain why Lay's stunts were not simply personal eccentricity.
+The current profile begins with early Quakers rejecting priests, titles, deference, and social hierarchy, creating a language of human equality and unusually expansive gender claims for the period. That makes [[QuakerInwardEquality]] an important source for [[BenjaminLay]]'s abolitionism. The same tradition includes dramatic public witness, helping explain why Lay's stunts were not simply personal eccentricity.
 
-The qualification is equally important: Quaker equality did not automatically produce immediate anti-slavery consensus. The episode shows Quaker slave ownership in [[Barbados]] and Philadelphia, Lay's expulsions from Quaker meetings, and only a late 1759 Philadelphia Friends move to discipline members who owned or traded in enslaved people. Quakerism is therefore the source of Lay's moral grammar and one of the communities he had to confront.
+The commercial and industrial branch links exclusion from conventional elite institutions to Quaker concentration in trade and banking, treats temperance as one reason cocoa became attractive as an alternative to alcohol, and connects philanthropy to [[Cadbury]]'s welfare and model-village program at [[Bournville]]. [[QuakerIndustrialPaternalism]] keeps the double character of that program visible: meaningful housing and welfare gains coexisted with employer direction of work, leisure, and company culture.
+
+The qualification remains central. Quaker equality did not automatically produce anti-slavery consensus: [[316-the-first-abolitionist-glt2136062721]] shows Quaker slave ownership and resistance to Lay. British chocolate also rested partly on a [[ColonialChocolateCommodityChain|colonial commodity chain]] involving Caribbean conquest, sugar, cacao, and enslaved African labor. Quakerism supplied moral languages and reform institutions without guaranteeing consistent practice.
 
 ## Key Characteristics
 
@@ -27,6 +30,8 @@ The qualification is equally important: Quaker equality did not automatically pr
 - Equality-centered religious world whose inward-light theology supports Lay's anti-slavery reading of Christianity.
 - Public-witness tradition using provocative actions to dramatize spiritual claims before authorities and ordinary observers.
 - Institutionally inconsistent on slavery in Lay's lifetime, with some Quakers owning enslaved people and others moving toward anti-slavery discipline.
+- Commercial network shaped partly by exclusion from conventional elite institutions and professions.
+- Temperance and philanthropic tradition expressed in cocoa enterprise, worker welfare, and model-village planning, with paternalist limits.
 
 ## Evidence
 
@@ -35,14 +40,18 @@ The qualification is equally important: Quaker equality did not automatically pr
 - Public witness: [[316-the-first-abolitionist-glt2136062721]] records early Quaker refusals of deference, public nudity, confrontational preaching, and James Naylor's punished imitation of Christ's entry into Jerusalem.
 - Slavery inconsistency: [[316-the-first-abolitionist-glt2136062721]] describes a Quaker slave owner in Barbados and slavery present in Philadelphia, despite Quaker ideals.
 - Disciplinary shift: [[316-the-first-abolitionist-glt2136062721]] says Philadelphia Friends voted in 1759 to discipline Quakers who owned or traded in enslaved people.
+- Commerce and temperance: [[425-the-history-of-chocolate-glt9203655246]] links Quaker exclusion from elite institutions to trade and banking and presents cocoa as a sober alternative to alcohol.
+- Industrial welfare: [[425-the-history-of-chocolate-glt9203655246]] connects Cadbury's Bournville housing, hours, holidays, education, recreation, benefits, and pensions to Quaker principles.
+- Commodity contradiction: [[425-the-history-of-chocolate-glt9203655246]] acknowledges that British chocolate depended partly on Caribbean plantation cacao and sugar produced through enslaved labor.
 
 ## Qualifications
 
-This page is source-scoped to the Lay episode and should not be treated as a full history of the Religious Society of Friends. The episode emphasizes early radicalism and slavery conflict; it does not settle all Quaker theology, regional variation, or the complete chronology of Quaker abolitionism.
+This page is source-scoped to two narrative podcast episodes and is not a full history of the Religious Society of Friends. The sources emphasize radical origins, abolitionist conflict, and Cadbury's industrial welfare; they do not settle Quaker theology, regional variation, gender, commerce, colonial investment, labor relations, or the complete abolition chronology. The chocolate episode was sponsored by Cadbury, requiring caution around its favorable company narrative.
 
 ## What Changed
 
-- Created the Quakers page to anchor the religious equality, public-witness, and institutional-discipline background for Benjamin Lay.
+- Added the Quaker commerce, temperance, chocolate, and industrial-welfare branch.
+- Qualified Cadbury's Bournville reforms through paternalism, sponsored framing, and the colonial commodity chain.
 
 ## Relationships
 
@@ -52,3 +61,7 @@ This page is source-scoped to the Lay episode and should not be treated as a ful
 - [[AbolitionistPublicWitness]] - protest tradition shaped partly by Quaker public testimony.
 - [[Barbados]] - setting where a Quaker slave owner's conduct exposes the movement's contradiction.
 - [[SlaveProducedGoodsBoycott]] - ethical-consumption practice tied to Lay's Quaker radicalism.
+- [[Cadbury]] - Quaker-associated manufacturer in the industrial chocolate branch.
+- [[Bournville]] - model village combining welfare provision with employer-shaped community.
+- [[QuakerIndustrialPaternalism]] - concept joining philanthropic provision to asymmetric company authority.
+- [[ColonialChocolateCommodityChain]] - upstream slavery and empire context that qualifies the reform narrative.
