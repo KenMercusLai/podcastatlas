@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8275
+wiki_total_pages: 8277
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "TyrannicideRepublicanDilemma"
     title: "Tyrannicide Republican Dilemma / 弑君式共和困境"
     url: "/wiki/concepts/tyranniciderepublicandilemma/"
+  - key: "ThreeDayWeekUK1974"
+    title: "UK Three-Day Week of 1974"
+    url: "/wiki/concepts/threedayweekuk1974/"
   - key: "TeacherAsFatherEthic"
     title: "一日为师终身为父伦理 / Teacher-as-Father Ethic"
     url: "/wiki/concepts/teacherasfatherethic/"

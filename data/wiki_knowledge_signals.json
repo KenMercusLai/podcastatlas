@@ -9437,6 +9437,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/antarctica/"
     },
+    "AnthonyBarber": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/anthonybarber/"
+    },
     "AnthonyFauci": {
       "episode_count": 3,
       "show_count": 1,
@@ -17486,9 +17502,9 @@
       "url": "/wiki/concepts/britishcoupparanoia1974/"
     },
     "BritishDeindustrialization1970s": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2799978515 [GLT2799978515].md",
@@ -17496,6 +17512,13 @@
           "show": "The Rest Is History",
           "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
           "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        },
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
         }
       ],
       "updated": "2026-09-27",
@@ -41059,9 +41082,9 @@
       "url": "/wiki/entities/edwardgrey/"
     },
     "EdwardHeath": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -41097,6 +41120,13 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
         }
       ],
       "updated": "2026-09-27",
@@ -48392,9 +48422,9 @@
       "url": "/wiki/concepts/feardrivengroupviolence/"
     },
     "February1974UKGeneralElection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9690615062 [GLT9690615062].md",
@@ -48402,6 +48432,13 @@
           "show": "The Rest Is History",
           "title": "418. Britain in 1974: The Crisis Election (Part 2)",
           "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        },
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
         }
       ],
       "updated": "2026-09-27",
@@ -63760,6 +63797,22 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/heartraterecoverycapacity/"
     },
+    "HeathIncomesPolicy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/heathincomespolicy/"
+    },
     "HeatherTuke": {
       "episode_count": 1,
       "show_count": 1,
@@ -76569,6 +76622,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/entities/joebiden/"
     },
+    "JoeGormley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/joegormley/"
+    },
     "JoeLiemandt": {
       "episode_count": 1,
       "show_count": 1,
@@ -82008,6 +82077,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/leifengpagoda/"
+    },
+    "LenMurray": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/lenmurray/"
     },
     "LenaCurtis": {
       "episode_count": 1,
@@ -140681,6 +140766,29 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/threatchallengestressreappraisal/"
+    },
+    "ThreeDayWeekUK1974": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "GLT6761791949 [GLT6761791949].md",
+          "key": "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+          "show": "The Rest Is History",
+          "title": "417. Britain in 1974: State of Emergency (Part 1)",
+          "url": "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
+        },
+        {
+          "episode_file": "GLT9690615062 [GLT9690615062].md",
+          "key": "418-britain-in-1974-the-crisis-election-part-2-glt9690615062",
+          "show": "The Rest Is History",
+          "title": "418. Britain in 1974: The Crisis Election (Part 2)",
+          "url": "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/threedayweekuk1974/"
     },
     "ThreeExcellenciesBlameWithoutAuthority": {
       "episode_count": 2,

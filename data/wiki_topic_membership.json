@@ -1658,6 +1658,23 @@
       "url": "/topics/culture/"
     }
   ],
+  "417-britain-in-1974-state-of-emergency-part-1-glt6761791949": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "418-britain-in-1974-the-crisis-election-part-2-glt9690615062": [
     {
       "key": "history",
@@ -9936,6 +9953,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AnthonyBarber": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Anthropic": [
@@ -34919,6 +34948,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HeathIncomesPolicy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "HeatherSchwartz": [
@@ -73128,6 +73164,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ThreeDayWeekUK1974": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     },
     {
       "key": "politics",

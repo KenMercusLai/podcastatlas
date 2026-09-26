@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [417. Britain in 1974: State of Emergency (Part 1)](sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949.md) — The Rest Is History on Heath's technocratic government, incomes policy, the oil shock, miners' leverage, and the three-day week before the February election.
 - [418. Britain in 1974: The Crisis Election (Part 2)](sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062.md) — The Rest Is History on the M62 bombing, Heath's failed February 1974 election gamble, Labour's radical manifesto, Liberal gains, Powell's Europe intervention, and Wilson's minority return.
 - [419. Britain in 1974: Countdown to a Coup (Part 3)](sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212.md) — The Rest Is History on Wilson's fragile minority government, the Social Contract, Number 10 dysfunction, Sunningdale's collapse, and qualified fears of a right-wing coup.
 - [420. Britain in 1974: Thatcher Enters the Ring (Part 4)](sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515.md) — The Rest Is History on the October 1974 election, Guildford and Birmingham bombings and wrongful convictions, structural industrial decline, Heath's collapse, and Thatcher's decision to challenge.
@@ -6447,6 +6448,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Patrick Rooney](entities/PatrickRooney.md) — Nine-year-old killed by RUC armoured-car fire in Belfast during the August 1969 violence.
 - [Ted Kennedy](entities/TedKennedy.md) — U.S. senator whose "Britain's Vietnam" speech made Northern Ireland's 1971 crisis an international reputational issue.
 - [Edward Heath](entities/EdwardHeath.md) — British prime minister and Conservative leader whose crisis record culminated in two 1974 election defeats and Thatcher's challenge.
+- [Anthony Barber](entities/AnthonyBarber.md) — Heath's chancellor, linking the Barber boom and incomes policy to the emergency turn of late 1973.
+- [Joe Gormley](entities/JoeGormley.md) — Pragmatic miners' leader constrained by member demands during the 1973-1974 confrontation.
+- [Len Murray](entities/LenMurray.md) — TUC leader whose special-case compromise for the miners was rejected by Heath.
 - [Reginald Maudling](entities/ReginaldMaudling.md) — British home secretary tied to Heath's Northern Ireland response, internment blame-shifting, and interrogation-method approval.
 - [Provisional IRA](entities/ProvisionalIRA.md) — Republican paramilitary organization formed after the 1969 split and strengthened by defensive credibility, external support, and internment blowback.
 - [Official IRA](entities/OfficialIRA.md) — Older IRA branch tied to Cathal Goulding's Marxist turn and the arms-cache search that preceded the Falls Curfew.
@@ -13807,6 +13811,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [February 1974 UK General Election](concepts/February1974UKGeneralElection.md) — Heath's failed miners-and-unions mandate gamble, producing a hung parliament and Wilson minority government.
+- [UK Three-Day Week of 1974](concepts/ThreeDayWeekUK1974.md) — Planned electricity restrictions that converted a miners' dispute and energy shock into a test of governing authority.
+- [Heath Government Incomes Policy](concepts/HeathIncomesPolicy.md) — Stage 3 wage limits and threshold payments destabilized by growth policy, inflation, and the oil shock.
 - [UK Social Contract in the 1970s](concepts/SocialContractUK1970s.md) — Labour bargain exchanging social-policy gains for voluntary wage restraint, weakened by decentralized bargaining and unequal inflation protection.
 - [Sunningdale Power-Sharing Collapse](concepts/SunningdalePowerSharingCollapse.md) — May 1974 defeat of Northern Ireland power-sharing under essential-service shutdown, loyalist coercion, and paramilitary violence.
 - [British Coup Paranoia in 1974](concepts/BritishCoupParanoia1974.md) — Qualified synthesis separating real suspicion, rhetoric, and emergency organizing from evidence of an operational anti-Wilson coup.

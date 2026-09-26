@@ -23081,3 +23081,11 @@ Added source `how-to-improve-oral-health-its-critical-role-in-brain-body-health-
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 417. Britain in 1974: State of Emergency (Part 1)
+
+Added source `417-britain-in-1974-state-of-emergency-part-1-glt6761791949`; created `AnthonyBarber`, `JoeGormley`, `LenMurray`, `HeathIncomesPolicy`, and `ThreeDayWeekUK1974`; updated `EdwardHeath`, `February1974UKGeneralElection`, and `BritishDeindustrialization1970s` from their complete bounded source sets. Core synthesis: long-run industrial weakness became an acute governing crisis when growth policy and wage controls met the oil shock, coal leverage, fragmented union authority, and Heath's rigid bargaining style. No settled contradiction found; causal weights, the TUC compromise's enforceability, and the independent economic effects remain source-scoped.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

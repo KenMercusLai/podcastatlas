@@ -926,20 +926,20 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-23",
       "latest_episode_file": "GLT2099451333 [GLT2099451333].md",
-      "source_note_count": 184,
-      "topic_matched_source_note_count": 182,
+      "source_note_count": 185,
+      "topic_matched_source_note_count": 183,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 180
+          "source_note_count": 181
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "culture",
@@ -951,7 +951,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 5
+          "source_note_count": 6
         }
       ],
       "entities": [
@@ -998,16 +998,16 @@
           "episode_count": 7
         },
         {
-          "key": "FrancisWalsingham",
-          "title": "Francis Walsingham",
-          "url": "/wiki/entities/franciswalsingham/",
+          "key": "EdwardHeath",
+          "title": "Edward Heath",
+          "url": "/wiki/entities/edwardheath/",
           "kind": "person",
           "episode_count": 6
         },
         {
-          "key": "HaroldWilson",
-          "title": "Harold Wilson",
-          "url": "/wiki/entities/haroldwilson/",
+          "key": "FrancisWalsingham",
+          "title": "Francis Walsingham",
+          "url": "/wiki/entities/franciswalsingham/",
           "kind": "person",
           "episode_count": 6
         }

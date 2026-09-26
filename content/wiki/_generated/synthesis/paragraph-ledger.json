@@ -740,12 +740,13 @@
       "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0",
       "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
       "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc",
-      "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d"
+      "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d",
+      "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4"
     ],
-    "paragraph_count": 740
+    "paragraph_count": 741
   },
-  "overview_commit": "2ab1827a6967842d8255bdaa7553286ced2e4e8a",
-  "overview_digest": "1fba94192f963e13b84c400ea6dbc1de45221f790395f7f75ee980954f6e8430",
+  "overview_commit": "b6420d711ff8de5fb714a911240fff56d672cdec",
+  "overview_digest": "5183f771b079e57dfcd6338afe9967d7409ca3a3e659c37c3f6e7d69818baf81",
   "paragraphs": [
     {
       "id": "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
@@ -21905,6 +21906,29 @@
         "MarkDEsposito",
         "WorkingMemoryActiveControl",
         "how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835"
+      ]
+    },
+    {
+      "id": "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[417-britain-in-1974-state-of-emergency-part-1-glt6761791949|417. Britain in 1974: State of Emergency (Part 1)]], a [[TheRestIsHistory]] episode supplying the missing causal prehistory to the 1974 sequence. It adds [[AnthonyBarber]], [[JoeGormley]], [[LenMurray]], [[HeathIncomesPolicy]], and [[ThreeDayWeekUK1974]] while extending [[EdwardHeath]], [[February1974UKGeneralElection]], and [[BritishDeindustrialization1970s]]. Its core synthesis is that structural weakness became an acute governing crisis when the Barber boom and wage controls met the oil shock, coal leverage, fragmented union authority, and Heath's rigid bargaining style. No settled contradiction is recorded: the source balances Heath's poor judgment with external bad luck, and a less disruptive than expected three-day week weakened rather than proved his claim that only an election could settle who governed Britain.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "417-britain-in-1974-state-of-emergency-part-1-glt6761791949",
+        "AnthonyBarber",
+        "BritishDeindustrialization1970s",
+        "EdwardHeath",
+        "February1974UKGeneralElection",
+        "HeathIncomesPolicy",
+        "JoeGormley",
+        "LenMurray",
+        "TheRestIsHistory",
+        "ThreeDayWeekUK1974"
       ]
     }
   ],

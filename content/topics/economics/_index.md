@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2106
+topic_total_pages: 2110
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1468,6 +1468,9 @@ topic_concepts:
   - key: "HardwareTalentSpillover"
     title: "Hardware Talent Spillover"
     url: "/wiki/concepts/hardwaretalentspillover/"
+  - key: "HeathIncomesPolicy"
+    title: "Heath Government Incomes Policy"
+    url: "/wiki/concepts/heathincomespolicy/"
   - key: "HeavyAgricultureLightCommercePolicy"
     title: "Heavy Agriculture and Light Commerce Policy / 重农轻商政策"
     url: "/wiki/concepts/heavyagriculturelightcommercepolicy/"
@@ -2980,6 +2983,9 @@ topic_concepts:
   - key: "SocialContractUK1970s"
     title: "UK Social Contract in the 1970s"
     url: "/wiki/concepts/socialcontractuk1970s/"
+  - key: "ThreeDayWeekUK1974"
+    title: "UK Three-Day Week of 1974"
+    url: "/wiki/concepts/threedayweekuk1974/"
   - key: "UncertainEraOptionality"
     title: "Uncertain-Era Optionality / 乱纪元选择权"
     url: "/wiki/concepts/uncertaineraoptionality/"
@@ -3281,6 +3287,9 @@ topic_entities:
   - key: "AnneBoden"
     title: "Anne Boden"
     url: "/wiki/entities/anneboden/"
+  - key: "AnthonyBarber"
+    title: "Anthony Barber"
+    url: "/wiki/entities/anthonybarber/"
   - key: "AntoineHersen"
     title: "Antoine Hersen"
     url: "/wiki/entities/antoinehersen/"
@@ -5616,6 +5625,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "417-britain-in-1974-state-of-emergency-part-1-glt6761791949"
+    title: "417. Britain in 1974: State of Emergency (Part 1)"
+    url: "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
   - key: "419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212"
     title: "419. Britain in 1974: Countdown to a Coup (Part 3)"
     url: "/wiki/sources/419-britain-in-1974-countdown-to-a-coup-part-3-glt2033018212/"

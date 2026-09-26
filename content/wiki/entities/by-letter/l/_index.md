@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10882
+wiki_total_pages: 10885
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "LemuelGulliver"
     title: "Lemuel Gulliver / 格列佛"
     url: "/wiki/entities/lemuelgulliver/"
+  - key: "LenMurray"
+    title: "Len Murray"
+    url: "/wiki/entities/lenmurray/"
   - key: "LenaCurtis"
     title: "Lena Curtis"
     url: "/wiki/entities/lenacurtis/"

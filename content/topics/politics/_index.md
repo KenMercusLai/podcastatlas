@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2725
+topic_total_pages: 2728
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3733,6 +3733,9 @@ topic_concepts:
   - key: "USIranNuclearDiplomacy"
     title: "U.S.-Iran Nuclear Diplomacy"
     url: "/wiki/concepts/usirannucleardiplomacy/"
+  - key: "ThreeDayWeekUK1974"
+    title: "UK Three-Day Week of 1974"
+    url: "/wiki/concepts/threedayweekuk1974/"
   - key: "UnapprovedMedicalAestheticProducts"
     title: "Unapproved Medical-Aesthetic Products / 未获批医美产品风险"
     url: "/wiki/concepts/unapprovedmedicalaestheticproducts/"
@@ -4685,6 +4688,9 @@ topic_entities:
   - key: "AntarcticTreaty"
     title: "Antarctic Treaty"
     url: "/wiki/entities/antarctictreaty/"
+  - key: "AnthonyBarber"
+    title: "Anthony Barber"
+    url: "/wiki/entities/anthonybarber/"
   - key: "AntonLaGuardia"
     title: "Anton LaGuardia"
     url: "/wiki/entities/antonlaguardia/"
@@ -7239,6 +7245,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "417-britain-in-1974-state-of-emergency-part-1-glt6761791949"
+    title: "417. Britain in 1974: State of Emergency (Part 1)"
+    url: "/wiki/sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949/"
   - key: "418-britain-in-1974-the-crisis-election-part-2-glt9690615062"
     title: "418. Britain in 1974: The Crisis Election (Part 2)"
     url: "/wiki/sources/418-britain-in-1974-the-crisis-election-part-2-glt9690615062/"
