@@ -4,15 +4,15 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-26
-as_of_overview_commit: 94cd64d0a1f4bdceba1a12811d41e9938f1fb625
-input_digest: 8a9710bbe741082fe134f6d9bc5f75ea5496946d2da0962fc714cc82bee1d5f3
+as_of_overview_commit: bf79f7f07a8ba3f78b8ed6bb740fa04b017d4cfe
+input_digest: ba7740646ae044a0d04a42795ac3eae27c6d1a2ed8917a3a68006619da05e5c6
 ---
 
 # Science, Health, and Climate
 
 ## Current State
 
-Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state. The Ruiz episode reinforces that elite performance does not establish psychological safety and that multi-part recovery testimony must remain clinically bounded rather than converted into a universal protocol.
+Expectation effects add a mechanistic health boundary: learned context and framing can change symptoms, neural activity, hormones, and autonomic outputs, while objective function and disease modification still require outcome-specific evidence. Science, health, and climate sources consistently separate public literacy from individualized care: mechanisms, measurements, urgent escalation, qualified treatment, environmental context, and uncertainty matter more than labels or cure claims. The topic spans sleep and mental health, chronic and acute care, metabolism and nutrition, exercise and sensory health, disability and animal welfare, climate adaptation, and science governance; interventions remain population-, comparator-, dose-, timing-, endpoint-, goal-, and supervision-dependent. The latest medical-humanities addition sharpens end-of-life boundaries: comfort-focused care belongs to irreversible terminal decline, ICU can buy time for potentially reversible illness, and advance conversation can clarify wishes without perfectly predicting a later clinical state. The Ruiz episode reinforces that elite performance does not establish psychological safety and that multi-part recovery testimony must remain clinically bounded rather than converted into a universal protocol.
 
 ## Cross-source Findings
 
@@ -823,3 +823,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The episode is structured public education, not individualized psychiatric, addiction, PTSD, medication, or suicide care, and the supplied summary omits full study methods and absolute risks.
 - Mixed prazosin replication and temporary, inconsistent sleep-deprivation antidepressant effects prevent the mechanisms from becoming treatment protocols.
 - Sleep disruption and nightmares are nondeterministic risk signals; suicidal thoughts, plans, or immediate danger require direct human assessment and urgent professional or emergency support.
+
+### Expectation Effects Are Biological But Pathway Limited
+
+[[PlaceboNoceboExpectationEffects]], [[ConditionedPhysiologicalResponses]], and [[TreatmentContextDoseExpectation]] show that learned context and believed dose can alter symptoms, dopamine, hormones, performance, and autonomic outputs, while [[SymptomFunctionDissociation]] preserves the clinical boundary that comfort does not by itself establish restored function or disease modification.
+
+**Evidence:** [[how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274]], [[PlaceboNoceboExpectationEffects]], [[ConditionedPhysiologicalResponses]], [[TreatmentContextDoseExpectation]], [[SymptomFunctionDissociation]]
+
+**Qualifications:**
+
+- The source is a solo explanatory episode rather than a systematic review, and effect sizes, replication, COMT associations, color and delivery rankings, and clinical implementation remain source-scoped.
+- Asthma discomfort can improve without measured breathing improvement, and cancer-treatment comfort does not establish tumor reduction.
+- Expectation can interact with active treatment but does not show that inert treatment can replace indicated medication or disease-directed care.

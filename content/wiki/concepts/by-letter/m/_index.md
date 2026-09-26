@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8239
+wiki_total_pages: 8244
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "MindfulEatingCueControl"
     title: "Mindful Eating Cue Control"
     url: "/wiki/concepts/mindfuleatingcuecontrol/"
+  - key: "MindsetPhysiologyEffects"
+    title: "Mindset Effects on Physiology"
+    url: "/wiki/concepts/mindsetphysiologyeffects/"
   - key: "MingQingHangzhouPublishingCulture"
     title: "Ming-Qing Hangzhou Publishing Culture / 明清杭州出版文化"
     url: "/wiki/concepts/mingqinghangzhoupublishingculture/"

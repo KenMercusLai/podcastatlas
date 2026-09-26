@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10865
+wiki_total_pages: 10868
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "Fabletics"
     title: "Fabletics"
     url: "/wiki/entities/fabletics/"
+  - key: "FabrizioBenedetti"
+    title: "Fabrizio Benedetti"
+    url: "/wiki/entities/fabriziobenedetti/"
   - key: "FaceSiliconValley101"
     title: "Face (硅谷101)"
     url: "/wiki/entities/facesiliconvalley101/"

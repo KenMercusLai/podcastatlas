@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8239
+wiki_total_pages: 8244
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2180,6 +2180,9 @@ wiki_pages:
   - key: "SymptomsAsPsychologicalTasks"
     title: "Symptoms as Psychological Tasks"
     url: "/wiki/concepts/symptomsaspsychologicaltasks/"
+  - key: "SymptomFunctionDissociation"
+    title: "Symptom–Function Dissociation"
+    url: "/wiki/concepts/symptomfunctiondissociation/"
   - key: "SyncReliabilityAsUX"
     title: "Sync Reliability As UX"
     url: "/wiki/concepts/syncreliabilityasux/"

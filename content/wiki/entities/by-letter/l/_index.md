@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10865
+wiki_total_pages: 10868
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "LeVanElgindi"
     title: "Le Van Elgindi"
     url: "/wiki/entities/levanelgindi/"
+  - key: "LeahCrum"
+    title: "Leah Crum"
+    url: "/wiki/entities/leahcrum/"
   - key: "LeanTheoremProver"
     title: "Lean Theorem Prover"
     url: "/wiki/entities/leantheoremprover/"

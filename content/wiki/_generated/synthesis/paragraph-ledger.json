@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
       "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
       "c9e85069b607738833cb29cfa7c02f660b64c4148758cd4f5c0737cfd2039667",
       "9d70b357accb101729e9fabc46fe06cd46d00309f6bd23ca37e7235bcf0f9034",
@@ -736,11 +737,39 @@
       "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0",
       "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74"
     ],
-    "paragraph_count": 734
+    "paragraph_count": 735
   },
-  "overview_commit": "0bb855e4f87908f2890b782a4f9bf13d8f70f22b",
-  "overview_digest": "fee0a7a874b099c0b5dcbaeb1fe1b62a7514ad9b61652b55963ffcb4c2dda729",
+  "overview_commit": "bf79f7f07a8ba3f78b8ed6bb740fa04b017d4cfe",
+  "overview_digest": "5aa43437fa62b61739e67b45ef683c0705cc6e11a16aaad5490f83481c9fa11c",
   "paragraphs": [
+    {
+      "id": "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274|How Placebo Effects Work to Change Our Biology & Psychology]], a [[HubermanLab]] solo episode with [[AndrewHuberman]] on expectation-driven changes in symptoms, performance, neural activity, hormones, and autonomic physiology. It adds [[FabrizioBenedetti]], [[TedKaptchuk]], [[LeahCrum]], [[PlaceboNoceboExpectationEffects]], [[ConditionedPhysiologicalResponses]], [[TreatmentContextDoseExpectation]], [[SymptomFunctionDissociation]], and [[MindsetPhysiologyEffects]], while qualifying [[SupplementPlaceboEffect]]. Its core synthesis is that placebo, nocebo, conditioning, and mindset can recruit real biological pathways through learned context and prediction, but their reach is outcome-specific: Parkinson's dopamine, conditioned hormone patterns, nicotine-dose beliefs, ghrelin, and symptom burden can change without making inert treatment equivalent to active drugs or proving disease modification. No settled contradiction is recorded. Asthma discomfort without improved breathing and cancer-treatment comfort without tumor reduction make the central limit explicit, while effect sizes, replication, COMT associations, color and delivery rankings, individual response, and clinical implementation remain source-scoped.",
+      "topic_scores": {
+        "psychology-and-personal-development": 1,
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "ConditionedPhysiologicalResponses",
+        "FabrizioBenedetti",
+        "HubermanLab",
+        "LeahCrum",
+        "MindsetPhysiologyEffects",
+        "PlaceboNoceboExpectationEffects",
+        "SupplementPlaceboEffect",
+        "SymptomFunctionDissociation",
+        "TedKaptchuk",
+        "TreatmentContextDoseExpectation",
+        "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274"
+      ]
+    },
     {
       "id": "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
       "primary_topic": "work-education-and-society",

@@ -22970,3 +22970,11 @@ Added source `vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhex
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | How Placebo Effects Work to Change Our Biology & Psychology
+
+Added source `how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274`; created `FabrizioBenedetti`, `TedKaptchuk`, `LeahCrum`, `PlaceboNoceboExpectationEffects`, `ConditionedPhysiologicalResponses`, `TreatmentContextDoseExpectation`, `SymptomFunctionDissociation`, and `MindsetPhysiologyEffects`; and updated the canonical index and overview. Core synthesis: expectation, learned context, and informational framing can change symptoms, performance, dopamine, hormones, and autonomic outputs through available biological pathways, but symptom relief does not by itself prove functional correction or disease modification. No settled contradiction found. The asthma and cancer examples preserve the central boundary, while effect sizes, replication, COMT associations, treatment-form rankings, color effects, individual response, and clinical use remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

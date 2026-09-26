@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8239
+wiki_total_pages: 8244
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -650,6 +650,9 @@ wiki_pages:
   - key: "PlaceBasedFiction"
     title: "Place-Based Fiction"
     url: "/wiki/concepts/placebasedfiction/"
+  - key: "PlaceboNoceboExpectationEffects"
+    title: "Placebo, Nocebo, and Expectation Effects"
+    url: "/wiki/concepts/placebonoceboexpectationeffects/"
   - key: "PlainsSocietyHistoricalDynamism"
     title: "Plains Society Historical Dynamism"
     url: "/wiki/concepts/plainssocietyhistoricaldynamism/"

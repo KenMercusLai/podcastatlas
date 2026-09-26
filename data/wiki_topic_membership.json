@@ -27495,6 +27495,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "FabrizioBenedetti": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "FacePreservingAlliancePersuasion": [
     {
       "key": "politics",
@@ -43389,6 +43396,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LeahCrum": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "LeanStartupFeedbackLoop": [
     {
       "key": "economics",
@@ -56040,6 +56054,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "PlaceboNoceboExpectationEffects": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "PlagueNights": [
@@ -70217,6 +70238,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SymptomFunctionDissociation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SyncReliabilityAsUX": [
     {
       "key": "technology",
@@ -71551,6 +71579,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TedKaptchuk": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TedKennedy": [
@@ -86487,6 +86522,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-relationships-shape-your-brain-dr-allan-schore-scim1947263719": [

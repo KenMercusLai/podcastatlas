@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How Placebo Effects Work to Change Our Biology & Psychology](sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274.md) — Huberman Lab solo episode on placebo, nocebo, learned physiological conditioning, treatment framing, symptom-function separation, mindset effects, and clinical limits.
 - [VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招](sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18.md) — 这病说来话长 episode on assessment before weight loss, rapid-loss harms, exercise overload, eating-disorder escalation, prescription and procedure boundaries, and sustainable maintenance.
 - [VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！](sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25.md) — 这病说来话长 episode on health-first weight decisions, gradual change, TCM treatment boundaries, and skepticism toward universal or rapid-loss claims.
 - [426. History's Greatest Monkeys](sources/426-historys-greatest-monkeys-glt5532014348.md) — The Rest Is History on primates as pets, fighters, performers, workers, mascots, political symbols, artistic provocations, and scientific mirrors under persistent source uncertainty.
@@ -2895,6 +2896,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Fabrizio Benedetti](entities/FabrizioBenedetti.md) — Placebo researcher whose Parkinson's work links expectation to symptom change and measured dopamine release.
+- [Ted Kaptchuk](entities/TedKaptchuk.md) — Placebo researcher whose asthma study separates perceived breathing relief from measured respiratory function.
+- [Leah Crum](entities/LeahCrum.md) — Mindset researcher connecting informational framing with food-, satiety-, activity-, and health-related outcomes.
 - [Jenny the Orangutan](entities/JennyOrangutan.md) — London Zoo orangutan whose behavior became a notable human-animal continuity case for Charles Darwin.
 - [Jaco Macaco](entities/JacoMacaco.md) — Regency London fighting primate whose disputed biography entered parliamentary animal-welfare debate.
 - [Bubbles the Chimpanzee](entities/BubblesChimpanzee.md) — Celebrity chimpanzee whose path from infant pet to sanctuary exposes the limits of humanized private ownership.
@@ -13775,6 +13779,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Placebo, Nocebo, and Expectation Effects](concepts/PlaceboNoceboExpectationEffects.md) — Umbrella framework for pathway-limited changes in symptoms, performance, neural activity, and physiology driven by learned context and prediction.
+- [Conditioned Physiological Responses](concepts/ConditionedPhysiologicalResponses.md) — Learning mechanism through which drug, food, or treatment cues acquire specific hormonal or metabolic effects.
+- [Treatment Context and Dose Expectation](concepts/TreatmentContextDoseExpectation.md) — Framework for how branding, form, instructions, and believed dose shape treatment response.
+- [Symptom–Function Dissociation](concepts/SymptomFunctionDissociation.md) — Evidence boundary separating meaningful symptom relief from objective functional or disease modification.
+- [Mindset Effects on Physiology](concepts/MindsetPhysiologyEffects.md) — Bounded account of how food and activity framing can interact with hormonal and health-related outcomes.
 - [Rapid Weight-Loss Safety Boundary / 快速减重安全边界](concepts/RapidWeightLossSafetyBoundary.md) — Cross-method safety frame for assessment, pacing, body composition, severe restriction, exercise overload, medication and procedure eligibility, escalation, and maintenance.
 - [TCM Weight-Management Boundary / 中医减重边界](concepts/TCMWeightManagementBoundary.md) — Separates health-first, gradual, individualized weight management from unvalidated TCM diagnostic and treatment claims.
 - [Human–Primate Mirror](concepts/HumanPrimateMirror.md) — Framework for monkeys and apes as near-human figures in science, art, politics, celebrity, status, and moral projection.

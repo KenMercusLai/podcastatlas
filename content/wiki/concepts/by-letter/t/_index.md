@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8239
+wiki_total_pages: 8244
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -758,6 +758,9 @@ wiki_pages:
   - key: "TreasuryDurationRisk"
     title: "Treasury Duration Risk"
     url: "/wiki/concepts/treasurydurationrisk/"
+  - key: "TreatmentContextDoseExpectation"
+    title: "Treatment Context and Dose Expectation"
+    url: "/wiki/concepts/treatmentcontextdoseexpectation/"
   - key: "TreeProtectionOrdinances"
     title: "Tree Protection Ordinances"
     url: "/wiki/concepts/treeprotectionordinances/"

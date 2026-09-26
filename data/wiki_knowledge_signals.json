@@ -28522,6 +28522,22 @@
       "updated": "2026-09-15",
       "url": "/wiki/concepts/condimentoutboundacquisition/"
     },
+    "ConditionedPhysiologicalResponses": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/conditionedphysiologicalresponses/"
+    },
     "ConfessionalInvasionConspiracy": {
       "episode_count": 3,
       "show_count": 1,
@@ -46801,6 +46817,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/fabletics/"
+    },
+    "FabrizioBenedetti": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/fabriziobenedetti/"
     },
     "FacePreservingAlliancePersuasion": {
       "episode_count": 1,
@@ -80845,6 +80877,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/leadershipemotionalcounterweight/"
     },
+    "LeahCrum": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/leahcrum/"
+    },
     "LeanConsumerBrandOperations": {
       "episode_count": 1,
       "show_count": 1,
@@ -96998,6 +97046,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/mindfuleatingcuecontrol/"
     },
+    "MindsetPhysiologyEffects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/mindsetphysiologyeffects/"
+    },
     "MingDynasty": {
       "episode_count": 3,
       "show_count": 1,
@@ -109327,6 +109391,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/placebasedexhibitioncuration/"
+    },
+    "PlaceboNoceboExpectationEffects": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/placebonoceboexpectationeffects/"
     },
     "PlainsSocietyHistoricalDynamism": {
       "episode_count": 1,
@@ -135999,6 +136079,22 @@
       "updated": "2026-09-24",
       "url": "/wiki/concepts/symptomdrivenspinecare/"
     },
+    "SymptomFunctionDissociation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/symptomfunctiondissociation/"
+    },
     "SymptomsAsPsychologicalTasks": {
       "episode_count": 1,
       "show_count": 1,
@@ -137692,6 +137788,22 @@
       ],
       "updated": "2026-09-21",
       "url": "/wiki/concepts/technologyreusescenarioadaptation/"
+    },
+    "TedKaptchuk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/tedkaptchuk/"
     },
     "TedSarandos": {
       "episode_count": 1,
@@ -141625,6 +141737,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/treasurybuybackpolicy/"
+    },
+    "TreatmentContextDoseExpectation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2208611274 [SCIM2208611274].md",
+          "key": "how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274",
+          "show": "Huberman Lab",
+          "title": "How Placebo Effects Work to Change Our Biology & Psychology",
+          "url": "/wiki/sources/how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/treatmentcontextdoseexpectation/"
     },
     "TreatyOfParis1783": {
       "episode_count": 1,

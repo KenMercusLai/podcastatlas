@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-26
-as_of_overview_commit: 94cd64d0a1f4bdceba1a12811d41e9938f1fb625
-input_digest: 2a6beb1d635e41a105bcbe70aa2fcce9dc6ae8aedd91d306e72fd0ef055669dc
+as_of_overview_commit: bf79f7f07a8ba3f78b8ed6bb740fa04b017d4cfe
+input_digest: c2b5dea5d5c35d817f35e200e46d75705caee1c2eaf1769f6b63581be9e1dea1
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized. The Ruiz episode adds that elite competence and team belonging can conceal accumulating grief and post-service distress; gradual recovery can combine trusted support, professional care, ordinary routines, and a broader model of strength without becoming a universal treatment path.
+Placebo, nocebo, and mindset evidence adds that beliefs can become biologically consequential through prediction and learned context, but their effects remain pathway- and outcome-specific. Psychology and personal-development sources converge on embodied regulation, relational safety, calibrated action, self-narration, and careful limits on self-interpretation. The Byron origin episode adds a bounded historical case in which adversity and bodily self-discipline can inform deliberate self-fashioning without establishing diagnosis, deterministic causation, or moral excuse. The clinical-relationship source adds that trust depends on honest outcome limits, visible responsibility, durable communication, encouragement, referral, and continuity rather than title or reassurance alone; selected patient recollections do not establish treatment causation or typical prognosis. VOL.123 adds a bounded body-management case: posture awareness, temporary comfort, and gradual movement can support agency, but they should not become cure claims, rigid self-monitoring, or substitutes for neurological and functional assessment. Mental-health, diagnostic, crisis, diet, sensory, and altered-state claims remain bounded to evidence and professional judgment. Historical decision episodes contribute source-scoped cases about immediate versus long-run rationality, high-risk choice, counterfactual restraint, status, self-presentation, persuasion, loyalty, and survival, but do not become general psychological laws. The Custer episode adds a source-scoped historical case in which spectacle, ambition, impulsivity, intimate distress, public reputation, and patronage interact with repeated risk and recovery; it supports analysis of self-presentation and institutional reinforcement, not a retrospective clinical diagnosis. VOL.108 adds a developmental ADHD boundary: age-relative, cross-setting impairment matters more than activity, grades, or isolated high performance; family context can modify function without sole-cause blame, and intervention remains individualized. The Ruiz episode adds that elite competence and team belonging can conceal accumulating grief and post-service distress; gradual recovery can combine trusted support, professional care, ordinary routines, and a broader model of strength without becoming a universal treatment path.
 
 ## Cross-source Findings
 
@@ -1143,3 +1143,15 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 - The episode is narrative biography, not a clinical assessment of Byron or a general trauma model.
 - Childhood abuse, sexuality, eating-disorder interpretation, private motives, reported dialogue, and causal psychological effects remain episode-attributed or source-scoped.
 - Explaining how adversity informed a persona does not excuse adult harm or reduce a literary type to diagnosis.
+
+### Belief Effects Require Pathway And Outcome Boundaries
+
+[[PlaceboNoceboExpectationEffects]] and [[MindsetPhysiologyEffects]] add a bounded belief mechanism: expectations and interpretive frames can shape symptom experience, performance, ghrelin, dopamine, and stress-related physiology, but [[SymptomFunctionDissociation]] prevents subjective improvement from being treated as proof that underlying function or disease has changed.
+
+**Evidence:** [[how-placebo-effects-work-to-change-our-biology-psychology-scim2208611274]], [[PlaceboNoceboExpectationEffects]], [[MindsetPhysiologyEffects]], [[SymptomFunctionDissociation]]
+
+**Qualifications:**
+
+- The episode does not provide complete study methods, effect sizes, replication evidence, or a validated way to identify individual responders.
+- Mindset and expectation are not substitutes for nutrition, exercise, medication, or disease-directed care.
+- Nocebo effects mean that belief and framing can worsen as well as improve experience or performance.

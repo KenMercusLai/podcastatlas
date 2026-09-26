@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8239
+wiki_total_pages: 8244
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1559,6 +1559,9 @@ wiki_pages:
   - key: "CondimentOutboundAcquisition"
     title: "Condiment Outbound Acquisition / 调味品出海收购"
     url: "/wiki/concepts/condimentoutboundacquisition/"
+  - key: "ConditionedPhysiologicalResponses"
+    title: "Conditioned Physiological Responses"
+    url: "/wiki/concepts/conditionedphysiologicalresponses/"
   - key: "ConfessionalInvasionConspiracy"
     title: "Confessional Invasion Conspiracy"
     url: "/wiki/concepts/confessionalinvasionconspiracy/"
