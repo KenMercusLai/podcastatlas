@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "cd0ef74273e32997c31235124b5ea406f79eecf55a62526d67ee998e299f39b0",
       "60aba550d2bc9d7e4ce53212d97d1f6c5fcda17cc528b34092969c30ccfcecca",
       "9250852b0d77c1ef1c94bac6a27bd3a52ebbb3792de778d4f24996aabf7cc0ed",
       "af5daa52f5fa680cca58e51d040c8d17467e18b04bce7e32016ff221bf304eb1",
@@ -724,11 +725,34 @@
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
       "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc"
     ],
-    "paragraph_count": 722
+    "paragraph_count": 723
   },
-  "overview_commit": "b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd",
-  "overview_digest": "5756f3ed2a3b226ea53b8ddfe43038c02f4f1ccc7a1804b6e876aa8b7d009392",
+  "overview_commit": "6bd0f0939462c6879c1bf4bc50803d5ced13942b",
+  "overview_digest": "5194b26a06edb4abd8eea89cfc06ba7e5b4006e5df6bd4744f06c652e10efcee",
   "paragraphs": [
+    {
+      "id": "cd0ef74273e32997c31235124b5ea406f79eecf55a62526d67ee998e299f39b0",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "governance-and-institutions",
+        "work-education-and-society"
+      ],
+      "text": "The latest political-economy addition is [[middlegarchs-are-the-new-oligarchs-32587514|Middlegarchs are the new Oligarchs]], a [[PlanetMoney]] episode using linked tax-record research by [[EricZwick]], [[OwenZidar]], and [[DannyYagan]] to explain the scale and reach of wealthy U.S. private-business owners. It adds [[PassThroughBusinessTaxAdvantage]] and [[DispersedBusinessElitePower]], distinguishing the tax rules that help owners retain income from the product demand, management, work, and owner-specific contribution that create business value. Its core synthesis is that a large, geographically dispersed business elite can be both economically productive and politically advantaged: wealth and local employment can become leverage for favorable tax treatment, direct representation, or rules that protect incumbents from competition. No settled contradiction is recorded; wealth totals, industry rankings, owner-origin shares, owner-exit profit effects, tax comparisons, representation rates, fiscal costs, conflicts of interest, and consumer-price effects remain episode-attributed or source-scoped.",
+      "topic_scores": {
+        "business-and-markets": 3,
+        "governance-and-institutions": 2,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "DannyYagan",
+        "DispersedBusinessElitePower",
+        "EricZwick",
+        "OwenZidar",
+        "PassThroughBusinessTaxAdvantage",
+        "PlanetMoney",
+        "middlegarchs-are-the-new-oligarchs-32587514"
+      ]
+    },
     {
       "id": "60aba550d2bc9d7e4ce53212d97d1f6c5fcda17cc528b34092969c30ccfcecca",
       "primary_topic": "work-education-and-society",

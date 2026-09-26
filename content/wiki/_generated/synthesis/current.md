@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: b4ac5ff0fbbcca2441830b723a9f490e9a33e3cd
-summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2840
-source_count: 2840
-paragraph_count: 722
+as_of_overview_commit: 6bd0f0939462c6879c1bf4bc50803d5ced13942b
+summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, and care interact as evidence-bound lived systems."
+episode_count: 2841
+source_count: 2841
+paragraph_count: 723
 topic_count: 9
 ---
 
@@ -17,9 +17,9 @@ topic_count: 9
 ## Executive Summary
 
 - [[ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252|Ep 59]] adds an agent-native coding branch: [[AgentCommandCenter]], [[Codex]], [[Cursor]], and [[AntiGravity]] frame 2026 coding tools around sessions, instructions, diffs, feedback, and acceptance; [[AICoworkers]], [[ProactiveAgents]], [[JuiceCodingAgent]], [[TeamAgentMemory]], [[EnterpriseAgentMemory]], [[IMAgentInterfaces]], [[SubagentWorkflow]], and [[CodingDemocratization]] show the same shift spreading into proactive maintenance, team context, multi-agent orchestration, and non-engineer software-building, while [[AgentHarness]] and [[AICodingVerification]] remain the constraints that make delegated work inspectable.
-- [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable.
+- [[middlegarchs-are-the-new-oligarchs-32587514|The middlegarchs episode]] adds that wealthy private-business owners can combine genuine entrepreneurship and owner-specific value with [[PassThroughBusinessTaxAdvantage]] and [[DispersedBusinessElitePower]], so market analysis should separate value creation, retained after-tax income, and incumbent protection.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
-- [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion.
+- [[middlegarchs-are-the-new-oligarchs-32587514|The middlegarchs episode]] adds that geographically dispersed private-business wealth can become [[DispersedBusinessElitePower]] through local employment, direct legislative representation, tax preferences, and rules that protect incumbents, while [[PassThroughBusinessTaxAdvantage]] supplies one institutional reinforcement channel.
 - Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
 - [[ClinicalTrustBuilding]] and [[ClinicalOutcomeUncertainty]] add that clinical trust becomes usable when competence and responsibility are paired with honest limits, durable [[DoctorPatientCommunication]], specific encouragement, referral, and continuity; technical success alone does not establish survival, function, recovery, or discharge.
 - [[IntensiveCareAsTimeBuying]], [[HospiceCare]], [[DeathNormalizationPractice]], and [[DoctorPatientCommunication]] jointly distinguish acute support from terminal comfort: ICU can stabilize failing organs while potentially reversible illness is treated, but admission depends on expected benefit and capacity; when decline is irreversible, reducing invasive burden can become a positive care goal, while advance conversation and post-sedation explanation help patients and families understand choices they could not fully anticipate, witness, or remember.
@@ -36,7 +36,7 @@ AI value depends on governed workflows, verification, infrastructure, permission
 
 ### Business and Markets
 
-Durable markets require real demand, delivery capacity, contract fit, affordability, verifiable service, and explicit evidence boundaries.
+Durable markets require real demand and delivery capacity while separating productive value creation from tax advantage and incumbent protection.
 
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that public institutions can shape markets through demand and network rules: [[PublicProcurementAsMarketCatalyst]] can give smaller or excluded suppliers revenue-bearing contracts, while [[LastMileNetworkConsolidation]] can separate upstream competition from duplicated physical routes when shared data, capacity, and accountability make consolidation workable. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[PublicProcurementAsMarketCatalyst]], [[LastMileNetworkConsolidation]], [[PolicyLeverageForSystemChange]].
 - [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597|The Gerstner market-check episode]] adds an offtake-reconciliation branch: AI infrastructure spending by [[Microsoft]], [[Google]], and [[Amazon]] is treated as rented capacity that has to be paid for by lab and application revenue, so the market question reduces to whether monthly revenue at [[Anthropic]] and [[OpenAI]] grows into the amount needed to service a capex path near $1.5T a year, which makes [[AIOfftakeRevenueGap]] a checkable test alongside [[AICapexReturnWindow]]. Evidence: [[all-in-with-chamath-jason-sacks-friedberg-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem-42936597]], [[Microsoft]], [[Google]], [[Amazon]], [[Anthropic]], [[OpenAI]], [[AIOfftakeRevenueGap]], [[AICapexReturnWindow]].
@@ -54,7 +54,7 @@ Media form, materiality, provenance, audience practice, and situated interpretat
 
 ### Governance and Institutions
 
-Institutions turn power into order through capacity, evidence, legitimacy, accountability, and safeguards against coercion and category error.
+Institutions turn power into order through capacity, evidence, legitimacy, accountability, and safeguards against coercion, capture, and category error.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].

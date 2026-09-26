@@ -21292,6 +21292,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DannyYagan": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "DanyangBattle": [
     {
       "key": "history",
@@ -23299,6 +23306,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "DispersedBusinessElitePower": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DispersedInformationProblem": [
@@ -26409,6 +26423,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "EricZwick": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "ErichFromm": [
@@ -53843,6 +53864,13 @@
       "url": "/topics/science/"
     }
   ],
+  "OwenZidar": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "OzgurOzel": [
     {
       "key": "politics",
@@ -54414,6 +54442,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "PassThroughBusinessTaxAdvantage": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "PassengerLinerAtrocityPropaganda": [
@@ -86679,6 +86714,18 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "middlegarchs-are-the-new-oligarchs-32587514": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3": [

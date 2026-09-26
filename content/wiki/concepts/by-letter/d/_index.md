@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8177
+wiki_total_pages: 8179
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "DisorderCollapseExploitation"
     title: "Disorder-Collapse Exploitation / 取乱侮亡"
     url: "/wiki/concepts/disordercollapseexploitation/"
+  - key: "DispersedBusinessElitePower"
+    title: "Dispersed Business-Elite Power"
+    url: "/wiki/concepts/dispersedbusinesselitepower/"
   - key: "DispersedInformationProblem"
     title: "Dispersed Information Problem"
     url: "/wiki/concepts/dispersedinformationproblem/"

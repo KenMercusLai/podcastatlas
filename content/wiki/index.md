@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Middlegarchs are the new Oligarchs](sources/middlegarchs-are-the-new-oligarchs-32587514.md) — Planet Money on wealthy pass-through-business owners, top-income growth, entrepreneurship, tax advantages, legislative representation, and locally protected markets.
 - [VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题](sources/lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw.md) — 这病说来话长 episode on age-relative ADHD assessment, functional impairment, family context, intelligence stereotypes, and individualized intervention.
 - [2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！](sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1.md) — 日谈物语 excerpt on a holiday release pause, public-interest reasoning for a free future episode, and a small elevation-based Japan foliage trip; it never reaches the juvenile-murder case named in the title.
 - [440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)](sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746.md) — The Rest Is History on Byron's family inheritance, childhood adversity, Cambridge formation, early self-fashioning, and the Byronic hero.
@@ -2863,6 +2864,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [Eric Zwick](entities/EricZwick.md) — Economist whose linked tax-record research frames the episode's dispersed class of wealthy private-business owners.
+- [Owen Zidar](entities/OwenZidar.md) — Economist and coauthor of the private-business, taxation, and top-income research featured by Planet Money.
+- [Danny Yagan](entities/DannyYagan.md) — Economist and coauthor of the linked tax-data research on pass-through businesses and income concentration.
 - [张达明 / Zhang Daming (Mental-Health Guest)](entities/ZhangDaming.md) — 这病说来话长 mental-health guest explaining pediatric ADHD, dreams, functional thresholds, and qualified-care boundaries.
 - [Jev](entities/Jev.md) — Source-described low-latency model or service for choices, scores, classifications, and structured output.
 - [Lady Caroline Lamb](entities/LadyCarolineLamb.md) — Aristocratic writer whose affair with Byron escalated into pursuit, self-harm, allegation, and public scandal.
@@ -13681,6 +13685,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Pass-Through Business Tax Advantage](concepts/PassThroughBusinessTaxAdvantage.md) — Relative tax benefit of routing profits to owners, bounded from the separate question of how firms create value.
+- [Dispersed Business-Elite Power](concepts/DispersedBusinessElitePower.md) — Political influence built from private wealth, local employment, community ties, officeholding, and incumbent-protecting rules.
 - [Byronic Hero](concepts/ByronicHero.md) — Attractive, brooding, rebellious, and morally dangerous literary type amplified by Byron's public persona.
 - [Growth Mindset](concepts/GrowthMindset.md) — Belief that domain-specific ability can change under suitable conditions and support, distinct from effort-only optimism.
 - [Mentor Mindset Feedback](concepts/MentorMindsetFeedback.md) — Demanding feedback that pairs high standards with confidence, practical support, and a credible route to improvement.

@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | Middlegarchs are the new Oligarchs
+
+Added source `middlegarchs-are-the-new-oligarchs-32587514`; created `EricZwick`, `OwenZidar`, `DannyYagan`, `PassThroughBusinessTaxAdvantage`, and `DispersedBusinessElitePower`; and updated the canonical index and overview. Core synthesis: linked tax data make wealthy pass-through-business owners a major but less visible part of top-income growth, while tax preferences, direct legislative representation, and locally embedded regulatory influence can reinforce wealth that also reflects genuine entrepreneurship and owner-specific business value. No settled contradiction found. Wealth totals, industry rankings, owner-origin shares, profit effects, tax comparisons, representation rates, fiscal costs, conflicts of interest, and consumer-price effects remain episode-attributed or source-scoped. The downstream synthesis refresh only reads the canonical `wiki/overview.md`.
+
 ## [2026-09-26] ingest | GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine
 
 Added source `guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999`; created `AdultNappingSleepPressure`, `AdultPolyphasicSleepEvidenceBoundary`, and `SleepArchitectureAcrossLifespan`; and updated `MatthewWalker`, `SleepWakeTimingToolkit`, `CaffeineAdenosineSleepTiming`, and `LiminalSleepTransitionPractice` from their complete bounded source sets. Core synthesis: daytime alertness tools must remain subordinate to adequate nighttime sleep; short early naps can help some good sleepers, caffeine blocks rather than clears adenosine, and liminal rest remains a testable hypothesis, while late naps, insomnia-related loss of sleep pressure, and extreme adult sleep-compression schedules carry sleep-quality and safety costs. No settled contradiction found. Older-adult nap associations remain potentially confounded, morning caffeine delay is optional, and developmental percentages, nap effects, caffeine cutoffs, local-sleep mechanisms, aging estimates, and driving-risk figures remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -22714,6 +22718,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | VOL.108精神心理科｜你只是误会了你的高光时刻 多动症不等于聪明 ADHD需不需要治是个问题
 
 Added source `lvfirgzbmtwypcjqyqry291qz6cw-lvfirgzbmtwypcjqyqry291qz6cw`; corrected the displayed Chinese name of `ZhangDaming` to 张达明; and updated the ADHD attention-control, external-structure, self-diagnosis, treatment-selection, psychiatric-function, child-family-system, destigmatization, canonical index, and overview pages from their complete bounded source sets. Core synthesis: ADHD assessment depends on age-relative, cross-setting functional impairment rather than ordinary activity, misbehavior, grades, intelligence stereotypes, or isolated high-performance moments; family and environmental support can modify function without becoming sole-cause blame, while observation, training, and medication decisions require individualized clinical judgment. No settled contradiction found. Heritability, pregnancy and birth risk, attention interruption, screens, exercise, intelligence thresholds, criminality, individual cases, and course claims remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

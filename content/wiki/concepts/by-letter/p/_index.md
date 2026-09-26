@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 8177
+wiki_total_pages: 8179
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -191,6 +191,9 @@ wiki_pages:
   - key: "PartyBanCrisisAmnesty"
     title: "Party-Ban Crisis Amnesty / 党锢危机赦免"
     url: "/wiki/concepts/partybancrisisamnesty/"
+  - key: "PassThroughBusinessTaxAdvantage"
+    title: "Pass-Through Business Tax Advantage"
+    url: "/wiki/concepts/passthroughbusinesstaxadvantage/"
   - key: "PassengerAviationExperienceRadius"
     title: "Passenger Aviation Experience Radius / 飞行扩大生活半径"
     url: "/wiki/concepts/passengeraviationexperienceradius/"

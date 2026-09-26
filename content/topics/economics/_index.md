@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2090
+topic_total_pages: 2095
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2140,6 +2140,9 @@ topic_concepts:
   - key: "PaperWealthVsCashValue"
     title: "Paper Wealth Vs Cash Value"
     url: "/wiki/concepts/paperwealthvscashvalue/"
+  - key: "PassThroughBusinessTaxAdvantage"
+    title: "Pass-Through Business Tax Advantage"
+    url: "/wiki/concepts/passthroughbusinesstaxadvantage/"
   - key: "PassiveInvesting"
     title: "Passive Investing"
     url: "/wiki/concepts/passiveinvesting/"
@@ -3614,6 +3617,9 @@ topic_entities:
   - key: "DanielKan"
     title: "Daniel Kan"
     url: "/wiki/entities/danielkan/"
+  - key: "DannyYagan"
+    title: "Danny Yagan"
+    url: "/wiki/entities/dannyyagan/"
   - key: "DarianWoods"
     title: "Darian Woods"
     url: "/wiki/entities/darianwoods/"
@@ -3728,6 +3734,9 @@ topic_entities:
   - key: "EricPan"
     title: "Eric Pan"
     url: "/wiki/entities/ericpan/"
+  - key: "EricZwick"
+    title: "Eric Zwick"
+    url: "/wiki/entities/ericzwick/"
   - key: "ErikaBeras"
     title: "Erika Beras"
     url: "/wiki/entities/erikaberas/"
@@ -4448,6 +4457,9 @@ topic_entities:
   - key: "OskAdvisory"
     title: "Osk Advisory"
     url: "/wiki/entities/oskadvisory/"
+  - key: "OwenZidar"
+    title: "Owen Zidar"
+    url: "/wiki/entities/owenzidar/"
   - key: "Pakistan"
     title: "Pakistan"
     url: "/wiki/entities/pakistan/"
@@ -5967,6 +5979,9 @@ topic_sources:
   - key: "tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128"
     title: "Meta's new Muse AI agent gives investors the warm-'n-fuzzies"
     url: "/wiki/sources/tech-20260925-0925-mp-tech-pod-128-tech-20260925-0925-mp-tech-pod-128/"
+  - key: "middlegarchs-are-the-new-oligarchs-32587514"
+    title: "Middlegarchs are the new Oligarchs"
+    url: "/wiki/sources/middlegarchs-are-the-new-oligarchs-32587514/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390"
     title: "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390/"

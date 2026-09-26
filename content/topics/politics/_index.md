@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2705
+topic_total_pages: 2707
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -1036,6 +1036,9 @@ topic_concepts:
   - key: "DiscretionaryInsurancePayment"
     title: "Discretionary Insurance Payment"
     url: "/wiki/concepts/discretionaryinsurancepayment/"
+  - key: "DispersedBusinessElitePower"
+    title: "Dispersed Business-Elite Power"
+    url: "/wiki/concepts/dispersedbusinesselitepower/"
   - key: "DissentSpaceCompression"
     title: "Dissent Space Compression"
     url: "/wiki/concepts/dissentspacecompression/"
@@ -7500,6 +7503,9 @@ topic_sources:
   - key: "marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c"
     title: "Marine warfare: Le Pen runs for president"
     url: "/wiki/sources/marine-warfare-le-pen-runs-for-president-6a4e1f2781fe1f6460b7117c/"
+  - key: "middlegarchs-are-the-new-oligarchs-32587514"
+    title: "Middlegarchs are the new Oligarchs"
+    url: "/wiki/sources/middlegarchs-are-the-new-oligarchs-32587514/"
   - key: "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3"
     title: "Missing Peace: Will Israel Imperil Iran Deal?"
     url: "/wiki/sources/missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3/"

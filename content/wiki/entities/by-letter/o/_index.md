@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 10803
+wiki_total_pages: 10806
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -347,6 +347,9 @@ wiki_pages:
   - key: "OwainGlyndwr"
     title: "Owain Glyndŵr"
     url: "/wiki/entities/owainglyndwr/"
+  - key: "OwenZidar"
+    title: "Owen Zidar"
+    url: "/wiki/entities/owenzidar/"
   - key: "Ozempic"
     title: "Ozempic"
     url: "/wiki/entities/ozempic/"
