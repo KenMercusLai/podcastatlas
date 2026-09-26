@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗](sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj.md) — 这病说来话长 episode on pulmonary-nodule interpretation, surveillance and surgical tradeoffs, false detox attribution, multimodal lung-cancer care, hospital matching, and clinical trust.
 - [How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780.md) — Huberman Lab interview on retinal coding, living human-retina experiments, cell-type-aware vision restoration, neural-interface precision, augmentation, adult adaptation, and nonlinear career choice.
 - [430. Titanic: The Iceberg Strikes (Part 4)](sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034.md) — The Rest Is History on Titanic's third-class migrant world, fragmented ice warnings, accepted speed practice, difficult visibility, and the collision.
 - [431. Titanic: Nightmare at Midnight (Part 5)](sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597.md) — The Rest Is History reconstruction of Titanic's collision, progressive flooding, evacuation ambiguity, unequal access, final plunge, and disputed moral stories.
@@ -13754,6 +13755,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Hospital Capability–Patient Complexity Matching / 医院能力与患者复杂度匹配](concepts/HospitalCapabilityPatientComplexityMatching.md) — Hospital selection by disease complexity, whole-patient risk, institutional capability, access, continuity, and trust.
+- [Lung Cancer Multimodal Treatment / 肺癌多模式综合治疗](concepts/LungCancerMultimodalTreatment.md) — Histology-, stage-, and sequence-aware coordination of surgery, radiation, chemotherapy, targeted therapy, immunotherapy, and follow-up.
 - [Retinal Neural Coding](concepts/RetinalNeuralCoding.md) — parallel feature-specific spike representation produced by distinct retinal ganglion-cell types.
 - [Cell-Type-Aware Retinal Prosthesis](concepts/CellTypeAwareRetinalProsthesis.md) — proposed vision-restoration system that identifies, calibrates, and selectively stimulates surviving retinal output-cell types.
 - [Transatlantic Migrant Passage](concepts/TransatlanticMigrantPassage.md) — commercial and social system joining passenger shipping, classed accommodation, migration motives, recruitment, remittances, and travel networks.

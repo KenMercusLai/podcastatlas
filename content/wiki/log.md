@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗
+
+Added source `vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj`; created `HospitalCapabilityPatientComplexityMatching` and `LungCancerMultimodalTreatment`; and updated `WangXingDoctor` and `PulmonaryNoduleSurveillance` from their complete bounded source sets. Core synthesis: a pulmonary nodule is an imaging finding whose meaning depends on morphology, location, change, patient context, and intervention cost; lung-cancer treatment is a sequenced multimodal path; and care settings should match disease complexity and whole-patient complexity rather than prestige alone. No settled contradiction found. Size, growth, probability, CT, stability, treatment-sequence, hospital-comparison, and survival claims remain source-scoped public education, while visible “detox” effects and spontaneous resolution do not prove treatment efficacy. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | 432. Titanic: The Survivors (Part 6)
 
 Added source `432-titanic-the-survivors-part-6-glt4613169046`; created `RMSTitanic`, `RMSCarpathia`, `BruceIsmay`, `MasabumiHosono`, `TitanicDisasterMemory`, `DisasterSurvivalInequality`, and `MaritimeDisasterSafetyReform`; and updated `JamesCameron` from its complete bounded source set. Core synthesis: Titanic's aftermath joins unequal survival, industry-normalized safety failure, regulatory learning, survivor trauma, scapegoating, and cultural mythmaking; public narratives made Ismay and Hosono into moral characters while inquiries produced lifeboat, training, ice-patrol, and route reforms. No settled contradiction found. The episode rejects the claim that Ismay ordered an early New York arrival, while exact casualty totals, class mechanisms, reported scenes, psychology, and broad metaphorical readings remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -22894,6 +22898,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 430. Titanic: The Iceberg Strikes (Part 4)
 
 Added source `430-titanic-the-iceberg-strikes-part-4-glt2129072034`; created `WhiteStarLine`, `MarconiCompany`, `TransatlanticMigrantPassage`, and `MaritimeWarningFragmentation`; and updated `RMSTitanic`, `EdwardSmith`, `WilliamMurdoch`, `BruceIsmay`, the canonical index, and overview from their complete bounded source sets. Core synthesis: unusually comfortable third class formed part of a classed and selective migration system, while fragmented ice reports, wireless backlog, organizational boundaries, accepted speed practice, poor visual conditions, and bridge response combined into catastrophe. No settled contradiction found. The episode reinforces rejection of the claim that Ismay forced a publicity race and qualifies a uniformly grim image of steerage without denying later evacuation inequality; passenger totals, route policy, warning transmission, collision mechanics, dialogue, motives, and causal weight remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

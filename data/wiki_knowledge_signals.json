@@ -65907,6 +65907,22 @@
       "updated": "2026-09-26",
       "url": "/wiki/concepts/hospicecare/"
     },
+    "HospitalCapabilityPatientComplexityMatching": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljiC0qvYSuboYxunoz-ESPJDVLvj [ljiC0qvYSuboYxunoz-ESPJDVLvj].md",
+          "key": "vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj",
+          "show": "这病说来话长",
+          "title": "VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗",
+          "url": "/wiki/sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/hospitalcapabilitypatientcomplexitymatching/"
+    },
     "HostCountryManufacturingBacklash": {
       "episode_count": 1,
       "show_count": 1,
@@ -89681,6 +89697,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
+    },
+    "LungCancerMultimodalTreatment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "ljiC0qvYSuboYxunoz-ESPJDVLvj [ljiC0qvYSuboYxunoz-ESPJDVLvj].md",
+          "key": "vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj",
+          "show": "这病说来话长",
+          "title": "VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗",
+          "url": "/wiki/sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/lungcancermultimodaltreatment/"
     },
     "LuntaiSelfCriticismPolicyTurn": {
       "episode_count": 2,
@@ -113977,9 +114009,9 @@
       "url": "/wiki/entities/pueryunnan/"
     },
     "PulmonaryNoduleSurveillance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrjqaW3ovZNk0zN4-jfJ3F2XyVZI [lrjqaW3ovZNk0zN4-jfJ3F2XyVZI].md",
@@ -113987,6 +114019,13 @@
           "show": "这病说来话长",
           "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
           "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
+        },
+        {
+          "episode_file": "ljiC0qvYSuboYxunoz-ESPJDVLvj [ljiC0qvYSuboYxunoz-ESPJDVLvj].md",
+          "key": "vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj",
+          "show": "这病说来话长",
+          "title": "VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗",
+          "url": "/wiki/sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj/"
         }
       ],
       "updated": "2026-09-26",
@@ -146759,9 +146798,9 @@
       "url": "/wiki/entities/wangxiaowei/"
     },
     "WangXingDoctor": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "70.医生，你在想什么：少看百度，以及吃药时别吃西柚啊 [668238394].md",
@@ -146783,6 +146822,13 @@
           "show": "这病说来话长",
           "title": "VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇",
           "url": "/wiki/sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi/"
+        },
+        {
+          "episode_file": "ljiC0qvYSuboYxunoz-ESPJDVLvj [ljiC0qvYSuboYxunoz-ESPJDVLvj].md",
+          "key": "vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj",
+          "show": "这病说来话长",
+          "title": "VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗",
+          "url": "/wiki/sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj/"
         }
       ],
       "updated": "2026-09-26",

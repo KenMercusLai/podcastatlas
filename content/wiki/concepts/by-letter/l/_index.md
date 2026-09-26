@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8221
+wiki_total_pages: 8223
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -851,6 +851,9 @@ wiki_pages:
   - key: "LunarSouthPoleOperationalScarcity"
     title: "Lunar South Pole Operational Scarcity"
     url: "/wiki/concepts/lunarsouthpoleoperationalscarcity/"
+  - key: "LungCancerMultimodalTreatment"
+    title: "Lung Cancer Multimodal Treatment / 肺癌多模式综合治疗"
+    url: "/wiki/concepts/lungcancermultimodaltreatment/"
   - key: "LureEnemyOutOfPosition"
     title: "Lure Enemy Out of Position / 诱敌离位"
     url: "/wiki/concepts/lureenemyoutofposition/"

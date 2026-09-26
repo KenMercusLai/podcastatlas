@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8221
+wiki_total_pages: 8223
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -569,6 +569,9 @@ wiki_pages:
   - key: "HorseReligiousMythology"
     title: "Horse Religious Mythology"
     url: "/wiki/concepts/horsereligiousmythology/"
+  - key: "HospitalCapabilityPatientComplexityMatching"
+    title: "Hospital Capability–Patient Complexity Matching / 医院能力与患者复杂度匹配"
+    url: "/wiki/concepts/hospitalcapabilitypatientcomplexitymatching/"
   - key: "HospitalInformationSystem"
     title: "Hospital Information System"
     url: "/wiki/concepts/hospitalinformationsystem/"
