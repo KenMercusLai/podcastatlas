@@ -22890,3 +22890,11 @@ Added source `how-the-brain-works-curing-blindness-how-to-navigate-a-career-path
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 430. Titanic: The Iceberg Strikes (Part 4)
+
+Added source `430-titanic-the-iceberg-strikes-part-4-glt2129072034`; created `WhiteStarLine`, `MarconiCompany`, `TransatlanticMigrantPassage`, and `MaritimeWarningFragmentation`; and updated `RMSTitanic`, `EdwardSmith`, `WilliamMurdoch`, `BruceIsmay`, the canonical index, and overview from their complete bounded source sets. Core synthesis: unusually comfortable third class formed part of a classed and selective migration system, while fragmented ice reports, wireless backlog, organizational boundaries, accepted speed practice, poor visual conditions, and bridge response combined into catastrophe. No settled contradiction found. The episode reinforces rejection of the claim that Ismay forced a publicity race and qualifies a uniformly grim image of steerage without denying later evacuation inequality; passenger totals, route policy, warning transmission, collision mechanics, dialogue, motives, and causal weight remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

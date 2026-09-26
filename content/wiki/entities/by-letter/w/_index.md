@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10851
+wiki_total_pages: 10853
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "WhiteSnakeLegend"
     title: "White Snake Legend / 白蛇传"
     url: "/wiki/entities/whitesnakelegend/"
+  - key: "WhiteStarLine"
+    title: "White Star Line"
+    url: "/wiki/entities/whitestarline/"
   - key: "WhiteVentedMynaTaiwan"
     title: "White-Vented Myna in Taiwan / 白尾八哥"
     url: "/wiki/entities/whiteventedmynataiwan/"

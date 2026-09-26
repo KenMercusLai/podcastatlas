@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780.md) — Huberman Lab interview on retinal coding, living human-retina experiments, cell-type-aware vision restoration, neural-interface precision, augmentation, adult adaptation, and nonlinear career choice.
+- [430. Titanic: The Iceberg Strikes (Part 4)](sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034.md) — The Rest Is History on Titanic's third-class migrant world, fragmented ice warnings, accepted speed practice, difficult visibility, and the collision.
 - [431. Titanic: Nightmare at Midnight (Part 5)](sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597.md) — The Rest Is History reconstruction of Titanic's collision, progressive flooding, evacuation ambiguity, unequal access, final plunge, and disputed moral stories.
 - [VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失](sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43.md) — 这病说来话长 roundtable on residency-training purpose, trainee categories, role overload, clinical supervision, unequal conditions, and psychosocial safety.
 - [432. Titanic: The Survivors (Part 6)](sources/432-titanic-the-survivors-part-6-glt4613169046.md) — The Rest Is History on Carpathia's rescue, unequal survival, blame, inquiry, safety reform, survivor trauma, and Titanic's cultural afterlife.
@@ -2886,6 +2887,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [E.J. Chichilnisky](entities/EJChichilnisky.md) — retinal neuroscientist linking human retinal recording and cell-type identification to adaptive vision-restoring implants.
+- [White Star Line](entities/WhiteStarLine.md) — Titanic operator and selective migration intermediary competing through improved third-class passage.
+- [Marconi Company](entities/MarconiCompany.md) — wireless provider whose Titanic operators handled commercial messages, news, and navigational warnings across an organizational boundary.
 - [Thomas Andrews](entities/ThomasAndrews.md) — Titanic designer whose flooding diagnosis established the ship's short survival horizon.
 - [Edward Smith](entities/EdwardSmith.md) — Titanic captain whose evacuation priority was interpreted differently by officers.
 - [William Murdoch](entities/WilliamMurdoch.md) — Titanic officer who used remaining lifeboat capacity while his final moments remain disputed.
@@ -13753,6 +13756,8 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [Retinal Neural Coding](concepts/RetinalNeuralCoding.md) — parallel feature-specific spike representation produced by distinct retinal ganglion-cell types.
 - [Cell-Type-Aware Retinal Prosthesis](concepts/CellTypeAwareRetinalProsthesis.md) — proposed vision-restoration system that identifies, calibrates, and selectively stimulates surviving retinal output-cell types.
+- [Transatlantic Migrant Passage](concepts/TransatlanticMigrantPassage.md) — commercial and social system joining passenger shipping, classed accommodation, migration motives, recruitment, remittances, and travel networks.
+- [Maritime Warning Fragmentation](concepts/MaritimeWarningFragmentation.md) — failure to consolidate distributed hazard reports into one shared operational risk picture.
 - [Maritime Emergency Evacuation](concepts/MaritimeEmergencyEvacuation.md) — Conversion of warning and finite time into movement, capacity allocation, launching, and rescue under uncertainty.
 - [Titanic Disaster Memory](concepts/TitanicDisasterMemory.md) — Process turning Titanic into moral characters and reusable metaphors while intimate loss and chance resist one total interpretation.
 - [Disaster Survival Inequality](concepts/DisasterSurvivalInequality.md) — Pattern in which emergency rules, physical access, information, assistance, and class shape unequal survival opportunity.

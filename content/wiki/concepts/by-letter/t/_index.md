@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8219
+wiki_total_pages: 8221
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"
+  - key: "TransatlanticMigrantPassage"
+    title: "Transatlantic Migrant Passage"
+    url: "/wiki/concepts/transatlanticmigrantpassage/"
   - key: "TranscendenceAgainstHumanFeeling"
     title: "Transcendence Against Human Feeling"
     url: "/wiki/concepts/transcendenceagainsthumanfeeling/"

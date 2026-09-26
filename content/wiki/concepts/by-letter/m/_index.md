@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8219
+wiki_total_pages: 8221
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "MaritimeEmergencyEvacuation"
     title: "Maritime Emergency Evacuation"
     url: "/wiki/concepts/maritimeemergencyevacuation/"
+  - key: "MaritimeWarningFragmentation"
+    title: "Maritime Warning Fragmentation"
+    url: "/wiki/concepts/maritimewarningfragmentation/"
   - key: "MarketBreadthNarrowing"
     title: "Market Breadth Narrowing / 市场广度收窄"
     url: "/wiki/concepts/marketbreadthnarrowing/"

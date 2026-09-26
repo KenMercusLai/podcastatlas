@@ -17446,9 +17446,9 @@
       "url": "/wiki/entities/broadcom/"
     },
     "BruceIsmay": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -17463,6 +17463,13 @@
           "show": "The Rest Is History",
           "title": "431. Titanic: Nightmare at Midnight (Part 5)",
           "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        },
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
         }
       ],
       "updated": "2026-09-26",
@@ -40534,9 +40541,9 @@
       "url": "/wiki/entities/edwardsaid/"
     },
     "EdwardSmith": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2941711597 [GLT2941711597].md",
@@ -40544,6 +40551,13 @@
           "show": "The Rest Is History",
           "title": "431. Titanic: Nightmare at Midnight (Part 5)",
           "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        },
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
         }
       ],
       "updated": "2026-09-26",
@@ -92199,6 +92213,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/marcellolippi/"
     },
+    "MarconiCompany": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/marconicompany/"
+    },
     "MarcusLiciniusCrassus": {
       "episode_count": 2,
       "show_count": 2,
@@ -92555,6 +92585,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/maritimeemergencyevacuation/"
+    },
+    "MaritimeWarningFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/maritimewarningfragmentation/"
     },
     "MarkCarney": {
       "episode_count": 2,
@@ -115351,9 +115397,9 @@
       "url": "/wiki/entities/rmslusitania/"
     },
     "RMSTitanic": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -115368,6 +115414,13 @@
           "show": "The Rest Is History",
           "title": "431. Titanic: Nightmare at Midnight (Part 5)",
           "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        },
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
         }
       ],
       "updated": "2026-09-26",
@@ -140573,6 +140626,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/transatlanticburdenshifting/"
     },
+    "TransatlanticMigrantPassage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/transatlanticmigrantpassage/"
+    },
     "TranscranialMagneticStimulationForDepression": {
       "episode_count": 1,
       "show_count": 1,
@@ -148840,6 +148909,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/whiteshipdisaster/"
     },
+    "WhiteStarLine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/whitestarline/"
+    },
     "WhiteVentedMynaTaiwan": {
       "episode_count": 1,
       "show_count": 1,
@@ -149187,9 +149272,9 @@
       "url": "/wiki/entities/williamgolding/"
     },
     "WilliamMurdoch": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2941711597 [GLT2941711597].md",
@@ -149197,6 +149282,13 @@
           "show": "The Rest Is History",
           "title": "431. Titanic: Nightmare at Midnight (Part 5)",
           "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        },
+        {
+          "episode_file": "GLT2129072034 [GLT2129072034].md",
+          "key": "430-titanic-the-iceberg-strikes-part-4-glt2129072034",
+          "show": "The Rest Is History",
+          "title": "430. Titanic: The Iceberg Strikes (Part 4)",
+          "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
         }
       ],
       "updated": "2026-09-26",
