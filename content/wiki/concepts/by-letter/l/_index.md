@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8328
+wiki_total_pages: 8332
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "LegalizedGovernmentWaste"
     title: "Legalized Government Waste"
     url: "/wiki/concepts/legalizedgovernmentwaste/"
+  - key: "LegendAsInstitutionalAnxiety"
+    title: "Legend as Institutional Anxiety"
+    url: "/wiki/concepts/legendasinstitutionalanxiety/"
   - key: "LegendAsSocialHistory"
     title: "Legend As Social History"
     url: "/wiki/concepts/legendassocialhistory/"

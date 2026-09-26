@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10936
+wiki_total_pages: 10941
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -800,6 +800,9 @@ wiki_pages:
   - key: "Guanyin"
     title: "Guanyin / 观音"
     url: "/wiki/entities/guanyin/"
+  - key: "GuglielmaOfMilan"
+    title: "Guglielma of Milan"
+    url: "/wiki/entities/guglielmaofmilan/"
   - key: "GuillaumeCabane"
     title: "Guillaume Cabane"
     url: "/wiki/entities/guillaumecabane/"

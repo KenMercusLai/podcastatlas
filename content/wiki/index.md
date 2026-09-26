@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [403. The Mystery of the Pregnant Pope](sources/403-the-mystery-of-the-pregnant-pope-glt1981561492.md) — The Rest Is History episode debunking Pope Joan while tracing the legend through Gregorian reform, papal ritual, gendered clerical authority, and the Guglielma-Maifreda movement.
 - [AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More](sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344.md) — Huberman Lab premium Q&A on research funding, safe difficulty, circadian light, function-first fitness, sleep-score interpretation, strength goals, MRI tradeoffs, and limb asymmetry.
 - [404. The Nazis in Power: The Night of the Long Knives (Part 1)](sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466.md) — The Rest Is History episode on the false SA coup claim, the Röhm purge, SS-police violence, army accommodation, retrospective legality, and Hitler's consolidation of personal rule.
 - [How to Build Immense Inner Strength | David Goggins](sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504.md) — Huberman Lab interview on willpower as maintained practice, difficult self-examination, repeated study, inner dialogue, earned confidence, and the limits of extreme autobiographical discipline.
@@ -2938,6 +2939,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How to Prevent & Treat Colds & Flu](sources/how-to-prevent-treat-colds-flu-scim6817932732.md) — Huberman Lab solo episode on respiratory-virus transmission, layered immune defense, sleep and training load, heat boundaries, and supplement evidence.
 
 ## Entities
+- [Pope Joan](entities/PopeJoan.md) — Legendary disguised female pope whose fictional biography became historically consequential through ritual, repetition, and polemic.
+- [Jean de Mailly](entities/JeanDeMailly.md) — Early thirteenth-century chronicler who supplied an early surviving punitive account of Pope Joan.
+- [Martin of Poland](entities/MartinOfPoland.md) — Medieval chronicler whose detailed biography became the canonical Pope Joan version.
+- [Guglielma of Milan](entities/GuglielmaOfMilan.md) — Charitable religious woman whose posthumous movement anticipated a female age of the Spirit.
+- [Maifreda da Pirovano](entities/MaifredaDaPirovano.md) — Abbess expected by Guglielma's movement to become pope before inquisitorial suppression.
 - [Night of the Long Knives](entities/NightOfTheLongKnives.md) — June–July 1934 purge that destroyed the SA leadership, killed additional rivals, strengthened the SS, and secured army acceptance of Hitler.
 - [Ernst Röhm](entities/ErnstRohm.md) — SA leader whose revolutionary and military ambitions made him the central target of the purge despite the false coup allegation.
 - [Sturmabteilung (SA)](entities/Sturmabteilung.md) — Nazi mass stormtrooper organization subordinated after its scale, violence, and defense-force ambitions threatened the army bargain.
@@ -13889,6 +13895,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Gregorian Reform](concepts/GregorianReform.md) — Medieval program joining clerical discipline, papal independence, cardinal election, and intensified legitimacy concerns.
+- [Legend as Institutional Anxiety](concepts/LegendAsInstitutionalAnxiety.md) — Framework for reading false stories as evidence of real institutional fears, boundaries, and polemical reuse.
+- [Ritual Object Legend Formation](concepts/RitualObjectLegendFormation.md) — Process by which ambiguous ritual objects attract stories that later appear to validate the objects' supposed purpose.
+- [Female Sacred Authority Constraint](concepts/FemaleSacredAuthorityConstraint.md) — Boundary between honoring female holiness and excluding women from priestly or supreme institutional office.
 - [Functional Fitness Readiness](concepts/FunctionalFitnessReadiness.md) — Function-first fitness portfolio spanning endurance, intensity, strength, carrying, sprinting, agility, and multi-signal monitoring.
 - [Unilateral Strength Rebalancing](concepts/UnilateralStrengthRebalancing.md) — Conservative weaker-side-first training framework for meaningful left-right strength differences.
 - [Führer-State Consolidation](concepts/FuhrerStateConsolidation.md) — Sequence joining factional purge, institutional bargain, retroactive legality, office merger, plebiscite, and personal military oath.

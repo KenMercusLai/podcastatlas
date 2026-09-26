@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2058
+topic_total_pages: 2059
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4635,6 +4635,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "403-the-mystery-of-the-pregnant-pope-glt1981561492"
+    title: "403. The Mystery of the Pregnant Pope"
+    url: "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
   - key: "404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466"
     title: "404. The Nazis in Power: The Night of the Long Knives (Part 1)"
     url: "/wiki/sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466/"

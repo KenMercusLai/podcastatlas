@@ -49639,6 +49639,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/femalerevengeandpoliticalorder/"
     },
+    "FemaleSacredAuthorityConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/femalesacredauthorityconstraint/"
+    },
     "FemaleSupportDrivenGrowthNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -60488,10 +60504,26 @@
       "updated": "2026-09-26",
       "url": "/wiki/entities/greekwarofindependence/"
     },
-    "GregoryVII": {
+    "GregorianReform": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/gregorianreform/"
+    },
+    "GregoryVII": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6058938613 [GLT6058938613].md",
@@ -60499,9 +60531,16 @@
           "show": "The Rest Is History",
           "title": "491. History's Greatest Beards: From Egyptian Queens to Medieval Conquerors (Part 1)",
           "url": "/wiki/sources/491-historys-greatest-beards-from-egyptian-queens-to-medieval-conquerors-part-1-glt6058938613/"
+        },
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/gregoryvii/"
     },
     "GriefAttachmentRemapping": {
@@ -61238,6 +61277,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/guestritesubmissiondiplomacy/"
+    },
+    "GuglielmaOfMilan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/guglielmaofmilan/"
     },
     "GuiLanLateHan": {
       "episode_count": 1,
@@ -75929,6 +75984,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/jeanbaptistedrouet/"
     },
+    "JeanDeMailly": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/jeandemailly/"
+    },
     "JeanJacquesRousseau": {
       "episode_count": 4,
       "show_count": 3,
@@ -83360,6 +83431,22 @@
       ],
       "updated": "2026-09-19",
       "url": "/wiki/concepts/legalizedgovernmentwaste/"
+    },
+    "LegendAsInstitutionalAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/legendasinstitutionalanxiety/"
     },
     "LegitimacyAnxietyAdministrativeParalysis": {
       "episode_count": 1,
@@ -94318,6 +94405,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/entities/magnusthegood/"
     },
+    "MaifredaDaPirovano": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/maifredadapirovano/"
+    },
     "MaintainYourBrainTrial": {
       "episode_count": 1,
       "show_count": 1,
@@ -95819,6 +95922,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/martinlutherkingjr/"
+    },
+    "MartinOfPoland": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/martinofpoland/"
     },
     "MartyrdomStaging": {
       "episode_count": 2,
@@ -113414,6 +113533,22 @@
       "updated": "2026-09-21",
       "url": "/wiki/concepts/poptoalbumrocktransition/"
     },
+    "PopeJoan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/popejoan/"
+    },
     "PopeLeoXIV": {
       "episode_count": 1,
       "show_count": 1,
@@ -123457,6 +123592,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/ritualcapitalcentrality/"
+    },
+    "RitualObjectLegendFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1981561492 [GLT1981561492].md",
+          "key": "403-the-mystery-of-the-pregnant-pope-glt1981561492",
+          "show": "The Rest Is History",
+          "title": "403. The Mystery of the Pregnant Pope",
+          "url": "/wiki/sources/403-the-mystery-of-the-pregnant-pope-glt1981561492/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/ritualobjectlegendformation/"
     },
     "RitualRenunciationPoliticalCapital": {
       "episode_count": 1,

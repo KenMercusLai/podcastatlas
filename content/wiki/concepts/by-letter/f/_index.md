@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8328
+wiki_total_pages: 8332
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -311,6 +311,9 @@ wiki_pages:
   - key: "FemaleRevengeAndPoliticalOrder"
     title: "Female Revenge And Political Order"
     url: "/wiki/concepts/femalerevengeandpoliticalorder/"
+  - key: "FemaleSacredAuthorityConstraint"
+    title: "Female Sacred Authority Constraint"
+    url: "/wiki/concepts/femalesacredauthorityconstraint/"
   - key: "FemaleSelfPossession"
     title: "Female Self-Possession"
     url: "/wiki/concepts/femaleselfpossession/"

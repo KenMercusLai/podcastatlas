@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8328
+wiki_total_pages: 8332
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "RitualHopeConsumption"
     title: "Ritual Hope Consumption / 仪式性希望消费"
     url: "/wiki/concepts/ritualhopeconsumption/"
+  - key: "RitualObjectLegendFormation"
+    title: "Ritual Object Legend Formation"
+    url: "/wiki/concepts/ritualobjectlegendformation/"
   - key: "RitualRecognitionOfMilitaryPower"
     title: "Ritual Recognition of Military Power / 礼制承认军事权力"
     url: "/wiki/concepts/ritualrecognitionofmilitarypower/"

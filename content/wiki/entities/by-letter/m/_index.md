@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10936
+wiki_total_pages: 10941
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "MahsaAlert"
     title: "Mahsa Alert"
     url: "/wiki/entities/mahsaalert/"
+  - key: "MaifredaDaPirovano"
+    title: "Maifreda da Pirovano"
+    url: "/wiki/entities/maifredadapirovano/"
   - key: "Mailbox"
     title: "Mailbox"
     url: "/wiki/entities/mailbox/"
@@ -443,6 +446,9 @@ wiki_pages:
   - key: "MartinLutherKingJr"
     title: "Martin Luther King Jr."
     url: "/wiki/entities/martinlutherkingjr/"
+  - key: "MartinOfPoland"
+    title: "Martin of Poland"
+    url: "/wiki/entities/martinofpoland/"
   - key: "MartinPeterson"
     title: "Martin Peterson"
     url: "/wiki/entities/martinpeterson/"

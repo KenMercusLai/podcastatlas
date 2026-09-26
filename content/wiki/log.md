@@ -23035,6 +23035,10 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | 403. The Mystery of the Pregnant Pope
+
+Added source `403-the-mystery-of-the-pregnant-pope-glt1981561492`; created `PopeJoan`, `JeanDeMailly`, `MartinOfPoland`, `GuglielmaOfMilan`, `MaifredaDaPirovano`, `GregorianReform`, `LegendAsInstitutionalAnxiety`, `RitualObjectLegendFormation`, and `FemaleSacredAuthorityConstraint`; and updated `GregoryVII`, the canonical index, and overview from the complete bounded source set. Core synthesis: Pope Joan is historically unsupported but institutionally revealing, because late detail, ritual attachment, repetition, and polemic made the legend consequential; the real Guglielma-Maifreda movement shows that imagined female papal authority could provoke violent suppression. No settled contradiction found. The legend's origin remains multi-causal and interpretive, while hostile inquisitorial evidence limits reconstruction of Guglielma's own claims. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | Tools to Reduce & Manage Pain | Dr. Sean Mackey
 
 Added source `tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556`; created `SeanMackey`, `PainAsDistributedExperience`, `HurtHarmPainReframing`, and `MultimodalFunctionCenteredPainCare`; and updated `PainAwareTrainingContinuity`, `CannabisMedicalUseEvidenceBoundary`, the canonical index, and overview from their complete bounded source sets. Core synthesis: nociceptive input, tissue state, subjective pain, and function overlap without mapping one-to-one, so chronic-pain care should combine qualified assessment, education, pacing, movement, psychological skills, medication or procedures when appropriate, and patient agency around meaningful life goals. No settled contradiction found. Treatment mechanisms, prevalence and cost estimates, supplement uses, sex-average threshold differences, personal cases, cannabis comparisons, and policy claims remain source-scoped; new or concerning pain and all medication, procedure, restrictive-diet, supplement, or rehabilitation decisions require individualized clinical context. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23317,6 +23321,10 @@ Added source `404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8328
+wiki_total_pages: 8332
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "GreenlandStrategicAccess"
     title: "Greenland Strategic Access"
     url: "/wiki/concepts/greenlandstrategicaccess/"
+  - key: "GregorianReform"
+    title: "Gregorian Reform"
+    url: "/wiki/concepts/gregorianreform/"
   - key: "GreshamsLaw"
     title: "Gresham's Law / 劣币驱逐良币"
     url: "/wiki/concepts/greshamslaw/"
