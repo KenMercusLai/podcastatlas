@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2023
+topic_total_pages: 2025
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1669,6 +1669,9 @@ topic_concepts:
   - key: "LianhengStrategy"
     title: "连横 / Lianheng Strategy"
     url: "/wiki/concepts/lianhengstrategy/"
+  - key: "RoadArchaeology"
+    title: "道路考古 / Road Archaeology"
+    url: "/wiki/concepts/roadarchaeology/"
   - key: "ImperialNameTaboo"
     title: "避讳 / Imperial Name Taboo"
     url: "/wiki/concepts/imperialnametaboo/"
@@ -5163,6 +5166,9 @@ topic_sources:
   - key: "ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk"
     title: "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国"
     url: "/wiki/sources/ep267-tafang-meigonghe-yuji-hunfeiyi-yu-shuili-diguo-lkq2vxaatn4wxue7y5q1fc3-8yfk/"
+  - key: "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt"
+    title: "EP285 踏访古蜀道：敢问路在何方？"
+    url: "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
   - key: "ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2"
     title: "EP46 历次牛市众生相：措手不及的幸福能持续多久？"
     url: "/wiki/sources/ep46-lici-niushi-zhongshengxiang-cuoshoubuji-de-xingfu-neng-chixu-duojiu-li10xwkla-3kk-zgde2i0uxbpot2/"

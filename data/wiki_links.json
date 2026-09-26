@@ -8427,6 +8427,10 @@
     "title": "保山 / Baoshan, Yunnan",
     "url": "/wiki/entities/baoshanyunnan/"
   },
+  "BaoxieRoad": {
+    "title": "褒斜道 / Baoxie Road",
+    "url": "/wiki/entities/baoxieroad/"
+  },
   "BarackObama": {
     "title": "Barack Obama",
     "url": "/wiki/entities/barackobama/"
@@ -36219,6 +36223,10 @@
     "title": "金马门待诏 / Gold Horse Gate Court Literary Access",
     "url": "/wiki/concepts/jinmamencourtliteraryaccess/"
   },
+  "JinniuRoad": {
+    "title": "金牛道 / Jinniu Road",
+    "url": "/wiki/entities/jinniuroad/"
+  },
   "JinriToutiao": {
     "title": "Jinri Toutiao",
     "url": "/wiki/entities/jinritoutiao/"
@@ -40566,6 +40574,10 @@
   "ListeningTherapyBoundary": {
     "title": "Listening-Therapy Boundary / 倾听与心理咨询边界",
     "url": "/wiki/concepts/listeningtherapyboundary/"
+  },
+  "LitchiRoad": {
+    "title": "荔枝道 / Litchi Road",
+    "url": "/wiki/entities/litchiroad/"
   },
   "LiteAppGrowth": {
     "title": "Lite App Growth",
@@ -57447,6 +57459,10 @@
     "title": "日新月异 / Rixin Yiy",
     "url": "/wiki/entities/rixinyiy/"
   },
+  "RoadArchaeology": {
+    "title": "道路考古 / Road Archaeology",
+    "url": "/wiki/concepts/roadarchaeology/"
+  },
   "RoadsideAdvertisingSpectacle": {
     "title": "Roadside Advertising Spectacle",
     "url": "/wiki/concepts/roadsideadvertisingspectacle/"
@@ -61034,6 +61050,10 @@
   "ShuHouNingTong": {
     "title": "蜀侯宁通 / Shu Hou Ning Tong",
     "url": "/wiki/entities/shuhouningtong/"
+  },
+  "ShuRoadNetwork": {
+    "title": "古蜀道网络 / Shu Road Network",
+    "url": "/wiki/entities/shuroadnetwork/"
   },
   "ShuStateWarringStates": {
     "title": "蜀国 / Shu State (Warring States)",
@@ -66110,6 +66130,10 @@
   "TerracottaArmy": {
     "title": "Terracotta Army / 兵马俑",
     "url": "/wiki/entities/terracottaarmy/"
+  },
+  "TerrainBoundTransportEvolution": {
+    "title": "交通技术与地形关系 / Terrain-Bound Transport Evolution",
+    "url": "/wiki/concepts/terrainboundtransportevolution/"
   },
   "TerrainConstrainedCombinedArms": {
     "title": "Terrain-Constrained Combined Arms",
@@ -79662,6 +79686,10 @@
   "ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq": {
     "title": "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻",
     "url": "/wiki/sources/ep284-yu-miao-shifu-mantan-li-er-ke-naxie-lingxing-juexing-de-shike-lkkydmjftqa-fjhg2uaym_8teinq/"
+  },
+  "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt": {
+    "title": "EP285 踏访古蜀道：敢问路在何方？",
+    "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
   },
   "ep34-dang-gaoqingshang-he-fencungan-queshi-weiyou-gangtie-yizhi-chengchang-lsoyvsj7cppkk-efbxuemdldtrbu": {
     "title": "EP34 当高情商和分寸感缺失，唯有钢铁意志撑场",

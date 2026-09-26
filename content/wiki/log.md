@@ -22838,3 +22838,11 @@ Added source `what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim681890
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | EP285 踏访古蜀道：敢问路在何方？
+
+Added source `ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt`; created `ShuRoadNetwork`, `JinniuRoad`, `BaoxieRoad`, `LitchiRoad`, `RoadArchaeology`, and `TerrainBoundTransportEvolution`; and updated `XuePeng`, `AiJiangtao`, and `ZhangXingyun` from their complete bounded source sets. Core synthesis: the ancient Shu roads were a changing network shaped by terrain, political centers, war, maintenance, trade, and engineering, while route reconstruction requires convergence across texts, maps, remains, oral memory, geospatial tools, and walking. No settled contradiction found. Li Bai's itinerary, Yang Guifei's lychee source, early road alignments, ancient-tree ages, the Wanyuan inscription, and the Litchi Road's possible military role remain disputed or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

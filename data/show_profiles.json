@@ -828,8 +828,8 @@
       "earliest_episode_date": "2025-12-20",
       "latest_episode_date": "2026-09-26",
       "latest_episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
-      "source_note_count": 49,
-      "topic_matched_source_note_count": 33,
+      "source_note_count": 50,
+      "topic_matched_source_note_count": 34,
       "topics": [
         {
           "key": "technology",
@@ -853,7 +853,7 @@
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 4
+          "source_note_count": 5
         }
       ],
       "entities": [
@@ -886,6 +886,13 @@
           "episode_count": 4
         },
         {
+          "key": "XuePeng",
+          "title": "薛鹏 / Xue Peng",
+          "url": "/wiki/entities/xuepeng/",
+          "kind": "person",
+          "episode_count": 4
+        },
+        {
           "key": "QiuLian",
           "title": "邱连 / Qiu Lian",
           "url": "/wiki/entities/qiulian/",
@@ -905,20 +912,13 @@
           "url": "/wiki/entities/sunruoxi/",
           "kind": "person",
           "episode_count": 3
-        },
-        {
-          "key": "ZhangCongzhi",
-          "title": "张从志 / Zhang Congzhi",
-          "url": "/wiki/entities/zhangcongzhi/",
-          "kind": "person",
-          "episode_count": 3
         }
       ],
       "start_here_episode_files": [
         "EP281对话吴镇宇：困在创伤里的我们，决定重新找回自己 [lvvREaPOyKpJ5XtLRyAAupU1Xo7r].md",
         "EP284 与苗师傅漫谈里尔克：那些“灵性觉醒”的时刻 [lkKydMjftqA-FJhG2UAYm_8TEINQ].md",
         "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
-        "EP267 踏访湄公河：雨季、婚飞蚁与水利帝国 [lkq2VXaATn4wXUE7y5q1FC3_8yfk].md"
+        "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md"
       ]
     },
     "The Rest Is History": {

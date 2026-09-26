@@ -6379,6 +6379,29 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/ahnpanseok/"
     },
+    "AiJiangtao": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP264 踏访“唐诗之路”：盛唐气象少年心 [loo2DFuxFFIzPbL4Si5nWCIXnngi].md",
+          "key": "ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi",
+          "show": "Talk三联",
+          "title": "EP264 踏访“唐诗之路”：盛唐气象少年心",
+          "url": "/wiki/sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi/"
+        },
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/aijiangtao/"
+    },
     "AiboShengwu": {
       "episode_count": 1,
       "show_count": 1,
@@ -13568,6 +13591,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/baoshanyunnan/"
+    },
+    "BaoxieRoad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/baoxieroad/"
     },
     "Barbados": {
       "episode_count": 1,
@@ -75134,6 +75173,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/jinmamencourtliteraryaccess/"
     },
+    "JinniuRoad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/jinniuroad/"
+    },
     "JiuXiRitualPromotion": {
       "episode_count": 2,
       "show_count": 1,
@@ -83394,6 +83449,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/listeningbarculturalexport/"
+    },
+    "LitchiRoad": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/litchiroad/"
     },
     "LiteraryAdaptationTextureLoss": {
       "episode_count": 1,
@@ -119292,6 +119363,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/rivercorridorstrategicbase/"
     },
+    "RoadArchaeology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/roadarchaeology/"
+    },
     "RobbenIsland": {
       "episode_count": 1,
       "show_count": 1,
@@ -126604,6 +126691,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/shuguangshushouwesternhan/"
+    },
+    "ShuRoadNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/shuroadnetwork/"
     },
     "ShuboKhotanLateHan": {
       "episode_count": 1,
@@ -136959,6 +137062,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/terracottaarmy/"
+    },
+    "TerrainBoundTransportEvolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/terrainboundtransportevolution/"
     },
     "TerrainConstrainedCombinedArms": {
       "episode_count": 1,
@@ -153471,6 +153590,43 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/xuehuiwesternhan/"
     },
+    "XuePeng": {
+      "episode_count": 4,
+      "show_count": 1,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "EP263 线香崛起：发现中式香气的魅力 [lq1LsqCPrqYR7aUO5gslwYymuIv_].md",
+          "key": "ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv",
+          "show": "Talk三联",
+          "title": "EP263 线香崛起：发现中式香气的魅力",
+          "url": "/wiki/sources/ep263-xianxiang-jueqi-faxian-zhongshi-xiangqi-de-meili-lq1lsqcprqyr7auo5gslwyymuiv/"
+        },
+        {
+          "episode_file": "EP245 一年一度寻味之旅：今年去吃创意菜 [li9WtaVEmokccKiaLbBJ7uNpMqsZ].md",
+          "key": "ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz",
+          "show": "Talk三联",
+          "title": "EP245 一年一度寻味之旅：今年去吃创意菜",
+          "url": "/wiki/sources/ep245-yinian-yidu-xunwei-zhilv-jinnian-qu-chi-chuangyi-cai-li9wtavemokcckialbbj7unpmqsz/"
+        },
+        {
+          "episode_file": "EP238 2025年，你玩过怎样的“小众运动”？ [lpAW-keLa5vk6Avl_S11H_yexwLg].md",
+          "key": "ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg",
+          "show": "Talk三联",
+          "title": "EP238 2025年，你玩过怎样的“小众运动”？",
+          "url": "/wiki/sources/ep238-2025-nian-ni-wan-guo-zenyang-de-xiaozhong-yundong-lpaw-kela5vk6avl-s11h-yexwlg/"
+        },
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/xuepeng/"
+    },
     "XueXiaofan": {
       "episode_count": 4,
       "show_count": 1,
@@ -158940,6 +159096,36 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/zhangxianzhong/"
+    },
+    "ZhangXingyun": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "EP264 踏访“唐诗之路”：盛唐气象少年心 [loo2DFuxFFIzPbL4Si5nWCIXnngi].md",
+          "key": "ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi",
+          "show": "Talk三联",
+          "title": "EP264 踏访“唐诗之路”：盛唐气象少年心",
+          "url": "/wiki/sources/ep264-tafang-tangshi-zhilu-shengtang-qixiang-shaonianxin-loo2dfuxffizpbl4si5nwcixnngi/"
+        },
+        {
+          "episode_file": "EP246 让女生安心的约会小酒馆，什么样？ [lpD5zw9rYD3KPlMNAYwsOqOkvakm].md",
+          "key": "ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm",
+          "show": "Talk三联",
+          "title": "EP246 让女生安心的约会小酒馆，什么样？",
+          "url": "/wiki/sources/ep246-rang-nvsheng-anxin-de-yuehui-xiaojiuguan-shenme-yang-lpd5zw9ryd3kplmnaywsoqokvakm/"
+        },
+        {
+          "episode_file": "EP285 踏访古蜀道：敢问路在何方？ [li20SENVN3OELIoprOznNYkdAJvT].md",
+          "key": "ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt",
+          "show": "Talk三联",
+          "title": "EP285 踏访古蜀道：敢问路在何方？",
+          "url": "/wiki/sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/zhangxingyun/"
     },
     "ZhangXiu": {
       "episode_count": 6,

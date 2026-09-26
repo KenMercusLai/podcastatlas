@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 3176
+topic_total_pages: 3177
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4390,6 +4390,9 @@ topic_concepts:
   - key: "InfeasiblePublicWorksCancellation"
     title: "不可成工程止损 / Infeasible Public-Works Cancellation"
     url: "/wiki/concepts/infeasiblepublicworkscancellation/"
+  - key: "TerrainBoundTransportEvolution"
+    title: "交通技术与地形关系 / Terrain-Bound Transport Evolution"
+    url: "/wiki/concepts/terrainboundtransportevolution/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"

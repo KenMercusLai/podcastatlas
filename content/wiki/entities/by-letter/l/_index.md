@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10837
+wiki_total_pages: 10841
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "LuWeiScreenwriter"
     title: "芦苇 / Lu Wei"
     url: "/wiki/entities/luweiscreenwriter/"
+  - key: "LitchiRoad"
+    title: "荔枝道 / Litchi Road"
+    url: "/wiki/entities/litchiroad/"
   - key: "LidiyaSheCameFromMariupol"
     title: "莉蒂娅 / Lidiya"
     url: "/wiki/entities/lidiyashecamefrommariupol/"

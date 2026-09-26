@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8207
+wiki_total_pages: 8209
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"
+  - key: "TerrainBoundTransportEvolution"
+    title: "交通技术与地形关系 / Terrain-Bound Transport Evolution"
+    url: "/wiki/concepts/terrainboundtransportevolution/"
   - key: "TransitHubCommanderyControl"
     title: "交通枢纽郡控制 / Transit-Hub Commandery Control"
     url: "/wiki/concepts/transithubcommanderycontrol/"

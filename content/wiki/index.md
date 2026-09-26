@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP285 踏访古蜀道：敢问路在何方？](sources/ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnykdajvt.md) — Talk三联 episode with 薛鹏、艾江涛、张星云 on the Shu-road network, Jinniu/Baoxie/Litchi routes, road archaeology, transport technology, political geography, trade, and contested local heritage.
 - [What Magic & Mind Reading Reveal About the Brain | Asi Wind](sources/what-magic-mind-reading-reveal-about-the-brain-asi-wind-scim6818902310.md) — Huberman Lab conversation on magic as applied cognitive science, reconstructive memory, attentional design, audience connection, consent-based deception, and creative practice.
 - [434. Luther: The Revolution Begins (Part 2)](sources/434-luther-the-revolution-begins-part-2-glt4080973410.md) — The Rest Is History on Luther's monastic crisis, Wittenberg formation, indulgence finance, the Ninety-five Theses, and print-driven revolt.
 - [435. Luther: The Battle Against Satan (Part 3)](sources/435-luther-the-battle-against-satan-part-3-glt9360370091.md) — The Rest Is History on faith and grace, scriptural authority, political protection, Augsburg and Leipzig, and print-driven escalation before Worms.
@@ -2879,6 +2880,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [古蜀道网络 / Shu Road Network](entities/ShuRoadNetwork.md) — Changing Qinling-Daba route system linking northern political centers, Hanzhong, Ba-Shu, Chengdu, and the upper Yangtze.
+- [金牛道 / Jinniu Road](entities/JinniuRoad.md) — Long-lived Hanzhong-to-Chengdu trunk with layered Ming-Qing remains, rerouting, and modern transport overlays.
+- [褒斜道 / Baoxie Road](entities/BaoxieRoad.md) — Qinling trestle and cliff-road corridor shaped by state engineering, flood, war, repair, and strategic control.
+- [荔枝道 / Litchi Road](entities/LitchiRoad.md) — Evidence-poor Daba corridor joining court legend, disputed provenance, possible state purposes, and later salt trade.
 - [Asi Wind](entities/AsiWind.md) — Magician, mentalist, and painter connecting illusion craft to memory, attention, empathy, improvisation, and creativity.
 - [Johann von Staupitz](entities/JohannVonStaupitz.md) — Augustinian confessor who redirected Luther's spiritual crisis toward doctoral study and public theology.
 - [Johann Tetzel](entities/JohannTetzel.md) — Dominican indulgence preacher whose 1517 campaign became Luther's immediate public target.
@@ -13731,6 +13736,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [道路考古 / Road Archaeology](concepts/RoadArchaeology.md) — Reconstruction of vanished linear routes through documents, terrain, surface traces, bridges, geospatial tools, oral memory, and walking.
+- [交通技术与地形关系 / Terrain-Bound Transport Evolution](concepts/TerrainBoundTransportEvolution.md) — Shift from valley- and ridge-bound paths toward trestles, cliff roads, highways, viaducts, tunnels, and high-speed rail.
 - [Magic Attention-Memory Design](concepts/MagicAttentionMemoryDesign.md) — Use of framing, expectation, timing, tension, relaxation, and interruption to shape perception and later recall.
 - [Consent-Based Theatrical Deception](concepts/ConsentBasedTheatricalDeception.md) — Bounded performance agreement authorizing artistic illusion without extending permission to coercion, fraud, or exploitation.
 - [Indulgence Economy](concepts/IndulgenceEconomy.md) — System linking purgatorial relief and transferable merit to relics, preaching, payment, church finance, banking, and political office.

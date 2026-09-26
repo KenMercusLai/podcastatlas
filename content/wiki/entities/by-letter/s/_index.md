@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10837
+wiki_total_pages: 10841
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1865,6 +1865,9 @@ wiki_pages:
   - key: "ShuliangHe"
     title: "叔梁纥"
     url: "/wiki/entities/shulianghe/"
+  - key: "ShuRoadNetwork"
+    title: "古蜀道网络 / Shu Road Network"
+    url: "/wiki/entities/shuroadnetwork/"
   - key: "ShaoHu"
     title: "召忽 / Shao Hu"
     url: "/wiki/entities/shaohu/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2830
+topic_total_pages: 2828
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7283,9 +7283,6 @@ topic_entities:
   - key: "Zhiyanzhai"
     title: "脂砚斋 / Zhiyanzhai"
     url: "/wiki/entities/zhiyanzhai/"
-  - key: "AiJiangtao"
-    title: "艾江涛 / Ai Jiangtao"
-    url: "/wiki/entities/aijiangtao/"
   - key: "LuWeiScreenwriter"
     title: "芦苇 / Lu Wei"
     url: "/wiki/entities/luweiscreenwriter/"
@@ -7340,9 +7337,6 @@ topic_entities:
   - key: "XuePan"
     title: "薛蟠 / Xue Pan"
     url: "/wiki/entities/xuepan/"
-  - key: "XuePeng"
-    title: "薛鹏 / Xue Peng"
-    url: "/wiki/entities/xuepeng/"
   - key: "Hupu"
     title: "虎扑 / Hupu"
     url: "/wiki/entities/hupu/"

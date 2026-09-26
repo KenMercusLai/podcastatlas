@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 10837
+wiki_total_pages: 10841
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1490,6 +1490,9 @@ wiki_pages:
   - key: "JinMidiWesternHan"
     title: "金日磾 / Jin Midi (Western Han)"
     url: "/wiki/entities/jinmidiwesternhan/"
+  - key: "JinniuRoad"
+    title: "金牛道 / Jinniu Road"
+    url: "/wiki/entities/jinniuroad/"
   - key: "JunBuyiWesternHan"
     title: "隽不疑 / Jun Buyi (Western Han)"
     url: "/wiki/entities/junbuyiwesternhan/"

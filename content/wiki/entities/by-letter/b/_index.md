@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 10837
+wiki_total_pages: 10841
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1277,6 +1277,9 @@ wiki_pages:
   - key: "BaoSi"
     title: "褒姒 / Bao Si"
     url: "/wiki/entities/baosi/"
+  - key: "BaoxieRoad"
+    title: "褒斜道 / Baoxie Road"
+    url: "/wiki/entities/baoxieroad/"
   - key: "BernardGui"
     title: "贝尔纳 / Bernard Gui"
     url: "/wiki/entities/bernardgui/"
