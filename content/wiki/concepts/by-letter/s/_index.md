@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 8225
+wiki_total_pages: 8231
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "SlowProductMarketFit"
     title: "Slow Product Market Fit"
     url: "/wiki/concepts/slowproductmarketfit/"
+  - key: "SlowProductivity"
+    title: "Slow Productivity"
+    url: "/wiki/concepts/slowproductivity/"
   - key: "SlowRuralTourism"
     title: "Slow Rural Tourism / 慢速乡村旅游"
     url: "/wiki/concepts/slowruraltourism/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8225
+wiki_total_pages: 8231
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "DeepResearch"
     title: "Deep Research"
     url: "/wiki/concepts/deepresearch/"
+  - key: "DeepWorkPractice"
+    title: "Deep Work Practice"
+    url: "/wiki/concepts/deepworkpractice/"
   - key: "DeepTechProductFocus"
     title: "Deep-Tech Product Focus"
     url: "/wiki/concepts/deeptechproductfocus/"
@@ -617,6 +620,9 @@ wiki_pages:
   - key: "DigitalMemoryDefault"
     title: "Digital Memory Default / 数字记忆默认"
     url: "/wiki/concepts/digitalmemorydefault/"
+  - key: "DigitalMinimalism"
+    title: "Digital Minimalism"
+    url: "/wiki/concepts/digitalminimalism/"
   - key: "DigitalMusicLicensing"
     title: "Digital Music Licensing"
     url: "/wiki/concepts/digitalmusiclicensing/"

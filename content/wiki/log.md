@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-26] ingest | How to Enhance Focus and Improve Productivity | Dr. Cal Newport
+
+Added source `how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504`; created `CalNewport`, `DeepWorkPractice`, `SlowProductivity`, `PseudoProductivity`, `HyperactiveHiveMind`, `DigitalMinimalism`, and `MultiscaleProductivityPlanning`; and updated `TaskSwitchingResidue` and `WIPLimitPersonalProductivity` from their complete bounded source sets. Core synthesis: high-quality cognitive work depends on protected attention, calibrated practice, limited active commitments, multiscale planning, recovery, meaningful offline replacement, and explicit collaboration design rather than visible busyness or constant responsiveness. No settled contradiction found. Flow is distinguished from deliberate practice; device-induced distraction is not treated as clinical ADHD; and youth-access ages, concentration estimates, meeting-growth figures, and neuroscience explanations remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗
 
 Added source `vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj`; created `HospitalCapabilityPatientComplexityMatching` and `LungCancerMultimodalTreatment`; and updated `WangXingDoctor` and `PulmonaryNoduleSurveillance` from their complete bounded source sets. Core synthesis: a pulmonary nodule is an imaging finding whose meaning depends on morphology, location, change, patient context, and intervention cost; lung-cancer treatment is a sequenced multimodal path; and care settings should match disease complexity and whole-patient complexity rather than prestige alone. No settled contradiction found. Size, growth, probability, CT, stability, treatment-sequence, hospital-comparison, and survival claims remain source-scoped public education, while visible “detox” effects and spontaneous resolution do not prove treatment efficacy. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -22918,6 +22922,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 428. Titanic: Kings of the World (Part 2)
 
 Added source `428-titanic-kings-of-the-world-part-2-glt7773063166`; created `HarlandAndWolff` and `MaritimeSafetyCultureBeforeTitanic`; migrated and updated `JPMorgan` and `Belfast`; and updated `RMSTitanic`, `WhiteStarLine`, `ThomasAndrews`, `BruceIsmay`, `EdwardSmith`, `CharlesLightoller`, `TitanicPassengerSocialComplexity`, `MaritimeDisasterSafetyReform`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Titanic's serious contemporary engineering and inadequate evacuation capacity coexisted; confidence in compartment protection, regulation built around older assumptions, commercial deck tradeoffs, and the ship-as-refuge idea normalized too few lifeboats without proving the vessel was cheaply built. The episode also joins luxury to mass migration, crew labor, Belfast Home Rule politics, Southampton's rise, and chance at departure. No settled contradiction found. Comparative rankings, measurements, counts, prices, graffiti, dialogue, motives, labor conditions, and individual blame remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-26] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Enhance Focus and Improve Productivity | Dr. Cal Newport](sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504.md) — Huberman Lab interview on deep work, slow productivity, active recall, task switching, digital minimalism, pseudo-productivity, message-driven collaboration, and workload planning.
 - [VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗](sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj.md) — 这病说来话长 episode on pulmonary-nodule interpretation, surveillance and surgical tradeoffs, false detox attribution, multimodal lung-cancer care, hospital matching, and clinical trust.
 - [How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780.md) — Huberman Lab interview on retinal coding, living human-retina experiments, cell-type-aware vision restoration, neural-interface precision, augmentation, adult adaptation, and nonlinear career choice.
 - [428. Titanic: Kings of the World (Part 2)](sources/428-titanic-kings-of-the-world-part-2-glt7773063166.md) — The Rest Is History on Titanic's Belfast construction, comfort-over-speed strategy, compartment protection, lifeboat assumptions, crew labor, and Southampton departure.
@@ -2889,6 +2890,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [VOL.106胸外科｜王兴：病人家属问我怎么能够讨好医生｜胸闷、气胸、肺结节问题回答篇](sources/vol-106-xiongwaike-wangxing-bingren-jiashu-wen-wo-zenme-nenggou-taohao-yisheng-lrjqaw3ovznk0zn4-jfj3f2xyvzi.md) — 这病说来话长 listener Q&A on pulmonary-nodule surveillance, chest-symptom attribution, postoperative pain, chest-wall deformity, pneumothorax recurrence, and medical-care boundaries.
 
 ## Entities
+- [Cal Newport](entities/CalNewport.md) — computer science professor and author connecting attention design, deep work, digital minimalism, and sustainable knowledge-work systems.
 - [John Jacob Astor IV](entities/JohnJacobAstor.md) — Gilded Age millionaire connecting Titanic's first class to New York wealth and luxury hospitality.
 - [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, sensationalist, and spiritualist aboard Titanic.
 - [Joseph Laroche](entities/JosephLaroche.md) — Haitian engineer whose family widened Titanic's second-class and migration story.
@@ -13761,6 +13763,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Deep Work Practice](concepts/DeepWorkPractice.md) — protected and trained attention for cognitively demanding learning and valuable output.
+- [Slow Productivity](concepts/SlowProductivity.md) — longer-horizon knowledge-work philosophy built on fewer simultaneous commitments, variable pace, and recovery.
+- [Pseudo-Productivity](concepts/PseudoProductivity.md) — visible activity used as a proxy for valuable output when knowledge work lacks clear production measures.
+- [Hyperactive Hive Mind](concepts/HyperactiveHiveMind.md) — collaboration pattern where unscheduled messages and meetings become the default workflow.
+- [Digital Minimalism](concepts/DigitalMinimalism.md) — deliberate digital-tool selection paired with boundaries, boredom tolerance, and meaningful offline replacements.
+- [Multiscale Productivity Planning](concepts/MultiscaleProductivityPlanning.md) — coordination of seasonal, weekly, daily, time-blocked, and shutdown planning layers.
 - [Titanic Passenger Social Complexity](concepts/TitanicPassengerSocialComplexity.md) — Framework restoring the internally diverse first- and second-class passenger society obscured by binary retellings.
 - [Maritime Safety Culture Before Titanic](concepts/MaritimeSafetyCultureBeforeTitanic.md) — Framework explaining how advanced compartment design coexisted with inadequate full-ship evacuation capacity.
 - [Hospital Capability–Patient Complexity Matching / 医院能力与患者复杂度匹配](concepts/HospitalCapabilityPatientComplexityMatching.md) — Hospital selection by disease complexity, whole-patient risk, institutional capability, access, continuity, and trust.

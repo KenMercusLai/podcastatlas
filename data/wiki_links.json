@@ -11175,6 +11175,10 @@
     "title": "CalDOGE",
     "url": "/wiki/entities/caldoge/"
   },
+  "CalNewport": {
+    "title": "Cal Newport",
+    "url": "/wiki/entities/calnewport/"
+  },
   "CalculatedPublics": {
     "title": "Calculated Publics / 计算出的公众",
     "url": "/wiki/concepts/calculatedpublics/"
@@ -18563,6 +18567,10 @@
     "title": "Deep-Time Mental Prosthesis",
     "url": "/wiki/concepts/deeptimementalprosthesis/"
   },
+  "DeepWorkPractice": {
+    "title": "Deep Work Practice",
+    "url": "/wiki/concepts/deepworkpractice/"
+  },
   "DeepZ": {
     "title": "DeepZ",
     "url": "/wiki/entities/deepz/"
@@ -19318,6 +19326,10 @@
   "DigitalMemoryDefault": {
     "title": "Digital Memory Default / 数字记忆默认",
     "url": "/wiki/concepts/digitalmemorydefault/"
+  },
+  "DigitalMinimalism": {
+    "title": "Digital Minimalism",
+    "url": "/wiki/concepts/digitalminimalism/"
   },
   "DigitalMusicLicensing": {
     "title": "Digital Music Licensing",
@@ -32926,6 +32938,10 @@
   "HyperAgent": {
     "title": "Hyper Agent",
     "url": "/wiki/entities/hyperagent/"
+  },
+  "HyperactiveHiveMind": {
+    "title": "Hyperactive Hive Mind",
+    "url": "/wiki/concepts/hyperactivehivemind/"
   },
   "Hyperfixed": {
     "title": "Hyperfixed",
@@ -46859,6 +46875,10 @@
     "title": "Multiple Exchange Rate Regime",
     "url": "/wiki/concepts/multipleexchangerateregime/"
   },
+  "MultiscaleProductivityPlanning": {
+    "title": "Multiscale Productivity Planning",
+    "url": "/wiki/concepts/multiscaleproductivityplanning/"
+  },
   "MultisensoryBeverageExperience": {
     "title": "Multisensory Beverage Experience / 多感官饮品体验",
     "url": "/wiki/concepts/multisensorybeverageexperience/"
@@ -54246,6 +54266,10 @@
   "PseudoIndependentWomenNarrative": {
     "title": "Pseudo-Independent Women Narrative / 伪独立女性叙事",
     "url": "/wiki/concepts/pseudoindependentwomennarrative/"
+  },
+  "PseudoProductivity": {
+    "title": "Pseudo-Productivity",
+    "url": "/wiki/concepts/pseudoproductivity/"
   },
   "PseudoscienceFraudVulnerability": {
     "title": "Pseudoscience Fraud Vulnerability",
@@ -61790,6 +61814,10 @@
   "SlowProductMarketFit": {
     "title": "Slow Product Market Fit",
     "url": "/wiki/concepts/slowproductmarketfit/"
+  },
+  "SlowProductivity": {
+    "title": "Slow Productivity",
+    "url": "/wiki/concepts/slowproductivity/"
   },
   "SlowRuralTourism": {
     "title": "Slow Rural Tourism / 慢速乡村旅游",
@@ -80386,6 +80414,10 @@
   "how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828": {
     "title": "How to Deal With High Conflict People | Bill Eddy",
     "url": "/wiki/sources/how-to-deal-with-high-conflict-people-bill-eddy-scim8877999828/"
+  },
+  "how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504": {
+    "title": "How to Enhance Focus and Improve Productivity | Dr. Cal Newport",
+    "url": "/wiki/sources/how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504/"
   },
   "how-to-enhance-your-immune-system-dr-roger-seheult-scim4509990462": {
     "title": "How to Enhance Your Immune System | Dr. Roger Seheult",

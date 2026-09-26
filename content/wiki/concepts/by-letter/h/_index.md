@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 8225
+wiki_total_pages: 8231
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "HydropowerConcentrationRisk"
     title: "Hydropower Concentration Risk"
     url: "/wiki/concepts/hydropowerconcentrationrisk/"
+  - key: "HyperactiveHiveMind"
+    title: "Hyperactive Hive Mind"
+    url: "/wiki/concepts/hyperactivehivemind/"
   - key: "HyperscaleDataCenterMoratorium"
     title: "Hyperscale Data Center Moratorium"
     url: "/wiki/concepts/hyperscaledatacentermoratorium/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8225
+wiki_total_pages: 8231
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1271,6 +1271,9 @@ wiki_pages:
   - key: "MultipleExchangeRateRegime"
     title: "Multiple Exchange Rate Regime"
     url: "/wiki/concepts/multipleexchangerateregime/"
+  - key: "MultiscaleProductivityPlanning"
+    title: "Multiscale Productivity Planning"
+    url: "/wiki/concepts/multiscaleproductivityplanning/"
   - key: "MultisensoryBeverageExperience"
     title: "Multisensory Beverage Experience / 多感官饮品体验"
     url: "/wiki/concepts/multisensorybeverageexperience/"
