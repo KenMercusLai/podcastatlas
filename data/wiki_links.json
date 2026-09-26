@@ -1091,6 +1091,10 @@
     "title": "42.安多：风起于青萍之末",
     "url": "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
   },
+  "427-titanic-the-tragedy-begins-part-1-glt3124111041": {
+    "title": "427. Titanic: The Tragedy Begins (Part 1)",
+    "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
+  },
   "428-titanic-kings-of-the-world-part-2-glt7773063166": {
     "title": "428. Titanic: Kings of the World (Part 2)",
     "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
@@ -17222,6 +17226,10 @@
   "CunHan": {
     "title": "《存韩》 / Cun Han",
     "url": "/wiki/entities/cunhan/"
+  },
+  "CunardLine": {
+    "title": "Cunard Line",
+    "url": "/wiki/entities/cunardline/"
   },
   "CupWineDisarmsGenerals": {
     "title": "杯酒释兵权 / Cup of Wine Disarms Generals",
@@ -34322,6 +34330,10 @@
   "InternationalMaritimeOrganization": {
     "title": "International Maritime Organization",
     "url": "/wiki/entities/internationalmaritimeorganization/"
+  },
+  "InternationalMercantileMarine": {
+    "title": "International Mercantile Marine",
+    "url": "/wiki/entities/internationalmercantilemarine/"
   },
   "InternationalMonetaryFund": {
     "title": "International Monetary Fund",
@@ -66995,6 +67007,10 @@
     "title": "Thomas Hutchinson",
     "url": "/wiki/entities/thomashutchinson/"
   },
+  "ThomasIsmay": {
+    "title": "Thomas Ismay",
+    "url": "/wiki/entities/thomasismay/"
+  },
   "ThomasJWatson": {
     "title": "Thomas J. Watson / 托马斯·沃森",
     "url": "/wiki/entities/thomasjwatson/"
@@ -68062,6 +68078,10 @@
   "TransatlanticBurdenShifting": {
     "title": "Transatlantic Burden Shifting",
     "url": "/wiki/concepts/transatlanticburdenshifting/"
+  },
+  "TransatlanticLinerPrestigeCompetition": {
+    "title": "Transatlantic Liner Prestige Competition",
+    "url": "/wiki/concepts/transatlanticlinerprestigecompetition/"
   },
   "TransatlanticMigrantPassage": {
     "title": "Transatlantic Migrant Passage",
@@ -72310,6 +72330,10 @@
   "WilliamPeterBlatty": {
     "title": "William Peter Blatty",
     "url": "/wiki/entities/williampeterblatty/"
+  },
+  "WilliamPirrie": {
+    "title": "William Pirrie",
+    "url": "/wiki/entities/williampirrie/"
   },
   "WilliamRandolphLovelace": {
     "title": "William Randolph Lovelace",

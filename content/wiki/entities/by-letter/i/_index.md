@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 10858
+wiki_total_pages: 10862
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "InternationalMaritimeOrganization"
     title: "International Maritime Organization"
     url: "/wiki/entities/internationalmaritimeorganization/"
+  - key: "InternationalMercantileMarine"
+    title: "International Mercantile Marine"
+    url: "/wiki/entities/internationalmercantilemarine/"
   - key: "InternationalMonetaryFund"
     title: "International Monetary Fund"
     url: "/wiki/entities/internationalmonetaryfund/"

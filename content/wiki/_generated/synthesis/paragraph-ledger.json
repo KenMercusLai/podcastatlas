@@ -730,14 +730,15 @@
       "7d29e080e1fbfaacb253d9d31189c20c16c51ffc72d0e011d4ec7a1797d23729",
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
       "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc",
+      "be97331b4fe91182d6fc3fa934473f4c23b5899f00b06f785aca5aa6d31e921f",
       "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d",
       "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0",
       "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0"
     ],
-    "paragraph_count": 732
+    "paragraph_count": 733
   },
-  "overview_commit": "c481917edb9bf76a4af01bce68c38f4021340b9f",
-  "overview_digest": "fe5f56a0695a467b70a440329e0ec1636871cd016652482b4b566b933e72d14a",
+  "overview_commit": "a2b76d5e50825d3fd87cafe79e396e8d13b32484",
+  "overview_digest": "7dae06b9da86e67da665742a43fc97a91d960df3c0e137ce9f7695eac726469f",
   "paragraphs": [
     {
       "id": "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
@@ -21624,6 +21625,35 @@
         "PurposeIntegratedMotivation",
         "ThreatChallengeStressReappraisal",
         "how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639"
+      ]
+    },
+    {
+      "id": "be97331b4fe91182d6fc3fa934473f4c23b5899f00b06f785aca5aa6d31e921f",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest Titanic-series addition is [[427-titanic-the-tragedy-begins-part-1-glt3124111041|427. Titanic: The Tragedy Begins (Part 1)]], a [[TheRestIsHistory]] episode reconstructing the financial, commercial, national, industrial, and political conditions that produced [[RMSTitanic|RMS Titanic]]. It adds [[WilliamPirrie]], [[ThomasIsmay]], [[InternationalMercantileMarine]], [[CunardLine]], and [[TransatlanticLinerPrestigeCompetition]], while extending [[JPMorgan|J. P. Morgan]], [[BruceIsmay]], [[WhiteStarLine]], [[HarlandAndWolff]], and [[Belfast]]. Its core synthesis is that Titanic emerged from interacting systems rather than one isolated act of hubris: Morgan's shipping consolidation, British state support for Cunard, German speed and luxury advances, White Star's hotel-like service model, migration economics, and Pirrie's Belfast shipbuilding capacity together produced the Olympic-class response. The same Belfast industrial order joined world-leading output to Home Rule conflict, sectarian exclusion, Orange influence, class hierarchy, and workplace violence. No settled contradiction is recorded; valuations, travel-time comparisons, workforce totals, political motives, the contested furnace story, and broad character judgments remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "business-and-markets": 1,
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+        "Belfast",
+        "BruceIsmay",
+        "CunardLine",
+        "HarlandAndWolff",
+        "InternationalMercantileMarine",
+        "JPMorgan",
+        "RMSTitanic",
+        "TheRestIsHistory",
+        "ThomasIsmay",
+        "TransatlanticLinerPrestigeCompetition",
+        "WhiteStarLine",
+        "WilliamPirrie"
       ]
     },
     {

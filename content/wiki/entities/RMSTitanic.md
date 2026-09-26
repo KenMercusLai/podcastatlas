@@ -8,6 +8,7 @@ sources:
   - 430-titanic-the-iceberg-strikes-part-4-glt2129072034
   - 429-titanic-countdown-to-disaster-part-3-glt1273657377
   - 428-titanic-kings-of-the-world-part-2-glt7773063166
+  - 427-titanic-the-tragedy-begins-part-1-glt3124111041
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -16,15 +17,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-RMS Titanic was the passenger liner whose construction, design, passenger society, iceberg collision, sinking, evacuation, rescue aftermath, inquiries, and cultural afterlife are examined across Parts 2-6 of The Rest Is History's Titanic sequence.
+RMS Titanic was the passenger liner whose competitive origins, construction, passenger society, iceberg collision, sinking, evacuation, aftermath, and cultural afterlife are examined across The Rest Is History's six-part Titanic sequence.
 
 ## Current Profile
 
-The five episodes present Titanic as six connected historical objects: an industrial engineering project, a layered [[TitanicPassengerSocialComplexity|passenger society]], a class-ordered [[TransatlanticMigrantPassage|migrant passage]], a warning and collision failure, an evacuation and mass-casualty disaster, and a cultural story made to carry meanings about gender, class, nation, technology, capitalism, hubris, and chance. [[HarlandAndWolff]] and [[ThomasAndrews]] built a large, comfortable liner with strong contemporary compartment protection, but [[MaritimeSafetyCultureBeforeTitanic|prevailing safety culture]] left lifeboat capacity far below everyone aboard and could not contain damage beyond the intended flooding envelope. Before impact, millionaires, journalists, entrepreneurs, servants, workers, professionals, and transnational families inhabited markedly different but internally diverse classes within a branded floating hotel. [[MaritimeWarningFragmentation|Fragmented ice warnings]], mixed wireless traffic, accepted speed practice, and an exceptionally calm sea then prevented available information from becoming effective avoidance. After impact, Andrews's damage assessment, [[EdwardSmith]]'s ambiguous priority order, and the contrasting practices of [[WilliamMurdoch]] and [[CharlesLightoller]] show how design limits, incomplete belief, and local judgment shaped the final hours. [[RMSCarpathia|Carpathia]]'s rescue and the inquiries ground the aftermath materially, while [[BruceIsmay]], [[MasabumiHosono]], bereaved families, and film retellings show how moral memory compressed technical causes and varied lives into simpler characters.
+The six episodes present Titanic as seven connected historical objects: a product of [[TransatlanticLinerPrestigeCompetition|financial and national liner rivalry]], an industrial engineering project, a layered [[TitanicPassengerSocialComplexity|passenger society]], a class-ordered [[TransatlanticMigrantPassage|migrant passage]], a warning and collision failure, an evacuation and mass-casualty disaster, and a cultural story made to carry meanings about gender, class, nation, technology, capitalism, hubris, and chance. [[JPMorgan|J. P. Morgan]]'s combine, state-backed [[CunardLine]], German competition, [[WhiteStarLine]]'s luxury strategy, and [[WilliamPirrie]]'s Belfast shipbuilding capacity created the commercial setting. [[HarlandAndWolff]] and [[ThomasAndrews]] then built a large, comfortable liner with strong contemporary compartment protection, but [[MaritimeSafetyCultureBeforeTitanic|prevailing safety culture]] left lifeboat capacity far below everyone aboard and could not contain damage beyond the intended flooding envelope. Before impact, millionaires, journalists, entrepreneurs, servants, workers, professionals, and transnational families inhabited markedly different but internally diverse classes within a branded floating hotel. [[MaritimeWarningFragmentation|Fragmented ice warnings]], mixed wireless traffic, accepted speed practice, and an exceptionally calm sea then prevented available information from becoming effective avoidance. After impact, Andrews's damage assessment, [[EdwardSmith]]'s ambiguous priority order, and the contrasting practices of [[WilliamMurdoch]] and [[CharlesLightoller]] show how design limits, incomplete belief, and local judgment shaped the final hours. [[RMSCarpathia|Carpathia]]'s rescue and the inquiries ground the aftermath materially, while [[BruceIsmay]], [[MasabumiHosono]], bereaved families, and film retellings show how moral memory compressed technical causes and varied lives into simpler characters.
 
 ## Key Characteristics
 
-- Passenger liner whose first, second, and third classes formed a socially and nationally diverse but materially unequal passenger society.
+- Product of financial consolidation, international shipping competition, luxury strategy, and Belfast industrial capacity whose three passenger classes formed a diverse but materially unequal society.
 - Belfast-built engineering project designed for scale, comfort, steadiness, and exceptional contemporary damage tolerance rather than speed leadership.
 - Ship lost after fragmented ice warnings, continued speed, poor visual conditions, and a glancing iceberg collision converged on 14-15 April 1912.
 - Disaster with disputed official death totals above 1,500 and especially heavy crew losses.
@@ -34,6 +35,7 @@ The five episodes present Titanic as six connected historical objects: an indust
 
 ## Evidence
 
+- Competitive origins: [[427-titanic-the-tragedy-begins-part-1-glt3124111041]] connects Morgan's shipping combine, Cunard and German competition, White Star's hotel strategy, and Pirrie's Belfast shipyard to the Olympic-class program.
 - Construction and design: [[428-titanic-kings-of-the-world-part-2-glt7773063166]] describes the builder, design strategy, double bottom, sixteen compartments, launch, fitting out, and sea trials.
 - Pre-disaster safety culture: [[428-titanic-kings-of-the-world-part-2-glt7773063166]] joins advanced compartment protection to insufficient lifeboats, legal minimums, deck-use tradeoffs, and a ship-as-refuge assumption.
 - Passenger social world: [[429-titanic-countdown-to-disaster-part-3-glt1273657377]] reconstructs first-class wealth and commerce, second-class occupations and migration, luxury amenities, and class barriers.
@@ -47,20 +49,22 @@ The five episodes present Titanic as six connected historical objects: an indust
 
 ## Qualifications
 
-This profile is bounded to five retrospective podcast episodes rather than shipyard records, passenger manifests, company archives, or technical inquiry records. Design specifications, comparative safety, passenger totals, wealth, relationships, migration motives, barrier rules, warning transmission, collision mechanics, damage, timings, boat occupancy, casualty totals, class mechanisms, individual motives, reported stories, and metaphorical readings remain disputed or source-scoped. Serious contemporary engineering does not negate the inadequate evacuation provision exposed by the sinking, and social complexity and comparative comfort before the collision do not negate material hierarchy or unequal emergency access afterward.
+This profile is bounded to six retrospective podcast episodes rather than shipyard records, company accounts, passenger manifests, or technical inquiry records. Corporate valuations, strategic motives, design specifications, comparative safety, passenger totals, wealth, relationships, migration motives, barrier rules, warning transmission, collision mechanics, damage, timings, boat occupancy, casualty totals, class mechanisms, individual motives, reported stories, and metaphorical readings remain disputed or source-scoped. Competitive ambition does not make the disaster inevitable; serious contemporary engineering does not negate inadequate evacuation provision, and comparative comfort before the collision does not negate material hierarchy or unequal emergency access afterward.
 
 ## What Changed
 
-- Added Titanic's Belfast construction, comfort-over-speed strategy, compartment protection, design limit, and pre-disaster lifeboat assumptions.
-- Added the internally diverse first- and second-class passenger world, floating-hotel environment, and regulatory as well as social basis of class barriers.
-- Added the third-class migrant world and the pre-collision chain linking fragmented warnings, normal speed practice, environmental visibility, and bridge response.
-- Added the collision-to-plunge sequence, including progressive flooding, evacuation delay, ambiguous command, underfilled boats, and exposure deaths.
-- Qualified simple class-cruelty and individual-cowardice stories without denying unequal access.
+- Added Titanic's origins in financial consolidation, state strategy, international liner rivalry, and Belfast industrial politics.
+- Added Belfast construction, comfort-over-speed strategy, compartment protection, design limits, and pre-disaster lifeboat assumptions.
+- Added the internally diverse passenger and migrant world, floating-hotel environment, and social as well as regulatory class barriers.
+- Added the warning-to-collision chain, progressive flooding, evacuation ambiguity, unequal access, final plunge, and exposure deaths.
+- Integrated rescue, inquiry, reform, survivor stigma, and cultural memory while qualifying simple class-cruelty and cowardice stories.
 
 ## Relationships
 
 - [[RMSCarpathia]] - rescue ship that received Titanic's survivors.
 - [[WhiteStarLine]] - operator that marketed passage and structured third-class travel.
+- [[TransatlanticLinerPrestigeCompetition]] - financial, national, and commercial system that produced the Olympic-class program.
+- [[WilliamPirrie]] - shipbuilder who connected the project to Belfast's industrial capacity.
 - [[HarlandAndWolff]] - Belfast shipbuilder that designed and constructed the vessel.
 - [[MaritimeSafetyCultureBeforeTitanic]] - framework joining advanced design to inadequate evacuation assumptions.
 - [[TitanicPassengerSocialComplexity]] - framework for the ship's layered first- and second-class passenger world.

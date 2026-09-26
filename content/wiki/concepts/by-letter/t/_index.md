@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8231
+wiki_total_pages: 8232
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "TransatlanticBurdenShifting"
     title: "Transatlantic Burden Shifting"
     url: "/wiki/concepts/transatlanticburdenshifting/"
+  - key: "TransatlanticLinerPrestigeCompetition"
+    title: "Transatlantic Liner Prestige Competition"
+    url: "/wiki/concepts/transatlanticlinerprestigecompetition/"
   - key: "TransatlanticMigrantPassage"
     title: "Transatlantic Migrant Passage"
     url: "/wiki/concepts/transatlanticmigrantpassage/"

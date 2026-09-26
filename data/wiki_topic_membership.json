@@ -1665,6 +1665,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "427-titanic-the-tragedy-begins-part-1-glt3124111041": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "428-titanic-kings-of-the-world-part-2-glt7773063166": [
     {
       "key": "history",
@@ -38786,6 +38793,13 @@
       "url": "/topics/science/"
     }
   ],
+  "InternationalMercantileMarine": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "InternationalMonetaryFund": [
     {
       "key": "economics",
@@ -72780,6 +72794,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ThomasIsmay": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ThomasJWatson": [
     {
       "key": "economics",
@@ -78362,6 +78383,13 @@
     }
   ],
   "WilliamPeterBlatty": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "WilliamPirrie": [
     {
       "key": "politics",
       "label": "Politics",

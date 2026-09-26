@@ -22930,3 +22930,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 427. Titanic: The Tragedy Begins (Part 1)
+
+Added source `427-titanic-the-tragedy-begins-part-1-glt3124111041`; created `WilliamPirrie`, `ThomasIsmay`, `InternationalMercantileMarine`, `CunardLine`, and `TransatlanticLinerPrestigeCompetition`; and updated `RMSTitanic`, `Belfast`, `JPMorgan`, `BruceIsmay`, `HarlandAndWolff`, `WhiteStarLine`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Titanic emerged from financial consolidation, state-backed and international liner rivalry, White Star's hotel-like luxury strategy, mass passenger economics, and Belfast's shipbuilding capacity; the same industrial setting contained sharp Home Rule, sectarian, Orange, class, and workplace tensions. No settled contradiction found. Valuations, travel-time comparisons, workforce totals, political motives, the contested furnace story, and broad character judgments remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

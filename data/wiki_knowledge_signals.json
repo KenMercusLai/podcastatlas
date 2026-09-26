@@ -14563,9 +14563,9 @@
       "url": "/wiki/entities/beijingandinghospital/"
     },
     "Belfast": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -14587,6 +14587,13 @@
           "show": "The Rest Is History",
           "title": "428. Titanic: Kings of the World (Part 2)",
           "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        },
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
         }
       ],
       "updated": "2026-09-26",
@@ -17476,9 +17483,9 @@
       "url": "/wiki/entities/broadcom/"
     },
     "BruceIsmay": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -17507,6 +17514,13 @@
           "show": "The Rest Is History",
           "title": "428. Titanic: Kings of the World (Part 2)",
           "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        },
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
         }
       ],
       "updated": "2026-09-26",
@@ -31627,6 +31641,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/concepts/cumulativerivervalleydevelopmentrisk/"
+    },
+    "CunardLine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/cunardline/"
     },
     "CuriosityDrivenMemoryEncoding": {
       "episode_count": 1,
@@ -62413,9 +62443,9 @@
       "url": "/wiki/entities/harfleur/"
     },
     "HarlandAndWolff": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7773063166 [GLT7773063166].md",
@@ -62423,6 +62453,13 @@
           "show": "The Rest Is History",
           "title": "428. Titanic: Kings of the World (Part 2)",
           "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        },
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
         }
       ],
       "updated": "2026-09-26",
@@ -71829,6 +71866,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/internationalairtransportassociation/"
     },
+    "InternationalMercantileMarine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/internationalmercantilemarine/"
+    },
     "InternationalMonetaryFund": {
       "episode_count": 2,
       "show_count": 2,
@@ -73158,9 +73211,9 @@
       "url": "/wiki/entities/jlaustin/"
     },
     "JPMorgan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话 [lr0fb5YFiWoXaamdwjJgH4RjEPrG].md",
@@ -73175,6 +73228,13 @@
           "show": "The Rest Is History",
           "title": "428. Titanic: Kings of the World (Part 2)",
           "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        },
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
         }
       ],
       "updated": "2026-09-26",
@@ -115684,9 +115744,9 @@
       "url": "/wiki/entities/rmslusitania/"
     },
     "RMSTitanic": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -115722,6 +115782,13 @@
           "show": "The Rest Is History",
           "title": "428. Titanic: Kings of the World (Part 2)",
           "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        },
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
         }
       ],
       "updated": "2026-09-26",
@@ -139139,6 +139206,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/thomashutchinson/"
     },
+    "ThomasIsmay": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/thomasismay/"
+    },
     "ThomasJefferson": {
       "episode_count": 1,
       "show_count": 1,
@@ -140986,6 +141069,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/transatlanticburdenshifting/"
+    },
+    "TransatlanticLinerPrestigeCompetition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/transatlanticlinerprestigecompetition/"
     },
     "TransatlanticMigrantPassage": {
       "episode_count": 2,
@@ -149308,9 +149407,9 @@
       "url": "/wiki/entities/whiteshipdisaster/"
     },
     "WhiteStarLine": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2129072034 [GLT2129072034].md",
@@ -149332,6 +149431,13 @@
           "show": "The Rest Is History",
           "title": "428. Titanic: Kings of the World (Part 2)",
           "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        },
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
         }
       ],
       "updated": "2026-09-26",
@@ -149728,6 +149834,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/williamoforange/"
+    },
+    "WilliamPirrie": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3124111041 [GLT3124111041].md",
+          "key": "427-titanic-the-tragedy-begins-part-1-glt3124111041",
+          "show": "The Rest Is History",
+          "title": "427. Titanic: The Tragedy Begins (Part 1)",
+          "url": "/wiki/sources/427-titanic-the-tragedy-begins-part-1-glt3124111041/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/williampirrie/"
     },
     "WilliamShakespeare": {
       "episode_count": 4,

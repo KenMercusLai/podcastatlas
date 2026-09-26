@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2097
+topic_total_pages: 2099
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4022,6 +4022,9 @@ topic_entities:
   - key: "Instalab"
     title: "Instalab"
     url: "/wiki/entities/instalab/"
+  - key: "InternationalMercantileMarine"
+    title: "International Mercantile Marine"
+    url: "/wiki/entities/internationalmercantilemarine/"
   - key: "InternationalMonetaryFund"
     title: "International Monetary Fund"
     url: "/wiki/entities/internationalmonetaryfund/"
@@ -4931,6 +4934,9 @@ topic_entities:
   - key: "ThomaBravo"
     title: "Thoma Bravo"
     url: "/wiki/entities/thomabravo/"
+  - key: "ThomasIsmay"
+    title: "Thomas Ismay"
+    url: "/wiki/entities/thomasismay/"
   - key: "ThomasJWatson"
     title: "Thomas J. Watson / 托马斯·沃森"
     url: "/wiki/entities/thomasjwatson/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2711
+topic_total_pages: 2712
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -6626,6 +6626,9 @@ topic_entities:
   - key: "WilliamPeterBlatty"
     title: "William Peter Blatty"
     url: "/wiki/entities/williampeterblatty/"
+  - key: "WilliamPirrie"
+    title: "William Pirrie"
+    url: "/wiki/entities/williampirrie/"
   - key: "WillieWhitelaw"
     title: "Willie Whitelaw"
     url: "/wiki/entities/williewhitelaw/"
