@@ -1665,6 +1665,23 @@
       "url": "/topics/politics/"
     }
   ],
+  "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631": [
     {
       "key": "history",
@@ -14136,6 +14153,18 @@
     }
   ],
   "Britain1976IMFCrisis": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "BritishDeindustrialization1970s": [
     {
       "key": "economics",
       "label": "Economics",
@@ -52790,6 +52819,13 @@
     }
   ],
   "OctavianAugustus": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "October1974UKGeneralElection": [
     {
       "key": "politics",
       "label": "Politics",

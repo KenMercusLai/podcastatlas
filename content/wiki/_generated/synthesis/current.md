@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-27
-as_of_overview_commit: 1b971f6d3d194dd769a488b9f007c9ccf6e3b8c8
+as_of_overview_commit: efe16fbaf7bac4ff100b3d9cea9deff2807c026e
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound systems."
-episode_count: 2880
-source_count: 2880
-paragraph_count: 739
+episode_count: 2882
+source_count: 2882
+paragraph_count: 740
 topic_count: 9
 ---
 
@@ -82,7 +82,7 @@ Health and science literacy require mechanisms, objective measurement, network a
 
 ### Work, Education, and Society
 
-Work and education depend on role clarity, active learning, trustworthy feedback, fair conditions, skilled labor, social support, and contextual self-management boundaries.
+Work, education, and care systems function best when roles, incentives, trust, practical routines, evidence, and support make responsibility and learning usable.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

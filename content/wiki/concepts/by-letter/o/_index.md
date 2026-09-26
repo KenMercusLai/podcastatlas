@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 8268
+wiki_total_pages: 8271
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "OceanicVoyageAttrition"
     title: "Oceanic Voyage Attrition"
     url: "/wiki/concepts/oceanicvoyageattrition/"
+  - key: "October1974UKGeneralElection"
+    title: "October 1974 UK General Election"
+    url: "/wiki/concepts/october1974ukgeneralelection/"
   - key: "OddsDrivenStartupNarrative"
     title: "Odds-Driven Startup Narrative / 优化赔率"
     url: "/wiki/concepts/oddsdrivenstartupnarrative/"

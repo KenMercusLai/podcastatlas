@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
       "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
       "83047354e3fa22c2f2d2f929ac8ba1a39ba99862f6ef55ba725edcfbb26b5c32",
       "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
@@ -741,11 +742,37 @@
       "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc",
       "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d"
     ],
-    "paragraph_count": 739
+    "paragraph_count": 740
   },
-  "overview_commit": "53925b3e1a73fb9a454241d2fb830c2688c39f02",
-  "overview_digest": "d04056bf49ad69f07499ad556f8df865b37360f625e48843cb3e8c9a3313a2d5",
+  "overview_commit": "efe16fbaf7bac4ff100b3d9cea9deff2807c026e",
+  "overview_digest": "a04a171ff98d98158857fe6b957bcd73d1df991b27fa4e9cda410be2036d9e1e",
   "paragraphs": [
+    {
+      "id": "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515|420. Britain in 1974: Thatcher Enters the Ring (Part 4)]], a [[TheRestIsHistory]] episode connecting the Guildford and Birmingham pub bombings, miscarriages of justice, the [[October1974UKGeneralElection|October 1974 election]], [[BritishDeindustrialization1970s|structural industrial decline]], and the opening of the Conservative leadership challenge. It adds [[October1974UKGeneralElection]], [[TerrorismPressureWrongfulConviction]], and [[BritishDeindustrialization1970s]], while extending [[HaroldWilson]], [[EdwardHeath]], [[MargaretThatcher]], [[TonyBenn]], [[KeithJoseph]], [[ConservativeLeadershipElection1975]], and [[Britain1976IMFCrisis]]. Its core synthesis is that Labour won office without gaining command of the crisis: Wilson's quiet-life management postponed difficult economic choices, Benn offered state planning and protection, Heath's second 1974 defeat made his leadership untenable, and Joseph's withdrawal let Thatcher step forward. No settled contradiction is recorded; the episode qualifies later Thatcher mythology through her 1974 mortgage-rate cap, while national mood, economic causality, and identification of bombers remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+        "Britain1976IMFCrisis",
+        "BritishDeindustrialization1970s",
+        "ConservativeLeadershipElection1975",
+        "EdwardHeath",
+        "HaroldWilson",
+        "KeithJoseph",
+        "MargaretThatcher",
+        "October1974UKGeneralElection",
+        "TerrorismPressureWrongfulConviction",
+        "TheRestIsHistory",
+        "TonyBenn"
+      ]
+    },
     {
       "id": "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
       "primary_topic": "history-and-geopolitics",

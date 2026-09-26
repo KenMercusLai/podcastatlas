@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2712
+topic_total_pages: 2715
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -472,6 +472,9 @@ topic_concepts:
   - key: "Britain1976IMFCrisis"
     title: "Britain 1976 IMF Crisis"
     url: "/wiki/concepts/britain1976imfcrisis/"
+  - key: "BritishDeindustrialization1970s"
+    title: "British Deindustrialization in the 1970s"
+    url: "/wiki/concepts/britishdeindustrialization1970s/"
   - key: "BritishECReferendum1975"
     title: "British EC Referendum 1975"
     url: "/wiki/concepts/britishecreferendum1975/"
@@ -2359,6 +2362,9 @@ topic_concepts:
   - key: "ObamacareSubsidyCliff"
     title: "Obamacare Subsidy Cliff"
     url: "/wiki/concepts/obamacaresubsidycliff/"
+  - key: "October1974UKGeneralElection"
+    title: "October 1974 UK General Election"
+    url: "/wiki/concepts/october1974ukgeneralelection/"
   - key: "OfficeFitOverRoteCleverness"
     title: "Office Fit Over Rote Cleverness / 任职才具重于应对小慧"
     url: "/wiki/concepts/officefitoverrotecleverness/"
@@ -7212,6 +7218,9 @@ topic_sources:
   - key: "42-anduo-fengqi-yu-qingping-zhi-mo-616391638"
     title: "42.安多：风起于青萍之末"
     url: "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+  - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
+    title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
+    url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
   - key: "463-mad-elections-part-1-glt4220133865"
     title: "463. Mad Elections (Part 1)"
     url: "/wiki/sources/463-mad-elections-part-1-glt4220133865/"

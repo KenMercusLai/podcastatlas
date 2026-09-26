@@ -6,46 +6,47 @@ sources:
   - 698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988
   - 664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865
   - 663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377
-last_updated: 2026-09-13
+  - 420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
 # Harold Wilson
 
 ## Overview
-Harold Wilson appears in the wiki as a British Labour prime minister whose governments faced the late-1960s [[NorthernIreland]] escalation, the 1975 European referendum, and the mid-1970s British economic and political crisis.
+Harold Wilson appears as a British Labour prime minister whose governments faced the late-1960s [[NorthernIreland]] escalation, the [[October1974UKGeneralElection|October 1974 election]], the 1975 European referendum, and the mid-1970s economic crisis.
 
 ## Current Profile
-Across the sources, Wilson is a crisis prime minister whose authority weakens as inherited problems exceed his room for manoeuvre. In [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]], his government pressures [[Stormont]] for reform and sends the [[BritishArmy]] into [[NorthernIreland]], but the episode depicts Westminster as reactive and underprepared. In [[663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377]], Wilson is a tactical party manager using renegotiation and a referendum to contain Labour's Europe split while inflation and borrowing worsen. In [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]], he is older, exhausted, and near resignation as sterling pressure, Labour factional conflict, rumours around Marcia Williams, and the later Lavender List scandal erode his standing.
+Across the sources, Wilson is a tactically skilled but increasingly constrained crisis manager. [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] shows his government pressing [[Stormont]] for reform and deploying the [[BritishArmy]] without a durable political strategy. [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]] adds his 1974 return with a three-seat majority: he offered voters a quiet life and union social contract while avoiding the depth of the inflation and industrial problem. [[663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377]] then shows him using renegotiation and a referendum to contain Labour's Europe split. By [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]], he is exhausted and near resignation as sterling pressure, factional conflict, rumours, and scandal erode his authority.
 
 ## Key Characteristics
-- He used Westminster pressure against [[Stormont]] but still struggled to convert reform pressure into a durable Northern Ireland settlement.
-- He appears as a reactive crisis manager rather than a leader with a fully prepared political strategy.
-- He used the 1975 European referendum as a tactical device to manage Labour's split while recommending Yes after renegotiation.
-- By 1975-1976, he is portrayed as personally strained, increasingly exhausted, short of new ideas, and fed up with [[LabourPartyUK|Labour]].
-- His resignation was planned rather than sudden, but its timing intersected with sterling pressure and a parliamentary confidence crisis.
+- He used pressure and troop deployment in Northern Ireland but lacked a durable settlement strategy.
+- He repeatedly used tactical containment to manage crises that exceeded his room for manoeuvre.
+- His October 1974 appeal emphasized quiet, stability, and cooperation with unions over disruptive restructuring.
+- He used the 1975 European referendum to contain Labour's internal split while recommending continued membership.
+- By 1975-1976, he is portrayed as personally strained, short of new answers, and increasingly detached from power.
+- His planned resignation still destabilized a government already under currency and parliamentary pressure.
 
 ## Evidence
-- Northern Ireland pressure: [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] says Wilson and [[JimCallaghan]] pushed [[TerenceONeill|Terence O'Neill]] for reforms after Derry march violence, including possible financial pressure from London.
-- Strategic limits: [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] emphasizes British cabinet ignorance of Northern Ireland and treats the [[BritishArmy]] deployment as probably unavoidable by August 1969 but not backed by a coherent settlement.
-- Europe management: [[663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377]] says Wilson was not instinctively pro-European but promised renegotiation and a referendum, recommended continued membership, and allowed cabinet ministers to campaign on either side.
-- Strain and limited room: [[663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377]] depicts Wilson governing with a three-seat majority, personal stress, health worries, and a worsening economy before the 1976 resignation crisis.
-- Exhaustion and drift: [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]] reports Wilson telling Bernard Donoghue that he had only the same old solutions for the same old problems and depicts him losing interest in power.
-- Resignation context: [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]] says Wilson had long signalled a limited final term, informed the Queen of his intention to leave, and announced resignation after a March 1976 sterling run and confidence vote.
-- Reputation damage: [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]] connects Wilson's post-office reputation to MI5 fears, the Jeremy Thorpe framing belief, and the controversial resignation honours list.
+- Northern Ireland pressure: [[698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988]] says Wilson and [[JimCallaghan]] pressed [[TerenceONeill|Terence O'Neill]] for reform before British troops entered in August 1969.
+- Quiet-life electoral strategy: [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]] says Wilson sought a mandate through the social contract and avoidance of renewed union conflict, winning only a three-seat majority.
+- Economic avoidance: [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]] portrays Wilson as reluctant to engage deeply with inflation, borrowing, and structural industrial decline.
+- Europe management: [[663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377]] says Wilson used renegotiation, cabinet latitude, and a referendum to manage Labour's Europe split.
+- Exhaustion and drift: [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]] reports Wilson saying he had only the same old solutions for the same old problems.
+- Resignation context: [[664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865]] places his planned departure beside a sterling run, confidence vote, MI5 rumours, and the later Lavender List controversy.
 
 ## Qualifications
-The page remains episode-scoped rather than a full Wilson biography. The sources emphasize moments of crisis and decline; they do not yet synthesize Wilson's full domestic programme, election record, party management across the 1960s, or complete historical reputation.
+The profile is episode-scoped rather than a full biography. It emphasizes crisis, tactical management, and decline; it does not cover Wilson's whole domestic record, earlier election victories, technological agenda, party leadership, or complete historical reputation. The claim that voters primarily wanted delay is an interpretive reading rather than a demonstrated account of every vote.
 
 ## What Changed
-- Added the 1975 European referendum as Wilson's tactical solution to Labour's Europe split.
-- Integrated the referendum prelude with the existing account of Wilson's later exhaustion and resignation crisis.
+- Added the October 1974 election and Wilson's quiet-life appeal as the bridge between minority government and the later referendum.
+- Sharpened the distinction between tactical crisis containment and structural economic renewal.
 
 ## Relationships
-- [[UnitedKingdom]] - national governing setting for both Wilson crisis episodes.
-- [[NorthernIreland]] - earlier crisis arena where Wilson pressured Stormont and deployed troops.
-- [[JimCallaghan]] - home secretary under Wilson in the Northern Ireland source and successor after Wilson's resignation.
-- [[DenisHealey]] - chancellor whose cuts agenda clashed with Labour-left resistance during Wilson's final months.
-- [[LabourPartyUK]] - party context for Wilson's factional and succession problems.
-- [[BritishECReferendum1975]] - referendum Wilson used to contain Labour's Europe split.
-- [[Britain1976IMFCrisis]] - economic crisis that Wilson's final months set up before Callaghan inherited it.
+- [[UnitedKingdom]] - national government Wilson led.
+- [[NorthernIreland]] - earlier crisis arena where his government pressed Stormont and deployed troops.
+- [[LabourPartyUK]] - party whose union, Europe, and economic divisions he managed.
+- [[October1974UKGeneralElection]] - narrow electoral victory that restored a formal majority.
+- [[BritishECReferendum1975]] - referendum used to contain Labour's Europe split.
+- [[BritishDeindustrialization1970s]] - structural problem his quiet-life politics postponed rather than resolved.
+- [[Britain1976IMFCrisis]] - crisis inherited by Callaghan after Wilson's resignation.

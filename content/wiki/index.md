@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [420. Britain in 1974: Thatcher Enters the Ring (Part 4)](sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515.md) — The Rest Is History on the October 1974 election, Guildford and Birmingham bombings and wrongful convictions, structural industrial decline, Heath's collapse, and Thatcher's decision to challenge.
 - [How to Optimize Cognitive Function & Brain Health | Dr. Mark D'Esposito](sources/how-to-optimize-cognitive-function-brain-health-dr-mark-desposito-scim4205449835.md) — Huberman Lab interview on executive function, active working memory, dopamine's inverted-U, goal-management training, concussion recovery, and brain-network modularity.
 - [421. Ancient Carthage: Lords of the Sea (Part 1)](sources/421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631.md) — The Rest Is History on Tyre, Phoenician identity and maritime networks, Dido, alphabet transmission, and archaeological evidence for Carthaginian child sacrifice.
 - [422. Ancient Carthage: Rise of a Superpower (Part 2)](sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144.md) — The Rest Is History on Carthage's Phoenician identity, hostile-source problem, mixed constitution, agricultural base, and transition from maritime trade network to territorial empire.
@@ -3687,7 +3688,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王成 / Wang Cheng (Western Han Jiaodong Xiang)](entities/WangChengWesternHan.md) — Western Han Jiaodong official whose fabricated performance report becomes a false-merit and feedback-failure case.
 - [徐广汉 / Xu Guanghan (Western Han)](entities/XuGuanghanWesternHan.md) — Han Xuan's father-in-law and Liu Shi's maternal grandfather whose early honor is delayed by Huo Guang and whose later crown-prince household request triggers Shu Guang's public-interest refusal.
 - [路温舒 / Lu Wenshu (Western Han)](entities/LuWenshuWesternHan.md) — Western Han legal remonstrator whose 《尚德缓刑书》 criticizes harsh judicial officials, torture, and confession manufacturing.
-- [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose damaged leadership prospects opened space for Thatcher's 1975 challenge.
+- [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose November 1974 withdrawal opened the path for Thatcher's leadership challenge.
 - [Airey Neave](entities/AireyNeave.md) — Conservative campaign organizer who helped turn Thatcher's underdog leadership bid into a first-ballot shock.
 - [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher connecting RULER, the Mood Meter, regulation, emotion mentorship, and bullying prevention.
 - [Yale Center for Emotional Intelligence](entities/YaleCenterForEmotionalIntelligence.md) — Institutional context for Marc Brackett's school-facing RULER, shared-language, check-in, and bullying-prevention work.
@@ -3770,7 +3771,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
 - [Denis Healey](entities/DenisHealey.md) — British chancellor who shifted toward cuts as sterling, borrowing, and inflation pressure mounted in 1975-1976.
-- [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with 1975 anti-EC democratic sovereignty and the alternative economic strategy during Britain's 1976 IMF crisis.
+- [Tony Benn](entities/TonyBenn.md) — Labour-left figure linking 1974 industrial planning, anti-EC democratic sovereignty, and the alternative economic strategy during Britain's 1976 IMF crisis.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
 - [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
 - [王接 / Wang Jie (Western Han)](entities/WangJieWesternHan.md) — Western Han official appointed Da Sima and Cheqi Jiangjun after the Yongguang 1 disaster-era senior resignations.
@@ -6411,7 +6412,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gerry Fitt](entities/GerryFitt.md) — Civil-rights political figure beaten and arrested during the banned Derry march.
 - [John Hume](entities/JohnHume.md) — Civil-rights leader who later supported British troop deployment as protection during the 1969 crisis.
 - [Bernadette Devlin](entities/BernadetteDevlin.md) — People's Democracy activist and young Westminster MP tied to Burntollet and radical civil-rights politics.
-- [Harold Wilson](entities/HaroldWilson.md) — British prime minister shown across Northern Ireland intervention, the 1975 EC referendum, and the exhausted final months before his 1976 resignation.
+- [Harold Wilson](entities/HaroldWilson.md) — British prime minister shown across Northern Ireland intervention, the October 1974 election, the 1975 EC referendum, and his exhausted final months.
 - [Jim Callaghan](entities/JimCallaghan.md) — British Labour crisis manager who moved from Northern Ireland intervention to inheriting Wilson's sterling and IMF crisis.
 - [William Craig](entities/WilliamCraig.md) — Northern Ireland home affairs minister who banned the Derry civil-rights march and warned concessions could provoke loyalists.
 - [James Chichester-Clark](entities/JamesChichesterClark.md) — O'Neill's successor who inherited the crisis and requested troops for Derry.
@@ -6437,7 +6438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Derry Citizens Defence Association](entities/DerryCitizensDefenceAssociation.md) — Catholic local defense body that prepared barricades before the Battle of the Bogside.
 - [Patrick Rooney](entities/PatrickRooney.md) — Nine-year-old killed by RUC armoured-car fire in Belfast during the August 1969 violence.
 - [Ted Kennedy](entities/TedKennedy.md) — U.S. senator whose "Britain's Vietnam" speech made Northern Ireland's 1971 crisis an international reputational issue.
-- [Edward Heath](entities/EdwardHeath.md) — British prime minister who inherited the Northern Ireland crisis and approved internment through Operation Demetrius.
+- [Edward Heath](entities/EdwardHeath.md) — British prime minister and Conservative leader whose crisis record culminated in two 1974 election defeats and Thatcher's challenge.
 - [Reginald Maudling](entities/ReginaldMaudling.md) — British home secretary tied to Heath's Northern Ireland response, internment blame-shifting, and interrogation-method approval.
 - [Provisional IRA](entities/ProvisionalIRA.md) — Republican paramilitary organization formed after the 1969 split and strengthened by defensive credibility, external support, and internment blowback.
 - [Official IRA](entities/OfficialIRA.md) — Older IRA branch tied to Cathal Goulding's Marxist turn and the arms-cache search that preceded the Falls Curfew.
@@ -9137,7 +9138,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [CIA / Central Intelligence Agency / 中情局](entities/CIA.md) — U.S. intelligence service whose need for Soviet-warning intelligence and curiosity about Britain's source created ally-side exposure risk in episode 81.
 - [Aldrich Ames / 奥德里奇·艾姆斯](entities/AldrichAmes.md) — CIA officer whose betrayal to the KGB exposed Oleg Gordievsky and made Operation Pimlico urgent.
 - [Operation RYAN / 莱恩行动](entities/OperationRYAN.md) — KGB nuclear-war warning operation used by episode 81 to show Soviet fear becoming an intelligence feedback loop.
-- [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — British prime minister who used Gordievsky-derived intelligence and approved Operation Pimlico despite diplomatic risk.
+- [Margaret Thatcher / 玛格丽特·撒切尔](entities/MargaretThatcher.md) — Prominent 1974 Conservative campaigner, 1975 party leader, and later prime minister who approved Operation Pimlico.
 - [Ronald Reagan / 罗纳德·里根](entities/RonaldReagan.md) — U.S. president whose hard-line Cold War posture shaped Soviet fear in the episode's Operation RYAN branch.
 - [Mikhail Gorbachev / 米哈伊尔·戈尔巴乔夫](entities/MikhailGorbachev.md) — Soviet leader whose British and U.S. encounters are interpreted through Gordievsky's strategic intelligence in episode 81.
 - [Yuri Andropov / 尤里·安德罗波夫](entities/YuriAndropov.md) — Soviet leader tied to Operation RYAN and the conversion of nuclear fear into a KGB collection task.
@@ -13797,6 +13798,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [October 1974 UK General Election](concepts/October1974UKGeneralElection.md) — Labour's three-seat victory amid terrorism, inflation, industrial decline, and Conservative leadership collapse.
+- [Terrorism Pressure and Wrongful Conviction](concepts/TerrorismPressureWrongfulConviction.md) — Justice failure risk when attack-driven urgency, coercion, and institutional certainty produce convictions of innocent people.
+- [British Deindustrialization in the 1970s](concepts/BritishDeindustrialization1970s.md) — Structural contraction of older British industries and the tradeoffs among subsidy, planning, protection, and restructuring.
 - [Executive Function](concepts/ExecutiveFunction.md) — Goal-directed control of planning, rule use, inhibition, monitoring, and flexible action within distributed brain networks.
 - [Working Memory as Active Control](concepts/WorkingMemoryActiveControl.md) — Temporary maintenance and manipulation of absent information for reasoning, planning, comprehension, and action.
 - [Goal Management Training](concepts/GoalManagementTraining.md) — Transfer-oriented rehabilitation teaching a pause, goal definition, subgoals, monitoring, and refocusing.
@@ -14609,7 +14613,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [案件扩大化政治清洗 / Case-Expansion Political Purge](concepts/CaseExpansionPoliticalPurge.md) — Pattern where a bounded political or criminal case expands through kinship, office, harboring, legal classification, private scandal, and association networks into broader cleanup.
 - [政治风险预防 / Political Risk Prevention](concepts/PoliticalRiskPrevention.md) — Court-governance pattern where early warnings and restraint are valued before elite risk becomes rebellion or emergency cleanup.
 - [Livelihood-First Pacification](concepts/LivelihoodFirstPacification.md) — governance pattern where officials repair hunger and production before treating disorder as enemy suppression.
-- [Conservative Leadership Election 1975](concepts/ConservativeLeadershipElection1975.md) — February 1975 contest in which Margaret Thatcher defeated Ted Heath and Willie Whitelaw to become Conservative leader.
+- [Conservative Leadership Election 1975](concepts/ConservativeLeadershipElection1975.md) — Contest opened by Heath's 1974 defeats and Joseph's withdrawal, ending with Thatcher's victory over Heath and Whitelaw.
 - [Conservative Party Class Realignment](concepts/ConservativePartyClassRealignment.md) — shift from patrician Heathite paternalism toward middle-class, grammar-school, free-market Conservative identity.
 - [Thatcherite Moral-Market Politics](concepts/ThatcheriteMoralMarketPolitics.md) — political style fusing free-market economics with moral language about thrift, work, discipline, property, and anti-socialism.
 - [RULER Framework](concepts/RULERFramework.md) — Marc Brackett's emotional-intelligence model for recognizing, understanding, labeling, expressing, and regulating emotions.
@@ -14682,7 +14686,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [California Homelessness Enforcement Treatment](concepts/CaliforniaHomelessnessEnforcementTreatment.md) — Hilton's statewide homelessness frame combining encampment enforcement, addiction treatment, mental-health capacity, sober-service rules, and jail fallback.
 - [有勇无谋决策风险 / Reckless Courage Decision Risk](concepts/RecklessCourageDecisionRisk.md) — Failure mode where willingness to face danger outruns planning, timing, and realistic task completion.
 - [引强援反噬风险 / Dangerous Ally Invitation Risk](concepts/DangerousAllyInvitationRisk.md) — Alliance risk where inviting a powerful outsider against one enemy imports a larger uncontrollable threat.
-- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, inflation, public borrowing, IMF, austerity, Labour factionalism, and cabinet crisis treated as a British economic-governance turning point.
+- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Crisis arc from 1974 inflation and industrial decline through sterling pressure, IMF borrowing, austerity, and Labour factional conflict.
 - [British EC Referendum 1975](concepts/BritishECReferendum1975.md) — Britain's first national referendum, framed as Wilson's Labour-management device and a crisis-status-quo vote to remain in the European Community.
 - [Postwar Keynesian Retreat](concepts/PostwarKeynesianRetreat.md) — Political move away from the assumption that governments could simply spend their way out of recession.
 - [Siege Economy Strategy](concepts/SiegeEconomyStrategy.md) — Labour-left crisis strategy built around controls, protectionism, nationalisation, and pressure on allies.

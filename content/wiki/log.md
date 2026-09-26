@@ -23050,3 +23050,10 @@ Added source `421-ancient-carthage-lords-of-the-sea-part-1-glt1311066631`; creat
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-27] ingest | 420. Britain in 1974: Thatcher Enters the Ring (Part 4)
+
+Added source `420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515`; created `October1974UKGeneralElection`, `TerrorismPressureWrongfulConviction`, and `BritishDeindustrialization1970s`; and updated `HaroldWilson`, `EdwardHeath`, `MargaretThatcher`, `TonyBenn`, `KeithJoseph`, `ConservativeLeadershipElection1975`, and `Britain1976IMFCrisis` from their complete bounded source sets. Core synthesis: Wilson's three-seat victory delivered office without command of the crisis; terrorism pressure produced lasting miscarriages of justice; structural industrial decline divided quiet management, Bennite planning, and harder fiscal or market responses; and Heath's second 1974 defeat plus Joseph's withdrawal opened Thatcher's challenge. No settled contradiction found. Thatcher's mortgage-rate cap qualifies a linear free-market origin story, while political mood, economic causality, bomb-warning details, perpetrator identification, and electoral effects remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

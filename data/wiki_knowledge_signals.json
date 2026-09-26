@@ -17389,9 +17389,9 @@
       "url": "/wiki/concepts/briggsvmullen/"
     },
     "Britain1976IMFCrisis": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -17413,9 +17413,16 @@
           "show": "The Rest Is History",
           "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
           "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/britain1976imfcrisis/"
     },
     "BritishArmy": {
@@ -17447,6 +17454,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/britisharmy/"
+    },
+    "BritishDeindustrialization1970s": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/britishdeindustrialization1970s/"
     },
     "BritishECReferendum1975": {
       "episode_count": 1,
@@ -29168,9 +29191,9 @@
       "url": "/wiki/concepts/consentlessfacialsearch/"
     },
     "ConservativeLeadershipElection1975": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1785737730 [GLT1785737730].md",
@@ -29178,9 +29201,16 @@
           "show": "The Rest Is History",
           "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
           "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/conservativeleadershipelection1975/"
     },
     "ConservativePartyClassRealignment": {
@@ -40962,9 +40992,9 @@
       "url": "/wiki/entities/edwardgrey/"
     },
     "EdwardHeath": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -40986,9 +41016,16 @@
           "show": "The Rest Is History",
           "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
           "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/edwardheath/"
     },
     "EdwardIIIOfEngland": {
@@ -63064,9 +63101,9 @@
       "url": "/wiki/entities/haroldgodwinson/"
     },
     "HaroldWilson": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT2308408988 [GLT2308408988].md",
@@ -63088,9 +63125,16 @@
           "show": "The Rest Is History",
           "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
           "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/haroldwilson/"
     },
     "HarryingOfTheNorth": {
@@ -78178,9 +78222,9 @@
       "url": "/wiki/entities/kearney/"
     },
     "KeithJoseph": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1785737730 [GLT1785737730].md",
@@ -78188,9 +78232,16 @@
           "show": "The Rest Is History",
           "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
           "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/keithjoseph/"
     },
     "KeithRichards": {
@@ -93232,9 +93283,9 @@
       "url": "/wiki/entities/marcusreno/"
     },
     "MargaretThatcher": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
@@ -93249,9 +93300,16 @@
           "show": "The Rest Is History",
           "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
           "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/margaretthatcher/"
     },
     "MarginTradingForcedSelling": {
@@ -103626,6 +103684,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/oceanbase/"
+    },
+    "October1974UKGeneralElection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/october1974ukgeneralelection/"
     },
     "OctoberDays1789": {
       "episode_count": 1,
@@ -138963,6 +139037,22 @@
       "updated": "2026-09-20",
       "url": "/wiki/concepts/terrorrulebackfire/"
     },
+    "TerrorismPressureWrongfulConviction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/terrorismpressurewrongfulconviction/"
+    },
     "TestInterveneRetestLoop": {
       "episode_count": 1,
       "show_count": 1,
@@ -141777,9 +141867,9 @@
       "url": "/wiki/entities/tonyacrcloud/"
     },
     "TonyBenn": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9598017819 [GLT9598017819].md",
@@ -141794,9 +141884,16 @@
           "show": "The Rest Is History",
           "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
           "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
+        },
+        {
+          "episode_file": "GLT2799978515 [GLT2799978515].md",
+          "key": "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515",
+          "show": "The Rest Is History",
+          "title": "420. Britain in 1974: Thatcher Enters the Ring (Part 4)",
+          "url": "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/tonybenn/"
     },
     "ToothDemineralizationRemineralization": {

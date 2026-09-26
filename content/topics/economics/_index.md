@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2102
+topic_total_pages: 2104
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -460,6 +460,9 @@ topic_concepts:
   - key: "Britain1976IMFCrisis"
     title: "Britain 1976 IMF Crisis"
     url: "/wiki/concepts/britain1976imfcrisis/"
+  - key: "BritishDeindustrialization1970s"
+    title: "British Deindustrialization in the 1970s"
+    url: "/wiki/concepts/britishdeindustrialization1970s/"
   - key: "BrokerageResearchReports"
     title: "Brokerage Research Reports"
     url: "/wiki/concepts/brokerageresearchreports/"
@@ -5610,6 +5613,9 @@ topic_sources:
   - key: "22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427"
     title: "22.足球经济学：读者不必是球迷"
     url: "/wiki/sources/22-zuqiu-jingjixue-duzhe-bubi-shi-qiumi-570874427/"
+  - key: "420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515"
+    title: "420. Britain in 1974: Thatcher Enters the Ring (Part 4)"
+    url: "/wiki/sources/420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515/"
   - key: "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353"
     title: "61.自从拥有经济学的思维方式，人生都变简单了！"
     url: "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"

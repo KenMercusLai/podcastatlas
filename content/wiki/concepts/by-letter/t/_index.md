@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 8268
+wiki_total_pages: 8271
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -326,6 +326,9 @@ wiki_pages:
   - key: "TerritorialRewardMobilization"
     title: "Territorial Reward Mobilization / 许地会师式动员"
     url: "/wiki/concepts/territorialrewardmobilization/"
+  - key: "TerrorismPressureWrongfulConviction"
+    title: "Terrorism Pressure and Wrongful Conviction"
+    url: "/wiki/concepts/terrorismpressurewrongfulconviction/"
   - key: "TestInterveneRetestLoop"
     title: "Test-Intervene-Retest Loop"
     url: "/wiki/concepts/testinterveneretestloop/"

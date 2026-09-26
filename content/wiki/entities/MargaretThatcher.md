@@ -5,48 +5,48 @@ tags: [person, politics, united-kingdom, cold-war]
 sources:
   - 81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209
   - 662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730
-last_updated: 2026-09-13
+  - 420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
 # Margaret Thatcher / 玛格丽特·撒切尔
 
 ## Overview
-Margaret Thatcher / 玛格丽特·撒切尔 appears in the wiki first as the [[UnitedKingdom|British]] prime minister who approved [[OperationPimlico]], and now as the unlikely 1975 [[ConservativePartyUK|Conservative]] leadership challenger whose rise signalled a new political style.
+Margaret Thatcher / 玛格丽特·撒切尔 appears as a prominent 1974 Conservative campaigner, the unlikely winner of the 1975 party leadership, and later the British prime minister who approved [[OperationPimlico]].
 
 ## Current Profile
-The current profile has two distinct Thatcher layers. In [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]], she is not yet the later dominant prime minister but a serious, underestimated, sometimes pragmatic politician who defeats [[EdwardHeath|Ted Heath]] and [[WillieWhitelaw]] in the [[ConservativeLeadershipElection1975|1975 Conservative leadership election]]. The episode roots her style in Grantham, Methodism, household-budget politics, anti-socialist moral language, and a wider [[ConservativePartyClassRealignment]] toward middle-class free-market Conservatism.
-
-In [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]], Thatcher is already prime minister. [[OlegGordievsky|Oleg Gordievsky]]'s reporting shapes her understanding of Soviet fear and helps push Britain toward contact with [[MikhailGorbachev|Mikhail Gorbachev]]. When [[OperationPimlico]] becomes active, she approves extraction despite diplomatic caution, making her a case in [[ExtractionPromiseEthics]].
+The sources show three stages of a political profile rather than a fully formed ideology appearing at once. In 1974, Thatcher was the most visible Tory frontbencher and promoted a 9.5% mortgage-rate cap aimed at homeowners, showing pragmatic participation in the consensus she later opposed; [[KeithJoseph]]'s withdrawal then triggered her decision to challenge [[EdwardHeath|Ted Heath]] [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]]. Her leadership victory drew on Grantham, Methodism, household budgeting, anti-socialist moral language, and [[ConservativePartyClassRealignment]] [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]]. As prime minister, she later used [[OlegGordievsky|Oleg Gordievsky]]'s reporting and approved his extraction despite diplomatic risk [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]].
 
 ## Key Characteristics
-- She is presented as a made political persona, with the later controlled image contrasted against her higher, faster, less assured 1975 presence.
-- Her moral and political vocabulary draws on Grantham, Methodism, thrift, work, self-help, and household discipline.
-- Her 1975 victory depends on contingency, including [[KeithJoseph]]'s collapse and [[AireyNeave]]'s campaign tactics.
-- She represents a Conservative shift from Heathite paternalism toward more combative middle-class market politics.
-- As prime minister, she is shown willing to honor a dangerous intelligence rescue promise even when officials feared diplomatic damage.
+- Her 1974 visibility made her an important electoral communicator before she became party leader.
+- The mortgage-rate proposal shows pragmatic, interventionist politics that complicate a pure free-market origin story.
+- Her 1975 candidacy depended on Heath's cumulative defeats and Joseph's withdrawal.
+- Her political vocabulary drew on Grantham, Methodism, thrift, work, self-help, and household discipline.
+- Her victory signalled movement from Heathite paternalism toward combative middle-class market politics.
+- As prime minister, she was willing to honor a dangerous intelligence rescue commitment despite diplomatic caution.
 
 ## Evidence
-- 1975 persona: [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]] contrasts the later Thatcher image with her faster, higher 1975 voice and nervous early leadership.
-- Biographical roots: [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]] emphasizes Alfred Roberts, the grocery, Wesleyan Methodism, hard work, thrift, and self-improvement.
-- Leadership path: [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]] says Joseph's damaged candidacy, Neave's MP campaign, and anti-Heath protest votes helped Thatcher beat Heath and Whitelaw.
-- Party meaning: [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]] interprets the result as a class and ideological shift inside the Conservative Party.
-- Intelligence decision: [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] says Thatcher approved Gordievsky's extraction when some British officials worried about detente.
+- Campaign prominence: [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]] says Thatcher appeared more often than any other Tory frontbencher in party broadcasts.
+- Pragmatic intervention: [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]] describes her mortgage-rate cap as a statist and corporatist appeal to homeowners.
+- Decision point: [[420-britain-in-1974-thatcher-enters-the-ring-part-4-glt2799978515]] reports that Thatcher decided to stand when Joseph said he would not challenge Heath.
+- Leadership path and party meaning: [[662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730]] links Joseph's collapse, Neave's campaign, Thatcher's moral language, and a wider party-class shift.
+- Intelligence decision: [[81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209]] says Thatcher approved Gordievsky's extraction when some officials worried about detente.
 
 ## Qualifications
-The wiki profile is still episodic. It now covers Thatcher's 1975 rise and one Cold War intelligence decision, but not her full premiership, economic program, foreign policy, Falklands War role, union conflicts, or post-office reputation.
+The wiki profile remains episodic. It covers the 1974-1975 rise and one Cold War intelligence decision, not Thatcher's full premiership or economic, union, electoral, social, and foreign-policy record. The mortgage proposal demonstrates tactical and ideological complexity but does not by itself settle the timing or content of her later conversion.
 
 ## What Changed
-- Added Thatcher's 1975 leadership victory, biographical moral vocabulary, party-class significance, and early vulnerability before the later prime-ministerial image.
+- Added Thatcher's unusually prominent role in the October 1974 campaign.
+- Added the mortgage-rate cap as a qualification to a linear free-market origin story.
+- Connected Joseph's November withdrawal directly to her decision to challenge Heath.
 
 ## Relationships
-- [[ConservativePartyUK]] - party she takes over in February 1975.
-- [[EdwardHeath]] - incumbent leader she defeats after his 1974 election losses.
-- [[WillieWhitelaw]] - establishment alternative she defeats on the second ballot.
-- [[KeithJoseph]] - expected challenger whose collapse opened space for her candidacy.
-- [[AireyNeave]] - campaign organizer behind her underdog leadership bid.
-- [[ConservativeLeadershipElection1975]] - institutional moment that makes her leader.
-- [[ConservativePartyClassRealignment]] - structural shift her victory reveals.
-- [[ThatcheriteMoralMarketPolitics]] - moral and economic political style associated with her rise.
-- [[OlegGordievsky]], [[MI6]], and [[OperationPimlico]] - Cold War intelligence context for her later prime-ministerial decision.
-- [[ExtractionPromiseEthics]] - ethical frame used by the Gordievsky source.
+- [[ConservativePartyUK]] - party she campaigned for and took over in 1975.
+- [[October1974UKGeneralElection]] - campaign that raised her visibility while further weakening Heath.
+- [[EdwardHeath]] - incumbent she challenged after his cumulative election defeats.
+- [[KeithJoseph]] - expected challenger whose withdrawal opened her path.
+- [[ConservativeLeadershipElection1975]] - contest that made her party leader.
+- [[ConservativePartyClassRealignment]] - social and ideological shift her victory revealed.
+- [[ThatcheriteMoralMarketPolitics]] - later political style whose origins the 1974 episode qualifies.
+- [[OlegGordievsky]], [[MI6]], and [[OperationPimlico]] - Cold War setting for her later intelligence decision.
