@@ -4931,6 +4931,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/actusoncology/"
     },
+    "AcutePancreatitisEmergencyEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/acutepancreatitisemergencyescalation/"
+    },
     "AcuteSportsInjuryEscalation": {
       "episode_count": 1,
       "show_count": 1,
@@ -24188,9 +24204,9 @@
       "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChestPainEmergencyEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
@@ -24198,9 +24214,16 @@
           "show": "这病说来话长",
           "title": "VOL.222熬夜心跳狂飙是猝死前兆？AED会“电错”活人？带你避开致命常识｜世界急救日特辑",
           "url": "/wiki/sources/vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/chestpainemergencyescalation/"
     },
     "ChesterWilliams": {
@@ -35168,9 +35191,9 @@
       "url": "/wiki/concepts/dementiacaregiverburden/"
     },
     "DementiaFriendlyHomeDesign": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
@@ -35178,9 +35201,16 @@
           "show": "这病说来话长",
           "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
           "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/dementiafriendlyhomedesign/"
     },
     "DementiaPersonhoodMemory": {
@@ -35207,9 +35237,9 @@
       "url": "/wiki/concepts/dementiapersonhoodmemory/"
     },
     "DementiaRespectfulCommunication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lmNn6RQ16UVpKPMNImxFd5xqBR4a [lmNn6RQ16UVpKPMNImxFd5xqBR4a].md",
@@ -35217,9 +35247,16 @@
           "show": "这病说来话长",
           "title": "VOL.133“____，您还记得我是谁吗？”请停止这样的提问,你能做的还有很多",
           "url": "/wiki/sources/vol-133-nin-haijide-wo-shi-shui-ma-qing-tingzhi-zheyang-de-tiwen-nineng-zuo-de-haiyou-henduo-lmnn6rq16uvpkpmnimxfd5xqbr4a/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/dementiarespectfulcommunication/"
     },
     "DemisHassabis": {
@@ -63837,9 +63874,9 @@
       "url": "/wiki/concepts/heartfailure/"
     },
     "HeartFailureSelfManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ljjRf3EOGpZopE6odGV8oK5ovTSJ [ljjRf3EOGpZopE6odGV8oK5ovTSJ].md",
@@ -63847,9 +63884,16 @@
           "show": "这病说来话长",
           "title": "VOL.134心累？别硬撑！心力衰竭危机四伏",
           "url": "/wiki/sources/vol-134-xinlei-bie-yingcheng-xinli-shuaijie-weiji-sifu-ljjrf3eogpzop-e6odgv8ok5ovtsj/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/heartfailureselfmanagement/"
     },
     "HeartOfDarkness": {
@@ -104047,9 +104091,9 @@
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
     "ObstructiveSleepApneaRecognition": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "luct7ka8jRMTLsmBwlK9MwOW3sxv [luct7ka8jRMTLsmBwlK9MwOW3sxv].md",
@@ -104071,9 +104115,16 @@
           "show": "硅谷101",
           "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
           "url": "/wiki/sources/e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/obstructivesleepapnearecognition/"
     },
     "OccultDecisionCapture": {
@@ -104825,6 +104876,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/entities/oldsarum/"
     },
+    "OlderAdultFallPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/olderadultfallprevention/"
+    },
     "OlderAdultHealthcareAvoidance": {
       "episode_count": 1,
       "show_count": 1,
@@ -104840,6 +104907,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/concepts/olderadulthealthcareavoidance/"
+    },
+    "OlderAdultHomeCareSafety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/olderadulthomecaresafety/"
     },
     "OlderAdultStereotypeResistance": {
       "episode_count": 1,
@@ -149242,9 +149325,9 @@
       "url": "/wiki/entities/wangxiulatehan/"
     },
     "WangXuedi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lqpBN4u9wc7uutCE2HgK7cL77wLa [lqpBN4u9wc7uutCE2HgK7cL77wLa].md",
@@ -149252,9 +149335,16 @@
           "show": "这病说来话长",
           "title": "VOL.120怎么打怎么说怎么接？和5位医务工作者聊聊120急救的那些故事",
           "url": "/wiki/sources/vol-120-zenme-da-zenme-shuo-zenme-jie-he-5-wei-yiwu-gongzuozhe-liaoliao-120-jijiu-de-naxie-gushi-lqpbn4u9wc7uutce2hgk7cl77wla/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/wangxuedi/"
     },
     "WangYeXinOfficial": {
@@ -152583,9 +152673,9 @@
       "url": "/wiki/entities/wubin/"
     },
     "WuBinOralDoctor": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ll6i050qnIR6OT6TYlDl8meaXJDr [ll6i050qnIR6OT6TYlDl8meaXJDr].md",
@@ -152593,9 +152683,16 @@
           "show": "这病说来话长",
           "title": "VOL.116别看你今天笑得欢，当心乐极生悲“笑不活” X 玲珑塔门市部 X 天津师大校广",
           "url": "/wiki/sources/vol-116-bie-kan-ni-jintian-xiao-de-huan-dangxin-leji-shengbei-xiao-bu-huo-x-linglongta-menshibu-x-tianjin-shida-xiaoguang-ll6i050qnir6ot6tyldl8meaxjdr/"
+        },
+        {
+          "episode_file": "lrVLx1WBuKF4g2PBSeM4cbzqBuqZ [lrVLx1WBuKF4g2PBSeM4cbzqBuqZ].md",
+          "key": "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz",
+          "show": "这病说来话长",
+          "title": "VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等",
+          "url": "/wiki/sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz/"
         }
       ],
-      "updated": "2026-09-25",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/wubinoraldoctor/"
     },
     "WuCommanderyLateHan": {

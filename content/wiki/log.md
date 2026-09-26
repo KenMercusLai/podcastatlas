@@ -23015,6 +23015,10 @@ Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `Fir
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-27] ingest | VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等
+
+Added source `vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz`; created `OlderAdultHomeCareSafety`, `OlderAdultFallPrevention`, and `AcutePancreatitisEmergencyEscalation`; and updated `ObstructiveSleepApneaRecognition`, `DementiaRespectfulCommunication`, `DementiaFriendlyHomeDesign`, `HeartFailureSelfManagement`, `ChestPainEmergencyEscalation`, `WangXuedi`, and `WuBinOralDoctor` from their complete bounded source sets. Core synthesis: Spring Festival family care should match function, preserve dignity, connect daily risks across medication, feeding, skin, mobility, sleep, nutrition, and environment, and route dangerous change promptly rather than normalizing it as age. No settled contradiction found. The 王雪迪 / 王雪笛 spelling variance remains explicit, while exact thresholds, mortality figures, household procedures, emergency medicines, and device choices remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | The Biology of Social Interactions and Emotions | Dr. Kay Tye
 
 Added source `the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786`; created `KayTye`, `AmygdalaValenceAssignment`, `SocialHomeostasis`, `SocialContactSynchrony`, `SocialRankFlexibility`, `ExperientialStatistics`, and `DiversifiedHappinessPortfolio`; and updated `PatientSM`, `AmygdalaFearDissociation`, the canonical index, and overview. Core synthesis: emotional and social behavior depends on flexible state regulation, with projection-specific valence assignment, acute-versus-chronic isolation dynamics, contact quality, experiential priors, and context-dependent hierarchy kept distinct. No settled contradiction found; social-media, empathy, rank-development, oxytocin, and psychedelic mechanisms remain source-scoped or preliminary.
@@ -23108,6 +23112,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 415. The Murder of Richard II (Part 3)
 
 Added source `415-the-murder-of-richard-ii-part-3-glt6435684837`; created `JohnOfGaunt`, `LordsAppellant`, and `SacralKingshipPoliticalControl`; and updated `RichardIIOfEngland`, `HenryIVOfEngland`, `LancastrianLegitimacy`, `ShakespeareHistoryPlayPoliticalMemory`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Richard's sacred image and recovered authority could not compensate for weak military prestige, fiscal conflict, favorite politics, confiscation, and revenge, while Henry's inheritance defense became a deposition that transferred the crisis into disputed Lancastrian legitimacy. No settled contradiction found; Richard's psychology, Gloucester's death, Henry's initial intentions, succession priority, Richard's death, and 1399's exact causal weight in the Wars of the Roses remain interpretive or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8288
+wiki_total_pages: 8291
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "ActuaryDataScientistPartnership"
     title: "Actuary Data Scientist Partnership"
     url: "/wiki/concepts/actuarydatascientistpartnership/"
+  - key: "AcutePancreatitisEmergencyEscalation"
+    title: "Acute Pancreatitis Emergency Escalation / 急性胰腺炎急症升级"
+    url: "/wiki/concepts/acutepancreatitisemergencyescalation/"
   - key: "AcuteSportsInjuryEscalation"
     title: "Acute Sports Injury Escalation / 急性运动损伤升级"
     url: "/wiki/concepts/acutesportsinjuryescalation/"

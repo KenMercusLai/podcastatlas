@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
       "82ca494ef22525a52a5b487affa4099502b58e7a9771f43fe3742a9c9d49a629",
       "b67fb6e022a5bec44261cedb519d987f5829df622d50e4cef4be63496a7a7a79",
       "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
@@ -745,11 +746,31 @@
       "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
       "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe"
     ],
-    "paragraph_count": 743
+    "paragraph_count": 744
   },
-  "overview_commit": "9f8a27b8efbce468730a2cb46ed3e0eb7702296e",
-  "overview_digest": "ee59fcdd3b25ed78e9cd4b446df7ba32807c2b9e4094de7634fd39a0eecb8853",
+  "overview_commit": "96319340a45bf2e1d5df94ace880c709b96d5dbc",
+  "overview_digest": "d4c82fc502733aeebc6a3e7ca0ad8c9cc7fb37ec959609197f9e55e9d2f46ea9",
   "paragraphs": [
+    {
+      "id": "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest older-adult household-care synthesis, grounded in [[vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz|VOL.99八学科联合｜春节健康带回家]], connects [[OlderAdultHomeCareSafety]], [[OlderAdultFallPrevention]], and [[AcutePancreatitisEmergencyEscalation]] with [[DementiaRespectfulCommunication]], [[DementiaFriendlyHomeDesign]], [[HeartFailureSelfManagement]], [[ChestPainEmergencyEscalation]], and [[ObstructiveSleepApneaRecognition]]. Household care works best as function-matched observation and support: preserve routine and dignity, connect skin, swallowing, nutrition, movement, medication, sleep, and environment, and escalate changes in breathing, pain, alertness, mobility, or chronic-disease control instead of normalizing them as age or holiday excess. No settled contradiction is recorded; exact thresholds, treatment windows, mortality figures, household procedures, emergency drugs, and device choices remain source-scoped public education rather than individualized care.",
+      "topic_scores": {
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AcutePancreatitisEmergencyEscalation",
+        "ChestPainEmergencyEscalation",
+        "DementiaFriendlyHomeDesign",
+        "DementiaRespectfulCommunication",
+        "HeartFailureSelfManagement",
+        "ObstructiveSleepApneaRecognition",
+        "OlderAdultFallPrevention",
+        "OlderAdultHomeCareSafety",
+        "vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz"
+      ]
+    },
     {
       "id": "82ca494ef22525a52a5b487affa4099502b58e7a9771f43fe3742a9c9d49a629",
       "primary_topic": "science-health-and-climate",

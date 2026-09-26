@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-27
-as_of_overview_commit: 7a5431230ec53aa31bfd43173605a13168b8b5dc
+as_of_overview_commit: 96319340a45bf2e1d5df94ace880c709b96d5dbc
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound systems."
-episode_count: 2888
-source_count: 2888
-paragraph_count: 743
+episode_count: 2890
+source_count: 2890
+paragraph_count: 744
 topic_count: 9
 ---
 
@@ -75,14 +75,14 @@ Personal development joins embodied regulation, relational safety, calibrated ac
 
 ### Science, Health, and Climate
 
-Health and science literacy require mechanisms, objective measurement, state and history, network and baseline context, uncertainty, urgent escalation, and qualified care rather than stand-alone symptom or protocol claims.
+Health and science literacy require mechanisms, objective measurement, baseline context, uncertainty, urgent escalation, and qualified care rather than stand-alone symptom claims.
 
 - [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786|The Tye Huberman Lab episode]] adds a state- and history-sensitive social-neuroscience branch: [[AmygdalaValenceAssignment]] separates motivational significance from a single fear center, [[SocialHomeostasis]] distinguishes acute affiliative rebound from chronic isolation adaptation, [[SocialContactSynchrony]] makes reciprocity and real-time mutual attention candidate dimensions of nourishment, and [[SocialRankFlexibility]] with [[ExperientialStatistics]] connects rank, scarcity, trust, and prior experience to what organisms expect and monitor. Evidence: [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786]], [[HubermanLab]], [[KayTye]], [[AmygdalaValenceAssignment]], [[SocialHomeostasis]], [[SocialContactSynchrony]], [[SocialRankFlexibility]], [[ExperientialStatistics]], [[PatientSM]], [[AmygdalaFearDissociation]].
 - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia. Evidence: [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]], [[AndrewHuberman]], [[MatthewWalker]], [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SleepAnxietyLoop]], [[SubconsciousCreativeIncubation]].
 
 ### Work, Education, and Society
 
-Work, education, and care systems function best when roles, incentives, trust, practical routines, evidence, and support make responsibility and learning usable.
+Work, education, and care systems function best when roles, incentives, trust, practical routines, evidence, support, and escalation boundaries make responsibility usable.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

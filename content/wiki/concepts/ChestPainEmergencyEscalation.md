@@ -4,7 +4,8 @@ type: concept
 tags: [health, emergency-response, cardiology, first-aid]
 sources:
   - vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy
-last_updated: 2026-09-09
+  - vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Chest pain emergency escalation / 胸痛急症升级 is the public triage bounda
 
 The synthesis is escalation-oriented: chest symptoms with dangerous features should not first be routed through relatives, social media, or endurance. Emergency dispatch can give instructions while help is moving.
 
+The older-adult care source widens recognition beyond chest pain. Myocardial infarction can present as back, tooth, arm, throat, or upper-abdominal discomfort, nausea, vomiting, or sweating, and long-standing diabetes may blunt pain. In an older or high-risk person, an atypical location should therefore not be used to dismiss an evolving cardiac emergency.
+
 ## Key Claims
 - Risk factors such as male sex, postmenopausal status, hypertension, hyperlipidemia, glucose problems, smoking, drinking, and family history increase concern when chest symptoms occur.
 - Central chest or precordial pain can matter more when it radiates to the left shoulder, left arm, left back, teeth, or throat.
@@ -29,12 +32,14 @@ The synthesis is escalation-oriented: chest symptoms with dangerous features sho
 - Risk-factor assessment: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] lists coronary-heart-disease risk factors and says probability rises as risk factors accumulate.
 - Symptom pattern: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] describes chest pain location, radiation, sweating, dizziness, loss of consciousness, and palpitations as warning features.
 - Timing and routing: [[vol-222-aoye-xintiao-kuangbiao-shi-cusi-qianzhao-aed-hui-dian-cuo-huoren-dai-ni-bikai-zhiming-changshi-shijie-jijiu-ri-teji-lnemogq8gb9o3e2835jvtfx3emiy]] recommends 120 or timely care when concerning symptoms persist and warns against first calling family members in a way that delays emergency response.
+- Atypical older-adult presentation: [[vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz]] adds back, tooth, arm, throat, gastrointestinal, and sweating presentations and notes that diabetes can reduce pain sensitivity.
 
 ## Counterevidence & Qualifications
 The concept does not diagnose myocardial infarction, panic attack, pulmonary disease, pericarditis, musculoskeletal pain, or any other cause of chest symptoms. It records a public education boundary; individual evaluation belongs to emergency clinicians.
 
 ## What Changed
-- VOL.222 creates a chest-pain escalation concept that links cardiac risk factors, symptom radiation, sweating, dizziness, duration, and early emergency calling.
+- Added atypical myocardial-infarction presentations in older adults and people with long-standing diabetes.
+- Clarified that upper-abdominal or dental symptoms do not safely rule out a cardiac emergency.
 
 ## Related Concepts
 - [[FirstAidTriageAndEscalation]] - broader decision frame for routing dangerous symptoms.

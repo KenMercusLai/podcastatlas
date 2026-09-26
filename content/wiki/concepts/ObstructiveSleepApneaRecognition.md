@@ -6,7 +6,8 @@ sources:
   - vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv
   - vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot
   - e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e
-last_updated: 2026-09-24
+  - vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -19,6 +20,8 @@ Obstructive sleep apnea recognition is the process of treating recurrent snoring
 Recognition begins with a combined pattern. Nighttime signals include loud or irregular snoring, witnessed pauses, choking or gasping, nocturia, and unrefreshing sleep; daytime signals include sleepiness, headache or dizziness, impaired attention or memory, slowed reactions, and mood change. Anatomy, weight, age, sex and hormonal stage, nasal or tonsillar obstruction, alcohol, and family history can change risk without diagnosing it.
 
 The practical pathway moves from suspicion to assessment. Questionnaires and consumer sensors may identify risk, but regular snoring, a partner's failure to hear pauses, or a device score cannot rule in or rule out hypopnea and oxygen loss. Symptoms, impairment, safety risk, resistant hypertension, or other complications should route the question to sleep or respiratory care and overnight monitoring interpreted in context.
+
+The household-care episode reinforces this threshold for older and cardiometabolically vulnerable adults: habitual snoring, witnessed silence, choking awakenings, daytime sleepiness, obesity, hypertension, diabetes, heart failure, or atrial fibrillation should not be normalized as age or “sleeping soundly.” It also separates recognition from device choice: families can notice the pattern, but polysomnography and clinical assessment should precede unsupervised positive-airway-pressure purchase.
 
 The [[EightSleep|Eight Sleep]] interview adds a product-development boundary. The company says it is seeking FDA approval for sleep-apnea risk recognition and symptom mitigation through software and bed intervention. That is evidence of a proposed regulated use, not of current approval or diagnostic equivalence. Consumer convenience should not collapse screening, diagnosis, and treatment into one claim.
 
@@ -34,6 +37,7 @@ The [[EightSleep|Eight Sleep]] interview adds a product-development boundary. Th
 ## Evidence
 - Symptom and risk pattern - [[vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv]] links snoring, pauses, choking, nocturia, daytime effects, anatomy, weight, age, hormonal stage, alcohol, and family history.
 - Screening-to-diagnosis pathway - [[vol-155-meiye-zhixi-51miao-yisheng-jiangshu-nianqing-nvhuanzhe-de-chongsheng-gushi-luct7ka8jrmtlsmbwlk9mwow3sxv]] distinguishes consumer screening from overnight testing and clinician interpretation.
+- Older-adult household recognition - [[vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz]] links habitual snoring, witnessed pauses, choking, daytime impairment, and cardiometabolic comorbidity to formal sleep assessment before device purchase.
 - Household recognition - [[vol-129-yisheng-jiao-ni-shui-da-jue-jiejue-shuimian-zhangai-yeneng-bu-chiyao-lvn_cutp5uob9zeosq-wiv3c4zot]] identifies loud snoring plus witnessed silence or pauses as an escalation signal outside routine sleep optimization.
 - Proposed consumer-device pathway - [[e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e]] reports planned software-based risk recognition and bed-based mitigation under FDA review.
 - Regulation boundary - [[e252-guigu-shuimian-waigua-furende-wanju-haishi-yufang-yiliao-de-rukou-duihua-eight-sleep-chuangshiren-833a6b89-e6a1-4d61-a3b3-46f4d664894e]] does not provide approval status, study design, accuracy by subgroup, severity limits, or comparison with polysomnography.
@@ -42,9 +46,8 @@ The [[EightSleep|Eight Sleep]] interview adds a product-development boundary. Th
 The evidence consists of public-education and sponsored podcast sources, not clinical guidelines or full diagnostic-accuracy trials. Exact prevalence, sex ratios, thresholds, complication risks, and device performance remain source-scoped. Snoring, fatigue, headache, nocturia, mood symptoms, and hypertension have many possible causes. A consumer product's reported regulatory application should not delay testing or established treatment when symptoms and risk warrant care.
 
 ## What Changed
-- Added Eight Sleep's stated regulated-device pathway as a source-scoped development claim.
-- Separated risk recognition, diagnosis, symptom mitigation, and treatment more explicitly.
-- Added approval status, subgroup performance, and false-alert handling to the evidence boundary.
+- Added an older-adult household-observation pathway tied to cardiometabolic comorbidity.
+- Strengthened the boundary between recognizing apnea risk and selecting or buying a device.
 
 ## Related Concepts
 - [[PositiveAirwayPressureTherapy]] - major treatment branch after diagnosis and selection.

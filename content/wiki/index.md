@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等](sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz.md) — 这病说来话长 multidisciplinary episode on older-adult home care, falls, emergency warning signs, pancreatitis, sleep apnea, oral care, and holiday nutrition.
 - [415. The Murder of Richard II (Part 3)](sources/415-the-murder-of-richard-ii-part-3-glt6435684837.md) — The Rest Is History episode on Richard II's sacred kingship, the Lords Appellant, coercive personal rule, deposition, and the Lancastrian legitimacy crisis.
 - [416. The Canterbury Tales (Part 4)](sources/416-the-canterbury-tales-part-4-glt1956280616.md) — The Rest Is History on Chaucer, plague-era mobility, pilgrimage, hierarchy, the Wife of Bath, and English vernacular literary legitimacy.
 - [417. Britain in 1974: State of Emergency (Part 1)](sources/417-britain-in-1974-state-of-emergency-part-1-glt6761791949.md) — The Rest Is History on Heath's technocratic government, incomes policy, the oil shock, miners' leverage, and the three-day week before the February election.
@@ -13820,6 +13821,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Older-Adult Home-Care Safety / 老年居家照护安全](concepts/OlderAdultHomeCareSafety.md) — Function-matched household care linking dignity, medication, feeding, skin, mobility, cognition, and escalation.
+- [Older-Adult Fall Prevention / 老年人跌倒预防](concepts/OlderAdultFallPrevention.md) — Layered fall-risk reduction across history, medicines, environment, transfers, strength, assistance, and post-fall assessment.
+- [Acute Pancreatitis Emergency Escalation / 急性胰腺炎急症升级](concepts/AcutePancreatitisEmergencyEscalation.md) — Urgent routing framework for severe upper-abdominal pain, diagnostic confirmation, systemic deterioration, and recurrence prevention.
 - [Literature as Social History](concepts/LiteratureAsSocialHistory.md) — Qualified use of literary voices, forms, and conflicts to interpret hierarchy, work, gender, and social change.
 - [Post-Plague Social Mobility](concepts/PostPlagueSocialMobility.md) — Mechanism linking mortality, inheritance, labor scarcity, wage controls, commerce, and selective mobility.
 - [Vernacular Literary Legitimacy](concepts/VernacularLiteraryLegitimacy.md) — Process by which multilingual exchange and literary range raise a vernacular language's cultural prestige.
