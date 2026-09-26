@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8238
+wiki_total_pages: 8239
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "RansomwareBusinessContinuity"
     title: "Ransomware Business Continuity"
     url: "/wiki/concepts/ransomwarebusinesscontinuity/"
+  - key: "RapidWeightLossSafetyBoundary"
+    title: "Rapid Weight-Loss Safety Boundary / 快速减重安全边界"
+    url: "/wiki/concepts/rapidweightlosssafetyboundary/"
   - key: "RareEarthExportLeverage"
     title: "Rare Earth Export Leverage"
     url: "/wiki/concepts/rareearthexportleverage/"

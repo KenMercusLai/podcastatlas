@@ -116262,6 +116262,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/rapid/"
     },
+    "RapidWeightLossSafetyBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lpvfoCaGWyW5ahN49Nt-yQkxOm18 [lpvfoCaGWyW5ahN49Nt-yQkxOm18].md",
+          "key": "vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18",
+          "show": "这病说来话长",
+          "title": "VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招",
+          "url": "/wiki/sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/rapidweightlosssafetyboundary/"
+    },
     "RareEarthExportLeverage": {
       "episode_count": 3,
       "show_count": 3,
@@ -164102,9 +164118,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -164154,6 +164170,13 @@
           "show": "这病说来话长",
           "title": "VOL.105悲剧！规培生不止沦为了廉价劳动力！和7位医生解剖规培利弊得失",
           "url": "/wiki/sources/vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43/"
+        },
+        {
+          "episode_file": "lpvfoCaGWyW5ahN49Nt-yQkxOm18 [lpvfoCaGWyW5ahN49Nt-yQkxOm18].md",
+          "key": "vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18",
+          "show": "这病说来话长",
+          "title": "VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招",
+          "url": "/wiki/sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18/"
         }
       ],
       "updated": "2026-09-26",

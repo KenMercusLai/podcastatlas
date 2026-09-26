@@ -22962,3 +22962,11 @@ Added source `vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongy
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招
+
+Added source `vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18`; created `RapidWeightLossSafetyBoundary`; and updated `ZihanDoctor`, the canonical index, and overview from the complete bounded source set. Core synthesis: weight-loss need should be assessed before method choice, and faster scale change does not establish safety across severe restriction, abrupt exercise, prescription drugs, liposuction, or bariatric surgery. No settled contradiction found; BMI and rate thresholds, ICU anecdotes, and March 2024 semaglutide regulatory and dosing details remain source-scoped rather than current individualized guidance. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

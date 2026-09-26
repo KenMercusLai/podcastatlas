@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招](sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18.md) — 这病说来话长 episode on assessment before weight loss, rapid-loss harms, exercise overload, eating-disorder escalation, prescription and procedure boundaries, and sustainable maintenance.
 - [VOL.102中医科｜真想减肥就别再碰这些！中医教你看清这五个疗法里的大忽悠就是它！](sources/vol-102-zhongyike-zhenxiang-jianfei-jiu-bie-zai-peng-zhexie-zhongyi-jiao-ni-kanqing-zhe-wu-ge-liaofa-li-de-da-huyou-jiushi-ta-lr4crzrbp8ladtcrn7r4hyren-25.md) — 这病说来话长 episode on health-first weight decisions, gradual change, TCM treatment boundaries, and skepticism toward universal or rapid-loss claims.
 - [426. History's Greatest Monkeys](sources/426-historys-greatest-monkeys-glt5532014348.md) — The Rest Is History on primates as pets, fighters, performers, workers, mascots, political symbols, artistic provocations, and scientific mirrors under persistent source uncertainty.
 - [VOL.103中医科｜中医大夫教你识破春季养生营销骗局 防过敏、春季饮食这么吃](sources/vol-103-zhongyike-zhongyi-dafu-jiao-ni-shipuo-chunji-yangsheng-yingxiao-pianju-fang-guomin-chunji-yinshi-zheme-chi-liocs7vqytyxu6y4oaqlwj57h0jp.md) — 这病说来话长 episode on bounded spring routines, TCM evidence limits, allergy and amenorrhea escalation, and skepticism toward seasonal wellness marketing.
@@ -13774,6 +13775,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Rapid Weight-Loss Safety Boundary / 快速减重安全边界](concepts/RapidWeightLossSafetyBoundary.md) — Cross-method safety frame for assessment, pacing, body composition, severe restriction, exercise overload, medication and procedure eligibility, escalation, and maintenance.
 - [TCM Weight-Management Boundary / 中医减重边界](concepts/TCMWeightManagementBoundary.md) — Separates health-first, gradual, individualized weight management from unvalidated TCM diagnostic and treatment claims.
 - [Human–Primate Mirror](concepts/HumanPrimateMirror.md) — Framework for monkeys and apes as near-human figures in science, art, politics, celebrity, status, and moral projection.
 - [Captive Primate Spectacle](concepts/CaptivePrimateSpectacle.md) — Continuum linking primate pet keeping, blood sport, performance, mascot work, display, and sanctuary transition.

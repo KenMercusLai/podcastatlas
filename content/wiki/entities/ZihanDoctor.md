@@ -10,6 +10,7 @@ sources:
   - vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
   - vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43
+  - vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -34,9 +35,11 @@ VOL.110 adds her medical-humanities and end-of-life role through 《最好的告
 
 VOL.105 adds her trainee and supervisor perspective. She describes having combined professional-master's requirements with residency training, difficult departments, early information gathering, long shifts, and severe fatigue. As a later teacher, she emphasizes sustainable ways to release pressure, acknowledges that distress during a low-power training period can be real, and asks trainees to use short ICU rotations for actual learning rather than only task completion.
 
+VOL.101 adds her weight-management safety role. She separates medical need from appearance dissatisfaction, asks listeners to investigate causes before choosing a method, and uses ICU cases of exertional muscle breakdown and severe malnutrition to show how restriction and exercise can cross from self-management into organ failure. Her framework does not reject medication or surgery, but places each intervention behind indication, contraindication, monitoring, and maintenance rather than celebrity imitation or rapid scale loss.
+
 ## Key Characteristics
 - Explains hantavirus through subtype, geography, host reservoir, transmission route, and clinical syndrome, distinguishing localized outbreak risk from broad community-transmission fear.
-- Connects public medical education to concrete prevention and lifestyle behavior, from rodent-safe cleanup to low-friction aerobic activity and moderate eating.
+- Connects public medical education to concrete prevention and lifestyle behavior, from rodent-safe cleanup to low-friction aerobic activity, moderate eating, and a safety boundary against rapid-loss imitation.
 - Keeps clinical warning signs visible, especially respiratory distress after flu-like symptoms and hemorrhagic fever with renal syndrome signs such as high fever, "three reds and three pains," bleeding points, shock, and kidney injury.
 - Frames ICU as time- and organ-support for acute, potentially reversible disease rather than a terminal label, while distinguishing comfort-focused care in irreversible terminal decline.
 - Connects acute survival to rehabilitation, ordinary function, and patient-defined quality of life.
@@ -54,11 +57,14 @@ VOL.105 adds her trainee and supervisor perspective. She describes having combin
 - Exercise and eating translation: [[vol-117-geshou-xinxiaoqi-bu-qu-jianshenfang-jiu-zai-jia-chaomanpao-qianwan-bie-jieshi-lvzc4-syubatlt-nmkxggpdymdb3]] has 子涵医生 explain relaxed super-slow jogging, gradual session progression, seven-to-eight-tenths fullness, and the difference between mild hunger and meal-skipping.
 - End-of-life distinction: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] has 子涵医生 use ICU experience and 《最好的告别》 to distinguish active support for reversibility from comfort-focused terminal care.
 - Training and supervision: [[vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43]] has 子涵老师 connect her combined professional-master's and residency experience with exhausting work, difficult teaching environments, pressure-release practices, and a later commitment to making ICU rotation educational.
+- Weight-management risk: [[vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18]] has 尹子涵 distinguish medical need from appearance anxiety, explain risk across restriction, abrupt exercise, semaglutide, liposuction, and bariatric surgery, and connect severe muscle injury and malnutrition to ICU care.
 
 ## Qualifications
-The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her training recollection cannot establish typical workload, mental-health outcomes, or teaching quality across programs. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, weight-management, occupational-health, or crisis guidance.
+The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her training recollection cannot establish typical workload, mental-health outcomes, or teaching quality across programs. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, eating-disorder, medication, surgical, weight-management, occupational-health, or crisis guidance. VOL.101's March 2024 semaglutide approval and dosing statements are historical source claims rather than current prescribing guidance.
 
 ## What Changed
+- Added her assessment-before-intervention and rapid-weight-loss safety role.
+- Connected exertional muscle breakdown and severe malnutrition to her ICU escalation frame.
 - Added her reading-led explanation of comfort-focused terminal care.
 - Clarified her boundary between ICU support for reversible illness and treatment limitation in irreversible decline.
 - Added the continuity between her own overloaded training experience and her later supervision of ICU trainees.
@@ -83,3 +89,5 @@ The wiki has no independent biographical evidence for 尹子涵 beyond these epi
 - [[ResidentPhysicianStandardizedTraining]] - training system she describes experiencing through a professional-master's pathway.
 - [[ClinicalTeachingRelationship]] - later supervisor role through which she tries to turn short ICU rotations into learning.
 - [[MedicalTraineePsychosocialSafety]] - pressure-recognition and support boundary reinforced by her account.
+- [[RapidWeightLossSafetyBoundary]] - cross-method safety frame she develops through restriction, exercise, medication, procedure, and ICU examples.
+- [[LifestyleWeightManagement]] - sustainable body-composition and maintenance frame reinforced by her personal routine.
