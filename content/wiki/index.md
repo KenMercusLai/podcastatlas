@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！](sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1.md) — 日谈物语 excerpt on a holiday release pause, public-interest reasoning for a free future episode, and a small elevation-based Japan foliage trip; it never reaches the juvenile-murder case named in the title.
 - [440. Lord Byron: Mad, Bad and Dangerous to Know (Part 1)](sources/440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746.md) — The Rest Is History on Byron's family inheritance, childhood adversity, Cambridge formation, early self-fashioning, and the Byronic hero.
 - [How to Master Growth Mindset to Improve Performance | Dr. David Yeager](sources/how-to-master-growth-mindset-to-improve-performance-dr-david-yeager-scim6606381639.md) — Huberman Lab interview on conditional growth mindset, stress appraisal, demanding support, purpose, adolescent status, and the environmental requirements for durable change.
 - [GUEST SERIES | Dr. Matt Walker: How to Structure Your Sleep, Use Naps & Time Caffeine](sources/guest-series-dr-matt-walker-how-to-structure-your-sleep-use-naps-time-caffeine-scim8589399999.md) — Huberman Lab sleep-series episode on lifespan sleep architecture, nap timing, sleep pressure, caffeine, liminal rest, and adult polyphasic-sleep risks.

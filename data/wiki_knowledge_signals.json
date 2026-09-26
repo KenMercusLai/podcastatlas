@@ -99814,9 +99814,9 @@
       "url": "/wiki/entities/ningbozhoushanport/"
     },
     "NittanWuyu": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -99838,9 +99838,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E03 尊严死？！日本医生被判杀人事件",
           "url": "/wiki/sources/2026-qiuji-pian-e03-zunyan-si-riben-yisheng-beipan-sharen-shijian-flop0zzkutdjvbj11zpa-cz62ijj4/"
+        },
+        {
+          "episode_file": "FlXCZ_xQebpUiHV6V-bH9hHDTBq1 [FlXCZ_xQebpUiHV6V-bH9hHDTBq1].md",
+          "key": "2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1",
+          "show": "日谈物语",
+          "title": "2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！",
+          "url": "/wiki/sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1/"
         }
       ],
-      "updated": "2026-09-19",
+      "updated": "2026-09-26",
       "url": "/wiki/entities/nittanwuyu/"
     },
     "NiuJinLateHan": {
@@ -138867,9 +138874,9 @@
       "url": "/wiki/concepts/traumanarrativeintegration/"
     },
     "TravelAgencyItineraryOperations": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIRwOdgRhAeuiTgTUGMXP [GKwRIRwOdgRhAeuiTgTUGMXP].md",
@@ -138877,9 +138884,16 @@
           "show": "无时差研究所",
           "title": "EP386-十一出行不想当大冤种？咱们来听听资深领队的小巧思！",
           "url": "/wiki/sources/ep386-shiyi-chuxing-bu-xiang-dang-dayuanzhong-zanmen-lai-tingting-zishen-lingdui-de-xiaoqiaosi-gkwrirwodgrhaeuitgtugmxp/"
+        },
+        {
+          "episode_file": "FlXCZ_xQebpUiHV6V-bH9hHDTBq1 [FlXCZ_xQebpUiHV6V-bH9hHDTBq1].md",
+          "key": "2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1",
+          "show": "日谈物语",
+          "title": "2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！",
+          "url": "/wiki/sources/2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-26",
       "url": "/wiki/concepts/travelagencyitineraryoperations/"
     },
     "TravelThrombosisPrevention": {

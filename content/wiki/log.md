@@ -22703,3 +22703,10 @@ Added source `440-lord-byron-mad-bad-and-dangerous-to-know-part-1-glt4389862746`
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-26] ingest | 2026秋季篇E04 恋爱脑？石卷市未成年人杀人事件！
+
+Added source `2026-qiuji-pian-e04-lianai-nao-shijuan-shi-wei-chengnian-ren-sharen-shijian-flxcz-xqebpuihv6v-bh9hhdtbq1`; updated `NittanWuyu`, `TravelAgencyItineraryOperations`, the canonical index, and overview from their complete bounded source sets. Core synthesis: the excerpt treats free distribution as a public-discussion choice and differentiates a small Japan foliage trip through mountain terrain and color changes across elevation. No settled contradiction found. The supplied transcript contains no information about the Ishinomaki juvenile murder case named in the metadata, and host identity, itinerary details, operator, price, booking terms, and safety arrangements remain unknown. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
