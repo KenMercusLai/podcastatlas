@@ -1641,6 +1641,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455": [
     {
       "key": "history",
@@ -51605,6 +51612,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "NaziInvoluntaryEuthanasiaProgram": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NeMoClaw": [

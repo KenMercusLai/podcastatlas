@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 8312
+wiki_total_pages: 8314
 wiki_pages:
   - key: "NADTherapyEvidenceBoundary"
     title: "NAD Therapy Evidence Boundary"
@@ -116,6 +116,12 @@ wiki_pages:
   - key: "NavigationDeviceCommoditization"
     title: "Navigation Device Commoditization"
     url: "/wiki/concepts/navigationdevicecommoditization/"
+  - key: "NaziInvoluntaryEuthanasiaProgram"
+    title: "Nazi Involuntary-Euthanasia Program"
+    url: "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"
+  - key: "NaziRacialMorality"
+    title: "Nazi Racial Morality"
+    url: "/wiki/concepts/naziracialmorality/"
   - key: "NearMissDesign"
     title: "Near-Miss Design"
     url: "/wiki/concepts/nearmissdesign/"

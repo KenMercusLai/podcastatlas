@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1238
+topic_total_pages: 1239
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1282,6 +1282,9 @@ topic_concepts:
   - key: "NavierStokesEquations"
     title: "Navier-Stokes Equations"
     url: "/wiki/concepts/navierstokesequations/"
+  - key: "NaziInvoluntaryEuthanasiaProgram"
+    title: "Nazi Involuntary-Euthanasia Program"
+    url: "/wiki/concepts/naziinvoluntaryeuthanasiaprogram/"
   - key: "NearMissDesign"
     title: "Near-Miss Design"
     url: "/wiki/concepts/nearmissdesign/"

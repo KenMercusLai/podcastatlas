@@ -23228,3 +23228,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 408. The Nazis in Power: Hitler's Dream (Part 5)
+
+Added source `408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744`; created `NaziRacialMorality` and `NaziInvoluntaryEuthanasiaProgram`; and updated `AdolfHitler`, `JosephGoebbels`, `HeinrichHimmler`, `AdolfEichmann`, `NaziGermany`, `EugenicGovernance`, `SocialDarwinism`, `ForcedSterilizationByEugenics`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Nazi morality displaced individual dignity and universal obligation with alleged racial health and carried that reversal through selective history, pseudoscience, law, medicine, compulsory sterilization, and involuntary killing. No settled contradiction found. The depth of ordinary Germans' ideological acceptance remains debated, while quotations, sterilization estimates, classical influence, trial details, and individual beliefs remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
