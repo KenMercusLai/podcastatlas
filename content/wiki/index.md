@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer](sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757.md) — Huberman Lab Journal Club on day-night light exposure and psychiatric outcomes, observational-study limits, cancer immune recognition, CTLA-4 blockade, survival, and autoimmune toxicity.
 - [412. Romans in Space: Star Wars, Dune and Beyond...](sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172.md) — The Rest Is History on Roman political memory across Star Wars, Foundation, Dune, Star Trek, and The Hunger Games, with a guardrail against one-to-one allegory.
 - [VOL.98乳腺外科｜谁的乳腺不是乳腺呢 乳腺疾病是被气出来的吗？｜乳腺自查指南](sources/vol-98-ruxianwaike-sheide-ruxian-bushi-ruxian-ne-ruxian-jibing-shi-bei-qi-chulai-de-ma-ruxian-zicha-zhinan-lginwlcqmjiaxozgtogn7sqlgqlt.md) — 这病说来话长 episode on breast findings, change awareness, cancer-risk context, and myths about emotion, size, soy, massage, and male breast disease.
 - [413. The Peasants' Revolt: England Erupts (Part 1)](sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595.md) — The Rest Is History on failed war, poll-tax enforcement, post-plague labor conflict, coordinated regional rebellion, Wat Tyler, and John Ball.
@@ -13838,6 +13839,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Day-Night Light and Mental Health](concepts/DayNightLightMentalHealth.md) — Observational framework separating morning and evening timing cues, bright daytime exposure, nighttime darkness, psychiatric associations, and causal limits.
+- [Immune Checkpoint Inhibition](concepts/ImmuneCheckpointInhibition.md) — T-cell brake-release strategy joining CTLA-4 blockade, overall-survival benefit, response limits, and autoimmune toxicity.
 - [Roman Political Memory in Science Fiction](concepts/RomanPoliticalMemoryInScienceFiction.md) — Reuse of republican collapse, empire, frontier decline, and spectacle to make imagined futures politically legible.
 - [Historical Composite Allegory](concepts/HistoricalCompositeAllegory.md) — Reading model where fiction combines several histories and genres without mapping cleanly onto one original.
 - [乳腺异常识别与分诊 / Breast Finding Recognition and Triage](concepts/BreastFindingRecognitionAndTriage.md) — Finding-to-diagnosis framework for persistent lumps, skin or nipple changes, imaging, and clinical escalation.

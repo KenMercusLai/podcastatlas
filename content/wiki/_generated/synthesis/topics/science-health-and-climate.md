@@ -4,8 +4,8 @@ generated: true
 topic_id: science-health-and-climate
 title: "Science, Health, and Climate"
 last_updated: 2026-09-27
-as_of_overview_commit: 7a5431230ec53aa31bfd43173605a13168b8b5dc
-input_digest: 8274750dbb5280e801ac1703ce44cfec3286c25370b1251fadd6051528275e27
+as_of_overview_commit: b3289eb1bca92b994d45eabff791d867ea4d622e
+input_digest: 7e352ec2d3cd5e05a3af5e2e73064bb110362b07674e696cb491a64f6c675553
 ---
 
 # Science, Health, and Climate
@@ -859,3 +859,15 @@ Collagen and probiotics increasingly appear in cosmetics, snacks, drinks, and mi
 - The episode is structured public neuroscience and medical education, not individualized cognitive, neurological, psychiatric, medication, concussion, Alzheimer, Parkinson, or rehabilitation care.
 - Bromocriptine, COMT, pupil, exercise, mindfulness, modularity, TMS, and brain-health-index claims remain source-scoped because the supplied summary omits complete methods, effect sizes, and replication.
 - The reported traumatic-brain-injury modularity study involved only 12 participants and does not establish a clinical treatment-selection biomarker.
+
+### Day Night Light And Checkpoint Therapy Need Causal And Toxicity Boundaries
+
+[[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757|The Huberman-Attia Journal Club]] adds two evidence-boundary cases: [[DayNightLightMentalHealth]] and [[MorningLightCircadianAnchoring]] separate bright-day/dark-night association from causal psychiatric treatment, while [[CancerImmuneRecognitionProblem]], [[TumorMicroenvironment]], and [[ImmuneCheckpointInhibition]] show that releasing a CTLA-4 T-cell brake can improve advanced-melanoma overall survival while increasing immune-related toxicity.
+
+**Evidence:** [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]], [[HubermanLab]], [[AndrewHuberman]], [[PeterAttia]], [[DayNightLightMentalHealth]], [[MorningLightCircadianAnchoring]], [[CancerImmuneRecognitionProblem]], [[TumorMicroenvironment]], [[ImmuneCheckpointInhibition]]
+
+**Qualifications:**
+
+- The psychiatric-light findings are observational and use wrist-level, spectrally limited sensing, so residual confounding and reverse causality prevent a treatment-level causal conclusion.
+- The advanced-melanoma trial does not establish that checkpoint blockade benefits every cancer or patient, and stronger immune activation can injure healthy tissue.
+- Medication mechanisms, subgroup findings, exact light prescriptions, melanoma-risk claims, and treatment details remain source-scoped public education rather than individualized care.

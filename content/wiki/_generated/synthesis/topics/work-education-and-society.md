@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-27
-as_of_overview_commit: 96319340a45bf2e1d5df94ace880c709b96d5dbc
-input_digest: 49ad6028a23e82202dae951e915f74c807c54424e08528b5baf4f4bfa680d69b
+as_of_overview_commit: b3289eb1bca92b994d45eabff791d867ea4d622e
+input_digest: 8f4fe4f559dcd68cbb17345822446783a589f49b5444ac063164197fba941576
 ---
 
 # Work, Education, and Society
@@ -1182,3 +1182,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 - The episode is broad multidisciplinary public education rather than a home-care protocol, emergency guideline, or individualized medical plan.
 - Family observation and support do not authorize unsupervised medication changes, tube feeding, airway procedures, emergency-drug use, or device selection.
 - Exact thresholds, treatment windows, mortality figures, and household procedures remain source-scoped.
+
+### Day Night Light Is Environmental Support Not Productivity Or Treatment Doctrine
+
+[[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757|The Huberman-Attia Journal Club]] adds a bounded environment-and-schedule claim: [[DayNightLightMentalHealth]] and [[MorningLightCircadianAnchoring]] make bright daytime exposure and nighttime darkness potentially useful institutional and daily-routine conditions, while the observational design prevents turning them into productivity doctrine or psychiatric treatment.
+
+**Evidence:** [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]], [[HubermanLab]], [[AndrewHuberman]], [[PeterAttia]], [[DayNightLightMentalHealth]], [[MorningLightCircadianAnchoring]]
+
+**Qualifications:**
+
+- The light-and-mental-health study is observational, and wrist sensing, partial spectral capture, residual confounding, and reverse causality limit causal interpretation.
+- Built-environment and schedule changes may support circadian contrast but do not replace psychiatric, sleep, occupational, or oncology care.
+- The checkpoint-therapy half is retained as public science literacy; its clinical decisions are outside a workplace or education protocol.

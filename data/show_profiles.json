@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-24",
       "latest_episode_file": "SCIM8443296592 [SCIM8443296592].md",
-      "source_note_count": 135,
+      "source_note_count": 136,
       "topic_matched_source_note_count": 78,
       "topics": [
         {
@@ -529,6 +529,13 @@
           "episode_count": 3
         },
         {
+          "key": "PeterAttia",
+          "title": "Peter Attia",
+          "url": "/wiki/entities/peterattia/",
+          "kind": "person",
+          "episode_count": 3
+        },
+        {
           "key": "AndyGalpin",
           "title": "Andy Galpin",
           "url": "/wiki/entities/andygalpin/",
@@ -553,13 +560,6 @@
           "key": "LayneNorton",
           "title": "Layne Norton",
           "url": "/wiki/entities/laynenorton/",
-          "kind": "person",
-          "episode_count": 2
-        },
-        {
-          "key": "MarcBrackett",
-          "title": "Marc Brackett",
-          "url": "/wiki/entities/marcbrackett/",
           "kind": "person",
           "episode_count": 2
         }

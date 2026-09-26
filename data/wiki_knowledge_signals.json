@@ -19416,9 +19416,9 @@
       "url": "/wiki/concepts/canadianoilsandsboom/"
     },
     "CancerImmuneRecognitionProblem": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 4,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学 [90f96f60-25be-45ac-b832-56776a23d534].md",
@@ -19454,9 +19454,16 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "SCIM9183043757 [SCIM9183043757].md",
+          "key": "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757",
+          "show": "Huberman Lab",
+          "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/cancerimmunerecognitionproblem/"
     },
     "CancerImmunotherapyAccess": {
@@ -34437,6 +34444,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/daynightlightimmunesupport/"
+    },
+    "DayNightLightMentalHealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9183043757 [SCIM9183043757].md",
+          "key": "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757",
+          "show": "Huberman Lab",
+          "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/daynightlightmentalhealth/"
     },
     "DayOfTheTiles": {
       "episode_count": 1,
@@ -71056,6 +71079,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/immuneagingmosaic/"
     },
+    "ImmuneCheckpointInhibition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9183043757 [SCIM9183043757].md",
+          "key": "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757",
+          "show": "Huberman Lab",
+          "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/immunecheckpointinhibition/"
+    },
     "ImmuneSystemAsTunableSensorNetwork": {
       "episode_count": 1,
       "show_count": 1,
@@ -99813,9 +99852,9 @@
       "url": "/wiki/concepts/morganaticmarriage/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -99858,9 +99897,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Boost Your Energy & Immune System with Cortisol & Adrenaline",
           "url": "/wiki/sources/essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634/"
+        },
+        {
+          "episode_file": "SCIM9183043757 [SCIM9183043757].md",
+          "key": "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757",
+          "show": "Huberman Lab",
+          "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
         }
       ],
-      "updated": "2026-09-22",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -110082,9 +110128,9 @@
       "url": "/wiki/entities/petenitzsche/"
     },
     "PeterAttia": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM5907126956 [SCIM5907126956].md",
@@ -110099,9 +110145,16 @@
           "show": "Huberman Lab",
           "title": "Supplements for Longevity & Their Efficacy | Dr. Peter Attia",
           "url": "/wiki/sources/supplements-for-longevity-their-efficacy-dr-peter-attia-scim7110594668/"
+        },
+        {
+          "episode_file": "SCIM9183043757 [SCIM9183043757].md",
+          "key": "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757",
+          "show": "Huberman Lab",
+          "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
         }
       ],
-      "updated": "2026-09-24",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/peterattia/"
     },
     "PeterDawes": {
@@ -144405,9 +144458,9 @@
       "url": "/wiki/entities/tujia/"
     },
     "TumorMicroenvironment": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学 [90f96f60-25be-45ac-b832-56776a23d534].md",
@@ -144429,9 +144482,16 @@
           "show": "硅谷101",
           "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
           "url": "/wiki/sources/e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9/"
+        },
+        {
+          "episode_file": "SCIM9183043757 [SCIM9183043757].md",
+          "key": "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757",
+          "show": "Huberman Lab",
+          "title": "Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer",
+          "url": "/wiki/sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/tumormicroenvironment/"
     },
     "TungChaoYung": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 8299
+wiki_total_pages: 8301
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "DatingAppMarketplaceDynamics"
     title: "Dating-App Marketplace Dynamics"
     url: "/wiki/concepts/datingappmarketplacedynamics/"
+  - key: "DayNightLightMentalHealth"
+    title: "Day-Night Light and Mental Health"
+    url: "/wiki/concepts/daynightlightmentalhealth/"
   - key: "DayNightLightImmuneSupport"
     title: "Day-Night Light Immune Support"
     url: "/wiki/concepts/daynightlightimmunesupport/"

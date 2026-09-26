@@ -745,12 +745,13 @@
       "86e3b56d496e8d1657bce09184013c2cb10b205729180137608d7f31f504f61d",
       "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
       "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe",
-      "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42"
+      "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42",
+      "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c"
     ],
-    "paragraph_count": 745
+    "paragraph_count": 746
   },
-  "overview_commit": "6c2f4bdf989010fc5a98d0e1f663134941de0922",
-  "overview_digest": "40a976ecf1362dd4358b227b2fbadde0392d093ebe9f8900b906c81e02ed30e7",
+  "overview_commit": "b3289eb1bca92b994d45eabff791d867ea4d622e",
+  "overview_digest": "781a9610f4d8c5f97375cdef772161290625395901c36f694719f807d4057d60",
   "paragraphs": [
     {
       "id": "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
@@ -22027,6 +22028,29 @@
         "SoundBasedStateRegulation",
         "WorkingMemoryActiveControl",
         "tools-to-enhance-working-memory-attention-scim1948560111"
+      ]
+    },
+    {
+      "id": "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757|Journal Club with Dr. Peter Attia: Effects of Light & Dark on Mental Health & Treatments for Cancer]], a [[HubermanLab]] Journal Club with [[AndrewHuberman]] and [[PeterAttia]]. It adds [[DayNightLightMentalHealth]] and [[ImmuneCheckpointInhibition]] while extending [[MorningLightCircadianAnchoring]], [[CancerImmuneRecognitionProblem]], and [[TumorMicroenvironment]]. Its core synthesis is that bright days and dark nights may contribute independently to lower psychiatric symptom burden but the cohort cannot resolve reverse causality, while CTLA-4 blockade shows that releasing a T-cell brake can improve advanced-melanoma survival at the cost of immune-related toxicity. No settled contradiction is recorded; wrist-level light measurement, incomplete spectral capture, residual confounding, causal estimates, medication mechanisms, subgroup findings, melanoma-risk claims, and treatment details remain source-scoped public education rather than individualized psychiatric, sleep, oncology, or dermatology guidance.",
+      "topic_scores": {
+        "science-health-and-climate": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "CancerImmuneRecognitionProblem",
+        "DayNightLightMentalHealth",
+        "HubermanLab",
+        "ImmuneCheckpointInhibition",
+        "MorningLightCircadianAnchoring",
+        "PeterAttia",
+        "TumorMicroenvironment",
+        "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757"
       ]
     }
   ],

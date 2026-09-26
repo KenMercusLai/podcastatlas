@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 8299
+wiki_total_pages: 8301
 wiki_pages:
   - key: "IBDPatientEducationAndPeerSupport"
     title: "IBD Patient Education and Peer Support / IBD患者教育与同伴支持"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "ImmuneAgingMosaic"
     title: "Immune Aging Mosaic"
     url: "/wiki/concepts/immuneagingmosaic/"
+  - key: "ImmuneCheckpointInhibition"
+    title: "Immune Checkpoint Inhibition"
+    url: "/wiki/concepts/immunecheckpointinhibition/"
   - key: "ImmuneSystemAsTunableSensorNetwork"
     title: "Immune System As Tunable Sensor Network"
     url: "/wiki/concepts/immunesystemastunablesensornetwork/"

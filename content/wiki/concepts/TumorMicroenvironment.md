@@ -6,7 +6,8 @@ sources:
   - e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534
   - vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz
   - e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9
-last_updated: 2026-08-28
+  - journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -22,6 +23,8 @@ The wiki first used tumor microenvironment to explain why [[CARTCellTherapy|CAR-
 
 [[e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9]] sharpens the clinical setting distinction. [[YingBo|Ying Bo]] says individualized mRNA vaccines are best positioned after surgery, when the visible tumor burden is low and the treatment goal is to clear residual disease before recurrence. The same mechanism is less likely to overcome bulky tumors, deeply suppressive local environments, or immune systems already damaged by prior treatment, so the microenvironment remains a gate between recognition and outcome.
 
+Local tumor conditions include at least two candidate suppression mechanisms: glycolysis-linked acidity and tumor-secreted inhibitory signals. [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]] uses these mechanisms to explain why antigen-bearing cancer can still escape and why removing a checkpoint brake may restore some T-cell activity without eliminating local resistance or autoimmune risk.
+
 ## Key Claims
 - Tumor microenvironment determines whether immune recognition can become effective tumor killing.
 - Solid tumors can suppress or exclude immune cells even when a target antigen or recognition signal exists.
@@ -29,21 +32,24 @@ The wiki first used tumor microenvironment to explain why [[CARTCellTherapy|CAR-
 - The concept applies beyond CAR-T to cancer vaccines and other immunotherapy combinations.
 - Melanoma's relative immunotherapy sensitivity makes it a more plausible first setting than less immune-responsive tumors.
 - Postoperative residual-disease settings are more favorable for vaccine approaches than bulky or strongly suppressive tumor settings.
+- Metabolic acidity and secreted inhibitory signals are source-scoped examples of how local tumors can reduce immune effectiveness.
 
 ## Evidence
 - CAR-T barrier: [[e235-20-nian-nei-car-t-zhiyu-aizheng-yu-liucheng-boshi-liaoliao-aizheng-zhiliao-de-diceng-zhexue-90f96f60-25be-45ac-b832-56776a23d534]] explains solid-tumor CAR-T difficulty through infiltration, persistence, and local immune suppression.
 - Vaccine boundary: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] says cancer vaccines provide recognition information, while tumor killing still depends on immune-cell presence and function around the tumor.
 - Cancer-type selection: [[vol-220-duihua-dabainiu-under-modena-dingzhi-kangai-yimiao-li-putongren-you-duoyuan-lofs520ps1evva8nafsnrkcbvgjz]] uses melanoma's immunotherapy sensitivity to explain why a vaccine signal there does not immediately generalize to all cancers.
 - Tumor-burden boundary: [[e250-mrna-de-dier-zhanchang-duihua-yingbo-chaijie-moderna-renlei-shouge-zhongliu-yimiao-sanqi-tupo-73a69583-98ee-43d6-a892-3e7c93012dd9]] frames the Moderna/Merck melanoma trial as a postoperative residual-disease problem and warns that bulky tumors and damaged immune systems are harder settings.
+- Suppression mechanisms: [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]] identifies glycolysis-related pH change and secreted immune-suppressing signals as ways tumors may frustrate T-cell attack.
 
 ## Counterevidence & Qualifications
-The page does not claim every solid tumor is uniformly cold or that microenvironment is the only barrier. Antigen choice, immune exhaustion, prior treatment, toxicity, delivery, tumor burden, manufacturing speed, and trial design also shape outcomes.
+The page does not claim every solid tumor is uniformly cold or that microenvironment is the only barrier. Antigen choice, immune exhaustion, prior treatment, toxicity, delivery, tumor burden, manufacturing speed, and trial design also shape outcomes. The new source does not quantify how much acidity or any one secreted signal explains resistance across tumor types.
 
 ## What Changed
 - Added postoperative residual disease versus bulky tumor as a microenvironment-sensitive distinction for individualized cancer vaccines.
 - Migrated the page to the synthesis-first schema.
 - Added hot/cold tumor language from the melanoma-vaccine episode.
 - Extended the concept from CAR-T constraints into cancer-vaccine interpretation.
+- Added metabolic acidity and secreted immune-suppressing signals as candidate local resistance mechanisms.
 
 ## Related Concepts
 - [[SolidTumorCARTConstraints]] - CAR-T-specific barrier where tumor microenvironment is a central cause.
@@ -52,3 +58,4 @@ The page does not claim every solid tumor is uniformly cold or that microenviron
 - [[IndividualizedCancerVaccine]] - patient-specific vaccine workflow whose efficacy depends partly on tumor immune context.
 - [[CancerImmuneRecognitionProblem]] - recognition problem that tumor microenvironment can either enable or frustrate.
 - [[NeoantigenSelectionTradeoff]] - antigen-selection problem whose payoff depends on whether the local tumor context permits attack.
+- [[ImmuneCheckpointInhibition]] - immune-brake strategy that can counter some suppression without removing the whole local barrier.

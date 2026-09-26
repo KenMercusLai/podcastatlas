@@ -23168,3 +23168,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer
+
+Added source `journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757`; created `DayNightLightMentalHealth` and `ImmuneCheckpointInhibition`; and updated `PeterAttia`, `MorningLightCircadianAnchoring`, `CancerImmuneRecognitionProblem`, `TumorMicroenvironment`, the canonical index, and overview from their complete bounded source sets. Core synthesis: bright daytime exposure and nighttime darkness may be independently associated with lower psychiatric symptom burden, but wrist sensing, residual confounding, and reverse causality prevent causal treatment claims; CTLA-4 blockade shows that releasing a T-cell brake can improve advanced-melanoma overall survival while increasing immune-related toxicity. No settled contradiction found. Medication mechanisms, causal estimates, subgroup findings, exact light prescriptions, melanoma-risk claims, and treatment details remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
