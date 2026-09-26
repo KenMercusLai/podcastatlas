@@ -1665,6 +1665,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613": [
     {
       "key": "history",
@@ -15631,6 +15638,13 @@
     }
   ],
   "Carta": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "CarthaginianCommercialToTerritorialEmpire": [
     {
       "key": "economics",
       "label": "Economics",

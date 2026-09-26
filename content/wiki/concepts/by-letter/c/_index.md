@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8258
+wiki_total_pages: 8260
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -314,6 +314,12 @@ wiki_pages:
   - key: "CartesianDualism"
     title: "Cartesian Dualism"
     url: "/wiki/concepts/cartesiandualism/"
+  - key: "CarthaginianCommercialToTerritorialEmpire"
+    title: "Carthaginian Commercial-to-Territorial Empire / 迦太基商业至领土帝国"
+    url: "/wiki/concepts/carthaginiancommercialtoterritorialempire/"
+  - key: "CarthaginianConstitution"
+    title: "Carthaginian Constitution / 迦太基政体"
+    url: "/wiki/concepts/carthaginianconstitution/"
   - key: "CashCowStrategicInertia"
     title: "Cash Cow Strategic Inertia"
     url: "/wiki/concepts/cashcowstrategicinertia/"

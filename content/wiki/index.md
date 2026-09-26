@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [422. Ancient Carthage: Rise of a Superpower (Part 2)](sources/422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144.md) — The Rest Is History on Carthage's Phoenician identity, hostile-source problem, mixed constitution, agricultural base, and transition from maritime trade network to territorial empire.
 - [423. Carthage vs. Rome: The Wolf at the Gates (Part 3)](sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613.md) — The Rest Is History on early Roman-Carthaginian treaties, Roman civic-military incorporation, the Samnite Wars, Pyrrhus, and the strategic approach to Sicily.
 - [Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498.md) — Huberman Lab interview on sturdy parenting, action-based boundaries, validation, repair, frustration tolerance, adolescent connection, and safety intervention.
 - [VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！](sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt.md) — 这病说来话长 roundtable on operating-room privacy, anesthesia and ICU recovery, perioperative pain control, MRI object screening, and gastrointestinal foreign-body safety.
@@ -3376,7 +3377,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
-- [Carthage / 迦太基](entities/Carthage.md) — Older maritime-commercial treaty power whose partnership with Rome gives way to Punic war, fiscal crisis, and Iberian recovery.
+- [Carthage / 迦太基](entities/Carthage.md) — Phoenician-founded North African power whose commerce, agriculture, mixed institutions, and territorial expansion precede Punic war and Iberian recovery.
 - [Pyrrhus of Epirus / 伊庇鲁斯的皮洛士](entities/Pyrrhus.md) — Hellenistic king whose costly victories fail to break Rome's Italian coalition before his withdrawal shifts attention toward Sicily.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander linking the Sicilian holding war, Mercenary War, and Spanish power base inherited by Hannibal.
 - [Hasdrubal the Handsome / 美男子哈斯德鲁巴](entities/HasdrubalTheHandsome.md) — Hamilcar's successor who consolidates Iberia, founds New Carthage, and negotiates the Ebro agreement.
@@ -10425,7 +10426,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lucius Cornelius Sulla / 苏拉](entities/LuciusCorneliusSulla.md) — Marius subordinate turned rival, first marcher on Rome, eastern victor, proscriptions author, dictator, reformer, and abdicator whose precedent shadows Caesar.
 - [Jugurtha / 朱古达](entities/Jugurtha.md) — Numidian king whose war exposes Roman corruption, gives Marius the African command opportunity, and creates Sulla's early credit claim.
 - [Quintus Caecilius Metellus Numidicus / 梅特鲁斯](entities/QuintusCaeciliusMetellusNumidicus.md) — Aristocratic patron and African commander whom Marius politically displaces during the Jugurthine War.
-- [Scipio Aemilianus / 小西庇阿](entities/ScipioAemilianus.md) — Roman commander whose Numantia praise gives Marius early military reputation before Metellan patronage.
+- [Scipio Aemilianus / 小西庇阿](entities/ScipioAemilianus.md) — Roman commander framed by Carthage's destruction and imperial impermanence before his Numantia praise helps establish Marius's reputation.
 - [Teutones and Cimbri / 条顿人与辛布里人](entities/TeutonesAndCimbri.md) — Northern migrating peoples whose defeats of Roman armies create the terror Cimbricus before Marius destroys them and turns emergency victory into political dominance.
 - [Social War / 同盟者战争](entities/SocialWar.md) — Italian allied revolt that exposes the Roman citizenship crisis and gives Marius, Sulla, and Pompeius Strabo a violent domestic command arena.
 - [Mithridates VI / 米特里达梯六世](entities/MithridatesVI.md) — Pontic king whose expansion into Roman Asia, anti-Roman propaganda, massacres, Athens alliance, and defeat by Sulla connect imperial resentment to Rome's command crisis.
@@ -13791,6 +13792,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Carthaginian Constitution / 迦太基政体](concepts/CarthaginianConstitution.md) — Mixed aristocratic order joining sufets, councils, judicial supervision, commanders, and popular participation under an anti-tyranny norm.
+- [Carthaginian Commercial-to-Territorial Empire / 迦太基商业至领土帝国](concepts/CarthaginianCommercialToTerritorialEmpire.md) — Expansion model linking maritime trade, African agriculture, Phoenician identity, fortified frontiers, and direct territorial control.
 - [Parenting Sturdiness](concepts/ParentingSturdiness.md) — Adult capacity to retain values, responsibility, warmth, and connection during a child's distress or opposition.
 - [Boundary–Empathy Parenting](concepts/BoundaryEmpathyParenting.md) — Parenting model pairing adult-enforced limits with validation that does not transfer decision authority to emotion.
 - [Frustration-Tolerance Learning Space](concepts/FrustrationToleranceLearningSpace.md) — Manageable interval between inability or disappointment and adaptation where learning and resilience develop.
@@ -18183,7 +18186,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [State-Mediated Remittance System / 国家中介汇款体系](concepts/StateMediatedRemittanceSystem.md) — Pattern where migrant money becomes routed and archived through officials, consulates, and semi-official banks rather than only private trust networks.
 - [Migrant Family Remittance Obligation / 移民家庭汇款义务](concepts/MigrantFamilyRemittanceObligation.md) — Family, moral, and bureaucratic pressure that turns overseas earning into a duty toward people at home.
 - [Racialized Remittance Politics / 种族化汇款政治](concepts/RacializedRemittancePolitics.md) — Host-country pattern where similar migrant remittances are read as family support for some groups and threat or wealth drain for racialized others.
-- [Archive Preservation Bias / 档案保存偏差](concepts/ArchivePreservationBias.md) — Research-method concept that asks why some remittance records were preserved, centralized, cataloged, and narratable while others stayed scattered.
+- [Archive Preservation Bias / 档案保存偏差](concepts/ArchivePreservationBias.md) — Research method for how administration, dispersal, conquest, and destruction determine which lives and societies remain historically visible.
 - [Algorithmic Cave Allegory / 算法洞穴隐喻](concepts/AlgorithmicCaveAllegory.md) — Episode 167 use of Plato's cave to explain algorithmic reality selection, filtered visibility, and user feedback as projection.
 - [Algorithmic Reason Outsourcing / 算法理性外包](concepts/AlgorithmicReasonOutsourcing.md) — Episode 167 Enlightenment critique where rankings, recommendations, and hot lists perform reason while weakening active judgment.
 - [Algorithmic Dispersed Knowledge / 算法分散知识聚合](concepts/AlgorithmicDispersedKnowledge.md) — Episode 167 Hayekian question of whether platform algorithms can aggregate local and tacit knowledge without losing weak or non-quantified signals.

@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2100
+topic_total_pages: 2101
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -550,6 +550,9 @@ topic_concepts:
   - key: "CarryTradeUnwind"
     title: "Carry Trade Unwind"
     url: "/wiki/concepts/carrytradeunwind/"
+  - key: "CarthaginianCommercialToTerritorialEmpire"
+    title: "Carthaginian Commercial-to-Territorial Empire / 迦太基商业至领土帝国"
+    url: "/wiki/concepts/carthaginiancommercialtoterritorialempire/"
   - key: "CategoryFocusBeforeExpansion"
     title: "Category Focus Before Expansion"
     url: "/wiki/concepts/categoryfocusbeforeexpansion/"

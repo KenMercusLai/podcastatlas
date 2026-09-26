@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 422. Ancient Carthage: Rise of a Superpower (Part 2)
+
+Added source `422-ancient-carthage-rise-of-a-superpower-part-2-glt7946297144`; created `CarthaginianConstitution` and `CarthaginianCommercialToTerritorialEmpire`; and updated `Carthage`, `ScipioAemilianus`, `ArchivePreservationBias`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Carthage's rise joined strategic harbors, maritime exchange, African agriculture, Phoenician identity, mixed aristocratic institutions, and a shift from trading settlements toward territorial control, while Greek and Roman enemy archives require graded confidence. No settled contradiction found. The episode rejects Persian-Carthaginian coordination and the salt-sowing legend; foundation figures, sacrifice reports, constitutional detail, exact numbers, motives, speeches, and dramatic deaths remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！
 
 Added source `vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt`; created `PerioperativePainControl` and `GastrointestinalForeignBodyEscalation`; and updated `PerioperativeAnesthesiaSafety`, `PostAnesthesiaRecoverySafety`, `AnesthesiaDrugMythBoundary`, `MagneticResonanceSafetyAndAppropriateness`, `GenitourinaryForeignBodyEscalation`, `DongXintong`, and `ZihanDoctor` from their complete bounded source sets. Core synthesis: awkward or frightening hospital experiences become safer when privacy, explanation, anticipatory pain control, orientation, MRI object screening, product design, and timely professional care replace shame, toughness, or spectacle. No settled contradiction found. “Mystical” stories and similarities between hallucinations remain anecdotal rather than causal evidence, while drug effects, pain protocols, MRI compatibility, foreign-body removal, and emergency thresholds remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23022,6 +23026,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 423. Carthage vs. Rome: The Wolf at the Gates (Part 3)
 
 Added source `423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613`; created `Pyrrhus` and `RomanCivicMilitaryIncorporation`; and updated `RomanRepublic`, `Carthage`, `Samnites`, and `FirstPunicWar` from their complete bounded source sets. Core synthesis: Rome's pre-Punic strength lay less in uninterrupted victory than in coercive incorporation, civic honor, citizen service, allied manpower, and continued mobilization after defeat, while Carthage remained the older maritime-commercial treaty partner until Roman control of Italy shifted both powers toward Sicily. No settled contradiction found. Early republican narratives, treaty dating, the Gallic sack's causal role, battle details, reported speeches and prophecies, and the citizen-versus-mercenary contrast remain source-scoped or qualified. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 
