@@ -1658,6 +1658,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "413-the-peasants-revolt-england-erupts-part-1-glt8198769595": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "414-the-peasants-revolt-londons-burning-part-2-glt6726049231": [
     {
       "key": "history",
@@ -57113,13 +57120,6 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
-    }
-  ],
-  "PollTax": [
-    {
-      "key": "history",
-      "label": "History",
-      "url": "/topics/history/"
     }
   ],
   "PollinationServiceMarket": [

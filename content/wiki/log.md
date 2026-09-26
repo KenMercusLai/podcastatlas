@@ -23144,3 +23144,11 @@ Added source `tools-to-enhance-working-memory-attention-scim1948560111`; updated
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 413. The Peasants' Revolt: England Erupts (Part 1)
+
+Added source `413-the-peasants-revolt-england-erupts-part-1-glt8198769595`; updated `PeasantsRevolt1381`, `WatTyler`, `JohnBall`, `SimonSudbury`, `RichardIIOfEngland`, `JohnOfGaunt`, `PollTax`, `PostPlagueSocialMobility`, `PoliticalRecordDestruction`, and `PopularRevoltCoalition` from their complete bounded source sets. Core synthesis: the third poll tax triggered a conflict already shaped by failed war finance, plague-driven labor scarcity, wage and servile controls, frustrated mobility, hostile officials, and documentary enforcement; regional networks then turned local resistance into coordinated revolt. No settled contradiction found. The poverty-only “peasants” label is qualified, while Walsingham's Blackheath sermon, Tyler's early biography, demographic totals, reported oaths and speeches, and the exact degree of planning remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -6,6 +6,7 @@ sources:
   - 485-henry-iv-the-usurper-king-part-1-glt8868267122
   - 415-the-murder-of-richard-ii-part-3-glt6435684837
   - 414-the-peasants-revolt-londons-burning-part-2-glt6726049231
+  - 413-the-peasants-revolt-england-erupts-part-1-glt8198769595
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -18,7 +19,9 @@ Richard II was the English king whose courageous handling of the [[PeasantsRevol
 
 ## Current Profile
 
-Richard’s first major political test came at fourteen during the 1381 revolt. A planned barge meeting failed when advisers withdrew from the scale of the crowd, but he later rode to Mile End, accepted sweeping demands, and granted concessions. After [[WilliamWalworth]] struck [[WatTyler]] at Smithfield, Richard rode toward armed archers, claimed that he would be their captain, and led them away until city forces could surround them. He did not revoke the Mile End settlement until 2 July, leaving his sincerity and room for independent action uncertain.
+Richard inherited the throne aged ten in 1377 amid military reversals, coastal pressure, failed expeditions, and growing demands for war taxation. His minority placed royal authority in a politically unstable field where Parliament, magnates, ministers, and local officials shared responsibility but the young king remained the rebels' imagined source of justice.
+
+His first major political test came at fourteen during the 1381 revolt. A planned barge meeting failed when advisers withdrew from the scale of the crowd, but he later rode to Mile End, accepted sweeping demands, and granted concessions. After [[WilliamWalworth]] struck [[WatTyler]] at Smithfield, Richard rode toward armed archers, claimed that he would be their captain, and led them away until city forces could surround them. He did not revoke the Mile End settlement until 2 July, leaving his sincerity and room for independent action uncertain.
 
 The rising may have left Richard fearful of political helplessness while also teaching him that rebels could revere the king and hate his ministers. This experience of [[RebelRoyalism]] helps explain, without determining, his later emphasis on anointing, lawful succession, Edward the Confessor, Westminster, style, ceremony, and religious imagery. [[SacralKingshipPoliticalControl]] was therefore both belief and political method.
 
@@ -33,7 +36,7 @@ Richard's removal solved an immediate governing crisis while transferring it int
 ## Key Characteristics
 
 - Anointed hereditary king who made sacred dignity and visual distinction central to political authority.
-- Personally brave adolescent ruler whose negotiation and improvised intervention helped contain the 1381 revolt.
+- Child king who inherited failed war, contested taxation, and unstable minority government before personally containing the 1381 crisis.
 - Ruler without comparable military glory whose favorites and difficult magnate relations weakened coalition support.
 - Patient political survivor who recovered authority after the Appellant ascendancy.
 - Financially ambitious monarch seeking independence from parliamentary taxation through loans, grants, confiscations, and loyal force.
@@ -42,6 +45,7 @@ Richard's removal solved an immediate governing crisis while transferring it int
 
 ## Evidence
 
+- Accession and fiscal setting: [[413-the-peasants-revolt-england-erupts-part-1-glt8198769595]] places Richard's 1377 accession at age ten within military reversal and the poll-tax sequence.
 - Revolt leadership and early formation: [[414-the-peasants-revolt-londons-burning-part-2-glt6726049231]] traces Rotherhithe, Mile End, Smithfield, delayed revocation, and pardon; [[415-the-murder-of-richard-ii-part-3-glt6435684837]] connects that experience to anointing, Edward the Confessor, court display, and the Wilton Diptych.
 - Favorite and Appellant crisis: [[415-the-murder-of-richard-ii-part-3-glt6435684837]] traces de la Pole, de Vere, the Wonderful Parliament, Radcot Bridge, and the Merciless Parliament.
 - Recovery and personal rule: [[415-the-murder-of-richard-ii-part-3-glt6435684837]] links the 1389 restoration, French truce, Ireland, loans, parliamentary pressure, armed affinity, and revenge.
@@ -51,12 +55,12 @@ Richard's removal solved an immediate governing crisis while transferring it int
 
 ## Qualifications
 
-The sources provide narrative and interpretation rather than a complete administrative history. Richard’s sincerity in 1381, how much of Smithfield was planned, his psychology after the revolt, the coherence of an absolutist program, the motives of favorites and magnates, Henry’s original intentions, Gloucester’s death, hereditary priority among Lancaster and Mortimer, and the manner and responsibility for Richard’s death remain disputed or source-scoped. The Charles I analogy identifies a pattern of finance and personal rule but does not erase the different medieval institutions.
+The sources provide narrative and interpretation rather than a complete administrative history. The exact allocation of authority during Richard's minority, his sincerity in 1381, how much of Smithfield was planned, his psychology after the revolt, the coherence of an absolutist program, the motives of favorites and magnates, Henry’s original intentions, Gloucester’s death, hereditary priority among Lancaster and Mortimer, and the manner and responsibility for Richard’s death remain disputed or source-scoped. The Charles I analogy identifies a pattern of finance and personal rule but does not erase the different medieval institutions.
 
 ## What Changed
 
-- Added Richard’s direct negotiation at Mile End and improvised leadership after Tyler’s fall.
-- Qualified the later psychological account with delayed revocation and uncertainty about his sincerity.
+- Added Richard's accession at ten within failed war, tax pressure, and minority instability.
+- Clarified why rebels could oppose ministers while preserving the child king as a source of legitimate redress.
 
 ## Relationships
 

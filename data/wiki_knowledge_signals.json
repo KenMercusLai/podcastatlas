@@ -76947,9 +76947,9 @@
       "url": "/wiki/entities/johnadams/"
     },
     "JohnBall": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6726049231 [GLT6726049231].md",
@@ -76957,6 +76957,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -77265,9 +77272,9 @@
       "url": "/wiki/entities/johnmccarthy/"
     },
     "JohnOfGaunt": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8868267122 [GLT8868267122].md",
@@ -77289,6 +77296,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -108581,9 +108595,9 @@
       "url": "/wiki/concepts/peacefultransferofpower/"
     },
     "PeasantsRevolt1381": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6726049231 [GLT6726049231].md",
@@ -108591,6 +108605,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -111544,9 +111565,9 @@
       "url": "/wiki/concepts/politicalmartyremulation/"
     },
     "PoliticalRecordDestruction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6726049231 [GLT6726049231].md",
@@ -111554,6 +111575,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -111604,6 +111632,29 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/politicalriskprevention/"
+    },
+    "PollTax": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》18丨中国历史上第一例人头税 [lgQNeqUk0rxeJQGiHWDQxqyQNsVq].md",
+          "key": "zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》18丨中国历史上第一例人头税",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/polltax/"
     },
     "PolySimulator": {
       "episode_count": 1,
@@ -111859,9 +111910,9 @@
       "url": "/wiki/concepts/popularnpddiscourse/"
     },
     "PopularRevoltCoalition": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6726049231 [GLT6726049231].md",
@@ -111869,6 +111920,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -112468,9 +112526,9 @@
       "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostPlagueSocialMobility": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1956280616 [GLT1956280616].md",
@@ -112478,6 +112536,13 @@
           "show": "The Rest Is History",
           "title": "416. The Canterbury Tales (Part 4)",
           "url": "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -121246,9 +121311,9 @@
       "url": "/wiki/entities/richardiiiplay/"
     },
     "RichardIIOfEngland": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT8868267122 [GLT8868267122].md",
@@ -121270,6 +121335,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -129723,9 +129795,9 @@
       "url": "/wiki/entities/simonlordoftheflies/"
     },
     "SimonSudbury": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6726049231 [GLT6726049231].md",
@@ -129733,6 +129805,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",
@@ -150221,9 +150300,9 @@
       "url": "/wiki/entities/wassenaararrangement/"
     },
     "WatTyler": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT6726049231 [GLT6726049231].md",
@@ -150231,6 +150310,13 @@
           "show": "The Rest Is History",
           "title": "414. The Peasants’ Revolt: London’s Burning (Part 2)",
           "url": "/wiki/sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231/"
+        },
+        {
+          "episode_file": "GLT8198769595 [GLT8198769595].md",
+          "key": "413-the-peasants-revolt-england-erupts-part-1-glt8198769595",
+          "show": "The Rest Is History",
+          "title": "413. The Peasants' Revolt: England Erupts (Part 1)",
+          "url": "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"
         }
       ],
       "updated": "2026-09-27",

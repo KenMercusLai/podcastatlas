@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [413. The Peasants' Revolt: England Erupts (Part 1)](sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595.md) — The Rest Is History on failed war, poll-tax enforcement, post-plague labor conflict, coordinated regional rebellion, Wat Tyler, and John Ball.
 - [AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation](sources/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation-scim9500186850.md) — Huberman Lab subscriber AMA on fluoride's anticaries mechanism, dose and exposure, water-policy tradeoffs, filtration choices, and wider oral-health boundaries.
 - [VOL.99八学科联合｜春节健康带回家 给咱不听劝的爸妈 「震惊」家族群的养生干货｜饮食、护理、打鼾、心梗、卒中、消化等](sources/vol-99-ba-xueke-lianhe-chunjie-jiankang-dai-huijia-gei-zan-bu-tingquan-de-bama-zhenjing-jiazuqun-de-yangsheng-ganhuo-yinshi-huli-dahan-xingeng-zuzhong-xiaohua-deng-lrvlx1wbukf4g2pbsem4cbzqbuqz.md) — 这病说来话长 multidisciplinary episode on older-adult home care, falls, emergency warning signs, pancreatitis, sleep apnea, oral care, and holiday nutrition.
 - [414. The Peasants’ Revolt: London’s Burning (Part 2)](sources/414-the-peasants-revolt-londons-burning-part-2-glt6726049231.md) — The Rest Is History on the 1381 rebels in London, royalist radicalism, targeted destruction, Wat Tyler’s death, Richard II’s intervention, and the revolt’s mixed legacy.
@@ -2917,10 +2918,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 
 ## Entities
-- [Peasants’ Revolt of 1381](entities/PeasantsRevolt1381.md) — Royalist and socially radical English rising whose London climax joined anti-serfdom demands, documentary destruction, coalition violence, and royal crisis management.
-- [Wat Tyler](entities/WatTyler.md) — Rebel leader whose expanded Smithfield demands and death precipitated the London revolt’s decisive crisis.
-- [John Ball](entities/JohnBall.md) — Radical preacher associated with the revolt’s egalitarian and anticlerical currents.
-- [Simon Sudbury](entities/SimonSudbury.md) — Archbishop and chancellor executed as a symbol of ecclesiastical, governmental, and documentary power.
+- [Peasants’ Revolt of 1381](entities/PeasantsRevolt1381.md) — Coordinated English rising joining post-plague labor conflict, poll-tax resistance, royalism, social radicalism, documentary destruction, and coalition violence.
+- [Wat Tyler](entities/WatTyler.md) — Kentish captain who led the march toward London before his expanded Smithfield demands and death precipitated the decisive crisis.
+- [John Ball](entities/JohnBall.md) — Radical preacher whose Christian egalitarianism and anticlericalism supplied ideological language for the revolt.
+- [Simon Sudbury](entities/SimonSudbury.md) — Archbishop and chancellor blamed for poll taxation and executed as a symbol of ecclesiastical, governmental, and documentary power.
 - [William Walworth](entities/WilliamWalworth.md) — London mayor who struck Wat Tyler and helped mobilize the coercive suppression of the rising.
 - [Geoffrey Chaucer](entities/GeoffreyChaucer.md) — Medieval poet, diplomat, royal servant, and customs official whose work records a changing 14th-century social world.
 - [The Canterbury Tales](entities/TheCanterburyTales.md) — Chaucer's multi-voiced pilgrimage collection, read as hierarchy-disrupting literature and qualified social evidence.
@@ -13830,13 +13831,13 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Rebel Royalism](concepts/RebelRoyalism.md) — Insurgent loyalty to a monarch combined with violent rejection of ministers, lords, and institutional intermediaries.
-- [Political Record Destruction](concepts/PoliticalRecordDestruction.md) — Deliberate attack on documents because they operationalize status, debt, property, jurisdiction, and privilege.
-- [Popular Revolt Coalition](concepts/PopularRevoltCoalition.md) — Temporary alignment of heterogeneous actors around shared targets without a single ideology or preferred outcome.
+- [Political Record Destruction](concepts/PoliticalRecordDestruction.md) — Deliberate attack on documents because they operationalize labor, status, debt, property, jurisdiction, and privilege.
+- [Popular Revolt Coalition](concepts/PopularRevoltCoalition.md) — Temporary alignment coordinated through shared targets and networks despite heterogeneous social positions and preferred outcomes.
 - [Older-Adult Home-Care Safety / 老年居家照护安全](concepts/OlderAdultHomeCareSafety.md) — Function-matched household care linking dignity, medication, feeding, skin, mobility, cognition, and escalation.
 - [Older-Adult Fall Prevention / 老年人跌倒预防](concepts/OlderAdultFallPrevention.md) — Layered fall-risk reduction across history, medicines, environment, transfers, strength, assistance, and post-fall assessment.
 - [Acute Pancreatitis Emergency Escalation / 急性胰腺炎急症升级](concepts/AcutePancreatitisEmergencyEscalation.md) — Urgent routing framework for severe upper-abdominal pain, diagnostic confirmation, systemic deterioration, and recurrence prevention.
 - [Literature as Social History](concepts/LiteratureAsSocialHistory.md) — Qualified use of literary voices, forms, and conflicts to interpret hierarchy, work, gender, and social change.
-- [Post-Plague Social Mobility](concepts/PostPlagueSocialMobility.md) — Mechanism linking mortality, inheritance, labor scarcity, wage controls, commerce, and selective mobility.
+- [Post-Plague Social Mobility](concepts/PostPlagueSocialMobility.md) — Mechanism linking mortality, inheritance, labor scarcity, legal counterpressure, selective mobility, and collective conflict.
 - [Vernacular Literary Legitimacy](concepts/VernacularLiteraryLegitimacy.md) — Process by which multilingual exchange and literary range raise a vernacular language's cultural prestige.
 - [Pilgrimage as Social Reconnection](concepts/PilgrimageAsSocialReconnection.md) — Reading of collective sacred travel and storytelling as a qualified reversal of epidemic isolation.
 - [February 1974 UK General Election](concepts/February1974UKGeneralElection.md) — Heath's failed miners-and-unions mandate gamble, producing a hung parliament and Wilson minority government.
@@ -17042,7 +17043,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Delayed Rescue Statecraft / 晚救权谋](concepts/DelayedRescueStatecraft.md) — Intervention-timing strategy that can create leverage when disciplined, or collapse when delay destroys morale and command trust.
 - [Crown-Prince Command Risk / 太子挂帅风险](concepts/CrownPrinceCommandRisk.md) — Succession and military-command risk created when an heir gains battlefield authority, officer networks, or combat exposure.
 - [Forced-March Operational Risk / 急行军作战风险](concepts/ForcedMarchOperationalRisk.md) — Military risk that rapid pursuit for advantage breaks command, logistics, formation, and endurance before battle, especially after deceptive signals.
-- [Poll Tax / 人头税](concepts/PollTax.md) — Tax charged by person, which the episode reads as likely emerging from Shang Yang's 348 BCE fiscal reform.
+- [Poll Tax / 人头税](concepts/PollTax.md) — Per-person taxation as administrative legibility, with outcomes ranging from Qin fiscal capacity to English wartime revolt.
 - [Military Action Terminology / 伐侵袭用语](concepts/MilitaryActionTerminology.md) — Chronicle-word distinction among open punitive war, unannounced attack, and light-force surprise attack.
 - [Audience-Versus-Meeting Diplomacy / 朝会之别](concepts/AudienceVsMeetingDiplomacy.md) — Diplomatic wording distinction where "会于京师" signals a lords' meeting at the Zhou capital without full royal audience.
 - [Zhou Hegemon Recognition / 周室霸权承认](concepts/ZhouHegemonRecognition.md) — Zhou court recognition of Qin Xiao Gong as senior lord or hegemon among the vassals.
