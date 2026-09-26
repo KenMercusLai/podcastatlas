@@ -731,12 +731,13 @@
       "5508c647db991b895556c7319899c4b97872aa5e39286efb84e0333985c7f92d",
       "34df1c2e8804f5214a38f77733d73c4efd8161905ce2ee717f86530fdbfa5fcc",
       "fb80aad3fb0f83bb14ebfd51ceb86a6de23a0d1ebcaacbdb106de4eb8a3ab95d",
-      "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0"
+      "364a6adb5ce615964b1409fc3ac18d1a8f3824ae0603cd456b594fbfea4542d0",
+      "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0"
     ],
-    "paragraph_count": 731
+    "paragraph_count": 732
   },
-  "overview_commit": "a146590e667dc0563540dcb5a7de5e7cebb7d545",
-  "overview_digest": "752c72cafe6ac8b1ac0e4b9a3ec0f2c2b317b3bf37fdc525bdb223469a57ce01",
+  "overview_commit": "7c3ee202e77ef45068a59a6ac48f53bfa2de63f7",
+  "overview_digest": "2fb1f1039658049851b77cdc869f54e8eb4e7f5b35041f7d013d1a729fc0ebfd",
   "paragraphs": [
     {
       "id": "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
@@ -21668,6 +21669,36 @@
         "ThomasAndrews",
         "TitanicDisasterMemory",
         "WilliamMurdoch"
+      ]
+    },
+    {
+      "id": "97f8cc77304e41e3885229787f8659d88055623487dd7526205b5b4e510cf1f0",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest Titanic-series addition is [[428-titanic-kings-of-the-world-part-2-glt7773063166|428. Titanic: Kings of the World (Part 2)]], a [[TheRestIsHistory]] episode on [[RMSTitanic|RMS Titanic]] from [[HarlandAndWolff]]'s Belfast yard through design, launch, fitting out, sea trials, crewing, and Southampton departure. It adds [[HarlandAndWolff]] and [[MaritimeSafetyCultureBeforeTitanic]], while extending [[RMSTitanic]], [[WhiteStarLine]], [[ThomasAndrews]], [[BruceIsmay]], [[EdwardSmith]], [[CharlesLightoller]], [[JPMorgan|J. P. Morgan]], [[Belfast]], [[TitanicPassengerSocialComplexity]], and [[MaritimeDisasterSafetyReform]]. Its core synthesis is that serious contemporary engineering and systemic safety failure coexisted: Titanic's double bottom and compartment design made exceptional-safety claims intelligible, but confidence in the ship as its own refuge, regulation tied to earlier assumptions, and commercial deck tradeoffs left lifeboat capacity far below everyone aboard. The episode also joins first-class luxury to mass migration, crew labor, Home Rule politics, port competition, and chance at departure. No settled contradiction is recorded; comparative rankings, dimensions, counts, prices, reported graffiti, dialogue, motives, working conditions, and individual blame remain source-scoped.",
+      "topic_scores": {
+        "culture-and-media": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "428-titanic-kings-of-the-world-part-2-glt7773063166",
+        "Belfast",
+        "BruceIsmay",
+        "CharlesLightoller",
+        "EdwardSmith",
+        "HarlandAndWolff",
+        "JPMorgan",
+        "MaritimeDisasterSafetyReform",
+        "MaritimeSafetyCultureBeforeTitanic",
+        "RMSTitanic",
+        "TheRestIsHistory",
+        "ThomasAndrews",
+        "TitanicPassengerSocialComplexity",
+        "WhiteStarLine"
       ]
     }
   ],

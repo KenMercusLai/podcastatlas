@@ -1665,6 +1665,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "428-titanic-kings-of-the-world-part-2-glt7773063166": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "429-titanic-countdown-to-disaster-part-3-glt1273657377": [
     {
       "key": "history",
@@ -47108,6 +47115,13 @@
     }
   ],
   "MaritimeDisasterSafetyReform": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "MaritimeSafetyCultureBeforeTitanic": [
     {
       "key": "politics",
       "label": "Politics",

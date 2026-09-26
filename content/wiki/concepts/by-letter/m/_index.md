@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8224
+wiki_total_pages: 8225
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -236,6 +236,9 @@ wiki_pages:
   - key: "MaritimeEmergencyEvacuation"
     title: "Maritime Emergency Evacuation"
     url: "/wiki/concepts/maritimeemergencyevacuation/"
+  - key: "MaritimeSafetyCultureBeforeTitanic"
+    title: "Maritime Safety Culture Before Titanic"
+    url: "/wiki/concepts/maritimesafetyculturebeforetitanic/"
   - key: "MaritimeWarningFragmentation"
     title: "Maritime Warning Fragmentation"
     url: "/wiki/concepts/maritimewarningfragmentation/"

@@ -14562,6 +14562,36 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/beijingandinghospital/"
     },
+    "Belfast": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "GLT9519811642 [GLT9519811642].md",
+          "key": "699-the-troubles-return-of-the-ira-part-3-glt9519811642",
+          "show": "The Rest Is History",
+          "title": "699. The Troubles: Return of the IRA (Part 3)",
+          "url": "/wiki/sources/699-the-troubles-return-of-the-ira-part-3-glt9519811642/"
+        },
+        {
+          "episode_file": "GLT2308408988 [GLT2308408988].md",
+          "key": "698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988",
+          "show": "The Rest Is History",
+          "title": "698. The Troubles: The Brink of Civil War (Part 2)",
+          "url": "/wiki/sources/698-the-troubles-the-brink-of-civil-war-part-2-glt2308408988/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/belfast/"
+    },
     "BelgianCongo": {
       "episode_count": 1,
       "show_count": 1,
@@ -17446,9 +17476,9 @@
       "url": "/wiki/entities/broadcom/"
     },
     "BruceIsmay": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -17470,6 +17500,13 @@
           "show": "The Rest Is History",
           "title": "430. Titanic: The Iceberg Strikes (Part 4)",
           "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -22096,9 +22133,9 @@
       "url": "/wiki/entities/charlesiiofengland/"
     },
     "CharlesLightoller": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2941711597 [GLT2941711597].md",
@@ -22106,6 +22143,13 @@
           "show": "The Rest Is History",
           "title": "431. Titanic: Nightmare at Midnight (Part 5)",
           "url": "/wiki/sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -40541,9 +40585,9 @@
       "url": "/wiki/entities/edwardsaid/"
     },
     "EdwardSmith": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2941711597 [GLT2941711597].md",
@@ -40558,6 +40602,13 @@
           "show": "The Rest Is History",
           "title": "430. Titanic: The Iceberg Strikes (Part 4)",
           "url": "/wiki/sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -62313,6 +62364,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/harfleur/"
     },
+    "HarlandAndWolff": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/harlandandwolff/"
+    },
     "HaroldGodwinson": {
       "episode_count": 6,
       "show_count": 2,
@@ -73025,6 +73092,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/jlaustin/"
+    },
+    "JPMorgan": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话 [lr0fb5YFiWoXaamdwjJgH4RjEPrG].md",
+          "key": "ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg",
+          "show": "一劳永逸",
+          "title": "EP76 穿越1940：我与股票大作手利弗莫尔的最后对话",
+          "url": "/wiki/sources/ep76-chuanyue-1940-wo-yu-gupiao-dazuoshou-lifumoer-de-zuihou-duihua-lr0fb5yfiwoxaamdwjjgh4rjeprg/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/jpmorgan/"
     },
     "JRRTolkien": {
       "episode_count": 7,
@@ -92619,9 +92709,9 @@
       "url": "/wiki/entities/marinelepen/"
     },
     "MaritimeDisasterSafetyReform": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -92629,6 +92719,13 @@
           "show": "The Rest Is History",
           "title": "432. Titanic: The Survivors (Part 6)",
           "url": "/wiki/sources/432-titanic-the-survivors-part-6-glt4613169046/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -92649,6 +92746,22 @@
       ],
       "updated": "2026-09-26",
       "url": "/wiki/concepts/maritimeemergencyevacuation/"
+    },
+    "MaritimeSafetyCultureBeforeTitanic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/maritimesafetyculturebeforetitanic/"
     },
     "MaritimeWarningFragmentation": {
       "episode_count": 1,
@@ -115475,9 +115588,9 @@
       "url": "/wiki/entities/rmslusitania/"
     },
     "RMSTitanic": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT4613169046 [GLT4613169046].md",
@@ -115506,6 +115619,13 @@
           "show": "The Rest Is History",
           "title": "429. Titanic: Countdown to Disaster (Part 3)",
           "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -138839,9 +138959,9 @@
       "url": "/wiki/entities/thomabravo/"
     },
     "ThomasAndrews": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2941711597 [GLT2941711597].md",
@@ -138856,6 +138976,13 @@
           "show": "The Rest Is History",
           "title": "429. Titanic: Countdown to Disaster (Part 3)",
           "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -139808,9 +139935,9 @@
       "url": "/wiki/concepts/titanicdisastermemory/"
     },
     "TitanicPassengerSocialComplexity": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT1273657377 [GLT1273657377].md",
@@ -139818,6 +139945,13 @@
           "show": "The Rest Is History",
           "title": "429. Titanic: Countdown to Disaster (Part 3)",
           "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",
@@ -149048,9 +149182,9 @@
       "url": "/wiki/entities/whiteshipdisaster/"
     },
     "WhiteStarLine": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT2129072034 [GLT2129072034].md",
@@ -149065,6 +149199,13 @@
           "show": "The Rest Is History",
           "title": "429. Titanic: Countdown to Disaster (Part 3)",
           "url": "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
+        },
+        {
+          "episode_file": "GLT7773063166 [GLT7773063166].md",
+          "key": "428-titanic-kings-of-the-world-part-2-glt7773063166",
+          "show": "The Rest Is History",
+          "title": "428. Titanic: Kings of the World (Part 2)",
+          "url": "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
         }
       ],
       "updated": "2026-09-26",

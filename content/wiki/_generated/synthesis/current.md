@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-26
-as_of_overview_commit: 7398a6e3717304e92592860163b3ee69c24d651e
+as_of_overview_commit: 7c3ee202e77ef45068a59a6ac48f53bfa2de63f7
 summary: "Podcast Atlas maps how technology, markets, institutions, culture, history, health, psychology, work, education, and care interact as evidence-bound lived systems."
-episode_count: 2860
-source_count: 2860
-paragraph_count: 731
+episode_count: 2865
+source_count: 2865
+paragraph_count: 732
 topic_count: 9
 ---
 
@@ -54,7 +54,7 @@ Media form, materiality, provenance, audience practice, and distribution shape w
 
 ### Governance and Institutions
 
-Institutions turn power into order through capacity, evidence, legitimacy, accountability, bounded consent, and safeguards against coercion and capture.
+Institutions turn power into order through capacity, evidence, legitimacy, accountability, bounded consent, and safeguards against coercion, capture, and normalized safety gaps.
 
 - [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a|The Britain-and-Islamism episode]] makes [[IslamIslamismConflation]] a two-sided governance failure: institutions can stigmatize Muslims by generalizing from a political fringe, or grant organized actors unearned representative authority; [[IslamistEntryism]] therefore requires case-specific evidence, plural consultation, and protection against coercion rather than identity-based suspicion. Evidence: [[islamism-in-britain-what-is-the-threat-6aa9164ffca3d5c77b4b383a]], [[IslamIslamismConflation]], [[IslamistEntryism]], [[Islamism]], [[PreventProgramme]].
 - [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029|The Natalia Olson interview]] adds that [[GovernmentInnovation]] depends on career-staff capacity, democratic accountability, [[OpenDataTransparency]], and consequential [[PolicyLeverageForSystemChange]] rather than business-style command alone; [[GlobalAIGovernanceFramework]] then extends the same logic internationally, while [[SovereignInfrastructureInterdependence]] limits claims of simple national technological separation. Evidence: [[defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029-defaultmp3-ywr3ahjkcgo-e89a7f2ce2a2debd81a21c8497515090-80330029]], [[NataliaOlson]], [[JDVance]], [[GovernmentInnovation]], [[OpenDataTransparency]], [[PolicyLeverageForSystemChange]], [[GlobalAIGovernanceFramework]], [[SovereignInfrastructureInterdependence]].
@@ -82,7 +82,7 @@ Health and science literacy require mechanisms, measurement, uncertainty, urgent
 
 ### Work, Education, and Society
 
-Work and education depend on role clarity, active learning, trustworthy feedback, fair conditions, social support, and institutional capacity.
+Work and education depend on role clarity, active learning, trustworthy feedback, fair conditions, skilled labor, social support, and institutional capacity.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

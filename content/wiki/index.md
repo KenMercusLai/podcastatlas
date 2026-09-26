@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [VOL.104胸外科｜肺结节是什么？哪种肺结节会发展成肺癌？吐黑水排黑便就是排毒了吗](sources/vol-104-xiongwaike-feijiejie-shishenme-nazhong-feijiejie-huifazhan-cheng-feiai-tu-heishui-pai-heibian-jiushi-paidu-le-ma-ljic0qvysuboyxunoz-espjdvlvj.md) — 这病说来话长 episode on pulmonary-nodule interpretation, surveillance and surgical tradeoffs, false detox attribution, multimodal lung-cancer care, hospital matching, and clinical trust.
 - [How the Brain Works, Curing Blindness & How to Navigate a Career Path | Dr. E.J. Chichilnisky](sources/how-the-brain-works-curing-blindness-how-to-navigate-a-career-path-dr-e-j-chichilnisky-scim7934230780.md) — Huberman Lab interview on retinal coding, living human-retina experiments, cell-type-aware vision restoration, neural-interface precision, augmentation, adult adaptation, and nonlinear career choice.
+- [428. Titanic: Kings of the World (Part 2)](sources/428-titanic-kings-of-the-world-part-2-glt7773063166.md) — The Rest Is History on Titanic's Belfast construction, comfort-over-speed strategy, compartment protection, lifeboat assumptions, crew labor, and Southampton departure.
 - [429. Titanic: Countdown to Disaster (Part 3)](sources/429-titanic-countdown-to-disaster-part-3-glt1273657377.md) — The Rest Is History on Titanic's first- and second-class passenger society, floating-hotel luxury, migration networks, class barriers, and the missing middle.
 - [430. Titanic: The Iceberg Strikes (Part 4)](sources/430-titanic-the-iceberg-strikes-part-4-glt2129072034.md) — The Rest Is History on Titanic's third-class migrant world, fragmented ice warnings, accepted speed practice, difficult visibility, and the collision.
 - [431. Titanic: Nightmare at Midnight (Part 5)](sources/431-titanic-nightmare-at-midnight-part-5-glt2941711597.md) — The Rest Is History reconstruction of Titanic's collision, progressive flooding, evacuation ambiguity, unequal access, final plunge, and disputed moral stories.
@@ -2892,6 +2893,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [W. T. Stead](entities/WTStead.md) — Late-Victorian editor, campaigner, sensationalist, and spiritualist aboard Titanic.
 - [Joseph Laroche](entities/JosephLaroche.md) — Haitian engineer whose family widened Titanic's second-class and migration story.
 - [E.J. Chichilnisky](entities/EJChichilnisky.md) — retinal neuroscientist linking human retinal recording and cell-type identification to adaptive vision-restoring implants.
+- [Harland & Wolff](entities/HarlandAndWolff.md) — Belfast shipbuilder whose engineering system produced Titanic within contemporary safety rules and Home Rule politics.
 - [White Star Line](entities/WhiteStarLine.md) — Titanic operator and selective migration intermediary competing through improved third-class passage.
 - [Marconi Company](entities/MarconiCompany.md) — wireless provider whose Titanic operators handled commercial messages, news, and navigational warnings across an organizational boundary.
 - [Thomas Andrews](entities/ThomasAndrews.md) — Titanic designer whose flooding diagnosis established the ship's short survival horizon.
@@ -6389,7 +6391,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [People's Democracy (Northern Ireland)](entities/PeoplesDemocracyNorthernIreland.md) — Radical student civil-rights group whose Belfast-to-Derry march was ambushed at Burntollet.
 - [British Army](entities/BritishArmy.md) — Force sent into Derry and Belfast in August 1969 and initially welcomed by many Catholics.
 - [Derry / Londonderry](entities/Derry.md) — City used as the emblem of Catholic-majority/Protestant-control discrimination, then the October 1968 march and Bogside flashpoint.
-- [Belfast](entities/Belfast.md) — City where August 1969 violence included Divis flats, civilian deaths, displacement, and troop deployment.
+- [Belfast](entities/Belfast.md) — Shipbuilding city linking Titanic's Home Rule-era construction to later Troubles-era street conflict and counterinsurgency.
 - [Bogside](entities/Bogside.md) — Derry district where barricades, petrol bombs, RUC action, and army arrival marked the 1969 crisis.
 - [Stormont](entities/Stormont.md) — Northern Ireland parliament and government whose Protestant-state design and later reform capacity collapse structure the sources.
 - [Burntollet Bridge Attack](entities/BurntolletBridgeAttack.md) — Loyalist ambush of People's Democracy marchers on 4 January 1969.
@@ -13447,7 +13449,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huang Biwei](entities/HuangBiwei.md) — Aether AI founder and causal AI researcher arguing for causal world models as the robot-brain route.
 - [Immersive Translate](entities/ImmersiveTranslate.md) — AI translation tool used as the episode's main example for webpages, PDFs, subtitles, OCR, and manga.
 - [iPhone](entities/IPhone.md) — Apple smartphone product that reset handset competition around touch UI, app ecosystems, and platform coherence.
-- [J.P. Morgan](entities/JPMorgan.md) — Financier referenced in the 1907 panic segment as a stabilizing actor who asked Livermore to stop shorting.
+- [J.P. Morgan](entities/JPMorgan.md) — Financier linking reported 1907 market stabilization to the financial backing of Titanic.
 - [Janet Yellen](entities/JanetYellen.md) — U.S. fiscal-policy figure discussed through short-term Treasury issuance and long-bond funding-cost timing.
 - [Jerome Powell](entities/JeromePowell.md) — Federal Reserve chair referenced through market communication and later made Planet Money's central case for Fed independence under presidential pressure.
 - [Jensen Huang](entities/JensenHuang.md) — Nvidia founder/CEO referenced through insider selling as one input in AI equity valuation risk.
@@ -13760,6 +13762,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Titanic Passenger Social Complexity](concepts/TitanicPassengerSocialComplexity.md) — Framework restoring the internally diverse first- and second-class passenger society obscured by binary retellings.
+- [Maritime Safety Culture Before Titanic](concepts/MaritimeSafetyCultureBeforeTitanic.md) — Framework explaining how advanced compartment design coexisted with inadequate full-ship evacuation capacity.
 - [Hospital Capability–Patient Complexity Matching / 医院能力与患者复杂度匹配](concepts/HospitalCapabilityPatientComplexityMatching.md) — Hospital selection by disease complexity, whole-patient risk, institutional capability, access, continuity, and trust.
 - [Lung Cancer Multimodal Treatment / 肺癌多模式综合治疗](concepts/LungCancerMultimodalTreatment.md) — Histology-, stage-, and sequence-aware coordination of surgery, radiation, chemotherapy, targeted therapy, immunotherapy, and follow-up.
 - [Retinal Neural Coding](concepts/RetinalNeuralCoding.md) — parallel feature-specific spike representation produced by distinct retinal ganglion-cell types.

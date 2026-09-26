@@ -22914,3 +22914,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 428. Titanic: Kings of the World (Part 2)
+
+Added source `428-titanic-kings-of-the-world-part-2-glt7773063166`; created `HarlandAndWolff` and `MaritimeSafetyCultureBeforeTitanic`; migrated and updated `JPMorgan` and `Belfast`; and updated `RMSTitanic`, `WhiteStarLine`, `ThomasAndrews`, `BruceIsmay`, `EdwardSmith`, `CharlesLightoller`, `TitanicPassengerSocialComplexity`, `MaritimeDisasterSafetyReform`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Titanic's serious contemporary engineering and inadequate evacuation capacity coexisted; confidence in compartment protection, regulation built around older assumptions, commercial deck tradeoffs, and the ship-as-refuge idea normalized too few lifeboats without proving the vessel was cheaply built. The episode also joins luxury to mass migration, crew labor, Belfast Home Rule politics, Southampton's rise, and chance at departure. No settled contradiction found. Comparative rankings, measurements, counts, prices, graffiti, dialogue, motives, labor conditions, and individual blame remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

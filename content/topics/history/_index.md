@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2030
+topic_total_pages: 2031
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4629,6 +4629,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "428-titanic-kings-of-the-world-part-2-glt7773063166"
+    title: "428. Titanic: Kings of the World (Part 2)"
+    url: "/wiki/sources/428-titanic-kings-of-the-world-part-2-glt7773063166/"
   - key: "429-titanic-countdown-to-disaster-part-3-glt1273657377"
     title: "429. Titanic: Countdown to Disaster (Part 3)"
     url: "/wiki/sources/429-titanic-countdown-to-disaster-part-3-glt1273657377/"
