@@ -5297,9 +5297,9 @@
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
     "AdolfEichmann": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "103.她是刺穿夜雾的光，她是汉娜·阿伦特 [737939789].md",
@@ -5321,15 +5321,22 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-27",
       "url": "/wiki/entities/adolfeichmann/"
     },
     "AdolfHitler": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5351,6 +5358,13 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-27",
@@ -9382,6 +9396,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/anonymousslanderretaliation/"
     },
+    "Anschluss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/anschluss/"
+    },
     "AntAbao": {
       "episode_count": 1,
       "show_count": 1,
@@ -10876,6 +10906,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/arthurconandoyle/"
     },
+    "ArthurSeyssInquart": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/arthurseyssinquart/"
+    },
     "ArthurSmithWoodward": {
       "episode_count": 1,
       "show_count": 1,
@@ -12137,6 +12183,29 @@
       "updated": "2026-09-17",
       "url": "/wiki/concepts/australiantherapeuticgoodsregulation/"
     },
+    "Austria": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？ [ltvSGOV8hT9_-l7YP9QaMdgJMYrf].md",
+          "key": "139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf",
+          "show": "起朱楼宴宾客",
+          "title": "139.从《昨日的世界》到如今的欧洲：美好年代Belle époque，它还能回来吗？",
+          "url": "/wiki/sources/139-cong-zuo-ri-de-shi-jie-dao-ru-jin-de-ou-zhou-mei-hao-nian-dai-belle-epoque-ta-hai-neng-hui-lai-ma-ltvsgov8ht9-l7yp9qamdgjmyrf/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/austria/"
+    },
     "AustriaHungary": {
       "episode_count": 8,
       "show_count": 1,
@@ -12201,6 +12270,22 @@
       ],
       "updated": "2026-09-24",
       "url": "/wiki/entities/austriahungary/"
+    },
+    "AustrianFirstVictimNarrative": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/austrianfirstvictimnarrative/"
     },
     "AustroHungarianDualMonarchy": {
       "episode_count": 3,
@@ -15057,9 +15142,9 @@
       "url": "/wiki/concepts/benevolentspeechpractice/"
     },
     "BenitoMussolini": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "I, robot？ AI and consciousness [6a880840b0d5e24ea40c7015].md",
@@ -15081,6 +15166,13 @@
           "show": "The Rest Is History",
           "title": "672. The First World War: Italy's Doomed Campaign (Part 2)",
           "url": "/wiki/sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-11",
@@ -37898,9 +37990,9 @@
       "url": "/wiki/concepts/dispersedbusinesselitepower/"
     },
     "DistributedComplicityUnderAuthoritarianism": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -37915,6 +38007,13 @@
           "show": "The Rest Is History",
           "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
           "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-27",
@@ -41164,9 +41263,9 @@
       "url": "/wiki/concepts/ecommerceexpresspricewar/"
     },
     "EconomicAryanization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -41174,6 +41273,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-27",
@@ -45345,6 +45451,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/enforcementagencydatasharing/"
+    },
+    "EngelbertDollfuss": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/engelbertdollfuss/"
     },
     "EngineeringFounderAutomotiveTransition": {
       "episode_count": 1,
@@ -80881,6 +81003,22 @@
       "updated": "2026-09-14",
       "url": "/wiki/concepts/kurikarabattle/"
     },
+    "KurtVonSchuschnigg": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/kurtvonschuschnigg/"
+    },
     "Kush": {
       "episode_count": 1,
       "show_count": 1,
@@ -102259,9 +102397,9 @@
       "url": "/wiki/concepts/navierstokesequations/"
     },
     "NaziGermany": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -102318,6 +102456,13 @@
           "show": "The Rest Is History",
           "title": "408. The Nazis in Power: Hitler's Dream (Part 5)",
           "url": "/wiki/sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-27",
@@ -118784,9 +118929,9 @@
       "url": "/wiki/entities/raskassa/"
     },
     "RationalizedStateViolence": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
@@ -118808,6 +118953,13 @@
           "show": "The Rest Is History",
           "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
           "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        },
+        {
+          "episode_file": "GLT5380362144 [GLT5380362144].md",
+          "key": "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+          "show": "The Rest Is History",
+          "title": "407. The Nazis in Power: The Conquest of Austria (Part 4)",
+          "url": "/wiki/sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144/"
         }
       ],
       "updated": "2026-09-27",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 8314
+wiki_total_pages: 8315
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2378,6 +2378,9 @@ wiki_pages:
   - key: "AustralianTherapeuticGoodsRegulation"
     title: "Australian Therapeutic Goods Regulation / 澳洲保健品监管"
     url: "/wiki/concepts/australiantherapeuticgoodsregulation/"
+  - key: "AustrianFirstVictimNarrative"
+    title: "Austrian First Victim Narrative"
+    url: "/wiki/concepts/austrianfirstvictimnarrative/"
   - key: "AustroHungarianDualMonarchy"
     title: "Austro-Hungarian Dual Monarchy"
     url: "/wiki/concepts/austrohungariandualmonarchy/"

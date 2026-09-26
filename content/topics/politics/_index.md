@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2731
+topic_total_pages: 2733
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -5066,6 +5066,9 @@ topic_entities:
   - key: "HanPingdi"
     title: "Emperor Ping of Han / 汉平帝"
     url: "/wiki/entities/hanpingdi/"
+  - key: "EngelbertDollfuss"
+    title: "Engelbert Dollfuss"
+    url: "/wiki/entities/engelbertdollfuss/"
   - key: "EnglishDefenceLeague"
     title: "English Defence League"
     url: "/wiki/entities/englishdefenceleague/"
@@ -5651,6 +5654,9 @@ topic_entities:
   - key: "KotokuShusui"
     title: "Kotoku Shusui / 幸德秋水"
     url: "/wiki/entities/kotokushusui/"
+  - key: "KurtVonSchuschnigg"
+    title: "Kurt von Schuschnigg"
+    url: "/wiki/entities/kurtvonschuschnigg/"
   - key: "Kyiv"
     title: "Kyiv"
     url: "/wiki/entities/kyiv/"

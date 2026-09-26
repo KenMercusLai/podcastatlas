@@ -748,12 +748,13 @@
       "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe",
       "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42",
       "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c",
-      "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55"
+      "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55",
+      "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9"
     ],
-    "paragraph_count": 748
+    "paragraph_count": 749
   },
-  "overview_commit": "2911786008c35506cd8343414e673a7a728ea046",
-  "overview_digest": "74369b8d69877369d147899ca387d7ecdb205ae25a0e9ba0364b35bf4b89da6a",
+  "overview_commit": "8244a38998abf0c22ded043309535d461a8fc171",
+  "overview_digest": "04cb76b1703d6112ce9c52f65bb8bba40bef0dadc1d5ffd86010aeac27577543",
   "paragraphs": [
     {
       "id": "7f10a2b8b99c384dc46b7c64c1182b70e9b4db3e0f32e8ff64d2a8ff07aa7b44",
@@ -22093,6 +22094,35 @@
         "SecrecyDrivenHistoricalMyth",
         "TheRestIsHistory",
         "Voltaire"
+      ]
+    },
+    {
+      "id": "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics"
+      ],
+      "text": "The latest addition is [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144|407. The Nazis in Power: The Conquest of Austria (Part 4)]], a [[TheRestIsHistory]] episode on the March 1938 [[Anschluss]]. It adds [[Anschluss]], [[KurtVonSchuschnigg]], [[ArthurSeyssInquart]], [[EngelbertDollfuss]], and [[AustrianFirstVictimNarrative]], while extending [[AdolfHitler]], [[Austria]], [[NaziGermany]], [[BenitoMussolini]], [[AdolfEichmann]], [[DistributedComplicityUnderAuthoritarianism]], [[EconomicAryanization]], and [[RationalizedStateViolence]]. Its core synthesis is that Hitler combined military personnel changes, diplomatic isolation, personal intimidation, Austrian Nazi pressure, ultimatums, and invasion to destroy Austrian independence, then joined annexation to institutional plunder and immediate persecution. Austria's first-victim claim is partly true but incomplete: state coercion and erasure coexisted with genuine enthusiasm, opportunism, and Austrian participation in anti-Jewish violence. No settled contradiction is recorded; crowd meaning, private motives, reported dialogue, numerical estimates, legal details, and the precise causal weight of military and diplomatic changes remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+        "AdolfEichmann",
+        "AdolfHitler",
+        "Anschluss",
+        "ArthurSeyssInquart",
+        "Austria",
+        "AustrianFirstVictimNarrative",
+        "BenitoMussolini",
+        "DistributedComplicityUnderAuthoritarianism",
+        "EconomicAryanization",
+        "EngelbertDollfuss",
+        "KurtVonSchuschnigg",
+        "NaziGermany",
+        "RationalizedStateViolence",
+        "TheRestIsHistory"
       ]
     }
   ],

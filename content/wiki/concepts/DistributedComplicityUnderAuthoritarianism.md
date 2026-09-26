@@ -5,6 +5,7 @@ tags: [authoritarianism, complicity, institutions, antisemitism, ethics]
 sources:
   - 410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
+  - 407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -23,6 +24,8 @@ Central direction and local initiative were compatible. Hitler could curb action
 
 Kristallnacht shows the mature layered system: Hitler and Goebbels supplied direction and framing; Heydrich and officials shaped police behavior and detention capacity; party networks acted; professionals and firms benefited; and local crowds could encourage, loot, humiliate, or remain passive. [[EconomicAryanization]] added material incentives, while claims of spontaneity created deniability.
 
+The [[Anschluss]] adds a cross-border version. German coercion and invasion destroyed Austrian political choice, yet Austrian Nazis, officials, police, neighbors, business beneficiaries, and crowds supplied local knowledge, initiative, welcome, humiliation, and violence. National victimization and local complicity therefore coexist; neither makes every Austrian equally responsible.
+
 ## Key Claims
 
 - Authoritarian harm scales through differentiated participation rather than identical ideological commitment.
@@ -38,16 +41,18 @@ Kristallnacht shows the mature layered system: Hitler and Goebbels supplied dire
 - Institutional and social diffusion: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] connects racial law to judges, doctors, officials, schools, service providers, and denunciation.
 - Leadership and pogrom administration: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] connects Hitler, Goebbels, Heydrich, police instructions, jail preparation, and propaganda framing.
 - Professional, commercial, and local participation: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] describes firms, professionals, competitors, crowds, looting, humiliation, and beneficiaries.
+- Annexation and local participation: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects German coercion to Austrian Nazi mobilization, cheering crowds, neighbor and police participation, business seizure, and street humiliation.
 
 ## Counterevidence & Qualifications
 
-Distributed responsibility must not flatten power differences. Senior leaders who designed and authorized persecution, officials who coordinated it, direct perpetrators, opportunistic beneficiaries, intimidated bystanders, resisters, and victims under coercion did not have equivalent agency or guilt. The episodes supply vivid cases rather than representative quantitative measures of German attitudes, and local behavior varied.
+Distributed responsibility must not flatten power differences. Senior leaders who designed and authorized persecution, officials who coordinated it, direct perpetrators, opportunistic beneficiaries, intimidated bystanders, resisters, and victims under coercion did not have equivalent agency or guilt. The episodes supply vivid cases rather than representative quantitative measures of German or Austrian attitudes, and local behavior varied. A conquered state can contain both victims and willing participants.
 
 ## What Changed
 
 - Extended the model backward from Kristallnacht to local initiative, legal enforcement, and social isolation in 1933–36.
 - Added anticipatory radicalization and selective central restraint to the participation model.
 - Preserved differentiated responsibility across leaders, institutions, professionals, beneficiaries, bystanders, resisters, and victims.
+- Added annexation as a case where external coercion and internal participation operated together.
 
 ## Related Concepts
 
@@ -58,3 +63,4 @@ Distributed responsibility must not flatten power differences. Senior leaders wh
 - [[CorporateComplicityWithAuthoritarianism]] - firm-level branch of the broader participation pattern.
 - [[InstitutionalOvercompliance]] - mechanism by which role performance can intensify harmful policy.
 - [[Kristallnacht]] - central case joining leadership, institutions, local action, and deniability.
+- [[AustrianFirstVictimNarrative]] - memory problem requiring national coercion and local agency to be judged together.

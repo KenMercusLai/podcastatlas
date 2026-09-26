@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 10920
+wiki_total_pages: 10924
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "KurtStenn"
     title: "Kurt Stenn / 库尔特·斯坦"
     url: "/wiki/entities/kurtstenn/"
+  - key: "KurtVonSchuschnigg"
+    title: "Kurt von Schuschnigg"
+    url: "/wiki/entities/kurtvonschuschnigg/"
   - key: "KurzweilK250"
     title: "Kurzweil K-250"
     url: "/wiki/entities/kurzweilk250/"

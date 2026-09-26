@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 10920
+wiki_total_pages: 10924
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1106,6 +1106,9 @@ wiki_pages:
   - key: "AnnieCrabill"
     title: "Annie Crabill"
     url: "/wiki/entities/anniecrabill/"
+  - key: "Anschluss"
+    title: "Anschluss"
+    url: "/wiki/entities/anschluss/"
   - key: "AnshelPfeffer"
     title: "Anshel Pfeffer"
     url: "/wiki/entities/anshelpfeffer/"
@@ -1385,6 +1388,9 @@ wiki_pages:
   - key: "ArthurSchopenhauer"
     title: "Arthur Schopenhauer / 叔本华"
     url: "/wiki/entities/arthurschopenhauer/"
+  - key: "ArthurSeyssInquart"
+    title: "Arthur Seyss-Inquart"
+    url: "/wiki/entities/arthurseyssinquart/"
   - key: "ArthurSmithWoodward"
     title: "Arthur Smith Woodward"
     url: "/wiki/entities/arthursmithwoodward/"

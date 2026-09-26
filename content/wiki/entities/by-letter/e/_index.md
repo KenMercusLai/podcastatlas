@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10920
+wiki_total_pages: 10924
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "Enfamil"
     title: "Enfamil"
     url: "/wiki/entities/enfamil/"
+  - key: "EngelbertDollfuss"
+    title: "Engelbert Dollfuss"
+    url: "/wiki/entities/engelbertdollfuss/"
   - key: "England"
     title: "England"
     url: "/wiki/entities/england/"

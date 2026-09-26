@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [407. The Nazis in Power: The Conquest of Austria (Part 4)](sources/407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144.md) — The Rest Is History episode on the Anschluss, Austrian coercion and participation, institutional plunder, anti-Jewish violence, and forced-emigration administration.
 - [Tools to Reduce & Manage Pain | Dr. Sean Mackey](sources/tools-to-reduce-manage-pain-dr-sean-mackey-scim1698075556.md) — Huberman Lab interview on distributed pain construction, hurt-versus-harm reframing, function-centered multimodal care, medication risk, rehabilitation, and pain policy.
 - [VOL.96中医消化｜从「繁花」宝总泡饭聊养胃、脾胃不和 从排骨年糕聊消化不良](sources/vol-96-zhongyi-xiaohua-cong-fanhua-baozong-paofan-liao-yangwei-piwei-buhe-cong-paigu-niangao-liao-xiaohua-buliang-lpuafqvhm2jz705x53xahkr3g8ha.md) — 这病说来话长 episode on pao fan, digestive comfort, glucose context, symptom escalation, and the evidence boundary around regional and TCM food claims.
 - [408. The Nazis in Power: Hitler's Dream (Part 5)](sources/408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744.md) — The Rest Is History episode on Nazi racial morality, social Darwinism, classical myth, eugenic sterilization, involuntary euthanasia, and professional participation.
@@ -2928,11 +2929,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 
 ## Entities
+- [Anschluss](entities/Anschluss.md) — March 1938 coercion, invasion, and complete absorption of Austria, followed by plunder, repression, and anti-Jewish persecution.
+- [Kurt von Schuschnigg](entities/KurtVonSchuschnigg.md) — Austrian authoritarian chancellor whose failed referendum gamble ended in resignation under German invasion threat.
+- [Arthur Seyss-Inquart](entities/ArthurSeyssInquart.md) — Austrian Nazi installed at the political hinge between ultimatum and annexation.
+- [Engelbert Dollfuss](entities/EngelbertDollfuss.md) — Austrian authoritarian chancellor killed in the failed 1934 Nazi coup while Italy still deterred German intervention.
 - [Sean Mackey](entities/SeanMackey.md) — Pain-medicine physician-scientist linking distributed pain neuroscience to function-centered care, clinical nuance, access, and policy.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
-- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator whose racial morality, eugenic violence, leader signals, legal consolidation, war planning, and pogrom authorization drove escalating persecution.
+- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator whose territorial coercion, racial morality, legal consolidation, eugenic violence, and pogrom authorization drove expansion and escalating persecution.
 - [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who articulated racial-health morality and linked agitation, mobilization, timing, and deniability from the 1935 campaign through Kristallnacht.
 - [Nuremberg Laws](entities/NurembergLaws.md) — 1935 legal package that fused party-state symbolism with racial citizenship and intimate-life exclusion.
 - [Victor Klemperer](entities/VictorKlemperer.md) — German Jewish veteran and academic whose rootedness illustrates the emigration decisions created by uneven persecution.
@@ -6565,7 +6570,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mary de Rachewiltz](entities/MaryDeRachewiltz.md) — Translator and daughter of Ezra Pound whose Cantos work is framed as both literary achievement and morally complicated loyalty.
 - [Ezra Pound](entities/EzraPound.md) — Modernist poet whose Cantos, fascist politics, wartime broadcasts, and daughter Mary de Rachewiltz's loyalty extend the compromised-art branch.
 - [The Cantos](entities/TheCantos.md) — Ezra Pound's long poem, discussed through Mary de Rachewiltz's English-Italian translation and the politics of compromised art.
-- [Benito Mussolini](entities/BenitoMussolini.md) — Fascist leader admired by Ezra Pound in The Intelligence's Mary de Rachewiltz segment.
+- [Benito Mussolini](entities/BenitoMussolini.md) — Italian fascist ruler whose cultural, sports, war, and Austrian-diplomacy roles show propaganda, brutality, and alliance dependence.
 - [Franklin D. Roosevelt](entities/FranklinDRoosevelt.md) — U.S. president targeted by Ezra Pound's wartime radio broadcasts in The Intelligence's Pound segment.
 - [庞乱 / Pang Luan](entities/PangLuan.md) — 乱翻书 host for the episode 271 live discussion of 伪史论, evidence, and media trust.
 - [何森堡 / He Senbao](entities/HeSenbao.md) — Science writer and debunker who anchors episode 271's evidence-chain critique of 伪史论.
@@ -9069,7 +9074,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stefan Zweig / 茨威格](entities/StefanZweig.md) — Austrian Jewish writer whose The World of Yesterday frames the episode's Belle Epoque, world-citizen, exile, and witness themes.
 - [The World of Yesterday / 《昨日的世界》](entities/TheWorldOfYesterday.md) — Zweig memoir used by the source as a bridge from prewar Europe to contemporary fragmentation.
 - [Romain Rolland / 罗曼·罗兰](entities/RomainRolland.md) — antiwar writer used in the source's cross-border friendship and world-citizen argument.
-- [Austria](entities/Austria.md) — national and imperial background for Zweig's education, Viennese culture, and later exile story.
+- [Austria](entities/Austria.md) — Former Habsburg cultural center and interwar state whose 1938 coercion, annexation, participation, and persecution complicate a unitary victim story.
 - [Vienna / 维也纳](entities/Vienna.md) — city appearing as totemic siege case, Zweig-era cultural setting, social-housing policy example, and late-Habsburg court-crisis frame.
 - [Schengen Area / 申根区](entities/SchengenArea.md) — European border and visa regime used by the source to explain passport mobility inequality.
 - [Erasmus Programme / 伊拉斯莫计划](entities/ErasmusProgramme.md) — European student-exchange program used as a contemporary identity-building institution.
@@ -10676,10 +10681,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Heidegger / 马丁·海德格尔](entities/MartinHeidegger.md) — Philosopher framed through his relationship with Arendt, Nazi alignment, and the problem of intellectual responsibility.
 - [Karl Jaspers / 卡尔·亚斯贝尔斯](entities/KarlJaspers.md) — Arendt's mentor and later defender, contrasted with Heidegger as a figure of loyal judgment under political pressure.
 - [Heinrich Blücher / 海因里希·布鲁歇尔](entities/HeinrichBlucher.md) — Arendt's exile partner and second husband, presented as a trusted companion in anti-Nazi flight and stateless survival.
-- [Adolf Eichmann / 阿道夫·艾希曼](entities/AdolfEichmann.md) — SS functionary whose early coerced-emigration work and later genocidal administration ground questions of bureaucratic responsibility.
+- [Adolf Eichmann / 阿道夫·艾希曼](entities/AdolfEichmann.md) — SS functionary whose early and post-Anschluss coerced-emigration work led into later genocidal administration.
 - [《艾希曼在耶路撒冷》 / Eichmann in Jerusalem](entities/EichmannInJerusalem.md) — Arendt's controversial report/book on Eichmann, the Holocaust, Jewish Councils, and responsibility versus guilt.
 - [Jewish Councils / 犹太委员会](entities/JewishCouncils.md) — Holocaust-era councils discussed through Arendt's disputed responsibility claims under coercive Nazi rule.
-- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Racial dictatorship whose leader direction, local initiative, law, bureaucracy, war, and distributed participation produced escalating persecution and genocide.
+- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Racial dictatorship joining territorial annexation and plunder to leader direction, law, bureaucracy, distributed persecution, war, and genocide.
 - [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide of European Jews traced through historically developing exclusion, law, war, dispossession, administration, and mass murder.
 - [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
 - [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
@@ -13863,6 +13868,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Austrian First Victim Narrative](concepts/AustrianFirstVictimNarrative.md) — Qualified memory frame preserving Austria's coercion and state victimization without erasing enthusiasm, collaboration, and local persecution.
 - [Pain as a Distributed Experience](concepts/PainAsDistributedExperience.md) — Model separating nociceptive input from the context-shaped sensory and emotional experience of pain.
 - [Hurt-versus-Harm Pain Reframing](concepts/HurtHarmPainReframing.md) — Assessment-dependent distinction supporting graded function when pain is not ongoing damage while preserving warning signs.
 - [Multimodal Function-Centered Pain Care](concepts/MultimodalFunctionCenteredPainCare.md) — Individualized whole-person pain care judged by quality of life, durable function, evidence, and treatment risk.
@@ -13871,8 +13877,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nazi Involuntary-Euthanasia Program](concepts/NaziInvoluntaryEuthanasiaProgram.md) — State killing of people labeled genetically diseased, extending eugenic reproductive control through medical and administrative authority.
 - [Working Towards the Führer](concepts/WorkingTowardsTheFuhrer.md) — Model of subordinates anticipating broad leader wishes and competitively radicalizing policy without detailed orders for every action.
 - [Incremental Persecution and False Stabilization](concepts/IncrementalPersecutionFalseStabilization.md) — Uneven escalation pattern in which pauses and legal form conceal accumulating structures of exclusion.
-- [Economic Aryanization](concepts/EconomicAryanization.md) — Coerced elimination and transfer of Jewish economic life through professional bans, forced sales, confiscation, collective punishment, and exclusion.
-- [Distributed Complicity Under Authoritarianism](concepts/DistributedComplicityUnderAuthoritarianism.md) — Layered participation model linking central direction, institutions, professions, firms, local actors, incentives, and differentiated responsibility.
+- [Economic Aryanization](concepts/EconomicAryanization.md) — Coerced elimination and transfer of Jewish economic life through exclusion, forced sales, confiscation, violence, and annexation-expanded beneficiary networks.
+- [Distributed Complicity Under Authoritarianism](concepts/DistributedComplicityUnderAuthoritarianism.md) — Layered participation model linking central direction and external coercion to institutions, local actors, incentives, and differentiated responsibility.
 - [呼吸道症状分诊 / Respiratory Symptom Triage](concepts/RespiratorySymptomTriage.md) — Pattern-based respiratory assessment that separates symptoms and imaging labels from diagnosis and escalation.
 - [儿童支原体肺炎照护边界 / Pediatric Mycoplasma Pneumonia Care Boundary](concepts/PediatricMycoplasmaPneumoniaCareBoundary.md) — Pediatric severity, follow-up, treatment, testing, and antibiotic-stewardship boundary.
 - [Secrecy-Driven Historical Myth](concepts/SecrecyDrivenHistoricalMyth.md) — Feedback loop in which conspicuous concealment signals importance, invites conjecture, and lets later stories fill archival gaps.
@@ -18881,7 +18887,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ostarbeiter Forced Labor / 东方劳工强制劳动](concepts/OstarbeiterForcedLabor.md) — Nazi Germany's Eastern forced-labor system and its postwar afterlife of stigma, repatriation fear, displacement, and family silence.
 - [Family Memory Nonfiction / 家族记忆非虚构](concepts/FamilyMemoryNonfiction.md) — Nonfiction mode that reconstructs family absence through archives, relatives, documents, photographs, and narrative restraint.
 - [Disaster Silence And Shame / 灾难后的沉默与羞耻](concepts/DisasterSilenceAndShame.md) — Pattern where survivors of historical catastrophe fall silent because trauma, disbelief, survival pressure, or shame blocks testimony.
-- [Rationalized State Violence / 理性化国家暴力](concepts/RationalizedStateViolence.md) — Modern organized harm carried through bureaucracy, categories, calculation, logistics, and state or institutional procedure.
+- [Rationalized State Violence / 理性化国家暴力](concepts/RationalizedStateViolence.md) — Organized harm scaled through bureaucracy, legal absorption, categories, records, logistics, and institutional procedure.
 - [Revolutionary Destruction Of Civilian Life / 革命对日常生活的摧毁](concepts/RevolutionaryDestructionOfCivilianLife.md) — Household-scale damage caused when revolutionary rupture, class labeling, civil war, and coercion destroy ordinary spaces and continuities.
 - [Shipping Weight Economics](concepts/ShippingWeightEconomics.md) — Product-strategy constraint where weight, volume, and fulfillment cost determine whether direct consumer distribution can work.
 - [Regulated Consumer Product Moat](concepts/RegulatedConsumerProductMoat.md) — Consumer-product defensibility pattern where approval, age restrictions, labeling, and compliance slow entry but may reduce competition.

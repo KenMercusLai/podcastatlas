@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | 407. The Nazis in Power: The Conquest of Austria (Part 4)
+
+Added source `407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144`; created `Anschluss`, `KurtVonSchuschnigg`, `ArthurSeyssInquart`, `EngelbertDollfuss`, and `AustrianFirstVictimNarrative`; and updated `AdolfHitler`, `Austria`, `NaziGermany`, `BenitoMussolini`, `AdolfEichmann`, `DistributedComplicityUnderAuthoritarianism`, `EconomicAryanization`, `RationalizedStateViolence`, the canonical index, and overview from their complete bounded source sets. Core synthesis: coercion, diplomatic isolation, ultimatum, and invasion destroyed Austrian independence, while substantial enthusiasm and local participation complicate the first-victim story; annexation also accelerated plunder, anti-Jewish violence, and forced-emigration administration. No settled contradiction found. Crowd meaning, private motives, legal details, numerical estimates, and the causal weight of specific military and diplomatic changes remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-27] ingest | 412. Romans in Space: Star Wars, Dune and Beyond...
 
 Added source `412-romans-in-space-star-wars-dune-and-beyond-glt3832078172`; created `FoundationAsimov`, `FrankHerbert`, `Dune`, `StarTrek`, `TheHungerGames`, `RomanPoliticalMemoryInScienceFiction`, and `HistoricalCompositeAllegory`; and updated `StarWars`, `GeorgeLucas`, `IsaacAsimov`, and `GalacticEmpire` from their complete bounded source sets. Core synthesis: Rome supplies science fiction with reusable models of republican collapse, empire, frontier breakdown, charisma, and spectacle, but Star Wars combines Roman memory with Nazi, Cold War, British imperial, pulp, mythic, and 1970s American signals rather than mapping onto one past. No settled contradiction found. Lucas's intentions, Palpatine–Nixon, Mule–Muhammad, spice–oil, accent, costume, and direct-influence claims remain interpretive or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -23232,6 +23236,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] ingest | 408. The Nazis in Power: Hitler's Dream (Part 5)
 
 Added source `408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744`; created `NaziRacialMorality` and `NaziInvoluntaryEuthanasiaProgram`; and updated `AdolfHitler`, `JosephGoebbels`, `HeinrichHimmler`, `AdolfEichmann`, `NaziGermany`, `EugenicGovernance`, `SocialDarwinism`, `ForcedSterilizationByEugenics`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Nazi morality displaced individual dignity and universal obligation with alleged racial health and carried that reversal through selective history, pseudoscience, law, medicine, compulsory sterilization, and involuntary killing. No settled contradiction found. The depth of ordinary Germans' ideological acceptance remains debated, while quotations, sterilization estimates, classical influence, trial details, and individual beliefs remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

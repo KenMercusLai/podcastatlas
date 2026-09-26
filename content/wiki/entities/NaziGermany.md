@@ -11,6 +11,7 @@ sources:
   - 410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
   - 408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744
+  - 407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -31,6 +32,8 @@ Law did not make persecution moderate. Citizenship, ancestry, marriage, sexualit
 
 The eugenic branch joined reproductive and lethal control to the same racial-health logic. Compulsory sterilization operated through hereditary-health law and medical courts; in 1939, the [[NaziInvoluntaryEuthanasiaProgram|involuntary-euthanasia program]] extended classification into killing. The 1937–39 branch joins these foundations to war planning, identification, [[EconomicAryanization|economic Aryanization]], [[Kristallnacht]], mass arrest, collective punishment, refugee barriers, and centralized coerced emigration. The broader evidence set extends the profile through punched-card classification, Eastern forced labor, intellectual accommodation, bureaucratic murder, and individual resistance.
 
+The Austrian evidence makes territorial expansion a mechanism of domestic radicalization. Diplomatic isolation, threats, Austrian Nazi pressure, invasion, and a legal facade delivered the [[Anschluss]] without general war. Annexation then transferred Austrian institutions and resources to the Reich while mass detention, local anti-Jewish violence, dispossession, and Eichmann's Vienna emigration office widened the persecutory system.
+
 Modern capacities were not intrinsically Nazi: law, data processing, expertise, logistics, administration, industry, and research became catastrophic through their purposes and uses. The source set therefore preserves both central criminal responsibility and [[DistributedComplicityUnderAuthoritarianism|distributed complicity]] without assigning equal guilt to every person under dictatorship.
 
 ## Key Characteristics
@@ -38,7 +41,7 @@ Modern capacities were not intrinsically Nazi: law, data processing, expertise, 
 - Racial morality treated Jews, disabled people, Slavs, and other targeted groups as threats while displacing individual and universal obligations with alleged collective health, survival, and dominance.
 - Leader direction, local initiative, tactical restraint, and legal consolidation produced cumulative radicalization.
 - Law and bureaucracy carried persecution from public policy into ancestry, family, education, work, and intimacy.
-- War planning and internal persecution developed together rather than as separate policy tracks.
+- Territorial expansion, resource seizure, war planning, and internal persecution developed together rather than as separate policy tracks.
 - Firms, professionals, officials, technical systems, and material beneficiaries widened the regime's reach.
 - Forced emigration, dispossession, forced labor, mass arrest, and extermination formed connected but historically developing mechanisms.
 - Eugenic law and professional authority carried reproductive control into involuntary killing.
@@ -53,10 +56,11 @@ Modern capacities were not intrinsically Nazi: law, data processing, expertise, 
 - Resistance branch: [[77-ta-shi-ziyou-de-yegou-ta-shi-falaqi-685710187]] recounts anti-fascist underground activity, torture by German forces, and formative family witness.
 - Early persecution branch: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] connects local radicalism, professional exclusion, racial law, school segregation, denunciation, and Olympic concealment.
 - Prewar terror branch: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] connects war planning, Aryanization, Kristallnacht, mass arrest, forced emigration, and the 1939 annihilation threat.
+- Annexation branch: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects diplomatic coercion and invasion to complete institutional absorption, resource transfer, local participation, mass detention, and forced-emigration administration.
 
 ## Qualifications
 
-The source set consists of narrative podcast episodes with different purposes rather than a comprehensive history of the Third Reich. Reconstructing an internally structured Nazi morality does not make it coherent in fact, morally valid, or uniformly accepted. Early eliminationist ideology did not mean the later extermination system was already a fixed operational blueprint in 1933. Claims about specific corporate knowledge, local attitudes, private motives, casualty totals, and direct causal links remain bounded by their source notes. Explaining distributed implementation must not dilute the responsibility of Hitler, Nazi leaders, the SS, and the state.
+The source set consists of narrative podcast episodes with different purposes rather than a comprehensive history of the Third Reich. Reconstructing an internally structured Nazi morality does not make it coherent in fact, morally valid, or uniformly accepted. Early eliminationist ideology did not mean the later extermination system was already a fixed operational blueprint in 1933. Claims about specific corporate knowledge, Austrian and German public attitudes, private motives, crowd meaning, casualty totals, and direct causal links remain bounded by their source notes. Explaining distributed implementation must not dilute the responsibility of Hitler, Nazi leaders, the SS, and the state.
 
 ## What Changed
 
@@ -64,6 +68,7 @@ The source set consists of narrative podcast episodes with different purposes ra
 - Reframed tactical pauses and Olympic concealment as false stabilization within cumulative persecution.
 - Distinguished longstanding ideological direction from changing methods and the historically developing path to genocide.
 - Added racial morality and the sterilization-to-involuntary-killing sequence as ideological and institutional foundations.
+- Added the Anschluss as a model joining coercive expansion, plunder, local collaboration, and persecutory administration.
 
 ## Relationships
 
@@ -74,6 +79,7 @@ The source set consists of narrative podcast episodes with different purposes ra
 - [[NurembergLaws]] - legal consolidation of citizenship, ancestry, and intimate-life exclusion.
 - [[IncrementalPersecutionFalseStabilization]] - uneven escalation pattern that could conceal accumulating harm.
 - [[Kristallnacht]] - watershed from exclusion and dispossession into coordinated mass violence.
+- [[Anschluss]] - coercive annexation that expanded the regime's territory, resources, and persecution machinery.
 - [[TheHolocaust]] - genocidal outcome toward which the documented systems and policies developed.
 - [[DistributedComplicityUnderAuthoritarianism]] - differentiated participation across institutions and society.
 - [[RationalizedStateViolence]] - organizational scaling of coercion through categories, offices, law, and logistics.

@@ -6,6 +6,7 @@ sources:
   - 05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925
   - 410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
+  - 407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -22,6 +23,8 @@ The 1933–36 source shows rationalization forming before mass killing. Nazi cla
 
 The Kristallnacht case joins these administrative foundations to open pogrom. Names and passport marks, business records, forced sales, confiscatory rules, police instructions, prepared jail capacity, and a centralized emigration office surrounded direct violence. Apparent state “inaction” was organized: police were told whom not to protect while authorities managed foreigners, detention, property, and narrative.
 
+The Austrian case shows rapid institutional scaling after conquest. German authorities acquired Austrian police records, detained thousands in one evening, absorbed the army and civil apparatus, seized reserves and infrastructure, and centralized Jewish emigration under Eichmann. Legal drafting and administrative continuity did not soften invasion; they converted a coercive takeover into governable and extractive rule.
+
 The Eastern forced-labor source extends the model through racial categories, camps, factories, labor allocation, transport, and postwar repatriation fear. Modern calculation is not inherently violent. The moral issue is institutional purpose and the choices of people who design, optimize, obey, benefit, resist, or refuse.
 
 ## Key Claims
@@ -37,16 +40,18 @@ The Eastern forced-labor source extends the model through racial categories, cam
 
 - Legal classification: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] connects racial ambiguity to religious records, ancestry, professional rules, citizenship, intimate-life law, and enforcement.
 - Managed pogrom and bureaucratic continuity: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] connects identification, forced sales, police nonprotection, detention preparation, emigration administration, and later coordination.
+- Annexation administration: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects legal absorption, police records, mass detention, institutional takeover, resource seizure, and centralized forced emigration.
 - Forced-labor organization: [[05-ta-laizi-maliwuboer-ruguo-ni-kanjian-guo-wo-ceng-jiandao-de-533375925]] connects Eastern-worker categories, camps, factories, racial hierarchy, transport, and postwar fear.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that modernity, law, bureaucracy, statistics, or expertise necessarily produce violence. It should not make physical cruelty abstract: victims experienced dispossession, humiliation, exclusion, forced labor, beating, detention, family separation, and death. Comparing organizational mechanisms must preserve ideological differences, victim experience, and unequal responsibility.
+The concept does not claim that modernity, law, bureaucracy, statistics, or expertise necessarily produce violence. It should not make physical cruelty abstract: victims experienced dispossession, humiliation, exclusion, forced labor, beating, detention, family separation, and death. Comparing organizational mechanisms must preserve ideological differences, victim experience, and unequal responsibility. The Austrian source's detention and resource figures, legal details, and claims about prototype effects remain source-scoped.
 
 ## What Changed
 
 - Added law, genealogy, and professional classification as early mechanisms that made false racial categories enforceable.
 - Clarified that apparent legal order can systematize violence rather than moderate it.
+- Added annexation as a setting where records, legal form, and institutional continuity accelerated conquest, extraction, and persecution.
 
 ## Related Concepts
 
@@ -56,3 +61,4 @@ The concept does not claim that modernity, law, bureaucracy, statistics, or expe
 - [[DataEnabledPersecution]] - information and classification branch of scalable state coercion.
 - [[InstitutionalOvercompliance]] - mechanism by which narrow role performance can intensify harmful systems.
 - [[EconomicAryanization]] - legally and administratively organized dispossession.
+- [[Anschluss]] - case joining military coercion to legal absorption and administrative scaling.

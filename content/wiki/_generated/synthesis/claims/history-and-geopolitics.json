@@ -2,6 +2,25 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "anschluss-links-diplomatic-coercion-annexation-and-persecution",
+      "qualifications": [
+        "The episode is a narrative-history account rather than a complete diplomatic, military, legal, or social history of the Anschluss.",
+        "Official plebiscite totals cannot be treated as free measures of consent, while cheering crowds do not establish every Austrian's motive or erase coercion and resistance.",
+        "Reported dialogue, crowd sizes, private motives, detention and population figures, and the precise influence of particular generals or diplomats remain source-scoped."
+      ],
+      "statement": "[[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144|The Conquest of Austria]] makes the [[Anschluss]] a geopolitical escalation sequence: weakened military restraint, [[BenitoMussolini]]'s diplomatic reversal, British non-guarantee, pressure on [[KurtVonSchuschnigg]], Austrian Nazi mobilization, ultimatum, and invasion eliminated [[Austria]] as a state, transferred its resources to [[NaziGermany]], and made immediate anti-Jewish persecution part of territorial expansion rather than a separate domestic track.",
+      "status": "qualified",
+      "supporting_wikilinks": [
+        "407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144",
+        "Anschluss",
+        "BenitoMussolini",
+        "KurtVonSchuschnigg",
+        "Austria",
+        "NaziGermany"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "britain-1974-connects-terrorism-electoral-stalemate-and-thatcher-opening",
       "qualifications": [
         "The episode is a narrative-history interpretation rather than a complete electoral, legal, or macroeconomic study.",

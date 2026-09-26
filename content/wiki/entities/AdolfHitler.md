@@ -6,6 +6,7 @@ sources:
   - 410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943
   - 409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455
   - 408-the-nazis-in-power-hitlers-dream-part-5-glt6100029744
+  - 407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -24,6 +25,8 @@ The 1933–36 source rejects the idea that Hitler's antisemitism was a late impr
 
 His governing role combined direction, tactical restraint, and legal consolidation. Under [[WorkingTowardsTheFuhrer|working towards the Führer]], local activists anticipated his goals and pushed boycotts, intimidation, and exclusion. Hitler could halt embarrassing individual actions in 1935 without abandoning their objective, then use the Nuremberg Laws to systematize racial citizenship and intimate-life control.
 
+Territorial coercion operated through the same combination of direction, opportunism, and escalation. Hitler exploited the removal of senior army restraints, [[BenitoMussolini]]'s changed position, Austrian Nazi pressure, and Britain's refusal to guarantee protection. He intimidated [[KurtVonSchuschnigg]], escalated the referendum crisis into ultimatums, and moved from a possible union arrangement to complete absorption after the enthusiastic reception in Linz. The [[Anschluss]] immediately joined triumphal nationalism to plunder and persecution.
+
 The later source shows the same direction bound to war preparation. Hitler and [[JosephGoebbels]] exploited [[ErnstVomRath|Ernst vom Rath]]'s death to unleash [[Kristallnacht]], after which the regime widened punishment, dispossession, and coerced emigration. His January 1939 speech explicitly joined a future European war to a threat of Jewish annihilation.
 
 ## Key Characteristics
@@ -32,7 +35,7 @@ The later source shows the same direction bound to war preparation. Hitler and [
 - He treated racial survival, not individual dignity or universal principle, as the standard of morality.
 - He set broad goals that subordinates radicalized through anticipatory initiative.
 - He used tactical restraint and national law to manage, not reverse, persecution.
-- He joined racial exclusion to territorial war preparation.
+- He joined territorial coercion, racial exclusion, and war preparation in a mutually reinforcing expansion project.
 - He approved pogrom escalation and publicly threatened annihilation.
 - He authorized the shift from compulsory sterilization toward involuntary killing of disabled people.
 
@@ -44,10 +47,11 @@ The later source shows the same direction bound to war preparation. Hitler and [
 - Leader direction and legal consolidation: [[409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455]] links local radicalism, the August 1935 restraint, and the Nuremberg Laws.
 - War and racial policy: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] connects Four-Year Plan preparation and eastern expansion to removal of an alleged internal enemy.
 - Pogrom and public threat: [[410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943]] attributes the Kristallnacht decision to Hitler and Goebbels and recounts the January 1939 annihilation threat.
+- Austrian conquest: [[407-the-nazis-in-power-the-conquest-of-austria-part-4-glt5380362144]] connects Hitler's intimidation, ultimatums, invasion, emotional reception, and annexation decision to the removal of Austrian statehood and immediate persecution.
 
 ## Qualifications
 
-This profile is bounded to three podcast episodes on ideology and the 1933–39 persecution sequence, not a comprehensive biography or complete account of Nazi rule. Explaining Hitler's claimed moral universe does not validate it or reduce culpability. Early eliminationist rhetoric establishes ideological direction but does not prove that the later extermination system existed as a fixed operational blueprint in 1933. Distributed initiative explains how policy radicalized; it does not reduce Hitler's decisive power and responsibility.
+This profile is bounded to four podcast episodes on territorial expansion, ideology, and the 1933–39 persecution sequence, not a comprehensive biography or complete account of Nazi rule. Explaining Hitler's claimed moral universe does not validate it or reduce culpability. Early eliminationist rhetoric establishes ideological direction but does not prove that the later extermination system existed as a fixed operational blueprint in 1933. Distributed initiative explains how policy radicalized; it does not reduce Hitler's decisive power and responsibility. Reported private motives, dialogue, crowd effects, and the exact causal weight of military personnel changes remain source-scoped.
 
 ## What Changed
 
@@ -55,6 +59,7 @@ This profile is bounded to three podcast episodes on ideology and the 1933–39 
 - Distinguished stable ideological direction from changing methods, constraints, and operational policy.
 - Added tactical restraint and legal consolidation as instruments of radicalization rather than evidence of moderation.
 - Added racial morality, classical appropriation, and eugenic killing as foundations of his governing project.
+- Added the Anschluss as a case of personal intimidation, opportunistic escalation, complete annexation, and expansion-driven radicalization.
 
 ## Relationships
 
@@ -66,4 +71,5 @@ This profile is bounded to three podcast episodes on ideology and the 1933–39 
 - [[NaziRacialMorality]] - worldview that treated racial struggle and health as the measure of right.
 - [[NaziInvoluntaryEuthanasiaProgram]] - lethal disability policy he authorized in 1939.
 - [[Kristallnacht]] - state-enabled pogrom approved as a major escalation point.
+- [[Anschluss]] - coercive annexation that increased his prestige and confidence in further aggression.
 - [[TheHolocaust]] - genocide toward which the documented ideology, institutions, and policies developed.
