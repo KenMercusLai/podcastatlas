@@ -5,7 +5,8 @@ tags: [gastrointestinal-health, medical-literacy, triage]
 sources:
   - vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih
   - vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu
-last_updated: 2026-09-25
+  - vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,9 +16,9 @@ knowledge_schema: synthesis-v1
 Bowel symptom triage is the practice of separating ordinary, functional, or lifestyle-linked bowel changes from warning signs that require clinical evaluation.
 
 ## Current Synthesis
-The sources treat bowel symptoms as meaningful but non-specific signals. Stress, cold drinks, sitting, diet, gut sensitivity, infection, hemorrhoids, inflammatory bowel disease, and structural disease can overlap in diarrhea, constipation, cramping, bleeding, mucus, or bowel-habit change. The practical task is to resist both panic and dismissal, observe pattern, persistence, progression, stool color and shape, how blood appears, frequency, pain, fever, weight and nutrition change, and associated anemia or inflammation clues, then use qualified evaluation and testing when risk rises.
+The sources treat bowel symptoms as meaningful but non-specific signals. Stress, cold drinks, sitting, diet, motility, digestion, microbiome disturbance, infection, hemorrhoids, inflammatory bowel disease, and structural disease can overlap in diarrhea, loose stool, constipation, cramping, bloating, bleeding, mucus, or bowel-habit change. The practical task is to resist both panic and dismissal, observe pattern, persistence, progression, stool color and shape, how blood appears, frequency, pain, fever, weight and nutrition change, and associated anemia or inflammation clues, then use qualified evaluation and testing when risk rises.
 
-The IBD episode adds a disease-specific contrast without turning it into a home diagnostic rule. Fresh blood appearing after stool can fit hemorrhoids, while darker blood and pus mixed through stool can raise concern for intestinal inflammation; infectious diarrhea may have an exposure history, while Crohn's disease may present without obvious blood. These distinctions guide escalation but do not reliably identify the cause on their own.
+The IBD episode adds a disease-specific contrast without turning it into a home diagnostic rule. Fresh blood appearing after stool can fit hemorrhoids, while darker blood and pus mixed through stool can raise concern for intestinal inflammation; infectious diarrhea may have an exposure history, while Crohn's disease may present without obvious blood. VOL.94 adds that visible blood still deserves evaluation even when hemorrhoids are present, and that one loose stool per day is not automatically the same pattern as frequent watery diarrhea. These distinctions guide escalation but do not reliably identify the cause on their own.
 
 ## Key Claims
 - Bowel symptoms are often indirect, so pattern and persistence matter more than a single episode.
@@ -34,13 +35,16 @@ The IBD episode adds a disease-specific contrast without turning it into a home 
 - Testing path: [[vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih]] recommends stool testing and, when needed, colonoscopy to exclude organic disease.
 - Inflammatory-disease clues: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] discusses pus and blood mixed with stool, unexplained bowel-habit change, diarrhea, pain, fever, weight loss, anemia, and nutritional decline as reasons for assessment.
 - Overlap boundary: [[vol-113-xiaohuaneike-cong-shaojianbing-dao-changjianbing-ni-yinggai-renshi-ta-le-ibd-ri-zhuanti-lpmvs4nuik-bzglz3lnadzbnc-eu]] contrasts hemorrhoidal, infectious, ulcerative-colitis, and Crohn's patterns while acknowledging that symptoms can be atypical.
+- Blood and frequency context: [[vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz]] treats visible blood as a strong reason for evaluation even with hemorrhoids and distinguishes isolated loose stool from more frequent watery diarrhea.
+- Motility and bloating: [[vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz]] links some bloating and constipation to motility or digestion while keeping persistent symptoms inside clinical assessment.
 
 ## Counterevidence & Qualifications
-The episodes are public education, not symptom checkers. Blood color, timing, or mixing pattern cannot safely rule a cause in or out, and absent blood does not exclude Crohn's disease. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
+The episodes are public education, not symptom checkers. Blood color, timing, or mixing pattern cannot safely rule a cause in or out, and absent blood does not exclude Crohn's disease. Frequency definitions and probiotic or motility explanations do not establish a home diagnosis. Age, family history, medication, pregnancy, infection exposure, inflammatory bowel disease, prior polyps, anemia, weight loss, fever, pain severity, hydration, and clinician judgment can all change urgency.
 
 ## What Changed
 - Added inflammatory bowel disease, infection, and hemorrhoid overlap without converting pattern recognition into self-diagnosis.
 - Added fever, weight loss, anemia, low albumin, and nutritional decline to the escalation context.
+- Clarified that visible blood warrants evaluation even with hemorrhoids and that loose stool, frequent diarrhea, bloating, and constipation need pattern-specific interpretation.
 
 ## Related Concepts
 - [[IrritableBowelSyndromeDiagnosticBoundary]] - functional-diagnosis boundary that depends on excluding organic disease.

@@ -5,14 +5,15 @@ tags: [person, gastroenterology, healthcare, medical-literacy]
 sources:
   - vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm
   - vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb
-last_updated: 2026-09-22
+  - vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
 # 蒋宇亮 / Jiang Yuliang
 
 ## Overview
-蒋宇亮 is a gastroenterology doctor in two ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes, contributing first-visit and abdominal-pain triage in VOL.218 and liver-health education in VOL.156.
+蒋宇亮 is a gastroenterology doctor in three ingested [[ZheBingShuoLaiHuaChang|这病说来话长]] episodes, contributing first-visit and abdominal-pain triage in VOL.218, liver-health education in VOL.156, and a digestive-health listener Q&A in VOL.94. The supplied VOL.94 note renders his name as 江宇亮, which the wiki preserves as a source-level spelling variation.
 
 ## Current Profile
 The source presents 蒋宇亮 as the clinician most associated with first-visit triage and abdominal-pain complexity. His explanation starts from chief complaint, symptom duration, and fixed follow-up questions, then moves to a safety priority: screen dangerous or fatal disease before settling into ordinary symptomatic treatment.
@@ -21,6 +22,8 @@ His examples also make follow-up a clinical responsibility. After ordering tests
 
 VOL.156 extends that safety logic into liver health. He explains [[SilentLiverDamageDetection|why liver injury may be difficult to feel]], treats fatty-liver and liver-function findings as reasons for [[FattyLiverCauseDirectedManagement|cause review]], warns about medicine and [[HerbalSupplementLiverToxicity|herbal-product injury]], and places alcohol practices behind an [[AlcoholLiverHarmBoundary|explicit harm boundary]]. His practical priority is lifestyle and exposure correction before clinician-guided treatment when warranted.
 
+VOL.94 applies the same risk-stratified style to common digestive questions. Bloating, loose stool, constipation, and gas are explained through motility, digestion, behavior, or microbiome context without dismissing bleeding, severe reflux, family cancer history, high-risk pathology, or persistent symptoms. Endoscopy is presented as a pathway completed by tissue pathology and individualized follow-up rather than a one-time visual check.
+
 ## Key Characteristics
 - Explains first visits as structured history-taking around the chief complaint.
 - Prioritizes dangerous-disease screening before routine symptomatic management.
@@ -28,6 +31,7 @@ VOL.156 extends that safety logic into liver health. He explains [[SilentLiverDa
 - Treats test-result follow-up and escalation routes as part of diagnosis.
 - Translates silent liver injury, fatty-liver progression, alcohol, medicines, supplements, diet, and sleep into cause-based prevention and follow-up questions.
 - Keeps product, medication, and drinking-practice claims inside qualified-care and source-scope boundaries.
+- Uses pathology, lesion risk, family history, and symptom severity to separate routine digestive self-care from endoscopy or specialist escalation.
 
 ## Evidence
 - Structured triage: [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] has 蒋宇亮 describe starting with where discomfort is, how long it has lasted, and what dangerous disease must be excluded.
@@ -35,13 +39,16 @@ VOL.156 extends that safety logic into liver health. He explains [[SilentLiverDa
 - Abdominal-pain ambiguity: [[vol-218-hanjie-yisheng-shijian-hou-sida-menzhen-tanbaiju-bu-duili-bu-shuaiguo-yihuan-ruhe-lianshou-daying-fang-louzhen-de-paileizhan-lgbs8aaxguh-xzga8iuewwc7ypvm]] uses abdominal pain to connect digestive organs, severe hidden disease, and even non-digestive causes such as cardiac pain.
 - Liver detection and cause review: [[vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb]] has 蒋宇亮 explain limited early pain signaling, liver-function and imaging findings, fatty-liver progression, and the need to review alcohol, food, activity, medicines, supplements, and body state.
 - Harm and treatment boundaries: [[vol-156-aigan-hugan-diyibu-ni-jiu-zoucuo-le-chenmo-de-renti-huagongchang-zijiu-zhinan-lpi_sy3oluvwt46bgdgg81dzs2qb]] warns that drinking rituals do not cancel alcohol exposure and keeps liver-protection medication, timing, and monitoring under clinician guidance.
+- Digestive symptom triage: [[vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz]] links bloating, loose stool, constipation, gas, and dyspepsia to context while escalating visible blood, severe reflux, persistent symptoms, and family cancer history.
+- Pathology-guided follow-up: [[vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz]] emphasizes tissue pathology and risk-specific surveillance after polyps, dysplasia, ESD, or prior abnormal examinations.
 
 ## Qualifications
-The page is based only on two episode notes. It does not independently verify 蒋宇亮's full institutional affiliation or credentials beyond the sources' gastroenterology role. The liver-disease timelines, nutrition and exercise mechanisms, alcohol practices, and treatment discussion remain source-scoped public education rather than individualized care.
+The page is based only on three episode notes. It does not independently verify 蒋宇亮's full institutional affiliation or credentials beyond the sources' gastroenterology role. VOL.94 calls the guest 江宇亮 and names Beijing You'an Hospital; later notes use 蒋宇亮, while another source has a distinct 蒋永亮 record. The wiki does not treat these spellings as independently verified identity evidence. Disease timelines, nutrition and exercise mechanisms, alcohol practices, probiotic effects, endoscopy intervals, and treatment discussion remain source-scoped public education rather than individualized care.
 
 ## What Changed
-- VOL.156 adds silent liver-damage detection, fatty-liver cause review, medicine and herbal-product risk, alcohol boundaries, and lifestyle-first management.
-- Product, progression, nutrition, exercise, and drinking-practice claims remain qualified and source-scoped.
+- Added common digestive-symptom triage and pathology-guided endoscopy follow-up from VOL.94.
+- Recorded 江宇亮 as a source-level spelling variation without merging the separate 蒋永亮 record.
+- Kept probiotic, surveillance-interval, reflux-treatment, food, alcohol, and patient-example claims qualified and source-scoped.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where he appears as a medical guest.
@@ -53,3 +60,7 @@ The page is based only on two episode notes. It does not independently verify �
 - [[FattyLiverCauseDirectedManagement]] - lifestyle, exposure, and treatment framework he develops in VOL.156.
 - [[HerbalSupplementLiverToxicity]] - medicine and unverified herbal-product risk he highlights.
 - [[AlcoholLiverHarmBoundary]] - distinction he draws between reducing discomfort and preventing liver harm.
+- [[BowelSymptomTriage]] - digestive warning-sign and ordinary-symptom distinction he explains in VOL.94.
+- [[EndoscopyPathologyFollowup]] - pathology and risk-specific return-review model he reinforces in VOL.94.
+- [[ColonPolypRiskStratification]] - polyp-type, dysplasia, treatment, and surveillance distinction he discusses.
+- [[FlatulenceAsHealthSignal]] - gas-production, retention, motility, and escalation context he explains.

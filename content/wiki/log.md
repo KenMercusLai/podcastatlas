@@ -23276,3 +23276,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | VOL.94消化内科｜困扰当代年轻人的最多肠胃问题就是胀气｜答疑篇
+
+Added source `vol-94-xiaohuaneike-kunrao-dangdai-nianqingren-de-zuiduo-changwei-wenti-jiushi-zhangqi-dayi-pian-lq93ijp72zi8t5vmctfbifrg7kzz`; updated `JiangYuliangDoctor`, `BowelSymptomTriage`, `FlatulenceAsHealthSignal`, `EndoscopyPathologyFollowup`, `ColonPolypRiskStratification`, the canonical index, and overview from their complete bounded source sets. Core synthesis: common gas, bloating, loose stool, constipation, reflux, and dyspepsia need pattern-aware interpretation, while visible blood, severe symptoms, family history, high-risk pathology, and persistent change warrant qualified evaluation; endoscopy surveillance depends on pathology and individual risk rather than one universal interval. No settled contradiction found. The 江宇亮/蒋宇亮 spelling remains source-level uncertainty, and probiotic effects, food mechanisms, H. pylori retesting, reflux procedures, polyp sizes, and surveillance intervals remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
