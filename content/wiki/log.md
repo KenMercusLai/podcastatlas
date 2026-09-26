@@ -23204,3 +23204,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 409. The Nazis in Power: Hitler's War on the Jews (Part 6)
+
+Added source `409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455`; created `NurembergLaws`, `VictorKlemperer`, `HeinrichHimmler`, `WorkingTowardsTheFuhrer`, and `IncrementalPersecutionFalseStabilization`; and updated `AdolfHitler`, `JosephGoebbels`, `AdolfEichmann`, `NaziGermany`, `TheHolocaust`, `RationalizedStateViolence`, `DistributedComplicityUnderAuthoritarianism`, the canonical index, and overview from their complete bounded source sets. Core synthesis: eliminationist ideology advanced unevenly through local initiative, professional exclusion, racial law, ancestry administration, social isolation, and coerced emigration, while failed measures and temporary pauses could create false stabilization. No settled contradiction found. Early removal policy did not yet establish a fixed operational extermination program; racial definitions, public attitudes, motives, responsibility for particular local acts, and some emigration figures remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

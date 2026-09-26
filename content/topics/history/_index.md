@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2052
+topic_total_pages: 2053
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4635,6 +4635,9 @@ topic_sources:
   - key: "318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008"
     title: "318: Hundred Years' War: A Game of Thrones (Part 1)"
     url: "/wiki/sources/318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008/"
+  - key: "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455"
+    title: "409. The Nazis in Power: Hitler's War on the Jews (Part 6)"
+    url: "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"

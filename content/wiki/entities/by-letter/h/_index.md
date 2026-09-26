@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 10916
+wiki_total_pages: 10919
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "HeinrichBlucher"
     title: "Heinrich Blücher / 海因里希·布鲁歇尔"
     url: "/wiki/entities/heinrichblucher/"
+  - key: "HeinrichHimmler"
+    title: "Heinrich Himmler"
+    url: "/wiki/entities/heinrichhimmler/"
   - key: "HeinrichSchliemann"
     title: "Heinrich Schliemann"
     url: "/wiki/entities/heinrichschliemann/"

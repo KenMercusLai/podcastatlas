@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2729
+topic_total_pages: 2731
 topic_concepts:
   - key: "A2ATransactionNorms"
     title: "A2A Transaction Norms / 智能体间交易规范"
@@ -3886,6 +3886,9 @@ topic_concepts:
   - key: "WitchHuntMechanism"
     title: "Witch-Hunt Mechanism / 猎巫机制"
     url: "/wiki/concepts/witchhuntmechanism/"
+  - key: "WorkingTowardsTheFuhrer"
+    title: "Working Towards the Führer"
+    url: "/wiki/concepts/workingtowardsthefuhrer/"
   - key: "WorkplaceAITransparency"
     title: "Workplace AI Transparency"
     url: "/wiki/concepts/workplaceaitransparency/"
@@ -5996,6 +5999,9 @@ topic_entities:
   - key: "Number10North"
     title: "Number 10 North"
     url: "/wiki/entities/number10north/"
+  - key: "NurembergLaws"
+    title: "Nuremberg Laws"
+    url: "/wiki/entities/nuremberglaws/"
   - key: "NYU"
     title: "NYU"
     url: "/wiki/entities/nyu/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [409. The Nazis in Power: Hitler's War on the Jews (Part 6)](sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455.md) — The Rest Is History episode on the uneven 1933–36 escalation from local violence and professional exclusion to racial law, social isolation, coerced emigration, and Olympic concealment.
 - [410. The Nazis in Power: The Night of Broken Glass (Part 7)](sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943.md) — The Rest Is History episode on war-linked antisemitic escalation, Aryanization, distributed complicity, Kristallnacht, refugee barriers, and the bureaucratic road toward genocide.
 - [VOL.97呼吸科｜今冬流感、肺炎这么“猛”？我咋整？｜儿童支原体肺炎总不好？有后遗症吗？](sources/vol-97-huxike-jindong-liugan-feiyan-zheme-meng-wo-zazheng-ertong-zhiyuanti-feiyan-zong-buhao-you-houyizheng-ma-liz9rdhhqkbxpktg1gd2z2sb2klq.md) — 这病说来话长 episode on respiratory symptom triage, pneumonia and imaging interpretation, pediatric mycoplasma escalation, antibiotic stewardship, care-setting choice, and household prevention.
 - [411. The Man in the Iron Mask](sources/411-the-man-in-the-iron-mask-glt3787137343.md) — The Rest Is History on the masked prisoner's documentary trail, Eustache Degé identification, rejected royal theories, and the myth-generating effects of state secrecy.
@@ -2927,8 +2928,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kristallnacht / Night of Broken Glass](entities/Kristallnacht.md) — State-enabled November 1938 pogrom joining central direction, police nonprotection, local participation, mass arrest, and dispossession.
 - [Herschel Grünspan](entities/HerschelGrunspan.md) — Polish Jewish refugee whose shooting of Ernst vom Rath was appropriated as the pogrom's public pretext.
 - [Ernst vom Rath](entities/ErnstVomRath.md) — German diplomat whose death Nazi leaders converted into propaganda authorization for Kristallnacht.
-- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator whose war planning and racial ideology drove the episode's 1937–39 persecution escalation.
-- [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who joined mobilization and deniability in presenting coordinated violence as spontaneous anger.
+- [Adolf Hitler](entities/AdolfHitler.md) — Nazi dictator whose longstanding eliminationist ideology, leader signals, legal consolidation, war planning, and pogrom authorization drove escalating persecution.
+- [Joseph Goebbels](entities/JosephGoebbels.md) — Nazi propagandist who linked inflammatory agitation, mobilization, timing, and deniability from the 1935 campaign through Kristallnacht.
+- [Nuremberg Laws](entities/NurembergLaws.md) — 1935 legal package that fused party-state symbolism with racial citizenship and intimate-life exclusion.
+- [Victor Klemperer](entities/VictorKlemperer.md) — German Jewish veteran and academic whose rootedness illustrates the emigration decisions created by uneven persecution.
+- [Heinrich Himmler](entities/HeinrichHimmler.md) — SS leader whose institutions operationalized ancestry documentation, racial enforcement, and coerced-emigration pressure.
 - [Reinhard Heydrich](entities/ReinhardHeydrich.md) — SS administrator connecting police enabling during Kristallnacht to centralized forced emigration and later genocidal coordination.
 - [张宇涵 / Zhang Yuhan (Respiratory Physician)](entities/ZhangYuhanRespiratoryDoctor.md) — Source-scoped respiratory physician explaining symptom patterns, pneumonia interpretation, pediatric mycoplasma care, and antibiotic boundaries.
 - [上海交通大学医学院附属瑞金医院 / Ruijin Hospital](entities/RuijinHospital.md) — Hospital affiliation attributed to Zhang Yuhan in the VOL.97 respiratory-health episode.
@@ -10668,11 +10672,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Heidegger / 马丁·海德格尔](entities/MartinHeidegger.md) — Philosopher framed through his relationship with Arendt, Nazi alignment, and the problem of intellectual responsibility.
 - [Karl Jaspers / 卡尔·亚斯贝尔斯](entities/KarlJaspers.md) — Arendt's mentor and later defender, contrasted with Heidegger as a figure of loyal judgment under political pressure.
 - [Heinrich Blücher / 海因里希·布鲁歇尔](entities/HeinrichBlucher.md) — Arendt's exile partner and second husband, presented as a trusted companion in anti-Nazi flight and stateless survival.
-- [Adolf Eichmann / 阿道夫·艾希曼](entities/AdolfEichmann.md) — Nazi functionary whose ordinary bureaucratic presentation grounds Arendt's banality-of-evil argument.
+- [Adolf Eichmann / 阿道夫·艾希曼](entities/AdolfEichmann.md) — SS functionary whose early coerced-emigration work and later genocidal administration ground questions of bureaucratic responsibility.
 - [《艾希曼在耶路撒冷》 / Eichmann in Jerusalem](entities/EichmannInJerusalem.md) — Arendt's controversial report/book on Eichmann, the Holocaust, Jewish Councils, and responsibility versus guilt.
 - [Jewish Councils / 犹太委员会](entities/JewishCouncils.md) — Holocaust-era councils discussed through Arendt's disputed responsibility claims under coercive Nazi rule.
-- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Regime context for Arendt's exile, Heidegger's compromise, Eichmann's bureaucracy, and the Holocaust.
-- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide context behind the episode's discussion of Eichmann, bureaucratic murder, and the refusal to psychologize evil away.
+- [Nazi Germany / 纳粹德国](entities/NaziGermany.md) — Racial dictatorship whose leader direction, local initiative, law, bureaucracy, war, and distributed participation produced escalating persecution and genocide.
+- [The Holocaust / 犹太人大屠杀](entities/TheHolocaust.md) — Genocide of European Jews traced through historically developing exclusion, law, war, dispossession, administration, and mass murder.
 - [连阔如 / Lian Kuoru](entities/LianKuoru.md) — Storyteller and author whose 《江湖丛谈》 exposes old Jianghu argot, street trades, scams, quyi worlds, and informal order.
 - [《江湖丛谈》 / Jianghu Congtan](entities/JiangHuCongTan.md) — Lian Kuoru book used by 蜜獾吃书 as a guide to old Jianghu language, livelihood, deception, and mutual-aid rules.
 - [罗翔 / Luo Xiang](entities/LuoXiang.md) — Legal scholar and public intellectual whose 《法律的悖论》 is used by 蜜獾吃书 to examine criminal law, moral judgment, punishment, freedom, and rational humility.
@@ -13855,6 +13859,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Working Towards the Führer](concepts/WorkingTowardsTheFuhrer.md) — Model of subordinates anticipating broad leader wishes and competitively radicalizing policy without detailed orders for every action.
+- [Incremental Persecution and False Stabilization](concepts/IncrementalPersecutionFalseStabilization.md) — Uneven escalation pattern in which pauses and legal form conceal accumulating structures of exclusion.
 - [Economic Aryanization](concepts/EconomicAryanization.md) — Coerced elimination and transfer of Jewish economic life through professional bans, forced sales, confiscation, collective punishment, and exclusion.
 - [Distributed Complicity Under Authoritarianism](concepts/DistributedComplicityUnderAuthoritarianism.md) — Layered participation model linking central direction, institutions, professions, firms, local actors, incentives, and differentiated responsibility.
 - [呼吸道症状分诊 / Respiratory Symptom Triage](concepts/RespiratorySymptomTriage.md) — Pattern-based respiratory assessment that separates symptoms and imaging labels from diagnosis and escalation.

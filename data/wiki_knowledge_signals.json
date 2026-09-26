@@ -5296,10 +5296,33 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
+    "AdolfEichmann": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "103.她是刺穿夜雾的光，她是汉娜·阿伦特 [737939789].md",
+          "key": "103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789",
+          "show": "蜜獾吃书",
+          "title": "103.她是刺穿夜雾的光，她是汉娜·阿伦特",
+          "url": "/wiki/sources/103-ta-shi-cichuan-yewu-de-guang-ta-shi-hanna-alunte-737939789/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/adolfeichmann/"
+    },
     "AdolfHitler": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -5307,6 +5330,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
         }
       ],
       "updated": "2026-09-27",
@@ -37847,9 +37877,9 @@
       "url": "/wiki/concepts/dispersedbusinesselitepower/"
     },
     "DistributedComplicityUnderAuthoritarianism": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -37857,6 +37887,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
         }
       ],
       "updated": "2026-09-27",
@@ -64569,6 +64606,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/heiligenkreuzabbey/"
     },
+    "HeinrichHimmler": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/heinrichhimmler/"
+    },
     "HeinrichSchliemann": {
       "episode_count": 1,
       "show_count": 1,
@@ -71940,6 +71993,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/increasingstovesdeception/"
     },
+    "IncrementalPersecutionFalseStabilization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/incrementalpersecutionfalsestabilization/"
+    },
     "IndependentMacAppCraft": {
       "episode_count": 1,
       "show_count": 1,
@@ -78027,9 +78096,9 @@
       "url": "/wiki/entities/josephconrad/"
     },
     "JosephGoebbels": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5771265943 [GLT5771265943].md",
@@ -78037,6 +78106,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
         }
       ],
       "updated": "2026-09-27",
@@ -102063,9 +102139,9 @@
       "url": "/wiki/concepts/navierstokesequations/"
     },
     "NaziGermany": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "37.智商测试：请问你是智力婆罗门吗？ [608020679].md",
@@ -102108,6 +102184,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
         }
       ],
       "updated": "2026-09-27",
@@ -104490,6 +104573,22 @@
       ],
       "updated": "2026-09-15",
       "url": "/wiki/entities/nuojiwesternhan/"
+    },
+    "NurembergLaws": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/nuremberglaws/"
     },
     "NutritionLabelSugarTraps": {
       "episode_count": 2,
@@ -118503,9 +118602,9 @@
       "url": "/wiki/entities/raskassa/"
     },
     "RationalizedStateViolence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "05.她来自马里乌波尔：“如果你看见过我曾见到的。” [533375925].md",
@@ -118520,6 +118619,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
         }
       ],
       "updated": "2026-09-27",
@@ -141029,9 +141135,9 @@
       "url": "/wiki/entities/theendofreadingishere/"
     },
     "TheHolocaust": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "133. IBM与纳粹：为什么普通人不应赞美鸡贼主义 [815684110].md",
@@ -141053,6 +141159,13 @@
           "show": "The Rest Is History",
           "title": "410. The Nazis in Power: The Night of Broken Glass (Part 7)",
           "url": "/wiki/sources/410-the-nazis-in-power-the-night-of-broken-glass-part-7-glt5771265943/"
+        },
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
         }
       ],
       "updated": "2026-09-27",
@@ -147673,6 +147786,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/victorcarrion/"
     },
+    "VictorKlemperer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/victorklemperer/"
+    },
     "VideoPodcastAffordance": {
       "episode_count": 3,
       "show_count": 3,
@@ -153631,6 +153760,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/workingmemorylearningbottleneck/"
+    },
+    "WorkingTowardsTheFuhrer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9460111455 [GLT9460111455].md",
+          "key": "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455",
+          "show": "The Rest Is History",
+          "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+          "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/workingtowardsthefuhrer/"
     },
     "WorkplaceBullying": {
       "episode_count": 1,

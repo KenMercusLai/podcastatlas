@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 8306
+wiki_total_pages: 8308
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "WorkingMemoryLearningBottleneck"
     title: "Working Memory Learning Bottleneck"
     url: "/wiki/concepts/workingmemorylearningbottleneck/"
+  - key: "WorkingTowardsTheFuhrer"
+    title: "Working Towards the Führer"
+    url: "/wiki/concepts/workingtowardsthefuhrer/"
   - key: "WorkplaceAIReadinessGap"
     title: "Workplace AI Readiness Gap"
     url: "/wiki/concepts/workplaceaireadinessgap/"

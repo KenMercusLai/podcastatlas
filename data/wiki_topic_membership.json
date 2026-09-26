@@ -1641,6 +1641,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038": [
     {
       "key": "history",
@@ -52827,6 +52834,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "NurembergLaws": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NushiShijie": [
     {
       "key": "culture",
@@ -79200,6 +79214,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WorkingTowardsTheFuhrer": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "Workmagic": [

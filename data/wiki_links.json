@@ -1083,6 +1083,10 @@
     "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
     "url": "/wiki/sources/405-cong-dili-bianjie-dao-siwei-bianjie-women-ruhe-bei-huajie-suzao-16a80abc/"
   },
+  "409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455": {
+    "title": "409. The Nazis in Power: Hitler's War on the Jews (Part 6)",
+    "url": "/wiki/sources/409-the-nazis-in-power-hitlers-war-on-the-jews-part-6-glt9460111455/"
+  },
   "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038": {
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
@@ -30971,6 +30975,10 @@
     "title": "Heinrich Blücher / 海因里希·布鲁歇尔",
     "url": "/wiki/entities/heinrichblucher/"
   },
+  "HeinrichHimmler": {
+    "title": "Heinrich Himmler",
+    "url": "/wiki/entities/heinrichhimmler/"
+  },
   "HeinrichSchliemann": {
     "title": "Heinrich Schliemann",
     "url": "/wiki/entities/heinrichschliemann/"
@@ -33842,6 +33850,10 @@
   "IncreasingStovesDeception": {
     "title": "Increasing Stoves Deception / 增灶示强",
     "url": "/wiki/concepts/increasingstovesdeception/"
+  },
+  "IncrementalPersecutionFalseStabilization": {
+    "title": "Incremental Persecution and False Stabilization",
+    "url": "/wiki/concepts/incrementalpersecutionfalsestabilization/"
   },
   "IncumbentPlatformPressure": {
     "title": "Incumbent Platform Pressure",
@@ -49182,6 +49194,10 @@
   "NuoJiWesternHan": {
     "title": "淖姬 / Nuo Ji (Western Han)",
     "url": "/wiki/entities/nuojiwesternhan/"
+  },
+  "NurembergLaws": {
+    "title": "Nuremberg Laws",
+    "url": "/wiki/entities/nuremberglaws/"
   },
   "NushiShijie": {
     "title": "《女子世界》",
@@ -70519,6 +70535,10 @@
     "title": "Victor Carrión",
     "url": "/wiki/entities/victorcarrion/"
   },
+  "VictorKlemperer": {
+    "title": "Victor Klemperer",
+    "url": "/wiki/entities/victorklemperer/"
+  },
   "VictorianAntiDidacticChildrensLiterature": {
     "title": "Victorian Anti-Didactic Children's Literature",
     "url": "/wiki/concepts/victorianantididacticchildrensliterature/"
@@ -73162,6 +73182,10 @@
   "WorkingMemoryLearningBottleneck": {
     "title": "Working Memory Learning Bottleneck",
     "url": "/wiki/concepts/workingmemorylearningbottleneck/"
+  },
+  "WorkingTowardsTheFuhrer": {
+    "title": "Working Towards the Führer",
+    "url": "/wiki/concepts/workingtowardsthefuhrer/"
   },
   "Workmagic": {
     "title": "Workmagic",
