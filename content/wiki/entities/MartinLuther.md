@@ -5,6 +5,7 @@ tags: [reformation, theologian, protestantism]
 sources:
   - 437-luther-a-world-torn-apart-part-5-glt3328267667
   - 436-luther-showdown-with-the-emperor-part-4-glt5159022101
+  - 435-luther-the-battle-against-satan-part-3-glt9360370091
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -17,6 +18,10 @@ Martin Luther was a German reformer whose theology, vernacular force, and use of
 
 ## Current Profile
 
+The earlier episode supplies the theological and public break behind Luther's later defiance. Criticism of indulgences expanded into [[SolaFideGrace|salvation through grace and faith]], rejection of practices he considered unsupported by Scripture, and the claim that the pope stood under God's word. [[FrederickTheWise|Frederick the Wise's]] protection and the [[HolyRomanEmpire|empire's]] fragmented jurisdiction gave this challenge room to survive.
+
+At Augsburg, Luther refused [[CardinalCajetan|Cardinal Cajetan's]] demand for recantation; at Leipzig, [[JohannEck]] forced him to defend positions associated with Jan Hus. Those encounters cost formal ground but fed a [[ReformationPrintCulture|print campaign]] in which pamphlets, satire, public burning, and student participation converted condemnation into wider visibility.
+
 The Worms episode supplies Luther's decisive public break. Protected by [[FrederickTheWise]], he faced [[CharlesV]] at the [[DietOfWorms]] and refused recantation unless refuted from Scripture, making conscience captive to God's word rather than papal or imperial command. Hidden at the [[Wartburg]], he translated the New Testament into accessible German while [[ReformationPrintCulture|print and visual culture]] turned him into a heroic outlaw.
 
 The later evidence follows the loss of control already visible in [[Wittenberg]]. By 1524-1525, [[AndreasKarlstadt]] and [[ThomasMuntzer|Thomas Müntzer]] claimed to extend scriptural reform beyond his limits, while Luther defended sacramental boundaries, princely authority, and social order. His response to the [[GermanPeasantsWar]] makes him both an enabling source of anti-authoritarian language and an opponent of the revolt it helped articulate.
@@ -25,16 +30,19 @@ The episode's judgment is deliberately divided. Luther's courage, religious orig
 
 ## Key Characteristics
 
-- Grounded Christian freedom in divine grace and scriptural authority rather than papal mediation.
+- Grounded salvation and Christian freedom in divine grace and faith rather than earned merit or papal mediation.
+- Escalated indulgence criticism into a scriptural challenge to purgatory, clerical privilege, and church authority.
 - Made refusal at Worms a public claim that conscience must answer to God's word.
 - Used polemic, vernacular language, and print with unusual reach and force.
 - Translated the New Testament into accessible German during Wartburg concealment.
 - Rejected radical deductions that Karlstadt, Müntzer, and rebel peasants drew from reform principles.
-- Distinguished spiritual freedom from secular obedience through the [[TwoKingdomsDoctrine]].
-- Relied on princely protection and later treated disorder as a threat to religious reform.
+- Relied on princely protection and later distinguished spiritual freedom from secular obedience through the [[TwoKingdomsDoctrine]].
 
 ## Evidence
 
+- Theological break: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] links Paul's faith language to Luther's peace of conscience and widening critique of mediated salvation.
+- Augsburg and Leipzig: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] follows his failed recantation meetings with Cajetan and Eck's successful effort to expose the Hussite implications of his position.
+- Early media strategy: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] connects German and Latin printing, student action, polemic, satire, and the burning of the papal bull to movement growth.
 - Public defiance: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] follows the journey to Worms, refusal to recant without scriptural refutation, and conversion of the hearing into heroic print narrative.
 - Protection and translation: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] connects Frederick's covert protection, Wartburg isolation, and the German New Testament.
 - Early loss of control: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] shows Wittenberg moving toward changed worship and iconoclasm before Luther returned to reverse part of the program.
@@ -45,16 +53,19 @@ The episode's judgment is deliberately divided. Luther's courage, religious orig
 
 ## Qualifications
 
-These two episodes cover the public break and its early radical afterlife rather than a complete biography or theological study. The exact “Here I stand” wording is absent from the official Worms record, and the translation timetable, reported dialogue, miracle stories, motives, and long-range genealogy of Western conscience remain source-scoped. Part 5 distinguishes Luther's theological antisemitism from Nazi racial antisemitism without minimizing the pamphlet or its later Nazi use.
+These three episodes cover the public break and its early radical afterlife rather than a complete biography or theological study. Luther's later accounts disagree on the timing and setting of his decisive insight, and the exact “Here I stand” wording is absent from the official Worms record. Pamphlet shares, translation timing, reported dialogue, miracle stories, motives, and long-range genealogies of conscience, individualism, nationalism, or unbelief remain source-scoped. Part 5 distinguishes Luther's theological antisemitism from Nazi racial antisemitism without minimizing the pamphlet or its later Nazi use.
 
 ## What Changed
 
-- Added Worms, Wartburg, vernacular translation, and print-mediated heroic status before the existing radical split.
-- Clarified that Luther's loss of control began in Wittenberg before the Peasants' War.
-- Qualified the documentary status of “Here I stand” while preserving the underlying conscience claim.
+- Added faith and grace as the theological engine beneath the authority conflict.
+- Added Augsburg, Leipzig, early pamphlet warfare, and the burning of the papal bull before Worms.
+- Clarified that political protection and media asymmetry helped conviction survive formal defeat.
 
 ## Relationships
 
+- [[CardinalCajetan]] - learned papal legate whose recantation demand Luther rejected at Augsburg.
+- [[JohannEck]] - Leipzig opponent who exposed the Hussite implications of Luther's claims.
+- [[PhilipMelanchthon]] - Wittenberg humanist and early academic ally.
 - [[ThomasMuntzer]] - former follower who radicalized apocalyptic and political implications Luther rejected.
 - [[AndreasKarlstadt]] - Wittenberg colleague and rival pushed into censorship, exile, and constrained reconciliation.
 - [[CharlesV]] - emperor before whom Luther refused unconditional recantation.
@@ -67,3 +78,4 @@ These two episodes cover the public break and its early radical afterlife rather
 - [[TwoKingdomsDoctrine]] - framework separating Christian freedom from authorization to overthrow secular rule.
 - [[RevolutionaryOutflanking]] - pattern describing Luther's movement from insurgent reformer to target of more radical allies.
 - [[ReformationLegacyAmbivalence]] - moral-historical frame for evaluating his achievement and harm together.
+- [[SolaFideGrace]] - salvation doctrine beneath his break with works-based and mediated religious practice.

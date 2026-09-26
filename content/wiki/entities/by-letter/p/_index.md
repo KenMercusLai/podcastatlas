@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10831
+wiki_total_pages: 10834
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "PhilipIVOfFrance"
     title: "Philip IV of France"
     url: "/wiki/entities/philipivoffrance/"
+  - key: "PhilipMelanchthon"
+    title: "Philip Melanchthon"
+    url: "/wiki/entities/philipmelanchthon/"
   - key: "PhilipOfCoburg"
     title: "Philip of Coburg"
     url: "/wiki/entities/philipofcoburg/"

@@ -5,6 +5,7 @@ tags: [reformation, theologian, radical-reformation]
 sources:
   - 437-luther-a-world-torn-apart-part-5-glt3328267667
   - 436-luther-showdown-with-the-emperor-part-4-glt5159022101
+  - 435-luther-the-battle-against-satan-part-3-glt9360370091
 last_updated: 2026-09-26
 knowledge_schema: synthesis-v1
 ---
@@ -16,6 +17,8 @@ knowledge_schema: synthesis-v1
 Andreas Karlstadt was a Wittenberg reformer whose iconoclasm, sacramental disagreement, status renunciation, and criticism of feudal wealth carried reform beyond limits accepted by [[MartinLuther]].
 
 ## Current Profile
+
+Karlstadt first appears here as a faculty ally within Luther's early [[Wittenberg]] network. His support during the pamphlet controversy predates the liturgical, sacramental, and political disagreements that later made him Luther's rival.
 
 Karlstadt led change in [[Wittenberg]] while Luther was at the [[Wartburg]]. His Christmas 1521 service used German, lay dress, bread placed in communicants' hands, and wine for the laity; town-backed reforms and later iconoclasm made the dispute about worship, images, pace, and authority as well as personality. Luther returned, restored practices, protected remaining images, and forced Karlstadt out.
 
@@ -32,6 +35,7 @@ Karlstadt abandoned academic titles, dressed in peasant gray, farmed briefly, an
 
 ## Evidence
 
+- Early alliance: [[435-luther-the-battle-against-satan-part-3-glt9360370091]] names Karlstadt among the Wittenberg faculty supporting Luther before excommunication.
 - Early Wittenberg reform: [[436-luther-showdown-with-the-emperor-part-4-glt5159022101]] describes the Christmas service, council-backed changes, image destruction, and Luther's reversal.
 - Wittenberg split: [[437-luther-a-world-torn-apart-part-5-glt3328267667]] describes Karlstadt's reforms, sacramental conflict, and Luther's concern for Frederick the Wise's support.
 - Poverty and status: [[437-luther-a-world-torn-apart-part-5-glt3328267667]] records his rejected titles, peasant clothing, farming, and repentance for benefiting from poor labor.
@@ -44,9 +48,8 @@ The sources compress the sequence between town-backed reform, crowd iconoclasm, 
 
 ## What Changed
 
-- Added Karlstadt's German Christmas service, communion changes, and role in Wittenberg's first radicalization.
-- Distinguished authorized reform from later crowd iconoclasm without erasing their connection.
-- Located Luther's 1522 return and Karlstadt's removal before the later censorship-and-exile sequence.
+- Added Karlstadt's initial faculty alliance with Luther before their later split.
+- Clarified the arc from academic supporter to independent reform leader and constrained rival.
 
 ## Relationships
 

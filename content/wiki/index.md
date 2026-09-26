@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [435. Luther: The Battle Against Satan (Part 3)](sources/435-luther-the-battle-against-satan-part-3-glt9360370091.md) — The Rest Is History on faith and grace, scriptural authority, political protection, Augsburg and Leipzig, and print-driven escalation before Worms.
 - [Benefits & Risks of Peptide Therapeutics for Physical & Mental Health](sources/benefits-risks-of-peptide-therapeutics-for-physical-mental-health-scim1922606198.md) — Huberman Lab solo episode organizing repair, growth-hormone, longevity, and vitality peptides through evidence, sourcing, pleiotropy, and clinical-risk boundaries.
 - [436. Luther: Showdown with the Emperor (Part 4)](sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101.md) — The Rest Is History on Luther at Worms, Charles V, Frederick's protection, Wartburg translation, print propaganda, and Wittenberg radicalization.
 - [GUEST SERIES | Dr. Matt Walker: The Biology of Sleep & Your Unique Sleep Needs](sources/guest-series-dr-matt-walker-the-biology-of-sleep-your-unique-sleep-needs-scim9752150487.md) — Huberman Lab sleep-series opener on QQRT, sleep stages, circadian and adenosine regulation, systemic sleep-loss effects, chronotype, and daytime safety.
@@ -2874,16 +2875,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
-- [Martin Luther](entities/MartinLuther.md) — German reformer whose Worms defiance, vernacular translation, and print power disrupted church authority while radicalization and later harmful rhetoric burdened his legacy.
+- [Cardinal Cajetan](entities/CardinalCajetan.md) — Dominican cardinal whose Augsburg meetings with Luther exposed the conflict between papal judgment and scriptural authority.
+- [Johann Eck](entities/JohannEck.md) — Catholic debater who forced Luther toward explicit Hussite implications at Leipzig but lost the public aftermath to reform print culture.
+- [Philip Melanchthon](entities/PhilipMelanchthon.md) — Humanist scholar and early Wittenberg faculty ally of Luther.
+- [Martin Luther](entities/MartinLuther.md) — German reformer whose faith-and-grace theology, scriptural defiance, princely protection, and print power disrupted church authority while later harms burdened his legacy.
 - [Thomas Müntzer](entities/ThomasMuntzer.md) — Radical reformer who joined apocalyptic theology to armed revolt and later became a contested revolutionary symbol.
 - [Andreas Karlstadt](entities/AndreasKarlstadt.md) — Wittenberg reformer whose vernacular worship, communion changes, iconoclasm, poverty ethics, and political implications exceeded Luther's limits.
 - [German Peasants' War](entities/GermanPeasantsWar.md) — 1524-1525 revolt joining social grievance, biblical argument, fragmented authority, and princely repression.
 - [Charles V](entities/CharlesV.md) — Habsburg emperor who heard Luther at Worms, defended Catholic continuity, honored safe conduct, and then backed legal suppression.
-- [Frederick the Wise](entities/FrederickTheWise.md) — Saxon elector whose political leverage and covert protection enabled Luther's hearing, survival, and Wartburg refuge.
+- [Frederick the Wise](entities/FrederickTheWise.md) — Saxon elector whose jurisdictional, electoral, and covert protection enabled Luther's hearings, survival, and Wartburg refuge.
 - [Lucas Cranach the Elder](entities/LucasCranachTheElder.md) — Court painter whose portraits, book design, and woodcuts gave the Reformation a recognizable visual language.
 - [Diet of Worms](entities/DietOfWorms.md) — 1521 imperial assembly where Luther refused unconditional recantation before Charles V.
 - [Wartburg](entities/Wartburg.md) — Castle refuge joining Luther's concealment, German New Testament translation, distress, and loss of movement control.
-- [Wittenberg](entities/Wittenberg.md) — Saxon university and print center where reform accelerated beyond Luther during his absence.
+- [Wittenberg](entities/Wittenberg.md) — Saxon university and print center where faculty, students, artists, and reformers made Luther's cause collective and later exceeded his limits.
 - [Anthropic Biological Research Laboratory](entities/AnthropicBiologicalResearchLab.md) — Source-described BSL-1/BSL-2 facility testing model-generated protein and enzyme hypotheses through wet-lab validation.
 - [Tom Hanks](entities/TomHanks.md) — Actor, producer, and public-history enthusiast interpreting Apollo through childhood memory, research, and astronaut conversations.
 - [Apollo Program](entities/ApolloProgram.md) — NASA lunar program synthesized as staged learning, interdependent mission systems, scientific work, and cultural memory.
@@ -13720,17 +13724,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Sola Fide and Grace](concepts/SolaFideGrace.md) — Salvation through divine grace received by personal faith rather than earned merit or exclusive institutional mediation.
 - [Thymosin Beta-4 Tissue Repair](concepts/ThymosinBeta4TissueRepair.md) — Thymosin beta-4 and TB-500 repair frame separating animal plausibility and combination use from controlled human evidence.
 - [Melanocortin Peptide Vitality](concepts/MelanocortinPeptideVitality.md) — Melanocortin analogue framework separating pigmentation, appetite, mood, libido, regulated PT-141 use, and adverse-effect boundaries.
 - [Kisspeptin Reproductive Signaling](concepts/KisspeptinReproductiveSignaling.md) — Upstream kisspeptin-GnRH-LH/FSH signaling frame distinguishing indication-specific reproductive use from generalized vitality claims.
 - [Sleep Health QQRT](concepts/SleepHealthQQRT.md) — Four-part sleep-health frame covering quantity, quality, regularity, and chronotype-aligned timing.
 - [Two-Process Sleep Regulation](concepts/TwoProcessSleepRegulation.md) — Interaction between circadian alerting and adenosine-based homeostatic sleep pressure.
 - [Systemic Sleep-Loss Effects](concepts/SystemicSleepLossEffects.md) — Cross-system framework for cognitive, emotional, metabolic, endocrine, immune, cardiovascular, appetite, and safety effects of insufficient sleep.
-- [Sola Scriptura and Interpretive Pluralism](concepts/SolaScripturaInterpretivePluralism.md) — Scriptural conscience empowers institutional challenge while vernacular access permits incompatible reform conclusions.
+- [Sola Scriptura and Interpretive Pluralism](concepts/SolaScripturaInterpretivePluralism.md) — Scriptural conscience empowers institutional challenge while condemnation and wider access can multiply incompatible conclusions.
 - [Two Kingdoms Doctrine](concepts/TwoKingdomsDoctrine.md) — Luther's distinction between spiritual Christian freedom and worldly political authority.
 - [Revolutionary Outflanking](concepts/RevolutionaryOutflanking.md) — Followers use portable principles and distributed media to exceed a founder's limits and recast the founder as an obstacle.
 - [Reformation Legacy Ambivalence](concepts/ReformationLegacyAmbivalence.md) — Framework for judging courage, documentary memory, religious innovation, coercion, harmful rhetoric, and later appropriation together.
-- [Reformation Print Culture](concepts/ReformationPrintCulture.md) — System joining accessible prose, portraits, book design, woodcuts, heroic narrative, propaganda, and distributed escalation.
+- [Reformation Print Culture](concepts/ReformationPrintCulture.md) — System joining pamphlets, public ritual, accessible prose, visual identity, satire, propaganda, and the conversion of censure into attention.
 - [Vernacular Scripture Reach](concepts/VernacularScriptureReach.md) — Expansion of religious access and interpretive participation through local-language translation and print.
 - [AI Company Product Liability](concepts/AICompanyProductLiability.md) — Baseline that commercial AI developers remain responsible for testing, release decisions, foreseeable harms, and ordinary corporate liability.
 - [Apollo Mission Risk Discipline](concepts/ApolloMissionRiskDiscipline.md) — Staged testing, contingency planning, trained judgment, and next-task focus under extreme mission uncertainty.

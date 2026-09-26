@@ -8173,9 +8173,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndreasKarlstadt": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -8190,6 +8190,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
         }
       ],
       "updated": "2026-09-26",
@@ -20544,6 +20551,22 @@
       ],
       "updated": "2026-09-22",
       "url": "/wiki/concepts/cardiacimplantabledevicedifferentiation/"
+    },
+    "CardinalCajetan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/cardinalcajetan/"
     },
     "CardinalDeRohan": {
       "episode_count": 1,
@@ -51753,9 +51776,9 @@
       "url": "/wiki/entities/frederickbenteen/"
     },
     "FrederickTheWise": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -51763,6 +51786,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
         }
       ],
       "updated": "2026-09-26",
@@ -75235,6 +75265,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/jogyeorder/"
     },
+    "JohannEck": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/johanneck/"
+    },
     "JohannLoschek": {
       "episode_count": 1,
       "show_count": 1,
@@ -92447,9 +92493,9 @@
       "url": "/wiki/entities/martinkutter/"
     },
     "MartinLuther": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -92464,6 +92510,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
         }
       ],
       "updated": "2026-09-26",
@@ -107743,6 +107796,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/philipivoffrance/"
     },
+    "PhilipMelanchthon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/philipmelanchthon/"
+    },
     "PhilipOfCoburg": {
       "episode_count": 1,
       "show_count": 1,
@@ -116029,9 +116098,9 @@
       "url": "/wiki/concepts/reformationlegacyambivalence/"
     },
     "ReformationPrintCulture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -116039,6 +116108,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
         }
       ],
       "updated": "2026-09-26",
@@ -128792,10 +128868,26 @@
       "updated": "2026-09-19",
       "url": "/wiki/entities/sogdianrock/"
     },
-    "SolaScripturaInterpretivePluralism": {
-      "episode_count": 2,
+    "SolaFideGrace": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/solafidegrace/"
+    },
+    "SolaScripturaInterpretivePluralism": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -128810,6 +128902,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
         }
       ],
       "updated": "2026-09-26",
@@ -148701,9 +148800,9 @@
       "url": "/wiki/concepts/wishfulfrontierconciliation/"
     },
     "Wittenberg": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5159022101 [GLT5159022101].md",
@@ -148711,6 +148810,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT9360370091 [GLT9360370091].md",
+          "key": "435-luther-the-battle-against-satan-part-3-glt9360370091",
+          "show": "The Rest Is History",
+          "title": "435. Luther: The Battle Against Satan (Part 3)",
+          "url": "/wiki/sources/435-luther-the-battle-against-satan-part-3-glt9360370091/"
         }
       ],
       "updated": "2026-09-26",
