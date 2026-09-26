@@ -9,7 +9,8 @@ sources:
   - 703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511
   - 704-roman-civil-war-master-of-the-republic-part-4-glt9669112656
   - 424-carthage-vs-rome-total-war-part-4-glt9312780357
-last_updated: 2026-09-26
+  - 423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,11 +18,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Roman Republic / 罗马共和国 is the expansionary institutional order whose early Mediterranean endurance in the [[FirstPunicWar]] and later Marius-Sulla crisis show both sides of Roman capacity: alliance-backed mobilization and adaptation abroad, followed by political, military, citizenship, moral, and social pressures that republican office could no longer contain.
+The Roman Republic / 罗马共和国 is the expansionary institutional order whose [[RomanCivicMilitaryIncorporation|civic-military incorporation]], early Mediterranean endurance in the [[FirstPunicWar]], and later Marius-Sulla crisis show both sides of Roman capacity: alliance-backed mobilization and adaptation abroad, followed by political, military, citizenship, moral, and social pressures that republican office could no longer contain.
 
 ## Current Profile
 
-The Caesar source sketches the republic as a political order built around anti-king memory, elected offices, terms, speeches, aristocratic honor, popular support, and the Senate. It treats Caesar's dictatorship as the dramatic concentration of a prior institutional crisis rather than the sole cause of collapse. Episode 701 moves the evidence backward: Roman victory over Carthage and Corinth, provincial wealth, Pergamum's bequest, elite luxury, urban resentment, the [[Gracchi]] precedent, [[GaiusMarius]]'s outsider ascent, and the [[Jugurtha|Jugurthine]] command dispute show the republic already struggling before Caesar's generation.
+Episode 423 supplies the earliest layer in the current source set. The traditional overthrow of monarchy in 509 BC becomes the setting for divided executive power, competitive office, public reputation, and citizen military duty. Rome then couples harsh coercion to differentiated incorporation: some defeated communities receive citizenship, others allied or subordinate status, and the resulting manpower base lets it return after the Gallic sack, Caudine Forks, and costly defeats by [[Pyrrhus]]. This profile explains capacity rather than inevitability, and much of the early material is preserved through later tradition.
+
+The Caesar source sketches the mature republic as a political order built around anti-king memory, elected offices, terms, speeches, aristocratic honor, popular support, and the Senate. It treats Caesar's dictatorship as the dramatic concentration of a prior institutional crisis rather than the sole cause of collapse. Episode 701 moves the evidence backward: Roman victory over Carthage and Corinth, provincial wealth, Pergamum's bequest, elite luxury, urban resentment, the [[Gracchi]] precedent, [[GaiusMarius]]'s outsider ascent, and the [[Jugurtha|Jugurthine]] command dispute show the republic already struggling before Caesar's generation.
 
 Episode 702 adds the next institutional layers. Emergency fear after Arausio lets Marius hold repeated consulships, revealing how crisis can bend office norms without abolishing them. Italian allies expose another limit: they share Rome's wars and profits but lack full citizenship, so the [[SocialWar]] erupts after reform fails. The final command struggle shows assemblies and tribunes still functioning formally, but [[PubliusSulpiciusRufus]]'s street support and Marius's ambition turn a plebiscite into coercive removal of [[LuciusCorneliusSulla]]'s Mithridatic command.
 
@@ -33,17 +36,18 @@ The First Punic War source backfills an earlier stage of that expansion. Rome ab
 
 ## Key Characteristics
 
-- The republic combined anti-king memory, elected office, aristocratic competition, popular assemblies, and senatorial authority.
+- The republic combined anti-king memory, divided elected office, aristocratic competition, popular assemblies, public judgment, and senatorial authority.
+- Earlier expansion joined differentiated citizenship, coercive incorporation, Italian manpower, elite status competition, technological adaptation, private finance, and refusal to accept defeat.
 - Mediterranean expansion made Rome dominant while importing wealth, luxury, provincial extraction, and inequality pressure.
 - The tribunate and popular mobilization became dangerous after the Gracchi murders and emergency violence.
 - Outsider ascent and foreign wars fed competition over military proof, command, wealth, public credit, and aristocratic lineage.
 - Italian allied exclusion shows that Rome's citizen institutions lag behind its peninsula-scale military and economic system.
-- Earlier expansion joined Italian manpower, elite status competition, technological adaptation, private finance, and refusal to accept defeat.
 - By episode 704, republican legality still exists but is repeatedly reconstructed under army pressure, outlawry, killing, confiscation, and extraordinary office.
 
 ## Evidence
 
 - Republican form and memory: [[124-kaisa-zhisi-lishi-de-yunjiao-shifou-yi-shixiao-781894361]] describes anti-king memory, elected offices, aristocratic honor, popular politics, and the Senate as the political world behind [[JuliusCaesar|Caesar]] and [[CaesarAssassination]].
+- Early civic-military formation: [[423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613]] links *res publica*, annual consuls, public honor, citizen service, differentiated incorporation, and the manpower to continue after major defeat.
 - Expansion and moral anxiety: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] presents Rome after 146 BC as a superpower whose provinces, Asian wealth, and luxury goods intensified elite moral anxiety and poor citizens' resentment.
 - Emergency violence and popular politics: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] ties Marius's tribunate to the [[Gracchi]] legacy, the killing of reformers, and the execution of followers without trial.
 - Command and corruption pressure: [[701-roman-civil-war-rise-of-the-general-part-1-glt1262857909]] treats the Jugurthine War as a field where Roman bribery, noble command, Marius's consulship, and [[LuciusCorneliusSulla|Sulla]]'s credit claim converge.
@@ -60,13 +64,13 @@ The First Punic War source backfills an earlier stage of that expansion. Rome ab
 
 ## Qualifications
 
-The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of two widely separated periods, not a continuous institutional history. First Punic War force totals, inventions, motives, patriotic-finance claims, and casualty figures remain source-scoped, and persistence should not be mistaken for consistent strategy or moral superiority. Episode 704 resolves the immediate Sullan settlement, but the page still does not offer a full post-Sulla path through Pompey's mature career, Caesar's campaigns, or the final imperial transition.
+The current evidence does not make the Roman Republic a generic template for all republics or democracies. The sources are podcast interpretations of widely separated periods, not a continuous institutional history. Early republican narratives, the 509 BC treaty date, the Gallic sack's causal role, battle details, First Punic War force totals, inventions, motives, patriotic-finance claims, and casualty figures remain source-scoped. Persistence should not be mistaken for consistent strategy, consensual incorporation, or moral superiority. Episode 704 resolves the immediate Sullan settlement, but the page still does not offer a full post-Sulla path through Pompey's mature career, Caesar's campaigns, or the final imperial transition.
 
 ## What Changed
 
-- Extended the profile backward to show the mobilization, learning, finance, and refusal to concede behind early Mediterranean expansion.
-- Qualified Roman adaptability with defeat, allied dependence, enslavement, reprisal, and opportunistic territorial seizure.
-- Connected the earlier culture of military status and expansion to, without treating it as a sufficient cause of, the later command crisis.
+- Extended the profile to the republic's traditional founding and pre-Punic conquest of Italy.
+- Identified differentiated citizenship, alliances, civic honor, and citizen service as the basis of Roman replacement capacity.
+- Qualified the incorporation model with coercion, unequal status, later literary evidence, and repeated Roman defeat.
 
 ## Relationships
 
@@ -89,3 +93,5 @@ The current evidence does not make the Roman Republic a generic template for all
 - [[RomanExpansionMoralAnxiety]] - expansion-pressure concept grounded by the Roman Civil War sequence.
 - [[FirstPunicWar]] - early conflict exposing the republic's adaptive and replacement capacity.
 - [[Carthage]] - rival whose defeat and survival shape Rome's western Mediterranean expansion.
+- [[Pyrrhus]] - Hellenistic challenger whose costly victories fail to break Rome's coalition.
+- [[RomanCivicMilitaryIncorporation]] - early model connecting conquest, status, citizenship, and military mobilization.

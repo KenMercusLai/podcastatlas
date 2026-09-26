@@ -5,7 +5,8 @@ tags: [polity, north-africa, mediterranean, punic-wars]
 sources:
   - 568-hannibal-romes-greatest-enemy-part-1-glt7606824410
   - 424-carthage-vs-rome-total-war-part-4-glt9312780357
-last_updated: 2026-09-26
+  - 423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -17,7 +18,9 @@ Carthage / 迦太基 is the North African maritime-commercial polity whose strug
 
 ## Current Profile
 
-The episodes present Carthage as an older Mediterranean power founded by settlers from Tyre and advantaged by harbors, fertile land, commerce, naval skill, and a strategic position near Sicily. Its western network once includes influence in North Africa, Sicily, Sardinia, Corsica, and southern Iberia.
+The episodes present Carthage as an older Mediterranean power founded by settlers from Tyre and advantaged by harbors, fertile land, commerce, naval skill, and a strategic position near Sicily. The treaties dated to 509 and 348 BC place it in a position to restrict Roman movement around Carthaginian interests while recognizing a developing Roman sphere in Latium. Its western network includes influence in North Africa, Sicily, Sardinia, Corsica, and southern Iberia, while merchant communities connect it to Italian cities without requiring direct territorial rule there.
+
+Before the Punic Wars, Carthage and Rome remain treaty partners and cooperate against Greek threats, including [[Pyrrhus]]. Carthage's wealth, sea power, and paid forces differ from Rome's citizen-and-allied manpower model, but the contrast is qualified because the source gives much less attention to Carthaginian citizenship, government, and mixed military institutions.
 
 The First Punic War reveals both capability and fragility. Carthaginian fleets, paid forces, elephants, flexible Sicilian tactics, and [[HamilcarBarca]]'s delaying campaign impose enormous costs, but Rome learns naval warfare, replaces losses, and constricts the sea lanes and cash flow needed to sustain mercenaries. Defeat costs Sicily, indemnity payments, and naval position.
 
@@ -26,6 +29,7 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 ## Key Characteristics
 
 - Maritime and commercial power with Phoenician roots.
+- Older treaty power whose regulated commercial presence in Italy predates open rivalry with Rome.
 - Combines naval experience and paid forces with dependence on sea access and cash flow.
 - Loses Sicily, money, and naval freedom after the First Punic War.
 - Survives a fiscal-military revolt through outside aid and exceptionally violent suppression.
@@ -35,6 +39,7 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 ## Evidence
 
 - Earlier power: [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] describes Carthage's origins, harbors, agriculture, sea position, and western network.
+- Treaty and trade relationship: [[423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613]] describes the 509 and 348 BC agreements, Punic merchant presence in Italy, and continued cooperation against Greek rivals.
 - Wartime capability and constraint: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] describes naval dominance, mercenary dependence, Sicilian resistance, shrinking sea access, and financial pressure.
 - Internal survival: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] traces unpaid troops, rebel organization, reciprocal atrocity, outside assistance, and final suppression.
 - Defeat and recovery: [[424-carthage-vs-rome-total-war-part-4-glt9312780357]] and [[568-hannibal-romes-greatest-enemy-part-1-glt7606824410]] connect First Punic War losses, Sardinia, and Roman pressure to Spanish expansion.
@@ -42,13 +47,13 @@ The unpaid-army crisis then becomes the Mercenary War. Rebel control of treasure
 
 ## Qualifications
 
-This remains a conflict-centered profile rather than a complete Carthaginian history. The maritime-versus-land-power contrast can overcompress both societies. Force and casualty totals, institutional politics, dependence on mercenaries, atrocity stories, reported dialogue, the degree of Barcid independence, and claims about motive remain source-scoped; the Mercenary War account is also mediated through hostile and later literary traditions.
+This remains a conflict-centered profile rather than a complete Carthaginian history. The maritime-versus-land-power and citizen-versus-mercenary contrasts can overcompress both societies. Treaty dating and interpretation, force and casualty totals, institutional politics, dependence on mercenaries, atrocity stories, reported dialogue, the degree of Barcid independence, and claims about motive remain source-scoped; the surviving narrative is heavily mediated through Greek and Roman authors, and the Mercenary War account through hostile and later literary traditions.
 
 ## What Changed
 
-- Reframed First Punic War defeat as the result of prolonged fiscal and access pressure rather than simple naval inferiority.
-- Added the Mercenary War as the internal crisis connecting defeat, Sardinia, and Spanish recovery.
-- Preserved Carthaginian state authority while qualifying both mercenary dependence and independent-Barcid interpretations.
+- Extended the profile backward to the early treaties, Italian commerce, and cooperation with Rome against Greek powers.
+- Qualified the simple contrast between Carthaginian mercenaries and Roman citizens by noting the source's asymmetrical institutional coverage.
+- Reframed the later rivalry as a change from a regulated partnership rather than an timeless civilizational collision.
 
 ## Relationships
 
@@ -59,3 +64,5 @@ This remains a conflict-centered profile rather than a complete Carthaginian his
 - [[MercenaryWar]] - postwar revolt that nearly destroys the state.
 - [[BarcidSpanishPowerBase]] - Iberian system that restores wealth and military capacity.
 - [[SaguntumWarTrigger]] - immediate crisis through which rivalry becomes war.
+- [[Pyrrhus]] - common Greek threat whose intervention temporarily aligns Carthaginian and Roman interests.
+- [[RomanCivicMilitaryIncorporation]] - contrasting Roman manpower model that helps explain the later wars' endurance gap.

@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
       "83047354e3fa22c2f2d2f929ac8ba1a39ba99862f6ef55ba725edcfbb26b5c32",
       "0f4bc4fa6424f4467d6b682c4c4f438379c76dad0108626ff8925a0d26c76891",
       "ecf59e934a9e2b03f5a6bfe5d9d7de60750480c6a0fafcbbe4a6acb86451f7e3",
@@ -739,11 +740,31 @@
       "f24efd40c0c6afcf9067ba23b759935de70c4697445bc5d55c4633328ece6b74",
       "9fe4c68dcdba2239d5b685180fda81f5ec5e3c0e32bf471d9471328c09d598fc"
     ],
-    "paragraph_count": 737
+    "paragraph_count": 738
   },
-  "overview_commit": "46267da5d874e85ecdfa5eb0de0eb1559203dce4",
-  "overview_digest": "c9ad77224071b9401715d6af1c2241547b2ae34e1cf65772b3fb4489ecbeea39",
+  "overview_commit": "f31fe8c44ca2c552ea35aea261a2463db3533a2c",
+  "overview_digest": "8a3423a21c923ecc576170553d40c300762b04209015d4de26f30a3554d4dbe3",
   "paragraphs": [
+    {
+      "id": "bfb6f8b0bb17ffe05901f40938c7eebbd54cb4d85688a5ac64a7bfb97e0fd98d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613|423. Carthage vs. Rome: The Wolf at the Gates (Part 3)]], a [[TheRestIsHistory]] episode extending the Roman-Carthaginian sequence backward from the [[FirstPunicWar]] to their early treaties and Rome's conquest of Italy. It adds [[Pyrrhus]] and [[RomanCivicMilitaryIncorporation]] while extending [[RomanRepublic]], [[Carthage]], [[Samnites]], and [[FirstPunicWar]]. Its core synthesis is that Rome's advantage before the Punic Wars lay less in uninterrupted battlefield superiority than in a coercive but expansive system linking public honor, citizen service, differentiated incorporation, allied manpower, and refusal to accept humiliating settlement; Carthage remained the older maritime-commercial power and treaty partner until Roman control of Italy brought both systems to Sicily. No settled contradiction is recorded. Early republican narratives, treaty dating, the Gallic sack's causal role, Caudine and Pyrrhic battle details, reported speeches and prophecies, and the citizen-versus-mercenary contrast remain source-scoped or qualified.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 4
+      },
+      "wikilinks": [
+        "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+        "Carthage",
+        "FirstPunicWar",
+        "Pyrrhus",
+        "RomanCivicMilitaryIncorporation",
+        "RomanRepublic",
+        "Samnites",
+        "TheRestIsHistory"
+      ]
+    },
     {
       "id": "83047354e3fa22c2f2d2f929ac8ba1a39ba99862f6ef55ba725edcfbb26b5c32",
       "primary_topic": "history-and-geopolitics",

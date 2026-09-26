@@ -21104,9 +21104,9 @@
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
     "Carthage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7606824410 [GLT7606824410].md",
@@ -21121,9 +21121,16 @@
           "show": "The Rest Is History",
           "title": "424. Carthage vs. Rome: Total War (Part 4)",
           "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
+        },
+        {
+          "episode_file": "GLT2669872613 [GLT2669872613].md",
+          "key": "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+          "show": "The Rest Is History",
+          "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+          "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/carthage/"
     },
     "CaseExpansionPoliticalPurge": {
@@ -50026,9 +50033,9 @@
       "url": "/wiki/concepts/firstpersonaimemory/"
     },
     "FirstPunicWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT9312780357 [GLT9312780357].md",
@@ -50036,9 +50043,16 @@
           "show": "The Rest Is History",
           "title": "424. Carthage vs. Rome: Total War (Part 4)",
           "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
+        },
+        {
+          "episode_file": "GLT2669872613 [GLT2669872613].md",
+          "key": "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+          "show": "The Rest Is History",
+          "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+          "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/firstpunicwar/"
     },
     "FirstSouthwestBank": {
@@ -115264,6 +115278,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/pyromindstudio/"
     },
+    "Pyrrhus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2669872613 [GLT2669872613].md",
+          "key": "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+          "show": "The Rest Is History",
+          "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+          "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/pyrrhus/"
+    },
     "QLoRA": {
       "episode_count": 1,
       "show_count": 1,
@@ -121537,6 +121567,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/romanbritain/"
     },
+    "RomanCivicMilitaryIncorporation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2669872613 [GLT2669872613].md",
+          "key": "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+          "show": "The Rest Is History",
+          "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+          "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/romancivicmilitaryincorporation/"
+    },
     "RomanConquestOfBritain": {
       "episode_count": 2,
       "show_count": 1,
@@ -121681,9 +121727,9 @@
       "url": "/wiki/concepts/romanprovincialconsolidation/"
     },
     "RomanRepublic": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "124. 恺撒之死：历史的韵脚，是否已失效？ [781894361].md",
@@ -121726,9 +121772,16 @@
           "show": "The Rest Is History",
           "title": "424. Carthage vs. Rome: Total War (Part 4)",
           "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
+        },
+        {
+          "episode_file": "GLT2669872613 [GLT2669872613].md",
+          "key": "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+          "show": "The Rest Is History",
+          "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+          "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/romanrepublic/"
     },
     "RomanceOfTheThreeKingdoms": {
@@ -123167,9 +123220,9 @@
       "url": "/wiki/concepts/samesurnamekingenfeoffment/"
     },
     "Samnites": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3336491089 [GLT3336491089].md",
@@ -123184,9 +123237,16 @@
           "show": "The Rest Is History",
           "title": "704. Roman Civil War: Master of the Republic (Part 4)",
           "url": "/wiki/sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656/"
+        },
+        {
+          "episode_file": "GLT2669872613 [GLT2669872613].md",
+          "key": "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613",
+          "show": "The Rest Is History",
+          "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+          "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/samnites/"
     },
     "SamuelJohnson": {

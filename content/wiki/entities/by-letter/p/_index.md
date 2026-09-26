@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10873
+wiki_total_pages: 10874
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -869,6 +869,9 @@ wiki_pages:
   - key: "PyromindStudio"
     title: "Pyromind Studio"
     url: "/wiki/entities/pyromindstudio/"
+  - key: "Pyrrhus"
+    title: "Pyrrhus of Epirus / 伊庇鲁斯的皮洛士"
+    url: "/wiki/entities/pyrrhus/"
   - key: "PyTorch"
     title: "PyTorch"
     url: "/wiki/entities/pytorch/"

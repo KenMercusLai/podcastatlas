@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [423. Carthage vs. Rome: The Wolf at the Gates (Part 3)](sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613.md) — The Rest Is History on early Roman-Carthaginian treaties, Roman civic-military incorporation, the Samnite Wars, Pyrrhus, and the strategic approach to Sicily.
 - [Protocols for Excellent Parenting & Improving Relationships of All Kinds | Dr. Becky Kennedy](sources/protocols-for-excellent-parenting-improving-relationships-of-all-kinds-dr-becky-kennedy-scim7905596498.md) — Huberman Lab interview on sturdy parenting, action-based boundaries, validation, repair, frustration tolerance, adolescent connection, and safety intervention.
 - [VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！](sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt.md) — 这病说来话长 roundtable on operating-room privacy, anesthesia and ICU recovery, perioperative pain control, MRI object screening, and gastrointestinal foreign-body safety.
 - [424. Carthage vs. Rome: Total War (Part 4)](sources/424-carthage-vs-rome-total-war-part-4-glt9312780357.md) — The Rest Is History on the First Punic War, Roman naval adaptation and persistence, Carthaginian fiscal pressure, the Mercenary War, Sardinia, and Hamilcar's turn to Spain.
@@ -3375,7 +3376,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tom Segura](entities/TomSegura.md) — Comedian, writer, actor, and director whose stand-up develops through live testing and audience feedback.
 - [Bad Thoughts](entities/BadThoughts.md) — Segura's short-form screen-comedy project and extension of his acting and writing ambitions.
 - [Tsarevich Alexei / 阿列克谢皇太子](entities/TsarevichAlexei.md) — Peter the Great's frightened and politically dangerous heir whose attempted withdrawal ends in forced return, torture, and death.
-- [Carthage / 迦太基](entities/Carthage.md) — Maritime-commercial polity that survives First Punic War defeat and the Mercenary War before rebuilding through Iberia.
+- [Carthage / 迦太基](entities/Carthage.md) — Older maritime-commercial treaty power whose partnership with Rome gives way to Punic war, fiscal crisis, and Iberian recovery.
+- [Pyrrhus of Epirus / 伊庇鲁斯的皮洛士](entities/Pyrrhus.md) — Hellenistic king whose costly victories fail to break Rome's Italian coalition before his withdrawal shifts attention toward Sicily.
 - [Hamilcar Barca / 哈米尔卡·巴卡](entities/HamilcarBarca.md) — Carthaginian commander linking the Sicilian holding war, Mercenary War, and Spanish power base inherited by Hannibal.
 - [Hasdrubal the Handsome / 美男子哈斯德鲁巴](entities/HasdrubalTheHandsome.md) — Hamilcar's successor who consolidates Iberia, founds New Carthage, and negotiates the Ebro agreement.
 - [New Carthage / 新迦太基](entities/NewCarthage.md) — Iberian capital and resource-command center of Barcid Spain.
@@ -10405,7 +10407,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Stanislas Maillard](entities/StanislasMaillard.md) — Identifiable local organizer associated with September Massacres killing teams and improvised tribunals.
 - [Thomas Paine / 托马斯·潘恩](entities/ThomasPaine.md) — Republican anti-death-penalty counterpoint in episode 125's discussion of revolution, punishment, and killing.
 - [Julius Caesar / 尤利乌斯·恺撒](entities/JuliusCaesar.md) — Roman commander who turned frontier reach into prestige before civil war and personal rule produced an unresolved legitimacy crisis.
-- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose early adaptive endurance and later command crisis expose both the capacity and pressures of republican mobilization.
+- [Roman Republic / 罗马共和国](entities/RomanRepublic.md) — Expansionary polity whose civic-military incorporation, early adaptive endurance, and later command crisis expose the capacity and pressures of republican mobilization.
 - [Roman Empire / 罗马帝国](entities/RomanEmpire.md) — Imperial order emerging after Caesar's assassination, appearing as Da Qin in Gan Ying's Eastern Han mission, and serving as the western endpoint of a qualified Hunnic/Gothic pressure sequence.
 - [阿提拉 / Attila the Hun](entities/AttilaTheHun.md) — Hunnic leader used in Hanji 764 as the remembered late figure in the qualified migration-pressure chain from steppe displacement to Roman crisis.
 - [Assassination of Julius Caesar / 恺撒遇刺](entities/CaesarAssassination.md) — Ides of March event treated by episode 124 as both republican tyrannicide and failed political repair.
@@ -13794,7 +13796,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Frustration-Tolerance Learning Space](concepts/FrustrationToleranceLearningSpace.md) — Manageable interval between inability or disappointment and adaptation where learning and resilience develop.
 - [Perioperative Pain Control / 围手术期疼痛控制](concepts/PerioperativePainControl.md) — patient-reported, anticipatory, monitored analgesia and agency around procedures.
 - [Gastrointestinal Foreign Body Escalation / 消化道异物升级处置](concepts/GastrointestinalForeignBodyEscalation.md) — prevention and timely-care boundary for swallowed and rectally retained objects.
-- [First Punic War / 第一次布匿战争](concepts/FirstPunicWar.md) — Roman-Carthaginian war synthesized through Sicilian escalation, naval learning, attrition, finance, manpower, and political endurance.
+- [First Punic War / 第一次布匿战争](concepts/FirstPunicWar.md) — Roman-Carthaginian war synthesized from the earlier treaty relationship through Sicilian escalation, naval learning, attrition, finance, manpower, and political endurance.
+- [Roman Civic-Military Incorporation / 罗马公民军事整合](concepts/RomanCivicMilitaryIncorporation.md) — Model joining citizenship, alliances, public honor, coercion, and military service to explain Rome's widening manpower base.
 - [Mercenary War / 雇佣兵战争](concepts/MercenaryWar.md) — Carthaginian postwar fiscal and demobilization crisis that becomes organized rebellion and reciprocal atrocity.
 - [Circadian Travel Adaptation](concepts/CircadianTravelAdaptation.md) — Flexible travel clock-shifting through coordinated light, wake time, activity, meals, caffeine, social cues, and evening darkness.
 - [Non-Sleep Deep Rest Recovery](concepts/NonSleepDeepRestRecovery.md) — Guided-rest recovery frame separating optional stress regulation from sleep replacement or compensation for chronic overload.

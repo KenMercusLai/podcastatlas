@@ -1091,6 +1091,10 @@
     "title": "42.安多：风起于青萍之末",
     "url": "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
   },
+  "423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613": {
+    "title": "423. Carthage vs. Rome: The Wolf at the Gates (Part 3)",
+    "url": "/wiki/sources/423-carthage-vs-rome-the-wolf-at-the-gates-part-3-glt2669872613/"
+  },
   "424-carthage-vs-rome-total-war-part-4-glt9312780357": {
     "title": "424. Carthage vs. Rome: Total War (Part 4)",
     "url": "/wiki/sources/424-carthage-vs-rome-total-war-part-4-glt9312780357/"
@@ -54931,6 +54935,10 @@
     "title": "Pyromind Studio",
     "url": "/wiki/entities/pyromindstudio/"
   },
+  "Pyrrhus": {
+    "title": "Pyrrhus of Epirus / 伊庇鲁斯的皮洛士",
+    "url": "/wiki/entities/pyrrhus/"
+  },
   "QDIIAllocation": {
     "title": "QDII Allocation",
     "url": "/wiki/concepts/qdiiallocation/"
@@ -58214,6 +58222,10 @@
   "RomanBritain": {
     "title": "Roman Britain",
     "url": "/wiki/entities/romanbritain/"
+  },
+  "RomanCivicMilitaryIncorporation": {
+    "title": "Roman Civic-Military Incorporation / 罗马公民军事整合",
+    "url": "/wiki/concepts/romancivicmilitaryincorporation/"
   },
   "RomanConquestOfBritain": {
     "title": "Roman Conquest of Britain",
