@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10903
+wiki_total_pages: 10908
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1451,6 +1451,9 @@ wiki_pages:
   - key: "MythosAISecurityTest"
     title: "Mythos AI Security Test"
     url: "/wiki/entities/mythosaisecuritytest/"
+  - key: "ManInTheIronMask"
+    title: "The Man in the Iron Mask"
+    url: "/wiki/entities/manintheironmask/"
   - key: "MerchantAndAlchemistsGate"
     title: "The Merchant and the Alchemist's Gate"
     url: "/wiki/entities/merchantandalchemistsgate/"

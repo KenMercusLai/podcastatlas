@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2839
+topic_total_pages: 2840
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5261,6 +5261,9 @@ topic_entities:
   - key: "TheKeralaStory"
     title: "The Kerala Story"
     url: "/wiki/entities/thekeralastory/"
+  - key: "ManInTheIronMask"
+    title: "The Man in the Iron Mask"
+    url: "/wiki/entities/manintheironmask/"
   - key: "TheMetamorphosisKafka"
     title: "The Metamorphosis / Kafka's 《变形记》"
     url: "/wiki/entities/themetamorphosiskafka/"

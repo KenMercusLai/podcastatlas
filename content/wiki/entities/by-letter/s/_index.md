@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10903
+wiki_total_pages: 10908
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "SekigaharaBattle"
     title: "Battle of Sekigahara / 关原合战"
     url: "/wiki/entities/sekigaharabattle/"
+  - key: "SaintMars"
+    title: "Bénigne Dauvergne de Saint-Mars"
+    url: "/wiki/entities/saintmars/"
   - key: "SP500"
     title: "S&P 500"
     url: "/wiki/entities/sp500/"

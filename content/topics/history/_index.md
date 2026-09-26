@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2049
+topic_total_pages: 2051
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1057,6 +1057,9 @@ topic_concepts:
   - key: "ScriptAsSocialHistory"
     title: "Script As Social History"
     url: "/wiki/concepts/scriptassocialhistory/"
+  - key: "SecrecyDrivenHistoricalMyth"
+    title: "Secrecy-Driven Historical Myth"
+    url: "/wiki/concepts/secrecydrivenhistoricalmyth/"
   - key: "SelfDefeatingResourceDrainStrategy"
     title: "Self-Defeating Resource-Drain Strategy / 疲敌反强敌"
     url: "/wiki/concepts/selfdefeatingresourcedrainstrategy/"
@@ -4635,6 +4638,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "411-the-man-in-the-iron-mask-glt3787137343"
+    title: "411. The Man in the Iron Mask"
+    url: "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
   - key: "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172"
     title: "412. Romans in Space: Star Wars, Dune and Beyond..."
     url: "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"

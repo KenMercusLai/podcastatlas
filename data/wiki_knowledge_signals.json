@@ -7088,6 +7088,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/alexandrasuichbass/"
     },
+    "AlexandreDumas": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/alexandredumas/"
+    },
     "AlexandriaOcasioCortez": {
       "episode_count": 1,
       "show_count": 1,
@@ -13827,9 +13843,9 @@
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
     },
     "BastilleRevolutionaryMythmaking": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT5485693441 [GLT5485693441].md",
@@ -13837,9 +13853,16 @@
           "show": "The Rest Is History",
           "title": "479. The French Revolution: The Storming of the Bastille (Part 5)",
           "url": "/wiki/sources/479-the-french-revolution-the-storming-of-the-bastille-part-5-glt5485693441/"
+        },
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/bastillerevolutionarymythmaking/"
     },
     "BatterySupplierDiversification": {
@@ -46262,6 +46285,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/europeandefenseautonomy/"
+    },
+    "EustacheDege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/eustachedege/"
     },
     "EvaPeron": {
       "episode_count": 5,
@@ -89859,6 +89898,22 @@
       "updated": "2026-09-23",
       "url": "/wiki/entities/louisoforleans/"
     },
+    "LouisXIV": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/louisxiv/"
+    },
     "LouisXV": {
       "episode_count": 1,
       "show_count": 1,
@@ -93570,6 +93625,22 @@
       ],
       "updated": "2026-09-25",
       "url": "/wiki/entities/malta/"
+    },
+    "ManInTheIronMask": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/manintheironmask/"
     },
     "ManagedServiceAutomationLayer": {
       "episode_count": 1,
@@ -124230,6 +124301,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/saintlegendaccretion/"
     },
+    "SaintMars": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/saintmars/"
+    },
     "SaintPetersburg": {
       "episode_count": 1,
       "show_count": 1,
@@ -126116,6 +126203,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/secrecydrivenadministrativebottleneck/"
+    },
+    "SecrecyDrivenHistoricalMyth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/secrecydrivenhistoricalmyth/"
     },
     "SecretImperialInfantSuppression": {
       "episode_count": 2,
@@ -147679,6 +147782,36 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/volkswagengroup/"
+    },
+    "Voltaire": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林 [lmBSdBfEqqfZ5Vm3g67b-wjGDfJa].md",
+          "key": "167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja",
+          "show": "起朱楼宴宾客",
+          "title": "167.柏拉图、卢梭、哈耶克、阿伦特四大哲学家会如何解释算法时代？｜串台独树不成林",
+          "url": "/wiki/sources/167-bailatu-lusuo-hayeke-alunte-sida-zhexuejia-hui-ruhe-jieshi-suanfa-shidai-chuantai-dushu-buchenglin-lmbsdbfeqqfz5vm3g67b-wjgdjfja/"
+        },
+        {
+          "episode_file": "92.柏拉图上班记：用哲学搞笑职场 [716822350].md",
+          "key": "92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350",
+          "show": "蜜獾吃书",
+          "title": "92.柏拉图上班记：用哲学搞笑职场",
+          "url": "/wiki/sources/92-bailatu-shangbanji-yong-zhexue-gaoxiao-zhichang-716822350/"
+        },
+        {
+          "episode_file": "GLT3787137343 [GLT3787137343].md",
+          "key": "411-the-man-in-the-iron-mask-glt3787137343",
+          "show": "The Rest Is History",
+          "title": "411. The Man in the Iron Mask",
+          "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/voltaire/"
     },
     "VoluntaryAISafetyCommitments": {
       "episode_count": 5,

@@ -1658,6 +1658,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "411-the-man-in-the-iron-mask-glt3787137343": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172": [
     {
       "key": "history",
@@ -47090,6 +47097,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ManInTheIronMask": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "ManagedServiceAutomationLayer": [
     {
       "key": "technology",
@@ -64654,6 +64668,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SecrecyDrivenHistoricalMyth": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SecretGRAS": [

@@ -1087,6 +1087,10 @@
     "title": "41.施剑翘复仇案：超越哈贝马斯的情与法",
     "url": "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
   },
+  "411-the-man-in-the-iron-mask-glt3787137343": {
+    "title": "411. The Man in the Iron Mask",
+    "url": "/wiki/sources/411-the-man-in-the-iron-mask-glt3787137343/"
+  },
   "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172": {
     "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
     "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
@@ -5274,6 +5278,10 @@
   "AlexandraSuichBass": {
     "title": "Alexandra Suich Bass",
     "url": "/wiki/entities/alexandrasuichbass/"
+  },
+  "AlexandreDumas": {
+    "title": "Alexandre Dumas",
+    "url": "/wiki/entities/alexandredumas/"
   },
   "AlexandriaOcasioCortez": {
     "title": "Alexandria Ocasio-Cortez",
@@ -23118,6 +23126,10 @@
   "EurozoneInternalImbalance": {
     "title": "Eurozone Internal Imbalance",
     "url": "/wiki/concepts/eurozoneinternalimbalance/"
+  },
+  "EustacheDege": {
+    "title": "Eustache Degé",
+    "url": "/wiki/entities/eustachedege/"
   },
   "Eutelsat": {
     "title": "Eutelsat",
@@ -42279,6 +42291,10 @@
     "title": "Louis of Orléans",
     "url": "/wiki/entities/louisoforleans/"
   },
+  "LouisXIV": {
+    "title": "Louis XIV",
+    "url": "/wiki/entities/louisxiv/"
+  },
   "LouisXV": {
     "title": "Louis XV",
     "url": "/wiki/entities/louisxv/"
@@ -43586,6 +43602,10 @@
   "ManChong": {
     "title": "满宠 / Man Chong",
     "url": "/wiki/entities/manchong/"
+  },
+  "ManInTheIronMask": {
+    "title": "The Man in the Iron Mask",
+    "url": "/wiki/entities/manintheironmask/"
   },
   "ManagedServiceAutomationLayer": {
     "title": "Managed-Service Automation Layer",
@@ -59211,6 +59231,10 @@
     "title": "Saint Legend Accretion",
     "url": "/wiki/concepts/saintlegendaccretion/"
   },
+  "SaintMars": {
+    "title": "Bénigne Dauvergne de Saint-Mars",
+    "url": "/wiki/entities/saintmars/"
+  },
   "SaintPetersburg": {
     "title": "Saint Petersburg / 圣彼得堡",
     "url": "/wiki/entities/saintpetersburg/"
@@ -60106,6 +60130,10 @@
   "SecrecyDrivenAdministrativeBottleneck": {
     "title": "密控式行政瓶颈 / Secrecy-Driven Administrative Bottleneck",
     "url": "/wiki/concepts/secrecydrivenadministrativebottleneck/"
+  },
+  "SecrecyDrivenHistoricalMyth": {
+    "title": "Secrecy-Driven Historical Myth",
+    "url": "/wiki/concepts/secrecydrivenhistoricalmyth/"
   },
   "SecretGRAS": {
     "title": "Secret GRAS",

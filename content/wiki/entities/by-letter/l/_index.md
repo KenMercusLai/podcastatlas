@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10903
+wiki_total_pages: 10908
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "LouisOfOrleans"
     title: "Louis of Orléans"
     url: "/wiki/entities/louisoforleans/"
+  - key: "LouisXIV"
+    title: "Louis XIV"
+    url: "/wiki/entities/louisxiv/"
   - key: "LouisXV"
     title: "Louis XV"
     url: "/wiki/entities/louisxv/"

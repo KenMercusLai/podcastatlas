@@ -746,12 +746,13 @@
       "9c6a00cde7f684f1bb851d74c7fe1c200cb764a6ec54495df3c75f137f04e3c4",
       "3b0c014c987a39993d088c448d1248990efc00e4ac954c464445df342bccebfe",
       "f9eaf87ee30e858ab40b0c1553f63df088fff30d966a9c32ab3a98f5c2560e42",
-      "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c"
+      "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c",
+      "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55"
     ],
-    "paragraph_count": 746
+    "paragraph_count": 747
   },
-  "overview_commit": "b3289eb1bca92b994d45eabff791d867ea4d622e",
-  "overview_digest": "781a9610f4d8c5f97375cdef772161290625395901c36f694719f807d4057d60",
+  "overview_commit": "1bac2bff0d74901607dd6e2ade3310038038ce6e",
+  "overview_digest": "64a9891bde0cf833feb3bfa0c884c78769faa9dd8c2babe1d352941719a0b93c",
   "paragraphs": [
     {
       "id": "3ee4e9dfdf318618e8dbe288b29547869e163245e372cfb3556ec4faaa1fd122",
@@ -22051,6 +22052,28 @@
         "PeterAttia",
         "TumorMicroenvironment",
         "journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757"
+      ]
+    },
+    {
+      "id": "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[411-the-man-in-the-iron-mask-glt3787137343|411. The Man in the Iron Mask]], a [[TheRestIsHistory]] episode separating the documented masked prisoner from [[Voltaire]] and [[AlexandreDumas]]'s royal and literary legend. It adds [[EustacheDege]], [[SaintMars]], [[LouisXIV]], [[ManInTheIronMask]], and [[SecrecyDrivenHistoricalMyth]], while extending [[BastilleRevolutionaryMythmaking]]. Its core synthesis is that contemporary notices establish a masked state prisoner and the 1669 correspondence, valet status, chronology, and prison transfers make Degé the strongest identification, but the reason for his confinement remains unknown. Conspicuous concealment then became a publicity mechanism: security measures invited observers to infer importance, while later writers supplied iron-mask mechanisms, royal birth, and twin plots unsupported by the stronger archival trail. No settled contradiction is recorded; the spelling “Degé,” exact offense, Secret Treaty of Dover connection, exceptional-treatment stories, and some reported details remain unresolved or source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2
+      },
+      "wikilinks": [
+        "411-the-man-in-the-iron-mask-glt3787137343",
+        "AlexandreDumas",
+        "BastilleRevolutionaryMythmaking",
+        "EustacheDege",
+        "LouisXIV",
+        "ManInTheIronMask",
+        "SaintMars",
+        "SecrecyDrivenHistoricalMyth",
+        "TheRestIsHistory",
+        "Voltaire"
       ]
     }
   ],

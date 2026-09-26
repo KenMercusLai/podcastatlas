@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [411. The Man in the Iron Mask](sources/411-the-man-in-the-iron-mask-glt3787137343.md) — The Rest Is History on the masked prisoner's documentary trail, Eustache Degé identification, rejected royal theories, and the myth-generating effects of state secrecy.
 - [Journal Club with Dr. Peter Attia | Effects of Light & Dark on Mental Health & Treatments for Cancer](sources/journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757.md) — Huberman Lab Journal Club on day-night light exposure and psychiatric outcomes, observational-study limits, cancer immune recognition, CTLA-4 blockade, survival, and autoimmune toxicity.
 - [412. Romans in Space: Star Wars, Dune and Beyond...](sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172.md) — The Rest Is History on Roman political memory across Star Wars, Foundation, Dune, Star Trek, and The Hunger Games, with a guardrail against one-to-one allegory.
 - [VOL.98乳腺外科｜谁的乳腺不是乳腺呢 乳腺疾病是被气出来的吗？｜乳腺自查指南](sources/vol-98-ruxianwaike-sheide-ruxian-bushi-ruxian-ne-ruxian-jibing-shi-bei-qi-chulai-de-ma-ruxian-zicha-zhinan-lginwlcqmjiaxozgtogn7sqlgqlt.md) — 这病说来话长 episode on breast findings, change awareness, cancer-risk context, and myths about emotion, size, soy, massage, and male breast disease.
@@ -2921,6 +2922,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 
 ## Entities
+- [Eustache Degé](entities/EustacheDege.md) — Valet and state prisoner identified by the episode as the strongest candidate for the Man in the Iron Mask.
+- [Bénigne Dauvergne de Saint-Mars](entities/SaintMars.md) — Royal jailer whose successive commands connect the masked prisoner's documentary trail.
+- [Louis XIV](entities/LouisXIV.md) — French monarch whose absolutist prison system forms the political setting of the iron-mask case.
+- [The Man in the Iron Mask](entities/ManInTheIronMask.md) — Documented masked prisoner whose uncertain identity became a royal and literary legend.
+- [Alexandre Dumas](entities/AlexandreDumas.md) — Novelist who made the royal-twin version of the iron-mask story culturally dominant.
 - [Foundation / 基地](entities/FoundationAsimov.md) — Asimov sequence translating Roman imperial decline into a Galactic Empire, psychohistory, preservation, and prediction failure.
 - [Frank Herbert](entities/FrankHerbert.md) — Dune author represented through composite imperial, Islamic-history, oil-age, and Arthurian worldbuilding.
 - [Dune / 沙丘](entities/Dune.md) — Science-fiction world joining spice monopoly, aristocratic empire, prophetic charisma, and layered historical reference.
@@ -13839,6 +13845,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Secrecy-Driven Historical Myth](concepts/SecrecyDrivenHistoricalMyth.md) — Feedback loop in which conspicuous concealment signals importance, invites conjecture, and lets later stories fill archival gaps.
 - [Day-Night Light and Mental Health](concepts/DayNightLightMentalHealth.md) — Observational framework separating morning and evening timing cues, bright daytime exposure, nighttime darkness, psychiatric associations, and causal limits.
 - [Immune Checkpoint Inhibition](concepts/ImmuneCheckpointInhibition.md) — T-cell brake-release strategy joining CTLA-4 blockade, overall-survival benefit, response limits, and autoimmune toxicity.
 - [Roman Political Memory in Science Fiction](concepts/RomanPoliticalMemoryInScienceFiction.md) — Reuse of republican collapse, empire, frontier decline, and spectacle to make imagined futures politically legible.

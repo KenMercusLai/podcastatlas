@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 10903
+wiki_total_pages: 10908
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "EuropeanUnionDigitalServicesAct"
     title: "European Union Digital Services Act"
     url: "/wiki/entities/europeanuniondigitalservicesact/"
+  - key: "EustacheDege"
+    title: "Eustache Degé"
+    url: "/wiki/entities/eustachedege/"
   - key: "Eutelsat"
     title: "Eutelsat"
     url: "/wiki/entities/eutelsat/"

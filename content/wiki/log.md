@@ -23176,3 +23176,15 @@ Added source `journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-h
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-27] ingest | 411. The Man in the Iron Mask
+
+Added source `411-the-man-in-the-iron-mask-glt3787137343`; created `EustacheDege`, `SaintMars`, `LouisXIV`, `ManInTheIronMask`, `AlexandreDumas`, and `SecrecyDrivenHistoricalMyth`; and updated `Voltaire` and `BastilleRevolutionaryMythmaking` from their complete bounded source sets. Core synthesis: contemporary records establish a masked prisoner and make the valet Eustache Degé the strongest identification, while the cause of detention remains unknown and conspicuous secrecy helps explain the royal and literary legend's growth. No settled contradiction found; the spelling, offense, Treaty of Dover theory, exceptional treatment, and later marginal details remain source-scoped or unresolved.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
