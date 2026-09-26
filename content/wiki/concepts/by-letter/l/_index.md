@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 8209
+wiki_total_pages: 8210
 wiki_pages:
   - key: "LaborIllusion"
     title: "Labor Illusion"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "LateHanPopulationCollapse"
     title: "Late-Han Population Collapse / 东汉末年人口崩塌"
     url: "/wiki/concepts/latehanpopulationcollapse/"
+  - key: "LateMedievalSalvationSystem"
+    title: "Late-Medieval Salvation System"
+    url: "/wiki/concepts/latemedievalsalvationsystem/"
   - key: "LateMingWesternLearning"
     title: "Late-Ming Western Learning / 晚明西学东渐"
     url: "/wiki/concepts/latemingwesternlearning/"

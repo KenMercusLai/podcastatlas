@@ -70559,9 +70559,9 @@
       "url": "/wiki/concepts/individualizedriskresponsibility/"
     },
     "IndulgenceEconomy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT4080973410 [GLT4080973410].md",
@@ -70569,6 +70569,13 @@
           "show": "The Rest Is History",
           "title": "434. Luther: The Revolution Begins (Part 2)",
           "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
+        },
+        {
+          "episode_file": "GLT7298373279 [GLT7298373279].md",
+          "key": "433-luther-the-man-who-changed-the-world-part-1-glt7298373279",
+          "show": "The Rest Is History",
+          "title": "433. Luther: The Man Who Changed the World (Part 1)",
+          "url": "/wiki/sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279/"
         }
       ],
       "updated": "2026-09-26",
@@ -73255,6 +73262,22 @@
       ],
       "updated": "2026-09-23",
       "url": "/wiki/entities/jamilzaki/"
+    },
+    "JanHus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7298373279 [GLT7298373279].md",
+          "key": "433-luther-the-man-who-changed-the-world-part-1-glt7298373279",
+          "show": "The Rest Is History",
+          "title": "433. Luther: The Man Who Changed the World (Part 1)",
+          "url": "/wiki/sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/entities/janhus/"
     },
     "JaneFonda": {
       "episode_count": 1,
@@ -79757,6 +79780,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/latejulysnacks/"
+    },
+    "LateMedievalSalvationSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT7298373279 [GLT7298373279].md",
+          "key": "433-luther-the-man-who-changed-the-world-part-1-glt7298373279",
+          "show": "The Rest Is History",
+          "title": "433. Luther: The Man Who Changed the World (Part 1)",
+          "url": "/wiki/sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279/"
+        }
+      ],
+      "updated": "2026-09-26",
+      "url": "/wiki/concepts/latemedievalsalvationsystem/"
     },
     "LateRomanRepublicCrisis": {
       "episode_count": 5,
@@ -92681,9 +92720,9 @@
       "url": "/wiki/entities/martinkutter/"
     },
     "MartinLuther": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -92712,6 +92751,13 @@
           "show": "The Rest Is History",
           "title": "434. Luther: The Revolution Begins (Part 2)",
           "url": "/wiki/sources/434-luther-the-revolution-begins-part-2-glt4080973410/"
+        },
+        {
+          "episode_file": "GLT7298373279 [GLT7298373279].md",
+          "key": "433-luther-the-man-who-changed-the-world-part-1-glt7298373279",
+          "show": "The Rest Is History",
+          "title": "433. Luther: The Man Who Changed the World (Part 1)",
+          "url": "/wiki/sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279/"
         }
       ],
       "updated": "2026-09-26",
@@ -116300,9 +116346,9 @@
       "url": "/wiki/concepts/reflexiveselfawareness/"
     },
     "ReformationLegacyAmbivalence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3328267667 [GLT3328267667].md",
@@ -116317,6 +116363,13 @@
           "show": "The Rest Is History",
           "title": "436. Luther: Showdown with the Emperor (Part 4)",
           "url": "/wiki/sources/436-luther-showdown-with-the-emperor-part-4-glt5159022101/"
+        },
+        {
+          "episode_file": "GLT7298373279 [GLT7298373279].md",
+          "key": "433-luther-the-man-who-changed-the-world-part-1-glt7298373279",
+          "show": "The Rest Is History",
+          "title": "433. Luther: The Man Who Changed the World (Part 1)",
+          "url": "/wiki/sources/433-luther-the-man-who-changed-the-world-part-1-glt7298373279/"
         }
       ],
       "updated": "2026-09-26",

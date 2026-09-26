@@ -22846,3 +22846,11 @@ Added source `ep285-tafang-gushudao-ganwen-lu-zai-hefang-li20senvn3oelioproznnyk
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | 433. Luther: The Man Who Changed the World (Part 1)
+
+Added source `433-luther-the-man-who-changed-the-world-part-1-glt7298373279`; created `JanHus` and `LateMedievalSalvationSystem`; and updated `MartinLuther`, `IndulgenceEconomy`, `ReformationLegacyAmbivalence`, and the canonical index from their complete bounded source sets. Core synthesis: Luther's unusual agency emerged from provincial Saxon piety, family mobility, apocalyptic expectation, humanist learning, and a sophisticated late-medieval salvation system rather than a uniformly rotten church; Jan Hus shows the danger of crossing accepted reform into condemned heresy. No settled contradiction found. The door-nailing story remains partly mythical, while family memories, population shares, prosperity estimates, prophetic reports, doctrinal generalizations, and broad Protestant-modernity genealogies remain episode-attributed or source-scoped. The automatic `wiki/overview.md` was not rewritten; downstream synthesis refresh reads it as canonical input.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
