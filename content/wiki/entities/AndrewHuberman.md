@@ -51,6 +51,7 @@ sources:
   - tools-to-enhance-working-memory-attention-scim1948560111
   - how-to-prevent-treat-colds-flu-scim6817932732
   - how-to-build-immense-inner-strength-david-goggins-scim6232468504
+  - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -119,6 +120,8 @@ In the colds-and-flu episode, he organizes viral exposure, physical barriers, in
 
 With [[DavidGoggins]], he returns to agency and discipline by asking how aversive action, internal dialogue, trauma, repetition, solitude, relationships, and earned confidence fit together. He proposes anterior mid-cingulate and dopamine mechanisms for willpower while the bounded synthesis keeps those claims source-scoped and distinguishes Goggins's lived method from a universal clinical or training prescription.
 
+In AMA #14, he uses the premium-channel Q&A format to connect research philanthropy with practical self-regulation. The episode extends [[SlightlyHarderChoice]], [[MorningLightCircadianAnchoring]], [[WearableHealthDataAnxiety]], and [[StrengthHypertrophyProgramming]], while adding [[FunctionalFitnessReadiness]] and [[UnilateralStrengthRebalancing]]. His recurring stance is portfolio-based rather than metric-maximalist: safe effort, day-night light contrast, mixed physical capacity, trend-based tracking, relaxation practice, and proportionate medical follow-up matter more than one score or tool.
+
 ## Key Characteristics
 - Frames everyday concerns through guest expertise, practical mechanisms, and first-person examples.
 - Uses guest answers to distinguish useful tools from treatment, protocol, or replacement overclaims.
@@ -129,6 +132,7 @@ With [[DavidGoggins]], he returns to agency and discipline by asking how aversiv
 - Organizes mechanisms, sleep-wake timing, dopamine baseline and effort tools, lived practices, movement practice, flexibility protocols, leadership frames, listener questions, first-person meditation claims, learning-performance questions, nutrition hierarchies, relationship-science claims, stress appraisal and recovery, preventive-longevity tradeoffs, risk and agency tools, sugar-craving mechanisms, nine-adaptation fitness self-assessment, and serious psychiatric education into practical toolkits while warning against over-stacking, universalizing, or protocolizing interventions.
 
 ## Evidence
+- Premium Q&A and readiness framing: [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] has Huberman connect donor-funded research, safe adaptive difficulty, light timing, mixed fitness, interrupted-sleep tools, score interpretation, strength goals, MRI tradeoffs, and limb balance.
 - Willpower and lived discipline: [[how-to-build-immense-inner-strength-david-goggins-scim6232468504]] has Huberman elicit Goggins's medical study, repeated return to disliked tasks, internal dialogue, relationship boundaries, and internal-medicine-cabinet metaphor while supplying the episode's anterior mid-cingulate frame.
 - Nutrition framing: [[essentials-diet-nutrition-for-mental-health-dr-chris-palmer-scim2465421786]] opens with Huberman introducing nutrition, ketogenic diets, other diets, and patient stories as the episode's scope.
 - Motivation framing: [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] has Huberman frame drive, procrastination, apathy, pleasure, and effort as the discussion's target.
@@ -207,12 +211,17 @@ The colds-and-flu episode's transmission timing, contagiousness, vaccine-effect,
 
 The Goggins episode is an autobiographical conversation rather than a clinical protocol. Its anterior mid-cingulate, dopamine, pain, obesity, dieting, athlete, longevity, plasticity, and will-to-live claims remain source-scoped, and Goggins's extreme practice should not be read as individualized guidance about trauma, ADHD, injury, sleep, relationships, study, or exercise. This addition brings the bounded profile to forty-eight episode notes.
 
+AMA #14's anterior mid-cingulate, super-aging, evening-light effect size, red-light, cold-shower, sleep-score, melatonin, training-range, whole-body MRI, relaxation, and asymmetry claims remain source-scoped public education. The episode does not establish individualized medical screening, sleep treatment, psychiatric care, circadian therapy, or exercise and rehabilitation programming. This addition brings the bounded profile to forty-nine episode notes.
+
 ## What Changed
-- Added Goggins's lived discipline branch across aversive action, medical study, repetition, solitude, and internal dialogue.
-- Distinguished earned confidence from external motivation while preserving recovery, relationship, and support boundaries.
-- Kept anterior mid-cingulate and related neuroscience claims source-scoped rather than turning them into universal prescriptions.
+- Added the premium AMA's portfolio frame across effort, light, fitness, sleep, metrics, screening, and asymmetry.
+- Added function-first readiness and conservative unilateral rebalancing as distinct practical branches.
+- Kept exact effect sizes, neuroscience mechanisms, scan value, and protocol ranges explicitly source-scoped.
 
 ## Relationships
+- [[FunctionalFitnessReadiness]] - function-first portfolio for training goals and health monitoring.
+- [[UnilateralStrengthRebalancing]] - conservative weaker-side-first approach to limb imbalance.
+- [[WearableHealthDataAnxiety]] - score-interpretation branch extended by the reported sleep-score suggestion effect.
 - [[DavidGoggins]] - guest whose autobiographical practice drives the newest discipline and willpower interview.
 - [[DisciplineOverMotivation]] - behavioral branch extended through repeated aversive action and cognitive study.
 - [[SlightlyHarderChoice]] - adjacent micro-discipline branch that keeps constructive difficulty proportionate.

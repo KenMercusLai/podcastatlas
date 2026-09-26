@@ -10,6 +10,7 @@ sources:
   - essentials-protocols-to-improve-vision-eyesight-scim1823781754
   - essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634
   - journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757
+  - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
 last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
@@ -36,6 +37,8 @@ The Journal Club source separates morning anchoring from total daytime dose. [[j
 
 The sources also keep safety and practicality visible. The goal is bright environmental exposure without painful or unsafe staring, and the advice can be adjusted around geography, weather, building orientation, and social events. The wedding example extends the same circadian logic into planning: most guests can stay up later more easily than they can become alert much earlier than usual.
 
+AMA #14 adds a dark-region fallback and an evening environment layer. When sunlight is unavailable before work, it proposes bright overhead artificial light or a 10,000-lux panel as a secondary option, while keeping outdoor sunlight first. Before bed, it combines late-day outdoor light with dimmer, lower-positioned indoor lighting and reduced short-wavelength screen output. Red bulbs used for evening illumination are kept distinct from red or near-infrared therapy panels.
+
 ## Key Claims
 - Outdoor ambient daylight in the first hour after waking is presented as beneficial even when the person cannot see the eastern horizon.
 - Outdoor light within 30-60 minutes after waking is presented as a strong anchor for early cortisol timing, melatonin suppression, alertness, and later sleep.
@@ -43,7 +46,7 @@ The sources also keep safety and practicality visible. The goal is bright enviro
 - Sunglasses and brimmed hats can reduce the signal, while direct painful staring is explicitly not the goal.
 - Morning light is linked through melanopsin retinal pathways to cortisol, catecholamine, melatonin, mood, focus, daytime energy, later sleep timing, and other source-scoped physiological effects.
 - Phone screens, windows, car windshields, and ordinary indoor lighting are treated as weaker morning substitutes than outdoor sunlight.
-- Circadian advice should be adapted to real schedules, chronotypes, safety, social needs, and modern indoor-light limits; morning anchoring sits within a wider bright-day/dark-night pattern, and late-afternoon or evening sunlight can serve as a second optional anchor.
+- Circadian advice should adapt to real schedules, chronotypes, safety, geography, and modern indoor-light limits: bright artificial light can be a pre-sunrise fallback, late-day sunlight a second anchor, and evening benefit depends on timing and lower overall brightness rather than treating red color alone as therapy.
 
 ## Evidence
 - Accessibility - [[your-top-health-questions-answered-scim2882548864]] says west-facing or otherwise indirect morning daylight can still help if it is ambient outdoor light soon after waking.
@@ -60,16 +63,16 @@ The sources also keep safety and practicality visible. The goal is bright enviro
 - Retinal mechanism - [[essentials-protocols-to-improve-vision-eyesight-scim1823781754]] connects melanopsin retinal ganglion cells and low-solar-angle daylight with circadian timing, wakefulness, and other source-scoped physiological effects.
 - Cortisol timing - [[essentials-boost-your-energy-immune-system-with-cortisol-adrenaline-scim1515778634]] presents outdoor light soon after waking as a way to place the strongest cortisol signal early in the day and support daytime energy and later sleep.
 - Phase and daytime-dose distinction - [[journal-club-with-dr-peter-attia-effects-of-light-dark-on-mental-health-treatments-for-cancer-scim9183043757]] distinguishes morning phase advance, evening phase delay, and midday brightness that may support alertness or mood without the same clock shift.
+- Dark-region and evening routine - [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] prioritizes sunlight, offers bright overhead or 10,000-lux artificial light before sunrise, and pairs late-day daylight with dim, low evening lighting.
 
 ## Counterevidence & Qualifications
-The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize. The Journal Club psychiatric study is observational and measured light at the wrist rather than at the eye. The sources also do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
+The sources do not establish one universal lux threshold, exposure duration, latitude adjustment, artificial-light device standard, optic-flow effect, cortisol target, or clinical treatment protocol. Their clear-day and overcast minute ranges differ, so weather-based timings should be read as rough source examples rather than precise prescriptions. The vision episode's two-to-ten-minute example and its dopamine, glucose, pain, metabolism, and appetite claims lack enough methodological detail here to generalize. The Journal Club psychiatric study is observational and measured light at the wrist rather than at the eye. AMA #14's roughly 50% melatonin-protection claim and red-light vision or mitochondrial claims also lack enough methods here for universal use. The sources do not claim light exposure alone can solve insomnia, mood disorders, shift-work safety problems, jet lag, pediatric sleep disruption, school-schedule mismatch, hospital-lighting problems, or circadian disorders without other context.
 
 ## What Changed
-- Added early cortisol placement as an explicit reason for morning outdoor light.
-- Recorded differing weather-adjusted duration examples as a reason not to universalize a minute count.
-- Preserved the melanopsin, safe-daytime-light, and wider physiological-effect boundaries.
-- Distinguished morning phase anchoring from broader daytime-light dose and nighttime-darkness exposure.
-- Added the observational psychiatric association without converting it into causal treatment evidence.
+- Integrated the dark-region artificial-light fallback without displacing outdoor daylight as the preferred anchor.
+- Added late-day daylight and dim, low-positioned evening lighting to the full-day contrast model.
+- Kept red evening bulbs distinct from red or near-infrared therapy panels.
+- Preserved differing duration, observational psychiatric, and source-scoped physiological-effect boundaries.
 
 ## Related Concepts
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account supported by light timing.

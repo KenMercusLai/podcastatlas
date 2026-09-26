@@ -6,7 +6,8 @@ sources:
   - essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126
   - tools-for-nutrition-fitness-dr-layne-norton-scim5519161031
   - essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592
-last_updated: 2026-09-24
+  - ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -24,6 +25,8 @@ The Norton interview sharpens why the goal matters. For hypertrophy, sets genera
 
 Galpin adds an execution and scheduling layer. An exercise name does not determine its result: the intended adaptation emerges from load, volume, effort, cadence, rest, order, and forceful intent. Strength and power favor fresh, high-quality compound patterns and longer rest; hypertrophy tolerates a much wider range of loads, tempos, equipment, orders, and weekly splits when challenging volume is sufficient. [[ExerciseVariationProgressionBalance]] keeps exercises stable long enough to measure progression, while [[TrainingChaosManagement]] protects load quality for strength and planned volume for hypertrophy when real life disrupts the plan.
 
+AMA #14 supplies a compact strength-without-size heuristic: after warmup, one-to-three repetitions are described as more strength-focused, three-to-five as still strength-leaning, and six-to-thirty repetitions near failure as more hypertrophy-prone. This fits the page's goal-specific fatigue logic but is not a hard biological border; the broader source set shows that load, proximity to failure, volume, intent, experience, and recovery jointly determine adaptation.
+
 ## Key Claims
 - Strength and muscle size overlap but are not identical because neural recruitment can increase force without proportional hypertrophy.
 - Motor-unit recruitment and forceful intent allow moderate or lighter loads to stimulate adaptation; maximal loading is not the only route.
@@ -31,7 +34,7 @@ Galpin adds an execution and scheduling layer. An exercise name does not determi
 - Most work need not reach muscular failure, and explosive sets should end before repetition speed deteriorates.
 - Older-adult programming should favor tolerable, repeatable movements and progressive overload over compulsory novelty.
 - Exercise selection alone does not specify adaptation; execution variables and intent must match the goal.
-- Weekly split and cadence are flexible for hypertrophy, while strength and power are more sensitive to freshness, force, and movement quality.
+- Weekly split and cadence are flexible for hypertrophy, while strength and power are more sensitive to freshness, force, movement quality, and low-repetition practice; repetition bands still do not determine adaptation by themselves.
 
 ## Evidence
 - Neural basis: [[essentials-build-muscle-size-increase-strength-improve-recovery-scim4036424126]] explains deliberate and rhythmic movement through upper motor neurons, lower motor neurons, acetylcholine, central pattern generators, and ordered motor-unit recruitment.
@@ -44,14 +47,16 @@ Galpin adds an execution and scheduling layer. An exercise name does not determi
 - Strength and power structure: [[essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592]] offers the three-to-five framework, places compound force and power work early, and recommends periodic backoff after several progressive weeks.
 - Hypertrophy flexibility: [[essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592]] permits broad equipment, cadence, exercise-order, and split choices while emphasizing sufficient challenging weekly volume and roughly two repetitions in reserve.
 - Disruption rule: [[essentials-optimal-protocols-to-build-strength-grow-muscles-dr-andy-galpin-scim8443296592]] cuts sets but keeps heavy quality for strength, while reducing load or rest to preserve hypertrophy volume when time is limited.
+- Strength-without-size heuristic: [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344]] places one-to-three repetitions most strongly toward strength and six-to-thirty near failure toward hypertrophy while retaining warmup and cardiovascular context.
 
 ## Counterevidence & Qualifications
-The sources are public education, not a complete review or individualized program. The earlier roughly five-to-fifteen-set range and Galpin's roughly ten-set minimum with higher advanced ranges are different source-scoped heuristics, not one settled dose. Their load, failure, progression, and deload guidance does not fully specify training age, sex, disability, injury, technique, sport demands, nutrition, or clinical context. "Close to failure" is not a precise universal prescription, and pain, cardiovascular risk, osteoporosis, balance limitations, medication, and prior injury can change safe movement choice and progression.
+The sources are public education, not a complete review or individualized program. The earlier roughly five-to-fifteen-set range and Galpin's roughly ten-set minimum with higher advanced ranges are different source-scoped heuristics, not one settled dose. AMA #14's repetition bands are likewise a useful bias rather than a clean boundary between neural strength and muscle growth. Their load, failure, progression, and deload guidance does not fully specify training age, sex, disability, injury, technique, sport demands, nutrition, or clinical context. "Close to failure" is not a precise universal prescription, and pain, cardiovascular risk, osteoporosis, balance limitations, medication, and prior injury can change safe movement choice and progression.
 
 ## What Changed
 - Added goal-specific execution, exercise order, cadence, weekly split, and disruption rules.
 - Added the specificity-versus-variation boundary for measurable progression.
 - Preserved the differing weekly-volume ranges as qualified heuristics rather than forcing a single prescription.
+- Added the low-repetition strength-without-size option while rejecting rigid repetition-band determinism.
 
 ## Related Concepts
 - [[NinePhysiologicalAdaptations]] - assessment taxonomy separating strength, power, hypertrophy, and muscular endurance.
@@ -63,3 +68,4 @@ The sources are public education, not a complete review or individualized progra
 - [[MechanismOutcomeEvidenceHierarchy]] - method for evaluating training mechanisms against measured strength and hypertrophy outcomes.
 - [[ExerciseVariationProgressionBalance]] - keeps technique learning and progressive overload measurable without forbidding useful variation.
 - [[TrainingChaosManagement]] - protects the goal-defining variable when time, equipment, or attendance changes.
+- [[UnilateralStrengthRebalancing]] - one-sided programming branch for meaningful limb differences.

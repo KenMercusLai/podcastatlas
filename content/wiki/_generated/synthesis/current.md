@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-27
-as_of_overview_commit: 745d8465988ab4442113dff1ca0e4a6daab67562
+as_of_overview_commit: 7325c9e8adaa4a01c01904834ff6faf4f26b87d8
 summary: "Podcast Atlas maps technology, markets, institutions, history, culture, health, psychology, work, and education as interacting, evidence-bounded systems."
-episode_count: 2913
-source_count: 2913
-paragraph_count: 752
+episode_count: 2914
+source_count: 2914
+paragraph_count: 753
 topic_count: 9
 ---
 
@@ -72,7 +72,7 @@ Personal development joins embodied regulation, relational safety, calibrated ac
 
 ### Science, Health, and Climate
 
-Health and science literacy require mechanisms, objective measurement, context, uncertainty, layered prevention, urgent escalation, and qualified care rather than stand-alone labels or cure claims.
+Health and science literacy require adaptable function, contextual measurement, layered prevention, urgent escalation, and qualified care; mechanisms, scores, scans, and protocols remain bounded by evidence and individual context.
 
 - [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786|The Tye Huberman Lab episode]] adds a state- and history-sensitive social-neuroscience branch: [[AmygdalaValenceAssignment]] separates motivational significance from a single fear center, [[SocialHomeostasis]] distinguishes acute affiliative rebound from chronic isolation adaptation, [[SocialContactSynchrony]] makes reciprocity and real-time mutual attention candidate dimensions of nourishment, and [[SocialRankFlexibility]] with [[ExperientialStatistics]] connects rank, scarcity, trust, and prior experience to what organisms expect and monitor. Evidence: [[the-biology-of-social-interactions-and-emotions-dr-kay-tye-scim4105255786]], [[HubermanLab]], [[KayTye]], [[AmygdalaValenceAssignment]], [[SocialHomeostasis]], [[SocialContactSynchrony]], [[SocialRankFlexibility]], [[ExperientialStatistics]], [[PatientSM]], [[AmygdalaFearDissociation]].
 - [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704|The Walker sleep-and-learning episode]] adds a staged learning cycle: [[MemoryConsolidationWindows]] begins with sleep-supported encoding readiness, [[SleepStageFunctionalArchitecture]] and [[SleepSpindleSchemaFormation]] distinguish deep non-REM fact-memory transfer from stage-two motor gains and REM-rich association, [[PostPracticeMotorConsolidation]] connects practice to quiet rest and sleep, and [[SleepAnxietyLoop]] keeps tracker feedback from becoming orthosomnia. Evidence: [[guest-series-dr-matt-walker-using-sleep-to-improve-learning-creativity-memory-scim9549338704]], [[AndrewHuberman]], [[MatthewWalker]], [[MemoryConsolidationWindows]], [[SleepStageFunctionalArchitecture]], [[SleepSpindleSchemaFormation]], [[PostPracticeMotorConsolidation]], [[SleepAnxietyLoop]], [[SubconsciousCreativeIncubation]].

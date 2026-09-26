@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 8326
+wiki_total_pages: 8328
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "FunctionalExtinction"
     title: "Functional Extinction"
     url: "/wiki/concepts/functionalextinction/"
+  - key: "FunctionalFitnessReadiness"
+    title: "Functional Fitness Readiness"
+    url: "/wiki/concepts/functionalfitnessreadiness/"
   - key: "FunctionalFoodMarketingClaimSkepticism"
     title: "Functional Food Marketing Claim Skepticism / 功能食品营销宣称警惕"
     url: "/wiki/concepts/functionalfoodmarketingclaimskepticism/"

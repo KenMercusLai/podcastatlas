@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 8326
+wiki_total_pages: 8328
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "UnilateralAIPauseCommitments"
     title: "Unilateral AI Pause Commitments"
     url: "/wiki/concepts/unilateralaipausecommitments/"
+  - key: "UnilateralStrengthRebalancing"
+    title: "Unilateral Strength Rebalancing"
+    url: "/wiki/concepts/unilateralstrengthrebalancing/"
   - key: "UnionistSiegeMentality"
     title: "Unionist Siege Mentality"
     url: "/wiki/concepts/unionistsiegementality/"

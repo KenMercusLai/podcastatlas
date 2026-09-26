@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More](sources/ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344.md) — Huberman Lab premium Q&A on research funding, safe difficulty, circadian light, function-first fitness, sleep-score interpretation, strength goals, MRI tradeoffs, and limb asymmetry.
 - [404. The Nazis in Power: The Night of the Long Knives (Part 1)](sources/404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861584466.md) — The Rest Is History episode on the false SA coup claim, the Röhm purge, SS-police violence, army accommodation, retrospective legality, and Hitler's consolidation of personal rule.
 - [How to Build Immense Inner Strength | David Goggins](sources/how-to-build-immense-inner-strength-david-goggins-scim6232468504.md) — Huberman Lab interview on willpower as maintained practice, difficult self-examination, repeated study, inner dialogue, earned confidence, and the limits of extreme autobiographical discipline.
 - [VOL.93消化内科｜有屁不放损害五脏？这几个坏习惯你占几个？便秘和腹泻时这样做！](sources/vol-93-xiaohuaneike-you-pi-bu-fang-sunhai-wuzang-zhe-jige-huai-xiguan-ni-zhan-jige-bianmi-he-fuxie-shi-zheyang-zuo-lgrsyf6ozplphgjjpcrh7dspc_do.md) — 这病说来话长 episode with 蒋永亮 on digestive symptoms, H. pylori, diet myths, bowel warning signs, colorectal screening, gastrectomy recovery, and pancreatic imaging findings.
@@ -13888,6 +13889,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Functional Fitness Readiness](concepts/FunctionalFitnessReadiness.md) — Function-first fitness portfolio spanning endurance, intensity, strength, carrying, sprinting, agility, and multi-signal monitoring.
+- [Unilateral Strength Rebalancing](concepts/UnilateralStrengthRebalancing.md) — Conservative weaker-side-first training framework for meaningful left-right strength differences.
 - [Führer-State Consolidation](concepts/FuhrerStateConsolidation.md) — Sequence joining factional purge, institutional bargain, retroactive legality, office merger, plebiscite, and personal military oath.
 - [Helicobacter pylori Household Management / 幽门螺杆菌家庭管理](concepts/HelicobacterPyloriHouseholdManagement.md) — Household-aware framework for infection risk, testing, treatment discussion, hygiene, and reinfection without automatic family-wide diagnosis.
 - [Pancreatic Imaging Finding Triage / 胰腺影像异常分诊](concepts/PancreaticImagingFindingTriage.md) — Contextual interpretation of diffuse, focal, inflammatory, and cystic pancreatic imaging findings without treating enlargement as a diagnosis.

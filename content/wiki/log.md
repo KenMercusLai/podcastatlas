@@ -23316,3 +23316,8 @@ Added source `404-the-nazis-in-power-the-night-of-the-long-knives-part-1-glt3861
 ## [2026-09-27] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-27] ingest | AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

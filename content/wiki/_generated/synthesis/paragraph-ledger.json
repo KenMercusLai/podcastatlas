@@ -752,12 +752,13 @@
       "86510c4854df490886b2db4efc6d983f529322212e9367eaa1c89733b3ac720c",
       "2ae29881a5f9c6ce369656541cc8b6de4cac697325be9f32bd0e6b1132891b55",
       "8b5ede398926abd502ebdfba3f57f00a484fcaea87d1bd59feee284620ca59ce",
-      "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9"
+      "1f02005c80ec3e7ac3f24acac820a9118d51d7e2de5614db5e13752add4f80b9",
+      "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31"
     ],
-    "paragraph_count": 752
+    "paragraph_count": 753
   },
-  "overview_commit": "745d8465988ab4442113dff1ca0e4a6daab67562",
-  "overview_digest": "f624b71f5c5334c28bcf5d19274553354c468c6a2075ff3196dab34ae59672d7",
+  "overview_commit": "7325c9e8adaa4a01c01904834ff6faf4f26b87d8",
+  "overview_digest": "98f07f49748a0bd7c82e05a082ff046b39cfe1a2b8db89e4b8eed41b527dd120",
   "paragraphs": [
     {
       "id": "4b2405414d02c41126368f3ebb97baf73835c2d95957adf63420261474ca1016",
@@ -22199,6 +22200,26 @@
         "NaziGermany",
         "RationalizedStateViolence",
         "TheRestIsHistory"
+      ]
+    },
+    {
+      "id": "60d22980877c9a07564718a1614f1e06e5947001e678ff946ba7dbbc77be1f31",
+      "primary_topic": "science-health-and-climate",
+      "secondary_topics": [],
+      "text": "The latest addition is [[ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344|AMA #14: 2023 Philanthropy, Evening Routine, Light Therapy, Health Metrics & More]], a [[HubermanLab]] premium Q&A with [[AndrewHuberman]] on member-funded research, safe adaptive difficulty, circadian light, function-first fitness, interrupted sleep, biometric interpretation, strength goals, whole-body MRI, and limb asymmetry. It adds [[FunctionalFitnessReadiness]] and [[UnilateralStrengthRebalancing]], while extending [[SlightlyHarderChoice]], [[MorningLightCircadianAnchoring]], [[WearableHealthDataAnxiety]], and [[StrengthHypertrophyProgramming]]. Its core synthesis is that health tools should support adaptable function rather than become rigid scorecards: bright-day/dim-night contrast, mixed physical capacity, trends over single readings, and proportionate follow-up matter more than one device, scan, or protocol. No settled contradiction is recorded; anterior mid-cingulate, super-aging, light-effect, red-light, sleep-score, melatonin, repetition-range, and MRI claims remain source-scoped.",
+      "topic_scores": {
+        "science-health-and-climate": 1
+      },
+      "wikilinks": [
+        "AndrewHuberman",
+        "FunctionalFitnessReadiness",
+        "HubermanLab",
+        "MorningLightCircadianAnchoring",
+        "SlightlyHarderChoice",
+        "StrengthHypertrophyProgramming",
+        "UnilateralStrengthRebalancing",
+        "WearableHealthDataAnxiety",
+        "ama-14-2023-philanthropy-evening-routine-light-therapy-health-metrics-more-scim2172700344"
       ]
     }
   ],
