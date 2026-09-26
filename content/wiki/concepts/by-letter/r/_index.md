@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 8297
+wiki_total_pages: 8299
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1034,6 +1034,9 @@ wiki_pages:
   - key: "RomanImperialLegitimacy"
     title: "Roman Imperial Legitimacy"
     url: "/wiki/concepts/romanimperiallegitimacy/"
+  - key: "RomanPoliticalMemoryInScienceFiction"
+    title: "Roman Political Memory in Science Fiction"
+    url: "/wiki/concepts/romanpoliticalmemoryinsciencefiction/"
   - key: "RomanProvincialConsolidation"
     title: "Roman Provincial Consolidation"
     url: "/wiki/concepts/romanprovincialconsolidation/"

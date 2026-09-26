@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10898
+wiki_total_pages: 10903
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1223,6 +1223,9 @@ wiki_pages:
   - key: "StarCloud"
     title: "Star Cloud"
     url: "/wiki/entities/starcloud/"
+  - key: "StarTrek"
+    title: "Star Trek"
+    url: "/wiki/entities/startrek/"
   - key: "StarWars"
     title: "Star Wars"
     url: "/wiki/entities/starwars/"

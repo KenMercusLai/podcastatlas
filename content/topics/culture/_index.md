@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2836
+topic_total_pages: 2839
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3698,6 +3698,9 @@ topic_entities:
   - key: "Drownproof"
     title: "Drownproof"
     url: "/wiki/entities/drownproof/"
+  - key: "Dune"
+    title: "Dune / 沙丘"
+    url: "/wiki/entities/dune/"
   - key: "DVD"
     title: "DVD"
     url: "/wiki/entities/dvd/"
@@ -5240,6 +5243,9 @@ topic_entities:
   - key: "TheHoundOfTheBaskervilles"
     title: "The Hound of the Baskervilles / 《巴斯克维尔的猎犬》"
     url: "/wiki/entities/thehoundofthebaskervilles/"
+  - key: "TheHungerGames"
+    title: "The Hunger Games"
+    url: "/wiki/entities/thehungergames/"
   - key: "TheIliad"
     title: "The Iliad"
     url: "/wiki/entities/theiliad/"
@@ -7830,6 +7836,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172"
+    title: "412. Romans in Space: Star Wars, Dune and Beyond..."
+    url: "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
   - key: "416-the-canterbury-tales-part-4-glt1956280616"
     title: "416. The Canterbury Tales (Part 4)"
     url: "/wiki/sources/416-the-canterbury-tales-part-4-glt1956280616/"

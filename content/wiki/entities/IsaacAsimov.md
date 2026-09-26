@@ -1,21 +1,51 @@
 ---
 title: "Isaac Asimov / 艾萨克·阿西莫夫"
 type: entity
-tags: [author, science-fiction, robots]
-sources: [vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw, sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]
-last_updated: 2026-08-06
+knowledge_schema: synthesis-v1
+tags: [author, science-fiction, robots, foundation]
+sources:
+  - vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw
+  - sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106
+  - 412-romans-in-space-star-wars-dune-and-beyond-glt3832078172
+last_updated: 2026-09-27
 ---
 
-# Isaac Asimov / 艾萨克·阿西莫夫
+## Overview
 
-Isaac Asimov / 艾萨克·阿西莫夫 appears in [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] as the comparison point for [[RogerZelazny|Zelazny]]'s robot stories. The episode says Asimov often builds robot drama from rule conflicts and breakdowns, whereas [[HomeIsTheHangman|《刽子手返乡》]] makes the robot's collapse feel closer to psychological trauma and self-formation.
+Isaac Asimov / 艾萨克·阿西莫夫 appears in the wiki through robot-law fiction, the Solaria image of comfortable stagnation, and [[FoundationAsimov|Foundation]]'s Roman-decline model of galactic history.
 
-This page is source-scoped and does not attempt a full Asimov biography. Its current wiki role is to mark a contrast between law-bound robot logic and [[RobotHumanBoundary|personhood-oriented robot narration]].
+## Current Profile
 
-[[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] adds an analogy to Asimov's Solaria: a society can be comfortable, highly served by machines, and still socially narrow or stagnant. The episode uses this only as an image for [[JapanComfortableStagnation]], not as a literal science-fiction mapping.
+Asimov's current profile spans three distinct uses. His robot stories provide a rule-conflict contrast to [[RogerZelazny|Roger Zelazny]]'s trauma- and personhood-oriented machines. Solaria supplies an analogy for a materially comfortable but socially narrow society. Foundation provides the major new branch: Edward Gibbon's Roman decline becomes a decaying Galactic Empire, while psychohistory embodies the ambition to predict large-scale political change and the Mule marks the failure of that ambition under anomalous charisma.
 
-## Connections
-- [[HomeIsTheHangman|《刽子手返乡》]] - story contrasted with Asimov-style robot conflict.
-- [[RogerZelazny|Roger Zelazny / 罗杰·泽拉兹尼]] - comparison author in the source.
-- [[RobotHumanBoundary]] and [[ScienceFictionRealism]] - adjacent concepts.
-- [[JapanComfortableStagnation]] and [[JapaneseGalapagosization]] - vol.125's Japan analogy.
+## Key Characteristics
+
+- Science-fiction author associated with rule-bound robot conflict and the three laws of robotics.
+- Creator of Solaria, used source-scopingly as an image of comfortable social stagnation.
+- Author of Foundation, which translates Roman imperial decline into a galactic historical model.
+- Explorer of prediction limits through psychohistory and the disruptive Mule.
+
+## Evidence
+
+- Robot-fiction contrast: [[sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106]] contrasts Asimov's rule failures with Zelazny's trauma and self-formation.
+- Solaria analogy: [[vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw]] uses Solaria to imagine comfort, machine service, and social narrowing.
+- Roman future history: [[412-romans-in-space-star-wars-dune-and-beyond-glt3832078172]] connects Foundation to Gibbon, imperial decline, psychohistory, preservation, and the Mule's disruption.
+
+## Qualifications
+
+The page remains source-scoped rather than biographical. Solaria is an analogy rather than a literal model of Japan. The Mule–Muhammad comparison belongs to the episode's interpretation, and Foundation's relation to Star Wars does not establish simple copying.
+
+## What Changed
+
+- Added Foundation as Asimov's major Roman-decline and historical-prediction branch.
+- Added the Mule as a limit case for deterministic grand models.
+- Expanded the profile beyond robot fiction and the Solaria analogy.
+
+## Relationships
+
+- [[FoundationAsimov]] - Asimov sequence adapting Roman decline to a Galactic Empire.
+- [[GalacticEmpire]] - imperial form shared across the episode's comparison field.
+- [[RomanPoliticalMemoryInScienceFiction]] - historical afterlife frame for Foundation.
+- [[HomeIsTheHangman]] - Zelazny story contrasted with Asimov-style rule conflict.
+- [[RobotHumanBoundary]] - personhood question sharpened by that contrast.
+- [[JapanComfortableStagnation]] - social analogy using Solaria.

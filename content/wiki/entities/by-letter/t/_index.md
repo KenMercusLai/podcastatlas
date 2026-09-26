@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10898
+wiki_total_pages: 10903
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -410,6 +410,9 @@ wiki_pages:
   - key: "TheHoundOfTheBaskervilles"
     title: "The Hound of the Baskervilles / 《巴斯克维尔的猎犬》"
     url: "/wiki/entities/thehoundofthebaskervilles/"
+  - key: "TheHungerGames"
+    title: "The Hunger Games"
+    url: "/wiki/entities/thehungergames/"
   - key: "TheIliad"
     title: "The Iliad"
     url: "/wiki/entities/theiliad/"

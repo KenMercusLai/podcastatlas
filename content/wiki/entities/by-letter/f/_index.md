@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 10898
+wiki_total_pages: 10903
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "Fotucheng"
     title: "Fotucheng / 佛图澄"
     url: "/wiki/entities/fotucheng/"
+  - key: "FoundationAsimov"
+    title: "Foundation / 基地"
+    url: "/wiki/entities/foundationasimov/"
   - key: "FoundationForIndividualRightsAndExpression"
     title: "Foundation for Individual Rights and Expression"
     url: "/wiki/entities/foundationforindividualrightsandexpression/"
@@ -527,6 +530,9 @@ wiki_pages:
   - key: "FrankDoel"
     title: "Frank Doel / 弗兰克·多尔"
     url: "/wiki/entities/frankdoel/"
+  - key: "FrankHerbert"
+    title: "Frank Herbert"
+    url: "/wiki/entities/frankherbert/"
   - key: "FrankSmith"
     title: "Frank Smith"
     url: "/wiki/entities/franksmith/"

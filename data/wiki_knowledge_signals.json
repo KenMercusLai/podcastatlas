@@ -40305,6 +40305,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/dulldirtydangerousrobotics/"
     },
+    "Dune": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/dune/"
+    },
     "DushuBuchenglin": {
       "episode_count": 3,
       "show_count": 2,
@@ -51800,6 +51816,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/forwarddeployedengineer/"
     },
+    "FoundationAsimov": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/foundationasimov/"
+    },
     "FoundationForIndividualRightsAndExpression": {
       "episode_count": 1,
       "show_count": 1,
@@ -52740,6 +52772,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/frankblake/"
+    },
+    "FrankHerbert": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/frankherbert/"
     },
     "FrankSmith": {
       "episode_count": 1,
@@ -55364,6 +55412,29 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gaiusmariusyounger/"
     },
+    "GalacticEmpire": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "42.安多：风起于青萍之末 [616391638].md",
+          "key": "42-anduo-fengqi-yu-qingping-zhi-mo-616391638",
+          "show": "蜜獾吃书",
+          "title": "42.安多：风起于青萍之末",
+          "url": "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+        },
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/galacticempire/"
+    },
     "GallLakota": {
       "episode_count": 1,
       "show_count": 1,
@@ -57311,6 +57382,36 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/georgeiii/"
+    },
+    "GeorgeLucas": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "Disney： The Renaissance and the Empire ｜ Acquired (1) [disney-the-renaissance-and-the-empire-1].md",
+          "key": "disney-the-renaissance-and-the-empire-1",
+          "show": "Acquired",
+          "title": "Disney: The Renaissance and the Empire",
+          "url": "/wiki/sources/disney-the-renaissance-and-the-empire-1/"
+        },
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/georgelucas/"
     },
     "GeorgeRRMartin": {
       "episode_count": 4,
@@ -65793,6 +65894,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/historicalcomplexityagainstlabels/"
     },
+    "HistoricalCompositeAllegory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/historicalcompositeallegory/"
+    },
     "HistoricalCritiqueTolerance": {
       "episode_count": 1,
       "show_count": 1,
@@ -73795,6 +73912,36 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/isariveralive/"
+    },
+    "IsaacAsimov": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "vol.125.日本到底还行不行？ ｜ 串台东亚观察局 [lsiLaX772Olwi9XvVVFZ6xCelfqw].md",
+          "key": "vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw",
+          "show": "起朱楼宴宾客",
+          "title": "vol.125.日本到底还行不行？ | 串台东亚观察局",
+          "url": "/wiki/sources/vol-125-riben-daodi-hai-xing-bu-xing-chuantai-dongya-guancha-ju-lsilax772olwi9xvvvfz6xcelfqw/"
+        },
+        {
+          "episode_file": "sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境 [757948106].md",
+          "key": "sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106",
+          "show": "蜜獾吃书",
+          "title": "sp.03 串台｜趁生命气息逗留：泽拉兹尼与他的梦境",
+          "url": "/wiki/sources/sp-03-chuantai-chen-shengming-qixi-douliu-zela-zini-yu-tade-mengjing-757948106/"
+        },
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/isaacasimov/"
     },
     "IsabelPeron": {
       "episode_count": 1,
@@ -122877,6 +123024,22 @@
       "updated": "2026-09-25",
       "url": "/wiki/concepts/romanimperiallegitimacy/"
     },
+    "RomanPoliticalMemoryInScienceFiction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/romanpoliticalmemoryinsciencefiction/"
+    },
     "RomanProvincialConsolidation": {
       "episode_count": 3,
       "show_count": 1,
@@ -133862,6 +134025,66 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/starspangledbanner/"
     },
+    "StarTrek": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/startrek/"
+    },
+    "StarWars": {
+      "episode_count": 5,
+      "show_count": 4,
+      "source_note_count": 5,
+      "sources": [
+        {
+          "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
+          "key": "aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628",
+          "show": "声动早咖啡",
+          "title": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？",
+          "url": "/wiki/sources/aodesai-ba-baomihua-zhuangjin-teluoyi-muma-haolaiwu-dapian-weihe-zhadui-dingzhi-baomihuatong-1004599628/"
+        },
+        {
+          "episode_file": "29.千面英雄：俄狄浦斯正在下班挤地铁 [590112891].md",
+          "key": "29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891",
+          "show": "蜜獾吃书",
+          "title": "29.千面英雄：俄狄浦斯正在下班挤地铁",
+          "url": "/wiki/sources/29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891/"
+        },
+        {
+          "episode_file": "42.安多：风起于青萍之末 [616391638].md",
+          "key": "42-anduo-fengqi-yu-qingping-zhi-mo-616391638",
+          "show": "蜜獾吃书",
+          "title": "42.安多：风起于青萍之末",
+          "url": "/wiki/sources/42-anduo-fengqi-yu-qingping-zhi-mo-616391638/"
+        },
+        {
+          "episode_file": "Caracas under pressure： democracy in Venezuela [6a7d8bbe7d85cbdf96e00822].md",
+          "key": "caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822",
+          "show": "Economist Podcasts",
+          "title": "Caracas under pressure: democracy in Venezuela",
+          "url": "/wiki/sources/caracas-under-pressure-democracy-in-venezuela-6a7d8bbe7d85cbdf96e00822/"
+        },
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/starwars/"
+    },
     "StargardtDisease": {
       "episode_count": 1,
       "show_count": 1,
@@ -140324,6 +140547,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/theendofreadingishere/"
+    },
+    "TheHungerGames": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3832078172 [GLT3832078172].md",
+          "key": "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172",
+          "show": "The Rest Is History",
+          "title": "412. Romans in Space: Star Wars, Dune and Beyond...",
+          "url": "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/entities/thehungergames/"
     },
     "TheIndicator": {
       "episode_count": 2,

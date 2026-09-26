@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [412. Romans in Space: Star Wars, Dune and Beyond...](sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172.md) — The Rest Is History on Roman political memory across Star Wars, Foundation, Dune, Star Trek, and The Hunger Games, with a guardrail against one-to-one allegory.
 - [VOL.98乳腺外科｜谁的乳腺不是乳腺呢 乳腺疾病是被气出来的吗？｜乳腺自查指南](sources/vol-98-ruxianwaike-sheide-ruxian-bushi-ruxian-ne-ruxian-jibing-shi-bei-qi-chulai-de-ma-ruxian-zicha-zhinan-lginwlcqmjiaxozgtogn7sqlgqlt.md) — 这病说来话长 episode on breast findings, change awareness, cancer-risk context, and myths about emotion, size, soy, massage, and male breast disease.
 - [413. The Peasants' Revolt: England Erupts (Part 1)](sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595.md) — The Rest Is History on failed war, poll-tax enforcement, post-plague labor conflict, coordinated regional rebellion, Wat Tyler, and John Ball.
 - [AMA #15: Fluoride Benefits/Risks & Vagus Nerve Stimulation](sources/ama-15-fluoride-benefits-risks-vagus-nerve-stimulation-scim9500186850.md) — Huberman Lab subscriber AMA on fluoride's anticaries mechanism, dose and exposure, water-policy tradeoffs, filtration choices, and wider oral-health boundaries.
@@ -2919,6 +2920,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tools to Enhance Working Memory & Attention](sources/tools-to-enhance-working-memory-attention-scim1948560111.md) — Huberman Lab solo episode on active working memory, sequencing, distractor control, task switching, baseline-dependent dopamine effects, and evidence-bounded behavioral, supplement, and prescription tools.
 
 ## Entities
+- [Foundation / 基地](entities/FoundationAsimov.md) — Asimov sequence translating Roman imperial decline into a Galactic Empire, psychohistory, preservation, and prediction failure.
+- [Frank Herbert](entities/FrankHerbert.md) — Dune author represented through composite imperial, Islamic-history, oil-age, and Arthurian worldbuilding.
+- [Dune / 沙丘](entities/Dune.md) — Science-fiction world joining spice monopoly, aristocratic empire, prophetic charisma, and layered historical reference.
+- [Star Trek](entities/StarTrek.md) — Science-fiction franchise connected to Rome through Romulans and the televised gladiatorial allegory of “Bread and Circuses.”
+- [The Hunger Games](entities/TheHungerGames.md) — Future dystopia using Panem, the Capitol, tributes, classical names, and arena spectacle as overt Roman coding.
 - [阿兹古利·阿布杜洛何曼 / Aziguli Abuduluoheman](entities/AziguliAbuduluoheman.md) — Source-scoped breast-surgery guest explaining breast findings, risk context, and clinical escalation.
 - [Peasants’ Revolt of 1381](entities/PeasantsRevolt1381.md) — Coordinated English rising joining post-plague labor conflict, poll-tax resistance, royalism, social radicalism, documentary destruction, and coalition violence.
 - [Wat Tyler](entities/WatTyler.md) — Kentish captain who led the march toward London before his expanded Smithfield demands and death precipitated the decisive crisis.
@@ -13832,6 +13838,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Kay Tye](entities/KayTye.md) — Neuroscientist connecting emotional-valence circuits to loneliness, social homeostasis, hierarchy, and sustainable scientific leadership.
 
 ## Concepts
+- [Roman Political Memory in Science Fiction](concepts/RomanPoliticalMemoryInScienceFiction.md) — Reuse of republican collapse, empire, frontier decline, and spectacle to make imagined futures politically legible.
+- [Historical Composite Allegory](concepts/HistoricalCompositeAllegory.md) — Reading model where fiction combines several histories and genres without mapping cleanly onto one original.
 - [乳腺异常识别与分诊 / Breast Finding Recognition and Triage](concepts/BreastFindingRecognitionAndTriage.md) — Finding-to-diagnosis framework for persistent lumps, skin or nipple changes, imaging, and clinical escalation.
 - [乳房自我觉察边界 / Breast Self-Awareness Boundary](concepts/BreastSelfAwarenessBoundary.md) — Change awareness separated from diagnostic self-examination and professional screening.
 - [乳腺癌风险情境化 / Breast Cancer Risk Context](concepts/BreastCancerRiskContext.md) — Multifactorial risk frame replacing breast-size, anger, soy, and sex-based shortcuts.

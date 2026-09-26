@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 2047
+topic_total_pages: 2049
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -496,6 +496,9 @@ topic_concepts:
   - key: "HistoricalBodyConcept"
     title: "Historical Body Concept"
     url: "/wiki/concepts/historicalbodyconcept/"
+  - key: "HistoricalCompositeAllegory"
+    title: "Historical Composite Allegory"
+    url: "/wiki/concepts/historicalcompositeallegory/"
   - key: "HistoricalDetectiveReasoning"
     title: "Historical Detective Reasoning"
     url: "/wiki/concepts/historicaldetectivereasoning/"
@@ -4632,6 +4635,9 @@ topic_sources:
   - key: "41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038"
     title: "41.施剑翘复仇案：超越哈贝马斯的情与法"
     url: "/wiki/sources/41-shijianqiao-fuchouan-chaoyue-habeimasi-de-qing-yu-fa-614550038/"
+  - key: "412-romans-in-space-star-wars-dune-and-beyond-glt3832078172"
+    title: "412. Romans in Space: Star Wars, Dune and Beyond..."
+    url: "/wiki/sources/412-romans-in-space-star-wars-dune-and-beyond-glt3832078172/"
   - key: "413-the-peasants-revolt-england-erupts-part-1-glt8198769595"
     title: "413. The Peasants' Revolt: England Erupts (Part 1)"
     url: "/wiki/sources/413-the-peasants-revolt-england-erupts-part-1-glt8198769595/"

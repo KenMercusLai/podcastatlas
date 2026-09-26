@@ -1,22 +1,53 @@
 ---
 title: "George Lucas"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [film, science-fiction, creator]
-sources: [disney-the-renaissance-and-the-empire-1, 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]
-last_updated: 2026-08-11
+sources:
+  - disney-the-renaissance-and-the-empire-1
+  - 29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891
+  - 412-romans-in-space-star-wars-dune-and-beyond-glt3832078172
+last_updated: 2026-09-27
 ---
 
-# George Lucas
+## Overview
 
-George Lucas appears in [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] as the modern creator who makes [[JosephCampbell|Joseph Campbell / 约瑟夫·坎贝尔]]'s influence easiest to see. The episode says [[StarWars|Star Wars]] drew heavily on Campbell's [[HeroJourneyNarrative]] and that Lucas later invited Campbell to see the films.
+George Lucas is the creator associated with [[StarWars|Star Wars]], Campbellian popular myth, historically composite science fiction, [[Lucasfilm]], and the computer-graphics group that became [[Pixar]].
 
-The point is not that every modern adventure consciously copies Campbell. Lucas works in the source as the clear influence case beside looser examples from fantasy, superhero stories, animation, wuxia, and science fiction where similar structures may be deliberate, inherited, or simply intuitive.
+## Current Profile
 
-[[disney-the-renaissance-and-the-empire-1]] adds Lucas as a company-builder and technology source. The episode says the Lucasfilm computer graphics group became [[Pixar]] after Lucas sold it to [[SteveJobs]], and later [[BobIger]] bought [[Lucasfilm]] itself for [[TheWaltDisneyCompany]]. That makes Lucas a bridge between modern mythic IP and the computer-animation infrastructure that helped repair Disney's creative core.
+The wiki profile now treats Lucas as both storyteller and company-builder. His Star Wars work is the clearest source case for modern [[HeroJourneyNarrative]], but the historical episode complicates any single-influence story: Flash Gordon, westerns, medieval and Arthurian myth, biblical and Roman epics, Nazi spectacle, Cold War politics, and 1970s American distrust all contribute to the films' form and politics. His company history links that franchise-making role to the technical group later sold to [[SteveJobs]] and developed as Pixar, while Lucasfilm eventually became part of [[TheWaltDisneyCompany]].
 
-## Connections
-- [[StarWars]] - franchise example in the source.
-- [[JosephCampbell]], [[TheHeroWithAThousandFaces|《千面英雄》]], and [[Monomyth]] - framework branch.
-- [[HeroJourneyNarrative]] and [[HeroReturnWithBoon]] - narrative patterns tied to the Star Wars comparison.
-- [[TheMatrix|《黑客帝国》 / The Matrix]] - another modern popular-culture example used by the episode.
-- [[Lucasfilm]], [[Pixar]], [[SteveJobs]], [[BobIger]], and [[CreativeCoreRenewal]] - Disney sequel branch added by Acquired.
+## Key Characteristics
+
+- Creator of Star Wars and a major popularizer of Campbellian hero-journey storytelling.
+- Film-school storyteller combining pulp, western, mythic, cinematic, and political reference systems.
+- Uncertain retrospective narrator whose later interview explanations should not be treated as fixed proof of intention.
+- Company-builder connecting Lucasfilm, early computer graphics, Pixar, and Disney's later IP strategy.
+
+## Evidence
+
+- Mythic influence: [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] says Lucas drew heavily on Campbell and later invited him to see the films.
+- Composite historical imagination: [[412-romans-in-space-star-wars-dune-and-beyond-glt3832078172]] connects Lucas's work to Flash Gordon, Rome, Nazi imagery, Cold War politics, film epics, and post-Watergate distrust.
+- Company and technology role: [[disney-the-renaissance-and-the-empire-1]] links the Lucasfilm graphics group to Pixar and Lucasfilm's later acquisition by Disney.
+
+## Qualifications
+
+The sources do not establish that every resemblance was deliberate. The historical episode explicitly notes that Lucas gave varied interviews and may have retrofitted some explanations. Campbell's influence is clearer than a claim that the franchise is a direct Roman or Nixon allegory.
+
+## What Changed
+
+- Added the layered political and cinematic influences behind Star Wars.
+- Qualified retrospective statements about authorial intention.
+- Distinguished Roman memory as one source among several rather than the franchise's master key.
+
+## Relationships
+
+- [[StarWars]] - franchise Lucas created.
+- [[JosephCampbell]] - comparative-mythology influence associated with Lucas's storytelling.
+- [[HistoricalCompositeAllegory]] - framework for the films' layered historical signals.
+- [[RomanPoliticalMemoryInScienceFiction]] - Roman-republic and imperial branch of that mixture.
+- [[Lucasfilm]] - company founded by Lucas and later acquired by Disney.
+- [[Pixar]] - company descended from Lucasfilm's computer-graphics group.
+- [[SteveJobs]] - buyer of the graphics group that became Pixar.
+- [[TheWaltDisneyCompany]] - later owner of Lucasfilm.
