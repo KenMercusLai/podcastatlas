@@ -11,7 +11,8 @@ sources:
   - vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5
   - vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43
   - vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18
-last_updated: 2026-09-26
+  - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,6 +38,8 @@ VOL.105 adds her trainee and supervisor perspective. She describes having combin
 
 VOL.101 adds her weight-management safety role. She separates medical need from appearance dissatisfaction, asks listeners to investigate causes before choosing a method, and uses ICU cases of exertional muscle breakdown and severe malnutrition to show how restriction and exercise can cross from self-management into organ failure. Her framework does not reject medication or surgery, but places each intervention behind indication, contraindication, monitoring, and maintenance rather than celebrity imitation or rapid scale loss.
 
+VOL.100 adds an ICU-emergence perspective. She links hallucinations and delirium during lighter sedation or awakening to medication, severe illness, surgery, prolonged treatment, lack of familiar orientation, and ambiguous environmental cues, while treating the patient's frightening experience as something to explain rather than mock or supernaturalize.
+
 ## Key Characteristics
 - Explains hantavirus through subtype, geography, host reservoir, transmission route, and clinical syndrome, distinguishing localized outbreak risk from broad community-transmission fear.
 - Connects public medical education to concrete prevention and lifestyle behavior, from rodent-safe cleanup to low-friction aerobic activity, moderate eating, and a safety boundary against rapid-loss imitation.
@@ -44,7 +47,7 @@ VOL.101 adds her weight-management safety role. She separates medical need from 
 - Frames ICU as time- and organ-support for acute, potentially reversible disease rather than a terminal label, while distinguishing comfort-focused care in irreversible terminal decline.
 - Connects acute survival to rehabilitation, ordinary function, and patient-defined quality of life.
 - Explains how ICU teams reconstruct missing history from relatives, tests, and clinical clues when the patient cannot communicate.
-- Connects narrative medicine, reassurance, touch, and explanation to vulnerable patients while extending the same humane stance to trainees under clinical and academic strain.
+- Connects narrative medicine, reassurance, touch, orientation, and explanation to vulnerable patients and interprets ICU hallucination or delirium through medication, illness, and environment while keeping anecdotal “mystical” stories outside clinical evidence; she extends the same humane stance to trainees under clinical and academic strain.
 
 ## Evidence
 - Public-health framing: [[vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng]] has 子涵医生 classify the cruise-ship event as serious for exposed people but low as a global population threat.
@@ -58,16 +61,14 @@ VOL.101 adds her weight-management safety role. She separates medical need from 
 - End-of-life distinction: [[vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5]] has 子涵医生 use ICU experience and 《最好的告别》 to distinguish active support for reversibility from comfort-focused terminal care.
 - Training and supervision: [[vol-105-beiju-guipeisheng-buzhi-lunweile-lianjia-laodongli-he-7-wei-yisheng-jiepo-guipei-libi-deshi-lgutjxt-7vqzecklqyxe_osyzr43]] has 子涵老师 connect her combined professional-master's and residency experience with exhausting work, difficult teaching environments, pressure-release practices, and a later commitment to making ICU rotation educational.
 - Weight-management risk: [[vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18]] has 尹子涵 distinguish medical need from appearance anxiety, explain risk across restriction, abrupt exercise, semaglutide, liposuction, and bariatric surgery, and connect severe muscle injury and malnutrition to ICU care.
+- ICU emergence and delirium: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] has 子涵 explain hallucination and delirium during recovery through medication, trauma, prolonged care, family absence, and misread environmental objects.
 
 ## Qualifications
 The wiki has no independent biographical evidence for 尹子涵 beyond these episode notes. VOL.118 supplies the full name, attending-physician title, and Peking University Shenzhen Hospital affiliation, strengthening the linkage to sources that call her 子涵医生, 子涵老师, or 子涵, but the credentials remain source-scoped. Her training recollection cannot establish typical workload, mental-health outcomes, or teaching quality across programs. Her comments are public education, not individualized diagnosis, treatment, prognosis, ICU admission, rehabilitation, cleaning, vaccination, travel, infectious-disease, nephrology, pulmonary, rheumatology, history-taking, privacy, insurance, emergency-care, exercise, nutrition, fasting, eating-disorder, medication, surgical, weight-management, occupational-health, or crisis guidance. VOL.101's March 2024 semaglutide approval and dosing statements are historical source claims rather than current prescribing guidance.
 
 ## What Changed
-- Added her assessment-before-intervention and rapid-weight-loss safety role.
-- Connected exertional muscle breakdown and severe malnutrition to her ICU escalation frame.
-- Added her reading-led explanation of comfort-focused terminal care.
-- Clarified her boundary between ICU support for reversible illness and treatment limitation in irreversible decline.
-- Added the continuity between her own overloaded training experience and her later supervision of ICU trainees.
+- Added ICU hallucination and delirium interpretation during lighter sedation and awakening.
+- Connected orientation and post-event explanation to humane critical-care recovery.
 
 ## Relationships
 - [[ZheBingShuoLaiHuaChang]] - show where she appears as medical guest.
@@ -91,3 +92,4 @@ The wiki has no independent biographical evidence for 尹子涵 beyond these epi
 - [[MedicalTraineePsychosocialSafety]] - pressure-recognition and support boundary reinforced by her account.
 - [[RapidWeightLossSafetyBoundary]] - cross-method safety frame she develops through restriction, exercise, medication, procedure, and ICU examples.
 - [[LifestyleWeightManagement]] - sustainable body-composition and maintenance frame reinforced by her personal routine.
+- [[PostAnesthesiaRecoverySafety]] - delirium, hallucination, orientation, and recovery boundary she reinforces from ICU practice.

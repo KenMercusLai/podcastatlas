@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！](sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt.md) — 这病说来话长 roundtable on operating-room privacy, anesthesia and ICU recovery, perioperative pain control, MRI object screening, and gastrointestinal foreign-body safety.
 - [424. Carthage vs. Rome: Total War (Part 4)](sources/424-carthage-vs-rome-total-war-part-4-glt9312780357.md) — The Rest Is History on the First Punic War, Roman naval adaptation and persistence, Carthaginian fiscal pressure, the Mercenary War, Sardinia, and Hamilcar's turn to Spain.
 - [AMA #16: Sleep, Vertigo, TBI, OCD, Tips for Travelers, Gut-Brain Axis & More](sources/ama-16-sleep-vertigo-tbi-ocd-tips-for-travelers-gut-brain-axis-more-scim8512997965.md) — Huberman Lab subscriber AMA on contextual sleep assessment, travel clock-shifting, vertigo, brain-injury and OCD boundaries, NSDR, biomarkers, gut health, and oral care.
 - [425. The History of Chocolate](sources/425-the-history-of-chocolate-glt9203655246.md) — The Rest Is History on cacao's ritual and beverage past, colonial commodity chains, solid-chocolate technology, Quaker enterprise, Bournville, and mass consumption.
@@ -13785,6 +13786,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Perioperative Pain Control / 围手术期疼痛控制](concepts/PerioperativePainControl.md) — patient-reported, anticipatory, monitored analgesia and agency around procedures.
+- [Gastrointestinal Foreign Body Escalation / 消化道异物升级处置](concepts/GastrointestinalForeignBodyEscalation.md) — prevention and timely-care boundary for swallowed and rectally retained objects.
 - [First Punic War / 第一次布匿战争](concepts/FirstPunicWar.md) — Roman-Carthaginian war synthesized through Sicilian escalation, naval learning, attrition, finance, manpower, and political endurance.
 - [Mercenary War / 雇佣兵战争](concepts/MercenaryWar.md) — Carthaginian postwar fiscal and demobilization crisis that becomes organized rebellion and reciprocal atrocity.
 - [Circadian Travel Adaptation](concepts/CircadianTravelAdaptation.md) — Flexible travel clock-shifting through coordinated light, wake time, activity, meals, caffeine, social cues, and evening darkness.

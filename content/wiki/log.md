@@ -4,6 +4,10 @@ Append-only chronological record of all operations.
 
 Format: `## [YYYY-MM-DD] <operation> | <title>`
 
+## [2026-09-27] ingest | VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！
+
+Added source `vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt`; created `PerioperativePainControl` and `GastrointestinalForeignBodyEscalation`; and updated `PerioperativeAnesthesiaSafety`, `PostAnesthesiaRecoverySafety`, `AnesthesiaDrugMythBoundary`, `MagneticResonanceSafetyAndAppropriateness`, `GenitourinaryForeignBodyEscalation`, `DongXintong`, and `ZihanDoctor` from their complete bounded source sets. Core synthesis: awkward or frightening hospital experiences become safer when privacy, explanation, anticipatory pain control, orientation, MRI object screening, product design, and timely professional care replace shame, toughness, or spectacle. No settled contradiction found. “Mystical” stories and similarities between hallucinations remain anecdotal rather than causal evidence, while drug effects, pain protocols, MRI compatibility, foreign-body removal, and emergency thresholds remain source-scoped public education. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
 ## [2026-09-26] ingest | How to Enhance Focus and Improve Productivity | Dr. Cal Newport
 
 Added source `how-to-enhance-focus-and-improve-productivity-dr-cal-newport-scim6504498504`; created `CalNewport`, `DeepWorkPractice`, `SlowProductivity`, `PseudoProductivity`, `HyperactiveHiveMind`, `DigitalMinimalism`, and `MultiscaleProductivityPlanning`; and updated `TaskSwitchingResidue` and `WIPLimitPersonalProductivity` from their complete bounded source sets. Core synthesis: high-quality cognitive work depends on protected attention, calibrated practice, limited active commitments, multiscale planning, recovery, meaningful offline replacement, and explicit collaboration design rather than visible busyness or constant responsiveness. No settled contradiction found. Flow is distinguished from deliberate practice; device-induced distraction is not treated as clinical ADHD; and youth-access ages, concentration estimates, meeting-growth figures, and neuroscience explanations remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
@@ -22998,6 +23002,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-26] ingest | 424. Carthage vs. Rome: Total War (Part 4)
 
 Added source `424-carthage-vs-rome-total-war-part-4-glt9312780357`; created `FirstPunicWar` and `MercenaryWar`; and updated `Carthage`, `HamilcarBarca`, `RomanRepublic`, `HannibalBarca`, the canonical index, and overview from their complete bounded source sets. Core synthesis: Rome's alliance-backed manpower, naval learning, replacement capacity, elite finance, and refusal to negotiate eventually overcome Carthaginian sea power, while Carthage's dependence on access, cash, and paid troops turns defeat into a violent demobilization crisis. The source tension over Hamilcar's role in the peace is resolved by distinguishing authorization from Gisco's personal negotiation; Hannibal's oath remains qualified as later ancient tradition despite this episode's factual presentation. Exact forces, losses, inventions, atrocities, dialogue, motives, and Flaubert-mediated scenes remain source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-27] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-27] lint | Wiki health check
 

@@ -4,7 +4,8 @@ type: concept
 tags: [healthcare, urology, emergency-care, medical-literacy]
 sources:
   - vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y
-last_updated: 2026-09-05
+  - vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt
+last_updated: 2026-09-27
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,6 +19,8 @@ Genitourinary foreign body escalation is the safety boundary that objects insert
 
 The concept also captures the shame-management side of emergency care. Urethral and rectal foreign-body cases may be embarrassing, but delay makes the medical problem worse, especially if rectal injury perforates bowel.
 
+VOL.100 adds object-design and removal-risk detail. Rectal objects may be fragile, smooth, difficult to grasp, or shaped in ways that make improvised extraction more dangerous. The clinical boundary is therefore prevention, reputable purpose-designed products, honest disclosure, and timely professional removal rather than entertainment at the patient's expense.
+
 ## Key Claims
 - Poor urination from prostate enlargement or other obstruction should not be self-treated with wire, grass roots, or other inserted objects.
 - A foreign body that enters the urethra or urinary tract can become stuck and may require procedural or surgical removal.
@@ -25,17 +28,19 @@ The concept also captures the shame-management side of emergency care. Urethral 
 - Rectal foreign bodies can become more serious if they pierce or damage bowel.
 - Embarrassment should not delay timely care because the risk is mechanical injury, infection, retention, or worse escalation.
 - Public education should give a clear care-seeking rule rather than treating these cases as comic anecdotes.
+- Object fragility and shape can increase breakage, entrapment, perforation, and removal difficulty.
 
 ## Evidence
 - Urethral object warning: [[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y]] recounts emergency cases involving objects placed into the urethra and states that patients should seek care rather than wait to urinate them out.
 - Obstruction misconception: [[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y]] says prostate-related difficult urination is not solved by inserting foreign objects.
 - Rectal escalation: [[vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y]] adds that rectal foreign bodies become more serious if they perforate bowel.
+- Object design and patient dignity: [[vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt|VOL.100]] discusses fragile and difficult-to-grasp rectal objects, urges reputable safety-designed products, and states that patient suffering should not become the joke.
 
 ## Counterevidence & Qualifications
 This concept is not an emergency medicine protocol and does not describe removal techniques, imaging choices, antibiotics, anesthesia, or legal/psychological handling. It captures the source's public safety boundary: retained foreign bodies require timely professional evaluation.
 
 ## What Changed
-- Created the concept from VOL.31's warning against urinary-obstruction self-treatment with foreign objects.
+- Added shape, fragility, removal difficulty, product design, and patient dignity to the retained-object boundary.
 
 ## Related Concepts
 - [[UrologicalSymptomTriage]] - difficult urination should be assessed clinically instead of self-instrumented.
@@ -43,3 +48,4 @@ This concept is not an emergency medicine protocol and does not describe removal
 - [[MedicalRiskManagement]] - severe low-probability harm justifies clear escalation.
 - [[DoctorPatientCommunication]] - shame-sensitive disclosure is necessary for safe care.
 - [[MedicalKnowledgeBoundary]] - public education can set escalation thresholds without giving procedural instructions.
+- [[GastrointestinalForeignBodyEscalation]] - broader swallowed and rectal foreign-body safety frame.

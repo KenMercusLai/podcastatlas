@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 8252
+wiki_total_pages: 8254
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "GarageDragonTest"
     title: "Garage Dragon Test"
     url: "/wiki/concepts/garagedragontest/"
+  - key: "GastrointestinalForeignBodyEscalation"
+    title: "Gastrointestinal Foreign Body Escalation / 消化道异物升级处置"
+    url: "/wiki/concepts/gastrointestinalforeignbodyescalation/"
   - key: "GazaDealImplementationGap"
     title: "Gaza Deal Implementation Gap"
     url: "/wiki/concepts/gazadealimplementationgap/"

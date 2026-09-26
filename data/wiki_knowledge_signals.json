@@ -8778,9 +8778,9 @@
       "url": "/wiki/entities/andystumpf/"
     },
     "AnesthesiaDrugMythBoundary": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -8795,9 +8795,16 @@
           "show": "这病说来话长",
           "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
           "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/anesthesiadrugmythboundary/"
     },
     "AngelOakSmokehouse": {
@@ -37891,9 +37898,9 @@
       "url": "/wiki/entities/dongxianeasternhan/"
     },
     "DongXintong": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -37922,9 +37929,16 @@
           "show": "这病说来话长",
           "title": "VOL.110善终是为了更好的活着！生老病死，6位医生视角怎么看？｜世界读书日",
           "url": "/wiki/sources/vol-110-shanzhong-shi-weile-genghao-de-huozhe-shenglaobingsi-6-wei-yisheng-shijiao-zenme-kan-shijie-dushuri-lklwhndplyk73rpqxuraocs4cii5/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/dongxintong/"
     },
     "DongXuanEasternHan": {
@@ -55367,6 +55381,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/gascony/"
     },
+    "GastrointestinalForeignBodyEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/gastrointestinalforeignbodyescalation/"
+    },
     "GauravKarna": {
       "episode_count": 1,
       "show_count": 1,
@@ -56393,9 +56423,9 @@
       "url": "/wiki/entities/gengyuwesternhan/"
     },
     "GenitourinaryForeignBodyEscalation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lpN3FHoZeJ2V-3oiJPakVKDX-R_Y [lpN3FHoZeJ2V-3oiJPakVKDX-R_Y].md",
@@ -56403,9 +56433,16 @@
           "show": "这病说来话长",
           "title": "VOL.31泌尿外科｜关于尿频、尿液黄、结石、男性前列腺的那些谣言及误区",
           "url": "/wiki/sources/vol-31-miniao-waike-guanyu-niaopin-niaoye-huang-jieshi-nanxing-qianliexian-de-yaoyan-ji-wuqu-lpn3fhozej2v-3oijpakvkdx-r-y/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/genitourinaryforeignbodyescalation/"
     },
     "GenitourinarySyndromeMenopauseCare": {
@@ -92213,9 +92250,9 @@
       "url": "/wiki/concepts/magicattentionmemorydesign/"
     },
     "MagneticResonanceSafetyAndAppropriateness": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lg-A6KjqU-S1lk8uu1FApb763XZq [lg-A6KjqU-S1lk8uu1FApb763XZq].md",
@@ -92223,9 +92260,16 @@
           "show": "这病说来话长",
           "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
           "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/magneticresonancesafetyandappropriateness/"
     },
     "MagnusTheGood": {
@@ -108280,9 +108324,9 @@
       "url": "/wiki/concepts/periodontalsystemichealthboundary/"
     },
     "PerioperativeAnesthesiaSafety": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -108311,9 +108355,16 @@
           "show": "这病说来话长",
           "title": "VOL.131医生请回答｜你如果隐瞒病史，医生真的不知道吗？",
           "url": "/wiki/sources/vol-131-yisheng-qing-huida-ni-ruguo-yinman-bingshi-yisheng-zhende-bu-zhidao-ma-lg-a6kjqu-s1lk8uu1fapb763xzq/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-23",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/perioperativeanesthesiasafety/"
     },
     "PerioperativeCircadianRecovery": {
@@ -108331,6 +108382,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/perioperativecircadianrecovery/"
+    },
+    "PerioperativePainControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
+        }
+      ],
+      "updated": "2026-09-27",
+      "url": "/wiki/concepts/perioperativepaincontrol/"
     },
     "PeripheralCommandExitStrategy": {
       "episode_count": 1,
@@ -111113,9 +111180,9 @@
       "url": "/wiki/concepts/post911counterterrorismarchitecture/"
     },
     "PostAnesthesiaRecoverySafety": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lj2X7wulCDfnv7bnH9dZOwcIWVrR [lj2X7wulCDfnv7bnH9dZOwcIWVrR].md",
@@ -111130,9 +111197,16 @@
           "show": "这病说来话长",
           "title": "VOL.158高嘉程：这肠胃镜非做不可吗？ft. Luffy医学频道&高贵FM",
           "url": "/wiki/sources/vol-158-gaojiacheng-zhe-changweijing-feizuo-bukema-ft-luffy-yixue-pindao-gaoguifm-lmifb8pnp9d-qs_ezkdzyijyutov/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-21",
+      "updated": "2026-09-27",
       "url": "/wiki/concepts/postanesthesiarecoverysafety/"
     },
     "PostApartheidStructuralInequality": {
@@ -164499,9 +164573,9 @@
       "url": "/wiki/entities/zibianliang/"
     },
     "ZihanDoctor": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
@@ -164558,9 +164632,16 @@
           "show": "这病说来话长",
           "title": "VOL.101别再拿明星说事儿了 ICU医生揭穿这些减肥毒招",
           "url": "/wiki/sources/vol-101-bie-zai-na-mingxing-shuoshier-le-icu-yisheng-jiechuan-zhexie-jianfei-duzhao-lpvfocagwyw5ahn49nt-yqkxom18/"
+        },
+        {
+          "episode_file": "lkOI2IZgvI4P7jJHPu8_svJl9fdT [lkOI2IZgvI4P7jJHPu8_svJl9fdT].md",
+          "key": "vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt",
+          "show": "这病说来话长",
+          "title": "VOL.100百期特别策划：聊了99期后才敢还原医院里这些刺激的真实事件！",
+          "url": "/wiki/sources/vol-100-baiqi-tebie-cehua-liaole-99-qi-hou-cai-gan-huanyuan-yiyuan-li-zhexie-ciji-de-zhenshi-shijian-lkoi2izgvi4p7jjhpu8_svjl9fdt/"
         }
       ],
-      "updated": "2026-09-26",
+      "updated": "2026-09-27",
       "url": "/wiki/entities/zihandoctor/"
     },
     "Zilu": {
