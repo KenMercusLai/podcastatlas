@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 8183
+wiki_total_pages: 8186
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1058,12 +1058,18 @@ wiki_pages:
   - key: "ClinicalOutcomeUncertainty"
     title: "Clinical Outcome Uncertainty / 临床结局不确定性"
     url: "/wiki/concepts/clinicaloutcomeuncertainty/"
+  - key: "ClinicalRoleOverload"
+    title: "Clinical Role Overload / 临床角色过载"
+    url: "/wiki/concepts/clinicalroleoverload/"
   - key: "ClinicalTrialContinuity"
     title: "Clinical Trial Continuity"
     url: "/wiki/concepts/clinicaltrialcontinuity/"
   - key: "ClinicalTrustBuilding"
     title: "Clinical Trust Building / 临床信任建立"
     url: "/wiki/concepts/clinicaltrustbuilding/"
+  - key: "ClinicianVulnerabilityAndSelfCare"
+    title: "Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护"
+    url: "/wiki/concepts/clinicianvulnerabilityandselfcare/"
   - key: "ClosedModelAPIMoatPressure"
     title: "Closed Model API Moat Pressure"
     url: "/wiki/concepts/closedmodelapimoatpressure/"

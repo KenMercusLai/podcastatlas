@@ -14739,6 +14739,10 @@
     "title": "Clinical Outcome Uncertainty / 临床结局不确定性",
     "url": "/wiki/concepts/clinicaloutcomeuncertainty/"
   },
+  "ClinicalRoleOverload": {
+    "title": "Clinical Role Overload / 临床角色过载",
+    "url": "/wiki/concepts/clinicalroleoverload/"
+  },
   "ClinicalTrialContinuity": {
     "title": "Clinical Trial Continuity",
     "url": "/wiki/concepts/clinicaltrialcontinuity/"
@@ -14746,6 +14750,10 @@
   "ClinicalTrustBuilding": {
     "title": "Clinical Trust Building / 临床信任建立",
     "url": "/wiki/concepts/clinicaltrustbuilding/"
+  },
+  "ClinicianVulnerabilityAndSelfCare": {
+    "title": "Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护",
+    "url": "/wiki/concepts/clinicianvulnerabilityandselfcare/"
   },
   "Clink": {
     "title": "Clink",
@@ -44275,6 +44283,10 @@
     "title": "Medical Billing and Coding Automation",
     "url": "/wiki/concepts/medicalbillingandcodingautomation/"
   },
+  "MedicalCreatorPlatformPressure": {
+    "title": "Medical Creator Platform Pressure / 医学创作者平台压力",
+    "url": "/wiki/concepts/medicalcreatorplatformpressure/"
+  },
   "MedicalDeviceClinicalValidation": {
     "title": "Medical Device Clinical Validation",
     "url": "/wiki/concepts/medicaldeviceclinicalvalidation/"
@@ -44666,6 +44678,10 @@
   "MenggeTiancaiBushou": {
     "title": "猛哥 / Mengge",
     "url": "/wiki/entities/menggetiancaibushou/"
+  },
+  "MengmengJiang": {
+    "title": "萌萌将 / Mengmeng Jiang",
+    "url": "/wiki/entities/mengmengjiang/"
   },
   "Mengniu": {
     "title": "蒙牛 / Mengniu",
@@ -80282,6 +80298,10 @@
   "liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp": {
     "title": "携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”",
     "url": "/wiki/sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp/"
+  },
+  "likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv": {
+    "title": "VOL.107躁狂？抑郁？网红急诊科医生的精神AB面",
+    "url": "/wiki/sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv/"
   },
   "lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb": {
     "title": "零跑汽车朱江明×罗永浩！零跑汽车十年：不会讲故事的人，如何卖成了第一",

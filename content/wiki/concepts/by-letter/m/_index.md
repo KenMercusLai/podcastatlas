@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 8183
+wiki_total_pages: 8186
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "MedicalBillingAndCodingAutomation"
     title: "Medical Billing and Coding Automation"
     url: "/wiki/concepts/medicalbillingandcodingautomation/"
+  - key: "MedicalCreatorPlatformPressure"
+    title: "Medical Creator Platform Pressure / 医学创作者平台压力"
+    url: "/wiki/concepts/medicalcreatorplatformpressure/"
   - key: "MedicalDeviceClinicalValidation"
     title: "Medical Device Clinical Validation"
     url: "/wiki/concepts/medicaldeviceclinicalvalidation/"

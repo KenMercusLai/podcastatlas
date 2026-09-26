@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.107躁狂？抑郁？网红急诊科医生的精神AB面](sources/likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv.md) — 这病说来话长 episode on clinician vulnerability, 住院总 role overload, mood and self-diagnosis boundaries, medical-creator pressure, and ICU recovery.
 - [GUEST SERIES | Dr. Matt Walker: Protocols to Improve Your Sleep](sources/guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim2515095663.md) — Huberman Lab sleep-series episode on regularity, light, temperature, caffeine, substances, CBT-I tools, sleep anxiety, and experimental enhancement technologies.
 - [439. Disco: Sex and Race in Seventies America](sources/439-disco-sex-and-race-in-seventies-america-glt8206137792.md) — The Rest Is History on disco's underground formation, music technology, mixed club culture, commercial mainstreaming, backlash, and afterlife.
 - [Middlegarchs are the new Oligarchs](sources/middlegarchs-are-the-new-oligarchs-32587514.md) — Planet Money on wealthy pass-through-business owners, top-income growth, entrepreneurship, tax advantages, legislative representation, and locally protected markets.
@@ -2866,6 +2867,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Protocols to Strengthen & Pain Proof Your Back](sources/protocols-to-strengthen-pain-proof-your-back-scim8264963647.md) — Huberman Lab solo episode on mechanism-sensitive back care, the McGill Big Three, whole-body support, movement awareness, and clinical escalation boundaries.
 
 ## Entities
+- [萌萌将 / Mengmeng Jiang](entities/MengmengJiang.md) — Emergency physician and medical creator discussing 住院总 work, clinician vulnerability, emotional fluctuation, and online visibility.
 - [David Mancuso](entities/DavidMancuso.md) — New York host whose Love Saves the Day and Loft parties helped form disco's mixed club culture.
 - [Francis Grasso](entities/FrancisGrasso.md) — Sanctuary DJ associated with obscure selection, beat mixing, slip cueing, and continuous sets.
 - [Donna Summer](entities/DonnaSummer.md) — Singer whose Giorgio Moroder collaborations exemplify disco's vocal and electronic possibilities.
@@ -13693,6 +13695,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Lord Elgin](entities/LordElgin.md) — British diplomat at the center of Byron's cultural-plunder attack and Hobhouse's preservation counterargument.
 
 ## Concepts
+- [Clinician Vulnerability and Self-Care / 医护脆弱性与自我照护](concepts/ClinicianVulnerabilityAndSelfCare.md) — Medical expertise does not remove clinicians' bodily limits, fear, help needs, or patient-side learning.
+- [Clinical Role Overload / 临床角色过载](concepts/ClinicalRoleOverload.md) — Accumulation of care, teaching, administration, scheduling, coordination, and conflict work in one clinician role.
+- [Medical Creator Platform Pressure / 医学创作者平台压力](concepts/MedicalCreatorPlatformPressure.md) — Identity, scrutiny, harassment, imitation, and emotional costs attached to visible public medical education.
 - [Disco](concepts/Disco.md) — Dance-music and club culture joining DJ practice, mixed nightlife, studio production, mass commercialization, and later inheritance.
 - [Continuous DJ Mixing](concepts/ContinuousDJMixing.md) — Selection, cueing, beat alignment, and transitions sustaining an uninterrupted dance-floor experience.
 - [Disco Backlash](concepts/DiscoBacklash.md) — Reaction combining musical fatigue with rock identity, generational change, and anxieties about race, sexuality, gender, and masculinity.

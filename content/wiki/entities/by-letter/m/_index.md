@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 10812
+wiki_total_pages: 10813
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1727,6 +1727,9 @@ wiki_pages:
   - key: "MoChen"
     title: "莫晨 / Mo Chen"
     url: "/wiki/entities/mochen/"
+  - key: "MengmengJiang"
+    title: "萌萌将 / Mengmeng Jiang"
+    url: "/wiki/entities/mengmengjiang/"
   - key: "MengJia"
     title: "蒙嘉 / Meng Jia"
     url: "/wiki/entities/mengjia/"

@@ -22742,3 +22742,11 @@ Added source `guest-series-dr-matt-walker-protocols-to-improve-your-sleep-scim25
 ## [2026-09-26] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-26] ingest | VOL.107躁狂？抑郁？网红急诊科医生的精神AB面
+
+Added source `likqsiszm7z-evaz5ajxerxzdliv-likqsiszm7z-evaz5ajxerxzdliv`; created `MengmengJiang`, `ClinicianVulnerabilityAndSelfCare`, `ClinicalRoleOverload`, and `MedicalCreatorPlatformPressure`; and updated the canonical index and overview. Core synthesis: medical expertise does not remove bodily fear or care needs, visible professional energy does not prove private wellbeing, and public medical education adds identity, scrutiny, harassment, and copying costs to clinical labor. No settled contradiction found. The episode's “双向” language does not establish a psychiatric diagnosis, while the guest's acute-health interpretation, clinical anecdotes, ICU transfer figure, workplace practices, and online disputes remain self-reported or source-scoped. The canonical `wiki/overview.md` was updated during normal ingest; downstream synthesis refresh only reads it.
+
+## [2026-09-26] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
